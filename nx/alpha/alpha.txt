@@ -4667,7 +4667,6 @@ aefald
 aefaldy
 armatured
 aljoba
-antrostomus
 armet
 aggravates
 arthriticine
@@ -24090,6 +24089,7 @@ abdali
 autoecic
 autonavigators
 accumulations
+antrostomus
 accusatrix
 approximable
 autoecism
