@@ -1303,7 +1303,6 @@ attemptless
 aromatic
 aggregant
 acaudate
-aberdonian
 aluminaphone
 antarchism
 adtevac
@@ -23129,6 +23128,7 @@ anthroponym
 areopagy
 astonishingness
 antinode
+aberdonian
 attitudinize
 authoritarianisms
 attemptive
