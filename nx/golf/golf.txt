@@ -979,7 +979,6 @@ genre
 galliferous
 gilgamesh
 grouting
-gagmen
 ganched
 gonotokont
 goner
@@ -8070,6 +8069,7 @@ granitite
 geomagnetism
 ghain
 genteelish
+gagmen
 gesning
 gentlewoman
 granivore
