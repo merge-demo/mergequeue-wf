@@ -6838,7 +6838,6 @@ fructifier
 forger
 foliaged
 firetower
-fustigator
 fussify
 flipjack
 fourhanded
@@ -8908,6 +8907,7 @@ falciparum
 forayer
 fartherance
 filthify
+fustigator
 filister
 founded
 foutra
