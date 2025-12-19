@@ -5741,6 +5741,7 @@ catching
 carolean
 cannon
 catchlight
+cellaress
 cultivatability
 cornein
 clockcase
@@ -6806,7 +6807,6 @@ cella
 cellarage
 cellared
 chamoix
-cellaress
 chanceable
 caudal
 cellars
