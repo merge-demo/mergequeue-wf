@@ -829,7 +829,6 @@ epop
 exulate
 ectiris
 etamines
-ectocarpus
 eriophorum
 eosinophil
 ectocommensal
@@ -11309,6 +11308,7 @@ earthian
 ethicals
 emblemology
 englad
+ectocarpus
 episcoparian
 epoche
 excoriator
