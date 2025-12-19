@@ -3491,7 +3491,6 @@ fury
 ficins
 fordays
 floorhead
-formuliser
 forpined
 finnic
 fluctuated
@@ -8267,6 +8266,7 @@ freud
 forgetfulness
 forgett
 faits
+formuliser
 feldspars
 fistulated
 fulltime
