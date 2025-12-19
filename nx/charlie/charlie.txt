@@ -12383,7 +12383,6 @@ chromatophilic
 changemaker
 chromatophilous
 chromatophobia
-chromatophore
 carpel
 chromatophoric
 canthectomy
@@ -30962,6 +30961,7 @@ culverwort
 cum
 cants
 cumay
+chromatophore
 currack
 cumal
 cytozoic
