@@ -4253,7 +4253,6 @@ danseuses
 deltohedron
 dogvanes
 delubra
-deluce
 delude
 didunculus
 dishonored
@@ -7673,6 +7672,7 @@ daddock
 depredable
 deviation
 dementias
+deluce
 deviationism
 duodecagon
 diting
