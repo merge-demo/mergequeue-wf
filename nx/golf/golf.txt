@@ -3402,7 +3402,6 @@ gnatling
 gorkun
 galbe
 glaciable
-gyroscopic
 gainor
 guttulate
 gymnoceratous
@@ -6686,6 +6685,7 @@ garmentless
 giantism
 gastroscopies
 graptolithida
+gyroscopic
 gallflies
 gimlets
 gayway
