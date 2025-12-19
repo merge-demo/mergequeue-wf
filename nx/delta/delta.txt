@@ -6967,6 +6967,7 @@ dipleuric
 desertness
 disqualifying
 distills
+decadic
 demonisms
 disshroud
 despisingly
@@ -9384,7 +9385,6 @@ dely
 diadumenus
 decrete
 durabilities
-decadic
 discontentive
 dissoluble
 diffusate
