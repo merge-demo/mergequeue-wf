@@ -619,6 +619,7 @@ epeus
 ey
 echeneidoid
 enchant
+ephesine
 enneaeteric
 empyreumatic
 epipaleolithic
@@ -9044,7 +9045,6 @@ euchring
 epicardiac
 epiphyll
 entria
-ephesine
 emlen
 endothermic
 exocyclic
