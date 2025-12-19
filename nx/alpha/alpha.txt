@@ -748,6 +748,7 @@ abrase
 accersitor
 aswail
 admetus
+approves
 abrash
 abrasing
 aeromechanics
@@ -15587,7 +15588,6 @@ armadillo
 ailurophile
 aquage
 altrose
-approves
 assumpt
 antimoralistic
 accrescence
