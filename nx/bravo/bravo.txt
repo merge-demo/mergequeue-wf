@@ -9587,7 +9587,6 @@ bandlimits
 bisectors
 bisectrices
 busybodyness
-bullheadedness
 bisects
 bottleflower
 banalize
@@ -10046,6 +10045,7 @@ bilander
 boomerang
 bizarreness
 blacklisting
+bullheadedness
 burys
 bradynosus
 boudoiresque
