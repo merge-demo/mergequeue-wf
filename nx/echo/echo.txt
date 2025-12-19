@@ -5769,7 +5769,6 @@ engiscope
 enigmatization
 engystomatidae
 enatic
-etherol
 extinguish
 ephorus
 enticers
@@ -10276,6 +10275,7 @@ ergal
 extravasate
 eulogium
 excipulum
+etherol
 experimentize
 electronography
 erump
