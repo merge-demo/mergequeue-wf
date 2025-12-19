@@ -6193,7 +6193,6 @@ caucasians
 carcan
 caucasic
 colombo
-chinantecan
 cauch
 cauchillo
 chester
@@ -15335,6 +15334,7 @@ critter
 calluses
 chronographical
 clanjamfrey
+chinantecan
 chalcotript
 crosstoes
 clanjamphrey
