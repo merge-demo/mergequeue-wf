@@ -3252,7 +3252,6 @@ acupuncturator
 acupuncture
 abonne
 acupunctured
-armagnacs
 acupuncturing
 antivenomous
 acupuncturist
@@ -19266,6 +19265,7 @@ auditives
 anthocyan
 accoyed
 antepasts
+armagnacs
 aquarii
 arenariae
 addressed
