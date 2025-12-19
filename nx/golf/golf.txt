@@ -3653,7 +3653,6 @@ gaffkya
 genotypicity
 ghettoes
 grubbing
-grisliness
 ghettoizing
 glaver
 ghi
@@ -6874,6 +6873,7 @@ gymsia
 gluteoinguinal
 gauntlets
 glucoprotein
+grisliness
 geaster
 galeas
 genitival
