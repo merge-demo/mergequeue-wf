@@ -5502,6 +5502,7 @@ gimmer
 goods
 gentlemen
 goodyera
+glossoptosis
 goldilocks
 glisten
 guttering
@@ -5759,7 +5760,6 @@ goldweed
 grecizes
 geometrical
 gunfighter
-glossoptosis
 gloomth
 gradin
 goings

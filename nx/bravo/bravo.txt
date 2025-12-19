@@ -7640,6 +7640,7 @@ burgling
 bewraps
 basilisks
 belesprit
+bogieman
 bewrapt
 bewreck
 befreckle
@@ -15982,7 +15983,6 @@ bandless
 biffy
 bronchodilator
 brideship
-bogieman
 bronchoegophony
 boudin
 bronchogenic
