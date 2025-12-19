@@ -16207,7 +16207,6 @@ caudexes
 clinger
 crankness
 crossbeak
-clingfishes
 contravenes
 clingy
 clinginess
@@ -25596,6 +25595,7 @@ corporate
 christenmas
 corporately
 corporateness
+clingfishes
 corporationer
 corporationism
 countergift
