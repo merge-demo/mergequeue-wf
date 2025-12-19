@@ -14058,6 +14058,7 @@ dialist
 dropman
 distribution
 decretum
+directive
 dragnets
 dryopithecinae
 dispensable
@@ -16925,7 +16926,6 @@ doless
 dzerin
 dianthaceae
 dyspeptics
-directive
 disbelieve
 drearies
 danseuse
