@@ -694,7 +694,6 @@ fanatico
 fleshlike
 forzandos
 fobs
-familism
 firebolted
 farmstead
 forenotion
@@ -6494,6 +6493,7 @@ forthcoming
 festschrifts
 fakes
 flustery
+familism
 filiciform
 fondnesses
 fario
