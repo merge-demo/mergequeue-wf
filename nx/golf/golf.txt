@@ -3193,7 +3193,6 @@ glossiness
 governmentalist
 geotilla
 grigs
-geotropy
 guardant
 glossolabiolaryngeal
 gametoid
@@ -4644,6 +4643,7 @@ galvanise
 gorillaship
 goatbush
 gammarid
+geotropy
 gentility
 gunlocks
 gaudy
