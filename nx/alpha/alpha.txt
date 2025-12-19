@@ -3618,7 +3618,6 @@ anomaloscope
 adenoacanthoma
 adenocarcinomas
 adenochondroma
-antipellagric
 adenochrome
 abnumerable
 allopathies
@@ -20033,6 +20032,7 @@ artus
 acervatim
 azonal
 auspices
+antipellagric
 aculeate
 archaeohippus
 arretez
