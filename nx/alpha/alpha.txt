@@ -6076,7 +6076,6 @@ askile
 aminopeptidase
 aminocaproic
 airproofed
-apothegmatic
 anostosis
 axumite
 availment
@@ -22135,6 +22134,7 @@ ancestries
 anthracosilicosis
 asthamatic
 antimacassar
+apothegmatic
 astheny
 achroacyte
 ambitionless
