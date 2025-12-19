@@ -1135,6 +1135,7 @@ baisemain
 besmears
 benedictine
 bushwa
+bhindi
 brunets
 baiters
 banqueter
@@ -7733,7 +7734,6 @@ bhikshu
 bullan
 breakover
 brocard
-bhindi
 bowstave
 bhishti
 bhistie
