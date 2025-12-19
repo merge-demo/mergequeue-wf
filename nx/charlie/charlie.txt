@@ -8793,6 +8793,7 @@ chappy
 chappies
 cantle
 collop
+commentary
 chappin
 chartlet
 competes
@@ -24685,7 +24686,6 @@ constructionism
 capsuled
 copperheadism
 coppering
-commentary
 christie
 copperize
 copens
