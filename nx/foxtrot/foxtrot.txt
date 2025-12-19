@@ -3483,7 +3483,6 @@ formboard
 figo
 favillae
 fumaroid
-fibbed
 figshell
 foe
 flankard
@@ -9282,6 +9281,7 @@ fungologist
 fumarine
 foldwards
 fogrum
+fibbed
 foldboats
 fistulization
 frowsiness
