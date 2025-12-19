@@ -9720,7 +9720,6 @@ gorfly
 gascromh
 gundygut
 gastrogenic
-grievant
 goldeneyes
 goodwills
 gargantuan
@@ -9764,6 +9763,7 @@ gtt
 guidon
 gagaku
 gymnastic
+grievant
 gasworks
 gluttonizing
 gradino
