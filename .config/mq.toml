@@ -9,15 +9,15 @@ name = "trunk bot"
 email = "bot@trunk.io"
 
 [test]
-flake_rate = 0.01
+flake_rate = 0.1
 # how long test should spin for (can be described as 10s, 7m, 1hr)
-sleep_for = "10m"
+sleep_for = "14m"
 
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 10         # target number of pull requests per hour
-run_generate_for = "30 minutes"
+requests_per_hour = 20         # target number of pull requests per hour
+run_generate_for = "50 minutes"
 change_code_path = "nx"
 
 
