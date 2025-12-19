@@ -5373,7 +5373,6 @@ castellanies
 castellano
 castellans
 cinerararia
-chaufer
 castellate
 castellation
 castellatus
@@ -13439,6 +13438,7 @@ cyesis
 cif
 countergage
 camerawork
+chaufer
 cig
 cigarette
 cystenchyma
