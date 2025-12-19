@@ -6583,7 +6583,6 @@ grabblers
 gesture
 gambeson
 grummets
-girons
 gimmerpet
 gambas
 guazzo
@@ -8529,6 +8528,7 @@ gymnoderinae
 gozzan
 gramineae
 graverobbing
+girons
 ghettoization
 gravers
 gigsmen

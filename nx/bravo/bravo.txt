@@ -602,7 +602,6 @@ bacterin
 beggiatoa
 bacteriochlorophyll
 bacteriocin
-broomsticks
 bostangi
 bastiment
 bacteriodiagnosis
@@ -1563,6 +1562,7 @@ backrushes
 bifidity
 beknighting
 brummagem
+broomsticks
 ballyhoo
 ballyrags
 bioelectrogenetic
