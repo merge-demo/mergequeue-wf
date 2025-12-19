@@ -2995,7 +2995,6 @@ emony
 equiprobabilism
 eliminated
 ectopia
-elymus
 ergotamine
 epitomes
 enallage
@@ -8980,6 +8979,7 @@ encephalin
 eleaticism
 endopleurite
 erratics
+elymus
 erythrocytes
 exhilarant
 explorative
