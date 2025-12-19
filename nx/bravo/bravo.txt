@@ -4594,6 +4594,7 @@ blared
 bylina
 banters
 bowsprit
+befeather
 bigaroons
 bilker
 baloskionaceae
@@ -5061,7 +5062,6 @@ biogeography
 bibracteolate
 bemas
 bewith
-befeather
 becoming
 beeswax
 bodger
