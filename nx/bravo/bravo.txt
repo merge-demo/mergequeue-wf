@@ -2740,7 +2740,6 @@ bubastite
 backward
 beltline
 bullbat
-bismutoplagionite
 barolo
 bm
 bicolored
@@ -10582,6 +10581,7 @@ bulwand
 brockish
 basilard
 bouk
+bismutoplagionite
 bajada
 bobache
 braless
