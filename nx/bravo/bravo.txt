@@ -1198,7 +1198,6 @@ bootloader
 bakeries
 budling
 bakerly
-brownstones
 bakersfield
 bakes
 bakeshop
@@ -12385,6 +12384,7 @@ bergeres
 beele
 boonk
 backtack
+brownstones
 bombonne
 bombora
 bawls
