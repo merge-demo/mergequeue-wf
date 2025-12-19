@@ -2626,6 +2626,7 @@ genethliacal
 gabelled
 gruesomest
 genetta
+gametophyte
 grendel
 geomorphist
 gypsyweed
@@ -8514,7 +8515,6 @@ geomedical
 go
 goshdarn
 gramaphone
-gametophyte
 ganglioblast
 gyrophoric
 gulden
