@@ -2679,7 +2679,6 @@ decomposure
 digne
 dogwatches
 decompoundable
-diffractional
 decompoundly
 downstairs
 desmoma
@@ -8736,6 +8735,7 @@ downright
 dinting
 defocusses
 deescalations
+diffractional
 diatomist
 dover
 dot
