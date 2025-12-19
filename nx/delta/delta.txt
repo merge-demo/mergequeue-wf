@@ -1604,7 +1604,6 @@ deafened
 doorjambs
 dummered
 dawe
-dicyanid
 destruct
 dunkirker
 deafly
@@ -1850,6 +1849,7 @@ debellator
 darapti
 drugmaker
 decriminalize
+dicyanid
 degeneratively
 defeudalize
 debilitates
