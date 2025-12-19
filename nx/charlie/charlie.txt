@@ -5924,6 +5924,7 @@ catha
 capillatus
 convolutionary
 cathay
+charruan
 cathayan
 cathar
 cathari
@@ -14109,7 +14110,6 @@ circuitman
 chimerically
 constitutionality
 caldarium
-charruan
 crystallophobia
 circuits
 clochan
