@@ -313,6 +313,7 @@ foaming
 filar
 flexuosity
 fraternation
+forespent
 feints
 fag
 feint
@@ -7832,7 +7833,6 @@ fowlerite
 fleshen
 fritterers
 foreordinate
-forespent
 finns
 filterman
 furiousity
