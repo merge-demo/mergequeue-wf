@@ -4861,7 +4861,6 @@ carriagesmith
 cinchonicin
 carriageway
 carryall
-carrick
 carrycot
 chromatoplasm
 carried
@@ -18116,6 +18115,7 @@ coenomonoecism
 coenospecies
 coenospecifically
 chicory
+carrick
 coenosteum
 cacopharyngia
 coenotype
