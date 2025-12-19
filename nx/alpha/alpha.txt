@@ -2900,7 +2900,6 @@ alienist
 across
 aubrietas
 anguilliform
-alvus
 allege
 ameristic
 alice
@@ -15937,6 +15936,7 @@ asking
 adenolipoma
 acciaccatura
 agalwood
+alvus
 aporiae
 antipsalmist
 acidimeter
