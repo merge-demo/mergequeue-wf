@@ -5451,7 +5451,6 @@ formulator
 famished
 foresummer
 feridjee
-furfuration
 fanatic
 fretsome
 fleeter
@@ -9506,6 +9505,7 @@ fentanyl
 freaked
 fart
 forechoir
+furfuration
 filicinian
 frontomaxillary
 freaky
