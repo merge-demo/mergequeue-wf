@@ -1002,6 +1002,7 @@ filmsets
 foreshop
 fulmina
 fucuses
+femes
 foreplan
 formate
 foreorder
@@ -9687,7 +9688,6 @@ filch
 filosofe
 fanit
 flied
-femes
 feaking
 fruitgrower
 freith
