@@ -3216,7 +3216,6 @@ blowzily
 basidiospore
 basidiosporous
 buckbush
-batiked
 bodiless
 bedights
 bonnyvis
@@ -13543,6 +13542,7 @@ besnowed
 beatermen
 bouffancy
 beggarlice
+batiked
 brunel
 biennale
 biquarterly
