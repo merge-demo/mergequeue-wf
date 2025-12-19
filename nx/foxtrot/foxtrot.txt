@@ -9362,6 +9362,7 @@ florilegium
 frying
 formularisation
 foretimed
+formulizer
 fritillaria
 federator
 frostbiting
@@ -11606,7 +11607,6 @@ frough
 frack
 forewinning
 fulgour
-formulizer
 fragilely
 fermata
 fustics
