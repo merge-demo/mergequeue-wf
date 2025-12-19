@@ -964,6 +964,7 @@ binge
 burnie
 bradytely
 baldaquin
+bowknot
 bobbing
 bakuninist
 bahutu
@@ -11869,7 +11870,6 @@ bodkin
 bodkins
 boardlike
 barmybrained
-bowknot
 birdsall
 bakshished
 biotaxy
