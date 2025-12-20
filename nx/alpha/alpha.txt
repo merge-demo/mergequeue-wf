@@ -11991,7 +11991,6 @@ archibuteo
 anarchy
 aerocolpos
 auberges
-antique
 almose
 anarchical
 anenergia
@@ -24490,6 +24489,7 @@ als
 antrin
 autourine
 autovalet
+antique
 autovivisection
 apricots
 arteriagra
