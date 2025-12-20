@@ -600,7 +600,6 @@ forpet
 fossilisation
 forints
 feasted
-fade
 featherdom
 finders
 filippic
@@ -10766,6 +10765,7 @@ footglove
 fervent
 fatalism
 fashious
+fade
 fascisticize
 finials
 fulgentness
