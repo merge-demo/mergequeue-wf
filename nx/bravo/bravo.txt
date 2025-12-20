@@ -3953,6 +3953,7 @@ bassette
 bunch
 bristols
 behelp
+bengaline
 bdellovibrio
 brushbird
 butanes
@@ -5842,7 +5843,6 @@ berseem
 bittock
 bribeworthy
 baigneuse
-bengaline
 bellyful
 bestrews
 boor
