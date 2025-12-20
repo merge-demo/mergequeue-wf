@@ -2180,7 +2180,6 @@ guacos
 galvanocauterization
 galea
 goniostat
-goldfinches
 glistening
 gebbie
 guardians
@@ -4381,6 +4380,7 @@ ginhouse
 gooselike
 gelidiaceae
 gangrene
+goldfinches
 gyron
 gallanilide
 gyniatries
