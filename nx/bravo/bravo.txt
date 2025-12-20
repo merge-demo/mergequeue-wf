@@ -1922,6 +1922,7 @@ bandore
 baselard
 balsa
 bandrol
+battens
 beatific
 bonniest
 bework
@@ -6303,7 +6304,6 @@ benumbingly
 benumbs
 besodden
 brigalow
-battens
 balourdise
 baltic
 benzalacetophenone
