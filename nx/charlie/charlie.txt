@@ -13126,6 +13126,7 @@ carriage
 cyanochroic
 climbingfishes
 catchable
+companionizing
 cycases
 cytogenies
 coverless
@@ -20434,7 +20435,6 @@ chromophyll
 crowd
 companionize
 cupressineous
-companionizing
 callousing
 corycavine
 chirpiness
