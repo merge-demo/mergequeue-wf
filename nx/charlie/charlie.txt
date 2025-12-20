@@ -8517,6 +8517,7 @@ clow
 chemosterilants
 chanced
 categorical
+carpus
 chanceful
 cadrans
 chancefulness
@@ -13885,7 +13886,6 @@ cinnamonic
 cucking
 cinnamonlike
 chaffy
-carpus
 cinnamons
 cinnolin
 cynocephalous

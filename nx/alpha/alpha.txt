@@ -21643,7 +21643,6 @@ anthophagous
 anethol
 amatorial
 alphabetising
-assailer
 adopters
 assailers
 axiform
@@ -23601,6 +23600,7 @@ amply
 adventuring
 andaqui
 antignostic
+assailer
 arcsin
 altimetry
 aunthood
