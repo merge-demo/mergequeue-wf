@@ -5684,6 +5684,7 @@ bobs
 bicycle
 bridegroomship
 barkpeeling
+britany
 bluism
 berreaved
 belgard
@@ -10209,7 +10210,6 @@ blackjack
 bryaceous
 besague
 breads
-britany
 blackjacks
 bootstraps
 bondhold
