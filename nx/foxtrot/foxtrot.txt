@@ -1787,7 +1787,6 @@ fishgarth
 feathertop
 frogmen
 flabra
-flutina
 flaunts
 foredoes
 flannelet
@@ -2776,6 +2775,7 @@ forgettery
 furriest
 festooneries
 flunkyite
+flutina
 festivally
 fourieristic
 flareboard
