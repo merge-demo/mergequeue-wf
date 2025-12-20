@@ -13174,7 +13174,6 @@ cichlidae
 colocynthin
 cicisbeism
 cicisbeo
-cycl
 chromometer
 cyclades
 clavichordist
@@ -27993,6 +27992,7 @@ craglike
 crags
 carthusian
 chart
+cycl
 cessions
 celtic
 cragwork
