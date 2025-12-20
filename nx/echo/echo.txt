@@ -3750,6 +3750,7 @@ embryon
 ethnish
 endoceratite
 ejulate
+entranceway
 embrowning
 embrues
 executive
@@ -4843,7 +4844,6 @@ equivocality
 encountered
 epigenesist
 endothecium
-entranceway
 encashing
 encountering
 eros
