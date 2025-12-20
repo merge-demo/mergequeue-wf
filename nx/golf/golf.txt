@@ -8164,6 +8164,7 @@ graftages
 gloomless
 gooey
 granuloblastic
+graphophonic
 granulocyte
 gerontal
 galbanum
@@ -8281,7 +8282,6 @@ groundless
 gladii
 graphophone
 grossulariaceae
-graphophonic
 gasteria
 graphoscope
 glycoprotein
