@@ -6387,7 +6387,6 @@ bastioned
 benzohydrol
 benzoylated
 becuna
-benzene
 benzoylation
 benzoinated
 borize
@@ -15836,6 +15835,7 @@ broletto
 boagane
 benzthiophen
 biders
+benzene
 broncho
 bulled
 bitonality
