@@ -2038,7 +2038,6 @@ greiges
 guazuti
 gabbled
 gavelock
-grunion
 gasterosteid
 givenness
 gyroscopics
@@ -5390,6 +5389,7 @@ gemmary
 gritrock
 guiltless
 guacin
+grunion
 gracelessly
 glykopexic
 gastroduodenal
