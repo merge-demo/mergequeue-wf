@@ -2718,7 +2718,6 @@ antiscorbutic
 acrimonious
 acrindoline
 allamonti
-asteriae
 arak
 anabasin
 acritan
@@ -25172,6 +25171,7 @@ aikidos
 axoidean
 almonry
 agist
+asteriae
 acidifiable
 aetheogamic
 anthropomantist
