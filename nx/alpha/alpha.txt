@@ -9852,7 +9852,6 @@ aberroscope
 aquashow
 ane
 adjudicating
-angleworm
 albumoid
 aponogeton
 antepreterit
@@ -20484,6 +20483,7 @@ anticorrosively
 admov
 aristological
 asterospondylous
+angleworm
 arteriocapillary
 arteriogenesis
 arteriograph
