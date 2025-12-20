@@ -6655,7 +6655,6 @@ anoterite
 ailuroidea
 ampelitic
 ailurophilic
-affirmation
 ailuropoda
 abp
 acoustic
@@ -17955,6 +17954,7 @@ appropinquate
 adactyl
 appropinquation
 amalgamation
+affirmation
 ahind
 appropinquity
 akoulalion
