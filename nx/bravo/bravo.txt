@@ -1048,6 +1048,7 @@ blockhead
 brachycephalization
 brasswork
 bailiwicks
+blitzbuggy
 bolete
 babyhouse
 becost
@@ -16079,7 +16080,6 @@ bronzewing
 bio
 bcd
 bullionism
-blitzbuggy
 bassetted
 bothersome
 bolty
