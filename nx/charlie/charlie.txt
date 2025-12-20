@@ -5843,7 +5843,6 @@ crumbs
 commercia
 categorized
 categorizer
-categorizes
 chromeplated
 cabas
 crawling
@@ -12387,6 +12386,7 @@ chevroned
 cnidophobia
 culebra
 chromatopsia
+categorizes
 chromatoptometer
 chromatoptometry
 couch
