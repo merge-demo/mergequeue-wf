@@ -11385,7 +11385,6 @@ dippers
 dolina
 diabetic
 disciplinal
-dsect
 disquisited
 droopingly
 deserted
@@ -11619,6 +11618,7 @@ diapnoe
 defectionist
 discontinuities
 dicatalexis
+dsect
 discontinuously
 drop
 discontinuousness
