@@ -1757,7 +1757,6 @@ chipped
 coloured
 calumniates
 comeliness
-calumniating
 calumniation
 coaldealer
 consolably
@@ -18503,6 +18502,7 @@ cohesively
 cribber
 collat
 cohibit
+calumniating
 cohibition
 cohibitor
 cohitre
