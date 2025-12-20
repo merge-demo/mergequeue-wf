@@ -710,7 +710,6 @@ eyefuls
 enterozoa
 equalable
 expressionable
-epiglottic
 embraciveg
 eosinate
 enneaspermous
@@ -1635,6 +1634,7 @@ env
 entrez
 enterobacterium
 eyah
+epiglottic
 embliss
 equating
 earthpea
