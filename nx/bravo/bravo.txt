@@ -729,7 +729,6 @@ bending
 befoul
 babiches
 bandsawing
-badges
 badging
 buddhism
 banksman
@@ -15013,6 +15012,7 @@ barramundis
 bemusedly
 brimfull
 basenji
+badges
 buro
 balefully
 barelegged
