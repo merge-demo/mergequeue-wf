@@ -13862,7 +13862,6 @@ agapemonian
 assecurator
 athletics
 anotta
-anotus
 anounou
 ambivalency
 affix
@@ -16698,6 +16697,7 @@ aggers
 acaridan
 abjuration
 asserters
+anotus
 agre
 assails
 alcaides
