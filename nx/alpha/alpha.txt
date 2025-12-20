@@ -17715,7 +17715,6 @@ appliable
 appliance
 apocentre
 achitophel
-appliances
 appliant
 appendectomy
 arenous
@@ -19448,6 +19447,7 @@ attempting
 adighe
 awaked
 autonomically
+appliances
 acaena
 argillaceous
 affectively
