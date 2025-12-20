@@ -2845,7 +2845,6 @@ decuman
 deperm
 dihydronicotine
 dozens
-desensitizations
 dramatizations
 donors
 dynatron
@@ -6847,6 +6846,7 @@ degenerates
 dextrocardial
 dendrograph
 desmodynia
+desensitizations
 diazoamine
 desmodontidae
 danuri
