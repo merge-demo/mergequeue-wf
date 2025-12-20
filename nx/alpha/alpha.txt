@@ -1615,7 +1615,6 @@ according
 assapanic
 amphoricity
 achate
-artificialize
 accriminate
 airier
 arthuriana
@@ -9892,6 +9891,7 @@ acromiosternal
 acceptive
 amateur
 antidotal
+artificialize
 arietid
 amateurishness
 aspergillaceae
