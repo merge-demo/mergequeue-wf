@@ -1073,7 +1073,6 @@ gambesons
 gentlewomanhood
 gipsology
 gomphiasis
-gradus
 gasserian
 glossic
 gangplows
@@ -8299,6 +8298,7 @@ gruff
 gentians
 grapples
 grappling
+gradus
 germanish
 graptolitha
 gheraoed
