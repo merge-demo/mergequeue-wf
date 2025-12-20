@@ -5742,7 +5742,6 @@ favorers
 furnage
 fungistatic
 frequentation
-fractuosity
 fels
 figureheadless
 fisher
@@ -8886,6 +8885,7 @@ feedstuff
 forethough
 fidation
 feazed
+fractuosity
 firmer
 forepast
 falsificator
