@@ -4205,6 +4205,7 @@ ganef
 gulflike
 geniculum
 gossy
+goosefoots
 gymnotus
 gutling
 geomagnetic
@@ -5088,7 +5089,6 @@ galloping
 goodish
 glassiness
 glasslikeness
-goosefoots
 garrya
 gilled
 gypper
