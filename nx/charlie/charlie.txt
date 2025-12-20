@@ -7106,6 +7106,7 @@ centigrams
 centile
 cendre
 catamited
+clamation
 centiliter
 cadent
 chimed
@@ -12980,7 +12981,6 @@ cotty
 corella
 cyanizing
 cirrhopetalum
-clamation
 conspirer
 cyanmethemoglobin
 calenturish
