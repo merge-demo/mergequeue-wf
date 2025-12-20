@@ -3994,7 +3994,6 @@ bonyfish
 believer
 beacons
 buoyancy
-beadeye
 beader
 bellmaker
 barnhardtite
@@ -11811,6 +11810,7 @@ bigamists
 breechblock
 bocoy
 bod
+beadeye
 barebone
 bodach
 bihamate
