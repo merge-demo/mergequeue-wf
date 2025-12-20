@@ -6558,6 +6558,7 @@ eatings
 entasis
 extreat
 emiction
+exposed
 endothelioma
 eclectic
 engroove
@@ -7206,7 +7207,6 @@ enchesoun
 ensample
 enzootically
 evenlight
-exposed
 endodontium
 ejidos
 enderon
