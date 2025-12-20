@@ -2438,7 +2438,6 @@ aclinic
 atrabilar
 antigene
 acmaeidae
-acmatic
 asparagus
 amphisbaenidae
 acme
@@ -22277,6 +22276,7 @@ astragali
 aridge
 anathem
 astragalocalcaneal
+acmatic
 algums
 alkalinuria
 astragalocentral
