@@ -6321,7 +6321,6 @@ glossalgia
 geophysics
 gruneritization
 grubstaker
-goblins
 goldenpert
 gallivanters
 gebang
@@ -8245,6 +8244,7 @@ gallingly
 gutturalising
 gnosticism
 greater
+goblins
 gallowsmaker
 gingerwort
 grossers
