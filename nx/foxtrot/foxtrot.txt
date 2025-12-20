@@ -584,7 +584,6 @@ faufel
 forlornity
 fallowist
 fardh
-forerunners
 fivefold
 floorless
 fellon
@@ -7137,6 +7136,7 @@ fossette
 footboys
 floodgate
 fairling
+forerunners
 failed
 frostlike
 figwort
