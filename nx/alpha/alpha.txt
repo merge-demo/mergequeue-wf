@@ -10111,6 +10111,7 @@ antiegoistic
 ajangle
 azedarach
 anthropogeny
+allheals
 absinthe
 amorphous
 amboynas
@@ -18797,7 +18798,6 @@ auctioneers
 afflict
 anabia
 arylation
-allheals
 assurgent
 abumbrellar
 artfully
