@@ -801,7 +801,6 @@ eggment
 electrophotography
 ectasis
 endothia
-enoil
 exequies
 expulsed
 ectental
@@ -3238,6 +3237,7 @@ enfollow
 eluents
 elul
 epidemic
+enoil
 erects
 enclitical
 encephalotomy
