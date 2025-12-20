@@ -3760,6 +3760,7 @@ batts
 blowpipe
 befouler
 boing
+bulkage
 brahmanic
 broideress
 biologese
@@ -17039,7 +17040,6 @@ baler
 bimahs
 binoxide
 bishoping
-bulkage
 boldfaces
 burt
 bulkhead
