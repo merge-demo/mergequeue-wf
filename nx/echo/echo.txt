@@ -6628,7 +6628,6 @@ egrimonle
 enterogenous
 edificant
 eartagged
-excitator
 empyreumata
 enantiomeric
 encraty
@@ -8394,6 +8393,7 @@ epitrachelia
 estrum
 exceedable
 englory
+excitator
 earplug
 espontoon
 enwreathe
