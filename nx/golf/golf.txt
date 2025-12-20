@@ -4621,7 +4621,6 @@ germanyl
 gruys
 glost
 grister
-gutium
 gourmandism
 gyrodactylidae
 glucagons
@@ -5491,6 +5490,7 @@ gimmer
 goods
 gentlemen
 goodyera
+gutium
 glossoptosis
 goldilocks
 glisten
