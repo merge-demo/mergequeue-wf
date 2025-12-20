@@ -630,6 +630,7 @@ caelometer
 cresson
 caenogenetic
 costume
+climata
 crimpers
 circumscript
 coralline
@@ -16136,7 +16137,6 @@ crownbeard
 climacus
 climant
 centiles
-climata
 celebesian
 climatal
 corticate
