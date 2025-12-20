@@ -1452,6 +1452,7 @@ frankly
 fairtime
 fantasie
 filago
+fatelike
 fireside
 faubourgs
 focussing
@@ -7794,7 +7795,6 @@ finning
 fluorescein
 ferrotyped
 frostbite
-fatelike
 footrail
 fleshier
 flung
