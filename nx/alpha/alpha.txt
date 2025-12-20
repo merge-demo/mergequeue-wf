@@ -6710,7 +6710,6 @@ auxinic
 aine
 arrives
 antinegro
-alcelaphine
 aubrey
 ainee
 archking
@@ -12935,6 +12934,7 @@ armored
 arcidae
 angraecum
 angriness
+alcelaphine
 angstroms
 arrivers
 angsts
