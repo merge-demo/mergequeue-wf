@@ -4958,7 +4958,6 @@ aeronaut
 aeronautic
 argentose
 agama
-anticipations
 aeronautical
 aeronomer
 amyliferous
@@ -5731,6 +5730,7 @@ anabaenas
 agapai
 arthrometer
 astragalar
+anticipations
 agapemone
 analysis
 agapemonist
