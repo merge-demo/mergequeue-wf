@@ -2820,7 +2820,6 @@ fcomp
 fretted
 faunae
 faveolate
-facie
 ficus
 fluidly
 floorman
@@ -10891,6 +10890,7 @@ falloffs
 fides
 fulleries
 finfish
+facie
 fleets
 flivver
 fletched
