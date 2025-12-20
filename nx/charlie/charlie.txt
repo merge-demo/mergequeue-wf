@@ -9725,7 +9725,6 @@ cheirology
 ciconiidae
 colloidal
 cheiropatagium
-cleanness
 cheiropod
 congressed
 cheiropody
@@ -23941,6 +23940,7 @@ conusant
 conuzee
 cicatricose
 cacological
+cleanness
 conv
 convalesced
 convalescence
