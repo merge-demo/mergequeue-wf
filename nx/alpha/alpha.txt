@@ -16746,6 +16746,7 @@ aciculums
 aphemia
 attal
 athenaeum
+ascertainment
 aphemic
 aphengoscope
 apheresis
@@ -20511,7 +20512,6 @@ afaint
 acrid
 arteriomalacia
 autoagglutinin
-ascertainment
 actinobacilli
 actuaryship
 accomplishment
