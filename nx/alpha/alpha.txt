@@ -2225,7 +2225,6 @@ acyrological
 achromoderma
 abovesaid
 amygdalolith
-articulability
 allows
 achronism
 atmograph
@@ -7160,6 +7159,7 @@ aortographic
 ascenders
 awane
 apogees
+articulability
 acidness
 aminoxylol
 algodoncillo
