@@ -15665,6 +15665,7 @@ agnomens
 airscapes
 arquebusier
 antiope
+affectable
 aufait
 australite
 ascomycetes
@@ -16951,7 +16952,6 @@ alfa
 alimenting
 anemometrical
 akuammine
-affectable
 anhima
 approachment
 arrive
