@@ -5041,6 +5041,7 @@ elapsing
 emplace
 elaeomargaric
 enrolled
+extraordinaries
 eclairs
 econometer
 entreasure
@@ -8096,7 +8097,6 @@ epiphragm
 enlargedness
 encover
 extrasyphilitic
-extraordinaries
 expressable
 epiplasmic
 epiplectic
