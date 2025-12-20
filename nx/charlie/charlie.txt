@@ -11546,7 +11546,6 @@ cholalic
 comments
 coquimbite
 cliseometer
-cavers
 cholam
 cobbiest
 cholangiography
@@ -24058,6 +24057,7 @@ cytogeny
 chemoceptor
 converges
 converging
+cavers
 conversable
 conversableness
 conversancy
