@@ -6537,7 +6537,6 @@ foetid
 floccose
 frailish
 flutist
-frenchman
 firebed
 forecover
 flytime
@@ -11598,6 +11597,7 @@ febrifugal
 forlornly
 for
 fetch
+frenchman
 forcarve
 frough
 frack
