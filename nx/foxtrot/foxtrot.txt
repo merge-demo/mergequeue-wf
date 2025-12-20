@@ -1932,7 +1932,6 @@ forebearing
 floccule
 finagling
 fonly
-flanchard
 forworn
 felonwood
 flated
@@ -7096,6 +7095,7 @@ fingerstall
 fostership
 forgeability
 fungicide
+flanchard
 foolproof
 foolproofness
 ferret
