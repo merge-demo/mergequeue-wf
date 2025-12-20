@@ -2043,7 +2043,6 @@ faucalize
 fireboat
 flindosa
 forwander
-flatlander
 faunlike
 fogbows
 fascicule
@@ -6197,6 +6196,7 @@ funguslike
 falange
 fog
 flrie
+flatlander
 frothier
 fluavile
 flubbed
