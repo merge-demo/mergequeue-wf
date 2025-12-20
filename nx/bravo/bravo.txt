@@ -9999,7 +9999,6 @@ buffos
 bivoluminous
 bivouaced
 bivouacked
-balaphon
 bodes
 bouilli
 byway
@@ -18109,6 +18108,7 @@ butch
 butcha
 bedoyo
 bolbanac
+balaphon
 butcher
 bupleurum
 boosts
