@@ -2000,6 +2000,7 @@ fogging
 fedora
 fide
 feere
+fraternality
 flipper
 fautor
 fours
@@ -9602,7 +9603,6 @@ fichus
 friableness
 fusteric
 frizzing
-fraternality
 fortifications
 fishpound
 fivestones
