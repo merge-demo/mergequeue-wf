@@ -2095,6 +2095,7 @@ bladeless
 boguing
 bulker
 billbeetle
+brock
 botoyan
 bloodbeat
 banshies
@@ -15746,7 +15747,6 @@ brocht
 brochure
 balisier
 babblishly
-brock
 bombsight
 bryonies
 brocoli
