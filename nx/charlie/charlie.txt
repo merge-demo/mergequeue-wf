@@ -7180,7 +7180,6 @@ centred
 centref
 centreless
 centrepiece
-canephoroe
 centrer
 closely
 chol
@@ -12822,6 +12821,7 @@ calorite
 commonplacer
 calcitestaceous
 camellias
+canephoroe
 church
 courageousness
 churchcraft
