@@ -2366,7 +2366,6 @@ electroplating
 expostulate
 electroplates
 ecumenical
-emulsifying
 egba
 episteme
 electrocolloidal
@@ -9432,6 +9431,7 @@ epistemonical
 effeminised
 eyeshades
 eggshell
+emulsifying
 escheats
 exiture
 enamber
