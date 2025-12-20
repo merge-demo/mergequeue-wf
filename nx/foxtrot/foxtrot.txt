@@ -200,7 +200,6 @@ feuar
 foreignism
 florin
 folletage
-footstock
 freedwoman
 ferns
 formicating
@@ -2558,6 +2557,7 @@ flappy
 filicidal
 fluidification
 fetishry
+footstock
 firefanging
 ferryway
 finding
