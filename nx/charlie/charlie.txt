@@ -2951,6 +2951,7 @@ cantharides
 coation
 clip
 cantharidian
+chorometry
 cycloacetylene
 cantharidize
 cantharidized
@@ -11945,7 +11946,6 @@ chorial
 cilician
 choriamb
 choriambic
-chorometry
 coaggregated
 confabulating
 confarreate
