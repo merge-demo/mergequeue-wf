@@ -5193,6 +5193,7 @@ affectional
 affectionally
 affectionateness
 affectioned
+appeal
 anemographic
 affections
 affectious
@@ -17503,7 +17504,6 @@ amblyacousia
 appeachment
 antiantienzyme
 alteregoism
-appeal
 adders
 appealable
 atangle
