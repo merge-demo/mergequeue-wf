@@ -1640,6 +1640,7 @@ entrez
 enterobacterium
 eyah
 epiglottic
+ethnolinguistic
 embliss
 equating
 earthpea
@@ -9816,7 +9817,6 @@ entrance
 enanthema
 estats
 eternise
-ethnolinguistic
 ethionic
 enamelware
 elenchtical
