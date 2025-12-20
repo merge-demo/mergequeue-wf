@@ -4582,6 +4582,7 @@ beltlines
 bloodstone
 belial
 biddelian
+burley
 beats
 bedazement
 bigeminate
@@ -6816,7 +6817,6 @@ boy
 bilic
 berwick
 bummaree
-burley
 baroi
 bes
 bushpig
