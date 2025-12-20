@@ -7821,7 +7821,6 @@ echolalia
 exodermis
 edmund
 empirical
-endopoditic
 equivocators
 extrudes
 exorcization
@@ -11931,6 +11930,7 @@ eudaemonistically
 excursory
 equiradical
 excess
+endopoditic
 epithelia
 equestrienne
 ericineous
