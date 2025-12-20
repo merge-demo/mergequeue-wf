@@ -7002,7 +7002,6 @@ guldengroschen
 geir
 glossopode
 gallerian
-gapes
 glad
 gossipry
 garrat
@@ -10663,6 +10662,7 @@ glaiketness
 genuflexion
 glottologist
 guric
+gapes
 grog
 granitization
 gelatinobromide
