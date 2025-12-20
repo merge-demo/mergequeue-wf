@@ -5105,6 +5105,7 @@ grav
 gomerec
 grittier
 gunman
+goody
 garboards
 guilelessly
 guernseyed
@@ -6903,7 +6904,6 @@ greillade
 gooders
 gelsemine
 goodheartedness
-goody
 giganticide
 geomalism
 glowers
