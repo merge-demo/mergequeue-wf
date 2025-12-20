@@ -5239,7 +5239,6 @@ gourding
 guardianships
 girouette
 gleys
-gynecopathic
 grindery
 grissons
 gloamings
@@ -7925,6 +7924,7 @@ glecoma
 gorst
 gaberloonie
 gliriform
+gynecopathic
 gooseberries
 grandad
 goggling
