@@ -4989,6 +4989,7 @@ crimmers
 carpitis
 cartons
 cartoonist
+concertato
 chrysomonadina
 cassettes
 cartouche
@@ -21246,7 +21247,6 @@ concertante
 countersank
 chapped
 concertation
-concertato
 concertatos
 concerted
 concertedness
