@@ -13210,6 +13210,7 @@ caryota
 cyclic
 cyclical
 cyclizing
+counselor
 cyclically
 cyclicalness
 cyclide
@@ -26643,7 +26644,6 @@ counsellable
 curer
 counsellor
 chilopodan
-counselor
 countability
 corbels
 curtlax
