@@ -4748,7 +4748,6 @@ glick
 genethliatic
 gendarme
 giantlike
-gabbroic
 ganglander
 greenwood
 gadling
@@ -4841,6 +4840,7 @@ guideway
 gypaetus
 griffinism
 gynecidal
+gabbroic
 garlicwort
 glades
 graupels
