@@ -5929,7 +5929,6 @@ electrometallurgy
 exocytosis
 endsweep
 enharden
-especially
 eurytopicity
 exoenzymic
 embuskin
@@ -12272,6 +12271,7 @@ els
 elegises
 everduring
 exemplarism
+especially
 exempli
 endotoxin
 embodier
