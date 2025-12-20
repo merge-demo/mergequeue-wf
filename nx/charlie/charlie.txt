@@ -18420,7 +18420,6 @@ claught
 carnally
 cathedral
 cognominated
-cognomination
 cognoscent
 changeling
 castelli
@@ -23631,6 +23630,7 @@ copestone
 cleping
 chivvies
 courteous
+cognomination
 contr
 contrabandage
 contrabandery
