@@ -23095,7 +23095,6 @@ cottoneer
 cyanochlorous
 conspicuously
 cabalic
-conspiracy
 conspirant
 conspiration
 confocal
@@ -28776,6 +28775,7 @@ cresc
 comparativeness
 cordelier
 crescendo
+conspiracy
 crescendoing
 crescendos
 crescentade
