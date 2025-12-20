@@ -18173,7 +18173,6 @@ discreetest
 depositaries
 dynamicity
 dumpoke
-deltohedra
 dumps
 dissective
 dumsola
@@ -18643,6 +18642,7 @@ deactivations
 deodorizer
 disalignment
 decasyllable
+deltohedra
 denunciatively
 decury
 disforest
