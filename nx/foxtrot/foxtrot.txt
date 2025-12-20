@@ -3951,6 +3951,7 @@ foxtongue
 foal
 feedbacks
 finest
+forfeits
 finew
 fish
 fermentor
@@ -7215,7 +7216,6 @@ footlockers
 frolicks
 flathe
 fiscalized
-forfeits
 frizzlers
 formulate
 faenas
