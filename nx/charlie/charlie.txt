@@ -2131,7 +2131,6 @@ cowbells
 campbell
 campbellisms
 campbellites
-cixiid
 capriciousness
 campcraft
 campe
@@ -24900,6 +24899,7 @@ coralligena
 coralligenous
 coralligerous
 corallin
+cixiid
 corallina
 corallinaceous
 curricle
