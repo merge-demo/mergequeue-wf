@@ -4776,7 +4776,6 @@ baldling
 blast
 bed
 bedribble
-bhalu
 burglarizes
 bibracteate
 billfold
@@ -13722,6 +13721,7 @@ bouldery
 bouser
 bousouki
 bousoukia
+bhalu
 brunswick
 bheesties
 boustrophedon
