@@ -3316,7 +3316,6 @@ equipaga
 embassade
 emanatist
 epical
-emanativ
 erupt
 enwreath
 emasculates
@@ -13048,6 +13047,7 @@ elocutionary
 expediter
 enunciates
 eulogistically
+emanativ
 expeditiously
 erythrocarpous
 ecstasies
