@@ -6845,7 +6845,6 @@ empoisoning
 electroimpulse
 entomol
 eyepopper
-exocentric
 eupolyzoan
 ensky
 etherification
@@ -10722,6 +10721,7 @@ emblazer
 ecologic
 euhyostylic
 eukairite
+exocentric
 enfavor
 eaver
 enwraps
