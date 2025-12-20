@@ -4489,6 +4489,7 @@ entozoal
 endolabyrinthitis
 encephalomyelopathy
 encenter
+eskar
 ensilage
 endolithic
 encephalartos
@@ -13330,7 +13331,6 @@ exponency
 extrared
 educated
 exponentiates
-eskar
 emilia
 encincture
 exponention
