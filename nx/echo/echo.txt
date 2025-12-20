@@ -9635,7 +9635,6 @@ entia
 epenthesize
 epacris
 espagnole
-elaeagnus
 enfrai
 esparsette
 encloud
@@ -9803,6 +9802,7 @@ ebracteolate
 enhanced
 escapade
 estaminet
+elaeagnus
 emittance
 exergue
 emunctories
