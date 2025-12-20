@@ -10555,7 +10555,6 @@ disleaf
 davach
 dermatomycosis
 digammate
-dashiki
 denote
 dislikes
 disequilibrium
@@ -14052,6 +14051,7 @@ doocot
 dolichocephalic
 doggrel
 distributer
+dashiki
 distributing
 disacknowledgements
 dispace
