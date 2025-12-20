@@ -2630,6 +2630,7 @@ execrations
 etymologisable
 exempla
 electrophrenic
+eyrie
 electroplater
 electropower
 electropsychrometer
@@ -6046,7 +6047,6 @@ empaler
 enhydrinae
 evenminded
 empiry
-eyrie
 estoque
 expromissor
 endosarcs
