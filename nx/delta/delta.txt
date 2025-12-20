@@ -1552,6 +1552,7 @@ dicranoid
 doubtfulness
 deactivation
 deactivators
+disring
 distressedness
 doublure
 deadlier
@@ -16827,7 +16828,6 @@ drawings
 duplicando
 deliquescent
 dissociable
-disring
 dendrodus
 diaphanoscopy
 deprecatingly
