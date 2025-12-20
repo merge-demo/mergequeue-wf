@@ -791,6 +791,7 @@ grinnellia
 gamashes
 goombay
 gastrospasm
+goloka
 guamuchil
 gimlet
 gamboller
@@ -4222,7 +4223,6 @@ ghibelline
 gynaecium
 gunned
 grovel
-goloka
 gois
 gaetuli
 gyromagnetic
