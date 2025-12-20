@@ -9599,6 +9599,7 @@ dartsman
 deerwood
 drazel
 dogmeat
+diplomatique
 diddering
 druse
 diguanide
@@ -14498,7 +14499,6 @@ devitaminize
 drouk
 decemviri
 duumvirate
-diplomatique
 delassement
 desk
 dedition
