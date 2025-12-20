@@ -3910,7 +3910,6 @@ examinability
 epiglottis
 endexine
 emissory
-emitting
 entamebas
 electropathic
 endocrinologies
@@ -4203,6 +4202,7 @@ exhorter
 echolalic
 electroetching
 exocardiac
+emitting
 enghle
 emeutes
 egoize
