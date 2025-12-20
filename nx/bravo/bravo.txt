@@ -3044,7 +3044,6 @@ baptismal
 banish
 beetmister
 bliest
-burlesks
 balsaming
 brigantine
 baruch
@@ -9729,6 +9728,7 @@ biramose
 bankbook
 backslapped
 buildingless
+burlesks
 bioenergetics
 boatie
 byssoid
