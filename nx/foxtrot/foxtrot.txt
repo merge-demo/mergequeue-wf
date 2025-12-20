@@ -4792,7 +4792,6 @@ flageolets
 flagfishes
 fubsy
 forbiddenness
-figurately
 fasciculus
 fissurellidae
 feuillants
@@ -8619,6 +8618,7 @@ forescript
 foredid
 fir
 fittings
+figurately
 ferretto
 flamefishes
 fuzzed
