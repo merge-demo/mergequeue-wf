@@ -2676,6 +2676,7 @@ begrimming
 bututs
 barmaster
 bergalith
+barkeep
 benzoic
 brutus
 barmcloth
@@ -14890,7 +14891,6 @@ breakfronts
 butlerage
 breaking
 busera
-barkeep
 breakings
 bovicide
 breaklist
