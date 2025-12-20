@@ -811,7 +811,6 @@ gourmanderie
 gambeered
 glauke
 greenlandite
-genets
 glucosane
 ghurry
 gastrocolic
@@ -9682,6 +9681,7 @@ gametange
 gradative
 glareous
 galapee
+genets
 guzzle
 graniform
 govt
