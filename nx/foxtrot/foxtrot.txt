@@ -10195,6 +10195,7 @@ flopovers
 frogbit
 frogeyed
 farewelling
+feltlike
 fissureless
 fibra
 frankheartedly
@@ -10643,7 +10644,6 @@ flatulent
 fickly
 forcibly
 fitzroy
-feltlike
 forblack
 flocculency
 fruitester
