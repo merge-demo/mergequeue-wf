@@ -6992,6 +6992,7 @@ basilian
 besmouch
 bloodying
 bacteritic
+balked
 besmudge
 beamless
 bronzite
@@ -8933,7 +8934,6 @@ boskiness
 bozzetto
 burnishment
 barberess
-balked
 biogases
 bleachground
 backwardation
