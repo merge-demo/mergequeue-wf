@@ -2175,7 +2175,6 @@ achras
 acronymically
 antiracer
 animalculist
-ashmolean
 aethereal
 antecabinet
 aphotaxis
@@ -2769,6 +2768,7 @@ acrodont
 anarithmia
 argonauta
 accise
+ashmolean
 abalienation
 acrodontism
 acrodrome
