@@ -8481,7 +8481,6 @@ diamides
 descanter
 deesis
 dapperest
-diaminogen
 downset
 directionize
 dodecyl
@@ -9959,6 +9958,7 @@ diolefine
 droner
 dodged
 diminution
+diaminogen
 deeplier
 deaerates
 didactics
