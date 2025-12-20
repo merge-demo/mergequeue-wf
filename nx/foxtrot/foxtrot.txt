@@ -3763,6 +3763,7 @@ failure
 fibula
 fellmonger
 fulls
+flocker
 filliped
 fascinatingly
 fluxing
@@ -5890,7 +5891,6 @@ furnishings
 flocculent
 flushes
 flaxier
-flocker
 filaree
 faden
 frogged
