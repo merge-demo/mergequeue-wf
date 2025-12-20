@@ -2941,7 +2941,6 @@ austerer
 actaeon
 actg
 actualised
-algometric
 actin
 aru
 actinautographic
@@ -12245,6 +12244,7 @@ anchoveta
 anchusa
 aphroditous
 aerogenesis
+algometric
 archididascalian
 argumentatively
 amazonite
