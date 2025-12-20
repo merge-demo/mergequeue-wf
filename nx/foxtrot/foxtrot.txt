@@ -190,7 +190,6 @@ flier
 factorable
 flimsies
 forcut
-finitary
 factoryship
 floatiness
 fraudulence
@@ -6932,6 +6931,7 @@ formalisation
 forbode
 fastball
 foxlike
+finitary
 farthingales
 formication
 follicular
