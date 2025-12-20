@@ -4496,7 +4496,6 @@ bureaucratism
 becrowd
 becrowded
 burstwort
-billeting
 brickset
 bacchanalias
 bumptiously
@@ -13784,6 +13783,7 @@ bowback
 bushment
 brazes
 bootlickers
+billeting
 burker
 brunion
 baddishly
