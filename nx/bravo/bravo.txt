@@ -10417,7 +10417,6 @@ blankish
 blankly
 boneless
 bagmen
-baidya
 bullfinch
 blankness
 banks
@@ -17759,6 +17758,7 @@ browsage
 bravadoes
 burped
 blucher
+baidya
 butomus
 blackishly
 broodless
