@@ -4595,6 +4595,7 @@ guardrail
 garotter
 guttiferales
 genoms
+goitered
 gigantopithecus
 galionji
 gleemen
@@ -9602,7 +9603,6 @@ gnathobdellida
 gunbarrel
 grimmiaceous
 gangerel
-goitered
 gemses
 gossipmonger
 gr
