@@ -9432,6 +9432,7 @@ angiosclerotic
 autocinesis
 alterable
 acatery
+ametropia
 alterably
 anchylose
 archaeocyte
@@ -10435,7 +10436,6 @@ absurdum
 aculeolus
 ametrope
 antshrike
-ametropia
 ametrous
 amhar
 afterbirths
