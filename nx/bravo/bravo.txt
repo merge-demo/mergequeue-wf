@@ -1647,6 +1647,7 @@ befur
 ballstock
 ballup
 ballweed
+besprinkling
 botony
 balmarcodes
 balmawhapple
@@ -15887,7 +15888,6 @@ blitzed
 basan
 bopyridian
 bromhydrate
-besprinkling
 bromid
 bourignianist
 brinie
