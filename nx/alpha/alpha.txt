@@ -1904,7 +1904,6 @@ auxometer
 aitiology
 alabastos
 adamic
-atomisation
 acetylating
 acetylative
 archbishopess
@@ -11927,6 +11926,7 @@ aupaka
 anchylosis
 anapaestically
 ancientness
+atomisation
 ataraxic
 anew
 amenism
