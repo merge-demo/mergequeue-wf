@@ -2091,6 +2091,7 @@ blindish
 bardiest
 banqueting
 beseem
+blazy
 buddhistic
 besteer
 bladeless
@@ -10604,7 +10605,6 @@ blaze
 blazers
 bursts
 blazes
-blazy
 borzois
 bridgeheads
 brahmanhood
