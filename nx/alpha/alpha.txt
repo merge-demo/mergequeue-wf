@@ -13650,6 +13650,7 @@ abolition
 annuler
 allosaur
 anodontia
+aperitive
 abys
 alliciency
 anodos
@@ -16334,7 +16335,6 @@ anchistea
 autonomist
 archheretic
 admittable
-aperitive
 antiuratic
 antiurease
 acetazolamide

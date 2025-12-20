@@ -7030,7 +7030,6 @@ epiphenomenon
 eundem
 emote
 entrapping
-entrustment
 eurygaea
 exchequers
 exocoetus
@@ -10721,6 +10720,7 @@ ecologic
 euhyostylic
 eukairite
 exocentric
+entrustment
 enfavor
 eaver
 enwraps
