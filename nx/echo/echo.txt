@@ -7149,7 +7149,6 @@ examples
 edriophthalmous
 envisioning
 epistolising
-enshadow
 exoner
 episterna
 effectuation
@@ -8322,6 +8321,7 @@ eskimoic
 embroiler
 elvan
 earthy
+enshadow
 evg
 excursional
 essonites
