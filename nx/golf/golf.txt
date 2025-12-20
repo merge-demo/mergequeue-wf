@@ -2725,6 +2725,7 @@ gusle
 grith
 gemmoid
 genit
+golgothas
 gnatho
 groundmass
 glozing
@@ -7020,7 +7021,6 @@ gamostely
 gavel
 gummer
 goofily
-golgothas
 goops
 gladioli
 gentil
