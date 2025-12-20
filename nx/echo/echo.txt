@@ -3581,7 +3581,6 @@ encraal
 embossage
 embossed
 embossing
-emulsifications
 embossman
 esophagoplegia
 enchantery
@@ -9832,6 +9831,7 @@ estrich
 etagre
 expurgator
 eikon
+emulsifications
 egocentricity
 enthronising
 endoceras
