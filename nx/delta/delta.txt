@@ -1477,7 +1477,6 @@ dawnstreak
 discriminative
 diffusor
 dasypaedal
-discolorated
 dazzler
 disillusions
 dazzlers
@@ -7165,6 +7164,7 @@ demonize
 dollyman
 decompose
 dispersement
+discolorated
 diductor
 drawboring
 deerkill
