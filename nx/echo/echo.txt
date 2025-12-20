@@ -3410,7 +3410,6 @@ embarring
 elementoid
 ethnarchy
 enosises
-emetophobia
 ephoral
 erinize
 embassadress
@@ -5587,6 +5586,7 @@ evocators
 eugenists
 enfants
 evulsion
+emetophobia
 enfiled
 expediences
 evangel
