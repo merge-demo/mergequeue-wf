@@ -17593,6 +17593,7 @@ contractive
 coccinellidae
 coccyodynia
 coccionella
+continuant
 cephalothoracopagus
 coccyx
 coccyxes
@@ -18249,7 +18250,6 @@ colloidize
 coffeeroom
 coffees
 counterview
-continuant
 coffeetime
 coffer
 corridor
