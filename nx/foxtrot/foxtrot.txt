@@ -1432,6 +1432,7 @@ fattishness
 fother
 frimitts
 faithless
+fighters
 freewheel
 fatuism
 felicify
@@ -6719,7 +6720,6 @@ fogless
 frounced
 fogo
 frescoists
-fighters
 feast
 forelegs
 fogon
