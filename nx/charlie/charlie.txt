@@ -3358,7 +3358,6 @@ caponniere
 capons
 caporal
 caporals
-condyle
 candlestick
 catapetalous
 counterweighing
@@ -24138,6 +24137,7 @@ calcific
 cafeneh
 convexly
 convexness
+condyle
 convexo
 convexoconcave
 cadbote
