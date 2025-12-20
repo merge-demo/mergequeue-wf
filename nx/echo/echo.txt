@@ -7970,6 +7970,7 @@ epimers
 encyclopaedia
 epileptiform
 equilobed
+evictor
 epimysia
 esthesias
 expunger
@@ -11472,7 +11473,6 @@ evictions
 explanatory
 emboldens
 eleocharis
-evictor
 evidence
 edeagra
 earned
