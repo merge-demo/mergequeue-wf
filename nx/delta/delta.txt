@@ -5319,6 +5319,7 @@ dentate
 disrange
 dentatoangulate
 droud
+demarkation
 disalicylide
 ducks
 distincter
@@ -9210,7 +9211,6 @@ divertimentos
 destinist
 debatingly
 diehard
-demarkation
 disdainly
 diehards
 dieyerie
