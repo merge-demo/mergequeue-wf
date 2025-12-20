@@ -1991,7 +1991,6 @@ circummigrate
 campanero
 comp
 crenelates
-choliambist
 crampbit
 cameronian
 coyure
@@ -25445,6 +25444,7 @@ crystallographers
 cornstone
 cajang
 czars
+choliambist
 cornua
 comdt
 cornual
