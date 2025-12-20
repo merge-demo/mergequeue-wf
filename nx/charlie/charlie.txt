@@ -10501,7 +10501,6 @@ chiliads
 connexity
 chiliahedron
 chiliarchia
-chiliast
 commuting
 comprehend
 chakar
@@ -17460,6 +17459,7 @@ clepsydras
 cobblestoned
 corollated
 chokeweed
+chiliast
 cobbling
 cobbra
 cobbs
