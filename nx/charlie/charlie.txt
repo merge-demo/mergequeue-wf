@@ -21768,6 +21768,7 @@ converse
 conducers
 conductance
 congregationalists
+constitutionary
 conductio
 corbleu
 colonizationist
@@ -23173,7 +23174,6 @@ constitutionalization
 constitutionalize
 constitutionally
 constitutionals
-constitutionary
 constitutions
 chromatoid
 cowpath
