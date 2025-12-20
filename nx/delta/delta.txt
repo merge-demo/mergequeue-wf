@@ -544,7 +544,6 @@ damagers
 damalic
 dextrorotation
 demobilized
-designations
 dialyzing
 diplosis
 deliverers
@@ -13928,6 +13927,7 @@ distinguishedly
 distinguishes
 diaspine
 dextrosinistrally
+designations
 dodding
 distinguishment
 deutoplasm
