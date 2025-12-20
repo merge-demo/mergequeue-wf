@@ -3386,6 +3386,7 @@ bassalia
 bootable
 brythonic
 baculum
+bywoner
 benzilic
 bassanite
 biotechnics
@@ -13810,7 +13811,6 @@ bramblebush
 blabberer
 butters
 biocides
-bywoner
 babesias
 bunya
 bleachery
