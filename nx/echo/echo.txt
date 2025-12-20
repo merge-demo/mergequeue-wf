@@ -4828,6 +4828,7 @@ emulously
 encomic
 executory
 excipient
+epispastic
 encomiumia
 encompassment
 embira
@@ -4902,7 +4903,6 @@ exoperidium
 ecchymoses
 enculturation
 ergatandromorph
-epispastic
 extrapolates
 essenis
 electrodialyzer
