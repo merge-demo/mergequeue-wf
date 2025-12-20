@@ -8585,7 +8585,6 @@ diapirs
 diaplases
 disk
 deprived
-dinosaurian
 destroying
 doormaking
 deorsumversion
@@ -9890,6 +9889,7 @@ defectuous
 dimerization
 dipropargyl
 duscle
+dinosaurian
 duka
 deformational
 dimes
