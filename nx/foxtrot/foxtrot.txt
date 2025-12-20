@@ -1118,7 +1118,6 @@ fervidness
 fusileer
 frizzling
 farthing
-foresay
 fluffing
 feverishness
 fractional
@@ -2530,6 +2529,7 @@ fluorine
 fiatconfirmatio
 fanam
 feeler
+foresay
 frugivorous
 fibromembranous
 filamentule
