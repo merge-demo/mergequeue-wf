@@ -4316,6 +4316,7 @@ forficulate
 freshest
 fease
 florescence
+fenter
 forequarters
 fluyt
 factive
@@ -9068,7 +9069,6 @@ folding
 fiant
 friesish
 funnellike
-fenter
 forbruise
 foxfires
 foederis
