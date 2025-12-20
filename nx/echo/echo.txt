@@ -1935,7 +1935,6 @@ enabled
 echinulate
 estoppal
 eurypterid
-elaphe
 essenical
 ejected
 eupatorine
@@ -9161,6 +9160,7 @@ ectoenzyme
 ectocinerea
 encolor
 enates
+elaphe
 ernes
 erode
 eosinophilic
