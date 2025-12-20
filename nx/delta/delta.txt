@@ -9185,7 +9185,6 @@ delobranchiata
 dyeability
 denazification
 demilance
-devilman
 ditriglyph
 dieb
 dusterman
@@ -11807,6 +11806,7 @@ discriminator
 dirigibility
 diegueno
 disembrangle
+devilman
 deferrals
 dislodges
 discriminoid
