@@ -3263,7 +3263,6 @@ foppery
 flaught
 filbert
 freit
-furciferine
 fifteenthly
 fireburn
 fomenting
@@ -11589,6 +11588,7 @@ fussers
 faradic
 fargite
 fussing
+furciferine
 fontinal
 fealty
 fideicommissary
