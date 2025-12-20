@@ -3671,6 +3671,7 @@ groinery
 glottides
 grisaille
 galvanize
+gloveless
 gpm
 graeae
 gangwa
@@ -5798,7 +5799,6 @@ gigamaree
 gauchos
 grieveship
 gussy
-gloveless
 glorifiable
 gym
 grain
