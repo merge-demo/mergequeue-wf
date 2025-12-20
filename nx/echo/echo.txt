@@ -1155,6 +1155,7 @@ expective
 eutomous
 exorbitate
 enterograph
+equidivision
 edoni
 excisemen
 entrochite
@@ -8606,7 +8607,6 @@ equidiurnal
 eelpouts
 executor
 eleutheromania
-equidivision
 epigrammatising
 embouchures
 electrovital
