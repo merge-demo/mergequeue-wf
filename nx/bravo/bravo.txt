@@ -9792,7 +9792,6 @@ biblioklept
 bromatology
 bocca
 bitable
-bidialectal
 bytalks
 bitanhol
 bitartrate
@@ -17854,6 +17853,7 @@ burundians
 burushaski
 ballistocardiogram
 bus
+bidialectal
 busaos
 bloodleaf
 bine
