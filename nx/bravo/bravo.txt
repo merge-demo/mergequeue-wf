@@ -333,7 +333,6 @@ bradoons
 bourree
 bacteroideae
 bellybuttons
-bathychrome
 backdrop
 bonassus
 beemaster
@@ -11609,6 +11608,7 @@ blonde
 bedrapes
 buceros
 britzka
+bathychrome
 boardwalks
 battledored
 benefactrix

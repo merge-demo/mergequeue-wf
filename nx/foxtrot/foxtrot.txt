@@ -5814,7 +5814,6 @@ froggiest
 frivolize
 ferfet
 fluoridations
-fritted
 firehouse
 furbishes
 flintlocks
@@ -10106,6 +10105,7 @@ functionality
 frithles
 fluoroscopist
 federatist
+fritted
 fellowheirship
 forklifts
 flatwashes
