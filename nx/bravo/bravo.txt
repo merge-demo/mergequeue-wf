@@ -2904,7 +2904,6 @@ broadthroat
 biverbal
 beclatter
 bestride
-badinage
 barrater
 barratries
 blabbermouth
@@ -4052,6 +4051,7 @@ bedolt
 brisure
 bumperette
 blanch
+badinage
 bannerets
 becolme
 babbie
