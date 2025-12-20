@@ -864,6 +864,7 @@ falconets
 fourchette
 fireworks
 folliculose
+falconbill
 footworks
 florivorous
 feverfews
@@ -9453,7 +9454,6 @@ finesses
 faux
 ferrotitanium
 furcae
-falconbill
 familial
 fauld
 foeticide
