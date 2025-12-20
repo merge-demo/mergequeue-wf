@@ -23003,7 +23003,6 @@ consolatrix
 console
 crain
 crossfire
-chambermaids
 coprinae
 companyless
 copist
@@ -29008,6 +29007,7 @@ choledography
 cries
 crig
 crying
+chambermaids
 crile
 carpellate
 cineast
