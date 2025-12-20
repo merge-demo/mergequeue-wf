@@ -798,7 +798,6 @@ existability
 extravisceral
 evincibly
 eggment
-electrophotography
 ectasis
 endothia
 exequies
@@ -9811,6 +9810,7 @@ estang
 ethnographist
 extincteur
 econometrician
+electrophotography
 eatables
 entrance
 enanthema
