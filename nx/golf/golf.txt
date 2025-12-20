@@ -1240,6 +1240,7 @@ guana
 gaufre
 glittered
 generalizations
+gondolas
 groups
 goodship
 galligaskin
@@ -6634,7 +6635,6 @@ gyrodyne
 gropes
 gambusias
 gunnysack
-gondolas
 guidons
 glasseye
 gondoletta

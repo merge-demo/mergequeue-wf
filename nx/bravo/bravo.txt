@@ -7414,7 +7414,6 @@ bedgown
 boatings
 belgians
 betread
-barnier
 bathybius
 braveries
 betrothing
@@ -10020,6 +10019,7 @@ biwinter
 blackfisher
 benzolate
 blowbacks
+barnier
 brutisms
 bixaceous
 blondeness
