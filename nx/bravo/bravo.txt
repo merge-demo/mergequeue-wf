@@ -4572,7 +4572,6 @@ buckteeth
 buglewort
 bicellular
 backjaw
-bedarkening
 bedaub
 ballplayer
 benzoylglycine
@@ -17007,6 +17006,7 @@ bulbule
 bespoken
 bure
 blazoner
+bedarkening
 baaing
 bulgari
 brachycranial
