@@ -4055,7 +4055,6 @@ domicil
 dismissible
 delicatessen
 dynam
-dustoor
 dominance
 delice
 dualistic
@@ -12839,6 +12838,7 @@ dribblets
 democratization
 dismasted
 denned
+dustoor
 disme
 decast
 dipteran
