@@ -5656,7 +5656,6 @@ glasses
 glassrope
 glorifications
 garefowls
-gentlefolks
 gnatlike
 glissando
 ginglymodian
@@ -10840,6 +10839,7 @@ gyrofrequency
 genethlialogical
 gyrograph
 guttar
+gentlefolks
 guaiacum
 guzul
 genotypical
