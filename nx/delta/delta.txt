@@ -1715,7 +1715,6 @@ deformedness
 deluged
 dornecks
 devastate
-dumetose
 deasil
 dearness
 deaspirate
@@ -8672,6 +8671,7 @@ diaspore
 diaspores
 diastalses
 dum
+dumetose
 dovekey
 diastalsis
 diglossia
