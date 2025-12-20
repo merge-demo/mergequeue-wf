@@ -20688,7 +20688,6 @@ archenia
 anthesteriac
 articulare
 allelomorph
-associate
 alder
 anglophobe
 abounder
@@ -22776,6 +22775,7 @@ atypic
 alkalimetrical
 anthropolithic
 atis
+associate
 apostatized
 atlantal
 amated
