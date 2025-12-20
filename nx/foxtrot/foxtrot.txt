@@ -737,7 +737,6 @@ fertilizes
 fogscoffer
 flittiness
 falcation
-featherweed
 fluorination
 fenrir
 forepart
@@ -5951,6 +5950,7 @@ foggers
 falstaffian
 flatwash
 foreworld
+featherweed
 floodgates
 fiercest
 foolhardily
