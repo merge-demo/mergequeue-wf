@@ -5347,7 +5347,6 @@ emendicate
 endosmoses
 explicit
 enjewel
-emim
 everglades
 exsertion
 endospore
@@ -10963,6 +10962,7 @@ equivocalness
 echiurid
 erythematous
 embrittlement
+emim
 echinus
 embosk
 eperva
