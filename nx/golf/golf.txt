@@ -130,7 +130,6 @@ gersum
 glacises
 granulize
 gageable
-guerdonable
 geryonid
 guelf
 gadwalls
@@ -2354,6 +2353,7 @@ glandes
 geraty
 georgette
 gelosie
+guerdonable
 gelotherapy
 gaoloring
 garbed
