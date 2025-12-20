@@ -5584,6 +5584,7 @@ beknow
 blimpishly
 bel
 bemedalled
+beleapt
 behoovingly
 basinasal
 boulanger
@@ -5658,7 +5659,6 @@ bodgie
 beleaguering
 bongar
 badgeless
-beleapt
 belection
 brining
 belecture

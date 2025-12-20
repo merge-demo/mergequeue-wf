@@ -10743,6 +10743,7 @@ albumin
 atwitter
 affa
 antiphthisical
+auricle
 asterisked
 amissible
 amissing
@@ -18925,7 +18926,6 @@ alsatian
 artilize
 anthropologist
 aesculapian
-auricle
 archipallium
 appetizingly
 asphyxiated
