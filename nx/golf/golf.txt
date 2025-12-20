@@ -4649,7 +4649,6 @@ glossitic
 guttersnipish
 griggles
 graphometer
-gastrodialysis
 gaonic
 gasconade
 gummosis
@@ -7796,6 +7795,7 @@ gipseian
 greeny
 grubworm
 gulleys
+gastrodialysis
 gillstoup
 gingerwork
 glycolipine

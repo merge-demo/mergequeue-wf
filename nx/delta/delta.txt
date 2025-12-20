@@ -10441,7 +10441,6 @@ deticking
 diphenoxylate
 diphysite
 dosimeters
-damask
 discolith
 devinct
 disinflame
@@ -18068,6 +18067,7 @@ dialectologies
 dulness
 dysphemism
 diabetics
+damask
 dogskin
 dongs
 dungol
