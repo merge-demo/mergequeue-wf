@@ -8561,7 +8561,6 @@ epichoristic
 equative
 electre
 eburneous
-etherial
 erase
 eumorphic
 enunciative
@@ -13474,6 +13473,7 @@ expurgate
 equivocate
 ethionine
 equivocated
+etherial
 embraceorr
 enallachrome
 eyeservice

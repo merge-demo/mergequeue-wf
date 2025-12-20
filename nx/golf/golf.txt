@@ -2284,6 +2284,7 @@ grange
 granulosa
 gynarchy
 guitguit
+gibblegabbler
 galante
 gumihan
 gestant
@@ -8489,7 +8490,6 @@ glosser
 graveclod
 genl
 gibaro
-gibblegabbler
 graffias
 garum
 glisteningly
