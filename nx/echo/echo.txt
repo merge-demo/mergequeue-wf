@@ -6306,6 +6306,7 @@ enrollee
 extraorbitally
 embryologies
 efformative
+esotropia
 earmarking
 enrollers
 eche
@@ -9609,7 +9610,6 @@ expertism
 eventlessness
 ensearch
 esoterize
-esotropia
 esp
 eparchial
 eventless
