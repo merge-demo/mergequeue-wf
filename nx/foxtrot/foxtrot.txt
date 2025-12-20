@@ -605,6 +605,7 @@ fluctiferous
 flavorless
 fragaria
 floodways
+fallibleness
 fleshes
 forehand
 folly
@@ -11424,7 +11425,6 @@ fettering
 forebemoaned
 founte
 fortunetell
-fallibleness
 formfeed
 frizers
 frigidarium
