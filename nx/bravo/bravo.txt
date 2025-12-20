@@ -6303,7 +6303,6 @@ battens
 balourdise
 baltic
 benzalacetophenone
-bonum
 benzalazine
 bakupari
 benzaldehyde
@@ -16236,6 +16235,7 @@ baritones
 botonnee
 bundy
 berrypicking
+bonum
 bestink
 bluejackets
 browned
