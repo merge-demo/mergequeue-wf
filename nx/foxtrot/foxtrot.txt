@@ -173,7 +173,6 @@ factionistism
 flirtatious
 fibrointestinal
 fence
-friborg
 fabulous
 fourquine
 factiously
@@ -583,6 +582,7 @@ forlornity
 fallowist
 fardh
 fivefold
+friborg
 floorless
 fellon
 foreknows
