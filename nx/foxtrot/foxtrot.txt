@@ -8513,6 +8513,7 @@ flowages
 filefishes
 fetiparous
 fluid
+foun
 facsimiling
 fetlock
 formols
@@ -9966,7 +9967,6 @@ fadlike
 friendships
 feloniousness
 frigoric
-foun
 futureless
 fed
 feracity
