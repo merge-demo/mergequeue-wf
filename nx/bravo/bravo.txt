@@ -5625,7 +5625,6 @@ baggages
 backlashing
 baptistery
 bima
-blarina
 bridelike
 belate
 babbittess
@@ -11976,6 +11975,7 @@ boglet
 beckelite
 bolts
 bogmire
+blarina
 borine
 baggit
 bedwarf
