@@ -49,6 +49,7 @@ earflap
 expender
 enzyms
 excites
+earlocks
 exciton
 electroretinograph
 excursion
@@ -1362,7 +1363,6 @@ exomis
 evasional
 ebcdic
 excludability
-earlocks
 ethylated
 enopla
 exemplupla
