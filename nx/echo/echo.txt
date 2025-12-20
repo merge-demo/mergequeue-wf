@@ -6265,7 +6265,6 @@ endplate
 excipule
 epistapedial
 eelcatcher
-elimination
 evasively
 electrofishing
 extraepiphyseal
@@ -14193,6 +14192,7 @@ eupanorthus
 enterococci
 ectosome
 esthetics
+elimination
 epulation
 endlong
 equidistance
