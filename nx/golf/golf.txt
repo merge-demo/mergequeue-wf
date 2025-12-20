@@ -4473,7 +4473,6 @@ greffier
 graveyard
 gipsydom
 giddyhead
-gepoun
 gugu
 galtonian
 gypsyfy
@@ -9947,6 +9946,7 @@ gastroparalysis
 greening
 gathered
 geoglyphic
+gepoun
 gedd
 galerite
 geogenetic
