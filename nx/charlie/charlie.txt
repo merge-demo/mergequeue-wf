@@ -15361,7 +15361,6 @@ curnie
 clanswoman
 cyanole
 chrysalidal
-characteristics
 cryptostegia
 cyprinodontidae
 covenantor
@@ -18895,6 +18894,7 @@ csnet
 countermoving
 cornulite
 collabent
+characteristics
 collaborates
 collaborating
 celibataire
