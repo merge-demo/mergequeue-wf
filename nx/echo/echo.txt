@@ -809,7 +809,6 @@ emmers
 epispadias
 edaphically
 euglenidae
-earthquave
 ectypal
 ectype
 enwrite
@@ -5504,6 +5503,7 @@ egging
 energizers
 eosinophilia
 elasmosaurus
+earthquave
 esterifiable
 epiploic
 energizes
