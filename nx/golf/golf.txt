@@ -717,7 +717,6 @@ glossatorial
 grapholite
 grossify
 gooranut
-galvanised
 germanistic
 gawn
 gladdest
@@ -5355,6 +5354,7 @@ generalisation
 gyrencephalate
 goiters
 glees
+galvanised
 gormands
 ganoses
 gipsyism
