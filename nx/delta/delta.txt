@@ -10425,7 +10425,6 @@ diphasic
 diphenhydramine
 diacidic
 diphenylamine
-diphenylaminechlorarsine
 diervilla
 diphenylchloroarsine
 diphenylene
@@ -14072,6 +14071,7 @@ dragnets
 dryopithecinae
 dispensable
 deluging
+diphenylaminechlorarsine
 distributionist
 divariant
 deservingness
