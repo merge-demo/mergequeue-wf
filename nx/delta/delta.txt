@@ -7432,6 +7432,7 @@ deviate
 dancer
 drumfire
 disequilibriums
+directexamination
 densitometry
 disseised
 detrivorous
@@ -10787,7 +10788,6 @@ dulanganes
 directer
 deboist
 drawnly
-directexamination
 diluteness
 decreement
 divaricatingly
