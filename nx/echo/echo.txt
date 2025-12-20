@@ -2602,7 +2602,6 @@ electropathy
 electropathology
 electrophysiological
 eunectes
-electrocutioner
 enigmatology
 ebulus
 exportability
@@ -10950,6 +10949,7 @@ epipelagic
 ends
 ecbolic
 eupnoea
+electrocutioner
 extenuatory
 excreting
 ectrodactyly
