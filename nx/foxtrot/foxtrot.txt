@@ -6204,6 +6204,7 @@ foreread
 fairgoing
 flaxes
 fulgurate
+facsimiles
 foretops
 feebling
 frequency
@@ -10938,7 +10939,6 @@ feuded
 furfuran
 forewit
 foreseing
-facsimiles
 fooled
 fulzie
 favositidae
