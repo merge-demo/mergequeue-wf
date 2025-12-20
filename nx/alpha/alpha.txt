@@ -894,7 +894,6 @@ akroterion
 anabong
 audiometric
 apogeotropic
-archband
 aures
 absyrtus
 amylon
@@ -6778,6 +6777,7 @@ aircraftmen
 aircraftsman
 adsorptiveness
 aircraftsmen
+archband
 aircraftswoman
 amytal
 aircraftwoman
