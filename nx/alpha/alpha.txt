@@ -12239,6 +12239,7 @@ acetoveratrone
 alignment
 anchorman
 auriculae
+appositive
 avars
 altingiaceae
 anchormen
@@ -17825,7 +17826,6 @@ attababy
 apposition
 aphrodision
 alpujarra
-appositive
 accusatory
 annexed
 amobarbital
