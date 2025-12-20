@@ -4594,7 +4594,6 @@ besuit
 bundeli
 borborus
 bedaubing
-beltlines
 bloodstone
 belial
 burley
@@ -18404,6 +18403,7 @@ benthonic
 bvt
 berginize
 bowfins
+beltlines
 bagwash
 buttonweed
 bwanas
