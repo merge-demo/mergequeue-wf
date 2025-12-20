@@ -638,7 +638,6 @@ ellipses
 earful
 excruciatingness
 empiricist
-ecphorable
 embryogeny
 epizoite
 eluviating
@@ -11547,6 +11546,7 @@ evocating
 ensign
 enkerchief
 esterlin
+ecphorable
 encia
 executry
 euphoric
