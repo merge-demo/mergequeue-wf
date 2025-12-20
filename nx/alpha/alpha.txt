@@ -153,7 +153,6 @@ abater
 alanyl
 alcumy
 abating
-abatis
 asbolin
 atoms
 abatised
@@ -17353,6 +17352,7 @@ apostleships
 appeacher
 agmas
 ares
+abatis
 ascidiferous
 anoplotherium
 aerophagy
