@@ -3517,6 +3517,7 @@ figures
 feelingless
 foreact
 fasciculi
+fraticelli
 foresting
 forestine
 frubbish
@@ -4150,7 +4151,6 @@ feezed
 fireboy
 flying
 fiendishly
-fraticelli
 firebomb
 fakiness
 firebombing
