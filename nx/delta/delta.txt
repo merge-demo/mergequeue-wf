@@ -2096,6 +2096,7 @@ defenseman
 decameral
 daintify
 doline
+drawstop
 diapasm
 daunts
 doab
@@ -2950,7 +2951,6 @@ deduces
 droil
 dolt
 deducibility
-drawstop
 deducted
 devolatilized
 disseisoress
