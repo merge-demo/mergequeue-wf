@@ -4049,7 +4049,6 @@ anality
 antislip
 agentival
 admissibility
-asci
 anestri
 admissive
 automan
@@ -14523,6 +14522,7 @@ anthropometry
 anuloma
 anthropometric
 acrocarpi
+asci
 allan
 anthropometrist
 anthropomophitism
