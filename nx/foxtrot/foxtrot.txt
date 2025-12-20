@@ -2266,7 +2266,6 @@ facaded
 florentinism
 flatulence
 firebombed
-fumaria
 forshape
 full
 flavones
@@ -7728,6 +7727,7 @@ flyeater
 flaglike
 foreknew
 fiord
+fumaria
 farcically
 florian
 freeish
