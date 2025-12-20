@@ -4023,6 +4023,7 @@ episporium
 empyemata
 empyemic
 empiercement
+extraepiphyseal
 evirato
 extensibleness
 epirogenetic
@@ -6265,7 +6266,6 @@ excipule
 epistapedial
 eelcatcher
 electrofishing
-extraepiphyseal
 ecstatica
 enrapt
 eurygaean
