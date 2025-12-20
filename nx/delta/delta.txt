@@ -51,7 +51,6 @@ dacryocyst
 dacryocystitis
 diarchial
 diseasefulness
-dacryocystoptosis
 dunder
 dacryocystosyringotomy
 derham
@@ -15874,6 +15873,7 @@ disrating
 defecated
 daft
 demonesses
+dacryocystoptosis
 deoxidizer
 dossiers
 diamondize
