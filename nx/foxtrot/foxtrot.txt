@@ -6244,7 +6244,6 @@ fluffiness
 flexography
 flugel
 frettingly
-foreleg
 flatlet
 fiji
 forerunnership
@@ -8370,6 +8369,7 @@ forswornness
 finickily
 foundations
 foliage
+foreleg
 fossilological
 forlain
 fatten
