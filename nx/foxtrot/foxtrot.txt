@@ -6452,6 +6452,7 @@ fluotantalic
 forweary
 flummery
 filth
+fellah
 folkcraft
 frenchize
 fordy
@@ -10443,7 +10444,6 @@ flche
 frontstall
 forstall
 frizes
-fellah
 ferocity
 flaxtail
 frontwards
