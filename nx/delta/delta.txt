@@ -13062,6 +13062,7 @@ deprecators
 deccennia
 dispatched
 devaster
+duskness
 duckish
 disesteeming
 dispatches
@@ -18585,7 +18586,6 @@ duskishness
 dogtrotting
 didrachm
 dewool
-duskness
 dust
 delphian
 dustbins
