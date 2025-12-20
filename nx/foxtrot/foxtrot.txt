@@ -4497,7 +4497,6 @@ fountainwise
 faldage
 frangulin
 fluctuant
-ferrotitanium
 faddy
 frowst
 flatting
@@ -9451,6 +9450,7 @@ fraternism
 fitfulness
 finesses
 faux
+ferrotitanium
 furcae
 falconbill
 familial
