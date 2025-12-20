@@ -197,7 +197,6 @@ ashtray
 arctogaea
 aerologist
 anilins
-ajimez
 abler
 anabathmoi
 aeolotropism
@@ -8326,6 +8325,7 @@ arsenium
 alimented
 alimentic
 alabandite
+ajimez
 automatical
 amphiphithyra
 affectum
