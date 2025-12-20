@@ -4921,7 +4921,6 @@ griper
 glossotomy
 geodal
 glycerinize
-gliomata
 gorier
 gavotted
 glaiks
@@ -10005,6 +10004,7 @@ gargled
 gelatinify
 galago
 grignet
+gliomata
 gaslike
 gateau
 gudame
