@@ -10354,6 +10354,7 @@ chided
 chiders
 colorbreed
 collusion
+ciphertexts
 cedarbird
 chilies
 cahoots
@@ -13983,7 +13984,6 @@ cyphered
 cipherer
 cipherhood
 ciphering
-ciphertexts
 carbonated
 cyphomandra
 cyphonism
