@@ -4837,7 +4837,6 @@ disembogue
 depthen
 decumana
 deepness
-dharna
 detickers
 decadal
 deathcups
@@ -10464,6 +10463,7 @@ deglutitive
 distortion
 dister
 droits
+dharna
 denaturate
 diphtheria
 diphtherian
