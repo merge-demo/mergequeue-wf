@@ -6776,6 +6776,7 @@ badian
 bookery
 bersagliere
 brittles
+bonnocks
 bin
 berserks
 barnumize
@@ -12593,7 +12594,6 @@ beverages
 boogeyman
 balance
 bonnnes
-bonnocks
 bonnwis
 bionomist
 bonorum
