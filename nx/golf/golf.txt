@@ -871,7 +871,6 @@ grammaticality
 gonagia
 gonadotropin
 girdlingly
-gameless
 gammy
 gynecomazia
 ganglionitis
@@ -8417,6 +8416,7 @@ graycoat
 gravamen
 grawls
 georgia
+gameless
 gyves
 gonoblastic
 goldonian
