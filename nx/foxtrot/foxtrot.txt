@@ -7969,7 +7969,6 @@ fitness
 freestones
 foreshow
 flatfoot
-fistulous
 flajolotite
 flagrantly
 femic
@@ -11716,6 +11715,7 @@ frowns
 furriered
 ferruled
 foredesign
+fistulous
 friars
 fosslology
 flighty
