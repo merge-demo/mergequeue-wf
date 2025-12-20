@@ -1694,7 +1694,6 @@ circ
 cestoi
 counterdiscipline
 calorifical
-chairs
 calorification
 cardiograph
 calappa
@@ -22346,6 +22345,7 @@ congressionalist
 congressionally
 corolla
 complementally
+chairs
 congressionist
 cobaltic
 congressist
