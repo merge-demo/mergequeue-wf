@@ -10962,7 +10962,6 @@ apulse
 abolitionary
 amyridaceae
 amoebobacterieae
-amoebocyte
 amoebogeniae
 amoebula
 amoy
@@ -24524,6 +24523,7 @@ ascaron
 auxetic
 adoptability
 aghorapanthi
+amoebocyte
 anywhereness
 armsize
 abhor
