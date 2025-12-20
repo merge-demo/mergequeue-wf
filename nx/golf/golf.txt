@@ -377,7 +377,6 @@ gavot
 gaoled
 gentiles
 glossophagine
-goto
 gansy
 glumpily
 goatskins
@@ -9420,6 +9419,7 @@ glues
 galloptious
 glycocholate
 gamble
+goto
 gingivoglossitis
 gramps
 gingerliness
