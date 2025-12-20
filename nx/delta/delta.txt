@@ -11906,7 +11906,6 @@ disdenominationalize
 dishonorableness
 disdiapason
 disdodecahedroid
-delegatus
 doughtiness
 distinguished
 dalliance
@@ -16603,6 +16602,7 @@ dragonesque
 daphnis
 dorados
 distr
+delegatus
 darkhearted
 dragonfishes
 didelph
