@@ -1491,7 +1491,6 @@ gunmaker
 gymnarchus
 gluconate
 galosh
-guacamole
 gastrulae
 guarachas
 gunocracy
@@ -4148,6 +4147,7 @@ gibbi
 grahamism
 gigback
 glottal
+guacamole
 ginkgoaceous
 gasan
 goetic
