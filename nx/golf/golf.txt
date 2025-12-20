@@ -1486,7 +1486,6 @@ girllike
 grotesque
 garner
 gasher
-galaginae
 glumly
 gunmaker
 gymnarchus
@@ -3728,6 +3727,7 @@ ghoulery
 goetia
 gasterosteus
 groundedness
+galaginae
 garnierite
 ghoulishly
 gastrocystis
