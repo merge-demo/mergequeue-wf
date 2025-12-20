@@ -5857,7 +5857,6 @@ agentives
 adducing
 archprototype
 agrionid
-archsnob
 agents
 ageometrical
 advisor
@@ -6414,6 +6413,7 @@ attempering
 alnascharism
 antefixa
 agrotype
+archsnob
 aurochloride
 anthotaxy
 anerly
