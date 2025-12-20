@@ -2932,7 +2932,6 @@ geocerite
 gubernation
 greenheaded
 gallons
-glabreity
 gulley
 growlier
 glumpish
@@ -4959,6 +4958,7 @@ grondwet
 gynaecol
 gamines
 gladioluses
+glabreity
 girondist
 groundwards
 glamors
