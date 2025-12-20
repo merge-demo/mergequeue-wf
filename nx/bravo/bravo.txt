@@ -6115,7 +6115,6 @@ buntline
 blepharodyschroia
 benedictinism
 brickfield
-benedictionary
 bucolical
 briolet
 benedictions
@@ -7328,6 +7327,7 @@ beneplacit
 biangular
 boatels
 babirussa
+benedictionary
 bootstrap
 bignoniaceous
 bethink
