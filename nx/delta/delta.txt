@@ -8283,7 +8283,6 @@ denudate
 demonization
 diagonic
 drum
-diagram
 deliriousness
 drahthaar
 demobilize
@@ -10706,6 +10705,7 @@ dipolar
 dingar
 dumbnesses
 diaculum
+diagram
 depit
 dormin
 digitalize
