@@ -12000,7 +12000,6 @@ choristership
 choristoblastoma
 choristoneura
 childminder
-chorizo
 catalanist
 chorizont
 chorizontal
@@ -22553,6 +22552,7 @@ concredit
 conkers
 coking
 corpulency
+chorizo
 commonness
 castuli
 colorrhaphy
