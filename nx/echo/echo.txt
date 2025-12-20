@@ -1575,6 +1575,7 @@ encampment
 epinasty
 envigor
 exogeny
+erythrocytometry
 exaggeratedness
 emball
 egises
@@ -12420,7 +12421,6 @@ euchlorhydria
 eyeletted
 envisionment
 epistyle
-erythrocytometry
 experient
 eyer
 ergometer
