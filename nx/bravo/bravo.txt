@@ -1829,7 +1829,6 @@ bandanaed
 battlepiece
 bollito
 bescribble
-besotter
 bandeau
 betula
 bancus
@@ -6592,6 +6591,7 @@ bodyplate
 beant
 bereaves
 boninesses
+besotter
 basioccipital
 berede
 berengaria
