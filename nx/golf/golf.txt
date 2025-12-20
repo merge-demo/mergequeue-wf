@@ -5802,6 +5802,7 @@ glorifiable
 gym
 grain
 goldsmith
+geometric
 gunflint
 gadarene
 gloveman
@@ -9901,7 +9902,6 @@ genapp
 gabi
 gobioids
 guaque
-geometric
 gracias
 genethliacon
 guarand
