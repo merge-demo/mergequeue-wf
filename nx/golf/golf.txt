@@ -2973,7 +2973,6 @@ glutinousness
 geyseric
 glueing
 gastrotheca
-glitterance
 gerara
 gullability
 grogger
@@ -8743,6 +8742,7 @@ groundenell
 grubby
 gambit
 glucosuric
+glitterance
 garrets
 games
 governess
