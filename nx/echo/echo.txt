@@ -6463,7 +6463,6 @@ eyeflap
 encroachment
 extensionless
 embroideries
-elvira
 ensober
 ensorceled
 encephalometer
@@ -12625,6 +12624,7 @@ encirclement
 excoriate
 exoculate
 expostulates
+elvira
 ecclesiasticalness
 exoculation
 exoderm
