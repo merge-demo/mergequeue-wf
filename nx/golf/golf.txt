@@ -8470,6 +8470,7 @@ glossator
 grinnie
 galactonic
 gratulation
+gridelin
 globefish
 grandeurs
 garoting
@@ -8969,7 +8970,6 @@ gesso
 glycogelatin
 germless
 gastrodidymus
-gridelin
 griding
 gasped
 galvo
