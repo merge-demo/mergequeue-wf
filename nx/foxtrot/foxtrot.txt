@@ -8979,6 +8979,7 @@ fiefdoms
 foreshadower
 frontally
 fourrageres
+faciendum
 fox
 fears
 fantaddish
@@ -9416,7 +9417,6 @@ freewheeling
 flagpoles
 furacana
 flammed
-faciendum
 franz
 forkman
 felidae
