@@ -1099,7 +1099,6 @@ goularo
 gormandizers
 genitives
 ganister
-goriest
 giroflore
 groat
 grooviness
@@ -2718,6 +2717,7 @@ gilbertese
 genyplasty
 glashan
 globularness
+goriest
 glandule
 grainering
 germanomania
