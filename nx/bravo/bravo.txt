@@ -1554,6 +1554,7 @@ ballgame
 ballhooter
 backslash
 balli
+buttering
 burmanniaceous
 burlesques
 befiddle
@@ -9323,7 +9324,6 @@ besmother
 brasilein
 bescours
 brazed
-buttering
 brines
 birdbaths
 broomroot
