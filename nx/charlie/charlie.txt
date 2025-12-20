@@ -15834,7 +15834,6 @@ cleavages
 cleaveful
 cleavelandite
 contentness
-cleaver
 cleavers
 crusilee
 coremaker
@@ -24924,6 +24923,7 @@ crabit
 coranto
 crazier
 caproate
+cleaver
 cynopodous
 corolliform
 cocaigne
