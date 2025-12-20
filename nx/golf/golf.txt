@@ -5,7 +5,6 @@ generalcy
 gaseliers
 greenleek
 googul
-gummous
 gunrooms
 gabber
 gabbers
@@ -8138,6 +8137,7 @@ gazabos
 garderobe
 gaspergous
 gynaeolater
+gummous
 gulfed
 gloat
 glowflies
