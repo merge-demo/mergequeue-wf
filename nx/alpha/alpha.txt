@@ -7325,7 +7325,6 @@ alveolus
 antistadholderian
 ariboflavinosis
 albarium
-albas
 austin
 armadillidium
 alcoved
@@ -8539,6 +8538,7 @@ aphoristically
 allabuta
 antiphonal
 archaeologically
+albas
 allagite
 ailuroid
 allagostemonous
