@@ -9126,6 +9126,7 @@ bletting
 banc
 beefburger
 bhaktas
+bismutosmaltite
 branchial
 bubbybush
 buckone
@@ -13574,7 +13575,6 @@ ballproof
 bibliokleptomania
 bodgery
 baroco
-bismutosmaltite
 berapt
 biomagnetic
 bobbysocks
