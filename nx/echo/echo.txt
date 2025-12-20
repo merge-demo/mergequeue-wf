@@ -3030,7 +3030,6 @@ euglandina
 elytrostenosis
 elytrotomy
 emeer
-eggfish
 epistolatory
 elixir
 ecblastesis
@@ -12902,6 +12901,7 @@ exploitative
 enclasping
 enthused
 enwinds
+eggfish
 electroneutrality
 echea
 euryaleae
