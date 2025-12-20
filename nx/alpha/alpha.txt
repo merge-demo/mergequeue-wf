@@ -5618,7 +5618,6 @@ accrue
 axbreaker
 agacerie
 austromancy
-alloiometry
 acoelomatous
 axillary
 agade
@@ -15092,6 +15091,7 @@ armomancy
 ascetics
 async
 aruke
+alloiometry
 antidote
 appraise
 agnosias
