@@ -13399,7 +13399,6 @@ bartisans
 bulgier
 birles
 beaver
-bigwiggism
 botryllus
 bucketer
 brachyceral
@@ -14639,6 +14638,7 @@ brasenia
 braseros
 backspin
 brash
+bigwiggism
 bucklering
 brasher
 brashiest

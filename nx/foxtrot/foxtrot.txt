@@ -4478,6 +4478,7 @@ fishtailed
 fibrilled
 fishpotter
 finicism
+furler
 forerigging
 footstool
 fishskin
@@ -5132,7 +5133,6 @@ fermerer
 famulli
 fragrancies
 forewords
-furler
 fregit
 farmhousey
 fraile
