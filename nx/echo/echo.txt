@@ -4938,6 +4938,7 @@ eudemons
 extradictable
 endamoebas
 endamoebidae
+editorializing
 equations
 entoils
 endangitis
@@ -13815,7 +13816,6 @@ extracarpal
 extratropical
 extendible
 excepted
-editorializing
 extracerebral
 embolo
 elucidative
