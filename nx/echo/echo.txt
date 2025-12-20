@@ -6101,7 +6101,6 @@ encomienda
 eugenic
 eulachon
 elasmosaur
-ebullience
 evanesce
 epifauna
 epirrhema
@@ -6484,6 +6483,7 @@ ectodermic
 ensphering
 enlister
 enstar
+ebullience
 enrapturing
 espanoles
 elocation
