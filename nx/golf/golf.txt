@@ -5489,7 +5489,6 @@ glyster
 galumphed
 gablet
 grande
-ganoids
 gimmer
 goods
 gentlemen
@@ -6584,6 +6583,7 @@ goulan
 guarapo
 ghostwrite
 gingivolabial
+ganoids
 gynandrian
 gelsemin
 gruis
