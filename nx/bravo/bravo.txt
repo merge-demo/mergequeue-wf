@@ -196,7 +196,6 @@ beamlike
 berceau
 bargainee
 bacchants
-bismanol
 bridleless
 beguiling
 bloodwood
@@ -4744,6 +4743,7 @@ benitoite
 butcherliness
 badmash
 bangs
+bismanol
 bedlams
 bienseance
 bedlar
