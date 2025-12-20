@@ -1075,7 +1075,6 @@ ferroelectricity
 furziest
 farrago
 franchisement
-frizer
 flichters
 foreswear
 feriae
@@ -3275,6 +3274,7 @@ fireburn
 fomenting
 flatware
 feelings
+frizer
 fiddlecome
 fracedinous
 farewells
