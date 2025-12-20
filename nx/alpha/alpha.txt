@@ -712,7 +712,6 @@ anticytotoxin
 astrofel
 acequiador
 abovedeck
-azygomatous
 aboveproof
 abovestairs
 aluminised
@@ -18839,6 +18838,7 @@ archgod
 archheart
 aoristically
 archhypocrisy
+azygomatous
 archhypocrite
 archdeaconess
 alamire
