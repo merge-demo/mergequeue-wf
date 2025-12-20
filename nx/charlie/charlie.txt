@@ -9935,7 +9935,6 @@ cambists
 crescographic
 caseconv
 chaoses
-comedians
 chenet
 chirotony
 calangay
@@ -24600,6 +24599,7 @@ cerebrogalactose
 copies
 copyfitter
 comvia
+comedians
 copyfitting
 copygraph
 choring
