@@ -11129,7 +11129,6 @@ blunker
 blandness
 brawniest
 buckler
-benevolently
 brotan
 broguing
 bipenniform
@@ -18017,6 +18016,7 @@ barmfel
 babbitt
 busk
 barlock
+benevolently
 burghmoot
 bicornuous
 bromise
