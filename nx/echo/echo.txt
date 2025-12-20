@@ -292,7 +292,6 @@ eatability
 excamb
 erythrocytorrhexis
 emir
-enwwoven
 essoin
 ecotopic
 easters
@@ -9579,6 +9578,7 @@ emptory
 expediente
 excurse
 esculent
+enwwoven
 egocentristic
 encephaloma
 enchasers
