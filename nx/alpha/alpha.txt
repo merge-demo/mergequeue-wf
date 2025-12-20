@@ -14164,7 +14164,6 @@ antepenult
 acromyodi
 allergic
 amphithere
-abcissa
 antepirrhema
 absolutions
 avine
@@ -15464,6 +15463,7 @@ anapestic
 antimension
 archisperm
 antimere
+abcissa
 antimerina
 antimerism
 archetypically
