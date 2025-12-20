@@ -4217,7 +4217,6 @@ gimped
 gimpier
 guidable
 galactolytic
-gippers
 gliosa
 greenovite
 gigantosaurus
@@ -8171,6 +8170,7 @@ gambroon
 glazier
 gemmiparous
 grapeless
+gippers
 gumlah
 guillem
 geloscopy
