@@ -351,7 +351,6 @@ gingerin
 grade
 gilet
 gantlets
-gley
 graphed
 gasogenic
 gorefish
@@ -7056,6 +7055,7 @@ gesellschaft
 galyaks
 genericalness
 grayly
+gley
 gliocyte
 gutturopalatal
 gastrosoph
