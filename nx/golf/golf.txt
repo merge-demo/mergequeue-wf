@@ -2640,6 +2640,7 @@ genethlic
 glossopetra
 goatee
 glossosteresis
+gambir
 geniality
 genetics
 gastrolysis
@@ -9743,7 +9744,6 @@ grummet
 gable
 gibbetting
 genuflector
-gambir
 gordiidae
 gagroot
 gablewise
