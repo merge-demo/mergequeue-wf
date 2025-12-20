@@ -1817,7 +1817,6 @@ fluidify
 featureful
 featurelessness
 featureliness
-furrows
 figureheadship
 fellahin
 firebreaks
@@ -3036,6 +3035,7 @@ forensical
 felstones
 friendlies
 fibbers
+furrows
 fustin
 fiber
 fiberizes
