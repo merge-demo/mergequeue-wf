@@ -2657,7 +2657,6 @@ eiry
 entad
 exemplarity
 ethnocentrism
-electrosmosis
 excelling
 exegetist
 enquiries
@@ -13629,6 +13628,7 @@ endoblastic
 experienced
 ears
 ethnomusicologically
+electrosmosis
 exopterygotic
 evited
 erme
