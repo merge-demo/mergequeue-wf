@@ -5063,6 +5063,7 @@ gerunds
 gustful
 gularis
 garland
+gladify
 ganged
 gret
 glassful
@@ -5842,7 +5843,6 @@ gedact
 galvanoplastic
 grundel
 gadger
-gladify
 gate
 gymnosporangium
 gynoecium
