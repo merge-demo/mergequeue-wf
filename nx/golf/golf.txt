@@ -3226,7 +3226,6 @@ geraniums
 gebur
 galoping
 giron
-gluttons
 girtonian
 gap
 ghosty
@@ -7473,6 +7472,7 @@ grapplement
 gomerals
 gasconaded
 gists
+gluttons
 geodesy
 gades
 gonorrhoea
