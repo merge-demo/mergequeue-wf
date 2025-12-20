@@ -6129,7 +6129,6 @@ gyroma
 greit
 greatly
 gnathostomous
-gustoes
 gnathostome
 gjetosts
 gallivants
@@ -8490,6 +8489,7 @@ golfing
 glosser
 graveclod
 genl
+gustoes
 gibaro
 graffias
 garum
