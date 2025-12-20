@@ -10047,6 +10047,7 @@ exitial
 entamoebiasis
 epopoeist
 etceteras
+enascent
 ethanediol
 erianthus
 ethanedithiol
@@ -12115,7 +12116,6 @@ excerpter
 eubacterium
 ency
 excruciating
-enascent
 excruciator
 ennomic
 excubitoria
