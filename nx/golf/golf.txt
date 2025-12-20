@@ -9302,7 +9302,6 @@ gunj
 guidebook
 globetrotting
 gi
-geodynamicist
 grapeline
 girnel
 gallowglass
@@ -10415,6 +10414,7 @@ gnotobiotic
 guidecraft
 gutturalness
 guttier
+geodynamicist
 gatecrashers
 gadgetries
 gnateater
