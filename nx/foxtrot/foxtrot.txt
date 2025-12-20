@@ -385,7 +385,6 @@ froes
 fluorides
 faintly
 ferrymen
-fearer
 filicauline
 forbid
 fairfieldite
@@ -7157,6 +7156,7 @@ fredaine
 foosterer
 footfarer
 falsework
+fearer
 fricassees
 flimflammery
 footfolk
