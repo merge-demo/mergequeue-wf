@@ -4114,7 +4114,6 @@ glutamine
 gastroduodenostomies
 gimleting
 gesnerad
-geotaxes
 gettysburg
 gargoyle
 glosts
@@ -8462,6 +8461,7 @@ gastaldite
 gadzooks
 gushet
 gomphosis
+geotaxes
 garancine
 goatishness
 gerontophilia

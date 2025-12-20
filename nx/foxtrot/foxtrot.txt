@@ -6689,7 +6689,6 @@ flores
 fogdogs
 frippery
 fairways
-fogdom
 fogfruit
 fibrins
 fruiteress
@@ -11512,6 +11511,7 @@ fundamentally
 furthered
 foretopmen
 fibrolipomatous
+fogdom
 finalis
 fissidactyl
 fireflaught
