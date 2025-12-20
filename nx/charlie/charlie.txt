@@ -97,6 +97,7 @@ cabbie
 crenelate
 cabbies
 cabble
+cosec
 cabbled
 cabbler
 chars
@@ -23784,7 +23785,6 @@ conjunctival
 centrifugal
 contrascriptural
 contrast
-cosec
 costocolic
 colessee
 cyclostomatidae
