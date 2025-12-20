@@ -8802,7 +8802,6 @@ effectuate
 eventuations
 eldmother
 equestrial
-elide
 ensellure
 eight
 etruscans
@@ -11230,6 +11229,7 @@ ethine
 electropuncture
 evangelic
 evangelical
+elide
 endoplastron
 evangelically
 erector
