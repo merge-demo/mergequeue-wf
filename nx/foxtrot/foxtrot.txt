@@ -4934,6 +4934,7 @@ flidder
 frogflower
 facetiously
 flatteringly
+flightshot
 fergusite
 frenetic
 formly
@@ -10079,7 +10080,6 @@ firster
 foredecree
 formalise
 fearfulness
-flightshot
 fittyfied
 fluoborite
 finalizations
