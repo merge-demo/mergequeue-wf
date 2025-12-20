@@ -2973,6 +2973,7 @@ accedes
 antiacid
 austerest
 alisma
+anoopsia
 actinobaccilli
 anchusins
 audience
@@ -13756,7 +13757,6 @@ astragalonavicular
 anonymity
 anonymously
 anonymuncule
-anoopsia
 anopheles
 anophelinae
 anophoria
