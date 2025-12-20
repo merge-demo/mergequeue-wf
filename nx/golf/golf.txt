@@ -5098,6 +5098,7 @@ glassmaking
 guerite
 glyc
 gallberries
+gossiper
 grav
 gomerec
 grittier
@@ -8012,7 +8013,6 @@ gastronomy
 gastronomics
 gata
 gunstock
-gossiper
 grandpapa
 grunting
 geophysicists
