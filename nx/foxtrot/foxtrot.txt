@@ -2747,6 +2747,7 @@ ficary
 festered
 faliscan
 frizer
+floriscope
 friedelite
 foreparts
 fights
@@ -6069,7 +6070,6 @@ fraternate
 flocculating
 frayn
 floridity
-floriscope
 fetterbush
 faba
 funicule
