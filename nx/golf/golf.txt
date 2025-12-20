@@ -4282,7 +4282,6 @@ graveclothes
 goatlike
 gregos
 gigantesque
-grousing
 gumlike
 gabfests
 granulate
@@ -5903,6 +5902,7 @@ gassiness
 guereba
 gymnospermous
 goitrous
+grousing
 gasogene
 goliardeys
 groveless
