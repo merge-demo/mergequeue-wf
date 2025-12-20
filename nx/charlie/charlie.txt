@@ -3116,7 +3116,6 @@ capacitativly
 coldness
 can
 capacitive
-cenotaphies
 cyclophrenia
 cyclopes
 capacitor
@@ -12457,6 +12456,7 @@ cingulate
 chamaecrista
 cranemanship
 chromoisomer
+cenotaphies
 chromoisomeric
 chamaenerion
 candelabra
