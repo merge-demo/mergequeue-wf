@@ -2496,7 +2496,6 @@ burian
 bhut
 bedark
 barocco
-brachyoura
 barge
 bergere
 bult
@@ -11002,6 +11001,7 @@ blitz
 bal
 bleeder
 bobbie
+brachyoura
 bonnily
 baccilla
 bawbee
