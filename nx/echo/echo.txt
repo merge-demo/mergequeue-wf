@@ -7325,6 +7325,7 @@ enolize
 exemplariness
 eelshop
 ephah
+embarcation
 enact
 electrooptics
 escaping
@@ -12517,7 +12518,6 @@ effare
 electrologic
 erythrean
 existimation
-embarcation
 eunicid
 epicalyx
 ezan
