@@ -10252,7 +10252,6 @@ froideur
 froise
 frokin
 filum
-felons
 frolic
 felstone
 fluidglycerate
@@ -11547,6 +11546,7 @@ fetting
 fusiform
 fusil
 frictionized
+felons
 fowage
 figurations
 feedback

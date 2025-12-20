@@ -1471,7 +1471,6 @@ gradualness
 guydom
 gossypine
 gasboat
-giddiness
 gaselier
 golet
 gastrophilus
@@ -9674,6 +9673,7 @@ gowaned
 gorgonaceous
 globalist
 gruelers
+giddiness
 glossography
 graphologies
 griphe
