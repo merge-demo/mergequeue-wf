@@ -4979,7 +4979,6 @@ beerhouses
 breech
 barbecueing
 beladied
-basement
 bluebeardism
 belleric
 beermaker
@@ -6639,6 +6638,7 @@ boneshave
 bodegon
 beribanded
 birdy
+basement
 bargeboard
 barbarious
 beriberis
