@@ -17779,6 +17779,7 @@ duckbill
 dossing
 duckblind
 dismaw
+dissue
 duckboard
 doublehatching
 ducked
@@ -18316,7 +18317,6 @@ dhu
 duns
 dragomans
 decerebration
-dissue
 distractible
 duodynatron
 decryptograph
