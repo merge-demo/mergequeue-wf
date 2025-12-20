@@ -2908,7 +2908,6 @@ accidentiality
 anacromyodian
 armamentary
 advisive
-aerobatics
 albugineous
 acrostical
 acrostichoid
@@ -19159,6 +19158,7 @@ aggravated
 antispastic
 adjiger
 allentiac
+aerobatics
 arthropoda
 accessorized
 attendances
