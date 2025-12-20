@@ -627,7 +627,6 @@ gallisin
 gunslingers
 gillie
 geophysicist
-gigartina
 glide
 gradatory
 guenepe
@@ -2029,6 +2028,7 @@ gases
 gaveled
 gibbosities
 gangrenes
+gigartina
 glochchidia
 gnomologic
 greiges
