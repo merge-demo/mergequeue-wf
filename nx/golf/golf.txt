@@ -2285,6 +2285,7 @@ grange
 granulosa
 gynarchy
 guitguit
+germule
 gibblegabbler
 galante
 gumihan
@@ -3313,7 +3314,6 @@ gabback
 geneticists
 germanized
 germanizer
-germule
 germanness
 ganging
 gunrunner
