@@ -2525,6 +2525,7 @@ fluorine
 fiatconfirmatio
 fanam
 feeler
+footwall
 frugivorous
 fibromembranous
 filamentule
@@ -8460,7 +8461,6 @@ filmdoms
 fittily
 foxes
 formations
-footwall
 fatbrained
 formazan
 formee
