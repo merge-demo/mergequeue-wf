@@ -5171,7 +5171,6 @@ casernes
 costumery
 caserns
 cases
-caseum
 cordis
 caseworks
 caseworm
@@ -15656,6 +15655,7 @@ chiffonnier
 chiasmodontid
 cirrigrade
 clausule
+caseum
 cheekily
 clausure
 claut
