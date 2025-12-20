@@ -2740,6 +2740,7 @@ grenades
 geodesists
 gristmiller
 gliadins
+garn
 guillotine
 gader
 gunboats
@@ -10515,7 +10516,6 @@ gimmicks
 goalee
 gypsous
 grayishness
-garn
 goblinry
 gundie
 graspingness
