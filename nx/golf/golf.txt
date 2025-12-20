@@ -166,7 +166,6 @@ glassworm
 goliardic
 gerontocratic
 gag
-garoted
 glamour
 greyhen
 gorgoneion
@@ -3155,6 +3154,7 @@ gastroelytrotomy
 greedygut
 gets
 geoscientists
+garoted
 geochronologically
 gellant
 gavotte
