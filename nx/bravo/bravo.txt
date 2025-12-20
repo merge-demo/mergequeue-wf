@@ -9914,6 +9914,7 @@ bittings
 boodle
 budders
 boget
+blunderbuss
 bedticking
 bordelaise
 bauson
@@ -11505,7 +11506,6 @@ bethwack
 bombload
 blumes
 benighting
-blunderbuss
 borasqueborate
 blunderbusses
 boundure
