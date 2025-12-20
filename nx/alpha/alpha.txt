@@ -7941,6 +7941,7 @@ adp
 alerters
 autotropically
 amygdules
+apospory
 alerting
 ales
 anion
@@ -8916,7 +8917,6 @@ alloisomerism
 axisymmetric
 archaically
 agallochum
-apospory
 anematizing
 aerobiologic
 allomorphism
