@@ -6397,7 +6397,6 @@ ethmoids
 elaboration
 enrobed
 encrinitical
-epist
 enunciator
 eluvivia
 elapid
@@ -11863,6 +11862,7 @@ engracing
 excavator
 enlace
 excave
+epist
 eructated
 extancy
 elutes
