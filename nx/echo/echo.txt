@@ -8875,7 +8875,6 @@ erethisia
 excursively
 embossers
 eelworms
-enteron
 erewhile
 erewhiles
 ergane
@@ -13373,6 +13372,7 @@ enrichers
 esthesiometry
 exsanguinity
 everydeal
+enteron
 elytral
 expository
 enteropexia
