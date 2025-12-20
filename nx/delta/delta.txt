@@ -6855,6 +6855,7 @@ dragnet
 deadflat
 deltic
 domesticative
+drakelet
 derivative
 desmopathology
 desmopexia
@@ -16684,7 +16685,6 @@ despondent
 doruck
 disturbers
 diablo
-drakelet
 decaspermous
 drugging
 dramatically
