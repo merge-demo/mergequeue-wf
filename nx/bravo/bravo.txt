@@ -2637,7 +2637,6 @@ bandusia
 bescorch
 batrachite
 beeth
-barlafumble
 blurred
 basilinna
 buckstall
@@ -11186,6 +11185,7 @@ boodleize
 bloodsuck
 bloomingly
 boleti
+barlafumble
 biometer
 biforin
 bloomless
