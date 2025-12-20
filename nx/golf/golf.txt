@@ -2340,7 +2340,6 @@ gustfulness
 gymnics
 geographism
 gelees
-geologist
 gurging
 gymnocerata
 gadinic
@@ -7347,6 +7346,7 @@ gaberlunzie
 gunation
 globe
 galactin
+geologist
 gymnospermic
 gaggler
 gluon
