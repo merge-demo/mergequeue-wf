@@ -4993,6 +4993,7 @@ beerpull
 beers
 beest
 blowers
+bedeaf
 babbools
 bibation
 bindweb
@@ -15183,7 +15184,6 @@ bribeless
 briberies
 bactetiophage
 bicentennials
-bedeaf
 blancs
 barbiturate
 batwa
