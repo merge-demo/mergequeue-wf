@@ -4519,7 +4519,6 @@ adversities
 abranchial
 aliptes
 axotomous
-advertence
 advertently
 adverting
 appertise
@@ -10096,6 +10095,7 @@ archecclesiastic
 amylosynthesis
 adelpholite
 alumin
+advertence
 acidyl
 antiluetic
 aspirin
