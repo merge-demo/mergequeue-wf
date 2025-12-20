@@ -2614,7 +2614,6 @@ grisette
 gowf
 gasometrical
 glossolabial
-geiger
 goutte
 garabato
 galluot
@@ -8957,6 +8956,7 @@ guinevere
 groroilite
 gnosiology
 gothicity
+geiger
 gall
 genuclast
 genteel
