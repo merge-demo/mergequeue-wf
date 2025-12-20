@@ -16173,7 +16173,6 @@ balklines
 brotheler
 bulla
 brimstony
-bristletail
 bayonetted
 bred
 brazilians
@@ -18323,6 +18322,7 @@ beths
 bioelectricities
 blennuria
 brahmans
+bristletail
 brightens
 brewst
 botherheaded
