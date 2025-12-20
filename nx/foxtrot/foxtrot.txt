@@ -5976,7 +5976,6 @@ fibromembrane
 floods
 foisons
 fortifiable
-fantaisie
 fisk
 filleter
 fanwright
@@ -9255,6 +9254,7 @@ frug
 fertilities
 fraises
 fretwise
+fantaisie
 fascinery
 faradomuscular
 frontispieced
