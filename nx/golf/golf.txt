@@ -3689,7 +3689,6 @@ glyceral
 guardstone
 gulist
 griphus
-groover
 gaslighted
 gelastic
 grapsus
@@ -9215,6 +9214,7 @@ goshawful
 guiled
 geologists
 germanous
+groover
 guaka
 glairing
 gunebo
