@@ -11336,7 +11336,6 @@ amphiumidae
 alcoholimeter
 alegar
 aposthume
-abomasi
 amphodarch
 ampholytic
 anobiidae
@@ -17000,6 +16999,7 @@ apoatropine
 apobiotic
 apoblast
 aview
+abomasi
 adhamant
 apocalypse
 anococcygeal
