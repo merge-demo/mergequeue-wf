@@ -3299,7 +3299,6 @@ capitulator
 capituliform
 cystolithic
 crotchwood
-celebratory
 coilers
 caplin
 caplins
@@ -28333,6 +28332,7 @@ crave
 craved
 craven
 cudbears
+celebratory
 churchmen
 clans
 coheretic
