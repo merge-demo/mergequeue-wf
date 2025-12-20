@@ -2428,6 +2428,7 @@ epistle
 eumenidean
 empiristic
 esloign
+entailment
 ehrwaldite
 ethionamide
 erythroclasis
@@ -13181,7 +13182,6 @@ enfeature
 episcotister
 expiable
 excubitorium
-entailment
 embroil
 enties
 expiation
