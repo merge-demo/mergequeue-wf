@@ -17727,7 +17727,6 @@ adaptationally
 adjacencies
 anthorine
 appliable
-appliance
 apocentre
 achitophel
 appliant
@@ -18828,6 +18827,7 @@ adhibit
 archfiend
 apprize
 aroma
+appliance
 archflamen
 archfoe
 ancestresses
