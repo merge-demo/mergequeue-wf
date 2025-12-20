@@ -2087,7 +2087,6 @@ graminological
 gawk
 gratingly
 gozzard
-gerberia
 guerillaism
 geobotanist
 galvanizer
@@ -5248,6 +5247,7 @@ genuflectory
 glucolipin
 golf
 gab
+gerberia
 gunter
 gorgonzola
 gamecraft
