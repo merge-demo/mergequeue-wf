@@ -5804,6 +5804,7 @@ glorifiable
 gym
 grain
 goldsmith
+gunflint
 gadarene
 gloveman
 gumtrees
@@ -8434,7 +8435,6 @@ ganderteeth
 gratified
 gaseous
 gratis
-gunflint
 grad
 gladiolas
 gales
