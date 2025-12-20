@@ -1798,7 +1798,6 @@ gonadial
 genealogizer
 gastroscopist
 gavelled
-gasterosteid
 glossolaly
 gutterblood
 gelatinotype
@@ -2039,6 +2038,7 @@ greiges
 guazuti
 gavelock
 grunion
+gasterosteid
 givenness
 gyroscopics
 gerocomia

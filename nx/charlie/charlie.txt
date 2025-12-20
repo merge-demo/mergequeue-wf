@@ -6410,6 +6410,7 @@ correcter
 conchfish
 cauterizer
 cauterizes
+chamfron
 caution
 cautionary
 couve
@@ -8423,7 +8424,6 @@ calvaria
 carilloneur
 cradock
 conscientiously
-chamfron
 carpal
 chamian
 chamisal
