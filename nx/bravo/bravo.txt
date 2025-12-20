@@ -11631,6 +11631,7 @@ bryologist
 bosket
 boatage
 bacterioscopical
+buttercup
 barspoon
 boatbuilding
 boathouse
@@ -14894,7 +14895,6 @@ barkeep
 breakings
 bovicide
 breaklist
-buttercup
 belis
 bostonians
 breakoff
