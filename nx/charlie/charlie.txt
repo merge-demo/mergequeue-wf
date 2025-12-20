@@ -8214,7 +8214,6 @@ complection
 chalaco
 crispation
 cellarous
-chalastogastra
 crakes
 celestinian
 chalazian
@@ -28561,6 +28560,7 @@ crediting
 comd
 checkerwork
 creditive
+chalastogastra
 creditless
 creditor
 curial
