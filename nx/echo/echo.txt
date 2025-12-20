@@ -3171,6 +3171,7 @@ edict
 extortionists
 epiplastral
 exhaustiveness
+euphoria
 eom
 epitra
 emmarble
@@ -8898,7 +8899,6 @@ extrameridian
 educationally
 ergodic
 evenhead
-euphoria
 estaminets
 expectorators
 entoderms
