@@ -8967,7 +8967,6 @@ carbinyl
 cortex
 chariot
 continuo
-charioting
 chariotman
 collegiately
 chondri
@@ -15075,6 +15074,7 @@ clackama
 circumtropical
 chinsed
 clacker
+charioting
 clackety
 coexertion
 clacking
