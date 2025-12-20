@@ -7438,7 +7438,6 @@ allogamies
 assessor
 apertly
 adventitiously
-aestivator
 albitic
 augustly
 apts
@@ -8750,6 +8749,7 @@ alliance
 actorship
 abaze
 aramus
+aestivator
 anschluss
 alliancing
 affluxion
