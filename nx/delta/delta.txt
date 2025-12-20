@@ -14377,7 +14377,6 @@ dimensuration
 diuron
 demeaned
 dielec
-dielytra
 doled
 diva
 divagated
@@ -15577,6 +15576,7 @@ discovering
 doubt
 divelled
 diathermize
+dielytra
 donzels
 doob
 diazobenzene
