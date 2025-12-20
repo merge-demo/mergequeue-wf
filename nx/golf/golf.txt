@@ -1093,7 +1093,6 @@ gypsums
 gegenion
 glares
 guarding
-gainfully
 graphicness
 gowdy
 goularo
@@ -9666,6 +9665,7 @@ grueled
 ghana
 guipures
 gamogony
+gainfully
 gibuses
 gowdie
 gastroscopy
