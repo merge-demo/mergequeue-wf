@@ -993,7 +993,6 @@ glycogenesis
 goldhammer
 ganderess
 genethlialogy
-gamester
 grimace
 geanticline
 gubernia
@@ -7856,6 +7855,7 @@ gynaeocracy
 grovy
 gudge
 grecomaniac
+gamester
 gyrostachys
 ghastliest
 gradualistic
