@@ -16180,6 +16180,7 @@ dispersions
 dertra
 degas
 droplet
+defrauder
 desalinized
 deweylite
 dowdy
@@ -18406,7 +18407,6 @@ demilune
 demonstrable
 duopsonistic
 devota
-defrauder
 diatribist
 doke
 duosecant
