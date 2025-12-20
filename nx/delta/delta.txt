@@ -9363,6 +9363,7 @@ difficileness
 difficilitate
 dignosle
 dewinesses
+drinkable
 doucely
 drooling
 dockages
@@ -17821,7 +17822,6 @@ ductilize
 disambiguated
 ductilized
 ductless
-drinkable
 darktown
 darrell
 ductor
