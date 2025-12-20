@@ -14429,7 +14429,6 @@ cirripedia
 conservable
 cirripedial
 centiare
-carate
 cowled
 crosscrosslet
 charades
@@ -18947,6 +18946,7 @@ coadaptation
 collarless
 collate
 collatee
+carate
 collaterality
 curari
 chuchona
