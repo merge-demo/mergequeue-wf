@@ -4699,7 +4699,6 @@ fixidity
 fixing
 flannelleaf
 fixt
-furca
 flopwing
 fangs
 fummel
@@ -8432,6 +8431,7 @@ foreboded
 floweriness
 foppish
 forpine
+furca
 fictitiously
 facsimilize
 felonsetter
