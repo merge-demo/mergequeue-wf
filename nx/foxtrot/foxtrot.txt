@@ -4098,6 +4098,7 @@ federation
 fakers
 foreprovided
 finny
+footfault
 fabulosity
 fylgjur
 foolship
@@ -7158,7 +7159,6 @@ fredaine
 foosterer
 footfarer
 falsework
-footfault
 fricassees
 flimflammery
 footfolk
