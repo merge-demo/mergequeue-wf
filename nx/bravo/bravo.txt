@@ -11595,7 +11595,6 @@ bathers
 bighorns
 brooklime
 becomma
-badgeman
 baggageman
 boa
 brushite
@@ -17381,6 +17380,7 @@ bloodmobiles
 bunged
 bylawman
 busheling
+badgeman
 buccinator
 bunger
 bimorphemic
