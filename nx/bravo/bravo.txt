@@ -9724,7 +9724,6 @@ backslapped
 buildingless
 bioenergetics
 boatie
-byssoid
 buckskin
 bedragglement
 bissonata
@@ -15448,6 +15447,7 @@ brilliolette
 brills
 baculites
 bigothero
+byssoid
 banns
 brimfullness
 brongniardite
