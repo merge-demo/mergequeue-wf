@@ -2037,7 +2037,6 @@ bankrolled
 bankrolling
 bankrupt
 bosporan
-burl
 bankruptism
 bessy
 bankruptcy
@@ -3935,6 +3934,7 @@ bdelliums
 brownist
 bdelloid
 bdellometer
+burl
 boarts
 booksellerish
 bombardier
