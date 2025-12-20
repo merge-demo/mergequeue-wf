@@ -4167,7 +4167,6 @@ gramicidin
 gaitt
 gibleh
 gratewise
-gilding
 gypsum
 gouda
 guarapo
@@ -10456,6 +10455,7 @@ gummaking
 gjetost
 gallotannic
 gentleheartedly
+gilding
 gundalow
 greetings
 grakle
