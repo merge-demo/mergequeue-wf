@@ -8842,6 +8842,7 @@ equiprobabilist
 eternities
 egyptologic
 enjeopardy
+episome
 encrypt
 emptive
 euonymin
@@ -11146,7 +11147,6 @@ eavesdrip
 encomy
 evacuant
 eighteenmos
-episome
 executing
 evacuants
 earthdrake
