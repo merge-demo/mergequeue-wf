@@ -6776,7 +6776,6 @@ brittles
 bonnocks
 bin
 berserks
-barnumize
 berskin
 balize
 berhyme
@@ -15079,6 +15078,7 @@ begot
 brents
 bearance
 brere
+barnumize
 baffles
 binocular
 brest
