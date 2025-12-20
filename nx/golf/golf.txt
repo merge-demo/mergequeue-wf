@@ -1133,7 +1133,6 @@ gashes
 globalization
 glossing
 ganoidian
-graptolitoidea
 gaillardia
 geonyctitropic
 gutsiest
@@ -6532,6 +6531,7 @@ glycogenosis
 ghis
 gunster
 geotherm
+graptolitoidea
 gamopetalous
 goldsmithry
 grays
