@@ -6876,7 +6876,6 @@ birlers
 beshake
 bentinck
 bendel
-beryllosis
 beastie
 bougainvillaeas
 beseemliness
@@ -15989,6 +15988,7 @@ bellmaster
 bashed
 bearer
 bemourn
+beryllosis
 bronchographic
 blooming
 bronchohemorrhagia
