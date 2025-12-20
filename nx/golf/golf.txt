@@ -9227,7 +9227,6 @@ glassworker
 griqualander
 geminis
 gleaning
-gardenmaking
 glouting
 gooserumped
 grison
@@ -9405,6 +9404,7 @@ genesis
 grothine
 greenleaf
 grothite
+gardenmaking
 glumiflorae
 guatoan
 glissandi
