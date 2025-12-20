@@ -12,7 +12,6 @@ gobi
 guepard
 grasswork
 gratuities
-gabelles
 greedsome
 gledy
 genetous
@@ -8558,6 +8557,7 @@ gravicembalos
 garrotter
 glutton
 gravida
+gabelles
 gynecomasty
 garcons
 ganoidal
