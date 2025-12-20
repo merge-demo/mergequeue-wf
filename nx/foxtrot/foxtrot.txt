@@ -7249,7 +7249,6 @@ foiled
 footslogger
 flailed
 financiery
-fatstocks
 fluorogen
 foregoing
 fissuration
@@ -10519,6 +10518,7 @@ fusiliers
 firemen
 frowl
 fierily
+fatstocks
 frowners
 faciend
 freq

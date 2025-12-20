@@ -9406,6 +9406,7 @@ brattach
 bathman
 balustrades
 benedictus
+butcherer
 bebotch
 bridegroom
 begettal
@@ -18120,7 +18121,6 @@ benzal
 bealtared
 bloodlettings
 buskin
-butcherer
 blobbier
 bureaucrats
 boll
