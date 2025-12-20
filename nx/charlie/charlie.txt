@@ -10931,7 +10931,6 @@ chirographical
 chirolas
 chirology
 curators
-chirological
 chirologically
 classicalness
 cartelism
@@ -30145,6 +30144,7 @@ crowshay
 cryocautery
 crowstepped
 citee
+chirological
 crowstick
 crowstone
 camber
