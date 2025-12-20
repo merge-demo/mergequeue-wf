@@ -4333,7 +4333,6 @@ enamelless
 eluder
 emit
 edibles
-enami
 estranging
 enamorado
 enamorato
@@ -11913,6 +11912,7 @@ emissivity
 emends
 eightfoil
 engore
+enami
 euploeinae
 ectoderms
 emotionalist
