@@ -8662,7 +8662,6 @@ flawed
 fillebeg
 fumistery
 foretastes
-filicoids
 flanched
 folkboat
 federating
@@ -10961,6 +10960,7 @@ firmless
 freesias
 frigidaire
 furors
+filicoids
 forgettable
 fink
 fumaroidal
