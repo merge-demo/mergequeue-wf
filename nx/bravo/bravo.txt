@@ -786,6 +786,7 @@ backcomb
 begod
 browniness
 bldr
+basilican
 blautok
 baetulus
 boothose
@@ -5572,7 +5573,6 @@ bekah
 bekinkinite
 belgas
 bedframe
-basilican
 bekiss
 bekissed
 bekisses
