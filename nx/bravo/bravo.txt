@@ -664,7 +664,6 @@ bicorne
 bombo
 bungey
 biannual
-begall
 bronchiolitis
 bathyesthesia
 baculine
@@ -1789,6 +1788,7 @@ baserunning
 belonid
 bikie
 bruiting
+begall
 bechtler
 blocklike
 bromohydrin
