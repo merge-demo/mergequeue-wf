@@ -2303,7 +2303,6 @@ febrility
 fast
 fixities
 fixatifs
-flagitious
 felis
 franchises
 feminizes
@@ -10542,6 +10541,7 @@ flatus
 festivous
 fossilised
 fauchard
+flagitious
 featherier
 fieldpiece
 frowziest
