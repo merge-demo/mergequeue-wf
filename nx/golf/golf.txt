@@ -6572,7 +6572,6 @@ grappas
 glottalization
 ground
 grabblers
-gesture
 gambeson
 grummets
 gimmerpet
@@ -9174,6 +9173,7 @@ granulates
 glared
 goosed
 griphite
+gesture
 gehenna
 golee
 greenhornism
