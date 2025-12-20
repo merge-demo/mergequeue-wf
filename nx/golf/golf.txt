@@ -7736,7 +7736,6 @@ gutturopalatine
 grenelle
 gauloiserie
 guld
-grenadier
 gynecicgynecidal
 glycinin
 georama
@@ -10588,6 +10587,7 @@ gens
 greaser
 grandisonian
 gowany
+grenadier
 gushed
 guarache
 gonidium
