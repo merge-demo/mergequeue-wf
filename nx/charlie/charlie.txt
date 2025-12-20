@@ -2170,7 +2170,6 @@ coleorhiza
 camphols
 contemnor
 camphorated
-camphorates
 camphory
 camphoryl
 corgi
@@ -25966,6 +25965,7 @@ circuitousness
 chlamydoselachus
 corve
 cousiny
+camphorates
 corvees
 centered
 corven
