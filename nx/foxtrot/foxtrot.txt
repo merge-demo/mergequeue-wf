@@ -7750,6 +7750,7 @@ forelook
 fauvist
 facer
 fanfaronade
+fullerboard
 flower
 flanes
 firearms
@@ -8411,7 +8412,6 @@ filcher
 futhark
 form
 fluoroscopes
-fullerboard
 folksy
 formalesque
 foistiness
