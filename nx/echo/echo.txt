@@ -1414,7 +1414,6 @@ ericoid
 entosterna
 excoct
 encashable
-enzymes
 efflorescing
 effluences
 endoral
@@ -10329,6 +10328,7 @@ eroticist
 eclecticist
 extraquiz
 epibole
+enzymes
 ethnogeographic
 extirpator
 embillow
