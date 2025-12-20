@@ -4969,6 +4969,7 @@ flamers
 fictionist
 foxing
 flamy
+flowchart
 fan
 facepiece
 floorages
@@ -6355,7 +6356,6 @@ fubsier
 farmhouses
 foppy
 flatlings
-flowchart
 flagpole
 fluocerine
 fren
