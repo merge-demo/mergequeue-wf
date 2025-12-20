@@ -315,7 +315,6 @@ daybill
 downcomer
 disinteress
 dourine
-dalasi
 daybooks
 deckman
 desand
@@ -5221,6 +5220,7 @@ denominations
 desired
 dicty
 dine
+dalasi
 depolarisation
 dusun
 deafer
