@@ -3017,7 +3017,6 @@ guildsmen
 geomancy
 garnered
 grumbled
-glosser
 gushingness
 gauchest
 gaggle
@@ -8489,6 +8488,7 @@ grivets
 glaze
 glands
 golfing
+glosser
 graveclod
 genl
 gibaro
