@@ -6240,7 +6240,6 @@ blatantly
 brush
 braceleted
 bimodulus
-benni
 bennies
 benomyl
 backspread
@@ -10164,6 +10163,7 @@ bosker
 blackfigured
 biochemical
 breechcloth
+benni
 bas
 banak
 bloodfins
