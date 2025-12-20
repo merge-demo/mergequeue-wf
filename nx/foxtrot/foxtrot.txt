@@ -7486,7 +7486,6 @@ forboded
 freakiest
 florally
 faultlessness
-faltered
 flatuses
 fluor
 fourbagger
@@ -9056,6 +9055,7 @@ frap
 feruling
 frasco
 foxbane
+faltered
 foxberry
 falcular
 feathertop
