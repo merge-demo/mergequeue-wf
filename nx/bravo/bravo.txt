@@ -2375,6 +2375,7 @@ boxwork
 blip
 bebeeru
 barcone
+benchfellow
 backwraps
 banshie
 brakemen
@@ -8212,7 +8213,6 @@ bewaring
 boring
 borrow
 biflex
-benchfellow
 beginger
 bifluoride
 bifocal
