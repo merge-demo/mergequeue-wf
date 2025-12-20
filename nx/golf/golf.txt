@@ -923,6 +923,7 @@ garnishable
 grittiness
 gosport
 gemeinschaften
+guttler
 galt
 gametophoric
 gorbet
@@ -6698,7 +6699,6 @@ goniatites
 geoside
 garterless
 gainsayer
-guttler
 grint
 gibbet
 gulae
