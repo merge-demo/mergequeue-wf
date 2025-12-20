@@ -5861,7 +5861,6 @@ briners
 braggingly
 buttstock
 batholith
-bidactyle
 beefin
 bypaths
 beerocracy
@@ -15055,6 +15054,7 @@ beastliness
 bowdlerise
 besanctify
 breezier
+bidactyle
 blippers
 breezily
 bepuzzle
