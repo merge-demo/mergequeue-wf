@@ -9035,7 +9035,6 @@ charlocks
 cobberer
 charm
 charmed
-camogie
 charmedly
 coax
 charmel
@@ -14467,6 +14466,7 @@ completable
 cirsotomy
 cirsotomies
 cirterion
+camogie
 cyrtoceras
 chergui
 courantos
