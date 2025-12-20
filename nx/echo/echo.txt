@@ -5181,7 +5181,6 @@ elytrorrhaphy
 earbob
 epicarp
 encyclic
-eurystheus
 erava
 essonite
 exceedingness
@@ -6101,6 +6100,7 @@ ebullience
 evanesce
 epifauna
 epirrhema
+eurystheus
 electrocardiography
 enochic
 enlightenment
