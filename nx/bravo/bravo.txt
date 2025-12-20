@@ -4218,7 +4218,6 @@ bulbonuclear
 blackwasher
 beaumont
 bromol
-blanketeer
 beaupere
 beausire
 batetela
@@ -15496,6 +15495,7 @@ bleaters
 balloonfish
 bearskins
 brinehouse
+blanketeer
 brineless
 backsaws
 bakery
