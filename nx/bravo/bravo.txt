@@ -6601,7 +6601,6 @@ berenice
 bereshith
 beresite
 beret
-brangler
 berets
 berewick
 biunity
@@ -16491,6 +16490,7 @@ bulk
 buckra
 bricker
 bishoplet
+brangler
 borasque
 bruskly
 bimillennium
