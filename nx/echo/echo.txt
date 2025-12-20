@@ -2263,7 +2263,6 @@ electret
 electrets
 esophagogastrostomy
 exploitive
-electrically
 extensometer
 enciente
 embryony
@@ -11333,6 +11332,7 @@ esiphonal
 eluviated
 ergatoid
 evenglow
+electrically
 erenach
 eneid
 erudite
