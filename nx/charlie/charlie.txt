@@ -3594,6 +3594,7 @@ carabeen
 carabidae
 checkle
 chrisoms
+cissus
 carabidan
 carabidoid
 carabids
@@ -14505,7 +14506,6 @@ chionis
 chateaubriand
 clefs
 chang
-cissus
 cist
 cankerwort
 culver
