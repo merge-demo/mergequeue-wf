@@ -11626,7 +11626,6 @@ cooks
 choler
 cholera
 counterround
-circumjacent
 choleras
 civilising
 cervelases
@@ -12802,6 +12801,7 @@ chunk
 chunked
 circumumbilical
 crucifers
+circumjacent
 chunkiest
 crumpy
 center
