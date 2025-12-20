@@ -12474,7 +12474,6 @@ bondship
 bondsman
 blueys
 braeman
-bromgelatin
 bulbose
 bondsmen
 bonify
@@ -17937,6 +17936,7 @@ bioclean
 bushmaking
 branial
 bibliopoly
+bromgelatin
 bushman
 bisinuate
 benignant
