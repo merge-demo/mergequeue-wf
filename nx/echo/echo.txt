@@ -5973,7 +5973,6 @@ expectorates
 enframing
 enigma
 egotism
-enigmas
 enjambements
 enigmata
 eluvial
@@ -7866,6 +7865,7 @@ epigrammatically
 epigamic
 ecca
 ephod
+enigmas
 enterolith
 elbowed
 elbower
