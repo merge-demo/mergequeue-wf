@@ -5429,6 +5429,7 @@ equid
 emigrants
 eightsman
 example
+eisenhower
 elsewhither
 electronvolt
 ergotization
@@ -8663,7 +8664,6 @@ elfishness
 equipages
 etherialism
 expositions
-eisenhower
 epipoditic
 eggcrate
 endnotes
