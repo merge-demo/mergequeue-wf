@@ -528,7 +528,6 @@ gyrowheel
 gluten
 gliomas
 gast
-germproof
 geeldikkop
 galipoidin
 guzzles
@@ -1581,6 +1580,7 @@ gregarinoidea
 gluelikeness
 gout
 gassing
+germproof
 gismos
 globicephala
 gymnura
