@@ -6670,7 +6670,6 @@ codeia
 chalcidiform
 cedrin
 crenellation
-countervailed
 cedriret
 cetologies
 cedrol
@@ -20809,6 +20808,7 @@ componed
 componency
 celebrated
 caciocavallo
+countervailed
 compared
 componendo
 component
