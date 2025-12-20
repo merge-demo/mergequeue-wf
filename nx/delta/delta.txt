@@ -8551,7 +8551,6 @@ didacts
 diaphanometric
 dampishness
 debateful
-daimonion
 dewfall
 diaphanously
 douglas
@@ -18631,6 +18630,7 @@ dagbane
 dedicatorial
 degreeless
 duty
+daimonion
 dutiability
 disdains
 downtroddenness
