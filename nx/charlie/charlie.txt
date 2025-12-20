@@ -8258,7 +8258,6 @@ comas
 chalcography
 chalcographic
 chalcographical
-chalcographist
 chalcolithic
 cappae
 coadunation
@@ -13956,6 +13955,7 @@ cinquefoiled
 cinquefoils
 cacographer
 cinquepace
+chalcographist
 cinter
 ceratopsid
 cynthiidae
