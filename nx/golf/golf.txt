@@ -6540,7 +6540,6 @@ gutsiness
 graciles
 grand
 ganglioneural
-grannom
 glaucic
 graceless
 galls
@@ -9731,6 +9730,7 @@ gambades
 greyhounds
 grocerwise
 glossaries
+grannom
 gelants
 gratiosolin
 gaelicism
