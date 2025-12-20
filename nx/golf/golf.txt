@@ -4160,7 +4160,6 @@ gibleh
 gratewise
 gypsum
 gouda
-guarapo
 globuloid
 gelinotte
 graphemic
@@ -6582,6 +6581,7 @@ gambas
 guazzo
 groyne
 goulan
+guarapo
 ghostwrite
 gingivolabial
 gynandrian
