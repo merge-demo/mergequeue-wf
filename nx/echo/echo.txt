@@ -1593,6 +1593,7 @@ errite
 entires
 enumerator
 eucaines
+epirrhematic
 eff
 estopped
 erogenetic
@@ -11831,7 +11832,6 @@ externization
 enviably
 electromagnetically
 equibalance
-epirrhematic
 epidendric
 etiolation
 excalcarate
