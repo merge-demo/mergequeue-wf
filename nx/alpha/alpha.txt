@@ -5239,7 +5239,6 @@ affine
 anteporch
 amidist
 antiatheistically
-affined
 affinely
 acromiodeltoid
 affines
@@ -19785,6 +19784,7 @@ astrocyte
 arythmically
 aminolytic
 armado
+affined
 amphicyonidae
 acrodermatitis
 airplanes
