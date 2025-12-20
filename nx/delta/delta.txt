@@ -12490,7 +12490,6 @@ dana
 den
 disillusive
 demodulations
-demesnes
 dipsosaurus
 dualization
 disimpark
@@ -12649,6 +12648,7 @@ dystomic
 disgusted
 dumplings
 dextroses
+demesnes
 didy
 dyskeratosis
 diskette
