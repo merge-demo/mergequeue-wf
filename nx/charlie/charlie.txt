@@ -6425,7 +6425,6 @@ copsing
 compurgatorial
 collocationable
 condemningly
-cautioner
 cautioners
 caff
 cornutus
@@ -23236,6 +23235,7 @@ curmudgeonery
 constructive
 constructively
 constructivism
+cautioner
 constructivist
 circumstantiable
 constructor
