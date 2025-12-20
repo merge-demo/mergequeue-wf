@@ -10158,7 +10158,6 @@ acraein
 antennata
 acotyledonous
 ambulancer
-ambulated
 atropinism
 alkalimetrically
 anisogamy
@@ -12470,6 +12469,7 @@ antiprimer
 astart
 ajowan
 anecdote
+ambulated
 anecdotes
 anecdotic
 anova
