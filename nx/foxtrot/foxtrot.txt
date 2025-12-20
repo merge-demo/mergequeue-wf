@@ -4011,6 +4011,7 @@ furazolidone
 fluorosis
 fishery
 forleft
+fortalice
 fingersmith
 failingly
 ferison
@@ -9624,7 +9625,6 @@ freeholdership
 feeders
 falcata
 ferias
-fortalice
 finalities
 flukier
 foamer
