@@ -1354,7 +1354,6 @@ ganocephalan
 guillotiner
 greenalite
 galvanist
-geoside
 glomerulus
 galloner
 garnisheement
@@ -1795,7 +1794,6 @@ gastrorrhea
 graecizes
 goutiest
 gonadial
-genealogizer
 gastroscopist
 gavelled
 gasterosteid
@@ -2000,6 +1998,7 @@ gaussage
 gaskings
 gageite
 gonadotrope
+goffering
 granville
 goosetongue
 glyconian
@@ -2989,6 +2988,7 @@ grenadian
 guayules
 gaolering
 geographies
+genealogizer
 grievers
 galliardness
 geoids
@@ -6695,6 +6695,7 @@ gastropancreatic
 gymnoglossa
 genuflected
 goniatites
+geoside
 garterless
 gainsayer
 guttler
@@ -10574,7 +10575,6 @@ guebre
 grecoue
 giftedly
 gurmukhi
-goffering
 gneissitic
 gatewoman
 grenadiership
