@@ -564,7 +564,6 @@ faradized
 famine
 fussed
 folklorism
-forjudger
 falloff
 flamier
 fdubs
@@ -8495,6 +8494,7 @@ filix
 flutiest
 freeward
 ferruminated
+forjudger
 formicid
 foreadvertise
 formicine
