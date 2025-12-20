@@ -9250,7 +9250,6 @@ existences
 ejido
 errancies
 endospermous
-entrapments
 egressing
 electra
 exonerative
@@ -13393,6 +13392,7 @@ exemplify
 exposture
 epanaphoral
 exter
+entrapments
 expounder
 eulogised
 ems
