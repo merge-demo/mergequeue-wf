@@ -8901,7 +8901,6 @@ estaminets
 expectorators
 entoderms
 ergograph
-epistrophic
 embitter
 emeroids
 ergomaniac
@@ -12944,6 +12943,7 @@ equispaced
 epipsychidion
 egotistical
 emblematized
+epistrophic
 east
 electrolysation
 enhaunt
