@@ -3747,6 +3747,7 @@ gallein
 glinse
 goonie
 graveldiver
+glaucionetta
 geometdecrne
 getatable
 ginnery
@@ -5133,7 +5134,6 @@ gainyield
 generalissima
 gandhist
 gummas
-glaucionetta
 gromatics
 grassland
 glycoside
