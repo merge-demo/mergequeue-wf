@@ -4638,7 +4638,6 @@ fitters
 foxery
 fifo
 formazyl
-francophilism
 firked
 factorizations
 fullnesses
@@ -8963,6 +8962,7 @@ feverwort
 favositoid
 formally
 fourier
+francophilism
 fanglet
 fourierism
 fourneau
