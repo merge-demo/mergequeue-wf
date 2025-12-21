@@ -6506,6 +6506,7 @@ caveators
 compares
 crankly
 canell
+corallet
 cupholder
 cavefish
 cavey
@@ -8321,7 +8322,6 @@ chalina
 coonskin
 complexity
 carbure
-corallet
 choyroot
 chalinitis
 chalkboard
