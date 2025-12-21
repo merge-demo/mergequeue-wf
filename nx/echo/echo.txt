@@ -3350,7 +3350,6 @@ expensefully
 endodermis
 ecdyses
 eyry
-entrep
 eulogic
 expresses
 environed
@@ -9264,6 +9263,7 @@ erron
 empathies
 electrotellurograph
 externalist
+entrep
 exogamous
 expositional
 ebricty

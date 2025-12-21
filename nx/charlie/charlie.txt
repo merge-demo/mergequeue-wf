@@ -12533,7 +12533,6 @@ coachmaking
 cassino
 chrysorin
 corimelaenidae
-chromopsia
 chromoptometer
 colourationally
 ceasmic
@@ -26488,6 +26487,7 @@ cotripper
 cotrustee
 cottiform
 couther
+chromopsia
 cots
 cephalomelus
 cotset
