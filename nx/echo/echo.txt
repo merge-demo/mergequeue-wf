@@ -1035,6 +1035,7 @@ ethyls
 edeodynia
 edeomania
 enhamper
+excerp
 enhydris
 enslavedness
 emblem
@@ -12295,7 +12296,6 @@ errorless
 exemptions
 ephemerist
 eviternal
-excerp
 exemptive
 exendospermous
 environal
