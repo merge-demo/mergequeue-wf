@@ -3204,6 +3204,7 @@ elopes
 elops
 elicit
 emission
+epistler
 epiphanized
 everything
 extruding
@@ -4769,7 +4770,6 @@ exodos
 endosmosic
 ebulliometry
 excircle
-epistler
 entomophytous
 establishments
 exploratory
