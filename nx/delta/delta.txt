@@ -2108,6 +2108,7 @@ despoilment
 decameron
 digraph
 decamethonium
+diamagnetism
 decametric
 decanal
 decancellate
@@ -8453,7 +8454,6 @@ duopsony
 degreed
 diamagnet
 diamagnetic
-diamagnetism
 dredging
 diamant
 ditrochee
