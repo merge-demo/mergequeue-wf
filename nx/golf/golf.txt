@@ -4445,6 +4445,7 @@ gazangabin
 ginseng
 globigerinidae
 gynura
+garotter
 goyazite
 gadsman
 glucuronide
@@ -4590,7 +4591,6 @@ gagger
 grinter
 gladiole
 guardrail
-garotter
 guttiferales
 genoms
 goitered
