@@ -3561,6 +3561,7 @@ drawbeam
 dissheathe
 dehwar
 defuze
+disenclose
 dolman
 dakoities
 dissociative
@@ -12019,7 +12020,6 @@ depluming
 difforme
 disencharm
 doctrix
-disenclose
 daint
 diammine
 decimus
