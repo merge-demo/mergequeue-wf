@@ -1281,7 +1281,6 @@ gromatical
 gyrator
 galium
 glyphographer
-gumpus
 grallina
 gnatsnapper
 ganges
@@ -6354,6 +6353,7 @@ gambelli
 ganoblast
 garnitures
 gustables
+gumpus
 gofer
 gastrotrich
 given
