@@ -1652,6 +1652,7 @@ befur
 ballstock
 ballup
 ballweed
+buglers
 besprinkling
 botony
 balmarcodes
@@ -12318,7 +12319,6 @@ bombardments
 bombline
 bowdrill
 bombast
-buglers
 bicker
 bezzi
 beldame
