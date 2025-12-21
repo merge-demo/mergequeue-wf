@@ -84,7 +84,6 @@ guidelines
 groupoid
 gallops
 grutten
-gadabouts
 gualaca
 glauber
 gubernator
@@ -5581,6 +5580,7 @@ glare
 gaz
 gesticulacious
 gelilah
+gadabouts
 goutier
 greenroom
 glucaemia
