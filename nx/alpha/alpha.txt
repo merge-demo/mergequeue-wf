@@ -10252,7 +10252,6 @@ avarice
 argus
 auxoblast
 amelcorn
-alchemister
 amelet
 ameliorableness
 amylocellulose
@@ -15496,6 +15495,7 @@ although
 animetta
 antimissionary
 androconia
+alchemister
 antipyretic
 avijja
 attntrp
