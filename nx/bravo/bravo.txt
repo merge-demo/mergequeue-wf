@@ -5431,7 +5431,6 @@ boarstaff
 bigarreau
 behaved
 bronchium
-behaver
 bicollateral
 behaving
 brainteasers
@@ -13673,6 +13672,7 @@ beckoned
 befoolable
 bespawl
 bourgade
+behaver
 beeped
 bonailie
 bourgeoisie
