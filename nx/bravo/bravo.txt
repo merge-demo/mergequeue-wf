@@ -6327,7 +6327,6 @@ billbroking
 barrer
 butment
 brike
-baratte
 benzanthracene
 boxboard
 bestowed
@@ -12086,6 +12085,7 @@ boatmaster
 bradycauma
 bulbilla
 boites
+baratte
 baltetei
 balladier
 bojo
