@@ -4531,7 +4531,6 @@ demijambe
 discriminant
 dottled
 dukhobor
-dynastically
 demilawyer
 diwans
 demilitarisation
@@ -7481,6 +7480,7 @@ dynasticism
 deposal
 detune
 detuning
+dynastically
 diastrophic
 dragooned
 diosma
