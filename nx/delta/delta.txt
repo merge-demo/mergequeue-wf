@@ -4760,6 +4760,7 @@ deaved
 diadochokinetic
 dromophobia
 dejected
+deriv
 diabolatry
 disgracing
 disbudding
@@ -7091,7 +7092,6 @@ dermophyte
 disincentive
 destinism
 decretion
-deriv
 dicyemid
 disaproned
 drowsed
