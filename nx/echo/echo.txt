@@ -7020,7 +7020,6 @@ endocardial
 extractors
 embladder
 electrotitration
-enamourment
 explorable
 effigiating
 estated
@@ -11910,6 +11909,7 @@ expurgation
 ephidrosis
 excerebration
 extraphysical
+enamourment
 endemiology
 eudaemonistically
 excursory
