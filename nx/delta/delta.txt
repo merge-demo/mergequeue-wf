@@ -2670,7 +2670,6 @@ decompoundable
 decompoundly
 downstairs
 desmoma
-decompress
 decompresses
 detectaphone
 demiplacate
@@ -5114,6 +5113,7 @@ durwaun
 detect
 dendrology
 dola
+decompress
 daubes
 dumber
 dendrologous
