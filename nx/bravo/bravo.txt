@@ -12498,7 +12498,6 @@ bumpily
 bonebreaker
 boned
 bonedry
-bonefish
 broodier
 bellyflaught
 barcarolle
@@ -12726,6 +12725,7 @@ bookishness
 boxty
 breviate
 barrenwort
+bonefish
 beaux
 barging
 ballant
