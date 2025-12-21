@@ -5947,7 +5947,6 @@ disorderedness
 deprivable
 degrader
 departements
-dimethylnitrosamine
 deceiver
 deprivement
 disconcerts
@@ -10329,6 +10328,7 @@ demurrers
 diagrammers
 ditton
 diopter
+dimethylnitrosamine
 diopters
 decumary
 delf
