@@ -3763,7 +3763,6 @@ deadpanner
 dyostyle
 dor
 dwale
-disgracia
 drillable
 dynamites
 distrain
@@ -16349,6 +16348,7 @@ dovetails
 daylight
 downslide
 describent
+disgracia
 downslip
 decibel
 downslope
