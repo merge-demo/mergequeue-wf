@@ -7385,7 +7385,6 @@ demiadult
 detonating
 decenyl
 detonation
-disowned
 detonations
 dusking
 demean
@@ -15628,6 +15627,7 @@ doormaid
 dugong
 dietist
 doormaker
+disowned
 doormats
 digitorium
 doormen
