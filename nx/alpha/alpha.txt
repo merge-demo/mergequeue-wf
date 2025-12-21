@@ -11969,7 +11969,6 @@ adnexa
 axoneme
 aesthesia
 aeschynomene
-adosculation
 autobahnen
 anapnoic
 anapodeictic
@@ -19249,6 +19248,7 @@ automatonta
 agitatedly
 arecoline
 ared
+adosculation
 airbuses
 abashment
 arefact
