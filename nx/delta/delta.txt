@@ -5952,6 +5952,7 @@ departements
 deceiver
 deprivement
 disconcerts
+delenda
 davy
 doublehandedness
 dingly
@@ -16241,7 +16242,6 @@ downbeard
 distilled
 defease
 downcastness
-delenda
 disabling
 doubter
 downcome
