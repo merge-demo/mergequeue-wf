@@ -6999,6 +6999,7 @@ geir
 glossopode
 gallerian
 glad
+grottoes
 gossipry
 garrat
 graviers
@@ -9405,7 +9406,6 @@ guatoan
 glissandi
 gymel
 glycerolize
-grottoes
 gelatose
 gaywings
 gemotes
