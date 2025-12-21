@@ -3152,6 +3152,7 @@ bronchography
 bleat
 briskly
 brachiating
+bookcase
 basenjis
 biphase
 baseplug
@@ -10969,7 +10970,6 @@ bucketshop
 birdcatcher
 blissful
 bughead
-bookcase
 blissom
 balden
 buxomer
