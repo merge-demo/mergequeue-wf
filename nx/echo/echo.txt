@@ -2725,7 +2725,6 @@ entosphenoid
 electrotypy
 enolase
 earwigged
-eightyfold
 esquamulose
 evaporated
 electrovalent
@@ -10316,6 +10315,7 @@ exporting
 eroticist
 eclecticist
 extraquiz
+eightyfold
 epibole
 enzymes
 ethnogeographic
