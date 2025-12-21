@@ -1609,7 +1609,6 @@ gillies
 guaguanche
 geoff
 gobiesocidae
-grandstand
 gasbag
 gingili
 gleams
@@ -10422,6 +10421,7 @@ gillbird
 giller
 geepound
 graphiology
+grandstand
 gum
 gandhi
 gluiness
