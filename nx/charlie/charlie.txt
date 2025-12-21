@@ -2686,7 +2686,6 @@ cephalocereus
 canille
 canine
 consuetudinary
-canines
 caning
 caniniform
 choledochoenterostomy
@@ -26640,6 +26639,7 @@ counseled
 champagned
 counselee
 counsellable
+canines
 curer
 counsellor
 chilopodan
