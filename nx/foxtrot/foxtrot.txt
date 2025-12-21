@@ -2784,7 +2784,6 @@ festivally
 fourieristic
 flareboard
 floppier
-fraze
 festivity
 forker
 feston
@@ -8666,6 +8665,7 @@ fumistery
 foretastes
 flanched
 folkboat
+fraze
 federating
 featherbrained
 fields
