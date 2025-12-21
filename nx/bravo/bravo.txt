@@ -6790,7 +6790,6 @@ berskin
 balize
 berhyme
 banjore
-bert
 blowhole
 berteroa
 berthas
@@ -9532,6 +9531,7 @@ bakerdom
 bis
 borussian
 bachelorize
+bert
 besputter
 bicipitous
 boarfish
