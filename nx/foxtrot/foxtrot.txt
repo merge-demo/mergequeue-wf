@@ -2055,6 +2055,7 @@ fireboat
 flindosa
 forwander
 faunlike
+florins
 fogbows
 forewarned
 fascicule
@@ -10566,7 +10567,6 @@ filmily
 framable
 formylate
 feracities
-florins
 founds
 fertilizations
 fatidical

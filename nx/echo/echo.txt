@@ -2017,7 +2017,6 @@ episternite
 evictees
 enantiomorphism
 emulsic
-equisonant
 endodontist
 eradiculose
 elixate
@@ -6405,6 +6404,7 @@ encrinitical
 enunciator
 eluvivia
 elapid
+equisonant
 ensemble
 engastrimyth
 engrained
