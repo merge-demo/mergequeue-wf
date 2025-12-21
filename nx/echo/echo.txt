@@ -636,7 +636,6 @@ excitancy
 etymonic
 ellipses
 earful
-excruciatingness
 empiricist
 embryogeny
 epizoite
@@ -4096,6 +4095,7 @@ elevating
 equiponderated
 emplastic
 emplastration
+excruciatingness
 ectrodactylism
 expulsionist
 essenism
