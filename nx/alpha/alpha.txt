@@ -5981,6 +5981,7 @@ aggroupment
 aghan
 aghas
 aghori
+altruistic
 affecters
 allottee
 autoantibody
@@ -24403,7 +24404,6 @@ avouches
 almistry
 azlactone
 arces
-altruistic
 autosomal
 arbalo
 autosomes
