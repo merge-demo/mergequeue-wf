@@ -5527,6 +5527,7 @@ fieri
 fervours
 finnan
 fletchers
+freesp
 furrower
 furnit
 fisc
@@ -6173,7 +6174,6 @@ fragmentized
 finality
 flowerage
 fluxation
-freesp
 forever
 flowerers
 fumiferana
