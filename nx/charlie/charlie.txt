@@ -1572,7 +1572,6 @@ calliphoridae
 calliphorine
 callipygous
 callippic
-callirrhoe
 callisaurus
 callisteia
 callistephus
@@ -23560,6 +23559,7 @@ cochranea
 contingence
 carpenter
 chorization
+callirrhoe
 credo
 contingential
 contingentialness
