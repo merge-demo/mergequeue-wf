@@ -1305,6 +1305,7 @@ government
 gulliver
 geodiatropism
 gingilis
+gates
 garganey
 gastropancreatitis
 garget
@@ -8716,7 +8717,6 @@ gavelling
 grammars
 gearing
 gastraeal
-gates
 gnathonical
 grassflat
 gastrodisc
