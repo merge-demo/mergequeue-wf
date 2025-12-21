@@ -2895,7 +2895,6 @@ degratia
 doughs
 decurvature
 duello
-decus
 doblones
 decarbonizing
 decuss
@@ -4094,6 +4093,7 @@ dishonourably
 dissoluteness
 drivelled
 dorsicolumn
+decus
 delineated
 delineating
 dodgasted
