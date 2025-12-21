@@ -5391,6 +5391,7 @@ castellano
 castellans
 cinerararia
 castellate
+centerboards
 castellation
 castellatus
 creolization
@@ -12755,7 +12756,6 @@ cajava
 complices
 chukchi
 chukka
-centerboards
 chukkar
 chukker
 chulha
