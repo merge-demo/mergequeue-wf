@@ -6128,7 +6128,6 @@ benedictinism
 brickfield
 bucolical
 briolet
-benedictions
 billa
 blenniiform
 barograph
@@ -16487,6 +16486,7 @@ bishoplet
 brangler
 borasque
 bruskly
+benedictions
 bimillennium
 bozal
 breathableness
