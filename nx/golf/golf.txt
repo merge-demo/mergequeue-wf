@@ -1047,6 +1047,7 @@ gerardias
 gorgonin
 gompholobium
 ganglioid
+galvanometry
 ganglioma
 gangliomas
 ganglionate
@@ -10251,7 +10252,6 @@ geechee
 gonophore
 glacier
 gustiness
-galvanometry
 galvanoplastically
 grownup
 gauzelike
