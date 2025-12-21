@@ -6720,6 +6720,7 @@ forebodement
 fogo
 frescoists
 feast
+furthering
 forelegs
 fogon
 fogproof
@@ -8655,7 +8656,6 @@ fytte
 flattest
 farstepped
 fantasizing
-furthering
 frigidness
 frictionproof
 faintest
