@@ -2840,6 +2840,7 @@ gilgulim
 glassite
 gifture
 geolinguistics
+gnathobasic
 grandpap
 gentrices
 gryph
@@ -3149,7 +3150,6 @@ gurgles
 georgics
 glycosyl
 gnathal
-gnathobasic
 gnast
 galumphing
 garial
