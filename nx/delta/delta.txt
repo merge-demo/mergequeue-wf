@@ -2596,7 +2596,6 @@ decoat
 decoct
 demiquaver
 dashes
-decocting
 decoctive
 deaminizing
 demishirt
@@ -13150,6 +13149,7 @@ dispersibility
 dissolution
 dentilabial
 daces
+decocting
 derelicta
 dogmatizing
 dispersing
