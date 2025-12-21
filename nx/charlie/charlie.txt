@@ -5388,7 +5388,6 @@ castellate
 castellation
 castellatus
 creolization
-circumposition
 copulates
 chamberfellow
 castellum
@@ -28470,6 +28469,7 @@ coarcting
 canid
 createdness
 creates
+circumposition
 creatic
 codlin
 creatin
