@@ -1513,6 +1513,7 @@ empyesis
 endophytous
 efts
 electionary
+echograph
 egad
 elderlies
 encyclopediac
@@ -4241,7 +4242,6 @@ earwiggy
 elucidator
 ewhow
 emulations
-echograph
 exporters
 expiree
 escarping
