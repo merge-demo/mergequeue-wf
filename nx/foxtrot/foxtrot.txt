@@ -10184,7 +10184,6 @@ formalism
 feebly
 farce
 foxchop
-fetologies
 furdel
 ferryage
 famines
@@ -10383,6 +10382,7 @@ frontignan
 fucate
 fronting
 fizzle
+fetologies
 focus
 furoid
 feedable
