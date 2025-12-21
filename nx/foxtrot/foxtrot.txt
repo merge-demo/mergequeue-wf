@@ -4507,6 +4507,7 @@ flatting
 forlane
 fertilizers
 forsay
+fleadock
 ferrovanadium
 flour
 fisnoga
@@ -5352,7 +5353,6 @@ federalization
 fireclay
 fluorites
 feoffee
-fleadock
 fleahopper
 fructuously
 familyish
