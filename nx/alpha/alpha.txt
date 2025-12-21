@@ -1760,7 +1760,6 @@ abbreviature
 agalloch
 astigmia
 ammonitiferous
-agoniada
 aceldamas
 aquake
 absorptively
@@ -6792,6 +6791,7 @@ airfare
 amyctic
 airflow
 antimoralist
+agoniada
 aglipayan
 airfoil
 airfoils

@@ -3600,7 +3600,6 @@ caqueteuse
 caquetoire
 cioppino
 chagrinned
-carabaos
 carabeen
 carabidae
 checkle
@@ -31839,6 +31838,7 @@ cutisector
 centillion
 cutises
 cutiterebra
+carabaos
 controverse
 coloss
 cutlasses
