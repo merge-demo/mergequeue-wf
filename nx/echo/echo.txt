@@ -4423,7 +4423,6 @@ electrophysiologic
 excentrical
 endenizen
 extispices
-enthymeme
 e
 espacement
 ejaculation
@@ -6841,6 +6840,7 @@ entrepreneuse
 ectocarpales
 electrostatical
 examiningly
+enthymeme
 entomical
 empoisoning
 electroimpulse
