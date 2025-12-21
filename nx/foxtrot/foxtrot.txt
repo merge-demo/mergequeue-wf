@@ -7757,6 +7757,7 @@ flower
 flanes
 firearms
 foremast
+fondant
 fritters
 fidicula
 franciscanism
@@ -10087,7 +10088,6 @@ fluoborite
 finalizations
 fennec
 functions
-fondant
 fritz
 furnisher
 foozling
