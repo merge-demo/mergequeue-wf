@@ -8258,7 +8258,6 @@ benzophosphinic
 brakehead
 bedsteads
 bovarysm
-bigamies
 bigamist
 boyars
 betafite
@@ -14748,6 +14747,7 @@ bipolar
 bradycrotic
 braves
 bisect
+bigamies
 bravi
 braving
 bravissimo
