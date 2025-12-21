@@ -22638,7 +22638,6 @@ antisyndicalism
 antiseptics
 anticipating
 atheisticness
-allow
 abraham
 atheize
 atheizer
@@ -24432,6 +24431,7 @@ adversarious
 argentol
 autosuppression
 autotelegraph
+allow
 autotelism
 antipharmic
 appendiculariidae
