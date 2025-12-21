@@ -4212,7 +4212,6 @@ geomagnetic
 gimped
 gimpier
 guidable
-galactolytic
 gliosa
 greenovite
 gigantosaurus
@@ -5696,6 +5695,7 @@ grandnephews
 glossemic
 glaciometer
 gorilline
+galactolytic
 gesundheit
 gomavel
 glossies
