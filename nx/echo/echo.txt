@@ -1409,6 +1409,7 @@ earl
 electrodialyses
 electrometrically
 expandedness
+equiomnipotent
 emetins
 epidote
 exterous
@@ -9827,7 +9828,6 @@ emulsifications
 egocentricity
 enthronising
 endoceras
-equiomnipotent
 enslumber
 envyingly
 esterified
