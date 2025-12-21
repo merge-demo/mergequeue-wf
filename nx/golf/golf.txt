@@ -5590,6 +5590,7 @@ geophysical
 gefilte
 gownlet
 glottogonist
+grallatores
 gervais
 gurges
 garuda
@@ -6911,7 +6912,6 @@ galacthidrosis
 gaoling
 geochemically
 goodishness
-grallatores
 gastight
 groupthink
 glyoxyl
