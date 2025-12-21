@@ -25230,7 +25230,6 @@ corynid
 corynine
 corinna
 corinne
-corynocarpaceous
 corynocarpus
 corynteria
 corinth
@@ -30250,6 +30249,7 @@ cruet
 clum
 cruety
 creepie
+corynocarpaceous
 cucurbit
 cruets
 cruised
