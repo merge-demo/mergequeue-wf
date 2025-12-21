@@ -118,7 +118,6 @@ goatfish
 gadroon
 giher
 ginete
-gastly
 gastrostomy
 gazogene
 gypsyhood
@@ -8279,6 +8278,7 @@ glycoprotein
 grinderies
 gamestress
 graphotype
+gastly
 grapier
 gusseting
 giddea
