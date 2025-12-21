@@ -1716,6 +1716,7 @@ botan
 brieflessly
 borealis
 brachypyramid
+basella
 broon
 byline
 boutonniere
@@ -3130,7 +3131,6 @@ biradiate
 bismarck
 bustards
 boswellize
-basella
 basellaceae
 bespattering
 brothels
