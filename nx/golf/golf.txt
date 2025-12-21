@@ -6800,7 +6800,6 @@ gremials
 girders
 girded
 gentlemanism
-glossodynamometer
 goodwill
 gibel
 gravilea
@@ -6995,6 +6994,7 @@ gpss
 greengrocers
 grumpiest
 gyrovague
+glossodynamometer
 griefless
 guldengroschen
 geir
