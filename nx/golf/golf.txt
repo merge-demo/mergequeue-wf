@@ -3840,7 +3840,6 @@ gorger
 girosol
 glarier
 gonapophysal
-gesticulate
 grasps
 gentlemanhood
 galled
@@ -5385,6 +5384,7 @@ gracelessly
 glykopexic
 gastroduodenal
 greenest
+gesticulate
 gurgled
 gona
 grates
