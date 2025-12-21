@@ -5830,7 +5830,6 @@ ferox
 forestallment
 fenestration
 flywinch
-fulfils
 flouncey
 footback
 forgrown
@@ -8565,6 +8564,7 @@ frenchwise
 fluorographic
 fleered
 formulizing
+fulfils
 flapdoodle
 formby
 foeture
