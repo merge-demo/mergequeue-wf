@@ -6730,7 +6730,6 @@ geyseral
 gurdfish
 gruine
 glenoid
-guiltlessness
 goniocraniometry
 grouters
 gaveller
@@ -7410,6 +7409,7 @@ giga
 granduncle
 gnatproof
 geylies
+guiltlessness
 gotra
 germarium
 gravecloth
