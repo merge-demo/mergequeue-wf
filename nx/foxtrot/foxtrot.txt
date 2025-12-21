@@ -5446,6 +5446,7 @@ femur
 filterable
 flexuosely
 floatative
+flexible
 foggy
 fleering
 faunal
@@ -10315,7 +10316,6 @@ foredoing
 fluoridized
 faceman
 fortiori
-flexible
 frondless
 feezing
 ferrado
