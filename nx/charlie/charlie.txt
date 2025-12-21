@@ -2906,7 +2906,6 @@ clothesmonger
 chalcis
 cantabrian
 cantabrigian
-cantalever
 cantaliver
 cackled
 cantaloup
@@ -10053,6 +10052,7 @@ cherubimic
 cherubimical
 crappin
 cherublike
+cantalever
 corkline
 crystalize
 calzone
