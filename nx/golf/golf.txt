@@ -2122,7 +2122,6 @@ gen
 glumiferous
 galla
 globosity
-gaudete
 graced
 glycoluric
 garon
@@ -9134,6 +9133,7 @@ gracious
 grinning
 gingerberry
 genoveva
+gaudete
 gildsmen
 gramper
 gillenia
