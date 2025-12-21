@@ -2141,7 +2141,6 @@ bantus
 bandon
 bewield
 blandfordia
-botrychium
 backup
 blahlaut
 baptisias
@@ -3395,6 +3394,7 @@ bays
 bandstands
 basiophthalmous
 bassetting
+botrychium
 bassy
 bufferrer
 balneation
