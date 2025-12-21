@@ -1890,6 +1890,7 @@ bandle
 blastoff
 bushcraft
 breadwinners
+bovinities
 bandmaster
 brainsickly
 bando
@@ -13762,7 +13763,6 @@ bejig
 bovinely
 bezil
 bestrowed
-bovinities
 begazes
 buffet
 blesseder
