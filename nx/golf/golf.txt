@@ -2724,6 +2724,7 @@ genit
 golgothas
 gnatho
 groundmass
+geometricist
 glozing
 gryllidae
 gonopodium
@@ -5331,7 +5332,6 @@ glassmen
 greener
 glycollate
 glomerulose
-geometricist
 generalised
 glaucus
 grammatology
