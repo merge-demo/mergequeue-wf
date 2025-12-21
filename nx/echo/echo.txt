@@ -9042,7 +9042,6 @@ ectocyst
 erythrocytoblast
 explanate
 epizooty
-ebbets
 equalize
 emptier
 erythrocytolysis
@@ -11767,6 +11766,7 @@ exanthems
 eyelast
 esquireship
 ericetum
+ebbets
 excorticating
 exappendiculate
 empover
