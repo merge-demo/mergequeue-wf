@@ -3625,6 +3625,7 @@ calefaction
 carabinier
 carabiniere
 carabinieri
+craterkin
 cotrespasser
 choosable
 caraboa
@@ -28297,7 +28298,6 @@ cabotages
 crateriform
 cratering
 comatik
-craterkin
 chromites
 craterless
 craterlet
