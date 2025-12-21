@@ -4567,6 +4567,7 @@ discharging
 dustlike
 dolichocrany
 desperance
+drug
 depths
 disusing
 detected
@@ -14372,7 +14373,6 @@ dhaman
 diurnal
 deuterogenic
 diurnally
-drug
 diurnals
 diurnule
 dimensuration
