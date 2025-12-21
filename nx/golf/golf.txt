@@ -2662,7 +2662,6 @@ gloriosity
 gangliectomy
 gourde
 gervas
-gardening
 gynophagite
 gardeviance
 gibbles
@@ -7837,6 +7836,7 @@ gerents
 goosander
 grumble
 gimirrai
+gardening
 gurlet
 gasometric
 guttide
