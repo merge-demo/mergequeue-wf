@@ -6809,6 +6809,7 @@ clearway
 celioparacentesis
 cerinthian
 cowshard
+crawlier
 capless
 celioscope
 cella
@@ -28379,7 +28380,6 @@ contributing
 crawlerize
 crawlers
 creamometer
-crawlier
 crawliest
 crawlspace
 cliented
