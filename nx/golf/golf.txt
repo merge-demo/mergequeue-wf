@@ -5757,7 +5757,6 @@ geometrical
 gunfighter
 gloomth
 gradin
-goings
 gleeds
 gish
 grimmish
@@ -7327,6 +7326,7 @@ gosports
 grainless
 gossamered
 guerrila
+goings
 galega
 gossamers
 galloglass
