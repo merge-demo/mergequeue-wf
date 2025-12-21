@@ -4157,7 +4157,6 @@ engraphy
 eyeroot
 escaloped
 echiurida
-enacted
 etuve
 editorializes
 epitheliolysin
@@ -8738,6 +8737,7 @@ equivelocity
 encrotchet
 exuberated
 exteriorized
+enacted
 expatiator
 exuperable
 extermination
