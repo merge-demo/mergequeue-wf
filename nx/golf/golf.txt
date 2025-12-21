@@ -3188,7 +3188,6 @@ germina
 geotechnic
 graplin
 glycans
-geraniaceae
 gazon
 griffado
 gabler
@@ -8451,6 +8450,7 @@ globulariaceous
 gnathopodous
 guinea
 galinsoga
+geraniaceae
 glottises
 gastaldite
 gadzooks
