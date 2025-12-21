@@ -187,7 +187,6 @@ groschen
 gavage
 gelled
 garred
-going
 glaky
 glazing
 glede
@@ -7860,6 +7859,7 @@ gyrostachys
 ghastliest
 gradualistic
 grimes
+going
 glossematic
 grammalogue
 gastrohysteropexy
