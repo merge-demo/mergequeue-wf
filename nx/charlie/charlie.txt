@@ -20632,7 +20632,6 @@ coregonine
 clastic
 complacence
 chlorella
-complacency
 complacent
 cantor
 citrate
@@ -26314,6 +26313,7 @@ carmel
 cholemia
 cyclostomate
 cheung
+complacency
 costochondral
 costogenic
 costoinferior
