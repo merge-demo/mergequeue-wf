@@ -19908,7 +19908,6 @@ albertite
 akuammin
 adonises
 ampoules
-alastors
 adjuration
 armorials
 armoric
@@ -25185,6 +25184,7 @@ axonia
 aleochara
 assahy
 axonolipa
+alastors
 axonolipous
 amirate
 autoblast
