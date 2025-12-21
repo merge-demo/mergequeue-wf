@@ -1152,7 +1152,6 @@ genitors
 gantlet
 grocer
 gled
-gantleted
 gripier
 grouses
 goninidia
@@ -2009,6 +2008,7 @@ gateman
 gums
 gauzewing
 gomorrah
+gantleted
 gnaeus
 galactia
 grithman
