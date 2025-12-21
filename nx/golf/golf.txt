@@ -1138,7 +1138,6 @@ gallnut
 galyac
 groupment
 gunpowder
-genion
 granddam
 gypsologist
 gander
@@ -10103,6 +10102,7 @@ gekkonoid
 gonfaloniership
 gasoscope
 glottid
+genion
 gazetteer
 gonystylus
 goldenfleece
