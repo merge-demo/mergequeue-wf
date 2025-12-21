@@ -5901,7 +5901,6 @@ affinity
 aggrandizement
 aetiologist
 assiento
-athlete
 arborization
 azoxyphenetole
 adversary
@@ -17368,6 +17367,7 @@ amidin
 arias
 abstracts
 agoramania
+athlete
 ampuls
 apostrophes
 atomising
