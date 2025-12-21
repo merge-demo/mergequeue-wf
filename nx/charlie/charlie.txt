@@ -2530,7 +2530,6 @@ curryfavel
 candyweed
 candle
 coehorn
-candleball
 candleberries
 candlebomb
 candlefish
@@ -8796,6 +8795,7 @@ cave
 confoundingly
 carposporic
 cachexic
+candleball
 chapournet
 chapournetted
 cottering
