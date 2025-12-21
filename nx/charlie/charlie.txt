@@ -3672,7 +3672,6 @@ caraipa
 chronometrical
 caraipi
 carlish
-cucumiform
 caraja
 carajas
 carambole
@@ -28710,6 +28709,7 @@ calcining
 clung
 crenothrix
 crenula
+cucumiform
 connectible
 crenulate
 cassythaceae
