@@ -2377,7 +2377,6 @@ barcelona
 boxwork
 blip
 bebeeru
-barcone
 benchfellow
 backwraps
 banshie
@@ -8978,6 +8977,7 @@ besotting
 baybush
 bronzen
 bioinstrument
+barcone
 biolinguistics
 belted
 biolyses
