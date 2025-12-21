@@ -1431,7 +1431,6 @@ entodermal
 epipodialia
 entoretina
 erythrocytolytic
-espoused
 ethnicon
 exaggeratory
 execratory
@@ -10004,6 +10003,7 @@ enweb
 extradict
 emotiomuscular
 electrode
+espoused
 eurhythmical
 electrodiagnostically
 extrorsal
