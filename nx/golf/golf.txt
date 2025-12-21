@@ -2220,7 +2220,6 @@ generosities
 galactohemia
 gleit
 glossopathy
-grounders
 grieced
 ghazies
 grisled
@@ -9482,6 +9481,7 @@ grilled
 gossamery
 gae
 glaciaria
+grounders
 gonyaulax
 gernative
 graceful
