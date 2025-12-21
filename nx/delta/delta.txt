@@ -9131,6 +9131,7 @@ dyslexias
 didelphidae
 discursive
 dingdong
+dragonize
 disweapon
 didelphoid
 disinclines
@@ -14380,7 +14381,6 @@ diurnal
 deuterogenic
 diurnally
 drug
-dragonize
 diurnals
 diurnule
 dimensuration
