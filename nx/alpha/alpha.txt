@@ -5782,7 +5782,6 @@ aligner
 agatized
 agatizes
 agatizing
-agatoid
 arctan
 alarbus
 agaze
@@ -23568,6 +23567,7 @@ arnotto
 anapnometer
 appennage
 augmented
+agatoid
 aumery
 abyssolith
 aumildar
