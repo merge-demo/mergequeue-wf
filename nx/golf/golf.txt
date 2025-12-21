@@ -1004,7 +1004,6 @@ galenoid
 gabgab
 generously
 glissette
-glossed
 gordunite
 ganga
 gangamopteris
@@ -3114,6 +3113,7 @@ glossarist
 garo
 geophilid
 galvanoscopic
+glossed
 granula
 gymnasisia
 groined
