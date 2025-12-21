@@ -2546,7 +2546,6 @@ ferryboat
 fatties
 fitchews
 faithbreach
-fishpot
 fretter
 forewarningly
 forequarter
@@ -4690,6 +4689,7 @@ flatwashes
 fragrantly
 foreby
 fructescence
+fishpot
 frivolizing
 fibroreticulate
 fortitudes
