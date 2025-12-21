@@ -9490,6 +9490,7 @@ escout
 enstore
 equipondious
 escry
+equalisation
 escribientes
 escrime
 eschatologically
@@ -9764,7 +9765,6 @@ essoined
 embolemia
 eachwhere
 exfoliated
-equalisation
 ejectamenta
 extenuator
 envermeil
