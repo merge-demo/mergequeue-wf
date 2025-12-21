@@ -1062,7 +1062,6 @@ decarch
 dorsodynia
 doling
 darraign
-dacryocystorhinostomy
 depositions
 darrein
 devonite
@@ -6657,6 +6656,7 @@ diastimeter
 desertlessly
 dungaree
 deserts
+dacryocystorhinostomy
 deserve
 depreciatoriness
 disembodiments
