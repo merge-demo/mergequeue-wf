@@ -9946,7 +9946,6 @@ boree
 brian
 bx
 bituminous
-bisecting
 beryllate
 bilinguality
 bridleman
@@ -15324,6 +15323,7 @@ bridoons
 blurt
 basiotribe
 boomier
+bisecting
 budukha
 briefcase
 barramunda
