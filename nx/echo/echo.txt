@@ -5660,7 +5660,6 @@ enforth
 estrangle
 eigenvalue
 epithi
-ensnarers
 exhibitorial
 exquisitism
 enframed
@@ -13059,6 +13058,7 @@ egueiite
 evaluations
 euphonized
 expermentized
+ensnarers
 emus
 eucaine
 embankment
