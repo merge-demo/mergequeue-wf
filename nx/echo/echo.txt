@@ -1393,7 +1393,6 @@ eurasiatic
 exhalent
 ennead
 enneastylos
-epeidia
 epilaryngeal
 enneandrous
 effigurate
@@ -3062,6 +3061,7 @@ etherean
 epicenter
 entrapper
 ethicizing
+epeidia
 evolvements
 entocuniform
 electioneered
