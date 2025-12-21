@@ -2379,6 +2379,7 @@ futures
 footganger
 fetial
 fortunetellers
+firearmed
 frondage
 feriation
 falsedad
@@ -5464,7 +5465,6 @@ flex
 fusionless
 firefighter
 forevow
-firearmed
 falsifiable
 fatalisms
 fley
