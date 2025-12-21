@@ -944,6 +944,7 @@ efform
 endocardium
 epoxied
 entada
+exceptions
 ecttypal
 equates
 emanatory
@@ -6418,7 +6419,6 @@ electrocutes
 enlargers
 ensiling
 ensilist
-exceptions
 ensilver
 ensisternum
 equilibrating
