@@ -3127,6 +3127,7 @@ faring
 fulminancy
 fibroferrite
 fundic
+frwy
 firewarden
 furioso
 franciscans
@@ -11664,7 +11665,6 @@ functionalized
 fluavil
 fructiform
 fresne
-frwy
 fluorochrome
 faade
 fazendeiro

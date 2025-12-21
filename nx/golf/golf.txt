@@ -1778,7 +1778,6 @@ golliwogs
 gallic
 gonion
 grx
-guanine
 grouchiest
 gastropulmonic
 granitic
@@ -9915,6 +9914,7 @@ glaucophyllous
 geeks
 galloons
 guaranine
+guanine
 gaveling
 greith
 gormandized
