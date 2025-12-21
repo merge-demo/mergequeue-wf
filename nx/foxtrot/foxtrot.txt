@@ -4270,6 +4270,7 @@ foreyard
 fatless
 flail
 fireward
+fumaroles
 forehead
 firewater
 fictionisation
@@ -8549,7 +8550,6 @@ foreanswer
 forehatchway
 flusterate
 figs
-fumaroles
 fortification
 flatweed
 formulated
