@@ -2981,7 +2981,6 @@ ekronite
 entomology
 elidible
 etagere
-epistasy
 eligibles
 entrecotes
 equipede
@@ -6154,6 +6153,7 @@ eaved
 earlywood
 ervipiame
 emunct
+epistasy
 enmeshment
 enrols
 enmity
