@@ -5853,6 +5853,7 @@ gate
 gymnosporangium
 gynoecium
 glucate
+genep
 gorevan
 gibelite
 gastrostomies
@@ -6120,7 +6121,6 @@ genuflections
 gliosis
 gastroid
 geissorhiza
-genep
 geitonogamous
 gnomologist
 gyroma
