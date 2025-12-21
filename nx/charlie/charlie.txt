@@ -15495,7 +15495,6 @@ confraternization
 claro
 claroes
 collegian
-claromontane
 claros
 chemotaxis
 contraposition
@@ -30321,6 +30320,7 @@ crunchiest
 crunchiness
 crunching
 crunchingly
+claromontane
 crunchweed
 causewayman
 crunkle
