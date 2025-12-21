@@ -4491,7 +4491,6 @@ frouzier
 frankenia
 flattercap
 fermal
-fashioned
 furthermost
 foreloop
 fishspear
@@ -8542,6 +8541,7 @@ futuristically
 foreseeing
 foremisgiving
 fard
+fashioned
 fulgid
 farctate
 flacourtia
