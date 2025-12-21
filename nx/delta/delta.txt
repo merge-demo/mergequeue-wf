@@ -1991,7 +1991,6 @@ dynapolis
 dolichocephal
 documentalist
 denehole
-dentello
 dimble
 defaecate
 dysphasia
@@ -9067,6 +9066,7 @@ disparage
 defang
 diss
 dermatophobia
+dentello
 defigure
 dictionarian
 dorsoabdominal
