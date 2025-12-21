@@ -3118,6 +3118,7 @@ groined
 glucosine
 gelatinity
 grassie
+governed
 gumdrops
 gomuti
 gymnocidium
@@ -7516,7 +7517,6 @@ glitch
 guessable
 glottalized
 gat
-governed
 gotten
 graecizing
 governesses
