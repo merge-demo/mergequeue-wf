@@ -10209,6 +10209,7 @@ chiasma
 cotesian
 chloasmata
 camacan
+coequalize
 chiasmas
 chiasmata
 cavesson
@@ -18579,7 +18580,6 @@ coigne
 cader
 cutted
 coigny
-coequalize
 callitrichidae
 coigue
 coyish
