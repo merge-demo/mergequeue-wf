@@ -4244,7 +4244,6 @@ deltohedron
 dogvanes
 delubra
 delude
-didunculus
 disambiguating
 dishonored
 dipperful
@@ -15569,6 +15568,7 @@ discriminatingly
 donovan
 dons
 donsie
+didunculus
 deflocculent
 donsky
 donzel
