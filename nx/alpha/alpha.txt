@@ -20846,6 +20846,7 @@ arx
 arzan
 acapu
 apportions
+astronomics
 amputator
 avenery
 archmock
@@ -22453,7 +22454,6 @@ aphototropism
 astronomical
 ajenjo
 acylate
-astronomics
 astronomize
 aragallus
 algarobas
