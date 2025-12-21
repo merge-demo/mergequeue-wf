@@ -2471,6 +2471,7 @@ cancrid
 cruzeiro
 capelline
 cancrine
+collocutor
 cicatrix
 carpers
 coffeeberry
@@ -19151,7 +19152,6 @@ collocative
 collock
 cowfish
 compartmentalizes
-collocutor
 cogitations
 collodion
 crushproof
