@@ -1167,7 +1167,6 @@ dasyuridae
 dasyurine
 dactylopatagium
 docimastic
-delineatory
 dassent
 deadheads
 dicaeology
@@ -16325,6 +16324,7 @@ drubs
 duratives
 dorothy
 daffled
+delineatory
 depictured
 dials
 dysanalyte
