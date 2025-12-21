@@ -5562,6 +5562,7 @@ deposer
 depauperize
 dorsal
 dyscrase
+dermatoptic
 depeinct
 dwarfing
 dependabilities
@@ -9916,7 +9917,6 @@ descendingly
 dentins
 diplodocuses
 ductilely
-dermatoptic
 drear
 direly
 dimetry
