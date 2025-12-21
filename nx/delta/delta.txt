@@ -9327,7 +9327,6 @@ diezeugmenon
 depolymerizing
 dread
 disorders
-dif
 dodos
 divekeeper
 dactylography
@@ -10688,6 +10687,7 @@ disendower
 disapprover
 drownproofing
 doyle
+dif
 dromical
 dixits
 disorganizing
