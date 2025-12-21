@@ -669,6 +669,7 @@ bathyesthesia
 baculine
 boiseries
 baculoid
+bicentricity
 baculus
 badaga
 biorgan
@@ -5201,7 +5202,6 @@ barns
 beadhouse
 bondfolk
 barragan
-bicentricity
 blastodisk
 bypasser
 bachelry
