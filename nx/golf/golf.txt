@@ -259,7 +259,6 @@ glaires
 gizmo
 glyph
 gumminess
-grapta
 graziery
 geoplagiotropism
 gnomon
@@ -3285,6 +3284,7 @@ gashest
 grayback
 gayatri
 gordiacea
+grapta
 gluteofemoral
 gutty
 ghawazee
