@@ -990,6 +990,7 @@ goldhammer
 ganderess
 genethlialogy
 grimace
+gallberry
 geanticline
 gubernia
 grece
@@ -8604,7 +8605,6 @@ glucose
 geometrizing
 graziers
 gravidate
-gallberry
 gullied
 goslarite
 gregge
