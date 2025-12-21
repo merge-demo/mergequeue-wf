@@ -4901,7 +4901,6 @@ ballot
 bedwarfing
 bigotty
 bubukle
-burglarproof
 beebee
 biophysical
 bradystalsis
@@ -13875,6 +13874,7 @@ bowing
 bowings
 bowkail
 barkentine
+burglarproof
 blad
 bowlder
 bluefishes
