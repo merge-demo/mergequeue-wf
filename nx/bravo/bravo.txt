@@ -3065,6 +3065,7 @@ bdellostomatidae
 baruria
 barvel
 baleful
+byeworker
 beduin
 brainwashing
 braza
@@ -15118,7 +15119,6 @@ brevity
 broquineer
 brevities
 bretwalda
-byeworker
 buccinae
 baronduki
 beqwete
