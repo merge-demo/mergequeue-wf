@@ -10959,6 +10959,7 @@ brassage
 blintzes
 blacksmiths
 bafta
+bambos
 billowy
 blips
 boehmenite
@@ -14560,7 +14561,6 @@ brandenburgh
 brandy
 brosy
 bitty
-bambos
 bondager
 brandied
 banate
