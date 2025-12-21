@@ -1034,7 +1034,6 @@ gabardine
 gnarl
 geriatrics
 gentles
-gastrectomy
 gossamer
 garvock
 gerardias
@@ -8173,6 +8172,7 @@ grapeless
 gippers
 gumlah
 guillem
+gastrectomy
 geloscopy
 geotaxy
 groomsmen
