@@ -13950,6 +13950,7 @@ bundle
 boxhauling
 boxhauls
 bowwow
+brachygraphy
 bethels
 bumbershoot
 blitzes
@@ -14433,7 +14434,6 @@ brainward
 ballistae
 biontic
 brow
-brachygraphy
 besmirchment
 birdshots
 bowldery
