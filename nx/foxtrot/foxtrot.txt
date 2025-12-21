@@ -5999,7 +5999,6 @@ fireproof
 foliole
 fictioneering
 feldsher
-fez
 floorwise
 featishness
 fusty
@@ -7787,6 +7786,7 @@ fondouk
 financial
 forejudging
 florentines
+fez
 funfairs
 feudalized
 fettucine
