@@ -3765,6 +3765,7 @@ eschatology
 embulk
 evehood
 engulfing
+emplanes
 embull
 embush
 examinees
@@ -13933,7 +13934,6 @@ extraneous
 extraneousness
 elytrorrhagia
 ethoxyl
-emplanes
 eyestalk
 extraofficial
 earnestly
