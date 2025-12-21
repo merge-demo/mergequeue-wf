@@ -3654,7 +3654,6 @@ craspedote
 censors
 coenoblastic
 cattleyas
-confucianist
 clangor
 cocineras
 caragana
@@ -25918,6 +25917,7 @@ chokered
 circumscribes
 corsite
 corsos
+confucianist
 cancrivorous
 corteges
 capitalization
