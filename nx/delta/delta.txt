@@ -11503,6 +11503,7 @@ disconformity
 demiparallel
 deepened
 demimondaines
+doorstop
 dullhead
 dwarfy
 discomedusae
@@ -15645,7 +15646,6 @@ daggers
 dissembler
 departement
 directable
-doorstop
 devotionality
 diverge
 diodes
