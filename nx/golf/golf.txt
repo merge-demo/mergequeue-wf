@@ -1639,7 +1639,6 @@ garawi
 gumlikeness
 geode
 goyish
-galeiform
 gastroenteroptosis
 graculus
 grammates
@@ -6781,6 +6780,7 @@ gossiping
 geront
 gymnogyps
 gentilitial
+galeiform
 gyrostatics
 genal
 genros
