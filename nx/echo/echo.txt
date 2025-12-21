@@ -10640,7 +10640,6 @@ epinephrine
 empurpling
 excamber
 elopers
-epithet
 excusingly
 eastlake
 extricating
@@ -12321,6 +12320,7 @@ etymologicon
 exercitation
 elecampane
 effortless
+epithet
 equilin
 elvanitic
 exercitorian
