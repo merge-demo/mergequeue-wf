@@ -1693,7 +1693,6 @@ eddoes
 elaioleucite
 epirotic
 eyebright
-electrotheraputics
 extemporaneous
 eyecup
 emollescence
@@ -9839,6 +9838,7 @@ emulsoid
 esters
 entomologizing
 electromagnet
+electrotheraputics
 esth
 estherian
 eyebolt
