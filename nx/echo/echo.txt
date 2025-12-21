@@ -3476,7 +3476,6 @@ evocable
 expiative
 eleutherosepalous
 ennuis
-expediters
 expuition
 emblanch
 emblaze
@@ -4597,6 +4596,7 @@ emplore
 effigies
 ectochondral
 expede
+expediters
 enfettered
 encheason
 enchequer
