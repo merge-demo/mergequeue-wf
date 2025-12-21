@@ -2771,7 +2771,6 @@ bibliolater
 backspringing
 bethorned
 bristlewort
-baroness
 bewrapping
 bordello
 brattiest
@@ -4828,6 +4827,7 @@ bemirrorment
 belvederes
 believableness
 baboons
+baroness
 badmouth
 branchia
 breekless
