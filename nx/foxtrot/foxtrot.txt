@@ -6213,7 +6213,6 @@ flagmaker
 furbished
 fibroareolar
 farfetched
-flisked
 fakeries
 fairest
 flaring
@@ -7617,6 +7616,7 @@ festino
 fatalize
 farrier
 fossula
+flisked
 felty
 ferroglass
 fastly
