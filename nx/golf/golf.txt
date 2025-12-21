@@ -5729,7 +5729,6 @@ glamberry
 glendale
 glossocele
 graian
-gaduin
 gummoses
 grandmother
 gantline
@@ -7394,6 +7393,7 @@ gunnery
 gothish
 globousness
 grangerization
+gaduin
 gadean
 grateless
 gaiety
