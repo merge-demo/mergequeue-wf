@@ -10978,7 +10978,6 @@ excludes
 electrizing
 eurhythmic
 epichirema
-echeloot
 eoside
 eigenfrequency
 escobita
@@ -13661,6 +13660,7 @@ epilogism
 earners
 embacle
 evirate
+echeloot
 enforcement
 elevon
 elizabethanism
