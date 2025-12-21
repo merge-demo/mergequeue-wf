@@ -3567,6 +3567,7 @@ classier
 captivative
 captive
 caucus
+caucused
 calvarias
 captives
 comatulae
@@ -8284,7 +8285,6 @@ canadianisms
 chalcus
 chaldean
 chiver
-caucused
 caricetum
 contravariant
 councillary
