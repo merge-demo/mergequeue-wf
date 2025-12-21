@@ -380,7 +380,6 @@ carper
 cacogastric
 cacogenesis
 cacogenic
-capsulate
 cacogeusia
 cacoglossia
 comitragedy
@@ -10064,6 +10063,7 @@ chervontsi
 chesapeake
 caboche
 cumidin
+capsulate
 complier
 cheselip
 coxocerite

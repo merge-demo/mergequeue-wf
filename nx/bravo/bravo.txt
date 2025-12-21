@@ -794,7 +794,6 @@ blake
 baffies
 benting
 bibliotist
-bangalow
 baklawa
 bonnetmen
 blubberhead
@@ -12911,6 +12910,7 @@ bureaucratese
 boot
 big
 bhandari
+bangalow
 bootees
 battlemented
 bootery
