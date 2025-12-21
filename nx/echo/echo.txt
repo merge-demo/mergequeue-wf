@@ -5594,7 +5594,6 @@ enduringness
 estimably
 enrichment
 endogens
-ethologist
 enflaming
 epiklesis
 equuleus
@@ -9407,6 +9406,7 @@ enantobiosis
 excuseful
 elutriated
 exostosed
+ethologist
 epipodium
 escarps
 escharotic
