@@ -2860,7 +2860,6 @@ foresails
 figworm
 flurry
 fungid
-familistery
 fortuned
 fameflower
 fettered
@@ -4438,6 +4437,7 @@ farinaceously
 fishiness
 fenbank
 fraxin
+familistery
 fluigramme
 frogwort
 frenghi
