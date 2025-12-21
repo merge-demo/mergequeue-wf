@@ -1887,7 +1887,6 @@ gatteridge
 gammaridae
 gaucho
 generalists
-gerbillus
 gamelote
 germaniums
 groundable
@@ -7514,6 +7513,7 @@ gloomfully
 glossopharyngeal
 glitch
 guessable
+gerbillus
 glottalized
 gat
 gotten
