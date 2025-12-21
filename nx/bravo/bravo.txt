@@ -179,7 +179,6 @@ boh
 baccalaureate
 baccalaureates
 baccalaureus
-baccara
 baroques
 bipartition
 bandido
@@ -15120,6 +15119,7 @@ broquineer
 brevities
 bretwalda
 buccinae
+baccara
 baronduki
 beqwete
 boar
