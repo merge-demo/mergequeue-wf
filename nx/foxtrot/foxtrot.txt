@@ -4295,6 +4295,7 @@ follicule
 fibster
 fenland
 fungology
+favorableness
 firmarii
 furmeties
 flunkeys
@@ -8924,7 +8925,6 @@ flabellinerved
 fallency
 flneuse
 footbridge
-favorableness
 foundrous
 farhands
 flotative
