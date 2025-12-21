@@ -10646,7 +10646,6 @@ chilver
 caliological
 chimaera
 chimaerid
-chimaeroid
 chimakum
 curled
 cogon
@@ -22346,6 +22345,7 @@ congregative
 congreso
 congress
 coxarthropathy
+chimaeroid
 calcaria
 cylindered
 congresser
