@@ -4187,6 +4187,7 @@ gyrocompass
 geographical
 gaggles
 gundogs
+gur
 gauds
 gnathites
 gastroplication
@@ -9551,7 +9552,6 @@ glume
 gastornithidae
 groved
 greenskeeper
-gur
 groveled
 gridiron
 giustina
