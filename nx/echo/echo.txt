@@ -2518,7 +2518,6 @@ emender
 enervators
 endostylar
 epilepsia
-enmeshed
 ensate
 eparcuale
 epitomisation
@@ -8659,6 +8658,7 @@ expositions
 epipoditic
 eggcrate
 endnotes
+enmeshed
 equipedal
 endotheliomyoma
 earthshaking
