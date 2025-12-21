@@ -4848,7 +4848,6 @@ factorylike
 festinately
 fructiparous
 feasting
-fascicular
 furnishing
 fodder
 foliums
@@ -9752,6 +9751,7 @@ folklorists
 frenzy
 foredays
 fabrics
+fascicular
 figurability
 factored
 fridges
