@@ -4181,7 +4181,6 @@ cardiomegaly
 cyclus
 cardiomelanosis
 contradivide
-cholecystotomies
 cardiometer
 cardiometric
 cardiomyomalacia
@@ -4494,6 +4493,7 @@ chinner
 combatants
 carlock
 cogways
+cholecystotomies
 circumference
 carlot
 carls

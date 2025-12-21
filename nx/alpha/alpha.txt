@@ -11986,7 +11986,6 @@ anarcestes
 alteregoistic
 abators
 archibuteo
-anarchy
 aerocolpos
 auberges
 antique
@@ -18626,6 +18625,7 @@ archaeolith
 archaeologer
 adding
 adiathermal
+anarchy
 artemisic
 adoral
 archaeologic
