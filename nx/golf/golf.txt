@@ -2166,6 +2166,7 @@ gaycat
 gastrotomy
 grainer
 gaze
+gizzards
 genteelly
 glout
 geraldine
@@ -8395,7 +8396,6 @@ gyroscopically
 gaucherie
 gawby
 grebe
-gizzards
 gulping
 grippes
 giantry
