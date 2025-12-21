@@ -10094,7 +10094,6 @@ eutopia
 euphausiacea
 entities
 ethereality
-epiboly
 etherealization
 endotropic
 earthlike
@@ -12186,6 +12185,7 @@ emanated
 elementalism
 emerized
 excelse
+epiboly
 execratively
 excreter
 enragedness
