@@ -6671,7 +6671,6 @@ fica
 ferbams
 finewed
 fofarraw
-falderol
 fortifier
 faqirs
 feted
@@ -9108,6 +9107,7 @@ flourisher
 firmance
 furbishable
 foxly
+falderol
 flaith
 foreintend
 floodable
