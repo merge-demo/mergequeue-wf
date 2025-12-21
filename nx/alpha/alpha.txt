@@ -2751,6 +2751,7 @@ alarms
 airglow
 apotropaion
 autopista
+antennary
 acrocephalic
 accompanable
 aw
@@ -3197,7 +3198,6 @@ adderbolt
 acoumetry
 alstonine
 assident
-antennary
 abstersion
 aphis
 ashlar
