@@ -665,7 +665,6 @@ decapitalize
 damped
 desquamated
 dukely
-deafen
 dudgeons
 dihydroxy
 dodecastylar
@@ -14450,6 +14449,7 @@ dressmaker
 dimethylamine
 divert
 dioptrometer
+deafen
 dasyphyllous
 disraeli
 defunctionalization
