@@ -8258,7 +8258,6 @@ enweave
 eleostearate
 epistlers
 epistolarian
-elderhood
 escribe
 epopoeia
 epochal
@@ -11987,6 +11986,7 @@ exclaims
 epitenon
 exclamative
 endolymphic
+elderhood
 epithermally
 excreation
 exclamatory
