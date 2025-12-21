@@ -1593,7 +1593,6 @@ glabellar
 gougers
 gunreach
 grampus
-gonyoncus
 goosegrass
 gunnar
 ghazism
@@ -5261,6 +5260,7 @@ goatish
 gullet
 gelsemiums
 glenohumeral
+gonyoncus
 genomes
 grouted
 garnets
