@@ -4537,7 +4537,6 @@ demilitarized
 dentaliidae
 disselboom
 demilitarizes
-demiliterate
 deflectional
 despotical
 demilustre
@@ -4978,6 +4977,7 @@ discession
 dipsy
 dogcatchers
 druze
+demiliterate
 dude
 dummies
 diphyletic

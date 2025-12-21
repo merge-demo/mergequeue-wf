@@ -2086,7 +2086,6 @@ achievable
 anviling
 antecedents
 airburst
-ardor
 amiral
 antapices
 aiguillesque
@@ -3228,6 +3227,7 @@ abram
 aphidius
 aerogenes
 adductors
+ardor
 antilevelling
 accusatorial
 aleberry
