@@ -5942,7 +5942,6 @@ gauzier
 gutless
 gestapo
 grayness
-goss
 glumosity
 gondang
 gonopodia
@@ -7716,6 +7715,7 @@ gelations
 gos
 gliomatous
 gyassa
+goss
 governors
 graduses
 gentium
