@@ -7347,7 +7347,6 @@ gluon
 gymnolaema
 gougingly
 goldlike
-gratify
 gossiped
 gossipee
 goodyship
@@ -8715,6 +8714,7 @@ grassflat
 gastrodisc
 growler
 golosh
+gratify
 gnathonic
 girosols
 guazuma
