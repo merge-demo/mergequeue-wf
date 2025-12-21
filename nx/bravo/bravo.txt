@@ -12471,7 +12471,6 @@ botryopteris
 bawhorse
 bondmen
 bullyrock
-bondminder
 bookroom
 bawdrick
 bierbalk
@@ -18018,6 +18017,7 @@ burghmoot
 bicornuous
 bromise
 busket
+bondminder
 baseness
 buskined
 beadmen
