@@ -8059,6 +8059,7 @@ bagroom
 bicornuate
 bicornute
 beshadow
+boats
 bicorporate
 banyai
 belleeks
@@ -11657,7 +11658,6 @@ boatloader
 beigy
 boatmanship
 boatmen
-boats
 boatsetter
 bisymmetric
 badju
