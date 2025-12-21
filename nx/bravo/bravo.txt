@@ -7730,7 +7730,6 @@ britten
 bathyscaphe
 bravoite
 buxerry
-bhikshu
 bullan
 breakover
 brocard
@@ -10338,6 +10337,7 @@ billot
 bounderish
 buffability
 bamboozlers
+bhikshu
 breviature
 bordman
 boil
