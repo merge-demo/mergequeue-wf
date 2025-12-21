@@ -527,7 +527,6 @@ extraphenomenal
 estate
 entosphenal
 echeneidae
-echevaria
 endobiotic
 endonucleolus
 evocate
@@ -12086,6 +12085,7 @@ engulfs
 edentates
 expressor
 easels
+echevaria
 emblazonry
 ekphoria
 expostulation
