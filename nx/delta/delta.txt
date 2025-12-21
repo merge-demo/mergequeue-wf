@@ -3406,7 +3406,6 @@ deflector
 dichlorvos
 devitrifying
 deflesh
-deflexibility
 dysgenics
 diversely
 deflocculant
@@ -9424,6 +9423,7 @@ dejunkerize
 diffusions
 diffusive
 diffusors
+deflexibility
 diabolus
 diner
 destructors

@@ -2542,6 +2542,7 @@ bemused
 burmite
 brillolette
 barid
+bouser
 bronchostenosis
 bereaving
 burgus
@@ -13711,7 +13712,6 @@ bouse
 boused
 balija
 bouldery
-bouser
 bousouki
 bousoukia
 bhalu
