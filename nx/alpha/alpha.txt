@@ -14289,6 +14289,7 @@ anthemion
 anthemis
 aecidiomycetes
 antheraea
+adenemphractic
 antheridia
 antherogenous
 aphnology
@@ -24679,7 +24680,6 @@ averagely
 averageness
 averaging
 ackeys
-adenemphractic
 accordant
 averment
 anopheline
