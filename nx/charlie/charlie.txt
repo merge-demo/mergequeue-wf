@@ -4737,6 +4737,7 @@ carpetbags
 counterearth
 ciboria
 catchall
+castalian
 chigetais
 champerty
 classicalism
@@ -5356,7 +5357,6 @@ cellarers
 cast
 castable
 castagnole
-castalian
 castalides
 cardiopuncture
 chertier
