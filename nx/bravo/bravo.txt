@@ -8896,7 +8896,6 @@ bavoso
 blabber
 bussed
 bioclimatologically
-bioclimatologist
 blowflies
 bouchons
 bowser
@@ -15773,6 +15772,7 @@ beauing
 billethead
 backstrokes
 backhandedly
+bioclimatologist
 besonio
 begowned
 bimester
