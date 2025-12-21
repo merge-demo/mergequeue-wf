@@ -3850,7 +3850,6 @@ firewoods
 fisticuffer
 furthermore
 fineless
-fract
 fiberglas
 formicary
 fiberscope
@@ -5630,6 +5629,7 @@ foetor
 fernery
 forepassed
 fireboot
+fract
 fuci
 flyless
 flinting
