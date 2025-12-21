@@ -6283,6 +6283,7 @@ ethanes
 enrich
 enrichener
 ectopias
+emerse
 edaphic
 enows
 electrotechnology
@@ -12671,7 +12672,6 @@ excogitate
 endeavors
 echo
 erotized
-emerse
 elzevir
 extrapolation
 exomphalos
