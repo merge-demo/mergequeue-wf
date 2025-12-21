@@ -9404,7 +9404,6 @@ expection
 electroretinographic
 enstool
 echeneid
-escaper
 embodied
 enfranchiser
 extent
@@ -12052,6 +12051,7 @@ excoriation
 enwwove
 excoriations
 epiclike
+escaper
 electrostenolytic
 enforcible
 elflike
