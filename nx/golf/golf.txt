@@ -7811,7 +7811,6 @@ glagol
 gestion
 guanche
 gangplank
-graisse
 gerately
 gufa
 greenkeeper
@@ -8346,6 +8345,7 @@ geophytic
 gnatter
 gnarling
 genitalia
+graisse
 greeniest
 grins
 glittery
