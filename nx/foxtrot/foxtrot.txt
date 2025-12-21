@@ -1549,6 +1549,7 @@ fauteuil
 fussy
 foreteach
 farrow
+forbathe
 forepayment
 frundel
 festival
@@ -7151,7 +7152,6 @@ frontoparietal
 footers
 fatherlandish
 femicide
-forbathe
 forebroads
 forgottenness
 fredaine
