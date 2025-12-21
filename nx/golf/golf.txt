@@ -9074,6 +9074,7 @@ geelbek
 glottogonic
 greffotome
 glassworking
+guttlers
 glasser
 grimalkin
 genitive
@@ -10804,7 +10805,6 @@ gestonie
 gibberella
 gabbroitic
 gibli
-guttlers
 gainly
 goblinism
 gonenesses

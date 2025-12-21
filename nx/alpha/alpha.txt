@@ -11811,7 +11811,6 @@ analyzability
 arnoseris
 arcuately
 anticynicism
-ajari
 analyze
 analyzed
 ailurophobe
@@ -22897,6 +22896,7 @@ amhran
 almondy
 atoned
 atoners
+ajari
 alcali
 atones
 antinomies
