@@ -2380,6 +2380,7 @@ futures
 footganger
 fetial
 fortunetellers
+facile
 firearmed
 frondage
 feriation
@@ -3134,7 +3135,6 @@ frwy
 firewarden
 furioso
 franciscans
-facile
 finca
 flip
 fences
