@@ -1906,6 +1906,7 @@ dances
 debriefings
 debris
 diandrian
+dive
 disapprobations
 dacryd
 dinophilus
@@ -18154,7 +18155,6 @@ dalesman
 duikerbuck
 dumple
 donators
-dive
 dishearten
 devote
 diotrephes
