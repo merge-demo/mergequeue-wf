@@ -290,7 +290,6 @@ febrifacient
 footpounds
 firbolg
 flagarie
-fideism
 fissle
 foxfire
 fledges
@@ -9097,6 +9096,7 @@ filterer
 fleabanes
 fourberie
 fedelini
+fideism
 frisure
 fenlander
 frankist
