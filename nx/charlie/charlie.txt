@@ -11198,7 +11198,6 @@ chloralum
 chlorambucil
 contrasting
 chloramin
-chloramphenicol
 caperwort
 chilopodous
 chloranemia
@@ -16639,6 +16638,7 @@ closable
 closeable
 closecross
 closed
+chloramphenicol
 closefistedly
 closefistedness
 concussant
