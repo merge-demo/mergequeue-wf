@@ -5216,6 +5216,7 @@ cashiering
 cashierment
 cashkeeper
 crows
+centered
 clearest
 cashmere
 cashmeres
@@ -25972,7 +25973,6 @@ corve
 cousiny
 camphorates
 corvees
-centered
 corven
 corver
 corves
