@@ -10011,6 +10011,7 @@ frilling
 flee
 flatwork
 flowe
+fellsman
 fantod
 flavoury
 flor
@@ -11064,7 +11065,6 @@ fogbow
 fructed
 frowner
 frameae
-fellsman
 flaminica
 fractionated
 forficated
