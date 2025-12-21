@@ -8954,7 +8954,6 @@ gothicity
 geiger
 gall
 genuclast
-genteel
 getae
 gallicola
 grizzlyman
@@ -10315,6 +10314,7 @@ guardfish
 grappled
 gnathions
 gujarati
+genteel
 gametic
 girondin
 gamodesmic
