@@ -17158,7 +17158,6 @@ coaters
 churliest
 crescograph
 chummer
-cryptogenetic
 coadunite
 coadventure
 coadventured
@@ -25679,6 +25678,7 @@ corrective
 correctively
 computers
 correctiveness
+cryptogenetic
 convincers
 coryphaenoid
 circumvolant
