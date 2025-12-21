@@ -4618,6 +4618,7 @@ dinic
 demisang
 dulcite
 demisangue
+didine
 douzaines
 dereliction
 demipectinate
@@ -7332,7 +7333,6 @@ disagreed
 disvulnerability
 determiner
 diameters
-didine
 determinism
 dunnest
 deterministic
