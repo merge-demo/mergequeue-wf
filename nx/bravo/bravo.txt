@@ -5175,6 +5175,7 @@ befreight
 befountained
 borosilicic
 baddish
+byssal
 baguette
 burbank
 broiler
@@ -9710,7 +9711,6 @@ betokening
 bissabol
 birdmouthed
 bacchante
-byssal
 bigam
 bissellia
 bullbats
