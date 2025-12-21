@@ -2563,7 +2563,6 @@ escadrilles
 electrobiological
 exorcist
 endocritic
-eminency
 eatable
 ezra
 emptiable
@@ -3964,6 +3963,7 @@ exorability
 epitases
 empaistic
 exilarch
+eminency
 embroglio
 empale
 empalers
