@@ -7843,7 +7843,6 @@ ejaculator
 eddish
 epigoni
 entomotaxy
-epigonic
 expletive
 excardination
 encrinoid
@@ -13059,6 +13058,7 @@ evaluations
 euphonized
 expermentized
 ensnarers
+epigonic
 emus
 eucaine
 embankment
