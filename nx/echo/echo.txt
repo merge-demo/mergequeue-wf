@@ -1160,6 +1160,7 @@ estuaries
 enterobiasis
 edomitish
 expective
+escorial
 eutomous
 exorbitate
 enterograph
@@ -10268,7 +10269,6 @@ eyebridled
 esquamate
 empemata
 enteromycosis
-escorial
 emulsifiability
 ethylamine
 extralite

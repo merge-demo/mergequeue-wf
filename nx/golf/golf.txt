@@ -6561,7 +6561,6 @@ grassant
 grouplet
 grappas
 glottalization
-ground
 grabblers
 gambeson
 grummets
@@ -8596,6 +8595,7 @@ gametically
 genealogical
 guerdonless
 gestic
+ground
 gibbeting
 geothermometer
 gaufrettes
