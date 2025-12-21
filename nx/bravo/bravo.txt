@@ -5728,7 +5728,6 @@ belies
 braziery
 believers
 beamful
-bloomery
 blankite
 budge
 bencite
@@ -17341,6 +17340,7 @@ brucellas
 blotches
 basilosaurus
 bund
+bloomery
 ballam
 belamy
 brontotherium
