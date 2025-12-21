@@ -1595,7 +1595,6 @@ dunkirker
 deafly
 deafmuteness
 disembrace
-digression
 deafness
 deairing
 discernableness
@@ -3171,6 +3170,7 @@ depolarizes
 devotionalness
 dimitting
 defectless
+digression
 declaratives
 defectlessness
 delegatory
