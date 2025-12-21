@@ -6025,6 +6025,7 @@ bemoaned
 bauxitic
 baccarats
 bowenite
+biomathematics
 boiling
 brouette
 bradyphasia
@@ -8998,7 +8999,6 @@ bartizan
 brender
 bremsstrahlung
 bacterioagglutinin
-biomathematics
 bets
 byp
 biomechanical
