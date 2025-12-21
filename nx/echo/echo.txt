@@ -5143,7 +5143,6 @@ edificate
 epiplanktonic
 ejectives
 encrustment
-elegits
 ember
 elaeoblast
 elatives
@@ -13850,6 +13849,7 @@ evaporize
 ellasar
 extractability
 eluated
+elegits
 enmities
 eyestrings
 exchanges
