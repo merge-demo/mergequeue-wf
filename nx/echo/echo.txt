@@ -6130,7 +6130,6 @@ erminites
 extremum
 elaterometer
 elephantiases
-embelia
 ereptic
 espringal
 enfacement
@@ -7076,6 +7075,7 @@ elsholtzia
 eggroll
 euphone
 efficiency
+embelia
 enlinked
 enshell
 entoiling
