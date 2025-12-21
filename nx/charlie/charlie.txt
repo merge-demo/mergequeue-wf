@@ -11175,7 +11175,6 @@ chlamyses
 congratulation
 chleuh
 chloasma
-cephalorachidian
 chloracne
 criminaldom
 chloraemia
@@ -16879,6 +16878,7 @@ casebooks
 clubroots
 clubs
 clubstart
+cephalorachidian
 clubster
 carpogonium
 clubweed
