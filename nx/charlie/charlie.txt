@@ -11167,6 +11167,7 @@ chizz
 chizzel
 chladnite
 chondrite
+caulicles
 chlamyd
 chlamydate
 chlamydobacteriaceous
@@ -22814,7 +22815,6 @@ crinid
 caffeine
 cotyledonoid
 chelonid
-caulicles
 congiaries
 consentable
 consentaneity
