@@ -3407,7 +3407,6 @@ endocrinologist
 enc
 eavedropper
 embark
-epichorial
 embarkations
 epitomize
 embarks
@@ -10193,6 +10192,7 @@ esperantic
 esophagomycosis
 envenomation
 ethician
+epichorial
 emydian
 erroneous
 erotica
