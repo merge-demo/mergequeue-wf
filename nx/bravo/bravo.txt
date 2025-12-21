@@ -6487,6 +6487,7 @@ booley
 boltropes
 bronchopneumonic
 bephrase
+bossiness
 betelgeuse
 bepicture
 bugology
@@ -11314,7 +11315,6 @@ boards
 bespoused
 blowtorches
 bromos
-bossiness
 blowups
 beadrow
 byroad
