@@ -12500,7 +12500,6 @@ broodier
 bellyflaught
 barcarolle
 biennially
-brakier
 bloomerism
 bonelessly
 bonelet
@@ -13541,6 +13540,7 @@ beggarlice
 batiked
 brunel
 biennale
+brakier
 biquarterly
 barhop
 bouffant
