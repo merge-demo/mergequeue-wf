@@ -10354,6 +10354,7 @@ foliation
 frontbencher
 footlining
 frontcourt
+forays
 fructus
 folkmote
 foreschooling
@@ -10493,7 +10494,6 @@ froth
 formulatory
 fanman
 fittingly
-forays
 fids
 flyback
 frottola
