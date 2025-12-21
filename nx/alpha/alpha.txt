@@ -1715,7 +1715,6 @@ auricomous
 anglicanum
 archtraitor
 antediluvian
-aporia
 abases
 antrotympanic
 arneb
@@ -4516,6 +4515,7 @@ adversities
 abranchial
 aliptes
 axotomous
+aporia
 advertently
 adverting
 appertise
