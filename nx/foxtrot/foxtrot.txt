@@ -3644,6 +3644,7 @@ flashing
 faintishness
 fielder
 floatsman
+fanglet
 froglets
 figurate
 forebitter
@@ -8973,7 +8974,6 @@ favositoid
 formally
 fourier
 francophilism
-fanglet
 fourierism
 fourneau
 filly
