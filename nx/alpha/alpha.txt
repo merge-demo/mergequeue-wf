@@ -5966,7 +5966,6 @@ adenectomy
 acapnial
 alimenation
 alhena
-angelica
 anemophilous
 apparence
 anachronistic
@@ -11767,6 +11766,7 @@ analemma
 autopotent
 aconitum
 autexousy
+angelica
 analepses
 armpad
 agrege
