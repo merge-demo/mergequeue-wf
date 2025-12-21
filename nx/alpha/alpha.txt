@@ -1812,7 +1812,6 @@ assignable
 aethered
 aceraceous
 acerae
-arcual
 angling
 acerate
 acerated
@@ -24564,6 +24563,7 @@ argentarius
 auxospore
 anachorism
 auxotonic
+arcual
 annihilator
 auxotox
 auxotroph
