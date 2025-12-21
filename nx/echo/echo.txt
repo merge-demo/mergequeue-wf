@@ -2234,7 +2234,6 @@ effigiated
 eventuate
 engulfment
 eldrich
-eldritch
 enchased
 eulogy
 exhumate
@@ -8881,6 +8880,7 @@ ergatomorphic
 ergo
 extrameridian
 educationally
+eldritch
 ergodic
 evenhead
 estaminets
