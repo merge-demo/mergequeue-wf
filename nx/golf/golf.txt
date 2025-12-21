@@ -2482,6 +2482,7 @@ grots
 guttersnipes
 gibbetwise
 genitalic
+gaelicize
 grinded
 grandity
 glossier
@@ -3604,7 +3605,6 @@ gyrochrome
 gynostegigia
 gnathobdellae
 gargil
-gaelicize
 galany
 guttiform
 gnathic
