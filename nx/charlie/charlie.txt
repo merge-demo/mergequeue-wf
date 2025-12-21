@@ -7722,6 +7722,7 @@ caramelising
 cermets
 commissar
 cern
+charioteership
 cavaliership
 cityward
 croquet
@@ -27607,7 +27608,6 @@ cymatium
 coving
 carapus
 covinous
-charioteership
 covisitor
 conventicler
 covite
