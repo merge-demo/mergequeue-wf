@@ -2295,7 +2295,6 @@ foambow
 filicales
 formulable
 flotation
-foreface
 fistulizing
 fenestrae
 fenestrated
@@ -6696,6 +6695,7 @@ formicariae
 foofaraws
 furrier
 freshwater
+foreface
 flaughtbred
 frequent
 finableness
