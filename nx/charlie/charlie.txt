@@ -3633,6 +3633,7 @@ circle
 caraboid
 carabus
 caracara
+chondrosin
 carack
 caracks
 cumanagoto
@@ -11806,7 +11807,6 @@ chondrosarcomatous
 construed
 codder
 colpohysterotomy
-chondrosin
 conopid
 chondrosis
 chondrostean
