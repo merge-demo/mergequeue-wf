@@ -877,6 +877,7 @@ geegaw
 gadis
 galactan
 glove
+glossarize
 guily
 goffer
 ghatti
@@ -5686,7 +5687,6 @@ glycerize
 gumboil
 gilbertianism
 glossalgy
-glossarize
 grieffully
 gnathonize
 gahrwali
