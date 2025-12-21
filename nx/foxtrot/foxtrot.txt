@@ -6890,6 +6890,7 @@ fornacic
 forebackwardly
 farmout
 farris
+fragments
 febriferous
 flammeous
 fitly
@@ -9227,7 +9228,6 @@ forsakes
 feldspathose
 flosh
 fusing
-fragments
 foresighted
 fishbed
 foraneous
