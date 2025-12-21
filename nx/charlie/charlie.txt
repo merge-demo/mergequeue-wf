@@ -22566,7 +22566,6 @@ corpulency
 chorizo
 commonness
 castuli
-colorrhaphy
 counterbid
 conking
 conn
@@ -27265,6 +27264,7 @@ cardhouse
 chitty
 country
 countrieman
+colorrhaphy
 chorioiditis
 cavillingly
 coenoblast
