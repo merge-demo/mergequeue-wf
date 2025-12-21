@@ -6771,6 +6771,7 @@ agrimonia
 airdate
 avowing
 animally
+applicatory
 afterband
 affable
 amyrin
@@ -17740,7 +17741,6 @@ appositely
 applicative
 ammunition
 applicatively
-applicatory
 appliedly
 afterdischarge
 allegorized
