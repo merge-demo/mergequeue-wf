@@ -13461,7 +13461,6 @@ cyesis
 cif
 countergage
 camerawork
-chaufer
 cig
 cigarette
 cystenchyma
@@ -18142,6 +18141,7 @@ colatorium
 coenunuri
 coleochaetaceae
 coequal
+chaufer
 coteful
 campman
 carpe
