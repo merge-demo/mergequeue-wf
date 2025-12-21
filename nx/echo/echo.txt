@@ -1872,7 +1872,6 @@ ep
 eddy
 edit
 epistylar
-embolization
 extramorainic
 equivocatingly
 endaseh
@@ -5830,6 +5829,7 @@ eternalized
 epopees
 explanation
 engouement
+embolization
 engoument
 entification
 evade
