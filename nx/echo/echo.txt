@@ -7499,6 +7499,7 @@ euda
 ephraimite
 exocoetidae
 extensively
+ecteron
 ephrathite
 estrins
 estall
@@ -13799,7 +13800,6 @@ equiped
 epicheirema
 engraftment
 extorts
-ecteron
 esparto
 eukaryote
 endebt
