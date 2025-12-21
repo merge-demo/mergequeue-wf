@@ -6820,6 +6820,7 @@ beruffed
 brusqueness
 boy
 bilic
+bothrops
 berwick
 bummaree
 baroi
@@ -17565,7 +17566,6 @@ bellonion
 bhima
 bobble
 bascule
-bothrops
 burgality
 beaufort
 bouses
