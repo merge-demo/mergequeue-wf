@@ -9087,7 +9087,6 @@ drinkability
 dailiness
 devow
 drubbed
-devance
 discernable
 devotedly
 depickle
@@ -18122,6 +18121,7 @@ dammed
 demythologizations
 duplicate
 dispoint
+devance
 deterrer
 devisors
 debatable
