@@ -3982,6 +3982,7 @@ carcajous
 carcake
 carcanet
 carousel
+cathodoluminescence
 carcanetted
 carcases
 crueler
@@ -26478,7 +26479,6 @@ commiserable
 cystocarp
 careenage
 cotrine
-cathodoluminescence
 cacoplastic
 corkiest
 curet

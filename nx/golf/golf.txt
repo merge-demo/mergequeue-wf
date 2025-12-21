@@ -1163,6 +1163,7 @@ gnetums
 guffin
 gaol
 gulls
+graphometry
 grinners
 galliney
 grifters
@@ -5400,7 +5401,6 @@ girdle
 gynandromorphic
 goodtemperedness
 glimmer
-graphometry
 groundswell
 generall
 glucosid
