@@ -8255,6 +8255,7 @@ chalazoidite
 cercarias
 chalazoin
 candytuft
+congregated
 charvet
 chalcanth
 chalcedony
@@ -22328,7 +22329,6 @@ congreganist
 crooks
 congregant
 castanean
-congregated
 congregating
 congregation
 courts
