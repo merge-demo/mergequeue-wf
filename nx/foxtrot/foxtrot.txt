@@ -6518,7 +6518,6 @@ fip
 failsoft
 frotted
 forspread
-furcular
 fluther
 foldskirt
 fortifying
@@ -11393,6 +11392,7 @@ fiddles
 functionlessness
 frosk
 feater
+furcular
 forksmith
 forestership
 flumdiddle
