@@ -2294,7 +2294,6 @@ grosse
 gripmen
 geological
 grallatorial
-gelable
 gymnodiniaceae
 galidictis
 ganofs
@@ -9676,6 +9675,7 @@ gorgonaceous
 globalist
 gruelers
 giddiness
+gelable
 glossography
 graphologies
 griphe
