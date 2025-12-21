@@ -4125,7 +4125,6 @@ gargoyle
 glosts
 genetor
 grimoire
-geoglossum
 gyropilot
 galaxiidae
 gemological
@@ -7337,6 +7336,7 @@ groggery
 gossep
 graphs
 gaberlunzie
+geoglossum
 gunation
 globe
 galactin
