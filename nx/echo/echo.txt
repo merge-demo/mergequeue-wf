@@ -7391,7 +7391,6 @@ epithetical
 extollment
 everywhither
 earthmoving
-epembryonic
 equipollency
 eyres
 epencephala
@@ -11375,6 +11374,7 @@ exalters
 expensefulness
 eccyesis
 euconic
+epembryonic
 exaristate
 embolism
 evennesses
