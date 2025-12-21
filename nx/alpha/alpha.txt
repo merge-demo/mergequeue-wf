@@ -8339,6 +8339,7 @@ ayield
 agricultor
 amacrine
 autoelectronic
+arcboutant
 anaxial
 anaerophyte
 alinement
@@ -18586,7 +18587,6 @@ arcature
 anilinophilous
 arcatures
 acraeinae
-arcboutant
 abundances
 arccos
 appomattoc
