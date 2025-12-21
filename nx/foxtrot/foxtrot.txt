@@ -5817,7 +5817,6 @@ froggiest
 frivolize
 ferfet
 fluoridations
-firehouse
 furbishes
 flintlocks
 froust
@@ -7618,6 +7617,7 @@ festino
 fatalize
 farrier
 fossula
+firehouse
 flisked
 felty
 ferroglass
