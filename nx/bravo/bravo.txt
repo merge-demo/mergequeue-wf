@@ -1699,7 +1699,6 @@ bates
 bishops
 bahera
 bunty
-bedumbing
 benzalphthalide
 beneceptor
 beseeches
@@ -10569,6 +10568,7 @@ blatiform
 biotelemetric
 biffies
 blats
+bedumbing
 butyrone
 blatta
 blackbreast
