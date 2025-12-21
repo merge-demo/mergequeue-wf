@@ -2416,7 +2416,6 @@ fobbed
 festivities
 fatigate
 freemasons
-fractur
 frizzle
 fingered
 frisco
@@ -8216,6 +8215,7 @@ fluoroscoping
 fishways
 faded
 frijolito
+fractur
 faze
 forage
 funicles
