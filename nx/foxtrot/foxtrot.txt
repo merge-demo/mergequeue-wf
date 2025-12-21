@@ -5354,6 +5354,7 @@ fleabags
 federalization
 fireclay
 fluorites
+frontality
 feoffee
 fleahopper
 fructuously
@@ -11056,7 +11057,6 @@ funambule
 fondaco
 fedia
 flamenship
-frontality
 funambuloes
 filled
 fixups
