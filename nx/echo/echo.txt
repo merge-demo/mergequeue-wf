@@ -5343,7 +5343,6 @@ endoskeletons
 endosmic
 evaders
 embaphium
-ethenyl
 emendicate
 endosmoses
 explicit
@@ -7721,6 +7720,7 @@ elytroplastic
 epeirogeny
 equilibration
 expendability
+ethenyl
 extrapopular
 epidemiologic
 emulsified
