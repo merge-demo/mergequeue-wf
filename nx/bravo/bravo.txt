@@ -6553,6 +6553,7 @@ blastospheric
 berattle
 bakehead
 boatside
+betone
 borickite
 brekky
 benzothiazole
@@ -10848,7 +10849,6 @@ bodilessness
 bds
 blewits
 blick
-betone
 blickie
 blickies
 blighia
