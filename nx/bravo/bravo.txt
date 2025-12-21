@@ -3095,7 +3095,6 @@ bestness
 bealach
 barques
 bronteana
-bonitas
 boithrin
 butylene
 basculation
@@ -4374,6 +4373,7 @@ benzotrifuran
 bilingualism
 becircled
 botfly
+bonitas
 beck
 bowman
 benedictive
