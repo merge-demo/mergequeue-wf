@@ -8682,7 +8682,6 @@ conspired
 chantepleure
 chanterelle
 chondroseptum
-chanters
 cutters
 chantership
 chanteur
@@ -27117,6 +27116,7 @@ craws
 cuticular
 colophane
 countersense
+chanters
 countershade
 clione
 chasms
