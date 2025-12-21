@@ -4265,6 +4265,7 @@ gubbo
 gnu
 goby
 gynecocrat
+gopherman
 gunshots
 gleamed
 gastroscope
@@ -7592,7 +7593,6 @@ gullibility
 gorkhali
 guarantied
 gangliar
-gopherman
 gravimetrically
 greengroceries
 gloeosporium
