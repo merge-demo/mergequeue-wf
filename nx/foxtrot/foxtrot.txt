@@ -3461,7 +3461,6 @@ figeater
 floriate
 funambulism
 fascisti
-freesp
 filthily
 fortunation
 forebowline
@@ -6173,6 +6172,7 @@ fragmentized
 finality
 flowerage
 fluxation
+freesp
 forever
 flowerers
 fumiferana
