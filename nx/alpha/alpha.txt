@@ -9740,7 +9740,6 @@ amah
 amahuaca
 assoil
 antigen
-amanori
 aeroscope
 accoutrements
 amain
@@ -22022,6 +22021,7 @@ arthrotrauma
 arabesque
 anticeremonial
 antiwar
+amanori
 albumenizing
 assuringly
 amphiuma
