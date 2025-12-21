@@ -11983,6 +11983,7 @@ dictionaries
 diducing
 disemboweling
 delundung
+depurge
 disaffirm
 disembowelments
 dermatalgia
@@ -18351,7 +18352,6 @@ dryerman
 doubleton
 duodenate
 duodenation
-depurge
 degelation
 dyestuff
 diallelon
