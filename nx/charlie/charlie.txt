@@ -19612,7 +19612,6 @@ columnate
 centimolar
 cupseed
 columnates
-columnation
 crinkleroot
 crystaled
 columner
@@ -31453,6 +31452,7 @@ calcites
 currach
 curragh
 clearminded
+columnation
 centavo
 currajong
 currans
