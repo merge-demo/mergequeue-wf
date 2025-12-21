@@ -10872,7 +10872,6 @@ chiplet
 culvert
 chipmunk
 claviharp
-chipmunks
 chrysochrous
 chipolata
 coleopteroid
@@ -18710,6 +18709,7 @@ congreet
 canvasses
 coiture
 cabot
+chipmunks
 cannonade
 conglobation
 cojusticiar
