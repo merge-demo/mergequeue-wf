@@ -4692,6 +4692,7 @@ gerbilles
 gena
 gossoon
 glassin
+gallowglass
 guisard
 glycuronic
 glary
@@ -9298,7 +9299,6 @@ globetrotting
 gi
 grapeline
 girnel
-gallowglass
 gaure
 guttera
 grudgingness
