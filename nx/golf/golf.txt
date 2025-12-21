@@ -1873,7 +1873,6 @@ gardenwise
 grabber
 gatherers
 galumph
-gooma
 gamenesses
 grecale
 grubstake
@@ -3033,6 +3032,7 @@ gyrally
 grudgekin
 garboil
 gallicolous
+gooma
 gymnodinium
 gulinula
 geminate
