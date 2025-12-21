@@ -3838,6 +3838,7 @@ grumbly
 genealogies
 geodaesia
 gorger
+glasshouse
 girosol
 glarier
 gonapophysal
@@ -6050,7 +6051,6 @@ gallocyanin
 gymnocarpic
 giesel
 gunate
-glasshouse
 geyerite
 grungy
 grislier
