@@ -4403,7 +4403,6 @@ encadre
 ender
 emphasised
 endoparasite
-environmentally
 encanthis
 expectorations
 ensigncies
@@ -6755,6 +6754,7 @@ esterifies
 englyns
 euhemerise
 echidnae
+environmentally
 epitaxially
 eyelids
 erythraemia
