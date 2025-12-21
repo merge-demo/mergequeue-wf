@@ -4824,6 +4824,7 @@ completion
 carbodiimide
 carport
 carpos
+chromobacterieae
 chibouk
 carposporangial
 catalase
@@ -16377,7 +16378,6 @@ clithe
 clithral
 clitia
 copolymerizations
-chromobacterieae
 cylindruria
 camenae
 clitoral
