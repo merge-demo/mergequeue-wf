@@ -6454,6 +6454,7 @@ espave
 espousal
 expandibility
 ensnared
+exfiltrate
 ensnarer
 echinostoma
 excommunicated
@@ -12452,7 +12453,6 @@ effectuate
 exhumatory
 emancipations
 explorate
-exfiltrate
 equilibrial
 electrolysing
 exhuming
