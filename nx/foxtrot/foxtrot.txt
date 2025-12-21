@@ -3160,6 +3160,7 @@ funduline
 forbearing
 fibromyotomy
 feuding
+frigorimeter
 fibromuscular
 farmer
 formule
@@ -8830,7 +8831,6 @@ fearable
 flexured
 friss
 feucht
-frigorimeter
 fluidible
 flushgate
 forespoke
