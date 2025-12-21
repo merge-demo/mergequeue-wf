@@ -3369,7 +3369,6 @@ embadomonas
 eats
 embain
 egglike
-epanthous
 embays
 ethylenediamine
 extranormal
@@ -4524,6 +4523,7 @@ encephalomyelitic
 epochally
 extramorainal
 easement
+epanthous
 epirrheme
 eyeflap
 entalent
