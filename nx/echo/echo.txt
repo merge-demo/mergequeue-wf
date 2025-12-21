@@ -5175,7 +5175,6 @@ enoch
 electroosmotic
 euphorbiaceae
 extrapolate
-electromedical
 endoenzyme
 epitrochoid
 entresol
@@ -10193,6 +10192,7 @@ envenomation
 ethician
 epichorial
 emydian
+electromedical
 erroneous
 erotica
 emptores
