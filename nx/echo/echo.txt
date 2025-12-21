@@ -4922,7 +4922,6 @@ ephyrula
 eyednesses
 enterocoelic
 electrodialysis
-endable
 escaroles
 estimating
 endamagement
@@ -12483,6 +12482,7 @@ enneadic
 electrifying
 electroosmosis
 enomania
+endable
 escarbuncle
 esophagotomy
 enrollees
