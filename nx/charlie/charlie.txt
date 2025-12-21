@@ -7191,7 +7191,6 @@ clar
 compare
 centraxonial
 centre
-clinoaxis
 centreboard
 centred
 centref
@@ -31398,6 +31397,7 @@ curios
 cheminee
 cartridges
 curiosa
+clinoaxis
 curiosi
 craterous
 curiosities
