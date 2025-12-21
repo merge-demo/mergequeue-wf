@@ -6719,6 +6719,7 @@ fogo
 frescoists
 feast
 furthering
+feathery
 forelegs
 fogon
 fogproof
@@ -11638,7 +11639,6 @@ fustoc
 fussily
 friscal
 fusulae
-feathery
 fusure
 fibroses
 fibropapilloma
