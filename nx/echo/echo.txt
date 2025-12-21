@@ -8806,6 +8806,7 @@ ethoxy
 ethnobotanist
 eyewort
 erd
+excavation
 eyehook
 eagers
 erechtheum
@@ -12812,7 +12813,6 @@ evangelicity
 ensepulchered
 ecanda
 edgeways
-excavation
 empacket
 elinguated
 eroticization
