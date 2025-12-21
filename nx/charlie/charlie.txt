@@ -602,7 +602,6 @@ caryocaraceae
 caduke
 cadwal
 callaesthetic
-calimanco
 cadwallader
 contravallation
 chamaeprosopic
@@ -27846,6 +27845,7 @@ cyclometers
 cozes
 cerebroside
 cozie
+calimanco
 conspect
 civiliser
 cp
