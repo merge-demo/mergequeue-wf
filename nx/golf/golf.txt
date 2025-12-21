@@ -3463,6 +3463,7 @@ glorioles
 gamont
 gesithcundman
 gesling
+garrotter
 gudrun
 gymkhanas
 gretel
@@ -8559,7 +8560,6 @@ gasolene
 gemuti
 geonoma
 gravicembalos
-garrotter
 glutton
 gravida
 gabelles
