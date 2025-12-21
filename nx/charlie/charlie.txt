@@ -475,7 +475,6 @@ cad
 cadamba
 cryptocrystalline
 cadaster
-cadasters
 cadastral
 cadastration
 cadastres
@@ -3370,6 +3369,7 @@ catapetalous
 counterweighing
 capotasto
 capotastos
+cadasters
 choicest
 chronographically
 celsius
