@@ -9592,7 +9592,6 @@ esophagometer
 emotionalized
 enticeable
 eupomatiaceae
-evoked
 esophagoplasty
 enigmatic
 embodiment
@@ -10912,6 +10911,7 @@ euphorically
 euphotide
 excommunicate
 esd
+evoked
 euphues
 epipedometry
 epilogizing
