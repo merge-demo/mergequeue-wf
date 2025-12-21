@@ -5225,7 +5225,6 @@ exitus
 elusive
 endolysin
 eparchy
-eretrian
 extermine
 equipluve
 equilibrate
@@ -5388,6 +5387,7 @@ elateridae
 encorbellment
 elamitic
 extuberant
+eretrian
 erstwhiles
 epicurishly
 eosphorite
