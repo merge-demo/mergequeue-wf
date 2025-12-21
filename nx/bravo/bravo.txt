@@ -1715,6 +1715,7 @@ ballyhoos
 buskers
 brokerage
 botan
+brieflessly
 borealis
 brachypyramid
 broon
@@ -15335,7 +15336,6 @@ bandylegged
 blisterwort
 bohorok
 boisterously
-brieflessly
 besieges
 blandest
 briefness
