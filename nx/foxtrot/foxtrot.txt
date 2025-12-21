@@ -2861,7 +2861,6 @@ feltyfare
 fisty
 finable
 foresails
-figworm
 flurry
 fungid
 fortuned
@@ -9151,6 +9150,7 @@ fruitarian
 fractionalized
 forjudging
 ferriprussic
+figworm
 fodient
 faired
 florulae

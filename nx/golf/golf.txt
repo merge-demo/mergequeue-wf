@@ -8623,7 +8623,6 @@ genethliacs
 gentlemanly
 grapnel
 gerb
-grappled
 guti
 glucosin
 gulfed
@@ -10720,6 +10719,7 @@ grate
 gearwheel
 glyoxim
 grumping
+grappled
 gubernatorial
 gunnung
 graphometric
