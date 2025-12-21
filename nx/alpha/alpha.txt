@@ -2075,6 +2075,7 @@ airtime
 adansonia
 anthologion
 aphagia
+anticlinorium
 antenniferous
 advertent
 apout
@@ -14926,7 +14927,6 @@ anticlines
 anethum
 anticlinoria
 amphigouri
-anticlinorium
 axised
 anaphoral
 alkenes
