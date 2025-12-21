@@ -7008,7 +7008,6 @@ flexions
 filla
 fluidism
 functor
-frison
 frittered
 fondues
 forestress
@@ -11599,6 +11598,7 @@ forlornly
 for
 fetch
 frenchman
+frison
 forcarve
 frough
 frack
