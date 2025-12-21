@@ -6263,6 +6263,7 @@ fluidified
 fluoarsenate
 ferromagnet
 flummeries
+farms
 fld
 fedoras
 flatfooting
@@ -11472,7 +11473,6 @@ fuzzle
 foothill
 ferrite
 foredescribe
-farms
 facilities
 figural
 finnmarks
