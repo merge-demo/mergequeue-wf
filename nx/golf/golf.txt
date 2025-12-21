@@ -5788,6 +5788,7 @@ gumhar
 garrulously
 goony
 grunts
+glomus
 goupin
 gnatworm
 genupectoral
@@ -7355,7 +7356,6 @@ glessite
 griffon
 glyoxime
 generalizers
-glomus
 gomarite
 gourdiness
 gamotropism
