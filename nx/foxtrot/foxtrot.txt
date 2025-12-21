@@ -2093,7 +2093,6 @@ floriculture
 felicitator
 fudger
 frightened
-foredefine
 fainty
 fesapo
 filletlike
@@ -9903,6 +9902,7 @@ folliculous
 foliaceousness
 fibrofatty
 freckly
+foredefine
 felid
 ferreters
 friendlessness
