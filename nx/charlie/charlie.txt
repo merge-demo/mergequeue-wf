@@ -4200,7 +4200,6 @@ cardiopulmonary
 cardiorenal
 cardiorespiratory
 cardiorrhaphy
-cardiorrheuma
 cardiospermum
 celts
 cardiosphygmogram
@@ -10879,6 +10878,7 @@ coefficient
 chippewas
 chippy
 cobishop
+cardiorrheuma
 cometic
 chloralose
 canzoni
