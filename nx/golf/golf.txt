@@ -2044,6 +2044,7 @@ gantry
 gazzetta
 gutterize
 gavels
+gloriana
 gavia
 geminiform
 gio
@@ -10175,7 +10176,6 @@ gastropathy
 granulated
 greed
 governable
-gloriana
 goosery
 genethliac
 garages

@@ -1175,6 +1175,7 @@ bebless
 bogeyed
 beltmen
 baized
+birefraction
 bajury
 blackbelly
 bonnaz
@@ -7495,7 +7496,6 @@ bistre
 bramantesque
 bullragged
 bleariest
-birefraction
 befoolment
 betwine
 betwixt
