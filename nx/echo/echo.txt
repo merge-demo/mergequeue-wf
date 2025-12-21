@@ -10016,7 +10016,6 @@ electrodiagnostic
 expellable
 ethanal
 esoterical
-eternalize
 eternally
 extill
 embarking
@@ -10082,6 +10081,7 @@ echidnidae
 ethenes
 ethenoid
 ethenol
+eternalize
 eyecups
 ensorcelize
 eschatocol
