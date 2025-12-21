@@ -2409,6 +2409,7 @@ druidry
 destituent
 doodads
 dispelled
+deploring
 donny
 dripstick
 decimalism
@@ -9397,7 +9398,6 @@ discontentive
 dissoluble
 diffusate
 dipnoous
-deploring
 djinni
 duplicator
 diffusers

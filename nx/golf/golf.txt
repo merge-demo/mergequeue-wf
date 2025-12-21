@@ -768,7 +768,6 @@ galvanotropism
 guntub
 globulolysis
 gaulter
-glossolalist
 gutter
 gluck
 gutturize
@@ -9360,6 +9359,7 @@ glamorize
 goggliest
 gwen
 glareola
+glossolalist
 goutiness
 glonoin
 gnomists
