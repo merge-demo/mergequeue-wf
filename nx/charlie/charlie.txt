@@ -5977,7 +5977,6 @@ cutcha
 cathedrated
 cathedratic
 cathedraticum
-cathepsin
 cathern
 catties
 catheterisation
@@ -24819,6 +24818,7 @@ casketlike
 clausum
 costers
 chromic
+cathepsin
 coquetry
 coquets
 chloragogen

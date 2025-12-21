@@ -6209,6 +6209,7 @@ foreread
 fairgoing
 flaxes
 fulgurate
+flysches
 facsimiles
 foretops
 feebling
@@ -6561,7 +6562,6 @@ foretack
 flamless
 furrings
 flibbertigibbets
-flysches
 flattened
 feaked
 fluxile
