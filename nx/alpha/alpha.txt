@@ -2992,6 +2992,7 @@ actinoelectrically
 antigenic
 aerogeography
 axemaster
+authorizations
 audiviser
 aphidlion
 actinoelectricity
@@ -5302,7 +5303,6 @@ applanate
 attaining
 adenophthalmia
 aluminosity
-authorizations
 allmouth
 aspheterism
 avadavats
