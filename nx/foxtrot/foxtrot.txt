@@ -1684,6 +1684,7 @@ faucets
 flatworm
 fieldmice
 fragmentation
+followership
 folioing
 fleshless
 festa
@@ -8757,7 +8758,6 @@ frankfort
 freddo
 forbiddable
 flogged
-followership
 forester
 fossule
 fiddlers
