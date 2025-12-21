@@ -83,6 +83,7 @@ flunkeyhood
 flocklike
 forme
 filching
+fortuitously
 faces
 folkright
 flattening
@@ -3898,7 +3899,6 @@ foregrounds
 frequencies
 fortyfive
 fits
-fortuitously
 fecundating
 fluidness
 ferocactus
