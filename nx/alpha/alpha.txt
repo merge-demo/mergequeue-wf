@@ -14472,6 +14472,7 @@ anthropical
 acquisition
 anthropobiology
 apneumatosis
+aseismic
 automaton
 anthropocentric
 absvolt
@@ -21144,7 +21145,6 @@ arabella
 acquittal
 agriochoeridae
 aljamiado
-aseismic
 alkannin
 apocryphate
 arboriculturist
