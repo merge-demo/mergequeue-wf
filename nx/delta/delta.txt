@@ -11231,6 +11231,7 @@ disbranched
 dogbush
 desoxybenzoin
 diacle
+dekametre
 depredator
 domesticability
 dangler
@@ -14743,7 +14744,6 @@ detained
 decahedral
 doctorbird
 doc
-dekametre
 declinedness
 darnation
 dioptrically
