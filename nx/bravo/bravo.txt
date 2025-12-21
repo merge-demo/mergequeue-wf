@@ -2997,7 +2997,6 @@ boulevard
 barrister
 bootless
 banda
-botts
 buat
 burrel
 barroom
@@ -16815,6 +16814,7 @@ babungera
 briony
 banging
 brachycephaly
+botts
 buffa
 brumbee
 bacterioid
