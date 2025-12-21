@@ -6822,6 +6822,7 @@ enwombing
 entitative
 exostema
 elaphine
+ecphoria
 enrooted
 entoil
 eggler
@@ -9567,7 +9568,6 @@ endocrinology
 euglenineae
 ecotypes
 edestan
-ecphoria
 expressing
 emigrated
 emptory
