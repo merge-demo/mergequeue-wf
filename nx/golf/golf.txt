@@ -3595,6 +3595,7 @@ glossa
 gambolled
 goniaster
 gnomelike
+gnosis
 gregarinaria
 gavial
 glutinose
@@ -6133,7 +6134,6 @@ gnathostome
 gjetosts
 gallivants
 gammarus
-gnosis
 galenist
 glaserian
 gnotobiosis
