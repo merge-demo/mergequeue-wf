@@ -1463,7 +1463,6 @@ emeline
 ergonomic
 ethiopian
 epanorthotic
-emunct
 exenteritis
 epipleural
 envelop
@@ -6152,6 +6151,7 @@ epicentre
 eaved
 earlywood
 ervipiame
+emunct
 enmeshment
 enrols
 enmity
