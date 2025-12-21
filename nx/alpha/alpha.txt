@@ -8105,7 +8105,6 @@ arrowheads
 algerian
 algerienne
 alizarins
-algerines
 algerite
 aciduric
 aquicolous
@@ -23813,6 +23812,7 @@ aldermanry
 austrians
 austric
 acromyodic
+algerines
 anglophile
 autarkical
 assuredness
