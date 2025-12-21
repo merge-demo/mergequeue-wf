@@ -4673,7 +4673,6 @@ famacide
 frivoling
 futharcs
 filmgoer
-faust
 fulani
 faeroe
 fells
@@ -4989,6 +4988,7 @@ fintadores
 frenulum
 flyway
 feebleheartedly
+faust
 flammule
 fatidic
 flanch
