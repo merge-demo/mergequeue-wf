@@ -6257,7 +6257,6 @@ entered
 erecter
 endplate
 excipule
-epistapedial
 eelcatcher
 electrofishing
 ecstatica
@@ -11775,6 +11774,7 @@ exorcista
 exaration
 enstatitite
 epithelioid
+epistapedial
 extracorpuscular
 euripidean
 ekphore
