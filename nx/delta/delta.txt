@@ -6874,7 +6874,6 @@ dragnet
 deadflat
 deltic
 domesticative
-drakelet
 derivative
 desmopathology
 desmopexia
@@ -14243,6 +14242,7 @@ delubrubra
 die
 dormer
 ditalini
+drakelet
 dahoman
 ditas
 decolourizing
