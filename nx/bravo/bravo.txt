@@ -1851,7 +1851,6 @@ broadlings
 befogging
 barkinji
 bandfile
-bandh
 burdon
 brownism
 brython
@@ -2828,6 +2827,7 @@ burghmaster
 barosmin
 backwashed
 blithefully
+bandh
 buffaloback
 bedarken
 bruta
