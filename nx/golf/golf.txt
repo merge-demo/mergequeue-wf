@@ -7639,7 +7639,6 @@ geomantic
 gradated
 gatecrasher
 grafts
-gestureless
 gleaminess
 geospiza
 gradationally
@@ -9665,6 +9664,7 @@ gyroidally
 gastrojejunostomies
 grueled
 ghana
+gestureless
 guipures
 gamogony
 gainfully
