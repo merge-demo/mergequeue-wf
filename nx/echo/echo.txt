@@ -2601,7 +2601,6 @@ ensnarl
 exhilarator
 empididae
 erythroblastosis
-eirenicon
 essaying
 embassies
 elysian
@@ -5569,6 +5568,7 @@ epicardial
 enfilade
 experimentations
 excriminate
+eirenicon
 extraovular
 enfilades
 escutcheoned
