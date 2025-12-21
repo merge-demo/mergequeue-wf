@@ -9558,7 +9558,6 @@ fullers
 forche
 foliated
 fyrd
-fishwives
 felicitate
 fotched
 fursemide
@@ -10955,6 +10954,7 @@ finally
 fumarases
 fouling
 fallfish
+fishwives
 firmless
 freesias
 frigidaire
