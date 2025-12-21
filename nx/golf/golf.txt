@@ -464,7 +464,6 @@ gospelize
 gravitationally
 gemmery
 geelhout
-glutoid
 galeorhinidae
 grouches
 galere
@@ -1904,6 +1903,7 @@ gastromycosis
 geal
 garnetwork
 garnet
+glutoid
 gynecocratic
 gnomesque
 gravewards
