@@ -5950,7 +5950,6 @@ governante
 germlike
 gastrohydrorrhea
 grangerize
-glanduligerous
 gensengs
 graylag
 geodesics
@@ -6673,6 +6672,7 @@ giantism
 gastroscopies
 graptolithida
 gyroscopic
+glanduligerous
 gallflies
 gimlets
 gayway
