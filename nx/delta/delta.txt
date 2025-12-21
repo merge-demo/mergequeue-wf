@@ -544,7 +544,6 @@ dovyalis
 deliber
 dao
 damalic
-dextrorotation
 demobilized
 dialyzing
 diplosis
@@ -5518,6 +5517,7 @@ devastated
 dehistoricize
 drama
 dematiaceous
+dextrorotation
 denotement
 directionality
 drought
