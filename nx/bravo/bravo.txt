@@ -3740,7 +3740,6 @@ brigantes
 bimestrial
 battlestead
 bigeminies
-battlewagon
 bendays
 bronchiectasis
 bovver
@@ -16667,6 +16666,7 @@ buckboards
 bailpiece
 bloodspiller
 busker
+battlewagon
 banalness
 bungled
 brassidic
