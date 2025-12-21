@@ -11235,7 +11235,6 @@ functional
 fylfot
 fornent
 factable
-forementioned
 fatherkin
 funkiness
 fezzes
@@ -11297,6 +11296,7 @@ fusspot
 firearm
 fulmicotton
 fatwa
+forementioned
 firedog
 formatted
 feverfew
