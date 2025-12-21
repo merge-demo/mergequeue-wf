@@ -4983,6 +4983,7 @@ bactritoid
 bonaveria
 boltless
 bolases
+bisext
 beerbachite
 budgers
 beraked
@@ -13187,7 +13188,6 @@ bastardised
 boschneger
 boneen
 brigue
-bisext
 brachystomata
 bender
 begemmed
