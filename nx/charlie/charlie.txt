@@ -5776,6 +5776,7 @@ copperheads
 contribute
 catchweight
 catchword
+cervinae
 catchwork
 cabasset
 counterinsurgents
@@ -7859,7 +7860,6 @@ cribrous
 crotchy
 cervicothoracic
 cervicovesical
-cervinae
 cosignatory
 cervixes
 cervoid
