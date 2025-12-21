@@ -2706,7 +2706,6 @@ geodesic
 gasolenes
 granularity
 gingers
-geek
 genip
 gilbertese
 genyplasty
@@ -4679,6 +4678,7 @@ gastrohelcosis
 geomorphologic
 ghostily
 geta
+geek
 glossarian
 golliwogg
 gerbilles
