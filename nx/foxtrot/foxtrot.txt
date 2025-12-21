@@ -6582,7 +6582,6 @@ finfishes
 fortuitist
 flyboats
 falconiform
-foaling
 franseria
 friary
 fomento
@@ -11506,6 +11505,7 @@ frictional
 fuscohyaline
 fundamentally
 furthered
+foaling
 foretopmen
 fibrolipomatous
 fogdom
