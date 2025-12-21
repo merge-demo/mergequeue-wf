@@ -4930,7 +4930,6 @@ gigger
 gradual
 growliness
 glaired
-geomaly
 gangway
 guvacoline
 gallimatia
@@ -7776,6 +7775,7 @@ gnomish
 gralline
 gadman
 gray
+geomaly
 getaway
 greasily
 goosishly

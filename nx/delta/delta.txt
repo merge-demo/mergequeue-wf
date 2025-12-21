@@ -3210,7 +3210,6 @@ demoniac
 depark
 defenceable
 dogplate
-dekle
 doftberry
 defencive
 dents
@@ -5827,6 +5826,7 @@ drengh
 deploration
 dismarshall
 dassies
+dekle
 disauthentic
 dextrocerebral
 depositors
