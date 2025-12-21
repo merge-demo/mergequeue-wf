@@ -2230,6 +2230,7 @@ eldrich
 eldritch
 enchased
 eulogy
+exhumate
 endocytic
 elecives
 electant
@@ -12440,7 +12441,6 @@ entomostracan
 exhortingly
 exhorts
 exaltations
-exhumate
 egoisms
 elusoriness
 esquire
