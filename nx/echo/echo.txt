@@ -1992,6 +1992,7 @@ electrine
 edward
 ekka
 enolate
+entoproct
 exophoric
 ekphorias
 empetrum
@@ -4327,7 +4328,6 @@ expulsive
 expansibleness
 enactor
 epigrammatize
-entoproct
 echoed
 eloquence
 exclaustration
