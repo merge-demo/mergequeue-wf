@@ -1307,6 +1307,7 @@ escuages
 explicatively
 ericophyte
 efface
+enthymematical
 equalized
 effacers
 ellipsis
@@ -7694,7 +7695,6 @@ euphemiser
 electrotautomerism
 expoundable
 epideistic
-enthymematical
 eriocaulaceous
 effluxion
 estrus
