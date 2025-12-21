@@ -238,7 +238,6 @@ gundy
 glowfly
 graffiti
 gabbles
-gestatorium
 germanomaniac
 golpe
 gulaman
@@ -2957,6 +2956,7 @@ gastroscopic
 gooseflower
 grotty
 gunks
+gestatorium
 guardingly
 ganymede
 gusts
