@@ -10311,6 +10311,7 @@ goralog
 gleaner
 guichet
 guardfish
+grappled
 gnathions
 gujarati
 gametic
@@ -10719,7 +10720,6 @@ grate
 gearwheel
 glyoxim
 grumping
-grappled
 gubernatorial
 gunnung
 graphometric
