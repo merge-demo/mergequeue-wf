@@ -1403,7 +1403,6 @@ fatnesses
 furaciousness
 fatshedera
 foodlessness
-forges
 fatsia
 formy
 fatsoes
@@ -7077,6 +7076,7 @@ formfeeds
 fellfare
 footful
 foolhardiness
+forges
 fabulousness
 foolhardiship
 foredeck
