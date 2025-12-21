@@ -4527,6 +4527,7 @@ demihagbut
 demihaque
 demijambe
 discriminant
+divet
 dottled
 dukhobor
 demilawyer
@@ -12405,7 +12406,6 @@ dishelms
 disher
 durability
 disherited
-divet
 defibrillator
 deamidize
 deplantation
