@@ -6755,7 +6755,6 @@ dogy
 decontaminative
 desucration
 desilicify
-desilicified
 desiliconization
 dribbed
 doubly
@@ -6922,6 +6921,7 @@ doctrinism
 diplegia
 diarthroses
 dunamis
+desilicified
 dehydrogenating
 despairfully
 delphinid
