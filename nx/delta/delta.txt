@@ -8736,7 +8736,6 @@ diathesis
 dirl
 decima
 dimps
-diatoma
 diapase
 deems
 diastase
@@ -15860,6 +15859,7 @@ disincrease
 decatoic
 despiting
 debonairity
+diatoma
 dorsosacral
 dishumor
 dorsoscapular
