@@ -9791,6 +9791,7 @@ daimones
 denumerable
 deicer
 digesters
+dolabra
 dillydally
 dejectile
 diapaused
@@ -13978,7 +13979,6 @@ dinkies
 diploplacular
 dildos
 drammach
-dolabra
 dishboard
 dimolecular
 disannul
