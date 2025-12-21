@@ -7975,6 +7975,7 @@ equilobed
 evictor
 epimysia
 esthesias
+endued
 expunger
 enflesh
 eteocreton
@@ -12081,7 +12082,6 @@ endemisms
 excresence
 excreta
 escheator
-endued
 engulfs
 edentates
 expressor
