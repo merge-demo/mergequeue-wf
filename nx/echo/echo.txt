@@ -7057,7 +7057,6 @@ exclamation
 engilded
 evangely
 evidencive
-endotropic
 environment
 embolic
 entwines
@@ -10105,6 +10104,7 @@ entities
 ethereality
 epiboly
 etherealization
+endotropic
 earthlike
 extrusible
 endorses
