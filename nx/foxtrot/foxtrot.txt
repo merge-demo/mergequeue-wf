@@ -5150,7 +5150,6 @@ foreadvise
 fellas
 flashover
 frivolous
-fawns
 fructure
 flasker
 furless
@@ -7609,6 +7608,7 @@ flintworker
 flays
 forespeak
 fecundative
+fawns
 faradising
 foredune
 freezable
