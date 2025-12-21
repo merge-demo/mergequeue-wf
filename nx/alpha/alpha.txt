@@ -9628,7 +9628,6 @@ allgood
 airworthiest
 aluminising
 aluminize
-aviary
 archer
 asserted
 aluminizes
@@ -9759,6 +9758,7 @@ amalekite
 albertina
 appanages
 amalfitan
+aviary
 amalgam
 ammochaetae
 apophonies
