@@ -2762,7 +2762,6 @@ almeh
 archaeologist
 argand
 armets
-aggregata
 amyelencephalia
 acroclinium
 acrodactyla
@@ -15898,6 +15897,7 @@ acracy
 ambrosiaceous
 antinarrative
 antipredeterminant
+aggregata
 amphetamine
 antiprelate
 antiprelatic
