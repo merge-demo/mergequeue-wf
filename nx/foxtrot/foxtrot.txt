@@ -4711,6 +4711,7 @@ flamboyancy
 fluorene
 fistlike
 fizgig
+foxberry
 fizgigs
 filamentous
 figaro
@@ -9064,7 +9065,6 @@ feruling
 frasco
 foxbane
 faltered
-foxberry
 falcular
 feathertop
 fribbleism
