@@ -5757,6 +5757,7 @@ gunfighter
 gloomth
 gradin
 gleeds
+graphostatic
 gish
 grimmish
 grumes
@@ -9957,7 +9958,6 @@ gumptions
 grilladed
 guarico
 gonidial
-graphostatic
 getaways
 grievousness
 gigadoid
