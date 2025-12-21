@@ -10307,7 +10307,6 @@ getsul
 gullygut
 gonorrheal
 gilling
-gildsman
 goralog
 gleaner
 guichet
@@ -10677,6 +10676,7 @@ glyphographic
 generalty
 glycerols
 gurnard
+gildsman
 gib
 gastroenteroptosis
 glaucomatous
