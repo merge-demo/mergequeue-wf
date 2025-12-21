@@ -1110,6 +1110,7 @@ erinite
 edwina
 extempory
 epeisodion
+ecphrasis
 esterification
 elatrometer
 electrotypes
@@ -5565,7 +5566,6 @@ enfettering
 enophthalmos
 expandability
 episcopality
-ecphrasis
 endoergic
 enfevering
 emitters
