@@ -4581,7 +4581,6 @@ gilim
 graphometry
 glim
 galloper
-goobers
 gagger
 grinter
 gladiole
@@ -10361,6 +10360,7 @@ gelate
 garretmaster
 gynic
 gonidiospore
+goobers
 gastrothecal
 gnashing
 galactosamine
