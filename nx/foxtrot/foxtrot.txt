@@ -2430,7 +2430,6 @@ frisco
 farandola
 foils
 flutterable
-frazer
 fulgourous
 feasters
 fullymart
@@ -2720,6 +2719,7 @@ flatteress
 figpecker
 ficche
 fathomer
+frazer
 fantasts
 fiefs
 farcicalness
