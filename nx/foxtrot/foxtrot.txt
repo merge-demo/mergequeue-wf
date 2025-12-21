@@ -1348,6 +1348,7 @@ fatiferous
 feaster
 flavorfully
 florentine
+flamen
 fearfuller
 fatigable
 favorable
@@ -4946,7 +4947,6 @@ fluoresced
 forsooth
 foppishly
 fourteens
-flamen
 flamandization
 firefanged
 funneling
