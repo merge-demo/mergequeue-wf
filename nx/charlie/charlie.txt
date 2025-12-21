@@ -13979,6 +13979,7 @@ cintre
 cinura
 cion
 chaum
+corpus
 croy
 cacique
 corruptions
@@ -27524,7 +27525,6 @@ covelline
 covellite
 certie
 conceptualistic
-corpus
 cocas
 canephoros
 covenance
