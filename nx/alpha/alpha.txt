@@ -4688,6 +4688,7 @@ aphrodistic
 addaxes
 affricate
 adawe
+arthrotyphoid
 aenigmatite
 ated
 alluvial
@@ -20648,7 +20649,6 @@ albumen
 arthrospore
 arthrostome
 arthrostomy
-arthrotyphoid
 amputative
 azimide
 arthrotome
