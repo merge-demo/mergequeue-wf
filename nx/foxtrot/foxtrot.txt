@@ -5436,6 +5436,7 @@ flurt
 fittingness
 fault
 firstfruits
+fortifiable
 finnip
 fleecy
 forager
@@ -5973,7 +5974,6 @@ floodlit
 fibromembrane
 floods
 foisons
-fortifiable
 fisk
 filleter
 fanwright
