@@ -4977,6 +4977,7 @@ boulles
 bactritoid
 bonaveria
 boltless
+bituminized
 bolases
 bisext
 beerbachite
@@ -9929,7 +9930,6 @@ bauson
 bastardice
 bituminate
 bituminising
-bituminized
 burnbeat
 bucktail
 bedivere
