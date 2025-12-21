@@ -14721,7 +14721,6 @@ biobibliographic
 bowpots
 bowlings
 brattled
-benumbment
 bratwurst
 bibliopolic
 brauna
@@ -17176,6 +17175,7 @@ bacchuslike
 bullnut
 beetroot
 bullock
+benumbment
 brachialgia
 bullocker
 brachydodrome
