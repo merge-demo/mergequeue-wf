@@ -8943,6 +8943,7 @@ gatsby
 gyration
 gurgulation
 gentianin
+gynic
 gemmiform
 golfed
 gillying
@@ -10357,7 +10358,6 @@ glaur
 grouseberry
 gelate
 garretmaster
-gynic
 gonidiospore
 goobers
 gastrothecal
