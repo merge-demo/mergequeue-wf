@@ -6363,7 +6363,6 @@ flang
 fullterm
 fluoran
 fennish
-fluorane
 francois
 florentium
 fishtailing
@@ -6485,6 +6484,7 @@ furriers
 fingerfish
 flusterating
 fornicating
+fluorane
 forthgoing
 flusteration
 forthcoming
