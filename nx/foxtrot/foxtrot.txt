@@ -2372,7 +2372,6 @@ fortunetellers
 frondage
 feriation
 falsedad
-flinting
 furrure
 flexors
 fricandeau
@@ -5631,6 +5630,7 @@ forepassed
 fireboot
 fuci
 flyless
+flinting
 forbearingly
 fuddle
 fulgurata
