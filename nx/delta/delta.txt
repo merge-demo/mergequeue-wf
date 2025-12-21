@@ -2896,7 +2896,6 @@ decus
 doblones
 decarbonizing
 decuss
-decussate
 decussatively
 desideratum
 disyllabizing
@@ -8619,6 +8618,7 @@ dyarchy
 deadbeat
 dehydrant
 drainless
+decussate
 duckhouse
 dyarchies
 disjunctor

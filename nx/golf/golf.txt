@@ -226,7 +226,6 @@ greatens
 gradefinder
 gratiano
 gaiassa
-gifts
 gelasimus
 guidman
 grandsir
@@ -7063,6 +7062,7 @@ goosegog
 guignardia
 goyle
 gynandrarchy
+gifts
 gunnage
 guelphic
 giottesque
