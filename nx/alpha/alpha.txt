@@ -18531,7 +18531,6 @@ arborize
 axmaker
 arborizing
 abaca
-antinion
 aphrodisian
 animists
 apostrophise
@@ -21947,6 +21946,7 @@ amplify
 armoring
 associativity
 adicity
+antinion
 autochthones
 articulating
 anathemata
