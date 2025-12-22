@@ -12867,7 +12867,6 @@ bibliog
 blipped
 boondoggling
 banishers
-boonfellow
 betrayers
 bondslave
 behorror
@@ -14384,6 +14383,7 @@ braincraft
 buckish
 birsle
 bragozzo
+boonfellow
 befan
 brainge
 beepers
