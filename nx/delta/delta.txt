@@ -2117,6 +2117,7 @@ decancellate
 dominator
 decancellated
 disciplinarian
+debe
 debaser
 decipher
 decandria
@@ -5655,7 +5656,6 @@ dandilly
 depictors
 depicture
 distract
-debe
 diopsidic
 depigmentate
 depigmentation
