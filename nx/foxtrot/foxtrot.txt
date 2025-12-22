@@ -2362,6 +2362,7 @@ freeloving
 fenchol
 futures
 footganger
+fingersmith
 fetial
 fortunetellers
 facile
@@ -3991,7 +3992,6 @@ fluorosis
 fishery
 forleft
 fortalice
-fingersmith
 failingly
 ferison
 flushy
