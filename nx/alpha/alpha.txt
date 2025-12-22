@@ -8984,7 +8984,6 @@ amiably
 allothimorph
 abalone
 allothimorphic
-amphisbaenae
 aisle
 amuses
 allothogenic
@@ -23423,6 +23422,7 @@ aftersong
 alkalescency
 abelmosks
 agnail
+amphisbaenae
 accommodational
 advenience
 antifeminist
