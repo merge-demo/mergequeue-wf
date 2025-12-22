@@ -13630,7 +13630,6 @@ buttressless
 backspliced
 bespecklement
 blights
-buttermaking
 brochan
 bacbakiri
 bellbine
@@ -18259,6 +18258,7 @@ bootblacks
 buttermilk
 bastardy
 buttermonger
+buttermaking
 bice
 bagworm
 bronzier
