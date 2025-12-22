@@ -5848,6 +5848,7 @@ bribeworthy
 baigneuse
 bellyful
 bestrews
+butyrals
 boor
 beadier
 barbermonger
@@ -9242,7 +9243,6 @@ balanoid
 bipinnarias
 bipinnated
 bipinnatipartite
-butyrals
 bow
 bipinnatisect
 bobsledding
