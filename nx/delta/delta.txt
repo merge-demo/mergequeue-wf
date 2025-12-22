@@ -6302,7 +6302,6 @@ depurated
 dermatozoon
 deadens
 dermatozoonosis
-deutzias
 dryophyllum
 dermatozzoa
 dermatrophia
@@ -10460,6 +10459,7 @@ droits
 dharna
 denaturate
 diphtheria
+deutzias
 diphtherian
 dogberrydom
 deda
