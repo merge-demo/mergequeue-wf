@@ -12644,7 +12644,6 @@ antipragmatical
 adversely
 azoxyanisole
 atresias
-autophonoscope
 angarep
 anticryptically
 ajivika
@@ -24838,6 +24837,7 @@ avoidant
 anginoid
 ascribing
 addnl
+autophonoscope
 avoids
 antrustionship
 avolate
