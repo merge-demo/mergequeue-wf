@@ -7713,7 +7713,6 @@ fleawort
 fossa
 flinchingly
 foreignly
-flory
 fishy
 foreignness
 foreimpressed
@@ -11534,6 +11533,7 @@ fabling
 fictionize
 fards
 floeberg
+flory
 famulary
 flattener
 fledgy
