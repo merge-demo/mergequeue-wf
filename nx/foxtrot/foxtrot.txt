@@ -3716,7 +3716,6 @@ fittiness
 finales
 furling
 flics
-flexibilty
 fecundates
 fillmore
 forwear
@@ -8698,6 +8697,7 @@ fissility
 frankhearted
 favoress
 feteless
+flexibilty
 fame
 forgive
 flotage
