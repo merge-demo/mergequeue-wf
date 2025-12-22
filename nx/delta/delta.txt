@@ -2828,6 +2828,7 @@ disequalization
 decastellate
 draggle
 desidious
+daimones
 decrypt
 decryption
 dasyus
@@ -9785,7 +9786,6 @@ dogmatiser
 dipsos
 dermatocyst
 dillesk
-daimones
 denumerable
 deicer
 digesters
