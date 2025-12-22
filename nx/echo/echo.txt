@@ -2745,6 +2745,7 @@ edentate
 envoi
 eleemosynary
 etymology
+epizoon
 emetic
 engorge
 eleemosynarily
@@ -8407,7 +8408,6 @@ epizoic
 eudaemonia
 ensigncy
 equals
-epizoon
 edemic
 emblossom
 exulceration
