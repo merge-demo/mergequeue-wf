@@ -6574,7 +6574,6 @@ entomologic
 engorging
 entendre
 epidermophytosis
-extravagating
 exciter
 entente
 erythorbate
@@ -13410,6 +13409,7 @@ emaciates
 eltime
 espadrilles
 energizer
+extravagating
 embruted
 expressio
 exploring
