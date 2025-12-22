@@ -3631,7 +3631,6 @@ gladen
 guanylic
 granilla
 glottalize
-gigantal
 gld
 grouching
 gedder
@@ -9266,6 +9265,7 @@ gaugeably
 grizzling
 groaned
 ghosts
+gigantal
 gizzened
 gayly
 gastrectasia
