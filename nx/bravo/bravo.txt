@@ -11653,6 +11653,7 @@ belace
 bankerdom
 boatloader
 beigy
+bubblies
 boatmanship
 boatmen
 boatsetter
@@ -13108,7 +13109,6 @@ bregmatic
 boringness
 bilging
 brewings
-bubblies
 befluster
 beaned
 brachycephalous
