@@ -598,6 +598,7 @@ estancia
 emblematize
 echoing
 exfiltration
+econ
 echoism
 epigeal
 enhydros
@@ -7903,7 +7904,6 @@ exululate
 epil
 engarland
 encheson
-econ
 endorsation
 epeirid
 extrabuccal
