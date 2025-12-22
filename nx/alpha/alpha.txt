@@ -334,6 +334,7 @@ abelia
 autograph
 abelian
 allophylian
+accubitum
 alcoate
 auletris
 apodia
@@ -1653,7 +1654,6 @@ acleidian
 airted
 amphicentric
 accubita
-accubitum
 antitank
 attiwendaronk
 aphonias
