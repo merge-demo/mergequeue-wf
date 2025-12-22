@@ -7405,6 +7405,7 @@ floatplane
 frost
 fattened
 fierding
+finning
 flywire
 flirtigig
 foraramens
@@ -7807,7 +7808,6 @@ flickery
 faint
 fraenum
 forgathering
-finning
 fluorescein
 ferrotyped
 frostbite
