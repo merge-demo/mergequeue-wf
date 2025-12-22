@@ -3479,6 +3479,7 @@ commutability
 caprizant
 caldron
 caproin
+convocation
 concubinate
 causeuse
 comprehends
@@ -24194,7 +24195,6 @@ convives
 convivially
 convocating
 chylocauly
-convocation
 chronologically
 choristic
 convocational
