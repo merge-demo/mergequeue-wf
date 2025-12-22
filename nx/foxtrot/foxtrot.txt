@@ -10249,7 +10249,6 @@ ferronickel
 forebow
 flavedos
 froideur
-froise
 frokin
 filum
 frolic
@@ -10348,6 +10347,7 @@ flatmate
 flamiest
 footgeld
 firs
+froise
 fleing
 feigning
 foxgloves
