@@ -300,7 +300,6 @@ degeneracies
 distrustfulness
 dahomey
 diaclasite
-demythologizing
 dahs
 day
 distributed
@@ -4983,6 +4982,7 @@ dummies
 diphyletic
 dunne
 dueness
+demythologizing
 diversionary
 distinguish
 derk
