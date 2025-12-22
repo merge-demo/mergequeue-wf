@@ -4292,7 +4292,6 @@ fenland
 fungology
 favorableness
 firmarii
-furmeties
 flunkeys
 forrader
 filthier
@@ -8891,6 +8890,7 @@ finesse
 foulder
 fiberizer
 flatteners
+furmeties
 fouled
 fling
 fatiloquent

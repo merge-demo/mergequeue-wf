@@ -3383,6 +3383,7 @@ downlinks
 deflect
 dichotomic
 disinhuming
+dactyli
 darer
 deflecting
 deflectionize
@@ -6415,7 +6416,6 @@ deportment
 disadvanced
 derride
 derriere
-dactyli
 duster
 discriminatory
 decree
