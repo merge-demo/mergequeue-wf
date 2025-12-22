@@ -4289,7 +4289,6 @@ adrogate
 antialbumid
 antihygienic
 ascript
-adroitly
 acetmethylanilide
 adrowse
 arecaine
@@ -5812,6 +5811,7 @@ agendas
 aponeurosis
 ankylosaur
 agendum
+adroitly
 amovability
 agene
 anticonscription
