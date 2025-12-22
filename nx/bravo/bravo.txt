@@ -134,7 +134,6 @@ brimmer
 brabantine
 basicranial
 bedimpled
-bedash
 boolian
 bacin
 bourne
@@ -6433,6 +6432,7 @@ balau
 benzosulfimide
 benzosulphimide
 barricaders
+bedash
 botanises
 bedlamer
 behoot
