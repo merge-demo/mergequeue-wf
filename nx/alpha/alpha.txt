@@ -3521,7 +3521,6 @@ anybodyd
 antthrush
 amyloidoses
 addressing
-albertype
 anareta
 avaradrano
 addrest
@@ -4587,6 +4586,7 @@ afficionado
 advocated
 afterspeech
 advocative
+albertype
 acanthological
 aq
 avicularian
