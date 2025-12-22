@@ -13780,6 +13780,7 @@ disstate
 dissuaded
 delayed
 dalteen
+downsliding
 debunk
 dissuades
 dissuading
@@ -16175,7 +16176,6 @@ desalinized
 deweylite
 dowdy
 distent
-downsliding
 doughnuts
 davyum
 deflorate
