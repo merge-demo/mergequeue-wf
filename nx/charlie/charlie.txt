@@ -11463,7 +11463,6 @@ choanate
 choanephora
 cystopyelography
 choanocyte
-choanoflagellate
 cotta
 choanophorous
 cataplasm
@@ -11819,6 +11818,7 @@ consonantally
 chondroprotein
 cult
 chondropterygian
+choanoflagellate
 caravansary
 chondropterygious
 chondrosarcomatous
