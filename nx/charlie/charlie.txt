@@ -3669,7 +3669,6 @@ caradoc
 carafes
 craspedote
 censors
-coenoblastic
 cattleyas
 clangor
 cocineras
@@ -16100,6 +16099,7 @@ classer
 cycloramas
 condylotomy
 choriocarcinomata
+coenoblastic
 cornopean
 converged
 characinid
