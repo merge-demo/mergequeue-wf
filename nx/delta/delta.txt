@@ -2714,6 +2714,7 @@ decorating
 daukin
 dont
 discounsel
+dolorifuge
 diplopterous
 decontamination
 deedful
@@ -14884,7 +14885,6 @@ downbear
 documents
 demonism
 dowitcher
-dolorifuge
 dependencies
 depurging
 deglute
