@@ -1371,7 +1371,6 @@ fatima
 fruticeous
 flaxdrop
 flenser
-fatiscent
 fullword
 filicology
 fishboat
@@ -9397,6 +9396,7 @@ flaxseed
 franklins
 flector
 frenchmen
+fatiscent
 faffy
 footgears
 firkins
