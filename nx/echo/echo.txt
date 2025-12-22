@@ -4006,7 +4006,6 @@ eyestalks
 evenhand
 empearl
 electroretinography
-each
 exultancy
 esothyropexy
 estus
@@ -14108,6 +14107,7 @@ extendedness
 epiphyses
 exterraneous
 entrancements
+each
 extrinsically
 extrinsicalness
 extrinsication
