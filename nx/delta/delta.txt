@@ -6257,7 +6257,6 @@ defenser
 dermatomere
 dermatomyces
 deploredness
-diplokaryon
 dweeble
 debat
 doldrums
@@ -11743,6 +11742,7 @@ disasinate
 discreeter
 dispensation
 drawled
+diplokaryon
 dermography
 desoxymorphine
 debtor
