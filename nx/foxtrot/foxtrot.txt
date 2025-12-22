@@ -5906,7 +5906,6 @@ flockwise
 foederati
 ferruginate
 fusibility
-flocs
 frontomalar
 facilely
 folliculosis
@@ -11069,6 +11068,7 @@ flaminica
 fractionated
 forficated
 fumariaceous
+flocs
 freightment
 flense
 fidessa
