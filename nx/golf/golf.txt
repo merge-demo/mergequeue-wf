@@ -5653,6 +5653,7 @@ gobbling
 growsome
 grubbiest
 gapy
+gobbed
 glaringly
 groma
 glyoxal
@@ -9587,7 +9588,6 @@ grovellings
 growan
 gogmagog
 gravelike
-gobbed
 gossiphood
 gujrati
 gerbe
