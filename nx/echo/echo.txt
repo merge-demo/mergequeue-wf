@@ -10616,6 +10616,7 @@ experience
 emblematically
 encryption
 epimysium
+ephemera
 exodium
 elaterid
 eudaimonia
@@ -12199,7 +12200,6 @@ execrator
 emeraude
 enthroning
 empiriocritical
-ephemera
 execute
 executed
 exceptor
