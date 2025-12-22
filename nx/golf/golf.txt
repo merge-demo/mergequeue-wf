@@ -5752,7 +5752,6 @@ glossolysis
 goldweed
 grecizes
 geometrical
-gunfighter
 gloomth
 gradin
 gleeds
@@ -9517,6 +9516,7 @@ garvey
 glenn
 generalizer
 gloving
+gunfighter
 ganoidean
 grouser
 gunmetals
