@@ -971,6 +971,7 @@ foretypified
 foxhound
 fusion
 fardelet
+fasciculus
 futtah
 fleshhood
 famelic
@@ -4797,7 +4798,6 @@ flageolets
 flagfishes
 fubsy
 forbiddenness
-fasciculus
 fissurellidae
 feuillants
 fortunetelling
