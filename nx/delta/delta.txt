@@ -14372,7 +14372,6 @@ diurnule
 dimensuration
 diuron
 demeaned
-dielec
 doled
 diva
 divagated
@@ -15631,6 +15630,7 @@ doorpiece
 drivel
 dowl
 doghouses
+dielec
 detumescent
 displacement
 derth
