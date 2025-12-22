@@ -2921,7 +2921,6 @@ filialness
 facier
 fooleries
 flukiness
-freezed
 fac
 flaked
 formulist
@@ -7464,6 +7463,7 @@ fudges
 funniest
 frutilla
 fossarian
+freezed
 filer
 factures
 furciferous
