@@ -2548,7 +2548,6 @@ generations
 gastrula
 gobangs
 ganch
-generalities
 grig
 grubbies
 gain
@@ -7796,6 +7795,7 @@ gingerwork
 glycolipine
 gargoylish
 gisant
+generalities
 gospeler
 geococcyx
 garlandry
