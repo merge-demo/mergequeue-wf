@@ -2547,7 +2547,6 @@ diachrony
 declassifies
 diplophonic
 disequality
-dematerialize
 discus
 dorsocephalic
 distiller
@@ -9905,6 +9904,7 @@ decretorial
 debarred
 driftwood
 dimethylsulphoxide
+dematerialize
 dekarch
 dislock
 dimethoxy
