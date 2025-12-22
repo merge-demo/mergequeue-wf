@@ -930,7 +930,6 @@ branny
 bungaloid
 brownout
 bagwigged
-bagwyn
 bustier
 bagwork
 baker
@@ -6580,6 +6579,7 @@ berberry
 brunizem
 bournous
 booted
+bagwyn
 bagattino
 bladderless
 berchemia
