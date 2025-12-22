@@ -8802,7 +8802,6 @@ greese
 gust
 genual
 garryaceae
-glacious
 greet
 gadid
 gandhian
@@ -9379,6 +9378,7 @@ gloved
 galenobismutite
 gobelin
 glaymore
+glacious
 gelatinized
 geneserin
 graciosity
