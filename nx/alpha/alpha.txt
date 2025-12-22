@@ -609,6 +609,7 @@ abodes
 aboideau
 aboil
 aahed
+anaglyphy
 assumedly
 allegories
 accommodation
@@ -10858,7 +10859,6 @@ ammono
 ammonoidea
 ammonoidean
 aerocartography
-anaglyphy
 ammonoids
 ammonolitic
 assemblage
