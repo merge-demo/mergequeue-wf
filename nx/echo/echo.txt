@@ -6820,7 +6820,6 @@ efflation
 enwombing
 entitative
 exostema
-elaphine
 ecphoria
 enrooted
 entoil
@@ -11199,6 +11198,7 @@ exostracism
 endover
 electrotonicity
 experimentalist
+elaphine
 epibolies
 evangeliaries
 endocycle
