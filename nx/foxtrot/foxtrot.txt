@@ -3877,6 +3877,7 @@ figurato
 fionnuala
 fanwe
 foregrounds
+furlong
 frequencies
 fortyfive
 fellowshiping
@@ -8690,7 +8691,6 @@ forthgo
 ferreling
 footcandle
 foxings
-furlong
 febrifuge
 fissility
 frankhearted

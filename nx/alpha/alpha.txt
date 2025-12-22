@@ -5570,6 +5570,7 @@ afterthought
 afterthoughts
 afterthrift
 apastron
+adduceable
 armil
 anchoritically
 absorptivity
@@ -5715,7 +5716,6 @@ agapetae
 aptenodytes
 aguacate
 abapical
-adduceable
 agnathous
 answers
 afeared
