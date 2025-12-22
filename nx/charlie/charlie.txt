@@ -13486,7 +13486,6 @@ calcomp
 casting
 cigaritos
 choloepus
-cautions
 consubstantialism
 cygnid
 commodore
@@ -26779,6 +26778,7 @@ cubitometacarpal
 capelocracy
 collectivum
 countercurrentwise
+cautions
 conversant
 counterdance
 counterdeclaration
