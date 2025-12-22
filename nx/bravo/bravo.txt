@@ -10482,7 +10482,6 @@ buttonhole
 bielectrolysis
 blunderingly
 bemaster
-brelaw
 blastemic
 bopyrid
 blaster
@@ -12729,6 +12728,7 @@ boxty
 breviate
 browis
 barrenwort
+brelaw
 bonefish
 beaux
 barging
