@@ -3111,7 +3111,6 @@ faring
 fulminancy
 fibroferrite
 fundic
-frwy
 firewarden
 furioso
 franciscans
@@ -8912,6 +8911,7 @@ fustigator
 filister
 founded
 foutra
+frwy
 freewoman
 frederick
 foundered
