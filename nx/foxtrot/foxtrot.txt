@@ -2404,6 +2404,7 @@ frenchness
 ferities
 fulgoridae
 flyflapper
+formalization
 falsiteit
 fashionable
 fifie
@@ -6389,7 +6390,6 @@ faence
 forefoot
 fronture
 furry
-formalization
 frogspawn
 fafnir
 fecundatory
