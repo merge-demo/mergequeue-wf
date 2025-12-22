@@ -21222,7 +21222,6 @@ ambarella
 apostacy
 algarsife
 ashing
-afforcing
 ashipboard
 ashir
 antiromanticist
@@ -21807,6 +21806,7 @@ antiquarium
 asseveration
 apaesthetic
 asseveratory
+afforcing
 asshead
 assi
 archiblastula
