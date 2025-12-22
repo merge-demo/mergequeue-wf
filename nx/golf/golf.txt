@@ -7080,6 +7080,7 @@ glossorrhaphy
 galletas
 grassmen
 gregorianist
+gastral
 germanist
 galactodendron
 gedanken
@@ -8836,7 +8837,6 @@ greegrees
 geoprumnon
 gooses
 girrit
-gastral
 grandparenthood
 gardenlike
 girsle
