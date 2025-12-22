@@ -2213,7 +2213,6 @@ achromatope
 autodecrement
 achromatophile
 achromatophilia
-achromatopia
 achromatopsy
 apologizes
 achromatopsia
@@ -10520,6 +10519,7 @@ alison
 amidoplastid
 amidoxyl
 australopithecinae
+achromatopia
 anagrammatize
 amids
 apolarity
