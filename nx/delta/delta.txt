@@ -10564,7 +10564,6 @@ disleaf
 davach
 dermatomycosis
 digammate
-denote
 dislikes
 disequilibrium
 disslander
@@ -17695,6 +17694,7 @@ delsarte
 deputization
 duarchy
 duarchies
+denote
 dhauri
 dubb
 declamando
