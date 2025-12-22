@@ -2831,7 +2831,6 @@ buffaloback
 bedarken
 bruta
 beisa
-biquadrate
 baroswitch
 bld
 bitis
@@ -11809,6 +11808,7 @@ bices
 bepommel
 bystreets
 bardolphian
+biquadrate
 bock
 bullishly
 bigamists
