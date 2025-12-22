@@ -9976,7 +9976,6 @@ brevirostral
 bawdy
 ballottine
 blairmorite
-bivalents
 bivalvia
 bivalvian
 bivariant
@@ -15871,6 +15870,7 @@ buttonholer
 brahminee
 berg
 bossboy
+bivalents
 blitzed
 basan
 bopyridian
