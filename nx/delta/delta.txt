@@ -4135,7 +4135,6 @@ dishonourable
 divagate
 disherit
 delisk
-delists
 delit
 demonstratorship
 dob
@@ -4921,6 +4920,7 @@ disqualified
 demophobia
 decolonise
 damnableness
+delists
 deserter
 disbursed
 dissentious
