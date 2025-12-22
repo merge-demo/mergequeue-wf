@@ -3771,7 +3771,6 @@ dwale
 drillable
 dynamites
 distrain
-deice
 donning
 disseizoress
 defibrillation
@@ -12447,6 +12446,7 @@ detrital
 dishumanize
 deipnodiplomatic
 doffer
+deice
 dimethylmethane
 dagon
 dishwasher
