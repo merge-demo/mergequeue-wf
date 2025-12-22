@@ -9106,6 +9106,7 @@ defile
 doundake
 dryish
 didal
+dentalize
 didascalic
 dogface
 dobbing
@@ -12677,7 +12678,6 @@ diffrangibility
 disleaved
 disjointure
 disepalous
-dentalize
 demiheavenly
 dogger
 desexualize
