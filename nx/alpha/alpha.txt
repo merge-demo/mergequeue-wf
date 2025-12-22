@@ -130,7 +130,6 @@ antiheroes
 assertive
 antiphrasis
 archaeographic
-awesomeness
 aspidoganoidei
 aulostoma
 abasic
@@ -14776,6 +14775,7 @@ audiometry
 altiscope
 anticaustic
 affreighter
+awesomeness
 anticensorial
 atomically
 amusee
