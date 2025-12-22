@@ -19021,7 +19021,6 @@ caloricity
 collectivized
 collectivizes
 collectivizing
-collectivum
 cocrucify
 collectorate
 collectors
@@ -26779,6 +26778,7 @@ countercurrent
 countercurrently
 cubitometacarpal
 capelocracy
+collectivum
 countercurrentwise
 conversant
 counterdance
