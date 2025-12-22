@@ -1290,6 +1290,7 @@ calendric
 calendrical
 calendula
 calendulas
+catalyst
 calendulin
 calentural
 chivalries
@@ -15152,7 +15153,6 @@ craniometrical
 cladoniaceae
 cathismata
 cladonioid
-catalyst
 cladophora
 cladophoraceous
 ceratocricoid
