@@ -11414,6 +11414,7 @@ escorting
 eicosane
 explorers
 eluctation
+emoted
 enhaloing
 expenditor
 encephalosis
@@ -11743,7 +11744,6 @@ easier
 entoptoscopy
 examinee
 exotery
-emoted
 epithelization
 edgerman
 ephraim
