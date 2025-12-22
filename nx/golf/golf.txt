@@ -2786,7 +2786,6 @@ governably
 glassie
 gelee
 gantlope
-goblets
 gluttonised
 graduals
 gyrencephala
@@ -4245,6 +4244,7 @@ gunsling
 gasteralgia
 garrisoning
 gilty
+goblets
 gluttonise
 gynantherous
 gonadectomized
