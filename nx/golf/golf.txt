@@ -2601,7 +2601,6 @@ grittle
 geodete
 gemmification
 goblinish
-gunpapers
 gyrohorizon
 glaucine
 glamourization
@@ -8566,6 +8565,7 @@ gitana
 grandada
 glasslike
 grouped
+gunpapers
 gravisphere
 guiltlessly
 gravitative
