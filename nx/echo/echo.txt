@@ -2320,7 +2320,6 @@ essene
 entheal
 euphuism
 endosteum
-eval
 escalatory
 epidemiologist
 exterminations
@@ -13060,6 +13059,7 @@ epigonic
 emus
 eucaine
 embankment
+eval
 ergates
 enslave
 embassador
