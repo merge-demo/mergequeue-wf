@@ -2797,7 +2797,6 @@ equipartition
 epidiplosis
 eighteenmo
 economicalness
-encroach
 empalement
 elementalistic
 extrathoracic
@@ -13311,6 +13310,7 @@ encephalodialysis
 educts
 explosimeter
 exembryonate
+encroach
 ecphore
 englishmen
 exorcisms
