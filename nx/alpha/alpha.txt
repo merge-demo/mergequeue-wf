@@ -14222,7 +14222,6 @@ antiferroelectric
 automorphically
 agiotages
 anterooms
-anteroparietal
 anencephalous
 alchochoden
 ancipitous
@@ -16653,6 +16652,7 @@ apertness
 acetomorphine
 abnormalism
 actionable
+anteroparietal
 apertometer
 aurally
 apocarpies
