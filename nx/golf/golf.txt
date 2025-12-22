@@ -7450,6 +7450,7 @@ germen
 ghbor
 groundswells
 gonococcal
+galleon
 glub
 goldfish
 geologising
@@ -8504,7 +8505,6 @@ gravely
 galops
 groupers
 gayal
-galleon
 geomorphological
 geotectonically
 gravelish
