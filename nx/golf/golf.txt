@@ -785,7 +785,6 @@ gamboller
 gambade
 gravata
 garrotting
-gastroenteritic
 gambang
 gastrular
 grazer
@@ -6984,6 +6983,7 @@ gynosporangium
 greenuk
 goofiness
 grafter
+gastroenteritic
 grutching
 goodies
 guayabera
