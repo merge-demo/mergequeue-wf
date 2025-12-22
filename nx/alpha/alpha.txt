@@ -10337,6 +10337,7 @@ arrayed
 aerobacteriology
 antihemoglobin
 academician
+amebas
 americanisms
 americanistic
 alhagi
@@ -21834,7 +21835,6 @@ assignats
 ambiparous
 aerophilous
 antimeningococcic
-amebas
 assigns
 assilag
 amiced
