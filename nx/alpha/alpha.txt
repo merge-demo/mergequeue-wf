@@ -5495,7 +5495,6 @@ argot
 aluco
 afterguard
 anaerobious
-afterheat
 acalycal
 anatifae
 afterhope
@@ -16635,6 +16634,7 @@ aperient
 aperients
 albronze
 aperiodically
+afterheat
 ambulanced
 average
 aperiodicity
