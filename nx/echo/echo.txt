@@ -1303,6 +1303,7 @@ ecostate
 epithalamion
 encircler
 endogenesis
+eigenvalue
 eassel
 enteroid
 epyllia
@@ -5662,7 +5663,6 @@ embarrasses
 epicritic
 enforth
 estrangle
-eigenvalue
 epithi
 exhibitorial
 exquisitism
