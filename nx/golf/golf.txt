@@ -3592,7 +3592,6 @@ gnosis
 gregarinaria
 gavial
 glutinose
-granulitization
 galvanic
 gyrocar
 greg
@@ -10314,6 +10313,7 @@ grappled
 gnathions
 gujarati
 genteel
+granulitization
 gametic
 girondin
 gamodesmic
