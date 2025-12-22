@@ -4640,7 +4640,6 @@ galvanise
 gorillaship
 goatbush
 gammarid
-gentility
 gunlocks
 gaudy
 guerinet
@@ -6387,6 +6386,7 @@ gipsiologist
 gamest
 gamgia
 garston
+gentility
 gettings
 gohila
 gasproof
