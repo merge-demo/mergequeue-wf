@@ -1053,6 +1053,7 @@ enslavedness
 emblem
 epipleura
 elberta
+eternal
 expeditions
 exadversum
 etchareottine
@@ -3903,7 +3904,6 @@ emigration
 egressive
 equivote
 echeneis
-eternal
 entomotomy
 electrotonus
 extraboldface
