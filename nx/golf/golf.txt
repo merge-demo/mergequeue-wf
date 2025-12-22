@@ -3235,6 +3235,7 @@ giron
 girtonian
 gap
 ghosty
+glagol
 gilgul
 goldenwing
 galoot
@@ -7809,7 +7810,6 @@ globefishes
 gravidas
 gooiest
 garneter
-glagol
 gestion
 guanche
 gangplank
