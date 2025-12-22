@@ -2642,7 +2642,6 @@ glossosteresis
 gambir
 gripgrass
 geniality
-genetics
 gastrolysis
 gudgeoned
 glow
@@ -4766,6 +4765,7 @@ gryphite
 goad
 gaels
 generableness
+genetics
 gentilitian
 gomarian
 giuseppe
