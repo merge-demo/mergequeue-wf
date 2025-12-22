@@ -6870,7 +6870,6 @@ goniatitic
 grainman
 goshen
 gynandroid
-garrotes
 garfish
 gregarina
 gelatinoid
@@ -7139,6 +7138,7 @@ gordioid
 gearboxes
 gored
 gores
+garrotes
 goldenness
 guango
 gingerbready
