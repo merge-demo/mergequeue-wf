@@ -892,6 +892,7 @@ dantology
 dashpots
 dextrin
 dewitt
+deducibleness
 decolourised
 dantophilist
 dinned
@@ -9449,7 +9450,6 @@ diplanetism
 daydreamers
 digeny
 diamorphosis
-deducibleness
 denoted
 demiplate
 despondently
