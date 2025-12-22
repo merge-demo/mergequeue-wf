@@ -23943,7 +23943,6 @@ cypris
 cytometer
 chirl
 conusance
-conusant
 conuzee
 cicatricose
 cacological
@@ -26366,6 +26365,7 @@ caricatures
 collisional
 carnary
 coswearer
+conusant
 cot
 cotabulate
 carya
