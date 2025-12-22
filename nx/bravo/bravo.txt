@@ -7191,7 +7191,6 @@ bromometrical
 berylliosis
 bestench
 bearberry
-bestialised
 be
 brannigan
 bellbirds
@@ -8441,6 +8440,7 @@ billions
 bilbi
 bundu
 bilby
+bestialised
 banqueteering
 baignet
 bilbo
