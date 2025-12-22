@@ -10915,7 +10915,6 @@ abel
 amoebaea
 avowable
 alipata
-artlike
 affrontiveness
 aquilian
 anapest
@@ -22313,6 +22312,7 @@ abraders
 appair
 assorts
 astringed
+artlike
 agete
 apostolici
 antipoints
