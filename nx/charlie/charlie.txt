@@ -12066,7 +12066,6 @@ cajolers
 chevreuil
 chorook
 cyclops
-choroti
 chorous
 chort
 chortle
@@ -18912,6 +18911,7 @@ coliseum
 chancelor
 colossus
 cestoid
+choroti
 colistin
 coypou
 colitic
