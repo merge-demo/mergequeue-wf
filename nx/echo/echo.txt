@@ -1823,7 +1823,6 @@ eyewaiter
 episepalous
 emanium
 esrogim
-emigrant
 exoclinal
 exhorters
 engraulis
@@ -6481,6 +6480,7 @@ earfuls
 encheck
 exercisable
 ensorcellment
+emigrant
 ensorrow
 encumberment
 ectodactylism
