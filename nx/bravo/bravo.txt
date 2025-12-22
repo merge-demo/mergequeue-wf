@@ -6037,6 +6037,7 @@ bowenite
 biomathematics
 boiling
 brouette
+bogier
 bradyphasia
 blanquillos
 butcherless
@@ -15121,7 +15122,6 @@ baccara
 baronduki
 beqwete
 boar
-bogier
 baw
 baldicoot
 bronchotyphoid
