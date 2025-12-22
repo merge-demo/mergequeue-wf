@@ -17739,7 +17739,6 @@ archdespot
 applications
 anecdotalist
 appositely
-applicative
 ammunition
 applicatively
 appliedly
@@ -18585,6 +18584,7 @@ araminta
 arcanite
 arcature
 anilinophilous
+applicative
 arcatures
 acraeinae
 abundances
