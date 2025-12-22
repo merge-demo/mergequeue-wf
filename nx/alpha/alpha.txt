@@ -5939,6 +5939,7 @@ arrogancy
 aggressin
 altered
 anchylotic
+anestrous
 aureal
 adenylpyrophosphate
 acystia
@@ -12591,7 +12592,6 @@ anesthetized
 achromotrichia
 altoun
 anesthetizes
-anestrous
 anterograde
 anethene
 albites
