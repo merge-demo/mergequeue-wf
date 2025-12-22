@@ -14563,7 +14563,6 @@ brandied
 banate
 bacis
 blatterer
-branding
 brandiron
 buddle
 bimaculate
@@ -16325,6 +16324,7 @@ backwash
 bruised
 backtrack
 barbels
+branding
 bocces
 brownwort
 biovular
