@@ -1358,6 +1358,7 @@ garments
 gerodermia
 gauss
 ginners
+goulan
 garglers
 graplins
 glamorizer
@@ -6568,7 +6569,6 @@ gimmerpet
 gambas
 guazzo
 groyne
-goulan
 guarapo
 ghostwrite
 gingivolabial
