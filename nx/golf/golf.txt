@@ -7535,7 +7535,6 @@ goldsmithing
 gunyah
 geodesies
 greenths
-garbled
 goldarns
 gravimeter
 gallycrow
@@ -8338,6 +8337,7 @@ geanticlinal
 ghostwritten
 gammacismus
 geomagnetics
+garbled
 gentes
 greeneries
 gladness
