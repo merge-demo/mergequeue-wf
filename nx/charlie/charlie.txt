@@ -9147,7 +9147,6 @@ charta
 curialities
 chartable
 charter
-charterer
 charterers
 charterhouse
 chartering
@@ -10310,6 +10309,7 @@ coccidioidomycosis
 chich
 chicha
 cheiroglossa
+charterer
 chichevache
 chichi
 cremating
