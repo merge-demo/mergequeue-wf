@@ -2046,7 +2046,6 @@ cassique
 camises
 cytosin
 coruscation
-camisole
 cautela
 camisoles
 cosmolabe
@@ -30653,6 +30652,7 @@ cucumariidae
 cucumber
 calcular
 collegial
+camisole
 chymotrypsin
 cucupha
 chlorids
