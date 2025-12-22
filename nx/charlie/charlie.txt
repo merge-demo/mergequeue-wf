@@ -2803,6 +2803,7 @@ cagui
 cannier
 canning
 cannings
+coluber
 chiccories
 cannister
 cannisters
@@ -19562,7 +19563,6 @@ coltpixy
 coltsfoot
 coltsfoots
 captivities
-coluber
 colubrinae
 colubrine
 clarsach
