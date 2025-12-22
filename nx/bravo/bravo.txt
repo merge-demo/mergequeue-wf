@@ -932,7 +932,6 @@ bravely
 beprank
 bidarkas
 bagwig
-buddhology
 branny
 bungaloid
 brownout
@@ -10144,6 +10143,7 @@ burhmoot
 belknap
 blackbody
 bloodings
+buddhology
 blackbuck
 biomicroscopies
 backfiller
