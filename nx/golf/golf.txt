@@ -137,6 +137,7 @@ gadwalls
 girth
 gigantology
 gaelic
+gavialoid
 gynostegia
 gs
 gallicole
@@ -3826,7 +3827,6 @@ greyling
 greenbugs
 gabbard
 greenland
-gavialoid
 gulancha
 gorblimey
 grumbly
