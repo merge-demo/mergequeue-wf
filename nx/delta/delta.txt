@@ -2281,7 +2281,6 @@ downcut
 derby
 decemviral
 deepish
-decemvirship
 decayer
 decene
 depurator
@@ -9912,6 +9911,7 @@ dimethylsulphoxide
 dekarch
 dislock
 dimethoxy
+decemvirship
 donatistical
 descents
 descendingly
