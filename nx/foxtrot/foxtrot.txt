@@ -5309,7 +5309,6 @@ french
 flain
 fernwort
 fulyie
-fucaceous
 farrierlike
 front
 fascioplasty
@@ -9972,6 +9971,7 @@ flatulences
 formularizer
 forcers
 frigolabile
+fucaceous
 fumigate
 fadlike
 friendships
