@@ -8615,7 +8615,6 @@ chandlers
 contester
 chylothorax
 carrion
-consumpt
 calenturing
 cablish
 cymaphen
@@ -21013,6 +21012,7 @@ chipmuck
 compsoa
 canoncito
 comique
+consumpt
 clockkeeper
 compsothlypidae
 chillums
