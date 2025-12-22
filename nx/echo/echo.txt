@@ -3095,7 +3095,6 @@ excreters
 eardrop
 ellfish
 exor
-esthetes
 endarterium
 entellus
 escar
@@ -8603,6 +8602,7 @@ eumerogenesis
 endocarp
 estrogen
 embranglement
+esthetes
 equidistribution
 esu
 exect
