@@ -777,6 +777,7 @@ egger
 ecrase
 enclitic
 escort
+eker
 extense
 eremophilous
 experimental
@@ -1993,7 +1994,6 @@ elastics
 exothermal
 eagle
 economizing
-eker
 epigastriocele
 epitritic
 equiparable
