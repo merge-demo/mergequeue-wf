@@ -7281,7 +7281,6 @@ alauda
 aphakic
 antihidrotic
 adai
-amphibion
 alaudine
 asters
 accessoriusorii
@@ -10590,6 +10589,7 @@ arccosine
 avoider
 amylemia
 angiospermic
+amphibion
 agraffe
 arenulous
 apostoile
