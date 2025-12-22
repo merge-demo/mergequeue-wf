@@ -1583,6 +1583,7 @@ communising
 chemostat
 callisto
 callithrix
+capriform
 collegiant
 corruptibilities
 callithumpian
@@ -3444,7 +3445,6 @@ caprifole
 caprifoliaceae
 caprifolium
 cincinnatia
-capriform
 caprigenous
 caprylic
 cosines
