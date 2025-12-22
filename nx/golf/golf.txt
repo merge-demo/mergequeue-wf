@@ -3425,7 +3425,6 @@ gentisate
 giggit
 geometrized
 glossolaryngeal
-globularia
 gourmets
 gerrymander
 gorgons
@@ -4814,6 +4813,7 @@ gages
 gonged
 gifted
 gadi
+globularia
 gein
 grapewort
 grubstreet
