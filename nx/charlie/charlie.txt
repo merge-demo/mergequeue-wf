@@ -7642,7 +7642,6 @@ cartoonists
 cerebrize
 cerebrocardiac
 chairman
-cerebroganglionic
 cerebroid
 cirrhosed
 cerebromeningitis
@@ -24242,6 +24241,7 @@ contakia
 candled
 caponised
 craped
+cerebroganglionic
 convolvulaceae
 convolvulaceous
 convolvulad
