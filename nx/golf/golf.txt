@@ -4007,7 +4007,6 @@ gnomological
 gearksutite
 gonepoietic
 galliasses
-gamari
 galravage
 galvanograph
 gteau
@@ -9420,6 +9419,7 @@ goto
 gingivoglossitis
 gramps
 gingerliness
+gamari
 glycollide
 gabionage
 groupies
