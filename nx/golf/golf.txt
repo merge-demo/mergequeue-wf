@@ -3717,7 +3717,6 @@ grumpier
 ghostly
 gaura
 gnoses
-ghostwriter
 gnatoo
 ghostwriters
 gallirallus
@@ -4541,6 +4540,7 @@ gerbille
 gigantomachia
 gawp
 gmelinite
+ghostwriter
 gingering
 gyrate
 garigue
