@@ -6794,6 +6794,7 @@ goitrogen
 gremials
 girders
 girded
+griqua
 gentlemanism
 goodwill
 gibel
@@ -8578,7 +8579,6 @@ growths
 gastrocnemius
 guarache
 glabriety
-griqua
 gravity
 gnathostomi
 germinal
