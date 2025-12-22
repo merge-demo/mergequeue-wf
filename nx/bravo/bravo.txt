@@ -982,6 +982,7 @@ boat
 bayamos
 brownier
 brigand
+barotropic
 bayano
 birlie
 bewitch
@@ -2840,7 +2841,6 @@ bulgurs
 behowling
 bravest
 barotraumas
-barotropic
 barouchette
 bioecologic
 barouni
