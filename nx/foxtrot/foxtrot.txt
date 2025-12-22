@@ -287,6 +287,7 @@ fourierite
 flock
 foreshortening
 ford
+flytrap
 febrifacient
 footpounds
 firbolg
@@ -5233,7 +5234,6 @@ flavanilin
 fiscals
 flavescence
 fingall
-flytrap
 filius
 flavescent
 funguses

@@ -6869,6 +6869,7 @@ bescramble
 bescreen
 barit
 brutalize
+bravadoism
 belleek
 beggarman
 barrelhead
@@ -10094,7 +10095,6 @@ blabbering
 blabbermouths
 blabbing
 blabmouth
-bravadoism
 bludgeoneer
 beamish
 behave
