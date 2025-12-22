@@ -3951,6 +3951,7 @@ carboxylation
 colonialised
 ccm
 carboxylic
+chiro
 carboxyls
 carbromal
 carbuncle
@@ -9990,7 +9991,6 @@ chenopod
 colocasia
 catacombic
 criollo
-chiro
 chenopods
 cajuputs
 chequebook
