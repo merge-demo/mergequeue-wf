@@ -17243,7 +17243,6 @@ cellarless
 coitions
 coalescency
 candlesnuffer
-coalescent
 combustibility
 coalescing
 choya
@@ -27408,6 +27407,7 @@ catastatic
 courting
 courtly
 courtlier
+coalescent
 chow
 chaptered
 courtliest
