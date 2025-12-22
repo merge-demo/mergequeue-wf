@@ -3816,6 +3816,7 @@ clouters
 cinematographies
 carbineer
 carbines
+conquinamine
 carbinols
 commensality
 carboazotine
@@ -5646,7 +5647,6 @@ choiceless
 carnality
 catalogist
 catalogistic
-conquinamine
 catalogize
 coleplant
 constabulary
