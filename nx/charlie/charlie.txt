@@ -14696,7 +14696,6 @@ cystotrachelotomy
 cadenza
 cystourethritis
 chirurgy
-calyxes
 cystourethrography
 cistron
 cistronic
@@ -17231,6 +17230,7 @@ cineangiographic
 coalbins
 circumambulations
 clowned
+calyxes
 creatorship
 coalbox
 cramoisy
