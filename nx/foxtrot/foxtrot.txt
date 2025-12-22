@@ -160,7 +160,6 @@ falls
 fibbery
 factionalism
 factualness
-fow
 freezers
 fabes
 faradopalpation
@@ -6752,6 +6751,7 @@ finder
 farls
 flukiest
 falciform
+fow
 forespake
 fass
 founding
