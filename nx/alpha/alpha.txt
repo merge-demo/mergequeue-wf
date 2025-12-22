@@ -5794,6 +5794,7 @@ agedness
 agee
 aerugos
 ageing
+aperitifs
 ardass
 assumptive
 archiannelida
@@ -11266,7 +11267,6 @@ acalycinous
 aloofly
 amphisarca
 aqua
-aperitifs
 actuated
 administratorship
 apiose
