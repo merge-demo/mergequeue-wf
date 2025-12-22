@@ -9694,6 +9694,7 @@ flied
 feaking
 fruitgrower
 freith
+fringeflower
 furcellaria
 foamingly
 feoffor
@@ -10401,7 +10402,6 @@ forcaria
 fertilizer
 filesmith
 feudalistic
-fringeflower
 fossified
 fountainously
 firsts
