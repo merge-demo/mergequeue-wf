@@ -16470,7 +16470,6 @@ clobbers
 clochette
 clockbird
 contractedly
-comodato
 caponizes
 clocker
 clockhouse
@@ -31354,6 +31353,7 @@ curiae
 cubiculum
 cobwebbing
 curiage
+comodato
 calcisponge
 curialist
 cabalas
