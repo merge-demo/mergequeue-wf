@@ -8866,7 +8866,6 @@ brachystaphylic
 boilerman
 blackfishes
 behen
-bastant
 binukau
 brimmimg
 bathypelagic
@@ -13129,6 +13128,7 @@ borneols
 belaced
 bovids
 borning
+bastant
 bornite
 baksheesh
 bestirs
