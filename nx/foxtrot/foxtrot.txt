@@ -7447,6 +7447,7 @@ forcipation
 flutelike
 forcipressure
 frigidoreceptor
+fishworks
 foy
 fossick
 feinschmecker
@@ -9948,7 +9949,6 @@ fakeers
 facileness
 feelingness
 floatingly
-fishworks
 frumentum
 flatlanders
 flanche
