@@ -4240,6 +4240,7 @@ epicenism
 empurpled
 equinox
 excitedness
+endungeon
 enterochlorophyll
 empuzzle
 eosinophilous
@@ -7650,7 +7651,6 @@ exhumations
 eccentricities
 elapse
 eoliths
-endungeon
 enterohelcosis
 epiparodos
 epicortical
