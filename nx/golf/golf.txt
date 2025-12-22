@@ -3765,6 +3765,7 @@ greenfinch
 glutethimide
 grumpishness
 goldang
+grus
 greycoat
 giants
 gratifyingly
@@ -7596,7 +7597,6 @@ greengroceries
 gloeosporium
 goodyness
 gemmula
-grus
 grabhook
 grabouche
 gripsack
