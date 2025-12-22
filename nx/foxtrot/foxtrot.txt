@@ -4813,6 +4813,7 @@ fishberries
 firepower
 flinthead
 fleay
+facecloth
 fatigued
 fainer
 foil
@@ -11452,7 +11453,6 @@ furcule
 flaffer
 furfurylidene
 furrowy
-facecloth
 flap
 furrowing
 forletting
