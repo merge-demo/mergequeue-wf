@@ -4600,7 +4600,6 @@ anetholes
 aeacides
 aechmophorus
 assistless
-agitates
 ayegreen
 alahee
 avikom
@@ -14053,6 +14052,7 @@ antechinomys
 agitpropist
 altazimuth
 autopilots
+agitates
 anchorate
 autocatalytic
 antechoirs
