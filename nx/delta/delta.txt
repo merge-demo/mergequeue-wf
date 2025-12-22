@@ -7981,7 +7981,6 @@ delicatessens
 dionaea
 digitized
 dishonoured
-discording
 degummer
 deemsters
 demanganize
@@ -11798,6 +11797,7 @@ dimitted
 discriminatively
 despatch
 discriminativeness
+discording
 drunker
 discriminator
 dirigibility
