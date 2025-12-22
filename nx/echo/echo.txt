@@ -867,7 +867,6 @@ epistolizer
 eigenfunction
 erythrocytolysin
 electrocution
-encomiastical
 extraprofessional
 endophyte
 entailed
@@ -12555,6 +12554,7 @@ exmeridian
 endorphin
 exoascaceous
 exoascales
+encomiastical
 enkindled
 exobasidiaceae
 ebionize
