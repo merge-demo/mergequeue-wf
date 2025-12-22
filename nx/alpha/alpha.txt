@@ -10502,6 +10502,7 @@ amidol
 aping
 atheling
 amidophenol
+apothem
 authorisation
 annelides
 agua
@@ -20172,7 +20173,6 @@ aoli
 acidulation
 arratel
 asclepieion
-apothem
 arrau
 assiduously
 arrearage
