@@ -5092,7 +5092,6 @@ befezzed
 broiderer
 befile
 bebathe
-bathoses
 befire
 befist
 boomerangs
@@ -16080,6 +16079,7 @@ breechclout
 brood
 bedsock
 bialis
+bathoses
 bratchet
 broodiest
 binomial

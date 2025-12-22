@@ -5017,7 +5017,6 @@ cartouche
 curmudgeon
 cust
 costrel
-chiclero
 canalman
 cryptovolcanic
 conceptuality
@@ -15412,6 +15411,7 @@ conidiiferous
 clapper
 clapperclaw
 cloragen
+chiclero
 clappered
 chitchatting
 clappers
