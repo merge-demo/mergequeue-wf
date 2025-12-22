@@ -8953,7 +8953,6 @@ dichotomize
 despraise
 demographic
 demonstrably
-dub
 despoticalness
 dail
 dihydride
@@ -11208,6 +11207,7 @@ doggone
 dentinocemental
 disboard
 drawdowns
+dub
 dustoori
 divagating
 disbosom
