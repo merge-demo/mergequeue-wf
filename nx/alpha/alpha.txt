@@ -1174,7 +1174,6 @@ acanthia
 anthropogenetic
 apocryphally
 acanthion
-atrosanguineous
 acanthocephalous
 acanthocladous
 acanthodean
@@ -12908,6 +12907,7 @@ aire
 ango
 angoise
 angolese
+atrosanguineous
 arbitral
 assertoric
 ascitb
