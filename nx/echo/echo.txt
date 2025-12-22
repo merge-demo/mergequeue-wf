@@ -3717,6 +3717,7 @@ embryotome
 exhalatory
 eeten
 exculpated
+empuzzle
 ephemerons
 echelette
 exhaustivity
@@ -4241,7 +4242,6 @@ equinox
 excitedness
 endungeon
 enterochlorophyll
-empuzzle
 eosinophilous
 eerie
 empirically
