@@ -2708,6 +2708,7 @@ enduros
 electrotherapy
 electrotheraputic
 emyds
+esophagus
 elaeopten
 electrothermal
 ephippial
@@ -11522,7 +11523,6 @@ extractable
 elegantly
 evincing
 entoblast
-esophagus
 evincive
 excavationist
 echnida

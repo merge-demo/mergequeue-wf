@@ -5517,7 +5517,6 @@ fiddlies
 faroelite
 fleshliness
 faceteness
-fw
 flacker
 fleshmonger
 fcy
@@ -5546,6 +5545,7 @@ floating
 fleshful
 favourite
 furunculus
+fw
 favouredly
 foamily
 foreordain
