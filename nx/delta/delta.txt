@@ -309,7 +309,6 @@ dayanim
 daybeacon
 dealbate
 daybed
-devchar
 disembowelment
 disgruntling
 dissuasiveness
@@ -4479,6 +4478,7 @@ dealbuminize
 doxologies
 danubian
 defused
+devchar
 drinkableness
 destruction
 demiculverin
