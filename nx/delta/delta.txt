@@ -189,7 +189,6 @@ diel
 diaplasma
 daedalous
 divulgated
-defilable
 daybill
 daemony
 deforesting
@@ -12328,6 +12327,7 @@ dinos
 dragonne
 disgustfulness
 disgustingly
+defilable
 dealated
 dishabilitate
 dishabille
