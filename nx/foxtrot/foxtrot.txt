@@ -4470,6 +4470,7 @@ fibroglioma
 fannings
 flustered
 freeloads
+fumarate
 febricity
 fishplate
 feste
@@ -11031,7 +11032,6 @@ fuming
 foresights
 fora
 filiferous
-fumarate
 flammulated
 fontainea
 frontolysis
