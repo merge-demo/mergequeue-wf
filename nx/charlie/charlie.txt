@@ -7204,6 +7204,7 @@ centrarchoid
 clar
 compare
 centraxonial
+cfi
 centre
 centreboard
 centred
@@ -7790,7 +7791,6 @@ cetin
 certainty
 certhia
 caryatidic
-cfi
 certifiability
 categorematic
 cellarway
