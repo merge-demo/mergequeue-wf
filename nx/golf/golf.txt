@@ -1820,7 +1820,6 @@ glos
 gentile
 groupage
 garlands
-grasses
 glutenous
 goundou
 geopolitically
@@ -8400,6 +8399,7 @@ gyroscopically
 gaucherie
 gawby
 grebe
+grasses
 gulping
 grippes
 giantry
