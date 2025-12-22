@@ -8635,6 +8635,7 @@ forsakenness
 fermentarian
 forsythia
 findon
+forlorner
 flamberge
 freightless
 filterability
@@ -9742,7 +9743,6 @@ frigorifical
 factful
 forgathered
 frenetically
-forlorner
 frenula
 frenular
 footlicker
