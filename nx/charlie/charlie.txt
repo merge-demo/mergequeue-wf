@@ -24271,7 +24271,6 @@ convulsion
 conjugates
 conjuncture
 const
-cerebritis
 crescendi
 chirographer
 confessing
@@ -31190,6 +31189,7 @@ cloudling
 cuprene
 cupreous
 carriers
+cerebritis
 cupressus
 campagus
 custode
