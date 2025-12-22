@@ -1493,7 +1493,6 @@ draughts
 definiendum
 deformers
 diazines
-downlinked
 deacetylate
 duststorm
 donas
@@ -15744,6 +15743,7 @@ dicht
 drubbly
 dicyanine
 dogshore
+downlinked
 dorm
 donec
 downlie
