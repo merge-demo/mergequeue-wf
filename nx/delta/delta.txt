@@ -2937,7 +2937,6 @@ diegesis
 diplasiasmus
 deduces
 droil
-dolt
 deducibility
 deducted
 devolatilized
@@ -7295,6 +7294,7 @@ doukhobor
 devisers
 defecters
 defecation
+dolt
 donnie
 dress
 diphthongia
