@@ -5678,7 +5678,6 @@ besped
 beldams
 bacchar
 bilify
-belderroot
 beleaguering
 bongar
 badgeless
@@ -10635,6 +10634,7 @@ bouquet
 bladders
 bowllike
 beyliks
+belderroot
 bleach
 branchiosaurus
 bullheadedly
