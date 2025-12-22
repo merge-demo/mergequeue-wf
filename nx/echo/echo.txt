@@ -1593,7 +1593,6 @@ endocardia
 ethnogenist
 exobiologist
 eglomerate
-eaglets
 eglomise
 errite
 entires
@@ -10333,6 +10332,7 @@ explain
 etwite
 electrometallurgical
 ethnolinguist
+eaglets
 estensible
 erysibe
 elvers
