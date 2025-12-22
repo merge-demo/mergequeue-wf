@@ -5379,7 +5379,6 @@ cylindroconical
 cynarctomachy
 cyrillaceous
 capillary
-castano
 crawler
 carnaubyl
 calibered
@@ -17976,6 +17975,7 @@ centrist
 ciborium
 clubwood
 circumvolving
+castano
 coelentera
 cubicle
 cookshack
