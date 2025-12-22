@@ -601,7 +601,6 @@ gorgoniacea
 ghostweed
 graveside
 gloryless
-galliots
 grumpiest
 goulashes
 gurnets
@@ -7517,6 +7516,7 @@ glitch
 guessable
 gerbillus
 glottalized
+galliots
 gat
 galactagoguic
 gotten
