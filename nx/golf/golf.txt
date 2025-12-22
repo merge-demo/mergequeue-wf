@@ -1328,7 +1328,6 @@ gra
 ganoine
 goanese
 guslee
-greenhouse
 goldsmiths
 garishly
 galligaskins
@@ -4661,6 +4660,7 @@ graphophobia
 gyronny
 gamophyllous
 gyrophoraceous
+greenhouse
 glance
 gringophobia
 ghafir
