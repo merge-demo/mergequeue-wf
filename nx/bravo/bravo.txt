@@ -905,6 +905,7 @@ bookland
 bdellotomy
 bowstaff
 bagpipers
+biopsy
 bandyball
 bardiglio
 bismarine
@@ -9064,7 +9065,6 @@ bonzery
 basking
 bipectinated
 biopotential
-biopsy
 biopsic
 bailliage
 byssaceous
