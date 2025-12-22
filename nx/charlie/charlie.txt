@@ -3426,7 +3426,6 @@ continuua
 capretto
 capri
 capric
-checkhook
 capriccetto
 capricci
 capriccio
@@ -3930,6 +3929,7 @@ carbons
 carbonuria
 calcined
 clarity
+checkhook
 contradistinguish
 celibacies
 cowheel
