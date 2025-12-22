@@ -18690,6 +18690,7 @@ accusably
 addlebrain
 archbeadle
 accidentalist
+augends
 autocephality
 archbishopry
 archbishopric
@@ -23453,7 +23454,6 @@ adversity
 antiantidote
 aquiform
 arsenillo
-augends
 auger
 ahimsas
 agrufe
