@@ -44,7 +44,6 @@ abaciscus
 aquanaut
 autopsist
 accessorily
-absorbancy
 aquativeness
 astrakhan
 alcyone
@@ -2311,6 +2310,7 @@ acidulant
 acidulate
 acidulated
 azuline
+absorbancy
 acephalism
 acidulously
 acidurias
