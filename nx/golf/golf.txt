@@ -1140,6 +1140,7 @@ gantlet
 grocer
 gled
 gripier
+glazes
 grouses
 goninidia
 gastrogastrotomy
@@ -5169,7 +5170,6 @@ gantsl
 grasslands
 gyrophoraceae
 graylags
-glazes
 glyceride
 glb
 gastratrophia
