@@ -1449,6 +1449,7 @@ affixable
 archaisms
 amortize
 acclimatise
+autoclaving
 acclimatised
 acclimatiser
 acclimatising
@@ -24011,7 +24012,6 @@ align
 acetobacter
 autoclave
 allemands
-autoclaving
 aspheric
 autocollimators
 autocombustion
