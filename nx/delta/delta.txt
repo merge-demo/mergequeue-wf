@@ -1632,7 +1632,6 @@ disassembler
 deallocate
 deobstruct
 devotional
-daunter
 dicephalus
 darkhaired
 deerhair
@@ -8516,6 +8515,7 @@ drighten
 dantomania
 disaccharides
 diapause
+daunter
 diapauses
 diffused
 donaries
