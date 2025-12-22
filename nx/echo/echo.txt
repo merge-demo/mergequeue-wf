@@ -1118,6 +1118,7 @@ electrotypes
 erionite
 epicaridea
 edith
+equivalencing
 epitrichial
 exsanguinated
 encatarrhaphy
@@ -2829,7 +2830,6 @@ eleomargaric
 encephalon
 eleoplast
 epipolic
-equivalencing
 externalness
 eater
 epiclesis
