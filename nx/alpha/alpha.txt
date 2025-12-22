@@ -11939,7 +11939,6 @@ amalgamize
 anaphylactically
 araliaceae
 anaemias
-apostrophal
 anaphylactin
 anaphylactogenic
 anaphylatoxin
@@ -15999,6 +15998,7 @@ atreus
 antiradiating
 ascendants
 ammi
+apostrophal
 accessorius
 arapunga
 antiradical
