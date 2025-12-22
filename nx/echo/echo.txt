@@ -9509,7 +9509,6 @@ esculin
 expansively
 essences
 eugenesis
-epimorphism
 extrasolar
 exempt
 envois
@@ -13791,6 +13790,7 @@ emirship
 embargoing
 extortioners
 entomogenous
+epimorphism
 elachista
 ethnicism
 exacuate
