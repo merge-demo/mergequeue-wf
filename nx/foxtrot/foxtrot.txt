@@ -4046,6 +4046,7 @@ festoony
 fermentation
 flindersia
 freefd
+frumps
 finitism
 frankest
 finitive
@@ -10721,7 +10722,6 @@ faenus
 flam
 flotsams
 fideisms
-frumps
 foldboat
 forcedly
 fatherliness
