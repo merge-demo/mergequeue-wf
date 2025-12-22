@@ -9980,7 +9980,6 @@ bivariant
 baddock
 bivascular
 bismuthyl
-binodous
 brahmic
 berbery
 barrenness
@@ -16247,6 +16246,7 @@ burlesqued
 bundh
 balun
 boosted
+binodous
 bedighted
 bilithon
 brownness
