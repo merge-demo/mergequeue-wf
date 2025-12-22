@@ -9176,7 +9176,6 @@ fractostratus
 fiaschi
 florification
 feat
-foveole
 folded
 federations
 formalizable
@@ -10279,6 +10278,7 @@ fromenty
 fromenties
 fogyishness
 fluorated
+foveole
 floscularian
 faquirs
 flandowser
