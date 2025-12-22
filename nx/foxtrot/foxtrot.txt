@@ -313,7 +313,6 @@ filar
 flexuosity
 fraternation
 forespent
-feints
 fag
 feint
 fostell
@@ -7500,6 +7499,7 @@ fourbagger
 frolicful
 fogou
 freenesses
+feints
 foreassurance
 forecabin
 feedingstuff
