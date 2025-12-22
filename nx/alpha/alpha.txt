@@ -13694,7 +13694,6 @@ apollinarianism
 anomaloflorous
 archaistic
 amentaceous
-anomalogonatous
 anomalon
 antipasto
 auxochromism
@@ -23861,6 +23860,7 @@ allosaurus
 anisostichus
 airmailing
 andoke
+anomalogonatous
 attractors
 autarkist
 autechoscope
