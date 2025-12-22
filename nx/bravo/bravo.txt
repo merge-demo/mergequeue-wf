@@ -6570,7 +6570,6 @@ brekky
 benzothiazole
 berberi
 breastrope
-bout
 biohazard
 berberid
 bricked
@@ -15938,6 +15937,7 @@ burgh
 bromuret
 bromus
 birdlet
+bout
 bellota
 bronchadenitis
 bimetallistic
