@@ -2499,6 +2499,7 @@ fuzzily
 faldworth
 foremeant
 footsore
+flaps
 feudal
 functionize
 fastballs
@@ -10332,7 +10333,6 @@ fruitlessly
 faithfully
 furrowers
 freshwoman
-flaps
 fuzil
 formalin
 foreordainments
