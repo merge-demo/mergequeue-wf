@@ -2755,7 +2755,6 @@ gauger
 guestchamber
 gorraf
 gipped
-gallused
 glanditerous
 gramophonist
 gonangia
@@ -3115,6 +3114,7 @@ gymnasisia
 groined
 glucosine
 gelatinity
+gallused
 grassie
 governed
 gumdrops
