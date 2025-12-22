@@ -4538,7 +4538,6 @@ demilitarizes
 deflectional
 despotical
 demilustre
-diaskeuasis
 demiman
 detax
 dungyard
@@ -9118,6 +9117,7 @@ dhoty
 dichoptic
 dyslexias
 didelphidae
+diaskeuasis
 discursive
 dingdong
 dragonize
