@@ -6238,7 +6238,6 @@ beakful
 benne
 bennes
 beveling
-bungalow
 bennets
 bootlace
 bookism
@@ -8866,6 +8865,7 @@ bioaccumulation
 bioactivities
 bioassaying
 bioastronautics
+bungalow
 belcher
 biobibliographer
 barleysick
