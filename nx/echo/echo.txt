@@ -3696,7 +3696,6 @@ endocoeliac
 embosking
 embryologist
 entify
-embryonic
 encyrtidae
 erythromycin
 expectant
@@ -6116,6 +6115,7 @@ enticing
 eructates
 excommunion
 england
+embryonic
 eunomianism
 enlinkment
 elaeoptene
