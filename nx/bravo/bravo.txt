@@ -7210,6 +7210,7 @@ backtrackers
 boxinesses
 bestian
 bloomsbury
+bidri
 bungarum
 bagginess
 bestiary
@@ -8149,7 +8150,6 @@ bidree
 bottle
 bindweeds
 bearess
-bidri
 brutelike
 barmaids
 basidigitale
