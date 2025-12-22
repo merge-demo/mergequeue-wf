@@ -4939,7 +4939,6 @@ endameba
 endamebae
 equiv
 eveck
-eudemons
 extradictable
 endamoebas
 endamoebidae
@@ -13258,6 +13257,7 @@ execrable
 explicates
 euglenoidina
 eyewitness
+eudemons
 explicator
 eriodendron
 epilobiaceae
