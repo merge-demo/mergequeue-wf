@@ -6415,7 +6415,6 @@ agudist
 arsonite
 acolous
 agueweeds
-alphitomancy
 aguglia
 arachnidan
 aguilt
@@ -14392,6 +14391,7 @@ analgetic
 assortatively
 anisocycle
 abnegate
+alphitomancy
 apselaphesis
 anthozoon
 anthracia
