@@ -1095,7 +1095,6 @@ graphiola
 grammatication
 gearshifts
 gravitate
-graptolitic
 gallants
 guillotining
 gwyniad
@@ -5889,6 +5888,7 @@ glucoses
 glances
 glucoside
 goshawk
+graptolitic
 grandparents
 grantha
 gestening
