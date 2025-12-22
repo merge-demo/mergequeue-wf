@@ -4093,6 +4093,7 @@ emboil
 equitant
 enjambement
 erotophobia
+edibleness
 exteriorize
 epiphonemae
 empathized
@@ -9957,7 +9958,6 @@ estuarial
 epagogic
 eloquently
 estuosity
-edibleness
 endophagy
 erythromelalgia
 esugarization
