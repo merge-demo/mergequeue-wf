@@ -898,7 +898,6 @@ genteeler
 gaverick
 geld
 guna
-gelatinate
 gambia
 garnishable
 grittiness
@@ -10743,6 +10742,7 @@ galleried
 gournard
 gagers
 groggy
+gelatinate
 gustiest
 geocentrically
 galewort
