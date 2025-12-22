@@ -6213,7 +6213,6 @@ ceraunoscope
 cupolas
 catwalk
 conqueringly
-chancier
 calycule
 convictive
 crusta
@@ -18505,6 +18504,7 @@ crosslet
 circlet
 champac
 coheirs
+chancier
 coheirship
 cestraciont
 cohelper
