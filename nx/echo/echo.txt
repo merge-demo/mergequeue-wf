@@ -5950,6 +5950,7 @@ enhypostasia
 estmark
 electrotheraputically
 endolemma
+ethenyl
 exudence
 erethismic
 ettled
@@ -7706,7 +7707,6 @@ elytroplastic
 epeirogeny
 equilibration
 expendability
-ethenyl
 extrapopular
 epidemiologic
 emulsified
