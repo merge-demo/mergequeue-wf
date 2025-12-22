@@ -1781,7 +1781,6 @@ dropseed
 drawknife
 debarking
 digamist
-dishpanful
 discede
 dwelled
 debarkment
@@ -8330,6 +8329,7 @@ diplogenetic
 datagram
 disenactment
 dialectal
+dishpanful
 draftier
 duim
 darkishness
