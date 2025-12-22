@@ -11817,7 +11817,6 @@ dormitary
 discrowns
 daydreamed
 devitalised
-dogma
 defiler
 discruciate
 dived
@@ -17526,6 +17525,7 @@ druidical
 denumeral
 disulfuric
 druidisms
+dogma
 decertificaton
 dorsibranchiate
 diencephalic
