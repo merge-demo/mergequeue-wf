@@ -9030,7 +9030,6 @@ disembed
 dissemilative
 depravate
 deaconhood
-dermatoplast
 dicoumarol
 distantness
 dicranaceous
@@ -11428,6 +11427,7 @@ discloser
 disclosive
 disclosure
 diplomaed
+dermatoplast
 duplicitous
 discloud
 didache
