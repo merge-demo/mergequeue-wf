@@ -572,7 +572,6 @@ flamier
 fdubs
 frequentative
 frappe
-feeblish
 funerate
 fenugreek
 flagstaff
@@ -6233,6 +6232,7 @@ floccules
 focusable
 fascinative
 formwork
+feeblish
 fermentitious
 flairs
 foundationary
