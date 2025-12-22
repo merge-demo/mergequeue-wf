@@ -2936,7 +2936,6 @@ facier
 fooleries
 flukiness
 freezed
-foxberries
 fac
 flaked
 formulist
@@ -4753,6 +4752,7 @@ freethinkers
 farcies
 feuillage
 fulldo
+foxberries
 flag
 forestalment
 flammiferous
