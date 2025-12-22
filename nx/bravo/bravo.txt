@@ -7041,7 +7041,6 @@ beryciform
 boating
 bussings
 belletrist
-biometricist
 burelle
 buccan
 besort
@@ -15388,6 +15387,7 @@ bannerlike
 brighten
 becket
 brightish
+biometricist
 bebelted
 bescoundrel
 bandannaed
