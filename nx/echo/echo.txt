@@ -3432,6 +3432,7 @@ embogue
 electrophobia
 ennuyant
 ecalcavate
+encolour
 errand
 exolete
 exemplar
@@ -4806,7 +4807,6 @@ electroionic
 etymologize
 executioners
 eventides
-encolour
 excrementitiousness
 encolpia
 equilibrator
