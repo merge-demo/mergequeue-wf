@@ -16014,6 +16014,7 @@ cramper
 compromises
 covado
 canniness
+curableness
 clerstory
 clansmen
 cyamelid
@@ -31234,7 +31235,6 @@ clawhammer
 cura
 chetah
 curable
-curableness
 cotyloidal
 coverlid
 curacaos
