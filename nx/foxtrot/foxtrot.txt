@@ -3744,7 +3744,6 @@ flippantness
 faultlessly
 fortressed
 frizettes
-furoate
 failure
 fellmonger
 fulls
@@ -5461,6 +5460,7 @@ fluozirconic
 fernbrake
 ferreter
 fylker
+furoate
 flora
 funniness
 foreword
