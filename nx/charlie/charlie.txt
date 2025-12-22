@@ -771,6 +771,7 @@ cagework
 coordinators
 consonantising
 couturier
+cineoles
 caggy
 conjurors
 cagy
@@ -12379,7 +12380,6 @@ carcinogen
 chromatician
 chromaticness
 chromatid
-cineoles
 conuses
 chromatin
 caucasoids
