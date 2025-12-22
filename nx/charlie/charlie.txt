@@ -16336,7 +16336,6 @@ cliqueier
 cretinize
 cliqueyness
 cytome
-cliques
 collocalia
 cliquy
 creasol
@@ -31381,6 +31380,7 @@ curietherapy
 curying
 cyclopentane
 cerebrosensorial
+cliques
 counterconquest
 chocked
 croutons
