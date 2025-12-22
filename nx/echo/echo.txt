@@ -7193,6 +7193,7 @@ etheostoma
 equalizer
 enwove
 entender
+euvrou
 epistasis
 euphonym
 enchesoun
@@ -13830,7 +13831,6 @@ effacing
 erepsins
 encarditis
 embrake
-euvrou
 euplectella
 extracloacal
 expos
