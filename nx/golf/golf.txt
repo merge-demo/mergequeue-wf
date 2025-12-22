@@ -9,7 +9,6 @@ gunrooms
 gabber
 gabbers
 gobi
-guepard
 grasswork
 gratuities
 greedsome
@@ -930,6 +929,7 @@ gammerstang
 gastropneumatic
 gannets
 gammock
+guepard
 grouched
 gillnetted
 galactically
