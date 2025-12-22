@@ -896,7 +896,6 @@ foreperiod
 farawayness
 firmland
 fennelflower
-fanums
 ferine
 fenberry
 fanwise
@@ -8082,6 +8081,7 @@ forestries
 firebrats
 furnitures
 forenames
+fanums
 fondness
 fumigating
 flecnode

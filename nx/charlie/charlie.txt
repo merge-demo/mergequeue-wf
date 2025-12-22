@@ -4283,7 +4283,6 @@ carefullest
 chemosensitivities
 characteristic
 coauthored
-cashel
 cursillo
 careless
 carelessly
@@ -7274,6 +7273,7 @@ centroids
 cyanophilous
 conte
 centromere
+cashel
 centromeric
 centronote
 couth
