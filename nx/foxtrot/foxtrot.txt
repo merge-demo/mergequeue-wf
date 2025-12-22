@@ -4859,7 +4859,6 @@ forearm
 froglet
 flagellatory
 ferocities
-formalness
 followable
 fulgora
 flails
@@ -9466,6 +9465,7 @@ flamens
 fratry
 fountainheads
 flippery
+formalness
 furnaceman
 fulcrate
 flounderingly
