@@ -1324,7 +1324,6 @@ gary
 groundling
 glyptological
 gristbite
-gignate
 gra
 ganoine
 goanese
@@ -2082,6 +2081,7 @@ governments
 graminological
 gawk
 gratingly
+gignate
 gozzard
 guerillaism
 geobotanist
