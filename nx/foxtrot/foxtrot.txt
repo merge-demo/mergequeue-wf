@@ -7348,7 +7348,6 @@ forechamber
 foraminiferal
 fogs
 fidgetingly
-foible
 felting
 friendliest
 flourishy
@@ -10023,6 +10022,7 @@ flavoury
 flor
 fryer
 foollike
+foible
 flans
 fringehead
 fringelet
