@@ -833,6 +833,7 @@ epitheton
 entrecote
 epop
 exulate
+eom
 ectiris
 etamines
 eriophorum
@@ -3188,7 +3189,6 @@ extortionists
 epiplastral
 exhaustiveness
 euphoria
-eom
 epitra
 emmarble
 elaborate
