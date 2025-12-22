@@ -3087,6 +3087,7 @@ causata
 canvasser
 canzona
 crickety
+connective
 canzones
 canzonet
 caodaism
@@ -22602,7 +22603,6 @@ cairba
 cogenial
 connection
 connectival
-connective
 connectively
 clavichordists
 convallariaceous
