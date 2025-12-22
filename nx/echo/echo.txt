@@ -8076,7 +8076,6 @@ euphrasy
 exosporal
 empeopled
 emerize
-epiphytic
 extensum
 enfacing
 eriophyid
@@ -8821,6 +8820,7 @@ eyewort
 erd
 excavation
 eyehook
+epiphytic
 eagers
 erechtheum
 erechtites
