@@ -18264,7 +18264,6 @@ arachnomorphae
 arabiyeh
 apparel
 acquisitum
-adjunct
 awshar
 arability
 arabinic
@@ -18979,6 +18978,7 @@ alphabetary
 abstention
 ageratum
 archival
+adjunct
 atopic
 archiver
 archjockey
