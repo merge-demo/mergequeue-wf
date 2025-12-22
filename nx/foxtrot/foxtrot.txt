@@ -5733,7 +5733,6 @@ furnage
 fungistatic
 frequentation
 fels
-figureheadless
 fisher
 foredeserved
 farth
@@ -10701,6 +10700,7 @@ flunkeyistic
 forelaid
 fil
 fellmongering
+figureheadless
 flavedo
 frutescence
 fetter
