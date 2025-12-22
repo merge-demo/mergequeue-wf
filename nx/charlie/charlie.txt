@@ -3821,6 +3821,7 @@ conrail
 carbodynamite
 carbohemoglobin
 calamodendron
+calcar
 cribbling
 carbohydrase
 cannibalism
@@ -28265,7 +28266,6 @@ craspedota
 calumets
 craspedotal
 clat
-calcar
 colons
 crassest
 conspiratory
