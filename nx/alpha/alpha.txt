@@ -5113,6 +5113,7 @@ anend
 aetat
 aethalium
 astragalectomy
+aglaspis
 aether
 aromacity
 ahrimanian
@@ -19437,7 +19438,6 @@ argh
 anlaute
 aphelilions
 allottees
-aglaspis
 asymbolia
 astrophysics
 argify
