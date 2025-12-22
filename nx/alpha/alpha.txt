@@ -5072,6 +5072,7 @@ aesir
 aesop
 aesopian
 amtracs
+autunian
 aesthesodic
 allaeanthus
 ardisiaceae
@@ -6466,7 +6467,6 @@ algaesthesis
 amebula
 ahir
 alternant
-autunian
 affiancing
 animalian
 anthemed
