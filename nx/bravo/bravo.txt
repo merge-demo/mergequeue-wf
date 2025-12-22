@@ -11050,7 +11050,6 @@ blob
 bimetallic
 bicentrically
 bromoiodized
-benzoylate
 bidentalia
 bemoaningly
 block
@@ -12986,6 +12985,7 @@ bopped
 biosterin
 bombastical
 bokadam
+benzoylate
 bailli
 brigadiers
 beelike
