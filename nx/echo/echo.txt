@@ -6699,6 +6699,7 @@ enchelycephali
 enterosepsis
 enterotome
 encharged
+excitedly
 enright
 enterotoxemia
 enterotoxication
@@ -11978,7 +11979,6 @@ enveloped
 eurylaimidae
 excited
 epicure
-excitedly
 eulytin
 empeine
 ententes
