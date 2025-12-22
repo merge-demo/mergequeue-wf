@@ -6947,6 +6947,7 @@ chrome
 caecostomy
 cement
 chochos
+cleithrum
 coenocyte
 cementation
 chymosins
@@ -30857,7 +30858,6 @@ culms
 coolidge
 corneocalcareous
 cranioclasm
-cleithrum
 copaline
 corduroyed
 culot
