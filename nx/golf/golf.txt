@@ -2803,7 +2803,6 @@ guzzledom
 gyges
 guemul
 garblings
-grandisonous
 gathers
 gazettal
 grigris
@@ -6370,6 +6369,7 @@ gog
 gamin
 graymill
 gugal
+grandisonous
 gospelwards
 germanophile
 greenwort
