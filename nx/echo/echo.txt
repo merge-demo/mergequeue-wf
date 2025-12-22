@@ -3669,7 +3669,6 @@ essaylet
 earlet
 embright
 entreprenant
-entombment
 epigrammatist
 endura
 exscinded
@@ -10777,6 +10776,7 @@ encrinus
 electrogilding
 exflagellate
 endosporic
+entombment
 eumycete
 eulogiums
 elaborating
