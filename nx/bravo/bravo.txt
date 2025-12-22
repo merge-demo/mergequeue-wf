@@ -5721,7 +5721,6 @@ bracted
 bebeast
 bemuzzles
 boilingly
-beliefless
 badman
 beliers
 belies
@@ -16441,6 +16440,7 @@ buttonholder
 bestick
 betrace
 botas
+beliefless
 bouffage
 balbriggan
 batitinan
