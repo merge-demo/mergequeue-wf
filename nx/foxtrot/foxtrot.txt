@@ -5520,6 +5520,7 @@ fisc
 faked
 filionymic
 forbearingness
+forninst
 frowzy
 furbelowing
 fankle
@@ -8586,7 +8587,6 @@ fullfil
 fissionable
 fungating
 farmsteading
-forninst
 fricative
 flexor
 firedragon
