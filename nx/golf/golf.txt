@@ -3235,7 +3235,6 @@ ghosty
 gilgul
 goldenwing
 galoot
-greatish
 getatability
 gally
 graffage
@@ -8131,6 +8130,7 @@ gaspergous
 gynaeolater
 gummous
 gulfed
+greatish
 gloat
 glowflies
 granulators
