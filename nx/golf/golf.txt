@@ -2372,6 +2372,7 @@ ganisters
 gedds
 grampa
 granddaughterly
+gradely
 gentianal
 geminates
 gote
@@ -4691,7 +4692,6 @@ gallowglass
 guisard
 glycuronic
 glary
-gradely
 graecism
 goglet
 glissader
