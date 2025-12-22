@@ -3882,6 +3882,7 @@ environmental
 extracted
 endometry
 electroculture
+emictory
 exotheca
 emigrating
 enfeebled
@@ -12953,7 +12954,6 @@ examines
 erythrol
 expectantly
 expectation
-emictory
 exodoi
 exclusion
 equipartile
