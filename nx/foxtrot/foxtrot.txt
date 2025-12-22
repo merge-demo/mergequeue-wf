@@ -2883,7 +2883,6 @@ flog
 freighted
 fackins
 firefighters
-footstall
 fettucini
 fungiferous
 fistulate
@@ -5260,6 +5259,7 @@ funned
 flockier
 fideicommissa
 frostbird
+footstall
 falsedad
 fogy
 fockle
