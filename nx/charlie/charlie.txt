@@ -11330,7 +11330,6 @@ cwo
 checkups
 clothbound
 chlorocarbonate
-casualty
 chlorochromic
 chlorococcaceae
 cologned
@@ -12483,6 +12482,7 @@ circling
 chromocollotype
 chromocratic
 capetonian
+casualty
 chromoctye
 chromodermatosis
 chromogen
