@@ -3252,6 +3252,7 @@ eludible
 enswathes
 enfollow
 eluents
+expendables
 elul
 epidemic
 enoil
@@ -3809,7 +3810,6 @@ exscribe
 epistolizing
 eglandulose
 electroplax
-expendables
 emendandum
 extracolumella
 endodontically
