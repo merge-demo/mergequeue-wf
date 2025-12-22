@@ -3427,7 +3427,6 @@ flatbed
 fraternalist
 fender
 featliest
-frederica
 foreside
 fieriness
 fierte
@@ -7624,6 +7623,7 @@ festino
 fatalize
 farrier
 fossula
+frederica
 firehouse
 flisked
 felty
