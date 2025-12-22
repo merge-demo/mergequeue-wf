@@ -7886,7 +7886,6 @@ dewdropper
 dogteeth
 drillet
 dooryard
-dewflower
 distantly
 doxographer
 doh
@@ -10148,6 +10147,7 @@ deadly
 dingdonged
 deltidia
 dues
+dewflower
 diverticulate
 diploblastic
 defogging
