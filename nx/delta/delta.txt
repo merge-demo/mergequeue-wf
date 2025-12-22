@@ -8543,7 +8543,6 @@ dewfall
 diaphanously
 douglas
 diaphyseal
-discommodious
 dermographia
 diaphysis
 dracontiasis
@@ -16008,6 +16007,7 @@ double
 demos
 dotter
 detrimentality
+discommodious
 doubleheartedness
 doddypoll
 doubleyou
