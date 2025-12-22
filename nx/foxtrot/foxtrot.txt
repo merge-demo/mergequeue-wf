@@ -3549,6 +3549,7 @@ filariids
 forechoice
 flagellative
 foody
+foreloper
 funding
 forboding
 fairylands
@@ -10556,7 +10557,6 @@ fibration
 foreland
 fliping
 foughty
-foreloper
 favose
 feudalist
 funambulation
