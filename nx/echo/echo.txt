@@ -3253,7 +3253,6 @@ extroversively
 exaltedly
 eludible
 enswathes
-enfollow
 eluents
 expendables
 elul
@@ -9128,6 +9127,7 @@ embouchment
 entotympanic
 ethnoses
 epitela
+enfollow
 enlargements
 entwining
 endosiphuncle
