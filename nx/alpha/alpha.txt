@@ -993,7 +993,6 @@ abstractest
 adequacy
 abstraction
 apostoless
-abstractional
 abstractionist
 adviso
 azogreen
@@ -19244,6 +19243,7 @@ areach
 attractions
 antitarnish
 amaranthus
+abstractional
 autotypes
 areal
 albified
