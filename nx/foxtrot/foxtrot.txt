@@ -4712,7 +4712,6 @@ fucales
 fathomless
 firesideship
 fantasticate
-frettage
 fictation
 fruitfuller
 frumentarious
@@ -10390,6 +10389,7 @@ feedable
 feared
 frangipanis
 fatalist
+frettage
 forecatching
 fusoid
 flags
