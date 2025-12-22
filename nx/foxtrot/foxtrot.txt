@@ -4732,7 +4732,6 @@ frederic
 fricatrice
 fumers
 flacianist
-fife
 foresey
 forerank
 faldfee
@@ -7756,6 +7755,7 @@ fauvist
 facer
 fanfaronade
 fullerboard
+fife
 flower
 flanes
 firearms
