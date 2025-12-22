@@ -5442,6 +5442,7 @@ absorbs
 actinophone
 afterbirth
 antiutilitarian
+aciliate
 atmospheres
 afterblow
 aerarium
@@ -24573,7 +24574,6 @@ agedly
 aimable
 argentamine
 availabilities
-aciliate
 arthrodynia
 antineutrality
 availed
