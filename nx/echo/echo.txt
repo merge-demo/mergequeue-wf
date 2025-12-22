@@ -469,6 +469,7 @@ evector
 ecclesia
 enumerable
 ecclesiarchy
+elapsing
 extoll
 ecclesiast
 entrada
@@ -5043,7 +5044,6 @@ epidendron
 endia
 equerry
 endings
-elapsing
 emplace
 elaeomargaric
 enrolled
