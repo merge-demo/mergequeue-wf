@@ -2730,7 +2730,6 @@ geniture
 grenades
 geodesists
 gristmiller
-gliadins
 garn
 guillotine
 gader
@@ -4670,6 +4669,7 @@ galli
 gastroplenic
 gestes
 guttery
+gliadins
 gyrovagues
 gloy
 gaatch
