@@ -3544,6 +3544,7 @@ grogginess
 gantangs
 gigtree
 griffe
+gnathopod
 gents
 ghastily
 gottlieb
@@ -4196,7 +4197,6 @@ gienah
 gene
 graphomania
 grandfather
-gnathopod
 gosmore
 glotum
 gatchwork
