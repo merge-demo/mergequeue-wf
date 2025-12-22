@@ -1178,7 +1178,6 @@ glabrescent
 grinned
 gezerah
 guejarite
-gunja
 galipine
 gorilla
 guestless
@@ -9246,6 +9245,7 @@ glucagon
 gyroceran
 gemeled
 grazingly
+gunja
 grene
 grasper
 gueridon
