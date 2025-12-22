@@ -3947,6 +3947,7 @@ foreshown
 funneled
 farcical
 follyproof
+falsettos
 fossil
 footsteps
 founders
@@ -9076,7 +9077,6 @@ funnellike
 forbruise
 foxfires
 foederis
-falsettos
 folksinger
 feedbag
 fizzled
