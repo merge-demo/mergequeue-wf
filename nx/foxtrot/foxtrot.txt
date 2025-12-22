@@ -86,7 +86,6 @@ fortuitously
 faces
 folkright
 flattening
-flowerfence
 foliobranch
 fiendish
 flagrantness
@@ -3283,6 +3282,7 @@ filopodium
 fiddlestick
 frambesia
 farsight
+flowerfence
 fivescore
 flounces
 ferrelled
