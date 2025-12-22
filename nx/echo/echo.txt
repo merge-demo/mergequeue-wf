@@ -706,6 +706,7 @@ earthsets
 electrotrephine
 esocyclic
 ened
+expresses
 ecology
 eromania
 encephalolith
@@ -3360,7 +3361,6 @@ endodermis
 ecdyses
 eyry
 eulogic
-expresses
 environed
 elegies
 encheer
