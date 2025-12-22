@@ -9764,6 +9764,7 @@ amicabilities
 amperage
 amalgamization
 anaphase
+attainor
 amalic
 argosine
 aircrews
@@ -23073,7 +23074,6 @@ acholic
 attainders
 asfast
 attainment
-attainor
 acridium
 attainted
 asepticized
