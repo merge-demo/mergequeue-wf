@@ -3157,7 +3157,6 @@ forbearing
 fibromyotomy
 feuding
 frigorimeter
-fibromuscular
 farmer
 formule
 felworts
@@ -7018,6 +7017,7 @@ fictionistic
 fusees
 fichtelite
 floriferousness
+fibromuscular
 finagled
 flagellate
 fumade
