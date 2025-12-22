@@ -5709,6 +5709,7 @@ gybed
 glossinas
 gertrude
 glowbard
+gilbertine
 gurneyite
 gerres
 gloveress
@@ -6215,7 +6216,6 @@ grimacier
 goatfishes
 gigmanic
 gytrash
-gilbertine
 grooved
 gregor
 garrisoned
