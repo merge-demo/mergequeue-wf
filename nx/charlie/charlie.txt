@@ -5915,7 +5915,6 @@ catenoid
 cacozyme
 capuli
 conveyances
-contiguous
 cubistically
 caterbrawl
 catercap
@@ -6380,6 +6379,7 @@ causator
 cuffing
 cuprosilicon
 cause
+contiguous
 caused
 cyllosis
 causey
