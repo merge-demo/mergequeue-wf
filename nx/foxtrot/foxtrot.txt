@@ -691,6 +691,7 @@ forzandos
 fobs
 firebolted
 farmstead
+fistnote
 forenotion
 farcemeat
 ferromagnetic
@@ -6307,7 +6308,6 @@ freak
 fluxibility
 flummer
 flickerproof
-fistnote
 funori
 fettling
 fusionism
