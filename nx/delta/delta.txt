@@ -1390,6 +1390,7 @@ demilitarize
 dispel
 downdale
 dismain
+drubbly
 demonomanie
 dorsiflexor
 digitals
@@ -15738,7 +15739,6 @@ diaxonic
 disyntheme
 dater
 dicht
-drubbly
 dicyanine
 dogshore
 downlinked

@@ -4702,6 +4702,7 @@ companero
 chwana
 contrary
 comptoir
+craftsmen
 centerline
 carotinemia
 cronying
@@ -6559,7 +6560,6 @@ cavyyard
 caviled
 canmaker
 cavilingly
-craftsmen
 ceraunogram
 cronkness
 conrectorship
