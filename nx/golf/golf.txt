@@ -2919,6 +2919,7 @@ gee
 gelose
 gaylussite
 gobiiformes
+gerbil
 gwiniad
 glitter
 geocerite
@@ -7944,7 +7945,6 @@ gentilization
 gallantly
 grandads
 goracco
-gerbil
 grandaunt
 gheg
 glairy
