@@ -3890,7 +3890,6 @@ bristlemouth
 birthbed
 butterers
 bullpouts
-babus
 bawdrics
 bawdries
 boreal
@@ -9710,6 +9709,7 @@ bizes
 benj
 boondogglers
 ballywrack
+babus
 bisques
 bigotedness
 bacchanalianly
