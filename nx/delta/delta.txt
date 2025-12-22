@@ -1289,6 +1289,7 @@ dumpings
 decoloured
 daubreite
 degaussing
+detacwable
 dobsons
 dinitro
 densified
@@ -17687,7 +17688,6 @@ duodenojejunal
 duarch
 decarburizing
 discommons
-detacwable
 delsarte
 deputization
 duarchy
