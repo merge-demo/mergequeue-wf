@@ -7020,6 +7020,7 @@ gumshoes
 glazier
 glamorizes
 grillade
+gunfought
 grindle
 gomart
 gigameter
@@ -7595,7 +7596,6 @@ gheraoes
 grille
 glycosaemia
 gambians
-gunfought
 grab
 guanamine
 gullibility
