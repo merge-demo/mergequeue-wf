@@ -6273,7 +6273,6 @@ flared
 fissiparation
 fortissimos
 footlock
-fearnought
 fakirism
 forceful
 fluidounce
@@ -11448,6 +11447,7 @@ fusible
 fistinut
 fluorbenzene
 fideles
+fearnought
 flic
 frayedly
 furcule
