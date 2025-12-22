@@ -998,7 +998,6 @@ fulmina
 fucuses
 femes
 foreplan
-formate
 foreorder
 fenester
 flustrating
@@ -9896,6 +9895,7 @@ folksey
 flitching
 fraghan
 frits
+formate
 friskier
 folliculous
 foliaceousness
