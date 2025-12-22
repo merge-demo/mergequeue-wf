@@ -17947,6 +17947,7 @@ chromosphere
 contractibility
 coeff
 coefficients
+canoe
 coelacanth
 coelacanthidae
 coelacanthous
@@ -22112,7 +22113,6 @@ chowders
 conformationally
 couvert
 conformations
-canoe
 cedrium
 conformator
 conformed
