@@ -5285,6 +5285,7 @@ begem
 bridesmaiding
 bestseller
 blankbook
+boatage
 bloods
 begetter
 bronzed
@@ -11639,7 +11640,6 @@ bacchus
 boasts
 bryologist
 bosket
-boatage
 bacterioscopical
 buttercup
 barspoon
