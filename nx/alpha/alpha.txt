@@ -231,6 +231,7 @@ abbotric
 allokinesis
 alchemistical
 adipolytic
+animality
 ajourise
 aeroliths
 absorptiometric
@@ -10259,7 +10260,6 @@ allice
 adhort
 amomales
 ameliorations
-animality
 abessive
 amellus
 anthozooid

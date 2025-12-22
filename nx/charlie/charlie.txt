@@ -12521,7 +12521,6 @@ coincidences
 chromonematal
 cataphracti
 chromoparous
-chromophage
 chromophane
 coopee
 chromophil
@@ -29154,6 +29153,7 @@ cryobiologist
 criobolium
 courtman
 credit
+chromophage
 coelacanthini
 cacodorous
 crioceras
