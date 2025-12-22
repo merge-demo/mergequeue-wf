@@ -6993,7 +6993,6 @@ borderism
 bewelter
 besmirchers
 bactris
-bankfull
 besmooth
 besmooths
 betrust
@@ -13523,6 +13522,7 @@ boisterousness
 becursing
 backhanded
 butterbough
+bankfull
 bibliophile
 bra
 burdening
