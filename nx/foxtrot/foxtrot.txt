@@ -3619,7 +3619,6 @@ footmaker
 frisbees
 flook
 farmable
-fridstool
 frictionlessly
 flashing
 faintishness
@@ -5714,6 +5713,7 @@ flavins
 flirt
 fixatif
 footed
+fridstool
 flirtatiously
 flosculariidae
 flirtatiousness
