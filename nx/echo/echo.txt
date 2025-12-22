@@ -4430,7 +4430,6 @@ emitted
 encapsuled
 enure
 effectively
-encapsuling
 encaptivate
 essence
 expectorate
@@ -5430,6 +5429,7 @@ exuviated
 ecclesial
 engirdles
 ebonige
+encapsuling
 enfester
 ed
 equid
