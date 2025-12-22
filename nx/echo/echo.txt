@@ -2681,6 +2681,7 @@ electrostriction
 epizootiologic
 ejurate
 epitomizing
+escalin
 emong
 electrosurgery
 epididymovasostomy
@@ -7013,7 +7014,6 @@ eager
 entreats
 esophagopathy
 entrec
-escalin
 exiting
 effecting
 excisor
