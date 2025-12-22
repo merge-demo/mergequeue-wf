@@ -17557,7 +17557,6 @@ drumlinoid
 decelerated
 dactylate
 diatomous
-dactyls
 drumlins
 dorsiferous
 diciest
@@ -17654,6 +17653,7 @@ dilogy
 dialectally
 dorsalis
 detoxicating
+dactyls
 delivered
 diclinism
 dagame
