@@ -4858,6 +4858,7 @@ flagstick
 flagworm
 fandangle
 feramorz
+firelike
 fittedness
 florida
 flivvers
@@ -9980,7 +9981,6 @@ frigoric
 futureless
 fed
 feracity
-firelike
 frigotherapy
 facial
 fibrosities
