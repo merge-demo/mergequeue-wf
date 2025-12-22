@@ -1980,7 +1980,6 @@ byplace
 bulbous
 bombard
 ballocks
-basilicas
 bangkok
 bacteriogenous
 bangladesh
@@ -16735,6 +16734,7 @@ bucktooth
 bronchovesicular
 bucktoothed
 bountyless
+basilicas
 bicameralist
 bucku
 babehood
