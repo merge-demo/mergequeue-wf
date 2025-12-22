@@ -7609,7 +7609,6 @@ epiclinal
 enteric
 epicoele
 elkesaite
-extolment
 espinos
 euchymous
 epicoelous
@@ -13905,6 +13904,7 @@ esthesio
 extrameridional
 extrametrical
 eccl
+extolment
 extramission
 erythrism
 excitosecretory
