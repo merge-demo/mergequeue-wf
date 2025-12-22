@@ -467,7 +467,6 @@ enanthesis
 expediteness
 evector
 ecclesia
-enumerable
 ecclesiarchy
 elapsing
 extoll
@@ -1114,6 +1113,7 @@ exploders
 exhibitorship
 epistolic
 erinite
+enumerable
 edwina
 extempory
 epeisodion
