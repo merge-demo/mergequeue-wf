@@ -4578,7 +4578,6 @@ fort
 fouldre
 familiarness
 fratricide
-fainaigued
 fisting
 faithfulness
 frictionize
@@ -5974,6 +5973,7 @@ fisk
 filleter
 fanwright
 ferguson
+fainaigued
 favism
 firkin
 fawn
