@@ -1213,7 +1213,6 @@ fashing
 fleeted
 fritt
 fiddley
-forediscern
 fascinate
 fixator
 fissure
@@ -6735,6 +6734,7 @@ fuchsinophil
 featherbed
 fluorescent
 forspeaking
+forediscern
 flamming
 fittest
 foiningly
