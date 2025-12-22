@@ -22376,7 +22376,6 @@ congresswomen
 congridae
 centigramme
 crescent
-cyclothymia
 cyclopedist
 cistaceous
 cortez
@@ -31437,6 +31436,7 @@ concinnated
 clotho
 curmudgeonish
 curmudgeonly
+cyclothymia
 colitoxemia
 curmudgeons
 churchdom
