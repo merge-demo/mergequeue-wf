@@ -435,7 +435,6 @@ fairway
 fulminate
 fragilariaceae
 fieldbird
-forebitt
 fays
 furthy
 faisan
@@ -1604,6 +1603,7 @@ favosely
 ferroaluminum
 formidability
 favosites
+forebitt
 fixings
 finer
 florae
