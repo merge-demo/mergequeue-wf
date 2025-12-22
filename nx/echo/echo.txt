@@ -413,6 +413,7 @@ enfolden
 epact
 eutrophic
 embayed
+endochrome
 excelsitude
 evangelist
 ebriose
@@ -11729,7 +11730,6 @@ examinant
 eschewer
 enscrolled
 estrepe
-endochrome
 encumbering
 equivocacies
 examinatorial
