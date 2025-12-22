@@ -4998,7 +4998,6 @@ gallantize
 gyrenes
 gingelis
 germanization
-genom
 ganof
 gurgoyl
 gastrelcosis
@@ -9920,6 +9919,7 @@ groundy
 gravelly
 grander
 grainsick
+genom
 gallop
 galiots
 glamorizing
