@@ -961,6 +961,7 @@ abstain
 abstainer
 ameland
 angoras
+afterpotential
 abstainers
 abstaining
 abstains
@@ -21621,7 +21622,6 @@ alkalizes
 acetometrically
 anisomerous
 assayable
-afterpotential
 argyroneta
 assayed
 aphonous
