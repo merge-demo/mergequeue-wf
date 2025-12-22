@@ -11893,7 +11893,6 @@ allergen
 ananta
 astraea
 antimasquerade
-anticriticalness
 altarist
 anammonide
 achterveld
@@ -23229,6 +23228,7 @@ alopathic
 attingency
 asked
 attingent
+anticriticalness
 anisognathous
 aggro
 autosuggestions
