@@ -889,6 +889,7 @@ gueparde
 glutathione
 geognost
 grassfire
+gleaminess
 gobioid
 gusseted
 goosebird
@@ -7635,7 +7636,6 @@ geomantic
 gradated
 gatecrasher
 grafts
-gleaminess
 geospiza
 gradationally
 grandeza
