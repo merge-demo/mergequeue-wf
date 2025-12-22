@@ -7257,6 +7257,7 @@ cappadine
 centriscus
 centrism
 clark
+cognosce
 cinemascope
 comite
 crispen
@@ -27956,7 +27957,6 @@ corvee
 cradleland
 captivatrix
 counterselection
-cognosce
 cradlemaker
 cradlemate
 camerlengos
