@@ -3209,6 +3209,7 @@ defend
 dikast
 dolmenic
 demimondaine
+dumps
 dissentient
 distrainor
 defendant
@@ -4424,7 +4425,6 @@ disentitle
 deterrently
 doctrinalism
 demesnial
-dumps
 decrypting
 deranger
 dysmenorrhoeal
