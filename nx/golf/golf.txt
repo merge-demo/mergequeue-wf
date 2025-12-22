@@ -968,7 +968,6 @@ genre
 galliferous
 gilgamesh
 grouting
-gagmen
 ganched
 gonotokont
 gerodontology
@@ -6731,6 +6730,7 @@ goniocraniometry
 grouters
 gaveller
 goniodoridae
+gagmen
 gnotobiote
 granitized
 gametophore
