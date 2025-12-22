@@ -1040,7 +1040,6 @@ garvock
 gerardias
 gorgonin
 gompholobium
-ganglioid
 galvanometry
 ganglioma
 gangliomas
@@ -1273,6 +1272,7 @@ grallina
 gnatsnapper
 ganges
 granch
+ganglioid
 gawkiness
 giddying
 gunnels
