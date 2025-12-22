@@ -7100,7 +7100,6 @@ centerer
 centerfold
 compania
 coofs
-chelators
 colonus
 centerfolds
 cretoria
@@ -11212,6 +11211,7 @@ chloralized
 commissioners
 chloralosed
 chloralum
+chelators
 chlorambucil
 contrasting
 chloramin
