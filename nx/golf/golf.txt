@@ -1892,6 +1892,7 @@ gogetting
 glochids
 glommox
 gubat
+gullied
 gastrozooid
 glaikit
 globulet
@@ -8609,7 +8610,6 @@ glucose
 geometrizing
 graziers
 gravidate
-gullied
 goslarite
 gregge
 guidwilly
