@@ -6290,6 +6290,7 @@ blurping
 benthic
 barbar
 bagfuls
+borane
 bevors
 benthoscope
 bemoat
@@ -11553,7 +11554,6 @@ blurredly
 beatifying
 basotho
 beauteously
-borane
 blurriness
 bloodlust
 blurringly
