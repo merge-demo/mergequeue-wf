@@ -1924,7 +1924,6 @@ bandor
 baaskaap
 bifidate
 biotechs
-brevipen
 bandore
 baselard
 balsa
@@ -9412,6 +9411,7 @@ baculiticone
 birdsnest
 bungfu
 bargehouse
+brevipen
 borak
 befitting
 basichromatic
