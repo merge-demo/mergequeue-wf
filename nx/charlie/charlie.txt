@@ -3294,6 +3294,7 @@ clingier
 crayfishing
 corregimiento
 capitoline
+cutthroats
 capitolium
 crabbit
 capitula
@@ -5829,7 +5830,6 @@ coyotillo
 coalfishes
 catechumenal
 catechumenism
-cutthroats
 concourses
 catechumens
 catechumenship
