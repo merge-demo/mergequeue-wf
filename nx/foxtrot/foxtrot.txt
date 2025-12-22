@@ -8365,7 +8365,6 @@ formicative
 forklift
 flebile
 forklike
-forswornness
 finickily
 foundations
 foliage
@@ -11609,6 +11608,7 @@ frack
 forewinning
 fulgour
 formulizer
+forswornness
 fragilely
 fermata
 fustics
