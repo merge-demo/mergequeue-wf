@@ -6544,7 +6544,6 @@ ehlite
 exhauster
 enwrapt
 earsore
-epaenetic
 entanglements
 extraplanetary
 egophonic
@@ -6709,6 +6708,7 @@ enterprize
 expertising
 entosclerite
 eulogiser
+epaenetic
 ecrevisse
 epulis
 espundia
