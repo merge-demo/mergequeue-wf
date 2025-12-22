@@ -7350,7 +7350,6 @@ evangeliser
 exosphere
 expulsing
 exile
-erinaceus
 eunomian
 environmentalism
 euchlorophyceae
@@ -10780,6 +10779,7 @@ endosporic
 eumycete
 eulogiums
 elaborating
+erinaceus
 emoting
 euskera
 esterases
