@@ -3212,6 +3212,7 @@ bromelia
 beadily
 basidia
 bloop
+bastite
 bangash
 basidigital
 bouteselle
@@ -3462,7 +3463,6 @@ badgerly
 bastions
 boughpot
 bef
-bastite
 brushfire
 brigade
 basto
