@@ -34,7 +34,6 @@ gabioned
 glutamate
 gmelina
 grammes
-gabions
 gynecologies
 gunfires
 genotypically
@@ -7526,6 +7525,7 @@ greathead
 guideless
 gatelike
 goliardery
+gabions
 greenbone
 gorbellies
 gymnast
