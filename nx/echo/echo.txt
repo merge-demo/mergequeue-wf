@@ -1379,6 +1379,7 @@ essentialness
 exomis
 evasional
 ebcdic
+expletive
 excludability
 ethylated
 enopla
@@ -7842,7 +7843,6 @@ ejaculator
 eddish
 epigoni
 entomotaxy
-expletive
 excardination
 encrinoid
 extirpationist
