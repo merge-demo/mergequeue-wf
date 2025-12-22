@@ -13295,7 +13295,6 @@ crossrow
 cyclohexanol
 crass
 cyclohexanone
-cyclohexyl
 cycloheximide
 chetverik
 communicants
@@ -28919,6 +28918,7 @@ crikey
 cryable
 cholestane
 cotans
+cyclohexyl
 cryanesthesia
 criant
 carbonigenous
