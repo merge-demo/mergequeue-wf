@@ -1205,7 +1205,6 @@ entitule
 education
 edulcorating
 enscroll
-ensweep
 educational
 extratracheal
 estipulate
@@ -3381,6 +3380,7 @@ extranormal
 emballonuridae
 eulachons
 essentialities
+ensweep
 equus
 energeticalness
 eternising
