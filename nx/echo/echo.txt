@@ -1506,7 +1506,6 @@ epics
 endosiphonate
 equippers
 eclegme
-escadrille
 effusively
 entasias
 effuviate
@@ -3932,6 +3931,7 @@ equationally
 endplates
 enanthem
 emmett
+escadrille
 existentialism
 ethnic
 explicitly
