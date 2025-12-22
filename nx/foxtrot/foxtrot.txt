@@ -255,7 +255,6 @@ forspend
 fidgets
 firepans
 fluviation
-forwhy
 florigenic
 founder
 feoffeeship
@@ -5605,6 +5604,7 @@ fossilation
 formulary
 fmt
 flyer
+forwhy
 forfar
 fingerwise
 federal
