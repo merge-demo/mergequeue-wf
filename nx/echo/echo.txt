@@ -1461,7 +1461,6 @@ engineeringly
 enteron
 euphuisms
 enarbour
-esconson
 electrophoresis
 eelpout
 effort
@@ -8128,6 +8127,7 @@ enhances
 exhumator
 episclera
 ell
+esconson
 expensilation
 ensanguined
 enaction
