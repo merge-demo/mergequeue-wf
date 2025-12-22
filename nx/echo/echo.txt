@@ -2817,6 +2817,7 @@ egyptological
 excalate
 ensnarling
 elenchi
+earbob
 elenchic
 elves
 elenchize
@@ -5183,7 +5184,6 @@ endoenzyme
 epitrochoid
 entresol
 elytrorrhaphy
-earbob
 epicarp
 encyclic
 erava
