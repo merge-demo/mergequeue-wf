@@ -6237,7 +6237,6 @@ farmerish
 fouettee
 finagler
 felloes
-freewheelers
 farmtown
 fluidic
 flapdragon
@@ -10510,6 +10509,7 @@ fortuities
 feodality
 featherback
 frotton
+freewheelers
 fum
 fascicularly
 fumelike
