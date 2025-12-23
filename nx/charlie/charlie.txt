@@ -29298,7 +29298,6 @@ cicoree
 calibration
 cryptococcosis
 chinband
-credent
 cryptococcus
 chouette
 cryptocurrency
@@ -30455,6 +30454,7 @@ catharized
 crow
 chlorine
 ctenidial
+credent
 ctenidium
 commiserating
 cosmopolitical
