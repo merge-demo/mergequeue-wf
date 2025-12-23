@@ -12042,7 +12042,6 @@ excoriations
 epiclike
 escaper
 electrostenolytic
-enforcible
 elflike
 exotoxins
 expurgatorial
@@ -12208,6 +12207,7 @@ engarb
 episynthetic
 excur
 ensigns
+enforcible
 epiphanizing
 extralateral
 elevener
