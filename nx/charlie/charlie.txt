@@ -5593,6 +5593,7 @@ conserved
 chantment
 catadrome
 chlorophaeite
+cichlid
 catadupe
 catafalco
 civilisation
@@ -13213,7 +13214,6 @@ clavellate
 ciceronianize
 ciceronically
 clearskins
-cichlid
 cichlidae
 colocynthin
 cicisbeism
