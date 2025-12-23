@@ -9634,6 +9634,7 @@ bishopdom
 baptists
 bilateral
 bishopling
+bakula
 biol
 bishopstool
 bishopweed
@@ -17280,7 +17281,6 @@ batling
 boltings
 bathflower
 birddom
-bakula
 braguette
 brite
 bumfuzzle
