@@ -3474,7 +3474,6 @@ gubernance
 gove
 gaveler
 geometers
-gudgeons
 gowl
 gelatinated
 gastrologer
@@ -6586,6 +6585,7 @@ gruis
 gawkiest
 geldesprung
 graduateship
+gudgeons
 gluconeogenetic
 gurgoyle
 genty
