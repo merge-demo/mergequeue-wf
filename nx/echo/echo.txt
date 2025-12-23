@@ -7915,7 +7915,6 @@ extensible
 exotospore
 entomeric
 exuccous
-exarchic
 etheling
 eidola
 enlargement
@@ -13300,6 +13299,7 @@ estoile
 espousers
 efformation
 eminences
+exarchic
 ethicalities
 eclipsareon
 extracosmic
