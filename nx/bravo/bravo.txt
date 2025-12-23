@@ -716,7 +716,6 @@ breeches
 backyard
 bogwort
 badgerer
-blundersome
 booking
 banana
 bevined
@@ -10379,6 +10378,7 @@ brawlingly
 besnows
 blancmanges
 behovely
+blundersome
 biggest
 boskets
 bramantip
