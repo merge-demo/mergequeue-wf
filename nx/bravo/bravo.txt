@@ -534,7 +534,6 @@ bafflingness
 barometrical
 backvelder
 blastodermic
-baufrey
 belch
 burnooses
 butyl
@@ -1985,6 +1984,7 @@ bangladesh
 bespatters
 blet
 bangled
+baufrey
 bangles
 beleave
 bias
