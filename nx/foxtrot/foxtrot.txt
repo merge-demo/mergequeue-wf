@@ -2560,6 +2560,7 @@ fingerbreadth
 fattier
 fouty
 franchiser
+frogstool
 fibrocytic
 ferrogoslarite
 fordam
@@ -10644,7 +10645,6 @@ foremark
 fusc
 frankness
 fiddlededee
-frogstool
 filtrability
 facultate
 fegatella
