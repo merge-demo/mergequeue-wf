@@ -3993,6 +3993,7 @@ edictum
 empathetic
 enfolded
 egalite
+estamp
 equiform
 extramodal
 empatron
@@ -5894,7 +5895,6 @@ entree
 engysseismology
 ethiops
 episyntheton
-estamp
 erasures
 erg
 engreaten

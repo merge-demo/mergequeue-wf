@@ -5335,7 +5335,6 @@ glegly
 galactosemia
 gulfier
 galvanoplastical
-glyconic
 grandiloquently
 glycopeptide
 galivant
@@ -6718,6 +6717,7 @@ gauges
 gyrostats
 glomerate
 globulimeter
+glyconic
 geyseral
 gurdfish
 gruine
