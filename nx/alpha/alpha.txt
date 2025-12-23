@@ -6972,6 +6972,7 @@ adobo
 aspirata
 aywhere
 aizoon
+alkenyl
 antitryptic
 atrioventricular
 arborist
@@ -8465,7 +8466,6 @@ alkedavy
 alkekengi
 alkene
 aroid
-alkenyl
 alkes
 awreck
 alkyd
