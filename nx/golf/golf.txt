@@ -3869,7 +3869,6 @@ giftwrapping
 gazeless
 gorgonesque
 gushing
-gruffed
 gardenwards
 gwely
 grant
@@ -5479,6 +5478,7 @@ guipure
 groundskeep
 glisk
 gapperi
+gruffed
 gastruran
 grangerising
 gemmier
