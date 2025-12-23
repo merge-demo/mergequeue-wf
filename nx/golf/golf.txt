@@ -1672,7 +1672,6 @@ gorkiesque
 gif
 gastrodermal
 gastrodermis
-gulfweed
 groundplot
 guayabo
 gastroduodenitis
@@ -7146,6 +7145,7 @@ giggler
 gastrotaxis
 gabelle
 glistering
+gulfweed
 geometrise
 guans
 gaffs
