@@ -9663,6 +9663,7 @@ enhancements
 elkhounds
 exsec
 explicability
+embedder
 extortionist
 encounterers
 evangelicalism
@@ -10726,7 +10727,6 @@ egriot
 eulachan
 ensulphur
 exhibiters
-embedder
 epornitic
 eulamellibranchiata
 electrical
