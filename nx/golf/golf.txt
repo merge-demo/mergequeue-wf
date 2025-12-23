@@ -981,7 +981,6 @@ goldhammer
 ganderess
 genethlialogy
 grimace
-gallberry
 geanticline
 gubernia
 grece
@@ -9522,6 +9521,7 @@ gorgeted
 gyred
 grimp
 giftbook
+gallberry
 gymnosporous
 granting
 guiltiness
