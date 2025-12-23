@@ -3765,7 +3765,6 @@ gieaway
 goggle
 greenfinch
 grumpishness
-goldang
 grus
 greycoat
 giants
@@ -8634,6 +8633,7 @@ gradal
 greyish
 gemsbok
 guttered
+goldang
 grip
 gladdy
 grantee
