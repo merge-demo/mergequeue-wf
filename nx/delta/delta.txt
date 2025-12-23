@@ -2160,6 +2160,7 @@ del
 ditheistic
 dehydration
 drowsing
+didelph
 dinguses
 decarbonated
 decarbonation
@@ -16608,7 +16609,6 @@ distr
 delegatus
 darkhearted
 dragonfishes
-didelph
 dragonflies
 deprecated
 didelphian
