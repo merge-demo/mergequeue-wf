@@ -5706,6 +5706,7 @@ demigods
 desterilized
 dialysed
 disposit
+depeopling
 deplenish
 dialup
 depleteable
@@ -13558,7 +13559,6 @@ divergence
 disseminations
 digredient
 dismeasured
-depeopling
 devotee
 dabster
 discretionary

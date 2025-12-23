@@ -5291,7 +5291,6 @@ glyoxilin
 glacialism
 granitical
 graveling
-geometries
 glycerin
 gamelan
 gromil
@@ -10463,6 +10462,7 @@ gneissy
 gerrymandered
 geistlich
 gastrolienal
+geometries
 graphitization
 gastroadenitis
 gusset
