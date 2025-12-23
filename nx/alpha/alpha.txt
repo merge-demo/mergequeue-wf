@@ -4829,7 +4829,6 @@ amoebous
 arkwright
 aerodermectasia
 aerodynamical
-aerodynamically
 astrolater
 appoggiatura
 apopetalous
@@ -21188,6 +21187,7 @@ alphabetics
 asemic
 asepses
 anagogical
+aerodynamically
 assiduate
 arginases
 atomicism
