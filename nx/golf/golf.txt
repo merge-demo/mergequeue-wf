@@ -4304,7 +4304,6 @@ gelsemia
 germicide
 gynetype
 gymnadenia
-glazieries
 glazings
 grieves
 grads
@@ -10860,6 +10859,7 @@ gravidation
 gweeon
 growlers
 geomagnetician
+glazieries
 gyri
 grozet
 guideress
