@@ -3604,7 +3604,6 @@ exemplifies
 extravehicular
 emulable
 embowelling
-egocentric
 esperantism
 exhibits
 expostulatingly
@@ -11995,6 +11994,7 @@ excavational
 expensed
 eryngium
 everyone
+egocentric
 enterfeat
 exampleship
 essentials
