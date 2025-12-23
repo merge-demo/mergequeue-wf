@@ -6944,6 +6944,7 @@ amphicribral
 alumnae
 assisters
 ancone
+atar
 airts
 aquila
 aitutakian
@@ -22510,7 +22511,6 @@ alw
 arranging
 atamosco
 azafrin
-atar
 atrociousness
 aggros
 autodidactically
