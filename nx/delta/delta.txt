@@ -8630,6 +8630,7 @@ debugging
 distilment
 dialyses
 diary
+dishelming
 diaglyph
 disimprove
 diarist
@@ -17014,7 +17015,6 @@ drepaniform
 disarmingly
 duckling
 destructory
-dishelming
 dressier
 dullest
 donned
