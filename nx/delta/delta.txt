@@ -14818,7 +14818,6 @@ diswarren
 decidua
 docs
 doctor
-dumontite
 doctored
 dashwheel
 defensive
@@ -15259,6 +15258,7 @@ demipriest
 depressanth
 dogsleep
 derotremate
+dumontite
 domicile
 dother
 dal
