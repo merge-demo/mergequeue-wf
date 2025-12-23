@@ -3038,7 +3038,6 @@ branglement
 bopping
 burgesses
 bartizans
-beigel
 belee
 beckons
 brimmers
@@ -13264,6 +13263,7 @@ barebacked
 bonducnut
 bedstaff
 bokard
+beigel
 brune
 bossily
 bowler
