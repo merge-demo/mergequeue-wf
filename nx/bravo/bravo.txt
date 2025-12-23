@@ -7217,7 +7217,6 @@ bagginess
 bestiary
 backdating
 burrawang
-byelorussia
 balnibarbi
 blastomeric
 bur
@@ -11622,6 +11621,7 @@ bolis
 brachyural
 biunivocal
 barche
+byelorussia
 boarspear
 balloter
 burns
