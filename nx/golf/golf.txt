@@ -2670,6 +2670,7 @@ gadgets
 gribbles
 grudgingness
 genghis
+gallingness
 geodiferous
 gabardines
 gravelous
@@ -5029,7 +5030,6 @@ girasoles
 gleetiest
 goofed
 ganders
-gallingness
 grovels
 garibaldi
 glider
