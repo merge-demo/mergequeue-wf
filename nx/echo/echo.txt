@@ -5237,7 +5237,6 @@ exitus
 elusive
 endolysin
 eparchy
-extermine
 equipluve
 equilibrate
 endomitosis
@@ -12322,6 +12321,7 @@ elaidate
 eulogizers
 erythroglucin
 effusiometer
+extermine
 emanators
 exerted
 encumbrous
