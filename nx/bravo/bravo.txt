@@ -6336,6 +6336,7 @@ badinerie
 biblic
 billbroking
 barrer
+biflex
 butment
 brike
 benzanthracene
@@ -8222,7 +8223,6 @@ biflagelate
 bewaring
 boring
 borrow
-biflex
 beginger
 bifluoride
 bifocal
