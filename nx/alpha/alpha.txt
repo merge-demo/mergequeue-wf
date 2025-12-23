@@ -1271,7 +1271,6 @@ ais
 acatalectic
 apomicts
 atelocardia
-acetocinnamene
 acatalepsy
 acatalepsia
 acataleptic
@@ -15803,6 +15802,7 @@ appropriament
 alkane
 acenesthesia
 agujon
+acetocinnamene
 asport
 antiphona
 aminobarbituric
