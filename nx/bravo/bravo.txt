@@ -17568,7 +17568,6 @@ bashkir
 bellonion
 bhima
 bobble
-bascule
 burgality
 beaufort
 bouses
@@ -17578,6 +17577,7 @@ biddance
 burgamot
 bootjacks
 balante
+bascule
 blayne
 blore
 belong
