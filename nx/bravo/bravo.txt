@@ -3917,7 +3917,6 @@ breadline
 baxtone
 brachyskelic
 boughten
-bazars
 bint
 brockage
 bazooka
@@ -7592,6 +7591,7 @@ burele
 bywalker
 brakeages
 bibliophage
+bazars
 bewhiten
 bifocals
 bedrivel
