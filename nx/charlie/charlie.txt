@@ -11546,6 +11546,7 @@ cecile
 coredeemed
 cratonic
 clipsheet
+cleuks
 clinkstone
 congelifraction
 chokerman
@@ -16032,7 +16033,6 @@ chremzel
 clethraceous
 crinoid
 clethrionomys
-cleuks
 cephaletron
 caleche
 comprizal
