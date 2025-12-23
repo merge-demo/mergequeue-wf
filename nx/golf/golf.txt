@@ -1076,7 +1076,6 @@ guarding
 graphicness
 gowdy
 goularo
-gormandizers
 genitives
 ganister
 giroflore
@@ -4046,6 +4045,7 @@ genesic
 ginorite
 giantish
 glum
+gormandizers
 gastritic
 grisettes
 gelatines
