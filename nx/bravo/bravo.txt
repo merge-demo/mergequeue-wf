@@ -13171,7 +13171,6 @@ borrowable
 barocyclonometer
 borrower
 borrowers
-bors
 butteriest
 barded
 belive
@@ -13235,6 +13234,7 @@ blemmyes
 botryoidal
 bosomed
 beading
+bors
 buzzers
 breatheableness
 bosonic
