@@ -2225,7 +2225,6 @@ eggwhisk
 electrics
 electrographic
 exedrae
-esthesia
 epistome
 expanded
 eldermen
@@ -7486,6 +7485,7 @@ excusal
 ebenaceae
 equisurface
 enif
+esthesia
 exorbitantly
 ephippia
 enfortune
