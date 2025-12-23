@@ -11189,7 +11189,6 @@ chlamydoselachidae
 chlamydozoan
 chlamyphore
 carroting
-chlamyphorus
 chlamyses
 congratulation
 chleuh
@@ -17220,6 +17219,7 @@ cestoidea
 coagulometer
 coagulose
 coahuiltecan
+chlamyphorus
 cantic
 coaid
 coaita
