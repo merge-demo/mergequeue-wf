@@ -7276,6 +7276,7 @@ alated
 alatern
 annoyers
 aeolharmonica
+authored
 alauda
 aphakic
 antihidrotic
@@ -23909,7 +23910,6 @@ anodine
 amphithurons
 astrict
 aurite
-authored
 angas
 arabizing
 agile
