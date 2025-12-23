@@ -4297,7 +4297,6 @@ dermophytic
 dem
 demagnetisation
 dovelet
-detraining
 divisiveness
 demagnetising
 diacranteric
@@ -9170,6 +9169,7 @@ diaglyptic
 didodecahedron
 didoes
 distraughted
+detraining
 didonia
 duodenas
 dihexahedron
