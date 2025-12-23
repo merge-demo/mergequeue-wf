@@ -4643,7 +4643,6 @@ galvanise
 gorillaship
 goatbush
 granulitic
-gammarid
 gunlocks
 gaudy
 guerinet
@@ -5434,6 +5433,7 @@ galactophlebitis
 gravidae
 gracelike
 griphosaurus
+gammarid
 golaseccan
 gingivitis
 geomancy
