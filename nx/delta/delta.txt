@@ -5797,6 +5797,7 @@ dovekeys
 decaliter
 deportability
 deportations
+digestedness
 decriminalized
 dissipatedly
 dewer
@@ -15408,7 +15409,6 @@ decarburization
 disserviceably
 derisions
 desperacy
-digestedness
 deforestation
 detoxify
 djebel
