@@ -13682,7 +13682,6 @@ dissympathize
 drupal
 dictatorialism
 diligency
-devious
 dermatocellulitis
 djellabas
 dyssynergy
@@ -16420,6 +16419,7 @@ dishpan
 dimorphous
 deviousness
 dozzle
+devious
 dozzled
 dr
 draba
