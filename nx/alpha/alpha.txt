@@ -17166,7 +17166,6 @@ aproctia
 apollinarian
 apollo
 apollonian
-author
 apollonic
 antalkaline
 apology
@@ -18701,6 +18700,7 @@ autocephality
 archbishopry
 archbishopric
 acroamata
+author
 awhet
 archbotcher
 aretes
