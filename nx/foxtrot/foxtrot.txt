@@ -2600,6 +2600,7 @@ fountainless
 frivol
 flashbacks
 filigreed
+flavours
 ferio
 farandmen
 foraminated
@@ -5257,7 +5258,6 @@ fabricable
 fomenter
 foresightedness
 ferricyanate
-flavours
 fimbriate
 feelinglessly
 fibrilation
