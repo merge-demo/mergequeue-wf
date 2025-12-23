@@ -5152,7 +5152,6 @@ effaced
 expositoriness
 earthmover
 evanishment
-endoconidia
 edificate
 epiplanktonic
 ejectives
@@ -12873,6 +12872,7 @@ extorting
 erastus
 expandible
 editions
+endoconidia
 envenoms
 echafaudage
 elucid
