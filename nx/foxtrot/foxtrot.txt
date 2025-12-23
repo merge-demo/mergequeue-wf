@@ -10736,7 +10736,6 @@ flat
 felup
 fomentation
 footrope
-fleeing
 flagstaves
 flirter
 fletches
@@ -11219,6 +11218,7 @@ funiculars
 funiform
 funje
 fount
+fleeing
 fustians
 flashcubes
 formful
