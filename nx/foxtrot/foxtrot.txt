@@ -5274,7 +5274,6 @@ flawful
 flawing
 flabbergasted
 footloose
-flawlessness
 fangy
 foamed
 floppily
@@ -6513,6 +6512,7 @@ freakishly
 flasque
 foetid
 floccose
+flawlessness
 frailish
 flutist
 firebed
