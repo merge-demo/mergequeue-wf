@@ -1585,6 +1585,7 @@ depayse
 daikering
 disinfector
 deadwork
+dextraural
 dorsum
 deaf
 dynamogenous
@@ -1653,7 +1654,6 @@ deaminase
 digitize
 daws
 daw
-dextraural
 deamination
 deaminize
 deammonation
