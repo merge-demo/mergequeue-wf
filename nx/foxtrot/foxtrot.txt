@@ -372,6 +372,7 @@ facsim
 fluids
 flowerily
 fattiness
+fluigramme
 flusterer
 faints
 forcedness
@@ -4413,7 +4414,6 @@ fishiness
 fenbank
 fraxin
 familistery
-fluigramme
 frogwort
 frenghi
 fraiser
