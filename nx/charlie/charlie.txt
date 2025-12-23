@@ -14878,7 +14878,6 @@ cordages
 cytomorphological
 cyton
 cytone
-chorda
 cadette
 chess
 cartmaker
@@ -27603,6 +27602,7 @@ carapus
 covinous
 covisitor
 conventicler
+chorda
 covite
 covolume
 catchpennies
