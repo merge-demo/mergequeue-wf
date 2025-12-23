@@ -5721,7 +5721,6 @@ gnomide
 glossocele
 graian
 gummoses
-grandmother
 gantline
 gallant
 gaskins
@@ -9450,6 +9449,7 @@ gorgeous
 gigues
 grumphies
 gallinulinae
+grandmother
 ganosis
 graciosos
 groundskeeping
