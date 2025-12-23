@@ -3143,7 +3143,6 @@ grangers
 girlhoods
 grudgefully
 glucina
-geopotential
 girlish
 gelosin
 grassplot
@@ -8866,6 +8865,7 @@ gowkit
 gynaecomastia
 great
 giantisms
+geopotential
 garboard
 grieved
 gateless
