@@ -5108,7 +5108,6 @@ anend
 aetat
 aethalium
 astragalectomy
-aglaspis
 aether
 aromacity
 ahrimanian
@@ -19291,6 +19290,7 @@ areng
 archpresbyter
 arenga
 another
+aglaspis
 axonometry
 anlas
 arenicolite
