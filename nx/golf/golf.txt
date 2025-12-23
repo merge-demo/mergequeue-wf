@@ -6284,6 +6284,7 @@ gobies
 guiser
 gallify
 gasogenes
+ginglymus
 gobiid
 gobylike
 gnashed
@@ -8511,7 +8512,6 @@ guardian
 gulpers
 genie
 gabling
-ginglymus
 gurging
 grouchingly
 grownups
