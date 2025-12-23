@@ -5039,7 +5039,6 @@ cabbagelike
 collaring
 cartware
 cabossed
-confervoid
 cartwheel
 coannex
 catarrhine
@@ -15942,6 +15941,7 @@ cleped
 clepsydra
 contorniate
 clepsine
+confervoid
 condemnatory
 cleptobioses
 conics
