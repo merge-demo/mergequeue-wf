@@ -1174,6 +1174,7 @@ fume
 forepass
 frighter
 foochowese
+flotson
 fovea
 fascist
 forgo
@@ -6117,7 +6118,6 @@ fundmongering
 freebies
 firestone
 fitchering
-flotson
 frightenedly
 fenster
 felsobanyite
