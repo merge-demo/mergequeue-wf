@@ -2699,7 +2699,6 @@ figpecker
 ficche
 fathomer
 frazer
-fantasts
 fiefs
 farcicalness
 flagitate
@@ -5995,6 +5994,7 @@ fumid
 fluidizing
 foreplays
 fawny
+fantasts
 fluidrachm
 fidia
 fireproof
