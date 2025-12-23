@@ -1443,7 +1443,6 @@ botuliform
 balinghasay
 bromeosin
 bridling
-balister
 boycottism
 balistes
 blatherskite
@@ -14663,6 +14662,7 @@ brasiletto
 brasilin
 bibliomancy
 balustrade
+balister
 balletically
 bogle
 broilingly
