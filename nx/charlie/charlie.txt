@@ -17802,7 +17802,6 @@ cocuswood
 coriparian
 carotenoid
 codal
-cerebrasthenia
 chalaza
 codamin
 coindwelling
@@ -30439,6 +30438,7 @@ cruzieros
 crwd
 crystallogenic
 cantaloupe
+cerebrasthenia
 carpetwork
 csch
 csect
