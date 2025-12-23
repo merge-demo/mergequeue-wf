@@ -6917,7 +6917,6 @@ beslaver
 balmony
 beshadowed
 briolette
-biplosive
 breediness
 betail
 baselessness
@@ -13705,6 +13704,7 @@ bombination
 barrenly
 betallow
 bookplate
+biplosive
 benighten
 buffy
 bouse
