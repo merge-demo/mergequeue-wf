@@ -2994,7 +2994,6 @@ barrios
 boulevard
 barrister
 bootless
-banda
 buat
 burrel
 barroom
@@ -4130,6 +4129,7 @@ blanchimeter
 bearding
 bonita
 balminess
+banda
 beslimer
 beards
 barbers
