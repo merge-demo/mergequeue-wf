@@ -1056,7 +1056,6 @@ dutra
 darner
 dipterad
 darners
-darning
 dewooled
 dimeters
 decarch
@@ -11455,6 +11454,7 @@ diverted
 discobolos
 dewiest
 disbelieving
+darning
 degassing
 downcomes
 dissuasive
