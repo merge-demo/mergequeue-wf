@@ -2792,6 +2792,7 @@ flaxiest
 frightfully
 funli
 fumigation
+fum
 forehood
 firsthand
 falcial
@@ -10515,7 +10516,6 @@ feodality
 featherback
 frotton
 freewheelers
-fum
 fascicularly
 fumelike
 firetail
