@@ -13382,7 +13382,6 @@ cycloramic
 coaling
 consonantly
 cyclorrhapha
-coulomb
 curatize
 cycloscope
 centuply
@@ -31509,6 +31508,7 @@ currying
 curricla
 currijong
 curring
+coulomb
 currock
 clupeoids
 culiciform
