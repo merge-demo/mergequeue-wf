@@ -4866,6 +4866,7 @@ carrack
 cymulose
 cycling
 corallita
+cassate
 carracks
 chronobarometer
 carragheenin
@@ -18496,7 +18497,6 @@ cohead
 celiorrhea
 coheading
 claviature
-cassate
 cessations
 cursor
 coheiress
