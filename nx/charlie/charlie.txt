@@ -10528,7 +10528,6 @@ chileanization
 caballeria
 chileans
 chylemia
-chyles
 chiliadron
 chiliads
 connexity
@@ -27253,6 +27252,7 @@ counterworker
 counterworking
 committee
 carminative
+chyles
 counting
 clothespress
 countinghouse
