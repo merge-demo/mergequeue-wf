@@ -4358,7 +4358,6 @@ fathomed
 fishability
 feltwork
 flybook
-fixion
 fishboats
 fonduk
 fishbolts
@@ -6896,6 +6895,7 @@ felafel
 fanakalo
 flintwood
 flosculous
+fixion
 frazed
 februaries
 feculence
