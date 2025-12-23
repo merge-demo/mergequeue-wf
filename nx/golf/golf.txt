@@ -2112,7 +2112,6 @@ gawm
 gaining
 gazabo
 guarantors
-galidia
 ganodus
 gormaw
 guarabu
@@ -6253,6 +6252,7 @@ guitarlike
 gregariousness
 guttural
 ghostiest
+galidia
 gconv
 gentle
 gulpin
