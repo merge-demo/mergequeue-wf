@@ -16634,6 +16634,7 @@ clops
 cantref
 coracopectoral
 cloque
+cleanhandedness
 cloques
 cathodically
 cimaroon
@@ -25709,7 +25710,6 @@ correllations
 corrente
 centigrado
 crumblingness
-cleanhandedness
 cistophoric
 coppiced
 crepitate
