@@ -2232,6 +2232,7 @@ gekkonid
 gristle
 gossipmongering
 galactase
+gitana
 gastrotome
 grifts
 glottology
@@ -8565,7 +8566,6 @@ gynecomasty
 garcons
 ganoidal
 gitoxigenin
-gitana
 grandada
 glasslike
 grouped
