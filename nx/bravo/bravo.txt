@@ -6527,7 +6527,6 @@ bequeathed
 blooping
 biokinetics
 bootlegged
-boson
 bartramiaceae
 bactericidin
 buckeyes
@@ -9792,6 +9791,7 @@ banderoles
 boos
 brigandish
 bisubstituted
+boson
 benzoquinone
 bisubstitution
 babblingly
