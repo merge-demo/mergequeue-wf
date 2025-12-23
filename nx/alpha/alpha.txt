@@ -7515,7 +7515,6 @@ anoopsias
 albuminorrhea
 albuminoscope
 acari
-anonyms
 anisodont
 albumins
 albuminurophobia
@@ -13292,6 +13291,7 @@ anisognathism
 anisoiconia
 amphodelite
 alcoholometry
+anonyms
 anorexia
 archiater
 abstemiously
