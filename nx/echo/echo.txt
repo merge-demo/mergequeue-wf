@@ -10204,7 +10204,6 @@ erased
 elytriform
 etesian
 epanodos
-exantlate
 ensporia
 externalisation
 exoticity
@@ -12279,6 +12278,7 @@ essenhout
 entremess
 errorless
 exemptions
+exantlate
 ephemerist
 eviternal
 exemptive
