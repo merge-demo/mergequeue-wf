@@ -1390,6 +1390,7 @@ gruffish
 gaits
 ganyie
 gallotannin
+gonidia
 gasified
 gausterer
 glossocomon
@@ -5318,7 +5319,6 @@ gingals
 glaived
 grittiness
 gourds
-gonidia
 glomerulate
 galactosemic
 galactoma
