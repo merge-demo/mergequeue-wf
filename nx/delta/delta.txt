@@ -1041,7 +1041,6 @@ disseises
 dispensers
 darksum
 domineers
-danalite
 decimeter
 dharmasutra
 darling
@@ -4199,6 +4198,7 @@ dasyurus
 delphin
 doeskin
 drabbish
+danalite
 delphine
 devels
 despiritualization
