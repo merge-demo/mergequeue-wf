@@ -7957,6 +7957,7 @@ galleons
 gingiva
 glycerol
 glaziery
+guanize
 goodyish
 gymnurinae
 guesdist
@@ -9889,7 +9890,6 @@ gagate
 gardenmaker
 ghoom
 glycerose
-guanize
 gamasid
 graticulation
 genders
