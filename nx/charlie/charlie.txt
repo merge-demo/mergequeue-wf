@@ -14306,7 +14306,6 @@ costal
 cardioids
 copplecrown
 canalside
-circumnutated
 circumnutation
 cooperatively
 circumorbital
@@ -29453,6 +29452,7 @@ crisscrossed
 crisscrosses
 crisset
 cryst
+circumnutated
 crystaling
 commentatorially
 cantharis
