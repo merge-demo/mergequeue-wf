@@ -1981,6 +1981,7 @@ checkered
 camera
 capitols
 counterwill
+cyclorama
 cumulose
 cyprinodont
 camerae
@@ -13379,7 +13380,6 @@ centerwise
 cyclopteroid
 compactification
 czarist
-cyclorama
 cycloramic
 coaling
 consonantly
