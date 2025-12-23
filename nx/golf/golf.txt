@@ -1558,6 +1558,7 @@ gassed
 gypsumed
 grana
 gentlemens
+gregarinida
 glaciologist
 gasser
 glutelin
@@ -6811,7 +6812,6 @@ glutimate
 gonococci
 glossopharyngeus
 gratuitous
-gregarinida
 gonococcocci
 gonopore
 gonocoele
