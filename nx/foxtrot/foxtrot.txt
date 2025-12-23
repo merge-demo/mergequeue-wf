@@ -1481,7 +1481,6 @@ fungillus
 faucre
 foreknowingly
 fruited
-faultiest
 fishmeal
 fairgoer
 fila
@@ -6810,6 +6809,7 @@ foraminiferan
 fikery
 feuille
 florula
+faultiest
 fragmentizer
 foretold
 fructifier
