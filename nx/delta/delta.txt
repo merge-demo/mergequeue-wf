@@ -9791,7 +9791,6 @@ dipsos
 dermatocyst
 dillesk
 denumerable
-deicer
 digesters
 dolabra
 dillydally
@@ -13138,6 +13137,7 @@ defamer
 dipeptidase
 diocese
 disperple
+deicer
 diadem
 deflourish
 decurved
