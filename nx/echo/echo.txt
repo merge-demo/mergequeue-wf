@@ -7914,6 +7914,7 @@ exotospore
 entomeric
 exuccous
 exarchic
+etheling
 eidola
 enlargement
 ethonone
@@ -12967,7 +12968,6 @@ expecter
 enzym
 encephalopyosis
 erminette
-etheling
 exposals
 emotion
 ensnarls
