@@ -1633,6 +1633,7 @@ ballots
 ballottement
 backlotter
 baronage
+barmaids
 bahamian
 byelorussians
 ballottines
@@ -8152,7 +8153,6 @@ bottle
 bindweeds
 bearess
 brutelike
-barmaids
 basidigitale
 bieberite
 brocked
