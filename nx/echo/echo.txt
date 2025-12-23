@@ -1001,7 +1001,6 @@ edaphology
 etymological
 edaphon
 ecchymotic
-expositors
 endorsing
 excel
 enquiring
@@ -7554,6 +7553,7 @@ epicedia
 encephalopathic
 earnie
 electronics
+expositors
 eastward
 epicedian
 epicedium
