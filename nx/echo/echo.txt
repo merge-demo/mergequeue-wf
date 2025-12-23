@@ -627,7 +627,6 @@ enchant
 ephesine
 enneaeteric
 empyreumatic
-epipaleolithic
 evincement
 eclamptic
 efficacious
@@ -1456,6 +1455,7 @@ ebbing
 electromassage
 effluviviums
 expressionlessly
+epipaleolithic
 endoenteritis
 erythroclastic
 erythroscope
