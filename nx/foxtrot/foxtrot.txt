@@ -4734,7 +4734,6 @@ farcies
 feuillage
 fulldo
 foxberries
-flag
 forestalment
 flammiferous
 furloughing
@@ -9458,6 +9457,7 @@ furcae
 familial
 fauld
 foeticide
+flag
 fico
 flamens
 fratry
