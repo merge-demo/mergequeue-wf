@@ -8913,6 +8913,7 @@ allomorphism
 allomorphite
 allonym
 alongst
+apprizement
 allonymous
 allonyms
 allonomous
@@ -18515,7 +18516,6 @@ achromate
 axiology
 arboresque
 aardwolf
-apprizement
 anyplace
 arborical
 arboricole
