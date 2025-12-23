@@ -9533,7 +9533,6 @@ birthstool
 birthwort
 bitnet
 brandreth
-breviger
 bakerdom
 bis
 borracha
@@ -9937,6 +9936,7 @@ bituminate
 bituminising
 burnbeat
 bucktail
+breviger
 bedivere
 babblative
 bana
