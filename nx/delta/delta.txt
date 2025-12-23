@@ -5224,7 +5224,6 @@ declaimers
 denunciations
 deputy
 denominations
-desired
 dicty
 dine
 dalasi
@@ -9440,6 +9439,7 @@ disworkmanship
 dibatag
 drunkelew
 doomfulness
+desired
 delaw
 demode
 doppelganger
