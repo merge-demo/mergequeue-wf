@@ -6241,7 +6241,6 @@ guerrillaism
 genitures
 gelfomino
 goave
-gormandizing
 gregorianizer
 gob
 greediness
@@ -10051,6 +10050,7 @@ gasking
 garnering
 gongman
 galette
+gormandizing
 gossypols
 guerison
 guerites
