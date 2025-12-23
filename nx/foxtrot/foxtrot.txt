@@ -401,7 +401,6 @@ fister
 fronde
 farcy
 ficoes
-frislet
 faq
 fibber
 firetrap
@@ -499,6 +498,7 @@ flaxweed
 foreconsider
 flyblown
 funbre
+frislet
 friz
 furstone
 fertilizing
