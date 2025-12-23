@@ -6737,7 +6737,6 @@ gametophore
 gagging
 grannie
 gripped
-geneticist
 georgic
 gulash
 graminivorous
@@ -10262,6 +10261,7 @@ guinness
 greyback
 gumbos
 getid
+geneticist
 grotianism
 gempylid
 gobinism
