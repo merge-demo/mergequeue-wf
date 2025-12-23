@@ -12310,7 +12310,6 @@ barratrous
 bombacaceae
 bombace
 behang
-bioscientist
 bombardiers
 bisulphite
 bombarding
@@ -14663,6 +14662,7 @@ bibliomancy
 balustrade
 balister
 balletically
+bioscientist
 bogle
 broilingly
 buffets
