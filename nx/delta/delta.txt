@@ -24,6 +24,7 @@ disa
 desmine
 dzeren
 deltiology
+detur
 dodkin
 dependance
 dabs
@@ -7494,7 +7495,6 @@ dovish
 dignosce
 discoverably
 demobbing
-detur
 deturpate
 decomposability
 demurity
