@@ -1108,7 +1108,6 @@ familiarizing
 fervidness
 fusileer
 frizzling
-fending
 farthing
 foresay
 fluffing
@@ -4271,6 +4270,7 @@ filacer
 facsimilist
 fibroma
 fiancee
+fending
 follicule
 fibster
 forefended
