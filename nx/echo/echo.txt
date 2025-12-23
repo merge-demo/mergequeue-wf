@@ -6106,7 +6106,6 @@ encomienda
 eugenic
 eulachon
 elasmosaur
-evanesce
 epifauna
 epirrhema
 eurystheus
@@ -7463,6 +7462,7 @@ embattling
 ellerian
 endoblastic
 eavesdroppers
+evanesce
 ephemerid
 ewe
 escobadura
