@@ -2215,7 +2215,6 @@ bodword
 bostonite
 bedrivelled
 barauna
-barba
 bagatine
 bayards
 boneheadedness
@@ -10107,6 +10106,7 @@ blackbine
 befrets
 blackback
 beadles
+barba
 blackballed
 beinked
 blanching
