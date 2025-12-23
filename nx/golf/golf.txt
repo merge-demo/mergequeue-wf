@@ -776,6 +776,7 @@ goose
 gracefullest
 ghrush
 gandergoose
+gorble
 girllikeness
 grinnellia
 gamashes
@@ -7118,7 +7119,6 @@ gorbelly
 gremio
 gagtooth
 garrulous
-gorble
 gorblin
 gorcocks
 gypsylike
