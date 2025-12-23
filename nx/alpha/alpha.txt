@@ -4093,7 +4093,6 @@ adnascent
 adnate
 absolvent
 alecithic
-antimonopoly
 adjudicates
 avell
 autobus
@@ -22314,6 +22313,7 @@ autosoteric
 abraders
 appair
 assorts
+antimonopoly
 astringed
 artlike
 agete
