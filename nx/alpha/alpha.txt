@@ -3018,7 +3018,6 @@ amtrac
 amphinucleus
 algin
 actinometrical
-accidie
 apercu
 actinometricy
 actinomyces
@@ -10882,6 +10881,7 @@ affronter
 allamoth
 antiphilosophy
 amerindic
+accidie
 allegorical
 amniocentesis
 amniochorial
