@@ -1100,7 +1100,6 @@ gallants
 guillotining
 gwyniad
 grivet
-granet
 giddier
 gesith
 ginnier
@@ -8969,6 +8968,7 @@ greenbul
 glenlivet
 gachupin
 guaiacums
+granet
 gastrocolpotomy
 gibbier
 gull
