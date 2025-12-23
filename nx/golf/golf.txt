@@ -2623,6 +2623,7 @@ genethliacal
 gabelled
 gruesomest
 gametophyte
+gahnite
 grendel
 geomorphist
 gypsyweed
@@ -3349,7 +3350,6 @@ gomorrean
 gaging
 gildhalls
 gonydial
-gahnite
 globed
 gasogen
 groovelike
