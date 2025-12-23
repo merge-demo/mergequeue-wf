@@ -5811,7 +5811,6 @@ divine
 diamondwork
 depositation
 dartlike
-disgorgement
 dreiling
 deformism
 deposito
@@ -8371,6 +8370,7 @@ dialycarpous
 dialin
 dialiness
 dilution
+disgorgement
 descensional
 divinify
 dialypetalous
