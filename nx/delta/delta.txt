@@ -4774,7 +4774,6 @@ demography
 denigrations
 dichotomically
 disemploys
-damosels
 demographically
 diptera
 divertissement
@@ -18617,6 +18616,7 @@ digitus
 debugger
 dysgnosia
 damselhood
+damosels
 dollarwise
 desightment
 dutchy
