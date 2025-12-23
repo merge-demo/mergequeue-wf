@@ -969,7 +969,6 @@ bobbing
 bakuninist
 bahutu
 besiren
-baya
 brissotine
 beinly
 buddh
@@ -4974,6 +4973,7 @@ beek
 balkers
 bioclimatologies
 beekeepers
+baya
 beekeeping
 bedight
 bosher
