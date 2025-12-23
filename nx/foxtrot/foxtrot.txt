@@ -5665,6 +5665,7 @@ fouett
 fuzz
 firking
 fountains
+flammable
 firebrands
 freeloader
 flingy
@@ -11498,7 +11499,6 @@ furunculous
 furzeling
 furzy
 fastest
-flammable
 flouncy
 fusariose
 fanfold
