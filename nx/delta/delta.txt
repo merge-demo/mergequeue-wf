@@ -2535,6 +2535,7 @@ disregarder
 declare
 dimers
 dudgen
+defogging
 drailing
 declaredly
 declares
@@ -10156,7 +10157,6 @@ dues
 dewflower
 diverticulate
 diploblastic
-defogging
 distraint
 downy
 deuteranomal
