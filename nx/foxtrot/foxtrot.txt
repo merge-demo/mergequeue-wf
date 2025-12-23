@@ -3272,7 +3272,6 @@ fluidrams
 ferrimagnetically
 foreknowable
 fieldpieces
-feudovassalism
 forefeet
 fungilliform
 filopodium
@@ -10323,6 +10322,7 @@ fraenula
 floodlighted
 foredoing
 fluoridized
+feudovassalism
 faceman
 fortiori
 frondless
