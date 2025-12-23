@@ -16653,7 +16653,6 @@ asyndeta
 alternipinnate
 assizement
 araby
-apertness
 acetomorphine
 abnormalism
 actionable
@@ -23982,6 +23981,7 @@ autocall
 antilogarithms
 apostatised
 alumnal
+apertness
 aryanization
 autocarp
 ambiences
