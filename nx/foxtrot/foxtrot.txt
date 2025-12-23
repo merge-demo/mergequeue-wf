@@ -4463,6 +4463,7 @@ finicism
 furler
 forerigging
 footstool
+fondues
 fishskin
 formidable
 frouzier
@@ -7009,7 +7010,6 @@ filla
 fluidism
 functor
 frittered
-fondues
 forestress
 frescoist
 fictionistic
