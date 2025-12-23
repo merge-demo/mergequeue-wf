@@ -1998,7 +1998,6 @@ elastics
 exothermal
 eagle
 economizing
-epigastriocele
 epitritic
 equiparable
 effetman
@@ -11033,6 +11032,7 @@ epigonichthys
 endosarcs
 enterrologist
 establish
+epigastriocele
 euroaquilo
 earthier
 ejaculators
