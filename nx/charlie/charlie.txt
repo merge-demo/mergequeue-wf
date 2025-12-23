@@ -1718,7 +1718,6 @@ calorimetry
 calorimetrical
 calorimetrically
 calorimotor
-calorist
 calorizing
 cawing
 calosoma
@@ -23665,6 +23664,7 @@ countableness
 contracyclical
 contractable
 contractant
+calorist
 contractation
 contractedness
 carbolise
