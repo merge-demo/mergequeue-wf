@@ -4652,7 +4652,6 @@ freety
 fayettism
 filicinean
 fearsome
-flatnose
 fiddled
 figurante
 flaunched
@@ -5608,6 +5607,7 @@ foster
 facund
 foetor
 fernery
+flatnose
 forepassed
 furtive
 fireboot
