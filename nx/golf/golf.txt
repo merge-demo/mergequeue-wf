@@ -5167,7 +5167,6 @@ gantsl
 grasslands
 gyrophoraceae
 graylags
-glyceride
 glb
 gastratrophia
 geckotian
@@ -8134,6 +8133,7 @@ guidebooks
 glyoxalin
 gobs
 genically
+glyceride
 gorsedd
 galactic
 grimed
