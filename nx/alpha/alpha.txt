@@ -3730,7 +3730,6 @@ adherency
 addiment
 aquashow
 adherent
-adherents
 archetypally
 adherers
 antiphonon
@@ -15004,6 +15003,7 @@ anticouncil
 archrepresentative
 antenati
 anticourtier
+adherents
 anticovenanter
 assishness
 amtmen
