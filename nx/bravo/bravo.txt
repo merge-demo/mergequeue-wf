@@ -3312,7 +3312,6 @@ branchway
 boobyism
 bookwork
 basipetal
-basipodite
 blank
 basipterygium
 baratheas
@@ -11954,6 +11953,7 @@ bloomiest
 branchiopneustic
 bogeymen
 brut
+basipodite
 betweens
 bolivianos
 begirdling
