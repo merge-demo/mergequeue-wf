@@ -6985,6 +6985,7 @@ cemetaries
 cemetery
 copesettic
 cemeterial
+cephalotomy
 catchpenny
 concours
 ceratinous
@@ -7447,7 +7448,6 @@ chalaziferous
 cephalotaxus
 conventicles
 cephalothoraxes
-cephalotomy
 corozo
 chippering
 cephalotractor
