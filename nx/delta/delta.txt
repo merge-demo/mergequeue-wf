@@ -10328,6 +10328,7 @@ ditton
 diopter
 dimethylnitrosamine
 diopters
+dismark
 decumary
 delf
 discounter
@@ -17836,7 +17837,6 @@ dunkirk
 dyophysitical
 diverb
 devoutless
-dismark
 denervate
 dabb
 desubstantialize
