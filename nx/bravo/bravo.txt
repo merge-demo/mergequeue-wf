@@ -5257,7 +5257,6 @@ basophils
 beaky
 bunkmate
 bowtie
-begarlanded
 baldpates
 bewired
 batzen
@@ -11271,6 +11270,7 @@ backlashes
 blower
 boomiest
 boaters
+begarlanded
 braver
 bullshits
 basketries
