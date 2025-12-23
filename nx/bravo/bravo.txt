@@ -10891,7 +10891,6 @@ ballgames
 budgeters
 bioflavonoid
 blin
-burnup
 beadledom
 biggity
 bibbling
@@ -15793,6 +15792,7 @@ brokage
 bulletin
 brokages
 broke
+burnup
 banande
 bihalve
 barebones
