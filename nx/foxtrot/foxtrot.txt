@@ -3251,6 +3251,7 @@ filbert
 freit
 fifteenthly
 fireburn
+friary
 fomenting
 flatware
 feelings
@@ -6580,7 +6581,6 @@ fortuitist
 flyboats
 falconiform
 franseria
-friary
 fomento
 flunkeyism
 feltness
