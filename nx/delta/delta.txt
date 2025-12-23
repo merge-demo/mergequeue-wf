@@ -2355,7 +2355,6 @@ doctorfish
 dechloridation
 dechloridize
 dendrites
-dechlorinate
 dillweed
 dysgenesis
 dechlorinated
@@ -4388,6 +4387,7 @@ demembre
 dastur
 disassembled
 dementation
+dechlorinate
 dementedly
 dementholize
 disseated
