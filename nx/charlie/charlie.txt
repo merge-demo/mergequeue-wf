@@ -9248,7 +9248,6 @@ ceduous
 chastiment
 chastise
 chastiser
-consulships
 clapperboard
 cheering
 corf
@@ -28682,6 +28681,7 @@ coplanar
 convergently
 cannophori
 crenelee
+consulships
 crenellated
 counterirritant
 culets
