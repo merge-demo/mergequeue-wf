@@ -1005,7 +1005,6 @@ featherheaded
 fluoborid
 feeblest
 farinas
-foglietto
 fascicles
 flexuose
 flatlong
@@ -9475,6 +9474,7 @@ fauld
 foeticide
 flag
 fico
+foglietto
 flamens
 fratry
 fountainheads
