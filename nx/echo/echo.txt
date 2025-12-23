@@ -1330,6 +1330,7 @@ endocardiac
 exopeptidase
 effective
 euryphagous
+extracolumella
 epimachinae
 entomologists
 extrapolating
@@ -3809,7 +3810,6 @@ epistolizing
 eglandulose
 electroplax
 emendandum
-extracolumella
 endodontically
 ensindon
 exclam
