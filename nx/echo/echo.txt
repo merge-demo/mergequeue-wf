@@ -5075,6 +5075,7 @@ eyelid
 editorialized
 endoaortitis
 endoappendicitis
+expo
 entoolitic
 economization
 emerited
@@ -13865,7 +13866,6 @@ extraneity
 ethiop
 executancy
 euglobulin
-expo
 etamine
 exosmosis
 emollient
