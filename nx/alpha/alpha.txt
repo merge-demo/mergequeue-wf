@@ -5177,6 +5177,7 @@ affectional
 affectionally
 affectionateness
 affectioned
+apetalousness
 appeal
 anemographic
 affections
@@ -22157,7 +22158,6 @@ asthenical
 arpeggiando
 arrowstone
 alumstone
-apetalousness
 archeology
 asthenolith
 asthenology
