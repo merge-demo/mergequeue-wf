@@ -5445,6 +5445,7 @@ famished
 foresummer
 feridjee
 fanatic
+farmerish
 fretsome
 fleeter
 fusionless
@@ -6250,7 +6251,6 @@ flatlet
 fiji
 forerunnership
 factotums
-farmerish
 fouettee
 finagler
 felloes
