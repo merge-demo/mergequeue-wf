@@ -5423,7 +5423,6 @@ endothermal
 endothermy
 ectopatagia
 erthling
-echinocactus
 electively
 evangelium
 endotys
@@ -10681,6 +10680,7 @@ ensigning
 embraced
 endopleural
 euripus
+echinocactus
 erebus
 euglenoid
 electrotypic
