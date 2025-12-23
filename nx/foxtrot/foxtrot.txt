@@ -192,7 +192,6 @@ furnarius
 flier
 factorable
 fasciolidae
-flimsies
 forcut
 factoryship
 floatiness
@@ -1043,6 +1042,7 @@ folates
 farmership
 flypaper
 formicarian
+flimsies
 frieda
 focalization
 flopper
