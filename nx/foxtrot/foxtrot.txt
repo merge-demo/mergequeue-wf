@@ -1970,6 +1970,7 @@ feedstock
 floccosely
 firespout
 forerake
+flippest
 fitched
 flossflower
 fortunel
@@ -2297,7 +2298,6 @@ fritter
 fensive
 faulkland
 favoring
-flippest
 falbalas
 frillings
 fecula
