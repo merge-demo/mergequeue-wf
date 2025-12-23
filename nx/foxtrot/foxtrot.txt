@@ -9213,6 +9213,7 @@ foreskins
 faroff
 frostproofing
 fulfulde
+freightment
 forward
 filices
 filenames
@@ -11069,7 +11070,6 @@ fractionated
 forficated
 fumariaceous
 flocs
-freightment
 flense
 fidessa
 footrace
