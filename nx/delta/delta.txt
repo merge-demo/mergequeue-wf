@@ -1299,6 +1299,7 @@ daubreite
 degaussing
 detacwable
 dobsons
+duodecahedron
 dinitro
 densified
 dryermen
@@ -2802,7 +2803,6 @@ dari
 decresc
 desalination
 delphinus
-duodecahedron
 decrescent
 deknight
 decretalist
