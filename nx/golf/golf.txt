@@ -1463,7 +1463,6 @@ gradualness
 gangliocyte
 guydom
 gossypine
-gasboat
 grouter
 gaselier
 golet
@@ -9588,6 +9587,7 @@ gneissoid
 guester
 grovellings
 growan
+gasboat
 gogmagog
 gravelike
 gossiphood
