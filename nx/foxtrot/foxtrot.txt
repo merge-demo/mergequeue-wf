@@ -8868,6 +8868,7 @@ folia
 fleuron
 fibrinoplastic
 filiopietistic
+facilities
 fotmal
 folkvang
 forum
@@ -11479,7 +11480,6 @@ fishified
 foothill
 ferrite
 foredescribe
-facilities
 figural
 finnmarks
 facades
