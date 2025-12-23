@@ -4967,7 +4967,6 @@ glabreity
 girondist
 groundwards
 glamors
-geldable
 granddada
 granita
 gainst
@@ -7340,6 +7339,7 @@ gunation
 globe
 galactin
 geologist
+geldable
 gymnospermic
 gaggler
 gluon
