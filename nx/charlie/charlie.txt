@@ -12497,7 +12497,6 @@ chamaenerion
 candelabra
 cerebralize
 chromoleucite
-chromolipoid
 clayen
 choleinic
 clarioned
@@ -23985,6 +23984,7 @@ calisthenic
 cytogenesis
 consubstantial
 cannibalize
+chromolipoid
 conveyorizing
 conveyors
 creamsacs
