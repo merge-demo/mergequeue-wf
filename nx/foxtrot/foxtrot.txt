@@ -3718,6 +3718,7 @@ fake
 fulcral
 forkiness
 flotilla
+formants
 fillipeen
 formanilide
 foregirth
@@ -4041,7 +4042,6 @@ finitism
 frankest
 finitive
 felapton
-formants
 foppishness
 finitude
 flushable
