@@ -3175,6 +3175,7 @@ bashyle
 balanopsidales
 baka
 bilabial
+balancer
 baptisin
 bataleur
 bashmuric
@@ -3815,7 +3816,6 @@ bondoc
 baboon
 browsing
 bescorched
-balancer
 bristlecone
 beerish
 benzole
