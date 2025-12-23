@@ -3257,7 +3257,6 @@ erects
 enclitical
 encephalotomy
 eyesore
-entrench
 episcleral
 emancipates
 esophagospasm
@@ -14129,6 +14128,7 @@ epithamia
 electrooptic
 endosternite
 embusqu
+entrench
 endosiphonal
 extensory
 episcopates
