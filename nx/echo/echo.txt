@@ -11196,7 +11196,6 @@ evanescible
 evanescing
 exorbitancy
 expilation
-exostracism
 endover
 electrotonicity
 experimentalist
@@ -12651,6 +12650,7 @@ earldom
 esophagostomy
 encratism
 exogenously
+exostracism
 examplar
 exogyra
 enterogram

@@ -9004,7 +9004,6 @@ allotriomorphic
 allotriophagy
 acrimony
 aefauld
-anserin
 allotriophagia
 allotropic
 ailanthus
@@ -20863,6 +20862,7 @@ avenery
 archmock
 amplifiable
 actium
+anserin
 allecret
 antick
 asa
