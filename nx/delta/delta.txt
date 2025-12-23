@@ -4670,7 +4670,6 @@ denationalizing
 demitint
 demitoilet
 deteriorated
-demitranslucence
 demits
 demitted
 denticulately
@@ -8107,6 +8106,7 @@ diabetes
 debeaker
 duodial
 dentex
+demitranslucence
 developpes
 distributions
 dulosis
