@@ -2260,6 +2260,7 @@ bioecology
 birdclapper
 bannerwise
 bats
+bigmouths
 blastment
 barbarized
 beleaping
@@ -3587,7 +3588,6 @@ berkeleyite
 bien
 bathysophical
 bathysphere
-bigmouths
 boliviano
 bathythermograph
 bathkol
