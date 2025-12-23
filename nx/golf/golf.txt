@@ -2774,7 +2774,6 @@ gentianella
 gregatim
 gadhelic
 gung
-granulitic
 grabbled
 garbs
 garnished
@@ -4647,6 +4646,7 @@ gyrating
 galvanise
 gorillaship
 goatbush
+granulitic
 gammarid
 gunlocks
 gaudy
