@@ -8450,7 +8450,6 @@ eponym
 etiolate
 eponymus
 ensand
-email
 epicier
 enthronizing
 elkhorn
@@ -12456,6 +12455,7 @@ ependyme
 ext
 elocutionists
 exigences
+email
 encouragers
 eczematosis
 entomophthorous
