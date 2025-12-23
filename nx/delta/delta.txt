@@ -8788,7 +8788,6 @@ dialoguer
 deuterodome
 diazins
 dulcifying
-declarators
 defeat
 defrocking
 dictaphone
@@ -17253,6 +17252,7 @@ dictyogenous
 degausses
 dishable
 desulphurated
+declarators
 debt
 disseizee
 droghlin
