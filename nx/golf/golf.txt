@@ -878,7 +878,6 @@ gametangia
 gerontomorphosis
 grillwork
 gotha
-gametocyst
 glycoluril
 gametocyte
 grayout
@@ -4389,6 +4388,7 @@ galvanoscope
 ginhouse
 gooselike
 gelidiaceae
+gametocyst
 gangrene
 goldfinches
 gyron
