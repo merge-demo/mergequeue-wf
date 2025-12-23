@@ -3990,7 +3990,6 @@ bantlings
 bestsellers
 barytes
 brand
-bnf
 bespy
 beaching
 beachman
@@ -12496,6 +12495,7 @@ bonify
 bdls
 betaines
 brawniness
+bnf
 bondstone
 burntness
 bather
