@@ -13315,7 +13315,6 @@ abcess
 anorexic
 aquilawood
 albatross
-artery
 aproning
 anisomyarian
 anisomyodous
@@ -15985,6 +15984,7 @@ antiquation
 adnex
 accomplishing
 autoloading
+artery
 amphispore
 antirabies
 aponeurositis
