@@ -785,7 +785,6 @@ fatality
 froster
 forensicality
 flipe
-flea
 floosy
 fustanelle
 fantasticalness
@@ -2919,6 +2918,7 @@ farfetch
 fluellite
 flyoff
 filialness
+flea
 facier
 fooleries
 flukiness
