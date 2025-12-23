@@ -476,7 +476,6 @@ ecclesiast
 entrada
 expostulated
 empasm
-envelopers
 exody
 etesians
 endoconidium
@@ -2517,6 +2516,7 @@ epicleses
 endexines
 ecocide
 emotionalise
+envelopers
 electroing
 electrokinetic
 eluviate
