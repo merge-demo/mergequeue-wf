@@ -7523,7 +7523,6 @@ deuteranomaly
 deuteranope
 deuterate
 deuteration
-denucleate
 demarcator
 desulfurized
 digitalizing
@@ -13015,6 +13014,7 @@ dollarfishes
 disoxygenation
 dioscuri
 debacchate
+denucleate
 dight
 distater
 dispand
