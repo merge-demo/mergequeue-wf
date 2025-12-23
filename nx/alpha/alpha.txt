@@ -5922,7 +5922,6 @@ amatol
 antiroll
 anatman
 aggrege
-allopathy
 amphigoric
 appraisable
 anergia
@@ -18581,6 +18580,7 @@ arcading
 aggravate
 atomical
 arctogaean
+allopathy
 antipatriarchally
 allurer
 antitragi
