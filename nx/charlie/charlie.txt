@@ -11727,6 +11727,7 @@ chirrups
 creekstuff
 cholum
 clavicor
+collaborative
 cladistic
 choluria
 copygraphed
@@ -18929,7 +18930,6 @@ collaborates
 collaborating
 celibataire
 collaborationists
-collaborative
 collaboratively
 clomping
 clothworker
