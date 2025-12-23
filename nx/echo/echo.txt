@@ -11088,7 +11088,6 @@ eusthenopteron
 electros
 espies
 esquiredom
-encage
 entune
 emulated
 emblemish
@@ -13214,6 +13213,7 @@ explainableness
 eductor
 epiphytism
 eldred
+encage
 exheredate
 excluders
 exoarteritis
