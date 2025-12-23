@@ -2516,7 +2516,6 @@ gumshield
 gradatim
 gastroenterocolitis
 gladite
-guttifer
 grattoir
 genecology
 guanidopropionic
@@ -10187,6 +10186,7 @@ glade
 glaucium
 goalies
 gladiolar
+guttifer
 guids
 guidwife
 groundly
