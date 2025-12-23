@@ -5552,7 +5552,6 @@ counterwrite
 congaing
 catachreses
 catachresis
-catachrestic
 chalices
 cercariae
 condemner
@@ -12489,6 +12488,7 @@ chromoctye
 chromodermatosis
 chromogen
 chromogene
+catachrestic
 chromogenesis
 cingulate
 chamaecrista
