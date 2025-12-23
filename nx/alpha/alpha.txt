@@ -10926,7 +10926,6 @@ admin
 atwin
 acquainted
 arched
-amoebaeum
 athogen
 amoebalike
 amoebas
@@ -18544,6 +18543,7 @@ androseme
 arborous
 arborvitaes
 arcticwards
+amoebaeum
 amidine
 arrises
 attitudes
