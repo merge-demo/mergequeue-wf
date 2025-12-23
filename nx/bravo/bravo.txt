@@ -3077,7 +3077,6 @@ brahman
 bacterization
 biocoenose
 breachy
-barwal
 bannack
 blague
 benzophenoxazine
@@ -17362,6 +17361,7 @@ brennage
 bundled
 boardmen
 bundler
+barwal
 boudeuse
 bottleneck
 badged
