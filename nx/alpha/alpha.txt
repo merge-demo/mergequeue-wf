@@ -915,7 +915,6 @@ antiopium
 apostrophi
 absolutist
 absolutize
-absolutory
 absolvatory
 absolves
 absolving
@@ -1471,6 +1470,7 @@ arhythmical
 autopolyploidy
 acclinate
 amidocyanogen
+absolutory
 admittatur
 acclivities
 antlerless

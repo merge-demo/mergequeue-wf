@@ -6364,7 +6364,6 @@ divorcing
 duras
 dejeune
 dermophobe
-duodenum
 dermosclerite
 deco
 dermotropic
@@ -10998,6 +10997,7 @@ dithiobenzoic
 duoliteral
 discongruity
 durindana
+duodenum
 dutifulness
 disagreeing
 disagreements
