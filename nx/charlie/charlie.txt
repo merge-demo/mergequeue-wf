@@ -737,6 +737,7 @@ conchology
 cabooses
 cage
 caged
+coreless
 commiserated
 contractual
 cageful
@@ -25216,7 +25217,6 @@ creakingly
 chalastic
 corindon
 corynebacteria
-coreless
 coryneform
 corineus
 candelabrums
