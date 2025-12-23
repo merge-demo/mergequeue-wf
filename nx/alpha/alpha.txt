@@ -5868,7 +5868,6 @@ agglutinative
 adamantine
 agglutinatively
 aarrghh
-agamobium
 agglutinize
 anathematization
 agglutinogen
@@ -10100,6 +10099,7 @@ azedarach
 anthropogeny
 allheals
 absinthe
+agamobium
 amorphous
 amboynas
 ambomalleal
