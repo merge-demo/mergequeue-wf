@@ -11334,7 +11334,6 @@ amphore
 admedian
 aquifers
 antiplatelet
-amphoteric
 aircrewman
 antonina
 ampyxes
@@ -22873,6 +22872,7 @@ accubation
 adventism
 anorthic
 affranchising
+amphoteric
 aunters
 atomised
 archtreasurership
