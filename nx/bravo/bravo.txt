@@ -10940,6 +10940,7 @@ blinkards
 bowses
 basta
 beaneries
+brachystomata
 beckets
 bartonia
 brooms
@@ -13190,7 +13191,6 @@ bastardised
 boschneger
 boneen
 brigue
-brachystomata
 bender
 begemmed
 boschveld
