@@ -24223,7 +24223,6 @@ crinoidal
 convoluting
 convolution
 convolutional
-convolutions
 convolve
 ceratothecae
 cringingly
@@ -29210,6 +29209,7 @@ cryosurgeon
 cryosurgery
 cryptogamia
 cryosurgical
+convolutions
 crenelating
 colluvia
 coaming
