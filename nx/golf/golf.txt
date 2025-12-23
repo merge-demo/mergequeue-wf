@@ -8812,7 +8812,6 @@ gunslinger
 garbles
 guileful
 generable
-goodenoviaceae
 gablock
 glaiket
 gasterophilus
@@ -9576,6 +9575,7 @@ gymnostomata
 galactopoiesis
 giftlike
 geophones
+goodenoviaceae
 granted
 gazed
 gynecologist
