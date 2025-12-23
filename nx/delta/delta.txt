@@ -7262,7 +7262,6 @@ delubrum
 deverbative
 desolately
 disnatured
-dux
 dyingly
 dicotyl
 dimetric
@@ -13936,6 +13935,7 @@ dextrosinistrally
 designations
 dodding
 distinguishment
+dux
 deutoplasm
 disinsulation
 dabblingly
