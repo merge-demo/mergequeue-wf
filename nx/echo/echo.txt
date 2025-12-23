@@ -1295,6 +1295,7 @@ een
 extraditable
 ecorche
 eblis
+extrapolar
 eucairite
 eoghanacht
 epinephrin
@@ -2176,7 +2177,6 @@ elation
 euphonise
 enrib
 effloresces
-extrapolar
 explanative
 ectozoa
 externalism
