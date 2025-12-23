@@ -5324,6 +5324,7 @@ fldxt
 foolhardier
 frower
 frugalism
+fylgja
 featherweight
 fleabag
 faintheart
@@ -11620,7 +11621,6 @@ fortissimi
 foeish
 farci
 fibrous
-fylgja
 fosite
 funestal
 forehew
