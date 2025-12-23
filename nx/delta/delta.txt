@@ -1589,7 +1589,6 @@ daikering
 disinfector
 deadwork
 dextraural
-dorsum
 deaf
 dynamogenous
 deafened
@@ -5433,6 +5432,7 @@ denuder
 dermolysis
 douched
 dialysation
+dorsum
 denumerably
 denumerantive
 disestablished
