@@ -3945,6 +3945,7 @@ footsteps
 founders
 focalise
 forfends
+floeberg
 fingerer
 flaunch
 fingerers
@@ -11533,7 +11534,6 @@ furlable
 fabling
 fictionize
 fards
-floeberg
 flory
 famulary
 flattener
