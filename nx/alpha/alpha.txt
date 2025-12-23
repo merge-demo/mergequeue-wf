@@ -4938,6 +4938,7 @@ autophone
 abluted
 agenizes
 aeronat
+arter
 aeronaut
 aeronautic
 argentose
@@ -20966,7 +20967,6 @@ appertains
 adipometer
 altaic
 acclimated
-arter
 arseno
 ascaridiasis
 aground
