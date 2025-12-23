@@ -7343,7 +7343,6 @@ bigly
 bugi
 bethesda
 beneplacit
-biangular
 boatels
 babirussa
 benedictionary
@@ -9905,6 +9904,7 @@ banba
 babasco
 berkeleyism
 bitterheartedness
+biangular
 becapped
 befilmed
 birdlife
