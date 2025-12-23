@@ -1258,7 +1258,6 @@ anerythroplasia
 antemask
 androlepsia
 amay
-acarophobia
 acarotoxic
 arcturus
 aerognosy
@@ -19423,6 +19422,7 @@ amphorophony
 allicins
 arkie
 allowance
+acarophobia
 anaphylaxis
 auspicating
 argentin
