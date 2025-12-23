@@ -17281,7 +17281,6 @@ confederated
 cytoplasm
 cleans
 crumple
-coalizer
 coalless
 coalmouse
 commentaries
@@ -27570,6 +27569,7 @@ cadency
 cupmaker
 coves
 censured
+coalizer
 cerealin
 covetable
 coveted
