@@ -5304,7 +5304,6 @@ coalitions
 cassation
 caveats
 cerin
-cassegrain
 clavierists
 chromomeric
 cassegrainian
@@ -25275,6 +25274,7 @@ crome
 conicein
 corklike
 chiromant
+cassegrain
 calendars
 corks
 corkscrew
