@@ -1676,6 +1676,7 @@ deadeners
 dottel
 dephysicalization
 decrementless
+dihalogen
 dehumanisation
 delineator
 debonnaire
@@ -3789,7 +3790,6 @@ disunities
 deigned
 diwan
 durani
-dihalogen
 dysphemistic
 denigrative
 donkey
