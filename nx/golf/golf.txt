@@ -4094,7 +4094,6 @@ genus
 gelechiid
 goosemouth
 gaulic
-gamekeeper
 gaufer
 gudget
 glorification
@@ -6683,6 +6682,7 @@ genuflected
 goniatites
 geoside
 garterless
+gamekeeper
 gainsayer
 grint
 gibbet
