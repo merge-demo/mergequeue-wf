@@ -3871,7 +3871,6 @@ gushing
 gruffed
 gardenwards
 gwely
-gatekeep
 grant
 girrock
 graining
@@ -4602,6 +4601,7 @@ gallovidian
 gambs
 gravegarth
 glossoid
+gatekeep
 girlery
 girlishly
 glink
