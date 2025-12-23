@@ -5068,7 +5068,6 @@ aplacophora
 archizoic
 aesir
 aesop
-aesopian
 amtracs
 autunian
 aesthesodic
@@ -5153,6 +5152,7 @@ antireticular
 anticommunist
 afenil
 autochanger
+aesopian
 afetal
 apyrexia
 ambilaevous
