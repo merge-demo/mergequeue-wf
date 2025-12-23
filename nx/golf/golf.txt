@@ -6645,7 +6645,6 @@ goneness
 grumped
 gladsome
 gonidangium
-graver
 glucagons
 gonepoiesis
 gingivectomy
@@ -9262,6 +9261,7 @@ glowworm
 guts
 grizzly
 gaugeably
+graver
 grizzling
 groaned
 ghosts
