@@ -8095,7 +8095,6 @@ castores
 cirrated
 chaetopodan
 chaetopterus
-chaetosoma
 chrysophlyctis
 chaetosomidae
 codrus
@@ -28710,6 +28709,7 @@ calcining
 clung
 crenothrix
 crenula
+chaetosoma
 cucumiform
 connectible
 crenulate
