@@ -2762,7 +2762,6 @@ decorticator
 determinants
 decorticosis
 disoperation
-decortization
 decorum
 dactylorhiza
 diamber
@@ -16235,6 +16234,7 @@ downcastness
 disabling
 danagla
 doubter
+decortization
 downcome
 dogtail
 downcoming
