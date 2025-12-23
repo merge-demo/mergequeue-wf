@@ -8991,7 +8991,6 @@ allothogenic
 astrakanite
 angora
 allotypes
-annotates
 acidified
 arrenotokous
 anthroropolith
@@ -21694,6 +21693,7 @@ assecution
 amend
 acaudal
 algogenic
+annotates
 anconad
 assegaiing
 americanized
