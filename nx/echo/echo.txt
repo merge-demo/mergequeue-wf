@@ -6823,6 +6823,7 @@ entitative
 exostema
 ecphoria
 enrooted
+enlistees
 entoil
 eggler
 entom
@@ -11486,7 +11487,6 @@ etouffe
 extravertively
 erbium
 emulgens
-enlistees
 eidolic
 electrophotometer
 evigilation
