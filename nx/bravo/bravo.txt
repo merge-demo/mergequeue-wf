@@ -1373,7 +1373,6 @@ bolloxing
 balzarine
 bruisewort
 blots
-baldhead
 bilestone
 baldheads
 bandager
@@ -15747,6 +15746,7 @@ brocolis
 basicities
 bentlet
 brionine
+baldhead
 batholiths
 brodiaea
 benchboard
