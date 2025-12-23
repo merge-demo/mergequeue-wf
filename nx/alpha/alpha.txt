@@ -22090,7 +22090,6 @@ adduce
 asterisk
 amphigenous
 antesunrise
-artilleryman
 anteromedial
 amphigamous
 amphipeptone
@@ -22830,6 +22829,7 @@ atmometric
 allheal
 atmosphereful
 anatomization
+artilleryman
 apachite
 agamic
 apanaging
