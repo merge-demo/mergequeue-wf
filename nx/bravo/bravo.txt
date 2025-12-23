@@ -4012,7 +4012,6 @@ beacons
 buoyancy
 beader
 bellmaker
-barnhardtite
 beerothite
 beadings
 binges
@@ -11318,6 +11317,7 @@ bespoused
 blowtorches
 bromos
 blowups
+barnhardtite
 beadrow
 byroad
 bedrug
