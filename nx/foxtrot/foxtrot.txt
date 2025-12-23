@@ -355,7 +355,6 @@ fetes
 famulative
 flaggelate
 fivish
-factions
 forfeiture
 flyingly
 fellers
@@ -4333,6 +4332,7 @@ fu
 futilities
 filecard
 fellows
+factions
 forewomen
 foresleeve
 finagle
