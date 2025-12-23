@@ -3084,7 +3084,6 @@ glycopexis
 geonavigation
 gabbart
 gizmos
-gaolbird
 gaga
 geadephagous
 glowworms
@@ -9902,6 +9901,7 @@ gimlety
 gradiometer
 gonytheca
 girleen
+gaolbird
 golding
 glaucophyllous
 geeks
