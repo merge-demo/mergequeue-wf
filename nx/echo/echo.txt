@@ -1837,7 +1837,6 @@ encroached
 egotheism
 epithalamy
 ergatogyny
-ectepicondylar
 elbow
 exopodite
 eigenvalues
@@ -11204,6 +11203,7 @@ evangeliaries
 endocycle
 exocrinology
 enkindling
+ectepicondylar
 enthronised
 elohism
 enosis

@@ -886,6 +886,7 @@ glutathione
 geognost
 grassfire
 gleaminess
+glutethimide
 gobioid
 gusseted
 goosebird
@@ -3761,7 +3762,6 @@ gastraneuria
 gieaway
 goggle
 greenfinch
-glutethimide
 grumpishness
 goldang
 grus
