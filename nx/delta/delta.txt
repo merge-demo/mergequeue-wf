@@ -5943,7 +5943,6 @@ defalcator
 dunniewassel
 diversifications
 densifier
-drew
 depressurize
 disentraced
 dere
@@ -6576,6 +6575,7 @@ descrive
 descure
 dabchick
 desecrater
+drew
 duckfooted
 duet
 dermol
