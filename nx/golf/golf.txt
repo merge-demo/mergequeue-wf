@@ -3792,7 +3792,6 @@ greenhew
 gokuraku
 goffers
 gazettes
-geodetics
 glucke
 gnostical
 galliass
@@ -4246,6 +4245,7 @@ geumatophobia
 gradometer
 galravitch
 generationism
+geodetics
 gypsuming
 goniopholis
 gubbo
