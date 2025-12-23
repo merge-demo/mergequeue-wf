@@ -987,6 +987,7 @@ grimace
 geanticline
 gubernia
 grece
+gimleting
 glyptics
 gandertmeeth
 gemmed
@@ -4113,7 +4114,6 @@ genapper
 gimleteyed
 glutamine
 gastroduodenostomies
-gimleting
 gesnerad
 gettysburg
 gargoyle
