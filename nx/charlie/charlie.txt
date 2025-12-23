@@ -2500,7 +2500,6 @@ candelilla
 conductible
 choraguses
 certitude
-clang
 cacodemonic
 cassidony
 colloidally
@@ -23012,6 +23011,7 @@ consolator
 consolatory
 consolatorily
 chartophylax
+clang
 consolatrix
 console
 crain
