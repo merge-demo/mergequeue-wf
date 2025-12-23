@@ -2504,6 +2504,7 @@ bargaining
 beechwoods
 burian
 bhut
+barbarously
 bedark
 barocco
 barge
@@ -15685,7 +15686,6 @@ battarism
 brunonia
 broadlooms
 bourrides
-barbarously
 binuclear
 bollock
 batful
