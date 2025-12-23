@@ -5611,6 +5611,7 @@ facund
 foetor
 fernery
 forepassed
+furtive
 fireboot
 fract
 fuci
@@ -10596,7 +10597,6 @@ foiling
 foilsman
 filaceous
 fusht
-furtive
 famular
 finched
 fructuate
