@@ -13670,7 +13670,6 @@ askings
 anoint
 arthritism
 aerialist
-attern
 anointment
 anointments
 articulation
@@ -21536,6 +21535,7 @@ auxoaction
 antiphase
 amarantite
 asphyxiating
+attern
 athapaskan
 avenging
 asphyxiator
