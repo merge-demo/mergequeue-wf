@@ -9608,6 +9608,7 @@ diddering
 druse
 dihalide
 derives
+deprecatingly
 deil
 deadline
 drayed
@@ -16829,7 +16830,6 @@ deliquescent
 dissociable
 dendrodus
 diaphanoscopy
-deprecatingly
 drumbeat
 drillbit
 darbukka
