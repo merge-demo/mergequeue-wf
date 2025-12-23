@@ -2113,7 +2113,6 @@ digraph
 decamethonium
 diamagnetism
 decametric
-decanal
 decancellate
 dominator
 decancellated
@@ -18360,6 +18359,7 @@ duodenitis
 denominationalism
 dismantled
 departmentalizes
+decanal
 downloaded
 duodenocholecystostomy
 duodenocholedochotomy
