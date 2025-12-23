@@ -4003,6 +4003,7 @@ bonyfish
 believer
 beacons
 buoyancy
+bigmouthed
 beader
 bellmaker
 beerothite
@@ -7374,7 +7375,6 @@ befogs
 bethroot
 blackbirds
 bamboche
-bigmouthed
 bethump
 betides
 bego
