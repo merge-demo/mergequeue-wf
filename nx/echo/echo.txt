@@ -337,7 +337,6 @@ elfship
 euboic
 eastling
 escapee
-eruditionist
 escots
 eurycerous
 engaze
@@ -8960,6 +8959,7 @@ erika
 erikite
 erinaceidae
 ephebes
+eruditionist
 eclairissement
 ectotherm
 expropriation
