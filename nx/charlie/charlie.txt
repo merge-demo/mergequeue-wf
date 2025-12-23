@@ -5989,7 +5989,6 @@ cathartides
 chevied
 carburized
 cathartolinum
-cathect
 cathected
 cathects
 cathedra
@@ -12291,6 +12290,7 @@ catnips
 circumconic
 compensative
 christed
+cathect
 civilize
 capilotade
 cresylite
