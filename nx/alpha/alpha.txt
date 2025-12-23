@@ -9911,6 +9911,7 @@ arachnoidean
 amaurosis
 alloy
 androeccia
+ampangabeite
 amaze
 airlocks
 akroterial
@@ -11058,7 +11059,6 @@ abatic
 amove
 achakzai
 amylolytic
-ampangabeite
 archsin
 accessor
 alliances
