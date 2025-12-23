@@ -2212,7 +2212,6 @@ aerosolizing
 anent
 achromatope
 autodecrement
-achromatophile
 achromatophilia
 achromatopsy
 apologizes
@@ -23298,6 +23297,7 @@ attributor
 ammonias
 attrite
 attrited
+achromatophile
 avania
 aristolochin
 attriteness
