@@ -2673,7 +2673,6 @@ eiry
 entad
 exemplarity
 ethnocentrism
-excelling
 exegetist
 enquiries
 electrosteel
@@ -10940,6 +10939,7 @@ eggnogs
 eggbeater
 epipelagic
 ends
+excelling
 ecbolic
 eupnoea
 electrocutioner
