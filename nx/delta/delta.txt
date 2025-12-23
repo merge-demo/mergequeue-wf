@@ -1048,7 +1048,6 @@ darnels
 destandardize
 dizdar
 diplohedral
-dishes
 diacodium
 deas
 disobliging
@@ -18268,6 +18267,7 @@ dumbfounder
 deanery
 diagrammeter
 dinaric
+dishes
 dogged
 duplicidentata
 desmopyknosis
