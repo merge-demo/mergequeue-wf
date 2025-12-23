@@ -6451,6 +6451,7 @@ goldener
 gidgee
 guldens
 guary
+grogshop
 goldentop
 glochideous
 grapewise
@@ -9309,7 +9310,6 @@ grudgingness
 generale
 gratulant
 ghosted
-grogshop
 gigmaness
 geosyncline
 gnathalgia
