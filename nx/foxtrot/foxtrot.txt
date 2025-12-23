@@ -1423,6 +1423,7 @@ fall
 funis
 fattishness
 fother
+flirter
 frimitts
 faithless
 fighters
@@ -10744,7 +10745,6 @@ felup
 fomentation
 footrope
 flagstaves
-flirter
 fletches
 forgotten
 frustum
