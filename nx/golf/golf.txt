@@ -1289,6 +1289,7 @@ gerendum
 government
 gulliver
 geodiatropism
+graviers
 gingilis
 gates
 garganey
@@ -7000,7 +7001,6 @@ glad
 grottoes
 gossipry
 garrat
-graviers
 giddybrain
 gladdener
 gasthauses
