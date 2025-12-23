@@ -497,6 +497,7 @@ gratuity
 geographic
 gruffing
 geologers
+girnel
 graff
 galivants
 geneticism
@@ -9300,7 +9301,6 @@ guidebook
 globetrotting
 gi
 grapeline
-girnel
 greeshoch
 gaure
 guttera
