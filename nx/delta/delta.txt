@@ -10780,6 +10780,7 @@ dipterocarpus
 delay
 divas
 dependent
+dona
 dipterus
 dotterel
 diptychs
@@ -15467,7 +15468,6 @@ dompteuse
 doms
 derve
 don
-dona
 danker
 donaciform
 donack
