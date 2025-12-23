@@ -8966,7 +8966,6 @@ erinaceidae
 ephebes
 eruditionist
 eclairissement
-ectotherm
 expropriation
 eryngos
 elasmotherium
@@ -10284,6 +10283,7 @@ extralite
 elevatedly
 ecclesiology
 elapses
+ectotherm
 eemis
 epidemial
 expecters
