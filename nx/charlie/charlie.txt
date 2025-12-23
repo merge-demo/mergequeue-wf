@@ -16971,7 +16971,6 @@ cachalot
 caviar
 clupien
 cenotaphs
-choledochoplasty
 consols
 cluricaune
 clusia
@@ -29702,6 +29701,7 @@ coetanean
 croises
 croisette
 cambiform
+choledochoplasty
 croissant
 croissante
 crojack
