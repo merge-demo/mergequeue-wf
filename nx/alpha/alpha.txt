@@ -2435,6 +2435,7 @@ archfriend
 amblycephalidae
 angiocardiography
 autocombustible
+amphicyon
 aclinic
 atrabilar
 antigene
@@ -15333,7 +15334,6 @@ antihypophora
 acetopiperone
 autodecrements
 antispermotoxin
-amphicyon
 antihistaminic
 angiospermatous
 antidogmatism
