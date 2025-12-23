@@ -5982,7 +5982,6 @@ decuples
 dragons
 duller
 diopside
-delictus
 deed
 durezza
 depsides
@@ -12178,6 +12177,7 @@ depthometer
 diacetine
 dha
 deadlily
+delictus
 disfavoured
 discursion
 disfeaturement
