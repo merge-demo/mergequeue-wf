@@ -1418,7 +1418,6 @@ embellishes
 emissions
 encycl
 expungeable
-extraterrestrial
 engrailment
 earl
 electrodialyses
@@ -9981,6 +9980,7 @@ etapes
 exorhason
 endangers
 esmeraldite
+extraterrestrial
 enterprises
 externality
 epichile
