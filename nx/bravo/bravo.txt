@@ -7637,6 +7637,7 @@ bugseed
 beneficiation
 beworries
 biophor
+beechier
 beworship
 bedare
 burrobrush
@@ -17312,7 +17313,6 @@ barberite
 bumped
 burrowed
 blobber
-beechier
 boreholes
 bumpers
 baths
