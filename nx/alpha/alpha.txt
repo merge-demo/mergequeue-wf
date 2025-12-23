@@ -3215,7 +3215,6 @@ algerita
 ayond
 anagramming
 acraze
-aculeae
 atolls
 aready
 abram
@@ -7364,6 +7363,7 @@ albificative
 archangelship
 analogizing
 amebicidal
+aculeae
 antirepublican
 alveolonasal
 alsinaceae
