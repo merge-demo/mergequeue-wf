@@ -107,7 +107,6 @@ focalizing
 fabulists
 frangi
 fibrinous
-friendly
 futharc
 finbacks
 forrad
@@ -4317,6 +4316,7 @@ foreleech
 ferritin
 filazer
 farewelled
+friendly
 firms
 firns
 freespac
