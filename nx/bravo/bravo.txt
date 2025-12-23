@@ -13458,7 +13458,6 @@ bottlemaker
 begotten
 burgs
 broilery
-beer
 bleeding
 bottleman
 bulse
@@ -14093,6 +14092,7 @@ brachiopoda
 baldy
 beltene
 bistipular
+beer
 blot
 babbage
 blasters
