@@ -7972,7 +7972,6 @@ gloucester
 gulas
 grandfathers
 gangster
-gaboons
 galvanotaxis
 glossina
 goniatitid
@@ -9973,6 +9972,7 @@ goldi
 greisen
 gozell
 gazetted
+gaboons
 gamasoidea
 guaiocums
 goitres
