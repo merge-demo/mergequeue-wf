@@ -6796,7 +6796,6 @@ farfal
 forethink
 foldcourse
 fiberless
-folkmoots
 foredoomed
 forzando
 fleshhook
@@ -7310,6 +7309,7 @@ forayed
 facilitating
 flutters
 fourteenfold
+folkmoots
 furled
 forelock
 fopperies
