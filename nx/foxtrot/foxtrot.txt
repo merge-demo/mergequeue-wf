@@ -666,7 +666,6 @@ fizzier
 fireman
 filemot
 floccing
-funkier
 flannelmouths
 feathercut
 fairish
@@ -5489,6 +5488,7 @@ fiduciarily
 fasts
 friseurs
 fossed
+funkier
 fretwork
 forbarred
 fratching
