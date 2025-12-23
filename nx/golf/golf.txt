@@ -899,7 +899,6 @@ geld
 guna
 gambia
 garnishable
-grittiness
 gemeinschaften
 guttler
 galt
@@ -5317,6 +5316,7 @@ globularly
 gutturalism
 gingals
 glaived
+grittiness
 gourds
 gonidia
 glomerulate
