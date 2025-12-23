@@ -1876,7 +1876,6 @@ footstep
 fourdrinier
 flamboyantize
 faradizing
-frs
 fraidycat
 flybrush
 fingerflower
@@ -9799,6 +9798,7 @@ fresheners
 freshening
 freshets
 finals
+frs
 falcula
 freshhearted
 foraminal
