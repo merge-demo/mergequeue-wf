@@ -6375,6 +6375,7 @@ fricasseing
 faence
 forefoot
 fronture
+frough
 furry
 frogspawn
 fafnir
@@ -11602,7 +11603,6 @@ fetch
 frenchman
 frison
 forcarve
-frough
 frack
 forewinning
 fulgour
