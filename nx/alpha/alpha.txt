@@ -6639,7 +6639,6 @@ ankyloblepharon
 anoterite
 ailuroidea
 ampelitic
-ailurophilic
 ailuropoda
 abp
 acoustic
@@ -12643,6 +12642,7 @@ angarep
 anticryptically
 ajivika
 angarias
+ailurophilic
 abanet
 aeronomist
 arpeggiation
