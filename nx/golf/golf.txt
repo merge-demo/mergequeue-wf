@@ -8279,7 +8279,6 @@ gre
 garamond
 gaseosity
 gurries
-gara
 geopolitist
 galenite
 glissaded
@@ -8715,6 +8714,7 @@ gastraeal
 gnathonical
 grassflat
 gastrodisc
+gara
 growler
 golosh
 gratify
