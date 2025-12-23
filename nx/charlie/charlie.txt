@@ -13238,7 +13238,6 @@ cyclesmith
 castoridae
 crookbilled
 cannonproof
-caryota
 cyclic
 cyclical
 cyclizing
@@ -23086,6 +23085,7 @@ conspecies
 crenotherapy
 cotula
 conspecific
+caryota
 conspection
 conspectus
 cullying
