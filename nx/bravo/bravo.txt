@@ -12908,7 +12908,6 @@ biblicolegal
 babassus
 burdenable
 birle
-bepierce
 bungmaker
 babka
 bouffante
@@ -17496,6 +17495,7 @@ buprestis
 briskening
 bragwort
 biteless
+bepierce
 biscotin
 betes
 bioecologist
