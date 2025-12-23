@@ -2392,7 +2392,6 @@ ferlying
 foiler
 ferling
 flemishes
-furls
 fortnightly
 fermail
 flabellifoliate
@@ -10955,6 +10954,7 @@ flubdub
 fedayee
 fructifying
 frey
+furls
 finally
 fumarases
 fouling
