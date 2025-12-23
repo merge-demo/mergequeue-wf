@@ -7536,6 +7536,7 @@ gabions
 greenbone
 gorbellies
 gymnast
+growing
 governmental
 garageman
 gangman
@@ -10828,7 +10829,6 @@ gyved
 gigunu
 guvacine
 goatland
-growing
 geographize
 grammatic
 galga
