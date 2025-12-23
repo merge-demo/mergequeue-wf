@@ -4777,7 +4777,6 @@ executions
 existent
 exodos
 endosmosic
-ebulliometry
 excircle
 entomophytous
 establishments
@@ -14199,6 +14198,7 @@ equidistance
 exurge
 exuscitate
 enlists
+ebulliometry
 effecters
 enow
 equiradiate
