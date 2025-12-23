@@ -4937,7 +4937,6 @@ beefburgers
 beefeater
 beefeaters
 buccin
-barkentines
 bepride
 burhinidae
 bract
@@ -14519,6 +14518,7 @@ besoothing
 branchiest
 blizz
 branchiferous
+barkentines
 birthrates
 broma
 binman
