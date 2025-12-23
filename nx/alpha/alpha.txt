@@ -3508,7 +3508,6 @@ antics
 avestan
 addressers
 anilities
-allesthesia
 amphirhina
 assignment
 anhydrization
@@ -9521,6 +9520,7 @@ arenig
 altimeters
 aspidomancy
 anthema
+allesthesia
 alchemistry
 ammocetes
 anoegenetic
