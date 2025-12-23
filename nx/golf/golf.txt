@@ -5139,6 +5139,7 @@ gyps
 glaucophanite
 goldcrest
 gimpiest
+gaes
 guerdon
 gammick
 geologised
@@ -9503,7 +9504,6 @@ garnisheing
 grisbet
 gecking
 groutier
-gaes
 gins
 gyving
 gyroscope
