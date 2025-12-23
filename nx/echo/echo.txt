@@ -2305,7 +2305,6 @@ endolymph
 excretal
 encased
 egest
-ester
 ecliptics
 equality
 enleagued
@@ -8196,6 +8195,7 @@ excorticate
 endopleura
 electrolysis
 extracollegiate
+ester
 exulting
 enmarbling
 entomophthoraceae
