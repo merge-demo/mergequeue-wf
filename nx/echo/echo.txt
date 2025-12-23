@@ -6262,6 +6262,7 @@ eidology
 enplane
 electromotor
 ecorticate
+exceptless
 enplaned
 ecumenics
 embryonary
@@ -13412,7 +13413,6 @@ embruted
 expressio
 exploring
 ensnaringly
-exceptless
 expressional
 erupted
 eikones
