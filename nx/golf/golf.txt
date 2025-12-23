@@ -3776,7 +3776,6 @@ giants
 gratifyingly
 glossology
 gentian
-gouges
 giantship
 glycolate
 garrafa
@@ -3959,6 +3958,7 @@ grice
 ganner
 graphis
 gimping
+gouges
 grubworms
 gigawatts
 glioma
