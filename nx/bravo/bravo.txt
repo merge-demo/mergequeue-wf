@@ -3538,6 +3538,7 @@ bogglish
 broadax
 batete
 brabbling
+biquintile
 balotade
 blue
 batfishes
@@ -9307,7 +9308,6 @@ bipupillate
 bagattini
 barringtonia
 ballcarrier
-biquintile
 boles
 bastaard
 biracial

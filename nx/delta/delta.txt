@@ -3273,7 +3273,6 @@ dominants
 dalles
 doty
 deteriority
-deterging
 dragoons
 drostden
 defibrillatory
@@ -11410,6 +11409,7 @@ disciplinarily
 disciplinate
 distrouser
 decarbonate
+deterging
 disciplinatory
 datchas
 discipling
