@@ -7073,6 +7073,7 @@ basset
 bezzant
 bennetweed
 bespattered
+boshvarks
 batara
 barracks
 bannerette
@@ -13328,7 +13329,6 @@ bichord
 bukat
 benadryl
 bridgeman
-boshvarks
 botcheries
 botcherly
 botchy
