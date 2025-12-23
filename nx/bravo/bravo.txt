@@ -4351,7 +4351,6 @@ beerbibber
 becharmed
 bellic
 bellona
-burbankism
 bromhydric
 blockishness
 bossdoms
@@ -6877,6 +6876,7 @@ bravadoism
 belleek
 beggarman
 barrelhead
+burbankism
 beseige
 biliverdic
 botchers
