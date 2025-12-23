@@ -6714,7 +6714,6 @@ flame
 felted
 fogless
 frounced
-forebodement
 fogo
 frescoists
 feast
@@ -8584,6 +8583,7 @@ featherer
 frogtongue
 futurities
 fasciation
+forebodement
 ferules
 favourless
 foxhole
