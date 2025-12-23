@@ -2131,6 +2131,7 @@ bantayan
 buckshots
 bidstand
 bantamize
+bagman
 bismar
 burette
 banteng
@@ -17370,7 +17371,6 @@ benzantialdoxime
 baisakh
 brombenzene
 bittern
-bagman
 basiotribe
 breviary
 burganet
