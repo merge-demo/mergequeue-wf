@@ -1917,7 +1917,6 @@ friable
 fangot
 froze
 factored
-forebearing
 finagling
 fonly
 forworn
@@ -7728,6 +7727,7 @@ foreignness
 foreimpressed
 firnismalerei
 foreinstruct
+forebearing
 fallal
 fatherland
 flyman
