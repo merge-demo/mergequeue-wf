@@ -9594,6 +9594,7 @@ bicapsular
 bandlimits
 bisectors
 bisectrices
+blander
 busybodyness
 bisects
 bottleflower
@@ -10386,7 +10387,6 @@ blandation
 balsamo
 blackmails
 barodynamics
-blander
 bewailer
 bookdom
 bullism
