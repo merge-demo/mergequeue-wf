@@ -136,7 +136,6 @@ brabantine
 basicranial
 bedimpled
 boolian
-bacin
 bourne
 banister
 basidiocarp
@@ -2221,6 +2220,7 @@ bagatine
 bayards
 boneheadedness
 bromize
+bacin
 barbados
 broggle
 blobs
