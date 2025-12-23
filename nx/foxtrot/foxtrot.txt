@@ -2686,7 +2686,6 @@ fungused
 firebird
 feigher
 flaggella
-factorization
 fouette
 fervor
 flamenco
@@ -5606,6 +5605,7 @@ fingerwise
 federal
 frontonasal
 flageolet
+factorization
 fascicled
 formerness
 fourgons
