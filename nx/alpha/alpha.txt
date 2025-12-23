@@ -6975,6 +6975,7 @@ alkenyl
 antitryptic
 atrioventricular
 arborist
+abaculus
 animal
 abiology
 anoure
@@ -22083,7 +22084,6 @@ autotoxis
 aquatically
 aplasia
 achromatophilic
-abaculus
 antimonarchicalness
 alloclasite
 apoplexies
