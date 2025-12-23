@@ -1420,7 +1420,6 @@ floorer
 follow
 fanwork
 fall
-fiddled
 funis
 fattishness
 fother
@@ -4654,6 +4653,7 @@ fayettism
 filicinean
 fearsome
 flatnose
+fiddled
 figurante
 flaunched
 flections
