@@ -26,6 +26,7 @@ gieaways
 goatroot
 geoselenic
 gliderport
+gymnadeniopsis
 globose
 gouty
 goodlike
@@ -5296,7 +5297,6 @@ gamelan
 gromil
 glycerite
 gigmanism
-gymnadeniopsis
 glyceroxide
 glycide
 glabrous
