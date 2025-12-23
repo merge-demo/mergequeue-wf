@@ -11238,7 +11238,6 @@ acknowledge
 amphiploidy
 ascicidia
 apili
-ains
 ameen
 amphipoda
 aforesaid
@@ -23684,6 +23683,7 @@ auriferous
 appreciational
 axlike
 aurify
+ains
 aurific
 aceology
 algorism
