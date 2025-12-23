@@ -4822,7 +4822,6 @@ crewels
 choanoflagellata
 cowlings
 carpoidea
-chalcidid
 carpolith
 confides
 clitellus
@@ -10950,6 +10949,7 @@ chirocosmetics
 chirogale
 chirogymnast
 cautel
+chalcidid
 cornu
 chirognomy
 cerement
