@@ -7600,7 +7600,6 @@ eolithic
 euglena
 earnestness
 exterminate
-eikonology
 enfeoffs
 essling
 effoliate
@@ -13293,6 +13292,7 @@ exploiture
 entozoological
 exploratively
 ectrogeny
+eikonology
 eupterotidae
 egency
 estoile
