@@ -5207,6 +5207,7 @@ epilithic
 endogenae
 efference
 euchres
+expenditor
 echeloning
 enchanter
 expedition
@@ -11418,7 +11419,6 @@ explorers
 eluctation
 emoted
 enhaloing
-expenditor
 encephalosis
 edgebone
 ependymary
