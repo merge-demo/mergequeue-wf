@@ -3545,7 +3545,6 @@ arpent
 ajivas
 adelantado
 adelante
-asterella
 adelarthra
 alectryon
 ascosporous
@@ -16470,6 +16469,7 @@ airish
 anusim
 amphiboliferous
 argyrosomus
+asterella
 abietinic
 almacantar
 anusvara
