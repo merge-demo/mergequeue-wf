@@ -4730,6 +4730,7 @@ carousels
 carp
 carpaine
 carpalia
+colotyphoid
 celiocele
 carpals
 chela
@@ -26054,7 +26055,6 @@ cosy
 caulicule
 cosie
 cedrine
-colotyphoid
 creches
 colicystitis
 cosies
