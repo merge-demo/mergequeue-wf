@@ -14313,7 +14313,6 @@ composedly
 circumpallial
 constrained
 crosspieces
-circumparallelogram
 circumpentagon
 convexed
 circumplanetary
@@ -31479,6 +31478,7 @@ currentwise
 calalu
 curry
 cavitating
+circumparallelogram
 citing
 croupade
 curricles
