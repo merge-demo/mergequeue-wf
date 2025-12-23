@@ -2971,7 +2971,6 @@ coation
 clip
 cantharidian
 chorometry
-cycloacetylene
 cantharidize
 cantharidized
 cantharus
@@ -20284,6 +20283,7 @@ coisns
 casanovanic
 clinical
 communa
+cycloacetylene
 cellulotoxic
 canthoplasty
 communal
