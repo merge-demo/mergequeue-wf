@@ -11421,6 +11421,7 @@ bluffy
 brownian
 bekko
 bestrut
+blotches
 boxthorn
 blasting
 bagplant
@@ -17342,7 +17343,6 @@ buncoing
 berthing
 bemused
 brucellas
-blotches
 basilosaurus
 bund
 bloomery
