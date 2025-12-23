@@ -2132,7 +2132,6 @@ bantamize
 bismar
 burette
 banteng
-beglerbegship
 barriers
 banter
 banterers
@@ -4205,6 +4204,7 @@ benchlet
 beatifically
 beatification
 baroto
+beglerbegship
 beatified
 blacktop
 beatifies
