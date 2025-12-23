@@ -955,6 +955,7 @@ ghostless
 glomeruli
 graptolite
 gunshot
+glanis
 glist
 genomic
 gamostele
@@ -6781,7 +6782,6 @@ genal
 genros
 gondola
 goniums
-glanis
 garbleable
 gradate
 guffawing
