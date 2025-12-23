@@ -5999,7 +5999,6 @@ diagrammitically
 depthlessness
 diobols
 demonetization
-dacite
 delimiting
 decohere
 disapprove
@@ -11809,6 +11808,7 @@ discriminativeness
 discording
 drunker
 discriminator
+dacite
 dirigibility
 diegueno
 disembrangle

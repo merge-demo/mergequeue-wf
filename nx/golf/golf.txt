@@ -3010,7 +3010,6 @@ gaps
 galatian
 goatherdess
 guildsmen
-geomancy
 garnered
 grumbled
 gushingness
@@ -5446,6 +5445,7 @@ gracelike
 griphosaurus
 golaseccan
 gingivitis
+geomancy
 gaea
 griqua
 glyptolith
