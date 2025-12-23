@@ -2787,7 +2787,6 @@ graduals
 gyrencephala
 gurr
 gemeinde
-gamphrel
 gaunt
 growling
 gimmor
@@ -6710,6 +6709,7 @@ gonid
 gabeler
 gluttonies
 gynaecologic
+gamphrel
 glycolyl
 glimed
 geer
