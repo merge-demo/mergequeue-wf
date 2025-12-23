@@ -1697,7 +1697,6 @@ feased
 folic
 fumigant
 fingrigo
-forprise
 forestep
 fasciolariidae
 flourless
@@ -3387,6 +3386,7 @@ flowcharts
 flincher
 fiascoes
 foretalk
+forprise
 fiendly
 featurely
 fc
