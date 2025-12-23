@@ -4177,6 +4177,7 @@ bowl
 beastlike
 bodywise
 bengalic
+bogman
 bumpkinish
 buoyantness
 brinsell
@@ -7826,7 +7827,6 @@ birdseyes
 brooklyn
 bazaars
 bicephalous
-bogman
 biface
 bark
 bronzy
