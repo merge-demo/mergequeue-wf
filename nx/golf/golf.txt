@@ -6682,6 +6682,7 @@ gamekeeper
 gainsayer
 grint
 gibbet
+germanious
 gulae
 gobmouthed
 growable
@@ -8683,7 +8684,6 @@ gismondite
 gutterling
 gimcracks
 glacification
-germanious
 galactophygous
 greediest
 grandfilial
