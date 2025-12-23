@@ -2517,7 +2517,6 @@ envelopers
 electroing
 electrokinetic
 eluviate
-ecosphere
 epicanthic
 epochs
 exterminative
@@ -4259,6 +4258,7 @@ eaux
 eumeristic
 expolish
 emcumbering
+ecosphere
 expendible
 expressways
 equidiagonal
