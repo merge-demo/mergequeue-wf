@@ -2302,7 +2302,6 @@ exormia
 enbloc
 endolymph
 excretal
-eger
 encased
 egest
 ester
@@ -2947,6 +2946,7 @@ elfwort
 erigenia
 elian
 enervated
+eger
 exacinate
 equicostate
 emptying
