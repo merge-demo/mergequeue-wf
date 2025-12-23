@@ -5156,7 +5156,6 @@ genetmoil
 gazania
 glazers
 geldant
-gazes
 grouch
 gnostology
 gingham
@@ -6434,6 +6433,7 @@ goburra
 glucidic
 graduates
 gregorian
+gazes
 grandeeship
 geneses
 gallivanted
