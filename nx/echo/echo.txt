@@ -416,6 +416,7 @@ epact
 eutrophic
 embayed
 endochrome
+epidermomycosis
 excelsitude
 evangelist
 ebriose
@@ -13077,7 +13078,6 @@ embellishment
 epidermose
 elijah
 endromididae
-epidermomycosis
 erasement
 expensiveness
 expergefacient
