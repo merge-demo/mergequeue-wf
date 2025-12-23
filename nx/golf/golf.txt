@@ -1392,6 +1392,7 @@ ganyie
 gallotannin
 gasified
 gausterer
+glossocomon
 gearshift
 gcd
 gangplow
@@ -5168,7 +5169,6 @@ gastratrophia
 geckotian
 gossipred
 gesticulator
-glossocomon
 guavas
 genipap
 gemman
