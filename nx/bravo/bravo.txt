@@ -1875,6 +1875,7 @@ bandie
 bandied
 bilinear
 bandikai
+blade
 batrachoplasty
 biparty
 bimetalism
@@ -10303,7 +10304,6 @@ biblism
 bladderseed
 bladderwort
 blading
-blade
 beleaguerer
 besmircher
 basiglandular
