@@ -12265,6 +12265,7 @@ donax
 disgarnish
 descartes
 deliberativeness
+denote
 dossiere
 demoniacism
 drubbing
@@ -17685,7 +17686,6 @@ delsarte
 deputization
 duarchy
 duarchies
-denote
 dhauri
 dubb
 declamando
