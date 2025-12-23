@@ -6297,6 +6297,7 @@ enows
 electrotechnology
 euryscope
 ecclesiastry
+exing
 enduring
 exspoliation
 endbrain
@@ -12242,7 +12243,6 @@ execrated
 elegists
 extemporizer
 exegetics
-exing
 ecphorias
 ensheaths
 electroaffinity
