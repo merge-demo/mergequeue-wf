@@ -3242,7 +3242,6 @@ engendure
 eluating
 ernesse
 enambush
-esotery
 extraschool
 eluctate
 elude
@@ -11440,6 +11439,7 @@ entomostraca
 entheate
 embryotic
 expdt
+esotery
 elided
 evetide
 extirpating
