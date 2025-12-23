@@ -340,6 +340,7 @@ gofers
 greekless
 galactophoritis
 gutwort
+garvock
 gingerin
 grade
 gilet
@@ -1034,7 +1035,6 @@ gnarl
 geriatrics
 gentles
 gossamer
-garvock
 gerardias
 gorgonin
 gompholobium
