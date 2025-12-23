@@ -7087,7 +7087,6 @@ bushing
 bespeaking
 bullalaria
 bespeaks
-bespecked
 backrun
 bedwards
 bumaree
@@ -17257,6 +17256,7 @@ bumblepuppy
 bedriveled
 branchiostoma
 barriness
+bespecked
 bearbind
 bello
 bawlers
