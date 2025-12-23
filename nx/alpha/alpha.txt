@@ -3587,6 +3587,7 @@ adatom
 adenitis
 anticeremonious
 asthenies
+allobar
 alces
 anomaloscope
 adenoacanthoma
@@ -8791,7 +8792,6 @@ allivalite
 appeases
 arthropyosis
 anoesia
-allobar
 allobaric
 ammonolyses
 adolescency
