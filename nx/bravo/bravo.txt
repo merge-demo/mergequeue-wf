@@ -9915,7 +9915,6 @@ beggarly
 bitternut
 benzoated
 buhl
-biotite
 bitterroot
 backfall
 berrying
@@ -16743,6 +16742,7 @@ babehood
 buckwagon
 boodie
 buckwheatlike
+biotite
 balaic
 buckwheats
 brazilin
