@@ -4821,6 +4821,7 @@ gadi
 globularia
 gein
 grapewort
+gymnast
 grubstreet
 grungiest
 gastrosopher
@@ -7532,7 +7533,6 @@ goliardery
 gabions
 greenbone
 gorbellies
-gymnast
 growing
 governmental
 garageman
