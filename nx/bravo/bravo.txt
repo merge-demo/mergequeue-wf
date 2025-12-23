@@ -4116,6 +4116,7 @@ biassing
 ballistics
 baroclinicity
 blamableness
+banco
 bicompact
 brachiopode
 bodysurfs
@@ -5155,7 +5156,6 @@ bromhidrosis
 ballota
 bloodthirstiness
 baubling
-banco
 befools
 bridgeport
 budworm
