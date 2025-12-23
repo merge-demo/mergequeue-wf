@@ -596,6 +596,7 @@ drawboy
 demifusion
 dextrose
 dups
+disgorged
 damine
 drek
 dedolomitized
@@ -12287,7 +12288,6 @@ dishwater
 dataflow
 dispatriated
 discrepancy
-disgorged
 disendowed
 drawing
 dromedarist
