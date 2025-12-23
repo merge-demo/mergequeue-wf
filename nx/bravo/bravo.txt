@@ -2078,6 +2078,7 @@ bollixing
 bannat
 baulky
 bannerline
+burred
 bannerole
 blossomry
 bronchus
@@ -15645,7 +15646,6 @@ batterable
 buffone
 barrenest
 bulkheads
-burred
 belemnid
 benzoazurine
 broadcast
