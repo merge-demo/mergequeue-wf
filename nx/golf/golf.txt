@@ -6732,7 +6732,6 @@ grouters
 gaveller
 goniodoridae
 gagmen
-gnotobiote
 granitized
 gametophore
 gagging
@@ -7991,6 +7990,7 @@ galline
 gainer
 guttee
 glouts
+gnotobiote
 goodhap
 galleyman
 gabblement
