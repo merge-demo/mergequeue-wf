@@ -430,6 +430,7 @@ fogmen
 fairway
 fulminate
 fragilariaceae
+faradises
 fieldbird
 fays
 furthy
@@ -3551,7 +3552,6 @@ frenchism
 fogie
 flamboyance
 fencelet
-faradises
 foremention
 flymen
 flenches
