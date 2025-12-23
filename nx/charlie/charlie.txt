@@ -4912,6 +4912,7 @@ chromatoplasm
 carried
 carryed
 carrier
+conidian
 carryings
 carriole
 carrioles
@@ -15601,7 +15602,6 @@ classiness
 classists
 classmanship
 clive
-conidian
 conima
 curdlers
 classwork
