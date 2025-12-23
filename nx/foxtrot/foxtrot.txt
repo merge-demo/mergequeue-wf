@@ -8992,7 +8992,6 @@ flavine
 fourpenny
 fernless
 fableist
-fabricate
 flabellarium
 fourragere
 flutter
@@ -9427,6 +9426,7 @@ fossor
 freeloading
 fluoridate
 floristics
+fabricate
 freewheeling
 flagpoles
 furacana
