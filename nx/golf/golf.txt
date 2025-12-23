@@ -4759,6 +4759,7 @@ gadling
 gonimolobe
 germanophobia
 gryphite
+groop
 goad
 gaels
 generableness
@@ -9355,7 +9356,6 @@ gyrostat
 gimmick
 gonocoel
 gravestones
-groop
 gallerygoer
 glamorize
 goggliest
