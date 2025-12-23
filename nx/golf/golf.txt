@@ -5576,7 +5576,6 @@ goutier
 greenroom
 glucaemia
 gumming
-gaysome
 gripless
 geochemist
 geophysical
@@ -7274,6 +7273,7 @@ geochronic
 glowbird
 generatrix
 gerated
+gaysome
 gastraeadae
 glandular
 goofing
