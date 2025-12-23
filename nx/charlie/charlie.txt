@@ -16570,7 +16570,6 @@ clappermaclaw
 cloistering
 comal
 croupes
-chirm
 cloisterly
 cloisterlike
 carburization
@@ -30484,6 +30483,7 @@ cto
 charcuteries
 carbo
 ctr
+chirm
 comortgagee
 cannibalean
 cts
