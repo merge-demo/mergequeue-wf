@@ -2163,7 +2163,6 @@ georgian
 gharris
 gerontine
 gdinfo
-gnomide
 golfings
 gds
 gaycat
@@ -5718,6 +5717,7 @@ guttule
 ghillies
 glamberry
 glendale
+gnomide
 glossocele
 graian
 gummoses
