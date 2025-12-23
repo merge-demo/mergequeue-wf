@@ -1299,7 +1299,6 @@ extraditable
 ecorche
 eblis
 eucairite
-eleonorite
 eoghanacht
 epinephrin
 eq
@@ -13904,6 +13903,7 @@ extrameridional
 extrametrical
 eccl
 extolment
+eleonorite
 extramission
 erythrism
 excitosecretory
