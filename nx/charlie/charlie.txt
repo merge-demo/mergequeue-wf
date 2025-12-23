@@ -4969,7 +4969,6 @@ carted
 curtalax
 cartel
 chobdar
-chondriosomes
 cesarean
 circumambages
 cartelist
@@ -10217,6 +10216,7 @@ codworm
 croisard
 coussinet
 chia
+chondriosomes
 chyack
 chianti
 chiao
