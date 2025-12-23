@@ -7070,7 +7070,6 @@ carburetted
 carnal
 chink
 centauric
-checkline
 centauridium
 chaetognath
 centauries
@@ -14204,6 +14203,7 @@ cymose
 circumbasal
 circumbendibus
 conception
+checkline
 circumboreal
 callityped
 choleic
