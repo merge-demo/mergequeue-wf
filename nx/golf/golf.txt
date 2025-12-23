@@ -4305,7 +4305,6 @@ gymnadenia
 glazieries
 glazings
 grieves
-gippy
 grads
 gluttonous
 garganeys
@@ -4852,6 +4851,7 @@ griffinism
 gynecidal
 gluttingly
 gabbroic
+gippy
 garlicwort
 glades
 graupels
