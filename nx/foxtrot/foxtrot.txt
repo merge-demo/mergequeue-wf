@@ -7164,7 +7164,6 @@ fishbone
 filths
 festivalgoer
 fend
-fishified
 fishers
 fixative
 fourche
@@ -11475,6 +11474,7 @@ fairleader
 froggery
 formular
 fuzzle
+fishified
 foothill
 ferrite
 foredescribe
