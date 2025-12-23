@@ -2192,7 +2192,6 @@ eructate
 endocyclic
 evanescently
 elbowy
-elbowpiece
 elbows
 explores
 everywoman
@@ -6943,6 +6942,7 @@ extravaganzas
 estreats
 exiled
 eudora
+elbowpiece
 encradle
 enzone
 esau
