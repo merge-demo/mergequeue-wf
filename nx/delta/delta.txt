@@ -9516,6 +9516,7 @@ dialysers
 demiurge
 decontaminated
 digital
+dero
 drunkest
 digitalin
 dispergator
@@ -17135,7 +17136,6 @@ dullish
 dematerialise
 divvers
 drunkenness
-dero
 decuries
 decine
 dipygi

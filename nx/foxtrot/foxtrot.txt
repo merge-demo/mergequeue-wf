@@ -3607,7 +3607,6 @@ filiformed
 footmaker
 frisbees
 flook
-farmable
 frictionlessly
 flashing
 faintishness
@@ -9554,6 +9553,7 @@ fruitfullness
 financier
 favouress
 flyted
+farmable
 fuseless
 frecklier
 feudalizing
