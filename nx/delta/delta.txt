@@ -8906,7 +8906,6 @@ dicentras
 dipyramid
 dyads
 defiatory
-diceras
 dmod
 deriving
 dioptidae
@@ -16590,6 +16589,7 @@ dragonade
 denotative
 donjon
 dikdiks
+diceras
 dactylopius
 derout
 denotations
