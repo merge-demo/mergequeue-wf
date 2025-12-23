@@ -7587,6 +7587,7 @@ begiggle
 barnacle
 bewhisker
 biplicate
+bemingling
 burele
 bywalker
 brakeages
@@ -9891,7 +9892,6 @@ beyerite
 bitterender
 ballooning
 bapt
-bemingling
 baffed
 bismer
 bewhisper
