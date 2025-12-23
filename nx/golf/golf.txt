@@ -1677,7 +1677,6 @@ groundplot
 guayabo
 gastroduodenitis
 guadua
-gastroduodenostomy
 gastritis
 gottfried
 gamed
@@ -8953,6 +8952,7 @@ gothicity
 geiger
 gall
 genuclast
+gastroduodenostomy
 getae
 gallicola
 grammy

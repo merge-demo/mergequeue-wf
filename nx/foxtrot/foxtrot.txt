@@ -1143,7 +1143,6 @@ feebleminded
 feller
 figeaters
 flyblows
-fluigram
 footy
 fets
 foredestiny
@@ -10796,6 +10795,7 @@ fubbery
 filamentoid
 fullering
 footpads
+fluigram
 fuchsian
 floundered
 faintful
