@@ -3528,6 +3528,7 @@ dagobas
 desmomyaria
 dufoil
 drapery
+disuses
 drowsiest
 defrauds
 defreeze
@@ -14200,7 +14201,6 @@ disuse
 desquamate
 disbranching
 diapensiaceous
-disuses
 disutility
 disutilize
 doldrum
