@@ -7794,7 +7794,6 @@ elementality
 egregiously
 eradicate
 encyclopaedize
-episcopacy
 engjateigur
 epigastria
 engagement
@@ -12120,6 +12119,7 @@ excellencies
 ejam
 eloper
 ebonite
+episcopacy
 ensorcerize
 erpetologist
 eg
