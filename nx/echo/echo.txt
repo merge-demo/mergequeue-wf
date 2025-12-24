@@ -1534,7 +1534,6 @@ electionary
 echograph
 egad
 elderlies
-encyclopediac
 entomophilous
 epa
 egalitarians
@@ -5066,6 +5065,7 @@ enrolled
 extraordinaries
 eclairs
 econometer
+encyclopediac
 entreasure
 encaenia
 evens
