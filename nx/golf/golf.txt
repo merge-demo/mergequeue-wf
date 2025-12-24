@@ -2298,7 +2298,6 @@ gumihan
 gestant
 grosse
 gripmen
-geological
 grallatorial
 gangliglia
 gymnodiniaceae
@@ -5918,6 +5917,7 @@ gesnera
 gaincome
 glummest
 geoglossum
+geological
 gaggled
 glumnesses
 groundsill
