@@ -10553,6 +10553,7 @@ dislikes
 disequilibrium
 disslander
 dippable
+dolmen
 duteously
 discoblastula
 deafens
@@ -15289,7 +15290,6 @@ diurnation
 diamylose
 diluviums
 dolmas
-dolmen
 desubstantiate
 dolomedes
 discovery
