@@ -729,7 +729,6 @@ enneaspermous
 enabler
 economise
 eschaunge
-ensnare
 extremital
 eidolism
 eben
@@ -4257,6 +4256,7 @@ epicurism
 euascomycetes
 estradiot
 emulant
+ensnare
 earwiggy
 elucidator
 ewhow
