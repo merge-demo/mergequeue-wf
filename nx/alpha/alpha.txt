@@ -3639,7 +3639,6 @@ awmous
 adenopharyngeal
 adenophlegmon
 appulsively
-adenophora
 abscissas
 avianizing
 archaize
@@ -21435,6 +21434,7 @@ atimy
 aspect
 aspectable
 aspectant
+adenophora
 aspects
 acyclically
 aspens

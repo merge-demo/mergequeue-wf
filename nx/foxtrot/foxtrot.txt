@@ -7531,7 +7531,6 @@ frictionlessness
 forebodes
 forebody
 frostweed
-flaser
 forsakers
 flentes
 fleshbrush
@@ -9592,6 +9591,7 @@ forgone
 factabling
 foller
 frederik
+flaser
 futilitarian
 freightyard
 forwalk
