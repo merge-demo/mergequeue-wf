@@ -5583,7 +5583,6 @@ bedframe
 bekiss
 bekissed
 bekisses
-bouleuterion
 borons
 beknighted
 ballistite
@@ -8033,6 +8032,7 @@ bullescene
 biconic
 biconically
 biconnected
+bouleuterion
 boildown
 bayberry
 butcherous
