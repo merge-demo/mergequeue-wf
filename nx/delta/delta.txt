@@ -452,7 +452,6 @@ daysmen
 dayspring
 direst
 disthrall
-daswen
 daytimes
 disburthen
 disaccharide
@@ -16723,6 +16722,7 @@ descriptively
 dicey
 desalt
 disauthorize
+daswen
 disentomb
 drape
 disharmonized
