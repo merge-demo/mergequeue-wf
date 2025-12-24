@@ -2728,6 +2728,7 @@ compiles
 calcemia
 cankery
 cannoneering
+claviculus
 cankerroot
 camerine
 cauponize
@@ -21712,7 +21713,6 @@ conditionable
 conditionalism
 coplotting
 conumerary
-claviculus
 conditionalist
 cassytha
 campiness
