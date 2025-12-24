@@ -8243,7 +8243,6 @@ bifront
 bavarian
 bhavani
 brainfag
-bifurcated
 bifurcately
 bergschrund
 bekilted
@@ -9797,6 +9796,7 @@ boson
 benzoquinone
 bisubstitution
 babblingly
+bifurcated
 bubblebow
 bisulfate
 biblioklept

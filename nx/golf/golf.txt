@@ -3451,7 +3451,6 @@ greenlandish
 gertie
 geggery
 glamourize
-greyware
 gesturist
 geothermic
 gleaners
@@ -7653,6 +7652,7 @@ gopherwood
 gunsmithery
 graded
 gorgonlike
+greyware
 gool
 gnathometer
 guachamaca
