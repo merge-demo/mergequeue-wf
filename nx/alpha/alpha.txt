@@ -8595,7 +8595,6 @@ allegoriser
 anotto
 aeolomelodicon
 austenite
-applauded
 ampelosicyos
 adjudicatory
 avizandum
@@ -9938,6 +9937,7 @@ ambaris
 ambas
 ambassade
 appreciatively
+applauded
 alkynes
 adactylia
 alerion
