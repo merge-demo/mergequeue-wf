@@ -918,6 +918,7 @@ absolvatory
 absolves
 absolving
 abstort
+afterings
 astriction
 atomistics
 absolvitor
@@ -8537,7 +8538,6 @@ allantoidean
 allantoides
 aotearoa
 allantoin
-afterings
 analyzer
 awfullest
 angiectopia
