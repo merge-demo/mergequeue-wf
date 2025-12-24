@@ -9478,6 +9478,7 @@ debenzolize
 desiliconize
 discussable
 digestor
+decalcify
 digestory
 decide
 digesture
@@ -12870,7 +12871,6 @@ dispatchful
 devitrify
 diacoele
 darklier
-decalcify
 dubhe
 diodia
 descensory
