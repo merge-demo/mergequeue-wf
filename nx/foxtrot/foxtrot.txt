@@ -4588,7 +4588,6 @@ foliages
 flunkyism
 fissidens
 fossilify
-fisheye
 fieldstone
 fistuca
 freezing
@@ -6138,6 +6137,7 @@ foully
 fleetwing
 freudians
 formamide
+fisheye
 fruitarianism
 formalities
 flours
