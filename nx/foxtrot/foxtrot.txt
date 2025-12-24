@@ -5250,7 +5250,6 @@ fossilage
 fstore
 flot
 fissiped
-figgery
 flavoured
 flavourful
 fieldy
@@ -8863,6 +8862,7 @@ fator
 figeter
 fluidities
 flickers
+figgery
 fatty
 ferrotypes
 forebye
