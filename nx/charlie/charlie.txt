@@ -5932,7 +5932,6 @@ catercornered
 craner
 catered
 codpiece
-caterer
 caterers
 cytolymph
 cateringly
@@ -29607,6 +29606,7 @@ crocanthemum
 croceic
 croceine
 culture
+caterer
 crocetin
 ceratospongiae
 croche
