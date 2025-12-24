@@ -5574,7 +5574,6 @@ fossicking
 firefight
 forgette
 fader
-fibrinocellular
 flycatchers
 flicflac
 flintiness
@@ -11163,6 +11162,7 @@ frowy
 fungation
 fremdness
 flyblowing
+fibrinocellular
 fungian
 felspar
 fungibility
