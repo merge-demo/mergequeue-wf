@@ -3679,7 +3679,6 @@ fleur
 feistiest
 foysen
 futurisms
-fathead
 firesider
 franchisal
 flannelboard
@@ -5979,6 +5978,7 @@ fisk
 filleter
 fanwright
 ferguson
+fathead
 fainaigued
 favism
 firkin
