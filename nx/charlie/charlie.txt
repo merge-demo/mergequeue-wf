@@ -13041,7 +13041,6 @@ cobenignity
 currencies
 cyanoaurate
 characeous
-cyanoauric
 cyanobenzene
 crepitating
 clothify
@@ -25250,6 +25249,7 @@ corystoid
 corita
 calesa
 cephaldemae
+cyanoauric
 corium
 chiasmal
 chirurgic
