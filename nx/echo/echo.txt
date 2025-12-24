@@ -12103,7 +12103,6 @@ eubacterium
 ency
 excruciating
 excruciator
-ennomic
 excubitoria
 electrolysing
 eradicator
@@ -13639,6 +13638,7 @@ extenuate
 extenuates
 enchanted
 empicture
+ennomic
 eerier
 eliminates
 enfurrow
