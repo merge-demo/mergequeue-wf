@@ -4660,7 +4660,6 @@ barry
 buxus
 bedevilling
 barbershops
-borities
 bargee
 bedevilment
 bescarf
@@ -13180,6 +13179,7 @@ bullhorns
 baronize
 bangtail
 brachycephalize
+borities
 bourlaw
 bowtel
 borty
