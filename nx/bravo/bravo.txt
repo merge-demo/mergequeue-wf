@@ -11328,7 +11328,6 @@ byroad
 bedrug
 backbearing
 blaugas
-berouged
 blowziness
 blowzing
 bls
@@ -11375,6 +11374,7 @@ blacklegs
 burgwere
 bluebell
 belve
+berouged
 besmokes
 breadthways
 bluebelled
