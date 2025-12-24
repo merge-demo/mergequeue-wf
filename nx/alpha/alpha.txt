@@ -621,6 +621,7 @@ astigmatism
 alastrim
 astrologic
 acetoamidophenol
+author
 affranchisement
 angulate
 abolitionised
@@ -18697,7 +18698,6 @@ autocephality
 archbishopry
 archbishopric
 acroamata
-author
 awhet
 archbotcher
 aretes
