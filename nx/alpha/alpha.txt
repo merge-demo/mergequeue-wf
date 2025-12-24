@@ -4183,7 +4183,6 @@ autogenous
 adoration
 adoratory
 agatelike
-adorer
 andhra
 acquisita
 adorers
@@ -13153,6 +13152,7 @@ animalistic
 attemperator
 androgynous
 animalivora
+adorer
 amnioclepsis
 agenesias
 archplagiary
