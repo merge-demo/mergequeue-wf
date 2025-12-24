@@ -5136,6 +5136,7 @@ enslavers
 eremitic
 endochorion
 endochorionic
+euphory
 engrains
 elatha
 endocyst
@@ -10907,7 +10908,6 @@ enterokinase
 encephalocoele
 epibaterium
 euktolite
-euphory
 enchondrosis
 eaglewood
 euploidies
