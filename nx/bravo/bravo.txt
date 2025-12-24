@@ -8060,6 +8060,7 @@ bartend
 bagroom
 bicornuate
 bicornute
+blanketing
 beshadow
 boats
 bicorporate
@@ -17995,7 +17996,6 @@ bennel
 bagle
 bowled
 boners
-blanketing
 bonnock
 birdnest
 ballyragging
