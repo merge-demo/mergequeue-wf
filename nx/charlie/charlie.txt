@@ -10201,7 +10201,6 @@ chewed
 chaetodont
 cannulation
 condolatory
-chewer
 chewers
 cameography
 chewier
@@ -18313,6 +18312,7 @@ coffinless
 consoled
 chalcographer
 coffinmaking
+chewer
 coffins
 coffled
 coarbitrator
