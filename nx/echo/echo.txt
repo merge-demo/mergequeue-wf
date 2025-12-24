@@ -2093,6 +2093,7 @@ eudialyte
 elanet
 enantiopathia
 extravenate
+epitaphs
 encampments
 enthusiasm
 embalm
@@ -7484,7 +7485,6 @@ extracivically
 ephetae
 effulged
 ephetic
-epitaphs
 eclectist
 extricated
 eryx
