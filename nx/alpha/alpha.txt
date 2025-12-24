@@ -8086,6 +8086,7 @@ antitropal
 arrowheads
 algerian
 algerienne
+arising
 alizarins
 algerite
 aciduric
@@ -23869,7 +23870,6 @@ anomalogonatous
 attractors
 autarkist
 autechoscope
-arising
 adenopathy
 abanga
 apilary
