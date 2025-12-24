@@ -5764,7 +5764,6 @@ goorals
 guzzler
 guyandot
 goldbird
-gestio
 goosecap
 groovers
 gangways
@@ -8458,6 +8457,7 @@ gnathopodous
 guinea
 galinsoga
 geraniaceae
+gestio
 glottises
 gastaldite
 gadzooks
