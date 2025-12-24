@@ -3350,6 +3350,7 @@ germier
 goatsfoot
 gaetulian
 gomorrean
+gids
 gaging
 gildhalls
 gonydial
@@ -3846,7 +3847,6 @@ gameball
 gastroenterotomy
 grimsir
 giver
-gids
 gingeleys
 grandchild
 granulitize
