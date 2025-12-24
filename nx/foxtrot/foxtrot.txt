@@ -4798,7 +4798,6 @@ forfeiting
 fraudful
 frontoorbital
 fou
-francisco
 foothills
 flagman
 fasciolaria
@@ -6236,6 +6235,7 @@ fairgrounds
 forlana
 fatlings
 fargoing
+francisco
 filched
 floccules
 focusable
