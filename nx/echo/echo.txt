@@ -3436,6 +3436,7 @@ embassy
 eustomatous
 eriometer
 episyllogism
+enthroning
 edeotomy
 eucirripedia
 embogue
@@ -12191,7 +12192,6 @@ emoluments
 expectingly
 execrator
 emeraude
-enthroning
 empiriocritical
 execute
 executed
