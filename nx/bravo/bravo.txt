@@ -1024,6 +1024,7 @@ basqued
 borage
 blizzards
 bad
+bepuzzle
 bailers
 brees
 bunglings
@@ -13532,7 +13533,6 @@ bankfull
 bibliophile
 bra
 burdening
-bepuzzle
 baling
 bootleg
 binucleolate
