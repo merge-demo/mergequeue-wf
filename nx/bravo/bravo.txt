@@ -5118,6 +5118,7 @@ baselines
 bowellike
 bejuco
 blazoning
+bracted
 befittingness
 behoof
 boundedness
@@ -5722,7 +5723,6 @@ bundobust
 bikram
 bahts
 blastule
-bracted
 bebeast
 bemuzzles
 boilingly
