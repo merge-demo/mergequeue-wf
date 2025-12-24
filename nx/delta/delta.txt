@@ -4890,7 +4890,6 @@ disluster
 densitometers
 demonomist
 draisene
-demonopolize
 defervescence
 demonry
 dubiosities
@@ -10617,6 +10616,7 @@ dysporomorph
 drawfile
 diphtheritic
 diplonema
+demonopolize
 deuteric
 detritus
 dunnaged
