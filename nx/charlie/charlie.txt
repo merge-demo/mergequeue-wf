@@ -4730,6 +4730,7 @@ carousals
 cabmen
 centrospermae
 carouse
+craftwork
 caroused
 carousels
 carp
@@ -27981,7 +27982,6 @@ cistophori
 craftspeople
 concubinaries
 cheeriness
-craftwork
 cottoner
 crag
 craggan
