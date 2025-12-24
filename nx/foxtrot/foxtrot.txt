@@ -10085,7 +10085,6 @@ fetalism
 flammability
 fellowed
 friskin
-friskiness
 frisking
 frisch
 friskingly
@@ -10609,6 +10608,7 @@ foilsman
 filaceous
 fusht
 famular
+friskiness
 finched
 fructuate
 flucan
