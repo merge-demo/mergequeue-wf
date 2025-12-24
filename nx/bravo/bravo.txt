@@ -15549,7 +15549,6 @@ badinaging
 broomstick
 boxes
 bdelloida
-barraclade
 braggadocio
 bryozoon
 belyingly
@@ -16261,6 +16260,7 @@ bloodguilt
 brassy
 brownnoser
 beachmen
+barraclade
 bubo
 bluenesses
 brownouts
