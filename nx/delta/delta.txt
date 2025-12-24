@@ -7455,7 +7455,6 @@ defrosts
 dich
 dermoplasty
 djellab
-desmotropism
 drivable
 debating
 denude
@@ -17328,6 +17327,7 @@ decennaries
 droolier
 drollery
 dorts
+desmotropism
 deynt
 drooper
 dismays
