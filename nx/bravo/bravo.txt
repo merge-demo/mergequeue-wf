@@ -10478,7 +10478,6 @@ bopyrid
 blaster
 blastid
 blart
-borolanite
 blastings
 blastocele
 boomers
@@ -12875,6 +12874,7 @@ banishers
 betrayers
 bondslave
 behorror
+borolanite
 bifoil
 birthplace
 bg
