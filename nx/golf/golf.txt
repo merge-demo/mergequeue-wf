@@ -2258,6 +2258,7 @@ gigantoblast
 gunroom
 gammoning
 giust
+grandtotal
 glazily
 gonofs
 greengage
@@ -6817,7 +6818,6 @@ graille
 gaberdines
 gelsemic
 gratiolin
-grandtotal
 gingerade
 gallican
 gamelotte
