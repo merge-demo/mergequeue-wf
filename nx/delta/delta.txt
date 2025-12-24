@@ -10067,7 +10067,6 @@ dynamogenesis
 dauphins
 demological
 dynamograph
-dauerschlaf
 dynamometamorphic
 disseverance
 dynamometrical
@@ -13831,6 +13830,7 @@ distasteful
 disappointment
 dirties
 defoliated
+dauerschlaf
 distastefulness
 denom
 displuviate
