@@ -8410,7 +8410,6 @@ aftercost
 abiegh
 alkalinized
 arite
-antilog
 avogram
 anticausotic
 aschaffite
@@ -10643,6 +10642,7 @@ abib
 amin
 agaricales
 antimonarchial
+antilog
 aminate
 amines
 avoy
