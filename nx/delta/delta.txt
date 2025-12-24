@@ -4089,6 +4089,7 @@ delimitating
 delimitation
 deviational
 displumed
+depart
 departments
 diplomyelia
 deline
@@ -8218,7 +8219,6 @@ darghin
 diadelphian
 diadelphous
 diadema
-depart
 diaderm
 diadic
 disabusing
