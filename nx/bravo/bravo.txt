@@ -12323,7 +12323,6 @@ bungfull
 bacteriophagic
 bathycurrent
 bullwhacker
-betrayer
 bombardments
 bombline
 bowdrill
@@ -13511,6 +13510,7 @@ bourre
 beseek
 boondoggle
 boneyards
+betrayer
 botulisms
 brief
 brodequin
