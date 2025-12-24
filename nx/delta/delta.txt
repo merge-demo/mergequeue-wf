@@ -8772,7 +8772,6 @@ diazins
 dulcifying
 defeat
 defrocking
-dictaphone
 dequeen
 dragsmen
 depeter
@@ -10590,6 +10589,7 @@ diplomaing
 datapunch
 doleritic
 drudger
+dictaphone
 deben
 decolorizing
 diplomates
