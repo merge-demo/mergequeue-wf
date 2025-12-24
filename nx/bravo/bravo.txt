@@ -2926,7 +2926,6 @@ batuque
 botanical
 bundies
 beachheads
-beartongue
 blennometritis
 bonair
 butlerdom
@@ -16669,6 +16668,7 @@ bebaron
 broilers
 benzamido
 bovey
+beartongue
 buckboards
 bailpiece
 bloodspiller
