@@ -3514,6 +3514,7 @@ foresting
 forestine
 frubbish
 femoropopliteal
+foeless
 fodderless
 furify
 fly
@@ -6651,7 +6652,6 @@ footpath
 fillip
 forevouched
 foehnlike
-foeless
 faulted
 fulgurating
 flossing
