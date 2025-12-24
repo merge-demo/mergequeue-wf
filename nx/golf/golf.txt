@@ -2421,7 +2421,6 @@ gazel
 goaled
 guiac
 gummose
-gratification
 guardship
 gemmological
 gemmologist
@@ -10374,6 +10373,7 @@ generators
 giddied
 gargoyled
 gallflower
+gratification
 garbanzos
 giambeux
 gonyalgia
