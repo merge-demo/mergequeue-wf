@@ -3851,7 +3851,6 @@ degraduation
 dopatta
 decastyle
 dephlegm
-diomedeidae
 deselects
 disinteresting
 dissceptred
@@ -8697,6 +8696,7 @@ deathrate
 depolarizing
 diethylethanolamine
 diastereoisomerism
+diomedeidae
 dodges
 druid
 deoxyribose
