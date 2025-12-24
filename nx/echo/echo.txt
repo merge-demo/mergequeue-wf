@@ -10749,7 +10749,6 @@ extrasystolic
 elderbush
 euphonic
 enid
-ephemerae
 enclaret
 extort
 ephemeran
@@ -11028,6 +11027,7 @@ euangiotic
 epipial
 eyne
 endogenies
+ephemerae
 enrollments
 episcopacies
 eliminator
