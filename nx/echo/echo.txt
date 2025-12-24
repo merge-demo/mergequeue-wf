@@ -6160,7 +6160,6 @@ episkotister
 estuary
 endocystitis
 enlodgement
-enlumine
 entheos
 evelyn
 ergoplasm
@@ -13993,6 +13992,7 @@ enfigure
 extrapolatory
 entemple
 extraposition
+enlumine
 electrolytic
 extrapunitive
 equinity
