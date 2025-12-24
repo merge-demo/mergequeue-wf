@@ -2653,6 +2653,7 @@ glow
 garg
 germantown
 globulicidal
+geo
 genetika
 gurgeon
 gathering
@@ -3571,7 +3572,6 @@ geomagnetist
 gluconeogenesis
 grugru
 gunslinging
-geo
 glunched
 ghettoizes
 gymkhana
