@@ -15724,6 +15724,7 @@ chirres
 clavy
 clavicembalist
 clavicembalo
+clinometric
 claviceps
 caiarara
 cartage
@@ -16289,7 +16290,6 @@ clinoid
 clinology
 clinometer
 clinometry
-clinometric
 cantos
 condylura
 canisters
