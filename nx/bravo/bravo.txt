@@ -1191,6 +1191,7 @@ buoys
 brawliest
 breth
 backstage
+battements
 baked
 blepharydatis
 bibliothetic
@@ -5494,7 +5495,6 @@ behoved
 basting
 behoves
 behoving
-battements
 basseted
 babbitts
 behowled
