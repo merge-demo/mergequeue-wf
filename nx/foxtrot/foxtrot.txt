@@ -2020,6 +2020,7 @@ flitch
 farouche
 frogmouth
 fourpounder
+formols
 ferngrower
 frontspiece
 feinter
@@ -8528,7 +8529,6 @@ fluid
 foun
 facsimiling
 fetlock
-formols
 fiddledeedee
 fidley
 flailing
