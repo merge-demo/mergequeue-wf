@@ -2584,7 +2584,6 @@ chinol
 castellanship
 candlesticks
 cogniser
-candlewaster
 choledocholithotripsy
 cambial
 crocoisite
@@ -28222,6 +28221,7 @@ crapette
 conjoiner
 concordial
 cytogenetically
+candlewaster
 crapy
 crapped
 cro
