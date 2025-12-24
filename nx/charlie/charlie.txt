@@ -4349,6 +4349,7 @@ contorted
 continuing
 cary
 caryatid
+corrects
 caryatidal
 cigaresque
 caryatids
@@ -11333,7 +11334,6 @@ centripetency
 chlorocalcite
 chlorochromates
 construing
-corrects
 claritude
 cwo
 checkups
