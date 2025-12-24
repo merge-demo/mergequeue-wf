@@ -4870,7 +4870,6 @@ crosspost
 cressida
 conjuror
 contrariantly
-coffea
 carr
 carrack
 cymulose
@@ -11094,6 +11093,7 @@ chisels
 chisled
 clarkeites
 conichalcite
+coffea
 chistka
 chit
 chitak
