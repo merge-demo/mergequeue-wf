@@ -2859,7 +2859,6 @@ exostracize
 eucharistized
 essayistical
 eleostearic
-endoubt
 enseat
 electroluminescent
 explicans
@@ -11683,6 +11682,7 @@ exogenism
 exaggerate
 electrize
 etiotropic
+endoubt
 exaggerated
 eccentricity
 electrocautery
