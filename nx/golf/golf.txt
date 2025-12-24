@@ -4574,7 +4574,6 @@ grids
 girella
 gracefully
 girellidae
-grotesqueries
 gurts
 greenhorns
 gluelike
@@ -9726,6 +9725,7 @@ guidonian
 georgiana
 geck
 gandurah
+grotesqueries
 gambades
 greyhounds
 grocerwise
