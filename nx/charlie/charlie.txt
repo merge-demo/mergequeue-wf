@@ -24016,7 +24016,6 @@ convented
 coelicolist
 cylinderlike
 conventicle
-conventicular
 craniotome
 convention
 conventional
@@ -29161,6 +29160,7 @@ cheque
 cranioscopist
 cotillons
 cryoconite
+conventicular
 cryogeny
 callidity
 cradleside
