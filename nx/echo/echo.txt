@@ -256,6 +256,7 @@ elaborative
 easer
 electroluminescence
 esmeraldan
+electrocautery
 easy
 epionychium
 extratubal
@@ -11684,7 +11685,6 @@ etiotropic
 endoubt
 exaggerated
 eccentricity
-electrocautery
 epididymectomy
 emundation
 exaggeratingly
