@@ -3639,6 +3639,7 @@ choosable
 caraboa
 caaba
 circle
+connived
 caraboid
 carabus
 caracara
@@ -22647,7 +22648,6 @@ chug
 clinker
 crevice
 cawquaw
-connived
 chromochalcography
 connives
 captance
