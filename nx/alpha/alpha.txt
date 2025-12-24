@@ -1408,7 +1408,6 @@ adipofibroma
 axilemmata
 accessioner
 accessive
-anoplocephalic
 aurichalcum
 awlessness
 aaru
@@ -11936,6 +11935,7 @@ acron
 abodement
 agonostomus
 ampelite
+anoplocephalic
 admixes
 azeotropy
 anaphroditic
