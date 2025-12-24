@@ -2234,7 +2234,6 @@ campong
 campongs
 convincing
 counterclaiming
-cheiropodist
 camponotus
 counterhammering
 campos
@@ -20830,6 +20829,7 @@ complotter
 carwitchet
 complotting
 complutensian
+cheiropodist
 cartelized
 compo
 counterstream
