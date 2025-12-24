@@ -8555,6 +8555,7 @@ clow
 contrition
 chemosterilants
 chanced
+coroll
 categorical
 carpus
 chanceful
@@ -25478,7 +25479,6 @@ contaggia
 circumclusion
 congenialness
 cephaelis
-coroll
 corollary
 centrosymmetric
 chastens
