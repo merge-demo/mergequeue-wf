@@ -928,7 +928,6 @@ gingeli
 gammerel
 gammerstang
 gastropneumatic
-gannets
 gammock
 guepard
 grouched
@@ -8007,6 +8006,7 @@ gomarist
 gunnies
 gorsechat
 grabbots
+gannets
 gratitude
 geste
 gemse
