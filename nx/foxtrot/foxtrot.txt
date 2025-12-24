@@ -2638,7 +2638,6 @@ freshes
 fluocerite
 frumpling
 fluviatic
-fraters
 feedings
 felspathic
 fainaigue
@@ -10460,6 +10459,7 @@ frontstall
 forstall
 frizes
 ferocity
+fraters
 flaxtail
 frontwards
 fragrant
