@@ -12324,6 +12324,7 @@ betrayer
 bombardments
 bombline
 bowdrill
+biometrist
 bombast
 bicker
 bezzi
@@ -14450,7 +14451,6 @@ bratticed
 birdman
 betrayals
 breamed
-biometrist
 becivet
 braireau
 braises
