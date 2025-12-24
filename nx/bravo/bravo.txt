@@ -9244,7 +9244,6 @@ bow
 bipinnatisect
 bobsledding
 brighter
-bipyramid
 bring
 bipyridyl
 biangulated
@@ -16471,6 +16470,7 @@ bellwood
 bronchopathy
 borneo
 byrling
+bipyramid
 brushpopper
 brashier
 brushwood
