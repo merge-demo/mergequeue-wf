@@ -1014,7 +1014,6 @@ daneball
 darkens
 disruptions
 deformeter
-digest
 daffling
 dypnone
 dolorimetric
@@ -2667,6 +2666,7 @@ decompiler
 decomposable
 diceman
 deviceful
+digest
 decomposer
 debrief
 decomposers
