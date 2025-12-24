@@ -6009,7 +6009,6 @@ busybodies
 bemadden
 bemiring
 burrs
-bemisted
 beauxite
 bakings
 bemists
@@ -13318,6 +13317,7 @@ benzanalgen
 brachioradialis
 botanizes
 bulbless
+bemisted
 balsamed
 bacterially
 bemat

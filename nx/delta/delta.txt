@@ -2415,7 +2415,6 @@ decimalism
 dueling
 decimalization
 displeases
-decimalizes
 dehiscent
 dreamlit
 deceived
@@ -12609,6 +12608,7 @@ dragoness
 dechenite
 disintoxication
 dankness
+decimalizes
 daud
 dysyntribite
 driftfish
