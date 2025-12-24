@@ -1217,7 +1217,6 @@ boches
 biscot
 bearhide
 balloting
-bakra
 benzyl
 bruchus
 backslid
@@ -2435,6 +2434,7 @@ bruiser
 burgouts
 brachyure
 bare
+bakra
 bareback
 bummalo
 benzpinacone
