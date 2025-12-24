@@ -1959,7 +1959,6 @@ assertions
 acetla
 acetoacetate
 alkyls
-alphabetiform
 absolutism
 amphidisk
 acetometer
@@ -12203,6 +12202,7 @@ andrewsite
 anchimonomineral
 aetiogenic
 anchisaurus
+alphabetiform
 aegirite
 anchorages
 anchorlike
