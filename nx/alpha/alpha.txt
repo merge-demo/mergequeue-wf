@@ -14485,7 +14485,6 @@ anthospermum
 anoplotheroid
 anthropography
 animatism
-acritochromacy
 algologically
 adnoun
 anobing
@@ -24850,6 +24849,7 @@ ascidioida
 avolitional
 avouch
 avouchable
+acritochromacy
 atmosphere
 anaptyxis
 alands
