@@ -2259,7 +2259,6 @@ elect
 epitheliulia
 electary
 engrailing
-enthraldom
 emotionist
 elysee
 electic
@@ -2547,6 +2546,7 @@ etiologically
 eviration
 emesidae
 eternity
+enthraldom
 electrolytically
 exuviates
 ephemeromorph
