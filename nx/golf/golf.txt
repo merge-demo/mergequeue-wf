@@ -2525,7 +2525,6 @@ gamogeny
 graven
 glomeroporphyritic
 gumshield
-gradatim
 gastroenterocolitis
 gladite
 grattoir
@@ -6363,6 +6362,7 @@ grandisonous
 gospelwards
 germanophile
 greenwort
+gradatim
 guesstimate
 glossophaga
 gulmohar
