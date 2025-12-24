@@ -1336,7 +1336,6 @@ goldsmiths
 garishly
 galligaskins
 growingupness
-garlandless
 ganocephalan
 guillotiner
 greenalite
@@ -5528,6 +5527,7 @@ gad
 grumbles
 gamecocks
 guardlike
+garlandless
 globigerinae
 guarnerius
 gourd
