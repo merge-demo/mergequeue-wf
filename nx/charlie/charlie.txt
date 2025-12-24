@@ -8905,7 +8905,6 @@ characterisable
 clavodeltoideus
 complimenters
 catlinite
-characterise
 characterised
 cumulus
 characterising
@@ -26408,6 +26407,7 @@ coticed
 coruscate
 colleter
 cleating
+characterise
 chlorprophenpyridamine
 coticing
 cotidal
