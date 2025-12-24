@@ -2456,6 +2456,7 @@ electroencephalogram
 empeople
 entophytal
 espinel
+electrogenetic
 euphausid
 epitaxial
 earthnut
@@ -9935,7 +9936,6 @@ ebraick
 estral
 evermore
 exoccipital
-electrogenetic
 episodal
 epididymitis
 esophagoptosis
