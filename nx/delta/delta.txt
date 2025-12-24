@@ -5109,7 +5109,6 @@ desexes
 durango
 durwaun
 detect
-dendrology
 dola
 decompress
 daubes
@@ -10826,6 +10825,7 @@ developement
 doctrinarianism
 diabolifuge
 direnesses
+dendrology
 demophil
 drier
 debunkment
