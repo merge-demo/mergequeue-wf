@@ -4375,6 +4375,7 @@ flybook
 fishboats
 fonduk
 fishbolts
+faqir
 fingerberry
 flechette
 funt
@@ -9623,7 +9624,6 @@ fothering
 flanger
 flagellant
 finalism
-faqir
 foreseeability
 filipinize
 fleeceable
