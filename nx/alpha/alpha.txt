@@ -11310,7 +11310,6 @@ amphorae
 acappella
 algors
 alohas
-apiator
 abuzz
 amphore
 admedian
@@ -22162,6 +22161,7 @@ arpeggiando
 arrowstone
 alumstone
 archeology
+apiator
 asthenolith
 asthenology
 achaenodon
