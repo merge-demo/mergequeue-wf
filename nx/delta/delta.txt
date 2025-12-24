@@ -5284,6 +5284,7 @@ disscepter
 dewey
 deligated
 drammer
+detects
 density
 defat
 degasifier
@@ -15817,7 +15818,6 @@ dorsiflex
 does
 dorsiflexion
 deuteron
-detects
 diacetic
 deluge
 dissertations
