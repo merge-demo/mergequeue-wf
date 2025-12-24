@@ -10734,6 +10734,7 @@ delocalisation
 disarranged
 disinfects
 dhoon
+disclass
 decessor
 dipsie
 declared
@@ -11403,7 +11404,6 @@ desktop
 discontentedly
 deadbeats
 doctrinize
-disclass
 deuterogenesis
 dermorhynchous
 disclimax
