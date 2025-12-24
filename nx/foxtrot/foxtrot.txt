@@ -1759,6 +1759,7 @@ fn
 featheriness
 frogface
 foreslack
+fretsome
 forsterite
 farfet
 farsalah
@@ -5446,7 +5447,6 @@ foresummer
 feridjee
 fanatic
 farmerish
-fretsome
 fleeter
 fusionless
 firefighter
