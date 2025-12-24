@@ -4205,7 +4205,6 @@ gulflike
 geniculum
 gossy
 goosefoots
-gymnotus
 gutling
 geomagnetic
 gimped
@@ -6779,6 +6778,7 @@ galeiform
 gyrostatics
 genal
 genros
+gymnotus
 gondola
 goniums
 garbleable
