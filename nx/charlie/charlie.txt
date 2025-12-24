@@ -16933,6 +16933,7 @@ cluing
 chwas
 cheyney
 charca
+complexation
 clumber
 clump
 contemper
@@ -20731,7 +20732,6 @@ celative
 completory
 chooser
 complex
-complexation
 complexedness
 complexer
 cuinfo
