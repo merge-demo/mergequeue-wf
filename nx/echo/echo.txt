@@ -6756,7 +6756,6 @@ eurytherm
 epistrophy
 etherate
 enthelminthic
-executant
 effume
 ectosomal
 extratarsal
@@ -9177,6 +9176,7 @@ edgeless
 exterminatory
 enslavement
 enginelike
+executant
 everts
 exhorted
 eusuchia
