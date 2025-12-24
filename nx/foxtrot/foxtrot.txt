@@ -7043,7 +7043,6 @@ fougasse
 fontful
 fantassin
 forehandedly
-fonticulus
 flapmouthed
 foreganger
 fontinas
@@ -9184,6 +9183,7 @@ freights
 fondue
 formidolous
 fossorial
+fonticulus
 fractionization
 fractions
 forncast
