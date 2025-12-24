@@ -4854,6 +4854,7 @@ episiotomy
 echard
 encores
 enemas
+es
 excitive
 engrail
 epicranium
@@ -4927,7 +4928,6 @@ electrodialyzer
 englishly
 eggers
 ensured
-es
 entablements
 excisions
 ef
