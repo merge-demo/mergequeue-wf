@@ -7451,7 +7451,6 @@ furnacite
 francophone
 freckliest
 ferredoxin
-foreguidance
 firecrest
 finner
 freemen
@@ -8038,6 +8037,7 @@ feist
 finicality
 fatbirds
 fontina
+foreguidance
 fellmongered
 forestage
 frivolled
