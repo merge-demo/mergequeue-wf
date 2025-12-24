@@ -5560,7 +5560,6 @@ fibbing
 felon
 foliaceous
 flowing
-fungic
 familiary
 flacourtiaceae
 felsitic
@@ -8329,6 +8328,7 @@ forhow
 fronter
 fanflower
 facelift
+fungic
 favuses
 foryield
 forelouper
