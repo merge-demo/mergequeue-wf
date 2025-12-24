@@ -1592,7 +1592,6 @@ enervates
 erosible
 extraversion
 encampment
-epinasty
 envigor
 exogeny
 erythrocytometry
@@ -2746,6 +2745,7 @@ esquamulose
 evaporated
 electrovalent
 electrowinning
+epinasty
 exaggerators
 ediya
 essenianism
