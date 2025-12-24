@@ -7457,7 +7457,6 @@ guereza
 glossist
 grabbier
 grunerite
-gourmandizer
 grapplement
 gomerals
 gasconaded
@@ -9848,6 +9847,7 @@ gips
 grousy
 gametophagia
 guajiras
+gourmandizer
 guama
 garcinia
 garrick
