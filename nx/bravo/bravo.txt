@@ -90,7 +90,6 @@ bulwarks
 bepastured
 baldachins
 babhan
-balafo
 barkened
 beastliest
 bespout
@@ -850,6 +849,7 @@ blackboards
 bagdad
 bloody
 bunters
+balafo
 begoniaceae
 bauxites
 bicolour
