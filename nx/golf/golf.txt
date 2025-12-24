@@ -1147,7 +1147,6 @@ grouses
 goninidia
 gastrogastrotomy
 genin
-genio
 gnawings
 galactometry
 gnetums
@@ -10423,6 +10422,7 @@ giller
 geepound
 graphiology
 grandstand
+genio
 gum
 gandhi
 gluiness
