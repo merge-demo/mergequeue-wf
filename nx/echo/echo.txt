@@ -3107,6 +3107,7 @@ emetia
 exhaustible
 excreters
 eardrop
+enseraph
 ellfish
 exor
 endarterium
@@ -14134,7 +14135,6 @@ extensory
 episcopates
 ebonizing
 ephemerality
-enseraph
 enplanement
 emulates
 enlard
