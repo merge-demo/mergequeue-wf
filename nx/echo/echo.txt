@@ -106,7 +106,6 @@ enchisel
 enmarble
 earreach
 engineership
-extraught
 enamoured
 eusteles
 earrings
@@ -12587,6 +12586,7 @@ etymologist
 earlet
 euphon
 ethion
+extraught
 eunuchry
 exocoelar
 exocoele
