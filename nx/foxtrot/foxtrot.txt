@@ -2232,7 +2232,6 @@ forgetting
 fracture
 filesave
 fainaiguer
-femora
 fatil
 fain
 fenced
@@ -5569,6 +5568,7 @@ flybys
 forfault
 fallaciously
 filamentar
+femora
 fiendlike
 flockowner
 fossicking
