@@ -2031,6 +2031,7 @@ facedown
 faucalize
 fireboat
 flindosa
+forestaller
 forwander
 faunlike
 florins
@@ -7603,7 +7604,6 @@ frankheartedness
 flightworthy
 fatuity
 footslogs
-forestaller
 flacherie
 forjudgment
 fatimid
