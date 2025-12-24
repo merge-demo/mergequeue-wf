@@ -11863,7 +11863,6 @@ chatelet
 catamountain
 chazzen
 cycloidal
-coaster
 copaljocote
 choosers
 choosier
@@ -28311,6 +28310,7 @@ cloning
 chytra
 circuitor
 crave
+coaster
 craved
 craven
 cudbears
