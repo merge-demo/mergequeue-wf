@@ -6240,6 +6240,7 @@ fatlings
 fargoing
 francisco
 filched
+forhow
 floccules
 focusable
 fascinative
@@ -8324,7 +8325,6 @@ floralia
 fod
 fraughan
 fossilizable
-forhow
 fronter
 fanflower
 facelift
