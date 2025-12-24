@@ -8131,6 +8131,7 @@ chafes
 chafewax
 calycanth
 campaspe
+chatter
 chimaeras
 chafeweed
 chaff
@@ -19251,7 +19252,6 @@ cimbia
 collutoria
 collutories
 cafeteria
-chatter
 collutorium
 colluvial
 chiffonade
