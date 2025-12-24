@@ -3150,7 +3150,6 @@ gnast
 galumphing
 grangousier
 galena
-gestures
 gastroelytrotomy
 greedygut
 gets
@@ -10842,6 +10841,7 @@ gentlefolks
 guaiacum
 guzul
 genotypical
+gestures
 gasworker
 grailer
 geason
