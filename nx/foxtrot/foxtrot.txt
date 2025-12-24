@@ -3000,6 +3000,7 @@ faintheartedness
 filmiform
 forma
 fiars
+formosity
 fiascos
 ferricyanogen
 ferrotype
@@ -8530,7 +8531,6 @@ facsimiling
 fetlock
 formols
 fiddledeedee
-formosity
 fidley
 flailing
 firehall
