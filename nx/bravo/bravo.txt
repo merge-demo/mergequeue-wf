@@ -5452,7 +5452,6 @@ bilch
 baviere
 balai
 bandying
-bandura
 beheaded
 beheader
 beheira
@@ -6467,6 +6466,7 @@ bepaste
 broached
 bletted
 burge
+bandura
 backdate
 bellon
 bepatched
