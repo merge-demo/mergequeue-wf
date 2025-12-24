@@ -2756,6 +2756,7 @@ armets
 amyelencephalia
 acroclinium
 archaist
+anywheres
 acrodactyla
 acrodont
 anarithmia
@@ -11389,7 +11390,6 @@ artilleries
 amrit
 ajugas
 attendants
-anywheres
 assets
 aneroids
 arthogram
