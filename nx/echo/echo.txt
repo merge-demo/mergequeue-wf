@@ -776,6 +776,7 @@ equilibrist
 easternizing
 ecoute
 exscinding
+ecphore
 ecphonema
 emotes
 echinal
@@ -13305,7 +13306,6 @@ educts
 explosimeter
 exembryonate
 encroach
-ecphore
 englishmen
 exorcisms
 explosively
