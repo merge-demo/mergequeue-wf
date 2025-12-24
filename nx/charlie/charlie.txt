@@ -625,7 +625,6 @@ caecilia
 caeciliidae
 chiropod
 citizenizing
-caecotomy
 constrictors
 caedmonian
 caelometer
@@ -8930,6 +8929,7 @@ chasmogamy
 companiable
 cirsophthalmia
 cycads
+caecotomy
 charadrii
 compendiousness
 charadriiformes
