@@ -2035,7 +2035,6 @@ alopiidae
 acharne
 afrikander
 acharnement
-achatina
 achatinidae
 ache
 alkalinising
@@ -18640,6 +18639,7 @@ altincar
 adiaphora
 alkalescent
 angerly
+achatina
 archaeostoma
 anisidine
 angelinformal
