@@ -17403,6 +17403,7 @@ coastlines
 cutleress
 channeled
 condensible
+chemosis
 churchmaster
 coastward
 coatdress
@@ -26537,7 +26538,6 @@ concreteness
 capeskin
 culicids
 cymbaled
-chemosis
 clingers
 conjecturable
 cheverons
