@@ -6638,7 +6638,6 @@ fruitery
 funds
 fancymonger
 fatuousness
-focussed
 fetlocked
 ferricyanic
 fecche
@@ -11555,6 +11554,7 @@ feedback
 friskful
 fusile
 flytier
+focussed
 fulgurator
 fulmar
 futhermore
