@@ -4119,6 +4119,7 @@ brachiopode
 bodysurfs
 bowmaking
 beelbow
+birches
 beardfishes
 beswarms
 botulinum
@@ -13866,7 +13867,6 @@ bowyer
 bejape
 bowyers
 bilious
-birches
 bedrite
 bowing
 bowings
