@@ -1058,7 +1058,6 @@ floriken
 floter
 foredestining
 furriery
-farolito
 flustration
 fiberboard
 frontons
@@ -8812,6 +8811,7 @@ flancard
 fecundation
 foxie
 fractionary
+farolito
 fixedly
 forgers
 foreprise
