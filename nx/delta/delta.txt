@@ -10758,7 +10758,6 @@ dipterygian
 discontiguous
 dipteryx
 deinodontidae
-dipterocarp
 dipterocarpaceae
 dartingly
 dipterocarpaceous
@@ -18533,6 +18532,7 @@ drivage
 diagraphic
 desulfurization
 darbs
+dipterocarp
 disrates
 durians
 differ
