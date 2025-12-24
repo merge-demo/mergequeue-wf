@@ -2726,7 +2726,6 @@ goofier
 gravitons
 gusle
 grith
-gemmoid
 genit
 golgothas
 gnatho
@@ -3860,6 +3859,7 @@ galleriies
 geometer
 glossophorous
 gonococcic
+gemmoid
 gigelira
 gaolerness
 gold
