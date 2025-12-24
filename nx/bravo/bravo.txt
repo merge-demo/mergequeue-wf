@@ -2877,6 +2877,7 @@ brushlessness
 bicep
 blanketless
 barrad
+bartenders
 bridebowl
 boskage
 biform
@@ -3014,7 +3015,6 @@ beared
 bidirectionally
 bottstick
 boist
-bartenders
 bartending
 bulbiferous
 bartends
