@@ -1220,7 +1220,6 @@ acanthopterygii
 acanthoses
 archeus
 acanthuridae
-acanthuthi
 ascetical
 adenocarcinomata
 articulator
@@ -24748,6 +24747,7 @@ approximated
 axonost
 auscult
 aviations
+acanthuthi
 aviatoriality
 aviatress
 azotises
