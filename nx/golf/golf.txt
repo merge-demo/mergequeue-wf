@@ -6235,7 +6235,6 @@ grecale
 gob
 greediness
 gadslid
-gobber
 goateed
 guitarlike
 gregariousness
@@ -8330,6 +8329,7 @@ gazelle
 gilenyer
 greenslade
 gracefulness
+gobber
 greyer
 gau
 giansar

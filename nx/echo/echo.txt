@@ -1477,6 +1477,7 @@ existential
 engineeringly
 enteron
 euphuisms
+equitriangular
 enarbour
 electrophoresis
 eelpout
@@ -6824,7 +6825,6 @@ entitling
 ecclesioclastic
 entoblastic
 entobronchium
-equitriangular
 eelgrass
 ellinge
 entocyemate
