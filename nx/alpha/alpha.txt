@@ -10848,7 +10848,6 @@ arctiidae
 ammonion
 ammonitess
 aligreek
-ammonitic
 ammonitoidea
 affording
 ammocoetiform
@@ -22540,6 +22539,7 @@ ansarian
 atavistically
 ataxiagraph
 ataxies
+ammonitic
 ataxinomic
 assidaean
 autecisms
