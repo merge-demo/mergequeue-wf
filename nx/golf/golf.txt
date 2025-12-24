@@ -6710,7 +6710,6 @@ geer
 gride
 graphitic
 gastronephritis
-gonidic
 genes
 gauges
 gyrostats
@@ -9127,6 +9126,7 @@ gavelkinder
 grisounite
 gelong
 greenbrier
+gonidic
 gigful
 gracious
 grinning
