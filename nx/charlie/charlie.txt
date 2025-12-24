@@ -10536,6 +10536,7 @@ childridden
 chloropsia
 childship
 childward
+coelastraceous
 childwife
 canities
 childwite
@@ -17968,7 +17969,6 @@ coelacanth
 coelacanthidae
 coelacanthous
 coelar
-coelastraceous
 canonics
 coregnant
 coelata
