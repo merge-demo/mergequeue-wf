@@ -137,7 +137,6 @@ fomes
 filicic
 fackeltanz
 freemasonry
-flamingo
 fumiferous
 flagellist
 feedhead
@@ -6245,6 +6244,7 @@ feeblish
 fermentitious
 foundationary
 ferrimagnetic
+flamingo
 fractionating
 fluffiness
 flexography
