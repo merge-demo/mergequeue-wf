@@ -4922,7 +4922,6 @@ empoisons
 ebulliometer
 exoperidium
 ecchymoses
-enculturation
 ergatandromorph
 extrapolates
 essenis
@@ -9286,6 +9285,7 @@ entrep
 exogamous
 expositional
 ebricty
+enculturation
 entertains
 euchologia
 eugeosynclinal
