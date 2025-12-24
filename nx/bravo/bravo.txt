@@ -3500,6 +3500,7 @@ biosis
 batarde
 bullaces
 batatas
+battleground
 batavi
 ballan
 bronchospasm
@@ -3581,7 +3582,6 @@ balon
 barricade
 byronish
 brushy
-battleground
 berkeleyite
 bien
 bathysophical
