@@ -6040,6 +6040,7 @@ fermorite
 flightiness
 finger
 fontange
+fraud
 forgab
 frontooccipital
 flanker
@@ -8784,7 +8785,6 @@ fusilades
 fungo
 facelifts
 foreplace
-fraud
 fated
 frugality
 floroon
