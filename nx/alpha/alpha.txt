@@ -4918,6 +4918,7 @@ anthonomus
 aerometer
 aspen
 amygdalus
+afterband
 amenite
 amphictyonies
 autonomously
@@ -6750,7 +6751,6 @@ airdate
 avowing
 animally
 applicatory
-afterband
 affable
 amyrin
 ammonify
