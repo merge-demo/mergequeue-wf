@@ -1911,7 +1911,6 @@ fykes
 fecalith
 frithborh
 fixure
-feminities
 filtrated
 foamless
 furtherance
@@ -8511,6 +8510,7 @@ forbearance
 forminate
 forming
 formless
+feminities
 forwoden
 foxtrot
 flunkydom
