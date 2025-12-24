@@ -5042,7 +5042,6 @@ epithelioblastoma
 endogastric
 enders
 empathic
-expelled
 exulcerative
 evangelistics
 endgate
@@ -10487,6 +10486,7 @@ ecclesiolatry
 eucgia
 eightpenny
 enologies
+expelled
 exorbitant
 eclectics
 epulary
