@@ -9628,7 +9628,6 @@ dexterous
 dihydrostreptomycin
 dihydrotachysterol
 dhaks
-dihydroxyacetone
 defaceable
 dihydroxysuccinic
 dulse
@@ -18656,6 +18655,7 @@ decolorize
 duvetynes
 devaporation
 dereign
+dihydroxyacetone
 deflagrability
 daishikis
 dvigu
