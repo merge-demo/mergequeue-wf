@@ -3793,6 +3793,7 @@ diwan
 durani
 dysphemistic
 denigrative
+dolerites
 donkey
 dialyzator
 dienes
@@ -11929,7 +11930,6 @@ diseasedness
 diseases
 diseconomy
 diastemata
-dolerites
 diselenid
 dicetyl
 diplostemonous
