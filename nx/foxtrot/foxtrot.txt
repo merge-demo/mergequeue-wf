@@ -5541,6 +5541,7 @@ fw
 favouredly
 foamily
 foreordain
+flatterable
 flagon
 fol
 fural
@@ -6686,7 +6687,6 @@ fairways
 fogfruit
 fibrins
 fruiteress
-flatterable
 flintlock
 flexura
 flouts
