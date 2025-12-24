@@ -839,7 +839,6 @@ epitheton
 entrecote
 epop
 exulate
-eom
 ectiris
 etamines
 eriophorum
@@ -4435,6 +4434,7 @@ effectively
 encaptivate
 essence
 exaggeratively
+eom
 expectorate
 eternized
 electrophysiologic

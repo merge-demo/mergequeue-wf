@@ -6901,7 +6901,6 @@ discolors
 dahabiyeh
 deadliest
 deficit
-desorption
 drollist
 discomposes
 desoxalic
@@ -16283,6 +16282,7 @@ downness
 disenthralls
 dvaita
 downpipe
+desorption
 downplay
 downplays
 dozenth
