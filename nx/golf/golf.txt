@@ -1373,6 +1373,7 @@ gabbro
 garnetlike
 grabbles
 gaulin
+graveyard
 gorb
 gastrostegal
 gravitometer
@@ -4469,7 +4470,6 @@ gundog
 graves
 generaliter
 greffier
-graveyard
 gipsydom
 giddyhead
 gugu
