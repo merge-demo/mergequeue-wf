@@ -161,7 +161,6 @@ defog
 dadenhudd
 dimercurion
 deprivations
-depasturable
 dissatisfying
 dado
 drugstore
@@ -12226,6 +12225,7 @@ disfrocking
 dysfunctional
 documentaries
 dysfunctioning
+depasturable
 dorine
 doweling
 deltoidal
