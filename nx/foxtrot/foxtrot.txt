@@ -6177,6 +6177,7 @@ fungibles
 festivals
 fragmentized
 finality
+farci
 flowerage
 fluxation
 forever
@@ -11621,7 +11622,6 @@ facsimile
 frolicsomely
 fortissimi
 foeish
-farci
 fibrous
 fosite
 funestal
