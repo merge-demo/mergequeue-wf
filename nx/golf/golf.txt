@@ -1968,7 +1968,6 @@ glairs
 garnishments
 glamor
 gallamine
-graafian
 gnomonical
 gimbal
 geology
@@ -4617,6 +4616,7 @@ gastronomist
 gillhooter
 germanyl
 gruys
+graafian
 glost
 grister
 gourmandism
