@@ -3086,6 +3086,7 @@ gabbart
 gizmos
 gaga
 geadephagous
+gordiidae
 glowworms
 gucki
 geocline
@@ -9739,7 +9740,6 @@ guying
 grummet
 gable
 gibbetting
-gordiidae
 gagroot
 gablewise
 gorged
