@@ -1724,7 +1724,6 @@ calorimetrical
 calorimetrically
 calorimotor
 calorizing
-cawing
 calosoma
 calotermes
 calotype
@@ -9481,6 +9480,7 @@ chlorin
 chevon
 commendatory
 cheapest
+cawing
 cheapish
 cheaply
 condom
