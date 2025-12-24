@@ -4308,7 +4308,6 @@ dysacousia
 demanded
 dissyllabized
 dilos
-descrier
 disburden
 defatigable
 demandingly
@@ -16888,6 +16887,7 @@ discriminations
 decilitre
 doubletone
 distortable
+descrier
 desilvered
 dichromate
 damewort

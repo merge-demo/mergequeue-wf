@@ -1612,7 +1612,6 @@ errite
 entires
 enumerator
 eucaines
-epirrhematic
 eff
 estopped
 erogenetic
@@ -2042,6 +2041,7 @@ eradiculose
 elixate
 elabrate
 endocrinotherapy
+epirrhematic
 epigaea
 erythrosine
 epitrophy
