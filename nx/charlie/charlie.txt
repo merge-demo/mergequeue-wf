@@ -121,6 +121,7 @@ canephorus
 cronish
 cabildo
 cabildos
+chutzpadik
 cabin
 cabinet
 cladophyllum
@@ -2427,7 +2428,6 @@ corynite
 cremnophobia
 cancellations
 charitableness
-chutzpadik
 cunctation
 coruminacan
 canceller
