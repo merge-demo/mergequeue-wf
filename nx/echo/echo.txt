@@ -4343,6 +4343,7 @@ eloquence
 exclaustration
 enamelist
 enamelless
+eburnean
 eluder
 emit
 edibles
@@ -7810,7 +7811,6 @@ extrudable
 envisage
 ethnobotany
 endearedly
-eburnean
 epigyne
 endotoxic
 empest
