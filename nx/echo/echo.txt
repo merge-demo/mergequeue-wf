@@ -3479,6 +3479,7 @@ embers
 estival
 enate
 epees
+enanthema
 elaeothesium
 enginemen
 excusative
@@ -9823,7 +9824,6 @@ econometrician
 electrophotography
 eatables
 entrance
-enanthema
 estats
 eternise
 ethionic
