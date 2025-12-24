@@ -6204,7 +6204,6 @@ cancan
 cattleyak
 cattleman
 conhydrin
-cattlemen
 cattleship
 catullian
 clamshells
@@ -31879,6 +31878,7 @@ cuttyhunk
 capillarily
 creamfruit
 cipaye
+cattlemen
 chloragen
 cordwainery
 carrageenan
