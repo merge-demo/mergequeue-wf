@@ -617,6 +617,7 @@ gnaphalioid
 gallisin
 gunslingers
 gillie
+glome
 geophysicist
 glide
 gradatory
@@ -7722,7 +7723,6 @@ goss
 governors
 graduses
 gentium
-glome
 girba
 glycuresis
 gemlike

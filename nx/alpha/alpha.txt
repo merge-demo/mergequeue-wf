@@ -3906,7 +3906,6 @@ absconding
 adjures
 aspersorium
 autotyphization
-acanthine
 absinthes
 adjust
 animalculum
@@ -18761,6 +18760,7 @@ auctioneer
 autochthony
 amazons
 abolitionising
+acanthine
 anticancerous
 adamas
 archegony
