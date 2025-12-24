@@ -6453,7 +6453,6 @@ departmentalising
 diploes
 decadenza
 dactylioglyph
-disbark
 desamidase
 desands
 desc
@@ -17000,6 +16999,7 @@ drepania
 drepanidae
 ductibility
 defray
+disbark
 debullition
 drepaniform
 disarmingly
