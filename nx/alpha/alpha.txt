@@ -11832,7 +11832,6 @@ albescent
 alconde
 analogousness
 analogue
-analphabet
 analphabete
 angelus
 acyanopsia
@@ -19073,6 +19072,7 @@ archplagiarist
 asinine
 airbrick
 arulo
+analphabet
 archpolitician
 archprelate
 archprelatic
