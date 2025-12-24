@@ -28253,6 +28253,7 @@ changable
 craspedal
 clinic
 craspedodromous
+currant
 craves
 craspedota
 calumets
@@ -31453,7 +31454,6 @@ culverwort
 centavo
 currajong
 currans
-currant
 completions
 chresards
 contradict
