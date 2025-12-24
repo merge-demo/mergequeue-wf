@@ -4816,7 +4816,6 @@ backpedaled
 burriest
 bougee
 bedroll
-bedrooms
 bruckle
 bandicoots
 bedrugged
@@ -17118,6 +17117,7 @@ bacteric
 bombazeen
 blowhard
 britchka
+bedrooms
 bifold
 beseeming
 bullfighters
