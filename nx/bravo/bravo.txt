@@ -5510,7 +5510,6 @@ birdwoman
 bowieful
 brechites
 briefly
-boort
 bringdown
 boatswains
 bawty
@@ -11099,6 +11098,7 @@ balmiest
 beddings
 bedawn
 bathyal
+boort
 blockship
 blodite
 besmeared
