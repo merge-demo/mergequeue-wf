@@ -2843,6 +2843,7 @@ epipubic
 exampleless
 ecodeme
 eleomargaric
+evap
 encephalon
 eleoplast
 epipolic
@@ -8924,7 +8925,6 @@ erichthoid
 ewder
 ergotoxine
 ergots
-evap
 erses
 egestive
 essive
