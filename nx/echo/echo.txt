@@ -1125,7 +1125,6 @@ extempory
 epeisodion
 ecphrasis
 esterification
-elatrometer
 electrotypes
 erionite
 edith
@@ -12503,6 +12502,7 @@ everyway
 embarrel
 enchiridia
 exinguinal
+elatrometer
 electrodissolution
 effare
 electrologic
