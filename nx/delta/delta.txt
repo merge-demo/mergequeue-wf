@@ -55,7 +55,6 @@ dacryocyst
 dacryocystitis
 diarchial
 diseasefulness
-dunder
 dacryocystosyringotomy
 derham
 dacryolithiasis
@@ -1956,6 +1955,7 @@ dermohumeral
 disyllabism
 deburr
 divulgatory
+dunder
 debus
 decanally
 defying
