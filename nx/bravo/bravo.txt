@@ -9821,7 +9821,6 @@ barrels
 balawa
 bucranium
 beamy
-biternately
 blanketer
 babuls
 bressummer
@@ -15597,6 +15596,7 @@ brigander
 beingless
 borer
 babyhoods
+biternately
 bristliness
 brucina
 bibliopegistic
