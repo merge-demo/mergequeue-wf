@@ -822,7 +822,6 @@ epispadias
 edaphically
 euglenidae
 ectypal
-ectype
 enwrite
 epizoa
 eclectically
@@ -7468,6 +7467,7 @@ ewe
 escobadura
 ephemeridae
 ephemeroptera
+ectype
 eigne
 extrafocal
 electronographic
