@@ -2795,7 +2795,6 @@ flaxiest
 frightfully
 funli
 fumigation
-fum
 forehood
 firsthand
 falcial
@@ -5345,6 +5344,7 @@ fructuously
 familyish
 fimbrilla
 finiking
+fum
 flouncier
 fuzzines
 fleams

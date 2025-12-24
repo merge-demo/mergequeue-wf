@@ -4214,7 +4214,6 @@ bouchees
 beatitude
 bandel
 bestially
-bioscientific
 beatles
 backchain
 bellmen
@@ -15859,6 +15858,7 @@ bindingly
 beno
 battered
 babiism
+bioscientific
 bloomsburian
 boilermakers
 bodybuild
