@@ -7091,6 +7091,7 @@ chronicles
 carrefour
 carroches
 cheap
+cloaks
 choledochostomy
 centenier
 centennia
@@ -9049,7 +9050,6 @@ circumrotated
 condition
 charityless
 caridoid
-cloaks
 comus
 charking
 chiels
