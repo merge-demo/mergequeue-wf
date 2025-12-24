@@ -1868,6 +1868,7 @@ fecundate
 fianchetti
 fanback
 frisson
+fluellite
 fallacious
 flexional
 frohlich
@@ -2918,7 +2919,6 @@ fencing
 foldy
 floccipend
 farfetch
-fluellite
 flyoff
 filialness
 flea
