@@ -12149,6 +12149,7 @@ bonesets
 baalshem
 burbots
 bedamp
+bolty
 boldo
 benzofluorene
 bannets
@@ -16083,7 +16084,6 @@ bcd
 bullionism
 bassetted
 bothersome
-bolty
 belittler
 breechclout
 brood
