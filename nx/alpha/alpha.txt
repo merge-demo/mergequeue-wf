@@ -7471,7 +7471,6 @@ albumimeter
 aftership
 appraisers
 ask
-abbasid
 anthranilate
 albuminate
 abrased
@@ -15096,6 +15095,7 @@ antidoted
 amethyst
 abruptest
 amphitokal
+abbasid
 artotypy
 aspherical
 anoplanthus
