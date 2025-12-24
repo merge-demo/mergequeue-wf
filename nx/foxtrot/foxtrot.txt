@@ -4783,7 +4783,6 @@ forbiddenness
 fissurellidae
 feuillants
 fortunetelling
-flocculable
 feltmonger
 flaunching
 freshened
@@ -11691,6 +11690,7 @@ faced
 flippancy
 fanlights
 furil
+flocculable
 fasinite
 filmmaker
 flapcake
