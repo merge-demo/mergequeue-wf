@@ -4641,7 +4641,6 @@ epistolean
 erethizontidae
 epilimnion
 echevin
-exeunt
 elucubrate
 excellent
 exarchs
@@ -7895,6 +7894,7 @@ extracurial
 edgingly
 emancipist
 enchantresses
+exeunt
 elephancy
 extortionateness
 ecotones
