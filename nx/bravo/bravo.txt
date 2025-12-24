@@ -8262,7 +8262,6 @@ brakehead
 bedsteads
 bovarysm
 bigamist
-boyars
 betafite
 bigamizing
 burstiness
@@ -11927,6 +11926,7 @@ browner
 bilio
 bellowers
 betutored
+boyars
 bewrought
 basinasial
 baggily
