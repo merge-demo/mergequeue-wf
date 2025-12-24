@@ -16652,7 +16652,6 @@ autoelevation
 apertural
 affrighter
 antichorus
-adiaphorous
 antihumanism
 alioth
 antimosquito
@@ -24945,6 +24944,7 @@ awat
 atomizing
 awater
 allophite
+adiaphorous
 abfarad
 arachis
 awave
