@@ -9949,6 +9949,7 @@ chemosurgery
 chemotactic
 cresylene
 choochoo
+coenamors
 chemotaxy
 collocatory
 chemotaxonomy
@@ -18083,7 +18084,6 @@ coenacula
 coenaculous
 coenamored
 clairseacher
-coenamors
 chiromancy
 condensational
 carats
