@@ -1113,6 +1113,7 @@ fluffing
 feverishness
 fractional
 fibrillary
+fanzine
 filiates
 farthings
 forlornness
@@ -10496,7 +10497,6 @@ fluitant
 fatness
 frutescent
 frostings
-fanzine
 finises
 fervencies
 floggable
