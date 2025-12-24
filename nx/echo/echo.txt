@@ -4116,7 +4116,6 @@ enantiomer
 elevating
 equiponderated
 emplastic
-emplastration
 excruciatingness
 ectrodactylism
 expulsionist
@@ -11122,6 +11121,7 @@ ebullioscopy
 euthycomi
 exploitable
 enol
+emplastration
 eurasia
 exsiliency
 euthytatic
