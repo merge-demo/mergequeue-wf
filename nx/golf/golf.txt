@@ -2958,7 +2958,6 @@ gosh
 gastroscopic
 gooseflower
 grotty
-gunks
 gestatorium
 guardingly
 ganymede
@@ -5588,6 +5587,7 @@ garuda
 ginks
 gipsyry
 gravestone
+gunks
 governance
 goller
 giantesque
