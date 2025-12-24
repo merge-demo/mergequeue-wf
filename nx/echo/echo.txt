@@ -3617,7 +3617,6 @@ enchainement
 ensuable
 eyeliner
 embracement
-enquiry
 epicauta
 erythraean
 earspool
@@ -3716,6 +3715,7 @@ eweries
 embryotome
 exhalatory
 eeten
+enquiry
 exculpated
 empuzzle
 ephemerons
