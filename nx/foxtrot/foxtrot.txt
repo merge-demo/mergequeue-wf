@@ -3909,7 +3909,6 @@ false
 filea
 fined
 faulty
-farmy
 formature
 fischerite
 forebrain
@@ -4124,6 +4123,7 @@ frogleaf
 fusilading
 foramina
 fulk
+farmy
 felonry
 flexed
 fatling
