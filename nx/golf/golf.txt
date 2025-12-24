@@ -5263,6 +5263,7 @@ gonyoncus
 genomes
 grouted
 garnets
+gauntly
 guitarfish
 gliadine
 galvanism
@@ -8162,7 +8163,6 @@ gliff
 ghastful
 gleek
 gallicization
-gauntly
 graftages
 gloomless
 gooey
