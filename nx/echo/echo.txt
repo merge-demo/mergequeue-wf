@@ -4346,7 +4346,6 @@ enactor
 epigrammatize
 echoed
 eloquence
-exclaustration
 enamelist
 enamelless
 eburnean
@@ -9290,6 +9289,7 @@ electrotellurograph
 externalist
 entrep
 exogamous
+exclaustration
 expositional
 ebricty
 enculturation
