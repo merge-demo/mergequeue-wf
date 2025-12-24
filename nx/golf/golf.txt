@@ -6255,7 +6255,6 @@ gospelly
 gainable
 gobble
 gowpen
-gierfalcon
 gobbled
 gothicizer
 gobbledygook
@@ -9285,6 +9284,7 @@ goidel
 gamely
 gemauve
 granitoid
+gierfalcon
 groenendael
 gecko
 gallstone
