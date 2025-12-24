@@ -3725,7 +3725,6 @@ grumpier
 ghostly
 gaura
 gnoses
-gnatoo
 ghostwriters
 gallirallus
 ghoulery
@@ -6289,6 +6288,7 @@ gyrons
 guijo
 gastroatonia
 gastriloquous
+gnatoo
 gastrocele
 gymnorhininae
 goblin
