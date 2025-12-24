@@ -4679,7 +4679,6 @@ gastrohelcosis
 geomorphologic
 ghostily
 geta
-geek
 glossarian
 golliwogg
 gerbilles
@@ -10026,6 +10025,7 @@ grf
 gigantostracous
 gaonate
 grammatolator
+geek
 gesneriaceous
 grissens
 genetoid
