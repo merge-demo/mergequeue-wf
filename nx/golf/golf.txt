@@ -4664,7 +4664,6 @@ guttery
 gliadins
 gyrovagues
 gloy
-gaatch
 gurjun
 girshes
 gipsyish
@@ -10709,6 +10708,7 @@ garbanzo
 gu
 grams
 gumma
+gaatch
 gunship
 gismondine
 gastrolytic
