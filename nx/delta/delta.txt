@@ -16860,7 +16860,6 @@ drawtongs
 dehumanizes
 deaired
 ddt
-dicyclic
 diiambus
 descamisado
 dataria
@@ -17187,6 +17186,7 @@ decursive
 depletory
 drive
 diastrophism
+dicyclic
 dehair
 deermeat
 disgustingness
