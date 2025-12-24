@@ -158,6 +158,7 @@ depopulates
 displacency
 dewtry
 defog
+devaluations
 dadenhudd
 dimercurion
 deprivations
@@ -11439,7 +11440,6 @@ documentation
 diallages
 deedeed
 drungar
-devaluations
 deadeye
 duodenogram
 dehaites
