@@ -11644,7 +11644,6 @@ exactable
 exactas
 epitomizing
 ergastoplasm
-elaterite
 epileptogenic
 elephanticide
 exacter
@@ -12494,6 +12493,7 @@ envisages
 epicentral
 embosture
 executrixship
+elaterite
 expertize
 exine
 extraviolet
