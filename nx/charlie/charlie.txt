@@ -4719,7 +4719,6 @@ cetes
 carousal
 coverture
 carousals
-cabmen
 centrospermae
 carouse
 craftwork
@@ -16888,6 +16887,7 @@ clubland
 clubman
 clanked
 cloveroot
+cabmen
 clubmate
 chiccory
 coexists
