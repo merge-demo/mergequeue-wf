@@ -2838,6 +2838,7 @@ ensnarling
 elenchi
 earbob
 elenchic
+eidos
 elves
 elenchize
 ecthlipsis
@@ -12743,7 +12744,6 @@ enfetters
 emarginula
 electroindustrial
 endoplasm
-eidos
 euhemeristically
 eucarpous
 eremochaetous
