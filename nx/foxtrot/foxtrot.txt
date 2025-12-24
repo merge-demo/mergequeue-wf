@@ -8693,6 +8693,7 @@ floured
 ferroprint
 forth
 freesia
+folkmote
 flaunters
 fryers
 funiculate
@@ -10373,7 +10374,6 @@ footlining
 frontcourt
 forays
 fructus
-folkmote
 foreschooling
 fragrances
 foreboard
