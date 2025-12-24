@@ -7210,7 +7210,6 @@ enwove
 entender
 euvrou
 epistasis
-euphonym
 enchesoun
 ensample
 enzootically
@@ -12323,6 +12322,7 @@ efs
 elaidate
 eulogizers
 erythroglucin
+euphonym
 effusiometer
 extermine
 emanators
