@@ -19129,7 +19129,6 @@ collinses
 circumterraneous
 cristate
 chaptrel
-collinsite
 collinsonia
 colliquable
 collyria
@@ -31015,6 +31014,7 @@ cumyl
 congos
 ceriops
 clairaudiently
+collinsite
 cuminal
 capitalize
 carbaryl
