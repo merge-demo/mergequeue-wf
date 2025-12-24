@@ -1954,6 +1954,7 @@ bacteriophage
 bandwidth
 bandworm
 boogiewoogie
+boshbok
 baylet
 baneberry
 benzoflavine
@@ -16676,7 +16677,6 @@ battlewagon
 banalness
 bungled
 brassidic
-boshbok
 blocage
 banquetings
 buckeen
