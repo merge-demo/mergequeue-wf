@@ -2626,7 +2626,6 @@ anacleticum
 acrania
 arius
 actresses
-acranial
 alcaaba
 aphthic
 amiloun
@@ -16324,6 +16323,7 @@ antituberculotic
 anticholagogue
 antitumoral
 affray
+acranial
 amphoriloquy
 anchistea
 autonomist
