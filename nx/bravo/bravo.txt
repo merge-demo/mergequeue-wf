@@ -1754,7 +1754,6 @@ blends
 baltimore
 bumblebeefishes
 baluba
-berogue
 baluch
 bitripinnatifid
 broquery
@@ -3446,6 +3445,7 @@ biophysically
 boatshop
 bleaching
 bagani
+berogue
 belzebuth
 bummers
 bastardry
