@@ -8229,7 +8229,6 @@ enkraal
 electrothermometer
 extinctive
 exsection
-empiecement
 etwas
 encydlopaedic
 equidominant
@@ -9655,6 +9654,7 @@ enclosing
 emissaries
 epicycles
 espy
+empiecement
 espial
 electrocoagulation
 escrows
