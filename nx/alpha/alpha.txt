@@ -5106,7 +5106,6 @@ anemological
 arsenides
 aetiologies
 aloelike
-axones
 administerial
 arrivisme
 anglemeter
@@ -10517,6 +10516,7 @@ aphids
 ascaris
 anotia
 amidulin
+axones
 abnegating
 absinthiating
 amyelencephalous
