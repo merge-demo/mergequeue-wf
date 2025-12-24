@@ -14203,7 +14203,6 @@ culinary
 circumambulator
 circumanal
 circumantarctic
-circumarticular
 circumaviate
 circumaviator
 cowlike
@@ -23002,6 +23001,7 @@ corniculum
 chili
 cive
 cryptic
+circumarticular
 compline
 consocies
 consolations
