@@ -1940,6 +1940,7 @@ depressant
 dobla
 deckload
 doze
+dezinkify
 dungy
 dicrotism
 debunkers
@@ -17500,7 +17501,6 @@ donuts
 drugeteria
 drugger
 deliverability
-dezinkify
 druggery
 druggets
 dendroidea
