@@ -9244,6 +9244,7 @@ alongshore
 archbishops
 alemana
 alongshoreman
+aramid
 autonetics
 antisymmetric
 aloose
@@ -18358,7 +18359,6 @@ assembling
 androgynus
 albocracy
 aramaism
-aramid
 appledrane
 antiecclesiastically
 aramids
