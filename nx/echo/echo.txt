@@ -2825,7 +2825,6 @@ elementish
 emendable
 extricates
 endomixis
-ecthyma
 ephebeibeia
 engarble
 ethylene
@@ -5159,6 +5158,7 @@ embracingness
 encysted
 emanatistic
 epilogic
+ecthyma
 eobiont
 exsanguinous
 erotics
