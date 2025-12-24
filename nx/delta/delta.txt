@@ -3666,7 +3666,6 @@ depsid
 disrupt
 decimalisation
 discalced
-denigrate
 dropworts
 degraduate
 digitinervate
@@ -6981,6 +6980,7 @@ docility
 drags
 dumbfoundment
 despitefully
+denigrate
 desalinizes
 despitefulness
 disray
