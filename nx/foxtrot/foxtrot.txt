@@ -1806,7 +1806,6 @@ flaithship
 frustules
 fanfarade
 flyspecks
-fiddler
 fastener
 fractureproof
 fissiparous
@@ -7658,6 +7657,7 @@ fubby
 forefield
 factitiousness
 foreorlop
+fiddler
 fructosan
 flimsilyst
 flips
