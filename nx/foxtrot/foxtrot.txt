@@ -4970,7 +4970,6 @@ feebleheartedly
 faust
 flammule
 fatidic
-flanch
 fodders
 formalize
 ferrugination
@@ -11581,6 +11580,7 @@ fthm
 fusionist
 fusions
 forrit
+flanch
 freity
 floscular
 fissional
