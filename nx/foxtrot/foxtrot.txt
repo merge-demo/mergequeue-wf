@@ -10947,7 +10947,6 @@ forgetness
 feuded
 furfuran
 founder
-forewit
 foreseing
 fooled
 fulzie
@@ -11275,6 +11274,7 @@ fernando
 flatters
 furanoid
 fricandeaus
+forewit
 fantasticism
 familiarizer
 furlane
