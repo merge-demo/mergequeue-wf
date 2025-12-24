@@ -4863,6 +4863,7 @@ dailies
 detecting
 demonography
 demonographies
+diakinetic
 denature
 dramseller
 deactivator
@@ -16509,7 +16510,6 @@ dibblers
 draftiest
 disobeyer
 dauding
-diakinetic
 dodderer
 dithiol
 distrix
