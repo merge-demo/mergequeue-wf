@@ -5629,7 +5629,6 @@ embryulcus
 enflower
 essexite
 evaporate
-ectognatha
 equalization
 epidendrum
 elutions
@@ -9565,6 +9564,7 @@ eskualdun
 elevations
 eslisor
 edifier
+ectognatha
 eatberry
 evection
 esmeralda
