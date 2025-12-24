@@ -8887,6 +8887,7 @@ daimio
 dermatitis
 decaisnea
 dice
+desiccators
 diceboard
 dazzles
 dilemi
@@ -13761,7 +13762,6 @@ darwinical
 digressively
 dichotomizing
 dumfounder
-desiccators
 dissonances
 deicide
 drank
