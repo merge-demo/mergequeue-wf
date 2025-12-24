@@ -9749,7 +9749,6 @@ calculations
 channelizes
 chiloncus
 cribwork
-cheilodipteridae
 cheilodipterus
 cheiloplasty
 cheilostomata
@@ -11714,6 +11713,7 @@ cyanoplatinite
 clerkdoms
 cardiopneumatic
 cholla
+cheilodipteridae
 cryogen
 criniger
 chollas
