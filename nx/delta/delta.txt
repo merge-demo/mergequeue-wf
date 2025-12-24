@@ -7004,6 +7004,7 @@ decease
 diogenite
 dithionite
 douter
+dielectric
 diets
 dript
 desiringly
@@ -9220,7 +9221,6 @@ dieldrin
 derelict
 decahedrodra
 dieldrins
-dielectric
 doziest
 disparately
 dismerit
