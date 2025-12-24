@@ -6198,6 +6198,7 @@ geomyidae
 guahibo
 glyptodontidae
 giantize
+grunter
 grimacier
 generalific
 goatfishes
@@ -9776,7 +9777,6 @@ gean
 globetrotter
 ganza
 grunt
-grunter
 gorsier
 gravemaking
 griffin
