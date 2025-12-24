@@ -3644,7 +3644,6 @@ emotionalised
 eudaemonize
 elatinaceous
 estimators
-enddamaging
 elaeocarpaceous
 exurb
 ecocidal
@@ -12713,6 +12712,7 @@ euonymus
 emboweling
 engramma
 exopod
+enddamaging
 epigraphist
 embus
 exopterygotism
