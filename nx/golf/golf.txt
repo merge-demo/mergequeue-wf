@@ -6364,7 +6364,6 @@ greenwort
 gradatim
 guesstimate
 glossophaga
-gulmohar
 galloped
 gamesomeness
 grieve
@@ -10737,6 +10736,7 @@ garnish
 galleried
 gournard
 gagers
+gulmohar
 groggy
 gelatinate
 garoted
