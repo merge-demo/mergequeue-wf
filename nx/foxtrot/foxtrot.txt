@@ -2717,6 +2717,7 @@ friezed
 fraternization
 forelimbs
 fyce
+foreshock
 fraela
 folklore
 faunas
@@ -7970,7 +7971,6 @@ ferreled
 flacks
 fidejussionary
 falk
-foreshock
 fluidifier
 formoxime
 foreshoe
