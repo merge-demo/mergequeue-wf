@@ -7379,6 +7379,7 @@ flakiness
 fortunous
 feedlots
 formous
+forgivable
 flyness
 findy
 forbidals
@@ -8289,7 +8290,6 @@ furacity
 forgings
 figgy
 freelances
-forgivable
 flushing
 fortunate
 flirting
