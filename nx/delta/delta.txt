@@ -2005,7 +2005,6 @@ decaedron
 decaffeinate
 depicted
 disformity
-decaffeinize
 disregardable
 dasypodidae
 dogleg
@@ -14611,6 +14610,7 @@ developmentary
 decupling
 divorcive
 dietal
+decaffeinize
 devs
 divort
 deconsecration
