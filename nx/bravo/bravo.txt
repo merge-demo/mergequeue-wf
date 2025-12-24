@@ -9570,7 +9570,6 @@ ballhawk
 biscayan
 beaver
 biscayanism
-burnover
 barbal
 biscayner
 beechiest
@@ -12243,6 +12242,7 @@ beld
 bolognas
 bolognese
 balaenopteridae
+burnover
 birdling
 besmut
 broos
