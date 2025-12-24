@@ -3623,7 +3623,6 @@ fielder
 floatsman
 fanglet
 froglets
-figurate
 forebitter
 facticide
 fretsaws
@@ -3891,6 +3890,7 @@ fluidextract
 findable
 fruz
 function
+figurate
 findhorn
 filarees
 fine
