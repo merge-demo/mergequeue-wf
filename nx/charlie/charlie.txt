@@ -8508,6 +8508,7 @@ chamfering
 characterstring
 crummed
 champaka
+conjunctions
 conducts
 clubridden
 champaks
@@ -22538,7 +22539,6 @@ conjugator
 conjugators
 conjugium
 coohee
-conjunctions
 countercause
 comfreys
 colluding
