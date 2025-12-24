@@ -1974,7 +1974,6 @@ geology
 geranic
 goring
 grubroot
-glut
 gripes
 grudged
 guttable
@@ -9661,6 +9660,7 @@ gastrojejunostomies
 grueled
 gestureless
 guipures
+glut
 gamogony
 gainfully
 gibuses
