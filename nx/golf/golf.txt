@@ -902,7 +902,6 @@ genome
 guahivo
 genteeler
 gaverick
-geld
 guna
 gambia
 garnishable
@@ -6044,6 +6043,7 @@ griddle
 gownsman
 gullishly
 guttiest
+geld
 gyttja
 gairfowl
 gnawers
