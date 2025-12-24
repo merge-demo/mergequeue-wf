@@ -6846,7 +6846,6 @@ chamoix
 chanceable
 caudal
 cellars
-chirologies
 cellarwoman
 cellblock
 celled
@@ -31918,6 +31917,7 @@ cuvy
 cuzceno
 cwierc
 comparators
+chirologies
 carbolineate
 coleopttera
 cotyledonar
