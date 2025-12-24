@@ -12044,7 +12044,6 @@ brawling
 boyau
 buybacks
 bilinigrin
-boyaux
 bronchostomies
 bertin
 bojite
@@ -13134,6 +13133,7 @@ bovids
 borning
 bastant
 bornite
+boyaux
 baksheesh
 bestirs
 bornites
