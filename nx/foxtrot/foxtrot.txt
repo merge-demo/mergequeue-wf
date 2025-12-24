@@ -2928,7 +2928,6 @@ filialness
 flea
 facier
 fooleries
-flukiness
 fac
 flaked
 formulist
@@ -3513,6 +3512,7 @@ fasciculi
 fraticelli
 foresting
 forestine
+flukiness
 frubbish
 femoropopliteal
 foeless

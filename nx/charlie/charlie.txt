@@ -26297,7 +26297,6 @@ cyclostomate
 cheung
 complacency
 costochondral
-costogenic
 costoinferior
 cephaloconic
 corolitic
@@ -31260,6 +31259,7 @@ curation
 cutworks
 curative
 curativeness
+costogenic
 curatorium
 charkha
 curatrices
