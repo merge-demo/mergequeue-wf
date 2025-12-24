@@ -3554,7 +3554,6 @@ forboding
 fairylands
 fulgence
 foggily
-fellowmen
 frenchism
 fogie
 flamboyance
@@ -10598,6 +10597,7 @@ francophobe
 feeblebrained
 fanteeg
 forwarn
+fellowmen
 freakouts
 fibrination
 finement
