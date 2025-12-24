@@ -3220,6 +3220,7 @@ getup
 golilla
 grievants
 greatheartedness
+gambled
 gloater
 globosely
 gepidae
@@ -7291,7 +7292,6 @@ grossness
 griddlecake
 goyetian
 glycerole
-gambled
 ganglion
 gyrostatic
 genet
