@@ -3578,7 +3578,6 @@ embolomalerism
 enervator
 exceeder
 equoid
-epicureanism
 erysipelatoid
 exothermally
 epidesmine
@@ -6150,6 +6149,7 @@ erminites
 extremum
 elaterometer
 elephantiases
+epicureanism
 ereptic
 espringal
 enfacement
