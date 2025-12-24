@@ -646,7 +646,6 @@ bechances
 beletter
 bronchocavernous
 bynames
-bungles
 bkpr
 boigid
 bacterized
@@ -16830,6 +16829,7 @@ brumbee
 bacterioid
 bicolligate
 buffable
+bungles
 buffalo
 buffalofish
 burglarised
