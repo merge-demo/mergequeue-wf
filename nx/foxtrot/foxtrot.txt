@@ -755,7 +755,6 @@ frazzled
 fetidness
 fezzan
 fibroangioma
-frequently
 fanciful
 fibreboard
 fleers
@@ -2328,6 +2327,7 @@ ferae
 fairyship
 fronton
 fetations
+frequently
 filmable
 flanneled
 fencelike
