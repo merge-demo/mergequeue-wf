@@ -1668,6 +1668,7 @@ fearedness
 fluidizes
 fathometer
 frypan
+fluorbenzene
 faucets
 flatworm
 fieldmice
@@ -11450,7 +11451,6 @@ frostless
 fathoms
 fusible
 fistinut
-fluorbenzene
 fideles
 fearnought
 flic
