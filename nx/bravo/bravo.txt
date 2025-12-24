@@ -14717,7 +14717,6 @@ bronzify
 blunderer
 bucked
 brattice
-bratticing
 blithely
 beggarweed
 bescorching
@@ -17583,6 +17582,7 @@ blayne
 blore
 belong
 bugle
+bratticing
 burgau
 braconidae
 benzidins
