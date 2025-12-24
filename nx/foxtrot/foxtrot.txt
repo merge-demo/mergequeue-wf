@@ -10502,6 +10502,7 @@ floggable
 felsosphaerite
 frostroot
 floe
+florimanist
 freshment
 frillery
 favouringly
@@ -11745,7 +11746,6 @@ flneur
 firiness
 foresin
 fremdly
-florimanist
 followings
 factorage
 fumados
