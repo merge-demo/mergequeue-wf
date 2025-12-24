@@ -2381,7 +2381,6 @@ acinus
 actinozoon
 aedes
 academicianship
-acipenserine
 antihemisphere
 acipenseroid
 artistdom
@@ -8745,6 +8744,7 @@ avens
 actinautography
 aspersions
 alimental
+acipenserine
 anfractuousness
 airtightness
 ascoma
