@@ -4961,7 +4961,6 @@ eveck
 extradictable
 endamoebas
 endamoebidae
-editorializing
 equations
 entoils
 endangitis
@@ -7697,6 +7696,7 @@ effumability
 ellipsometry
 epideictic
 endomesoderm
+editorializing
 eightieths
 endotheliomata
 eboulement
