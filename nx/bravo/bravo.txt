@@ -1908,7 +1908,6 @@ bodiced
 bareheaded
 bubonalgia
 bandanas
-bergama
 bandogs
 bediademed
 barken
@@ -15778,6 +15777,7 @@ bove
 bedecks
 beauing
 billethead
+bergama
 backstrokes
 backhandedly
 bereareft
