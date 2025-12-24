@@ -12063,7 +12063,6 @@ arquerite
 aspis
 angiosclerosis
 acidity
-avenalin
 anastomosing
 anastrophy
 advocator
@@ -12308,6 +12307,7 @@ almicore
 antithetics
 anodynia
 abatua
+avenalin
 asterolepidae
 axes
 anders
