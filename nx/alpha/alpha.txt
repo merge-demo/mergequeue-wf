@@ -5593,7 +5593,6 @@ austromancy
 acoelomatous
 axillary
 agade
-autocollimation
 atopies
 aquicultural
 almeidina
@@ -11195,6 +11194,7 @@ ascorbate
 aliunde
 alismaceous
 algebar
+autocollimation
 amphigories
 appenders
 allthing
