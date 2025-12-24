@@ -9226,6 +9226,7 @@ foveoles
 familiarly
 footled
 fries
+flaming
 fragileness
 foreknown
 faceplate
@@ -10231,7 +10232,6 @@ flunkeydom
 frailer
 falcated
 fibber
-flaming
 frogman
 fluoroscopically
 fasciodesis
