@@ -5160,7 +5160,6 @@ encysted
 emanatistic
 epilogic
 eobiont
-estray
 exsanguinous
 erotics
 endocoele
@@ -10554,6 +10553,7 @@ estates
 ergosterol
 euchlorite
 eleutherodactylus
+estray
 elbuck
 euchology
 endocrinological
