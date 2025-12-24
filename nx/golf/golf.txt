@@ -3871,7 +3871,6 @@ genevas
 giftwrapping
 gazeless
 gorgonesque
-gushing
 gardenwards
 gwely
 grant
@@ -7156,6 +7155,7 @@ gorgeret
 gorgia
 girly
 gorglin
+gushing
 gladden
 gestate
 galvayne
