@@ -9567,6 +9567,7 @@ bluejack
 battlements
 ballhawk
 biscayan
+beaver
 biscayanism
 burnover
 barbal
@@ -13404,7 +13405,6 @@ brushing
 bartisans
 bulgier
 birles
-beaver
 botryllus
 bucketer
 brachyceral
