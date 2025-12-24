@@ -4724,7 +4724,6 @@ avaunt
 anthologizing
 aftermath
 asterionella
-acarology
 anaretic
 antihum
 appenditious
@@ -16545,6 +16544,7 @@ anophthalmus
 apagogic
 avenses
 arumlike
+acarology
 apagogically
 apagogue
 apay
