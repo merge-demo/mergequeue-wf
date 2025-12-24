@@ -7909,7 +7909,6 @@ adobos
 adorningly
 aristippus
 aleppo
-alerce
 alerse
 agglutinates
 alerta
@@ -17838,6 +17837,7 @@ amobarbital
 apppetible
 atmans
 aheap
+alerce
 afteroar
 appaloosas
 amelioratively
