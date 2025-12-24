@@ -2022,7 +2022,6 @@ giggly
 gel
 gelatiniform
 gases
-gaveled
 gibbosities
 gangrenes
 gigartina
@@ -2910,6 +2909,7 @@ gallipots
 glittering
 gledes
 gonocyte
+gaveled
 gallinulelike
 gombos
 gingerous
