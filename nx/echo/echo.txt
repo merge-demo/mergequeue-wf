@@ -6425,7 +6425,6 @@ enanguish
 espaliered
 expugn
 ethinyls
-ensiled
 embezzler
 endopod
 engineering
@@ -11853,6 +11852,7 @@ excave
 epist
 eructated
 extancy
+ensiled
 elutes
 exceeded
 endosperm
