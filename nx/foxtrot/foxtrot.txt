@@ -777,7 +777,6 @@ funicle
 foins
 fluorines
 financing
-formalizations
 flunker
 fanfaronading
 folkloric
@@ -6780,6 +6779,7 @@ fitcher
 fold
 fantasy
 fleechment
+formalizations
 fluoroscopic
 frosts
 frosteds
