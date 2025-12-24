@@ -1447,7 +1447,6 @@ attires
 alewhap
 acclimates
 acclimatisation
-affixable
 archaisms
 amortize
 acclimatise
@@ -22861,6 +22860,7 @@ alphenic
 anyhow
 assonate
 aquo
+affixable
 atmosphereless
 announces
 almendro
