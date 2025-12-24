@@ -4059,7 +4059,6 @@ ghastlily
 guanines
 gear
 galbulus
-gileno
 gaddingly
 groomsman
 gladliest
@@ -7852,6 +7851,7 @@ goatskin
 gond
 glumpier
 grafship
+gileno
 gingall
 gynaeocracy
 grovy
