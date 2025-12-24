@@ -7587,6 +7587,7 @@ cilices
 cercariform
 cerci
 cercidiphyllaceae
+conservators
 cryotrons
 consummations
 colloquies
@@ -22902,7 +22903,6 @@ conservatory
 conservatorial
 climatologist
 crystograph
-conservators
 conservatorship
 carpings
 coordinator
