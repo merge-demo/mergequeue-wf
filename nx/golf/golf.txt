@@ -5730,7 +5730,6 @@ goldsmithery
 glockenspiel
 gallopade
 glossohyal
-gaultherase
 grayed
 gobos
 glossolalia
@@ -7224,6 +7223,7 @@ gambeering
 gesticulative
 gratuitousness
 guarani
+gaultherase
 gimblet
 guarneri
 gavages
