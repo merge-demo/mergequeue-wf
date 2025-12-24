@@ -22956,7 +22956,6 @@ chob
 consignificant
 consignification
 consignificative
-consignificator
 cylindroidal
 causse
 consigning
@@ -29194,6 +29193,7 @@ colicolitis
 cryoscopic
 cryoscopies
 cymbaler
+consignificator
 constipate
 cryosel
 cryospheric
