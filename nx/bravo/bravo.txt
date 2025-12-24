@@ -270,7 +270,6 @@ booths
 boltuprightness
 bespangled
 bontebuck
-belar
 back
 brachiocubital
 backache
@@ -13767,6 +13766,7 @@ bejig
 bovinely
 bezil
 bestrowed
+belar
 begazes
 buffet
 blesseder
