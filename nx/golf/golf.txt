@@ -1579,7 +1579,6 @@ gismos
 globicephala
 gymnura
 gauntlet
-gutteral
 gulanganes
 galleria
 gunlock
@@ -8575,6 +8574,7 @@ globalize
 grat
 growths
 gastrocnemius
+gutteral
 guarache
 glabriety
 gnathostomi
