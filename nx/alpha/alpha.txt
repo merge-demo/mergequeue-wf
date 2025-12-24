@@ -3541,7 +3541,6 @@ adeep
 arpent
 ajivas
 adelantado
-adelante
 adelarthra
 alectryon
 ascosporous
@@ -16475,6 +16474,7 @@ archeal
 aladfar
 acronal
 anviltops
+adelante
 altesse
 anxietude
 adipocele
