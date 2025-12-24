@@ -1396,7 +1396,6 @@ dayless
 decephalize
 diorites
 daviesite
-deleted
 demilitarize
 dispel
 downdale
@@ -11548,6 +11547,7 @@ downland
 desorbs
 discompanied
 disavowing
+deleted
 deepmouthed
 dimethyls
 degenerations
