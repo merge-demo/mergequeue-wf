@@ -984,6 +984,7 @@ bayamos
 brownier
 brigand
 barotropic
+benzotrifuran
 bayano
 birlie
 bewitch
@@ -4378,7 +4379,6 @@ bellhops
 beclang
 burbark
 blackhearted
-benzotrifuran
 bilingualism
 becircled
 botfly
