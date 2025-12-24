@@ -1216,7 +1216,6 @@ gripiest
 gatewards
 grannybush
 goodeniaceae
-galavants
 gramy
 gruffly
 gambler
@@ -2428,6 +2427,7 @@ glade
 goalkeeping
 grocers
 gulper
+galavants
 graphotypic
 garial
 geologian
