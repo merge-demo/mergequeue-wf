@@ -8790,7 +8790,6 @@ cimnel
 carditic
 cobnut
 capitaliser
-chapelling
 commonplaces
 chapelmaster
 colonises
@@ -30287,6 +30286,7 @@ compressions
 crumpled
 chorten
 crumply
+chapelling
 cargoose
 crumps
 convoluted
