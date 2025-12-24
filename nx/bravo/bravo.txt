@@ -987,7 +987,6 @@ barotropic
 bayano
 birlie
 bewitch
-bourdon
 bipalium
 blinger
 baycuru
@@ -12467,6 +12466,7 @@ bechase
 b
 barde
 bells
+bourdon
 boukit
 bescrawl
 booklists
