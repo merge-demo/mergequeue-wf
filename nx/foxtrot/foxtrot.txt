@@ -8547,6 +8547,7 @@ flapped
 foreanswer
 forehatchway
 flusterate
+feltwork
 figs
 fortification
 flatweed
@@ -9603,7 +9604,6 @@ freebootery
 forestiera
 freebooting
 freed
-feltwork
 facete
 forensic
 floreta

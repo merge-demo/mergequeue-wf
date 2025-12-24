@@ -3590,7 +3590,6 @@ druggery
 diatonous
 degener
 declaredness
-depredations
 dripping
 dextrogyre
 dinosauric
@@ -6103,6 +6102,7 @@ demiworld
 derailment
 decocts
 divvied
+depredations
 defalcate
 duplexs
 dualist
