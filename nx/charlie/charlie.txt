@@ -1081,7 +1081,6 @@ choristry
 calcariform
 chugalugs
 calcate
-cadish
 calceate
 curiology
 calced
@@ -26391,6 +26390,7 @@ circumsaturnian
 continuous
 cotenancy
 cotenant
+cadish
 cotenants
 chrismatories
 cotenure
