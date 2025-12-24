@@ -1037,7 +1037,6 @@ glassfuls
 gabardine
 gnarl
 geriatrics
-gentles
 gossamer
 gerardias
 gorgonin
@@ -6736,6 +6735,7 @@ graminivorous
 galvanolysis
 giddyberry
 guaiasanol
+gentles
 glucide
 groomy
 girlfriends
