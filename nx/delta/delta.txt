@@ -1748,7 +1748,6 @@ diphyllobothrium
 deathtrap
 devocalization
 drof
-deathward
 dikaryon
 ductility
 docent
@@ -12775,6 +12774,7 @@ drogher
 diaschisma
 dislodgment
 docimasy
+deathward
 doily
 disloyal
 disencourage
