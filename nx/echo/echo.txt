@@ -2087,7 +2087,6 @@ electrophorese
 evilly
 eudialyte
 elanet
-elanus
 enantiopathia
 extravenate
 encampments
@@ -2872,6 +2871,7 @@ escars
 elephantoid
 elephantoidal
 enantiopathy
+elanus
 estrays
 elephantiasic
 elettaria
