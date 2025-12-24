@@ -5865,7 +5865,6 @@ accompanists
 aggrades
 accademia
 auge
-arminianism
 aeciostage
 aggrammatism
 approachability
@@ -10314,6 +10313,7 @@ america
 arrayed
 aerobacteriology
 antihemoglobin
+arminianism
 academician
 amebas
 americanisms
