@@ -7542,7 +7542,6 @@ banes
 boehmite
 bevilled
 butterbill
-bromometrically
 baronga
 branchiopallial
 bernicle
@@ -14630,6 +14629,7 @@ bitterns
 brantails
 barricado
 bedcord
+bromometrically
 brantle
 bacteriologic
 bibliomanism
