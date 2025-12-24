@@ -2668,7 +2668,6 @@ canfield
 counterstatement
 canfields
 cantillating
-canfuls
 cangan
 charterist
 cruelhearted
@@ -30281,6 +30280,7 @@ crummy
 consummativeness
 coppaelite
 crummiest
+canfuls
 crumminess
 crumming
 calcarine
