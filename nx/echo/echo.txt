@@ -545,7 +545,6 @@ echinidan
 expy
 enzymologist
 eclipsises
-entosthoblast
 echinococcosis
 epedaphic
 epithelioceptor
@@ -8357,6 +8356,7 @@ epithetic
 effortlessness
 encumberingly
 epithetically
+entosthoblast
 entifical
 epithets
 enterocolostomy
