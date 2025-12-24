@@ -17693,6 +17693,7 @@ cochlear
 crystallograph
 cochleariform
 cochleiform
+counterstimulate
 cocksfoot
 comedy
 creationistic
@@ -27147,7 +27148,6 @@ corabeca
 crocheting
 coprostasis
 chittered
-counterstimulate
 counterstimulation
 counterstimulus
 counterstock
