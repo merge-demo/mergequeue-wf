@@ -900,7 +900,6 @@ glutethimide
 gobioid
 gusseted
 goosebird
-gastroatrophia
 gez
 gelatinizability
 genome
@@ -6699,6 +6698,7 @@ guid
 graybeard
 ginglyni
 grudgeless
+gastroatrophia
 gonid
 gabeler
 gluttonies
