@@ -6015,7 +6015,6 @@ cathern
 catties
 catheterisation
 cattail
-catheterise
 clienteles
 coiffes
 catheterised
@@ -12645,6 +12644,7 @@ chronomastix
 chronometer
 crom
 citolers
+catheterise
 chronometers
 countercultures
 chronometric
