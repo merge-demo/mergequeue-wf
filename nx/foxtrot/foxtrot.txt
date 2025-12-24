@@ -365,6 +365,7 @@ fungales
 foredenounce
 fleecelike
 fibrolipoma
+flocked
 facsim
 fluids
 flowerily
@@ -7514,7 +7515,6 @@ footpace
 forebay
 fragmentization
 feathering
-flocked
 feuilletonist
 fribbles
 fideos
