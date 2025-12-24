@@ -6630,6 +6630,7 @@ gambusias
 gunnysack
 guidons
 glasseye
+gauffering
 guffs
 gangliform
 gordius
@@ -9477,7 +9478,6 @@ gravific
 ganser
 glossographical
 gleeishly
-gauffering
 grilled
 gossamery
 gae
