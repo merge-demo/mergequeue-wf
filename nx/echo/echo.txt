@@ -2535,7 +2535,6 @@ electrokinetics
 elasticum
 electroless
 exsecants
-educables
 expansivity
 embryopathology
 emender
@@ -8012,6 +8011,7 @@ enheritage
 edgerman
 ensconced
 energumenon
+educables
 expressly
 epinikia
 eriosoma
