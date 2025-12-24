@@ -4390,6 +4390,7 @@ exotically
 embrasure
 enantiomorph
 encratic
+elenchtical
 equinovarus
 electrolyzer
 encephalosclerosis
@@ -9825,7 +9826,6 @@ estats
 eternise
 ethionic
 enamelware
-elenchtical
 exact
 estrich
 etagre
