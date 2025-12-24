@@ -1841,7 +1841,6 @@ epithalamy
 ergatogyny
 elbow
 exopodite
-eigenvalues
 evaginated
 effervescive
 ensouling
@@ -4649,6 +4648,7 @@ elucubrate
 excellent
 exarchs
 egotists
+eigenvalues
 equinities
 enchyma
 estheticism
