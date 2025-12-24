@@ -766,6 +766,7 @@ dragonhead
 dandis
 discursory
 dandisette
+dubs
 decoyer
 dandizette
 decasyllabic
@@ -15881,7 +15882,6 @@ discounts
 datura
 dogproof
 dosing
-dubs
 dehairer
 doped
 dorsiduct
