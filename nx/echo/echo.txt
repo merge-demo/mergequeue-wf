@@ -7194,7 +7194,6 @@ eryopsid
 ethnomanic
 exuviability
 emulate
-ethal
 electrons
 ecumenic
 elvishly
@@ -12034,6 +12033,7 @@ ervum
 excommunicative
 excommunicator
 excoriated
+ethal
 electroanalysis
 excoriating
 egestions
