@@ -2772,7 +2772,6 @@ flareboard
 floppier
 festivity
 forker
-feston
 flatly
 fluorimeter
 forgift
@@ -8861,6 +8860,7 @@ firmest
 fettstein
 fieldwork
 flecks
+feston
 finbone
 fossorious
 fossulae
