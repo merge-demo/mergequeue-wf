@@ -36,7 +36,6 @@ fibrolitic
 fibrocyst
 fabricates
 fabricator
-formularize
 flintless
 furies
 farmscape
@@ -6859,6 +6858,7 @@ fanit
 fraudulency
 foreporch
 fonnish
+formularize
 furud
 folios
 folkish
