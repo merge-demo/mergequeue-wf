@@ -7661,6 +7661,7 @@ epiparodos
 epicortical
 enterostomy
 esere
+eldritch
 educed
 eidouranion
 enterogastritis
@@ -8899,7 +8900,6 @@ ergatomorphic
 ergo
 extrameridian
 educationally
-eldritch
 ergodic
 evenhead
 estaminets
