@@ -16425,6 +16425,7 @@ antralgia
 antrophose
 antrorse
 amalgamater
+abstractness
 antrorsely
 antroscope
 antiromanticism
@@ -17847,7 +17848,6 @@ acleistous
 atrede
 aside
 apolistan
-abstractness
 aptal
 adieus
 argued
