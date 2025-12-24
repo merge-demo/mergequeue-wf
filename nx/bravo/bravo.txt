@@ -1807,7 +1807,6 @@ becobweb
 beebreads
 bizardite
 bepurple
-banago
 buzzy
 brimming
 beaconed
@@ -15684,6 +15683,7 @@ badgemen
 broadling
 bulbilis
 blowzy
+banago
 bands
 bonbonniere
 barycentric
