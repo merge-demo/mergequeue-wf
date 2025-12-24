@@ -2543,7 +2543,6 @@ flimp
 ferricyanide
 ferrihydrocyanic
 fervency
-freshmanship
 feedsman
 fiduciaries
 fanti
@@ -8133,6 +8132,7 @@ freemasonism
 flamandize
 floatation
 favouredness
+freshmanship
 foretaster
 forefin
 foretasting
