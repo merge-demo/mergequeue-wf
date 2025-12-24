@@ -706,7 +706,6 @@ faming
 franc
 foreladies
 freeness
-fired
 flagroot
 famous
 florigens
@@ -10404,6 +10403,7 @@ focus
 furoid
 feedable
 feared
+fired
 frangipanis
 fatalist
 frettage
