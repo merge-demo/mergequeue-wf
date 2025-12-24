@@ -20094,7 +20094,6 @@ clee
 commentator
 chokecherries
 charcutier
-commentators
 commentatorship
 carboned
 commented
@@ -31880,6 +31879,7 @@ creamfruit
 cipaye
 cattlemen
 chloragen
+commentators
 cordwainery
 carrageenan
 catabiotic
