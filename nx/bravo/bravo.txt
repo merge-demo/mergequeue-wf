@@ -3474,6 +3474,7 @@ baguios
 bucklandite
 bibliolatrous
 bathylite
+barquest
 bovine
 basts
 banuyo
@@ -12838,7 +12839,6 @@ betalk
 boomkin
 bibliophobia
 bondswoman
-barquest
 bootes
 baseboard
 burglary
