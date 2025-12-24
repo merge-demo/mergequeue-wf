@@ -884,6 +884,7 @@ gametocyte
 grayout
 gametogenic
 gooseflesh
+groszy
 gueparde
 glutathione
 geognost
@@ -3877,7 +3878,6 @@ grant
 girrock
 graining
 guls
-groszy
 gels
 gaelicization
 glumpy
