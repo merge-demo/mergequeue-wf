@@ -3156,7 +3156,6 @@ fenceplay
 fisheries
 flowerier
 fatso
-fossate
 freeloaders
 forthfare
 femurs
@@ -4399,6 +4398,7 @@ fishes
 filibranchiate
 fascistic
 fiancees
+fossate
 feirie
 fowlpox
 fleta
