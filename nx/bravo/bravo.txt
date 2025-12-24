@@ -4980,7 +4980,6 @@ beennut
 bimedial
 bonework
 blesse
-belgae
 barmier
 boulles
 bactritoid
@@ -17507,6 +17506,7 @@ barometz
 babyhood
 buran
 burans
+belgae
 burblers
 blueweeds
 backstopping
