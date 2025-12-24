@@ -2821,6 +2821,7 @@ evasive
 exclamations
 enjeopard
 elementish
+emendable
 extricates
 endomixis
 ecthyma
@@ -7752,7 +7753,6 @@ exterritorially
 emergents
 englify
 ensure
-emendable
 estopping
 equips
 edelweisses
