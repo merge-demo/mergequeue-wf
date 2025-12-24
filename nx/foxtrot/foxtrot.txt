@@ -5569,7 +5569,6 @@ forfault
 fallaciously
 filamentar
 fiendlike
-flaxlike
 flockowner
 fossicking
 firefight
@@ -7036,6 +7035,7 @@ fauxbourdon
 folkloristic
 ferrum
 forgiveness
+flaxlike
 fontal
 freakout
 fulmining
