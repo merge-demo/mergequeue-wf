@@ -8661,7 +8661,6 @@ barbells
 bestream
 bitterish
 benshea
-bunjara
 bilsh
 bitumen
 bifluorid
@@ -14864,6 +14863,7 @@ brakehand
 blackwork
 betrample
 bechalking
+bunjara
 berms
 beefs
 bingies
