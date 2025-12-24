@@ -9949,7 +9949,6 @@ bituminoid
 belsire
 bipropellant
 bikes
-bituminosis
 biologically
 bennettitaceae
 bravas
@@ -16331,6 +16330,7 @@ branding
 bocces
 brownwort
 biovular
+bituminosis
 beflower
 bowels
 broadswords
