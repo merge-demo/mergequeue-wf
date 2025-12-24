@@ -8963,7 +8963,6 @@ glycogelatin
 germless
 gastrodidymus
 griding
-galvo
 greyhens
 glenlivet
 gachupin
@@ -10233,6 +10232,7 @@ gonophorous
 gastroptosis
 grape
 gossypin
+galvo
 graminivore
 glycogenase
 guiltsick
