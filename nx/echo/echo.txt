@@ -3973,7 +3973,6 @@ euskara
 extremistic
 encephalic
 emotioned
-emotionize
 eugregarinida
 epimeron
 emolument
@@ -4891,6 +4890,7 @@ ephydriad
 expertise
 emblematizing
 encourages
+emotionize
 embusy
 eucatropine
 escapable
