@@ -4,7 +4,6 @@ gees
 generalcy
 gaseliers
 greenleek
-googul
 gunrooms
 gabber
 gabbers
@@ -5191,6 +5190,7 @@ gustard
 gnosticizer
 gunated
 glouted
+googul
 gaposis
 galore
 gemara
