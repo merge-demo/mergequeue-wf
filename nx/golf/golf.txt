@@ -1982,6 +1982,7 @@ gonif
 galician
 goschens
 gryphaea
+glycid
 gams
 glyptical
 gaurian
@@ -7148,7 +7149,6 @@ gulfweed
 geometrise
 guans
 gaffs
-glycid
 gauming
 gross
 glycolylurea
