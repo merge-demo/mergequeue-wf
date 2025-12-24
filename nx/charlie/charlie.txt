@@ -10703,7 +10703,6 @@ chimeric
 coptic
 calci
 caribou
-cytoplasmic
 chimes
 chymes
 caseoses
@@ -22781,6 +22780,7 @@ carucated
 conscionableness
 consciously
 consciousness
+cytoplasmic
 conscive
 cholanthrene
 chronogenesis
