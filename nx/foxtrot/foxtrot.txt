@@ -146,6 +146,7 @@ facsimiled
 fracturable
 frigidaria
 flayers
+fanworts
 fifthly
 folden
 fellaheen
@@ -9745,7 +9746,6 @@ fluviograph
 flabs
 forestick
 flycaster
-fanworts
 fuchsins
 fevery
 ficoideae
