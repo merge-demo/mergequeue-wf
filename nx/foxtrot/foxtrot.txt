@@ -8117,7 +8117,6 @@ foveolae
 funkiest
 flatcar
 fingan
-foreswore
 flavouring
 feeble
 flasklet
@@ -10596,6 +10595,7 @@ furfurals
 filiation
 francophobe
 feeblebrained
+foreswore
 fanteeg
 forwarn
 fellowmen
