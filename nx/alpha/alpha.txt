@@ -3954,7 +3954,6 @@ adman
 antiquatedness
 atheticize
 admeasurer
-adumbrant
 admeasuring
 adulterant
 allosterically
@@ -13856,6 +13855,7 @@ appellate
 araphostic
 androgenetic
 absolutista
+adumbrant
 abdomina
 automation
 apneumatic
