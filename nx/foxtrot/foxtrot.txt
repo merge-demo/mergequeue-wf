@@ -4400,7 +4400,6 @@ filibranchiate
 fascistic
 fiancees
 feirie
-franchise
 fowlpox
 fleta
 fishfinger
@@ -5704,6 +5703,7 @@ facilitator
 flyovers
 flype
 feodaries
+franchise
 funiculi
 forkmen
 federalizing
