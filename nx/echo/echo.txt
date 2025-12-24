@@ -8710,7 +8710,6 @@ endostyle
 epicoeliac
 epulotic
 equiprobably
-equiproportional
 equiproportionality
 egocentrism
 eluate
@@ -9146,6 +9145,7 @@ entwining
 endosiphuncle
 eggbeaters
 elegise
+equiproportional
 exograph
 endothermism
 erliche
