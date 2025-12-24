@@ -4604,6 +4604,7 @@ aedeagus
 aviculture
 aedicule
 attraction
+anallantoidean
 autem
 aedile
 adject
@@ -11801,7 +11802,6 @@ alypin
 analyzes
 analkalinity
 anallagmatic
-anallantoidean
 acclimature
 amitoses
 antipedobaptist
