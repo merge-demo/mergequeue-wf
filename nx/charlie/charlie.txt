@@ -14830,7 +14830,6 @@ cytochrome
 cytocyst
 cytoclasis
 caluptra
-cytoclastic
 crioboly
 cytococci
 choroidal
@@ -24980,6 +24979,7 @@ corbula
 cosse
 celidographer
 corchat
+cytoclastic
 corchorus
 corcyraean
 corcle
