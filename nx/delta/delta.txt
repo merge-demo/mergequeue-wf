@@ -2910,7 +2910,6 @@ decwriter
 deltoid
 divia
 dashel
-dedanite
 dedecorous
 divide
 desmodont
@@ -3026,6 +3025,7 @@ duck
 decontrolling
 distinguishing
 decisionmake
+dedanite
 deerberry
 dapperer
 disrealize
