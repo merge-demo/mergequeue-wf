@@ -8699,7 +8699,6 @@ greedyguts
 guaconize
 gibier
 greedless
-grecism
 guttled
 gawkier
 guttling
@@ -10306,6 +10305,7 @@ granulations
 getsul
 gullygut
 gonorrheal
+grecism
 gilling
 goralog
 gleaner
