@@ -1535,7 +1535,6 @@ grype
 gulfiest
 grandiloquence
 gearless
-gurt
 gazump
 gastrologist
 goatpox
@@ -9373,6 +9372,7 @@ glaymore
 glacious
 gelatinized
 geneserin
+gurt
 graciosity
 galtonia
 geordie
