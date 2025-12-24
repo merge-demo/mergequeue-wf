@@ -2262,6 +2262,7 @@ bannerwise
 bats
 bigmouths
 blastment
+bandar
 barbarized
 beleaping
 bona
@@ -16772,7 +16773,6 @@ bonhomously
 bibliotheque
 buddhaship
 benevolently
-bandar
 barbas
 buddhist
 beheadlined
