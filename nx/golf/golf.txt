@@ -2999,6 +2999,7 @@ gondite
 gavialis
 gelly
 galvanocauteries
+gridder
 gentlefolk
 gambusia
 guatambu
@@ -10320,7 +10321,6 @@ gamodesmic
 gymnostomous
 gigantostraca
 gastroenterology
-gridder
 gloomed
 gul
 gaming
