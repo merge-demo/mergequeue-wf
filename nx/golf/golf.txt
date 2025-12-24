@@ -4093,7 +4093,6 @@ gondoletta
 gogglebox
 genus
 gelechiid
-goosemouth
 gaulic
 gaufer
 gudget
@@ -9008,6 +9007,7 @@ grantedly
 glovemaking
 griffonage
 gynandry
+goosemouth
 girned
 glacis
 guzzlers
