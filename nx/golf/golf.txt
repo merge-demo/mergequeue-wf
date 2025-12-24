@@ -2665,7 +2665,6 @@ gloriosity
 gangliectomy
 gourde
 gervas
-gynophagite
 gardeviance
 gibbles
 genevan
@@ -9880,6 +9879,7 @@ gustless
 guanin
 gagate
 gardenmaker
+gynophagite
 ghoom
 glycerose
 gamasid
