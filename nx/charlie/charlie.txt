@@ -9215,6 +9215,7 @@ clypeolate
 chasmogamous
 chasmophyte
 commandeering
+callable
 chirruped
 constipating
 chass
@@ -19094,7 +19095,6 @@ cuprite
 chariots
 colliery
 crises
-callable
 camb
 colliflower
 cruset
