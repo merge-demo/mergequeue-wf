@@ -4328,6 +4328,7 @@ gaugeable
 guss
 glendover
 guilds
+galleon
 garrulity
 gingerline
 glomerular
@@ -7445,7 +7446,6 @@ germen
 ghbor
 groundswells
 gonococcal
-galleon
 glub
 goldfish
 geologising
