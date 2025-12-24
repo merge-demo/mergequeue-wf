@@ -3502,7 +3502,6 @@ emblazoner
 emblazonments
 elastic
 etherialising
-escandalize
 expansible
 euchologies
 evergreenery
@@ -7876,6 +7875,7 @@ epiguanine
 elementate
 enablement
 eireannach
+escandalize
 extincts
 executioner
 epihyal
