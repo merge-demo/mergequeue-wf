@@ -19763,6 +19763,7 @@ combined
 ctene
 coprecipitation
 cations
+companionway
 contorting
 cardiopneumograph
 cogroad
@@ -29434,7 +29435,6 @@ crispness
 cowwheat
 crisps
 cystogenous
-companionway
 clagging
 crissal
 chromodiascope
