@@ -14377,7 +14377,6 @@ bylaw
 bursiform
 bonebinder
 braillewriter
-boloman
 bambino
 bettors
 braincap
@@ -18168,6 +18167,7 @@ barometrically
 bubale
 barrio
 butyrometric
+boloman
 botchwork
 begorry
 bingle
