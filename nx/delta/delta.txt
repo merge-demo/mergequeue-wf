@@ -4845,7 +4845,6 @@ dactyliotheca
 dodlet
 deaneries
 ductile
-declive
 durrie
 depredationist
 dispersity
@@ -9772,6 +9771,7 @@ diligence
 diligences
 diligent
 dilis
+declive
 dillenia
 datsw
 dimethoate
