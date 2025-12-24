@@ -5624,6 +5624,7 @@ ardeid
 agal
 agalactic
 appoggiaturas
+alkaid
 agalaxia
 anisomelus
 agalena
@@ -8495,7 +8496,6 @@ allagite
 ailuroid
 allagostemonous
 affettuosos
-alkaid
 anamneses
 alumina
 allah
