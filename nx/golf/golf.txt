@@ -6830,7 +6830,6 @@ gliders
 gastroenterostomies
 gunnings
 gagwriter
-ghostflower
 gastrojejunal
 globosphaerite
 grossirete
@@ -7113,6 +7112,7 @@ garnett
 gnathostomatous
 grundyism
 gamecock
+ghostflower
 gorals
 gastrocystic
 goran
