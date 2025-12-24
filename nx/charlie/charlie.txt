@@ -3061,6 +3061,7 @@ curlyheads
 capitonidae
 centrales
 cantrip
+chivalric
 cantus
 cantuta
 cantwise
@@ -10420,7 +10421,6 @@ complexify
 chieftainries
 concludendi
 chirring
-chivalric
 countertendencies
 chieftains
 cracknels
