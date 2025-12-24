@@ -1765,7 +1765,6 @@ deaving
 decolorization
 disregardfully
 dorsolum
-dissevers
 divalence
 dissociated
 divagation
@@ -16181,6 +16180,7 @@ drupetum
 draconic
 dialector
 deerskins
+dissevers
 dewy
 dizens
 deallocates
