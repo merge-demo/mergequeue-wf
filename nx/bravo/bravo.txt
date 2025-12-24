@@ -1931,7 +1931,6 @@ bandrol
 battens
 beatific
 bonniest
-bework
 boreus
 bandsawn
 bandsman
@@ -9773,6 +9772,7 @@ bemixing
 biophysicochemical
 bystreet
 bistres
+bework
 boeotarch
 brights
 borg
