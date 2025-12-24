@@ -17341,6 +17341,7 @@ anaesthetic
 autothermy
 aposteme
 amidosulphonal
+advancer
 aposteriori
 aerogun
 arithmometer
@@ -22678,7 +22679,6 @@ atheroscleroses
 archbuffoon
 ateuchi
 atherosclerosis
-advancer
 atherosclerotic
 acerbic
 absent
