@@ -3699,6 +3699,7 @@ burnies
 brigantinebrigantines
 basiophthalmite
 baste
+bijugous
 bucketful
 bally
 belfather
@@ -6206,7 +6207,6 @@ benet
 brazas
 beneventan
 bibliography
-bijugous
 benevolency
 bengalese
 batavian
