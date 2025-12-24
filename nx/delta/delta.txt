@@ -7884,7 +7884,6 @@ dewdrop
 dewdropper
 dogteeth
 drillet
-distantly
 doxographer
 doh
 dewing
@@ -11790,6 +11789,7 @@ demirep
 diplococcoid
 dollarleaf
 delabialize
+distantly
 demot
 duny
 dosserets
