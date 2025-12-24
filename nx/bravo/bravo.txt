@@ -12451,7 +12451,6 @@ bondar
 bockerel
 bastardly
 bonderize
-belabored
 bloodline
 bonderman
 bankera
@@ -14640,6 +14639,7 @@ backspin
 brash
 bigwiggism
 bucklering
+belabored
 brasher
 brashiest
 babylonians
