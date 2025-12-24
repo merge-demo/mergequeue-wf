@@ -8565,7 +8565,6 @@ categorical
 carpus
 chanceful
 cadrans
-chancefulness
 chancey
 chanceled
 cardiacea
@@ -23690,6 +23689,7 @@ causatum
 cabezons
 classwise
 colliquament
+chancefulness
 contradiction
 coruscative
 contradictional
