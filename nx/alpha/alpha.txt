@@ -2394,6 +2394,7 @@ anthrapyridine
 antilipase
 aphrite
 apantesis
+antestature
 adight
 accus
 ackees
@@ -3637,7 +3638,6 @@ awmous
 adenopharyngeal
 adenophlegmon
 appulsively
-antestature
 adenophora
 abscissas
 avianizing
