@@ -8468,7 +8468,6 @@ foxes
 formations
 fatbrained
 formazan
-formee
 furiant
 foresinger
 formelt
@@ -10415,6 +10414,7 @@ fraggings
 filigree
 flow
 fictility
+formee
 flyspecked
 firstling
 forcaria
