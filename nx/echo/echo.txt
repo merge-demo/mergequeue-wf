@@ -9956,6 +9956,7 @@ electrizing
 eschars
 ennew
 ecclesiae
+ensampler
 estrif
 estrin
 elk
@@ -11939,7 +11940,6 @@ exairesis
 esthesis
 endemic
 electrooptical
-ensampler
 ecoid
 extracostal
 endotheliolysin
