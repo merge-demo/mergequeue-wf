@@ -10919,7 +10919,6 @@ evenwise
 entomologising
 epipteric
 eulogies
-echinops
 euphuize
 eupyrion
 eupittone
@@ -12808,6 +12807,7 @@ exoterical
 espials
 exotericism
 extenuated
+echinops
 emboldener
 embossmen
 extraretinal
