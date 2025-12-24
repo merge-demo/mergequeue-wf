@@ -6787,7 +6787,6 @@ cornbin
 ciscos
 cribbages
 clavecin
-celebs
 celemin
 celemines
 celery
@@ -28208,6 +28207,7 @@ coulisse
 cystatrophia
 cururo
 chromaphil
+celebs
 cellulose
 chapelet
 chantefable
