@@ -10338,7 +10338,6 @@ elephantine
 enquired
 explain
 etwite
-electrometallurgical
 ethnolinguist
 eaglets
 estensible
@@ -12172,6 +12171,7 @@ exec
 epiphonemas
 eudemonist
 exacervation
+electrometallurgical
 enserfs
 excogitation
 enflame
