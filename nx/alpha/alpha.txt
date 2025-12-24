@@ -7603,7 +7603,6 @@ acost
 alcyonic
 astutely
 argentinitrate
-astrohatch
 absorbencies
 alcyonium
 abreaction
@@ -18982,6 +18981,7 @@ ageratum
 archival
 adjunct
 atopic
+astrohatch
 archiver
 archjockey
 amoroso
