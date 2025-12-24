@@ -7967,7 +7967,6 @@ bap
 bushels
 becrimson
 brusher
-bicarbureted
 bicarburetted
 binucleated
 beanbag
@@ -8396,6 +8395,7 @@ bijou
 basidorsal
 bhandar
 bubs
+bicarbureted
 burbankian
 bannerfish
 believability
