@@ -5510,6 +5510,7 @@ casuals
 casuariiformes
 chloramide
 civetlike
+chersydridae
 casuarina
 cantraips
 casuarius
@@ -10060,7 +10061,6 @@ cherrylike
 cherrystone
 canephors
 cephalotripsy
-chersydridae
 chert
 calcarate
 controvert
