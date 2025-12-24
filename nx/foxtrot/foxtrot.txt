@@ -1515,6 +1515,7 @@ forepiece
 faunish
 fleecing
 foamers
+fluorane
 franklinite
 fattenable
 fauntleroy
@@ -6488,7 +6489,6 @@ furriers
 fingerfish
 flusterating
 fornicating
-fluorane
 forthgoing
 flusteration
 forthcoming
