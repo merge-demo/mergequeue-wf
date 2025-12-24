@@ -2145,7 +2145,6 @@ decapitates
 decapitation
 deterrable
 diskophile
-decapitations
 disassemble
 distresses
 downfall
@@ -4407,6 +4406,7 @@ dependant
 dird
 demerit
 demiluster
+decapitations
 damoetas
 drones
 despairfulness
