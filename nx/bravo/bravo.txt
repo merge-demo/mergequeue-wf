@@ -2267,7 +2267,6 @@ blastment
 barbarized
 beleaping
 bona
-buteo
 bedizens
 butted
 bummil
@@ -15515,6 +15514,7 @@ bloodless
 brinies
 bocal
 burrfish
+buteo
 briniest
 bemuck
 benzoquinoline
