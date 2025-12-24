@@ -9248,7 +9248,6 @@ grasper
 gueridon
 griths
 gritted
-grittie
 gutturality
 gliridae
 grivna
@@ -10869,6 +10868,7 @@ graphidiaceae
 gastrulation
 gils
 gyrophora
+grittie
 goggan
 goaltending
 graperoot
