@@ -961,7 +961,6 @@ glanis
 glist
 genomic
 gamostele
-gallinule
 glottogony
 genetically
 gamp
@@ -2728,6 +2727,7 @@ genit
 golgothas
 gnatho
 groundmass
+gallinule
 geometricist
 glozing
 gryllidae

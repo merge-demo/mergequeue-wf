@@ -5920,7 +5920,6 @@ autotomous
 arrogancy
 aggressin
 altered
-anchylotic
 anestrous
 aureal
 adenylpyrophosphate
@@ -10970,6 +10969,7 @@ attainer
 angiogram
 aphrolite
 antilactase
+anchylotic
 aromatizing
 acheat
 apoplectic
