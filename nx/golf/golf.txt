@@ -185,7 +185,6 @@ gabarit
 gammacism
 groschen
 gavage
-gelled
 garred
 glaky
 glazing
@@ -6580,6 +6579,7 @@ guesswork
 gonycampsis
 gastrohyperneuria
 guerillas
+gelled
 galeass
 grenadiers
 gigolos
