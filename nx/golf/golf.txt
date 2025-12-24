@@ -5608,6 +5608,7 @@ gradable
 geophilidae
 governeress
 gondolet
+gravity
 gymnasium
 golfers
 glossocomium
@@ -8577,7 +8578,6 @@ growths
 gastrocnemius
 guarache
 glabriety
-gravity
 gnathostomi
 gradually
 gawsy
