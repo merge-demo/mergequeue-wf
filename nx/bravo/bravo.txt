@@ -10904,7 +10904,6 @@ blindfish
 blindfishes
 bluelegs
 blindfolded
-bismuth
 bassus
 butterbush
 blindfoldedness
@@ -10997,6 +10996,7 @@ blithest
 blitz
 bal
 bleeder
+bismuth
 bobbie
 brachyoura
 baccilla
