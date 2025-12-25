@@ -5988,6 +5988,7 @@ agynic
 aortographies
 audacious
 anamnionic
+amplify
 apoplectiform
 amidst
 autodecomposition
@@ -21950,7 +21951,6 @@ apostolize
 aeriest
 anatripsis
 associativeness
-amplify
 armoring
 associativity
 adicity
