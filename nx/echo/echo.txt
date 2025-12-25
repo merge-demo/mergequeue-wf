@@ -915,6 +915,7 @@ electrostrictive
 episedia
 encomiastic
 excommunicators
+enemylike
 endosporous
 eriodictyon
 ectotoxin
@@ -7676,7 +7677,6 @@ earworms
 eton
 equinal
 eumenid
-enemylike
 epithalamus
 evertors
 encefalon
