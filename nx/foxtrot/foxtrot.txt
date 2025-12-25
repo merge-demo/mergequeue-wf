@@ -4443,6 +4443,7 @@ float
 frowzly
 feelable
 flossy
+frapler
 fraternizer
 fishmouth
 fishnet
@@ -9296,7 +9297,6 @@ frangipani
 framea
 framer
 frames
-frapler
 forename
 footmenfootpad
 fungologist
