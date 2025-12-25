@@ -10101,7 +10101,6 @@ blabbered
 barytic
 bewhiskered
 blabbering
-blabbermouths
 blabbing
 blabmouth
 basialveolar
@@ -11236,6 +11235,7 @@ bf
 borghalpenny
 bespeaker
 bisilicate
+blabbermouths
 blotty
 buckets
 battakhin
