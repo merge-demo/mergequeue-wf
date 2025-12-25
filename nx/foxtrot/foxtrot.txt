@@ -3902,7 +3902,6 @@ fumigators
 fusinist
 fluoridated
 fullage
-frostproof
 fustianize
 foggage
 fang
@@ -7545,6 +7544,7 @@ frostweed
 forsakers
 flentes
 fleshbrush
+frostproof
 frivoler
 foreboom
 foredooms
