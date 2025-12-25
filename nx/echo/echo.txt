@@ -2745,6 +2745,7 @@ ediya
 essenianism
 employment
 endways
+endurability
 estadal
 enceint
 eleemosinar
@@ -4159,7 +4160,6 @@ eiffel
 ensheathed
 every
 etymologically
-endurability
 eniac
 emplunge
 eccentring
