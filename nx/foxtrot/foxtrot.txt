@@ -1973,7 +1973,6 @@ forbiddal
 furile
 fishgig
 fulvid
-feedstock
 floccosely
 firespout
 forerake
@@ -4482,6 +4481,7 @@ formidable
 frouzier
 frankenia
 flattercap
+feedstock
 fermal
 furthermost
 foreloop
