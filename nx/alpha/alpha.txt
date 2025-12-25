@@ -5771,7 +5771,6 @@ ahoy
 auxetics
 atlatl
 aligner
-agatized
 agatizes
 agatizing
 arctan
@@ -22464,6 +22463,7 @@ autocratorical
 astroscopus
 astrospectral
 acrasiaceae
+agatized
 adversion
 astrotheology
 anisostemonous
