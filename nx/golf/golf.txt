@@ -5968,7 +5968,6 @@ gainstrive
 garmenture
 gingles
 gaols
-grantor
 garboils
 garoter
 gillot
@@ -10640,6 +10639,7 @@ greenly
 gossipries
 gaylies
 gerontologies
+grantor
 giganticness
 gargets
 gorrel
