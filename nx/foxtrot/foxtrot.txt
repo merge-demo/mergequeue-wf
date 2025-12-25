@@ -770,6 +770,7 @@ frivolized
 fellowlike
 fermacy
 fleaworts
+freesp
 fills
 frightened
 fichteanism
@@ -5522,7 +5523,6 @@ fieri
 fervours
 finnan
 fletchers
-freesp
 furrower
 furnit
 fisc
