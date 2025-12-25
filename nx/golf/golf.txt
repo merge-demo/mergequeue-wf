@@ -3819,7 +3819,6 @@ gorblimey
 grumbly
 genealogies
 geodaesia
-gorger
 glasshouse
 girosol
 glarier
@@ -4611,6 +4610,7 @@ gyrodactylidae
 gapa
 girthing
 gaudeamus
+gorger
 gyrodactylus
 grapeshot
 gustatorially
