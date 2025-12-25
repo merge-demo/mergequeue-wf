@@ -13075,6 +13075,7 @@ descantist
 dispeaceful
 dory
 dital
+docents
 decampment
 distractile
 decliners
@@ -17458,7 +17459,6 @@ drove
 deedbox
 drovers
 dereism
-docents
 drowning
 drowses
 drowsier
