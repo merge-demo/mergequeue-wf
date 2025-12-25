@@ -2937,6 +2937,7 @@ franklinian
 feveret
 forefending
 froggy
+foredecks
 forefault
 forworden
 flicks
@@ -8746,7 +8747,6 @@ fraenular
 fole
 forlie
 fordoing
-foredecks
 flocculator
 fella
 footlog
