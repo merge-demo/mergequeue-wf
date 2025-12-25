@@ -12520,7 +12520,6 @@ euphemy
 emissaria
 enhalos
 eugeny
-enneacontahedron
 exoskeleton
 exist
 existed
@@ -12861,6 +12860,7 @@ expandable
 escropulo
 erotopathic
 erethisms
+enneacontahedron
 exsert
 engirdle
 elaeagnaceae
