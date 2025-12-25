@@ -2771,7 +2771,6 @@ gadhelic
 gung
 grabbled
 garbs
-garnished
 gelotometer
 glottochronological
 gristly
@@ -5233,6 +5232,7 @@ genuflectory
 glucolipin
 golf
 gab
+garnished
 gerberia
 gunter
 gorgonzola
