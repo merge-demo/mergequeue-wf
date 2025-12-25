@@ -3553,7 +3553,6 @@ gents
 ghastily
 gottlieb
 grenadin
-goth
 gangues
 gingko
 garmentworker
@@ -7315,6 +7314,7 @@ gossard
 greyflies
 grievedly
 gonfalonier
+goth
 glumpiness
 guildhall
 gosports
