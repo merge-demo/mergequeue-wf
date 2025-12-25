@@ -10890,7 +10890,6 @@ centropomus
 cinnoline
 chip
 chipchop
-chipewyan
 chiplet
 culvert
 chipmunk
@@ -24586,6 +24585,7 @@ copycatting
 creedite
 cyclopaedias
 calembour
+chipewyan
 celioenterotomy
 copycutter
 ctenacanthus
