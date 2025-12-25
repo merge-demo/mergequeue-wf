@@ -1160,7 +1160,6 @@ grift
 groatsworth
 glyptographer
 gasthaus
-gamolepis
 guidingly
 gaslights
 gaon
@@ -5445,6 +5444,7 @@ garancin
 gilenyie
 granddad
 gyrfalcons
+gamolepis
 gonadic
 gandhiism
 gliffy
