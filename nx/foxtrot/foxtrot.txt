@@ -305,7 +305,6 @@ forebar
 fistnotes
 flambeed
 floosies
-frappeing
 fiddlesticks
 faeryland
 fleabitten
@@ -8824,6 +8823,7 @@ favorably
 falcinellus
 frailes
 fetchers
+frappeing
 flotillas
 fossage
 fanlight
