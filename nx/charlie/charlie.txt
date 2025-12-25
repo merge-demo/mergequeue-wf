@@ -6311,6 +6311,7 @@ camize
 caulescent
 caulicle
 caulicole
+crypto
 castrated
 caulicolous
 customed
@@ -29241,7 +29242,6 @@ chinaroot
 cryptically
 crypticness
 covenantally
-crypto
 cryptoagnostic
 coextended
 cynogenealogist
