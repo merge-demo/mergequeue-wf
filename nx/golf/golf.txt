@@ -3177,7 +3177,6 @@ gazon
 griffado
 gabler
 glycyrrhiza
-gingelies
 grangerism
 graip
 gaddis
@@ -5180,6 +5179,7 @@ gaposis
 galore
 gemara
 gentianose
+gingelies
 gieseckite
 geogenesis
 grottesco
