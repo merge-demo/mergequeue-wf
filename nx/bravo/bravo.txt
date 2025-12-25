@@ -14097,7 +14097,6 @@ boarders
 brachygraphical
 brachyhieric
 broadacre
-bikol
 berlinite
 burkites
 behaviour
@@ -18216,6 +18215,7 @@ bandages
 bushwhacks
 blackwort
 beshod
+bikol
 bourran
 blabbers
 butterfish
