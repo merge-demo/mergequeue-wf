@@ -655,7 +655,6 @@ apostrophation
 abonnement
 artesian
 aborad
-aboral
 abord
 angelology
 aboriginality
@@ -3072,6 +3071,7 @@ altiloquence
 ardri
 adjudications
 apocryphalist
+aboral
 actinophrys
 aspics
 archimorphic
