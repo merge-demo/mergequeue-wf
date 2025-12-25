@@ -8138,6 +8138,7 @@ binucleate
 barble
 befouls
 biding
+biosensor
 bidirectional
 biophagy
 beliefs
@@ -9104,7 +9105,6 @@ bioscopic
 bioastronautical
 bedecorate
 ballistocardiograph
-biosensor
 bearishness
 binominated
 biosynthesize

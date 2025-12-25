@@ -6639,6 +6639,7 @@ equiponderant
 excluding
 echinorhynchus
 esperantidist
+erump
 embryous
 enseam
 exfoliated
@@ -10273,7 +10274,6 @@ excipulum
 etherol
 experimentize
 electronography
-erump
 ethmyphitis
 existents
 exomorphic
