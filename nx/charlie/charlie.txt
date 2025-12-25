@@ -14276,7 +14276,6 @@ canhoop
 circularisation
 circumintestinal
 circumitineration
-circumjacence
 circumjacency
 circumjovial
 circumlitio
@@ -16681,6 +16680,7 @@ chrysler
 closers
 closes
 closeting
+circumjacence
 crampit
 chthonic
 cylindroma
