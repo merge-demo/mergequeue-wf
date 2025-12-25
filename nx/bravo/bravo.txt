@@ -4319,7 +4319,6 @@ bacterious
 bebreech
 bigeminy
 backcourtman
-bebrother
 blouselike
 bebrush
 bebuttoned
@@ -14683,6 +14682,7 @@ beginners
 bitted
 blungers
 baned
+bebrother
 brasils
 brasque
 bloc
