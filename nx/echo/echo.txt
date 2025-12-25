@@ -3124,6 +3124,7 @@ extemporize
 elliptograph
 elliptoid
 extraparietal
+electropercussive
 eke
 elm
 embarrassment
@@ -7236,7 +7237,6 @@ ells
 estolide
 esplanades
 elpasolite
-electropercussive
 enguard
 effervesce
 embrave
