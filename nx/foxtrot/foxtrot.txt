@@ -9924,6 +9924,7 @@ fancier
 fornices
 frogskins
 fouling
+fortilage
 fines
 filamentose
 fogeater
@@ -11010,7 +11011,6 @@ fluidiser
 frigging
 freeport
 freshly
-fortilage
 fordable
 famelessness
 fabliaux
