@@ -3077,7 +3077,6 @@ epidermis
 experimentalists
 elaidin
 eurythmy
-embryotroph
 eumycetic
 elkslip
 enharbor
@@ -3866,6 +3865,7 @@ einkanter
 encyclopediast
 emerituti
 emasculate
+embryotroph
 eodiscid
 entreasured
 emerizing
