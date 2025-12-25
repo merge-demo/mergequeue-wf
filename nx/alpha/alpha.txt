@@ -11787,7 +11787,6 @@ antiatonement
 animalisation
 arecolin
 analytique
-analyzability
 arnoseris
 arcuately
 anticynicism
@@ -18919,6 +18918,7 @@ assemblies
 adroiter
 archines
 apio
+analyzability
 angili
 arteriostosis
 alsatian
