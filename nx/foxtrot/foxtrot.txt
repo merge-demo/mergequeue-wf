@@ -1183,6 +1183,7 @@ forepass
 frighter
 foochowese
 flotson
+flukeless
 fovea
 fascist
 forgo
@@ -8638,7 +8639,6 @@ ferretto
 flamefishes
 fuzzed
 finnochio
-flukeless
 functionate
 fingerfishes
 faddishly
