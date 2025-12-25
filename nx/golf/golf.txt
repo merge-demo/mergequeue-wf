@@ -1228,7 +1228,6 @@ groups
 goodship
 galligaskin
 groff
-gonorrhea
 gravures
 grogged
 galactostasis
@@ -2468,6 +2467,7 @@ gains
 guardful
 greasy
 gimble
+gonorrhea
 gonopodial
 gemmology
 globality
