@@ -727,6 +727,7 @@ gripple
 galvanizing
 greund
 gemmiferousness
+grattoir
 gunner
 giantlikeness
 gollywog
@@ -2515,7 +2516,6 @@ graven
 glomeroporphyritic
 gumshield
 gladite
-grattoir
 genecology
 guanidopropionic
 gothically
