@@ -6220,7 +6220,6 @@ dedolomitization
 dermatagra
 dermatophagus
 dermatotropic
-desiccator
 dizaine
 dermatatrophia
 dammer
@@ -14175,6 +14174,7 @@ dammish
 daywork
 deringer
 dunair
+desiccator
 depressing
 disunify
 disorientates
