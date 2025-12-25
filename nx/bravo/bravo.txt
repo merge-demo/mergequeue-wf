@@ -928,6 +928,7 @@ bravely
 beprank
 bidarkas
 bagwig
+batad
 branny
 bungaloid
 brownout
@@ -3486,7 +3487,6 @@ bespatter
 bernicia
 bracket
 berzeliite
-batad
 barbascoes
 barrages
 bagworms
