@@ -18342,6 +18342,7 @@ casearia
 coforeknown
 clownishness
 cofounding
+corporacy
 cathedrals
 cofoundress
 confabulated
@@ -25568,7 +25569,6 @@ clericum
 corp
 corpn
 corpora
-corporacy
 corporacies
 calcic
 corporalcy
