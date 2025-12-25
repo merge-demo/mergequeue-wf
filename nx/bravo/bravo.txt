@@ -1039,6 +1039,7 @@ boyaus
 basanite
 breenge
 bersil
+bicyclers
 boroughmaster
 bailiwick
 bridler
@@ -8003,7 +8004,6 @@ bichromatize
 bedebt
 bellworts
 bicyanide
-bicyclers
 bicyclic
 bicyclism
 blastaea
