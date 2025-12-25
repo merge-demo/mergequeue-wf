@@ -4343,7 +4343,6 @@ ginglymodi
 gozill
 granulite
 gemstone
-gliriformia
 gravestead
 gluily
 glossata
@@ -5073,6 +5072,7 @@ gastroptosia
 glycan
 guilders
 gravery
+gliriformia
 glassmaking
 guerite
 glyc
