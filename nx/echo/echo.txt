@@ -3849,7 +3849,6 @@ emerge
 ecart
 escapology
 emerged
-edulcorated
 echinostomiasis
 emergentness
 espriella
@@ -8741,6 +8740,7 @@ equitative
 electrican
 experimentee
 experimentator
+edulcorated
 equitemporaneous
 eluted
 euphemisms

@@ -1063,7 +1063,6 @@ glossic
 gangplows
 geomalic
 gist
-glaucoma
 glor
 geologising
 gonimous
@@ -7064,6 +7063,7 @@ gaus
 gunwales
 gain
 glycosine
+glaucoma
 gesnerian
 garbell
 garnetberry
