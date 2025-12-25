@@ -8563,6 +8563,7 @@ brantcorn
 brawlis
 billeted
 bilabe
+biologize
 boweries
 bankrider
 bouleuteria
@@ -18061,7 +18062,6 @@ bog
 bustler
 bustlers
 bustles
-biologize
 bustlingly
 blenny
 bloom
