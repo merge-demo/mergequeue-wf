@@ -5422,7 +5422,6 @@ castellanies
 castellano
 castellans
 cinerararia
-castellate
 centerboards
 castellation
 castellatus
@@ -22858,6 +22857,7 @@ consequency
 combinableness
 cheirotherium
 consequent
+castellate
 ciconian
 consequential
 communalist
