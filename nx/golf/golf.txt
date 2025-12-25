@@ -107,7 +107,6 @@ gadgetry
 geezer
 grandee
 gluers
-glueyness
 gujerat
 glairier
 guises
@@ -8197,6 +8196,7 @@ grapeflower
 grapefruit
 goos
 gazers
+glueyness
 grapelike
 gazingstock
 galeodes
