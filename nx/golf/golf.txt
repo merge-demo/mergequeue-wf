@@ -2786,7 +2786,6 @@ gascoigny
 greatcoat
 gyro
 gyne
-gershon
 guzzledom
 gyges
 guemul
@@ -9573,6 +9572,7 @@ geodynamical
 guidage
 groveller
 gauteite
+gershon
 gruels
 girgasite
 gesticularious
