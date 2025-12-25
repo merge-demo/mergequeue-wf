@@ -754,6 +754,7 @@ foulage
 flybelt
 frozenness
 figurines
+flanges
 fluxions
 fancied
 frazzled
@@ -2742,7 +2743,6 @@ fights
 festerment
 footway
 feis
-flanges
 fortescure
 fascisms
 ferrimagnet
