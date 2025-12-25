@@ -5556,7 +5556,6 @@ gaz
 gesticulacious
 gazometer
 gelilah
-gadabouts
 goutier
 greenroom
 glucaemia
@@ -10338,6 +10337,7 @@ grasslike
 guland
 glossem
 grubstaking
+gadabouts
 gules
 greet
 gown
