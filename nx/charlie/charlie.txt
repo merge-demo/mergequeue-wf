@@ -3154,6 +3154,7 @@ chequerboard
 capeadores
 capelan
 capelans
+cummin
 chromid
 capelin
 cornette
@@ -13296,7 +13297,6 @@ cyclode
 catastrophe
 cyclodiene
 cycloganoid
-cummin
 crossbencher
 climbable
 cycloganoidei
