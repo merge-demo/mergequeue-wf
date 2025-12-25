@@ -7233,6 +7233,7 @@ esplanades
 elpasolite
 enguard
 effervesce
+explicitness
 embrave
 economese
 ergatomorphism
@@ -13259,7 +13260,6 @@ endotoxoid
 enleaf
 enventual
 evangelicism
-explicitness
 ectocuneiform
 epitheliomata
 elapids
