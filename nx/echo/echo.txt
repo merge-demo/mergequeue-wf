@@ -2056,7 +2056,6 @@ evangelican
 eskimo
 embryotic
 elaeometer
-electrometeor
 entamebic
 eligibleness
 earthstar
@@ -4879,6 +4878,7 @@ equitable
 encouraged
 estrous
 excellences
+electrometeor
 epigne
 ephydriad
 expertise
