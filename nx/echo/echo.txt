@@ -1752,7 +1752,6 @@ euroclydon
 eliding
 eyelessness
 epikia
-exert
 ecdemic
 eyelet
 ecstatic
@@ -8194,6 +8193,7 @@ eyl
 essayette
 eurythmies
 erythroderma
+exert
 estadio
 elegances
 excorticate

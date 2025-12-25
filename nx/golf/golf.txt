@@ -3029,7 +3029,6 @@ gyrostatically
 gastrostomus
 gromet
 genii
-giraffidae
 gorra
 globulins
 gastromyces
@@ -9250,6 +9249,7 @@ grene
 grasper
 gueridon
 griths
+giraffidae
 gritted
 gutturality
 gliridae
