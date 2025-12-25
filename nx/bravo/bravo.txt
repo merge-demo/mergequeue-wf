@@ -4589,7 +4589,6 @@ bemingles
 brannier
 brachiosaur
 betrunk
-buckteeth
 beseech
 buglewort
 bicellular
@@ -7824,6 +7823,7 @@ bicephalous
 biface
 bark
 bronzy
+buckteeth
 bursautee
 befooled
 bibble
