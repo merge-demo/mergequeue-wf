@@ -4199,7 +4199,6 @@ ados
 acromegalia
 alexias
 anthropomorphisation
-arsenotherapy
 alright
 archaic
 antioxidizer
@@ -25277,6 +25276,7 @@ ammonifying
 acceded
 aulete
 azine
+arsenotherapy
 atrypa
 azlon
 azobenzil
