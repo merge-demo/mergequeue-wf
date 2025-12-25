@@ -15868,7 +15868,6 @@ diamondize
 dorty
 daikers
 documentor
-deadpanning
 dosed
 deiseal
 deboning
@@ -16450,6 +16449,7 @@ divulges
 devolatilisation
 dracin
 damaskin
+deadpanning
 dollhouse
 darken
 degradations
