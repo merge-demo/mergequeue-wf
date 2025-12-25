@@ -649,6 +649,7 @@ eclegma
 ehrman
 etatism
 excretitious
+expect
 establishment
 equisufficiency
 esophagocele
@@ -9579,7 +9580,6 @@ euglenineae
 ecotypes
 edestan
 expressing
-expect
 emigrated
 emptory
 expediente
