@@ -8280,7 +8280,6 @@ arundinaceous
 arnaut
 animadversive
 alimentariness
-allocability
 alimentation
 alimentativeness
 arsenium
@@ -12953,6 +12952,7 @@ antisurplician
 airometer
 argentinidae
 angulated
+allocability
 angulately
 appearance
 adulterator

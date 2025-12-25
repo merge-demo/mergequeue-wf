@@ -8224,6 +8224,7 @@ geopositive
 gravid
 gladlier
 gigabit
+griots
 glycerolyses
 gelatinise
 geometricize
@@ -9397,7 +9398,6 @@ grossed
 graphomaniacal
 grebes
 ginkgoaceae
-griots
 genotypic
 gesticulating
 grosshead
