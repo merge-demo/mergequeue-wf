@@ -12646,7 +12646,6 @@ chronometer
 crom
 citolers
 catheterise
-chronometers
 countercultures
 chronometric
 chronometrically
@@ -13284,6 +13283,7 @@ cycloaliphatic
 cycloalkane
 cyclobothra
 carmakers
+chronometers
 cyclobutane
 constableship
 cholecystopexy
