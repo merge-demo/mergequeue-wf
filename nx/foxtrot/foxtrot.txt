@@ -4184,7 +4184,6 @@ fanions
 flummadiddle
 federals
 ferfathmur
-felonries
 featherstitch
 foothold
 flittermmice
@@ -7103,6 +7102,7 @@ fascinating
 fleapit
 forespeech
 factious
+felonries
 fusional
 fingerstall
 fostership
