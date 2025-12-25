@@ -5298,7 +5298,6 @@ burrier
 beggary
 beggaring
 bicrescentic
-bringsel
 beggarlike
 boshas
 bullom
@@ -8690,6 +8689,7 @@ bodysurf
 bournless
 bimanually
 breechloading
+bringsel
 basaltes
 buttermouth
 broom
