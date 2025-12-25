@@ -7301,6 +7301,7 @@ alcoved
 animalise
 africander
 afford
+asclepias
 architectural
 albe
 actinoelectric
@@ -24470,7 +24471,6 @@ autotrophic
 antes
 advise
 autotropic
-asclepias
 ayless
 argalis
 araliad
