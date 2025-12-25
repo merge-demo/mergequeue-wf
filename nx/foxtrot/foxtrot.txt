@@ -2809,7 +2809,6 @@ faunae
 faveolate
 ficus
 fluidly
-floorman
 fishhouse
 ferrozirconium
 floodlights
@@ -8413,6 +8412,7 @@ frauder
 fuseboard
 fm
 filcher
+floorman
 futhark
 form
 fluoroscopes
