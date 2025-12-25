@@ -3228,7 +3228,6 @@ galoping
 giron
 girtonian
 gap
-ghosty
 glagol
 gilgul
 goldenwing
@@ -7296,6 +7295,7 @@ goyetian
 glycerole
 ganglion
 gyrostatic
+ghosty
 genet
 gutturally
 guze
