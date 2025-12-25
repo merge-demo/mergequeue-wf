@@ -178,6 +178,7 @@ fabulous
 fourquine
 factiously
 forthought
+furyl
 feather
 flirtable
 fanmaker
@@ -5789,7 +5790,6 @@ fpsps
 fictile
 flutteration
 farmage
-furyl
 frump
 fulfilling
 flurriedly
