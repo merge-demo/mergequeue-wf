@@ -4667,7 +4667,6 @@ glassin
 gallowglass
 guisard
 glycuronic
-glary
 graecism
 goglet
 glissader
@@ -9350,6 +9349,7 @@ goldurn
 glycuronid
 governability
 griffs
+glary
 gruf
 geophila
 graduate
