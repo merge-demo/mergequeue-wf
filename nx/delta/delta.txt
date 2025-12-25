@@ -16413,7 +16413,6 @@ dimorphous
 deviousness
 dozzle
 devious
-dozzled
 dr
 draba
 disassembles
@@ -18538,6 +18537,7 @@ differ
 duricrust
 duridine
 durity
+dozzled
 diphthonged
 dekalitre
 durmast
