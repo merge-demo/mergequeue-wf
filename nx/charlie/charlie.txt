@@ -8917,7 +8917,6 @@ cognizableness
 characterization
 characterizing
 characterless
-calorics
 characterlessness
 characterology
 coffle
@@ -30187,6 +30186,7 @@ christ
 chondroglossus
 crucifixions
 cyanemia
+calorics
 cryptocleidus
 cruciformity
 cruciformly
