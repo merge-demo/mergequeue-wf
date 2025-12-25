@@ -2039,6 +2039,7 @@ bethought
 banky
 banknote
 bristly
+bookseller
 biophysicist
 banknotes
 brasserie
@@ -12766,7 +12767,6 @@ bubblier
 blacklegging
 baronry
 begut
-bookseller
 bepreach
 burdalone
 bucorvinae
