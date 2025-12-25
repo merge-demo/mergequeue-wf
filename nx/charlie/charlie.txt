@@ -9560,6 +9560,7 @@ capos
 checky
 cityful
 circularising
+calorimeters
 crowncapping
 cacochymia
 checkless
@@ -29813,7 +29814,6 @@ crops
 cropshin
 cropsick
 cropweed
-calorimeters
 casekeeper
 criminalese
 cytons
