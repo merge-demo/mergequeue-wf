@@ -676,7 +676,6 @@ entoparasitic
 epilogate
 eubasidii
 elmiest
-enhance
 envier
 excide
 eclogic
@@ -8641,6 +8640,7 @@ ectal
 equilibrates
 exonerators
 ethylamide
+enhance
 egol
 equilibria
 ergasia
