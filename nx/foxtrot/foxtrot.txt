@@ -7056,6 +7056,7 @@ fontinas
 forepromise
 figura
 fonts
+forelock
 fusula
 fists
 floriparous
@@ -7321,7 +7322,6 @@ flutters
 fourteenfold
 folkmoots
 furled
-forelock
 fopperies
 fopperly
 fraternized
