@@ -13065,7 +13065,6 @@ brachiopodist
 bordering
 bemantle
 balangay
-bolster
 blousing
 borders
 borderland
@@ -16405,6 +16404,7 @@ buzzgloak
 brunelliaceae
 bielbrief
 bicuculline
+bolster
 biscayen
 buchnera
 brunelliaceous
