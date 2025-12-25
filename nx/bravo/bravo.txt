@@ -3665,7 +3665,6 @@ bioplasm
 batoon
 backsettler
 batophobia
-benzdioxazine
 balloonery
 buffoon
 batrachian
@@ -5153,6 +5152,7 @@ bogbean
 beguile
 bankers
 batoid
+benzdioxazine
 bromhidrosis
 ballota
 bloodthirstiness
