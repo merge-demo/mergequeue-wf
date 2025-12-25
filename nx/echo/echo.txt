@@ -6841,7 +6841,6 @@ eggler
 entom
 extender
 episternalia
-evocativeness
 eumenes
 ectosarcs
 elix
@@ -11330,6 +11329,7 @@ evapotranspiration
 ecaudata
 esiphonal
 eluviated
+evocativeness
 ergatoid
 electrically
 erenach
