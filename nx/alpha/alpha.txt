@@ -10542,7 +10542,6 @@ autoracemization
 ambulatoriums
 alcuinian
 archduchy
-aequian
 anophele
 amygdalin
 antepenuit
@@ -12873,6 +12872,7 @@ araneiformes
 ambulate
 anglistics
 arryish
+aequian
 anglogaea
 anthemwise
 agaricinic
