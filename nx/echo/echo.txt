@@ -7568,7 +7568,6 @@ epicheiremata
 executer
 endomysium
 endovenous
-electrocapillarity
 equivalently
 equalling
 electrocoating
@@ -11853,6 +11852,7 @@ erythrochroic
 endocrinopathy
 eulogized
 expenders
+electrocapillarity
 excarnificate
 entoproctous
 ecdysone
