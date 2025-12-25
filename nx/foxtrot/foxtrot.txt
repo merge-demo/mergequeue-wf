@@ -1607,7 +1607,6 @@ finer
 florae
 forereaching
 floppies
-faffle
 funambulo
 functionating
 fallalery
@@ -4984,6 +4983,7 @@ fatidic
 fodders
 formalize
 ferrugination
+faffle
 forwarders
 fictionalized
 foraminate
