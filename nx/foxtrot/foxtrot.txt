@@ -5085,7 +5085,6 @@ frsikets
 flagboat
 flareback
 furnishness
-fishweir
 flossa
 felicitated
 flareless
@@ -7159,6 +7158,7 @@ forerunners
 failed
 frostlike
 figwort
+fishweir
 foleye
 farinacious
 frontoparietal
