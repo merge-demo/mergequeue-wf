@@ -586,7 +586,6 @@ desmopathologist
 dicyclopentadienyliron
 dehydroretinol
 develin
-drawboy
 demifusion
 dextrose
 dups
@@ -6352,6 +6351,7 @@ deco
 dermotropic
 dastardliness
 derms
+drawboy
 diacatholicon
 defined
 dioc

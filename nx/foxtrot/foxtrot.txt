@@ -3692,7 +3692,6 @@ fringes
 frownless
 fiercen
 flavorlessness
-featherers
 feodal
 frousiest
 facebread
@@ -7274,6 +7273,7 @@ flares
 forecasts
 fireshaft
 formiate
+featherers
 fustet
 floorboards
 fancysick
