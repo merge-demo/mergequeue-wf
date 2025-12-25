@@ -4929,7 +4929,6 @@ empoisons
 ebulliometer
 exoperidium
 ecchymoses
-ergatandromorph
 extrapolates
 essenis
 exies
@@ -5281,6 +5280,7 @@ endophyllum
 exospherical
 embarcadero
 ensphere
+ergatandromorph
 edginesses
 edificative
 eyrer
