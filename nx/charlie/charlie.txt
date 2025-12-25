@@ -3525,6 +3525,7 @@ cons
 capsular
 conceitedness
 capsulation
+conics
 collegatary
 chainomatic
 chawbone
@@ -15973,7 +15974,6 @@ clepsine
 confervoid
 condemnatory
 cleptobioses
-conics
 coadministration
 coryphylly
 cobelligerent
