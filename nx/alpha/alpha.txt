@@ -6740,7 +6740,6 @@ arid
 altars
 aircraftmen
 aircraftsman
-adsorptiveness
 aircraftsmen
 archband
 aircraftswoman
@@ -13353,6 +13352,7 @@ adulterine
 autographer
 ascill
 anywhence
+adsorptiveness
 appurtenance
 anywhither
 anywither
