@@ -3629,6 +3629,7 @@ gogos
 grewhound
 ghees
 garaged
+geopony
 gladen
 guanylic
 granilla
@@ -6170,7 +6171,6 @@ gargarize
 glamorousness
 gladdening
 goalpost
-geopony
 gagster
 gon
 geadephaga
