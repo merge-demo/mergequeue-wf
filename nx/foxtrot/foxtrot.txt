@@ -4935,7 +4935,6 @@ flatteringly
 flightshot
 fergusite
 frenetic
-formly
 fchar
 fluidised
 foining
@@ -5680,6 +5679,7 @@ freckles
 funeration
 forbearant
 finite
+formly
 flancards
 friended
 fouett
