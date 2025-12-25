@@ -8886,7 +8886,6 @@ dipyramid
 dyads
 defiatory
 dmod
-deriving
 dioptidae
 dendrolite
 disconnect
@@ -11178,6 +11177,7 @@ dazingly
 dratted
 disbelieves
 disavowals
+deriving
 disciples
 doughfeet
 dendropogon
