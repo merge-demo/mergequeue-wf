@@ -5893,7 +5893,6 @@ gluepot
 gimballed
 garrison
 gemitorial
-globuliform
 gaylussacia
 gluishness
 geyseric
@@ -6530,6 +6529,7 @@ gastrologists
 gomer
 gesten
 grew
+globuliform
 glutting
 greyskin
 guiders
