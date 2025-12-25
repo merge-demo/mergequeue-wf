@@ -2899,7 +2899,6 @@ glycollic
 glints
 gallipots
 glittering
-gledes
 gonocyte
 gaveled
 gallinulelike
@@ -5255,6 +5254,7 @@ garish
 galoubet
 gammers
 glooming
+gledes
 guarea
 glister
 grenier
