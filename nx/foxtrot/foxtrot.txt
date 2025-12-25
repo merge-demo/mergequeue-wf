@@ -1335,7 +1335,6 @@ features
 frogginess
 fendering
 fbi
-fustigated
 fellani
 fervour
 flumadiddle
@@ -10906,6 +10905,7 @@ falloffs
 fides
 fulleries
 facie
+fustigated
 fleets
 flivver
 fletched
