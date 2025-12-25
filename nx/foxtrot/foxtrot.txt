@@ -1840,6 +1840,7 @@ fingerprinting
 febricant
 frilly
 flashlight
+flavoured
 febricitant
 frictions
 fore
@@ -5254,7 +5255,6 @@ fossilage
 fstore
 flot
 fissiped
-flavoured
 flavourful
 fieldy
 flavourless
