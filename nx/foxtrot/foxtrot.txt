@@ -959,7 +959,6 @@ formalizer
 fillagreed
 foundership
 fizzles
-fardage
 farded
 foyers
 forride
@@ -3857,6 +3856,7 @@ forewoman
 floria
 firmnesses
 frizzles
+fardage
 fanglomerate
 figurings
 farleu
