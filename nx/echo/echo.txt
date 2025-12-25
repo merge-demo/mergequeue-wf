@@ -4001,7 +4001,6 @@ emparchment
 exaltative
 enruin
 embarrassingly
-edictum
 empathetic
 enfolded
 egalite
@@ -4146,6 +4145,7 @@ employability
 evenly
 electrovalence
 employe
+edictum
 estado
 etamin
 epigene
