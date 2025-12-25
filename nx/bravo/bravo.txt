@@ -3995,6 +3995,7 @@ bondon
 brittlewood
 bawtie
 bantlings
+barbarian
 bestsellers
 barytes
 brand
@@ -9476,7 +9477,6 @@ banya
 bipunctal
 bores
 braconniere
-barbarian
 birn
 byrnie
 biotope
