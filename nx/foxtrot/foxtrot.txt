@@ -3329,7 +3329,6 @@ furuncle
 fidge
 frogfoot
 fractionally
-fidgeted
 fractals
 faultage
 foilsmen
@@ -11406,6 +11405,7 @@ feater
 furcular
 forksmith
 forestership
+fidgeted
 flumdiddle
 forcemeat
 fisticuffing
