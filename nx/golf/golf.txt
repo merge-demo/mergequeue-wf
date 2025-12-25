@@ -1080,6 +1080,7 @@ graphicness
 gowdy
 goularo
 genitives
+glossaries
 ganister
 giroflore
 groat
@@ -9733,7 +9734,6 @@ grotesqueries
 gambades
 greyhounds
 grocerwise
-glossaries
 grannom
 gelants
 gratiosolin

@@ -1554,7 +1554,6 @@ baller
 beclowning
 ballerina
 ballet
-balletomane
 bigged
 blastiest
 ballets
@@ -7676,6 +7675,7 @@ bilabiate
 biplace
 bezanty
 brassiness
+balletomane
 bargain
 bezants
 bezazzes
