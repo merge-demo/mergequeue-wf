@@ -3043,7 +3043,6 @@ amphitrichous
 athort
 arsonate
 abdominoanterior
-arvicole
 alligatoring
 averish
 aught
@@ -5019,6 +5018,7 @@ aerotaxis
 agacant
 autoecous
 argo
+arvicole
 ablush
 aerotechnical
 alchera
