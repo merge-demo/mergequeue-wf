@@ -3087,7 +3087,6 @@ globigerine
 gleanable
 gali
 gibbol
-glossarist
 geophilid
 galvanoscopic
 glossed
@@ -7474,6 +7473,7 @@ gulpy
 gladiatory
 goura
 glyphography
+glossarist
 gonad
 gamesmanship
 gymnotidae
