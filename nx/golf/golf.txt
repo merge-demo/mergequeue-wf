@@ -2345,7 +2345,6 @@ grubbiness
 gainturn
 guavaberry
 ghazal
-grundified
 glandes
 geraty
 georgette
@@ -8684,6 +8683,7 @@ gismondite
 gutterling
 gimcracks
 glacification
+grundified
 galactophygous
 greediest
 grandfilial
