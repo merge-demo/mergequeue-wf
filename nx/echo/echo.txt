@@ -9058,7 +9058,6 @@ endothermic
 equiglacial
 episcenium
 empyreans
-eperotesis
 epibranchial
 ectocyst
 erythrocytoblast
@@ -13906,6 +13905,7 @@ extolment
 eleonorite
 extramission
 erythrism
+eperotesis
 excitosecretory
 expiscated
 eruditeness
