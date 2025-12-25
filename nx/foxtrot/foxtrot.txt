@@ -2682,7 +2682,6 @@ fawner
 frizziness
 fervence
 fortnightlies
-futilize
 ferventness
 frighteningness
 fishify
@@ -9288,6 +9287,7 @@ fresnel
 foresentence
 fetishist
 fixtures
+futilize
 fleuret
 fourchet
 friesic
