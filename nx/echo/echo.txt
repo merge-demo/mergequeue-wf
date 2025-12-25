@@ -3124,6 +3124,7 @@ extemporize
 elliptograph
 elliptoid
 extraparietal
+electropercussive
 eke
 elm
 embarrassment
@@ -6639,6 +6640,7 @@ equiponderant
 excluding
 echinorhynchus
 esperantidist
+erump
 embryous
 enseam
 exfoliated
@@ -7235,7 +7237,6 @@ ells
 estolide
 esplanades
 elpasolite
-electropercussive
 enguard
 effervesce
 embrave
@@ -10273,7 +10274,6 @@ excipulum
 etherol
 experimentize
 electronography
-erump
 ethmyphitis
 existents
 exomorphic

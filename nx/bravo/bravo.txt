@@ -4757,7 +4757,6 @@ bibliogenesis
 bedewing
 bloomeria
 blennorrhinia
-bedlamized
 bedlamizing
 bandlimited
 bedlamps
@@ -8138,6 +8137,7 @@ binucleate
 barble
 befouls
 biding
+biosensor
 bidirectional
 biophagy
 beliefs
@@ -8377,7 +8377,6 @@ bigots
 bombyxes
 bashawdom
 bigwig
-bigwiggery
 biomass
 beryllia
 babu
@@ -9104,7 +9103,6 @@ bioscopic
 bioastronautical
 bedecorate
 ballistocardiograph
-biosensor
 bearishness
 binominated
 biosynthesize
@@ -10107,6 +10105,7 @@ beamish
 behave
 blackamoors
 blair
+blemmatrope
 blackbine
 befrets
 blackback
@@ -10695,7 +10694,6 @@ blellums
 blemished
 bogeys
 brandies
-blemmatrope
 brooches
 blandisher
 becurtained
@@ -10820,6 +10818,7 @@ boanergism
 barracoon
 bromomania
 blepharostenosis
+bigwiggery
 bringeth
 bigbloom
 brimfulness
@@ -13474,6 +13473,7 @@ bottleman
 bulse
 benzin
 bepun
+bedlamized
 brayer
 bottlenest
 bottlenose
