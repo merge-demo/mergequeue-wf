@@ -3639,7 +3639,6 @@ embraid
 emotions
 embrail
 empowers
-exactiveness
 embranchment
 ellick
 enriching
@@ -10203,6 +10202,7 @@ esperantic
 esophagomycosis
 envenomation
 ethician
+exactiveness
 epichorial
 emydian
 electromedical
