@@ -4757,7 +4757,6 @@ bibliogenesis
 bedewing
 bloomeria
 blennorrhinia
-bedlamized
 bedlamizing
 bandlimited
 bedlamps
@@ -13474,6 +13473,7 @@ bottleman
 bulse
 benzin
 bepun
+bedlamized
 brayer
 bottlenest
 bottlenose
