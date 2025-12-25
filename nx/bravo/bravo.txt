@@ -1882,7 +1882,6 @@ bandiness
 bascunan
 bailiary
 bryology
-bewend
 bonaght
 bevies
 batukite
@@ -3808,6 +3807,7 @@ benchland
 blundering
 boatsmanship
 bitterbush
+bewend
 binitarian
 bedpad
 bauble
