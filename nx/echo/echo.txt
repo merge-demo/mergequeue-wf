@@ -2439,6 +2439,7 @@ electrodialyze
 essayical
 excoriates
 epistle
+extrabold
 evenglow
 eumenidean
 empiristic
@@ -7638,7 +7639,6 @@ encephalous
 ensconce
 enhungered
 euphemious
-extrabold
 electrophoridae
 epicoracoid
 exocrine
