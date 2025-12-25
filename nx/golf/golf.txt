@@ -10228,7 +10228,6 @@ gainsays
 glaucous
 gowpin
 gweduck
-gobbet
 gunless
 guillotinist
 glutaraldehyde
@@ -10236,6 +10235,7 @@ ginzo
 gonophorous
 gastroptosis
 grape
+gobbet
 gossypin
 galvo
 graminivore
