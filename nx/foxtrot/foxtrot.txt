@@ -3217,7 +3217,6 @@ frostwort
 flexionless
 fango
 fuchsone
-forefend
 flunkies
 falern
 forewarnings
@@ -5415,6 +5414,7 @@ foremade
 frisado
 factorial
 fledgiest
+forefend
 floatless
 foisonless
 fabian
