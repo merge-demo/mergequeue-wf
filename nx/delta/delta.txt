@@ -12883,6 +12883,7 @@ dismissal
 dismissed
 distemperate
 dismisses
+draughtswomanship
 dismissing
 dismissory
 discographically
@@ -16240,7 +16241,6 @@ downcry
 dieciously
 downed
 damaskeening
-draughtswomanship
 diarrhea
 deforest
 deteriorate
