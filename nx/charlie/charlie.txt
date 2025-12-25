@@ -10933,7 +10933,6 @@ cariacine
 chipwood
 chiquito
 clavate
-chiral
 clerids
 cardstock
 contortioned
@@ -14289,6 +14288,7 @@ cypripedin
 centralizes
 circumlocutionist
 centrisms
+chiral
 circumlocutory
 circumlunar
 clodder
