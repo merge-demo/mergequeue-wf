@@ -5040,6 +5040,7 @@ fumatory
 fizz
 forekeel
 faithbreaker
+foeship
 faconne
 fulmarus
 flapdock
@@ -9718,7 +9719,6 @@ furcellaria
 foamingly
 feoffor
 faying
-foeship
 fremontodendron
 fumacious
 fraternally
