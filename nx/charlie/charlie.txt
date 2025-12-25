@@ -17733,7 +17733,6 @@ cocircular
 cultrirostres
 catodont
 cocitizen
-cocitizenship
 cockade
 colour
 colonisation
@@ -22556,6 +22555,7 @@ conjunctures
 conjuration
 conjurations
 conjured
+cocitizenship
 conjurement
 canel
 championlike
