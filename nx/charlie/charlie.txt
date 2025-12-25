@@ -3525,7 +3525,6 @@ chawbone
 capsulectomy
 chloroforming
 centinody
-countershaft
 chappow
 capsuliferous
 coldcock
@@ -9374,6 +9373,7 @@ catamarans
 chaus
 cabbalistical
 cataian
+countershaft
 cyclamin
 constatory
 carpenterworm
