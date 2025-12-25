@@ -3212,6 +3212,7 @@ grievants
 greatheartedness
 gambled
 gloater
+gauche
 globosely
 gepidae
 gremlin
@@ -6137,7 +6138,6 @@ gadfly
 geelbec
 goa
 gadsbud
-gauche
 goadsman
 grihastha
 gazetteers
