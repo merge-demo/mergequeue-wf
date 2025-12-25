@@ -11858,7 +11858,6 @@ ecdysone
 excaudate
 engracing
 excavator
-enlace
 excave
 epist
 eructated
@@ -13586,6 +13585,7 @@ extemporally
 electropotential
 elkanah
 eisegesis
+enlace
 edriophthalmian
 ethereally
 electropyrometer
