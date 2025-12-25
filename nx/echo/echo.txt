@@ -5958,7 +5958,6 @@ embuskin
 ephemeron
 excursive
 exclave
-eftest
 ethmonasal
 enheart
 enhearten
@@ -12536,6 +12535,7 @@ exculpative
 extoolitic
 enactable
 esonarthex
+eftest
 enameler
 extant
 existlessness
