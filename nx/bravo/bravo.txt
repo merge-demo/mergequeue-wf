@@ -7199,6 +7199,7 @@ bestench
 bearberry
 be
 brannigan
+bismuthal
 bellbirds
 baseliner
 biologies
@@ -9679,7 +9680,6 @@ bipartisanism
 bourette
 bismite
 bankrupcy
-bismuthal
 bismuthate
 burhinus
 birchbark
