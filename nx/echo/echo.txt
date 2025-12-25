@@ -10887,6 +10887,7 @@ exrupeal
 emmetropia
 eutectic
 extensor
+exobasidium
 embryoplastic
 esthetic
 enchaser
@@ -12566,7 +12567,6 @@ exobasidiales
 etc
 expressmen
 ergonovine
-exobasidium
 eupathy
 esthiomenus
 enlure
