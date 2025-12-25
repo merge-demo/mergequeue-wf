@@ -8557,7 +8557,6 @@ chiselled
 chams
 compositionally
 congealedness
-chimbley
 cath
 corslet
 chanca
@@ -17174,6 +17173,7 @@ coadmit
 coadmits
 coadmitted
 caner
+chimbley
 coadmitting
 coadnate
 chloronaphthalene
