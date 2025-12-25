@@ -1531,6 +1531,7 @@ deacons
 demobilizes
 diphygenic
 deactivate
+diamant
 discoglossid
 distractedly
 dallies
@@ -8432,7 +8433,6 @@ degreed
 diamagnet
 diamagnetic
 dredging
-diamant
 ditrochee
 deflexed
 dooxidize
