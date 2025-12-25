@@ -6668,7 +6668,6 @@ elevation
 embryoctonic
 eched
 eyeing
-enkerchief
 exoderms
 enthralled
 entomophagan
@@ -13477,6 +13476,7 @@ ethan
 ergophobic
 exquire
 exsolution
+enkerchief
 erbia
 epithalamium
 ethnomusicology
