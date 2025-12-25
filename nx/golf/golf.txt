@@ -3399,7 +3399,6 @@ gnatling
 gorkun
 galbe
 gonocytes
-glaciable
 gainor
 gymnoceratous
 geosid
@@ -9171,6 +9170,7 @@ goosed
 griphite
 gesture
 gehenna
+glaciable
 golee
 greenhornism
 gripment
