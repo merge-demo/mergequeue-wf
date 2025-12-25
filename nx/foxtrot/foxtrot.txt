@@ -6838,6 +6838,7 @@ fructifier
 forger
 foliaged
 firetower
+faulter
 fussify
 flipjack
 fourhanded
@@ -8891,7 +8892,6 @@ forum
 furbelow
 flambage
 froghopper
-faulter
 foujdarry
 fibrousness
 foul
