@@ -3937,7 +3937,6 @@ geneal
 gigawatt
 gutser
 garote
-gratuito
 galagos
 gigge
 gallopers
@@ -8081,6 +8080,7 @@ gasconader
 gybes
 grandfathership
 glandularly
+gratuito
 gasiform
 gribane
 gamone
