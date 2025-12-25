@@ -2663,7 +2663,6 @@ falsely
 fluoridating
 fertilise
 fylfots
-fertilizational
 funeral
 fallowed
 fantoccini
@@ -10164,6 +10163,7 @@ finalize
 fricatives
 frivolousness
 foray
+fertilizational
 faunula
 felled
 filisters
