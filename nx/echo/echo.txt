@@ -5606,7 +5606,6 @@ extraovular
 enfilades
 escutcheoned
 eerinesses
-encasement
 enucleator
 erroneousness
 essentiality
@@ -8149,6 +8148,7 @@ exhumator
 episclera
 ell
 esconson
+encasement
 expensilation
 ensanguined
 enaction

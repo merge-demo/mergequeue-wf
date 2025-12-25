@@ -1119,7 +1119,6 @@ fractional
 fibrillary
 fanzine
 filiates
-farthings
 forlornness
 fubs
 footprints
@@ -8586,6 +8585,7 @@ futurities
 fasciation
 forebodement
 ferules
+farthings
 favourless
 foxhole
 fornication
