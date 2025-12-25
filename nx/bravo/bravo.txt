@@ -3926,6 +3926,7 @@ baxtone
 brachyskelic
 boughten
 bergylt
+breveted
 bint
 brockage
 bazooka
@@ -11164,7 +11165,6 @@ beliquors
 blindages
 beknot
 bitewings
-breveted
 boronia
 bumelia
 brutalised
