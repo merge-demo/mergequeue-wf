@@ -4785,6 +4785,7 @@ flageolets
 flagfishes
 fubsy
 forbiddenness
+frenzily
 fissurellidae
 feuillants
 fortunetelling
@@ -10112,7 +10113,6 @@ firstly
 fenetre
 fluviometer
 fiberizing
-frenzily
 funkia
 flyover
 flintifying
