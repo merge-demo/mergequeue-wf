@@ -1826,7 +1826,6 @@ episepalous
 evangelicality
 emanium
 esrogim
-exoclinal
 exhorters
 engraulis
 erodium
@@ -11891,6 +11890,7 @@ entrepot
 emits
 except
 escheatment
+exoclinal
 eppes
 encolure
 entomologise
