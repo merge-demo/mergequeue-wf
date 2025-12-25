@@ -9815,7 +9815,6 @@ estampage
 empiric
 enucleating
 evolving
-estampede
 estang
 ethnographist
 extincteur
@@ -13759,6 +13758,7 @@ ethnize
 encloak
 exosperm
 evermo
+estampede
 entea
 extispicious
 extoling
