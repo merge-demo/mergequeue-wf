@@ -5526,7 +5526,6 @@ furrower
 furnit
 fisc
 faked
-filionymic
 forbearingness
 forninst
 frowzy
@@ -8942,6 +8941,7 @@ fokker
 finial
 fantastico
 forethoughtful
+filionymic
 foundrymen
 flabellinerved
 fallency
