@@ -2340,7 +2340,6 @@ busyish
 blatancies
 bromite
 briber
-barbita
 barbital
 brighteners
 barbiton
@@ -3717,6 +3716,7 @@ bindlet
 bepinch
 baylike
 batty
+barbita
 barny
 brookflower
 beild
