@@ -6174,6 +6174,7 @@ enrols
 enmity
 eparchean
 entracte
+enamelware
 embattles
 ethicizes
 enmove
@@ -9824,7 +9825,6 @@ entrance
 estats
 eternise
 ethionic
-enamelware
 exact
 estrich
 etagre
