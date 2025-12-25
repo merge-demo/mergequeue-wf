@@ -15545,7 +15545,6 @@ biedermeier
 buglet
 bryonia
 belloot
-bouncy
 brios
 babirusa
 badinaging
@@ -16680,6 +16679,7 @@ blocage
 banquetings
 buckeen
 busby
+bouncy
 bucker
 belait
 buckers
