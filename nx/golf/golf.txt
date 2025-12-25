@@ -7920,7 +7920,6 @@ geophagia
 generalist
 gouged
 geochemistry
-graphitoidal
 granary
 greases
 gastrotomies
@@ -9685,6 +9684,7 @@ gametange
 gradative
 glareous
 galapee
+graphitoidal
 genets
 guzzle
 graniform
