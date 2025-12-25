@@ -5517,7 +5517,6 @@ duraquara
 deutomala
 department
 discontiguousness
-departmental
 disrobers
 desiccate
 dealation
@@ -11411,6 +11410,7 @@ dermorhynchous
 disclimax
 dialogite
 drossing
+departmental
 dastardy
 dockyard
 dissuader
