@@ -5384,6 +5384,7 @@ endosteomata
 enwingly
 excarnate
 endeavoring
+enteromere
 enmagazine
 epanody
 endothecal
@@ -8539,7 +8540,6 @@ esoterically
 excogitating
 exsufflicate
 esophagotome
-enteromere
 equatable
 ecclesiasticize
 essentializing
