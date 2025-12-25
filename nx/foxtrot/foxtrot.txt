@@ -2878,6 +2878,7 @@ flowstone
 fractioning
 fettlings
 farcin
+fondlike
 flog
 freighted
 fackins
@@ -8802,7 +8803,6 @@ foolheadedness
 forwelk
 foenngreek
 flossification
-fondlike
 forthbring
 frizzlier
 frontosphenoidal
