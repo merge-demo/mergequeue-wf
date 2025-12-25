@@ -2780,6 +2780,7 @@ gemeinde
 gaunt
 growling
 gimmor
+grievingly
 gascoigny
 greatcoat
 gyro
@@ -8100,7 +8101,6 @@ gamiest
 garau
 gratulating
 gasteromycetes
-grievingly
 grantees
 glunching
 gladiatrix
