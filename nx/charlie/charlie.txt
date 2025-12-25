@@ -15874,6 +15874,7 @@ coremaker
 clamb
 cleche
 capacitance
+clerkish
 clechee
 constants
 cleck
@@ -21802,7 +21803,6 @@ climatotherapies
 couleur
 conductometer
 corrump
-clerkish
 corrosional
 cremaillere
 cham
