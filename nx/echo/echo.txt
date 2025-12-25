@@ -2043,7 +2043,6 @@ elabrate
 endocrinotherapy
 epirrhematic
 epigaea
-erythrosine
 epitrophy
 encurl
 exophasia
@@ -2316,6 +2315,7 @@ encased
 egest
 ecliptics
 equality
+erythrosine
 enleagued
 electrifiers
 europasian
