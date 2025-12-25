@@ -1098,7 +1098,6 @@ frenchwoman
 frondescence
 foughten
 farsighted
-fleabites
 flatiron
 foretime
 farsightedness
@@ -9870,6 +9869,7 @@ foreappointment
 fricace
 fricandeaux
 foozlers
+fleabites
 footcloths
 fluellen
 foxily
