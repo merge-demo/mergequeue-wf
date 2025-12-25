@@ -1000,7 +1000,6 @@ fontanges
 filmsets
 foreshop
 fulmina
-fucuses
 femes
 foreplan
 foreorder
@@ -9522,6 +9521,7 @@ fissiparousness
 flatbottom
 forbreak
 floatman
+fucuses
 ferv
 florets
 fibdom
