@@ -6058,7 +6058,6 @@ apteral
 ablock
 agamospore
 agitatrix
-agitprops
 aglance
 anchoritess
 alkanal
@@ -14429,6 +14428,7 @@ anthranyl
 afterswarming
 adrue
 anthranilic
+agitprops
 anthranol
 atechny
 acuminulate
