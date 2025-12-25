@@ -3420,6 +3420,7 @@ glossolaryngeal
 gourmets
 gerrymander
 gorgons
+gruiform
 goldwater
 gerrymanders
 guilts
@@ -7730,7 +7731,6 @@ geist
 glaciolacustrine
 gashly
 graecomania
-gruiform
 graecophil
 guilfat
 gittern
