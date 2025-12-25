@@ -3431,6 +3431,7 @@ burghership
 byrrus
 bedsores
 blushing
+bedote
 bulletmaker
 bastardism
 blather
@@ -7537,7 +7538,6 @@ bevillain
 befell
 bonspell
 bashaws
-bedote
 breezeless
 banes
 boehmite
