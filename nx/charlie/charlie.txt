@@ -859,7 +859,6 @@ cainian
 cainish
 contaminated
 carburation
-cainite
 charbroils
 cainitic
 cayos
@@ -3277,6 +3276,7 @@ capitated
 capitatim
 cputime
 capitation
+cainite
 casimere
 capitations
 calcium
