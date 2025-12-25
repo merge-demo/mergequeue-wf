@@ -20000,7 +20000,6 @@ croupal
 coinheres
 conjectural
 commassation
-carot
 commassee
 cigar
 commata
@@ -26730,6 +26729,7 @@ counterborder
 counterbored
 celandine
 cubla
+carot
 counterborer
 counterboring
 counterboulle
