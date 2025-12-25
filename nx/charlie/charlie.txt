@@ -8204,6 +8204,7 @@ chainmen
 celiomyositis
 cultists
 campanulaceous
+chico
 colewort
 coelastrum
 chainsman
@@ -10386,7 +10387,6 @@ chicle
 chicly
 chicness
 chantries
-chico
 caryocaraceous
 coryneum
 chicories
