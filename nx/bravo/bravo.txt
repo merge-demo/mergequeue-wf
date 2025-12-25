@@ -5290,7 +5290,6 @@ byssin
 bigot
 burrier
 beggary
-beggaring
 bicrescentic
 beggarlike
 boshas
@@ -16608,6 +16607,7 @@ brawny
 biseptate
 banderoled
 brisky
+beggaring
 banaba
 bubinga
 bougainvillea
