@@ -5144,6 +5144,7 @@ avernal
 arbalos
 anelastic
 accend
+atmology
 avouching
 amnioallantoic
 antireticular
@@ -10030,7 +10031,6 @@ appulsive
 axmen
 antiformant
 amblycephalus
-atmology
 amblydactyla
 asymptomatically
 ammoniemia
