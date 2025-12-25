@@ -5927,7 +5927,6 @@ ewest
 extrazodiacal
 epigramme
 exacerbescence
-epidendral
 exsiccate
 engrossedly
 engrosser
@@ -7120,6 +7119,7 @@ envelope
 exurbanites
 envelopments
 endpaper
+epidendral
 envelops
 euphorbiaceous
 enduing
