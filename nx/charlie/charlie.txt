@@ -14524,7 +14524,6 @@ cyclose
 comprisable
 checkrail
 cephaloplegic
-ciseaux
 courante
 cising
 cisium
@@ -29192,6 +29191,7 @@ constipate
 cryosel
 cryospheric
 criosphinx
+ciseaux
 chromatospheric
 criosphinxes
 catrigged
