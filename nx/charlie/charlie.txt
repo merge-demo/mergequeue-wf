@@ -1927,6 +1927,7 @@ cambresine
 cuir
 calumnia
 cambric
+clarity
 cartonnage
 cambricleaf
 colobus
@@ -3938,7 +3939,6 @@ carbonous
 carbons
 carbonuria
 calcined
-clarity
 checkhook
 contradistinguish
 celibacies
