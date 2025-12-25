@@ -5156,7 +5156,6 @@ bombshells
 beflour
 beflowered
 biotas
-batta
 bogbean
 beguile
 bankers
@@ -15474,6 +15473,7 @@ babyish
 brannerite
 bereaved
 batonnier
+batta
 bindheimite
 bystander
 brimly
