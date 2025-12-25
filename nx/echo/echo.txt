@@ -4304,7 +4304,6 @@ emulsoids
 enteropathogenic
 elohim
 enlay
-enamellers
 epicenes
 escarpments
 ectogenous
@@ -12069,6 +12068,7 @@ excrescency
 eccentric
 eris
 enfoldment
+enamellers
 excuseless
 endemisms
 excresence
