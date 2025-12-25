@@ -2784,7 +2784,6 @@ gascoigny
 greatcoat
 gyro
 gyne
-garni
 gershon
 guzzledom
 gyges
@@ -7892,6 +7891,7 @@ graved
 grammatistical
 gratinated
 giglots
+garni
 grammatite
 gumbo
 glossotherium
