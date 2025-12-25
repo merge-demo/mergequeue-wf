@@ -5010,7 +5010,6 @@ denaries
 dimera
 denarinarii
 deluder
-dropshots
 denaro
 dawdy
 dejectedness
@@ -15607,6 +15606,7 @@ doomsayer
 doomsday
 diols
 decussating
+dropshots
 doomster
 defaulters
 domina
