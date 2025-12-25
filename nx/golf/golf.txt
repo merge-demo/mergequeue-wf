@@ -5796,6 +5796,7 @@ grasshopperish
 gastrodisk
 gurjara
 glowering
+gradients
 glowingly
 glows
 grinny
@@ -6933,7 +6934,6 @@ geromorphism
 grayfly
 galatians
 geometrised
-gradients
 grannam
 geostatics
 goodwife
