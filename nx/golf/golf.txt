@@ -85,7 +85,6 @@ guidelines
 groupoid
 gallops
 grutten
-gualaca
 glauber
 gubernator
 gymnopaedes
@@ -4451,6 +4450,7 @@ galloman
 gaultherine
 gipon
 gaetulan
+gualaca
 gunlayer
 gypped
 giardia
