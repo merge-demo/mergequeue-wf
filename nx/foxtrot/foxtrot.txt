@@ -4553,7 +4553,6 @@ fisheress
 fairyfolk
 filibranchia
 fishgigs
-fatiguing
 fissuring
 flagellation
 fruitcake
@@ -10009,6 +10008,7 @@ fibrosities
 fliest
 fairness
 fossilising
+fatiguing
 frijole
 footprint
 forewarner
