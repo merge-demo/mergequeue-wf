@@ -3951,6 +3951,7 @@ bdelloura
 bisected
 bassette
 bunch
+blastomycetous
 bristols
 behelp
 bengaline
@@ -15267,7 +15268,6 @@ bridelope
 boardman
 brizz
 bridemaid
-blastomycetous
 bahur
 biwa
 beach
