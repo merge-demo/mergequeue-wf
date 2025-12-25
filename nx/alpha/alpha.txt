@@ -6962,6 +6962,7 @@ arborist
 abaculus
 animal
 abiology
+apportionable
 anoure
 aniseeds
 appreciatorily
@@ -17786,7 +17787,6 @@ algomic
 adonia
 ablaze
 apport
-apportionable
 ampule
 apportioner
 antiquitarian

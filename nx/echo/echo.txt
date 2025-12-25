@@ -2172,7 +2172,6 @@ egged
 elated
 etherealise
 epitria
-exoneration
 electrosurgical
 endleaf
 enfoil
@@ -9852,6 +9851,7 @@ exhumated
 electorate
 emulsoid
 esters
+exoneration
 entomologizing
 electromagnet
 electrotheraputics
