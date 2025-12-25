@@ -945,7 +945,6 @@ ectropium
 eluvia
 erogenesis
 elects
-effatum
 ectrosyndactyly
 earring
 ectrotic
@@ -11738,6 +11737,7 @@ examinable
 eglateres
 examinant
 eschewer
+effatum
 enscrolled
 estrepe
 encumbering
