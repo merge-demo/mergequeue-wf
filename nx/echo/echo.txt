@@ -11246,7 +11246,6 @@ excisemanship
 enclothe
 evangelistary
 enthronements
-earflower
 endostraca
 enamor
 emigre
@@ -12944,6 +12943,7 @@ electrolysation
 enhaunt
 eulogiae
 expectancy
+earflower
 endotherm
 epistemophilia
 ecologist

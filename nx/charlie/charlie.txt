@@ -1243,6 +1243,7 @@ commissarial
 calef
 cypseliformes
 calefacient
+credential
 craunched
 caudad
 calefactive
@@ -11790,7 +11791,6 @@ chondrites
 chondritic
 chondroalbuminoid
 chondroangioma
-credential
 coexchangeable
 countercouchant
 chondroarthritis
