@@ -15289,7 +15289,6 @@ bridewort
 bridge
 basiliscan
 bighorn
-budtime
 bridgebuilder
 bridgehead
 bridgemaking
@@ -18180,6 +18179,7 @@ bechern
 butlery
 belief
 bouche
+budtime
 butleries
 butlerlike
 butlers
