@@ -1217,6 +1217,7 @@ gonakie
 grackles
 guana
 gaufre
+grouters
 glittered
 generalizations
 gondolas
@@ -6719,7 +6720,6 @@ gurdfish
 gruine
 glenoid
 goniocraniometry
-grouters
 gaveller
 goniodoridae
 gagmen
