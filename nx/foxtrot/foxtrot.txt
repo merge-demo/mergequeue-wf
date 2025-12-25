@@ -5584,6 +5584,7 @@ fossicking
 firefight
 forgette
 fader
+floweret
 flycatchers
 flicflac
 flintiness
@@ -9825,7 +9826,6 @@ fatals
 farrows
 feldspathic
 fodge
-floweret
 fuds
 followup
 fretten
