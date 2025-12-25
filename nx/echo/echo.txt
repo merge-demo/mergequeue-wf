@@ -1307,7 +1307,6 @@ eeriness
 ecostate
 epithalamion
 encircler
-endogenesis
 eigenvalue
 eassel
 enteroid
@@ -10358,6 +10357,7 @@ edgestone
 embezzlements
 exhibitive
 equibiradiate
+endogenesis
 ellagic
 ethylamime
 elytra
