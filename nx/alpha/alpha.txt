@@ -3805,7 +3805,6 @@ amphithuron
 acetabuliform
 adipinic
 autotransplant
-adipocellulose
 adipocere
 adipoceriform
 adipoid
@@ -22266,6 +22265,7 @@ anticlassicist
 anecdotalism
 alfred
 atherinidae
+adipocellulose
 astoundingly
 astounds
 agastroneuria
