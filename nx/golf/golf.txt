@@ -1995,6 +1995,7 @@ gars
 gregaloid
 generalness
 gambogic
+golliwog
 gateman
 gadaria
 gums
@@ -5803,7 +5804,6 @@ glissades
 greggle
 gather
 gedrite
-golliwog
 geocarpic
 gastriloquy
 galumptious
