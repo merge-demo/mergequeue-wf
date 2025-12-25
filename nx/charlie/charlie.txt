@@ -14686,6 +14686,7 @@ cairo
 cistori
 cystosarcoma
 conforbably
+codifier
 chayote
 cowbyre
 cyanogenetic
@@ -25957,7 +25958,6 @@ corvees
 corven
 corver
 corves
-codifier
 corvet
 corvette
 corvettes
