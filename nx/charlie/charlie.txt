@@ -16255,6 +16255,7 @@ contravenes
 clingy
 clinginess
 cuit
+covings
 craniopagus
 clinging
 clingingly
@@ -16714,7 +16715,6 @@ clot
 centronucleus
 compatriotism
 clotbur
-covings
 clapbread
 carpetbeater
 clote
