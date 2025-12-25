@@ -5354,7 +5354,6 @@ elegiast
 eliminability
 endosclerite
 extrahepatic
-eurybathic
 endoscope
 endoscopes
 equivocalities
@@ -9434,6 +9433,7 @@ endoss
 endodontologist
 escarole
 enantobiosis
+eurybathic
 excuseful
 elutriated
 exostosed
