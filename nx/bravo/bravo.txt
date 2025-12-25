@@ -4190,7 +4190,6 @@ bogman
 bumpkinish
 buoyantness
 brinsell
-bracteal
 beastlily
 beclown
 barrow
@@ -14426,6 +14425,7 @@ blowline
 bypath
 brainstems
 brainstone
+bracteal
 biconical
 brainstormer
 boxfuls
