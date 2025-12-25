@@ -2826,7 +2826,6 @@ encauma
 egyptological
 excalate
 ensnarling
-elenchi
 earbob
 elenchic
 eidos
@@ -4386,6 +4385,7 @@ erythrochaete
 esoenteritis
 exotically
 embrasure
+elenchi
 enantiomorph
 encratic
 elenchtical

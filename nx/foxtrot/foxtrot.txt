@@ -7337,6 +7337,7 @@ franchisers
 fronds
 fearnaught
 flob
+frowy
 frampold
 fulcrum
 feathered
@@ -11154,7 +11155,6 @@ forefather
 funereally
 force
 figged
-frowy
 fungation
 fremdness
 flyblowing
