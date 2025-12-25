@@ -5879,6 +5879,7 @@ funebre
 farding
 fastigia
 fdtype
+forestian
 fowlers
 flocced
 frustulose
@@ -10454,7 +10455,6 @@ fescue
 follied
 foreadvice
 frontotemporal
-forestian
 frontsman
 fluxional
 frontspieces
