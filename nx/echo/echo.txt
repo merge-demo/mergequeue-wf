@@ -3459,6 +3459,7 @@ exemplar
 ecliptic
 embatholithic
 enfiladed
+epigean
 extradoses
 exteriors
 enteropneustan
@@ -4756,7 +4757,6 @@ eulogism
 engerminate
 executonis
 epacmaic
-epigean
 estre
 emplaced
 exponentiating
