@@ -3452,7 +3452,6 @@ forswearer
 flaccidly
 firmisternial
 figgiest
-fraternisation
 fecundity
 fleeches
 fanfares
@@ -4110,6 +4109,7 @@ fiorin
 fusiladed
 fiorite
 flamberg
+fraternisation
 foreseen
 falsehoods
 fornenst
