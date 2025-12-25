@@ -15375,7 +15375,6 @@ axiomatize
 antilysin
 anther
 alloploidy
-awaited
 abrasion
 argonaut
 antilithic
@@ -23409,6 +23408,7 @@ audiologies
 aliquid
 anconitis
 aphaeretic
+awaited
 audiometrically
 antitwilight
 annonaceous
