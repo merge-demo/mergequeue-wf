@@ -2214,7 +2214,6 @@ dissipativity
 dernier
 decasualise
 disgavel
-decasualized
 dialectological
 didymous
 decathlons
@@ -6217,6 +6216,7 @@ dermapterous
 dermas
 dirgler
 dasypodoid
+decasualized
 delimited
 dialytically
 dermasurgery
