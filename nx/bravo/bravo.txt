@@ -4230,7 +4230,6 @@ backchain
 bellmen
 barometric
 brusquer
-beatnik
 beatrix
 bonging
 becater
@@ -5922,6 +5921,7 @@ bicameral
 bugdom
 banderillero
 belonidae
+beatnik
 bullions
 beprose
 blisses
