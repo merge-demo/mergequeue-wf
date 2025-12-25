@@ -9878,7 +9878,6 @@ growth
 gastrochaena
 gladdens
 gerygone
-garble
 gustless
 guanin
 gagate
@@ -9931,6 +9930,7 @@ girderless
 glebes
 greylags
 geoparallelotropic
+garble
 gateway
 grisailles
 granddaddies
