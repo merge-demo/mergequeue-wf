@@ -2309,7 +2309,6 @@ gerastian
 gristlier
 ge
 gagsters
-gravitation
 gingival
 guige
 gerard
@@ -6468,6 +6467,7 @@ gannister
 gastraead
 guarded
 gie
+gravitation
 guanare
 gapeworms
 gurry
