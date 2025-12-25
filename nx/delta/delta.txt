@@ -1114,7 +1114,6 @@ dash
 doctorization
 dashed
 dicentra
-dipnoid
 dermopathy
 dumpfile
 dryfist
@@ -18329,6 +18328,7 @@ debussing
 detonate
 duodecastyle
 duodecennial
+dipnoid
 duodecillions
 doxy
 duotriacontane
