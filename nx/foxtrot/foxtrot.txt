@@ -2798,7 +2798,6 @@ facers
 flattops
 fumigatories
 fcomp
-fretted
 faunae
 faveolate
 ficus
@@ -7138,6 +7137,7 @@ frotteurs
 feckful
 friszka
 footboy
+fretted
 fossette
 footboys
 floodgate
