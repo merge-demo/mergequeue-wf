@@ -5386,7 +5386,6 @@ fleche
 forelady
 folliculate
 flechettes
-flecked
 forkhead
 fleckering
 franco
@@ -10980,6 +10979,7 @@ forerunning
 faipule
 foreadapt
 focaloid
+flecked
 foremilk
 finland
 festooned
