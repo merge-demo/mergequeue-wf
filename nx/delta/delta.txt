@@ -6376,7 +6376,6 @@ demeanour
 doronicum
 despond
 derogate
-denuclearization
 derogates
 diglyceride
 dixie
@@ -8467,6 +8466,7 @@ dispatchers
 diametral
 diametric
 diamide
+denuclearization
 diamides
 descanter
 deesis
