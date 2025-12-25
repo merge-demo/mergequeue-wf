@@ -6382,7 +6382,6 @@ fren
 flang
 fullterm
 fluoran
-fennish
 francois
 florentium
 fishtailing
@@ -10109,6 +10108,7 @@ firster
 foredecree
 formalise
 fearfulness
+fennish
 fittyfied
 fluoborite
 finalizations
