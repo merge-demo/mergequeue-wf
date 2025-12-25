@@ -50,7 +50,6 @@ earflap
 expender
 enzyms
 excites
-earlocks
 exciton
 electroretinograph
 excursion
@@ -12218,6 +12217,7 @@ entally
 extraordinary
 erodable
 edriasteroidea
+earlocks
 ergotine
 eskuara
 ephemerides
