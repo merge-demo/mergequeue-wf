@@ -487,7 +487,6 @@ gye
 glaucodot
 gluteus
 grama
-gullably
 ghostism
 geminations
 gnomes
@@ -3401,6 +3400,7 @@ gnatling
 gorkun
 galbe
 gonocytes
+gullably
 gainor
 gymnoceratous
 geosid
