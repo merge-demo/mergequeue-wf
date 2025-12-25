@@ -6281,6 +6281,7 @@ fluidist
 festers
 fluidized
 ferroconcrete
+flap
 firers
 flared
 fissiparation
@@ -11456,7 +11457,6 @@ furcule
 flaffer
 furfurylidene
 furrowy
-flap
 furrowing
 forletting
 furrowlike
