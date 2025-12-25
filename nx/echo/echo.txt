@@ -4518,7 +4518,6 @@ eskar
 ensilage
 endolithic
 encephalartos
-encephalasthenia
 effloresced
 escocheon
 erythrophagous
@@ -11241,6 +11240,7 @@ effulgent
 eely
 exceptionably
 effulgently
+encephalasthenia
 excisemanship
 enclothe
 evangelistary
