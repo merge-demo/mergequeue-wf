@@ -7641,7 +7641,6 @@ beworship
 bedare
 burrobrush
 bonaught
-barmen
 biciliate
 bracelets
 barful
@@ -11697,6 +11696,7 @@ beefalos
 bobadil
 biotomy
 bobadilian
+barmen
 broadbill
 bindles
 bacteriotrypsin
