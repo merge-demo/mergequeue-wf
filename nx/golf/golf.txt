@@ -5414,6 +5414,7 @@ glyphic
 gambist
 gascoign
 guran
+glossator
 girlhood
 gus
 glossoepiglottidean
@@ -8470,7 +8471,6 @@ griskins
 garancine
 goatishness
 gerontophilia
-glossator
 grinnie
 galactonic
 gratulation
