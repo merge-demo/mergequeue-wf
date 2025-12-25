@@ -6317,6 +6317,7 @@ follicle
 foresteep
 ferryhouse
 fob
+furans
 falerian
 flumes
 fluminous
@@ -11263,7 +11264,6 @@ filibusterer
 fenks
 felly
 funster
-furans
 furacious
 file
 farces
