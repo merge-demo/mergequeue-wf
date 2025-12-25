@@ -5809,6 +5809,7 @@ catchword
 cervinae
 catchwork
 cabasset
+chartulas
 counterinsurgents
 catclaw
 cate
@@ -9192,7 +9193,6 @@ cartoned
 coalface
 chartularies
 citrene
-chartulas
 charwoman
 centipedes
 conservatives
