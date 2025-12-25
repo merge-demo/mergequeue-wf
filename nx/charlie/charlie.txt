@@ -7854,7 +7854,6 @@ ceratophrys
 cerulific
 cerulignol
 cerumen
-cerumens
 ceruminal
 costean
 chemoautotrophy
@@ -8747,6 +8746,7 @@ choli
 chaouia
 chap
 chapah
+cerumens
 coothay
 chapanec
 cartboot
