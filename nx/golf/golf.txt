@@ -2514,7 +2514,6 @@ gamogeny
 graven
 glomeroporphyritic
 gumshield
-gastroenterocolitis
 gladite
 grattoir
 genecology
@@ -6111,6 +6110,7 @@ gnathostome
 gjetosts
 gallivants
 gammarus
+gastroenterocolitis
 galenist
 glaserian
 gnotobiosis
