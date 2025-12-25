@@ -1875,7 +1875,6 @@ fianchetti
 fanback
 frisson
 fluellite
-fallacious
 flexional
 frohlich
 fecundator
@@ -3989,6 +3988,7 @@ friese
 flattish
 forfeited
 flunk
+fallacious
 fingerprint
 ferric
 furazolidone
