@@ -1266,6 +1266,7 @@ antifoggant
 acarpelous
 augitic
 antisceptic
+airing
 ais
 acatalectic
 apomicts
@@ -24820,7 +24821,6 @@ augmentatively
 avocat
 avocations
 avocative
-airing
 antipragmatic
 avocet
 autoed

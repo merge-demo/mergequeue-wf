@@ -1093,7 +1093,6 @@ embeddable
 echinology
 elective
 edification
-evaluators
 exfigure
 earock
 equipoised
@@ -3570,6 +3569,7 @@ ergographic
 entozoon
 emboweled
 epithecial
+evaluators
 ethanamide
 eschewance
 extortionary
