@@ -7934,7 +7934,6 @@ fork
 floes
 fetticus
 feiseanna
-featherworker
 foresee
 faitor
 feeblehearted
@@ -9922,6 +9921,7 @@ foliaceousness
 fibrofatty
 freckly
 foredefine
+featherworker
 felid
 friendlessness
 fancier
