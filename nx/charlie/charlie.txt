@@ -5259,6 +5259,7 @@ casimiroa
 curarine
 charet
 casings
+cisjurane
 casiri
 casita
 casket
@@ -14527,7 +14528,6 @@ cephaloplegic
 courante
 cising
 cisium
-cisjurane
 cisleithan
 cislunar
 cismontanism
