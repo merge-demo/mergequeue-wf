@@ -16618,7 +16618,6 @@ clonisms
 chaudron
 conjurer
 clerodendron
-centroidal
 choleuria
 cyclothurus
 coadmire
@@ -27309,6 +27308,7 @@ cleric
 couplings
 chelifer
 cremates
+centroidal
 cattiness
 coupon
 cornbrash
