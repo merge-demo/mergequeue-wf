@@ -637,7 +637,6 @@ bacterioscopy
 bacteriosolvent
 basat
 breakshugh
-begalls
 bacteriotherapeutic
 bechances
 bonks
@@ -799,6 +798,7 @@ blubberhead
 bunkery
 bowdlerising
 balefulness
+begalls
 bodieron
 beduke
 baffleplate
