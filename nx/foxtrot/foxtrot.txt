@@ -1990,7 +1990,6 @@ fogging
 fedora
 fide
 feere
-fraternality
 flipper
 fautor
 fours
@@ -9577,6 +9576,7 @@ forche
 foliated
 fyrd
 felicitate
+fraternality
 fotched
 fursemide
 floreated
