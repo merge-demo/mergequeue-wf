@@ -40,7 +40,6 @@ flintless
 furies
 farmscape
 flick
-fervently
 finically
 fabricators
 fabricature
@@ -11538,6 +11537,7 @@ flory
 famulary
 flattener
 folio
+fervently
 fretfully
 ferociousness
 footlessly
