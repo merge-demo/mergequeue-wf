@@ -9782,7 +9782,6 @@ eachwhere
 ejectamenta
 extenuator
 envermeil
-emplanement
 extracellular
 essoinment
 essorant
@@ -12906,6 +12905,7 @@ erythropenia
 engr
 eosaurus
 enticingly
+emplanement
 expeditiousness
 epithymetic
 evangeliary
