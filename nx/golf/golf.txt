@@ -2040,6 +2040,7 @@ gantry
 gazzetta
 gutterize
 gavels
+guyandot
 gloriana
 gavia
 geminiform
@@ -5752,7 +5753,6 @@ gade
 graphites
 glycogenolysis
 guzzler
-guyandot
 goldbird
 goosecap
 groovers
