@@ -3945,7 +3945,6 @@ escadrille
 existentialism
 explicitly
 emmy
-epilabrum
 emodins
 efflorescent
 emollience
@@ -9581,6 +9580,7 @@ entomologised
 ecotypes
 edestan
 expressing
+epilabrum
 emigrated
 emptory
 expediente
