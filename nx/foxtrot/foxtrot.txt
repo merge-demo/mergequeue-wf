@@ -2467,7 +2467,6 @@ fibrinoid
 fry
 fernyear
 furison
-funs
 fernshaw
 fordo
 forehatch
@@ -9932,6 +9931,7 @@ fenestrone
 formalizes
 foretells
 fistfuls
+funs
 falconry
 filoplumaceous
 forkbeard
