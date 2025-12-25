@@ -6210,6 +6210,7 @@ disbenchment
 dactylopodite
 dermanaplasty
 dermapterous
+dentiphone
 dermas
 dirgler
 dasypodoid
@@ -11500,7 +11501,6 @@ dullhead
 dwarfy
 discomedusae
 demonstrativeness
-dentiphone
 dynasties
 discomfiter
 deputation
