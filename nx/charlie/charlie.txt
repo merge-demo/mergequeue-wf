@@ -2603,6 +2603,7 @@ chlorotrifluoromethane
 catalan
 ceraunograph
 carbona
+cordelled
 canduc
 crepier
 camphires
@@ -16454,7 +16455,6 @@ castellanus
 circulable
 ceriferous
 cloacinal
-cordelled
 cloacitis
 crispature
 chervil
