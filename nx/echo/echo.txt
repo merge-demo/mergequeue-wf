@@ -5845,6 +5845,7 @@ effluvia
 environing
 environmentalist
 elephant
+epicrasis
 electroencephalograms
 egyptologer
 embraces
@@ -7675,7 +7676,6 @@ emplead
 enterostasis
 earworms
 eton
-epicrasis
 equinal
 eumenid
 enemylike
