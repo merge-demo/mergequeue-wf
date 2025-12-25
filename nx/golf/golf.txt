@@ -2232,6 +2232,7 @@ glottology
 gefulltefish
 galax
 gonidiogenous
+greggriffin
 gehlenite
 goblet
 grunted
@@ -7431,7 +7432,6 @@ germens
 glycines
 grasshopperdom
 gorgelet
-greggriffin
 gamotropic
 grewt
 goujat
