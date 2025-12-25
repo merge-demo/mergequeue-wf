@@ -3110,7 +3110,6 @@ filoplume
 fibroelastic
 fountaineer
 finnick
-fractionalized
 fibroenchondroma
 faring
 fulminancy
@@ -7037,6 +7036,7 @@ fons
 fauxbourdon
 folkloristic
 ferrum
+fractionalized
 forgiveness
 flaxlike
 fontal
