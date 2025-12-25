@@ -844,6 +844,7 @@ ectocondylar
 endophytic
 efficient
 electrolyser
+epicarp
 enchair
 exocarps
 elong
@@ -5208,7 +5209,6 @@ endoenzyme
 epitrochoid
 entresol
 elytrorrhaphy
-epicarp
 encyclic
 erava
 essonite
