@@ -357,7 +357,6 @@ defames
 daylights
 deutomalar
 desalters
-dayman
 dibase
 dorylinae
 droughtiness
@@ -15234,6 +15233,7 @@ doliidae
 dolioform
 dabblings
 dioritic
+dayman
 depreciated
 downing
 defamers
