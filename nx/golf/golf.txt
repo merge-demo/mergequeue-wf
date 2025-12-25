@@ -4831,7 +4831,6 @@ guideway
 gypaetus
 griffinism
 gynecidal
-gluttingly
 gravecloth
 gabbroic
 gippy
@@ -6251,6 +6250,7 @@ gynandrarchic
 galoch
 gospelly
 gainable
+gluttingly
 gobble
 gowpen
 gobbled
