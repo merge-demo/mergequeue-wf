@@ -1133,7 +1133,6 @@ gander
 gravamens
 guava
 gantelope
-genitors
 glycogenous
 gantlet
 grocer
@@ -6800,6 +6799,7 @@ glutimate
 gonococci
 glossopharyngeus
 gratuitous
+genitors
 gonococcocci
 gonopore
 gonocoele
