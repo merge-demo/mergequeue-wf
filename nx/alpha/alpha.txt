@@ -8659,7 +8659,6 @@ aller
 allergenic
 abouchement
 allergenicity
-atheology
 alang
 ankylotome
 actinopod
@@ -15200,6 +15199,7 @@ autolaryngoscopy
 ankyroid
 affiancer
 androtauric
+atheology
 antifibrinolysin
 antifibrinolysis
 apostolically
