@@ -21117,7 +21117,6 @@ ascophore
 alfas
 aerobiont
 aclydes
-arkoses
 ascothoracica
 acritude
 aerographer
@@ -22945,6 +22944,7 @@ anodally
 atrenne
 adless
 acroparesthesia
+arkoses
 anteriorly
 azobenzoic
 appositional
