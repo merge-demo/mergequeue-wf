@@ -8101,7 +8101,6 @@ forestral
 forestries
 firebrats
 furnitures
-forenames
 fanums
 fondness
 fumigating
@@ -9494,6 +9493,7 @@ fantasm
 featish
 farming
 fortuitousness
+forenames
 femininism
 frameable
 frequenting
