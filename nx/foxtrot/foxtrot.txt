@@ -11078,7 +11078,6 @@ footrace
 flew
 falconet
 flangeless
-fracturs
 forbidder
 foreknowableness
 functionation
@@ -11151,6 +11150,7 @@ footnoted
 ferulae
 featurally
 flowerbed
+fracturs
 flintwork
 forefather
 funereally
