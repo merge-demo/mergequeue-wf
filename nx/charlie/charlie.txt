@@ -12506,7 +12506,6 @@ chromogene
 catachrestic
 chromogenesis
 cingulate
-chamaecrista
 cranemanship
 chromoisomer
 cenotaphies
@@ -25284,6 +25283,7 @@ corkwing
 cormac
 cormel
 concetto
+chamaecrista
 coardent
 cormidium
 concolour
