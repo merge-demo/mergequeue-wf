@@ -3109,6 +3109,7 @@ enseraph
 ellfish
 exor
 endarterium
+estriate
 entellus
 escar
 et
@@ -9321,7 +9322,6 @@ eumorphous
 ekistic
 enkennel
 erthly
-estriate
 ericaceous
 excels
 enticeful
