@@ -6073,7 +6073,6 @@ alois
 aglypha
 analogal
 articular
-asymtotically
 aglyphodont
 algodonite
 awaken
@@ -18913,6 +18912,7 @@ archimedes
 archimycetes
 abrogation
 almacigo
+asymtotically
 angiocardiographic
 archimime
 allopathetically
