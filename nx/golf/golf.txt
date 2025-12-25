@@ -1097,7 +1097,6 @@ graphiola
 grammatication
 gearshifts
 gravitate
-gallants
 guillotining
 gwyniad
 grivet
@@ -4526,6 +4525,7 @@ graminiform
 gerbille
 gigantomachia
 gawp
+gallants
 grogger
 gmelinite
 ghostwriter
