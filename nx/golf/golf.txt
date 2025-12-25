@@ -3242,6 +3242,7 @@ gametophytic
 goodhearted
 grainedness
 genuses
+graphophone
 goldminer
 graywacke
 gruellers
@@ -8285,7 +8286,6 @@ galenite
 glissaded
 groundless
 gladii
-graphophone
 grossulariaceae
 gasteria
 graphoscope
