@@ -1841,6 +1841,7 @@ foreign
 fingerprinting
 febricant
 frilly
+flashlight
 febricitant
 frictions
 fore
@@ -5137,7 +5138,6 @@ farmhousey
 fraile
 flashings
 fulgently
-flashlight
 frizzly
 foreadvise
 fellas
