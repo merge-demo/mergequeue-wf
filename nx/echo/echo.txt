@@ -958,7 +958,6 @@ endocardium
 epoxied
 entada
 ethnarch
-exceptions
 ecttypal
 equates
 emanatory
@@ -12840,6 +12839,7 @@ enumerations
 evangelistship
 efecks
 exoticist
+exceptions
 eudipleural
 encircled
 exoterically
