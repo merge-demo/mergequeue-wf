@@ -1732,7 +1732,6 @@ belorussian
 baronial
 baloskion
 bulbels
-belittled
 baladine
 balsamation
 balsamine
@@ -8310,6 +8309,7 @@ beekmantown
 boers
 bourtrees
 bureaucratically
+belittled
 bigeminum
 biconditional
 billie
