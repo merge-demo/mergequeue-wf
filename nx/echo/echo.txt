@@ -12372,7 +12372,6 @@ exhaust
 erythrulose
 exhausted
 essenize
-energiatye
 emendates
 etholide
 embace
@@ -12622,6 +12621,7 @@ exoculation
 exteriorness
 exoderm
 elohistic
+energiatye
 elate
 electrophore
 eranthemum
