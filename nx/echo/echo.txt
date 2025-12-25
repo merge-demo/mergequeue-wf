@@ -9796,7 +9796,6 @@ euphrates
 expenthesis
 electroplate
 estable
-enchalice
 erodability
 ervils
 establishable
@@ -10853,6 +10852,7 @@ eisteddfodau
 euphotic
 entailable
 equitability
+enchalice
 eructation
 ereption
 euphemian
