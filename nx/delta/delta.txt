@@ -7326,7 +7326,6 @@ diameters
 determinism
 dunnest
 deterministic
-dollbeer
 dreariment
 dermatoplasty
 daysman
@@ -11433,6 +11432,7 @@ dispauper
 designlessness
 dollar
 deoccidentalize
+dollbeer
 discoactine
 documentation
 diallages
