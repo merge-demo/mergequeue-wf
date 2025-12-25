@@ -3588,6 +3588,7 @@ gambolled
 goniaster
 gnomelike
 gnosis
+glyphs
 gregarinaria
 gavial
 glutinose
@@ -10562,7 +10563,6 @@ grandmaster
 goustie
 gemmiest
 gatepost
-glyphs
 guanays
 gunmaking
 gaun
