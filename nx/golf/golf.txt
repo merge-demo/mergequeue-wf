@@ -401,7 +401,6 @@ gispin
 galaxias
 gynecol
 gastroenteralgia
-gelder
 gneu
 gymmal
 gabion
@@ -2366,6 +2365,7 @@ galloots
 ghiordes
 gadwall
 greenboard
+gelder
 ganisters
 gedds
 grampa
