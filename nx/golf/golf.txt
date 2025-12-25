@@ -2711,6 +2711,7 @@ gravitons
 gusle
 grith
 genit
+geminal
 golgothas
 gnatho
 groundmass
@@ -9716,7 +9717,6 @@ gruffier
 greased
 gyarung
 gallinuline
-geminal
 grugous
 gasoliery
 gruyere
