@@ -21366,6 +21366,7 @@ coplots
 conchuela
 concierge
 concierges
+calendars
 concile
 cotbetty
 conciliable
@@ -25275,7 +25276,6 @@ conicein
 corklike
 chiromant
 cassegrain
-calendars
 corkscrew
 cosmologists
 cyanotrichite
