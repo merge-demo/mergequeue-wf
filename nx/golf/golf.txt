@@ -792,7 +792,6 @@ gravata
 garrotting
 gambang
 gastrular
-grazer
 gonia
 goldbeater
 gambe
@@ -5336,6 +5335,7 @@ generalisation
 gyrencephalate
 goiters
 glees
+grazer
 galvanised
 gormands
 ganoses
