@@ -6883,7 +6883,6 @@ enameloma
 extractive
 eleusinion
 entomologies
-entomologised
 emblemized
 eelskin
 ealdorman
@@ -9578,6 +9577,7 @@ esocataphoria
 estivation
 endocrinology
 euglenineae
+entomologised
 ecotypes
 edestan
 expressing
