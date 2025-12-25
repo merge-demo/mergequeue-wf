@@ -1182,7 +1182,6 @@ gynandrism
 gappier
 gladiatorial
 genesiacal
-griot
 gradations
 globular
 guestive
@@ -6417,6 +6416,7 @@ girnie
 goburra
 glucidic
 graduates
+griot
 gregorian
 gazes
 grandeeship
