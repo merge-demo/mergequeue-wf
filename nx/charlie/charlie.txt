@@ -3390,7 +3390,6 @@ chronographically
 celsius
 carrots
 capote
-cyclohexene
 capouches
 cappadocian
 crypted
@@ -14114,6 +14113,7 @@ circensian
 circinate
 coxcombs
 chirinola
+cyclohexene
 circination
 circiter
 counterapproach
