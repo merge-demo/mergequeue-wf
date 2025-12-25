@@ -3722,7 +3722,6 @@ depot
 domitic
 delegated
 disprove
-dehkan
 durmasts
 decimate
 dehonestation
@@ -7612,6 +7611,7 @@ disassembling
 develing
 differentiations
 develop
+dehkan
 dehydroffroze
 disembellish
 dissimule
