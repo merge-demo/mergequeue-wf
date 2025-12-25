@@ -2463,7 +2463,6 @@ foliously
 flabile
 filarious
 foamlike
-fris
 fibrinoid
 fry
 fernyear
@@ -3380,6 +3379,7 @@ feignedly
 filtre
 faculative
 finmarks
+fris
 filename
 flighting
 foxish
