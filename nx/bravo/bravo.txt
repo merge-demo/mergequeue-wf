@@ -8785,7 +8785,6 @@ bekissing
 basoche
 bual
 brewer
-buoying
 bindweed
 benefactors
 bacillophobia
@@ -10440,6 +10439,7 @@ bugseed
 bullyism
 boyards
 barytostrontianite
+buoying
 blaoner
 burinist
 belibeled
