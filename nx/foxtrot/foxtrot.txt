@@ -4723,7 +4723,6 @@ fictation
 flex
 fruitfuller
 frumentarious
-flabbergast
 forkfuls
 fougue
 feathermonger
@@ -10957,6 +10956,7 @@ fedayee
 fructifying
 frey
 furls
+flabbergast
 finally
 fumarases
 franklinism

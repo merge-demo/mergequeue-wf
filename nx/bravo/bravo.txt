@@ -1860,6 +1860,7 @@ burdon
 brownism
 brython
 birken
+bloopers
 bandhook
 balladromic
 bandicoy
@@ -11212,7 +11213,6 @@ brooching
 burgraviate
 boththridia
 bereavers
-bloopers
 bloops
 begumming
 blooth
