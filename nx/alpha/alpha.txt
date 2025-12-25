@@ -6501,7 +6501,6 @@ ariste
 ayapana
 auxetically
 aias
-achomawi
 aldebaranium
 ayatollah
 aiblins
@@ -8134,6 +8133,7 @@ applicant
 anastasis
 adelphoi
 algophagous
+achomawi
 algophilia
 algophilist
 albuminolysis
