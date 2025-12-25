@@ -6759,7 +6759,6 @@ feering
 foresworn
 furthering
 felonweed
-foiter
 felloe
 frayed
 fried
@@ -8034,6 +8033,7 @@ fumeless
 feloniousness
 forespeaking
 flavorer
+foiter
 farfugium
 fletton
 furcula
