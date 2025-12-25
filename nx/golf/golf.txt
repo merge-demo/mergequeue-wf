@@ -2236,7 +2236,6 @@ gehlenite
 goblet
 grunted
 geoplanidae
-glucokinase
 gonimic
 gey
 greeney
@@ -5989,6 +5988,7 @@ grassiness
 graspless
 gnarls
 gaidropsaridae
+glucokinase
 gnetaceae
 germal
 gravelweed
