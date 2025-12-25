@@ -11820,6 +11820,7 @@ contemnibly
 chondroitic
 chondroitin
 cucurbitaceae
+confirmedness
 chondromatous
 chondromyces
 cissoids
@@ -22021,7 +22022,6 @@ confirmatory
 craniosacral
 colicin
 confirmed
-confirmedness
 corticostriate
 confirmer
 cibarious

@@ -684,7 +684,6 @@ baddest
 bombardo
 breathable
 balteus
-banjo
 baddie
 betimber
 bathtubs
@@ -13005,6 +13004,7 @@ bedquilts
 barmaid
 boppist
 brideless
+banjo
 bloomers
 bombazine
 balanid
