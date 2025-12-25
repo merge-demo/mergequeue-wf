@@ -1540,7 +1540,6 @@ feedbox
 flippant
 foodless
 female
-fanfaron
 foulish
 foreshift
 foetuses
@@ -8872,6 +8871,7 @@ fluidities
 flickers
 figgery
 fatty
+fanfaron
 ferrotypes
 forebye
 forte
