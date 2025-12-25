@@ -599,7 +599,6 @@ epigeal
 enhydros
 energism
 echometer
-etherish
 echopractic
 examinate
 elitisms
@@ -7809,6 +7808,7 @@ electromagnetize
 extrudable
 envisage
 ethnobotany
+etherish
 endearedly
 epigyne
 endotoxic
