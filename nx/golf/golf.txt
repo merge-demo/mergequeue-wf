@@ -375,6 +375,7 @@ glumpily
 goatskins
 grandmamma
 guisian
+gallnuts
 gps
 galant
 galanthus
@@ -10165,7 +10166,6 @@ grabby
 grown
 grandstands
 gabs
-gallnuts
 guide
 gigglement
 guidebooky
