@@ -9846,7 +9846,6 @@ cunit
 chemehuevi
 consence
 chemiatric
-chemical
 chapeless
 chalybean
 corrugates
@@ -15818,6 +15817,7 @@ cleansers
 codescendant
 cleanses
 cynosura
+chemical
 cleanskin
 cleanskins
 cleanup
