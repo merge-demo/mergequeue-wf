@@ -6557,6 +6557,7 @@ birdshot
 besprizorni
 brustled
 becolor
+begulfed
 berated
 bushful
 berates
@@ -9613,7 +9614,6 @@ biset
 belshazzaresque
 bisetose
 blubber
-begulfed
 bisetous
 bracketing
 boomslang
