@@ -6975,7 +6975,6 @@ besides
 beckett
 barrico
 besiegers
-bedeman
 bromism
 beslap
 bushbashing
@@ -7413,6 +7412,7 @@ betis
 betises
 byproduct
 botrycymose
+bedeman
 birdbath
 burleys
 braker
