@@ -4625,6 +4625,7 @@ bedtick
 bedchair
 butterine
 bedchairs
+boxthorns
 buffers
 bellowing
 buntal
@@ -15441,7 +15442,6 @@ benetted
 bludgeoner
 bota
 bifurcations
-boxthorns
 battledoring
 brilliancies
 bagged
