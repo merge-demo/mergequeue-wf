@@ -2000,7 +2000,6 @@ euthamia
 earthen
 etherialize
 eulogia
-exteriorate
 elastics
 exothermal
 eagle
@@ -2477,6 +2476,7 @@ encipher
 epoist
 enslavements
 eponymic
+exteriorate
 exquisiteness
 exterminist
 electroextraction
