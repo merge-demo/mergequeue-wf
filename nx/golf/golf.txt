@@ -7780,7 +7780,6 @@ gnomish
 gralline
 gadman
 gray
-geomaly
 getaway
 greasily
 goosishly
@@ -9080,6 +9079,7 @@ grimalkin
 genitive
 gentianwort
 ghast
+geomaly
 grimme
 gipsyhood
 grillroom
