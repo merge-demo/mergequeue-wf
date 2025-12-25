@@ -9921,6 +9921,7 @@ felid
 friendlessness
 fancier
 fornices
+froideur
 frogskins
 fouling
 fortilage
@@ -10266,7 +10267,6 @@ foundationed
 ferronickel
 forebow
 flavedos
-froideur
 frokin
 filum
 frolic
