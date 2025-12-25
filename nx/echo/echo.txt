@@ -5893,6 +5893,7 @@ endless
 esox
 engrandize
 ebrillade
+equidistance
 ectogeneous
 ecesis
 engrandizement
@@ -14194,7 +14195,6 @@ esthetics
 elimination
 epulation
 endlong
-equidistance
 exurge
 exuscitate
 enlists
