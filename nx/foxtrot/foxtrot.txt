@@ -9455,6 +9455,7 @@ frolicly
 frescoer
 fulsomeness
 fenman
+functionalities
 fausant
 filmslide
 fireboats
@@ -9779,7 +9780,6 @@ ferijee
 frequentest
 foraminifer
 feldspar
-functionalities
 frapp
 fallacies
 falchion
