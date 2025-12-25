@@ -10502,7 +10502,6 @@ emmetropic
 etwee
 electricans
 extirpations
-effigy
 exemplifications
 electrometry
 effusing
@@ -11509,6 +11508,7 @@ exoergic
 echinopanax
 exhibited
 expended
+effigy
 electromyogram
 emendate
 engouled
