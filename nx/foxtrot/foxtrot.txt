@@ -144,6 +144,7 @@ feedhead
 fibre
 fossiled
 facsimiled
+fremd
 fracturable
 frigidaria
 flayers
@@ -9731,7 +9732,6 @@ furiously
 frenchify
 fido
 freakful
-fremd
 frenchly
 fafaronade
 fissionability
