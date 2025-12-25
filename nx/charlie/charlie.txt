@@ -19700,7 +19700,6 @@ comandanti
 cutis
 catocala
 cinematics
-chaptering
 comandra
 capetown
 cheir
@@ -24264,6 +24263,7 @@ carolyn
 convulsibility
 convulsing
 contritely
+chaptering
 choirmaster
 constantinople
 cucumis
