@@ -6107,7 +6107,6 @@ dropout
 dimission
 durgen
 deckedout
-derated
 diphtheroid
 derater
 dijudicant
@@ -14757,6 +14756,7 @@ downcasts
 decrepitating
 deceptional
 delimitative
+derated
 diazide
 deadnesses
 dasycladaceous
