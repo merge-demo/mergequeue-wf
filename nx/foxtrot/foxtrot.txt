@@ -1061,7 +1061,6 @@ fogas
 fastigiately
 faro
 fluoridization
-floriken
 floter
 foredestining
 furriery
@@ -3021,6 +3020,7 @@ firemanship
 feoffers
 footwears
 frostflower
+floriken
 frenchen
 fissioned
 forensical
