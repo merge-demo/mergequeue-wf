@@ -6037,6 +6037,7 @@ grane
 gnathopodite
 gemelled
 gneissic
+gluon
 gasifying
 gruffiness
 gemuetlich
@@ -7343,7 +7344,6 @@ geologist
 geldable
 gymnospermic
 gaggler
-gluon
 gymnolaema
 gougingly
 goldlike

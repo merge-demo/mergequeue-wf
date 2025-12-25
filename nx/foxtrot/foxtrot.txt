@@ -2865,7 +2865,6 @@ formicarium
 frabjously
 formats
 forgettable
-frouncing
 foaled
 flukeworm
 flowstone
@@ -3505,6 +3504,7 @@ faultfinding
 feelingless
 foreact
 fasciculi
+frouncing
 fraticelli
 foresting
 forestine
