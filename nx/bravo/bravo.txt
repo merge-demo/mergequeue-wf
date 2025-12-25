@@ -3719,7 +3719,6 @@ bedesmen
 beltis
 batterie
 breck
-batterman
 bullockman
 bindlet
 bepinch
@@ -15413,6 +15412,7 @@ brunizem
 boloing
 brussels
 bechauffeur
+batterman
 bichir
 bimonthly
 babajaga
