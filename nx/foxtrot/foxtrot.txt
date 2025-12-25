@@ -6046,6 +6046,7 @@ fermorite
 flightiness
 finger
 fontange
+folding
 fraud
 forgab
 frontooccipital
@@ -9085,7 +9086,6 @@ feathertop
 fribbleism
 fractionation
 forenent
-folding
 friesish
 funnellike
 forbruise
