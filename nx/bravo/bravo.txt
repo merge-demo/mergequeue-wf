@@ -5619,7 +5619,6 @@ blisters
 brough
 bulletheaded
 battlement
-bewigs
 barbitone
 businessmen
 bardes
@@ -14731,6 +14730,7 @@ bowpots
 bowlings
 brattled
 bronzer
+bewigs
 bratwurst
 bibliopolic
 brauna
