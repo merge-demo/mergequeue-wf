@@ -6859,7 +6859,6 @@ dryobalanops
 dragnet
 deadflat
 deltic
-domesticative
 derivative
 desmopathology
 desmopexia
@@ -11363,6 +11362,7 @@ dissociably
 discoherent
 decays
 dittany
+domesticative
 disciform
 diplopods
 discigerous
