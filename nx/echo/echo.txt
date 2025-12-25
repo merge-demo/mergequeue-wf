@@ -3017,6 +3017,7 @@ etiologies
 embind
 explait
 emony
+esoanhydride
 equiprobabilism
 eliminated
 ectopia
@@ -10502,7 +10503,6 @@ exemplifying
 emmetropic
 etwee
 electricans
-esoanhydride
 extirpations
 effigy
 exemplifications
