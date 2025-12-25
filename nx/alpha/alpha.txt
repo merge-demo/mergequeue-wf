@@ -3699,7 +3699,6 @@ adeste
 afterpressure
 antesternum
 affectionate
-aesthiology
 adevism
 adfected
 archmilitarist
@@ -18755,6 +18754,7 @@ alkine
 amylocoagulase
 aguilarite
 ascocarpous
+aesthiology
 arsenophenol
 aristocratical
 acetract
