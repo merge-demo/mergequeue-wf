@@ -10956,7 +10956,6 @@ blocky
 brassage
 blintzes
 blacksmiths
-bafta
 bambos
 billowy
 blips
@@ -11002,6 +11001,7 @@ bawbee
 belikely
 baalitical
 blackface
+bafta
 bident
 buggymen
 babysit
