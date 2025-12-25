@@ -4418,6 +4418,7 @@ cyclase
 confidentiality
 cobwebbed
 carillonneur
+cloakage
 cityish
 carillonning
 carillons
@@ -28410,7 +28411,6 @@ creaking
 creambush
 creameries
 coracoids
-cloakage
 coccidia
 creamerymen
 creamy
