@@ -1035,6 +1035,7 @@ gayness
 groan
 glassfuls
 gabardine
+glub
 gnarl
 geriatrics
 gossamer
@@ -7445,7 +7446,6 @@ germen
 ghbor
 groundswells
 gonococcal
-glub
 goldfish
 gourded
 gospelist
