@@ -9484,6 +9484,7 @@ apholates
 ablution
 ajutment
 asterikos
+alignment
 aspidate
 anargyroi
 ambassiate
@@ -12208,7 +12209,6 @@ arraignable
 archinfamy
 arbalests
 acetoveratrone
-alignment
 anchorman
 auriculae
 appositive
