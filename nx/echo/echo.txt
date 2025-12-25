@@ -3824,7 +3824,6 @@ emendandum
 endodontically
 ensindon
 exclam
-encephalospinal
 electrized
 ekerite
 enterprisingly
@@ -5141,6 +5140,7 @@ experted
 extraditions
 eclogites
 eardrums
+encephalospinal
 exited
 endoclinal
 eternals
