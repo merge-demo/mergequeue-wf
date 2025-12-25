@@ -1823,7 +1823,6 @@ glos
 gentile
 groupage
 garlands
-glutenous
 goundou
 geopolitically
 generalcies
@@ -5160,6 +5159,7 @@ grandioseness
 gaussbergite
 gleamy
 gorer
+glutenous
 gangliglions
 gumboots
 gonystylaceous
