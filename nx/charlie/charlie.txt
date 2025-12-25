@@ -7228,6 +7228,7 @@ centred
 centref
 centreless
 centrepiece
+cryptosplenetic
 centrer
 closely
 chol
@@ -29379,7 +29380,6 @@ consolidationist
 cryptos
 cryptoscope
 cryptoscopy
-cryptosplenetic
 cryptostome
 cryptous
 cryptovalence
