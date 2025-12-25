@@ -13942,7 +13942,6 @@ audings
 abrupter
 aptyalism
 antaios
-antaiva
 antalgesic
 antalgics
 antalgol
@@ -25118,6 +25117,7 @@ anhistic
 areography
 axinite
 axiolite
+antaiva
 alimentiveness
 asterial
 antiascetic
