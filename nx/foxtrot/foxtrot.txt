@@ -926,7 +926,6 @@ fardo
 ferneries
 flyleaf
 foundry
-ft
 fasola
 fourchite
 fortunateness
@@ -7644,6 +7643,7 @@ felty
 ferroglass
 fastly
 fees
+ft
 funipendulous
 fescenninity
 ferganite
