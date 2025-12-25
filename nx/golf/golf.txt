@@ -1303,7 +1303,6 @@ goodie
 gamekeeping
 gangrenescent
 ginglymoid
-gateward
 gibbered
 groomers
 gas
@@ -6458,6 +6457,7 @@ goldy
 glimmerous
 grapenuts
 galahads
+gateward
 guileless
 grandisonianism
 glossopodium

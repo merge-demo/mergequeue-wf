@@ -16025,6 +16025,7 @@ bellbottle
 birdstone
 bronchotomy
 bersaglieri
+buyer
 braggardism
 bysacki
 bestrewing
@@ -17710,7 +17711,6 @@ braconid
 bankeress
 broach
 bicornes
-buyer
 burma
 begazed
 bestead
