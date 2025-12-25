@@ -6746,7 +6746,6 @@ grey
 grandmotherism
 ghostmonger
 gynander
-glycogens
 gaolers
 glaireous
 gobleted
@@ -7001,6 +7000,7 @@ goondie
 goons
 gamostely
 gavel
+glycogens
 gummer
 goofily
 goops
