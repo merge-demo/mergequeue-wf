@@ -9372,7 +9372,6 @@ flocci
 folcgemot
 flurriment
 flutebird
-florilegium
 frying
 formularisation
 fummle
@@ -9385,6 +9384,7 @@ forlore
 fascinates
 flocculant
 fleecier
+florilegium
 frankfurters
 fivers
 frayne
