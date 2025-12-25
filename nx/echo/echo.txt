@@ -656,6 +656,7 @@ establishmentism
 ebriety
 ennoble
 evilness
+enddamaged
 exprobration
 extimulate
 expulse
@@ -11643,7 +11644,6 @@ exacerbatingly
 etoiles
 expulses
 electrothermally
-enddamaged
 exactable
 exactas
 epitomizing
