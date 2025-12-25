@@ -5363,6 +5363,7 @@ barbola
 begnaw
 biharmonic
 borderlines
+butterscotch
 balmy
 ballroom
 begone
@@ -18344,7 +18345,6 @@ bibasic
 braw
 bisectionally
 buttwoman
-butterscotch
 buxaceous
 buxbaumiaceae
 bellyfulls
