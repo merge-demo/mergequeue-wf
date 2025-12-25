@@ -9728,6 +9728,7 @@ appanages
 amalfitan
 aviary
 amalgam
+acquereur
 ammochaetae
 apophonies
 amalgamate
@@ -19849,7 +19850,6 @@ agnomen
 allotropes
 acapsular
 adeptest
-acquereur
 armida
 armies
 abthainry
