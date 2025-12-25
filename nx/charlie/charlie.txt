@@ -9869,6 +9869,7 @@ carcinogenicity
 chemicophysical
 carbonized
 creneling
+cajoled
 crucifige
 ciliary
 curtaining
@@ -20068,7 +20069,6 @@ commensals
 chamosite
 commensurability
 commensurable
-cajoled
 commensurably
 commensurate
 commensurateness
