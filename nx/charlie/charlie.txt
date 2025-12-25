@@ -7275,7 +7275,6 @@ cappadine
 centriscus
 centrism
 clark
-cognosce
 cinemascope
 comite
 crispen
@@ -24693,6 +24692,7 @@ coauthered
 camacey
 cambrics
 corimelaena
+cognosce
 copperskin
 crowners
 ciderist
