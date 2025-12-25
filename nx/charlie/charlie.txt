@@ -3282,6 +3282,7 @@ capitations
 calcium
 cyclotomy
 cystenchyme
+cochliodus
 capite
 christianized
 capitellate
@@ -17711,7 +17712,6 @@ calque
 conservationist
 circumspectly
 cochliodontidae
-cochliodus
 cochlite
 cochlospermaceae
 coffeeleaf
