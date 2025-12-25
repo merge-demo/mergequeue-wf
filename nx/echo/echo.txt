@@ -1807,7 +1807,6 @@ entericoid
 epigraphical
 engravers
 embankments
-electrification
 encompasser
 enable
 estimates
@@ -11144,6 +11143,7 @@ evacuant
 eighteenmos
 episome
 executing
+electrification
 evacuants
 earthdrake
 exophagous
