@@ -7910,6 +7910,7 @@ forereading
 forereckon
 foredates
 flannelbush
+fretten
 forerun
 fname
 factiousness
@@ -9822,7 +9823,6 @@ feldspathic
 fodge
 fuds
 followup
-fretten
 firedamps
 fragmentary
 flowoff
