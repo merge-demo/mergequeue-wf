@@ -786,6 +786,7 @@ flunker
 fanfaronading
 folkloric
 fatality
+farinha
 froster
 forensicality
 flipe
@@ -2913,7 +2914,6 @@ fumier
 flagonless
 flyboy
 fingian
-farinha
 furazane
 frustums
 fencing
