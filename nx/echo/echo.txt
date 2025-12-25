@@ -3461,7 +3461,6 @@ enfiladed
 extradoses
 exteriors
 enteropneustan
-embed
 expenditures
 electrosynthetic
 equaled
@@ -7470,6 +7469,7 @@ ewe
 escobadura
 ephemeridae
 ephemeroptera
+embed
 ectype
 eigne
 extrafocal
