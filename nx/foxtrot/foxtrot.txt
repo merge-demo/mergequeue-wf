@@ -6138,6 +6138,7 @@ felsobanyite
 floccilation
 flounced
 flounder
+factorize
 frowardness
 faraway
 faciata
@@ -8973,7 +8974,6 @@ foldout
 flimsily
 fountainous
 formularism
-factorize
 foolfishes
 feringhee
 frenchy
