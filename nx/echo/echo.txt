@@ -4271,7 +4271,6 @@ eaux
 eumeristic
 expolish
 emcumbering
-ecosphere
 expendible
 expressways
 equidiagonal
@@ -10816,6 +10815,7 @@ euonymy
 exochorda
 exsibilate
 echinid
+ecosphere
 extrusive
 enthralling
 extracultural
