@@ -12779,7 +12779,6 @@ bioelectric
 bullneck
 bitstocks
 biparous
-boce
 bimbil
 bontequagga
 broods
@@ -14123,6 +14122,7 @@ biosystematics
 byzantinesque
 begob
 bacach
+boce
 beaujolais
 barquantine
 brachyrrhinia
