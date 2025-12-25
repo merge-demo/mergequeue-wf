@@ -6406,6 +6406,7 @@ benzophenothiazine
 benzophloroglucinol
 betting
 benedight
+bulrush
 bewake
 benzophthalazine
 breakup
@@ -17240,7 +17241,6 @@ bromindigo
 bullwhipping
 barrel
 bullwort
-bulrush
 boonies
 bolograph
 bumbailiffship
