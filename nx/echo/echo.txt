@@ -10960,6 +10960,7 @@ esopus
 envoy
 eggy
 eupotamic
+excepted
 encoignure
 esparcet
 equivocalness
@@ -13806,7 +13807,6 @@ elating
 extracarpal
 extratropical
 extendible
-excepted
 extracerebral
 embolo
 elucidative
