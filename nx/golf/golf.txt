@@ -1763,7 +1763,6 @@ goodless
 golliwogs
 gallic
 gonion
-grx
 grouchiest
 gastropulmonic
 granitic
@@ -6932,6 +6931,7 @@ guides
 geromorphism
 grayfly
 galatians
+grx
 geometrised
 grannam
 geostatics
