@@ -10927,7 +10927,6 @@ diallist
 deuterocone
 dispenses
 disforestation
-doublethinking
 dorsoradial
 digressions
 disadvance
@@ -17262,6 +17261,7 @@ dentiform
 duledge
 dilluer
 didactylous
+doublethinking
 druidology
 droller
 diademing
