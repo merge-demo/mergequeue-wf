@@ -6757,6 +6757,7 @@ ganocephala
 gonionia
 gnosticize
 genericness
+grapples
 gamelang
 ganam
 gamgee
@@ -8305,7 +8306,6 @@ grappa
 grandaunts
 gruff
 gentians
-grapples
 grappling
 gradus
 germanish
