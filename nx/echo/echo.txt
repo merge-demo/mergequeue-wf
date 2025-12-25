@@ -5293,7 +5293,6 @@ euphuizing
 epirot
 esphresis
 expenseless
-euphonium
 endopods
 epistolarily
 endoproctous
@@ -8934,6 +8933,7 @@ ergotizing
 erichthoid
 ewder
 ergotoxine
+euphonium
 ergots
 erses
 egestive
