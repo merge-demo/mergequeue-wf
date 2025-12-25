@@ -119,7 +119,6 @@ cabezone
 coreometer
 cabful
 canephorus
-cronish
 cabildo
 cabildos
 chutzpadik
@@ -13751,6 +13750,7 @@ cinchonization
 crunodal
 cinchonize
 cinchonized
+cronish
 communiqu
 cinchophen
 cinchotine
