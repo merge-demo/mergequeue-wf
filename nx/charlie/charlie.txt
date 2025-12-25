@@ -7119,7 +7119,6 @@ centerer
 centerfold
 compania
 coofs
-colonus
 centerfolds
 cretoria
 centering
@@ -11886,6 +11885,7 @@ chalcids
 contradictories
 catechisms
 chopdar
+colonus
 cyprinoidea
 connation
 clarina
