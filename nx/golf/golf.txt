@@ -2464,7 +2464,6 @@ gonopodial
 gemmology
 globality
 gnathidium
-girt
 gillflirt
 geoisotherm
 greekish
@@ -8945,6 +8944,7 @@ gentianin
 gynic
 gemmiform
 golfed
+girt
 gillying
 guinevere
 groroilite
