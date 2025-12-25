@@ -7931,7 +7931,6 @@ ecclesiography
 ensiferi
 entreater
 epizootiology
-epinikion
 epilogical
 entomophaga
 eurystomatous
@@ -11527,6 +11526,7 @@ erotylid
 exhaling
 eserin
 extractable
+epinikion
 elegantly
 evincing
 entoblast
