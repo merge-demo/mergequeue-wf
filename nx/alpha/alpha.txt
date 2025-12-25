@@ -4399,7 +4399,6 @@ awash
 angild
 adumbrative
 anybodies
-amyraldist
 anacard
 aerobus
 adure
@@ -17102,6 +17101,7 @@ atropa
 agoranome
 anticlea
 adenocarcinoma
+amyraldist
 acmes
 autostethoscope
 antibody
