@@ -843,7 +843,6 @@ absconce
 abscond
 absconded
 apperceptive
-absconder
 agonizes
 archegoniate
 agha
@@ -8995,6 +8994,7 @@ anurans
 allotted
 ague
 alpid
+absconder
 arrogantly
 allotter
 allottery
