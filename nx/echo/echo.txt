@@ -8070,7 +8070,6 @@ epigones
 ectodermal
 exteriorly
 ego
-ektodynamorphic
 endamebic
 earthworks
 epineural
@@ -9202,6 +9201,7 @@ enterprising
 engines
 enfork
 enchodus
+ektodynamorphic
 endosiphuncle
 elates
 embryophyte
