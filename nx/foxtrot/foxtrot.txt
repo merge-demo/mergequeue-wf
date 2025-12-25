@@ -5853,7 +5853,6 @@ fitz
 farine
 fertilisable
 fowling
-factorially
 floristic
 floatsmen
 fluff
@@ -7012,6 +7011,7 @@ frittered
 forestress
 frescoist
 fictionistic
+factorially
 fichtelite
 floriferousness
 fibromuscular
