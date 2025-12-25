@@ -9293,6 +9293,7 @@ colliers
 cenanthous
 conceptualists
 chatted
+contravalence
 cagelings
 cometarium
 chattelhood
@@ -23804,7 +23805,6 @@ cruiskeen
 client
 catface
 contratenor
-contravalence
 contravene
 contravener
 cardueline
