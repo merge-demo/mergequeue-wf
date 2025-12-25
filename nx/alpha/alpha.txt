@@ -2659,6 +2659,7 @@ abrasiometer
 africa
 anticyclonic
 anax
+attenuating
 apex
 airpark
 acridiidae
@@ -6433,7 +6434,6 @@ ahaunch
 ahead
 arthrodiran
 accidentally
-attenuating
 acquaintances
 anthoclinium
 aheight
