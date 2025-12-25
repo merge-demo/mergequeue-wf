@@ -7638,7 +7638,6 @@ equichangeable
 enviousness
 encephalous
 ensconce
-elixirs
 enhungered
 euphemious
 extrabold
@@ -8277,6 +8276,7 @@ eleostearate
 epistlers
 epistolarian
 escribe
+elixirs
 epopoeia
 epochal
 eyeglass
