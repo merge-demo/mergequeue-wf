@@ -11365,7 +11365,6 @@ chlorodizing
 cradlers
 chloroethene
 chlorofluorocarbon
-chlorofluoromethane
 ceylanite
 chloroformate
 churched
@@ -16188,6 +16187,7 @@ climant
 centiles
 celebesian
 climatal
+chlorofluoromethane
 corticate
 climatarchic
 climate
