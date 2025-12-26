@@ -8188,6 +8188,7 @@ cambion
 chaguar
 chahar
 chahars
+chemotaxonomy
 chai
 chay
 coordain
@@ -9966,7 +9967,6 @@ choochoo
 coenamors
 chemotaxy
 collocatory
-chemotaxonomy
 chemotaxonomic
 controls
 comma
