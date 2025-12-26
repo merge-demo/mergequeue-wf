@@ -637,7 +637,6 @@ etymonic
 ellipses
 earful
 empiricist
-embryogeny
 epizoite
 eluviating
 electioneering
@@ -2248,6 +2247,7 @@ eventuate
 engulfment
 eldrich
 enchased
+embryogeny
 eulogy
 exhumate
 endocytic
