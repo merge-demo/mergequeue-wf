@@ -10366,7 +10366,6 @@ gardenly
 gordiid
 grasshook
 grike
-gapingstock
 gullets
 generators
 giddied
@@ -10416,6 +10415,7 @@ genderless
 gnateater
 gillbird
 giller
+gapingstock
 geepound
 graphiology
 grandstand

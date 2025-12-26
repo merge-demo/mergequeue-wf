@@ -2415,7 +2415,6 @@ frizzle
 fingered
 frisco
 farandola
-foils
 flutterable
 fulgourous
 feasters
@@ -6550,6 +6549,7 @@ flagrate
 fluttering
 forswears
 feedboard
+foils
 flensing
 flutterment
 flimflammed
