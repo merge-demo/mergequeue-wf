@@ -2486,6 +2486,7 @@ engrails
 earthquaked
 exploding
 ejulation
+estus
 epidemiologies
 elutriate
 elean
@@ -4011,7 +4012,6 @@ empearl
 electroretinography
 exultancy
 esothyropexy
-estus
 effloresce
 epilamellar
 etymologise
