@@ -9159,7 +9159,6 @@ container
 charta
 curialities
 chartable
-charter
 charterers
 charterhouse
 chartering
@@ -30651,6 +30650,7 @@ cucurb
 crashworthy
 compole
 cucurbita
+charter
 cucurbitaceous
 cucurbite
 clinicist
