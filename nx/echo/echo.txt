@@ -3907,7 +3907,6 @@ executers
 endodontic
 emigration
 egressive
-equivote
 echeneis
 entomotomy
 electrotonus
@@ -6165,6 +6164,7 @@ epistasy
 endocarpic
 enmeshment
 enrols
+equivote
 enmity
 eparchean
 entracte
