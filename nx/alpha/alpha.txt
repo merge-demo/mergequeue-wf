@@ -8472,7 +8472,6 @@ agone
 alalia
 alkies
 assessable
-airplane
 accelerograph
 alkylarylsulfonate
 anallergic
@@ -17790,6 +17789,7 @@ appals
 antistatic
 afterhours
 appointer
+airplane
 agapornis
 adherently
 appointers
