@@ -4356,7 +4356,6 @@ forfeitable
 frate
 fibroplastic
 flyte
-figureheads
 flavo
 furied
 frogfishes
@@ -5570,6 +5569,7 @@ fader
 floweret
 flycatchers
 flicflac
+figureheads
 flintiness
 forgetfulness
 flicker
