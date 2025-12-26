@@ -522,7 +522,6 @@ ecesic
 ectropometer
 ecgonine
 evenhandedness
-echappe
 examinator
 emphyteusis
 echelle
@@ -4019,6 +4018,7 @@ estrapade
 enage
 extirpated
 epionychia
+echappe
 empexa
 emphasize
 emphasized
