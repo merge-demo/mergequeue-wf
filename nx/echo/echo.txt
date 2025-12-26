@@ -5219,7 +5219,6 @@ endogenae
 enshrine
 efference
 euchres
-expenditor
 echeloning
 enchanter
 expedition
@@ -14050,6 +14049,7 @@ eidolons
 excandescency
 embellishments
 extrathermodynamic
+expenditor
 equationism
 emes
 excitonic
