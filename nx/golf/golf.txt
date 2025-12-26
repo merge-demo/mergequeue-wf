@@ -1066,7 +1066,6 @@ gipsology
 gomphiasis
 gasserian
 glossic
-geomalic
 gist
 glor
 gonimous
@@ -1901,6 +1900,7 @@ gastrozooid
 glaikit
 globulet
 gunboat
+geomalic
 gaudless
 ganglia
 giraffes
