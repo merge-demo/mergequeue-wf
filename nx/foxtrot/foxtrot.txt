@@ -2871,6 +2871,7 @@ flog
 freighted
 fackins
 firefighters
+foremention
 fettucini
 fungiferous
 fistulate
@@ -3556,7 +3557,6 @@ frenchism
 fogie
 flamboyance
 fencelet
-foremention
 flymen
 flenches
 freedstool
