@@ -2370,6 +2370,7 @@ gabon
 guardants
 glump
 gerrhosaurid
+grignet
 gemaric
 gonopodpodia
 geb
@@ -10004,7 +10005,6 @@ graveness
 gargled
 gelatinify
 galago
-grignet
 gliomata
 gaslike
 gateau
