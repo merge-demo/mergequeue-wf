@@ -4948,6 +4948,7 @@ girondist
 groundwards
 glamors
 granddada
+guidances
 granita
 gainst
 growze
@@ -7555,7 +7556,6 @@ greywether
 gigglier
 gynecophoric
 geraniol
-guidances
 gymnospermae
 gemini
 genealogize
