@@ -4830,6 +4830,7 @@ fructiparous
 feasting
 furnishing
 fodder
+footmarks
 foliums
 froebelism
 footfall
@@ -11126,7 +11127,6 @@ flavorfulness
 feverbush
 fetometry
 fishtail
-footmarks
 furuncular
 flaggery
 formylated
