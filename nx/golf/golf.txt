@@ -962,7 +962,6 @@ ghostless
 graptolite
 gunshot
 glanis
-glist
 genomic
 gamostele
 glottogony
@@ -8770,6 +8769,7 @@ gudefather
 glaumrie
 gregarianism
 goo
+glist
 galyak
 guacharoes
 gorge
