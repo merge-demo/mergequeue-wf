@@ -6970,7 +6970,6 @@ atrioventricular
 arborist
 abaculus
 animal
-abiology
 apportionable
 anoure
 aniseeds
@@ -11233,6 +11232,7 @@ aforesaid
 antisocial
 alienating
 abfarads
+abiology
 avidious
 amphiprostylar
 ankushes
