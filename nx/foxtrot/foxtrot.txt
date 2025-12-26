@@ -11046,6 +11046,7 @@ fere
 fascias
 funambulator
 feels
+fuzzle
 faunological
 flinty
 fellatrices
@@ -11473,7 +11474,6 @@ feminacies
 fairleader
 froggery
 formular
-fuzzle
 fishified
 foothill
 ferrite
