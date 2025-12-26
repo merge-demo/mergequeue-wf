@@ -807,6 +807,7 @@ gyppo
 gletty
 galoots
 granose
+geognost
 ginney
 gnarring
 gramp
@@ -890,7 +891,6 @@ gooseflesh
 groszy
 gueparde
 glutathione
-geognost
 grassfire
 gleaminess
 glutethimide
