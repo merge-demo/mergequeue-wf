@@ -4874,7 +4874,6 @@ excellences
 electrometeor
 epigne
 ephydriad
-expertise
 emblematizing
 emotionize
 embusy
@@ -10767,6 +10766,7 @@ excursions
 exercitant
 extemporaneity
 elasticate
+expertise
 euchloric
 examiners
 enchodontoid
