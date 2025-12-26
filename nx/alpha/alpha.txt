@@ -11555,6 +11555,7 @@ abilities
 alps
 apodes
 andorra
+abelonian
 autosite
 acicularly
 algebras
@@ -20728,7 +20729,6 @@ agrosteral
 aeroscopy
 articulators
 adfiliate
-abelonian
 aces
 affrontingly
 avid
