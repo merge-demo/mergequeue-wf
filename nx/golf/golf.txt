@@ -6542,7 +6542,6 @@ glossoplegia
 granduncles
 gromwell
 gamelans
-gleeman
 gastrologists
 gomer
 gesten
@@ -9626,6 +9625,7 @@ grumium
 griming
 glaucodote
 geests
+gleeman
 goiter
 grizzlier
 geochemical
