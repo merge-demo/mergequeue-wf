@@ -4801,6 +4801,7 @@ fancifulness
 flinching
 floatiest
 fullwords
+formate
 faena
 fellowshipping
 falsen
@@ -9909,7 +9910,6 @@ folksey
 flitching
 fraghan
 frits
-formate
 flukewort
 friskier
 foliaceousness
