@@ -8729,7 +8729,6 @@ affluxion
 alliant
 allicampane
 antiketogen
-allicient
 anglist
 anticeremonially
 allied
@@ -16248,6 +16247,7 @@ autodyne
 autocorrelation
 ashlared
 amit
+allicient
 antitarnishing
 actuarian
 anaplasm
