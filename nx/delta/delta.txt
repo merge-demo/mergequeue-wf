@@ -13963,6 +13963,7 @@ daubreelite
 dichroism
 deys
 daubed
+dioptrics
 distomes
 distomidae
 dubby
@@ -18288,7 +18289,6 @@ dartboard
 demodulated
 dunnakin
 detrains
-dioptrics
 dialyzability
 demijohn
 demiourgoi

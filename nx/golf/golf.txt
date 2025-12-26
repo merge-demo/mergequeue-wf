@@ -7674,7 +7674,6 @@ globulariaceous
 greenlet
 gleary
 grader
-grouseward
 gorillian
 glovey
 gradient
@@ -9001,6 +9000,7 @@ getable
 gigant
 glenlike
 greenbelt
+grouseward
 guiltier
 glamorization
 glumaceae
