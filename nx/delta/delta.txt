@@ -9556,7 +9556,6 @@ dignitary
 dignitarian
 demophoon
 doubloons
-dignities
 drunks
 dignotion
 dependants
@@ -10332,6 +10331,7 @@ degeneracy
 dioramic
 diordinal
 duplet
+dignities
 disgregation
 dipotassic
 disassimilate
