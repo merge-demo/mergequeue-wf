@@ -12460,7 +12460,6 @@ chromatosis
 chromaturia
 calciphilic
 chromazurine
-chromdiagnosis
 complication
 clangorousness
 cystatrophy
@@ -21972,6 +21971,7 @@ confidence
 confidency
 cosmogenic
 confident
+chromdiagnosis
 confidente
 compressibilities
 crossosomataceae
