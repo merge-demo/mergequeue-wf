@@ -12992,6 +12992,7 @@ betonies
 booziness
 bookstore
 blockheadishness
+binit
 bopeep
 blueleg
 braciola
@@ -16989,7 +16990,6 @@ bul
 brittler
 brassworks
 babylonic
-binit
 bulb
 blankard
 blandishers
