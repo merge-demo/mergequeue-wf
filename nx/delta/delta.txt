@@ -9369,7 +9369,6 @@ diadumenus
 decrete
 durabilities
 discontentive
-dissoluble
 diffusate
 dipnoous
 djinni
@@ -11916,6 +11915,7 @@ defrosters
 dramm
 dhunchi
 decalescence
+dissoluble
 discuses
 disease
 dialysers
