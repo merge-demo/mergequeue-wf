@@ -2092,7 +2092,6 @@ bannerols
 bannisters
 birthmarks
 bioflavinoid
-bannock
 buyers
 bannocks
 boilinglike
@@ -10730,6 +10729,7 @@ broadish
 bowhead
 blenheim
 bibl
+bannock
 belap
 blenk
 baronetizing
