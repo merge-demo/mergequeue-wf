@@ -9357,6 +9357,7 @@ beggaries
 belgian
 bespeed
 bistros
+breweries
 brendice
 backsides
 besmother
@@ -16181,7 +16182,6 @@ brimstony
 bayonetted
 bred
 brazilians
-breweries
 bourgs
 bibliomanianism
 boeotic
