@@ -2587,6 +2587,7 @@ brio
 baryphonia
 bootie
 bronzesmith
+bastardizing
 banzai
 baris
 bodefulness
@@ -17835,7 +17836,6 @@ booksellers
 breezeful
 burster
 blutwurst
-bastardizing
 bitterhead
 barabara
 brouille
