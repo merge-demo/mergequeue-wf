@@ -2686,6 +2686,7 @@ fungused
 firebird
 feigher
 flaggella
+frost
 fouette
 fervor
 flamenco
@@ -7397,7 +7398,6 @@ forbiddingly
 fewnes
 flatworms
 floatplane
-frost
 fattened
 fierding
 finning
