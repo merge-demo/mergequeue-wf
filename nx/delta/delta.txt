@@ -1486,6 +1486,7 @@ discriminative
 diffusor
 dasypaedal
 dazzler
+decemfid
 disillusions
 dazzlers
 damnification
@@ -2968,7 +2969,6 @@ deductible
 deciduata
 delinquent
 describers
-decemfid
 deductio
 deductions
 dwarfism
