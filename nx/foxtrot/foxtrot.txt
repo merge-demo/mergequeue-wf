@@ -2916,6 +2916,7 @@ farfetch
 flyoff
 filialness
 flea
+fumarium
 facier
 fooleries
 fac
@@ -10149,7 +10150,6 @@ furnit
 frivolity
 freakier
 froughy
-fumarium
 frivolling
 fricandelle
 feasibility
