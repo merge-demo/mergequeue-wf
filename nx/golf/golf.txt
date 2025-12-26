@@ -611,6 +611,7 @@ gallisin
 gunslingers
 gillie
 glome
+goopy
 geophysicist
 glide
 gradatory
@@ -8672,7 +8673,6 @@ growthless
 gladys
 gerip
 grapy
-goopy
 geyser
 glossless
 gateado
