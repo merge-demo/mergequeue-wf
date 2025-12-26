@@ -4157,7 +4157,6 @@ glycoproteid
 gastroarthritis
 goodly
 guaranin
-gemmule
 gaslit
 gainful
 gyrocompass
@@ -10024,6 +10023,7 @@ gaffer
 glastonbury
 ghostlet
 grf
+gemmule
 gigantostracous
 gaonate
 grammatolator
