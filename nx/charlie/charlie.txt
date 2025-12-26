@@ -12774,6 +12774,7 @@ cataloguize
 cratch
 chuff
 chuffer
+crunched
 countercraft
 cauliflowers
 chugalug
@@ -30296,7 +30297,6 @@ confused
 cepolidae
 corixa
 codfishery
-crunched
 cruncher
 crunchers
 chooses

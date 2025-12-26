@@ -9047,7 +9047,6 @@ diction
 disparage
 defang
 diss
-dermatophobia
 dentello
 defigure
 dictionarian
@@ -14199,6 +14198,7 @@ deteriorism
 demobilizing
 deeds
 delegation
+dermatophobia
 disuniting
 dysuria
 dysurias
