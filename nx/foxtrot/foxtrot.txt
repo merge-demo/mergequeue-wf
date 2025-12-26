@@ -3637,7 +3637,6 @@ foregoneness
 fanes
 frayn
 fulfilment
-flagella
 foredate
 flawier
 forelooper
@@ -3973,6 +3972,7 @@ friarling
 february
 fairydom
 felicitation
+flagella
 frontlessness
 formability
 forechoose
