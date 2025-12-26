@@ -2035,7 +2035,6 @@ florins
 fogbows
 fascicule
 flaunting
-forfouchten
 feudally
 feisty
 fairyisms
@@ -6763,6 +6762,7 @@ fass
 founding
 fitcher
 fold
+forfouchten
 fantasy
 fleechment
 formalizations
