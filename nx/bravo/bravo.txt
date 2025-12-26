@@ -6579,6 +6579,7 @@ biohazard
 berberid
 baptanodon
 bricked
+bard
 bundoc
 bedevilled
 bahima
@@ -11862,7 +11863,6 @@ bodybending
 bodybuilder
 betrinket
 birthing
-bard
 briareus
 browbeater
 buller
