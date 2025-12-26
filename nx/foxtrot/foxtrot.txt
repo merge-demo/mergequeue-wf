@@ -2080,6 +2080,7 @@ filletlike
 fear
 firmers
 flavian
+frostings
 forerehearsed
 fell
 fissipalmate
@@ -10497,7 +10498,6 @@ flegm
 fluitant
 fatness
 frutescent
-frostings
 finises
 fervencies
 flaccidities
