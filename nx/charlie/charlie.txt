@@ -13454,7 +13454,6 @@ cicuta
 confessionalist
 classifications
 cicutoxin
-calyptrogen
 cidaris
 cheatrie
 carbolating
@@ -18239,6 +18238,7 @@ coessentially
 cervulus
 coetaneous
 coeternal
+calyptrogen
 coeternity
 caninity
 coeval
