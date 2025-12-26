@@ -2474,6 +2474,7 @@ destrudo
 decipium
 diphase
 diplodocus
+delusory
 dipyre
 decision
 defeatists
@@ -15304,7 +15305,6 @@ dorididae
 dryfarmer
 dumpty
 diabolical
-delusory
 dwamish
 dolores
 dermatophytic
