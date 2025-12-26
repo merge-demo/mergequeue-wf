@@ -3783,6 +3783,7 @@ gouvernantes
 giarra
 gherao
 giarre
+gorgio
 gastaldo
 governing
 geobios
@@ -4877,7 +4878,6 @@ gleam
 glozes
 gyrotheca
 gimme
-gorgio
 gladiola
 granatite
 goldurns
