@@ -3711,6 +3711,7 @@ carangids
 coenaesthesis
 cooking
 coleopterological
+celomata
 carangin
 chunderous
 chromicize
@@ -6925,7 +6926,6 @@ celom
 cytherean
 chilliness
 carretera
-celomata
 consultee
 celotomies
 clonks
