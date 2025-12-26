@@ -7107,7 +7107,6 @@ goosiest
 gasterotrichan
 granger
 gambrels
-gorman
 gopherberry
 guernsey
 gopherberries
@@ -9862,6 +9861,7 @@ groow
 galaxy
 girns
 guaneide
+gorman
 gharri
 guanethidine
 gallbush
