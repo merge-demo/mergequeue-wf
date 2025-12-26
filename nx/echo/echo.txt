@@ -6808,7 +6808,6 @@ entiris
 extinguishing
 exasperate
 evocations
-embryoniform
 entitatively
 entitle
 elixed
@@ -8488,6 +8487,7 @@ emda
 enregiment
 enhemospore
 electrophotometry
+embryoniform
 epileptoid
 ergatandrous
 exterminators
