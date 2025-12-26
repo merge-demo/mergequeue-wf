@@ -11355,7 +11355,6 @@ alupag
 autocephaly
 absorptance
 amplication
-amplicative
 aftercause
 amplificative
 avanguardisti
@@ -16814,6 +16813,7 @@ anlet
 auxiliary
 ambrosiac
 aphanites
+amplicative
 aphra
 aphrodesiac
 abastral
