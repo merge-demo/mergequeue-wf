@@ -2363,7 +2363,6 @@ geotectonic
 gravitates
 goggler
 ger
-guianese
 gabon
 guardants
 glump
@@ -6316,6 +6315,7 @@ gruneritization
 grubstaker
 goldenpert
 gallivanters
+guianese
 gebang
 gobo
 gaybine
