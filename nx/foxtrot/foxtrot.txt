@@ -79,7 +79,6 @@ fordeal
 fullfaces
 facundity
 facemark
-flunkeyhood
 flocklike
 forme
 filching
@@ -6878,6 +6877,7 @@ fibromyxosarcoma
 fidejussory
 footings
 fretways
+flunkeyhood
 finance
 failing
 frustratingly
