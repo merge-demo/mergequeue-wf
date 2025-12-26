@@ -3670,6 +3670,7 @@ degraded
 degradement
 disburses
 dozing
+deringer
 depsid
 disrupt
 decimalisation
@@ -14176,7 +14177,6 @@ dinky
 disencrease
 dammish
 daywork
-deringer
 dunair
 desiccator
 depressing
