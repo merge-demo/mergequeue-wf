@@ -6735,6 +6735,7 @@ expertising
 entosclerite
 eulogiser
 epaenetic
+endogenously
 ecrevisse
 epulis
 espundia
@@ -7443,7 +7444,6 @@ employes
 elenctic
 escapers
 entanglement
-endogenously
 extraperiodic
 extracurricular
 exercise
