@@ -3696,7 +3696,6 @@ cardsharper
 comicotragedy
 caramelisation
 coillen
-caramelise
 conveyorize
 caramelize
 caramelized
@@ -9756,6 +9755,7 @@ coenamoring
 collocate
 chego
 coruscated
+caramelise
 caretakes
 chegoes
 chilostome
