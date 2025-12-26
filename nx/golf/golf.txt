@@ -4158,7 +4158,6 @@ gemmule
 gaslit
 gainful
 gyrocompass
-geographical
 gaggles
 gundogs
 gur
@@ -7827,6 +7826,7 @@ gook
 glead
 grouchier
 gala
+geographical
 grallae
 gaj
 geophone
