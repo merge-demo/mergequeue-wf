@@ -2165,7 +2165,6 @@ fallibilism
 fogyisms
 formulae
 fadme
-foute
 flashet
 feltmaker
 fiducia
@@ -3628,6 +3627,7 @@ fibrillar
 freshed
 foretype
 filigrane
+foute
 furlana
 frangula
 franchisee
