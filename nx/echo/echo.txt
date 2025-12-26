@@ -3483,6 +3483,7 @@ epees
 enanthema
 elaeothesium
 enginemen
+evictee
 excusative
 epistemologist
 evinces
@@ -6657,7 +6658,6 @@ elephantlike
 enzymologies
 enterohydrocele
 embolomeri
-evictee
 emetocathartic
 elevation
 embryoctonic
