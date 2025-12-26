@@ -969,7 +969,6 @@ fictionization
 fardel
 flannelmouth
 foretypified
-foxhound
 fusion
 fardelet
 fasciculus
@@ -4465,6 +4464,7 @@ fazed
 fishponds
 fishtailed
 fibrilled
+foxhound
 fishpotter
 finicism
 furler
