@@ -2090,7 +2090,6 @@ facture
 finetop
 favorless
 frument
-fayence
 fermentate
 fluming
 falcate
@@ -5332,6 +5331,7 @@ fleabag
 faintheart
 furciform
 fleabags
+fayence
 federalization
 fireclay
 fluorites
