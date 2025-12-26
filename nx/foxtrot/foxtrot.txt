@@ -5087,7 +5087,6 @@ flanders
 felter
 forvay
 flarer
-funorin
 flashboard
 fiscalization
 fiendliest
@@ -6807,6 +6806,7 @@ fungin
 firerooms
 forewonted
 freelancer
+funorin
 folderols
 foveiform
 forepretended
