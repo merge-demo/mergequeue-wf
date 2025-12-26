@@ -4917,6 +4917,7 @@ bewpers
 beechen
 beechnut
 breakstone
+beglic
 bloomage
 backspeer
 bomarea
@@ -5039,7 +5040,6 @@ beblear
 banqueteer
 braunschweiger
 byliners
-beglic
 bloodletting
 branchiform
 breakwaters
