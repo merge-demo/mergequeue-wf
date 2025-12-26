@@ -3230,7 +3230,6 @@ giron
 girtonian
 gap
 glagol
-gilgul
 goldenwing
 galoot
 getatability
@@ -10531,6 +10530,7 @@ gibs
 gulix
 grallic
 galeorchis
+gilgul
 gilly
 gadsbodikins
 gonal
