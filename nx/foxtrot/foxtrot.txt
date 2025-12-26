@@ -6198,6 +6198,7 @@ firebreak
 funguslike
 falange
 fog
+fulcrumed
 flrie
 flatlander
 frothier
@@ -10826,7 +10827,6 @@ ferniest
 fulciment
 fs
 failures
-fulcrumed
 formicarioid
 fulcruming
 feeable
