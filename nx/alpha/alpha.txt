@@ -12503,7 +12503,6 @@ anemopathy
 astroscope
 antisudorific
 anemoscope
-albifying
 aurorian
 automorphism
 axolysis
@@ -22675,6 +22674,7 @@ arhythmic
 atheroscleroses
 archbuffoon
 ateuchi
+albifying
 atherosclerosis
 atherosclerotic
 acerbic
