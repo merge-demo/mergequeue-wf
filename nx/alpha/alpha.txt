@@ -12907,7 +12907,6 @@ armored
 arcidae
 angraecum
 angriness
-alcelaphine
 angstroms
 arrivers
 angsts
@@ -22959,6 +22958,7 @@ assonance
 alkylol
 atrichic
 achaemenian
+alcelaphine
 adulterating
 archpriesthood
 annary
