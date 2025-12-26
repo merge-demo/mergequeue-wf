@@ -2722,7 +2722,6 @@ biconjugate
 bourr
 beefiness
 britannian
-bestayed
 barnyard
 beastings
 beblood
@@ -5552,6 +5551,7 @@ brawly
 bilineated
 babist
 bebled
+bestayed
 breeziest
 blamer
 bilharzic
