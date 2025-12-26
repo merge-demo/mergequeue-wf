@@ -292,6 +292,7 @@ biolith
 booter
 bakeware
 benzacridine
+boundary
 backslided
 backberend
 backbite
@@ -7040,7 +7041,6 @@ brulzie
 bicephalic
 balsamous
 beryciform
-boundary
 boating
 bussings
 belletrist

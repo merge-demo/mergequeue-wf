@@ -9818,7 +9818,6 @@ chelator
 chelerythrine
 collisions
 conjunctiva
-chelicer
 cysts
 chelide
 csardas
@@ -27960,6 +27959,7 @@ cradlemaker
 cradlemate
 camerlengos
 celeomorphic
+chelicer
 catharize
 clinoclase
 cradles
