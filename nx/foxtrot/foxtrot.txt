@@ -506,7 +506,6 @@ flaxweed
 foreconsider
 flyblown
 funbre
-frislet
 friz
 furstone
 femes
@@ -9413,6 +9412,7 @@ fileted
 fantastical
 facing
 fettler
+frislet
 foxholes
 foreweigh
 fidgeter
