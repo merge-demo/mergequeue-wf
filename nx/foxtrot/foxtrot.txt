@@ -7741,7 +7741,6 @@ fallal
 fatherland
 flyman
 feudality
-fruggin
 flyeater
 flaglike
 foreknew
@@ -8854,6 +8853,7 @@ fieldwork
 flecks
 feston
 finbone
+fruggin
 fossorious
 fossulae
 flatfishes
