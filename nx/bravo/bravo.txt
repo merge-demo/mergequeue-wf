@@ -2097,6 +2097,7 @@ birthmarks
 bioflavinoid
 buyers
 bannocks
+blatting
 boilinglike
 bivittate
 banovina
@@ -10609,7 +10610,6 @@ braless
 bister
 brined
 bransle
-blatting
 blattodea
 blattoid
 boresomely
