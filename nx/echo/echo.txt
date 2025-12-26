@@ -5898,6 +5898,7 @@ engysseismology
 ethiops
 episyntheton
 erasures
+exprobrate
 erg
 engreaten
 evirtuate
@@ -9809,7 +9810,6 @@ elaeagnus
 emittance
 exergue
 emunctories
-exprobrate
 estampage
 empiric
 enucleating
