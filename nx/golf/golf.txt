@@ -2926,6 +2926,7 @@ glumpish
 gavelkind
 glossopteris
 growleries
+guardeen
 glycol
 gaeldom
 geocyclic
@@ -5706,7 +5707,6 @@ ganglioneuron
 gestning
 gelts
 goniometrically
-guardeen
 guttule
 ghillies
 glamberry
