@@ -8708,6 +8708,7 @@ epulotic
 equiprobably
 equiproportionality
 egocentrism
+externalise
 eluate
 escopet
 eked
@@ -13734,7 +13735,6 @@ extinctions
 enantiopathic
 euphorbia
 ententophil
-externalise
 ectoenzym
 enzyme
 extinguished
