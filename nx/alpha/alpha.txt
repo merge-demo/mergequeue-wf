@@ -5778,7 +5778,6 @@ agathist
 agathodaemonic
 aeropause
 ambulative
-atterminal
 agatiferous
 alongside
 ahoy
@@ -7827,6 +7826,7 @@ archimandrite
 accorders
 alecost
 alectoria
+atterminal
 agroof
 aprosopia
 arbors
