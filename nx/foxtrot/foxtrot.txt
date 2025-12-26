@@ -6710,6 +6710,7 @@ folksily
 flame
 felted
 fogless
+floodometer
 fogo
 frescoists
 feast
@@ -11666,7 +11667,6 @@ fazendeiro
 ferrety
 flames
 futurama
-floodometer
 fintadores
 frowsty
 flibustier

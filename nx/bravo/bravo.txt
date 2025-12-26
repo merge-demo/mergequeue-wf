@@ -3117,6 +3117,7 @@ bemixes
 blabby
 baseballer
 betraying
+bondsmen
 bucrnia
 bloodcurdler
 benben
@@ -12500,7 +12501,6 @@ bondsman
 blueys
 braeman
 bulbose
-bondsmen
 bonify
 bdls
 betaines
