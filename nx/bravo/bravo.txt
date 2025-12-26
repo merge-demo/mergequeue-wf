@@ -657,7 +657,6 @@ barren
 brioche
 bicorne
 bombo
-bungey
 biannual
 bronchiolitis
 bathyesthesia
@@ -9118,6 +9117,7 @@ bioscopy
 bioscopic
 bioastronautical
 bedecorate
+bungey
 ballistocardiograph
 bearishness
 binominated
