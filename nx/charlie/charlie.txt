@@ -9585,7 +9585,6 @@ chirosophist
 cautioning
 circumferences
 cultriform
-checkpointed
 chemitypies
 checkpointing
 cobalt
@@ -16983,6 +16982,7 @@ clupea
 clupeid
 cosignitary
 clupeids
+checkpointed
 creatureliness
 classis
 cachalot
