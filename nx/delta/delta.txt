@@ -3879,7 +3879,6 @@ demihogshead
 damone
 deityship
 dinobryon
-deixis
 decreases
 diduce
 desilicated
@@ -13041,6 +13040,7 @@ drydenism
 dermatoneurology
 disfeaturing
 disgenic
+deixis
 daijo
 disparts
 deformities
