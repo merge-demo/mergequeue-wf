@@ -1957,6 +1957,7 @@ camellin
 caser
 cameloidea
 camelopardalis
+crosstail
 consubstantiation
 carcinus
 cinnamomum
@@ -31601,7 +31602,6 @@ curvation
 curvative
 curvature
 cozy
-crosstail
 clingstone
 curve
 constructed
