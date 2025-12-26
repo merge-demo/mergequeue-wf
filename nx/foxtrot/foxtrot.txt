@@ -5832,7 +5832,6 @@ fayal
 feverously
 fluochloride
 fattening
-fervidly
 fierasfer
 flounders
 flotas
@@ -11614,6 +11613,7 @@ forint
 facsimile
 frolicsomely
 fortissimi
+fervidly
 foeish
 fibrous
 fosite
