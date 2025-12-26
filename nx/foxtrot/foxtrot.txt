@@ -7450,7 +7450,6 @@ forcibility
 forcibleness
 filosa
 furnacite
-francophone
 freckliest
 ferredoxin
 firecrest
@@ -11128,6 +11127,7 @@ fetometry
 fishtail
 furuncular
 fieldleft
+francophone
 flaggery
 formylated
 forumize
