@@ -2571,7 +2571,6 @@ candlenut
 candlepins
 chemist
 cerevis
-candler
 candlerent
 concealed
 candlers
@@ -21301,6 +21300,7 @@ concertising
 concertist
 contumeliously
 caccias
+candler
 chlorastrolite
 concertizer
 canescent
