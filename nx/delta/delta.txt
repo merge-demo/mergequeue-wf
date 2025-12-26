@@ -5225,7 +5225,6 @@ dusun
 denotatively
 dauerlauf
 dampens
-denotativeness
 denotatum
 deacidifying
 denotes
@@ -15633,6 +15632,7 @@ discomfiting
 doorpiece
 drivel
 dowl
+denotativeness
 doghouses
 dielec
 detumescent
