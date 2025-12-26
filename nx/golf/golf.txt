@@ -3543,6 +3543,7 @@ gibbsites
 gapo
 glucogene
 gilt
+gyroidally
 grogginess
 gantangs
 gigtree
@@ -9662,7 +9663,6 @@ garmenting
 gratton
 gult
 goodish
-gyroidally
 gastrojejunostomies
 grueled
 gyrose
