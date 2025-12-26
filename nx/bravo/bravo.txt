@@ -8329,6 +8329,7 @@ benzenes
 biggen
 bowwort
 biggened
+bayonetting
 baccharoid
 bakepan
 barbarous
@@ -10016,7 +10017,6 @@ barrenness
 bivector
 biventer
 backseat
-bayonetting
 blackwashing
 bulkin
 bizarrerie
