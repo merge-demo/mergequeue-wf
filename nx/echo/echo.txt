@@ -4283,6 +4283,7 @@ emulsion
 exemplifiable
 etherene
 esotrope
+escurialize
 excruciatingly
 earjewel
 eremital
@@ -7703,7 +7704,6 @@ extruder
 ellipticalness
 epidemically
 exalt
-escurialize
 evidentiary
 erythrine
 enfevered
