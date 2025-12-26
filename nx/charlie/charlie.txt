@@ -5436,6 +5436,7 @@ crinicultural
 cinemograph
 corncob
 conchfishes
+calibrators
 crummies
 cibolan
 corv
@@ -25529,7 +25530,6 @@ coronamen
 coronate
 calp
 corrosible
-calibrators
 coronations
 chitchatty
 coronel
