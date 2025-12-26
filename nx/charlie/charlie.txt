@@ -3631,7 +3631,6 @@ cappy
 colorist
 chauri
 carabine
-carabiner
 carabineros
 claik
 carabines
@@ -22542,6 +22541,7 @@ conjugators
 conjugium
 coohee
 countercause
+carabiner
 comfreys
 colluding
 chorizontist
