@@ -4185,7 +4185,6 @@ bodywise
 bengalic
 bogman
 bumpkinish
-buoyantness
 brinsell
 beastlily
 beclown
@@ -8935,6 +8934,7 @@ biodynamical
 bridoon
 biodynamics
 buccinoid
+buoyantness
 bread
 botherer
 blattered
