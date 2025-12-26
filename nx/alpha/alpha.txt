@@ -5645,7 +5645,6 @@ ardeid
 agal
 agalactic
 appoggiaturas
-alkaid
 agalaxia
 anisomelus
 agalena
@@ -22028,6 +22027,7 @@ amphiuma
 argentums
 anoia
 aggressing
+alkaid
 antitrinitarian
 aliyahaliyahs
 autodifferentiation
