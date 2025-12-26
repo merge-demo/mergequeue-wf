@@ -16584,7 +16584,6 @@ apast
 absolutive
 abiogenesis
 acolytes
-apatetic
 agrimonies
 apathaton
 allelvia
@@ -23751,6 +23750,7 @@ auspex
 approvability
 associational
 anisopodous
+apatetic
 acetifier
 avowance
 alto
