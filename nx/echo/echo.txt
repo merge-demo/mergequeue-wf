@@ -7966,7 +7966,6 @@ enclisis
 ectozoic
 estoppel
 encyclopaedia
-epileptiform
 effetmen
 equilobed
 evictor
@@ -9758,6 +9757,7 @@ endocrinous
 eddo
 emerick
 enneahedron
+epileptiform
 euhedral
 ectogenesis
 enrobing
