@@ -6999,6 +6999,7 @@ epistolar
 endostylic
 ephectic
 erian
+embrase
 eyebrows
 ensaint
 entre
@@ -10386,7 +10387,6 @@ expediently
 edulcorator
 eruct
 edmond
-embrase
 exhance
 earwigging
 epiphanize
