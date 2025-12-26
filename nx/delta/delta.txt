@@ -5346,6 +5346,7 @@ daraf
 diaphoretic
 displaced
 dentical
+deducibly
 denticle
 dentiferous
 desegmented
@@ -15829,7 +15830,6 @@ demidome
 dorsimeson
 devolatilization
 disyllabize
-deducibly
 dorsipinal
 dorsocaudad
 dorsocentral
