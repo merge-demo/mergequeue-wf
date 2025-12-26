@@ -4359,6 +4359,7 @@ blockishness
 bossdoms
 boatkeeper
 beche
+biconic
 becheck
 befool
 bechic
@@ -8050,7 +8051,6 @@ betrayal
 bicolors
 bidder
 bullescene
-biconic
 biconically
 biconnected
 bouleuterion
