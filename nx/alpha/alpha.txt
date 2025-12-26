@@ -2387,6 +2387,7 @@ acinetiform
 amarin
 acaricidal
 acinic
+allelomorph
 aciniform
 anatomicophysiological
 aggrate
@@ -20694,7 +20695,6 @@ asterion
 archenia
 anthesteriac
 articulare
-allelomorph
 alder
 anglophobe
 abounder
