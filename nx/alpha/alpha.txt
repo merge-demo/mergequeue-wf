@@ -4236,7 +4236,6 @@ adenalgia
 appoint
 azophosphore
 aromatophore
-assertative
 adrenalcortical
 appoggiature
 archesporium
@@ -11740,6 +11739,7 @@ aiawong
 adenia
 analemma
 autopotent
+assertative
 aconitum
 autexousy
 angelica
