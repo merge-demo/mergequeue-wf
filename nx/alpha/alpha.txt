@@ -11437,6 +11437,7 @@ armaments
 aloemodin
 afterturn
 accoutring
+avalent
 avengeress
 acrinyl
 aporrhea
@@ -24607,7 +24608,6 @@ actless
 assortive
 aquaplaner
 absolve
-avalent
 avalon
 autoeroticism
 affich
