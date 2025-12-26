@@ -5016,7 +5016,6 @@ chancroids
 cartilaginoid
 cartels
 cartilaginous
-carting
 coulometry
 cartist
 cartloads
@@ -10300,6 +10299,7 @@ chibouks
 chibouque
 chica
 carmines
+carting
 convect
 compleated
 chicago
