@@ -6476,7 +6476,6 @@ foulness
 fictor
 fruitages
 fissilingual
-farriery
 flatboat
 fording
 frosted
@@ -7960,6 +7959,7 @@ foreshadowed
 featherman
 flammivomous
 footles
+farriery
 fishhold
 fetologist
 foolhardiship
