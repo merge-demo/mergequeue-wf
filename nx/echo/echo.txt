@@ -3471,7 +3471,6 @@ expenditures
 equaled
 evacuate
 emetines
-eventide
 embellisher
 expressible
 embellishers
@@ -10140,6 +10139,7 @@ errs
 expositress
 enumerators
 eurhodine
+eventide
 effluent
 expressionful
 equivalences
