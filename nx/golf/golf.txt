@@ -514,7 +514,6 @@ gluten
 gast
 geeldikkop
 galipoidin
-guzzles
 gomphocarpus
 getters
 gnetaceous
@@ -9671,6 +9670,7 @@ gastrojejunostomies
 greatened
 grueled
 gyrose
+guzzles
 gestureless
 guipures
 glut
