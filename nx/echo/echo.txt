@@ -3203,6 +3203,7 @@ exhaustiveness
 euphoria
 epitra
 emmarble
+eurhythmics
 elaborate
 evinced
 egghead
@@ -6054,7 +6055,6 @@ extensimeter
 embayment
 evites
 exhaustlessly
-eurhythmics
 ectodermoidal
 enumerates
 enkidu
