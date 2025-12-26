@@ -3844,7 +3844,6 @@ cysticarpic
 carbohydraturia
 chalkier
 chorioid
-carbohydride
 casually
 carbohydrogen
 carboy
@@ -24709,6 +24708,7 @@ copperskin
 crowners
 ciderist
 coppersmith
+carbohydride
 coppersmithing
 copperware
 copperwing
