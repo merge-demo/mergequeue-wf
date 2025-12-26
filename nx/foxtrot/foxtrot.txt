@@ -2485,7 +2485,6 @@ forehorse
 fudging
 fainthearted
 faction
-farted
 facinorousness
 fluxgraph
 forestlike
@@ -3181,6 +3180,7 @@ fesels
 freeholds
 filibeg
 frosh
+farted
 fickle
 fixage
 fruits

@@ -8426,7 +8426,6 @@ gauziness
 gelid
 graith
 gheber
-graycoat
 gravamen
 grawls
 georgia
@@ -9342,6 +9341,7 @@ grond
 gront
 gamodeme
 guddled
+graycoat
 genuflect
 gangtide
 gradines
