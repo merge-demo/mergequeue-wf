@@ -6483,6 +6483,7 @@ descendable
 descendants
 dimensioned
 dipeptid
+drawglove
 dentellated
 disqualification
 delignated
@@ -13425,7 +13426,6 @@ disregard
 demiglace
 dought
 dumbheaded
-drawglove
 dimetient
 disregardant
 disregarded
