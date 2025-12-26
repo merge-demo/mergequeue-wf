@@ -2643,7 +2643,6 @@ barkier
 buttonhook
 bravery
 beduchess
-bantamweight
 birdhouses
 bilges
 botanise
@@ -2682,6 +2681,7 @@ bluestone
 bertholletia
 barghest
 breechloader
+bantamweight
 brugh
 basiliscus
 backlins
