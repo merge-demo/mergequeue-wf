@@ -248,7 +248,6 @@ ghostlike
 gambrelled
 glamorous
 guao
-gemless
 glaires
 gizmo
 gastrocatarrhal
@@ -6164,6 +6163,7 @@ greenkeeping
 greenlandman
 graphoanalytical
 gonococcus
+gemless
 gargarize
 glamorousness
 gladdening
