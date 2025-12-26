@@ -8223,6 +8223,7 @@ alidads
 anchored
 anticoagulin
 aposporous
+alethic
 android
 anonad
 archie
@@ -9199,7 +9200,6 @@ alnaschar
 aposiopestic
 astracism
 awest
-alethic
 authenticating
 alnicoes
 alnilam
