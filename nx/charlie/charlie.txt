@@ -12643,7 +12643,6 @@ chronoisothermal
 cellucotton
 chronologer
 circularize
-chronological
 coalternative
 chantecler
 cercle
@@ -18294,6 +18293,7 @@ coffeegrowing
 cladothrix
 cuss
 capelets
+chronological
 chemicovital
 coffeehouse
 coffeehouses
