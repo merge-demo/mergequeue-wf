@@ -1264,6 +1264,7 @@ australopithecine
 ails
 antifoggant
 acarpelous
+arrowy
 augitic
 antisceptic
 airing
@@ -13003,7 +13004,6 @@ abbreviating
 aluniferous
 assubjugate
 aeroballistics
-arrowy
 agglomeratic
 anhedral
 anhelation
