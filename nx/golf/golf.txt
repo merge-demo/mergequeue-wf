@@ -3755,7 +3755,6 @@ germania
 giantkind
 gastraneuria
 gieaway
-goggle
 greenfinch
 grumpishness
 grus
@@ -3768,6 +3767,7 @@ giantship
 garrafa
 gapping
 gastroesophagostomy
+goggle
 gunong
 giantsize
 gaub
