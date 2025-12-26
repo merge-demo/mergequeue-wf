@@ -8676,7 +8676,6 @@ complementaries
 cohesionless
 changelessness
 changelings
-changement
 cuissard
 changeovers
 chiefs
@@ -28742,6 +28741,7 @@ creping
 crepis
 crepitated
 corage
+changement
 cutesiest
 chelae
 crumblings
