@@ -9857,7 +9857,6 @@ bites
 birefringent
 bebat
 bytes
-bitewing
 beryx
 based
 backswording
@@ -11178,6 +11177,7 @@ balloters
 bloodthirster
 beliquors
 blindages
+bitewing
 beknot
 bitewings
 boronia
