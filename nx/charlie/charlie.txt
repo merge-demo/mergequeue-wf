@@ -27808,7 +27808,6 @@ chondrogeny
 coxite
 coxitis
 crocin
-checkouts
 coupee
 coxswain
 coxswained
@@ -28323,6 +28322,7 @@ crave
 coaster
 craved
 craven
+checkouts
 cudbears
 celebratory
 churchmen
