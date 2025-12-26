@@ -6517,7 +6517,6 @@ bituminizing
 bombyx
 bepretty
 bedirt
-beghard
 bejabbers
 bepuffed
 beetleheaded
@@ -15909,6 +15908,7 @@ broadband
 beswim
 behest
 buzzbomb
+beghard
 berylate
 bendell
 brominize
