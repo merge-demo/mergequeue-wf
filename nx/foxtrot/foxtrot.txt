@@ -6706,7 +6706,6 @@ folksily
 flame
 felted
 fogless
-frounced
 fogo
 frescoists
 feast
@@ -11710,6 +11709,7 @@ fanfish
 fiancailles
 foreiron
 fliskier
+frounced
 frowns
 furriered
 foredesign
