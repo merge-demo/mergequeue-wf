@@ -520,7 +520,6 @@ gast
 geeldikkop
 galipoidin
 guzzles
-galleins
 gomphocarpus
 getters
 gnetaceous
@@ -5656,6 +5655,7 @@ gant
 gothites
 grizzler
 grenat
+galleins
 gaucie
 gaultheria
 galvanographic
