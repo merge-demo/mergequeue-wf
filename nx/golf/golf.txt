@@ -7437,7 +7437,6 @@ gyrometer
 goodmen
 grimacingly
 glasswork
-germens
 glycines
 grasshopperdom
 gorgelet
@@ -10538,6 +10537,7 @@ gonal
 gunfights
 ghillie
 griffinhood
+germens
 gossipingly
 gudesakes
 gentamicin
