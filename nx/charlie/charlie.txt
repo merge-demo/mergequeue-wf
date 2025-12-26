@@ -8318,7 +8318,6 @@ chalcogenide
 coenaculum
 comas
 chalcography
-chalcographic
 chalcographical
 chalcolithic
 cappae
@@ -12431,6 +12430,7 @@ conquerable
 chromatolytic
 chromatologies
 chromatopathy
+chalcographic
 celebe
 chromatophil
 chromatophile
