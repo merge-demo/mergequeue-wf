@@ -3932,7 +3932,6 @@ foxtongue
 foal
 feedbacks
 finest
-forfeits
 finew
 fish
 fermentor
@@ -4749,6 +4748,7 @@ fulldo
 foxberries
 forestalment
 flammiferous
+forfeits
 furloughing
 flagellariaceous
 fleecily
