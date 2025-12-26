@@ -9046,6 +9046,7 @@ charisms
 cancrophagous
 charisticary
 charitative
+cholesteric
 coquettish
 colloq
 charities
@@ -11771,7 +11772,6 @@ cuffle
 commissionary
 chondral
 chondrarsenite
-cholesteric
 chondre
 chondrenchyma
 caramelin
