@@ -6835,6 +6835,7 @@ enrooted
 enlistees
 entoil
 eggler
+encheiria
 entom
 extender
 episternalia
@@ -11527,7 +11528,6 @@ elegancies
 epicurean
 emcee
 enforced
-encheiria
 erotylid
 exhaling
 eserin

@@ -5993,6 +5993,7 @@ bosslet
 begripe
 bellarmine
 bemaddened
+babbage
 boob
 bemaim
 bushet
@@ -14110,7 +14111,6 @@ beltene
 bistipular
 beer
 blot
-babbage
 blasters
 bugged
 butsudan
