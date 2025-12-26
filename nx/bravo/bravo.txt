@@ -15504,7 +15504,6 @@ bleaters
 balloonfish
 bearskins
 brinehouse
-blanketeer
 backsaws
 bakery
 bratstva
@@ -16659,6 +16658,7 @@ bisons
 bardlet
 bulanda
 blacking
+blanketeer
 brevicipitid
 buchanite
 baronies
