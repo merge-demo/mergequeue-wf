@@ -1842,7 +1842,6 @@ bowlin
 bushranging
 bandala
 buggery
-bandanaed
 battlepiece
 bollito
 bescribble
@@ -10166,6 +10165,7 @@ bromising
 bonhomous
 biopsychologies
 battue
+bandanaed
 beatitudes
 browsers
 blackcaps
