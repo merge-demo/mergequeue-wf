@@ -4632,6 +4632,7 @@ carnivoral
 carnivore
 carnivorism
 cordialness
+coherer
 carnivorously
 comart
 carnivorousness
@@ -18542,7 +18543,6 @@ curr
 coherence
 cataractal
 coherent
-coherer
 cumberworld
 cohering
 coheritor
