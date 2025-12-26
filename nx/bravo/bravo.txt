@@ -597,6 +597,7 @@ bacterin
 beggiatoa
 bacteriochlorophyll
 bacteriocin
+bosket
 bostangi
 bastiment
 bacteriodiagnosis
@@ -11653,7 +11654,6 @@ boastfulness
 bacchus
 boasts
 bryologist
-bosket
 bacterioscopical
 buttercup
 barspoon
