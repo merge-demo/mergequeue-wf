@@ -17700,7 +17700,6 @@ convenery
 cochlear
 crystallograph
 cochleariform
-cochleiform
 counterstimulate
 cocksfoot
 comedy
@@ -23123,6 +23122,7 @@ constablewick
 constabular
 comminute
 coccolithophoridae
+cochleiform
 constantan
 constantinian
 cephidae
