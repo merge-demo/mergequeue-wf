@@ -12972,7 +12972,6 @@ bucktails
 berthold
 boardinghouses
 bootman
-boots
 bottoms
 blouson
 bittersweet
@@ -15594,6 +15593,7 @@ bourbonian
 bombproof
 bristled
 bakhtiari
+boots
 biomagnetism
 burlaps
 banlieue
