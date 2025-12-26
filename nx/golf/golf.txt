@@ -5540,7 +5540,6 @@ gourd
 glutition
 globigerinas
 gaminish
-greens
 gemutlichkeit
 gorses
 graysbies
@@ -5834,6 +5833,7 @@ gate
 glassily
 gymnosporangium
 gynoecium
+greens
 glucate
 gorevan
 gibelite
