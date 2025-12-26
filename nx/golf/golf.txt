@@ -2574,6 +2574,7 @@ gangliasthenia
 goosefish
 granodiorite
 giltheads
+ginglymoarthrodial
 guillotined
 grassed
 gyrogonite
@@ -8488,7 +8489,6 @@ gravitations
 geotaxis
 gelada
 gov
-ginglymoarthrodial
 globalism
 gleyde
 gilders
