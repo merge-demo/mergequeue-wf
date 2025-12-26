@@ -5932,7 +5932,6 @@ enhaemospore
 epiplastron
 emphases
 explees
-ecarinate
 execrators
 exaggerativeness
 epitomise
@@ -14126,6 +14125,7 @@ extrospect
 endarch
 evokes
 equivorous
+ecarinate
 existentialize
 eutrophy
 epithamia
