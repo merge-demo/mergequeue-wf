@@ -5872,7 +5872,6 @@ epizoicide
 engrainer
 electrocratic
 engraining
-enwoven
 ekaha
 eulerian
 embergeese
@@ -7908,6 +7907,7 @@ epileny
 endopeptidase
 extensible
 exotospore
+enwoven
 entomeric
 exuccous
 etheling
