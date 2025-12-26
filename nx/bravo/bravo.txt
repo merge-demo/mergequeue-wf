@@ -7869,7 +7869,6 @@ bewreath
 bealtine
 bibiri
 brad
-boondoggles
 barefisted
 bibitory
 bothridiums
@@ -9294,6 +9293,7 @@ butler
 bantamweights
 bipod
 bipods
+boondoggles
 botches
 bipolarity
 bipolarization
