@@ -4301,7 +4301,6 @@ delimit
 duckhood
 dequeue
 dronel
-diversicolored
 daubster
 diamondiferous
 diacritical
@@ -8221,6 +8220,7 @@ diadochi
 ductible
 depigment
 disputing
+diversicolored
 denticulation
 deossify
 dados
