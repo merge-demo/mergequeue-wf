@@ -13635,7 +13635,6 @@ apodan
 anticum
 anesthesia
 abeam
-automa
 abolition
 annuler
 allosaur
@@ -15190,6 +15189,7 @@ antisynod
 alunogen
 antifederalism
 assentient
+automa
 antifelony
 antarctalian
 antiferromagnetism
