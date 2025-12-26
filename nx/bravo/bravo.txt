@@ -1557,6 +1557,7 @@ balled
 batterer
 blauboks
 baller
+barbut
 beclowning
 ballerina
 ballet
@@ -3327,7 +3328,6 @@ basisidia
 bedwell
 bothering
 basisphenoidal
-barbut
 basitemporal
 beguilers
 balao
