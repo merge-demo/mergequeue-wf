@@ -1312,6 +1312,7 @@ formates
 fallowness
 frictionally
 fineleaf
+favorability
 floriage
 foramination
 falser
@@ -11312,7 +11313,6 @@ fraternize
 fleabite
 faultfinding
 fossilogist
-favorability
 furfuralcohol
 freebees
 flathat
