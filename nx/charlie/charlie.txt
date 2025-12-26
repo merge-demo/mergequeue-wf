@@ -8488,7 +8488,6 @@ chamise
 chamises
 chamiso
 chamlet
-chamm
 chamma
 chammy
 calcydon
@@ -16306,6 +16305,7 @@ cephalin
 chayaroot
 convector
 clinopodium
+chamm
 conterminous
 constrainment
 curvilinear
