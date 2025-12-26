@@ -5351,7 +5351,6 @@ equivocalities
 eradicators
 egeran
 endoscopies
-epipodia
 endoskeletons
 endosmic
 evaders
@@ -9834,6 +9833,7 @@ ethionic
 exact
 estrich
 etagre
+epipodia
 expurgator
 eikon
 emulsifications
