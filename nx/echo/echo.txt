@@ -3830,7 +3830,6 @@ enterprisingly
 expiratory
 esthetical
 exla
-emparl
 ethnohistorical
 extolled
 economic
@@ -6496,6 +6495,7 @@ ensoul
 ensouled
 ecru
 evolutes
+emparl
 ectodermic
 ensphering
 enlister
