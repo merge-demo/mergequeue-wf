@@ -9855,7 +9855,6 @@ gallicism
 gongoresque
 gips
 grousy
-gametophagia
 guajiras
 gourmandizer
 guama
@@ -10462,6 +10461,7 @@ gummatous
 gneissy
 gerrymandered
 geistlich
+gametophagia
 gastrolienal
 geometries
 graphitization
