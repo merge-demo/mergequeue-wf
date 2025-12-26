@@ -4510,7 +4510,6 @@ fissilinguia
 flashforwards
 flinder
 flexibly
-fontinalis
 fabulist
 fingernails
 filleul
@@ -8903,6 +8902,7 @@ fling
 fatiloquent
 feedstuff
 forethough
+fontinalis
 fidation
 feazed
 fractuosity
