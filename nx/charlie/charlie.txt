@@ -8888,7 +8888,6 @@ characins
 charity
 castigating
 charact
-cutouts
 charactered
 capitalist
 costocoracoid
@@ -12608,6 +12607,7 @@ chronaxie
 chronic
 chronica
 chronically
+cutouts
 chronicle
 chronicled
 clattertrap
