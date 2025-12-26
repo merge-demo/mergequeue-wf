@@ -549,7 +549,6 @@ forewarn
 fluvial
 fortress
 fragmentising
-filicites
 falters
 fronts
 formamidoxime
@@ -737,6 +736,7 @@ fenrir
 forepart
 frankalmoigne
 frostiness
+filicites
 fruitful
 fanaticizing
 finickier
