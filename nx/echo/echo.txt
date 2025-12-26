@@ -1274,6 +1274,7 @@ enmanche
 eelfare
 encrinite
 emperors
+emissions
 enrobe
 ecclesiarch
 eversive
@@ -1417,7 +1418,6 @@ eubranchipus
 efflagitate
 eugubium
 embellishes
-emissions
 encycl
 expungeable
 engrailment

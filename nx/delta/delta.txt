@@ -1904,7 +1904,6 @@ debowel
 depravity
 debride
 dallas
-deciphers
 debriefing
 dowser
 danzig
@@ -7202,6 +7201,7 @@ detaches
 dicast
 dynamis
 demijohns
+deciphers
 demulsifying
 decadactylous
 detainal
