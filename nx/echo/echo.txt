@@ -4669,6 +4669,7 @@ ermelin
 eminence
 engaged
 etherealised
+encarpuspi
 enhydrite
 extratensive
 erythroxyline
@@ -13095,7 +13096,6 @@ expediency
 ecoclimate
 experientialism
 eschevin
-encarpuspi
 entosarc
 extensionality
 ergology
