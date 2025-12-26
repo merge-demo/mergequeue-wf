@@ -4734,6 +4734,7 @@ carousals
 centrospermae
 carouse
 craftwork
+cathartes
 caroused
 carousels
 carp
@@ -5998,7 +5999,6 @@ catharizing
 catharping
 correlating
 counterreason
-cathartes
 cathartic
 chloroplatinate
 conciliate
