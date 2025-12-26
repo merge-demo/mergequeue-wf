@@ -10805,6 +10805,7 @@ addresser
 ammonia
 ammoniacs
 aleyard
+anatomizer
 acquit
 acrisius
 artly
@@ -12102,7 +12103,6 @@ adulterates
 anatomize
 albuminised
 anopsy
-anatomizer
 advisiveness
 attacco
 anatopism
