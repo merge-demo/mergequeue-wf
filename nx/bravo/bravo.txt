@@ -525,7 +525,6 @@ bayok
 blasthole
 bafflingness
 barometrical
-backvelder
 blastodermic
 belch
 burnooses
@@ -14723,6 +14722,7 @@ bestraught
 brasslike
 baignoire
 bagio
+backvelder
 brat
 brutter
 blender
