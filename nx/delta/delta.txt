@@ -9286,7 +9286,6 @@ decolorant
 dietitians
 diddle
 dtset
-diplomat
 dietotherapy
 dietotoxic
 detersive
@@ -10421,6 +10420,7 @@ disfigurative
 diphenoxylate
 diphysite
 dosimeters
+diplomat
 discolith
 devinct
 demark
