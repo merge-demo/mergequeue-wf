@@ -1090,6 +1090,7 @@ fishling
 fastback
 farrisite
 fleerish
+frabjous
 firehalls
 figulate
 forthcame
@@ -11262,7 +11263,6 @@ funster
 furacious
 file
 farces
-frabjous
 fernando
 foreact
 flatters
