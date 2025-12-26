@@ -1560,7 +1560,6 @@ fause
 fauvisms
 foreprepare
 fodderer
-filechar
 faucitis
 faveolus
 forconceit
@@ -2435,6 +2434,7 @@ fermentescible
 filiform
 fielding
 falla
+filechar
 fornax
 ferruginated
 flowable
