@@ -402,7 +402,6 @@ gynecol
 gastroenteralgia
 gneu
 gymmal
-gabion
 glomeration
 greatened
 greatcoated
@@ -9016,6 +9015,7 @@ griffonage
 gynandry
 goosemouth
 girned
+gabion
 glacis
 guzzlers
 glory
