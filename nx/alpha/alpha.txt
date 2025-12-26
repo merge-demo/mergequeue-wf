@@ -839,7 +839,6 @@ aerosols
 acesodyne
 anam
 abscission
-absconce
 abscond
 absconded
 apperceptive
@@ -3502,6 +3501,7 @@ angiotome
 aeroyacht
 addlepated
 addles
+absconce
 autumnian
 antierysipelas
 addn
