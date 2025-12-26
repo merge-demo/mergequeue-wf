@@ -4756,7 +4756,6 @@ bottlers
 bedlamite
 brulyiement
 bastardization
-bedlamitish
 bedub
 bovid
 bibliogenesis
@@ -8598,6 +8597,7 @@ brachiofacial
 billfishes
 bradypode
 bellflower
+bedlamitish
 balkanized
 bhuts
 bastionary
