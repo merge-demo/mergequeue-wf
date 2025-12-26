@@ -10084,6 +10084,7 @@ bioseston
 brings
 bellpulls
 backfired
+bashed
 backwatered
 bizygomatic
 boarhound
@@ -15997,7 +15998,6 @@ boudin
 bronchogenic
 bushwhack
 bellmaster
-bashed
 bearer
 bemourn
 beryllosis
