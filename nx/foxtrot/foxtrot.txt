@@ -2958,7 +2958,6 @@ fewtrils
 fustee
 follower
 flanned
-ferrels
 fellies
 fezzed
 favosite
@@ -5065,6 +5064,7 @@ fowler
 fitches
 frigatoon
 fluorescence
+ferrels
 faky
 flapping
 folders
