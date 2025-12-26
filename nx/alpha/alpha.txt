@@ -5093,7 +5093,6 @@ aestii
 annihilated
 aestivate
 avocate
-aestivates
 azotite
 admonisher
 accosting
@@ -13606,6 +13605,7 @@ abilene
 anomoean
 arrear
 adelia
+aestivates
 abbess
 archil
 anodal
