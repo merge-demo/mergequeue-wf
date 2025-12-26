@@ -3740,7 +3740,6 @@ embrittling
 embryulcia
 embryulculci
 exercitorial
-extravagantness
 enfranchise
 expedited
 excessiveness
@@ -11243,6 +11242,7 @@ effulgent
 eely
 exceptionably
 effulgently
+extravagantness
 encephalasthenia
 excisemanship
 enclothe
