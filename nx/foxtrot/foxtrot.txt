@@ -4736,7 +4736,6 @@ forthink
 fablemongering
 forestry
 flo
-fertil
 furtherest
 fiddleneck
 freethinkers
@@ -7274,6 +7273,7 @@ fancysick
 fortlet
 federalise
 footwalk
+fertil
 footwarmer
 focalized
 frater
