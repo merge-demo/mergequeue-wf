@@ -5011,7 +5011,6 @@ goofed
 ganders
 grovels
 garibaldi
-glider
 gonocheme
 genesiology
 garavance
@@ -7154,6 +7153,7 @@ graftage
 gastrotaxis
 gabelle
 glistering
+glider
 gulfweed
 geometrise
 guans
