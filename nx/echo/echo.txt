@@ -4954,6 +4954,7 @@ endocrinal
 endamebae
 equiv
 eveck
+east
 extradictable
 endamoebas
 endamoebidae
@@ -12940,7 +12941,6 @@ epipsychidion
 egotistical
 emblematized
 epistrophic
-east
 electrolysation
 enhaunt
 eulogiae
