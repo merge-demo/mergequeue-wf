@@ -508,6 +508,7 @@ funbre
 frislet
 friz
 furstone
+femes
 fertilizing
 frenne
 filicite
@@ -996,7 +997,6 @@ fontanges
 filmsets
 foreshop
 fulmina
-femes
 foreplan
 foreorder
 fenester
