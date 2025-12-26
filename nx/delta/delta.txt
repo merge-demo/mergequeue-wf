@@ -1969,6 +1969,7 @@ debused
 doohickey
 debusing
 danger
+declasses
 dedans
 disenact
 disavouch
@@ -2550,7 +2551,6 @@ diplococcus
 declaring
 dizen
 dwined
-declasses
 dorn
 disjudication
 declass
