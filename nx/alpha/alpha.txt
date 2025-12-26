@@ -2323,7 +2323,6 @@ absorbancy
 acephalism
 acidulously
 acidurias
-arteriole
 annihil
 amarantaceae
 aulacodus
@@ -21838,6 +21837,7 @@ assignats
 ambiparous
 aerophilous
 antimeningococcic
+arteriole
 assigns
 assilag
 amiced
