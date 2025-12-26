@@ -12615,6 +12615,7 @@ authentications
 addleheadedly
 aperies
 allocators
+afridi
 amixia
 austerus
 aporrhaidae
@@ -21332,7 +21333,6 @@ antimythical
 acknowledgement
 asymmetries
 asymmetron
-afridi
 asymptomatic
 alizarin
 asymptote
