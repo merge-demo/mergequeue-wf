@@ -4753,7 +4753,6 @@ diadochokinetic
 dromophobia
 dejected
 deriv
-diabolatry
 disgracing
 disbudding
 dangs
@@ -15816,6 +15815,7 @@ deuteron
 diacetic
 deluge
 dissertations
+diabolatry
 demidome
 dorsimeson
 devolatilization
