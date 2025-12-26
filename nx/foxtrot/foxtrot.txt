@@ -3330,7 +3330,6 @@ foilsmen
 floorers
 frowsiest
 flotsam
-fluorescer
 foreheaded
 forjaskit
 fiedlerite
@@ -6456,6 +6455,7 @@ fluotantalic
 forweary
 filth
 fellah
+fluorescer
 folkcraft
 frenchize
 fannia
