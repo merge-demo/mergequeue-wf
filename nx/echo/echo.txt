@@ -11150,6 +11150,7 @@ episome
 executing
 electrification
 evacuants
+engram
 earthdrake
 exophagous
 epaulet
@@ -13230,7 +13231,6 @@ exertive
 ety
 endemical
 ethize
-engram
 envine
 edacity
 endocranium
