@@ -6286,6 +6286,7 @@ epicyte
 eyre
 epigaster
 ethanes
+excalfaction
 enrich
 excitancy
 enrichener
@@ -8199,7 +8200,6 @@ entomophthoraceae
 eons
 exergual
 empowered
-excalfaction
 episiotomies
 episkeletal
 eequinoctium
