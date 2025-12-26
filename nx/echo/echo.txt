@@ -99,7 +99,6 @@ ephydridae
 epithelioma
 enumerate
 earpick
-elastician
 earpiece
 enchisel
 enmarble
@@ -5373,6 +5372,7 @@ endosteoma
 essentialism
 exerts
 exosepsis
+elastician
 evilspeaking
 episioplasty
 expatriations
