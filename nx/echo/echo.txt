@@ -4090,7 +4090,6 @@ ethylbenzene
 ecthymata
 euthymy
 esthetophore
-emboil
 equitant
 enchytraeidae
 enjambement
@@ -14086,6 +14085,7 @@ extremeness
 extremis
 effeminate
 ethnologist
+emboil
 esteem
 evolutionistically
 episternum
