@@ -2362,6 +2362,7 @@ geotectonic
 gravitates
 goggler
 ger
+guianese
 gabon
 guardants
 glump
@@ -2400,7 +2401,6 @@ gemmer
 gumphion
 gloppy
 grow
-guianese
 gild
 gauk
 gruesomer
