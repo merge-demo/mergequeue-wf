@@ -4109,6 +4109,7 @@ gyropilot
 galaxiidae
 gemological
 geggee
+gyrectomy
 gimmickery
 gendering
 gangrenate
@@ -6612,7 +6613,6 @@ gruntingly
 glassine
 gaed
 goncalo
-gyrectomy
 geminating
 globulysis
 glycosuria
