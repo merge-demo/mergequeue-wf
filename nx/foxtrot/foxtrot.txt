@@ -3808,7 +3808,6 @@ frogland
 filtermen
 forcefully
 futtermassel
-foreiron
 foundationer
 fettuccine
 flowingly
@@ -11709,6 +11708,7 @@ flaw
 francomania
 fanfish
 fiancailles
+foreiron
 fliskier
 frowns
 furriered
