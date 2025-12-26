@@ -5640,6 +5640,7 @@ goodbye
 gratefuller
 glasses
 glassrope
+guar
 glorifications
 garefowls
 girdles
@@ -9542,7 +9543,6 @@ garden
 guanabano
 groupist
 genipapada
-guar
 grs
 gristliness
 guacico
