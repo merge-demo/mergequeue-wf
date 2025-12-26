@@ -4838,6 +4838,7 @@ epidosite
 eccoproticophoric
 escape
 erugate
+epiphyll
 estrogenicity
 embrangle
 encomiastically
@@ -9055,7 +9056,6 @@ electrocardiographs
 evaginating
 euchring
 epicardiac
-epiphyll
 entria
 emlen
 endothermic
