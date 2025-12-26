@@ -1644,7 +1644,6 @@ groovier
 grademark
 grousewards
 grosgrain
-garawi
 gumlikeness
 geode
 goyish
@@ -4675,6 +4674,7 @@ graecism
 goglet
 glissader
 girted
+garawi
 galactoside
 guarapucu
 grego
