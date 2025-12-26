@@ -2116,7 +2116,6 @@ boguing
 bulker
 billbeetle
 brock
-botoyan
 bloodbeat
 banshies
 bornan
@@ -12211,6 +12210,7 @@ biometeorology
 blandiloquence
 baklawas
 benzodiazine
+botoyan
 barkeeps
 bridgeboard
 bijugular
