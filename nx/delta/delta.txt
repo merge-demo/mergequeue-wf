@@ -1796,7 +1796,6 @@ debarment
 debarrance
 drawlier
 duryl
-debarring
 drummock
 delectible
 dispiteous
@@ -11364,6 +11363,7 @@ diabases
 dermatocele
 disunifying
 dispensating
+debarring
 dissociably
 discoherent
 decays
