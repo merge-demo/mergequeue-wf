@@ -5509,7 +5509,6 @@ fervours
 finnan
 fletchers
 furrower
-furnit
 fisc
 faked
 forbearingness
@@ -10148,6 +10147,7 @@ fortuitus
 fissiparously
 frittering
 fuchi
+furnit
 frivolity
 freakier
 froughy
