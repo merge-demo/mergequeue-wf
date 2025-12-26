@@ -9039,7 +9039,6 @@ assertiveness
 acquiescing
 assagais
 aftermarriage
-alochia
 acylamido
 aiguiere
 adinvention
@@ -14732,6 +14731,7 @@ agreeing
 adumbral
 abjudication
 anolian
+alochia
 acclimation
 antiboxing
 advertizer
