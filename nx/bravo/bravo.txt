@@ -851,6 +851,7 @@ bauxites
 bicolour
 bravade
 bagful
+bearance
 baggagemaster
 bedamning
 brachydome
@@ -15095,7 +15096,6 @@ bodiment
 bastarda
 begot
 brents
-bearance
 brere
 barnumize
 baffles

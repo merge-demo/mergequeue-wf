@@ -3500,7 +3500,6 @@ figures
 filariae
 faultfinding
 feelingless
-foreact
 fasciculi
 frouncing
 fraticelli
@@ -11263,6 +11262,7 @@ file
 farces
 frabjous
 fernando
+foreact
 flatters
 furanoid
 fricandeaus
