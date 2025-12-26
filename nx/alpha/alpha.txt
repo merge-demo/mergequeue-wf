@@ -11174,7 +11174,6 @@ antistrophic
 amphictyons
 anisospore
 amphid
-amphophile
 amphidiarthrosis
 aryans
 amphidisc
@@ -15038,6 +15037,7 @@ anticularia
 antidactyl
 antidemocrat
 auroras
+amphophile
 alienator
 antidemocratically
 antidemoniac
