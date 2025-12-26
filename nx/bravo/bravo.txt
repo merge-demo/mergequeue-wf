@@ -7133,7 +7133,6 @@ birdsong
 boldnesses
 basso
 bespotting
-bespouse
 booties
 backstick
 batiking
@@ -13852,6 +13851,7 @@ binominal
 bidential
 brewing
 bowerlet
+bespouse
 begins
 bighearted
 bagreef
