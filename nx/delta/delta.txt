@@ -11843,7 +11843,6 @@ dawing
 deuteroprism
 diamines
 discurre
-demo
 dioestrus
 dislikable
 discursify
@@ -16516,6 +16515,7 @@ draftings
 degradand
 diesinker
 disinterred
+demo
 dallop
 dendrodont
 dacryops
