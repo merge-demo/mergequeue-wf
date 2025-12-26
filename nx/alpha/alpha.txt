@@ -9133,6 +9133,7 @@ abide
 almerian
 ardeae
 apostle
+assientist
 aquiculture
 aerarian
 apetaloid
@@ -11081,7 +11082,6 @@ asgmt
 ascidioidea
 amper
 amatory
-assientist
 ascots
 ambocoelia
 analects
