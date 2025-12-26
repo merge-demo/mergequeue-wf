@@ -746,7 +746,6 @@ galvanoplasty
 gastrocolotomy
 grovers
 gansa
-gastrohysterorrhaphy
 gestapos
 gerim
 gunbearer
@@ -4477,6 +4476,7 @@ grammontine
 gastrostaxis
 ginning
 garvance
+gastrohysterorrhaphy
 giraffe
 gynocardic
 gypsyism
