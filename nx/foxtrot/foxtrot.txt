@@ -3247,6 +3247,7 @@ foppery
 flaught
 filbert
 freit
+forechoice
 fifteenthly
 friary
 fomenting
@@ -3542,7 +3543,6 @@ feverish
 fluoryl
 filaricidal
 filariids
-forechoice
 flagellative
 foody
 foreloper
