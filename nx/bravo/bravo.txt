@@ -3496,7 +3496,6 @@ barrages
 bagworms
 blotlessness
 biennium
-boyla
 batamote
 biosis
 batarde
@@ -5465,6 +5464,7 @@ beheaded
 beheader
 beheira
 beachward
+boyla
 bulletmaking
 blubbery
 boardmanship
