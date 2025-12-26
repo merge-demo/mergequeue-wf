@@ -5797,6 +5797,7 @@ dewer
 disoxygenate
 dainties
 diaxial
+dependants
 deceit
 distalwards
 dacker
@@ -9551,7 +9552,6 @@ demophoon
 doubloons
 drunks
 dignotion
-dependants
 desmitis
 deuterons
 digonal
