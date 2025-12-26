@@ -975,7 +975,6 @@ chunter
 cholick
 charpais
 calaite
-calamancoes
 calamander
 catti
 calamansi
@@ -13660,6 +13659,7 @@ conformableness
 calcaneonavicular
 cymiferous
 cymlin
+calamancoes
 cymlings
 cymlins
 carbasus
