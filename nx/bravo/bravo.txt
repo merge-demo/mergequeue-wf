@@ -11867,7 +11867,6 @@ bulrushlike
 bootlegging
 banking
 bodybuilding
-budgerigar
 bodice
 brainwashers
 bogged
@@ -17207,6 +17206,7 @@ barkantine
 bullpen
 bullpoll
 bemirror
+budgerigar
 bullpup
 brughs
 bestarve
