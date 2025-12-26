@@ -9662,7 +9662,6 @@ cheeped
 cheeper
 cynodontia
 capernaite
-casklike
 cheepers
 cheepier
 cheepiest
@@ -19081,6 +19080,7 @@ colletia
 chalkstone
 colletin
 colleting
+casklike
 comintern
 colletotrichum
 collets
