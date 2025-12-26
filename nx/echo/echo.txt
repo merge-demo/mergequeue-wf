@@ -9288,7 +9288,6 @@ externalist
 entrep
 exogamous
 exclaustration
-expositional
 ebricty
 enculturation
 entertains
@@ -9781,6 +9780,7 @@ envermeil
 extracellular
 essoinment
 essorant
+expositional
 echiuroidea
 endarterial
 engrave
