@@ -2102,7 +2102,6 @@ campagne
 conli
 campaign
 clotheshorses
-campaigners
 campaigns
 colostric
 campana
@@ -18212,6 +18211,7 @@ coercible
 coercionary
 coercitive
 coercive
+campaigners
 coerciveness
 coercivity
 coerebidae
