@@ -2666,7 +2666,6 @@ foremelt
 feasing
 ferulaceous
 ferular
-foreimpression
 feruled
 ferulic
 fitzclarence
@@ -9613,6 +9612,7 @@ freebootery
 forestiera
 freebooting
 freed
+foreimpression
 facete
 forensic
 floreta
