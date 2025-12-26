@@ -9714,7 +9714,6 @@ amah
 amahuaca
 assoil
 antigen
-aeroscope
 accoutrements
 amain
 amidocaffeine
@@ -19563,6 +19562,7 @@ arabidopsis
 argumental
 autecious
 anesthesiant
+aeroscope
 asynchronous
 aramayoite
 accede
