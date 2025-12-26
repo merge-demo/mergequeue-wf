@@ -6940,6 +6940,7 @@ grx
 geometrised
 grannam
 geostatics
+gibier
 goodwife
 grecians
 guasa
@@ -8701,7 +8702,6 @@ gilsonite
 glyphograph
 greedyguts
 guaconize
-gibier
 greedless
 guttled
 gawkier
