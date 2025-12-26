@@ -14945,7 +14945,6 @@ conceit
 conveys
 counterpray
 curding
-compactness
 coenogamete
 continuedly
 cordites
@@ -22199,6 +22198,7 @@ confucianism
 confucius
 crambambuli
 confusability
+compactness
 circummured
 confusedly
 carnalized
