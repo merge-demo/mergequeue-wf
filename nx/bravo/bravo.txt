@@ -6567,7 +6567,6 @@ blastospheric
 berattle
 bakehead
 boatside
-betone
 borickite
 brekky
 benzothiazole
@@ -7030,6 +7029,7 @@ besognier
 besoil
 biznagas
 bookcraft
+betone
 bioplasms
 basing
 branchiostomidae
