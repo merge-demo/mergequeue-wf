@@ -3396,7 +3396,6 @@ fierasferoid
 farcie
 fustanella
 floc
-flecker
 featherlike
 fenestella
 forestate
@@ -7777,6 +7776,7 @@ fidicula
 franciscanism
 fisticuffery
 favillous
+flecker
 flabelliform
 fulicine
 forsaker
