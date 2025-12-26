@@ -4302,7 +4302,6 @@ fluyt
 factive
 fet
 flamethrower
-funditor
 fructiferousness
 fretworked
 foddering
@@ -10422,6 +10421,7 @@ filigree
 flow
 fictility
 formee
+funditor
 flyspecked
 firstling
 forcaria
