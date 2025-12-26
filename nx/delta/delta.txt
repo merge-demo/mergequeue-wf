@@ -1602,6 +1602,7 @@ deafly
 deafmuteness
 disembrace
 deafness
+docs
 deairing
 discernableness
 deairs
@@ -14820,7 +14821,6 @@ detests
 docoglossate
 diswarren
 decidua
-docs
 doctor
 doctored
 dashwheel
