@@ -4682,6 +4682,7 @@ derealization
 declaration
 demiurgos
 dewaxed
+dicyclica
 drifting
 disheveling
 ducklar
@@ -13619,7 +13620,6 @@ dissever
 disseverment
 dimethylketone
 dissheathed
-dicyclica
 daddums
 dosimetrist
 deliverance
