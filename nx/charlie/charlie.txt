@@ -27847,6 +27847,7 @@ civiliser
 cp
 clitoridean
 cpd
+crossbreds
 chemurgic
 cpo
 cpus
@@ -29871,7 +29872,6 @@ crossbow
 crossbows
 culgee
 cladoselache
-crossbreds
 coxal
 catarrhed
 crossbreeding
