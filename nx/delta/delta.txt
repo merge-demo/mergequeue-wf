@@ -1227,6 +1227,7 @@ dreggier
 daystars
 datebook
 dilacerated
+dehydrator
 doucine
 dibstones
 drivehead
@@ -3692,7 +3693,6 @@ disorganising
 desuetude
 defiantly
 dehydrate
-dehydrator
 dehydrating
 diploidies
 depiedmontize

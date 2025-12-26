@@ -10633,7 +10633,6 @@ eudaimonia
 eudaimonist
 epirhizous
 eric
-eudemonic
 epappose
 epinephelidae
 evilproof
@@ -13237,6 +13236,7 @@ edacity
 endocranium
 ephebeum
 envisioned
+eudemonic
 explicably
 explosionist
 expensive
