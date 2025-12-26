@@ -4815,7 +4815,6 @@ eguttulate
 enterotomy
 epiopticon
 excusatory
-endocarpic
 encode
 exitance
 ensnarements
@@ -6169,6 +6168,7 @@ earlywood
 ervipiame
 emunct
 epistasy
+endocarpic
 enmeshment
 enrols
 enmity
