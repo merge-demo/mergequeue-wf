@@ -14554,6 +14554,7 @@ concentred
 clefs
 chang
 cist
+counterpleading
 cankerwort
 culver
 chamoised
@@ -22662,7 +22663,6 @@ captance
 caliper
 connivingly
 connochaetes
-counterpleading
 clowning
 cabinets
 connotate
