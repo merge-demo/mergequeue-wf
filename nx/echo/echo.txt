@@ -1269,7 +1269,6 @@ elsewheres
 exposition
 episomal
 evaluation
-endopleuritic
 enmanche
 eelfare
 encrinite
@@ -10856,6 +10855,7 @@ eructation
 ereption
 euphemian
 electrolyzed
+endopleuritic
 enlivenments
 emborders
 econometrics
