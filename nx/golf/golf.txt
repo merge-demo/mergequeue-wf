@@ -794,7 +794,6 @@ gambang
 gastrular
 gonia
 goldbeater
-gambe
 gourmanderie
 gambeered
 glauke
@@ -8402,6 +8401,7 @@ gaucherie
 gawby
 gyroscopically
 grebe
+gambe
 grasses
 gulping
 grippes
