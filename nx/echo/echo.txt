@@ -12976,7 +12976,6 @@ enzym
 encephalopyosis
 erminette
 exposals
-emotion
 ensnarls
 entice
 expectorant
@@ -13383,6 +13382,7 @@ exemplify
 exposture
 encephalola
 erythrin
+emotion
 epanaphoral
 exter
 entrapments
