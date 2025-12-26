@@ -2539,7 +2539,6 @@ geothermal
 gilliver
 glusid
 guanacos
-gweduc
 generalistic
 gaudier
 glen
@@ -2548,6 +2547,7 @@ gingle
 grue
 generations
 gastrula
+gweduc
 gobangs
 ganch
 grig
