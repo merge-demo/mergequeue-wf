@@ -1001,7 +1001,6 @@ gadoids
 galenoid
 gabgab
 generously
-glissette
 gordunite
 ganga
 gangamopteris
@@ -2002,6 +2001,7 @@ golliwog
 gateman
 gadaria
 gums
+glissette
 gauzewing
 gomorrah
 gantleted
