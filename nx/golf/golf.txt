@@ -1083,6 +1083,7 @@ guarding
 graphicness
 gowdy
 goularo
+galilees
 genitives
 glossaries
 ganister
@@ -7024,7 +7025,6 @@ gramash
 greenweed
 glacially
 glovers
-galilees
 guys
 genteelism
 geomantical
