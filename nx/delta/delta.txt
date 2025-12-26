@@ -1152,7 +1152,6 @@ dire
 distractingly
 dasiphora
 darren
-doubted
 dombeya
 dasypod
 dispaint
@@ -9289,6 +9288,7 @@ dietotherapy
 dietotoxic
 detersive
 depletable
+doubted
 dojiggy
 diluvions
 depilation

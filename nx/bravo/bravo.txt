@@ -3473,7 +3473,6 @@ bucklandite
 bibliolatrous
 bathylite
 barquest
-bovine
 basts
 banuyo
 basural
@@ -12965,6 +12964,7 @@ blameless
 beseek
 bureaucratic
 breviloquence
+bovine
 boleros
 berthold
 boardinghouses
