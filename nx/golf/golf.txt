@@ -142,7 +142,6 @@ gallicole
 guy
 gratelike
 garrot
-geryon
 galipot
 graniteware
 gasthauser
@@ -5602,6 +5601,7 @@ geophilidae
 governeress
 gondolet
 gravity
+geryon
 golfers
 glossocomium
 guiltily
