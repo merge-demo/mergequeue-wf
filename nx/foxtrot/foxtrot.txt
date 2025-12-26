@@ -10274,7 +10274,6 @@ forebow
 flavedos
 frokin
 filum
-frolic
 felstone
 fluidglycerate
 forensics
@@ -11513,6 +11512,7 @@ filmsetting
 fistic
 foreremembered
 fab
+frolic
 furtiveness
 frena
 fuselages
