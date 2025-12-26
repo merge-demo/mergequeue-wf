@@ -6960,7 +6960,6 @@ consol
 camis
 ceratomandibular
 clocklike
-celtuce
 calor
 closefisted
 cembalo
@@ -18248,6 +18247,7 @@ crisscross
 coevolution
 coimplicate
 calumniousness
+celtuce
 cryochoric
 collectiveness
 coexerted
