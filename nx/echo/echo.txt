@@ -833,7 +833,6 @@ epitheton
 entrecote
 epop
 exulate
-ectiris
 etamines
 eriophorum
 eosinophil
@@ -2845,6 +2844,7 @@ evap
 encephalon
 eleoplast
 epipolic
+ectiris
 externalness
 eater
 epiclesis
