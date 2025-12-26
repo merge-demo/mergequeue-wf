@@ -2813,7 +2813,6 @@ baronries
 briggs
 baroque
 baconer
-bowsprits
 bureaus
 barites
 bolding
@@ -4043,6 +4042,7 @@ beakiron
 biblicoliterary
 brailing
 barms
+bowsprits
 beakless
 beaks
 beala
