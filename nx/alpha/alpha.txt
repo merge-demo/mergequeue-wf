@@ -11659,7 +11659,6 @@ acrocentric
 anaerobion
 apocrisiary
 anaerobiont
-anaerobiosis
 anaerobiotic
 anaerobium
 avanti
@@ -16666,6 +16665,7 @@ apertural
 affrighter
 antichorus
 antihumanism
+anaerobiosis
 alioth
 antimosquito
 ammochryse
