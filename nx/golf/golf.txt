@@ -3931,7 +3931,6 @@ garrisons
 gipsy
 gynaecocratic
 geneal
-gigawatt
 gutser
 garote
 galagos
@@ -5623,6 +5622,7 @@ gloomily
 gloomings
 graveward
 gunyang
+gigawatt
 germanics
 gubernacular
 geyserine
