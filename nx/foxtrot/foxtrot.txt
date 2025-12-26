@@ -849,7 +849,6 @@ failsafe
 farforthly
 flexing
 fellness
-farenheit
 fantasmal
 fundus
 fantasms
@@ -1408,6 +1407,7 @@ flummery
 fossils
 fightwite
 femorofibular
+farenheit
 formulators
 federacy
 fatbacks
