@@ -6301,7 +6301,6 @@ fluked
 fertilisability
 fuliginosity
 fluent
-follicle
 foresteep
 ferryhouse
 fob
@@ -6448,6 +6447,7 @@ floretty
 fisherboat
 feltman
 froisse
+follicle
 footbaths
 feneration
 fluotantalic
