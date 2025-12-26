@@ -4814,6 +4814,7 @@ frostbiter
 fibrinuria
 fumish
 flume
+fungi
 fracticipita
 faunus
 fishberries
@@ -6439,7 +6440,6 @@ frictionable
 flatcap
 fairs
 fibrinolysis
-fungi
 fistulariidae
 finery
 flapjack
