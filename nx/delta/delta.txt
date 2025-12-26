@@ -12213,7 +12213,6 @@ disherent
 disfortune
 dramatism
 diomedea
-deinsularize
 disbandment
 directional
 dormie
@@ -17571,6 +17570,7 @@ drums
 decalcifier
 drumstick
 drumwood
+deinsularize
 drunk
 drunkards
 dinoflagellatae
