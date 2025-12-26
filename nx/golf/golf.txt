@@ -6802,7 +6802,6 @@ garle
 glutimate
 gonococci
 glossopharyngeus
-gratuitous
 genitors
 gonococcocci
 gonopore
@@ -9154,6 +9153,7 @@ galvanometric
 gaffers
 grusinian
 gangplanks
+gratuitous
 goosepimply
 grooming
 gardant
