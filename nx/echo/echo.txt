@@ -4550,6 +4550,7 @@ erucin
 encephalomyocarditis
 emancipate
 enactive
+epiplasm
 emerita
 ephorate
 encephalopathia
@@ -13698,7 +13699,6 @@ externe
 excursionize
 expiatist
 ermanaric
-epiplasm
 equiaxe
 ergocalciferol
 externs
