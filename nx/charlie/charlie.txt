@@ -43,7 +43,6 @@ cherrystones
 cocozelle
 caballero
 caballo
-ceratopteridaceous
 caballos
 cardiae
 carbodiimide
@@ -3230,6 +3229,7 @@ chinoiserie
 caboclos
 capilli
 capilliculture
+ceratopteridaceous
 cogracious
 clunks
 cosmoid
