@@ -7522,6 +7522,7 @@ bestowage
 beveil
 bevelled
 bardism
+baseband
 belayer
 beveller
 bookbinder
@@ -10071,7 +10072,6 @@ blacklisting
 bullheadedness
 bradynosus
 boudoiresque
-baseband
 bizel
 bizonal
 bioseston
