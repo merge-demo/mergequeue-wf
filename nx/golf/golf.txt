@@ -886,6 +886,7 @@ gametangia
 gerontomorphosis
 grillwork
 gotha
+gunfighter
 glycoluril
 gametocyte
 grayout
@@ -9523,7 +9524,6 @@ garvey
 glenn
 generalizer
 gloving
-gunfighter
 ganoidean
 grouser
 gunmetals
