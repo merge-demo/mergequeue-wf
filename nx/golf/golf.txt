@@ -1268,7 +1268,6 @@ gyrator
 galium
 glyphographer
 grallina
-gnatsnapper
 ganges
 granch
 ganglioid
@@ -10307,6 +10306,7 @@ getsul
 gullygut
 gonorrheal
 grecism
+gnatsnapper
 gilling
 goralog
 gleaner
