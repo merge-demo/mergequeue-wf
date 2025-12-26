@@ -3916,6 +3916,7 @@ guidance
 ghat
 geomorphy
 gnoff
+genep
 gladatorial
 graphicly
 gigatons
@@ -5827,7 +5828,6 @@ gate
 gymnosporangium
 gynoecium
 glucate
-genep
 gorevan
 gibelite
 gastrostomies
