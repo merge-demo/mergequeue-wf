@@ -375,7 +375,6 @@ fluids
 flowerily
 fattiness
 flusterer
-faints
 forcedness
 franklandite
 frothed
@@ -7011,6 +7010,7 @@ functor
 frittered
 forestress
 frescoist
+faints
 fictionistic
 factorially
 fichtelite
