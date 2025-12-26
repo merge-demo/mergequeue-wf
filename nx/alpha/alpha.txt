@@ -921,7 +921,6 @@ abstort
 afterings
 astriction
 atomistics
-absolvitor
 aglisten
 aldolize
 alloxy
@@ -1769,6 +1768,7 @@ apochromatic
 acedy
 acedias
 abbreviature
+absolvitor
 agalloch
 astigmia
 ammonitiferous
