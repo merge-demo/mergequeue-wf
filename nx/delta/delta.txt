@@ -8444,7 +8444,6 @@ diamagnet
 diamagnetic
 dredging
 ditrochee
-deflexed
 dooxidize
 dextro
 decrowns
@@ -16186,6 +16185,7 @@ deallocates
 defats
 doweress
 dingeys
+deflexed
 dunches
 dent
 dioestrous

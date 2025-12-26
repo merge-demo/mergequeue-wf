@@ -2163,7 +2163,6 @@ gds
 gaycat
 gastrotomy
 grainer
-gaze
 gizzards
 genteelly
 glout
@@ -10114,6 +10113,7 @@ gaskets
 gabe
 greenbrier
 gauderies
+gaze
 grummels
 granado
 guetre
