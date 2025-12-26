@@ -11165,7 +11165,6 @@ expatriation
 embroiderer
 exiguousness
 ensiform
-ectatic
 evacuator
 evaded
 echinoidea
@@ -13739,6 +13738,7 @@ ectoenzym
 enzyme
 extinguished
 extinguisher
+ectatic
 extinguishers
 ectoplasm
 extipulate
