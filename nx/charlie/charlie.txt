@@ -23475,7 +23475,6 @@ contending
 contendress
 cornstalk
 civil
-contends
 cimeter
 contenement
 contrapuntal
@@ -25296,6 +25295,7 @@ concetto
 chamaecrista
 coardent
 cormidium
+contends
 concolour
 circulin
 cormogen
