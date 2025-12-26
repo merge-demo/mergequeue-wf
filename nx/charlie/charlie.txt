@@ -16023,6 +16023,7 @@ comprint
 carcinosis
 clerkless
 cerecloths
+clyde
 clerkliness
 chlorocarbon
 clerkship
@@ -16110,7 +16111,6 @@ choux
 clicks
 clidastes
 cinclidae
-clyde
 collards
 clydesider
 clientage
