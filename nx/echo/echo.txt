@@ -3711,7 +3711,6 @@ emission
 expectant
 elec
 eluates
-effluvium
 epitheliosis
 enantiotropic
 explorate
@@ -8107,6 +8106,7 @@ exhausting
 enthusiastic
 enforcedly
 epiploce
+effluvium
 exacum
 epiplocele
 epiploitis
