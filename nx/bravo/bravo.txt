@@ -6821,6 +6821,7 @@ belard
 bertolonia
 bioacoustics
 basigenous
+bangtails
 bertrum
 bullarium
 beachy
@@ -10888,7 +10889,6 @@ burroughs
 backhands
 blimbing
 bouzouki
-bangtails
 bay
 britishers
 beelzebubian

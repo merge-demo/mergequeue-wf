@@ -804,7 +804,6 @@ encephalography
 enter
 euplotid
 existability
-extravisceral
 evincibly
 eggment
 ectasis
@@ -11227,6 +11226,7 @@ eradiated
 evangeliarium
 enalyron
 ethine
+extravisceral
 electropuncture
 evangelic
 evangelical
