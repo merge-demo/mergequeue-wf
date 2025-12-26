@@ -5791,7 +5791,6 @@ fawned
 forebear
 fossiliferous
 flitterbat
-fructicultural
 fumeroot
 fallage
 forgettingly
@@ -9563,6 +9562,7 @@ furnace
 fieldmouse
 fruitfullness
 financier
+fructicultural
 favouress
 flyted
 farmable
