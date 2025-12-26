@@ -3767,7 +3767,6 @@ chromoxylography
 caravanserial
 companeros
 caravel
-confuse
 caravels
 cosen
 caraway
@@ -4026,6 +4025,7 @@ cosmosphere
 corniculate
 coassisted
 cajoleries
+confuse
 crotalinae
 carcharias
 cerotene
