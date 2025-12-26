@@ -9386,6 +9386,7 @@ federator
 frocks
 frostbiting
 forlore
+forestership
 fascinates
 flocculant
 fleecier
@@ -11396,7 +11397,6 @@ frosk
 feater
 furcular
 forksmith
-forestership
 fidgeted
 flumdiddle
 forcemeat
