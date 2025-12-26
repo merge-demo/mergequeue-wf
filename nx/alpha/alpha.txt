@@ -5735,6 +5735,7 @@ aciculate
 atoning
 autocoder
 adawn
+astrocompass
 awl
 agaricaceous
 agarics
@@ -22345,7 +22346,6 @@ aplanat
 autoreduction
 amplect
 atmologist
-astrocompass
 astrodiagnosis
 androphyll
 afterbodies
