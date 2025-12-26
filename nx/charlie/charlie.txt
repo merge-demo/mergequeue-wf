@@ -8952,6 +8952,7 @@ charadrius
 charango
 chorioidal
 colibacillosis
+captans
 chuddars
 charases
 charbonnier
@@ -14676,7 +14677,6 @@ cistophorus
 coadjustment
 cystophotography
 coxier
-captans
 checkmating
 catch
 concomitancy
