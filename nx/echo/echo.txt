@@ -101,7 +101,6 @@ enumerate
 earpick
 earpiece
 enchisel
-enmarble
 earreach
 engineership
 enamoured
@@ -10898,6 +10897,7 @@ euphonically
 epizoism
 exmoor
 endangerer
+enmarble
 eucrasia
 equaller
 electromyographically
