@@ -8916,7 +8916,6 @@ evenhead
 estaminets
 expectorators
 entoderms
-ergograph
 embitter
 emeroids
 ergomaniac
@@ -12811,6 +12810,7 @@ espials
 exotericism
 extenuated
 echinops
+ergograph
 emboldener
 embossmen
 eonisms
