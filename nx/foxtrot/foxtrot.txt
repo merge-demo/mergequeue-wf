@@ -1069,6 +1069,7 @@ foreribs
 farrago
 franchisement
 flichters
+fortuities
 foreswear
 feriae
 foundryman
@@ -10516,7 +10517,6 @@ fids
 flyback
 frottola
 federalizations
-fortuities
 feodality
 featherback
 frotton
