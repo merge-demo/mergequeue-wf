@@ -3866,7 +3866,6 @@ gaelicization
 glumpy
 glazed
 gloweringly
-gigahertzes
 galloperdix
 gigaherz
 gymnarchidae
@@ -6828,6 +6827,7 @@ gallican
 gamelotte
 gymnodontes
 gliders
+gigahertzes
 gastroenterostomies
 gunnings
 gagwriter
