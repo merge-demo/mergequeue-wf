@@ -8868,7 +8868,6 @@ endocellular
 eremitism
 euploidy
 ecuelling
-epitheloid
 enkernel
 ecospecifically
 esthesiometer
@@ -12116,6 +12115,7 @@ excruciating
 excruciator
 excubitoria
 electrolysing
+epitheloid
 eradicator
 entwisting
 excud
