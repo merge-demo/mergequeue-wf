@@ -3456,6 +3456,7 @@ exemplar
 ecliptic
 embatholithic
 enfiladed
+esd
 epigean
 extradoses
 exteriors
@@ -10917,7 +10918,6 @@ euploidies
 euphorically
 euphotide
 excommunicate
-esd
 evoked
 euphues
 epipedometry
