@@ -2830,7 +2830,6 @@ dossers
 declarator
 decried
 desistive
-deerflys
 disulphonate
 decries
 decrying
@@ -18045,6 +18044,7 @@ dullification
 dambrod
 dulling
 dermestoid
+deerflys
 derail
 divisionist
 disturbing
