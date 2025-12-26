@@ -4402,7 +4402,6 @@ fossate
 feirie
 fowlpox
 fleta
-fishfinger
 footgear
 fetters
 fl
@@ -8461,6 +8460,7 @@ freethinking
 fulminous
 fuliginousness
 fuze
+fishfinger
 formating
 formation
 felliducous
