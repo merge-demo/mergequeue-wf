@@ -14379,7 +14379,6 @@ circumstancing
 circumstant
 coelacanthid
 chronometry
-circumstantiality
 circumstantialities
 circumstantialness
 circumstantiate
@@ -19121,6 +19120,7 @@ clarencieux
 cardiasthma
 chloridizing
 collimated
+circumstantiality
 collimates
 collimation
 collimator
