@@ -8226,6 +8226,7 @@ fluoroscoping
 fishways
 faded
 frijolito
+firmity
 fractur
 faze
 forage
@@ -11481,7 +11482,6 @@ finnmarks
 facades
 furthest
 flittering
-firmity
 fiercened
 furtively
 flamboyant
