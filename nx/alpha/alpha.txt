@@ -4920,6 +4920,7 @@ astrogator
 aerolites
 avulsions
 admonitioner
+arrange
 antepalatal
 aerolithology
 aerolitic
@@ -15648,7 +15649,6 @@ arquebusier
 antiope
 affectable
 aufait
-arrange
 australite
 ascomycetes
 accustoming
