@@ -743,6 +743,7 @@ geomechanics
 gombeen
 goumi
 galvanoplasty
+gastrocolotomy
 grovers
 gansa
 gastrohysterorrhaphy
@@ -7417,7 +7418,6 @@ geylies
 guiltlessness
 gotra
 germarium
-gastrocolotomy
 gaudery
 galen
 gruffiest
