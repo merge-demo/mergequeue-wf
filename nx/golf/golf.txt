@@ -1654,7 +1654,6 @@ gastroenteroptosis
 graculus
 grammates
 gonnardite
-geratic
 gladder
 greenhouses
 gastrocnemii
@@ -5787,6 +5786,7 @@ grieveship
 gussy
 glorifiable
 gym
+geratic
 grain
 goldsmith
 geometric
