@@ -2241,7 +2241,6 @@ galax
 gonidiogenous
 greggriffin
 gehlenite
-goblet
 grunted
 geoplanidae
 gonimic
@@ -3636,6 +3635,7 @@ gedder
 gro
 gastroenterological
 gluconeogenic
+goblet
 goldest
 gauntleted
 gillnetting
