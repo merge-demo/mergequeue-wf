@@ -274,7 +274,6 @@ gaslock
 gaddish
 groundliness
 grubstaked
-globins
 geet
 glossophora
 gaintwist
@@ -2681,6 +2680,7 @@ gravelous
 guaican
 goggled
 gymnodont
+globins
 genic
 gradgrindian
 georgians

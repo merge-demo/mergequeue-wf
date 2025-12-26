@@ -1341,6 +1341,7 @@ funniment
 flichtered
 financiering
 felspath
+fenestella
 firestop
 foreseer
 filmography
@@ -3397,7 +3398,6 @@ farcie
 fustanella
 floc
 featherlike
-fenestella
 forestate
 fielders
 forset
