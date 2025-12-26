@@ -2229,7 +2229,6 @@ campo
 creedbound
 campodeoid
 campong
-conjunctivas
 campongs
 convincing
 counterclaiming
@@ -13929,6 +13928,7 @@ clavatin
 cyclodiolefin
 cautionings
 cautivo
+conjunctivas
 cinnamodendron
 chondroclast
 cusconin
