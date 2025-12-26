@@ -4315,7 +4315,6 @@ blouselike
 bebrush
 bebuttoned
 below
-barkeepers
 bushwood
 bibliotherapeutic
 blubbers
@@ -16224,6 +16223,7 @@ browbeating
 bathmotropism
 baiter
 browden
+barkeepers
 browet
 blossoms
 brander
