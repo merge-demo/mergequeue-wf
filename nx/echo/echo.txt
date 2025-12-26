@@ -4304,7 +4304,6 @@ escarpments
 ectogenous
 engs
 enhydra
-equiponderate
 excerpts
 effectible
 edifyingly
@@ -10361,6 +10360,7 @@ ellagic
 ethylamime
 elytra
 ethnopsychology
+equiponderate
 enthuses
 epistolary
 elkoshite
