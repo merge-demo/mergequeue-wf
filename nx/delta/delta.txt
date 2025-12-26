@@ -15188,6 +15188,7 @@ dialectalize
 doli
 disulphide
 dolcemente
+dulcian
 dolci
 dolciano
 dardaol
@@ -15893,7 +15894,6 @@ dressings
 decapodiform
 dosser
 dosseret
-dulcian
 dempster
 dosses
 dossy
