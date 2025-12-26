@@ -4959,7 +4959,6 @@ flong
 foremarch
 fomenters
 flowcharting
-fintadores
 frenulum
 flyway
 feebleheartedly
@@ -11668,6 +11667,7 @@ ferrety
 flames
 futurama
 floodometer
+fintadores
 frowsty
 flibustier
 furcates
