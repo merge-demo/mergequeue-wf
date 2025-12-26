@@ -6811,6 +6811,7 @@ bulkages
 bibliotaphic
 batten
 berthed
+bronzelike
 birdeye
 berther
 bradypodoid
@@ -17958,7 +17959,6 @@ bookbinding
 byssinosis
 bedot
 bemoult
-bronzelike
 bushwhacked
 bushwhackers
 boheas
