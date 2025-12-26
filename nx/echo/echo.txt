@@ -1463,7 +1463,6 @@ expdt
 epipaleolithic
 endoenteritis
 erythroclastic
-erythroscope
 entreating
 emblazons
 ejectivity
@@ -8252,6 +8251,7 @@ epipharyngeal
 epistatic
 empyrosis
 episodial
+erythroscope
 epistaxis
 epistemically
 extemporising
