@@ -4669,7 +4669,6 @@ diplomatize
 demythologizer
 duodecimal
 discretionally
-dees
 delectableness
 demitint
 demitoilet
@@ -14493,6 +14492,7 @@ decurrency
 deferment
 divested
 doradidae
+dees
 dicynodontidae
 delphinic
 davit
