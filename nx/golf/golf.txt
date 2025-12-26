@@ -5110,6 +5110,7 @@ gummas
 gromatics
 grassland
 glycoside
+gasteromycete
 glossate
 gregarinous
 glali
@@ -8695,7 +8696,6 @@ garths
 gannetry
 grassily
 gilsonite
-gasteromycete
 glyphograph
 greedyguts
 guaconize
