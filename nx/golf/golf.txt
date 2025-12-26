@@ -8567,6 +8567,7 @@ geranomorph
 geodetical
 gusla
 gilo
+garse
 germaneness
 gasolene
 gemuti
@@ -9643,7 +9644,6 @@ granulomata
 grozer
 grubbery
 grintern
-garse
 glochidian
 ghanian
 griffinish
