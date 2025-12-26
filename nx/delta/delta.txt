@@ -3665,6 +3665,7 @@ degorge
 degradative
 degraded
 degradement
+disburses
 dozing
 depsid
 disrupt
@@ -14248,7 +14249,6 @@ deme
 dene
 drygoodsman
 dumbly
-disburses
 disembargo
 ditchers
 deathwards
