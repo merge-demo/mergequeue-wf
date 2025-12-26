@@ -1635,7 +1635,6 @@ abnet
 adenophoreus
 aerenterectasia
 accroaching
-anaclitic
 accroides
 accruable
 atty
@@ -8555,6 +8554,7 @@ atmophile
 allegata
 allegations
 allegers
+anaclitic
 anthophyllite
 antiatheistical
 alleges

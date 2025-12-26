@@ -4803,7 +4803,6 @@ bedread
 bedrench
 backups
 baldling
-blast
 bed
 bedribble
 burglarizes
@@ -11885,6 +11884,7 @@ bodykins
 bodilize
 bahuvrihi
 barbedness
+blast
 bellowed
 beento
 braggest
