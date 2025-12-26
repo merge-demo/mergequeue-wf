@@ -3135,7 +3135,6 @@ allotropy
 aurin
 accordion
 actioner
-alcaid
 adiaphory
 actiones
 abrazitic
@@ -12176,6 +12175,7 @@ antlerite
 ancestry
 autocue
 astronautical
+alcaid
 allodge
 asgard
 andaman
