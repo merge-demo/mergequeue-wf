@@ -18652,7 +18652,6 @@ aurified
 anhungry
 archaise
 acidanthera
-apothec
 atmolyze
 almuce
 alexipharmical
@@ -21192,6 +21191,7 @@ asexualisation
 adjection
 acicularity
 azinphosmethyl
+apothec
 asexualised
 asexuality
 acetonaphthone
