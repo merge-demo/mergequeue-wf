@@ -108,7 +108,6 @@ cabdriving
 corydora
 cabecudo
 capellet
-cabeliau
 cabestro
 cabestros
 chalinidae
@@ -8202,6 +8201,7 @@ chlortetracycline
 chumping
 craspedon
 chainlike
+cabeliau
 confrontal
 chainmaker
 chainman
