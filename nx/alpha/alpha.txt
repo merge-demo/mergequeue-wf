@@ -9147,7 +9147,6 @@ apostle
 assientist
 aquiculture
 aerarian
-apetaloid
 abranchiate
 alpigene
 almice
@@ -13183,6 +13182,7 @@ animating
 amphibolic
 amoks
 anagraph
+apetaloid
 areosystyle
 animatistic
 animato
