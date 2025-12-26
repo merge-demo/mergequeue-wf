@@ -6228,7 +6228,6 @@ fluctuational
 factioneer
 fluegelhorn
 foalfoot
-forefence
 fairgrounds
 forlana
 fatlings
@@ -9948,6 +9947,7 @@ formulising
 forsythias
 ferromagnetism
 furze
+forefence
 friesian
 fittable
 friezer
