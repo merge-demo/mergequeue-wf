@@ -4696,6 +4696,7 @@ gooder
 gibbsite
 gauping
 geisothermal
+graphiology
 glycerate
 gigged
 galchic
@@ -10418,7 +10419,6 @@ gillbird
 giller
 gapingstock
 geepound
-graphiology
 grandstand
 genio
 gum
