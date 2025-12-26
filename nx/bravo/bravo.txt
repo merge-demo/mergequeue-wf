@@ -4733,7 +4733,6 @@ bluegown
 ballpoint
 bobsleds
 bushier
-bathymetrically
 brides
 bunce
 busywork
@@ -13000,6 +12999,7 @@ bopeep
 blueleg
 braciola
 bopped
+bathymetrically
 biosterin
 bombastical
 bokadam
