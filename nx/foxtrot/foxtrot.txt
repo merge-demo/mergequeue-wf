@@ -8382,7 +8382,6 @@ foliage
 foreleg
 fossilological
 forlain
-fatten
 fetted
 flanning
 fruitcakes
@@ -10335,6 +10334,7 @@ feezing
 ferrado
 fantasized
 frondlet
+fatten
 frondose
 focometer
 frustrated
