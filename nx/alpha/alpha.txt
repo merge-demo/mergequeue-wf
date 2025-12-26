@@ -914,7 +914,6 @@ antiopium
 apostrophi
 absolutist
 absolutize
-absolvatory
 absolves
 absolving
 abstort
@@ -15201,6 +15200,7 @@ adalid
 appetizing
 anakinesis
 antimonsoon
+absolvatory
 adempted
 alvia
 arterioles
