@@ -1937,7 +1937,6 @@ balsa
 bandrol
 battens
 beatific
-bonniest
 boreus
 bandsawn
 bandsman
@@ -3522,6 +3521,7 @@ batboys
 bespawl
 blubberous
 bissext
+bonniest
 birdcall
 batched
 batcher
