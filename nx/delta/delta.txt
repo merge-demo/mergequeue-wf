@@ -1605,7 +1605,6 @@ dunkirker
 deafly
 deafmuteness
 disembrace
-deafness
 docs
 deairing
 discernableness
@@ -3324,6 +3323,7 @@ decapitalization
 definite
 definitely
 distrait
+deafness
 definiteness
 dahlin
 deergrass
