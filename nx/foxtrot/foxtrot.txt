@@ -2207,7 +2207,6 @@ feminin
 frecklish
 fondlesome
 fluorinates
-foals
 feminineness
 feudee
 follows
@@ -4422,6 +4421,7 @@ fraiser
 fei
 falsary
 fovent
+foals
 flogmaster
 fumishly
 fledgier
