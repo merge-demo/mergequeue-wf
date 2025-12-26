@@ -3031,7 +3031,6 @@ eleoblast
 evaluate
 extine
 efflorescence
-evocative
 extern
 encorpore
 externa
@@ -3221,6 +3220,7 @@ ejaculum
 extraserous
 entomophagous
 episcopation
+evocative
 enamoring
 esperantist
 enamelwork
