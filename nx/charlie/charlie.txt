@@ -7553,7 +7553,6 @@ crinch
 ceratophyllum
 ceratophyta
 colocephalous
-caneware
 crozier
 ceratopsian
 calapitte
@@ -21354,6 +21353,7 @@ conchyliferous
 conchylium
 caerphilly
 cinchonised
+caneware
 countermissile
 counterblow
 concho
