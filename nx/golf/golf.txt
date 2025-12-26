@@ -6447,7 +6447,6 @@ gillaroo
 goldener
 gidgee
 guldens
-guary
 grogshop
 goldentop
 glochideous
@@ -6619,6 +6618,7 @@ glassine
 gaed
 goncalo
 geminating
+guary
 globulysis
 glycosuria
 gossans
