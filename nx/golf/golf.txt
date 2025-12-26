@@ -2650,7 +2650,6 @@ glow
 garg
 germantown
 globulicidal
-geo
 genetika
 gurgeon
 gathering
@@ -10196,6 +10195,7 @@ guidwife
 geladas
 gooneys
 graze
+geo
 gtd
 giustamente
 genae
