@@ -1031,6 +1031,7 @@ gloriette
 galvanoscopy
 geodist
 grasp
+grondwet
 golp
 glanced
 gymnonoti
@@ -4938,7 +4939,6 @@ gardens
 grenadierly
 guddle
 gnathophorous
-grondwet
 gamines
 gladioluses
 glabreity
