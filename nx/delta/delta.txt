@@ -9323,7 +9323,6 @@ differenced
 differences
 dryad
 destroyable
-dunces
 differentiability
 differentiae
 deliquescing
@@ -16957,6 +16956,7 @@ didepsid
 dree
 dreepy
 docentship
+dunces
 dayan
 drometer
 drencher
