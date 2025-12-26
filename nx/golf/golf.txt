@@ -5059,7 +5059,6 @@ glued
 gnarr
 griecep
 glassies
-galoisian
 gillied
 grasni
 guddler
@@ -10678,6 +10677,7 @@ generalty
 glycerols
 gurnard
 gildsman
+galoisian
 gib
 gastroenteroptosis
 glaucomatous
