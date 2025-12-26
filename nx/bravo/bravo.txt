@@ -1072,7 +1072,6 @@ biogenic
 bedizenment
 blemishing
 baioc
-begattal
 braciole
 boresomeness
 baiocchi
@@ -18302,6 +18301,7 @@ bermuda
 bullockite
 button
 buttonball
+begattal
 basaltoid
 buttonbush
 bivalve
