@@ -9290,7 +9290,6 @@ errhines
 encyclopedize
 extraclassroom
 erron
-empathies
 electrotellurograph
 externalist
 entrep
@@ -13567,6 +13566,7 @@ epikeia
 esoteric
 exsufflate
 exsufflation
+empathies
 epithymetical
 extracutaneous
 evasions
