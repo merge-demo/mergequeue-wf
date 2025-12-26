@@ -1444,7 +1444,6 @@ filasse
 firmness
 futhork
 fatuitous
-foothil
 familiarise
 floorwalkers
 fringing
@@ -3371,6 +3370,7 @@ floramour
 fuller
 flyweights
 feignedly
+foothil
 filtre
 faculative
 finmarks
