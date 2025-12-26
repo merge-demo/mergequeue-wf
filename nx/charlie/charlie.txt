@@ -2858,6 +2858,7 @@ canonesses
 canonicalization
 cinctures
 canonicalized
+cordant
 canonicalizes
 croaked
 circumventive
@@ -15328,7 +15329,6 @@ corgis
 clamour
 concuss
 contune
-cordant
 copalchi
 clamouring
 collembolan
