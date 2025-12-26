@@ -2176,6 +2176,7 @@ goniostat
 glistening
 gebbie
 guardians
+glassines
 gecarcinian
 greasepaint
 gecarcinidae
@@ -5061,7 +5062,6 @@ galoisian
 gillied
 grasni
 guddler
-glassines
 galloping
 glassiness
 glasslikeness
