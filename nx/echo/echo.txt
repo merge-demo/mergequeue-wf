@@ -11617,6 +11617,7 @@ empires
 ewes
 engraphia
 eucalypt
+exhuming
 envenomous
 everywhereness
 expatiation
@@ -12446,7 +12447,6 @@ effectuate
 exhumatory
 emancipations
 equilibrial
-exhuming
 epifaunal
 enthronization
 elegiac
