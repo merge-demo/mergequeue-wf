@@ -1084,7 +1084,6 @@ dearticulation
 dartled
 dedecorate
 defuses
-dartling
 decanoyl
 downpour
 defluxion
@@ -5045,6 +5044,7 @@ drovy
 demographers
 denaturants
 docilely
+dartling
 dueller
 denaturing
 duplicand
