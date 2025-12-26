@@ -9612,6 +9612,7 @@ checkstring
 cuissen
 checksum
 construct
+cocarde
 checksumming
 castro
 cistaceae
@@ -17588,7 +17589,6 @@ cocao
 chaneling
 charnel
 caped
-cocarde
 chomped
 cocash
 cocause
