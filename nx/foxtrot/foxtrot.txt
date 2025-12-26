@@ -6658,7 +6658,6 @@ flossing
 forenotice
 foemanship
 fripperer
-fecifork
 foemen
 forethoughtfully
 frankfold
@@ -7467,6 +7466,7 @@ ferredoxin
 firecrest
 finner
 freemen
+fecifork
 flagginess
 forcipation
 flutelike
