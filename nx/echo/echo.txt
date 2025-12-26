@@ -3841,7 +3841,6 @@ escribano
 emerald
 elasticities
 emerge
-ecart
 escapology
 emerged
 echinostomiasis
@@ -11728,6 +11727,7 @@ essayism
 epinard
 expunge
 exanthemas
+ecart
 enclasped
 epicrises
 examen
