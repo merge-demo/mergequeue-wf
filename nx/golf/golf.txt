@@ -876,7 +876,6 @@ glove
 gers
 glossarize
 guily
-goffer
 ghatti
 gymnophiona
 guerrilla
@@ -3947,6 +3946,7 @@ grice
 ganner
 graphis
 gimping
+goffer
 gouges
 grubworms
 gigawatts
