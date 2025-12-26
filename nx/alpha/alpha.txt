@@ -22426,7 +22426,6 @@ anthropomorphize
 aliments
 astrometeorology
 arber
-aforenamed
 apprend
 arctically
 asterina
@@ -22713,6 +22712,7 @@ afterwhile
 advancement
 athletes
 areologically
+aforenamed
 achenodium
 agkistrodon
 arthrology
