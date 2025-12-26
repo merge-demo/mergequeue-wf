@@ -3097,7 +3097,6 @@ estriche
 ellenyard
 equilater
 emetia
-exhaustible
 excreters
 eardrop
 enseraph
@@ -11174,6 +11173,7 @@ ensiform
 evacuator
 evaded
 echinoidea
+exhaustible
 earthlier
 evades
 expurgational
