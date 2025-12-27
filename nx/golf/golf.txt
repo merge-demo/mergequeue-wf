@@ -795,7 +795,6 @@ gastrular
 gonia
 goldbeater
 gourmanderie
-gambeered
 glauke
 greenlandite
 glucosane
@@ -1912,6 +1911,7 @@ garnet
 glutoid
 gynecocratic
 gnomesque
+gambeered
 gelandelaufer
 gravewards
 guideship
