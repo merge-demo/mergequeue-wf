@@ -5419,7 +5419,6 @@ biolite
 barbacoa
 backslapping
 behallow
-bowldering
 bedin
 betwit
 behammer
@@ -12014,6 +12013,7 @@ biod
 bacchical
 bogtrotting
 batfowler
+bowldering
 bombastry
 bimillenary
 brother
