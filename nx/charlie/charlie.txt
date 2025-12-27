@@ -8787,7 +8787,6 @@ chapelgoing
 cockpits
 chapelize
 chirpier
-coccolithophorid
 chapellany
 chapelled
 cimnel
@@ -14058,6 +14057,7 @@ cypraeiform
 confinement
 cypraeoid
 cypre
+coccolithophorid
 cypress
 courtesanry
 cistuses
