@@ -7332,7 +7332,6 @@ electrojet
 ephorates
 enravishment
 epapophysis
-easeled
 evangeliser
 exosphere
 expulsing
@@ -12522,6 +12521,7 @@ emissaria
 enhalos
 eugeny
 exoskeleton
+easeled
 exist
 emphlysis
 existed
