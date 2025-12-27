@@ -3472,6 +3472,7 @@ caprimulgiformes
 chinwood
 caprin
 candlebeam
+chamfrons
 cimelia
 caprioles
 capriote
@@ -19607,7 +19608,6 @@ condemned
 creophagist
 columbine
 climactic
-chamfrons
 cusp
 crocky
 copesetic
