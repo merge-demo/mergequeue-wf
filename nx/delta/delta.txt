@@ -6347,7 +6347,6 @@ denary
 drassid
 dermoneurosis
 decent
-downtrod
 discordful
 doctrinal
 dolus
@@ -12060,6 +12059,7 @@ deacon
 disensanity
 dismayedness
 dunderheaded
+downtrod
 discous
 doglike
 discontinuity
