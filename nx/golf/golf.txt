@@ -887,7 +887,6 @@ gerontomorphosis
 grillwork
 gotha
 gunfighter
-glycoluril
 gametocyte
 grayout
 gametogenic
@@ -4665,6 +4664,7 @@ gestes
 guttery
 gliadins
 gyrovagues
+glycoluril
 gloy
 gurjun
 girshes
