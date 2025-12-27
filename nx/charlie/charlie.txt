@@ -4704,7 +4704,6 @@ compartmentalizing
 carnic
 caroteel
 costosuperior
-cornelius
 carotenes
 chaser
 carneol
@@ -26307,6 +26306,7 @@ carmel
 cholemia
 cyclostomate
 cheung
+cornelius
 complacency
 costochondral
 costoinferior
