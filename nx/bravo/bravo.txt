@@ -2600,7 +2600,6 @@ bucerotinae
 bulletined
 bedevils
 barytocelestite
-barytone
 barytons
 bowable
 bears
@@ -4162,6 +4161,7 @@ bacons
 biomedical
 blenched
 boroglyceride
+barytone
 backbend
 brenda
 beastish
