@@ -7305,7 +7305,6 @@ eimeria
 enterpillar
 eat
 enigmatize
-etchers
 epagomenae
 equerryship
 epagomenous
@@ -8243,6 +8242,7 @@ estreating
 electromagnetist
 electrofusion
 epipharyngeal
+etchers
 epistatic
 empyrosis
 episodial
