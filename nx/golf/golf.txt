@@ -2592,6 +2592,7 @@ grotty
 gametogeny
 generant
 generate
+glossarially
 guitars
 gypsiferous
 generated
@@ -10473,7 +10474,6 @@ gusset
 goosy
 guimpe
 guanophore
-glossarially
 goatbrush
 gagor
 gonium
