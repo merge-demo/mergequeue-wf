@@ -4524,7 +4524,6 @@ enamelling
 euchysiderite
 esthesiophysiology
 elsewhat
-enforcing
 exterminator
 encephalomas
 escudo
@@ -7416,6 +7415,7 @@ encolumn
 etruria
 elapsed
 etalon
+enforcing
 encheat
 escarpment
 eternalizing
