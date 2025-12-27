@@ -20967,7 +20967,6 @@ cathetometric
 compressive
 chasubles
 compressively
-compressometer
 compressors
 comprest
 collating
@@ -31660,6 +31659,7 @@ cusecs
 cush
 cushag
 collineation
+compressometer
 cushats
 crinkliness
 cushaws
