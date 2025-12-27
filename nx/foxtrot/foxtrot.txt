@@ -1712,7 +1712,6 @@ forestep
 fasciolariidae
 flourless
 foodservices
-fuselage
 faviform
 feasibly
 fashionmonger
@@ -6142,6 +6141,7 @@ flounder
 factorize
 frowardness
 faraway
+fuselage
 faciata
 flourish
 fermion
