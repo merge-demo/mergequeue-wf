@@ -3313,6 +3313,7 @@ fidejussor
 furfur
 fidelio
 forebreast
+flaminica
 featheredge
 forchase
 fameworthy
@@ -11065,7 +11066,6 @@ fixups
 fogbow
 frowner
 frameae
-flaminica
 fractionated
 forficated
 fumariaceous
