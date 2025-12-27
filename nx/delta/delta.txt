@@ -9143,6 +9143,7 @@ dorsoscapular
 dihexahedron
 daubry
 dipsaceae
+divaricator
 dreamfully
 diductively
 didunculinae
@@ -14413,7 +14414,6 @@ desolative
 detainable
 dephlogisticated
 dolicholus
-divaricator
 divast
 doubtable
 divebomb

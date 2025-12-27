@@ -7872,7 +7872,6 @@ guttide
 grisoutine
 grovelled
 gtc
-geoglossaceae
 gun
 guhayna
 goatskin
@@ -10132,6 +10131,7 @@ grano
 guffawed
 gamy
 grassers
+geoglossaceae
 grainery
 galavanting
 glia
