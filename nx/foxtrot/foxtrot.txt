@@ -6120,6 +6120,7 @@ foreshow
 firestone
 fitchering
 frightenedly
+forlornly
 fenster
 felsobanyite
 floccilation
@@ -11593,7 +11594,6 @@ fideicommissary
 forced
 fraternal
 febrifugal
-forlornly
 for
 fetch
 frenchman
