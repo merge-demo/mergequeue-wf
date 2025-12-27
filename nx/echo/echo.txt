@@ -2028,6 +2028,7 @@ elabor
 epibenthic
 episternite
 evictees
+encompass
 enantiomorphism
 emulsic
 endodontist
@@ -11400,7 +11401,6 @@ explained
 endodontics
 enneasemic
 exuvia
-encompass
 eponymist
 eventime
 entosternite
