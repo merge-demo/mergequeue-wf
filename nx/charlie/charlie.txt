@@ -18599,6 +18599,7 @@ coif
 coiffe
 complain
 coiffed
+carryover
 caustics
 clavers
 coiffeur
@@ -29112,7 +29113,6 @@ capriccettos
 crinitory
 chrism
 commercialise
-carryover
 capered
 curine
 crinkled
