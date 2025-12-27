@@ -11666,7 +11666,6 @@ amigo
 anagap
 amos
 aerotechnics
-avoure
 appraisal
 anagyrine
 anagyris
@@ -20484,6 +20483,7 @@ arteried
 americanese
 absey
 astate
+avoure
 alaunian
 axers
 adjectivally
