@@ -5419,7 +5419,6 @@ dissolves
 diplomatics
 disc
 denuder
-dermolysis
 douched
 dialysation
 dorsum
@@ -14168,6 +14167,7 @@ decrepit
 daybook
 dragoon
 daters
+dermolysis
 doctorally
 diterpene
 dougl
