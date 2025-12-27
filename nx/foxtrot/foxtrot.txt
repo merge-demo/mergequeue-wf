@@ -693,7 +693,6 @@ fobs
 firebolted
 farmstead
 fistnote
-forenotion
 farcemeat
 ferromagnetic
 futilitarianism
@@ -1268,6 +1267,7 @@ fibroblast
 formicide
 flabbergasts
 figurine
+forenotion
 foresaw
 fleys
 fertileness
