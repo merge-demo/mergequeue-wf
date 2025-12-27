@@ -2754,7 +2754,6 @@ decoration
 diogenic
 decorator
 deliberated
-devonshire
 dissembling
 decore
 dewcup
@@ -7243,6 +7242,7 @@ decertify
 damnified
 detectible
 detection
+devonshire
 diamantiferous
 deadlight
 disparatum
