@@ -1875,6 +1875,7 @@ defet
 discastle
 disponed
 docimasies
+dislimning
 douc
 decoy
 daleswoman
@@ -11828,7 +11829,6 @@ devitalised
 defiler
 discruciate
 dived
-dislimning
 damascenine
 devonport
 detoxicate
