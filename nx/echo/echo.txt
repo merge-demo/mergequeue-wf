@@ -932,7 +932,6 @@ emplaces
 exculpatory
 extravagated
 exarillate
-excisable
 eyelashes
 ectromelus
 efreet
@@ -1406,6 +1405,7 @@ epithecium
 epiclidal
 embolden
 expeded
+excisable
 emphrensy
 expirator
 ethnocentrically
