@@ -10919,7 +10919,6 @@ alb
 audiencer
 attabal
 alodia
-adipsia
 amoebiform
 arbitrer
 ambrosia
@@ -16360,6 +16359,7 @@ acriflavine
 aldoses
 aal
 anticommutative
+adipsia
 antivivisectionist
 ambuscade
 asteroidal
