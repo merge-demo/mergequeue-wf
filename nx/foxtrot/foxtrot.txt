@@ -4615,6 +4615,7 @@ flowmanostat
 foresaying
 fasciotomy
 fleckless
+fruiteries
 fruitgrowing
 fitchew
 fitified
@@ -5360,7 +5361,6 @@ fettles
 flanken
 feebleness
 fascia
-fruiteries
 ferulaic
 foldboater
 foreclosed
