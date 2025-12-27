@@ -1904,7 +1904,6 @@ foism
 fruitless
 fleeceless
 fremescent
-flitched
 fainly
 filicologist
 flowerlessness
@@ -5778,6 +5777,7 @@ freckliness
 foehns
 finings
 fulth
+flitched
 ferrochrome
 flitfold
 flytiers
