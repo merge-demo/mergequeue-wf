@@ -4978,7 +4978,6 @@ carte
 carted
 curtalax
 cartel
-chobdar
 cesarean
 circumambages
 cartelist
@@ -28769,6 +28768,7 @@ conspiracy
 crescendoing
 crescendos
 crescentade
+chobdar
 cussing
 circulator
 crescentader
