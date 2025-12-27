@@ -2480,7 +2480,6 @@ freightage
 fawningness
 fortunize
 fluters
-fatales
 ferociously
 flashforward
 fumarin
@@ -7972,6 +7971,7 @@ filibustering
 frisket
 forgivenesses
 foreshadowed
+fatales
 featherman
 flammivomous
 footles
