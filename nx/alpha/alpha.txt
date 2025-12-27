@@ -6569,7 +6569,6 @@ alectoriae
 anchoresses
 aphroditeum
 antsy
-aiglets
 affirms
 aigre
 abbatial
@@ -10671,6 +10670,7 @@ anorthography
 aminoquin
 aminosuccinamic
 airwoman
+aiglets
 applicants
 anthropoid
 aushar
