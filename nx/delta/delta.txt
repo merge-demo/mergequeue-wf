@@ -4754,6 +4754,7 @@ dromophobia
 dejected
 deriv
 disgracing
+diaphototropism
 disbudding
 dangs
 dpt
@@ -12953,7 +12954,6 @@ dognaping
 discolor
 disaffectedness
 differed
-diaphototropism
 druidesses
 disoperculate
 desmoids
