@@ -3965,7 +3965,6 @@ gigawatts
 glioma
 geoty
 graphium
-gads
 gorgoneioneia
 gastrological
 guested
@@ -10571,6 +10570,7 @@ gunmaking
 gaun
 gerbo
 gesneraceae
+gads
 gyneocracy
 gallivanter
 grasset
