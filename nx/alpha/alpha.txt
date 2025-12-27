@@ -11535,6 +11535,7 @@ arriver
 abilities
 alps
 apodes
+apophyllous
 andorra
 abelonian
 autosite
@@ -16206,7 +16207,6 @@ aosmic
 antistatism
 antistatist
 achete
-apophyllous
 agriculturally
 antisterility
 ardelio
