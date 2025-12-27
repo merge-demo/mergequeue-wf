@@ -1671,7 +1671,6 @@ excommunications
 enactors
 eyewashes
 eider
-ectomorphism
 exsecting
 enshielding
 exanthine
@@ -4723,6 +4722,7 @@ exceptionability
 evolutionize
 endemics
 electromagnets
+ectomorphism
 encyclopedic
 ebauche
 encyclopedical
