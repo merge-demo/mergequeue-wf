@@ -1536,6 +1536,7 @@ gearless
 gazump
 gastrologist
 goatpox
+ghoul
 gasper
 gunrack
 grounder
@@ -10620,7 +10621,6 @@ greenhearted
 guildite
 gunpoints
 gloomiest
-ghoul
 gunpower
 gasping
 gentled
