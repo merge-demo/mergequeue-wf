@@ -2266,7 +2266,6 @@ dungeonlike
 drummed
 diploses
 diapyetic
-deceiving
 definitized
 defuzes
 daubreeite
@@ -9051,6 +9050,7 @@ diluvy
 dictyota
 dictyotales
 dors
+deceiving
 dictyotic
 drinkability
 dailiness
