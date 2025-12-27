@@ -900,7 +900,6 @@ fissipedial
 fantigue
 freighters
 fantocine
-foreperiod
 farawayness
 firmland
 fennelflower
@@ -4562,6 +4561,7 @@ fireburn
 fisheress
 fairyfolk
 filibranchia
+foreperiod
 fishgigs
 fissuring
 flutiest
