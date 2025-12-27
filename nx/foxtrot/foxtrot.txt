@@ -6245,6 +6245,7 @@ filched
 forhow
 floccules
 focusable
+forwrap
 fascinative
 formwork
 feeblish
@@ -6625,7 +6626,6 @@ forecondemn
 fogey
 foulbrood
 focalizes
-forwrap
 forgave
 femalely
 focsle
