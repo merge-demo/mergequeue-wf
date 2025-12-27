@@ -7396,7 +7396,6 @@ detour
 duncifying
 detectability
 detouring
-deliriums
 dermacentor
 diadoche
 deflexure
@@ -16337,6 +16336,7 @@ dovetails
 daylight
 downslide
 describent
+deliriums
 disgracia
 downslip
 decibel
