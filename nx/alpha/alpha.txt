@@ -2349,6 +2349,7 @@ artifact
 awalt
 alizari
 archontate
+archical
 advertised
 assigning
 adytta
@@ -4603,7 +4604,6 @@ ayegreen
 alahee
 avikom
 aecidial
-archical
 aecidiospore
 asynchrony
 aglare
