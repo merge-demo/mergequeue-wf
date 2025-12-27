@@ -9459,7 +9459,6 @@ exteriorizing
 expand
 ecbolics
 embedment
-erysiphe
 eam
 ephahs
 euryale
@@ -9579,6 +9578,7 @@ ecotypes
 edestan
 expressing
 epilabrum
+erysiphe
 emigrated
 emptory
 expediente

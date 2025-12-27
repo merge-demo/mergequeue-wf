@@ -916,6 +916,7 @@ fluorometer
 flamed
 fermentatively
 feel
+farfels
 fluoroborate
 faradisation
 fluosilicic
@@ -5011,7 +5012,6 @@ flashtester
 faith
 fuzed
 fissive
-farfels
 filmcard
 frescoes
 functioned
