@@ -5890,7 +5890,6 @@ goliardeys
 groveless
 goldarn
 gilgames
-gewgawish
 grackle
 grogshops
 goofs
@@ -7754,6 +7753,7 @@ geist
 glaciolacustrine
 gashly
 graecomania
+gewgawish
 graecophil
 guilfat
 gittern
