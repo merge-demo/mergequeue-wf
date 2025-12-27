@@ -8556,7 +8556,6 @@ fulgid
 farctate
 fabledom
 flapped
-foreanswer
 forehatchway
 flusterate
 feltwork
@@ -11032,6 +11031,7 @@ furzery
 fuming
 foresights
 fora
+foreanswer
 filiferous
 flammulated
 fontainea
