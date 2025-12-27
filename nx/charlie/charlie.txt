@@ -8991,6 +8991,7 @@ chareter
 charette
 censers
 chemisms
+cenobium
 chargable
 combmaker
 charge
@@ -15009,7 +15010,6 @@ coumarouna
 calceolately
 citrometer
 citron
-cenobium
 carbonium
 citronalis
 comparison
