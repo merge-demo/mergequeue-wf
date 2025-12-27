@@ -1323,7 +1323,6 @@ fallowness
 frictionally
 fineleaf
 favorability
-floriage
 foramination
 falser
 fyttes
@@ -6469,6 +6468,7 @@ floretty
 feltman
 froisse
 follicle
+floriage
 footbaths
 feneration
 fluotantalic

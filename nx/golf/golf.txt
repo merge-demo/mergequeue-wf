@@ -4063,7 +4063,6 @@ gorgon
 ghastlily
 guanines
 gear
-galbulus
 gaddingly
 groomsman
 gladliest
@@ -10638,6 +10637,7 @@ gambette
 greenly
 gossipries
 gaylies
+galbulus
 gerontologies
 grantor
 giganticness
