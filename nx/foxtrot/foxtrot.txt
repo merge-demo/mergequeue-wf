@@ -2467,7 +2467,6 @@ foredetermine
 fry
 fernyear
 furison
-fernshaw
 fordo
 forehatch
 flavic
@@ -10994,6 +10993,7 @@ farde
 forecatharping
 fausen
 frostiest
+fernshaw
 flintiest
 foreproffer
 foreweep
