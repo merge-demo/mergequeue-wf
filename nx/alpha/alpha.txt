@@ -11350,7 +11350,6 @@ assigner
 approximant
 adversive
 admire
-ampul
 admonitory
 anhydremia
 apodosis
@@ -21854,6 +21853,7 @@ assimilating
 andoroba
 aerophobia
 assimilationist
+ampul
 afterattack
 abede
 assinego
