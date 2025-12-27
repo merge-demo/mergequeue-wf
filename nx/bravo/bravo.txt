@@ -971,6 +971,7 @@ bahutu
 besiren
 brissotine
 beinly
+bloodmonger
 burrel
 buddh
 bayadere
@@ -1530,7 +1531,6 @@ batterdock
 ballads
 balete
 baralipton
-bloodmonger
 blackware
 ballas
 baronetised
