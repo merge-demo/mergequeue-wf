@@ -3588,7 +3588,6 @@ extreme
 epigonus
 equinecessary
 entrefer
-embolize
 eupeptic
 epididymal
 entocone
@@ -6125,6 +6124,7 @@ elaeoptene
 epithalamiast
 entremets
 enlive
+embolize
 execeptional
 emboly
 exceed
