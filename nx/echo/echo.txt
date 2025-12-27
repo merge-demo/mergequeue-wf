@@ -2426,6 +2426,7 @@ elotherium
 electrodiagnosis
 esterling
 embiid
+entheos
 epepophysis
 epicentra
 evangelization
@@ -6146,7 +6147,6 @@ episkotister
 estuary
 endocystitis
 enlodgement
-entheos
 evelyn
 ergoplasm
 excommunicant
