@@ -5565,6 +5565,7 @@ felsitic
 flyby
 fratch
 flybys
+furacious
 forfault
 fallaciously
 filamentar
@@ -11262,7 +11263,6 @@ filibusterer
 fenks
 felly
 funster
-furacious
 file
 farces
 fernando
