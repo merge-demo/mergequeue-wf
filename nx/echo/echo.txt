@@ -2156,7 +2156,6 @@ equilibrio
 epipubes
 equiangle
 elastomers
-elastose
 embryologists
 emcees
 engarde
@@ -3271,6 +3270,7 @@ exaltedly
 eludible
 enswathes
 eluents
+elastose
 expendables
 elul
 epidemic
