@@ -3410,7 +3410,6 @@ embarge
 espier
 enteropneustal
 estimator
-equivocally
 epinephelus
 ebullate
 exurbanite
@@ -10387,6 +10386,7 @@ edulcorator
 eruct
 edmond
 exhance
+equivocally
 earwigging
 epiphanize
 electropositive
