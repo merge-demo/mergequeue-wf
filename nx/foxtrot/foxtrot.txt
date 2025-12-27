@@ -5390,7 +5390,6 @@ flutists
 fleche
 forelady
 folliculate
-flechettes
 forkhead
 fleckering
 franco
@@ -6162,6 +6161,7 @@ fecials
 flouted
 fulminations
 fretish
+flechettes
 frondigerous
 fontinalaceae
 foxfish
