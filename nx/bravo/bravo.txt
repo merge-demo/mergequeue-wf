@@ -3245,6 +3245,7 @@ biotechnological
 basilic
 bantingize
 bedouin
+biaxial
 basilica
 belverdian
 basilical
@@ -7146,7 +7147,6 @@ betongue
 besprinkle
 briskish
 bandhor
-biaxial
 bonduc
 barret
 backless
