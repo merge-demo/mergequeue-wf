@@ -8905,7 +8905,6 @@ foujdarry
 fibrousness
 foul
 flunkers
-fogger
 foulder
 fiberizer
 flatteners
@@ -9426,6 +9425,7 @@ fileted
 fantastical
 facing
 fettler
+fogger
 frislet
 foxholes
 foreweigh
