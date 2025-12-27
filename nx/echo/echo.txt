@@ -4480,7 +4480,6 @@ ectorganism
 encases
 eumenidae
 electrosensitive
-euryzygous
 electrotechnologist
 exaggerator
 extemporaneousness
@@ -11624,6 +11623,7 @@ engraphia
 eucalypt
 exhuming
 envenomous
+euryzygous
 everywhereness
 expatiation
 encephalitis
