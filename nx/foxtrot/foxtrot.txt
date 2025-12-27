@@ -4409,7 +4409,6 @@ fetters
 fl
 frenches
 fished
-folkmotes
 feulamort
 farand
 forfeit
@@ -10118,6 +10117,7 @@ firster
 foredecree
 formalise
 fearfulness
+folkmotes
 fennish
 fittyfied
 fluoborite
