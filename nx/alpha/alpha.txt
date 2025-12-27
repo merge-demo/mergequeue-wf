@@ -7343,7 +7343,6 @@ afrete
 athrocyte
 antipapist
 amitosis
-alienate
 arsyversy
 achromat
 attentate
@@ -11364,6 +11363,7 @@ amphioxus
 ampulliform
 affrightfully
 ampullula
+alienate
 amputate
 anuresis
 amputates
