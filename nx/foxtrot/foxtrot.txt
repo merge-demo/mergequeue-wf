@@ -2732,7 +2732,6 @@ ficary
 festered
 faliscan
 frizer
-floriscope
 friedelite
 foreparts
 fights
@@ -7124,6 +7123,7 @@ fripper
 flaker
 fiddleback
 finesse
+floriscope
 foreallege
 fregatae
 footage
