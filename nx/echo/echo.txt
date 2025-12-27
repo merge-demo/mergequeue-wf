@@ -2151,7 +2151,6 @@ epipubes
 equiangle
 elastomers
 elastose
-epeisodia
 embryologists
 emcees
 engarde
@@ -8562,6 +8561,7 @@ epichoristic
 equative
 electre
 eburneous
+epeisodia
 erase
 eumorphic
 enunciative
