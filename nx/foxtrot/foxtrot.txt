@@ -3429,7 +3429,6 @@ fifish
 friedcake
 forksful
 frazzle
-fantasist
 fifteens
 fencings
 frauds
@@ -7401,6 +7400,7 @@ fortunous
 feedlots
 formous
 forgivable
+fantasist
 flyness
 findy
 forbidals
