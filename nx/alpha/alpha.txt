@@ -35,6 +35,7 @@ avernus
 assort
 abac
 antecedence
+aulophyte
 area
 allseeds
 aphorized
@@ -12689,7 +12690,6 @@ acrasieae
 adversifolious
 alvan
 alkalinizing
-aulophyte
 advocateship
 anthropogenous
 alcoholized
