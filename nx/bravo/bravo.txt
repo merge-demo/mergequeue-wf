@@ -10996,7 +10996,6 @@ burliest
 baggies
 blithesomely
 backseats
-bkgd
 biddery
 bezels
 benzotriazine
@@ -13580,6 +13579,7 @@ bremeness
 bopster
 baizing
 bougainvilliidae
+bkgd
 bite
 bitangential
 bougar
