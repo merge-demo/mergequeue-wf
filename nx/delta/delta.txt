@@ -1596,7 +1596,6 @@ daikering
 disinfector
 deadwork
 dextraural
-deaf
 dynamogenous
 deafened
 doorjambs
@@ -9512,6 +9511,7 @@ depravement
 disemboweled
 disinfestation
 digitising
+deaf
 desulphurise
 digitizes
 digitizing
