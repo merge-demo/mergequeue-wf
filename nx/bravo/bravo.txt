@@ -5918,7 +5918,6 @@ bugdom
 banderillero
 belonidae
 beatnik
-bullions
 beprose
 blisses
 backslap
@@ -16259,6 +16258,7 @@ bundh
 balun
 boosted
 binodous
+bullions
 bedighted
 bilithon
 brownness
