@@ -7463,6 +7463,7 @@ albumenization
 albumenized
 autopathography
 aerophoto
+arseniferous
 albumenizer
 albumenoid
 archtreasurer
@@ -20333,7 +20334,6 @@ arsenicism
 arsenicked
 aphelia
 afterwards
-arseniferous
 autometry
 amendments
 autolith
