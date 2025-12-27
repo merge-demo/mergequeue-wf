@@ -7254,7 +7254,6 @@ factionaries
 fairer
 farers
 fimbrillose
-fiend
 fiver
 foreground
 footpad
@@ -10165,6 +10164,7 @@ fortuitus
 fissiparously
 frittering
 fuchi
+fiend
 furnit
 frivolity
 freakier
