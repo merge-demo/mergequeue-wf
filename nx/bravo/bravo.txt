@@ -2544,7 +2544,6 @@ barid
 bouser
 bereaving
 burgus
-barye
 burglarise
 butyraldehyde
 blini
@@ -8069,6 +8068,7 @@ bochur
 bicornous
 booklift
 bartend
+barye
 bagroom
 bicornuate
 bicornute
