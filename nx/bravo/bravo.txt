@@ -2041,7 +2041,6 @@ brasserie
 bedeguar
 buffoonesque
 bicollaterality
-bankrolled
 bankrolling
 bankrupt
 bosporan
@@ -11129,6 +11128,7 @@ byard
 basophobia
 bache
 bipedism
+bankrolled
 bougies
 bygane
 barotaxy
