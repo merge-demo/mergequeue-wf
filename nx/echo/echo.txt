@@ -2276,7 +2276,6 @@ encyclopedian
 encell
 epauletted
 electragy
-electress
 excessive
 epitomist
 electret
@@ -10346,6 +10345,7 @@ elephantine
 enquired
 explain
 etwite
+electress
 ethnolinguist
 eaglets
 estensible
