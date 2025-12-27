@@ -2491,7 +2491,6 @@ greekish
 grief
 geodynamic
 glandules
-goading
 grassing
 grewia
 grots
@@ -3497,6 +3496,7 @@ glathsheim
 gimper
 girny
 gilts
+goading
 grudger
 gynandromorphism
 gemul
