@@ -1565,7 +1565,6 @@ grana
 gentlemens
 gregarinida
 glaciologist
-gasser
 golliwogg
 glutelin
 gripe
@@ -4113,6 +4112,7 @@ gratifiedly
 gilder
 glycerogelatin
 giraffish
+gasser
 genapper
 gimleteyed
 glutamine

@@ -6249,7 +6249,6 @@ fluegelhorn
 foalfoot
 fairgrounds
 forlana
-fatlings
 fargoing
 filched
 forhow
@@ -11441,6 +11440,7 @@ frizers
 firebase
 fiducially
 frictionized
+fatlings
 fluviose
 falteringly
 furrily
