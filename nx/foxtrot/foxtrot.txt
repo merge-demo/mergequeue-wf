@@ -7381,7 +7381,6 @@ ferocious
 fluoridising
 formaldehydesulphoxylic
 fairyfloss
-forts
 fascis
 foredone
 forastero
@@ -10872,6 +10871,7 @@ footholds
 fanum
 flavor
 fon
+forts
 frontalis
 fluvioterrestrial
 fustianist
