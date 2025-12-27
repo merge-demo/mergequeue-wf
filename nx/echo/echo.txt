@@ -6860,7 +6860,6 @@ empoisoning
 electroimpulse
 egremoigne
 entomol
-emotions
 eyepopper
 eupolyzoan
 ensky
@@ -8870,6 +8869,7 @@ esthesiometer
 earshots
 eremuri
 ethnoflora
+emotions
 enerve
 escharoid
 englue
