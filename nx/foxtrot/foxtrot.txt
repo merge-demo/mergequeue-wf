@@ -6944,6 +6944,7 @@ foll
 facia
 fedarie
 fulgurite
+fuchsian
 formalisation
 forbode
 fastball
@@ -10801,7 +10802,6 @@ fubbery
 filamentoid
 footpads
 fluigram
-fuchsian
 floundered
 faintful
 fuchsine
