@@ -5110,7 +5110,6 @@ fluidacetextract
 freighting
 falasha
 forebespeak
-fatherling
 fractionise
 funking
 forbidding
@@ -8215,6 +8214,7 @@ frenate
 feeblemindedness
 faldetta
 fribblery
+fatherling
 foothils
 flakier
 forewritten
