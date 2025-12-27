@@ -5428,7 +5428,6 @@ behammer
 bacula
 beshine
 boarstaff
-bigarreau
 behaved
 bronchium
 bicollateral
@@ -7829,6 +7828,7 @@ brooklyn
 bazaars
 bicephalous
 biface
+bigarreau
 bark
 bronzy
 buckteeth
