@@ -5419,7 +5419,6 @@ babelic
 begulf
 blastomycotic
 bakshish
-begummed
 biolite
 barbacoa
 backslapping
@@ -12529,6 +12528,7 @@ bacquet
 bilberries
 boneshaker
 bridesman
+begummed
 bidets
 backbeat
 benetnasch
