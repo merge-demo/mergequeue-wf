@@ -2227,6 +2227,7 @@ feticidal
 forgetting
 fracture
 filesave
+fleered
 fainaiguer
 fatil
 fain
@@ -8571,7 +8572,6 @@ famulus
 fred
 frenchwise
 fluorographic
-fleered
 formulizing
 fulfils
 forgat

@@ -5253,7 +5253,6 @@ garten
 gentilic
 gammer
 gluiest
-genial
 grenade
 goatish
 gullet
@@ -5544,6 +5543,7 @@ garlandless
 globigerinae
 guarnerius
 gourd
+genial
 glutition
 globigerinas
 griecep
