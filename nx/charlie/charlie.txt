@@ -4039,7 +4039,6 @@ correctify
 carcinemia
 croquettes
 carcinogenesis
-carcinogenic
 carcinoid
 compartmental
 crystalloluminescence
@@ -25766,6 +25765,7 @@ corrival
 corrivality
 craniologist
 corrivalry
+carcinogenic
 corrivalship
 corrivate
 corrivation
