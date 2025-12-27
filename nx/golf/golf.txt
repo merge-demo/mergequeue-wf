@@ -5099,6 +5099,7 @@ gunman
 garboards
 guilelessly
 guernseyed
+geometrise
 glareproof
 griskin
 grenadine
@@ -7174,7 +7175,6 @@ gabelle
 glistering
 glider
 gulfweed
-geometrise
 guans
 gaffs
 gauming
