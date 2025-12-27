@@ -1832,6 +1832,7 @@ glummer
 gabbier
 gatekeepers
 glos
+glaserite
 gentile
 groupage
 garlands
@@ -8789,7 +8790,6 @@ guacharoes
 gorge
 greenling
 grogram
-glaserite
 gatherable
 gentilism
 glyceryls
