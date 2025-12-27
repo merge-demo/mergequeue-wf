@@ -14790,7 +14790,6 @@ docity
 discords
 deplaster
 discutable
-docker
 disaccharidase
 devouring
 doggie
@@ -17459,6 +17458,7 @@ desectionalize
 drouthier
 definitude
 datums
+docker
 deertongue
 delegatee
 drove
