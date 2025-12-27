@@ -8809,7 +8809,6 @@ chapelward
 chaperno
 custodia
 chaperonage
-chaperonless
 cerinthe
 catesbeiana
 cirsium
@@ -19399,6 +19398,7 @@ camisades
 curratow
 chilloes
 clothing
+chaperonless
 coloradan
 collies
 colorado
