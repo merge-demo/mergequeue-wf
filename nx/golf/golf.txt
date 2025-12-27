@@ -4118,6 +4118,7 @@ genetor
 grimoire
 gyropilot
 galaxiidae
+graphitization
 gemological
 growled
 geggee
@@ -10468,7 +10469,6 @@ gerrymandered
 gametophagia
 gastrolienal
 geometries
-graphitization
 gastroadenitis
 gusset
 goosy
