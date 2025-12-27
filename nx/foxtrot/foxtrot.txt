@@ -4408,7 +4408,6 @@ fishes
 fiancees
 fossate
 feirie
-fowlpox
 fleta
 footgear
 fetters
@@ -10227,6 +10226,7 @@ furdel
 ferryage
 famines
 foggages
+fowlpox
 frazing
 faros
 flaskful
