@@ -3279,7 +3279,6 @@ defibrillatory
 dropax
 dissatisfactory
 defier
-drogues
 disguisal
 deracinated
 dense
@@ -5311,6 +5310,7 @@ delphinapterus
 dentallia
 distress
 dentaphone
+drogues
 demivolte
 decorators
 dreamers
