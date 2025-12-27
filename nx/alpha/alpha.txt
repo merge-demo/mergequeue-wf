@@ -1581,6 +1581,7 @@ acrisy
 accountant
 accountantship
 atacamenian
+aerometer
 agamogenetic
 accounter
 accounters
@@ -4927,7 +4928,6 @@ aerological
 antepartum
 aeromancer
 anthonomus
-aerometer
 aspen
 amygdalus
 afterband
