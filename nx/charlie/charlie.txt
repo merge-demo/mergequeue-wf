@@ -4748,7 +4748,6 @@ carpals
 chela
 carpathian
 carped
-carpellary
 cytinaceous
 composograph
 carpenters
@@ -5524,6 +5523,7 @@ chersydridae
 casuarina
 cantraips
 casuarius
+carpellary
 chamaecyparis
 crunode
 casuistess
