@@ -694,7 +694,6 @@ fobs
 firebolted
 farmstead
 fistnote
-farcemeat
 ferromagnetic
 futilitarianism
 fascioloid
@@ -3853,6 +3852,7 @@ figurings
 farleu
 fimbrillate
 fany
+farcemeat
 fig
 flowerlet
 forfit
