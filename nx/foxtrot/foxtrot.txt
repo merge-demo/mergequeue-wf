@@ -3212,7 +3212,6 @@ ficklety
 fictionalize
 flounce
 fourcher
-foots
 friers
 frostwort
 flexionless
@@ -3226,6 +3225,7 @@ fictioner
 furbisher
 forestay
 forestish
+foots
 fictionized
 frankheartness
 fictionizing
