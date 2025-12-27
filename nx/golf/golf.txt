@@ -5809,7 +5809,6 @@ gastrodisk
 gurjara
 glowering
 gradients
-glowingly
 glows
 grinny
 geometrize
@@ -9184,6 +9183,7 @@ gora
 geographically
 granulates
 glared
+glowingly
 goosed
 griphite
 gesture
