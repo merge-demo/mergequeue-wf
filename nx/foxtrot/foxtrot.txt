@@ -10333,6 +10333,7 @@ fingering
 frondeurs
 forecourt
 feaze
+fthm
 foss
 footcandles
 forewarning
@@ -11570,7 +11571,6 @@ fanleaf
 fluence
 fruitlike
 foretalking
-fthm
 fusionist
 fusions
 forrit

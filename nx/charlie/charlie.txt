@@ -5775,6 +5775,7 @@ catcall
 catcaller
 catcalls
 catchcry
+certainties
 corinthian
 conceptus
 corey
@@ -31053,7 +31054,6 @@ cumulately
 contemplatively
 carnies
 cariniform
-certainties
 cumulates
 cimeliarch
 cleanlier
