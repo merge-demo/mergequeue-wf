@@ -2952,7 +2952,6 @@ fewest
 fluke
 fissiparity
 fading
-fewterer
 francophil
 fewtrils
 fustee
@@ -6428,6 +6427,7 @@ fetches
 fitchet
 flaking
 forescene
+fewterer
 fairm
 filiety
 flaggier
