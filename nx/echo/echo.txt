@@ -1276,6 +1276,7 @@ enmanche
 eelfare
 encrinite
 ergostat
+exfiltrate
 emperors
 emissions
 enrobe
@@ -6458,7 +6459,6 @@ espave
 espousal
 expandibility
 ensnared
-exfiltrate
 ensnarer
 echinostoma
 elfins
