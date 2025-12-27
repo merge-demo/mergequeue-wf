@@ -727,6 +727,7 @@ dismarry
 distale
 dictagraph
 dodging
+dueling
 dander
 dandy
 dandiacally
@@ -2426,7 +2427,6 @@ deploring
 donny
 dripstick
 decimalism
-dueling
 decimalization
 displeases
 dehiscent
