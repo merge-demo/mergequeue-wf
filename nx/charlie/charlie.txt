@@ -6321,6 +6321,7 @@ caulicolous
 customed
 controversed
 conche
+camorristi
 cameloid
 caulinar
 caulinary
@@ -27755,7 +27756,6 @@ connecters
 cowshed
 cowsheds
 cowshot
-camorristi
 chough
 cowshut
 cowskin
