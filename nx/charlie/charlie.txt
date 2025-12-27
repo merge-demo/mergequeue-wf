@@ -5369,7 +5369,6 @@ crampy
 courtling
 cathay
 cassiterite
-coestablishment
 ccws
 cassius
 cassock
@@ -12911,6 +12910,7 @@ churchscot
 churchway
 churchward
 chairmanned
+coestablishment
 chemotaxonomist
 cutling
 cathodic
