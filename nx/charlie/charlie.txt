@@ -14193,7 +14193,6 @@ catatonia
 circulators
 circulus
 cavaedium
-cervicoscapular
 circumambiency
 circumambient
 circumambulate
@@ -24420,6 +24419,7 @@ coonhound
 calcigenous
 coonhounds
 coony
+cervicoscapular
 chloracetate
 coonier
 colk
