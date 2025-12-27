@@ -9870,7 +9870,6 @@ chemicobiologic
 collocates
 chemicodynamic
 caliches
-chemicoluminescent
 cyclostome
 chemicomineralogical
 carcinogenicity
@@ -22478,6 +22477,7 @@ ctenostomatous
 cophasal
 conioselinum
 chivalrously
+chemicoluminescent
 cubhood
 cahuita
 coniosis
