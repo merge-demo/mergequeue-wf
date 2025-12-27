@@ -4237,7 +4237,6 @@ garrisoning
 gilty
 goblets
 gynantherous
-gonadectomized
 gammoned
 gynarchic
 gazella
@@ -7767,6 +7766,7 @@ guld
 gynecicgynecidal
 glycinin
 graped
+gonadectomized
 geography
 gonystylaceae
 goldbugs
