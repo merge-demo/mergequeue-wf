@@ -227,7 +227,6 @@ antisensitizer
 abbotric
 allokinesis
 alchemistical
-adipolytic
 animality
 ajourise
 aeroliths
@@ -8765,6 +8764,7 @@ avens
 actinautography
 aspersions
 alimental
+adipolytic
 acipenserine
 anfractuousness
 airtightness
