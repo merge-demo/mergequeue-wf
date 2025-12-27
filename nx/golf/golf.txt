@@ -2151,7 +2151,6 @@ goslet
 glycollic
 gymnolaematous
 giunta
-gunships
 geheimrat
 gallophobe
 gantlopes
@@ -9811,6 +9810,7 @@ galeche
 gumfield
 gitano
 grylle
+gunships
 gonothecal
 gobstick
 gewgaw
