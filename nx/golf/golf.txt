@@ -1963,6 +1963,7 @@ gypsite
 genealogically
 greywacke
 glairs
+garvance
 garnishments
 glamor
 gallamine
@@ -4490,7 +4491,6 @@ gypsying
 grammontine
 gastrostaxis
 ginning
-garvance
 gastrohysterorrhaphy
 giraffe
 gynocardic
