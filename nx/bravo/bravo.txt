@@ -986,6 +986,7 @@ brigand
 barotropic
 benzotrifuran
 bayano
+bifurcate
 birlie
 bewitch
 bipalium
@@ -1588,7 +1589,6 @@ beatinest
 ballistician
 brachioganoidei
 ballflower
-bifurcate
 ballywack
 basalt
 brooder
