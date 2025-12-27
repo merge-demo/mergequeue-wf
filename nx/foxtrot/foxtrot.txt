@@ -266,6 +266,7 @@ feoffeeship
 foetors
 faders
 firedamp
+flutter
 fadge
 furfuramide
 furniment
@@ -9010,7 +9011,6 @@ fernless
 fableist
 flabellarium
 fourragere
-flutter
 foraminiferal
 fermila
 fragrantly
