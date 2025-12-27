@@ -155,7 +155,6 @@ gybe
 glacialize
 graphorrhea
 guesthouse
-gingerroot
 generification
 gressorial
 guaiaretic
@@ -2123,6 +2122,7 @@ gazebo
 gazeboes
 guestship
 gen
+gingerroot
 glumiferous
 galla
 globosity
