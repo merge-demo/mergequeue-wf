@@ -4576,6 +4576,7 @@ euphony
 epagoge
 echinodermal
 emberizidae
+enterocystoma
 electing
 embeggar
 earthmove
@@ -8861,7 +8862,6 @@ enjeopardy
 encrypt
 emptive
 eremic
-enterocystoma
 egregiousness
 endocellular
 eremitism
