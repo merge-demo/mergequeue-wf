@@ -1237,7 +1237,6 @@ folds
 fassalite
 fastbacks
 frigor
-flatdom
 faradism
 fastening
 frocked
@@ -1525,6 +1524,7 @@ faunish
 fleecing
 foamers
 fluorane
+flatdom
 franklinite
 fattenable
 fauntleroy

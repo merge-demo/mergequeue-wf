@@ -9775,7 +9775,6 @@ bistort
 bedarkened
 bistorts
 beetlehead
-bistred
 beknights
 bradylexia
 baronetage
@@ -12002,6 +12001,7 @@ beckelite
 bolts
 bogmire
 blarina
+bistred
 borine
 baggit
 bedwarf
