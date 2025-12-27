@@ -6317,7 +6317,6 @@ esotropia
 earmarking
 enrollers
 eche
-excitants
 examined
 etang
 exorcised
@@ -12379,6 +12378,7 @@ embace
 euphemia
 eelbob
 exhaustive
+excitants
 eryon
 essencing
 eucleidae
