@@ -2986,7 +2986,6 @@ beastily
 broadcasters
 boulevard
 barrister
-bootless
 buat
 barroom
 barruly
@@ -3561,6 +3560,7 @@ baroscopic
 binode
 blonds
 bathylithic
+bootless
 bipinnaria
 bathymetry
 bathymetrical
