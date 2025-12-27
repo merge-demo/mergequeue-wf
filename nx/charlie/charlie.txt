@@ -538,7 +538,6 @@ counterstamp
 cadettes
 colorists
 coprecipitating
-competence
 clogmaker
 carbuilder
 cungevoi
@@ -21283,6 +21282,7 @@ chinbeak
 chatwood
 concertante
 countersank
+competence
 chapped
 concertation
 concertatos
