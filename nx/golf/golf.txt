@@ -5730,7 +5730,6 @@ girasols
 gyrolite
 gurus
 geologize
-gratia
 gammons
 goldsmithery
 glockenspiel
@@ -7708,6 +7707,7 @@ galerus
 granters
 guacharos
 gladly
+gratia
 gastropodan
 guardhouses
 gradiometric
