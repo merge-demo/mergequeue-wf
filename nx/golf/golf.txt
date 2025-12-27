@@ -4767,7 +4767,6 @@ glene
 gels
 gotta
 gomeril
-galleta
 genarch
 glossematics
 glar
@@ -9444,6 +9443,7 @@ gramps
 gingerliness
 gamari
 glycollide
+galleta
 gabionage
 groupies
 ghastfully
