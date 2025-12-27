@@ -8137,7 +8137,6 @@ factorist
 floodplain
 foret
 fragilaria
-formalized
 fractiousness
 foretackle
 forrader
@@ -10894,6 +10893,7 @@ fractural
 ferris
 fulled
 feeing
+formalized
 fieldwort
 forsworn
 falloffs
