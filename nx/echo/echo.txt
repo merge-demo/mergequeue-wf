@@ -5282,7 +5282,6 @@ euphuizing
 epirot
 esphresis
 expenseless
-endopods
 epistolarily
 endoproctous
 elutor
@@ -8750,6 +8749,7 @@ euphemisms
 ethysulphuric
 effulgence
 embrowd
+endopods
 explodable
 equities
 equivalenced
