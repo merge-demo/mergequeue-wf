@@ -2391,7 +2391,6 @@ ghiordes
 gadwall
 greenboard
 ganisters
-gedds
 grampa
 granddaughterly
 gradely
@@ -5869,6 +5868,7 @@ genuflected
 gawney
 gipsyweed
 glucoses
+gedds
 glances
 glucoside
 goshawk
