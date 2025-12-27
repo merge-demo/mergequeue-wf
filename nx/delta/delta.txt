@@ -1618,7 +1618,6 @@ daks
 deriving
 doe
 dinginess
-doweled
 diadrome
 derision
 disenrol
@@ -11962,6 +11961,7 @@ detestability
 dissociate
 decrease
 dyable
+doweled
 deutovum
 disembitter
 diplanetic
