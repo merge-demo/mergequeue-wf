@@ -3543,7 +3543,6 @@ getling
 goldenest
 getpenny
 gibberish
-greaselessness
 gatewayman
 gaunter
 gracile
@@ -10143,6 +10142,7 @@ gipsyhead
 guffer
 glaziers
 guggle
+greaselessness
 glottologic
 gaby
 gallinaginous
