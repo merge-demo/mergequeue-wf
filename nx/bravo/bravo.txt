@@ -1497,7 +1497,6 @@ beeches
 ball
 ballad
 bartholinitis
-beflounce
 ballade
 beglad
 bathyhyperesthesia
@@ -11143,6 +11142,7 @@ blandness
 brawniest
 buckler
 brotan
+beflounce
 broguing
 bipenniform
 bespit
