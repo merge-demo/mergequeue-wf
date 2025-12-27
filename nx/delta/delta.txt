@@ -1504,6 +1504,7 @@ deaccessioning
 drawbolt
 dingbats
 draughts
+devils
 definiendum
 deformers
 diazines
@@ -14436,7 +14437,6 @@ diversification
 disporous
 diarch
 diversified
-devils
 diversifier
 diversiflorate
 diversiform

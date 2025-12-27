@@ -4841,7 +4841,6 @@ estrogenicity
 embrangle
 encomiastically
 exflagellation
-epitheme
 emulously
 encomic
 executory
@@ -6489,6 +6488,7 @@ eurypteroidea
 ensoul
 ensouled
 ecru
+epitheme
 evolutes
 emparl
 ectodermic
