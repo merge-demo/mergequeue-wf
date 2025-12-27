@@ -1957,7 +1957,6 @@ camelopardalis
 crosstail
 consubstantiation
 carcinus
-cinnamomum
 cornule
 chiliarchy
 camelopards
@@ -6749,6 +6748,7 @@ ceilidhe
 ceiling
 ceilings
 ceilingwards
+cinnamomum
 copiability
 celtophobia
 ceilometer
