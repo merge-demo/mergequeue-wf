@@ -6360,6 +6360,7 @@ aparithmesis
 analytically
 agrodolce
 aliphatic
+aparthrosis
 agrogeology
 aleucaemic
 agrogeological
@@ -16570,7 +16571,6 @@ abusee
 accessibly
 atokous
 amberies
-aparthrosis
 animately
 aloisiite
 apartness
