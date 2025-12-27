@@ -2344,6 +2344,7 @@ delectations
 denizens
 didna
 disseizin
+disco
 dilapidate
 determinists
 decke
@@ -11726,7 +11727,6 @@ dactylologies
 disciferous
 dimane
 decoupage
-disco
 dopamelanin
 discreation
 depersonalizes
