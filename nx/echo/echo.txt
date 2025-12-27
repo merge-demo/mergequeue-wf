@@ -1855,7 +1855,6 @@ errableness
 enigmatical
 eared
 eighties
-exhalable
 eightieth
 eightling
 economizes
@@ -12759,6 +12758,7 @@ eyesights
 erwinia
 employable
 exorcizement
+exhalable
 encodings
 elasmobranchiate
 enmask
