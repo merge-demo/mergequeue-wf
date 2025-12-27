@@ -1648,6 +1648,7 @@ gainspeaker
 groovier
 grademark
 grousewards
+gobleted
 grosgrain
 gumlikeness
 geode
@@ -6768,7 +6769,6 @@ ghostmonger
 gynander
 gaolers
 glaireous
-gobleted
 graybeards
 ganev
 ganocephala
