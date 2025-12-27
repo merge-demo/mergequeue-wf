@@ -1902,7 +1902,6 @@ brainsickly
 bando
 besieger
 bodiced
-bareheaded
 bubonalgia
 bandanas
 bandogs
@@ -11779,6 +11778,7 @@ barrens
 bucephala
 biology
 beringleted
+bareheaded
 backed
 bobstays
 blastoporic
