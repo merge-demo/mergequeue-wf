@@ -548,7 +548,6 @@ expy
 enzymologist
 eclipsises
 echinococcosis
-epedaphic
 epithelioceptor
 enciphered
 exopterygotous
@@ -11263,6 +11262,7 @@ enamor
 emigre
 enthronized
 evangelistic
+epedaphic
 epidictical
 exserts
 earthquake
