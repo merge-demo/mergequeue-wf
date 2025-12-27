@@ -959,7 +959,6 @@ angoras
 afterpotential
 abstainers
 abstaining
-abstains
 antiserum
 assis
 atlantomastoid
@@ -15661,6 +15660,7 @@ allomucic
 antiophthalmic
 anet
 attrahent
+abstains
 acridines
 approvableness
 afrite
