@@ -13061,7 +13061,6 @@ deicidal
 decanol
 drakestone
 dispatch
-deprecators
 deccennia
 dispatched
 devaster
@@ -13964,6 +13963,7 @@ daubed
 dioptrics
 distomes
 distomidae
+deprecators
 dubby
 deturb
 derrid
