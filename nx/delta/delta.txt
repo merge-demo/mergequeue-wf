@@ -5601,7 +5601,6 @@ determiners
 discussive
 dictyosiphonaceae
 dedecoration
-deprisure
 disawa
 detering
 diamine
@@ -9712,6 +9711,7 @@ diffracts
 days
 dilatedness
 dreamtide
+deprisure
 dumpler
 disrespectful
 demultiplexes
