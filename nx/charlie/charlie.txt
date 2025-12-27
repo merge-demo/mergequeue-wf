@@ -155,7 +155,6 @@ cruors
 clinopyroxene
 cablelaid
 cableless
-cablelike
 cerberic
 chryseis
 casterless
@@ -4237,6 +4236,7 @@ cardiosphygmograph
 catmalison
 citternhead
 cardiotrophotherapy
+cablelike
 cardiovascular
 coalhole
 chamomile
