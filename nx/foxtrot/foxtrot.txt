@@ -2330,6 +2330,7 @@ featherstitching
 ferae
 fairyship
 fronton
+firemen
 fablers
 fetations
 frequently
@@ -10545,7 +10546,6 @@ flite
 foldstool
 floristry
 fusiliers
-firemen
 frowl
 fierily
 fatstocks
