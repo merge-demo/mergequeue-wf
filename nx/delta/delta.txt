@@ -8207,7 +8207,6 @@ diadelphian
 diadelphous
 diadema
 diaderm
-diadic
 disabusing
 demurrer
 decouples
@@ -10823,6 +10822,7 @@ developement
 doctrinarianism
 diabolifuge
 direnesses
+diadic
 dendrology
 demophil
 drier
