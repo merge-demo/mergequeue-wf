@@ -10247,7 +10247,6 @@ chamomilla
 chorisepalous
 chiarooscuro
 chiaroscuros
-chuvash
 coulis
 chias
 cheesecakes
@@ -19584,6 +19583,7 @@ choanocytal
 colugo
 canaliculi
 cheerfullest
+chuvash
 cannelated
 columbaceous
 columban

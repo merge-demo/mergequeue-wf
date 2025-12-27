@@ -3156,6 +3156,7 @@ fingerpost
 ferment
 frighty
 frisii
+fertilizable
 fenceplay
 fisheries
 flowerier
@@ -10406,7 +10407,6 @@ fret
 fluther
 forgivers
 fecundities
-fertilizable
 falsie
 frontignan
 fucate
