@@ -2795,6 +2795,7 @@ facers
 flattops
 fumigatories
 fcomp
+feedman
 faunae
 faveolate
 ficus
@@ -10078,7 +10079,6 @@ fustiest
 forearms
 flauntily
 feasibleness
-feedman
 fantee
 ferriferous
 falseness
