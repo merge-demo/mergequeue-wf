@@ -1897,7 +1897,6 @@ endocarps
 einsteinian
 encomiast
 eyoty
-elapsed
 endamage
 everwho
 eightball
@@ -7415,6 +7414,7 @@ exotic
 eleotrid
 encolumn
 etruria
+elapsed
 etalon
 encheat
 escarpment
