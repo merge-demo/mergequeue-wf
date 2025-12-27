@@ -5524,6 +5524,7 @@ fieri
 fervours
 finnan
 fletchers
+fellic
 furrower
 fisc
 faked
@@ -11345,7 +11346,6 @@ furlan
 foreglimpsed
 forswat
 foldure
-fellic
 footsores
 fluoroid
 forewind
