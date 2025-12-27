@@ -6378,7 +6378,6 @@ fluocerine
 fren
 flang
 fullterm
-fluoran
 francois
 florentium
 fishtailing
@@ -7273,6 +7272,7 @@ flanderkin
 fb
 fecial
 flashback
+fluoran
 famishing
 fiorded
 flumed
