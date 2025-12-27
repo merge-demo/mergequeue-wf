@@ -2617,7 +2617,6 @@ grippe
 gallberries
 grisette
 gowf
-gasometrical
 glossolabial
 goutte
 garabato
@@ -6845,6 +6844,7 @@ gigahertzes
 gastroenterostomies
 gunnings
 gagwriter
+gasometrical
 gastrojejunal
 globosphaerite
 grossirete
