@@ -956,7 +956,6 @@ fruitling
 farceuses
 flenched
 facetiousness
-forgivableness
 fluorids
 frape
 fastigiums
@@ -2029,6 +2028,7 @@ ferngrower
 frontspiece
 feinter
 feudary
+forgivableness
 fundi
 facedown
 faucalize
