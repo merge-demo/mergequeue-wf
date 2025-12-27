@@ -3206,7 +3206,6 @@ bastite
 bangash
 basidigital
 bouteselle
-bangwaketsi
 barotactic
 breadth
 ballerinas
@@ -12568,6 +12567,7 @@ battle
 bonification
 bolshevik
 bacubert
+bangwaketsi
 bud
 brashness
 boniness
