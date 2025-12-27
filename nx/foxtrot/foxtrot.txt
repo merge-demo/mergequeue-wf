@@ -5175,6 +5175,7 @@ forz
 flatness
 fadged
 faceting
+flaccidness
 flourishable
 flatted
 flatteringness
@@ -9764,7 +9765,6 @@ fevery
 ficoideae
 fretworks
 flexile
-flaccidness
 frenchwomen
 frenetical
 fideicommissioner
