@@ -5376,7 +5376,6 @@ bacteriogenic
 bonace
 blueweed
 buyable
-begray
 bromobenzene
 barodynamic
 barbarisation
@@ -8432,6 +8431,7 @@ bacony
 basiated
 beaverette
 bocage
+begray
 balolo
 blastocele
 bleareye
