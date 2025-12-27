@@ -5832,7 +5832,6 @@ gruiformes
 ghettoing
 geroderma
 graffito
-glycolaldehyde
 gedact
 galvanoplastic
 grundel
@@ -8560,6 +8559,7 @@ gravette
 gaufrette
 grasscutter
 goniatitidae
+glycolaldehyde
 gallwort
 gith
 gourmand
