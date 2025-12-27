@@ -9265,6 +9265,7 @@ chockstone
 chasubled
 cooper
 categorize
+counterriposte
 chataka
 chatchka
 croziers
@@ -20086,7 +20087,6 @@ commensurating
 codings
 commensuration
 corking
-counterriposte
 comment
 cattlegate
 commentable
