@@ -2101,6 +2101,7 @@ galvanizer
 gerontes
 gnomist
 gelndesprung
+girding
 gawkhammer
 greasehorn
 gormandise
@@ -3533,7 +3534,6 @@ gnomical
 guyots
 gramercies
 gluier
-girding
 ghostwritten
 gaspar
 getling
