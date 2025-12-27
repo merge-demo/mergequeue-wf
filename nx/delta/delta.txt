@@ -3708,7 +3708,6 @@ dehydrating
 diploidies
 depiedmontize
 dictic
-dikamalli
 demonstrating
 diam
 dobsonfly
@@ -15547,6 +15546,7 @@ dedicatee
 donkeyman
 draffman
 decahedra
+dikamalli
 draegerman
 dessert
 directness
