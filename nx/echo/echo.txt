@@ -664,6 +664,7 @@ evilness
 enddamaged
 exprobration
 extimulate
+eigenstate
 expulse
 enshrouding
 extracondensed
@@ -5501,7 +5502,6 @@ estimatingly
 extrasystole
 emperorship
 exospheres
-eigenstate
 entitledness
 edematous
 energical
