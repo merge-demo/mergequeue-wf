@@ -4453,7 +4453,6 @@ dinornithes
 dislink
 deists
 deradelphus
-deerstalker
 demibob
 dendrological
 demibuckram
@@ -16088,6 +16087,7 @@ daimonistic
 dermathemia
 deathbed
 doughty
+deerstalker
 duomo
 ditherer
 dockside
