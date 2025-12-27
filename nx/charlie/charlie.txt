@@ -15135,7 +15135,6 @@ conidia
 clade
 cornucopia
 casabas
-cladocarpous
 cladocera
 collarband
 commissionerships
@@ -17040,6 +17039,7 @@ cluther
 clackdish
 cattier
 conglutinating
+cladocarpous
 cyanopathy
 cluttered
 clutterment
