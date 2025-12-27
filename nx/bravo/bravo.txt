@@ -554,6 +554,7 @@ blottingly
 bishoped
 backwoodsy
 bacon
+befezzed
 balkar
 baubee
 balisaur
@@ -5086,7 +5087,6 @@ bilingual
 balefire
 biocatalyst
 basenet
-befezzed
 broiderer
 befile
 bebathe
