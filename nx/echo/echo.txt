@@ -1200,6 +1200,7 @@ entitule
 ellerian
 education
 edulcorating
+ennuye
 enscroll
 educational
 extratracheal
@@ -10994,7 +10995,6 @@ eoside
 eigenfrequency
 escobita
 ecologically
-ennuye
 electrokinematics
 excavates
 eurybenthic
