@@ -2480,7 +2480,6 @@ freightage
 fawningness
 fortunize
 fluters
-foaminess
 fatales
 ferociously
 flashforward
@@ -5890,6 +5889,7 @@ fates
 flexity
 feague
 fangas
+foaminess
 flinted
 forehear
 ferrichloride
