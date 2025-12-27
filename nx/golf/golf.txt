@@ -7683,7 +7683,6 @@ gunsmithery
 gorgonlike
 greyware
 gool
-gnathometer
 guachamaca
 germane
 geira
@@ -8008,6 +8007,7 @@ glouts
 gnotobiote
 goodhap
 galleyman
+gnathometer
 gabblement
 gipper
 geologized
