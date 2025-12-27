@@ -2017,6 +2017,7 @@ gomorrah
 gantleted
 gnaeus
 grithman
+gimpy
 grenada
 gauzy
 gapeseeds
@@ -10559,7 +10560,6 @@ grilling
 guillemot
 graverobber
 gumtree
-gimpy
 gambetta
 grandmaster
 goustie
