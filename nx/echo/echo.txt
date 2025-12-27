@@ -10825,6 +10825,7 @@ eupatrids
 eluent
 exemplars
 enoptromancy
+eimer
 eudemony
 explodes
 engine
@@ -11292,7 +11293,6 @@ extraversive
 eutaxy
 evaporates
 edp
-eimer
 enwiden
 extrascholastic
 euphorbine
