@@ -1584,6 +1584,7 @@ eggs
 emplastra
 ectrodactyly
 excerptive
+epicarides
 encyclopedial
 eupeptically
 ensconces
@@ -4314,7 +4315,6 @@ en
 enjoined
 extirpation
 expropriatory
-epicarides
 ejectment
 ecderon
 exaltedness
