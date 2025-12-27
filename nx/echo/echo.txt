@@ -5073,6 +5073,7 @@ encyclopediac
 entreasure
 encaenia
 endophragmal
+equaling
 equimolal
 entomb
 enqueued
@@ -9667,7 +9668,6 @@ excitable
 ensearcher
 espingole
 execrative
-equaling
 espino
 erythroplastid
 esplanade
