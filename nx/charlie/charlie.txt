@@ -5661,6 +5661,7 @@ cataloes
 cataloged
 character
 cariousness
+ciconiidae
 centi
 crochet
 catalogia
@@ -9784,7 +9785,6 @@ cheirography
 cheirolin
 cymbal
 cheirology
-ciconiidae
 colloidal
 cheiropatagium
 cheiropod
