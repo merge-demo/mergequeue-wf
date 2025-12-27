@@ -8826,7 +8826,6 @@ farolito
 fixedly
 forgers
 foreprise
-furner
 filletster
 firry
 flashtube
@@ -10455,6 +10454,7 @@ foraminifera
 fetterer
 forfex
 feetage
+furner
 finnesko
 fillagree
 feta
