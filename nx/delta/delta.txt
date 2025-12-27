@@ -12417,7 +12417,6 @@ disher
 durability
 disherited
 defibrillator
-deamidize
 deplantation
 drybrush
 desecate
@@ -13061,6 +13060,7 @@ dissipative
 dopes
 dipeptide
 dekastere
+deamidize
 desilverizing
 daughterhood
 dialogical

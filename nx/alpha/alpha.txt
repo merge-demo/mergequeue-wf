@@ -9110,7 +9110,6 @@ aeronomies
 anaspid
 andesytes
 agrising
-alman
 adenovirus
 almander
 aeginetic
@@ -18874,6 +18873,7 @@ archicerebrum
 archichlamydeae
 archidamus
 amninia
+alman
 adherer
 anatropia
 archidiaconate
