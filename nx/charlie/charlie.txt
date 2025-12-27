@@ -5207,6 +5207,7 @@ cauldron
 casemented
 casements
 censual
+connexivum
 copolar
 caseolysis
 caseose
@@ -6744,7 +6745,6 @@ clamoring
 celestine
 ceilers
 ceilidhe
-connexivum
 ceiling
 ceilings
 ceilingwards
