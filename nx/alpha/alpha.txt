@@ -8060,6 +8060,7 @@ asymptotically
 alga
 algaeological
 advisory
+arbinose
 aldolase
 acronycally
 antiholiday
@@ -8739,7 +8740,6 @@ autoagglutinating
 arctoid
 alligatorfish
 alligatorfishes
-arbinose
 allying
 abecedarius
 astatine
