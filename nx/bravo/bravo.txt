@@ -2560,6 +2560,7 @@ besnare
 bs
 bilamellar
 boerdom
+belostomidae
 begster
 birk
 backlists
@@ -5919,7 +5920,6 @@ belostomatidae
 besleeve
 bisnagas
 bouillabaisse
-belostomidae
 belotte
 bowden
 bechancing
