@@ -1890,7 +1890,6 @@ goodyism
 generalists
 gamelote
 germaniums
-groundable
 gowd
 grails
 golland
@@ -8695,6 +8694,7 @@ glabrate
 gree
 glean
 gynaecoid
+groundable
 glissading
 gismondite
 gutterling
