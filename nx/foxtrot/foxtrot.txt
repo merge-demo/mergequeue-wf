@@ -8078,7 +8078,6 @@ flockmaster
 feyest
 flowerist
 frontward
-fellahs
 fluidises
 falconnoid
 foredevote
@@ -8581,6 +8580,7 @@ formby
 foeture
 fumaric
 frightment
+fellahs
 fanfarons
 frownful
 fornaxid
