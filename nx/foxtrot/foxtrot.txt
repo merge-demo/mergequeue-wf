@@ -9871,6 +9871,7 @@ fissileness
 frib
 fruitage
 fiendishness
+formee
 fribbler
 friskle
 foreappointment
@@ -10429,7 +10430,6 @@ fraggings
 filigree
 flow
 fictility
-formee
 funditor
 flyspecked
 firstling
