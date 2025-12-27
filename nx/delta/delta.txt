@@ -5483,6 +5483,7 @@ deoxidisation
 dissolubility
 deadest
 devoiced
+drumrolls
 dorsiventrality
 deoxidize
 doryphoros
@@ -17571,7 +17572,6 @@ drumming
 drumreads
 demential
 drumroll
-drumrolls
 drums
 decalcifier
 drumstick
