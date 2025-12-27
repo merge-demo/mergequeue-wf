@@ -4623,6 +4623,7 @@ baptise
 bedbugs
 boden
 bedtick
+bailliage
 bedchair
 butterine
 bedchairs
@@ -9081,7 +9082,6 @@ basking
 bipectinated
 biopotential
 biopsic
-bailliage
 byssaceous
 bespice
 benightmare
