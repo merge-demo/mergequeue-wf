@@ -5992,6 +5992,7 @@ floorboard
 fixures
 flashness
 floorcloths
+finalize
 fumid
 fluidizing
 foreplays
@@ -10170,7 +10171,6 @@ frivolling
 fricandelle
 feasibility
 falchions
-finalize
 fricatives
 frivolousness
 foray
