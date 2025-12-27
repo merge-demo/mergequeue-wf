@@ -7462,6 +7462,7 @@ fodientia
 fawnlike
 fans
 firefang
+forswat
 footmen
 ferrocerium
 forwarder
@@ -11344,7 +11345,6 @@ fertilisational
 fermage
 furlan
 foreglimpsed
-forswat
 foldure
 footsores
 fluoroid
