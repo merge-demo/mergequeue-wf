@@ -1971,6 +1971,7 @@ boardroom
 browns
 bronchoscopy
 brachydactyl
+bitterling
 byplace
 bibliophilist
 bulbous
@@ -3402,7 +3403,6 @@ bassie
 bivalents
 betsey
 bassinet
-bitterling
 boondoggled
 blastodermatic
 bassoonists
