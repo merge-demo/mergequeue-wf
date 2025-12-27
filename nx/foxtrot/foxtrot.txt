@@ -5170,6 +5170,7 @@ forz
 flatness
 fadged
 faceting
+flourishable
 flatted
 flatteringness
 foreshadowing
@@ -8210,7 +8211,6 @@ fantastry
 feverberries
 formicinae
 fraught
-flourishable
 furores
 flockbed
 foghorn
