@@ -1007,7 +1007,6 @@ galenoid
 gabgab
 generously
 gordunite
-ganga
 gangamopteris
 givers
 gangava
@@ -9890,6 +9889,7 @@ gravy
 growth
 gastrochaena
 gladdens
+ganga
 gerygone
 gustless
 guanin
