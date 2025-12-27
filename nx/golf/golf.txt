@@ -4928,7 +4928,6 @@ gorier
 gavotted
 glaiks
 gorse
-glauberite
 glair
 glaire
 glosses
@@ -10489,6 +10488,7 @@ gynandromorph
 generalising
 granulator
 gogglier
+glauberite
 glutton
 gule
 ginglymodi
