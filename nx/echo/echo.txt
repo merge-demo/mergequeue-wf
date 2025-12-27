@@ -2081,6 +2081,7 @@ epitaphs
 encampments
 enthusiasm
 embalm
+equites
 encrinitic
 enterocinesia
 elaphurus
@@ -10373,7 +10374,6 @@ excepter
 entropion
 ethology
 ethnogeographer
-equites
 ethologies
 electrocataphoretic
 explains
