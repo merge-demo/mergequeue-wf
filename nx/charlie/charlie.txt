@@ -5850,7 +5850,6 @@ catalyzator
 circumspective
 catechistic
 catechistical
-catechists
 catechization
 catechizer
 calamondin
@@ -30036,6 +30035,7 @@ clearstarch
 chromo
 capriciously
 challengeable
+catechists
 casualties
 cinchonate
 counterparts
