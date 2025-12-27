@@ -2274,6 +2274,7 @@ acetamid
 acidiferous
 argil
 aneurin
+atloaxoid
 arbtrn
 adderfish
 alaric
@@ -4170,7 +4171,6 @@ adopting
 adopted
 anthrax
 astronomic
-atloaxoid
 appliqueing
 arthrodire
 antigrammatically
