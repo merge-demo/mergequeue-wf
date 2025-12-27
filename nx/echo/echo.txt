@@ -7026,6 +7026,7 @@ enrobers
 entrer
 entresols
 extractors
+excommunicator
 embladder
 electrotitration
 explorable
@@ -12038,7 +12039,6 @@ entackle
 ervum
 excommunicative
 epitrochlea
-excommunicator
 excoriated
 ethal
 electroanalysis
