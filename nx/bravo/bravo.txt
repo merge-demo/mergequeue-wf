@@ -753,7 +753,6 @@ boation
 buba
 bepat
 boroughship
-bat
 brushcut
 bygoing
 banket
@@ -7965,6 +7964,7 @@ beryllium
 borborygmi
 bodymaker
 billing
+bat
 barothermogram
 bibulousness
 broomweed
