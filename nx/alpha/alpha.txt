@@ -7443,7 +7443,6 @@ achromic
 agelong
 agma
 anchoress
-albuginea
 archivist
 albugines
 agnostical
@@ -17712,6 +17711,7 @@ axhead
 antiquities
 applejohn
 analogice
+albuginea
 apples
 applewoman
 adopts
