@@ -613,6 +613,7 @@ gillie
 glome
 goopy
 geophysicist
+geromorphism
 glide
 gradatory
 guenepe
@@ -6949,7 +6950,6 @@ gomeral
 galavanted
 goodrich
 guides
-geromorphism
 grayfly
 galatians
 grx
