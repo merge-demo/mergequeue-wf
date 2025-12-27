@@ -2420,7 +2420,6 @@ glariest
 gnawable
 ganton
 gyrolith
-glaury
 gazel
 goaled
 guiac
@@ -2956,6 +2955,7 @@ gastroscopic
 gooseflower
 gestatorium
 guardingly
+glaury
 ganymede
 gusts
 gingivalgia
