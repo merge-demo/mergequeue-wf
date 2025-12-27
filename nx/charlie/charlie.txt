@@ -12603,7 +12603,6 @@ concubitus
 chronaxie
 chronic
 chronica
-chronically
 cutouts
 chronicle
 chronicled
@@ -29905,6 +29904,7 @@ crosshatching
 crosshaul
 crosshauling
 chipper
+chronically
 crossings
 crossite
 contriteness

@@ -1302,7 +1302,6 @@ antarchism
 alphabetic
 adtevac
 activators
-agamous
 arginase
 anangular
 amyelia
@@ -6426,6 +6425,7 @@ aguirage
 aguise
 antimeter
 axanthopsia
+agamous
 antignostical
 ameliorant
 auxanology
