@@ -4811,6 +4811,7 @@ grad
 glady
 gamophagia
 glassen
+gelatinise
 glans
 goodwilies
 granate
@@ -8235,7 +8236,6 @@ gladlier
 gigabit
 griots
 glycerolyses
-gelatinise
 geometricize
 grandfatherless
 gestative
