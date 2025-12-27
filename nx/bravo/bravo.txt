@@ -2871,6 +2871,7 @@ barrad
 bartenders
 bridebowl
 boskage
+bedlamise
 biform
 bashawism
 buddage
@@ -12933,7 +12934,6 @@ bootees
 battlemented
 bootery
 birse
-bedlamise
 backtrail
 bonhomie
 boothage
