@@ -2000,7 +2000,6 @@ acetophenone
 amphodiplopia
 autecy
 anticipatory
-arterial
 acetosoluble
 acetostearin
 acetothienone
@@ -12656,6 +12655,7 @@ atherogenesis
 angelicalness
 angelicic
 anaglypton
+arterial
 angelicness
 angelico
 acetylize
