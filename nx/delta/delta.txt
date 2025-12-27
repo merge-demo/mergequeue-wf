@@ -2253,6 +2253,7 @@ dispensate
 drongo
 drivescrew
 drch
+dialectic
 dartre
 danes
 dishelm
@@ -6517,7 +6518,6 @@ demonist
 doxological
 descends
 deviability
-dialectic
 dircaean
 dynel
 descension
