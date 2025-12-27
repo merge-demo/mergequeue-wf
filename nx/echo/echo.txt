@@ -4133,6 +4133,7 @@ endosarc
 epitonic
 electrorefine
 emplecton
+eternalise
 exuberancy
 employability
 evenly
@@ -9621,7 +9622,6 @@ esoterize
 esp
 eparchial
 eventless
-eternalise
 espada
 ethanethial
 esurine
