@@ -103,6 +103,7 @@ enumerate
 earpick
 earpiece
 enchisel
+entone
 earreach
 engineership
 enamoured
@@ -14175,7 +14176,6 @@ euciliate
 exulding
 electrifies
 eviction
-entone
 exultingly
 endogamy
 empyromancy
