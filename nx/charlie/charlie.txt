@@ -30792,6 +30792,7 @@ culicinae
 confiteor
 canisiana
 cistic
+cervisial
 cuarto
 cloudbursts
 charonian
@@ -31742,7 +31743,6 @@ customance
 cystenchymatous
 customariness
 customer
-cervisial
 customers
 customhouses
 copernicia
