@@ -1920,7 +1920,6 @@ gnomesque
 gambeered
 gelandelaufer
 gravewards
-guideship
 grasserie
 goalkeepers
 greaseless
@@ -7149,6 +7148,7 @@ garrulous
 gorblin
 gorcocks
 gypsylike
+guideship
 grasscut
 giansar
 guayaba
