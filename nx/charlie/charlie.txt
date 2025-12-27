@@ -9956,7 +9956,6 @@ chronobiology
 chemosorption
 chemosphere
 collateral
-cancers
 chemosurgery
 chemotactic
 cresylene
@@ -21836,6 +21835,7 @@ condue
 conduit
 conduplicate
 caterwauler
+cancers
 crumped
 crunchable
 condurangin
