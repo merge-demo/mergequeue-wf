@@ -3680,6 +3680,7 @@ georgie
 galvanize
 gloveless
 gpm
+goldbug
 graeae
 gangwa
 gillnets
@@ -8264,7 +8265,6 @@ gastroplasty
 gerontotherapies
 graphitize
 gastrotubotomy
-goldbug
 graphitizing
 gallingly
 gutturalising
