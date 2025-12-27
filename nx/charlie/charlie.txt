@@ -11197,6 +11197,7 @@ chondrite
 caulicles
 chlamyd
 chlamydate
+coenures
 chlamydobacteriaceous
 cantion
 chlamydobacteriales
@@ -11312,7 +11313,6 @@ chlorines
 chicote
 counterion
 chlorite
-coenures
 chloritic
 carlie
 continuities
