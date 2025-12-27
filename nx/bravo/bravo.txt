@@ -2641,6 +2641,7 @@ barkier
 buttonhook
 bravery
 beduchess
+barbotte
 birdhouses
 bilges
 botanise
@@ -18005,7 +18006,6 @@ bacteriophobia
 baryphonic
 businesslikeness
 brutification
-barbotte
 barmfel
 busk
 barlock
