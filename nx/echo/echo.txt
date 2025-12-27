@@ -2901,7 +2901,6 @@ ectosteally
 ecbasis
 expt
 endomorphic
-elder
 epitympa
 effable
 estoppels
@@ -5617,6 +5616,7 @@ essexite
 evaporate
 equalization
 epidendrum
+elder
 elutions
 esophageal
 enfold
