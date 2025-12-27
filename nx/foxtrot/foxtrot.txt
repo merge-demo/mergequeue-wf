@@ -5832,6 +5832,7 @@ forestallment
 fenestration
 flywinch
 flouncey
+fond
 footback
 forgrown
 fallers
@@ -6995,7 +6996,6 @@ foments
 fussiness
 fortuity
 fordless
-fond
 fondateur
 fondest
 favilla
