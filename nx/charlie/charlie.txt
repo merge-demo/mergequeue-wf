@@ -2293,7 +2293,6 @@ canadianize
 compassionable
 catchwords
 counterlathing
-centaurus
 canadine
 corresponds
 canadite
@@ -6888,6 +6887,7 @@ cellose
 cognizance
 coadunative
 counterreconnaissance
+centaurus
 casketing
 cocoonery
 cementers
