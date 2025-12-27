@@ -1672,7 +1672,6 @@ enactors
 eyewashes
 eider
 exsecting
-enshielding
 exanthine
 eiders
 epilemmal
@@ -5725,6 +5724,7 @@ emerson
 eagerest
 engallant
 enlargedly
+enshielding
 exameter
 exogastric
 emeu
