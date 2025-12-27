@@ -2212,7 +2212,6 @@ feudee
 follows
 freshmanhood
 fikie
-fiscus
 firebombs
 fuliguline
 flatcars
@@ -10001,6 +10000,7 @@ formularizer
 forcers
 frigolabile
 fucaceous
+fiscus
 fumigate
 fadlike
 friendships
