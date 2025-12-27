@@ -7433,6 +7433,7 @@ crepuscle
 cephalology
 cryolites
 cephalom
+cosonant
 coquettishness
 cephalomant
 cephalomeningitis
@@ -24247,7 +24248,6 @@ convolvulaceae
 convolvulaceous
 convolvulad
 courser
-cosonant
 convolvulic
 convolvulinic
 certiorari
