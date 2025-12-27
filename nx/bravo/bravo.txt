@@ -12599,7 +12599,6 @@ bonnetiere
 bonnetlike
 bonnibel
 blurts
-bibbers
 blottesque
 batter
 bloubiskop
@@ -15531,6 +15530,7 @@ briniest
 bemuck
 benzoquinoline
 brunonian
+bibbers
 beaterman
 beanweed
 balut
