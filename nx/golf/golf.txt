@@ -1238,7 +1238,6 @@ galactostasis
 gastropathy
 gooding
 gonglike
-gooroo
 grassman
 garbill
 guyline
@@ -7227,6 +7226,7 @@ goodnesses
 gony
 gaditan
 greenthumbed
+gooroo
 gripman
 geotectonics
 geocratic
