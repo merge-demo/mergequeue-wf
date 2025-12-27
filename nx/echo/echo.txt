@@ -2585,7 +2585,6 @@ enacts
 escadrilles
 electrobiological
 exorcist
-endocritic
 eatable
 ezra
 emptiable
@@ -4143,6 +4142,7 @@ exuberancy
 employability
 evenly
 electrovalence
+endocritic
 employe
 edictum
 estado
