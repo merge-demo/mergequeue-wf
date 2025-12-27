@@ -7760,7 +7760,6 @@ epidymides
 eosine
 extractiform
 encephalogram
-equispatial
 exotisms
 easternmost
 embolite
@@ -8608,6 +8607,7 @@ ergatomorph
 equidimensional
 equidist
 exrx
+equispatial
 elater
 essancias
 endophytically
