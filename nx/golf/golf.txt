@@ -2362,7 +2362,6 @@ gutturalisation
 grubbiness
 gainturn
 ghazal
-glandes
 geraty
 georgette
 gopherwood
@@ -4026,6 +4025,7 @@ gellert
 grounds
 gilds
 gildhall
+glandes
 grandness
 gildship
 gutturals
