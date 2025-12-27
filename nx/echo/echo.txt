@@ -3114,7 +3114,6 @@ ergatocracy
 expropriates
 ellipsograph
 esemplastic
-ellipticity
 extemporize
 elliptograph
 elliptoid
@@ -8667,6 +8666,7 @@ easygoingly
 enameller
 emerging
 excretions
+ellipticity
 equinumerally
 equinus
 ethrogs
