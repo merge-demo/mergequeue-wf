@@ -1551,7 +1551,6 @@ batterer
 blauboks
 baller
 barbut
-beclowning
 ballerina
 ballet
 bigged
@@ -9436,6 +9435,7 @@ brattach
 bathman
 balustrades
 bielby
+beclowning
 benedictus
 butcherer
 bebotch
