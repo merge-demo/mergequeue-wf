@@ -1722,7 +1722,6 @@ biasing
 blackbrush
 buccate
 baloney
-bryan
 ballyhoos
 buskers
 brokerage
@@ -3072,6 +3071,7 @@ brahman
 bacterization
 biocoenose
 breachy
+bryan
 bannack
 blague
 benzophenoxazine
