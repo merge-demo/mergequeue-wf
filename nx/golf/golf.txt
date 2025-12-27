@@ -2225,6 +2225,7 @@ gaster
 goodbyes
 ganefs
 gnomonology
+glossed
 generosities
 galactohemia
 gleit
@@ -3112,7 +3113,6 @@ gali
 gibbol
 geophilid
 galvanoscopic
-glossed
 granula
 gatecrashers
 gaggling
