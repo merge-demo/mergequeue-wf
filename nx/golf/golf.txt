@@ -7829,6 +7829,7 @@ gisant
 generalities
 gospeler
 geococcyx
+galantuomo
 garlandry
 glucase
 gunline
@@ -8921,7 +8922,6 @@ griquaite
 glomerella
 goniopholidae
 gentman
-galantuomo
 gobang
 grete
 grainage
