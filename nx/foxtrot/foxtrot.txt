@@ -9445,6 +9445,7 @@ freewheeling
 flagpoles
 furacana
 flammed
+fossors
 franz
 forkman
 felidae
@@ -10868,7 +10869,6 @@ fornent
 flaite
 functionally
 footholds
-fossors
 fanum
 flavor
 fon
