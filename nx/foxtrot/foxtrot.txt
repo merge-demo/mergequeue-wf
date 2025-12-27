@@ -5414,6 +5414,7 @@ fennel
 ferroconcretor
 friending
 frigefact
+forbids
 futurity
 fleabiting
 fledgeling
@@ -5490,7 +5491,6 @@ farouk
 foolscap
 furunculoid
 flesh
-forbids
 formes
 filchers
 feculae
