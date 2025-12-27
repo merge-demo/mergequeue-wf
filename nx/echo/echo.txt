@@ -4735,7 +4735,6 @@ everybody
 epilog
 ecstrophy
 esthematology
-epanaphora
 electroencephalographs
 enmuffle
 entrammel
@@ -13127,6 +13126,7 @@ eternality
 effleurage
 experimenter
 embellishing
+epanaphora
 experimenters
 enheaven
 empyreuma
