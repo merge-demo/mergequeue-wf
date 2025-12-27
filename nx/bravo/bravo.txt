@@ -12486,7 +12486,6 @@ budlike
 boohoo
 bondmaids
 botryopteris
-bawhorse
 bondmen
 bullyrock
 bookroom
@@ -14061,6 +14060,7 @@ bragging
 berust
 browallia
 brigandism
+bawhorse
 bedravel
 blessedly
 bl
