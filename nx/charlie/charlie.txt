@@ -5687,6 +5687,7 @@ catamarcan
 cd
 choufleur
 catamarenan
+copula
 catamites
 chickenhearted
 catamiting
@@ -24796,7 +24797,6 @@ cyclomania
 clausilia
 concert
 cabbing
-copula
 cheechakos
 coroscopy
 copulae
