@@ -4646,7 +4646,6 @@ excellent
 exarchs
 egotists
 eigenvalues
-equinities
 enchyma
 estheticism
 exencephalus
@@ -12817,6 +12816,7 @@ ecanda
 edgeways
 empacket
 elinguated
+equinities
 eroticization
 emicant
 expansive
