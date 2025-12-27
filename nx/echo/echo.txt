@@ -4124,7 +4124,6 @@ ethological
 ecdysis
 energetistic
 epinicial
-excitant
 enflagellate
 enfoulder
 eellike
@@ -11962,6 +11961,7 @@ excise
 enunciable
 enlisting
 elsehow
+excitant
 epistemophiliac
 excises
 excystment
