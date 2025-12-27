@@ -1011,7 +1011,6 @@ decolorising
 dinornithine
 doubleprecision
 dark
-dinkeys
 darked
 darkeys
 daneball
@@ -18590,6 +18589,7 @@ dustbins
 dustcart
 devocalisation
 distance
+dinkeys
 dustcover
 diatonicism
 dustee
