@@ -680,6 +680,7 @@ dampness
 dextrosuria
 diacetylene
 despairs
+dt
 demonstrate
 dampproof
 dampproofing
@@ -8408,7 +8409,6 @@ diallagic
 dogmaticalness
 diallagite
 deadwort
-dt
 dishonorably
 diallelus
 deflower
