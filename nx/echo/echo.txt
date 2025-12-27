@@ -2230,6 +2230,7 @@ epistome
 expanded
 entailing
 expeditionist
+exsiccatae
 elders
 enumerating
 endognathion
@@ -13545,7 +13546,6 @@ eateries
 exsibilation
 evadable
 exsiccant
-exsiccatae
 elucidate
 exsiccating
 embowment
