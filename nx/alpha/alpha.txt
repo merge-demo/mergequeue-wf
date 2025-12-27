@@ -2468,7 +2468,6 @@ acetin
 almogavar
 abattoirs
 agregation
-aforethought
 avile
 acocantherin
 and
@@ -12019,6 +12018,7 @@ anastasia
 autodestruction
 aletris
 abstractors
+aforethought
 armit
 anastasian
 alveus
