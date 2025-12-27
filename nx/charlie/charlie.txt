@@ -10121,6 +10121,7 @@ clothesbrush
 chimney
 chemise
 chesoun
+chetrum
 chessboards
 counterfugue
 collab
@@ -10154,7 +10155,6 @@ cheth
 communalized
 chetopod
 ceonocyte
-chetrum
 chlorohydrin
 consanguinities
 chetvert
