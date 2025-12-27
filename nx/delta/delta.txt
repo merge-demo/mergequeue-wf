@@ -9327,6 +9327,7 @@ dryad
 destroyable
 differentiability
 differentiae
+dazzling
 deliquescing
 dealings
 darkle
@@ -17900,7 +17901,6 @@ duets
 diatonical
 demulce
 demeans
-dazzling
 delirifacient
 duetting
 daybeds
