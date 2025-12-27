@@ -3588,7 +3588,6 @@ bathmism
 banker
 befathered
 boozer
-bathoflore
 bibliomaniacal
 batholithic
 balaamite
@@ -4998,6 +4997,7 @@ beerhouses
 breech
 barbecueing
 beladied
+bathoflore
 bluebeardism
 belleric
 beermaker
