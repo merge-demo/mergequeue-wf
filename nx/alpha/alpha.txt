@@ -2062,7 +2062,6 @@ argon
 aeropulse
 anhalonidine
 andantini
-apostematous
 acheronian
 asdics
 achroous
@@ -17249,6 +17248,7 @@ apophlegm
 appointe
 albuminiform
 apophlegmatic
+apostematous
 aurure
 akazgin
 atop
