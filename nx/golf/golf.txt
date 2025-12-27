@@ -743,6 +743,7 @@ goniometric
 gnawer
 greenshank
 gasted
+gustfulness
 gangrened
 galvanology
 geomechanics
@@ -2347,7 +2348,6 @@ gol
 garlandage
 gelated
 gorgets
-gustfulness
 gymnics
 geographism
 gelees
