@@ -30,7 +30,6 @@ geoselenic
 gliderport
 gymnadeniopsis
 globose
-gouty
 goodlike
 gabioned
 glutamate
@@ -3805,6 +3804,7 @@ grandmotherhood
 gaffing
 gokuraku
 goffers
+gouty
 gazettes
 glucke
 gnostical
