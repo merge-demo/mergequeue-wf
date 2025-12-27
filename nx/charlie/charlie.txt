@@ -2951,6 +2951,7 @@ cantdog
 compensatively
 cantefable
 childlier
+catechisable
 currawong
 canter
 canterburian
@@ -5830,7 +5831,6 @@ chapatti
 cottony
 concinnating
 catechin
-catechisable
 citharoedic
 catechised
 criminalistician
