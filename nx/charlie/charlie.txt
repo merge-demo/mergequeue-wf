@@ -4537,7 +4537,6 @@ circumference
 carlot
 carls
 cavorters
-communalised
 carmagnole
 ceremonials
 carmaker
@@ -12500,6 +12499,7 @@ chromizing
 caswellite
 chromoblast
 chromocollograph
+communalised
 chromocollography
 chromocollographic
 chromocollotype
