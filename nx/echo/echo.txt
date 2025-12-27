@@ -5781,6 +5781,7 @@ enticers
 englacial
 expose
 embossments
+extracts
 esophagomalacia
 emaciation
 eddying
@@ -11268,7 +11269,6 @@ entelluses
 ethnologic
 eeling
 electrochemist
-extracts
 entomologically
 endanger
 epichlorohydrin
