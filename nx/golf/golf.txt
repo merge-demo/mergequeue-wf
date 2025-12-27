@@ -5299,7 +5299,6 @@ gromil
 glycerite
 gigmanism
 glyceroxide
-glycide
 glabrous
 gleization
 gadswoons
@@ -9681,6 +9680,7 @@ glut
 gamogony
 gainfully
 gibuses
+glycide
 gowdie
 gastroscopy
 gascons
