@@ -1181,7 +1181,6 @@ edplot
 edrioasteroidea
 epipany
 electrotyped
-epaulette
 exceptiveness
 expectancies
 edriophthalmatous
@@ -7100,6 +7099,7 @@ electroanalytical
 ectropionization
 egotisms
 ectocinereal
+epaulette
 epapophysial
 effascinate
 eternalism
