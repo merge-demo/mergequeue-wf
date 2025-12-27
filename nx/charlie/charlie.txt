@@ -7579,6 +7579,7 @@ cambrian
 ceraunoscopy
 cyathophyllidae
 cercal
+cleanable
 calelectricity
 cercaria
 corticosterone
@@ -28813,7 +28814,6 @@ carcinosarcomas
 cloyed
 concumbency
 cress
-cleanable
 cassena
 countertail
 cresselle
