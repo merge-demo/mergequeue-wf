@@ -3579,7 +3579,6 @@ bastinadoes
 beckoning
 bridgekeeper
 balon
-barricade
 byronish
 brushy
 berkeleyite
@@ -13047,6 +13046,7 @@ borborygmus
 bettongia
 bacteriolysis
 breeching
+barricade
 bagataway
 bonded
 berger
