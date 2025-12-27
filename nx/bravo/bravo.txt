@@ -7414,7 +7414,6 @@ basigamous
 beclasps
 betony
 bombesin
-behaviours
 bookbinders
 bromated
 bequeathment
@@ -14406,6 +14405,7 @@ braincraft
 buckish
 birsle
 bragozzo
+behaviours
 boonfellow
 befan
 brainge
