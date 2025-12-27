@@ -827,7 +827,6 @@ frown
 felinely
 ferrets
 flummox
-forbecause
 fanon
 fronted
 fantailed
@@ -3922,6 +3921,7 @@ fendered
 fullest
 foeniculum
 formaldehydesulphoxylate
+forbecause
 flitted
 fictionmonger
 furcating
