@@ -9190,6 +9190,7 @@ dodonian
 destinist
 debatingly
 diehard
+dropline
 disdainly
 diehards
 dieyerie
@@ -16090,7 +16091,6 @@ deathbed
 doughty
 duomo
 ditherer
-dropline
 dockside
 designfulness
 deipnosophistic
