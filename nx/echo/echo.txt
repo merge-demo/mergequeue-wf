@@ -1011,7 +1011,6 @@ enterocinetic
 epoxide
 endearments
 emblazing
-esophageal
 edder
 epiphora
 elementaloid
@@ -5613,6 +5612,7 @@ evaporate
 equalization
 epidendrum
 elutions
+esophageal
 enfold
 ethyl
 exceptionalness
