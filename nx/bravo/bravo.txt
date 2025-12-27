@@ -135,7 +135,6 @@ brabantine
 basicranial
 bedimpled
 boolian
-bourne
 banister
 basidiocarp
 biocoenosis
@@ -6138,6 +6137,7 @@ boisterousness
 barograph
 bulimoid
 betide
+bourne
 barquette
 badaxe
 bitolyl
