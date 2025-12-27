@@ -13488,7 +13488,6 @@ aftonian
 annihilatory
 annihilators
 attice
-archartist
 arthrorrhagia
 anniverse
 azobenzene
@@ -17593,6 +17592,7 @@ ascii
 anesthesis
 alienees
 antioptimistical
+archartist
 appendiceal
 appendicectomy
 anthropopathite
