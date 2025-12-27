@@ -8644,7 +8644,6 @@ glutaminase
 gerrymanderer
 gemmeous
 genethliacs
-gentlemanly
 grapnel
 gerb
 guti
@@ -9303,6 +9302,7 @@ goidel
 gamely
 gemauve
 granitoid
+gentlemanly
 gierfalcon
 groenendael
 gecko
