@@ -2716,7 +2716,6 @@ fyce
 foreshock
 fraela
 folklore
-faunas
 framing
 feedy
 fedity
@@ -7902,6 +7901,7 @@ farnesols
 floppers
 firestorm
 floretum
+faunas
 forepurpose
 flairs
 flavourous
