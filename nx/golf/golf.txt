@@ -5716,6 +5716,7 @@ gpad
 ganglioneuron
 gestning
 gelts
+gathered
 goniometrically
 guttule
 ghillies
@@ -9950,7 +9951,6 @@ guardable
 guardedness
 gastroparalysis
 greening
-gathered
 geoglyphic
 gepoun
 gedd
