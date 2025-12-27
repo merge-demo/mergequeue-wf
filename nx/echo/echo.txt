@@ -1608,6 +1608,7 @@ eglomise
 errite
 entires
 enumerator
+extravagancies
 eucaines
 eff
 estopped
@@ -12203,7 +12204,6 @@ empiriocritical
 execute
 executed
 exceptor
-extravagancies
 eras
 epitrichium
 elachistaceae
