@@ -7380,7 +7380,6 @@ demilunes
 deselect
 discount
 demoniacally
-demiadult
 detonating
 decenyl
 detonation
@@ -13659,6 +13658,7 @@ dissimilative
 dyeable
 dangered
 decentralizationist
+demiadult
 dandyishly
 disjoins
 doucin
