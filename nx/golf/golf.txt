@@ -2681,7 +2681,6 @@ geodiferous
 gabardines
 gravelous
 guaican
-goggled
 glycogeny
 gymnodont
 globins
@@ -3228,6 +3227,7 @@ gremlin
 genethliacally
 geraera
 garrons
+goggled
 genizah
 galban
 gerah
