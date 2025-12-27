@@ -4363,7 +4363,6 @@ gemstone
 gravestead
 gluily
 glossata
-globules
 gharries
 gumbotil
 greenhew
@@ -6229,6 +6228,7 @@ gonfalons
 gastroenteroanastomosis
 gowkedly
 galactosan
+globules
 goatsbeard
 guestimate
 gavotting
