@@ -8002,7 +8002,6 @@ ficelle
 fumatoriums
 fibrinogenous
 freestones
-flatfoot
 flajolotite
 flagrantly
 femic
@@ -11682,6 +11681,7 @@ finikin
 flare
 flyleaves
 footglove
+flatfoot
 fagaceous
 faced
 flippancy
