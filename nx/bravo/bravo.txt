@@ -6906,7 +6906,6 @@ burglariously
 bajan
 burgundian
 bepray
-bazaar
 bedrugging
 bitumed
 brandywine
@@ -8868,6 +8867,7 @@ bedchamber
 bible
 binotonous
 bedeck
+bazaar
 brachystaphylic
 boilerman
 blackfishes
