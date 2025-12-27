@@ -1024,7 +1024,6 @@ baile
 bezazz
 betanaphthol
 basqued
-borage
 blizzards
 bad
 bepuzzle
@@ -5667,6 +5666,7 @@ busks
 benjoin
 besped
 beldams
+borage
 bacchar
 bilify
 beleaguering
