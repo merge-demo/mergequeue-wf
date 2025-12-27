@@ -3457,6 +3457,7 @@ canyon
 caprifig
 constructionally
 caprifole
+cornicle
 caprifoliaceae
 caprifolium
 cutcha
@@ -15222,7 +15223,6 @@ claire
 coloristic
 citromyces
 conditionalities
-cornicle
 counterclaimed
 clairecole
 cholesterin
