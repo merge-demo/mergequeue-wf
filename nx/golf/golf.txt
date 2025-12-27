@@ -6070,6 +6070,7 @@ gallature
 grinding
 gnathostomata
 gastrocnemial
+gazebos
 gypsography
 gph
 gnats
@@ -10039,7 +10040,6 @@ genetoid
 geomancies
 gangliac
 gleans
-gazebos
 glaistig
 gammation
 gargoyles
