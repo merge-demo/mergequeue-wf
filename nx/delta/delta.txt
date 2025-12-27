@@ -9262,7 +9262,6 @@ diurne
 daguerreotyper
 deosculate
 disploding
-declinal
 dictatress
 discriminal
 diplochlamydeous
@@ -10700,6 +10699,7 @@ diagram
 depit
 digitalize
 demurs
+declinal
 dippier
 dipping
 depersonalizing
