@@ -5977,7 +5977,6 @@ deprogrammings
 deprograms
 dropforged
 deprome
-demisphere
 drawling
 disaffectedly
 dendrophagous
@@ -15843,6 +15842,7 @@ disaccredit
 distillers
 disprovable
 dhurry
+demisphere
 dorsolumbar
 dankly
 deputise
