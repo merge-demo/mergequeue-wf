@@ -646,6 +646,7 @@ bynames
 bkpr
 bridals
 boigid
+bluer
 bacterized
 barefacedly
 brisk
@@ -5887,7 +5888,6 @@ balloons
 butylating
 babylonish
 bucconasal
-bluer
 blackman
 begaudy
 bellweed
