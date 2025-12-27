@@ -3326,7 +3326,6 @@ fulcra
 flon
 forsung
 flench
-furuncle
 fidge
 frogfoot
 fractionally
@@ -6366,6 +6365,7 @@ fpm
 frolicness
 furcraeas
 favela
+furuncle
 fluoboride
 fumerel
 fiking
