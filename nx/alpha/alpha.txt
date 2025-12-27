@@ -11429,6 +11429,7 @@ armaments
 aloemodin
 afterturn
 accoutring
+atomic
 avalent
 avengeress
 acrinyl
@@ -17087,7 +17088,6 @@ adiabolist
 asperated
 antistes
 administrant
-atomic
 apodemas
 autogamy
 asportation

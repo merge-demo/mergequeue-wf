@@ -1038,7 +1038,6 @@ cydonia
 calastic
 calathea
 calathi
-calathidia
 chamberlainship
 calathiform
 calathiscus
@@ -9751,6 +9750,7 @@ chef
 chefs
 coenamoring
 collocate
+calathidia
 chego
 coruscated
 caramelise
