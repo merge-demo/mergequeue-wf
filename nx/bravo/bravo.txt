@@ -3261,7 +3261,6 @@ basilicock
 basilics
 basilidian
 bursitises
-basilidianism
 brome
 babydom
 binormal
@@ -10795,6 +10794,7 @@ blepharism
 bizarres
 brosse
 brewster
+basilidianism
 bradford
 bitstalk
 blepharocarcinoma
