@@ -14003,7 +14003,6 @@ cinter
 ceratopsid
 cynthiidae
 cintre
-cinura
 cion
 chaum
 corpus
@@ -15671,6 +15670,7 @@ catholically
 clausal
 clause
 clauses
+cinura
 coattends
 craniotympanic
 cartilaginification
