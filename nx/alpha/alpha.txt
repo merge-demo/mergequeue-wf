@@ -6185,7 +6185,6 @@ adjutantship
 aegerian
 avianized
 aerolitics
-agonic
 aargh
 agonise
 agonistarch
@@ -21968,6 +21967,7 @@ aphanite
 axopodia
 ardhamagadhi
 assorted
+agonic
 alethiologic
 assorter
 athamaunte
