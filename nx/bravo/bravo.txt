@@ -1328,7 +1328,6 @@ basellaceous
 balatron
 benzaldiphenyl
 balatte
-bergfall
 bermudian
 bernoullian
 bingy
@@ -7875,6 +7874,7 @@ berinse
 bombs
 bibliofilm
 blepharosymphysis
+bergfall
 botaniser
 biocatalytic
 bibliographize
