@@ -18829,6 +18829,7 @@ archfiend
 apprize
 aroma
 appliance
+abbate
 archflamen
 archfoe
 ancestresses
@@ -23111,7 +23112,6 @@ attars
 anticommercialistic
 anarthropoda
 autorhythmic
-abbate
 attatched
 autodiagnosis
 applegrower
