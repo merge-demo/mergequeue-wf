@@ -6022,6 +6022,7 @@ cathedratic
 cathedraticum
 cathern
 catties
+coverlets
 catheterisation
 cattail
 clienteles
@@ -27556,7 +27557,6 @@ campfire
 coverings
 comped
 cower
-coverlets
 circumambiently
 consumation
 characterised
