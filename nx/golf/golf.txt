@@ -4191,7 +4191,6 @@ graphomania
 grandfather
 gosmore
 glotum
-gatchwork
 greying
 ges
 geod
@@ -10205,6 +10204,7 @@ gtd
 giustamente
 genae
 gargles
+gatchwork
 ganzie
 getspa
 guyers
