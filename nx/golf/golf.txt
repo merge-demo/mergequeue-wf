@@ -6275,7 +6275,6 @@ graecian
 gyroidal
 grundyist
 galop
-governessy
 gid
 gobbles
 glaucescent
@@ -7130,6 +7129,7 @@ goatherd
 gothics
 getting
 gatter
+governessy
 grottoed
 generalia
 gonothecae
