@@ -13719,7 +13719,6 @@ crotonic
 ciliophora
 corolline
 chagal
-cyanometry
 cynareous
 cynaroid
 chromatical
@@ -14553,6 +14552,7 @@ cankerwort
 culver
 chamoised
 cerilla
+cyanometry
 catheads
 cyst
 consoler
