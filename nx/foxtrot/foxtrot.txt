@@ -4941,6 +4941,7 @@ flightshot
 fergusite
 frenetic
 fchar
+forewrought
 fluidised
 foining
 fluoresced
@@ -8149,7 +8150,6 @@ forefin
 foretasting
 fretsaw
 falisci
-forewrought
 fractionate
 fanaticalness
 foretell
