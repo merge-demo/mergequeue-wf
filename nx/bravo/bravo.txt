@@ -5202,6 +5202,7 @@ befriending
 barns
 beadhouse
 bondfolk
+biliously
 barragan
 blastodisk
 bypasser
@@ -9087,7 +9088,6 @@ bespice
 benightmare
 biopsychological
 breunnerite
-biliously
 brittlewort
 bidented
 brown
