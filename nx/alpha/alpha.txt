@@ -2819,7 +2819,6 @@ antenniform
 areometer
 acromiohumeral
 accrete
-actuals
 adinida
 airways
 acromphalus
@@ -3222,6 +3221,7 @@ ayond
 anagramming
 acraze
 atolls
+actuals
 adiactinic
 aready
 abram
