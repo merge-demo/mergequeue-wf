@@ -7481,6 +7481,7 @@ gourded
 gospelist
 granuliferous
 gabbler
+glaring
 guereza
 glossist
 grabbier
@@ -10812,7 +10813,6 @@ gossipping
 geniolatry
 giggled
 goldtail
-glaring
 gingellies
 ghazis
 greenhide
