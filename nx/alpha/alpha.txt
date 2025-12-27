@@ -17498,7 +17498,6 @@ apparency
 apparentements
 airify
 anoxyscope
-apparently
 apparitional
 aira
 apparitor
@@ -17586,6 +17585,7 @@ anesthesis
 acopyrin
 alienees
 antioptimistical
+apparently
 archartist
 appendiceal
 appendicectomy
