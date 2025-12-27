@@ -4133,7 +4133,6 @@ freeheartedly
 fireback
 frogleaf
 fusilading
-foramina
 fulk
 farmy
 felonry
@@ -5238,6 +5237,7 @@ fourling
 fleas
 fluxroot
 fratcheous
+foramina
 flavid
 fluctuosity
 foetiferous
