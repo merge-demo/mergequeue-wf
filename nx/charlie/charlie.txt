@@ -21015,7 +21015,6 @@ capeskins
 charbroil
 compromitment
 clavariaceae
-compromitted
 crumbling
 cany
 cancerroot
@@ -22914,6 +22913,7 @@ collapsable
 conservator
 conservatory
 conservatorial
+compromitted
 climatologist
 crystograph
 conservatorship
