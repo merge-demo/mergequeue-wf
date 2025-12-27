@@ -1060,6 +1060,7 @@ faro
 fluoridization
 floter
 foredestining
+fecit
 furriery
 flustration
 fiberboard
@@ -6270,7 +6271,6 @@ fluidic
 flapdragon
 friendlike
 frankeniaceous
-fecit
 fluidified
 fluoarsenate
 ferromagnet
