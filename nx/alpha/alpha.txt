@@ -13831,7 +13831,6 @@ affix
 anour
 asher
 anovulant
-anovulatory
 anoxemias
 ashrams
 allophane
@@ -19544,6 +19543,7 @@ acetonic
 acanthopteri
 autoskeleton
 adventist
+anovulatory
 adscendent
 agrological
 anoles
