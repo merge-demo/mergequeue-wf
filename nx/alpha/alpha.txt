@@ -11907,7 +11907,6 @@ anaemias
 anaphylactin
 anaphylactogenic
 anaphylatoxin
-apectomy
 anaphyte
 alkoxide
 acron
@@ -15791,6 +15790,7 @@ appropriament
 alkane
 acenesthesia
 agujon
+apectomy
 acetocinnamene
 asport
 antiphona
