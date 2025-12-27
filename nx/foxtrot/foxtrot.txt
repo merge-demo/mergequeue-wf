@@ -3569,7 +3569,6 @@ fenceful
 florigraphy
 forspoken
 feddan
-flapjacks
 fussle
 fairbanks
 fourniture
@@ -9186,6 +9185,7 @@ fondue
 formidolous
 fossorial
 fonticulus
+flapjacks
 fractionization
 fractions
 forncast
