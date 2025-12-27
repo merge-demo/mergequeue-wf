@@ -3435,6 +3435,7 @@ frauds
 fifties
 fiftieth
 florilegia
+fletton
 figeater
 floriate
 funambulism
@@ -8032,7 +8033,6 @@ forespeaking
 flavorer
 foiter
 farfugium
-fletton
 furcula
 filibustrous
 fissipedia
