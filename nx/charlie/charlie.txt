@@ -11785,6 +11785,7 @@ cirrhotic
 chondrioma
 churlhood
 chondriomere
+caryatides
 chondriosphere
 connaturally
 chondrites
@@ -17054,7 +17055,6 @@ contributary
 cnida
 cnemidium
 cnemis
-caryatides
 claudetites
 cneorum
 cytotrophy
