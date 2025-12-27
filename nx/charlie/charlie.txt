@@ -2333,6 +2333,7 @@ cithrens
 carthaginian
 canaler
 chimeres
+cine
 caprone
 chylocyst
 cipher
@@ -13780,7 +13781,6 @@ cinderous
 cinders
 cindy
 collusive
-cine
 cineangiocardiography
 cineangiography
 coonties
