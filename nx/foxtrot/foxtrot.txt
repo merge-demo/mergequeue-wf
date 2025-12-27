@@ -1820,7 +1820,6 @@ forgets
 featured
 fluidify
 featureful
-featurelessness
 featureliness
 figureheadship
 fellahin
@@ -6446,6 +6445,7 @@ fructifies
 frivoled
 frogeye
 fluoaluminate
+featurelessness
 fainted
 frictionable
 flatcap
