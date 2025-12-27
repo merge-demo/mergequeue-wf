@@ -2477,6 +2477,7 @@ freightage
 fawningness
 fortunize
 fluters
+foaminess
 fatales
 ferociously
 flashforward
@@ -7341,7 +7342,6 @@ fumitory
 fructed
 favelloid
 fleeched
-foaminess
 fixation
 foraying
 freycinetia
