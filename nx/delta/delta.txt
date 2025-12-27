@@ -846,7 +846,6 @@ demicylindrical
 disheartenment
 dreamtime
 dartmoor
-disinterested
 destructors
 detracter
 despoticly
@@ -11855,6 +11854,7 @@ dislikable
 discursify
 deplumed
 dbl
+disinterested
 dissociableness
 discurtain
 discusses
