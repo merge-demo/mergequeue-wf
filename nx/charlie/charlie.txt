@@ -16144,7 +16144,6 @@ canuck
 cliffs
 creators
 calamints
-cliffside
 cliffsman
 cliffweed
 clift
@@ -29500,6 +29499,7 @@ culpatory
 crystallometric
 crystallose
 checkerboard
+cliffside
 coevality
 crystallurgy
 ceruminiferous
