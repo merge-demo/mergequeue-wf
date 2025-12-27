@@ -5799,7 +5799,6 @@ bradyseismal
 boxers
 bromocyanide
 blueprinted
-beflatter
 brassworker
 becrawling
 bromization
@@ -13316,6 +13315,7 @@ bobbery
 backlet
 benes
 buckling
+beflatter
 bandoleered
 bacteriologically
 bradykinesis
