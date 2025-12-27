@@ -15391,7 +15391,6 @@ bother
 brachypterous
 brigandine
 brigantia
-brigantines
 brigatry
 brigetty
 beliquoring
@@ -16517,6 +16516,7 @@ brustle
 bridal
 brusure
 broiders
+brigantines
 bentang
 bluntie
 branchlike
