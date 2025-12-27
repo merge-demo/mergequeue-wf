@@ -3828,7 +3828,6 @@ angiology
 aube
 amati
 aziola
-antitropous
 angiorrhexis
 anartismos
 adipoma
@@ -20985,6 +20984,7 @@ ascendingly
 azodicarboxylic
 ascends
 aerogeologist
+antitropous
 ascension
 accourage
 armorless
