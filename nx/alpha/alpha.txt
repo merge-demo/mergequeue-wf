@@ -2235,7 +2235,6 @@ abovesaid
 amygdalolith
 allows
 achronism
-atmograph
 announcement
 arusa
 albanians
@@ -7568,6 +7567,7 @@ asymptotical
 alce
 assibilate
 alcedinidae
+atmograph
 anderson
 autoretardation
 airiferous
