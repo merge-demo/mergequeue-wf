@@ -1363,7 +1363,6 @@ acceptance
 axisymmetrical
 absorbent
 athalline
-atweel
 achylia
 aguish
 acropetally
@@ -13063,6 +13062,7 @@ alienize
 autognosis
 acronical
 ascus
+atweel
 anil
 anilau
 allen
