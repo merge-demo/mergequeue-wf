@@ -4713,7 +4713,6 @@ gelatia
 generis
 gastraeas
 guzmania
-gallinula
 gynodioecism
 gymnasiast
 gumshoe
@@ -9015,6 +9014,7 @@ greenbelt
 grouseward
 guiltier
 glamorization
+gallinula
 glumaceae
 geosynchronous
 glagah
