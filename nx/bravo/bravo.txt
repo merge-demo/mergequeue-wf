@@ -1787,7 +1787,6 @@ bambochade
 bosuns
 bamboozles
 bamboozling
-bilanders
 brachman
 burdie
 bamboula
@@ -3968,6 +3967,7 @@ barbeiro
 beaminess
 barhal
 bastardizations
+bilanders
 borborygm
 beachcombers
 beachdrops
