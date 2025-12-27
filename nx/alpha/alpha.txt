@@ -10956,6 +10956,7 @@ attainer
 angiogram
 aphrolite
 antilactase
+antagonist
 anchylotic
 aromatizing
 acheat
@@ -17341,7 +17342,6 @@ appetite
 asuang
 apostille
 argos
-antagonist
 aglycosuric
 apheliotropically
 anatiferous
