@@ -1274,6 +1274,7 @@ evaluation
 enmanche
 eelfare
 encrinite
+ergostat
 emperors
 emissions
 enrobe
@@ -8917,7 +8918,6 @@ ergomaniac
 eragrostis
 electrophori
 eyers
-ergostat
 eddie
 entelam
 experimentally
