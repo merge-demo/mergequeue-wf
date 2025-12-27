@@ -4938,7 +4938,6 @@ encumbrance
 extrabureau
 english
 erythroneocytosis
-evolves
 ephyrula
 eyednesses
 enterocoelic
@@ -5302,6 +5301,7 @@ editors
 ecumenicity
 endopodite
 exagitation
+evolves
 eskimoid
 elflocks
 elapsoidea
