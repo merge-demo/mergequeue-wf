@@ -5501,6 +5501,7 @@ broken
 brouze
 bey
 bindi
+biodegrade
 boxed
 bardic
 bootyless
@@ -7059,7 +7060,6 @@ bombidae
 bola
 byre
 beknots
-biodegrade
 blenching
 barbute
 billiardist
