@@ -2127,6 +2127,7 @@ gaining
 gazabo
 guarantors
 ganodus
+galliot
 gormaw
 guarabu
 gazebo
@@ -9455,7 +9456,6 @@ goldtit
 garbline
 glorify
 gobia
-galliot
 gouramis
 gemmate
 garroted
