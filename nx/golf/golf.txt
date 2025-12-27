@@ -3285,6 +3285,7 @@ gashest
 grayback
 gayatri
 gordiacea
+geyseral
 grapta
 gluteofemoral
 gusain
@@ -6739,7 +6740,6 @@ gyrostats
 glomerate
 globulimeter
 glyconic
-geyseral
 gurdfish
 gruine
 glenoid
