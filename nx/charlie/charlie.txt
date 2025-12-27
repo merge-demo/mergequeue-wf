@@ -30019,6 +30019,7 @@ crouchant
 chilognathan
 collare
 crouchback
+curios
 crouched
 crouchie
 cahnite
@@ -31389,7 +31390,6 @@ curiologics
 chewable
 colophon
 colubaria
-curios
 cheminee
 cartridges
 curiosa
