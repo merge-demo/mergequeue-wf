@@ -14103,6 +14103,7 @@ doree
 divoto
 districtly
 dsr
+delegatee
 descendents
 disillusionist
 deflected
@@ -17465,7 +17466,6 @@ definitude
 datums
 docker
 deertongue
-delegatee
 drove
 deedbox
 drovers
