@@ -59,7 +59,6 @@ flauntier
 forebless
 foresight
 friskily
-faster
 fibrolite
 fconv
 fabulously
@@ -8990,6 +8989,7 @@ flywort
 fiacre
 footle
 feldspath
+faster
 feverwort
 falconries
 frivolities
