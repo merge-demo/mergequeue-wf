@@ -238,6 +238,7 @@ golpe
 gulaman
 gaspereau
 gaiter
+gluelike
 goajiro
 groot
 gibbons
@@ -4566,7 +4567,6 @@ gracefully
 girellidae
 gurts
 greenhorns
-gluelike
 gravicembalo
 gutturalized
 gilim

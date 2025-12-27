@@ -5682,7 +5682,6 @@ flingy
 funded
 fiddlestring
 flings
-freestyle
 fishwife
 flinkite
 fluffer
@@ -6830,6 +6829,7 @@ faultiest
 fragmentizer
 foretold
 fructifier
+freestyle
 forger
 foliaged
 firetower
