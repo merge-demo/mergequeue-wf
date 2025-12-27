@@ -15083,6 +15083,7 @@ armomancy
 ascetics
 async
 aruke
+aminosis
 alloiometry
 antidote
 appraise
@@ -15285,7 +15286,6 @@ antigravity
 antigrowth
 affectible
 anatomizes
-aminosis
 autonym
 antihalation
 alcantarines
