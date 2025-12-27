@@ -8240,7 +8240,6 @@ allactite
 alchemized
 aliene
 auctors
-antisera
 athermous
 avenges
 alienigenate
@@ -12521,6 +12520,7 @@ anenst
 antifame
 agaric
 arboroid
+antisera
 abogados
 apodoses
 affectability
