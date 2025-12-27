@@ -5694,6 +5694,7 @@ demigods
 desterilized
 dialysed
 disposit
+deduit
 depeopling
 deplenish
 dialup
@@ -15481,7 +15482,6 @@ donack
 dowsed
 daishiki
 defibrillate
-deduit
 dogless
 donat
 donatee
