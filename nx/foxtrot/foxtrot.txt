@@ -81,6 +81,7 @@ facemark
 flocklike
 forme
 filching
+fraternised
 fortuitously
 faces
 folkright
@@ -9471,7 +9472,6 @@ fireboats
 flambant
 felonsetting
 formic
-fraternised
 footstone
 following
 fraternism
