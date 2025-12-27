@@ -6385,7 +6385,6 @@ benzofuran
 benzofuryl
 biozone
 belgium
-benzoglycolic
 benzoglyoxaline
 bastioned
 benzohydrol
@@ -7708,6 +7707,7 @@ bumblebee
 backfilling
 bezzo
 bhabar
+benzoglycolic
 belemnites
 bacchanalization
 bassetted
