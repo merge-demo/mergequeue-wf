@@ -2786,7 +2786,6 @@ dihydrate
 dahomeyan
 decrassified
 daun
-draughtiness
 dian
 dreche
 druggist
@@ -12598,6 +12597,7 @@ disintegrator
 deifications
 disintegrators
 disintegrity
+draughtiness
 disinter
 disinterest
 disinterestedly
