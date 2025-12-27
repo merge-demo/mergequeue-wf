@@ -2041,7 +2041,6 @@ elytrigerous
 emersion
 ethiopic
 elaenia
-elaeocarpaceae
 effranchisement
 eyeshot
 expungers
@@ -8763,6 +8762,7 @@ effs
 exciples
 ektexines
 emmergoose
+elaeocarpaceae
 entombing
 embryotrophic
 equivelocity
