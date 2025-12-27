@@ -5942,7 +5942,6 @@ bimetalic
 belter
 buyouts
 ballistic
-bestrowing
 beltie
 boogerman
 bludged
@@ -12311,6 +12310,7 @@ boltrope
 begrave
 bonellia
 barbarea
+bestrowing
 bindis
 budgeteer
 brunetness
