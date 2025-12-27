@@ -14302,7 +14302,6 @@ christmases
 circumnavigable
 circumnavigate
 champers
-circumnavigates
 corollike
 circumnavigating
 circumnavigation
@@ -22891,6 +22890,7 @@ consertion
 chemophysiological
 conservacy
 conservancy
+circumnavigates
 coutelle
 conservant
 conservate
