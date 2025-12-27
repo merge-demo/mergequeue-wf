@@ -4127,7 +4127,6 @@ botulinum
 beardy
 blanchimeter
 bearding
-bonita
 balminess
 banda
 beslimer
@@ -10277,6 +10276,7 @@ belly
 backflow
 boracic
 blacksmithing
+bonita
 biochemy
 beastdom
 botargo
