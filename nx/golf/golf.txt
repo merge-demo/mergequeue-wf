@@ -1911,6 +1911,7 @@ ganglia
 giraffes
 gulped
 gastromycosis
+gurjan
 geal
 garnetwork
 garnet
@@ -2155,7 +2156,6 @@ geheimrat
 gallophobe
 gantlopes
 guayaberas
-gurjan
 griffith
 goldish
 gastropulmonary
