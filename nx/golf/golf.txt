@@ -3737,6 +3737,7 @@ goetia
 gasterosteus
 groundedness
 galaginae
+gapy
 garnierite
 ghoulishly
 gringolee
@@ -5644,7 +5645,6 @@ gastralgic
 gobbling
 growsome
 grubbiest
-gapy
 glaringly
 groma
 glyoxal
