@@ -2433,6 +2433,7 @@ falus
 footbridges
 fermentescible
 filiform
+furzery
 fielding
 falla
 filechar
@@ -11026,7 +11027,6 @@ flutidae
 femororotulian
 floriferously
 festal
-furzery
 fuming
 foresights
 fora
