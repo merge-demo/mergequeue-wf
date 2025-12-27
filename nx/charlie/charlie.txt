@@ -6087,6 +6087,7 @@ catholicon
 clinkers
 catholicos
 curarize
+cervicitis
 coraciiform
 cleg
 cyanide
@@ -7878,7 +7879,6 @@ caenogenesis
 cichloid
 cerviciplex
 cervicispinal
-cervicitis
 cervicoauricular
 chippable
 cervicobasilar
