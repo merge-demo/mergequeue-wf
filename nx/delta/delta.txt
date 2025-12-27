@@ -3250,6 +3250,7 @@ dudder
 deferrable
 deferrer
 deferrize
+dissave
 disturbative
 densen
 deferrized
@@ -10802,7 +10803,6 @@ directorate
 deviscerate
 dispartment
 dixies
-dissave
 deceasing
 discolorate
 deviates
