@@ -1329,6 +1329,7 @@ effect
 endocardiac
 exopeptidase
 effective
+enhallow
 euryphagous
 extracolumella
 epimachinae
@@ -8725,7 +8726,6 @@ eradications
 enjoyed
 esthesiogenic
 elastometry
-enhallow
 electroencephalograph
 equisided
 equisignal
