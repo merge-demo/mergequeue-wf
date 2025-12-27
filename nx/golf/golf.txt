@@ -2282,6 +2282,7 @@ geissoloma
 geissolomataceae
 geissospermine
 gymnorhinal
+glyoxalic
 genecologic
 glimpses
 granulocytopoiesis
@@ -5420,7 +5421,6 @@ groupageness
 geared
 gastroesophageal
 gulfside
-glyoxalic
 galliwasp
 guniter
 glyphic
