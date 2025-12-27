@@ -6457,7 +6457,6 @@ flapjack
 fluorotic
 firring
 floretty
-fisherboat
 feltman
 froisse
 follicle
@@ -8840,6 +8839,7 @@ flotillas
 fossage
 fanlight
 fidel
+fisherboat
 fearable
 flexured
 friss
