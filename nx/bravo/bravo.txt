@@ -2040,6 +2040,7 @@ bicollaterality
 bankrolling
 bankrupt
 bosporan
+brutely
 bersaglieri
 bankruptism
 bessy
@@ -16547,7 +16548,6 @@ budzat
 broadpiece
 bisellium
 bisonant
-brutely
 blindstitch
 basils
 burgality
