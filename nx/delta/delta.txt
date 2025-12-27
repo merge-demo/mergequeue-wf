@@ -3406,7 +3406,6 @@ donet
 deflector
 dichlorvos
 dumpcarts
-devitrifying
 deflesh
 dysgenics
 diversely
@@ -5115,6 +5114,7 @@ daubes
 dumber
 dendrologous
 derivatives
+devitrifying
 devorative
 dextrosinistral
 dundee
