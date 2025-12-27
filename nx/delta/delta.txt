@@ -430,7 +430,6 @@ dodrantal
 dhourra
 discoursers
 dairous
-dairt
 dais
 disinthrall
 donjons
@@ -11956,6 +11955,7 @@ disembarking
 denominationally
 disbloom
 disembarks
+dairt
 dentifrices
 degum
 detestability
