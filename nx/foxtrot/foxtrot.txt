@@ -2345,7 +2345,6 @@ frightener
 fanhouse
 feres
 floatstone
-flytings
 fegs
 frolicky
 favoritism
@@ -4681,6 +4680,7 @@ forgivably
 fearsome
 fiddled
 figurante
+flytings
 flaunched
 flections
 flexibilities
