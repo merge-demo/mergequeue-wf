@@ -423,6 +423,7 @@ dorsoanterior
 drinker
 dairywomen
 daunder
+dictates
 descanting
 dayrooms
 deities
@@ -2750,7 +2751,6 @@ diogenic
 decorator
 deliberated
 devonshire
-dictates
 dissembling
 decore
 dewcup
