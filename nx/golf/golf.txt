@@ -1748,7 +1748,6 @@ guernseys
 gaullism
 gastropexy
 gutte
-greaseproof
 gastrophile
 garroo
 gorgonacea
@@ -8234,6 +8233,7 @@ geniohyoid
 gied
 grim
 gem
+greaseproof
 grapeskin
 goldurned
 galenical
