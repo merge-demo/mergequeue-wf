@@ -6968,6 +6968,7 @@ borele
 bigarade
 besides
 beckett
+bedman
 barrico
 besiegers
 beslap
@@ -14415,7 +14416,6 @@ brainge
 beepers
 belabours
 brainily
-bedman
 boom
 blaw
 braininess
