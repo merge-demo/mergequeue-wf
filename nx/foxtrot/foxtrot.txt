@@ -1650,6 +1650,7 @@ fied
 foreannounce
 fellowless
 fipenny
+foraneen
 four
 fdnames
 forthcut
@@ -7383,7 +7384,6 @@ fought
 flabbily
 france
 farset
-foraneen
 ferrateen
 ferocious
 fluoridising
