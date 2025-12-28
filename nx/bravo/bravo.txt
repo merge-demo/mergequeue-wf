@@ -15985,6 +15985,7 @@ bower
 brontoscopy
 bronchioli
 bronchiospasm
+bacterioblast
 bronchitic
 bronchitis
 bethrall
@@ -17283,7 +17284,6 @@ bimethyl
 bumblers
 bumbles
 bootlaces
-bacterioblast
 bumbling
 bumbo
 begum
