@@ -12395,7 +12395,6 @@ arborizes
 acop
 actuary
 andromed
-andromeda
 andromedotoxin
 amargoso
 andromonoecism
@@ -16189,6 +16188,7 @@ achroodextrin
 agromania
 azoth
 antisophism
+andromeda
 acuity
 antisophist
 antisophistication
