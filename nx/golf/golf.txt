@@ -362,7 +362,6 @@ gynobasic
 gelded
 galangin
 golundauze
-gavot
 gaoled
 gentiles
 gansy
@@ -5439,6 +5438,7 @@ glebae
 ghostwrites
 galactophlebitis
 gravidae
+gavot
 gracelike
 griphosaurus
 gammarid
