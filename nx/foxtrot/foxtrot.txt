@@ -6605,7 +6605,6 @@ flyboats
 falconiform
 franseria
 fomento
-flunkeyism
 feltness
 frounce
 foamflower
@@ -10154,6 +10153,7 @@ franion
 foretopman
 fremt
 fructuary
+flunkeyism
 footlight
 functionality
 frithles
