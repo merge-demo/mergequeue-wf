@@ -7799,7 +7799,6 @@ electromagnetize
 extrudable
 envisage
 ethnobotany
-etherish
 endearedly
 epigyne
 endotoxic
@@ -9785,6 +9784,7 @@ expositional
 echiuroidea
 endarterial
 engrave
+etherish
 efficiencies
 encouragements
 euphrates
