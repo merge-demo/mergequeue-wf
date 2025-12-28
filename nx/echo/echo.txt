@@ -942,6 +942,7 @@ endowments
 endorsements
 electrophoretic
 epilogues
+excusation
 ectropium
 eluvia
 erogenesis
@@ -4851,7 +4852,6 @@ encomiumia
 encompassment
 epileptologist
 embira
-excusation
 episiotomy
 echard
 encores
