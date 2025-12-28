@@ -11386,7 +11386,6 @@ discipling
 disciplining
 depopulator
 discipular
-desktop
 deadbeats
 doctrinize
 deuterogenesis
@@ -16688,6 +16687,7 @@ duodiode
 detach
 darnel
 drinking
+desktop
 despondent
 disturbers
 diablo
