@@ -4044,7 +4044,6 @@ georgium
 gesan
 gossipy
 gopherroot
-gilles
 gynostegium
 gabendum
 genesic
@@ -10818,6 +10817,7 @@ greenhide
 galactophthysis
 gyokuro
 glimmers
+gilles
 gargol
 gelatinizing
 gyved
