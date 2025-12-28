@@ -7086,7 +7086,6 @@ bezzant
 bennetweed
 bespattered
 boshvarks
-batara
 barracks
 bannerette
 briquetting
@@ -10958,6 +10957,7 @@ biclinia
 barth
 bourrees
 blinkard
+batara
 blesbuck
 bedlamism
 bombilation
