@@ -6420,7 +6420,6 @@ forefoot
 fronture
 frough
 furry
-frogspawn
 fafnir
 fecundatory
 formularization
@@ -7064,6 +7063,7 @@ folkloristic
 ferrum
 fractionalized
 forgiveness
+frogspawn
 flaxlike
 fontal
 freakout
