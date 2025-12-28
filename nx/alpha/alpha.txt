@@ -5834,7 +5834,6 @@ amphibium
 agenesis
 agenetic
 agenize
-agenized
 akamatsu
 agenizing
 agennesis
@@ -6335,6 +6334,7 @@ airs
 amphionic
 anticonventionalism
 assertedly
+agenized
 amoeba
 akhund
 anamorphote
