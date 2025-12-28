@@ -5956,7 +5956,6 @@ gurneys
 glutaminic
 galliambus
 gimbri
-gome
 glutelins
 greaten
 guerrillaship
@@ -8706,6 +8705,7 @@ gree
 glean
 gynaecoid
 groundable
+gome
 glissading
 gismondite
 gutterling
