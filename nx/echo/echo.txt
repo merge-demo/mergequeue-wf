@@ -868,7 +868,6 @@ eigenfunction
 erythrocytolysin
 electrocution
 extraprofessional
-endophyte
 entailed
 ectomorph
 ectoparasite
@@ -13876,6 +13875,7 @@ ectobronchium
 eucalyptus
 enviers
 extraessential
+endophyte
 eeyuck
 extragalactic
 enteraden
