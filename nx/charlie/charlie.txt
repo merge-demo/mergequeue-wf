@@ -4245,7 +4245,6 @@ carditis
 carditises
 cardium
 continual
-chopin
 chapbooks
 cardo
 colorum
@@ -9003,6 +9002,7 @@ concertized
 chargeful
 chargehouse
 chargeless
+chopin
 charger
 charges
 charybdian
