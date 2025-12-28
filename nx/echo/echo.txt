@@ -6214,6 +6214,7 @@ ennobling
 embarren
 ensteel
 ectosarcous
+equipments
 exterritorialize
 evviva
 enoint
@@ -6925,7 +6926,6 @@ epispore
 ectocardia
 endometria
 evaporable
-equipments
 embelif
 eucalyn
 epiblema
