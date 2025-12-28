@@ -2850,7 +2850,6 @@ bullionist
 buttonmold
 barbery
 barrabora
-barrack
 borh
 ballers
 barracking
@@ -7237,6 +7236,7 @@ briary
 breaching
 blades
 beveled
+barrack
 bestraddled
 bytime
 bongrace
