@@ -49,6 +49,7 @@ emigrational
 edging
 eardropper
 euchromosome
+epigraphic
 econometric
 earflap
 expender
@@ -1787,7 +1788,6 @@ extg
 embattle
 emule
 exhbn
-epigraphic
 eutony
 eyes
 encasing
