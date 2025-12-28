@@ -2378,6 +2378,7 @@ foredating
 fromfile
 foreordinating
 freakpot
+fraises
 fantods
 fervidor
 functioning
@@ -9282,7 +9283,6 @@ fortunately
 fraised
 frug
 fertilities
-fraises
 fretwise
 fantaisie
 fascinery
