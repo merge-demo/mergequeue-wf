@@ -535,6 +535,7 @@ estate
 entosphenal
 echeneidae
 endobiotic
+elations
 endonucleolus
 evocate
 electrophorus
@@ -13888,7 +13889,6 @@ empanada
 extirpates
 extramatrical
 exculpating
-elations
 ephymnium
 engineer
 etheria
