@@ -10415,7 +10415,6 @@ chided
 chiders
 colorbreed
 collusion
-ciphertexts
 cedarbird
 chucky
 chilies
@@ -29770,6 +29769,7 @@ concessionaires
 coset
 causticize
 criminatory
+ciphertexts
 crooknosed
 crooksided
 cunjevoi
