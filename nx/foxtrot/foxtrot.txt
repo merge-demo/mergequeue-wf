@@ -8282,7 +8282,6 @@ families
 flashtubes
 fillingness
 fibromyomatous
-folily
 forthcall
 forgetful
 fogdog
@@ -9841,6 +9840,7 @@ flowoff
 fattens
 fleck
 faddist
+folily
 foamy
 fretum
 fidget
