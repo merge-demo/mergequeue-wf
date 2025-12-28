@@ -6326,7 +6326,6 @@ badinerie
 biblic
 barrer
 biflex
-butment
 brike
 benzanthracene
 boxboard
@@ -8251,6 +8250,7 @@ balagan
 bullfist
 brothership
 bespurt
+butment
 bulgaric
 biforate
 biforking
