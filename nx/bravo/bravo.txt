@@ -16114,7 +16114,6 @@ bertillonage
 ballonets
 brawlers
 brook
-brooke
 bounteous
 babiana
 bedrape
@@ -16791,6 +16790,7 @@ blasthole
 bewhistle
 bromised
 babis
+brooke
 bullyingly
 berlins
 backword
