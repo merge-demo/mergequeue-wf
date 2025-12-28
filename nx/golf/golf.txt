@@ -1864,6 +1864,7 @@ gambles
 gazehound
 growlery
 guffaw
+gung
 gilgai
 goofy
 geodic
@@ -2774,7 +2775,6 @@ gastrotympanites
 gentianella
 gregatim
 gadhelic
-gung
 grabbled
 garbs
 gelotometer
