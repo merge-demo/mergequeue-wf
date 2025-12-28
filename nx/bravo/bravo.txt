@@ -10002,6 +10002,7 @@ biland
 betrap
 bergerette
 basommatophora
+biocides
 blockers
 bultong
 balustraded
@@ -13843,7 +13844,6 @@ brachychronic
 bramblebush
 blabberer
 butters
-biocides
 babesias
 bemixed
 bleachery
