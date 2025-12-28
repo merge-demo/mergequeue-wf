@@ -5581,7 +5581,6 @@ fiendlike
 flockowner
 fossicking
 firefight
-forgette
 fader
 floweret
 flycatchers
@@ -7366,6 +7365,7 @@ franchisers
 fronds
 flob
 frowy
+forgette
 fulcrum
 feathered
 focimeter
