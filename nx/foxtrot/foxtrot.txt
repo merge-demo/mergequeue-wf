@@ -8380,7 +8380,6 @@ fulminates
 forkier
 frederic
 fumewort
-forcy
 familiars
 faradmeter
 flues
@@ -9840,6 +9839,7 @@ fragmentary
 flowoff
 fattens
 fleck
+forcy
 faddist
 foamy
 fretum

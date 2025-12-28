@@ -6884,7 +6884,6 @@ chambermaid
 celloid
 chairmaker
 cathodofluorescence
-celloidin
 constative
 counterbalance
 cellose
@@ -21260,6 +21259,7 @@ cabber
 companionably
 chopped
 chibchan
+celloidin
 concernancy
 concerned
 cumbersome
