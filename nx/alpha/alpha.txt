@@ -2866,7 +2866,6 @@ astrol
 antiendowment
 acropoleis
 acuminated
-acropolitan
 asthenope
 archpontiff
 acarologist
@@ -19474,6 +19473,7 @@ acaena
 argillaceous
 affectively
 amphipodiform
+acropolitan
 alwite
 armgaunt
 archwife

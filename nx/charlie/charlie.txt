@@ -19315,6 +19315,7 @@ colones
 colongitude
 colony
 crabbier
+comox
 cabezones
 coresidence
 chelem
@@ -20399,7 +20400,6 @@ comourn
 chaffcutter
 corycavamine
 cybister
-comox
 cistae
 cuiejos
 compact
