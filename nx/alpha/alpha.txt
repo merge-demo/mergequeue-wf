@@ -5768,6 +5768,7 @@ atrophies
 aviation
 acrocephalia
 amyelencephalia
+alerce
 analyticity
 abducentes
 abranchiata
@@ -17843,7 +17844,6 @@ amobarbital
 apppetible
 atmans
 aheap
-alerce
 afteroar
 appaloosas
 anthropophagi
