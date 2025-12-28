@@ -4404,7 +4404,6 @@ gemmated
 gameless
 grides
 gumdigger
-gurdwara
 ganggang
 galantine
 grevillea
@@ -6515,6 +6514,7 @@ gravelled
 guddling
 gruffness
 genetic
+gurdwara
 glaikitness
 gariba
 galvanocautery
