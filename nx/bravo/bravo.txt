@@ -4151,7 +4151,6 @@ bowdlerizations
 bearm
 brevet
 backdrop
-barbastel
 bagwigs
 baddishness
 bearward
@@ -5150,6 +5149,7 @@ beflowered
 biotas
 bogbean
 beguile
+barbastel
 bankers
 batoid
 benzdioxazine
