@@ -9445,7 +9445,6 @@ disserting
 digestible
 deedier
 dite
-digestibleness
 digestibly
 delesseriaceae
 disconfirmation
@@ -15264,6 +15263,7 @@ dolled
 departmentalizing
 dehull
 dollia
+digestibleness
 deuteranopic
 dingmaul
 disbursal
