@@ -14563,7 +14563,6 @@ betrail
 branchiogenous
 branchiomere
 baikie
-bibliogony
 bottomless
 branchiopod
 bauckie
@@ -14580,6 +14579,7 @@ biosociology
 branchiostomid
 bounciest
 branchiostomous
+bibliogony
 branchireme
 branchless
 bdellostomidae
