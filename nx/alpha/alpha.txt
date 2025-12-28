@@ -2607,7 +2607,6 @@ agapeic
 allocated
 auxoflore
 abutters
-acquire
 antescript
 asiden
 acquisite
@@ -8386,6 +8385,7 @@ aortoptosis
 amaryllidaceous
 aspidosperma
 alkahestica
+acquire
 arabana
 annoys
 alcoholometrical
