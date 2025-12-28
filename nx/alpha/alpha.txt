@@ -2906,6 +2906,7 @@ acrostichoid
 acrostichum
 adoptianism
 afterrider
+abnegate
 acrosticism
 axiomatized
 areawide
@@ -14370,7 +14371,6 @@ andries
 analgetic
 assortatively
 anisocycle
-abnegate
 alphitomancy
 apselaphesis
 anthozoon
