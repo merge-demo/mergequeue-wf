@@ -6,7 +6,6 @@ generalcy
 gaseliers
 glossalgia
 greenleek
-gunrooms
 gabber
 gabbers
 gobi
@@ -2399,6 +2398,7 @@ gestating
 gemma
 gardeners
 gambol
+gunrooms
 gemmating
 gushier
 gemmer
