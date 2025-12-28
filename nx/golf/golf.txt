@@ -1773,7 +1773,6 @@ gambados
 guaycuruan
 galliambic
 gastrorrhea
-graecizes
 gilver
 garcons
 goutiest
@@ -5072,6 +5071,7 @@ grapplers
 gloxinia
 glasshouses
 gateaux
+graecizes
 gasts
 glued
 grisoutine
