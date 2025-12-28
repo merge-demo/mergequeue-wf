@@ -4864,7 +4864,6 @@ arcanum
 algorithms
 antipedal
 adoors
-archhost
 anticonservative
 arenite
 areek
@@ -19031,6 +19030,7 @@ archmocker
 agricolist
 anastomosed
 auctionary
+archhost
 autochthonic
 authorial
 algol
