@@ -3095,7 +3095,6 @@ gynethusia
 grulla
 goujay
 gunpoint
-guardroom
 generally
 gesling
 gumbotils
@@ -8598,6 +8597,7 @@ gunpapers
 gravisphere
 guiltlessly
 gravitative
+guardroom
 glomeli
 gainliest
 globalize
