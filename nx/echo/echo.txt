@@ -473,7 +473,6 @@ escapements
 erf
 eveners
 enanthesis
-expediteness
 evector
 ecclesia
 ecclesiarchy
@@ -1812,6 +1811,7 @@ eumemorrhea
 erinose
 entericoid
 epigraphical
+expediteness
 engravers
 embankments
 encompasser
