@@ -6105,7 +6105,6 @@ goodby
 gordiacean
 girja
 gigliato
-gardinol
 gallimaufry
 gyrous
 gurniad
@@ -7191,6 +7190,7 @@ giftless
 gushing
 gladden
 gestate
+gardinol
 galvayne
 grammaticalness
 guebre
