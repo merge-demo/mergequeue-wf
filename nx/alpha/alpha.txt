@@ -17490,6 +17490,7 @@ aerostatics
 abstentious
 appar
 actinoidea
+azoic
 apparat
 antidiabetic
 antigonus
@@ -25309,7 +25310,6 @@ abask
 amontillados
 assoiled
 azohumic
-azoic
 appellancy
 azoles
 aleph
