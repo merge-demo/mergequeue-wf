@@ -3805,7 +3805,6 @@ filose
 ferrier
 furnitureless
 foreflap
-filterableness
 facette
 fairyism
 footblower
@@ -11304,6 +11303,7 @@ formularized
 finnoc
 florikan
 fleming
+filterableness
 foyer
 furcate
 fenagled
