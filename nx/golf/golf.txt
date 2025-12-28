@@ -7177,7 +7177,6 @@ glucolipin
 graftage
 gastrotaxis
 gabelle
-glistering
 glider
 gulfweed
 geometrise
@@ -7209,6 +7208,7 @@ granuloma
 gonomery
 gonagra
 geniuses
+glistering
 gibed
 geelbeck
 grassier
