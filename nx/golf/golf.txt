@@ -4235,7 +4235,6 @@ gladiators
 grovelling
 gumptionless
 gloats
-gunsling
 gasteralgia
 garrisoning
 gilty
@@ -8472,6 +8471,7 @@ goldbricks
 glaciarium
 gushily
 goonch
+gunsling
 gratuitant
 glossograph
 grenatite
