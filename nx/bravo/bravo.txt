@@ -5500,7 +5500,6 @@ bindi
 boxed
 bardic
 bootyless
-bobbled
 bechained
 beige
 barracudas
@@ -14089,6 +14088,7 @@ bakehouse
 bicuspidate
 brachydactylism
 bebusy
+bobbled
 bottlebird
 bacteroides
 brachydodromous
