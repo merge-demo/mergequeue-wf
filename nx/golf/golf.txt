@@ -10101,7 +10101,6 @@ gresil
 galahs
 gastropods
 garrulus
-ghostwrote
 galactodensimeter
 grammarian
 gekkonoid
@@ -10747,6 +10746,7 @@ gymnosophical
 gypsyry
 gedackt
 geckotoid
+ghostwrote
 globulin
 grovelers
 gerodontics
