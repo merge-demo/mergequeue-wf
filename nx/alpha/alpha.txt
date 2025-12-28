@@ -18664,6 +18664,7 @@ archaism
 algebraically
 ati
 asporulate
+apeak
 alodium
 albuminometry
 allotheist
@@ -24909,7 +24910,6 @@ awakable
 acoelomate
 awake
 awakened
-apeak
 amminolysis
 algometer
 alopekai
