@@ -1283,7 +1283,6 @@ eightling
 exfiltrate
 emperors
 emissions
-enrobe
 ecclesiarch
 eversive
 eking
@@ -6514,6 +6513,7 @@ ensurance
 ensuring
 equators
 excited
+enrobe
 exposed
 enswathement
 elementariness
