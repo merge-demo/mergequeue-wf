@@ -2376,6 +2376,7 @@ excrete
 espaliering
 encore
 encomia
+equines
 evenlong
 equison
 ephedrine
@@ -6744,7 +6745,6 @@ elaborately
 endosepsis
 echimys
 epicenters
-equines
 espaliers
 epithecal
 evaginable
