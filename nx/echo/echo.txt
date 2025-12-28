@@ -6685,7 +6685,6 @@ exhedrae
 enterology
 epactal
 enterologic
-epanastrophe
 exhaled
 enteromegalia
 enteroneuritis
@@ -10016,6 +10015,7 @@ electrode
 espoused
 enseem
 eurhythmical
+epanastrophe
 electrodiagnostically
 extrorsal
 electrodiagnostic
