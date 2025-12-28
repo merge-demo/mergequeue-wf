@@ -27486,7 +27486,6 @@ columbella
 carnaubic
 covarecas
 covary
-chelicerae
 curtailer
 covariable
 chumpiness
@@ -30239,6 +30238,7 @@ cruised
 controllers
 cruises
 cruising
+chelicerae
 cruive
 cruller
 chubbedness
