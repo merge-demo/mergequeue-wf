@@ -2110,7 +2110,6 @@ coadjuvancy
 campania
 cecils
 comdg
-crunchier
 campanile
 colloquiquiums
 cyclist
@@ -15542,6 +15541,7 @@ clasher
 cleistogenous
 cogeneration
 clashers
+crunchier
 clashes
 censures
 clashing
