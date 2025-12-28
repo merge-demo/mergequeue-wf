@@ -3468,7 +3468,6 @@ exteriors
 enteropneustan
 expenditures
 equaled
-evacuate
 emetines
 embellisher
 expressible
@@ -4209,6 +4208,7 @@ emulgent
 emprosthotonic
 electrothanatosis
 effeteness
+evacuate
 emptied
 exhorter
 echolalic
