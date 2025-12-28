@@ -521,7 +521,6 @@ gomphocarpus
 getters
 gnetaceous
 gamodemes
-galler
 grandmammy
 grandsirs
 germanium
@@ -2637,6 +2636,7 @@ grayware
 graal
 gigues
 glims
+galler
 gymnosophist
 genethlic
 glossopetra
