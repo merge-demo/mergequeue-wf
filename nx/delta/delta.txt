@@ -4666,7 +4666,6 @@ duties
 dipterologist
 demiurgeous
 downswings
-decking
 derealization
 declaration
 demiurgos
@@ -15662,6 +15661,7 @@ doorweed
 doover
 doozers
 dasystephana
+decking
 dray
 dowieism
 didascaliae
