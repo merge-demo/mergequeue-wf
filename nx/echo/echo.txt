@@ -2343,7 +2343,6 @@ eagled
 encrypting
 eyras
 electroacoustic
-electroacoustical
 elfkin
 exradius
 electroacoustics
@@ -8584,6 +8583,7 @@ edificable
 equate
 eburnification
 enharmonic
+electroacoustical
 earnings
 equibalanced
 electrodialitic
