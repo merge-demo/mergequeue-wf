@@ -4927,6 +4927,7 @@ frequentable
 flambeau
 foamier
 fixate
+florisugent
 fossilist
 finisher
 floreat
@@ -6089,7 +6090,6 @@ forgeman
 figurial
 foxhounds
 filchery
-florisugent
 flint
 fanfare
 flauntingly
