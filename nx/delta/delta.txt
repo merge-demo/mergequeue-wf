@@ -5546,6 +5546,7 @@ drawrod
 drainermen
 deoxygenized
 demicolumn
+doubleton
 diffusionism
 depascent
 debilitation
@@ -16303,7 +16304,6 @@ defended
 downshift
 downshifted
 downshore
-doubleton
 disvalue
 dephlegmatize
 dibbler
