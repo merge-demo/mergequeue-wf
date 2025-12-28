@@ -12359,6 +12359,7 @@ exflect
 endower
 eclated
 enteromyiasis
+errordump
 epicleidium
 emerod
 earlier
@@ -13915,7 +13916,6 @@ electee
 empathy
 epimerizing
 exorcized
-errordump
 euphoniousness
 emigrative
 extramusical
