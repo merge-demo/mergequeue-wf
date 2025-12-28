@@ -5604,7 +5604,6 @@ fossilation
 formulary
 fmt
 flyer
-femaleness
 forwhy
 forfar
 fingerwise
@@ -11725,6 +11724,7 @@ folkland
 fantastically
 feudalised
 fadingly
+femaleness
 futurition
 fashionably
 fratority
