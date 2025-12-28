@@ -2710,7 +2710,6 @@ enfant
 extendibility
 eudaemonics
 engenderment
-exhort
 epispadia
 estampie
 escrol
@@ -4511,6 +4510,7 @@ erythrophagous
 encephalitic
 executively
 emulators
+exhort
 embryophyta
 encephalographic
 ekphorize

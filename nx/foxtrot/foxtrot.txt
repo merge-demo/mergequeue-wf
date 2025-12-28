@@ -927,6 +927,7 @@ faradised
 flether
 furfural
 fardo
+farceur
 ferneries
 flyleaf
 foundry
@@ -3538,7 +3539,6 @@ foulsome
 filamentary
 filament
 flannelleaves
-farceur
 flagrancy
 frowziness
 fath
