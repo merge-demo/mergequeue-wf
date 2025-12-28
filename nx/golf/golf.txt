@@ -6044,7 +6044,6 @@ glovemen
 glycemia
 griddle
 gownsman
-gullishly
 guttiest
 geld
 gyttja
@@ -6700,6 +6699,7 @@ goniatites
 geoside
 garterless
 gamekeeper
+gullishly
 gainsayer
 grint
 gibbet
