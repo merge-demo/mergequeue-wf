@@ -1248,6 +1248,7 @@ gayeties
 gaia
 glenwood
 granage
+gardens
 ged
 gavall
 goethites
@@ -4951,7 +4952,6 @@ glaives
 get
 galangal
 gamdia
-gardens
 grenadierly
 guddle
 gnathophorous
