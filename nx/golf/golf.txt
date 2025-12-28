@@ -6698,6 +6698,7 @@ gamekeeper
 gullishly
 gainsayer
 gibelite
+gavelling
 grint
 gibbet
 germanious
@@ -8734,7 +8735,6 @@ greekize
 gleave
 gulravage
 gynecomorphous
-gavelling
 grammars
 gastraeal
 gnathonical
