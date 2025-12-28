@@ -6549,7 +6549,6 @@ confiner
 cambodia
 cavelike
 cavemen
-cavernal
 cavernlike
 cavernoma
 cavernous
@@ -24326,6 +24325,7 @@ cottonpicking
 cooja
 cook
 cookable
+cavernal
 carbureter
 chapeau
 creation
