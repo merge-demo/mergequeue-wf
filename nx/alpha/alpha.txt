@@ -9672,7 +9672,6 @@ alveoliform
 aduncated
 aquatints
 alveololabial
-achene
 acariatre
 ambries
 alveololingual
@@ -12481,6 +12480,7 @@ anemographically
 anemologic
 anticonfederationist
 anemometrically
+achene
 attenuated
 amanuenses
 anemometrographically
