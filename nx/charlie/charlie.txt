@@ -3278,7 +3278,6 @@ capitalizing
 capitalness
 capitan
 capitana
-capitasti
 capitated
 capitatim
 cputime
@@ -24508,6 +24507,7 @@ copaene
 copaiba
 copaifera
 cupfuls
+capitasti
 clr
 courtliness
 circovarian
