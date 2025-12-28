@@ -137,7 +137,6 @@ amused
 afterwitted
 amyotrophic
 amoebid
-amphibiotic
 abatage
 abate
 alienisms
@@ -12747,6 +12746,7 @@ anaunter
 aubergine
 angiodermatitis
 angiodiascopy
+amphibiotic
 allegiare
 adaptorial
 angiogeny
