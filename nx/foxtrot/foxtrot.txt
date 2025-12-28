@@ -3985,7 +3985,6 @@ frontlessness
 formability
 forechoose
 forestalled
-friese
 flattish
 forfeited
 flunk
@@ -11436,6 +11435,7 @@ fortunetell
 formfeed
 frizers
 firebase
+friese
 flirtation
 fiducially
 frictionized
