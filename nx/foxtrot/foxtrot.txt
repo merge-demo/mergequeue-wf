@@ -1864,6 +1864,7 @@ fluidizer
 farthermore
 fruiterers
 febriphobia
+fifteenths
 februarius
 flemishing
 fringefoot
@@ -9226,7 +9227,6 @@ fulfulde
 forward
 filices
 filenames
-fifteenths
 frija
 fanaloka
 fascinations
