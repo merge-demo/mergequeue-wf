@@ -1627,7 +1627,6 @@ favoredly
 flier
 formel
 fretize
-fleaseed
 fellmongery
 fawners
 floury
@@ -6236,6 +6235,7 @@ farfetched
 fakeries
 fairest
 flaring
+fleaseed
 foragement
 frumpishness
 fudder
