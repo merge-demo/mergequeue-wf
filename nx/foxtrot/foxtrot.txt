@@ -2382,6 +2382,7 @@ fervidor
 functioning
 formicivorous
 filtrable
+faburden
 fingernail
 flanged
 ferigee
@@ -6850,7 +6851,6 @@ frescoers
 format
 fluigramme
 favoringly
-faburden
 foliate
 favourableness
 facemaking
