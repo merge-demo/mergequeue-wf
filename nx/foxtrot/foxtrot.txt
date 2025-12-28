@@ -4292,7 +4292,6 @@ forefended
 fenland
 fungology
 favorableness
-firmarii
 flunkeys
 filthier
 farhand
@@ -11048,6 +11047,7 @@ ferruminate
 fumishing
 friendliness
 fermented
+firmarii
 fumuli
 fungated
 fere
