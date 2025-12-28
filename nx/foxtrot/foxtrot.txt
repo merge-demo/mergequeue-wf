@@ -4814,7 +4814,6 @@ foothills
 flagman
 fasciolaria
 fancifulness
-flinching
 floatiest
 fullwords
 formate
@@ -7260,6 +7259,7 @@ footpad
 farfetchedness
 fatidically
 favellidia
+flinching
 feodary
 flaxboard
 forepeak
