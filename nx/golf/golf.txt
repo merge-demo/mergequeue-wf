@@ -5868,7 +5868,6 @@ glycosidase
 genuflected
 gawney
 gipsyweed
-glucoses
 gedds
 glances
 glucoside
@@ -9607,6 +9606,7 @@ grovellings
 growan
 gasboat
 gogmagog
+glucoses
 gravelike
 gossiphood
 gerbe

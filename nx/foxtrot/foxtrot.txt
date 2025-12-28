@@ -6257,7 +6257,6 @@ focusable
 forwrap
 fascinative
 formwork
-feeblish
 fermentitious
 foundationary
 ferrimagnetic
@@ -10121,6 +10120,7 @@ frondiform
 feudatary
 firster
 foredecree
+feeblish
 formalise
 fearfulness
 folkmotes
