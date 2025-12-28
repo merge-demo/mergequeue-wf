@@ -1213,6 +1213,7 @@ entirities
 enwombed
 espathate
 enlute
+elicited
 educationist
 emberizinae
 eurypyga
@@ -13184,7 +13185,6 @@ eremophyte
 emmantle
 expirations
 extruded
-elicited
 elapinae
 emphatically
 embale
