@@ -1195,7 +1195,6 @@ acanthodes
 alcoholise
 aspirations
 alligations
-avowal
 antivitamin
 acanthomas
 acanthomeridae
@@ -14904,6 +14903,7 @@ anticly
 algiers
 aegagropilae
 alicia
+avowal
 aeromotor
 aboriginally
 abassi
