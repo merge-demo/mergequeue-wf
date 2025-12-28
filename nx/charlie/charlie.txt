@@ -3772,7 +3772,6 @@ companeros
 caravel
 caravels
 cosen
-caraway
 caraways
 carbachol
 chirata
@@ -23263,6 +23262,7 @@ controversialize
 construer
 cyamus
 cardiatomy
+caraway
 coalitionist
 cohobation
 construes
