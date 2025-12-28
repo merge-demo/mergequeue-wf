@@ -7915,7 +7915,6 @@ fibrochondritis
 foreran
 fascination
 forereach
-forereading
 forereckon
 foredates
 flannelbush
@@ -10052,6 +10051,7 @@ flee
 flatwork
 flowe
 fellsman
+forereading
 fantod
 flavoury
 flor
