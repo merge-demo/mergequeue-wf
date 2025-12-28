@@ -5362,7 +5362,6 @@ grazer
 galvanised
 gormands
 ganoses
-geldability
 gipsyism
 geotechnics
 glycosidically
@@ -6639,6 +6638,7 @@ galvanometrically
 gonalgia
 gallinipper
 gradatively
+geldability
 galanga
 gruntingly
 glassine
