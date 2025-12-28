@@ -4169,6 +4169,7 @@ fumago
 frier
 forecloses
 fining
+forepromised
 filaria
 fanos
 fingent
@@ -5803,7 +5804,6 @@ flambee
 frett
 facemaker
 fv
-forepromised
 fawned
 forebear
 fossiliferous
