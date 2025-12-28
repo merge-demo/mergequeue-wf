@@ -6547,7 +6547,6 @@ descriptionist
 dogsled
 descriptionless
 dangleberry
-distensile
 dysnomy
 defied
 designator
@@ -11962,6 +11961,7 @@ disembocation
 domicils
 diesels
 disembodiment
+distensile
 deducer
 disembogued
 diarian
