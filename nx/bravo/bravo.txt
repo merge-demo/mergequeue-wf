@@ -6988,7 +6988,6 @@ beslimes
 backsheesh
 breme
 bepaid
-beslobber
 besluit
 bespread
 besmile
@@ -12993,6 +12992,7 @@ balawu
 banausic
 bombycillidae
 bandersnatch
+beslobber
 branchery
 biplicity
 backcountry
