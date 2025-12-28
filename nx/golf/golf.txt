@@ -3238,7 +3238,6 @@ gebur
 galoping
 giron
 girtonian
-gap
 glagol
 goldenwing
 galoot
@@ -8646,6 +8645,7 @@ guider
 grauwacke
 greeds
 glutaminase
+gap
 gerrymanderer
 gemmeous
 genethliacs
