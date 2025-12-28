@@ -4723,7 +4723,6 @@ caroubier
 conjurership
 cryology
 cetes
-carousal
 coverture
 carousals
 centrospermae
@@ -7411,6 +7410,7 @@ cephalocone
 cephalodia
 cephalodymus
 cephalodiscid
+carousal
 cephalodiscida
 cephalodiscus
 cagelike
