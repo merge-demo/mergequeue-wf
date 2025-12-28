@@ -2802,6 +2802,7 @@ behaviourally
 baronries
 briggs
 baconer
+bobcoat
 bureaus
 barites
 bolding
@@ -11745,7 +11746,6 @@ birthmate
 bembecidae
 bestubbled
 bonneted
-bobcoat
 benchmarked
 buddah
 bamoth
