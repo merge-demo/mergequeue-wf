@@ -1328,7 +1328,6 @@ greenalite
 galvanist
 glomerulus
 galloner
-garnisheement
 glorifier
 gervao
 gitalin
@@ -6244,6 +6243,7 @@ genitures
 gelfomino
 goave
 gregorianizer
+garnisheement
 grecale
 gob
 greediness
