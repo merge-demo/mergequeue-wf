@@ -1133,7 +1133,6 @@ fluidram
 footprints
 fitted
 falseheartedness
-fennels
 flexures
 flippers
 formosan
@@ -9218,6 +9217,7 @@ formicaria
 fraena
 foreskins
 faroff
+fennels
 frostproofing
 fulfulde
 forward
