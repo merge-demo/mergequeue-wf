@@ -2413,7 +2413,6 @@ exauthorize
 excentricity
 electroscopes
 ethnotechnics
-evangelistaries
 epicaridan
 electrodeless
 exponentials
@@ -9194,6 +9193,7 @@ electrofuse
 eroteme
 exculpatorily
 endyma
+evangelistaries
 electrotherapeutist
 erotic
 emmew
