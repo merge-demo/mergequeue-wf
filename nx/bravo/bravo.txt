@@ -5502,7 +5502,6 @@ broken
 brouze
 bey
 bindi
-biodegrade
 boxed
 bardic
 bootyless
@@ -10830,6 +10829,7 @@ blepharoplastic
 bassan
 blepharoptosis
 blepharosynechia
+biodegrade
 bunchberry
 bulldoggy
 boanergism
