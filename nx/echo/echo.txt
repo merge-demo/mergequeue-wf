@@ -820,7 +820,6 @@ epispadias
 edaphically
 euglenidae
 ectypal
-enwrite
 epizoa
 eclectically
 erythrinidae
@@ -10071,6 +10070,7 @@ eledoisin
 entitlement
 ethanolamine
 ephemeralness
+enwrite
 ethanolysis
 excretion
 ensepulcher
