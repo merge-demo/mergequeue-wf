@@ -2685,7 +2685,6 @@ frizziness
 fervence
 fortnightlies
 ferventness
-frighteningness
 fishify
 flamant
 frenzies
@@ -2991,6 +2990,7 @@ fremontia
 flowers
 fasciate
 fifing
+frighteningness
 fiestas
 featest
 flooey
