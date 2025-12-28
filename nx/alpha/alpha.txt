@@ -2701,7 +2701,6 @@ anthodia
 acrylics
 acipenserid
 arcabucero
-artifacts
 autolithography
 acrylonitrile
 actinian
@@ -18801,6 +18800,7 @@ antideflation
 archeries
 ajhar
 abirritate
+artifacts
 acoustically
 abjuring
 allomerization
