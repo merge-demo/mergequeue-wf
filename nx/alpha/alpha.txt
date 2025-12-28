@@ -10848,7 +10848,6 @@ archeological
 ammonolytic
 aitches
 anticult
-allonymously
 amphib
 afrits
 ammonolyzing
@@ -10911,6 +10910,7 @@ amoebas
 asmolder
 aggregatory
 amperometric
+allonymously
 amoebeum
 abusion
 apologize

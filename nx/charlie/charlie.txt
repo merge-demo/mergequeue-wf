@@ -312,7 +312,6 @@ cacimbos
 caciques
 catalase
 cosmolined
-countenances
 construers
 customable
 cornflakes
@@ -9678,6 +9677,7 @@ carceral
 charqued
 cheerfully
 camelliaceae
+countenances
 cheerier
 cautiousness
 cryptopapist
