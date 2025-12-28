@@ -1251,7 +1251,6 @@ geneki
 genophobia
 griffes
 guenon
-gapper
 glutinosity
 guib
 grimaces
@@ -5408,6 +5407,7 @@ garveys
 grebo
 glyn
 galatotrophic
+gapper
 gibus
 glynn
 gamogenetical
