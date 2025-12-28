@@ -7004,6 +7004,7 @@ despoil
 despoiled
 destroyers
 despoiler
+durometer
 disabilities
 despoilers
 decongest
@@ -17669,7 +17670,6 @@ dialogic
 disaffiliates
 decare
 desulphurating
-durometer
 disapprovingly
 demonomancy
 disanimal
