@@ -772,6 +772,7 @@ foliicolous
 forestaff
 fallows
 fandangos
+ferried
 fandoms
 frivolized
 fellowlike
@@ -6489,7 +6490,6 @@ flurried
 fernbird
 furiosa
 footage
-ferried
 fumagine
 fouquieriaceous
 flightful
