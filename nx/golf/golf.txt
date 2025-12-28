@@ -1042,7 +1042,6 @@ golp
 glanced
 gymnonoti
 gayness
-groan
 glassfuls
 gabardine
 glub
@@ -3333,6 +3332,7 @@ germfree
 geostrophically
 gobio
 greenbul
+groan
 gullion
 genethliacism
 gutterlike
