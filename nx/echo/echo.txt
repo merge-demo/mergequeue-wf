@@ -889,7 +889,6 @@ endship
 euphonies
 elle
 enterprised
-ectoplastic
 elusiveness
 enucleation
 endore
@@ -5279,6 +5278,7 @@ extrascriptural
 escartelly
 euphuizing
 epirot
+ectoplastic
 esphresis
 expenseless
 epistolarily
