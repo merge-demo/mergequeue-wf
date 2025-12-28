@@ -3844,7 +3844,6 @@ emerald
 elasticities
 emerge
 escapology
-emerged
 echinostomiasis
 emergentness
 espriella
@@ -13275,6 +13274,7 @@ endophragm
 estranger
 englishable
 evict
+emerged
 ensheath
 epignathous
 egregious
