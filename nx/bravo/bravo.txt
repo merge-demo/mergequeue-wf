@@ -599,7 +599,6 @@ bostangi
 bastiment
 bacteriodiagnosis
 bromates
-benomyls
 behearse
 bacterid
 birdcages
@@ -7126,6 +7125,7 @@ breadthwise
 blobber
 butterlike
 bespill
+benomyls
 bathygraphic
 bastardies
 butanolid
