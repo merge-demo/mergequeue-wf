@@ -7969,6 +7969,7 @@ epinaos
 eirack
 embox
 estab
+ettling
 eliminand
 enomaniac
 everyhow
@@ -10449,7 +10450,6 @@ europeanism
 enlacing
 etiologist
 entocoelic
-ettling
 euripi
 etiologue
 endocortex
