@@ -7114,7 +7114,6 @@ envaye
 explainability
 episcenia
 excerpting
-envelope
 exurbanites
 envelopments
 endpaper
@@ -13057,6 +13056,7 @@ ensnarers
 epigonic
 emus
 embankment
+envelope
 eval
 ergates
 enslave
