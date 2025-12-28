@@ -1279,6 +1279,7 @@ enmanche
 eelfare
 encrinite
 ergostat
+eightling
 exfiltrate
 emperors
 emissions
@@ -1859,7 +1860,6 @@ enigmatical
 eared
 eighties
 eightieth
-eightling
 economizes
 edematose
 euler
