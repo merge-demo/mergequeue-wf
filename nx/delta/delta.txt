@@ -8892,7 +8892,6 @@ distributiveness
 damson
 detachment
 decolorized
-dichasium
 deordination
 deash
 diminutiveness
@@ -15697,6 +15696,7 @@ dopped
 detractiveness
 disaffect
 dopper
+dichasium
 dopperbird
 disespouse
 deflorescence
