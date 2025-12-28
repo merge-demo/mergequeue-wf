@@ -10621,6 +10621,7 @@ amylum
 abib
 agaricales
 antimonarchial
+anthophorous
 antilog
 aminate
 avoy
@@ -10693,7 +10694,6 @@ anabolitic
 antaphrodisiac
 agrammaphasia
 alevins
-anthophorous
 amire
 anthracometric
 amyris
