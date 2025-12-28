@@ -5789,6 +5789,7 @@ embossments
 extracts
 esophagomalacia
 emaciation
+esophoric
 eddying
 endozoic
 endues
@@ -6356,7 +6357,6 @@ ensphered
 eyespot
 enseal
 estancias
-esophoric
 extrovertish
 epuloid
 enseated
