@@ -6825,6 +6825,7 @@ bertrum
 bullarium
 beachy
 broadsided
+boroughs
 ber
 beruffed
 boy
@@ -16438,7 +16439,6 @@ bouffes
 bitonal
 bruno
 bryanthus
-boroughs
 barmiest
 balsamum
 bridgeless
