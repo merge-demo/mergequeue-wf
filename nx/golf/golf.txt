@@ -697,6 +697,7 @@ gals
 gin
 galtrap
 gianthood
+grazer
 gastroenterologically
 galumphs
 guebucu
@@ -5348,7 +5349,6 @@ generalisation
 gyrencephalate
 goiters
 glees
-grazer
 galvanised
 gormands
 ganoses
