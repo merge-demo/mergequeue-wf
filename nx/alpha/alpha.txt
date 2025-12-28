@@ -12512,6 +12512,7 @@ augurers
 anemotaxis
 anemotropism
 accersition
+ardours
 antiphlogistian
 apatosaurus
 amandus
@@ -19243,7 +19244,6 @@ azocorinth
 agriotype
 adenocystoma
 animatingly
-ardours
 amphizoidae
 ardu
 adonian
