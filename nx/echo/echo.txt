@@ -4175,6 +4175,7 @@ exporter
 elaeosia
 engraphy
 eyeroot
+etherealism
 escaloped
 echiurida
 etuve
@@ -8382,7 +8383,6 @@ ecch
 euphrasies
 eosin
 equivocating
-etherealism
 encake
 enhaloes
 euphuist
