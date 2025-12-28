@@ -4835,6 +4835,7 @@ equilibrator
 entypies
 enduro
 epidosite
+economizer
 eccoproticophoric
 escape
 erugate
@@ -9917,7 +9918,6 @@ extravertive
 effemination
 epidermatic
 expiatoriness
-economizer
 etaballi
 epipterygoid
 exprimable
