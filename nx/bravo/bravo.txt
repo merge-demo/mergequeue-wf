@@ -8029,6 +8029,7 @@ borsht
 beslipper
 bespatterer
 bicircular
+boson
 bitemporal
 byname
 bick
@@ -9826,7 +9827,6 @@ banderoles
 boos
 brigandish
 bisubstituted
-boson
 benzoquinone
 bisubstitution
 babblingly
