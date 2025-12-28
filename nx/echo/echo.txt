@@ -9796,6 +9796,7 @@ ervils
 establishable
 eddyroot
 establishes
+epigraph
 elegiacal
 exponentiate
 eustace
@@ -12209,7 +12210,6 @@ exceptor
 eras
 epitrichium
 elachistaceae
-epigraph
 epilachna
 executioneering
 enneahedrons
