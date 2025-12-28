@@ -6667,6 +6667,7 @@ deservers
 dollmaker
 droplight
 decadianome
+disendowed
 dynast
 drawarm
 dipneedle
@@ -12274,7 +12275,6 @@ dehortation
 dataflow
 dispatriated
 discrepancy
-disendowed
 drawing
 dromedarist
 diazomethane

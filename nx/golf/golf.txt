@@ -5542,6 +5542,7 @@ guardlike
 garlandless
 globigerinae
 guarnerius
+gloea
 gourd
 genial
 glutition
@@ -7758,7 +7759,6 @@ gewgawish
 graecophil
 guilfat
 gittern
-gloea
 gena
 gutturopalatine
 grenelle
