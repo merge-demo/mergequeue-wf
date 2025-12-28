@@ -2362,7 +2362,6 @@ enchants
 epistroma
 electrocardiogram
 enclear
-ever
 electrocardiographic
 euphuistic
 explorational
@@ -12722,6 +12721,7 @@ epha
 extol
 espressivo
 englishman
+ever
 exactingness
 etiolin
 eradication
