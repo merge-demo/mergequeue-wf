@@ -8938,6 +8938,7 @@ charadriomorphae
 chingpaw
 carbolised
 candylike
+coccygean
 cryptanalyst
 cremains
 cochylis
@@ -17618,7 +17619,6 @@ coccidium
 coccidology
 coccids
 coccygeal
-coccygean
 cornify
 coccygectomy
 chiropterophilous

@@ -6534,6 +6534,7 @@ failsoft
 frotted
 forspread
 foldskirt
+frakturs
 fortifying
 flexuousness
 fulminant
@@ -7945,7 +7946,6 @@ foresee
 faitor
 feeblehearted
 fibrinolytic
-frakturs
 futchel
 footeite
 fogyishness
