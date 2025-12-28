@@ -4405,7 +4405,6 @@ despairfulness
 desultory
 demesgne
 dudleyite
-dithioic
 dolos
 diapyesis
 demesman
@@ -15740,6 +15739,7 @@ disintegrates
 dewools
 disbuds
 deciduary
+dithioic
 doris
 diaxonic
 disyntheme
