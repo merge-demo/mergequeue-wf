@@ -7121,6 +7121,7 @@ bandfiling
 batan
 bonking
 breadthwise
+blobber
 butterlike
 bespill
 bathygraphic
@@ -17323,7 +17324,6 @@ bummler
 barberite
 bumped
 burrowed
-blobber
 boreholes
 bumpers
 baths
