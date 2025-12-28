@@ -1395,7 +1395,6 @@ ethylated
 enopla
 exemplupla
 eucalyptol
-echelon
 embarkment
 examinative
 efficacy
@@ -9212,6 +9211,7 @@ elates
 embryophyte
 electrographite
 empiricism
+echelon
 exotropia
 enclasp
 eutropous
