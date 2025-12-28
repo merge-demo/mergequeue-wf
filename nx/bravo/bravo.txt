@@ -11867,7 +11867,6 @@ browbeater
 buller
 bulrushlike
 bootlegging
-banking
 bodybuilding
 bodice
 brainwashers
@@ -17393,6 +17392,7 @@ bliny
 bailie
 bloodmobiles
 bunged
+banking
 bylawman
 busheling
 badgeman
