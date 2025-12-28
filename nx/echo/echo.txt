@@ -7626,7 +7626,6 @@ eventfully
 engines
 elne
 exactest
-extrafascicular
 extratelluric
 epicondylic
 erected
@@ -11717,6 +11716,7 @@ erythrolysin
 earscrew
 emphatic
 escolar
+extrafascicular
 enfolding
 eventualities
 exaltation
