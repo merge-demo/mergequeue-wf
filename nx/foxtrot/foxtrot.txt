@@ -64,6 +64,7 @@ fconv
 fabulously
 facebar
 facebow
+filagreed
 fenchone
 feudalization
 faceharden
@@ -2600,7 +2601,6 @@ fancily
 foresheet
 ferromanganese
 ferrometer
-filagreed
 ferronatrite
 follis
 fluorouracil
