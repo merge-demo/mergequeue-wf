@@ -5249,7 +5249,6 @@ asiaticism
 affirmably
 aplysia
 achaetous
-anchor
 arnica
 assisan
 agency
@@ -13194,6 +13193,7 @@ abow
 aftereffects
 adornments
 almaine
+anchor
 alleviant
 animist
 antigraft
