@@ -9293,6 +9293,7 @@ fantaisie
 fascinery
 faradomuscular
 frontispieced
+francas
 fraktur
 fasciolet
 fresnel
@@ -11157,7 +11158,6 @@ foederal
 fruitiest
 falseface
 frumple
-francas
 fingerhold
 funeralize
 footnoted
