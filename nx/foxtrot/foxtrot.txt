@@ -6523,7 +6523,6 @@ filches
 fluted
 featherbedded
 faintish
-frenzied
 flameless
 filmlands
 fjords
@@ -7961,6 +7960,7 @@ footslog
 fletching
 foresees
 fonder
+frenzied
 foreseize
 flatteries
 fike
