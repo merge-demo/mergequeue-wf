@@ -5565,6 +5565,7 @@ effectful
 epilimnetic
 euhemerizing
 encourage
+exotism
 etherlike
 enfeoffing
 episcopant
@@ -12769,7 +12770,6 @@ enmask
 exorcizer
 epiceratodus
 exordium
-exotism
 earlike
 ecophysiology
 elsewise
