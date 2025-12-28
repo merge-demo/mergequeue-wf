@@ -5760,7 +5760,6 @@ engineries
 embrace
 eau
 educabilia
-etherolate
 ebullient
 engrege
 engirdled
@@ -7221,6 +7220,7 @@ ephemeromorphic
 eupnoeas
 exudate
 electrocontractility
+etherolate
 equilocation
 enthronize
 eyalet
