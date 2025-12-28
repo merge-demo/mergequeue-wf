@@ -4570,7 +4570,6 @@ carolingian
 confederative
 catapults
 carbine
-cephalogenesis
 carnallite
 colluvies
 churchshot
@@ -25510,6 +25509,7 @@ corollifloral
 chincona
 capsidae
 corollitic
+cephalogenesis
 cespitose
 cochlitis
 coromell
