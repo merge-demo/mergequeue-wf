@@ -5449,7 +5449,6 @@ doss
 deorganization
 deistic
 decolouriser
-deorganize
 deregister
 disenablement
 deorsum
@@ -7010,6 +7009,7 @@ drowners
 debrided
 dachshound
 despoilments
+deorganize
 dilapidating
 diabolepsy
 diatesseron
