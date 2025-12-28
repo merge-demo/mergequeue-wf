@@ -1209,7 +1209,6 @@ garage
 guatemaltecan
 galapago
 gastrotricha
-garapato
 getatableness
 gadded
 grocerymen
@@ -3352,6 +3351,7 @@ gaging
 gildhalls
 gonydial
 globed
+garapato
 gasogen
 groovelike
 garrulinae
