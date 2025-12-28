@@ -1233,6 +1233,7 @@ galligaskin
 groff
 gravures
 grogged
+glucid
 galactostasis
 gastropathy
 gooding
@@ -8405,7 +8406,6 @@ glossophagine
 gargety
 gingerbread
 guns
-glucid
 gasterosteiform
 ginner
 grillading
