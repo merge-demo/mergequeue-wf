@@ -1739,6 +1739,7 @@ feoffors
 forfare
 foreshore
 floriferous
+fretfully
 freedman
 foveal
 feeded
@@ -11538,7 +11539,6 @@ famulary
 flattener
 folio
 fervently
-fretfully
 ferociousness
 footlessly
 fetting
