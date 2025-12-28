@@ -3252,7 +3252,6 @@ freestanding
 fibrosity
 forthrightly
 faradizer
-foppery
 flaught
 filbert
 freit
@@ -6401,6 +6400,7 @@ ferriage
 fixup
 fluvio
 fluoresceine
+foppery
 factionism
 fragrantness
 floreal
