@@ -2488,7 +2488,6 @@ fumarin
 fastus
 fingers
 forehorse
-fudging
 fainthearted
 faction
 facinorousness
@@ -3397,6 +3396,7 @@ foxish
 fibers
 foresters
 flowcharts
+fudging
 flincher
 fiascoes
 foretalk
