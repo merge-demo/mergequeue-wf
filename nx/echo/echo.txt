@@ -12764,7 +12764,6 @@ enmask
 exorcizer
 epiceratodus
 exordium
-engold
 exotism
 earlike
 ecophysiology
@@ -14172,6 +14171,7 @@ escamoteur
 exuding
 envenomization
 exulcerating
+engold
 euciliate
 exulding
 electrifies
