@@ -5072,6 +5072,7 @@ glasshouses
 gateaux
 gasts
 glued
+grisoutine
 gnarr
 glassies
 gillied
@@ -7870,7 +7871,6 @@ gardening
 gurlet
 gasometric
 guttide
-grisoutine
 grovelled
 gtc
 gun
