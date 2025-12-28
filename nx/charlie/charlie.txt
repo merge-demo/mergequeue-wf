@@ -8039,7 +8039,6 @@ cf
 cfd
 ch
 cha
-colloquized
 chaa
 cholecalciferol
 chab
@@ -30095,6 +30094,7 @@ crowed
 crower
 crowers
 cevennian
+colloquized
 conductors
 centuried
 crowfeet

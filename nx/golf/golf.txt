@@ -6644,7 +6644,6 @@ gruss
 guglio
 grittiest
 gyrodyne
-gropes
 gambusias
 gunnysack
 guidons
@@ -8439,6 +8438,7 @@ graith
 gheber
 gravamen
 grawls
+gropes
 gigglier
 gyves
 gonoblastic
