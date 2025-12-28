@@ -8495,6 +8495,7 @@ eydent
 expansions
 externally
 endball
+evenwise
 exculpation
 eleemosynariness
 evolutive
@@ -10927,7 +10928,6 @@ euphues
 epipedometry
 encomium
 epilogizing
-evenwise
 entomologising
 epipteric
 eulogies
