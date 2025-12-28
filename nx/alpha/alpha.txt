@@ -2059,7 +2059,6 @@ amorua
 alphabets
 argon
 aeropulse
-anhalonidine
 andantini
 acheronian
 asdics
@@ -12019,6 +12018,7 @@ alpenhorns
 autocratical
 abduced
 anastases
+anhalonidine
 anthropophagize
 admiral
 anastasia
