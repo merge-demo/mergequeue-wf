@@ -10566,7 +10566,6 @@ amildar
 achordal
 angelicas
 arccosine
-avoider
 amylemia
 angiospermic
 amphibion
@@ -10715,6 +10714,7 @@ albumin
 atwitter
 affa
 antiphthisical
+avoider
 aminoacidemia
 auricle
 asterisked
