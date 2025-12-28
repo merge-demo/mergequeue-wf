@@ -2208,6 +2208,7 @@ bewept
 buxaceae
 bontebok
 bodword
+butterflylike
 bostonite
 bedrivelled
 barauna
@@ -14932,7 +14933,6 @@ bankings
 brachets
 blastemal
 beknotting
-butterflylike
 breastbeam
 burut
 bungerly
