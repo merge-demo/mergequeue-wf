@@ -3545,7 +3545,6 @@ goldenest
 getpenny
 gibberish
 gatewayman
-gaunter
 gracile
 gawish
 garotting
@@ -7998,6 +7997,7 @@ grippy
 glandiform
 grandiosity
 gudok
+gaunter
 gothonic
 ganglionectomy
 globing
