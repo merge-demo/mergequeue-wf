@@ -7263,7 +7263,6 @@ coffeehousing
 centring
 centrings
 clivia
-cavaedia
 centriole
 chalazogam
 confiture
@@ -22958,6 +22957,7 @@ calyptra
 consign
 consignatary
 consignataries
+cavaedia
 counterretreat
 comforting
 chromosomic
