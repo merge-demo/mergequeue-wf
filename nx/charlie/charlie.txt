@@ -17245,7 +17245,6 @@ coahuiltecan
 cyrtopia
 chlamyphorus
 cantic
-coaid
 coaita
 coakum
 coalas
@@ -26596,6 +26595,7 @@ coulee
 coulees
 coulie
 coulisses
+coaid
 couloir
 coinmaking
 copperas
