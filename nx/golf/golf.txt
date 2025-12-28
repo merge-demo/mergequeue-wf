@@ -8246,7 +8246,6 @@ goiterogenic
 granogabbro
 grapevines
 gentlemanlike
-gabbed
 gracilaria
 geopositive
 gravid
@@ -8735,6 +8734,7 @@ grammars
 gastraeal
 gnathonical
 grassflat
+gabbed
 gastrodisc
 gara
 growler
