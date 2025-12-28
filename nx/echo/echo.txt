@@ -6102,7 +6102,6 @@ escutcheon
 encounters
 emirates
 enlightenedly
-enlistments
 erasion
 elastomeric
 encomienda
@@ -6850,6 +6849,7 @@ emmenology
 epicranial
 exoticism
 entombs
+enlistments
 excremental
 eviscerator
 essenic
