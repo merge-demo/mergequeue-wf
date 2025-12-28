@@ -5708,6 +5708,7 @@ gpad
 ganglioneuron
 gestning
 gelts
+glassmaker
 gathered
 goniometrically
 guttule
@@ -7266,7 +7267,6 @@ garlicmonger
 greencloth
 governorate
 gourmands
-glassmaker
 generosity
 gribble
 gleby
