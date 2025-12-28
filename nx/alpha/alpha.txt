@@ -6348,7 +6348,6 @@ agriochoerus
 achuas
 amoeban
 appomatox
-agriological
 antiochene
 aquifuge
 animate
@@ -9660,6 +9659,7 @@ advent
 alvearium
 alveolariform
 antitetanic
+agriological
 alveolate
 alveolation
 alveole
