@@ -7036,6 +7036,7 @@ divinisation
 donkeys
 despose
 desiccant
+destinate
 deformed
 despotat
 demographer
@@ -15622,7 +15623,6 @@ detergible
 dooring
 doorknob
 doorless
-destinate
 discreetest
 doormaid
 dugong
