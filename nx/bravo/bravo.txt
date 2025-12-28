@@ -2256,6 +2256,7 @@ bioecology
 birdclapper
 bannerwise
 bats
+burgensic
 bigmouths
 blastment
 bandar
@@ -15399,7 +15400,6 @@ brigatry
 brigetty
 beliquoring
 bekick
-burgensic
 bloodbath
 brevete
 barghests

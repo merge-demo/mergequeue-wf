@@ -3129,6 +3129,7 @@ guffaws
 gullage
 gurglet
 grees
+graphically
 grips
 goan
 golandaas
@@ -8263,7 +8264,6 @@ gasconading
 genevois
 greyback
 graphemics
-graphically
 glutamates
 glorioso
 graphiological
