@@ -3114,7 +3114,6 @@ actins
 archigonocyte
 antimonous
 action
-albiflorous
 antagonizer
 anaerobically
 allotrophic
@@ -14769,6 +14768,7 @@ anticatarrhal
 afernan
 audiometry
 arsines
+albiflorous
 altiscope
 anticaustic
 affreighter
