@@ -7565,6 +7565,7 @@ frostproof
 frivoler
 foreboom
 filterers
+fortuitus
 foreburton
 fameless
 forecast
@@ -10164,7 +10165,6 @@ fare
 foreknee
 fe
 feckly
-fortuitus
 fissiparously
 frittering
 fuchi
