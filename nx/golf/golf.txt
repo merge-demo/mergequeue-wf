@@ -2624,6 +2624,7 @@ gametophyte
 gahnite
 grendel
 geomorphist
+gunners
 gypsyweed
 gramma
 gonocalyx
@@ -10591,7 +10592,6 @@ grandisonian
 gowany
 grenadier
 gonidium
-gunners
 gunning
 gonzalo
 grippier
