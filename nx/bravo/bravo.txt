@@ -242,7 +242,6 @@ bootmaking
 belleter
 bacilary
 balaklava
-bacile
 bacillaceae
 brarow
 bacillariaceae
@@ -11437,6 +11436,7 @@ blotches
 boxthorn
 blasting
 bagplant
+bacile
 bluejacket
 blueline
 blennophthalmia
