@@ -12789,6 +12789,7 @@ angiorrhaphy
 angiorrhea
 armorwise
 ammocoetid
+affirmant
 angioscope
 angiosymphysis
 anopia
@@ -12905,7 +12906,6 @@ autogamies
 abey
 amphitheccia
 anticalculous
-affirmant
 anguilloid
 averil
 angiopoietic
