@@ -154,7 +154,6 @@ empight
 expurgations
 exscriptural
 etymons
-examining
 enchylema
 enzygotic
 earthkin
@@ -12648,6 +12647,7 @@ exogamies
 ephete
 enuretic
 empyemas
+examining
 emissarium
 exogen
 earldom
