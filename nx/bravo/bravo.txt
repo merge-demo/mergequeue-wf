@@ -3221,7 +3221,6 @@ buckbush
 bodiless
 bedights
 bonnyvis
-bathtub
 blatters
 barkpeel
 biltong
@@ -5410,6 +5409,7 @@ boggishness
 begruntle
 biographical
 begrutten
+bathtub
 beguess
 beguilement
 biunial
