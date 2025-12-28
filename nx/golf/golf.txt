@@ -5794,6 +5794,7 @@ geratic
 grain
 goldsmith
 geometric
+gaveller
 gunflint
 gadarene
 gloveman
@@ -6742,7 +6743,6 @@ gurdfish
 gruine
 glenoid
 goniocraniometry
-gaveller
 goniodoridae
 gagmen
 granitized
