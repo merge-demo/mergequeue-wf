@@ -5931,6 +5931,7 @@ benzalcyanhydrin
 beden
 backswordmen
 batswing
+blonde
 blitzkrieg
 butterroot
 belast
@@ -11631,7 +11632,6 @@ blastoffs
 boardings
 boardsmanship
 boatloads
-blonde
 bedrapes
 buceros
 britzka
