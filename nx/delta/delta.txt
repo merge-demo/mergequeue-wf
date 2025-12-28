@@ -1076,7 +1076,6 @@ dampening
 darsonval
 deontology
 disbanding
-dartagnan
 darters
 dearticulation
 dartled
@@ -16066,6 +16065,7 @@ desperately
 disorderedly
 doughface
 delocalising
+dartagnan
 doughfaceism
 deracialize
 dissaving
