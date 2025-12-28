@@ -11696,7 +11696,6 @@ disworth
 dorms
 discoverer
 decancellation
-discoverture
 deplume
 discradle
 delfts
@@ -16448,6 +16447,7 @@ doubler
 drabler
 delivery
 dished
+discoverture
 dextropinene
 dublin
 dilutee
