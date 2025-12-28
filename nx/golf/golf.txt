@@ -7383,7 +7383,6 @@ griffon
 glyoxime
 generalizers
 gomarite
-gourdiness
 gamotropism
 glimmerite
 grumps
@@ -10812,6 +10811,7 @@ gossipping
 galvanotropic
 geniolatry
 giggled
+gourdiness
 goldtail
 gingellies
 ghazis
