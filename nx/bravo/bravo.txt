@@ -3756,7 +3756,6 @@ bulletproofing
 brahmanic
 broideress
 biologese
-boatowner
 biologists
 bowstringed
 beachwear
@@ -10759,6 +10758,7 @@ birdbrained
 baldberry
 beggarism
 balneation
+boatowner
 blennophobia
 blennoptysis
 bosseyed
