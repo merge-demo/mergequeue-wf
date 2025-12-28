@@ -15475,7 +15475,6 @@ brilliolette
 brills
 baculites
 byssoid
-banns
 brimfullness
 brongniardite
 blazon
@@ -17855,6 +17854,7 @@ burushaski
 ballistocardiogram
 bus
 bidialectal
+banns
 busaos
 bloodleaf
 bine
