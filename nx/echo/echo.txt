@@ -4016,7 +4016,6 @@ emetology
 estrapade
 enage
 extirpated
-epionychia
 echappe
 empexa
 emphasize
@@ -7741,6 +7740,7 @@ equips
 edelweisses
 ethinamate
 empasma
+epionychia
 executable
 epidiascope
 engraff
