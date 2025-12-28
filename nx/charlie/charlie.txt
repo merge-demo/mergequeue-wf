@@ -13193,6 +13193,7 @@ cicatrices
 cicatricle
 chamberdeacon
 copastorate
+combination
 cicatricula
 cicatricule
 cicatrisant
@@ -19749,7 +19750,6 @@ combinability
 cytozyme
 combinably
 combinate
-combination
 coredeem
 combinational
 corrigent
