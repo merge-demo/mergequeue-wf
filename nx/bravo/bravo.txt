@@ -4832,6 +4832,7 @@ baboons
 baroness
 badmouth
 branchia
+beset
 breekless
 bloodstainedness
 bodacious
@@ -14985,7 +14986,6 @@ brevi
 blastful
 baedeker
 breastwood
-beset
 brisses
 bicamerist
 breastwork
