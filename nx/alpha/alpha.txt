@@ -12789,6 +12789,7 @@ angiorrhea
 armorwise
 ammocoetid
 affirmant
+ashen
 angioscope
 angiosymphysis
 anopia
@@ -13867,7 +13868,6 @@ axoneuron
 annullation
 anserine
 apicular
-ashen
 alacreatine
 achievability
 autere
