@@ -182,6 +182,7 @@ glede
 garbage
 gager
 governessdom
+gynetype
 gastronomic
 gaggery
 greenage
@@ -4301,7 +4302,6 @@ grugrus
 guinfo
 gelsemia
 germicide
-gynetype
 gymnadenia
 glazings
 grieves
