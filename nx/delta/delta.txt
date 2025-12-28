@@ -414,7 +414,6 @@ devaluate
 dogfighting
 dithered
 duodecimos
-dorsoanterior
 drinker
 dairywomen
 daunder
@@ -6945,6 +6944,7 @@ decarbonylated
 deiphobus
 debussyanize
 dribble
+dorsoanterior
 distomian
 dioptases
 dicaryon
