@@ -3164,7 +3164,6 @@ chondrocele
 crocked
 capelins
 capella
-coatimondie
 closemouth
 caper
 caperbush
@@ -16716,6 +16715,7 @@ clothed
 confusional
 calathian
 clothesbag
+coatimondie
 clothesyard
 codesign
 consumptivity
