@@ -2096,6 +2096,7 @@ galvanizer
 gerontes
 gnomist
 gelndesprung
+ghostdom
 girding
 gawkhammer
 greasehorn
@@ -3651,7 +3652,6 @@ goldest
 gauntleted
 gillnetting
 gonadotropic
-ghostdom
 gardenin
 gaffkya
 genotypicity
