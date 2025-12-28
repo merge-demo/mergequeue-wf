@@ -1147,7 +1147,6 @@ gripier
 glazes
 grouses
 goninidia
-gastrogastrotomy
 genin
 gnawings
 galactometry
@@ -6073,6 +6072,7 @@ gonzo
 gallature
 grinding
 gnathostomata
+gastrogastrotomy
 gastrocnemial
 gazebos
 gypsography
