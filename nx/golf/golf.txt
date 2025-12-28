@@ -2658,7 +2658,6 @@ gurgeon
 gathering
 greatest
 guaraguao
-gospodipoda
 grangerisation
 gloriosity
 gangliectomy
@@ -8484,6 +8483,7 @@ gaudeamuses
 gnathopodous
 guinea
 galinsoga
+gospodipoda
 geraniaceae
 gestio
 glottises
