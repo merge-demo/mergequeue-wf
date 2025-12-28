@@ -4397,7 +4397,6 @@ awonder
 amebocyte
 abductores
 ap
-adumbrating
 adumbrations
 asthenias
 agrypnode
@@ -5370,6 +5369,7 @@ aficionada
 aficionadas
 alfridary
 antiloemic
+adumbrating
 autogiro
 aecia
 avail
