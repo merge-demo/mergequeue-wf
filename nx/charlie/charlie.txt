@@ -14350,7 +14350,6 @@ cask
 connectivity
 circumscribable
 condescend
-circumscribed
 collapsed
 circumsession
 circumsinous
@@ -24021,6 +24020,7 @@ clocksmith
 convented
 coelicolist
 cylinderlike
+circumscribed
 conventicle
 craniotome
 convention
