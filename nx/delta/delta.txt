@@ -6371,7 +6371,6 @@ demurrable
 dietary
 doegling
 doctrinized
-derned
 dysidrosis
 demeritoriously
 dosinia
@@ -13676,6 +13675,7 @@ dissymmetrically
 danseurs
 discoursive
 dissymmettric
+derned
 dissympathize
 drupal
 dictatorialism
