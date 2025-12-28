@@ -9388,7 +9388,6 @@ dejunkerize
 diffusions
 diffusive
 diffusors
-deflexibility
 diabolus
 diner
 diether
@@ -11096,6 +11095,7 @@ disasinize
 deforcer
 deliciously
 descriptors
+deflexibility
 dextrer
 discographic
 disassent
