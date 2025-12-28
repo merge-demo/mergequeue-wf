@@ -2900,6 +2900,7 @@ geocentric
 gadwell
 gerontocracy
 gigots
+ganta
 glints
 gallipots
 glittering
@@ -7625,7 +7626,6 @@ glycosaemia
 gambians
 grab
 guanamine
-ganta
 gullibility
 gorkhali
 guarantied
