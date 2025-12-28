@@ -1857,7 +1857,6 @@ gawkihood
 granulosa
 grecizing
 gossip
-gyrostabilized
 gleir
 graptolithina
 graveled
@@ -4636,6 +4635,7 @@ greenheart
 gyrating
 galvanise
 gorillaship
+gyrostabilized
 goatbush
 granulitic
 gunlocks
