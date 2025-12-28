@@ -9957,6 +9957,7 @@ chemotaxy
 collocatory
 chemotaxonomic
 controls
+corocleisis
 carices
 chemotherapeutical
 clamlike
@@ -25472,7 +25473,6 @@ cornutos
 cornwall
 cornwallite
 cutdown
-corocleisis
 caricaturable
 corody
 corodiary
