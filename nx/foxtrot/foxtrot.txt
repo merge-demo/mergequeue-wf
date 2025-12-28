@@ -1722,7 +1722,6 @@ feasibly
 fashionmonger
 flighted
 fascio
-floats
 filicin
 fomites
 fortravail
@@ -3690,6 +3689,7 @@ forerecited
 fleur
 feistiest
 foysen
+floats
 futurisms
 firesider
 franchisal
