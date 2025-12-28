@@ -2821,7 +2821,6 @@ evasive
 exclamations
 enjeopard
 elementish
-emendable
 extricates
 epiblastema
 endomixis
@@ -12211,6 +12210,7 @@ executioneering
 enneahedrons
 engarb
 episynthetic
+emendable
 excur
 ensigns
 enforcible
