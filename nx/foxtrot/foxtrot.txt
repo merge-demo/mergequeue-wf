@@ -705,7 +705,6 @@ forehard
 fragrancy
 feminity
 farcial
-flapperhood
 flair
 foziness
 frettier
@@ -3921,6 +3920,7 @@ filea
 fined
 faulty
 fireboot
+flapperhood
 formature
 fischerite
 forebrain
