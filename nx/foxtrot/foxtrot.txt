@@ -5205,6 +5205,7 @@ formularist
 fosterlings
 foliaging
 foxiness
+foliaceous
 frontierlike
 frivolers
 fiot
@@ -5560,7 +5561,6 @@ forecited
 fascicle
 fibbing
 felon
-foliaceous
 flowing
 familiary
 flacourtiaceae
