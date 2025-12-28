@@ -4024,6 +4024,7 @@ grounds
 gilds
 gildhall
 glandes
+gib
 grandness
 gildship
 gutturals
@@ -10679,7 +10680,6 @@ glycerols
 gurnard
 gildsman
 galoisian
-gib
 gastroenteroptosis
 glaucomatous
 grayfish
