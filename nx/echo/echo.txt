@@ -5716,7 +5716,6 @@ eppie
 extraventricular
 extras
 episcopalism
-egotisticalness
 enhort
 emerson
 eagerest
@@ -7595,6 +7594,7 @@ epicyemate
 eeyuch
 experiments
 esogastritis
+egotisticalness
 excurvate
 eolithic
 euglena
