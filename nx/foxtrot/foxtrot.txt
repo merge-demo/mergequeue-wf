@@ -4145,7 +4145,6 @@ fulk
 farmy
 felonry
 flexed
-fatling
 fenchyl
 feezed
 fibrovascular
@@ -4337,6 +4336,7 @@ fleshings
 formicivora
 ficiform
 fibromatoid
+fatling
 fosslify
 finific
 fibromyxoma
