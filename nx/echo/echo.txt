@@ -8293,7 +8293,6 @@ ellagate
 exemplification
 enervate
 epitaxies
-epitaxis
 ebonizes
 epidemicity
 epigrammatized
@@ -10044,6 +10043,7 @@ eternish
 editresses
 energetical
 epitaphial
+epitaxis
 esculetin
 evolutions
 expecting
