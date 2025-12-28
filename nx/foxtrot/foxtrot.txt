@@ -2881,6 +2881,7 @@ flog
 freighted
 fackins
 firefighters
+featous
 foremention
 fettucini
 fungiferous
@@ -7420,7 +7421,6 @@ flyness
 findy
 forbidals
 fasted
-featous
 foobar
 forbiddenly
 fuage
