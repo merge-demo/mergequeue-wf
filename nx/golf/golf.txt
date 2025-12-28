@@ -6383,7 +6383,6 @@ gamesomeness
 grieve
 gigget
 gentlemouthed
-gurney
 gummites
 gipsiologist
 gamest
@@ -8500,6 +8499,7 @@ grandeurs
 garoting
 ginete
 gandhara
+gurney
 gravitations
 geotaxis
 gelada
