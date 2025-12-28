@@ -1285,7 +1285,6 @@ gulliver
 geodiatropism
 graviers
 gingilis
-gates
 garganey
 gastropancreatitis
 garget
@@ -4357,6 +4356,7 @@ golfdom
 gujar
 glittersome
 ganancial
+gates
 gigerium
 gashy
 gutlike
