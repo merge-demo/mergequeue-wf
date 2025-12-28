@@ -6329,7 +6329,6 @@ butment
 brike
 benzanthracene
 boxboard
-bestowed
 balandra
 bibs
 benzanthrone
@@ -11258,6 +11257,7 @@ bescouring
 bullfight
 burez
 blasts
+bestowed
 brightening
 benday
 bolloxes
