@@ -3627,7 +3627,6 @@ cissus
 carabidan
 carabidoid
 carabids
-cappy
 colorist
 chauri
 carabine
@@ -17234,6 +17233,7 @@ cestoidea
 carnifices
 coagulometer
 coagulose
+cappy
 coahuiltecan
 cyrtopia
 chlamyphorus
