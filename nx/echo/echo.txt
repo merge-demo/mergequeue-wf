@@ -8288,7 +8288,6 @@ erratums
 endolaryngeal
 endplay
 epitheliomatous
-epitaphian
 ejection
 expensively
 ectoplasmic
@@ -11149,6 +11148,7 @@ encomy
 evacuant
 eighteenmos
 episome
+epitaphian
 executing
 electrification
 evacuants
