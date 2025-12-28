@@ -9103,7 +9103,6 @@ folksinger
 feedbag
 fizzled
 finochios
-frixion
 frolicsomeness
 floorward
 flavors
@@ -10070,6 +10069,7 @@ fringetail
 foreplot
 fimbles
 farmerlike
+frixion
 frogskin
 fortune
 fibrocystoma
