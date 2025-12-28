@@ -15266,7 +15266,6 @@ clamaroo
 ceraunophone
 cywydd
 clamatory
-cartooned
 clutterer
 casimeres
 cricks
@@ -25343,6 +25342,7 @@ cornea
 corneal
 cappelenite
 cornelia
+cartooned
 coner
 concessioner
 cornell
