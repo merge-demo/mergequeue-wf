@@ -12880,6 +12880,7 @@ acinetaria
 anglophilic
 autotype
 adenine
+alogical
 anglophobia
 arcadia
 apyrase
@@ -15432,7 +15433,6 @@ adversa
 argenton
 adjurations
 airliners
-alogical
 antimechanism
 antimechanistic
 apocopic
