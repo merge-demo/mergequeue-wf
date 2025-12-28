@@ -909,7 +909,6 @@ exercises
 extensivity
 eschewing
 expeditionary
-enures
 emperies
 extrastate
 electrostrictive
@@ -12966,6 +12965,7 @@ embathe
 expectedness
 explode
 etherous
+enures
 evanition
 epicentrums
 eclosions
