@@ -6894,6 +6894,7 @@ fidejussory
 footings
 fretways
 flunkeyhood
+fimbriae
 focus
 finance
 failing
@@ -7076,7 +7077,6 @@ fists
 floriparous
 francis
 floater
-fimbriae
 foodful
 fulfilled
 fribby
