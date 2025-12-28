@@ -510,7 +510,6 @@ fakery
 flaxweed
 foreconsider
 flyblown
-funbre
 friz
 furstone
 femes
@@ -6825,6 +6824,7 @@ forfalt
 faithfuls
 finmark
 forams
+funbre
 fungin
 firerooms
 forewonted
