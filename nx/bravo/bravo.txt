@@ -3451,7 +3451,6 @@ badgerly
 bastions
 boughpot
 baroreceptor
-bef
 brushfire
 brigade
 basto
@@ -16605,6 +16604,7 @@ backorder
 blightingly
 bubby
 belligerencies
+bef
 benedictory
 brainless
 brachiocrural
