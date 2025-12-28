@@ -3790,7 +3790,6 @@ beldamship
 bestubble
 benchland
 blundering
-boatsmanship
 bitterbush
 bewend
 binitarian
@@ -5897,6 +5896,7 @@ bradmaker
 bellwort
 belock
 basimesostasis
+boatsmanship
 bastinade
 belomancy
 belonephobia
