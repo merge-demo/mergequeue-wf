@@ -801,6 +801,7 @@ earthmaking
 exodus
 epeira
 eurytopic
+eom
 extracapsular
 encephalography
 enter
@@ -4439,7 +4440,6 @@ effectively
 encaptivate
 essence
 exaggeratively
-eom
 expectorate
 eternized
 electrophysiologic
