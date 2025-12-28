@@ -8193,6 +8193,7 @@ counteractions
 crosscheck
 chlortetracycline
 chumping
+ciliola
 craspedon
 chainlike
 cabeliau
@@ -25281,7 +25282,6 @@ corkier
 carburising
 chytridiaceous
 cervelats
-ciliola
 crome
 conicein
 corklike
