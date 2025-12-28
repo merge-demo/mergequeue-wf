@@ -3686,7 +3686,6 @@ degressive
 dactylopterus
 daunting
 dictamnus
-degust
 dasnt
 degusted
 dregginess
@@ -11796,6 +11795,7 @@ dacryuria
 drawbridges
 dimitted
 discriminatively
+degust
 despatch
 discriminativeness
 discording
