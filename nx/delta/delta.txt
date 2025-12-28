@@ -6857,7 +6857,6 @@ dinosaur
 drawgear
 dupla
 desmoncus
-decolonize
 dissention
 danknesses
 dryobalanops
@@ -8758,6 +8757,7 @@ declassifications
 diazin
 drayman
 death
+decolonize
 droners
 dialoguer
 deuterodome
