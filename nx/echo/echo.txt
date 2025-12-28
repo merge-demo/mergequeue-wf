@@ -6257,6 +6257,7 @@ eidology
 enplane
 electromotor
 ecorticate
+expiscate
 enplaned
 ecumenics
 embryonary
@@ -13281,7 +13282,6 @@ exhaustlessness
 exploitatory
 endocrinopath
 episcopy
-expiscate
 exploiting
 exploiture
 exploratively
