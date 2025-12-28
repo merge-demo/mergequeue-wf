@@ -8763,7 +8763,6 @@ glucosuric
 glitterance
 garrets
 games
-governess
 goustrous
 galeus
 gobbin
@@ -10577,6 +10576,7 @@ gurmukhi
 gneissitic
 gatewoman
 grenadiership
+governess
 grommets
 goads
 garnisher
