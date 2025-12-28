@@ -4534,6 +4534,7 @@ flagging
 flintlocks
 favissa
 feer
+filices
 forheed
 foreigner
 forslake
@@ -9226,7 +9227,6 @@ fennels
 frostproofing
 fulfulde
 forward
-filices
 filenames
 frija
 fanaloka
