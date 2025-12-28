@@ -1786,7 +1786,6 @@ gavelled
 glossolaly
 gutterblood
 gelatinotype
-grippelike
 ghyll
 glutinate
 gestalten
@@ -5671,6 +5670,7 @@ glorying
 gobbledegook
 gatemen
 gant
+grippelike
 grate
 gothites
 grizzler
