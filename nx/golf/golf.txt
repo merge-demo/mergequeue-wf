@@ -5418,7 +5418,6 @@ glutenin
 granomerite
 groceress
 groupageness
-geared
 gastroesophageal
 gulfside
 galliwasp
@@ -9402,6 +9401,7 @@ gobelin
 glaymore
 glacious
 gelatinized
+geared
 geneserin
 gurt
 graciosity
