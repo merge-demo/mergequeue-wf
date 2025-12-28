@@ -8469,6 +8469,7 @@ febronian
 fique
 fantail
 fathercraft
+franciscan
 fidelia
 fescues
 fasels
@@ -10869,7 +10870,6 @@ flagitiously
 forwore
 frondosely
 fetichism
-franciscan
 frousy
 faddism
 fulgidity

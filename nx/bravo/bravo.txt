@@ -1857,7 +1857,6 @@ bandfile
 begrudges
 burdon
 brownism
-brython
 birken
 bloopers
 bandhook
@@ -16990,6 +16989,7 @@ bondelswarts
 bedewoman
 buildups
 bordure
+brython
 bespeakable
 backland
 briolettes
