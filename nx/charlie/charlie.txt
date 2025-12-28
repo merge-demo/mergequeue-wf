@@ -2735,7 +2735,6 @@ carbamyl
 coff
 combinatorics
 cutey
-canman
 churr
 cannabic
 churchwise
@@ -19441,6 +19440,7 @@ colorific
 colorifics
 colorimeter
 colorimetrically
+canman
 colorimetrics
 chemmy
 colorimetrist
