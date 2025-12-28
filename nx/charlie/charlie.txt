@@ -4738,7 +4738,6 @@ carp
 carpaine
 carpalia
 colotyphoid
-celiocele
 carpals
 chela
 carpathian
@@ -4902,6 +4901,7 @@ crushability
 carriagesmith
 cinchonicin
 carriageway
+celiocele
 carryall
 carrycot
 chromatoplasm
