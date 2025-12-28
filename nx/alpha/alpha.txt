@@ -14657,7 +14657,6 @@ antimetathetic
 antianopheline
 akim
 antorbital
-antianthropomorphism
 aphodian
 apothecial
 amphitokous
@@ -21306,6 +21305,7 @@ attingence
 averaged
 asideu
 acalyptrata
+antianthropomorphism
 abscess
 akhissar
 asilidae
