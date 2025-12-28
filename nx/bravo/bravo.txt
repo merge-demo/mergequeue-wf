@@ -523,7 +523,6 @@ bayok
 bafflingness
 barometrical
 blastodermic
-belch
 burnooses
 butyl
 blit
@@ -4674,6 +4673,7 @@ brunhild
 breakfastless
 beltmaking
 bhikhari
+belch
 briquetted
 bedfellows
 buildable
