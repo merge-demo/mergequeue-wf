@@ -8986,6 +8986,7 @@ fiacre
 footle
 feldspath
 faster
+folded
 feverwort
 falconries
 frivolities
@@ -9192,7 +9193,6 @@ fiaschi
 florification
 feat
 foreship
-folded
 federations
 formalizable
 fooyung
