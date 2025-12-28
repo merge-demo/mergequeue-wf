@@ -892,7 +892,6 @@ gametocyte
 grayout
 gametogenic
 gooseflesh
-groszy
 gueparde
 glutathione
 grassfire
@@ -8800,6 +8799,7 @@ gorge
 greenling
 grogram
 gatherable
+groszy
 gentilism
 glyceryls
 gravel
