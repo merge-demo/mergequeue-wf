@@ -16675,7 +16675,6 @@ colleagueship
 communist
 cyanosis
 clem
-closehanded
 carse
 colophonium
 closeness
@@ -18856,6 +18855,7 @@ cephalacanthidae
 contemplated
 colessor
 colessors
+closehanded
 conventionalization
 compliers
 colet
