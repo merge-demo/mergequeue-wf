@@ -806,6 +806,7 @@ bombora
 bafflingly
 bulbus
 bartletts
+bisaxillary
 bushelbasket
 bonelike
 bedene
@@ -11954,7 +11955,6 @@ bimeby
 bourns
 bailiff
 bogart
-bisaxillary
 bogatyr
 boosies
 bemocking
