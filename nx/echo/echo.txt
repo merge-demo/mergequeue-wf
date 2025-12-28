@@ -2788,7 +2788,6 @@ excuderunt
 elegized
 elegizes
 epifauna
-eleidin
 encrusts
 eutocia
 extrusions
@@ -3732,6 +3731,7 @@ enquiry
 exculpated
 empuzzle
 ephemerons
+eleidin
 echelette
 exhaustivity
 egoistry
