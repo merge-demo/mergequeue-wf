@@ -18098,7 +18098,6 @@ aureity
 amazonian
 anschauung
 agromyza
-anconeal
 aptiana
 aptychus
 aptitude
@@ -22748,6 +22747,7 @@ aggies
 abridgers
 atonia
 athrive
+anconeal
 athrogenic
 algebraizing
 anaplerotic
