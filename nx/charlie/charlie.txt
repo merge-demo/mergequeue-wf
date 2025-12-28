@@ -802,7 +802,6 @@ completories
 cahincic
 cahita
 coprophagan
-continency
 cahiz
 cunas
 collyr
@@ -7675,6 +7674,7 @@ codewords
 cerebrose
 campanula
 chargers
+continency
 coyotes
 calathisci
 calcarated
