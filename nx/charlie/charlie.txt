@@ -2587,7 +2587,6 @@ coyan
 cordwoods
 codlins
 conners
-candlewicks
 complementative
 candlewright
 cynically
@@ -9494,6 +9493,7 @@ cawing
 cheapish
 condom
 cheapness
+candlewicks
 cladoselachea
 cheapos
 clovene
