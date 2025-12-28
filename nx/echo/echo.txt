@@ -612,7 +612,6 @@ echt
 ecchymosed
 excommenge
 exostoses
-eciliate
 emporia
 emetics
 eurypharynx
@@ -10924,6 +10923,7 @@ euphorically
 euphotide
 excommunicate
 evoked
+eciliate
 euphues
 epipedometry
 epilogizing
