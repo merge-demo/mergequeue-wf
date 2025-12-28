@@ -1639,6 +1639,7 @@ attribute
 actualities
 accrued
 accruement
+arthromeric
 accruer
 anatta
 adiabatic
@@ -20625,7 +20626,6 @@ arbalist
 aedegi
 alpestral
 adulators
-arthromeric
 afterplay
 adamantoma
 arthrometry
