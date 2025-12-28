@@ -3276,6 +3276,7 @@ dominie
 departs
 defibrillated
 dominants
+dimplement
 dalles
 doty
 deteriority
@@ -9996,7 +9997,6 @@ deinos
 dimple
 diplomas
 dessertspoonfuls
-dimplement
 dorosoma
 derelictness
 dermatopnagic
