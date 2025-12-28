@@ -770,7 +770,6 @@ galvanotherapy
 geomorphic
 galvanotropism
 guntub
-globulolysis
 gaulter
 gutter
 gasmetophytic
@@ -7854,6 +7853,7 @@ gook
 glead
 grouchier
 gala
+globulolysis
 geographical
 grallae
 gaj
