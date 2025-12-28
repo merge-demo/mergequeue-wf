@@ -880,7 +880,6 @@ glove
 gers
 glossarize
 guily
-ghatti
 gymnophiona
 guerrilla
 gametangia
@@ -9249,6 +9248,7 @@ grazier
 giftedness
 gryllotalpa
 glassworker
+ghatti
 griqualander
 geminis
 gleaning
