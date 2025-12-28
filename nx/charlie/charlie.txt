@@ -230,7 +230,6 @@ celebrators
 cabureiba
 concubinage
 chelydra
-cheiroline
 cacajao
 cacam
 cacanapa
@@ -17646,6 +17645,7 @@ coccin
 canyonside
 contractive
 coccinellidae
+cheiroline
 coccyodynia
 coccionella
 continuant
