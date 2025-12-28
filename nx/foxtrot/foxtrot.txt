@@ -540,7 +540,6 @@ fleeces
 forfeiter
 factitial
 funambulant
-folium
 fats
 falcons
 falculate
@@ -8692,6 +8691,7 @@ faultlessness
 fields
 fortaxed
 fanlike
+folium
 freelance
 funariaceous
 fistuliform
