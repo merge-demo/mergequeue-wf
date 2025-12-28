@@ -661,7 +661,6 @@ glint
 geeing
 geropiga
 gangboard
-gallows
 gonitis
 giddify
 genearch
@@ -9635,6 +9634,7 @@ geochemical
 guarish
 gummite
 grandma
+gallows
 gatefold
 guisarme
 galvanomagnetic
