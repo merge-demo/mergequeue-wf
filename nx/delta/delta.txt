@@ -4656,7 +4656,6 @@ demitint
 demitoilet
 deteriorated
 demits
-demitted
 denticulately
 dilutive
 duties
@@ -10290,6 +10289,7 @@ demurrers
 diagrammers
 ditton
 diopter
+demitted
 dimethylnitrosamine
 diopters
 dismark

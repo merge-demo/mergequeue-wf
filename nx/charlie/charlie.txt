@@ -7874,7 +7874,6 @@ consternating
 choledochitis
 coronatorial
 cervicapra
-cervicectomy
 cyanided
 caenogenesis
 cichloid
@@ -19101,6 +19100,7 @@ chariots
 colliery
 crises
 camb
+cervicectomy
 colliflower
 cruset
 colligate
