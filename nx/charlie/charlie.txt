@@ -12046,7 +12046,6 @@ cosmological
 crucified
 chorioptes
 conarium
-chorioptic
 choripetalae
 cleuk
 choripetalous
@@ -26976,6 +26975,7 @@ conceded
 chuntering
 calabaza
 ciceronianism
+chorioptic
 counternecromancy
 counterobjection
 counterobligation
