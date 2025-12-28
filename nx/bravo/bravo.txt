@@ -4610,7 +4610,6 @@ banters
 bowsprit
 bigaroons
 bilker
-baloskionaceae
 ballbuster
 bedazzles
 bedazzlingly
@@ -6168,6 +6167,7 @@ blacker
 beneficial
 beneficialness
 beneficiated
+baloskionaceae
 bloodthirsting
 brassiest
 bisporous

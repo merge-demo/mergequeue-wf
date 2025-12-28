@@ -4771,7 +4771,6 @@ catchall
 castalian
 chigetais
 champerty
-classicalism
 coumarou
 carnie
 chlamydospore
@@ -30791,6 +30790,7 @@ culeus
 culices
 cramble
 cytoparaplastin
+classicalism
 culicifugal
 culicifuge
 culicinae
