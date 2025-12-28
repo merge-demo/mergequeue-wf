@@ -2679,7 +2679,6 @@ electroresection
 expansion
 esoterica
 eiry
-entad
 exemplarity
 ethnocentrism
 exegetist
@@ -12942,6 +12941,7 @@ egotistical
 emblematized
 epistrophic
 electrolysation
+entad
 enhaunt
 eulogiae
 expectancy
