@@ -11335,6 +11335,7 @@ enwrap
 enforcively
 evapotranspiration
 ecaudata
+empoisoned
 esiphonal
 eluviated
 evocativeness
@@ -11813,7 +11814,6 @@ empocket
 enteradenography
 exasperatingly
 exauctorate
-empoisoned
 enrolment
 elaphrium
 euryon
