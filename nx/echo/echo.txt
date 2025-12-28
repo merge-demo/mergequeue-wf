@@ -9941,7 +9941,6 @@ exoccipital
 episodal
 epididymitis
 esophagoptosis
-extols
 estreat
 excogitable
 estrangelo
@@ -12772,6 +12771,7 @@ ecophysiology
 elsewise
 exortion
 endodontia
+extols
 exosmose
 exosmotic
 explicative
