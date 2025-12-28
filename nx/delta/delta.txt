@@ -6314,7 +6314,6 @@ delacrimation
 dermestid
 dermatoneural
 dextrogyration
-deject
 debit
 disseminating
 defensorship
@@ -18652,6 +18651,7 @@ discountenanced
 disseisor
 devitrification
 decolorize
+deject
 duvetynes
 devaporation
 dereign
