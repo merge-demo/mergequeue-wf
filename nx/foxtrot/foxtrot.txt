@@ -6216,6 +6216,7 @@ firebreak
 funguslike
 falange
 fog
+fivepence
 fulcrumed
 flrie
 flatlander
@@ -10672,7 +10673,6 @@ forblack
 flocculency
 fruitester
 fargood
-fivepence
 fitments
 forenamed
 florican
