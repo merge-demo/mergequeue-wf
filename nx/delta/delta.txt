@@ -8638,6 +8638,7 @@ diascope
 domed
 distracted
 didactyl
+dislustring
 dissection
 dyassic
 demagogies
@@ -10059,7 +10060,6 @@ dogfight
 dilatable
 dynamomorphic
 discoursively
-dislustring
 dynamophone
 decentralised
 dynamos
