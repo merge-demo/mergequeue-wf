@@ -4879,7 +4879,6 @@ bourgeon
 benames
 bartholomew
 blephara
-briefings
 bedsitter
 batmen
 baudekins
@@ -8291,6 +8290,7 @@ bream
 bluegill
 bekerchief
 bawdiest
+briefings
 budgie
 broodingly
 butterflyfish
