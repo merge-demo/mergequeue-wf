@@ -533,7 +533,6 @@ dama
 damageability
 damageably
 detonatable
-damaged
 detort
 damageous
 deaccessions
@@ -7848,6 +7847,7 @@ dermestes
 diplogenic
 diffluent
 dogbodies
+damaged
 dew
 degentilize
 diatoric

@@ -4517,7 +4517,6 @@ gulp
 gypsophila
 gypsophily
 glycolipide
-gutters
 gardevisure
 glyptology
 grame
@@ -7437,6 +7436,7 @@ grantsmen
 goosefoot
 galvanometers
 giga
+gutters
 granduncle
 gnatproof
 geylies
