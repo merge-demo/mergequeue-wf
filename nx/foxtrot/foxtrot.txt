@@ -10157,7 +10157,6 @@ fleshment
 fritniency
 fare
 foreknee
-fe
 feckly
 fissiparously
 frittering
@@ -10266,6 +10265,7 @@ finespun
 formolit
 frabous
 frankeniaceae
+fe
 fruticant
 fleshly
 fadedness
