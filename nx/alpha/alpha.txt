@@ -14165,7 +14165,6 @@ alismoid
 alexiterical
 antergic
 aspic
-autodetector
 atlee
 amarillo
 absinthial
@@ -25335,6 +25334,7 @@ adjustage
 anoplotheriidae
 abeyances
 amygdaline
+autodetector
 avahi
 aethusa
 arilled
