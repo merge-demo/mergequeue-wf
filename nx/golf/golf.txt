@@ -6457,6 +6457,7 @@ generalizable
 goldeney
 grey
 garnishes
+gagroot
 gradationately
 gillaroo
 goldener
@@ -9753,7 +9754,6 @@ grummet
 gearing
 gable
 gibbetting
-gagroot
 glycerins
 gablewise
 gorged
