@@ -4571,7 +4571,6 @@ epitheliogenetic
 emplaned
 embarkation
 encephalotome
-edomite
 ethics
 epionynychia
 euphony
@@ -10550,6 +10549,7 @@ euchlorite
 eleutherodactylus
 estray
 elbuck
+edomite
 euchology
 ewers
 endocrinological
