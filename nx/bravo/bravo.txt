@@ -10879,7 +10879,6 @@ bds
 blewits
 blick
 blickie
-blickies
 blighia
 britskas
 bloodlike
@@ -15528,6 +15527,7 @@ banal
 began
 bringers
 bodega
+blickies
 brushiness
 botanophilist
 brynhild
