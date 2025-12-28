@@ -15744,7 +15744,6 @@ clavicornes
 clavicotomy
 clavicular
 clavicularium
-claviculate
 chrysohermidin
 chirotype
 clima
@@ -29246,6 +29245,7 @@ cryptobranch
 cryptobranchia
 cryptobranchiata
 clambakes
+claviculate
 chondroma
 cutlas
 choices
