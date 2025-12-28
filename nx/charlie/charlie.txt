@@ -671,7 +671,6 @@ caesious
 caespitose
 caespitosely
 cinemize
-crownal
 caestus
 creatins
 caestuses
@@ -9817,6 +9816,7 @@ collisions
 conjunctiva
 cysts
 chelide
+crownal
 csardas
 cowheart
 chelydidae

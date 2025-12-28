@@ -9663,7 +9663,6 @@ asmack
 anaemic
 alveary
 alvearies
-advent
 alvearium
 alveolariform
 antitetanic
@@ -10534,6 +10533,7 @@ amygdalase
 amygdalate
 assisted
 autoracemization
+advent
 ambulatoriums
 alcuinian
 archduchy
