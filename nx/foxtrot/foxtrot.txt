@@ -469,7 +469,6 @@ faithlessness
 fringeless
 folkmoter
 foliosity
-facticity
 faithworthiness
 fireplaces
 faitours
@@ -1803,6 +1802,7 @@ featherwing
 featherwise
 fjorded
 fevercup
+facticity
 familiarisingly
 flamingos
 flunkyhood
