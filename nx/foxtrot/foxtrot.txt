@@ -2872,6 +2872,7 @@ forgettable
 foaled
 flukeworm
 flowstone
+fibbers
 fractioning
 fettlings
 feminises
@@ -3031,7 +3032,6 @@ fissioned
 forensical
 felstones
 friendlies
-fibbers
 furrows
 fustin
 fiber

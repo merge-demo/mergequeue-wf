@@ -2715,7 +2715,6 @@ estampie
 escrol
 expectorating
 excitors
-enmesh
 enduros
 electrotherapy
 electrotheraputic
@@ -9036,6 +9035,7 @@ enfeeblement
 echappee
 ernesse
 exponent
+enmesh
 espionage
 erythritol
 equivalue
