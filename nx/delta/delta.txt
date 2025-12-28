@@ -3993,7 +3993,6 @@ digressiveness
 dibasicity
 dipteros
 delegations
-delegator
 discomposedly
 drenchingly
 delesseriaceous
@@ -16982,6 +16981,7 @@ discommendably
 dunning
 doorcheek
 demipillar
+delegator
 dendrocoela
 disjoined
 diacritically
