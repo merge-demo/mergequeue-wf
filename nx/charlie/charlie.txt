@@ -4387,7 +4387,6 @@ carica
 caricaceae
 chenica
 caricaceous
-cotemporaneous
 cattleya
 caricatura
 caricatural
@@ -24026,6 +24025,7 @@ craniotome
 convention
 conventional
 cutlassfish
+cotemporaneous
 cholesterate
 conventionalised
 conoscope
