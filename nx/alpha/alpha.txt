@@ -12738,7 +12738,6 @@ arbitraments
 anileness
 achordate
 angiocarpic
-angiocarpous
 anaunter
 aubergine
 angiodermatitis
@@ -21407,6 +21406,7 @@ abkar
 almswoman
 acrogenously
 agueproof
+angiocarpous
 alamoth
 actinograph
 ambulantes
