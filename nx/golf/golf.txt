@@ -1578,6 +1578,7 @@ gauntlet
 gulanganes
 galleria
 gunlock
+ganoidean
 gasterotheca
 gandermooner
 gymnetrous
@@ -9537,7 +9538,6 @@ garvey
 glenn
 generalizer
 gloving
-ganoidean
 grouser
 gunmetals
 gorgeted
