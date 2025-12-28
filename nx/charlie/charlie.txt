@@ -3495,7 +3495,6 @@ comprehends
 craniovertebral
 capsella
 calyptras
-capshore
 capsian
 collectress
 ceruses
@@ -6055,6 +6054,7 @@ cathography
 cathole
 critics
 centraliser
+capshore
 collatress
 contratempo
 courtesans
