@@ -2386,7 +2386,6 @@ banshie
 brakemen
 belabors
 backbencher
-blastopore
 barcoo
 beslab
 bemoisten
@@ -12452,6 +12451,7 @@ bonbon
 bursary
 betsimisaraka
 behap
+blastopore
 bicapitate
 backcast
 begloom
