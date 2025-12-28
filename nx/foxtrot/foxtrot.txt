@@ -5439,6 +5439,7 @@ forefigure
 furor
 flurt
 fittingness
+foreseeable
 fault
 firstfruits
 fortifiable
@@ -10526,7 +10527,6 @@ felsosphaerite
 florimanist
 freshment
 frillery
-foreseeable
 frot
 fanman
 fittingly
