@@ -1956,7 +1956,6 @@ crosstail
 consubstantiation
 carcinus
 cornule
-chiliarchy
 camelopards
 cotterite
 constant
@@ -16553,6 +16552,7 @@ calendar
 coinheritance
 correlative
 clogmaking
+chiliarchy
 clogwheel
 canners
 clogwyn
