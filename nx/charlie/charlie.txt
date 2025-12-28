@@ -1538,7 +1538,6 @@ calligraphic
 chiba
 cooeying
 calligraphically
-calling
 cigarillo
 chiefly
 calamintha
@@ -25524,6 +25523,7 @@ crepidomata
 craniometer
 cavitates
 coronagraph
+calling
 cataphonics
 controversionalism
 confervous
