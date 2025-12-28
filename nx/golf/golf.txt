@@ -5843,7 +5843,6 @@ gynoecium
 greens
 glucate
 gorevan
-gibelite
 gastrostomies
 glucinums
 gangflower
@@ -6700,6 +6699,7 @@ garterless
 gamekeeper
 gullishly
 gainsayer
+gibelite
 grint
 gibbet
 germanious
