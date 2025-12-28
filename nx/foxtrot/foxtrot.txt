@@ -5144,7 +5144,6 @@ flickermouse
 fregit
 farmhousey
 fraile
-fulgently
 frizzly
 foreadvise
 fellas
@@ -11658,6 +11657,7 @@ fillowite
 fastigious
 foxskins
 functionalized
+fulgently
 fluavil
 fructiform
 fresne
