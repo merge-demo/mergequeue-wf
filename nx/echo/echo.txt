@@ -1336,7 +1336,6 @@ endocardiac
 exopeptidase
 effective
 enhallow
-euryphagous
 extracolumella
 epimachinae
 entomologists
@@ -3359,6 +3358,7 @@ ellipsometer
 edison
 euharmonic
 endamages
+euryphagous
 epileptic
 emancipator
 eelback
