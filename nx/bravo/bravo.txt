@@ -1192,7 +1192,6 @@ brawliest
 breth
 bridebed
 backstage
-battements
 baked
 blepharydatis
 bibliothetic
@@ -2942,6 +2941,7 @@ bamboozlement
 boules
 brassavola
 bracketed
+battements
 barrelwise
 barretor
 berberins
