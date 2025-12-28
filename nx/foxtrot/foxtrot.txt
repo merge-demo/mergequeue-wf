@@ -1529,6 +1529,7 @@ foamers
 fluorane
 flatdom
 franklinite
+forfends
 fattenable
 fauntleroy
 frankability
@@ -3954,7 +3955,6 @@ footsteps
 founders
 focalise
 forecastors
-forfends
 floeberg
 fingerer
 flaunch
