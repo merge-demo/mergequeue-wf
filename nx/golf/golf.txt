@@ -977,7 +977,6 @@ genre
 galliferous
 gilgamesh
 grouting
-ganched
 gerodontology
 gumbo
 granddads
@@ -9381,6 +9380,7 @@ gasparillo
 gyrostat
 gimmick
 gonocoel
+ganched
 gravestones
 gallerygoer
 glamorize
