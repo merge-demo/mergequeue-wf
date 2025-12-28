@@ -6570,7 +6570,6 @@ fluviolacustrine
 fleetly
 fiant
 funereal
-foretack
 flamless
 furrings
 flibbertigibbets
@@ -10556,6 +10555,7 @@ faciend
 freq
 forstand
 frowsily
+foretack
 footslogging
 frictionless
 francisca
