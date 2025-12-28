@@ -10751,7 +10751,6 @@ eulimidae
 epicoela
 eulytine
 eelblenny
-eulogias
 entopopliteal
 epicycloidal
 excystation
@@ -11673,6 +11672,7 @@ exaction
 enfire
 exactitude
 electrohydraulic
+eulogias
 eleusinian
 endopolyploid
 exactness
