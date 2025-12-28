@@ -249,7 +249,6 @@ glamorous
 guao
 glaires
 gizmo
-gastrocatarrhal
 glyph
 gumminess
 graziery
@@ -7116,6 +7115,7 @@ galactodendron
 gedanken
 grumly
 granum
+gastrocatarrhal
 glucosulfone
 gyroscopes
 grassation
