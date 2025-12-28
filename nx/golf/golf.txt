@@ -2800,7 +2800,6 @@ greatcoat
 gyro
 gyne
 guzzledom
-gyges
 guemul
 garblings
 gathers
@@ -3887,6 +3886,7 @@ gaelicization
 glumpy
 glazed
 gloweringly
+gyges
 galloperdix
 gigaherz
 gymnarchidae
