@@ -5236,7 +5236,6 @@ exitus
 elusive
 endolysin
 eparchy
-equipluve
 equilibrate
 endomitosis
 endomorphy
@@ -11758,6 +11757,7 @@ ethoxyls
 explanations
 envision
 esc
+equipluve
 eveque
 episcopise
 ensurer
