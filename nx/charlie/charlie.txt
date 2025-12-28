@@ -14293,7 +14293,6 @@ clodder
 calcographic
 cassoni
 circummundane
-circummure
 circummuring
 convolving
 christmases
@@ -27612,6 +27611,7 @@ cow
 chesteine
 cyanidin
 clientry
+circummure
 capeworks
 caesuras
 cowages
