@@ -1324,6 +1324,7 @@ efface
 enthymematical
 equalized
 effacers
+evaginable
 ellipsis
 exhilarated
 exumbrellar
@@ -6745,7 +6746,6 @@ echimys
 epicenters
 espaliers
 epithecal
-evaginable
 emunge
 enuresis
 entertake
