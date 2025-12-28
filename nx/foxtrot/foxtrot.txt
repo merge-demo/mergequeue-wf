@@ -8413,6 +8413,7 @@ fiddlerfishes
 firmans
 fibrillate
 floppy
+frontlash
 felling
 forcipes
 framboise
@@ -10448,7 +10449,6 @@ fusileers
 flandan
 forewarm
 fluorinated
-frontlash
 flatmen
 fallowing
 fiques

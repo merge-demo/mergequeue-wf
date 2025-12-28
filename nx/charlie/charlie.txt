@@ -4539,6 +4539,7 @@ cavorters
 carmagnole
 culverkey
 ceremonials
+conularia
 carmaker
 circumscriptions
 call
@@ -23937,7 +23938,6 @@ conf
 chaffing
 clysmic
 conubium
-conularia
 conumerous
 cuif
 conundrums
