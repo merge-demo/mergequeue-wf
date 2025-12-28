@@ -16500,6 +16500,7 @@ clockwise
 clockworked
 clavigerous
 carthamin
+carillon
 chaldron
 cloddier
 crumster
@@ -19676,7 +19677,6 @@ colzas
 com
 coma
 comprobate
-carillon
 comacine
 comade
 comagmatic
