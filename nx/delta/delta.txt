@@ -1232,7 +1232,6 @@ drivehead
 disembarkation
 defecating
 disemplane
-disobligation
 dateless
 datelessness
 denizate
@@ -7195,6 +7194,7 @@ detachedness
 dashingly
 doryanthes
 demarcator
+disobligation
 disguised
 deveined
 detaching
