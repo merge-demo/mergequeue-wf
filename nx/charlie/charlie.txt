@@ -8118,7 +8118,6 @@ castores
 cirrated
 chaetopodan
 chaetopterus
-chrysophlyctis
 chaetosomidae
 codrus
 compacting
@@ -26358,6 +26357,7 @@ cosubordinate
 cumarins
 cosuffer
 compliantly
+chrysophlyctis
 caracole
 craie
 colymbiform
