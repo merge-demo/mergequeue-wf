@@ -17733,7 +17733,6 @@ cockade
 colour
 colonisation
 christianization
-connecting
 cockades
 canorously
 camelina
@@ -28189,6 +28188,7 @@ crannia
 colliquefaction
 crannied
 crannies
+connecting
 crannying
 carpincho
 compiler
