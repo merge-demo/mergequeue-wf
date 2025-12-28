@@ -1454,7 +1454,6 @@ ebrious
 endpiece
 entodermal
 epipodialia
-entoretina
 erythrocytolytic
 ethnicon
 exaggeratory
@@ -5958,6 +5957,7 @@ enhelm
 emotionality
 elysia
 euphonising
+entoretina
 espalier
 effluviography
 epidictic
