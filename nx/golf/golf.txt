@@ -3357,7 +3357,6 @@ groovelike
 garrulinae
 germifuge
 goog
-gaudeamuses
 giftie
 guan
 gaults
@@ -8475,6 +8474,7 @@ goonch
 gratuitant
 glossograph
 grenatite
+gaudeamuses
 gnathopodous
 guinea
 galinsoga
