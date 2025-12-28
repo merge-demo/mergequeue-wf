@@ -2419,7 +2419,6 @@ electrodeless
 exponentials
 ectogenetic
 electroetching
-energist
 electrodeposition
 ebriosity
 electrodes
@@ -3837,6 +3836,7 @@ ethnohistorical
 extolled
 economic
 engrain
+energist
 expletory
 emended
 ecu

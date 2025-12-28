@@ -6483,7 +6483,6 @@ fellatrix
 forsar
 flurn
 flurried
-futhorks
 fernbird
 furiosa
 footage
@@ -7929,6 +7928,7 @@ factiousness
 franklinia
 foreruns
 flacket
+futhorks
 frightenable
 frottole
 flourishingly
