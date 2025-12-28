@@ -4722,7 +4722,6 @@ aequi
 ausgespielt
 aranein
 albuminimetry
-allogamy
 attemperation
 aequor
 altitudes
@@ -17771,6 +17770,7 @@ applosive
 ataxia
 antiguan
 aortorrhaphy
+allogamy
 azoxybenzene
 asphyxiate
 avoke
