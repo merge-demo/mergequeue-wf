@@ -3323,6 +3323,7 @@ definitely
 distrait
 deafness
 definiteness
+determinating
 dahlin
 deergrass
 definitiones
@@ -11745,7 +11746,6 @@ discrepancies
 dedendum
 discrepancries
 deterger
-determinating
 discrepantly
 decaudation
 demasts
