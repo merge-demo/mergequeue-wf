@@ -5593,7 +5593,6 @@ burrio
 brassicaceous
 beknottedly
 bathythermogram
-basophile
 biotype
 beknow
 blimpishly
@@ -6757,6 +6756,7 @@ bootprint
 bunnymouth
 bridehood
 billings
+basophile
 bylander
 baikerinite
 bilirubinuria
