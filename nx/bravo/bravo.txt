@@ -3266,6 +3266,7 @@ basinet
 basinets
 basinful
 benzines
+barytocalcite
 bewhig
 begartered
 bethank
@@ -13743,7 +13744,6 @@ boustrophedon
 bloomer
 bircher
 banqueted
-barytocalcite
 braccio
 billetwood
 backus
