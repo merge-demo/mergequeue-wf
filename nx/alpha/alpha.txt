@@ -3710,6 +3710,7 @@ adespoton
 analemmatic
 arylating
 adessenarian
+amphiprotic
 adeste
 afterpressure
 antesternum
@@ -18201,7 +18202,6 @@ althea
 areel
 anasarca
 airohydrogen
-amphiprotic
 autoing
 assassination
 ammonocarbonous
