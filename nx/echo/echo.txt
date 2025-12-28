@@ -6400,7 +6400,6 @@ enshrinement
 embars
 eleventhly
 electrobus
-electrotyper
 ephebe
 expenseful
 ensafe
@@ -9909,6 +9908,7 @@ executes
 eduskunta
 epideictical
 extensionist
+electrotyper
 electromagnetics
 exoculated
 enskies
