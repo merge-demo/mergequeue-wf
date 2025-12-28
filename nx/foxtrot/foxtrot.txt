@@ -2391,6 +2391,7 @@ fleer
 fad
 fleshlessness
 feasant
+flings
 flakelet
 fistularia
 flavous
@@ -5683,7 +5684,6 @@ freeloader
 flingy
 funded
 fiddlestring
-flings
 fishwife
 flinkite
 fluffer
