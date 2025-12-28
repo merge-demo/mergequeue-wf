@@ -5073,7 +5073,6 @@ grapplers
 gloxinia
 glasshouses
 gateaux
-gasts
 glued
 grisoutine
 gnarr
@@ -8749,6 +8748,7 @@ gnathonic
 girosols
 guazuma
 gonys
+gasts
 greenrooms
 garlics
 glossectomy
