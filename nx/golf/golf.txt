@@ -1529,7 +1529,6 @@ gulfiest
 grandiloquence
 gearless
 gazump
-gastrologist
 goatpox
 ghoul
 gasper
@@ -9886,6 +9885,7 @@ gravy
 growth
 gastrochaena
 gladdens
+gastrologist
 ganga
 gerygone
 gustless
