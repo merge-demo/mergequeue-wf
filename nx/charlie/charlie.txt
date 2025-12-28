@@ -361,6 +361,7 @@ cacodemonomania
 cacodyl
 claustrophobic
 chevrette
+cloison
 craney
 convive
 cornified
@@ -1324,7 +1325,6 @@ colunar
 calibrated
 calibrater
 calibrates
-cloison
 calibrating
 calibre
 causative
