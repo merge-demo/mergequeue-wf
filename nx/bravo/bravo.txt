@@ -10039,7 +10039,6 @@ buffos
 bivoluminous
 bivouacked
 bodes
-bouilli
 byway
 baining
 bushranger
@@ -11725,6 +11724,7 @@ bungstarter
 briseis
 benthon
 bucket
+bouilli
 bayogoula
 bobbers
 bartlett
