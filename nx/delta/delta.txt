@@ -3414,7 +3414,6 @@ duke
 disgracement
 dissatisfy
 debasement
-deflocculate
 deflocculating
 dermatoptera
 distinctiveness
@@ -11468,6 +11467,7 @@ discoloration
 discolorations
 discolored
 dar
+deflocculate
 doest
 defalcations
 deads
