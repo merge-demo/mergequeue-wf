@@ -6743,6 +6743,7 @@ ceilers
 ceilidhe
 ceiling
 ceilings
+compare
 ceilingwards
 cinnamomum
 copiability
@@ -7221,7 +7222,6 @@ centranth
 centrarchid
 centrarchoid
 clar
-compare
 centraxonial
 cfi
 centre
