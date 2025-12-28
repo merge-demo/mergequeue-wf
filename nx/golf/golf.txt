@@ -5083,7 +5083,6 @@ glottological
 glassiness
 glasslikeness
 garrya
-gilled
 griffins
 granza
 gastroptosia
@@ -9092,6 +9091,7 @@ genoese
 gis
 goloch
 gunpowdery
+gilled
 gryllid
 galluptious
 geelbek
