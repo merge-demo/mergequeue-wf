@@ -2799,7 +2799,6 @@ bowlers
 behaviourally
 baronries
 briggs
-baroque
 baconer
 bureaus
 barites
@@ -8606,6 +8605,7 @@ becafico
 bearlike
 bibliothecas
 bimillenial
+baroque
 billiard
 bellyfull
 bioactivity

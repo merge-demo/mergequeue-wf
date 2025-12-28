@@ -2505,7 +2505,6 @@ dirigent
 defoliant
 deckhand
 dovekies
-duckwing
 deckle
 dulls
 diatropism
@@ -14971,6 +14970,7 @@ dialoger
 defrauders
 doesn
 desiccatory
+duckwing
 doffing
 demiracle
 diaphanometry
