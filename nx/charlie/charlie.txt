@@ -11844,6 +11844,7 @@ chondropterygious
 chondrosarcomatous
 construed
 codder
+coendured
 colpohysterotomy
 conopid
 chondrosis
@@ -29524,7 +29525,6 @@ crithomancy
 critic
 criticality
 criticalness
-coendured
 centervelic
 colophonist
 crabbed
