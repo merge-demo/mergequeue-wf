@@ -222,6 +222,7 @@ baccilli
 baccivorous
 bach
 bibliograph
+bdellid
 betonica
 bastinadoed
 bactrites
@@ -11544,7 +11545,6 @@ bourrasque
 blunger
 blunk
 berrypicker
-bdellid
 bridegrooms
 blameworthiness
 boswellism
