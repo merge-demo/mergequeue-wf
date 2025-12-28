@@ -469,7 +469,6 @@ galeorhinidae
 grouches
 gridirons
 gipsies
-galericulate
 geckotian
 gynandromorphy
 goats
@@ -6900,6 +6899,7 @@ grafting
 gitterns
 guttiferae
 gombay
+galericulate
 gangliomata
 graftonite
 groundspeed
