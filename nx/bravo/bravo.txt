@@ -10131,6 +10131,7 @@ blackamoors
 blair
 blemmatrope
 blackbine
+bovine
 befrets
 blackback
 beadles
@@ -12970,7 +12971,6 @@ blameless
 beseek
 bureaucratic
 breviloquence
-bovine
 boleros
 berthold
 boardinghouses
