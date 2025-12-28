@@ -3077,7 +3077,6 @@ chaffinches
 chiasmodon
 croppa
 cycadeous
-canvasado
 canvasbacks
 canvasers
 coralroot
@@ -4622,6 +4621,7 @@ carnivalesque
 contrastimulation
 carnivals
 carnivoral
+canvasado
 carnivore
 carnivorism
 cordialness
