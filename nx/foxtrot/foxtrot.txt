@@ -4982,7 +4982,6 @@ foxing
 flamy
 flowchart
 fan
-facepiece
 floorages
 flamingant
 foremarch
@@ -7163,6 +7162,7 @@ footboards
 frotteurs
 feckful
 friszka
+facepiece
 footboy
 fretted
 fossette
