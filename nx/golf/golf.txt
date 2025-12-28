@@ -4948,7 +4948,6 @@ greenbottle
 gestural
 glaives
 get
-gent
 galangal
 gamdia
 gardens
@@ -6901,6 +6900,7 @@ gombay
 gangliomata
 graftonite
 groundspeed
+gent
 greillade
 gooders
 gelsemine
