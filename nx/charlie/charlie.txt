@@ -4762,7 +4762,6 @@ cyathi
 costalgia
 chapmen
 chugalugging
-carpetbaggism
 commuter
 commas
 choenix
@@ -19531,6 +19530,7 @@ closet
 challoth
 colpindach
 canzonets
+carpetbaggism
 chiasmi
 colpitis
 carvers
