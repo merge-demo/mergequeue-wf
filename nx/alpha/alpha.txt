@@ -6253,7 +6253,6 @@ adiposities
 agramed
 afterpeak
 agrammatism
-authorized
 agrammatologia
 annattos
 ahab
@@ -13026,6 +13025,7 @@ asocial
 almight
 afterroll
 alcestis
+authorized
 anhydroglocose
 anhidrotic
 accompt
