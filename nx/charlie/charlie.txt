@@ -4355,7 +4355,6 @@ continuing
 cary
 caryatid
 corrects
-caryatidal
 cigaresque
 caryatids
 caribal
@@ -16801,6 +16800,7 @@ cohabiting
 cotyliform
 cuckoldom
 clouted
+caryatidal
 clouter
 clouterly
 chooseable
