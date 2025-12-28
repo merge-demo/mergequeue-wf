@@ -4927,6 +4927,7 @@ biguttate
 bandurrias
 bobac
 burrowstown
+beyerite
 battled
 beefalo
 beefaloes
@@ -9915,7 +9916,6 @@ bitter
 besee
 bitterbloom
 bittered
-beyerite
 bitterender
 ballooning
 bapt
