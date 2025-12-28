@@ -5070,7 +5070,6 @@ caruncles
 caruncula
 crusades
 canaanites
-carunculae
 caruncular
 cohue
 committeemen
@@ -10447,6 +10446,7 @@ citizenries
 chiffonier
 chiffoniers
 cooncan
+carunculae
 cementing
 cryptometer
 chiffonnieres
