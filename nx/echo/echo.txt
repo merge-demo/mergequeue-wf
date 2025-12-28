@@ -4699,7 +4699,6 @@ energico
 emmeniopathy
 euphoniad
 embezzled
-encyclics
 eisodic
 eucrites
 elbowing
@@ -13514,6 +13513,7 @@ eccles
 eumolpides
 externomedian
 exscinds
+encyclics
 entailers
 epiphenomenally
 elopements
