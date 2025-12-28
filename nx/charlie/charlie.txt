@@ -11757,7 +11757,6 @@ clavicor
 collaborative
 cladistic
 choluria
-copygraphed
 confesser
 clinal
 choluteca
@@ -29926,6 +29925,7 @@ carposporangia
 crossopterygii
 chromonema
 crossosomataceous
+copygraphed
 contrahent
 crossovers
 chokebore
