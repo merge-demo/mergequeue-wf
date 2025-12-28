@@ -8279,7 +8279,6 @@ cranely
 cyanol
 counterferment
 camise
-cercomonas
 compressing
 caracoli
 chalazium
@@ -12228,6 +12227,7 @@ cuadrillas
 chevying
 chrysemys
 cynodon
+cercomonas
 calescent
 chrysippus
 chrysis
