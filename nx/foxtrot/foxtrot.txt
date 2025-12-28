@@ -2020,7 +2020,6 @@ fardels
 feetfirst
 fireworky
 fractionizing
-furlongs
 freshens
 farmers
 fieldwards
@@ -10033,6 +10032,7 @@ forewarner
 footpaths
 foreshroud
 framableness
+furlongs
 fenceless
 fanga
 forerevelation
