@@ -15834,7 +15834,6 @@ disyllabize
 dorsipinal
 dorsocaudad
 delint
-dorsocentral
 dayglow
 disfrancnise
 disaccredit
@@ -16798,6 +16797,7 @@ deare
 dissenters
 dreeing
 disconsonant
+dorsocentral
 difficult
 devaluated
 drawcut
