@@ -2414,6 +2414,7 @@ exauthorize
 excentricity
 electroscopes
 ethnotechnics
+evangelistaries
 epicaridan
 electrodeless
 exponentials
@@ -8475,7 +8476,6 @@ epizootic
 epoxyed
 epoxies
 employed
-evangelistaries
 easterlies
 eprise
 epimorpha
