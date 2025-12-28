@@ -4918,6 +4918,7 @@ glaizie
 glaga
 geologies
 glagolic
+glucuronic
 gethsemane
 griper
 glossotomy
@@ -9318,7 +9319,6 @@ gallstone
 graduale
 geoffrey
 groenlandicus
-glucuronic
 goyana
 gurge
 gangliate
