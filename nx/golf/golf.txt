@@ -7261,7 +7261,6 @@ guarani
 gaultherase
 guarneri
 gavages
-grievously
 glabella
 goriness
 gangion
@@ -9307,6 +9306,7 @@ goidel
 gamely
 gemauve
 granitoid
+grievously
 gentlemanly
 gierfalcon
 groenendael
