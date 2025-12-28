@@ -10622,7 +10622,6 @@ discoveries
 diplopod
 diplopoda
 daffadillies
-discorrespondent
 delocalization
 dissociates
 disparate
@@ -16829,6 +16828,7 @@ dishonorary
 drawings
 duplicando
 deliquescent
+discorrespondent
 dissociable
 dendrodus
 diaphanoscopy
