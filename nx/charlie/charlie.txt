@@ -4712,7 +4712,6 @@ comptoir
 craftsmen
 centerline
 carotinemia
-cronying
 carotinoid
 corespondency
 carotol
@@ -31174,6 +31173,7 @@ chewstick
 covetingly
 cuppen
 cupper
+cronying
 cuppin
 civets
 chemonite
