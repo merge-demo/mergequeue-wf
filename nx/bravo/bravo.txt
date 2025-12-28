@@ -2517,7 +2517,6 @@ beet
 bargellos
 beswinge
 begroans
-barger
 bardash
 bractea
 borscht
@@ -14919,6 +14918,7 @@ breakfronts
 butlerage
 breaking
 busera
+barger
 breakings
 bovicide
 breaklist
