@@ -9174,6 +9174,7 @@ enates
 elaphe
 ernes
 erode
+encephalocoele
 eosinophilic
 erodent
 extradite
@@ -10918,7 +10919,6 @@ eanlings
 eudemian
 easternize
 enterokinase
-encephalocoele
 epibaterium
 euktolite
 enchondrosis
