@@ -11800,7 +11800,6 @@ analogy
 analogic
 anteposition
 ascertained
-anaximandrian
 amphicome
 amidomyelin
 abdominocardiac
@@ -16364,6 +16363,7 @@ anticommutative
 adipsia
 antivivisectionist
 ambuscade
+anaximandrian
 asteroidal
 arsanilic
 antiwarlike
