@@ -7035,6 +7035,7 @@ entrer
 entresols
 extractors
 excommunicator
+encipherments
 embladder
 electrotitration
 explorable
@@ -7475,7 +7476,6 @@ eclectist
 extricated
 eryx
 ephialtes
-encipherments
 excusal
 ebenaceae
 equisurface
