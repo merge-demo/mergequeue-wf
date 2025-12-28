@@ -3046,7 +3046,6 @@ endometrial
 eviscerate
 eliquidate
 extraclaustral
-elisor
 elissa
 expeditor
 eyereach
@@ -9953,6 +9952,7 @@ ennew
 ecclesiae
 ensampler
 estrif
+elisor
 estrin
 elk
 estrums
