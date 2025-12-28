@@ -5871,6 +5871,7 @@ beefin
 bypaths
 beerocracy
 bellowsful
+behang
 bargainer
 beride
 bellowslike
@@ -12328,7 +12329,6 @@ bolus
 bomb
 bombacaceae
 bombace
-behang
 bombardiers
 bisulphite
 bombarding
