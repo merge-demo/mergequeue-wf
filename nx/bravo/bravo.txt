@@ -5348,7 +5348,6 @@ beglide
 batekes
 bejuggle
 burkers
-bor
 beglooms
 begloze
 busti
@@ -13207,6 +13206,7 @@ bullhorns
 baronize
 bangtail
 brachycephalize
+bor
 borities
 bourlaw
 bowtel
