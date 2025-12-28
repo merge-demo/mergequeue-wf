@@ -14711,7 +14711,6 @@ cystourethrography
 cistron
 cistronic
 cochon
-cistrons
 conventionality
 cistudo
 colonic
@@ -20901,6 +20900,7 @@ cataleptically
 cassalty
 composted
 composting
+cistrons
 composts
 compot
 compotationship
