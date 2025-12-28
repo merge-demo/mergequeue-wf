@@ -12259,7 +12259,6 @@ bolognese
 balaenopteridae
 burnover
 birdling
-besmut
 broos
 bolographic
 broggerite
@@ -12888,6 +12887,7 @@ boondoggling
 banishers
 betrayers
 bradypepsy
+besmut
 bondslave
 behorror
 borolanite
