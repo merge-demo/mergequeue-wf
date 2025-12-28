@@ -6393,7 +6393,6 @@ eprouvette
 enshrined
 enshrinement
 embars
-enshrinements
 eleventhly
 electrobus
 electrotyper
@@ -11861,6 +11860,7 @@ electrocapillarity
 excarnificate
 entoproctous
 ecdysone
+enshrinements
 excaudate
 engracing
 excavator
