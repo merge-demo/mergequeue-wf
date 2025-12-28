@@ -2285,7 +2285,6 @@ beblister
 bucculatrix
 barbatimao
 branchiosaurian
-barbe
 bonneter
 bewearies
 baister
@@ -6344,6 +6343,7 @@ benzein
 bellyfish
 blinks
 benzenediazonium
+barbe
 bouffancy
 bosominess
 billsticking
