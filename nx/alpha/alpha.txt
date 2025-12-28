@@ -14713,6 +14713,7 @@ antibiont
 antibiosis
 anaglyphic
 antibiotic
+anaematosis
 antimonopolism
 acousmatic
 antibiotically
@@ -19961,7 +19962,6 @@ armouchiquois
 ammine
 armour
 armourbearer
-anaematosis
 aristogenics
 avalanched
 allotheism

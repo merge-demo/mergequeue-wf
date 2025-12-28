@@ -1366,6 +1366,7 @@ grabbles
 gaulin
 graveyard
 gorb
+garlandless
 gastrostegal
 gravitometer
 garnetter
@@ -5543,7 +5544,6 @@ gad
 grumbles
 gamecocks
 guardlike
-garlandless
 globigerinae
 guarnerius
 gloea
