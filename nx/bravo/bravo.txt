@@ -5068,7 +5068,6 @@ benzomorpholine
 befalls
 botanised
 battlers
-blazoned
 bastonet
 bowfin
 bloodthirst
@@ -6583,6 +6582,7 @@ bladderless
 berchemia
 borachio
 berdache
+blazoned
 battuta
 birdie
 brazenly
