@@ -540,6 +540,7 @@ forfeiter
 factitial
 funambulant
 folium
+fats
 falcons
 falculate
 fawnery
@@ -2179,7 +2180,6 @@ fadme
 flashet
 feltmaker
 fiducia
-fats
 fratercula
 farmhouse
 fumulus
