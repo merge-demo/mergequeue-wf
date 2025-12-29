@@ -2229,6 +2229,7 @@ flopping
 forgetting
 fracture
 filesave
+folio
 fleered
 fainaiguer
 fatil
@@ -11533,7 +11534,6 @@ fards
 flory
 famulary
 flattener
-folio
 fervently
 ferociousness
 footlessly
