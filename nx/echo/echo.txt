@@ -3574,6 +3574,7 @@ enfoeffment
 exothermic
 exanthematous
 ergographic
+eglandulous
 entozoon
 emboweled
 epithecial
@@ -7176,7 +7177,6 @@ earthshine
 endymion
 eposes
 empassion
-eglandulous
 expirer
 envisaging
 enwheels
