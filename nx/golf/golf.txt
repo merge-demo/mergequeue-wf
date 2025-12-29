@@ -2354,7 +2354,6 @@ greengrocer
 grubbiness
 gainturn
 ghazal
-geraty
 georgette
 gopherwood
 gelosie
@@ -2627,6 +2626,7 @@ gruesomest
 gametophyte
 gahnite
 grendel
+geraty
 geomorphist
 gunners
 gypsyweed

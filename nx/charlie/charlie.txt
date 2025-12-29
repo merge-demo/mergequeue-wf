@@ -41,6 +41,7 @@ cineols
 causable
 cherrystones
 cocozelle
+cluck
 caballero
 caballo
 caballos
@@ -16910,7 +16911,6 @@ carpogonium
 clubweed
 cionocranian
 clubwomen
-cluck
 cyclas
 clucked
 crotonbug
