@@ -574,7 +574,6 @@ flichtering
 faradized
 famine
 fussed
-folklorism
 falloff
 flamier
 fdubs
@@ -10545,6 +10544,7 @@ floristry
 fusiliers
 frowl
 fierily
+folklorism
 fatstocks
 frowners
 faciend
