@@ -173,7 +173,6 @@ goaled
 gabarit
 gammacism
 groschen
-gavage
 garred
 glaky
 glazing
@@ -3515,6 +3514,7 @@ gussied
 gynospore
 gestical
 gesticulant
+gavage
 gesticulations
 grueller
 gentiin
