@@ -3538,7 +3538,6 @@ gaspar
 getling
 goldenest
 getpenny
-gibberish
 gatewayman
 gracile
 gawish
@@ -8328,6 +8327,7 @@ grappa
 grandaunts
 gruff
 gentians
+gibberish
 grappling
 gradus
 germanish
