@@ -4123,6 +4123,7 @@ gastroduodenostomies
 gesnerad
 gettysburg
 gargoyle
+geophones
 glosts
 genetor
 grimoire
@@ -9590,7 +9591,6 @@ gruels
 gesticularious
 gymnostomata
 giftlike
-geophones
 goodenoviaceae
 granted
 gazed
