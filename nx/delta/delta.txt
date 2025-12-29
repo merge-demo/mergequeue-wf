@@ -8884,7 +8884,6 @@ dilemi
 daunomycin
 disbud
 dicentras
-dipyramid
 dyads
 defiatory
 dmod
@@ -17207,6 +17206,7 @@ dissentiency
 decemberish
 drivelingly
 driveller
+dipyramid
 deutonymphal
 drivellingly
 devulcanization
