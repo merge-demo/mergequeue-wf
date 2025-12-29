@@ -655,7 +655,6 @@ brioche
 bicorne
 bombo
 biannual
-bronchiolitis
 bathyesthesia
 baculine
 boiseries
@@ -4162,6 +4161,7 @@ bravadoing
 bacons
 biomedical
 blenched
+bronchiolitis
 boroglyceride
 barytone
 backbend
