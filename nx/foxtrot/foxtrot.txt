@@ -2747,7 +2747,6 @@ festoonery
 foretellable
 familistere
 fuddlebrained
-forgivingness
 featness
 festinating
 festination
@@ -7943,6 +7942,7 @@ firehouses
 footslog
 fletching
 foresees
+forgivingness
 fonder
 frenzied
 foreseize
