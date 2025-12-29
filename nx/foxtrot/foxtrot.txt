@@ -1028,7 +1028,6 @@ fragmentalize
 flatboats
 finalists
 fronton
-farinometer
 farinose
 founce
 firesafety
@@ -2179,6 +2178,7 @@ fiducia
 fratercula
 farmhouse
 fumulus
+farinometer
 fluster
 felts
 forthtell
