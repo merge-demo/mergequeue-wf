@@ -534,7 +534,6 @@ damageability
 damageably
 detonatable
 detort
-damageous
 deaccessions
 dovyalis
 deliber
@@ -10740,6 +10739,7 @@ dipteryx
 deinodontidae
 dipterocarpaceae
 dartingly
+damageous
 dipterocarpaceous
 deportee
 dipterocarpous
