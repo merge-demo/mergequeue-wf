@@ -10684,7 +10684,6 @@ eumitotic
 eva
 euglenaceae
 extrasyllabic
-ensigning
 embraced
 endopleural
 euripus
@@ -12161,6 +12160,7 @@ embergoose
 excuser
 estreating
 elytron
+ensigning
 endpoint
 exposure
 exsert
