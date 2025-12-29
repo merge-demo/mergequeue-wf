@@ -1155,7 +1155,6 @@ grogs
 graftdom
 grift
 groatsworth
-glyptographer
 gasthaus
 guidingly
 gaslights
@@ -3606,6 +3605,7 @@ gyrocar
 greg
 gatewaymen
 gustus
+glyptographer
 gyrochrome
 gynostegigia
 gnathobdellae
