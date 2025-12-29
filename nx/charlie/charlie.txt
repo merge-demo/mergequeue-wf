@@ -8656,6 +8656,7 @@ changedale
 calpac
 commissaryship
 concocting
+counterspies
 claires
 changeful
 chivachee
@@ -27142,7 +27143,6 @@ countersleight
 countersnarl
 cataclysmatic
 counterspy
-counterspies
 coverage
 counterstand
 counterstep
