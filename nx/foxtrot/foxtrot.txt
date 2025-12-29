@@ -4057,7 +4057,6 @@ flushable
 fluking
 frijoles
 finitudes
-frontage
 fondish
 fusibly
 flophouses
@@ -10287,6 +10286,7 @@ felstone
 fluidglycerate
 forensics
 fistulatome
+frontage
 flutier
 fasher
 frolicker
