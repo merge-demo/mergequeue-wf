@@ -224,7 +224,6 @@ cabrilla
 cnidophobia
 cabrillas
 cabrit
-cabs
 comprend
 cabstands
 cabuya
@@ -1085,6 +1084,7 @@ colory
 codebreak
 chitinocalcareous
 circumcisions
+cabs
 calceolaria
 calceolate
 cowhide
