@@ -1928,7 +1928,6 @@ furtherance
 finback
 feteritas
 federalistic
-forefit
 freight
 frogger
 furling
@@ -7038,6 +7037,7 @@ floodwood
 fondus
 feases
 fermentum
+forefit
 forebodings
 fons
 fauxbourdon
