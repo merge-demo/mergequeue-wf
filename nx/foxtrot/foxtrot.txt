@@ -4826,7 +4826,6 @@ frostbiter
 fibrinuria
 fumish
 flume
-fungi
 fracticipita
 faunus
 fishberries
@@ -6534,6 +6533,7 @@ frakturs
 fortifying
 flexuousness
 fulminant
+fungi
 floggingly
 floodboard
 fierabras
