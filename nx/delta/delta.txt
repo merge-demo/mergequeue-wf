@@ -616,7 +616,6 @@ disintegrating
 deadhand
 derelinquendi
 disgracefulness
-definientia
 disinhumed
 determinantal
 dextrorotatory
@@ -9317,6 +9316,7 @@ destroyable
 differentiability
 differentiae
 dazzling
+definientia
 deliquescing
 dealings
 darkle
