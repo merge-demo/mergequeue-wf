@@ -185,7 +185,6 @@ enchantingness
 eugenetic
 ergogram
 exploration
-electromotion
 electrolier
 equipoising
 extraformal
@@ -6092,6 +6091,7 @@ enliveningly
 enlief
 evertebrate
 excruciate
+electromotion
 escutcheon
 encounters
 emirates

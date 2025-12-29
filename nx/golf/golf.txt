@@ -6668,7 +6668,6 @@ gash
 geostatic
 grandioso
 gustoish
-gopak
 genocides
 gonfalcon
 gradienter
@@ -8795,6 +8794,7 @@ glist
 galyak
 guacharoes
 gorge
+gopak
 greenling
 grogram
 gatherable
