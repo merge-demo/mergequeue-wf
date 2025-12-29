@@ -3286,7 +3286,6 @@ frambesia
 farsight
 flowerfence
 fivescore
-forequarter
 flounces
 ferrelled
 fortier
@@ -7783,6 +7782,7 @@ fritters
 fidicula
 franciscanism
 fisticuffery
+forequarter
 favillous
 flecker
 flabelliform
