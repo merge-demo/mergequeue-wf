@@ -2729,6 +2729,7 @@ braconids
 barnstormer
 barnstorming
 besmearing
+bipinnatisect
 borages
 brutalisation
 bogomile
@@ -9279,7 +9280,6 @@ bladebone
 bipinnarias
 bipinnated
 bow
-bipinnatisect
 bobsledding
 brighter
 bring
