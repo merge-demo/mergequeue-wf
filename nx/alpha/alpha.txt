@@ -12018,6 +12018,7 @@ anthropophagize
 admiral
 anastasia
 autodestruction
+apician
 aletris
 abstractors
 aforethought
@@ -21691,7 +21692,6 @@ arad
 assecuration
 anagua
 assecure
-apician
 assecution
 amend
 acaudal
