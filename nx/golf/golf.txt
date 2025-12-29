@@ -5423,7 +5423,6 @@ galoshe
 ghatwazi
 gender
 groovy
-glutenin
 granomerite
 groupageness
 gastroesophageal
@@ -6045,6 +6044,7 @@ grungy
 gentlemens
 grislier
 glovemen
+glutenin
 glycemia
 griddle
 gownsman
