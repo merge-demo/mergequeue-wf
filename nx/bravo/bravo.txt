@@ -5320,7 +5320,6 @@ balsamy
 breathlessness
 biscuitmaker
 bezzants
-bipinnate
 bugbite
 beginning
 barelegged
@@ -14724,6 +14723,7 @@ briefing
 brassart
 brassarts
 brassbounder
+bipinnate
 brassey
 boxiest
 brassicaceae
