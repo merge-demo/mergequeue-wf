@@ -6892,7 +6892,6 @@ abdicative
 airway
 aflutter
 astilbe
-anticommercialist
 aquavit
 armless
 allene
@@ -24736,6 +24735,7 @@ antipathogene
 ankylosaurus
 angule
 antecoxal
+anticommercialist
 aloes
 admission
 antemural
