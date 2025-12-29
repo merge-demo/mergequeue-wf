@@ -5954,6 +5954,7 @@ fraudlessness
 fossilify
 freehand
 feretories
+fishtailing
 freemartin
 floodlight
 furzes
@@ -6376,7 +6377,6 @@ flang
 fullterm
 francois
 florentium
-fishtailing
 fluorboric
 frugiferousness
 fearfullest
