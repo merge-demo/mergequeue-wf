@@ -2549,7 +2549,6 @@ atomistic
 aecidia
 acorus
 acosmism
-assizing
 acosmist
 athecata
 aircoach
@@ -10513,6 +10512,7 @@ alien
 automatism
 antibacchic
 algaesthesia
+assizing
 amyelic
 amyelous
 agt
