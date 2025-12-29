@@ -2558,7 +2558,6 @@ antisubmarine
 antagonisms
 accoutering
 allylene
-alumins
 autogeneal
 aljamiah
 ancestrial
@@ -21214,6 +21213,7 @@ amelia
 afterthoughted
 ashery
 antichronical
+alumins
 albicore
 agnean
 acipenseridae
