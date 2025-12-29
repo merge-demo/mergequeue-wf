@@ -2172,6 +2172,7 @@ fractocumulus
 fadme
 flashet
 feltmaker
+ferdiad
 fiducia
 fratercula
 farmhouse
@@ -5551,7 +5552,6 @@ forestays
 favellae
 flexion
 foreclosable
-ferdiad
 fleecer
 fatal
 foraminiferous
