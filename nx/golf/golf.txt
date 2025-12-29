@@ -4662,6 +4662,7 @@ greenhouse
 glance
 gringophobia
 ghafir
+gospelist
 geobiology
 gematrical
 galli
@@ -7483,7 +7484,6 @@ groundswells
 gonococcal
 goldfish
 gourded
-gospelist
 granuliferous
 geocentrical
 gabbler
