@@ -666,6 +666,7 @@ exprobration
 extimulate
 eigenstate
 expulse
+endothermy
 enshrouding
 extracondensed
 electrophysiology
@@ -5420,7 +5421,6 @@ eophyte
 electrogild
 eccentrometer
 endothermal
-endothermy
 ectopatagia
 erthling
 electively
