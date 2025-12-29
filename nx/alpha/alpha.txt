@@ -3260,7 +3260,6 @@ acutest
 authorcraft
 anticipator
 aedine
-arpanet
 additament
 acutilingual
 axal
@@ -20062,6 +20061,7 @@ aitkenite
 acoluthic
 autocratoric
 adjourns
+arpanet
 aschistic
 auriscopically
 aromatics
