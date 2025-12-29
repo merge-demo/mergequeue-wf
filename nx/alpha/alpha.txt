@@ -13624,7 +13624,6 @@ annulose
 abaisance
 anodizes
 acoelomous
-artefacts
 ampollosity
 antituberculous
 apodan
@@ -23822,6 +23821,7 @@ antistrumatic
 ambash
 archicleistogamous
 adaptational
+artefacts
 austrogaea
 ampules
 atheriogaea
