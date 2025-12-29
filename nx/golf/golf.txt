@@ -168,6 +168,7 @@ glamour
 goliathize
 goniometry
 gradgrind
+gasolines
 golfer
 goaled
 gabarit
@@ -10651,7 +10652,6 @@ glyoxalase
 gliding
 generalizeable
 gurgitation
-gasolines
 gametogony
 gladius
 gyric
