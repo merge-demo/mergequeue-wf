@@ -1828,6 +1828,7 @@ featureliness
 figureheadship
 fellahin
 firebreaks
+fleabites
 feudalize
 fractured
 flabellum
@@ -9870,7 +9871,6 @@ foreappointment
 fricace
 fricandeaux
 foozlers
-fleabites
 footcloths
 fluellen
 foxily
