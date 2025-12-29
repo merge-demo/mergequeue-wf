@@ -9006,7 +9006,6 @@ gumbolike
 glaucopis
 grievable
 grievance
-gantlines
 grievances
 grievous
 gearbox
@@ -10021,6 +10020,7 @@ gentlemanship
 gorgonised
 geomys
 garlandwise
+gantlines
 geochrony
 gudewife
 galopade
