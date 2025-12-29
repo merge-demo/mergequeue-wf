@@ -3597,7 +3597,6 @@ degenerate
 desulphurizer
 diagrammatize
 diodont
-docosane
 deprecatorily
 dangle
 degenerately
@@ -8360,6 +8359,7 @@ dimerizing
 dermamycosis
 diminutal
 dialysable
+docosane
 dorobo
 dahabiahs
 deaconess
