@@ -4746,6 +4746,7 @@ gainstand
 garua
 galactite
 glick
+geldability
 genethliatic
 gendarme
 giantlike
@@ -6628,7 +6629,6 @@ galvanometrically
 gonalgia
 gallinipper
 gradatively
-geldability
 galanga
 gruntingly
 glassine
