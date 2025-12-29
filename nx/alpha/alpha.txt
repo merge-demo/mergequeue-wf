@@ -14419,6 +14419,7 @@ afterswarming
 adrue
 anthranilic
 agitprops
+adjectivism
 anthranol
 atechny
 acuminulate
@@ -20964,7 +20965,6 @@ ascaridiasis
 archeologian
 affects
 ascarids
-adjectivism
 alpinist
 agog
 ascelli
