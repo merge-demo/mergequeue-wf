@@ -2479,6 +2479,7 @@ forehatch
 flavic
 freightage
 fawningness
+fjarding
 fortunize
 fluters
 ferociously
@@ -10274,7 +10275,6 @@ fluxmeter
 finickingness
 frust
 fgrid
-fjarding
 fishweed
 fennecs
 flamingoes
