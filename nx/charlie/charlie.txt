@@ -4887,6 +4887,7 @@ carri
 cetaceous
 carry
 carriageable
+cryptanalytics
 carriageful
 clachans
 carriages
@@ -29223,7 +29224,6 @@ cryptamnesia
 chattingly
 cryptamnesic
 cryptanalytically
-cryptanalytics
 cryptanalyze
 cothamore
 capybara
