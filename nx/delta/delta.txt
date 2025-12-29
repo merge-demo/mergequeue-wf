@@ -12911,7 +12911,6 @@ dustiness
 desulphuration
 diapers
 disoblige
-disobliger
 dognapping
 disobliges
 deltarium
@@ -13416,6 +13415,7 @@ disquisitions
 disquisitor
 disquisitional
 dismarble
+disobliger
 deepfreezed
 disform
 diffusion
