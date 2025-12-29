@@ -15216,7 +15216,6 @@ claimers
 claymore
 claims
 covenable
-claypans
 clair
 clairaudience
 countertug
@@ -30423,6 +30422,7 @@ chorizontes
 chelicere
 cruzieros
 crwd
+claypans
 crystallogenic
 cantaloupe
 compositor
