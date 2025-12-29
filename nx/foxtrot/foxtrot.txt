@@ -694,6 +694,7 @@ fleshlike
 forzandos
 fobs
 firebolted
+fumigatorium
 farmstead
 fistnote
 ferromagnetic
@@ -6364,7 +6365,6 @@ fuzziness
 fidepromission
 forefingers
 ferments
-fumigatorium
 fpm
 frolicness
 furcraeas
