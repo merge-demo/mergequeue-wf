@@ -4520,7 +4520,6 @@ emulators
 exhort
 embryophyta
 encephalographic
-ekphorize
 episematic
 enamelling
 euchysiderite
@@ -12119,6 +12118,7 @@ excudate
 entwite
 erotizing
 excurrent
+ekphorize
 edility
 eavesdrops
 excrementitiously
