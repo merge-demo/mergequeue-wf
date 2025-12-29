@@ -21032,6 +21032,7 @@ closedown
 comptness
 cabda
 comptroller
+cubicly
 comptrollers
 chinampa
 cul
@@ -25666,7 +25667,6 @@ cyclostomidae
 club
 correctible
 confirmatorily
-cubicly
 correctionalist
 conformities
 corrective
