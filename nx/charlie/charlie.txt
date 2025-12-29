@@ -3219,7 +3219,6 @@ capillarectasia
 calamiform
 cyrtograph
 carmetta
-chinoiserie
 caboclos
 capilli
 capilliculture
@@ -6982,6 +6981,7 @@ cannery
 cementitious
 carinaria
 claudicate
+chinoiserie
 cementmaker
 catapan
 candidly
