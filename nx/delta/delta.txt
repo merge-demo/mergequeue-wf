@@ -16201,6 +16201,7 @@ dichogamous
 disinherit
 dowf
 daren
+disjoinable
 dextroamphetamine
 dermatotherapy
 dowsets
@@ -17403,7 +17404,6 @@ diffraction
 decennia
 didascaly
 direction
-disjoinable
 decream
 dropsies
 distomatidae
