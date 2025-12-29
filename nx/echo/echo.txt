@@ -11066,7 +11066,6 @@ epipharynx
 endolumbar
 eurus
 electrothermostat
-enhusk
 episcopally
 estheria
 epileptically
@@ -11581,6 +11580,7 @@ embrute
 enlighten
 extensiveness
 evolutionism
+enhusk
 epizeuxis
 evolutionistic
 endotheloid
