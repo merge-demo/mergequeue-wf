@@ -1529,7 +1529,6 @@ curraghs
 calligrapha
 chemurgy
 calligraphers
-college
 calligraphy
 calligraphic
 chiba
@@ -18854,6 +18853,7 @@ compliers
 colet
 cobego
 coleur
+college
 chromizes
 clammily
 corylet
