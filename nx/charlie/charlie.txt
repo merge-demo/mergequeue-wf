@@ -21,6 +21,7 @@ chaenomeles
 cows
 crease
 corkmaking
+cosets
 cabaletta
 cestas
 cardplaying
@@ -14514,7 +14515,6 @@ cyrtometer
 calcavella
 cyrtomium
 ciruela
-cosets
 cyrus
 choroidocyclitis
 captainess
