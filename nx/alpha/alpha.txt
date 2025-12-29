@@ -9061,7 +9061,6 @@ allumette
 acipenser
 alsweill
 accendibility
-asterolepis
 afternight
 allurement
 aerosat
@@ -22611,6 +22610,7 @@ acontium
 aliased
 acuate
 aeromechanic
+asterolepis
 athanasia
 azines
 athanasian
