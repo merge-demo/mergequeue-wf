@@ -7788,7 +7788,6 @@ flecker
 flabelliform
 fulicine
 forsaker
-foremasts
 foremean
 fasciately
 followingly
@@ -11088,6 +11087,7 @@ fane
 factfinder
 flagellated
 flockless
+foremasts
 fangled
 fiesta
 functionnaire
