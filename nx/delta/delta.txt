@@ -8322,6 +8322,7 @@ diplogenetic
 datagram
 disenactment
 dialectal
+dormeuse
 dishpanful
 draftier
 duim
@@ -15757,7 +15758,6 @@ dizygotic
 dormers
 dormette
 desolator
-dormeuse
 dormice
 dormilona
 dormitive
