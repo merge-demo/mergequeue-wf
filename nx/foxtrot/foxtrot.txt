@@ -6482,7 +6482,6 @@ fictor
 fruitages
 fissilingual
 flatboat
-fording
 frosted
 flourlike
 fortes
@@ -7815,6 +7814,7 @@ flyblew
 flickery
 forbad
 faint
+fording
 fraenum
 forgathering
 fluorescein
