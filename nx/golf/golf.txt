@@ -879,6 +879,7 @@ gers
 glossarize
 guily
 gymnophiona
+gangplank
 glycogenase
 guerrilla
 gametangia
@@ -7839,7 +7840,6 @@ gooiest
 garneter
 gestion
 guanche
-gangplank
 gerately
 gufa
 greenkeeper
