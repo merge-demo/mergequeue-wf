@@ -1558,7 +1558,6 @@ geothermally
 gassed
 gypsumed
 grana
-gentlemens
 gregarinida
 glaciologist
 golliwogg
@@ -6046,6 +6045,7 @@ giesel
 gunate
 geyerite
 grungy
+gentlemens
 grislier
 glovemen
 glycemia
