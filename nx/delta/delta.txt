@@ -6157,7 +6157,6 @@ decrepitness
 derestrict
 disputations
 dechlorinating
-debentures
 daimonic
 desoxalate
 derfly
@@ -17299,6 +17298,7 @@ denigrated
 decaffeinating
 dandyish
 dromometer
+debentures
 defoul
 decrypts
 disrelated
