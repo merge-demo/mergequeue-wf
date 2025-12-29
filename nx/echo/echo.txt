@@ -4447,6 +4447,7 @@ excentrical
 endenizen
 extispices
 e
+excoriation
 espacement
 ejaculation
 encaptive
@@ -12037,7 +12038,6 @@ electroanalysis
 excoriating
 egestions
 enlivenment
-excoriation
 enwwove
 excoriations
 epiclike
