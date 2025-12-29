@@ -84,7 +84,6 @@ fraternised
 fortuitously
 faces
 folkright
-flattening
 foliobranch
 fiendish
 flagrantness
@@ -5451,6 +5450,7 @@ floatative
 flexible
 foggy
 fleering
+flattening
 faunal
 figurativeness
 formulator
