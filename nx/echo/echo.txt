@@ -2240,7 +2240,6 @@ engulfment
 eldrich
 enchased
 embryogeny
-eulogy
 exhumate
 electrostenolysis
 elecives
@@ -5207,6 +5206,7 @@ endogenae
 enshrine
 efference
 euchres
+eulogy
 echeloning
 enchanter
 expedition
