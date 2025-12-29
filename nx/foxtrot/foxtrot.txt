@@ -2185,6 +2185,7 @@ feltwort
 fastidiosity
 folliculous
 felwort
+flatlander
 fathearted
 faciobrachial
 fairsome
@@ -6204,7 +6205,6 @@ fog
 fivepence
 fulcrumed
 flrie
-flatlander
 fluavile
 feudum
 foreread
