@@ -8339,6 +8339,7 @@ bondmanship
 benzenes
 biggen
 bowwort
+balawa
 biggened
 bayonetting
 baccharoid
@@ -9859,7 +9860,6 @@ biteche
 barbicans
 bowdlerization
 barrels
-balawa
 bucranium
 beamy
 blanketer

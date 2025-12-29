@@ -5237,7 +5237,6 @@ equilibrate
 endomitosis
 endomorphy
 exta
-epithelial
 ekebergite
 either
 endoneurium
@@ -7007,6 +7006,7 @@ easily
 eclipsing
 endjunk
 entreaties
+epithelial
 ewe
 excavatorial
 enfuddle
