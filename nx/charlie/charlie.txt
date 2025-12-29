@@ -17749,6 +17749,7 @@ counternoise
 cockpit
 couched
 clabbered
+crossfish
 comaking
 chemosmoic
 catan
@@ -29879,7 +29880,6 @@ crossette
 crossfertilizable
 crossfired
 craniodidymus
-crossfish
 crossflow
 crossfoot
 crosshackle
