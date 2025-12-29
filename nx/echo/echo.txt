@@ -2388,7 +2388,6 @@ ecphova
 egba
 episteme
 electrocolloidal
-edulcoration
 exhaustable
 electroconvulsive
 empoisonment
@@ -8706,6 +8705,7 @@ equiprobably
 equiproportionality
 evictors
 egocentrism
+edulcoration
 externalise
 eluate
 escopet
