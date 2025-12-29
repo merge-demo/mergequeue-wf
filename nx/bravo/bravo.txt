@@ -2987,6 +2987,7 @@ broadcasters
 boulevard
 barrister
 buat
+bethanked
 barroom
 barruly
 bedumb
@@ -9724,7 +9725,6 @@ bismuthate
 burhinus
 birchbark
 bismuthide
-bethanked
 beneficing
 browses
 bezzled
