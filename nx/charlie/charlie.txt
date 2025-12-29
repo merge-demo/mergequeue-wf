@@ -3453,7 +3453,6 @@ caprificate
 canyon
 caprifig
 constructionally
-caprifole
 cornicle
 caprifoliaceae
 caprifolium
@@ -12570,6 +12569,7 @@ colonists
 cattycorner
 chromoplast
 congelation
+caprifole
 countergauger
 charmer
 coachmaking
