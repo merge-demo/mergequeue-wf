@@ -2613,7 +2613,6 @@ grisette
 gowf
 glossolabial
 goutte
-garabato
 galluot
 glisters
 genesial
@@ -7597,6 +7596,7 @@ gorsebird
 gambet
 ghastfulness
 globeflower
+garabato
 glucolysis
 gruntle
 geophyte
