@@ -4220,6 +4220,7 @@ camshaft
 cardionecrosis
 cannibal
 cardioneurosis
+clifflet
 cardiopath
 cardiopathic
 chloanthite
@@ -30314,7 +30315,6 @@ cabombas
 countervaunt
 comm
 crunodes
-clifflet
 countervairy
 chantors
 confrater
