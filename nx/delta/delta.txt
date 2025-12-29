@@ -3805,6 +3805,7 @@ dropped
 despatched
 discommender
 deimos
+demagnetizer
 daffs
 dallan
 decharm
@@ -5902,7 +5903,6 @@ depressingly
 denuders
 desecrator
 decompression
-demagnetizer
 depressional
 dulia
 dotard
