@@ -15332,7 +15332,6 @@ acroterion
 apperceptionist
 antihypochondriac
 annal
-anticoincidence
 agomphosis
 antihypophora
 acetopiperone
@@ -22424,6 +22423,7 @@ astrologize
 advancers
 acocotl
 astromancer
+anticoincidence
 astromantic
 astromeda
 axion
