@@ -9986,6 +9986,7 @@ frigiddaria
 favor
 frigidly
 foundation
+forint
 field
 fafaronade
 facias
@@ -11603,7 +11604,6 @@ fermata
 fustics
 fussbudget
 fixable
-forint
 facsimile
 frolicsomely
 fortissimi
