@@ -9457,7 +9457,6 @@ ecbolics
 embedment
 eam
 ephahs
-euryale
 eses
 epicism
 erythron
@@ -12797,6 +12796,7 @@ excitomotor
 embryology
 epicystotomy
 equine
+euryale
 emajagua
 exoterical
 espials
