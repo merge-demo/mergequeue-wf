@@ -2530,6 +2530,7 @@ embryopathology
 emender
 enervators
 endostylar
+epanisognathism
 epilepsia
 ensate
 eparcuale
@@ -7319,7 +7320,6 @@ embarcation
 enact
 electrooptics
 escaping
-epanisognathism
 entameba
 epizoal
 elongate
