@@ -867,7 +867,6 @@ epistolizer
 eigenfunction
 erythrocytolysin
 electrocution
-extraprofessional
 entailed
 ectomorph
 ectoparasite
@@ -13522,6 +13521,7 @@ epiphenomenally
 elopements
 exscissor
 extrafloral
+extraprofessional
 execrating
 extenuating
 extemporarily
