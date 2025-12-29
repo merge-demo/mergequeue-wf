@@ -139,7 +139,6 @@ amoebid
 abatage
 abate
 alienisms
-anticivilian
 acronychally
 abated
 adenocarcinomatous
@@ -7281,6 +7280,7 @@ albarelli
 autotriploidy
 autochthony
 ah
+anticivilian
 anagogies
 alveolus
 antistadholderian
