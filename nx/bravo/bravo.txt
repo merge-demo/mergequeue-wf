@@ -3307,7 +3307,6 @@ basiradial
 beechwoods
 bacterioscopic
 basirostral
-basiscopic
 bacterial
 bangiales
 blepharitic
@@ -10876,6 +10875,7 @@ blethered
 barathra
 bletilla
 brutalities
+basiscopic
 bronteum
 blets
 bonhomme
