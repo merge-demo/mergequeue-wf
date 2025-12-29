@@ -3796,7 +3796,6 @@ diwan
 durani
 dysphemistic
 denigrative
-dolerites
 donkey
 dialyzator
 dienes
@@ -5171,6 +5170,7 @@ dumbfounded
 denyingly
 denim
 demoness
+dolerites
 danceress
 doctrinalist
 dartoic
