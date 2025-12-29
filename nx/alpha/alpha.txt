@@ -7634,7 +7634,6 @@ appendicocaecostomy
 antonymic
 autoprothesis
 autoconverter
-asterin
 alcoholysis
 albatrosses
 alfridaric
@@ -18205,6 +18204,7 @@ ammonocarbonous
 anapneic
 aquiclude
 adventurement
+asterin
 amia
 ampelis
 aphanomyces
