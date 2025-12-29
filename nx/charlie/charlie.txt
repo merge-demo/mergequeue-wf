@@ -6113,6 +6113,7 @@ catlike
 crowns
 catling
 catlings
+complant
 cairds
 catlins
 craftsperson
@@ -20681,7 +20682,6 @@ complaisant
 cankerworms
 complaisantly
 coenenchyma
-complant
 chiromancer
 complect
 cottierism
