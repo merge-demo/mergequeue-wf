@@ -1212,7 +1212,6 @@ acromia
 acanthopterygii
 acanthoses
 archeus
-acanthuridae
 ascetical
 adenocarcinomata
 articulator
@@ -5993,6 +5992,7 @@ anatomists
 arioso
 agility
 auxotrophic
+acanthuridae
 antemortal
 agilities
 attorneyship
