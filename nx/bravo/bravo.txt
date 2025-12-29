@@ -2404,6 +2404,7 @@ bowdlerised
 bardings
 busyness
 becalms
+banditry
 bardlike
 barkiest
 bazar
@@ -16448,7 +16449,6 @@ belemnoidea
 bridgeless
 bellibone
 bps
-banditry
 botanising
 brunonism
 blusteration
