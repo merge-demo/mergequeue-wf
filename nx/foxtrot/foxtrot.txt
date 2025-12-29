@@ -4850,6 +4850,7 @@ froebelism
 footfall
 fustigate
 floor
+frondose
 fickleness
 fooless
 flagstick
@@ -10352,7 +10353,6 @@ ferrado
 fantasized
 frondlet
 fatten
-frondose
 focometer
 frustrated
 fikey
