@@ -4819,7 +4819,6 @@ encode
 exitance
 ensnarements
 encoding
-effectivity
 embrocate
 ergasterion
 enbusshe
@@ -7610,6 +7609,7 @@ endamoebic
 edelweiss
 epiclinal
 eyeberry
+effectivity
 enteric
 epicoele
 elkesaite
