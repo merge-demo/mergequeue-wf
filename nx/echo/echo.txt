@@ -10328,7 +10328,6 @@ ethonomics
 ethnocentric
 epeirogenic
 encyclopaedical
-epipastic
 exporting
 eroticist
 eclecticist
@@ -12995,6 +12994,7 @@ eh
 estoppage
 ebons
 enjoins
+epipastic
 edictally
 expectorative
 ephebos
