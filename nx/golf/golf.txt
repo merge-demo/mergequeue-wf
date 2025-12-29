@@ -6367,7 +6367,6 @@ given
 getspace
 goldspink
 glimmered
-glucosone
 granolithic
 grouty
 geotectology
@@ -8331,6 +8330,7 @@ gruff
 gentians
 gibberish
 grappling
+glucosone
 gradus
 germanish
 graptolitha
