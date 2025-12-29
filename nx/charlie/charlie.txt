@@ -15722,7 +15722,6 @@ cerithioid
 chirres
 clavy
 clavicembalist
-clavicembalo
 clinometric
 claviceps
 caiarara
@@ -24242,6 +24241,7 @@ contakia
 candled
 caponised
 craped
+clavicembalo
 cerebroganglionic
 convolvulaceae
 convolvulaceous
