@@ -9939,6 +9939,7 @@ amphicarpous
 anciency
 analogues
 antimerging
+as
 autoregressive
 agrafe
 amberite
@@ -17506,7 +17507,6 @@ anoxyscope
 apparitional
 aira
 apparitor
-as
 appassionata
 administrator
 alumniate
