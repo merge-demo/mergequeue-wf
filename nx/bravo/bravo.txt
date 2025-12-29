@@ -3940,7 +3940,6 @@ boarts
 booksellerish
 bombardier
 bocstaff
-brickbats
 bdelloura
 bisected
 bassette
@@ -11904,6 +11903,7 @@ bodysurfer
 bridgebuilding
 bodywear
 becked
+brickbats
 benthopelagic
 buteos
 bodywork

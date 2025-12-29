@@ -4718,7 +4718,6 @@ gauping
 geisothermal
 graphiology
 glycerate
-gigged
 galchic
 gifting
 gelatia
@@ -9059,6 +9058,7 @@ grillee
 gatehouse
 golem
 gramashes
+gigged
 granatum
 geomorphogenist
 gastrocnemian
