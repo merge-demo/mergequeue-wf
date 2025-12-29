@@ -3870,7 +3870,6 @@ dyscrasite
 deerdog
 demihogshead
 damone
-deityship
 dinobryon
 decreases
 diduce
@@ -11196,6 +11195,7 @@ defendable
 disboweling
 disbowelled
 disbranch
+deityship
 dactylopius
 duffies
 disbranched
