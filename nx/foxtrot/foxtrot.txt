@@ -2378,6 +2378,7 @@ fraises
 fantods
 fervidor
 functioning
+felonsetter
 formicivorous
 filtrable
 faburden
@@ -8446,7 +8447,6 @@ forpine
 furca
 featherdom
 facsimilize
-felonsetter
 febronian
 fique
 fantail
