@@ -4284,6 +4284,7 @@ gesturing
 grumpiness
 graveclothes
 goatlike
+gymnosporangium
 gregos
 gigantesque
 gumlike
@@ -5838,7 +5839,6 @@ grundel
 gadger
 gate
 glassily
-gymnosporangium
 gynoecium
 greens
 glucate
