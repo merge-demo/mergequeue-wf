@@ -877,7 +877,6 @@ flyaways
 faventine
 flamfew
 fulmined
-fingerlet
 furfooz
 foundationlessness
 fourball
@@ -11244,6 +11243,7 @@ filter
 functional
 fylfot
 factable
+fingerlet
 fatherkin
 funkiness
 fezzes
