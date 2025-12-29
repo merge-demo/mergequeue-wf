@@ -16144,6 +16144,7 @@ clifflike
 capacities
 canuck
 cliffs
+cognized
 creators
 calamints
 cliffsman
@@ -18460,7 +18461,6 @@ cognizable
 cognizant
 cognize
 conveyancer
-cognized
 cognizes
 cognizing
 cognizor
