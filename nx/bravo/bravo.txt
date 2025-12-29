@@ -5861,6 +5861,7 @@ biogenetical
 balopticon
 bellmaking
 banquo
+belswagger
 bachel
 buckbrush
 baronship
@@ -6063,7 +6064,6 @@ bittier
 bemuses
 bol
 ballmine
-belswagger
 biostatistics
 beadworks
 benacus
