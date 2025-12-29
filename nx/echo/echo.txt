@@ -12488,7 +12488,6 @@ envisages
 epicentral
 embosture
 executrixship
-elaterite
 expertize
 exine
 extraviolet
@@ -12899,6 +12898,7 @@ euryaleae
 erythropenia
 engr
 eosaurus
+elaterite
 enticingly
 emplanement
 expeditiousness
