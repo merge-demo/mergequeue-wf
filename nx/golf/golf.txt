@@ -1721,7 +1721,6 @@ gambado
 gangwayman
 glossoscopy
 glycerinate
-gynocracy
 gympie
 goldstone
 genotypes
@@ -9311,6 +9310,7 @@ giltcup
 grockle
 goidel
 gamely
+gynocracy
 gemauve
 granitoid
 grievously
