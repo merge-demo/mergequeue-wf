@@ -1448,7 +1448,6 @@ fetched
 fatuoid
 fatuus
 frankly
-fairtime
 fantasie
 filago
 fatelike
@@ -1692,6 +1691,7 @@ ferineness
 fearless
 forehammer
 frangible
+fairtime
 ferrament
 fleeching
 fingertip
