@@ -4321,7 +4321,6 @@ firns
 freespac
 fleshings
 formicivora
-ficiform
 fibromatoid
 fatling
 fosslify
@@ -9221,6 +9220,7 @@ footled
 fries
 flaming
 fragileness
+ficiform
 foreknown
 fucus
 fledged
