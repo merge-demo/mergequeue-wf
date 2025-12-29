@@ -6373,6 +6373,7 @@ causal
 candystick
 causalities
 causally
+cirrhose
 causans
 cyphellate
 causate
@@ -14453,7 +14454,6 @@ cirratulidae
 cortian
 carisoprodol
 costmary
-cirrhose
 cipolins
 cirri
 cogit
