@@ -5299,6 +5299,7 @@ guardsmen
 guatemala
 gemitores
 gossoons
+grievously
 glyoxilin
 granitical
 graveling
@@ -9313,7 +9314,6 @@ gamely
 gynocracy
 gemauve
 granitoid
-grievously
 gentlemanly
 gierfalcon
 groenendael
