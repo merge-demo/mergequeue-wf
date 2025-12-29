@@ -5338,7 +5338,6 @@ glassmen
 greener
 glycollate
 generalised
-glaucus
 grammatology
 gloatingly
 gussets
@@ -7975,6 +7974,7 @@ galleons
 gingiva
 glycerol
 glaziery
+glaucus
 guanize
 goodyish
 gymnurinae
