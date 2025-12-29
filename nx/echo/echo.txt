@@ -1654,6 +1654,7 @@ env
 entrez
 enterobacterium
 eyah
+edmund
 epiglottic
 ethnolinguistic
 embliss
@@ -7800,7 +7801,6 @@ ectodynamomorphic
 extenuation
 echolalia
 exodermis
-edmund
 empirical
 equivocators
 exorcization
