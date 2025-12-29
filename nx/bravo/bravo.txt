@@ -771,6 +771,7 @@ basilidan
 building
 baedekerian
 baphometic
+barathra
 baeria
 backcomb
 begod
@@ -10870,7 +10871,6 @@ blethe
 bromomethane
 balate
 blethered
-barathra
 bletilla
 brutalities
 basiscopic
