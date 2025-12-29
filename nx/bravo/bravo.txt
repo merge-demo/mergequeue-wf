@@ -9266,7 +9266,6 @@ batussi
 bladebone
 bipinnarias
 bipinnated
-bipinnatipartite
 bow
 bipinnatisect
 bobsledding
@@ -11587,6 +11586,7 @@ blurriness
 bloodlust
 blurringly
 blurter
+bipinnatipartite
 balanopsidaceae
 barbecuing
 blurting
