@@ -199,7 +199,6 @@ cabre
 chicadee
 catproof
 chutzpas
-choriocapillaris
 cabree
 cabrerite
 cunoniaceae
@@ -401,6 +400,7 @@ cacomelia
 cacomistle
 cacomixle
 canoeing
+choriocapillaris
 cacomorphia
 ceramography
 cacomorphosis
