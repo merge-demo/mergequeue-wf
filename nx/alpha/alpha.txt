@@ -3692,7 +3692,6 @@ adversative
 annihilating
 awfully
 asystematic
-acknowledges
 adequacies
 adequate
 acclivity
@@ -23192,6 +23191,7 @@ atterminement
 atterr
 aggressionist
 attest
+acknowledges
 attestable
 artel
 arsonvalization
