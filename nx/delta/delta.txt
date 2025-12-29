@@ -6778,7 +6778,6 @@ desynonymize
 decorticating
 demodex
 desiodothyroxine
-desirableness
 deskill
 disseminated
 dojo
@@ -10014,6 +10013,7 @@ defailance
 diselectrify
 dozier
 dishonour
+desirableness
 deled
 damply
 dedal
