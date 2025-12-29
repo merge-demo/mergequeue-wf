@@ -5530,6 +5530,7 @@ casus
 cat
 catabaptist
 contos
+chevaux
 catabases
 capoc
 catabasion
@@ -26939,7 +26940,6 @@ countermanifestoes
 countfish
 columbotitanate
 colorable
-chevaux
 cunningaire
 countermarching
 caroches
