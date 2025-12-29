@@ -9235,7 +9235,6 @@ chass
 chasse
 cauliculus
 chassed
-chromatopathic
 chasseing
 chassepot
 chassepots
@@ -26729,6 +26728,7 @@ checkmark
 cardiotomy
 carromatas
 cars
+chromatopathic
 cartelization
 counterbattery
 counterbend
