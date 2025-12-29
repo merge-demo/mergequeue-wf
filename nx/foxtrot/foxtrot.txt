@@ -6827,7 +6827,6 @@ fragmentizer
 foretold
 fructifier
 freestyle
-forger
 foliaged
 firetower
 faulter
@@ -8500,6 +8499,7 @@ freeward
 ferruminated
 forjudger
 formicid
+forger
 formicine
 floormen
 fashiousness
