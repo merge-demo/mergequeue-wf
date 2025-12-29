@@ -322,6 +322,7 @@ fraternation
 forespent
 fag
 feint
+factorial
 fostell
 finagles
 fibrillated
@@ -5419,7 +5420,6 @@ fragmentize
 forbled
 foremade
 frisado
-factorial
 fledgiest
 forefend
 floatless
