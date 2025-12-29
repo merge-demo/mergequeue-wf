@@ -6235,7 +6235,6 @@ agr
 attirement
 angaries
 agrace
-alliterational
 agral
 adiposities
 agramed
@@ -19453,6 +19452,7 @@ athwartwise
 authorship
 augurial
 argentry
+alliterational
 abbest
 antiparliamentarist
 argh
