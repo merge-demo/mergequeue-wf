@@ -2301,6 +2301,7 @@ gestant
 grosse
 gripmen
 geological
+galaxy
 grallatorial
 gangliglia
 gymnodiniaceae
@@ -9867,7 +9868,6 @@ garcinia
 groundlings
 guanayes
 groow
-galaxy
 girns
 guaneide
 gorman
