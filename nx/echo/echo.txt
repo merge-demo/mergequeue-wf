@@ -1686,7 +1686,6 @@ electromerism
 electrotaxis
 emigr
 ejusdem
-eyeish
 eisteddfodic
 eyeballed
 eyeballing
@@ -3503,6 +3502,7 @@ evocable
 expiative
 eleutherosepalous
 ennuis
+eyeish
 expuition
 emblanch
 emblaze
