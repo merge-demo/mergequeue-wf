@@ -17107,7 +17107,6 @@ cibaria
 corticole
 coperose
 coachfellow
-coachy
 coaching
 coachmaker
 coachmaster
@@ -23147,6 +23146,7 @@ celtically
 constellate
 coystrel
 curupay
+coachy
 ck
 conceits
 constellated
