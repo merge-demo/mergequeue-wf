@@ -2339,7 +2339,6 @@ acieration
 apiary
 acies
 altometer
-acanthopod
 acyetic
 apprehend
 autocrat
@@ -20004,6 +20003,7 @@ armures
 arn
 austerely
 antirachitic
+acanthopod
 arf
 achromatinic
 arnatto
