@@ -7106,6 +7106,7 @@ chronicles
 carrefour
 carroches
 cheap
+competitory
 cloaks
 choledochostomy
 centenier
@@ -20625,7 +20626,6 @@ congreve
 competitive
 competitiveness
 competitor
-competitory
 conjugal
 cascol
 competitors
