@@ -34,7 +34,6 @@ fourchee
 fieldmen
 fibrolitic
 fibrocyst
-fabricates
 fabricator
 flintless
 furies
@@ -11626,6 +11625,7 @@ flyability
 fustiness
 frontless
 fustoc
+fabricates
 forkbeard
 fussily
 friscal
