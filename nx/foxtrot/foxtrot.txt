@@ -2530,6 +2530,7 @@ ferryboat
 fatties
 fitchews
 faithbreach
+funic
 fretter
 forewarningly
 finlandization
@@ -11208,7 +11209,6 @@ failles
 flamethrowers
 fieldsman
 fungosities
-funic
 flubdubbery
 fragrance
 footlers
