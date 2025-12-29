@@ -163,7 +163,6 @@ falls
 fibbery
 faticableness
 factionalism
-factualness
 freezers
 fabes
 faradopalpation
@@ -6273,6 +6272,7 @@ friendlike
 frankeniaceous
 fluidified
 fluoarsenate
+factualness
 ferromagnet
 flummeries
 farms
