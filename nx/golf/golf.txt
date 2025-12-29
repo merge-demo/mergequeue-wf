@@ -68,7 +68,6 @@ graftproof
 galliums
 grayish
 giddap
-glowing
 gastrocoloptosis
 gonadotrophic
 graticule
@@ -3569,6 +3568,7 @@ grenadin
 gangues
 gingko
 garmentworker
+glowing
 ganglions
 gymnorhina
 geomagnetist
