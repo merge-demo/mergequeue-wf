@@ -6740,7 +6740,6 @@ elaborately
 endosepsis
 epicenters
 espaliers
-epithecal
 emunge
 enuresis
 entertake
@@ -7891,6 +7890,7 @@ exquisitive
 experimentation
 epileny
 endopeptidase
+epithecal
 extensible
 exotospore
 enwoven
