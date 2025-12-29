@@ -3611,7 +3611,6 @@ glutinose
 gyrocar
 greg
 gatewaymen
-gustus
 glyptographer
 gyrochrome
 gynostegigia
@@ -10025,6 +10024,7 @@ garlandwise
 geochrony
 gudewife
 galopade
+gustus
 girgashite
 gaffer
 ghostlet
