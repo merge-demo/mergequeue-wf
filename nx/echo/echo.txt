@@ -1436,6 +1436,7 @@ erasions
 ericoid
 entosterna
 excoct
+electrostriction
 encashable
 epigaster
 effluences
@@ -2681,7 +2682,6 @@ ectocornea
 expansum
 evil
 embiidina
-electrostriction
 epizootiologic
 ejurate
 escalin
