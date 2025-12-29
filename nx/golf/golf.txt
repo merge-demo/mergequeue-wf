@@ -1942,7 +1942,6 @@ gobans
 gauleiter
 grated
 gulonic
-goosing
 grossing
 gaultherin
 gaunch
@@ -4246,6 +4245,7 @@ grovelling
 gumptionless
 gloats
 gasteralgia
+goosing
 garrisoning
 gilty
 goblets
