@@ -9010,7 +9010,6 @@ backspace
 bohemias
 basilysis
 biogeographical
-biogeographically
 bobo
 bentwoods
 blankety
@@ -15416,6 +15415,7 @@ blackfish
 bombe
 baronetcy
 benzylidene
+biogeographically
 brighid
 boisseau
 bannerlike
