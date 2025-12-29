@@ -8765,7 +8765,6 @@ bewilders
 barchans
 bassine
 bimethyls
-bimillenium
 bimillionaire
 buoyancies
 battish
@@ -11466,6 +11465,7 @@ barad
 babuma
 boatheader
 bairnliest
+bimillenium
 bluepoint
 bluepoints
 belzebub
