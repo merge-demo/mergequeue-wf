@@ -4167,7 +4167,6 @@ deloul
 decocted
 dibbers
 deloused
-dribs
 decimal
 deodorisation
 doorjamb
@@ -15675,6 +15674,7 @@ dopebook
 demonstrator
 discased
 dopey
+dribs
 decrements
 doper
 disbarring

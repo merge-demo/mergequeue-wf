@@ -10475,7 +10475,6 @@ abusing
 articled
 allantoidea
 ascomycetous
-amidol
 aping
 atheling
 amidophenol
@@ -24649,6 +24648,7 @@ accessibility
 arbutuses
 archineuron
 avenage
+amidol
 avenant
 avenary
 avenge
