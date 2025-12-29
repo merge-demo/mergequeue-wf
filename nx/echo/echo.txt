@@ -2264,7 +2264,6 @@ endoplasma
 epiphyllospermous
 elector
 epigonos
-exhume
 exacerbates
 elks
 encyclopedian
@@ -9244,6 +9243,7 @@ entrant
 extirpate
 epizzoa
 escout
+exhume
 eloquential
 educationalist
 extrapleural
