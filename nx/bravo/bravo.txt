@@ -2641,6 +2641,7 @@ begirdle
 barkless
 battening
 bandusia
+benzofuroquinoxaline
 bescorch
 batrachite
 beeth
@@ -15170,7 +15171,6 @@ brewership
 brewhouse
 brewhouses
 bulked
-benzofuroquinoxaline
 blockaderunning
 babine
 bocks
