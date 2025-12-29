@@ -2363,6 +2363,7 @@ barbotine
 bones
 biolysis
 belligerency
+binous
 bachelorlike
 barbula
 bardiness
@@ -8131,7 +8132,6 @@ bdle
 bendaying
 byronian
 blooper
-binous
 bracken
 bidden
 bellyacher
