@@ -3843,7 +3843,6 @@ bauxite
 balsamically
 blistery
 blvd
-bulgur
 balsas
 bohireen
 bavette
@@ -5831,6 +5830,7 @@ beleaps
 bestorm
 bldg
 bricks
+bulgur
 bellicism
 beyonds
 bellicist
