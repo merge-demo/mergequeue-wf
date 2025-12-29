@@ -3470,7 +3470,6 @@ dorsobranchiata
 defoliants
 defoliate
 defoliations
-descending
 disjunct
 debilitant
 decelerating
@@ -7568,6 +7567,7 @@ deutoplastic
 diversifiability
 dracaenas
 dolefulness
+descending
 deutschland
 deutzia
 deposes
