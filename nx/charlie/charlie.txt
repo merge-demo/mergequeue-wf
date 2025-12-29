@@ -5795,6 +5795,7 @@ clockcase
 cowpock
 caudillism
 catchline
+ciceros
 catchphrase
 cocona
 cynoscion
@@ -7761,7 +7762,6 @@ corambis
 chloroplatinite
 cermet
 cyamid
-ciceros
 caramelising
 cermets
 commissar
