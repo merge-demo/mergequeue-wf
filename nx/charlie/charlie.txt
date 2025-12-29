@@ -5906,7 +5906,6 @@ catenae
 catenane
 catenarian
 catenas
-caudaite
 catenate
 crooisite
 catenating
@@ -8705,6 +8704,7 @@ counterlighted
 corrigiolaceae
 conspired
 chantepleure
+caudaite
 chanterelle
 chondroseptum
 cutters
