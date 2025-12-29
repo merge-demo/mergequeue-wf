@@ -8222,6 +8222,7 @@ chairborne
 cabined
 copartners
 choriomas
+cryptarch
 cardiovisceral
 chairing
 carpetbagging
@@ -29228,7 +29229,6 @@ cryptanalyze
 cothamore
 capybara
 cryptanalyzing
-cryptarch
 cryptarchy
 caracols
 crypteroniaceae
