@@ -3957,6 +3957,7 @@ emolumental
 extemporiser
 enstate
 emory
+edge
 exopathic
 estella
 escapologist
@@ -13485,7 +13486,6 @@ eudaemonic
 eucalypti
 equianharmonic
 egocentricities
-edge
 erk
 epifolliculitis
 ectocondyloid

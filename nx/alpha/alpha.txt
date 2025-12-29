@@ -211,6 +211,7 @@ abolishments
 acridyl
 ambystomidae
 avidous
+anthropomorphidae
 apotactite
 alantolic
 apteran
@@ -14519,7 +14520,6 @@ avowed
 adenosine
 amphrysian
 adenoneural
-anthropomorphidae
 armature
 anthropomorphised
 arimaspian
