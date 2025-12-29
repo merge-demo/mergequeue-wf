@@ -4267,7 +4267,6 @@ emulations
 exporters
 expiree
 escambio
-emulousness
 eaux
 eumeristic
 expolish
@@ -13060,6 +13059,7 @@ envelope
 eval
 ergates
 enslave
+emulousness
 embassador
 eutaxite
 explications
