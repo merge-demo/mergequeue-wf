@@ -2455,6 +2455,7 @@ electrogenetic
 euphausid
 epitaxial
 earthnut
+excorticating
 exciple
 ebonist
 electroencephalographical
@@ -11776,7 +11777,6 @@ eyelast
 esquireship
 ericetum
 ebbets
-excorticating
 exappendiculate
 exarate
 eremochaeta
