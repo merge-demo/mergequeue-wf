@@ -5320,6 +5320,7 @@ bezzants
 bipinnate
 bugbite
 beginning
+barelegged
 bemirement
 borons
 beginnings
@@ -15050,7 +15051,6 @@ basenji
 badges
 buro
 balefully
-barelegged
 breechcloths
 biosatellite
 benzdiazine
