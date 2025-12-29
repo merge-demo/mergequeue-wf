@@ -5996,6 +5996,7 @@ diagraphics
 diamagnetize
 diagrammitically
 depthlessness
+dulnesses
 diobols
 demonetization
 delimiting
@@ -15246,7 +15247,6 @@ dioritic
 dayman
 depreciated
 downing
-dulnesses
 defamers
 dolisie
 dolium
