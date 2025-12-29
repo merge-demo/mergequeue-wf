@@ -4396,7 +4396,6 @@ bunyip
 byworks
 bronchostenosis
 backswing
-bonairness
 brolly
 boordly
 bowelling
@@ -5856,6 +5855,7 @@ blacklisted
 boozily
 bellyland
 bellylike
+bonairness
 bellyman
 biunique
 biogenetical
