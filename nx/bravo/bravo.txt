@@ -12592,7 +12592,6 @@ bistroic
 bonitarian
 bonity
 balsam
-boroughlet
 bragi
 bemocks
 bardane
@@ -14819,6 +14818,7 @@ bargh
 brazens
 brazers
 brows
+boroughlet
 brazier
 barres
 ballooner
