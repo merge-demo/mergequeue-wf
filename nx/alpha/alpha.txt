@@ -14371,6 +14371,7 @@ acolyte
 anthotaxis
 andries
 analgetic
+archeology
 assortatively
 anisocycle
 alphitomancy
@@ -22159,7 +22160,6 @@ asthenical
 arpeggiando
 arrowstone
 alumstone
-archeology
 apiator
 asthenolith
 asthenology
