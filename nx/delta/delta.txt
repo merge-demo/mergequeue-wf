@@ -12933,6 +12933,7 @@ dimensionless
 disomatic
 disuniters
 doubtmonger
+demirobe
 dermostosis
 degreeing
 docilities
@@ -16788,7 +16789,6 @@ drawbar
 disposability
 decolorate
 demitube
-demirobe
 dyscrasial
 detritivorous
 dichroscopic
