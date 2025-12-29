@@ -2311,7 +2311,6 @@ beearn
 barbequed
 barber
 bordrag
-blype
 businessese
 bizet
 beanball
@@ -10535,6 +10534,7 @@ bodywood
 burin
 blastomyces
 bainie
+blype
 blastomycete
 benignities
 beadsmen
