@@ -12426,7 +12426,6 @@ antiprimer
 astart
 ajowan
 anecdote
-ambulated
 anecdotes
 anecdotic
 anova
@@ -15893,6 +15892,7 @@ abrader
 altho
 annotations
 antidynasty
+ambulated
 amazingly
 antipragmatism
 arachnidial
