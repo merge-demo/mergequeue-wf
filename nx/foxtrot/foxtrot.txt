@@ -2407,7 +2407,6 @@ ferlying
 foiler
 ferling
 flemishes
-fortnightly
 fermail
 flabellifoliate
 fobbed
@@ -3698,6 +3697,7 @@ fiercen
 feodal
 frousiest
 facebread
+fortnightly
 fillies
 feetless
 firedogs
