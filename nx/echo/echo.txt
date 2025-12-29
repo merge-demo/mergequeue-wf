@@ -58,6 +58,7 @@ excites
 exciton
 electroretinograph
 excursion
+effusiometer
 escarped
 eremite
 exhibiter
@@ -12316,7 +12317,6 @@ efs
 eulogizers
 erythroglucin
 euphonym
-effusiometer
 extermine
 emanators
 exerted
