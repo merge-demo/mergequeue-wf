@@ -1608,7 +1608,6 @@ forebitt
 fixings
 finer
 florae
-forereaching
 floppies
 funambulo
 functionating
@@ -2910,6 +2909,7 @@ fingian
 furazane
 frustums
 fencing
+forereaching
 foldy
 floccipend
 filthless
