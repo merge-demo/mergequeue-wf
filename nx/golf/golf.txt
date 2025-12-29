@@ -4124,7 +4124,6 @@ gargoyle
 geophones
 glosts
 genetor
-grimoire
 gyropilot
 galaxiidae
 graphitization
@@ -10322,6 +10321,7 @@ gnathions
 gujarati
 genteel
 granulitization
+grimoire
 gametic
 girondin
 gamodesmic
