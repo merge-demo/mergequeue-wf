@@ -10202,7 +10202,6 @@ chevret
 counterexamples
 chevrolet
 chevrolets
-chlorodized
 chevron
 chiropatagium
 charioteer
@@ -22953,6 +22952,7 @@ calyptra
 consign
 consignatary
 consignataries
+chlorodized
 cavaedia
 counterretreat
 comforting
