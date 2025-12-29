@@ -4042,6 +4042,7 @@ admittance
 admitted
 agitpunkt
 ardoise
+aurally
 ampliation
 aedoeagi
 allocates
@@ -16657,7 +16658,6 @@ abnormalism
 actionable
 anteroparietal
 apertometer
-aurally
 apocarpies
 adventures
 autoelevation
