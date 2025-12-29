@@ -5963,7 +5963,6 @@ archt
 actinomycetal
 aghan
 aghas
-aghori
 altruistic
 affecters
 allottee
@@ -24905,6 +24904,7 @@ afforestable
 abeyancies
 accoladed
 arimasp
+aghori
 awaitlala
 awakable
 acoelomate
