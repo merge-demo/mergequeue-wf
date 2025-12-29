@@ -5361,6 +5361,7 @@ breviers
 berycidae
 beglue
 beerage
+bubas
 barbola
 begnaw
 biharmonic
@@ -6249,7 +6250,6 @@ barndoor
 biuret
 bosporus
 blastogenesis
-bubas
 blatantly
 brush
 braceleted

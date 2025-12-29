@@ -2364,7 +2364,6 @@ garbed
 geniting
 germanies
 geotectonic
-gloppen
 gravitates
 goggler
 ger
@@ -6591,6 +6590,7 @@ gypping
 gynandrian
 gelsemin
 gruis
+gloppen
 gawkiest
 geldesprung
 graduateship
