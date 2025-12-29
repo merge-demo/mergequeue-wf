@@ -12586,7 +12586,6 @@ cadjan
 cranemen
 chromotypy
 cynegetics
-chromotypography
 chromotypographic
 chromotropy
 chromotropic
@@ -31231,6 +31230,7 @@ clawhammer
 cura
 chetah
 curable
+chromotypography
 cotyloidal
 coverlid
 coracler
