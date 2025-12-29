@@ -3274,6 +3274,7 @@ benzines
 barytocalcite
 bewhig
 begartered
+bioelectricities
 bethank
 beggarwoman
 bookkeeps
@@ -18319,7 +18320,6 @@ brink
 buttoning
 banked
 beths
-bioelectricities
 blennuria
 becumber
 brahmans
