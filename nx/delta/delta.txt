@@ -184,7 +184,6 @@ daedaloid
 diel
 diaplasma
 daedalous
-divulgated
 daybill
 daemony
 deforesting
@@ -9287,6 +9286,7 @@ delisted
 dashiest
 dyeweed
 dyeweeds
+divulgated
 dermonosology
 darwinist
 dorsonasal
