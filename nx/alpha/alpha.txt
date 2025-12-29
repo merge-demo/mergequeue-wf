@@ -7585,7 +7585,6 @@ anisokonia
 abnegator
 allograph
 abstracters
-alchemists
 antrums
 achoke
 archership
@@ -20479,6 +20478,7 @@ apotropaic
 antimilitaristically
 apprecate
 aerogenous
+alchemists
 atechnic
 anticivism
 arteriarctia
