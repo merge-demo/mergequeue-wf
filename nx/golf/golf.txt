@@ -2349,7 +2349,6 @@ gadinic
 gibbartas
 guano
 greengrocer
-gutturalisation
 grubbiness
 gainturn
 ghazal
@@ -6696,6 +6695,7 @@ geoside
 garterless
 gamekeeper
 gullishly
+gutturalisation
 gainsayer
 gibelite
 gavelling
