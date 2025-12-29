@@ -7512,7 +7512,6 @@ glyphography
 glossarist
 gonad
 gamesmanship
-gymnotidae
 gordon
 gerful
 gassiness
@@ -8149,6 +8148,7 @@ guacharo
 grantia
 greekist
 gibboseness
+gymnotidae
 gallet
 graustark
 grindelia
