@@ -1787,6 +1787,7 @@ brachman
 burdie
 bamboula
 banterer
+brigantes
 boswellized
 bowmen
 balanops
@@ -3736,7 +3737,6 @@ battleships
 barrace
 blushiness
 battlesome
-brigantes
 bimestrial
 battlestead
 bendays
