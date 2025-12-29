@@ -51,7 +51,6 @@ edging
 eardropper
 euchromosome
 epigraphic
-econometric
 earflap
 expender
 enzyms
@@ -2763,6 +2762,7 @@ emetic
 engorge
 eleemosynarily
 elegancy
+econometric
 egos
 enditing
 erythrocyte

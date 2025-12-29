@@ -12715,7 +12715,6 @@ biaswise
 bear
 bungarus
 boroughmongering
-benchless
 baldachini
 baianism
 backhander
@@ -17616,6 +17615,7 @@ bristling
 burgherage
 bottomlessly
 burghers
+benchless
 burgraves
 bureaucratized
 bowdlerized
