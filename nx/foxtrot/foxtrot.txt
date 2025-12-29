@@ -7749,7 +7749,6 @@ forebearing
 fallal
 fatherland
 flyman
-feudality
 flyeater
 flaglike
 foreknew
@@ -9089,6 +9088,7 @@ forenent
 friesish
 females
 funnellike
+feudality
 forbruise
 foxfires
 foederis
