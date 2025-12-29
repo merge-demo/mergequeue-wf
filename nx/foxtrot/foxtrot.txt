@@ -2665,7 +2665,6 @@ fallowed
 fantoccini
 foremelt
 feasing
-ferulaceous
 ferular
 feruled
 ferulic
@@ -9967,6 +9966,7 @@ flavin
 frightens
 fontes
 frighting
+ferulaceous
 feedhead
 fumiduct
 floridness
