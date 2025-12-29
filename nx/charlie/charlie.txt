@@ -4820,7 +4820,6 @@ crewels
 choanoflagellata
 cowlings
 carpoidea
-carpolith
 confides
 clitellus
 carpology
@@ -15038,6 +15037,7 @@ converses
 citropten
 cydippian
 colchian
+carpolith
 crockeryware
 civicism
 civicisms
