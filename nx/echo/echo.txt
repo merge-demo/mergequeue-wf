@@ -1480,7 +1480,6 @@ ethmovomer
 environic
 emmenic
 ergonomic
-ethiopian
 epanorthotic
 exenteritis
 epipleural
@@ -12258,6 +12257,7 @@ entrochus
 efflorescency
 eta
 enteromegaly
+ethiopian
 els
 elegises
 everduring

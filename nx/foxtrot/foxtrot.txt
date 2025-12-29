@@ -2649,6 +2649,7 @@ flickering
 fistular
 foxfishes
 fifty
+footsoldier
 frostbow
 fetish
 flashy
@@ -5869,7 +5870,6 @@ forestian
 fowlers
 flocced
 frustulose
-footsoldier
 fibula
 film
 feyer
