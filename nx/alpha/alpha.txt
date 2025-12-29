@@ -2490,7 +2490,6 @@ attemperance
 alexin
 alabastrons
 amoebicidal
-acolyth
 aculei
 acolythate
 ardella
@@ -4521,6 +4520,7 @@ atypicality
 advices
 anathematised
 atomatic
+acolyth
 antas
 advisableness
 amidon
