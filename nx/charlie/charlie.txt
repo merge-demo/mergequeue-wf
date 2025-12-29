@@ -9321,7 +9321,6 @@ centralest
 chatterboxes
 chattered
 chincapin
-chatterers
 circuitously
 cassidoine
 chattererz
@@ -11317,6 +11316,7 @@ chloritization
 chloritize
 culicid
 chlorize
+chatterers
 cynocephalus
 chesterbed
 ceresin

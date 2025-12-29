@@ -5933,7 +5933,6 @@ excessman
 expend
 enhaemospore
 epiplastron
-emphases
 explees
 execrators
 exaggerativeness
@@ -7107,6 +7106,7 @@ estivage
 emulsible
 estuous
 edicule
+emphases
 equiprobability
 electrophoric
 enchainments
