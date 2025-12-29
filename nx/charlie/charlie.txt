@@ -3830,7 +3830,6 @@ calcar
 cribbling
 carbohydrase
 cannibalism
-cardioncus
 carbohydrate
 cardiotrophia
 cysticarpic
@@ -9391,6 +9390,7 @@ countershaft
 cyclamin
 constatory
 carpenterworm
+cardioncus
 conserves
 chaussees
 chaussure
