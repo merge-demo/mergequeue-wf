@@ -3826,6 +3826,7 @@ gouaree
 gaul
 gygis
 gibstaff
+galactodendron
 greyhound
 gratefulness
 greyling
@@ -7104,7 +7105,6 @@ gregorianist
 gastral
 germanist
 gox
-galactodendron
 gedanken
 grumly
 granum
