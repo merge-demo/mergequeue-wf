@@ -10629,7 +10629,6 @@ farceurs
 flative
 forseen
 fractile
-ferity
 forswearing
 flumped
 forwaste
@@ -11421,6 +11420,7 @@ furomethyl
 furcated
 fishings
 furfuraceously
+ferity
 fusula
 fingerlike
 furred
