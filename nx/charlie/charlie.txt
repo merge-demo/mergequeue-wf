@@ -3815,7 +3815,6 @@ charlatanish
 classicize
 carbyl
 catchy
-carbimide
 cenacle
 clouters
 carbineer
@@ -11895,6 +11894,7 @@ chopa
 chalcids
 contradictories
 catechisms
+carbimide
 chopdar
 colonus
 cyprinoidea
