@@ -5306,7 +5306,6 @@ blurs
 beggingly
 birsy
 backstab
-beneficiaire
 buddy
 brachytic
 barretries
@@ -16107,6 +16106,7 @@ bedsock
 bialis
 bathoses
 bratchet
+beneficiaire
 binomial
 broodily
 broodling
