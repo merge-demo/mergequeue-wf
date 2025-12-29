@@ -3462,6 +3462,7 @@ accusable
 attapulgite
 afterwort
 azoths
+amhar
 aquaregia
 additions
 absmho
@@ -10400,7 +10401,6 @@ aculeolus
 ametrope
 antshrike
 ametrous
-amhar
 afterbirths
 alcade
 aminophylline
