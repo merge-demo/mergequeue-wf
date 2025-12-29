@@ -4833,7 +4833,6 @@ executioners
 eventides
 excrementitiousness
 encolpia
-equilibrator
 entypies
 enduro
 epidosite
@@ -7821,6 +7820,7 @@ enterography
 epiglottitis
 exsiccator
 elegiambic
+equilibrator
 epicarps
 empyocele
 exoerythrocytic
