@@ -2025,6 +2025,7 @@ feigns
 flitch
 farouche
 frogmouth
+focused
 fibrinoplastin
 fourpounder
 formols
@@ -5001,7 +5002,6 @@ fact
 forestcraft
 fadeaway
 fringiest
-focused
 frappeed
 flibbertigibbety
 figbird
