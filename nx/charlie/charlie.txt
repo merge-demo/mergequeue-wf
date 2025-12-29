@@ -13025,7 +13025,6 @@ cyanidrosis
 clothes
 cyanids
 cyanimide
-cyanine
 commemorators
 chaldrons
 contingent
@@ -17258,6 +17257,7 @@ coalbag
 coalbagger
 cineangiographic
 circumambulations
+cyanine
 clowned
 calyxes
 creatorship
