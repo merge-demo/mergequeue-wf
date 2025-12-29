@@ -11385,6 +11385,7 @@ artilleries
 amrit
 ajugas
 attendants
+anomouran
 assets
 aneroids
 arthogram
@@ -13724,7 +13725,6 @@ anomoeomery
 anticommercially
 anomophyllous
 anaerobic
-anomouran
 anomphalous
 anonaceous
 animalised
