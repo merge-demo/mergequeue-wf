@@ -4913,7 +4913,6 @@ elemental
 effeminateness
 excludible
 explete
-enjamb
 encroachments
 epitaxic
 encrustation
@@ -11312,6 +11311,7 @@ empyrean
 evaporations
 earthian
 emblemology
+enjamb
 englad
 ectocarpus
 episcoparian
