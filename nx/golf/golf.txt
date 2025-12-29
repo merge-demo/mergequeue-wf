@@ -7976,7 +7976,6 @@ galleons
 gingiva
 glycerol
 glaziery
-glaucus
 guanize
 goodyish
 gymnurinae
@@ -9127,6 +9126,7 @@ goatherds
 glomerulose
 guajira
 glads
+glaucus
 gappy
 galactidrosis
 giraffa
