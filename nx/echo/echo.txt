@@ -5013,7 +5013,6 @@ enschedule
 exomphalous
 endemicity
 electrofused
-endemism
 eco
 eightscore
 endenization
@@ -14021,6 +14020,7 @@ exordize
 enigmatography
 extraterrestrially
 endothecia
+endemism
 epitrophic
 exr
 enthrallingly
