@@ -4445,7 +4445,6 @@ fluency
 fodient
 flagellar
 fingerlings
-florescence
 fibroglioma
 fannings
 flustered
@@ -4876,6 +4875,7 @@ flagellatory
 ferocities
 followable
 fulgora
+florescence
 flails
 feuilletonism
 furoic
