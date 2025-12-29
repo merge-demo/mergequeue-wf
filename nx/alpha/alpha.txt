@@ -8163,6 +8163,7 @@ antarctalia
 alias
 aleutians
 aeolia
+avogadro
 assassins
 amora
 ambiverts
@@ -16517,7 +16518,6 @@ auriscope
 aortal
 aortarctia
 aortas
-avogadro
 agsam
 aegagri
 antheral
