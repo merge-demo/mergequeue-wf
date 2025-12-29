@@ -4845,7 +4845,6 @@ fructiparous
 feasting
 furnishing
 fodder
-footmarks
 foliums
 froebelism
 footfall
@@ -6643,6 +6642,7 @@ flacianism
 foder
 forkwise
 fuscohyaline
+footmarks
 frontes
 flees
 flintily
