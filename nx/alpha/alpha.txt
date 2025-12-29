@@ -285,6 +285,7 @@ ailuro
 appunctuation
 asphyxiates
 abdominogenital
+antigrammaticalness
 aurata
 axiomatic
 affiant
@@ -13422,7 +13423,6 @@ antiminsion
 antimnemonic
 annaly
 annaline
-antigrammaticalness
 apathetic
 adiposeness
 annalists
