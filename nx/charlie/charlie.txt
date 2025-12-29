@@ -8347,7 +8347,6 @@ convey
 carlism
 crummable
 chalicotheriidae
-cephalohumeralis
 chantress
 courtyard
 chalina
@@ -11551,6 +11550,7 @@ colonizations
 corelysis
 choirmasters
 cornaceous
+cephalohumeralis
 charthouse
 classmen
 calumnies
