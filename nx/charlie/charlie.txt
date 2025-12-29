@@ -6877,7 +6877,6 @@ chairmaker
 cathodofluorescence
 constative
 counterbalance
-cellose
 cognizance
 coadunative
 counterreconnaissance
@@ -29141,6 +29140,7 @@ cryobiologist
 criobolium
 courtman
 credit
+cellose
 chromophage
 coelacanthini
 cacodorous

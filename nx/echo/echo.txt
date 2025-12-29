@@ -406,7 +406,6 @@ eighteenfold
 educ
 exoneural
 enterorrhea
-ebionite
 ebionitism
 exsiccated
 existless
@@ -5338,6 +5337,7 @@ ernest
 estocs
 ergodicity
 eliminability
+ebionite
 endosclerite
 extrahepatic
 endoscope
