@@ -4230,6 +4230,7 @@ celts
 cardiosphygmogram
 cardiosphygmograph
 catmalison
+chylidrosis
 citternhead
 cardiotrophotherapy
 cablelike
@@ -10569,7 +10570,6 @@ chiliastic
 chiliasts
 chilidogs
 coropo
-chylidrosis
 coevolutionary
 crews
 contraindicated
