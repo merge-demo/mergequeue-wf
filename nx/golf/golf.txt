@@ -4259,7 +4259,6 @@ gradometer
 galravitch
 generationism
 geodetics
-gypsuming
 goniopholis
 gubbo
 gnu
@@ -8143,6 +8142,7 @@ gainsome
 gulch
 griding
 grayhound
+gypsuming
 gastrochaenidae
 guacharo
 grantia
