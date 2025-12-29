@@ -1500,6 +1500,7 @@ deaccessioning
 drawbolt
 dingbats
 draughts
+dakhma
 devils
 definiendum
 deformers
@@ -7511,7 +7512,6 @@ deuterocanonical
 drolls
 deuterocasease
 decemplicate
-dakhma
 denuclearized
 decatizer
 deuterogamy
