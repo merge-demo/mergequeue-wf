@@ -7910,7 +7910,6 @@ ecclesiography
 ensiferi
 entreater
 epizootiology
-epilogical
 entomophaga
 eurystomatous
 emitter
@@ -12448,6 +12447,7 @@ ext
 elocutionists
 egritude
 exigences
+epilogical
 email
 encouragers
 eczematosis
