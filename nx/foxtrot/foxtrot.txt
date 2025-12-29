@@ -8938,7 +8938,6 @@ forethoughtful
 filionymic
 foundrymen
 flabellinerved
-flneuse
 footbridge
 foundrous
 farhands
@@ -9111,6 +9110,7 @@ fedelini
 fideism
 frisure
 fenlander
+flneuse
 forespeaker
 featy
 falsification
