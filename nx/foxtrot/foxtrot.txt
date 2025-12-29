@@ -2771,7 +2771,6 @@ fistulized
 forbearer
 ftncmd
 foxtailed
-fotch
 fieldwork
 filao
 fimbriation
@@ -7787,6 +7786,7 @@ flower
 flanes
 firearms
 foremast
+fotch
 fondant
 fritters
 fidicula
