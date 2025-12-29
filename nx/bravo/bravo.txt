@@ -6150,7 +6150,6 @@ blanking
 blastide
 bohor
 belonoid
-baske
 benefactress
 benign
 benefactrices
@@ -14546,6 +14545,7 @@ bran
 bolivarite
 brancard
 briarroot
+baske
 bahan
 branchiomeric
 branchellion
