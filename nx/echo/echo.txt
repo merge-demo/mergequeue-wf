@@ -6131,7 +6131,6 @@ elvis
 encina
 erminites
 extremum
-elaterometer
 elephantiases
 epicureanism
 ereptic
@@ -7148,6 +7147,7 @@ estanciero
 eudaemonism
 everyday
 endocolitis
+elaterometer
 engrossed
 established
 epimere
