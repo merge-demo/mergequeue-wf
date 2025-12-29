@@ -1116,7 +1116,6 @@ calcimined
 calciminer
 calcimines
 crudeness
-calcimining
 choppin
 crossbarred
 calcinate
@@ -28946,6 +28945,7 @@ chrysal
 chaityas
 curtseyed
 crancelin
+calcimining
 crimmy
 cricetids
 cricetus
