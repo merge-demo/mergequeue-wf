@@ -4997,6 +4997,7 @@ ferrugination
 faffle
 forwarders
 fictionalized
+fingerlet
 foraminate
 fact
 forestcraft
@@ -11244,7 +11245,6 @@ funky
 filter
 fylfot
 factable
-fingerlet
 fatherkin
 funkiness
 fezzes
