@@ -14050,6 +14050,7 @@ catstitch
 cippus
 confirmative
 cilioflagellata
+calabrese
 crossruff
 chitra
 chemosensitive
@@ -28200,7 +28201,6 @@ carvomenthene
 campgrounds
 cockscomb
 chippy
-calabrese
 competitress
 coulisse
 cowleeching
