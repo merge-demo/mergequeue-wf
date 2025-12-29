@@ -3750,6 +3750,7 @@ faultlessly
 fortressed
 frizettes
 failure
+finfoots
 fellmonger
 fulls
 flocker
@@ -8214,7 +8215,6 @@ forgeries
 fictioneer
 feudalities
 flaggelated
-finfoots
 friezing
 forfaulture
 francophile
