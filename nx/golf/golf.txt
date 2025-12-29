@@ -3830,6 +3830,7 @@ grippal
 gaudily
 gouaree
 gaul
+glazework
 gygis
 gibstaff
 galactodendron
@@ -5367,7 +5368,6 @@ geotechnics
 glycosidically
 gitter
 gelandejump
-glazework
 gutting
 geckoid
 gravitating
