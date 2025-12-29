@@ -1311,6 +1311,7 @@ amidships
 acaulescent
 acauline
 acc
+arider
 accable
 accel
 accelerable
@@ -19617,7 +19618,6 @@ archichlamydeous
 astringing
 apostolical
 ambages
-arider
 asterospondyli
 apterium
 alloclase
