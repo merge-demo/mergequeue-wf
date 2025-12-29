@@ -6164,6 +6164,7 @@ grihastha
 gazetteers
 groveling
 goal
+gradationally
 griffithite
 galactophore
 goniatite
@@ -7676,7 +7677,6 @@ gradated
 gatecrasher
 grafts
 geospiza
-gradationally
 grandeza
 gassier
 gramarye
