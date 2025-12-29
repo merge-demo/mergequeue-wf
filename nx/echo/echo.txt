@@ -2757,6 +2757,7 @@ electees
 edentate
 ennobler
 envoi
+ennoblment
 eleemosynary
 etymology
 epizoon
@@ -11070,7 +11071,6 @@ epileptically
 epicormic
 eusebian
 extrudes
-ennoblment
 edifies
 enrail
 epicostal
