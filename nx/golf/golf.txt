@@ -5791,7 +5791,6 @@ goniometer
 globoid
 geobotanically
 garblers
-gosling
 gratters
 gigamaree
 gauchos
@@ -7745,6 +7744,7 @@ gamins
 grouf
 grewsome
 gelations
+gosling
 gos
 gliomatous
 gyassa
