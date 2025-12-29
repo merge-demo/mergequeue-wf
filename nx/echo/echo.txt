@@ -10427,6 +10427,7 @@ emoters
 extusion
 earlduck
 echinate
+excluder
 ethrogim
 ehatisaht
 eos
@@ -10980,7 +10981,6 @@ eperva
 euproctis
 endophasia
 exorable
-excluder
 eoan
 emydea
 estufa
