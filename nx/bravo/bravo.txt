@@ -933,7 +933,6 @@ batad
 branny
 bungaloid
 brownout
-bagwigged
 bustier
 bagwork
 baker
@@ -9823,6 +9822,7 @@ barleymow
 beja
 bistriate
 bombardment
+bagwigged
 beddable
 breeze
 brachypleural
