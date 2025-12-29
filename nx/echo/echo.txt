@@ -1312,6 +1312,7 @@ eigenvalue
 eassel
 enteroid
 epyllia
+electrocardiogram
 epicranius
 earthless
 effectiveness
@@ -2352,7 +2353,6 @@ epically
 effulge
 enchants
 epistroma
-electrocardiogram
 enclear
 electrocardiographic
 euphuistic
