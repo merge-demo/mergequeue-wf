@@ -8460,7 +8460,6 @@ counterattractively
 catchers
 chamecephaly
 chamecephalic
-carucate
 chamecephalous
 chamecephalus
 cannibals
@@ -16755,6 +16754,7 @@ cyanus
 carts
 consonantalized
 clotty
+carucate
 clotting
 characterful
 cloture
