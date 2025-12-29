@@ -2962,7 +2962,6 @@ fading
 francophil
 fewtrils
 fustee
-follower
 flanned
 fellies
 fezzed
@@ -4762,6 +4761,7 @@ fulldo
 foxberries
 forestalment
 flammiferous
+follower
 forfeits
 furloughing
 flagellariaceous
