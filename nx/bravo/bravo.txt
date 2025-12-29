@@ -6827,7 +6827,6 @@ bertrum
 bullarium
 beachy
 broadsided
-boroughs
 ber
 beruffed
 boy
@@ -13412,6 +13411,7 @@ boundlessness
 becarpets
 blasted
 bothrenchyma
+boroughs
 bluenoses
 billsticker
 bandage
