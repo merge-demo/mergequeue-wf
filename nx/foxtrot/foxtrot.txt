@@ -2320,6 +2320,7 @@ fasciole
 fra
 fiftyfold
 footstalk
+foalfoot
 formalizing
 fer
 firecoat
@@ -3703,7 +3704,6 @@ fortnightly
 fillies
 feetless
 firedogs
-foalfoot
 fillings
 furfuryl
 fricti
