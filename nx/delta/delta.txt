@@ -7192,7 +7192,6 @@ denarcotization
 diaphorase
 diemaking
 dotting
-detaches
 dicast
 dynamis
 demijohns
@@ -14679,6 +14678,7 @@ djagoong
 disemboguement
 djave
 doubtfully
+detaches
 drill
 djebels
 djehad
