@@ -2494,7 +2494,6 @@ electrogalvanization
 euphemious
 equivalence
 electrogenic
-electrogild
 eudemonia
 exhilarates
 electrogilt
@@ -5419,6 +5418,7 @@ explicators
 esquiline
 empyreum
 eophyte
+electrogild
 eccentrometer
 endothermal
 endothermy
