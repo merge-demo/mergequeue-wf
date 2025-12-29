@@ -3751,6 +3751,7 @@ gyse
 galvanoplastics
 granaries
 galateas
+gonged
 guttur
 guayacan
 graduations
@@ -4815,7 +4816,6 @@ gravidly
 gainfulness
 glaciered
 gages
-gonged
 gifted
 gadi
 guachipilin
