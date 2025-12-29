@@ -8150,6 +8150,7 @@ erudit
 echeveria
 episcopate
 expulsions
+endochondral
 entosphere
 elaidinic
 episcopature
@@ -13009,7 +13010,6 @@ engrossment
 exotropism
 elopement
 epopee
-endochondral
 espiegle
 embryonal
 ezba
