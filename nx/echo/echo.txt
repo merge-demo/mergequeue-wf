@@ -5611,6 +5611,7 @@ enflower
 essexite
 evaporate
 equalization
+exaggerated
 epidendrum
 elder
 elutions
@@ -11688,7 +11689,6 @@ exaggerate
 electrize
 etiotropic
 endoubt
-exaggerated
 eccentricity
 epididymectomy
 emundation
