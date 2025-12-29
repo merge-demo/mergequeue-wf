@@ -1386,6 +1386,7 @@ germanize
 grecize
 gruffish
 gaits
+gypsies
 ganyie
 gallotannin
 gonidia
@@ -10093,7 +10094,6 @@ grazes
 guesser
 grainland
 gonads
-gypsies
 grub
 guyot
 gresil
