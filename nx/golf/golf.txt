@@ -1288,6 +1288,7 @@ gerendum
 government
 gulliver
 geodiatropism
+giro
 graviers
 gingilis
 garganey
@@ -4072,7 +4073,6 @@ guanines
 gear
 gaddingly
 groomsman
-giro
 gladliest
 gigaton
 gimberjawed
