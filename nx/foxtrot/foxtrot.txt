@@ -1035,7 +1035,6 @@ farinosel
 foussa
 forepeaks
 fulfill
-farmeress
 fireling
 flerrying
 farmerly
@@ -6636,6 +6635,7 @@ fancymonger
 fatuousness
 fetlocked
 ferricyanic
+farmeress
 fecche
 fantaseid
 flacianism
