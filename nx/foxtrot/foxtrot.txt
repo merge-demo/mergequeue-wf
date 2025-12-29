@@ -2131,7 +2131,6 @@ fidepromissor
 filtered
 fuligulinae
 flaws
-finfoots
 fumette
 fameful
 famously
@@ -8219,6 +8218,7 @@ forgeries
 fictioneer
 feudalities
 flaggelated
+finfoots
 friezing
 forfaulture
 francophile
