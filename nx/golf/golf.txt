@@ -1955,7 +1955,6 @@ gypsite
 genealogically
 greywacke
 glairs
-garvance
 garnishments
 glamor
 gallamine
@@ -5696,6 +5695,7 @@ gumboil
 gilbertianism
 glossalgy
 grieffully
+garvance
 gnathonize
 gahrwali
 guggling
