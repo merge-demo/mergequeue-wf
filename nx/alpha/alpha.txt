@@ -3940,6 +3940,7 @@ ameba
 affirm
 amelification
 adlumidin
+affect
 apoplexious
 ardently
 adlumidine
@@ -5152,7 +5153,6 @@ ambilaevous
 aftergrowth
 achen
 affaite
-affect
 anaxonia
 aflicker
 authoritarianism

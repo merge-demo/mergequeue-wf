@@ -833,7 +833,6 @@ gillar
 goethe
 guaraunan
 grandam
-glutinous
 gymnoblastic
 gilberts
 greensick
@@ -8248,6 +8247,7 @@ grapevines
 georgian
 gentlemanlike
 gracilaria
+glutinous
 geopositive
 gravid
 gladlier
