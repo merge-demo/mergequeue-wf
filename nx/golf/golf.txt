@@ -2263,7 +2263,6 @@ gigantoblast
 gunroom
 gammoning
 giust
-grandtotal
 glazily
 gonofs
 golgothas
@@ -8627,6 +8626,7 @@ gathic
 gossameriness
 gametically
 greffe
+grandtotal
 genealogical
 guerdonless
 gestic
