@@ -7763,6 +7763,7 @@ breakover
 brocard
 bhindi
 bowstave
+beaufort
 bhishti
 bhistie
 berake
@@ -17578,7 +17579,6 @@ bashkir
 bellonion
 bhima
 bobble
-beaufort
 bouses
 blackpoll
 burgall
