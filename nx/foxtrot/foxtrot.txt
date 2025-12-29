@@ -5042,7 +5042,6 @@ flammation
 flipping
 flatbeds
 flanneling
-fungoidal
 forepaw
 ferries
 fumatory
@@ -6940,6 +6939,7 @@ freeway
 foll
 facia
 fedarie
+fungoidal
 fulgurite
 fuchsian
 formalisation
