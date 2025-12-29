@@ -2319,7 +2319,6 @@ exurbias
 endocrania
 edana
 expert
-essene
 entheal
 euphuism
 endosteum
@@ -9754,6 +9753,7 @@ elamp
 eurhythmy
 exitious
 enthusiast
+essene
 expressure
 essentialization
 essentially
