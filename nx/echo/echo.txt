@@ -6748,7 +6748,6 @@ electrophysics
 entertainment
 elaborately
 endosepsis
-echimys
 epicenters
 espaliers
 epithecal
@@ -8305,6 +8304,7 @@ eschynite
 embosoms
 epithalamize
 efractory
+echimys
 equivalve
 ennobles
 epithalline
