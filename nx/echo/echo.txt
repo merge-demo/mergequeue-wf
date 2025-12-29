@@ -7305,7 +7305,6 @@ eristics
 etherealize
 emulous
 eimeria
-enterpillar
 eat
 enigmatize
 epagomenae
@@ -7654,6 +7653,7 @@ exponents
 epicotyls
 endoderms
 enhancement
+enterpillar
 extrasomatic
 emplead
 enterostasis
