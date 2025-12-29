@@ -5850,6 +5850,7 @@ catechumenism
 concourses
 catechumens
 catechumenship
+chymification
 codo
 catechutannic
 conquest
@@ -27286,7 +27287,6 @@ countryward
 countrywoman
 clap
 countrywomen
-chymification
 countship
 coupage
 coupe
