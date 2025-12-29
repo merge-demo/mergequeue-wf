@@ -4745,7 +4745,6 @@ enmuffle
 entrammel
 ensuance
 englishism
-enciphering
 enrapture
 eulogism
 engerminate
@@ -14058,6 +14057,7 @@ epauleted
 extravagantly
 enchantingly
 euemerism
+enciphering
 emulsibility
 extravaganza
 eutectoid
