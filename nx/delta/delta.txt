@@ -3729,7 +3729,6 @@ depot
 domitic
 delegated
 disprove
-durmasts
 decimate
 defrauding
 dehonestation
@@ -8452,6 +8451,7 @@ diambic
 diamegnetism
 diazepam
 diamesogamous
+durmasts
 disclike
 delabialized
 dumfounderment
