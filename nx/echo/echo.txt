@@ -11079,7 +11079,6 @@ endosome
 edo
 economiser
 egoity
-exulceratory
 ekacaesium
 epistemolog
 epiglottal
@@ -11752,6 +11751,7 @@ envision
 esc
 equipluve
 eveque
+exulceratory
 episcopise
 ensurer
 easier
