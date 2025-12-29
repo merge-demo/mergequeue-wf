@@ -3152,6 +3152,7 @@ gnathal
 gnast
 galumphing
 grangousier
+garlandry
 galena
 gastroelytrotomy
 greedygut
@@ -7829,7 +7830,6 @@ generalities
 gospeler
 geococcyx
 galantuomo
-garlandry
 glucase
 gunline
 globefishes
