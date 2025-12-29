@@ -116,6 +116,7 @@ fluidization
 facient
 furaldehyde
 facilitate
+fellness
 forthcome
 flocks
 facilitation
@@ -850,7 +851,6 @@ failsafe
 farforthly
 flexing
 foreflank
-fellness
 fantasmal
 fundus
 fantasms
