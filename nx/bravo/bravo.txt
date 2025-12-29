@@ -8439,6 +8439,7 @@ bikers
 becalmment
 bredi
 biplanal
+biorbital
 bikeway
 bedirter
 bedaze
@@ -10942,7 +10943,6 @@ bemoon
 blinding
 bescoured
 braciolas
-biorbital
 blindness
 bignoniad
 bombers
