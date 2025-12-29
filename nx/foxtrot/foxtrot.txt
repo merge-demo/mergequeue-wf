@@ -965,7 +965,6 @@ facetiousness
 frape
 fastigiums
 foredooming
-forkers
 formalizer
 fillagreed
 foundership
@@ -5477,6 +5476,7 @@ ferreter
 fylker
 flora
 funniness
+forkers
 foreword
 frequentness
 flensed
