@@ -905,7 +905,6 @@ endopolyploidy
 ectosarc
 essoining
 exercises
-extensivity
 eschewing
 expeditionary
 emperies
@@ -3470,6 +3469,7 @@ exteriors
 enteropneustan
 expenditures
 equaled
+extensivity
 emetines
 embellisher
 expressible
