@@ -880,6 +880,7 @@ gers
 glossarize
 guily
 gymnophiona
+glycogenase
 guerrilla
 gametangia
 gerontomorphosis
@@ -10239,7 +10240,6 @@ gobbet
 gossypin
 galvo
 graminivore
-glycogenase
 guiltsick
 genesee
 generating
