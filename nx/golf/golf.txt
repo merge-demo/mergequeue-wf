@@ -5769,6 +5769,7 @@ galactolysis
 garbel
 gade
 graphites
+garni
 glycogenolysis
 guzzler
 goldbird
@@ -7914,7 +7915,6 @@ graved
 grammatistical
 gratinated
 giglots
-garni
 grammatite
 glossotherium
 gramme
