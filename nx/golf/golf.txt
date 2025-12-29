@@ -5987,7 +5987,6 @@ gonifs
 gastroenterocolostomy
 gibetting
 grin
-gusting
 glossoplasty
 gnar
 germinancy
@@ -9099,6 +9098,7 @@ galluptious
 geelbek
 glottogonic
 greffotome
+gusting
 glassworking
 guttlers
 glasser
