@@ -2506,7 +2506,6 @@ archdissembler
 autosymbiontic
 antluetic
 alpiste
-agria
 acomia
 anglicize
 agamobia
@@ -19352,6 +19351,7 @@ afield
 arere
 arerola
 arest
+agria
 aretaics
 arete
 automatist
