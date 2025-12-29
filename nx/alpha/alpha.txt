@@ -8672,7 +8672,6 @@ allergenicity
 alang
 ankylotome
 actinopod
-amygdalopathy
 allergin
 allergists
 allerion
@@ -16692,6 +16691,7 @@ aggers
 abjuration
 asserters
 anotus
+amygdalopathy
 agre
 assails
 alcaides
