@@ -12789,7 +12789,6 @@ armorwise
 ammocoetid
 affirmant
 ashen
-angioscope
 angiosymphysis
 anopia
 antiatoms
@@ -24339,6 +24338,7 @@ aeromancy
 attractionally
 alpinists
 adjurors
+angioscope
 aquaducts
 acetophenetide
 autoradiogram
