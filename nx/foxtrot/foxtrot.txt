@@ -1743,7 +1743,6 @@ foresaddle
 fluphenazine
 fossildom
 fibropsammoma
-facaded
 frailero
 fadeaways
 famatinite
@@ -6753,6 +6752,7 @@ focimetry
 formative
 fissate
 focal
+facaded
 folacin
 furdle
 falsidical
