@@ -8591,7 +8591,6 @@ accentuates
 antiexpressiveness
 antibishop
 archencephalic
-autistic
 anotropia
 anastomosis
 autotheater
@@ -12282,6 +12281,7 @@ allopatric
 annunciate
 almicore
 arnberry
+autistic
 antithetics
 anodynia
 abatua
