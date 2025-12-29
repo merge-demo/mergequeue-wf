@@ -2671,7 +2671,6 @@ barghest
 breechloader
 bantamweight
 brugh
-basiliscus
 backlins
 berrugate
 barm
@@ -6253,6 +6252,7 @@ braceleted
 bimodulus
 bennies
 benomyl
+basiliscus
 backspread
 benightedness
 benorth
