@@ -3934,7 +3934,6 @@ fictionmonger
 furcating
 fogyism
 foxtongue
-foal
 feedbacks
 finest
 finew
@@ -6778,6 +6777,7 @@ foredevised
 floridean
 fallaciousness
 fiefdom
+foal
 foldaway
 feretory
 ferryman
