@@ -5728,7 +5728,6 @@ flosculariidae
 flirtatiousness
 fundament
 floodwater
-fitroot
 flippancies
 freshness
 ferrary
@@ -9547,6 +9546,7 @@ footling
 finiteness
 fringier
 finiglacial
+fitroot
 fiador
 flavonol
 furcilia
