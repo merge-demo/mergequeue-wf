@@ -5622,7 +5622,6 @@ epidendrum
 elder
 elutions
 esophageal
-enfold
 ethyl
 exceptionalness
 epicene
@@ -7271,6 +7270,7 @@ eopalaeozoic
 egocentrically
 erysipelothrix
 eulogises
+enfold
 eorhyolite
 extinguishable
 earshot

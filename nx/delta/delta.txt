@@ -9098,7 +9098,6 @@ diaskeuasis
 discursive
 dingdong
 dragonize
-disweapon
 didelphoid
 derisory
 doffs
@@ -17772,6 +17771,7 @@ delft
 downlooked
 donga
 dorsosternal
+disweapon
 desoxycorticosterone
 depa
 desoxyanisoin
