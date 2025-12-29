@@ -2120,6 +2120,7 @@ gormaw
 guarabu
 gazebo
 gazeboes
+gossamers
 guestship
 gen
 gingerroot
@@ -7358,7 +7359,6 @@ gossamered
 guerrila
 goings
 galega
-gossamers
 galloglass
 geochronometric
 gibby
