@@ -3317,7 +3317,6 @@ deputised
 definite
 definitely
 distrait
-deafness
 definiteness
 determinating
 dahlin
@@ -7756,6 +7755,7 @@ drawler
 ductilizing
 daphnephoria
 devaluating
+deafness
 devocalized
 dicyandiamide
 diptychon
