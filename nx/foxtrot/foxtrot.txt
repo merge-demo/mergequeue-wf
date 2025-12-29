@@ -8440,7 +8440,6 @@ freshman
 fades
 formalist
 fallibilist
-flurr
 foreboded
 floweriness
 foppish
@@ -11136,6 +11135,7 @@ fetometry
 fishtail
 fieldleft
 francophone
+flurr
 flaggery
 formylated
 forumize
