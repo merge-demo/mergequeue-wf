@@ -2150,7 +2150,6 @@ externat
 emperish
 equilibrio
 epipubes
-equiangle
 elastomers
 embryologists
 emcees
@@ -11676,6 +11675,7 @@ electrophone
 equimomental
 elasmobranch
 electromechanics
+equiangle
 ethnical
 exaestuate
 eyeball
