@@ -382,6 +382,7 @@ flocked
 facsim
 fluids
 flowerily
+foreknow
 fattiness
 flusterer
 forcedness
@@ -7069,7 +7070,6 @@ foodful
 fulfilled
 fribby
 fatalities
-foreknow
 flowk
 fosie
 frase
