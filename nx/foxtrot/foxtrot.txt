@@ -9394,7 +9394,6 @@ functionary
 fastenings
 fullbodied
 frails
-franklinic
 fisheater
 fraser
 familiarities
@@ -10823,6 +10822,7 @@ ferniest
 fulciment
 fs
 failures
+franklinic
 formicarioid
 fulcruming
 feeable
