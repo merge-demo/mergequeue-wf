@@ -6904,7 +6904,6 @@ earwaxes
 esthesiography
 eucryptite
 epic
-electrochemical
 entomophthorales
 erythrodextrin
 enfeoffed
@@ -9965,6 +9964,7 @@ estuosity
 endophagy
 erythromelalgia
 esugarization
+electrochemical
 endowers
 entonement
 erythrin
