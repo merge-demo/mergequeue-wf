@@ -512,7 +512,6 @@ flaxweed
 foreconsider
 flyblown
 friz
-furstone
 femes
 fertilizing
 frenne
@@ -11430,6 +11429,7 @@ forebemoaned
 founte
 fortunetell
 formfeed
+furstone
 frizers
 firebase
 friese
