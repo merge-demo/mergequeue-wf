@@ -1578,7 +1578,6 @@ galleria
 gunlock
 ganoidean
 gasterotheca
-gandermooner
 gymnetrous
 glabellar
 gougers
@@ -4517,6 +4516,7 @@ gypsology
 gymnotokous
 glib
 gulp
+gandermooner
 gypsophila
 gypsophily
 glycolipide
