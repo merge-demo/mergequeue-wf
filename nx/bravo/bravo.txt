@@ -120,7 +120,6 @@ babillard
 babylon
 backtrace
 blushes
-babylonize
 brassily
 biological
 balsamaceous
@@ -5664,6 +5663,7 @@ bilify
 beleaguering
 bongar
 badgeless
+babylonize
 belection
 brining
 belecture
