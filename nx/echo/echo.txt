@@ -3276,7 +3276,6 @@ eurypelma
 eyesore
 entrench
 episcleral
-exanthalose
 emancipates
 esophagospasm
 eelgrasses
@@ -11419,6 +11418,7 @@ effendi
 epileptogenous
 ebonites
 evergreen
+exanthalose
 exsputory
 evergreens
 everydayness
