@@ -8736,7 +8736,6 @@ experimentator
 edulcorated
 equitemporaneous
 eluted
-euphemisms
 ethysulphuric
 effulgence
 embrowd
@@ -10482,6 +10481,7 @@ embouchure
 ettercap
 ettirone
 energeticist
+euphemisms
 escalan
 ettle
 ecclesiolatry
