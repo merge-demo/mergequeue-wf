@@ -3360,7 +3360,6 @@ decolor
 disrestore
 dynagraph
 dithionate
-deflagrator
 deflating
 discommend
 drumslade
@@ -9667,6 +9666,7 @@ derelinquish
 disembroilment
 diethylamide
 dilapidation
+deflagrator
 dilatably
 deters
 desiderate
