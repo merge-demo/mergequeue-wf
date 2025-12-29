@@ -3793,7 +3793,6 @@ giantsize
 gaub
 gonging
 genoblastic
-gobbets
 gouvernantes
 giarra
 gherao
@@ -8783,6 +8782,7 @@ gagged
 gridding
 gralloch
 graminaceous
+gobbets
 gluhwein
 grisgris
 goodlihead
