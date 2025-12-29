@@ -2652,7 +2652,6 @@ flashy
 feckulence
 ferter
 fosterable
-feuded
 flamb
 fertile
 farcers
@@ -9263,6 +9262,7 @@ femality
 fichat
 feretra
 forfend
+feuded
 fraise
 fortunately
 fraised
