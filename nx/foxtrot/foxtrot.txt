@@ -5132,7 +5132,6 @@ fict
 furnishment
 furculae
 flashiest
-flashiness
 ficoidaceae
 fermerer
 famulli
@@ -9561,6 +9560,7 @@ foveate
 fermenter
 freckle
 furnace
+flashiness
 fieldmouse
 fruitfullness
 financier
