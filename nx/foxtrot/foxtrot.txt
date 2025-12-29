@@ -828,7 +828,6 @@ flummox
 fanon
 fronted
 fantailed
-fingermark
 fermi
 fashioner
 faddishness
@@ -1560,6 +1559,7 @@ faveolus
 forconceit
 fleuronee
 foochow
+fingermark
 freaking
 favelas
 frustulent
