@@ -4420,6 +4420,7 @@ grammatist
 gloriam
 gleeted
 gazer
+gorer
 gorget
 grandezza
 gearcases
@@ -5183,7 +5184,6 @@ gunbright
 grandioseness
 gaussbergite
 gleamy
-gorer
 glutenous
 gangliglions
 gumboots
