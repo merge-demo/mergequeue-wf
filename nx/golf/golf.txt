@@ -1881,7 +1881,6 @@ gammaridae
 gaucho
 goodyism
 generalists
-gamelote
 germaniums
 gowd
 grails
@@ -5471,6 +5470,7 @@ gentlest
 garancin
 gilenyie
 granddad
+gamelote
 gyrfalcons
 gamolepis
 gonadic

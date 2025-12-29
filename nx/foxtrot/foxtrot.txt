@@ -5764,7 +5764,6 @@ figmental
 forpass
 frise
 flocking
-fenmen
 flited
 frontate
 foge
@@ -6733,6 +6732,7 @@ forspeaking
 fitnesses
 flamming
 fittest
+fenmen
 foiningly
 forjudged
 food
