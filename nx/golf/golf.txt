@@ -6577,7 +6577,6 @@ glottalization
 grabblers
 gambeson
 grummets
-gimmerpet
 gambas
 guazzo
 groyne
@@ -6636,6 +6635,7 @@ gaed
 goncalo
 guary
 globulysis
+gimmerpet
 glycosuria
 gossans
 gurglingly
