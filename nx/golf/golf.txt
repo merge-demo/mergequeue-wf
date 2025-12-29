@@ -925,6 +925,7 @@ gatewise
 gashed
 guelphism
 greedy
+gobangs
 gelototherapy
 gammarine
 gingeli
@@ -2551,7 +2552,6 @@ grue
 generations
 gastrula
 gweduc
-gobangs
 ganch
 grig
 grubbies
