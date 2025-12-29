@@ -3458,7 +3458,6 @@ figgiest
 fecundity
 fleeches
 fanfares
-fingerable
 frostfishes
 foreseason
 fallback
@@ -9182,6 +9181,7 @@ fossorial
 fonticulus
 flapjacks
 fractionization
+fingerable
 fractions
 forncast
 foolheaded
