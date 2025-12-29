@@ -17290,7 +17290,6 @@ bumclock
 biguttulate
 batling
 boltings
-bathflower
 birddom
 braguette
 brite
@@ -17856,6 +17855,7 @@ bidialectal
 banns
 busaos
 bloodleaf
+bathflower
 bine
 busbar
 busbars
