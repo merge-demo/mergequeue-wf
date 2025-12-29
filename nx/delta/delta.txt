@@ -2326,7 +2326,6 @@ diagraphs
 dekaparsec
 ditrigonal
 dermatropic
-dactylioglyphic
 danglement
 drat
 delectations
@@ -10680,6 +10679,7 @@ diaculum
 diagram
 depit
 digitalize
+dactylioglyphic
 demurs
 declinal
 dippier
