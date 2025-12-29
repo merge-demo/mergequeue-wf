@@ -13133,6 +13133,7 @@ detonates
 desynonymization
 dramshops
 dispersers
+damaging
 dreigh
 doubtful
 dipicrylamin
@@ -15156,7 +15157,6 @@ degummed
 diaphragmed
 decongested
 deerherd
-damaging
 disallows
 dullpate
 doing
