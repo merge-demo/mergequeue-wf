@@ -1960,7 +1960,6 @@ gimbal
 geranic
 goring
 grubroot
-gripes
 grudged
 guttable
 gonif
@@ -5525,6 +5524,7 @@ glutinously
 grudgeons
 glob
 gnetum
+gripes
 glucinum
 grumblers
 grummest
