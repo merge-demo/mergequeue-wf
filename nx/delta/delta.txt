@@ -2750,6 +2750,7 @@ decore
 dewcup
 decorist
 dragged
+dropshot
 durum
 demilancer
 disfeatured
@@ -13430,7 +13431,6 @@ drumskin
 disregardfulness
 disregarding
 dingbat
-dropshot
 dramatise
 diplogenesis
 dialogging
