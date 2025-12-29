@@ -6917,7 +6917,6 @@ antiferromagnet
 aitch
 asphaltene
 angeldom
-araneologist
 appropriately
 akron
 anagrammatised
@@ -21595,6 +21594,7 @@ arthrosia
 adjudgment
 automolite
 alkyl
+araneologist
 allegement
 antiphonaries
 angary
