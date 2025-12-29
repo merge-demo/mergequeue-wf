@@ -4265,7 +4265,6 @@ gnu
 goby
 gynecocrat
 gopherman
-gunshots
 gleamed
 gastroscope
 gangliated
@@ -9183,6 +9182,7 @@ grooming
 gardant
 gladstone
 gamogenetic
+gunshots
 glassfish
 glaceed
 garapata
