@@ -6904,6 +6904,7 @@ fp
 floatages
 fruity
 fifes
+foolishly
 fleme
 fielding
 felafel
@@ -8485,7 +8486,6 @@ frow
 figment
 forked
 formica
-foolishly
 fasciculate
 fitty
 formicate
