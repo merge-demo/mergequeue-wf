@@ -12047,6 +12047,7 @@ epiclike
 escaper
 electrostenolytic
 elflike
+expurge
 exotoxins
 expurgatorial
 embalmed
@@ -13425,7 +13426,6 @@ erogate
 ethnodicy
 eponymous
 electrotechnical
-expurge
 etas
 expressway
 elegizing
