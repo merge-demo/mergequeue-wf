@@ -3944,6 +3944,7 @@ brickbats
 bdelloura
 bisected
 bassette
+boiko
 bunch
 blastomycetous
 bristols
@@ -8691,7 +8692,6 @@ bilophodont
 boshvark
 baxterian
 brattish
-boiko
 barbecues
 bilos
 biloxi
