@@ -11807,7 +11807,6 @@ dormitary
 damans
 discrowns
 domestic
-daydreamed
 devitalised
 defiler
 discruciate
@@ -16486,6 +16485,7 @@ dwellings
 dairywoman
 detached
 disagreeables
+daydreamed
 dracontium
 disfavouring
 diastole
