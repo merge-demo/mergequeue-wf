@@ -1860,6 +1860,7 @@ cercelee
 camansi
 camara
 camarade
+cydippe
 conciliar
 camarasaurus
 camarera
@@ -13481,7 +13482,6 @@ chaine
 condemnation
 chlorinates
 counterturn
-cydippe
 cofeatures
 cydonian
 confederator
