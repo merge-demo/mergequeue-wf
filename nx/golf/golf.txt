@@ -9377,7 +9377,6 @@ geophila
 galleasses
 goliad
 gunnysacks
-ghaznevid
 ghaist
 gasparillo
 gyrostat
@@ -9423,6 +9422,7 @@ ginkgoaceae
 genotypic
 grosshead
 granitization
+ghaznevid
 grossly
 grangerizer
 grosso
