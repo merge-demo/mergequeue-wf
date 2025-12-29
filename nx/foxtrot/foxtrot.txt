@@ -8091,6 +8091,7 @@ freezes
 frigger
 forestial
 forepost
+footlog
 fessing
 falbala
 forestral
@@ -8740,7 +8741,6 @@ forlie
 fordoing
 flocculator
 fella
-footlog
 faultsman
 finchery
 forehands
