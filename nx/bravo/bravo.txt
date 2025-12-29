@@ -2004,7 +2004,6 @@ baning
 bandcutter
 bhaiachara
 banisher
-banishing
 banishment
 banyuls
 baniva
@@ -14317,6 +14316,7 @@ bodices
 benzazole
 brogan
 braggarts
+banishing
 balductum
 braggery
 bairnteam
