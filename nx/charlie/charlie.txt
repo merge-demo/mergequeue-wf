@@ -9369,7 +9369,6 @@ choralist
 cytodendrite
 chaulmugra
 chaumiere
-chauna
 chaunoprockt
 childlikeness
 chartometer
@@ -20372,6 +20371,7 @@ canada
 conjee
 commutant
 commutated
+chauna
 commutatively
 carpogone
 commutativity
