@@ -2245,6 +2245,7 @@ embryogeny
 eulogy
 exhumate
 endocytic
+electrostenolysis
 elecives
 electant
 elect
@@ -7940,7 +7941,6 @@ ensilation
 expounds
 epimanikion
 epimeres
-electrostenolysis
 epimerism
 enterolithiasis
 evangels
