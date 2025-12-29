@@ -4288,7 +4288,6 @@ gregos
 gigantesque
 gumlike
 gabfests
-gainsay
 granulate
 glyptotherium
 goboes
@@ -9083,6 +9082,7 @@ girlism
 gryllos
 gaffle
 gimcracky
+gainsay
 grilse
 glossitis
 grimaced
