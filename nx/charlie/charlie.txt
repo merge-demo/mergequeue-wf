@@ -21512,7 +21512,6 @@ concordal
 circumundulation
 concordance
 concordancer
-commands
 coldish
 curliewurly
 cardiophobia
@@ -24210,6 +24209,7 @@ concertantes
 colleterial
 compost
 cunning
+commands
 convocations
 convocative
 convocator
