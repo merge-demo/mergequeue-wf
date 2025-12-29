@@ -5235,7 +5235,6 @@ farse
 fulfil
 fourling
 fleas
-fluxroot
 fratcheous
 foramina
 flavid
@@ -6945,6 +6944,7 @@ fulgurite
 fuchsian
 formalisation
 forbode
+fluxroot
 fastball
 foxlike
 finitary
