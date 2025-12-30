@@ -4728,7 +4728,6 @@ ensuance
 englishism
 enrapture
 eulogism
-engerminate
 executonis
 estre
 emplaced
@@ -9407,6 +9406,7 @@ endeavor
 expection
 electroretinographic
 enstool
+engerminate
 echeneid
 embodied
 enfranchiser
