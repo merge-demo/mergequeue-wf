@@ -7771,6 +7771,7 @@ anglicism
 aldrovanda
 achromaturia
 adequative
+alphabetically
 alchemically
 aflow
 auriculoid
@@ -22701,7 +22702,6 @@ ampyces
 awide
 agneaux
 anathema
-alphabetically
 archegoniophore
 airings
 athyrosis
