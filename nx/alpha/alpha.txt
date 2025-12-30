@@ -5112,7 +5112,6 @@ agrammatica
 affreux
 adephagan
 anatomizing
-aetobatidae
 ancien
 antidoting
 aphoria
@@ -14600,6 +14599,7 @@ abacination
 abstractively
 anesthetize
 adapid
+aetobatidae
 anabaptist
 antiaditis
 antiadministration
