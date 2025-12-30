@@ -651,6 +651,7 @@ featherbedding
 formulates
 farnesol
 fluotitanic
+forelegs
 fames
 fuddled
 fichu
@@ -6714,7 +6715,6 @@ fogo
 frescoists
 feast
 feathery
-forelegs
 fogon
 fogproof
 frugally
