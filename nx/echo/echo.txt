@@ -5354,7 +5354,6 @@ endosteomata
 enwingly
 excarnate
 endeavoring
-enteromere
 enmagazine
 epanody
 endothecal
@@ -8090,6 +8089,7 @@ enlargedness
 encover
 extrasyphilitic
 expressable
+enteromere
 epiplasmic
 epiplectic
 ethnological

@@ -2337,7 +2337,6 @@ flunked
 friarly
 funerary
 fructiculose
-favel
 femineity
 frightener
 fanhouse
@@ -8149,6 +8148,7 @@ fire
 footmenfootpad
 flexo
 flatcaps
+favel
 faithful
 featurette
 fuchsias
