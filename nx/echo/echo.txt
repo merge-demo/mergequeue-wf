@@ -7355,7 +7355,6 @@ enstranged
 eyries
 epee
 epeeist
-embue
 epeiric
 excursional
 exciseman
@@ -13702,6 +13701,7 @@ ermanaric
 equiaxe
 ergocalciferol
 externs
+embue
 endothelioblastoma
 exhaustedness
 externity
