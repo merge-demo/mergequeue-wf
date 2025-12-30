@@ -6347,7 +6347,6 @@ fixtureless
 fourb
 flunkyish
 flunkyize
-fuzziness
 fidepromission
 forefingers
 ferments
@@ -7552,6 +7551,7 @@ fullness
 ferrocyanhydric
 foment
 fasthold
+fuzziness
 feazes
 foredesignment
 fallibility
