@@ -3362,7 +3362,6 @@ contraindicate
 cavilling
 cotyledon
 concavely
-cirrous
 chaos
 calabash
 caponise
@@ -16857,6 +16856,7 @@ clower
 clownade
 clownage
 clownery
+cirrous
 capitative
 clowneries
 clownheal
