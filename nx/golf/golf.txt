@@ -1784,7 +1784,6 @@ gelatinotype
 ghyll
 glutinate
 gestalten
-granodioritic
 gangwaymen
 gastrostenosis
 gatehouses
@@ -4520,6 +4519,7 @@ gardevisure
 groten
 glyptology
 grame
+granodioritic
 grindingly
 grandmothers
 geotropy
