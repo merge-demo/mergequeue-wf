@@ -2452,7 +2452,6 @@ acmaeidae
 asparagus
 amphisbaenidae
 acme
-acquiring
 articulata
 americana
 adipic
@@ -10454,6 +10453,7 @@ articled
 allantoidea
 ascomycetous
 aping
+acquiring
 atheling
 amidophenol
 apothem
