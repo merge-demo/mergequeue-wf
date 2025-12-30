@@ -5196,7 +5196,6 @@ costumery
 caserns
 cases
 cordis
-caseworks
 caseworm
 casha
 cashableness
@@ -12797,6 +12796,7 @@ cuisinary
 chulpa
 cabassou
 chultun
+caseworks
 copyism
 chum
 coaxed
