@@ -1129,7 +1129,6 @@ editorialization
 elsa
 ecphory
 expunction
-enclosed
 editorializers
 elephantic
 exstipulate
@@ -13058,6 +13057,7 @@ emus
 embankment
 envelope
 eval
+enclosed
 ergates
 enslave
 emulousness
