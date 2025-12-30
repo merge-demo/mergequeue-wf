@@ -3911,7 +3911,6 @@ fraple
 ferrocyanogen
 falsehearted
 furrowed
-fireboxes
 flemish
 fluoranthene
 foresummon
@@ -9469,6 +9468,7 @@ ferrotitanium
 furcae
 familial
 fauld
+fireboxes
 foeticide
 flag
 foglietto
