@@ -9515,7 +9515,6 @@ biotope
 battlefront
 birodo
 bisulphide
-brittling
 babingtonite
 bridesmaids
 biron
@@ -13828,6 +13827,7 @@ brunion
 blizz
 baddishly
 blessing
+brittling
 bowbent
 bowdichia
 bloodily
