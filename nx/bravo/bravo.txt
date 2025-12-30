@@ -8014,7 +8014,6 @@ bedlight
 bulbilla
 berhyming
 bichloride
-borazons
 bioxalate
 bichos
 bichromatize
@@ -16231,6 +16230,7 @@ blandish
 bryologies
 breadstuffs
 brouhaha
+borazons
 broussonetia
 browbeating
 bathmotropism

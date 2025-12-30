@@ -20522,7 +20522,6 @@ aerophilatelic
 arteriometer
 arteriomotor
 antiasthmatic
-arterioplasty
 arteriorenal
 accentless
 amblyaphia
@@ -24669,6 +24668,7 @@ avshar
 aventails
 axiom
 alypine
+arterioplasty
 aspirants
 absumption
 asteer
