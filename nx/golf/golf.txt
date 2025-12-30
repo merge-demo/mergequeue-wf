@@ -2046,7 +2046,6 @@ gavels
 guyandot
 gloriana
 gavia
-geminiform
 gio
 grapheme
 gaynesses
@@ -3011,6 +3010,7 @@ grumbled
 gushingness
 gauchest
 geoscience
+geminiform
 gaggle
 gordioidea
 glorias
