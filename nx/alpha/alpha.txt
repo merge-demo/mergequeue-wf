@@ -951,6 +951,7 @@ ameland
 angoras
 afterpotential
 abstainers
+astrol
 abstaining
 antiserum
 assis
@@ -2854,7 +2855,6 @@ achromatin
 acrophonetic
 avengingly
 acrophonic
-astrol
 antiendowment
 acropoleis
 acuminated
