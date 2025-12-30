@@ -5042,7 +5042,6 @@ beslubber
 beetiest
 bombernickel
 beetled
-butterwort
 boite
 beblear
 banqueteer
@@ -18048,6 +18047,7 @@ bifistular
 bradypod
 bustics
 barbeque
+butterwort
 banjoist
 bluely
 bugled
