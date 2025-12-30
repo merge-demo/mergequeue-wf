@@ -165,6 +165,7 @@ babracot
 babs
 blastocoelic
 besweeten
+bagging
 bombastic
 babudom
 butternut
@@ -2354,7 +2355,6 @@ bourignianism
 braggart
 barboy
 bubbletops
-bagging
 boxboards
 barbotine
 bones
