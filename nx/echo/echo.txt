@@ -7741,6 +7741,7 @@ epionychia
 executable
 epidiascope
 engraff
+exclusion
 epichilia
 egoism
 embrocating
@@ -12956,7 +12957,6 @@ erythrol
 expectantly
 expectation
 exodoi
-exclusion
 equipartile
 epicyclical
 expected
