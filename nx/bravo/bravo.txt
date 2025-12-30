@@ -5596,7 +5596,6 @@ ballistite
 beknotted
 burrio
 brassicaceous
-beknottedly
 bathythermogram
 biotype
 beknow
@@ -11161,6 +11160,7 @@ brotan
 beflounce
 bipenniform
 bespit
+beknottedly
 bloodshedder
 bruckled
 balsamina
