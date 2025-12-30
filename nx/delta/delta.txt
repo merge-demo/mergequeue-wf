@@ -5179,7 +5179,6 @@ denitrifier
 denizenation
 diquats
 drumbler
-denizenship
 dis
 dellenite
 derogations
@@ -6483,6 +6482,7 @@ descendants
 dimensioned
 dipeptid
 drawglove
+denizenship
 dentellated
 disqualification
 delignated
