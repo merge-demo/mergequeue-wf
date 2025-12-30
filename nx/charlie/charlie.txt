@@ -11672,6 +11672,7 @@ calypter
 choler
 cardiocentesis
 cholera
+coprozoic
 counterround
 choleras
 civilising
@@ -14909,7 +14910,6 @@ cytophagous
 cytopharynx
 coldturkey
 countergabble
-coprozoic
 cytophil
 cytophilic
 cytula
