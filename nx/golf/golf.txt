@@ -1504,7 +1504,6 @@ glairing
 guaxima
 glandless
 gorlin
-gregarinidal
 grote
 grasseye
 genapping
@@ -5851,6 +5850,7 @@ gastrostomies
 glucinums
 gangflower
 giggle
+gregarinidal
 glucocorticoid
 genius
 gardon
