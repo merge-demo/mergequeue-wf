@@ -5597,7 +5597,6 @@ catafalco
 civilisation
 catagenetic
 catakinetic
-catakinomeric
 corkscrewy
 catalatic
 circulatories
@@ -21565,6 +21564,7 @@ chatelaine
 carpenteria
 conchinine
 concubine
+catakinomeric
 chasteningly
 concubines
 cottonless
