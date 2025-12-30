@@ -3164,7 +3164,6 @@ capelins
 capella
 closemouth
 caper
-caperbush
 capercaillie
 chaulmoogric
 colored
@@ -13796,6 +13795,7 @@ cinema
 catalanist
 cinemactic
 cinemagoer
+caperbush
 circumlocutionary
 cinemagoers
 cinemas
