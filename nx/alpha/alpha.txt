@@ -18817,7 +18817,6 @@ archetypes
 attributive
 archettos
 auroauric
-assever
 adhibit
 archfiend
 apprize
@@ -20301,6 +20300,7 @@ amazement
 arsmetry
 aquatinted
 arround
+assever
 arbute
 arrouse
 abhorrers
