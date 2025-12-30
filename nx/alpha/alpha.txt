@@ -12585,7 +12585,6 @@ aesopic
 advene
 allochroite
 algosis
-aneurisms
 arithmetician
 anfract
 ameliorating
@@ -13592,6 +13591,7 @@ atiptoe
 amebic
 annunciations
 asininity
+aneurisms
 ansated
 airliner
 appendixes
