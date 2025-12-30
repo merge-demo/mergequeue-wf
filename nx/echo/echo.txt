@@ -10453,7 +10453,6 @@ etiologist
 entocoelic
 euripi
 etiologue
-emplume
 electrodialytic
 erstwhile
 etypic
@@ -12069,6 +12068,7 @@ enamellers
 excuseless
 endemisms
 excresence
+emplume
 excreta
 escheator
 educationalism
