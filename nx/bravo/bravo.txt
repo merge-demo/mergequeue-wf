@@ -802,6 +802,7 @@ benjamins
 biffed
 boogeyman
 belone
+blips
 bafflers
 baffling
 bombora
@@ -10990,7 +10991,6 @@ brassage
 blintzes
 blacksmiths
 billowy
-blips
 boehmenite
 bliss
 branchiostegous
