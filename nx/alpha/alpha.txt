@@ -886,6 +886,7 @@ audiometric
 apogeotropic
 aures
 absyrtus
+airmanship
 amylon
 absis
 absit
@@ -24420,7 +24421,6 @@ ampullated
 alimentum
 autosporic
 autostarter
-airmanship
 autostylism
 autostradas
 autosuggestion
