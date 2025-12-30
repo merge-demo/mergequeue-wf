@@ -2075,7 +2075,6 @@ coburgess
 camouflageable
 camouflager
 contradictorily
-camouflagers
 camouflagic
 coincidence
 companionship
@@ -26862,6 +26861,7 @@ counterfleury
 clodlike
 counterfoil
 counterforce
+camouflagers
 cosmopolitanizing
 carrom
 chugs
