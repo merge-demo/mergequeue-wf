@@ -3480,7 +3480,6 @@ epistemologist
 evinces
 encephalomyelitis
 eductive
-ethnol
 exceptionableness
 ensepulchering
 enamels
@@ -9816,6 +9815,7 @@ epipodia
 expurgator
 eikon
 emulsifications
+ethnol
 egocentricity
 enthronising
 enslumber
