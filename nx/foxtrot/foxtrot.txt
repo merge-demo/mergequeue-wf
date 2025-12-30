@@ -2735,6 +2735,7 @@ friedelite
 foreparts
 fights
 festerment
+fossilising
 footway
 feis
 fortescure
@@ -10012,7 +10013,6 @@ fibrosities
 fliest
 fairness
 fucation
-fossilising
 fatiguing
 frijole
 footprint
