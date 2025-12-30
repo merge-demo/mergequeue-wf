@@ -1203,7 +1203,6 @@ depeach
 datasetname
 dithers
 datcha
-disparison
 disclamation
 demiassignation
 deleads
@@ -7903,6 +7902,7 @@ deworming
 deworms
 dexiotropous
 dewrot
+disparison
 durban
 dramaticule
 devilries
