@@ -1265,7 +1265,6 @@ exposition
 episomal
 evaluation
 enmanche
-eelfare
 encrinite
 ergostat
 eightling
@@ -5332,6 +5331,7 @@ explicit
 enjewel
 everglades
 exsertion
+eelfare
 endospore
 evidentness
 encharm
