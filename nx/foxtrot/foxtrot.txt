@@ -1022,7 +1022,6 @@ flatlong
 fumosity
 feverweed
 federalese
-filicornia
 fragmentalize
 flatboats
 finalists
@@ -8751,6 +8750,7 @@ freddo
 forbiddable
 flogged
 forester
+filicornia
 fossule
 fiddlers
 forwardal
