@@ -591,7 +591,6 @@ backstrap
 baggyrinkle
 bactericide
 beethoven
-bidget
 bacterin
 beggiatoa
 bacteriochlorophyll
@@ -3543,6 +3542,7 @@ bassists
 batfowls
 bestore
 bulbocavernosus
+bidget
 brookites
 bluet
 bathed
