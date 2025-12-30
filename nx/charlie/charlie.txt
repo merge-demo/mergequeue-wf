@@ -18860,7 +18860,6 @@ colichemarde
 colicines
 cultigen
 celiac
-colicins
 corvisor
 cytogene
 colicroot
@@ -29887,6 +29886,7 @@ craniodidymus
 crossflow
 crossfoot
 crosshackle
+colicins
 crosshair
 crosshand
 crosshatches
