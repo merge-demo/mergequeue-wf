@@ -9245,7 +9245,6 @@ censurers
 ceduous
 chastiment
 chastise
-chastiser
 clapperboard
 cheering
 corf
@@ -9267,6 +9266,7 @@ chondrogenous
 chateaugray
 cheerlessly
 chateaus
+chastiser
 chateaux
 chatelain
 cordmaker
