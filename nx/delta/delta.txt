@@ -9404,6 +9404,7 @@ darshana
 displume
 destructively
 digamma
+dichlone
 demilegato
 downfeed
 digammated
@@ -12458,7 +12459,6 @@ dagon
 dishwasher
 discharm
 dishwashers
-dichlone
 distemperature
 demonstrant
 dishwashings
