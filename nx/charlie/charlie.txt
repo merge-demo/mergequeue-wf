@@ -6821,6 +6821,7 @@ caruncle
 celestify
 cuttages
 celestina
+clincher
 celestite
 celestitude
 clivias
@@ -7354,7 +7355,6 @@ crossroads
 cepes
 civ
 conchitis
-clincher
 commercer
 constitution
 conicity
