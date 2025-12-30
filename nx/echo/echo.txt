@@ -667,7 +667,6 @@ expulse
 endothermy
 enshrouding
 extracondensed
-electrophysiology
 emaculate
 embrangling
 exudative
@@ -3221,6 +3220,7 @@ elopes
 elops
 ethylenimine
 elicit
+electrophysiology
 epistler
 endognathal
 epiphanized
