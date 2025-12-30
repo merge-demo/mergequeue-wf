@@ -5116,7 +5116,6 @@ greesagh
 gte
 ginnel
 greenness
-gourmander
 glycocholic
 gobbed
 gasless
@@ -9747,6 +9746,7 @@ gargantuan
 guidonian
 georgiana
 gandurah
+gourmander
 gambades
 greyhounds
 grocerwise
