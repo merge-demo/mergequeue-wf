@@ -5507,6 +5507,7 @@ forbarred
 fratching
 foraged
 fleshy
+focal
 fillet
 ferally
 fleshing
@@ -6750,7 +6751,6 @@ fried
 focimetry
 formative
 fissate
-focal
 facaded
 folacin
 furdle
