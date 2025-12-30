@@ -15484,7 +15484,6 @@ antipyretic
 avijja
 attntrp
 annullable
-armguard
 antimystic
 antimystical
 antimystically
@@ -22341,6 +22340,7 @@ aerobically
 anal
 anhaline
 asperger
+armguard
 aplanat
 autoreduction
 amplect
