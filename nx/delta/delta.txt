@@ -5554,7 +5554,6 @@ deposer
 depauperize
 dorsal
 dyscrase
-dermatoptic
 depeinct
 dwarfing
 disharmonizing
@@ -15871,6 +15870,7 @@ demonesses
 dacryocystoptosis
 deoxidizer
 dossiers
+dermatoptic
 diamondize
 dorty
 daikers
