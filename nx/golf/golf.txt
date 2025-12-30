@@ -2937,6 +2937,7 @@ genecological
 gyniatry
 goldurnedest
 grazable
+gyrotheca
 gulph
 glacioaqueous
 gosh
@@ -4888,7 +4889,6 @@ guaranteeing
 galleryite
 gleam
 glozes
-gyrotheca
 gimme
 gladiola
 granatite
