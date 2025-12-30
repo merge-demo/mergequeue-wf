@@ -14075,7 +14075,6 @@ cyprinid
 cheiromancy
 cyprinids
 cauline
-cyprinin
 copyhold
 clerklier
 condimental
@@ -30289,6 +30288,7 @@ chapelling
 cargoose
 crumps
 convoluted
+cyprinin
 cycad
 closest
 crunch
