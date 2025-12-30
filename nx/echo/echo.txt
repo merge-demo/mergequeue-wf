@@ -798,7 +798,6 @@ exadverso
 endosulfan
 earthmaking
 exodus
-epeira
 eurytopic
 eom
 extracapsular
@@ -5086,6 +5085,7 @@ enunciation
 escrod
 elevatingly
 eavesdrop
+epeira
 eclecticism
 endearingly
 exemptible
