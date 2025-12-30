@@ -3742,7 +3742,6 @@ galaginae
 gapy
 garnierite
 gringolee
-gyse
 galvanoplastics
 granaries
 galateas
@@ -6231,6 +6230,7 @@ gonfalons
 gastroenteroanastomosis
 gowkedly
 galactosan
+gyse
 globules
 goatsbeard
 guestimate
