@@ -14077,6 +14077,7 @@ cyprinids
 cauline
 copyhold
 clerklier
+curlycues
 condimental
 caecal
 cyprinodontes
@@ -31422,7 +31423,6 @@ coloroto
 choriambize
 cosmogonist
 candied
-curlycues
 crouton
 cycladic
 curlike
