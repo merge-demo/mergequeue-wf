@@ -6827,7 +6827,6 @@ gravilea
 glycosyls
 gonochorismal
 geryonia
-garle
 glutimate
 gonococci
 glossopharyngeus
@@ -10615,6 +10614,7 @@ goy
 greenhearted
 guildite
 gunpoints
+garle
 gloomiest
 gunpower
 gasping

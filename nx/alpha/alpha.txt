@@ -2452,6 +2452,7 @@ acquiring
 articulata
 americana
 adipic
+amphithalmi
 acnemia
 argumentum
 adiaphoral
@@ -11960,7 +11961,6 @@ antisophistry
 atrium
 aboriginals
 alpha
-amphithalmi
 amara
 antigravitation
 apostrophize
