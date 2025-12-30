@@ -2095,6 +2095,7 @@ campagne
 conli
 campaign
 clotheshorses
+coadjacence
 campaigns
 colostric
 campana
@@ -2149,7 +2150,6 @@ coniopterygidae
 channeler
 campers
 chiloma
-coadjacence
 campesinos
 campestral
 campground
