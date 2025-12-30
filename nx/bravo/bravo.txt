@@ -8490,7 +8490,6 @@ bilders
 blighted
 bilection
 bileve
-bavardage
 bootjack
 bouteloua
 belinurus
@@ -12215,6 +12214,7 @@ beclasped
 blarneyed
 byrled
 brabbler
+bavardage
 boleweed
 biometeorology
 blandiloquence
