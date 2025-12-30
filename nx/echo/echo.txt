@@ -1274,7 +1274,6 @@ ecclesiarch
 eversive
 eking
 electrocystoscope
-equalness
 expands
 eeliest
 epiky
@@ -3910,6 +3909,7 @@ expressionless
 executorship
 edentulous
 englory
+equalness
 eels
 enalid
 exede
