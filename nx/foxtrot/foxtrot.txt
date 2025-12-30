@@ -3278,7 +3278,6 @@ forefeet
 fungilliform
 filopodium
 fiddlestick
-frambesia
 farsight
 flowerfence
 fivescore
@@ -8700,6 +8699,7 @@ forgive
 flotage
 fizzing
 futharcs
+frambesia
 filii
 fourness
 frightsome
