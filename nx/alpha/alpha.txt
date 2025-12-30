@@ -13345,7 +13345,6 @@ ascill
 anywhence
 adsorptiveness
 appurtenance
-anywhither
 anywither
 anhalonium
 areolar
@@ -19846,6 +19845,7 @@ autoecious
 armful
 acronyms
 antisophistic
+anywhither
 acetonaemia
 antisupernaturalism
 anatomising
