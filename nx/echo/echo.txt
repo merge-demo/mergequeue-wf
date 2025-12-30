@@ -3895,7 +3895,6 @@ ensorcerize
 egressive
 echeneis
 entomotomy
-electrotonus
 extraboldface
 eminencies
 extramolecular
@@ -6978,6 +6977,7 @@ emissaryship
 entrancedly
 entrancement
 ectotrophi
+electrotonus
 enscene
 empusa
 eyebridled
