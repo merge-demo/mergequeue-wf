@@ -2665,7 +2665,6 @@ fertilise
 fylfots
 funeral
 fallowed
-fantoccini
 foremelt
 feasing
 ferular
@@ -8314,6 +8313,7 @@ faultiness
 freestyler
 fusspots
 foregame
+fantoccini
 fountaining
 foursome
 fiscalism
