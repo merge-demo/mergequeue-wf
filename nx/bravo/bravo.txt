@@ -1175,7 +1175,6 @@ breedings
 bullshots
 boxer
 bajocco
-bemeaned
 bajra
 bebless
 bogeyed
@@ -6700,6 +6699,7 @@ berkovets
 berkovtsi
 bedull
 bayesian
+bemeaned
 berlin
 browsability
 bismuthine
