@@ -3120,6 +3120,7 @@ furioso
 franciscans
 finca
 faddle
+fourier
 flip
 fences
 fibroins
@@ -8975,7 +8976,6 @@ falconries
 frivolities
 favositoid
 formally
-fourier
 francophilism
 fourierism
 foldwards

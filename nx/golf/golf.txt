@@ -993,7 +993,6 @@ geanticline
 gubernia
 grece
 gimleting
-glyptics
 gandertmeeth
 gemmed
 grumblingly
@@ -1609,6 +1608,7 @@ gobiesocidae
 gingili
 gleams
 gametogenesis
+glyptics
 gastralgy
 gaunted
 giblet
