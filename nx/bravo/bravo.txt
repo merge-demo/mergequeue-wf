@@ -10930,7 +10930,6 @@ blooded
 blindfish
 blindfishes
 bluelegs
-blindfolded
 bassus
 butterbush
 blindfoldedness
@@ -13933,6 +13932,7 @@ bacalaos
 baptizee
 bowsman
 botanomancy
+blindfolded
 bootlessness
 benzopyran
 bankroll
