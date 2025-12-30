@@ -3032,6 +3032,7 @@ fibred
 fibrefill
 fungivorous
 fenestra
+frostless
 foursquare
 fishier
 fibreless
@@ -11446,7 +11447,6 @@ fluviose
 falteringly
 furrily
 firefly
-frostless
 fostering
 fathoms
 fusible
