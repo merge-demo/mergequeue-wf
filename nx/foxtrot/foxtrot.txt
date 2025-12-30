@@ -831,6 +831,7 @@ flummox
 fanon
 fronted
 fantailed
+ferocities
 fermi
 fashioner
 faddishness
@@ -4867,7 +4868,6 @@ fitness
 forearm
 froglet
 flagellatory
-ferocities
 followable
 fulgora
 florescence
