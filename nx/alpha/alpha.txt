@@ -1613,7 +1613,6 @@ argyrosis
 arilliform
 arricci
 accrescendo
-accretal
 accretions
 awag
 according
@@ -8728,6 +8727,7 @@ allylation
 allylthiourea
 allineation
 anukabiet
+accretal
 allyou
 aluminography
 allis
