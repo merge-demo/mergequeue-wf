@@ -9072,6 +9072,7 @@ erythrocytoschisis
 epenthesis
 editorialist
 erythrocytosis
+excursionist
 ectasia
 epistropheus
 equivocations
@@ -12132,7 +12133,6 @@ erpetologist
 eg
 eyelike
 epural
-excursionist
 excursiveness
 enterate
 excurvated

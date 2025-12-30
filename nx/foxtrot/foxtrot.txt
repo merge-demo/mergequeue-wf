@@ -5501,7 +5501,6 @@ funkier
 fretwork
 forbarred
 fratching
-foraged
 fleshy
 focal
 fillet
@@ -9611,6 +9610,7 @@ freed
 foreimpression
 facete
 forensic
+foraged
 floreta
 frontopontine
 fizzed
