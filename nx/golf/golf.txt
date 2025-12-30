@@ -4219,7 +4219,6 @@ gliosa
 greenovite
 gigantosaurus
 gonidiose
-ghibelline
 gynaecium
 gunned
 grovel
@@ -8003,6 +8002,7 @@ gothonic
 ganglionectomy
 globing
 glottologies
+ghibelline
 gnomonologically
 gasifiable
 galline

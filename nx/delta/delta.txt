@@ -445,7 +445,6 @@ dayspring
 direst
 disthrall
 daytimes
-disburthen
 disaccharide
 daywrit
 dakerhen
@@ -8428,6 +8427,7 @@ dialonian
 devotionalist
 dorsiventrally
 ds
+disburthen
 duopsony
 degreed
 diamagnet
