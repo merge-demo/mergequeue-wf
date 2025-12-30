@@ -4748,7 +4748,6 @@ executonis
 estre
 emplaced
 exponentiating
-encircle
 emittent
 elocutive
 euripides
@@ -13589,6 +13588,7 @@ expulsory
 ectad
 exiledom
 eyeblink
+encircle
 extemporary
 extemporisation
 ewing
