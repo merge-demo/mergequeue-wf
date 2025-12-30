@@ -4939,7 +4939,6 @@ carageen
 carses
 cogitable
 carsick
-carsickness
 caviteno
 carrottop
 carstone
@@ -28485,6 +28484,7 @@ creatress
 caecectomy
 creatureling
 creatures
+carsickness
 coruscant
 carapo
 creatureship
