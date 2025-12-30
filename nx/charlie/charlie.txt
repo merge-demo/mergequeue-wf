@@ -21345,7 +21345,6 @@ caneware
 countermissile
 counterblow
 conchoids
-communicableness
 conchol
 conchometer
 conchospiral
@@ -24503,6 +24502,7 @@ cupfuls
 capitasti
 clr
 courtliness
+communicableness
 circovarian
 clavis
 copaivic
