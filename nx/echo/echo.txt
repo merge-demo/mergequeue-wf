@@ -11745,7 +11745,6 @@ effatum
 enscrolled
 estrepe
 encumbering
-equivocacies
 excommunication
 examinatorial
 echopraxia
@@ -14161,6 +14160,7 @@ eof
 examinations
 ecdysiast
 ethmopalatine
+equivocacies
 extubation
 encinctured
 eriobotrya
