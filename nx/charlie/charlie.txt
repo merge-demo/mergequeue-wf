@@ -4290,6 +4290,7 @@ careme
 carene
 carer
 chyometer
+ceremonies
 capsulotome
 caress
 cir
@@ -7707,7 +7708,6 @@ ceremonialness
 counterlocking
 contrabass
 caquetio
-ceremonies
 ceremonious
 ceremoniousness
 canonici

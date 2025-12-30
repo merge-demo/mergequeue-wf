@@ -9602,7 +9602,6 @@ barque
 burucha
 boeotia
 bogue
-bluejack
 battlements
 braccio
 ballhawk
@@ -15031,6 +15030,7 @@ breakfaster
 bullfeast
 blepharorrhaphy
 billowier
+bluejack
 burny
 blockheaded
 bestiality
