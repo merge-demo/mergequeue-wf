@@ -9808,7 +9808,6 @@ deviancies
 dissected
 diamicton
 deadlines
-defacers
 darnings
 dactylosternal
 dissertation
@@ -13150,6 +13149,7 @@ damaging
 dreigh
 doubtful
 dipicrylamin
+defacers
 donkeyback
 dispersibility
 dissolution
