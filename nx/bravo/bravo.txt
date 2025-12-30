@@ -16669,6 +16669,7 @@ bulanda
 blacking
 blanketeer
 buchanite
+bugs
 baronies
 bucharest
 buchloe
@@ -16967,7 +16968,6 @@ bugong
 burrah
 balloonlike
 bugout
-bugs
 bugweed
 blacktopped
 bugwort
