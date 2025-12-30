@@ -515,7 +515,6 @@ abkari
 amerism
 abkhasian
 ashtrays
-abl
 asperities
 ablates
 astroite
@@ -11213,6 +11212,7 @@ aquocellolitis
 amdahl
 antinosarian
 aminoformic
+abl
 amphirhinal
 antiprecipitin
 amphimixes
