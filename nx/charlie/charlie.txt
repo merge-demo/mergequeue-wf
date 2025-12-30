@@ -7103,7 +7103,6 @@ chronicles
 carrefour
 carroches
 cheap
-competitory
 cloaks
 choledochostomy
 centenier
@@ -22338,6 +22337,7 @@ congratulations
 congratulatory
 congree
 commandant
+competitory
 congregable
 congreganist
 crooks
