@@ -9440,7 +9440,6 @@ aphrodite
 animals
 acinarious
 attemperate
-antivenins
 alternatively
 alternativeness
 acaleph
@@ -16827,6 +16826,7 @@ avocational
 angelographer
 acquisitional
 apogamous
+antivenins
 administrators
 allodialist
 apositic
