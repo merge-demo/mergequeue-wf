@@ -4637,6 +4637,7 @@ eigenvalues
 enchyma
 estheticism
 exencephalus
+evalue
 electorally
 exquisitiveness
 efficaciously
@@ -11198,7 +11199,6 @@ ethereal
 embourgeoisement
 evolvement
 enterers
-evalue
 evanesced
 evanescence
 encephalomalacosis
