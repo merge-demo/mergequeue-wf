@@ -82,6 +82,7 @@ groupoid
 gallops
 grutten
 glauber
+gears
 gubernator
 gymnopaedes
 grill
@@ -7666,7 +7667,6 @@ girlies
 ghoster
 grimy
 globalized
-gears
 glancingly
 guenons
 guardianless
