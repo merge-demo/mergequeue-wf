@@ -10992,6 +10992,7 @@ excludes
 eurhythmic
 epichirema
 eoside
+electrochemist
 eigenfrequency
 escobita
 ecologically
@@ -11267,7 +11268,6 @@ ectoloph
 entelluses
 ethnologic
 eeling
-electrochemist
 entomologically
 endanger
 epichlorohydrin
