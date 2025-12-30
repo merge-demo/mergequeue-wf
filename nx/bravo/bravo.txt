@@ -8866,6 +8866,7 @@ bari
 banalities
 battery
 bedrivels
+blype
 bummalos
 bakelize
 barfed
@@ -10531,7 +10532,6 @@ bodywood
 burin
 blastomyces
 bainie
-blype
 blastomycete
 benignities
 beadsmen
