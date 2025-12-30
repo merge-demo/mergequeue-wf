@@ -10998,6 +10998,7 @@ bucketshop
 birdcatcher
 bughead
 blissom
+banal
 balden
 buxomer
 blistered
@@ -15520,7 +15521,6 @@ bakery
 bratstva
 birota
 bathofloric
-banal
 began
 bringers
 bodega
