@@ -5558,6 +5558,7 @@ catachresis
 chalices
 cercariae
 condemner
+cicisbeo
 catachthonic
 consummation
 cataclastic
@@ -13243,7 +13244,6 @@ ciceronically
 clearskins
 colocynthin
 cicisbeism
-cicisbeo
 chromometer
 cyclades
 clavichordist
