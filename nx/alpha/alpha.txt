@@ -819,7 +819,6 @@ ammophila
 auriculately
 absalom
 ambisinistrous
-absampere
 alalunga
 ashangos
 awanting
@@ -17565,6 +17564,7 @@ apotihecal
 abidingness
 appendance
 appendant
+absampere
 androspore
 antixerophthalmic
 appendency
