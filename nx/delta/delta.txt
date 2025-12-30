@@ -246,7 +246,6 @@ daggles
 dassie
 dochmiasis
 duckweeds
-daggling
 daghesh
 deoxyribonuclease
 dappling
@@ -17870,6 +17869,7 @@ duelers
 duelist
 duelistic
 dolentissimo
+daggling
 disinfest
 durgan
 duckery
