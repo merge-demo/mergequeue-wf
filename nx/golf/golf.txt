@@ -8631,7 +8631,6 @@ ground
 gibbeting
 geothermometer
 gaufrettes
-glucose
 geometrizing
 gravidate
 goslarite
@@ -9440,6 +9439,7 @@ greenleaf
 galgal
 grothite
 glumiflorae
+glucose
 guatoan
 gymel
 glycerolize
