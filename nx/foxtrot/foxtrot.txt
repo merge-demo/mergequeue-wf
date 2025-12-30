@@ -1214,7 +1214,6 @@ fenders
 flexural
 flinched
 fatuities
-feodatory
 freieslebenite
 foreignization
 funkias
@@ -5275,6 +5274,7 @@ falsedad
 fogy
 fockle
 fabricable
+feodatory
 fomenter
 forficula
 foresightedness
