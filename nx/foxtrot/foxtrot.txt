@@ -5225,6 +5225,7 @@ focoids
 fuse
 flav
 flavanilin
+favonius
 flavescence
 fingall
 filius
@@ -5952,7 +5953,6 @@ freemartin
 floodlight
 furzes
 forleave
-favonius
 frenchification
 frailly
 floodlilit
