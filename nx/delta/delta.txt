@@ -776,6 +776,7 @@ dandlers
 defs
 dispurpose
 drawn
+deglutinate
 devolatilize
 dandles
 discute
@@ -3723,7 +3724,6 @@ denial
 dehisce
 dasymeter
 dichromism
-deglutinate
 depot
 domitic
 delegated
