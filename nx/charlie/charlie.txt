@@ -1154,7 +1154,6 @@ calcite
 carollers
 cuppers
 cloddiness
-calcitic
 calcitrant
 calcitrate
 cataphatic
@@ -5723,6 +5722,7 @@ charlie
 catarrhous
 catarrhs
 coburgher
+calcitic
 catasarka
 catasetum
 chested
