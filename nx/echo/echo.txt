@@ -813,7 +813,6 @@ endothia
 exequies
 expulsed
 ectental
-eloigner
 ecthesis
 emmers
 epispadias
@@ -1241,6 +1240,7 @@ exorcismal
 endoplastular
 equvalent
 estamin
+eloigner
 equicaloric
 exstemporal
 extremal
