@@ -603,6 +603,7 @@ doff
 damnability
 damnabilities
 disegno
+diethylaminoethanol
 dawut
 deadrize
 disintegrating
@@ -4691,7 +4692,6 @@ deodorised
 demobilising
 democracy
 diploneural
-diethylaminoethanol
 democracies
 democrat
 dawdles
