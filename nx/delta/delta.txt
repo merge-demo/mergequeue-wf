@@ -6872,7 +6872,6 @@ dewlight
 drailed
 destriers
 dsp
-desolate
 dobroes
 desolated
 dahoons
@@ -15181,6 +15180,7 @@ dewooling
 dottle
 decolourisation
 decahydrate
+desolate
 dimna
 defunctness
 distributable
