@@ -6603,6 +6603,7 @@ digested
 deprecations
 deselected
 depiction
+distally
 dysmerogenesis
 deadborn
 duddie
@@ -11762,7 +11763,6 @@ dullardism
 dehydrogenize
 drawplate
 dexamethasone
-distally
 dogblow
 distributorship
 disported
