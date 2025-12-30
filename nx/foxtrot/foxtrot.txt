@@ -411,6 +411,7 @@ ficoes
 faq
 firetrap
 frustraneous
+frabjous
 fribbled
 fasciae
 fibrocartilaginous
@@ -1089,7 +1090,6 @@ fishling
 fastback
 farrisite
 fleerish
-frabjous
 firehalls
 forespeech
 figulate
