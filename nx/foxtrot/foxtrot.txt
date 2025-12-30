@@ -4318,6 +4318,7 @@ firns
 freespac
 fleshings
 formicivora
+feaked
 fibromatoid
 fatling
 fosslify
@@ -6559,7 +6560,6 @@ flamless
 furrings
 flibbertigibbets
 flattened
-feaked
 faunistical
 fluxionist
 fluxive
