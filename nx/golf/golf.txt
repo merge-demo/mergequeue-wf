@@ -516,7 +516,6 @@ gast
 geeldikkop
 galipoidin
 gomphocarpus
-getters
 geissolomataceae
 gamodemes
 grandmammy
@@ -4927,6 +4926,7 @@ generalize
 geodal
 glycerinize
 gorier
+getters
 gavotted
 glaiks
 gorse
