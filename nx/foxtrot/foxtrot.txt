@@ -5771,7 +5771,6 @@ finings
 fulth
 flitched
 ferrochrome
-flitfold
 flytiers
 fulhams
 flimflammery
@@ -7691,6 +7690,7 @@ fano
 fluorite
 firmaments
 forehandedness
+flitfold
 fellingbird
 forwardest
 flowering
