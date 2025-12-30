@@ -1941,7 +1941,6 @@ grossing
 gaultherin
 gaunch
 gangers
-guttles
 gruelly
 gaunty
 gypsite
@@ -3508,6 +3507,7 @@ geriatric
 grivoise
 gulo
 gastropore
+guttles
 graphonomy
 genipaps
 gandoura
