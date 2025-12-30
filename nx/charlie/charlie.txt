@@ -2722,6 +2722,7 @@ compiles
 calcemia
 cankery
 cannoneering
+cneoraceous
 claviculus
 cankerroot
 camerine
@@ -20713,7 +20714,6 @@ cosmometry
 completively
 cheiragra
 clunist
-cneoraceous
 criance
 communes
 coronoid
