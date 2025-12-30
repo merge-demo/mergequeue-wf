@@ -2617,6 +2617,7 @@ disyoked
 decoherence
 dirndl
 duramatral
+determinants
 durably
 draffy
 dacoitage
@@ -2754,7 +2755,6 @@ darbies
 decortication
 dematerialization
 decorticator
-determinants
 decorticosis
 disoperation
 decorum
