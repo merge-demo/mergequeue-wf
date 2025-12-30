@@ -4708,7 +4708,6 @@ figaro
 fairyish
 forsake
 fjord
-fancify
 fizziest
 friand
 forefeels
@@ -11430,6 +11429,7 @@ frowstiest
 forebemoaned
 founte
 fortunetell
+fancify
 formfeed
 furstone
 frizers
