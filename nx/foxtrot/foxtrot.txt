@@ -7109,6 +7109,7 @@ fungicide
 flanchard
 foolproof
 foolproofness
+frostlike
 ferret
 fibulare
 frocking
@@ -7155,7 +7156,6 @@ floodgate
 fairling
 forerunners
 failed
-frostlike
 figwort
 fishweir
 foleye
