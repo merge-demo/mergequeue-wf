@@ -3810,7 +3810,6 @@ carbide
 charlatanish
 classicize
 carbyl
-catchy
 cenacle
 clouters
 carbineer
@@ -8782,6 +8781,7 @@ concion
 convalescency
 coveys
 cappagh
+catchy
 crenelle
 chapelgoing
 cockpits
