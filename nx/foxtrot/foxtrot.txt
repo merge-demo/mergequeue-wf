@@ -3582,6 +3582,7 @@ fructification
 felinity
 floorway
 files
+femora
 fiddle
 filesniff
 freijo
@@ -5571,7 +5572,6 @@ furacious
 forfault
 fallaciously
 filamentar
-femora
 fiendlike
 flockowner
 fossicking
