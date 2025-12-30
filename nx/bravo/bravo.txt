@@ -3091,7 +3091,6 @@ berascaling
 bathetic
 basalts
 brecciating
-basaltware
 bombiccite
 basaree
 boycotting
@@ -15306,6 +15305,7 @@ brideweed
 bahiaite
 biochemics
 bosk
+basaltware
 bozo
 bullying
 belles
