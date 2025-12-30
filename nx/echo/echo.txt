@@ -5033,7 +5033,6 @@ epidendron
 euhemerist
 endia
 equerry
-endings
 emplace
 elaeomargaric
 enrolled
@@ -6505,6 +6504,7 @@ ensurance
 ensuring
 equators
 excited
+endings
 enrobe
 exposed
 enswathement
