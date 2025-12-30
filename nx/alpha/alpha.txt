@@ -8982,7 +8982,6 @@ anapsidan
 aden
 autarkically
 actinoids
-allotriophagy
 acrimony
 aefauld
 allotriophagia
@@ -21789,6 +21788,7 @@ acanaceous
 apparencies
 alloeotic
 appetibility
+allotriophagy
 auguries
 aenigma
 anionics
