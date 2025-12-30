@@ -3242,7 +3242,6 @@ elt
 elaters
 engendure
 eluating
-enambush
 extraschool
 eluctate
 elude
@@ -7473,6 +7472,7 @@ ephialtes
 excusal
 ebenaceae
 equisurface
+enambush
 enif
 esthesia
 exorbitantly
