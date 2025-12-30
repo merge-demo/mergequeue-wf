@@ -2498,7 +2498,6 @@ girdlelike
 gaucher
 golds
 gribbles
-gregarian
 glunches
 geyan
 gastroalbuminorrhea
@@ -4205,6 +4204,7 @@ glotum
 greying
 ges
 geod
+gregarian
 gleesome
 ganef
 gulflike
