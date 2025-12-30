@@ -2406,7 +2406,6 @@ deciliter
 druidry
 destituent
 doodads
-dispelled
 deploring
 donny
 dripstick
@@ -18195,6 +18194,7 @@ dropsy
 divinifying
 dunch
 disconcertion
+dispelled
 dasypeltis
 daniel
 dinucleotide
