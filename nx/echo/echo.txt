@@ -2934,7 +2934,6 @@ eleventeenth
 eleventh
 evicts
 excitation
-emplaning
 elevons
 eurydice
 elf
@@ -8233,6 +8232,7 @@ epistases
 epistasies
 energy
 enhancers
+emplaning
 epibenthos
 enrapturedly
 electromagnetist
