@@ -7808,7 +7808,6 @@ fettucine
 foremother
 frithbot
 flyblew
-flickery
 forbad
 faint
 fording
@@ -10998,6 +10997,7 @@ furfurol
 flatmate
 fumblers
 feign
+flickery
 fumbles
 fumblingness
 fumed
