@@ -7933,7 +7933,6 @@ futchel
 footeite
 fogyishness
 floccule
-ferd
 firehouses
 footslog
 fletching
@@ -10066,6 +10065,7 @@ fibrocystoma
 favors
 fringilline
 freedom
+ferd
 frothsome
 fonted
 foreleader
