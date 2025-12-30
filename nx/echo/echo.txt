@@ -2439,7 +2439,6 @@ entailment
 ehrwaldite
 ethionamide
 erythroclasis
-electroencephalogram
 empeople
 entophytal
 espinel
@@ -7082,6 +7081,7 @@ euphone
 efficiency
 embelia
 enlinked
+electroencephalogram
 entoiling
 enunciability
 ebonising
