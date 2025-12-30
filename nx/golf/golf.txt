@@ -7276,6 +7276,7 @@ garlicmonger
 greencloth
 governorate
 gourmands
+gaonate
 generosity
 gribble
 gleby
@@ -10033,7 +10034,6 @@ grf
 gemmule
 gigantostracous
 genealogic
-gaonate
 grammatolator
 geek
 gesneriaceous
