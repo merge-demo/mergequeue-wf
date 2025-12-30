@@ -4252,7 +4252,6 @@ gradometer
 galravitch
 generationism
 geodetics
-goniopholis
 gubbo
 gnu
 goby
@@ -10100,6 +10099,7 @@ grazes
 guesser
 gonads
 grub
+goniopholis
 guyot
 gresil
 galahs
