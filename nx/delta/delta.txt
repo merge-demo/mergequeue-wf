@@ -4565,7 +4565,6 @@ derere
 dights
 diastases
 dacryolin
-decard
 disorienting
 dellies
 disroof
@@ -5939,6 +5938,7 @@ disvaluation
 degrader
 departements
 deceiver
+decard
 deprivement
 disconcerts
 delenda
