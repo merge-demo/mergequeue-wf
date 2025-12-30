@@ -9153,6 +9153,7 @@ desoxycinchonine
 decalog
 diptych
 dialyse
+description
 doors
 delobranchiata
 dyeability
@@ -16216,7 +16217,6 @@ demagogs
 decanters
 darneder
 defusing
-description
 diacetamide
 diploidion
 dividualism
