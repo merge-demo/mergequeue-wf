@@ -8210,7 +8210,6 @@ bayaderes
 boiled
 bicolourous
 burfish
-bier
 broid
 baleens
 barkey
@@ -11777,6 +11776,7 @@ brynza
 bajocian
 breton
 bajree
+bier
 bobsledded
 berascal
 britoness
