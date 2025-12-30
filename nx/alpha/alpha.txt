@@ -13667,7 +13667,6 @@ anomalist
 aromatite
 andor
 asiatic
-anomalistical
 anomalocephalus
 apollinarianism
 archaistic
@@ -24083,6 +24082,7 @@ autoecic
 autonavigators
 accumulations
 antrostomus
+anomalistical
 accusatrix
 approximable
 autoecism
