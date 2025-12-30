@@ -5756,7 +5756,6 @@ forpass
 frise
 flocking
 flited
-frontate
 foge
 freckliness
 foehns
@@ -8549,6 +8548,7 @@ famulus
 fred
 frenchwise
 fluorographic
+frontate
 formulizing
 forgat
 flapdoodle
