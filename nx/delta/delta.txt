@@ -3842,7 +3842,6 @@ deionize
 degraduation
 dopatta
 decastyle
-dephlegm
 deselects
 disinteresting
 dissceptred
@@ -9806,6 +9805,7 @@ defacers
 darnings
 dactylosternal
 dissertation
+dephlegm
 downweighted
 duocosane
 dispapalize
