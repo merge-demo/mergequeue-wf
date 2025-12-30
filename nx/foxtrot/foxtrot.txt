@@ -2347,7 +2347,6 @@ floatstone
 fegs
 frolicky
 favoritism
-ferforth
 fossettes
 frapped
 falconiformes
@@ -6427,6 +6426,7 @@ filiety
 flaggier
 futurely
 foliates
+ferforth
 fireflower
 flibbertigibbet
 freshish
