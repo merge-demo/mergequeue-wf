@@ -20713,7 +20713,6 @@ ashlering
 affrap
 anamnesis
 articulations
-articulative
 anteroventrally
 alody
 agrostographic
@@ -22723,6 +22722,7 @@ archy
 agribusinesses
 athletical
 arizonite
+articulative
 athleticism
 antispadix
 averruncation
