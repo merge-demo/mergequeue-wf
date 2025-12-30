@@ -4652,6 +4652,7 @@ guttersnipish
 griggles
 graphometer
 gaonic
+goaded
 gasconade
 gummosis
 gamori
@@ -8232,7 +8233,6 @@ glueyness
 gazingstock
 galeodes
 grapery
-goaded
 geniohyoid
 gied
 grim
