@@ -1831,7 +1831,6 @@ geopolitically
 generalcies
 gousty
 gossypium
-gatemaker
 glyconics
 gerhardtite
 gregory
@@ -6239,6 +6238,7 @@ galloway
 giglot
 glue
 glucosidase
+gatemaker
 gonne
 greaves
 gopura
