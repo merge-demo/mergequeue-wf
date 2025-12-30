@@ -4806,6 +4806,7 @@ fasciolaria
 fancifulness
 floatiest
 fullwords
+flu
 formate
 faena
 fellowshipping
@@ -8939,7 +8940,6 @@ foundrous
 farhands
 flotative
 foragers
-flu
 fountain
 fragged
 fronded
