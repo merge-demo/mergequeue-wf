@@ -5361,6 +5361,7 @@ aecia
 avail
 afire
 acapnias
+anicut
 aflat
 agons
 argans
@@ -13033,7 +13034,6 @@ arsonous
 acidimetry
 aniconic
 aniconism
-anicut
 anidian
 anaerobism
 adullam
