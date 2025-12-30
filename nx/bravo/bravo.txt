@@ -13972,7 +13972,6 @@ boxcars
 bishopful
 barwing
 bowsie
-byerlite
 badinaging
 bacteriuria
 boxful
@@ -17162,6 +17161,7 @@ buckwheater
 basophilous
 bothropic
 barbera
+byerlite
 blackland
 baselike
 bestial
