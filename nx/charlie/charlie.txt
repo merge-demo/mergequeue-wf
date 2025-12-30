@@ -8361,6 +8361,7 @@ chalkiness
 chalking
 chalkline
 columnated
+chamberer
 chalkone
 chalkos
 chalkotheke
@@ -11607,7 +11608,6 @@ cubism
 caschielawis
 conveniens
 cholate
-chamberer
 cholates
 crafting
 calciphile
