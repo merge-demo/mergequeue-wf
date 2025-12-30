@@ -356,7 +356,6 @@ bottegas
 backgame
 backgammon
 board
-barbarical
 barwares
 breaststroke
 background
@@ -1564,6 +1563,7 @@ brevetcy
 blowtube
 ballgame
 ballhooter
+barbarical
 backslash
 balli
 buttering
