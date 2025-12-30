@@ -1664,7 +1664,6 @@ acculturated
 acculturates
 aeciotelium
 astr
-ancona
 anorganic
 alkalimeter
 arank
@@ -11287,6 +11286,7 @@ amphiumidae
 alcoholimeter
 alegar
 aposthume
+ancona
 amphodarch
 ampholytic
 anobiidae
