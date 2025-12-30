@@ -953,7 +953,6 @@ gumtree
 greekery
 gonoblast
 gastriloquism
-ganymedes
 gitanemuck
 gunstone
 gamophagy
@@ -5859,6 +5858,7 @@ goliards
 gallinaceous
 graphometrist
 gallywasp
+ganymedes
 gyle
 glucinium
 genteelest
