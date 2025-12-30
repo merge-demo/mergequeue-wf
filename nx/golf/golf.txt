@@ -3778,6 +3778,7 @@ garrafa
 gapping
 gastroesophagostomy
 goggle
+glomerule
 gunong
 giantsize
 gaub
@@ -7395,7 +7396,6 @@ gardenful
 gossipped
 gossips
 gestor
-glomerule
 gilthead
 glyptograph
 gallach
