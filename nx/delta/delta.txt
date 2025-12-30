@@ -9762,6 +9762,7 @@ dejectile
 diapaused
 discanonize
 debcle
+dahabiya
 disrupture
 dillymen
 durangite
@@ -11725,7 +11726,6 @@ degranulation
 devocalizing
 discreditability
 disci
-dahabiya
 delist
 deploredly
 damianist
