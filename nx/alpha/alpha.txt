@@ -333,7 +333,6 @@ allophylian
 accubitum
 alcoate
 auletris
-apodia
 acetonemia
 aftwards
 abends
@@ -674,6 +673,7 @@ allayment
 autotoxaemia
 acajous
 abortional
+apodia
 antiglobulin
 agametes
 aflagellar
