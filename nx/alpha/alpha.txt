@@ -359,7 +359,6 @@ aftercure
 aberrative
 acinose
 abetments
-ambulant
 andesitic
 antietam
 arsenide
@@ -19779,6 +19778,7 @@ arkansite
 anthraxolite
 arbory
 adrenally
+ambulant
 acylase
 all
 avdp
