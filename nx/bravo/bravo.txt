@@ -1191,6 +1191,7 @@ bakal
 biasteric
 bajoire
 buoys
+bewigs
 brawliest
 breth
 bridebed
@@ -14763,7 +14764,6 @@ bowlings
 brattled
 bronzer
 bawds
-bewigs
 bratwurst
 bename
 bibliopolic
