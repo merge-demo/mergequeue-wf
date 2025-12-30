@@ -8240,7 +8240,6 @@ electrofusion
 espies
 epipharyngeal
 etchers
-epistatic
 empyrosis
 episodial
 erythroscope
@@ -10448,6 +10447,7 @@ elaps
 equalities
 endothelium
 etiolated
+epistatic
 etiology
 europeanism
 enlacing
