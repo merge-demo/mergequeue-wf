@@ -3306,6 +3306,7 @@ gula
 gabback
 geneticists
 germanized
+goosewinged
 germanizer
 germanness
 ganging
@@ -9645,7 +9646,6 @@ gatefold
 guisarme
 galvanomagnetic
 gracileness
-goosewinged
 genson
 grozart
 gaeltacht
