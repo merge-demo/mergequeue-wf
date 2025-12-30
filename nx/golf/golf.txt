@@ -2510,6 +2510,7 @@ genderer
 geniohyoglossus
 grenado
 giffgaff
+garnisheement
 ghoulie
 graeme
 goshawks
@@ -6251,7 +6252,6 @@ genitures
 gelfomino
 goave
 gregorianizer
-garnisheement
 grecale
 gob
 greediness
