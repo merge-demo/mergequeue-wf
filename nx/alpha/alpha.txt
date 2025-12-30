@@ -19813,7 +19813,6 @@ affeerment
 attachable
 armangite
 adularia
-armarian
 auriculars
 adaptivity
 armariumaria
@@ -21863,6 +21862,7 @@ anaglyphics
 agnatic
 assyriological
 antimissile
+armarian
 amowt
 aspergilla
 astrobiology
