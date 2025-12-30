@@ -13126,7 +13126,6 @@ conclave
 conational
 countrypeople
 cyathiform
-connivent
 cyathophyllum
 confest
 cibarial
@@ -25754,6 +25753,7 @@ compote
 coronal
 cleruch
 corrigibly
+connivent
 corrigiola
 corrival
 corrivality

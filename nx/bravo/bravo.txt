@@ -4742,7 +4742,6 @@ busywork
 bedims
 basiophitic
 birdbrain
-bedizen
 boubas
 bedkey
 bandpass
@@ -6821,6 +6820,7 @@ bradypodoid
 bluehearts
 buprestidan
 bradylalia
+bedizen
 bertie
 belard
 bertolonia
