@@ -11193,7 +11193,6 @@ castrations
 chlamydosaurus
 catching
 chlamydoselachidae
-chlamydozoan
 chlamyphore
 carroting
 chlamyses
@@ -29098,6 +29097,7 @@ cornflour
 cringle
 chlorometric
 captivating
+chlamydozoan
 cervicobrachial
 castrensian
 clinally
