@@ -9250,7 +9250,6 @@ alopecoid
 antrectomy
 alophas
 alterman
-alorcinic
 alosa
 adjustive
 alouette
@@ -11662,6 +11661,7 @@ anaglyph
 annulism
 anisopleural
 anaglyphs
+alorcinic
 anaglypta
 aldim
 azomethine
