@@ -794,7 +794,6 @@ dungeon
 deckhead
 daneweed
 daneweeds
-detections
 disingenious
 dangerously
 dactyliomancy
@@ -1417,6 +1416,7 @@ dawk
 diapering
 dioptrate
 dogly
+detections
 dehydrogenates
 disassimilated
 dicarbonic
