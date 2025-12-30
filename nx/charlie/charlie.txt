@@ -4740,7 +4740,6 @@ charlock
 carpet
 carpetbag
 carpetbagger
-carpetbaggery
 chantage
 conchometry
 catty
@@ -20664,6 +20663,7 @@ chantant
 complainant
 complainants
 conventionism
+carpetbaggery
 canalized
 complained
 cruse
