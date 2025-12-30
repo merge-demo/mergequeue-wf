@@ -1778,6 +1778,7 @@ eyes
 encasing
 eyeseed
 entophytically
+ectosarcous
 eyeservant
 eyeshade
 exolve
@@ -6206,7 +6207,6 @@ esker
 ennobling
 embarren
 ensteel
-ectosarcous
 equipments
 exterritorialize
 evaporitic
