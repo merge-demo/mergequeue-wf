@@ -12241,7 +12241,6 @@ beretta
 borrows
 bargir
 besit
-brevis
 bacchides
 broomcorn
 brimstone
@@ -12735,6 +12734,7 @@ biometric
 bookhood
 bloodhounds
 bookings
+brevis
 belamcanda
 blah
 bareboat
