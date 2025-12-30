@@ -6000,6 +6000,7 @@ felspars
 flacon
 fumattoria
 foo
+flavedos
 fidiculae
 ferroelectrically
 fellowman
@@ -10271,7 +10272,6 @@ flamingoes
 foundationed
 ferronickel
 forebow
-flavedos
 frokin
 filum
 felstone
