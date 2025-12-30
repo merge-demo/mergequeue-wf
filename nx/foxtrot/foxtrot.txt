@@ -1416,7 +1416,6 @@ focometry
 fallibly
 firewood
 futchell
-forbar
 ferreted
 fattest
 floorer
@@ -4529,6 +4528,7 @@ fictive
 fusser
 fissura
 frugal
+forbar
 forwardsearch
 fractionized
 fumet
