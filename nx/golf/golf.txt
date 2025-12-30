@@ -3132,6 +3132,7 @@ graph
 gersum
 gelosin
 grassplot
+gagster
 georgemas
 germanite
 gurgles
@@ -6187,7 +6188,6 @@ gargarize
 glamorousness
 gladdening
 goalpost
-gagster
 gon
 geadephaga
 goaltender

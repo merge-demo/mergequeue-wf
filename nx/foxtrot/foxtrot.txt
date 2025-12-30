@@ -4450,6 +4450,7 @@ feste
 fate
 fishpole
 fishpoles
+fimbrillae
 flueless
 fazed
 fishponds
@@ -7640,7 +7641,6 @@ frogging
 foreffelt
 folioed
 fled
-fimbrillae
 flotten
 feminised
 fester
