@@ -8050,6 +8050,7 @@ enteroscope
 epiphanise
 ealdormen
 epiphanous
+erases
 expansiveness
 expiator
 embarred
@@ -8496,7 +8497,6 @@ epulo
 ecphoriae
 eurindic
 explants
-erases
 elongates
 epuration
 effodient
