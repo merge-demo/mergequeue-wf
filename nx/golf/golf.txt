@@ -1163,7 +1163,6 @@ gynaecomasty
 gorgonized
 genitory
 gig
-gonorrheic
 glabrescent
 grinned
 gezerah
@@ -9602,6 +9601,7 @@ grind
 gnus
 gingersnap
 grovellingly
+gonorrheic
 geishas
 gneissoid
 guester
