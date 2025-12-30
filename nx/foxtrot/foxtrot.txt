@@ -6904,7 +6904,6 @@ fallace
 folklores
 fp
 floatages
-fruity
 fifes
 foolishly
 fleme
@@ -9410,6 +9409,7 @@ fileted
 fantastical
 facing
 fettler
+fruity
 fogger
 frislet
 foxholes
