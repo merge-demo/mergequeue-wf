@@ -10979,6 +10979,7 @@ blinkers
 bael
 bellhop
 batement
+bouvardia
 benchmar
 blinkingly
 blinter
@@ -13783,7 +13784,6 @@ besmudging
 boutonnieres
 boutons
 barrelful
-bouvardia
 bouw
 butle
 bigheads
