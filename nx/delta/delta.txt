@@ -5444,7 +5444,6 @@ detectably
 deoppilate
 dep
 doss
-deorganization
 deistic
 decolouriser
 deregister
@@ -15589,6 +15588,7 @@ doodlesack
 demeanors
 dentolingual
 deconcatenate
+deorganization
 drying
 determinedly
 dool
