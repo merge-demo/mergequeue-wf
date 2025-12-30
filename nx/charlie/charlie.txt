@@ -1406,7 +1406,6 @@ chantages
 caliga
 caligate
 caligation
-caliginosity
 caliginously
 cyanin
 cunctipotent
@@ -19276,6 +19275,7 @@ coloenteritis
 closefitting
 colog
 choel
+caliginosity
 colognes
 cologs
 colola
