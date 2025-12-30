@@ -1350,7 +1350,6 @@ florentine
 flamen
 fatigable
 favorable
-fatigableness
 forfars
 frock
 flaggish
@@ -11401,6 +11400,7 @@ fidgeted
 flumdiddle
 forcemeat
 fisticuffing
+fatigableness
 flatterous
 fleurette
 filminess
