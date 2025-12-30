@@ -8059,7 +8059,6 @@ betrayal
 bicolors
 bidder
 bullescene
-biconically
 biconnected
 bouleuterion
 boildown
@@ -16657,6 +16656,7 @@ boother
 brember
 balza
 buccolabial
+biconically
 bucconinae
 buccopharyngeal
 braeside
