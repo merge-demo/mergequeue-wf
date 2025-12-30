@@ -3742,7 +3742,6 @@ depas
 doughlike
 dehorted
 defatigate
-dehorting
 digitoxin
 duckweed
 dehumanising
@@ -14702,6 +14701,7 @@ darioles
 djin
 disrespondency
 describe
+dehorting
 dowers
 doxies
 dieselize
