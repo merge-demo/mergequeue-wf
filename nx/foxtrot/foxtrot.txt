@@ -814,7 +814,6 @@ faun
 frogeyes
 formfitting
 fixatives
-fluctuations
 fanjet
 fastened
 flemings
@@ -2696,6 +2695,7 @@ fervor
 flamenco
 frondous
 fashions
+fluctuations
 fruitive
 ferriages
 figpecker
