@@ -9211,7 +9211,6 @@ chases
 chashitsu
 castigation
 countertruth
-carbureting
 cotonia
 chasma
 chasmed
@@ -22094,6 +22093,7 @@ confluxes
 confluxibility
 confluxible
 coempt
+carbureting
 champert
 conormal
 cheateries
