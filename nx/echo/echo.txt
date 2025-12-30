@@ -4680,6 +4680,7 @@ enchorial
 echinoderm
 exdelicto
 eild
+erminois
 evolve
 eremiteship
 enchoric
@@ -8111,7 +8112,6 @@ elegant
 epipterous
 epipubis
 expostulations
-erminois
 electrophotomicrography
 escarmouche
 epicoelia
