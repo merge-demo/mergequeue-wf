@@ -7159,7 +7159,6 @@ esophagometer
 episterna
 embarment
 enwall
-epistemonic
 eucaryote
 extraequilibrium
 enwallow
@@ -13988,6 +13987,7 @@ epicoracohumeral
 erenach
 exaltate
 extralimital
+epistemonic
 enfigure
 extrapolatory
 entemple
