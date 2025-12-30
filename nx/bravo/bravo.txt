@@ -1432,7 +1432,6 @@ bombastically
 balestra
 batoneer
 bouffants
-bops
 bedazzled
 bureaucratical
 bedye
@@ -14314,6 +14313,7 @@ bigotry
 begrudger
 blending
 brag
+bops
 bannut
 bodices
 brachials
