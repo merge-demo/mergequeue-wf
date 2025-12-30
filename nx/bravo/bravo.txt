@@ -10829,7 +10829,6 @@ bavin
 birthrate
 blocks
 bergamo
-branchiate
 balow
 bullbeggar
 bugbeardom
@@ -14977,6 +14976,7 @@ buccina
 birthy
 boccale
 breastpin
+branchiate
 barleybreak
 basketing
 breastplates
