@@ -3332,6 +3332,7 @@ definitions
 dormant
 dilatant
 deliriate
+dissonate
 diastem
 demitting
 derbukka
@@ -18511,7 +18512,6 @@ distortional
 demisavage
 dissilition
 durbars
-dissonate
 diau
 dured
 decollated
