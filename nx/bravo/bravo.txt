@@ -14684,6 +14684,7 @@ bunches
 benegro
 brashiness
 balducta
+beaconing
 bookplates
 bluets
 brokery
@@ -15845,7 +15846,6 @@ beggarwise
 bibacious
 bullied
 balas
-beaconing
 backlasher
 brokerly
 bradykinesia
