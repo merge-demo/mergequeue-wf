@@ -1141,6 +1141,7 @@ foghorns
 frumety
 feroher
 fidelis
+fico
 flax
 fatally
 fearbabe
@@ -9469,7 +9470,6 @@ familial
 fauld
 foeticide
 flag
-fico
 foglietto
 flamens
 fratry
