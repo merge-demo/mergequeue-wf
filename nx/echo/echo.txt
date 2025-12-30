@@ -12902,7 +12902,6 @@ engr
 eosaurus
 elaterite
 enticingly
-emplanement
 expeditiousness
 epithymetic
 evangeliary
@@ -13790,6 +13789,7 @@ egyptologist
 extortions
 equitative
 establishmentarianism
+emplanement
 extortive
 equiped
 epicheirema
