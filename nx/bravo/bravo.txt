@@ -555,7 +555,6 @@ balladling
 blunks
 bromcresol
 blottingly
-bishoped
 backwoodsy
 bacon
 befezzed
@@ -17876,6 +17875,7 @@ bushbody
 bushbuck
 belowground
 bushbucks
+bishoped
 batrachium
 bearbush
 begowk
