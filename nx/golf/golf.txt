@@ -1574,6 +1574,7 @@ gauntlet
 gulanganes
 galleria
 gunlock
+grangerised
 ganoidean
 gasterotheca
 gymnetrous
@@ -3060,7 +3061,6 @@ glom
 grypanian
 gluttonized
 gerate
-grangerised
 geomorphologically
 glycopexis
 geonavigation
