@@ -5596,7 +5596,6 @@ gervais
 gurges
 garuda
 ginks
-gipsyry
 gravestone
 gunks
 governance
@@ -9941,6 +9940,7 @@ genevese
 girderless
 glebes
 greylags
+gipsyry
 geoparallelotropic
 garble
 gateway
