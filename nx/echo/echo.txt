@@ -4829,7 +4829,6 @@ excipient
 epispastic
 enravishing
 exsuperance
-eltrot
 encomiumia
 encompassment
 epileptologist
@@ -8675,6 +8674,7 @@ eggcrate
 endnotes
 enmeshed
 elastometer
+eltrot
 equipedal
 endotheliomyoma
 earthshaking
