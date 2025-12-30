@@ -5197,7 +5197,6 @@ denominations
 dicty
 dine
 dalasi
-depolarisation
 dusun
 denotatively
 dauerlauf
@@ -17135,6 +17134,7 @@ dipodies
 dryly
 discrediting
 dullish
+depolarisation
 dematerialise
 divvers
 drunkenness
