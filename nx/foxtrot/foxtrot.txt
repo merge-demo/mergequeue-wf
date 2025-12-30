@@ -3670,7 +3670,6 @@ footman
 flourishes
 flaying
 furnacer
-financiered
 freshener
 futurama
 fructiferous
@@ -11229,6 +11228,7 @@ fount
 fleeing
 fustians
 flashcubes
+financiered
 formful
 fabricative
 flexuosities
