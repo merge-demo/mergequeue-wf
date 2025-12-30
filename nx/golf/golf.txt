@@ -9259,7 +9259,6 @@ grison
 gynecopathy
 grisons
 grandees
-genethlialogic
 goliard
 grisly
 glagolitic
@@ -9431,6 +9430,7 @@ gowans
 grizzled
 gazi
 genocide
+genethlialogic
 genesis
 grothine
 greenleaf
