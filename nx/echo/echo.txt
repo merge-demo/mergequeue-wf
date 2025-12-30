@@ -9075,7 +9075,6 @@ erythrocytoschisis
 epenthesis
 editorialist
 erythrocytosis
-embryogony
 ectasia
 epistropheus
 equivocations
@@ -10358,6 +10357,7 @@ electress
 ethnolinguist
 eaglets
 estensible
+embryogony
 erysibe
 elvers
 ecumenistic
