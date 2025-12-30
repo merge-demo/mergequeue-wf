@@ -648,6 +648,7 @@ affably
 attrist
 abominators
 abomine
+affecters
 abondance
 alluvials
 aimara
@@ -5962,7 +5963,6 @@ actinomycetal
 aghan
 aghas
 altruistic
-affecters
 allottee
 autoantibody
 apardon
