@@ -2125,7 +2125,6 @@ gingerroot
 glumiferous
 galla
 globosity
-glycoluric
 garon
 gaviae
 gentianaceae
@@ -8430,6 +8429,7 @@ gunplay
 ghawazi
 grainfield
 gallinacei
+glycoluric
 grandfatherish
 gildedness
 groundman
