@@ -9971,7 +9971,6 @@ epilobe
 etalage
 endamnify
 ensures
-etamins
 enamdar
 entepicondylar
 etape
@@ -10830,6 +10829,7 @@ eluent
 exemplars
 enoptromancy
 eimer
+etamins
 eudemony
 explodes
 engine
