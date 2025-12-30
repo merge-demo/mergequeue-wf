@@ -10136,6 +10136,7 @@ exacerbations
 exheredation
 emballonurid
 eupion
+earthquake
 enlure
 exemplifier
 epigraphical
@@ -11265,7 +11266,6 @@ evangelistic
 epedaphic
 epidictical
 exserts
-earthquake
 exundate
 ectoloph
 entelluses
