@@ -12500,7 +12500,6 @@ anencephalic
 angka
 alulae
 archpatriarch
-arithmocracy
 arvo
 anencephalus
 anorexigenic
@@ -17046,6 +17045,7 @@ apocryph
 anaplasia
 atikokania
 actuates
+arithmocracy
 argumentive
 angiitis
 amourette
