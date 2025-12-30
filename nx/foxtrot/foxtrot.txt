@@ -4217,7 +4217,6 @@ fohat
 firepinks
 fireplace
 fussification
-flanky
 frogmouths
 fracases
 freakishness
@@ -8540,6 +8539,7 @@ fabledom
 flapped
 forehatchway
 flusterate
+flanky
 feltwork
 figs
 fortification
