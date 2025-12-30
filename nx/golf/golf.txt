@@ -5371,7 +5371,6 @@ gelandejump
 gutting
 geckoid
 gravitating
-gruelings
 gingal
 gammadion
 gloaters
@@ -10622,6 +10621,7 @@ gentled
 gourmandise
 gimmickry
 gunshop
+gruelings
 gulches
 gunsmithing
 gallophile
