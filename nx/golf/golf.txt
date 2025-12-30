@@ -657,7 +657,6 @@ gastrojejunostomy
 gastrasthenia
 gliff
 galgulidae
-glint
 geeing
 geropiga
 gangboard
@@ -5922,6 +5921,7 @@ glumnesses
 groundsill
 gederathite
 gephyrocercal
+glint
 gemeinschaft
 glossocoma
 gibbers

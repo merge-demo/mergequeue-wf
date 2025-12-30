@@ -2793,7 +2793,6 @@ finlander
 facers
 flattops
 fumigatories
-fcomp
 feedman
 faunae
 faveolate
@@ -8114,6 +8113,7 @@ foveolae
 funkiest
 flatcar
 fingan
+fcomp
 flavouring
 fibrinoid
 feeble
