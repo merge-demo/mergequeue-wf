@@ -1791,7 +1791,6 @@ glutinate
 gestalten
 gangwaymen
 gastrostenosis
-gatehouses
 grueler
 gastrotomic
 gulsach
@@ -6665,6 +6664,7 @@ guffs
 gangliform
 gordius
 glossolabiopharyngeal
+gatehouses
 gucks
 ganda
 goneness
