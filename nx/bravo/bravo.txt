@@ -6798,6 +6798,7 @@ brittles
 bonnocks
 bin
 berserks
+bear
 berskin
 balize
 berhyme
@@ -12717,7 +12718,6 @@ bloatedness
 blipping
 bloomy
 biaswise
-bear
 bungarus
 boroughmongering
 baldachini
