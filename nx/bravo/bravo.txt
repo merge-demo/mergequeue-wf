@@ -9717,7 +9717,6 @@ bankrupcy
 bismuthate
 burhinus
 birchbark
-bismuthide
 beneficing
 browses
 bezzled
@@ -12521,6 +12520,7 @@ bumpily
 bonebreaker
 boned
 bonedry
+bismuthide
 broodier
 bellyflaught
 barcarolle
