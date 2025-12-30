@@ -12942,6 +12942,7 @@ appearance
 adulterator
 astrer
 aquilinity
+assonantic
 assimilable
 athelings
 alkalisable
@@ -24170,7 +24171,6 @@ afterlifetime
 autojigger
 autojuggernaut
 ancylocladus
-assonantic
 anthozoa
 achroodextrinase
 awakens
