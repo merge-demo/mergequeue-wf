@@ -9246,6 +9246,7 @@ guaka
 gunebo
 gibberosity
 grippleness
+galerite
 grazier
 giftedness
 gryllotalpa
@@ -9956,7 +9957,6 @@ gastroparalysis
 geoglyphic
 gepoun
 gedd
-galerite
 ghatwal
 glozer
 guitarfishes
