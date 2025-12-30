@@ -8203,7 +8203,6 @@ graftages
 gloomless
 gooey
 granuloblastic
-graphophonic
 guiba
 granulocyte
 gerontal
@@ -9556,6 +9555,7 @@ guanabano
 genipapada
 grs
 gristliness
+graphophonic
 guacico
 griminess
 groundkeeper
