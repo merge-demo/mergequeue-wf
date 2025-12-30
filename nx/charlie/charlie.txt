@@ -10500,7 +10500,6 @@ capiases
 chylaceous
 chilalgia
 consult
-chylangioma
 chilaria
 coppernose
 complimentable
@@ -23318,6 +23317,7 @@ clarksville
 ceiled
 curby
 coumarin
+chylangioma
 cliquishness
 closets
 consultive
