@@ -2639,7 +2639,6 @@ deforce
 dispose
 decolors
 duopsonies
-decolouration
 daedalean
 derf
 denunciated
@@ -9124,6 +9123,7 @@ didynamous
 diffractometer
 descend
 dunnage
+decolouration
 druggiest
 dilettanteship
 divorceuse
