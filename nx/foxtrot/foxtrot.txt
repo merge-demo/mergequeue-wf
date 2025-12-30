@@ -4997,6 +4997,7 @@ fact
 forestcraft
 fadeaway
 fringiest
+formalise
 frappeed
 flibbertigibbety
 figbird
@@ -10106,7 +10107,6 @@ feudatary
 firster
 foredecree
 feeblish
-formalise
 fearfulness
 folkmotes
 fennish
