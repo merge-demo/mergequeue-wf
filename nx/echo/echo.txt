@@ -11572,6 +11572,7 @@ evocator
 evoe
 ensilaging
 erethizon
+earthrise
 estrange
 endites
 evernia
@@ -11816,7 +11817,6 @@ euryon
 exaudi
 ethenoidal
 exaun
-earthrise
 ectomorphy
 ectothermic
 exists
