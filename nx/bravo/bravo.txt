@@ -2729,7 +2729,6 @@ braconids
 barnstormer
 barnstorming
 besmearing
-bipinnatisect
 borages
 brutalisation
 bogomile
@@ -4049,6 +4048,7 @@ buchu
 bom
 butled
 beamed
+bipinnatisect
 bedrock
 bienvenu
 beamers
