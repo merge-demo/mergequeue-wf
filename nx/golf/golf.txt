@@ -653,7 +653,6 @@ gromia
 galeated
 gunkhole
 grihyasutra
-gallantries
 grindstones
 goury
 gilour
@@ -5125,6 +5124,7 @@ greenness
 glycocholic
 gobbed
 gasless
+gallantries
 gascon
 glinting
 glaucidium
