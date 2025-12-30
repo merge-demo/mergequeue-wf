@@ -2755,7 +2755,6 @@ gunfire
 greenflies
 germanism
 gauger
-guestchamber
 gorraf
 gipped
 glanditerous
@@ -6263,6 +6262,7 @@ gadslid
 goateed
 guitarlike
 gregariousness
+guestchamber
 guttural
 ghostiest
 galidia
