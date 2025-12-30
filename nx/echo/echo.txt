@@ -1307,6 +1307,7 @@ eassel
 enteroid
 epyllia
 electrocardiogram
+emesis
 epicranius
 earthless
 effectiveness
@@ -3870,7 +3871,6 @@ emeses
 effigiate
 epalpate
 ethnobotanical
-emesis
 entrapment
 exemplarily
 exosculation
