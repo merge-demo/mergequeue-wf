@@ -3380,7 +3380,6 @@ caporals
 candlestick
 crozer
 catapetalous
-counterweighing
 capotasto
 capotastos
 choicest
@@ -7427,6 +7426,7 @@ cephalopathy
 cephalopharyngeal
 cephalophyma
 citramontane
+counterweighing
 cephalophine
 cryostats
 congenital
