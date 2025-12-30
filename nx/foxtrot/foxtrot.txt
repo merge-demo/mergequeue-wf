@@ -5141,6 +5141,7 @@ flickermouse
 fregit
 farmhousey
 fraile
+frighting
 frizzly
 foreadvise
 fellas
@@ -9961,7 +9962,6 @@ flocculated
 flavin
 frightens
 fontes
-frighting
 ferulaceous
 feedhead
 fumiduct
