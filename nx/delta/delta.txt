@@ -2137,7 +2137,6 @@ diabolology
 diphosphoric
 downtime
 disturbs
-diosmosis
 decantist
 decaffeinated
 decapitates
@@ -4855,6 +4854,7 @@ discage
 diluting
 deigns
 diminuendo
+diosmosis
 dialogist
 demonologer
 demonology
