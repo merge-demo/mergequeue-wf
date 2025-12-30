@@ -5351,7 +5351,6 @@ arided
 aphacia
 adulterated
 afghans
-aficionada
 aficionadas
 alfridary
 antiloemic
@@ -18902,6 +18901,7 @@ addoom
 aphelian
 aldohexose
 ausu
+aficionada
 aposafranine
 archilute
 archimagus
