@@ -10032,7 +10032,6 @@ adrenal
 arles
 anconeus
 alchymies
-astral
 antimonarchists
 antasthmatic
 amblystegite
@@ -20214,6 +20213,7 @@ autooxidation
 arrestingly
 arrestive
 assuagements
+astral
 autodigestive
 anomalistically
 ascanius
