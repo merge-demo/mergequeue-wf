@@ -4600,7 +4600,6 @@ depose
 dinic
 demisang
 dulcite
-demisangue
 didine
 douzaines
 dereliction
@@ -7681,6 +7680,7 @@ doodia
 deviled
 dallis
 demonically
+demisangue
 devilet
 duits
 defuse
