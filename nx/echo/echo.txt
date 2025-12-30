@@ -7733,6 +7733,7 @@ emergents
 englify
 ensure
 estopping
+enterprising
 equips
 edelweisses
 ethinamate
@@ -9191,7 +9192,6 @@ emmew
 entonic
 erraticalness
 exuviation
-enterprising
 engines
 enfork
 enchodus
