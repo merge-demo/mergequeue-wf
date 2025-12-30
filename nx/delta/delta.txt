@@ -1466,7 +1466,6 @@ discerptibility
 disinherison
 dipropellant
 deuteroplasm
-disrest
 dories
 dispulp
 dazement
@@ -10739,6 +10738,7 @@ deutonephron
 daintiest
 diploperistomic
 dipstick
+disrest
 diazotize
 divinization
 dipteraceae
