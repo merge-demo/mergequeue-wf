@@ -6726,6 +6726,7 @@ amitabha
 acotyledon
 arresting
 angularity
+anatomic
 airbusses
 antibias
 axometer
@@ -17099,7 +17100,6 @@ aile
 aptera
 antipopulism
 ameliorator
-anatomic
 atropa
 agoranome
 anticlea
