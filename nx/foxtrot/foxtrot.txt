@@ -3472,7 +3472,6 @@ fumaroid
 figshell
 foe
 flankard
-fury
 ficins
 fordays
 floorhead
@@ -6686,6 +6685,7 @@ formicariae
 foofaraws
 freshwater
 finely
+fury
 foreface
 flaughtbred
 frequent
