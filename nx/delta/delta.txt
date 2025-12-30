@@ -1067,6 +1067,7 @@ darshan
 dampening
 darsonval
 deontology
+detrimentality
 disbanding
 darters
 dearticulation
@@ -16000,7 +16001,6 @@ decrepitude
 direct
 double
 dotter
-detrimentality
 discommodious
 doubleheartedness
 doddypoll
