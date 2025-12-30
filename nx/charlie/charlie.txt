@@ -4413,7 +4413,6 @@ constructs
 canichana
 culvertage
 cataphrygian
-cyclase
 confidentiality
 cobwebbed
 carillonneur
@@ -27593,6 +27592,7 @@ coving
 carapus
 covinous
 covisitor
+cyclase
 conventicler
 chorda
 covite
