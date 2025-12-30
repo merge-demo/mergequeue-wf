@@ -296,6 +296,7 @@ firbolg
 flagarie
 fissle
 foxfire
+flensing
 feudalised
 fledges
 fragmentisation
@@ -6543,7 +6544,6 @@ fluttering
 forswears
 feedboard
 foils
-flensing
 flutterment
 flimflammed
 fluviolacustrine
