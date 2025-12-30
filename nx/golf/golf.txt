@@ -2805,6 +2805,7 @@ gathers
 gazettal
 grigris
 gormless
+glassophone
 glottalite
 gloiopeltis
 guilloche
@@ -9833,7 +9834,6 @@ gnotobiotics
 garpikes
 greasewood
 generous
-glassophone
 gibbets
 guayabi
 guaiac
