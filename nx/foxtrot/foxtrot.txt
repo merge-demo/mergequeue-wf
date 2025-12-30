@@ -3022,7 +3022,6 @@ friendlies
 furrows
 fustin
 fiber
-fiberizes
 fritillary
 formolite
 federalists
@@ -10946,6 +10945,7 @@ founder
 foreseing
 fooled
 fulzie
+fiberizes
 favositidae
 floodless
 frothiest
