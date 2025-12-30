@@ -5458,7 +5458,6 @@ figurativeness
 formulator
 famished
 foresummer
-feridjee
 fanatic
 farmerish
 fleeter
@@ -7010,6 +7009,7 @@ fraenulum
 foozled
 felsite
 foreaccustom
+feridjee
 ferniest
 fruitwoman
 flexions
