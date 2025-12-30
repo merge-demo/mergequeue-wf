@@ -1489,7 +1489,6 @@ balkiness
 balking
 budgy
 backbiter
-boyarisms
 blighter
 balkish
 bodaciously
@@ -5200,6 +5199,7 @@ bellbind
 beardfish
 befriender
 blasphemously
+boyarisms
 balanoblennorrhea
 befriending
 barns
