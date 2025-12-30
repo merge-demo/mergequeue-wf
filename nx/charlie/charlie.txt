@@ -5647,6 +5647,7 @@ catalo
 cataloes
 cataloged
 character
+coelomatic
 cariousness
 ciconiidae
 crochet
@@ -8775,7 +8776,6 @@ calin
 carbonylating
 caconym
 chape
-coelomatic
 cobriform
 chapeled
 concion
