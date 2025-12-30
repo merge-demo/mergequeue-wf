@@ -142,6 +142,7 @@ biocoenosis
 beeheaded
 bailiffwick
 beachcomb
+benzene
 butyrically
 bestab
 backlog
@@ -5721,7 +5722,6 @@ beliefful
 bundobust
 bikram
 bahts
-benzene
 blastule
 bebeast
 bemuzzles
