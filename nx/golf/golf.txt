@@ -8847,7 +8847,6 @@ grossularia
 grossest
 gauntleting
 germain
-griddler
 galleys
 gallus
 globate
@@ -9301,6 +9300,7 @@ gesithcund
 garo
 gravies
 gigabyte
+griddler
 gigglesome
 groceryman
 goitre
