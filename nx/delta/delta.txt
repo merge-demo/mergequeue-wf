@@ -1655,7 +1655,6 @@ daw
 deamination
 deaminize
 deammonation
-deashing
 dichastic
 dandle
 deanships
@@ -4607,6 +4606,7 @@ demonstrableness
 densimetry
 denominates
 denarius
+deashing
 diswench
 demiscible
 dicebox
