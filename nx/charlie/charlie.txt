@@ -5077,7 +5077,6 @@ curses
 carvoeira
 carvoepra
 carwash
-clamatorial
 carwashes
 chider
 carzey
@@ -24383,6 +24382,7 @@ caviling
 cholinergic
 coolest
 cattleless
+clamatorial
 coned
 crosspiece
 coolheadedly
