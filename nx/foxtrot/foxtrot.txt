@@ -10062,7 +10062,6 @@ fimbles
 farmerlike
 frixion
 frogskin
-fortune
 fibrocystoma
 favors
 fringilline
@@ -10512,6 +10511,7 @@ florimanist
 freshment
 frillery
 frot
+fortune
 fanman
 fittingly
 flyback
