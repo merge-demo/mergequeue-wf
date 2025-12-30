@@ -2961,7 +2961,6 @@ geomance
 gibes
 geminorum
 gerenuks
-gastroenterostomy
 goofah
 geomant
 gasaliers
@@ -9144,6 +9143,7 @@ gablatores
 grumose
 guttation
 geophagist
+gastroenterostomy
 guillemet
 grindable
 gibbose
