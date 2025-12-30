@@ -5542,6 +5542,7 @@ experimenting
 exoterics
 espiritual
 enfeebles
+eyestones
 enfeebling
 eucarida
 epigrammatised
@@ -12469,7 +12470,6 @@ escalading
 escheatable
 exility
 exanthem
-eyestones
 educatory
 enneadic
 electrifying
