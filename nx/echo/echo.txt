@@ -10283,7 +10283,6 @@ excipulum
 etherol
 experimentize
 electronography
-ephemera
 ethmyphitis
 existents
 exomorphic
@@ -11462,6 +11461,7 @@ encipherment
 ethanim
 elucidation
 engraving
+ephemera
 ejido
 evocated
 ectonephridium

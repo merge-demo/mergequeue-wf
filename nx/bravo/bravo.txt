@@ -4420,7 +4420,6 @@ booleans
 bevomiting
 butyrousness
 bickers
-bushwhacker
 bathyseism
 beclaw
 besieged
@@ -11693,6 +11692,7 @@ bisymmetric
 badju
 boatsteerer
 biracialism
+bushwhacker
 buddies
 brandying
 bilsted
