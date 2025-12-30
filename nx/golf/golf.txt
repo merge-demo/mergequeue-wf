@@ -6394,7 +6394,6 @@ gospelwards
 germanophile
 greenwort
 gradatim
-guesstimate
 glossophaga
 galloped
 gamesomeness
@@ -9506,6 +9505,7 @@ gravedigger
 gladiate
 glossy
 gravific
+guesstimate
 ganser
 glossographical
 gleeishly

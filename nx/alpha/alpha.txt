@@ -61,6 +61,7 @@ abacus
 alcheringa
 abaddon
 abadengo
+autoimmune
 aerially
 argusfish
 arcadian
@@ -2039,7 +2040,6 @@ achape
 achaque
 acharya
 apatheia
-autoimmune
 antimatrimonialist
 alopiidae
 acharne
