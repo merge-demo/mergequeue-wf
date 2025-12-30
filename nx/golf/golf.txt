@@ -6577,7 +6577,6 @@ genesiac
 gpcd
 glaziest
 ganowanian
-gnatty
 gelatification
 grovelingly
 gleditsia
@@ -9645,6 +9644,7 @@ gallows
 gatefold
 guisarme
 galvanomagnetic
+gnatty
 gracileness
 genson
 grozart
