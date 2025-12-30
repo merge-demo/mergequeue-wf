@@ -5110,7 +5110,6 @@ grenadine
 goldeneye
 greesagh
 gte
-glathsheimr
 ginnel
 greenness
 gourmander
@@ -9114,6 +9113,7 @@ grimmiaceae
 ganglionectomies
 girthline
 glutination
+glathsheimr
 goadster
 gyres
 gease
