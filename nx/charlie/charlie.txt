@@ -2202,7 +2202,6 @@ cynicist
 coffeecup
 campyloneuron
 cakey
-campylotropal
 campylotropous
 campimeter
 conches
@@ -25892,6 +25891,7 @@ correction
 curette
 convertable
 corset
+campylotropal
 corsetier
 concluding
 corsetiere
