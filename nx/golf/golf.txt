@@ -663,7 +663,6 @@ gangboard
 gonitis
 giddify
 genearch
-geoaesthesia
 giterne
 grapelet
 gelosine
@@ -4573,6 +4572,7 @@ geoagronomic
 girds
 guaranies
 grids
+geoaesthesia
 girella
 gracefully
 girellidae
