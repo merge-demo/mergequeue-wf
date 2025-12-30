@@ -215,7 +215,6 @@ fanons
 fatiscence
 forborne
 futurist
-fenestellidae
 figuline
 faire
 fishingly
@@ -6471,6 +6470,7 @@ fernbird
 furiosa
 footage
 fumagine
+fenestellidae
 fouquieriaceous
 flightful
 funambulation
