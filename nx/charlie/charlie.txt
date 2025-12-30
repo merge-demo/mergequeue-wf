@@ -8436,6 +8436,7 @@ ceratorhine
 camanchaca
 chambers
 chambertin
+chelonia
 chambioa
 chambray
 copei
@@ -9848,7 +9849,6 @@ cydon
 chellean
 cheloids
 cutinizing
-chelonia
 contrails
 chelonian
 cheloniidae

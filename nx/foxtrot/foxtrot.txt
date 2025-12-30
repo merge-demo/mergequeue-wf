@@ -2886,7 +2886,6 @@ find
 febricide
 fibrose
 factors
-fimbricate
 featuring
 feudalists
 fractionising
@@ -10814,6 +10813,7 @@ ferntickled
 fluxure
 feff
 fibrohemorrhagic
+fimbricate
 foretopmast
 farcify
 festilogy
