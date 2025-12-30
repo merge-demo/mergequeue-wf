@@ -8251,6 +8251,7 @@ diiodid
 dubitancy
 deathcup
 diagnostician
+distillery
 diagnosticians
 dispopularize
 dizzy
@@ -13913,7 +13914,6 @@ distillator
 danebrog
 distillatory
 deflagrations
-distillery
 depreciant
 dynamogeneses
 deodand
