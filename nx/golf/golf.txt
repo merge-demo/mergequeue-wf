@@ -10491,7 +10491,6 @@ ginglymodi
 guestwise
 gilravage
 gumshoeing
-gumweed
 galangals
 geerah
 gramenite
@@ -10584,6 +10583,7 @@ geologic
 gelds
 gens
 greaser
+gumweed
 grandisonian
 grenadier
 gonidium
