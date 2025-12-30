@@ -3058,7 +3058,6 @@ cantraps
 chares
 curlyheads
 centrales
-cantrip
 chivalric
 cantus
 cantuta
@@ -14007,6 +14006,7 @@ croy
 cacique
 corruptions
 cionitis
+cantrip
 culprits
 cionorrhaphia
 conciliates
