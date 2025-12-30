@@ -1,6 +1,5 @@
 coredemptress
 caapeba
-codpieces
 cephalad
 concrement
 caatinga
@@ -21326,6 +21325,7 @@ conch
 concha
 corniches
 countenance
+codpieces
 celiitis
 cogitated
 coterminously
