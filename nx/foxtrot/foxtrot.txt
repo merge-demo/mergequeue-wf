@@ -1204,7 +1204,6 @@ fasherie
 fusilier
 foolishness
 fashing
-fleeted
 fritt
 fiddley
 fascinate
@@ -9242,6 +9241,7 @@ frayedness
 fabulize
 fidging
 flagmaking
+fleeted
 flashier
 finnac
 forpining
