@@ -2704,6 +2704,7 @@ clingfish
 canker
 cankerberry
 cankerbird
+capitonidae
 chaperone
 carriable
 cippi
@@ -3056,7 +3057,6 @@ cantraip
 cantraps
 chares
 curlyheads
-capitonidae
 centrales
 cantrip
 chivalric
