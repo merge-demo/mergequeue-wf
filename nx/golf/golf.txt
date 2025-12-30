@@ -3722,7 +3722,6 @@ ghostish
 gelatigenous
 gracilescent
 gussying
-guppy
 glossiphonia
 gadgeteer
 goes
@@ -5806,6 +5805,7 @@ geometric
 gaveller
 gunflint
 gadarene
+guppy
 gloveman
 gumtrees
 growthy
