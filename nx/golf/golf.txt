@@ -2030,7 +2030,6 @@ greiges
 guazuti
 gabbled
 gavelock
-gasterosteid
 givenness
 gliridae
 gyroscopics
@@ -4379,6 +4378,7 @@ grylli
 gunky
 guz
 glottochronology
+gasterosteid
 ginglymostomoid
 gondi
 gardened
