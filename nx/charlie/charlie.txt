@@ -19342,6 +19342,7 @@ commentate
 colonnade
 coughwort
 colonnaded
+chat
 choreographical
 colonnette
 congregationer
@@ -29630,7 +29631,6 @@ cystadenoma
 chrominance
 chimariko
 copyholding
-chat
 crocodility
 cattishly
 cognizer
