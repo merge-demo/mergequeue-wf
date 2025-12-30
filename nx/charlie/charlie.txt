@@ -11383,7 +11383,6 @@ ctimo
 copelidine
 chaneled
 chloromata
-chlorometer
 chloromethane
 chlorometry
 categorem
@@ -17194,6 +17193,7 @@ coprophobic
 caddisfly
 creek
 coaters
+chlorometer
 churliest
 crescograph
 chummer
