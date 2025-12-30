@@ -1222,6 +1222,7 @@ bakli
 baymen
 boches
 biscot
+biremes
 bearhide
 balloting
 benzyl
@@ -5819,7 +5820,6 @@ bellhouse
 belli
 buckstone
 bellyache
-biremes
 burmannia
 bandstop
 bellyached
