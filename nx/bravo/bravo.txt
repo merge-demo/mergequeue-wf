@@ -5856,7 +5856,6 @@ bestrews
 butyrals
 boor
 beadier
-barbermonger
 blacklisted
 boozily
 bellyland
@@ -17938,6 +17937,7 @@ bibliopoly
 bromgelatin
 bushman
 bisinuate
+barbermonger
 benignant
 bushmasters
 bagwoman
