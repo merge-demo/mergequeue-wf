@@ -4271,6 +4271,7 @@ greenwithe
 geoform
 gymnotid
 goon
+galilean
 gantleting
 gramophones
 gusto
@@ -7521,7 +7522,6 @@ gassiness
 globulousness
 geostrategic
 gaet
-galilean
 gambols
 gelatinizable
 garapato
