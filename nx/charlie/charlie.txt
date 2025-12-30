@@ -2308,6 +2308,7 @@ canaigre
 canaille
 canailles
 cymoid
+clearish
 chargeship
 commonwealth
 cubitoplantar
@@ -15837,7 +15838,6 @@ clearinghouse
 congratulating
 chauffeur
 clearinghouses
-clearish
 condescendence
 clears
 cerealian
