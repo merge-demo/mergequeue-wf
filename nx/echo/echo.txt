@@ -1083,7 +1083,6 @@ endothelial
 embeddable
 echinology
 elective
-edification
 elaidate
 exfigure
 earock
@@ -1180,6 +1179,7 @@ expectancies
 edriophthalmatous
 extramental
 educand
+edification
 emulsive
 evanished
 educatability
