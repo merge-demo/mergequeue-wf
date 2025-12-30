@@ -15900,7 +15900,6 @@ drench
 dossennus
 dressings
 decapodiform
-dosser
 dosseret
 dempster
 dosses
@@ -16434,6 +16433,7 @@ decidement
 derivately
 defogger
 dwaible
+dosser
 delirate
 diachyma
 drabbler
