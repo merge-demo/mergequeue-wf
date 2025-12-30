@@ -5848,6 +5848,7 @@ berseem
 bittock
 bribeworthy
 baigneuse
+brimfull
 bellyful
 bestrews
 butyrals
@@ -15050,7 +15051,6 @@ burtons
 besmoke
 barramundis
 bemusedly
-brimfull
 basenji
 badges
 buro
