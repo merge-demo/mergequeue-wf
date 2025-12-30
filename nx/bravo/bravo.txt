@@ -782,7 +782,6 @@ blautok
 baetulus
 boothose
 batrachophobia
-benignness
 blake
 baffies
 bibliotist
@@ -5483,6 +5482,7 @@ behither
 berrigan
 bedraped
 bendways
+benignness
 bechamel
 buffaloes
 bonce
