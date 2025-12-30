@@ -1567,7 +1567,6 @@ frotteur
 faulkner
 funning
 fortyfold
-flights
 farcelike
 frisca
 filariidae
@@ -9482,6 +9481,7 @@ flounderingly
 fratricelli
 furculum
 fastwalk
+flights
 fidele
 fumarates
 figboy
