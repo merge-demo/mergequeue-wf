@@ -5074,7 +5074,6 @@ glassful
 gonotocont
 grapplers
 gloxinia
-glasshouses
 gateaux
 graecizes
 gasts
@@ -10430,6 +10429,7 @@ gluiness
 gyneolatry
 geologician
 goney
+glasshouses
 gardbrace
 gutweed
 gruffy
