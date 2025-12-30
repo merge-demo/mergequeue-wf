@@ -323,7 +323,6 @@ forespent
 fag
 feint
 factorial
-fostell
 finagles
 fibrillated
 finochio
@@ -9642,6 +9641,7 @@ fleabugs
 firing
 featherbone
 firemaster
+fostell
 forlet
 freeholdership
 feeders
