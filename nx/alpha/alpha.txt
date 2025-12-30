@@ -2415,6 +2415,7 @@ argemone
 afterfeed
 aftertime
 ackmen
+akroteria
 acanthocephali
 algonquin
 aluminized
@@ -7085,7 +7086,6 @@ akre
 akrochordite
 allophore
 akroter
-akroteria
 arithmetization
 aktistetae
 aku
