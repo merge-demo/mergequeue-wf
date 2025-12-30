@@ -3592,6 +3592,7 @@ epidesmine
 emboscata
 exclusionary
 ectoglia
+entrap
 electrometallurgist
 embosoming
 euchlaena
@@ -6879,7 +6880,6 @@ epidermoidal
 educability
 entomologist
 entomologize
-entrap
 entomologized
 enstatolite
 exaugurate
