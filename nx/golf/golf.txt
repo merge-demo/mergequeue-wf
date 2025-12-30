@@ -3153,6 +3153,7 @@ gets
 ghilzai
 geoscientists
 gellant
+gourounut
 gavotte
 glowered
 ginnings
@@ -7093,7 +7094,6 @@ guelphic
 giottesque
 glaces
 gestalter
-gourounut
 gaus
 gunwales
 grader
