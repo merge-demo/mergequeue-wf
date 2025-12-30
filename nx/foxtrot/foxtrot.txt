@@ -5244,7 +5244,6 @@ fortemente
 fratcher
 flavoriness
 falangist
-faveoli
 fitful
 fierceness
 fishmen
@@ -6026,6 +6025,7 @@ floreating
 folletto
 flabbiness
 fresco
+faveoli
 fermorite
 fluotitanate
 flightiness
