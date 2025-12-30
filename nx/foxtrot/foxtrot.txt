@@ -1142,7 +1142,6 @@ facials
 fiberization
 foghorns
 frumety
-feroher
 fidelis
 fico
 flax
@@ -6506,6 +6505,7 @@ footages
 filches
 fluted
 featherbedded
+feroher
 faintish
 flameless
 filmlands
