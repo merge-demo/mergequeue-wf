@@ -8599,6 +8599,7 @@ beetrooty
 beshawled
 billbug
 biller
+breechblock
 blackeye
 brantcorn
 brawlis
@@ -11842,7 +11843,6 @@ biquadrate
 bock
 bullishly
 bigamists
-breechblock
 bocoy
 bod
 beadeye
