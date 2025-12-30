@@ -3168,6 +3168,7 @@ arty
 anamnia
 admonished
 acropathy
+anestrus
 actualistic
 allolalic
 annamese
@@ -14084,7 +14085,6 @@ antemeridian
 anukit
 antemetallic
 afoot
-anestrus
 antemillennial
 aurorally
 ambulomancy
