@@ -4223,7 +4223,6 @@ gunned
 grovel
 geologer
 gois
-gaetuli
 gyromagnetic
 galvanomagnetism
 gynaecological
@@ -5582,6 +5581,7 @@ glucaemia
 gumming
 gripless
 geochemist
+gaetuli
 geophysical
 gefilte
 gownlet
