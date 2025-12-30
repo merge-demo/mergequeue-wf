@@ -1642,7 +1642,6 @@ eheu
 explanatively
 exotoxin
 ehretiaceae
-env
 entrez
 enterobacterium
 eyah
@@ -2582,6 +2581,7 @@ extremes
 exploitatively
 enchanters
 etrogs
+env
 elastins
 exenteration
 escapeful
