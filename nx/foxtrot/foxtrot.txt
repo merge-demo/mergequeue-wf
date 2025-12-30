@@ -3310,7 +3310,6 @@ folklorist
 featherlessness
 frustrates
 fioritura
-fairings
 fulgide
 feture
 flabbergastation
@@ -11506,6 +11505,7 @@ federalizes
 fundamentally
 fubby
 foaling
+fairings
 foretopmen
 fibrolipomatous
 fogdom
