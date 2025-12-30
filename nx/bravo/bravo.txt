@@ -4158,7 +4158,6 @@ bearwort
 boanthropy
 bravadoing
 bacons
-biomedical
 blenched
 bronchiolitis
 boroglyceride
@@ -17534,6 +17533,7 @@ biognosis
 burbot
 bleak
 beata
+biomedical
 bromopicrin
 bidenticulate
 bathukolpic
