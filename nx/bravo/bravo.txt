@@ -1670,7 +1670,6 @@ buglers
 buried
 besprinkling
 botony
-balmarcodes
 balmawhapple
 bimodality
 birdwatch
@@ -10337,6 +10336,7 @@ bladderwort
 blading
 beleaguerer
 besmircher
+balmarcodes
 basiglandular
 bosporian
 bladewise
