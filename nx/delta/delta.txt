@@ -173,7 +173,6 @@ daedalea
 didromies
 degami
 dibromid
-daedalic
 diminish
 drachmai
 damas
@@ -2309,6 +2308,7 @@ digestors
 dynamical
 deliberant
 decentralising
+daedalic
 duckhunting
 dhurrie
 decentralize
