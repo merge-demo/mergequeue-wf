@@ -4468,6 +4468,7 @@ gaetulan
 grasserie
 gualaca
 gunlayer
+grippy
 gypped
 giardia
 gyp
@@ -7994,7 +7995,6 @@ glossina
 goniatitid
 gynecologic
 getups
-grippy
 glandiform
 grandiosity
 gudok
