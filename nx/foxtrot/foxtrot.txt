@@ -7526,6 +7526,7 @@ fleetest
 fother
 freeholders
 faultily
+friendship
 fergus
 fellatah
 fullface
@@ -11616,7 +11617,6 @@ forfouchten
 funestal
 forehew
 fumy
-friendship
 forwake
 fetlow
 fineness
