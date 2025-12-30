@@ -5872,7 +5872,6 @@ frustulose
 fibula
 film
 feyer
-fluctuation
 festine
 fecund
 fistfight
@@ -9582,6 +9581,7 @@ fraternality
 fotched
 fursemide
 floreated
+fluctuation
 filigraned
 fullering
 forepad
