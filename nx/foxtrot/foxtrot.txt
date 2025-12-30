@@ -5804,7 +5804,6 @@ forgettingly
 fastigium
 fellowess
 foreswearing
-filmer
 flamingly
 flittermouse
 fellowship
@@ -9218,6 +9217,7 @@ flaming
 fragileness
 ficiform
 foreknown
+filmer
 fucus
 fledged
 firebugs

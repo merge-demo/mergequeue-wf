@@ -4384,7 +4384,6 @@ esoenteritis
 exotically
 embrasure
 elenchi
-enantiomorph
 encratic
 eunuchized
 elenchtical
@@ -7570,6 +7569,7 @@ epichondrosis
 esparto
 epichordal
 erosely
+enantiomorph
 enterocoelous
 ensnarled
 exorcistic
