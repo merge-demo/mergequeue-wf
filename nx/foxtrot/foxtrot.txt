@@ -1826,7 +1826,6 @@ flabellum
 fating
 feedbags
 flexographic
-frostnipped
 feminist
 farcicality
 funambulate
@@ -9951,6 +9950,7 @@ fittable
 friezer
 fulgurantly
 fiercely
+frostnipped
 frig
 fossilated
 fantoms
