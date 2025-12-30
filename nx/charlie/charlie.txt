@@ -5542,6 +5542,7 @@ cabler
 commorancy
 catabolin
 caustified
+carduaceous
 catabolism
 catabolite
 catabolized
@@ -7662,7 +7663,6 @@ cerebroid
 cirrhosed
 cerebromeningitis
 celiopyosis
-carduaceous
 cerebron
 cerebronic
 cerebroparietal
