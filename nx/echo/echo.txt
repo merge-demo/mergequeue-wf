@@ -3896,6 +3896,7 @@ egressive
 echeneis
 entomotomy
 extraboldface
+etruscans
 eminencies
 extramolecular
 evendown
@@ -8821,7 +8822,6 @@ eventuations
 equestrial
 ensellure
 eight
-etruscans
 esteems
 enskyed
 embelin
