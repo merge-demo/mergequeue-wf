@@ -2793,7 +2793,6 @@ dugal
 dop
 dorsalward
 disharmonize
-decremeter
 dicyemida
 demarches
 deftnesses
@@ -8581,6 +8580,7 @@ doormaking
 deorsumversion
 driftland
 dewan
+decremeter
 dissatisfied
 driller
 dispunitive
