@@ -1801,7 +1801,6 @@ eparchs
 eumemorrhea
 erinose
 entericoid
-epigraphical
 expediteness
 engravers
 embankments
@@ -10137,6 +10136,7 @@ emballonurid
 eupion
 enlure
 exemplifier
+epigraphical
 endive
 earstone
 epithalami
