@@ -2491,6 +2491,7 @@ exegete
 ellipsoids
 eurythmical
 enstatite
+effluxes
 electrogasdynamics
 embryographer
 electroharmonic
@@ -4282,7 +4283,6 @@ encephaloscopy
 emulsions
 equidistantial
 emacerated
-effluxes
 emphasise
 extoller
 epruinose
