@@ -936,7 +936,6 @@ brownout
 bustier
 bagwork
 baker
-brumby
 bahadur
 beverage
 bahay
@@ -18091,6 +18090,7 @@ butterbird
 butacaine
 bidi
 butadiyne
+brumby
 beshout
 berthierite
 butane
