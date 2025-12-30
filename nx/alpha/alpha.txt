@@ -14439,6 +14439,7 @@ adrenalone
 antimonate
 arunta
 adjudged
+anaerobe
 antiburgher
 apse
 ail
@@ -16841,7 +16842,6 @@ acromonogrammatic
 aphthong
 arkite
 apyrene
-anaerobe
 apiaca
 ambushlike
 apiaceae
