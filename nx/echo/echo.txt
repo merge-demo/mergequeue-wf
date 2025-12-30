@@ -1646,6 +1646,7 @@ entrez
 enterobacterium
 eyah
 edmund
+excresence
 epiglottic
 ethnolinguistic
 embliss
@@ -12068,7 +12069,6 @@ enfoldment
 enamellers
 excuseless
 endemisms
-excresence
 emplume
 excreta
 escheator
