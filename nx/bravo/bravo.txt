@@ -5199,7 +5199,6 @@ bribeless
 bellbind
 beardfish
 befriender
-benignly
 blasphemously
 balanoblennorrhea
 befriending
@@ -6933,6 +6932,7 @@ baselessness
 betta
 becoward
 bractea
+benignly
 bargoose
 badder
 bismuths
