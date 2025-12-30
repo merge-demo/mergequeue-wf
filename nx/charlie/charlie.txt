@@ -9419,7 +9419,6 @@ catery
 countertree
 chauvinism
 chauvinist
-chauvinistic
 cumbrance
 colds
 chavante
@@ -25110,6 +25109,7 @@ corelative
 consolation
 caimakam
 cottoid
+chauvinistic
 coreligionist
 cooperancy
 cueball
