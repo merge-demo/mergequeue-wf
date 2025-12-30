@@ -1270,6 +1270,7 @@ groundbreaker
 granulose
 ginkgo
 gloria
+gibboseness
 gestation
 garefowl
 gyrene
@@ -8142,7 +8143,6 @@ gastrochaenidae
 guacharo
 grantia
 greekist
-gibboseness
 gallet
 graustark
 grindelia
