@@ -2485,6 +2485,7 @@ geodynamic
 glandules
 grassing
 grewia
+gladeye
 grots
 gibbetwise
 genitalic
@@ -6033,7 +6034,6 @@ gyppers
 gnathitis
 gragers
 ganevs
-gladeye
 gastradenitis
 guerre
 gallocyanin
