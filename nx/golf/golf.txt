@@ -879,7 +879,6 @@ glossarize
 guily
 gymnophiona
 gangplank
-glycogenase
 guerrilla
 gametangia
 gerontomorphosis
@@ -9544,6 +9543,7 @@ grimp
 gallberry
 granting
 gaspingly
+glycogenase
 guiltiness
 gentilitious
 graals
