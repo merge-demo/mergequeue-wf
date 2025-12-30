@@ -1794,7 +1794,6 @@ flaunts
 foredoes
 flannelet
 featherwing
-featherwise
 fjorded
 fevercup
 facticity
@@ -10342,6 +10341,7 @@ feezing
 ferrado
 fantasized
 frondlet
+featherwise
 fatten
 focometer
 frustrated
