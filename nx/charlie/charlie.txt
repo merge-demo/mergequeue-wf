@@ -9816,7 +9816,6 @@ chelated
 cattish
 chelating
 chelator
-chelerythrine
 collisions
 conjunctiva
 cysts
@@ -13018,6 +13017,7 @@ chloropal
 consecution
 cyanhydric
 cyanhydrin
+chelerythrine
 citrean
 cyanid
 collects
