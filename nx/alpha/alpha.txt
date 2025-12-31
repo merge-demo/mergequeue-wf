@@ -1124,6 +1124,7 @@ aoul
 academes
 academy
 anthropocentrism
+appulse
 apheliotropism
 aploperistomatous
 anaplasis
@@ -23868,7 +23869,6 @@ autechoscope
 adenopathy
 abanga
 apilary
-appulse
 autecism
 autecology
 arrach
