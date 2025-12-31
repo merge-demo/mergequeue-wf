@@ -2159,7 +2159,6 @@ gliss
 gerontine
 gdinfo
 golfings
-gds
 gaycat
 gastrotomy
 grainer
@@ -5929,6 +5928,7 @@ geonyctinastic
 germy
 glumes
 gritting
+gds
 gesnera
 gaincome
 glummest
