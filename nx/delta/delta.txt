@@ -2638,7 +2638,6 @@ desalter
 decoloring
 disavowed
 diogenes
-deforce
 dispose
 decolors
 duopsonies
@@ -7802,6 +7801,7 @@ dipsomaniacal
 dissettlement
 dialogistical
 devoting
+deforce
 denaturalizing
 dalecarlian
 decapitate
