@@ -25427,7 +25427,6 @@ cornless
 cornmeal
 ceramicist
 chillagite
-contumaciousness
 cornmeals
 cornmuse
 corno
@@ -31905,6 +31904,7 @@ californian
 cruppers
 carcased
 cutwater
+contumaciousness
 cutweed
 cutwork
 cutworm
