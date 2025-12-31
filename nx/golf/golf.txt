@@ -875,7 +875,6 @@ gallowsward
 gamp
 geegaw
 gadis
-galactan
 glove
 gers
 glossarize
@@ -7343,6 +7342,7 @@ gravelling
 gangly
 goar
 gymnosophy
+galactan
 genys
 gaseity
 grizzles
