@@ -1884,7 +1884,6 @@ fallow
 foute
 fewer
 flintier
-foldy
 frogflower
 footingly
 foredoom
@@ -8234,6 +8233,7 @@ friezing
 forfaulture
 francophile
 fluoroscoping
+foldy
 fishways
 faded
 frijolito
