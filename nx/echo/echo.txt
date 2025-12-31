@@ -4443,7 +4443,6 @@ encaptive
 entomion
 exhilarative
 encarnalised
-encarnalize
 enteropneust
 egghot
 effervesces
@@ -5376,6 +5375,7 @@ existant
 edges
 ethylidene
 evicted
+encarnalize
 evocatory
 endotheliomas
 excercise
