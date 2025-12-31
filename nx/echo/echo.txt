@@ -7295,6 +7295,7 @@ explodent
 exoascaceae
 ejicient
 equationally
+effigial
 enclitics
 exlex
 elechi
@@ -13945,7 +13946,6 @@ expressless
 epimer
 eozoonal
 endokaryogamy
-effigial
 enface
 electropoion
 excuse
