@@ -4921,7 +4921,6 @@ guardee
 gladwin
 gauffred
 gymnotoka
-globularity
 greensand
 grudge
 ginghams
@@ -7527,6 +7526,7 @@ gambols
 gelatinizable
 garapato
 gastromenia
+globularity
 griffade
 gavelmen
 getmesost
