@@ -9104,7 +9104,6 @@ evasion
 erythropsia
 electrograving
 entwist
-etruscan
 erythropsin
 experientialist
 erythrosiderite
@@ -12664,6 +12663,7 @@ echoisms
 epicotyledonary
 exonerating
 ephemerous
+etruscan
 euclase
 episcopicide
 essays
