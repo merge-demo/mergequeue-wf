@@ -2845,7 +2845,6 @@ fungid
 fortuned
 fameflower
 fettered
-frowstiness
 foozle
 flouter
 flatlets
@@ -6792,6 +6791,7 @@ foldaway
 feretory
 ferryman
 farfal
+frowstiness
 forethink
 foldcourse
 fiberless
