@@ -870,6 +870,7 @@ evaporators
 ectoparasitica
 exhumating
 economically
+epizootic
 ectopy
 engulfed
 ectoplasmatic
@@ -8467,7 +8468,6 @@ epos
 elianic
 encinas
 ecstasies
-epizootic
 epoxyed
 epoxies
 employed
