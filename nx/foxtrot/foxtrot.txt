@@ -3266,7 +3266,6 @@ fiddlecome
 fracedinous
 fearfuller
 farewells
-fiddlefaced
 fiddlerfish
 fraticellian
 ferrites
@@ -7876,6 +7875,7 @@ fibrotuberculosis
 froppish
 forepossessed
 fenestrule
+fiddlefaced
 filler
 foreshots
 furfuraldehyde
