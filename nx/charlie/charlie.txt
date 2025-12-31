@@ -849,7 +849,6 @@ catachthonian
 cayman
 carboniferous
 caimans
-caymans
 cain
 caynard
 clydesdale
@@ -5047,6 +5046,7 @@ counterprove
 carucarius
 charivariing
 clipsheets
+caymans
 carum
 coachwork
 correlational
