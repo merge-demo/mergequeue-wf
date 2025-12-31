@@ -2815,7 +2815,6 @@ gentlemanlikeness
 gossan
 gybing
 goosehouse
-gnathoplasty
 gallates
 galactophlysis
 grayhair
@@ -10218,6 +10217,7 @@ gyrectomies
 galluses
 groundsel
 gonk
+gnathoplasty
 geotonus
 glamourously
 gasworker
