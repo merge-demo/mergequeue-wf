@@ -5126,7 +5126,6 @@ gte
 ginnel
 greenness
 glycocholic
-gobbed
 gasless
 gallantries
 gascon
@@ -6980,6 +6979,7 @@ glaziness
 gamut
 goodwillie
 gilgie
+gobbed
 gelatinize
 galoshed
 goosish
