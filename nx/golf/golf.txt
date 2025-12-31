@@ -4841,6 +4841,7 @@ goodwilies
 granate
 guardo
 gynerium
+goldenback
 glacieret
 gouaches
 garookuh
@@ -9341,7 +9342,6 @@ groins
 grolieresque
 granulative
 guessing
-goldenback
 giggles
 gamesome
 gauffre
