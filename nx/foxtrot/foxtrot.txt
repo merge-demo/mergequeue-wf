@@ -863,6 +863,7 @@ falconets
 fourchette
 flem
 fireworks
+fans
 folliculose
 falconbill
 footworks
@@ -7442,7 +7443,6 @@ ferie
 falconers
 fodientia
 fawnlike
-fans
 firefang
 forswat
 footmen
