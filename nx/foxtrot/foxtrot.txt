@@ -589,6 +589,7 @@ fallowist
 fardh
 fivefold
 friborg
+footsy
 floorless
 fellon
 foreknows
@@ -7280,7 +7281,6 @@ fluoran
 famishing
 fiorded
 flumed
-footsy
 footslogger
 flailed
 financiery
