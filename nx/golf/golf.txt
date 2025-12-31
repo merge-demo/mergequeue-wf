@@ -1059,7 +1059,6 @@ gynomonoecism
 gambesons
 gentlewomanhood
 gipsology
-gomphiasis
 gasserian
 glossic
 gist
@@ -8638,6 +8637,7 @@ gotos
 goldanged
 gimbaling
 guider
+gomphiasis
 grauwacke
 greeds
 glutaminase
