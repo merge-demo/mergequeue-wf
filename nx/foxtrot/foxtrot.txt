@@ -5643,7 +5643,6 @@ flimflams
 freethink
 favouritism
 fele
-flimsier
 felicitations
 florist
 fellowshiped
@@ -6321,6 +6320,7 @@ fens
 fiendship
 frigidarium
 futurable
+flimsier
 flumping
 filate
 furfurous
