@@ -2768,7 +2768,6 @@ fluidness
 flareboard
 floppier
 festivity
-forker
 flatly
 fluorimeter
 forgift
@@ -8107,6 +8106,7 @@ fumer
 flusterated
 forejudged
 forenews
+forker
 faunistic
 foyboat
 foveolae
