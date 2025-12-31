@@ -1884,7 +1884,6 @@ antifaction
 acetabulous
 atheromas
 afifi
-acetabulums
 acetacetic
 autopsic
 acetalize
@@ -16403,6 +16402,7 @@ antoecians
 agitator
 ascogonia
 anticonvention
+acetabulums
 adramelech
 account
 affluence
