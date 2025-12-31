@@ -3854,7 +3854,6 @@ genealogies
 geodaesia
 glasshouse
 girosol
-glarier
 gonapophysal
 grasps
 gentlemanhood
@@ -5145,6 +5144,7 @@ graciousness
 glycoside
 gasteromycete
 glossate
+glarier
 gregarinous
 glali
 gunner
