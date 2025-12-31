@@ -4472,6 +4472,7 @@ demifigure
 decentres
 disinflated
 downdraught
+davoch
 detroiter
 demigauntlet
 doting
@@ -6264,7 +6265,6 @@ diradiation
 didymolite
 daughters
 dermatopathic
-davoch
 dodecanesian
 dermatophyte
 disarming
