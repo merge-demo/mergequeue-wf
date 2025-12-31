@@ -158,6 +158,7 @@ expurgations
 exscriptural
 etymons
 enchylema
+encephalomeric
 enzygotic
 earthkin
 emargination
@@ -11339,7 +11340,6 @@ evocativeness
 ergatoid
 electrically
 erudite
-encephalomeric
 eventual
 eozoic
 emusifying
