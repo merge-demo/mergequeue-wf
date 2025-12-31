@@ -4278,7 +4278,6 @@ grainsmen
 guncotton
 gantang
 gruelled
-ghalva
 gomorrhean
 gesturing
 grumpiness
@@ -5117,6 +5116,7 @@ grittier
 gunman
 garboards
 guilelessly
+ghalva
 guernseyed
 glareproof
 grenadine
