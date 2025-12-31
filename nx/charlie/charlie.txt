@@ -14141,7 +14141,6 @@ colloquialisms
 circue
 circuit
 circuital
-chimonanthus
 circuiteer
 clyer
 continues
@@ -24400,6 +24399,7 @@ cardiophrenia
 coolung
 coolweed
 coolwort
+chimonanthus
 coom
 coomb
 canella
