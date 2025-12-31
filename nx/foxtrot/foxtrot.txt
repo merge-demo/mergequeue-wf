@@ -1994,6 +1994,7 @@ fide
 feere
 flipper
 fautor
+florilegium
 fours
 fimicolous
 furmity
@@ -9384,7 +9385,6 @@ fascinates
 flocculant
 fleecier
 forthcomer
-florilegium
 frankfurters
 fivers
 frankish
