@@ -8436,6 +8436,7 @@ blackwood
 bilayer
 burp
 bookmen
+belling
 bilalo
 bacony
 basiated
@@ -16610,7 +16611,6 @@ burkundauze
 bubales
 basements
 bubals
-belling
 bubastid
 backorder
 blightingly
