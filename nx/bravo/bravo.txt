@@ -555,7 +555,6 @@ blottingly
 backwoodsy
 bacon
 booklouse
-befezzed
 balkar
 baubee
 balisaur
@@ -14317,6 +14316,7 @@ begrudger
 blending
 brag
 bops
+befezzed
 bannut
 bodices
 brachials
