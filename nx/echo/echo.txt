@@ -3666,7 +3666,6 @@ electrocuted
 ennoic
 epichilium
 enwheeled
-embrectomy
 emergency
 epiphloedic
 embrica
@@ -11409,6 +11408,7 @@ erpetoichthys
 escaladed
 extrinsical
 embanking
+embrectomy
 evangelising
 equilibriate
 enchytraeus
