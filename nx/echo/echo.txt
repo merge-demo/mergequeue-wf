@@ -5455,7 +5455,6 @@ enemyship
 energeia
 emblematicalness
 energesis
-energetic
 electrochronographic
 extrinsicality
 earmark
@@ -5892,6 +5891,7 @@ extrazodiacal
 epigramme
 exacerbescence
 exsiccate
+energetic
 engrossedly
 engrosser
 endocarditic
