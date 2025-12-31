@@ -2689,6 +2689,7 @@ filaze
 fawner
 frizziness
 fervence
+fractionally
 fortnightlies
 ferventness
 fishify
@@ -3340,7 +3341,6 @@ forsung
 flench
 fidge
 frogfoot
-fractionally
 fress
 fractals
 faultage
