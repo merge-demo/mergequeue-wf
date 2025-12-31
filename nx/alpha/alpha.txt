@@ -9770,7 +9770,6 @@ aestuous
 attornment
 amarantaceous
 abumbral
-antigraph
 amaranth
 anchylosing
 amaranthaceae
@@ -20002,6 +20001,7 @@ acanthopod
 arf
 achromatinic
 arnatto
+antigraph
 arugola
 ammonified
 alexipharmacon
