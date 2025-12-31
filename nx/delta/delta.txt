@@ -7213,6 +7213,7 @@ demultiplexing
 detainee
 detaining
 disinfecter
+darting
 detar
 dumbfounderment
 decals
@@ -16843,7 +16844,6 @@ discharity
 dozes
 depreciations
 dissyllabise
-darting
 diffidence
 dispurvey
 demargarinate
