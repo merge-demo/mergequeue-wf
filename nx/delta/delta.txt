@@ -7647,6 +7647,7 @@ disterminate
 drumbled
 divesture
 deunam
+disable
 debell
 deviance
 dimples
@@ -10888,7 +10889,6 @@ decerebrize
 diruption
 dereference
 deployed
-disable
 deputationize
 delusions
 denazify
