@@ -2700,7 +2700,6 @@ duels
 deconsecrated
 detailedness
 demitrain
-deconsideration
 decontaminating
 diatessaron
 dortiness
@@ -14034,6 +14033,7 @@ distractively
 dibromide
 dodecaphonist
 druxiness
+deconsideration
 desmoid
 disparadise
 disporum
