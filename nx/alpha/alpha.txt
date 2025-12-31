@@ -4105,7 +4105,6 @@ apparatchiks
 apotracheal
 adventuresomely
 alternisepalous
-adnexal
 attempters
 adnexopexy
 arrastre
@@ -5787,6 +5786,7 @@ agedness
 agee
 aerugos
 ageing
+adnexal
 aperitifs
 ardass
 assumptive
