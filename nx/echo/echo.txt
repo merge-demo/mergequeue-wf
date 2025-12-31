@@ -9093,7 +9093,6 @@ escrowee
 ephors
 equinoxes
 evasion
-embordered
 erythropsia
 electrograving
 entwist
@@ -11914,6 +11913,7 @@ excerebration
 extraphysical
 enamourment
 endemiology
+embordered
 eudaemonistically
 equiradical
 excess
