@@ -2293,7 +2293,6 @@ egest
 ecliptics
 equality
 erythrosine
-enleagued
 electrifiers
 eugene
 europasian
@@ -4762,6 +4761,7 @@ entrepreneurs
 epichondrotic
 euthermic
 eucalyn
+enleagued
 exotics
 evanishing
 embarrass
