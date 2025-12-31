@@ -1015,6 +1015,7 @@ fascicles
 flexuose
 filipendulous
 flatlong
+fluorescein
 fumosity
 feverweed
 fenny
@@ -7814,7 +7815,6 @@ faint
 fording
 fraenum
 forgathering
-fluorescein
 ferrotyped
 frostbite
 footrail
