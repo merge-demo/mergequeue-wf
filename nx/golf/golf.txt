@@ -4094,7 +4094,6 @@ gleaned
 galictis
 griph
 gastroduodenotomy
-geogenetic
 grasshop
 grasped
 glucolipid
@@ -4509,6 +4508,7 @@ gypsywise
 guzzling
 grufted
 gyromele
+geogenetic
 gays
 grubbers
 galactemia
