@@ -4775,6 +4775,7 @@ aeroballistic
 aerobate
 aerobatic
 azalea
+asserts
 anthropolater
 aerobia
 asamblea
@@ -21785,7 +21786,6 @@ amalaita
 assertress
 annunciator
 athetesis
-asserts
 assertum
 agricolous
 acanaceous
