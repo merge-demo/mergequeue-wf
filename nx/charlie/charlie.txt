@@ -19141,7 +19141,6 @@ cord
 crystallographer
 cauked
 cartomancy
-collocating
 chkfile
 carambola
 calfskins
@@ -28549,6 +28548,7 @@ creditress
 creditrix
 crednerite
 cubebs
+collocating
 continuances
 cavallies
 crustaceans
