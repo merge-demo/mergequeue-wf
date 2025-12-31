@@ -125,7 +125,6 @@ anthood
 antiheroes
 assertive
 antiphrasis
-archaeographic
 aspidoganoidei
 aulostoma
 abasic
@@ -442,6 +441,7 @@ abiotic
 argentometer
 authorities
 angiotomy
+archaeographic
 aggrandizing
 admixture
 ascot
