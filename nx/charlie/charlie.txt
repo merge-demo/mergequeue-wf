@@ -1156,6 +1156,7 @@ calcite
 carollers
 cuppers
 cloddiness
+cellae
 calcitrant
 calcitrate
 cataphatic
@@ -23776,7 +23777,6 @@ chancellory
 contrariness
 contrarious
 contrariously
-cellae
 contrariousness
 cacesthesia
 curlicued
