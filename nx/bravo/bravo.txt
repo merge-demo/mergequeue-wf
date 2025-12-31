@@ -6758,7 +6758,6 @@ berossos
 beround
 bendability
 berreaves
-berret
 berrettas
 bloodred
 barongs
@@ -6787,6 +6786,7 @@ badian
 bookery
 bersagliere
 brittles
+berret
 bonnocks
 bin
 berserks
