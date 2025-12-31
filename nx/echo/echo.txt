@@ -2136,7 +2136,6 @@ epipubes
 elastomers
 embryologists
 emcees
-engarde
 egged
 elated
 etherealise
@@ -13770,6 +13769,7 @@ extolls
 eskimos
 extorters
 extortion
+engarde
 embroiling
 endopterygotism
 earthliness
