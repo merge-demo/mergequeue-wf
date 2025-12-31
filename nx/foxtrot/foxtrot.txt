@@ -5383,6 +5383,7 @@ flanken
 feebleness
 fascia
 ferulaic
+filmstrip
 foldboater
 foreclosed
 faconde
@@ -9339,7 +9340,6 @@ foveae
 figured
 furfurole
 forgivingly
-filmstrip
 furlough
 flushest
 fantasies
