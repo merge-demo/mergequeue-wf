@@ -652,6 +652,7 @@ formulates
 farnesol
 fluotitanic
 forelegs
+fettle
 fames
 fuddled
 fichu
@@ -5000,7 +5001,6 @@ figbird
 flanking
 foundationally
 fleetingness
-fettle
 flood
 faured
 flaneurs
