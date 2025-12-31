@@ -11511,6 +11511,7 @@ befretted
 botryllidae
 bluffest
 balladmonger
+bedway
 bluffing
 bimas
 barish
@@ -12607,7 +12608,6 @@ bubbly
 bonnet
 brachelytra
 bonnethead
-bedway
 bagie
 bonnetiere
 bonnetlike
