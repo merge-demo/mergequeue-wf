@@ -12599,7 +12599,6 @@ caplets
 cacothes
 concurrences
 concubitus
-chronaxie
 chronic
 chronica
 cutouts
@@ -28101,6 +28100,7 @@ crania
 cancerate
 crocodiline
 cranian
+chronaxie
 craniata
 cranic
 circaeaceae
