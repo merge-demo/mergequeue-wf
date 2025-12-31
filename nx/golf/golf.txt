@@ -3716,7 +3716,6 @@ galah
 geodetically
 glumelike
 giftbook
-ghostish
 gelatigenous
 gracilescent
 gussying
@@ -8051,6 +8050,7 @@ gript
 gunstocking
 gastronomy
 gastronomics
+ghostish
 gata
 gunstock
 grandpapa
