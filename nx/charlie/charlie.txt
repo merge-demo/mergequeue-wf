@@ -3638,7 +3638,6 @@ choosable
 caraboa
 caaba
 circle
-connived
 caraboid
 carabus
 caracara
@@ -30938,6 +30937,7 @@ cleanliness
 culturological
 culturologically
 cavaliero
+connived
 cardinalitial
 caroid
 costate
