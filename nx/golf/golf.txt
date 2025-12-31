@@ -7088,7 +7088,6 @@ goosegog
 guignardia
 goyle
 gynandrarchy
-gifts
 gunnage
 guelphic
 giottesque
@@ -10785,6 +10784,7 @@ gorki
 gazelles
 gawky
 gesellschaften
+gifts
 glycocoll
 gutterspout
 ghostlily
