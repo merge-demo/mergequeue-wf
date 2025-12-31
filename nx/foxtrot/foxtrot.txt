@@ -1086,6 +1086,7 @@ fam
 finkel
 fellatrixes
 fudgy
+frighted
 fishling
 fastback
 farrisite
@@ -10251,7 +10252,6 @@ frat
 funders
 frogmarch
 flowerful
-frighted
 franconian
 finespun
 formolit
