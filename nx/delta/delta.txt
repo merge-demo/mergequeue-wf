@@ -10861,6 +10861,7 @@ drawbored
 disthene
 disguisable
 dicaryophyte
+didelphian
 damns
 drudging
 dirty
@@ -16617,7 +16618,6 @@ dragonfishes
 dragonflies
 droud
 deprecated
-didelphian
 dragonhood
 downily
 deveins
