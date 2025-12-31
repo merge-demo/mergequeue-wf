@@ -11606,7 +11606,6 @@ contestation
 cleavingly
 choleate
 cholecyanine
-couchee
 cholecystectasia
 cholecystectomy
 cingulum
@@ -30190,6 +30189,7 @@ canful
 crudded
 convivialize
 carree
+couchee
 crudely
 coregonus
 clinicopathologic
