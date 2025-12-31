@@ -2668,7 +2668,6 @@ genevan
 giboia
 gadgets
 grudgingness
-gallingness
 geodiferous
 gabardines
 gravelous
@@ -7607,6 +7606,7 @@ globeflower
 garabato
 glucolysis
 gruntle
+gallingness
 geophyte
 gamash
 gowdnie
