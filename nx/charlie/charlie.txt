@@ -15823,7 +15823,6 @@ counterfeitness
 clearedness
 clearheadedly
 cardcases
-crawly
 cataclysmist
 cometwise
 clearheadedness
@@ -29324,6 +29323,7 @@ cryptoheretic
 cryptolite
 cytochalasin
 cryptolith
+crawly
 choriocapillary
 cryptology
 conspiracies
