@@ -4647,7 +4647,6 @@ delectableness
 demitint
 demitoilet
 deteriorated
-demits
 denticulately
 dilutive
 duties
@@ -6426,6 +6425,7 @@ desensitized
 drudgeries
 downwards
 debat
+demits
 disinfection
 desaccharification
 defalcation
