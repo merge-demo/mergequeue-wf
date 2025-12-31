@@ -1722,7 +1722,6 @@ feastfully
 forayers
 foist
 fencibles
-felonies
 feastraw
 fledgling
 formican
@@ -9373,6 +9372,7 @@ fortypenny
 fecaloid
 fatuitousness
 frankalmoign
+felonies
 fellowly
 fluoresces
 frankenstein

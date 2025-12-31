@@ -5606,7 +5606,6 @@ blobbed
 bumbard
 bombloads
 belaboring
-blisters
 bulletheaded
 battlement
 baghla
@@ -14778,6 +14777,7 @@ bibliopolic
 brauna
 burgheristh
 bullwork
+blisters
 braunite
 braunites
 bogy
