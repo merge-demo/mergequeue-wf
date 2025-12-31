@@ -1517,7 +1517,6 @@ fluorane
 flatdom
 franklinite
 forfends
-fattenable
 fauntleroy
 frankability
 flagellaria
@@ -11213,6 +11212,7 @@ fasciolae
 fictil
 fubsier
 frittata
+fattenable
 farads
 firer
 failles
