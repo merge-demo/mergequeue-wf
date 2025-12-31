@@ -2521,7 +2521,6 @@ candide
 chausse
 churls
 candidiasis
-candidness
 candidnesses
 chrismatine
 crawlie
@@ -25848,6 +25847,7 @@ cocooning
 circumflexes
 corruption
 corruptionist
+candidness
 cerographies
 corollas
 corruptious
