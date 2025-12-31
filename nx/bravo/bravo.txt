@@ -1126,7 +1126,6 @@ battercake
 belonesite
 bairns
 bootful
-banquets
 backwall
 borates
 botete
@@ -2152,6 +2151,7 @@ bricksetter
 burnishes
 bonsai
 broadeners
+banquets
 bediapered
 brutism
 baptising
