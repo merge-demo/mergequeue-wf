@@ -4537,6 +4537,7 @@ bestrided
 becursed
 babesia
 becurses
+benumbment
 becurst
 basommatophorous
 becushioned
@@ -17203,7 +17204,6 @@ bullnut
 beetroot
 babbitt
 bullock
-benumbment
 brachialgia
 bullocker
 brachydodrome
