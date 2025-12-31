@@ -6158,6 +6158,7 @@ enrolling
 endorachis
 elephantiac
 enneagons
+eelblenny
 extended
 enthrallment
 ectoparasitic
@@ -10740,7 +10741,6 @@ etrier
 eulimidae
 epicoela
 eulytine
-eelblenny
 entopopliteal
 epicycloidal
 excystation
