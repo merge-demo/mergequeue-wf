@@ -15461,7 +15461,6 @@ cajou
 canzos
 coppas
 clary
-claribel
 claribella
 cellifugal
 cruzadoes
@@ -23641,6 +23640,7 @@ contrabandage
 contrabandery
 causticiser
 contrabandista
+claribel
 corrodentia
 carroccio
 constituted
