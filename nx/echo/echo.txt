@@ -6825,7 +6825,6 @@ enwombing
 entitative
 exostema
 ecphoria
-enrooted
 enlistees
 entoil
 eggler
@@ -12579,6 +12578,7 @@ exocoelar
 exocoele
 excusing
 electrophoreses
+enrooted
 exocoelic
 explant
 epicardium
