@@ -2411,7 +2411,6 @@ correlatively
 canc
 coffined
 canceled
-canceleer
 canceler
 cancellable
 contrasters
@@ -15063,6 +15062,7 @@ chevrons
 contemns
 civilized
 civilizee
+canceleer
 civilizer
 civilite
 comptly
