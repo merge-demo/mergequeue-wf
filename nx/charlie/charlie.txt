@@ -832,6 +832,7 @@ cayenned
 contouring
 cerberus
 corban
+collateralize
 cailcedra
 counterrestoration
 caille
@@ -16602,7 +16603,6 @@ cloned
 cloner
 clanning
 caps
-collateralize
 contraparallelogram
 complicities
 clonic
