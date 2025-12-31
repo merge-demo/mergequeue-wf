@@ -394,7 +394,6 @@ eyestone
 erethistic
 eeler
 enthroned
-eavesdropping
 encyclopedism
 eightvos
 europa
@@ -4425,6 +4424,7 @@ enure
 effectively
 encaptivate
 essence
+eavesdropping
 exaggeratively
 expectorate
 eternized
