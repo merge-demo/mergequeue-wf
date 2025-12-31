@@ -10415,7 +10415,6 @@ cervalet
 conveyorizer
 chiefish
 chieftain
-chieftaincy
 chieftainess
 chieftainry
 complexify
@@ -28115,6 +28114,7 @@ caunus
 craniocerebral
 calligraphist
 counteracquittance
+chieftaincy
 cranioclast
 cussos
 celebrities
