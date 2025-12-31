@@ -1229,6 +1229,7 @@ acarid
 accord
 addorsed
 agonostomus
+aegrotat
 anarthropod
 avian
 asexualizing
@@ -4668,7 +4669,6 @@ alabastron
 archiving
 aerostation
 azazel
-aegrotat
 antherozooidal
 amatorio
 arianize
