@@ -1413,6 +1413,7 @@ backjoint
 balearica
 balebos
 baled
+boviculture
 baleen
 badmash
 bobance
@@ -17698,7 +17699,6 @@ boomlets
 burleycue
 blisterous
 burlesquer
-boviculture
 burlet
 butterfly
 bidiurnal
