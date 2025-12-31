@@ -798,7 +798,6 @@ dungeon
 deckhead
 daneweed
 daneweeds
-disingenious
 dangerously
 dactyliomancy
 diabrotic
@@ -1012,6 +1011,7 @@ deformeter
 daffling
 dypnone
 dolorimetric
+disingenious
 distichously
 darkie
 definement
