@@ -8603,7 +8603,6 @@ billets
 belis
 brainlike
 bassaris
-berylline
 brauneberger
 brachysm
 brachiofacial
@@ -9290,6 +9289,7 @@ beshrewing
 blockader
 biplane
 byee
+berylline
 bobolink
 biplanes
 beclogging
