@@ -1256,6 +1256,7 @@ enroot
 efficiently
 earthshock
 ethylidyne
+eyelight
 eelcake
 elsewheres
 exposition
@@ -4943,7 +4944,6 @@ euhemerize
 entropy
 exencephalic
 ectocoelic
-eyelight
 emporetic
 electroamalgamation
 eurytomid
