@@ -2696,7 +2696,6 @@ decongestant
 deltoidei
 deconsecrate
 duels
-dareful
 deconsecrated
 detailedness
 demitrain
@@ -12415,6 +12414,7 @@ disher
 durability
 disherited
 defibrillator
+dareful
 deplantation
 drybrush
 desecate
