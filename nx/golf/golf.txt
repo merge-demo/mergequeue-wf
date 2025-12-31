@@ -1129,6 +1129,7 @@ gravamens
 guava
 gantelope
 glycogenous
+graf
 gastrulating
 gantlet
 grocer
@@ -7326,7 +7327,6 @@ gassendist
 gauffer
 glutaric
 glitches
-graf
 goldsinny
 gynics
 genoas
