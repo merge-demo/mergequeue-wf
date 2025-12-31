@@ -4829,7 +4829,6 @@ archaises
 amas
 amoebous
 arkwright
-aerodermectasia
 astrolater
 appoggiatura
 apopetalous
@@ -13594,6 +13593,7 @@ arrear
 adelia
 aestivates
 abbess
+aerodermectasia
 archil
 anodal
 abend
