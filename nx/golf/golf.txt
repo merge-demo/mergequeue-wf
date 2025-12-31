@@ -3492,6 +3492,7 @@ gelatinated
 gastrologer
 genoa
 gallanting
+glauconite
 glasgow
 gallophobia
 graptomancy
@@ -6872,7 +6873,6 @@ gobonee
 gnomonic
 gloryingly
 gypsied
-glauconite
 granulomas
 gaffsman
 gonosphere
