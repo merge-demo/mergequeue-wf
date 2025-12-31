@@ -4687,7 +4687,6 @@ euphoniad
 embezzled
 eisodic
 eucrites
-elbowing
 eyeopener
 eryhtrism
 encyclopaedically
@@ -6800,6 +6799,7 @@ extinguishing
 exasperate
 evocations
 entitatively
+elbowing
 execrableness
 entitle
 elixed
