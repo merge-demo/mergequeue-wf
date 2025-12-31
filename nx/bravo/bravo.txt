@@ -6026,7 +6026,6 @@ brouette
 bogier
 bradyphasia
 blanquillos
-butcherless
 balarama
 bipennated
 bole
@@ -17665,6 +17664,7 @@ boris
 britchel
 belady
 blowier
+butcherless
 barrelfish
 bellipotent
 burked
