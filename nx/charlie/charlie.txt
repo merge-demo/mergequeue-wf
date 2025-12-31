@@ -12676,7 +12676,6 @@ chroococcales
 chroococcoid
 charcoalist
 cicatrisation
-chs
 chteau
 chauffeuses
 chthonian
@@ -14742,6 +14741,7 @@ cenanthy
 citer
 citers
 cites
+chs
 citess
 calendered
 citharas
