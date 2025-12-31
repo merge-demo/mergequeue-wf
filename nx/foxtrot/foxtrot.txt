@@ -5014,7 +5014,6 @@ factordom
 fribourg
 freelage
 flankers
-foists
 folksier
 fathered
 flashtester
@@ -6980,6 +6979,7 @@ faineance
 fibered
 flay
 festucous
+foists
 foretrace
 fetishization
 fissicostate
