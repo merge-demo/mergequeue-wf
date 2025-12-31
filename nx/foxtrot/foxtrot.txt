@@ -2040,6 +2040,7 @@ flindosa
 forestaller
 forwander
 faunlike
+fructescence
 florins
 fogbows
 fascicule
@@ -4679,7 +4680,6 @@ fumariaceae
 flatwashes
 forefelt
 foreby
-fructescence
 fishpot
 forefeelingly
 frivolizing
