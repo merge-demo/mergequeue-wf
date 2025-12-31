@@ -2002,6 +2002,7 @@ frizzer
 fullam
 farragoes
 fardels
+flanconnade
 feetfirst
 fireworky
 fractionizing
@@ -7734,7 +7735,6 @@ fossa
 flinchingly
 foreignly
 fishy
-flanconnade
 foreimpressed
 firnismalerei
 foreinstruct
