@@ -8249,6 +8249,7 @@ cheekpiece
 chakavski
 classics
 chakdar
+craniometer
 cymbling
 cincinnal
 callower
@@ -25512,7 +25513,6 @@ coronado
 coronados
 coronae
 crepidomata
-craniometer
 cavitates
 coronagraph
 calling

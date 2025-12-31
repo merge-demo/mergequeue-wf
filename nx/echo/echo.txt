@@ -4159,6 +4159,7 @@ extracranial
 energids
 expungement
 erythrodermia
+eyers
 externum
 encl
 encaustes
@@ -8907,7 +8908,6 @@ euphemiser
 emeroids
 ergomaniac
 eragrostis
-eyers
 eddie
 entelam
 experimentally
