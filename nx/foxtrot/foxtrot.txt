@@ -2340,6 +2340,7 @@ floaters
 flunked
 friarly
 funerary
+fleay
 fructiculose
 femineity
 frightener
@@ -4825,7 +4826,6 @@ faunus
 fishberries
 firepower
 flinthead
-fleay
 facecloth
 fatigued
 fainer
