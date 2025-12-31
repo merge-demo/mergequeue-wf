@@ -4511,7 +4511,6 @@ encephalomas
 escudo
 encephalomeningocele
 evenglome
-endoerythrocytic
 entothorax
 embiidae
 encephalomyelitic
@@ -6372,6 +6371,7 @@ endostitis
 ebbed
 episcopize
 eprouvette
+endoerythrocytic
 enshrined
 enshrinement
 embars
