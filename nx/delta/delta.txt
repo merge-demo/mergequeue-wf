@@ -2547,7 +2547,6 @@ disjudication
 declass
 dimorphs
 dweller
-declassification
 diachrony
 declassifies
 diplophonic
@@ -9751,6 +9750,7 @@ domino
 dclass
 dilettanti
 decriminalizing
+declassification
 draws
 dilettantism
 diligence
