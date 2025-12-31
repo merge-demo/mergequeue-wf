@@ -6737,7 +6737,6 @@ decapetalous
 disacidify
 date
 designedly
-designedness
 detachability
 delibate
 designment
@@ -12772,6 +12771,7 @@ dispensability
 dorsilateral
 dislocating
 drawbars
+designedness
 dissemblingly
 dantesque
 dislocatory

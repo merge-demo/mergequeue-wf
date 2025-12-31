@@ -72,7 +72,6 @@ financiers
 facellite
 felonious
 flysch
-fordeal
 fullfaces
 facundity
 facemark
@@ -10498,6 +10497,7 @@ feasance
 feuillet
 fantasticality
 fillips
+fordeal
 frostily
 fluorate
 forwearying
