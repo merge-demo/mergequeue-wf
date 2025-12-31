@@ -3957,7 +3957,6 @@ feed
 forecastles
 fono
 florissant
-freehanded
 falkland
 friendlier
 finalizes
@@ -6792,6 +6791,7 @@ fleshhook
 farinulent
 fervescent
 froebelian
+freehanded
 flyers
 forseeable
 fluidics
