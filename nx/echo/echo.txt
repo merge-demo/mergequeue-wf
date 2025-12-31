@@ -10295,7 +10295,6 @@ ecclesiology
 elapses
 ectotherm
 eemis
-epidemial
 expecters
 effacer
 ethmopalatal
@@ -10859,6 +10858,7 @@ entailable
 equitability
 enchalice
 elboic
+epidemial
 eructation
 ereption
 euphemian
