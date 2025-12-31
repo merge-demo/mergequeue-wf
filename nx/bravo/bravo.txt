@@ -10331,7 +10331,6 @@ blading
 beleaguerer
 besmircher
 balmarcodes
-basiglandular
 bosporian
 bladewise
 bladygrass
@@ -12129,6 +12128,7 @@ bolag
 bolas
 bedell
 bartsia
+basiglandular
 balmacaan
 biglenoid
 bolboxalis
