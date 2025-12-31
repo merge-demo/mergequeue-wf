@@ -2595,6 +2595,7 @@ exclaimed
 ecad
 encyclopaedian
 extravenate
+encallow
 electrodiagnoses
 entrenched
 eximious
@@ -6814,7 +6815,6 @@ encinillo
 escribing
 eutrophies
 efflation
-encallow
 enwombing
 entitative
 exostema
