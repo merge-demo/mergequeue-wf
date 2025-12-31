@@ -10597,7 +10597,6 @@ datapunch
 drudger
 dictaphone
 deben
-decolorizing
 diplomates
 diplomatically
 dysergia
@@ -18172,6 +18171,7 @@ dump
 dyaster
 duplexing
 dineuric
+decolorizing
 dotriacontane
 dorsolateral
 dentata
