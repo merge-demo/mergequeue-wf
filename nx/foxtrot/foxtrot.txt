@@ -4098,6 +4098,7 @@ fungusy
 frostation
 fergusonite
 featherbrain
+fir
 fattable
 fanterie
 formal
@@ -8627,7 +8628,6 @@ flappiest
 farmyard
 forescript
 foredid
-fir
 fittings
 figurately
 ferretto
