@@ -2747,7 +2747,6 @@ enceint
 eleemosinar
 equipotent
 electees
-edentate
 ennobler
 envoi
 ennoblment
@@ -10499,6 +10498,7 @@ eightpenny
 enologies
 expelled
 exorbitant
+edentate
 eclectics
 epulary
 exemplifying
