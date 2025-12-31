@@ -9474,7 +9474,6 @@ apholates
 ablution
 ajutment
 asterikos
-alignment
 aspidate
 anargyroi
 ambassiate
@@ -18615,6 +18614,7 @@ acini
 archaeographical
 asterisking
 acinous
+alignment
 academial
 astrophil
 archaeolater
