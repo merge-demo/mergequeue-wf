@@ -4285,7 +4285,6 @@ gesturing
 grumpiness
 graveclothes
 goatlike
-gymnosporangium
 gregos
 gigantesque
 gumlike
@@ -10115,6 +10114,7 @@ genion
 gazetteer
 gonystylus
 goldenfleece
+gymnosporangium
 gnomic
 gnotobiologies
 grouping
