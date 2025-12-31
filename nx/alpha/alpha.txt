@@ -9071,7 +9071,6 @@ asonant
 autism
 allhallow
 abhorring
-alky
 aristogenetic
 anemometric
 antacid
@@ -16982,6 +16981,7 @@ annoyously
 adorned
 americanizer
 apneumona
+alky
 apneumonous
 agrammatical
 apneusis
