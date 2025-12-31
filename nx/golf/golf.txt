@@ -1837,7 +1837,6 @@ gastroparesis
 generalcies
 gousty
 gossypium
-glyconics
 gerhardtite
 gregory
 grandfer
@@ -8309,6 +8308,7 @@ galenite
 glissaded
 groundless
 gladii
+glyconics
 gasteria
 graphoscope
 glycoprotein
