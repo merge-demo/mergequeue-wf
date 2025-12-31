@@ -5799,7 +5799,6 @@ forgettingly
 fastigium
 fellowess
 foreswearing
-flamingly
 flittermouse
 fellowship
 fathmur
@@ -11403,6 +11402,7 @@ feater
 furcular
 forksmith
 fidgeted
+flamingly
 flumdiddle
 forcemeat
 fisticuffing
