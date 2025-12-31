@@ -2318,6 +2318,7 @@ fireclays
 falsetto
 feoffs
 fasciole
+flaw
 fra
 fiftyfold
 footstalk
@@ -11703,7 +11704,6 @@ furphy
 fetidness
 fernsick
 frameless
-flaw
 francomania
 fanfish
 fiancailles
