@@ -416,7 +416,6 @@ goober
 gair
 glucic
 gamosepalous
-guildry
 gardenable
 gooseflesh
 gammexane
@@ -1726,6 +1725,7 @@ gambado
 gangwayman
 glossoscopy
 glycerinate
+guildry
 gympie
 goldstone
 genotypes
