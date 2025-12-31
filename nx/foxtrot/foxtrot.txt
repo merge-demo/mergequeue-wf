@@ -6711,7 +6711,6 @@ frescoists
 feast
 feathery
 fogon
-fogproof
 frugally
 flaughter
 fibroadenoma
@@ -11072,6 +11071,7 @@ forficated
 fumariaceous
 flocs
 frivoling
+fogproof
 freightment
 flense
 fidessa
