@@ -1255,6 +1255,7 @@ dative
 dorking
 datively
 dreamlore
+dialectalize
 danthonia
 dusted
 diazoic
@@ -15198,7 +15199,6 @@ defunctness
 distributable
 dolabrate
 doliolum
-dialectalize
 doli
 disulphide
 dolcemente
