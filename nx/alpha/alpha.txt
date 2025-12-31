@@ -8454,6 +8454,7 @@ alkies
 assessable
 accelerograph
 alkylarylsulfonate
+anticyclically
 anallergic
 agnate
 alkylate
@@ -14870,7 +14871,6 @@ abnormality
 ateleological
 antliate
 angeles
-anticyclically
 around
 anticity
 anticytolysin
