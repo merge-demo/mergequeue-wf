@@ -4152,7 +4152,6 @@ boroglyceride
 barytone
 backbend
 brenda
-beastish
 bowbells
 beastlier
 barkening
@@ -15306,6 +15305,7 @@ biochemics
 bosk
 basaltware
 bozo
+beastish
 bullying
 belles
 bastian
