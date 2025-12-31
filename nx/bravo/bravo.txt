@@ -4376,7 +4376,6 @@ bedizened
 beati
 beckoningly
 balitao
-byward
 boudoiresque
 bourgeois
 beldam
@@ -10372,6 +10371,7 @@ boil
 boozers
 blame
 bicyclical
+byward
 betise
 blamefulness
 baroto
