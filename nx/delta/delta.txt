@@ -13045,6 +13045,7 @@ dispeed
 dispark
 declarer
 discommoning
+directive
 diplosphenal
 dwang
 dain
@@ -14088,7 +14089,6 @@ dialist
 dropman
 distribution
 decretum
-directive
 dragnets
 dryopithecinae
 dispensable
