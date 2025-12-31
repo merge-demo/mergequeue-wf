@@ -5985,7 +5985,6 @@ escaped
 emetomorphine
 ectomere
 encumbrancer
-eudromias
 extrameridian
 eudemon
 electrostatically
@@ -8799,6 +8798,7 @@ enround
 electrodepositable
 elegist
 erections
+eudromias
 eviller
 enterobiliary
 etcetera
