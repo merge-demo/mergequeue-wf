@@ -596,6 +596,7 @@ bosket
 bostangi
 bastiment
 bacteriodiagnosis
+bezzle
 bromates
 behearse
 bacterid
@@ -7710,7 +7711,6 @@ barged
 boatbuilder
 bountiousness
 brideknot
-bezzle
 blackmailing
 bronzed
 brachydactylous

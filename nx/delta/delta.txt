@@ -2546,7 +2546,6 @@ drailing
 declaredly
 declares
 dimaris
-diplococcus
 declaring
 dizen
 dwined
@@ -13969,6 +13968,7 @@ discrepance
 dorsispinal
 dialectically
 defoam
+diplococcus
 dunking
 discohexaster
 doryphorus
