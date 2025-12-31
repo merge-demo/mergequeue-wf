@@ -18008,7 +18008,6 @@ coelicolae
 caliphs
 chromoplasmic
 concept
-coeligenous
 coelin
 cantharellus
 coelioscopy
@@ -24035,6 +24034,7 @@ copperworks
 coralwort
 convents
 conventual
+coeligenous
 cerebri
 converge
 connive
