@@ -6413,6 +6413,7 @@ decree
 drung
 decenter
 disencumbered
+deviled
 denizening
 dismemberments
 debellation
@@ -7682,7 +7683,6 @@ devildom
 druery
 dealerdom
 doodia
-deviled
 dallis
 demonically
 demisangue
