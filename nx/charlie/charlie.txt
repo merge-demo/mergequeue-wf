@@ -456,6 +456,7 @@ constitutionalism
 cactal
 cacti
 concrete
+characteristic
 corach
 communications
 cactoid
@@ -4277,7 +4278,6 @@ carefull
 carefuller
 carefullest
 chemosensitivities
-characteristic
 coauthored
 cursillo
 careless
