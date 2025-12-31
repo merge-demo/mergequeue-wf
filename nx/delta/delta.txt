@@ -7009,7 +7009,6 @@ disjasket
 dogfaces
 drowners
 debrided
-dachshound
 despoilments
 deorganize
 dilapidating
@@ -13804,6 +13803,7 @@ dissuaded
 delayed
 dalteen
 downsliding
+dachshound
 debunk
 dissuades
 determinations
