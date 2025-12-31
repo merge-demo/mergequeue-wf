@@ -3833,7 +3833,6 @@ engrain
 energist
 expletory
 emended
-ecu
 emending
 escribano
 emerald
@@ -4775,6 +4774,7 @@ encloister
 extend
 endosporously
 emeried
+ecu
 epencephalon
 extrarhythmical
 emboite
