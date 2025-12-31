@@ -3072,7 +3072,6 @@ boilerworks
 breather
 blastplate
 bating
-badminton
 boneblack
 barksome
 basale
@@ -9593,6 +9592,7 @@ biscayanism
 barbal
 biscayner
 beechiest
+badminton
 biscuitlike
 bondage
 bedismal
