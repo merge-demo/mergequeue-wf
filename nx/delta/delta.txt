@@ -9629,6 +9629,7 @@ diplexer
 dissight
 dipoles
 dexterous
+discompose
 dihydrostreptomycin
 dihydrotachysterol
 dhaks
@@ -11946,7 +11947,6 @@ depthing
 doorba
 designatum
 defeise
-discompose
 dramatizes
 downrange
 domes
