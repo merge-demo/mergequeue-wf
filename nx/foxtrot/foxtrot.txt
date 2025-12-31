@@ -5838,6 +5838,7 @@ floatier
 flustrum
 fulcrums
 flidge
+fortunes
 fitz
 farine
 fertilisable
@@ -8745,7 +8746,6 @@ flote
 faussebraie
 fala
 frizzled
-fortunes
 faintise
 frankfort
 freddo
