@@ -1219,7 +1219,6 @@ acanthoses
 archeus
 ascetical
 adenocarcinomata
-articulator
 adelite
 antiproductiveness
 acarapis
@@ -2605,6 +2604,7 @@ acquiescency
 accrescent
 atheist
 agapeic
+articulator
 allocated
 auxoflore
 abutters
