@@ -12684,7 +12684,6 @@ diskindness
 diskography
 dvandva
 dextrorse
-doleful
 divining
 dehorts
 diatrymiformes
@@ -17520,6 +17519,7 @@ druggets
 dendroidea
 doorhawk
 drawability
+doleful
 ditrocha
 degassers
 deltahedra
