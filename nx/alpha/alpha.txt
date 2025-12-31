@@ -2682,6 +2682,7 @@ alcoholytic
 accreditment
 acetoxyphthalide
 alepidote
+allelotropism
 anytime
 advert
 abrasive
@@ -8632,7 +8633,6 @@ allelotropy
 allelotropic
 attendantly
 aldehydase
-allelotropism
 alleluia
 aeschylean
 applesauce
