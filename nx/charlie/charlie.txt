@@ -6833,6 +6833,7 @@ correlations
 coadministrator
 churchiness
 celiocolpotomy
+copulable
 celioelytrotomy
 careeringly
 chary
@@ -17974,7 +17975,6 @@ coelection
 coelector
 cloacean
 cephalomyitis
-copulable
 chololith
 captiving
 colpocele
