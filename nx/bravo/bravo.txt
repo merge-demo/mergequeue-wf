@@ -141,7 +141,6 @@ boolian
 banister
 basidiocarp
 biocoenosis
-beeheaded
 bailiffwick
 beachcomb
 benzene
@@ -7205,6 +7204,7 @@ bromometrical
 berylliosis
 bestench
 bearberry
+beeheaded
 be
 brannigan
 bismuthal
