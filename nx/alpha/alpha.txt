@@ -598,7 +598,6 @@ antarctic
 aphasic
 alexic
 antelopine
-autoeducative
 arboriform
 abodes
 aboil
@@ -882,6 +881,7 @@ astir
 alachah
 akroterion
 anabong
+autoeducative
 audiometric
 apogeotropic
 aures
