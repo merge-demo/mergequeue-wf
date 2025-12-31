@@ -7231,6 +7231,7 @@ blades
 beveled
 barrack
 bestraddled
+bachelorize
 bytime
 bongrace
 bauta
@@ -9560,7 +9561,6 @@ bakerdom
 bis
 borracha
 borussian
-bachelorize
 bert
 besputter
 bicipitous
