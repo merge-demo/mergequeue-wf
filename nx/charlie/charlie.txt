@@ -24034,7 +24034,6 @@ countercoup
 conventioner
 conventionize
 copperworks
-conventions
 coralwort
 convents
 conventual
@@ -30153,6 +30152,7 @@ cruciality
 crucially
 courge
 crucian
+conventions
 chokidar
 crucians
 cruciately
