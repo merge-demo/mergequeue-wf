@@ -1110,6 +1110,7 @@ equivalencing
 epitrichial
 exsanguinated
 encatarrhaphy
+erichthoid
 ejectee
 enarm
 endopterygotic
@@ -8916,7 +8917,6 @@ explosible
 encephalomalaxis
 ergotism
 ergotizing
-erichthoid
 ewder
 euphonium
 ergots
