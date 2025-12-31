@@ -4143,7 +4143,6 @@ cornmaster
 condalia
 cardin
 cardinal
-cardinalfish
 croslet
 cancans
 cardinalfishes
@@ -5037,6 +5036,7 @@ coannex
 catarrhine
 cryptogramma
 carload
+cardinalfish
 couchantly
 cartwheeler
 consolan
