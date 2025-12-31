@@ -5008,6 +5008,7 @@ encapsule
 erogeneity
 epithelioblastoma
 endogastric
+exauthorate
 enders
 empathic
 exulcerative
@@ -11820,7 +11821,6 @@ ethenoidal
 ectomorphy
 ectothermic
 exists
-exauthorate
 exauthorizeexc
 eplot
 externization
