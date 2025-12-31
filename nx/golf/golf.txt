@@ -6543,7 +6543,6 @@ groundage
 groundably
 gospelmonger
 gallivat
-goniatitoid
 gallowsmaker
 glycogenosis
 ghis
@@ -7917,6 +7916,7 @@ grammatistical
 gratinated
 giglots
 grammatite
+goniatitoid
 glossotherium
 gramme
 ginned
