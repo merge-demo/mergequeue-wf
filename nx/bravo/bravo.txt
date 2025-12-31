@@ -2919,7 +2919,6 @@ barrelet
 bookend
 batuque
 botanical
-bostonese
 beachheads
 blennometritis
 bonair
@@ -4901,6 +4900,7 @@ biophysical
 bradystalsis
 bewpers
 beechen
+bostonese
 beechnut
 breakstone
 beglic
