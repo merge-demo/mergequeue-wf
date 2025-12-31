@@ -3575,7 +3575,6 @@ bathysophical
 bathysphere
 boliviano
 bathythermograph
-bathkol
 bipartite
 bathmat
 bathmats
@@ -8308,6 +8307,7 @@ barosma
 bisexuous
 bigeminated
 brontometer
+bathkol
 beachiest
 boundingly
 bremia
