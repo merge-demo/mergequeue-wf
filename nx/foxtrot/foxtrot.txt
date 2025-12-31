@@ -765,7 +765,6 @@ foliicolous
 fallows
 fandangos
 ferried
-fandoms
 frivolized
 fellowlike
 fermacy
@@ -5090,6 +5089,7 @@ flareless
 frother
 foraminulous
 fuss
+fandoms
 flanders
 felter
 flawful
