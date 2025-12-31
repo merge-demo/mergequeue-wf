@@ -1464,6 +1464,7 @@ foreshows
 fabulate
 flytes
 flaillike
+frayproof
 fissidentaceous
 fibry
 frizzes
@@ -7722,7 +7723,6 @@ falsified
 finnack
 fasciated
 fernier
-frayproof
 foreigneering
 friend
 flexes
