@@ -9771,7 +9771,6 @@ cheilostomatous
 censer
 cheyneys
 cankeredly
-cimex
 chromotype
 cheiranthus
 cheirogaleus
@@ -29221,6 +29220,7 @@ cryptamnesic
 cryptanalytically
 cryptanalyze
 cothamore
+cimex
 capybara
 cryptanalyzing
 cryptarchy
