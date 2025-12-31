@@ -794,7 +794,6 @@ goombay
 gastrospasm
 goloka
 guamuchil
-gimlet
 gamboller
 gambade
 gravata
@@ -8122,6 +8121,7 @@ geomorphogeny
 giblets
 grimily
 granophyre
+gimlet
 gooseliver
 gnathostegite
 guglets
