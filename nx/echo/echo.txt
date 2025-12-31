@@ -4497,7 +4497,6 @@ endolithic
 encephalartos
 effloresced
 escocheon
-erythrophagous
 encephalitic
 executively
 emulators
@@ -10096,6 +10095,7 @@ exploitee
 elenchically
 eumolpus
 eutopia
+erythrophagous
 euphausiacea
 earlike
 entities
