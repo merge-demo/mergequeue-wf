@@ -1993,6 +1993,7 @@ feere
 flipper
 fautor
 florilegium
+fibreglass
 fours
 fimicolous
 furmity
@@ -9427,7 +9428,6 @@ foxholes
 foreweigh
 fidgeter
 forbye
-fibreglass
 fondu
 frenum
 ficaria
