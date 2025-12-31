@@ -3408,7 +3408,6 @@ gnatling
 gorkun
 galbe
 gonocytes
-gullably
 gainor
 gymnoceratous
 gerontocrat
@@ -10332,6 +10331,7 @@ gladiest
 goldfishes
 gabari
 gravemaster
+gullably
 greathearted
 grammaticism
 greenwax
