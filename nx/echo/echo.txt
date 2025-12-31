@@ -4376,7 +4376,6 @@ emote
 epotation
 eggars
 encranial
-extrovert
 excrescence
 eritrean
 eremacausis
@@ -11603,6 +11602,7 @@ elegize
 enchiridion
 explicating
 entablatured
+extrovert
 electroretinogram
 engregge
 eternalising
