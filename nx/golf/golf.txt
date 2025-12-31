@@ -4905,7 +4905,6 @@ gleam
 glozes
 gimme
 gladiola
-granatite
 goldurns
 goatly
 gastroenteric
@@ -8329,6 +8328,7 @@ gibberish
 grappling
 glucosone
 gradus
+granatite
 germanish
 graptolitha
 gibers
