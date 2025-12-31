@@ -2067,7 +2067,6 @@ glutted
 gavots
 gomari
 glossers
-gingkoes
 glorious
 gator
 geleem
@@ -4688,6 +4687,7 @@ gloy
 gurjun
 girshes
 gipsyish
+gingkoes
 garvanzo
 gastrohelcosis
 geomorphologic
