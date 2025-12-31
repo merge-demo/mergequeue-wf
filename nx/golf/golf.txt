@@ -5629,7 +5629,6 @@ garnice
 gradable
 geophilidae
 governeress
-gondolet
 gravity
 geryon
 golfers
@@ -7119,6 +7118,7 @@ gregorianist
 gastral
 germanist
 gox
+gondolet
 gedanken
 grumly
 granum
