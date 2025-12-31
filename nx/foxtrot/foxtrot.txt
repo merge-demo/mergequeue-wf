@@ -6233,6 +6233,7 @@ fucused
 fluctuational
 factioneer
 fluegelhorn
+febriferous
 foalfoot
 fairgrounds
 forlana
@@ -6892,7 +6893,6 @@ fornacic
 forebackwardly
 farmout
 fragments
-febriferous
 flammeous
 fitly
 folklike
