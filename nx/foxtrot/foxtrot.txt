@@ -11534,7 +11534,6 @@ furlable
 fabling
 fictionize
 fards
-flory
 famulary
 flattener
 fervently
@@ -11565,6 +11564,7 @@ fluctigerous
 fusillading
 feuage
 furzechat
+flory
 fundatrix
 fanleaf
 fluence
