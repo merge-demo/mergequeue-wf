@@ -4045,7 +4045,6 @@ admittance
 admitted
 agitpunkt
 ardoise
-aurally
 ampliation
 aedoeagi
 allocates
@@ -7556,6 +7555,7 @@ algonquins
 antislavery
 achondrite
 antileft
+aurally
 auxographic
 ammonolyze
 antisteapsin
