@@ -772,7 +772,6 @@ easternizing
 ecoute
 exscinding
 ecphore
-ecphonema
 emotes
 echinal
 euomphalid
@@ -2315,6 +2314,7 @@ escalatory
 exterminations
 ensepulchre
 evangelicalness
+ecphonema
 electrizable
 exocyclic
 electrization
