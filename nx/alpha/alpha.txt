@@ -14490,7 +14490,6 @@ allan
 anthropometrist
 anthropomophitism
 afflictively
-antiphrastic
 antipestilence
 accompanist
 adjutage
@@ -15489,6 +15488,7 @@ antimysticism
 antimixing
 algum
 auxilium
+antiphrastic
 amenorrhoeal
 alabastrum
 aspectual
