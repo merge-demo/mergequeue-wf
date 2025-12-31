@@ -6933,6 +6933,7 @@ fulgurite
 fuchsian
 formalisation
 forbode
+freshmen
 fluxroot
 fastball
 foxlike
@@ -9807,7 +9808,6 @@ freshhearted
 foraminal
 feminists
 fulminator
-freshmen
 fanners
 floorwalker
 fictility

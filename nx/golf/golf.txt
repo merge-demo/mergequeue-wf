@@ -6052,7 +6052,6 @@ ganevs
 gastradenitis
 guerre
 gallocyanin
-gymnocarpic
 giesel
 gunate
 geyerite
@@ -6888,6 +6887,7 @@ gorbal
 guaranty
 globosities
 galaxies
+gymnocarpic
 gymsia
 gluteoinguinal
 gauntlets
