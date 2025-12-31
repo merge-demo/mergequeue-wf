@@ -2968,7 +2968,6 @@ fezzed
 favosite
 fofarraw
 fluvanna
-fallway
 fadings
 felucca
 frothing
@@ -5046,6 +5045,7 @@ flapdock
 fluvialist
 familiarized
 fissures
+fallway
 forecourse
 fatteners
 flaperon
