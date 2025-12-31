@@ -4881,7 +4881,6 @@ batmen
 baudekins
 by
 beltwise
-bandcase
 baffing
 beduncing
 botchiest
@@ -9629,6 +9628,7 @@ bisects
 bottleflower
 banalize
 bosky
+bandcase
 baboot
 biseriately
 biset

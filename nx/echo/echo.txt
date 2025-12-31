@@ -747,7 +747,6 @@ ecospecific
 emblematised
 extoled
 effaces
-endermatic
 exuvium
 ecotype
 ecotipically
@@ -7016,6 +7015,7 @@ epilogued
 escalops
 eburnation
 enwood
+endermatic
 eneas
 eustyle
 epimerising
