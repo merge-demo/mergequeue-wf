@@ -3122,6 +3122,7 @@ fibroenchondroma
 friseur
 faring
 fulminancy
+foam
 foremistress
 forcipated
 fibroferrite
@@ -8614,7 +8615,6 @@ feower
 freehold
 fainters
 floodmark
-foam
 farmplace
 frequence
 fiscs
