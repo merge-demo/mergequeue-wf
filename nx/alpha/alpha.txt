@@ -1576,6 +1576,7 @@ anthrop
 amatorian
 accouche
 accoucheur
+adapting
 accoucheuses
 arclength
 accountable
@@ -3368,7 +3369,6 @@ allegorize
 antipope
 arbored
 anaqua
-adapting
 acknowledging
 abelmoschus
 alter
