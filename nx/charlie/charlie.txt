@@ -15571,7 +15571,6 @@ classicality
 chaya
 classicise
 chromophoric
-classicism
 classicist
 classicists
 cheshire
@@ -27363,6 +27362,7 @@ courteousness
 courtepy
 courter
 cozily
+classicism
 chilblain
 courtesan
 citriculturist
