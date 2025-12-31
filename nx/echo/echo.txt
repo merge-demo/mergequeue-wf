@@ -5866,6 +5866,7 @@ expalpate
 eloign
 entree
 engysseismology
+ebbman
 ethiops
 episyntheton
 erasures
@@ -12352,7 +12353,6 @@ earlier
 expoliate
 eurasian
 exfoliative
-ebbman
 exhalents
 etude
 entermise
