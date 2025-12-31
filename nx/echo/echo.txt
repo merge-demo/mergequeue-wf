@@ -822,7 +822,6 @@ eral
 excrescent
 extremest
 encrust
-ectypography
 exegetical
 epitheton
 entrecote
@@ -11212,6 +11211,7 @@ evanescing
 exorbitancy
 expilation
 endover
+ectypography
 electrotonicity
 experimentalist
 elaphine
