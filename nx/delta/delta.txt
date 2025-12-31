@@ -3407,6 +3407,7 @@ downrightness
 dudgeon
 duke
 disgracement
+dibothriocephalus
 dissatisfy
 debasement
 deflocculating
@@ -8853,7 +8854,6 @@ dibhole
 dioptry
 dualized
 diborate
-dibothriocephalus
 dibranch
 duftery
 defiguration
