@@ -4359,7 +4359,6 @@ emulative
 enamour
 enamouredness
 expostulator
-eutopian
 eulogistical
 effuse
 espouse
@@ -13214,6 +13213,7 @@ enlightenedness
 earings
 emboliform
 explanted
+eutopian
 explanting
 explat
 empurples
