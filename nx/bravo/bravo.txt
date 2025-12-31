@@ -9535,7 +9535,6 @@ birthed
 bakairi
 basilyst
 birthless
-blastemata
 berceuses
 bacteria
 branchiostegite
@@ -11484,6 +11483,7 @@ bejade
 bluetongue
 bedmates
 bethylidae
+blastemata
 bluetop
 berths
 burgware
