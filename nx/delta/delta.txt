@@ -1256,7 +1256,6 @@ depsides
 drosograph
 datisi
 dative
-dorking
 datively
 dreamlore
 dialectalize
@@ -11986,6 +11985,7 @@ disembogued
 diarian
 deceases
 disembowel
+dorking
 deliciate
 dictionaries
 diducing
