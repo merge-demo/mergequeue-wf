@@ -324,7 +324,6 @@ beneficially
 backcross
 backdates
 beplaster
-betrayed
 boiloffs
 bistetrazole
 bradoons
@@ -12514,6 +12513,7 @@ bulbose
 bonify
 bdls
 betaines
+betrayed
 bnf
 bondstone
 burntness
