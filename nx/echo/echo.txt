@@ -1162,7 +1162,6 @@ equidivision
 edoni
 excisemen
 entrochite
-edplot
 edrioasteroidea
 epipany
 electrotyped
@@ -2569,6 +2568,7 @@ ezra
 emptiable
 electrometer
 exstrophy
+edplot
 earthgrubber
 electrometrical
 electromobile
