@@ -4929,6 +4929,7 @@ eveck
 east
 extradictable
 endamoebas
+extradomestic
 endamoebidae
 equations
 entoils
@@ -13865,7 +13866,6 @@ emollient
 endolymphangial
 extracloacal
 extradited
-extradomestic
 ecchymoma
 extradosed
 entireties
