@@ -12030,7 +12030,6 @@ bacchical
 bogtrotting
 batfowler
 bowldering
-bombastry
 bimillenary
 brother
 bogued
@@ -17506,6 +17505,7 @@ briskening
 bragwort
 biteless
 bepierce
+bombastry
 biscotin
 betes
 bioecologist
