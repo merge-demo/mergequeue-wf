@@ -8109,6 +8109,7 @@ electrophotomicrography
 escarmouche
 epicoelia
 encephalothlipsis
+ergal
 electrovection
 enbibe
 episarkine
@@ -10272,7 +10273,6 @@ epilogist
 enspangle
 effodientia
 elasticizer
-ergal
 extravasate
 eulogium
 excipulum
