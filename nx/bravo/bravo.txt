@@ -3876,7 +3876,6 @@ bawdrics
 bawdries
 boreal
 bawl
-bawled
 bawler
 bawly
 brutalitarian
@@ -5913,6 +5912,7 @@ belonidae
 beatnik
 beprose
 blisses
+bawled
 backslap
 belostomatidae
 besleeve
