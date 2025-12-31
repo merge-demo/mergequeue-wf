@@ -13,6 +13,7 @@ funariaceae
 fabianist
 falconine
 flagellators
+fertilisable
 frontwise
 forcing
 fablemaker
@@ -5851,7 +5852,6 @@ flidge
 fortunes
 fitz
 farine
-fertilisable
 fowling
 floristic
 floatsmen
