@@ -503,7 +503,6 @@ flaneries
 formicariidae
 flickered
 foretokens
-frieseite
 fiumara
 forcleave
 fakery
@@ -3842,6 +3841,7 @@ formicary
 fiberscope
 forgiveable
 fungistat
+frieseite
 flavanthrene
 favous
 fimbriating
