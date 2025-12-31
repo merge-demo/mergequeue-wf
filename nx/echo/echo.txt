@@ -989,7 +989,6 @@ excrementary
 edaphology
 etymological
 edaphon
-ecchymotic
 endorsing
 excel
 enquiring
@@ -5235,6 +5234,7 @@ ergatandromorph
 edginesses
 edificative
 eyrer
+ecchymotic
 euchroic
 exsected
 enantiomeride
