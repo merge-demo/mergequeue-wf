@@ -12534,7 +12534,6 @@ dicotyledonary
 disinfectants
 drafter
 dreg
-disinfected
 deceivers
 docetism
 denaturizer
@@ -16689,6 +16688,7 @@ detach
 darnel
 drinking
 desktop
+disinfected
 despondent
 disturbers
 diablo
