@@ -8942,7 +8942,6 @@ frwy
 freewoman
 frederick
 foundered
-fokker
 foreboard
 finial
 fantastico
@@ -10662,6 +10661,7 @@ fruitester
 fargood
 fitments
 forenamed
+fokker
 florican
 fundamental
 frankness
