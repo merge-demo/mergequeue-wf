@@ -6171,7 +6171,6 @@ garters
 guaiacol
 gadfly
 geelbec
-goa
 gadsbud
 goadsman
 grihastha
@@ -9500,6 +9499,7 @@ glycose
 gravedigger
 gladiate
 glossy
+goa
 gravific
 guesstimate
 ganser
