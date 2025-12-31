@@ -2147,7 +2147,6 @@ bantu
 bantus
 baboonish
 bandon
-bewield
 blandfordia
 backup
 blahlaut
@@ -14931,6 +14930,7 @@ barger
 breakings
 bovicide
 breaklist
+bewield
 bostonians
 breakoff
 brainwork
