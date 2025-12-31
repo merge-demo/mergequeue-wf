@@ -2427,7 +2427,6 @@ extrabold
 evenglow
 eumenidean
 empiristic
-engrossingly
 esloign
 entailment
 ehrwaldite
@@ -6165,6 +6164,7 @@ ectoparasitic
 embronze
 evagation
 entrancing
+engrossingly
 eyepoints
 effacing
 eruditionist
