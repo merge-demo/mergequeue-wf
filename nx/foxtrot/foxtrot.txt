@@ -6705,6 +6705,7 @@ flame
 felted
 fogless
 floodometer
+forepaling
 fogo
 frescoists
 feast
@@ -11190,7 +11191,6 @@ fallfishes
 forcipal
 fireplugs
 frenzelite
-forepaling
 flinter
 fluorophosphate
 frontiersman
