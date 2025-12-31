@@ -5136,6 +5136,7 @@ fregit
 farmhousey
 fraile
 frighting
+fogdom
 frizzly
 foreadvise
 fellas
@@ -11512,7 +11513,6 @@ foaling
 fairings
 foretopmen
 fibrolipomatous
-fogdom
 fissidactyl
 fireflaught
 filmsetting
