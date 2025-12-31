@@ -5819,6 +5819,7 @@ bromids
 benevolences
 bemata
 beleaps
+bracteolate
 bestorm
 bldg
 bricks
@@ -9551,7 +9552,6 @@ bugaboos
 baffeta
 births
 birthstones
-bracteolate
 brontephobia
 bulliform
 birthstool
