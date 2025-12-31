@@ -9651,6 +9651,7 @@ gnatty
 gracileness
 genson
 grozart
+gunj
 gaeltacht
 granulomata
 grozer
@@ -10164,7 +10165,6 @@ gloried
 glideness
 guardianly
 git
-gunj
 gingely
 grabby
 grown
