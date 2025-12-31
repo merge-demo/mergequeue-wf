@@ -1143,7 +1143,6 @@ flockling
 flagrance
 florulas
 facials
-fiberization
 foghorns
 frumety
 fidelis
@@ -4550,6 +4549,7 @@ fascistic
 fiscalify
 frontier
 firlot
+fiberization
 fley
 flypasts
 fetishic
