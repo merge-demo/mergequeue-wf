@@ -17343,7 +17343,6 @@ anatiferous
 apostleships
 appeacher
 agmas
-ares
 abatis
 ascidiferous
 anoplotherium
@@ -20726,6 +20725,7 @@ aces
 affrontingly
 avid
 antarchy
+ares
 augmenting
 acquitment
 artifactitious
