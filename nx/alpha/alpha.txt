@@ -2458,6 +2458,7 @@ antigene
 acmaeidae
 asparagus
 amphisbaenidae
+apogaeic
 acme
 articulata
 americana
@@ -17095,7 +17096,6 @@ adverb
 apodyterium
 apods
 azotizing
-apogaeic
 aile
 aptera
 antipopulism
