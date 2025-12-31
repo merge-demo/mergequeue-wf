@@ -3688,6 +3688,7 @@ gillnets
 gigantine
 ghizite
 glops
+gooselike
 gurgly
 governorships
 gadgeteers
@@ -4383,7 +4384,6 @@ gerund
 gayway
 galvanoscope
 ginhouse
-gooselike
 gelidiaceae
 gametocyst
 gangrene
