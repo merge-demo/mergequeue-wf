@@ -1882,6 +1882,7 @@ fallow
 foute
 fewer
 flintier
+foldy
 footingly
 foredoom
 footstep
@@ -2912,7 +2913,6 @@ furazane
 frustums
 fencing
 forereaching
-foldy
 floccipend
 filthless
 farfetch
