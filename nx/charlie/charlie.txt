@@ -15547,6 +15547,7 @@ cormlike
 clasmatocyte
 ccoya
 clasmatocytic
+conjugable
 clasmatosis
 cuitle
 clasped
@@ -18117,7 +18118,6 @@ coenobioid
 conicoid
 contentless
 contakion
-conjugable
 cardinalism
 coenobitical
 coannexing
