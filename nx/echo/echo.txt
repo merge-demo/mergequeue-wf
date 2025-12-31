@@ -755,6 +755,7 @@ enclaved
 ecaudate
 enriching
 estrangle
+endokaryogamy
 echinocaris
 evangelism
 extorsive
@@ -13947,7 +13948,6 @@ ectotrophic
 expressless
 epimer
 eozoonal
-endokaryogamy
 enface
 electropoion
 excuse
