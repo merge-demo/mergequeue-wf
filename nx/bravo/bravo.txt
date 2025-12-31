@@ -6244,7 +6244,6 @@ bennies
 benomyl
 basiliscus
 backspread
-benightedness
 benorth
 benefact
 beme
@@ -16172,6 +16171,7 @@ blueness
 bitesheep
 brosot
 bradyteleokinesis
+benightedness
 blabbered
 blockman
 balbuties
