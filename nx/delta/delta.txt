@@ -10908,7 +10908,6 @@ dispondaic
 dazzlement
 dannock
 disaccomodate
-dromons
 dobsonflies
 droplike
 dropcloth
@@ -17673,6 +17672,7 @@ disapprovingly
 demonomancy
 disanimal
 dimerisms
+dromons
 dentalium
 dualizes
 demarcate
