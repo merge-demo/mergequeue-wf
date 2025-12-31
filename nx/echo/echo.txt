@@ -9208,7 +9208,6 @@ entryway
 eroticomania
 endarterectomy
 embound
-episcopes
 epikleses
 empannel
 epiderm
@@ -9411,6 +9410,7 @@ echeneid
 embodied
 enfranchiser
 extent
+episcopes
 elaphomyces
 elsewhere
 esophagorrhagia
