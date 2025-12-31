@@ -4523,7 +4523,6 @@ endable
 ectrogeny
 epanthous
 epirrheme
-eyeflap
 entalent
 eery
 enrange
@@ -11398,6 +11397,7 @@ eponymist
 eventime
 entosternite
 eventlessly
+eyeflap
 empennages
 ergamine
 eyebree
