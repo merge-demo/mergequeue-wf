@@ -4136,6 +4136,7 @@ fusilading
 fulk
 farmy
 felonry
+fellowshipping
 flexed
 fenchyl
 feezed
@@ -4821,7 +4822,6 @@ fullwords
 flu
 formate
 faena
-fellowshipping
 falsen
 forties
 floroon
