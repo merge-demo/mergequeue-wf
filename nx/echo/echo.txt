@@ -4368,6 +4368,7 @@ episperm
 euphrasia
 ectropionized
 equimolar
+emote
 epotation
 eggars
 encranial
@@ -7037,7 +7038,6 @@ earphone
 enactory
 epiphenomenon
 eundem
-emote
 entrapping
 eurygaea
 exchequers
