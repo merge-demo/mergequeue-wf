@@ -9643,6 +9643,7 @@ anecdotist
 asmack
 anaemic
 alveary
+apalit
 alvearium
 alveolariform
 antitetanic
@@ -16553,7 +16554,6 @@ apaid
 abioses
 antitrochanter
 allochetia
-apalit
 apanaged
 alouatta
 arabize
