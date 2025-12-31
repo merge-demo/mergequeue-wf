@@ -139,7 +139,6 @@ bedimpled
 boolian
 banister
 basidiocarp
-biocoenosis
 bailiffwick
 beachcomb
 benzene
@@ -2393,6 +2392,7 @@ buckhorn
 brabant
 brigandishly
 branchling
+biocoenosis
 bobtails
 bardess
 bikinis
