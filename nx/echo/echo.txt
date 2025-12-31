@@ -11299,6 +11299,7 @@ extrascholastic
 euphorbine
 elbowboard
 evaporating
+extubate
 eviscerating
 endoarteritis
 esophagodynia
@@ -12992,7 +12993,6 @@ enjoins
 epipastic
 edictally
 expectorative
-extubate
 exhaustingly
 expostulatory
 estive
