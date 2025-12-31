@@ -12040,7 +12040,6 @@ braula
 bidigitate
 bromeliad
 babysitting
-bunkhouse
 biogens
 bohora
 benny
@@ -17342,6 +17341,7 @@ bumwood
 bore
 benzotrifluoride
 bopyrus
+bunkhouse
 bucoliast
 bunchy
 bunchier
