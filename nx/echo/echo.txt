@@ -4601,7 +4601,6 @@ encheason
 enchequer
 ethnopsychic
 euphemism
-endosarcode
 easiness
 ethnolinguistics
 embryophagous
@@ -7892,6 +7891,7 @@ epeirid
 extrabuccal
 exquisitive
 experimentation
+endosarcode
 epileny
 endopeptidase
 epithecal
