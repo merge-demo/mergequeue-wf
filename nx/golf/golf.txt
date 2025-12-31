@@ -7275,7 +7275,6 @@ garlicmonger
 grabbing
 greencloth
 governorate
-gourmands
 gaonate
 generosity
 gribble
@@ -10466,6 +10465,7 @@ gusset
 goosy
 guimpe
 guanophore
+gourmands
 goatbrush
 gagor
 gonium
