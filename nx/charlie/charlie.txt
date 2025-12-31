@@ -8321,7 +8321,6 @@ councillary
 chalder
 coholder
 chaleh
-chalybeate
 chalybes
 chalice
 chancelry
@@ -19708,6 +19707,7 @@ criminal
 combatable
 chroma
 chrismale
+chalybeate
 combatant
 cimbalom
 combater
