@@ -1145,6 +1145,7 @@ grouses
 goninidia
 genin
 gitoxin
+gestion
 gnawings
 galactometry
 gnetums
@@ -7845,7 +7846,6 @@ globefishes
 gravidas
 gooiest
 garneter
-gestion
 guanche
 gerately
 gufa
