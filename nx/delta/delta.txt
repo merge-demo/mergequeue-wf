@@ -1623,7 +1623,6 @@ deutsche
 disorientated
 didymia
 deisin
-disfranchising
 deliverable
 difficulty
 daylong
@@ -5015,6 +5014,7 @@ darci
 dingly
 deemphasis
 denationalise
+disfranchising
 denationalize
 dedicator
 decaesarize
