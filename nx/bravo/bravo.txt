@@ -54,7 +54,6 @@ babbly
 befrogged
 brushable
 babbit
-baton
 botrytises
 barberish
 babblings
@@ -11802,6 +11801,7 @@ besmoothed
 barnful
 br
 billingsgate
+baton
 buckwheat
 bocasin
 bookshops
