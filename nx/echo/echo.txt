@@ -3775,7 +3775,6 @@ edificial
 exceeding
 embruing
 enfranchises
-edulcorate
 enamellist
 elegiacs
 embruting
@@ -6720,6 +6719,7 @@ exploitations
 epileptics
 elongations
 enterprize
+edulcorate
 expertising
 encompasses
 entosclerite
