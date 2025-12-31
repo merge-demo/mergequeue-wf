@@ -1579,7 +1579,6 @@ gunlock
 grangerised
 ganoidean
 gasterotheca
-gymnetrous
 glabellar
 grizzly
 gougers
@@ -3920,6 +3919,7 @@ gonotome
 glarily
 gravidness
 galeoid
+gymnetrous
 goral
 gnostic
 glens
