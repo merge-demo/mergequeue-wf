@@ -2645,7 +2645,6 @@ acrawl
 amygdalic
 acre
 amount
-afoam
 aquamarine
 ammochaeta
 acreage
@@ -19989,6 +19988,7 @@ afterclap
 armseye
 actuators
 abatjour
+afoam
 aals
 amasta
 armure
