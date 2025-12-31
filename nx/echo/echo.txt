@@ -10897,7 +10897,6 @@ exsolve
 emendations
 exrupeal
 emmetropia
-eutectic
 extensor
 exobasidium
 embryoplastic
@@ -13860,6 +13859,7 @@ executancy
 euglobulin
 etamine
 exosmosis
+eutectic
 emollient
 endolymphangial
 extracloacal
