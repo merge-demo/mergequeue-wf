@@ -4267,6 +4267,7 @@ gramineousness
 greenwithe
 geoform
 gymnotid
+gunfight
 goon
 galilean
 gantleting
@@ -8912,7 +8913,6 @@ grandeur
 glaucochroite
 grizard
 groundberry
-gunfight
 gressoria
 gourdful
 gladded
