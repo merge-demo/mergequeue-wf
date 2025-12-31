@@ -8139,7 +8139,6 @@ glunching
 gladiatrix
 gapeworm
 glaucously
-genuine
 gainsome
 gulch
 griding
@@ -9559,6 +9558,7 @@ graphophonic
 guacico
 griminess
 groundkeeper
+genuine
 glidder
 grumbler
 greenlander
