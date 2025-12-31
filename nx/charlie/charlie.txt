@@ -4159,6 +4159,7 @@ cardiomegalia
 caffa
 clerihew
 cubed
+concipient
 chancellor
 cardinalities
 cardinally
@@ -30878,7 +30879,6 @@ contr
 cypselid
 culsdesac
 chrysanthous
-concipient
 cresoxide
 cultches
 cultellation
