@@ -5320,7 +5320,6 @@ fluoridize
 fatwood
 fulciform
 fretters
-french
 flain
 fernwort
 fulyie
@@ -6468,6 +6467,7 @@ floriage
 footbaths
 feneration
 fluotantalic
+french
 forweary
 filth
 fellah
