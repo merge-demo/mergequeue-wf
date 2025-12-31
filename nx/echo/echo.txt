@@ -3872,7 +3872,6 @@ entrapment
 exemplarily
 exosculation
 effeminacy
-emic
 euryclea
 emyde
 enwrought
@@ -11142,6 +11141,7 @@ evicke
 embanked
 eutrophication
 externalised
+emic
 expiating
 electrosynthetic
 evocation
