@@ -11012,6 +11012,7 @@ dayment
 disclosable
 demonstrandum
 dhoti
+degauss
 dumfound
 dobbers
 divides
@@ -14513,7 +14514,6 @@ dihelios
 decoupling
 delly
 deckhouse
-degauss
 diphyzooid
 decapitating
 drouk
