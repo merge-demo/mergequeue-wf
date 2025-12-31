@@ -4613,7 +4613,6 @@ attractivity
 aedeagi
 assyriologist
 aedeagus
-aviculture
 aedicule
 attraction
 anallantoidean
@@ -11189,6 +11188,7 @@ affluently
 autolimnetic
 abrege
 atchison
+aviculture
 arzrunite
 amphimictic
 animized
