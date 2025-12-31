@@ -9249,7 +9249,6 @@ axunge
 antitumor
 alopecia
 alopecias
-alopecoid
 antrectomy
 alophas
 alterman
@@ -21360,6 +21359,7 @@ adam
 agriculturists
 amphibia
 autist
+alopecoid
 asynergy
 asynergia
 adamantly
