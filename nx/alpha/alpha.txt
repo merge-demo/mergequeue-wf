@@ -4784,6 +4784,7 @@ awakener
 autocross
 aerobiosis
 addleheaded
+aglipayan
 absorbability
 aerobious
 allotypy
@@ -6770,7 +6771,6 @@ amyctic
 airflow
 antimoralist
 agoniada
-aglipayan
 airfoil
 airfoils
 airglows
