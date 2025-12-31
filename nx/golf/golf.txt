@@ -276,7 +276,6 @@ grubstaked
 geet
 glossophora
 geobotany
-glomeruli
 ganjas
 gynaecian
 gaminesque
@@ -6888,6 +6887,7 @@ globosities
 galaxies
 gymnocarpic
 gymsia
+glomeruli
 gluteoinguinal
 gauntlets
 glucoprotein
