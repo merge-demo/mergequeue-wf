@@ -7267,7 +7267,6 @@ deterioration
 data
 dear
 dicyan
-diamondlike
 dreamily
 disinclines
 deteriorative
@@ -17649,6 +17648,7 @@ dygogram
 diversifies
 diffusimeter
 deedholder
+diamondlike
 diastrophe
 doolies
 dhaw
