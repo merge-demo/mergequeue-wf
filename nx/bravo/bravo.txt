@@ -2568,7 +2568,6 @@ bardel
 barylalia
 beleaped
 blens
-bactrian
 backtalk
 barile
 barilla
@@ -16153,6 +16152,7 @@ beardtongue
 broomballer
 blasphemers
 biologic
+bactrian
 broomiest
 bulletins
 buccocervical
