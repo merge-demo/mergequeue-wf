@@ -4261,7 +4261,6 @@ gubbo
 gnu
 goby
 gynecocrat
-gopherman
 gleamed
 gastroscope
 gangliated
@@ -9656,6 +9655,7 @@ glochidian
 ghanian
 griffinish
 griddling
+gopherman
 gunbarrel
 gleets
 grubstakes
