@@ -7675,7 +7675,6 @@ grimy
 globalized
 glancingly
 guenons
-guardianless
 geomantic
 gradated
 gatecrasher
@@ -9572,6 +9571,7 @@ grouze
 gelatined
 glume
 gymnosoph
+guardianless
 gastornithidae
 groved
 greenskeeper
