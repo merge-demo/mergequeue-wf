@@ -178,7 +178,6 @@ decipherer
 daedaloid
 diel
 diaplasma
-daedalous
 daybill
 daemony
 deforesting
@@ -16523,6 +16522,7 @@ dibblers
 draftiest
 disobeyer
 dauding
+daedalous
 dodderer
 dithiol
 distrix
