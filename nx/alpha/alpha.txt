@@ -1755,7 +1755,6 @@ asbestic
 assoria
 accusor
 annerre
-accustomation
 armouring
 adelaster
 armpit
@@ -7653,6 +7652,7 @@ abaissed
 alcoholometer
 acidic
 apterygial
+accustomation
 averroistic
 actualise
 arthrolith
