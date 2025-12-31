@@ -2686,6 +2686,7 @@ auctioning
 arquebus
 alcoholytic
 accreditment
+anhedral
 acetoxyphthalide
 alepidote
 allelotropism
@@ -12984,7 +12985,6 @@ aluniferous
 assubjugate
 aeroballistics
 agglomeratic
-anhedral
 anhelation
 anhelose
 anhemitonic
