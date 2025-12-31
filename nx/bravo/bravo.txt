@@ -10972,7 +10972,6 @@ batement
 bouvardia
 benchmar
 blinkingly
-blinter
 batel
 blocky
 brassage
@@ -17819,6 +17818,7 @@ bianisidine
 becompass
 belord
 brocade
+blinter
 brachistocephalous
 berengarian
 backbit
