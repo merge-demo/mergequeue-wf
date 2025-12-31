@@ -6888,7 +6888,6 @@ cementers
 cellular
 caloris
 carbonatization
-cellulated
 corradiating
 cornicular
 cathro
@@ -8607,6 +8606,7 @@ chrestomathic
 chainstitch
 chancroidal
 chorgi
+cellulated
 chandala
 chandelle
 chandelling
