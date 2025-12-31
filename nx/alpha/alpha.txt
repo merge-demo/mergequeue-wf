@@ -5465,7 +5465,6 @@ acentric
 aftercrop
 amphigaea
 acanthodian
-affrontment
 afterdays
 antifoam
 amadou
@@ -21736,6 +21735,7 @@ alewife
 acetimetric
 assentingly
 assentive
+affrontment
 antithet
 architectonics
 abbroachment

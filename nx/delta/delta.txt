@@ -1288,7 +1288,6 @@ dauber
 distinguishingly
 dauberies
 dramatic
-dumpings
 decoloured
 daubreite
 degaussing
@@ -8312,6 +8311,7 @@ diaguite
 downlinked
 diaka
 despeed
+dumpings
 dapper
 disserted
 dizzard
