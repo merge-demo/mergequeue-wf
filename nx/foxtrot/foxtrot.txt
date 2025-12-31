@@ -636,7 +636,6 @@ falsity
 faltboat
 flavorlessness
 faltere
-flavored
 frequenter
 frithsoken
 falx
@@ -4347,6 +4346,7 @@ filecard
 fellows
 factions
 forewomen
+flavored
 foresleeve
 finagle
 foraramina
