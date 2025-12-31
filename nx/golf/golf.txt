@@ -3212,7 +3212,6 @@ golilla
 grievants
 greatheartedness
 gambled
-gloater
 gauche
 globosely
 gepidae
@@ -5142,6 +5141,7 @@ grassland
 graciousness
 glycoside
 gasteromycete
+gloater
 glossate
 glarier
 gregarinous
