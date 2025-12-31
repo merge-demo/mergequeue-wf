@@ -4709,7 +4709,6 @@ chalcedonian
 carouba
 caroubier
 conjurership
-cryology
 cetes
 coverture
 carousals
@@ -11779,6 +11778,7 @@ chondriomere
 caryatides
 chondriosphere
 connaturally
+cryology
 chondrites
 chondritic
 chondroalbuminoid
