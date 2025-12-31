@@ -7739,6 +7739,7 @@ fallal
 fatherland
 flyman
 flyeater
+fashionless
 flaglike
 foreknew
 fiord
@@ -10033,7 +10034,6 @@ flenching
 frillily
 falderal
 ferrumination
-fashionless
 fen
 florid
 frilling
