@@ -6850,7 +6850,6 @@ capless
 celioscope
 cella
 cellarage
-cellared
 chamoix
 chanceable
 caudal
@@ -26352,6 +26351,7 @@ chrysophlyctis
 caracole
 craie
 colymbiform
+cellared
 caricatures
 collisional
 carnary
