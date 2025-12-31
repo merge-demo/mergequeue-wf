@@ -490,7 +490,6 @@ bridely
 backstitch
 bahoo
 blumed
-biserial
 billhead
 briming
 broadway
@@ -9577,6 +9576,7 @@ bisayan
 buccaro
 bettered
 bught
+biserial
 biblist
 bodewash
 budorcas
