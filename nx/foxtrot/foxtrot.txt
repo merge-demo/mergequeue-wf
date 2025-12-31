@@ -10221,7 +10221,6 @@ foxchop
 furdel
 ferryage
 famines
-foggages
 fowlpox
 frazing
 faros
@@ -11300,6 +11299,7 @@ florikan
 freeloaders
 fleming
 filterableness
+foggages
 foyer
 furcate
 fenagled
