@@ -2203,7 +2203,6 @@ boreades
 bararite
 breakerman
 barathea
-barbellate
 bristol
 brasqued
 bibbled
@@ -6368,6 +6367,7 @@ blackfly
 bubbliness
 bromacetate
 busynesses
+barbellate
 blazing
 backsliding
 buts
