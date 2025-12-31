@@ -8688,7 +8688,6 @@ episcleritis
 epiglottides
 evangelists
 equiperiodic
-emendations
 equipoise
 endophyllous
 erotical
@@ -10886,6 +10885,7 @@ empair
 eccaleobion
 esclandre
 exsolve
+emendations
 exrupeal
 emmetropia
 eutectic
