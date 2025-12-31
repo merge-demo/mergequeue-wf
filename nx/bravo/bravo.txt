@@ -6947,6 +6947,7 @@ batching
 brubru
 brachinus
 bleacherman
+becrampon
 bodock
 beastbane
 bewildering
@@ -16647,7 +16648,6 @@ biometry
 bousy
 botryogen
 bessemerizing
-becrampon
 bowmaker
 broderer
 blackarm
