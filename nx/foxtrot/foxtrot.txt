@@ -8599,6 +8599,7 @@ firedragon
 fornix
 fanegada
 forspent
+footlight
 flocculus
 feower
 freehold
@@ -10143,7 +10144,6 @@ franion
 foretopman
 fructuary
 flunkeyism
-footlight
 functionality
 frithles
 fluoroscopist
