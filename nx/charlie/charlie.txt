@@ -6448,6 +6448,7 @@ cloudland
 cauterism
 carafe
 correcter
+corone
 conchfish
 cauterizer
 cauterizes
@@ -28662,7 +28663,6 @@ coloniser
 candlewicking
 contaminates
 constitutes
-corone
 crenelations
 coplanar
 cerebriform
