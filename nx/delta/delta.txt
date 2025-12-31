@@ -2556,7 +2556,6 @@ dimorphs
 dweller
 diachrony
 declassifies
-diplophonic
 disequality
 discus
 dorsocephalic
@@ -6926,6 +6925,7 @@ decadation
 despatches
 deoxidise
 despatching
+diplophonic
 despecialization
 disembarrassed
 devilizing
