@@ -13127,7 +13127,6 @@ bicorporal
 beryls
 bobbling
 bassarisk
-basifixed
 batteling
 backfurrow
 buggering
@@ -15586,6 +15585,7 @@ brisances
 bination
 barometer
 beavers
+basifixed
 brewsterite
 barbacan
 brises
