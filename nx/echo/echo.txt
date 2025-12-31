@@ -125,6 +125,7 @@ eparch
 euphonised
 echinoderma
 earthboard
+embosk
 epigrammatic
 exanthemata
 enantiomorphous
@@ -10978,7 +10979,6 @@ erythematous
 embrittlement
 emim
 echinus
-embosk
 eperva
 euproctis
 endophasia
