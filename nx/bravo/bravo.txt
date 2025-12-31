@@ -3590,7 +3590,6 @@ balneary
 bathophobia
 buvette
 bathos
-bathrobes
 bunkmates
 boccies
 brach
@@ -18163,6 +18162,7 @@ butyryls
 boldfacedly
 butyrin
 besonnet
+bathrobes
 begets
 bosses
 biogenase
