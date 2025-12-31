@@ -663,7 +663,6 @@ enddamaged
 exprobration
 extimulate
 eigenstate
-expulse
 endothermy
 enshrouding
 extracondensed
@@ -10528,6 +10527,7 @@ empaper
 enswathed
 embroglios
 eucharists
+expulse
 epimeral
 entrymen
 eucharitidae
