@@ -4852,6 +4852,7 @@ fittedness
 florida
 flivvers
 fairwater
+flaxbush
 frankpledge
 funambulating
 falsifiers
@@ -5848,7 +5849,6 @@ fowling
 floristic
 floatsmen
 fluff
-flaxbush
 farthingale
 forestem
 formidableness
