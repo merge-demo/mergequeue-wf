@@ -14744,6 +14744,7 @@ bagio
 backvelder
 brat
 brutter
+breakable
 blender
 bounder
 bridemaiden
@@ -14913,7 +14914,6 @@ breakability
 banefulness
 bilith
 brokers
-breakable
 breakaxe
 burning
 baja
