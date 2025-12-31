@@ -10596,7 +10596,6 @@ deben
 decolorizing
 diplomates
 diplomatically
-diethyl
 dysergia
 discanonization
 dolour
@@ -18107,6 +18106,7 @@ demagnetize
 demihorse
 dumbwaiter
 dumdum
+diethyl
 dumdums
 dadu
 drab
