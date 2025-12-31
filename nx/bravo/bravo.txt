@@ -3072,7 +3072,6 @@ breather
 blastplate
 bating
 badminton
-barware
 boneblack
 barksome
 basale
@@ -18044,6 +18043,7 @@ barberries
 bustian
 beforehand
 bifistular
+barware
 bradypod
 bustics
 barbeque
