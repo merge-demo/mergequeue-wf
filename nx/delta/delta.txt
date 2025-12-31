@@ -12042,7 +12042,6 @@ disendow
 demideity
 desmodus
 disenfranchisement
-devanagari
 demonkind
 disenfranchises
 dacryoblenorrhea
@@ -12607,6 +12606,7 @@ disintegrated
 dipterological
 dewbeam
 denotation
+devanagari
 dispersoid
 dromedaries
 diamantoid
