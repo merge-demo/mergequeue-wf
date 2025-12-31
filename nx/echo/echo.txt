@@ -5638,7 +5638,6 @@ eirene
 ecchymose
 epilogation
 enforest
-epacme
 enform
 extrastapedial
 ergometric
@@ -12473,6 +12472,7 @@ eximidus
 ense
 etiogenic
 elfdom
+epacme
 ebeneous
 eluviates
 exaggeration

@@ -18014,7 +18014,6 @@ cooperativeness
 czechic
 carcinology
 chipboard
-coelococcus
 charioteers
 coelodont
 comet
@@ -28575,6 +28574,7 @@ creel
 cactuses
 correllation
 creen
+coelococcus
 clupeiod
 centrosema
 confuted
