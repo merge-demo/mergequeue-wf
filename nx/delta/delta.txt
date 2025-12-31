@@ -406,7 +406,6 @@ desulfurise
 darwan
 disobedient
 dairymaids
-devaluate
 dogfighting
 dithered
 duodecimos
@@ -1652,6 +1651,7 @@ decapsulation
 dishrag
 dealt
 dissects
+devaluate
 democratizes
 dozening
 dentimeter
