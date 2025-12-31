@@ -7811,7 +7811,6 @@ epicarps
 empyocele
 exoerythrocytic
 epigone
-epithelium
 exarchate
 exophoria
 ejaculator
@@ -8451,6 +8450,7 @@ eveweed
 etym
 ethmosphenoidal
 exocannibalism
+epithelium
 epigrammatical
 eryops
 embroidering
