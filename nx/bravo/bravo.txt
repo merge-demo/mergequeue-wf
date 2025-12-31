@@ -834,6 +834,7 @@ bezique
 bagasses
 berceaunette
 badhan
+browsers
 bruxisms
 beflags
 boohoos
@@ -10170,7 +10171,6 @@ battue
 bandanaed
 beatitudes
 brocading
-browsers
 blackcaps
 bejeweled
 blanketflower
