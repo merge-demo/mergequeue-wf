@@ -424,7 +424,6 @@ festive
 familiariser
 fibrotic
 festae
-fetialis
 fibroligamentous
 fauchards
 fur
@@ -4836,6 +4835,7 @@ feasting
 furnishing
 fodder
 foliums
+fetialis
 froebelism
 footfall
 fustigate
