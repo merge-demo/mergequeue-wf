@@ -2448,7 +2448,6 @@ furzery
 falla
 filechar
 fornax
-ferruginated
 flowable
 fungal
 foliocellosis
@@ -9278,6 +9277,7 @@ fraised
 frug
 fertilities
 fretwise
+ferruginated
 fantaisie
 fascinery
 faradomuscular
