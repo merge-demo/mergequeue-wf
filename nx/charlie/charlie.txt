@@ -8860,7 +8860,6 @@ commanders
 char
 conveyability
 crouchingly
-chara
 charabanc
 compensativeness
 clitoridectomies
@@ -26942,6 +26941,7 @@ countermarching
 caroches
 countermarriage
 countermessage
+chara
 craggily
 countermigration
 celiomyomotomy
