@@ -4226,6 +4226,7 @@ gunned
 grovel
 geologer
 gois
+gerund
 galvanomagnetism
 gynaecological
 gabbiness
@@ -4378,7 +4379,6 @@ gasterosteid
 ginglymostomoid
 gondi
 gardened
-gerund
 gayway
 galvanoscope
 ginhouse
