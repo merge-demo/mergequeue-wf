@@ -7940,7 +7940,6 @@ cestodes
 copatron
 coronize
 capitulary
-carouses
 cestoidean
 cestoids
 cestraction
@@ -16497,6 +16496,7 @@ coloquies
 cloddily
 chaulmoograte
 catguts
+carouses
 clodhead
 clodhopper
 clodhoppers
