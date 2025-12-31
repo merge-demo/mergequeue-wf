@@ -2089,6 +2089,7 @@ enchainements
 ecphractic
 epi
 epopoean
+evaluators
 epispermic
 emu
 endamoebae
@@ -3571,7 +3572,6 @@ eglandulous
 entozoon
 emboweled
 epithecial
-evaluators
 ethanamide
 eschewance
 extortionary
