@@ -2344,7 +2344,6 @@ enchants
 epistroma
 enclear
 electrocardiographic
-euphuistic
 explorational
 entocele
 explosive
@@ -2943,6 +2942,7 @@ electrocardiographically
 elfland
 entelodon
 encaustic
+euphuistic
 endermic
 epiphyseolysis
 examinationist
