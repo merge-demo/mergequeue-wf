@@ -2246,7 +2246,6 @@ barbarically
 blandiloquous
 barbicanage
 barbequing
-bourage
 barricos
 buddler
 bassoons
@@ -11988,6 +11987,7 @@ boggard
 blindfoldly
 boggier
 bayou
+bourage
 boggle
 babakoto
 blastemas
