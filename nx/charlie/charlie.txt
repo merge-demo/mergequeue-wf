@@ -3081,7 +3081,6 @@ chaffinches
 chiasmodon
 croppa
 cycadeous
-canvasbacks
 canvasers
 coralroot
 cumaldehyde
@@ -17675,6 +17674,7 @@ coccothraustine
 coccothrinax
 calabozo
 cocculiferous
+canvasbacks
 cost
 convertend
 corrivals
