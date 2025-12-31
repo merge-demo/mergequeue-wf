@@ -5761,7 +5761,6 @@ flyswatter
 filipiniana
 figmental
 forpass
-frise
 flocking
 flited
 foge
@@ -11487,6 +11486,7 @@ figural
 finnmarks
 facades
 furthest
+frise
 flittering
 fiercened
 furtively
