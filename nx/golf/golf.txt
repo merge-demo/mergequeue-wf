@@ -2187,7 +2187,6 @@ greedily
 grough
 glycerinating
 gunyeh
-gombo
 graphanalysis
 granes
 guarantying
@@ -6638,6 +6637,7 @@ gallinipper
 gradatively
 galanga
 gruntingly
+gombo
 glassine
 gaed
 goncalo
