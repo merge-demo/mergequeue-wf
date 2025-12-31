@@ -7565,7 +7565,6 @@ gapperi
 governesses
 galvanotonic
 greathead
-guideless
 gatelike
 goliardery
 gabions
@@ -8690,6 +8689,7 @@ grossulaceous
 gigartinales
 gonocalycine
 growthless
+guideless
 gladys
 gerip
 grapy
