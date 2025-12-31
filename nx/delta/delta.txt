@@ -2817,6 +2817,7 @@ defi
 deferred
 dossers
 declarator
+diereses
 decried
 desistive
 disulphonate
@@ -18202,7 +18203,6 @@ dasypeltis
 daniel
 dinucleotide
 dorsulum
-diereses
 duncical
 delamination
 dharani
