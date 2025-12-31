@@ -2569,7 +2569,6 @@ concealed
 candlers
 casework
 collaborated
-candleshine
 chaucerism
 candleshrift
 capitalizations
@@ -16843,6 +16842,7 @@ clowder
 comfortroot
 clowders
 clower
+candleshine
 columnating
 clownade
 clownage
