@@ -1600,6 +1600,7 @@ baudronses
 bilamellate
 ballo
 blumea
+biosynthetically
 begluc
 banneret
 brairding
@@ -8429,7 +8430,6 @@ balita
 blams
 blackcoat
 bikkurim
-biosynthetically
 balkier
 biogenous
 blackwood
