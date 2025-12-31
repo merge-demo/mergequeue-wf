@@ -13182,6 +13182,7 @@ carriage
 cyanochroic
 climbingfishes
 catchable
+circumferent
 cycases
 cytogenies
 coverless
@@ -23554,7 +23555,6 @@ cloky
 corycavidin
 contignation
 contiguity
-circumferent
 continentalize
 continentals
 cochranea
