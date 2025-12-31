@@ -993,7 +993,6 @@ earthwork
 explosibility
 encapsules
 euthanasic
-enterocinetic
 epoxide
 endearments
 emblazing
@@ -7643,6 +7642,7 @@ enterohelcosis
 epiparodos
 epicortical
 enterostomy
+enterocinetic
 esere
 eldritch
 educed
