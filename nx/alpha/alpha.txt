@@ -10945,6 +10945,7 @@ angiogram
 aphrolite
 antilactase
 antagonist
+amylophosphoric
 anchylotic
 aromatizing
 acheat
@@ -25278,7 +25279,6 @@ atrypa
 azlon
 azobenzil
 anisogamous
-amylophosphoric
 avulse
 articulateness
 argyropelecus
