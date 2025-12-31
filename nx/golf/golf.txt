@@ -1452,7 +1452,6 @@ germiparity
 garnishee
 guidebookish
 glovers
-geophagous
 glossagra
 ghenting
 grossart
@@ -9545,6 +9544,7 @@ gaspingly
 glycogenase
 guiltiness
 gentilitious
+geophagous
 graals
 glutinize
 guanaco
