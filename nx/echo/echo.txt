@@ -1042,6 +1042,7 @@ etchareottine
 eyeless
 endoskeleton
 eqpt
+exect
 edgar
 expatiatory
 expatriating
@@ -8610,7 +8611,6 @@ embranglement
 esthetes
 equidistribution
 esu
-exect
 eutaxic
 equidiurnal
 eelpouts
