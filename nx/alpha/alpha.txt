@@ -17025,7 +17025,6 @@ automorphic
 apochromatism
 archimorula
 astrophotometry
-albus
 ascitic
 auriscalp
 apocynthion
@@ -17686,6 +17685,7 @@ appl
 advena
 angelin
 antienzymic
+albus
 acetylbenzene
 applaudably
 ancyroid
