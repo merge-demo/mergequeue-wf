@@ -440,6 +440,7 @@ genny
 guide
 gyms
 gemmation
+gyrenes
 geoprumnon
 gonopoietic
 gpd
@@ -5004,7 +5005,6 @@ gauging
 gymnospermal
 groundly
 gallantize
-gyrenes
 gingelis
 germanization
 ganof
