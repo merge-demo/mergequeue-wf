@@ -907,7 +907,6 @@ ferrate
 faquir
 farad
 faradaic
-foreassurance
 filleted
 fluorometer
 flamed
@@ -10135,6 +10134,7 @@ fluviometer
 funkia
 flodge
 flyover
+foreassurance
 flintifying
 forefatherly
 franion
