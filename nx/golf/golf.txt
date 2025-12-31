@@ -1546,7 +1546,6 @@ grounder
 gazetting
 gainbirth
 gunsels
-glaik
 grulla
 glimes
 graphitized
@@ -7422,6 +7421,7 @@ gunflints
 gunnery
 gothish
 globousness
+glaik
 grangerization
 gaduin
 gadean
