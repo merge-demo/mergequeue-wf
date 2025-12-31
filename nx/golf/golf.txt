@@ -4644,6 +4644,7 @@ greenheart
 gyrating
 galvanise
 gorillaship
+glamorized
 gyrostabilized
 goatbush
 granulitic
@@ -6702,7 +6703,6 @@ garce
 guarnieri
 gumboils
 gastropancreatic
-glamorized
 goniatites
 geoside
 garterless
