@@ -3145,6 +3145,7 @@ dryness
 defeats
 deathroot
 defeature
+diurnule
 debted
 daribah
 draco
@@ -14404,7 +14405,6 @@ diurnal
 deuterogenic
 diurnally
 diurnals
-diurnule
 dimensuration
 diuron
 demeaned
