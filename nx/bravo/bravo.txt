@@ -9520,7 +9520,6 @@ beaconage
 bemonster
 barristership
 birretta
-barney
 binomialism
 birdbanding
 bdellostoma
@@ -10291,6 +10290,7 @@ beehead
 beets
 benevolist
 blacksnake
+barney
 baneful
 boltonite
 bliaut
