@@ -2734,7 +2734,6 @@ earwigged
 esquamulose
 evaporated
 electrovalent
-electrowinning
 epinasty
 exaggerators
 ediya
@@ -7127,6 +7126,7 @@ engaud
 enemy
 exported
 entices
+electrowinning
 epiplexis
 extrabranchial
 employees
