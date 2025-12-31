@@ -2040,6 +2040,7 @@ flindosa
 forestaller
 forwander
 faunlike
+fissileness
 fructescence
 florins
 fogbows
@@ -9865,7 +9866,6 @@ fouler
 fortescue
 fordicidia
 flaggers
-fissileness
 frib
 fruitage
 fiendishness
