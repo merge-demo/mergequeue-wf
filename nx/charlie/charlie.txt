@@ -4290,7 +4290,6 @@ carer
 chyometer
 ceremonies
 capsulotome
-caress
 cir
 caressed
 captainries
@@ -31319,6 +31318,7 @@ cureless
 corypha
 curelessness
 coadjument
+caress
 curers
 clubber
 cures
