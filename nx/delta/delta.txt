@@ -4959,6 +4959,7 @@ demiliterate
 dude
 dummies
 diphyletic
+defaulting
 dunne
 dueness
 demythologizing
@@ -10257,7 +10258,6 @@ dioctahedral
 dioctophyme
 deave
 distritbuted
-defaulting
 diodontidae
 dioecy
 dislodged
