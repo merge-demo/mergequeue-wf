@@ -3025,7 +3025,6 @@ disrealize
 diluent
 deerfly
 diazoate
-deerfood
 dandisette
 deservings
 dragonfish
@@ -9387,6 +9386,7 @@ diffusing
 deuteranomalous
 dereling
 dowerless
+deerfood
 dredge
 dismountable
 dejunkerize
