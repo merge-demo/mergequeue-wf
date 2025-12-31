@@ -7255,7 +7255,6 @@ emulsification
 exsector
 echoless
 electrocatalytic
-encephalomere
 epidemiology
 energetics
 ensealed
@@ -9830,6 +9829,7 @@ emulsoid
 esters
 exoneration
 entomologizing
+encephalomere
 electromagnet
 electrotheraputics
 esth
