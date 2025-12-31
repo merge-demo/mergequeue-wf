@@ -5810,6 +5810,7 @@ forebear
 fossiliferous
 flitterbat
 fumeroot
+flaughter
 fallage
 forgettingly
 fastigium
@@ -6726,7 +6727,6 @@ feast
 feathery
 fogon
 frugally
-flaughter
 fibroadenoma
 filipina
 fconv
