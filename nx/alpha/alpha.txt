@@ -1609,6 +1609,7 @@ angioclast
 albanian
 accoutres
 accredit
+artic
 argenteum
 accreditate
 accreditations
@@ -23871,7 +23872,6 @@ apilary
 autecism
 autecology
 arrach
-artic
 adaptiveness
 aaa
 abrocoma
