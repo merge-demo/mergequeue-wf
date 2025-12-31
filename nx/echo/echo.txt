@@ -6587,7 +6587,6 @@ excusive
 eccritic
 embattled
 epimedium
-exonerates
 enorthotrope
 electricity
 emigrates
@@ -8347,6 +8346,7 @@ enslaved
 endocyemate
 edeitis
 epithetic
+exonerates
 encumberingly
 epithetically
 entosthoblast
