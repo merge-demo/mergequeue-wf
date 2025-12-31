@@ -1347,6 +1347,7 @@ fatigable
 favorable
 forfars
 frock
+floggable
 flaggish
 fanning
 fatigue
@@ -10509,7 +10510,6 @@ frutescent
 finises
 fervencies
 flaccidities
-floggable
 felsosphaerite
 florimanist
 freshment
