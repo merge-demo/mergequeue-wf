@@ -6707,7 +6707,6 @@ chromule
 cedrat
 conglution
 cedrate
-cedrela
 cocamine
 cedrene
 cedry
@@ -31449,6 +31448,7 @@ calver
 collarino
 calcites
 curragh
+cedrela
 clearminded
 columnation
 culverwort
