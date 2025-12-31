@@ -4021,6 +4021,7 @@ beakers
 biblicoliterary
 barms
 bowsprits
+bayou
 beakless
 beaks
 beala
@@ -11979,7 +11980,6 @@ begirdling
 boggard
 blindfoldly
 boggier
-bayou
 bourage
 boggle
 babakoto
