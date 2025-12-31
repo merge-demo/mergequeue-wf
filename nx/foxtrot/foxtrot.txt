@@ -693,6 +693,7 @@ fleshlike
 forzandos
 forfeiture
 fobs
+frogface
 firebolted
 fumigatorium
 farmstead
@@ -1759,7 +1760,6 @@ fedn
 fluoridates
 fn
 featheriness
-frogface
 foreslack
 fretsome
 forsterite
