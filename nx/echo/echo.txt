@@ -2030,6 +2030,7 @@ emersion
 ethiopic
 elaenia
 effranchisement
+elasticities
 eyeshot
 expungers
 excussing
@@ -3836,7 +3837,6 @@ ecu
 emending
 escribano
 emerald
-elasticities
 emerge
 escapology
 echinostomiasis
