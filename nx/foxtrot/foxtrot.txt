@@ -3685,7 +3685,6 @@ finmark
 floats
 futurisms
 firesider
-franchisal
 flannelboard
 folder
 fledgy
@@ -5276,6 +5275,7 @@ forficula
 foresightedness
 ferricyanate
 fimbriate
+franchisal
 feelinglessly
 fibrilation
 flawedness
