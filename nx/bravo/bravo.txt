@@ -3706,7 +3706,6 @@ beseen
 battings
 battledores
 bywork
-baldly
 barotraumata
 bronteon
 bornean
@@ -7679,6 +7678,7 @@ bairnteem
 bourgeoisitic
 balanidae
 bilabiate
+baldly
 biplace
 bezanty
 brassiness
