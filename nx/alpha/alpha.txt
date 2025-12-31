@@ -1308,6 +1308,7 @@ alphabetic
 adtevac
 activators
 arginase
+amoeba
 anangular
 amyelia
 atomized
@@ -6320,7 +6321,6 @@ amphionic
 anticonventionalism
 assertedly
 agenized
-amoeba
 akhund
 anamorphote
 anecdotists

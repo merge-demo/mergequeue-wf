@@ -959,6 +959,7 @@ detonational
 departed
 dizzardly
 dardan
+deadman
 desists
 dodecastyle
 doctors
@@ -6004,7 +6005,6 @@ dermatonosus
 derogated
 depthways
 disoccupy
-deadman
 dacelo
 dandered
 delustering
