@@ -8722,6 +8722,7 @@ fortifiers
 flaxwench
 frumpish
 fosset
+foreschooling
 fid
 falsifies
 frisette
@@ -10382,7 +10383,6 @@ footlining
 frontcourt
 forays
 fructus
-foreschooling
 fragrances
 feldspathization
 francium
