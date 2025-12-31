@@ -1930,7 +1930,6 @@ fangot
 froze
 factored
 finagling
-fonly
 forworn
 felonwood
 flated
@@ -5686,6 +5685,7 @@ fluffer
 ferratin
 footpound
 folioliferous
+fonly
 fluidmeter
 filemaker
 fresnels
