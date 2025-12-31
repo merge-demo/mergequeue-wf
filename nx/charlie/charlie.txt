@@ -16890,7 +16890,6 @@ clubhauls
 clubhouses
 clubionidae
 clubman
-clanked
 cloveroot
 cabmen
 clubmate
@@ -24917,6 +24916,7 @@ chronostichon
 corallinaceous
 curricle
 cuichunchulli
+clanked
 criniferous
 charac
 caoutchouc
