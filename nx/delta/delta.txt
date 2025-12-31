@@ -3105,6 +3105,7 @@ disbodied
 demihuman
 defamy
 delegating
+drokpa
 desmoneme
 delicious
 dihydrite
@@ -5508,7 +5509,6 @@ denotement
 directionality
 drought
 dictatorship
-drokpa
 dyvour
 disilicate
 disattire
