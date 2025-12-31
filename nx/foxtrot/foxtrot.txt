@@ -4828,6 +4828,7 @@ floroon
 footbath
 frostbiter
 fibrinuria
+felsites
 fumish
 flume
 fracticipita
@@ -7980,7 +7981,6 @@ fetologist
 foolhardiship
 freshing
 forslow
-felsites
 frondesced
 feudatories
 farinhas
