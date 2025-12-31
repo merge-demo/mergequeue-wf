@@ -13846,7 +13846,6 @@ brachychronic
 bramblebush
 blabberer
 butters
-babesias
 bemixed
 bleachery
 boathead
@@ -17472,6 +17471,7 @@ browny
 bunny
 bunnia
 bicoloured
+babesias
 bunnies
 bunodont
 brickleness
