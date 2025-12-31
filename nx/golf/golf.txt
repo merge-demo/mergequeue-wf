@@ -1539,7 +1539,6 @@ gulfiest
 grandiloquence
 gearless
 gazump
-goatpox
 ghoul
 gasper
 gadflies
@@ -2081,6 +2080,7 @@ governments
 graminological
 gawk
 gratingly
+goatpox
 gignate
 gozzard
 guerillaism
