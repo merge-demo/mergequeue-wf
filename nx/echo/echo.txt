@@ -262,7 +262,6 @@ elaborative
 easer
 electroluminescence
 esmeraldan
-electrocautery
 easy
 epionychium
 extratubal
@@ -13526,6 +13525,7 @@ extravagancy
 elflock
 eutaxie
 excitements
+electrocautery
 enlightening
 earthquakes
 exsectile
