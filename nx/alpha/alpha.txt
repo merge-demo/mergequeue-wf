@@ -8023,7 +8023,6 @@ attriutively
 alrune
 airworthy
 acidotic
-antihistamines
 arithmetically
 amphide
 alforja
@@ -16280,6 +16279,7 @@ autoregenerator
 anthochlor
 antitobacconist
 auscultative
+antihistamines
 antitonic
 artistical
 autoneurotoxin
