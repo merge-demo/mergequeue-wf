@@ -3972,7 +3972,6 @@ algedonics
 ankuses
 acronymize
 advect
-aphaeresis
 admerveylle
 admi
 anhydrously
@@ -8820,6 +8819,7 @@ allochlorophyll
 antigropelos
 allochroic
 anticosmetic
+aphaeresis
 aeolodicon
 allochthon
 antlike
