@@ -7067,7 +7067,6 @@ fulfilled
 fribby
 fatalities
 flowk
-fosie
 frase
 fortunel
 felones
@@ -10886,6 +10885,7 @@ fullish
 foeman
 frigorifico
 fulgurated
+fosie
 forgathers
 freedwomen
 finished
