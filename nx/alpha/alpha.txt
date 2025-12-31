@@ -2766,7 +2766,6 @@ acroclinium
 archaist
 anywheres
 acrodactyla
-acrodont
 anarithmia
 apologetic
 argonauta
@@ -7683,6 +7682,7 @@ autoplastic
 arbours
 aloadae
 aculeolate
+acrodont
 archdeceiver
 aldehyde
 antiprudential
