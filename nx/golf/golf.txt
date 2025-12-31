@@ -4229,7 +4229,6 @@ gunned
 grovel
 geologer
 gois
-gyromagnetic
 galvanomagnetism
 gynaecological
 gabbiness
@@ -9076,6 +9075,7 @@ gaffle
 gimcracky
 gainsay
 grilse
+gyromagnetic
 glossitis
 grimaced
 girrock
