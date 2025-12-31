@@ -7399,7 +7399,6 @@ epentheses
 errant
 exotic
 eleotrid
-encolumn
 etruria
 elapsed
 etalon
@@ -13006,6 +13005,7 @@ epopee
 espiegle
 embryonal
 ezba
+encolumn
 entastic
 existentially
 esophagectomy
