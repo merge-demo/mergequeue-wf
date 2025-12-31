@@ -2217,7 +2217,6 @@ gaster
 goodbyes
 ganefs
 gnomonology
-glossed
 generosities
 galactohemia
 gleit
@@ -10579,6 +10578,7 @@ garnisher
 grilly
 gymnogene
 geologic
+glossed
 gelds
 gens
 greaser
