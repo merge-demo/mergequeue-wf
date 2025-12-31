@@ -1076,7 +1076,6 @@ foreswear
 feriae
 foundryman
 farreachingly
-fernleaf
 farrel
 figuresome
 flameproofer
@@ -5065,6 +5064,7 @@ freir
 foreseers
 fractious
 fullmouth
+fernleaf
 frsiket
 fowler
 fitches
