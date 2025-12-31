@@ -1278,6 +1278,7 @@ fishable
 fastish
 fastnesses
 fhrer
+fended
 fancywork
 florinda
 factitiously
@@ -3486,7 +3487,6 @@ floorhead
 forpined
 finnic
 fluctuated
-fended
 flagfall
 figurable
 fixture
