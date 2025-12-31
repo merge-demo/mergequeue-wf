@@ -738,6 +738,7 @@ backband
 badinages
 beblotch
 bearcoot
+bathyorographical
 bumboatmen
 badiner
 birt
@@ -13383,7 +13384,6 @@ bothers
 beety
 bushelman
 bughouses
-bathyorographical
 benightedly
 brusquely
 bothersomely
