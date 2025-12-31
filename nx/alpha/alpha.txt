@@ -8873,7 +8873,6 @@ admired
 alloyage
 alloiogenesis
 assizer
-alloiometric
 antibacchius
 adjustments
 acrogenic
@@ -21481,6 +21480,7 @@ abecedaries
 agapeically
 asperser
 astrochronological
+alloiometric
 antephialtic
 arianistical
 angaria
