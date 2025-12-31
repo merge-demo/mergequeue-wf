@@ -1262,7 +1262,6 @@ exposition
 episomal
 evaluation
 enmanche
-encrinite
 ergostat
 eightling
 exfiltrate
@@ -9772,6 +9771,7 @@ encouragements
 euphrates
 expenthesis
 electroplate
+encrinite
 estable
 erodability
 ervils
