@@ -1658,6 +1658,7 @@ eider
 exsecting
 exanthine
 eiders
+extemporaneity
 epilemmal
 eidograph
 eclogues
@@ -10773,7 +10774,6 @@ eucnemidae
 excursions
 enunciable
 exercitant
-extemporaneity
 elasticate
 expertise
 euchloric
