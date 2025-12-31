@@ -3602,6 +3602,7 @@ counterbase
 conacaste
 chiropterygious
 capucine
+catalepsy
 capulet
 capulin
 caputium
@@ -20511,7 +20512,6 @@ couthiness
 compassionately
 candidateship
 compassionateness
-catalepsy
 compassive
 coinhere
 compassivity
