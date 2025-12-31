@@ -3225,7 +3225,6 @@ fango
 fuchsone
 flunkies
 falern
-forewarnings
 flinthearted
 fictioner
 furbisher
@@ -6937,6 +6936,7 @@ fulgurite
 fuchsian
 formalisation
 forbode
+forewarnings
 freshmen
 fluxroot
 fastball
