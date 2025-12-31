@@ -10295,7 +10295,6 @@ diseuses
 demurrers
 diagrammers
 ditton
-diopter
 damia
 demitted
 dimethylnitrosamine
@@ -10826,6 +10825,7 @@ demophil
 drier
 defectors
 debunkment
+diopter
 diletant
 desmidiaceous
 digit
