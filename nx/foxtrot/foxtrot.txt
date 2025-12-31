@@ -4910,6 +4910,7 @@ flummoxes
 flakiest
 flaneur
 forged
+fabricate
 frequentable
 flambeau
 foamier
@@ -9431,7 +9432,6 @@ fossor
 freeloading
 fluoridate
 floristics
-fabricate
 freewheeling
 flagpoles
 furacana
