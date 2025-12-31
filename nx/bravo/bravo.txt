@@ -2126,7 +2126,6 @@ borofluoride
 bantayan
 buckshots
 bidstand
-bantamize
 bagman
 bismar
 burette
@@ -13015,6 +13014,7 @@ bombastical
 bokadam
 backrushes
 benzoylate
+bantamize
 bailli
 brigadiers
 beeriest
