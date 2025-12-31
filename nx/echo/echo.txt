@@ -8377,7 +8377,6 @@ eastlins
 epicontinental
 erosive
 exportation
-endogenetic
 ecch
 euphrasies
 eosin
@@ -11030,6 +11029,7 @@ emolliate
 eurypterus
 emption
 eclectism
+endogenetic
 eurite
 enravishes
 engelmann
