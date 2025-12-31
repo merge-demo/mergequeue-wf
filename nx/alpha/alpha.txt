@@ -5284,7 +5284,6 @@ armageddon
 agnathostomata
 autoboat
 anophthalmia
-actinocarp
 afflated
 anilao
 accra
@@ -19320,6 +19319,7 @@ areology
 absurds
 areologies
 alfaquin
+actinocarp
 agathis
 attainable
 adagy

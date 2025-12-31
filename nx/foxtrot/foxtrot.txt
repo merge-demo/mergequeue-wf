@@ -4570,6 +4570,7 @@ fisticuff
 flagfish
 fort
 fouldre
+fringed
 familiarness
 fratricide
 fisting
@@ -6330,7 +6331,6 @@ fervours
 fitting
 ferriprussiate
 fibropurulent
-fringed
 facadal
 floreted
 flunkey
