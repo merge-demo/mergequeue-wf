@@ -1262,7 +1262,6 @@ arcturus
 aerognosy
 australopithecine
 ails
-antifoggant
 acarpelous
 arrowy
 augitic
@@ -24645,6 +24644,7 @@ arctiid
 aralkyl
 acetoxyl
 ambassador
+antifoggant
 antischolastically
 avena
 agouti
