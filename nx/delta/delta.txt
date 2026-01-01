@@ -2906,6 +2906,7 @@ disyllabizing
 decussoria
 decwriter
 deltoid
+dogvanes
 divia
 dashel
 dedecorous
@@ -4217,7 +4218,6 @@ destructible
 dineros
 danseuses
 deltohedron
-dogvanes
 delubra
 delude
 disambiguating
