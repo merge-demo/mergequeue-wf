@@ -9246,6 +9246,7 @@ dochmii
 dulcet
 dieresis
 dihydrazone
+defensive
 disemic
 debite
 digitalic
@@ -14836,7 +14837,6 @@ diswarren
 doctor
 doctored
 dashwheel
-defensive
 deservingly
 doctorfishes
 decomponible
