@@ -4589,7 +4589,6 @@ borborus
 bedaubing
 bloodstone
 belial
-burley
 beats
 bedazement
 bigeminate
@@ -4713,6 +4712,7 @@ bedimple
 bulllike
 bluegown
 ballpoint
+burley
 bobsleds
 bushier
 brides
