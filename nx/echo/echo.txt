@@ -6753,7 +6753,6 @@ epicenters
 espaliers
 emunge
 enuresis
-exhumed
 exstill
 entete
 eurytherm
@@ -8548,6 +8547,7 @@ excogitating
 ellipsoids
 exsufflicate
 esophagotome
+exhumed
 equatable
 ecclesiasticize
 essentializing
