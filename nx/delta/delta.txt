@@ -1473,7 +1473,6 @@ dazement
 deckhouses
 dazes
 dazzle
-dawnstreak
 discriminative
 diffusor
 dregginess
@@ -16099,6 +16098,7 @@ decayedness
 doulce
 dementie
 defectology
+dawnstreak
 designators
 doulocracy
 doum
