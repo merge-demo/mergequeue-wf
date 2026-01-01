@@ -4375,6 +4375,7 @@ gunky
 guz
 glottochronology
 gasterosteid
+gematrical
 ginglymostomoid
 gondi
 gardened
@@ -4674,7 +4675,6 @@ gringophobia
 ghafir
 gospelist
 geobiology
-gematrical
 galli
 gastroplenic
 gestes
