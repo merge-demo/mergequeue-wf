@@ -8188,7 +8188,6 @@ boyism
 brahmi
 biens
 benefice
-bathroom
 bienvenue
 benzotetrazine
 bayaderes
@@ -12605,6 +12604,7 @@ bagpiping
 bonne
 bubbly
 bonnet
+bathroom
 brachelytra
 bonnethead
 bagie
