@@ -4675,6 +4675,7 @@ barlows
 bedford
 bedframes
 bouncers
+bonier
 broadaxe
 broomed
 bowdlerizes
@@ -14411,7 +14412,6 @@ brutedom
 befleaing
 braies
 bleeping
-bonier
 busticate
 bewared
 brayette
