@@ -7413,7 +7413,6 @@ fasted
 foobar
 forbiddenly
 fuage
-florideae
 fulling
 fenestellae
 festiveness
@@ -10283,6 +10282,7 @@ fluidglycerate
 fistulatome
 frontage
 flutier
+florideae
 fasher
 frolicker
 frolicking
