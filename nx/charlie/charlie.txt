@@ -13535,7 +13535,6 @@ cistern
 ciliform
 ciliiform
 cylinder
-cylinders
 cylindrella
 cylindrelloid
 cryptographic
@@ -25649,6 +25648,7 @@ corpuscularity
 coleslaw
 corpuscule
 corpusculous
+cylinders
 chairlift
 corradial
 corradiate
