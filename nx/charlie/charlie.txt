@@ -3848,6 +3848,7 @@ carbolising
 carbolize
 carbolized
 carbolizes
+countable
 carbolizing
 carmelite
 caladium
@@ -12660,7 +12661,6 @@ columnize
 cyperaceous
 chronothermal
 chronotropic
-countable
 collocution
 cheney
 chronotropism
