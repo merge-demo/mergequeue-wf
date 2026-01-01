@@ -3689,7 +3689,6 @@ feistiest
 foysen
 finmark
 floats
-futurisms
 firesider
 flannelboard
 folder
@@ -8946,6 +8945,7 @@ freewoman
 frederick
 foundered
 foreboard
+futurisms
 finial
 fantastico
 forethoughtful
