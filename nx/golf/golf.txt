@@ -8527,7 +8527,6 @@ gravely
 galops
 groupers
 gayal
-geomorphological
 geotectonically
 gravelish
 guardian
@@ -10016,6 +10015,7 @@ gibberose
 gone
 gentlemanship
 gorgonised
+geomorphological
 geomys
 garlandwise
 gantlines
