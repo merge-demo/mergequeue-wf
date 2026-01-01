@@ -5146,6 +5146,7 @@ bromhidrosis
 ballota
 bloodthirstiness
 baubling
+boedromion
 befools
 bridgeport
 budworm
@@ -11921,7 +11922,6 @@ baalite
 bortzes
 battleplane
 bouillons
-boedromion
 bovovaccine
 betterly
 buggies
