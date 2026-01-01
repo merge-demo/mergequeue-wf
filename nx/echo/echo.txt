@@ -6893,7 +6893,6 @@ earache
 epidermoidal
 educability
 entomologist
-entomologize
 entomologized
 enstatolite
 exaugurate
@@ -13097,6 +13096,7 @@ ethylin
 effeminatize
 ecoclimate
 experientialism
+entomologize
 eschevin
 entosarc
 extensionality
