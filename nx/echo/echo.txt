@@ -1644,7 +1644,6 @@ egromancy
 egurgitate
 egurgitated
 euphonon
-eheu
 explanatively
 exotoxin
 ehretiaceae
@@ -2284,6 +2283,7 @@ encoach
 ethnarchies
 endothys
 electricize
+eheu
 emphasizes
 electriferous
 energumen

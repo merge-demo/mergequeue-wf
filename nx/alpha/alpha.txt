@@ -3810,7 +3810,6 @@ ariel
 anchorwise
 ansation
 acetonyl
-ametabole
 adieu
 attame
 altin
@@ -18834,6 +18833,7 @@ adhibit
 archfiend
 apprize
 aroma
+ametabole
 appliance
 archflamen
 archfoe
