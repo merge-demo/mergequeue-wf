@@ -5735,6 +5735,7 @@ fundament
 floodwater
 flippancies
 freshness
+flavorfulness
 ferrary
 fetor
 feculent
@@ -11131,7 +11132,6 @@ forbiddance
 fibroid
 fauteuils
 fedellini
-flavorfulness
 feverbush
 fetometry
 fishtail
