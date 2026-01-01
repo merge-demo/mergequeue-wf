@@ -5885,7 +5885,6 @@ bellwort
 belock
 basimesostasis
 boatsmanship
-bastinade
 belomancy
 belonephobia
 belonger
@@ -17406,6 +17405,7 @@ beignets
 bottles
 bejeled
 bungling
+bastinade
 binnogue
 bullit
 bungos
