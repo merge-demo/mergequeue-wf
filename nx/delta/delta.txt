@@ -2422,7 +2422,6 @@ dehiscent
 dalaga
 dreamlit
 deceived
-disaffiliation
 diaphragm
 dane
 decimates
@@ -9678,6 +9677,7 @@ ditting
 diageotropy
 deinoceras
 dilactic
+disaffiliation
 dilactone
 dilamination
 dilaniate
