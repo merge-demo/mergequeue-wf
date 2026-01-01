@@ -3568,7 +3568,6 @@ bathymetry
 bathymetrical
 biggonet
 bathing
-bastinadoes
 brecciated
 beckoning
 bridgekeeper
@@ -13829,6 +13828,7 @@ bait
 bowback
 bushment
 brazes
+bastinadoes
 bootlickers
 billeting
 burker
