@@ -2414,6 +2414,7 @@ gnawable
 ganton
 gyrolith
 gazel
+gnapweed
 goaled
 guiac
 gummose
@@ -6156,7 +6157,6 @@ glavered
 gardy
 grumpish
 garrick
-gnapweed
 gallification
 grammar
 gowiddie
