@@ -2565,7 +2565,6 @@ cacqueteuse
 candlenut
 candlepins
 chemist
-cerevis
 candlerent
 concealed
 candlers
@@ -13066,6 +13065,7 @@ cludder
 cyanophyceae
 counterpointed
 confervoideae
+cerevis
 cyanophycean
 cyanophyceous
 crunchingness
