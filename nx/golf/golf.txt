@@ -2800,6 +2800,7 @@ guzzledom
 guemul
 garblings
 gathers
+galvanometer
 gazettal
 grigris
 gormless
@@ -9210,7 +9211,6 @@ grippiness
 gratulatory
 glycolytically
 guanajuatite
-galvanometer
 greenwich
 gynarchies
 galvanization
