@@ -14006,7 +14006,6 @@ anapleroses
 atypically
 antechinomys
 agitpropist
-altazimuth
 autopilots
 agitates
 anchorate
@@ -20578,6 +20577,7 @@ assimulate
 agend
 arrased
 ageable
+altazimuth
 arthritical
 afterswarm
 affrontingness
