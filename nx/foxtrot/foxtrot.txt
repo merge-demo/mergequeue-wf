@@ -5766,7 +5766,6 @@ figmental
 forpass
 flocking
 flited
-foge
 freckliness
 foehns
 finings
@@ -9114,6 +9113,7 @@ fizzled
 finochios
 frolicsomeness
 floorward
+foge
 flavors
 formably
 fehmic
