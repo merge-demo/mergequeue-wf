@@ -883,7 +883,6 @@ guily
 gymnophiona
 gangplank
 guerrilla
-gametangia
 gerontomorphosis
 grillwork
 gotha
@@ -9214,6 +9213,7 @@ generalizes
 groves
 goffered
 gangling
+gametangia
 guepard
 ginhound
 greenyard
