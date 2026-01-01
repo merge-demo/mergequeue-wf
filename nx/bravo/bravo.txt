@@ -5931,7 +5931,6 @@ biggety
 beltane
 belauding
 bimetalic
-belter
 buyouts
 bottlenecks
 ballistic
@@ -13186,6 +13185,7 @@ blaspheme
 basileis
 bankrupts
 borowolframic
+belter
 barometrograph
 borrachio
 borrasca
