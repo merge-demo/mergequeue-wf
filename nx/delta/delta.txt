@@ -5868,6 +5868,7 @@ despots
 drago
 depreciation
 deoxygenization
+diadumenus
 dryopians
 deforceor
 depredate
@@ -9369,7 +9370,6 @@ diffractiveness
 dist
 diffranchise
 dely
-diadumenus
 decrete
 durabilities
 discontentive
