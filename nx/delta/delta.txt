@@ -8528,7 +8528,6 @@ diapauses
 diffused
 donaries
 decarburize
-dodecastylos
 divinations
 decongesting
 diapedeses
@@ -11324,6 +11323,7 @@ derailments
 dysmeristic
 dethroned
 damolic
+dodecastylos
 disced
 devaraja
 dost
