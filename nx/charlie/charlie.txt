@@ -4063,7 +4063,6 @@ carcinopolypus
 chloroformization
 carcinosarcoma
 coloreds
-chloralide
 cimicide
 chinanta
 condylomas
@@ -28815,6 +28814,7 @@ clinostat
 congrue
 crestal
 churchwards
+chloralide
 crestline
 chasings
 creta
