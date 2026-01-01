@@ -5943,7 +5943,6 @@ gaggled
 glumnesses
 groundsill
 gederathite
-gephyrocercal
 glint
 gemeinschaft
 glossocoma
@@ -10100,6 +10099,7 @@ galactodensimeter
 grammarian
 gekkonoid
 gonfaloniership
+gephyrocercal
 gasoscope
 glottid
 genion
