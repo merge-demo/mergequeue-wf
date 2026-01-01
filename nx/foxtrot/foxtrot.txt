@@ -1662,7 +1662,6 @@ federate
 fuddledness
 fumigates
 forebrace
-flacourtiaceous
 folksong
 flemer
 forgrow
@@ -4958,6 +4957,7 @@ firmware
 fulcraceous
 flagarie
 flamencos
+flacourtiaceous
 funtumia
 fevertwitch
 fraunch
