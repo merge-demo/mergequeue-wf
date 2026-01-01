@@ -8433,7 +8433,6 @@ antinomy
 autophyllogeny
 acanthosis
 alkapton
-alkaptone
 ascent
 alkaptonuric
 alkarsin
@@ -19644,6 +19643,7 @@ antireformist
 adversariness
 antistrophize
 attritional
+alkaptone
 absorbingly
 airheads
 apposing
