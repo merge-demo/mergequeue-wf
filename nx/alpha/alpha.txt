@@ -10508,7 +10508,6 @@ advent
 ambulatoriums
 alcuinian
 archduchy
-anophele
 amygdalin
 antepenuit
 antiderivative
@@ -15057,6 +15056,7 @@ asseverated
 assemblagist
 anagrammatized
 autopositive
+anophele
 aesture
 aetosaurian
 analogized
