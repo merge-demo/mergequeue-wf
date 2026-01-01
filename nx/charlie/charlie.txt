@@ -8573,7 +8573,6 @@ chanceless
 cestoda
 chancelloress
 celebrating
-cid
 copybook
 chancellors
 califates
@@ -16538,6 +16537,7 @@ cuve
 changoan
 commercialisation
 cheddite
+cid
 cnidosac
 concentring
 cloghaun
