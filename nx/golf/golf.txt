@@ -2277,7 +2277,6 @@ geitonogamy
 gliadin
 gonostyle
 geomoroi
-gesseron
 grange
 glazer
 gynarchy
@@ -8675,6 +8674,7 @@ gisel
 greaved
 granite
 garlopa
+gesseron
 galvaniser
 grossulaceous
 gigartinales
