@@ -1837,6 +1837,7 @@ consigneeship
 cam
 ciceronize
 coala
+clerestoried
 crassula
 camaca
 corol
@@ -7392,7 +7393,6 @@ coprocessors
 catchweight
 cufflink
 cephalocercal
-clerestoried
 cushlamochree
 contractus
 cephalochord
