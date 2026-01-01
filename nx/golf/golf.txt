@@ -5781,6 +5781,7 @@ gossypose
 gonotheca
 gravemaker
 galera
+grovet
 galactolysis
 garbel
 gade
@@ -6682,7 +6683,6 @@ glossopyrosis
 generational
 gong
 gange
-grovet
 gekkota
 gundelow
 gynodioeciously

@@ -5576,7 +5576,6 @@ beachside
 bekissed
 bekisses
 beknighted
-brancher
 ballistite
 beknotted
 burrio
@@ -8167,6 +8166,7 @@ bateaux
 bieldy
 bossa
 bellicoseness
+brancher
 bielding
 brunts
 bewinter
