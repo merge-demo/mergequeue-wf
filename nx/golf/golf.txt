@@ -2716,7 +2716,6 @@ genyplasty
 glashan
 globularness
 goriest
-glandule
 grainering
 germanomania
 goofier
@@ -10769,6 +10768,7 @@ gibblegable
 glycyl
 gutt
 gunny
+glandule
 gerenuk
 gung
 ghole
