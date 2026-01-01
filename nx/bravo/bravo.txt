@@ -3654,7 +3654,6 @@ buffoon
 batrachian
 bifrontal
 booboo
-balloonfishes
 bergut
 batsman
 barrelsful
@@ -16566,6 +16565,7 @@ blindstitch
 basils
 burgality
 bruteness
+balloonfishes
 befilleted
 brutify
 basic
