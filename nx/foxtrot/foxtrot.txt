@@ -3119,7 +3119,6 @@ fundic
 firewarden
 furioso
 franciscans
-finca
 faddle
 fourier
 flip
@@ -4690,6 +4689,7 @@ flatwashes
 foreby
 fishpot
 forefeelingly
+finca
 frivolizing
 fibroreticulate
 fluey
