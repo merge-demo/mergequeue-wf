@@ -4883,7 +4883,6 @@ gallium
 gatherer
 growlingly
 gunnen
-griffin
 gaff
 gryph
 gallybagger
@@ -10442,6 +10441,7 @@ gruffs
 gesticulatory
 gambeer
 gobiidae
+griffin
 guaiacs
 gittite
 gastronomically
