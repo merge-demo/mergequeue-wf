@@ -4597,7 +4597,6 @@ fool
 feigned
 frenchily
 frumpling
-fingery
 flask
 flippance
 forestwards
@@ -8153,6 +8152,7 @@ fractionate
 fanaticalness
 foretell
 filmiest
+fingery
 fillister
 fathogram
 fumigator
