@@ -1643,7 +1643,6 @@ fdnames
 forthcut
 fluible
 flamboyantly
-furbelowed
 focally
 fice
 feaberry
@@ -4544,6 +4543,7 @@ forbar
 forwardsearch
 fractionized
 fumet
+furbelowed
 fissured
 fascistic
 fiscalify
