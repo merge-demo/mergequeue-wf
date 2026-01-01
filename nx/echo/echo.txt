@@ -2874,7 +2874,6 @@ europhium
 eagre
 escars
 elephantoid
-elephantoidal
 enantiopathy
 elanus
 estrays
@@ -3028,6 +3027,7 @@ elinguate
 enfield
 eleatic
 eleoblast
+elephantoidal
 evaluate
 extine
 efflorescence
