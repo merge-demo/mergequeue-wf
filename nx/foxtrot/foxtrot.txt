@@ -4969,6 +4969,7 @@ flegm
 firstlings
 frets
 farmhold
+fthm
 flamers
 fictionist
 foxing
@@ -10332,7 +10333,6 @@ fingering
 frondeurs
 forecourt
 feaze
-fthm
 foss
 footcandles
 forewarning
