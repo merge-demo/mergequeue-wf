@@ -1689,7 +1689,6 @@ balmorals
 bedticks
 bensh
 bathless
-blusher
 bhd
 byganging
 barchan
@@ -5557,6 +5556,7 @@ bialveolar
 bigeminies
 bhava
 biopsies
+blusher
 beadswoman
 blockline
 breastfeeding
