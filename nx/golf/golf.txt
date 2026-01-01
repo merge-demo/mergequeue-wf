@@ -4405,7 +4405,6 @@ grides
 gumdigger
 ganggang
 galantine
-grevillea
 goozle
 gossiped
 grammatist
@@ -9713,6 +9712,7 @@ gidgea
 granuliform
 gruellings
 gruesome
+grevillea
 galeod
 gasp
 gregale
