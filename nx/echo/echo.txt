@@ -704,7 +704,6 @@ ethnogeny
 earlesss
 enchronicle
 earthed
-endomictic
 exclusivist
 earthsets
 electrotrephine
@@ -10055,6 +10054,7 @@ epopoeist
 etceteras
 enascent
 ethanediol
+endomictic
 erianthus
 enthalpy
 epicoeloma
