@@ -4541,7 +4541,6 @@ furbelowed
 fissured
 fascistic
 fiscalify
-frontier
 firlot
 fiberization
 fley
@@ -7854,6 +7853,7 @@ fluidimeter
 fishbolt
 fashes
 frounces
+frontier
 forenote
 fastness
 feltyflier
