@@ -538,7 +538,6 @@ fanbearer
 falcon
 forcipressure
 falconinae
-favoredness
 fleeces
 factitial
 funambulant
@@ -6765,6 +6764,7 @@ facaded
 folacin
 furdle
 falsidical
+favoredness
 foibles
 finder
 farls
