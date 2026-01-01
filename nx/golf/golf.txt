@@ -1117,7 +1117,6 @@ gestura
 geneura
 gerontocracies
 gallnut
-galyac
 groupment
 gunpowder
 granddam
@@ -3611,6 +3610,7 @@ greg
 gatewaymen
 glyptographer
 gyrochrome
+galyac
 gynostegigia
 gnathobdellae
 gargil
