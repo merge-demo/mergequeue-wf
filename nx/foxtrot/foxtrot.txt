@@ -5125,7 +5125,6 @@ fille
 fainness
 flashgun
 fifteenth
-factitive
 fict
 furnishment
 furculae
@@ -8035,6 +8034,7 @@ frisked
 forespeaking
 flavorer
 foiter
+factitive
 farfugium
 furcula
 filibustrous
