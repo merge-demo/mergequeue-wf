@@ -6387,7 +6387,6 @@ borize
 blas
 brinishness
 burely
-barfy
 benzonaphthol
 benzonitrile
 behedge
@@ -9393,6 +9392,7 @@ birdfarm
 bimah
 brachiotomy
 bituminise
+barfy
 bromopikrin
 britannia
 beflowering
