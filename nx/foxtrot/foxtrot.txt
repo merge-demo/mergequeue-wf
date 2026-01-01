@@ -8081,7 +8081,6 @@ fructiculture
 flockmaster
 feyest
 flowerist
-frontward
 fluidises
 falconnoid
 foredevote
@@ -10718,6 +10717,7 @@ fil
 flavedo
 frutescence
 fetter
+frontward
 forecount
 forbore
 fanciness
