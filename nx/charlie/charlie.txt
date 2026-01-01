@@ -9164,7 +9164,6 @@ charterers
 charterhouse
 chartering
 charterism
-charterless
 chartermaster
 charters
 cryptograms
@@ -10422,6 +10421,7 @@ chieftainess
 chieftainry
 complexify
 concludendi
+charterless
 chirring
 countertendencies
 chieftains
