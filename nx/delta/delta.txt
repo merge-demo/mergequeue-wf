@@ -4420,7 +4420,6 @@ diazotization
 demibeast
 demibelt
 dinornithes
-dislink
 deists
 deradelphus
 demibob
@@ -10659,6 +10658,7 @@ dawties
 dacryopyorrhea
 dissipating
 durned
+dislink
 derivable
 declinometer
 downstreet
