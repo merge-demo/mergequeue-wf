@@ -3389,7 +3389,6 @@ arnement
 aseethe
 azurite
 attending
-ankou
 apostemation
 argosies
 alliaria
@@ -7650,6 +7649,7 @@ anemogram
 alcoholmetric
 autoloaders
 acroter
+ankou
 abaissed
 alcoholometer
 acidic
