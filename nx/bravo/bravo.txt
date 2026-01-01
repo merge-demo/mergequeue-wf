@@ -2269,6 +2269,7 @@ bannerwise
 bats
 burgensic
 bigmouths
+bacons
 blastment
 bandar
 barbarized
@@ -4151,7 +4152,6 @@ bearward
 bearwort
 boanthropy
 bravadoing
-bacons
 blenched
 bronchiolitis
 boroglyceride
