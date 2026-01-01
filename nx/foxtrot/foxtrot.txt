@@ -9805,7 +9805,6 @@ foresettled
 flyspeck
 flummoxed
 fascists
-fencers
 frescoed
 fraxinella
 federacies
@@ -10224,6 +10223,7 @@ farce
 foxchop
 furdel
 ferryage
+fencers
 famines
 fowlpox
 frazing
