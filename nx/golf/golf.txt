@@ -6488,7 +6488,6 @@ gannister
 gastraead
 guarded
 gie
-gravitation
 guanare
 gapeworms
 gurry
@@ -7488,6 +7487,7 @@ grunerite
 grapplement
 gomerals
 gasconaded
+gravitation
 gists
 gluttons
 geodesy
