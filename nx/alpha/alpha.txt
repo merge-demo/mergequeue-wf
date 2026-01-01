@@ -5231,7 +5231,6 @@ addio
 alpenhorn
 affiliating
 apery
-anagenetical
 ampitheater
 attackable
 anapterygotous
@@ -12630,6 +12629,7 @@ atherogenesis
 angelicalness
 angelicic
 anaglypton
+anagenetical
 arterial
 angelicness
 angelico

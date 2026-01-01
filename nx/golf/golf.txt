@@ -420,6 +420,7 @@ gair
 glucic
 gamosepalous
 gardenable
+gerate
 gooseflesh
 gammexane
 grapefruits
@@ -3061,7 +3062,6 @@ genepi
 glom
 grypanian
 gluttonized
-gerate
 geomorphologically
 glycopexis
 geonavigation
