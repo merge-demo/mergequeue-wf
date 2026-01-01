@@ -10214,7 +10214,6 @@ arcticize
 anemious
 agricolite
 amelanchier
-avarice
 auxoblast
 amelcorn
 amelet
@@ -12699,6 +12698,7 @@ apostemate
 anomocarpous
 apyrous
 amphitrite
+avarice
 agricole
 anointing
 arthragra
