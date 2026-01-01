@@ -5647,6 +5647,7 @@ flyless
 flinting
 forbearingly
 fuddle
+floggers
 fulgurata
 foxite
 feoffing
@@ -7600,7 +7601,6 @@ foreconclude
 flagonet
 foredivine
 figworts
-floggers
 ficoidal
 foggier
 forecourts
