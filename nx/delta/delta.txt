@@ -4274,7 +4274,6 @@ duckhood
 dequeue
 dronel
 daubster
-diamondiferous
 diacritical
 dods
 demagogical
@@ -14868,6 +14867,7 @@ doctrinality
 doorbells
 dharmashastra
 doctrinarity
+diamondiferous
 dotant
 doctrinate
 doorward
