@@ -2307,6 +2307,7 @@ greyfish
 geognosis
 guaranis
 gelatine
+gazer
 gondoliere
 gerastian
 gristlier
@@ -4407,7 +4408,6 @@ gossiped
 grammatist
 gloriam
 gleeted
-gazer
 gorer
 gorget
 grandezza
