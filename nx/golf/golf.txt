@@ -3890,7 +3890,6 @@ gyges
 galloperdix
 gymnarchidae
 genips
-gighe
 gallotannate
 grossen
 guaycuru
@@ -6625,6 +6624,7 @@ garous
 granivorous
 glegnesses
 gonaduct
+gighe
 guiling
 grinner
 galvanometrically
