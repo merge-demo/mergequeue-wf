@@ -6428,7 +6428,6 @@ goitral
 grainier
 guam
 gamboges
-galuth
 gaine
 glucocorticord
 grasswidowhood
@@ -10153,6 +10152,7 @@ guimbard
 gasohol
 grazers
 giddyish
+galuth
 gal
 gloried
 glideness

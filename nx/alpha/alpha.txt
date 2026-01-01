@@ -607,7 +607,6 @@ arboriform
 abodes
 aboil
 aahed
-anaglyphy
 assumedly
 allegories
 accommodation
@@ -16600,6 +16599,7 @@ acuminate
 amphigonic
 aeolotropism
 affiliate
+anaglyphy
 abrasax
 apepsinia
 adumbrate
