@@ -8289,7 +8289,6 @@ arundinaceous
 arnaut
 animadversive
 alimentariness
-alimentation
 alimentativeness
 arsenium
 alimented
@@ -11693,6 +11692,7 @@ analcimic
 antar
 anosphrasia
 ablepharon
+alimentation
 antarctica
 analcimite
 authigene
