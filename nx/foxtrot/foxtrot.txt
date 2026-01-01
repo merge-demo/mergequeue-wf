@@ -794,7 +794,6 @@ fanfaronading
 farmhouses
 folkloric
 fatality
-farinha
 froster
 forensicality
 flipe
@@ -932,6 +931,7 @@ furfural
 fardo
 farceur
 ferneries
+farinha
 flyleaf
 foundry
 fasola
