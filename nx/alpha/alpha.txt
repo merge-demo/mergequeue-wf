@@ -7394,6 +7394,7 @@ albinos
 arthrodiae
 antara
 aplacentalia
+atheris
 albinotic
 antitypic
 astragaloscaphoid
@@ -22674,7 +22675,6 @@ aphrosiderite
 acylates
 autocracy
 atheriogaean
-atheris
 athermancy
 atterrate
 athermanous
