@@ -623,7 +623,6 @@ geodetic
 gardencraft
 gallomaniac
 gallon
-gonapophysis
 gush
 gardenesque
 gonangial
@@ -5746,6 +5745,7 @@ globoseness
 guanyl
 girl
 grieshuckle
+gonapophysis
 girasols
 gyrolite
 gressorious
