@@ -1284,6 +1284,7 @@ grump
 gerendum
 government
 gulliver
+glossarist
 grail
 geodiatropism
 giro
@@ -7504,7 +7505,6 @@ gulpy
 gladiatory
 goura
 glyphography
-glossarist
 gelded
 gonad
 gamesmanship
