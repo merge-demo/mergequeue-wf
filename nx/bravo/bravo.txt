@@ -12158,7 +12158,6 @@ beg
 bultey
 banged
 beloid
-burbler
 backstop
 boldly
 baedekers
@@ -16637,6 +16636,7 @@ bewitchful
 bracings
 buenos
 buccaneer
+burbler
 buccaneerish
 buccaning
 beraunite
