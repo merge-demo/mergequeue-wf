@@ -4343,6 +4343,7 @@ bellona
 bromhydric
 blockishness
 bossdoms
+beking
 boatkeeper
 beche
 biconic
@@ -12077,7 +12078,6 @@ boid
 boydekyn
 boydom
 boyer
-beking
 barbascos
 boyhoods
 bebloom
