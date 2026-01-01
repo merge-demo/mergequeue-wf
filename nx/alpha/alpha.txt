@@ -129,6 +129,7 @@ antiphrasis
 aspidoganoidei
 aulostoma
 abasic
+ascriptive
 anachueta
 alcarraza
 amused
@@ -19763,7 +19764,6 @@ araeostyle
 arythmical
 anteprandial
 allelopathy
-ascriptive
 arithmocratic
 arithmograph
 arithmography
