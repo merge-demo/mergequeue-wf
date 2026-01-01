@@ -19180,7 +19180,6 @@ coadapted
 colloquializer
 casino
 colloquially
-colloquialness
 charked
 colloquiquia
 cataracteg
@@ -31640,6 +31639,7 @@ curvometer
 cheeker
 carduelis
 conscripttion
+colloquialness
 curvulate
 cuscohygrin
 cuscohygrine
