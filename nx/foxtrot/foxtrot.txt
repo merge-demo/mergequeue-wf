@@ -1689,6 +1689,7 @@ ferineness
 fearless
 forehammer
 frangible
+fuzes
 fairtime
 ferrament
 fleeching
@@ -11375,7 +11376,6 @@ faute
 firetraps
 fosters
 furnaces
-fuzes
 ferromagneticism
 flightily
 flashlamp
