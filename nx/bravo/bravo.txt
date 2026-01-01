@@ -4671,7 +4671,6 @@ bedfellows
 buildable
 barlows
 bedford
-bedframes
 bouncers
 bonier
 broadaxe
@@ -13595,6 +13594,7 @@ babbittism
 biquarterly
 barhop
 bouffant
+bedframes
 brontesque
 barristers
 bratina

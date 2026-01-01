@@ -5797,7 +5797,6 @@ cannibalic
 cynoscion
 catchpoled
 commation
-catchpoll
 catchpolling
 chad
 copperheads
@@ -16968,6 +16967,7 @@ clumpst
 clumse
 clumsy
 clumsier
+catchpoll
 cloyer
 clumsiest
 clumsily
