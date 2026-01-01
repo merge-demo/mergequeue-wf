@@ -11226,7 +11226,6 @@ experimentalist
 elaphine
 epibolies
 evangeliaries
-endocycle
 exocrinology
 enkindling
 ectepicondylar
@@ -13915,6 +13914,7 @@ epimerizing
 exorcized
 euphoniousness
 emigrative
+endocycle
 extramusical
 encapsulates
 evincingly
