@@ -4599,6 +4599,7 @@ frees
 fesswise
 foliages
 flunkyism
+forseeable
 fissidens
 fieldstone
 fistuca
@@ -6803,7 +6804,6 @@ fervescent
 froebelian
 freehanded
 flyers
-forseeable
 fluidics
 ferme
 fiendliness
