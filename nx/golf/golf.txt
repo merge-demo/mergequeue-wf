@@ -158,7 +158,6 @@ guaiaretic
 geophagy
 gamond
 graniticoline
-gunwhale
 grandson
 glassworm
 goliardic
@@ -2645,6 +2644,7 @@ geniality
 gastrolysis
 gudgeoned
 gastrocoele
+gunwhale
 glow
 greegrees
 garg
