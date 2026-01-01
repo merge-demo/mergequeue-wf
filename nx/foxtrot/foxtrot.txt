@@ -1809,7 +1809,6 @@ ferninst
 forbesite
 folkmots
 flak
-flaithship
 frotting
 frustules
 fanfarade
@@ -7684,6 +7683,7 @@ furmenty
 flustroid
 figary
 fixed
+flaithship
 floruits
 faeculence
 foreimagination
