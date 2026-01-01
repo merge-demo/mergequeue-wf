@@ -1509,7 +1509,6 @@ bemadamed
 boser
 bacteremia
 borstal
-bistable
 booked
 bedsick
 balladic
@@ -14838,6 +14837,7 @@ barres
 ballooner
 bombable
 burgheress
+bistable
 baru
 brava
 brazil
