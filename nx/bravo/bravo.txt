@@ -3583,7 +3583,6 @@ boliviano
 bathythermograph
 bipartite
 bathmat
-bathmats
 broodsac
 bereaven
 basion
@@ -12158,6 +12157,7 @@ bultey
 banged
 beloid
 backstop
+bathmats
 boldly
 baedekers
 bonesets
