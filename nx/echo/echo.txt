@@ -2030,7 +2030,6 @@ ethiopic
 elaenia
 effranchisement
 elasticities
-eyeshot
 expungers
 excussing
 enmist
@@ -6149,6 +6148,7 @@ embattles
 ethicizes
 enmove
 emusified
+eyeshot
 ethnomusicological
 elans
 evolvent
