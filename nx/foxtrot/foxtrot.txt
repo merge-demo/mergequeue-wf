@@ -7908,7 +7908,6 @@ flairs
 flavourous
 fruitwomen
 fibrochondritis
-foreran
 fascination
 forereach
 forereckon
@@ -8376,6 +8375,7 @@ fulminates
 forkier
 frederic
 fumewort
+foreran
 familiars
 faradmeter
 flues
