@@ -5836,6 +5836,7 @@ bribeworthy
 baigneuse
 brimfull
 bellyful
+billowing
 bestrews
 butyrals
 boor
@@ -16167,7 +16168,6 @@ butylated
 blotting
 bonelessness
 befret
-billowing
 botryomycotic
 banning
 blesbok
