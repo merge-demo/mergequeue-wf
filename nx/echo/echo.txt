@@ -884,7 +884,6 @@ enterprised
 elusiveness
 enucleation
 endore
-evilspeaker
 encourager
 ectoproctous
 effrenate
@@ -9516,6 +9515,7 @@ essences
 eugenesis
 extrasolar
 exempt
+evilspeaker
 envois
 esuriently
 esebrias
