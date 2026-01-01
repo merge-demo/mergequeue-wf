@@ -15295,7 +15295,6 @@ antihero
 amphoriskos
 azulejo
 anticonscriptive
-antihierarchy
 akimbo
 aidless
 arroba
@@ -19255,6 +19254,7 @@ awabi
 adventurish
 arduousness
 apathia
+antihierarchy
 astrocaryum
 ardurous
 autotoxicosis
