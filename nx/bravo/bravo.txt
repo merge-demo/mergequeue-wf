@@ -5898,7 +5898,6 @@ believing
 belongs
 bicameral
 bugdom
-banderillero
 belonidae
 beatnik
 beprose
@@ -13465,6 +13464,7 @@ blueprints
 bensell
 brightsome
 belowstairs
+banderillero
 brushlet
 bundestag
 blunts
