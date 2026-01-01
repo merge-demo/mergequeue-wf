@@ -1594,6 +1594,7 @@ ballflower
 ballywack
 basalt
 brooder
+bootstrapping
 benzanilide
 beclart
 bursati
@@ -7360,7 +7361,6 @@ benedictionary
 bignoniaceous
 bethink
 boatswain
-bootstrapping
 bunglers
 bacteririum
 balaenoptera
