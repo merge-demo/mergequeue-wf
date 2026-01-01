@@ -6516,7 +6516,6 @@ descension
 dereligion
 descensionist
 descensive
-donor
 descent
 devotement
 despert
@@ -6815,6 +6814,7 @@ dunks
 deskman
 desks
 dragade
+donor
 destined
 deslime
 desmachyme
