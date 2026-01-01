@@ -3963,7 +3963,6 @@ fingerers
 feed
 forecastles
 fono
-florissant
 flav
 falkland
 friendlier
@@ -8266,6 +8265,7 @@ foresweat
 fesse
 forgeable
 forgery
+florissant
 forwaked
 families
 flashtubes
