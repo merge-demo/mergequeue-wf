@@ -2617,6 +2617,7 @@ farandmen
 foraminated
 ferruginating
 fraught
+fulleries
 fulful
 flashly
 framesmith
@@ -10902,7 +10903,6 @@ fieldwort
 forsworn
 falloffs
 fides
-fulleries
 facie
 fustigated
 flivver
