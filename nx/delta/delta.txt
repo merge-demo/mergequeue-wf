@@ -10368,7 +10368,6 @@ demonises
 droiture
 defoliage
 diplosphene
-dioxy
 defecate
 discourtship
 dioxid
@@ -11175,6 +11174,7 @@ disbeliefs
 diarchic
 decemjugate
 dissociating
+dioxy
 disbelieved
 disproportions
 demultiplexed
