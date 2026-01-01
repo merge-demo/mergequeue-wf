@@ -4268,6 +4268,7 @@ daubster
 diacritical
 dods
 demagogical
+doli
 derailed
 dura
 descriers
@@ -15193,7 +15194,6 @@ defunctness
 distributable
 dolabrate
 doliolum
-doli
 disulphide
 dolcemente
 dulcian
