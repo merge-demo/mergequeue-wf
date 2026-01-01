@@ -3022,7 +3022,6 @@ ectopia
 elymus
 ergotamine
 epitomes
-enallage
 elinguate
 enfield
 eleatic
@@ -13950,6 +13949,7 @@ eozoonal
 endokaryogamy
 enface
 electropoion
+enallage
 excuse
 extraparochial
 equicurve
