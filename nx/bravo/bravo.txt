@@ -6320,6 +6320,7 @@ barrer
 biflex
 brike
 benzanthracene
+biocidal
 boxboard
 balandra
 bibs
@@ -8928,7 +8929,6 @@ bandoras
 biocycle
 baboon
 biocycles
-biocidal
 biocide
 bookcases
 bioclimatic
