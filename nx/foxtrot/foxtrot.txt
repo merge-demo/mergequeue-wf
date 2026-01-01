@@ -1349,7 +1349,6 @@ fatiferous
 feaster
 flavorfully
 florentine
-flamen
 fatigable
 favorable
 forfars
@@ -7955,6 +7954,7 @@ frenzied
 foreseize
 flatteries
 fike
+flamen
 figurant
 fantasticness
 federalisation

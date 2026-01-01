@@ -9398,7 +9398,6 @@ glaymore
 getatableness
 glacious
 gelatinized
-geared
 geneserin
 gurt
 graciosity
@@ -10183,6 +10182,7 @@ goosery
 genethliac
 garages
 grovelings
+geared
 guido
 ganglioneuroma
 gearwheels
