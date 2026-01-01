@@ -5909,6 +5909,7 @@ arborization
 azoxyphenetole
 attorney
 adversary
+aphidicolous
 apprehensive
 atelorachidia
 anhaematopoiesis
@@ -15614,7 +15615,6 @@ antinormalness
 ambage
 anoxaemia
 acanthad
-aphidicolous
 amygdalitis
 aeolight
 acrocontracture
