@@ -4003,6 +4003,7 @@ aeschylus
 apprise
 athodyd
 antacids
+altars
 anastomus
 allegiantly
 administrates
@@ -6746,7 +6747,6 @@ airbusses
 antibias
 axometer
 arid
-altars
 aircraftsman
 aircraftsmen
 archband
