@@ -4374,7 +4374,6 @@ graphicalness
 grylli
 gunky
 guz
-glottochronology
 gasterosteid
 gematrical
 ginglymostomoid
@@ -9109,6 +9108,7 @@ graveyards
 glaucomys
 glumal
 glires
+glottochronology
 gladiatorism
 glomerulose
 guajira
