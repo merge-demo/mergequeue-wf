@@ -8574,7 +8574,6 @@ bunting
 bedder
 bradycardia
 billabong
-billage
 brumes
 barricading
 bittersweetly
@@ -10643,6 +10642,7 @@ backlands
 belemnite
 budgetful
 blazonment
+billage
 bouquet
 bladders
 bowllike
