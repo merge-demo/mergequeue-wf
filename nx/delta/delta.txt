@@ -489,6 +489,7 @@ daleths
 dislustering
 dedit
 dwarves
+dextrotropous
 dalf
 dalibarda
 dismantler
@@ -14076,7 +14077,6 @@ dishorner
 dragging
 dunlap
 depravation
-dextrotropous
 decommissioning
 dyspepsies
 draughtman
