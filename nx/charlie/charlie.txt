@@ -18355,7 +18355,6 @@ cogger
 cogging
 coggledy
 cogitate
-combed
 campal
 culdee
 coggly
@@ -18978,6 +18977,7 @@ chalta
 collateralness
 collaterals
 cohobating
+combed
 corved
 collates
 collation
