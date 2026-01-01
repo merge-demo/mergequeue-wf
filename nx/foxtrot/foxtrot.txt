@@ -769,7 +769,6 @@ fanciful
 fibreboard
 fleers
 fanciless
-foliicolous
 fallows
 fandangos
 ferried
@@ -4501,6 +4500,7 @@ flour
 flogging
 felinae
 flattop
+foliicolous
 forblow
 feebleheartedness
 foreshank
