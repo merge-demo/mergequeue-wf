@@ -20672,6 +20672,7 @@ arthrostome
 arthrostomy
 amputative
 arthrotome
+abusious
 ansi
 accinged
 arthrous
@@ -21849,7 +21850,6 @@ arteriole
 assigns
 assilag
 amiced
-abusious
 apprenticeship
 assimilates
 assimilating
