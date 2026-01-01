@@ -3005,6 +3005,7 @@ bidirectionally
 bottstick
 boist
 bartending
+blasts
 bulbiferous
 bartends
 burthened
@@ -11262,7 +11263,6 @@ bridgeable
 bescouring
 bullfight
 burez
-blasts
 bestowed
 brightening
 benday
