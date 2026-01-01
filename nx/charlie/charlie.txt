@@ -13216,7 +13216,6 @@ canalize
 craniographer
 cicatrization
 cott
-cicatrizer
 cicatrizing
 cicelies
 ciceronage
@@ -23092,6 +23091,7 @@ consperse
 conspersion
 conspicuity
 crescentia
+cicatrizer
 cottoneer
 cyanochlorous
 conspicuously
