@@ -1823,7 +1823,6 @@ figureheadship
 fellahin
 firebreaks
 fleabites
-feudalize
 fractured
 flabellum
 fating
@@ -10033,6 +10032,7 @@ furlongs
 fenceless
 flagons
 fanga
+feudalize
 forerevelation
 fecundations
 foredeclare

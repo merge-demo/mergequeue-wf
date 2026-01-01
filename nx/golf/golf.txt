@@ -1475,6 +1475,7 @@ growly
 greta
 ghostology
 granolith
+glossological
 gaseousness
 gauntness
 girllike
@@ -6605,7 +6606,6 @@ graphalloy
 good
 gurglets
 goudy
-glossological
 gentleship
 girlfriend
 glossary
