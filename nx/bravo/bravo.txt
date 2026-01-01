@@ -4591,7 +4591,6 @@ bicellular
 biddelian
 backjaw
 bedaub
-ballplayer
 benzoylglycine
 barks
 besuit
@@ -12451,6 +12450,7 @@ bursary
 betsimisaraka
 behap
 bicapitate
+ballplayer
 backcast
 begloom
 bonbons
