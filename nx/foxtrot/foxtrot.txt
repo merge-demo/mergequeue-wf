@@ -1064,7 +1064,6 @@ faro
 fluoridization
 floter
 foredestining
-fecit
 furriery
 fumishly
 flustration
@@ -6548,6 +6547,7 @@ foetid
 floccose
 flawlessness
 flutist
+fecit
 firebed
 forecover
 flytime

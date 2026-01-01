@@ -2110,7 +2110,6 @@ enclosable
 enterolysis
 elasmothere
 euphoniously
-ebullioscope
 emulge
 excretory
 extrapolator
@@ -5797,6 +5796,7 @@ edeoscopy
 enceintes
 euchre
 enterons
+ebullioscope
 encrinal
 episode
 encloser
