@@ -5693,6 +5693,7 @@ extras
 episcopalism
 enhort
 emerson
+emprosthotonos
 eagerest
 engallant
 enlargedly
@@ -10117,7 +10118,6 @@ earthlike
 extrusible
 ecthlipses
 endorses
-emprosthotonos
 etherealness
 escherichia
 equisetum
