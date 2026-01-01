@@ -2747,6 +2747,7 @@ enceint
 eleemosinar
 equipotent
 electees
+expounds
 ennobler
 envoi
 ennoblment
@@ -7941,7 +7942,6 @@ equivocatory
 eternizes
 estragol
 ensilation
-expounds
 epimanikion
 epimeres
 epimerism
