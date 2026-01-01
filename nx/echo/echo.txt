@@ -6153,6 +6153,7 @@ emusified
 eyeshot
 ethnomusicological
 elans
+espresso
 evolvent
 enneagonal
 enrolling
@@ -6236,7 +6237,6 @@ epitapher
 eradiation
 elisions
 erugatory
-espresso
 enoughs
 editorialize
 egrid
