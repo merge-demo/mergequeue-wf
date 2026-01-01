@@ -3849,7 +3849,6 @@ doer
 deirid
 deis
 deisidaimonia
-disquieting
 deism
 decentred
 deistical
@@ -9346,6 +9345,7 @@ diplopia
 dinarchies
 differer
 differs
+disquieting
 dextrorsely
 duncify
 deprive
