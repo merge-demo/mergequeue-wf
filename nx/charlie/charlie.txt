@@ -11507,6 +11507,7 @@ commentated
 choctaw
 canthorrhaphy
 choga
+clamb
 chogset
 choy
 choiceful
@@ -15865,7 +15866,6 @@ contentness
 cleavers
 crusilee
 coremaker
-clamb
 cleche
 capacitance
 clerkish
