@@ -1007,7 +1007,6 @@ foreshop
 fulmina
 foreplan
 foreorder
-fenester
 flustrating
 factorability
 forweend
@@ -4588,6 +4587,7 @@ fringed
 familiarness
 fratricide
 fisting
+fenester
 frictionize
 frutices
 flaunted
