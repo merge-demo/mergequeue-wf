@@ -472,6 +472,7 @@ folkmoter
 foliosity
 faithworthiness
 fireplaces
+famished
 faitours
 fornicatress
 fomented
@@ -5471,7 +5472,6 @@ flattening
 faunal
 figurativeness
 formulator
-famished
 foresummer
 fanatic
 farmerish
