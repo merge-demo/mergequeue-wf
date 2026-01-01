@@ -2178,7 +2178,6 @@ fratercula
 farmhouse
 fumulus
 farinometer
-fluster
 felts
 forthtell
 fishworker
@@ -2474,6 +2473,7 @@ furison
 fordo
 forehatch
 flavic
+fluster
 freightage
 fawningness
 festively
