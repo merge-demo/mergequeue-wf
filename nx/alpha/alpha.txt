@@ -1776,7 +1776,6 @@ anemia
 apochromatic
 acedy
 acedias
-abbreviature
 absolvitor
 agalloch
 astigmia
@@ -22486,6 +22485,7 @@ anisostemonous
 astrut
 agronomical
 aprendiz
+abbreviature
 astutious
 apsis
 achime
