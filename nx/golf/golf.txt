@@ -6151,7 +6151,6 @@ guttulous
 gns
 geese
 gatefolds
-globical
 gumflower
 gipsywort
 glavered
@@ -7642,6 +7641,7 @@ gloeosporium
 goodyness
 gunating
 gemmula
+globical
 grabhook
 grabouche
 gripsack
