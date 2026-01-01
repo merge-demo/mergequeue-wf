@@ -8309,7 +8309,6 @@ gasteria
 graphoscope
 glycoprotein
 grinderies
-gamestress
 graphotype
 gastly
 grapier
@@ -9075,6 +9074,7 @@ gyromagnetic
 glossitis
 grimaced
 girrock
+gamestress
 gulose
 genoese
 gis
