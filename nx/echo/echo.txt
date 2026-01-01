@@ -4226,6 +4226,7 @@ emptiers
 emptiness
 esterellite
 emptio
+endemicity
 enfranchising
 emptor
 eccyclema
@@ -4995,7 +4996,6 @@ exul
 effuses
 enschedule
 exomphalous
-endemicity
 electrofused
 eco
 eightscore
