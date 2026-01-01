@@ -1598,7 +1598,6 @@ geulah
 gambiae
 galavant
 gemaric
-gasteromycetous
 geneat
 giraffine
 gasteropoda
@@ -6847,6 +6846,7 @@ gladiolus
 gatewright
 graille
 gaberdines
+gasteromycetous
 gelsemic
 gratiolin
 gingerade
