@@ -3976,7 +3976,6 @@ excurvation
 empanelling
 empanels
 enfamish
-ecumene
 emparchment
 exaltative
 enruin
@@ -4228,6 +4227,7 @@ eccyclema
 evagination
 ethal
 extrathecal
+ecumene
 emprizes
 evened
 epicycloid
