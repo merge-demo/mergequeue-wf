@@ -6730,6 +6730,7 @@ gypsine
 gassings
 guid
 graybeard
+gonoblastidial
 grivation
 ginglyni
 grudgeless
@@ -7250,7 +7251,6 @@ globosite
 gymnocarpous
 gizzen
 galahad
-gonoblastidial
 grabbler
 globulose
 gallanted
