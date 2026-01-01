@@ -18,7 +18,6 @@ cryptostoma
 chevance
 chaenomeles
 cows
-crease
 corkmaking
 cosets
 cabaletta
@@ -19580,6 +19579,7 @@ columbiformes
 condemned
 creophagist
 columbine
+crease
 climactic
 crocky
 copesetic
