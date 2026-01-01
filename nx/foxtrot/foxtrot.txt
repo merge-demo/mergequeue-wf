@@ -1637,6 +1637,7 @@ fractions
 featishly
 fazes
 fiard
+fourneau
 flophouse
 fied
 foreannounce
@@ -8997,7 +8998,6 @@ formally
 francophilism
 fourierism
 foldwards
-fourneau
 festivally
 filly
 feltings
