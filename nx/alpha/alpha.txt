@@ -3169,6 +3169,7 @@ asterixis
 aid
 aleger
 athapascan
+aristate
 alagao
 alliterativeness
 actress
@@ -19700,7 +19701,6 @@ attercrop
 apl
 aerobacteriological
 alfarga
-aristate
 ascesis
 aristeas
 alertness
