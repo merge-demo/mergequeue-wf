@@ -4645,7 +4645,6 @@ bustic
 barry
 buxus
 bedevilling
-barbershops
 bargee
 bedevilment
 bescarf
@@ -15530,6 +15529,7 @@ bodega
 brushiness
 botanophilist
 brynhild
+barbershops
 blist
 blockship
 breadnuts
