@@ -1870,6 +1870,7 @@ gating
 guaiocum
 gerontologists
 germ
+gype
 gaussmeter
 goosefishes
 gatteridge
@@ -2430,7 +2431,6 @@ geologian
 gesticulation
 graduator
 goas
-gype
 grograms
 gallah
 glutch

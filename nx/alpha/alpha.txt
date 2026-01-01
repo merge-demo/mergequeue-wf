@@ -5795,6 +5795,7 @@ agaze
 agallop
 agedness
 agee
+armouries
 aerugos
 ageing
 adnexal
@@ -8812,7 +8813,6 @@ allanturic
 actinal
 antevocalic
 arrayment
-armouries
 audiometries
 alderliefest
 adermin
