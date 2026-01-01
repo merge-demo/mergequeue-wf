@@ -7644,6 +7644,7 @@ gripsack
 gigolo
 gerenda
 garpike
+gametangium
 gilbertite
 glacialist
 gracefuller
@@ -7928,7 +7929,6 @@ generic
 gramophonic
 grapsidae
 gruelling
-gametangium
 gounau
 gentleheartedness
 garbless
