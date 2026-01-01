@@ -9893,7 +9893,6 @@ exhaustively
 emmensite
 elaterium
 endlichite
-ephetic
 enterritoriality
 ephedrin
 executes
@@ -11340,6 +11339,7 @@ epupillate
 enwrap
 enforcively
 evapotranspiration
+ephetic
 ecaudata
 empoisoned
 esiphonal
