@@ -4191,7 +4191,6 @@ genealogy
 gollar
 gaspergou
 gienah
-gene
 graphomania
 grandfather
 gosmore
@@ -8502,6 +8501,7 @@ gravitations
 geotaxis
 gegenion
 gelada
+gene
 gov
 gleyde
 gilders
