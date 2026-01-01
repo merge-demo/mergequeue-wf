@@ -5783,6 +5783,7 @@ garni
 glycogenolysis
 guzzler
 goldbird
+gadaea
 goosecap
 groovers
 gonidic
@@ -9550,7 +9551,6 @@ glycollic
 glidder
 grumbler
 greenlander
-gadaea
 garnish
 gastrophthisis
 gastrocentrous
