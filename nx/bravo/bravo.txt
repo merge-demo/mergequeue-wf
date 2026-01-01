@@ -3293,6 +3293,7 @@ basions
 backstabbed
 bronzes
 branchiostegan
+bushfighter
 beadlery
 backpacking
 betweens
@@ -15861,7 +15862,6 @@ bradykinesia
 bigging
 barding
 broking
-bushfighter
 brainwash
 battiks
 broletti
