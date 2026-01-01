@@ -24850,7 +24850,6 @@ charissa
 coracii
 coryzas
 coracle
-cruciate
 coracobrachial
 clipeus
 calcimeter
@@ -29128,6 +29127,7 @@ cnemides
 cerat
 crinums
 crowstep
+cruciate
 cryobiological
 cryobiologist
 criobolium
