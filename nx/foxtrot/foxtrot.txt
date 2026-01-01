@@ -3852,7 +3852,6 @@ fireflirt
 figurings
 farleu
 fimbrillate
-fany
 farcemeat
 fig
 flowerlet
@@ -5415,6 +5414,7 @@ figuration
 fruittime
 forthbringer
 formable
+fany
 flecking
 fusarole
 fennel
