@@ -5492,7 +5492,6 @@ glaciating
 galet
 gemellus
 guipure
-girdle
 groundskeep
 glisk
 gruffed
@@ -10750,6 +10749,7 @@ ghostwrote
 globulin
 grovelers
 gerodontics
+girdle
 germinator
 gerald
 gut
