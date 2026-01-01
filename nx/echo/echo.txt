@@ -9520,7 +9520,6 @@ extrasolar
 exempt
 evilspeaker
 envois
-esuriently
 esebrias
 ellops
 enantiotropy
@@ -10869,6 +10868,7 @@ epidemial
 eructation
 ereption
 euphemian
+esuriently
 electrolyzed
 endopleuritic
 enlivenments
