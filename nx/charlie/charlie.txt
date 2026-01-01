@@ -20843,7 +20843,6 @@ crocodilian
 componential
 components
 compony
-comportable
 comportance
 comported
 circleting
@@ -23864,6 +23863,7 @@ caimitillo
 checkerwise
 contrives
 control
+comportable
 controling
 controllable
 controllably
