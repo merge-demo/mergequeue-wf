@@ -8638,7 +8638,6 @@ grauwacke
 greeds
 glutaminase
 gap
-gerrymanderer
 gemmeous
 genethliacs
 grapnel
@@ -10289,6 +10288,7 @@ grossularite
 gelechia
 galvanomagnet
 grasshopperdom
+gerrymanderer
 gigantically
 gorges
 grather
