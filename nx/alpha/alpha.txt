@@ -6680,6 +6680,7 @@ argentiferous
 amphimictical
 ain
 anthocyanin
+algous
 ablow
 anathematic
 ainaleh
@@ -11974,7 +11975,6 @@ augh
 alkylated
 antihygienic
 anarthrosis
-algous
 anarthrously
 anarthrousness
 avionics
