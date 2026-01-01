@@ -1383,7 +1383,6 @@ ganodonta
 glossanthrax
 garnison
 greetingless
-garniture
 gaulsh
 glycosemia
 geitjie
@@ -7834,6 +7833,7 @@ generalities
 gospeler
 geococcyx
 galantuomo
+garniture
 glucase
 gunline
 gardenly
