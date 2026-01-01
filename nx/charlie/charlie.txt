@@ -15949,7 +15949,6 @@ clenchers
 clarshech
 clenches
 cleoid
-cleomes
 chimbs
 clep
 cakemaker
@@ -17460,6 +17459,7 @@ colourer
 cordigeri
 coaxial
 cellarman
+cleomes
 coaxing
 coazervate
 contline
