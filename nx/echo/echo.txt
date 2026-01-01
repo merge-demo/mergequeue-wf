@@ -7409,7 +7409,6 @@ eleotrid
 etruria
 elapsed
 etalon
-enforcing
 encheat
 escarpment
 eternalizing
@@ -7605,6 +7604,7 @@ effoliate
 ersar
 endamoebic
 epiclinal
+enforcing
 eyeberry
 effectivity
 enteric
