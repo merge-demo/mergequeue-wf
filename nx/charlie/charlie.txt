@@ -2184,7 +2184,6 @@ choryos
 casel
 camphol
 cade
-campholic
 compilatory
 camphols
 contemnor
@@ -22188,6 +22187,7 @@ confusedness
 confuser
 chickee
 confusion
+campholic
 confusions
 chondroendothelioma
 clapmatch
