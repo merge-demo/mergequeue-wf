@@ -10876,6 +10876,7 @@ admin
 atwin
 acquainted
 arched
+arpanet
 athogen
 amoebalike
 amoebas
@@ -20067,7 +20068,6 @@ aitkenite
 acoluthic
 autocratoric
 adjourns
-arpanet
 aschistic
 auriscopically
 aromatics
