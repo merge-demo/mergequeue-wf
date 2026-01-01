@@ -6129,7 +6129,6 @@ fitchering
 frightenedly
 forlornly
 fenster
-felsobanyite
 floccilation
 flounced
 flounder
@@ -8157,6 +8156,7 @@ fumigator
 foretellers
 forethrift
 fusel
+felsobanyite
 fondon
 farmland
 foison
