@@ -2899,7 +2899,6 @@ gigots
 ganta
 glints
 gallipots
-glittering
 gonocyte
 gaveled
 gallinulelike
@@ -5001,6 +5000,7 @@ glister
 guilty
 guariba
 glandered
+glittering
 global
 genially
 gangliest
