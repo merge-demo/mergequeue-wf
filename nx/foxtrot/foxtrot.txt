@@ -3073,6 +3073,7 @@ flakeboard
 foreboot
 fillmass
 fibrinose
+fisherboat
 fibrinosis
 feringi
 fibro
@@ -8845,7 +8846,6 @@ flotillas
 fossage
 fanlight
 fidel
-fisherboat
 fearable
 freightliner
 flexured
