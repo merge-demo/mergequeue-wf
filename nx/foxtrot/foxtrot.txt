@@ -774,7 +774,6 @@ fandangos
 ferried
 frivolized
 fellowlike
-fermacy
 fleaworts
 freesp
 frangipane
@@ -10428,6 +10427,7 @@ filigree
 flow
 funditor
 flyspecked
+fermacy
 firstling
 forcaria
 fertilizer
