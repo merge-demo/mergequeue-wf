@@ -8534,6 +8534,7 @@ caveat
 carle
 cuculine
 contrabassoonist
+comparability
 champine
 champing
 cryohydric
@@ -30684,7 +30685,6 @@ class
 colorer
 cudgel
 communalizing
-comparability
 cudgeled
 cudgeler
 calymene
