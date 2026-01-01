@@ -4856,7 +4856,6 @@ frondose
 fickleness
 flatuosity
 fooless
-flagstick
 flagworm
 feramorz
 firelike
@@ -7803,6 +7802,7 @@ forsaker
 foremean
 fasciately
 followingly
+flagstick
 flavour
 foremen
 ferroprussic
