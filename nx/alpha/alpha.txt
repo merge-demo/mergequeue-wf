@@ -5579,6 +5579,7 @@ accusatrixes
 aftertask
 achromatium
 afterthought
+almes
 afterthoughts
 afterthrift
 apastron
@@ -8639,7 +8640,6 @@ allelic
 allelism
 axonemal
 argyrite
-almes
 alternationist
 allelomorphic
 allelotropy
