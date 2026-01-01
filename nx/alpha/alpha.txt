@@ -6942,7 +6942,6 @@ ayuntamiento
 assentatious
 assaulters
 ayurveda
-aptitudes
 aivers
 adenodiastasis
 aiwan
@@ -12480,6 +12479,7 @@ anemoscope
 aurorian
 automorphism
 axolysis
+aptitudes
 abhors
 anticonformities
 attask
