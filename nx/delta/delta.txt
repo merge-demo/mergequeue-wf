@@ -8747,7 +8747,6 @@ diatonic
 doodle
 dungannonite
 diatreme
-diatribe
 decorably
 doge
 dulses
@@ -12643,6 +12642,7 @@ definitise
 dihelium
 dephase
 dae
+diatribe
 disinvagination
 deepfroze
 directs
