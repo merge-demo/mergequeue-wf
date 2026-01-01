@@ -6743,7 +6743,6 @@ espaliers
 emunge
 enuresis
 entertake
-exstimulate
 exhumed
 exstill
 entete
@@ -13836,6 +13835,7 @@ extractability
 eluated
 elegits
 enmities
+exstimulate
 eyestrings
 exchanges
 extractant
