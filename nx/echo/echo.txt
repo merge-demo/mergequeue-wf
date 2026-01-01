@@ -4913,6 +4913,7 @@ ensured
 entablements
 excisions
 ef
+enthuse
 encumbrance
 extrabureau
 english
@@ -8117,7 +8118,6 @@ epiploce
 effluvium
 epiploitis
 embryoscopic
-enthuse
 epiprecoracoid
 extrude
 elegant
