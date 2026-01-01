@@ -1313,6 +1313,7 @@ gossipdom
 grimier
 gested
 gheleem
+gemelled
 genies
 gieing
 gazaboes
@@ -6074,7 +6075,6 @@ gairfowl
 gnawers
 grane
 gnathopodite
-gemelled
 gneissic
 gluon
 gasifying
