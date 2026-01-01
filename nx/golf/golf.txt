@@ -2319,6 +2319,7 @@ graviton
 goldthread
 gravamina
 gamine
+geomaly
 gelatinizer
 gradates
 giornatate
@@ -9095,7 +9096,6 @@ grimalkin
 genitive
 gentianwort
 ghast
-geomaly
 grimme
 gipsyhood
 grillroom
