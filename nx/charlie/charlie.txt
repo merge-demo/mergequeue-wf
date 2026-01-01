@@ -882,6 +882,7 @@ cays
 caisse
 caissons
 caite
+collects
 colligance
 caitif
 charque
@@ -13012,7 +13013,6 @@ cyanhydrin
 chelerythrine
 citrean
 cyanid
-collects
 circumhorizontal
 catamenial
 continentality
