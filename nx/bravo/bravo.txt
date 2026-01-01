@@ -4548,7 +4548,6 @@ bodhisattva
 bestrided
 becursed
 babesia
-becurses
 benumbment
 becurst
 basommatophorous
@@ -12438,6 +12437,7 @@ buckram
 befingering
 blindless
 bonbonnieres
+becurses
 bridecake
 basally
 bauleah
