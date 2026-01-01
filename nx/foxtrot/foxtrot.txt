@@ -4942,7 +4942,6 @@ frenetic
 fchar
 forewrought
 fluidised
-foining
 fluoresced
 forsooth
 foppishly
@@ -7031,6 +7030,7 @@ festination
 fluidism
 focalising
 functor
+foining
 frittered
 forestress
 frescoist
