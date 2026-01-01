@@ -13861,6 +13861,7 @@ decolorimeter
 distasteful
 disappointment
 dirties
+diosmotic
 defoliated
 dauerschlaf
 dyak
@@ -16290,7 +16291,6 @@ disagreeable
 decidability
 distinctio
 douche
-diosmotic
 discredits
 dispeace
 downriver
