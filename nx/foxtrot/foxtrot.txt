@@ -2350,7 +2350,6 @@ feres
 floatstone
 fegs
 frolicky
-favoritism
 fossettes
 frapped
 falconiformes
@@ -4635,6 +4634,7 @@ fally
 flavory
 fullams
 fitout
+favoritism
 fitchered
 foolfish
 fitters
