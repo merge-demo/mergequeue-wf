@@ -5306,7 +5306,6 @@ emeriti
 epicoracoidal
 eustachium
 externes
-erectors
 ernest
 estocs
 ergodicity
@@ -12670,6 +12669,7 @@ ephemerous
 etruscan
 euclase
 episcopicide
+erectors
 essays
 eunicidae
 errantries
