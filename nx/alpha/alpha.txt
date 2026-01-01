@@ -11646,7 +11646,6 @@ artal
 apodidae
 anaesthetized
 anaesthetizer
-arthralgic
 adsum
 arbalester
 agalwoods
@@ -18088,6 +18087,7 @@ abstricts
 apteryla
 alternance
 agentship
+arthralgic
 aptest
 anticonvulsive
 aureity
