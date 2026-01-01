@@ -3228,6 +3228,7 @@ flounce
 fourcher
 friers
 frostwort
+fearnought
 flexionless
 fremt
 fango
@@ -11450,7 +11451,6 @@ fathoms
 fusible
 fistinut
 fideles
-fearnought
 flic
 frayedly
 furcule
