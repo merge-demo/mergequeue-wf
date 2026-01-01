@@ -3398,7 +3398,6 @@ bassie
 bivalents
 betsey
 bassinet
-boondoggled
 blastodermatic
 bassoonists
 bioelectrogenesis
@@ -6716,6 +6715,7 @@ bucketfull
 buffoons
 bionic
 bechalks
+boondoggled
 beshrouding
 brakesmen
 bushtit
