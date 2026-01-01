@@ -340,7 +340,6 @@ auletris
 acetonemia
 aftwards
 abends
-anacephalaeosis
 aberdeen
 ambos
 allodification
@@ -15193,6 +15192,7 @@ antifeudalization
 ankyroid
 affiancer
 androtauric
+anacephalaeosis
 atheology
 antifibrinolysin
 antifibrinolysis
