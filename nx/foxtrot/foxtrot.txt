@@ -2745,7 +2745,6 @@ festered
 faliscan
 frizer
 friedelite
-foreparts
 fights
 festerment
 fossilising
@@ -6840,6 +6839,7 @@ foretold
 fructifier
 freestyle
 foliaged
+foreparts
 firetower
 faulter
 fussify
