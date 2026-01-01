@@ -4493,7 +4493,6 @@ bluenose
 becroak
 bedead
 bureaucratism
-becrowd
 becrowded
 burstwort
 brickset
@@ -13683,6 +13682,7 @@ bounds
 beggaress
 buttressless
 backspliced
+becrowd
 bespecklement
 blights
 brochan
