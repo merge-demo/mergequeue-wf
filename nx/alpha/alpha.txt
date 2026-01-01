@@ -1064,6 +1064,7 @@ askew
 abundance
 accurtation
 ammoniojarosite
+arabinosic
 apparelled
 abundancy
 aluminosis
@@ -18275,7 +18276,6 @@ acquisitum
 awshar
 arability
 arabinic
-arabinosic
 arabinoside
 alibility
 antroversion
