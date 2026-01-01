@@ -340,6 +340,7 @@ eulogia
 expedient
 ethynyls
 ebon
+entomol
 esotericism
 extrema
 ergotine
@@ -6867,7 +6868,6 @@ entomical
 empoisoning
 electroimpulse
 egremoigne
-entomol
 eyepopper
 eupolyzoan
 ensky

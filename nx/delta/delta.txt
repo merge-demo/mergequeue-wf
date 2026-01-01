@@ -9014,6 +9014,7 @@ discreteness
 diplomatist
 dictamina
 drinkproof
+dendroidal
 dictaphones
 dictating
 duros
@@ -15046,7 +15047,6 @@ darter
 doggedness
 demonographer
 dysmetria
-dendroidal
 defeatism
 disarrangements
 dolcissimo
