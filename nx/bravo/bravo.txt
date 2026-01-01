@@ -13794,6 +13794,7 @@ bromocyanogen
 besmudging
 boutonnieres
 boutons
+balister
 barrelful
 bouw
 butle
@@ -14706,7 +14707,6 @@ brasiletto
 brasilin
 bibliomancy
 balustrade
-balister
 balletically
 bioscientist
 brotheler

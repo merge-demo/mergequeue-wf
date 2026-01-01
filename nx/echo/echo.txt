@@ -5827,6 +5827,7 @@ epopees
 explanation
 engouement
 embolization
+eburnated
 engoument
 entification
 evade
@@ -13907,7 +13908,6 @@ exinanite
 entortill
 extorter
 ectoderm
-eburnated
 extramoral
 electee
 empathy
