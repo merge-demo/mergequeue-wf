@@ -5854,7 +5854,6 @@ belswagger
 bachel
 baronship
 bellmanship
-briners
 braggingly
 buttstock
 batholith
@@ -8845,6 +8844,7 @@ bowering
 bulltoad
 brilliants
 binny
+briners
 boussingaultia
 bumpered
 beanbags
