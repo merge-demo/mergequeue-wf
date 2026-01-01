@@ -8247,7 +8247,6 @@ elydoric
 exaltee
 epistases
 epistasies
-energy
 enhancers
 emplaning
 epibenthos
@@ -12134,6 +12133,7 @@ epural
 excursiveness
 enterate
 excurvated
+energy
 extrados
 emphysematous
 esclavage
