@@ -8293,7 +8293,6 @@ endplay
 epitheliomatous
 ejection
 expensively
-ectoplasmic
 ellagate
 exemplification
 enervate
@@ -8664,6 +8663,7 @@ extractor
 enervous
 exceptionable
 expels
+ectoplasmic
 emphyteuta
 elutriating
 emergently
