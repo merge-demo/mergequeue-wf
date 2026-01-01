@@ -3829,7 +3829,6 @@ cardiotrophia
 cysticarpic
 carbohydraturia
 chalkier
-chorioid
 casually
 carbohydrogen
 carboy
@@ -30785,6 +30784,7 @@ cytoparaplastin
 classicalism
 culicifugal
 culicifuge
+chorioid
 culicinae
 confiteor
 canisiana
