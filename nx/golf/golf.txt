@@ -7048,6 +7048,7 @@ grindle
 gomart
 gigameter
 gaudish
+guffer
 gowds
 gooseberry
 gimbaled
@@ -10129,7 +10130,6 @@ grainery
 galavanting
 glia
 gipsyhead
-guffer
 glaziers
 guggle
 greaselessness
