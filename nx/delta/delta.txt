@@ -5188,7 +5188,6 @@ denizenation
 diquats
 drumbler
 dis
-dellenite
 derogations
 demicoronal
 dryopes
@@ -6436,6 +6435,7 @@ desaccharification
 defalcation
 decarburisation
 dozened
+dellenite
 disarranging
 desacralization
 drizzled
