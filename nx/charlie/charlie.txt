@@ -10911,6 +10911,7 @@ chippings
 castaneous
 clerk
 chipproof
+cannonball
 crucifying
 camouflagers
 clocher
@@ -24417,7 +24418,6 @@ colk
 cerebrotonic
 coonily
 countersigned
-cannonball
 cooniness
 challenge
 convincedness
