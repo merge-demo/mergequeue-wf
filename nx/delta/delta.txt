@@ -5687,6 +5687,7 @@ degassers
 disposit
 deduit
 depeopling
+disordered
 deplenish
 dialup
 depleteable
@@ -16994,7 +16995,6 @@ dreynt
 distendedly
 draconis
 duplicature
-disordered
 damkjernite
 demipesade
 devirilize
