@@ -6325,7 +6325,6 @@ equijacent
 euxenites
 embowed
 euclidean
-ens
 emmenagogue
 elenchtic
 ensanguine
@@ -12659,6 +12658,7 @@ elzevir
 easterner
 espied
 extrapolation
+ens
 exomphalos
 electrophonic
 erotogenic
