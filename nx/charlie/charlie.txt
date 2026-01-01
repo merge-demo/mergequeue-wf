@@ -1970,7 +1970,6 @@ castalia
 camembert
 conglobated
 coachwoman
-curdling
 colletic
 camenes
 coveters
@@ -28309,6 +28308,7 @@ craven
 checkouts
 cudbears
 celebratory
+curdling
 churchmen
 clans
 coheretic
