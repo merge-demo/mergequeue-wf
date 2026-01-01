@@ -6291,7 +6291,6 @@ bentonite
 bents
 benu
 benumbed
-benumbingly
 benumbs
 ballplayers
 besodden
@@ -15512,6 +15511,7 @@ bifollicular
 banshees
 breakdowns
 brimmering
+benumbingly
 brims
 brindisi
 barbitalism
