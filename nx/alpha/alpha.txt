@@ -6724,6 +6724,7 @@ ainus
 anterodorsal
 antemetic
 ardour
+atole
 agribusiness
 antiglare
 anaphorical
@@ -15212,7 +15213,6 @@ accordantly
 antiflux
 anticlergy
 antiforeignism
-atole
 afrown
 autometamorphosis
 antiformin
