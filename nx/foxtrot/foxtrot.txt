@@ -3952,6 +3952,7 @@ focalise
 forecastors
 floeberg
 fingerer
+finagler
 flaunch
 fingerers
 feed
@@ -6263,7 +6264,6 @@ fiji
 forerunnership
 factotums
 fouettee
-finagler
 felloes
 farmtown
 fluidic
