@@ -7786,7 +7786,6 @@ anglicism
 aldrovanda
 achromaturia
 adequative
-alphabetically
 alchemically
 aflow
 auriculoid
@@ -13737,6 +13736,7 @@ atazir
 anoplonemertini
 aphelenchus
 anoplotherioid
+alphabetically
 amid
 arteriopalmus
 anoplura
