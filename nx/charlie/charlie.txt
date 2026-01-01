@@ -7567,7 +7567,6 @@ ceratostomataceae
 cytococcus
 cimicidae
 cheliceral
-ceratotheca
 cypridinidae
 clergyman
 coolhouse
@@ -18666,6 +18665,7 @@ coining
 curialism
 cumulophyric
 coinmate
+ceratotheca
 climatotherapeutics
 coinmates
 coins
