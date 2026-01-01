@@ -7460,6 +7460,7 @@ archtreasurer
 albumens
 albumimeter
 aftership
+anchoritic
 appraisers
 ask
 anthranilate
@@ -19224,7 +19225,6 @@ abenteric
 ascogonium
 anisopetalous
 acervative
-anchoritic
 accidency
 arder
 angiofibroma
