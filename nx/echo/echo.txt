@@ -3359,7 +3359,6 @@ emancipated
 euphemizing
 espalier
 enshrouds
-ellipsometer
 edison
 euharmonic
 endamages
@@ -8712,6 +8711,7 @@ endophyllous
 erotical
 epilepsy
 ejecta
+ellipsometer
 equipotential
 externalize
 exconjugant
