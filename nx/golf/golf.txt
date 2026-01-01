@@ -4588,6 +4588,7 @@ girellidae
 gurts
 greenhorns
 gravicembalo
+greenness
 gutturalized
 gilim
 graphometry
@@ -5126,7 +5127,6 @@ goldeneye
 greesagh
 gte
 ginnel
-greenness
 glycocholic
 gasless
 gallantries
