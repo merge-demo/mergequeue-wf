@@ -3344,6 +3344,7 @@ flotsam
 foreheaded
 forjaskit
 fiedlerite
+fortifications
 fifth
 flooding
 falconer
@@ -9630,7 +9631,6 @@ fichus
 friableness
 fusteric
 frizzing
-fortifications
 fishpound
 fivestones
 ferrotyper
