@@ -5581,6 +5581,7 @@ determiners
 discussive
 dictyosiphonaceae
 dedecoration
+degringolade
 disawa
 detering
 diamine
@@ -7892,7 +7893,6 @@ desperadoes
 defrock
 droughty
 diminuting
-degringolade
 dewlapped
 deuniting
 dewless
