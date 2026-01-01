@@ -4598,7 +4598,6 @@ densimetry
 denominates
 denarius
 deashing
-diswench
 demiscible
 dicebox
 denticulate
@@ -14415,6 +14414,7 @@ demeaned
 doled
 diva
 divagated
+diswench
 downward
 divagates
 diphthongal
