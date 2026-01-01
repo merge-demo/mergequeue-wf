@@ -434,7 +434,6 @@ dogbanes
 debates
 defensative
 disseats
-daysides
 deprevation
 daysmen
 dayspring
@@ -5907,6 +5906,7 @@ demonstration
 dispossessing
 deep
 dowy
+daysides
 draggily
 dillis
 disincrust
