@@ -11619,7 +11619,6 @@ cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
 carburisation
-cholecystic
 cholecystis
 complimenting
 cholecystitis
@@ -13266,6 +13265,7 @@ castoridae
 crookbilled
 cannonproof
 cyclic
+cholecystic
 cyclical
 cyclizing
 counselor
