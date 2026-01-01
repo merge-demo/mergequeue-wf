@@ -4685,7 +4685,6 @@ gyrovagues
 glycoluril
 groundnut
 gloy
-gurjun
 girshes
 gipsyish
 gingkoes
@@ -5892,6 +5891,7 @@ gedds
 glances
 glucoside
 goshawk
+gurjun
 graptolitic
 grandparents
 grantha
