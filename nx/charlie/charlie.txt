@@ -1507,6 +1507,7 @@ conclusions
 crum
 citigrade
 callat
+chiripa
 conchologist
 callback
 closish
@@ -8037,7 +8038,6 @@ crannog
 chabouk
 crankshaft
 chabuk
-chiripa
 chabuks
 chac
 chacate
