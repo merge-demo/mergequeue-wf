@@ -18775,7 +18775,6 @@ albigenses
 amative
 archelenis
 alisier
-archelogy
 archelon
 ally
 archemastry
@@ -24264,6 +24263,7 @@ automobilists
 adhesives
 ascendent
 algerians
+archelogy
 airwave
 automotive
 anthropophagus
