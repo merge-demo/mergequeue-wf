@@ -11118,6 +11118,7 @@ bathyal
 boort
 blodite
 besmeared
+boites
 breakfasts
 barrooms
 buoyance
@@ -12110,7 +12111,6 @@ backplate
 brinkmanship
 boatmaster
 bradycauma
-boites
 bifidity
 baratte
 baltetei
