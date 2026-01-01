@@ -2421,7 +2421,6 @@ bromoiodide
 besmirch
 brotherhood
 bards
-bardship
 backaching
 biocoenoses
 butter
@@ -13044,6 +13043,7 @@ bedamn
 boran
 boranes
 baccillla
+bardship
 bevomit
 borani
 borasca
