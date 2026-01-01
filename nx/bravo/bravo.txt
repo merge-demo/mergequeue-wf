@@ -8239,6 +8239,7 @@ bb
 bobstay
 balagan
 bullfist
+brooms
 brothership
 bespurt
 butment
@@ -10960,7 +10961,6 @@ beaneries
 brachystomata
 beckets
 bartonia
-brooms
 beadroll
 blinker
 balancewise
