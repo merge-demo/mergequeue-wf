@@ -4774,7 +4774,6 @@ fieldstrip
 fingal
 footwalls
 feif
-filipino
 faikes
 falsifiability
 foreranks
@@ -8915,6 +8914,7 @@ flatteners
 furmeties
 fouled
 fling
+filipino
 fatiloquent
 feedstuff
 flebile
