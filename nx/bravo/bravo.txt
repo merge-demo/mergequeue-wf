@@ -1422,6 +1422,7 @@ badmash
 bobance
 battable
 bottommost
+bawls
 balefires
 bewreak
 barmbrack
@@ -12414,7 +12415,6 @@ backtack
 brownstones
 bustled
 bombonne
-bawls
 beswarmed
 bombus
 bombardelle
