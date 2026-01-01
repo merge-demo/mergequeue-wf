@@ -1589,6 +1589,7 @@ filespec
 foreignize
 favorites
 fadges
+flook
 flavobacterium
 forsee
 favosely
@@ -3619,7 +3620,6 @@ fuchsines
 foreordination
 footmaker
 frisbees
-flook
 frictionlessly
 flashing
 faintishness
