@@ -4260,7 +4260,6 @@ gynecological
 gramineousness
 greenwithe
 geoform
-gymnotid
 gunfight
 goon
 galilean
@@ -8086,6 +8085,7 @@ gravat
 gunzian
 gearman
 glassier
+gymnotid
 gratae
 gypsydoms
 guttulae
