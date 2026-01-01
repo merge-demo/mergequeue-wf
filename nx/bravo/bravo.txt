@@ -1059,7 +1059,6 @@ bolete
 babyhouse
 becost
 blousier
-buzzards
 burghal
 bailors
 birdlimed
@@ -15576,6 +15575,7 @@ brios
 babirusa
 broomstick
 boxes
+buzzards
 bdelloida
 braggadocio
 bryozoon
