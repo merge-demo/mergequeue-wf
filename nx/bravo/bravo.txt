@@ -13546,6 +13546,7 @@ boneyards
 betrayer
 botulisms
 brief
+brachypterous
 brodequin
 bijouterie
 briquette
@@ -15401,7 +15402,6 @@ boxbush
 bapistery
 bevomited
 bother
-brachypterous
 brigandine
 brigantia
 brigatry
