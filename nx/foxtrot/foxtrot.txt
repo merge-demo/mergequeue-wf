@@ -4275,7 +4275,6 @@ febrifuges
 filacer
 facsimilist
 fibroma
-fiancee
 fending
 follicule
 fibster
@@ -11523,6 +11522,7 @@ furtiveness
 frena
 fuselages
 fuselike
+fiancee
 forecaddie
 fermentations
 faradiser
