@@ -994,7 +994,6 @@ bewitch
 bipalium
 blinger
 baycuru
-baidarka
 baidarkas
 binders
 baiera
@@ -6898,6 +6897,7 @@ burglariously
 bajan
 burgundian
 basically
+baidarka
 bepray
 bedrugging
 bitumed
