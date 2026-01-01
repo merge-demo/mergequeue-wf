@@ -1629,6 +1629,7 @@ frankincense
 furores
 fresher
 faxes
+fractions
 featishly
 fazes
 fiard
@@ -9184,7 +9185,6 @@ fonticulus
 flapjacks
 fractionization
 fingerable
-fractions
 forncast
 foolheaded
 fishberry
