@@ -4797,6 +4797,7 @@ dermatosis
 dustermen
 dilleniad
 disposedly
+diacritic
 demonetizing
 disembogue
 depthen
@@ -18501,7 +18502,6 @@ duffer
 durances
 downcast
 duraspinalis
-diacritic
 duration
 durations
 durbachite
