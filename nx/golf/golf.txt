@@ -4458,6 +4458,7 @@ gommelin
 grandsire
 generics
 giocoso
+gladify
 gip
 gleba
 gladiatorship
@@ -5070,7 +5071,6 @@ gustful
 gularis
 garland
 gramaryes
-gladify
 ganged
 gret
 gadzooks
