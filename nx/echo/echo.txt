@@ -778,6 +778,7 @@ ecphore
 emotes
 echinal
 euomphalid
+effascinate
 ephedrins
 egger
 ecrase
@@ -7098,7 +7099,6 @@ egotisms
 ectocinereal
 epaulette
 epapophysial
-effascinate
 eternalism
 evejar
 estivage
