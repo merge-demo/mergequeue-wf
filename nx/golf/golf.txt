@@ -1320,7 +1320,6 @@ grimier
 gested
 gheleem
 gemelled
-genies
 gieing
 gazaboes
 garroter
@@ -4027,6 +4026,7 @@ gansey
 gubbings
 gellert
 grounds
+genies
 gilds
 gildhall
 glandes
