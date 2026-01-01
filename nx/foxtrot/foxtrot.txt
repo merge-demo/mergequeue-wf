@@ -5171,6 +5171,7 @@ faceting
 flaccidness
 flatted
 flatteringness
+flowerer
 foreshadowing
 fetalization
 funny
@@ -9671,7 +9672,6 @@ finitesimal
 flatfootedness
 freen
 featherfoil
-flowerer
 forwardly
 flotations
 freers
