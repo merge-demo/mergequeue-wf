@@ -2372,7 +2372,6 @@ frondage
 feriation
 furrure
 flexors
-fricandeau
 folksiness
 foredating
 fromfile
@@ -11230,6 +11229,7 @@ funiform
 funje
 fount
 fleeing
+fricandeau
 fustians
 flashcubes
 financiered
