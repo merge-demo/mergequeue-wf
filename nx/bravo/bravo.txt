@@ -2203,7 +2203,6 @@ baramin
 bertat
 bromocyanid
 backflash
-briscola
 boreades
 bararite
 breakerman
@@ -2884,6 +2883,7 @@ barrage
 breviloquent
 barnmen
 brushland
+briscola
 barraging
 battologist
 bailer
