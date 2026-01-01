@@ -11465,7 +11465,6 @@ elided
 evetide
 extirpating
 encipherment
-ethanim
 elucidation
 engraving
 ephemera
@@ -11699,6 +11698,7 @@ endoubt
 eccentricity
 epididymectomy
 emundation
+ethanim
 exaggeratingly
 exoascus
 extralinguistically
