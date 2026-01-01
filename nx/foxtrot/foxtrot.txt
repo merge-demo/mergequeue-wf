@@ -5490,6 +5490,7 @@ flora
 funniness
 forkers
 foreword
+fudder
 frequentness
 flensed
 forfear
@@ -6235,7 +6236,6 @@ fairest
 fleaseed
 foragement
 frumpishness
-fudder
 fluctuating
 fucused
 fluctuational
