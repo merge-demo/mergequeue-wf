@@ -3013,7 +3013,6 @@ foreman
 floodage
 flogster
 fioriture
-fairyology
 firemanship
 feoffers
 footwears
@@ -8653,6 +8652,7 @@ fringilloid
 forsakenness
 fermentarian
 forsythia
+fairyology
 findon
 forlorner
 flamberge
