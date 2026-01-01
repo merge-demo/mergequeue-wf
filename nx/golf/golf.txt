@@ -6474,6 +6474,7 @@ gidgee
 guldens
 grogshop
 goldentop
+glaucophanization
 glochideous
 grapewise
 governor
@@ -9616,7 +9617,6 @@ gossipmonger
 gr
 ghostwriting
 guzerat
-glaucophanization
 gallize
 goniodorididae
 gobinist
