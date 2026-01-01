@@ -13831,7 +13831,6 @@ adjuncts
 aminobenzine
 agapemonite
 antiemperor
-absonant
 acronyctous
 ansar
 ansarie
@@ -21426,6 +21425,7 @@ animando
 aspartame
 atimy
 aspect
+absonant
 aspectable
 aspectant
 adenophora
