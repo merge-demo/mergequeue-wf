@@ -3882,6 +3882,7 @@ beforesaid
 basifacial
 bawneen
 bawra
+belugite
 barklyite
 bawsint
 brutalness
@@ -14587,7 +14588,6 @@ branchiopoda
 branner
 baktun
 bonding
-belugite
 bedumbed
 biosociology
 branchiostomid
