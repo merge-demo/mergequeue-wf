@@ -7876,7 +7876,6 @@ extincts
 executioner
 epihyal
 exogonium
-exanthema
 entogastric
 egis
 excitor
@@ -14053,6 +14052,7 @@ emes
 enterochromaffin
 extravagance
 epauleted
+exanthema
 extravagantly
 enchantingly
 euemerism
