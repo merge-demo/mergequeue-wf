@@ -2561,6 +2561,7 @@ galenites
 grosses
 gaiterless
 giveaways
+gloveless
 generalized
 graywall
 guv
@@ -3676,7 +3677,6 @@ gynandria
 grisaille
 georgie
 galvanize
-gloveless
 gpm
 goldbug
 gangwa
