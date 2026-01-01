@@ -4646,6 +4646,7 @@ gorillaship
 glamorized
 gyrostabilized
 goatbush
+gurk
 granulitic
 gunlocks
 gaudy
@@ -10679,7 +10680,6 @@ grayfish
 googol
 geratologic
 grippotoxin
-gurk
 gellants
 groundbird
 gurnet
