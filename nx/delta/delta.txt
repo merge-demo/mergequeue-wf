@@ -7877,6 +7877,7 @@ dewdamp
 dapson
 dewdrop
 defamatory
+daggerboard
 dewdropper
 dogteeth
 drillet
@@ -9759,7 +9760,6 @@ dilemite
 dilemmatic
 diplococci
 drizzlingly
-daggerboard
 disulfoxide
 domino
 dclass

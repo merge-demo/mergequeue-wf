@@ -20763,7 +20763,6 @@ amphicrania
 austenitic
 artilleryship
 autotherapy
-artillerist
 aetosaur
 aguishness
 anthologizes
@@ -22643,6 +22642,7 @@ athecae
 alarge
 appender
 acrodus
+artillerist
 ablepharus
 atheistically
 antisyndicalism
