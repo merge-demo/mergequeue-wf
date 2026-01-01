@@ -4154,7 +4154,6 @@ cardinalfishes
 casuist
 capitate
 chughole
-cardinalis
 closehearted
 challa
 copen
@@ -16223,6 +16222,7 @@ clinchingly
 capkin
 chargeability
 cathedratical
+cardinalis
 cline
 clines
 caudexes

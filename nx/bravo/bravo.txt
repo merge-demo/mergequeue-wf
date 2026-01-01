@@ -5649,7 +5649,6 @@ bocher
 busks
 besped
 beldams
-borage
 bacchar
 bilify
 beleaguering
@@ -16409,6 +16408,7 @@ borrowed
 boryl
 branchipus
 biosynthetic
+borage
 brushers
 burrish
 bewailable
