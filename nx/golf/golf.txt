@@ -5760,6 +5760,7 @@ glossohyal
 grayed
 gobos
 glossolalia
+gustoes
 gabbroid
 glossolysis
 goldweed
@@ -8514,7 +8515,6 @@ glands
 golfing
 graveclod
 genl
-gustoes
 gibaro
 graffias
 garum
