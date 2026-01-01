@@ -13256,6 +13256,7 @@ aortopathy
 anisoiconia
 amphodelite
 alcoholometry
+annihilator
 anonyms
 anorexia
 archiater
@@ -24572,7 +24573,6 @@ argentarius
 anachorism
 auxotonic
 arcual
-annihilator
 auxotox
 auxotroph
 auxotrophy
