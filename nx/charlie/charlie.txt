@@ -12399,7 +12399,6 @@ chromates
 cantred
 chrysomonadine
 chromatically
-chromatician
 chromaticness
 chromatid
 conuses
@@ -19325,6 +19324,7 @@ comminating
 courted
 commentate
 colonnade
+chromatician
 coughwort
 colonnaded
 chat
