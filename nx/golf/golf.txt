@@ -2944,7 +2944,6 @@ glaury
 gusts
 gingivalgia
 gaddang
-gonangium
 guilt
 gurkha
 gollop
@@ -7371,6 +7370,7 @@ gunation
 globe
 galactin
 geologist
+gonangium
 geldable
 gymnospermic
 gaggler
