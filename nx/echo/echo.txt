@@ -5535,7 +5535,6 @@ eyestones
 enfeebling
 eucarida
 epigrammatised
-edessan
 enfeeblish
 emaciation
 effectful
@@ -7859,6 +7858,7 @@ endocrinotherapy
 enterolith
 elbowed
 elbower
+edessan
 eroticomaniac
 endaortitis
 endonuclease
