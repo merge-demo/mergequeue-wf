@@ -5279,7 +5279,6 @@ colemouse
 cassabas
 cassabully
 customs
-cultist
 carthorse
 custodiam
 crwth
@@ -23626,6 +23625,7 @@ capitular
 cubomancy
 comforts
 contorts
+cultist
 commos
 contour
 clarichord
