@@ -2812,7 +2812,6 @@ dossers
 declarator
 diereses
 decried
-desistive
 disulphonate
 decries
 decrying
@@ -9325,6 +9324,7 @@ differentiae
 dazzling
 definientia
 deliquescing
+desistive
 dealings
 darkle
 dismembering
