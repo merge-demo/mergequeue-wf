@@ -717,7 +717,6 @@ gooranut
 germanistic
 gawn
 gladdest
-globefish
 grissen
 graded
 gnomologist
@@ -3345,6 +3344,7 @@ gomorrean
 gids
 gaging
 galvanic
+globefish
 gildhalls
 gonydial
 globed
