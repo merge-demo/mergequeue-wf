@@ -1414,7 +1414,6 @@ foretimes
 fountainlet
 feministic
 focometry
-fallibly
 firewood
 futchell
 ferreted
@@ -10505,6 +10504,7 @@ frostily
 fluorate
 forwearying
 fatness
+fallibly
 frutescent
 finises
 fervencies
