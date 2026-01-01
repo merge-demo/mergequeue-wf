@@ -2418,6 +2418,7 @@ bardings
 busyness
 becalms
 banditry
+botflies
 bardlike
 barkiest
 bazar
@@ -7581,7 +7582,6 @@ bewary
 bewaste
 beweary
 besottedness
-botflies
 beefily
 brainworker
 banagos
