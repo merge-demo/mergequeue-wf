@@ -1562,7 +1562,6 @@ blastiest
 brevetcy
 blowtube
 ballgame
-ballhooter
 barbarical
 backslash
 balli
@@ -13980,6 +13979,7 @@ blackboys
 bleed
 bullring
 boxhauled
+ballhooter
 brierberry
 boxhauling
 boxhauls
