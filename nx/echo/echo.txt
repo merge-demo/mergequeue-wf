@@ -2677,7 +2677,6 @@ enchondromata
 electroresection
 expansion
 esoterica
-eiry
 exemplarity
 efflorescent
 ethnocentrism
@@ -7626,6 +7625,7 @@ epicoelous
 epicondyle
 excysted
 epicondylian
+eiry
 exspuition
 engraulidae
 exintine
