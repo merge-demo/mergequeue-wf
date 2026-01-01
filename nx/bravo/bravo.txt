@@ -4808,7 +4808,6 @@ bandicoots
 bedrugged
 bedrugs
 brakesman
-befancy
 bits
 bedside
 busyhead
@@ -15691,6 +15690,7 @@ broadcaster
 bromeliaceous
 beakerful
 brutage
+befancy
 bayonet
 burningly
 bacteriosis
