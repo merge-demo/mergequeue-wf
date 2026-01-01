@@ -5549,6 +5549,7 @@ etherlike
 enfeoffing
 episcopant
 exestuate
+erudit
 exhaustedly
 ethions
 enfettering
@@ -8161,7 +8162,6 @@ epithermal
 elleck
 eliminative
 elmy
-erudit
 echeveria
 episcopate
 expulsions
