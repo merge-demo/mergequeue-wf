@@ -1006,7 +1006,6 @@ dark
 darked
 darkeys
 daneball
-darkens
 disruptions
 deformeter
 daffling
@@ -9912,6 +9911,7 @@ dimyaria
 downwardness
 dimidiate
 dispart
+darkens
 deodorizers
 dissonancy
 dimidiation
