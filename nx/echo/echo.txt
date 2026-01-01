@@ -474,6 +474,7 @@ explicated
 engager
 escapements
 erf
+exsectile
 eveners
 enanthesis
 evector
@@ -13531,7 +13532,6 @@ excitements
 electrocautery
 enlightening
 earthquakes
-exsectile
 experimentor
 exuviae
 erato
