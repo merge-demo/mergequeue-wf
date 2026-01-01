@@ -7682,7 +7682,6 @@ coyotes
 calathisci
 calcarated
 cerebrospinal
-chaetotaxy
 cevadilline
 cerebrospinant
 cerebrosuria
@@ -28864,6 +28863,7 @@ creviced
 cussers
 crevices
 combo
+chaetotaxy
 coventries
 coadunated
 cyanophose
