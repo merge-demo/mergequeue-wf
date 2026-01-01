@@ -46,7 +46,6 @@ cluck
 caballero
 caballo
 caballos
-cardiae
 carbodiimide
 catalogize
 centillions
@@ -8678,6 +8677,7 @@ crumber
 corresponder
 coparcener
 celosias
+cardiae
 channelized
 cannaceae
 commiseration
