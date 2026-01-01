@@ -10934,7 +10934,6 @@ fub
 foehn
 formamidine
 flexure
-fulminatory
 fetal
 floorage
 fack
@@ -11151,6 +11150,7 @@ furze
 flocculence
 fernlike
 foederal
+fulminatory
 fruitiest
 falseface
 frumple
