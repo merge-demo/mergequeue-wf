@@ -732,6 +732,7 @@ cafila
 cafiz
 cabdriver
 caftans
+clowder
 callant
 cag
 conchology
@@ -16843,7 +16844,6 @@ coauditor
 corporealist
 cuneator
 comarca
-clowder
 comfortroot
 clowders
 clower
