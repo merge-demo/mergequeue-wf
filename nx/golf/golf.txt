@@ -2120,6 +2120,7 @@ galliot
 gormaw
 guarabu
 gazebo
+grovelling
 gazeboes
 gossamers
 guestship
@@ -4231,7 +4232,6 @@ geysers
 grimed
 gaillard
 gladiators
-grovelling
 gumptionless
 gloats
 gasteralgia
