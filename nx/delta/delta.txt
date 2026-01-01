@@ -373,7 +373,6 @@ drinkers
 diluents
 daimiote
 defension
-deployable
 disembargoing
 dimmet
 daimons
@@ -12704,6 +12703,7 @@ droves
 duplicability
 dinitrobenzene
 dissolute
+deployable
 disleafed
 dermatophone
 diffrangibility
