@@ -6977,6 +6977,7 @@ cementification
 cyborgs
 cementin
 catapuce
+chieftainries
 carane
 cementite
 cannery
@@ -10416,7 +10417,6 @@ chieftain
 chieftainess
 chieftainry
 complexify
-chieftainries
 concludendi
 chirring
 countertendencies
