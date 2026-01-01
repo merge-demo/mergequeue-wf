@@ -9766,7 +9766,6 @@ bistate
 biosyntheses
 biochemist
 brainwashed
-bacilliparous
 brahmsite
 bistephanic
 birma
@@ -11379,6 +11378,7 @@ bluebeard
 bure
 buff
 buntings
+bacilliparous
 bobooti
 baa
 bigwigs
