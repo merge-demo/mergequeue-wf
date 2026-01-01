@@ -4248,7 +4248,6 @@ epicenism
 empurpled
 executiveness
 equinox
-excitedness
 endungeon
 enterochlorophyll
 eosinophilous
@@ -7946,6 +7945,7 @@ ensilation
 epimanikion
 epimeres
 epimerism
+excitedness
 enterolithiasis
 evangels
 epitomate
