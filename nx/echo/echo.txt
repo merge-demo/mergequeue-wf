@@ -6590,7 +6590,6 @@ episarkine
 estonia
 erythorbate
 ethnohistorian
-epipolism
 enteradenological
 enteral
 ensuant
@@ -11823,6 +11822,7 @@ exists
 exauthorizeexc
 eplot
 externization
+epipolism
 enviably
 electromagnetically
 equibalance
