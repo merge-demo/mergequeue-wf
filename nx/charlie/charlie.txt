@@ -10807,6 +10807,7 @@ chining
 clava
 chinkapin
 craggier
+carburator
 cervine
 callitriche
 consequents
@@ -12338,7 +12339,6 @@ cleanhearted
 christening
 christens
 christhood
-carburator
 cryptography
 classically
 carpetbagism
