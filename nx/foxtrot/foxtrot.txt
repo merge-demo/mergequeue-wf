@@ -3673,7 +3673,6 @@ fibrilated
 fidos
 footman
 furbishing
-flourishes
 flaying
 furnacer
 freshener
@@ -6793,6 +6792,7 @@ foldaway
 feretory
 ferryman
 farfal
+flourishes
 frowstiness
 forethink
 foldcourse
