@@ -7868,7 +7868,6 @@ bobsledders
 bels
 benamed
 biblicality
-biblicism
 biblicopsychological
 biblike
 berinse
@@ -12844,6 +12843,7 @@ bandana
 boozehound
 bahamas
 boominess
+biblicism
 becasse
 brunching
 boomingly
