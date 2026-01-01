@@ -1305,7 +1305,6 @@ acatholic
 attemptless
 aromatic
 aggregant
-acaudate
 aluminaphone
 antarchism
 alphabetic
@@ -9243,6 +9242,7 @@ alongships
 alongshore
 archbishops
 alemana
+acaudate
 alongshoreman
 aramid
 autonetics
