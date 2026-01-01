@@ -6442,7 +6442,6 @@ cribbers
 cilantro
 cautery
 cauteries
-cauterisation
 couche
 cauterise
 collision
@@ -30851,6 +30850,7 @@ corneocalcareous
 cranioclasm
 copaline
 corduroyed
+cauterisation
 culot
 consentful
 corbeils
