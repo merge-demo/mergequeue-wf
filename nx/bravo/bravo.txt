@@ -355,6 +355,7 @@ backgame
 backgammon
 board
 barwares
+bowsery
 breaststroke
 background
 backhand
@@ -16250,7 +16251,6 @@ blossoms
 brander
 becrimed
 beagle
-bowsery
 browless
 baritones
 botonnee
