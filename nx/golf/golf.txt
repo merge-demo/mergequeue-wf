@@ -1250,7 +1250,6 @@ gaia
 glenwood
 granage
 gardens
-ged
 gavall
 goethites
 gratten
@@ -10730,6 +10729,7 @@ groupie
 gustfully
 gypsyisms
 gnomonological
+ged
 galloot
 garnish
 galleried
