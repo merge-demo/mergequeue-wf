@@ -10467,7 +10467,6 @@ alison
 amidoplastid
 amidoxyl
 australopithecinae
-achromatopia
 anagrammatize
 amids
 apolarity
@@ -18147,6 +18146,7 @@ anemonol
 abdicated
 acapnia
 ableptically
+achromatopia
 allegator
 aerogenic
 andira
