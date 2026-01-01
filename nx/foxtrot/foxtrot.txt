@@ -1473,6 +1473,7 @@ fissidentaceous
 fibry
 frizzes
 floatability
+finitudes
 fervent
 fungillus
 faucre
@@ -4058,7 +4059,6 @@ flushable
 fluking
 foxfish
 frijoles
-finitudes
 fondish
 fusibly
 flophouses
