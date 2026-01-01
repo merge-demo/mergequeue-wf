@@ -3035,6 +3035,7 @@ gromet
 genii
 gorra
 globulins
+glamors
 gastromyces
 geometridae
 gangshag
@@ -4976,7 +4977,6 @@ glabreity
 greenbrier
 girondist
 groundwards
-glamors
 granddada
 guidances
 gypper
