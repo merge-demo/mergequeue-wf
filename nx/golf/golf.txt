@@ -1796,6 +1796,7 @@ grueler
 gastrotomic
 gulsach
 glycine
+gowkit
 gastrocolostomy
 gargler
 geodesia
@@ -8869,7 +8870,6 @@ guanos
 groundout
 gyte
 girouettism
-gowkit
 gynaecomastia
 great
 gnotobiology
