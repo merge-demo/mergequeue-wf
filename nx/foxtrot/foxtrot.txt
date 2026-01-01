@@ -6843,7 +6843,6 @@ fussify
 flipjack
 fourhanded
 fabled
-furomonazole
 forbearable
 foliary
 frescoers
@@ -8174,6 +8173,7 @@ fanegadas
 fundmonger
 forcepses
 forevers
+furomonazole
 flectionless
 foregate
 fretless
