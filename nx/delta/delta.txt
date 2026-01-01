@@ -1714,6 +1714,7 @@ dearness
 deaspirate
 decostate
 deaspiration
+ddname
 degree
 dihely
 depersonalization
@@ -10525,7 +10526,6 @@ disbowels
 dialyzate
 demipagan
 disserviceableness
-ddname
 derate
 doorsills
 diceratidae
