@@ -6396,7 +6396,6 @@ gamest
 gamgia
 garston
 gentility
-gettings
 gohila
 gasproof
 glassworks
@@ -7345,6 +7344,7 @@ gourdworm
 gonfalonier
 goth
 grievances
+gettings
 guildhall
 gosports
 grainless
