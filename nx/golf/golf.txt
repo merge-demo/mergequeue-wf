@@ -4679,6 +4679,7 @@ guttery
 gliadins
 gyrovagues
 glycoluril
+groundnut
 gloy
 gurjun
 girshes
@@ -9930,7 +9931,6 @@ gallop
 galiots
 gulf
 glamorizing
-groundnut
 gratulatorily
 growingly
 grata
