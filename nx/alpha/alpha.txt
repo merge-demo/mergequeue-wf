@@ -5037,6 +5037,7 @@ aerotaxis
 agacant
 autoecous
 argo
+alcaldeship
 arvicole
 ablush
 aerotechnical
@@ -7531,7 +7532,6 @@ antony
 alcalde
 anthropocentricity
 alcaldes
-alcaldeship
 aristoi
 affectingly
 alcaldia
