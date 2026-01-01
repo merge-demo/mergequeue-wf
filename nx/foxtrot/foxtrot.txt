@@ -8410,6 +8410,7 @@ fibrillate
 floppy
 frontlash
 felling
+feezing
 forcipes
 framboise
 familist
@@ -10343,7 +10344,6 @@ feudovassalism
 faceman
 fortiori
 frondless
-feezing
 ferrado
 fantasized
 frondlet
