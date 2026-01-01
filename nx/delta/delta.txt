@@ -1712,7 +1712,6 @@ deaspirate
 decostate
 deaspiration
 ddname
-degree
 dihely
 depersonalization
 daredevilry
@@ -4139,6 +4138,7 @@ delocalize
 dermoreaction
 decrustation
 dretch
+degree
 dextrorotatary
 denigrators
 discharger
