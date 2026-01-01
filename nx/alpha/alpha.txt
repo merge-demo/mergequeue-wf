@@ -6003,7 +6003,6 @@ antemortal
 agilities
 attorneyship
 abecedaire
-amidofluoride
 acyesis
 accessories
 aging
@@ -13135,6 +13134,7 @@ achieves
 atmidometer
 animastic
 animastical
+amidofluoride
 achymous
 associatory
 amniotome
