@@ -6836,6 +6836,7 @@ entitative
 exostema
 ecphoria
 enlistees
+entropion
 entoil
 eggler
 encheiria
@@ -10384,7 +10385,6 @@ elkoshite
 ethnozoology
 ethography
 excepter
-entropion
 ethology
 ethnogeographer
 ethologies
