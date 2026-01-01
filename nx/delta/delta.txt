@@ -6278,7 +6278,6 @@ dehydrators
 dab
 dermatoplasm
 diapositive
-deluminize
 deozonizer
 decolonization
 debatter
@@ -8916,6 +8915,7 @@ dichotically
 disklike
 dirigible
 denaturalization
+deluminize
 documenter
 deidesheimer
 dichotomy
