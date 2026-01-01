@@ -3004,6 +3004,7 @@ bioassay
 blarneyer
 barstools
 bart
+bargees
 brahma
 bartended
 barrera
@@ -11799,7 +11800,6 @@ berreaving
 bobtailed
 bothria
 bobwhites
-bargees
 becoom
 benevolentness
 biopyribole
