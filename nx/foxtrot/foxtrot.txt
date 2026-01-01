@@ -4948,7 +4948,6 @@ foining
 fluoresced
 forsooth
 foppishly
-flamandization
 firefanged
 funneling
 firepan
@@ -9500,6 +9499,7 @@ forensics
 fastwalk
 flights
 fidele
+flamandization
 fumarates
 fritts
 fantasm
