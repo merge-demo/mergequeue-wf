@@ -3882,7 +3882,6 @@ graining
 guls
 gaelicization
 glumpy
-glazed
 gloweringly
 gyges
 galloperdix
@@ -10124,6 +10123,7 @@ guffawed
 gamy
 grassers
 grainery
+glazed
 galavanting
 glia
 gipsyhead
