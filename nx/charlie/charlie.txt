@@ -4194,7 +4194,6 @@ coalheugh
 chronologists
 cardiogram
 cardiographer
-cardiographic
 creels
 cardiographies
 cardiohepatic
@@ -5123,6 +5122,7 @@ chemoprophylaxis
 cascable
 cascadable
 cascade
+cardiographic
 crankous
 coupes
 crotaline
