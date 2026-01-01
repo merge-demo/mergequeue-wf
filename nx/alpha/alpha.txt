@@ -6269,6 +6269,7 @@ agraria
 amyelonic
 aerotactic
 attenuant
+amphibolic
 abvolt
 aute
 animative
@@ -13144,7 +13145,6 @@ ambitiousness
 anticynic
 angekok
 animating
-amphibolic
 amoks
 anagraph
 apetaloid
