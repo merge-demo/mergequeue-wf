@@ -1189,7 +1189,6 @@ empathize
 eident
 educatable
 educatedness
-electrolyzable
 eudiometric
 educates
 engrainedly
@@ -1732,6 +1731,7 @@ electrolyses
 earpieces
 echolocate
 endogenicity
+electrolyzable
 ejaculating
 enjoy
 enterosyphilis
