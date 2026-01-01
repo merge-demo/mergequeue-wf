@@ -4866,7 +4866,6 @@ funambulating
 falsifiers
 foothook
 flaring
-fasting
 frabbit
 fitness
 forearm
@@ -9504,6 +9503,7 @@ fastwalk
 flights
 fidele
 flamandization
+fasting
 fumarates
 fritts
 fantasm
