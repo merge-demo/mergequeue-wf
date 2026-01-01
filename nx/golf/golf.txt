@@ -568,7 +568,6 @@ gladding
 gymnasiarchy
 goosier
 gallicizer
-galliform
 gomphrena
 gabfest
 gorilloid
@@ -10365,6 +10364,7 @@ gonidiospore
 goobers
 gastrothecal
 gnashing
+galliform
 galactosamine
 gordiid
 grasshook
