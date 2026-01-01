@@ -436,6 +436,7 @@ fur
 frockmaker
 fairship
 feal
+fiberous
 flitting
 fogmen
 flameholder
@@ -10693,7 +10694,6 @@ foredoing
 fringilla
 fecks
 flatteress
-fiberous
 foederati
 formularising
 fibriform
