@@ -4878,7 +4878,6 @@ chairladies
 carreton
 carri
 cetaceous
-carry
 carriageable
 cryptanalytics
 carriageful
@@ -17456,6 +17455,7 @@ coawareness
 coaxal
 coaxation
 coaxes
+carry
 coaxy
 colourer
 cordigeri
