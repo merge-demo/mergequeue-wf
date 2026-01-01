@@ -760,7 +760,6 @@ flanges
 fluxions
 fancied
 frazzled
-flapper
 fezzan
 fibroangioma
 fanciful
@@ -3135,6 +3134,7 @@ fibroins
 founderous
 fairlead
 fantastic
+flapper
 foretokened
 fondness
 felsophyric
