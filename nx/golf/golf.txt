@@ -3209,6 +3209,7 @@ golilla
 grievants
 greatheartedness
 gambled
+gory
 gauche
 globosely
 gepidae
@@ -3696,7 +3697,6 @@ glyptician
 gnomoniaceae
 gametes
 gutturotetany
-gory
 ghost
 gnathonism
 gasoliner
