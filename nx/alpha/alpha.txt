@@ -61,6 +61,7 @@ alcheringa
 abaddon
 abadengo
 autoimmune
+absis
 aerially
 argusfish
 arcadian
@@ -888,7 +889,6 @@ aures
 absyrtus
 airmanship
 amylon
-absis
 absit
 absoil
 acorn
