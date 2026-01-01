@@ -7430,6 +7430,7 @@ bathybius
 braveries
 betrothing
 betrothment
+bacteriopurpurin
 betroths
 bromine
 betrousered
@@ -11782,7 +11783,6 @@ bhumij
 bearcat
 betumbled
 bigeyes
-bacteriopurpurin
 barrens
 bucephala
 biology
