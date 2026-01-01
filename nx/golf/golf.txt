@@ -1367,7 +1367,6 @@ garnetlike
 grabbles
 gaulin
 graveyard
-gorb
 gastrostegal
 gravitometer
 garnetter
@@ -5924,6 +5923,7 @@ glamourizer
 gluepot
 gynophoric
 gimballed
+gorb
 garrison
 gemitorial
 gaylussacia
