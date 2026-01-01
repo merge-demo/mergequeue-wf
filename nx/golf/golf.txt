@@ -1214,6 +1214,7 @@ gaufre
 grouters
 general
 glittered
+goldy
 generalizations
 gondolas
 groups
@@ -1246,7 +1247,6 @@ griffes
 guenon
 glutinosity
 guib
-goldy
 grimaces
 galvanologist
 garran
