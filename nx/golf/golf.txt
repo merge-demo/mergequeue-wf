@@ -6444,7 +6444,6 @@ graduates
 griot
 gregorian
 gazes
-grandeeship
 gallivanted
 gouger
 gelates
@@ -9234,6 +9233,7 @@ grazier
 giftedness
 gryllotalpa
 glassworker
+grandeeship
 ghatti
 griqualander
 geminis
