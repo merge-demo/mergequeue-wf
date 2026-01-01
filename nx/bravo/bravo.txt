@@ -7679,7 +7679,6 @@ bezanty
 brassiness
 balletomane
 bargain
-bezants
 bezazzes
 bilk
 becloaking
@@ -11242,6 +11241,7 @@ brazenness
 bracts
 bickern
 bf
+bezants
 borghalpenny
 bespeaker
 bisilicate
