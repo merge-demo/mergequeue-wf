@@ -789,6 +789,7 @@ blake
 baffies
 bibliotist
 baklawa
+biophysic
 bonnetmen
 blubberhead
 bunkery
@@ -9081,7 +9082,6 @@ boldface
 brev
 biophagism
 biophilous
-biophysic
 biophysiography
 balibuntal
 biophysiology
