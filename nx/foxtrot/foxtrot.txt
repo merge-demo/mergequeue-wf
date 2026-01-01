@@ -1668,7 +1668,6 @@ fearedness
 fluidizes
 fathometer
 fifteener
-frypan
 fluorbenzene
 faucets
 flatworm
@@ -11365,6 +11364,7 @@ fluencies
 fremescence
 frothless
 foreprovision
+frypan
 footways
 foister
 fluorindin
