@@ -2493,7 +2493,6 @@ equivocates
 eupolyzoa
 eleve
 exegete
-ellipsoids
 enstatite
 effluxes
 electrogasdynamics
@@ -8543,6 +8542,7 @@ elain
 estheriidae
 esoterically
 excogitating
+ellipsoids
 exsufflicate
 esophagotome
 equatable
