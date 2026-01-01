@@ -677,7 +677,6 @@ eubasidii
 elmiest
 envier
 excide
-eclogic
 extraocular
 eclogite
 eclosion
@@ -11816,6 +11815,7 @@ empocket
 enteradenography
 exauctorate
 enrolment
+eclogic
 elaphrium
 euryon
 exaudi
