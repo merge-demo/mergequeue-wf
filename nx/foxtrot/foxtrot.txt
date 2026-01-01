@@ -2743,7 +2743,6 @@ festered
 faliscan
 frizer
 friedelite
-fights
 festerment
 fossilising
 footway
@@ -2875,6 +2874,7 @@ fishworks
 fackins
 firefighters
 featous
+fights
 foremention
 fettucini
 fungiferous
