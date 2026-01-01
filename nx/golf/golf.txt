@@ -2043,7 +2043,6 @@ gantry
 gazzetta
 gutterize
 gavels
-guyandot
 gloriana
 gavia
 gio
@@ -8167,6 +8166,7 @@ gibsons
 gastrolavage
 gudebrother
 groveler
+guyandot
 gallygaskins
 gazabos
 garderobe
