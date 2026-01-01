@@ -6710,7 +6710,6 @@ faubourg
 foreboding
 faintheartedly
 fundamentalism
-feretrum
 frontrunner
 folksily
 flame
@@ -10674,6 +10673,7 @@ franklin
 footler
 famish
 frightable
+feretrum
 facultied
 fibular
 facetted

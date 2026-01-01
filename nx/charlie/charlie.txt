@@ -5787,6 +5787,7 @@ cellaress
 cultivatability
 cornein
 clockcase
+chrysanthous
 cowpock
 caudillism
 catchline
@@ -30874,7 +30875,6 @@ considerability
 contr
 cypselid
 culsdesac
-chrysanthous
 cresoxide
 cultches
 cultellation
