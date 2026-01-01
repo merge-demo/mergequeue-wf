@@ -3612,7 +3612,6 @@ gyrocar
 greg
 gatewaymen
 glyptographer
-gyrochrome
 galyac
 gynostegigia
 gnathobdellae
@@ -10715,6 +10714,7 @@ gaumless
 goers
 glyoxim
 grumping
+gyrochrome
 gubernatorial
 gunnung
 graphometric
