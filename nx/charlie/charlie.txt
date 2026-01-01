@@ -13197,7 +13197,6 @@ cicatricula
 cicatricule
 cicatrisant
 chipmucks
-centimos
 calcanei
 colometric
 cicatriser
@@ -27324,6 +27323,7 @@ courap
 couratari
 courbaril
 courbe
+centimos
 chemistries
 courbette
 courbettes
