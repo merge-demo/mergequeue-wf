@@ -1477,6 +1477,7 @@ dazzle
 dawnstreak
 discriminative
 diffusor
+dregginess
 dasypaedal
 dazzler
 decemfid
@@ -3683,7 +3684,6 @@ daunting
 dictamnus
 dasnt
 degusted
-dregginess
 dehache
 dorsoepitrochlear
 dehypnotize
