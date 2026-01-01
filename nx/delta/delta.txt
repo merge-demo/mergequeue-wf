@@ -6331,6 +6331,7 @@ dermogastric
 dean
 dermoidectomy
 dos
+dazedness
 dgag
 dearly
 dermoneural
@@ -16941,7 +16942,6 @@ deamidate
 denouncement
 doz
 dunkard
-dazedness
 domus
 drearing
 drearisome
