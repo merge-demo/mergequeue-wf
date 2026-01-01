@@ -6,7 +6,6 @@ generalcy
 gaseliers
 glossalgia
 greenleek
-gabber
 gabbers
 gobi
 grasswork
@@ -10433,6 +10432,7 @@ gomphodont
 grads
 geobiologic
 gumdigging
+gabber
 gumdrop
 gelseminine
 gumly
