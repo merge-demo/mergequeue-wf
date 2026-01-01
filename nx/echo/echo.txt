@@ -29,7 +29,6 @@ eagerness
 ephraitic
 eclipse
 exemplificational
-escapement
 elderling
 endurably
 eagrass
@@ -4419,6 +4418,7 @@ exclamatorily
 elaeis
 ebriously
 encapsulation
+escapement
 emitted
 encapsuled
 enure
