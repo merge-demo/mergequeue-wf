@@ -6102,7 +6102,6 @@ gnaws
 gramineous
 gneiss
 grotesquely
-glengarries
 goosebeak
 gullibly
 gryphosaurus
@@ -9730,6 +9729,7 @@ greased
 gyarung
 gallinuline
 grugous
+glengarries
 gasoliery
 gruyere
 gasterosteidae
