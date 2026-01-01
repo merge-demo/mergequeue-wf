@@ -3961,6 +3961,7 @@ fibrinemia
 fiscal
 fulmine
 figurehead
+forbit
 flanque
 feminisation
 fictionally
@@ -10190,7 +10191,6 @@ foresing
 fief
 flaxen
 foreannouncement
-forbit
 flautist
 forepredicament
 feued
