@@ -2279,7 +2279,6 @@ fraudlessly
 fluorometry
 feuterer
 fundable
-foambow
 filicales
 formulable
 flotation
@@ -6249,6 +6248,7 @@ floccules
 focusable
 forwrap
 fascinative
+foambow
 formwork
 fermentitious
 fibrosis
