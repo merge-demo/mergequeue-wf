@@ -11167,7 +11167,6 @@ decanted
 deglaciation
 depopulate
 disbars
-disbase
 dani
 disbeliefs
 diarchic
@@ -17257,6 +17256,7 @@ diathermance
 didactic
 discountenancing
 dauner
+disbase
 discern
 domatium
 droll
