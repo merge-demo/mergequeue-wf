@@ -82,7 +82,6 @@ filching
 fraternised
 fortuitously
 faces
-folkright
 foliobranch
 fiendish
 flagrantness
@@ -6661,6 +6660,7 @@ faulted
 fulgurating
 flossing
 forenotice
+folkright
 foemanship
 fripperer
 foemen
