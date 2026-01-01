@@ -485,6 +485,7 @@ erf
 exsectile
 eveners
 enanthesis
+epitheliomata
 evector
 ecclesia
 ecclesiarchy
@@ -8377,7 +8378,6 @@ endiadem
 epithyme
 extacie
 eloped
-epitheliomata
 epityphlitis
 erythrosinophile
 evolutional
