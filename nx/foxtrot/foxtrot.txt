@@ -2857,7 +2857,6 @@ forthinking
 fetterlock
 floodlighting
 flatfish
-forewing
 flamer
 foxship
 funnier
@@ -8357,6 +8356,7 @@ fittiest
 fair
 foundling
 fils
+forewing
 furriner
 flagellata
 forkedness
