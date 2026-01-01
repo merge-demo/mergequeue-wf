@@ -10343,7 +10343,6 @@ dioramic
 diordinal
 dynodes
 duplet
-disgregation
 dipotassic
 disassimilate
 dioscurian
@@ -15542,6 +15541,7 @@ donkeyman
 draffman
 decahedra
 dikamalli
+disgregation
 draegerman
 dessert
 directness
