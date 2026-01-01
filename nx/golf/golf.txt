@@ -5264,6 +5264,7 @@ gorgonzola
 gamecraft
 garten
 gentilic
+gravitative
 gammer
 gluiest
 grenade
@@ -8587,7 +8588,6 @@ grouped
 gunpapers
 gravisphere
 guiltlessly
-gravitative
 guardroom
 glomeli
 gainliest
