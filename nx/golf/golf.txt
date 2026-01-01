@@ -3683,7 +3683,6 @@ goldbug
 gangwa
 gillnets
 gigantine
-ghizite
 glops
 gooselike
 gurgly
@@ -10402,6 +10401,7 @@ granitelike
 gigot
 geejee
 glareworm
+ghizite
 gardenless
 graduality
 gnotobiotic
