@@ -171,6 +171,7 @@ countervails
 caboceer
 cizar
 caboched
+clump
 cabocle
 caboclo
 coploughing
@@ -16944,7 +16945,6 @@ cheyney
 charca
 complexation
 clumber
-clump
 contemper
 caline
 cycadean
