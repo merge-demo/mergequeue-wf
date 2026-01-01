@@ -4974,6 +4974,7 @@ demultiplexers
 disroot
 desexing
 deposed
+deficiently
 dinamode
 decussion
 delustered
@@ -17482,7 +17483,6 @@ discrete
 daffle
 doubleheaders
 discriminoid
-deficiently
 destructed
 disorientation
 devoices
