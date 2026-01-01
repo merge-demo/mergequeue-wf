@@ -19201,7 +19201,6 @@ cuminole
 cymbaeform
 commodatary
 collothun
-collotype
 cardiospasm
 corporally
 collotyped
@@ -30404,6 +30403,7 @@ coroutine
 crusts
 custard
 copied
+collotype
 cloche
 crut
 conservatories
