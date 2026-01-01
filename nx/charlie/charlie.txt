@@ -17763,7 +17763,6 @@ cte
 campuses
 cashier
 cocoanut
-chasing
 cocoawood
 churchgoing
 cocobola
@@ -25378,6 +25377,7 @@ corneule
 cinchonaceae
 comprising
 crawley
+chasing
 champs
 cornfields
 cheroots
