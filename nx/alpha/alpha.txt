@@ -2948,6 +2948,7 @@ artiness
 antijam
 acting
 actiniae
+axial
 appalment
 amplexifoliate
 automatize
@@ -14781,7 +14782,6 @@ antichloristic
 antichlorotic
 abscissae
 armlike
-axial
 antievangelical
 attinge
 autoplasties
