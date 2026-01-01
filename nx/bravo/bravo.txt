@@ -6495,6 +6495,7 @@ bepart
 beacher
 bepimpling
 bepraiser
+burrheaded
 benzocaine
 bituminizing
 bombyx
@@ -17783,7 +17784,6 @@ burrgrailer
 base
 braiders
 burrhead
-burrheaded
 bedcovers
 burrheadedness
 baroneted

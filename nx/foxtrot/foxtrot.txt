@@ -1608,7 +1608,6 @@ fallalery
 faniente
 favouring
 frijol
-fervescence
 flannel
 fawkener
 fruiterer
@@ -2879,6 +2878,7 @@ foremention
 fettucini
 fungiferous
 fistulate
+fervescence
 fruitlet
 flamberg
 froglike
