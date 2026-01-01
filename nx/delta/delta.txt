@@ -3396,7 +3396,6 @@ derries
 disadorn
 depositation
 donet
-deflector
 dichlorvos
 dumpcarts
 deflesh
@@ -16407,6 +16406,7 @@ doxastic
 dghaisa
 doxie
 distad
+deflector
 dhoora
 doxography
 decolourise
