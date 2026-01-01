@@ -11987,7 +11987,6 @@ boggard
 blindfoldly
 boggier
 bourage
-boggle
 babakoto
 blastemas
 boggler
@@ -12106,6 +12105,7 @@ boisterous
 brangling
 boistous
 boistously
+boggle
 buckhound
 bibliopegist
 boistousness
