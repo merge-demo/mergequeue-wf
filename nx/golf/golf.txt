@@ -3838,7 +3838,6 @@ gabbard
 groutite
 greenland
 gulancha
-gorblimey
 grumbly
 genealogies
 geodaesia
@@ -5307,6 +5306,7 @@ guardsmen
 guatemala
 gemitores
 gossoons
+gorblimey
 grievously
 glyoxilin
 granitical
