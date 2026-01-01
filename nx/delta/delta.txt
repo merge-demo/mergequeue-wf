@@ -1769,6 +1769,7 @@ divalence
 dissociated
 divagation
 dratting
+debug
 debamboozle
 disagreeably
 dinitril
@@ -11427,7 +11428,6 @@ dockyard
 dissuader
 demivotary
 determinoid
-debug
 discloser
 disclosive
 disclosure
