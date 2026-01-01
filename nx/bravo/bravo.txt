@@ -10242,7 +10242,6 @@ backlashed
 bryaceous
 batocrinidae
 besague
-blackjacks
 bootstraps
 bondhold
 belshazzar
@@ -11701,6 +11700,7 @@ beneficience
 bribability
 boattail
 byeworkman
+blackjacks
 blazoners
 bosks
 boatward
