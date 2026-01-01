@@ -6092,7 +6092,6 @@ cathud
 catydid
 continuos
 cyclicity
-catiline
 coemployee
 cating
 cativo
@@ -7968,6 +7967,7 @@ cetane
 cetanes
 cete
 cetera
+catiline
 ceterach
 ceti
 cetic
