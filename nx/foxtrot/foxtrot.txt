@@ -4503,7 +4503,6 @@ ferrovanadium
 flour
 flogging
 felinae
-fairnesses
 flattop
 forblow
 feebleheartedness
@@ -5136,6 +5135,7 @@ factitive
 fict
 furnishment
 furculae
+fairnesses
 flashiest
 ficoidaceae
 fermerer
