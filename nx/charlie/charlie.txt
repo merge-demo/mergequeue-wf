@@ -12830,7 +12830,6 @@ chumship
 comdia
 chumships
 clonism
-cicindelidae
 curbing
 coelogastrula
 conductory
@@ -14086,6 +14085,7 @@ clerklier
 curlycues
 condimental
 caecal
+cicindelidae
 cyprinodontes
 cyprinodontoid
 camstrary
