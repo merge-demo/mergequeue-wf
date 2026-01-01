@@ -8661,7 +8661,6 @@ ferroboron
 flattest
 farstepped
 fantasizing
-frigidness
 frictionproof
 faintest
 footing
@@ -10277,6 +10276,7 @@ ferronickel
 forebow
 frokin
 filum
+frigidness
 felstone
 fluidglycerate
 fistulatome
