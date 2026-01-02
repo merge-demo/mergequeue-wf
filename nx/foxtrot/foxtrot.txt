@@ -820,6 +820,7 @@ formfitting
 fixatives
 fanjet
 fastened
+foreguess
 flemings
 fusee
 forerequest
@@ -7698,7 +7699,6 @@ forego
 feudatory
 fables
 factualism
-foreguess
 foretopsail
 fittywise
 forsteal
