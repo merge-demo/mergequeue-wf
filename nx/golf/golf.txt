@@ -911,7 +911,6 @@ guahivo
 genteeler
 gaverick
 guna
-gymnasium
 gambia
 gerbillus
 garnishable
@@ -9739,6 +9738,7 @@ gorfly
 gascromh
 gastrogenic
 gonococcus
+gymnasium
 goodwills
 gargantuan
 guidonian
