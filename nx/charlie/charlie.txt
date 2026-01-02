@@ -1135,6 +1135,7 @@ clamworm
 columella
 calcinosis
 contraprovectant
+cybernion
 calciobiotite
 calcioferrite
 ceratobranchial
@@ -13152,7 +13153,6 @@ cybernetical
 cybernetician
 cyberneticist
 cybernetics
-cybernion
 cibol
 conjugacy
 cibola
