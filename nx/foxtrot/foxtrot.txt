@@ -5528,7 +5528,6 @@ fleshy
 focal
 fillet
 ferally
-fleshing
 formatters
 fanjets
 fiddlies
@@ -9395,6 +9394,7 @@ frankenstein
 franker
 fastidiousness
 fireguard
+fleshing
 foreschool
 flocci
 folcgemot
