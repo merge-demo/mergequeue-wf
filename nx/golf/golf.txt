@@ -6882,7 +6882,6 @@ grainman
 garroting
 goshen
 gynandroid
-gulfwards
 garfish
 gregarina
 gelatinoid
@@ -8250,6 +8249,7 @@ glutinous
 gravid
 gladlier
 glabrate
+gulfwards
 gigabit
 glycerolyses
 geometricize
