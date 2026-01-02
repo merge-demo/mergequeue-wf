@@ -14438,7 +14438,6 @@ anthrophore
 anthropical
 acquisition
 anthropobiology
-apneumatosis
 aseismic
 automaton
 anthropocentric
@@ -15798,6 +15797,7 @@ anodize
 antiphony
 amortizes
 anomorhomboid
+apneumatosis
 amethystlike
 ambitioning
 adolf
