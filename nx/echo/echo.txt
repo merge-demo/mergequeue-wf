@@ -8316,7 +8316,6 @@ epitaxies
 ebonizes
 epidemicity
 epigrammatized
-enlife
 eikones
 ecophobia
 ewe
@@ -12329,6 +12328,7 @@ excretes
 entoiled
 elric
 exertions
+enlife
 ergate
 enurny
 eseptate
