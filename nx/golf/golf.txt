@@ -487,7 +487,6 @@ gravimetrical
 gelatin
 gye
 glaucodot
-gluteus
 grama
 ghostism
 geminations
@@ -9887,6 +9886,7 @@ gemmae
 goodliest
 glandularly
 gravy
+gluteus
 growth
 gastrochaena
 gastrologist
