@@ -3035,7 +3035,6 @@ frostless
 foursquare
 flatcar
 floroscope
-foregone
 fractionalization
 fibril
 fuzing
@@ -5560,6 +5559,7 @@ fw
 foamily
 foreordain
 flatterable
+foregone
 flagon
 fol
 forgettery
