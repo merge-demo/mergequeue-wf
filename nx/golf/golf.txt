@@ -5536,7 +5536,6 @@ gripes
 glucinum
 grumblers
 grummest
-gastrorrhaphy
 gastropoda
 gustier
 genear
@@ -7204,6 +7203,7 @@ gibed
 geelbeck
 grassier
 galactophorous
+gastrorrhaphy
 grattoirs
 grizzlies
 gutterwise
