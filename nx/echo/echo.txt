@@ -7154,6 +7154,7 @@ exclusions
 echar
 elan
 estanciero
+extraordinarily
 eudaemonism
 everyday
 endocolitis
@@ -9412,7 +9413,6 @@ edestin
 erythrogenesis
 erysipelas
 eyehole
-extraordinarily
 exactus
 explainer
 endeavor
