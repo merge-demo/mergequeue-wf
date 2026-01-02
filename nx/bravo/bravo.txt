@@ -1748,7 +1748,6 @@ broon
 byline
 boutonniere
 belorussian
-baronial
 baloskion
 bulbels
 balsamation
@@ -13951,6 +13950,7 @@ bacteriotherapy
 bowshot
 bulbaceous
 bridoon
+baronial
 brainish
 bowshots
 boomkins
