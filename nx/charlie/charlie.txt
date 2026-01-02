@@ -3782,7 +3782,6 @@ carbacidometer
 chromized
 croceines
 cryoprotective
-columboid
 carbamate
 carbamic
 carbamide
@@ -20245,6 +20244,7 @@ cosmogenesis
 characeae
 crossword
 commoning
+columboid
 cambist
 camias
 corrodingly
