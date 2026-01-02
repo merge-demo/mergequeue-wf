@@ -1067,6 +1067,7 @@ faro
 fluoridization
 floter
 foredestining
+fumigation
 furriery
 fumishly
 flustration
@@ -2783,7 +2784,6 @@ forgoing
 festucine
 flaxiest
 funli
-fumigation
 forehood
 firsthand
 falcial
