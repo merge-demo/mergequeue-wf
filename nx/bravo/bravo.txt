@@ -2611,7 +2611,6 @@ barytophyllite
 blawed
 bridgelike
 barkary
-bluestocking
 barkbound
 betterments
 barkcutter
@@ -17908,6 +17907,7 @@ blackfellow
 bushgrass
 bubbled
 bushy
+bluestocking
 barton
 badly
 bushidos
