@@ -6470,6 +6470,7 @@ follicle
 floriage
 footbaths
 feneration
+florissant
 fluotantalic
 french
 forweary
@@ -8273,7 +8274,6 @@ foresweat
 fesse
 forgeable
 forgery
-florissant
 forwaked
 families
 flashtubes
