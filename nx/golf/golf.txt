@@ -241,7 +241,6 @@ groot
 gibbons
 gainage
 griselda
-greenlandic
 geologizing
 gloom
 ghostlike
@@ -2259,6 +2258,7 @@ gradation
 glasswort
 gipons
 glarry
+greenlandic
 gospeller
 ghostliest
 grandpaternal
