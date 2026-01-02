@@ -5670,6 +5670,7 @@ gatemen
 gant
 grippelike
 grate
+gardenmaker
 gothites
 grizzler
 grenat
@@ -9893,7 +9894,6 @@ gerygone
 gustless
 guanin
 gagate
-gardenmaker
 gynophagite
 ghoom
 glycerose
