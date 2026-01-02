@@ -8035,6 +8035,7 @@ grabbots
 gannets
 gratitude
 geste
+geotaxy
 gemse
 ghosthood
 gangsman
@@ -8220,7 +8221,6 @@ guillem
 gastrectomy
 geloscopy
 geepound
-geotaxy
 groomsmen
 grapeflower
 grapefruit
