@@ -16641,7 +16641,6 @@ chargeling
 clop
 carburate
 conteck
-clopped
 clops
 cantref
 coracopectoral
@@ -28008,6 +28007,7 @@ crayonists
 chalkosideric
 cinnamomic
 concoctor
+clopped
 cancel
 coltish
 crayons
