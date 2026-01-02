@@ -4796,7 +4796,6 @@ entomophytous
 establishments
 exploratory
 extracardial
-encloister
 extend
 endosporously
 emeried
@@ -11517,6 +11516,7 @@ eidolic
 electrophotometer
 evigilation
 exsecant
+encloister
 engin
 exoergic
 echinopanax
