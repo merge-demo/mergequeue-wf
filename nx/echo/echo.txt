@@ -3439,6 +3439,7 @@ exteroceptor
 equilibrium
 elohist
 em
+ensky
 embarricado
 embarring
 elementoid
@@ -6875,7 +6876,6 @@ electroimpulse
 egremoigne
 eyepopper
 eupolyzoan
-ensky
 expresses
 etherification
 exceptionless
