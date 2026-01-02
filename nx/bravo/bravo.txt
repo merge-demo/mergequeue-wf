@@ -13086,7 +13086,6 @@ bemantle
 balangay
 blousing
 borders
-borderland
 bagpipe
 beriber
 borderline
@@ -13576,6 +13575,7 @@ bichromate
 beleft
 becursing
 backhanded
+borderland
 butterbough
 bankfull
 bibliophile
