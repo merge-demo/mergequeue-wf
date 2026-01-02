@@ -15619,7 +15619,6 @@ antinormality
 antinormalness
 ambage
 anoxaemia
-acanthad
 amygdalitis
 aeolight
 acrocontracture
@@ -20738,6 +20737,7 @@ artifactitious
 altitonant
 artifactually
 ascents
+acanthad
 artifex
 activates
 aerobiology
