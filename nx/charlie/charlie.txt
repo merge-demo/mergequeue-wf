@@ -15085,7 +15085,6 @@ civisms
 chloralizing
 civitan
 coxalgic
-civitas
 civite
 caridomorpha
 chinchasuyu
@@ -17352,6 +17351,7 @@ camarada
 coaration
 coarb
 coarrangement
+civitas
 comptonite
 constrains
 cadis
