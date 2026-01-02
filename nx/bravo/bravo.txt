@@ -7020,7 +7020,6 @@ betone
 bioplasms
 basing
 branchiostomidae
-ballpoints
 bowlegged
 boardly
 bowingly
@@ -9725,6 +9724,7 @@ bekinkinite
 barway
 beringed
 bismutosphaerite
+ballpoints
 bisnaga
 bispinose
 bispinous

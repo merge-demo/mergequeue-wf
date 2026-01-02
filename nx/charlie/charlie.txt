@@ -17590,7 +17590,6 @@ cocamama
 cocao
 chaneling
 charnel
-caped
 chomped
 cocash
 cocause
@@ -26558,6 +26557,7 @@ comparsa
 cube
 casaun
 couchings
+caped
 couchmaker
 crystallized
 cerebromeningeal
