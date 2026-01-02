@@ -3561,6 +3561,7 @@ dingles
 danke
 dermatotome
 drawbeam
+dihexagonal
 dissheathe
 dehwar
 defuze
@@ -13477,7 +13478,6 @@ dumpily
 disengagements
 diabolically
 duppy
-dihexagonal
 dardanium
 disreputableness
 dittologies
