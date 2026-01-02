@@ -6279,6 +6279,7 @@ concise
 calanthe
 caudle
 caudles
+clavered
 caudocephalad
 ceile
 clappering
@@ -15720,7 +15721,6 @@ commonplaceness
 clavellated
 cothurnian
 controllingly
-clavered
 clavi
 cerithioid
 chirres
