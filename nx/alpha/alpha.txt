@@ -2593,7 +2593,6 @@ amphichrom
 acquest
 armenite
 actutate
-applies
 arriswise
 acquiesce
 acanthopterous
@@ -24719,6 +24718,7 @@ autolyzed
 avertiment
 averts
 abbotnullius
+applies
 anecdysis
 acrobacies
 arised
