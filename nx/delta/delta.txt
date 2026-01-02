@@ -3258,6 +3258,7 @@ domesticate
 deionized
 duodecillionth
 doublethought
+dissaves
 dominie
 departs
 defibrillated
@@ -11145,7 +11146,6 @@ dysautonomia
 disavail
 dayroom
 discomforted
-dissaves
 despect
 dishabituating
 designfully

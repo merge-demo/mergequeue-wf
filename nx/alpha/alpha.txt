@@ -2634,7 +2634,6 @@ ashkenazim
 acquitter
 agnates
 acrab
-anacleticum
 acrania
 actresses
 alcaaba
@@ -19064,6 +19063,7 @@ archphilosopher
 announcer
 archpilferer
 adornment
+anacleticum
 aneurismatic
 accentuating
 adulteration
