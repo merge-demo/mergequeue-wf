@@ -11899,7 +11899,6 @@ beperiwigged
 barytocelestine
 bodysurfer
 bridgebuilding
-bodywear
 becked
 brickbats
 benthopelagic
@@ -15557,6 +15556,7 @@ beaterman
 butterfingered
 beanweed
 balut
+bodywear
 balaghaut
 bestreak
 beclothing
