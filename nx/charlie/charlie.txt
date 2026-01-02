@@ -13201,7 +13201,6 @@ cicatrices
 cicatricle
 chamberdeacon
 copastorate
-combination
 cicatricula
 cicatricule
 cicatrisant
@@ -15134,6 +15133,7 @@ characterizations
 cladanthous
 cladding
 couplet
+combination
 clanger
 conducta
 chlorophyceous
