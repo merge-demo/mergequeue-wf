@@ -1464,6 +1464,7 @@ grillages
 glamouring
 gasalier
 gaoler
+glebae
 gowks
 gamma
 gerousia
@@ -5445,7 +5446,6 @@ glauconiidae
 garottes
 glyptodon
 glyptodontoid
-glebae
 ghostwrites
 galactophlebitis
 gravidae
