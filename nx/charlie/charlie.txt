@@ -7951,6 +7951,7 @@ catafalque
 cestidae
 cestodes
 copatron
+cartload
 coronize
 capitulary
 cestoidean
@@ -24835,7 +24836,6 @@ coquettishly
 curlycue
 colourfast
 counterpotency
-cartload
 contumax
 coquille
 corrade
