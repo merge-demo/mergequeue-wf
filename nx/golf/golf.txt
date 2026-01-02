@@ -3664,7 +3664,6 @@ geopony
 gladen
 guanylic
 granilla
-glottalize
 gld
 gossameriness
 grouching
@@ -4937,6 +4936,7 @@ glucuronic
 gargoylism
 gethsemane
 griper
+glottalize
 glossotomy
 generalize
 geodal
