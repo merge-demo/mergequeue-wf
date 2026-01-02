@@ -5684,7 +5684,6 @@ eucalypts
 exordiums
 exposable
 eligibly
-erysiphaceae
 ectocelic
 extranatural
 everbearing
@@ -11374,6 +11373,7 @@ exhaustibility
 evaluating
 emergers
 extenders
+erysiphaceae
 exigency
 ethnohistory
 effeir
