@@ -4030,7 +4030,6 @@ estrapade
 enage
 extirpated
 echappe
-empexa
 emphasize
 emphasized
 embargos
@@ -13314,6 +13313,7 @@ enukki
 exponency
 extrared
 educated
+empexa
 exponentiates
 emilia
 encincture
