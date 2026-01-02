@@ -2405,7 +2405,6 @@ archpapist
 asmile
 adfix
 anthrapyridine
-antilipase
 aphrite
 apantesis
 antestature
@@ -22022,6 +22021,7 @@ assurance
 angelina
 assurances
 astigmias
+antilipase
 arthropodan
 assurer
 arthrotrauma
