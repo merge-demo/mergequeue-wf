@@ -3207,6 +3207,7 @@ flotages
 fringiness
 foods
 fogman
+facsimileing
 feloness
 fluework
 focalizing
@@ -6435,7 +6436,6 @@ fireflower
 flibbertigibbet
 freshish
 farmed
-facsimileing
 fluorimetric
 fenian
 fluorobenzene
