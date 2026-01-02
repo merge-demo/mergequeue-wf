@@ -1221,7 +1221,6 @@ budling
 blowpipe
 bakerly
 bakersfield
-bakeshop
 bakie
 bicirrose
 bakingly
@@ -2524,6 +2523,7 @@ bedark
 barocco
 barge
 bergere
+bakeshop
 bult
 bargelike
 beet
