@@ -7635,6 +7635,7 @@ covariation
 cerebral
 cerebralism
 coneighboring
+canopied
 cerebrals
 cardiopericarditis
 cerebrated
@@ -13159,7 +13160,6 @@ cyc
 cicad
 civilizations
 cycadaceae
-canopied
 crimpiest
 convulsional
 cannellate
