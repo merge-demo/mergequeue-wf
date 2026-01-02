@@ -1279,7 +1279,6 @@ fleys
 fertileness
 fastingly
 faradocontractility
-fishable
 fastish
 fastnesses
 fhrer
@@ -6456,6 +6455,7 @@ fesapo
 foothalt
 frivoled
 frogeye
+fishable
 fluoaluminate
 featurelessness
 fainted
