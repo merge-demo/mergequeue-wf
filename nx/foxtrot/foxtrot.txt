@@ -1627,7 +1627,6 @@ facet
 farandole
 formicoidea
 foliot
-framework
 feltmaking
 frolickers
 frankincense
@@ -9511,6 +9510,7 @@ fantasm
 featish
 flatmen
 farming
+framework
 fortuitousness
 forenames
 femininism

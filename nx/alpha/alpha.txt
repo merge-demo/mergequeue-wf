@@ -1072,7 +1072,6 @@ anachronical
 abundantly
 agnatically
 abune
-acromimia
 ausubo
 aburton
 artemisia
@@ -15820,6 +15819,7 @@ antipyrine
 annuli
 aryballoi
 aliseptal
+acromimia
 antipyrotic
 aglobulism
 antiplanet
