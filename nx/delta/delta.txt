@@ -6205,7 +6205,6 @@ deriver
 devotees
 deals
 discontentment
-dawed
 derma
 depleted
 damascened
@@ -16424,6 +16423,7 @@ disassembles
 drabant
 draughthouse
 delineative
+dawed
 dextrotartaric
 dichotomousness
 disgregated
