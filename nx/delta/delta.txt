@@ -371,6 +371,7 @@ daimios
 dadap
 daimyos
 despose
+dispark
 drinkers
 diluents
 daimiote
@@ -13059,7 +13060,6 @@ disparity
 disruptability
 dithecous
 dispeed
-dispark
 declarer
 discommoning
 directive
