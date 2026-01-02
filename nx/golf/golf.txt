@@ -3757,7 +3757,6 @@ gastrotrichan
 guayacan
 graduations
 gurdy
-ghuz
 glabellae
 griffons
 gasterothecal
@@ -5486,6 +5485,7 @@ greater
 glaciating
 galet
 gemellus
+ghuz
 guipure
 groundskeep
 glisk
