@@ -4296,7 +4296,6 @@ explorer
 exclusivism
 eptatretus
 emulsion
-exemplifiable
 etherene
 esotrope
 escurialize
@@ -13095,6 +13094,7 @@ embedding
 esterize
 epistolographic
 eyeshine
+exemplifiable
 ethylin
 effeminatize
 ecoclimate
