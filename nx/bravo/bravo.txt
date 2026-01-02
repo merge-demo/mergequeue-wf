@@ -2221,7 +2221,6 @@ bontebok
 bodword
 blurb
 butterflylike
-bostonite
 bedrivelled
 barauna
 bagatine
@@ -7255,6 +7254,7 @@ bookiness
 bladdernut
 bestrewment
 besnow
+bostonite
 baconist
 basses
 bestridden
