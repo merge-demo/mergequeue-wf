@@ -16720,6 +16720,7 @@ clothesyard
 codesign
 consumptivity
 clamberer
+chirked
 cirrus
 clotheslines
 clothesman
@@ -20385,7 +20386,6 @@ compacted
 ca
 coolants
 compacter
-chirked
 colibertus
 cranreuch
 compactible
