@@ -21641,7 +21641,6 @@ anisomerous
 assayable
 argyroneta
 assayed
-amorist
 assayers
 aphorists
 assaying
@@ -24176,6 +24175,7 @@ aldermanries
 abrus
 anquera
 acy
+amorist
 afterlifetime
 autojigger
 autojuggernaut
