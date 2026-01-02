@@ -5592,7 +5592,6 @@ gownlet
 glottogonist
 grallatores
 gervais
-gurges
 garuda
 ginks
 gravestone
@@ -7745,6 +7744,7 @@ graduses
 gentium
 girba
 glycuresis
+gurges
 gemlike
 geist
 glaciolacustrine
