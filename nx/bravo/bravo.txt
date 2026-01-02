@@ -12046,6 +12046,7 @@ bidders
 butchered
 belladonna
 becker
+baronry
 braula
 bidigitate
 bromeliad
@@ -12786,7 +12787,6 @@ bookpress
 bookracks
 bubblier
 blacklegging
-baronry
 begirdled
 begut
 bepreach
