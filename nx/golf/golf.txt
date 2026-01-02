@@ -3673,7 +3673,6 @@ grenadilla
 glaver
 gamomania
 ghibli
-glossopodium
 gobline
 ghiblis
 glaziers
@@ -9565,6 +9564,7 @@ gager
 grouts
 grouze
 gelatined
+glossopodium
 glume
 gymnosoph
 guardianless
