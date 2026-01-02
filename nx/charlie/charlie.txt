@@ -13819,7 +13819,6 @@ congruities
 cinematheques
 cutleriales
 clodpole
-cinematic
 comedienne
 czechoslovakian
 cogency
@@ -20054,6 +20053,7 @@ chemurgies
 cadmus
 chrosperma
 commensally
+cinematic
 campodeid
 commensals
 chamosite
