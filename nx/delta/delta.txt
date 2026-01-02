@@ -10735,7 +10735,6 @@ drad
 dun
 delocalisation
 disarranged
-disinfects
 dhoon
 disclass
 decessor
@@ -16080,6 +16079,7 @@ dermathemia
 deathbed
 doughty
 deerstalker
+disinfects
 duomo
 dockside
 designfulness
