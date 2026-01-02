@@ -5606,7 +5606,6 @@ goldseed
 grisping
 guayroto
 glochid
-geranial
 gemology
 garnice
 gradable
@@ -7486,6 +7485,7 @@ gravitation
 gists
 gluttons
 geodesy
+geranial
 gades
 gonorrhoea
 groundwater
