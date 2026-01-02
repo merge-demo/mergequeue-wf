@@ -3886,6 +3886,7 @@ fluidextract
 findable
 fruz
 function
+frightens
 figurate
 findhorn
 filarees
@@ -9976,7 +9977,6 @@ frigage
 frigates
 flocculated
 flavin
-frightens
 fontes
 ferulaceous
 fumiduct
