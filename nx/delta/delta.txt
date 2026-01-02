@@ -8594,7 +8594,6 @@ dispunitive
 donatio
 diapophysis
 decigramme
-dibatis
 dystaxia
 diapsida
 dyskinetic
@@ -16136,6 +16135,7 @@ dovecot
 dynamist
 dislustred
 dovehouse
+dibatis
 dovelike
 dephosphorization
 desalts
