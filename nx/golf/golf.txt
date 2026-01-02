@@ -7727,7 +7727,6 @@ geopolitic
 girning
 galvanized
 gunpowderous
-globus
 geomyid
 grizzliest
 goldworker
@@ -9586,6 +9585,7 @@ gauteite
 gershon
 gruels
 gesticularious
+globus
 gymnostomata
 giftlike
 goodenoviaceae
