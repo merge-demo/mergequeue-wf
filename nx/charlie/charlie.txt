@@ -19020,7 +19020,6 @@ charonic
 crenele
 caloricity
 collectivized
-collectivizes
 collectivizing
 cocrucify
 collectorate
@@ -28709,6 +28708,7 @@ currance
 creosol
 creosote
 casasia
+collectivizes
 curran
 cole
 creosotes
