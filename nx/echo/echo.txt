@@ -1958,7 +1958,6 @@ eupatorine
 epinette
 empathically
 enthelmintha
-endict
 expectedly
 exarchateship
 elementalist
@@ -9506,6 +9505,7 @@ electrolithotrity
 eczematoid
 entach
 enarch
+endict
 enstore
 equipondious
 escry
