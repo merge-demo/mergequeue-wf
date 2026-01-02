@@ -6950,6 +6950,7 @@ cotyla
 clockroom
 contingencies
 compaction
+chiggerweed
 caffein
 celtization
 cardiorrhexis
@@ -31089,7 +31090,6 @@ cuneatic
 cuneiform
 cuneiformist
 columnarity
-chiggerweed
 cunenei
 coue
 combs
