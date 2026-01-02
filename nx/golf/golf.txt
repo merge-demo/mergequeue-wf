@@ -3656,6 +3656,7 @@ guanylic
 granilla
 glottalize
 gld
+gossameriness
 grouching
 gedder
 gro
@@ -8614,7 +8615,6 @@ gemel
 gonidioid
 gravure
 gathic
-gossameriness
 gametically
 greffe
 grandtotal
