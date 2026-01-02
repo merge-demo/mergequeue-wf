@@ -1542,7 +1542,6 @@ grandiloquence
 gearless
 gazump
 ghoul
-gasper
 gadflies
 gunrack
 grounder
@@ -9188,6 +9187,7 @@ gesture
 gehenna
 glaciable
 golee
+gasper
 greenhornism
 gripment
 grimacers
