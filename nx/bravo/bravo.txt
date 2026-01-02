@@ -12207,7 +12207,6 @@ bureaucracies
 barbitos
 biclinium
 blaff
-beaumontia
 balneum
 beeps
 blaine
@@ -13947,6 +13946,7 @@ bacalaos
 baptizee
 bowsman
 botanomancy
+beaumontia
 blindfolded
 bootlessness
 benzopyran
