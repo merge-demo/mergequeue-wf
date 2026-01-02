@@ -4223,6 +4223,7 @@ autosuggest
 aclastic
 adposition
 acmispon
+avernal
 azonium
 armorer
 alchornea
@@ -5143,7 +5144,6 @@ aeviternal
 aphlogistic
 anatomicomedical
 af
-avernal
 arbalos
 anelastic
 accend
