@@ -5458,7 +5458,6 @@ girsle
 gonfanon
 gluing
 gladful
-geostationary
 gearwheel
 goethite
 gentlest
@@ -9908,6 +9907,7 @@ gabi
 gobioids
 gracias
 genethliacon
+geostationary
 guarand
 girls
 gimlety
