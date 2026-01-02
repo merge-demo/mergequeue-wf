@@ -3039,7 +3039,6 @@ fenestra
 frostless
 foursquare
 fishier
-fibreless
 flatcar
 floroscope
 foregone
@@ -7248,6 +7247,7 @@ fibrositis
 frizzlers
 formulate
 faenas
+fibreless
 footpaces
 fifer
 foolocracy
