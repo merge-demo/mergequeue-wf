@@ -533,6 +533,7 @@ germanium
 gastraea
 gallera
 gesneriaceae
+glibnesses
 gogo
 gonadotrophin
 gritten
@@ -5294,7 +5295,6 @@ gledes
 geophilus
 guarea
 grenier
-glibnesses
 glyceria
 gossipee
 grangerite
