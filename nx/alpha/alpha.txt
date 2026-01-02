@@ -6882,6 +6882,7 @@ az
 adrent
 apomorphin
 airt
+antilogy
 actionability
 aphanozygous
 adibasi
@@ -14934,7 +14935,6 @@ anticonfederative
 anticonformity
 antiaristocracy
 amidohexose
-antilogy
 avyayibhava
 avicular
 anticonservatism
