@@ -4584,7 +4584,6 @@ advocacy
 afficionado
 advocated
 afterspeech
-advocative
 albertype
 acanthological
 aq
@@ -7706,6 +7705,7 @@ aldermanical
 assistency
 aldermanity
 anacrotism
+advocative
 aplustria
 avulses
 amphikaryon
