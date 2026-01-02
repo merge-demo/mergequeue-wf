@@ -9155,6 +9155,7 @@ furtum
 fortresses
 fribblish
 filters
+followings
 fantasias
 fortifies
 fielded
@@ -11746,7 +11747,6 @@ flneur
 firiness
 foresin
 fremdly
-followings
 factorage
 fumados
 fuzees
