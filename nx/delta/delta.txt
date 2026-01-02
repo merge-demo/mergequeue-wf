@@ -12471,7 +12471,6 @@ dagon
 dishwasher
 discharm
 dishwashers
-distemperature
 depside
 demonstrant
 dishwashings
@@ -13530,6 +13529,7 @@ dissatisfaction
 dissatisfactions
 dissatisfiedly
 dustrag
+distemperature
 doubleleaf
 dinitrile
 dysphoria
