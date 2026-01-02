@@ -10957,7 +10957,6 @@ disaffinity
 disaffirmance
 dictyosiphon
 disaffirmation
-decidedness
 disaffirming
 detachedness
 dermococcus
@@ -12763,6 +12762,7 @@ dishonesty
 domicilement
 durns
 dyslysin
+decidedness
 distrustfully
 disoxidate
 diazotizing
