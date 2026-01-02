@@ -1075,7 +1075,6 @@ fiberboard
 frontons
 fantom
 farrage
-ferroelectricity
 foreribs
 farrago
 franchisement
@@ -2199,6 +2198,7 @@ febricitation
 farraginous
 fonded
 freyja
+ferroelectricity
 fizzle
 fantasmagoria
 fixe
