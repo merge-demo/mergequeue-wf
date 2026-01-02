@@ -10012,7 +10012,6 @@ chenopod
 colocasia
 catacombic
 criollo
-chenopods
 cajuputs
 chequebook
 croup
@@ -17217,6 +17216,7 @@ coaggregation
 cladophoraceae
 coagitator
 coagment
+chenopods
 cleptobiotic
 coagmentation
 coagonize
