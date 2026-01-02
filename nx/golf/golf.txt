@@ -1862,6 +1862,7 @@ growlery
 guffaw
 gilgai
 goofy
+gunflint
 geodic
 galacturia
 gardenwise
@@ -5799,7 +5800,6 @@ geratic
 goldsmith
 geometric
 gaveller
-gunflint
 gadarene
 gloveman
 gumtrees
