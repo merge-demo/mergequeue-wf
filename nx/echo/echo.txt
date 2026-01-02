@@ -1152,6 +1152,7 @@ eupatrid
 easefulness
 editorship
 editorships
+electropotential
 elasticness
 equatability
 enchiridions
@@ -13576,7 +13577,6 @@ enteroceptor
 endosteomas
 extance
 extemporally
-electropotential
 elkanah
 ebriate
 eisegesis
