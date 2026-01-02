@@ -4914,7 +4914,6 @@ gladiola
 goldurns
 goatly
 gastroenteric
-gladship
 galleylike
 gastrosplenic
 gamer
@@ -9613,6 +9612,7 @@ gravimeters
 glandula
 graphite
 growliest
+gladship
 gnathobdellida
 grimmiaceous
 gangerel
