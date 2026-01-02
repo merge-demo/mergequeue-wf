@@ -6998,7 +6998,6 @@ besmooths
 betrust
 bleeders
 barricades
-basilian
 besmouch
 bloodying
 bacteritic
@@ -9438,6 +9437,7 @@ borak
 befitting
 basichromatic
 bluegums
+basilian
 braider
 biophotometer
 bullyhuff
