@@ -3572,7 +3572,6 @@ eben
 exhibit
 eloquentness
 escorted
-enured
 epigonichthyidae
 embolectomy
 enicuridae
@@ -7107,6 +7106,7 @@ electroencephalogram
 entoiling
 enunciability
 ebonising
+enured
 eleemosynar
 escalloniaceous
 electroanalytical
