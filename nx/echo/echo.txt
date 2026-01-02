@@ -1355,7 +1355,6 @@ encastage
 effectuating
 effervesced
 exuberate
-endostracum
 epigastrical
 eriocomi
 eisteddfodism
@@ -2623,6 +2622,7 @@ elysian
 epidermal
 electropathy
 electrophysiological
+endostracum
 eunectes
 enigmatology
 ebulus
