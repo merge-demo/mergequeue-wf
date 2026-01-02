@@ -1838,7 +1838,6 @@ darapti
 drugmaker
 decriminalize
 dicyanid
-disentitled
 degeneratively
 defeudalize
 debilitates
@@ -8246,6 +8245,7 @@ diagnosed
 diagnostical
 diagnostically
 disenthroned
+disentitled
 diagnosticate
 deputization
 denitrating
