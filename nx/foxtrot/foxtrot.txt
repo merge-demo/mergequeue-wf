@@ -5031,7 +5031,6 @@ fissive
 filmcard
 frescoes
 functioned
-foremartyr
 fiddlewood
 fluctuable
 faceable
@@ -8405,6 +8404,7 @@ fruitcakes
 fullery
 froise
 filed
+foremartyr
 frass
 foot
 framers
