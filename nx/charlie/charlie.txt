@@ -1410,6 +1410,7 @@ caliga
 caligate
 caligation
 caliginously
+crowkeeper
 cyanin
 cunctipotent
 cylindrical
@@ -22655,7 +22656,6 @@ connotation
 ceratitoid
 connotations
 connotative
-crowkeeper
 connotatively
 counterextend
 connote
