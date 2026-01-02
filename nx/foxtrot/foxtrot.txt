@@ -1829,7 +1829,6 @@ fellahin
 firebreaks
 fleabites
 fractured
-flabellum
 fating
 feedbags
 flexographic
@@ -4447,6 +4446,7 @@ fluency
 fodient
 flagellar
 fingerlings
+flabellum
 fibroglioma
 fannings
 farcied
