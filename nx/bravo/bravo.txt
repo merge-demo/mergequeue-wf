@@ -2127,7 +2127,6 @@ beleaguerment
 braccae
 bosomer
 booms
-blanca
 bosch
 brouillon
 barring
@@ -7634,6 +7633,7 @@ brownprint
 bewitchment
 bounderishly
 bewizard
+blanca
 bombycina
 blandished
 bimolecular
