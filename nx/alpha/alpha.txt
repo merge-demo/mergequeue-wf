@@ -3030,7 +3030,6 @@ amtrac
 amphinucleus
 algin
 actinometrical
-apercu
 actinometricy
 actinomyces
 areche
@@ -16362,6 +16361,7 @@ antivivisectionist
 anaximandrian
 asteroidal
 arsanilic
+apercu
 antiwarlike
 anthropomorphitic
 antiwaste
