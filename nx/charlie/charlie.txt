@@ -1362,7 +1362,6 @@ calyciflorate
 contranatural
 caliciform
 calycinal
-calycine
 calderium
 calicle
 capitulatory
@@ -5185,6 +5184,7 @@ canvaser
 chaprassi
 caseinogen
 caseload
+calycine
 caseloads
 casemaker
 caprylene

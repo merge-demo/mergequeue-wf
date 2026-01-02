@@ -8435,7 +8435,6 @@ bedaze
 balita
 blams
 blackcoat
-bikkurim
 balkier
 biogenous
 blackwood
@@ -12575,6 +12574,7 @@ burtonize
 besiegement
 benedictive
 bunter
+bikkurim
 boniata
 bloodshot
 barnage
