@@ -2231,7 +2231,6 @@ ghazies
 grisled
 genette
 gekkonid
-gristle
 gossipmongering
 galactase
 gitana
@@ -3788,6 +3787,7 @@ greycoat
 giants
 gratifyingly
 glossology
+gristle
 gentian
 giantship
 garrafa
