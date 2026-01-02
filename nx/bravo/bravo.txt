@@ -4909,6 +4909,7 @@ bloomage
 backspeer
 bomarea
 beechwood
+bibulosities
 bluing
 bright
 bourbons
@@ -13679,7 +13680,6 @@ blousy
 blepharophyma
 blockaders
 brantail
-bibulosities
 bounded
 braveness
 bezesteen
