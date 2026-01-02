@@ -2311,6 +2311,7 @@ greyfish
 geognosis
 guaranis
 gelatine
+gaposis
 gazer
 gondoliere
 gerastian
@@ -5207,7 +5208,6 @@ gnosticizer
 gunated
 glouted
 googul
-gaposis
 gemara
 gentianose
 gingelies
