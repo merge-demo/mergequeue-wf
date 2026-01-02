@@ -5446,7 +5446,6 @@ extrabulbar
 ecderonic
 endseal
 endshake
-egretta
 easterly
 enfirm
 eaglelike
@@ -10414,6 +10413,7 @@ eruct
 edmond
 equivocally
 eighty
+egretta
 earwigging
 epiphanize
 electropositive

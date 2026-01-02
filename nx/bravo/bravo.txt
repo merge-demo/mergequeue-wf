@@ -12605,6 +12605,7 @@ bistroic
 bonitarian
 bonity
 balsam
+buckaroo
 bragi
 bemocks
 bardane
@@ -16694,7 +16695,6 @@ buchonite
 boatmen
 buck
 bayamo
-buckaroo
 bombazet
 buckberry
 bebaron
