@@ -2253,7 +2253,6 @@ glasswort
 gipons
 glarry
 gospeller
-gangrel
 ghostliest
 grandpaternal
 glamoury
@@ -10221,6 +10220,7 @@ glamourously
 gasworker
 galusha
 gratis
+gangrel
 girthed
 geissospermin
 gainsays
