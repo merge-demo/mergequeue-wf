@@ -6785,7 +6785,6 @@ celastrus
 cuculla
 celation
 cheapjack
-celature
 celeb
 capicha
 clition
@@ -15145,6 +15144,7 @@ conidia
 colonizer
 clade
 cornucopia
+celature
 casabas
 cladocera
 collarband
