@@ -3712,7 +3712,6 @@ griphus
 gaslighted
 grafters
 gelastic
-ghostfishes
 garrisonism
 gallinae
 gnathite
@@ -4540,6 +4539,7 @@ galactoma
 gumwoods
 gills
 graminiform
+ghostfishes
 gerbille
 grit
 gigantomachia
