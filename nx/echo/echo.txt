@@ -8851,7 +8851,6 @@ ethnobotanist
 eyewort
 erd
 excavation
-eyehook
 epiphytic
 eagers
 erechtheum
@@ -13691,6 +13690,7 @@ eupractic
 externalized
 externalizes
 earbash
+eyehook
 exocardial
 enarration
 elusions
