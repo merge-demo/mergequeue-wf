@@ -826,7 +826,6 @@ gabbros
 genseng
 gambogian
 gimel
-gombroons
 grangerise
 goban
 genistin
@@ -5258,6 +5257,7 @@ gerberia
 gunter
 gorgonzola
 gamecraft
+gombroons
 garten
 gentilic
 gravitative
