@@ -2656,7 +2656,6 @@ engrailing
 electrophrenic
 eyrie
 enantioblastic
-electroplater
 electropower
 electropsychrometer
 eidolology
@@ -11234,6 +11233,7 @@ enthronised
 elohism
 enosis
 encomimiums
+electroplater
 eophyton
 eradiated
 evangeliarium
