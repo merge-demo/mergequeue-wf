@@ -6616,7 +6616,6 @@ caxiri
 clannish
 commissaries
 caxon
-cretaceous
 caxton
 confluence
 caxtonian
@@ -19745,6 +19744,7 @@ cations
 companionway
 contorting
 cardiopneumograph
+cretaceous
 cogroad
 classifiers
 contemplance

@@ -3037,6 +3037,7 @@ bartholomewtide
 bartisan
 ballrooms
 belibeled
+bisyllabic
 barflies
 borts
 buccinum
@@ -9678,7 +9679,6 @@ blatti
 bryozoum
 baizes
 batiste
-bisyllabic
 benefactions
 burao
 braize
