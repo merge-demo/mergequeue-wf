@@ -6645,7 +6645,6 @@ deplump
 draughtswoman
 desertification
 deserting
-drabs
 diastimeter
 desertlessly
 dungaree
@@ -9491,6 +9490,7 @@ drupes
 dighted
 dighter
 donatives
+drabs
 donationes
 dyspareunia
 digraphic
