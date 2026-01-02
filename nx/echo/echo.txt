@@ -11888,7 +11888,6 @@ escheatment
 exoclinal
 eppes
 euphonious
-encolure
 entomologise
 etheneldeli
 ennui
@@ -12159,6 +12158,7 @@ endpoint
 exposure
 exsert
 ellipse
+encolure
 econometrical
 ethmoturbinate
 excussed
