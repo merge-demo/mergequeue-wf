@@ -894,6 +894,7 @@ globicephala
 gunfighter
 gametocyte
 grayout
+granules
 gametogenic
 gueparde
 glutathione
@@ -4482,7 +4483,6 @@ gugu
 galtonian
 gypsyfy
 generically
-granules
 gristles
 geophytes
 gypsyhead
