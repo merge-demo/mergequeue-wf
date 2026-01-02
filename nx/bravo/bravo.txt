@@ -5422,7 +5422,6 @@ banstickle
 bloodripeness
 briquets
 babelic
-begulf
 blastomycotic
 bakshish
 biolite
@@ -7217,6 +7216,7 @@ baseliner
 butterbox
 biologies
 bruscha
+begulf
 bioscopes
 bestialized
 ballasted
