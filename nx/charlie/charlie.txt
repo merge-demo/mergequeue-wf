@@ -5466,7 +5466,6 @@ chon
 carpi
 confervas
 castle
-cumacean
 castled
 castlelike
 clitocybe
@@ -13232,6 +13231,7 @@ clon
 ciceronianisms
 ciceronianist
 compellability
+cumacean
 colluviums
 clavellate
 ciceronianize
