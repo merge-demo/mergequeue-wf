@@ -1940,7 +1940,6 @@ baaskaap
 bifidate
 biotechs
 baselard
-balsa
 bandrol
 battens
 beatific
@@ -7706,6 +7705,7 @@ benelux
 bezoars
 bezpopovets
 barged
+balsa
 boatbuilder
 bountiousness
 brideknot
