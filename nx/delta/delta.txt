@@ -3190,7 +3190,6 @@ dasyures
 damselflies
 dudelsack
 dashpot
-dermitis
 defeit
 de
 dogdom
@@ -10744,6 +10743,7 @@ decarboxylize
 drainspout
 drools
 discomfiture
+dermitis
 dietotherapeutics
 dipsomaniacs
 diestrual
