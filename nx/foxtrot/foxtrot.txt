@@ -1471,7 +1471,6 @@ foreshows
 fabulate
 flytes
 flaillike
-frayproof
 fissidentaceous
 fibry
 frizzes
@@ -11071,6 +11070,7 @@ filled
 fixups
 fogbow
 frowner
+frayproof
 frameae
 fractionated
 forficated
