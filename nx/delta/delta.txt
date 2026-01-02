@@ -1294,6 +1294,7 @@ daubreite
 degaussing
 detacwable
 dobsons
+decortization
 duodecahedron
 densified
 dryermen
@@ -16233,7 +16234,6 @@ downcastness
 disabling
 danagla
 doubter
-decortization
 dueled
 downcome
 downcoming
