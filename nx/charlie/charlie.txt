@@ -11276,7 +11276,6 @@ cardol
 conturb
 chloridated
 consuls
-chloride
 crocodiloid
 crackups
 calderon
@@ -17860,6 +17859,7 @@ cruise
 coder
 counterponderate
 comprehended
+chloride
 coderived
 chiclero
 coders
