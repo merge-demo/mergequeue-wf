@@ -1511,7 +1511,6 @@ grasseye
 genapping
 geratology
 gasman
-gillnet
 gasbags
 galactosemia
 gasmen
@@ -2349,6 +2348,7 @@ guano
 greengrocer
 grubbiness
 gainturn
+gillnet
 garrulously
 ghazal
 georgette
