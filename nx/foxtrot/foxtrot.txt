@@ -5095,6 +5095,7 @@ flamelet
 fun
 fuligo
 fundless
+fletched
 fumettes
 frsikets
 flagboat
@@ -10909,7 +10910,6 @@ fides
 facie
 fustigated
 flivver
-fletched
 fullmouthed
 firesafeness
 flirtations
