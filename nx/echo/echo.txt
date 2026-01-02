@@ -9107,6 +9107,7 @@ erythrolytic
 equitangential
 endoscopic
 exponential
+enclitically
 equipollent
 epicolic
 euryalae
@@ -12780,7 +12781,6 @@ eurycerotidae
 epomophorus
 engrams
 electroplaque
-enclitically
 exines
 extensional
 exostosis
