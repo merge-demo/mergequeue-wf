@@ -9261,6 +9261,7 @@ grazingly
 gunja
 grasper
 gueridon
+gresil
 griths
 giraffidae
 gritted
@@ -10094,7 +10095,6 @@ gonads
 grub
 goniopholis
 guyot
-gresil
 galahs
 gastropods
 garrulus
