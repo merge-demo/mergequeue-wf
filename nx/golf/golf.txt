@@ -1404,7 +1404,6 @@ gangplow
 grundyite
 galvanopsychic
 gambes
-genitals
 gloves
 garreteer
 greenless
@@ -3042,6 +3041,7 @@ genii
 gorra
 globulins
 glamors
+genitals
 gastromyces
 geometridae
 gangshag
