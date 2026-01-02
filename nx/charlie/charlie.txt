@@ -8706,6 +8706,7 @@ chronoscope
 chansonette
 commissionaire
 chansonnette
+crosstoes
 cedarwood
 chansonniers
 chantey
@@ -15377,7 +15378,6 @@ calluses
 chronographical
 clanjamfrey
 chalcotript
-crosstoes
 clanjamphrey
 clanking
 chlorimetry
