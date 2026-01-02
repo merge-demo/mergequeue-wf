@@ -3226,6 +3226,7 @@ endocone
 ejaculum
 extraserous
 entomophagous
+ecoclimate
 episcopation
 evocative
 enamoring
@@ -13096,7 +13097,6 @@ eyeshine
 exemplifiable
 ethylin
 effeminatize
-ecoclimate
 experientialism
 entomologize
 eschevin
