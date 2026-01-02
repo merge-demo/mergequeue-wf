@@ -9520,7 +9520,6 @@ desulphurise
 digitizes
 digitizing
 desorbed
-decimosexto
 downthrow
 decimated
 dreepy
@@ -14715,6 +14714,7 @@ djuka
 diaskeuast
 dk
 dkg
+decimosexto
 dkl
 dishlike
 deadener
