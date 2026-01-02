@@ -2640,6 +2640,7 @@ fluocerite
 firmless
 fluviatic
 feedings
+feeding
 felspathic
 fainaigue
 froufrou
@@ -6022,7 +6023,6 @@ ferroelectrically
 fellowman
 forthrightness
 fiducinales
-feeding
 forepoled
 fetich
 fourierist
