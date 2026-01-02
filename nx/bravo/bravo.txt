@@ -2011,7 +2011,6 @@ bani
 blea
 believably
 bedstand
-brachydiagonal
 baniya
 baning
 bulkiness
@@ -17485,6 +17484,7 @@ bruskest
 bridles
 blacklight
 buscarle
+brachydiagonal
 biltongue
 bowermay
 betulites
