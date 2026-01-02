@@ -2917,6 +2917,7 @@ cansos
 chartophylaxes
 congenialize
 cant
+cashkeeper
 connectionless
 crayfish
 cantabank
@@ -5239,7 +5240,6 @@ cashiered
 chenopodium
 cashiering
 cashierment
-cashkeeper
 crows
 centered
 clearest
