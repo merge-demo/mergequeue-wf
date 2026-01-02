@@ -1727,7 +1727,6 @@ foist
 fencibles
 feastraw
 fledgling
-formican
 fastnacht
 foreordainment
 filiality
@@ -11027,6 +11026,7 @@ forestay
 fumigated
 fierce
 femororotulian
+formican
 floriferously
 festal
 fuming
