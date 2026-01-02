@@ -2398,7 +2398,6 @@ bardcraft
 beleve
 buckhorn
 brabant
-brigandishly
 branchling
 biocoenosis
 bobtails
@@ -2835,6 +2834,7 @@ begalled
 bulkiest
 baudery
 beclap
+brigandishly
 barothermograph
 barotrauma
 bulgurs
