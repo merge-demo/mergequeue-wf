@@ -2640,7 +2640,6 @@ elliptically
 exercitor
 epithelize
 editchar
-exothecate
 electrophoretogram
 expansure
 exturb
@@ -3473,6 +3472,7 @@ encolour
 errand
 exolete
 exemplar
+exothecate
 ecliptic
 embatholithic
 enfiladed
