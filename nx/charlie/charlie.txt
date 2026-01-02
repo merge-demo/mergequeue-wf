@@ -28879,7 +28879,6 @@ coalesces
 curability
 ctge
 crewed
-crewet
 culminations
 campit
 complanar
@@ -29851,6 +29850,7 @@ capiatur
 curriculums
 crossbow
 crossbows
+crewet
 culgee
 cladoselache
 coxal
