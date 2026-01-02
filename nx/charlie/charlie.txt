@@ -11392,7 +11392,6 @@ curbed
 chiasmatype
 chloronitrate
 cruche
-colonizer
 chloropalladates
 contentional
 chloropalladic
@@ -15144,6 +15143,7 @@ conducta
 chlorophyceous
 cantative
 conidia
+colonizer
 clade
 cornucopia
 casabas
