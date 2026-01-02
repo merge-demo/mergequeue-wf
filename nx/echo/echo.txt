@@ -3031,6 +3031,7 @@ equiprobabilism
 eliminated
 ectopia
 elymus
+expatiator
 ergotamine
 epitomes
 elinguate
@@ -8794,7 +8795,6 @@ encrotchet
 exuberated
 exteriorized
 enacted
-expatiator
 exuperable
 encystment
 eulogising
