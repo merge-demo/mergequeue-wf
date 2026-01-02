@@ -2808,7 +2808,6 @@ decretorian
 dithymol
 deteriorating
 duplicative
-defi
 deferred
 dossers
 declarator
@@ -10427,6 +10426,7 @@ demark
 disinflame
 dow
 douzainier
+defi
 diplomatism
 duenna
 dashikis
