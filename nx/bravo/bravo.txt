@@ -1851,6 +1851,7 @@ bandaging
 berylloid
 bowlin
 bushranging
+basicytoparaplastin
 bandala
 buggery
 battlepiece
@@ -15422,7 +15423,6 @@ bloodbath
 brevete
 barghests
 bowsed
-basicytoparaplastin
 blackfish
 bombe
 baronetcy
