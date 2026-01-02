@@ -4579,6 +4579,7 @@ enrol
 ee
 epidiorthosis
 escuela
+earlock
 enodation
 excoction
 euphemized
@@ -9859,7 +9860,6 @@ exhibitionistic
 eucalyptian
 expedite
 expletiveness
-earlock
 eupepsy
 erostrate
 experimentalize
