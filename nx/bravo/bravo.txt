@@ -2271,7 +2271,6 @@ bijective
 bioecology
 birdclapper
 bannerwise
-bats
 burgensic
 bigmouths
 bacons
@@ -11581,6 +11580,7 @@ brachymetropia
 bestows
 bunkers
 bocedization
+bats
 blup
 barbs
 blurbist
