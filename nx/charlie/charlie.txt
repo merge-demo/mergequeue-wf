@@ -4564,6 +4564,7 @@ cosponsorship
 carnages
 casamarca
 carnalite
+clarain
 culverin
 carnalize
 counterexposition
@@ -15460,7 +15461,6 @@ canneries
 claques
 claqueur
 conducement
-clarain
 camelidae
 clare
 corrodible
