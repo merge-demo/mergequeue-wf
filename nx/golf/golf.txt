@@ -79,6 +79,7 @@ gallops
 grutten
 glauber
 gears
+gourdlike
 gubernator
 gymnopaedes
 grill
@@ -3497,7 +3498,6 @@ glauconite
 glasgow
 gallophobia
 graptomancy
-gourdlike
 gallous
 gentling
 griefful
