@@ -5734,6 +5734,7 @@ gonapophysis
 girasols
 gyrolite
 gressorious
+geotropism
 gurus
 geologize
 gammons
@@ -6340,7 +6341,6 @@ gradating
 goethian
 gam
 groceries
-geotropism
 goety
 greyed
 gummage
