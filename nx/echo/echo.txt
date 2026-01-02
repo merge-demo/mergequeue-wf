@@ -3631,6 +3631,7 @@ euclea
 entocarotid
 egocerus
 exemplifies
+elutor
 extravehicular
 emulable
 embowelling
@@ -5277,7 +5278,6 @@ esphresis
 expenseless
 epistolarily
 endoproctous
-elutor
 endopterygota
 errorist
 exudatory
