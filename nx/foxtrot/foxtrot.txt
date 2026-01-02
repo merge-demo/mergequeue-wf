@@ -7553,7 +7553,6 @@ frictionlessness
 forebodes
 forebody
 frostweed
-forsakers
 flentes
 fleshbrush
 frostproof
@@ -8769,6 +8768,7 @@ forestick
 finchery
 forehands
 flavonols
+forsakers
 fortuitous
 flote
 faussebraie
