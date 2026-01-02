@@ -1811,7 +1811,6 @@ calvaries
 calvarium
 calved
 cohosh
-calvin
 cithern
 commutators
 comdr
@@ -20420,6 +20419,7 @@ conjurison
 calycanthemous
 compadres
 compage
+calvin
 compagnies
 cresols
 condonative
