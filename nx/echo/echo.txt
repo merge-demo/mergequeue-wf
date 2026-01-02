@@ -2333,7 +2333,6 @@ electrizable
 exocyclic
 electrization
 enterohepatitis
-excavated
 epicotyl
 eagled
 eyras
@@ -11283,6 +11282,7 @@ ethnologic
 eeling
 entomologically
 epichlorohydrin
+excavated
 emblematical
 ergometrine
 evanishes
