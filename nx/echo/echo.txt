@@ -7156,7 +7156,6 @@ envious
 expelling
 embryomata
 ensophic
-epicyesis
 exclusions
 echar
 elan
@@ -13090,6 +13089,7 @@ expensiveness
 expergefacient
 expergefaction
 embedding
+epicyesis
 esterize
 epistolographic
 eyeshine
