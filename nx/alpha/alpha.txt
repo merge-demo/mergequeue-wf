@@ -9963,6 +9963,7 @@ archaeol
 ambients
 ambigenal
 arboreal
+adffroze
 appel
 arousing
 ambigu
@@ -12825,7 +12826,6 @@ aphthitalite
 anglepod
 anglepods
 amianthine
-adffroze
 arousement
 antiquarianly
 angletwitch
