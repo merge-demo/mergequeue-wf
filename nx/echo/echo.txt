@@ -5557,6 +5557,7 @@ eyestones
 enfeebling
 eucarida
 epigrammatised
+enhusk
 enfeeblish
 emaciation
 effectful
@@ -11587,7 +11588,6 @@ embrute
 enlighten
 extensiveness
 evolutionism
-enhusk
 epizeuxis
 evolutionistic
 endotheloid
