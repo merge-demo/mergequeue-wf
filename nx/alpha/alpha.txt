@@ -9595,6 +9595,7 @@ anticardium
 archantiquary
 adobe
 aition
+artifacts
 aluminose
 aluminothermy
 acrotarsial
@@ -18809,7 +18810,6 @@ arado
 archeries
 ajhar
 abirritate
-artifacts
 acoustically
 abjuring
 allomerization
