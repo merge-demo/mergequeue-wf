@@ -139,6 +139,7 @@ gynostegia
 gs
 gallicole
 guy
+germiniparous
 gratelike
 garrot
 galipot
@@ -8721,7 +8722,6 @@ greedless
 guttled
 gawkier
 guttling
-germiniparous
 greekize
 gleave
 gulravage
