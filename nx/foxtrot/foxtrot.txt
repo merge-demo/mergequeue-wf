@@ -2650,6 +2650,7 @@ footsoldier
 frostbow
 fetish
 flashy
+fibs
 feckulence
 fosterable
 flamb
@@ -5193,7 +5194,6 @@ flameflower
 flatulentness
 flangeway
 futter
-fibs
 footpaddery
 francolin
 frozenhearted
