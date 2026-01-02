@@ -4400,7 +4400,6 @@ antirevisionist
 awonder
 amebocyte
 abductores
-ap
 adumbrations
 asthenias
 agrypnode
@@ -5056,6 +5055,7 @@ adularescent
 aporrhiegma
 albruna
 allantoidal
+ap
 aerotonometric
 agrostographical
 aerotropism
