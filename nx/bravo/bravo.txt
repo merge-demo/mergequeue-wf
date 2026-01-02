@@ -9721,7 +9721,6 @@ bismuthinite
 bejumble
 belfried
 busking
-balanoglossus
 bekinkinite
 barway
 beringed
@@ -14509,6 +14508,7 @@ braises
 butea
 braystone
 beent
+balanoglossus
 bathyspheres
 bagh
 brakeless

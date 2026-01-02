@@ -10553,7 +10553,6 @@ aget
 axerophthol
 archoptoma
 attend
-amylohydrolysis
 adossee
 acatharsia
 amyloidosis
@@ -16430,6 +16429,7 @@ antrorsely
 antroscope
 antiromanticism
 antrotympanitis
+amylohydrolysis
 antrotomy
 antimediaevally
 aspring
