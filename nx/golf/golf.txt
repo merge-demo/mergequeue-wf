@@ -10259,7 +10259,6 @@ guanases
 galeproof
 gregarious
 guinness
-gumbos
 getid
 geneticist
 grotianism
@@ -10373,6 +10372,7 @@ galactosamine
 gordiid
 grasshook
 grike
+gumbos
 generators
 giddied
 gargoyled
