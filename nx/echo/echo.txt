@@ -3996,7 +3996,6 @@ empanels
 enfamish
 emparchment
 exaltative
-enruin
 embarrassingly
 empathetic
 egalite
@@ -4461,6 +4460,7 @@ ejaculation
 encaptive
 entomion
 exhilarative
+enruin
 encarnalised
 enteropneust
 egghot
