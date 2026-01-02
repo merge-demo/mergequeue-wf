@@ -5579,7 +5579,6 @@ beachside
 bekisses
 beknighted
 ballistite
-beknotted
 burrio
 brassicaceous
 bathythermogram
@@ -12958,6 +12957,7 @@ boothage
 boothale
 baronetcies
 badge
+beknotted
 brews
 bedspread
 bitterblain
