@@ -7442,6 +7442,7 @@ denude
 doctoral
 dubhgall
 distalia
+dogmeat
 detruding
 disulphid
 detruncation
@@ -9581,7 +9582,6 @@ disencumbers
 dartsman
 deerwood
 drazel
-dogmeat
 diplomatique
 diddering
 druse
