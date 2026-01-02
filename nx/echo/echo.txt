@@ -4905,7 +4905,6 @@ empoisons
 ebulliometer
 exoperidium
 ecchymoses
-extrapolates
 essenis
 exies
 etherealized
@@ -13659,6 +13658,7 @@ exteriorisation
 exteriorised
 ecrus
 entapophysis
+extrapolates
 epithem
 elfic
 encomiendas
