@@ -18583,7 +18583,6 @@ clavers
 coiffeur
 coiffeurs
 coiffeuses
-coiffured
 ceroxylon
 coiffures
 coiffuring
@@ -22260,6 +22259,7 @@ cottonopolis
 croisad
 congeon
 chapaties
+coiffured
 counterefficiency
 chromoplasm
 congeree
