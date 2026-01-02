@@ -11252,6 +11252,7 @@ bf
 bezants
 borghalpenny
 bespeaker
+bichy
 bisilicate
 blabbermouths
 blotty
@@ -18190,7 +18191,6 @@ budtime
 butleries
 butlers
 butlership
-bichy
 bellwind
 braggadocianism
 besprinkler
