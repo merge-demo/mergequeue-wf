@@ -8004,6 +8004,7 @@ deduces
 damageable
 dft
 dysthymic
+disweapon
 dialects
 defences
 derbylite
@@ -17767,7 +17768,6 @@ doziness
 delft
 downlooked
 donga
-disweapon
 desoxycorticosterone
 depa
 desoxyanisoin
