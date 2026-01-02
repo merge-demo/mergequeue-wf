@@ -3041,7 +3041,6 @@ fibril
 fuzing
 fountaineer
 filtratable
-fairily
 ferberite
 fluorin
 fusils
@@ -7214,6 +7213,7 @@ fourche
 furnariidae
 fraileros
 fiendism
+fairily
 fulvescent
 foothot
 frowstily
