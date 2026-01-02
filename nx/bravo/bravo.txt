@@ -8356,6 +8356,7 @@ biggish
 bayadeer
 bepelt
 bigheaded
+balanoglossida
 blastostylar
 balk
 brusque
@@ -9150,7 +9151,6 @@ biosystematic
 barbican
 biosociological
 budzart
-balanoglossida
 bursitos
 beauts
 biosome
