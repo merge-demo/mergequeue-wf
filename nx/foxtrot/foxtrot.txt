@@ -5155,6 +5155,7 @@ fructure
 flasker
 furless
 foretooth
+forensics
 floccular
 fellifluous
 furbelows
@@ -9501,7 +9502,6 @@ fulcrate
 flounderingly
 fratricelli
 furculum
-forensics
 fastwalk
 flights
 fidele
