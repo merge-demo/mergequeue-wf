@@ -3513,7 +3513,6 @@ flukiness
 frubbish
 femoropopliteal
 foeless
-fodderless
 furify
 followers
 fly
@@ -11591,6 +11590,7 @@ furciferine
 fealty
 fideicommissary
 forced
+fodderless
 fraternal
 febrifugal
 for
