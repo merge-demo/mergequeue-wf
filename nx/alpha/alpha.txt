@@ -4215,7 +4215,6 @@ arouser
 astichous
 astore
 ados
-acromegalia
 alexias
 anthropomorphisation
 alright
@@ -5805,6 +5804,7 @@ adnexal
 aperitifs
 ardass
 assumptive
+acromegalia
 archiannelida
 ageisms
 antiturnpikeism
