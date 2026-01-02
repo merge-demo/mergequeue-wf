@@ -2377,7 +2377,6 @@ barbwire
 barbwires
 bullpout
 bothsidedness
-betatter
 bushbodies
 bilertinned
 barcella
@@ -11162,6 +11161,7 @@ bolography
 blunker
 blandness
 brawniest
+betatter
 buckler
 brotan
 beflounce
