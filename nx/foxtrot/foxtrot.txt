@@ -10273,6 +10273,7 @@ fibrillations
 flakers
 frond
 fluxmeter
+frustrative
 finickingness
 frust
 fgrid
@@ -10745,7 +10746,6 @@ fuder
 frustrating
 fairing
 fingerless
-frustrative
 fohn
 feminized
 flavius
