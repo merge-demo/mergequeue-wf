@@ -1874,7 +1874,6 @@ bandfile
 begrudges
 brownism
 birken
-bloopers
 bandhook
 balladromic
 bandicoy
@@ -2798,6 +2797,7 @@ beachless
 bhp
 barrowman
 balletomanes
+bloopers
 buckayro
 baudrons
 bowlers
