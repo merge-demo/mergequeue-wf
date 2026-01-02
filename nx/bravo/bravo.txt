@@ -10422,6 +10422,7 @@ bewailer
 bookdom
 bullism
 backwoodser
+bayous
 brawer
 browman
 bonesetting
@@ -15336,7 +15337,6 @@ bridgebuilder
 bridgehead
 bridgemaking
 blinis
-bayous
 bejan
 bridgemaster
 benediction
