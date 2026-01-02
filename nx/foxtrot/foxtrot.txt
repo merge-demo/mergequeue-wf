@@ -6657,6 +6657,7 @@ footpath
 fillip
 forevouched
 foehnlike
+furcilia
 faulted
 fulgurating
 flossing
@@ -9570,7 +9571,6 @@ fleets
 fitroot
 fiador
 flavonol
-furcilia
 forwelk
 flitches
 farcinoma
