@@ -6840,7 +6840,6 @@ epiphytical
 entoblastic
 entobronchium
 eelgrass
-ellinge
 entocyemate
 efoliolate
 enneatic
@@ -11469,6 +11468,7 @@ elided
 evetide
 extirpating
 encipherment
+ellinge
 elucidation
 engraving
 ephemera
