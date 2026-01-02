@@ -2431,7 +2431,6 @@ besmirch
 brotherhood
 bards
 backaching
-biocoenoses
 butter
 boobies
 bardulph
@@ -8275,6 +8274,7 @@ bifurcation
 benzophenone
 bourgeoise
 basketry
+biocoenoses
 biga
 bigae
 battological
