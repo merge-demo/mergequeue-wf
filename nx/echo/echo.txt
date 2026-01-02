@@ -7655,6 +7655,7 @@ enhungered
 electrophoridae
 epicoracoid
 exocrine
+epionychia
 ellachick
 exhumations
 eccentricities
@@ -7758,7 +7759,6 @@ equips
 edelweisses
 ethinamate
 empasma
-epionychia
 executable
 epidiascope
 engraff
