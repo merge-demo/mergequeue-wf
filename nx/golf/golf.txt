@@ -3394,7 +3394,6 @@ germs
 glaucescence
 griseous
 grippit
-garment
 gigartinaceae
 goodlihead
 gypseous
@@ -10040,6 +10039,7 @@ glaistig
 gammation
 gargoyles
 greasing
+garment
 granitoidal
 guerdoner
 gasterozooid
