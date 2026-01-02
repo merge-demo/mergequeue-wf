@@ -1254,7 +1254,6 @@ flagger
 fatuate
 fearful
 flatten
-filmdom
 fasti
 filariform
 foreordinated
@@ -4706,6 +4705,7 @@ fluey
 forefeeling
 folkways
 fixidity
+filmdom
 fixing
 flannelleaf
 fixt
