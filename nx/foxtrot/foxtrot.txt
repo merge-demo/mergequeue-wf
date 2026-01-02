@@ -9248,7 +9248,6 @@ fries
 flaming
 fragileness
 ficiform
-foreknown
 filmer
 fucus
 fibre
@@ -11224,6 +11223,7 @@ footlers
 faradise
 fistulae
 foreday
+foreknown
 farsang
 furzed
 funiculars
