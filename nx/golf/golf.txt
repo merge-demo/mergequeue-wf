@@ -3871,7 +3871,6 @@ geometer
 glossophorous
 gemmoid
 gigelira
-gaolerness
 gorilline
 gold
 granthi
@@ -9388,6 +9387,7 @@ gurly
 germanhood
 germigenous
 grannyknot
+gaolerness
 garnishry
 gloved
 galenobismutite
