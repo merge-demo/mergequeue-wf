@@ -5744,7 +5744,6 @@ gressorious
 gurus
 geologize
 gammons
-goldsmithery
 glockenspiel
 gallopade
 glossohyal
@@ -9412,6 +9411,7 @@ grossly
 grangerizer
 grosso
 gowans
+goldsmithery
 grizzled
 gazi
 genocide
