@@ -1362,7 +1362,6 @@ enclog
 encastage
 effectuating
 effervesced
-exuberate
 epigastrical
 eriocomi
 eisteddfodism
@@ -11406,6 +11405,7 @@ endodontics
 enneasemic
 exuvia
 eponymist
+exuberate
 eventime
 entosternite
 eventlessly
