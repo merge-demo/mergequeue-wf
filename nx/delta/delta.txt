@@ -9719,7 +9719,6 @@ desugarize
 dudley
 diffracts
 days
-dilatedness
 dreamtide
 deprisure
 dumpler
@@ -16193,6 +16192,7 @@ dingeys
 deflexed
 dunches
 dent
+dilatedness
 dioestrous
 dowery
 derailer
