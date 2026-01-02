@@ -5046,7 +5046,6 @@ beetroots
 becarve
 beeweed
 beewise
-bask
 blackey
 bisphenoid
 bostal
@@ -16893,6 +16892,7 @@ buffiest
 blighties
 birdcalls
 buzzer
+bask
 battak
 butut
 betas
