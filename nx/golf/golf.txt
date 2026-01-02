@@ -1031,6 +1031,7 @@ geodist
 grasp
 grondwet
 golp
+galaginae
 glanced
 gymnonoti
 gayness
@@ -3744,7 +3745,6 @@ ghoulery
 goetia
 gasterosteus
 groundedness
-galaginae
 gapy
 garnierite
 gringolee
