@@ -11389,7 +11389,6 @@ bobooti
 baa
 bigwigs
 bogydom
-befame
 blacklegs
 burgwere
 bluebell
@@ -11685,6 +11684,7 @@ bankerdom
 boatloader
 beigy
 bubblies
+befame
 boatmanship
 boatsetter
 bisymmetric
