@@ -7888,7 +7888,6 @@ bibliofilm
 blepharosymphysis
 bergfall
 botaniser
-biocatalytic
 bibliographize
 burglarising
 billyo
@@ -15241,6 +15240,7 @@ breastplough
 blunted
 brushman
 bryce
+biocatalytic
 brick
 battened
 brickbat
