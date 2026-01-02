@@ -2724,7 +2724,6 @@ globularness
 goriest
 grainering
 germanomania
-goofier
 gravitons
 gusle
 grith
@@ -5845,6 +5844,7 @@ gynoecium
 greens
 glucate
 gorevan
+goofier
 gastrostomies
 glucinums
 gangflower
