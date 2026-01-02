@@ -5309,6 +5309,7 @@ dialkylamine
 distitle
 defiant
 donis
+dentalium
 dolor
 dentatoserrate
 decennary
@@ -17664,7 +17665,6 @@ demonomancy
 disanimal
 dimerisms
 dromons
-dentalium
 dualizes
 demarcate
 dualmutef
