@@ -1720,7 +1720,6 @@ fashionmonger
 flighted
 fascio
 filicin
-fomites
 fortravail
 frippet
 flooder
@@ -2446,6 +2445,7 @@ furzery
 falla
 filechar
 fornax
+fomites
 fungal
 foliocellosis
 frithborgh
