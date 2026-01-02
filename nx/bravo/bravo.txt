@@ -7473,7 +7473,6 @@ bumboat
 betterment
 bepewed
 bulbocavernous
-bivouacks
 brabblingly
 bushelled
 baldnesses
@@ -9674,6 +9673,7 @@ bishopling
 bakula
 biol
 bishopstool
+bivouacks
 bishopweed
 bobbinets
 bestir

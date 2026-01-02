@@ -5166,7 +5166,6 @@ affectations
 accumulatively
 affected
 agpaitic
-adorners
 affectibility
 affecting
 aerophore
@@ -9041,6 +9040,7 @@ adolesce
 artabe
 appeasive
 allspice
+adorners
 anticatalase
 antiblock
 anticommunistical
