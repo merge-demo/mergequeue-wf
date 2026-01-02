@@ -12012,7 +12012,6 @@ bogymen
 bogland
 budgerigah
 bogled
-boglet
 beckelite
 bolts
 bogmire
@@ -15228,6 +15227,7 @@ bribable
 bribees
 briberies
 bactetiophage
+boglet
 bicentennials
 blancs
 barbiturate
