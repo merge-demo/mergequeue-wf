@@ -1438,7 +1438,6 @@ accidencies
 accidentalism
 accidential
 accidently
-accinge
 anhimidae
 aphyllose
 accipient
@@ -16987,6 +16986,7 @@ apneusis
 apnoea
 adiaphoretic
 artificialness
+accinge
 ayahausca
 apoatropine
 apobiotic
