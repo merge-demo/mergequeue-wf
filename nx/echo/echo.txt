@@ -56,7 +56,6 @@ euchromosome
 epigraphic
 earflap
 expender
-enzyms
 excites
 exciton
 electroretinograph
@@ -2709,6 +2708,7 @@ enfant
 extendibility
 eudaemonics
 epispadia
+enzyms
 estampie
 escrol
 expectorating
