@@ -1976,6 +1976,7 @@ bywalk
 bullragging
 bitwise
 bantoid
+bagatelle
 babesiasis
 bange
 boardroom
@@ -12639,7 +12640,6 @@ bonnwis
 bionomist
 bonorum
 bisector
-bagatelle
 bills
 blackballer
 bigeminal
