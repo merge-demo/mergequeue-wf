@@ -5719,6 +5719,7 @@ demit
 deplorabilia
 dextrane
 deplorability
+dogeless
 duals
 deplorableness
 disrepair
@@ -14269,7 +14270,6 @@ die
 dormer
 ditalini
 drakelet
-dogeless
 dahoman
 ditas
 decolourizing
