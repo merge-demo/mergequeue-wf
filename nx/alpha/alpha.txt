@@ -9754,7 +9754,6 @@ albedometer
 acolyctine
 adry
 agglomerator
-amanitopsis
 antireforming
 aspergillums
 arteriectomy
@@ -21485,6 +21484,7 @@ asperser
 astrochronological
 alloiometric
 antephialtic
+amanitopsis
 arianistical
 angaria
 archabomination
