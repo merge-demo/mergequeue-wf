@@ -13180,7 +13180,6 @@ coronographic
 cycadophyta
 craniograph
 carriage
-cyanochroic
 climbingfishes
 catchable
 circumferent
@@ -23321,6 +23320,7 @@ closets
 consultive
 consulto
 consultor
+cyanochroic
 consults
 consumated
 consumating
