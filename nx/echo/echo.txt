@@ -6273,6 +6273,7 @@ electromotor
 ecorticate
 expiscate
 enplaned
+enscrolled
 ecumenics
 embryonary
 enamine
@@ -11750,7 +11751,6 @@ emirs
 examinant
 eschewer
 effatum
-enscrolled
 estrepe
 encumbering
 excommunication
