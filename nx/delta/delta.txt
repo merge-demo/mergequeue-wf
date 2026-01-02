@@ -488,6 +488,7 @@ dwarves
 dextrotropous
 dalf
 dalibarda
+doomsdays
 dismantler
 dalle
 diamylene
@@ -7201,7 +7202,6 @@ detainal
 destructionist
 dattos
 disafforest
-doomsdays
 dehiscence
 demultiplexing
 detainee
