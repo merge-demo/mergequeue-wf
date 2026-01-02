@@ -1192,7 +1192,6 @@ compeer
 correlate
 calculational
 concaves
-calculator
 calculatory
 calculators
 chutists
@@ -4299,6 +4298,7 @@ careme
 carene
 carer
 chyometer
+calculator
 ceremonies
 capsulotome
 cir
