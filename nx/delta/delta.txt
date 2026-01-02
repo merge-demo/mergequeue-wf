@@ -796,6 +796,7 @@ daneweeds
 dangerously
 dactyliomancy
 diabrotic
+dognaps
 deduced
 dangerousness
 distention
@@ -12152,7 +12153,6 @@ deescalates
 dorbie
 disparager
 delusion
-dognaps
 dysesthesia
 deferential
 discontent
