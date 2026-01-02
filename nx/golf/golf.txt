@@ -5531,7 +5531,6 @@ glob
 gnetum
 gripes
 glucinum
-grumblers
 grummest
 gastropoda
 gustier
@@ -5919,6 +5918,7 @@ gorb
 garrison
 gemitorial
 gaylussacia
+grumblers
 geyseric
 geonyctinastic
 germy
