@@ -1295,7 +1295,6 @@ grail
 geodiatropism
 giro
 graviers
-gingilis
 garganey
 gastropancreatitis
 garget
@@ -1986,6 +1985,7 @@ gleefully
 gynaecea
 goosewing
 gatch
+gingilis
 galleass
 glosser
 goutify
