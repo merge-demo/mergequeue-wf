@@ -296,7 +296,6 @@ expiry
 empanelment
 expressivism
 eightsmen
-electrostatic
 encashed
 enterodynia
 electroplated
@@ -676,6 +675,7 @@ eigenstate
 endothermy
 enshrouding
 extracondensed
+electrostatic
 emaculate
 embrangling
 exudative
