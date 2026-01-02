@@ -7310,7 +7310,6 @@ grahams
 gnocchi
 grossness
 griddlecake
-goyetian
 glycerole
 gyrostatic
 ghosty
@@ -9806,6 +9805,7 @@ gruppo
 galeate
 grutch
 galeche
+goyetian
 gumfield
 gitano
 gunships

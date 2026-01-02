@@ -7866,6 +7866,7 @@ dewberries
 dewcap
 disbudder
 devocalised
+deglute
 driveways
 dewclaws
 diaphonia
@@ -14900,7 +14901,6 @@ documents
 dowitcher
 dependencies
 depurging
-deglute
 dodded
 dodder
 differingly
