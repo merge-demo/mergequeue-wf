@@ -18543,7 +18543,6 @@ arcticwards
 amoebaeum
 amidine
 agriotypus
-arrises
 attitudes
 arborway
 arbota
@@ -24827,6 +24826,7 @@ avocat
 avocations
 avocative
 antipragmatic
+arrises
 avocet
 autoed
 aventail
