@@ -5167,7 +5167,6 @@ facula
 flywheels
 flatman
 filtering
-frankfurter
 flavanone
 flambes
 formicidae
@@ -7433,6 +7432,7 @@ flatworms
 floatplane
 fattened
 finning
+frankfurter
 flirtigig
 foraramens
 frugs
