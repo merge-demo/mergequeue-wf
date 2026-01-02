@@ -898,7 +898,6 @@ endship
 euphonies
 elle
 enterprised
-elusiveness
 enucleation
 endore
 encourager
@@ -5307,6 +5306,7 @@ exundance
 efik
 enchest
 emulsionize
+elusiveness
 engrafting
 ecmnesia
 endorsable
