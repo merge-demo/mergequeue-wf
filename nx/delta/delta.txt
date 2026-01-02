@@ -8546,7 +8546,6 @@ diaphysis
 dracontiasis
 druggists
 diaphone
-decryptions
 diaphones
 dexterously
 drys
@@ -13551,6 +13550,7 @@ dislike
 dissceptre
 deceivance
 denaturized
+decryptions
 dolesome
 diocletian
 dissuadable
