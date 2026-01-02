@@ -8132,7 +8132,6 @@ foveolae
 funkiest
 flatcar
 fingan
-fcomp
 flavouring
 feeble
 flasklet
@@ -11145,6 +11144,7 @@ foreallot
 fanega
 freeings
 faiences
+fcomp
 fiats
 frumperies
 furze
