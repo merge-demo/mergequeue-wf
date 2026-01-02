@@ -2012,6 +2012,7 @@ bedstand
 brachydiagonal
 baniya
 baning
+bulkiness
 bandcutter
 bhaiachara
 banisher
@@ -4439,7 +4440,6 @@ bereavement
 boojum
 breakwater
 becoiffed
-bulkiness
 bludging
 beclogs
 bonspells
