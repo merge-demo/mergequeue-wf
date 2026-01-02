@@ -5779,6 +5779,7 @@ enatic
 extinguish
 exprobratory
 ephorus
+equivalences
 enticers
 englacial
 expose
@@ -10169,7 +10170,6 @@ eurhodine
 eventide
 effluent
 expressionful
-equivalences
 elope
 extraorbital
 etherialised
