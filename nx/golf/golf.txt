@@ -1470,7 +1470,6 @@ gamma
 gerousia
 grincome
 gynocardia
-gradualness
 gangliocyte
 guydom
 glans
@@ -9333,6 +9332,7 @@ ghosted
 gigmaness
 gnathalgia
 guignol
+gradualness
 glopnen
 gerland
 groins
