@@ -11419,6 +11419,7 @@ deuterogenesis
 dermorhynchous
 disclimax
 dialogite
+disfeature
 drossing
 dopiest
 defiances
@@ -13387,7 +13388,6 @@ disputator
 denunciate
 disputeful
 dacrydium
-disfeature
 disputer
 definitising
 dorsally
