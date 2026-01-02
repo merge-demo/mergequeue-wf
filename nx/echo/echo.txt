@@ -3698,6 +3698,7 @@ engarment
 emaciated
 erythrons
 enwheel
+enviroment
 everse
 everywheres
 enchytrae
@@ -11190,7 +11191,6 @@ embussed
 embottle
 extraparochially
 electragist
-enviroment
 englishry
 exonuclease
 endospermic
