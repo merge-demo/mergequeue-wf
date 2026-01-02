@@ -260,7 +260,6 @@ bacillariophyta
 buckwasher
 bacilli
 bothros
-bacillian
 bacillicidal
 bacillicidic
 bacilliform
@@ -6670,6 +6669,7 @@ berimed
 beseemly
 berimes
 bradypnoea
+bacillian
 bering
 beneficences
 broughtas
