@@ -6869,7 +6869,6 @@ caudal
 cellars
 cellarwoman
 celled
-cabbies
 centennium
 cellepore
 cyprians
@@ -28658,6 +28657,7 @@ crenelations
 coplanar
 cerebriform
 convergently
+cabbies
 cannophori
 crenelee
 consulships
