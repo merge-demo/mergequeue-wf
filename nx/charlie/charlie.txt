@@ -2514,7 +2514,6 @@ curchef
 copperish
 conversive
 candidacy
-candidacies
 careeristic
 clarinetist
 cinchonized
@@ -31084,6 +31083,7 @@ cundums
 cundurango
 cuneal
 cuneately
+candidacies
 cuneatic
 cuneiform
 cuneiformist
