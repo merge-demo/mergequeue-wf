@@ -2476,6 +2476,7 @@ exendospermic
 engrails
 earthquaked
 exploding
+eyelets
 ejulation
 estus
 epidemiologies
@@ -4758,7 +4759,6 @@ elocutive
 euripides
 electrowin
 erythrodegenerative
-eyelets
 erosional
 eelware
 exalbuminose
