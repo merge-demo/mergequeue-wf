@@ -7642,7 +7642,6 @@ fructuarius
 funiculus
 flays
 forespeak
-fecundative
 fawns
 faradising
 foredune
@@ -7706,6 +7705,7 @@ forst
 forego
 feudatory
 fables
+fecundative
 factualism
 foretopsail
 fittywise

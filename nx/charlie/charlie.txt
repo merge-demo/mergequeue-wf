@@ -8803,7 +8803,6 @@ chapelmaster
 colonises
 chapelry
 combflower
-chapelries
 cinerins
 chapels
 chapelward
@@ -20515,6 +20514,7 @@ compassionateness
 compassive
 coinhere
 compassivity
+chapelries
 clinophobia
 cwrite
 compatibility
