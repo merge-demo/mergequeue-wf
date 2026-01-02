@@ -25044,7 +25044,6 @@ configured
 cordobas
 cordon
 cordonazos
-consarn
 chlorargyrite
 circumstantiates
 cordoned
@@ -25621,6 +25620,7 @@ corporification
 corporosity
 corps
 countersuggestion
+consarn
 chondriocont
 crusting
 corpsbruder
