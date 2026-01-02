@@ -27656,7 +27656,6 @@ coweringly
 cowers
 cowgrass
 cowhage
-cowhand
 cowherb
 cowherds
 cerium
@@ -31734,6 +31733,7 @@ custodies
 custom
 complacencies
 changing
+cowhand
 customableness
 customably
 carcerated
