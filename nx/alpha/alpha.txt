@@ -4782,7 +4782,6 @@ azygous
 aspide
 aeriness
 aero
-ausones
 aspermatism
 aeroballistic
 aerobate
@@ -7027,6 +7026,7 @@ allocation
 anthramin
 akenobeite
 atavus
+ausones
 akepiro
 aker
 amdt
