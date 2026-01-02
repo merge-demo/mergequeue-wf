@@ -7342,7 +7342,6 @@ electrojet
 ephorates
 enravishment
 epapophysis
-evangeliser
 exosphere
 expulsing
 exile
@@ -13194,6 +13193,7 @@ expires
 earthworms
 esteemable
 expressivity
+evangeliser
 eastertide
 encephala
 echinite
