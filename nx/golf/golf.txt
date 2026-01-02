@@ -1071,7 +1071,6 @@ groundway
 gypsums
 glares
 gnostically
-guarding
 graphicness
 gowdy
 goularo
@@ -6814,6 +6813,7 @@ gravilea
 glycosyls
 gonochorismal
 geryonia
+guarding
 gris
 glutimate
 gutsy

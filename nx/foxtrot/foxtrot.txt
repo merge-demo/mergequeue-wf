@@ -9493,7 +9493,6 @@ fratry
 fountainheads
 flippery
 formalness
-furnaceman
 fulcrate
 flounderingly
 fratricelli
@@ -10184,6 +10183,7 @@ fliting
 fenite
 ferruled
 fissile
+furnaceman
 frontlet
 fitter
 fashed
