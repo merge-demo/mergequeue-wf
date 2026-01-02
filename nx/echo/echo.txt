@@ -6296,7 +6296,6 @@ eyre
 ethanes
 excalfaction
 enrich
-excitancy
 enrichener
 euphemise
 ectopias
@@ -9684,6 +9683,7 @@ extrapulmonary
 espousement
 essenwood
 elms
+excitancy
 enshielded
 espouser
 excardination
