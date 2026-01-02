@@ -1801,6 +1801,7 @@ flannelet
 featherwing
 fjorded
 fevercup
+ferromagnetism
 facticity
 familiarisingly
 flamingos
@@ -9960,7 +9961,6 @@ feceris
 fortuitism
 formulising
 forsythias
-ferromagnetism
 forefence
 feeze
 fittable
