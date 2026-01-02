@@ -9648,6 +9648,7 @@ alveole
 alveolectomy
 alveoli
 alveoliform
+anisotropically
 aduncated
 aquatints
 acariatre
@@ -13319,7 +13320,6 @@ anisostomous
 amlacra
 amphitheatral
 anisotrope
-anisotropically
 anencephalotrophia
 anystidae
 aloin
