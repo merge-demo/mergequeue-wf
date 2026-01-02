@@ -25307,7 +25307,6 @@ cormous
 corn
 cornaceae
 chaetophorous
-cochin
 cornada
 cornage
 cornballs
@@ -27595,6 +27594,7 @@ cyclase
 conventicler
 chorda
 covite
+cochin
 covolume
 catchpennies
 coarser
