@@ -2968,7 +2968,6 @@ gushed
 gastrotheca
 gerara
 geognosy
-geognostically
 grenadian
 guayules
 gaolering
@@ -8738,6 +8737,7 @@ gara
 growler
 graziers
 golosh
+geognostically
 gnathonic
 girosols
 guazuma
