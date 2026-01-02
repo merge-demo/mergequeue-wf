@@ -7023,7 +7023,6 @@ gladdener
 gasthauses
 goons
 gamostely
-gavel
 glycogens
 genian
 graciles
@@ -9781,6 +9780,7 @@ gien
 gtt
 gagaku
 gymnastic
+gavel
 grievant
 gasworks
 gluttonizing
