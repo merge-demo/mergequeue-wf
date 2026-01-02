@@ -3413,6 +3413,7 @@ gerontic
 granulize
 gridelin
 generalships
+genuflections
 gondolier
 gnatling
 gorkun
@@ -6110,7 +6111,6 @@ gigliato
 gallimaufry
 gyrous
 gurniad
-genuflections
 gliosis
 gastroid
 geissorhiza
