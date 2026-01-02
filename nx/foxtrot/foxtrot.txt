@@ -4509,7 +4509,6 @@ fou
 friandise
 festschrift
 flicking
-fragaria
 fissilinguia
 flashforwards
 flinder
@@ -11112,6 +11111,7 @@ flops
 fervanite
 fearnaught
 foyaite
+fragaria
 fundamentalists
 flatbread
 fastland
