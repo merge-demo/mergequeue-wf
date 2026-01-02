@@ -291,6 +291,7 @@ fourierite
 flock
 foreshortening
 ford
+floorthrough
 flytrap
 febrifacient
 footpounds
@@ -8021,7 +8022,6 @@ funnelwise
 forepleasure
 fubbing
 faussebrayed
-floorthrough
 fosteringly
 floroun
 foreskin
