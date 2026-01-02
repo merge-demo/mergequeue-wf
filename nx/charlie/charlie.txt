@@ -19945,7 +19945,6 @@ comitje
 chunters
 croupily
 coml
-confessionals
 commandable
 commandatory
 commanded
@@ -28894,6 +28893,7 @@ chaetognathan
 crex
 cry
 crikey
+confessionals
 combiners
 cryable
 cholestane
