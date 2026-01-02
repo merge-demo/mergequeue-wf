@@ -4739,7 +4739,6 @@ composograph
 carpenters
 charlock
 carpet
-carpetbag
 carpetbagger
 chantage
 conchometry
@@ -29234,6 +29233,7 @@ caracols
 crypteroniaceae
 cryptical
 chinaroot
+carpetbag
 cryptically
 crypticness
 covenantally
