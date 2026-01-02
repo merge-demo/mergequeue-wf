@@ -1095,6 +1095,7 @@ barbasco
 bayonets
 bifacial
 blepharelcosis
+bulkhead
 bayong
 babongo
 bairagi
@@ -17070,7 +17071,6 @@ binoxide
 bishoping
 boldfaces
 burt
-bulkhead
 bulkheading
 bulky
 bulkily
