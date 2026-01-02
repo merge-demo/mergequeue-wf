@@ -6776,7 +6776,6 @@ busying
 berrichonne
 bosquet
 berrier
-berries
 bitterbur
 beaut
 buhls
@@ -7109,6 +7108,7 @@ beaugregories
 babblish
 becalmed
 boyos
+berries
 bawdiness
 bespell
 bespelled
