@@ -632,7 +632,6 @@ cresson
 caenogenetic
 costume
 climata
-crimpers
 circumscript
 coralline
 caenostyly
@@ -17256,6 +17255,7 @@ coaler
 coalers
 crucifer
 coalescence
+crimpers
 cellarless
 coitions
 coalescency
