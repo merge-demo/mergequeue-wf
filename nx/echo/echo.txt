@@ -7671,7 +7671,6 @@ eldritch
 educed
 eidouranion
 enterogastritis
-exponents
 epicotyls
 endoderms
 enhancement
@@ -11941,6 +11940,7 @@ exalter
 exocataphoria
 exairesis
 esthesis
+exponents
 endemic
 effaceable
 electrooptical
