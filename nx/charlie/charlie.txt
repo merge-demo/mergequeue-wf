@@ -8407,6 +8407,7 @@ catacrotic
 chalumeau
 collegium
 capercailye
+cleistotcia
 chalumeaux
 chalutzim
 chama
@@ -28131,7 +28132,6 @@ checkable
 craniology
 craniom
 custards
-cleistotcia
 chinenses
 calibrations
 communitorium
