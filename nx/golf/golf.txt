@@ -136,7 +136,6 @@ gigantology
 gaelic
 gavialoid
 gynostegia
-gs
 gallicole
 guy
 germiniparous
@@ -8062,6 +8061,7 @@ gallocyanine
 gangliitis
 gettering
 gustable
+gs
 gymnogynous
 greekess
 gentilize
