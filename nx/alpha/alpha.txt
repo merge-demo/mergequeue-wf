@@ -14262,7 +14262,6 @@ anthers
 anisopogonous
 aglossal
 aquosity
-arrestment
 aftergrass
 alkahests
 adrop
@@ -19892,6 +19891,7 @@ armillae
 armillary
 affies
 atonies
+arrestment
 antigone
 annist
 ahorse
