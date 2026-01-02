@@ -5232,6 +5232,7 @@ dalapon
 darwin
 densely
 daviely
+derailleur
 dioptase
 dialogistic
 demarcations
@@ -11953,7 +11954,6 @@ downrange
 domes
 digestion
 dyeleaves
-derailleur
 disembarked
 demephitize
 duskish
