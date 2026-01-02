@@ -774,6 +774,7 @@ bicetyl
 beeline
 biometrical
 bethorn
+bedamp
 basilidan
 building
 baedekerian
@@ -12169,7 +12170,6 @@ baedekers
 bonesets
 baalshem
 burbots
-bedamp
 bolty
 boldo
 benzofluorene
