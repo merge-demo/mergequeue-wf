@@ -1281,6 +1281,7 @@ atelocardia
 acatalepsy
 acatalepsia
 acataleptic
+almoning
 autocorrelate
 autosomally
 advectitious
@@ -5468,7 +5469,6 @@ autocollimate
 ack
 argotic
 apological
-almoning
 acentric
 aftercrop
 amphigaea
