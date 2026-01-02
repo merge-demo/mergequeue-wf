@@ -9122,7 +9122,6 @@ eclipser
 elevations
 escrowee
 ephors
-equinoxes
 evasion
 erythropsia
 electrograving
@@ -12201,6 +12200,7 @@ executioneering
 enneahedrons
 engarb
 episynthetic
+equinoxes
 emendable
 excur
 ensigns
