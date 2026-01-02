@@ -2770,7 +2770,6 @@ argand
 armets
 acroclinium
 archaist
-anywheres
 acrodactyla
 anarithmia
 apologetic
@@ -18956,6 +18955,7 @@ autoactive
 androginous
 archipin
 aguada
+anywheres
 archiplasm
 absorber
 alluviums

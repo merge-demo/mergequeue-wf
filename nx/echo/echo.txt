@@ -4281,6 +4281,7 @@ equidiagonal
 epityphlon
 escutcheons
 experiment
+ephemeroptera
 endometrium
 electrodispersive
 evertile
@@ -7467,7 +7468,6 @@ evanesce
 ephemerid
 escobadura
 ephemeridae
-ephemeroptera
 embed
 ectype
 eigne
