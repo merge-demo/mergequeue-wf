@@ -4798,7 +4798,6 @@ eguttulate
 enterotomy
 epiopticon
 excusatory
-encode
 exitance
 ensnarements
 encoding
@@ -5183,6 +5182,7 @@ epimeride
 enounced
 elephants
 electrology
+encode
 epiplocele
 economists
 entocoele
