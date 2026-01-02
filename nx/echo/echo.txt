@@ -1443,7 +1443,6 @@ entosterna
 excoct
 electrostriction
 encashable
-epigaster
 egyptianization
 endoral
 epitasis
@@ -10067,6 +10066,7 @@ etceteras
 enascent
 ethanediol
 endomictic
+epigaster
 erianthus
 enthalpy
 epicoeloma
