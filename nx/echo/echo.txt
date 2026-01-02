@@ -5596,7 +5596,6 @@ expediences
 evangel
 extratympanic
 empathetically
-enduringness
 estimably
 endogens
 expertly
@@ -10623,6 +10622,7 @@ enterpriseless
 epiplopexy
 eyewaters
 educate
+enduringness
 egoizer
 eutechnic
 eucrite
