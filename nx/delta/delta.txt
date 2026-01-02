@@ -221,7 +221,6 @@ dusty
 denticate
 dojos
 dorstenia
-daftest
 donees
 daftness
 dinnertime
@@ -5842,6 +5841,7 @@ disestablishes
 dasyure
 deprave
 disanagrammatize
+daftest
 doxologizing
 dreidel
 dimagnesic
