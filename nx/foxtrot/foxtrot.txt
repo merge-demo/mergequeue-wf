@@ -2659,6 +2659,7 @@ flashy
 feckulence
 fosterable
 flamb
+frontispiece
 fertile
 farcers
 falsely
@@ -3082,7 +3083,6 @@ fibro
 fantasia
 fennecs
 fiercehearted
-frontispiece
 fortifyingly
 frozen
 frenching
