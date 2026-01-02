@@ -5196,7 +5196,6 @@ declaimers
 didascalos
 denunciations
 deputy
-denominations
 dicty
 dine
 dalasi
@@ -8655,6 +8654,7 @@ drumbling
 discoast
 diaspidine
 dots
+denominations
 dwt
 droumy
 downweigh
