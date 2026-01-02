@@ -15434,6 +15434,7 @@ cloragen
 clappered
 chitchatting
 clappers
+counterentry
 cutinization
 cordoban
 clapping
@@ -26814,7 +26815,6 @@ corporator
 cambiogenetic
 counterengine
 counterenthusiasm
-counterentry
 counterequivalent
 counterermine
 coninidia
