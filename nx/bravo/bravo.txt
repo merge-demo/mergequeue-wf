@@ -4765,7 +4765,6 @@ bogey
 biz
 bedouins
 brawns
-bauckiebird
 bedown
 bedpans
 bries
@@ -7231,6 +7230,7 @@ blastomeric
 bur
 bestiarian
 bestiarist
+bauckiebird
 bestock
 bestow
 burgee
