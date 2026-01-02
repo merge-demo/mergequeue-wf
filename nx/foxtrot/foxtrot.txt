@@ -8077,6 +8077,7 @@ fieldie
 favoured
 folksay
 fredricite
+fontlet
 fourteenthly
 forestation
 faceup
@@ -8354,7 +8355,6 @@ fautorship
 flytraps
 fusate
 forisfamiliation
-fontlet
 ferrotyping
 fatherlike
 flapperish
