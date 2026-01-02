@@ -2441,7 +2441,6 @@ galavants
 graphotypic
 garial
 geologian
-gesticulation
 graduator
 goas
 grograms
@@ -10226,6 +10225,7 @@ galusha
 gratis
 gangrel
 girthed
+gesticulation
 geissospermin
 gainsays
 glissandos
