@@ -11232,7 +11232,6 @@ desoxybenzoin
 diacle
 dekametre
 depredator
-domesticability
 dangler
 decrescendos
 dissyllabification
@@ -12948,6 +12947,7 @@ dognapping
 disobliges
 deltarium
 demobilization
+domesticability
 duff
 darkful
 dilleniaceae
