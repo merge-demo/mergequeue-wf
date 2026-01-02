@@ -10402,7 +10402,6 @@ diphenylene
 despend
 diphenylenimine
 dug
-diphenylhydantoin
 dogmatic
 discoideae
 diodon
@@ -17111,6 +17110,7 @@ drifters
 driftpins
 depositary
 damara
+diphenylhydantoin
 deacidified
 disconcertedly
 dislocated
