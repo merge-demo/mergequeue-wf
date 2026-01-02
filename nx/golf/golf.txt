@@ -1481,7 +1481,6 @@ gaseousness
 gauntness
 girllike
 grotesque
-garner
 gasher
 glumly
 gunmaker
@@ -7873,6 +7872,7 @@ guhayna
 goatskin
 gond
 glumpier
+garner
 grafship
 gileno
 gingall
