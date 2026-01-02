@@ -1855,7 +1855,6 @@ fluidizer
 farthermore
 fruiterers
 febriphobia
-fifteenths
 februarius
 featheriest
 flemishing
@@ -10277,6 +10276,7 @@ fluxmeter
 frustrative
 finickingness
 frust
+fifteenths
 fgrid
 fishweed
 fennecs
