@@ -1616,7 +1616,6 @@ gaunted
 giblet
 gastralgia
 gastreas
-glaucosuria
 gyrinid
 gravitational
 grimines
@@ -7308,6 +7307,7 @@ glitches
 goldsinny
 gynics
 genoas
+glaucosuria
 grahams
 gnocchi
 grossness
