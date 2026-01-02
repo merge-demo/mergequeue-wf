@@ -8250,6 +8250,7 @@ gracilaria
 glutinous
 gravid
 gladlier
+glabrate
 gigabit
 glycerolyses
 geometricize
@@ -8691,7 +8692,6 @@ gres
 galerum
 gawkishly
 geotactic
-glabrate
 garrets
 gree
 glean
