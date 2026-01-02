@@ -6768,7 +6768,6 @@ demoralizer
 detestably
 diathermic
 desilvers
-demultiplex
 demoniacal
 daeva
 detachments
@@ -17708,6 +17707,7 @@ dystopias
 demipauldron
 discriminable
 durables
+demultiplex
 dedifferentiation
 decanonization
 divulgate

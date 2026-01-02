@@ -2886,7 +2886,6 @@ canonizes
 canonizing
 churchreeve
 canonry
-canons
 canonship
 canoodles
 counsinhood
@@ -14097,6 +14096,7 @@ cypselomorphae
 churchism
 crated
 cypselomorphic
+canons
 cypselous
 cypselus
 collinsia
