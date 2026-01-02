@@ -8645,6 +8645,7 @@ chandui
 countercross
 chandul
 chane
+commercial
 caitiff
 chanfrons
 capitelliform
@@ -20102,7 +20103,6 @@ cretinous
 counterterm
 continence
 chesset
-commercial
 commercialised
 centgrave
 chequerwise
