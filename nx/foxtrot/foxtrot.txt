@@ -1464,7 +1464,6 @@ flavorings
 fruiter
 favourable
 fearsomely
-friedman
 fiqh
 foreshows
 fabulate
@@ -2937,6 +2936,7 @@ feveret
 forefending
 froggy
 foredecks
+friedman
 forefault
 forworden
 flicks
