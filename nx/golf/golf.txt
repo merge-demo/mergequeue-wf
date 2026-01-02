@@ -2772,6 +2772,7 @@ glanditerous
 gramophonist
 gonangia
 grover
+gathic
 gekkonidae
 glaister
 girling
@@ -8616,7 +8617,6 @@ gastrolatrous
 gemel
 gonidioid
 gravure
-gathic
 gametically
 greffe
 grandtotal
