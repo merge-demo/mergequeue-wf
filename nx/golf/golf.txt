@@ -3681,7 +3681,6 @@ geebung
 geminated
 goths
 groinery
-glottides
 gynandria
 grisaille
 georgie
@@ -5491,6 +5490,7 @@ gluttery
 glyster
 galumphed
 gablet
+glottides
 gimmer
 goods
 gentlemen
