@@ -15565,6 +15565,7 @@ balut
 bodywear
 balaghaut
 bestreak
+buzzerphone
 beclothing
 bionts
 brinksmanship
@@ -18382,7 +18383,6 @@ byronics
 betweenmaid
 betwattled
 blurbs
-buzzerphone
 buzzier
 burghermaster
 bilinite
