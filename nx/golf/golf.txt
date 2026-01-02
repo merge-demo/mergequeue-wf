@@ -7839,7 +7839,6 @@ gerately
 gufa
 greenkeeper
 glassblowers
-gook
 glead
 gala
 globulolysis
@@ -7945,6 +7944,7 @@ greases
 gastrotomies
 glecoma
 gorst
+gook
 gaberloonie
 gliriform
 gynecopathic

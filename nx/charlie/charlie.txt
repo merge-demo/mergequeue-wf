@@ -2064,6 +2064,7 @@ camlet
 camleting
 coletit
 camletted
+causticity
 cammarum
 chionanthus
 cornelian
@@ -6413,7 +6414,6 @@ caustically
 causticism
 chamaeleo
 celticism
-causticity
 conversion
 camatina
 causticly
