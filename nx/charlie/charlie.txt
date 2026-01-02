@@ -4597,7 +4597,6 @@ cabiritic
 convulsed
 carnelian
 carneole
-coroner
 chartula
 coacervating
 citoler
@@ -21095,6 +21094,7 @@ comurmurer
 con
 commandership
 coseys
+coroner
 conable
 conal
 castorin
