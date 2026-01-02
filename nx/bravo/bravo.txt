@@ -11900,6 +11900,7 @@ blast
 bellowed
 beento
 braggest
+bored
 bondswomen
 benote
 beperiwigged
@@ -13105,7 +13106,6 @@ balling
 boilermaking
 barf
 buddhic
-bored
 brabanter
 borsches
 boehmenist
