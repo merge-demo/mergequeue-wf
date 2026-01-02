@@ -9658,7 +9658,6 @@ alveoli
 alveoliform
 aduncated
 aquatints
-alveololabial
 acariatre
 ambries
 alveololingual
@@ -24768,6 +24767,7 @@ avicolous
 avicula
 abdominoposterior
 acridonium
+alveololabial
 alitrunk
 alternators
 aviculturist
