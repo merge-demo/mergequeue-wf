@@ -11142,6 +11142,7 @@ antistrophic
 amphictyons
 anisospore
 amphid
+acater
 amphidiarthrosis
 aryans
 amphidisc
@@ -22606,7 +22607,6 @@ archhouse
 acetylcholine
 ahong
 anticomplement
-acater
 athamantid
 acontium
 aliased
