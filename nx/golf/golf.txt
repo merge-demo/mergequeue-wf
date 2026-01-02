@@ -6506,6 +6506,7 @@ griff
 guelph
 golly
 glucolipine
+gens
 gamete
 grotian
 gentlefolks
@@ -10582,7 +10583,6 @@ gymnogene
 geologic
 glossed
 gelds
-gens
 greaser
 gumweed
 grandisonian
