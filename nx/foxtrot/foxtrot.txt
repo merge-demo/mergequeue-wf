@@ -3037,7 +3037,6 @@ freeloads
 fenestra
 frostless
 foursquare
-fishier
 flatcar
 floroscope
 foregone
@@ -7362,6 +7361,7 @@ flushermen
 fumitory
 fructed
 favelloid
+fishier
 fleeched
 fixation
 foraying
