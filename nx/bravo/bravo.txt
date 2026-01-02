@@ -13773,6 +13773,7 @@ bloomer
 bircher
 banqueted
 billetwood
+baronies
 backus
 balneatory
 boutefeu
@@ -16681,7 +16682,6 @@ blacking
 blanketeer
 buchanite
 bugs
-baronies
 bucharest
 buchloe
 burros
