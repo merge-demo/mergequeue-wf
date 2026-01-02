@@ -2806,7 +2806,6 @@ equipartition
 epidiplosis
 economicalness
 empalement
-elementalistic
 extrathoracic
 estrangements
 elementalize
@@ -9505,6 +9504,7 @@ entach
 enarch
 endict
 enstore
+elementalistic
 equipondious
 escry
 equalisation
