@@ -11728,7 +11728,6 @@ anticephalalgic
 analgias
 akeki
 analgic
-antimalarial
 anticeremonialism
 altocumulus
 antidysuric
@@ -19388,6 +19387,7 @@ allergins
 anaplasma
 anoplothere
 accountability
+antimalarial
 accusations
 adjuror
 accidentalness
