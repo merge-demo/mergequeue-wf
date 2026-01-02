@@ -4917,7 +4917,6 @@ ef
 enthuse
 encumbrance
 extrabureau
-english
 erythroneocytosis
 ephyrula
 eyednesses
@@ -12375,6 +12374,7 @@ ensandal
 exposures
 exhibition
 enforce
+english
 eradiate
 exhibitionism
 essenian
