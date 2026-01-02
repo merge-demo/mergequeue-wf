@@ -6831,7 +6831,6 @@ evangelistarion
 enculturating
 encyclopedist
 entitling
-ecclesioclastic
 epiphytical
 entoblastic
 entobronchium
@@ -7861,6 +7860,7 @@ emancipating
 electrifiable
 epigrammatically
 epigamic
+ecclesioclastic
 ecca
 ephod
 enigmas
