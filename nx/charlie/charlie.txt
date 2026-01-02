@@ -13074,7 +13074,6 @@ crumbable
 crates
 cyanoguanidine
 cyanohermidin
-cyanometer
 cuneate
 camaile
 chafing
@@ -30736,6 +30735,7 @@ cuirassier
 commonplacely
 conusor
 cuishes
+cyanometer
 chaps
 catheterizing
 cumberers
