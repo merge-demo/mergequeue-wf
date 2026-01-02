@@ -5028,6 +5028,7 @@ flankers
 folksier
 fathered
 flashtester
+functionlessness
 fuzed
 fissive
 filmcard
@@ -11396,7 +11397,6 @@ fertilely
 farfetch
 furnishes
 fiddles
-functionlessness
 frosk
 feater
 furcular
