@@ -2319,7 +2319,6 @@ etnas
 espressos
 exurbias
 endocrania
-edana
 expert
 entheal
 euphuism
@@ -2413,6 +2412,7 @@ ectogenetic
 electroetching
 electrodeposition
 ebriosity
+edana
 electrodes
 etherization
 electrodiagnosis
