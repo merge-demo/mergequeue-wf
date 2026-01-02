@@ -4628,7 +4628,6 @@ demivolt
 disprobative
 demissory
 deus
-demurring
 dismantle
 draggiest
 demisuit
@@ -9610,6 +9609,7 @@ dupers
 dihydrochloride
 duplicable
 devastations
+demurring
 decolourizer
 dishonestly
 dollardom

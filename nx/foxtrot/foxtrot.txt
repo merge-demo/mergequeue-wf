@@ -945,7 +945,6 @@ farandoles
 faxing
 fosterer
 fundatorial
-fleecers
 flueric
 fumidity
 forbysening
@@ -4528,6 +4527,7 @@ flintlocks
 favissa
 feer
 filices
+fleecers
 forheed
 foreigner
 forslake
