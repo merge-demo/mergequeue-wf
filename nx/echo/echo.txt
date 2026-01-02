@@ -4126,6 +4126,7 @@ eighthes
 earlships
 ecardinal
 endosarc
+extent
 eyass
 epitonic
 electrorefine
@@ -9421,7 +9422,6 @@ engerminate
 echeneid
 embodied
 enfranchiser
-extent
 episcopes
 elaphomyces
 elsewhere
