@@ -1469,6 +1469,7 @@ gynocardia
 gradualness
 gangliocyte
 guydom
+glans
 gossypine
 grouter
 gaselier
@@ -4838,7 +4839,6 @@ glady
 gamophagia
 glassen
 gelatinise
-glans
 goodwilies
 granate
 guardo
