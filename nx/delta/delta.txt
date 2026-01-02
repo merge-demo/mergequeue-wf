@@ -4513,7 +4513,6 @@ disselboom
 demilitarizes
 deflectional
 demilustre
-demiman
 detax
 dameworts
 dungyard
@@ -15404,6 +15403,7 @@ dragginess
 domiciles
 domiciliate
 domiciliated
+demiman
 demineralizer
 detectivism
 domification
