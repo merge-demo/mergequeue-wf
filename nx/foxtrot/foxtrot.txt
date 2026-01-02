@@ -2633,7 +2633,6 @@ fastidious
 frumentation
 fernando
 familiarisation
-forcipulata
 farmlands
 farmyardy
 fabric
@@ -8614,6 +8613,7 @@ fricative
 flexor
 firedragon
 fornix
+forcipulata
 fanegada
 forspent
 footlight
