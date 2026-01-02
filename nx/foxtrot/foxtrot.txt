@@ -4459,6 +4459,7 @@ fairkeeper
 fishplate
 feste
 fate
+fulcrumed
 fishpole
 fishpoles
 fimbrillae
@@ -6215,7 +6216,6 @@ funguslike
 falange
 fog
 fivepence
-fulcrumed
 flrie
 fluavile
 feudum
