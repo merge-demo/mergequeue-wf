@@ -1491,7 +1491,6 @@ grotesque
 gasher
 glumly
 gunmaker
-gymnarchus
 gluconate
 galosh
 gastrulae
@@ -10489,6 +10488,7 @@ generalising
 granulator
 gogglier
 glauberite
+gymnarchus
 glutton
 gule
 ginglymodi
