@@ -1093,6 +1093,7 @@ elective
 elaidate
 exfigure
 earock
+ember
 equipoised
 evaluates
 envined
@@ -5150,7 +5151,6 @@ epyllion
 epiplanktonic
 ejectives
 encrustment
-ember
 elaeoblast
 enneaphyllous
 elatives
