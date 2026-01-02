@@ -4901,7 +4901,6 @@ fives
 foenngreek
 fibrinate
 fellage
-forbears
 freedmen
 fraternalism
 fulvidness
@@ -9246,6 +9245,7 @@ flaming
 fragileness
 ficiform
 filmer
+forbears
 fucus
 fibre
 fledged
