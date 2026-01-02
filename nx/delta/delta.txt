@@ -10869,6 +10869,7 @@ disguisable
 dicaryophyte
 didelphian
 damns
+deindividuate
 drudging
 dirty
 donates
@@ -14464,7 +14465,6 @@ dachshunde
 dutiful
 diversisporous
 dhoul
-deindividuate
 doctus
 datedness
 depreciatory
