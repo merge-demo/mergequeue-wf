@@ -9550,7 +9550,6 @@ aeroembolism
 ascence
 alulim
 alumel
-amarna
 agrom
 alumic
 abesse
@@ -23152,6 +23151,7 @@ allometric
 analytic
 airdropped
 alew
+amarna
 allelocatalytic
 aurochs
 aneurysmal
