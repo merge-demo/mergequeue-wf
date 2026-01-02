@@ -6255,7 +6255,6 @@ foundationary
 ferrimagnetic
 flamingo
 fractionating
-foregame
 fluffiness
 flexography
 flugel
@@ -10983,6 +10982,7 @@ festooned
 firebolt
 fleshlier
 furmities
+foregame
 flatuous
 floricin
 fumatoria
