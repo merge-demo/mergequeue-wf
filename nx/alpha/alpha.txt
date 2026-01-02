@@ -5538,7 +5538,6 @@ afterpains
 auburns
 antifreezing
 afterpast
-afflux
 afterplanting
 absinthium
 acknew
@@ -13829,6 +13828,7 @@ affix
 anour
 asher
 anovulant
+afflux
 anoxemias
 ashrams
 allophane
