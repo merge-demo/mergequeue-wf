@@ -7299,7 +7299,6 @@ bailees
 bubbliest
 boxwood
 betailor
-betain
 bibiru
 broddle
 blanked
@@ -8333,6 +8332,7 @@ bowwort
 balawa
 biggened
 bayonetting
+betain
 baccharoid
 bakepan
 barbarous
