@@ -3814,7 +3814,6 @@ giarre
 gorgio
 gastaldo
 governing
-geobios
 gallantry
 gibber
 gibberellin
@@ -4384,6 +4383,7 @@ gardened
 gayway
 galvanoscope
 ginhouse
+geobios
 gelidiaceae
 gametocyst
 gangrene
