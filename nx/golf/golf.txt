@@ -5810,7 +5810,6 @@ glochines
 genos
 glave
 grasshopperish
-grouchy
 gastrodisk
 gurjara
 glowering
@@ -6668,6 +6667,7 @@ gundelow
 gynodioeciously
 gunsman
 glitters
+grouchy
 guard
 garmentless
 giantism
