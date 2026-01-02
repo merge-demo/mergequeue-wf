@@ -5084,7 +5084,6 @@ fluorescence
 ferrels
 faky
 flapping
-folders
 fessely
 flumps
 flamelet
@@ -5188,6 +5187,7 @@ favour
 farsakh
 flatulency
 forthwith
+folders
 flatfeet
 flatulencies
 fictions
