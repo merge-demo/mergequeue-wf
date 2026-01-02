@@ -6292,7 +6292,6 @@ flota
 fluxer
 frisian
 flaxwoman
-fluidist
 festers
 fluidized
 ferroconcrete
@@ -7904,6 +7903,7 @@ facings
 flenses
 franger
 farnesols
+fluidist
 floppers
 firestorm
 floretum
