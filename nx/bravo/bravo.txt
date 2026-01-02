@@ -7310,7 +7310,6 @@ betake
 buckshees
 barkevikite
 boyau
-bauchle
 betakes
 betaking
 beneventana
@@ -14476,6 +14475,7 @@ blowsed
 brainstorming
 brainstorms
 balkanic
+bauchle
 brainward
 ballistae
 byliny
