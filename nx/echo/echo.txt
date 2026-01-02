@@ -4351,7 +4351,6 @@ expulsive
 expansibleness
 enactor
 epigrammatize
-echoed
 eloquence
 enamelist
 euthenasia
@@ -4440,6 +4439,7 @@ encapsulation
 escapement
 emitted
 encapsuled
+echoed
 enure
 effectively
 encaptivate
