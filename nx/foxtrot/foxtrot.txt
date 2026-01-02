@@ -5877,6 +5877,7 @@ fdtype
 found
 forestian
 fowlers
+fixedly
 flocced
 frustulose
 fibula
@@ -9084,7 +9085,6 @@ fared
 faultful
 fountained
 flashguns
-fixedly
 fundiform
 familiar
 farther
