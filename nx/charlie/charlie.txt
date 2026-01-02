@@ -8616,7 +8616,6 @@ cohesibility
 chancriform
 chancroid
 chrestomathic
-chainstitch
 chancroidal
 chorgi
 cellulated
@@ -11622,6 +11621,7 @@ cholecystectasia
 cholecystectomy
 cingulum
 clammier
+chainstitch
 chimachima
 countermeasure
 cholecystenterorrhaphy
