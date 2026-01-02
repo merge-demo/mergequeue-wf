@@ -3593,7 +3593,6 @@ glowing
 ganglions
 gymnorhina
 geomagnetist
-gluconeogenesis
 grugru
 gunslinging
 ghettoizes
@@ -8891,6 +8890,7 @@ gleanings
 gasterotricha
 gartering
 guageable
+gluconeogenesis
 gashful
 gremlins
 grenadierial
