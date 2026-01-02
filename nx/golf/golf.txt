@@ -5899,7 +5899,6 @@ groove
 grousing
 gasogene
 goliardeys
-groveless
 goldarn
 gilgames
 grackle
@@ -8014,6 +8013,7 @@ galleyman
 gnathometer
 gabblement
 gipper
+groveless
 geologized
 grudgment
 gasterosteoid
