@@ -7992,6 +7992,7 @@ epinaos
 eirack
 embox
 estab
+escribe
 ettling
 eliminand
 enomaniac
@@ -8292,7 +8293,6 @@ eleostearate
 epistlers
 exogamous
 epistolarian
-escribe
 elixirs
 epopoeia
 epochal
