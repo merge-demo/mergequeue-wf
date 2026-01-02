@@ -6817,7 +6817,6 @@ bertrum
 bullarium
 beachy
 broadsided
-ber
 beruffed
 boy
 bilic
@@ -6861,6 +6860,7 @@ bacteriotoxic
 benignancy
 benkulen
 bigener
+ber
 buicks
 bioluminescent
 bescourge
