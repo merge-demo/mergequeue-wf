@@ -5221,7 +5221,6 @@ gigantean
 groundsheet
 gale
 gleamless
-gleed
 gramophone
 germinant
 glyptologist
@@ -6227,6 +6226,7 @@ galactosan
 gyse
 globules
 goatsbeard
+gleed
 guestimate
 gavotting
 galloway
