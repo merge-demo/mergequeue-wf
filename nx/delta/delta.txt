@@ -4367,7 +4367,6 @@ demembre
 dastur
 disassembled
 dementation
-dementedly
 dementholize
 disseated
 dementia
@@ -8390,6 +8389,7 @@ dialysis
 digestional
 debauchedness
 dialystaminous
+dementedly
 dialystely
 dialystelic
 dialister
