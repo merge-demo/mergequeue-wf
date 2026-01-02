@@ -15,7 +15,6 @@ cabaho
 cabal
 condylarthrous
 cryptostoma
-chevance
 chaenomeles
 cows
 corkmaking
@@ -22095,6 +22094,7 @@ councilor
 conformably
 conformal
 complexed
+chevance
 crosstalk
 cloyne
 consistence
