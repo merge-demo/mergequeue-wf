@@ -7155,7 +7155,6 @@ gile
 gore
 gorebill
 gibing
-gordioid
 gearboxes
 gored
 gores
@@ -9314,6 +9313,7 @@ groenlandicus
 goyana
 gurge
 gangliate
+gordioid
 galactophagous
 goutweed
 guidebook
