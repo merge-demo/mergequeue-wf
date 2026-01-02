@@ -414,7 +414,6 @@ goloshes
 goffering
 galcha
 growl
-garnishees
 grapeys
 galeage
 goober
@@ -8527,6 +8526,7 @@ gurgle
 gelatinization
 gravely
 galops
+garnishees
 groupers
 gayal
 gravelish
