@@ -1920,7 +1920,6 @@ bubonalgia
 bandanas
 bandogs
 bediademed
-barken
 bandoleer
 backhoes
 bandoleers
@@ -14204,6 +14203,7 @@ blacken
 beseeched
 beadleship
 belgophile
+barken
 bulbomedullary
 bolded
 bivalvular
