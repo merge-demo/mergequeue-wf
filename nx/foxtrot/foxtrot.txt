@@ -1130,6 +1130,7 @@ foresay
 fluffing
 feverishness
 fractional
+faikes
 fibrillary
 fanzine
 filiates
@@ -4779,7 +4780,6 @@ fieldstrip
 fingal
 footwalls
 feif
-faikes
 falsifiability
 foreranks
 foulminded
