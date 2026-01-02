@@ -7106,6 +7106,7 @@ forejudger
 felix
 formfeeds
 fellfare
+frig
 footful
 foolhardiness
 forges
@@ -9967,7 +9968,6 @@ friezer
 fulgurantly
 fiercely
 frostnipped
-frig
 fossilated
 fantoms
 fumatorium
