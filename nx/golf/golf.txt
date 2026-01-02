@@ -954,7 +954,6 @@ goldenlocks
 gopher
 gumwood
 gammoners
-gentlewomen
 gothic
 gooseries
 glycyphyllin
@@ -7326,6 +7325,7 @@ goar
 gymnosophy
 galactan
 genys
+gentlewomen
 gaseity
 grizzles
 gymnasisiums
