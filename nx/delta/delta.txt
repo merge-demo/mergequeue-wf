@@ -11141,7 +11141,6 @@ donating
 disattaint
 disattune
 defiling
-diplomacy
 debadge
 dysautonomia
 disavail
@@ -13122,6 +13121,7 @@ drippiest
 dermovaccine
 digitizer
 dragster
+diplomacy
 dispendiously
 drooped
 dankest
