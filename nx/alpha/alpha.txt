@@ -12465,7 +12465,6 @@ azoturia
 aerography
 anticreator
 avidities
-anemony
 anaspida
 anguillidae
 anemopathy
@@ -15899,6 +15898,7 @@ antiproductivity
 alphabetisation
 antiprojectivity
 antiprostate
+anemony
 antiprostatic
 adiabat
 attentively
