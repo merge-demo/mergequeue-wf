@@ -4597,7 +4597,6 @@ donn
 depose
 dinic
 demisang
-dulcite
 didine
 dadas
 douzaines
@@ -7622,6 +7621,7 @@ decompressions
 decolouring
 disavowment
 dermatologist
+dulcite
 drabbles
 desalinating
 deadly
