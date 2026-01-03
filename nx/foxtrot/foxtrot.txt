@@ -3821,6 +3821,7 @@ forewoman
 firmnesses
 frizzles
 fardage
+fon
 fanglomerate
 fireflirt
 figurings
@@ -10871,7 +10872,6 @@ flaite
 functionally
 footholds
 flavor
-fon
 forts
 frontalis
 fluvioterrestrial
