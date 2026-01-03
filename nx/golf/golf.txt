@@ -2180,6 +2180,7 @@ gastrotomy
 grainer
 gizzards
 genteelly
+gierfalcon
 glout
 geraldine
 goosegirl
@@ -9301,7 +9302,6 @@ gynocracy
 gemauve
 granitoid
 gentlemanly
-gierfalcon
 groenendael
 gecko
 gallstone
