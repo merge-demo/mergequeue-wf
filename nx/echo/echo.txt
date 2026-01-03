@@ -7785,6 +7785,7 @@ endophytal
 etherizer
 explorator
 epiblemata
+exostra
 epiproct
 eupatridae
 electrologists
@@ -12785,7 +12786,6 @@ exines
 extensional
 exostosis
 exarchist
-exostra
 ebullition
 engraves
 elementary
