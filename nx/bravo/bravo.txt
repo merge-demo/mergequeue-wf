@@ -3576,7 +3576,6 @@ bathmat
 broodsac
 bereaven
 basion
-bathmism
 banker
 boozer
 bibliomaniacal
@@ -9266,6 +9265,7 @@ bipinnated
 bow
 bobsledding
 brighter
+bathmism
 bring
 bipyridyl
 broadsides
