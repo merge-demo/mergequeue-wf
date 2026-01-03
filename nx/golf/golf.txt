@@ -6230,6 +6230,7 @@ guestimate
 gavotting
 galloway
 giglot
+gliders
 glue
 glucosidase
 gatemaker
@@ -6834,7 +6835,6 @@ gallican
 gamelotte
 gravette
 gymnodontes
-gliders
 gigahertzes
 gastroenterostomies
 gunnings
