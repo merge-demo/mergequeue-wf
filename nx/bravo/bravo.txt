@@ -12396,6 +12396,7 @@ bab
 berime
 band
 buckshee
+borer
 brigades
 biskop
 baskets
@@ -15630,7 +15631,6 @@ bromacetanilide
 bristlelike
 brigander
 beingless
-borer
 boonk
 babyhoods
 biternately
