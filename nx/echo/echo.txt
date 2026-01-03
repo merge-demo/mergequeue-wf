@@ -3163,7 +3163,6 @@ encomiums
 ecdysones
 echinorhinidae
 etheriidae
-entombed
 epitomised
 elodeas
 enfaced
@@ -3734,6 +3733,7 @@ epitheliosis
 enantiotropic
 explorate
 elucidators
+entombed
 embryophore
 educations
 electrogenesis
