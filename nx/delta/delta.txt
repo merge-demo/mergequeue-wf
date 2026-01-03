@@ -3075,7 +3075,6 @@ disennoble
 defacing
 defacto
 defade
-dichlamydeous
 defaillance
 defalcated
 diethyltryptamine
@@ -10616,6 +10615,7 @@ dunnaged
 diplont
 delisting
 diplonts
+dichlamydeous
 diplophase
 difficultness
 dosology
