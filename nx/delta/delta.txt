@@ -347,7 +347,6 @@ defames
 daylights
 deutomalar
 desalters
-dibase
 dorylinae
 droughtiness
 detruss
@@ -545,6 +544,7 @@ devocate
 doesnt
 delivers
 dromon
+dibase
 disbursable
 disfranchiser
 damaskeen
