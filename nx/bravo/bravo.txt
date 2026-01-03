@@ -5791,7 +5791,6 @@ berengelite
 bonasa
 bellhouse
 blatchang
-belli
 buckstone
 bellyache
 burmannia
@@ -13001,6 +13000,7 @@ bacillicide
 booziest
 balawu
 banausic
+belli
 bombycillidae
 bandersnatch
 beslobber
