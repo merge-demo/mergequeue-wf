@@ -565,7 +565,6 @@ cadillo
 cadinene
 compellers
 chozar
-camassia
 cadism
 cashmirian
 camlets
@@ -4502,6 +4501,7 @@ coacts
 canarin
 catabolite
 carl
+camassia
 coprincipate
 caseates
 cert
