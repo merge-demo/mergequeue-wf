@@ -2030,7 +2030,6 @@ giggly
 gel
 gelatiniform
 gases
-gibbosities
 gelosie
 gangrenes
 gigartina
@@ -6877,6 +6876,7 @@ genitival
 geed
 gaposises
 goniatitic
+gibbosities
 grainman
 garroting
 goshen
