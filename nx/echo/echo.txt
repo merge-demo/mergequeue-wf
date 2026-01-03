@@ -8613,7 +8613,6 @@ encompassing
 epigrammatism
 electroengraving
 egall
-ergatomorph
 equidimensional
 equidist
 exrx
@@ -11316,6 +11315,7 @@ emblemology
 enjamb
 englad
 ectocarpus
+ergatomorph
 episcoparian
 epoche
 excoriator
