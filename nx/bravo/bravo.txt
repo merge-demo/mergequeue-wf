@@ -13787,6 +13787,7 @@ besmudging
 boutonnieres
 boutons
 balister
+billback
 barrelful
 bouw
 butle
@@ -13952,7 +13953,6 @@ bowshots
 boomkins
 bombarder
 backstopped
-billback
 brushoffs
 bowstring
 burial
