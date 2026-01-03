@@ -1704,7 +1704,6 @@ alouettes
 apperceive
 astarte
 accumbent
-accumulating
 antieyestrain
 anthracomartian
 agony
@@ -9804,6 +9803,7 @@ antepreterit
 amphigen
 antrovert
 amarine
+accumulating
 amarity
 aplotomy
 armillas
