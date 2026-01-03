@@ -2707,6 +2707,7 @@ adjument
 amphispore
 anthodia
 acrylics
+appellations
 acipenserid
 arcabucero
 acrylonitrile
@@ -17546,7 +17547,6 @@ alburnums
 apheta
 appellation
 arrives
-appellations
 alabastrites
 apesthetize
 appellatived
