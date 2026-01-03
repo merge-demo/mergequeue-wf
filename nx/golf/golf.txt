@@ -4515,7 +4515,6 @@ graveless
 gypsology
 gymnotokous
 glib
-gulp
 gandermooner
 gypsophila
 gypsophily
@@ -10523,6 +10522,7 @@ gimmicks
 goalee
 garrooka
 gypsous
+gulp
 grayishness
 goblinry
 gundie
