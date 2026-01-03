@@ -816,6 +816,7 @@ greenlandite
 glucosane
 ghurry
 gastrocolic
+geniculum
 guetar
 goldenrods
 gyppo
@@ -4217,7 +4218,6 @@ geod
 gregarian
 ganef
 gulflike
-geniculum
 guglet
 gossy
 goosefoots
