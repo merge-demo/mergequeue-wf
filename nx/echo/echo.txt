@@ -2033,7 +2033,6 @@ elixate
 elabrate
 epirrhematic
 epigaea
-epitrophy
 encurl
 exophasia
 elytrigerous
@@ -3206,6 +3205,7 @@ ectotropic
 epidermidalization
 exocoelom
 eunuchal
+epitrophy
 epigonousepigons
 entheasm
 euphenics
