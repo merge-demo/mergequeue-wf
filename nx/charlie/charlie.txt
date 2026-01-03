@@ -6175,7 +6175,6 @@ cretinistic
 cervicovesical
 consubsist
 cryptocarya
-cowpea
 chromophobe
 copernicans
 celiotomy
@@ -20821,6 +20820,7 @@ complutensian
 cheiropodist
 cartelized
 compo
+cowpea
 counterstream
 configurational
 compoed
