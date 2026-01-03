@@ -3667,7 +3667,6 @@ eudaemonize
 elatinaceous
 estimators
 elaeocarpaceous
-exurb
 ecocidal
 epitrachelion
 embread
@@ -12064,6 +12063,7 @@ endemisms
 emplume
 excreta
 escheator
+exurb
 educationalism
 engulfs
 edentates
