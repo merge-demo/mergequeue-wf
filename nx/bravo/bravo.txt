@@ -946,6 +946,7 @@ bungaloid
 brownout
 bustier
 bagwork
+birmingham
 baker
 bahadur
 beverage
@@ -12002,7 +12003,6 @@ bogyism
 bogyman
 broncobusters
 bandagers
-birmingham
 bbls
 brothelry
 bostons
