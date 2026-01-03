@@ -53,6 +53,7 @@ bish
 bundocks
 babbly
 befrogged
+bartram
 brushable
 babbit
 botrytises
@@ -4836,7 +4837,6 @@ boundedly
 brephic
 beautiless
 broadwise
-bartram
 bedswerver
 branchiurous
 bedtime
