@@ -3607,6 +3607,7 @@ deprecatorily
 dangle
 degenerately
 demagogic
+deftness
 degenerateness
 degenerescence
 diammonium
@@ -8775,7 +8776,6 @@ depeter
 demiking
 dragonkind
 diestruses
-deftness
 disparagement
 dj
 diazohydroxide
