@@ -2396,7 +2396,6 @@ disownment
 disguisements
 diplontic
 dismantlement
-dayakker
 deciduity
 daver
 discommendable
@@ -8651,6 +8650,7 @@ discoast
 diaspidine
 dots
 denominations
+dayakker
 dwt
 droumy
 downweigh
