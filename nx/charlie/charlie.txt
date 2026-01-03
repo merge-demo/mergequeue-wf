@@ -3561,7 +3561,6 @@ captaincies
 caprioled
 captainry
 captainship
-counterpetition
 communistically
 chaotically
 chemicked
@@ -14257,6 +14256,7 @@ circumferential
 circumferentially
 circinately
 cawnie
+counterpetition
 circumfluence
 catline
 cytinaceae
