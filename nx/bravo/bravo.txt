@@ -5149,7 +5149,6 @@ boedromion
 befools
 bridgeport
 budworm
-before
 biotic
 boomorah
 broadside
@@ -8184,6 +8183,7 @@ ballonet
 beardie
 bailouts
 brontophobia
+before
 bash
 banishes
 buffalos
