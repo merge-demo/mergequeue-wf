@@ -5285,7 +5285,6 @@ glaucophane
 garish
 galoubet
 gammers
-glooming
 gledes
 geophilus
 guarea
@@ -7166,6 +7165,7 @@ gaffs
 gauming
 gross
 guaiacs
+glooming
 glycolylurea
 genecor
 gorgia
