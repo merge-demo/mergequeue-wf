@@ -2711,7 +2711,6 @@ beblood
 butein
 bottomries
 bienne
-batch
 beadflush
 bemaul
 barnman
@@ -17638,6 +17637,7 @@ bullfighting
 burgomastership
 burgundy
 bishareen
+batch
 burhel
 bombic
 bisson

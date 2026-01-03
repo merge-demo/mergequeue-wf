@@ -9257,7 +9257,6 @@ chastest
 censurers
 ceduous
 chastiment
-chastise
 clapperboard
 cheering
 corf
@@ -14530,6 +14529,7 @@ cise
 cyclose
 comprisable
 checkrail
+chastise
 cephaloplegic
 cyriological
 courante
