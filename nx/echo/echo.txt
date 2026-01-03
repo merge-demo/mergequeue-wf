@@ -8153,7 +8153,6 @@ enhances
 exhumator
 episclera
 ell
-esconson
 encasement
 expensilation
 ensanguined
@@ -9375,6 +9374,7 @@ esbatement
 exercite
 enlock
 ectomorphic
+esconson
 exolution
 emotionally
 emane
