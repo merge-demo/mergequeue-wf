@@ -15186,6 +15186,7 @@ cyder
 cladoselachian
 coleosporiaceae
 colyba
+chlore
 cladus
 claes
 criminosis
@@ -26333,7 +26334,6 @@ choleromania
 costs
 caddices
 chevrone
-chlore
 commendam
 coccygomorphic
 cystin
