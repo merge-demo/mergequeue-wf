@@ -3414,7 +3414,6 @@ bedote
 bulletmaker
 bastardism
 blather
-bastardized
 bastardizes
 bastardliness
 birimose
@@ -18385,6 +18384,7 @@ betweenmaid
 betwattled
 blurbs
 buzzier
+bastardized
 burghermaster
 bilinite
 budwood
