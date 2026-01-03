@@ -5449,7 +5449,6 @@ fortifiable
 finnip
 fleecy
 forager
-fashion
 frolickly
 forseek
 fitchery
@@ -10689,6 +10688,7 @@ fairstead
 fruitstalk
 fg
 foreset
+fashion
 foresheets
 fulgourous
 fleuretty
