@@ -13445,7 +13445,6 @@ brushing
 bartisans
 bulgier
 birles
-botryllus
 breadbox
 bucketer
 brachyceral
@@ -15478,6 +15477,7 @@ brilliant
 beheading
 bewigged
 beiges
+botryllus
 bejesus
 boba
 brusker
