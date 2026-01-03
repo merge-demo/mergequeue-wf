@@ -1620,7 +1620,6 @@ balloen
 bewray
 ballone
 bullbird
-ballones
 brasier
 boiguacu
 ballonne
@@ -11443,6 +11442,7 @@ blears
 browbands
 blued
 basisolute
+ballones
 bluefin
 blaseness
 belonosphaerite
