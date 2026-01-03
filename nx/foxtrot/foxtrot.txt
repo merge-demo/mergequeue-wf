@@ -5389,7 +5389,6 @@ forepeaks
 freyalite
 flutists
 fireburn
-fleche
 forelady
 folliculate
 forkhead
@@ -6399,6 +6398,7 @@ fricasseing
 faence
 forefoot
 fronture
+fleche
 frough
 furry
 fafnir
