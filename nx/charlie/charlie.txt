@@ -11641,7 +11641,6 @@ cholecystogram
 cholecystography
 cholecystokinin
 cholecystolithiasis
-cholecystostomy
 cholecystotomy
 choledochal
 culpability
@@ -20972,6 +20971,7 @@ celebes
 compromise
 crowflower
 clistothecia
+cholecystostomy
 comminister
 chessel
 cuticle
