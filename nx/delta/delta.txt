@@ -5186,7 +5186,6 @@ denitrifier
 denizenation
 diquats
 drumbler
-dis
 derogations
 demicoronal
 dryopes
@@ -15271,6 +15270,7 @@ disbursal
 demipriest
 depressanth
 dogsleep
+dis
 derotremate
 dumontite
 domicile
