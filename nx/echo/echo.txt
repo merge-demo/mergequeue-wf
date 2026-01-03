@@ -464,6 +464,7 @@ ec
 ecardines
 extravagate
 encasing
+enterocoele
 everywhere
 ernest
 ecballium
@@ -11714,7 +11715,6 @@ extrafascicular
 enfolding
 eventualities
 explanator
-enterocoele
 endocarditis
 enforcive
 extendlessness

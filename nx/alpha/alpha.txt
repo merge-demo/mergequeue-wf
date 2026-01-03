@@ -19351,7 +19351,6 @@ arest
 agria
 aretaics
 arete
-automatist
 alkaliferous
 abluent
 alk
@@ -23045,6 +23044,7 @@ att
 attacca
 adjuring
 absences
+automatist
 amphibolite
 antiperistaltic
 attempt
