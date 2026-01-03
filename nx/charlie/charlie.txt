@@ -5640,7 +5640,6 @@ catallactic
 coalbins
 contortion
 catallum
-cladocerans
 catalo
 cataloes
 cataloged
@@ -9936,6 +9935,7 @@ coteller
 chapelgoer
 chemoreceptor
 cryptographers
+cladocerans
 crystallisation
 chemoreflex
 contrabassoon
