@@ -11801,6 +11801,7 @@ adendric
 albescent
 alconde
 analogousness
+anthem
 analogue
 analphabete
 angelus
@@ -14227,7 +14228,6 @@ archetypal
 agnosias
 atomity
 archaeomagnetism
-anthem
 anthemas
 abscissin
 anthemata
