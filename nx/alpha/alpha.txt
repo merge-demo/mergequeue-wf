@@ -8636,7 +8636,6 @@ andrite
 adjoins
 argyrythrose
 anoxidative
-allocution
 anemology
 alleleu
 allelic
@@ -11496,6 +11495,7 @@ aper
 appositions
 adenophyllous
 aulas
+allocution
 arenoid
 anabolism
 ammophilous
