@@ -4867,7 +4867,6 @@ fady
 fixes
 flong
 firmhearted
-ferrimagnetism
 flightiest
 finial
 frondiferous
@@ -6223,6 +6222,7 @@ frumpishness
 fluctuating
 fucused
 fluctuational
+ferrimagnetism
 factioneer
 fluegelhorn
 febriferous
