@@ -3626,6 +3626,7 @@ forebitter
 facticide
 fretsaws
 filigrained
+fret
 fiftieths
 fibrillar
 freshed
@@ -10403,7 +10404,6 @@ fungite
 flusterment
 fibroplasia
 fonctionnaire
-fret
 fluther
 forgivers
 fecundities
