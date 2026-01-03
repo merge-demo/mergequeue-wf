@@ -1393,7 +1393,6 @@ exomis
 evasional
 ebcdic
 expletive
-excludability
 enopla
 exemplupla
 eucalyptol
@@ -3350,6 +3349,7 @@ euphorias
 explanatoriness
 evectic
 emanatist
+excludability
 epical
 erupt
 enwreath
