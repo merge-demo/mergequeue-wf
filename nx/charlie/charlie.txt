@@ -6962,7 +6962,6 @@ curiousnesses
 chrome
 clysterize
 caecostomy
-cement
 chochos
 cleithrum
 cranage
@@ -17823,6 +17822,7 @@ codal
 chalaza
 coindwelling
 categorisation
+cement
 cardiography
 codas
 cardialgic
