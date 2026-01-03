@@ -2279,6 +2279,7 @@ flotation
 fistulizing
 fenestrae
 fenestrated
+fulcrumed
 feminizing
 fanglement
 fistulana
@@ -4454,7 +4455,6 @@ fairkeeper
 fishplate
 feste
 fate
-fulcrumed
 fishpole
 fishpoles
 fimbrillae
