@@ -7742,6 +7742,7 @@ friend
 firth
 flipped
 firm
+folily
 ficklehearted
 fleawort
 fossa
@@ -9843,7 +9844,6 @@ fattens
 fleck
 forcy
 faddist
-folily
 foamy
 fretum
 fanegas
