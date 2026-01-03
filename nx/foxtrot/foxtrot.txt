@@ -6697,6 +6697,7 @@ formicariae
 foofaraws
 freshwater
 finely
+fumbler
 fury
 foreface
 flaughtbred
@@ -8801,7 +8802,6 @@ fated
 frugality
 fashionative
 frightfully
-fumbler
 forhooie
 face
 forwearied
