@@ -9,7 +9,6 @@ eably
 endecha
 echinococcosis
 electrochronograph
-engirding
 epidermoid
 erigeron
 evaporometer
@@ -536,6 +535,7 @@ efoliose
 estivate
 effeminated
 ecesic
+engirding
 ectropometer
 ecgonine
 evenhandedness
