@@ -9727,7 +9727,6 @@ amperage
 amalgamization
 anaphase
 attainor
-amalic
 argosine
 aircrews
 audacity
@@ -19808,6 +19807,7 @@ affeerment
 attachable
 armangite
 adularia
+amalic
 auriculars
 adaptivity
 armariumaria
