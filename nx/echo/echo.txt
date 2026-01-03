@@ -3247,7 +3247,6 @@ everything
 extruding
 embioptera
 efficaciousness
-estruate
 emotionalize
 errability
 epiparasite
@@ -12941,6 +12940,7 @@ endotherm
 epistemophilia
 ecologist
 entotic
+estruate
 epitonion
 empurple
 enchafe
