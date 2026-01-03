@@ -8920,7 +8920,6 @@ cognizableness
 characterization
 characterizing
 characterless
-characterlessness
 characterology
 coffle
 crosshead
@@ -30410,6 +30409,7 @@ conservatories
 crutch
 crutched
 crutching
+characterlessness
 crutter
 cowhands
 crabhole
