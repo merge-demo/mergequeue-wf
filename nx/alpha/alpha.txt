@@ -9474,7 +9474,6 @@ alonzo
 althorn
 alticamelus
 apagoge
-altify
 apocalyptically
 aprosopous
 aerosteam
@@ -22402,6 +22401,7 @@ augites
 ariolate
 aspidiotus
 acromegalic
+altify
 ailurophobic
 assonia
 astrolabe
