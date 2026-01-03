@@ -612,6 +612,7 @@ embargoes
 echoism
 epigeal
 enhydros
+embolo
 energism
 echometer
 echopractic
@@ -13809,7 +13810,6 @@ elating
 extracarpal
 extratropical
 extracerebral
-embolo
 elucidative
 effervescingly
 electrophilic
