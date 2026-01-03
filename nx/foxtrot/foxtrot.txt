@@ -2343,7 +2343,6 @@ frapped
 falconiformes
 frogling
 feudist
-fibrocrystalline
 freeloving
 fenchol
 futures
@@ -8454,6 +8453,7 @@ fidelia
 fescues
 fasels
 fluorinating
+fibrocrystalline
 freethinking
 fulminous
 fuliginousness
