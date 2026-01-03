@@ -10168,6 +10168,7 @@ feasibility
 falchions
 forjudges
 fricatives
+furcule
 frivolousness
 foray
 fertilizational
@@ -11456,7 +11457,6 @@ fistinut
 fideles
 flic
 frayedly
-furcule
 flaffer
 furfurylidene
 furrowing
