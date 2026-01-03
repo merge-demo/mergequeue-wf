@@ -7259,6 +7259,7 @@ centrifugaller
 cladoceran
 centrifugate
 centrifuge
+columbaries
 centrifugence
 centrifuging
 coffeehousing
@@ -19573,7 +19574,6 @@ czar
 chlorazide
 capabilities
 columbaria
-columbaries
 columbate
 columbeion
 climath
