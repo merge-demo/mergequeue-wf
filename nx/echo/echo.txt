@@ -1593,6 +1593,7 @@ encampment
 envigor
 exogeny
 exaggeratedness
+essenis
 emball
 euosmite
 enterokinetic
@@ -4914,7 +4915,6 @@ empoisons
 ebulliometer
 exoperidium
 ecchymoses
-essenis
 exies
 etherealized
 electrodialyzer
