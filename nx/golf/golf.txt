@@ -2619,7 +2619,6 @@ glottis
 gogmagog
 grittle
 gawcey
-gemmification
 goblinish
 glaucine
 glamourization
@@ -9384,6 +9383,7 @@ gurly
 germanhood
 germigenous
 grannyknot
+gemmification
 gaolerness
 garnishry
 gloved
