@@ -3056,6 +3056,7 @@ bdellostomatidae
 baruria
 barvel
 baleful
+baton
 byeworker
 beduin
 brainwashing
@@ -11811,7 +11812,6 @@ besmoothed
 barnful
 br
 billingsgate
-baton
 buckwheat
 bocasin
 bookshops
