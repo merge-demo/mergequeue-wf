@@ -7737,7 +7737,6 @@ ephebic
 enforcer
 execrably
 epipleurae
-etiological
 ephapse
 everyness
 erythraea
@@ -8122,6 +8121,7 @@ encover
 extrasyphilitic
 expressable
 enteromere
+etiological
 epiplasmic
 epiplectic
 ethnological
