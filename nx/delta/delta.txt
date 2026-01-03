@@ -2148,7 +2148,6 @@ demonianism
 detectors
 diabolology
 diphosphoric
-downtime
 disturbs
 decantist
 decaffeinated
@@ -17248,6 +17247,7 @@ depreciative
 degausses
 dishable
 desulphurated
+downtime
 declarators
 debt
 disseizee
