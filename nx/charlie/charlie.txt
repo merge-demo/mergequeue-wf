@@ -3570,6 +3570,7 @@ concordat
 captandum
 captate
 colation
+cognoscibility
 captation
 caption
 captioned
@@ -24887,7 +24888,6 @@ curbash
 coracomorphae
 chrysopoeia
 coracoprocoracoid
-cognoscibility
 crepitation
 coracoradialis
 cheilion
