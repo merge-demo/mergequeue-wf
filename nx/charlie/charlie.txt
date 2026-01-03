@@ -8303,7 +8303,6 @@ chalcidoid
 conocarp
 cadalene
 compotatory
-christianomastix
 chalcogen
 chalcogenide
 coenaculum
@@ -18207,6 +18206,7 @@ coercers
 coercible
 coercionary
 coercitive
+christianomastix
 coercive
 campaigners
 coerciveness
