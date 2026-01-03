@@ -2729,7 +2729,6 @@ geodesic
 glamours
 gasolenes
 granularity
-gingers
 genip
 gilbertese
 genyplasty
@@ -5707,6 +5706,7 @@ gomavel
 glossies
 glossiest
 gybed
+gingers
 glossinas
 gertrude
 gilbertine
