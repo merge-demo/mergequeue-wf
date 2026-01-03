@@ -7872,6 +7872,7 @@ bels
 benamed
 biblicality
 biblicopsychological
+blemmatrope
 biblike
 berinse
 burn
@@ -10132,7 +10133,6 @@ bludgeoneer
 beamish
 blackamoors
 blair
-blemmatrope
 blackbine
 bovine
 befrets
