@@ -1639,7 +1639,6 @@ foraneen
 four
 fdnames
 forthcut
-fluible
 flamboyantly
 focally
 fice
@@ -2876,6 +2875,7 @@ featuring
 feudalists
 fractionising
 freetrader
+fluible
 fomentations
 fulham
 foregahger
