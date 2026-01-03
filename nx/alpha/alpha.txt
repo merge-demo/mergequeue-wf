@@ -15465,7 +15465,6 @@ antiministerial
 antiministerially
 aiming
 anandria
-affluentness
 anywhere
 alaudidae
 antimission
@@ -22384,6 +22383,7 @@ astrogeologist
 ariadne
 anniversaries
 astroglia
+affluentness
 actify
 arcturia
 ananas
