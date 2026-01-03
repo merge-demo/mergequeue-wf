@@ -5075,7 +5075,6 @@ eyelid
 editorialized
 endoaortitis
 endoappendicitis
-expo
 entoolitic
 economization
 emerited
@@ -11692,6 +11691,7 @@ endoubt
 eccentricity
 epididymectomy
 emundation
+expo
 ethanim
 exaggeratingly
 exoascus
