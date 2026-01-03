@@ -3704,6 +3704,7 @@ beseen
 battings
 battledores
 bywork
+bloops
 barotraumata
 bronteon
 bornean
@@ -11227,7 +11228,6 @@ bicyclists
 brooching
 burgraviate
 boththridia
-bloops
 begumming
 blooth
 blosmy
