@@ -5751,6 +5751,7 @@ bursula
 bood
 biarticular
 bylining
+baldrick
 belage
 bellboys
 belay
@@ -14903,7 +14904,6 @@ breadmaker
 breadman
 breadness
 brogueneer
-baldrick
 breadroot
 brevicaudate
 bowboy
