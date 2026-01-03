@@ -5247,6 +5247,7 @@ guardianships
 girouette
 gleys
 grindery
+gedds
 grissons
 gloamings
 gaited
@@ -5877,7 +5878,6 @@ glycosidase
 genuflected
 gawney
 gipsyweed
-gedds
 glances
 glucoside
 goshawk
