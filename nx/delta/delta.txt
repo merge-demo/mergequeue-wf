@@ -3601,7 +3601,6 @@ dinosauric
 dinornithiformes
 degenerate
 desulphurizer
-diagrammatize
 diodont
 deprecatorily
 dangle
@@ -4595,6 +4594,7 @@ deflea
 demonastery
 donn
 depose
+diagrammatize
 dinic
 demisang
 dulcite
