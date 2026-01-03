@@ -8736,7 +8736,6 @@ chabazite
 chantry
 chanukah
 chaology
-chaori
 cartloads
 campholide
 credibilities
@@ -18320,6 +18319,7 @@ consoled
 chalcographer
 coffinmaking
 civicism
+chaori
 chewer
 coffins
 coffled
