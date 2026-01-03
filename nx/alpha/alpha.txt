@@ -4958,7 +4958,6 @@ aeronautical
 aeronomer
 amyliferous
 aumil
-aeronomical
 anisogametic
 aeronomics
 anthropopathia
@@ -21598,6 +21597,7 @@ automolite
 alkyl
 araneologist
 allegement
+aeronomical
 antiphonaries
 angary
 allegorist

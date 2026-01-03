@@ -5504,7 +5504,6 @@ friseurs
 fossed
 fluoarsenate
 funkier
-fretwork
 forbarred
 fratching
 fleshy
@@ -10933,6 +10932,7 @@ fub
 foehn
 formamidine
 flexure
+fretwork
 fetal
 floorage
 fack
