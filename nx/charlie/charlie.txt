@@ -575,7 +575,6 @@ colourlessly
 cadmia
 cadmic
 cateran
-convito
 cadmium
 crabsidle
 cadmiumize
@@ -27522,6 +27521,7 @@ coverable
 coverages
 cuselite
 coverall
+convito
 coveralled
 coveralls
 coils
