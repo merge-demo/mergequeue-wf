@@ -1866,6 +1866,7 @@ banderole
 bindings
 brigading
 banders
+brawlsome
 broadlings
 befogging
 barkinji
@@ -14813,7 +14814,6 @@ bravuras
 begorrah
 buncal
 bercelet
-brawlsome
 brawnedness
 bilamellated
 biaxillary
