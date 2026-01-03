@@ -1239,7 +1239,6 @@ fassalite
 fastbacks
 frigor
 faradism
-fastening
 frocked
 futteret
 frisbee
@@ -5212,6 +5211,7 @@ formylating
 fictionising
 flinders
 flautino
+fastening
 faithfulness
 fisherman
 foulmouthedness
