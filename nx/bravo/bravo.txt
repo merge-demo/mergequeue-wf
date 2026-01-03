@@ -3364,6 +3364,7 @@ brans
 bassa
 balaenicipites
 basiphobia
+brew
 beefily
 besilver
 buccheros
@@ -7462,7 +7463,6 @@ bettermost
 bedeviling
 bebeerine
 bifidities
-brew
 barbeau
 bookstack
 budgeting
