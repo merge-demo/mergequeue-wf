@@ -6577,7 +6577,6 @@ beetlers
 bacharach
 bukh
 bodyplate
-beant
 bereaves
 boninesses
 besotter
@@ -18203,6 +18202,7 @@ bodyguards
 bulks
 bohereen
 backwoodsy
+beant
 backdated
 bibliothecary
 busycon
