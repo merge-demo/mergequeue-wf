@@ -211,6 +211,7 @@ gags
 gonoecium
 guarder
 gradefinder
+gunsling
 gratiano
 gelasimus
 grandsir
@@ -8473,7 +8474,6 @@ goldbricks
 glaciarium
 gushily
 goonch
-gunsling
 gratuitant
 glossograph
 grenatite
