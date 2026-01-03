@@ -8152,6 +8152,7 @@ carryalls
 chaffinch
 caressable
 climatical
+coronopus
 camelion
 chaffman
 culicines
@@ -25552,7 +25553,6 @@ coronofrontal
 catenates
 crenelation
 canvasman
-coronopus
 colcine
 coperception
 coroplasta
