@@ -4089,7 +4089,6 @@ eremian
 endsheet
 enquire
 elve
-eucrasy
 eutherian
 ethylbenzene
 euthymy
@@ -12962,6 +12961,7 @@ etherous
 enures
 evanition
 epicentrums
+eucrasy
 eclosions
 equanimously
 expecter
