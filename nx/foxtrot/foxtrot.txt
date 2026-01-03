@@ -5964,6 +5964,7 @@ frightening
 floodlit
 fibromembrane
 floods
+furiosa
 foisons
 fisk
 filleter
@@ -6473,7 +6474,6 @@ forsar
 flurn
 flurried
 fernbird
-furiosa
 footage
 fumagine
 fenestellidae
