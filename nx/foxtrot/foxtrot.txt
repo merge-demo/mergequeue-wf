@@ -5069,6 +5069,7 @@ fowler
 fitches
 frigatoon
 fluorescence
+forevalue
 ferrels
 faky
 flapping
@@ -7463,7 +7464,6 @@ faience
 fossilological
 firefall
 floperoo
-forevalue
 firstship
 forcibility
 forcibleness

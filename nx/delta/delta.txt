@@ -7091,6 +7091,7 @@ disorient
 desto
 disvalues
 darted
+diallists
 damselfish
 destour
 demonial
@@ -9538,7 +9539,6 @@ disenchantment
 desinence
 diglottist
 duumvir
-diallists
 disgruntled
 dischargers
 dignifiedly
