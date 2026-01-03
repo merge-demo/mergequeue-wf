@@ -6245,7 +6245,6 @@ enterclose
 execs
 ellipsoid
 erasure
-exodist
 enophthalmus
 enorm
 encoders
@@ -9750,6 +9749,7 @@ endocrinous
 eddo
 emerick
 enneahedron
+exodist
 epileptiform
 euhedral
 ectogenesis
