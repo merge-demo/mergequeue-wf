@@ -8814,6 +8814,7 @@ bedwarmer
 bindingness
 breakfasted
 bekissing
+bullboat
 basoche
 bual
 brewer
@@ -17096,7 +17097,6 @@ barrelling
 braggadocios
 bitake
 baluga
-bullboat
 babylonite
 bullcomber
 bucentaur
