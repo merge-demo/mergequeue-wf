@@ -1564,7 +1564,6 @@ galliardise
 grassless
 geothermally
 gassed
-gypsumed
 grana
 gregarinida
 glaciologist
@@ -5783,6 +5782,7 @@ goosecap
 groovers
 gonidic
 gangways
+gypsumed
 goofiest
 garlicky
 gumhar
