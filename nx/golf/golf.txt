@@ -3968,7 +3968,6 @@ gleeting
 garrisons
 gipsy
 gynaecocratic
-geneal
 gutser
 garote
 galagos
@@ -4107,6 +4106,7 @@ groining
 gletscher
 grifted
 gastrectomies
+geneal
 germanical
 gimcrack
 gleaned
