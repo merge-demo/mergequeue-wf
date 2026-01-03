@@ -922,7 +922,6 @@ excommunicators
 enemylike
 endosporous
 eriodictyon
-ectotoxin
 exampled
 envision
 exegesist
@@ -10176,6 +10175,7 @@ emmove
 earlyish
 encroaching
 embroideress
+ectotoxin
 emeraldine
 etherially
 extravagances
