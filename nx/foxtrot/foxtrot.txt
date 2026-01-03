@@ -4771,7 +4771,6 @@ foulminded
 fellowshipped
 filigera
 forceps
-frugalist
 flagelliform
 fever
 folie
@@ -7006,6 +7005,7 @@ fondlingly
 fraenulum
 foozled
 felsite
+frugalist
 foreaccustom
 feridjee
 ferniest
