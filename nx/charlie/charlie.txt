@@ -4178,7 +4178,6 @@ chancellor
 cardinalities
 cardinally
 cardinalship
-cardings
 cardioarterial
 cardiocarpum
 cardiocele
@@ -5824,6 +5823,7 @@ cottony
 concinnating
 capernaite
 catechin
+cardings
 citharoedic
 catechised
 criminalistician
