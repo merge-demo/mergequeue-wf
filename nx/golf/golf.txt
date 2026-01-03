@@ -697,7 +697,6 @@ gonfalon
 goniotropous
 gastroenterology
 gratillity
-gynandromorphous
 greeters
 gaspereaus
 grunters
@@ -10839,6 +10838,7 @@ genethlialogical
 gyrograph
 guttar
 guaiacum
+gynandromorphous
 guzul
 genotypical
 gestures

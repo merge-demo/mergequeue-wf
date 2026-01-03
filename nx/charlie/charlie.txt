@@ -7159,7 +7159,6 @@ coquetoon
 cannikin
 confluences
 centigrams
-centile
 cendre
 catamited
 clamation
@@ -24299,6 +24298,7 @@ ceanothus
 creeks
 chiropter
 cowbird
+centile
 coseier
 cooboos
 chiogenes
