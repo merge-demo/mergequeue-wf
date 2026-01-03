@@ -8800,6 +8800,7 @@ greensickness
 greenstone
 gimballing
 geographized
+gunny
 golems
 greenswarded
 greenware
@@ -10772,7 +10773,6 @@ gibblegable
 glycyl
 gutt
 galericulate
-gunny
 gerenuk
 gung
 genialness
