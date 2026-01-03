@@ -10430,7 +10430,6 @@ flyspecked
 fermacy
 firstling
 forcaria
-fertilizer
 filesmith
 feudalistic
 fossified
@@ -11731,6 +11730,7 @@ fratority
 figurational
 futurologist
 footroom
+fertilizer
 fluorinations
 funebrous
 filibustered
