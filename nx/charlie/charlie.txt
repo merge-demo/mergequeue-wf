@@ -4497,6 +4497,7 @@ carked
 corallic
 coacts
 canarin
+catabolite
 carl
 coprincipate
 caseates
@@ -5541,7 +5542,6 @@ catabolin
 caustified
 carduaceous
 catabolism
-catabolite
 catabolized
 cariousness
 claim
