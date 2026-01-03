@@ -1268,7 +1268,6 @@ diazoic
 denari
 demitasses
 datives
-deplane
 desmids
 dossil
 dermoptera
@@ -15659,6 +15658,7 @@ dowieism
 diactinic
 didascaliae
 diobely
+deplane
 dracunculus
 devilishly
 doozies
