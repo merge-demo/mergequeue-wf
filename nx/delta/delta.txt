@@ -3260,7 +3260,6 @@ dominie
 departs
 defibrillated
 dominants
-dimplement
 dalles
 displease
 doty
@@ -11603,6 +11602,7 @@ datasets
 dispeopling
 demophobe
 digester
+dimplement
 dunkle
 dysoxidizable
 divulgator
