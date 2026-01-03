@@ -5550,7 +5550,6 @@ fw
 foamily
 foreordain
 flatterable
-foregone
 flagon
 fol
 forgettery
@@ -5587,6 +5586,7 @@ fader
 floweret
 flycatchers
 flicflac
+foregone
 figureheads
 flintiness
 forgetfulness
