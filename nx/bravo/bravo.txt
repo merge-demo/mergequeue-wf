@@ -1441,7 +1441,6 @@ baleise
 bougainvillaea
 biporose
 bombastically
-balestra
 batoneer
 bouffants
 bedazzled
@@ -8850,6 +8849,7 @@ battel
 bepill
 binocularly
 binoculars
+balestra
 binodose
 buckbean
 bari

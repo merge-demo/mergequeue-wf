@@ -5078,7 +5078,6 @@ dafla
 dendrocoelan
 dendrocoele
 dendrocolaptidae
-dendrocolaptine
 debtors
 dendroctonus
 dendroeca
@@ -6907,6 +6906,7 @@ doctrinism
 diplegia
 diarthroses
 dunamis
+dendrocolaptine
 dehydrogenating
 despairfully
 delphinid
