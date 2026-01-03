@@ -3119,6 +3119,7 @@ endarterium
 estriate
 entellus
 escar
+enterers
 et
 embeds
 emp
@@ -11198,7 +11199,6 @@ ethereal
 embourgeoisement
 evolvement
 everymen
-enterers
 evanesced
 evanescence
 encephalomalacosis

@@ -1547,7 +1547,6 @@ frundel
 fauvette
 flowcontrol
 fishbowl
-fauvism
 firebirds
 funk
 fause
@@ -9175,6 +9174,7 @@ foldboating
 frusta
 fooner
 fracid
+fauvism
 frizzier
 foreshadows
 frothi
