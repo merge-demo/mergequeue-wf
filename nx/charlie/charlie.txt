@@ -11078,7 +11078,6 @@ chirurgeonly
 chirurgery
 chis
 chiseled
-curuba
 chiseler
 cheapens
 chiselers
@@ -18811,6 +18810,7 @@ conodonts
 chaplet
 coleochaetaceous
 classifically
+curuba
 caravaned
 concentrical
 coleophoridae

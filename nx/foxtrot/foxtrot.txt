@@ -5425,6 +5425,7 @@ fleabiting
 fledgeling
 fiendhead
 foxfinger
+factionism
 fetis
 fragmentize
 forbled
@@ -6391,7 +6392,6 @@ fixup
 fluvio
 fluoresceine
 foppery
-factionism
 fragrantness
 floreal
 funiliform
