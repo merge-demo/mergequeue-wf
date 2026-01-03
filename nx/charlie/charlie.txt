@@ -13047,7 +13047,6 @@ cirrhopetalum
 conspirer
 cyanmethemoglobin
 calenturish
-cyano
 crystallogenesis
 cyanoacetate
 cobenignity
@@ -17062,6 +17061,7 @@ cnida
 cnemidium
 cnemis
 claudetites
+cyano
 cneorum
 cytotrophy
 cnicin

@@ -892,6 +892,7 @@ guily
 gymnophiona
 gangplank
 guerrilla
+glyoxime
 gerontomorphosis
 grillwork
 gotha
@@ -7369,7 +7370,6 @@ goodyship
 gliomas
 glessite
 griffon
-glyoxime
 generalizers
 gamotropism
 glimmerite
