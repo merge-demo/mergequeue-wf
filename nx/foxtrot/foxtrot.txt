@@ -3544,7 +3544,6 @@ filaricidal
 filariids
 flagellative
 foody
-foreloper
 folkvangr
 funding
 forboding
@@ -5956,6 +5955,7 @@ freehand
 feretories
 fishtailing
 freemartin
+foreloper
 floodlight
 furzes
 forleave
