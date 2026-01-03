@@ -966,6 +966,7 @@ cycloidei
 canelle
 calabrian
 calabrians
+celestially
 calabur
 changedness
 canalling
@@ -12636,7 +12637,6 @@ chronocrator
 chronogeneous
 combinedness
 chronogram
-celestially
 chronogrammatic
 chronogrammatically
 cheetah
