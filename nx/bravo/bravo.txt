@@ -706,7 +706,6 @@ berrendo
 badger
 breeches
 backyard
-bogwort
 badgerer
 booking
 banana
@@ -1605,6 +1604,7 @@ basalt
 brooder
 bootstrapping
 beclart
+bogwort
 bursati
 baudronses
 bilamellate
