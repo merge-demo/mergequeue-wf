@@ -2074,7 +2074,6 @@ corrections
 cropper
 capitalizer
 chicomecoatl
-cypresses
 cruelize
 colonial
 camoudie
@@ -28710,6 +28709,7 @@ casseroling
 captivators
 cocircularity
 clericity
+cypresses
 crepey
 chiru
 constringe
