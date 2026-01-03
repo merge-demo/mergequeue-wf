@@ -8165,6 +8165,7 @@ farmland
 foison
 fire
 footmenfootpad
+farcify
 flexo
 flatcaps
 favel
@@ -10823,7 +10824,6 @@ feff
 fibrohemorrhagic
 fimbricate
 flatnesses
-farcify
 festilogy
 flisk
 fuddler
