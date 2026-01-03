@@ -2412,6 +2412,7 @@ electroetching
 electrodeposition
 ebriosity
 edana
+exhibitable
 electrodes
 etherization
 electrodiagnosis
@@ -3626,7 +3627,6 @@ extracellularly
 excelsin
 emydes
 eventerate
-exhibitable
 entwined
 euclea
 entocarotid
