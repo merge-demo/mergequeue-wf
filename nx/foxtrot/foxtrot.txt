@@ -4408,7 +4408,6 @@ formulary
 familistery
 frenghi
 fraiser
-fei
 falsary
 fovent
 foals
@@ -11120,6 +11119,7 @@ fundamentalists
 flatbread
 fastland
 formality
+fei
 flusterating
 firecrackers
 fins
