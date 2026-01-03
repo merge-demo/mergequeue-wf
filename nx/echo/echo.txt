@@ -1955,7 +1955,6 @@ eluants
 eyeleted
 enabled
 echinulate
-estoppal
 eurypterid
 essenical
 enthelminthes
@@ -14081,6 +14080,7 @@ errantry
 entoplastral
 estranging
 epigastral
+estoppal
 equilibrative
 ebonize
 entwinement
