@@ -7075,7 +7075,6 @@ fribby
 fatalities
 flowk
 frase
-fortunel
 felones
 fetoplacental
 fumily
@@ -10710,6 +10709,7 @@ fantasizes
 figent
 fitfully
 fleckered
+fortunel
 faradays
 fartlek
 fortran
