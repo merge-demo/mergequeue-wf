@@ -4466,7 +4466,6 @@ generics
 giocoso
 gip
 gleba
-gladiatorship
 galloman
 gaultherine
 gipon
@@ -4954,6 +4953,7 @@ gorse
 glair
 glaire
 glosses
+gladiatorship
 gigger
 gradual
 growliness
