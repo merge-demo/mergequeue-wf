@@ -6655,7 +6655,6 @@ dyed
 deserved
 disesteemer
 dollmaker
-droplight
 decadianome
 dynast
 drawarm
@@ -14838,6 +14837,7 @@ decomponible
 doctorhood
 diethylenediamine
 doctorial
+droplight
 disadjust
 demidog
 doctorially
