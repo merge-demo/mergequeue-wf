@@ -10059,6 +10059,7 @@ allheals
 absinthe
 agamobium
 amorphous
+appetibility
 amboynas
 ambomalleal
 antenatus
@@ -21788,7 +21789,6 @@ agricolous
 acanaceous
 apparencies
 alloeotic
-appetibility
 allotriophagy
 auguries
 aenigma
