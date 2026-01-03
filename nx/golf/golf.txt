@@ -5602,7 +5602,6 @@ garuda
 ginks
 gravestone
 gunks
-governance
 goller
 giantesque
 grithbreach
@@ -5954,6 +5953,7 @@ gastrohydrorrhea
 grangerize
 gensengs
 geodesics
+governance
 gazogenes
 galactopathy
 ginkgoes
