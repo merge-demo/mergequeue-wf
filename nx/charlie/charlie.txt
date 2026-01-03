@@ -26919,7 +26919,6 @@ countermandable
 craniological
 contemner
 chirruping
-cushioniness
 certhiidae
 creedalist
 calibres
@@ -30649,6 +30648,7 @@ champagne
 coequation
 collenchymatic
 cuda
+cushioniness
 chimalakwe
 circumtabular
 chanelled
