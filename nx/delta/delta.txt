@@ -7491,6 +7491,7 @@ dehgan
 deuteranomaly
 deuteranope
 deuterate
+dubb
 deuteration
 desulfurized
 digitalizing
@@ -17689,7 +17690,6 @@ discommons
 destination
 delsarte
 dhauri
-dubb
 declamando
 deferentitis
 demidevil
