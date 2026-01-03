@@ -16648,7 +16648,6 @@ apertural
 affrighter
 antichorus
 antihumanism
-anaerobiosis
 alioth
 antimosquito
 ammochryse
@@ -24363,6 +24362,7 @@ amaroidal
 arises
 autorotation
 acceptor
+anaerobiosis
 ariocarpus
 atopen
 amylene
