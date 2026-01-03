@@ -8650,7 +8650,6 @@ equilibrant
 enframe
 electrodynamometer
 elinguating
-ectal
 equilibrates
 exonerators
 ethylamide
@@ -12900,6 +12899,7 @@ electroneutrality
 echea
 euryaleae
 engr
+ectal
 eosaurus
 elaterite
 enticingly
