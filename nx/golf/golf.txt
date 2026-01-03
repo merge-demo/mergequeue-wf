@@ -2314,6 +2314,7 @@ griskin
 gymnodiniaceae
 galidictis
 ganofs
+gigolo
 gaiassa
 gelant
 glyceric
@@ -7628,7 +7629,6 @@ globical
 grabhook
 grabouche
 gripsack
-gigolo
 gerenda
 garpike
 gametangium
