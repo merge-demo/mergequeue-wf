@@ -3676,6 +3676,7 @@ feistiest
 foysen
 floats
 firesider
+foreutter
 flannelboard
 folder
 fledgy
@@ -8183,7 +8184,6 @@ fossilology
 forecastleman
 fountful
 foreuse
-foreutter
 fumers
 flavoursome
 fairishness
