@@ -2055,7 +2055,6 @@ flocky
 foggara
 filibuster
 feudalisation
-famishes
 foremasthand
 fructidor
 fusibleness
@@ -3046,6 +3045,7 @@ fishtails
 fluffy
 flitter
 flakeboard
+famishes
 fossil
 foreboot
 fillmass
