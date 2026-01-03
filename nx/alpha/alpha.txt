@@ -7434,7 +7434,6 @@ arable
 agelong
 agma
 anchoress
-archivist
 albugines
 agnostical
 amban
@@ -19098,6 +19097,7 @@ anthocyanidin
 acetaminophen
 archpriestship
 acroataxia
+archivist
 archregent
 archrogue
 archruler
