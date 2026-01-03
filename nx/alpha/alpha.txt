@@ -1460,7 +1460,6 @@ alewhap
 acclimates
 arose
 acclimatisation
-archaisms
 amortize
 acclimatise
 autoclaving
@@ -21748,6 +21747,7 @@ architectonics
 abbroachment
 antiberiberin
 asseour
+archaisms
 assert
 asserta
 albanenses
