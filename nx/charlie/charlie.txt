@@ -116,6 +116,7 @@ cabezone
 coreometer
 cabful
 canephorus
+calesa
 cabildo
 cabildos
 chutzpadik
@@ -25262,7 +25263,6 @@ camachile
 choledochectomy
 corystoid
 corita
-calesa
 cephaldemae
 cyanoauric
 corium
