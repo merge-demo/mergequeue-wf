@@ -10433,7 +10433,6 @@ amidogen
 amidoguaiacol
 awabakal
 automacy
-apprentice
 attacks
 aromatites
 abusing
@@ -21165,6 +21164,7 @@ asemic
 asepses
 anagogical
 aerodynamically
+apprentice
 arginases
 atomicism
 aseptolin
