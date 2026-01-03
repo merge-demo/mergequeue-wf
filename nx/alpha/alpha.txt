@@ -4972,7 +4972,6 @@ aerope
 acinetae
 aeroperitoneum
 acaulous
-andorran
 alburnum
 animadverting
 almeidina
@@ -11939,6 +11938,7 @@ archibuteo
 aerocolpos
 auberges
 antique
+andorran
 almose
 anarchical
 anenergia
