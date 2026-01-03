@@ -4519,7 +4519,6 @@ enamelling
 esthesiophysiology
 elsewhat
 exterminator
-encephalomas
 enfiled
 escudo
 encephalomeningocele
@@ -9703,6 +9702,7 @@ essay
 epistomata
 erethism
 envapor
+encephalomas
 essayed
 extraorganismal
 exceptional
