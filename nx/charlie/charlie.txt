@@ -2138,7 +2138,6 @@ counterassertion
 ceilingward
 chieftaincies
 circumnuclear
-captivator
 campanular
 campanulariae
 campanularidae
@@ -28125,6 +28124,7 @@ craniography
 clovered
 cranioid
 checkable
+captivator
 craniology
 craniom
 custards

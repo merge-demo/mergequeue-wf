@@ -1354,6 +1354,7 @@ galvanist
 glomerulus
 galloner
 glorifier
+gunbarrel
 gervao
 gitalin
 garlion
@@ -9654,7 +9655,6 @@ grinders
 griddling
 gutless
 gopherman
-gunbarrel
 gleets
 grubstakes
 grewsomest
