@@ -2506,7 +2506,6 @@ billbugs
 bucchero
 bargaining
 bialys
-burian
 bhut
 barbarously
 bedark
@@ -11557,6 +11556,7 @@ bemurmurs
 blunged
 bourrasque
 blunger
+burian
 blunk
 berrypicker
 bridegrooms
