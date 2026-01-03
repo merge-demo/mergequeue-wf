@@ -5207,6 +5207,7 @@ eulogy
 echeloning
 enchanter
 expedition
+earwort
 endogenous
 enlistment
 electo
@@ -5538,7 +5539,6 @@ episporangium
 enfatico
 elasmosaur
 enfeeblements
-earwort
 exorcising
 experimenting
 exoterics
