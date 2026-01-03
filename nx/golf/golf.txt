@@ -2810,7 +2810,6 @@ glassie
 gelee
 gantlope
 graduals
-gyrencephala
 gurr
 gemeinde
 gotch
@@ -4049,6 +4048,7 @@ grounds
 genies
 gilds
 gildhall
+gyrencephala
 glandes
 gib
 grandness
