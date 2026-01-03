@@ -412,7 +412,6 @@ bibliophagic
 beamer
 bromocresol
 bromocamphor
-backpedal
 backpedaling
 backpiece
 bushwas
@@ -9835,6 +9834,7 @@ bromatology
 bocca
 bitable
 bytalks
+backpedal
 bitanhol
 bitartrate
 beneplacito

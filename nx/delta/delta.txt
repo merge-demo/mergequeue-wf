@@ -2598,6 +2598,7 @@ decoct
 drabbing
 demiquaver
 dashes
+diformin
 decoctive
 deaminizing
 demishirt
@@ -8556,7 +8557,6 @@ diaphony
 diaphysial
 diaphonic
 divertedly
-diformin
 denegation
 diaphonies
 diaphoreses
