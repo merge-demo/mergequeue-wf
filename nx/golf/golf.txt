@@ -1090,7 +1090,6 @@ graphicness
 gowdy
 goularo
 galilees
-genitives
 glossaries
 ganister
 giroflore
@@ -2376,6 +2375,7 @@ geniting
 germanies
 geotectonic
 gravitates
+genitives
 goggler
 ger
 gabon
