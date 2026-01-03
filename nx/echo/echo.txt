@@ -726,6 +726,7 @@ employing
 enspell
 equidistant
 estantion
+erythrozincite
 endotoxic
 eidently
 enode
@@ -6897,7 +6898,6 @@ entomologies
 eightballs
 eelskin
 ealdorman
-erythrozincite
 ermine
 exults
 earache
