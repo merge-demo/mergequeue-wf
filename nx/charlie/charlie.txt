@@ -20099,7 +20099,6 @@ cyanogen
 cutdown
 cavernicolous
 characterologist
-collectedness
 cretinous
 counterterm
 continence
@@ -29573,6 +29572,7 @@ conceptually
 computerlike
 croakers
 croaky
+collectedness
 combated
 cebine
 croakier
