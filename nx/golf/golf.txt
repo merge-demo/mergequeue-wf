@@ -4794,6 +4794,7 @@ genarch
 glossematics
 gunmaker
 glar
+gnarr
 gypsy
 givingness
 globes
@@ -5084,7 +5085,6 @@ graecizes
 gasts
 glued
 grisoutine
-gnarr
 glassies
 gillied
 grasni
