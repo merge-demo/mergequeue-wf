@@ -1512,6 +1512,7 @@ citigrade
 callat
 chiripa
 conchologist
+caritive
 callback
 closish
 conversus
@@ -4488,7 +4489,6 @@ campshedding
 conelrads
 caritative
 carity
-caritive
 circumfusion
 colubridae
 companionage
