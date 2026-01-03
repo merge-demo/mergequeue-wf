@@ -718,7 +718,6 @@ earthsets
 electrotrephine
 esocyclic
 ecology
-eromania
 encephalolith
 envisions
 ekes
@@ -7918,6 +7917,7 @@ endosarcode
 epileny
 extinguised
 endopeptidase
+eromania
 epithecal
 extensible
 exotospore
