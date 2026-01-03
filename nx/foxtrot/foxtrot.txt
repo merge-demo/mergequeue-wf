@@ -1240,7 +1240,6 @@ faradism
 fastening
 frocked
 futteret
-fama
 frisbee
 favella
 forevouch
@@ -4357,6 +4356,7 @@ fishboats
 fonduk
 fishbolts
 faqir
+fama
 fingerberry
 flechette
 funt
