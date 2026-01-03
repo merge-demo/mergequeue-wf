@@ -7198,7 +7198,6 @@ dattos
 disafforest
 dehiscence
 demultiplexing
-detainee
 detaining
 drawspring
 disinfecter
@@ -11590,6 +11589,7 @@ disconnector
 demicannon
 denotable
 dollarfish
+detainee
 devillike
 diphthongised
 dithering
