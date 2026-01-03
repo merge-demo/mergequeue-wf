@@ -1958,7 +1958,6 @@ complementalness
 consubstantiation
 carcinus
 cornule
-camelopards
 cotterite
 constant
 camelopardus
@@ -10913,6 +10912,7 @@ cometic
 chloralose
 canzoni
 chippies
+camelopards
 choledocholithiasis
 chippiest
 chipping
