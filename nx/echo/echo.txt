@@ -5050,7 +5050,6 @@ extraordinaries
 eclairs
 econometer
 encyclopediac
-entreasure
 encaenia
 endophragmal
 equaling
@@ -6789,6 +6788,7 @@ echidnae
 environmentally
 eyelids
 erythraemia
+entreasure
 emerit
 evacuation
 ediface
