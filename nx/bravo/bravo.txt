@@ -1051,6 +1051,7 @@ boroughmaster
 bailiwick
 bridler
 benzothiopyran
+battening
 blockhead
 brachycephalization
 brasswork
@@ -2635,7 +2636,6 @@ birdhouses
 botanise
 begirdle
 barkless
-battening
 benzofuroquinoxaline
 bescorch
 batrachite
