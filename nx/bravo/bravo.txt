@@ -1605,6 +1605,7 @@ beclart
 bogwort
 bursati
 baudronses
+bequeaths
 bilamellate
 ballo
 blumea
@@ -3804,7 +3805,6 @@ burgeoning
 baulked
 bearbane
 bookfair
-bequeaths
 bucerotes
 bewilderment
 behight
