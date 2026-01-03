@@ -3672,7 +3672,6 @@ geopony
 gladen
 guanylic
 granilla
-gld
 gossameriness
 grouching
 gedder
@@ -6550,6 +6549,7 @@ glutting
 greyskin
 guiders
 glandarious
+gld
 genesiac
 gpcd
 glaziest
