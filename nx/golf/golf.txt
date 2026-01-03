@@ -2397,6 +2397,7 @@ gentianal
 glassware
 geminates
 gote
+grinny
 gaulish
 gambadoes
 gobioidei
@@ -5820,7 +5821,6 @@ gurjara
 glowering
 gradients
 glows
-grinny
 geometrize
 gorgeable
 gaupus
