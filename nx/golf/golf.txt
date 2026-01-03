@@ -2821,7 +2821,6 @@ garblings
 gathers
 galvanometer
 gazettal
-grigris
 gormless
 glassophone
 glottalite
@@ -8689,6 +8688,7 @@ geyser
 glossless
 gateado
 gritty
+grigris
 gres
 galerum
 gawkishly
