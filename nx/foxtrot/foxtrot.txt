@@ -7154,7 +7154,6 @@ frowardly
 familarity
 flinchers
 footboard
-footboards
 frotteurs
 feckful
 friszka
@@ -11381,6 +11380,7 @@ fosters
 furnaces
 ferromagneticism
 flightily
+footboards
 flashlamp
 furnariides
 figurally
