@@ -9488,7 +9488,6 @@ footstone
 following
 fraternism
 fitfulness
-finesses
 faux
 furcae
 familial
@@ -11079,6 +11078,7 @@ frivoling
 fogproof
 freightment
 flense
+finesses
 fibrinoid
 fidessa
 forthfigured
