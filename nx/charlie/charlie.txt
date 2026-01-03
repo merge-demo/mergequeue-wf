@@ -1363,7 +1363,6 @@ cathartin
 cascabels
 calyciflorate
 contranatural
-caliciform
 calycinal
 calderium
 calicle
@@ -12171,6 +12170,7 @@ chowry
 chowries
 couchy
 chroatol
+caliciform
 chows
 causer
 crambo
