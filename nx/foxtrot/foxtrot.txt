@@ -3047,6 +3047,7 @@ fishtails
 fluffy
 flitter
 flakeboard
+fossil
 foreboot
 fillmass
 fibrinose
@@ -3926,7 +3927,6 @@ fimbria
 farcical
 falsettos
 feods
-fossil
 footsteps
 founders
 focalise
