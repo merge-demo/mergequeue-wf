@@ -3614,6 +3614,7 @@ forebitter
 facticide
 fretsaws
 filigrained
+flaughts
 fret
 fiftieths
 fibrillar
@@ -5929,7 +5930,6 @@ factitude
 fauces
 frats
 fineable
-flaughts
 flubdubs
 forestaysail
 fabiform
