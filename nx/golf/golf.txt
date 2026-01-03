@@ -4570,7 +4570,6 @@ geometrid
 grating
 goupen
 giojoso
-glunches
 greegree
 gressible
 goulash
@@ -10660,6 +10659,7 @@ gurgitation
 gametogony
 gladius
 gyric
+glunches
 goatsbane
 galp
 gemmaceous
