@@ -15319,7 +15319,6 @@ coquita
 caimito
 chathamite
 cupmaking
-clamorousness
 corallite
 clamorsome
 corgis
@@ -17576,6 +17575,7 @@ cocainised
 chloroformism
 cocainising
 cocainist
+clamorousness
 cocainize
 cocainomania
 cocainomaniac

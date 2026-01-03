@@ -5247,7 +5247,6 @@ guardianships
 girouette
 gleys
 grindery
-gedds
 grissons
 gloamings
 gaited
@@ -9387,6 +9386,7 @@ germanhood
 germigenous
 grannyknot
 gemmification
+gedds
 gaolerness
 garnishry
 gloved
