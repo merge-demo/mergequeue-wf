@@ -590,7 +590,6 @@ cruiseway
 commilitant
 catalineta
 caducean
-caducecei
 caducei
 caduceus
 coinhabitant
@@ -31012,6 +31011,7 @@ currawang
 cuminol
 classes
 cryoplankton
+caducecei
 chry
 cummerbund
 cummerbunds
