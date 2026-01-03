@@ -8578,6 +8578,7 @@ generates
 geranomorph
 geodetical
 gusla
+gluttonizing
 garse
 germaneness
 grapestalk
@@ -9783,7 +9784,6 @@ gymnastic
 gavel
 grievant
 gasworks
-gluttonizing
 gradino
 goonda
 gastriloquial
