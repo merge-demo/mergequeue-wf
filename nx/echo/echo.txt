@@ -7288,7 +7288,6 @@ eopalaeozoic
 egocentrically
 erysipelothrix
 eulogises
-enfold
 eorhyolite
 earshot
 embetter
@@ -9902,6 +9901,7 @@ exilian
 elongative
 earmarks
 estimations
+enfold
 exhaustively
 emmensite
 elaterium
