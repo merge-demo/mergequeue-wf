@@ -2912,7 +2912,6 @@ fevered
 flitchen
 furnacing
 fluoboric
-franklinian
 feveret
 forefending
 froggy
@@ -6306,6 +6305,7 @@ flummer
 funori
 fettling
 fusionism
+franklinian
 fens
 fiendship
 frigidarium
