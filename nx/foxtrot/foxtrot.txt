@@ -546,7 +546,6 @@ falcunculus
 fussier
 fopling
 fibrobronchitis
-familiarity
 forewarn
 fluvial
 fortress
@@ -7535,6 +7534,7 @@ fribbles
 fideos
 fleetest
 feedhead
+familiarity
 fother
 freeholders
 faultily
