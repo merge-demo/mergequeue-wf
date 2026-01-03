@@ -24358,7 +24358,6 @@ chatsome
 conjecturing
 cookout
 craniophore
-conjury
 cookroom
 coral
 concentrate
@@ -25289,6 +25288,7 @@ cervelats
 crome
 conicein
 corklike
+conjury
 chiromant
 cassegrain
 corkscrew
