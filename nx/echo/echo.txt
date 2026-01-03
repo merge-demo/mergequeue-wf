@@ -6853,7 +6853,6 @@ exostema
 ecphoria
 enlistees
 entropion
-entoil
 eggler
 encheiria
 entom
@@ -9962,6 +9961,7 @@ estrin
 elk
 estrums
 enskies
+entoil
 equisetales
 extrospection
 englishize
