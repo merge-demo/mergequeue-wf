@@ -3375,7 +3375,6 @@ globed
 gasogen
 groovelike
 garrulinae
-germifuge
 goog
 giftie
 guan
@@ -5706,6 +5705,7 @@ glossinas
 gertrude
 gilbertine
 gurneyite
+germifuge
 gloveress
 gimmaled
 gpad
