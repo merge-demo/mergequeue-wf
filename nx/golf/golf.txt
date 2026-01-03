@@ -4278,7 +4278,6 @@ galilean
 gantleting
 gramophones
 gusto
-garnishing
 grainsmen
 guncotton
 gantang
@@ -6880,6 +6879,7 @@ gibbosities
 grainman
 garroting
 goshen
+garnishing
 gynandroid
 garfish
 gregarina
