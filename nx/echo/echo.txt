@@ -6302,7 +6302,6 @@ enrichener
 euphemise
 ectopias
 emerse
-edaphic
 enows
 electrotechnology
 ecclesiastry
@@ -6770,6 +6769,7 @@ entete
 eurytherm
 epistrophy
 etherate
+edaphic
 enthelminthic
 effume
 ectosomal

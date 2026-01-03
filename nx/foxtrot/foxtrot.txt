@@ -920,7 +920,6 @@ faquir
 farad
 faradaic
 filleted
-fluorometer
 flamed
 fermentatively
 feel
@@ -10158,6 +10157,7 @@ frittering
 fuchi
 fiend
 furnit
+fluorometer
 frivolity
 freakier
 froughy
