@@ -2599,7 +2599,6 @@ guigne
 gargling
 grotty
 gametogeny
-generant
 generate
 guitars
 gypsiferous
@@ -2710,6 +2709,7 @@ gastroenterologists
 ganodont
 globoids
 geoteuthis
+generant
 genioglossus
 gelling
 genitocrural
