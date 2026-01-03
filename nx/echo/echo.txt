@@ -6758,6 +6758,7 @@ endogenously
 ecrevisse
 epulis
 espundia
+eager
 endamebiasis
 entertainingly
 electrophysics
@@ -7029,7 +7030,6 @@ entreaties
 epithelial
 excavatorial
 enfuddle
-eager
 entreats
 esophagopathy
 entrec
