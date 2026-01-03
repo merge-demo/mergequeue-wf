@@ -15533,7 +15533,6 @@ alsikes
 aquaplanes
 antimonies
 antimonium
-aboves
 abseil
 antimoniuret
 anatine
@@ -21138,6 +21137,7 @@ areola
 ase
 asearch
 alhet
+aboves
 asecretory
 amenableness
 appositeness
