@@ -12699,7 +12699,6 @@ agricole
 anointing
 arthragra
 abnormalised
-adaize
 agreing
 angrily
 accountants
@@ -24925,6 +24924,7 @@ agravic
 awakening
 awakeningly
 awaking
+adaize
 automotor
 arseniosiderite
 ankylose
