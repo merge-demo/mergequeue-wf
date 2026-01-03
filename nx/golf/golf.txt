@@ -2926,7 +2926,6 @@ geochemical
 gee
 gelose
 gallipot
-gaylussite
 gobiiformes
 gerbil
 gwiniad
@@ -9057,6 +9056,7 @@ granulomatous
 gemsbucks
 gyrates
 ghostliness
+gaylussite
 gnatcatcher
 girasole
 gryllos
