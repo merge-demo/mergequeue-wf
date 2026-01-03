@@ -6343,6 +6343,7 @@ goethian
 gam
 groceries
 goety
+ganoin
 greyed
 gummage
 gymnolaemata
@@ -10762,7 +10763,6 @@ giber
 generation
 gutbucket
 gonfalonierate
-ganoin
 gloam
 graminin
 gorhen
