@@ -2704,7 +2704,6 @@ decongestant
 deltoidei
 deconsecrate
 duels
-deconsecrated
 detailedness
 demitrain
 decontaminating
@@ -11627,6 +11626,7 @@ daggletail
 discover
 dieselizing
 dreamlessness
+deconsecrated
 downweed
 diapnoe
 defectionist
