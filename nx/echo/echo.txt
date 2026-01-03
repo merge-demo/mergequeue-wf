@@ -2685,6 +2685,7 @@ enquiries
 electrosteel
 epispadiac
 ectocornea
+exsec
 endothelioid
 expansum
 evil
@@ -9669,7 +9670,6 @@ erythroplastid
 esplanade
 enhancements
 elkhounds
-exsec
 explicability
 embedder
 extortionist
