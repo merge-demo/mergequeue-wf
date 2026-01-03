@@ -11447,7 +11447,6 @@ belonosphaerite
 barmkin
 bluegrass
 bluffy
-brownian
 bekko
 bestrut
 boxthorn
@@ -13776,6 +13775,7 @@ balneatory
 boutefeu
 bouteria
 buns
+brownian
 boutylka
 boutique
 beachfront
