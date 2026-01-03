@@ -358,6 +358,7 @@ dasher
 daymark
 doupion
 daimiate
+dutch
 daimiel
 davallia
 daimyo
@@ -10244,7 +10245,6 @@ dinus
 dermoskeleton
 distaste
 doura
-dutch
 distruss
 decrepid
 denitrator
