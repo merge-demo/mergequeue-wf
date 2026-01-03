@@ -4079,7 +4079,6 @@ fergusonite
 featherbrain
 fir
 fattable
-fanterie
 formal
 fatalness
 filcher
@@ -5404,6 +5403,7 @@ forecounsel
 flyswat
 feridji
 forehandedness
+fanterie
 figuration
 fruittime
 forthbringer
