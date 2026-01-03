@@ -679,7 +679,6 @@ extimulate
 eigenstate
 endothermy
 enshrouding
-extracondensed
 electrostatic
 emaculate
 embrangling
@@ -4501,6 +4500,7 @@ erth
 enceinte
 entozoology
 endolabyrinthitis
+extracondensed
 euonymin
 encephalomyelopathy
 encenter

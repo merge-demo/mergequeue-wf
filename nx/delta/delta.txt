@@ -2711,7 +2711,6 @@ dortiness
 decontaminators
 depressionary
 dvornik
-duci
 derails
 decontrolled
 deconvolution
@@ -12864,6 +12863,7 @@ dyarchic
 dirhem
 dismarket
 dispence
+duci
 dunnages
 dicotyledon
 devotionally
