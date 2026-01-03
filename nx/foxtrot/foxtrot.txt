@@ -3902,7 +3902,6 @@ ferrocyanogen
 falsehearted
 furrowed
 flemish
-fluoranthene
 foresummon
 fendered
 fullest
@@ -8769,6 +8768,7 @@ fala
 frizzled
 faintise
 freddo
+fluoranthene
 forbiddable
 flogged
 forester
