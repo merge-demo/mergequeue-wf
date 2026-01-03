@@ -6864,6 +6864,7 @@ cellars
 cellarwoman
 celled
 centennium
+cryophilic
 cellepore
 cyprians
 concaveness
@@ -17469,7 +17470,6 @@ coazervate
 contline
 coazervation
 coeloblastic
-cryophilic
 cupbearer
 cobaea
 corbeil
