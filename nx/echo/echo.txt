@@ -7690,6 +7690,7 @@ engagingly
 ectocrine
 espece
 exulceratory
+epicarid
 epicuticle
 extroversion
 epicuticular
@@ -13715,7 +13716,6 @@ ecologies
 eliciting
 elementarity
 executrix
-epicarid
 elatine
 endnote
 extratemporal
