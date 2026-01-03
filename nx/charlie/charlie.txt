@@ -3485,7 +3485,6 @@ capriote
 capripede
 cytosporina
 caducecaducean
-cobhouse
 chiastolite
 capris
 convoking
@@ -12012,6 +12011,7 @@ choreus
 choreutic
 caperingly
 crevassing
+cobhouse
 chorial
 cilician
 choriamb
