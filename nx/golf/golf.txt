@@ -345,7 +345,6 @@ galactophoritis
 gutwort
 garvock
 gingerin
-grade
 gilet
 gantlets
 graphed
@@ -9213,6 +9212,7 @@ guepard
 ginhound
 greenyard
 gripping
+grade
 gelandesprung
 glycocin
 guayule
