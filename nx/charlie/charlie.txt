@@ -28158,7 +28158,6 @@ crankiness
 cranking
 crankle
 cima
-crankless
 contiguities
 cromfordite
 crankling
@@ -28406,6 +28405,7 @@ creamless
 creamlike
 cutpurses
 cotarnine
+crankless
 centralists
 chiefling
 creams
