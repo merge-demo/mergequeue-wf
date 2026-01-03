@@ -5847,6 +5847,7 @@ baronship
 bellmanship
 braggingly
 buttstock
+brassies
 batholith
 beefin
 bypaths
@@ -14740,7 +14741,6 @@ bescribbling
 brassiere
 brassieres
 blackhander
-brassies
 backpacked
 brachiorrheuma
 beautician
