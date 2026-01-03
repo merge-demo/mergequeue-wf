@@ -307,6 +307,7 @@ enema
 exhumers
 epigoneion
 enqueue
+entered
 endognath
 endangering
 electrochronometer
@@ -6276,7 +6277,6 @@ embryonary
 enamine
 enarbor
 ethnogeographical
-entered
 eldmother
 erecter
 endplate
