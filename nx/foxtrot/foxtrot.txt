@@ -6218,7 +6218,6 @@ fulgurate
 flysches
 facsimiles
 foretops
-feebling
 frequency
 flagmaker
 furbished
@@ -10099,6 +10098,7 @@ fleyed
 foretaste
 flyball
 foamiest
+feebling
 forwardness
 fiercly
 footnotes
