@@ -494,7 +494,6 @@ ecclesiarchy
 elapsing
 extoll
 engineer
-ecclesiast
 entrada
 empasm
 exody
@@ -5907,6 +5906,7 @@ embolic
 entangledly
 elb
 edificing
+ecclesiast
 epigeum
 exterminist
 ewest
