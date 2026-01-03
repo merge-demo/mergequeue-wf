@@ -13323,7 +13323,6 @@ chetverik
 cataloguer
 chemiatry
 cycloid
-coalternation
 cycloidean
 coalshed
 cogswellia
@@ -17701,6 +17700,7 @@ crystallograph
 cochleariform
 counterstimulate
 cocksfoot
+coalternation
 comedy
 creationistic
 cochleleae
