@@ -3473,7 +3473,6 @@ exolete
 exemplar
 exothecate
 ecliptic
-embatholithic
 enfiladed
 esd
 epigean
@@ -5137,6 +5136,7 @@ encysted
 emanatistic
 epilogic
 ecthyma
+embatholithic
 eobiont
 exsanguinous
 erotics
