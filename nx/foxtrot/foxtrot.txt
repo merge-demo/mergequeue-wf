@@ -6801,7 +6801,6 @@ fervescent
 froebelian
 freehanded
 flyers
-fluidics
 ferme
 fiendliness
 frontal
@@ -11499,6 +11498,7 @@ fashery
 furunculous
 fruition
 furzeling
+fluidics
 furzy
 fastest
 flouncy
