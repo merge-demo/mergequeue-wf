@@ -3868,7 +3868,6 @@ grasps
 gentlemanliness
 gentlemanhood
 galled
-gryphons
 gameball
 gastroenterotomy
 grimsir
@@ -4415,6 +4414,7 @@ grammatist
 gloriam
 gleeted
 gorer
+gryphons
 gorget
 grandezza
 gearcases
