@@ -8362,7 +8362,6 @@ chalkline
 columnated
 chamberer
 chalkone
-chalkos
 chalkotheke
 chalkpit
 chalkrail
@@ -14625,6 +14624,7 @@ clockmutch
 cystigerous
 cystignathidae
 cystignathine
+chalkos
 criminology
 circulates
 cystitides
