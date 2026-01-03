@@ -13380,7 +13380,6 @@ covenanting
 candlestand
 cyclopentene
 cohabit
-cajanus
 cyclophoria
 chrysid
 cyclophoric
@@ -15946,6 +15945,7 @@ caballine
 clemming
 clench
 carbamino
+cajanus
 clenched
 clencher
 clenchers
