@@ -590,7 +590,6 @@ backstrap
 banger
 baggyrinkle
 bactericide
-beethoven
 bacterin
 beggiatoa
 bacteriochlorophyll
@@ -1860,6 +1859,7 @@ bescribble
 bandeau
 betula
 bancus
+beethoven
 backstabber
 bandelette
 banderma
