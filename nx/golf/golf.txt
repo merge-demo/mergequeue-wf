@@ -5937,7 +5937,6 @@ glossocoma
 gibbers
 gauzier
 gestative
-gutless
 gestapo
 glumosity
 grahamite
@@ -9656,6 +9655,7 @@ griffinish
 grafted
 grinders
 griddling
+gutless
 gopherman
 gunbarrel
 gleets
