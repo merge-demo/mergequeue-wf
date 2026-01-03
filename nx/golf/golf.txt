@@ -835,6 +835,7 @@ goban
 genistin
 granulater
 geonegative
+glockenspiel
 gamboled
 gillar
 goethe
@@ -5740,7 +5741,6 @@ geotropism
 gurus
 geologize
 gammons
-glockenspiel
 gallopade
 glossohyal
 grayed
