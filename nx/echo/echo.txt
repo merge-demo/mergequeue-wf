@@ -1688,6 +1688,7 @@ electromerism
 electrotaxis
 emigr
 ejusdem
+enfurrow
 eisteddfodic
 eyeballed
 eyeballing
@@ -13643,7 +13644,6 @@ ennomic
 elastin
 eerier
 eliminates
-enfurrow
 extenuations
 embargo
 emm
