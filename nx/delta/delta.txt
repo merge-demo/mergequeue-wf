@@ -14606,7 +14606,6 @@ deuteromyosinose
 dispensing
 divorcee
 disembower
-dihedrals
 dryfarm
 departmentization
 deeming
@@ -14923,6 +14922,7 @@ duodenojejunostomy
 divata
 delabialization
 diaconus
+dihedrals
 deploys
 disanimating
 drogue
