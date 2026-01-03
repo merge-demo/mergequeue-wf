@@ -4745,6 +4745,7 @@ betitle
 benitoite
 butcherliness
 bangs
+bedrench
 bismanol
 bedlams
 bienseance
@@ -4773,7 +4774,6 @@ bedral
 boltwork
 bedraping
 bedread
-bedrench
 backups
 baldling
 bed
