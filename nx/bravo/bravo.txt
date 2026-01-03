@@ -5830,7 +5830,6 @@ bribeworthy
 baigneuse
 brimfull
 bellyful
-billowing
 bestrews
 butyrals
 boor
@@ -10558,6 +10557,7 @@ bedotted
 blachong
 briton
 blepharoatheroma
+billowing
 break
 bipectinate
 bacterize
