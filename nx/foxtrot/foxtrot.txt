@@ -1574,7 +1574,6 @@ farcetta
 fegary
 fooster
 favored
-feasibilities
 favorer
 familic
 foresty
@@ -8491,6 +8490,7 @@ foresinger
 ferritic
 featherfew
 filmsetter
+feasibilities
 fortin
 frondesce
 factorized
