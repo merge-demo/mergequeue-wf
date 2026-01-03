@@ -4110,6 +4110,7 @@ gastrectomies
 geneal
 germanical
 gimcrack
+gastrojejunal
 gleaned
 galictis
 griph
@@ -6845,7 +6846,6 @@ gastroenterostomies
 gunnings
 gagwriter
 gasometrical
-gastrojejunal
 globosphaerite
 grossirete
 grandpa
