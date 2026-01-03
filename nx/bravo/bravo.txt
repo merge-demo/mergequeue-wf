@@ -7063,7 +7063,6 @@ bennetweed
 bespattered
 boshvarks
 barracks
-bannerette
 briquetting
 bespeak
 bodyless
@@ -17633,6 +17632,7 @@ bitypic
 bunchflower
 burgoyne
 burgomasters
+bannerette
 bullfighting
 burgomastership
 burgundy
