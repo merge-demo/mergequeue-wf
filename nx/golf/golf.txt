@@ -1671,6 +1671,7 @@ granulometric
 goldarned
 gardeen
 gryphon
+granuloblastic
 gastrocoel
 gamuts
 gamelion
@@ -8209,7 +8210,6 @@ gallicization
 graftages
 gloomless
 gooey
-granuloblastic
 guiba
 granulocyte
 gerontal
