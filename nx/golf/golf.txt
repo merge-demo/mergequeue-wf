@@ -1467,7 +1467,6 @@ grossart
 generical
 grillages
 glamouring
-gasalier
 gaoler
 glebae
 gowks
@@ -5421,6 +5420,7 @@ groundflower
 gumchewer
 gnomonical
 grandmotherliness
+gasalier
 galoshe
 gender
 groovy
