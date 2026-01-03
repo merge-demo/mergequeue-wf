@@ -12696,6 +12696,7 @@ chteau
 chauffeuses
 chthonian
 conciliators
+cubbyhouse
 chuana
 chub
 chubascos
@@ -30501,7 +30502,6 @@ cubatory
 contraclockwise
 counterweighed
 cubby
-cubbyhouse
 cubbing
 codein
 cubbishness
