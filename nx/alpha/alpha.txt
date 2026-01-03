@@ -8782,7 +8782,6 @@ abidance
 absorption
 atturn
 allocate
-adelina
 anglophobes
 autoimmunization
 asthmatics
@@ -17622,6 +17621,7 @@ abortifacient
 appersonation
 appersonification
 appert
+adelina
 athematic
 accosts
 airwise
