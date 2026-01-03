@@ -20665,6 +20665,7 @@ complaint
 capibara
 counteranswer
 complaintiveness
+chaussures
 complaints
 cabinetmake
 complaisant
@@ -27690,7 +27691,6 @@ corrigendum
 cadaveric
 chamite
 cycloplegia
-chaussures
 coadventuress
 cowk
 cowkine
