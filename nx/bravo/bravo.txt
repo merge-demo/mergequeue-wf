@@ -4792,7 +4792,6 @@ biotelemetry
 bracker
 brachylogy
 bedriveling
-bedrizzle
 brutality
 baetyl
 backpedaled
@@ -7262,6 +7261,7 @@ broidered
 bestuck
 bestud
 boninite
+bedrizzle
 bedight
 bipont
 barrancas
