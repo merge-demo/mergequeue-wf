@@ -2842,7 +2842,6 @@ frisettes
 fogies
 formicarium
 frabjously
-formats
 forgettable
 foaled
 flukeworm
@@ -4596,6 +4595,7 @@ fieldstone
 fistuca
 firefight
 freezing
+formats
 freest
 filmist
 fistula
