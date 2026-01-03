@@ -6900,7 +6900,6 @@ grafting
 gitterns
 guttiferae
 gombay
-galericulate
 gangliomata
 graftonite
 groundspeed
@@ -10773,6 +10772,7 @@ geranyl
 gibblegable
 glycyl
 gutt
+galericulate
 gunny
 gerenuk
 gung
