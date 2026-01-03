@@ -3243,6 +3243,7 @@ genizah
 galban
 gerah
 goodwily
+gifting
 grammies
 geraniums
 gebur
@@ -4727,7 +4728,6 @@ geisothermal
 graphiology
 glycerate
 galchic
-gifting
 gelatia
 generis
 gastraeas
