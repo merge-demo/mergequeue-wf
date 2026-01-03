@@ -173,7 +173,6 @@ gradgrind
 gasolines
 golfer
 goaled
-gabarit
 gammacism
 groschen
 garred
@@ -3626,6 +3625,7 @@ gausses
 gharnao
 glossa
 goniaster
+gabarit
 gnomelike
 gnosis
 glyphs
