@@ -7231,7 +7231,6 @@ deverbative
 desolately
 disnatured
 dyingly
-dicotyl
 dimetric
 detenue
 decussorium
@@ -9424,6 +9423,7 @@ disseat
 dibatag
 drunkelew
 delead
+dicotyl
 doomfulness
 desired
 delaw
