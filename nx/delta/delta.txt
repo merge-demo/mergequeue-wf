@@ -6379,7 +6379,6 @@ derodidymus
 derog
 demeanour
 doronicum
-despond
 derogate
 derogates
 diglyceride
@@ -13873,6 +13872,7 @@ denom
 displuviate
 dross
 displaces
+despond
 donee
 distaves
 dern
