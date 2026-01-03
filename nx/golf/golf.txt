@@ -2710,6 +2710,7 @@ ganodont
 globoids
 geoteuthis
 generant
+gorevan
 genioglossus
 gelling
 genitocrural
@@ -5846,7 +5847,6 @@ glassily
 gynoecium
 greens
 glucate
-gorevan
 goofier
 gastrostomies
 glucinums
