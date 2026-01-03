@@ -2499,7 +2499,6 @@ eleve
 exegete
 enstatite
 effluxes
-electrogasdynamics
 embryographer
 electroharmonic
 electrohemostasis
@@ -5258,6 +5257,7 @@ endophyllum
 exospherical
 embarcadero
 ensphere
+electrogasdynamics
 ergatandromorph
 edginesses
 edificative
