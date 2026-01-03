@@ -6714,7 +6714,6 @@ arterialization
 allomerize
 agglutination
 atrioporal
-abnormities
 ainus
 anterodorsal
 antemetic
@@ -9023,6 +9022,7 @@ aiguiere
 adinvention
 antisoporific
 actinomycetaceae
+abnormities
 alcahest
 absterged
 alloxans
