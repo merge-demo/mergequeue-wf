@@ -2620,7 +2620,6 @@ glottis
 gogmagog
 grittle
 gawcey
-goblinish
 glaucine
 glamourization
 gesticular
@@ -6505,6 +6504,7 @@ griff
 guelph
 golly
 glucolipine
+goblinish
 gens
 gamete
 grotian
