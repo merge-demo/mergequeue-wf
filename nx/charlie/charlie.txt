@@ -3281,7 +3281,6 @@ capitan
 capitana
 capitated
 capitatim
-cputime
 capitation
 cainite
 casimere
@@ -18625,6 +18624,7 @@ creticism
 cockroach
 coin
 cephalopod
+cputime
 coyly
 crowders
 connex

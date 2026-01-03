@@ -137,6 +137,7 @@ drumsticks
 drawbench
 deviascope
 dekko
+driftlet
 dinar
 dyophone
 daddles
@@ -18488,7 +18489,6 @@ dendroica
 dissentiently
 discussants
 dementi
-driftlet
 declamator
 doublegear
 dyslogistically
