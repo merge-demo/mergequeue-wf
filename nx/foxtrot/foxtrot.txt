@@ -5990,7 +5990,6 @@ fluidrachm
 fidia
 fraternity
 fireproof
-foliole
 funambuloes
 fictioneering
 feldsher
@@ -8812,6 +8811,7 @@ frizzlier
 frontosphenoidal
 fulfills
 francia
+foliole
 flancard
 fecundation
 foxie
