@@ -6738,7 +6738,6 @@ gyrostats
 glomerate
 globulimeter
 glyconic
-gurdfish
 gruine
 glenoid
 goniodoridae
@@ -7075,6 +7074,7 @@ guelphic
 giottesque
 glaces
 gestalter
+gurdfish
 gaus
 gunwales
 grader
