@@ -2035,7 +2035,6 @@ fogbows
 fascicule
 flaunting
 feudally
-feisty
 fairyisms
 farl
 fops
@@ -4584,6 +4583,7 @@ flippance
 forestwards
 fibrinolyses
 fibrinokinase
+feisty
 fooldom
 fleuronne
 frees
