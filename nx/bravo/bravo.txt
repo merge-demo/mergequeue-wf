@@ -6465,7 +6465,6 @@ blockbusters
 beleaguer
 backdown
 bepepper
-ballat
 booting
 bephilter
 booley
@@ -11510,6 +11509,7 @@ bedoctor
 blintze
 baccalaurean
 bluewoods
+ballat
 billposter
 bluffable
 blicky
