@@ -10325,7 +10325,6 @@ duhr
 diorama
 daroo
 diophantine
-driftpiece
 dowsing
 derelictly
 degeneracy
@@ -13243,6 +13242,7 @@ dechloridizing
 displeasedly
 disreverence
 displeasing
+driftpiece
 discountenancer
 displeasures
 dilations
