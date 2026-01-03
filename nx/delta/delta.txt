@@ -8093,6 +8093,7 @@ duodial
 dentex
 demitranslucence
 developpes
+deciliters
 distributions
 dulosis
 decidable
@@ -15378,7 +15379,6 @@ dazing
 domesticator
 decylene
 diobolon
-deciliters
 difformity
 dislocatedly
 disencumbrance
