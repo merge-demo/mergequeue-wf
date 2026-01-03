@@ -1866,7 +1866,6 @@ admonitorial
 acerolas
 agnosy
 airinesses
-antedorsal
 acerous
 acertannin
 allseed
@@ -10702,6 +10701,7 @@ azotizes
 anormality
 acrolith
 amitrole
+antedorsal
 amitular
 ancre
 antiagglutinating
