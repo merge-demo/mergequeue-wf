@@ -7146,6 +7146,7 @@ grasscut
 giansar
 guayaba
 greenfly
+guric
 gile
 gore
 gorebill
@@ -10667,7 +10668,6 @@ gemmaceous
 glaiketness
 genuflexion
 glottologist
-guric
 gapes
 grog
 gelatinobromide
