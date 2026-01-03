@@ -3851,7 +3851,6 @@ glazework
 gygis
 gibstaff
 galactodendron
-gunroom
 greyhound
 gratefulness
 greyling
@@ -7814,6 +7813,7 @@ gibingly
 gunung
 gipseian
 groundlessly
+gunroom
 greeny
 grubworm
 gulleys
