@@ -5594,7 +5594,6 @@ blobbed
 bumbard
 bombloads
 belaboring
-bulletheaded
 battlement
 baghla
 barbitone
@@ -14310,6 +14309,7 @@ benefactory
 begoud
 brens
 branchiosaur
+bulletheaded
 binnite
 bobber
 bechamels
