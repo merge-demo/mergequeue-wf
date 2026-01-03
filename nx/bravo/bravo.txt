@@ -5217,6 +5217,7 @@ begabled
 bowla
 begad
 bedders
+brelaw
 boskopoid
 blanky
 beworming
@@ -9881,7 +9882,6 @@ botcher
 burnsian
 banderols
 baldpated
-brelaw
 bitmap
 buccaneering
 bimbos
