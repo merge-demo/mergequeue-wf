@@ -6346,7 +6346,6 @@ cravingly
 cecchine
 cabbaged
 caulocarpic
-caulomic
 caulosarc
 caulotaxis
 caulote
@@ -14069,6 +14068,7 @@ creepers
 cratemaking
 cervicovaginal
 cyprid
+caulomic
 cyprididae
 cypridina
 caucasoid
