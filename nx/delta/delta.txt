@@ -4699,7 +4699,6 @@ dogbody
 depraves
 dorosternal
 dsnames
-democratic
 dividedness
 detesters
 democratisation
@@ -12182,6 +12181,7 @@ declinations
 dehusk
 danes
 depthometer
+democratic
 diacetine
 dha
 deadlily
