@@ -6677,7 +6677,6 @@ faqirs
 feted
 flyblow
 flores
-fogdogs
 frippery
 fairways
 fogfruit
@@ -7280,6 +7279,7 @@ financiery
 fluorogen
 foregoing
 featly
+fogdogs
 fledglings
 fratricidal
 foeffment
