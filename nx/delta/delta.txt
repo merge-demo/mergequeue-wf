@@ -520,7 +520,6 @@ discocarpous
 dalmatic
 dalt
 dawen
-dalton
 denomination
 dermaskeleton
 dama
@@ -4042,6 +4041,7 @@ delictual
 disobeyed
 delieret
 degrain
+dalton
 despicably
 divaricate
 dealerships
