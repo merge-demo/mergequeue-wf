@@ -6343,6 +6343,7 @@ gummage
 gymnolaemata
 gloriosa
 gippo
+gunj
 gollywobbler
 gigaherz
 goclenian
@@ -9641,7 +9642,6 @@ gnatty
 gracileness
 genson
 grozart
-gunj
 gaeltacht
 granulomata
 grozer
