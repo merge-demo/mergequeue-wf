@@ -8257,7 +8257,6 @@ geometricize
 grandfatherless
 gooseneck
 graphemically
-gasconading
 genevois
 greyback
 graphemics
@@ -10159,6 +10158,7 @@ galuth
 gal
 gloried
 glideness
+gasconading
 guardianly
 git
 gingely
