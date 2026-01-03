@@ -2777,6 +2777,7 @@ bicycling
 bedcase
 brachyurous
 bequeathing
+bookstore
 barong
 bezoar
 befilch
@@ -13010,7 +13011,6 @@ browntop
 betonies
 bonder
 booziness
-bookstore
 blockheadishness
 binit
 bopeep
