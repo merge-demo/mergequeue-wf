@@ -20361,7 +20361,6 @@ choruser
 compactile
 coeloblastula
 couseranite
-chakra
 catholicoses
 communized
 commutable
@@ -31181,6 +31180,7 @@ cerebritis
 cupressus
 campagus
 custode
+chakra
 cuprites
 cuproammonium
 cunningly
