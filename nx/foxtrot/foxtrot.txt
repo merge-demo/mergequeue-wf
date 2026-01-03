@@ -1204,7 +1204,6 @@ foxproof
 fountainlike
 fleckled
 fleckiness
-figury
 feinted
 friborgh
 fasherie
@@ -7244,6 +7243,7 @@ fimbrillose
 fiver
 foreground
 footpad
+figury
 farfetchedness
 fatidically
 foreslack
