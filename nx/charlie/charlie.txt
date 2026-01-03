@@ -3812,6 +3812,7 @@ chlorpikrin
 cheerios
 civilist
 carbazole
+countering
 carbeen
 carbene
 cantorian
@@ -15641,7 +15642,6 @@ clatter
 cartographers
 clattered
 coxcombries
-countering
 clatterer
 crucifier
 clattery
