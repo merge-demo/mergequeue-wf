@@ -9960,6 +9960,7 @@ bedticking
 bordelaise
 bauson
 bruke
+beclothing
 bastardice
 bituminate
 bituminising
@@ -15564,7 +15565,6 @@ bodywear
 balaghaut
 bestreak
 buzzerphone
-beclothing
 bionts
 brinksmanship
 batted
