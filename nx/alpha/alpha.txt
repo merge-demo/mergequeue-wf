@@ -13171,6 +13171,7 @@ anabiosis
 alchymy
 acoustical
 archbeacon
+aghori
 animikean
 animis
 abow
@@ -24911,7 +24912,6 @@ afforestable
 abeyancies
 accoladed
 arimasp
-aghori
 awaitlala
 awakable
 acoelomate
