@@ -5136,7 +5136,6 @@ adephagan
 anatomizing
 ancien
 antidoting
-aphoria
 anamorphism
 aetomorphae
 almohade
@@ -8539,6 +8538,7 @@ allantoinase
 ampullosity
 acetoxim
 albuminizing
+aphoria
 allantoxaidin
 archocele
 anthropoclimatology
