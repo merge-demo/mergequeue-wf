@@ -8918,7 +8918,6 @@ glomerella
 goniopholidae
 gentman
 gobang
-goatherds
 grete
 grainage
 ganglier
@@ -9817,6 +9816,7 @@ gewgaw
 gunneraceae
 geognosies
 graybearded
+goatherds
 guacacoa
 grimacer
 gorce
