@@ -4886,6 +4886,7 @@ epidermatoid
 encoder
 episcopable
 embryogenetic
+eucaryote
 enshrining
 engraven
 eria
@@ -7175,7 +7176,6 @@ esophagometer
 episterna
 embarment
 enwall
-eucaryote
 extraequilibrium
 enwallow
 excandescence
