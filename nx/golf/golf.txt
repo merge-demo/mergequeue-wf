@@ -5247,6 +5247,7 @@ grindery
 grissons
 gloamings
 gaited
+gyrovagi
 gemmipara
 glycosine
 golgi
@@ -5532,7 +5533,6 @@ genear
 globalizing
 gisants
 groggeries
-gyrovagi
 gump
 grassfinch
 griefs
