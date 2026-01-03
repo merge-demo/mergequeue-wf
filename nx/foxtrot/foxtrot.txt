@@ -2327,7 +2327,6 @@ firecoat
 featherstitching
 ferae
 fairyship
-firemen
 fablers
 fetations
 frequently
@@ -5902,6 +5901,7 @@ fudged
 fulsamic
 folgerite
 fencepost
+firemen
 foetalism
 fissirostral
 fantasmagoric
