@@ -1181,6 +1181,7 @@ genitory
 gig
 glabrescent
 grinned
+gibbet
 gezerah
 guejarite
 galipine
@@ -6687,7 +6688,6 @@ gainsayer
 gibelite
 gavelling
 grint
-gibbet
 germanious
 gulae
 gobmouthed
