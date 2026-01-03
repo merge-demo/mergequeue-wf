@@ -9244,7 +9244,6 @@ chattel
 chaste
 chastelain
 coots
-carritch
 catarrh
 carettochelydidae
 carbonylic
@@ -25083,6 +25082,7 @@ corecipient
 crinogenic
 corectome
 cracovienne
+carritch
 cardiomotility
 corectomy
 coredeemer
