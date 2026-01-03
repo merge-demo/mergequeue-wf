@@ -7045,6 +7045,7 @@ desserts
 dykage
 divulge
 diabantite
+disadvise
 dessertspoon
 distillage
 disenthroning
@@ -8803,7 +8804,6 @@ diazotype
 dromicia
 daturas
 deluding
-disadvise
 deratization
 dolefuller
 douricouli

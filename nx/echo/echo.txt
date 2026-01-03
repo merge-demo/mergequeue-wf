@@ -7448,7 +7448,6 @@ elbowbush
 exosporous
 ephas
 ephebea
-enchaining
 excepts
 employes
 estivating
@@ -9818,6 +9817,7 @@ estampage
 empiric
 enucleating
 evolving
+enchaining
 estang
 extincteur
 econometrician
