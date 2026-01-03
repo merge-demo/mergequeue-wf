@@ -2974,7 +2974,6 @@ fistmele
 fremontia
 flowers
 fasciate
-fifing
 fiestas
 flooey
 fiar
@@ -6444,6 +6443,7 @@ fishable
 fluoaluminate
 featurelessness
 fainted
+fifing
 frictionable
 flatcap
 fairs
