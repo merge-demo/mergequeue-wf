@@ -6514,7 +6514,6 @@ cavalrymen
 carbazide
 coryl
 cavate
-conynge
 cancelability
 cacophonously
 churning
@@ -20952,6 +20951,7 @@ chasubles
 compressively
 compressors
 comprest
+conynge
 collating
 comprisal
 controllability
