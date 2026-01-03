@@ -9591,6 +9591,7 @@ dihalide
 derives
 deprecatingly
 disframe
+dacoity
 deil
 deadline
 drayed
@@ -17395,7 +17396,6 @@ dribblers
 decollimate
 dividual
 droppage
-dacoity
 diffraction
 decennia
 didascaly
