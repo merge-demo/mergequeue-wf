@@ -4628,6 +4628,7 @@ factorizations
 fullnesses
 frigidities
 formulations
+flickerproof
 fireboard
 fluctuate
 fossane
@@ -6302,7 +6303,6 @@ fluminous
 freak
 fluxibility
 flummer
-flickerproof
 funori
 fettling
 fusionism
