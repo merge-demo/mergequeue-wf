@@ -1187,7 +1187,6 @@ epipany
 electrotyped
 exceptiveness
 expectancies
-edriophthalmatous
 extramental
 educand
 edification
@@ -4672,6 +4671,7 @@ encarpuspi
 ethicosocial
 exocrinology
 enhydrite
+edriophthalmatous
 extratensive
 erythroxyline
 exogenous
