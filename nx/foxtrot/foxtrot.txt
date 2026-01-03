@@ -2831,6 +2831,7 @@ forestair
 fibrillose
 faeries
 ferlies
+flumes
 forthinking
 fetterlock
 floodlighting
@@ -6306,7 +6307,6 @@ ferryhouse
 fob
 furans
 falerian
-flumes
 fluminous
 freak
 fluxibility
