@@ -7031,7 +7031,6 @@ bussings
 belletrist
 burelle
 buccan
-besort
 blunting
 bascinet
 bitterly
@@ -7105,6 +7104,7 @@ bespend
 bespew
 biparietal
 boucherism
+besort
 bandfiling
 batan
 bonking
