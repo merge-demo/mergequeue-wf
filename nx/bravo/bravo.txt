@@ -7529,7 +7529,6 @@ blemishment
 burses
 beverse
 barbets
-bluebirds
 blastocolla
 binocle
 balsamweed
@@ -11328,6 +11327,7 @@ bananas
 blowoff
 blowouts
 bedels
+bluebirds
 blowproof
 blows
 bleachability
