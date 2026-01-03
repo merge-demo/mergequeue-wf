@@ -2702,7 +2702,6 @@ endofaradism
 earhead
 emborder
 electrotechnician
-exports
 eogaean
 enfant
 extendibility
@@ -10448,6 +10447,7 @@ echinate
 excluder
 ethrogim
 ehatisaht
+exports
 eos
 etymic
 ergosterin
