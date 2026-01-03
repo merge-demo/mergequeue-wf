@@ -4340,7 +4340,6 @@ blockishness
 bossdoms
 beking
 boatkeeper
-beche
 biconic
 becheck
 befool
@@ -11241,6 +11240,7 @@ biglandular
 beheadal
 blossomless
 baptize
+beche
 bandhava
 bizonia
 bestrapped

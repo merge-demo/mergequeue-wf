@@ -1812,6 +1812,7 @@ acephali
 afterage
 apprehendable
 anthropomorphous
+archaeocyte
 afterend
 allamanda
 acephalist
@@ -9386,7 +9387,6 @@ acatery
 ametropia
 alterably
 anchylose
-archaeocyte
 abetter
 anythingarian
 anointed
