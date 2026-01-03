@@ -77,7 +77,6 @@ fullfaces
 facundity
 facemark
 flocklike
-forme
 filching
 fraternised
 fortuitously
@@ -4494,6 +4493,7 @@ frowst
 flatting
 forlane
 fertilizers
+forme
 forsay
 flash
 fleadock
