@@ -5156,7 +5156,6 @@ epiplanktonic
 ejectives
 elaeoblast
 enneaphyllous
-elatives
 engirt
 endocrines
 epigrammatizing
@@ -10388,6 +10387,7 @@ endogenesis
 ellagic
 ethylamime
 elytra
+elatives
 ethnopsychology
 excitometabolic
 equiponderate
