@@ -2012,7 +2012,6 @@ baniya
 baning
 bulkiness
 bandcutter
-bhaiachara
 banisher
 banishment
 banyuls
@@ -11004,6 +11003,7 @@ barlow
 blithe
 blowlamp
 belah
+bhaiachara
 burliest
 baggies
 blithesomely
