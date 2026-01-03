@@ -6099,7 +6099,6 @@ gude
 gastrogenous
 guffy
 geogen
-guessworker
 gravities
 gerocomy
 goodby
@@ -8645,6 +8644,7 @@ glucosin
 gulfed
 gingerleaf
 grapline
+guessworker
 goldfielder
 gaslight
 gasteralgia
