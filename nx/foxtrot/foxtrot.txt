@@ -2078,7 +2078,6 @@ forerehearsed
 fell
 forebodies
 federates
-facture
 finetop
 favorless
 frument
@@ -11706,6 +11705,7 @@ fanfish
 ferr
 fiancailles
 foreiron
+facture
 fliskier
 frowns
 furriered
