@@ -7225,6 +7225,7 @@ evidences
 equalizer
 enwove
 entender
+equipages
 euvrou
 epistasis
 enchesoun
@@ -8694,7 +8695,6 @@ equinumerally
 equinus
 ethrogs
 elfishness
-equipages
 etherialism
 expositions
 epipoditic
