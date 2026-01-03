@@ -3756,7 +3756,6 @@ grumpier
 gringos
 ghostly
 gaura
-gnoses
 ghostwriters
 gallirallus
 ghoulery
@@ -10625,6 +10624,7 @@ gimmickry
 gunshop
 gruelings
 gulches
+gnoses
 gunsmithing
 gallophile
 grossification
