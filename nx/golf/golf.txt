@@ -3378,7 +3378,6 @@ groovelike
 garrulinae
 goog
 giftie
-guan
 gaults
 germin
 gasteropod
@@ -7157,6 +7156,7 @@ gauzes
 giggler
 glucolipin
 graftage
+guan
 gastrotaxis
 gabelle
 glider
