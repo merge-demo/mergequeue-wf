@@ -2730,6 +2730,7 @@ essed
 ericolin
 embellish
 elderwort
+echinus
 electrophoresing
 endomycetaceae
 evanish
@@ -10993,7 +10994,6 @@ esparcet
 echiurid
 embrittlement
 emim
-echinus
 eperva
 euproctis
 endophasia
