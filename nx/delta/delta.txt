@@ -4044,7 +4044,6 @@ discant
 danize
 delignification
 demurringly
-decimalizing
 delimed
 defile
 disquisitory
@@ -12427,6 +12426,7 @@ disheriting
 deforms
 dishevelled
 dishevelling
+decimalizing
 delomorphic
 dismissingly
 doeskins
