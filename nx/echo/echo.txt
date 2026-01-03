@@ -3465,6 +3465,7 @@ episyllogism
 enthroning
 edeotomy
 eucirripedia
+engrain
 embogue
 electrophobia
 enolizable
@@ -3843,7 +3844,6 @@ exla
 ethnohistorical
 extolled
 economic
-engrain
 energist
 expletory
 emended
