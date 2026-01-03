@@ -3479,7 +3479,6 @@ ecalcavate
 encolour
 errand
 exolete
-exemplar
 exothecate
 ecliptic
 enfiladed
@@ -6845,6 +6844,7 @@ eutrophies
 efflation
 enwombing
 exostema
+exemplar
 ecphoria
 enlistees
 entropion
