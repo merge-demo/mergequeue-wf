@@ -4293,7 +4293,6 @@ filazer
 famille
 farewelled
 friendly
-firms
 firns
 freespac
 fleshings
@@ -8888,6 +8887,7 @@ facioscapulohumeral
 foresignify
 foreigners
 fot
+firms
 florideous
 foreshorten
 fictious
