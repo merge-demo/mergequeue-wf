@@ -1821,6 +1821,7 @@ firebreaks
 fleabites
 fractured
 fating
+freightage
 feedbags
 flexographic
 feminist
@@ -2466,7 +2467,6 @@ forehatch
 flavic
 fluster
 fusains
-freightage
 fawningness
 festively
 fjarding
