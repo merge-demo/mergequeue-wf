@@ -10214,7 +10214,6 @@ amelet
 amylocellulose
 anhydrated
 acidific
-ars
 ameliorates
 adenotyphoid
 allice
@@ -18544,6 +18543,7 @@ arboured
 amaga
 aelodicon
 anthrone
+ars
 arales
 arbuscular
 ademonist
