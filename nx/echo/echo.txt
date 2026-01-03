@@ -1591,7 +1591,6 @@ extraversion
 encampment
 envigor
 exogeny
-erythrocytometry
 exaggeratedness
 emball
 euosmite
@@ -11809,6 +11808,7 @@ eclogic
 elaphrium
 euryon
 exaudi
+erythrocytometry
 ethenoidal
 ectomorphy
 ectothermic
