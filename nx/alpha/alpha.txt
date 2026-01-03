@@ -19783,7 +19783,6 @@ ambaries
 aplombs
 amsonia
 atumble
-abrogated
 ambystoma
 armadas
 agrologies
@@ -25190,6 +25189,7 @@ asprete
 ascupart
 abdicator
 abusiveness
+abrogated
 axonophora
 alborada
 amentula
