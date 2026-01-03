@@ -2307,6 +2307,7 @@ gestant
 grosse
 gripmen
 geological
+goas
 galaxy
 grallatorial
 gangliglia
@@ -2453,7 +2454,6 @@ graphotypic
 garial
 geologian
 graduator
-goas
 grograms
 gallah
 glutch
