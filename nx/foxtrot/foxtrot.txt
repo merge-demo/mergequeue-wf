@@ -4358,7 +4358,6 @@ frenums
 fishbowls
 flexive
 forky
-fisheyes
 forecomingness
 fistify
 funiculitis
@@ -7441,6 +7440,7 @@ figgum
 ferie
 falconers
 fawnlike
+fisheyes
 firefang
 forswat
 footmen
