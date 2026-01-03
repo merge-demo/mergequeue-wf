@@ -3898,7 +3898,6 @@ bergylt
 breveted
 bint
 brockage
-bazooka
 blunge
 buckishly
 bamboos
@@ -12015,6 +12014,7 @@ bbls
 brothelry
 bostons
 bogymen
+bazooka
 bogland
 budgerigah
 bogled
