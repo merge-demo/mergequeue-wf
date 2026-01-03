@@ -148,7 +148,6 @@ apocrustic
 abater
 alanyl
 alcumy
-abating
 asbolin
 atoms
 abatised
@@ -11327,6 +11326,7 @@ anagrammatization
 alupag
 autocephaly
 absorptance
+abating
 amplication
 aftercause
 amplificative
