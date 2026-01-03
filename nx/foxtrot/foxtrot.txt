@@ -2436,6 +2436,7 @@ fornax
 fomites
 fungal
 foliocellosis
+freethink
 frithborgh
 firelocks
 fascinatedly
@@ -5641,7 +5642,6 @@ foxite
 feoffing
 firetop
 flimflams
-freethink
 favouritism
 fele
 felicitations
