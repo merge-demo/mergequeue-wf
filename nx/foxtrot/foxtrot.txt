@@ -4488,6 +4488,7 @@ fluidifying
 frowst
 flatting
 forlane
+fates
 fertilizers
 forme
 forsay
@@ -5879,7 +5880,6 @@ feyer
 festine
 fecund
 fistfight
-fates
 flexity
 feague
 fangas
