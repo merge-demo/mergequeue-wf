@@ -704,6 +704,7 @@ fobs
 frogface
 firebolted
 fumigatorium
+fatigated
 farmstead
 fistnote
 ferromagnetic
@@ -5379,7 +5380,6 @@ floccillation
 ferrocyanide
 faverel
 fluoridise
-fatigated
 flunkyistic
 forthset
 forepeaks
