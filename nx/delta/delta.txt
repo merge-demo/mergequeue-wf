@@ -2500,7 +2500,6 @@ dishonourary
 declaim
 dichorisandra
 desalinization
-dresser
 declaimer
 dilaters
 declamatory
@@ -5731,6 +5730,7 @@ dewanee
 deoxidiser
 disobeyal
 demonland
+dresser
 depoetize
 deconsider
 depoh

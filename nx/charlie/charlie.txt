@@ -7568,7 +7568,6 @@ contemplators
 chastened
 ceratostomataceae
 cytococcus
-cimicidae
 cheliceral
 cypridinidae
 clergyman
@@ -18895,6 +18894,7 @@ colymbion
 colymbriformes
 chequy
 colymbus
+cimicidae
 choroid
 chaines
 colinear
