@@ -5235,6 +5235,7 @@ bullyragged
 basophils
 beaky
 bunkmate
+biocycles
 bowtie
 baldpates
 bebrine
@@ -8914,7 +8915,6 @@ biddings
 bandoras
 biocycle
 baboon
-biocycles
 biocide
 bookcases
 bioclimatic
