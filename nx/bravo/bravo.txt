@@ -584,7 +584,6 @@ bedrabble
 bacteremic
 bacteriaceae
 buhrstone
-bacteriaemia
 brobdingnagian
 brooched
 backstrap
@@ -1140,6 +1139,7 @@ borates
 botete
 bankman
 bountree
+bacteriaemia
 bairnwort
 baisemain
 besmears
