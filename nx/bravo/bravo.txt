@@ -3659,7 +3659,6 @@ books
 batsmen
 batt
 bobadilism
-bammed
 brotulidae
 bagwomen
 butterweed
@@ -10322,6 +10321,7 @@ blackweed
 brachycerous
 bladderet
 bladdery
+bammed
 bladderlike
 biblism
 bladderseed
