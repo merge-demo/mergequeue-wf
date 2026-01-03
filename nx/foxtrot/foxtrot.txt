@@ -8662,7 +8662,6 @@ forsythia
 fairyology
 findon
 forlorner
-flamberge
 freightless
 filterability
 futharks
@@ -10536,6 +10535,7 @@ fumbled
 flite
 foldstool
 floristry
+flamberge
 fusiliers
 frowl
 fierily
