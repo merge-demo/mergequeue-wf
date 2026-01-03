@@ -3039,7 +3039,6 @@ blepharedema
 bookbinderies
 bubba
 baptismal
-banish
 beetmister
 bliest
 burlesks
@@ -4740,6 +4739,7 @@ bibliogenesis
 bedewing
 blotches
 bloomeria
+banish
 blennorrhinia
 bedlamizing
 bandlimited
