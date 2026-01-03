@@ -8042,7 +8042,6 @@ embrasured
 epiotic
 encephalasthenia
 eutannin
-exopterygota
 exocline
 epipactis
 elasticized
@@ -10483,6 +10482,7 @@ eleanor
 effluviums
 ericius
 enteroviral
+exopterygota
 etherin
 egma
 epochist
