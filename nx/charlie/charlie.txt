@@ -7129,6 +7129,7 @@ centerable
 cutup
 chumpivilca
 centerboard
+crenelating
 centerer
 centerfold
 compania
@@ -29191,7 +29192,6 @@ cryosurgery
 cryptogamia
 cryosurgical
 convolutions
-crenelating
 colluvia
 coaming
 cyclospermous
