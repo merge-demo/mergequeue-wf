@@ -3207,6 +3207,7 @@ blowzily
 bakeboard
 basidiospore
 basidiosporous
+blurbist
 buckbush
 bodiless
 bedights
@@ -11586,7 +11587,6 @@ bocedization
 bats
 blup
 barbs
-blurbist
 bananist
 brasse
 balladries
