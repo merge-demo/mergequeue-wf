@@ -4973,7 +4973,6 @@ exactive
 estrada
 emulatress
 endeavour
-endamaging
 estreated
 ericeticolous
 exilable
@@ -5141,6 +5140,7 @@ exploiter
 effaced
 expositoriness
 earthmover
+endamaging
 ensheathe
 evanishment
 edificate
