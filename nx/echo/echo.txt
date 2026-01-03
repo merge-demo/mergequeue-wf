@@ -4288,7 +4288,6 @@ explorer
 exclusivism
 eptatretus
 emulsion
-eucaine
 etherene
 esotrope
 escurialize
@@ -7362,6 +7361,7 @@ eased
 energic
 eccoprotic
 eleut
+eucaine
 eparchies
 eternization
 equinoctial
