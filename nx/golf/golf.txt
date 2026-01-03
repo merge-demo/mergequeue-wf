@@ -7219,7 +7219,6 @@ gape
 gorgosaurus
 gavottes
 galenism
-gorillalike
 gamesters
 grimliness
 gloze
@@ -7436,6 +7435,7 @@ geest
 gadids
 gaditan
 gordolobo
+gorillalike
 galbulidae
 gotchy
 galactogogue
