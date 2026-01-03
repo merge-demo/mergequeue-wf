@@ -6235,7 +6235,6 @@ anteprostatic
 analogion
 agouara
 acetoacetic
-amarth
 autarkic
 antioptimist
 anachronically
@@ -13460,6 +13459,7 @@ annexion
 abnormalise
 avoidless
 atrophic
+amarth
 astigmatic
 annidalin
 areographical
