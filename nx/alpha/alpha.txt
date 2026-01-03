@@ -11407,6 +11407,7 @@ acone
 armaments
 afterturn
 accoutring
+antiphthisic
 atomic
 avalent
 avengeress
@@ -11427,7 +11428,6 @@ anagennesis
 annealed
 alodiality
 aerometry
-antiphthisic
 agglomerant
 anisettes
 acetoin
