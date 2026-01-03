@@ -3073,7 +3073,6 @@ gossipper
 giant
 gnash
 glaciologists
-grands
 graphiter
 greensauce
 gamelin
@@ -10678,6 +10677,7 @@ glycerols
 gurnard
 gildsman
 gastroenteroptosis
+grands
 glaucomatous
 grayfish
 googol
