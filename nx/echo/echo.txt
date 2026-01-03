@@ -2755,6 +2755,7 @@ endurability
 estadal
 enceint
 eleemosinar
+entity
 equipotent
 electees
 expounds
@@ -11160,7 +11161,6 @@ engram
 earthdrake
 exophagous
 epaulet
-entity
 eadi
 evacuated
 epitomatory

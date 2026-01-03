@@ -1097,7 +1097,6 @@ costoclavicular
 calchas
 calche
 cordials
-creeling
 ceriferous
 calcicolous
 calcicosis
@@ -17832,6 +17831,7 @@ calculous
 coddlers
 coddles
 codebooks
+creeling
 codebreaker
 codebtor
 conceptualizations
