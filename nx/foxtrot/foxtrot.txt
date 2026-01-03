@@ -2292,6 +2292,7 @@ fensive
 faulkland
 favoring
 forebearing
+frazzles
 falbalas
 fecula
 fenzelia
@@ -2759,7 +2760,6 @@ ftncmd
 foxtailed
 fieldwork
 fimbriation
-frazzles
 fixations
 finnmark
 forgoing
