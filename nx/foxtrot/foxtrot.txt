@@ -2863,6 +2863,7 @@ fondlike
 flog
 fishworks
 fackins
+fanum
 firefighters
 featous
 fights
@@ -10872,7 +10873,6 @@ fornent
 flaite
 functionally
 footholds
-fanum
 flavor
 fon
 forts
