@@ -14594,7 +14594,6 @@ compotier
 cystic
 cabuja
 conchoidal
-cysticercerci
 cysticerci
 chondrule
 chackling
@@ -29484,6 +29483,7 @@ comeliest
 cunye
 crystallomancy
 crystallometry
+cysticercerci
 continuist
 conjunctional
 continental
