@@ -1546,6 +1546,7 @@ frundel
 fauvette
 flowcontrol
 fishbowl
+futural
 firebirds
 funk
 fause
@@ -6345,7 +6346,6 @@ frags
 fluidity
 fuzzy
 flack
-futural
 fullback
 floyd
 finessed
