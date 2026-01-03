@@ -1493,7 +1493,6 @@ girllike
 grotesque
 gasher
 glumly
-gunmaker
 gluconate
 galosh
 gastrulae
@@ -2674,6 +2673,7 @@ gathering
 greatest
 guaraguao
 grangerisation
+gunmaker
 gloriosity
 gourde
 gervas
