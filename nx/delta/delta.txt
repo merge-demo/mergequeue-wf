@@ -3943,6 +3943,7 @@ diarize
 dkm
 dindling
 decontaminates
+deliquesces
 dunstone
 drugless
 dustman
@@ -9668,7 +9669,6 @@ depletive
 demission
 dikaryophytic
 dikdik
-deliquesces
 doorcase
 dipneusti
 devilward
