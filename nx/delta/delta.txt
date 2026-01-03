@@ -775,6 +775,7 @@ dispurpose
 drawn
 deglutinate
 devolatilize
+detrude
 dandles
 discute
 delirament
@@ -7427,7 +7428,6 @@ dervish
 doggereled
 diplomatists
 doebird
-detrude
 darbha
 diplegic
 defrosts
