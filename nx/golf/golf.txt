@@ -5028,7 +5028,6 @@ gunhouse
 gynandrosporous
 goiabada
 grotto
-galleypot
 governesshood
 glaucousness
 ghouls
@@ -10331,6 +10330,7 @@ gul
 gaming
 gladiest
 goldfishes
+galleypot
 gabari
 gravemaster
 gullably
