@@ -4099,6 +4099,7 @@ beetrave
 boyishness
 biassing
 ballistics
+beveled
 baroclinicity
 blamableness
 banco
@@ -7227,7 +7228,6 @@ burgee
 briary
 breaching
 blades
-beveled
 barrack
 bestraddled
 bachelorize
