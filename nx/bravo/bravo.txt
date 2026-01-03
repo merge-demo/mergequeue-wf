@@ -5397,7 +5397,6 @@ boggishness
 begruntle
 biographical
 begrutten
-bathtub
 beguess
 beguilement
 biunial
@@ -5705,6 +5704,7 @@ beamful
 blankite
 bestials
 budge
+bathtub
 bencite
 brerd
 burials
