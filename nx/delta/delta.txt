@@ -1001,7 +1001,6 @@ darings
 darius
 decolorising
 dinornithine
-doubleprecision
 dark
 darked
 darkeys
@@ -14910,6 +14909,7 @@ doddie
 delitous
 damosels
 disengagement
+doubleprecision
 dodecade
 dodecafid
 dodecahedral
