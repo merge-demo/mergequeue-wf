@@ -12209,7 +12209,6 @@ bureaucracies
 barbitos
 biclinium
 blaff
-balneum
 beeps
 blaine
 beclasped
@@ -15929,6 +15928,7 @@ bourignianist
 brinie
 bromidically
 baulea
+balneum
 bows
 brominate
 bene
