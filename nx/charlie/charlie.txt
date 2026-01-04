@@ -9479,7 +9479,6 @@ chlorin
 chevon
 coversed
 commendatory
-cheapest
 cawing
 cheapish
 condom
@@ -13186,6 +13185,7 @@ carriage
 climbingfishes
 catchable
 circumferent
+cheapest
 cycases
 cytogenies
 coverless
