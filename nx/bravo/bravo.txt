@@ -11328,7 +11328,6 @@ blowproof
 blows
 bleachability
 benzylamine
-barograms
 boneyard
 biologism
 bipunctate
@@ -17074,6 +17073,7 @@ bulkheading
 bulky
 bulkily
 bitterweed
+barograms
 befavour
 bihydrazine
 bulkish
