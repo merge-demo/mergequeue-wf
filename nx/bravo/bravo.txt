@@ -7533,7 +7533,6 @@ bardelle
 biathlon
 bedgery
 bevenom
-bever
 barleducs
 blemishment
 burses
@@ -12171,6 +12170,7 @@ boldly
 baedekers
 bonesets
 baalshem
+bever
 burbots
 bolty
 boldo
