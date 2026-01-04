@@ -14274,6 +14274,7 @@ antiqued
 anthicidae
 asop
 arthroplastic
+ascula
 amercements
 anthills
 anthinae
@@ -16648,7 +16649,6 @@ alioth
 antimosquito
 ammochryse
 anocithesia
-ascula
 aberrance
 apertures
 apes
