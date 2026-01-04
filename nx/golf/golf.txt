@@ -3203,6 +3203,7 @@ gazon
 gabler
 glycyrrhiza
 guildsman
+glaze
 geomantically
 grangerism
 graip
@@ -8510,7 +8511,6 @@ gov
 gerardias
 gleyde
 grivets
-glaze
 glands
 golfing
 graveclod
