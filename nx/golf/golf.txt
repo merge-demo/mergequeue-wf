@@ -4726,7 +4726,6 @@ gymnasiast
 gumshoe
 glucosuria
 grudgingly
-garnisheeing
 genista
 galeae
 gowland
@@ -9416,6 +9415,7 @@ grizzled
 gazi
 genocide
 genethlialogic
+garnisheeing
 genesis
 grothine
 greenleaf
