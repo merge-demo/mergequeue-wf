@@ -290,6 +290,7 @@ forecasters
 fourierite
 flock
 foreshortening
+fondest
 ford
 floorthrough
 flytrap
@@ -6986,7 +6987,6 @@ fussiness
 fortuity
 fordless
 fondateur
-fondest
 favilla
 fonding
 fondle
