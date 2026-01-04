@@ -5892,6 +5892,7 @@ entangledly
 elb
 edificing
 ecclesiast
+euphausia
 epigeum
 exterminist
 ewest
@@ -10231,7 +10232,6 @@ eavesdropped
 equisized
 eclair
 emotionalistic
-euphausia
 elzevirian
 elaborates
 extruders
