@@ -5465,7 +5465,6 @@ gamelote
 gyrfalcons
 gamolepis
 gonadic
-gandhiism
 gliffy
 grid
 goodwillies
@@ -8177,6 +8176,7 @@ gummous
 gulfed
 gorgeret
 greatish
+gandhiism
 gloat
 glowflies
 granulators
