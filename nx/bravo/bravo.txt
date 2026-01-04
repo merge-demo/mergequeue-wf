@@ -8015,7 +8015,6 @@ bicircular
 boson
 bitemporal
 byname
-bick
 bicycler
 bluebooks
 bisiliac
@@ -16064,6 +16063,7 @@ bozos
 bespectacled
 barythymia
 basifiers
+bick
 boubous
 brisance
 brahmanaspati
