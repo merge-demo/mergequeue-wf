@@ -7892,6 +7892,7 @@ groanful
 grammarless
 grammaticaster
 greatheart
+guesstimate
 garlandlike
 gabbais
 ghostlikeness
@@ -9491,7 +9492,6 @@ gravedigger
 gladiate
 goa
 gravific
-guesstimate
 ganser
 goosishly
 gleeishly
