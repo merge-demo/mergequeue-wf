@@ -4762,6 +4762,7 @@ eyepieces
 euphrosyne
 enarthrosis
 emeerates
+embussed
 enclasps
 ericaceae
 erotesis
@@ -11180,7 +11181,6 @@ egre
 euthyneural
 emprime
 elinguation
-embussed
 embottle
 extraparochially
 electragist

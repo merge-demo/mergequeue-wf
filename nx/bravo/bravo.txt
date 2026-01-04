@@ -4582,6 +4582,7 @@ betrunk
 bozo
 beseech
 buglewort
+brunetness
 bicellular
 biddelian
 backjaw
@@ -12321,7 +12322,6 @@ barbarea
 bestrowing
 bindis
 budgeteer
-brunetness
 blanquillo
 bombinae
 blastocele
