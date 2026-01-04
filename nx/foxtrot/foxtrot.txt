@@ -8797,6 +8797,7 @@ forgemen
 faradization
 flashed
 fiberglass
+footnoted
 floret
 forechurch
 flunking
@@ -11163,7 +11164,6 @@ fruitiest
 falseface
 frumple
 fingerhold
-footnoted
 ferulae
 featurally
 flowerbed
