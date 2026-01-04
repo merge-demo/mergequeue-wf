@@ -1446,7 +1446,6 @@ endoral
 epitasis
 epithalamia
 etherified
-esperantism
 essenced
 ebrious
 endpiece
@@ -11311,6 +11310,7 @@ ergatomorph
 episcoparian
 epoche
 excoriator
+esperantism
 earthbred
 ecurie
 englander
