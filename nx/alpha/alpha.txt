@@ -233,7 +233,6 @@ alchemistical
 animality
 ajourise
 aeroliths
-absorptiometric
 abbott
 adenomyxoma
 actable
@@ -13864,6 +13863,7 @@ achievability
 autere
 anserines
 anspessade
+absorptiometric
 assyriologue
 askaris
 amninions
