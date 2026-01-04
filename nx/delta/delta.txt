@@ -1488,6 +1488,7 @@ dazzler
 decemfid
 disillusions
 dazzlers
+disorientation
 damnification
 dazzlingness
 diatropism
@@ -17477,7 +17478,6 @@ daffle
 doubleheaders
 discriminoid
 destructed
-disorientation
 devoices
 densities
 drubbers
