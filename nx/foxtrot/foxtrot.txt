@@ -949,7 +949,6 @@ foundry
 fourchite
 fortunateness
 forms
-fanfishes
 flightless
 farandoles
 faxing
@@ -9867,6 +9866,7 @@ fricandeaux
 foozlers
 footcloths
 fluellen
+fanfishes
 foxily
 funnelform
 fibrosarcoma
