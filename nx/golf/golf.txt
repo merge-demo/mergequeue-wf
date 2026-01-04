@@ -1694,7 +1694,6 @@ gibson
 gros
 glycerolysis
 gunrunning
-girting
 guadagnini
 gester
 gluttonise
@@ -9835,6 +9834,7 @@ glebous
 guesstimated
 guayaqui
 gorgoneion
+girting
 gawcie
 goldbrick
 ghebeta
