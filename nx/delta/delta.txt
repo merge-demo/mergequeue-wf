@@ -504,6 +504,7 @@ dallier
 dup
 denuclearizes
 dextromanual
+dregless
 diminishingturns
 decollation
 dromotropic
@@ -5861,7 +5862,6 @@ deoxidised
 desensitization
 deota
 degradingness
-dregless
 dirk
 dysspermatism
 depreciate
