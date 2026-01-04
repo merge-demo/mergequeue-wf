@@ -9756,7 +9756,6 @@ gearing
 gable
 gibbetting
 glycerins
-gablewise
 gorged
 glutens
 geckoes
@@ -9876,6 +9875,7 @@ gettableness
 gonyocele
 gasholder
 grasshoppers
+gablewise
 gemmae
 goodliest
 glandularly
