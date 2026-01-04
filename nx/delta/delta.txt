@@ -4012,7 +4012,6 @@ disvantage
 delicate
 disposingly
 downhauls
-delicately
 denier
 darknesses
 domicil
@@ -13450,6 +13449,7 @@ disembarkations
 decedents
 disquisitions
 disquisitor
+delicately
 dismarble
 disobliger
 deepfreezed
