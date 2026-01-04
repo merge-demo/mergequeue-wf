@@ -9396,6 +9396,7 @@ frocks
 frostbiting
 forlore
 forestership
+forewit
 fascinates
 flocculant
 fleecier
@@ -11276,7 +11277,6 @@ foreact
 flatters
 furanoid
 fricandeaus
-forewit
 familiarizer
 furlane
 fibroglia

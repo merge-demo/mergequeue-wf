@@ -3663,7 +3663,6 @@ colarin
 chivied
 caracolling
 caracora
-caract
 caractacus
 caradoc
 carafes
@@ -10578,6 +10577,7 @@ chylifying
 chamoises
 carlylesque
 ceratozamia
+caract
 competitions
 chyliform
 chilina
