@@ -750,7 +750,6 @@ giantlikeness
 gollywog
 gonoplasm
 galvanoglyph
-gerbillinae
 gar
 goniometric
 gnawer
@@ -1780,6 +1779,7 @@ gomerils
 germinance
 goodless
 golliwogs
+gerbillinae
 gallic
 gonion
 grouchiest
