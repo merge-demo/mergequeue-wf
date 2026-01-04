@@ -6942,7 +6942,6 @@ alkenyl
 antitryptic
 atrioventricular
 arborist
-abaculus
 animal
 apportionable
 anoure
@@ -14501,6 +14500,7 @@ adenoneural
 armature
 anthropomorphised
 arimaspian
+abaculus
 autocopist
 admirability
 arborean
