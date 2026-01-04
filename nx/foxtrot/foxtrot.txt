@@ -2616,6 +2616,7 @@ fernando
 familiarisation
 farmlands
 farmyardy
+fantast
 fabric
 falanaka
 forwoden
@@ -10486,7 +10487,6 @@ foregoer
 forbodes
 fosterland
 fibroin
-fantast
 forewarns
 fluffs
 flatweed
