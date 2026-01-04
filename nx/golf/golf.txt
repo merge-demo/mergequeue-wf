@@ -5374,7 +5374,6 @@ gravitating
 gingal
 gammadion
 gloaters
-glistered
 greenbug
 gritrock
 guiltless
@@ -8697,6 +8696,7 @@ greenflies
 glean
 gynaecoid
 groundable
+glistered
 gome
 glissading
 gutterling
