@@ -3931,7 +3931,6 @@ glarily
 gravidness
 galeoid
 gymnetrous
-goral
 gnostic
 glens
 glossocarcinoma
@@ -4556,6 +4555,7 @@ girder
 gil
 generalate
 goosebill
+goral
 geometrid
 grating
 goupen
