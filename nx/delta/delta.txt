@@ -5240,6 +5240,7 @@ denseness
 dorsel
 depauperized
 densify
+dispeopling
 disqualifications
 desmodactyli
 dengue
@@ -11604,7 +11605,6 @@ dithering
 discerpibility
 disconsolately
 datasets
-dispeopling
 demophobe
 digester
 dimplement
