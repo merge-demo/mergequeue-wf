@@ -2248,7 +2248,6 @@ enchased
 eysoge
 embryogeny
 exhumate
-electrostenolysis
 elecives
 electant
 entify
@@ -7512,6 +7511,7 @@ estall
 eophytic
 endited
 eastmost
+electrostenolysis
 elite
 electrosynthesis
 ethylate
