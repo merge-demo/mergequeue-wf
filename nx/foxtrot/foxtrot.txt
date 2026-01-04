@@ -4434,7 +4434,6 @@ fannings
 farcied
 flustered
 fairkeeper
-fishplate
 feste
 fate
 fishpole
@@ -6483,6 +6482,7 @@ fumagine
 fenestellidae
 fouquieriaceous
 flightful
+fishplate
 funambulation
 foulness
 fictor
