@@ -6799,6 +6799,7 @@ flaccidity
 footbeat
 forfalt
 faithfuls
+fancier
 forams
 funbre
 fungin
@@ -9920,7 +9921,6 @@ featherworker
 felid
 fecifork
 friendlessness
-fancier
 fornices
 froideur
 frogskins
