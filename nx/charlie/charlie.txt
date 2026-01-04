@@ -4967,7 +4967,6 @@ cesarean
 circumambages
 cartelist
 costars
-cartelistic
 cupeling
 cassava
 calixtin
@@ -13626,6 +13625,7 @@ cymbalom
 cimbaloms
 cymbalon
 cymbel
+cartelistic
 cymbid
 clochard
 cymbidium
