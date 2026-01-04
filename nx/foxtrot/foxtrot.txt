@@ -5736,6 +5736,7 @@ ferulas
 fastiia
 frontis
 farced
+fraternate
 ferule
 fleuronnee
 fungous
@@ -6068,7 +6069,6 @@ fungiform
 frump
 firmarius
 freebooted
-fraternate
 flocculating
 frayn
 floridity
