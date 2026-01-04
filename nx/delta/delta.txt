@@ -7754,7 +7754,6 @@ dicyandiamide
 dodecasyllable
 diptychon
 dignation
-devoice
 duvet
 decolourising
 devoir
@@ -18454,6 +18453,7 @@ duality
 duplicitously
 disprizing
 distasted
+devoice
 duplify
 dol
 denudative
