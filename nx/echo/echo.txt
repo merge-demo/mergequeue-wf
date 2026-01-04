@@ -12411,6 +12411,7 @@ endite
 engobe
 easting
 epifaunas
+epitympanum
 exhortations
 elatery
 eisegeses
@@ -13759,7 +13760,6 @@ estampede
 entea
 extispicious
 extoling
-epitympanum
 edingtonite
 edestosaurus
 epiphysary
