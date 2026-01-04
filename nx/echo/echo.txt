@@ -10704,6 +10704,7 @@ epitra
 echinocactus
 erebus
 euglenoid
+eucrystalline
 electrotypic
 evenworthy
 ecossaise
@@ -10806,7 +10807,6 @@ epitactic
 encumber
 engrafts
 embracer
-eucrystalline
 elastance
 eurodollar
 expurgatory
