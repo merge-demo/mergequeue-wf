@@ -1387,7 +1387,6 @@ endoskeletal
 essentialness
 exomis
 evasional
-ebcdic
 expletive
 enopla
 exemplupla
@@ -2561,6 +2560,7 @@ extratribal
 excepting
 electromagnetism
 euomphalus
+ebcdic
 elaborations
 euonymous
 endosmose
