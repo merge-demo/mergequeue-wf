@@ -10984,6 +10984,7 @@ floricin
 fumatoria
 freesilverism
 fieldfare
+forbidder
 flypast
 farde
 forethoughtless
@@ -11087,7 +11088,6 @@ footrace
 flew
 falconet
 flangeless
-forbidder
 foreknowableness
 fane
 factfinder
