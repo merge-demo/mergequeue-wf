@@ -7466,7 +7466,6 @@ copecks
 cephalosome
 campbellite
 cephalotaceae
-chalaziferous
 cephalotaxus
 conventicles
 cephalothoraxes
@@ -16832,6 +16831,7 @@ cytological
 caduciaries
 crankish
 calorescent
+chalaziferous
 chlored
 carillonneurs
 cosmetologists
