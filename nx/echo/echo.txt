@@ -4729,6 +4729,7 @@ ecstrophy
 esthematology
 electroencephalographs
 entrammel
+eponymus
 ensuance
 englishism
 enrapture
@@ -8457,7 +8458,6 @@ electroanalytic
 electroencephalography
 eponym
 etiolate
-eponymus
 ensand
 epicier
 enthronizing
