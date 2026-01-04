@@ -1690,7 +1690,6 @@ ethylenes
 epiphloedal
 electromerism
 electrotaxis
-emigr
 ejusdem
 enfurrow
 eisteddfodic
@@ -3213,6 +3212,7 @@ epitrophy
 epigonousepigons
 entheasm
 euphenics
+emigr
 edict
 extortionists
 epiplastral
