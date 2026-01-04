@@ -657,7 +657,6 @@ brioche
 bicorne
 bombo
 biannual
-bathyesthesia
 baculine
 boiseries
 baculoid
@@ -9281,6 +9280,7 @@ bipyridyl
 broadsides
 bacterioidal
 bedouinism
+bathyesthesia
 bothersomeness
 bracteiform
 byplay
