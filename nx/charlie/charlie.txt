@@ -7441,7 +7441,6 @@ cephalonasal
 cephalopathy
 cephalopharyngeal
 cephalophyma
-citramontane
 counterweighing
 cephalophine
 cryostats
@@ -21099,6 +21098,7 @@ comsat
 clostridial
 comsomol
 competingly
+citramontane
 cray
 countertheory
 comstockeries
