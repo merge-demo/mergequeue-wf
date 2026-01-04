@@ -2775,7 +2775,6 @@ goschen
 guanins
 gainsayers
 gunfire
-greenflies
 germanism
 gauger
 gorraf
@@ -8692,6 +8691,7 @@ gawkishly
 geotactic
 garrets
 gree
+greenflies
 glean
 gynaecoid
 groundable
