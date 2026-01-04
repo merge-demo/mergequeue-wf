@@ -22175,6 +22175,7 @@ cass
 concentrativeness
 confricamentum
 counsellors
+companion
 catoquina
 confrontation
 convictable
@@ -29498,7 +29499,6 @@ checkerboard
 cliffside
 coevality
 crystallurgy
-companion
 coroniform
 crushed
 chithe
