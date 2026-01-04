@@ -9200,6 +9200,7 @@ dieing
 deprovincialize
 downcourt
 derat
+defoam
 dyeings
 discontented
 dieldrin
@@ -13976,7 +13977,6 @@ discrepance
 dorsispinal
 dialectically
 decentralisation
-defoam
 diplococcus
 dunking
 discohexaster
