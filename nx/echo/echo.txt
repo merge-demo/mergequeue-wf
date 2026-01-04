@@ -3481,7 +3481,6 @@ encolour
 errand
 exolete
 exothecate
-ecliptic
 enfiladed
 esd
 epigean
@@ -13714,6 +13713,7 @@ elegiast
 elocular
 ecologies
 eliciting
+ecliptic
 elementarity
 executrix
 elatine
