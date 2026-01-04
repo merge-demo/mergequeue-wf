@@ -8650,6 +8650,7 @@ greened
 govern
 gladiators
 gradal
+gendarmerie
 greyish
 gemsbok
 guttered
@@ -9981,7 +9982,6 @@ guatibero
 glood
 guaza
 glycerinated
-gendarmerie
 goodbys
 guillevat
 guggled
