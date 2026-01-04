@@ -6794,7 +6794,6 @@ clition
 celebrant
 cohesions
 celebrants
-celebrate
 comiakin
 celebratedly
 celebrater
@@ -31632,6 +31631,7 @@ circumambulating
 coconucan
 cooter
 cancelier
+celebrate
 curvometer
 cheeker
 carduelis
