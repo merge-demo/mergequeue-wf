@@ -5946,7 +5946,6 @@ fossilify
 freehand
 feretories
 fishtailing
-freemartin
 foreloper
 floodlight
 furzes
@@ -10776,6 +10775,7 @@ femme
 fatalism
 frisks
 fashious
+freemartin
 fade
 fascisticize
 finials
