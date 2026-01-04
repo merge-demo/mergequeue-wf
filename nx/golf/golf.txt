@@ -5637,6 +5637,7 @@ gloomings
 gravitated
 graveward
 gunyang
+ghostish
 gigawatt
 germanics
 gubernacular
@@ -8051,7 +8052,6 @@ gript
 gunstocking
 gastronomy
 gastronomics
-ghostish
 gata
 gunstock
 grandpapa
