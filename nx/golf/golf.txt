@@ -1524,6 +1524,7 @@ geratology
 gasman
 gasbags
 galactosemia
+glyptodon
 gasmen
 grippal
 galenian
@@ -5438,7 +5439,6 @@ glossoepiglottidean
 germanly
 glauconiidae
 garottes
-glyptodon
 glyptodontoid
 ghostwrites
 galactophlebitis
