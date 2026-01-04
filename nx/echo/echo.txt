@@ -1760,7 +1760,6 @@ engrammatic
 exasper
 exclaimers
 exonerated
-eyelash
 euroclydon
 eliding
 epikia
@@ -4200,6 +4199,7 @@ empower
 eriocaulon
 empress
 esbay
+eyelash
 evacuates
 earthlight
 empresses
