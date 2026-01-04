@@ -10024,7 +10024,6 @@ cump
 cherish
 chordeiles
 chordates
-crawfishes
 chymic
 cherisher
 cherishment
@@ -22746,6 +22745,7 @@ conorhinus
 cyananthrol
 childbear
 conoscenti
+crawfishes
 conjecture
 columnizes
 conoscopic
