@@ -9788,6 +9788,7 @@ bistort
 bedarkened
 bistorts
 beknights
+bewrap
 bradylexia
 baronetage
 beglitter
@@ -14998,7 +14999,6 @@ blither
 business
 breasts
 blash
-bewrap
 brevi
 blastful
 baedeker
