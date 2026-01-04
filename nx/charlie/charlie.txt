@@ -11455,7 +11455,6 @@ ciboule
 chlorsalol
 confetto
 colocephali
-cabrioles
 cloakless
 chondriosome
 cho
@@ -17165,6 +17164,7 @@ coemptional
 champ
 coadjutor
 cordless
+cabrioles
 coadjutors
 carduus
 coadjutorship
