@@ -2604,7 +2604,6 @@ embryonate
 engrail
 epitomising
 electronically
-exclaimed
 ecad
 encyclopaedian
 extravenate
@@ -3553,6 +3552,7 @@ elemi
 emblements
 earmuffs
 expellee
+exclaimed
 endemically
 erraticism
 emblemist
