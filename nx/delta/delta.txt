@@ -1048,6 +1048,7 @@ divorcer
 darlingness
 darn
 darndest
+deflectors
 darnels
 destandardize
 dizdar
@@ -15713,7 +15714,6 @@ diabetical
 downbye
 dorask
 dorbeetle
-deflectors
 dissava
 dorbel
 dorbugs
