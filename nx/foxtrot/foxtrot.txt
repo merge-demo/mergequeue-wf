@@ -1661,7 +1661,6 @@ forgrow
 fortuitousness
 foliolose
 fearedly
-frisker
 fearedness
 fluidizes
 fathometer
@@ -10568,6 +10567,7 @@ frowzled
 firebases
 footworn
 fresh
+frisker
 file
 falding
 fibration
