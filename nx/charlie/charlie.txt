@@ -7254,7 +7254,6 @@ corruptest
 centrifugalize
 catawba
 clamors
-centrifugaller
 cladoceran
 centrifugate
 centrifuge
@@ -11778,6 +11777,7 @@ chondrenchyma
 caramelin
 cocomats
 columbian
+centrifugaller
 curdiest
 chondrify
 chondrification
