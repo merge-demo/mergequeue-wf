@@ -889,7 +889,6 @@ glove
 gers
 glossarize
 guily
-gymnophiona
 gangplank
 guerrilla
 glyoxime
@@ -5330,6 +5329,7 @@ glomerulate
 galactosemic
 graciosos
 gabionade
+gymnophiona
 glassmen
 greener
 glycollate
