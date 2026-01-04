@@ -2111,6 +2111,7 @@ boguing
 boomless
 bulker
 billbeetle
+bogbean
 bloodbeat
 banshies
 bornan
@@ -5125,7 +5126,6 @@ bombshells
 beflour
 beflowered
 biotas
-bogbean
 beguile
 barbastel
 bankers
