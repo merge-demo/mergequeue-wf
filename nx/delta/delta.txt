@@ -11307,7 +11307,6 @@ diesel
 disadvantagedness
 diptyca
 dhoty
-discases
 discasing
 discatter
 derailments
@@ -15884,6 +15883,7 @@ dossels
 disclaiming
 drench
 dossennus
+discases
 dressings
 decapodiform
 dosseret
