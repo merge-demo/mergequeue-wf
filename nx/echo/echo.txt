@@ -2013,7 +2013,6 @@ excitonic
 ectoskeleton
 entoproct
 exophoric
-empetrum
 experienceless
 eryngo
 ekron
@@ -4783,6 +4782,7 @@ entophyte
 enclaves
 eccentrical
 entrepreneurs
+empetrum
 epichondrotic
 euthermic
 eucalyn
