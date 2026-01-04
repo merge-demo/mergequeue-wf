@@ -3746,7 +3746,6 @@ batts
 befouler
 boing
 bulkage
-bulletproofing
 brahmanic
 broideress
 bemadden
@@ -6381,6 +6380,7 @@ benzoylated
 becuna
 blankness
 benzoylation
+bulletproofing
 borize
 blas
 brinishness
