@@ -6105,6 +6105,7 @@ astrolabes
 agitato
 aglossia
 aglucon
+anthraxylon
 agminated
 agnails
 agnat
@@ -14420,7 +14421,6 @@ antimaterialistic
 arsenical
 anthratriol
 asymmetry
-anthraxylon
 aetiologies
 anthrenus
 allobaric
