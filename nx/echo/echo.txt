@@ -5802,7 +5802,6 @@ englobe
 empressements
 epigraphy
 expressions
-englobed
 enneahedral
 epiphysitis
 envelopment
@@ -7664,6 +7663,7 @@ eoliths
 enterohelcosis
 epiparodos
 epicortical
+englobed
 enterostomy
 enterocinetic
 esere
