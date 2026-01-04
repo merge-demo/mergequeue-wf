@@ -4937,7 +4937,6 @@ diamb
 demountable
 devastators
 dempsters
-deaerate
 demulcents
 diphycercy
 diseasedly
@@ -9492,6 +9491,7 @@ donatives
 drabs
 donationes
 dyspareunia
+deaerate
 digraphic
 demiurge
 decontaminated
