@@ -8033,6 +8033,7 @@ betrayal
 bicolors
 bidder
 bullescene
+biramose
 biconnected
 bouleuterion
 boildown
@@ -9759,7 +9760,6 @@ botticellian
 brichette
 befriends
 breakages
-biramose
 balaos
 bankbook
 backslapped
