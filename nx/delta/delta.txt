@@ -414,7 +414,6 @@ dairywomen
 daunder
 dictates
 descanting
-dayrooms
 deities
 dodrantal
 dhourra
@@ -11558,6 +11557,7 @@ discommodities
 disubstituted
 defassa
 dynamometry
+dayrooms
 discommoned
 dextrinase
 detective
