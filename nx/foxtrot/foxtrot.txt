@@ -1136,6 +1136,7 @@ fanzine
 filiates
 forlornness
 fubs
+fluavile
 fluidram
 felonry
 footprints
@@ -6201,7 +6202,6 @@ falange
 fog
 fivepence
 flrie
-fluavile
 feudum
 foreread
 fairgoing
