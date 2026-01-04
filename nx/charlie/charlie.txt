@@ -18292,6 +18292,7 @@ coffeepots
 colloidize
 coffeeroom
 coffees
+cuspidor
 counterview
 coffeetime
 coffer
@@ -31700,7 +31701,6 @@ chondromyxoma
 cesuras
 carbuncled
 cotyloid
-cuspidor
 cephalopodan
 counterapse
 cusping
