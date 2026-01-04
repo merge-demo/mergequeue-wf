@@ -4010,7 +4010,6 @@ emunct
 empearl
 electroretinography
 exultancy
-esothyropexy
 effloresce
 epilamellar
 etymologise
@@ -6589,6 +6588,7 @@ embitter
 enterectomy
 enterer
 eulogious
+esothyropexy
 excusive
 epipterous
 eccritic
