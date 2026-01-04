@@ -11526,7 +11526,6 @@ choicely
 cost
 campodeidae
 choiceness
-choicier
 choil
 chymistry
 choile
@@ -22803,6 +22802,7 @@ consciences
 cooperatingly
 consciencewise
 conscientious
+choicier
 chorionepithelioma
 conscionable
 centralism
