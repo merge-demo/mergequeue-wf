@@ -496,7 +496,6 @@ gnomes
 gluconokinase
 geomorphology
 gisement
-giddily
 gratuity
 geographic
 gamekeepers
@@ -2995,6 +2994,7 @@ genealogizer
 grievers
 galliardness
 geoids
+giddily
 gloriole
 galatine
 ghetti
