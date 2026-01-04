@@ -2905,7 +2905,6 @@ facier
 fooleries
 fac
 flaked
-foveolets
 formulist
 fortunite
 furloughs
@@ -4984,6 +4983,7 @@ fingerlet
 foraminate
 fact
 forestcraft
+foveolets
 fadeaway
 fringiest
 formalise
