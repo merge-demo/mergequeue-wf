@@ -2209,6 +2209,7 @@ bararite
 breakerman
 barathea
 bristol
+backus
 brasqued
 bibbled
 bemaddens
@@ -13764,7 +13765,6 @@ bircher
 banqueted
 billetwood
 baronies
-backus
 balneatory
 boutefeu
 bouteria
