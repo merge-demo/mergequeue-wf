@@ -409,7 +409,6 @@ choriocapillaris
 cacomorphia
 ceramography
 cacomorphosis
-confabulation
 chrysin
 caconymic
 cacoon
@@ -7795,6 +7794,7 @@ coinhering
 capromys
 ceroplasty
 ceroplastic
+confabulation
 ceroplastics
 cyanocrystallin
 cerosin
