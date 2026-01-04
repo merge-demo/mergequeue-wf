@@ -1642,7 +1642,6 @@ dealkylate
 daundered
 disassembler
 deallocate
-deobstruct
 devotional
 dicephalus
 darkhaired
@@ -17933,6 +17932,7 @@ disamenity
 deve
 durrie
 durras
+deobstruct
 dugento
 devouress
 dugongidae
