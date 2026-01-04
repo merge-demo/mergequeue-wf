@@ -9135,6 +9135,7 @@ floodable
 fetise
 feridgi
 formity
+fliers
 formalins
 fulfils
 furtum
@@ -9453,7 +9454,6 @@ felidae
 footballs
 foliiferous
 flamines
-fliers
 foodstuff
 foreteeth
 frary
