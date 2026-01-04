@@ -10550,6 +10550,7 @@ amylogenic
 aget
 axerophthol
 archoptoma
+apparentness
 attend
 adossee
 acatharsia
@@ -19097,7 +19098,6 @@ archivist
 archregent
 archrogue
 archruler
-apparentness
 antimediaevalism
 arachnophagous
 ancha
