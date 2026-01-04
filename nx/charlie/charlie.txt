@@ -24110,7 +24110,6 @@ cypria
 citycism
 chirping
 croatian
-cricothyroid
 catoptrics
 commiserator
 chomper
@@ -30134,6 +30133,7 @@ crozes
 crozing
 crpe
 crts
+cricothyroid
 coccinella
 crubeen
 coxofemoral
