@@ -6192,7 +6192,6 @@ ganglionless
 grivois
 gamblesome
 gardener
-geomyidae
 guahibo
 glyptodontidae
 giantize
@@ -10065,6 +10064,7 @@ glossophobia
 goblinize
 groupist
 gumshoed
+geomyidae
 grakle
 gonomere
 gorgerin
