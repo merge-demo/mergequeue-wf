@@ -1153,6 +1153,7 @@ glazes
 grouses
 goninidia
 genin
+genoblastic
 gitoxin
 gnarring
 gestion
@@ -3806,7 +3807,6 @@ glomerule
 gunong
 giantsize
 gaub
-genoblastic
 gouvernantes
 giarra
 gherao
