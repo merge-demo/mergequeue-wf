@@ -3652,7 +3652,6 @@ galleriidae
 galactoid
 goetae
 gynaecology
-granitification
 guttersnipes
 ghastliness
 grumblesome
@@ -9426,6 +9425,7 @@ galgal
 grothite
 glumiflorae
 guatoan
+granitification
 gymel
 glycerolize
 gnattier
