@@ -10372,7 +10372,6 @@ bordman
 boil
 boozers
 blame
-bicyclical
 byward
 betise
 blamefulness
@@ -14830,6 +14829,7 @@ brazier
 barres
 ballooner
 bombable
+bicyclical
 burgheress
 bistable
 baru
