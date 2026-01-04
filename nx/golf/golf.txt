@@ -6653,7 +6653,6 @@ gash
 geostatic
 grandioso
 gustoish
-genocides
 gonfalcon
 gradienter
 glossopyrosis
@@ -8436,6 +8435,7 @@ grawls
 gropes
 gigglier
 gyves
+genocides
 gonoblastic
 goldonian
 glassweed
