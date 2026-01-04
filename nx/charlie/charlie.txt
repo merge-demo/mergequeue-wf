@@ -10020,6 +10020,7 @@ cherimoyer
 cump
 cherish
 chordeiles
+chordates
 crawfishes
 chymic
 cherisher
@@ -30823,7 +30824,6 @@ cannibalish
 colicweed
 consonances
 cinereous
-chordates
 culmed
 cosuretyship
 casco
