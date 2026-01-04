@@ -1959,6 +1959,7 @@ gobans
 gauleiter
 grated
 gulonic
+gastrosuccorrhea
 grossing
 gaultherin
 gaunch
@@ -3827,7 +3828,6 @@ glucke
 gnostical
 galliass
 grungier
-gastrosuccorrhea
 gibbosely
 gibbous
 gentilesse
