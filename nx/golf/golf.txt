@@ -8871,6 +8871,7 @@ geopotential
 garboard
 grieved
 gateless
+gorhen
 gyroceracone
 genappe
 gastrocystis
@@ -10763,7 +10764,6 @@ gutbucket
 gonfalonierate
 gloam
 graminin
-gorhen
 gimbals
 glamourie
 geranyl
