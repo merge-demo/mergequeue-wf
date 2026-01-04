@@ -6987,7 +6987,6 @@ entourage
 empt
 enounces
 embryologic
-enantiomorphy
 elicitate
 embrocado
 entraining
@@ -9444,6 +9443,7 @@ enantobiosis
 excuseful
 exostosed
 epipodium
+enantiomorphy
 exceptive
 escarps
 escharotic
