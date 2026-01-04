@@ -5893,6 +5893,7 @@ fdname
 flockings
 fudged
 fulsamic
+freeing
 folgerite
 fencepost
 firemen
@@ -6811,7 +6812,6 @@ foveiform
 fjelds
 frette
 fabula
-freeing
 foraminiferan
 fikery
 feuille
