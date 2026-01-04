@@ -2921,7 +2921,6 @@ gadaba
 gadders
 geocentric
 gadwell
-gerontocracy
 gigots
 ganta
 glints
@@ -7225,6 +7224,7 @@ gymnocarpous
 gizzen
 galahad
 grabbler
+gerontocracy
 globulose
 gallanted
 graminifolious
