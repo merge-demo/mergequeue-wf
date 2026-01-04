@@ -224,7 +224,6 @@ dojos
 dorstenia
 donees
 daftness
-dinnertime
 dorsula
 displanting
 diff
@@ -8285,6 +8284,7 @@ dagesh
 desonation
 digitation
 doombook
+dinnertime
 dialyzer
 diagrams
 dentin
