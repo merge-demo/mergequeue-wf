@@ -2032,7 +2032,6 @@ enantiomorphism
 emulsic
 endodontist
 eradiculose
-elixate
 elabrate
 epirrhematic
 epigaea
@@ -2623,6 +2622,7 @@ exhilarator
 empididae
 erythroblastosis
 essaying
+elixate
 envies
 embassies
 elysian
