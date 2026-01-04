@@ -647,7 +647,6 @@ gerodontia
 gaucherie
 gasometry
 gestatorial
-ghostlify
 grueling
 glaive
 grecophil
@@ -9255,6 +9254,7 @@ gravigrade
 grist
 guanase
 glebe
+ghostlify
 growthiness
 glucagon
 gyroceran
