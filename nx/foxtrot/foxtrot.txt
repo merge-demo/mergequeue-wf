@@ -7615,7 +7615,6 @@ frankheartedness
 flightworthy
 fatuity
 footslogs
-flacherie
 fatimid
 fructuarius
 funiculus
@@ -9229,6 +9228,7 @@ footled
 fries
 flaming
 fragileness
+flacherie
 ficiform
 filmer
 forbears
