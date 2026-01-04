@@ -231,7 +231,6 @@ gail
 gawker
 gundy
 glowfly
-graffiti
 gabbles
 germanomaniac
 guardfully
@@ -10619,6 +10618,7 @@ garle
 gloomiest
 gunpower
 gasping
+graffiti
 gentled
 gourmandise
 gimmickry
