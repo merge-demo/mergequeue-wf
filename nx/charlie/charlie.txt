@@ -13325,7 +13325,6 @@ chetverik
 cataloguer
 chemiatry
 cycloid
-cycloidean
 coalshed
 cogswellia
 culmicolous
@@ -30981,6 +30980,7 @@ cumbrian
 conferee
 chnuphis
 cherkesser
+cycloidean
 counterflight
 clinchpoop
 cumbrous
