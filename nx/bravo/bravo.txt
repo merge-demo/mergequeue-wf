@@ -3802,7 +3802,6 @@ bauhinias
 baul
 barrington
 boreas
-burgeoning
 baulked
 bearbane
 bookfair
@@ -17722,6 +17721,7 @@ belfast
 bartree
 burned
 burner
+burgeoning
 benempt
 bemuzzled
 bott
