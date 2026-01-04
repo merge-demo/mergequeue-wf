@@ -8461,6 +8461,7 @@ egeria
 epizootology
 epocha
 embaying
+elsewhere
 epollicate
 ethoses
 eponge
@@ -9433,7 +9434,6 @@ embodied
 enfranchiser
 episcopes
 elaphomyces
-elsewhere
 esophagorrhagia
 escapist
 endoss
