@@ -9165,7 +9165,6 @@ evanid
 enleague
 ermines
 endovaccination
-ectocinerea
 encolor
 enates
 elaphe
@@ -10513,6 +10512,7 @@ euphemisms
 escalan
 ettle
 ecclesiolatry
+ectocinerea
 eucgia
 eightpenny
 enologies
