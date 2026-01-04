@@ -5894,6 +5894,7 @@ cochlearia
 chemicopharmaceutical
 cuemanship
 cleaves
+corkmaker
 categorization
 coryzal
 corona
@@ -20819,7 +20820,6 @@ complimentative
 cana
 complimenter
 complimentingly
-corkmaker
 complin
 cranioplasty
 concessively
