@@ -4993,7 +4993,6 @@ divisibly
 dramaturgical
 dename
 dimera
-domn
 denarinarii
 deluder
 denaro
@@ -12179,6 +12178,7 @@ dredger
 dichloromethane
 daystreak
 dilker
+domn
 disproven
 declinations
 dehusk
