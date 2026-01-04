@@ -1943,6 +1943,7 @@ forbite
 formalistically
 forecaster
 fothergilla
+foreteller
 fancy
 feebless
 filatory
@@ -10894,7 +10895,6 @@ fulgurated
 fosie
 forgathers
 finished
-foreteller
 fractural
 ferris
 fulled
