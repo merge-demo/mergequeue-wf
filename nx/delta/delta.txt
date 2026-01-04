@@ -1314,6 +1314,7 @@ diobolons
 dishy
 dopesheet
 dolf
+defog
 daltonic
 defial
 deoxidizers
@@ -15160,7 +15161,6 @@ doilies
 decancellating
 diglottism
 divarication
-defog
 dedicatorial
 degummed
 diaphragmed
