@@ -17447,7 +17447,6 @@ coats
 coattend
 cajeta
 coattending
-conductivities
 cineangiocardiographic
 cantrips
 coattestator
@@ -27360,6 +27359,7 @@ coursers
 courses
 coursing
 court
+conductivities
 courtage
 climacterics
 courtal
