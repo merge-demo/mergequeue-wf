@@ -12306,7 +12306,6 @@ chrysophilist
 chrysophyte
 chromonemic
 chrysopid
-chrysopidae
 chrysoprase
 chrysoprasus
 chasmic
@@ -18272,6 +18271,7 @@ cofactors
 castrating
 cofane
 conflagrator
+chrysopidae
 cutlery
 cofeature
 coferment
