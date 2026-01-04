@@ -6446,7 +6446,6 @@ anzanian
 archchief
 antecardium
 allantiasis
-adjuvate
 ahi
 azotometer
 algaesthesis
@@ -23082,6 +23081,7 @@ amianthoid
 asfast
 attainment
 acridium
+adjuvate
 attainted
 asepticized
 adjoiningness
