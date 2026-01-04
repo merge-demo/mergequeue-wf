@@ -331,7 +331,6 @@ disinsection
 daybreaks
 diplostichous
 duskness
-dreamt
 daygoing
 desiccation
 daiker
@@ -1050,6 +1049,7 @@ darnels
 destandardize
 dizdar
 diplohedral
+dreamt
 diacodium
 deas
 disobliging
