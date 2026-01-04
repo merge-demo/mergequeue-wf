@@ -3470,6 +3470,7 @@ eustomatous
 eriometer
 episyllogism
 enthroning
+entocornea
 edeotomy
 eucirripedia
 engrain
@@ -13020,7 +13021,6 @@ encolumn
 entastic
 existentially
 esophagectomy
-entocornea
 ergotic
 estafette
 electrocauteries
