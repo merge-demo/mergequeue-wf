@@ -1266,7 +1266,6 @@ diazoic
 denari
 demitasses
 datives
-desmids
 dossil
 dermoptera
 deti
@@ -2197,6 +2196,7 @@ diphyozooid
 decarburise
 decarburising
 diakonika
+desmids
 differing
 directorship
 dissympathy
