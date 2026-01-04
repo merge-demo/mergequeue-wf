@@ -7282,6 +7282,7 @@ foeffment
 flares
 forecasts
 fireshaft
+fulgently
 formiate
 featherers
 fustet
@@ -11657,7 +11658,6 @@ fillowite
 fastigious
 foxskins
 functionalized
-fulgently
 fluavil
 fresne
 fluorochrome
