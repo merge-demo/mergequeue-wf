@@ -5779,7 +5779,6 @@ flimflammery
 fpsps
 fictile
 farmage
-frump
 fulfilling
 flurriedly
 faailk
@@ -6068,6 +6067,7 @@ fertilize
 frizz
 flunkeyize
 fungiform
+frump
 firmarius
 freebooted
 fraternate
