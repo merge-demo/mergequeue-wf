@@ -6529,6 +6529,7 @@ ephemeric
 englishes
 ephemeris
 egomaniacal
+enumerators
 enrollment
 essayists
 entrenchments
@@ -10710,7 +10711,6 @@ euglenaceae
 extrasyllabic
 embraced
 endopleural
-enumerators
 euripus
 epitra
 echinocactus
