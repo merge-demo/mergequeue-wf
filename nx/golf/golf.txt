@@ -3192,6 +3192,7 @@ gramoches
 geoscopic
 geosphere
 graying
+guineaman
 gapless
 guerilla
 geochronologist
@@ -5228,7 +5229,6 @@ groundline
 garrulousness
 gleety
 glottidean
-guineaman
 groundneedle
 grassflower
 glottiscope
