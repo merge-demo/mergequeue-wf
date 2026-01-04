@@ -1212,7 +1212,6 @@ antivitamin
 acanthomas
 acanthomeridae
 acanthopanax
-agriot
 aculeata
 anlia
 acanthophorous
@@ -6368,6 +6367,7 @@ aurung
 ancylostoma
 afro
 automatograph
+agriot
 adsorbate
 agromyzid
 alleyed
