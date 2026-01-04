@@ -2489,6 +2489,7 @@ crystallitic
 cancrum
 cancrums
 cand
+clansmen
 candelabras
 candelabrum
 corelatively
@@ -16035,7 +16036,6 @@ covado
 canniness
 curableness
 clerstory
-clansmen
 cyamelid
 coolheadedness
 cleruchy
