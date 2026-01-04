@@ -5074,7 +5074,6 @@ aesir
 aesop
 amtracs
 autunian
-aesthesodic
 allaeanthus
 ardisiaceae
 abased
@@ -8875,6 +8874,7 @@ agallochum
 anematizing
 aerobiologic
 allomorphism
+aesthesodic
 allomorphite
 allonym
 alongst
