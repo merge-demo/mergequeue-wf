@@ -1534,6 +1534,7 @@ diddlers
 dieugard
 dynamisms
 dupondius
+durrs
 dedoggerelize
 deacons
 demobilizes
@@ -18555,7 +18556,6 @@ deny
 dappled
 durrin
 dig
-durrs
 deathlike
 durukuli
 disanimated
