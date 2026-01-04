@@ -5305,7 +5305,6 @@ conspecifics
 cassare
 coachwood
 cassata
-coalitions
 cassation
 caveats
 cerin
@@ -20741,6 +20740,7 @@ complexest
 chylify
 commulative
 cyanopsia
+coalitions
 commutating
 chelidonate
 cheloid
