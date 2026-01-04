@@ -8968,7 +8968,6 @@ discriminators
 disobeyers
 dicyclies
 disqualifies
-dicyemata
 diarchies
 dinsome
 disconcerting
@@ -14884,6 +14883,7 @@ disnatural
 dimmers
 driers
 documentarist
+dicyemata
 dedan
 dictyograptus
 documentations
