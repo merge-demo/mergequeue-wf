@@ -2743,7 +2743,6 @@ acroamatical
 ammonation
 alleviate
 acroasphyxia
-acroatic
 acrobacy
 askr
 alfurese
@@ -21375,6 +21374,7 @@ askos
 aslant
 aglethead
 aevum
+acroatic
 antidraft
 agitation
 atabeg
