@@ -9439,7 +9439,6 @@ forequoted
 finickiness
 fractionised
 flamboyer
-franticly
 fossor
 freeloading
 fluoridate
@@ -9620,6 +9619,7 @@ freebooting
 freed
 foreimpression
 facete
+franticly
 forensic
 ferrules
 foraged
