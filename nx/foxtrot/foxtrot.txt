@@ -4477,7 +4477,6 @@ forsay
 flash
 fleadock
 ferrovanadium
-flour
 flogging
 felinae
 flattop
@@ -4876,6 +4875,7 @@ frightenedness
 fabricational
 funks
 foldedly
+flour
 foretasted
 frumpy
 fives
