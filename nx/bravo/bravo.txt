@@ -1275,7 +1275,6 @@ batrachiate
 balan
 bedstead
 behindhand
-bardie
 bibliographer
 balanceable
 burion
@@ -7850,6 +7849,7 @@ bibi
 bibionid
 bathochromatism
 brackebuschite
+bardie
 brainchild
 bewreath
 bealtine
