@@ -2647,6 +2647,7 @@ farcers
 falsely
 fluoridating
 fertilise
+fondus
 fylfots
 funeral
 fallowed
@@ -7037,7 +7038,6 @@ fiascos
 fumade
 freespace
 floodwood
-fondus
 feases
 fermentum
 forefit
