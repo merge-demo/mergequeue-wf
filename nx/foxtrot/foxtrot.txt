@@ -1325,7 +1325,6 @@ fartherer
 feest
 features
 frogginess
-fendering
 fbi
 fellani
 fervour
@@ -6328,6 +6327,7 @@ flunkey
 frilal
 fiddlery
 fumatories
+fendering
 fissipeda
 frizado
 frags

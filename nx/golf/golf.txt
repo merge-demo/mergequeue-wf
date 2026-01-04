@@ -4536,7 +4536,6 @@ geotropy
 gamb
 grapey
 gucked
-gomutis
 gambrel
 galactoma
 gumwoods
@@ -9568,6 +9567,7 @@ grouts
 grouze
 gelatined
 glossopodium
+gomutis
 glume
 gymnosoph
 guardianless
