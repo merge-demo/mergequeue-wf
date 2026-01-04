@@ -5574,7 +5574,6 @@ forfault
 fallaciously
 filamentar
 fiendlike
-flockowner
 fossicking
 fader
 floweret
@@ -9484,6 +9483,7 @@ flag
 foglietto
 flamens
 fratry
+flockowner
 fountainheads
 flippery
 ferruginean
