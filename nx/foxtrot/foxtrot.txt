@@ -5616,7 +5616,6 @@ frusla
 fortitude
 flighter
 fleshling
-fraik
 fleysome
 forehock
 funicular
@@ -9280,6 +9279,7 @@ fortunately
 fraised
 frug
 fluorid
+fraik
 fertilities
 fretwise
 ferruginated
