@@ -22575,6 +22575,7 @@ alternativo
 ateloglossia
 abacist
 atelomyelia
+anisognathous
 ateloprosopia
 acoenaesthesia
 axifera
@@ -23227,7 +23228,6 @@ alopathic
 attingency
 asked
 attingent
-anisognathous
 aggro
 autosuggestions
 apple
