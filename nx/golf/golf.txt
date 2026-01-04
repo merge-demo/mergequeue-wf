@@ -4111,7 +4111,6 @@ gastrojejunal
 gleaned
 galictis
 griph
-gastroduodenotomy
 grasshop
 glucolipid
 gobernadora
@@ -5407,6 +5406,7 @@ glyn
 galatotrophic
 gumly
 gapper
+gastroduodenotomy
 gibus
 glynn
 gamogenetical
