@@ -2364,6 +2364,7 @@ geographism
 gelees
 gymnocerata
 gadinic
+guilder
 gibbartas
 guano
 greengrocer
@@ -2581,7 +2582,6 @@ germanly
 grig
 guff
 grubbies
-guilder
 gynecium
 gurle
 gomeisa
