@@ -1100,6 +1100,7 @@ bypassed
 brevetted
 bransolder
 bromius
+basileis
 barless
 baseless
 bryophyte
@@ -13184,7 +13185,6 @@ bouquetin
 biseriate
 boroughmonger
 blaspheme
-basileis
 bankrupts
 borowolframic
 belter
