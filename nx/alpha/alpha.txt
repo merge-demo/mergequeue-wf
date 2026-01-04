@@ -5299,7 +5299,6 @@ afflicting
 acaricide
 apriori
 afflictingly
-afflictionless
 abranchian
 ambulante
 archoplasm
@@ -12637,6 +12636,7 @@ anaglypton
 anagenetical
 arterial
 angelicness
+afflictionless
 angelico
 acetylize
 azox
