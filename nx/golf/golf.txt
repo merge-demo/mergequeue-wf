@@ -2816,7 +2816,6 @@ gimmor
 grievingly
 gascoigny
 greatcoat
-gyro
 gyne
 guzzledom
 garblings
@@ -3965,6 +3964,7 @@ gigge
 gallegan
 gallopers
 graphomaniac
+gyro
 grice
 ganner
 graphis
