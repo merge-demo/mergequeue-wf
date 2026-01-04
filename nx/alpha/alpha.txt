@@ -924,7 +924,6 @@ alloxy
 animous
 appeasably
 absonous
-absorb
 adulterously
 attracted
 anticivic
@@ -16265,6 +16264,7 @@ anthochlor
 aerophysical
 antitobacconist
 auscultative
+absorb
 antihistamines
 antitonic
 artistical
