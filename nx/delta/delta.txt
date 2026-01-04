@@ -3326,7 +3326,6 @@ dehumanizes
 definitiones
 disregards
 definitions
-dormant
 dilatant
 deliriate
 dissonate
@@ -9306,6 +9305,7 @@ dyeware
 disorchard
 delisted
 dashiest
+dormant
 dyeweed
 dyeweeds
 divulgated
