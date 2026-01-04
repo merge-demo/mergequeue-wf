@@ -4755,7 +4755,6 @@ appenditious
 aorists
 aeriality
 angiasthenia
-acmaea
 ankee
 aerials
 asuri
@@ -10777,6 +10776,7 @@ ammoniated
 ageustia
 ammoniating
 antioxygenator
+acmaea
 ammoniation
 ammonical
 archplutocrat
