@@ -619,6 +619,7 @@ fertility
 faintingly
 fluctiferous
 flavorless
+fits
 fallibleness
 fleshes
 forehand
@@ -3852,7 +3853,6 @@ furlong
 frequencies
 fortyfive
 fellowshiping
-fits
 fecundating
 ferocactus
 financer
