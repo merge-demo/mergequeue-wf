@@ -8130,7 +8130,6 @@ adelphoi
 algophagous
 achomawi
 algophilia
-algophilist
 albuminolysis
 acetonylacetone
 algophobia
@@ -11523,6 +11522,7 @@ arriver
 abilities
 alps
 apodes
+algophilist
 apophyllous
 andorra
 abelonian
