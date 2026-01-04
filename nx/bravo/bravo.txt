@@ -9366,7 +9366,6 @@ bescours
 brines
 birdbaths
 broomroot
-blethers
 brabbles
 besogne
 bewrathed
@@ -9626,6 +9625,7 @@ blander
 busybodyness
 bisects
 bottleflower
+blethers
 banalize
 bosky
 bandcase
