@@ -4124,6 +4124,7 @@ endosarc
 extent
 eyass
 epitonic
+encraty
 electrorefine
 emplecton
 eternalise
@@ -6644,7 +6645,6 @@ edificant
 eartagged
 empyreumata
 enantiomeric
-encraty
 ekistic
 elephantlike
 enzymologies
