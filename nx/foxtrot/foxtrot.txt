@@ -1910,6 +1910,7 @@ filtrated
 foamless
 furtherance
 feteritas
+foldstool
 federalistic
 frogger
 furling
@@ -10532,7 +10533,6 @@ fazendas
 frouziest
 fumbled
 flite
-foldstool
 floristry
 flamberge
 fusiliers
