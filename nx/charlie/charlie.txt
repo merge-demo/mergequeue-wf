@@ -17030,7 +17030,6 @@ characin
 confervales
 calcareoargillaceous
 clustering
-choultry
 clutch
 clutched
 calves
@@ -27366,6 +27365,7 @@ climacterics
 courtal
 courtbred
 chattelization
+choultry
 cusp
 courtcraft
 colonise
