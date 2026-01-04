@@ -1242,7 +1242,6 @@ bediaper
 blok
 beylics
 barkers
-bala
 benjoin
 basketware
 bedabbled
@@ -11324,6 +11323,7 @@ byelorussian
 bachelor
 blown
 bananas
+bala
 blowoff
 blowouts
 bedels
