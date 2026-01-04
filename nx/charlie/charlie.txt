@@ -5052,6 +5052,7 @@ czarowitz
 cartwhip
 carucage
 counterprove
+conchometer
 carucarius
 charivariing
 clipsheets
@@ -21348,7 +21349,6 @@ countermissile
 counterblow
 conchoids
 conchol
-conchometer
 conchospiral
 cowboys
 conchostraca
