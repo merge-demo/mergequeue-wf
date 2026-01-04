@@ -4678,7 +4678,6 @@ aegrotant
 acanthopomatous
 akuammine
 acichlorid
-alabastron
 archiving
 aerostation
 azazel
@@ -16838,6 +16837,7 @@ alterate
 aphthartodocetic
 acromonogrammatic
 aphthong
+alabastron
 arkite
 apyrene
 apiaca
