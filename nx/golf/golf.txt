@@ -3441,7 +3441,6 @@ gridelin
 generalships
 genuflections
 gondolier
-gnatling
 gorkun
 galbe
 gonocytes
@@ -8508,6 +8507,7 @@ gene
 gov
 gerardias
 gleyde
+gnatling
 grivets
 glands
 golfing
