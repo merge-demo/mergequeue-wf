@@ -6199,6 +6199,7 @@ grunter
 grimacier
 goatfishes
 gytrash
+gynandrarchic
 grooved
 gregor
 garrisoned
@@ -6253,7 +6254,6 @@ ginglmi
 gconv
 gentle
 gulpin
-gynandrarchic
 gendarmery
 galoch
 gospelly
