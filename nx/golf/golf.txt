@@ -5615,6 +5615,7 @@ gurrah
 gruidae
 gentry
 gunstick
+groupies
 glueman
 goner
 granma
@@ -9444,7 +9445,6 @@ gamari
 glycollide
 galleta
 gabionage
-groupies
 ghastfully
 grouchiness
 geminally
