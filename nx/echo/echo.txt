@@ -7966,7 +7966,6 @@ ectozoic
 estoppel
 encyclopaedia
 effetmen
-equilobed
 evictor
 epimysia
 esthesias
@@ -13537,6 +13536,7 @@ extravagancy
 elflock
 eutaxie
 excitements
+equilobed
 electrocautery
 enlightening
 earthquakes
