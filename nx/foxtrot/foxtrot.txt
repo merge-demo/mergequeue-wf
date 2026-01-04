@@ -1821,7 +1821,6 @@ figureheadship
 fellahin
 firebreaks
 fleabites
-fractured
 fating
 freightage
 feedbags
@@ -4342,6 +4341,7 @@ fibroplastic
 flyte
 flavo
 furied
+fractured
 frogfishes
 fascist
 fathomed

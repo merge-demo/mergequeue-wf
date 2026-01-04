@@ -3573,7 +3573,6 @@ bathysophical
 bathysphere
 boliviano
 bathythermograph
-bipartite
 bathmat
 broodsac
 bereaven
@@ -8838,6 +8837,7 @@ binitarianism
 beworm
 bubonic
 bismuthous
+bipartite
 bink
 binna
 bowering
