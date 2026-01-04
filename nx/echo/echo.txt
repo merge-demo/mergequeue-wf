@@ -7321,7 +7321,6 @@ eat
 epagomenae
 equerryship
 epagomenous
-electro
 eumitosis
 epochism
 exception
@@ -11537,6 +11536,7 @@ exhaling
 eserin
 extractable
 epinikion
+electro
 elegantly
 evincing
 entoblast
