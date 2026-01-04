@@ -4140,6 +4140,7 @@ estado
 epigene
 epicanthus
 ejacula
+encyclicals
 enrooting
 eslabon
 entangler
@@ -7444,7 +7445,6 @@ effusions
 ephestia
 enregistering
 emphatical
-encyclicals
 ephelcystic
 eunuchizing
 evasible
