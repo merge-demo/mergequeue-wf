@@ -6339,6 +6339,7 @@ aquifuge
 animate
 allotypical
 apoplexy
+auletic
 agrypnia
 agrypnotic
 agroan
@@ -23536,7 +23537,6 @@ anorganism
 auldfarrantlike
 auletai
 atalaya
-auletic
 allokinetic
 aulae
 aulical
