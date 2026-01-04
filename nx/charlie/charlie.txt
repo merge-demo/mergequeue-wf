@@ -10677,7 +10677,6 @@ chilver
 caliological
 chimaera
 chimaerid
-chimakum
 curled
 cogon
 cephalomancy
@@ -13190,6 +13189,7 @@ coverless
 cudgelled
 cicatrice
 cussed
+chimakum
 colocolo
 cicatrices
 cicatricle

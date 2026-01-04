@@ -5875,6 +5875,7 @@ depreciation
 dioicous
 deoxygenization
 diadumenus
+denotations
 dryopians
 deforceor
 depredate
@@ -16590,7 +16591,6 @@ donjon
 dikdiks
 diceras
 derout
-denotations
 dialuric
 decorations
 deionization
