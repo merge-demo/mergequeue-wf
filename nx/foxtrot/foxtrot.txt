@@ -704,6 +704,7 @@ fleshlike
 forzandos
 forfeiture
 fobs
+falcinellus
 frogface
 firebolted
 fumigatorium
@@ -8822,7 +8823,6 @@ flashtube
 frustula
 flunks
 favorably
-falcinellus
 filmsets
 frailes
 fetchers
