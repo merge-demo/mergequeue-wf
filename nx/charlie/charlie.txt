@@ -11299,6 +11299,7 @@ chlorimeter
 chlorimetric
 chlorinated
 chlorinating
+chimers
 curly
 chlorination
 chlorinator
@@ -27483,7 +27484,6 @@ chumpiness
 cathartical
 cheongsam
 coal
-chimers
 covariant
 colorism
 cathisma
