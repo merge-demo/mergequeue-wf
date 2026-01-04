@@ -149,7 +149,6 @@ epoxidize
 evaporativity
 extravasating
 elon
-eggshells
 enchasten
 epiphysial
 epididymides
@@ -5833,6 +5832,7 @@ evade
 emulatory
 efficace
 electrovalency
+eggshells
 exfoliation
 erlkings
 epicele
