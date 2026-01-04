@@ -5848,6 +5848,7 @@ desolations
 diachoresis
 domal
 demeaning
+deafish
 disconcert
 deprecative
 dissolvable
@@ -12884,7 +12885,6 @@ dipteran
 dismembrator
 defer
 doughfoots
-deafish
 dualistically
 dysmenorrheal
 decadrachm
