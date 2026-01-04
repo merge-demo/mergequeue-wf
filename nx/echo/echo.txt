@@ -7360,7 +7360,6 @@ evaporite
 eyries
 epee
 epeeist
-epeiric
 excursional
 exciseman
 enunciate
@@ -9747,6 +9746,7 @@ elamp
 exaltedness
 eurhythmy
 exitious
+epeiric
 enthusiast
 essene
 expressure
