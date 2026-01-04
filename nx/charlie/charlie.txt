@@ -8807,6 +8807,7 @@ cinerins
 chapels
 chapelward
 chaperno
+consumed
 custodia
 chaperonage
 cerinthe
@@ -31660,7 +31661,6 @@ cushats
 crinkliness
 cushaws
 caseins
-consumed
 cochurchwarden
 civies
 cushy
