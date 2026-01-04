@@ -1330,7 +1330,6 @@ features
 frogginess
 fbi
 fellani
-fervour
 flumadiddle
 fathomlessness
 flichtered
@@ -2450,6 +2449,7 @@ footscraper
 forcipial
 flexed
 frenchless
+fervour
 favonian
 folksiest
 fernandinite
