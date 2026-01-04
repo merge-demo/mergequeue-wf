@@ -11604,7 +11604,6 @@ alphosises
 araceous
 abaser
 arhythmically
-althing
 anthropomorph
 arrage
 accelerates
@@ -11962,6 +11961,7 @@ aerogenically
 arbutes
 antisepticizing
 aka
+althing
 agba
 ascribed
 armagnac
@@ -15763,7 +15763,6 @@ antiphilosophies
 antiphysically
 axoplasmic
 ands
-antiphysicalness
 appropriament
 alkane
 acenesthesia
@@ -21485,6 +21484,7 @@ assertorical
 allagophyllous
 anderun
 aspersively
+antiphysicalness
 anosia
 axles
 aspersoriums

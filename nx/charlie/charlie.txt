@@ -5777,6 +5777,7 @@ chicquing
 catcher
 coccidioides
 concretions
+circumcallosal
 coriin
 cheneau
 catches
@@ -14236,7 +14237,6 @@ carpellum
 cyclotella
 circumbulbar
 carnitine
-circumcallosal
 cuckoos
 corroborating
 corytuberine
@@ -24004,7 +24004,6 @@ convenances
 countergager
 convene
 comedically
-criminally
 communaliser
 convened
 counterexcommunication
@@ -28570,6 +28569,7 @@ centrosema
 confuted
 carreau
 creepies
+criminally
 creepily
 coxcomby
 creepiness
