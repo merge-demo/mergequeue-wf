@@ -10703,6 +10703,7 @@ ammelide
 apodemal
 apothecary
 ammer
+amuletic
 adductor
 ammeter
 ammeters
@@ -18090,7 +18091,6 @@ aptitude
 aptnesses
 autohypnotization
 anises
-amuletic
 arteriophlebotomy
 acherontic
 abettal
