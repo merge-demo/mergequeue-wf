@@ -24798,7 +24798,6 @@ crenature
 civilises
 cueman
 candlewick
-cops
 cetorhinidae
 copses
 copsewood
@@ -25298,6 +25297,7 @@ choom
 corkwing
 cormac
 cormel
+cops
 concetto
 chamaecrista
 coardent
