@@ -5096,6 +5096,7 @@ flashboard
 fiscalization
 forelay
 flinches
+frontsman
 forewent
 faldistory
 fidejussion
@@ -10458,7 +10459,6 @@ follied
 foreadvice
 flyleaves
 frontotemporal
-frontsman
 fluxional
 forecastle
 floe
