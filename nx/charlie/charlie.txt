@@ -526,7 +526,6 @@ cadencies
 cadencing
 casitas
 cadenette
-corregidores
 cellobiose
 crapple
 coascend
@@ -7211,6 +7210,7 @@ convictively
 centralising
 centrality
 conusable
+corregidores
 centralities
 croupy
 chaeta
