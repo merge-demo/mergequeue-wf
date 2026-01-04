@@ -3080,7 +3080,6 @@ adonize
 altiloquence
 adjudications
 alternations
-apocryphalist
 aboral
 actinophrys
 aspics
@@ -23537,6 +23536,7 @@ auletai
 atalaya
 allokinetic
 aulae
+apocryphalist
 aulical
 aulicism
 aries
