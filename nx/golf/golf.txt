@@ -9010,6 +9010,7 @@ griffonage
 goosemouth
 girned
 gabion
+goldtit
 glacis
 guzzlers
 glory
@@ -9447,7 +9448,6 @@ ghastfully
 grouchiness
 geminally
 gitksan
-goldtit
 garbline
 glorify
 gobia
