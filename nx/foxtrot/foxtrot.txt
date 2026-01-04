@@ -5014,6 +5014,7 @@ fuzed
 fissive
 filmcard
 frescoes
+favourless
 functioned
 fiddlewood
 fluctuable
@@ -8580,7 +8581,6 @@ fasciation
 forebodement
 ferules
 farthings
-favourless
 fanions
 foxhole
 fornication
