@@ -15591,7 +15591,6 @@ crossbolted
 classicalist
 classicality
 chaya
-classicise
 chromophoric
 classicist
 classicists
@@ -23842,6 +23841,7 @@ contrecoup
 contredanse
 contredanses
 contreface
+classicise
 coryphees
 contrefort
 contrepartie
