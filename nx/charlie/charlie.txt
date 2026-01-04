@@ -15733,6 +15733,7 @@ clavicymbal
 clavicytheria
 clavicithern
 chemics
+cortinate
 cytologies
 clavicythetheria
 clavicittern
@@ -27585,7 +27586,6 @@ cloiochoanitic
 caterwauled
 covine
 clinquant
-cortinate
 censes
 cymatium
 coving
