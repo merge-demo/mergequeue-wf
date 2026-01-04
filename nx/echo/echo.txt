@@ -2860,7 +2860,6 @@ externalness
 eater
 epiclesis
 eleoptene
-embden
 endomastoiditis
 exostracize
 eucharistized
@@ -13695,6 +13694,7 @@ eyehook
 exocardial
 enarration
 elusions
+embden
 evolutionist
 elizabeth
 extrajudicially
