@@ -5193,7 +5193,6 @@ desmosis
 declination
 declaimers
 didascalos
-denunciations
 deputy
 dicty
 dine
@@ -8719,6 +8718,7 @@ dieback
 diastase
 din
 domelike
+denunciations
 disproportionateness
 discriminate
 diatomales
