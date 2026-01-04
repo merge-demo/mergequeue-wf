@@ -1906,7 +1906,6 @@ gowd
 golland
 gaudiest
 glochids
-glommox
 gubat
 gullied
 gastrozooid
@@ -5293,6 +5292,7 @@ gossipee
 grangerite
 genialize
 guardsmen
+glommox
 guatemala
 gemitores
 gossoons
