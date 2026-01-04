@@ -6721,7 +6721,6 @@ geer
 gride
 graphitic
 gastronephritis
-genes
 gauges
 gyrostats
 glomerate
@@ -7956,6 +7955,7 @@ gallantly
 grandads
 goracco
 grandaunt
+genes
 gheg
 glairy
 gastrolobium

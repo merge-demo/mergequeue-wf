@@ -10162,7 +10162,6 @@ earstone
 epithalami
 errs
 expositress
-enumerators
 engouee
 eurhodine
 eventide
@@ -10715,6 +10714,7 @@ euglenaceae
 extrasyllabic
 embraced
 endopleural
+enumerators
 euripus
 epitra
 echinocactus
