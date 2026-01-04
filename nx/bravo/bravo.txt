@@ -4094,7 +4094,6 @@ beansetter
 beanshooter
 beanstalk
 bestiaries
-bearbaiter
 bedmaking
 blearedness
 beriberi
@@ -11111,6 +11110,7 @@ blockiest
 bevelling
 blocking
 borborygmic
+bearbaiter
 benzimidazole
 biomorphic
 billeter
