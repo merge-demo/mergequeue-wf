@@ -4988,7 +4988,6 @@ expectable
 embryotomy
 endellionite
 eucephalous
-emigates
 electrocorticogram
 envy
 extirpative
@@ -8696,6 +8695,7 @@ exfoliate
 encharging
 encharge
 elderwood
+emigates
 episcleritis
 epiglottides
 evangelists
