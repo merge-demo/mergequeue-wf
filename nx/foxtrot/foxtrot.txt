@@ -3464,7 +3464,6 @@ finnic
 fluctuated
 flagfall
 figurable
-fixture
 figurae
 forebowels
 formulism
@@ -5758,6 +5757,7 @@ flyspecking
 folate
 filling
 fill
+fixture
 filliping
 forelive
 footlessness
