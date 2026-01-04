@@ -3722,7 +3722,6 @@ embryologist
 encyrtidae
 efformation
 erythromycin
-emission
 expectant
 elec
 eluates
@@ -8306,6 +8305,7 @@ endolaryngeal
 endplay
 epitheliomatous
 ejection
+emission
 expensively
 embellished
 ellagate
