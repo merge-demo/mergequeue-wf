@@ -12823,7 +12823,6 @@ bookward
 bookwards
 byronite
 bookworm
-bookwright
 booleys
 bardy
 booly
@@ -16953,6 +16952,7 @@ beneficiate
 banditti
 bugeyes
 baddy
+bookwright
 bonducs
 buggered
 bowse
