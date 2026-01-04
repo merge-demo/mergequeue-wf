@@ -10431,7 +10431,6 @@ gardbrace
 gruffy
 grosbeaks
 gilia
-gesneraceous
 glozed
 gomphodont
 grads
@@ -10811,6 +10810,7 @@ gossipping
 galvanotropic
 geniolatry
 gourdiness
+gesneraceous
 goldtail
 ghazis
 greenhide
