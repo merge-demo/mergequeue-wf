@@ -29043,6 +29043,7 @@ criminologies
 criminologist
 carminic
 colletarium
+cuboid
 criminous
 conscribed
 criminously
@@ -30560,7 +30561,6 @@ cashboy
 crepidula
 cubododecahedral
 concarnation
-cuboid
 conopholis
 cuboidal
 cuneocuboid
