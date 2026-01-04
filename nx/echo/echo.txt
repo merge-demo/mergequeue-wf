@@ -4895,7 +4895,6 @@ exportable
 encrinic
 encrinidae
 encrinital
-elegance
 encroacher
 equalizing
 ephrathite
@@ -12892,6 +12891,7 @@ euryaleae
 engr
 engagee
 ectal
+elegance
 eosaurus
 elaterite
 enticingly
