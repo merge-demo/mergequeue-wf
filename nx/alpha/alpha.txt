@@ -12218,7 +12218,6 @@ agathin
 ancylostomiasis
 anemotactic
 arrame
-ancylus
 actinodrome
 armorica
 ancyrean
@@ -21485,6 +21484,7 @@ anderun
 aspersively
 antiphysicalness
 anosia
+ancylus
 axles
 aspersoriums
 asperugo
