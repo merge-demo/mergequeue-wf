@@ -5231,7 +5231,6 @@ diogenean
 deerstealer
 discontentedly
 dalapon
-darwin
 densely
 daviely
 derailleur
@@ -5915,6 +5914,7 @@ dolerin
 demonstration
 dispossessing
 deep
+darwin
 dowy
 draggily
 dillis
