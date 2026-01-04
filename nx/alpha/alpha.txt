@@ -5143,7 +5143,6 @@ almohade
 amphierotism
 aeviternal
 aphlogistic
-anatomicomedical
 af
 arbalos
 anelastic
@@ -18764,6 +18763,7 @@ archegonial
 albigenses
 amative
 archelenis
+anatomicomedical
 alisier
 archelon
 ally
