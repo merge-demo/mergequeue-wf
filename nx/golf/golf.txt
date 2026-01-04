@@ -4187,7 +4187,6 @@ gibleh
 gratewise
 gypsum
 gouda
-globuloid
 graphiologist
 gelinotte
 graphemic
@@ -6278,6 +6277,7 @@ gelatinised
 graecian
 gyroidal
 grundyist
+globuloid
 galop
 gid
 gobbles
