@@ -3943,7 +3943,6 @@ fono
 flav
 falkland
 friendlier
-finalizes
 fibrinemia
 fiscal
 fulmine
@@ -6873,6 +6872,7 @@ footings
 fretways
 fimbriae
 focus
+finalizes
 finance
 failing
 frustratingly
