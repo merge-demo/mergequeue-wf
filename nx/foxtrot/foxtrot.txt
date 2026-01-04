@@ -1345,7 +1345,6 @@ fatiferous
 feaster
 flavorfully
 florentine
-fatigable
 favorable
 forfars
 frock
@@ -4867,6 +4866,7 @@ fraughtage
 fady
 fixes
 flong
+fatigable
 firmhearted
 flightiest
 finial
