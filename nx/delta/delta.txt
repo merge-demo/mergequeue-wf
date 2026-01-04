@@ -7566,7 +7566,6 @@ descending
 deutschland
 deutzia
 deposes
-deuzan
 discernible
 drou
 doublewidth
@@ -16898,6 +16897,7 @@ dobchick
 diandrous
 disaggregated
 damboard
+deuzan
 dreams
 diphylla
 dovey
