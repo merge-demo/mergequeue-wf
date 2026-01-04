@@ -3267,7 +3267,6 @@ deteriority
 dragoons
 defibrillatory
 dropax
-dissatisfactory
 defier
 deracinated
 dense
@@ -3948,6 +3947,7 @@ delators
 deleaded
 delectability
 dampang
+dissatisfactory
 decides
 disintensify
 duplex
