@@ -835,7 +835,6 @@ gambogian
 gimel
 grangerise
 goban
-genistin
 granulater
 geonegative
 glockenspiel
@@ -8092,6 +8091,7 @@ glassier
 gymnotid
 gratae
 gypsydoms
+genistin
 guttulae
 geminiflorous
 gravels
