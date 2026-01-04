@@ -13616,6 +13616,7 @@ biomagnetic
 bobbysocks
 boughpots
 boughs
+bechamels
 bougie
 botry
 boodlers
@@ -14309,7 +14310,6 @@ branchiosaur
 bulletheaded
 binnite
 bobber
-bechamels
 batheable
 bouillon
 bigotry
