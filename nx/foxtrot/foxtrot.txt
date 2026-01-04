@@ -7923,7 +7923,6 @@ fictionalizing
 foresail
 feuilletonistic
 fasten
-fork
 floes
 fetticus
 feiseanna
@@ -11538,6 +11537,7 @@ fabling
 fictionize
 fards
 forjudgment
+fork
 famulary
 flattener
 fervently
