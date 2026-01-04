@@ -3841,6 +3841,7 @@ gaudily
 gouaree
 gaul
 glazework
+gyving
 gygis
 gibstaff
 galactodendron
@@ -9520,7 +9521,6 @@ gecking
 groutier
 gins
 gastritic
-gyving
 gyroscope
 groupwise
 glenn

@@ -5778,6 +5778,7 @@ chicquing
 catcher
 coccidioides
 concretions
+circumcallosal
 coriin
 cheneau
 catches
@@ -14237,7 +14238,6 @@ carpellum
 cyclotella
 circumbulbar
 carnitine
-circumcallosal
 cuckoos
 corroborating
 corytuberine
