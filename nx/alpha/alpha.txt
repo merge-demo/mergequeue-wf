@@ -7256,6 +7256,7 @@ alaudine
 asters
 accessoriusorii
 alaund
+artophagous
 adoptant
 aglauros
 abbate
@@ -20785,7 +20786,6 @@ antiposition
 artocarpeous
 artolater
 aliner
-artophagous
 archheresy
 artotype
 annotation
