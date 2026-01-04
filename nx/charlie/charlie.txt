@@ -6399,6 +6399,7 @@ cuffing
 cause
 contiguous
 caused
+consonantised
 complex
 cyllosis
 calesin
@@ -23065,7 +23066,6 @@ consonantal
 consonantalize
 consonantic
 cavalcade
-consonantised
 cagmag
 consonantism
 consonantized
