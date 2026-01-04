@@ -12277,6 +12277,7 @@ axes
 anders
 autoirrigation
 adipocerite
+animism
 americanism
 alkenna
 apolytikion
@@ -17175,7 +17176,6 @@ anatosaurus
 amoebiasis
 archgunner
 apomictical
-animism
 aquilegia
 athletocracy
 aeroides
