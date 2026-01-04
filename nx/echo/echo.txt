@@ -3392,7 +3392,6 @@ eulogic
 environed
 elegies
 encheer
-ermit
 enrace
 emasculators
 erythrorrhexis
@@ -4087,6 +4086,7 @@ endsheet
 enquire
 elve
 eutherian
+ermit
 ethylbenzene
 euthymy
 esthetophore
