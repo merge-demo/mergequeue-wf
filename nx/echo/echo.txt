@@ -6736,7 +6736,6 @@ expertising
 encompasses
 entosclerite
 eulogiser
-epaenetic
 endogenously
 ecrevisse
 epulis
@@ -13175,6 +13174,7 @@ expiation
 expiational
 expiators
 endostracal
+epaenetic
 echinopsine
 expiration
 exponentiation
