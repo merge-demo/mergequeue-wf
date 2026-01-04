@@ -5592,7 +5592,6 @@ endogens
 expertly
 enflaming
 epiklesis
-equuleus
 embryulcus
 enflower
 essexite
@@ -9994,6 +9993,7 @@ enteropexy
 efford
 ethnotechnography
 etching
+equuleus
 electrotest
 eteostic
 elemicin
