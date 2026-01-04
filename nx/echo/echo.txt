@@ -7148,7 +7148,6 @@ echar
 elan
 estanciero
 extraordinarily
-eudaemonism
 everyday
 endocolitis
 elaterometer
@@ -12001,6 +12000,7 @@ enamelled
 epidialogue
 enstranged
 effodientia
+eudaemonism
 exclusivistic
 exclusivity
 embosks
