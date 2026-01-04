@@ -4012,6 +4012,7 @@ eczemas
 eupatorin
 eyestalks
 evenhand
+emunct
 empearl
 electroretinography
 exultancy
@@ -6158,7 +6159,6 @@ epicentre
 eaved
 earlywood
 ervipiame
-emunct
 epistasy
 endocarpic
 enmeshment
