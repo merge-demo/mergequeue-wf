@@ -3219,6 +3219,7 @@ geotilla
 grigs
 guardant
 glossolabiolaryngeal
+gonycampsis
 gametoid
 gambian
 ganglial
@@ -6582,7 +6583,6 @@ gurgoyle
 genty
 gallinula
 guesswork
-gonycampsis
 gastrohyperneuria
 guerillas
 gelled
