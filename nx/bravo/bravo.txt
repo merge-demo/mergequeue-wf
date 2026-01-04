@@ -14066,6 +14066,7 @@ balanced
 briared
 blubbering
 beclamored
+bedot
 brachialis
 breezeways
 blindstory
@@ -17957,7 +17958,6 @@ byte
 bookbinding
 bagong
 byssinosis
-bedot
 bemoult
 bushwhacked
 bushwhackers
