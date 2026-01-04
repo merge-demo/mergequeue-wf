@@ -157,7 +157,6 @@ episcopizing
 entrept
 empight
 expurgations
-exscriptural
 etymons
 enchylema
 encephalomeric
@@ -3197,6 +3196,7 @@ eloine
 engrossing
 eloiners
 essentiate
+exscriptural
 eburated
 ethnarchs
 eleme
