@@ -16592,6 +16592,7 @@ acuminate
 amphigonic
 aeolotropism
 affiliate
+auriculoparietal
 anaglyphy
 abrasax
 apepsinia
@@ -23664,7 +23665,6 @@ aussie
 actinally
 auriculocranial
 apios
-auriculoparietal
 auriculotemporal
 auriferous
 appreciational
