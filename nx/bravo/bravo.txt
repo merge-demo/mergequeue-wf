@@ -2416,6 +2416,7 @@ becalms
 banditry
 botflies
 bardlike
+blunter
 barkiest
 bazar
 brinks
@@ -7352,7 +7353,6 @@ bootstrapped
 bethankit
 bethel
 brehon
-blunter
 backage
 boletaceous
 bannet

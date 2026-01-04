@@ -4545,7 +4545,6 @@ faciolingual
 finishers
 fourth
 feudists
-forgetfully
 fauconnier
 frit
 futtocks
@@ -6257,6 +6256,7 @@ flugel
 frouze
 frettingly
 flatlet
+forgetfully
 forerunnership
 factotums
 forepreparation
