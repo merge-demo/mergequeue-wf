@@ -3730,7 +3730,6 @@ epitheliosis
 enantiotropic
 explorate
 elucidators
-entombed
 embryophore
 educations
 electrogenesis
@@ -13898,6 +13897,7 @@ extramission
 erythrism
 eperotesis
 etherifies
+entombed
 excitosecretory
 expiscated
 eruditeness
