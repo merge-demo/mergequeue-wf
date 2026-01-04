@@ -3866,6 +3866,7 @@ grimsir
 giver
 gingeleys
 grandchild
+gigantosaurus
 granulitize
 gradientia
 geochronometry
@@ -4221,7 +4222,6 @@ gimpier
 guidable
 gliosa
 greenovite
-gigantosaurus
 gonidiose
 gynaecium
 gunned
