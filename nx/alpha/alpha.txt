@@ -3621,7 +3621,6 @@ adenocystomatous
 apollos
 adenodynia
 apotheces
-antral
 arcade
 aggelation
 attic
@@ -4270,6 +4269,7 @@ adrenosterone
 adrenocorticotrophic
 afterstain
 adrenocorticotropic
+antral
 anthracolithic
 adstipulate
 audiologist
