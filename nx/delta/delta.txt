@@ -13570,6 +13570,7 @@ dungeoner
 disperse
 disquisitive
 disrelishable
+dacryolith
 dissentment
 dissemination
 dantonist
@@ -17231,7 +17232,6 @@ develop
 drunkeries
 demulsifier
 digynian
-dacryolith
 dressmake
 dureresque
 drizzly
