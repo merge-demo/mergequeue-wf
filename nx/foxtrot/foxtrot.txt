@@ -2209,6 +2209,7 @@ follows
 fikie
 firebombs
 fuliguline
+forestine
 flatcars
 frothier
 ferrara
@@ -3490,7 +3491,6 @@ fasciculi
 frouncing
 fraticelli
 foresting
-forestine
 flukiness
 fica
 frubbish
