@@ -4791,7 +4791,6 @@ existent
 exodos
 endosmosic
 excircle
-entomophytous
 establishments
 exploratory
 extracardial
@@ -13805,6 +13804,7 @@ eukaryote
 economising
 endebt
 expurgated
+entomophytous
 expressionism
 elative
 ethnography
