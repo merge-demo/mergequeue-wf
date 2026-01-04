@@ -3370,6 +3370,7 @@ gids
 gaging
 galvanic
 globefish
+gonocoele
 gildhalls
 gonydial
 globed
@@ -6808,7 +6809,6 @@ gonococci
 glossopharyngeus
 genitors
 gonopore
-gonocoele
 gerontologist
 gyrant
 gt
