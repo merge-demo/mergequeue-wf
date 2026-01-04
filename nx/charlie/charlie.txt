@@ -16180,6 +16180,7 @@ collotyping
 chymosinogen
 creepingly
 crownbeard
+corpuscularity
 climacus
 climant
 centiles
@@ -25661,7 +25662,6 @@ corpulentness
 converginerved
 confinedness
 completed
-corpuscularity
 coleslaw
 corpuscule
 corpusculous
