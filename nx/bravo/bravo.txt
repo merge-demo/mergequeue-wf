@@ -5265,7 +5265,6 @@ bundlings
 byssin
 bigot
 burrier
-beggary
 bicrescentic
 beggarlike
 boshas
@@ -12324,6 +12323,7 @@ bomb
 bombacaceae
 bombace
 bombardiers
+beggary
 bombarding
 bumblebomb
 bombardman
