@@ -6589,7 +6589,6 @@ flyboats
 falconiform
 franseria
 fomento
-feltness
 frounce
 foamflower
 flammulation
@@ -9633,6 +9632,7 @@ fishpound
 fivestones
 ferrotyper
 forhooy
+feltness
 fothering
 flanger
 flagellant
