@@ -947,7 +947,6 @@ ferneries
 farinha
 flyleaf
 foundry
-fasola
 fourchite
 fortunateness
 forms
@@ -6802,6 +6801,7 @@ forfalt
 faithfuls
 fancier
 forams
+fasola
 funbre
 fungin
 fermenting
