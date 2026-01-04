@@ -1281,6 +1281,7 @@ exfiltrate
 emperors
 emissions
 ecclesiarch
+endpiece
 eversive
 eking
 eyelessness
@@ -1447,7 +1448,6 @@ epithalamia
 etherified
 essenced
 ebrious
-endpiece
 entodermal
 epipodialia
 erythrocytolytic
