@@ -4753,7 +4753,6 @@ desiderta
 disenslave
 demography
 dissimilative
-denigrations
 disemploys
 demographically
 diptera
@@ -15426,6 +15425,7 @@ directing
 dilators
 domineeringly
 doming
+denigrations
 domini
 decalomania
 demurer
