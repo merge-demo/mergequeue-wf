@@ -3859,6 +3859,7 @@ footslogged
 fluidextract
 findable
 fruz
+foiling
 function
 frightens
 figurate
@@ -10605,7 +10606,6 @@ fatefulness
 fortifier
 fuzzes
 fulgent
-foiling
 foilsman
 filaceous
 fusht
