@@ -6653,7 +6653,6 @@ forenotice
 folkright
 foemanship
 fripperer
-foemen
 forethoughtfully
 frankfold
 filemarks
@@ -11004,6 +11003,7 @@ flickery
 fumbles
 fumblingness
 fumed
+foemen
 fluidiser
 frigging
 freeport
