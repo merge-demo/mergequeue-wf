@@ -20624,7 +20624,6 @@ aetiology
 arthropathic
 assamese
 anapnograph
-arthrophlogosis
 abdaria
 appete
 abruptiones
@@ -22873,6 +22872,7 @@ accubation
 adventism
 anorthic
 affranchising
+arthrophlogosis
 amphoteric
 aunters
 atomised
