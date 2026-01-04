@@ -21995,6 +21995,7 @@ coinsurable
 coexclusive
 clinohedrite
 configurating
+crenel
 configuration
 configurationally
 configurations
@@ -28650,7 +28651,6 @@ clarisse
 consequentially
 classific
 canonicalize
-crenel
 chroococcus
 constantine
 coloniser
