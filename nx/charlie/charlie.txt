@@ -3744,7 +3744,6 @@ changos
 coconspirator
 circuituously
 caratacus
-cynoidea
 caratch
 chevaline
 carates
@@ -5013,6 +5012,7 @@ cartographically
 carton
 cartoner
 cartonful
+cynoidea
 covinously
 carpitis
 cartons
