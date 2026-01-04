@@ -7614,7 +7614,6 @@ fatuity
 footslogs
 flacherie
 fatimid
-fgn
 fructuarius
 funiculus
 flays
@@ -11314,6 +11313,7 @@ forementioned
 firedog
 formatted
 feverfew
+fgn
 foreguts
 firesides
 fraternize
