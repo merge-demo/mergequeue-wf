@@ -5654,6 +5654,7 @@ afunction
 aquafortist
 agalma
 ardea
+aliyas
 apocopating
 antechurch
 ajax
@@ -18422,7 +18423,6 @@ adventry
 abrenunciation
 arbela
 adeline
-aliyas
 antitussive
 autolesion
 aviates
