@@ -4905,7 +4905,6 @@ guaranteeing
 galleryite
 gleam
 glozes
-gimme
 goldurns
 goatly
 gastroenteric
@@ -9874,6 +9873,7 @@ griddles
 geikielite
 gettableness
 gonyocele
+gimme
 globs
 gasholder
 grasshoppers
