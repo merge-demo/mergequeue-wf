@@ -1599,7 +1599,6 @@ depayse
 daikering
 disinfector
 deadwork
-dextraural
 dynamogenous
 deafened
 doorjambs
@@ -8992,6 +8991,7 @@ dicolon
 disbar
 dudine
 dicotyles
+dextraural
 dicotylidae
 deinosaur
 drowsiness
