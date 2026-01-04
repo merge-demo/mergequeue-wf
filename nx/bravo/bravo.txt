@@ -4587,7 +4587,6 @@ biddelian
 backjaw
 bedaub
 benzoylglycine
-barks
 besuit
 bundeli
 borborus
@@ -10263,6 +10262,7 @@ benzo
 betattering
 blacklister
 barothermohygrograph
+barks
 blacklists
 beclamour
 ballow
