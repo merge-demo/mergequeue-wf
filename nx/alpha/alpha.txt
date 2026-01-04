@@ -4711,7 +4711,6 @@ aeolus
 anacrustically
 aeonicaeonist
 aeonist
-armatured
 aeons
 aphrodisia
 alaihi
@@ -6236,6 +6235,7 @@ agr
 attirement
 angaries
 agrace
+armatured
 agral
 adiposities
 agramed
