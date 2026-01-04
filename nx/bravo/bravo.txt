@@ -4442,6 +4442,7 @@ beclothe
 banting
 bonasus
 breathtakingly
+blindman
 bhili
 beribers
 beclothes
@@ -7094,7 +7095,6 @@ bespeckle
 bethylid
 bespeckled
 benzoyls
-blindman
 beefless
 bullpup
 beaugregories
