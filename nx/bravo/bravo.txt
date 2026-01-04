@@ -11665,7 +11665,6 @@ bacchus
 boasts
 bryologist
 bacterioscopical
-buttercup
 barspoon
 boatbuilding
 boathouse
@@ -18222,6 +18221,7 @@ blackwort
 beshod
 bikol
 bourran
+buttercup
 blabbers
 butterfish
 besquirt
