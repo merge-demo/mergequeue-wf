@@ -3427,6 +3427,7 @@ funambulism
 feud
 fascisti
 filthily
+fruitstalk
 forebowline
 franklinist
 forswearer
@@ -10685,7 +10686,6 @@ forescent
 feralin
 fivepenny
 fairstead
-fruitstalk
 fg
 foreset
 fashion
