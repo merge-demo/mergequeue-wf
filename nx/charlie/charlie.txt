@@ -4846,6 +4846,7 @@ completion
 carport
 cissoidal
 carpos
+clivus
 chromobacterieae
 chibouk
 carposporangial
@@ -16452,7 +16453,6 @@ cliv
 cliver
 clivers
 clivis
-clivus
 clk
 clo
 cloaca
