@@ -1802,7 +1802,6 @@ calvados
 calvadoses
 chloridella
 componental
-calvaire
 cordage
 calvary
 caffeate
@@ -24678,6 +24677,7 @@ comoquer
 cauqui
 coplotter
 chinoidine
+calvaire
 counterpaly
 cryaesthesia
 charcoals
