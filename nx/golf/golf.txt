@@ -1052,7 +1052,6 @@ glub
 gnarl
 geriatrics
 gossamer
-gerardias
 gorgonin
 gompholobium
 galvanometry
@@ -8511,6 +8510,7 @@ gegenion
 gelada
 gene
 gov
+gerardias
 gleyde
 gilders
 grivets
