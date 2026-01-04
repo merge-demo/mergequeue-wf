@@ -7200,6 +7200,7 @@ centrad
 central
 centraler
 cobblery
+crucifyfying
 chevelure
 cestraciontidae
 centralise
@@ -17555,7 +17556,6 @@ coblentzian
 cobleskill
 cobloaf
 cobola
-crucifyfying
 contriving
 chitarrone
 cleamer
