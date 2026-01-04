@@ -8036,7 +8036,6 @@ forespecified
 fll
 forespencer
 fiz
-feist
 frivolling
 fatbirds
 fontina
@@ -10882,6 +10881,7 @@ fractiously
 forehinting
 freestone
 flayer
+feist
 furore
 fullish
 foeman
