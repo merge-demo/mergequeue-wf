@@ -7700,6 +7700,7 @@ equidominant
 effluxion
 estrus
 esprise
+endoubt
 extruder
 ellipticalness
 epidemically
@@ -11685,7 +11686,6 @@ exogenism
 exaggerate
 electrize
 etiotropic
-endoubt
 eccentricity
 epididymectomy
 emundation
