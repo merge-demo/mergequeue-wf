@@ -9430,7 +9430,6 @@ chavicol
 cautelousness
 cowedly
 chawbacon
-chawbuck
 chawdron
 comitative
 cpl
@@ -17689,6 +17688,7 @@ creativeness
 coccosteus
 chickadees
 coccothraustes
+chawbuck
 coccothraustine
 coccothrinax
 calabozo
