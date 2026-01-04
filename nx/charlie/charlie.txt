@@ -16753,6 +16753,7 @@ chocolaty
 cora
 clothespins
 centroplasm
+chokecherries
 clothespresses
 cire
 clothiers
@@ -20098,7 +20099,6 @@ coordinateness
 credulous
 clee
 commentator
-chokecherries
 charcutier
 commentatorship
 carboned
