@@ -6353,7 +6353,6 @@ busynesses
 barbellate
 blazing
 backsliding
-buts
 bardo
 blastophaga
 bacteriostasis
@@ -8591,6 +8590,7 @@ brauneberger
 brachysm
 beflecks
 brachiofacial
+buts
 billfishes
 bradypode
 bellflower
