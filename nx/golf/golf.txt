@@ -5672,7 +5672,6 @@ gaucie
 gaultheria
 galvanographic
 glandulous
-gnomonia
 guerdons
 gastrophrenic
 gumboil
@@ -6426,6 +6425,7 @@ goburra
 graduates
 griot
 gregorian
+gnomonia
 gazes
 gallivanted
 gouger
