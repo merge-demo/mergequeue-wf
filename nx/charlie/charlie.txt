@@ -2884,6 +2884,7 @@ cetorhinoid
 canonizer
 canonizes
 canonizing
+cogboat
 churchreeve
 canonry
 canonship
@@ -29206,7 +29207,6 @@ cryotherapies
 crip
 crippied
 cripple
-cogboat
 carvestrene
 crippleness
 cardia
