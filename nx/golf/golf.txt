@@ -3518,7 +3518,6 @@ glasgow
 gallophobia
 graptomancy
 gallous
-gentling
 griefful
 glathsheim
 gimper
@@ -8611,6 +8610,7 @@ gravitic
 gretchen
 gurgeons
 griped
+gentling
 guarri
 guianan
 gastrolatrous
