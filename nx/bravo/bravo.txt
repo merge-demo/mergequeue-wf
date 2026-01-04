@@ -955,7 +955,6 @@ bathylitic
 biologicohumanistic
 brassards
 betook
-brooming
 bindle
 bahoe
 bycoket
@@ -6598,6 +6597,7 @@ beresite
 beret
 berets
 berewick
+brooming
 biunity
 banquettes
 bergall
