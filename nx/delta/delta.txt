@@ -7973,7 +7973,6 @@ delicatessens
 dionaea
 digitized
 dishonoured
-degummer
 deemsters
 demanganize
 deliberate
@@ -9205,6 +9204,7 @@ derat
 defoam
 dyeings
 discontented
+degummer
 dieldrin
 derelict
 decahedrodra
