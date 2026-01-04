@@ -6739,7 +6739,6 @@ gripped
 georgic
 gulash
 graminivorous
-galvanolysis
 giddyberry
 gentles
 glucide
@@ -7732,6 +7731,7 @@ gliomatous
 gyassa
 grandada
 goss
+galvanolysis
 governors
 graduses
 gentium
