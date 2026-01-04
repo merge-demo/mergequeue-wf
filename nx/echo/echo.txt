@@ -2529,7 +2529,6 @@ electroless
 exsecants
 expansivity
 embryopathology
-emender
 enervators
 endostylar
 epanisognathism
@@ -9373,6 +9372,7 @@ earmindedness
 escalator
 economization
 excommunicable
+emender
 ergonomics
 edelweiss
 escalated
