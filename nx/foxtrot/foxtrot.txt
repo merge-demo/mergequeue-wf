@@ -5391,7 +5391,6 @@ fireburn
 forelady
 folliculate
 forkhead
-fleckering
 fosterhood
 fash
 fivefoldness
@@ -6006,6 +6005,7 @@ foolscaps
 felspars
 flacon
 fumattoria
+fleckering
 foo
 flavedos
 fidiculae
