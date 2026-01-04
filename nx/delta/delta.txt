@@ -6351,6 +6351,7 @@ delimitized
 dermophobe
 domineering
 dermosclerite
+devious
 deco
 dermotropic
 dastardliness
@@ -16417,7 +16418,6 @@ dishpan
 dimorphous
 deviousness
 dozzle
-devious
 dr
 draba
 disassembles

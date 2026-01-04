@@ -2631,7 +2631,6 @@ grisette
 gowf
 glossolabial
 goutte
-galluot
 glisters
 genesial
 goliath
@@ -2908,6 +2907,7 @@ gradualism
 gomlah
 gamopetalous
 gaincope
+galluot
 gomphoses
 gruesomeness
 gayety
