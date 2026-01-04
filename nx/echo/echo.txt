@@ -823,7 +823,6 @@ eurhythmic
 ecthesis
 emmers
 epispadias
-edaphically
 euglenidae
 epizoa
 eclectically
@@ -12991,6 +12990,7 @@ ebons
 enjoins
 epipastic
 edictally
+edaphically
 entoptoscope
 expectorative
 exhaustingly
