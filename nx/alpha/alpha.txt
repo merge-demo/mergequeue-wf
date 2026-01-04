@@ -5339,6 +5339,7 @@ affriended
 aggrandizable
 affrightful
 affydavy
+anterosuperior
 acid
 affrightment
 affronted
@@ -14197,7 +14198,6 @@ ancipitous
 argilliferous
 acephal
 aptitudinal
-anterosuperior
 antesternal
 antesuperior
 arboretums
