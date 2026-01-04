@@ -9270,7 +9270,6 @@ erratic
 erratically
 enantiomorphic
 eulogist
-epilachna
 electropism
 esdras
 erred
@@ -12677,6 +12676,7 @@ endorsor
 estrogenically
 exculpates
 ejaculative
+epilachna
 etoffe
 exonian
 exultant
