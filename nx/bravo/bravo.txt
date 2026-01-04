@@ -1691,7 +1691,6 @@ bloodroot
 balmoral
 benefits
 besoms
-balmorals
 bedticks
 bensh
 bathless
@@ -16371,6 +16370,7 @@ biovular
 bituminosis
 bowels
 broadswords
+balmorals
 bicarb
 bleatingly
 bdft
