@@ -5381,7 +5381,6 @@ begrimed
 bandusian
 bedeafened
 begrimer
-branchi
 begrimes
 begriming
 begrimmed
@@ -15625,6 +15624,7 @@ bushlet
 bromacetanilide
 bristlelike
 brigander
+branchi
 beingless
 boonk
 babyhoods
