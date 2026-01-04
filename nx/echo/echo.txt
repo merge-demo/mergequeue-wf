@@ -827,6 +827,7 @@ edaphically
 euglenidae
 epizoa
 eclectically
+epistoler
 erythrinidae
 eral
 excrescent
@@ -3007,7 +3008,6 @@ emaciate
 elides
 electrotropism
 europiums
-epistoler
 ekronite
 entomology
 enlarged
