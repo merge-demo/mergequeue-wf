@@ -10542,7 +10542,6 @@ childwite
 chile
 chileanization
 caballeria
-chileans
 chylemia
 chiliadron
 chiliads
@@ -29654,6 +29653,7 @@ casemate
 crocuses
 chronogrammatist
 crocuta
+chileans
 confusing
 circumambagious
 croft
