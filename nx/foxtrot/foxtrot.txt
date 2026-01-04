@@ -2604,7 +2604,6 @@ ferio
 farandmen
 foraminated
 ferruginating
-fraught
 fulleries
 fulful
 flashly
@@ -3706,6 +3705,7 @@ fake
 fulcral
 forkiness
 flotilla
+fraught
 formants
 fillipeen
 formanilide
