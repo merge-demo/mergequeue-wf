@@ -1284,7 +1284,6 @@ granch
 ganglioid
 gingham
 grizzler
-gawkiness
 giddying
 gunnels
 groundbreaker
@@ -9252,6 +9251,7 @@ glebe
 ghostlify
 growthiness
 glucagon
+gawkiness
 gyroceran
 grazingly
 gunja
