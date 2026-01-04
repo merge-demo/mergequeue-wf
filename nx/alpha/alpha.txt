@@ -10833,7 +10833,6 @@ accidie
 allegorical
 amniocentesis
 anapnoic
-amniochorial
 aboardage
 amniomancy
 amnionata
@@ -13933,6 +13932,7 @@ antalgol
 apandry
 acraspeda
 adelea
+amniochorial
 antanaclasis
 antelopes
 antebrachia
