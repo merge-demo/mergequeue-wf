@@ -10347,6 +10347,7 @@ bosporian
 bladewise
 bladygrass
 bryon
+buffaloing
 biffs
 bucayo
 bestudding
@@ -16870,7 +16871,6 @@ bungles
 buffalo
 buffalofish
 burglarised
-buffaloing
 biarcuated
 biflagellate
 bourgeoises
