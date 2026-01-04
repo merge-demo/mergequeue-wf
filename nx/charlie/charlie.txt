@@ -8044,6 +8044,7 @@ clottedness
 chablis
 coelarium
 crannog
+crosa
 chabouk
 crankshaft
 chabuk
@@ -21728,7 +21729,6 @@ compellably
 centralisation
 casson
 cassises
-crosa
 camphoric
 columbarium
 caranda
