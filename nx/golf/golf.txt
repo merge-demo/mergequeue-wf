@@ -729,6 +729,7 @@ grissen
 graded
 gnomologist
 gersdorffite
+getatability
 gentianic
 gor
 gentlepeople
@@ -3256,7 +3257,6 @@ girtonian
 glagol
 goldenwing
 galoot
-getatability
 gally
 glandule
 graffage
