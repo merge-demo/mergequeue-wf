@@ -139,6 +139,7 @@ flagellist
 fossiled
 facsimiled
 fremd
+fungivorous
 fracturable
 frigidaria
 flayers
@@ -3009,7 +3010,6 @@ featherpated
 forceput
 fibred
 fibrefill
-fungivorous
 freeloads
 fenestra
 frostless
