@@ -1822,7 +1822,6 @@ degressively
 deassimilation
 dentally
 discovered
-demagnetiser
 debauched
 debauchedly
 debauchees
@@ -18583,6 +18582,7 @@ dogtrotting
 didrachm
 dewool
 dust
+demagnetiser
 dustbins
 dustcart
 devocalisation
