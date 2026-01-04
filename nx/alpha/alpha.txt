@@ -1791,7 +1791,6 @@ absorptively
 amassable
 adulce
 acemila
-antilepton
 allocthonous
 ahaaina
 affixing
@@ -3467,6 +3466,7 @@ antinovelist
 additionary
 associationalism
 additionist
+antilepton
 abogado
 accusable
 attapulgite
