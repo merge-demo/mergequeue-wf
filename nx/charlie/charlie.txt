@@ -7934,7 +7934,6 @@ cuttle
 cipolin
 coning
 cessible
-copperplate
 clallam
 cyclorrhaphous
 clinician
@@ -20425,6 +20424,7 @@ compactors
 compacts
 comites
 compacture
+copperplate
 crumbliness
 compadre
 curstfully
