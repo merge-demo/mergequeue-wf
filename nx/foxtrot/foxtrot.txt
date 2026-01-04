@@ -2898,6 +2898,7 @@ flagonless
 flyboy
 fingian
 furazane
+fossane
 frustums
 fencing
 forereaching
@@ -4629,7 +4630,6 @@ formulations
 flickerproof
 fireboard
 fluctuate
-fossane
 fitzroya
 federatively
 fearfullest
