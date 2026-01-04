@@ -7367,7 +7367,6 @@ electrolyze
 experiencible
 epaulement
 evaporite
-enstranged
 eyries
 epee
 epeeist
@@ -12012,6 +12011,7 @@ escutellate
 enforceability
 enamelled
 epidialogue
+enstranged
 effodientia
 exclusivistic
 exclusivity
