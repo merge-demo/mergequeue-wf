@@ -2373,7 +2373,6 @@ dechemicalize
 doctorfish
 dechloridation
 dechloridize
-dendrites
 dillweed
 dysgenesis
 divise
@@ -7938,6 +7937,7 @@ diathermal
 decimeters
 dextroaural
 draconian
+dendrites
 diacanthous
 dismes
 drupiferous
