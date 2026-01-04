@@ -10539,6 +10539,7 @@ explosions
 entohyal
 endogastritis
 extraplacental
+exochorion
 epilachnides
 expreme
 estop
@@ -12561,7 +12562,6 @@ epistolet
 epitheliomas
 eatableness
 embezzlement
-exochorion
 enterocolitis
 eaglestone
 escheat
