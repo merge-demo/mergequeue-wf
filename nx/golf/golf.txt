@@ -1657,7 +1657,6 @@ gumlikeness
 geode
 goyish
 gastroenteroptosis
-graculus
 grammates
 gonnardite
 gladder
@@ -7363,6 +7362,7 @@ generalizers
 gamotropism
 glimmerite
 grumps
+graculus
 globated
 granulosis
 gamming
