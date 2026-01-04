@@ -7845,7 +7845,6 @@ gegg
 groaners
 glutter
 guillotines
-globs
 gristmilling
 graphospasm
 gerents
@@ -9875,6 +9874,7 @@ griddles
 geikielite
 gettableness
 gonyocele
+globs
 gasholder
 grasshoppers
 gablewise
