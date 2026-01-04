@@ -1227,7 +1227,6 @@ gubernacula
 gluteoperineal
 gruffly
 gambler
-gonakie
 grackles
 guana
 gaufre
@@ -8236,6 +8235,7 @@ grim
 gem
 greaseproof
 grapeskin
+gonakie
 grubstaking
 goldurned
 greenhead
