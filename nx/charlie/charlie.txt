@@ -2152,6 +2152,7 @@ capriciousness
 campcraft
 campe
 cumbers
+cockscombs
 cryal
 camped
 camper
@@ -17765,7 +17766,6 @@ chemosmoic
 cockroaches
 cozing
 cockscombed
-cockscombs
 coco
 cocoach
 cte
