@@ -4555,7 +4555,6 @@ floripondio
 feuder
 fisticuff
 flagfish
-fort
 fouldre
 fringed
 familiarness
@@ -8016,6 +8015,7 @@ forecooler
 frontispiecing
 fantasmagorically
 foreslow
+fort
 falloff
 frumpled
 flatteur
