@@ -9482,6 +9482,7 @@ bandwidths
 brawl
 bespatterment
 byrlawman
+binman
 benzoins
 boatbill
 bioinstrumentation
@@ -14561,7 +14562,6 @@ branchiferous
 barkentines
 birthrates
 broma
-binman
 bearded
 branchiness
 beglobed
