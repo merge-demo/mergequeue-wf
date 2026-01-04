@@ -14978,7 +14978,6 @@ breastmark
 brinston
 backspear
 buccina
-birthy
 boccale
 breastpin
 branchiate
@@ -17541,6 +17540,7 @@ biograph
 bonzian
 bitrochanteric
 burdenless
+birthy
 blasty
 birgand
 bookrest
