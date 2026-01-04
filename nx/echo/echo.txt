@@ -5988,7 +5988,6 @@ englute
 enjail
 escaped
 emetomorphine
-ectomere
 extrameridian
 eudemon
 electrostatically
@@ -12337,6 +12336,7 @@ exfoliative
 exhalents
 etude
 entermise
+ectomere
 exhales
 elihu
 erythrocatalysis
