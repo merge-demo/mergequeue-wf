@@ -5047,7 +5047,6 @@ euhemerist
 erythrolysis
 endia
 equerry
-emplace
 elaeomargaric
 enrolled
 extraordinaries
@@ -7048,6 +7047,7 @@ entresols
 extractors
 excommunicator
 encipherments
+emplace
 embladder
 explorable
 estated
