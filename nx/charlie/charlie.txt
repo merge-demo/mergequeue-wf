@@ -552,6 +552,7 @@ clogmaker
 carbuilder
 cadged
 cacao
+chirrups
 cadgers
 cadgily
 carboxylated
@@ -11757,7 +11758,6 @@ cholos
 choloscopy
 cholterheaded
 choltry
-chirrups
 creekstuff
 cholum
 clavicor
