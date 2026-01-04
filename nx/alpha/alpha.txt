@@ -97,7 +97,6 @@ arruague
 abandonment
 accelerator
 antipriestcraft
-acknow
 annominate
 auditories
 abarticulation
@@ -14893,6 +14892,7 @@ algiers
 aegagropilae
 alypum
 alicia
+acknow
 avowal
 aeromotor
 aboriginally
