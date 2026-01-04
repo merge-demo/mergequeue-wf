@@ -7787,7 +7787,6 @@ commotive
 centunculus
 countrymen
 casuarinales
-chemiluminescent
 coinhering
 capromys
 ceroplasty
@@ -16116,6 +16115,7 @@ collards
 clydesider
 clientage
 cliental
+chemiluminescent
 classer
 cycloramas
 condylotomy
