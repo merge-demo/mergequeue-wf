@@ -4978,7 +4978,6 @@ encouragement
 enstamp
 endeavouring
 endeictic
-entropium
 expectable
 embryotomy
 endellionite
@@ -13385,6 +13384,7 @@ exposture
 esurience
 encephalola
 emotion
+entropium
 epanaphoral
 exter
 entrapments
