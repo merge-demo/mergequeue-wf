@@ -4142,6 +4142,7 @@ employe
 edictum
 estado
 epigene
+enlief
 epicanthus
 ejacula
 encyclicals
@@ -6076,7 +6077,6 @@ enlaurel
 emancipatist
 exorableness
 enliveningly
-enlief
 evertebrate
 excruciate
 electromotion
