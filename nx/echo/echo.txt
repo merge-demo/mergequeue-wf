@@ -1681,6 +1681,7 @@ eiders
 extemporaneity
 epilemmal
 eidograph
+escruage
 eclogues
 eases
 eligent
@@ -9976,7 +9977,6 @@ eurafrican
 enclear
 entepicondylar
 etape
-escruage
 etapes
 exorhason
 endangers
