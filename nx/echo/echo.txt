@@ -2307,7 +2307,6 @@ endolymph
 excretal
 encased
 egest
-ecliptics
 equality
 erythrosine
 electrifiers
@@ -6640,6 +6639,7 @@ echinorhynchus
 esperantidist
 erump
 embryous
+ecliptics
 enseam
 exfoliated
 egyptianism
