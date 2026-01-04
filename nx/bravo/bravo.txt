@@ -5237,7 +5237,6 @@ beaky
 bunkmate
 biocycles
 bowtie
-baldpates
 bebrine
 bewired
 batzen
@@ -15546,6 +15545,7 @@ bloodless
 brinies
 bocal
 burrfish
+baldpates
 buteo
 briniest
 bemuck
