@@ -5823,7 +5823,6 @@ ebullioscope
 encrinal
 episode
 encloser
-enray
 effluvia
 environing
 elephant
@@ -12610,6 +12609,7 @@ expostulates
 elvira
 ecclesiasticalness
 exoculation
+enray
 exteriorness
 exoderm
 elohistic
