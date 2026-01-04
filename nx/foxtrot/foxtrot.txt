@@ -3196,6 +3196,7 @@ ficklety
 fictionalize
 flounce
 fourcher
+fijian
 friers
 frostwort
 fearnought
@@ -4720,7 +4721,6 @@ forkfuls
 fougue
 feathermonger
 fobbing
-fijian
 feedwater
 fulgor
 ferrugineous
