@@ -1,5 +1,6 @@
 fodda
 firedrake
+fasciation
 first
 fallacia
 fimbrial
@@ -8579,7 +8580,6 @@ fratchety
 featherer
 frogtongue
 futurities
-fasciation
 forebodement
 ferules
 farthings
