@@ -4747,6 +4747,7 @@ disseizor
 deanimalize
 diemaker
 dentalizing
+desiderta
 disenslave
 demography
 denigrations
@@ -6707,7 +6708,6 @@ disorderliness
 darnex
 displumes
 diatribes
-desiderta
 diptycas
 desidiose
 duckmole
