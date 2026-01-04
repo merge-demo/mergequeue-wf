@@ -5150,6 +5150,7 @@ accend
 atmology
 avouching
 amnioallantoic
+apolaustic
 antireticular
 anticommunist
 afenil
@@ -17621,7 +17622,6 @@ appertained
 acrose
 appertainment
 auditory
-apolaustic
 antiagglutination
 antediluvial
 agouta
