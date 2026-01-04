@@ -2452,6 +2452,7 @@ bonete
 blackjacked
 bradenhead
 byres
+boring
 brassic
 breechesflower
 brodder
@@ -8229,7 +8230,6 @@ blowtorch
 biflagelate
 bleo
 bewaring
-boring
 borrow
 bifluoride
 bifocal
