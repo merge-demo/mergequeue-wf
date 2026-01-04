@@ -22495,6 +22495,7 @@ corms
 charisma
 coniroster
 conirostral
+chelicerae
 conirostres
 cheechako
 conisance
@@ -30232,7 +30233,6 @@ cruised
 controllers
 cruises
 cruising
-chelicerae
 cruive
 cortian
 cruller

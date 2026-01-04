@@ -12879,6 +12879,7 @@ angouleme
 adiaphanousness
 armored
 arcidae
+atsara
 angriness
 angstroms
 arrivers
@@ -20608,7 +20609,6 @@ adulators
 afterplay
 adamantoma
 arthrometry
-atsara
 alvine
 ammodytoid
 aswithe
