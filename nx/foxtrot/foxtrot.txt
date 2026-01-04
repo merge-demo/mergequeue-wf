@@ -3952,7 +3952,6 @@ fiscal
 fulmine
 figurehead
 forbit
-flanque
 feminisation
 fictionally
 fraulein
@@ -10096,6 +10095,7 @@ fetalism
 fattishness
 flammability
 forespake
+flanque
 fellowed
 frisking
 froth
