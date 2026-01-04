@@ -2749,7 +2749,6 @@ ediya
 essenianism
 employment
 evildoing
-endurability
 estadal
 enceint
 eleemosinar
@@ -6638,6 +6637,7 @@ exfoliated
 egyptianism
 expulsatory
 eructed
+endurability
 execrate
 epaleaceous
 easterliness
