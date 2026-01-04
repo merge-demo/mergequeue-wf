@@ -4746,6 +4746,7 @@ disseizor
 deanimalize
 diemaker
 dentalizing
+dolphin
 desiderta
 disenslave
 demography
@@ -15319,7 +15320,6 @@ delusional
 diffuse
 drapping
 diasporas
-dolphin
 dirling
 dolphinlike
 decadescent
