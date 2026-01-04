@@ -5607,6 +5607,7 @@ failsafe
 forwhy
 forfar
 fingerwise
+figureless
 federal
 frontonasal
 flageolet
@@ -9607,7 +9608,6 @@ foolmonger
 fogginess
 flatette
 forepale
-figureless
 final
 furuncular
 freebie
