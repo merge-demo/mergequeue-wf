@@ -1101,7 +1101,6 @@ grannies
 ghastlier
 gregorianize
 ganja
-guideposts
 generatively
 gashouses
 graphiola
@@ -3601,6 +3600,7 @@ gingko
 garmentworker
 glowing
 ganglions
+guideposts
 gymnorhina
 geomagnetist
 grugru
