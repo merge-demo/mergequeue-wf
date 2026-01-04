@@ -4907,7 +4907,6 @@ galleryite
 gleam
 glozes
 gimme
-gladiola
 goldurns
 goatly
 gastroenteric
@@ -10182,6 +10181,7 @@ genethliac
 garages
 grovelings
 geared
+gladiola
 guido
 ganglioneuroma
 gearwheels
