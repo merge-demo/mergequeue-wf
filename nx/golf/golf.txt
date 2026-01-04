@@ -2404,7 +2404,6 @@ grampa
 granddaughterly
 gastrulas
 gradely
-gentianal
 glassware
 gelidium
 geminates
@@ -6952,6 +6951,7 @@ goodrich
 grayfly
 galatians
 grx
+gentianal
 geometrised
 grannam
 geostatics
