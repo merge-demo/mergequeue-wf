@@ -2123,6 +2123,7 @@ besetment
 betrough
 branchihyal
 bourkha
+bolos
 borasco
 birthrights
 beleaguerment
@@ -8648,7 +8649,6 @@ baldacchino
 behind
 burgees
 billionism
-bolos
 billionth
 braggartism
 brethel
