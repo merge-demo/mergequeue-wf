@@ -4020,7 +4020,6 @@ etymologise
 evangelian
 entertake
 eyeliners
-emetology
 estrapade
 enage
 extirpated
@@ -14019,6 +14018,7 @@ endothecia
 endemism
 epitrophic
 exr
+emetology
 enthrallingly
 enteroclisis
 emasculating
