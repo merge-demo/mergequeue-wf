@@ -7502,7 +7502,6 @@ cledge
 circumduce
 ceramium
 cytase
-ceramographic
 cinnamic
 canvass
 citified
@@ -16136,6 +16135,7 @@ clithridiate
 chagoma
 chainon
 cryptographical
+ceramographic
 collada
 corosif
 clergywomen
