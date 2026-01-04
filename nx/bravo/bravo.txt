@@ -11229,7 +11229,6 @@ bahamians
 byways
 boxen
 bedclothes
-borean
 bronchiloquy
 boulevardiers
 bicyclists
@@ -15295,6 +15294,7 @@ boardman
 brizz
 brewster
 bridemaid
+borean
 bregmatic
 biwa
 brecken
