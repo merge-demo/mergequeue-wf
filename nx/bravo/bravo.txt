@@ -1901,7 +1901,6 @@ bevies
 batukite
 bishoplike
 backy
-besotting
 bandit
 beshrew
 bretwaldadom
@@ -9545,6 +9544,7 @@ blackball
 birthed
 bakairi
 basilyst
+besotting
 birthless
 berceuses
 bacteria
