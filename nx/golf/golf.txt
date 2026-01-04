@@ -2290,7 +2290,6 @@ glimpses
 granulocytopoiesis
 geitonogamy
 gliadin
-gonostyle
 geomoroi
 grange
 glazer
@@ -5473,6 +5472,7 @@ gandhism
 grazings
 greater
 glaciating
+gonostyle
 galet
 guywire
 gemellus
