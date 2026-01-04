@@ -494,7 +494,6 @@ empasm
 exody
 etesians
 equivocatingly
-endoconidium
 extorsion
 ecclesiastics
 encup
@@ -5693,6 +5692,7 @@ enlargedly
 enshielding
 exameter
 exogastric
+endoconidium
 emeu
 entempest
 erythrocytoblast
