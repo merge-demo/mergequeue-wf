@@ -5877,7 +5877,6 @@ cylindrocephalic
 categoric
 coliidae
 chondrified
-cessionary
 categorically
 categories
 cardiazol
@@ -6004,6 +6003,7 @@ chistera
 crawdads
 cathartides
 chevied
+cessionary
 carburized
 cathartolinum
 cathected
