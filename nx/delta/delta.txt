@@ -8873,7 +8873,6 @@ depolariser
 daimio
 dermatitis
 decaisnea
-dice
 desiccators
 diceboard
 dazzles
@@ -17220,6 +17219,7 @@ driftweed
 degged
 drivewell
 disbench
+dice
 dagger
 driving
 disclamatory
