@@ -10922,7 +10922,6 @@ aphrolite
 antilactase
 antagonist
 amylophosphoric
-anchylotic
 aromatizing
 acheat
 apoplectic
@@ -15421,6 +15420,7 @@ antimedical
 aslantwise
 antimedicine
 anaptomorphidae
+anchylotic
 agrestial
 antimedievalism
 antimedievally
