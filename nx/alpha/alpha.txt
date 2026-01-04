@@ -7737,6 +7737,7 @@ affile
 avianize
 amability
 alcatras
+anisodactyla
 aldime
 aldimin
 accepted
@@ -13240,7 +13241,6 @@ apograph
 allwhere
 appetit
 anisocotyledonous
-anisodactyla
 amendatory
 anonol
 anisodactyli
