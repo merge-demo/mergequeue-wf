@@ -928,7 +928,6 @@ belligerently
 bagsful
 bequirtle
 bazookaman
-bassalian
 barbeled
 bravely
 beprank
@@ -8231,6 +8230,7 @@ blinded
 berith
 bb
 bobstay
+bassalian
 balagan
 bullfist
 brooms
