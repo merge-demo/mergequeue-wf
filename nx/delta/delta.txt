@@ -2292,7 +2292,6 @@ decemviral
 deepish
 decayer
 decene
-depurator
 decennial
 dingdongs
 decennium
@@ -12708,6 +12707,7 @@ deployable
 disleafed
 dermatophone
 diffrangibility
+depurator
 disleaved
 disjointure
 disepalous
