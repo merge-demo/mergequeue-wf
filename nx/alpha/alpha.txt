@@ -6298,7 +6298,6 @@ anisocotyly
 attractable
 accorded
 astarboard
-agrestial
 archduchess
 agrestic
 agrestical
@@ -15418,6 +15417,7 @@ antimedical
 aslantwise
 antimedicine
 anaptomorphidae
+agrestial
 antimedievalism
 antimedievally
 antimelancholic
