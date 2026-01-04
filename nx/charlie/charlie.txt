@@ -19717,7 +19717,6 @@ comatosely
 countercharged
 comatoseness
 comatosity
-comatula
 combaron
 combasou
 combat
@@ -24751,6 +24750,7 @@ croppers
 coppra
 chamidae
 closenesses
+comatula
 copra
 copraemia
 cencerros
