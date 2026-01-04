@@ -5835,7 +5835,6 @@ exemplariness
 eternalized
 exalte
 epopees
-explanation
 engouement
 embolization
 eburnated
@@ -9102,6 +9101,7 @@ eschalots
 engnessang
 euros
 erythrolytic
+explanation
 equitangential
 endoscopic
 exponential
