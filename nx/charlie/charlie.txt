@@ -7567,6 +7567,7 @@ chastened
 ceratostomataceae
 cytococcus
 cheliceral
+chivarras
 cypridinidae
 clergyman
 coolhouse
@@ -11170,7 +11171,6 @@ chivari
 crannequin
 chivaris
 chivarra
-chivarras
 chive
 cinecamera
 chivey

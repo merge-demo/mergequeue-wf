@@ -125,7 +125,6 @@ exodermal
 eparch
 euphonised
 echinoderma
-earthboard
 embosk
 epigrammatic
 exanthemata
@@ -10735,6 +10734,7 @@ erichthus
 encrease
 emacerate
 emblazer
+earthboard
 ecologic
 euhyostylic
 eukairite
