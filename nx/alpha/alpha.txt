@@ -8335,7 +8335,6 @@ aristolochia
 anticomet
 aerodromics
 alisp
-alisphenoidal
 asynapsis
 aliter
 archaiser
@@ -11738,6 +11737,7 @@ africanthropus
 aglimmer
 axfetch
 aparavidya
+alisphenoidal
 analysers
 abstentions
 aerides
