@@ -1948,6 +1948,7 @@ fancy
 feebless
 filatory
 fillock
+fabricate
 fernticle
 fibratus
 falconers
@@ -4898,7 +4899,6 @@ flummoxes
 flakiest
 flaneur
 forged
-fabricate
 frequentable
 flambeau
 foamier
