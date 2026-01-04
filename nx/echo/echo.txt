@@ -7585,7 +7585,6 @@ extricate
 entozoological
 epichorion
 estacade
-epicycle
 epicyemate
 eeyuch
 experiments
@@ -13822,6 +13821,7 @@ embrake
 expos
 euthenics
 excudit
+epicycle
 elaeothesia
 extraversively
 extracosmical
