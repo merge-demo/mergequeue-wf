@@ -2206,7 +2206,6 @@ feudee
 follows
 fikie
 firebombs
-fuliguline
 forestine
 flatcars
 frothier
@@ -3563,6 +3562,7 @@ floorway
 files
 femora
 fiddle
+fuliguline
 filesniff
 freijo
 follyproof
