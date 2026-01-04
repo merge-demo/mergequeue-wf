@@ -10821,7 +10821,6 @@ ammu
 amnesia
 amnestied
 aimer
-alf
 affronter
 allamoth
 antiphilosophy
@@ -13312,6 +13311,7 @@ aspca
 agamont
 apolista
 anisopteran
+alf
 absolvitory
 abrading
 antecedent
