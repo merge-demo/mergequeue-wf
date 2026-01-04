@@ -6823,7 +6823,6 @@ celestite
 celestitude
 clivias
 celiadelphus
-celibacy
 costard
 celibatic
 conducent
@@ -14141,6 +14140,7 @@ circue
 circuit
 circuital
 circuiteer
+celibacy
 clyer
 continues
 cementless
