@@ -2157,6 +2157,7 @@ fadme
 flashet
 feltmaker
 ferdiad
+furtum
 fiducia
 fratercula
 farmhouse
@@ -9137,7 +9138,6 @@ formity
 fliers
 formalins
 fulfils
-furtum
 fortresses
 fribblish
 filters
