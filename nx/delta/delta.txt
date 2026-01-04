@@ -7871,7 +7871,6 @@ driveways
 dewclaws
 diaphonia
 dites
-dewdamp
 dapson
 dewdrop
 defamatory
@@ -16694,6 +16693,7 @@ dramaticle
 detractor
 dramatiser
 duret
+dewdamp
 divisionistic
 deliberalize
 divellicate
