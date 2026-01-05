@@ -3783,6 +3783,7 @@ furnitureless
 foreflap
 facette
 fairyism
+forehock
 footblower
 fluoridisation
 flebotomy
@@ -5625,7 +5626,6 @@ fortitude
 flighter
 fleshling
 fleysome
-forehock
 funicular
 florescent
 flightier
