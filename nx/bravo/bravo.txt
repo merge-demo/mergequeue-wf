@@ -13057,6 +13057,7 @@ bettongia
 bacteriolysis
 breeching
 barricade
+bewinged
 bagataway
 bonded
 berger
@@ -17731,7 +17732,6 @@ burgeoning
 benempt
 bemuzzled
 bott
-bewinged
 beknit
 burnfire
 buckeens
