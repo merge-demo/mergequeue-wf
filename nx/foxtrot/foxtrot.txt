@@ -5532,6 +5532,7 @@ finnan
 fletchers
 formulise
 fellic
+fondler
 furrower
 fisc
 faked
@@ -8506,7 +8507,6 @@ forger
 formicine
 floormen
 fashiousness
-fondler
 fluidal
 formylal
 fervorless
