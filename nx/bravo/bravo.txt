@@ -8155,7 +8155,6 @@ bania
 boltonias
 boathouses
 bountith
-bottle
 bindweeds
 bearess
 brutelike
@@ -9648,6 +9647,7 @@ bracketing
 blurters
 boomslang
 bisexed
+bottle
 biles
 bimastism
 barb
