@@ -10496,7 +10496,6 @@ brachysclereid
 bhutan
 bathmic
 blason
-blasphemed
 blasphemes
 blasphemies
 blasphemous
@@ -14643,6 +14642,7 @@ biogeographers
 brotherlike
 behave
 bonito
+blasphemed
 branniness
 bassara
 bromoiodism
