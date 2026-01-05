@@ -2358,7 +2358,6 @@ gavials
 guaiacols
 goloe
 galopin
-geldings
 graylag
 gol
 garlandage
@@ -6588,6 +6587,7 @@ guerillas
 gelled
 galeass
 grenadiers
+geldings
 gigolos
 gesticulatively
 graphalloy
