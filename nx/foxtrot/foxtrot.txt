@@ -5629,6 +5629,7 @@ formerness
 fourgons
 frusla
 fortitude
+frostbitten
 flighter
 fleshling
 fleysome
@@ -10505,7 +10506,6 @@ flatweed
 fidged
 frostfish
 forcite
-frostbitten
 frosty
 feasance
 feuillet
