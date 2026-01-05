@@ -10680,7 +10680,6 @@ balanophoraceae
 bandspreading
 boardinghouse
 bernese
-bollies
 bishopscap
 bleaky
 buist
@@ -18378,6 +18377,7 @@ beylical
 bluebook
 balaustre
 bewield
+bollies
 bosey
 byronics
 betweenmaid
