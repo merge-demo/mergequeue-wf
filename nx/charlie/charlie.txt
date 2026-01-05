@@ -11013,7 +11013,6 @@ coenenchymatous
 chiropodous
 chiropompholyx
 contraposita
-chiroptera
 chiropterygian
 chiropterite
 chiros
@@ -24226,6 +24225,7 @@ convoyed
 convoying
 carboxypeptidase
 convoked
+chiroptera
 centigram
 convolutedly
 convoluting
