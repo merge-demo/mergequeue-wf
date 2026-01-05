@@ -710,6 +710,7 @@ disglut
 disleaving
 decreeing
 deservedness
+depressure
 denudatory
 dismarry
 dictagraph
@@ -1500,7 +1501,6 @@ dc
 donmeh
 dismarshall
 dcb
-depressure
 deaccessioning
 drawbolt
 dingbats
