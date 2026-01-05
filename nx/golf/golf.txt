@@ -2671,6 +2671,7 @@ goatee
 glossosteresis
 gambir
 glycohemia
+geswarp
 gripgrass
 geniality
 gastrolysis
@@ -6964,7 +6965,6 @@ germander
 garrigue
 groundsman
 gastroepiploic
-geswarp
 generalism
 gormandism
 guaniferous
