@@ -4159,7 +4159,6 @@ favourably
 firebrick
 foulmouthed
 foretokening
-firebug
 flagstones
 fado
 flickertail
@@ -4983,6 +4982,7 @@ faffle
 forwarders
 fictionalized
 fingerlet
+firebug
 foraminate
 fact
 forestcraft
