@@ -3704,6 +3704,7 @@ diam
 dobsonfly
 dehydrochlorinase
 dinumeration
+drop
 dowlas
 dehydrochlorinate
 doketism
@@ -11640,7 +11641,6 @@ discontinuities
 dicatalexis
 dsect
 discontinuously
-drop
 discontinuousness
 disconula
 disconvenience
