@@ -1420,6 +1420,7 @@ gearshift
 gcd
 gangplow
 grundyite
+guigne
 galvanopsychic
 gambes
 gloves
@@ -10343,7 +10344,6 @@ grammaticism
 greenwax
 gelatinigerous
 globulicide
-guigne
 gnattiest
 gratuities
 grasslike
