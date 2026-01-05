@@ -3994,6 +3994,7 @@ frithstool
 forwean
 fallacious
 forefaces
+flower
 fario
 feute
 funerally
@@ -7779,7 +7780,6 @@ facer
 fanfaronade
 fullerboard
 fife
-flower
 flanes
 firearms
 foremast
