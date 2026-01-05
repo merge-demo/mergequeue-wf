@@ -2339,7 +2339,6 @@ braggers
 bagger
 bartholomite
 blameably
-baobab
 biasways
 breloque
 bathyscape
@@ -12610,6 +12609,7 @@ bonk
 begrudging
 bagpiping
 bonne
+baobab
 bubbly
 bonnet
 bathroom
