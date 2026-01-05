@@ -3050,7 +3050,6 @@ deerstalking
 deerweed
 dollyway
 detest
-deescalate
 deeses
 deepfrozen
 deemphasize
@@ -17678,6 +17677,7 @@ democratifiable
 desmonosology
 duodenojejunal
 duarch
+deescalate
 decarburizing
 discommons
 destination
