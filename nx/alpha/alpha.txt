@@ -3210,7 +3210,6 @@ assident
 abstersion
 aphis
 ashlar
-actuating
 alpist
 actionless
 activation
@@ -10573,6 +10572,7 @@ aminoacetic
 anatomicosurgical
 academie
 arrhythmy
+actuating
 abrogator
 acetylized
 analogical
