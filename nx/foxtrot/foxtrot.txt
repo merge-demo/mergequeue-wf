@@ -1345,7 +1345,6 @@ florentine
 favorable
 forfars
 frock
-floggable
 flaggish
 fanning
 fatigue
@@ -4632,6 +4631,7 @@ formulations
 flickerproof
 fireboard
 fluctuate
+floggable
 fitzroya
 federatively
 fearfullest
