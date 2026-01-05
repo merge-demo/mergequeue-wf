@@ -11074,7 +11074,6 @@ conichalcite
 coffea
 chistka
 chit
-chitak
 cordoba
 chuckled
 chitarra
@@ -20233,6 +20232,7 @@ commolition
 common
 chanting
 coping
+chitak
 cutification
 chrysolitic
 cystosyrinx
