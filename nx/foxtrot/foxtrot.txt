@@ -2679,7 +2679,6 @@ fractionally
 fortnightlies
 ferventness
 fishify
-flamant
 frenzies
 flambe
 faithing
@@ -10095,6 +10094,7 @@ familistical
 faradonervous
 flannelled
 flagellates
+flamant
 fleyed
 foretaste
 flyball
