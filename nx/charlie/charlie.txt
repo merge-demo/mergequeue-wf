@@ -5744,6 +5744,7 @@ cystoepiplocele
 catastrophic
 catathymic
 catatony
+consolate
 catatonic
 coeloglossum
 countersignal
@@ -25217,7 +25218,6 @@ cornels
 corycavidine
 corydalin
 corydine
-consolate
 corylaceae
 corylaceous
 corylus
