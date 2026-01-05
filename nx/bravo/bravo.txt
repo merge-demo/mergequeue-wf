@@ -6187,7 +6187,6 @@ baffy
 benet
 brazas
 beneventan
-bibliography
 benevolency
 bengalese
 batavian
@@ -6529,6 +6528,7 @@ banisters
 ballader
 birdshot
 besprizorni
+bibliography
 brustled
 becolor
 begulfed
