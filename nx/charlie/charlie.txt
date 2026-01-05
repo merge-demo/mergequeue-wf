@@ -1931,7 +1931,6 @@ clarity
 cartonnage
 cambricleaf
 colobus
-curs
 cambridge
 catostomidae
 chaumer
@@ -27233,6 +27232,7 @@ counterweighted
 cohibitive
 counterweights
 counterwheel
+curs
 counterwilling
 counterwitness
 counterwork
