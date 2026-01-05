@@ -7138,7 +7138,6 @@ alay
 areology
 antholyza
 acquisitions
-affirmatives
 alain
 aquativeness
 axiologist
@@ -15542,6 +15541,7 @@ ailurophile
 aquage
 altrose
 antimoralistic
+affirmatives
 ambuscaded
 acardite
 accrescence
