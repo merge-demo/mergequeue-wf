@@ -9572,6 +9572,7 @@ farcinoma
 flawn
 freaks
 fractions
+frondless
 founts
 foveate
 fermenter
@@ -10356,7 +10357,6 @@ filthify
 feudovassalism
 faceman
 fortiori
-frondless
 ferrado
 fantasized
 frondlet
