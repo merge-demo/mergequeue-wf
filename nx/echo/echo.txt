@@ -3424,7 +3424,6 @@ emetine
 equivokes
 eremopteris
 egypt
-ectypes
 electrotechnics
 embarge
 espier
@@ -10639,6 +10638,7 @@ edda
 encryption
 epimysium
 exodium
+ectypes
 elaterid
 eudaimonia
 eudaimonist
