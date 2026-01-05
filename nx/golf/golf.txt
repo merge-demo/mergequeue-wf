@@ -1249,7 +1249,6 @@ grogged
 glucid
 gooding
 gonglike
-grassman
 garbill
 guyline
 goosebone
@@ -6895,6 +6894,7 @@ giganticide
 geomalism
 ganglioform
 geographer
+grassman
 geneserine
 gulosity
 genips
