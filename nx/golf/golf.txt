@@ -5895,7 +5895,6 @@ grackle
 grogshops
 goofs
 gambirs
-glamourizer
 gluepot
 gynophoric
 gimballed
@@ -7542,6 +7541,7 @@ gravimeter
 gallycrow
 ganocephalous
 gilaki
+glamourizer
 galinaceous
 guserid
 goniatitidae
