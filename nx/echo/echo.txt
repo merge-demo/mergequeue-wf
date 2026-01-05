@@ -2467,7 +2467,6 @@ etymologist
 encitadel
 exinanition
 erythrophyll
-encollar
 exendospermic
 engrails
 earthquaked
@@ -13306,6 +13305,7 @@ equipt
 electromyograph
 elevating
 elusively
+encollar
 eyewear
 encomendero
 ephoralty
