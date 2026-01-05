@@ -9599,7 +9599,6 @@ checksumming
 castro
 cistaceae
 chromogenous
-catechize
 capacitively
 checkweighmen
 closeted
@@ -23398,6 +23397,7 @@ computation
 ceramicite
 cuculi
 cumulating
+catechize
 colibert
 cleistothecium
 carpiodes
