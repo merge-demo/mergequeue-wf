@@ -12390,7 +12390,6 @@ antibiont
 admensuration
 algesis
 armchairs
-abarambo
 anecdotage
 astart
 ajowan
@@ -17187,6 +17186,7 @@ apomorphia
 anthropoteleoclogy
 ahmadi
 acropetal
+abarambo
 agonist
 aphodus
 adeptship
