@@ -3661,6 +3661,7 @@ freshener
 futurama
 fructiferous
 finicking
+fadedness
 follying
 fiddleys
 filioque
@@ -10267,7 +10268,6 @@ frankeniaceae
 fe
 fruticant
 fleshly
-fadedness
 fibrillations
 flakers
 frond
