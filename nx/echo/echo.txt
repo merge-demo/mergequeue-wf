@@ -4202,6 +4202,7 @@ empress
 esbay
 eyelash
 evacuates
+eicosane
 earthlight
 empresses
 emprint
@@ -11426,7 +11427,6 @@ everyman
 enhydrous
 everywhen
 escorting
-eicosane
 explorers
 eluctation
 emoted
