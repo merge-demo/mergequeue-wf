@@ -609,6 +609,7 @@ fallowist
 fivefold
 friborg
 footsy
+fellowed
 floorless
 fellon
 foreknows
@@ -10119,7 +10120,6 @@ flammability
 forespake
 fatsoes
 flanque
-fellowed
 frisking
 froth
 frisch
