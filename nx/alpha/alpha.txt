@@ -1507,7 +1507,6 @@ antinovel
 accolled
 accomplishers
 accommodableness
-accommodate
 avicularimorphae
 accommodated
 accommodatingness
@@ -9047,6 +9046,7 @@ asonant
 autism
 allhallow
 abhorring
+accommodate
 aristogenetic
 anemometric
 antacid
