@@ -3431,7 +3431,6 @@ estimator
 epinephelus
 ebullate
 exurbanite
-exacters
 equiparate
 emphase
 endocrinologist
@@ -7379,6 +7378,7 @@ eyres
 entombs
 epencephala
 erythroxylaceae
+exacters
 embittering
 emprise
 ethidene
