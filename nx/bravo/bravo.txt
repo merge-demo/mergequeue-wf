@@ -13085,6 +13085,7 @@ borofluoric
 bedrop
 boe
 braggartry
+baud
 blurrer
 bowdlerise
 bulder
@@ -13687,7 +13688,6 @@ backsplice
 bladder
 blab
 bloodsucker
-baud
 bande
 broidery
 binocs
