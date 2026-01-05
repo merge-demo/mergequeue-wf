@@ -4393,6 +4393,7 @@ footgear
 fl
 frenches
 fished
+forestress
 feulamort
 farand
 featherbrained
@@ -7027,7 +7028,6 @@ focalising
 functor
 foining
 frittered
-forestress
 frescoist
 faints
 fictionistic
