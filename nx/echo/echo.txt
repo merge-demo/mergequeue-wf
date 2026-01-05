@@ -6635,6 +6635,7 @@ enamdar
 egrimonle
 enterogenous
 edificant
+enframe
 eartagged
 empyreumata
 enantiomeric
@@ -8625,7 +8626,6 @@ equigranular
 equilateral
 eriogonum
 equilibrant
-enframe
 electrodynamometer
 elinguating
 equilibrates
