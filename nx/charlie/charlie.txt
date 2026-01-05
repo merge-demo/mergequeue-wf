@@ -10500,7 +10500,6 @@ chilcat
 coprostanol
 chelophore
 child
-childbearing
 circumspatial
 cerebrometer
 childcrowing
@@ -27551,6 +27550,7 @@ comped
 cower
 circumambiently
 consumation
+childbearing
 characterised
 coverlids
 clairce
