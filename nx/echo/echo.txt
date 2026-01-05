@@ -11100,6 +11100,7 @@ evans
 expiate
 eusthenopteron
 electros
+extrasyllogistic
 esquiredom
 entune
 emulated
@@ -11467,7 +11468,6 @@ entertainers
 electrolytes
 eductions
 englishness
-extrasyllogistic
 erythraeidae
 evictions
 explanatory
