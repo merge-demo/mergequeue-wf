@@ -2957,7 +2957,6 @@ grassplat
 genecological
 gyniatry
 goldurnedest
-grazable
 gyrotheca
 gulph
 glacioaqueous
@@ -7122,6 +7121,7 @@ gorcocks
 gypsylike
 guideship
 grasscut
+grazable
 giansar
 guayaba
 greenfly
