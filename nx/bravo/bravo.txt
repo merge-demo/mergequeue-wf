@@ -45,7 +45,6 @@ banally
 brachydomal
 bodleian
 brutalizes
-bracketwise
 babblers
 bolbanac
 bodement
@@ -13709,6 +13708,7 @@ broozled
 bourdons
 beckoned
 befoolable
+bracketwise
 bourgade
 beeped
 bonailie
