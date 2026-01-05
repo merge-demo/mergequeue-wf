@@ -11618,7 +11618,6 @@ blushy
 biddy
 brierwood
 beth
-brightness
 blusterers
 byordinar
 basilicalike
@@ -14197,6 +14196,7 @@ beflower
 buckboard
 blacken
 beseeched
+brightness
 beadleship
 belgophile
 barken
