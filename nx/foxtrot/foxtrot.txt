@@ -11538,6 +11538,7 @@ furlable
 fabling
 fictionize
 fards
+fodderless
 forjudgment
 fork
 famulary
@@ -11595,7 +11596,6 @@ furciferine
 fealty
 fideicommissary
 forced
-fodderless
 fraternal
 febrifugal
 for
