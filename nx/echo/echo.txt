@@ -12310,7 +12310,6 @@ emanators
 exerted
 encumbrous
 electroballistic
-excepable
 eviscerations
 evectant
 exertionless
@@ -12552,6 +12551,7 @@ etc
 expressmen
 ergonovine
 eupathy
+excepable
 esthiomenus
 enuring
 echuca
