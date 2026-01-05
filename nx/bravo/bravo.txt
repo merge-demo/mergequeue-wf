@@ -3530,7 +3530,6 @@ bogglish
 broadax
 batete
 brabbling
-biquintile
 balotade
 blue
 batfishes
@@ -17398,6 +17397,7 @@ bottles
 bejeled
 bungling
 bastinade
+biquintile
 binnogue
 bullit
 bungos
