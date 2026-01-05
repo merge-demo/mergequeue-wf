@@ -7175,7 +7175,6 @@ casziel
 canton
 caliculus
 centimetre
-cashmerette
 centimetres
 cullion
 centimo
@@ -17001,6 +17000,7 @@ clunkers
 corregidors
 crowner
 clunter
+cashmerette
 coutille
 clupanodonic
 clupea
