@@ -11815,7 +11815,6 @@ besmoothed
 barnful
 br
 billingsgate
-buckwheat
 bocasin
 bookshops
 boccarella
@@ -12970,6 +12969,7 @@ bara
 bouquiniste
 brambled
 bladderweed
+buckwheat
 bronchocele
 berliners
 blameless
