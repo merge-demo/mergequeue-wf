@@ -11949,7 +11949,6 @@ designatum
 defeise
 daledh
 dramatizes
-downrange
 domes
 digestion
 dyeleaves
@@ -18504,6 +18503,7 @@ durances
 downcast
 demonolatrous
 duraspinalis
+downrange
 duration
 durations
 durbachite
