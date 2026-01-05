@@ -10830,7 +10830,6 @@ ceaseless
 chinoa
 chinoidin
 confusers
-ceorls
 chinoline
 clowring
 chinologist
@@ -29667,6 +29666,7 @@ croydon
 croiik
 croyl
 chromogram
+ceorls
 chayroot
 croisade
 crowd
