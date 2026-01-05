@@ -3697,7 +3697,6 @@ forleit
 fittiness
 finales
 filicides
-furling
 flics
 fecundates
 fillmore
@@ -6996,6 +6995,7 @@ fortuity
 fordless
 fondateur
 favilla
+furling
 fonding
 fondle
 frayings
