@@ -10818,7 +10818,6 @@ amniocentesis
 anapnoic
 aboardage
 amniomancy
-amnionata
 acclamation
 absolution
 amosite
@@ -17679,6 +17678,7 @@ appl
 advena
 angelin
 antienzymic
+amnionata
 albus
 acetylbenzene
 applaudably
