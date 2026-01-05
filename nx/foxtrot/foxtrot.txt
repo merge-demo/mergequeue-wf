@@ -3319,6 +3319,7 @@ foreheaded
 forjaskit
 fiedlerite
 fortifications
+furfuran
 fifth
 flooding
 falconer
@@ -10956,7 +10957,6 @@ fess
 fulnesses
 flanconade
 forgetness
-furfuran
 futiley
 founder
 foreseing
