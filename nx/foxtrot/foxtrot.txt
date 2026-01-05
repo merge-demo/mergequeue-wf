@@ -1632,7 +1632,6 @@ faxes
 featishly
 fazes
 fiard
-fourneau
 forenotion
 flophouse
 foreannounce
@@ -2893,6 +2892,7 @@ factoring
 fumier
 flagonless
 flyboy
+fourneau
 fingian
 furazane
 fossane
