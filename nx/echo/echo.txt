@@ -1471,7 +1471,6 @@ existential
 euphuisms
 equitriangular
 enarbour
-electrophoresis
 eelpout
 effort
 ethmovomer
@@ -6623,6 +6622,7 @@ enseam
 exfoliated
 egyptianism
 expulsatory
+electrophoresis
 eructed
 endurability
 execrate
