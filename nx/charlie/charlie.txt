@@ -7160,7 +7160,6 @@ copita
 curvidentate
 coquetoon
 cannikin
-confluences
 centigrams
 cendre
 catamited
@@ -22960,6 +22959,7 @@ considerator
 copatain
 chromatone
 chordata
+confluences
 cardamums
 consideringly
 cotterway
