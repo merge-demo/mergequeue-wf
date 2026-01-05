@@ -687,7 +687,6 @@ focalised
 fizzier
 fireman
 filemot
-floccing
 farcicalness
 flannelmouths
 feathercut
@@ -4243,6 +4242,7 @@ forehead
 forclose
 fictionisation
 freehandedly
+floccing
 footrill
 freudism
 fatiguability
