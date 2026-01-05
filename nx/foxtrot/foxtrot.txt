@@ -7544,7 +7544,6 @@ fideos
 feedhead
 familiarity
 fother
-freeholders
 faultily
 friendship
 fellatah
@@ -9713,6 +9712,7 @@ flipflop
 fied
 foretoken
 flossier
+freeholders
 faldstool
 fringe
 fouquieria

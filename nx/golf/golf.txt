@@ -4136,6 +4136,7 @@ glutamine
 gastroduodenostomies
 gettysburg
 gargoyle
+glossem
 geophones
 glosts
 genetor
@@ -10343,7 +10344,6 @@ guigne
 gnattiest
 gratuities
 grasslike
-glossem
 gules
 greet
 gown
