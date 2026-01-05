@@ -8547,7 +8547,6 @@ aspiringness
 anta
 allegiance
 allegiancy
-admonitor
 apodeipna
 apoharmine
 aqueduct
@@ -20369,6 +20368,7 @@ autoradiography
 authenticators
 apothgm
 alefzero
+admonitor
 awearied
 alabaman
 archegoniatae
