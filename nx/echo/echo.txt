@@ -5680,7 +5680,6 @@ eppie
 extraventricular
 extras
 episcopalism
-enhort
 emerson
 emprosthotonos
 eagerest
@@ -13131,6 +13130,7 @@ engraphy
 ecesises
 effronted
 earthborn
+enhort
 extollation
 embolomycotic
 experimentist
