@@ -4994,6 +4994,7 @@ envy
 extirpative
 equinia
 engraphic
+exclusions
 earthgall
 exencephalia
 espy
@@ -7139,7 +7140,6 @@ envious
 expelling
 embryomata
 ensophic
-exclusions
 echar
 elan
 estanciero
