@@ -8095,7 +8095,6 @@ chaetophoraceous
 cuvierian
 chaetopod
 castores
-cirrated
 chaetopodan
 chaetopterus
 canthi
@@ -26734,6 +26733,7 @@ carromatas
 cars
 chromatopathic
 cartelization
+cirrated
 counterbattery
 counterbend
 calamitously
