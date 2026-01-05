@@ -2917,7 +2917,6 @@ filibranchiate
 fevered
 flitchen
 furnacing
-fluoboric
 feveret
 forefending
 froggy
@@ -10357,6 +10356,7 @@ fatten
 focometer
 frustrated
 fikey
+fluoboric
 friendless
 fumishing
 frontoauricular
