@@ -3208,6 +3208,7 @@ flexionless
 fremt
 fango
 fuchsone
+fiddles
 flunkies
 falern
 flinthearted
@@ -11403,7 +11404,6 @@ fleak
 fertilely
 farfetch
 furnishes
-fiddles
 frosk
 feater
 furcular
