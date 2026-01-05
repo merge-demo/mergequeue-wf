@@ -7037,7 +7037,6 @@ galenic
 glassworkers
 gastropathic
 gladrags
-gyrinus
 gazy
 gunite
 garava
@@ -9750,6 +9749,7 @@ gargantuan
 guidonian
 georgiana
 gandurah
+gyrinus
 gourmander
 gambades
 greyhounds
