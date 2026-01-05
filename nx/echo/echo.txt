@@ -1649,7 +1649,6 @@ euphonon
 explanatively
 exotoxin
 ehretiaceae
-entrez
 enterobacterium
 eyah
 edmund
@@ -8654,6 +8653,7 @@ enzymotic
 ethanols
 erelong
 extractor
+entrez
 enervous
 exceptionable
 expels
