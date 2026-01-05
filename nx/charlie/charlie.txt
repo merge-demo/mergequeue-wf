@@ -3999,7 +3999,6 @@ chinee
 carcajou
 cholinic
 carcajous
-countenancer
 carcanet
 carousel
 cathodoluminescence
@@ -29235,6 +29234,7 @@ crypticness
 covenantally
 cryptoagnostic
 coextended
+countenancer
 cynogenealogist
 cryptoanalysis
 cryptoanalytically
