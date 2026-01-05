@@ -4856,7 +4856,6 @@ giggish
 glaciology
 glaciomarine
 guideway
-gypaetus
 gynecidal
 gravecloth
 gabbroic
@@ -10456,6 +10455,7 @@ gneissy
 gerrymandered
 gametophagia
 gastrolienal
+gypaetus
 geometries
 gastroadenitis
 gusset
