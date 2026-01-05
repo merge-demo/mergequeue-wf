@@ -4383,7 +4383,6 @@ dementing
 demeore
 deincrustant
 decap
-dependant
 dird
 demerit
 demiluster
@@ -16547,6 +16546,7 @@ denar
 drivebolt
 deteriorationist
 duos
+dependant
 daza
 disingenuity
 draft
