@@ -4850,7 +4850,6 @@ gouaches
 garookuh
 glacierist
 graphemes
-glaciers
 gowns
 gymnothorax
 gladhearted
@@ -8434,6 +8433,7 @@ gildedness
 groundman
 gelid
 graith
+glaciers
 gheber
 gravamen
 grawls
