@@ -6042,7 +6042,6 @@ conjurers
 cloacinean
 cathodography
 catspaws
-cathograph
 cathography
 cathole
 critics
@@ -15592,6 +15591,7 @@ chabasie
 classicolatry
 classiest
 classify
+cathograph
 continentalist
 classifiable
 cicatrized
