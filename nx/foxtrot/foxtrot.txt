@@ -4100,6 +4100,7 @@ fiorite
 fraternisation
 foreseen
 falsehoods
+fergus
 fornenst
 faff
 fontanel
@@ -7541,7 +7542,6 @@ fother
 freeholders
 faultily
 friendship
-fergus
 fellatah
 fullface
 forebode
