@@ -4251,7 +4251,6 @@ gasteralgia
 goosing
 gilty
 goblets
-gynantherous
 gammoned
 gynarchic
 gazella
@@ -8316,6 +8315,7 @@ graphotype
 gastly
 grapier
 gusseting
+gynantherous
 giddea
 glossographer
 graping
