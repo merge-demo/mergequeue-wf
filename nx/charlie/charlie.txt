@@ -6458,7 +6458,6 @@ carafe
 correcter
 corone
 conchfish
-cauterizer
 cauterizes
 chamfron
 caution
@@ -24957,6 +24956,7 @@ cleaver
 cynopodous
 corolliform
 cocaigne
+cauterizer
 componentwise
 combfishes
 corantoes
