@@ -2816,7 +2816,6 @@ decretively
 dictionary
 discind
 decretorian
-dithymol
 deteriorating
 disponent
 duplicative
@@ -9705,6 +9704,7 @@ decremented
 discutient
 dilatative
 demimentoniere
+dithymol
 dodecahedron
 distillations
 discord
