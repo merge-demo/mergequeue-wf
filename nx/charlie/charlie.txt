@@ -1934,6 +1934,7 @@ colobus
 curs
 cambridge
 catostomidae
+clumber
 chaumer
 cambuca
 cambuscan
@@ -16957,7 +16958,6 @@ chwas
 cheyney
 charca
 complexation
-clumber
 contemper
 caline
 cycadean
