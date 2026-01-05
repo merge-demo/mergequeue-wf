@@ -2496,7 +2496,6 @@ exegete
 enstatite
 effluxes
 embryographer
-electroharmonic
 electrohemostasis
 endearing
 ebony
@@ -4887,6 +4886,7 @@ encratite
 expectorator
 electroed
 exportable
+electroharmonic
 encrinic
 encrinidae
 encrinital
