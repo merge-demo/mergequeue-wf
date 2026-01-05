@@ -3007,7 +3007,6 @@ gasifier
 geologically
 gondite
 gavialis
-gelly
 gratuitous
 galvanocauteries
 gridder
@@ -6706,6 +6705,7 @@ gonoblastidial
 grivation
 ginglyni
 gonid
+gelly
 geometroid
 gabeler
 gluttonies
