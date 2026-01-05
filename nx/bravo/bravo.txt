@@ -2373,7 +2373,6 @@ binous
 bachelorlike
 barbula
 bardiness
-barbulate
 barbulyie
 barbwire
 barbwires
@@ -11133,6 +11132,7 @@ bakongo
 beshrouds
 berengena
 bidpai
+barbulate
 blomstrandine
 bacteriophagia
 blond
