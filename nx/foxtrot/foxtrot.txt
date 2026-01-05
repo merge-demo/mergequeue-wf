@@ -5225,6 +5225,7 @@ fenders
 focoids
 fuse
 flavanilin
+fulnesses
 favonius
 flavescence
 fingall
@@ -10952,7 +10953,6 @@ farragos
 fulminurate
 fulness
 fess
-fulnesses
 flanconade
 forgetness
 futiley
