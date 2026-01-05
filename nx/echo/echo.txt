@@ -1652,7 +1652,6 @@ exotoxin
 ehretiaceae
 enterobacterium
 eyah
-edmund
 excresence
 epiglottic
 ethnolinguistic
@@ -4676,6 +4675,7 @@ epimerase
 eusuchian
 eddies
 evasively
+edmund
 excretionary
 estudy
 enrapting
