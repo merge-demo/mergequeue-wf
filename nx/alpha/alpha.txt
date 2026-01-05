@@ -5484,7 +5484,6 @@ afterglow
 aftergrief
 antimeristem
 antipathy
-acton
 argot
 aluco
 afterguard
@@ -14632,6 +14631,7 @@ aphodian
 apothecial
 amphitokous
 antiantibody
+acton
 antiantitoxin
 antianxiety
 alphos
