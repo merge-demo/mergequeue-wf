@@ -2646,7 +2646,6 @@ genethliacal
 gabelled
 gruesomest
 gametophyte
-gahnite
 grendel
 geraty
 geomorphist
@@ -5650,6 +5649,7 @@ goodbye
 gratefuller
 glasses
 glassrope
+gahnite
 guar
 glorifications
 garefowls
