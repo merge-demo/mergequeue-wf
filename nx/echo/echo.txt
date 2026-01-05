@@ -11226,7 +11226,6 @@ encomimiums
 electroplater
 eophyton
 eradiated
-evangeliarium
 embusque
 enalyron
 ethine
@@ -11522,6 +11521,7 @@ evincible
 ectopterygoid
 epicurean
 emcee
+evangeliarium
 enforced
 exhaling
 eserin

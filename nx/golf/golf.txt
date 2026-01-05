@@ -5442,7 +5442,6 @@ glossoepiglottidean
 glauconiidae
 garottes
 glyptodontoid
-ghostwrites
 galactophlebitis
 gravidae
 gavot
@@ -8969,6 +8968,7 @@ gastroduodenostomy
 gallicola
 grammy
 grizzlyman
+ghostwrites
 greenth
 groutiest
 gesso
