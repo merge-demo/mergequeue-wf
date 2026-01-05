@@ -7175,6 +7175,7 @@ ethmomaxillary
 emboltement
 enwing
 enamines
+ellipticity
 elytroptosis
 eucharistize
 ecthymatous
@@ -8666,7 +8667,6 @@ enameller
 emerging
 excretions
 elayl
-ellipticity
 equinumerally
 equinus
 ethrogs
