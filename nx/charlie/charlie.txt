@@ -440,7 +440,6 @@ canalis
 cacospermia
 cacothansia
 cacotheline
-cacothymia
 catonism
 cacotype
 cacotopia
@@ -19797,6 +19796,7 @@ combustion
 combustious
 combustive
 combusts
+cacothymia
 captained
 combwise
 catapulting
