@@ -8087,7 +8087,6 @@ diabetes
 debeaker
 duodial
 dentex
-demitranslucence
 developpes
 deciliters
 distributions
@@ -12000,6 +11999,7 @@ dismission
 drivecap
 dispositive
 disembowels
+demitranslucence
 droving
 depucel
 deputizes
