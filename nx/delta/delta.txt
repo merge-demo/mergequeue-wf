@@ -9298,7 +9298,6 @@ delisted
 dashiest
 dormant
 dyeweed
-dyeweeds
 divulgated
 dermonosology
 darwinist
@@ -15691,6 +15690,7 @@ dissimilating
 disaffect
 dopper
 dichasium
+dyeweeds
 dopperbird
 disespouse
 deflorescence

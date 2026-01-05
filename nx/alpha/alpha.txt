@@ -6252,6 +6252,7 @@ aerotactic
 attenuant
 amphibolic
 abvolt
+aller
 aute
 animative
 ambulances
@@ -8641,7 +8642,6 @@ assumptionist
 asterospondylic
 aerocurve
 anapterygote
-aller
 allergenic
 abouchement
 allergenicity
