@@ -4566,6 +4566,7 @@ fenester
 frictionize
 frutices
 flaunted
+flabbily
 fossilized
 fool
 feigned
@@ -7374,7 +7375,6 @@ formularised
 foraminose
 foraminulate
 fought
-flabbily
 france
 ferocious
 fluoridising
