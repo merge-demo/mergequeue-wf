@@ -3678,6 +3678,7 @@ caraipi
 carlish
 caraja
 carajas
+chromocytometer
 carambole
 coextensively
 caviler
@@ -22040,7 +22041,6 @@ confiscation
 confiscations
 confiscators
 churnable
-chromocytometer
 clairschacher
 corticating
 confit
