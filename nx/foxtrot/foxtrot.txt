@@ -4111,7 +4111,6 @@ fucuses
 fipples
 floscule
 fishhooks
-foisted
 ferrosilicon
 freeheartedly
 fireback
@@ -6376,6 +6375,7 @@ fluocerine
 fren
 flang
 fullterm
+foisted
 francois
 florentium
 fluorboric
