@@ -1311,6 +1311,7 @@ gulliver
 glossarist
 grail
 geodiatropism
+guepard
 giro
 graviers
 garganey
@@ -9207,7 +9208,6 @@ groves
 goffered
 gangling
 gametangia
-guepard
 ginhound
 greenyard
 greened
