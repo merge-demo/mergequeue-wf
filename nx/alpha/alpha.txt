@@ -2643,6 +2643,7 @@ acrab
 acrania
 alcaaba
 aphthic
+agrypnotic
 amiloun
 aethalia
 assignor
@@ -6333,7 +6334,6 @@ allotypical
 apoplexy
 auletic
 agrypnia
-agrypnotic
 agroan
 agrobacterium
 ammites
