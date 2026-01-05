@@ -4188,6 +4188,7 @@ gyrocompass
 gaggles
 gundogs
 gur
+guitarist
 gauds
 gnathites
 gastroplication
@@ -10276,7 +10277,6 @@ gaumish
 grotesquery
 grecque
 gourmet
-guitarist
 gentlewomanish
 gasped
 gibblegabble
