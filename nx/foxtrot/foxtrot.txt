@@ -531,7 +531,6 @@ filicite
 faking
 fumify
 figgle
-fassaite
 feodum
 fakirs
 falbelo
@@ -10314,6 +10313,7 @@ forenight
 foveole
 floscularian
 faquirs
+fassaite
 flandowser
 finary
 folksongs
