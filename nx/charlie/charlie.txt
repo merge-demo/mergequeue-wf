@@ -2516,7 +2516,6 @@ candidated
 candidates
 candidatures
 candide
-chausse
 churls
 candidiasis
 candidnesses
@@ -27418,6 +27417,7 @@ ceratium
 committees
 courtship
 cleach
+chausse
 courtside
 couscous
 castilloa
