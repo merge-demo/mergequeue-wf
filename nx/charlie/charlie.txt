@@ -2469,7 +2469,6 @@ cancionero
 canciones
 cancri
 charivaried
-cheetal
 coacervation
 cancrid
 cruzeiro
@@ -2530,6 +2529,7 @@ coasters
 candies
 candying
 candymaker
+cheetal
 cardiophobe
 candymaking
 candite
