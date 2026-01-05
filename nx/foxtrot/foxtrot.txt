@@ -3591,7 +3591,6 @@ fableland
 fundal
 furbelowed
 factories
-fogus
 fanwort
 fenagler
 figurize
@@ -9744,6 +9743,7 @@ furiously
 frenchify
 fido
 frenchly
+fogus
 fissionability
 festinate
 floatable
