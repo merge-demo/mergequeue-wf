@@ -3699,6 +3699,7 @@ gynandria
 grisaille
 georgie
 galvanize
+geothermometer
 gpm
 goldbug
 gangwa
@@ -8617,7 +8618,6 @@ gestic
 gruppetto
 ground
 gibbeting
-geothermometer
 gaufrettes
 geometrizing
 gravidate
