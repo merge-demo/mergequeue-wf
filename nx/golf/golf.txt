@@ -800,7 +800,6 @@ gorble
 girllikeness
 grinnellia
 gamashes
-goombay
 gastrospasm
 goloka
 guamuchil
@@ -2894,6 +2893,7 @@ guardsman
 graminaceae
 gipser
 grasschat
+goombay
 generatrices
 gileadite
 galvvanoscopy
