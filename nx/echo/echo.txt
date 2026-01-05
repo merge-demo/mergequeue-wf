@@ -303,6 +303,7 @@ epigoneion
 enqueue
 entered
 endognath
+exomphalos
 endangering
 electrochronometer
 ectocuniform
@@ -12651,7 +12652,6 @@ easterner
 espied
 extrapolation
 ens
-exomphalos
 electrophonic
 erotogenic
 effrontery
