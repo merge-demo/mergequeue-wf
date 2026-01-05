@@ -1473,6 +1473,7 @@ grillages
 gaoler
 glebae
 gowks
+grover
 gamma
 gerousia
 grincome
@@ -2792,7 +2793,6 @@ gipped
 glanditerous
 gramophonist
 gonangia
-grover
 gathic
 gekkonidae
 glaister
