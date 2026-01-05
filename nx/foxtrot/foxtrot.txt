@@ -5750,6 +5750,7 @@ favorers
 furnage
 fungistatic
 frequentation
+firring
 fels
 figureheadless
 fisher
@@ -6456,7 +6457,6 @@ fistulariidae
 finery
 flapjack
 fluorotic
-firring
 floretty
 feltman
 froisse
