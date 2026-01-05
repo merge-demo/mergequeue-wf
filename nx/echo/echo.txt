@@ -2406,7 +2406,6 @@ exponentials
 ectogenetic
 electroetching
 electrodeposition
-ebriosity
 edana
 exhibitable
 electrodes
@@ -7871,6 +7870,7 @@ edgingly
 episome
 emancipist
 enchantresses
+ebriosity
 extortionateness
 ecotones
 echinozoa
