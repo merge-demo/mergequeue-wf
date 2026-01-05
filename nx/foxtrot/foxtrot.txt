@@ -4155,6 +4155,7 @@ filaria
 fanos
 fingent
 floodtime
+favourably
 firebrick
 foulmouthed
 foretokening
@@ -4654,7 +4655,6 @@ fractonimbus
 fivesome
 flaubertian
 flashproof
-favourably
 flowerless
 fatigate
 filmgoer
