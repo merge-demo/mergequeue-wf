@@ -5402,6 +5402,7 @@ dissolves
 diplomatics
 disc
 denuder
+demulsion
 douched
 dialysation
 dorsum
@@ -13752,7 +13753,6 @@ defends
 doorplate
 divalent
 dejecta
-demulsion
 dissociations
 dayfly
 directoire
