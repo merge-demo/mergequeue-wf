@@ -1421,7 +1421,6 @@ eubranchipus
 efflagitate
 eugubium
 embellishes
-expungeable
 earl
 electrodialyses
 electroshocks
@@ -8373,6 +8372,7 @@ eastlins
 epicontinental
 erosive
 exportation
+expungeable
 ecch
 euphrasies
 eosin

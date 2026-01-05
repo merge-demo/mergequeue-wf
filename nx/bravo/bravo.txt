@@ -7083,6 +7083,7 @@ bimorphs
 bushing
 bespeaking
 breeder
+bullwhacker
 bullalaria
 bespeaks
 backrun
@@ -12332,7 +12333,6 @@ bootee
 bungfull
 bacteriophagic
 bathycurrent
-bullwhacker
 bombardments
 bombline
 bowdrill
