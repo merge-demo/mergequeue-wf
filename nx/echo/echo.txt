@@ -1441,7 +1441,6 @@ endoral
 epitasis
 epithalamia
 etherified
-essenced
 ebrious
 entodermal
 epipodialia
@@ -8018,6 +8017,7 @@ euploids
 enigmaticalness
 exscript
 epigonal
+essenced
 ehtanethial
 ensigned
 enoplion
