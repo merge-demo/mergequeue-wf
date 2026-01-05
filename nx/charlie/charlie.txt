@@ -2171,7 +2171,6 @@ clubbiest
 corduroy
 campho
 camphocarboxylic
-camphoid
 choryos
 camphol
 cade
@@ -21961,6 +21960,7 @@ confidence
 confidency
 cosmogenic
 confident
+camphoid
 chromdiagnosis
 confidente
 compressibilities
