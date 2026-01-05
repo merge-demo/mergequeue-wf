@@ -6298,7 +6298,6 @@ besodden
 boottopping
 brigalow
 balourdise
-baltic
 benzalacetophenone
 bakupari
 banksmen
@@ -13900,6 +13899,7 @@ boathook
 bang
 bowheads
 bowie
+baltic
 balr
 blatter
 beanfeast
