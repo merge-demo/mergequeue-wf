@@ -7451,6 +7451,7 @@ fisheyes
 firefang
 forswat
 footmen
+fausen
 ferrocerium
 forwarder
 forbare
@@ -10997,7 +10998,6 @@ forbidder
 flypast
 forethoughtless
 forecatharping
-fausen
 frostiest
 fernshaw
 flintiest
