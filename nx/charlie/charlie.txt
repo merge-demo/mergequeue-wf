@@ -6824,7 +6824,6 @@ cyclicality
 celidography
 celiectomy
 celiemia
-celiocyesis
 correlations
 coadministrator
 churchiness
@@ -27539,6 +27538,7 @@ coverall
 convito
 coveralled
 coveralls
+celiocyesis
 coils
 coverchief
 cannulated
