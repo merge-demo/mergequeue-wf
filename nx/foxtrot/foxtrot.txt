@@ -8062,7 +8062,6 @@ faunally
 fanfoot
 fieldie
 favoured
-folksay
 fredricite
 fontlet
 fourteenthly
@@ -11373,6 +11372,7 @@ frousier
 flayed
 fluencies
 fremescence
+folksay
 frothless
 foreprovision
 frypan
