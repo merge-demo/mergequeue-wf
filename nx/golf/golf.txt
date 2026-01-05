@@ -6655,6 +6655,7 @@ gradienter
 glossopyrosis
 generational
 gong
+glidder
 gange
 gekkota
 gynodioeciously
@@ -9552,7 +9553,6 @@ griminess
 groundkeeper
 genuine
 glycollic
-glidder
 grumbler
 greenlander
 garnish
