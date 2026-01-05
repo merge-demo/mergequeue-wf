@@ -3223,7 +3223,6 @@ danae
 dayside
 derricking
 defenseless
-defenselessness
 devitalising
 dolichostylous
 dogrib
@@ -4388,6 +4387,7 @@ dementing
 demeore
 deincrustant
 decap
+defenselessness
 dird
 demerit
 demiluster
