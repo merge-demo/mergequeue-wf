@@ -3233,7 +3233,6 @@ gaudiness
 getup
 genetous
 golilla
-generality
 grievants
 greatheartedness
 gambled
@@ -7200,6 +7199,7 @@ gony
 greenthumbed
 gooroo
 gripman
+generality
 geotectonics
 geocratic
 gape
