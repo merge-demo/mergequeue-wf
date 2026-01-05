@@ -11106,6 +11106,7 @@ chiton
 cageling
 constabularies
 chitons
+corrosives
 cadence
 chitosamine
 chitosan
@@ -25817,7 +25818,6 @@ coeltera
 corrosived
 corrosively
 corrosiveness
-corrosives
 chironomy
 calcars
 corrosivity
