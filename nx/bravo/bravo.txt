@@ -4072,7 +4072,6 @@ baragnosis
 blitzkrieged
 bean
 boldness
-begottenness
 bedeafen
 beancod
 beaner
@@ -13438,6 +13437,7 @@ bulgier
 birles
 breadbox
 bucketer
+begottenness
 brachyceral
 batonistic
 brachycome
