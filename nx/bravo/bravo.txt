@@ -3763,7 +3763,6 @@ burratine
 bacterian
 bawdstrot
 blephillia
-batwing
 brasenia
 baysmelt
 beswitch
@@ -17337,6 +17336,7 @@ bore
 benzotrifluoride
 bopyrus
 bind
+batwing
 bunkhouse
 bucoliast
 bunchy
