@@ -5692,7 +5692,6 @@ cataphracted
 caried
 cataphractic
 cataphrenia
-crook
 cataphrenic
 choraleon
 cataphrygianism
@@ -18436,6 +18435,7 @@ concomitate
 cognisant
 cognises
 coarct
+crook
 cirrolite
 countergambit
 cognised
