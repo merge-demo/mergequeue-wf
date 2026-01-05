@@ -1480,7 +1480,6 @@ gynocardia
 gangliocyte
 guydom
 glans
-gossypine
 grouter
 gaselier
 golet
@@ -5275,6 +5274,7 @@ geomedicine
 gymnogenous
 gurish
 glaucophane
+gossypine
 garish
 galoubet
 gammers
