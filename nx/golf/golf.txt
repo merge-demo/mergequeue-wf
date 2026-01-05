@@ -4570,7 +4570,6 @@ geoagronomic
 girds
 guaranies
 grids
-geoaesthesia
 gallflies
 gracefully
 genderless
@@ -5704,6 +5703,7 @@ gurneyite
 germifuge
 gloveress
 gimmaled
+geoaesthesia
 ganglioneuron
 gestning
 gelts
