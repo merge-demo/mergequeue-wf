@@ -5855,7 +5855,6 @@ biogenetical
 balopticon
 bellmaking
 banquo
-belswagger
 bachel
 baronship
 bellmanship
@@ -10419,6 +10418,7 @@ blancmanges
 blundersome
 bramantip
 bagdi
+belswagger
 bootholder
 balsamo
 blackmails
