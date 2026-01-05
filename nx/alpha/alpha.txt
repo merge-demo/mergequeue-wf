@@ -835,7 +835,6 @@ acesodyne
 abscission
 abscond
 absconded
-apperceptive
 agonizes
 archegoniate
 agha
@@ -23900,6 +23899,7 @@ athetosic
 auganite
 avionic
 alienist
+apperceptive
 appositively
 alumbrado
 anzac
