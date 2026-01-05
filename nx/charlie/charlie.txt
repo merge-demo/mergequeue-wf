@@ -28624,7 +28624,6 @@ celtiform
 coronule
 crembalum
 cremes
-cremone
 churnings
 clothilda
 choirboy
@@ -30731,6 +30730,7 @@ commonplacely
 conusor
 cuishes
 cyanometer
+cremone
 chaps
 catheterizing
 cumberers
