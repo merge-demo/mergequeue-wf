@@ -12107,7 +12107,6 @@ excellencies
 ejam
 eloper
 ebonite
-episcopacy
 erpetologist
 eg
 eyelike
@@ -13735,6 +13734,7 @@ editable
 extinctions
 enantiopathic
 euphorbia
+episcopacy
 ententophil
 ectoenzym
 encapsulations
