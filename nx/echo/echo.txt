@@ -11287,6 +11287,7 @@ extrascholastic
 euphorbine
 elbowboard
 evaporating
+eyepoint
 eviscerating
 endoarteritis
 esophagodynia
@@ -13968,7 +13969,6 @@ eodevonian
 establishing
 espagnolette
 echinodermic
-eyepoint
 equalising
 erythromania
 eisegetic
