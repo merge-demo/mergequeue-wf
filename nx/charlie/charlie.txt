@@ -2621,7 +2621,6 @@ circumspheral
 castile
 caned
 canela
-canelas
 canellaceous
 cuttlefish
 canellas
@@ -31870,6 +31869,7 @@ chemicals
 cutthroat
 chylopoietic
 curtsies
+canelas
 cuttyhunk
 capillarily
 creamfruit
