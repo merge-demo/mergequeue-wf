@@ -1087,6 +1087,7 @@ flichters
 fortuities
 foreswear
 feriae
+feudaries
 fleshhood
 foundryman
 farreachingly
@@ -9059,7 +9060,6 @@ flaxwort
 fustian
 fractus
 forwork
-feudaries
 flirtational
 flintified
 flux
