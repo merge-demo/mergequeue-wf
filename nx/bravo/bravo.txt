@@ -4187,6 +4187,7 @@ beastlings
 bulgy
 beastman
 barracoutas
+biodegrade
 beastship
 beat
 benches
@@ -10840,7 +10841,6 @@ blepharoplastic
 bassan
 blepharoptosis
 blepharosynechia
-biodegrade
 bunchberry
 boanergism
 barracoon
