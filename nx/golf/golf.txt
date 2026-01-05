@@ -2744,6 +2744,7 @@ glamours
 gasolenes
 granularity
 genip
+gravedigger
 gilbertese
 genyplasty
 glashan
@@ -9501,7 +9502,6 @@ gabled
 glandulosity
 genitalial
 glycose
-gravedigger
 gladiate
 goa
 gravific
