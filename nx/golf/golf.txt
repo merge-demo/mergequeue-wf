@@ -3086,6 +3086,7 @@ geonavigation
 gabbart
 gizmos
 gaga
+greenswarded
 geadephagous
 griffado
 gordiidae
@@ -8798,7 +8799,6 @@ gimballing
 geographized
 gunny
 golems
-greenswarded
 greenware
 giveth
 gospodar
