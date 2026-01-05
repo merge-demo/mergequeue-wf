@@ -3827,7 +3827,6 @@ aequorin
 amphithuron
 acetabuliform
 adipinic
-autotransplant
 arapahos
 adipoceriform
 adipoid
@@ -14266,6 +14265,7 @@ amercements
 anthills
 anthinae
 anthine
+autotransplant
 amnesic
 anthypnotic
 albanensian
