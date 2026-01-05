@@ -3302,6 +3302,7 @@ geotropically
 galagala
 gaut
 guarantor
+gazetteers
 gossypol
 gyral
 gaelicist
@@ -6146,7 +6147,6 @@ geelbec
 gadsbud
 goadsman
 grihastha
-gazetteers
 groveling
 goal
 gradationally
