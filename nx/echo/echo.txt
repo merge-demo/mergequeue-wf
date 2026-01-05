@@ -4908,6 +4908,7 @@ explete
 epitaxic
 encrustation
 elepaio
+extrabranchial
 excitoglandular
 empoisons
 ebulliometer
@@ -7131,7 +7132,6 @@ exported
 entices
 electrowinning
 epiplexis
-extrabranchial
 employees
 electrophysiologically
 epithesis
