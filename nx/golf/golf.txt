@@ -1410,6 +1410,7 @@ grecize
 gruffish
 gaits
 gypsies
+glaucophane
 ganyie
 gallotannin
 gonidia
@@ -5276,7 +5277,6 @@ galvanism
 geomedicine
 gymnogenous
 gurish
-glaucophane
 gossypine
 garish
 galoubet
