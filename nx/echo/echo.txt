@@ -6619,7 +6619,6 @@ echinorhynchus
 esperantidist
 erump
 embryous
-ecliptics
 enseam
 exfoliated
 egyptianism
@@ -9511,6 +9510,7 @@ eruptives
 episodic
 escrow
 escrowing
+ecliptics
 esculents
 esculin
 expansively
