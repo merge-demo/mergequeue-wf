@@ -4138,7 +4138,6 @@ diluvium
 diadokokinesis
 duodena
 desynapsis
-dacitic
 dells
 distinct
 dyspneic
@@ -4790,6 +4789,7 @@ dairi
 demonetize
 derotrema
 dextrous
+dacitic
 dicyanodiamide
 diverticula
 dyscrasing
