@@ -10422,7 +10422,6 @@ chieftainry
 complexify
 concludendi
 charterless
-chirring
 countertendencies
 chieftains
 cracknels
@@ -20058,6 +20057,7 @@ craftsman
 commending
 chloric
 chemurgies
+chirring
 cadmus
 chrosperma
 commensally
