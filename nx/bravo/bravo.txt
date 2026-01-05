@@ -1954,7 +1954,6 @@ balances
 bandstring
 bathymetric
 brandishes
-bigeye
 believes
 baahling
 beeway
@@ -8681,6 +8680,7 @@ basins
 buckbeans
 bilobe
 bilobed
+bigeye
 bilocular
 biloculina
 braches
