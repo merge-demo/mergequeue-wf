@@ -780,7 +780,6 @@ ecphore
 emotes
 echinal
 euomphalid
-effascinate
 ephedrins
 ecrase
 enclitic
@@ -3227,6 +3226,7 @@ envisagement
 eichbergite
 elvet
 eureka
+effascinate
 embosomed
 expounders
 emblemize
