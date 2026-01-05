@@ -46,6 +46,7 @@ gradualness
 goofball
 gatherum
 gibbon
+gibingly
 glauconia
 griller
 gluemaking
@@ -7804,7 +7805,6 @@ girnal
 gearcase
 glassworking
 glacial
-gibingly
 gunung
 gipseian
 gunroom
