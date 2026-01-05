@@ -9335,7 +9335,6 @@ ballcarrier
 boles
 bastaard
 biracial
-bavenite
 bahaullah
 boldest
 bayldonite
@@ -12983,6 +12982,7 @@ boottop
 biforous
 brack
 betulaceae
+bavenite
 bushelage
 ballades
 bikhaconitine
