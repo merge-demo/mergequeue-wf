@@ -6425,6 +6425,7 @@ accidentally
 acquaintances
 anthoclinium
 academician
+artifex
 aheight
 ampullar
 agit
@@ -20726,7 +20727,6 @@ altitonant
 artifactually
 ascents
 acanthad
-artifex
 activates
 aerobiology
 artificial
