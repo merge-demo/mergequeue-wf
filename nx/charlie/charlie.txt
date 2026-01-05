@@ -23648,7 +23648,6 @@ commos
 contour
 clarichord
 contoured
-copestone
 cleping
 chivvies
 courteous
@@ -30170,6 +30169,7 @@ ceramist
 cerotype
 cornuses
 christ
+copestone
 chondroglossus
 crucifixions
 cyanemia
