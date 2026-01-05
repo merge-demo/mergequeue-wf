@@ -2689,6 +2689,7 @@ fervor
 flamenco
 frondous
 fashions
+flywort
 fluctuations
 ferriages
 fideicommissum
@@ -8981,7 +8982,6 @@ frenchy
 fusiformis
 fluminose
 floit
-flywort
 fiacre
 footle
 feldspath
