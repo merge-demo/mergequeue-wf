@@ -1880,7 +1880,6 @@ disponed
 docimasies
 dislimning
 douc
-decoy
 daleswoman
 dagoes
 debonair
@@ -5995,6 +5994,7 @@ diagraphics
 diamagnetize
 diagrammitically
 depthlessness
+decoy
 dulnesses
 diobols
 demonetization
