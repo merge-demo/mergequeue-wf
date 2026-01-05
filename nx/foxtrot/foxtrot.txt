@@ -5635,7 +5635,6 @@ furtive
 fract
 fuci
 flyless
-flinting
 forbearingly
 ferkin
 fuddle
@@ -11698,6 +11697,7 @@ far
 foretellableness
 fasciola
 furphy
+flinting
 fetidness
 fernsick
 frameless
