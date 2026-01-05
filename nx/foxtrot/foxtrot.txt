@@ -2157,7 +2157,6 @@ flatterdock
 fraudproof
 fligger
 femorocele
-fallibilism
 fogyisms
 formulae
 fractocumulus
@@ -7309,6 +7308,7 @@ failance
 furazan
 freesheet
 falsies
+fallibilism
 figuring
 fiants
 freshment
