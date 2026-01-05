@@ -10541,6 +10541,7 @@ amylolysis
 antitragic
 accusator
 amylom
+ager
 amyxorrhea
 aquarid
 amyloplast
@@ -19186,7 +19187,6 @@ asexualize
 arctoidean
 arctos
 arctosis
-ager
 acetylasalicylic
 allituric
 alick
