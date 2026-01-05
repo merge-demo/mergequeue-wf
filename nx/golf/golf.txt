@@ -1381,7 +1381,6 @@ ginners
 goulan
 garglers
 graplins
-glamorizer
 glyoxylic
 geordie
 ghastly
@@ -7439,6 +7438,7 @@ grewt
 goujat
 grampuses
 gabelleman
+glamorizer
 grangerized
 genotype
 galenas
