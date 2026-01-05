@@ -892,6 +892,7 @@ gangplank
 guerrilla
 glyoxime
 gerontomorphosis
+globe
 grillwork
 gotha
 geopositive
@@ -7337,7 +7338,6 @@ groggery
 gossep
 graphs
 gunation
-globe
 galactin
 geologist
 gonangium
