@@ -993,7 +993,6 @@ germinal
 gouge
 greasebush
 ginglymoid
-glyconin
 glycogenesis
 golfs
 goldhammer
@@ -7558,6 +7557,7 @@ gymnospermae
 gemini
 genealogize
 gillotype
+glyconin
 gedeckt
 gelatiniferous
 grounded
