@@ -557,6 +557,7 @@ gd
 gilravager
 gudgeoning
 glareole
+glyptography
 gup
 ghetto
 garde
@@ -10793,7 +10794,6 @@ geochronologic
 gareth
 gynomonoecious
 gilbert
-glyptography
 gewgawy
 granolite
 gestonie
