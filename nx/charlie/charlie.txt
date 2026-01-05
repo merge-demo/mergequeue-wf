@@ -52,7 +52,6 @@ cameline
 cabane
 coreign
 cabaret
-corder
 cabbage
 chuffily
 commends
@@ -4070,6 +4069,7 @@ cardaissin
 chehalis
 convolutely
 countershafting
+corder
 cardamine
 catarrhinian
 covido
