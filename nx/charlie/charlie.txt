@@ -12609,6 +12609,7 @@ calciphobous
 chronicon
 chronics
 craddy
+copping
 chronique
 commerceless
 chronocarator
@@ -24744,7 +24745,6 @@ corkscrewing
 convener
 canyons
 cell
-copping
 croppers
 coppra
 chamidae
