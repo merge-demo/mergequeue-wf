@@ -1398,7 +1398,6 @@ governs
 ganodonta
 glossanthrax
 garnison
-greetingless
 gaulsh
 glycosemia
 geitjie
@@ -10095,6 +10094,7 @@ grub
 goniopholis
 guyot
 galahs
+greetingless
 gastropods
 garrulus
 galactodensimeter
