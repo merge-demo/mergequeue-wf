@@ -2200,6 +2200,7 @@ animalculist
 amyotaxia
 aethereal
 antecabinet
+armoniac
 aphotaxis
 alleviation
 achrodextrinase
@@ -12306,7 +12307,6 @@ adenomeningeal
 amblyopic
 allumine
 atheroma
-armoniac
 amebiasis
 aortolith
 absistos
