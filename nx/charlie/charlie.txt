@@ -7589,7 +7589,6 @@ cercopithecidae
 catodon
 cercopithecus
 cimbri
-cercosporella
 canalisation
 cercus
 cerdonian
@@ -16693,6 +16692,7 @@ closers
 closes
 closeting
 circumjacence
+cercosporella
 chthonic
 cylindroma
 crusading
