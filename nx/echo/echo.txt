@@ -6258,6 +6258,7 @@ ethnogeographical
 eldmother
 endplate
 excipule
+enhalos
 eelcatcher
 electrofishing
 ecstatica
@@ -12498,7 +12499,6 @@ epicalyx
 etymologized
 euphemy
 emissaria
-enhalos
 eugeny
 exoskeleton
 easeled
