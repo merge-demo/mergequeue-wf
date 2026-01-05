@@ -11289,7 +11289,6 @@ ampler
 amplexicaul
 amphictyonic
 antiphylloxeric
-anomiacea
 alchemising
 alviducous
 aurums
@@ -21994,6 +21993,7 @@ aircrewmen
 anni
 argentometrically
 assumes
+anomiacea
 antiperiodic
 assuming
 automatonlike
