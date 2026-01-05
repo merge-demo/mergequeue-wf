@@ -16131,7 +16131,6 @@ dovecot
 dynamist
 dislustred
 dovehouse
-dibatis
 dovelike
 dephosphorization
 disconsolacy
@@ -17796,6 +17795,7 @@ duckmeat
 duckpin
 diabolarch
 dower
+dibatis
 dermatological
 demographies
 deskmen
