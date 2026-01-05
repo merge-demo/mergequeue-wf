@@ -5932,7 +5932,6 @@ defeatee
 depreter
 depriment
 dodonaea
-deprint
 depriorize
 disorderedness
 deprivable
@@ -6967,6 +6966,7 @@ dinoflagellate
 docility
 drags
 dumbfoundment
+deprint
 detray
 despitefully
 denigrate
