@@ -890,7 +890,6 @@ fans
 folliculose
 falconbill
 footworks
-florivorous
 feverfews
 fantastication
 forold
@@ -9407,6 +9406,7 @@ fastenings
 fullbodied
 frails
 fisheater
+florivorous
 familiarities
 furniment
 foolhead
