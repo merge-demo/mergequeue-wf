@@ -7301,6 +7301,7 @@ betailor
 bibiru
 broddle
 blanked
+boltage
 betake
 buckshees
 barkevikite
@@ -12289,7 +12290,6 @@ bhumidar
 briefless
 byssiferous
 bolt
-boltage
 bluestockings
 biasses
 boltcutter
