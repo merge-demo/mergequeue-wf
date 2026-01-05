@@ -9243,6 +9243,7 @@ freeborn
 fragmentariness
 fragmentist
 foundries
+factionalist
 faucals
 fidalgo
 fey
@@ -10486,7 +10487,6 @@ fortunella
 fragrant
 falsie
 foraging
-factionalist
 fribblers
 ferruling
 farrant
