@@ -4297,6 +4297,7 @@ battledore
 bacterious
 bebreech
 bigeminy
+boatwise
 backcourtman
 blouselike
 bebrush
@@ -10903,7 +10904,6 @@ bay
 britishers
 beelzebubian
 bribegiver
-boatwise
 brokership
 bugan
 blent
