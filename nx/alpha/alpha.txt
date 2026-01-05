@@ -11487,6 +11487,7 @@ anabolism
 ammophilous
 accinging
 amethysts
+auxotonic
 albuminise
 anacalypsis
 attababy
@@ -24570,7 +24571,6 @@ auxology
 ammonea
 argentarius
 anachorism
-auxotonic
 arcual
 auxotox
 auxotroph
