@@ -2710,7 +2710,6 @@ finfish
 friezed
 fraternization
 fyce
-foreshock
 fraela
 folklore
 framing
@@ -5149,6 +5148,7 @@ fructure
 flasker
 furless
 foretooth
+foreshock
 forensics
 floccular
 fellifluous
