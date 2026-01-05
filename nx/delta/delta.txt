@@ -3853,7 +3853,6 @@ deirid
 deis
 deisidaimonia
 deism
-decentred
 deistical
 dismast
 dissect
@@ -9495,6 +9494,7 @@ dighter
 donatives
 drabs
 donationes
+decentred
 dyspareunia
 deaerate
 digraphic
