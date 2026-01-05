@@ -2608,7 +2608,6 @@ farandmen
 foraminated
 ferruginating
 fulleries
-fulful
 flashly
 framesmith
 fibrinogenic
@@ -5013,6 +5012,7 @@ flankers
 folksier
 fathered
 flashtester
+fulful
 functionlessness
 fuzed
 fissive
