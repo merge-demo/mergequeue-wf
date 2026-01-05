@@ -9364,7 +9364,6 @@ chartometer
 chaunted
 chaunter
 christological
-capillaritis
 chaunts
 catamarans
 chaus
@@ -29245,6 +29244,7 @@ clambakes
 claviculate
 chondroma
 cutlas
+capillaritis
 choices
 collides
 ciphered
