@@ -4133,7 +4133,6 @@ genapper
 gimleteyed
 glutamine
 gastroduodenostomies
-gesnerad
 gettysburg
 gargoyle
 geophones
@@ -5270,6 +5269,7 @@ gesticulating
 grouted
 garnets
 gauntly
+gesnerad
 guitarfish
 gliadine
 galvanism
