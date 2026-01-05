@@ -5567,7 +5567,6 @@ aftertask
 achromatium
 afterthought
 almes
-afterthoughts
 afterthrift
 apastron
 adduceable
@@ -16278,6 +16277,7 @@ antiroyal
 aspire
 abashedly
 anthropophuism
+afterthoughts
 anthropologists
 anticipatorily
 absurdism
