@@ -12045,7 +12045,6 @@ ectoblastic
 epacridaceae
 extrasensory
 enfolder
-epigraphist
 excrescency
 extorts
 eris
@@ -12722,6 +12721,7 @@ embryography
 exceeds
 exospheric
 exorbitation
+epigraphist
 eloah
 epidemiologically
 eucaryotic
