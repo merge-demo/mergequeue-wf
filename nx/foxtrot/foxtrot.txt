@@ -2179,7 +2179,6 @@ folliculous
 felwort
 flatlander
 fathearted
-faciobrachial
 fairsome
 forestery
 feme
@@ -11092,6 +11091,7 @@ finesses
 fibrinoid
 fidessa
 forthfigured
+faciobrachial
 footrace
 flew
 falconet
