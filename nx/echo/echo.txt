@@ -624,7 +624,6 @@ emetics
 eurypharynx
 euro
 enwreathing
-eciton
 eversions
 entertained
 eclaircissement
@@ -1408,6 +1407,7 @@ excisable
 emphrensy
 expirator
 egoistical
+eciton
 ethnocentrically
 edgy
 epipolic
