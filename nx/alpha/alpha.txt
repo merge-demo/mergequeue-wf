@@ -12729,7 +12729,6 @@ araucanian
 angioid
 amentum
 antimilitarist
-angiokeratoma
 apocopation
 anthocerotales
 antihemagglutinin
@@ -16351,6 +16350,7 @@ antiwarlike
 anthropomorphitic
 antiwaste
 ashwort
+angiokeratoma
 antimissioner
 antiwear
 abiological
