@@ -2455,7 +2455,6 @@ galavants
 graphotypic
 garial
 geologian
-graduator
 grograms
 gallah
 glutch
@@ -3119,6 +3118,7 @@ geophilid
 gaggling
 gymnasisia
 groined
+graduator
 glucosine
 gnar
 gelatinity
