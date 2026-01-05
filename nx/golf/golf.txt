@@ -4999,7 +4999,6 @@ gallantize
 gingelis
 germanization
 ganof
-gurgoyl
 gastrelcosis
 ginger
 grisliest
@@ -5816,6 +5815,7 @@ glissades
 greggle
 gather
 gedrite
+gurgoyl
 geocarpic
 galumptious
 glt
