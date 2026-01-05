@@ -695,6 +695,7 @@ animadversion
 antiaesthetic
 aboulia
 anoli
+astrometry
 acupuncturists
 aboulic
 amyloplastic
@@ -22440,7 +22441,6 @@ apprend
 arctically
 asterina
 allegorization
-astrometry
 agric
 animalising
 astrometric
