@@ -8230,7 +8230,6 @@ diadoumenos
 dowly
 diaeretic
 diageotropic
-diaglyphic
 desmopelmous
 dell
 davainea
@@ -14573,6 +14572,7 @@ downpouring
 divisibility
 divisibilities
 divisible
+diaglyphic
 division
 dollop
 dedicative
