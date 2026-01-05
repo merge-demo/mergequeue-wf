@@ -2067,7 +2067,6 @@ amorua
 alphabets
 argon
 aeropulse
-andantini
 acheronian
 asdics
 achroous
@@ -8415,6 +8414,7 @@ antinomy
 autophyllogeny
 acanthosis
 alkapton
+andantini
 ascent
 alkaptonuric
 alkarsin
