@@ -8773,7 +8773,6 @@ gabert
 gridding
 gralloch
 graminaceous
-gobbets
 gluhwein
 grisgris
 gamene
@@ -9859,6 +9858,7 @@ gongoresque
 glace
 gips
 grousy
+gobbets
 guajiras
 ginkgoales
 gourmandizer
