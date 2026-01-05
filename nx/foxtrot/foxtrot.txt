@@ -3466,6 +3466,7 @@ foe
 flankard
 ficins
 fordays
+foetalism
 floorhead
 forpined
 finnic
@@ -5909,7 +5910,6 @@ freeing
 folgerite
 fencepost
 firemen
-foetalism
 fissirostral
 fantasmagoric
 furlers
