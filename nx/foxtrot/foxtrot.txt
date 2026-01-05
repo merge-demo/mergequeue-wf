@@ -2027,6 +2027,7 @@ feudary
 forgivableness
 fundi
 facedown
+flitty
 faucalize
 fireboat
 flindosa
@@ -8929,7 +8930,6 @@ flown
 funambulic
 foulest
 fjeld
-flitty
 ferritins
 fowells
 falciparum
