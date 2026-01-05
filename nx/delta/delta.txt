@@ -3726,7 +3726,6 @@ domitic
 delegated
 disprove
 decimate
-defrauding
 dehonestation
 desponsate
 dieb
@@ -17847,6 +17846,7 @@ doctrine
 durationless
 dishmaking
 deathday
+defrauding
 duelers
 duelist
 duelistic
