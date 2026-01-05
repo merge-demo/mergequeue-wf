@@ -1381,6 +1381,7 @@ ectopatagium
 eights
 epode
 endoskeletal
+entoglossal
 essentialness
 exomis
 evasional
@@ -8550,7 +8551,6 @@ echinated
 embezzling
 eastlin
 etherify
-entoglossal
 ethicism
 emblement
 evolvements

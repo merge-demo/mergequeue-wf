@@ -4889,7 +4889,6 @@ gunnen
 gaff
 gryph
 gallybagger
-geopolar
 guttersnipe
 guessed
 gorgonizing
@@ -10114,6 +10113,7 @@ gnotobiologies
 grouping
 gaskets
 gauderies
+geopolar
 gaze
 granado
 guetre
