@@ -5265,7 +5265,6 @@ flavourful
 fieldy
 flavourless
 funned
-flockier
 fideicommissa
 frostbird
 footstall
@@ -7814,6 +7813,7 @@ foremother
 frithbot
 flyblew
 forbad
+flockier
 faint
 fording
 fraenum
