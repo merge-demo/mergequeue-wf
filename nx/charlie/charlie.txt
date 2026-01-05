@@ -16671,7 +16671,6 @@ clos
 clodknocker
 curiologic
 closable
-closeable
 closecross
 cunninger
 closed
@@ -23948,6 +23947,7 @@ chirl
 conusance
 conuzee
 cicatricose
+closeable
 cacological
 cleanness
 conv
