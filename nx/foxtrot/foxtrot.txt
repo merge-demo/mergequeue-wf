@@ -2532,6 +2532,7 @@ fervency
 feedsman
 fiduciaries
 fanti
+friesic
 fimbriatum
 flappy
 filicidal
@@ -8181,7 +8182,6 @@ fideicommissor
 foundlings
 fingerboards
 fuliginous
-friesic
 fidgeting
 fulicinae
 foreverness
