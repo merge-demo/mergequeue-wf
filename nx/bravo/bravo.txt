@@ -9798,7 +9798,6 @@ bistipulate
 bistort
 bedarkened
 bistorts
-beknights
 bewrap
 bradylexia
 baronetage
@@ -14139,6 +14138,7 @@ blasters
 bugged
 butsudan
 brekkle
+beknights
 bumbaze
 brighteyes
 brachiosaurus
