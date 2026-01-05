@@ -16449,7 +16449,6 @@ anury
 anuric
 arthrogenous
 arctoidea
-airish
 anusim
 amphiboliferous
 argyrosomus
@@ -20482,6 +20481,7 @@ arcula
 anticorrosively
 admov
 aristological
+airish
 asterospondylous
 arteriocapillary
 arteriogenesis
