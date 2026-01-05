@@ -9737,6 +9737,7 @@ bismutosphaerite
 ballpoints
 bisnaga
 bispinose
+backhanded
 bispinous
 bramah
 bathybian
@@ -13554,7 +13555,6 @@ bouchette
 bichromate
 beleft
 becursing
-backhanded
 borderland
 butterbough
 bankfull
