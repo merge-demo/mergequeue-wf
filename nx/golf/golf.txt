@@ -888,6 +888,7 @@ gadis
 glove
 gers
 glossarize
+goolde
 guily
 gangplank
 guerrilla
@@ -1327,7 +1328,6 @@ galilee
 goter
 griphe
 geullah
-goolde
 greeting
 gargoyley
 grandparentage
