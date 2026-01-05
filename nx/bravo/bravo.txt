@@ -9344,7 +9344,6 @@ bayldonite
 bifolia
 bruckled
 bloviating
-beany
 bawdry
 baldricked
 buzuki
@@ -13561,6 +13560,7 @@ butterbough
 bankfull
 bibliophile
 bra
+beany
 burdening
 baling
 blaoner
