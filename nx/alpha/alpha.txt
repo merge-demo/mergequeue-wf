@@ -10749,7 +10749,6 @@ anatomizer
 acquit
 acrisius
 artly
-anthracic
 antitrypsin
 ankaramite
 ammoniated
@@ -24455,6 +24454,7 @@ autotetraploidy
 aah
 autothaumaturgist
 appellatively
+anthracic
 ambarella
 adhibiting
 anthophilous
