@@ -3645,7 +3645,6 @@ carack
 caracks
 cumanagoto
 curtaxe
-caracol
 coauthoring
 curliest
 crustate
@@ -14496,6 +14495,7 @@ cirrostrative
 citharoedus
 cuttanee
 celiectasia
+caracol
 composal
 cirrostratus
 cuculliform
