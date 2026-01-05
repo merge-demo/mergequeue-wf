@@ -5802,6 +5802,7 @@ catchpoled
 commation
 catchpolling
 chad
+capette
 copperheads
 contribute
 catchword
@@ -9441,7 +9442,6 @@ citoyen
 clickless
 chazan
 chazanim
-capette
 chazans
 chazanut
 chazy
