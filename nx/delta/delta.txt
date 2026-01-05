@@ -1349,6 +1349,7 @@ damagement
 dart
 dauntingness
 discerners
+demandant
 duelli
 definer
 dauphine
@@ -4313,7 +4314,6 @@ dispersonalize
 demarcates
 defenestrated
 discouraging
-demandant
 demarcatordemarcators
 disks
 decempedate
