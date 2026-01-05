@@ -1587,7 +1587,6 @@ exogeny
 exaggeratedness
 essenis
 emball
-euosmite
 enterokinetic
 eglamore
 eglandular
@@ -11789,6 +11788,7 @@ entrees
 electrocatalysis
 exasperater
 engrid
+euosmite
 ewerer
 empocket
 enteradenography
