@@ -8643,6 +8643,7 @@ fringilloid
 forsakenness
 fermentarian
 forsythia
+fixtures
 fairyology
 findon
 forlorner
@@ -9290,7 +9291,6 @@ fasciolet
 fresnel
 foresentence
 fetishist
-fixtures
 futilize
 fleuret
 fourchet
