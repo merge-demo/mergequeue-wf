@@ -2974,7 +2974,6 @@ brougham
 blindeyes
 boundaries
 boobishness
-blobby
 benedicts
 boraciferous
 barricadoes
@@ -8206,6 +8205,7 @@ burfish
 broid
 baleens
 barkey
+blobby
 byronically
 beatable
 boone
