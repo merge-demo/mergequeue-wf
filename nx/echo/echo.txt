@@ -5470,6 +5470,7 @@ energesis
 extrinsicality
 earmark
 epilobium
+escript
 evidently
 entranced
 estheses
@@ -9503,7 +9504,6 @@ eschatologically
 embryoferous
 epiphanising
 everlastingly
-escript
 everness
 excerpta
 escritoire
