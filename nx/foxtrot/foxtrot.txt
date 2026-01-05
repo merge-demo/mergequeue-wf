@@ -1204,6 +1204,7 @@ fright
 fund
 fleech
 fascistization
+fillowite
 foxproof
 fountainlike
 fleckled
@@ -11656,7 +11657,6 @@ farasula
 fut
 futhorc
 fleshers
-fillowite
 fastigious
 foxskins
 functionalized
