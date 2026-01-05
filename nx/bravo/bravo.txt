@@ -1371,7 +1371,6 @@ beneceptive
 bladelike
 bibliotherapist
 brauronia
-baldachino
 bride
 bowers
 biscuits
@@ -1878,6 +1877,7 @@ barkinji
 bandfile
 begrudges
 brownism
+baldachino
 birken
 bandhook
 balladromic
