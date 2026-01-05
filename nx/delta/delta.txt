@@ -3269,6 +3269,7 @@ deteriority
 dragoons
 defibrillatory
 dropax
+drimys
 defier
 deracinated
 dense
@@ -16080,7 +16081,6 @@ dissceptring
 disaffections
 diplozoon
 deaning
-drimys
 deterration
 denaturisation
 disfrocked
