@@ -926,7 +926,6 @@ fleabug
 fallouts
 ferrate
 faquir
-farad
 faradaic
 filleted
 flamed
@@ -2543,6 +2542,7 @@ footstock
 firefanging
 finding
 forgetter
+farad
 finlike
 feinting
 fumes
