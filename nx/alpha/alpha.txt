@@ -2948,6 +2948,7 @@ actin
 aru
 actinautographic
 aerotonometer
+apographic
 actinenchyma
 artiness
 antijam
@@ -17111,7 +17112,6 @@ afterfuture
 apogonid
 afterdrain
 acquirement
-apographic
 apographical
 antibreakage
 annexing
