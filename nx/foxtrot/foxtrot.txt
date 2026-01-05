@@ -6266,6 +6266,7 @@ fouettee
 felloes
 farmtown
 fluidic
+faulted
 flapdragon
 friendlike
 frankeniaceous
@@ -6651,7 +6652,6 @@ fillip
 forevouched
 foehnlike
 furcilia
-faulted
 fulgurating
 flossing
 forenotice
