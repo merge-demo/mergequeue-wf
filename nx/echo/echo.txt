@@ -393,6 +393,7 @@ eocene
 endevil
 embouchement
 excentral
+ebullition
 eyestone
 erethistic
 eeler
@@ -12776,7 +12777,6 @@ exines
 extensional
 exostosis
 exarchist
-ebullition
 engraves
 elementary
 exostrae
