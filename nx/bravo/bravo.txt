@@ -1549,6 +1549,7 @@ bufferrer
 bouton
 backsword
 ballastic
+bristles
 ballata
 brisked
 batikulin
@@ -7194,7 +7195,6 @@ besteal
 bioresearch
 bedcover
 bested
-bristles
 bromometrical
 berylliosis
 bestench
