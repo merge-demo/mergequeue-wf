@@ -10879,7 +10879,6 @@ amyridaceae
 amoebobacterieae
 amoebogeniae
 achromatically
-amoebula
 atonality
 amoy
 apinoid
@@ -24422,6 +24421,7 @@ appalls
 astoundable
 aani
 abietite
+amoebula
 amy
 autosoterism
 accoutered
