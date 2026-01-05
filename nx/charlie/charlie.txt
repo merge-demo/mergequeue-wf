@@ -4740,7 +4740,6 @@ chantage
 conchometry
 catty
 caddow
-churchite
 compatibles
 cyathi
 costalgia
@@ -25506,6 +25505,7 @@ contradictions
 corollarial
 corollarially
 callionymus
+churchite
 corollaries
 corollet
 cholecystonephrostomy
