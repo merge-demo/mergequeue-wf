@@ -3343,7 +3343,6 @@ glent
 grabbable
 glosseme
 gula
-gabback
 geneticists
 germanized
 goosewinged
@@ -6583,6 +6582,7 @@ genty
 gallinula
 guesswork
 gastrohyperneuria
+gabback
 guerillas
 gelled
 galeass
