@@ -7094,7 +7094,6 @@ evejar
 estivage
 emulsible
 estuous
-edicule
 emphases
 equiprobability
 electrophoric
@@ -9612,6 +9611,7 @@ esoterist
 evildoers
 eventlessness
 ensearch
+edicule
 esoterize
 esp
 eventless
