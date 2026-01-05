@@ -1415,6 +1415,7 @@ epipolic
 eurasiatic
 exhalent
 ennead
+engram
 enneastylos
 epilaryngeal
 enneandrous
@@ -11147,7 +11148,6 @@ epitaphian
 executing
 electrification
 evacuants
-engram
 earthdrake
 exophagous
 epaulet
