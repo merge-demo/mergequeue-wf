@@ -3764,7 +3764,6 @@ ghostly
 gaura
 ghostwriters
 gallirallus
-ghoulery
 goetia
 gasterosteus
 groundedness
@@ -6666,6 +6665,7 @@ grouchy
 guard
 giantism
 gastroscopies
+ghoulery
 graptolithida
 gyroscopic
 glanduligerous
