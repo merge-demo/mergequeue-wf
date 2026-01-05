@@ -6964,7 +6964,6 @@ beshrews
 bluisness
 beshroud
 brachiostrophosis
-borlase
 bundook
 bellis
 borele
@@ -17620,6 +17619,7 @@ burghers
 benchless
 burgraves
 bureaucratized
+borlase
 bowdlerized
 burring
 bearlet
