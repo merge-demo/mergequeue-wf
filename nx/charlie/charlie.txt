@@ -7217,7 +7217,6 @@ cophetua
 caracas
 centranth
 centrarchid
-centrarchoid
 clar
 centraxonial
 cfi
@@ -11425,6 +11424,7 @@ cyclamates
 cloudlessly
 counterpillar
 cheekier
+centrarchoid
 chlorotically
 cantered
 chlorous
