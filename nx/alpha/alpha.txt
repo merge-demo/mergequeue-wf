@@ -6526,7 +6526,6 @@ aeromaechanic
 antibaryon
 albi
 americanumancestors
-annite
 actinometers
 anaesthesiology
 aigialosauridae
@@ -16464,6 +16463,7 @@ archeal
 acronal
 anviltops
 adelante
+annite
 altesse
 anxietude
 adipocele
