@@ -5083,7 +5083,6 @@ cuisten
 cytozoon
 carves
 carving
-curses
 carvoeira
 carvoepra
 carwash
@@ -30666,6 +30665,7 @@ convertable
 cuddliest
 celiagra
 cuddling
+curses
 crusados
 chiveret
 crizzle
