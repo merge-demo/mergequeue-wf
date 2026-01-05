@@ -688,7 +688,6 @@ eubasidii
 elmiest
 envier
 excide
-extraocular
 eclogite
 eclosion
 emasculative
@@ -12675,6 +12674,7 @@ emparadise
 exodontics
 epitaphize
 endorsor
+extraocular
 estrogenically
 exculpates
 ejaculative
