@@ -7437,7 +7437,6 @@ glycines
 gorgelet
 gamotropic
 grewt
-goujat
 grampuses
 gabelleman
 glamorizer
@@ -9603,6 +9602,7 @@ gnus
 gingersnap
 grovellingly
 gonorrheic
+goujat
 geishas
 gneissoid
 guester
