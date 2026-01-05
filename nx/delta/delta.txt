@@ -12655,7 +12655,6 @@ directs
 dargsman
 decupled
 derning
-devel
 disyoking
 desireable
 degradational
@@ -13986,6 +13985,7 @@ datableness
 daubed
 dioptrics
 distomes
+devel
 distomidae
 deprecators
 dubby
