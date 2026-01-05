@@ -13649,7 +13649,6 @@ cymlin
 calamancoes
 cymlings
 carbasus
-coappriser
 clinty
 cnemidophorus
 crematories
@@ -13730,6 +13729,7 @@ cinchonicine
 cycadeoid
 chuddar
 cinchonidia
+coappriser
 cinchonidine
 cinchonin
 cowleech
