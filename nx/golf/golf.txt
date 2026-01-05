@@ -3076,7 +3076,6 @@ graphiter
 greensauce
 gamelin
 genepi
-glom
 grypanian
 gluttonized
 geomorphologically
@@ -3263,6 +3262,7 @@ gally
 glandule
 graffage
 gormandizer
+glom
 gynecologists
 gerasene
 gesturer
