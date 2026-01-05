@@ -8694,7 +8694,6 @@ aortomalaxis
 allied
 allies
 alligated
-autoagglutinating
 arctoid
 alligatorfish
 alligatorfishes
@@ -15722,6 +15721,7 @@ autoinhibited
 adscriptitius
 absinthin
 apodeme
+autoagglutinating
 algesimeter
 antipeduncular
 acoemetae
