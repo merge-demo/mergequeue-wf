@@ -14372,7 +14372,6 @@ bracers
 beckons
 brahmapootra
 borehole
-bumf
 baits
 brahmin
 behowl
@@ -14747,6 +14746,7 @@ bounder
 bridemaiden
 bronzify
 blunderer
+bumf
 bucked
 brattice
 blithely
