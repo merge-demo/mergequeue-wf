@@ -5294,6 +5294,7 @@ elusiveness
 engrafting
 ecmnesia
 endorsable
+eudipleural
 entopterygoid
 excerpt
 extravagation
@@ -12832,7 +12833,6 @@ evangelistship
 efecks
 exoticist
 exceptions
-eudipleural
 encircled
 exoterically
 erythremomelalgia
