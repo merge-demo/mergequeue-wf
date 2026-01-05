@@ -5747,7 +5747,6 @@ depolarization
 dernly
 depolarize
 dextrorsal
-dislustre
 decouple
 downstroke
 diaphany
@@ -8502,6 +8501,7 @@ dianilide
 disheritor
 dianite
 dianoetically
+dislustre
 decanormal
 drydenism
 dianoia
