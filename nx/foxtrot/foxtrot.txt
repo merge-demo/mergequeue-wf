@@ -2182,7 +2182,6 @@ flatlander
 fathearted
 fairsome
 forestery
-feme
 flounciest
 facetious
 finiglacial
@@ -8531,6 +8530,7 @@ flowages
 filefishes
 fetiparous
 fluid
+feme
 foreboder
 foun
 facsimiling
