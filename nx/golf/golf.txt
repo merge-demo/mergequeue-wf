@@ -5288,6 +5288,7 @@ grenier
 glyceria
 gossipee
 grangerite
+gagged
 genialize
 guardsmen
 glommox
@@ -8767,7 +8768,6 @@ germling
 gaypoo
 gladless
 gabert
-gagged
 gridding
 gralloch
 graminaceous
