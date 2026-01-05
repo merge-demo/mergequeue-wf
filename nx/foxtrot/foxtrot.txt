@@ -4551,7 +4551,6 @@ faciolingual
 finishers
 fourth
 feudists
-fauconnier
 frit
 futtocks
 forespoken
@@ -10095,6 +10094,7 @@ forecasted
 fablemonger
 fait
 flabbiest
+fauconnier
 feloniously
 familistical
 faradonervous
