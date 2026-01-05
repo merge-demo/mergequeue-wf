@@ -2082,7 +2082,6 @@ gunbuilder
 gutlessness
 glutted
 gavots
-gomari
 glossers
 glorious
 gator
@@ -6132,6 +6131,7 @@ gipsywort
 glavered
 gardy
 grumpish
+gomari
 garrick
 gallification
 grammar
