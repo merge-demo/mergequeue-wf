@@ -11082,7 +11082,6 @@ deferring
 determinateness
 disapprovals
 demagog
-disapproves
 delousing
 disillusioned
 doppelkummel
@@ -11431,6 +11430,7 @@ dockyard
 dissuader
 demivotary
 determinoid
+disapproves
 discloser
 disclosive
 disclosure
