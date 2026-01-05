@@ -10792,7 +10792,6 @@ fanaticize
 flittermice
 films
 freehandedness
-foggish
 flagstaffs
 fth
 feuars
@@ -11671,6 +11670,7 @@ frowsty
 flibustier
 furcates
 frailties
+foggish
 festoons
 flocculate
 feru
