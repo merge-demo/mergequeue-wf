@@ -2359,7 +2359,6 @@ fingersmith
 fetial
 fortunetellers
 facile
-firearmed
 frondage
 feriation
 furrure
@@ -3574,6 +3573,7 @@ files
 femora
 fiddle
 fuliguline
+firearmed
 filesniff
 freijo
 follyproof
