@@ -110,7 +110,6 @@ faciends
 foxings
 featheredges
 fluidization
-facient
 furaldehyde
 fluobromide
 facilitate
@@ -8755,6 +8754,7 @@ fortuitous
 flote
 faussebraie
 fala
+facient
 frizzled
 faintise
 freddo
