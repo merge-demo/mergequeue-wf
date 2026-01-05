@@ -4371,7 +4371,6 @@ floorshifts
 flagged
 forbearances
 frenums
-fishbowls
 flexive
 forky
 forecomingness
@@ -11505,6 +11504,7 @@ furzeling
 fluidics
 furzy
 fastest
+fishbowls
 flouncy
 fusariose
 fanfold
