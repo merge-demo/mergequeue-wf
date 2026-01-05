@@ -7742,7 +7742,6 @@ foreinstruct
 fallal
 fatherland
 flyman
-flyeater
 footwarmers
 fashionless
 flaglike
@@ -9794,6 +9793,7 @@ fessways
 frigorifico
 foolhardiest
 fascet
+flyeater
 fatigability
 fishworm
 farfel
