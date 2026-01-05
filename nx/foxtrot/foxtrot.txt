@@ -5500,6 +5500,7 @@ flarer
 frore
 feculae
 forthbring
+fuses
 floey
 fenderless
 fricassee
@@ -6171,7 +6172,6 @@ foredoor
 fraughts
 furiosity
 ferrums
-fuses
 fewness
 fcp
 fewneses

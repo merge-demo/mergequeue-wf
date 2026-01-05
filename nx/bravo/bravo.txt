@@ -7160,7 +7160,6 @@ bachelorism
 barefoot
 boxiana
 backwards
-babylonism
 biphenyls
 besra
 berhymes
@@ -17370,6 +17369,7 @@ bridge
 baisakh
 brombenzene
 bittern
+babylonism
 basiotribe
 breviary
 burganet
