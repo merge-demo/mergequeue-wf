@@ -3680,6 +3680,7 @@ folder
 fledgy
 fillable
 fringes
+flags
 frownless
 fiercen
 feodal
@@ -10432,7 +10433,6 @@ fathomable
 frettage
 forecatching
 fusoid
-flags
 fitche
 footer
 fictionist
