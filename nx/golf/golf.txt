@@ -5430,7 +5430,6 @@ glyphic
 gambist
 gascoign
 guran
-garrisoning
 glossator
 girlhood
 gus
@@ -9913,6 +9912,7 @@ gaolbird
 golding
 glaucophyllous
 geeks
+garrisoning
 guaranine
 guanine
 gaveling
