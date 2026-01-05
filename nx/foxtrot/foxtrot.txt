@@ -7308,6 +7308,7 @@ freesheet
 falsies
 fallibilism
 figuring
+forescript
 fiants
 freshment
 femereil
@@ -8624,7 +8625,6 @@ fenceress
 faradisms
 flappiest
 farmyard
-forescript
 foredid
 fittings
 figurately

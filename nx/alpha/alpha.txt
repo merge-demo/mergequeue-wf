@@ -8018,7 +8018,6 @@ acidotic
 arithmetically
 amphide
 alforja
-alfresco
 ampelidaceae
 asymptotically
 alga
@@ -16109,6 +16108,7 @@ annealing
 acidulous
 asaphic
 antiship
+alfresco
 antishipping
 amphitryon
 antisideric
