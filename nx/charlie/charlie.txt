@@ -17296,7 +17296,6 @@ coalite
 counterbalances
 confederated
 cytoplasm
-cleans
 crumple
 coalless
 coalmouse
@@ -25619,6 +25618,7 @@ coagule
 corporeally
 cravenhearted
 corporeals
+cleans
 cob
 corporeity
 compurgator
