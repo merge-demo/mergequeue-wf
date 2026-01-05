@@ -2906,7 +2906,6 @@ decussatively
 desideratum
 disyllabizing
 decussoria
-decwriter
 deltoid
 dogvanes
 divia
@@ -3638,6 +3637,7 @@ deglory
 dermatoxerasia
 deglut
 dec
+decwriter
 disarrangement
 decubation
 denounced
