@@ -4688,7 +4688,6 @@ fixidity
 filmdom
 fixing
 flannelleaf
-fixt
 flopwing
 fingerhook
 fangs
@@ -10671,6 +10670,7 @@ florican
 fundamental
 frankness
 fidicinal
+fixt
 foodstuffs
 fruitiness
 fieldworker
