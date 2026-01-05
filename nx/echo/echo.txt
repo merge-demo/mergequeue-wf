@@ -5422,7 +5422,6 @@ ed
 equid
 emigrants
 eightsman
-elsewhither
 electronvolt
 ergotization
 endowment
@@ -8884,6 +8883,7 @@ endotheliolytic
 erer
 erethisia
 excursively
+elsewhither
 embossers
 eelworms
 erewhile
