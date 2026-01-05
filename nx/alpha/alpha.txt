@@ -2947,7 +2947,6 @@ aru
 actinautographic
 aerotonometer
 apographic
-actinenchyma
 artiness
 antijam
 acting
@@ -3191,6 +3190,7 @@ anestrus
 actualistic
 allolalic
 annamese
+actinenchyma
 alphabeted
 agronomial
 attributer
