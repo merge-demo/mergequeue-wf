@@ -12493,6 +12493,7 @@ chromite
 catechiser
 chromitite
 conacre
+croyden
 courtroom
 chromium
 chromiums
@@ -29663,7 +29664,6 @@ crofters
 cainozoic
 crofts
 covering
-croyden
 croydon
 croiik
 croyl
