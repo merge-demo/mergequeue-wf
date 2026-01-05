@@ -7308,7 +7308,6 @@ gangly
 goar
 gymnosophy
 galactan
-genys
 gentlewomen
 grizzles
 gymnasisiums
@@ -8044,6 +8043,7 @@ grapnels
 glaucine
 gript
 gunstocking
+genys
 gastronomy
 gastronomics
 gata
