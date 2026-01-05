@@ -3581,7 +3581,6 @@ adamhood
 amputating
 antimonite
 adelphian
-adelphic
 adelphous
 adipsous
 admeasurer
@@ -15748,6 +15747,7 @@ andradite
 aegirine
 antipestilently
 ablauts
+adelphic
 agonistical
 anvilled
 aviolite
