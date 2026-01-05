@@ -4792,7 +4792,6 @@ formicated
 foaly
 foreshowed
 forfeiting
-fraudful
 frontoorbital
 foothills
 flagman
@@ -5041,6 +5040,7 @@ forekeel
 faithbreaker
 foeship
 faconne
+fraudful
 fulmarus
 flapdock
 fluvialist
