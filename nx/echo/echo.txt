@@ -1090,7 +1090,6 @@ ember
 equipoised
 evaluates
 envined
-edificatory
 epimerize
 elliptic
 edificed
@@ -9280,6 +9279,7 @@ encyclopedize
 enfolded
 extraclassroom
 erron
+edificatory
 electrotellurograph
 externalist
 entrep
