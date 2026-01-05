@@ -2779,7 +2779,6 @@ ergastic
 erythropoiesis
 elegised
 elegising
-esterizing
 excuderunt
 ensisternum
 ectoenzym
@@ -10111,6 +10110,7 @@ essoins
 exploitee
 elenchically
 eumolpus
+esterizing
 eutopia
 erythrophagous
 euphausiacea
