@@ -9436,7 +9436,6 @@ delaw
 demode
 dozener
 drivels
-drawlers
 decubitus
 derailleurs
 dissert
@@ -13453,6 +13452,7 @@ diffusion
 dennstaedtia
 disrated
 disrecommendation
+drawlers
 disregard
 demiglace
 dought

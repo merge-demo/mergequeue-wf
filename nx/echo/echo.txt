@@ -13840,6 +13840,7 @@ exstimulate
 eyestrings
 exchanges
 extractant
+extrusory
 enramada
 epicly
 extractibility
@@ -14159,7 +14160,6 @@ ecoles
 escapists
 episcopising
 entredeux
-extrusory
 eof
 examinations
 ethmopalatine
