@@ -2267,6 +2267,7 @@ gey
 greeney
 geopolitik
 gradation
+goals
 glasswort
 gipons
 glarry
@@ -7496,7 +7497,6 @@ galliardize
 glossodynia
 generalization
 glial
-goals
 gamogenesis
 glycolytic
 gortonian
