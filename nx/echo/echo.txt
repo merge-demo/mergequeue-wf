@@ -6743,7 +6743,6 @@ elaborately
 enmuffle
 endosepsis
 epicenters
-espaliers
 emunge
 enuresis
 exstill
@@ -10607,6 +10606,7 @@ eucopepoda
 electrotechnic
 eucosmidae
 ecstasis
+espaliers
 expensing
 englobing
 evernioid
