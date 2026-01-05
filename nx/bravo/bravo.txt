@@ -8472,6 +8472,7 @@ bullshot
 boob
 barostat
 bilders
+biseriately
 blighted
 bilection
 bileve
@@ -9637,7 +9638,6 @@ banalize
 bosky
 bandcase
 baboot
-biseriately
 biset
 belshazzaresque
 bisetose
