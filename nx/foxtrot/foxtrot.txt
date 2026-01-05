@@ -4240,6 +4240,7 @@ fatless
 flail
 fireward
 fumaroles
+foretrysail
 forehead
 forclose
 fictionisation
@@ -9859,7 +9860,6 @@ fluorenyl
 freddy
 fennoman
 freudist
-foretrysail
 fanging
 foetalization
 friar
