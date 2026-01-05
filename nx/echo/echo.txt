@@ -2333,7 +2333,6 @@ eagled
 eyras
 electroacoustic
 elfkin
-exradius
 electroacoustics
 enthetic
 exundation
@@ -10383,6 +10382,7 @@ ethnozoology
 ethography
 excepter
 ethology
+exradius
 ethnogeographer
 ethologies
 electrocataphoretic
