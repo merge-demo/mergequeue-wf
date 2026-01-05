@@ -4794,7 +4794,6 @@ allophylic
 awedly
 authenticatable
 archlute
-apopyle
 aeroboat
 aerobranchia
 appearing
@@ -8404,6 +8403,7 @@ arrogant
 alkamine
 alkanet
 alkalifies
+apopyle
 actionist
 alkanethiol
 antherine
