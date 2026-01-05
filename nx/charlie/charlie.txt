@@ -18026,7 +18026,6 @@ charioteers
 coelodont
 comet
 claymores
-coelom
 communicates
 coeloma
 coelomata
@@ -26546,6 +26545,7 @@ cymbaled
 clingers
 conjecturable
 cheverons
+coelom
 couchancy
 couchant
 couths
