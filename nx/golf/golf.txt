@@ -5742,7 +5742,6 @@ grayed
 gobos
 glossolalia
 gustoes
-gabbroid
 glossolysis
 goldweed
 grecizes
@@ -9510,6 +9509,7 @@ goondie
 grounders
 gonyaulax
 graceful
+gabbroid
 ghylls
 guelphish
 grundlov
