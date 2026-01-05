@@ -10716,7 +10716,6 @@ chimneylike
 chastisement
 choledocholithotomy
 chimneyman
-chimneypiece
 chimopelagic
 chymotrypsinogen
 creedalism
@@ -18478,6 +18477,7 @@ cognovit
 coude
 cognovits
 conjegates
+chimneypiece
 chondromata
 conspiratorially
 cogonal
