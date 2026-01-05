@@ -2818,6 +2818,7 @@ elementalize
 emperil
 essang
 encoronate
+etherealization
 eluded
 embelic
 evasive
@@ -10111,7 +10112,6 @@ euphausiacea
 earlike
 entities
 ethereality
-etherealization
 endotropic
 epharmony
 earthlike
