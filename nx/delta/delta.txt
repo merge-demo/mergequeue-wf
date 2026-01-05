@@ -7863,7 +7863,6 @@ dihydrogen
 dewberries
 dewcap
 disbudder
-devocalised
 deglute
 driveways
 dewclaws
@@ -14465,6 +14464,7 @@ dutiful
 diversisporous
 dhoul
 doctus
+devocalised
 datedness
 depreciatory
 demeter
