@@ -216,6 +216,7 @@ forsakes
 factrix
 footmanship
 factorials
+frontenis
 fanons
 fatiscence
 forborne
@@ -8372,7 +8373,6 @@ familiars
 faradmeter
 flues
 forgot
-frontenis
 fightable
 forking
 ferryway
