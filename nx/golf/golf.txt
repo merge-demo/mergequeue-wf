@@ -1735,7 +1735,6 @@ guildry
 gympie
 goldstone
 genotypes
-glike
 gunsmiths
 geogonical
 gastronosus
@@ -3404,6 +3403,7 @@ gallicolae
 gools
 grittily
 gaboon
+glike
 gaslighting
 ganapati
 globiferous
