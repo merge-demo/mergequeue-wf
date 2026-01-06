@@ -6859,7 +6859,6 @@ baume
 buckeroos
 bust
 benzodiazole
-bescramble
 bescreen
 barit
 brutalize
@@ -11064,6 +11063,7 @@ bisaccate
 bloating
 burglarized
 basilemma
+bescramble
 bails
 backrest
 brimstone
