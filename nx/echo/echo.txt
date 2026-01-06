@@ -2708,6 +2708,7 @@ enduros
 electrotherapy
 electrotheraputic
 emyds
+enantiopathy
 esophagus
 elaeopten
 electrothermal
@@ -2878,7 +2879,6 @@ europhium
 eagre
 escars
 elephantoid
-enantiopathy
 elanus
 elephantiasic
 emotionlessly
