@@ -2708,7 +2708,6 @@ fraternization
 fyce
 fraela
 folklore
-framing
 feedy
 fedity
 fiercer
@@ -11272,6 +11271,7 @@ flit
 flakeless
 famble
 faciest
+framing
 featherwork
 funnels
 fourer
