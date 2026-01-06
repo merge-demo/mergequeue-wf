@@ -4135,6 +4135,7 @@ diadokokinesis
 duodena
 desynapsis
 dells
+dastur
 distinct
 dyspneic
 dormitive
@@ -4364,7 +4365,6 @@ digenous
 demele
 dirled
 demembre
-dastur
 disassembled
 dementation
 dementholize
