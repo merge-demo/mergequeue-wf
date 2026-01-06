@@ -3032,6 +3032,7 @@ eleatic
 eleoblast
 elephantoidal
 evaluate
+endless
 extine
 efflorescence
 extern
@@ -10689,7 +10690,6 @@ estragon
 easternism
 egalitarians
 eugenically
-endless
 eugenie
 eugenism
 epikouros
