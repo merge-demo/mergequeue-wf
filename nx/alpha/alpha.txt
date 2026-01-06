@@ -9706,7 +9706,6 @@ albedometer
 acolyctine
 adry
 agglomerator
-antireforming
 aspergillums
 arteriectomy
 aeroplane
@@ -12937,6 +12936,7 @@ anvilling
 angustiseptal
 accommodable
 angustura
+antireforming
 angwich
 aphorismic
 archly
