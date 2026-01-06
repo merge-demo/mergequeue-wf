@@ -255,7 +255,6 @@ gambrelled
 glamorous
 guao
 glaires
-gizmo
 glyph
 gumminess
 galoisian
@@ -3294,6 +3293,7 @@ glucemia
 geometrising
 geosynclines
 goetical
+gizmo
 gere
 gereagle
 gleeful
