@@ -2377,6 +2377,7 @@ dechemicalize
 doctorfish
 dechloridation
 dechloridize
+deaconry
 dillweed
 dysgenesis
 divise
@@ -2931,7 +2932,6 @@ despitous
 dedicatorily
 doggoner
 dedicators
-deaconry
 dewar
 ducatus
 dechlorination
