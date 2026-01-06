@@ -4123,7 +4123,6 @@ emplecton
 eternalise
 exuberancy
 employability
-evenly
 electrovalence
 endocritic
 employe
@@ -10665,6 +10664,7 @@ equivalencies
 epinephrine
 excamber
 elopers
+evenly
 excusingly
 eastlake
 extricating
