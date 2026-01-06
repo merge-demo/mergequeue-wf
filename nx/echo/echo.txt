@@ -10853,6 +10853,7 @@ execrates
 etherealising
 eupepticity
 eelfish
+elapoid
 effigiating
 eloigners
 entosternum
@@ -11030,7 +11031,6 @@ engelmann
 ellops
 ethered
 echinostomatidae
-elapoid
 euhages
 encurtain
 euangiotic
