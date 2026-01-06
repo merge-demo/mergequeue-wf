@@ -7278,6 +7278,7 @@ albe
 actinoelectric
 awmbrie
 ariole
+alchemising
 anglesite
 anarthrous
 avenues
@@ -11278,7 +11279,6 @@ ampler
 amplexicaul
 amphictyonic
 antiphylloxeric
-alchemising
 alviducous
 aurums
 artels
