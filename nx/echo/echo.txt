@@ -6194,7 +6194,6 @@ embarren
 exiles
 ensteel
 equipments
-exterritorialize
 evaporitic
 evviva
 enoint
@@ -7164,6 +7163,7 @@ eo
 expirer
 envisaging
 enwheels
+exterritorialize
 enwinding
 elemis
 ethmomaxillary
