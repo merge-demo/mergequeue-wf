@@ -235,6 +235,7 @@ gabbles
 germanomaniac
 guardfully
 golpe
+gyrochrome
 gulaman
 gaspereau
 graverobber
@@ -10718,7 +10719,6 @@ gaumless
 goers
 glyoxim
 grumping
-gyrochrome
 gubernatorial
 gunnung
 graphometric
