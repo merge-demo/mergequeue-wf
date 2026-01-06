@@ -5147,7 +5147,6 @@ affected
 agpaitic
 affectibility
 affecting
-aerophore
 archinformer
 acrochordon
 antitangent
@@ -14286,6 +14285,7 @@ autographic
 amasesis
 antinovels
 anthol
+aerophore
 anodes
 apiaceous
 aroras
