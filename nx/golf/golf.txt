@@ -5744,7 +5744,6 @@ gloomth
 gradin
 gleeds
 graphostatic
-gish
 grimmish
 grumes
 gloomy
@@ -6158,6 +6157,7 @@ glandiferous
 givens
 glistened
 goliaths
+gish
 gambodic
 grooves
 gobiesociform
