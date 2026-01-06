@@ -18577,7 +18577,6 @@ cataphyllary
 contingents
 considerateness
 clypeole
-coif
 coiffe
 complain
 coiffed
@@ -23386,6 +23385,7 @@ cratering
 contadino
 ceratosaurus
 contagioned
+coif
 computation
 ceramicite
 cuculi
