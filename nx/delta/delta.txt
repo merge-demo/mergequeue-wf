@@ -1299,7 +1299,6 @@ distinguishingly
 dramatic
 decoloured
 daubreite
-degaussing
 detacwable
 dobsons
 decortization
@@ -10597,6 +10596,7 @@ diplomaing
 dutchmen
 datapunch
 drudger
+degaussing
 dictaphone
 deben
 diplomates
