@@ -6872,7 +6872,6 @@ cello
 chambermaid
 celloid
 chairmaker
-cathodofluorescence
 constative
 counterbalance
 cognizance
@@ -10422,6 +10421,7 @@ conemaker
 chierete
 chievance
 chieve
+cathodofluorescence
 chifferobe
 causalgia
 cosmocratic
