@@ -5584,7 +5584,6 @@ endaortic
 epicuticle
 endogens
 expertly
-enflaming
 epiklesis
 embryulcus
 enflower
@@ -9872,6 +9871,7 @@ enstatite
 equivalency
 encodes
 epidemical
+enflaming
 enodally
 encave
 ear
