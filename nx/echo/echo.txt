@@ -1274,6 +1274,7 @@ elucidatory
 exposition
 episomal
 evaluation
+eightfoil
 enmanche
 ergostat
 eightling
@@ -11885,7 +11886,6 @@ emissivity
 enfume
 enurny
 emends
-eightfoil
 engore
 enami
 euploeinae
