@@ -4061,6 +4061,7 @@ deviational
 daunts
 displumed
 depart
+dormer
 departments
 diplomyelia
 deline
@@ -14261,7 +14262,6 @@ dartingness
 dinocerata
 delubrubra
 die
-dormer
 ditalini
 drakelet
 dahoman
