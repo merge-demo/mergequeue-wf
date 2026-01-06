@@ -13019,7 +13019,6 @@ elites
 engrapple
 encomiastical
 enhazard
-ermined
 entrusted
 epinaoi
 eraser
@@ -13180,6 +13179,7 @@ echinopsine
 expiration
 exponentiation
 epaxial
+ermined
 exotica
 eremophyte
 expirations
