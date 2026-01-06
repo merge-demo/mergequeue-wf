@@ -792,6 +792,7 @@ angiomegaly
 abronia
 afterhelp
 abrook
+aurae
 aiel
 atrabiliary
 abruptio
@@ -4364,7 +4365,6 @@ adultery
 autohypnotic
 antifebrile
 ablactated
-aurae
 antonella
 acastus
 almightiness
