@@ -8409,7 +8409,6 @@ gasterosteiform
 ginner
 gigabytes
 grillading
-grandisonant
 graced
 gadolinite
 grisailles
@@ -10679,6 +10678,7 @@ gelatinobromide
 gurl
 goldin
 generalty
+grandisonant
 glycerols
 gurnard
 gildsman
