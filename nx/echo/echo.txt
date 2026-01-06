@@ -7027,6 +7027,7 @@ encipherments
 emplace
 embladder
 explorable
+exclaimer
 estated
 extradialectal
 earphone
@@ -11131,7 +11132,6 @@ egests
 ecce
 eutychian
 everly
-exclaimer
 evicke
 embanked
 eutrophication
