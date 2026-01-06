@@ -3064,6 +3064,7 @@ castigated
 canula
 canulae
 canulas
+caputium
 chthonophagy
 coistrel
 canulates
@@ -3594,7 +3595,6 @@ capucine
 catalepsy
 capulet
 capulin
-caputium
 caque
 condemnor
 chewiest
