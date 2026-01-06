@@ -7806,7 +7806,6 @@ glassworking
 glacial
 gunung
 gipseian
-gunroom
 greeny
 grubworm
 gulleys
@@ -10773,6 +10772,7 @@ gutt
 galericulate
 gerenuk
 gung
+gunroom
 genialness
 gonadectomy
 gammadia
