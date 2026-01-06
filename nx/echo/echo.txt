@@ -13,6 +13,7 @@ epidermoid
 erigeron
 evaporometer
 euchologion
+explait
 emigate
 erosivity
 epidotiferous
@@ -3015,7 +3016,6 @@ eradiation
 eliminate
 etiologies
 embind
-explait
 emony
 esoanhydride
 equiprobabilism
