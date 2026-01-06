@@ -2317,6 +2317,7 @@ arecuna
 aul
 acids
 acidulant
+absinthin
 acidulate
 acidulated
 anaphalantiasis
@@ -15715,7 +15716,6 @@ antipatriotism
 agada
 autoinhibited
 adscriptitius
-absinthin
 apodeme
 autoagglutinating
 algesimeter
