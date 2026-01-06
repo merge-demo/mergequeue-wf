@@ -887,7 +887,6 @@ cs
 cayuca
 commendador
 cosmothetic
-cayuga
 cayugan
 cayugas
 cayuse
@@ -4551,6 +4550,7 @@ carnalite
 clarain
 culverin
 carnalize
+cayuga
 counterexposition
 carolingian
 confederative
