@@ -14918,6 +14918,7 @@ cookbooks
 corypphaei
 ceased
 cytopyge
+comptonia
 cantaro
 curemaster
 cytoreticulum
@@ -21378,7 +21379,6 @@ concinnity
 concinnities
 centuria
 cystoenterocele
-comptonia
 concinnously
 concionate
 callidness
