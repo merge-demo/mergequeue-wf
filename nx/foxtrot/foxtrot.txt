@@ -8994,6 +8994,7 @@ filly
 feltings
 fourpence
 flavine
+functionnaire
 fourpenny
 fernless
 fableist
@@ -11102,7 +11103,6 @@ flockless
 foremasts
 fangled
 fiesta
-functionnaire
 functors
 formational
 foulard
