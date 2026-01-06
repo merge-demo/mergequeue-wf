@@ -4204,7 +4204,6 @@ disacknowledge
 deltas
 dukeling
 dook
-desipiency
 dopaminergic
 deboshment
 disputatious
@@ -15490,6 +15489,7 @@ dealers
 demodulates
 dependableness
 dismembers
+desipiency
 doncella
 debut
 doncy
