@@ -5815,6 +5815,7 @@ dassies
 denture
 dekle
 disauthentic
+doubled
 dextrocerebral
 depositors
 dowel
@@ -9687,7 +9688,6 @@ disaffiliation
 dilactone
 dilamination
 dilaniate
-doubled
 dumple
 derelinquish
 disembroilment
