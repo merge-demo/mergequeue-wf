@@ -2482,6 +2482,7 @@ bezonian
 baresark
 backpackers
 bononian
+beanery
 bargham
 brie
 balbutient
@@ -12144,7 +12145,6 @@ brooks
 bostrychoid
 brujeria
 banefully
-beanery
 bagpudding
 boldfaced
 boldfacedness
