@@ -107,7 +107,6 @@ gujerat
 glairier
 guises
 galeate
-ganguela
 gofferer
 gliomata
 glowbard
@@ -1705,6 +1704,7 @@ gentries
 gastrophilite
 grandly
 gastrograph
+ganguela
 gamebag
 grieflessness
 gazetteerish
