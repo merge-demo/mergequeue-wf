@@ -441,7 +441,6 @@ disthrall
 daytimes
 daywrit
 dakerhen
-demonifuge
 deaner
 disappointing
 dakhini
@@ -2050,6 +2049,7 @@ dothidella
 daimen
 duplicitas
 derringer
+demonifuge
 dichloramin
 decagram
 dourness
