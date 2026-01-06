@@ -4402,7 +4402,6 @@ forfeit
 footpick
 fishily
 fightingly
-fatigues
 farinaceously
 fishiness
 fenbank
@@ -8955,6 +8954,7 @@ filosus
 faultfinder
 funambulist
 fuddling
+fatigues
 flaggiest
 forepole
 frustule
