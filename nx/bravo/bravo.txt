@@ -4587,7 +4587,6 @@ bicellular
 biddelian
 backjaw
 bedaub
-benzoylglycine
 besuit
 bundeli
 borborus
@@ -12373,6 +12372,7 @@ bookmarker
 bombillas
 bacchantic
 blan
+benzoylglycine
 beefsteaks
 bobfly
 brimful
