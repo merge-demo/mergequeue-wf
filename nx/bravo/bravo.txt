@@ -5874,7 +5874,6 @@ begaudy
 bellweed
 beggardom
 bretons
-butterbur
 bellwether
 bradmaker
 bellwort
@@ -14813,6 +14812,7 @@ begorrah
 buncal
 bercelet
 brawnedness
+butterbur
 bilamellated
 biaxillary
 belatedness
