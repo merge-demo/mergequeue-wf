@@ -2236,7 +2236,6 @@ epiglottiditis
 eggless
 equiprobable
 encrisp
-electrocataphoresis
 eldest
 effigiated
 eventuate
@@ -13666,6 +13665,7 @@ extrapolates
 epithem
 elfic
 encomiendas
+electrocataphoresis
 eject
 enphytotic
 endorsors
