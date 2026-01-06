@@ -1075,7 +1075,6 @@ fluoridization
 floter
 foredestining
 fumigation
-furriery
 fumishly
 flustration
 fiberboard
@@ -10361,6 +10360,7 @@ feudovassalism
 faceman
 fortiori
 ferrado
+furriery
 fantasized
 frondlet
 featherwise
