@@ -4724,7 +4724,6 @@ deaved
 diadochokinetic
 dromophobia
 dejected
-deriv
 disgracing
 diaphototropism
 disbudding
@@ -16447,6 +16446,7 @@ drably
 defrosting
 divulges
 devolatilisation
+deriv
 dracin
 damaskin
 deadpanning
