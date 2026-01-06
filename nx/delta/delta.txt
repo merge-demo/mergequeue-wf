@@ -7077,7 +7077,6 @@ drowsed
 domajig
 demesmerize
 descriptiveness
-disorient
 desto
 disvalues
 darted
@@ -13821,6 +13820,7 @@ dengues
 destructivity
 dissuit
 duhat
+disorient
 dignifies
 dissunder
 deflexible
