@@ -2183,7 +2183,6 @@ grainer
 gizzards
 genteelly
 gierfalcon
-glout
 geraldine
 goosegirl
 guacos
@@ -3694,6 +3693,7 @@ geoglyphic
 gauntleted
 gillnetting
 gonadotropic
+glout
 gardenin
 gaffkya
 genotypicity
