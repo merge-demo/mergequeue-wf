@@ -13669,7 +13669,6 @@ barra
 binning
 beclouded
 boviculture
-botulism
 blousy
 blepharophyma
 blockaders
@@ -14040,6 +14039,7 @@ boxmaking
 bushtits
 breathers
 bathrobes
+botulism
 bondable
 bolshevizing
 bronstrops
