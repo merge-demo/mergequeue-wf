@@ -5222,7 +5222,6 @@ boskopoid
 blanky
 beworming
 boarcite
-barbules
 basification
 breadboards
 begar
@@ -9520,6 +9519,7 @@ byronic
 binocles
 beirut
 brahmaness
+barbules
 beaconage
 bouffants
 bemonster
