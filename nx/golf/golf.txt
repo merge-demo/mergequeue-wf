@@ -5248,7 +5248,6 @@ gab
 garnished
 gerberia
 gunter
-gorgonzola
 gamecraft
 gombroons
 garten
@@ -6437,6 +6436,7 @@ guldens
 grogshop
 goldentop
 glaucophanization
+gorgonzola
 glochideous
 grapewise
 grobianism
