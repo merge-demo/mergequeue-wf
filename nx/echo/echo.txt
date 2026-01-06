@@ -626,7 +626,6 @@ excommenge
 exostoses
 emporia
 enamellist
-emetics
 eurypharynx
 euro
 enwreathing
@@ -9290,6 +9289,7 @@ enculturation
 epileptically
 erythritic
 euchologia
+emetics
 eugeosynclinal
 elytrin
 errors
