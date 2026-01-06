@@ -1863,6 +1863,7 @@ camarasaurus
 camarera
 camarin
 cubists
+coronillo
 camaron
 camass
 camasses
@@ -29825,7 +29826,6 @@ capsumin
 cross
 circummeridian
 cablets
-coronillo
 chronos
 calculate
 crossband
