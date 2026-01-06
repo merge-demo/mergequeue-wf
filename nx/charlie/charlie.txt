@@ -5934,6 +5934,7 @@ cytolymph
 cateringly
 copras
 caterpillar
+clavolet
 caterpillared
 caterpillarlike
 chelerythrin
@@ -15754,7 +15755,6 @@ coy
 carlisle
 clavipectoral
 chips
-clavolet
 cumulonimbus
 chapel
 clawed
