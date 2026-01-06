@@ -3221,7 +3221,6 @@ ceratopteridaceous
 cogracious
 clunks
 clavelize
-cosmoid
 caducicorn
 cattle
 coquet
@@ -17593,6 +17592,7 @@ crucifix
 cohoshes
 colloid
 coccaceous
+cosmoid
 coccal
 conducible
 coccerin
