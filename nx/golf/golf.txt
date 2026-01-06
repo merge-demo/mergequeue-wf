@@ -2468,7 +2468,6 @@ gallah
 glutch
 grandpas
 gemmologists
-gemeled
 gekkones
 goorals
 grillage
@@ -7908,6 +7907,7 @@ goniatitoid
 glossotherium
 gramme
 ginned
+gemeled
 groggiest
 gilbertage
 gameful
