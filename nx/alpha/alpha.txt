@@ -8686,7 +8686,6 @@ allied
 allies
 alligated
 arctoid
-alligatorfish
 alligatorfishes
 allying
 abecedarius
@@ -24693,6 +24692,7 @@ averments
 admove
 antidiastase
 amelioration
+alligatorfish
 acnode
 averral
 alii
