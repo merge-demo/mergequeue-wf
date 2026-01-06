@@ -2459,7 +2459,6 @@ cancha
 canchalagua
 cropsickness
 cherubically
-cancion
 cancionero
 canciones
 cancri
@@ -17675,6 +17674,7 @@ climate
 creativeness
 coccosteus
 chickadees
+cancion
 coccothraustes
 chawbuck
 coccothraustine
