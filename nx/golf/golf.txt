@@ -8669,6 +8669,7 @@ grizzliness
 gapeseed
 gazetteership
 greatness
+gneissy
 gushers
 greave
 gapers
@@ -10457,7 +10458,6 @@ gigs
 gundalow
 greetings
 gummatous
-gneissy
 gerrymandered
 gametophagia
 gastrolienal
