@@ -9265,7 +9265,6 @@ glebe
 ghostlify
 growthiness
 glucagon
-gawkiness
 gyroceran
 grazingly
 gunja
@@ -10166,6 +10165,7 @@ gloried
 glideness
 gasconading
 guardianly
+gawkiness
 git
 gingely
 grabby
