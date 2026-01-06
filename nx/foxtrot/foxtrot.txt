@@ -5235,6 +5235,7 @@ fisherman
 foulmouthedness
 fenders
 focoids
+flumped
 fuse
 flavanilin
 fulnesses
@@ -10636,7 +10637,6 @@ flative
 forseen
 fractile
 forswearing
-flumped
 forwaste
 flabbier
 fleeting
