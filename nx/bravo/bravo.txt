@@ -13555,6 +13555,7 @@ bouch
 blacksmith
 boucharde
 belime
+budgerigar
 barometrography
 blundered
 bielid
@@ -17209,7 +17210,6 @@ barkantine
 bullpen
 bullpoll
 bemirror
-budgerigar
 brughs
 bestarve
 boozy
