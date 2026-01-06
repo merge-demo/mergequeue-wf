@@ -2722,7 +2722,6 @@ gconvert
 gastroenterologists
 ganodont
 globoids
-geoteuthis
 generant
 gorevan
 genioglossus
@@ -3189,6 +3188,7 @@ gelechiidae
 geoscopy
 gordonia
 gelasian
+geoteuthis
 germanophobe
 ghostship
 gonosomal
