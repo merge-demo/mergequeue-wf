@@ -5131,7 +5131,6 @@ generalissima
 gandhist
 gutturalize
 gummas
-gromatics
 grassland
 graciousness
 glycoside
@@ -8657,6 +8656,7 @@ gasteralgia
 govern
 gladiators
 gradal
+gromatics
 gendarmerie
 greyish
 gemsbok
