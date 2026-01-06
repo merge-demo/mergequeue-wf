@@ -6366,7 +6366,6 @@ frizado
 frags
 fluidity
 fuzzy
-flack
 fullback
 floyd
 finessed
@@ -10580,6 +10579,7 @@ frowziest
 frowzled
 firebases
 footworn
+flack
 fresh
 file
 freshing
