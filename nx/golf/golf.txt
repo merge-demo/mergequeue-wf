@@ -2567,7 +2567,6 @@ guanacos
 generalistic
 gaudier
 glen
-gumption
 gruffy
 gingle
 grue
@@ -7061,6 +7060,7 @@ giottesque
 glaces
 gestalter
 gurdfish
+gumption
 gaus
 gastrectomy
 gunwales
