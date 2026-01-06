@@ -6925,6 +6925,7 @@ aywhere
 aizoon
 alkenyl
 antitryptic
+ascensiontide
 atrioventricular
 arborist
 animal
@@ -10922,7 +10923,6 @@ astounded
 amorph
 athelia
 amorpha
-ascensiontide
 anarthropodous
 amorphia
 aerobion

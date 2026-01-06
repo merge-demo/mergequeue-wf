@@ -5094,7 +5094,6 @@ decompress
 daubes
 dumber
 dendrologous
-derivatives
 devorative
 dextrosinistral
 dundee
@@ -8616,6 +8615,7 @@ dibbuk
 denatured
 dows
 decarchy
+derivatives
 diarrhoeal
 dephysicalize
 diarrhoetic
