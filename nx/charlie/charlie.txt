@@ -11913,7 +11913,6 @@ comradery
 concio
 cassapanca
 chorals
-chomage
 chorasmian
 crispiness
 chordaceae
@@ -24284,6 +24283,7 @@ craniostenosis
 convulsions
 clostridia
 convulsive
+chomage
 convulsively
 coo
 cortaderia
