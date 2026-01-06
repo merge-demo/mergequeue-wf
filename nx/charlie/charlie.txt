@@ -23483,7 +23483,6 @@ contemptuous
 contemptuously
 cruelty
 cholecystocolotomy
-contended
 contendent
 contending
 contendress
@@ -27630,6 +27629,7 @@ culp
 cowardness
 cowbane
 collided
+contended
 coolheaded
 chamfered
 croquette
