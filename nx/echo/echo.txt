@@ -124,6 +124,7 @@ eartab
 exodermal
 eparch
 euphonised
+eponyms
 echinoderma
 embosk
 epigrammatic
@@ -3586,7 +3587,6 @@ epithecial
 ethanamide
 eschewance
 extortionary
-eponyms
 extreme
 epigonus
 equinecessary
