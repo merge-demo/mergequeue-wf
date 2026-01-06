@@ -5862,6 +5862,7 @@ anathematization
 agglutinogen
 acclaiming
 amblygeusia
+ambiance
 accompanists
 aggrades
 accademia
@@ -7653,7 +7654,6 @@ aldane
 aldea
 antichresis
 adzooks
-ambiance
 autoplastic
 arbours
 aloadae
