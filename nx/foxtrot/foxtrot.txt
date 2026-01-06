@@ -1825,6 +1825,7 @@ fellahin
 firebreaks
 fleabites
 fating
+fingian
 freightage
 feedbags
 flexographic
@@ -2895,7 +2896,6 @@ fumier
 flagonless
 flyboy
 fourneau
-fingian
 furazane
 fossane
 frustums
