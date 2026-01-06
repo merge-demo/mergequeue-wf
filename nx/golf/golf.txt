@@ -5702,7 +5702,6 @@ geoaesthesia
 ganglioneuron
 gestning
 gelts
-glassmaker
 guacharo
 gathered
 goniometrically
@@ -9732,6 +9731,7 @@ gropple
 gasses
 geon
 gazet
+glassmaker
 granola
 ghostlier
 gruffier
