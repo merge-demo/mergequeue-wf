@@ -4481,6 +4481,7 @@ generically
 gristles
 geophytes
 gypsyhead
+geomagnetism
 gloeocapsoid
 girlie
 grantiidae
@@ -8100,7 +8101,6 @@ granitiform
 geomancer
 gaslightness
 granitite
-geomagnetism
 ghain
 grudgeful
 genteelish
