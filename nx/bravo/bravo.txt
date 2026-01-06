@@ -1415,7 +1415,6 @@ backjoint
 balearica
 balebos
 baled
-boviculture
 baleen
 badmash
 bobance
@@ -13659,6 +13658,7 @@ batteried
 barra
 binning
 beclouded
+boviculture
 botulism
 blousy
 blepharophyma
