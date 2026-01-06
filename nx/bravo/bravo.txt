@@ -4113,7 +4113,6 @@ blanchimeter
 bearding
 balminess
 banda
-beslimer
 beards
 barbers
 birthroot
@@ -14665,6 +14664,7 @@ brants
 bararesque
 branular
 babyishly
+beslimer
 basiparaplastin
 brachiopodous
 buffware
