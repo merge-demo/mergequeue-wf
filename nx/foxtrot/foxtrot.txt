@@ -430,6 +430,7 @@ fronde
 farcy
 ficoes
 faq
+fadeaway
 firetrap
 frustraneous
 frabjous
@@ -4994,7 +4995,6 @@ fact
 forestcraft
 foveolets
 flickermouse
-fadeaway
 fringiest
 formalise
 frappeed
