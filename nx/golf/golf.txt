@@ -404,7 +404,6 @@ galaxes
 gispin
 galaxias
 gastroenteralgia
-gneu
 gimmerpet
 gymmal
 glomeration
@@ -6283,6 +6282,7 @@ gobiid
 gonfalons
 gobylike
 gnashed
+gneu
 gotham
 griece
 gladwin
