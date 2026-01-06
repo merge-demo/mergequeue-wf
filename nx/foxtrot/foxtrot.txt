@@ -483,7 +483,6 @@ friggle
 fondues
 fulminating
 fluctisonous
-ferk
 frostroot
 faithlessness
 fringeless
@@ -10053,6 +10052,7 @@ flee
 flatwork
 flowe
 foretrace
+ferk
 fellsman
 forereading
 fantod
