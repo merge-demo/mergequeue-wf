@@ -3862,6 +3862,7 @@ fellowshiping
 fecundating
 ferocactus
 financer
+ferratin
 fripperies
 fevertrap
 footslogged
@@ -5706,7 +5707,6 @@ fiddlestring
 fishwife
 flinkite
 fluffer
-ferratin
 footpound
 folioliferous
 fonly

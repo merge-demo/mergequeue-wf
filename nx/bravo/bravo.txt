@@ -1948,7 +1948,6 @@ bandsman
 bandstand
 beacon
 beseechment
-broadly
 bisection
 bagnio
 balances
@@ -11112,6 +11111,7 @@ broil
 baobabs
 blockmaker
 bimmeler
+broadly
 blockpate
 bashawship
 balmiest
