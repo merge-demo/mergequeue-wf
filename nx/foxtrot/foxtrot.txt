@@ -1697,6 +1697,7 @@ feria
 forehandsel
 fearsomeness
 foreshape
+flowerlike
 feased
 folic
 fumigant
@@ -1938,7 +1939,6 @@ fone
 foursquarely
 feeb
 feeblemindedly
-flowerlike
 festshrifts
 fainaiguing
 forbite
