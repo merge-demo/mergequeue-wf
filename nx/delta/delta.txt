@@ -2605,6 +2605,7 @@ demiquaver
 dashes
 diformin
 decoctive
+dinero
 deaminizing
 demishirt
 drudgery
@@ -13940,7 +13941,6 @@ dachs
 distillmint
 distinction
 devilled
-dinero
 disorganizer
 donatiaceae
 distinctity
