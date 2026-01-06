@@ -19397,6 +19397,7 @@ crossarms
 coloraturas
 carnivoracity
 colorature
+cursedness
 celesta
 colorblind
 cartomancies
@@ -31517,7 +31518,6 @@ coservant
 cursa
 curse
 cursedly
-cursedness
 calciferous
 cutaneous
 conoclinium
