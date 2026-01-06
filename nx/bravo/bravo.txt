@@ -1320,6 +1320,7 @@ beclouds
 benzamino
 barbed
 bowwood
+budgy
 balases
 balat
 batman
@@ -1487,7 +1488,6 @@ balkiest
 byronize
 balkiness
 balking
-budgy
 backbiter
 bootlegged
 blighter

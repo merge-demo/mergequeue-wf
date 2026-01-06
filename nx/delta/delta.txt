@@ -13531,7 +13531,6 @@ deticks
 demonomy
 dissavs
 drumbeater
-dissceptered
 dislike
 dissceptre
 deceivance
@@ -15374,6 +15373,7 @@ dislocatedly
 disencumbrance
 domett
 demicivilized
+dissceptered
 deipara
 dorical
 demoralisation
