@@ -5922,6 +5922,7 @@ embuskin
 enterocholecystostomy
 ephemeron
 excursive
+ere
 exclave
 ethmonasal
 enheart
@@ -6037,7 +6038,6 @@ empiry
 estoque
 expromissor
 expire
-ere
 epiglottises
 edginess
 epiphytotic
