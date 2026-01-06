@@ -4916,7 +4916,6 @@ flakiest
 flaneur
 forged
 frequentable
-flambeau
 foamier
 fixate
 florisugent
@@ -9974,6 +9973,7 @@ fumatorium
 freckled
 fa
 frigage
+flambeau
 frigates
 flocculated
 flavin
