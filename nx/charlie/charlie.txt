@@ -4137,7 +4137,6 @@ camelishness
 copydesks
 cardiform
 cardigan
-cameoing
 cornmaster
 condalia
 cardin
@@ -25292,6 +25291,7 @@ corkscrew
 cyanotrichite
 cacophonize
 choom
+cameoing
 corkwing
 cormac
 cormel
