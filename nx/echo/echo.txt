@@ -3108,7 +3108,6 @@ epicurish
 eardrop
 enseraph
 ellfish
-exor
 endarterium
 estriate
 entellus
@@ -9599,6 +9598,7 @@ eupomatiaceae
 esophagoplasty
 enigmatic
 embodiment
+exor
 elaboratively
 endodermal
 eudiometrical
