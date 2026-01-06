@@ -6682,7 +6682,6 @@ allomerize
 agglutination
 atrioporal
 ainus
-anterodorsal
 antemetic
 ardour
 atole
@@ -12295,6 +12294,7 @@ allumine
 atheroma
 amebiasis
 aortolith
+anterodorsal
 absistos
 andriana
 auk
