@@ -1683,7 +1683,6 @@ eases
 eligent
 ecumenist
 evectional
-extinguishes
 enlivening
 euphuized
 ethylenes
@@ -2303,6 +2302,7 @@ exormia
 enbloc
 endolymph
 excretal
+extinguishes
 encased
 egest
 equality
