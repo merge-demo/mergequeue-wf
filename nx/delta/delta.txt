@@ -3556,6 +3556,7 @@ dingles
 danke
 dermatotome
 drawbeam
+dewanee
 dihexagonal
 dissheathe
 dehwar
@@ -5727,7 +5728,6 @@ deplumes
 doblones
 dentation
 deeply
-dewanee
 deoxidiser
 disobeyal
 demonland
