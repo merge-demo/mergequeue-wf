@@ -1186,7 +1186,6 @@ expectancies
 extramental
 educand
 edification
-emulsive
 evanished
 educatability
 empathize
@@ -6917,6 +6916,7 @@ evaporable
 embelif
 epiblema
 epitrchelia
+emulsive
 exarchal
 elasticize
 escudos
