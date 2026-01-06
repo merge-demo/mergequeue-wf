@@ -2307,6 +2307,7 @@ geomoroi
 grange
 glazer
 gynarchy
+gneisses
 give
 guitguit
 glycerophosphoric
@@ -6908,7 +6909,6 @@ grassman
 geneserine
 gulosity
 genips
-gneisses
 gallotannic
 gaoling
 geochemically
