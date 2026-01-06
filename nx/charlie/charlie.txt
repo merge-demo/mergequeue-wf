@@ -9343,7 +9343,6 @@ chauk
 calodaemon
 catagmatic
 chaukidari
-chullo
 chaulmaugra
 chaulmoogra
 choralist
@@ -16537,6 +16536,7 @@ cuve
 changoan
 commercialisation
 cheddite
+chullo
 cid
 cnidosac
 concentring
