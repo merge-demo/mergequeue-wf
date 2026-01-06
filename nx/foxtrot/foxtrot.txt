@@ -2028,6 +2028,7 @@ frontspiece
 feinter
 feudary
 forgivableness
+flunking
 fundi
 facedown
 flitty
@@ -8803,7 +8804,6 @@ fiberglass
 footnoted
 floret
 forechurch
-flunking
 fjerding
 formula
 falcopern
