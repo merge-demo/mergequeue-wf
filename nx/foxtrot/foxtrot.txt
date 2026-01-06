@@ -4623,6 +4623,7 @@ fleckless
 fruiteries
 fruitgrowing
 fitchew
+fruitages
 fitified
 fluoridizing
 fally
@@ -6506,7 +6507,6 @@ fishplate
 funambulation
 foulness
 fictor
-fruitages
 fissilingual
 flatboat
 frosted
