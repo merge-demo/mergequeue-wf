@@ -1153,7 +1153,6 @@ footprints
 fitted
 flexures
 flippers
-formosan
 forefends
 flockling
 flagrance
@@ -3775,6 +3774,7 @@ ferritization
 friponerie
 frocklike
 filigreeing
+formosan
 forestall
 foxer
 filmstrips
