@@ -2432,7 +2432,6 @@ furzery
 falla
 filechar
 fornax
-fomites
 fungal
 foliocellosis
 freethink
@@ -4978,6 +4977,7 @@ flyway
 feebleheartedly
 faust
 flammule
+fomites
 fatidic
 flatness
 foreladies
