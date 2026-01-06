@@ -4898,7 +4898,6 @@ elepaio
 extrabranchial
 excitoglandular
 empoisons
-ebulliometer
 exoperidium
 ecchymoses
 exies
@@ -7298,6 +7297,7 @@ eumitosis
 epochism
 exception
 epalpebrate
+ebulliometer
 eurypylous
 eternises
 eelshop
