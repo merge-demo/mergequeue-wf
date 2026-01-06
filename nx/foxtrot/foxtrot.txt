@@ -3905,7 +3905,6 @@ furthers
 formature
 fuddlement
 fischerite
-firmamental
 flavours
 fraple
 ferrocyanogen
@@ -6008,6 +6007,7 @@ fidia
 fraternity
 fireproof
 funambuloes
+firmamental
 fictioneering
 feldsher
 floorwise
