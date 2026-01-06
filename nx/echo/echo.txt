@@ -4127,7 +4127,6 @@ electrovalence
 endocritic
 employe
 edictum
-estado
 epigene
 enlief
 epicanthus
@@ -14000,6 +13999,7 @@ eustacy
 endogen
 extraregularly
 expirers
+estado
 exiling
 extrication
 exsertile

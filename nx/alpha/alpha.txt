@@ -12211,7 +12211,6 @@ anticipate
 anconas
 ancony
 amblyopsis
-anconoid
 aruncus
 argufiers
 ancora
@@ -24088,6 +24087,7 @@ accusatrix
 approximable
 autoecism
 alloimmune
+anconoid
 anacondas
 abrine
 apogenous
