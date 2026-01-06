@@ -6442,7 +6442,6 @@ exorcise
 ensorceled
 encephalometer
 earfuls
-encheck
 exercisable
 ensorcellment
 emigrant
@@ -9009,6 +9008,7 @@ ea
 eteocretes
 edriophthalma
 erythrite
+encheck
 enthralment
 emaciating
 enfeeblement
