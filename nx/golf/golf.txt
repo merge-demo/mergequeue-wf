@@ -1424,6 +1424,7 @@ gloves
 garreteer
 greenless
 gola
+glycyrrhiza
 garret
 graffer
 gamostelic
@@ -3204,7 +3205,6 @@ graplin
 glycans
 gazon
 gabler
-glycyrrhiza
 guildsman
 glaze
 geomantically
