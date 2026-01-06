@@ -7920,7 +7920,6 @@ brey
 blockhouse
 byron
 bibliophil
-benward
 barff
 bulbomembranous
 byzantium
@@ -9463,6 +9462,7 @@ bireme
 begeck
 bacteriostat
 babishly
+benward
 betassel
 bookholder
 bulimulidae
