@@ -5528,7 +5528,6 @@ eucarida
 epigrammatised
 enhusk
 enfeeblish
-emaciation
 effectful
 epilimnetic
 euhemerizing
@@ -13773,6 +13772,7 @@ extolling
 enouncement
 ethologist
 extollingly
+emaciation
 elephas
 extolls
 eskimos
