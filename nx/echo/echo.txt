@@ -7482,6 +7482,7 @@ electrostenolysis
 elite
 electrosynthesis
 ethylate
+egma
 epibatholithic
 electrodepositor
 ensignhood
@@ -10479,7 +10480,6 @@ ericius
 enteroviral
 exopterygota
 etherin
-egma
 epochist
 exalate
 elance

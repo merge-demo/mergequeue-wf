@@ -174,7 +174,6 @@ diestocks
 dressage
 delicates
 doweral
-dirtier
 daedalea
 didromies
 degami
@@ -2968,6 +2967,7 @@ deductio
 deductions
 dwarfism
 distrainment
+dirtier
 deductive
 deductory
 deducts
