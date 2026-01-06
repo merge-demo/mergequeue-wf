@@ -10918,7 +10918,6 @@ aromatizing
 acheat
 apoplectic
 abomasum
-aoife
 atrichous
 autogeny
 avowter
@@ -19551,6 +19550,7 @@ anoles
 authenticness
 amphidromic
 angularize
+aoife
 argufying
 anklets
 aubusson
