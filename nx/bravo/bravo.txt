@@ -2093,7 +2093,6 @@ bcf
 baldest
 blesses
 bannerols
-bannisters
 birthmarks
 bioflavinoid
 buyers
@@ -15553,6 +15552,7 @@ burrfish
 baldpates
 buteo
 briniest
+bannisters
 bemuck
 brunonian
 bibbers
