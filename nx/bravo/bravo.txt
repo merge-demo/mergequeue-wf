@@ -2678,6 +2678,7 @@ begrimming
 barmaster
 barkeep
 benzoic
+boletaceae
 brutus
 barmcloth
 brither
@@ -11414,7 +11415,6 @@ boro
 baronetical
 breams
 bandits
-boletaceae
 bluebottle
 bouncily
 bitterworm
