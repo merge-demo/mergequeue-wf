@@ -1028,7 +1028,6 @@ botargos
 bailiffs
 blennorrhea
 billons
-busway
 blotted
 bustiest
 boyaus
@@ -12945,6 +12944,7 @@ backtrail
 bonhomie
 boothage
 boothale
+busway
 baronetcies
 badge
 beknotted
