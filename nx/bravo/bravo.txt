@@ -4217,6 +4217,7 @@ belittling
 bibliomaniac
 blackwasher
 beaumont
+bilinguality
 bromol
 beaupere
 beausire
@@ -9991,7 +9992,6 @@ brian
 bx
 bituminous
 beryllate
-bilinguality
 bridleman
 burbles
 biases
