@@ -1596,6 +1596,7 @@ ballistician
 brachioganoidei
 ballflower
 ballywack
+byelaws
 basalt
 brooder
 bootstrapping
@@ -5600,7 +5601,6 @@ baghla
 barbitone
 businessmen
 bardes
-byelaws
 bedeen
 buzzwig
 brokenness
