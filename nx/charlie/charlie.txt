@@ -16367,7 +16367,6 @@ cliquedom
 cliqueier
 cycloacetylene
 cretinize
-cliqueyness
 cheetie
 cytome
 collocalia
@@ -30241,6 +30240,7 @@ crumbed
 chooky
 corm
 caingang
+cliqueyness
 crumble
 crumbles
 crumblet
