@@ -457,6 +457,7 @@ fogmen
 flameholder
 fairway
 fulminate
+faciendum
 fragilariaceae
 fiberizing
 fieldbird
@@ -8956,7 +8957,6 @@ fountain
 fragged
 fronded
 fossicker
-faciendum
 filosus
 faultfinder
 funambulist
