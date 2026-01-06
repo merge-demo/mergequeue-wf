@@ -13307,7 +13307,6 @@ chemiatry
 cycloid
 coalshed
 cogswellia
-culmicolous
 cycloidotrope
 capercailzie
 cesura
@@ -28018,6 +28017,7 @@ coltish
 crayons
 comedic
 coxarthritis
+culmicolous
 craisey
 consorts
 contemptuousness
