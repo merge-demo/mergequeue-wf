@@ -5713,6 +5713,7 @@ deplorability
 dogeless
 duals
 deplorableness
+derivers
 disrepair
 deplore
 deplorer
@@ -9178,7 +9179,6 @@ diminutively
 diedric
 deuteromorphic
 diego
-derivers
 dodonian
 destinist
 diehard
