@@ -5195,6 +5195,7 @@ embossment
 epigastrial
 endointoxication
 euryalida
+equipendent
 endorser
 empathizing
 endolymphatic
@@ -8624,7 +8625,6 @@ elinguating
 equilibrates
 exonerators
 ethylamide
-equipendent
 enhance
 egol
 equilibria

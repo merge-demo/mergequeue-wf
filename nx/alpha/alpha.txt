@@ -1425,7 +1425,6 @@ atka
 anticatalytic
 accessorize
 acciaccaturas
-afterdeath
 apostatizing
 axletrees
 accidencies
@@ -12839,6 +12838,7 @@ antennarius
 antiliturgically
 awkward
 acinetaria
+afterdeath
 anglophilic
 autotype
 adenine
