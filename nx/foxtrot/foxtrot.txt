@@ -2555,6 +2555,7 @@ fouty
 flossiness
 franchiser
 frogstool
+flecnode
 fibrocytic
 firstness
 folklorists
@@ -8101,7 +8102,6 @@ furnitures
 fierasferid
 fanums
 fumigating
-flecnode
 fiendfully
 forests
 fissuriform
