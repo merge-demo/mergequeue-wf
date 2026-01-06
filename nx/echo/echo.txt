@@ -9661,7 +9661,6 @@ embedder
 extortionist
 exalts
 encounterers
-eclipsable
 embryotomies
 electrophysiologist
 ectocarpaceae
@@ -12422,6 +12421,7 @@ eisegeses
 entomostracan
 exhorts
 exaltations
+eclipsable
 elusoriness
 esquire
 enlimn
