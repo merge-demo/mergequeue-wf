@@ -4367,7 +4367,6 @@ demembre
 disassembled
 dementation
 dementholize
-disseated
 dementia
 desoxyribonucleoprotein
 dropshots
@@ -10844,6 +10843,7 @@ defectors
 debunkment
 diopter
 diletant
+disseated
 desmidiaceous
 dutchess
 digit
