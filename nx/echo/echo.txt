@@ -8845,7 +8845,6 @@ etymologicon
 entophytic
 equinox
 equiprobabilist
-eternities
 egyptologic
 encrypt
 emptive
@@ -13931,6 +13930,7 @@ ethoxyl
 eyestalk
 extraofficial
 earnestly
+eternities
 expertship
 endromis
 eleutheri
