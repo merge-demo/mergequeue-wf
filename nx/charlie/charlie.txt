@@ -29365,6 +29365,7 @@ catalogs
 cryptoproselyte
 cryptorchis
 curara
+curving
 corebox
 candroy
 cryptorchism
@@ -31622,7 +31623,6 @@ curvilinead
 carpingly
 curvimeter
 curviness
-curving
 conculcation
 curviserial
 curvital
