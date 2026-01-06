@@ -2872,6 +2872,7 @@ disjointedness
 doveling
 disgenius
 differently
+disinclose
 deepest
 denticles
 dictyopteris
@@ -5614,7 +5615,6 @@ dephlegmedness
 dess
 diasene
 detache
-disinclose
 dephlogistication
 displuming
 disseveration
