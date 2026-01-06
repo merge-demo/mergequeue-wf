@@ -711,7 +711,6 @@ arteriopressor
 abradants
 anodendron
 aver
-alternize
 anglicized
 animine
 antivaccination
@@ -1383,6 +1382,7 @@ armonica
 anophthalmos
 allotriodontia
 avestruz
+alternize
 achiever
 acceptee
 actinomycotic
