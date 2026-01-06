@@ -6886,7 +6886,6 @@ beseam
 bisannual
 bluegills
 birlers
-blandly
 beshake
 bentinck
 bendel
@@ -18270,6 +18269,7 @@ bde
 bilaminate
 bullate
 berryman
+blandly
 baldy
 basque
 beydom
