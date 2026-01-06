@@ -4850,6 +4850,7 @@ aerodonetics
 appeasement
 amnesiac
 aerodontalgia
+agamidae
 arcanum
 algorithms
 antipedal
@@ -5659,7 +5660,6 @@ ascertainer
 argillocalcareous
 alderney
 ambilian
-agamidae
 assheadedness
 aftertouch
 achaeta
