@@ -2525,7 +2525,6 @@ beruffled
 biggy
 boccia
 blueblack
-beslash
 bassetite
 bottonhook
 barguest
@@ -3820,6 +3819,7 @@ bausond
 birthland
 bautta
 bauxite
+beslash
 balsamically
 blistery
 blvd
