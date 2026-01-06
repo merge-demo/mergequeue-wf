@@ -2861,7 +2861,6 @@ deperm
 dihydronicotine
 dozens
 dramatizations
-donors
 dynatron
 decumanus
 decartelize
@@ -15578,6 +15577,7 @@ dentolingual
 deconcatenate
 deorganization
 drying
+donors
 determinedly
 dool
 duumviri
