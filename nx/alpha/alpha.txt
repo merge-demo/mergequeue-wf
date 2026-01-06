@@ -2409,7 +2409,6 @@ aphrite
 apantesis
 antestature
 adight
-accus
 ackees
 apprehensibility
 adance
@@ -14157,6 +14156,7 @@ allomorph
 agglutinant
 abrahamic
 arent
+accus
 anisaldehyde
 ananter
 anteroinferior
