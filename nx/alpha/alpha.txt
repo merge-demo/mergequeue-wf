@@ -1356,6 +1356,7 @@ aumbries
 alphabetising
 accelerometer
 accelerometers
+adamancy
 anticatholic
 aurang
 anapaestical
@@ -16364,7 +16365,6 @@ alyssums
 arcos
 amazes
 anguidae
-adamancy
 antizoea
 allobrogical
 ascidiia
