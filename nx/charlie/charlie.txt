@@ -9247,7 +9247,6 @@ cheering
 corf
 chastity
 chastities
-chockstone
 chasubled
 championed
 cooper
@@ -11540,6 +11539,7 @@ chokedamp
 chokeys
 camerata
 congenetic
+chockstone
 coronofrontal
 choker
 courbache
