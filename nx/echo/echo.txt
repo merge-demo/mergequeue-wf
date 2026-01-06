@@ -965,6 +965,7 @@ entada
 ethnarch
 ecttypal
 equates
+euskaric
 emanatory
 exeresis
 ecuadorian
@@ -13118,7 +13119,6 @@ erymanthian
 euthyneurous
 enzymic
 extradicted
-euskaric
 exfodiate
 enunciators
 eternality
