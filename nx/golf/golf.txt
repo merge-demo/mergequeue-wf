@@ -2915,7 +2915,6 @@ geobotanic
 gustation
 gradualism
 gomlah
-gamopetalous
 gaincope
 galluot
 gomphoses
@@ -3819,6 +3818,7 @@ glomerule
 gunong
 giantsize
 gaub
+gamopetalous
 gouvernantes
 giarra
 gherao
