@@ -5196,7 +5196,6 @@ flatulentness
 flangeway
 futter
 footpaddery
-francolin
 frozenhearted
 fruiters
 fedifragous
@@ -7317,6 +7316,7 @@ fallibilism
 figuring
 forescript
 fiants
+francolin
 freshment
 femereil
 fibrilations
