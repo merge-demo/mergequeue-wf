@@ -5248,7 +5248,6 @@ gaited
 gyrovagi
 gemmipara
 glycosine
-golgi
 genuflectory
 golf
 gab
@@ -7107,6 +7106,7 @@ granger
 gambrels
 gopherberry
 guernsey
+golgi
 gopherberries
 goatherd
 gothics
