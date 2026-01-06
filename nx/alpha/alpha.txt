@@ -16285,6 +16285,7 @@ antitrade
 aconuresis
 aslaver
 alcicornium
+athenor
 aitchless
 adamants
 anhydrosis
@@ -22649,7 +22650,6 @@ atheneum
 atheneums
 ait
 aerates
-athenor
 abdominohysterotomy
 athericera
 athericeran
