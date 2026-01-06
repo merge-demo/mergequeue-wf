@@ -805,6 +805,7 @@ fichteanism
 feil
 farmost
 forecovert
+fiddler
 fanfolds
 fecundize
 funicle
@@ -7674,7 +7675,6 @@ fools
 faluns
 forefield
 factitiousness
-fiddler
 fructosan
 flimsilyst
 flips
