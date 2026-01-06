@@ -1859,7 +1859,6 @@ declaratory
 douvecot
 dorsale
 dudgeon
-deblai
 deblaterate
 daubries
 deblateration
@@ -13578,6 +13577,7 @@ dismeasured
 dabster
 discretionary
 defervescing
+deblai
 decussation
 depressional
 dissension
