@@ -9975,7 +9975,6 @@ amblygonal
 allergology
 attractant
 absinthic
-amblyomma
 abrupt
 adrenal
 arles
@@ -24925,6 +24924,7 @@ awaking
 adaize
 automotor
 arseniosiderite
+amblyomma
 ankylose
 adroit
 antidiphtheritic
