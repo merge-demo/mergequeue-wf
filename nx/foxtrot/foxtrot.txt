@@ -5432,6 +5432,7 @@ fusarole
 fennel
 ferroconcretor
 friending
+fullbodied
 frigefact
 forbids
 futurity
@@ -9400,7 +9401,6 @@ frankfurters
 fivers
 functionary
 fastenings
-fullbodied
 frails
 fisheater
 familiarities

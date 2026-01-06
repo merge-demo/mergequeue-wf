@@ -5772,7 +5772,6 @@ empressements
 epigraphy
 expressions
 enneahedral
-epiphysitis
 envelopment
 extirp
 englut
@@ -7776,6 +7775,7 @@ excyst
 electromagnetize
 extrudable
 envisage
+epiphysitis
 eudaimonism
 ethnobotany
 endearedly
