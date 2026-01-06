@@ -19308,7 +19308,6 @@ cowinners
 carshop
 caryatic
 colonical
-critically
 colonies
 colonisability
 colonisable
@@ -24402,6 +24401,7 @@ cosmoramic
 coolness
 coolnesses
 cools
+critically
 coolung
 coolweed
 coolwort
