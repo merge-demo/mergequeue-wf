@@ -3976,6 +3976,7 @@ formability
 forechoose
 forestalled
 flattish
+fluting
 forfeited
 flunk
 fallacious
@@ -6554,7 +6555,6 @@ fungi
 floodboard
 fierabras
 flytail
-fluting
 freakishly
 finalizing
 flasque
