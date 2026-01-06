@@ -3431,7 +3431,6 @@ fiftieth
 florilegia
 fletton
 figeater
-floriate
 funambulism
 feud
 futileness
@@ -7762,6 +7761,7 @@ florian
 freeish
 falconlike
 fretty
+floriate
 furs
 forsaken
 fungaceous
