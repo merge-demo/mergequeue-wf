@@ -11926,7 +11926,6 @@ cosharer
 congenitalness
 chordate
 chorded
-choriso
 cst
 contradictive
 chording
@@ -14829,6 +14828,7 @@ choroidal
 cytoderm
 cytodiagnosis
 coinferred
+choriso
 collectanea
 commiseratively
 cytogenetic
