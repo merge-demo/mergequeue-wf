@@ -4296,7 +4296,6 @@ gelidness
 gorgonia
 grugrus
 gyrinidae
-guinfo
 gelsemia
 germicide
 gymnadenia
@@ -10315,6 +10314,7 @@ galactosidase
 girasol
 gault
 granulations
+guinfo
 getsul
 glassfuls
 gullygut
