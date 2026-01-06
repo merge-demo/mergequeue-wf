@@ -6801,6 +6801,7 @@ gravilea
 glycosyls
 gonochorismal
 geryonia
+gonk
 guarding
 gris
 glutimate
@@ -10219,7 +10220,6 @@ guile
 gyrectomies
 galluses
 groundsel
-gonk
 gnathoplasty
 geotonus
 glamourously
