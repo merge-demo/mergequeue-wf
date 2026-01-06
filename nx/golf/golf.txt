@@ -5279,7 +5279,6 @@ gammers
 gledes
 geophilus
 guarea
-grenier
 glyceria
 gossipee
 grangerite
@@ -6647,6 +6646,7 @@ goneness
 gonidangium
 glucagons
 gonepoiesis
+grenier
 gingivectomy
 gash
 geostatic
