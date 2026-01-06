@@ -1078,7 +1078,6 @@ ead
 ensanguining
 edhs
 evanesced
-esculic
 envergure
 exostotic
 edible
@@ -5796,6 +5795,7 @@ elephant
 epididymal
 epicrasis
 electroencephalograms
+esculic
 egyptologer
 embraces
 engrammic
