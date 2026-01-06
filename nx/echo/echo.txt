@@ -4047,7 +4047,6 @@ empirema
 estately
 exopoditic
 evangelistarium
-elsewhen
 exoenzyme
 evangelizes
 executrices
@@ -11263,6 +11262,7 @@ enthronized
 evangelistic
 epedaphic
 epidictical
+elsewhen
 exserts
 exundate
 entelluses
