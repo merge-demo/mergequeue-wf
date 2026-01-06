@@ -3634,7 +3634,6 @@ flawier
 forelooper
 floorings
 fuzzing
-followeth
 funnelling
 friskers
 fertilised
@@ -7364,6 +7363,7 @@ fructed
 favelloid
 fishier
 fleeched
+followeth
 fixation
 foraying
 freycinetia
