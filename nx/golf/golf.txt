@@ -5166,7 +5166,6 @@ gesticulator
 guavas
 gallates
 geosyncline
-genipap
 gemman
 grapelike
 guidwillie
@@ -10690,6 +10689,7 @@ glazers
 gurnet
 goodmanship
 gildings
+genipap
 girdlers
 goldbrickers
 grabs
