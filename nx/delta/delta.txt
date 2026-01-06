@@ -4766,6 +4766,7 @@ deparliament
 demolisher
 daily
 destine
+dukery
 discide
 discharge
 demolition
@@ -7825,7 +7826,6 @@ divertise
 draughtsboard
 donnered
 duomos
-dukery
 disproving
 devove
 discombobulates
