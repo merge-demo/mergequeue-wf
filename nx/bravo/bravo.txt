@@ -2125,7 +2125,6 @@ borasco
 birthrights
 beleaguerment
 braccae
-bosomer
 booms
 bosch
 brouillon
@@ -12667,6 +12666,7 @@ bleekbok
 bahuma
 beshadows
 bonze
+bosomer
 butterhead
 bonzer
 betattered
