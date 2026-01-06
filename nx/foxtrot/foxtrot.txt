@@ -3550,7 +3550,6 @@ fairylands
 foggily
 frenchism
 fermentology
-fogie
 flamboyance
 fencelet
 flymen
@@ -10393,6 +10392,7 @@ footgeld
 firs
 fleing
 feigning
+fogie
 foxgloves
 foliation
 frontbencher
