@@ -3268,7 +3268,6 @@ acutest
 authorcraft
 anticipator
 aedine
-additament
 acutilingual
 axal
 acutilobate
@@ -24537,6 +24536,7 @@ aerophile
 abstrude
 aglaos
 athwart
+additament
 abbreviatable
 auxiliaries
 abigailship
