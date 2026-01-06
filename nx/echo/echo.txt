@@ -1555,6 +1555,7 @@ endosternum
 exradio
 episcopised
 evoke
+enterocoelic
 electrodialyzer
 embow
 encarnadine
@@ -4914,7 +4915,6 @@ extrabureau
 erythroneocytosis
 ephyrula
 eyednesses
-enterocoelic
 enforcingly
 electrodialysis
 escaroles
