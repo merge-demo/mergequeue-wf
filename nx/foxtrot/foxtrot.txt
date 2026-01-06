@@ -8060,7 +8060,6 @@ flutterer
 fitment
 fimble
 faroese
-friesian
 footstools
 ferroalloy
 faunally
@@ -8666,6 +8665,7 @@ fytte
 ferroboron
 flattest
 farstepped
+friesian
 fantasizing
 frictionproof
 faintest
