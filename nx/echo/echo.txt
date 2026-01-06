@@ -6940,6 +6940,7 @@ elbowpiece
 encradle
 esau
 entoprocta
+expergefaction
 entoptic
 entoptics
 epiphytous
@@ -13085,7 +13086,6 @@ endromididae
 erasement
 expensiveness
 expergefacient
-expergefaction
 embedding
 epicyesis
 esterize
