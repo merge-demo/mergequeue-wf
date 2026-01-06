@@ -2921,6 +2921,7 @@ feveret
 forefending
 froggy
 foredecks
+florivorous
 friedman
 forefault
 forworden
@@ -9413,7 +9414,6 @@ fastenings
 fullbodied
 frails
 fisheater
-florivorous
 familiarities
 furniment
 foolhead
