@@ -2370,6 +2370,7 @@ greengrocer
 grubbiness
 gainturn
 gillnet
+gnarled
 garrulously
 ghazal
 georgette
@@ -10728,7 +10729,6 @@ graphometric
 gloms
 gairfish
 gassers
-gnarled
 gaddi
 guergal
 gustatorial

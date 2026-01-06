@@ -2154,7 +2154,6 @@ blandfordia
 backup
 blahlaut
 baptisias
-bonehead
 bricksetter
 burnishes
 bonsai
@@ -10519,6 +10518,7 @@ bakestone
 bop
 brainy
 bridgewards
+bonehead
 bodywood
 burin
 blastomyces
