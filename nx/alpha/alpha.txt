@@ -2342,7 +2342,6 @@ athetoid
 absorbed
 acieration
 apiary
-acies
 altometer
 acyetic
 apprehend
@@ -24698,6 +24697,7 @@ acnode
 averral
 alii
 aloxite
+acies
 adelopod
 adelphi
 amusedly
