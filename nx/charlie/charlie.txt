@@ -25583,7 +25583,6 @@ cristivomer
 colugos
 corporalities
 corporals
-cytostatically
 citronellic
 corporalship
 corporas
@@ -27531,6 +27530,7 @@ creaturehood
 cover
 coverable
 coverages
+cytostatically
 cuselite
 convito
 coveralled
