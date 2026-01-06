@@ -9287,6 +9287,7 @@ euchologia
 emetics
 eugeosynclinal
 elytrin
+embue
 errors
 estramazone
 ecrustaceous
@@ -13707,7 +13708,6 @@ ermanaric
 equiaxe
 ergocalciferol
 enginous
-embue
 endothelioblastoma
 exhaustedness
 externity
