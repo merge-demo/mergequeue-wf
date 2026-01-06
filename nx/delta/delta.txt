@@ -5779,6 +5779,7 @@ dowve
 disimitation
 dietaries
 dovekeys
+diplanar
 decaliter
 deportability
 deportations
@@ -12341,7 +12342,6 @@ discuren
 disguisay
 dyschiria
 disguisedly
-diplanar
 dyestuffs
 dulcimer
 decimator
