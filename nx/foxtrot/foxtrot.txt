@@ -3682,7 +3682,6 @@ flags
 frownless
 fiercen
 feodal
-frousiest
 facebread
 fortnightly
 fillies
@@ -5822,6 +5821,7 @@ flitterbat
 fumeroot
 flaughter
 fallage
+frousiest
 forgettingly
 fastigium
 fellowess
