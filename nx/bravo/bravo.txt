@@ -11436,6 +11436,7 @@ blears
 browbands
 blued
 basisolute
+bookshop
 ballones
 bluefin
 blaseness
@@ -12807,7 +12808,6 @@ behemoth
 bashes
 bookselling
 bescreened
-bookshop
 betoyan
 bonanza
 bakutu

@@ -3563,7 +3563,6 @@ captivance
 cautiousness
 cucurbitine
 chaired
-cajoled
 colostral
 captivated
 covet
@@ -15712,6 +15711,7 @@ cytoryctes
 clubbability
 coinfinity
 cellarmen
+cajoled
 camwood
 clavelization
 commonplaceness
