@@ -5821,6 +5821,7 @@ gurgoyl
 geocarpic
 galumptious
 glt
+gorkhali
 gatten
 gonophoric
 gendarmes
@@ -7610,7 +7611,6 @@ gambians
 grab
 guanamine
 gullibility
-gorkhali
 groaningly
 guarantied
 gravimetrically
