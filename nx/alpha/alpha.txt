@@ -6740,7 +6740,6 @@ airdrome
 airdromes
 airdrop
 advertizing
-apart
 amiga
 airdropping
 aired
@@ -18315,6 +18314,7 @@ ampullitis
 arachnism
 apotheoses
 anaesthetizing
+apart
 asor
 arachnoidea
 antinial
