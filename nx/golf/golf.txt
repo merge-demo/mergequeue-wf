@@ -3099,7 +3099,6 @@ gucki
 geocline
 grits
 grenadines
-gipping
 geophagism
 gemels
 grubhood
@@ -7633,6 +7632,7 @@ gyn
 gunsel
 grunch
 graphic
+gipping
 gracilis
 gracing
 gimblet
