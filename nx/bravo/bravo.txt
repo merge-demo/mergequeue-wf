@@ -4724,7 +4724,6 @@ basiophitic
 birdbrain
 boubas
 bedkey
-bandpass
 braved
 braze
 bootlegger
@@ -12461,6 +12460,7 @@ barker
 bareboats
 bureaux
 bootstrap
+bandpass
 banisterine
 bond
 bipinnatifid
