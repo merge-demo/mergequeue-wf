@@ -4911,7 +4911,6 @@ burrowstown
 beyerite
 battled
 beefalo
-beefaloes
 basketweaving
 birefringence
 bilimbis
@@ -10265,6 +10264,7 @@ bumicky
 bisulphate
 bisexual
 buds
+beefaloes
 barratry
 bibby
 bloomingness
