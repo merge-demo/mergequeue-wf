@@ -5007,7 +5007,6 @@ fleetingness
 flood
 faured
 flaneurs
-flanked
 formulaically
 feignedness
 fledging
@@ -8050,6 +8049,7 @@ forestalling
 forestalls
 fordrive
 funerals
+flanked
 flutterer
 fitment
 fimble
