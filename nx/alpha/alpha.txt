@@ -5009,7 +5009,6 @@ aerostatic
 aerostatical
 argas
 appertain
-aberuncate
 androgyneity
 aerotaxis
 agacant
@@ -23746,6 +23745,7 @@ acetifier
 avowance
 alto
 auspice
+aberuncate
 authenticated
 asouth
 aerohydroplane
