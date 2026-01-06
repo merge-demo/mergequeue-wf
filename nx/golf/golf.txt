@@ -1066,6 +1066,7 @@ gompholobium
 gooranut
 galvanometry
 ganglioma
+gasteropod
 gangliomas
 ganglionate
 ganglionated
@@ -3401,7 +3402,6 @@ goog
 giftie
 gaults
 germin
-gasteropod
 gobemouche
 gymnurine
 guitermanite
