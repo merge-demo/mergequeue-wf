@@ -5595,6 +5595,7 @@ burgonets
 bruscus
 belash
 blobbed
+bomi
 bumbard
 bombloads
 belaboring
@@ -12408,7 +12409,6 @@ bustled
 beswarmed
 bombus
 bombardelle
-bomi
 bomos
 beloveds
 bon
