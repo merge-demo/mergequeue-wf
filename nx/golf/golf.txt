@@ -2205,7 +2205,6 @@ guberniya
 gabs
 gingery
 glossmeter
-guideress
 gadolinic
 ganophyllite
 gymnastical
@@ -3327,6 +3326,7 @@ german
 geckos
 gunstocks
 germanify
+guideress
 graminiferous
 germanification
 gadso
