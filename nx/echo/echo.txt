@@ -5393,7 +5393,6 @@ empyreum
 eophyte
 electrogild
 eccentrometer
-endothermal
 ectopatagia
 erthling
 electively
@@ -8789,6 +8788,7 @@ eremitish
 eradicant
 epineolithic
 equilibrity
+endothermal
 embossable
 enround
 electrodepositable
