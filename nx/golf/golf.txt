@@ -638,7 +638,6 @@ geodetic
 gunpaper
 guenepe
 guideline
-gramineal
 gardencraft
 gallomaniac
 gallon
@@ -2348,6 +2347,7 @@ geistlich
 galvanography
 graviton
 gravamina
+gramineal
 gamine
 geomaly
 gelatinizer
