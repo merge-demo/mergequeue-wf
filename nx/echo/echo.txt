@@ -1265,7 +1265,6 @@ escalade
 eelboat
 eudendrium
 epicures
-enjoyable
 enroot
 efficiently
 earthshock
@@ -6811,6 +6810,7 @@ entocyemate
 efoliolate
 enneatic
 elephancy
+enjoyable
 encinillo
 endowed
 escribing
