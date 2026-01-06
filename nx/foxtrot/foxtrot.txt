@@ -9014,7 +9014,6 @@ foelike
 feature
 foursquareness
 faustian
-fraternalist
 frangibleness
 fourteenths
 froren
@@ -9729,6 +9728,7 @@ furcellaria
 forcipulate
 foamingly
 feoffor
+fraternalist
 faying
 fremontodendron
 fumacious
