@@ -323,7 +323,6 @@ bellybuttons
 bonassus
 beemaster
 backen
-backer
 backet
 balustered
 bangala
@@ -4634,6 +4633,7 @@ bedeafening
 baghouse
 bothriums
 bilberry
+backer
 bedecked
 bedrid
 bedecking
