@@ -7283,6 +7283,7 @@ dollies
 diaxone
 disturbor
 desiccative
+disassembles
 doukhobor
 devisers
 defecters
@@ -16410,7 +16411,6 @@ deviousness
 dozzle
 dr
 draba
-disassembles
 drabant
 draughthouse
 delineative
