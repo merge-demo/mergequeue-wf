@@ -611,6 +611,7 @@ embargoes
 echoism
 epigeal
 enhydros
+encountering
 embolo
 energism
 echometer
@@ -4847,7 +4848,6 @@ encountered
 epigenesist
 endothecium
 encashing
-encountering
 eros
 ethical
 embolectomies
