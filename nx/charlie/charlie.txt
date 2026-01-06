@@ -6988,7 +6988,6 @@ copesettic
 cemeterial
 cephalotomy
 catchpenny
-concours
 ceratinous
 culm
 cenaculum
@@ -21812,6 +21811,7 @@ corresponsive
 conductometric
 conductor
 conductorial
+concours
 commoners
 crossbearer
 conductus
