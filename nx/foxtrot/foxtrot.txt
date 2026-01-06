@@ -3919,7 +3919,6 @@ fendered
 fullest
 foeniculum
 formaldehydesulphoxylate
-flamethrower
 forbecause
 flitted
 fromward
@@ -6080,6 +6079,7 @@ floriation
 freet
 fraser
 feedstuffs
+flamethrower
 fertilize
 frizz
 flunkeyize
