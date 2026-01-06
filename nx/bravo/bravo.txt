@@ -6946,7 +6946,6 @@ brachinus
 bleacherman
 becrampon
 bodock
-beastbane
 basad
 beshrews
 bluisness
@@ -14076,6 +14075,7 @@ blindstory
 baitylos
 believed
 bedangled
+beastbane
 brachyaxis
 brachycephali
 bragging
