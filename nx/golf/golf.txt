@@ -110,6 +110,7 @@ glairier
 guises
 galeate
 ganguela
+gliomata
 glowbard
 grammarianism
 gunda
@@ -10012,7 +10013,6 @@ graveness
 gargled
 gelatinify
 galago
-gliomata
 gaslike
 gateau
 gudame
