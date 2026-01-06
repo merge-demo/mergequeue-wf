@@ -5725,7 +5725,6 @@ apluda
 aleurodidae
 anonym
 acephalia
-acculturative
 alloeosis
 agaroses
 agarwal
@@ -15913,6 +15912,7 @@ accidia
 amici
 arnut
 angloman
+acculturative
 appointor
 autorotate
 antiq
