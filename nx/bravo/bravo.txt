@@ -4029,7 +4029,6 @@ bedrock
 bienvenu
 beamers
 beamfilling
-beeware
 bivalvous
 beamhouse
 bibliophobe
@@ -8006,6 +8005,7 @@ butlerlike
 barbarity
 boodler
 beatus
+beeware
 bewilderedness
 borsht
 beslipper
