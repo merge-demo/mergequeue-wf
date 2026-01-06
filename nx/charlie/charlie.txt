@@ -3309,6 +3309,7 @@ capitulars
 colourability
 calcino
 capitulate
+cassons
 capitulates
 capitulator
 capituliform
@@ -14091,7 +14092,6 @@ coriandrol
 chloritoid
 cleruchial
 circassic
-cassons
 capivi
 corpuscle
 circe
