@@ -237,7 +237,6 @@ bluecap
 bootmaking
 belleter
 bacilary
-balaklava
 bacillaceae
 brarow
 buhl
@@ -9105,6 +9104,7 @@ byssaceous
 bespice
 benightmare
 biopsychological
+balaklava
 breunnerite
 brittlewort
 bidented
