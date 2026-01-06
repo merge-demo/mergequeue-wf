@@ -12439,6 +12439,7 @@ alloys
 anemometrically
 achene
 attenuated
+aphaeretic
 amanuenses
 anemometrographically
 alfilaria
@@ -23403,7 +23404,6 @@ audiological
 audiologies
 aliquid
 anconitis
-aphaeretic
 awaited
 antitwilight
 annonaceous
