@@ -9758,7 +9758,6 @@ dilatoriness
 daypeep
 denaturiser
 decence
-duct
 discovery
 demiram
 decider
@@ -17550,6 +17549,7 @@ dismissals
 drumloidal
 duckhearted
 disavowal
+duct
 domesticates
 duteousness
 drumming
