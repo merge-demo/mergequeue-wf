@@ -3847,7 +3847,6 @@ enring
 ecthymata
 emboweler
 estamene
-emery
 evitate
 emerying
 estatesmen
@@ -7142,6 +7141,7 @@ everyday
 endocolitis
 elaterometer
 engrossed
+emery
 established
 ephemerist
 ensnarled
