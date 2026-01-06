@@ -2513,7 +2513,6 @@ genitalic
 gaelicize
 grandity
 glossier
-girdlelike
 gaucher
 golds
 gribbles
@@ -6703,6 +6702,7 @@ goyish
 gelly
 geometroid
 gabeler
+girdlelike
 gluttonies
 gynaecologic
 goodlier
