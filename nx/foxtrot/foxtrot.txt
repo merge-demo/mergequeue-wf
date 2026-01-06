@@ -7973,7 +7973,6 @@ farriery
 fishhold
 fetologist
 foolhardiship
-freshing
 forslow
 frondesced
 feudatories
@@ -10584,6 +10583,7 @@ firebases
 footworn
 fresh
 file
+freshing
 falding
 fibration
 foreland
