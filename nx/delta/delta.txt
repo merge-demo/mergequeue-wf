@@ -8291,6 +8291,7 @@ dagesh
 desonation
 digitation
 doombook
+diviner
 dinnertime
 dialyzer
 diagrams
@@ -14546,7 +14547,6 @@ divinability
 deciceronize
 delaware
 defiles
-diviner
 divinesse
 decarburised
 disjointly
