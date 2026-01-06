@@ -1651,7 +1651,6 @@ gastroxynsis
 gummier
 gourdy
 gunnera
-geom
 greetingly
 gainspeaker
 groovier
@@ -7208,6 +7207,7 @@ gemellione
 gutsier
 gleesomely
 gaminesses
+geom
 galvanotactic
 goodnesses
 gony
