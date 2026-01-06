@@ -946,7 +946,6 @@ collagist
 chazzanut
 cakravartin
 cal
-calaba
 crumpler
 crawfoot
 calabari
@@ -25640,6 +25639,7 @@ cleverness
 corpsman
 coprah
 corpulencies
+calaba
 consolamentum
 corsair
 cannula
