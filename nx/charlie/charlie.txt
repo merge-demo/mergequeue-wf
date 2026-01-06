@@ -3463,6 +3463,7 @@ caprin
 candlebeam
 chamfrons
 cimelia
+chemicoluminescent
 caprioles
 capriote
 capripede
@@ -22483,7 +22484,6 @@ ctenostomatous
 cophasal
 conioselinum
 chivalrously
-chemicoluminescent
 cubhood
 cahuita
 coniospermous
