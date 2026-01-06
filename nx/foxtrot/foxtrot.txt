@@ -1019,6 +1019,7 @@ forritsome
 fontanges
 foreshop
 fulmina
+fondu
 foreplan
 foreorder
 flustrating
@@ -9434,7 +9435,6 @@ foxholes
 foreweigh
 fidgeter
 forbye
-fondu
 frenum
 ficaria
 finical
