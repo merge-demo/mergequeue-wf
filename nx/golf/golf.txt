@@ -1157,7 +1157,6 @@ gantelope
 glycogenous
 graf
 gastrulating
-gantlet
 grocer
 gripier
 glazes
@@ -2568,6 +2567,7 @@ glorifying
 gallfly
 gael
 geothermal
+gantlet
 gilliver
 glusid
 guanacos
