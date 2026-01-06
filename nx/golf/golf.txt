@@ -1900,7 +1900,6 @@ gype
 gaussmeter
 goosefishes
 gatteridge
-gammaridae
 gaucho
 goodyism
 glucidic
@@ -4967,6 +4966,7 @@ glaives
 get
 galangal
 gamdia
+gammaridae
 grenadierly
 guddle
 gnathophorous
