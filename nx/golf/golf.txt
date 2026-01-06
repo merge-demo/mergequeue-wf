@@ -2089,7 +2089,6 @@ geleem
 grandbaby
 glimpser
 gamblers
-glaieul
 glancing
 gyrocompasses
 gawgaw
@@ -5574,6 +5573,7 @@ greenroom
 glucaemia
 gumming
 gripless
+glaieul
 geochemist
 gaetuli
 geophysical
