@@ -3240,7 +3240,6 @@ chevronny
 capitaldom
 capitaled
 capitalisable
-capitalised
 coproduct
 capitalising
 cit
@@ -22189,6 +22188,7 @@ confucianism
 confucius
 crambambuli
 confusability
+capitalised
 compactness
 confusedly
 carnalized
