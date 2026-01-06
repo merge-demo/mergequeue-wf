@@ -5448,7 +5448,6 @@ gracelike
 griphosaurus
 gammarid
 golaseccan
-gingivitis
 geomancy
 gaea
 glyptolith
@@ -8820,6 +8819,7 @@ gandhian
 glimpsers
 grandchildren
 gelatinochloride
+gingivitis
 garbles
 guileful
 generable
