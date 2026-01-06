@@ -646,7 +646,6 @@ guideline
 gardencraft
 gallomaniac
 gallon
-gush
 girls
 gymnasts
 gardenesque
@@ -6375,6 +6374,7 @@ glossophaga
 galloped
 gamesomeness
 grieve
+gush
 gigget
 gentlemouthed
 gummites
