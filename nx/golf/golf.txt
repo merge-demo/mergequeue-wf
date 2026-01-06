@@ -3142,7 +3142,6 @@ gullage
 gurglet
 grees
 graphically
-grips
 glauconiferous
 goan
 golandaas
@@ -4330,6 +4329,7 @@ gingerline
 glomerular
 gingerness
 guestimated
+grips
 greing
 germanophilist
 griping
