@@ -17800,7 +17800,6 @@ analphabetic
 agent
 assertory
 angiogenic
-anastatic
 anthranone
 aegialitis
 appose
@@ -20322,6 +20321,7 @@ aphelia
 afterwards
 autometry
 amendments
+anastatic
 apophysitis
 arsenious
 acephaline
