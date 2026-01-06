@@ -3673,7 +3673,6 @@ electrocuted
 ennoic
 epichilium
 enwheeled
-emergency
 epiphloedic
 embrica
 embryectomy
@@ -6926,6 +6925,7 @@ ethernets
 eyewinker
 erythrocytic
 entopic
+emergency
 endiablee
 elling
 entoplasm
