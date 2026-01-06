@@ -179,7 +179,6 @@ fourquine
 factiously
 forthought
 furyl
-feather
 flirtable
 fanmaker
 forewisdom
@@ -4175,6 +4174,7 @@ formamido
 flummadiddle
 federals
 ferfathmur
+feather
 featherstitch
 frag
 foothold
