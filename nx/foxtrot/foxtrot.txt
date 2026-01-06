@@ -5283,7 +5283,6 @@ feminization
 falsedad
 fogy
 fockle
-flakelet
 fabricable
 feodatory
 forceput
@@ -5913,6 +5912,7 @@ famacide
 frankliniana
 fisherfolk
 fdname
+flakelet
 flockings
 fudged
 fulsamic
