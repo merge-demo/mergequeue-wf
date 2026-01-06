@@ -2374,7 +2374,6 @@ devocalising
 decessit
 decerebrating
 daikon
-decanal
 dechemicalize
 doctorfish
 dechloridation
@@ -6509,6 +6508,7 @@ descent
 devotement
 despert
 dekameter
+decanal
 diffracting
 dreks
 dreggily
