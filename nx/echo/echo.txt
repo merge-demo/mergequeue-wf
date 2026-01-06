@@ -4644,7 +4644,6 @@ esophagean
 eradicative
 elotherium
 endoabdominal
-eulogical
 empyreumatical
 ectostosis
 epithalamiums
@@ -10080,6 +10079,7 @@ ethanolamine
 ephemeralness
 enwrite
 ethanolysis
+eulogical
 excretion
 ensepulcher
 exode
