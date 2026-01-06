@@ -4363,7 +4363,6 @@ adulteresses
 adultery
 autohypnotic
 antifebrile
-asperated
 ablactated
 aurae
 antonella
@@ -11238,6 +11237,7 @@ apochae
 amphibian
 autoclasis
 anticodon
+asperated
 alloquy
 anticreeper
 amphitrichate
