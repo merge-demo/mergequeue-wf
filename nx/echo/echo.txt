@@ -2373,7 +2373,6 @@ egba
 explees
 episteme
 eloise
-electrocolloidal
 exhaustable
 electroconvulsive
 empoisonment
@@ -8087,6 +8086,7 @@ expressable
 enteromere
 enargite
 etiological
+electrocolloidal
 epiplasmic
 epiplectic
 ethnological
