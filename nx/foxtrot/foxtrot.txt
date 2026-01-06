@@ -5340,7 +5340,6 @@ flb
 fantasque
 flutey
 festing
-foregather
 fantad
 feints
 fifteen
@@ -9168,6 +9167,7 @@ flopover
 fluing
 fuzee
 forjudging
+foregather
 ferriprussic
 figworm
 faired
