@@ -5131,7 +5131,6 @@ bhangs
 bombshells
 beflour
 beflowered
-biotas
 beguile
 barbastel
 bankers
@@ -8749,6 +8748,7 @@ bulldoggish
 blackly
 betoss
 brachycephalies
+biotas
 beddingroll
 bottomry
 brule
