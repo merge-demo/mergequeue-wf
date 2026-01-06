@@ -6414,6 +6414,7 @@ blowup
 benzothiazine
 benzothiazoline
 bitripartite
+brucite
 bregmata
 benzothiodiazole
 bergamiol
@@ -13168,7 +13169,6 @@ borophenylic
 batfowling
 bororoan
 beadman
-brucite
 borosalicylic
 borotungstate
 borough
