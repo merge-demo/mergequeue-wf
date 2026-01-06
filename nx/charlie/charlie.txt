@@ -4416,6 +4416,7 @@ chrysene
 carinate
 carinated
 cranioscopical
+calyon
 chologenetic
 caille
 carination
@@ -12973,7 +12974,6 @@ chute
 clangorously
 clachs
 chuted
-calyon
 chuter
 chromatometer
 chuting
