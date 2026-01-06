@@ -3007,6 +3007,7 @@ antigenic
 aerogeography
 axemaster
 authorizations
+aurei
 audiviser
 aphidlion
 actinoelectricity
@@ -16399,7 +16400,6 @@ antoniniani
 antoninianus
 acidophil
 appointed
-aurei
 anaplastic
 antonomastic
 antonomastical
