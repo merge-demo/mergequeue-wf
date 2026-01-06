@@ -2512,7 +2512,6 @@ billbugs
 bucchero
 bargaining
 bialys
-bhut
 barbarously
 bedark
 barocco
@@ -5590,6 +5589,7 @@ basinasal
 blousons
 boulanger
 by
+bhut
 bela
 beluchi
 burgonets

@@ -2346,7 +2346,6 @@ disseizin
 disco
 dilapidate
 decke
-demidolmen
 downwash
 diazoaminobenzene
 deceptive
@@ -9240,6 +9239,7 @@ dimnesses
 docibleness
 dier
 dyer
+demidolmen
 dementis
 dochmii
 dulcet
