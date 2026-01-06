@@ -15150,6 +15150,7 @@ arabesques
 archontic
 aberrometer
 amil
+apneustic
 arctocephalus
 aerostat
 aseptically
@@ -18116,7 +18117,6 @@ aqualunger
 apogee
 absurdities
 augmentationer
-apneustic
 aquamanilia
 allyls
 angdistis
