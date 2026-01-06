@@ -2360,7 +2360,6 @@ fingersmith
 fetial
 fortunetellers
 facile
-frondage
 feriation
 furrure
 flexors
@@ -2663,6 +2662,7 @@ fallowed
 foremelt
 feasing
 ferular
+frondage
 feruled
 felonous
 ferulic
