@@ -2452,7 +2452,6 @@ goaled
 guiac
 gummose
 gemmological
-grimly
 gemmologist
 gloriously
 glade
@@ -3240,6 +3239,7 @@ geopolitician
 goaltender
 gwendolen
 gular
+grimly
 gallomania
 gaudiness
 getup
