@@ -1547,7 +1547,6 @@ callionymidae
 combative
 coachers
 crookkneed
-clepe
 calliope
 compounding
 concertos
@@ -2509,6 +2508,7 @@ colage
 candidated
 candidates
 candidatures
+clepe
 candide
 churls
 candidiasis
