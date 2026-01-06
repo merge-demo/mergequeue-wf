@@ -3552,7 +3552,6 @@ captaincies
 caprioled
 captainry
 captainship
-communistically
 chaotically
 chemicked
 concordat
@@ -6575,6 +6574,7 @@ caviller
 chemins
 cavillous
 cavils
+communistically
 cyaathia
 cavina
 cynicisms

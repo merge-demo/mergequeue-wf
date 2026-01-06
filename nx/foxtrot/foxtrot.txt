@@ -3832,6 +3832,7 @@ frizzles
 fardage
 fon
 fanglomerate
+fraenum
 fireflirt
 figurings
 farleu
@@ -7820,7 +7821,6 @@ forbad
 flockier
 faint
 fording
-fraenum
 forgathering
 ferrotyped
 frostbite
