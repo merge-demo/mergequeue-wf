@@ -8340,7 +8340,6 @@ favuses
 foryield
 forelouper
 ferlied
-furnished
 fulsome
 fautorship
 flytraps
@@ -11340,6 +11339,7 @@ faceted
 fictional
 furfures
 foldless
+furnished
 funebrious
 faujasite
 formals
