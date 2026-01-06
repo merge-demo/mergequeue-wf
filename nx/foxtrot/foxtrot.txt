@@ -2019,7 +2019,6 @@ frogmouth
 fibrinoplastin
 fourpounder
 femorotibial
-ferngrower
 frontspiece
 feinter
 feudary
@@ -4269,6 +4268,7 @@ follicule
 fibster
 forefended
 fenland
+ferngrower
 fungology
 flaunching
 favorableness
