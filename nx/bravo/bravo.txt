@@ -709,6 +709,7 @@ bizcacha
 bolter
 brinjal
 badgerlike
+baganda
 bending
 befoul
 babiches
@@ -16979,7 +16980,6 @@ blacktopped
 bugwort
 bacteriophagy
 banca
-baganda
 baliti
 benzalaniline
 burdensomely
