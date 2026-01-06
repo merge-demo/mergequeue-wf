@@ -1067,7 +1067,6 @@ eringos
 exsheath
 edged
 eidolon
-edger
 edgeshot
 edgeway
 embalmment
@@ -12529,6 +12528,7 @@ euconjugatae
 epistemological
 embezzle
 exit
+edger
 encrypted
 exsects
 exite
