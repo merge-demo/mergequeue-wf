@@ -644,7 +644,6 @@ eclamptic
 externs
 extuberate
 epizoites
-ethenol
 ecstatics
 etymonic
 ellipses
@@ -9950,6 +9949,7 @@ elisor
 estrin
 elk
 estrums
+ethenol
 enskies
 entoil
 equisetales
