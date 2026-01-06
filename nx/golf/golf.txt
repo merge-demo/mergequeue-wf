@@ -814,7 +814,6 @@ gambang
 gastrular
 gonia
 goldbeater
-gourmanderie
 glauke
 greenlandite
 glucosane
@@ -9303,6 +9302,7 @@ gigabyte
 griddler
 gigglesome
 groceryman
+gourmanderie
 goitre
 gardnap
 giltcup
