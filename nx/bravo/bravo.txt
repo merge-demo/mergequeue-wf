@@ -2521,7 +2521,6 @@ barocco
 barge
 bergere
 bakeshop
-bult
 bargelike
 beet
 bargellos
@@ -6477,6 +6476,7 @@ bugology
 banxring
 bepiece
 bepile
+bult
 bolshie
 bumbled
 blowiness
