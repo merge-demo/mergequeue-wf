@@ -16095,7 +16095,6 @@ ashochimi
 archine
 advection
 anearing
-antiseptize
 allision
 aerospace
 ascians
@@ -16910,6 +16909,7 @@ apyonin
 adducts
 apiosoma
 apyrases
+antiseptize
 apyrexial
 apyrotype
 anteverts
