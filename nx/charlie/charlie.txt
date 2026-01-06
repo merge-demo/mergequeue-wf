@@ -20177,7 +20177,6 @@ commissurotomies
 commit
 commitment
 clavecinist
-curiouser
 commitments
 commits
 calycoid
@@ -29957,6 +29956,7 @@ crotalidae
 crotaliform
 crotalin
 cecidiologist
+curiouser
 connivances
 crotalo
 crotalum
