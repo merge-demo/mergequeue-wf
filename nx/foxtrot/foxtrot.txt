@@ -2459,7 +2459,6 @@ flabile
 foretellable
 foamlike
 foredetermine
-fry
 fernyear
 furison
 fordo
@@ -10414,6 +10413,7 @@ fungite
 flusterment
 fantasize
 fonctionnaire
+fry
 fluther
 forgivers
 fecundities
