@@ -6544,6 +6544,7 @@ confiner
 cambodia
 cavelike
 cavemen
+cicisbeism
 cavernlike
 cavernoma
 cavernous
@@ -13215,7 +13216,6 @@ copeognatha
 ciceronically
 clearskins
 colocynthin
-cicisbeism
 chromometer
 cyclades
 clavichordist
