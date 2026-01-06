@@ -9238,7 +9238,6 @@ dubitante
 dossils
 dimnesses
 docibleness
-dier
 dyer
 demidolmen
 dementis
@@ -18430,6 +18429,7 @@ duplication
 dogsbody
 dogey
 duplicators
+dier
 duncehood
 daidle
 dysphemize

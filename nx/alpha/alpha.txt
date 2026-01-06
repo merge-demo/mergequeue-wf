@@ -14430,6 +14430,7 @@ antiuating
 anthrophore
 anthropical
 acquisition
+attendancy
 anthropobiology
 aseismic
 automaton
@@ -14843,7 +14844,6 @@ ailanthuses
 arpens
 anticipatingly
 abe
-attendancy
 austrian
 antilogs
 anticipative
