@@ -3669,7 +3669,6 @@ gweducs
 guttatim
 georama
 gogos
-grewhound
 ghees
 garaged
 geopony
@@ -8480,6 +8479,7 @@ galinsoga
 grassroots
 gospodipoda
 geraniaceae
+grewhound
 gestio
 glottises
 gastaldite
