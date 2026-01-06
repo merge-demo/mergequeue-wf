@@ -6479,7 +6479,6 @@ ayatollah
 anybodies
 aiblins
 antileptic
-aidance
 apostasy
 aidant
 aided
@@ -13176,6 +13175,7 @@ animosity
 aftosas
 ancestors
 aegithognathous
+aidance
 animus
 analphabetism
 administrationist
