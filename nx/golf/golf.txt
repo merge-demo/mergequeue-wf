@@ -3882,7 +3882,6 @@ grimsir
 giver
 gingeleys
 grandchild
-gigantosaurus
 granulitize
 gradientia
 geochronometry
@@ -7019,6 +7018,7 @@ gumshoes
 greenhouses
 glazier
 geissolomataceous
+gigantosaurus
 grillade
 gunfought
 grindle
