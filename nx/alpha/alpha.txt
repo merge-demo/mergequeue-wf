@@ -12023,7 +12023,6 @@ arquerite
 aeromarine
 aspis
 angiosclerosis
-acidity
 anastomosing
 anastrophy
 advocator
@@ -13395,6 +13394,7 @@ annalists
 authotype
 annalize
 ajatasatru
+acidity
 arctician
 arvicolous
 adverseness
