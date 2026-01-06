@@ -4311,7 +4311,6 @@ friendly
 firns
 freespac
 fleshings
-formicivora
 feaked
 fibromatoid
 fatling
@@ -11546,6 +11545,7 @@ fodderless
 forjudgment
 fork
 famulary
+formicivora
 flattener
 fervently
 ferociousness
