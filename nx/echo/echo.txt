@@ -86,6 +86,7 @@ earmarkings
 equitation
 erysipeloid
 earmuff
+embowered
 earnable
 essayer
 earnest
@@ -6490,7 +6491,6 @@ endings
 exposed
 enswathement
 elementariness
-embowered
 ephelis
 epistropheal
 erythrochroism

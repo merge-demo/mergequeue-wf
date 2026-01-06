@@ -7738,7 +7738,6 @@ bespangles
 bathyscaphe
 bravoite
 beach
-buxerry
 bullan
 brocard
 bhindi
@@ -13036,6 +13035,7 @@ bombarde
 bibles
 baptismally
 backwrap
+buxerry
 boraginaceous
 borago
 bedamn
