@@ -7527,7 +7527,6 @@ counterbrace
 clinically
 cardamoms
 chlorophyl
-ceria
 ceratophyllaceous
 crinch
 ceratophyllum
@@ -23741,6 +23740,7 @@ chessmen
 cothurned
 cyclomyarian
 condensance
+ceria
 converted
 contraoctave
 caste
