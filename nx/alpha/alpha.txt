@@ -4526,7 +4526,6 @@ atypicality
 advices
 anathematised
 atomatic
-acolyth
 antas
 advisableness
 amidon
@@ -24688,6 +24687,7 @@ averagely
 averaging
 ackeys
 accordant
+acolyth
 averment
 anopheline
 averments
