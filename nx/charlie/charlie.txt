@@ -6725,7 +6725,6 @@ cetologies
 cedrol
 corticiform
 cedrus
-crioceris
 cardiosymphysis
 cedula
 cee
@@ -12517,6 +12516,7 @@ concanavalin
 chromolithography
 chromolithographic
 chromomere
+crioceris
 chondrosarcoma
 chromone
 carboxide
