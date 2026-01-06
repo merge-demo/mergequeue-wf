@@ -2823,6 +2823,7 @@ disponent
 duplicative
 deferred
 dossers
+dousing
 declarator
 diereses
 decried
@@ -16115,7 +16116,6 @@ divinity
 dendrocoelous
 dourest
 douroucouli
-dousing
 dout
 decrypted
 douziemes
