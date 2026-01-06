@@ -6736,7 +6736,6 @@ cursorial
 ceibo
 corkish
 counterthrust
-ceil
 clamoring
 celestine
 ceilers
@@ -18023,6 +18022,7 @@ companies
 conservatrix
 coelomatous
 coelome
+ceil
 capillarimeter
 consensuses
 colporteur
