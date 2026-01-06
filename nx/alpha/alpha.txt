@@ -11764,7 +11764,6 @@ appulsion
 analogy
 analogic
 anteposition
-ascertained
 associateship
 amphicome
 amidomyelin
@@ -20433,6 +20432,7 @@ adaptively
 anaglyphoscope
 argylls
 ammonifier
+ascertained
 autotherapeutic
 alme
 artemision
