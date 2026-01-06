@@ -4528,6 +4528,7 @@ bosons
 bilixanthin
 boon
 becuiba
+biconical
 bouncy
 becurl
 bibliotherapy
@@ -14461,7 +14462,6 @@ blowline
 brainstems
 brainstone
 bracteal
-biconical
 braconidae
 brainstormer
 boxfuls

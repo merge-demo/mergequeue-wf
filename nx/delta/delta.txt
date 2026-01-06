@@ -1065,6 +1065,7 @@ dimeters
 decarch
 detailist
 dorsodynia
+dactylate
 doling
 darraign
 depositions
@@ -17542,7 +17543,6 @@ depolarised
 disappeared
 drumlinoid
 decelerated
-dactylate
 diatomous
 drumlins
 dorsiferous
