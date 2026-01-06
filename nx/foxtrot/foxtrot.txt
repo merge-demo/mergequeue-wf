@@ -2870,7 +2870,6 @@ fouettes
 floorcloth
 furfurals
 find
-febricide
 fibrose
 factors
 flung
@@ -6357,6 +6356,7 @@ floreted
 flunkey
 fardh
 frilal
+febricide
 fiddlery
 fumatories
 fendering
