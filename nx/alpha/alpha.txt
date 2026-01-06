@@ -136,7 +136,6 @@ anachueta
 alcarraza
 amused
 afterwitted
-amyotrophic
 amoebid
 abatage
 abate
@@ -11749,6 +11748,7 @@ adreamt
 antisociality
 abas
 annoying
+amyotrophic
 appulsion
 analogy
 analogic
