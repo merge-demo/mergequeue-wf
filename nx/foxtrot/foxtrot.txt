@@ -288,6 +288,7 @@ favi
 friskets
 filander
 fadmongering
+folios
 finfishes
 felsic
 flooders
@@ -6862,7 +6863,6 @@ foreporch
 fonnish
 formularize
 furud
-folios
 folkish
 faradizes
 fierasferidae
