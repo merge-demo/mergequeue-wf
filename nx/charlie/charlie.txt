@@ -5270,6 +5270,7 @@ colemouse
 cassabas
 cassabully
 customs
+coatrooms
 carthorse
 custodiam
 crwth
@@ -17429,7 +17430,6 @@ comestibles
 coatless
 coatrack
 coatroom
-coatrooms
 coats
 coattend
 cajeta
