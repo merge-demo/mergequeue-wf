@@ -1215,7 +1215,6 @@ campimetrical
 caldrons
 caryota
 charry
-calean
 cystorrhea
 calebite
 carcaneted
@@ -17031,6 +17030,7 @@ candela
 croat
 clutchingly
 consignificate
+calean
 clues
 carders
 chg
