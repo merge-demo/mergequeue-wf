@@ -439,7 +439,6 @@ dayspring
 direst
 disthrall
 daytimes
-disaccharide
 daywrit
 dakerhen
 demonifuge
@@ -8624,6 +8623,7 @@ diametrically
 discourtesy
 dilative
 dichloride
+disaccharide
 dato
 delfs
 discoloring
