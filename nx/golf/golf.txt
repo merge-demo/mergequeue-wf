@@ -7835,6 +7835,7 @@ gaj
 geophone
 gegg
 groaners
+glutton
 glutter
 guillotines
 gristmilling
@@ -10492,7 +10493,6 @@ granulator
 gogglier
 glauberite
 gymnarchus
-glutton
 ginglymodi
 guestwise
 gilravage
