@@ -3427,7 +3427,6 @@ exurbanite
 equiparate
 emphase
 endocrinologist
-enc
 encyclopedically
 eavedropper
 embark
@@ -7593,6 +7592,7 @@ ensient
 entocnemial
 eventfully
 engines
+enc
 elne
 exactest
 extratelluric
