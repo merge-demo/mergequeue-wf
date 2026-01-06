@@ -1573,7 +1573,6 @@ gassed
 grana
 gregarinida
 glaciologist
-golliwogg
 glutelin
 glassless
 ghegish
@@ -7419,6 +7418,7 @@ gnatproof
 geylies
 guiltlessness
 gotra
+golliwogg
 germarium
 gaudery
 galen
