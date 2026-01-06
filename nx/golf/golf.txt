@@ -4052,7 +4052,6 @@ gerundive
 gushingly
 graybacks
 grossierete
-giliak
 garter
 glochidium
 gulinula
@@ -7257,6 +7256,7 @@ gribble
 gleby
 gladfully
 gingernut
+giliak
 gemination
 gammas
 gromyl
