@@ -9908,7 +9908,6 @@ driftwood
 dimethylsulphoxide
 dematerialize
 dekarch
-dustproof
 dislock
 dimethoxy
 decemvirship
@@ -14071,6 +14070,7 @@ disfigured
 denominable
 distressing
 deglamorization
+dustproof
 distressingly
 devast
 dishorner
