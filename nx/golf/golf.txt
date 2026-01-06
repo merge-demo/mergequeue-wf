@@ -1502,7 +1502,6 @@ guijo
 gauntness
 girllike
 grotesque
-gasher
 glumly
 gluconate
 gastrulae
@@ -8050,6 +8049,7 @@ gunstocking
 genys
 gastronomy
 gastronomics
+gasher
 gata
 gunstock
 grandpapa
