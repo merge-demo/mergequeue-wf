@@ -5078,7 +5078,6 @@ exemptible
 evertebrata
 endocarpal
 extramarital
-endoceratidae
 extraneously
 eccentrically
 enslavers
@@ -8161,6 +8160,7 @@ ecospecies
 emballonurine
 ethmosphenoid
 equanimity
+endoceratidae
 euchromatin
 expedientist
 evelong

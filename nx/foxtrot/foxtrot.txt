@@ -199,6 +199,7 @@ flashily
 feuar
 filiety
 foreignism
+frostproof
 florin
 folletage
 freedwoman
@@ -7560,7 +7561,6 @@ forebody
 frostweed
 flentes
 fleshbrush
-frostproof
 frivoler
 foreboom
 favelas
