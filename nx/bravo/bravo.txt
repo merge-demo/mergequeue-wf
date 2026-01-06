@@ -11352,7 +11352,6 @@ bls
 blub
 blickey
 blubbed
-bootlicker
 bursting
 bhar
 breathed
@@ -15450,6 +15449,7 @@ babajaga
 brigs
 bootlicks
 boroughs
+bootlicker
 banchi
 bumboatwoman
 botheration
