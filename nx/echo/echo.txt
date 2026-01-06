@@ -6400,7 +6400,6 @@ enlargers
 ensilist
 ensilver
 equilibrating
-esquiring
 eye
 earthling
 enigua
@@ -7922,6 +7921,7 @@ enthrone
 eolopile
 equivocatory
 eternizes
+esquiring
 estragol
 ensilation
 epimanikion
