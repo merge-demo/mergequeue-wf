@@ -2327,7 +2327,6 @@ ecphonema
 electrizable
 exocyclic
 electrization
-enterohepatitis
 epicotyl
 eagled
 eyras
@@ -2981,6 +2980,7 @@ escamoteur
 etrogim
 encamped
 eliminant
+enterohepatitis
 ennoblers
 ethid
 epidermophyton
