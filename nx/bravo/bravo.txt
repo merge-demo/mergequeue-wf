@@ -6212,7 +6212,6 @@ benjaminite
 bound
 boletus
 berley
-bypass
 beakful
 benne
 bennes
@@ -14126,6 +14125,7 @@ boffin
 brachydont
 brachydontism
 brachyfacial
+bypass
 brachyglossal
 blase
 burgul
