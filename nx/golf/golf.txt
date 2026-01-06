@@ -1573,7 +1573,6 @@ grassless
 geothermally
 gassed
 grana
-gregarinida
 glaciologist
 glutelin
 glassless
@@ -9187,6 +9186,7 @@ grouchily
 gora
 geographically
 granulates
+gregarinida
 glared
 glowingly
 griphite
