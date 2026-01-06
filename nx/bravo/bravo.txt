@@ -5751,7 +5751,6 @@ bellbird
 bellboy
 bitriseptate
 bulbochaete
-bursula
 bood
 biarticular
 bylining
@@ -17509,6 +17508,7 @@ biteless
 bepierce
 bombastry
 biscotin
+bursula
 betes
 bessy
 bioecologist
