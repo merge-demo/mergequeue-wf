@@ -4780,7 +4780,6 @@ forceps
 flagelliform
 fever
 folie
-flagellula
 fauve
 filigrain
 flageolets
@@ -7041,6 +7040,7 @@ frittered
 frescoist
 faints
 fictionistic
+flagellula
 factorially
 fichtelite
 floriferousness
