@@ -336,7 +336,6 @@ epilepsies
 encamps
 epitheliums
 enterolobium
-enantiosis
 ealderman
 endark
 espousage
@@ -5701,6 +5700,7 @@ extravagantes
 electrorefining
 ergotaminine
 extrasacerdotal
+enantiosis
 engild
 engilding
 empirism
