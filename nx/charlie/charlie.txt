@@ -125,7 +125,6 @@ cladophyllum
 cabineting
 codshead
 cabinetmaking
-capacitated
 corrade
 cabinetted
 coumalic
@@ -1414,6 +1413,7 @@ calimeris
 calymma
 copulations
 confisk
+capacitated
 cadmopone
 carfuls
 calinut
