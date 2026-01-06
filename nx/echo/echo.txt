@@ -6227,6 +6227,7 @@ enplane
 ecorticate
 evolutive
 expiscate
+enrollment
 enplaned
 enscrolled
 ecumenics
@@ -6503,7 +6504,6 @@ englishes
 ephemeris
 egomaniacal
 enumerators
-enrollment
 essayists
 entrenchments
 entails
