@@ -2719,7 +2719,6 @@ gconvert
 gastroenterologists
 ganodont
 globoids
-generant
 gorevan
 genioglossus
 gelling
@@ -4982,6 +4981,7 @@ gainst
 growze
 gauziest
 goldic
+generant
 gymnogen
 galling
 glew
