@@ -14450,7 +14450,6 @@ divergent
 dele
 dishpans
 diverse
-diversify
 defenestrating
 drossed
 diversification
@@ -16270,6 +16269,7 @@ diabrosis
 degenerescent
 decator
 downlink
+diversify
 discoverability
 desertion
 downness
