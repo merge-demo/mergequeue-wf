@@ -6117,7 +6117,6 @@ foretriangle
 fissiparity
 fleyland
 festinated
-forecome
 floush
 filicoids
 focalisation
@@ -9623,6 +9622,7 @@ freebooter
 freebootery
 freebooting
 freed
+forecome
 foreimpression
 facete
 franticly

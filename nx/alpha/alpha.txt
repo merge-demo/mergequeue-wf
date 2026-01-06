@@ -5860,7 +5860,6 @@ aarrghh
 agglutinize
 anathematization
 agglutinogen
-agglutinoscope
 acclaiming
 amblygeusia
 accompanists
@@ -20467,6 +20466,7 @@ anticivism
 arteriarctia
 arteriectopia
 ananda
+agglutinoscope
 arteried
 americanese
 absey
