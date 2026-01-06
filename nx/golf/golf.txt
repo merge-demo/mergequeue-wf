@@ -500,6 +500,7 @@ geomorphology
 galabiya
 gisement
 gaoloring
+glossocoma
 gratuity
 geographic
 gamekeepers
@@ -5910,7 +5911,6 @@ glumnesses
 groundsill
 gederathite
 gemeinschaft
-glossocoma
 gibbers
 gauzier
 gestative
