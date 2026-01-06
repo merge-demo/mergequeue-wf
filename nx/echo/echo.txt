@@ -1997,7 +1997,6 @@ elastics
 exothermal
 eagle
 economizing
-epitritic
 equiparable
 effetman
 electrine
@@ -12214,6 +12213,7 @@ elshin
 exsurge
 enchases
 expertized
+epitritic
 eloiner
 encommon
 expounding
