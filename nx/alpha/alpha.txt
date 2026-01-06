@@ -17975,7 +17975,6 @@ anthropophysiography
 allothigene
 authenticate
 amphidesmous
-azoformic
 alternariose
 anthypophora
 aziethane
@@ -20437,6 +20436,7 @@ ammonifier
 ascertained
 autotherapeutic
 alme
+azoformic
 artemision
 artemisium
 autoptical
