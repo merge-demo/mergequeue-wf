@@ -15318,7 +15318,6 @@ chathamite
 cupmaking
 corallite
 clamorsome
-corgis
 clamour
 concuss
 contune
@@ -22896,6 +22895,7 @@ combustibly
 conservational
 conservationism
 clype
+corgis
 conservationists
 condensable
 conservations
