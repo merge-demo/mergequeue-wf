@@ -5681,7 +5681,6 @@ bridegroomship
 barkpeeling
 bluism
 berreaved
-belgard
 beater
 burys
 belgrade
@@ -6635,6 +6634,7 @@ breastbone
 boneshave
 bodegon
 beribanded
+belgard
 birdy
 basement
 bargeboard
