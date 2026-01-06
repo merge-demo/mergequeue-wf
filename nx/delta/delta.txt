@@ -514,7 +514,6 @@ dalt
 dawen
 denomination
 dermaskeleton
-dama
 damageability
 damageably
 detonatable
@@ -4116,6 +4115,7 @@ doctrinization
 dishonourable
 divagate
 delisk
+dama
 delit
 demonstratorship
 dob
