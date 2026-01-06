@@ -6984,6 +6984,7 @@ despoiled
 destroyers
 despoiler
 durometer
+degust
 disabilities
 despoilers
 decongest
@@ -11814,7 +11815,6 @@ drawbridges
 diduce
 dimitted
 discriminatively
-degust
 despatch
 discriminativeness
 discording
