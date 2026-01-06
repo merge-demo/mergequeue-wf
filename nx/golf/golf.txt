@@ -4527,6 +4527,7 @@ gumwoods
 gills
 graminiform
 ghostfishes
+gladdy
 grit
 gigantomachia
 graduate
@@ -8659,7 +8660,6 @@ gemsbok
 guttered
 goldang
 grip
-gladdy
 glaucomas
 gests
 grizzliness
