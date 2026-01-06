@@ -4935,6 +4935,7 @@ demotists
 duncedom
 dragontail
 draggled
+dhurry
 disgeneric
 diamb
 demountable
@@ -15826,7 +15827,6 @@ delint
 disaccredit
 distillers
 disprovable
-dhurry
 demisphere
 dorsolumbar
 dankly
