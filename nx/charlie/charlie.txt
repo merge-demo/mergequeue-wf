@@ -1605,6 +1605,7 @@ corrobboree
 callorhynchidae
 callosal
 chronographs
+copperas
 callose
 crafts
 calloses
@@ -26583,7 +26584,6 @@ coulisses
 coaid
 couloir
 coinmaking
-copperas
 cornbird
 cystectomies
 coulombmeter
