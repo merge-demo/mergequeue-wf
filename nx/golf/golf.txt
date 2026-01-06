@@ -8151,7 +8151,6 @@ gynodioecism
 graustark
 gastrostomize
 gristmill
-grantors
 grantsman
 granular
 girandole
@@ -8787,6 +8786,7 @@ goo
 glist
 galyak
 guacharoes
+grantors
 gorge
 greenling
 grogram
