@@ -5319,7 +5319,6 @@ frangulinic
 fleshlily
 farmsteads
 frightless
-fogbound
 fuligula
 flukes
 fumage
@@ -6299,6 +6298,7 @@ febronianism
 flota
 fluxer
 frisian
+fogbound
 flaxwoman
 festers
 fluidized
