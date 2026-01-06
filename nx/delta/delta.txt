@@ -2341,6 +2341,7 @@ drat
 delectations
 denizens
 didna
+deportees
 disseizin
 disco
 dilapidate
@@ -17711,7 +17712,6 @@ discriminateness
 derivate
 debugs
 dubiousness
-deportees
 delegative
 dubitable
 dichondra
