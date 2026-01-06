@@ -14535,6 +14535,7 @@ archegosaurus
 anthropophagist
 aspises
 accoutred
+antitegula
 anthropophagite
 abirritated
 allophonic
@@ -21426,7 +21427,6 @@ asper
 amnesties
 asperate
 artefact
-antitegula
 authorish
 anosmias
 asperges
