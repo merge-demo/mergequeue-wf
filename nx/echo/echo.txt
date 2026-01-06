@@ -848,7 +848,6 @@ endophytic
 efficient
 electrolyser
 epicarp
-enchair
 exocarps
 elong
 ectodermosis
@@ -9391,6 +9390,7 @@ expatriates
 ecgonin
 embryogenic
 epoptic
+enchair
 euspongia
 erythrolitmin
 eventail
