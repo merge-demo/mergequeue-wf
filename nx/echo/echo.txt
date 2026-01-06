@@ -9590,7 +9590,6 @@ enterohemorrhage
 esophagalgia
 esophago
 esophagogastroscopy
-entrike
 enticeable
 eupomatiaceae
 esophagoplasty
@@ -10446,6 +10445,7 @@ eurypteroid
 edward
 eviscerated
 eloinment
+entrike
 embryoniferous
 euphotide
 etymon
