@@ -2172,7 +2172,6 @@ goldish
 gastropulmonary
 graphostatics
 gawsie
-gharris
 gliss
 gerontine
 gdinfo
@@ -3305,6 +3304,7 @@ gazetteers
 gossypol
 gyral
 gaelicist
+gharris
 galvanical
 gustatory
 giddiest
