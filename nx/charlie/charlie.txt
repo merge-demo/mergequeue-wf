@@ -3622,7 +3622,6 @@ carabineros
 claik
 carabines
 coprahs
-calefaction
 carabinier
 carabiniere
 carabinieri
@@ -11242,6 +11241,7 @@ chuffier
 curtail
 christiania
 chlorenchyma
+calefaction
 coassistance
 chlorguanide
 chlorhexidine
