@@ -297,6 +297,7 @@ enterodynia
 electroplated
 epitheliolysin
 expiries
+endosmose
 easterling
 enema
 exhumers
@@ -2553,7 +2554,6 @@ euomphalus
 ebcdic
 elaborations
 euonymous
-endosmose
 edgemaking
 encomiologic
 expeditely
