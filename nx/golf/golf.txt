@@ -698,7 +698,6 @@ gideon
 granulomatosis
 goneril
 gastronomer
-gallying
 gardebras
 gonfalon
 goniotropous
@@ -4870,6 +4869,7 @@ gritter
 gunnel
 geshurites
 gnomonics
+gallying
 gleg
 gigantize
 gladfulness
