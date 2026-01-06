@@ -3590,7 +3590,6 @@ dimpled
 degass
 degassed
 disappears
-dodecant
 destituting
 druggery
 diatonous
@@ -12772,6 +12771,7 @@ diazotizing
 defectoscope
 dislluminate
 dubbings
+dodecant
 difference
 dislocability
 dosimetry
