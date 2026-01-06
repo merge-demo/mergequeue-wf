@@ -1020,7 +1020,6 @@ bepuzzle
 bailers
 brees
 bunglings
-bailiaries
 bargainwise
 bailieries
 botargos
@@ -2038,6 +2037,7 @@ bloodstones
 bankcard
 bethought
 banky
+bailiaries
 banknote
 bristly
 bookseller
