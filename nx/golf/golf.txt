@@ -473,7 +473,6 @@ gastroenterologic
 galeorhinidae
 grooper
 grouches
-gridirons
 gipsies
 geckotian
 gynandromorphy
@@ -2401,6 +2400,7 @@ george
 galloots
 ghiordes
 gadwall
+gridirons
 glossarially
 ganisters
 gallous
