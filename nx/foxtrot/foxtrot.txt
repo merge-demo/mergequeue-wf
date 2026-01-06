@@ -1146,6 +1146,7 @@ fractional
 faikes
 fibrillary
 fanzine
+funnelling
 filiates
 forlornness
 fubs
@@ -3636,7 +3637,6 @@ flawier
 forelooper
 floorings
 fuzzing
-funnelling
 friskers
 fertilised
 finedrawing
