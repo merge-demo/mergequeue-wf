@@ -7945,7 +7945,6 @@ cestidae
 cestodes
 cartload
 coronize
-capitulary
 cestoidean
 cestoids
 cestraction
@@ -16538,6 +16537,7 @@ cheddite
 chullo
 cid
 cnidosac
+capitulary
 concentring
 cloghaun
 cloghead
