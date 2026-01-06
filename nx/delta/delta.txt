@@ -12180,7 +12180,6 @@ declinations
 dehusk
 danes
 depthometer
-democratic
 diacetine
 despisal
 dha
@@ -16564,6 +16563,7 @@ dejectedly
 draghound
 darwinian
 diplostemony
+democratic
 dragline
 dragman
 durant
