@@ -25719,6 +25719,7 @@ correspondence
 correspondences
 correspondency
 correspondent
+coverall
 composedness
 correspondential
 correspondently
@@ -27528,7 +27529,6 @@ cover
 coverable
 coverages
 cuselite
-coverall
 convito
 coveralled
 coveralls
