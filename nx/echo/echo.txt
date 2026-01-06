@@ -4798,6 +4798,7 @@ excusatory
 exitance
 ensnarements
 encoding
+equipostile
 embrocate
 ergasterion
 enbusshe
@@ -10319,7 +10320,6 @@ eulophid
 ebullitions
 ethnocracy
 empiecement
-equipostile
 epifocal
 electuaries
 exosmic
