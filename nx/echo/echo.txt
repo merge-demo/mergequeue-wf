@@ -3115,7 +3115,6 @@ enterers
 et
 embeds
 emp
-encyclical
 elliot
 educationable
 ergatocracy
@@ -8191,6 +8190,7 @@ enroots
 ethnicity
 earth
 expirant
+encyclical
 episodical
 earsh
 episodically
