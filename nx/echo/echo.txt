@@ -2362,7 +2362,6 @@ equines
 evenlong
 equison
 electrochronometric
-enfroward
 equipollently
 estafetted
 entendres
@@ -13484,6 +13483,7 @@ episiorrhagia
 encages
 encumbrancer
 extraconstitutional
+enfroward
 exposing
 ethmoidal
 eudaemonic
