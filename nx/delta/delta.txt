@@ -4456,7 +4456,6 @@ demicircular
 divulsor
 defence
 deceptions
-dispensed
 demicuirass
 dealbuminize
 doxologies
@@ -7729,6 +7728,7 @@ diplotegia
 denitrificator
 defeasance
 devised
+dispensed
 decongests
 denter
 denicotinized
