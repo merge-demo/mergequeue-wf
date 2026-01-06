@@ -4479,7 +4479,6 @@ glamberry
 gipsydom
 giddyhead
 gugu
-galtonian
 gypsyfy
 generically
 gristles
@@ -9910,6 +9909,7 @@ graticulation
 genders
 guaracha
 gnamma
+galtonian
 glaked
 genapp
 gabi
