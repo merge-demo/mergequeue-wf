@@ -9251,7 +9251,6 @@ bedlamize
 brunches
 bevor
 baldrics
-bg
 built
 bucciniform
 badassed
@@ -17839,6 +17838,7 @@ banjara
 booksellers
 breezeful
 burster
+bg
 blutwurst
 bitterhead
 barabara
