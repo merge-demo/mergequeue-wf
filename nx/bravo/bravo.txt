@@ -5464,6 +5464,7 @@ behoovefulness
 barrier
 behooves
 behooving
+bitonal
 bacterioprotein
 backiebird
 beatless
@@ -16465,7 +16466,6 @@ brainache
 bedazzling
 backtender
 bouffes
-bitonal
 bruno
 bryanthus
 barmiest
