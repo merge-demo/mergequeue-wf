@@ -1554,7 +1554,6 @@ flowcontrol
 fishbowl
 futural
 firebirds
-funk
 fause
 fauvisms
 foreprepare
@@ -6135,6 +6134,7 @@ firestone
 fitchering
 frightenedly
 forlornly
+funk
 fenster
 floccilation
 flounced
