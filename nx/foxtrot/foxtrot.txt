@@ -5634,6 +5634,7 @@ frostbitten
 flighter
 fleshling
 fleysome
+farolito
 funicular
 florescent
 flightier
@@ -8803,7 +8804,6 @@ flancard
 fecundation
 foxie
 fractionary
-farolito
 forebay
 forgers
 foreprise
