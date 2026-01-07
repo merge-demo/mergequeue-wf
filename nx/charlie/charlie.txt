@@ -23943,6 +23943,7 @@ cacological
 cleanness
 conv
 convalesced
+curvedly
 convalescence
 convalescently
 convalescents
@@ -31603,7 +31604,6 @@ cozy
 clingstone
 curve
 constructed
-curvedly
 capitoul
 curver
 chic
