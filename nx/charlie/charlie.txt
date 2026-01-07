@@ -1082,7 +1082,6 @@ codebreak
 chitinocalcareous
 circumcisions
 cabs
-calceolaria
 calceolate
 cowhide
 calceus
@@ -16766,6 +16765,7 @@ clotweed
 clou
 cloudage
 cloudberry
+calceolaria
 cloudcap
 cloudful
 cacolike
