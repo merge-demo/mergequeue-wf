@@ -5890,7 +5890,6 @@ epigramme
 endosteal
 exacerbescence
 exsiccate
-energetic
 earthnuts
 engrossedly
 engrosser
@@ -9989,6 +9988,7 @@ externality
 exanthemas
 examined
 eggberries
+energetic
 epichile
 etched
 editor
