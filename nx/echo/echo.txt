@@ -2695,6 +2695,7 @@ eudaemonics
 epispadia
 enzyms
 estampie
+esterlin
 electrovital
 escrol
 expectorating
@@ -11561,7 +11562,6 @@ enticer
 edital
 evocating
 ensign
-esterlin
 ecphorable
 encia
 executry
