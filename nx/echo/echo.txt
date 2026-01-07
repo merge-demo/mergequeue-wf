@@ -2594,7 +2594,6 @@ eximious
 electrobrasser
 entertainable
 enantioblastous
-eruginous
 eighteenthly
 ensnarl
 exhilarator
@@ -9745,6 +9744,7 @@ enthusiast
 essene
 expressure
 essentialization
+eruginous
 essentially
 exigencies
 expeditation
