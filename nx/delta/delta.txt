@@ -6312,7 +6312,6 @@ dermenchysis
 delacrimation
 dermestid
 dermatoneural
-dextrogyration
 debit
 disseminating
 defensorship
@@ -13671,6 +13670,7 @@ dissyllable
 dialecticism
 davidsonite
 dashboard
+dextrogyration
 dignitarial
 dolce
 dishful
