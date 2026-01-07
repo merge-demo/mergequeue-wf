@@ -7578,7 +7578,6 @@ euchymous
 epicoelous
 epicondyle
 excysted
-epicondylian
 eiry
 exspuition
 engraulidae
@@ -13046,6 +13045,7 @@ exhibiting
 ebauchoir
 euhemerised
 epiperipheral
+epicondylian
 elocutionary
 expediter
 enunciates
