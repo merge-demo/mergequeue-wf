@@ -6327,6 +6327,7 @@ ancylostoma
 afro
 automatograph
 agriot
+allogeneic
 adsorbate
 agromyzid
 alleyed
@@ -8814,7 +8815,6 @@ anguimorpha
 alloerotism
 analgia
 allogene
-allogeneic
 adream
 antisceptical
 achromatizable
