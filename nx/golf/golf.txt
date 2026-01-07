@@ -1009,7 +1009,6 @@ genetta
 gemmed
 grumblingly
 gadoids
-galenoid
 gabgab
 gaminish
 generously
@@ -8617,6 +8616,7 @@ gentling
 gobi
 guarri
 griffithite
+galenoid
 guianan
 gastrolatrous
 gums
