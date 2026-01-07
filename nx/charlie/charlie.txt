@@ -10449,7 +10449,6 @@ capsomer
 conquered
 coryphaena
 clinocephalic
-chihfu
 cephalograph
 chihuahuas
 comephorous
@@ -11896,6 +11895,7 @@ choragi
 choragic
 coxalgia
 choragion
+chihfu
 choristers
 calashes
 chorai

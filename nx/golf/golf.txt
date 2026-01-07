@@ -1221,6 +1221,7 @@ gatewards
 goodeniaceae
 gramy
 gubernacula
+granuloblastic
 gluteoperineal
 gruffly
 gambler
@@ -1667,7 +1668,6 @@ granulometric
 goldarned
 gardeen
 gryphon
-granuloblastic
 gastrocoel
 gamuts
 gamelion
