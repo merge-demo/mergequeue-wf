@@ -6275,7 +6275,6 @@ enrollers
 endosmos
 eriocaulaceous
 eche
-examined
 endocortex
 etang
 eugenolate
@@ -9981,6 +9980,7 @@ enterprises
 endostoma
 externality
 exanthemas
+examined
 eggberries
 epichile
 etched
