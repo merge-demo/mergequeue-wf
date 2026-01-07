@@ -1907,7 +1907,6 @@ aggest
 alidada
 acetylamine
 acetylaniline
-auxometer
 adaptive
 aitiology
 arabesquely
@@ -22552,6 +22551,7 @@ adorability
 afterfruits
 aspermic
 atechnical
+auxometer
 atef
 ateles
 antimensium
