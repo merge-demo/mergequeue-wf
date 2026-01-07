@@ -7507,7 +7507,6 @@ goschen
 glossodynia
 generalization
 glial
-gamogenesis
 glycolytic
 gortonian
 glaucophanize
@@ -10103,6 +10102,7 @@ guavina
 grazes
 guesser
 gonads
+gamogenesis
 grub
 goniopholis
 guyot
