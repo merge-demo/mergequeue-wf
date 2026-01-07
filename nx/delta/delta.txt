@@ -2551,7 +2551,6 @@ drailing
 declaredly
 declares
 dimaris
-declaring
 dizen
 dwined
 dorn
@@ -12754,6 +12753,7 @@ divel
 drafty
 dialysing
 decodings
+declaring
 dolabriform
 disliking
 doubleness
