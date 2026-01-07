@@ -8142,7 +8142,6 @@ climatical
 coronopus
 camelion
 chaffman
-culicines
 codiniac
 coracosteon
 continent
@@ -12097,6 +12096,7 @@ cerfoil
 clansman
 casula
 carpophalangeal
+culicines
 chose
 chophouses
 coursed
