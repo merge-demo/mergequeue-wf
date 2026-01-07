@@ -3596,6 +3596,7 @@ declaredness
 dripping
 dextrogyre
 dinosauric
+dognaper
 dinornithiformes
 degenerate
 desulphurizer
@@ -16103,7 +16104,6 @@ deformity
 deforcing
 dour
 dita
-dognaper
 dehydroascorbic
 dourah
 drochuil
