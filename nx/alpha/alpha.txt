@@ -2173,7 +2173,6 @@ alguazil
 aquatinta
 assessionary
 achondritic
-antifanatic
 agrostology
 autodecremented
 arioso
@@ -23901,6 +23900,7 @@ antiozonant
 authigenous
 anodine
 analogical
+antifanatic
 amphithurons
 astrict
 angas
