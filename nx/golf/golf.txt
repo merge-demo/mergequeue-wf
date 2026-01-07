@@ -283,7 +283,6 @@ geet
 glossophora
 geobotany
 ganjas
-gynaecian
 gaminesque
 gaist
 giles
@@ -6200,6 +6199,7 @@ glissade
 gastroenteroanastomosis
 gowkedly
 galactosan
+gynaecian
 gyse
 globules
 goatsbeard
