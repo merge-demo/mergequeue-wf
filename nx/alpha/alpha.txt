@@ -8927,7 +8927,6 @@ allotments
 allotransplantation
 anapsidan
 aden
-autarkically
 actinoids
 acrimony
 aefauld
@@ -23642,6 +23641,7 @@ anapaests
 atpoints
 allotropicity
 antiexpressively
+autarkically
 alms
 anhydrating
 auriculare
