@@ -1923,6 +1923,7 @@ bediademed
 bandoleer
 backhoes
 bandoleers
+burdalone
 bivalent
 birny
 bandolerismo
@@ -12792,7 +12793,6 @@ blacklegging
 begirdled
 begut
 bepreach
-burdalone
 bucorvinae
 becloaked
 bioelectric
