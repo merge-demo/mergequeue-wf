@@ -2409,7 +2409,6 @@ allopathies
 archpapist
 asmile
 adfix
-anthrapyridine
 aphrite
 apantesis
 antestature
@@ -10564,6 +10563,7 @@ actuating
 abrogator
 acetylized
 archdepredator
+anthrapyridine
 aminoacetophenetidine
 aminoanthraquinone
 apodictically
