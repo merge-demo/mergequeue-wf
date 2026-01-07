@@ -7401,7 +7401,6 @@ fingerling
 feudalism
 forby
 famelessly
-forebodingly
 footplate
 flakiness
 fortunous
@@ -8619,6 +8618,7 @@ figurately
 ferretto
 flamefishes
 fuzzed
+forebodingly
 finnochio
 functionate
 fingerfishes
