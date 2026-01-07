@@ -6378,7 +6378,6 @@ benzonaphthol
 benzonitrile
 behedge
 benzophenothiazine
-benzophloroglucinol
 betting
 benedight
 bulrush
@@ -11716,6 +11715,7 @@ burglarize
 bepranked
 bipaleolate
 beefalos
+benzophloroglucinol
 bobadil
 biotomy
 bretwaldaship
