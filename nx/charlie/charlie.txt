@@ -20532,6 +20532,7 @@ canonlike
 compearant
 countenanced
 crimes
+complainants
 compeering
 corinthianesque
 checkerspot
@@ -20636,7 +20637,6 @@ crost
 complacently
 chantant
 complainant
-complainants
 conventionism
 canalized
 complained
