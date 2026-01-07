@@ -4145,7 +4145,6 @@ condalia
 cardin
 cardinal
 croslet
-cancans
 cardinalfishes
 casuist
 capitate
@@ -25162,6 +25161,7 @@ carbonates
 chlorospinel
 coresign
 coresonant
+cancans
 convento
 chincher
 cronet
