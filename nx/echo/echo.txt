@@ -3916,7 +3916,6 @@ endexine
 emissory
 endysis
 entamebas
-electropathic
 endocrinologies
 engreen
 exogamic
@@ -12559,6 +12558,7 @@ eupathy
 excepable
 esthiomenus
 enuring
+electropathic
 echuca
 eating
 epistolet
