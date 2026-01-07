@@ -1140,6 +1140,7 @@ abalone
 audace
 attractive
 altruistic
+anthemed
 academized
 acadialite
 alpenstocker
@@ -6419,7 +6420,6 @@ algaesthesis
 amebula
 alternant
 affiancing
-anthemed
 ahmed
 asphalted
 arriccioci
