@@ -7716,7 +7716,6 @@ empasma
 executable
 epidiascope
 engraff
-egoism
 embrocating
 embosom
 exchanger
@@ -11049,6 +11048,7 @@ endosarcs
 enterrologist
 establish
 epigastriocele
+egoism
 endodontia
 europeanize
 euroaquilo
