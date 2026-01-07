@@ -9702,7 +9702,6 @@ besmiles
 buoyages
 bristleless
 bourette
-bismite
 bankrupcy
 bismuthate
 burhinus
@@ -13186,6 +13185,7 @@ borough
 bouquetin
 biseriate
 boroughmonger
+bismite
 blaspheme
 bankrupts
 borowolframic
