@@ -2601,6 +2601,7 @@ flashbacks
 filigreed
 ferio
 farandmen
+fiants
 foraminated
 ferruginating
 fulleries
@@ -7314,7 +7315,6 @@ falsies
 fallibilism
 figuring
 forescript
-fiants
 francolin
 freshment
 femereil
