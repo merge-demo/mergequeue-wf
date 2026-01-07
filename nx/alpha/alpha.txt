@@ -18299,7 +18299,6 @@ arachnida
 accidence
 astrophyton
 ampullitis
-arachnism
 apotheoses
 anaesthetizing
 apart
@@ -20501,6 +20500,7 @@ acrid
 arteriomalacia
 autoagglutinin
 actinobacilli
+arachnism
 actuaryship
 accomplishment
 autotoxemia
