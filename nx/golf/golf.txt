@@ -3917,6 +3917,7 @@ gyges
 galloperdix
 gymnarchidae
 gallotannate
+gemlike
 grossen
 guaycuru
 gyroplane
@@ -7744,7 +7745,6 @@ gentium
 girba
 glycuresis
 gurges
-gemlike
 guarapucu
 geist
 glaciolacustrine
