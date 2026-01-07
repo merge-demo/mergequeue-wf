@@ -2904,7 +2904,6 @@ filialness
 flea
 ferroprint
 fumarium
-flexity
 facier
 fac
 flaked
@@ -6014,6 +6013,7 @@ feldsher
 floorwise
 featishness
 fusty
+flexity
 foolscaps
 felspars
 flacon
