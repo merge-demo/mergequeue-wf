@@ -2662,7 +2662,6 @@ edh
 ergophobiac
 enchondromata
 electroresection
-expansion
 esoterica
 exemplarity
 efflorescent
@@ -6266,6 +6265,7 @@ enrich
 enrichener
 euphemise
 ectopias
+expansion
 enows
 electrotechnology
 ecclesiastry
