@@ -2402,6 +2402,7 @@ byblidaceae
 bowdlerised
 bardings
 becalms
+baidarka
 banditry
 botflies
 bardlike
@@ -6887,7 +6888,6 @@ burglariously
 bajan
 burgundian
 basically
-baidarka
 bepray
 bedrugging
 bitumed
