@@ -11652,6 +11652,7 @@ anagep
 antar
 anosphrasia
 ablepharon
+anteroexternal
 alimentation
 antarctica
 analcimite
@@ -14139,7 +14140,6 @@ adulterous
 aedeagal
 actiniarian
 aperispermic
-anteroexternal
 autobahns
 anastaltic
 adrenocortical
