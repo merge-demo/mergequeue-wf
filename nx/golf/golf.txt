@@ -2911,7 +2911,6 @@ gigmanhood
 gravediggers
 gedunk
 gunpoint
-geobotanic
 gustation
 gradualism
 gomlah
@@ -8169,6 +8168,7 @@ granulary
 guidebooks
 glyoxalin
 gobs
+geobotanic
 genically
 glyceride
 gorsedd
