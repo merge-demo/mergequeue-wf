@@ -1040,7 +1040,6 @@ benzothiopyran
 battening
 blockhead
 brachycephalization
-brasswork
 bailiwicks
 blitzbuggy
 bolete
@@ -14292,6 +14291,7 @@ boatels
 bayhead
 benefitted
 bisacromial
+brasswork
 bradyseism
 brassware
 bombycinous
