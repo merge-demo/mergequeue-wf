@@ -3420,7 +3420,6 @@ brethrenism
 biophysically
 boatshop
 benzalcyanhydrin
-bleaching
 bagani
 berogue
 belzebuth
@@ -5832,6 +5831,7 @@ boor
 beadier
 bonuses
 blacklisted
+bleaching
 boozily
 bellyland
 bonairness
