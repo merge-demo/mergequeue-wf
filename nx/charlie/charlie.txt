@@ -6848,7 +6848,6 @@ celioparacentesis
 cerinthian
 cowshard
 crawlier
-capless
 celioscope
 cella
 cellarage
@@ -17122,6 +17121,7 @@ cumacea
 centrodesmose
 crambambulee
 coevolving
+capless
 costocoracoid
 coachwise
 cully
