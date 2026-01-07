@@ -7610,7 +7610,6 @@ eccentricities
 elapse
 eoliths
 enterohelcosis
-epiparodos
 epicortical
 englobed
 enterocinetic
@@ -10064,6 +10063,7 @@ exoneretur
 ebonies
 encephalographically
 editorially
+epiparodos
 eledoisin
 entitlement
 ethanolamine
