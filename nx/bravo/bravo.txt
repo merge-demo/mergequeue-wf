@@ -6411,7 +6411,6 @@ benzothiazine
 benzothiazoline
 bitripartite
 brucite
-bregmata
 benzothiodiazole
 bergamiol
 bumpering
@@ -8889,6 +8888,7 @@ binukau
 bathypelagic
 bioaccumulation
 bioactivities
+bregmata
 bioassaying
 bioastronautics
 bungalow
