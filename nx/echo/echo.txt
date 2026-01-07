@@ -1615,6 +1615,7 @@ electrochemist
 embay
 euthamia
 euphonetics
+enregistry
 eruptions
 enablers
 errantly
@@ -5651,7 +5652,6 @@ euploid
 endophasic
 epilator
 erotism
-enregistry
 entrough
 expectorants
 evomit
