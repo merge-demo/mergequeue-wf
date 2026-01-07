@@ -16761,7 +16761,6 @@ drightin
 diplomate
 developed
 dumbness
-dravite
 draw
 disreputation
 diarrhoeic
@@ -16798,6 +16797,7 @@ dominee
 dey
 demurely
 decurtate
+dravite
 daniglacial
 disallowances
 decapitable
