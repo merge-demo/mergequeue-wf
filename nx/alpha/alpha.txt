@@ -5348,6 +5348,7 @@ anacreon
 aflower
 appaume
 acrorhagus
+aspirates
 afluking
 adjutrix
 aforementioned
@@ -20672,7 +20673,6 @@ afflicts
 artiad
 artichoke
 afghani
-aspirates
 aulostomid
 amphorous
 arefy
