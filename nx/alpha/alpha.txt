@@ -6855,7 +6855,6 @@ agrypnias
 abdicative
 airway
 aflutter
-astilbe
 aquavit
 armless
 allene
@@ -12471,6 +12470,7 @@ abogados
 apodoses
 affectability
 anubis
+astilbe
 anepigraphous
 algae
 amorists
