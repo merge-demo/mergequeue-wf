@@ -12191,6 +12191,7 @@ ancylostomiasis
 anemotactic
 arrame
 actinodrome
+anteorbital
 armorica
 ancyrean
 anhalonidine
@@ -14087,7 +14088,6 @@ antenuptial
 aplasias
 anteoccupation
 anteocular
-anteorbital
 augustinian
 animalize
 amphivorous
