@@ -2662,7 +2662,6 @@ decolours
 decommission
 decommissioned
 discriminably
-decian
 dozers
 decompensating
 delinquents
@@ -5591,6 +5590,7 @@ deflated
 deputes
 dozy
 dioctophyme
+decian
 desaturation
 distichal
 depetalize
