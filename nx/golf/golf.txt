@@ -3723,6 +3723,7 @@ grisaille
 georgie
 galvanize
 geothermometer
+garishness
 gpm
 goldbug
 gangwa
@@ -9123,7 +9124,6 @@ glads
 glaucus
 gappy
 galactidrosis
-garishness
 gherkin
 gentlehood
 goldwork
