@@ -1054,7 +1054,6 @@ gabardine
 glub
 gnarl
 geriatrics
-gossamer
 gebanga
 genitally
 gorgonin
@@ -9302,6 +9301,7 @@ grobian
 gesithcund
 garo
 gigabyte
+gossamer
 griddler
 gigglesome
 groceryman

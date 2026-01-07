@@ -5611,7 +5611,6 @@ againward
 aggrace
 ardeid
 agal
-agalactic
 appoggiaturas
 agalaxia
 anisomelus
@@ -20964,6 +20963,7 @@ azodicarboxylic
 ascends
 aerogeologist
 antitropous
+agalactic
 ascension
 accourage
 armorless
