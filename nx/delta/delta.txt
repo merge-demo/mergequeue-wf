@@ -1391,7 +1391,6 @@ davidical
 deicing
 desma
 davies
-droitsman
 dehumanize
 duotriode
 dayless
@@ -11786,6 +11785,7 @@ discrepantly
 decaudation
 demasts
 discrepated
+droitsman
 diskless
 discrepation
 defeasibility
