@@ -1009,6 +1009,7 @@ endorsing
 excel
 enquiring
 exorbital
+embar
 earthwork
 explosibility
 encapsules
@@ -4391,7 +4392,6 @@ enations
 euripos
 enbrave
 eggheadedness
-embar
 egotize
 eruptively
 experiential
