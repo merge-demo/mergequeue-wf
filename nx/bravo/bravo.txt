@@ -9508,7 +9508,6 @@ birn
 byrnie
 biotope
 battlefront
-birodo
 bisulphide
 bugong
 babingtonite
@@ -15804,6 +15803,7 @@ benchboard
 bilateralistic
 bractlet
 bromoil
+birodo
 bicorporeal
 berberin
 baalish
