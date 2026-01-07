@@ -7456,7 +7456,6 @@ figgum
 ferie
 fawnlike
 fisheyes
-firefang
 forswat
 footmen
 fausen
@@ -11749,6 +11748,7 @@ foresin
 fremdly
 factorage
 fumados
+firefang
 fuzees
 faultfinders
 fuzzier
