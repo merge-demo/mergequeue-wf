@@ -4065,6 +4065,7 @@ gesan
 gossipy
 gotched
 gopherroot
+gazy
 gynostegium
 gabendum
 genesic
@@ -7040,7 +7041,6 @@ glassworkers
 gastropathic
 gasconism
 gladrags
-gazy
 gunite
 garava
 goff
