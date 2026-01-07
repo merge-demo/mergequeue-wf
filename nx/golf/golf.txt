@@ -750,7 +750,6 @@ greund
 gemmiferousness
 grattoir
 giantlikeness
-gollywog
 gonoplasm
 galvanoglyph
 gar
@@ -9258,6 +9257,7 @@ grisons
 grandees
 goliard
 gynecol
+gollywog
 grisly
 glagolitic
 gravigrade
