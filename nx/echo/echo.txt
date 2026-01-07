@@ -2424,7 +2424,6 @@ excoriates
 epistle
 extrabold
 evenglow
-eumenidean
 empiristic
 esloign
 entailment
@@ -4470,6 +4469,7 @@ encaustically
 emotionalizing
 efferent
 examinatory
+eumenidean
 erth
 enceinte
 entozoology
