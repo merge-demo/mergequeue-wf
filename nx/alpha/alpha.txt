@@ -12186,7 +12186,6 @@ amongst
 ancodont
 aerified
 anubing
-ancoly
 ancome
 anilic
 alemannian
@@ -18078,6 +18077,7 @@ agromyza
 aptiana
 aptychus
 aptitude
+ancoly
 aptnesses
 autohypnotization
 anises
