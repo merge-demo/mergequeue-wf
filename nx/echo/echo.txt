@@ -108,7 +108,6 @@ ephydridae
 epithelioma
 enumerate
 earpick
-earpiece
 enchisel
 entone
 earreach
@@ -8436,6 +8435,7 @@ ensand
 epicier
 enthronizing
 elkhorn
+earpiece
 eroticomaniacal
 envolume
 eveweed
