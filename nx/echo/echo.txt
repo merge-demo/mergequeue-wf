@@ -828,7 +828,6 @@ epispadias
 euglenidae
 epizoa
 eclectically
-epistoler
 epilepsia
 erythrinidae
 eral
@@ -9974,6 +9973,7 @@ etalage
 endamnify
 ensures
 eurafrican
+epistoler
 enclear
 entepicondylar
 etape
