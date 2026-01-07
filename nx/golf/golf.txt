@@ -1499,7 +1499,6 @@ growly
 greta
 ghostology
 granolith
-glossological
 gaseousness
 guijo
 gauntness
@@ -10474,6 +10473,7 @@ geometries
 gastroadenitis
 gusset
 goosy
+glossological
 guimpe
 guanophore
 gourmands
