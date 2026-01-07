@@ -6744,6 +6744,7 @@ disally
 diocesans
 dirtboard
 datatype
+duplet
 demoralizer
 detestably
 diathermic
@@ -10340,7 +10341,6 @@ degeneracy
 dioramic
 diordinal
 dynodes
-duplet
 dipotassic
 disassimilate
 dioscurian
