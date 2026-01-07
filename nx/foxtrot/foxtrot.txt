@@ -2788,7 +2788,6 @@ fluidly
 fishhouse
 floodlights
 fideicommiss
-fraction
 forebush
 foreadmonish
 fieldsmen
@@ -7658,6 +7657,7 @@ flashlights
 freethinker
 fortyish
 frankmarriage
+fraction
 falces
 fools
 faluns
