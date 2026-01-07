@@ -5081,6 +5081,7 @@ balefire
 biocatalyst
 basenet
 broiderer
+bonesetting
 befile
 befire
 befist
@@ -10434,7 +10435,6 @@ backwoodser
 bayous
 brawer
 browman
-bonesetting
 blandishing
 blandishments
 braggadocian
