@@ -1828,7 +1828,6 @@ azotaemia
 atridean
 adolesced
 acequia
-assignable
 aethered
 aceraceous
 acerae
@@ -11281,6 +11280,7 @@ autocephaly
 absorptance
 abating
 amplication
+assignable
 aftercause
 amplificative
 avanguardisti
