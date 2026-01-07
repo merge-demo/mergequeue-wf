@@ -2324,6 +2324,7 @@ ecphonema
 electrizable
 exocyclic
 electrization
+eagling
 epicotyl
 eagled
 eyras
@@ -8322,7 +8323,6 @@ endured
 emigratory
 emulating
 embowelled
-eagling
 evangelise
 enscrolls
 eternizing
