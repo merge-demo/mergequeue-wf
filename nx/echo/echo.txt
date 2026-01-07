@@ -4697,6 +4697,7 @@ electromagnets
 ectomorphism
 encyclopedic
 ebauche
+endopolyploid
 encyclopedical
 etherialisation
 erpetology
@@ -11674,7 +11675,6 @@ exactitude
 electrohydraulic
 eulogias
 eleusinian
-endopolyploid
 exactness
 edeology
 exactors
