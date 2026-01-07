@@ -6556,6 +6556,7 @@ bournous
 booted
 bagwyn
 bagattino
+bannet
 bowldering
 bladderless
 berchemia
@@ -7347,7 +7348,6 @@ bethel
 brehon
 backage
 boletaceous
-bannet
 bigly
 bugi
 bethesda
