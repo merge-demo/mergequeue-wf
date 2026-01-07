@@ -8586,6 +8586,7 @@ andrite
 adjoins
 argyrythrose
 anoxidative
+autotelegraph
 anemology
 alleleu
 allelic
@@ -24436,7 +24437,6 @@ antilegalist
 autosuggestionist
 adversarious
 autosuppression
-autotelegraph
 allow
 autotelism
 antipharmic
