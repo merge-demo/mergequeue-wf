@@ -2197,6 +2197,7 @@ entozoologist
 examination
 elderberries
 exaggeration
+equips
 erythemic
 extromit
 emissitious
@@ -7708,7 +7709,6 @@ emergents
 englify
 ensure
 enterprising
-equips
 edelweisses
 ethinamate
 empasma
