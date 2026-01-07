@@ -5143,7 +5143,6 @@ collectivity
 circumrenal
 casebox
 cased
-cisatlantic
 catan
 convulsionism
 casefy
@@ -9412,6 +9411,7 @@ chawbacon
 chawdron
 comitative
 commoditable
+cisatlantic
 cpl
 cytitis
 chawers
