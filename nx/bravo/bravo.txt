@@ -13034,6 +13034,7 @@ banjo
 bloomers
 bombazine
 balanid
+borean
 boracite
 bisulphite
 blister
@@ -15310,7 +15311,6 @@ boardman
 brizz
 brewster
 bridemaid
-borean
 bregmatic
 biwa
 brecken
