@@ -3442,7 +3442,6 @@ debyes
 disassociating
 doffed
 dictyoxylon
-doigte
 defluvium
 demimark
 dhotis
@@ -6955,6 +6954,7 @@ distills
 deplanes
 decadic
 demonisms
+doigte
 disshroud
 despisingly
 deaeration
