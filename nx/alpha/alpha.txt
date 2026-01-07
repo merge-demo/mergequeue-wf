@@ -2077,7 +2077,6 @@ adansonia
 anthologion
 aphagia
 anticlinorium
-antenniferous
 advertent
 apout
 auditor
@@ -24652,6 +24651,7 @@ arbutuses
 archineuron
 avenage
 avenant
+antenniferous
 avenary
 avenge
 anopubic
