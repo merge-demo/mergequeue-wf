@@ -6765,6 +6765,7 @@ enemied
 ergon
 educator
 extramural
+encage
 entire
 epithumetic
 engluts
@@ -13219,7 +13220,6 @@ explainableness
 eductor
 epiphytism
 eldred
-encage
 exheredate
 embroiders
 excluders
