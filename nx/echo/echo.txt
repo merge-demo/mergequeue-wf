@@ -7694,6 +7694,7 @@ erythraea
 epirogeny
 epidermic
 epidermical
+endocranial
 enteroplasty
 erechtheus
 electropolish
@@ -13437,7 +13438,6 @@ expressway
 elegizing
 existentialists
 epoch
-endocranial
 euprepia
 embolomerous
 echinosphaeritidae
