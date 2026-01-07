@@ -1697,6 +1697,7 @@ apperceive
 astarte
 accumbent
 antieyestrain
+anhele
 anthracomartian
 agony
 agrestis
@@ -5531,7 +5532,6 @@ aftersound
 anterevolutional
 afterspring
 anatron
-anhele
 afterstretch
 amphitriaene
 autosuggestive
