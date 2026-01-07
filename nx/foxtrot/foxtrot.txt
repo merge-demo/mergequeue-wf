@@ -6204,7 +6204,6 @@ fluohydric
 furnacemen
 flowerwork
 finnicking
-foliose
 fascisticization
 forestless
 flowmeter
@@ -11087,6 +11086,7 @@ fogproof
 freightment
 flense
 finesses
+foliose
 fibrinoid
 frivolities
 fidessa
