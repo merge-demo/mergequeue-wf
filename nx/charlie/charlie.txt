@@ -21313,7 +21313,6 @@ coterminously
 couponed
 cardiomalacia
 conchae
-conchal
 cowfishes
 conchate
 chemigrapher
@@ -28742,6 +28741,7 @@ cutesiest
 chelae
 crumblings
 creply
+conchal
 cupeler
 cephaloplegia
 civetone
