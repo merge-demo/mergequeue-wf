@@ -8342,7 +8342,6 @@ epithets
 enterocolostomy
 exuvial
 eyetooth
-enthrallments
 educative
 excitomotory
 exclusory
@@ -12323,6 +12322,7 @@ encumbrous
 electroballistic
 eviscerations
 evectant
+enthrallments
 exertionless
 estuate
 excretes
