@@ -2026,6 +2026,7 @@ glissette
 gombeen
 gauzewing
 gomorrah
+glideless
 gantleted
 gnaeus
 grithman
@@ -2948,7 +2949,6 @@ gaeldom
 geocyclic
 gnat
 gorsy
-glideless
 gynaecocracies
 gunfighters
 grassplat
