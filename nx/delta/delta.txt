@@ -6347,7 +6347,6 @@ delimitized
 dermophobe
 domineering
 dermosclerite
-devious
 deco
 dermotropic
 dastardliness
@@ -9936,6 +9935,7 @@ dipneustal
 dogmata
 diminisher
 dezinc
+devious
 diminishingly
 diminishment
 dehorned
