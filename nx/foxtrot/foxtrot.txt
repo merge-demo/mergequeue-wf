@@ -533,7 +533,6 @@ foreconsider
 flyblown
 friz
 femes
-fertilizing
 frenne
 filicite
 faking
@@ -2162,6 +2161,7 @@ felonwort
 falutin
 flatterdock
 fraudproof
+fertilizing
 fligger
 femorocele
 fogyisms
