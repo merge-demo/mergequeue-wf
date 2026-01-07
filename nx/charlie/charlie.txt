@@ -6448,6 +6448,7 @@ collision
 cauterising
 cloudland
 cauterism
+cowy
 carafe
 correcter
 corone
@@ -21141,7 +21142,6 @@ concavity
 corrupter
 concealable
 cadger
-cowy
 concealedly
 concealer
 concealing
