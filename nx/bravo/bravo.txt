@@ -5177,6 +5177,7 @@ blellum
 buoyage
 befriended
 bribeless
+boldly
 bellbind
 beardfish
 befriender
@@ -12178,7 +12179,6 @@ banged
 beloid
 backstop
 bathmats
-boldly
 baedekers
 bonesets
 baalshem
