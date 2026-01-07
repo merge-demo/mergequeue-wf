@@ -19886,6 +19886,7 @@ armings
 avn
 autor
 arminianize
+apeling
 arminianizer
 armipotence
 analeptical
@@ -21056,7 +21057,6 @@ architectures
 acalypha
 auricularia
 attachedly
-apeling
 amblygon
 ascogone
 abstinency
