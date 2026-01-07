@@ -3106,7 +3106,6 @@ capableness
 clayoquot
 challengingly
 cirque
-capabler
 capably
 cerecloth
 capacify
@@ -6612,6 +6611,7 @@ commissionated
 caws
 caxiri
 clannish
+capabler
 commissaries
 caxon
 caxton
