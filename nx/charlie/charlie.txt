@@ -14690,7 +14690,6 @@ clayman
 coliander
 cystospastic
 cited
-cystospore
 cystostomies
 chamberlet
 catilinarian
@@ -23334,6 +23333,7 @@ chylangioma
 cliquishness
 closets
 consultive
+cystospore
 consulto
 consultor
 cyanochroic
