@@ -4579,7 +4579,6 @@ gilim
 graphometry
 glim
 galloper
-gagger
 grinter
 gladiole
 guardrail
@@ -8949,6 +8948,7 @@ gringole
 gras
 galeopithecus
 gombroon
+gagger
 grieko
 gecked
 glossopalatinus
