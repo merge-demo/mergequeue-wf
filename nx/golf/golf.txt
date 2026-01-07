@@ -754,6 +754,7 @@ gonoplasm
 galvanoglyph
 gar
 goniometric
+gossypin
 gnawer
 greenshank
 gasted
@@ -10249,7 +10250,6 @@ glutaraldehyde
 gonophorous
 gastroptosis
 gobbet
-gossypin
 galvo
 graminivore
 guiltsick
