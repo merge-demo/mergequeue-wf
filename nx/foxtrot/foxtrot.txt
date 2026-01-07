@@ -746,6 +746,7 @@ famp
 famuli
 fatshedera
 flushed
+fetlocked
 frustrater
 fana
 feoffment
@@ -6640,7 +6641,6 @@ fruitery
 funds
 fancymonger
 fatuousness
-fetlocked
 farmeress
 flies
 fecche
