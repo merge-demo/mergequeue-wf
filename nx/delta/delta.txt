@@ -6545,7 +6545,6 @@ dysnomy
 defied
 designator
 diota
-daedal
 deity
 descriptivism
 descrive
@@ -10524,6 +10523,7 @@ demasculinization
 diacidic
 dipleural
 docetically
+daedal
 dionysian
 dimeric
 demobs
