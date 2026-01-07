@@ -4862,7 +4862,6 @@ guideway
 genecologically
 gynecidal
 gravecloth
-gabbroic
 gippy
 garlicwort
 graupels
@@ -10449,6 +10448,7 @@ geobiologic
 gabber
 gumdrop
 gelseminine
+gabbroic
 gruffs
 gesticulatory
 gambeer
