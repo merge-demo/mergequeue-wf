@@ -4742,7 +4742,6 @@ euphrosyne
 enarthrosis
 emeerates
 embussed
-ericaceae
 erotesis
 entophyte
 enclaves
@@ -5908,6 +5907,7 @@ excursive
 ere
 exclave
 ethmonasal
+ericaceae
 enheart
 enhearten
 enfevering

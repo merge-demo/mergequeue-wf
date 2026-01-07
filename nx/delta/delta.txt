@@ -2921,7 +2921,6 @@ disyllabizing
 decussoria
 deltoid
 dogvanes
-divia
 dashel
 divide
 desmodont
@@ -12015,6 +12014,7 @@ descry
 dermatogen
 dewater
 disaffected
+divia
 dilacerate
 deducing
 deleading
