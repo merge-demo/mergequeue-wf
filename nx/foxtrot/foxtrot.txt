@@ -251,7 +251,6 @@ frostbound
 fritterer
 facultize
 finify
-fopship
 fulgur
 fannel
 fostress
@@ -5461,6 +5460,7 @@ flavorers
 filterable
 flexuosely
 floatative
+fopship
 flexible
 foggy
 faradises
