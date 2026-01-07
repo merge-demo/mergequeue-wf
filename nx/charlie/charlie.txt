@@ -11989,7 +11989,6 @@ cicatrised
 confarreate
 choriambus
 choric
-chorines
 collunarium
 cachina
 chorioallantoic
@@ -25791,6 +25790,7 @@ corrode
 corrie
 cephalodia
 copremic
+chorines
 corroders
 cneoraceae
 chilostoma
