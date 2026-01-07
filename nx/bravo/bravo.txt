@@ -12915,7 +12915,6 @@ bkpt
 burk
 basihyoid
 barthian
-breastwise
 boong
 bourignonist
 badan
@@ -13270,6 +13269,7 @@ balneologist
 brinkless
 bundists
 bosniak
+breastwise
 bromidic
 battlewise
 bifer
