@@ -9576,6 +9576,7 @@ feudalizing
 frist
 findfault
 fullers
+fotui
 forche
 foliated
 fyrd
@@ -10537,7 +10538,6 @@ freewheelers
 fascicularly
 fumelike
 firetail
-fotui
 frouzy
 flirtiest
 fazendas
