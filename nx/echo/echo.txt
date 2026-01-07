@@ -2741,6 +2741,7 @@ estadal
 enceint
 eleemosinar
 entity
+eeten
 equipotent
 electees
 expounds
@@ -3726,7 +3727,6 @@ embryotegae
 eweries
 embryotome
 exhalatory
-eeten
 enquiry
 ephemerons
 eleidin
