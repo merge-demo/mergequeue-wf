@@ -2201,7 +2201,6 @@ equips
 erythemic
 extromit
 emissitious
-elderliness
 empathy
 exponentiated
 electron
@@ -2353,6 +2352,7 @@ entocele
 explosive
 egad
 electrochemistry
+elderliness
 electromobilism
 excrementitial
 excrete
