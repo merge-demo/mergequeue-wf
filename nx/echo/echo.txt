@@ -10246,6 +10246,7 @@ extruders
 evansite
 epanorthosis
 errsyn
+entosternum
 experiences
 embedded
 excavators
@@ -10866,7 +10867,6 @@ eelfish
 elapoid
 effigiating
 eloigners
-entosternum
 educes
 echini
 encroaches
