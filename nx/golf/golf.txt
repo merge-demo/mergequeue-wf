@@ -773,7 +773,6 @@ grylle
 gunbearer
 gerkin
 galvanopuncture
-gummaker
 goutwort
 groupings
 gladsomer
@@ -7460,6 +7459,7 @@ gabbler
 glaring
 guereza
 glossist
+gummaker
 grabbier
 glanduliform
 grunerite
