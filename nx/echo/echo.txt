@@ -5486,7 +5486,6 @@ encircles
 embalmers
 enervating
 electroscope
-expansibility
 elritch
 ectocarpic
 epimerized
@@ -12912,6 +12911,7 @@ energetically
 etchant
 entodermic
 earstones
+expansibility
 electropuncturing
 epinine
 enteradenographic
