@@ -4856,6 +4856,7 @@ exorciser
 epidermatoid
 encoder
 episcopable
+expectance
 embryogenetic
 eucaryote
 enshrining
@@ -10595,7 +10596,6 @@ escallops
 eocarboniferous
 equalises
 earthiness
-expectance
 euchrome
 extracosmical
 euclideanism
