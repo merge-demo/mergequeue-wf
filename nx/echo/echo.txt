@@ -2420,6 +2420,7 @@ episcopalianize
 ensorcell
 events
 entrail
+extersive
 ecraseur
 emplection
 electrodialyze
@@ -13730,7 +13731,6 @@ enfavor
 elfhood
 euphemised
 emblazoning
-extersive
 exerting
 epitrochoidal
 ectosphere
