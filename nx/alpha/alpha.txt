@@ -19651,7 +19651,6 @@ acylal
 acetylsalol
 aryls
 apodeictical
-acreages
 anthogenesis
 ascaridole
 arimathaean
@@ -19754,6 +19753,7 @@ arithmograph
 arithmography
 azulejos
 ainsell
+acreages
 aggressiveness
 arithmomancy
 arivaipa
