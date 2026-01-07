@@ -1593,7 +1593,6 @@ fadges
 fichu
 flook
 flavobacterium
-forsee
 favosely
 formidability
 favosites
@@ -3005,6 +3004,7 @@ frons
 fetichize
 featherpated
 fibred
+forsee
 fibrefill
 freeloads
 fenestra
