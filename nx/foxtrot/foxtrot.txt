@@ -1360,7 +1360,6 @@ fatigue
 fossicks
 fatiguesome
 fragmenting
-fishbones
 fulminuric
 fatiha
 fruticeous
@@ -3691,6 +3690,7 @@ fetishistic
 forleit
 fittiness
 fragrances
+fishbones
 filicides
 flics
 fecundates
