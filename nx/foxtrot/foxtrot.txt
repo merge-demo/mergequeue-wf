@@ -8476,6 +8476,7 @@ factorizing
 fumado
 frow
 figment
+fairness
 forked
 formica
 fasciculate
@@ -10025,7 +10026,6 @@ feracity
 frigotherapy
 flashings
 fibrosities
-fairness
 fucation
 frijole
 footprint
