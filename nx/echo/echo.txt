@@ -1315,6 +1315,7 @@ encircler
 eigenvalue
 eassel
 enteroid
+elohist
 epyllia
 electrocardiogram
 emesis
@@ -3437,7 +3438,6 @@ embarks
 equipage
 exteroceptor
 equilibrium
-elohist
 em
 ensky
 embarricado
