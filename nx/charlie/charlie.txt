@@ -3576,7 +3576,6 @@ caucus
 caucused
 calvarias
 captives
-comatulae
 captor
 capturable
 capture
@@ -23491,6 +23490,7 @@ contentable
 congregator
 contentation
 contentedly
+comatulae
 counterartillery
 contenting
 caphs
