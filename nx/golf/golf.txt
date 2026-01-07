@@ -6032,7 +6032,6 @@ gunate
 geyerite
 grungy
 gentlemens
-grislier
 glovemen
 glutenin
 glycemia
@@ -7391,6 +7390,7 @@ gastrohysterectomy
 gumboots
 gothamite
 germiparous
+grislier
 gallicanism
 glassblower
 gummiest
