@@ -2100,6 +2100,7 @@ glimpser
 gamblers
 glancing
 gyrocompasses
+glacially
 gawgaw
 goldenseal
 gillian
@@ -7027,7 +7028,6 @@ gooseberry
 gimbaled
 gramash
 greenweed
-glacially
 guys
 genteelism
 geomantical

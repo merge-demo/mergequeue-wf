@@ -7057,7 +7057,6 @@ embelia
 enlinked
 electroencephalogram
 entoiling
-enunciability
 ebonising
 enured
 eleemosynar
@@ -13452,6 +13451,7 @@ epitomization
 enzymolysis
 exorate
 expropriator
+enunciability
 eringo
 epenthetic
 electrolyse
