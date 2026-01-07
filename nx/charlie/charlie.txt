@@ -2316,6 +2316,7 @@ cithrens
 carthaginian
 canaler
 chimeres
+chider
 cine
 caprone
 chylocyst
@@ -5077,7 +5078,6 @@ carvoeira
 carvoepra
 carwash
 carwashes
-chider
 carzey
 casablanca
 casalty
