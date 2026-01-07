@@ -5471,7 +5471,6 @@ endoplasmic
 extramundane
 endotheliomyxoma
 energize
-egging
 energizers
 edify
 eosinophilia
@@ -12585,6 +12584,7 @@ exocoelic
 explant
 epicardium
 electrostatics
+egging
 exocoelum
 epifascial
 empresa
