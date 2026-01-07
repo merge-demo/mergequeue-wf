@@ -4217,6 +4217,7 @@ fatting
 fireplug
 firepot
 frijolillo
+fylgja
 fructoside
 forebooms
 flots
@@ -5354,7 +5355,6 @@ fldxt
 foolhardier
 frower
 frugalism
-fylgja
 featherweight
 faintheart
 furciform
