@@ -9305,7 +9305,6 @@ alsike
 actinolite
 aspersoir
 arbitrage
-avoir
 alsmekill
 archetypical
 alsophila
@@ -11214,6 +11213,7 @@ ana
 animikite
 acheron
 amphithyron
+avoir
 apetalies
 amphithura
 amphipnous
