@@ -1964,7 +1964,6 @@ baneberry
 benzoflavine
 bible
 bethabara
-bywalk
 bescratch
 bullragging
 bitwise
@@ -18139,6 +18138,7 @@ babuina
 blurrier
 beethovian
 buteonine
+bywalk
 bods
 blockading
 boisseaux
