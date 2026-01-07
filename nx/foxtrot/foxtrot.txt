@@ -2339,7 +2339,6 @@ flunked
 friarly
 funerary
 fleay
-fructiculose
 fostell
 femineity
 frightener
@@ -5997,6 +5996,7 @@ faitour
 floorboard
 fixures
 flashness
+fructiculose
 floorcloths
 finalize
 fumid

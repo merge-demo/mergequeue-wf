@@ -5246,6 +5246,7 @@ gleys
 grindery
 grissons
 gloamings
+grippier
 gaited
 gyrovagi
 gemmipara
@@ -10535,7 +10536,6 @@ geometrina
 geodesical
 gratiola
 gibs
-grippier
 gulix
 georgia
 grallic
