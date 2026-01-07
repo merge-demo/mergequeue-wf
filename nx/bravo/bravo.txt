@@ -4856,6 +4856,7 @@ bedunced
 bacchantes
 bourgeon
 benames
+blowtorch
 bartholomew
 blephara
 bedsitter
@@ -8215,7 +8216,6 @@ broadwayite
 bifilar
 bifilarly
 biflabellate
-blowtorch
 biflagelate
 bleo
 bewaring
