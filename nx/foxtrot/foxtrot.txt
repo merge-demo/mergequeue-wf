@@ -1832,7 +1832,6 @@ flashlight
 flavoured
 febricitant
 frictions
-fore
 feastless
 febrific
 flaccid
@@ -10160,6 +10159,7 @@ forefatherly
 franion
 foretopman
 fructuary
+fore
 flunkeyism
 functionality
 flagellariaceous
