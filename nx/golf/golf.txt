@@ -867,7 +867,6 @@ gire
 geometrician
 grammaticality
 glycosidic
-gonagia
 gonadotropin
 girdlingly
 gammy
@@ -5760,6 +5759,7 @@ groovers
 gonidic
 gangways
 gypsumed
+gonagia
 goofiest
 garlicky
 gumhar
