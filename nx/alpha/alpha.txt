@@ -18677,6 +18677,7 @@ augends
 autocephality
 archbishopry
 archbishopric
+arrases
 acroamata
 awhet
 archbotcher
@@ -20173,7 +20174,6 @@ alyssum
 abutter
 alc
 arrasene
-arrases
 ahuehuete
 acoelomata
 arrastra
