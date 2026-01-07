@@ -1406,7 +1406,6 @@ gaulsh
 glycosemia
 geitjie
 germanize
-grecize
 gruffish
 gaits
 gypsies
@@ -6789,6 +6788,7 @@ girders
 girded
 gatewayman
 gentlemanism
+grecize
 goodwill
 gibel
 gravilea
