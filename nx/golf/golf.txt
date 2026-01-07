@@ -1599,6 +1599,7 @@ grizzly
 gougers
 gunreach
 grampus
+gloater
 goosegrass
 glyconean
 gunnar
@@ -5132,7 +5133,6 @@ grassland
 graciousness
 glycoside
 gasteromycete
-gloater
 glossate
 glarier
 gregarinous
