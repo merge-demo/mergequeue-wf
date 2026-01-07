@@ -7975,7 +7975,6 @@ duodecuple
 dataset
 disallowance
 dragading
-doxology
 doggess
 dietetically
 diagenetic
@@ -11801,6 +11800,7 @@ discrested
 dowering
 default
 dined
+doxology
 dermutation
 discretion
 discretional
