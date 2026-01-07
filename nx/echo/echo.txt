@@ -7368,7 +7368,6 @@ electoral
 echinochloa
 explosion
 egger
-ensculpture
 entasia
 exsanguineous
 epenla
@@ -10581,6 +10580,7 @@ excursionary
 electrophoretically
 encoffinment
 ethylenic
+ensculpture
 eckehart
 ethmose
 erotomania
