@@ -4009,6 +4009,7 @@ exogens
 eversive
 eyeblack
 expresser
+ephemeris
 elucidations
 emphysema
 endobronchitis
@@ -6497,7 +6498,6 @@ estimative
 execration
 ephemeric
 englishes
-ephemeris
 egomaniacal
 enumerators
 essayists

@@ -4994,7 +4994,6 @@ aerose
 aerosolization
 altisonous
 ageratums
-alexinic
 aerosolized
 aerostatic
 aerostatical
@@ -6314,6 +6313,7 @@ agrobacterium
 ammites
 analytically
 agrodolce
+alexinic
 aliphatic
 aparthrosis
 agrogeology
