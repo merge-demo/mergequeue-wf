@@ -3047,7 +3047,6 @@ cantoral
 cantoria
 cardsharps
 calabooses
-crystallographic
 cantoris
 cantors
 collaborationists
@@ -9860,6 +9859,7 @@ crampet
 chemigraphy
 caudotibialis
 chemiloon
+crystallographic
 chemiluminescence
 chemiotactic
 chemiotaxic
