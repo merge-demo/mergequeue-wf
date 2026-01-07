@@ -12129,7 +12129,6 @@ baltetei
 balladier
 bojo
 bokhara
-burgher
 baronized
 boronic
 bokharan
@@ -14469,6 +14468,7 @@ blastulas
 blighting
 barnstorm
 belieffulness
+burgher
 branchiocardiac
 blowline
 brainstems
