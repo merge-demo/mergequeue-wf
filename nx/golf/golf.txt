@@ -1264,7 +1264,6 @@ grognard
 geneki
 glycogelatin
 genophobia
-griffes
 guenon
 glutinosity
 guib
@@ -10091,6 +10090,7 @@ gigman
 galivanting
 glore
 gudgeon
+griffes
 groupoids
 gauntest
 graecize
