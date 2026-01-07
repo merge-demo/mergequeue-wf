@@ -2141,6 +2141,7 @@ greensward
 gaining
 gazabo
 guarantors
+glands
 ganodus
 galliot
 gormaw
@@ -8509,7 +8510,6 @@ gleyde
 groutnoll
 gnatling
 grivets
-glands
 golfing
 graveclod
 genl
