@@ -7517,7 +7517,6 @@ ammonolyze
 antisteapsin
 antitax
 atrocity
-arabite
 agau
 asylum
 arrhythmical
@@ -13193,6 +13192,7 @@ anischuria
 arietta
 aniseed
 adynamic
+arabite
 atingle
 anisic
 autosuggestible

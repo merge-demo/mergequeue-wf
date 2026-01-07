@@ -2500,6 +2500,7 @@ feeler
 footwall
 frugivorous
 fibromembranous
+frate
 filamentule
 fooleries
 frangibility
@@ -4342,7 +4343,6 @@ fisetin
 foramens
 focuser
 forfeitable
-frate
 fibroplastic
 flyte
 flavo
