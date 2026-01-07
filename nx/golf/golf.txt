@@ -6097,7 +6097,6 @@ greit
 glossographical
 greatly
 gnathostomous
-gnathostome
 gjetosts
 gallivants
 gastroenterocolitis
@@ -9906,6 +9905,7 @@ gastrologist
 gerygone
 gustless
 guanin
+gnathostome
 gagate
 gynophagite
 ghoom
