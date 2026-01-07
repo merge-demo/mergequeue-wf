@@ -3199,7 +3199,6 @@ damselflies
 dudelsack
 dashpot
 defeit
-de
 dogdom
 deciding
 douses
@@ -10568,6 +10567,7 @@ directionless
 deafens
 diploe
 disbalancement
+de
 dispend
 disesteemed
 dissimulating
