@@ -2601,7 +2601,6 @@ docetist
 desistence
 diplocephalous
 decoat
-decoct
 drabbing
 demiquaver
 dashes
@@ -6534,6 +6533,7 @@ described
 dolous
 divorce
 dialect
+decoct
 disaffectionate
 dinosaurian
 descries
