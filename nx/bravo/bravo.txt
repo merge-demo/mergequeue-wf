@@ -1956,7 +1956,6 @@ believes
 baahling
 beeway
 beworms
-bacteriophage
 bandwidth
 bandworm
 boogiewoogie
@@ -2056,6 +2055,7 @@ bankruptcy
 boltel
 bankrupting
 babylonia
+bacteriophage
 bemock
 breastbones
 bottlelike
