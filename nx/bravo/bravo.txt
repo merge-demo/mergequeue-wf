@@ -487,6 +487,7 @@ billhead
 briming
 broadway
 besiclometer
+baldrick
 baddish
 blackacre
 biogenesis
@@ -5752,7 +5753,6 @@ bulbochaete
 bood
 biarticular
 bylining
-baldrick
 bellboys
 belay
 belled
