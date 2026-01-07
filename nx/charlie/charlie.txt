@@ -25638,6 +25638,7 @@ corpses
 creeshy
 cecity
 corpsy
+cossie
 cleverness
 corpsman
 coprah
@@ -26226,7 +26227,6 @@ calmingly
 cosshen
 cossic
 cossidae
-cossie
 cossnent
 contemn
 citydom
