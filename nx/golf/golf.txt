@@ -6194,6 +6194,7 @@ gp
 galactophagist
 glucosamine
 goaty
+guestive
 ginglymoarthrodia
 glissade
 gastroenteroanastomosis
@@ -6755,7 +6756,6 @@ genericness
 grapples
 gamelang
 ganam
-guestive
 gamgee
 gratias
 gobbe
