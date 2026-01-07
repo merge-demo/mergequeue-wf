@@ -612,6 +612,7 @@ galactose
 galbulinae
 guaranian
 glockenspiels
+gabert
 glossopalatine
 grieben
 guineas
@@ -8771,7 +8772,6 @@ gobbin
 germling
 gaypoo
 gladless
-gabert
 gridding
 gralloch
 graminaceous
