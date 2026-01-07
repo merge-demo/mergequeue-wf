@@ -2095,7 +2095,6 @@ bannocks
 blatting
 boilinglike
 bivittate
-banovina
 banquet
 blindish
 bardiest
@@ -6631,6 +6630,7 @@ bargeboard
 barbarious
 beriberis
 bevesseled
+banovina
 beerier
 berycid
 bovld
