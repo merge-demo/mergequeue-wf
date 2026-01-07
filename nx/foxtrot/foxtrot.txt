@@ -6880,7 +6880,6 @@ folky
 fibromyxosarcoma
 fidejussory
 footings
-fretways
 fimbriae
 focus
 finalizes
@@ -9104,6 +9103,7 @@ foreglow
 famed
 fords
 filterer
+fretways
 fleabanes
 fourberie
 fedelini
