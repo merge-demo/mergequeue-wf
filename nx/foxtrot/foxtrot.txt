@@ -627,7 +627,6 @@ folsom
 frazil
 fertility
 faintingly
-fluctiferous
 flavorless
 fits
 fallibleness
@@ -4652,6 +4651,7 @@ fortify
 filet
 fourthly
 fatale
+fluctiferous
 flange
 folkmooter
 forages
