@@ -371,7 +371,6 @@ baseballdom
 brachyurus
 baht
 bullocky
-beri
 ballium
 broguish
 butterball
@@ -14576,6 +14575,7 @@ butterburr
 blockage
 blackcurrant
 betrail
+beri
 branchiogenous
 branchiomere
 baikie
