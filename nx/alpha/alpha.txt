@@ -14343,7 +14343,6 @@ ambulancing
 analepsis
 albuminone
 antagonizable
-abecedarium
 axonia
 anthracosaurus
 anthracosis
@@ -18880,6 +18879,7 @@ airy
 archmonarchist
 alights
 assemblers
+abecedarium
 abomasa
 ardrigh
 archiepiscopal
