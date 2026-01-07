@@ -334,7 +334,6 @@ bangala
 bigha
 billiardly
 burglars
-bobfly
 burlers
 befilth
 buckra
@@ -9592,6 +9591,7 @@ biblist
 bodewash
 budorcas
 budgets
+bobfly
 bumbler
 backyarder
 bothridium
