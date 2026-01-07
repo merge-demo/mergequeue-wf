@@ -1592,7 +1592,6 @@ exaggeratedness
 essenis
 emball
 enterokinetic
-eglamore
 eglandular
 electrosynthetically
 eglantines
@@ -5475,6 +5474,7 @@ energical
 energid
 epitendineum
 ensuing
+eglamore
 endoplasmic
 extramundane
 endotheliomyxoma
