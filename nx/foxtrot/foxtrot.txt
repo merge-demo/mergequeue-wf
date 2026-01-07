@@ -72,7 +72,6 @@ fenchone
 feudalization
 faceharden
 flagships
-flecken
 financiers
 facellite
 felonious
@@ -5138,6 +5137,7 @@ furculae
 fairnesses
 flashiest
 ficoidaceae
+flecken
 fermerer
 famulli
 fragrancies
