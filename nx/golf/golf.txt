@@ -3148,7 +3148,6 @@ guffaws
 gullage
 gurglet
 grees
-graphically
 glauconiferous
 goan
 golandaas
@@ -6881,6 +6880,7 @@ glibly
 goodenia
 garnering
 gaped
+graphically
 gestated
 gatling
 guyed
