@@ -3695,6 +3695,7 @@ celomata
 carangin
 chunderous
 chromicize
+chamaeleo
 coemptive
 conjugation
 chabutra
@@ -6407,7 +6408,6 @@ counterassurance
 caustical
 caustically
 causticism
-chamaeleo
 celticism
 conversion
 camatina
