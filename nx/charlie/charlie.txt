@@ -6949,6 +6949,7 @@ camis
 ceratomandibular
 clocklike
 calor
+cuon
 closefisted
 cembalo
 cembalon
@@ -16484,7 +16485,6 @@ caponizes
 clocker
 clockhouse
 clockless
-cuon
 clockmaking
 crewer
 clockwatcher
