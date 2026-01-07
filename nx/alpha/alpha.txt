@@ -2496,7 +2496,6 @@ alexin
 alabastrons
 amoebicidal
 aculei
-acolythate
 ardella
 autoserum
 austrasian
@@ -7926,6 +7925,7 @@ aleuronat
 absi
 aleurone
 aetiological
+acolythate
 antimicrobic
 argynnis
 antifowl
