@@ -5592,7 +5592,6 @@ gravestone
 gunks
 goller
 giantesque
-grithbreach
 grime
 girdlecake
 grossular
@@ -7460,6 +7459,7 @@ ghbor
 groundswells
 gonococcal
 goldfish
+grithbreach
 gourded
 granuliferous
 geocentrical
