@@ -1209,7 +1209,6 @@ grappler
 glaux
 gimcrackery
 gimmicking
-glanders
 garrisonian
 glossectomies
 guatusan
@@ -2686,6 +2685,7 @@ garg
 germantown
 globulicidal
 genetika
+glanders
 gurgeon
 greatest
 guaraguao
