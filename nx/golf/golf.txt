@@ -3537,6 +3537,7 @@ grudger
 gynandromorphism
 gemul
 gewgawry
+geckoes
 gyrfalcon
 gigantological
 gestatory
@@ -9775,7 +9776,6 @@ gable
 gibbetting
 gorged
 glutens
-geckoes
 gird
 gonimium
 grumphie
