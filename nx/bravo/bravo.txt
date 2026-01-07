@@ -14001,6 +14001,7 @@ bowwow
 bullflower
 brachygraphy
 bethels
+boardable
 blitzes
 bibulosity
 becluster
@@ -15620,7 +15621,6 @@ bescent
 birdikin
 beast
 barbule
-boardable
 brisking
 briss
 backwoodsman
