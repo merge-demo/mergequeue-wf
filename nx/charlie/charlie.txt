@@ -5061,7 +5061,6 @@ crofterization
 carvage
 carval
 carve
-cannabinol
 carvene
 coronad
 carver
@@ -30939,6 +30938,7 @@ clews
 culverhouse
 churrs
 culvers
+cannabinol
 cum
 cants
 cumay
