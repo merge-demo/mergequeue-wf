@@ -5216,7 +5216,6 @@ groundsheet
 gale
 gleamless
 gramophone
-germinant
 glyptologist
 ghi
 goldarnedest
@@ -9775,6 +9774,7 @@ gable
 gibbetting
 gorged
 glutens
+germinant
 gird
 gonimium
 grumphie

@@ -3181,6 +3181,7 @@ dislevelment
 descendible
 despiteous
 duellists
+diene
 dulcineas
 determinant
 deracine
@@ -17703,7 +17704,6 @@ dubiety
 demutization
 dubio
 devot
-diene
 discoloredness
 discriminateness
 derivate
