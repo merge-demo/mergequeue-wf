@@ -18,7 +18,6 @@ cryptostoma
 chaenomeles
 cows
 corkmaking
-cosets
 cabaletta
 cestas
 cardplaying
@@ -4748,6 +4747,7 @@ counterearth
 clownage
 ciboria
 castalian
+cosets
 chigetais
 champerty
 coumarou
