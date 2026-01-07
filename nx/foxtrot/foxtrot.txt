@@ -5916,7 +5916,6 @@ freeing
 foreplanting
 folgerite
 fencepost
-firemen
 fissirostral
 fantasmagoric
 furlers
@@ -9126,6 +9125,7 @@ fliers
 formalins
 fulfils
 fortresses
+firemen
 fribblish
 filters
 followings
