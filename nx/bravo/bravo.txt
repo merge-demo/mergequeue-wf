@@ -5045,7 +5045,6 @@ bedplates
 benzothiophene
 befalling
 brainache
-benzomorpholine
 befalls
 botanised
 battlers
@@ -12282,6 +12281,7 @@ barrandite
 bogway
 balms
 billet
+benzomorpholine
 bolshevist
 biopoesis
 bolshevize
