@@ -2936,6 +2936,7 @@ gombos
 geochemical
 gee
 gelose
+gaiety
 gallipot
 gobiiformes
 gerbil
@@ -7401,7 +7402,6 @@ grangerization
 gaduin
 gadean
 grateless
-gaiety
 gassit
 grandest
 gotiglacial
