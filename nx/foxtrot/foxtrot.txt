@@ -6848,7 +6848,6 @@ frescoers
 format
 fluigramme
 favoringly
-foliate
 favourableness
 fistiness
 floridities
@@ -7016,6 +7015,7 @@ fondly
 fluorspar
 flop
 fondlingly
+foliate
 fraenulum
 foozled
 felsite
