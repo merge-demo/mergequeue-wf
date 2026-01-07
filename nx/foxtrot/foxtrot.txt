@@ -8468,7 +8468,6 @@ feasibilities
 fortin
 frondesce
 factorized
-formatter
 father
 floridans
 firy
@@ -8646,6 +8645,7 @@ finestiller
 finites
 forborn
 fytte
+formatter
 ferroboron
 flattest
 farstepped
