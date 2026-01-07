@@ -4237,6 +4237,7 @@ flail
 fireward
 fumaroles
 foretrysail
+fractiousness
 forehead
 forclose
 fictionisation
@@ -8115,7 +8116,6 @@ flasklet
 factorist
 foret
 fragilaria
-fractiousness
 foretackle
 freemasonism
 flamandize
