@@ -4677,6 +4677,7 @@ datatypes
 dunt
 desperateness
 disnaturalize
+descript
 diamondwise
 diffareation
 disrelish
@@ -14823,7 +14824,6 @@ docoglossate
 diswarren
 doctor
 doctored
-descript
 dashwheel
 deservingly
 doctorfishes
