@@ -761,7 +761,6 @@ gasted
 gustfulness
 gangrened
 galvanology
-gasterolichenes
 geomechanics
 goumi
 galvanoplasty
@@ -3735,6 +3734,7 @@ glyceral
 gastromalacia
 guardstone
 gulist
+gasterolichenes
 gaslighted
 grafters
 gelastic
