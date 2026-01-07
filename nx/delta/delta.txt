@@ -12466,7 +12466,6 @@ dulia
 desulfurate
 discontinue
 douching
-dislocable
 diastematic
 dishrags
 dishtowels
@@ -15982,6 +15981,7 @@ direct
 double
 dotter
 discommodious
+dislocable
 doubleheartedness
 doddypoll
 demarcated
