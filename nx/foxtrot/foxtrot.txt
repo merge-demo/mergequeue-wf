@@ -2209,6 +2209,7 @@ fondlesome
 fluorinates
 floormen
 feminineness
+fchar
 feudee
 filosa
 follows
@@ -4932,7 +4933,6 @@ flatteringly
 flightshot
 fergusite
 frenetic
-fchar
 forewrought
 fluidised
 fluoresced
