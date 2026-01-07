@@ -6729,7 +6729,6 @@ decil
 dogy
 decontaminative
 desucration
-desilicify
 desiliconization
 didascalar
 doubly
@@ -8854,6 +8853,7 @@ diffeomorphism
 domiciliating
 duodenoscopy
 dicacity
+desilicify
 deodorising
 dwarfed
 dinergate
