@@ -5963,7 +5963,6 @@ bridaler
 benthopelagic
 backening
 barothermohygrogram
-bosslet
 bolivian
 begripe
 bellarmine
@@ -8182,6 +8181,7 @@ busybodied
 ballonet
 beardie
 bailouts
+bosslet
 brontophobia
 before
 bash
