@@ -679,6 +679,7 @@ exudative
 eclipsed
 exserted
 equivocacy
+elliptically
 eudaemonistic
 ephraimitic
 entoparasitic
@@ -2622,7 +2623,6 @@ etherical
 expurgative
 eudiaphoresis
 excerpted
-elliptically
 exercitor
 epithelize
 editchar
