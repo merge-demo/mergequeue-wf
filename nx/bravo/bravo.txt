@@ -10516,7 +10516,6 @@ berrichon
 brickfielder
 beeflower
 blastochyle
-blastocoel
 bibliopegically
 blastocoele
 blastodisc
@@ -10782,6 +10781,7 @@ beggarism
 browsage
 balneation
 blennophobia
+blastocoel
 blennoptysis
 bosseyed
 brickwise
