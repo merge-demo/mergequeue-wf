@@ -8318,6 +8318,7 @@ graphoscope
 glycoprotein
 grudgeless
 graphotype
+gummic
 gastly
 grapier
 gusseting
@@ -9976,7 +9977,6 @@ garb
 gumptions
 grilladed
 grasslands
-gummic
 guarico
 gonidial
 grievousness
