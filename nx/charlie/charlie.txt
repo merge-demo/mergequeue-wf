@@ -14134,7 +14134,6 @@ caldarium
 charruan
 crystallophobia
 concentrically
-circuits
 clochan
 cardioneural
 capsulize
@@ -26145,6 +26144,7 @@ cosmographically
 cosmographies
 cosmoline
 consociative
+circuits
 cloudlet
 coldbloodedness
 convocant
