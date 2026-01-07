@@ -4782,7 +4782,6 @@ aeroboat
 aerobranchia
 appearing
 alditol
-anglic
 aerocamera
 anthropotheism
 anears
@@ -11181,6 +11180,7 @@ arts
 apronless
 aleck
 aik
+anglic
 antimasks
 animisms
 amphiscians
