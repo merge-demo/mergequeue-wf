@@ -2897,7 +2897,6 @@ filthless
 fiance
 flyoff
 filialness
-flea
 ferroprint
 fumarium
 facier
@@ -7141,6 +7140,7 @@ foreallege
 fregatae
 fishmeals
 fibrillae
+flea
 fuscous
 fulminic
 football
