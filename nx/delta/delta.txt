@@ -12453,7 +12453,6 @@ dampne
 dishome
 dishonor
 distendedness
-dishonorer
 deresinize
 dishonoring
 discontentful
@@ -17812,6 +17811,7 @@ ductules
 drawlatch
 ductwork
 duculinae
+dishonorer
 dictyosome
 decurve
 dermoblast
