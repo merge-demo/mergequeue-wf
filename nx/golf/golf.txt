@@ -2323,6 +2323,7 @@ gaiassa
 gelant
 glyceric
 granulation
+gyres
 gelatinating
 greyfish
 geognosis
@@ -9108,7 +9109,6 @@ girthline
 glutination
 glathsheimr
 goadster
-gyres
 gease
 graveyards
 glaucomys
