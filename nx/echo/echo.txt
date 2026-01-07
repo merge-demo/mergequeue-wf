@@ -12228,7 +12228,6 @@ epitritic
 eloiner
 encommon
 expounding
-exegesis
 exasperative
 execrated
 elegists
@@ -13157,6 +13156,7 @@ epithetician
 epistlar
 endergonic
 eugenist
+exegesis
 evilmouthed
 ereptase
 ethnicize
