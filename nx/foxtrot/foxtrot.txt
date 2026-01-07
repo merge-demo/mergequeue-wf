@@ -2908,6 +2908,7 @@ filialness
 flea
 ferroprint
 fumarium
+flexity
 facier
 fac
 flaked
@@ -5893,7 +5894,6 @@ feyer
 festine
 fecund
 fistfight
-flexity
 feague
 fangas
 foaminess
