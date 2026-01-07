@@ -844,7 +844,6 @@ epop
 exulate
 etamines
 eriophorum
-eosinophil
 elfwife
 ectocommensal
 ectocondylar
@@ -5284,6 +5283,7 @@ emendating
 effector
 endorsees
 emeriti
+eosinophil
 epicoracoidal
 eustachium
 externes

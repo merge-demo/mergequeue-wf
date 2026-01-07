@@ -1706,7 +1706,6 @@ gester
 gluttonise
 gluts
 gelatination
-gastightness
 grudgefulness
 gryposis
 glyptodont
@@ -9620,6 +9619,7 @@ gravelike
 gossiphood
 gerbe
 geums
+gastightness
 gedanite
 gravimeters
 glandula
