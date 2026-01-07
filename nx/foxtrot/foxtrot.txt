@@ -2447,7 +2447,6 @@ firn
 fumbulator
 firstcomer
 fireproofing
-fumous
 fishhood
 footscraper
 flexed
@@ -5841,6 +5840,7 @@ filemark
 farts
 foreordaining
 finally
+fumous
 freakdom
 ferox
 forestallment
