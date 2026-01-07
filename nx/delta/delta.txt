@@ -13983,7 +13983,6 @@ daubreelite
 dichroism
 datableness
 daubed
-dioptrics
 distomes
 devel
 distomidae
@@ -15604,6 +15603,7 @@ detergible
 dooring
 doorknob
 daliance
+dioptrics
 doorless
 discreetest
 doormaid
