@@ -829,6 +829,7 @@ euglenidae
 epizoa
 eclectically
 epistoler
+epilepsia
 erythrinidae
 eral
 excrescent
@@ -2514,7 +2515,6 @@ embryopathology
 enervators
 endostylar
 epanisognathism
-epilepsia
 ensate
 eparcuale
 epitomisation
