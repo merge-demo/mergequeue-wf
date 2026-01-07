@@ -5589,7 +5589,6 @@ bruscus
 belash
 blobbed
 bomi
-bumbard
 bombloads
 belaboring
 battlement
@@ -15611,6 +15610,7 @@ basifixed
 brewsterite
 barbacan
 brises
+bumbard
 buttonmould
 broadcasted
 bluehead
