@@ -5965,7 +5965,6 @@ bolivian
 begripe
 bellarmine
 bemaddened
-babbage
 bemaim
 bushet
 bemangle
@@ -6564,6 +6563,7 @@ bladderless
 berchemia
 borachio
 blazoned
+babbage
 battuta
 birdie
 brazenly
