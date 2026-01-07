@@ -5020,7 +5020,6 @@ encyclopediac
 encaenia
 endophragmal
 equaling
-equimolal
 entomb
 enqueued
 encumbrances
@@ -11808,6 +11807,7 @@ ethenoidal
 ectothermic
 exists
 exauthorizeexc
+equimolal
 eplot
 externization
 epipolism
