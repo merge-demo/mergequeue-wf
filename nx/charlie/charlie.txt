@@ -7343,7 +7343,6 @@ centurist
 coroners
 craggedness
 cherishes
-ceorl
 cep
 crisis
 cepaceous
@@ -30727,6 +30726,7 @@ cuing
 cuirassed
 catachrestical
 cuirasses
+ceorl
 cuirassier
 commonplacely
 conusor
