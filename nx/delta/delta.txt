@@ -3871,7 +3871,6 @@ dejects
 drake
 dejeration
 dejeuner
-dekadrachm
 dabbers
 dekagramme
 doggerelize
@@ -13301,6 +13300,7 @@ dispositions
 dispositively
 diuretics
 drant
+dekadrachm
 disdainfully
 disconformable
 daylily
