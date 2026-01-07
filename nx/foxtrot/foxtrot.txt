@@ -1562,7 +1562,6 @@ fodderer
 forconceit
 fleuronee
 foochow
-fingermark
 freaking
 frustulent
 ferr
@@ -9751,6 +9750,7 @@ fissionability
 festinate
 floatable
 footmanry
+fingermark
 faunch
 facework
 fluviograph
