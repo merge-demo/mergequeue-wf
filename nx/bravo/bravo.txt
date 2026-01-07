@@ -391,7 +391,6 @@ betipple
 bailor
 brigadier
 backlogged
-babbled
 backouts
 biocenology
 backpack
@@ -11165,6 +11164,7 @@ beknottedly
 bloodshedder
 balsamina
 bawley
+babbled
 brachypnea
 bloodstream
 bifurcous
