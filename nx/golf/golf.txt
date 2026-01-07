@@ -77,7 +77,6 @@ goop
 gluey
 guidelines
 groupoid
-gallops
 grutten
 glauber
 gears
@@ -7189,6 +7188,7 @@ gonomery
 gonagra
 geniuses
 glistering
+gallops
 gibed
 geelbeck
 grassier
