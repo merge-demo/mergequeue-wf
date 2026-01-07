@@ -5176,6 +5176,7 @@ endogenous
 enlistment
 electo
 embroider
+endomorph
 endoglobular
 existibility
 embossment
@@ -11009,7 +11010,6 @@ electrodialitically
 editorializations
 eurypharyngidae
 extund
-endomorph
 encreel
 encyclopaedic
 eternalist
