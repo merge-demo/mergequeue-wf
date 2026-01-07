@@ -2566,6 +2566,7 @@ disequality
 dorsocephalic
 distiller
 declensionally
+dynamograph
 declensions
 decretist
 declimatize
@@ -10075,7 +10076,6 @@ dynamogenesis
 dauphins
 demological
 doggonedest
-dynamograph
 dynamometamorphic
 disseverance
 dynamometrical
