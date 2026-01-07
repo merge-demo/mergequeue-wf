@@ -3601,6 +3601,7 @@ grogginess
 gantangs
 gigtree
 griffe
+glycuronid
 gnathopod
 gents
 ghastily
@@ -9364,7 +9365,6 @@ gangtide
 geronomite
 globulitic
 goldurn
-glycuronid
 governability
 griffs
 glary
