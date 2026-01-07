@@ -4492,6 +4492,7 @@ grammontine
 gastrostaxis
 gastrohysterorrhaphy
 giraffe
+gospelmonger
 gynocardic
 gypsyism
 gowk
@@ -6496,7 +6497,6 @@ grazing
 gymnasia
 groundage
 groundably
-gospelmonger
 gallivat
 grummels
 glassfish
