@@ -2702,6 +2702,7 @@ finfish
 friezed
 fraternization
 fyce
+fussify
 fraela
 folklore
 feedy
@@ -6839,7 +6840,6 @@ foliaged
 foreparts
 firetower
 faulter
-fussify
 flipjack
 fourhanded
 fabled
