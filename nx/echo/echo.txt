@@ -4065,6 +4065,7 @@ eremian
 endsheet
 enquire
 elve
+encages
 eutherian
 ermit
 ethylbenzene
@@ -13487,7 +13488,6 @@ ethnomusicology
 enterparlance
 epidural
 episiorrhagia
-encages
 encumbrancer
 extraconstitutional
 enfroward
