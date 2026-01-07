@@ -4694,7 +4694,6 @@ complicatedness
 chwana
 contrary
 comptoir
-craftsmen
 centerline
 carotinemia
 carotinoid
@@ -12013,6 +12012,7 @@ choriomata
 chorions
 contemningly
 colleen
+craftsmen
 crete
 cosmological
 crucified
