@@ -4274,6 +4274,7 @@ durning
 delimit
 duckhood
 dequeue
+doria
 dronel
 daubster
 diacritical
@@ -15712,7 +15713,6 @@ defeatist
 dorcastry
 diadermic
 doucet
-doria
 demiturned
 duggler
 disgig
