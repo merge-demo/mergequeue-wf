@@ -887,6 +887,7 @@ gamp
 geegaw
 gadis
 glove
+garigue
 gers
 glossarize
 goolde
@@ -4549,7 +4550,6 @@ gmelinite
 ghostwriter
 gingering
 gyrate
-garigue
 gyrated
 gosain
 germinable
