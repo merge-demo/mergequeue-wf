@@ -13285,6 +13285,7 @@ bossdom
 boastful
 bructeri
 baromacrometer
+billtong
 beggarlice
 bankshall
 bossed
@@ -17782,7 +17783,6 @@ blepharoconjunctivitis
 buccinal
 buzzle
 burrgrailer
-billtong
 bringela
 base
 braiders
