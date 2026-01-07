@@ -3004,6 +3004,7 @@ entomology
 enlarged
 elidible
 etagere
+eudaemons
 eligibles
 entrecotes
 equipede
@@ -4527,7 +4528,6 @@ ephorate
 encephalopathia
 ethynylation
 emigrationist
-eudaemons
 ectosphenoid
 encephalos
 expropriations
