@@ -12432,7 +12432,6 @@ canthectomy
 chevroned
 culebra
 chromatopsia
-chromatoptometer
 chromatoptometry
 couch
 cobalticyanic
@@ -15153,6 +15152,7 @@ cladogenous
 cerebromalacia
 cupromanganese
 censurer
+chromatoptometer
 cladonia
 craniometrical
 cladoniaceae
