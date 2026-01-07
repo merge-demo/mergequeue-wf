@@ -7972,7 +7972,6 @@ eyebath
 enheritage
 edgerman
 ensconced
-evader
 energumenon
 educables
 expressly
@@ -8607,6 +8606,7 @@ enchantress
 embouchures
 excelled
 espavel
+evader
 equielliptical
 equigranular
 equilateral
