@@ -6700,6 +6700,7 @@ ginglyni
 gonid
 goyish
 gelly
+grinderies
 geometroid
 gabeler
 girdlelike
@@ -8315,7 +8316,6 @@ gasteria
 graphoscope
 glycoprotein
 grudgeless
-grinderies
 graphotype
 gastly
 grapier

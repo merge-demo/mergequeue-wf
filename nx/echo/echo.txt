@@ -2230,6 +2230,7 @@ eggless
 equiprobable
 encrisp
 eldest
+exult
 effigiated
 eventuate
 engulfment
@@ -13248,7 +13249,6 @@ ethanedithiol
 explicate
 enterectomies
 experimented
-exult
 entomological
 equiliria
 execrable
