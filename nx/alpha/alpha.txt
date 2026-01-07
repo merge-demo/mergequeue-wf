@@ -3758,7 +3758,6 @@ adiadokokinesia
 adiagnostic
 adeniform
 adiaphon
-autophagia
 amebid
 antimechanist
 acuerdos
@@ -10047,6 +10046,7 @@ ambsaces
 ambulacriform
 acuation
 ambulance
+autophagia
 apnoeal
 amoeboidism
 antithetically
