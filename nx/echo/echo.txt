@@ -4508,7 +4508,6 @@ embiidae
 encephalomyelitic
 epochally
 easement
-endable
 entotrophi
 ectrogeny
 epanthous
@@ -8416,6 +8415,7 @@ equip
 enjoyment
 eglogue
 endothecate
+endable
 egeria
 epizootology
 epocha
