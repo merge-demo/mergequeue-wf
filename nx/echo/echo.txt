@@ -4605,7 +4605,6 @@ entrain
 epistolean
 erethizontidae
 epilimnion
-echevin
 elucubrate
 excellent
 exarchs
@@ -5250,6 +5249,7 @@ exactor
 entreatable
 editors
 ecumenicity
+echevin
 endopodite
 evolves
 eskimoid
