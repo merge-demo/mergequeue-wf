@@ -2174,6 +2174,7 @@ baptisms
 badgers
 baptistic
 breakbone
+buffable
 balliage
 baptistry
 bargemen
@@ -16872,7 +16873,6 @@ buffa
 brumbee
 bacterioid
 bicolligate
-buffable
 bungles
 buffalo
 buffalofish
