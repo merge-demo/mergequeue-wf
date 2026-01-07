@@ -3282,7 +3282,6 @@ entrench
 episcleral
 emancipates
 esophagospasm
-eelgrasses
 embuia
 elute
 elution
@@ -10701,6 +10700,7 @@ expectoration
 enveloper
 eumitotic
 eva
+eelgrasses
 euglenaceae
 extrasyllabic
 embraced
