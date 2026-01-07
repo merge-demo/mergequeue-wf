@@ -3371,6 +3371,7 @@ fudging
 flincher
 febricity
 fiascoes
+fireshine
 foretalk
 forprise
 fiendly
@@ -7755,7 +7756,6 @@ fetishism
 face
 fintadores
 flicky
-fireshine
 fumigants
 furfuraceous
 flatfooted
