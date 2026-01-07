@@ -3754,7 +3754,6 @@ diallers
 dehumidified
 disimbitter
 deia
-deadpanner
 dyostyle
 dor
 dwale
@@ -9101,6 +9100,7 @@ doffs
 detriment
 disdiaclasis
 didicoy
+deadpanner
 dorymen
 digger
 doxasticon
