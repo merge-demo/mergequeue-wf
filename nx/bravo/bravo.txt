@@ -7186,6 +7186,7 @@ besteal
 bioresearch
 bedcover
 bested
+bugs
 bromometrical
 berylliosis
 bestench
@@ -16693,7 +16694,6 @@ bardlet
 blacking
 blanketeer
 buchanite
-bugs
 bucharest
 buchloe
 burros
