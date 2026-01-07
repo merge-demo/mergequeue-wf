@@ -9157,6 +9157,7 @@ charters
 cryptograms
 cindered
 chartist
+cingle
 chartless
 caricatured
 chartography
@@ -13856,7 +13857,6 @@ cortinae
 corrupted
 cynghanedd
 catalysis
-cingle
 cauchemar
 cingula
 chazzan
