@@ -7839,6 +7839,7 @@ executioner
 epihyal
 exogonium
 entogastric
+escapes
 egis
 excitor
 epibiotic
@@ -10360,7 +10361,6 @@ excitability
 edgestone
 embezzlements
 exhibitive
-escapes
 equibiradiate
 egards
 endogenesis
