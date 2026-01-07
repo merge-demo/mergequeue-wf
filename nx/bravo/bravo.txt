@@ -8033,7 +8033,6 @@ bouleuterion
 boildown
 bayberry
 butcherous
-bastonite
 biconsonantal
 barnburner
 biconvexity
@@ -13765,6 +13764,7 @@ bousouki
 bhalu
 brunswick
 bheesties
+bastonite
 boustrophedon
 bloomer
 bircher
