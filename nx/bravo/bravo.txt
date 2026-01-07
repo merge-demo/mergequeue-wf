@@ -5811,7 +5811,6 @@ bellicism
 beyonds
 bellicist
 buqshas
-branchiostoma
 bromometry
 belligerents
 buildress
@@ -13501,6 +13500,7 @@ bednights
 bawdship
 bottlemaker
 begotten
+branchiostoma
 burgs
 broilery
 bleeding

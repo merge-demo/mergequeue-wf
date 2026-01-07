@@ -2036,7 +2036,6 @@ expungers
 excussing
 enmist
 electrophonically
-endomitotic
 evangelican
 eskimo
 embryotic
@@ -5385,6 +5384,7 @@ erthling
 electively
 evangelium
 endotys
+endomitotic
 endotracheal
 empresario
 endeavourer
