@@ -5888,7 +5888,6 @@ fowlers
 fixedly
 flocced
 frustulose
-fibula
 film
 feyer
 festine
@@ -6340,6 +6339,7 @@ futurable
 flimsier
 flumping
 filate
+fibula
 furfurous
 foiler
 fatima
