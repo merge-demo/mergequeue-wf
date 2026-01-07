@@ -10397,6 +10397,7 @@ apothem
 authorisation
 annelides
 agua
+avaricious
 assimilator
 apollonia
 auguration
@@ -15365,7 +15366,6 @@ afterschool
 angiocholitis
 asomatophyte
 accentor
-avaricious
 antilogic
 antilogistic
 amastia
