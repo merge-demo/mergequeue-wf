@@ -2964,6 +2964,7 @@ aulostomi
 actiniomorpha
 amphiploidy
 addisoniana
+alterant
 actinisms
 arginine
 actinium
@@ -11224,7 +11225,6 @@ amendableness
 almacen
 amphithecium
 abjures
-alterant
 avowries
 amphithyra
 ana
