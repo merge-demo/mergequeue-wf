@@ -4223,7 +4223,6 @@ alumen
 abime
 abaka
 anencephaly
-atavism
 adreamed
 adenalgia
 appoint
@@ -20147,6 +20146,7 @@ allocutive
 acanthodini
 arraignment
 allolalia
+atavism
 atomy
 arraigns
 apharsathacites
