@@ -1834,7 +1834,6 @@ gauziness
 gemmiparity
 grails
 guinean
-gullah
 gatekeeper
 grizel
 glummer
@@ -3158,6 +3157,7 @@ gelosin
 grassplot
 gagster
 georgemas
+gullah
 germanite
 gurgles
 georgics
