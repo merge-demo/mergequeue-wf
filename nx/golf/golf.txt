@@ -2131,7 +2131,6 @@ gabbards
 gardenia
 gastrostege
 geison
-gawking
 glucinic
 gastrins
 gawkish
@@ -4681,6 +4680,7 @@ guttery
 gliadins
 gyrovagues
 glycoluril
+gawking
 groundnut
 gloy
 girshes
