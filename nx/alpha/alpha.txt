@@ -19258,7 +19258,6 @@ amaranthus
 autotypes
 areal
 albified
-areasoner
 areca
 arecain
 arecas
@@ -22737,6 +22736,7 @@ athrogenic
 algebraizing
 anaplerotic
 archplunderer
+areasoner
 avoidment
 acetic
 ascidiozoa
