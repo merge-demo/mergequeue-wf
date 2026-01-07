@@ -2170,6 +2170,7 @@ flashet
 feltmaker
 furtum
 fiducia
+fab
 fratercula
 farmhouse
 fumulus
@@ -11523,7 +11524,6 @@ fireflaught
 filmsetting
 fistic
 foreremembered
-fab
 frolic
 furtiveness
 frena
