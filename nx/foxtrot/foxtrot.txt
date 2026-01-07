@@ -5089,7 +5089,6 @@ fun
 fluidities
 fuligo
 fundless
-fletched
 fumettes
 frsikets
 flareback
@@ -6906,6 +6905,7 @@ fallace
 folklores
 fp
 floatages
+fletched
 fifes
 foolishly
 fleme
