@@ -10436,7 +10436,6 @@ algaesthesia
 assizing
 assishness
 amyelic
-amyelous
 agt
 aposematically
 alphamerical
@@ -22194,6 +22193,7 @@ astigmometer
 astigmometry
 alluviate
 algologist
+amyelous
 aegritude
 astigmoscope
 apostolos

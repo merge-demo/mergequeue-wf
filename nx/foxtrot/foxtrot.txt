@@ -4947,6 +4947,7 @@ flamencos
 flacourtiaceous
 funtumia
 fructified
+festinate
 fevertwitch
 fraunch
 flameout
@@ -9749,7 +9750,6 @@ fido
 frenchly
 fogus
 fissionability
-festinate
 floatable
 footmanry
 fingermark
