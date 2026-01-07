@@ -11010,7 +11010,6 @@ akhrot
 analects
 achromatized
 amperian
-amphistomum
 attenuation
 allotypically
 awakings
@@ -16911,6 +16910,7 @@ apiologist
 apyonin
 adducts
 apiosoma
+amphistomum
 apyrases
 antiseptize
 apyrexial
