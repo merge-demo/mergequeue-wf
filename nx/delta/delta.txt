@@ -7261,6 +7261,7 @@ deposal
 disarrest
 deterioration
 data
+diners
 dear
 depressomotor
 dicyan
@@ -14584,7 +14585,6 @@ detents
 divisions
 divisive
 divisively
-diners
 develope
 decomposition
 dern
