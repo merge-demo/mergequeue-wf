@@ -1622,6 +1622,7 @@ drupelet
 daks
 deriving
 doe
+digitalized
 dinginess
 diadrome
 derision
@@ -13408,7 +13409,6 @@ discanting
 diasyrm
 disquieted
 dehydrogenised
-digitalized
 disunited
 disbandments
 djinn
