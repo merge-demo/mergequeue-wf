@@ -8502,7 +8502,6 @@ chamfering
 characterstring
 crummed
 champaka
-conjunctions
 conducts
 codamin
 calmy
@@ -27374,6 +27373,7 @@ chartographer
 courteousness
 courtepy
 courter
+conjunctions
 cozily
 classicism
 chilblain
