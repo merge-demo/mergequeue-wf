@@ -328,6 +328,7 @@ disinsection
 daybreaks
 diplostichous
 duskness
+deperdit
 daygoing
 desiccation
 dandering
@@ -5561,7 +5562,6 @@ dukeship
 dothideaceous
 dieters
 deuniting
-deperdit
 duffel
 determiners
 discussive
