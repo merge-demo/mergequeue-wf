@@ -1304,7 +1304,6 @@ boleite
 bacterioprecipitin
 beltings
 blackgums
-bate
 binational
 balanorrhagia
 balanta
@@ -10253,6 +10252,7 @@ blacklister
 barothermohygrograph
 barks
 blacklists
+bate
 beclamour
 ballow
 banian
