@@ -17573,7 +17573,6 @@ clamorousness
 cocainize
 cocainomania
 cocainomaniac
-cocains
 cocama
 cogitativeness
 cocamama
@@ -20615,6 +20614,7 @@ curvilinearly
 compilations
 ceratin
 compilator
+cocains
 compiled
 compilement
 collineate
