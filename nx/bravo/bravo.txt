@@ -12770,7 +12770,6 @@ busters
 beheld
 biometrician
 bunyoro
-bidarka
 bumkins
 begarie
 baguet
@@ -16212,6 +16211,7 @@ breves
 bowknots
 boneflower
 bdellidae
+bidarka
 balklines
 bulla
 brimstony
