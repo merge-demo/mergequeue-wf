@@ -1029,7 +1029,6 @@ dineutron
 daggly
 darkskin
 disseises
-dispensers
 darksum
 domineers
 decimeter
@@ -1461,6 +1460,7 @@ dipropyl
 diminished
 disunities
 dandruffy
+dispensers
 dawsonia
 defacements
 descriptory
