@@ -4336,6 +4336,7 @@ emit
 edibles
 emplacements
 enamorado
+epicene
 enamorato
 endleaves
 extraordinariness
@@ -5579,7 +5580,6 @@ elutions
 esophageal
 ethyl
 exceptionalness
-epicene
 edenization
 ethiopia
 euthanatize
