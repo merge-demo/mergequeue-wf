@@ -11243,7 +11243,6 @@ amphodarch
 ampholytic
 anobiidae
 amphora
-amphorae
 acappella
 algors
 alohas
@@ -20085,6 +20084,7 @@ afterknowledge
 autorhythmic
 agadic
 alleviating
+amphorae
 aromatous
 aroon
 autoplasty
