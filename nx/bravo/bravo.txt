@@ -4950,6 +4950,7 @@ balkers
 bioclimatologies
 beekeepers
 baya
+botchily
 beekeeping
 bosher
 bassos
@@ -13387,7 +13388,6 @@ beclog
 bridgeman
 botcheries
 botcherly
-botchily
 boundlessly
 botella
 bebrave
