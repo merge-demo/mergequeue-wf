@@ -1286,7 +1286,6 @@ emperors
 emissions
 ecclesiarch
 endpiece
-eversive
 eking
 eyelessness
 electrocystoscope
@@ -4007,6 +4006,7 @@ emphasize
 emphasized
 embargos
 exogens
+eversive
 eyeblack
 expresser
 elucidations
