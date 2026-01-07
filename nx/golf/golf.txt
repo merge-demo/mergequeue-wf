@@ -815,7 +815,6 @@ glauke
 greenlandite
 glucosane
 ghurry
-gastrocolic
 geniculum
 guetar
 goldenrods
@@ -2671,6 +2670,7 @@ glossopetra
 goatee
 glossosteresis
 gambir
+gastrocolic
 glycohemia
 geswarp
 gripgrass
