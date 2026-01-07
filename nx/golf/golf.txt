@@ -7857,7 +7857,6 @@ gasket
 gurlet
 gasometric
 grovelled
-gtc
 gun
 guhayna
 goatskin
@@ -8201,6 +8200,7 @@ gorgonising
 gemsboks
 gallies
 granulization
+gtc
 ghastful
 gleek
 gallicization
