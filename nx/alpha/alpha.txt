@@ -17589,7 +17589,6 @@ amenities
 ancillaries
 appendicularia
 aboulias
-abjudication
 azygosperm
 appendiculate
 alectoris
@@ -23897,6 +23896,7 @@ appositively
 alumbrado
 anzac
 authigenetic
+abjudication
 antiozonant
 authigenous
 anodine
