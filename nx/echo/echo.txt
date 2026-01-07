@@ -3590,6 +3590,7 @@ equinecessary
 entrefer
 eupeptic
 entocone
+endopleura
 economies
 embolomalerism
 enervator
@@ -8168,7 +8169,6 @@ exert
 estadio
 elegances
 excorticate
-endopleura
 electrolysis
 ester
 exulting
