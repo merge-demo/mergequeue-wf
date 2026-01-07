@@ -2822,7 +2822,6 @@ entirely
 endomixis
 ephebeibeia
 engarble
-ethylene
 encauma
 egyptological
 exaltment
@@ -5781,6 +5780,7 @@ encloser
 effluvia
 environing
 elephant
+ethylene
 epididymal
 epicrasis
 electroencephalograms
