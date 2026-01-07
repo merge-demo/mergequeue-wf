@@ -19104,6 +19104,7 @@ circumstantiality
 collimates
 collimation
 collimator
+chevy
 considered
 colline
 collections
@@ -22444,7 +22445,6 @@ cordiner
 coniferous
 conifers
 cnidoscolus
-chevy
 conification
 coniform
 cacana
