@@ -6013,7 +6013,6 @@ cathedrated
 cathedratic
 cathedraticum
 cathern
-catties
 coverlets
 catheterisation
 cattail
@@ -10675,6 +10674,7 @@ claustrophobe
 cryptesthetic
 conenchyma
 conglomerated
+catties
 cervicorn
 chimbly
 cosmology
