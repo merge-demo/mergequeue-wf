@@ -4197,6 +4197,7 @@ gasometer
 generalissimos
 glycoproteid
 gastroarthritis
+gomphosis
 goodly
 guaranin
 gaslit
@@ -8492,7 +8493,6 @@ gestio
 glottises
 gastaldite
 gushet
-gomphosis
 geotaxes
 griskins
 garancine
