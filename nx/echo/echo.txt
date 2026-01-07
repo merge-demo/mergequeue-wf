@@ -6215,6 +6215,7 @@ enorm
 encoders
 explorement
 exhalations
+equicontinuous
 exhortator
 extermination
 enorn
@@ -8575,7 +8576,6 @@ ejectum
 equibalanced
 electrodialitic
 equicohesive
-equicontinuous
 ethnobotanic
 engagements
 eyebar
