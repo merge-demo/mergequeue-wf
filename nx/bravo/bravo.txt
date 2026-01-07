@@ -3722,6 +3722,7 @@ bibliothque
 bodysurfing
 bemist
 battologise
+baldoquin
 bastile
 batlan
 bukshi
@@ -16508,7 +16509,6 @@ beggable
 blastopore
 besmell
 brumal
-baldoquin
 bises
 bullhorn
 brayette

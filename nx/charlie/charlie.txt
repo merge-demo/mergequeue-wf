@@ -7877,7 +7877,6 @@ cobitis
 cervicobuccal
 cervicodynia
 cysticle
-cervicolabial
 cooeyed
 cervicomuscular
 cerviconasal
@@ -16638,6 +16637,7 @@ carangus
 clonus
 cloof
 cotylophora
+cervicolabial
 chymaqueous
 chemicoluminescence
 cloot
