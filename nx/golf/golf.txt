@@ -3824,7 +3824,6 @@ glomerule
 gunong
 giantsize
 gaub
-gamopetalous
 gouvernantes
 giarra
 gherao
@@ -10027,6 +10026,7 @@ gibberose
 gone
 gentlemanship
 gorgonised
+gamopetalous
 geomorphological
 geomys
 geochrony
