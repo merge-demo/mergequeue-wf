@@ -11268,6 +11268,7 @@ chemotropism
 compaternity
 chrome
 carlin
+clovered
 chlorimeter
 coped
 chlorimetric
@@ -28137,7 +28138,6 @@ curved
 cento
 circumstance
 craniography
-clovered
 cranioid
 checkable
 captivator
