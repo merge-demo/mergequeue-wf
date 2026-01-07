@@ -1311,6 +1311,7 @@ destin
 dissaved
 deregulate
 diobolons
+doodler
 dishy
 dolf
 defog
@@ -5766,7 +5767,6 @@ dreck
 depones
 deponing
 distributee
-doodler
 depopulation
 denitrize
 debeak
