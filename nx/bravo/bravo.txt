@@ -6213,6 +6213,7 @@ benne
 bennes
 beveling
 bennets
+batiked
 bootlace
 bookism
 bissextus
@@ -13584,7 +13585,6 @@ ballutes
 bepainted
 besnowed
 beatermen
-batiked
 brunel
 biennale
 brakier
