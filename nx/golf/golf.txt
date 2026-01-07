@@ -3663,7 +3663,6 @@ gynostegigia
 gnathobdellae
 gargil
 galany
-guttiform
 gnathic
 gananciales
 gantries
@@ -10591,6 +10590,7 @@ governess
 grommets
 goads
 garnisher
+guttiform
 grilly
 gymnogene
 geologic
