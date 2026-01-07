@@ -5473,7 +5473,6 @@ backiebird
 beatless
 behoved
 basting
-behoves
 branchiest
 behoving
 basseted
@@ -5885,6 +5884,7 @@ belonging
 basisphenoid
 bailiffship
 believing
+behoves
 belongs
 bicameral
 bugdom
