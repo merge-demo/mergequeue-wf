@@ -4946,7 +4946,6 @@ bosher
 bassos
 beelzebul
 beennut
-bimedial
 bonework
 blesse
 barmier
@@ -8646,6 +8645,7 @@ beldames
 belamy
 bookable
 brightsomeness
+bimedial
 bowling
 bespurred
 billman
