@@ -1642,7 +1642,6 @@ dinoceratan
 datisca
 deutsche
 disorientated
-didymia
 deisin
 deliverable
 difficulty
@@ -15047,6 +15046,7 @@ determ
 doggerel
 doggerelism
 doggerelist
+didymia
 desperate
 doggerelizing
 diphthongising
