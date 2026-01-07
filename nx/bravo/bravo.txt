@@ -3075,6 +3075,7 @@ breather
 blastplate
 bating
 boneblack
+bettors
 barksome
 basale
 berascaling
@@ -14432,7 +14433,6 @@ bursiform
 bonebinder
 braillewriter
 bambino
-bettors
 braincap
 brachiferous
 braincase
