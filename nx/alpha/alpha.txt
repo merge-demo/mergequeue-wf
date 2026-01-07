@@ -1324,7 +1324,6 @@ arider
 accable
 accel
 accelerable
-animalizing
 accelerando
 analgize
 argentojarosite
@@ -18429,6 +18428,7 @@ antitussive
 autolesion
 aviates
 anthragallol
+animalizing
 aquincubital
 avern
 arbitrager
