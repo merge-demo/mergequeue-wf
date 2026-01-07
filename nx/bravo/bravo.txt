@@ -12635,7 +12635,6 @@ bonnier
 backlist
 beverages
 breechblock
-balance
 bonnnes
 bonnwis
 bionomist
@@ -13822,6 +13821,7 @@ bedlam
 bogs
 boatful
 brontide
+balance
 brachydactyly
 bait
 bowback
