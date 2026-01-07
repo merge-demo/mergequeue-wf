@@ -1877,7 +1877,6 @@ baldachino
 birken
 bandhook
 balladromic
-bandicoy
 bonzes
 befoam
 bloodier
@@ -3423,6 +3422,7 @@ belzebuth
 bummers
 bastardry
 briny
+bandicoy
 bastards
 bioptic
 barrelfishes
