@@ -10380,7 +10380,6 @@ enthuses
 epistolary
 ethmolith
 ethnozoology
-ethography
 excepter
 ethology
 exradius
@@ -10615,6 +10614,7 @@ ecstasis
 espaliers
 expensing
 englobing
+ethography
 evernioid
 elvanite
 eparchate
