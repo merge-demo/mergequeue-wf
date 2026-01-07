@@ -17498,7 +17498,6 @@ cobblerfish
 cobblerism
 cobblers
 cobblership
-cobbles
 cobblestone
 clepsydras
 cobblestoned
@@ -20353,6 +20352,7 @@ commutated
 chauna
 commutatively
 commutativity
+cobbles
 commutator
 commute
 commuted
