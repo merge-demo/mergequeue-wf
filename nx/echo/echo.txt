@@ -1861,6 +1861,7 @@ epidiorite
 encystments
 errabund
 elaterin
+ensepulchering
 equitemporal
 expeller
 elfin
@@ -3497,7 +3498,6 @@ epistemologist
 evinces
 encephalomyelitis
 eductive
-ensepulchering
 enamels
 enthronement
 ebionism
