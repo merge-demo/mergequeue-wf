@@ -1088,6 +1088,7 @@ gonimous
 gregarinae
 gilden
 gloiosiphoniaceae
+glueyness
 granddaddy
 groundway
 gypsums
@@ -8221,7 +8222,6 @@ grapeflower
 grapefruit
 goos
 gazers
-glueyness
 gazingstock
 galeodes
 grapery
