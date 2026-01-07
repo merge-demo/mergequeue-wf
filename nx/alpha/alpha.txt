@@ -5777,7 +5777,6 @@ ageisms
 antiturnpikeism
 arithmetical
 atteal
-agelast
 agelaus
 agelessness
 aphicidal
@@ -11955,6 +11954,7 @@ athumia
 anasa
 aralkylated
 arteriosclerosis
+agelast
 attainers
 awakenable
 anaschistic
