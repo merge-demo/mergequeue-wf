@@ -3588,7 +3588,6 @@ gaspar
 getling
 goldenest
 getpenny
-gatewayman
 gracile
 gawish
 garotting
@@ -6787,6 +6786,7 @@ goitrogen
 gremials
 girders
 girded
+gatewayman
 gentlemanism
 goodwill
 gibel
