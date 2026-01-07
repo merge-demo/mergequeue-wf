@@ -13242,6 +13242,7 @@ boneen
 brigue
 bender
 begemmed
+bordure
 boschveld
 boulevardize
 bewit
@@ -17002,7 +17003,6 @@ begirded
 bondelswarts
 bedewoman
 buildups
-bordure
 brython
 bespeakable
 backland
