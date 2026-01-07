@@ -8826,6 +8826,7 @@ ethnobotanist
 eyewort
 erd
 excavation
+ethic
 epiphytic
 eagers
 erechtheum
@@ -12302,7 +12303,6 @@ eradicating
 emusive
 euscaro
 earthlings
-ethic
 exercitation
 ensnarling
 elecampane
