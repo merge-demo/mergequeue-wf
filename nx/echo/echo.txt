@@ -1483,7 +1483,6 @@ emmenic
 ergonomic
 epanorthotic
 exenteritis
-epipleural
 envelop
 enfarce
 eumoiriety
@@ -5477,6 +5476,7 @@ edify
 eosinophilia
 elasmosaurus
 earthquave
+epipleural
 esterifiable
 epiploic
 ebionitic
