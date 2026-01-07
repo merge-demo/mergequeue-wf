@@ -6027,7 +6027,6 @@ eustacies
 excursus
 empaler
 enhydrinae
-evenminded
 empiry
 estoque
 expromissor
@@ -9688,6 +9687,7 @@ eversible
 extima
 eventuated
 entoptoscopic
+evenminded
 essay
 epistomata
 erethism
