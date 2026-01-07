@@ -2511,6 +2511,7 @@ desalinization
 declaimer
 dilaters
 declamatory
+doublewidth
 dateable
 decibar
 dendrochronology
@@ -7562,7 +7563,6 @@ deutzia
 deposes
 discernible
 drou
-doublewidth
 diddikai
 darking
 darwinistic
