@@ -3826,7 +3826,6 @@ fon
 fanglomerate
 fraenum
 fireflirt
-figurings
 farleu
 fimbrillate
 farcemeat
@@ -5921,6 +5920,7 @@ folgerite
 fencepost
 fissirostral
 fantasmagoric
+figurings
 furlers
 frangent
 formlessness

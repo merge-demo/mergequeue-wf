@@ -6794,7 +6794,6 @@ celebrations
 celebrative
 celebre
 celebrious
-celebrity
 counterinterpretation
 cornbin
 ciscos
@@ -19561,6 +19560,7 @@ cheerfullest
 chuvash
 cannelated
 columbaceous
+celebrity
 czar
 chlorazide
 capabilities
