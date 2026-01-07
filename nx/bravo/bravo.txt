@@ -5775,7 +5775,6 @@ bromocyanide
 blueprinted
 brassworker
 becrawling
-bromization
 bedlamic
 bombyliidae
 bryozoan
@@ -6566,6 +6565,7 @@ battuta
 birdie
 brazenly
 berdash
+bromization
 booming
 birotation
 blotter
