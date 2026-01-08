@@ -9192,6 +9192,7 @@ conservatives
 charwomen
 chase
 chaseable
+compellability
 chases
 chashitsu
 castigation
@@ -13201,7 +13202,6 @@ chiaroscuro
 clon
 ciceronianisms
 ciceronianist
-compellability
 cumacean
 colluviums
 clavellate
