@@ -7038,6 +7038,7 @@ duramen
 destinezite
 driveable
 dessous
+defiable
 devall
 doodad
 durst
@@ -12061,7 +12062,6 @@ deliveries
 defail
 durdum
 daryl
-defiable
 disengaging
 disenjoyment
 diaspidinae
