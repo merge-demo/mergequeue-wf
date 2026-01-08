@@ -5071,6 +5071,7 @@ fortyish
 flappet
 fermions
 figlike
+flatcar
 fishline
 fosses
 foveated
@@ -8116,7 +8117,6 @@ faunistic
 foyboat
 foveolae
 funkiest
-flatcar
 fingan
 flavouring
 feeble
