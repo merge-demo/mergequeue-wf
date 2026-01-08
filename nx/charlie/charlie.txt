@@ -17648,6 +17648,7 @@ culrage
 coccochromatic
 coccogone
 coccogoneae
+cataclasm
 concyclically
 coccoidal
 coccolite
@@ -21892,7 +21893,6 @@ coziness
 cancellarian
 confelicity
 confer
-cataclasm
 chaetosema
 cuspated
 crescentwise
