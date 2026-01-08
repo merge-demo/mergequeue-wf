@@ -3231,7 +3231,6 @@ carpodacus
 cameleon
 capillitium
 capillose
-caping
 coelelminthes
 coronetty
 centrotus
@@ -7715,6 +7714,7 @@ commemorations
 coccosphere
 cerevisial
 coes
+caping
 cotangent
 cerialia
 cerianthidae
