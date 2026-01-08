@@ -274,7 +274,6 @@ foxhounds
 firedamp
 flutter
 fadge
-furfuramide
 fermery
 fusile
 flammant
@@ -10325,6 +10324,7 @@ fatheadedness
 falernian
 folkmot
 faultless
+furfuramide
 fromenty
 fromenties
 forenight
