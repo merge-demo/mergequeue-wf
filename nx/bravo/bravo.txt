@@ -8627,7 +8627,6 @@ bhuts
 bastionary
 bearskin
 billfolds
-ballaton
 bringing
 becafico
 bearlike
@@ -15349,6 +15348,7 @@ biochemics
 bosk
 basaltware
 beastish
+ballaton
 bullying
 belles
 bastian
