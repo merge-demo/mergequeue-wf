@@ -9589,6 +9589,7 @@ checkwriter
 concurrence
 cumshaw
 cascading
+curiara
 cheddar
 commentating
 cheddites
@@ -31365,7 +31366,6 @@ coenzymatic
 cystoadenoma
 curiam
 constitutionist
-curiara
 curiate
 chromocollotypy
 clothespin
