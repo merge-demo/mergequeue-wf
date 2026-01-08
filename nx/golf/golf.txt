@@ -4129,6 +4129,7 @@ gondoletta
 gogglebox
 genus
 gelechiid
+gonagia
 gaulic
 gaufer
 gudget
@@ -5767,7 +5768,6 @@ groovers
 gonidic
 gangways
 gypsumed
-gonagia
 goofiest
 garlicky
 gumhar
