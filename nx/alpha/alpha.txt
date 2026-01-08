@@ -4302,6 +4302,7 @@ apometabolous
 aktiebolag
 antickt
 amphigenesis
+anaphylactogenic
 aterian
 atelectasis
 adsmithing
@@ -11865,7 +11866,6 @@ araliaceae
 anaemias
 aluminosity
 anaphylactin
-anaphylactogenic
 anaphylatoxin
 anaphyte
 alkoxide
