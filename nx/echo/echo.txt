@@ -1516,7 +1516,6 @@ effused
 extemporaneously
 elasmobranchii
 explanatorily
-ectoenzyme
 exonarthex
 epics
 endosiphonate
@@ -14160,6 +14159,7 @@ evensongs
 equimolar
 extrachromosomal
 expromission
+ectoenzyme
 ecoles
 escapists
 episcopising
