@@ -2599,7 +2599,6 @@ crepier
 camphires
 censuses
 cyclotrons
-cliffing
 canebrake
 cardioschisis
 cementmaking
@@ -24756,6 +24755,7 @@ copraemic
 christianize
 cruisingly
 coprecipitate
+cliffing
 countervene
 coprecipitated
 chalcididae
