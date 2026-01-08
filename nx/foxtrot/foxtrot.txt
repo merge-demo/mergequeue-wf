@@ -49,6 +49,7 @@ fabricators
 fabricature
 figurette
 fabroniaceae
+flinting
 finds
 foolhardihood
 foreshowing
@@ -11696,7 +11697,6 @@ far
 foretellableness
 fasciola
 furphy
-flinting
 fetidness
 fernsick
 frameless
