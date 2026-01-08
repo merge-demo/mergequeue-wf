@@ -2016,7 +2016,6 @@ gregaloid
 generalness
 gambogic
 golliwog
-gateman
 gadaria
 gravispheric
 glissette
@@ -2342,6 +2341,7 @@ gingival
 guige
 geistlich
 graviton
+gateman
 gravamina
 gramineal
 gamine
