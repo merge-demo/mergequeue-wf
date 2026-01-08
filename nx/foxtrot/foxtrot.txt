@@ -63,7 +63,6 @@ friskily
 fibrolite
 fixgig
 fabulously
-facebar
 facebow
 fractostratus
 fenchone
@@ -8820,6 +8819,7 @@ filletster
 flashtube
 frustula
 flunks
+facebar
 favorably
 filmsets
 frailes
