@@ -8821,7 +8821,6 @@ cachexic
 candleball
 contemplating
 chapournet
-chapournetted
 cottering
 chappal
 chappy
@@ -10740,6 +10739,7 @@ chinchayote
 choise
 cytoarchitecture
 corncake
+chapournetted
 cataloger
 clammersome
 chincherinchee
