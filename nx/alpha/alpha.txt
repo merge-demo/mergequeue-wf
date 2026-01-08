@@ -12848,7 +12848,6 @@ articulatory
 angouleme
 adiaphanousness
 armored
-arcidae
 atsara
 angriness
 angstroms
@@ -15103,6 +15102,7 @@ absents
 antiapoplectic
 anthers
 aquilon
+arcidae
 antienthusiastic
 afterfame
 antienvironmentalism
