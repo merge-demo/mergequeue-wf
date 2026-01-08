@@ -6000,6 +6000,7 @@ afd
 appealability
 amaist
 afounde
+anova
 agism
 aposaturn
 affiances
@@ -12373,7 +12374,6 @@ ajowan
 anecdote
 anecdotes
 anecdotic
-anova
 aluminiform
 aegagropile
 appealed
