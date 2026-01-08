@@ -14723,6 +14723,7 @@ citer
 citers
 cites
 chs
+counterworker
 citess
 calendered
 citharas
@@ -27239,7 +27240,6 @@ curs
 counterwilling
 counterwitness
 counterwork
-counterworker
 counterworking
 committee
 carminative
