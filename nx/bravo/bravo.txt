@@ -3246,7 +3246,6 @@ biaxial
 basilica
 belverdian
 basilical
-brookable
 bilophodont
 backoff
 blushfulness
@@ -5607,6 +5606,7 @@ bhut
 bela
 beluchi
 burgonets
+brookable
 bruscus
 belash
 blobbed
