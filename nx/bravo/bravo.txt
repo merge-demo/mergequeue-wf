@@ -4593,7 +4593,6 @@ bigeminate
 bedazzle
 banters
 bowsprit
-bigaroons
 ballbuster
 bedazzles
 bedazzlingly
@@ -5940,6 +5939,7 @@ boogerman
 bludged
 butylamine
 babiche
+bigaroons
 belting
 basidiomycete
 ballahoo
