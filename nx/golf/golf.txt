@@ -784,7 +784,6 @@ gaulter
 gutter
 gasmetophytic
 gluck
-gutturize
 galvanothermometer
 ggr
 galliformes
@@ -4222,6 +4221,7 @@ gaspergou
 gienah
 graphomania
 grandfather
+gutturize
 gosmore
 glotum
 greying
