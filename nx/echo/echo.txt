@@ -12280,7 +12280,6 @@ exemption
 essenhout
 entremess
 errorless
-exemptions
 eviternal
 exemptive
 environal
@@ -14034,6 +14033,7 @@ extractorship
 extrasterile
 electrotelegraphy
 extrastomachal
+exemptions
 elocutionist
 esterase
 endopterygotous
