@@ -3391,6 +3391,7 @@ emphemeralness
 expensefully
 endodermis
 ecdyses
+endostyle
 eyry
 eulogic
 environed
@@ -8686,7 +8687,6 @@ ellipsometer
 equipotential
 externalize
 exconjugant
-endostyle
 equableness
 epicoeliac
 epulotic
