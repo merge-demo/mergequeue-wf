@@ -859,6 +859,7 @@ benzidin
 benzalcohol
 beffroy
 baggala
+brannerite
 borderlight
 bagganet
 bawcock
@@ -15528,7 +15529,6 @@ bodoni
 benefactorship
 banding
 babyish
-brannerite
 bereaved
 batonnier
 batta
