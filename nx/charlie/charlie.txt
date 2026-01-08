@@ -3587,6 +3587,7 @@ curbstones
 captor
 capturable
 capture
+chemotherapist
 captured
 captures
 capturing
@@ -9946,7 +9947,6 @@ cretinism
 chemotherapeutics
 chemotherapy
 calqued
-chemotherapist
 cribration
 countersignatures
 carcinomas
