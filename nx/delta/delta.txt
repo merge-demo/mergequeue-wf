@@ -2874,6 +2874,7 @@ dozens
 dramatizations
 dynatron
 decumanus
+datasets
 decartelize
 daphnin
 dolomitised
@@ -11617,7 +11618,6 @@ dithering
 discerpibility
 disconsolately
 discriminativeness
-datasets
 demophobe
 digester
 dimplement
