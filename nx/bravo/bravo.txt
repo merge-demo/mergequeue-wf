@@ -12504,7 +12504,6 @@ b
 barde
 bells
 bourdon
-boukit
 bescrawl
 booklists
 bisymmetrically
@@ -16815,6 +16814,7 @@ blinder
 biacetyls
 bucrane
 blasthole
+boukit
 bewhistle
 bromised
 babis
