@@ -10434,6 +10434,7 @@ disinflame
 dow
 douzainier
 defi
+dreidels
 diplomatism
 duenna
 dashikis
@@ -16968,7 +16969,6 @@ diacritically
 displenish
 defrication
 dampeners
-dreidels
 dreikanter
 dreynt
 dulwilly
