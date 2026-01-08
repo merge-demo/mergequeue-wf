@@ -1312,7 +1312,6 @@ eeriness
 ecostate
 epithalamion
 encircler
-eigenvalue
 eassel
 enteroid
 elohist
@@ -1925,6 +1924,7 @@ electrophotographic
 entomofauna
 epornitic
 erasing
+eigenvalue
 enhat
 exornation
 eisenberg
