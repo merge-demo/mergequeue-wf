@@ -793,7 +793,6 @@ fanciless
 fallows
 fandangos
 ferried
-frivolized
 fellowlike
 flitwite
 fleaworts
@@ -7543,6 +7542,7 @@ fother
 faultily
 friendship
 fellatah
+frivolized
 fullface
 forebode
 frictionlessness
