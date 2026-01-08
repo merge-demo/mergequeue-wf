@@ -6219,7 +6219,6 @@ globules
 goatsbeard
 gleed
 guestimate
-gavotting
 galloway
 giglot
 gliders
@@ -9686,6 +9685,7 @@ generals
 grudging
 goldfinny
 geraniols
+gavotting
 garmenting
 gult
 goodish

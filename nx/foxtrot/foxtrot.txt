@@ -1084,7 +1084,6 @@ farrago
 franchisement
 flichters
 fortuities
-foreswear
 feriae
 feudaries
 fleshhood
@@ -2484,6 +2483,7 @@ foremeant
 footsore
 flaps
 functionize
+foreswear
 fastballs
 frush
 flunky
