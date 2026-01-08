@@ -15531,7 +15531,6 @@ directness
 demodulator
 drummers
 donnas
-dereligionize
 dittander
 donnerd
 donnick
@@ -17557,6 +17556,7 @@ drumstick
 drumwood
 deinsularize
 drunk
+dereligionize
 drunkards
 dinoflagellatae
 desuperheater
