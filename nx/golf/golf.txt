@@ -2827,6 +2827,7 @@ galvanometer
 gazettal
 gormless
 glassophone
+glutition
 glottalite
 gloiopeltis
 guilloche
@@ -5547,7 +5548,6 @@ guarnerius
 gloea
 gourd
 genial
-glutition
 globigerinas
 griecep
 gemutlichkeit
