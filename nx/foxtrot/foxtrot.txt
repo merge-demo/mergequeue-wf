@@ -1104,6 +1104,7 @@ firehalls
 forespeech
 figulate
 forthcame
+fashions
 flyings
 freakily
 farruca
@@ -2686,7 +2687,6 @@ fouette
 fervor
 flamenco
 frondous
-fashions
 flywort
 fluctuations
 ferriages
