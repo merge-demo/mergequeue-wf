@@ -19915,6 +19915,7 @@ comid
 campephagine
 comida
 caudillo
+cruelty
 comiferous
 cominformist
 cominformists
@@ -23472,7 +23473,6 @@ cygnet
 conoid
 contemptuous
 contemptuously
-cruelty
 cholecystocolotomy
 contendent
 contending
