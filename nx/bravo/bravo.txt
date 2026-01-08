@@ -3863,7 +3863,6 @@ bestrow
 bricklaying
 belvidere
 breastless
-benzoate
 bristlemouth
 birthbed
 butterers
@@ -15642,6 +15641,7 @@ bombproof
 bristled
 boots
 baccare
+benzoate
 biomagnetism
 burlaps
 banlieue
