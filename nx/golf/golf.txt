@@ -2378,6 +2378,7 @@ gnarled
 garrulously
 ghazal
 glandulousness
+glossa
 georgette
 gopherwood
 guerdonable
@@ -3639,7 +3640,6 @@ ghoulishly
 gausses
 gharnao
 gulden
-glossa
 goniaster
 gabarit
 gnomelike
