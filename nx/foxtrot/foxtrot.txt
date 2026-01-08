@@ -1676,7 +1676,6 @@ finishing
 fearingly
 ferineness
 fearless
-forehammer
 frangible
 fuzes
 fairtime
@@ -10213,6 +10212,7 @@ falderals
 fabricant
 fulmar
 falcidian
+forehammer
 foresing
 fief
 firesider
