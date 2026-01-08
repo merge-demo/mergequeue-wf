@@ -4930,6 +4930,7 @@ equations
 entoils
 endangitis
 expertised
+enfile
 endarteteria
 eupterotidae
 endaspidean
@@ -7416,7 +7417,6 @@ extraperiodic
 extracurricular
 exercise
 elohimic
-enfile
 ecchondrotome
 effusions
 ephestia
