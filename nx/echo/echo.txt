@@ -5530,7 +5530,6 @@ experimenting
 exoterics
 espiritual
 enfeebles
-extravagating
 embus
 eyestones
 enfeebling
@@ -6508,6 +6507,7 @@ estranged
 estimative
 execration
 ephemeric
+extravagating
 englishes
 egomaniacal
 enumerators
