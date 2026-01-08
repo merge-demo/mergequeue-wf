@@ -7282,7 +7282,6 @@ diaxone
 disturbor
 desiccative
 disassembles
-doukhobor
 devisers
 defecters
 defecation
@@ -9156,6 +9155,7 @@ desoxycinchonine
 decalog
 diptych
 dialyse
+doukhobor
 description
 doors
 delobranchiata
