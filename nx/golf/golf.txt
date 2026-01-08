@@ -2766,7 +2766,6 @@ grided
 genitor
 gauntry
 gripeful
-gorlois
 geniture
 grenades
 geodesists
@@ -5872,6 +5871,7 @@ goshawk
 gurjun
 graptolitic
 grandparents
+gorlois
 garce
 gigmanity
 gynephobia
