@@ -18207,7 +18207,6 @@ alcoholicity
 anenterous
 antibug
 allophone
-autotheism
 architect
 adiantum
 acrobats
@@ -18360,6 +18359,7 @@ andromorphous
 araneoidea
 arangoes
 aranyaka
+autotheism
 acceding
 asoak
 ankylotia
