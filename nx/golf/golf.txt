@@ -1921,7 +1921,6 @@ gulped
 gastromycosis
 gurjan
 geal
-garnetwork
 garnet
 glutoid
 gynecocratic
@@ -6554,6 +6553,7 @@ grovelingly
 gleditsia
 goumier
 gastropod
+garnetwork
 ghettos
 grassant
 grappas
