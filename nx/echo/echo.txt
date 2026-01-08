@@ -3894,7 +3894,6 @@ exotheca
 englishmen
 emigrating
 enfeebled
-eclipsis
 ergatandrous
 eyeletting
 executers
@@ -10229,6 +10228,7 @@ epaule
 ethicoreligious
 erased
 elytriform
+eclipsis
 etesian
 exculpating
 epanodos
