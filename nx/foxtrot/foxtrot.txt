@@ -8995,7 +8995,6 @@ feltings
 fourpence
 flavine
 functionnaire
-fourpenny
 fernless
 fableist
 flabellarium
@@ -11294,6 +11293,7 @@ frigorify
 foregut
 femmes
 fanaticized
+fourpenny
 fiscalize
 flurrying
 footwear
