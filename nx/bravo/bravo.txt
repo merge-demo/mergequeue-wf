@@ -3535,7 +3535,6 @@ batfishes
 biri
 batfowl
 batfowled
-bassists
 batfowls
 bulbocavernosus
 bidget
@@ -5353,6 +5352,7 @@ brokenly
 baidar
 berycidae
 bahur
+bassists
 beglue
 beerage
 bubas
