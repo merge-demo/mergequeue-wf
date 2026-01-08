@@ -716,7 +716,6 @@ brotula
 blurry
 bizcacha
 busload
-bolter
 brinjal
 badgerlike
 baganda
@@ -3637,6 +3636,7 @@ beastly
 batlet
 berycoidean
 batlike
+bolter
 bifanged
 buyides
 bodybuild
