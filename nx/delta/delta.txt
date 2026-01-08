@@ -12475,6 +12475,7 @@ doffer
 dimethylmethane
 dagon
 dishwasher
+dines
 discharm
 dishwashers
 depside
@@ -15423,7 +15424,6 @@ downtowns
 dijudication
 demibarrel
 damoisel
-dines
 diclinic
 dominick
 drawnness
