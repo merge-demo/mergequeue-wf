@@ -633,7 +633,6 @@ fleshes
 forehand
 folly
 farrantly
-forebemoan
 forelimb
 funnies
 facesaving
@@ -2816,6 +2815,7 @@ forespeed
 furunculosis
 formol
 faddish
+forebemoan
 feltyfare
 fisty
 finable
