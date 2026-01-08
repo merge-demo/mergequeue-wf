@@ -7892,7 +7892,6 @@ amatungula
 alethopteroid
 archidium
 alethoscope
-amulae
 airwaves
 anthogenous
 aletocyte
@@ -15229,6 +15228,7 @@ armload
 antigigmanic
 annexment
 autonitridation
+amulae
 antileveling
 antigonon
 antigonorrheic
