@@ -236,7 +236,6 @@ germanomaniac
 guardfully
 golpe
 gyrochrome
-gulaman
 gaspereau
 graverobber
 gowpen
@@ -3969,6 +3968,7 @@ gyroceras
 gleeting
 garrisons
 gipsy
+gulaman
 gynaecocratic
 gutser
 garote
