@@ -16823,7 +16823,6 @@ chlored
 carillonneurs
 cosmetologists
 calchaqui
-corrupts
 cystirrhea
 criophoros
 clover
@@ -19129,6 +19128,7 @@ collyrite
 carder
 collyrium
 cedes
+corrupts
 cystocyte
 collisive
 curtseying
