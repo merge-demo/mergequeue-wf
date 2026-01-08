@@ -13612,6 +13612,7 @@ bratina
 bouffe
 botulin
 bumpiness
+biangulated
 bhutani
 bilker
 bremeness
@@ -15666,7 +15667,6 @@ bonelet
 britain
 brotany
 buzzardlike
-biangulated
 biting
 britannically
 brashy
