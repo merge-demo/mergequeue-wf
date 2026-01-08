@@ -788,6 +788,7 @@ abroach
 airdock
 abrogate
 allergies
+artisan
 aerodynamical
 antagonisation
 archilithic
@@ -2519,7 +2520,6 @@ anchoretic
 aconative
 acondylose
 amicable
-artisan
 abeyant
 aconelline
 assentatory
