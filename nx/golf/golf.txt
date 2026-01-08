@@ -397,6 +397,7 @@ goalposts
 galliass
 germinogony
 gradeless
+groups
 groundlessly
 genuflexuous
 galatea
@@ -1241,7 +1242,6 @@ glittered
 goldy
 generalizations
 gondolas
-groups
 gambolled
 goodship
 galligaskin
