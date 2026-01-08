@@ -7698,6 +7698,7 @@ amtrack
 arle
 arsacidan
 acuchi
+anneals
 allayed
 assibilated
 affile
@@ -13396,7 +13397,6 @@ anneal
 artlessly
 arraignments
 annealer
-anneals
 annect
 adenohypophysis
 annelidan
