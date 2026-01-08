@@ -228,7 +228,6 @@ cabrillas
 cabrit
 comprend
 cabstands
-cabuya
 celebrators
 coalyards
 cabureiba
@@ -31873,6 +31872,7 @@ canelas
 capillarily
 creamfruit
 cipaye
+cabuya
 cattlemen
 chloragen
 cordwainery
