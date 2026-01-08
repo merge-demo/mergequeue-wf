@@ -3603,7 +3603,6 @@ boccies
 brach
 bulldogger
 bibliognost
-bioinstrument
 beccaccia
 bathrooms
 bazigar
@@ -15348,6 +15347,7 @@ beastish
 bullying
 belles
 bastian
+bioinstrument
 bridewell
 birdwitted
 bridewort
