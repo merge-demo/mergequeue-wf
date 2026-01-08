@@ -4369,7 +4369,6 @@ episperm
 euphrasia
 ectropionized
 emote
-epotation
 eggars
 encranial
 excrescence
@@ -5971,6 +5970,7 @@ exquisite
 etourderie
 ephphatha
 enigmatist
+epotation
 enigmatizing
 enigmatographer
 exempts
