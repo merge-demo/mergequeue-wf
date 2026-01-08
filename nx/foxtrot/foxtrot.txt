@@ -1684,7 +1684,6 @@ forehandsel
 fearsomeness
 feased
 folic
-fumigant
 flybook
 fruit
 fingrigo
@@ -10402,6 +10401,7 @@ firs
 fleing
 feigning
 fogie
+fumigant
 foxgloves
 foliation
 frontbencher
