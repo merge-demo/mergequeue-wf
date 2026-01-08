@@ -814,6 +814,7 @@ glucosane
 ghurry
 geniculum
 guetar
+gamboled
 goldenrods
 gyppo
 gletty
@@ -834,7 +835,6 @@ goban
 granulater
 geonegative
 glockenspiel
-gamboled
 gillar
 goethe
 guaraunan
