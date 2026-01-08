@@ -3207,7 +3207,6 @@ graying
 guineaman
 gapless
 guerilla
-geochronologist
 growthful
 guardiancy
 gristliest
@@ -10204,6 +10203,7 @@ guttifer
 guids
 guidwife
 geladas
+geochronologist
 gerip
 gooneys
 graze
