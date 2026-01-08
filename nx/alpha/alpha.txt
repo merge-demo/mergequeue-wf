@@ -12370,6 +12370,7 @@ animalia
 antibiont
 admensuration
 algesis
+aporias
 armchairs
 anecdotage
 astart
@@ -17249,7 +17250,6 @@ aporhyolite
 allanites
 autobiographal
 asserting
-aporias
 ascidioidea
 adherant
 androsace
