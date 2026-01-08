@@ -883,7 +883,6 @@ evaporators
 erikite
 ectoparasitica
 enation
-exhumating
 economically
 epizootic
 ectopy
@@ -5451,6 +5450,7 @@ electuary
 exculpations
 eurithermophile
 er
+exhumating
 ecraseurs
 ecstaticize
 endoparasitic
