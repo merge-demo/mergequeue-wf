@@ -3581,6 +3581,7 @@ caucus
 caucused
 calvarias
 captives
+curbstones
 captor
 capturable
 capture
@@ -26747,7 +26748,6 @@ counterborer
 counterboring
 counterboulle
 counterbranch
-curbstones
 counterbrand
 confutable
 countercathexis
