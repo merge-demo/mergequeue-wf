@@ -7152,7 +7152,6 @@ giggler
 glucolipin
 graftage
 guan
-gastrotaxis
 gabelle
 glider
 gulfweed
@@ -7446,6 +7445,7 @@ glasswork
 glycines
 gorgelet
 gamotropic
+gastrotaxis
 grewt
 grampuses
 gabelleman
