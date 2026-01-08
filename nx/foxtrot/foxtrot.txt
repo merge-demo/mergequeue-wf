@@ -1715,6 +1715,7 @@ fencibles
 feastraw
 fastnacht
 foreordainment
+fitified
 filiality
 featherbird
 feoffors
@@ -4615,7 +4616,6 @@ fruiteries
 fruitgrowing
 fitchew
 fruitages
-fitified
 fluoridizing
 fally
 flavory
