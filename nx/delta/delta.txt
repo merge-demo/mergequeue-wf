@@ -12265,7 +12265,6 @@ deviators
 dysfunctions
 disfurnish
 deport
-disfurnished
 dangerless
 deathshot
 dervishes
@@ -16543,6 +16542,7 @@ dragee
 disputed
 dimensible
 dragger
+disfurnished
 driftman
 draggier
 diacritics
