@@ -7544,7 +7544,6 @@ erythrolitmin
 electrocoating
 extemporal
 epichondrosis
-esparto
 epichordal
 erosely
 enantiomorph
@@ -13207,6 +13206,7 @@ endostracal
 epaenetic
 echinopsine
 expiration
+esparto
 exponentiation
 epaxial
 ermined

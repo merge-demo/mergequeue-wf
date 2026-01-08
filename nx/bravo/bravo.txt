@@ -6296,7 +6296,6 @@ bacteriolysin
 backwashes
 blockhouses
 berrendo
-blastie
 bentonite
 bents
 benu
@@ -17506,6 +17505,7 @@ buprestidae
 backspins
 berzelianite
 bena
+blastie
 buprestis
 briskening
 bragwort
