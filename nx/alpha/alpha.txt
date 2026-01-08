@@ -12562,6 +12562,7 @@ arpeggiation
 annus
 arcticward
 angareb
+astroid
 agathaea
 angel
 angela
@@ -17591,7 +17592,6 @@ autovalve
 appendorontgenography
 antheximeter
 activist
-astroid
 adjoining
 appentice
 absquatulation
