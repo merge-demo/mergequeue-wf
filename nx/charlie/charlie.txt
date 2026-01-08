@@ -2311,6 +2311,7 @@ completer
 cromorne
 canalboat
 charales
+causeuses
 canale
 canaled
 cobs
@@ -6394,7 +6395,6 @@ causers
 causes
 cgm
 crimison
-causeuses
 cannellated
 catocathartic
 causewaying
