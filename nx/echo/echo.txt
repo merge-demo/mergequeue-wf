@@ -2790,7 +2790,6 @@ extrusions
 exhilaratory
 engraft
 echards
-exclaims
 evergreenite
 exchangeably
 equangular
@@ -5909,6 +5908,7 @@ enhaemospore
 epiplastron
 execrators
 exaggerativeness
+exclaims
 epitomise
 enfief
 enharbour
