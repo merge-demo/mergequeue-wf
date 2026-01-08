@@ -10400,7 +10400,6 @@ articled
 allantoidea
 ascomycetous
 aping
-acquiring
 atheling
 amidophenol
 apothem
@@ -14180,6 +14179,7 @@ antesuperior
 arboretums
 aviators
 antisyndication
+acquiring
 antetemple
 assertorially
 aulostomatidae
