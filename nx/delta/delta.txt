@@ -1231,7 +1231,6 @@ decolonise
 disembarkation
 defecating
 disemplane
-dateless
 datelessness
 denizate
 detacher
@@ -5377,6 +5376,7 @@ diamonds
 drown
 duodecimality
 desegregating
+dateless
 deyhouse
 decoction
 delicatesse
