@@ -10783,7 +10783,6 @@ dependent
 dona
 dipterus
 dotterel
-diptychs
 differencing
 dilator
 dipware
@@ -12825,6 +12824,7 @@ dhak
 decompressive
 dunk
 debouch
+diptychs
 diathesic
 duplicatus
 derepression
