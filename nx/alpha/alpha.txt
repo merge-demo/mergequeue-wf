@@ -4905,6 +4905,7 @@ avulsions
 admonitioner
 arrange
 antepalatal
+anaclitic
 aerolithology
 aerolitic
 aerological
@@ -8515,7 +8516,6 @@ atmophile
 allegata
 allegations
 allegers
-anaclitic
 anthophyllite
 alleges
 abbreviately
