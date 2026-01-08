@@ -663,7 +663,6 @@ fallings
 fortitudinous
 fictionalization
 forwarding
-fimetic
 flocculence
 farrand
 featherbedding
@@ -2155,6 +2154,7 @@ formulae
 fractocumulus
 fadme
 flashet
+fimetic
 feltmaker
 furtum
 fiducia
