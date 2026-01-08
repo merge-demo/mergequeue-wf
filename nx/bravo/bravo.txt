@@ -13814,6 +13814,7 @@ boutons
 balister
 billback
 barrelful
+boulle
 bouw
 butle
 bigheads
@@ -17032,7 +17033,6 @@ birkenhead
 bacteriotoxin
 bulbiest
 buettneria
-boulle
 becks
 bulblike
 biacetyl
