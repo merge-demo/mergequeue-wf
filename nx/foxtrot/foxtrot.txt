@@ -5113,6 +5113,7 @@ frontsman
 forewent
 faldistory
 fidejussion
+figureless
 flavaniline
 fluidacetextract
 freighting
@@ -5616,7 +5617,6 @@ failsafe
 forwhy
 forfar
 fingerwise
-figureless
 federal
 frontonasal
 flageolet
