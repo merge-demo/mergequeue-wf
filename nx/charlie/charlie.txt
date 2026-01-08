@@ -3392,6 +3392,7 @@ capote
 capouches
 crypted
 capparis
+cosponsorship
 capped
 cappelletti
 capper
@@ -4546,7 +4547,6 @@ carn
 carnacian
 carnaged
 chortling
-cosponsorship
 carnages
 casamarca
 carnalite
