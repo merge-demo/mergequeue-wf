@@ -6858,7 +6858,6 @@ concaveness
 celliform
 cellist
 cellite
-currs
 continua
 cellmates
 cello
@@ -13389,6 +13388,7 @@ charadriidae
 coraciidae
 croshabell
 cyclostomatous
+currs
 coalize
 cunette
 concurrency
