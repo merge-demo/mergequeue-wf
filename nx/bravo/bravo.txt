@@ -11692,7 +11692,6 @@ boathouse
 backbends
 boffos
 blacketeer
-baccare
 bandhu
 botchy
 bittacle
@@ -15640,6 +15639,7 @@ bourbonian
 bombproof
 bristled
 boots
+baccare
 biomagnetism
 burlaps
 banlieue
