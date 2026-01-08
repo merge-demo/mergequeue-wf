@@ -645,7 +645,6 @@ ecstatics
 etymonic
 ellipses
 earful
-empiricist
 epizoite
 electrifier
 electioneering
@@ -13034,6 +13033,7 @@ ezba
 encolumn
 entastic
 existentially
+empiricist
 esophagectomy
 ergotic
 estafette
