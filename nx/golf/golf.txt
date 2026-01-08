@@ -1614,7 +1614,6 @@ galavant
 gemaric
 geneat
 giraffine
-gasteropoda
 gummy
 gillies
 guaguanche
@@ -7903,6 +7902,7 @@ gastropodous
 graved
 grammatistical
 gratinated
+gasteropoda
 giglots
 grammatite
 gotten
