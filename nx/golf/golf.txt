@@ -1533,6 +1533,7 @@ glyptodon
 gasmen
 grippal
 galenian
+greencoat
 germiest
 geotonic
 gagtooth
@@ -9016,7 +9017,6 @@ gallinula
 glumaceae
 geosynchronous
 glagah
-greencoat
 gargarism
 grantedly
 glovemaking
