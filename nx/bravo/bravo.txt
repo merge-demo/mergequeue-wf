@@ -3399,6 +3399,7 @@ bureau
 bassia
 bobbishly
 bassie
+bioassaying
 bivalents
 betsey
 bassinet
@@ -8920,7 +8921,6 @@ bathypelagic
 bioaccumulation
 bioactivities
 bregmata
-bioassaying
 bioastronautics
 bungalow
 belcher
