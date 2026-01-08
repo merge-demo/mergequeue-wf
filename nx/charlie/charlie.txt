@@ -7537,7 +7537,6 @@ chlorophyl
 ceratophyllaceous
 crinch
 ceratophyllum
-ceratophyta
 colocephalous
 crozier
 ceratopsian
@@ -17349,6 +17348,7 @@ coapted
 cohosts
 carolinian
 conclamant
+ceratophyta
 ceratitis
 coapting
 camarada
