@@ -1278,6 +1278,7 @@ gromatical
 gyrator
 galium
 gogetting
+guideposts
 ganglionary
 glyphographer
 grallina
@@ -3608,7 +3609,6 @@ gingko
 garmentworker
 glowing
 ganglions
-guideposts
 gymnorhina
 geomagnetist
 grugru
