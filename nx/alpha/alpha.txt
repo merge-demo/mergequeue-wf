@@ -12505,7 +12505,6 @@ anesthetization
 anesthetized
 achromotrichia
 altoun
-anesthetizes
 anterograde
 anethene
 albites
@@ -20340,6 +20339,7 @@ arsenobenzol
 ankylocheilia
 ascogonial
 arsenobismite
+anesthetizes
 acidproof
 antilogistically
 antipsoric
