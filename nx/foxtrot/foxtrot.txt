@@ -1698,6 +1698,7 @@ frigs
 feasibly
 fashionmonger
 flighted
+fusiform
 fascio
 filicin
 fortravail
@@ -11552,7 +11553,6 @@ fervently
 frames
 ferociousness
 footlessly
-fusiform
 fusil
 fowage
 figurations
