@@ -8745,7 +8745,6 @@ forestick
 finchery
 forehands
 flavonols
-forsakers
 fortuitous
 flote
 faussebraie
@@ -10860,6 +10859,7 @@ flavorous
 fulfillments
 fennici
 fulfullment
+forsakers
 functionless
 fontanels
 fluxweed
