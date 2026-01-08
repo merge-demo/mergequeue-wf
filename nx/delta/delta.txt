@@ -1997,7 +1997,6 @@ dopant
 discostate
 due
 debuted
-debuting
 desirable
 diced
 diagrammers
@@ -2080,6 +2079,7 @@ dessiatine
 dreidls
 delictum
 dermatotomy
+debuting
 daikered
 devotion
 dimedon
