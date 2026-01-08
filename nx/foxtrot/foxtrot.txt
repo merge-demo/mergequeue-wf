@@ -1169,7 +1169,6 @@ frays
 footfeed
 fascinator
 ferous
-flouters
 fermillet
 fantasied
 fistulize
@@ -6119,6 +6118,7 @@ funker
 frecken
 faculty
 forgeman
+flouters
 figurial
 flint
 fanfare
