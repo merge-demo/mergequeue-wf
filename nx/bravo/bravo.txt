@@ -8941,7 +8941,6 @@ boffola
 belialist
 biochemic
 bromvogel
-boeotian
 brassish
 bonedog
 bearhugs
@@ -9614,6 +9613,7 @@ battlements
 braccio
 ballhawk
 biscayan
+boeotian
 beaver
 biscayanism
 barbal
