@@ -4754,6 +4754,7 @@ fulldo
 foxberries
 forestalment
 flammiferous
+fluing
 follower
 flambeaux
 forfeits
@@ -9157,7 +9158,6 @@ foreshadows
 frothi
 fuming
 flopover
-fluing
 fuzee
 forjudging
 foregather
