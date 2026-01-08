@@ -131,7 +131,6 @@ embosk
 epigrammatic
 exanthemata
 enantiomorphous
-endometritis
 engaol
 enigmatized
 exterminable
@@ -14194,6 +14193,7 @@ eschatological
 enqueues
 enterococci
 ectosome
+endometritis
 esthetics
 elimination
 epulation
