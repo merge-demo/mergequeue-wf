@@ -5492,6 +5492,7 @@ fernbrake
 ferreter
 fylker
 flora
+frotton
 funniness
 forkers
 foreword
@@ -10535,7 +10536,6 @@ flyback
 frottola
 federalizations
 featherback
-frotton
 freewheelers
 fascicularly
 fumelike
