@@ -1438,6 +1438,7 @@ equiomnipotent
 emetins
 epidote
 exterous
+emphasized
 endowing
 erasions
 ericoid
@@ -4011,7 +4012,6 @@ enage
 extirpated
 echappe
 emphasize
-emphasized
 embargos
 exogens
 eversive
