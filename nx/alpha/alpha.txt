@@ -12583,7 +12583,6 @@ acetonylidene
 autoheterosis
 activity
 angelically
-auxograph
 argentic
 aptote
 alambique
@@ -18191,6 +18190,7 @@ aphanomyces
 aquifer
 avanturine
 amelu
+auxograph
 actifier
 abshenry
 antispiritualist
