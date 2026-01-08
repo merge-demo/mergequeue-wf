@@ -8443,7 +8443,6 @@ becalmment
 bredi
 biplanal
 biorbital
-bikeway
 bedirter
 bedaze
 balita
@@ -11687,6 +11686,7 @@ boastfulness
 bacchus
 boasts
 bryologist
+bikeway
 bacterioscopical
 barspoon
 boatbuilding
