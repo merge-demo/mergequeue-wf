@@ -13138,6 +13138,7 @@ diastyle
 dispensatory
 detrain
 develed
+declaratively
 dispensatress
 disestablishment
 deciduoma
@@ -14210,7 +14211,6 @@ dolesman
 dermatomic
 drolly
 download
-declaratively
 dithyrambic
 delaying
 disunity
