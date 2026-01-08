@@ -5792,6 +5792,7 @@ gussy
 gym
 geratic
 goldsmith
+gellants
 geometric
 gaveller
 gadarene
@@ -10688,7 +10689,6 @@ gastroenteroptosis
 grands
 glaucomatous
 googol
-gellants
 groundbird
 glazers
 gurnet
