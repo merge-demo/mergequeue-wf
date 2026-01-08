@@ -6823,7 +6823,6 @@ diazoamine
 desmodontidae
 dynamical
 danuri
-desmogenous
 desmography
 disrobes
 disproportionalness
@@ -11801,6 +11800,7 @@ dowering
 default
 dined
 doxology
+desmogenous
 dermutation
 discretion
 discretional
