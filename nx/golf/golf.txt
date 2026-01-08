@@ -5666,7 +5666,6 @@ gant
 grippelike
 grate
 gardenmaker
-grenat
 galleins
 gaucie
 gaultheria
@@ -8535,6 +8534,7 @@ gayal
 gravelish
 guardian
 gulpers
+grenat
 genie
 gabling
 gurging
