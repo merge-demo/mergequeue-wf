@@ -980,7 +980,6 @@ graysby
 gallantness
 genre
 ghastfully
-galliferous
 gilgamesh
 grouting
 goldurn
@@ -1165,6 +1164,7 @@ gestion
 gnawings
 galactometry
 gnetums
+galliferous
 guffin
 gaol
 gulls
