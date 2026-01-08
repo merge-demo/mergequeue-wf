@@ -3192,6 +3192,7 @@ flounce
 fourcher
 flippantness
 fijian
+flittermouse
 friers
 frostwort
 fearnought
@@ -5819,7 +5820,6 @@ forgettingly
 fastigium
 fellowess
 foreswearing
-flittermouse
 fellowship
 fathmur
 flitters
