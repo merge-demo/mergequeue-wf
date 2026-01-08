@@ -1629,6 +1629,7 @@ fipenny
 foraneen
 four
 fdnames
+footwalk
 forthcut
 flamboyantly
 focally
@@ -7309,7 +7310,6 @@ fustet
 floorboards
 fancysick
 federalise
-footwalk
 fertil
 footwarmer
 fortnight
