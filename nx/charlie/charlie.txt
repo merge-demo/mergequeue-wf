@@ -20655,7 +20655,6 @@ capibara
 counteranswer
 complaintiveness
 chaussures
-complaints
 cabinetmake
 complaisant
 cankerworms
@@ -21360,6 +21359,7 @@ cliqued
 cupped
 conciliabulum
 centremost
+complaints
 conciliarism
 commissionship
 carbones
