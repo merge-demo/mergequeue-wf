@@ -10650,7 +10650,6 @@ asterisked
 amissible
 amissing
 amita
-apartmental
 adherends
 aeroscopic
 aplanatically
@@ -23195,6 +23194,7 @@ attestator
 antiseption
 attested
 apyrexy
+apartmental
 ambrette
 attester
 antwerp

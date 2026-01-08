@@ -183,7 +183,6 @@ baccalaureate
 baccalaureates
 baccalaureus
 baroques
-bipartition
 bandido
 byes
 bitt
@@ -4736,6 +4735,7 @@ bootlegger
 bedlamised
 bottlers
 bedlamite
+bipartition
 brulyiement
 bastardization
 bedub
