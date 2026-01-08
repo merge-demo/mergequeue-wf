@@ -483,6 +483,7 @@ escapements
 erf
 exsectile
 eveners
+endgame
 enanthesis
 epitheliomata
 evector
@@ -13864,7 +13865,6 @@ emandibulate
 equitably
 extroverts
 encyst
-endgame
 everett
 extraneity
 ethiop
