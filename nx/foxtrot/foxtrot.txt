@@ -3851,6 +3851,7 @@ fellowshiping
 fecundating
 ferocactus
 financer
+farci
 ferratin
 fripperies
 fevertrap
@@ -6194,7 +6195,6 @@ fazendeiro
 festivals
 fragmentized
 finality
-farci
 flowerage
 fluxation
 forever
