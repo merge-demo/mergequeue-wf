@@ -339,7 +339,6 @@ burglars
 burlers
 befilth
 buckra
-bloman
 brushes
 belches
 backfills
@@ -8640,6 +8639,7 @@ bioactivity
 bronchial
 bailout
 belatedly
+bloman
 beeswinged
 becowards
 bundahish
