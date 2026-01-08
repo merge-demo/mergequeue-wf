@@ -3391,7 +3391,6 @@ carrots
 capote
 capouches
 crypted
-capparid
 capparis
 capped
 cappelletti
@@ -5417,6 +5416,7 @@ cibolan
 corv
 casters
 ciliation
+capparid
 castes
 chrysanthemin
 casteth
