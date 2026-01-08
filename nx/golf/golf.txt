@@ -1329,6 +1329,7 @@ geullah
 greeting
 gargoyley
 grandparentage
+gluconate
 gossipdom
 grimier
 gested
@@ -1499,7 +1500,6 @@ gauntness
 girllike
 grotesque
 glumly
-gluconate
 gastrulae
 gusain
 gunzian
