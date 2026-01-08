@@ -17148,7 +17148,6 @@ actinomycestal
 apologs
 appurtenant
 applause
-apologue
 apologues
 apolousis
 astacidae
@@ -17710,6 +17709,7 @@ adaptationally
 adjacencies
 anthorine
 appliable
+apologue
 apocentre
 achitophel
 appliant
