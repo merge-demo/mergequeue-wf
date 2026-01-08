@@ -8586,6 +8586,7 @@ baptism
 bo
 bunting
 bedder
+bewearied
 bradycardia
 billabong
 brumes
@@ -9302,7 +9303,6 @@ brownie
 biodegraded
 broncholithiasis
 baffle
-bewearied
 beshrewing
 blockader
 biplane
