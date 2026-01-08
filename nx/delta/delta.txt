@@ -3654,7 +3654,6 @@ dermatoxerasia
 deglut
 dec
 decwriter
-disarrangement
 decubation
 denounced
 despisement
@@ -14818,6 +14817,7 @@ dennet
 docks
 demonologist
 docmac
+disarrangement
 docoglossan
 disulphoxid
 detests

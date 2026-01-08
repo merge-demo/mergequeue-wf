@@ -966,7 +966,6 @@ entada
 ethnarch
 ecttypal
 equates
-euskaric
 emanatory
 exeresis
 ecuadorian
@@ -12178,6 +12177,7 @@ empory
 exeat
 epigraphs
 exec
+euskaric
 epiphonemas
 elachista
 exacervation
