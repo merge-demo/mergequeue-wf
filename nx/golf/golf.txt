@@ -5427,7 +5427,6 @@ groovy
 granomerite
 groupageness
 gastroesophageal
-gulfside
 galliwasp
 guniter
 glyphic
@@ -5667,6 +5666,7 @@ gant
 grippelike
 grate
 gardenmaker
+gulfside
 galleins
 gaucie
 gaultheria
