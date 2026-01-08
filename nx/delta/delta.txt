@@ -9381,7 +9381,6 @@ djinni
 duplicator
 deterred
 diffusers
-disenthralment
 diffuses
 danaidean
 dechlore
@@ -12315,6 +12314,7 @@ debarks
 digital
 disgracious
 diplegias
+disenthralment
 durbar
 dovecotes
 druttle
