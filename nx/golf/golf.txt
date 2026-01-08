@@ -5498,7 +5498,6 @@ gablet
 glottides
 gimmer
 goods
-gentlemen
 goodyera
 gutium
 glossoptosis
@@ -7249,6 +7248,7 @@ graminifolious
 guaruan
 gleamier
 gumless
+gentlemen
 gonesome
 grayouts
 grouched
