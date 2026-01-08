@@ -4885,7 +4885,6 @@ aerographical
 aerohydrodynamic
 angakoks
 ambodexter
-akaroa
 archdapifership
 aetiophyllin
 auncel
@@ -18305,6 +18304,7 @@ ampullitis
 apotheoses
 anaesthetizing
 apart
+akaroa
 asor
 arachnoidea
 antinial
