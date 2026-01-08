@@ -10496,7 +10496,6 @@ digonoporous
 depthless
 danging
 derangeable
-delaminate
 divinize
 dihydrocupreine
 dipyrenous
@@ -12410,6 +12409,7 @@ dishcloth
 defiladed
 dishcloths
 disparkle
+delaminate
 dupable
 dishclout
 disassembly
