@@ -1186,7 +1186,6 @@ epipany
 electrotyped
 exceptiveness
 expectancies
-extramental
 educand
 edification
 evanished
@@ -6835,6 +6834,7 @@ encheiria
 entom
 extender
 episternalia
+extramental
 eumenes
 ectosarcs
 elix

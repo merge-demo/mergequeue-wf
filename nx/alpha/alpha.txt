@@ -15407,7 +15407,6 @@ antimechanistically
 aircrew
 antimechanization
 antimedical
-aslantwise
 antimedicine
 anaptomorphidae
 anchylotic
@@ -18906,6 +18905,7 @@ archimedes
 albarello
 almacigo
 asymtotically
+aslantwise
 angiocardiographic
 archimime
 allopathetically
