@@ -72,6 +72,7 @@ feudalization
 faceharden
 flagships
 financiers
+flashing
 facellite
 felonious
 flysch
@@ -3600,7 +3601,6 @@ fuchsines
 foreordination
 footmaker
 frictionlessly
-flashing
 faintishness
 fielder
 fabian
