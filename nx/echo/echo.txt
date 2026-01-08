@@ -7278,7 +7278,6 @@ equationally
 effigial
 enclitics
 exlex
-elechi
 engird
 excheat
 encharnel
@@ -8667,6 +8666,7 @@ epipoditic
 eggcrate
 endnotes
 enmeshed
+elechi
 elastometer
 eltrot
 equipedal
