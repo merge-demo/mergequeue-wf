@@ -1209,7 +1209,6 @@ ennuye
 enscroll
 educational
 extratracheal
-estipulate
 estimation
 elenge
 earthquake
@@ -9013,6 +9012,7 @@ edituate
 ea
 eteocretes
 edriophthalma
+estipulate
 erythrite
 encheck
 enthralment
