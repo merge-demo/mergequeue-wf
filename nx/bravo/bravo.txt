@@ -13570,6 +13570,7 @@ botulisms
 brief
 brachypterous
 brodequin
+bearded
 briquette
 bouch
 blacksmith
@@ -14583,7 +14584,6 @@ branchiferous
 barkentines
 birthrates
 broma
-bearded
 branchiness
 beglobed
 butterburr
