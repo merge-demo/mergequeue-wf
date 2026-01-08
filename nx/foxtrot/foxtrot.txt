@@ -286,7 +286,6 @@ fluyts
 favi
 friskets
 filander
-fadmongering
 folios
 finfishes
 felsic
@@ -1968,6 +1967,7 @@ flossflower
 flyaway
 frize
 fulani
+fadmongering
 floative
 flinthearted
 fayed
