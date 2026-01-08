@@ -9413,7 +9413,6 @@ chawdron
 comitative
 commoditable
 cisatlantic
-cpl
 cytitis
 chawers
 chawia
@@ -16834,6 +16833,7 @@ crepitus
 clovewort
 castling
 coauditor
+cpl
 corporealist
 cuneator
 comarca
