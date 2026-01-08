@@ -1355,7 +1355,6 @@ growingupness
 ganocephalan
 guillotiner
 greenalite
-galvanist
 glomerulus
 galloner
 glorifier
@@ -7628,6 +7627,7 @@ grabhook
 grabouche
 gripsack
 gerenda
+galvanist
 garpike
 gametangium
 gilbertite
