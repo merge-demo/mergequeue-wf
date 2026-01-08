@@ -1251,7 +1251,6 @@ barrowful
 bendy
 barleys
 bradshaw
-bottomer
 brimmed
 bromochlorophenol
 bucketsful
@@ -2999,6 +2998,7 @@ barsac
 backhatch
 bioassay
 blarneyer
+bottomer
 barstools
 bart
 bargees
