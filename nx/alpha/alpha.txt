@@ -2602,7 +2602,6 @@ acanthopterous
 alginates
 aureation
 alans
-acquiescence
 acquiescency
 accrescent
 atheist
@@ -11390,6 +11389,7 @@ astely
 amusement
 artificership
 annealed
+acquiescence
 alodiality
 aerometry
 agglomerant
