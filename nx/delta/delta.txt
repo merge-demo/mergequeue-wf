@@ -4258,7 +4258,6 @@ disannexation
 demasculinise
 divisors
 deadening
-dermophytic
 dem
 demagnetisation
 dovelet
@@ -14904,6 +14903,7 @@ dieselization
 dodecahydrate
 duodenojejunostomy
 divata
+dermophytic
 delabialization
 diaconus
 dihedrals
