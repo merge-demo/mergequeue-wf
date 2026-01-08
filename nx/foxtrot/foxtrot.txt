@@ -1673,7 +1673,6 @@ festa
 fieldward
 finishing
 fearingly
-ferineness
 fearless
 frangible
 fuzes
@@ -8351,6 +8350,7 @@ feastful
 folkways
 fewsome
 fortitudes
+ferineness
 feigningly
 forbidden
 fulminates
