@@ -7446,6 +7446,7 @@ combinable
 crusher
 cephalopodous
 corporatist
+chthonian
 cephalopterus
 cephaloridine
 cadus
@@ -12670,7 +12671,6 @@ charcoalist
 cicatrisation
 chteau
 chauffeuses
-chthonian
 conciliators
 cubbyhouse
 chuana
