@@ -1720,6 +1720,7 @@ aeroelastics
 animadvert
 aitiotropic
 aristocracies
+anchorages
 accusants
 advowsons
 antediluvially
@@ -12114,7 +12115,6 @@ anchisaurus
 alphabetiform
 aegirite
 anaxone
-anchorages
 anchorlike
 antiphonic
 autodials
