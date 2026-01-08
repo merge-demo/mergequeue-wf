@@ -4662,7 +4662,6 @@ grockle
 griggles
 graphometer
 gaonic
-goaded
 gasconade
 gummosis
 gamori
@@ -7476,6 +7475,7 @@ glanduliform
 grunerite
 grapplement
 gomerals
+goaded
 gasconaded
 gravitation
 gists
