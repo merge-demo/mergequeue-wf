@@ -4255,7 +4255,6 @@ chromaphore
 carecloth
 cadetcy
 cared
-careens
 career
 careered
 condensery
@@ -19932,6 +19931,7 @@ collectives
 contriturate
 clayish
 comity
+careens
 comitia
 comitial
 colortype
