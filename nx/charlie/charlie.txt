@@ -3618,7 +3618,6 @@ carabeen
 carabidae
 checkle
 chrisoms
-cissus
 carabidan
 carabidoid
 carabids
@@ -5410,6 +5409,7 @@ crinicultural
 congestible
 cinemograph
 corncob
+cissus
 calibrators
 crummies
 cibolan
