@@ -2091,7 +2091,6 @@ geleem
 grandbaby
 glimpser
 gamblers
-glancing
 gyrocompasses
 glacially
 gawgaw
@@ -3687,6 +3686,7 @@ granilla
 gossameriness
 grouching
 gedder
+glancing
 grinnie
 gro
 gastroenterological
