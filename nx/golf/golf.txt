@@ -2925,7 +2925,6 @@ glints
 gallipots
 gonocyte
 gaveled
-gallinulelike
 gombos
 geochemical
 gee
@@ -4160,6 +4159,7 @@ gyrectomy
 gimmickery
 gendering
 gangrenate
+gallinulelike
 gymnasic
 grelot
 galeidae
