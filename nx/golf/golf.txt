@@ -1489,7 +1489,6 @@ glans
 grouter
 gaselier
 golet
-gastrophilus
 gastric
 gisarme
 growly
@@ -4653,6 +4652,7 @@ gorillaship
 glamorized
 gyrostabilized
 goatbush
+gastrophilus
 gurk
 granulitic
 gunlocks
