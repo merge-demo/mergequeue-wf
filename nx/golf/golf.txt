@@ -2949,6 +2949,7 @@ gubernation
 greenheaded
 gallons
 gulley
+gasoscope
 growlier
 glumpish
 gavelkind
@@ -10116,7 +10117,6 @@ grammarian
 gekkonoid
 gonfaloniership
 gephyrocercal
-gasoscope
 glottid
 genion
 gazetteer
