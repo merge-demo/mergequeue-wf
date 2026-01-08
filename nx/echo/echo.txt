@@ -2264,6 +2264,7 @@ elections
 elevatory
 exocolitis
 effluve
+endarteria
 endoperitonitis
 endoplasma
 epiphyllospermous
@@ -6957,7 +6958,6 @@ erick
 eleganter
 extrapolations
 evenness
-endarteria
 election
 entourage
 empt
