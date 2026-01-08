@@ -4768,7 +4768,6 @@ existent
 exodos
 endosmosic
 excircle
-establishments
 exploratory
 extracardial
 extend
@@ -8900,6 +8899,7 @@ ecumene
 ergodic
 espial
 extincteur
+establishments
 evenhead
 empyrical
 estaminets
