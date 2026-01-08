@@ -5888,6 +5888,7 @@ gasogene
 goliardeys
 goldarn
 gilgames
+granivorous
 grackle
 grogshops
 goofs
@@ -6595,7 +6596,6 @@ gangsterism
 glamourless
 glummy
 garous
-granivorous
 glegnesses
 gonaduct
 gighe
