@@ -3286,6 +3286,7 @@ brattle
 bastardising
 benzols
 bandaite
+bivinyls
 babbler
 bloodiest
 basions
@@ -10605,7 +10606,6 @@ baretta
 blathers
 bazookamen
 biomicroscopy
-bivinyls
 bermudians
 bezoardic
 bespeech
