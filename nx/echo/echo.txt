@@ -5952,7 +5952,6 @@ enhypostatize
 encrinoidea
 elains
 effate
-enhunger
 ethicals
 emissary
 eruc
@@ -13094,6 +13093,7 @@ ejectable
 expenditrix
 ecclesiophobia
 examinership
+enhunger
 expostulated
 embellishment
 epidermose
