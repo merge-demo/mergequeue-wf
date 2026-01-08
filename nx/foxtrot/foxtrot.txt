@@ -9303,7 +9303,6 @@ fungate
 folious
 frangipani
 framea
-frames
 forename
 fungologist
 fogrum
@@ -11547,6 +11546,7 @@ famulary
 formicivora
 flattener
 fervently
+frames
 ferociousness
 footlessly
 fusiform
