@@ -2008,7 +2008,6 @@ bandlimiting
 brezhnev
 biotopes
 bulrushy
-bani
 blea
 believably
 bedstand
@@ -5258,6 +5257,7 @@ bitless
 backmost
 blastocyst
 begats
+bani
 bolters
 bastes
 brushup
