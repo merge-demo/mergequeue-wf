@@ -273,7 +273,6 @@ abdominalian
 appurtenances
 accuracy
 autotropism
-abdominally
 aeroacoustic
 aguamas
 autoallogamous
@@ -14222,6 +14221,7 @@ anthemas
 abscissin
 anthemata
 agavose
+abdominally
 amugis
 anthemia
 actinophonic
