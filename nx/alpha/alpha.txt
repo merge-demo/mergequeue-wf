@@ -1682,7 +1682,6 @@ arank
 ambiguously
 aphidid
 acculturation
-acculturize
 astigmatical
 anatira
 ancienty
@@ -8599,6 +8598,7 @@ argyrite
 alternationist
 allelomorphic
 allelotropy
+acculturize
 allelotropic
 attendantly
 aldehydase
