@@ -3131,7 +3131,6 @@ enamouring
 elliptograph
 elliptoid
 extraparietal
-electropercussive
 eke
 elm
 embarrassment
@@ -10959,6 +10958,7 @@ epipteric
 eulogies
 euphuize
 eupyrion
+electropercussive
 eupittone
 enteritis
 exams
