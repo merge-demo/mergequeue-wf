@@ -2643,6 +2643,7 @@ decoke
 deathtraps
 decoll
 diplococcoid
+decocting
 deguelia
 dumbcow
 dispensaries
@@ -13187,7 +13188,6 @@ dispersibility
 dissolution
 dentilabial
 daces
-decocting
 derelicta
 dogmatizing
 dispersing
