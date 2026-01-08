@@ -766,7 +766,6 @@ beeline
 biometrical
 bethorn
 bedamp
-basilidan
 building
 binitarian
 baedekerian
@@ -11087,6 +11086,7 @@ bescramble
 bails
 backrest
 brimstone
+basilidan
 between
 brachygnathous
 bredestitch

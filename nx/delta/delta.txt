@@ -8393,6 +8393,7 @@ detentes
 diallagic
 dogmaticalness
 diallagite
+delisting
 deadwort
 defencive
 dishonorably
@@ -10619,7 +10620,6 @@ deuteric
 detritus
 dunnaged
 diplont
-delisting
 diplonts
 dichlamydeous
 diplophase
