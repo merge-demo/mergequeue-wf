@@ -5908,7 +5908,6 @@ backslap
 belostomatidae
 besleeve
 bisnagas
-bouillabaisse
 biose
 belotte
 bowden
@@ -8063,6 +8062,7 @@ browband
 bicorn
 bourrelet
 beslabber
+bouillabaisse
 blanque
 boatman
 busked
