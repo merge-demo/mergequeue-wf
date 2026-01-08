@@ -2065,6 +2065,7 @@ flourishable
 fudger
 fainty
 filletlike
+fetterlock
 fear
 firmers
 flavian
@@ -2827,7 +2828,6 @@ faeries
 ferlies
 flumes
 forthinking
-fetterlock
 floodlighting
 flamer
 foxship
