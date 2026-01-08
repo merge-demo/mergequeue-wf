@@ -5366,6 +5366,7 @@ castable
 checkerbreast
 castalides
 cardiopuncture
+chondroarthritis
 cotsetland
 chertier
 castanea
@@ -11769,7 +11770,6 @@ chondroalbuminoid
 chondroangioma
 coexchangeable
 countercouchant
-chondroarthritis
 contestant
 chondroblastoma
 chondrocyte
