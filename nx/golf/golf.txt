@@ -1554,7 +1554,6 @@ grype
 gulfiest
 grandiloquence
 gearless
-gazump
 ghoul
 gadflies
 gunrack
@@ -5821,6 +5820,7 @@ geocarpic
 galumptious
 glt
 gorkhali
+gazump
 gatten
 gonophoric
 gendarmes
