@@ -3445,7 +3445,6 @@ foreseason
 fallback
 fighteress
 fatigation
-fixers
 fighting
 futtock
 formboard
@@ -7253,6 +7252,7 @@ farers
 fimbrillose
 fiver
 foreground
+fixers
 footpad
 farfetchedness
 fatidically
