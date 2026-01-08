@@ -3276,7 +3276,6 @@ gormandizer
 glom
 gynecologists
 gerasene
-gesturer
 gyred
 gutti
 gns
@@ -9674,6 +9673,7 @@ grewsomest
 gin
 glycyrize
 guestmaster
+gesturer
 gowfer
 grammatophyllum
 griffaun
