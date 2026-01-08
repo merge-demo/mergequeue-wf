@@ -19010,7 +19010,6 @@ amusia
 anastomosed
 auctionary
 archhost
-autochthonic
 authorial
 algol
 amaryllis
@@ -23310,6 +23309,7 @@ ablation
 atua
 atule
 atune
+autochthonic
 atelo
 athenee
 apteria
