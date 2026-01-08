@@ -8764,7 +8764,6 @@ caconym
 chape
 chapeled
 concion
-convalescency
 coveys
 cappagh
 catchy
@@ -15998,6 +15997,7 @@ clerisies
 certifiably
 coinventor
 cobstone
+convalescency
 clerkdom
 clerkery
 clerkess
