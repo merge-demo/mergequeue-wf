@@ -6310,6 +6310,7 @@ delacrimation
 dermestid
 dermatoneural
 debit
+deben
 disseminating
 defensorship
 dermic
@@ -10601,7 +10602,6 @@ datapunch
 drudger
 degaussing
 dictaphone
-deben
 diplomates
 diplomatically
 dysergia
