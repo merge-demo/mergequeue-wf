@@ -8346,6 +8346,7 @@ balawa
 biggened
 bayonetting
 betain
+buckplate
 baccharoid
 bakepan
 barbarous
@@ -12929,7 +12930,6 @@ barthian
 boong
 bourignonist
 badan
-buckplate
 blunders
 boophilus
 bedsheet
