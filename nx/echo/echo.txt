@@ -3592,7 +3592,6 @@ eschewance
 extortionary
 extreme
 equinecessary
-entrefer
 eupeptic
 entocone
 endopleura
@@ -10916,6 +10915,7 @@ empair
 esclandre
 exsolve
 emendations
+entrefer
 exrupeal
 emmetropia
 extensor
