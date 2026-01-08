@@ -846,6 +846,7 @@ goalage
 glareolidae
 geonim
 gwine
+gnathal
 geezers
 gernitz
 gratulated
@@ -3169,7 +3170,6 @@ germanite
 gurgles
 georgics
 glycosyl
-gnathal
 gnast
 galumphing
 grangousier
