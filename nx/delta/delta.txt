@@ -11517,7 +11517,6 @@ defalcations
 deads
 discolouring
 discolourization
-discourt
 discombobulate
 disuniform
 dearling
@@ -17786,6 +17785,7 @@ duckpin
 diabolarch
 dower
 dibatis
+discourt
 dermatological
 demographies
 deskmen
