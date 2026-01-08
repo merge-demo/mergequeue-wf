@@ -6029,6 +6029,7 @@ gallocyanin
 giesel
 gunate
 geyerite
+gondoliers
 grungy
 gentlemens
 glovemen
@@ -10060,7 +10061,6 @@ galactagogue
 gospelers
 gonidiferous
 geomorphologist
-gondoliers
 ginn
 gueridons
 gasking
