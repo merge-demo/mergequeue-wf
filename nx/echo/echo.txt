@@ -718,6 +718,7 @@ enspell
 estantion
 erythrozincite
 endotoxic
+exceptant
 eidently
 enode
 eyefuls
@@ -8567,7 +8568,6 @@ ecalcarate
 equestrian
 enwreathe
 epigeous
-exceptant
 eskimauan
 extraparenchymal
 equiaxed
