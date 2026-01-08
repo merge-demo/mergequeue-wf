@@ -162,6 +162,7 @@ deprivations
 dissatisfying
 dado
 drugstore
+declensional
 doltishly
 dareall
 dadoes
@@ -12203,7 +12204,6 @@ delictus
 disfavoured
 discursion
 disfeaturement
-declensional
 decertifying
 depressible
 dejections
