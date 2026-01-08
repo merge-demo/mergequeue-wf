@@ -1703,6 +1703,7 @@ fortravail
 frippet
 flooder
 fibrocyte
+fluoresceine
 flashflood
 feastfully
 forayers
@@ -6419,7 +6420,6 @@ fluctuability
 ferriage
 fixup
 fluvio
-fluoresceine
 foppery
 fragrantness
 floreal

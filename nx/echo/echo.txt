@@ -3351,6 +3351,7 @@ epidiascopic
 enrichingly
 emicate
 extrapelvic
+exportable
 emanations
 enosist
 extrapyramidal
@@ -4874,7 +4875,6 @@ eulogizes
 encratite
 expectorator
 electroed
-exportable
 electroharmonic
 encrinic
 encrinidae
