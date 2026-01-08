@@ -3509,7 +3509,6 @@ goodsire
 gravidas
 gretel
 gehey
-geodes
 gessoes
 gerrhosauridae
 gila
@@ -3798,6 +3797,7 @@ geometdecrne
 getatable
 gazoz
 goldfield
+geodes
 generator
 gropingly
 germania
