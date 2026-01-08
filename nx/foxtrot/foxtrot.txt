@@ -4426,7 +4426,6 @@ faecula
 feelable
 flossy
 frapler
-fraternizer
 filmmake
 felons
 fishmouth
@@ -10720,6 +10719,7 @@ forecar
 francic
 finnier
 fantasizes
+fraternizer
 figent
 fitfully
 fleckered

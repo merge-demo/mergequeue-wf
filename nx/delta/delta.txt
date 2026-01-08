@@ -4204,6 +4204,7 @@ dislocate
 deltalike
 diluvial
 disacknowledge
+discrepation
 deltas
 dukeling
 dook
@@ -11785,7 +11786,6 @@ demasts
 discrepated
 droitsman
 diskless
-discrepation
 defeasibility
 dullardism
 dehydrogenize
