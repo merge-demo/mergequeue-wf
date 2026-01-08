@@ -1249,7 +1249,6 @@ barrowful
 bendy
 barleys
 bradshaw
-brimmed
 bromochlorophenol
 bucketsful
 balaenidae
@@ -10380,6 +10379,7 @@ buffability
 bamboozlers
 bhikshu
 breviature
+brimmed
 bordman
 boil
 boozers
