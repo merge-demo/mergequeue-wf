@@ -3451,7 +3451,6 @@ gridelin
 generalships
 genuflections
 gondolier
-gorkun
 galbe
 gonocytes
 gainor
@@ -8117,6 +8116,7 @@ grudgeful
 genteelish
 gesning
 gentlewoman
+gorkun
 gundygut
 granivore
 guianese
