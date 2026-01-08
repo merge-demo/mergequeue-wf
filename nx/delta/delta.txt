@@ -897,7 +897,6 @@ decolourised
 dantophilist
 dinned
 daoine
-decks
 dap
 dapedius
 developability
@@ -5411,6 +5410,7 @@ denunciator
 duchies
 discrownment
 disciplinableness
+decks
 detd
 dauk
 denver
