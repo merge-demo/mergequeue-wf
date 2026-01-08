@@ -780,7 +780,6 @@ flanges
 fluxions
 fancied
 frazzled
-fezzan
 fibroangioma
 fanciful
 fibreboard
@@ -2428,6 +2427,7 @@ furzery
 falla
 filechar
 fornax
+fezzan
 fungal
 foliocellosis
 freethink
