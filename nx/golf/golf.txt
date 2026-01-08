@@ -760,7 +760,6 @@ gangrened
 galvanology
 geomechanics
 goumi
-galvanoplasty
 gastrocolotomy
 grovers
 gansa
@@ -777,6 +776,7 @@ geometrically
 graywether
 galvanotherapy
 gourding
+galvanoplasty
 geomorphic
 galvanotropism
 guntub
