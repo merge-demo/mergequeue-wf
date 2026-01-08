@@ -8886,7 +8886,6 @@ garboard
 grieved
 gateless
 gorhen
-gyroceracone
 gasser
 gastrocystis
 guesthouses
@@ -10642,6 +10641,7 @@ geronto
 gambette
 greenly
 gossipries
+gyroceracone
 gaylies
 galbulus
 gerontologies
