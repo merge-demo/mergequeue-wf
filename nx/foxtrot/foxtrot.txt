@@ -1607,6 +1607,7 @@ fasciately
 flier
 formel
 foible
+frictionproof
 fretize
 fellmongery
 fawners
@@ -8662,7 +8663,6 @@ flattest
 farstepped
 friesian
 fantasizing
-frictionproof
 faintest
 footing
 fellatory
