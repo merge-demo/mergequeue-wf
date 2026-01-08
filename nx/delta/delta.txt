@@ -7216,6 +7216,7 @@ detecters
 decemvirate
 duffels
 digitate
+distance
 decertify
 damnified
 detectible
@@ -18586,7 +18587,6 @@ demagnetiser
 dustbins
 dustcart
 devocalisation
-distance
 dinkeys
 dustcover
 diatonicism
