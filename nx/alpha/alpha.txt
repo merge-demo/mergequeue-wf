@@ -6859,7 +6859,6 @@ aglyphous
 aptian
 airview
 agrypnias
-abdicative
 airway
 aflutter
 aquavit
@@ -20057,6 +20056,7 @@ apophyses
 ambrosial
 allomerizing
 albainn
+abdicative
 agatiform
 autobiographical
 aromatophor
