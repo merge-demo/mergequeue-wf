@@ -10456,7 +10456,6 @@ euphotide
 etymon
 ectocondyle
 elaps
-equalities
 endothelium
 etiolated
 emancipation
@@ -10624,6 +10623,7 @@ eledone
 enterpriseless
 epiplopexy
 eyewaters
+equalities
 educate
 enduringness
 egoizer
