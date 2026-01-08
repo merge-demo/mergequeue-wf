@@ -4771,6 +4771,7 @@ deparliament
 demolisher
 daily
 destine
+duskishness
 dukery
 discide
 demolition
@@ -6269,7 +6270,6 @@ deprecates
 diradiation
 didymolite
 daughters
-duskishness
 dermatopathic
 dermatophyte
 disarming
