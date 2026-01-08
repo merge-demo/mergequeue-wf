@@ -2696,7 +2696,6 @@ earhead
 emborder
 eogaean
 enfant
-extendibility
 eudaemonics
 epispadia
 enzyms
@@ -5546,6 +5545,7 @@ episcopant
 exestuate
 erudit
 exhaustedly
+extendibility
 ethions
 enfettering
 embowering
