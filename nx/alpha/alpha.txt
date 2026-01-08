@@ -4852,7 +4852,6 @@ anticonservative
 arenite
 areek
 aerodrome
-aerodromes
 arbitrating
 acetyltannin
 aeroelastic
@@ -11813,6 +11812,7 @@ addable
 ablach
 ananym
 ananism
+aerodromes
 ananite
 anelace
 aplanospore
