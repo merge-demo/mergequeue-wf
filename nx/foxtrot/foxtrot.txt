@@ -6741,6 +6741,7 @@ feast
 feathery
 fogon
 frugally
+farthings
 fibroadenoma
 forwent
 filipina
@@ -8583,7 +8584,6 @@ frogtongue
 futurities
 forebodement
 ferules
-farthings
 fanions
 foveola
 foxhole

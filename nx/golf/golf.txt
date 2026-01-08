@@ -4922,6 +4922,7 @@ glozes
 goldurns
 goatly
 gastroenteric
+gasthauses
 goliards
 galleylike
 grasshopperish
@@ -7015,7 +7016,6 @@ gossipry
 garrat
 giddybrain
 gladdener
-gasthauses
 goons
 gamostely
 glycogens
