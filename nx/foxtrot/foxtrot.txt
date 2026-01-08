@@ -2580,6 +2580,7 @@ ferromanganese
 ferrometer
 ferronatrite
 follis
+florideae
 fluorouracil
 financiere
 frangulaceae
@@ -10310,7 +10311,6 @@ felstone
 fluidglycerate
 fistulatome
 frontage
-florideae
 fasher
 frolicking
 frillies
