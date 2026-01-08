@@ -4025,7 +4025,6 @@ darknesses
 domicil
 disassociation
 dismissible
-delicatessen
 dynam
 dominance
 dualistic
@@ -13050,6 +13049,7 @@ disparageable
 disparagements
 documenting
 daleth
+delicatessen
 disestablish
 decuple
 disparation
