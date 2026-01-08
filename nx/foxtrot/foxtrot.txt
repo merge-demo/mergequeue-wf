@@ -9249,7 +9249,6 @@ factionalist
 faucals
 fidalgo
 fey
-feldspathose
 flosh
 fishbed
 foraneous
@@ -11066,6 +11065,7 @@ feels
 fuzzle
 faunological
 flinty
+feldspathose
 fangless
 flycatcher
 frictionizing
