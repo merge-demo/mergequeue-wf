@@ -3905,6 +3905,7 @@ douser
 duopoly
 disleal
 diaphemetric
+dissymmetry
 deyship
 demagnification
 deliberation
@@ -5223,7 +5224,6 @@ denouncements
 digladiate
 deprehensible
 denouncer
-dissymmetry
 densate
 diogenean
 deerstealer
