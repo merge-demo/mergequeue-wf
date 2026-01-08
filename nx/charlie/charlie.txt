@@ -3197,6 +3197,7 @@ cede
 cacochymic
 capeweed
 coverlet
+chirography
 conferring
 crystallogy
 craked
@@ -10943,7 +10944,6 @@ chirograph
 chirographers
 crl
 consideratively
-chirography
 candlelighted
 chirographical
 chirolas
