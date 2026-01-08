@@ -6246,7 +6246,6 @@ frumpishness
 fluctuating
 fucused
 fluctuational
-ferrimagnetism
 factioneer
 fluegelhorn
 febriferous
@@ -8983,6 +8982,7 @@ footle
 feldspath
 frigorific
 faster
+ferrimagnetism
 folded
 feverwort
 falconries
