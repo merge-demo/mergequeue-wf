@@ -7491,7 +7491,6 @@ foy
 flirtingly
 fossick
 feinschmecker
-fiftypenny
 feminine
 frumpier
 fishgrass
@@ -7840,6 +7839,7 @@ fishbolt
 fashes
 frounces
 frontier
+fiftypenny
 forenote
 fastness
 feltyflier
