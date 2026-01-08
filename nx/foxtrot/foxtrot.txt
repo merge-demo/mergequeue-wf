@@ -4554,7 +4554,6 @@ fourth
 feudists
 frit
 futtocks
-forespoken
 floripondio
 feuder
 fisticuff
@@ -11582,6 +11581,7 @@ foretalking
 fusionist
 fusions
 forrit
+forespoken
 flanch
 freity
 floscular
