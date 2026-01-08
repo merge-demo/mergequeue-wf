@@ -3218,6 +3218,7 @@ exhaustiveness
 euphoria
 entoptical
 eurhythmics
+excl
 elaborate
 evinced
 egghead
@@ -5769,7 +5770,6 @@ enshrines
 exhilarating
 exterritoriality
 eucharistical
-excl
 englobe
 empressements
 epigraphy
