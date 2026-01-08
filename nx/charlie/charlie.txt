@@ -532,6 +532,7 @@ chainmaking
 cadet
 canonize
 cadets
+clydeside
 cataleptoid
 cadetship
 counterstamp
@@ -15032,7 +15033,6 @@ contractively
 cilantros
 connixation
 civile
-clydeside
 civilest
 cardiod
 civilian
