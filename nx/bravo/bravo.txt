@@ -1136,6 +1136,7 @@ bountree
 bacteriaemia
 bairnwort
 baisemain
+biscotin
 besmears
 benedictine
 bushwa
@@ -17511,7 +17512,6 @@ bragwort
 biteless
 bepierce
 bombastry
-biscotin
 bursula
 betes
 bessy
