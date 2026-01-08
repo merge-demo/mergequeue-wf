@@ -3316,7 +3316,6 @@ fractals
 faultage
 filestatus
 floorers
-frowsiest
 flotsam
 foreheaded
 forjaskit
@@ -5940,6 +5939,7 @@ furlers
 frangent
 formlessness
 flockwise
+frowsiest
 ferruginate
 fusibility
 frontomalar
