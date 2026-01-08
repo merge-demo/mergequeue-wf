@@ -12500,6 +12500,7 @@ chromoisomer
 cenotaphies
 chromoisomeric
 chamaenerion
+carneous
 candelabra
 cerebralize
 customization
@@ -17923,7 +17924,6 @@ classlessness
 coguardian
 codman
 contingentiam
-carneous
 chants
 codominant
 cashew
