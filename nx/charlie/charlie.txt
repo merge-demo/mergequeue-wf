@@ -10401,6 +10401,7 @@ chieftainess
 chieftainry
 complexify
 concludendi
+cresols
 charterless
 countertendencies
 chieftains
@@ -20414,7 +20415,6 @@ compadres
 compage
 calvin
 compagnies
-cresols
 condonative
 concamerate
 companable
