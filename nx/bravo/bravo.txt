@@ -4163,7 +4163,6 @@ brenda
 bowbells
 beastlier
 barkening
-brawled
 bartlemy
 bowl
 beastlike
@@ -17378,6 +17377,7 @@ babylonism
 basiotribe
 breviary
 burganet
+brawled
 beneplacity
 bentincks
 becrawled
