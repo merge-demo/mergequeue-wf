@@ -2283,7 +2283,6 @@ celtdom
 coquina
 conceivers
 cascadia
-canafistola
 canafistolo
 canafistula
 canafistulo
@@ -17923,6 +17922,7 @@ calcigerous
 controlled
 codling
 classlessness
+canafistola
 coguardian
 codman
 contingentiam
