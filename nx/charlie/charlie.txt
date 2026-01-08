@@ -114,6 +114,7 @@ coreometer
 cabful
 canephorus
 calesa
+classers
 cabildo
 cabildos
 chutzpadik
@@ -15562,7 +15563,6 @@ coplanarity
 classbook
 classed
 cyclicism
-classers
 classfellow
 classy
 crossbolted
