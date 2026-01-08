@@ -6251,6 +6251,7 @@ bennies
 benomyl
 basiliscus
 backspread
+bulblet
 benorth
 benefact
 beme
@@ -14329,7 +14330,6 @@ brads
 brainsickness
 byword
 boarding
-bulblet
 bronchiogenic
 brochidodromous
 benefactory
