@@ -394,6 +394,7 @@ flusterer
 forcedness
 franklandite
 frothed
+frisson
 firestopping
 from
 fieldfight
@@ -1853,7 +1854,6 @@ fecundate
 fianchetti
 fanback
 francisco
-frisson
 fluellite
 flexional
 fecundator
