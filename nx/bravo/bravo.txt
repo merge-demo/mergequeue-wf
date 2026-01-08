@@ -861,7 +861,6 @@ beffroy
 baggala
 borderlight
 bagganet
-baggara
 bawcock
 belove
 beseechingly
@@ -12477,6 +12476,7 @@ bicapitate
 ballplayer
 backcast
 begloom
+baggara
 bonbons
 batell
 barker
