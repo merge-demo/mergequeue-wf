@@ -2586,6 +2586,7 @@ barters
 blackie
 baryon
 brio
+burlington
 baryphonia
 bronzesmith
 bastardizing
@@ -8525,7 +8526,6 @@ bibliotheke
 biriba
 brewage
 bylined
-burlington
 bunging
 birminghamize
 bumble
