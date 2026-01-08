@@ -23763,7 +23763,6 @@ contraposit
 cataplexy
 contrapositive
 contrapositives
-contrappostos
 contraproposal
 contraption
 contraptions
@@ -31178,6 +31177,7 @@ corage
 cuppings
 clerklike
 commulation
+contrappostos
 corantos
 cloudling
 cuprene
