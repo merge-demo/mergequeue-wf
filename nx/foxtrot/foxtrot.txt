@@ -7277,6 +7277,7 @@ firmity
 fullered
 fleetings
 flanderkin
+fraggings
 fb
 fecial
 flashback
@@ -10443,7 +10444,6 @@ fusoid
 fitche
 footer
 fictionist
-fraggings
 filigree
 flow
 funditor
