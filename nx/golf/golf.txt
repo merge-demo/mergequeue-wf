@@ -982,6 +982,7 @@ genre
 galliferous
 gilgamesh
 grouting
+goldurn
 gerodontology
 gumbo
 granddads
@@ -9361,7 +9362,6 @@ genuflect
 gangtide
 geronomite
 globulitic
-goldurn
 governability
 griffs
 glary
