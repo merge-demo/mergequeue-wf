@@ -10562,6 +10562,7 @@ disslander
 demigrate
 dippable
 dolmen
+downness
 duteously
 discoblastula
 directionless
@@ -16268,7 +16269,6 @@ downlink
 diversify
 discoverability
 desertion
-downness
 disenthralls
 dvaita
 desorption
