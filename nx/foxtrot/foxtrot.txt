@@ -5098,6 +5098,7 @@ fundless
 fumettes
 frsikets
 flareback
+fletching
 furnishness
 flossa
 flareless
@@ -7939,7 +7940,6 @@ fogyishness
 floccule
 firehouses
 footslog
-fletching
 foresees
 fonder
 frenzied
