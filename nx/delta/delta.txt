@@ -11615,6 +11615,7 @@ diphthongised
 dithering
 discerpibility
 disconsolately
+discriminativeness
 datasets
 demophobe
 digester
@@ -11825,7 +11826,6 @@ diduce
 dimitted
 discriminatively
 despatch
-discriminativeness
 discording
 drunker
 discriminator
