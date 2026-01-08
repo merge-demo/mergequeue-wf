@@ -1816,6 +1816,7 @@ gastrocolostomy
 gargler
 geodesia
 gastrovascular
+gold
 gthite
 gulleries
 giddies
@@ -3894,7 +3895,6 @@ glossophorous
 gemmoid
 gigelira
 gorilline
-gold
 garoting
 granthi
 gell
