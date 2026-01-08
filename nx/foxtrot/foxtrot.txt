@@ -2138,6 +2138,7 @@ ferrous
 felony
 foreignership
 fractioned
+fordeal
 friskest
 frontiers
 folkmoot
@@ -10512,7 +10513,6 @@ frosty
 feasance
 feuillet
 fantasticality
-fordeal
 fettering
 frostily
 fluorate
