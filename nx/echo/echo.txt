@@ -4134,6 +4134,7 @@ employe
 edictum
 epigene
 enlief
+extund
 epicanthus
 ejacula
 encyclicals
@@ -11021,7 +11022,6 @@ enridged
 electrodialitically
 editorializations
 eurypharyngidae
-extund
 encreel
 encyclopaedic
 eternalist
