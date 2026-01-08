@@ -8683,7 +8683,6 @@ fanlike
 fragility
 folium
 funariaceous
-fistuliform
 forth
 freesia
 folkmote
@@ -8851,6 +8850,7 @@ foozles
 fossilogy
 fload
 fashionability
+fistuliform
 foremastman
 felichthys
 fluter
