@@ -1518,7 +1518,6 @@ frankability
 flagellaria
 faddisms
 freely
-fusulina
 faurd
 foreseat
 feedbox
@@ -5430,6 +5429,7 @@ forbids
 futurity
 fleabiting
 fledgeling
+fusulina
 fiendhead
 foxfinger
 factionism
