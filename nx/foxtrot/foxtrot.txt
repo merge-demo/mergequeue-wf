@@ -271,6 +271,7 @@ feoffeeship
 foetors
 faders
 foiled
+foretimes
 foxhounds
 firedamp
 flutter
@@ -1405,7 +1406,6 @@ farenheit
 formulators
 federacy
 fatbacks
-foretimes
 fountainlet
 feministic
 focometry

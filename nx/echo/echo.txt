@@ -3721,7 +3721,6 @@ expectant
 elec
 eluates
 epitheliosis
-enantiotropic
 explorate
 elucidators
 embryophore
@@ -4910,6 +4909,7 @@ enthuse
 erythroneocytosis
 ephyrula
 eyednesses
+enantiotropic
 enforcingly
 electrodialysis
 escaroles
