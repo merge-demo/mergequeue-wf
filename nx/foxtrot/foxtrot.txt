@@ -7876,6 +7876,7 @@ forepossessed
 fenestrule
 fulgour
 fiddlefaced
+forementioned
 frontosquamosal
 filler
 foreshots
@@ -11319,7 +11320,6 @@ fulmicotton
 frogmouth
 freedom
 fatwa
-forementioned
 firedog
 formatted
 feverfew
