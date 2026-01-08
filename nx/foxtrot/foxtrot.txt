@@ -3588,6 +3588,7 @@ fableland
 fundal
 furbelowed
 factories
+fuchsia
 fanwort
 fenagler
 figurize
@@ -5213,7 +5214,6 @@ foliaceous
 frontierlike
 frivolers
 foreclaw
-fuchsia
 frumpery
 funest
 fest
