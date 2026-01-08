@@ -5246,7 +5246,6 @@ affixal
 astipulate
 astrid
 americanoid
-affixation
 amortization
 affixed
 apophantic
@@ -21471,6 +21470,7 @@ alloiometric
 antephialtic
 amanitopsis
 arianistical
+affixation
 angaria
 archabomination
 abirritant
