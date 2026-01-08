@@ -6784,7 +6784,6 @@ apanages
 antiagglutinative
 awry
 airn
-anthropomorphical
 auripuncture
 amalrician
 acetone
@@ -19765,6 +19764,7 @@ all
 avdp
 atelophobia
 arlequinade
+anthropomorphical
 ambaries
 aplombs
 amsonia
