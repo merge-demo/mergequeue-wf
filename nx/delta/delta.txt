@@ -7992,7 +7992,6 @@ dyeing
 draining
 deluders
 dezincking
-drouthiest
 dezincs
 deduces
 damageable
@@ -15114,6 +15113,7 @@ dogmatised
 dressoirs
 dogmatizer
 dispensator
+drouthiest
 discotheques
 darkeners
 dowdiness
