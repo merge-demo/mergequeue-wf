@@ -6271,7 +6271,6 @@ ethanes
 excalfaction
 enrich
 enrichener
-euphemise
 ectopias
 expansion
 enows
@@ -12383,6 +12382,7 @@ ensandal
 enwheeling
 exposures
 exhibition
+euphemise
 excambion
 enforce
 english
