@@ -6449,6 +6449,7 @@ diaereses
 dentaphone
 deafeningly
 dodecanoic
+distilland
 desalinator
 disclaimer
 disperge
@@ -11735,7 +11736,6 @@ discourteousness
 discoach
 decerebrated
 discoverable
-distilland
 disworth
 discoverer
 decancellation
