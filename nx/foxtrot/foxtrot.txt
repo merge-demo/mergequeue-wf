@@ -5494,7 +5494,6 @@ flensed
 forfear
 frillers
 flensers
-fallation
 fidelities
 feus
 farouk
@@ -5777,6 +5776,7 @@ folate
 filling
 fill
 fixture
+fallation
 filliping
 footlessness
 flyswatter
