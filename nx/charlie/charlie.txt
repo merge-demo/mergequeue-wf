@@ -2214,6 +2214,7 @@ cocculus
 camponotus
 counterhammering
 campos
+craggedness
 conuropsis
 circumfusile
 capotes
@@ -7332,7 +7333,6 @@ chimar
 captious
 centurist
 coroners
-craggedness
 cherishes
 cep
 crisis
