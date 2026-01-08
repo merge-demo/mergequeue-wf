@@ -333,6 +333,7 @@ graveship
 galactometer
 gorling
 gaussian
+garnishment
 grilses
 gleen
 gerontologic
@@ -5510,7 +5511,6 @@ gujar
 grubble
 gerridae
 gloomingly
-garnishment
 gastroparietal
 gazingly
 garring
