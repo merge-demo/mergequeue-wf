@@ -3307,6 +3307,7 @@ ecumenicize
 eluvies
 euphonize
 ethopoeia
+epitaphical
 estevin
 ellwand
 ermitophobia
@@ -11673,7 +11674,6 @@ ergastoplasm
 epileptogenic
 exacter
 equianchorate
-epitaphical
 exacting
 eruca
 electivity
