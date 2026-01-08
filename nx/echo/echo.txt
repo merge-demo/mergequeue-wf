@@ -1706,7 +1706,6 @@ excuses
 electrochronographic
 essentialist
 equipollence
-excitomuscular
 electrothermancy
 ellan
 esophagi
@@ -2261,6 +2260,7 @@ electic
 ethnal
 elaphurine
 elections
+excitomuscular
 elevatory
 exocolitis
 effluve
