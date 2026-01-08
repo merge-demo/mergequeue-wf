@@ -8171,7 +8171,6 @@ eurythmies
 erythroderma
 exert
 estadio
-elegances
 excorticate
 electrolysis
 ester
@@ -12592,6 +12591,7 @@ extraught
 eunuchry
 exocoelar
 exocoele
+elegances
 excusing
 electrophoreses
 enrooted
