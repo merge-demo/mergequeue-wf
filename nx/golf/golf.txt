@@ -981,6 +981,7 @@ genetically
 graysby
 gallantness
 genre
+ghastfully
 galliferous
 gilgamesh
 grouting
@@ -9457,7 +9458,6 @@ gamari
 glycollide
 galleta
 gabionage
-ghastfully
 grouchiness
 geminally
 gitksan
