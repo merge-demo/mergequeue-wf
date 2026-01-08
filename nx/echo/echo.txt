@@ -1141,7 +1141,6 @@ environage
 edition
 endere
 editorialization
-elsa
 ecphory
 expunction
 editorializers
@@ -2028,6 +2027,7 @@ enantiomorphism
 emulsic
 endodontist
 eradiculose
+elsa
 elabrate
 epirrhematic
 epigaea
