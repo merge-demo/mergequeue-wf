@@ -3387,6 +3387,7 @@ gomorrean
 gids
 gaging
 galvanic
+goshen
 globefish
 gonocoele
 gildhalls
@@ -6871,7 +6872,6 @@ goniatitic
 gibbosities
 grainman
 garroting
-goshen
 garnishing
 gynandroid
 garfish

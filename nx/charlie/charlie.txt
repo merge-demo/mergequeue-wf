@@ -5796,7 +5796,6 @@ ciceros
 catchphrase
 cocona
 cannibalic
-cynoscion
 catchpoled
 commation
 catchpolling
@@ -25075,6 +25074,7 @@ craftmanship
 courteously
 crosscourt
 costiferous
+cynoscion
 curiosa
 celotex
 corduroying
