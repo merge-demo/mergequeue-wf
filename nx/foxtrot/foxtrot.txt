@@ -1775,7 +1775,6 @@ freckledness
 functionated
 fishgarth
 frogmen
-flabra
 flaunts
 flindosy
 foredoes
@@ -2470,6 +2469,7 @@ flashforward
 fumarin
 fastus
 fingers
+flabra
 forehorse
 faction
 facinorousness
