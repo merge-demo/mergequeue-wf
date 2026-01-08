@@ -634,7 +634,6 @@ gillie
 glome
 goopy
 geophysicist
-geromorphism
 glide
 gradatory
 geodetic
@@ -3745,6 +3744,7 @@ guardstone
 gulist
 gasterolichenes
 gaslighted
+geromorphism
 grafters
 gelastic
 garrisonism
