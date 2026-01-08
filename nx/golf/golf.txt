@@ -1881,7 +1881,6 @@ glutaminase
 gunflint
 geodic
 galacturia
-gardenwise
 grabber
 grainless
 gatherers
@@ -1889,6 +1888,7 @@ gumpheon
 galumph
 gamenesses
 grubstake
+gardenwise
 gripey
 gating
 guaiocum

@@ -7518,7 +7518,6 @@ electroforming
 exocarp
 experienceable
 epicede
-exion
 encephalitogenic
 epicedia
 encephalopathic
@@ -7558,6 +7557,7 @@ ensouls
 enticements
 elytropolypus
 embololalia
+exion
 ebbet
 extricate
 electroendosmose
