@@ -1905,6 +1905,7 @@ fangot
 froze
 factored
 finagling
+funds
 forworn
 felonwood
 flated
@@ -6652,7 +6653,6 @@ fastuous
 fireweeds
 fairgrass
 fruitery
-funds
 fancymonger
 fatuousness
 farmeress
