@@ -5707,6 +5707,7 @@ funded
 fiddlestring
 fishwife
 flinkite
+fancier
 fluffer
 footpound
 folioliferous
@@ -6817,7 +6818,6 @@ flaccidity
 footbeat
 forfalt
 faithfuls
-fancier
 forams
 fasola
 funbre
