@@ -6684,7 +6684,6 @@ gavelling
 grint
 germanious
 gulae
-gobmouthed
 growable
 gromatic
 gutsiness
@@ -6923,6 +6922,7 @@ greekdom
 gharry
 gametophobia
 grandmama
+gobmouthed
 gulravage
 gruffest
 grimness
