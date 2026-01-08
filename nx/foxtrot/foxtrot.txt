@@ -3976,7 +3976,6 @@ fishery
 forleft
 fortalice
 failingly
-ferison
 furrow
 fabricated
 filmlike
@@ -10382,6 +10381,7 @@ frontoauricular
 foxinesses
 funeralize
 fraternise
+ferison
 forrarder
 fruitlessly
 faithfully
