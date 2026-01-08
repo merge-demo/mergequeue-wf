@@ -641,7 +641,6 @@ expunges
 emerald
 eclamptic
 externs
-extuberate
 epizoites
 ecstatics
 etymonic
@@ -2897,6 +2896,7 @@ extroversive
 epidemicalness
 estuarian
 elytriferous
+extuberate
 enterotoxin
 ectosteally
 ecbasis
