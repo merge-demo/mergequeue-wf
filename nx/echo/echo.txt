@@ -6281,7 +6281,6 @@ endbrain
 ethnographist
 electroengrave
 enrober
-enrive
 enrockment
 epituberculosis
 enzymatic
@@ -13163,6 +13162,7 @@ experting
 ectally
 elderwoman
 epiphonema
+enrive
 epithetician
 epistlar
 endergonic
