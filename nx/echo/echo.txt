@@ -4342,7 +4342,6 @@ enamelist
 euthenasia
 enamelless
 eburnean
-eluder
 emit
 edibles
 emplacements
@@ -11310,6 +11309,7 @@ endoarteritis
 esophagodynia
 excursing
 endue
+eluder
 effluences
 eliquated
 empyrean
