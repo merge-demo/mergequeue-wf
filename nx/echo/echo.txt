@@ -2712,7 +2712,6 @@ enduros
 electrotherapy
 electrotheraputic
 emyds
-enantiopathy
 esophagus
 elaeopten
 electrothermal
@@ -5310,6 +5309,7 @@ endosclerite
 extrahepatic
 endoscope
 equivocalities
+enantiopathy
 eradicators
 egeran
 endoscopies
