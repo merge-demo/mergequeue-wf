@@ -5152,7 +5152,6 @@ eyestalks
 extrapolate
 endoenzyme
 epitrochoid
-entresol
 elytrorrhaphy
 encyclic
 essonite
@@ -9292,6 +9291,7 @@ epileptically
 erythritic
 euchologia
 emetics
+entresol
 eugeosynclinal
 elytrin
 embue
