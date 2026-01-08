@@ -1703,7 +1703,6 @@ anthracomartian
 agony
 agrestis
 artiest
-accumulation
 accumulativ
 aquatones
 akelas
@@ -16951,6 +16950,7 @@ aplenty
 alveolars
 aplite
 alfione
+accumulation
 aplites
 amulet
 aplitic
