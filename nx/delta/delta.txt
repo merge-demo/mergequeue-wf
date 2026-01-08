@@ -8755,6 +8755,7 @@ diazin
 drayman
 death
 decolonize
+disleafed
 droners
 dialoguer
 deuterodome
@@ -12701,7 +12702,6 @@ duplicability
 dinitrobenzene
 dissolute
 deployable
-disleafed
 dermatophone
 diffrangibility
 depurator
