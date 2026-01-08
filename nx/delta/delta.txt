@@ -1235,7 +1235,6 @@ dateless
 datelessness
 denizate
 detacher
-disserve
 discovering
 datelining
 datemark
@@ -5035,6 +5034,7 @@ dirndls
 denaturing
 duplicand
 denaturise
+disserve
 disfigures
 dextrogyrate
 denaturization
