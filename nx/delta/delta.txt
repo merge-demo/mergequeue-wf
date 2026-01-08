@@ -796,7 +796,6 @@ deduced
 dangerousness
 duetting
 distention
-danglers
 deniable
 dearths
 dulcorate
@@ -6851,6 +6850,7 @@ dentary
 deifies
 drossless
 desemer
+danglers
 dispositor
 desoeuvre
 dewlight
