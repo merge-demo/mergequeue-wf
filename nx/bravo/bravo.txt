@@ -7540,7 +7540,6 @@ bardism
 baseband
 belayer
 beveller
-bookbinder
 bardelle
 biathlon
 bedgery
@@ -10651,6 +10650,7 @@ bursts
 blazes
 borzois
 bridgeheads
+bookbinder
 bicepses
 backlands
 belemnite
