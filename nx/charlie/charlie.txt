@@ -4883,7 +4883,6 @@ cinchonicin
 carriageway
 celiocele
 carryall
-carrycot
 chromatoplasm
 carried
 carryed
@@ -7436,6 +7435,7 @@ cephalophine
 cryostats
 congenital
 cervisia
+carrycot
 consorted
 cryoprobe
 cephalopoda
