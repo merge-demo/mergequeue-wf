@@ -2360,7 +2360,6 @@ explorational
 entocele
 explosive
 egad
-electrochemistry
 elderliness
 electromobilism
 excrementitial
@@ -9507,6 +9506,7 @@ eleutherarch
 exorcisers
 electromotivity
 eruptives
+electrochemistry
 episodic
 escrow
 escrowing
