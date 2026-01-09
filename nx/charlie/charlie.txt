@@ -16735,6 +16735,7 @@ clots
 clottage
 chaconne
 clotted
+calycoid
 cyanus
 carts
 consonantalized
@@ -25030,7 +25031,6 @@ cordeau
 cordel
 comae
 chumble
-calycoid
 cordelia
 cordelle
 crushableness
