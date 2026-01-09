@@ -5871,7 +5871,6 @@ engysseismology
 ebbman
 ethiops
 episyntheton
-erasures
 exprobrate
 erg
 engreaten
@@ -11496,6 +11495,7 @@ electrolytes
 eductions
 englishness
 erythraeidae
+erasures
 evictions
 explanatory
 emboldens
