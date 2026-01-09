@@ -1827,7 +1827,6 @@ generativeness
 grummeter
 grapta
 greyhens
-geebong
 guiltiest
 grushie
 granat
@@ -7553,6 +7552,7 @@ goliardery
 gabions
 greenbone
 gorbellies
+geebong
 growing
 governmental
 garageman
