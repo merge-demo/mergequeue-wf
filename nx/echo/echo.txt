@@ -3189,7 +3189,6 @@ epiderma
 eloigns
 eloin
 eloine
-explosimeter
 engrossing
 eloiners
 essentiate
@@ -9200,6 +9199,7 @@ electrographite
 empiricism
 echelon
 exotropia
+explosimeter
 enclasp
 eutropous
 egomaniac
