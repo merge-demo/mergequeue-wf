@@ -716,7 +716,6 @@ caffoline
 cobwork
 cabling
 camaraderie
-caffre
 camouflet
 cafh
 coelanaglyphic
@@ -22433,6 +22432,7 @@ conidiospore
 copy
 conidium
 conifer
+caffre
 coniferae
 castrato
 coniferin
