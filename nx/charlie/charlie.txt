@@ -14757,7 +14757,6 @@ cladosiphonic
 coordinate
 curtsy
 coenamor
-coccinellid
 cocinero
 choroiditis
 curatel
@@ -23608,6 +23607,7 @@ cytostome
 continuers
 corseleted
 columns
+coccinellid
 continuity
 cassiaceae
 capfuls
