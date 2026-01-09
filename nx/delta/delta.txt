@@ -6304,7 +6304,6 @@ dermatrophia
 disgrade
 dermenchysis
 delacrimation
-dermestid
 dermatoneural
 debit
 deben
@@ -14747,6 +14746,7 @@ drumlier
 detained
 decahedral
 doctorbird
+dermestid
 doc
 declinedness
 darnation
