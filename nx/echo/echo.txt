@@ -3010,7 +3010,6 @@ europiums
 ekronite
 entomology
 enlarged
-elidible
 etagere
 eudaemons
 eligibles
@@ -9131,6 +9130,7 @@ eldern
 episplenitis
 exumbrella
 entanglers
+elidible
 esrog
 ermanrich
 endotheca
