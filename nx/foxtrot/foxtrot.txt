@@ -9282,6 +9282,7 @@ fichat
 feretra
 forfend
 feuded
+forecome
 fraise
 fortunately
 fraised
@@ -9620,7 +9621,6 @@ freebooter
 freebootery
 freebooting
 freed
-forecome
 foreimpression
 facete
 franticly
