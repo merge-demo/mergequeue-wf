@@ -650,7 +650,6 @@ etymonic
 ellipses
 earful
 epizoite
-electrifier
 electioneering
 etwees
 elocute
@@ -7163,6 +7162,7 @@ earthshine
 endymion
 eposes
 empassion
+electrifier
 eo
 expirer
 envisaging
