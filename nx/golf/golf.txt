@@ -4584,7 +4584,6 @@ gallflies
 gracefully
 genderless
 girellidae
-gurts
 greenhorns
 gravicembalo
 greenness
@@ -6818,6 +6817,7 @@ gonochorismal
 geryonia
 gonk
 guarding
+gurts
 gris
 glutimate
 glunch
