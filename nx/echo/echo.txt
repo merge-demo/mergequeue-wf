@@ -9104,7 +9104,6 @@ ephors
 evasion
 erythropsia
 electrograving
-entwist
 erythropsin
 experientialist
 erythrosiderite
@@ -9466,6 +9465,7 @@ euphemistical
 evulgate
 ethylsulphuric
 embanks
+entwist
 entocoel
 electives
 eliquation
