@@ -1446,7 +1446,6 @@ afterwrist
 acclamator
 acclimatable
 autecologically
-acclimatement
 attires
 alewhap
 acclimates
@@ -19812,6 +19811,7 @@ arcane
 averrer
 ast
 atrail
+acclimatement
 arrah
 atrophias
 alphabetology
