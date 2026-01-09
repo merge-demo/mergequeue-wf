@@ -4252,7 +4252,6 @@ guidable
 gliosa
 greenovite
 gonidiose
-gynaecium
 gunned
 grovel
 geologer
@@ -9189,6 +9188,7 @@ gladstone
 gamogenetic
 gunshots
 glaceed
+gynaecium
 garapata
 geogonic
 gouldian
