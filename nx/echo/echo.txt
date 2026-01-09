@@ -1600,7 +1600,6 @@ electrosynthetically
 eglantines
 endocardia
 ethnogenist
-exobiologist
 eglomerate
 eglomise
 errite
@@ -11715,6 +11714,7 @@ exaggeratingly
 exoascus
 extralinguistically
 expends
+exobiologist
 erythrogenic
 estragons
 ecphasis
