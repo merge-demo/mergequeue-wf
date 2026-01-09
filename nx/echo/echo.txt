@@ -1275,7 +1275,6 @@ ethylidyne
 eyelight
 eelcake
 elsewheres
-elucidatory
 exposition
 episomal
 evaluation
@@ -13474,6 +13473,7 @@ electrolyse
 equilibrize
 ensuingly
 encopresis
+elucidatory
 eatanswill
 emf
 elizabethanize
