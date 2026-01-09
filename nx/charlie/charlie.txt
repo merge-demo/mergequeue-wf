@@ -12023,7 +12023,6 @@ characetum
 choristate
 chorister
 centralization
-choristership
 choristoblastoma
 choristoneura
 childminder
@@ -31547,6 +31546,7 @@ cleveites
 copse
 culled
 conjobble
+choristership
 candles
 cycliae
 curt
