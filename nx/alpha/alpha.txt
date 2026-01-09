@@ -5324,6 +5324,7 @@ acid
 affrightment
 affronted
 affrontedness
+avine
 anidiomatic
 adenose
 affronts
@@ -14107,7 +14108,6 @@ antepenult
 acromyodi
 amphithere
 absolutions
-avine
 anteporticoes
 appellant
 anteporticos
