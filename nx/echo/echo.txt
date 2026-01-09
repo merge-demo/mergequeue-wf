@@ -6189,7 +6189,6 @@ enaena
 enlisted
 ennoblement
 estuant
-ennoblements
 euryhaline
 exaspidean
 enchannel
@@ -12440,6 +12439,7 @@ eclipsable
 elusoriness
 esquire
 enlimn
+ennoblements
 exhumatory
 emancipations
 equilibrial
