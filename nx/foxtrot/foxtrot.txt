@@ -614,7 +614,6 @@ fivefold
 friborg
 footsy
 fellowed
-floorless
 fellon
 foreknows
 forpet
@@ -2747,6 +2746,7 @@ festilogies
 feddans
 festinance
 festoonery
+floorless
 fraus
 familistere
 featness
