@@ -3771,6 +3771,7 @@ aichmophobia
 acephalina
 adamantoblastoma
 arthrophyma
+alkaliferous
 accomplis
 aedility
 afer
@@ -19337,7 +19338,6 @@ arest
 agria
 aretaics
 arete
-alkaliferous
 abluent
 alk
 aretinian
