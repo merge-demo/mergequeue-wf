@@ -1926,7 +1926,6 @@ garnet
 glutoid
 gynecocratic
 gnomesque
-gambeered
 gelandelaufer
 gravewards
 grasserie
@@ -3276,6 +3275,7 @@ gebur
 galoping
 giron
 girtonian
+gambeered
 glagol
 goldenwing
 galoot
