@@ -8010,6 +8010,7 @@ dispersion
 deescalation
 downfall
 dumbhead
+describent
 dhal
 demoralized
 dimension
@@ -16325,7 +16326,6 @@ dichord
 dovetails
 daylight
 downslide
-describent
 deliriums
 darneder
 disgracia
