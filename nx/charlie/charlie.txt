@@ -15856,7 +15856,6 @@ cleavable
 cleavage
 cleavages
 cleaveful
-cleavelandite
 contentness
 cleavers
 crusilee
@@ -25080,6 +25079,7 @@ curiosa
 celotex
 corduroying
 corduroys
+cleavelandite
 chiliadic
 choppered
 cuprotungstite
