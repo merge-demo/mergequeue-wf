@@ -216,7 +216,6 @@ goofballs
 gags
 gonoecium
 gaseously
-guarder
 gradefinder
 gunsling
 gratiano
@@ -4803,6 +4802,7 @@ gnarr
 gypsy
 givingness
 globes
+guarder
 garrnishable
 gyrohorizon
 gizz
