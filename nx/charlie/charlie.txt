@@ -1254,7 +1254,6 @@ counterfaller
 corporality
 cambrel
 contrapposto
-cameo
 calendarial
 chusite
 cicadid
@@ -2713,6 +2712,7 @@ cankery
 cannoneering
 cneoraceous
 claviculus
+cameo
 cankerroot
 camerine
 cauponize
