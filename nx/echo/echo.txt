@@ -8615,7 +8615,6 @@ equigranular
 equilateral
 eriogonum
 equilibrant
-electrodynamometer
 elinguating
 equilibrates
 exonerators
@@ -12576,6 +12575,7 @@ eating
 epistolet
 epitheliomas
 eatableness
+electrodynamometer
 embezzlement
 enterocolitis
 excessively
