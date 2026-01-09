@@ -6287,7 +6287,6 @@ graecian
 gyroidal
 grundyist
 globuloid
-galop
 gid
 gobbles
 glaucescent
@@ -8873,6 +8872,7 @@ graecized
 gallowsward
 goldeye
 glossingly
+galop
 grosser
 gainlier
 galleyworm
