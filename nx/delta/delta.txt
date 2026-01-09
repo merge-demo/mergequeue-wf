@@ -4900,7 +4900,6 @@ deathwatches
 delists
 deserter
 disbursed
-dissentious
 dabsters
 dictators
 demoraliser
@@ -8622,6 +8621,7 @@ dias
 depertible
 downstream
 degreasing
+dissentious
 diametrically
 discourtesy
 dilative
