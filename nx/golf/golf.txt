@@ -5161,7 +5161,6 @@ glali
 gunner
 gnatflower
 gaumed
-glomera
 goblinesque
 gutturine
 goldenmouthed
@@ -9066,6 +9065,7 @@ goldflower
 guereba
 givin
 galbraithian
+glomera
 gilguy
 galoshes
 gateways
