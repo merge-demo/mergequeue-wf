@@ -6474,6 +6474,7 @@ fireflower
 flibbertigibbet
 freshish
 farmed
+forwarder
 fluorimetric
 fluorobenzene
 fructifies
@@ -7478,7 +7479,6 @@ forswat
 footmen
 fausen
 ferrocerium
-forwarder
 forbare
 fileable
 fillemot
