@@ -332,7 +332,6 @@ giantry
 galactolipide
 graveship
 galactometer
-gorling
 gaussian
 garnishment
 grilses
@@ -7740,6 +7739,7 @@ grizzliest
 goldworker
 gamins
 grouf
+gorling
 grewsome
 gelations
 gosling
