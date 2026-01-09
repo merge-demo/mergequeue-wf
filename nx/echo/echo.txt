@@ -5243,7 +5243,6 @@ escartelly
 euphuizing
 epirot
 ectoplastic
-esphresis
 expenseless
 epistolarily
 endoproctous
@@ -12724,6 +12723,7 @@ euonymus
 emboweling
 engramma
 exopod
+esphresis
 enddamaging
 exopterygotism
 eurypygae
