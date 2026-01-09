@@ -11739,7 +11739,6 @@ columbian
 centrifugaller
 curdiest
 chondrify
-chondrification
 cygnine
 chondrilla
 chondrinous
@@ -16955,6 +16954,7 @@ clumpst
 clumse
 clumsy
 clumsier
+chondrification
 catchpoll
 crystallizer
 clumsiest
