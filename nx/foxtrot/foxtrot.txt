@@ -1940,6 +1940,7 @@ fothergilla
 foreteller
 fancy
 feebless
+feudalists
 filatory
 fillock
 fabricate
@@ -2880,7 +2881,6 @@ fibrose
 factors
 flung
 featuring
-feudalists
 fractionising
 freetrader
 fluible
