@@ -2344,7 +2344,6 @@ guige
 geistlich
 graviton
 gateman
-gravamina
 gramineal
 gamine
 geomaly
@@ -6348,6 +6347,7 @@ ganoin
 greyed
 gummage
 gymnolaemata
+gravamina
 gloriosa
 gippo
 gunj
