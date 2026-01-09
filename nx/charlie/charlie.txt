@@ -15247,6 +15247,7 @@ ceromancy
 claywares
 caam
 colours
+costmaries
 crassina
 clam
 countermeet
@@ -26300,7 +26301,6 @@ causational
 crowfoots
 colorimetric
 countersea
-costmaries
 counterdemonstrator
 costoabdominal
 collegianer
