@@ -5275,7 +5275,6 @@ coachwood
 cassata
 cassation
 caveats
-cerin
 clavierists
 chromomeric
 cassegrainian
@@ -16431,6 +16430,7 @@ cloaca
 cloacae
 cryptanalyzed
 cloacaline
+cerin
 cents
 connellite
 cholonan
