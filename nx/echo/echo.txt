@@ -3293,6 +3293,7 @@ eurypelma
 eyesore
 entrench
 episcleral
+equisetic
 emancipates
 esophagospasm
 embuia
@@ -7927,7 +7928,6 @@ enterolithiasis
 evangels
 epitomate
 encephalonarcosis
-equisetic
 explainingly
 evaniidae
 ephebus
