@@ -5536,7 +5536,6 @@ espiritual
 enfeebles
 embus
 eyestones
-enfeebling
 eucarida
 epigrammatised
 enhusk
@@ -7307,6 +7306,7 @@ embarcation
 enact
 electrooptics
 escaping
+enfeebling
 entameba
 epizoal
 elongate
