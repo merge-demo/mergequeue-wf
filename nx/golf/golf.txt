@@ -286,6 +286,7 @@ ganjas
 gaminesque
 gaist
 giles
+garnison
 grantsmanship
 galjoen
 gaudful
@@ -1401,7 +1402,6 @@ gamily
 governs
 ganodonta
 glossanthrax
-garnison
 gaulsh
 glycosemia
 geitjie
