@@ -5008,6 +5008,7 @@ aerostatic
 aerostatical
 argas
 appertain
+alloys
 androgyneity
 aerotaxis
 agacant
@@ -12416,7 +12417,6 @@ anemography
 anemographically
 anemologic
 anticonfederationist
-alloys
 anemometrically
 achene
 attenuated
