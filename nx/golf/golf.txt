@@ -2805,7 +2805,6 @@ grabbled
 garbs
 gelotometer
 glottochronological
-gristly
 gabies
 gangwayed
 glassie
@@ -6156,6 +6155,7 @@ goniatite
 grandmotherliness
 gigantolite
 goyin
+gristly
 grandstanded
 gamasoidea
 guillotinement
