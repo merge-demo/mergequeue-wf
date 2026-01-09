@@ -347,7 +347,6 @@ daymares
 disseizes
 diarists
 discoloured
-dasher
 daymark
 doupion
 daimiate
@@ -11852,6 +11851,7 @@ discerningly
 diversifier
 disculpatory
 deashes
+dasher
 decrement
 durry
 dustbin
