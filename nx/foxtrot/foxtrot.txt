@@ -1464,7 +1464,6 @@ fissidentaceous
 fibry
 frizzes
 flichtered
-floatability
 finitudes
 fervent
 fungillus
@@ -2754,6 +2753,7 @@ filtration
 festooneries
 flunkyite
 flutina
+floatability
 fourieristic
 fluidness
 flareboard
