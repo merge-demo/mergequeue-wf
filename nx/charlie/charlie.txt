@@ -6457,7 +6457,6 @@ caff
 cornutus
 cienega
 cautiones
-canard
 carcharhinus
 carbarns
 cautious
@@ -30400,6 +30399,7 @@ crustific
 crustily
 crustose
 choloid
+canard
 coroutine
 crusts
 custard
