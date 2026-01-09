@@ -16453,7 +16453,6 @@ cowichan
 citrange
 costumist
 chaunt
-cloakmaker
 cymbaline
 cloakroom
 cloakrooms
@@ -16543,6 +16542,7 @@ clogwood
 cloyedness
 campylometer
 chloralization
+cloakmaker
 cloyingly
 complexions
 centralized
