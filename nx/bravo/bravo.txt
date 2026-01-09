@@ -2531,7 +2531,6 @@ borscht
 beruffled
 biggy
 boccia
-blueblack
 bassetite
 bottonhook
 barguest
@@ -3120,6 +3119,7 @@ benben
 bobet
 bisinuation
 baseborn
+blueblack
 becher
 birdlime
 baseburner
