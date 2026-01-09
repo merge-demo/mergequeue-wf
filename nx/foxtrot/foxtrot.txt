@@ -2887,7 +2887,6 @@ frumpiness
 fanciable
 fortressing
 footmark
-frontogenesis
 frizzen
 factoring
 flagonless
@@ -9939,6 +9938,7 @@ featherworker
 felid
 farragoes
 fecifork
+frontogenesis
 friendlessness
 fornices
 froideur
