@@ -13033,6 +13033,7 @@ ezba
 encolumn
 entastic
 existentially
+epiphytically
 empiricist
 esophagectomy
 ergotic
@@ -13627,7 +13628,6 @@ effossion
 elinvar
 epsilon
 endwise
-epiphytically
 eremurus
 enfeeble
 emamelware
