@@ -11153,7 +11153,6 @@ berengena
 bidpai
 barbulate
 blomstrandine
-bacteriophagia
 blond
 benzazine
 byard
@@ -15644,6 +15643,7 @@ brist
 bourbonian
 bombproof
 bristled
+bacteriophagia
 boots
 baccare
 benzoate
