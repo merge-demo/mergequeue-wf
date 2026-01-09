@@ -12811,7 +12811,6 @@ apportionment
 anglicanisms
 antispiritual
 abscise
-arverni
 anatabine
 avidness
 aditio
@@ -25243,6 +25242,7 @@ azeotropic
 azerbaijani
 azerbaijanian
 avigators
+arverni
 androdynamous
 attrition
 afrogaean
