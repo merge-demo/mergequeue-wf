@@ -3649,7 +3649,6 @@ caractacus
 caradoc
 carafes
 craspedote
-censors
 cattleyas
 clangor
 cocineras
@@ -25429,6 +25428,7 @@ corniced
 collaud
 creamery
 circumposition
+censors
 centrifuged
 coarsish
 crotcheted
