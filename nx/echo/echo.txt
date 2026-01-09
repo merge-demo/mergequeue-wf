@@ -2455,7 +2455,6 @@ entophytal
 espinel
 electrogenetic
 euphausid
-epitaxial
 earthnut
 excorticating
 exciple
@@ -12664,6 +12663,7 @@ exognathite
 exogenetic
 enkolpion
 exometritis
+epitaxial
 elychnious
 echo
 erotized
