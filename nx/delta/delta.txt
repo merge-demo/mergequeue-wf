@@ -507,7 +507,6 @@ dawen
 denomination
 dermaskeleton
 damageability
-damageably
 detonatable
 detort
 deaccessions
@@ -10248,6 +10247,7 @@ dressing
 dermoosseous
 dayshine
 destry
+damageably
 doomlike
 dinotherian
 dins
