@@ -1714,7 +1714,6 @@ fencibles
 feastraw
 fastnacht
 foreordainment
-fitified
 filiality
 featherbird
 feoffors
@@ -1777,6 +1776,7 @@ foredoes
 flannelet
 featherwing
 fjorded
+fitified
 fevercup
 ferromagnetism
 facticity
