@@ -2241,6 +2241,7 @@ galactohemia
 gleit
 glossopathy
 grieced
+ginglyni
 ghazies
 grisled
 genette
@@ -6722,7 +6723,6 @@ guid
 graybeard
 gonoblastidial
 grivation
-ginglyni
 gonid
 goyish
 gelly
