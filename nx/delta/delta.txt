@@ -1235,6 +1235,7 @@ datelining
 datemark
 downheaded
 disenter
+deleting
 dentalise
 drink
 davidist
@@ -5881,7 +5882,6 @@ deridingly
 depersonalised
 depredated
 definitiveness
-deleting
 droshky
 deontic
 disembargoed
