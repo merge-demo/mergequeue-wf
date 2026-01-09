@@ -1700,7 +1700,6 @@ gluttonise
 gluts
 gelatination
 grudgefulness
-gryposis
 glyptodont
 gentries
 gastrophilite
@@ -5334,6 +5333,7 @@ gutturalism
 galloflavin
 gingals
 glaived
+gryposis
 grittiness
 galactopoiesis
 germinating
