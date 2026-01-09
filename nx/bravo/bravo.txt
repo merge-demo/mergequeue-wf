@@ -5367,6 +5367,7 @@ biharmonic
 borderlines
 butterscotch
 balmy
+biguanide
 ballroom
 begone
 baryte
@@ -16775,7 +16776,6 @@ bullyragging
 bucko
 buckoes
 baronetise
-biguanide
 balaam
 basilicae
 blowcase
