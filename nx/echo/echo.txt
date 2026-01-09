@@ -2992,7 +2992,6 @@ electrodynamic
 escamoteur
 etrogim
 encamped
-eliminant
 enterohepatitis
 ennoblers
 ethid
@@ -11987,6 +11986,7 @@ ententes
 emergence
 excellently
 excitons
+eliminant
 embosses
 excitovascular
 epitenon
