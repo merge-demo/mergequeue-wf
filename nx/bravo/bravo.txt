@@ -11546,7 +11546,6 @@ barish
 baba
 banyoro
 bigamous
-bathometer
 bluffs
 behaves
 bulimy
@@ -15500,6 +15499,7 @@ bagged
 brilliandeer
 budgerigars
 buonamani
+bathometer
 brilliant
 beheading
 bewigged
