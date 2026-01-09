@@ -1087,6 +1087,7 @@ feriae
 feudaries
 fleshhood
 foundryman
+fofarraw
 farreachingly
 farrel
 figuresome
@@ -2954,7 +2955,6 @@ flanned
 fezzed
 favosite
 flamens
-fofarraw
 fluvanna
 fadings
 felucca
