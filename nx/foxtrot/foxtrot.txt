@@ -3314,6 +3314,7 @@ flon
 forsung
 fidge
 frogfoot
+flavorer
 fress
 fractals
 faultage
@@ -8030,7 +8031,6 @@ fumeless
 feloniousness
 frisked
 forespeaking
-flavorer
 factitive
 farfugium
 furcula
