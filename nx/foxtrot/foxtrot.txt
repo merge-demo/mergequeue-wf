@@ -5332,6 +5332,7 @@ fulciform
 fretters
 flain
 fernwort
+fauces
 fulyie
 farrierlike
 front
@@ -5954,7 +5955,6 @@ fourposters
 fluviovolcanic
 freyr
 factitude
-fauces
 frats
 fineable
 flubdubs
