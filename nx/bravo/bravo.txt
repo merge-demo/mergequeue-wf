@@ -9445,7 +9445,6 @@ baronetship
 bullyrook
 bulges
 birdless
-bimucronate
 balbutiate
 birdlimes
 blennoemesis
@@ -12293,6 +12292,7 @@ bodle
 bookshelf
 boloism
 breakthrough
+bimucronate
 boutre
 bolshevikian
 barrandite
