@@ -8543,6 +8543,7 @@ fard
 fibrositis
 fashioned
 fulgid
+furculum
 farctate
 fabledom
 flapped
@@ -9489,7 +9490,6 @@ formalness
 fulcrate
 flounderingly
 fratricelli
-furculum
 fastwalk
 flights
 fidele

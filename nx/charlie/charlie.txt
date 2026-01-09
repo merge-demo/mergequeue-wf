@@ -3023,7 +3023,6 @@ cantlet
 cantline
 cantling
 canto
-confederatism
 cortege
 colander
 cornuting
@@ -29874,6 +29873,7 @@ crossers
 countervailing
 crossest
 catalpas
+confederatism
 crossette
 crossfertilizable
 crossfired
