@@ -605,6 +605,7 @@ dimorphisms
 duvetyn
 decantate
 damnably
+deburr
 dryadic
 declassed
 damnedest
@@ -1965,7 +1966,6 @@ disedify
 divinatory
 dermohumeral
 disyllabism
-deburr
 divulgatory
 dunder
 destressed
