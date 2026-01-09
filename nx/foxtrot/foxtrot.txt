@@ -7781,7 +7781,6 @@ fullerboard
 fife
 flanes
 firearms
-foremast
 fotch
 fondant
 fritters
@@ -8918,6 +8917,7 @@ flebile
 fontinalis
 fidation
 feazed
+foremast
 fractuosity
 firmer
 forepast
