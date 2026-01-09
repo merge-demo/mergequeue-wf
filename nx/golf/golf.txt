@@ -8941,6 +8941,7 @@ gaufferer
 grubbed
 gingras
 gabbing
+glossemes
 grandparent
 gibbets
 galesaur
@@ -9837,7 +9838,6 @@ gorce
 gue
 globulinuria
 glycerolate
-glossemes
 glares
 gumweeds
 gnathostoma
