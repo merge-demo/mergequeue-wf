@@ -6145,6 +6145,7 @@ catoptromantic
 cats
 catskill
 catso
+conveyal
 catsos
 carloadings
 catspaw
@@ -31531,7 +31532,6 @@ cursing
 cursitate
 coadjute
 cursive
-conveyal
 cursives
 chorused
 chromosomes
