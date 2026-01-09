@@ -8375,6 +8375,7 @@ foreleg
 forlain
 fetted
 flanning
+forecount
 fruitcakes
 fullery
 filed
@@ -10735,7 +10736,6 @@ flavedo
 frutescence
 fetter
 frontward
-forecount
 forcemeat
 forbore
 fanciness
