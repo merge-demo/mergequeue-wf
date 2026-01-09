@@ -664,7 +664,6 @@ dt
 demonstrate
 dampproof
 dampproofing
-dyspepsy
 discus
 determinist
 doumaist
@@ -15453,6 +15452,7 @@ domnei
 deoxyribonucleic
 duffing
 dopehead
+dyspepsy
 demonstratory
 dope
 dompteuse
