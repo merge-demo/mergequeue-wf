@@ -13615,7 +13615,6 @@ chiffer
 cimices
 cene
 cetraric
-cimiciform
 chickens
 cimicifuga
 cheliferidea
@@ -30315,6 +30314,7 @@ countervairy
 chantors
 confrater
 consonantizing
+cimiciform
 constructions
 chiragra
 cruorin

@@ -2530,7 +2530,6 @@ ferricyanide
 ferrihydrocyanic
 fervency
 feedsman
-fiduciaries
 fanti
 friesic
 fimbriatum
@@ -11204,6 +11203,7 @@ frenzelite
 flosser
 flinter
 fluorophosphate
+fiduciaries
 frontiersman
 fungoes
 flotorial
