@@ -1150,6 +1150,7 @@ elephantic
 exstipulate
 eupyrchroite
 ethnologer
+encapsulating
 eponymism
 equivalved
 eupatrid
@@ -5870,7 +5871,6 @@ episyntheton
 erasures
 exprobrate
 erg
-encapsulating
 engreaten
 evirtuate
 earths
