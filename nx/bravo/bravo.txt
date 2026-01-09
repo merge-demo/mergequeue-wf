@@ -3404,7 +3404,6 @@ bassie
 bioassaying
 bivalents
 betsey
-bassinet
 blastodermatic
 bioelectrogenesis
 busiest
@@ -5458,6 +5457,7 @@ balai
 bandying
 beheaded
 beheader
+bassinet
 beheira
 beachward
 boyla
