@@ -444,7 +444,6 @@ elumbated
 entrenching
 extruct
 erythrinus
-espanol
 echowise
 ebulliate
 essera
@@ -8508,6 +8507,7 @@ enclave
 epencephalons
 ecuadoran
 exopterygote
+espanol
 expressionist
 eugenicists
 enteroepiplocele
