@@ -5478,7 +5478,6 @@ dotardy
 divestitures
 dilatation
 desertness
-deoxyribonucleotide
 dogtrot
 dudishness
 doses
@@ -16846,6 +16845,7 @@ deaired
 domes
 ddt
 descamisado
+deoxyribonucleotide
 dataria
 drona
 dumbs
