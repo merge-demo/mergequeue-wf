@@ -2507,7 +2507,6 @@ gerbils
 geoisotherm
 golandause
 greekish
-geodynamic
 glandules
 grassing
 grewia
@@ -6138,6 +6137,7 @@ gallification
 grammar
 gynecological
 gowiddie
+geodynamic
 grisard
 grene
 glimmering
