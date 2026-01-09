@@ -2682,6 +2682,7 @@ gudgeoned
 gastrocoele
 gunwhale
 glow
+geomancer
 greegrees
 garg
 germantown
@@ -8111,7 +8112,6 @@ gravels
 goodnight
 gratefullest
 granitiform
-geomancer
 gaslightness
 granitite
 ghain
