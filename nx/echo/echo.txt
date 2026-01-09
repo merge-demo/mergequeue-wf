@@ -1313,6 +1313,7 @@ eq
 eeriness
 ecostate
 epithalamion
+essaying
 encircler
 estrado
 eassel
@@ -2617,7 +2618,6 @@ ensnarl
 exhilarator
 empididae
 erythroblastosis
-essaying
 elixate
 envies
 embassies
