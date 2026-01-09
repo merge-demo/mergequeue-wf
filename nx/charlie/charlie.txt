@@ -12581,6 +12581,7 @@ chronic
 chronica
 cutouts
 chronicle
+coelenterata
 chronicled
 clattertrap
 chronicling
@@ -29905,7 +29906,6 @@ captived
 criolla
 containments
 crossleted
-coelenterata
 chopfallen
 carcase
 cuculidae
