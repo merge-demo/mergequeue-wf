@@ -2458,7 +2458,6 @@ gloriously
 glade
 goalkeeping
 grocers
-gulper
 galavants
 graphotypic
 garial
@@ -9568,6 +9567,7 @@ grs
 grumpy
 gristliness
 graphophonic
+gulper
 guacico
 genuine
 glycollic
