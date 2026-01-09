@@ -17518,7 +17518,6 @@ bioecologist
 brambrack
 barometz
 babyhood
-buran
 burans
 belgae
 burblers
@@ -18250,6 +18249,7 @@ blepharospasm
 bivouacs
 bordun
 backflip
+buran
 butterman
 bootblacks
 buttermilk
