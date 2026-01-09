@@ -3470,7 +3470,6 @@ accusable
 attapulgite
 afterwort
 azoths
-amhar
 aquaregia
 absmho
 addititious
@@ -21236,6 +21235,7 @@ africana
 axil
 axiologies
 aladdin
+amhar
 arras
 anisogynous
 alonso
