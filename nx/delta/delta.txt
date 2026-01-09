@@ -6433,6 +6433,7 @@ direful
 desagrement
 demitone
 deplumation
+diaconus
 dictatrix
 deodara
 digitization
@@ -14898,7 +14899,6 @@ duodenojejunostomy
 divata
 dermophytic
 delabialization
-diaconus
 dihedrals
 deploys
 drogue
