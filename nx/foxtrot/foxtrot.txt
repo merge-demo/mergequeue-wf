@@ -3021,7 +3021,6 @@ fenestra
 frostless
 foursquare
 flatcar
-floroscope
 fractionalization
 fibril
 fuzing
@@ -8452,6 +8451,7 @@ fulminous
 fuliginousness
 fuze
 fishfinger
+floroscope
 formating
 formation
 fibres
