@@ -18957,7 +18957,6 @@ conjugate
 cryptoclimatology
 coadaptation
 collarless
-collate
 collatee
 carate
 collaterality
@@ -22802,6 +22801,7 @@ conscriptional
 clambering
 conscriptions
 characterological
+collate
 cismarine
 consecrate
 consecrater
