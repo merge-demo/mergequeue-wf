@@ -655,6 +655,7 @@ briars
 barren
 brioche
 bicorne
+bathool
 bombo
 biannual
 baculine
@@ -3595,7 +3596,6 @@ balaamite
 butchers
 balconet
 bathometry
-bathool
 balneary
 bathophobia
 buvette
