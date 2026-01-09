@@ -2569,7 +2569,6 @@ escadrilles
 electrobiological
 exorcist
 eatable
-ezra
 emptiable
 electrometer
 exstrophy
@@ -6850,6 +6849,7 @@ ethnogenic
 emmenology
 epicranial
 exoticism
+ezra
 escritorial
 enfeebler
 enlistments
