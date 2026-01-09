@@ -4274,7 +4274,6 @@ escambio
 eaux
 eumeristic
 emcumbering
-expendible
 expressways
 equidiagonal
 epityphlon
@@ -13386,6 +13385,7 @@ exsanguinity
 everydeal
 elytral
 expository
+expendible
 enteropexia
 expositorial
 ephererist
