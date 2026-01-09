@@ -7544,6 +7544,7 @@ guessable
 giggled
 glottalized
 galliots
+grommets
 gat
 galactagoguic
 gapperi
@@ -10591,7 +10592,6 @@ gatewoman
 grenadiership
 gpad
 governess
-grommets
 goads
 garnisher
 guttiform
