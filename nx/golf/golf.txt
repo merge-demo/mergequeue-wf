@@ -6236,7 +6236,6 @@ globules
 goatsbeard
 gleed
 guestimate
-galloway
 giglot
 gliders
 glucosidase
@@ -9009,6 +9008,7 @@ grievance
 grievous
 gearbox
 galingale
+galloway
 guaranteed
 gradgrindish
 glander
