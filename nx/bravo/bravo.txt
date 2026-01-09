@@ -1226,6 +1226,7 @@ boches
 biscot
 biremes
 bearhide
+bearberry
 balloting
 benzyl
 bruchus
@@ -7222,7 +7223,6 @@ bugs
 bromometrical
 berylliosis
 bestench
-bearberry
 beeheaded
 be
 brannigan
