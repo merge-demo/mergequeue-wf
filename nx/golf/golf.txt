@@ -1627,6 +1627,7 @@ gleams
 glyptics
 gastralgy
 gaunted
+gnosticize
 giblet
 gastralgia
 gastreas
@@ -6776,7 +6777,6 @@ graybeards
 ganev
 ganocephala
 gonionia
-gnosticize
 genericness
 grapples
 gamelang
