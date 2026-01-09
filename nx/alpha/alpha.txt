@@ -2733,7 +2733,6 @@ ammonation
 alleviate
 acroasphyxia
 acrobacy
-askr
 alfurese
 arrestant
 acrostolia
@@ -7567,6 +7566,7 @@ airplaned
 antefurca
 actual
 alectorides
+askr
 alcmene
 alcogene
 algocyan
