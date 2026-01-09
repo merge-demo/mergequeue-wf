@@ -1641,7 +1641,6 @@ datisca
 deutsche
 disorientated
 deisin
-deliverable
 difficulty
 daylong
 dimetrodon
@@ -5049,6 +5048,7 @@ desensitizers
 dendraspis
 doomwatcher
 daler
+deliverable
 dibbukim
 disilicide
 dendraxon
