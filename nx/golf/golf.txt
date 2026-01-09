@@ -2366,6 +2366,7 @@ gymnocerata
 gadinic
 guilder
 gibbartas
+guajiras
 guano
 greengrocer
 gomart
@@ -9884,7 +9885,6 @@ glace
 gips
 grousy
 gobbets
-guajiras
 ginkgoales
 gourmandizer
 guama
