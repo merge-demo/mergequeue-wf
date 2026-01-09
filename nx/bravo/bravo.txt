@@ -6062,7 +6062,6 @@ bemurmur
 bondwoman
 butyral
 bemurmure
-bemurmuring
 bittier
 bemuses
 bol
@@ -11196,6 +11195,7 @@ babbled
 brachypnea
 bloodstream
 bifurcous
+bemurmuring
 butylation
 bloodstreams
 beforementioned
