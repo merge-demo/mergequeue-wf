@@ -3379,7 +3379,6 @@ espalier
 enshrouds
 edison
 euharmonic
-endamages
 efflorescing
 euryphagous
 epileptic
@@ -11159,6 +11158,7 @@ egests
 ecce
 eutychian
 everly
+endamages
 evicke
 embanked
 eutrophication
