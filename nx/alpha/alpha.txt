@@ -13622,7 +13622,6 @@ askings
 anoint
 arthritism
 aerialist
-anointment
 anointments
 articulation
 adulterer
@@ -14391,6 +14390,7 @@ accounts
 antimetabolite
 abiotrophy
 antimaterialistic
+anointment
 arsenical
 anthratriol
 asymmetry
