@@ -7629,7 +7629,6 @@ gravimetrically
 greengroceries
 gipsylike
 gloeosporium
-goodyness
 gunating
 gemmula
 globical
@@ -9036,6 +9035,7 @@ gabion
 goldtit
 glacis
 guzzlers
+goodyness
 glory
 grizzling
 grifting
