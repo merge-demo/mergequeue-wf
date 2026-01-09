@@ -7788,7 +7788,6 @@ fisticuffery
 forequarter
 favillous
 flecker
-flabelliform
 fulicine
 forsaker
 foremean
@@ -10263,6 +10262,7 @@ frogeyed
 farewelling
 feltlike
 fissureless
+flabelliform
 fibra
 filite
 floated
