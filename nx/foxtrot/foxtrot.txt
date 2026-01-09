@@ -1648,7 +1648,6 @@ focalises
 facial
 federate
 fuddledness
-fumigates
 forebrace
 folksong
 fingerstone
@@ -10561,6 +10560,7 @@ frowners
 faciend
 freq
 forstand
+fumigates
 frowsily
 foretack
 fluidrams
