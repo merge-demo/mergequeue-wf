@@ -413,7 +413,6 @@ deities
 dodrantal
 dhourra
 discoursers
-dairous
 dais
 donjons
 dibs
@@ -4030,6 +4029,7 @@ deliquescence
 delictual
 disobeyed
 delieret
+dairous
 degrain
 dalton
 despicably
