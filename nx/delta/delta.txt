@@ -3853,6 +3853,7 @@ dismast
 dissect
 disp
 dibstones
+dichotomize
 dyscrasite
 deerdog
 demihogshead
@@ -8931,7 +8932,6 @@ drifter
 dimethoxymethane
 daughtership
 desirably
-dichotomize
 despraise
 demographic
 demonstrably
