@@ -1778,6 +1778,7 @@ germinance
 goodless
 golliwogs
 gerbillinae
+generic
 gallic
 gonion
 grouchiest
@@ -7928,7 +7929,6 @@ gilbertage
 gameful
 grandams
 gusty
-generic
 gramophonic
 grapsidae
 gounau
