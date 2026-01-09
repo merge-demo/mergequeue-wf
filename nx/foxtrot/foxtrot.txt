@@ -3178,6 +3178,7 @@ fungia
 fiches
 findjan
 feracious
+folkcraft
 fusilade
 foredetermination
 flavourer
@@ -6505,7 +6506,6 @@ forweary
 filth
 fellah
 fluorescer
-folkcraft
 frenchize
 fannia
 fordy
