@@ -3301,7 +3301,6 @@ goldminer
 graywacke
 glucemia
 geometrising
-geosynclines
 goetical
 griffinish
 gayness
@@ -10557,6 +10556,7 @@ germens
 gossipingly
 gudesakes
 gentamicin
+geosynclines
 gunge
 germinability
 gunjah
