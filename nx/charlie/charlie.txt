@@ -4823,7 +4823,6 @@ chromobacterieae
 chibouk
 carposporangial
 carlist
-carposporous
 cavalierish
 concaving
 connotive
@@ -5911,6 +5910,7 @@ catenoid
 cacozyme
 capuli
 conveyances
+carposporous
 cubistically
 caterbrawl
 catercap
