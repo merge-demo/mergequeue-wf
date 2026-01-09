@@ -7984,7 +7984,6 @@ dyeing
 draining
 deluders
 dezincking
-dezincs
 deduces
 damageable
 dft
@@ -15655,6 +15654,7 @@ dopchick
 dopebook
 demonstrator
 discased
+dezincs
 dopey
 dribs
 decrements
