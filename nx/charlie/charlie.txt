@@ -7130,7 +7130,6 @@ connotational
 centesm
 centetid
 centiar
-centiares
 copita
 curvidentate
 coquetoon
@@ -12132,6 +12131,7 @@ causer
 crambo
 chancellorate
 cursiveness
+centiares
 chowses
 chowtime
 christianopaganism
