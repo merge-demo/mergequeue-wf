@@ -5590,7 +5590,6 @@ gefilte
 gownlet
 glottogonist
 grallatores
-gervais
 garuda
 ginks
 gravestone
@@ -9241,6 +9240,7 @@ goshawful
 guiled
 geologists
 germanous
+gervais
 groover
 guaka
 gunebo
