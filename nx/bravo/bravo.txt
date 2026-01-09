@@ -2149,7 +2149,6 @@ bloodlessness
 bantery
 boxfishes
 bantering
-banteringly
 banty
 betangle
 bribery
@@ -8141,6 +8140,7 @@ bdle
 bendaying
 byronian
 blooper
+banteringly
 bracken
 bidden
 bellyacher
