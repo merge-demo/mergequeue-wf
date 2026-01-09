@@ -13365,7 +13365,6 @@ botanically
 botanics
 bridechamber
 botanies
-barr
 botanist
 botanize
 blattidae
@@ -15596,6 +15595,7 @@ backshish
 beardlike
 berkeley
 bargeload
+barr
 brioches
 backspier
 bisso
