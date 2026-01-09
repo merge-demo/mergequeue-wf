@@ -10272,6 +10272,7 @@ froggish
 forslack
 froghood
 finn
+forcelet
 frailer
 fusilly
 falcated
@@ -10803,7 +10804,6 @@ flagstaffs
 fledgling
 fth
 feuars
-forcelet
 footsoldiers
 fudge
 finitive
