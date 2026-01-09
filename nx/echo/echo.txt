@@ -8644,7 +8644,6 @@ erelong
 extractor
 entrez
 enervous
-exceptionable
 expels
 ectoplasmic
 emphyteuta
@@ -11601,6 +11600,7 @@ evolutionism
 epizeuxis
 evolutionistic
 endotheloid
+exceptionable
 euaster
 endocrine
 educt
