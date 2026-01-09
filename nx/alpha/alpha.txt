@@ -5825,6 +5825,7 @@ allergic
 adducing
 archprototype
 agrionid
+areostyle
 agents
 ageometrical
 advisor
@@ -19336,7 +19337,6 @@ adjutor
 alaite
 astacus
 amplexation
-areostyle
 ambrein
 aminodiphenyl
 anaspidacea
