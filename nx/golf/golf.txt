@@ -528,6 +528,7 @@ gyrowheel
 gluten
 gast
 galipoidin
+gotiglacial
 gomphocarpus
 geissolomataceae
 gamodemes
@@ -7419,7 +7420,6 @@ gadean
 grateless
 gassit
 grandest
-gotiglacial
 gregariniform
 gepeoo
 grantsmen
