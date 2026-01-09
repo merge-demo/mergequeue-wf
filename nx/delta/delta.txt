@@ -8882,7 +8882,6 @@ dendrolite
 disconnect
 dissolvability
 desex
-dichas
 dichasia
 decolonizing
 distributiveness
@@ -11383,6 +11382,7 @@ dissimulator
 diabases
 dermatocele
 dissuade
+dichas
 disunifying
 dispensating
 debarring
