@@ -2460,7 +2460,6 @@ earthnut
 excorticating
 exciple
 electroencephalographical
-essentialize
 evoker
 electroendosmosis
 epoist
@@ -8832,6 +8831,7 @@ epiphytic
 etherizes
 eagers
 erechtheum
+essentialize
 erechtites
 euphemist
 exomologesis
