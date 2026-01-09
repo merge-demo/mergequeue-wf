@@ -8617,7 +8617,6 @@ gainliest
 globalize
 grat
 growths
-gastrocnemius
 gutteral
 guarache
 glabriety
@@ -9138,6 +9137,7 @@ goldwork
 greenest
 geoid
 garotte
+gastrocnemius
 governableness
 gablatores
 grumose
