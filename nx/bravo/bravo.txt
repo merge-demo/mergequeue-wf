@@ -2139,6 +2139,7 @@ buckshots
 bidstand
 bagman
 bismar
+bights
 burette
 banteng
 barriers
@@ -8391,7 +8392,6 @@ benedictionale
 basin
 bradoon
 bewail
-bights
 blickeys
 beadeyes
 bown
