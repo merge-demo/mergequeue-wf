@@ -12376,6 +12376,7 @@ armchairs
 anecdotage
 astart
 ajowan
+amsath
 anecdote
 anecdotes
 anecdotic
@@ -22238,7 +22239,6 @@ atropinize
 alnath
 anvasser
 adeption
-amsath
 anaesthesia
 astonishment
 altrices
