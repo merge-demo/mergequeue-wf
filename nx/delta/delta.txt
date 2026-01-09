@@ -5760,6 +5760,7 @@ depolymerize
 davened
 depolished
 deaconed
+debouching
 depolishes
 depoliticized
 depoliticizes
@@ -17073,7 +17074,6 @@ driftbolt
 drucken
 dehydrated
 disgown
-debouching
 divestiture
 defectiveness
 deceleron
