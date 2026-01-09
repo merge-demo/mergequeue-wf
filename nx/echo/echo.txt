@@ -9416,7 +9416,6 @@ enstool
 engerminate
 echeneid
 embodied
-enfranchiser
 episcopes
 elaphomyces
 esophagorrhagia
@@ -14040,6 +14039,7 @@ esterase
 endopterygotous
 extratellurian
 extrait
+enfranchiser
 eschatocol
 electroergometer
 exch
