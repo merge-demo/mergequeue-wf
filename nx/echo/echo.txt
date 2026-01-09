@@ -882,7 +882,6 @@ erythrocytolysin
 electrocution
 entailed
 ectomorph
-ectoparasite
 exemptionist
 euxanthic
 evaporators
@@ -10225,6 +10224,7 @@ erroneous
 episarcine
 englifier
 erotica
+ectoparasite
 emptores
 ethicoaesthetic
 ethicopolitical
