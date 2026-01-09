@@ -1376,7 +1376,6 @@ elemin
 explosives
 eelspear
 effeminising
-effeminize
 effeminizing
 exhibitionize
 ervil
@@ -13834,6 +13833,7 @@ embrake
 expos
 euthenics
 excudit
+effeminize
 epicycle
 elaeothesia
 extraversively
