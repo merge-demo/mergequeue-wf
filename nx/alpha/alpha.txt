@@ -7419,7 +7419,6 @@ albumenization
 albumenized
 autopathography
 aerophoto
-arseniferous
 albumenizer
 albumenoid
 archtreasurer
@@ -20985,6 +20984,7 @@ athyrid
 agraria
 ametoecious
 ascertains
+arseniferous
 anglicizing
 ascendant
 arthropterous
