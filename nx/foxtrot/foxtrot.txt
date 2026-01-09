@@ -950,6 +950,7 @@ ferneries
 farinha
 flyleaf
 foundry
+foreffelt
 flawedness
 fourchite
 fortunateness
@@ -7656,7 +7657,6 @@ funipendulous
 fescenninity
 ferganite
 frogging
-foreffelt
 folioed
 fled
 flotten
