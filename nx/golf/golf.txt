@@ -4895,7 +4895,6 @@ gladiator
 grabbiest
 grooviest
 gagelike
-gallium
 gilour
 geographic
 gatherer
@@ -9079,6 +9078,7 @@ ghostliness
 gaylussite
 gnatcatcher
 girasole
+gallium
 gryllos
 gaffle
 gimcracky
