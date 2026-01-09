@@ -1017,7 +1017,6 @@ givers
 gangava
 groundward
 ghassanid
-groom
 gilse
 gurnetty
 granitizing
@@ -9250,6 +9249,7 @@ grippleness
 galerite
 grazier
 giftedness
+groom
 gryllotalpa
 glassworker
 grandeeship
