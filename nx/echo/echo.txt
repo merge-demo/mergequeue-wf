@@ -2752,6 +2752,7 @@ entity
 eeten
 equipotent
 electees
+enthusiasts
 expounds
 ennobler
 envoi
@@ -12007,7 +12008,6 @@ etherion
 espeire
 embolus
 electioneerer
-enthusiasts
 ectromelian
 essenic
 exclusive
