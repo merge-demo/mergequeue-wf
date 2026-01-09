@@ -4674,7 +4674,6 @@ compartmentalizing
 carnic
 caroteel
 costosuperior
-carotenes
 chaser
 carneol
 cursoria
@@ -11523,6 +11522,7 @@ chockstone
 coronofrontal
 choker
 courbache
+carotenes
 cecile
 coredeemed
 cratonic
