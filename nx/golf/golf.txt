@@ -1527,6 +1527,7 @@ gasman
 gasbags
 galactosemia
 glyptodon
+gargler
 gasmen
 grippal
 galenian
@@ -1814,7 +1815,6 @@ gulsach
 glycine
 gowkit
 gastrocolostomy
-gargler
 geodesia
 gastrovascular
 gold
