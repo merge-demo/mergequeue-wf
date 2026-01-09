@@ -5327,6 +5327,7 @@ flukes
 fumage
 fluoridize
 fatwood
+felix
 fulciform
 fretters
 flain
@@ -7098,7 +7099,6 @@ fanger
 flatterer
 farles
 forejudger
-felix
 formfeeds
 fellfare
 frig
