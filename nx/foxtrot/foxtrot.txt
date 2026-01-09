@@ -2797,7 +2797,6 @@ forebush
 foreadmonish
 fieldsmen
 frogleg
-farmhand
 fetichlike
 flowerets
 fanfare
@@ -8638,6 +8637,7 @@ faddishly
 feelers
 felt
 fearfully
+farmhand
 fibromucous
 fulup
 fringilloid
