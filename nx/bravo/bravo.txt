@@ -2355,7 +2355,6 @@ briber
 barbital
 brighteners
 barbiton
-bloodworm
 barbituric
 bluetick
 barbiturism
@@ -3571,6 +3570,7 @@ bathymetry
 bathymetrical
 biggonet
 bathing
+bloodworm
 brecciated
 beckoning
 bridgekeeper
