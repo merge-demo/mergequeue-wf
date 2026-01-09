@@ -6898,7 +6898,6 @@ equivocal
 epaulets
 evitable
 entomosporium
-edgeling
 ethically
 ellipsoidal
 expatiate
@@ -9148,6 +9147,7 @@ erminee
 evanid
 enleague
 ermines
+edgeling
 endovaccination
 encolor
 enates
