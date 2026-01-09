@@ -755,7 +755,6 @@ gar
 goniometric
 gossypin
 gnawer
-greenshank
 gasted
 gustfulness
 gangrened
@@ -1886,6 +1885,7 @@ grainless
 gatherers
 gumpheon
 galumph
+greenshank
 gamenesses
 grubstake
 gardenwise
