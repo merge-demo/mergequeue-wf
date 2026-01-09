@@ -6765,7 +6765,6 @@ fluorescent
 forspeaking
 fitnesses
 flamming
-fittest
 fenmen
 foiningly
 forjudged
@@ -10063,6 +10062,7 @@ foretrace
 ferk
 fellsman
 forereading
+fittest
 fantod
 flor
 fryer
