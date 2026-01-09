@@ -1909,7 +1909,6 @@ camboose
 cambouis
 concernedly
 cambresine
-cuir
 calumnia
 cambric
 clarity
@@ -20584,6 +20583,7 @@ compenser
 countree
 compere
 cretification
+cuir
 compered
 cumulous
 conspect
