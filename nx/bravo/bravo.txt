@@ -7392,7 +7392,6 @@ boatswain
 bunglers
 bacteririum
 balaenoptera
-bocklogged
 bilbies
 bibliolatrist
 blinky
@@ -16237,6 +16236,7 @@ brotherred
 bestrewed
 brailed
 belaud
+bocklogged
 blepharoplasty
 buirdly
 birth
