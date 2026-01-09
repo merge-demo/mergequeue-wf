@@ -4750,7 +4750,6 @@ genista
 galeae
 gowland
 gitanos
-gite
 goala
 geraera
 gonarthritis
@@ -5646,6 +5645,7 @@ germanics
 gubernacular
 geyserine
 gingalls
+gite
 gastralgic
 gobbling
 growsome
