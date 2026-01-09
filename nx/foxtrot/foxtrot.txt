@@ -4263,7 +4263,6 @@ fibroma
 fending
 follicule
 fibster
-forefended
 fenland
 ferngrower
 fungology
@@ -11680,6 +11679,7 @@ feru
 felids
 finikin
 flare
+forefended
 footglove
 flatfoot
 fagaceous
