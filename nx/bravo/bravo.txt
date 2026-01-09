@@ -2823,6 +2823,7 @@ bowdlerism
 barosinusitus
 burghmaster
 barosmin
+boarded
 blithefully
 bandh
 buffaloback
@@ -11657,7 +11658,6 @@ boa
 brushite
 budgeted
 bisontine
-boarded
 besmudged
 boardings
 boardsmanship
