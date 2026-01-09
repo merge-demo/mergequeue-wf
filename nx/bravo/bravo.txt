@@ -475,7 +475,6 @@ bituminiferous
 batteries
 breakax
 blooddrop
-barbated
 bismillah
 betweentimes
 buffo
@@ -11535,6 +11534,7 @@ bluewoods
 ballat
 billposter
 bluffable
+barbated
 blicky
 baraca
 beseemingness
