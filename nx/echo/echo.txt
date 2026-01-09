@@ -6005,7 +6005,6 @@ enjoiners
 extravillar
 estafa
 exigence
-electrodesiccate
 electricalness
 embolomerism
 electrodynamism
@@ -7591,6 +7590,7 @@ elkesaite
 espinos
 euchymous
 epicoelous
+electrodesiccate
 epicondyle
 excysted
 eiry
