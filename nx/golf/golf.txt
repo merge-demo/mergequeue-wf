@@ -803,7 +803,6 @@ gravata
 garrotting
 gambang
 gastrular
-gonia
 goldbeater
 glauke
 greenlandite
@@ -7475,6 +7474,7 @@ gourded
 granuliferous
 geocentrical
 gabbler
+gonia
 glaring
 guereza
 glossist
