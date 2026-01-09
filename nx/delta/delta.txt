@@ -845,7 +845,6 @@ decempunctate
 defend
 damenization
 drycoal
-demount
 dawted
 defix
 dismally
@@ -9095,6 +9094,7 @@ dichoptic
 dyslexias
 didelphidae
 diaskeuasis
+demount
 discursive
 dingdong
 dragonize
