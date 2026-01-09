@@ -8728,6 +8728,7 @@ frisette
 followable
 firesafe
 fortifys
+fulgoroidea
 finalist
 filicornia
 ferther
@@ -10924,7 +10925,6 @@ firesafeness
 flirtations
 foremastmen
 facemaking
-fulgoroidea
 furzier
 fruitist
 fossilology
