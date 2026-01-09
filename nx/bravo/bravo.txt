@@ -574,7 +574,6 @@ bibbery
 benzobis
 beclothed
 bedrabble
-bacteremic
 bacteriaceae
 buhrstone
 brobdingnagian
@@ -594,6 +593,7 @@ bastiment
 bacteriodiagnosis
 bezzle
 bromates
+bacteremic
 behearse
 bacterid
 birdcages
