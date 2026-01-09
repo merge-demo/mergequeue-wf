@@ -7418,6 +7418,7 @@ cephalophine
 cryostats
 congenital
 cervisia
+capillation
 carrycot
 consorted
 cryoprobe
@@ -29884,7 +29885,6 @@ colicins
 crosshair
 crosshand
 crosshatches
-capillation
 completive
 cogwheel
 coadjutator
