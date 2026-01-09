@@ -4786,7 +4786,6 @@ enscrolling
 evittate
 elator
 enclosures
-emprent
 emmenia
 erethic
 eguttulate
@@ -13621,6 +13620,7 @@ epencephal
 experientially
 esopgi
 expurgates
+emprent
 empedoclean
 exactive
 effossion
