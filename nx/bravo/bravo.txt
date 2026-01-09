@@ -5368,6 +5368,7 @@ begnaw
 biharmonic
 borderlines
 butterscotch
+bacchante
 balmy
 biguanide
 ballroom
@@ -9772,7 +9773,6 @@ basketful
 bissabol
 birdmouthed
 bethinks
-bacchante
 bigam
 bissellia
 bullbats
