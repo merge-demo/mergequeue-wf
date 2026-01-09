@@ -332,6 +332,7 @@ auletris
 acetonemia
 aftwards
 abends
+ampul
 aberdeen
 ambos
 azocyanide
@@ -21830,7 +21831,6 @@ assimilates
 assimilating
 andoroba
 assimilationist
-ampul
 afterattack
 abede
 assinego
