@@ -920,6 +920,7 @@ gerbillus
 garnishable
 gemeinschaften
 guttler
+guppies
 galt
 gametophoric
 gorbet
@@ -10655,7 +10656,6 @@ grandiloquent
 grutches
 gorrel
 genera
-guppies
 galee
 gemmiest
 gnomed
