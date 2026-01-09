@@ -4129,7 +4129,6 @@ germanical
 guzzler
 gimcrack
 gastrojejunal
-gleaned
 galictis
 griph
 grasshop
@@ -8055,6 +8054,7 @@ gannets
 gratitude
 geotaxy
 ghosthood
+gleaned
 gangsman
 gouvernante
 grapnels
