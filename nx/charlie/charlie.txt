@@ -5732,7 +5732,6 @@ catastrophic
 catathymic
 catatony
 consolate
-catatonic
 coeloglossum
 countersignal
 catawampous
@@ -28150,6 +28149,7 @@ checkable
 captivator
 craniology
 craniom
+catatonic
 custards
 chinenses
 calibrations
