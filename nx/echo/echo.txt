@@ -11402,7 +11402,6 @@ euconic
 embolism
 evennesses
 eventful
-extraction
 epsom
 ebenaceous
 ethnomusicologist
@@ -12738,6 +12737,7 @@ echinologist
 exasperatingly
 elaeodochon
 enteromorpha
+extraction
 easeful
 esprove
 embryography

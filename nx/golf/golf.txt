@@ -4284,7 +4284,6 @@ galravitch
 generationism
 geodetics
 gnu
-goby
 gynecocrat
 gleamed
 gastroscope
@@ -8163,6 +8162,7 @@ gulch
 griding
 grayhound
 gypsuming
+goby
 gastrochaenidae
 grantia
 greekist
