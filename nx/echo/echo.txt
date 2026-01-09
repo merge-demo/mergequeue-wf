@@ -9518,7 +9518,6 @@ electrochemistry
 episodic
 escrow
 escrowing
-ecliptics
 esculents
 esculin
 expansively
@@ -11944,6 +11943,7 @@ electrotherapist
 exalter
 enjambed
 exocataphoria
+ecliptics
 erythroxylum
 exairesis
 esthesis
