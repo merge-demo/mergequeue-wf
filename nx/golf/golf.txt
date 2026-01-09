@@ -4841,6 +4841,7 @@ guachipilin
 globularia
 gein
 gingerspice
+glaistig
 grapewort
 gymnast
 grubstreet
@@ -10055,7 +10056,6 @@ genetoid
 geomancies
 gangliac
 gleans
-glaistig
 gammation
 gargoyles
 greasing
