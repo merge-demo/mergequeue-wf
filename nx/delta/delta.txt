@@ -4507,7 +4507,6 @@ demilawyer
 decating
 diwans
 demilitarisation
-demilitarised
 demilitarising
 demilitarization
 dehydrogenase
@@ -13136,6 +13135,7 @@ dabbed
 disglory
 diactine
 dirca
+demilitarised
 dispensingly
 dispensive
 daggered
