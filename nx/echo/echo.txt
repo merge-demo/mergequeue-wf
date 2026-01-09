@@ -4620,7 +4620,6 @@ entrain
 epistolean
 erethizontidae
 epilimnion
-elucubrate
 excellent
 exarchs
 egotists
@@ -6326,6 +6325,7 @@ ergotin
 eschar
 euchred
 ensphered
+elucubrate
 eyespot
 enseal
 extrovertish
