@@ -2315,6 +2315,7 @@ geological
 goas
 galaxy
 grallatorial
+glottidean
 gangliglia
 griskin
 gymnodiniaceae
@@ -5247,7 +5248,6 @@ glycemic
 groundline
 garrulousness
 gleety
-glottidean
 groundneedle
 grassflower
 glottiscope
