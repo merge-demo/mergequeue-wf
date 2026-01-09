@@ -4394,7 +4394,6 @@ elenchi
 encratic
 eunuchized
 elenchtical
-equinovarus
 electrolyzer
 encephalosclerosis
 evisite
@@ -7189,6 +7188,7 @@ exuviability
 encomiastically
 electrons
 ecumenic
+equinovarus
 elvishly
 enneasyllabic
 extraparental
