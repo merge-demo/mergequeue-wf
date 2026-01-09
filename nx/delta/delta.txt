@@ -2303,7 +2303,6 @@ drawnet
 disceptator
 downpipe
 decemuiri
-downcut
 derby
 decemviral
 deepish
@@ -4167,6 +4166,7 @@ doorjamb
 delphacidae
 disincorporated
 dogcart
+downcut
 depasturing
 decimus
 dyslogy
