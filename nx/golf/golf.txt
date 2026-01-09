@@ -7245,6 +7245,7 @@ gamesters
 grimliness
 gloze
 grater
+griffin
 gonial
 gratin
 gastronomical
@@ -10459,7 +10460,6 @@ gambeer
 ginning
 gobiidae
 guardship
-griffin
 gittite
 gastronomically
 grimacing
