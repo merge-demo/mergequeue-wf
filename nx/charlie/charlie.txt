@@ -5579,7 +5579,6 @@ chlorophaeite
 cichlid
 catadupe
 catafalco
-civilisation
 catagenetic
 catakinetic
 corkscrewy
@@ -17322,6 +17321,7 @@ callower
 cotangential
 concretes
 cosovereign
+civilisation
 cephalemia
 coannexed
 coannexes
