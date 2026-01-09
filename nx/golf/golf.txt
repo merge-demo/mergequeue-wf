@@ -3339,6 +3339,7 @@ gynaecol
 gahnites
 geriatrician
 geriatrist
+glutinant
 goxes
 german
 geckos
@@ -9757,7 +9758,6 @@ glengarries
 gasoliery
 gruyere
 gasterosteidae
-glutinant
 gorfly
 gascromh
 gastrogenic
