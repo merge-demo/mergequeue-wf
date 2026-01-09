@@ -7187,7 +7187,6 @@ centralise
 conformable
 convictively
 centralising
-centrality
 conusable
 corregidores
 centralities
@@ -8510,6 +8509,7 @@ coe
 capparidaceous
 conylene
 coquillage
+centrality
 contrastively
 champian
 copyholder
