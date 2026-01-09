@@ -2009,7 +2009,6 @@ elastics
 exothermal
 eagle
 economizing
-equiparable
 effetman
 electrine
 ekka
@@ -2522,6 +2521,7 @@ epicanthic
 epochs
 exterminative
 electrokinetics
+equiparable
 evirate
 elasticum
 electroless
