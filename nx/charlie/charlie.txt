@@ -21998,7 +21998,6 @@ confine
 comports
 confined
 cadging
-confinedly
 confiners
 confines
 confining
@@ -22901,6 +22900,7 @@ corgis
 conservationists
 condensable
 conservations
+confinedly
 chondromas
 chandoo
 checkbit
