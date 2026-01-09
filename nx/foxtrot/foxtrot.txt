@@ -4327,7 +4327,6 @@ fu
 futilities
 filecard
 forestiera
-fellows
 factions
 forewomen
 flavored
@@ -9508,6 +9507,7 @@ featish
 flatmen
 farming
 framework
+fellows
 forenames
 flopover
 femininism
