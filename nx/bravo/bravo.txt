@@ -4238,6 +4238,7 @@ beauty
 brachyphalangia
 bracing
 brumstone
+bongar
 bocaccios
 beautydom
 butylic
@@ -5670,7 +5671,6 @@ besped
 beldams
 bacchar
 bilify
-bongar
 badgeless
 babylonize
 belection
