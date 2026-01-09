@@ -9545,6 +9545,7 @@ cricotracheotomy
 calaththi
 checkrein
 checkroll
+counterimpulse
 compathy
 checkrope
 cumulant
@@ -26893,7 +26894,6 @@ circumambience
 counterimagination
 cimicide
 cuitled
-counterimpulse
 counterindented
 counterindication
 circumjacencies
