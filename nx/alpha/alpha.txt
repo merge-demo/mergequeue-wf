@@ -11981,7 +11981,6 @@ alveus
 aerogen
 anhalamine
 airspeed
-anastasimon
 anastasius
 anemosis
 architeuthis
@@ -12872,6 +12871,7 @@ actaeonidae
 ahsan
 ardors
 argillitic
+anastasimon
 approaches
 addictively
 amobyr
