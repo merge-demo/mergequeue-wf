@@ -2826,6 +2826,7 @@ elementish
 extricates
 epiblastema
 entirely
+expiations
 endomixis
 ephebeibeia
 engarble
@@ -5822,7 +5823,6 @@ eggshells
 exfoliation
 erlkings
 epicele
-expiations
 extrinsic
 engrafter
 emagram
