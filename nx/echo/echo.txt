@@ -1567,7 +1567,6 @@ eggfruit
 easies
 exhale
 emportment
-euclid
 ephydra
 euthanasy
 enmeshments
@@ -6783,6 +6782,7 @@ estatesman
 enemied
 ergon
 educator
+euclid
 extramural
 encage
 entire
