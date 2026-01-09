@@ -3897,6 +3897,7 @@ gorilline
 garoting
 granthi
 gell
+geosyncline
 galanas
 genevas
 giftwrapping
@@ -5192,7 +5193,6 @@ gossipred
 gesticulator
 guavas
 gallates
-geosyncline
 gemman
 guidwillie
 gunbright
