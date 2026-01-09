@@ -20755,6 +20755,7 @@ autocrats
 antielectron
 artiodactylous
 appendixed
+avg
 antimasonry
 anaphoria
 agoniadin
@@ -24724,7 +24725,6 @@ aristida
 artisans
 amalfian
 aveugle
-avg
 assenting
 absorbers
 avians
