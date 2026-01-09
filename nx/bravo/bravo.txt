@@ -5889,6 +5889,7 @@ beggardom
 bretons
 bellwether
 bradmaker
+bleater
 bellwort
 belock
 basimesostasis
@@ -6281,7 +6282,6 @@ becassine
 bentgrass
 benthos
 besmiling
-bleater
 beshames
 bucolics
 birkie
