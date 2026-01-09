@@ -2385,7 +2385,6 @@ entendres
 electroplating
 expostulate
 electroplates
-ecumenical
 ecphova
 egba
 explees
@@ -6897,6 +6896,7 @@ entomophobia
 earwaxes
 esthesiography
 eucryptite
+ecumenical
 epic
 enfeoffed
 estruses
