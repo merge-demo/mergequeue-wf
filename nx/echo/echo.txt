@@ -3764,7 +3764,6 @@ excessiveness
 enslaving
 encumbers
 embrocates
-erythroid
 efflower
 endiaper
 erugation
@@ -9351,6 +9350,7 @@ erinys
 eurythmic
 endosiphon
 erugo
+erythroid
 encrusted
 erugos
 escapage
