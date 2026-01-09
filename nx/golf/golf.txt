@@ -5533,6 +5533,7 @@ glutinously
 grudgeons
 genghis
 glob
+glareless
 gnetum
 gripes
 glucinum
@@ -10158,7 +10159,6 @@ galways
 gurgling
 gazolyte
 guller
-glareless
 greenier
 gilding
 grudges
