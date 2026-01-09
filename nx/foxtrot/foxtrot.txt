@@ -4133,6 +4133,7 @@ freighted
 farkleberries
 felineness
 fuligulinae
+foredeck
 footmanhood
 fellowcraft
 floerkea
@@ -7118,7 +7119,6 @@ footful
 foolhardiness
 forges
 fabulousness
-foredeck
 fidgety
 flapperdom
 fraken
