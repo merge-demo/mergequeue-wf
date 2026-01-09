@@ -572,6 +572,7 @@ develin
 demifusion
 dextrose
 dups
+drawstring
 disgorged
 damine
 dedolomitized
@@ -11284,7 +11285,6 @@ depolymerized
 discabinet
 deminatured
 discommendableness
-drawstring
 discanted
 dragon
 dropt
