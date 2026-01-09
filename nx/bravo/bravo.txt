@@ -854,6 +854,7 @@ benzidin
 benzalcohol
 beffroy
 baggala
+bandyman
 brannerite
 borderlight
 bagganet
@@ -2535,7 +2536,6 @@ buzylene
 baria
 bedouse
 blameful
-bandyman
 bartered
 baboodom
 bucca
