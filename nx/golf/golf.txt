@@ -1312,6 +1312,7 @@ geodiatropism
 guepard
 giro
 graviers
+grindal
 garganey
 gastropancreatitis
 garget
@@ -6036,7 +6037,6 @@ gnomology
 goladar
 graymalkin
 guiltful
-grindal
 gyppers
 gnathitis
 gragers
