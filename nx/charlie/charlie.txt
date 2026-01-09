@@ -13052,7 +13052,6 @@ crunchingness
 cryogens
 curcumas
 craniates
-curies
 cyanophile
 cyanophoric
 cyanopia
@@ -20540,6 +20539,7 @@ checkerspot
 chromatophorous
 compellable
 cheirognomy
+curies
 compelled
 carpogenic
 crumpling
