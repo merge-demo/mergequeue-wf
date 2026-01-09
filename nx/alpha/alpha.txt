@@ -1890,7 +1890,6 @@ autopsic
 acetalize
 amphioxididae
 arrector
-ashkoko
 autocolony
 acetanilid
 anogenic
@@ -6435,6 +6434,7 @@ allantiasis
 ahi
 azotometer
 algaesthesis
+ashkoko
 amebula
 alternant
 affiancing
