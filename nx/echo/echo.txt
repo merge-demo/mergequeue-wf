@@ -2738,6 +2738,7 @@ electrotypy
 enolase
 earwigged
 eggroll
+egging
 evaporated
 electrovalent
 epinasty
@@ -12600,7 +12601,6 @@ enneagynous
 explant
 epicardium
 electrostatics
-egging
 exocoelum
 epifascial
 epistylis

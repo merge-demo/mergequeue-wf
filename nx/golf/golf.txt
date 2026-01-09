@@ -5490,6 +5490,7 @@ groundskeep
 glisk
 gruffed
 gastruran
+garfish
 gammacismus
 grangerising
 gemmier
@@ -6889,7 +6890,6 @@ grainman
 garroting
 garnishing
 gynandroid
-garfish
 gregarina
 grecians
 gelatinoid
