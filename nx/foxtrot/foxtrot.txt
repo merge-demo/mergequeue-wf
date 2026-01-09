@@ -1975,7 +1975,6 @@ fayed
 fissipeds
 firers
 fleabag
-fogging
 fedora
 fide
 feere
@@ -10953,6 +10952,7 @@ francs
 fulness
 fess
 flanconade
+fogging
 forgetness
 futiley
 founder
