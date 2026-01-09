@@ -5948,7 +5948,6 @@ bludged
 butylamine
 babiche
 bigaroons
-belting
 basidiomycete
 ballahoo
 bedroom
@@ -8494,6 +8493,7 @@ blessed
 bellehood
 bildar
 boob
+belting
 barostat
 bilders
 biseriately
