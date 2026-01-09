@@ -6195,7 +6195,6 @@ derivations
 degrading
 describably
 demising
-daredevil
 ditted
 danker
 decemvir
@@ -11405,6 +11404,7 @@ digenea
 disciple
 depicter
 dispress
+daredevil
 drawl
 disciplinable
 dishfuls
