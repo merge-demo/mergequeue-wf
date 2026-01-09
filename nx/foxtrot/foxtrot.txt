@@ -3277,6 +3277,7 @@ flirtling
 finesser
 faon
 foreward
+forwrap
 flyting
 fraternation
 foreconscious
@@ -6267,7 +6268,6 @@ filched
 forhow
 floccules
 focusable
-forwrap
 fascinative
 foambow
 formwork
