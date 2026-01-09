@@ -3445,7 +3445,6 @@ evermo
 eavedropper
 embark
 epitomize
-embarks
 equipage
 exteroceptor
 equilibrium
@@ -9928,6 +9927,7 @@ equicellular
 electroosmotically
 estrayed
 ectropion
+embarks
 epididymodeferential
 ebraick
 estral
