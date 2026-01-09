@@ -4867,7 +4867,6 @@ demonologer
 demonology
 demonologically
 disluster
-densitometers
 demonomist
 draisene
 defervescence
@@ -17235,6 +17234,7 @@ downtime
 declarators
 debt
 disseizee
+densitometers
 droghlin
 discrepant
 diathermance
