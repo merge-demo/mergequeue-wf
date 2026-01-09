@@ -7581,7 +7581,6 @@ cercus
 cerdonian
 cereal
 centrifugalizing
-carrus
 collative
 changeability
 cervices
@@ -15929,6 +15928,7 @@ clemently
 clementness
 caballine
 clemming
+carrus
 clench
 carbamino
 cajanus
