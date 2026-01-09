@@ -17644,6 +17644,7 @@ cephalothoracopagus
 coccyx
 coccyxes
 coccyzus
+courser
 cocco
 changar
 coccobacilli
@@ -24248,7 +24249,6 @@ commissioner
 convolvulaceae
 convolvulaceous
 convolvulad
-courser
 convolvulic
 convolvulinic
 certiorari
