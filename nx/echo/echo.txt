@@ -10253,6 +10253,7 @@ experiences
 embedded
 excavators
 ethyldichloroarsine
+edema
 emphraxis
 eglestonite
 extragastric
@@ -13180,7 +13181,6 @@ espiegleries
 earclip
 epigynous
 enhancive
-edema
 ecdysiast
 edriophthalmic
 ethnobotanical
