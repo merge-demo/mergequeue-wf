@@ -3266,7 +3266,6 @@ gadgets
 gingellies
 gerah
 goodwily
-gifting
 grammies
 geraniums
 gebur
@@ -10630,6 +10629,7 @@ gasping
 graffiti
 gentled
 gourmandise
+gifting
 gimmickry
 gunshop
 gruelings
