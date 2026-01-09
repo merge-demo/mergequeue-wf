@@ -1775,7 +1775,6 @@ frogmen
 flaunts
 flindosy
 foredoes
-flannelet
 featherwing
 fjorded
 fitified
@@ -6665,6 +6664,7 @@ flies
 fecche
 fantaseid
 flacianism
+flannelet
 foder
 forkwise
 falseheartedly
