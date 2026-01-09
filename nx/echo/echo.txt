@@ -6262,6 +6262,7 @@ enrapts
 ethynyl
 evestar
 experimentative
+enameloma
 enraptured
 executors
 enomotarch
@@ -6865,7 +6866,6 @@ epitome
 exterior
 eleutherozoa
 embarque
-enameloma
 extractive
 eleusinion
 entomologies
