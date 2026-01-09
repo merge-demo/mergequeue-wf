@@ -3517,6 +3517,7 @@ fains
 forehearth
 featherhead
 formant
+farcical
 frightful
 foulsome
 filamentary
@@ -3928,7 +3929,6 @@ foreshown
 funneled
 flued
 fimbria
-farcical
 falsettos
 feods
 footsteps
