@@ -970,7 +970,6 @@ frailness
 fechnerian
 forceable
 fibrinogenetic
-fent
 fabrile
 frondation
 fruitling
@@ -2778,6 +2777,7 @@ forehood
 firsthand
 falcial
 folacins
+fent
 freshener
 finlander
 facers
