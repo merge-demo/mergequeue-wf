@@ -5031,6 +5031,7 @@ glamoured
 gregarinaria
 germanic
 greatmouthed
+gettable
 grolier
 glebeless
 gammed
@@ -6308,7 +6309,6 @@ gymnorhininae
 goodheartedly
 gansel
 goblin
-gettable
 gullible
 gigartinaceous
 gunmen
