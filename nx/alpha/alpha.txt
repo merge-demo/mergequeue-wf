@@ -10325,7 +10325,6 @@ absurdum
 aculeolus
 ametrope
 antshrike
-ametrous
 afterbirths
 alcade
 aminophylline
@@ -24255,6 +24254,7 @@ aquariia
 automobile
 automobiled
 arriage
+ametrous
 automobiles
 amphiaster
 acaciin
