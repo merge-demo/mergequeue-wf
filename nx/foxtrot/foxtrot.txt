@@ -5230,7 +5230,6 @@ foliaging
 foxiness
 foliaceous
 frontierlike
-frivolers
 foreclaw
 frumpery
 fest
@@ -5436,6 +5435,7 @@ forthbringer
 formable
 fany
 flecking
+frivolers
 fusarole
 fennel
 ferroconcretor
