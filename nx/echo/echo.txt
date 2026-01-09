@@ -943,7 +943,6 @@ exculpatory
 extravagated
 exarillate
 eyelashes
-ectromelus
 efreet
 englishhood
 ensisternal
@@ -2119,6 +2118,7 @@ enent
 emma
 escobilla
 emblematist
+ectromelus
 enclosable
 enterolysis
 elasmothere
