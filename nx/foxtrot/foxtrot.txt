@@ -5267,7 +5267,6 @@ fratcher
 flavoriness
 falangist
 fitful
-fierceness
 fibromembrane
 filippi
 faugh
@@ -10549,6 +10548,7 @@ fumbled
 flite
 floristry
 flamberge
+fierceness
 fusiliers
 frowl
 fierily
