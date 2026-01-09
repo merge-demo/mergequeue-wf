@@ -3907,6 +3907,7 @@ falsehearted
 furrowed
 flemish
 foresummon
+fimbriate
 fendered
 fullest
 foeniculum
@@ -5299,7 +5300,6 @@ forficula
 foresightedness
 fingerprinted
 ferricyanate
-fimbriate
 franchisal
 feelinglessly
 fibrilation
