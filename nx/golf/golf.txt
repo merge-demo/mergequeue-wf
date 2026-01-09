@@ -883,6 +883,7 @@ glossarize
 goolde
 gangplank
 guerrilla
+goblinry
 glyoxime
 gerontomorphosis
 globe
@@ -10530,7 +10531,6 @@ goalee
 garrooka
 gypsous
 gulp
-goblinry
 gomarist
 gundie
 graspingness
