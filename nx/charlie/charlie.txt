@@ -20788,7 +20788,6 @@ cricketings
 coenesthesis
 coalyard
 cashed
-complimental
 chiel
 complimentally
 complimentarily
@@ -27934,6 +27933,7 @@ cambiums
 cracking
 contracter
 crackings
+complimental
 crackles
 crackly
 cracklier
