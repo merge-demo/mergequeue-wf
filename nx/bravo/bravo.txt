@@ -500,7 +500,6 @@ bicentennial
 beltis
 backstromite
 boart
-bu
 ballyhooing
 backtenter
 beggingwise
@@ -5704,6 +5703,7 @@ birder
 bora
 butterback
 birefracting
+bu
 belialic
 bemix
 belibel

@@ -814,7 +814,6 @@ gamboled
 goldenrods
 gyppo
 gletty
-galoots
 granose
 geognost
 ginney
@@ -10415,6 +10414,7 @@ greypate
 generalisable
 grandfatherly
 gourdhead
+galoots
 gambreled
 granitelike
 geejee
