@@ -4198,6 +4198,7 @@ gazee
 geegaws
 gramicidin
 gaitt
+gallach
 gibleh
 gratewise
 gypsum
@@ -7399,7 +7400,6 @@ gossips
 gestor
 gilthead
 glyptograph
-gallach
 gynostemia
 groupable
 gamelike
