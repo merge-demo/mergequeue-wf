@@ -2827,7 +2827,6 @@ gaunt
 growling
 gimmor
 grievingly
-gascoigny
 greatcoat
 gyne
 guzzledom
@@ -7290,6 +7289,7 @@ gibbus
 genoblast
 gormandised
 graycoat
+gascoigny
 grace
 gunl
 gazeful
