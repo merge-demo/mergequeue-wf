@@ -9441,7 +9441,6 @@ desired
 delaw
 demode
 dozener
-drivels
 decubitus
 derailleurs
 dissert
@@ -11585,6 +11584,7 @@ downland
 desorbs
 discompanied
 disavowing
+drivels
 deleted
 dimethyls
 degenerations
