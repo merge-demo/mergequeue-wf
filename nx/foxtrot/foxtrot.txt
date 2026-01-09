@@ -1534,7 +1534,6 @@ foreshift
 foetuses
 fauterer
 fauteuil
-fussy
 fimbriodentate
 foreteach
 forklift
@@ -4217,6 +4216,7 @@ fireplug
 firepot
 frijolillo
 fylgja
+fussy
 fructoside
 forebooms
 flots
