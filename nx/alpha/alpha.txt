@@ -5301,7 +5301,6 @@ alkines
 argoletier
 attestation
 afforesting
-autophotometry
 anticogitative
 afformative
 affrayers
@@ -6303,6 +6302,7 @@ arcanist
 apesthesia
 assertedly
 agenized
+autophotometry
 akhund
 anamorphote
 aargh
