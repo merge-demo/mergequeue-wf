@@ -2084,7 +2084,6 @@ debilities
 decaying
 diopsimeter
 diety
-dummy
 defaced
 devolution
 disproportionally
@@ -10211,6 +10210,7 @@ dinkum
 detractory
 duroc
 dormitory
+dummy
 dinnerly
 decillionth
 dishcross
