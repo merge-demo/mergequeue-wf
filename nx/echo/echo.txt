@@ -2347,7 +2347,6 @@ epicotyl
 eagled
 eyras
 electroacoustic
-elfkin
 electroacoustics
 enthetic
 exundation
@@ -3668,6 +3667,7 @@ ellick
 expositive
 emotionalised
 eudaemonize
+elfkin
 elatinaceous
 estimators
 elaeocarpaceous
