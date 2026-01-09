@@ -1470,7 +1470,6 @@ finitudes
 fervent
 fungillus
 faucre
-fusc
 foreknowingly
 fruited
 fancily
@@ -8837,6 +8836,7 @@ fanlight
 fidel
 fairish
 fearable
+fusc
 freightliner
 flexured
 friss
