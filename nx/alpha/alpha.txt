@@ -9954,7 +9954,6 @@ asquirm
 aiger
 ambiversion
 ambivert
-arrect
 amble
 apanteles
 ambleocarpus
@@ -22540,6 +22539,7 @@ allegheny
 amphitoky
 ansarian
 atavistically
+arrect
 ataxiagraph
 ataxies
 ammonitic
