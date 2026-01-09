@@ -2958,7 +2958,6 @@ actinic
 akene
 antitropical
 archenteron
-axtree
 aulostomi
 actiniomorpha
 amphiploidy
@@ -21920,6 +21919,7 @@ associations
 adaptional
 aphakial
 associatively
+axtree
 anemochoric
 aquiver
 apostolize
