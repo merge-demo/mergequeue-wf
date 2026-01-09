@@ -6355,6 +6355,7 @@ dimethoate
 drawboy
 diacatholicon
 defined
+deprotestantize
 dioc
 ducula
 demurrable
@@ -7688,7 +7689,6 @@ deviling
 deeded
 displaceable
 devility
-deprotestantize
 devilize
 delative
 devilkins
