@@ -2214,6 +2214,7 @@ gossipiness
 gutturalised
 golach
 glucosic
+grammarian
 granth
 genarchship
 greese
@@ -10114,7 +10115,6 @@ greetingless
 gastropods
 garrulus
 galactodensimeter
-grammarian
 gekkonoid
 gonfaloniership
 gephyrocercal
