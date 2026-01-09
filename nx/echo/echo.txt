@@ -5804,7 +5804,6 @@ encloser
 effluvia
 environing
 elephant
-ethylene
 epididymal
 epicrasis
 electroencephalograms
@@ -14147,6 +14146,7 @@ extensory
 episcopates
 ebonizing
 ephemerality
+ethylene
 enplanement
 emulates
 enlard
