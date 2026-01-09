@@ -6620,6 +6620,7 @@ enseam
 exfoliated
 egyptianism
 expulsatory
+entoplastic
 electrophoresis
 eructed
 endurability
@@ -11715,7 +11716,6 @@ expends
 erythrogenic
 estragons
 ecphasis
-entoplastic
 exagitate
 electromer
 epiphragmal
