@@ -4034,7 +4034,6 @@ explantation
 endhand
 emendatory
 episporium
-empyemata
 empyemic
 empiercement
 efforce
@@ -8486,6 +8485,7 @@ epulo
 ecphoriae
 explants
 elongates
+empyemata
 epuration
 effodient
 effie
