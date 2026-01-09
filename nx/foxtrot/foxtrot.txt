@@ -1591,7 +1591,6 @@ favosites
 finer
 florae
 floppies
-funambulo
 functionating
 fallalery
 faniente
@@ -6228,6 +6227,7 @@ flowmeter
 facilitates
 forcement
 firebreak
+funambulo
 frenchmen
 funguslike
 falange
