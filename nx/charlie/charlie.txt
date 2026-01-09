@@ -597,7 +597,6 @@ copiously
 compunctions
 caducibranchiata
 caducibranchiate
-claggy
 caducities
 carabineer
 caducous
@@ -11092,6 +11091,7 @@ chitons
 corrosives
 cadence
 chitosamine
+claggy
 chitosan
 committeeism
 chitosans
