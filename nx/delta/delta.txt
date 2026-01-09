@@ -1493,7 +1493,6 @@ disorientation
 damnification
 dazzlingness
 diatropism
-dbms
 deluder
 degenerationist
 dbridement
@@ -10029,6 +10028,7 @@ dissipater
 depair
 daughterling
 dubieties
+dbms
 dissightly
 dynamically
 devisals
