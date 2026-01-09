@@ -4956,6 +4956,7 @@ flagarie
 flamencos
 flacourtiaceous
 funtumia
+frogman
 fructified
 festinate
 fevertwitch
@@ -10281,7 +10282,6 @@ fusilly
 falcated
 flacourtia
 fibber
-frogman
 fasciodesis
 fleshen
 frat
