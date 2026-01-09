@@ -20962,7 +20962,6 @@ ascending
 alaster
 ascendingly
 azodicarboxylic
-ascends
 aerogeologist
 antitropous
 agalactic
@@ -22333,6 +22332,7 @@ astrocytic
 achilleid
 amollish
 abbr
+ascends
 astrocytomas
 ashy
 aerobically
