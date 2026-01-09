@@ -5970,6 +5970,7 @@ freyr
 factitude
 frats
 fineable
+fatalize
 flubdubs
 forestaysail
 fabiform
@@ -7640,7 +7641,6 @@ freezable
 fervors
 forril
 festino
-fatalize
 fowk
 fizzling
 farrier
