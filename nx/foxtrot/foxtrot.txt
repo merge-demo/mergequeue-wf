@@ -3205,7 +3205,6 @@ fourcher
 flippantness
 fijian
 flittermouse
-friers
 frostwort
 fearnought
 flexionless
@@ -8119,6 +8118,7 @@ fingan
 flavouring
 feeble
 flasklet
+friers
 factorist
 foret
 fragilaria
