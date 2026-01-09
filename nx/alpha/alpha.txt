@@ -75,7 +75,6 @@ accessaryship
 alanine
 antiremonstrant
 aristo
-abalienate
 abalienating
 abalones
 abama
@@ -5478,6 +5477,7 @@ afterguard
 anaerobious
 acalycal
 anatifae
+abalienate
 afterhope
 avance
 animatist
