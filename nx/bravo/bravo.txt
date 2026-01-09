@@ -6926,6 +6926,7 @@ burgundian
 basically
 bepray
 bedrugging
+baskerville
 bitumed
 brandywine
 besetters
@@ -12846,7 +12847,6 @@ biforked
 bigaroon
 bucolic
 bullfice
-baskerville
 burrhead
 bookward
 bookwards
