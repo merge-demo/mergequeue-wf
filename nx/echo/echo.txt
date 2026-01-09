@@ -1392,6 +1392,7 @@ eights
 epode
 endoskeletal
 entoglossal
+emplaster
 essentialness
 exomis
 evasional
@@ -4101,7 +4102,6 @@ emil
 entries
 ethmophysal
 entoilment
-emplaster
 enantiomer
 euphuistical
 emplastic
