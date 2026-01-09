@@ -7806,6 +7806,7 @@ deckhands
 diadochokinesis
 dwelling
 dil
+diswarrening
 devour
 did
 dorsad
@@ -14154,7 +14155,6 @@ discharacter
 diffuser
 deployment
 defeating
-diswarrening
 daisy
 ducker
 disulfid
