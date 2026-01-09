@@ -9637,6 +9637,7 @@ dissight
 dipoles
 dexterous
 discompose
+diaskeuast
 dihydrostreptomycin
 dihydrotachysterol
 dhaks
@@ -14702,7 +14703,6 @@ disagrees
 debauchee
 dolent
 djuka
-diaskeuast
 dk
 dkg
 decimosexto
