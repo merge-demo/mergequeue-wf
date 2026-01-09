@@ -1359,6 +1359,7 @@ greenalite
 glomerulus
 galloner
 glorifier
+guipures
 gunbarrel
 geoffroyine
 gervao
@@ -9704,7 +9705,6 @@ grueled
 gyrose
 guzzles
 gestureless
-guipures
 glut
 gamogony
 gibuses
