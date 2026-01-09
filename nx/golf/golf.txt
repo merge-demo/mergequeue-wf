@@ -8049,7 +8049,6 @@ galvanoplastics
 grabbots
 gannets
 gratitude
-geste
 geotaxy
 ghosthood
 gangsman
@@ -8425,6 +8424,7 @@ gigabytes
 grillading
 graced
 gadolinite
+geste
 grisailles
 gunport
 gemmaceous
