@@ -4030,7 +4030,6 @@ barms
 bowsprits
 bayou
 beakless
-beaks
 beala
 binuclear
 burglarproofing
@@ -6248,6 +6247,7 @@ beveling
 bennets
 batiked
 bootlace
+beaks
 bookism
 bissextus
 battalions
