@@ -1153,7 +1153,6 @@ graf
 gastrulating
 grocer
 gripier
-glazes
 grouses
 goninidia
 gentrification
@@ -6123,6 +6122,7 @@ gjetosts
 gallivants
 gastroenterocolitis
 giller
+glazes
 glaserian
 gnotobiosis
 giddiness
