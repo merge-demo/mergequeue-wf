@@ -7846,7 +7846,6 @@ biauricular
 backhouse
 bedstock
 blackshirted
-belgravian
 biaxiality
 birdseyes
 blackings
@@ -12210,6 +12209,7 @@ bolelike
 benniseed
 besmoked
 boxtops
+belgravian
 bikukulla
 beteem
 buddhahood
