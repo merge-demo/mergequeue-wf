@@ -3598,6 +3598,7 @@ elvish
 ethanamide
 eschewance
 extortionary
+explicate
 extreme
 equinecessary
 eupeptic
@@ -13267,7 +13268,6 @@ explicably
 explosionist
 explicanda
 ethanedithiol
-explicate
 enterectomies
 experimented
 entomological
