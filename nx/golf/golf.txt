@@ -4282,6 +4282,7 @@ gazella
 geumatophobia
 gradometer
 galravitch
+glamourizer
 generationism
 geodetics
 gnu
@@ -7571,7 +7572,6 @@ gravimeter
 gallycrow
 ganocephalous
 gilaki
-glamourizer
 galinaceous
 guserid
 goniatitidae
