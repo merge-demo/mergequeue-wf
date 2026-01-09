@@ -219,6 +219,7 @@ frasier
 forsakes
 factrix
 footmanship
+ferromagnetic
 factorials
 frontenis
 fanons
@@ -717,7 +718,6 @@ fumigatorium
 fatigated
 farmstead
 fistnote
-ferromagnetic
 futilitarianism
 fascioloid
 forehard
