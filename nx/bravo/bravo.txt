@@ -4361,6 +4361,7 @@ bemercy
 bordels
 bemartyr
 bushwalking
+basilysis
 bely
 barehead
 blowze
@@ -9032,7 +9033,6 @@ biogenetics
 bezetta
 backspace
 bohemias
-basilysis
 biogeographical
 bobo
 bentwoods

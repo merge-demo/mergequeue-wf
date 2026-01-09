@@ -13686,7 +13686,6 @@ cutlases
 concentus
 cereza
 crotonic
-ciliophora
 chagal
 cynareous
 cynaroid
@@ -15471,6 +15470,7 @@ clarifiant
 clarificant
 clarification
 clarifier
+ciliophora
 chiefry
 clarifying
 chlorothiazide
