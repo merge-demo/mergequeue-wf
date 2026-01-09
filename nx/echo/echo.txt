@@ -4126,6 +4126,7 @@ endosarc
 extent
 eyass
 epitonic
+experimentation
 encraty
 electrorefine
 emplecton
@@ -7877,7 +7878,6 @@ elixation
 epeirid
 extrabuccal
 exquisitive
-experimentation
 endosarcode
 epileny
 extinguised
