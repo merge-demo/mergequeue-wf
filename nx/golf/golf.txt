@@ -3827,6 +3827,7 @@ gristle
 gentian
 giantship
 garrafa
+gombroon
 gapping
 gastroesophagostomy
 goggle
@@ -8963,7 +8964,6 @@ gothicize
 gringole
 gras
 galeopithecus
-gombroon
 gagger
 grieko
 gecked
