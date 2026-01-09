@@ -2,7 +2,6 @@ gambit
 geogeny
 glibbest
 gees
-generalcy
 gaseliers
 groats
 gallowglass
@@ -6150,6 +6149,7 @@ geodynamic
 grisard
 grene
 glimmering
+generalcy
 gyre
 grommet
 garters
