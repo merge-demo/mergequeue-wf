@@ -1549,7 +1549,6 @@ discoglossid
 distractedly
 dallies
 dicacodyl
-dartman
 deactivates
 delphinium
 deducer
@@ -12169,6 +12168,7 @@ dramaturgy
 disturbant
 desulfuration
 discubitory
+dartman
 disexercise
 disfaith
 disfashion
