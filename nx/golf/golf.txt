@@ -6785,7 +6785,6 @@ gobbe
 gud
 glossospasm
 gaffsail
-galiot
 gavyuti
 ganglioside
 gossiping
@@ -9778,6 +9777,7 @@ grannom
 gelants
 gratiosolin
 gaelicism
+galiot
 gripe
 googolplex
 guying
