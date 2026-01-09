@@ -3429,6 +3429,7 @@ equivokes
 eremopteris
 egypt
 electrotechnics
+electrobiology
 embarge
 espier
 enteropneustal
@@ -9167,7 +9168,6 @@ elaphe
 embryons
 ernes
 erode
-electrobiology
 encephalocoele
 eosinophilic
 erodent
