@@ -2760,6 +2760,7 @@ gravitons
 gusle
 grith
 genit
+galvanograph
 geminal
 gnatho
 groundmass
@@ -4046,7 +4047,6 @@ gnomological
 gearksutite
 gonepoietic
 galliasses
-galvanograph
 geared
 ganglioneural
 gilbertian
