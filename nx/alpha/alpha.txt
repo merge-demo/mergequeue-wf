@@ -8488,7 +8488,6 @@ allantoin
 analyzer
 awfullest
 allantoinase
-ampullosity
 acetoxim
 albuminizing
 aphoria
@@ -21986,6 +21985,7 @@ automatonlike
 assumingly
 assummon
 assumptious
+ampullosity
 achondroplastic
 affing
 agad
