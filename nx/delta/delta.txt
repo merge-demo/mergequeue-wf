@@ -16731,7 +16731,6 @@ dryinid
 draught
 distal
 draughtboard
-daub
 draughtier
 divulsive
 decastylos
@@ -18397,6 +18396,7 @@ demilune
 drencher
 duopsonistic
 devota
+daub
 diatribist
 doke
 disenfranchising
