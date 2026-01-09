@@ -2831,6 +2831,7 @@ foozle
 flouter
 flatlets
 forestair
+fecundity
 fibrillose
 faeries
 ferlies
@@ -3446,7 +3447,6 @@ forswearer
 flaccidly
 firmisternial
 figgiest
-fecundity
 frayn
 fleeches
 fanfares
