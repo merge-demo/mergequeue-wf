@@ -1866,7 +1866,6 @@ bandala
 buggery
 battlepiece
 bollito
-bescribble
 bandeau
 betula
 bancus
@@ -4201,6 +4200,7 @@ beatifically
 beatification
 beglerbegship
 blacktop
+bescribble
 beatifies
 bouchees
 beatitude

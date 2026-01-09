@@ -3916,7 +3916,6 @@ extramolecular
 evendown
 eminent
 easternized
-esperance
 eminently
 enamored
 expressionless
@@ -12023,6 +12022,7 @@ eudaemonism
 exclusivistic
 exclusivity
 effluents
+esperance
 excogitated
 exterminatory
 endopericarditis
