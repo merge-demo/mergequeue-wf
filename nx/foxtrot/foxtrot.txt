@@ -616,7 +616,6 @@ floorless
 fellon
 foreknows
 forpet
-fossilisation
 forints
 feasted
 finders
@@ -3918,6 +3917,7 @@ furcating
 fogyism
 foxtongue
 feedbacks
+fossilisation
 floosy
 finew
 flutteration
