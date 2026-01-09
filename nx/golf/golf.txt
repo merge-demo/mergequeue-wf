@@ -1638,6 +1638,7 @@ grists
 grants
 gamobium
 grassworm
+gesticulation
 glossophytia
 gastroxynsis
 gummier
@@ -10236,7 +10237,6 @@ gratis
 glamouring
 gangrel
 girthed
-gesticulation
 geissospermin
 gentlefolks
 gainsays
