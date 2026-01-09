@@ -2270,7 +2270,6 @@ excitomuscular
 elevatory
 exocolitis
 effluve
-endarteria
 endoperitonitis
 endoplasma
 epiphyllospermous
@@ -3996,6 +3995,7 @@ empathetic
 egalite
 estamp
 equiform
+endarteria
 extramodal
 empatron
 extemporizes
