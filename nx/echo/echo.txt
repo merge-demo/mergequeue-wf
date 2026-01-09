@@ -8755,7 +8755,6 @@ ektexines
 equivoke
 emmergoose
 elaeocarpaceae
-entombing
 embryotrophic
 equivelocity
 encrotchet
@@ -10285,6 +10284,7 @@ entrust
 earlap
 embroiled
 everblooming
+entombing
 ethiodide
 excluded
 epilogist
