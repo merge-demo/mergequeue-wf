@@ -3818,7 +3818,6 @@ dukedom
 deinstitutionalization
 didactylism
 delphinic
-demagnetizable
 dubitative
 dolose
 discreate
@@ -17116,6 +17115,7 @@ drilling
 drees
 discourser
 drylots
+demagnetizable
 dystrophia
 dynamists
 drilvis
