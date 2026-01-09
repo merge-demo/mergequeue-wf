@@ -7240,7 +7240,6 @@ enterally
 eolian
 eolopiles
 enraptures
-emulsification
 exsector
 echoless
 electrocatalytic
@@ -13267,6 +13266,7 @@ explicate
 enterectomies
 experimented
 entomological
+emulsification
 equiliria
 execrable
 explicates
