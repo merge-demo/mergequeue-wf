@@ -4440,7 +4440,6 @@ beclogs
 bonspells
 bretonian
 bilabials
-beclothe
 banting
 bonasus
 breathtakingly
@@ -16443,6 +16442,7 @@ brushers
 burrish
 bewailable
 blueing
+beclothe
 brummagen
 baculitic
 brummy
