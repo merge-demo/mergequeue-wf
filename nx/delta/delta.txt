@@ -4739,6 +4739,7 @@ disbudding
 dpt
 dilated
 disannex
+diffeomorphism
 detours
 dismisser
 demodulating
@@ -8849,7 +8850,6 @@ dovens
 dibstone
 degustation
 depthwise
-diffeomorphism
 domiciliating
 duodenoscopy
 dicacity
