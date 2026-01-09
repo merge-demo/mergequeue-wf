@@ -4258,7 +4258,6 @@ beautihood
 berbamine
 blattariae
 barest
-burman
 burgonet
 beaverism
 bistoury
@@ -9789,6 +9788,7 @@ befriends
 breakages
 balaos
 bankbook
+burman
 backslapped
 besteer
 buildingless
