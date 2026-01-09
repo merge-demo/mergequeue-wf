@@ -588,6 +588,7 @@ gallicizer
 gomphrena
 gabfest
 gorilloid
+graptoloidea
 galempong
 garron
 gonna
@@ -6335,7 +6336,6 @@ goosenecked
 gemots
 gametal
 genarchaship
-graptoloidea
 goatsucker
 graplines
 gamic
