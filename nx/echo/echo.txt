@@ -3448,7 +3448,6 @@ encyclopedically
 evermo
 eavedropper
 embark
-embarkations
 epitomize
 embarks
 equipage
@@ -12537,6 +12536,7 @@ exculpative
 extoolitic
 enactable
 esonarthex
+embarkations
 eftest
 extant
 existlessness

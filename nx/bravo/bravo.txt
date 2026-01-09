@@ -3592,6 +3592,7 @@ banker
 boozer
 bibliomaniacal
 batholithic
+bisectrices
 balaamite
 butchers
 balconet
@@ -9645,7 +9646,6 @@ binary
 bicapsular
 bandlimits
 bisectors
-bisectrices
 blander
 busybodyness
 bisects
