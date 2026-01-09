@@ -8626,7 +8626,6 @@ faradisms
 flappiest
 farmyard
 foredid
-fittings
 figurately
 ferretto
 flamefishes
@@ -10810,6 +10809,7 @@ finitive
 fanned
 freinage
 factualistic
+fittings
 flue
 fubbery
 filamentoid
