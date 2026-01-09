@@ -1622,7 +1622,6 @@ geoff
 gobiesocidae
 gingili
 gleams
-gametogenesis
 glyptics
 gastralgy
 gaunted
@@ -3576,6 +3575,7 @@ grueller
 gentiin
 gagman
 gynandrous
+gametogenesis
 grouchier
 guarauno
 gregg
