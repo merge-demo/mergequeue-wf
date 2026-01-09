@@ -948,6 +948,7 @@ ferneries
 farinha
 flyleaf
 foundry
+flawedness
 fourchite
 fortunateness
 forms
@@ -5303,7 +5304,6 @@ fimbriate
 franchisal
 feelinglessly
 fibrilation
-flawedness
 flats
 flintworker
 frontingly
