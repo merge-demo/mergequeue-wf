@@ -703,7 +703,6 @@ badger
 breeches
 backyard
 badgerer
-booking
 banana
 bevined
 balada
@@ -5406,6 +5405,7 @@ begrimmed
 bot
 brachycardia
 biweekly
+booking
 berglet
 begrown
 bakli
