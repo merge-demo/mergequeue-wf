@@ -2732,7 +2732,6 @@ electiveness
 enchodontid
 exogastritis
 electrotype
-entosphenoid
 electrotypy
 enolase
 earwigged
@@ -12878,6 +12877,7 @@ expandedly
 engrace
 excommunicating
 elvish
+entosphenoid
 eserines
 extorting
 erastus
