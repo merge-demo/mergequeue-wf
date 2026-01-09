@@ -10907,7 +10907,6 @@ fullish
 foeman
 fulgurated
 fosie
-forgathers
 finished
 fractural
 ferris
@@ -11069,6 +11068,7 @@ feldspathose
 fangless
 flycatcher
 frictionizing
+forgathers
 funambulatory
 funambule
 fondaco
