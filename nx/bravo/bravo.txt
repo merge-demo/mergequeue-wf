@@ -6311,6 +6311,7 @@ benu
 benumbed
 benumbs
 ballplayers
+birdglue
 besodden
 boottopping
 brigalow
@@ -9421,7 +9422,6 @@ barfy
 bromopikrin
 britannia
 beflowering
-birdglue
 bilgiest
 battlewagon
 bisulfid
