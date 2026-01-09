@@ -4795,7 +4795,6 @@ fissurellidae
 feuillants
 fortunetelling
 feltmonger
-fabricative
 freshened
 fluobromide
 flaggy
@@ -5472,6 +5471,7 @@ filterable
 flexuosely
 floatative
 fopship
+fabricative
 flexible
 foggy
 faradises
