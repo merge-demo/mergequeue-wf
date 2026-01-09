@@ -6303,7 +6303,6 @@ bulgar
 benthoses
 bacteriolysin
 backwashes
-blockhouses
 berrendo
 bentonite
 bents
@@ -17463,6 +17462,7 @@ beard
 burler
 balsawood
 birdnester
+blockhouses
 brocage
 bunkie
 bandwork
