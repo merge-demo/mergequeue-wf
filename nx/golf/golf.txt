@@ -5323,6 +5323,7 @@ gasify
 guttus
 glycyrrhizin
 gimps
+gorgonising
 glycogenolytic
 gammaroid
 germans
@@ -8206,7 +8207,6 @@ gnatsnap
 gasolier
 goatling
 granulet
-gorgonising
 gemsboks
 gallies
 granulization
