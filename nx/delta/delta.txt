@@ -6661,7 +6661,6 @@ diversly
 dactylis
 dodecasyllabic
 disengages
-dioptres
 diminutely
 defoliation
 desesperance
@@ -15181,6 +15180,7 @@ dulcian
 dolci
 dolciano
 dardaol
+dioptres
 dolcino
 dididae
 discloak
