@@ -7544,7 +7544,6 @@ blubbered
 bestowage
 beveil
 bolographically
-bevelled
 bardism
 baseband
 belayer
@@ -8259,6 +8258,7 @@ bifocal
 balanocele
 bowerbird
 blinded
+bevelled
 berith
 bb
 bobstay
