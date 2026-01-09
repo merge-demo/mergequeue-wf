@@ -17147,6 +17147,7 @@ cohesive
 ctenophoric
 copiable
 coadjudicator
+correlation
 coadjutant
 covotary
 commonweal
@@ -27230,7 +27231,6 @@ countervindication
 countervolley
 chymiferous
 countervote
-correlation
 counterwager
 catchiness
 cervicaprine
