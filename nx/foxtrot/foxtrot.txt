@@ -3563,7 +3563,6 @@ forspoken
 feddan
 fussle
 flether
-fairbanks
 fourniture
 flank
 filers
@@ -4846,6 +4845,7 @@ footfall
 fustigate
 floor
 frondose
+fairbanks
 fickleness
 flatuosity
 fooless
