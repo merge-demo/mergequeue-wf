@@ -5163,7 +5163,6 @@ goblinesque
 gutturine
 goldenmouthed
 gentlehearted
-goldylocks
 gyps
 glaucophanite
 goldcrest
@@ -5771,6 +5770,7 @@ gangways
 gypsumed
 goofiest
 garlicky
+goldylocks
 granitical
 gumhar
 goony
