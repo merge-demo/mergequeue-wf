@@ -2665,7 +2665,6 @@ decompensating
 decenniad
 dasylirion
 doorkeeper
-decompiler
 decomposable
 diceman
 deviceful
@@ -14417,6 +14416,7 @@ dipolsphene
 depaint
 doley
 demicadence
+decompiler
 divans
 debatably
 distributivity
