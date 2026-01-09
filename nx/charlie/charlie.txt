@@ -9280,7 +9280,6 @@ cometarium
 chattelhood
 constructiveness
 chattelism
-chattelizing
 crassis
 chattels
 calamities
@@ -15565,6 +15564,7 @@ coplanarity
 classbook
 classed
 cyclicism
+chattelizing
 classfellow
 classy
 crossbolted
