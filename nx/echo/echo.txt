@@ -3589,7 +3589,6 @@ estriols
 ethane
 enfoeffment
 exothermic
-exanthematous
 ergographic
 eglandulous
 entozoon
@@ -9700,6 +9699,7 @@ epistomata
 erethism
 envapor
 encephalomas
+exanthematous
 essayed
 extraorganismal
 electable
