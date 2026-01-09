@@ -9813,7 +9813,6 @@ brocades
 bewonder
 breccia
 burdocks
-basifugal
 buffered
 bistipulate
 bistort
@@ -12676,6 +12675,7 @@ bookbind
 boruca
 bronchocele
 beatniks
+basifugal
 bagels
 baguets
 bulged
