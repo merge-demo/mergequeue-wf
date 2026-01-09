@@ -5407,7 +5407,6 @@ glimmer
 groundswell
 generall
 glucosid
-gutwise
 glycaemic
 grimmer
 galopade
@@ -5698,6 +5697,7 @@ glossemic
 galactolytic
 gesundheit
 gomavel
+gutwise
 glossies
 gybed
 gingers
