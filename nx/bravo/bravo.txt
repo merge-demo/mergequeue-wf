@@ -9391,6 +9391,7 @@ birdbander
 blockholer
 beggaries
 belgian
+balkanization
 bespeed
 bistros
 breweries
@@ -17181,7 +17182,6 @@ bezaleel
 bombards
 brushmaking
 bullion
-balkanization
 bullyrag
 bullyragger
 booklice
