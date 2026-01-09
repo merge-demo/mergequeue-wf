@@ -2429,6 +2429,7 @@ gilo
 gunrooms
 gemmating
 gemmer
+goliards
 gumphion
 gloppy
 grow
@@ -2519,7 +2520,6 @@ glossier
 gaucher
 golds
 gribbles
-goliards
 gatepost
 geyan
 gastroalbuminorrhea
