@@ -3416,6 +3416,7 @@ gessamine
 gonfanons
 gluside
 gibbar
+genotype
 guttiferal
 gundelet
 guides
@@ -7467,7 +7468,6 @@ grampuses
 gabelleman
 glamorizer
 grangerized
-genotype
 greats
 gladstonianism
 galactoscope
