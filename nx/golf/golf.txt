@@ -4280,6 +4280,7 @@ gilty
 goblets
 gammoned
 gynarchic
+gipsydom
 gazella
 geumatophobia
 gradometer
@@ -4499,7 +4500,6 @@ graves
 generaliter
 greffier
 glamberry
-gipsydom
 giddyhead
 gugu
 gypsyfy
