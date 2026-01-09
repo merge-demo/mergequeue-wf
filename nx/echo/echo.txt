@@ -2454,6 +2454,7 @@ empeople
 entophytal
 espinel
 electrogenetic
+ethereous
 euphausid
 earthnut
 excorticating
@@ -11507,7 +11508,6 @@ etherializing
 eleocharis
 evidence
 earned
-ethereous
 eschscholtzia
 ethonomic
 eutechnics
