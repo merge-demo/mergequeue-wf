@@ -5589,7 +5589,6 @@ gumming
 gripless
 glaieul
 geochemist
-gaetuli
 geophysical
 gefilte
 gownlet
@@ -6079,6 +6078,7 @@ gleamingly
 grisset
 gadroons
 grume
+gaetuli
 gonococcoid
 gnaws
 gramineous
