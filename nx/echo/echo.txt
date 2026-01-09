@@ -647,7 +647,6 @@ expunges
 emerald
 eclamptic
 externs
-epizoites
 ecstatics
 etymonic
 ellipses
@@ -3480,6 +3479,7 @@ ennuyant
 egads
 ecalcavate
 encolour
+epizoites
 errand
 exolete
 exothecate
