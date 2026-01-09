@@ -4592,6 +4592,7 @@ audiovisuals
 advoteresse
 anastrophe
 apish
+ardour
 advt
 aurigal
 anetholes
@@ -6681,7 +6682,6 @@ agglutination
 atrioporal
 ainus
 antemetic
-ardour
 atole
 agribusiness
 antiglare
