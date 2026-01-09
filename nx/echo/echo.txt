@@ -4492,6 +4492,7 @@ entozoology
 endolabyrinthitis
 extracondensed
 euonymin
+ectoblast
 encephalomyelopathy
 encenter
 eskar
@@ -12943,7 +12944,6 @@ esses
 embracery
 erigible
 expatriate
-ectoblast
 earle
 emboites
 expatriatism
