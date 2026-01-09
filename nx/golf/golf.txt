@@ -498,7 +498,6 @@ gnomes
 geomorphology
 galabiya
 gisement
-gaoloring
 glossocoma
 gratuity
 gamekeepers
@@ -7994,6 +7993,7 @@ gametogonium
 gyniolatry
 gloucester
 gulas
+gaoloring
 grandfathers
 gangster
 galvanotaxis

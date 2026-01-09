@@ -4120,7 +4120,6 @@ beelbow
 birches
 beardfishes
 beswarms
-botulinum
 beardy
 blanchimeter
 bearding
@@ -13770,6 +13769,7 @@ buchanan
 bourtree
 bombination
 barrenly
+botulinum
 betallow
 bookplate
 biplosive
