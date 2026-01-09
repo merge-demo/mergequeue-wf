@@ -2652,7 +2652,6 @@ gruesomest
 gametophyte
 grendel
 geraty
-geomorphist
 gunners
 gramma
 gonocalyx
@@ -10364,6 +10363,7 @@ gules
 greet
 gonoph
 grot
+geomorphist
 glebal
 guarana
 gaums
