@@ -6397,7 +6397,6 @@ belgium
 benzoglyoxaline
 bastioned
 benzohydrol
-benzoylated
 becuna
 blankness
 benzoylation
@@ -12185,6 +12184,7 @@ baedekers
 bonesets
 baalshem
 bever
+benzoylated
 burbots
 bolty
 boldo
