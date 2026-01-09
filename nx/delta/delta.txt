@@ -1728,6 +1728,7 @@ dearness
 deaspirate
 decostate
 deaspiration
+dooryards
 ddname
 dihely
 depersonalization
@@ -2461,7 +2462,6 @@ drydenian
 disple
 diaeresis
 decipherability
-dooryards
 dand
 doctrinarily
 deucing

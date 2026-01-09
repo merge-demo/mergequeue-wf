@@ -4065,7 +4065,6 @@ corder
 coniopterygidae
 cardamine
 catarrhinian
-covido
 cephalotaceous
 cowpox
 catechism
@@ -5222,6 +5221,7 @@ cashou
 castory
 casimir
 cartes
+covido
 cavities
 casimire
 casimiroa
