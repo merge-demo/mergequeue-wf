@@ -1522,6 +1522,7 @@ gorlin
 grote
 grasseye
 genapping
+geological
 geratology
 gasman
 gasbags
@@ -2308,7 +2309,6 @@ gumihan
 gestant
 grosse
 gripmen
-geological
 goas
 galaxy
 grallatorial
