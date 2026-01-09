@@ -2042,7 +2042,6 @@ bethought
 banky
 bailiaries
 banknote
-bristly
 bookseller
 biophysicist
 banknotes
@@ -10965,6 +10964,7 @@ bombers
 bookful
 blindstories
 brede
+bristly
 blindweed
 blindworm
 backscratcher
