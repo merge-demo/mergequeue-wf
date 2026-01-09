@@ -4610,7 +4610,6 @@ glossoid
 gatekeep
 girlery
 girlishly
-glink
 goodheartedness
 giornata
 guarantees
@@ -5505,6 +5504,7 @@ goodyera
 gutium
 glossoptosis
 goldilocks
+glink
 glisten
 guttering
 glimmery
