@@ -4070,7 +4070,6 @@ cephalotaceous
 cowpox
 catechism
 cardamom
-countour
 cicatrise
 cardamon
 centenary
@@ -12738,6 +12737,7 @@ compellation
 chufas
 cinenchymatous
 crinite
+countour
 catakinesis
 concede
 catafalques
