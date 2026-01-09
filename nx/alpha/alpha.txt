@@ -2056,6 +2056,7 @@ antiputrefactive
 anammonid
 altitudinal
 acheiria
+antiprohibition
 aboveboard
 apologised
 achenes
@@ -23970,7 +23971,6 @@ anthropoidea
 antitypy
 apologiser
 aminolysis
-antiprohibition
 archipelagos
 autoboating
 autobuses
