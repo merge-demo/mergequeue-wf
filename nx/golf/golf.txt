@@ -6640,6 +6640,7 @@ galanga
 gruntingly
 gombo
 glassine
+gamari
 gaed
 goncalo
 globulysis
@@ -9470,7 +9471,6 @@ goto
 gingivoglossitis
 gramps
 gingerliness
-gamari
 glycollide
 galleta
 gabionage
