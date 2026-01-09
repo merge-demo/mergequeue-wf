@@ -12782,7 +12782,6 @@ aeroscopically
 angle
 arenarious
 annalism
-argenol
 adeeming
 apostil
 anglehook
@@ -20581,6 +20580,7 @@ aristotelian
 alkoxy
 assimilations
 administerings
+argenol
 amniote
 androgonium
 arthrodirous
