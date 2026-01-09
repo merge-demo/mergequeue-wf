@@ -2447,6 +2447,7 @@ frenchless
 filiation
 fervour
 favonian
+forspeak
 folksiest
 fernandinite
 fluitant
@@ -7715,7 +7716,6 @@ foreturn
 flotter
 farreation
 furriness
-forspeak
 forehoofs
 forehooves
 forpit

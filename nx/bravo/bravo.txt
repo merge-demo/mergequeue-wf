@@ -5896,6 +5896,7 @@ bleater
 bellwort
 belock
 basimesostasis
+beigy
 boatsmanship
 belomancy
 belonephobia
@@ -15930,7 +15931,6 @@ bromelins
 bearings
 banbury
 blackguardry
-beigy
 batler
 bryozoa
 biphasic
