@@ -10065,6 +10065,7 @@ complier
 cheselip
 coxocerite
 cyclogram
+commands
 cheskey
 campine
 cheslep
@@ -24213,7 +24214,6 @@ concertantes
 colleterial
 compost
 cunning
-commands
 convocations
 convocative
 convocator
