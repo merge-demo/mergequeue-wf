@@ -3285,7 +3285,6 @@ foreconscious
 facewise
 ferrohydrocyanic
 fossilologist
-folklorist
 featherlessness
 frustrates
 fioritura
@@ -5723,6 +5722,7 @@ flingy
 funded
 fiddlestring
 fishwife
+folklorist
 flinkite
 fancier
 fluffer
