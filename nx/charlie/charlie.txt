@@ -11256,7 +11256,6 @@ chlorimeter
 coped
 chlorimetric
 chlorinated
-chlorinating
 chimers
 curly
 chlorination
@@ -29057,6 +29056,7 @@ colletarium
 cuboid
 criminous
 conscribed
+chlorinating
 criminously
 criminousness
 crimmer
