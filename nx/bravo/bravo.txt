@@ -5435,7 +5435,6 @@ behammer
 bacula
 beshine
 boarstaff
-behaved
 bronchium
 bicollateral
 behaving
@@ -8254,6 +8253,7 @@ borrow
 bifluoride
 bifocal
 balanocele
+behaved
 bowerbird
 blinded
 bevelled
