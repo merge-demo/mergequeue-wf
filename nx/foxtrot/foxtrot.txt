@@ -6401,6 +6401,7 @@ foppy
 flatlings
 fricandel
 farcin
+formularizer
 flagpole
 fluocerine
 fren
@@ -10013,7 +10014,6 @@ fragment
 flueman
 falsism
 flatulences
-formularizer
 forcers
 frigolabile
 fucaceous
