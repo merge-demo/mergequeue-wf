@@ -5111,6 +5111,7 @@ fuss
 flagellum
 fandoms
 flanders
+fernseed
 felter
 fas
 flawful
@@ -7588,7 +7589,6 @@ fructokinase
 funebrial
 formers
 fragor
-fernseed
 foreclosure
 fevering
 ferruler
