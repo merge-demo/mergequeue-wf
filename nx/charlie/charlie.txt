@@ -8664,6 +8664,7 @@ centeredness
 channelize
 crumber
 corresponder
+courbe
 coparcener
 celosias
 cardiae
@@ -27344,7 +27345,6 @@ chinoiserie
 courap
 couratari
 courbaril
-courbe
 centimos
 chemistries
 courbette
