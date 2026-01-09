@@ -775,7 +775,6 @@ foulage
 flybelt
 frozenness
 figurines
-flanges
 fluxions
 fancied
 frazzled
@@ -8471,6 +8470,7 @@ ferritic
 featherfew
 filmsetter
 feasibilities
+flanges
 fortin
 frondesce
 factorized
