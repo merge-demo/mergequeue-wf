@@ -2067,7 +2067,6 @@ gutterize
 gavels
 gloriana
 gavia
-gio
 grapheme
 gaynesses
 girsh
@@ -3246,6 +3245,7 @@ gallomania
 gunung
 gaudiness
 getup
+gio
 genetous
 golilla
 grievants
