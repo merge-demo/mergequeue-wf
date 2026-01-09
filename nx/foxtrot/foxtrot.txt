@@ -864,6 +864,7 @@ forebows
 free
 floutingly
 fragilities
+fermage
 fantasying
 falterer
 forthbrought
@@ -11347,7 +11348,6 @@ fallacy
 formalith
 fulvene
 fertilisational
-fermage
 furlan
 feateous
 foreglimpsed
