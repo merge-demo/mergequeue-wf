@@ -8931,7 +8931,6 @@ eteoclus
 endosmotically
 elseways
 ericales
-epicanthi
 endeavors
 enisle
 exteroceptive
@@ -11062,6 +11061,7 @@ endotrophic
 epigonichthys
 endosarcs
 enterrologist
+epicanthi
 establish
 epigastriocele
 egoism
