@@ -40,7 +40,6 @@ cherrystones
 ceticide
 cocozelle
 cluck
-caballero
 caballo
 caballos
 carbodiimide
@@ -26899,6 +26898,7 @@ counterimpulse
 counterindented
 counterindication
 circumjacencies
+caballero
 countermining
 counterinfluence
 counterinterest
