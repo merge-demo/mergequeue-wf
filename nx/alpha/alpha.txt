@@ -1126,7 +1126,6 @@ albuminous
 abience
 acacias
 apparitions
-adjuratory
 appere
 acalephae
 autoschediastical
@@ -5613,6 +5612,7 @@ asphalts
 armpiece
 acanthite
 againsay
+adjuratory
 against
 avellano
 ancillae
