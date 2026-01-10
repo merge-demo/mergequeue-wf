@@ -2891,7 +2891,6 @@ gratifier
 galactia
 guachipilin
 guser
-gullish
 gravedo
 genuflects
 genappe
@@ -4567,6 +4566,7 @@ gills
 graminiform
 ghostfishes
 gladdy
+gullish
 grit
 gigantomachia
 graduate
