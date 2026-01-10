@@ -1752,7 +1752,6 @@ encephaloid
 endangium
 exsanguination
 enginery
-engrammatic
 exasper
 exclaimers
 exonerated
@@ -4924,6 +4923,7 @@ endangitis
 expertised
 enfile
 endarteteria
+engrammatic
 eupterotidae
 endaspidean
 emusify
