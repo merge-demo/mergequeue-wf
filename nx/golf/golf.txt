@@ -1627,7 +1627,6 @@ gadget
 geoff
 gobiesocidae
 gingili
-gleams
 glyptics
 gastralgy
 gaunted
@@ -6656,6 +6655,7 @@ gambusias
 gunnysack
 guidons
 glasseye
+gleams
 gauffering
 guffs
 gangliform
