@@ -1955,6 +1955,7 @@ acetylperoxide
 acetylphenylhydrazine
 aslope
 affinite
+ammeter
 acetylphenol
 agogic
 acetyls
@@ -10679,7 +10680,6 @@ apothecary
 ammer
 amuletic
 adductor
-ammeter
 ammeters
 amplexuses
 alboin

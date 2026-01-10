@@ -4094,7 +4094,6 @@ falsehoods
 fergus
 fornenst
 faff
-fontanel
 flywheel
 feasances
 fersmite
@@ -5304,6 +5303,7 @@ ferricyanate
 franchisal
 feelinglessly
 fibrilation
+fontanel
 flats
 flintworker
 frontingly
