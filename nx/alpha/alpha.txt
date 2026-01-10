@@ -2043,7 +2043,6 @@ apatheia
 antimatrimonialist
 alopiidae
 acharne
-afrikander
 acharnement
 achatinidae
 ache
@@ -18785,6 +18784,7 @@ angioneoplasm
 apraxia
 apotheosising
 archeocyte
+afrikander
 ampelotherapy
 archeolithic
 anastomose
