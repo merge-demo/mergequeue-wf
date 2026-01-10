@@ -88,6 +88,7 @@ bandeaux
 babels
 belinda
 botrytis
+blinking
 bulwarks
 bepastured
 baldachins
@@ -5821,7 +5822,6 @@ bellyached
 bismethyl
 bellyaches
 becriming
-blinking
 billowiness
 bracozzo
 bellyaching
