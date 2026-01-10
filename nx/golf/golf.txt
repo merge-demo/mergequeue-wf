@@ -9300,7 +9300,6 @@ graininess
 glowworm
 guts
 gaugeably
-glabreity
 graver
 groaned
 ghosts
@@ -10314,6 +10313,7 @@ gulpier
 galactosidase
 girasol
 gault
+glabreity
 granulations
 guinfo
 getsul
