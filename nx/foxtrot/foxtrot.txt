@@ -2129,7 +2129,6 @@ flaws
 fumette
 fameful
 famously
-faroeish
 fires
 fornical
 furrows
@@ -11683,6 +11682,7 @@ footglove
 flatfoot
 fagaceous
 faced
+faroeish
 fanlights
 furil
 flocculable
