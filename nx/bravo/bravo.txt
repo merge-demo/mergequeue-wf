@@ -1676,6 +1676,7 @@ ballsiest
 bengali
 befur
 ballstock
+bivoltine
 ballup
 ballweed
 buglers
@@ -12216,7 +12217,6 @@ buddhahood
 bump
 bloomkin
 bolero
-bivoltine
 bewormed
 barbarianism
 broche
