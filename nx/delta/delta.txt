@@ -8572,7 +8572,6 @@ dimatis
 demonship
 dimercury
 diaphtherin
-durative
 demihake
 digressionary
 devourer
@@ -11429,6 +11428,7 @@ disquieten
 dyspnoi
 disciplinarily
 dominial
+durative
 darkled
 disciplinate
 distorter
