@@ -4152,6 +4152,7 @@ dretch
 degree
 dextrorotatary
 denigrators
+diphenyl
 discharger
 deloo
 deloul
@@ -9879,7 +9880,6 @@ dace
 dimensioning
 dimensum
 disangularize
-diphenyl
 dimer
 decadency
 deludable
