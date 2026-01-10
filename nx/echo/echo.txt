@@ -5896,7 +5896,6 @@ episcopalian
 encushion
 excessman
 enhaemospore
-epiplastron
 epidotic
 execrators
 exaggerativeness
@@ -7747,6 +7746,7 @@ explorator
 epiblemata
 exostra
 epiproct
+epiplastron
 eupatridae
 electrologists
 epifaunae
