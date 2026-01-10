@@ -4032,7 +4032,6 @@ entomoid
 explantation
 endhand
 emendatory
-episporium
 empyemic
 empiercement
 efforce
@@ -9610,6 +9609,7 @@ exor
 elaboratively
 endodermal
 entfaoilff
+episporium
 elaeoblastic
 epiphenomenalism
 esoterist
