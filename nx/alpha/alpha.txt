@@ -12130,6 +12130,7 @@ aegirite
 anaxone
 anchorlike
 antiphonic
+apsis
 autodials
 actinodermatitis
 anchoret
@@ -22478,7 +22479,6 @@ agronomical
 aprendiz
 abbreviature
 astutious
-apsis
 achime
 asudden
 acetotoluide
