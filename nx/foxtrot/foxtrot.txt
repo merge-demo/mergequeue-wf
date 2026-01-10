@@ -5107,7 +5107,6 @@ fuligo
 fundless
 fumettes
 frsikets
-flareback
 fletching
 furnishness
 flossa
@@ -5773,6 +5772,7 @@ fundament
 floodwater
 flippancies
 freshness
+flareback
 flavorfulness
 ferrary
 fetor
