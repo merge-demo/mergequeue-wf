@@ -11938,7 +11938,6 @@ cephalon
 choreographed
 choreographer
 cypseloid
-choreographers
 choreographic
 chuzwi
 choreographically
@@ -29046,6 +29045,7 @@ criminologic
 criminological
 criminologically
 condylarthrosis
+choreographers
 congous
 cenatory
 criminologies
