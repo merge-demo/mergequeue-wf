@@ -1100,7 +1100,6 @@ gowdy
 goularo
 gainbirth
 galilees
-glossaries
 ganister
 giroflore
 groat
@@ -8863,6 +8862,7 @@ guatemalans
 gunne
 gadabout
 girrit
+glossaries
 grandparenthood
 gardenlike
 girsle
