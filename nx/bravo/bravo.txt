@@ -13052,7 +13052,6 @@ bloomers
 bombazine
 balanid
 borean
-boracite
 bullfighters
 bisulphite
 blister
@@ -13117,6 +13116,7 @@ bedrop
 boe
 braggartry
 baud
+boracite
 blurrer
 bowdlerise
 bulder
