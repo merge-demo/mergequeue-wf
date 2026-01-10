@@ -4269,7 +4269,6 @@ bacillariales
 beaverkin
 bosnian
 beaverskin
-bishophood
 beaverteen
 braidings
 bebay
@@ -15860,6 +15859,7 @@ beshame
 baldness
 broiling
 brokage
+bishophood
 bulletin
 broke
 burnup
