@@ -9559,6 +9559,7 @@ frappes
 figurers
 floppiness
 fattrels
+frypan
 faithworthy
 footling
 finiteness
@@ -11369,7 +11370,6 @@ fluencies
 fremescence
 frothless
 foreprovision
-frypan
 footways
 foister
 fibropolypus
