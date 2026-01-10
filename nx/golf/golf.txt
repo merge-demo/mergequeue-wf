@@ -1743,7 +1743,6 @@ gnarrs
 gammon
 glibber
 gave
-gloeal
 goric
 glass
 galravage
@@ -3290,6 +3289,7 @@ glom
 gynecologists
 generalizes
 gerasene
+gloeal
 gladatorial
 gyred
 gutti
