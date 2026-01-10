@@ -7214,7 +7214,6 @@ enzootics
 escheve
 entophytous
 electrophilically
-endosomes
 encase
 ectomeres
 edwards
@@ -9613,6 +9612,7 @@ esoterize
 esp
 eventless
 espada
+endosomes
 esurine
 estivated
 espadon
