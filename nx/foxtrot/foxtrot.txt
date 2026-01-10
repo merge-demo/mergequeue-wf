@@ -709,6 +709,7 @@ fobs
 falcinellus
 frogface
 firebolted
+fimetic
 fumigatorium
 fatigated
 farmstead
@@ -2158,7 +2159,6 @@ formulae
 fractocumulus
 fadme
 flashet
-fimetic
 feltmaker
 furtum
 fiducia
