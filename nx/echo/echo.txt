@@ -3124,7 +3124,6 @@ emp
 elliot
 educationable
 ergatocracy
-expropriates
 ellipsograph
 esemplastic
 extemporize
@@ -6527,6 +6526,7 @@ elaphodus
 endurant
 ended
 entangled
+expropriates
 entangledness
 endotrachelitis
 escutcheoned
