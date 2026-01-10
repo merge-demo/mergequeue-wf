@@ -507,7 +507,6 @@ fullonian
 ferroprussiate
 fumble
 fanciers
-foreclosures
 fleetful
 fuseau
 fakeer
@@ -2166,6 +2165,7 @@ fiducia
 fab
 fratercula
 farmhouse
+foreclosures
 fumulus
 farinometer
 felts

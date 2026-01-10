@@ -3990,6 +3990,7 @@ gutser
 garote
 gatchwork
 galagos
+gnarls
 gigge
 gelatinated
 gallegan
@@ -6014,7 +6015,6 @@ gourdes
 gnarliest
 gnarliness
 grassiness
-gnarls
 gaidropsaridae
 glucokinase
 gnetaceae
