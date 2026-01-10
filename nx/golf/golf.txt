@@ -2567,7 +2567,6 @@ generalise
 gastropathy
 guardroom
 graciously
-glorifying
 gallfly
 gael
 geothermal
@@ -9567,6 +9566,7 @@ grimp
 gallberry
 granting
 gaspingly
+glorifying
 glycogenase
 guiltiness
 gentilitious
