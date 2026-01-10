@@ -5287,6 +5287,7 @@ flavourful
 fieldy
 flavourless
 fideicommissa
+ferreling
 frostbird
 footstall
 firman
@@ -11267,7 +11268,6 @@ frontispieces
 fucivorous
 flit
 flakeless
-ferreling
 famble
 faciest
 framing
