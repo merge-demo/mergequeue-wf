@@ -6764,7 +6764,6 @@ fconv
 fomalhaut
 folliculin
 frigoric
-fanny
 fuchsinophil
 featherbed
 foreweep
@@ -7082,6 +7081,7 @@ feases
 fermentum
 forefit
 forebodings
+fanny
 fons
 fauxbourdon
 ferrum
