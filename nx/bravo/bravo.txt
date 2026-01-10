@@ -2695,7 +2695,6 @@ baetylus
 barnabas
 bales
 barnaby
-bilinguist
 bleareye
 bluebreast
 besnivel
@@ -4730,6 +4729,7 @@ brides
 bunce
 bragger
 busywork
+bilinguist
 bedims
 britannian
 basiophitic
