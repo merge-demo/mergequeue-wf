@@ -8569,7 +8569,6 @@ annunciatory
 allegorizer
 anomuran
 allegorizing
-aeolic
 angulosity
 allegresse
 ambary
@@ -17741,6 +17740,7 @@ afterdischarge
 allegorized
 alcibiadean
 abacterial
+aeolic
 acettoluide
 acrocera
 autocab
