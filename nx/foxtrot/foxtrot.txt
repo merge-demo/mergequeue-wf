@@ -3173,6 +3173,7 @@ fauns
 fitched
 ficaries
 flouse
+foxite
 fices
 flagitate
 fesels
@@ -5677,7 +5678,6 @@ fuddle
 flitted
 floggers
 fulgurata
-foxite
 feoffing
 firetop
 flimflams
