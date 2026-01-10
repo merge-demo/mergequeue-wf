@@ -5921,7 +5921,6 @@ found
 freet
 forestian
 fowlers
-fixedly
 flocced
 frustulose
 film
@@ -8774,6 +8773,7 @@ fiddlers
 forwardal
 fermentability
 fadable
+fixedly
 forethought
 frenzic
 fleshiness
