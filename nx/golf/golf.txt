@@ -6143,7 +6143,6 @@ glue
 gnow
 guttulous
 geese
-gatefolds
 gumflower
 gipsywort
 glavered
@@ -9006,6 +9005,7 @@ gumbolike
 glaucopis
 grievable
 grievance
+gatefolds
 grievous
 gearbox
 galingale
