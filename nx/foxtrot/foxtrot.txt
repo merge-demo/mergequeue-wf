@@ -1110,6 +1110,7 @@ freakily
 farruca
 farseer
 frenchwoman
+firerooms
 frondescence
 foughten
 farsighted
@@ -6848,7 +6849,6 @@ fasola
 funbre
 fungin
 fermenting
-firerooms
 foredated
 forewonted
 freelancer

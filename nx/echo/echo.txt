@@ -4252,6 +4252,7 @@ endungeon
 enterochlorophyll
 eosinophilous
 eerie
+endoperidium
 empirically
 epicurism
 euascomycetes
@@ -5218,7 +5219,6 @@ etiotropically
 endopathic
 endopelvic
 encyclopaedist
-endoperidium
 epoptes
 endophagous
 episiocele
