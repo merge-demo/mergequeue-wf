@@ -901,6 +901,7 @@ belowdecks
 bunions
 bookland
 boskets
+bemisted
 bdellotomy
 bowstaff
 bagpipers
@@ -13383,7 +13384,6 @@ bepowder
 botanizes
 bulbless
 becreep
-bemisted
 balsamed
 bacterially
 bemat
