@@ -7131,7 +7131,6 @@ gopherberry
 guernsey
 golgi
 gopherberries
-goatherd
 gothics
 getting
 gatter
@@ -10649,6 +10648,7 @@ greenly
 gossipries
 gyroceracone
 gaylies
+goatherd
 galbulus
 gerontologies
 grantor
