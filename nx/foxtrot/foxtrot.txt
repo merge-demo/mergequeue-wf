@@ -1391,6 +1391,7 @@ figitidae
 freezer
 foodlessness
 fatsia
+frequency
 formy
 fancying
 fermiums
@@ -6255,7 +6256,6 @@ flysches
 forethoughtfulness
 facsimiles
 foretops
-frequency
 flagmaker
 furbished
 fibroareolar
