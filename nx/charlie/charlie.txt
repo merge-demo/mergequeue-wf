@@ -10131,6 +10131,7 @@ chevalier
 cystencyte
 chevaliers
 chippewa
+cotransduction
 categorizers
 compagnie
 chevener
@@ -26461,7 +26462,6 @@ chorography
 crowbars
 calli
 cotqueans
-cotransduction
 cotransfuse
 campanologist
 cotranslator
