@@ -7543,7 +7543,6 @@ gloomfully
 glossopharyngeal
 glitch
 guessable
-giggled
 glottalized
 galliots
 grommets
@@ -10400,6 +10399,7 @@ gratification
 garbanzos
 gyri
 giambeux
+giggled
 gonyalgia
 gelatiniser
 gutta
