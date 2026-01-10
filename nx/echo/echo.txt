@@ -9652,7 +9652,6 @@ electrocoagulation
 escrows
 enkindles
 electrogalvanic
-enters
 epilogize
 excitable
 ensearcher
@@ -13338,6 +13337,7 @@ enukki
 exponency
 excisemanship
 extrared
+enters
 educated
 empexa
 exponentiates
