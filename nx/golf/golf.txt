@@ -754,6 +754,7 @@ galvanoglyph
 gar
 goniometric
 gossypin
+golem
 gnawer
 gasted
 gustfulness
@@ -9059,7 +9060,6 @@ groomer
 grillee
 gossipers
 gatehouse
-golem
 gigged
 groceress
 granatum
