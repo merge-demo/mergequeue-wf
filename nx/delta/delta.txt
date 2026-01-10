@@ -8078,6 +8078,7 @@ diabetes
 debeaker
 duodial
 dentex
+desugared
 developpes
 deciliters
 distributions
@@ -10827,7 +10828,6 @@ deviates
 departing
 directors
 directorships
-desugared
 dysphrasia
 dapples
 devex
