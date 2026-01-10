@@ -5303,7 +5303,6 @@ ducks
 distincter
 dialkylamine
 distitle
-defiant
 dentalium
 dolor
 dentatoserrate
@@ -11618,6 +11617,7 @@ denotable
 dollarfish
 detainee
 devillike
+defiant
 dithering
 discerpibility
 disconsolately

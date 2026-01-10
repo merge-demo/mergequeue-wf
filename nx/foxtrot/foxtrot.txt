@@ -6024,6 +6024,7 @@ fathead
 fainaigued
 favism
 firkin
+flatboat
 farina
 fawn
 footscald
@@ -6531,7 +6532,6 @@ funambulation
 foulness
 fictor
 fissilingual
-flatboat
 frosted
 flourlike
 fortes
