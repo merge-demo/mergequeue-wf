@@ -4600,6 +4600,7 @@ genderless
 girellidae
 greenhorns
 gravicembalo
+globeflower
 greenness
 gutturalized
 gilim
@@ -7598,7 +7599,6 @@ gowked
 grein
 gorsebird
 gambet
-globeflower
 glucolysis
 gruntle
 gallingness
