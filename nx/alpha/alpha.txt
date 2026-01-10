@@ -2950,6 +2950,7 @@ acting
 actiniae
 axial
 appalment
+altimetrical
 amplexifoliate
 automatize
 appendages
@@ -21801,7 +21802,6 @@ afforcing
 asshead
 assi
 archiblastula
-altimetrical
 assidual
 agathodaemon
 aecial
