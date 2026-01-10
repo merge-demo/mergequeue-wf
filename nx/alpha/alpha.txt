@@ -9848,7 +9848,6 @@ accented
 antihelixes
 amazilia
 amazing
-antizymotic
 allovers
 amazulu
 aphthongal
@@ -20622,6 +20621,7 @@ adulators
 afterplay
 adamantoma
 arthrometry
+antizymotic
 alvine
 ammodytoid
 aswithe
