@@ -786,7 +786,6 @@ fallows
 fandangos
 ferried
 fellowlike
-flitwite
 fleaworts
 freesp
 frangipane
@@ -9658,6 +9657,7 @@ forlet
 freeholdership
 feeders
 falcata
+flitwite
 ferias
 finalities
 flukier

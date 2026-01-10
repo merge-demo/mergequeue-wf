@@ -5795,7 +5795,6 @@ gumhar
 goony
 grunts
 glomus
-goupin
 gnatworm
 genupectoral
 goniometer
@@ -6898,6 +6897,7 @@ garnishing
 gynandroid
 gregarina
 grecians
+goupin
 gelatinoid
 getters
 graticulate
