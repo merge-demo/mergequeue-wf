@@ -1636,6 +1636,7 @@ foraneen
 four
 fdnames
 footwalk
+ferociousness
 forthcut
 flamboyantly
 focally
@@ -11549,7 +11550,6 @@ formicivora
 flattener
 fervently
 frames
-ferociousness
 footlessly
 fusil
 fowage
