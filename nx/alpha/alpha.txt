@@ -4687,6 +4687,7 @@ annotater
 alveolarly
 apasote
 ambrotype
+anglicism
 av
 aeolist
 aeolus
@@ -7754,7 +7755,6 @@ azaserine
 atrickle
 anomalonomy
 ambuscade
-anglicism
 aldrovanda
 achromaturia
 adequative
