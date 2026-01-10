@@ -9917,6 +9917,7 @@ estradiol
 externship
 emphasis
 epicentrum
+extravisceral
 equicellular
 electroosmotically
 estrayed
@@ -10141,7 +10142,6 @@ epinastic
 exacerbations
 escapisms
 emballonurid
-extravisceral
 eupion
 enlure
 exemplifier
