@@ -5809,7 +5809,6 @@ engouement
 embolization
 eburnated
 engoument
-entification
 evade
 emulatory
 efficace
@@ -13612,6 +13611,7 @@ extemporisation
 entoiled
 ewing
 extraspinal
+entification
 extemporized
 escallonia
 emendation
