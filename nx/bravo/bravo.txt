@@ -3684,7 +3684,6 @@ bube
 brigantinebrigantines
 basihyal
 basiophthalmite
-baste
 bijugous
 bucketful
 bally
@@ -7096,6 +7095,7 @@ briquetting
 bespeak
 bodyless
 biggings
+baste
 bimorphs
 bushing
 bespeaking
