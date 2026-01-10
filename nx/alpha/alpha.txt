@@ -1963,6 +1963,7 @@ acetyltropeine
 acetylurea
 atheromata
 ammines
+authenticators
 analyse
 armorial
 acetins
@@ -20368,7 +20369,6 @@ apostolicalness
 arcsines
 anticorrosives
 autoradiography
-authenticators
 apothgm
 alefzero
 admonitor
