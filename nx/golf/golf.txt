@@ -1748,7 +1748,6 @@ gloeal
 goric
 glass
 galravage
-guesses
 gamesman
 guernseys
 gaullism
@@ -7461,6 +7460,7 @@ gou
 gyrometer
 goodmen
 grimacingly
+guesses
 glasswork
 glycines
 gorgelet
