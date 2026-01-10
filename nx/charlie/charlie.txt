@@ -9174,6 +9174,7 @@ charwomen
 chase
 chaseable
 compellability
+counterpaly
 chases
 chashitsu
 castigation
@@ -24683,7 +24684,6 @@ cauqui
 coplotter
 chinoidine
 calvaire
-counterpaly
 cryaesthesia
 charcoals
 cerebrating
