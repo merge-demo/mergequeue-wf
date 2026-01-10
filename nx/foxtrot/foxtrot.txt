@@ -1144,7 +1144,6 @@ fubs
 fluavile
 fluidram
 felonry
-footprints
 fitted
 flexures
 flippers
@@ -2111,6 +2110,7 @@ fissuring
 finnicize
 floruit
 frigate
+footprints
 fletch
 faujdar
 fuchsite
