@@ -6614,6 +6614,7 @@ bodyplate
 boninesses
 besotter
 basioccipital
+billetty
 berede
 berengaria
 bursate
@@ -7961,7 +7962,6 @@ birdieback
 beclasp
 boschbok
 brambleberries
-billetty
 becudgeled
 bibliopolically
 bibliopolist
