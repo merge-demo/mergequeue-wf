@@ -7797,7 +7797,6 @@ embolismic
 ebulliency
 eccentrate
 enterography
-epiglottitis
 ennomic
 exsiccator
 elegiambic
@@ -11482,6 +11481,7 @@ evocated
 ectonephridium
 exes
 erinnic
+epiglottitis
 enrut
 effectually
 electrotypist
