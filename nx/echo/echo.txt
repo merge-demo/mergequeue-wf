@@ -3302,7 +3302,6 @@ eldermen
 encamping
 eunice
 ecumenicize
-eluvies
 euphonize
 ethopoeia
 epitaphical
@@ -14009,6 +14008,7 @@ estado
 extrication
 exsertile
 eogaea
+eluvies
 ejicient
 elderbrotherly
 extrasocial
