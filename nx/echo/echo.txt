@@ -1995,7 +1995,6 @@ etua
 eppy
 exenterated
 eastland
-eventration
 ejoo
 epigynum
 exanimation
@@ -9891,6 +9890,7 @@ eluders
 exilian
 elongative
 earmarks
+eventration
 estimations
 enfold
 exhaustively
