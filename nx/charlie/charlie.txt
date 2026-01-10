@@ -9774,7 +9774,6 @@ cowheart
 chelydidae
 centas
 chelidonic
-chelidonin
 casule
 chelidonine
 carefox
@@ -26429,6 +26428,7 @@ cotylosacral
 colostomy
 cotylosaur
 coinferring
+chelidonin
 cotylosaurian
 cotingoid
 chancel
