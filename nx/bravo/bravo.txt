@@ -11242,7 +11242,6 @@ bloomless
 baptisia
 bartering
 bacteriocidal
-blooped
 bahamians
 byways
 boxen
@@ -15752,6 +15751,7 @@ barbering
 battarism
 brunonia
 broadlooms
+blooped
 bourrides
 bollock
 batful
