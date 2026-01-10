@@ -2655,7 +2655,6 @@ enantioblastic
 electropower
 electropsychrometer
 eidolology
-embodying
 emblazonment
 evolvers
 eluating
@@ -4442,6 +4441,7 @@ enruin
 encarnalised
 enteropneust
 egghot
+embodying
 effervesces
 edifices
 encarnalized
