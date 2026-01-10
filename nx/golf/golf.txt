@@ -751,7 +751,6 @@ galvanizing
 greund
 gemmiferousness
 grattoir
-giantlikeness
 gonoplasm
 galvanoglyph
 gar
@@ -10633,6 +10632,7 @@ gentled
 gourmandise
 gifting
 gimmickry
+giantlikeness
 gunshop
 gruelings
 gulches
