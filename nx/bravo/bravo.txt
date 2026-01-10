@@ -5602,7 +5602,6 @@ beknighted
 ballistite
 burrio
 brassicaceous
-bathythermogram
 butolism
 biotype
 badmouthing
@@ -8420,6 +8419,7 @@ benzocoumaran
 bignou
 betask
 bygo
+bathythermogram
 bimetallist
 bygone
 bathhouses
