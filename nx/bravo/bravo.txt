@@ -3030,6 +3030,7 @@ belibeled
 bisyllabic
 barflies
 borts
+bhang
 buccinum
 branglement
 bopping
@@ -17539,7 +17540,6 @@ biomedical
 bromopicrin
 bidenticulate
 bathukolpic
-bhang
 biograph
 biflected
 bonzian
