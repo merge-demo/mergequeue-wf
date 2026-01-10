@@ -4243,6 +4243,7 @@ glotum
 greying
 ges
 geod
+glutael
 gregarian
 ganef
 gulflike
@@ -8413,7 +8414,6 @@ gaize
 guru
 grandstander
 glides
-glutael
 ganoid
 granites
 genro
