@@ -1043,6 +1043,7 @@ bailiwicks
 blitzbuggy
 bolete
 babyhouse
+burfish
 becost
 blousier
 burghal
@@ -8235,7 +8236,6 @@ bayaderes
 bisantler
 boiled
 bicolourous
-burfish
 broid
 baleens
 barkey
