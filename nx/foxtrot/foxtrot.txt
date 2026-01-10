@@ -9228,7 +9228,6 @@ frisbees
 felicitating
 fennels
 fulfulde
-forward
 filenames
 frija
 fanaloka
@@ -11598,6 +11597,7 @@ feathertop
 faradic
 fargite
 fussing
+forward
 furciferine
 fealty
 fideicommissary
