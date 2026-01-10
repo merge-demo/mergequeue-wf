@@ -2418,7 +2418,6 @@ cancellus
 campement
 cancelment
 cessment
-containerize
 chimneys
 culicine
 cancer
@@ -27653,6 +27652,7 @@ chillier
 cowbind
 cypriot
 caurale
+containerize
 cowbinds
 cattily
 cracksman
