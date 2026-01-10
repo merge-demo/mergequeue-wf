@@ -8311,7 +8311,6 @@ burstiness
 bedesman
 bream
 bluegill
-bekerchief
 bawdiest
 briefings
 brawniness
@@ -15955,6 +15954,7 @@ bows
 brominate
 bene
 barbarism
+bekerchief
 bromination
 broadband
 bicentenaries
