@@ -6463,7 +6463,6 @@ benzoxyacetic
 blanchers
 ballast
 bisulcate
-biostratigraphy
 borderings
 bergmannite
 bilati
@@ -8928,6 +8927,7 @@ bedeck
 bazaar
 brachystaphylic
 bleeder
+biostratigraphy
 boilerman
 blackfishes
 behen

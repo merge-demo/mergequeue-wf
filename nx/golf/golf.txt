@@ -6716,7 +6716,6 @@ gibelite
 gavelling
 grint
 germanious
-gulae
 growable
 gromatic
 gutsiness
@@ -9292,6 +9291,7 @@ gritted
 gutturality
 grivna
 guggles
+gulae
 grizzel
 gerardia
 graininess
