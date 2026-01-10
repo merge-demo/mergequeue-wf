@@ -15419,6 +15419,7 @@ demurer
 denis
 downtowns
 dijudication
+dunkard
 demibarrel
 damoisel
 diclinic
@@ -16922,7 +16923,6 @@ deamidate
 diverted
 denouncement
 doz
-dunkard
 dietine
 domus
 drearing
