@@ -5428,7 +5428,6 @@ beguilements
 biferous
 bloodripeness
 briquets
-babelic
 blastomycotic
 bakshish
 biolite
@@ -17359,6 +17358,7 @@ boardmen
 bundler
 barwal
 boudeuse
+babelic
 balneotherapy
 bottleneck
 badged
