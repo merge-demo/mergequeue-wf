@@ -6535,6 +6535,7 @@ beetleheaded
 brothering
 bequalm
 bioblast
+barker
 bklr
 bequeathed
 blackfish
@@ -12487,7 +12488,6 @@ begloom
 baggara
 bonbons
 batell
-barker
 bareboats
 bureaux
 bootstrap
