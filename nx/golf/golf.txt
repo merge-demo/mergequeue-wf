@@ -5762,7 +5762,6 @@ gloomth
 gradin
 gleeds
 graveolence
-graphostatic
 grimmish
 grumes
 gloomy
@@ -8380,6 +8379,7 @@ geomagnetics
 garbled
 gentes
 gladness
+graphostatic
 gelation
 grailing
 gudes
