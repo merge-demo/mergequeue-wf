@@ -1775,6 +1775,7 @@ decadently
 dustheaps
 doorpost
 deaving
+disseizor
 decolorization
 disregardfully
 dorsolum
@@ -4756,7 +4757,6 @@ dishware
 deaconing
 demihag
 deair
-disseizor
 deanimalize
 diemaker
 dentalizing
