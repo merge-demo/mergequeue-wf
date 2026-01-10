@@ -4800,6 +4800,7 @@ flageolets
 flagfishes
 fubsy
 forbiddenness
+faculae
 frenzily
 fissurellidae
 feuillants
@@ -7549,7 +7550,6 @@ frolicful
 fogou
 frithwork
 forecabin
-faculae
 feedingstuff
 footpace
 fragmentization
