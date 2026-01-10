@@ -2492,6 +2492,7 @@ dateline
 deporte
 debased
 ditchdown
+direct
 dirigent
 defoliant
 deckhand
@@ -15979,7 +15980,6 @@ douane
 downsize
 decrepitude
 disturbed
-direct
 double
 dotter
 discommodious
