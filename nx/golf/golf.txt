@@ -2320,7 +2320,6 @@ griskin
 gymnodiniaceae
 galidictis
 ganofs
-gigolo
 gaiassa
 gelant
 glyceric
@@ -5873,6 +5872,7 @@ glucocorticoid
 genius
 gardon
 greeneries
+gigolo
 grundel
 griddled
 gasfiring
