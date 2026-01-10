@@ -1734,7 +1734,6 @@ blur
 bravehearted
 biasing
 blackbrush
-buccate
 baloney
 ballyhoos
 buskers
@@ -12453,6 +12452,7 @@ bulls
 bonagh
 biconvex
 bonaire
+buccate
 bonang
 brontothere
 bonapartism
