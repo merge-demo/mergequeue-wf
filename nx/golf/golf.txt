@@ -6069,6 +6069,7 @@ gairfowl
 gnawers
 grane
 gnathopodite
+grist
 gneissic
 gluon
 gasifying
@@ -9276,7 +9277,6 @@ gollywog
 grisly
 glagolitic
 gravigrade
-grist
 guanase
 glebe
 ghostlify
