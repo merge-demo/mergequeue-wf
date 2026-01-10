@@ -627,7 +627,6 @@ flavorless
 fits
 fallibleness
 fleshes
-forehand
 folly
 farrantly
 forelimb
@@ -5355,6 +5354,7 @@ fantasque
 flutey
 festing
 fantad
+forehand
 feints
 fifteen
 fumarole
