@@ -15190,7 +15190,6 @@ contchar
 clayier
 centetes
 clayiest
-calotermitid
 clayiness
 capsuler
 commendably
@@ -21025,6 +21024,7 @@ closedown
 comptness
 cabda
 comptroller
+calotermitid
 cubicly
 comptrollers
 chinampa
