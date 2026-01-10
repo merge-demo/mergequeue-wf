@@ -7935,7 +7935,6 @@ doublelunged
 disallowable
 demicylinder
 defunctive
-downsteepy
 diathermal
 decimeters
 dextroaural
@@ -17646,6 +17645,7 @@ delivered
 diclinism
 dagame
 dioscorein
+downsteepy
 dualize
 dialogic
 disaffiliates
