@@ -1046,7 +1046,6 @@ geobiont
 gentlewomanliness
 germination
 gloriette
-geodist
 gorgonaceous
 grasp
 grondwet
@@ -3840,6 +3839,7 @@ gastroesophagostomy
 goggle
 glomerule
 giantsize
+geodist
 gaub
 gouvernantes
 gherao
