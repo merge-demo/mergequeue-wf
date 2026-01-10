@@ -5482,7 +5482,6 @@ exospheres
 edematous
 energical
 energid
-epitendineum
 ensuing
 eglamore
 endoplasmic
@@ -7021,6 +7020,7 @@ entrer
 entresols
 extractors
 excommunicator
+epitendineum
 encipherments
 emplace
 embladder
