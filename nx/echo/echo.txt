@@ -3303,7 +3303,6 @@ euphonize
 ethopoeia
 epitaphical
 estevin
-ellwand
 ermitophobia
 empathizes
 empiriological
@@ -12881,6 +12880,7 @@ excommunicating
 eserines
 extorting
 erastus
+ellwand
 expandible
 editions
 etherialization
