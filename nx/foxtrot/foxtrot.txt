@@ -6059,7 +6059,6 @@ felspars
 flacon
 fumattoria
 foo
-flavedos
 fidiculae
 fellowman
 forthrightness
@@ -7749,6 +7748,7 @@ fossa
 flinchingly
 foreignly
 forrader
+flavedos
 ferrated
 fishy
 firnismalerei
