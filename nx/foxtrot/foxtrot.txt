@@ -665,7 +665,6 @@ featherbedding
 formulates
 fluotitanic
 forelegs
-fettle
 fitness
 fames
 fuddled
@@ -3056,6 +3055,7 @@ flitter
 flakeboard
 famishes
 fertilized
+fettle
 fossil
 foreboot
 fibrinose
