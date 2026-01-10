@@ -787,6 +787,7 @@ ferried
 fellowlike
 fleaworts
 freesp
+fiendism
 frangipane
 fills
 frightened
@@ -7230,7 +7231,6 @@ fixative
 fourche
 furnariidae
 fraileros
-fiendism
 fairily
 fulvescent
 freud
