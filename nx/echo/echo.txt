@@ -3145,6 +3145,7 @@ empennage
 equiangularity
 even
 encomiums
+ell
 ecdysones
 echinorhinidae
 etheriidae
@@ -8112,7 +8113,6 @@ enew
 enhances
 exhumator
 episclera
-ell
 encasement
 expensilation
 ensanguined
