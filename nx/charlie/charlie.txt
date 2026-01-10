@@ -2304,7 +2304,6 @@ completer
 cromorne
 canalboat
 charales
-causeuses
 canale
 canaled
 cobs
@@ -14659,6 +14658,7 @@ cystophore
 cistophorus
 coadjustment
 cystophotography
+causeuses
 coxier
 checkmating
 catch
