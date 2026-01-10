@@ -1770,7 +1770,6 @@ gymnoglossa
 guberla
 graniticoline
 gynopara
-gratton
 glycolipin
 gomerils
 germinance
@@ -5269,6 +5268,7 @@ glycosine
 genuflectory
 golf
 gab
+gratton
 garnished
 gerberia
 gunter
