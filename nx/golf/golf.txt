@@ -3669,6 +3669,7 @@ gananciales
 gantries
 galleriidae
 galactoid
+giarra
 goetae
 gynaecology
 guttersnipes
@@ -3835,7 +3836,6 @@ gunong
 giantsize
 gaub
 gouvernantes
-giarra
 gherao
 giarre
 gorgio
