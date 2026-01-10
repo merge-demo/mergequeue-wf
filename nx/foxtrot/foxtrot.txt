@@ -4834,6 +4834,7 @@ flinthead
 facecloth
 fatigued
 fainer
+ferroelectrically
 foil
 finlet
 fatagaga
@@ -6054,7 +6055,6 @@ fumattoria
 foo
 flavedos
 fidiculae
-ferroelectrically
 fellowman
 forthrightness
 forepoled

@@ -8755,6 +8755,7 @@ chirpier
 chapellany
 chapelled
 cimnel
+clavy
 carditic
 cobnut
 capitaliser
@@ -15702,7 +15703,6 @@ controllingly
 clavi
 cerithioid
 chirres
-clavy
 clavicembalist
 clinometric
 claviceps
