@@ -5488,7 +5488,6 @@ energize
 energizers
 edify
 eosinophilia
-elasmosaurus
 earthquave
 epipleural
 esterifiable
@@ -11274,6 +11273,7 @@ ethnologic
 eeling
 entomologically
 epichlorohydrin
+elasmosaurus
 excavated
 emblematical
 ergometrine
