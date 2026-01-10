@@ -5523,6 +5523,7 @@ bowieful
 brechites
 briefly
 bringdown
+bowllike
 boatswains
 bawty
 beingness
@@ -10665,7 +10666,6 @@ blurriness
 bouquet
 bladders
 bombardo
-bowllike
 beyliks
 belderroot
 bleach
