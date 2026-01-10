@@ -3046,6 +3046,7 @@ decarbonized
 desegregation
 deers
 deerstalkers
+deposable
 deerstalking
 deerweed
 dollyway
@@ -10831,7 +10832,6 @@ directorships
 desugared
 dysphrasia
 dapples
-deposable
 devex
 deificatory
 dirempt
