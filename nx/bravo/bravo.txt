@@ -8896,6 +8896,7 @@ binocularly
 binoculars
 balestra
 binodose
+bandpass
 buckbean
 bari
 banalities
@@ -12483,7 +12484,6 @@ barker
 bareboats
 bureaux
 bootstrap
-bandpass
 banisterine
 bond
 bipinnatifid
