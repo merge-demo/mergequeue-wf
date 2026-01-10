@@ -6504,7 +6504,6 @@ bephilter
 booley
 boltropes
 bronchopneumonic
-bephrase
 bossiness
 betelgeuse
 bixbyite
@@ -15654,6 +15653,7 @@ biomagnetism
 burlaps
 banlieue
 biopsychical
+bephrase
 born
 bromacetanilide
 bristlelike
