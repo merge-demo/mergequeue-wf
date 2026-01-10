@@ -4995,7 +4995,6 @@ beerhouses
 breech
 barbecueing
 beladied
-bathoflore
 bluebeardism
 belleric
 beermaker
@@ -10109,6 +10108,7 @@ bottlemaking
 blamability
 bilander
 baufrey
+bathoflore
 boomerang
 blacklisting
 bullheadedness
