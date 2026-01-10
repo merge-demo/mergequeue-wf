@@ -1951,6 +1951,7 @@ bandrol
 battens
 beatific
 boreus
+barberess
 bandsawn
 bandsman
 bandstand
@@ -9022,7 +9023,6 @@ boskiness
 bozzetto
 bailed
 burnishment
-barberess
 biogases
 boardroom
 bleachground
