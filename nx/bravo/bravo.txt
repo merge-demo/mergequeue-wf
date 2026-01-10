@@ -6071,7 +6071,6 @@ bieberite
 bemuddles
 bemuddling
 bemurmur
-bondwoman
 butyral
 bemurmure
 bittier
@@ -11415,6 +11414,7 @@ bacilliparous
 bobooti
 baa
 bigwigs
+bondwoman
 bogydom
 blacklegs
 burgwere
