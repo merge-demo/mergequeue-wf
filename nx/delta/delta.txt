@@ -4099,7 +4099,6 @@ demisolde
 demagnetised
 dianthuses
 debye
-deguelin
 deliration
 deadworks
 dipodidae
@@ -16737,6 +16736,7 @@ dryinid
 draught
 distal
 draughtboard
+deguelin
 draughtier
 divulsive
 decastylos
