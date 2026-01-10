@@ -5969,6 +5969,7 @@ freyr
 factitude
 frats
 fineable
+foreview
 fatalize
 flubdubs
 forestaysail
@@ -8189,7 +8190,6 @@ fuliginous
 fidgeting
 fulicinae
 foreverness
-foreview
 foregoes
 foederatus
 franzy
