@@ -2336,7 +2336,6 @@ frequently
 filmable
 flanneled
 fencelike
-floaters
 flunked
 friarly
 funerary
@@ -2999,6 +2998,7 @@ ferrotype
 fortepiano
 flukily
 forasmuch
+floaters
 friendliwise
 foreman
 floodage
