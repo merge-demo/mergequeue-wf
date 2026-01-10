@@ -6329,7 +6329,6 @@ geochemists
 geophysics
 gruneritization
 grubstaker
-goldenpert
 gallivanters
 gebang
 gobo
@@ -8825,6 +8824,7 @@ greenware
 giveth
 gospodar
 gekko
+goldenpert
 ghostess
 gulfs
 goalless
