@@ -5864,7 +5864,6 @@ deprecable
 deprecating
 doorbrand
 darling
-desolations
 diachoresis
 domal
 demeaning
@@ -6750,6 +6749,7 @@ didascalar
 doubly
 dissogeny
 decollating
+desolations
 delate
 deceased
 desilt
