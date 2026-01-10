@@ -1400,7 +1400,6 @@ digitals
 delis
 desmosite
 disposition
-drapability
 dissatisfactoriness
 desipient
 diligentia
@@ -10924,6 +10923,7 @@ disabled
 dialyzing
 doorplates
 defrayer
+drapability
 deterges
 divulgement
 dioeciodimorphous
