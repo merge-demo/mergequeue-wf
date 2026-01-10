@@ -8774,7 +8774,6 @@ chapelward
 chaperno
 consumed
 custodia
-chaperonage
 cerinthe
 concealedness
 chapes
@@ -21672,6 +21671,7 @@ condiddling
 cooth
 copepodous
 consternated
+chaperonage
 condigness
 condignity
 chromatopathia
