@@ -5543,6 +5543,7 @@ benefactive
 begnawn
 bruce
 beisance
+burh
 bouvier
 broadloom
 bejant
@@ -9490,7 +9491,6 @@ brakes
 bovidae
 boga
 birectangular
-burh
 bireme
 begeck
 bacteriostat
