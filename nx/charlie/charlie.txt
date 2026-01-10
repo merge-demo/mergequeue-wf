@@ -19729,7 +19729,6 @@ combfish
 comby
 combinability
 cytozyme
-combinably
 coredeem
 combinational
 corrigent
@@ -27026,6 +27025,7 @@ contoid
 chimneypot
 counterpoints
 cataleptiform
+combinably
 contestable
 chronical
 counterpoison
