@@ -1003,6 +1003,7 @@ ensaffron
 expiscated
 excrementary
 edaphology
+estopping
 etymological
 edaphon
 endorsing
@@ -3600,7 +3601,6 @@ embolomalerism
 enervator
 exceeder
 equoid
-estopping
 erysipelatoid
 exothermally
 epidesmine
