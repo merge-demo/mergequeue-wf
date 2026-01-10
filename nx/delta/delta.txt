@@ -625,6 +625,7 @@ decapods
 deflowers
 dioscorea
 demiatheist
+deoxyribonucleoprotein
 depark
 dubiocrystalline
 dynatrons
@@ -14606,7 +14607,6 @@ disinfeudation
 discordantness
 dentalman
 dolabre
-deoxyribonucleoprotein
 dextrally
 dismemberment
 dwells
