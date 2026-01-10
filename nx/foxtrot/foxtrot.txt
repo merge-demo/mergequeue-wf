@@ -3988,7 +3988,6 @@ furazolidone
 fluorosis
 fishery
 forleft
-fortalice
 failingly
 furrow
 fabricated
@@ -7199,6 +7198,7 @@ figwort
 fishweir
 foleye
 farinacious
+fortalice
 frontoparietal
 footers
 frayedly
