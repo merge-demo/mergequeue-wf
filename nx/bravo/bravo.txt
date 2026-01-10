@@ -3194,6 +3194,7 @@ baloneys
 benzins
 balancers
 booklores
+botanies
 bhaga
 bollandist
 blastozooid
@@ -13376,7 +13377,6 @@ brazed
 botanically
 botanics
 bridechamber
-botanies
 botanist
 botanize
 blattidae
