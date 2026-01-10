@@ -1595,7 +1595,6 @@ accountantship
 atacamenian
 aerometer
 aspergill
-amenty
 agamogenetic
 accounter
 accounters
@@ -12754,6 +12753,7 @@ angiostrophy
 angiotasis
 aramaic
 angiotelectasia
+amenty
 annulus
 administerd
 angiotenosis
