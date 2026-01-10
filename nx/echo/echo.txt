@@ -164,6 +164,7 @@ encephalomeric
 enzygotic
 earthkin
 emargination
+equivalencies
 expired
 eyed
 effervescent
@@ -10671,7 +10672,6 @@ enharmonical
 enchilada
 eudemonistic
 eudemonics
-equivalencies
 epinephrine
 excamber
 elopers
