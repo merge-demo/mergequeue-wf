@@ -1924,7 +1924,6 @@ gulped
 gastromycosis
 gurjan
 geal
-garnet
 glutoid
 gynecocratic
 gnomesque
@@ -2958,6 +2957,7 @@ glossopteris
 growleries
 guardeen
 glycol
+garnet
 gaeldom
 geocyclic
 gnat
