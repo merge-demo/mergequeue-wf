@@ -4080,7 +4080,6 @@ equitant
 enjambement
 erotophobia
 edibleness
-exteriorize
 epiphonemae
 empathized
 elongation
@@ -9151,6 +9150,7 @@ elatinaceous
 edgeling
 endovaccination
 encolor
+exteriorize
 enates
 elaphe
 embryons
