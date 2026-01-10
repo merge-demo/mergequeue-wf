@@ -5071,6 +5071,7 @@ botanised
 battlers
 bastonet
 bowfin
+bannerlike
 bloodthirst
 befamilied
 biogeography
@@ -15455,7 +15456,6 @@ biogeographically
 brighid
 bounce
 boisseau
-bannerlike
 biometricist
 bebelted
 bandannaed
