@@ -5647,7 +5647,6 @@ frusla
 fortitude
 frostbitten
 flighter
-fleshling
 fleysome
 farolito
 funicular
@@ -7244,6 +7243,7 @@ flection
 faecalith
 flites
 forthteller
+fleshling
 floodways
 footless
 fishfall
