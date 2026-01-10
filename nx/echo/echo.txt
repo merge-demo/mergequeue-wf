@@ -1281,6 +1281,7 @@ episomal
 evaluation
 eightfoil
 enmanche
+enthymeme
 ergostat
 eightling
 exfiltrate
@@ -6853,7 +6854,6 @@ emptins
 ectocarpales
 electrostatical
 examiningly
-enthymeme
 entomical
 empoisoning
 electroimpulse
