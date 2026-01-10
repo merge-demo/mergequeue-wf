@@ -12376,7 +12376,6 @@ algesis
 aporias
 armchairs
 anecdotage
-astart
 ajowan
 amsath
 anecdote
@@ -22861,6 +22860,7 @@ atomician
 assimilative
 amino
 asterioid
+astart
 anatomies
 accubation
 antifundamentalism
