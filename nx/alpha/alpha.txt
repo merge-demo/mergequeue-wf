@@ -199,7 +199,6 @@ abbey
 archapostate
 aleshot
 azophen
-acatastasia
 antimiasmatic
 abbeystede
 appulses
@@ -12890,6 +12889,7 @@ arbitrations
 achromatising
 adjuvants
 apologetics
+acatastasia
 axine
 angula
 aldus
