@@ -3687,7 +3687,6 @@ guttersnipes
 ghastliness
 grumblesome
 ghauts
-galilei
 genarcha
 ghazi
 greyness
@@ -8328,6 +8327,7 @@ glochidian
 geopolitist
 galenite
 glissaded
+galilei
 groundless
 gladii
 glyconics
