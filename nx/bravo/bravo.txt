@@ -11339,6 +11339,7 @@ byelorussian
 bachelor
 blown
 bananas
+balsamed
 bala
 blowoff
 blowouts
@@ -13383,7 +13384,6 @@ botanizes
 bulbless
 becreep
 bemisted
-balsamed
 bacterially
 bemat
 brickmason
