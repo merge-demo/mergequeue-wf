@@ -4653,6 +4653,7 @@ byrewards
 bullrushes
 bedehouses
 bedemen
+brimstone
 bens
 bustic
 barry
@@ -11087,7 +11088,6 @@ basilemma
 bescramble
 bails
 backrest
-brimstone
 basilidan
 between
 brachygnathous
