@@ -5694,7 +5694,6 @@ decapodan
 ducape
 dichroite
 demersal
-daftlike
 depletions
 danton
 denutrition
@@ -9993,6 +9992,7 @@ derv
 disconnectiveness
 dimorphism
 dukker
+daftlike
 dissatisfactorily
 dally
 disparted
