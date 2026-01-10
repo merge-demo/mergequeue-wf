@@ -27547,6 +27547,7 @@ coverages
 cytostatically
 cuselite
 convito
+crenulate
 coveralled
 coveralls
 celiocyesis
@@ -28702,7 +28703,6 @@ crenula
 chaetosoma
 cucumiform
 connectible
-crenulate
 cassythaceae
 crenulation
 creodonta
