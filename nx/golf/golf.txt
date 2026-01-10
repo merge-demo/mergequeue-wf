@@ -4007,6 +4007,7 @@ goffer
 gouges
 grubworms
 gigawatts
+gaffle
 glioma
 geoty
 graphium
@@ -9086,7 +9087,6 @@ gnatcatcher
 girasole
 gallium
 gryllos
-gaffle
 gimcracky
 gainsay
 grilse
