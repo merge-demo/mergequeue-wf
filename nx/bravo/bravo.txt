@@ -3226,6 +3226,7 @@ barkpeel
 biltong
 basigynium
 basilarchia
+brachypleural
 beware
 basilateral
 bowker
@@ -9847,7 +9848,6 @@ bistriate
 bombardment
 bagwigged
 beddable
-brachypleural
 bradypepsia
 brokenhearted
 banderoles
