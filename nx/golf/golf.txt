@@ -3721,7 +3721,6 @@ gobline
 ghiblis
 geebung
 goths
-groinery
 gynandria
 grisaille
 georgie
@@ -5208,6 +5207,7 @@ gracility
 geognosist
 gymnotidae
 gregatim
+groinery
 gleamily
 gabble
 gharial
