@@ -1644,6 +1644,7 @@ grants
 gamobium
 grassworm
 gesticulation
+gain
 glossophytia
 gastroxynsis
 gummier
@@ -7086,7 +7087,6 @@ gaus
 gastrectomy
 gunwales
 grader
-gain
 glaucoma
 gesnerian
 glycolate
