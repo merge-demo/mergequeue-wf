@@ -14320,6 +14320,7 @@ anthophora
 amphistomous
 awful
 acolyte
+airplane
 anthotaxis
 andries
 analgetic
@@ -17776,7 +17777,6 @@ appals
 antistatic
 afterhours
 appointer
-airplane
 agapornis
 adherently
 appointers
