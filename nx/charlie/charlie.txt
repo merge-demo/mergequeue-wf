@@ -25335,7 +25335,6 @@ cornaceae
 chaetophorous
 cornada
 cornage
-cornballs
 counterscale
 cornbind
 checkerboards
@@ -25588,6 +25587,7 @@ corotomy
 commemorized
 coroutines
 clericum
+cornballs
 corp
 corpn
 corpora
