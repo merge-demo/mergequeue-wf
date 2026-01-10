@@ -19112,6 +19112,7 @@ archregent
 archrogue
 archruler
 antimediaevalism
+antitypy
 arachnophagous
 ancha
 auryl
@@ -23970,7 +23971,6 @@ autobiographer
 autobiographers
 autobiography
 anthropoidea
-antitypy
 apologiser
 aminolysis
 archipelagos
