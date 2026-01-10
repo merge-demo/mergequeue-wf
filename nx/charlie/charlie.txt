@@ -21502,7 +21502,6 @@ carpidium
 concordantly
 cheiropompholyx
 concordatory
-concorder
 concordity
 circline
 centumvir
@@ -26244,6 +26243,7 @@ costanoan
 costar
 costarred
 continentaler
+concorder
 costata
 costated
 copiopsia
