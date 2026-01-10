@@ -5512,6 +5512,7 @@ ascry
 aftermost
 afternoons
 afterpains
+autoregenerator
 auburns
 ailuropoda
 antifreezing
@@ -16266,7 +16267,6 @@ arzan
 arcadianism
 antitypous
 amphigouris
-autoregenerator
 anthochlor
 aerophysical
 antitobacconist
