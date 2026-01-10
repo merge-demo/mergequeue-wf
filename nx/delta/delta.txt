@@ -3847,6 +3847,7 @@ dopatta
 decastyle
 deselects
 disinteresting
+dimensions
 dissceptred
 decorationist
 deionizer
@@ -17141,7 +17142,6 @@ decachord
 dreary
 decorums
 disentrammel
-dimensions
 dryopithecus
 diander
 dryopteroid
