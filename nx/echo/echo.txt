@@ -1679,6 +1679,7 @@ extemporaneity
 epilemmal
 eidograph
 escruage
+exhaustible
 evertors
 eclogues
 eases
@@ -11181,7 +11182,6 @@ ensiform
 evacuator
 evaded
 echinoidea
-exhaustible
 erythropenia
 electroirrigation
 earthlier
