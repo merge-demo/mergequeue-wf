@@ -10606,7 +10606,6 @@ biomicroscopy
 bermudians
 bezoardic
 bespeech
-bullheaded
 biotelemetric
 biffies
 blats
@@ -14314,6 +14313,7 @@ bradysphygmia
 badrans
 bolsheviks
 bit
+bullheaded
 birls
 bemadaming
 beteach
