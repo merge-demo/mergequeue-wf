@@ -5918,7 +5918,6 @@ feyer
 festine
 fecund
 fistfight
-feague
 fangas
 foaminess
 flinted
@@ -10372,6 +10371,7 @@ floodlighted
 fetology
 fluoridized
 filthify
+feague
 feudovassalism
 faceman
 fortiori
