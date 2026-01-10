@@ -3444,7 +3444,6 @@ girland
 goniodoris
 germon
 ghostcraft
-germs
 glaucescence
 griseous
 grippit
@@ -6780,6 +6779,7 @@ ganocephala
 gonionia
 genericness
 grapples
+germs
 gamelang
 ganam
 gamgee
