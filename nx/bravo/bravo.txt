@@ -14456,7 +14456,6 @@ birdcraft
 bylaw
 bursiform
 bonebinder
-braillewriter
 bambino
 braincap
 brachiferous
@@ -17310,6 +17309,7 @@ bunts
 boniest
 bantams
 bummel
+braillewriter
 bullyable
 bummie
 bumming
