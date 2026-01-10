@@ -3263,7 +3263,6 @@ farsight
 flowerfence
 fivescore
 flounces
-ferrelled
 fortier
 fulgency
 finity
@@ -3471,6 +3470,7 @@ forpined
 ferrochromium
 finnic
 fluctuated
+ferrelled
 flagfall
 figurable
 figurae
