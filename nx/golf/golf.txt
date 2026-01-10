@@ -240,6 +240,7 @@ golpe
 gyrochrome
 gaspereau
 gowpen
+gravure
 gaiter
 gallicolous
 goniocraniometry
@@ -8639,7 +8640,6 @@ gums
 gemel
 guilefully
 gonidioid
-gravure
 gametically
 grandtotal
 genealogical
