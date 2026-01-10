@@ -20943,6 +20943,7 @@ affects
 ascarids
 agog
 ascelli
+autotomies
 ascellus
 ascend
 ascendable
@@ -23465,7 +23466,6 @@ algebraists
 astringer
 augite
 augitophyre
-autotomies
 augmentable
 archdruid
 annotine
