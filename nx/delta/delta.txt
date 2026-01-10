@@ -3770,7 +3770,6 @@ dwale
 drillable
 dynamites
 distrain
-donning
 disseizoress
 defibrillation
 deicers
@@ -17121,6 +17120,7 @@ discourser
 drylots
 dystrophia
 dynamists
+donning
 drilvis
 deuterogelatose
 dringle
