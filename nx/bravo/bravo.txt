@@ -578,7 +578,6 @@ backstrap
 burntly
 banger
 bactericide
-bacterin
 beggiatoa
 breadboards
 bacteriochlorophyll
@@ -7740,6 +7739,7 @@ bordured
 benelux
 bezoars
 bloodcurdlingly
+bacterin
 bezpopovets
 barged
 balsa

@@ -16410,7 +16410,6 @@ account
 affluence
 antoinette
 autotypy
-antonymy
 antonymies
 antoniniani
 antoninianus
@@ -17463,6 +17462,7 @@ aurigid
 amplifying
 abscessroot
 autobasidia
+antonymy
 appanage
 arthrostraca
 appanaged
