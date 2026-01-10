@@ -4823,7 +4823,6 @@ floatiest
 fullwords
 frosteds
 flu
-formate
 faena
 falsen
 forties
@@ -11578,6 +11577,7 @@ fruitlike
 foretalking
 fusionist
 fusions
+formate
 forrit
 figments
 forespoken
