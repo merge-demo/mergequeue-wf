@@ -5166,6 +5166,7 @@ appeal
 anemographic
 affections
 affectious
+aversions
 affective
 advocacies
 affectivity
@@ -9304,7 +9305,6 @@ anthocerotaceae
 alpinia
 anthraquinol
 annularity
-aversions
 amenorrhea
 antipoetic
 aerobated
