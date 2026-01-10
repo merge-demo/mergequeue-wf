@@ -5055,6 +5055,7 @@ flatbeds
 flanneling
 forepaw
 ferries
+falsifies
 fumatory
 fizz
 forekeel
@@ -8727,7 +8728,6 @@ flaxwench
 frumpish
 fosset
 foreschooling
-falsifies
 frisette
 followable
 firesafe
