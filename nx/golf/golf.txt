@@ -4933,7 +4933,6 @@ gastrosplenic
 ghyll
 glairiest
 gladsomest
-globiocephalus
 glaniostomi
 guapinol
 gowan
@@ -10130,6 +10129,7 @@ gazetteer
 gonystylus
 goldenfleece
 gymnosporangium
+globiocephalus
 gnomic
 gnotobiologies
 grouping
