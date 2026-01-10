@@ -969,7 +969,6 @@ gitanemuck
 gunstone
 gamophagy
 grave
-glossologist
 ghostless
 graptolite
 gunshot
@@ -2619,6 +2618,7 @@ gazetteerage
 gomerel
 guetare
 generative
+glossologist
 glabbella
 gitaligenin
 gaurs
