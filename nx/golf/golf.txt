@@ -4281,6 +4281,7 @@ goblets
 gammoned
 gynarchic
 gipsydom
+gearman
 gazella
 geumatophobia
 gradometer
@@ -8098,7 +8099,6 @@ greatens
 galleries
 glottic
 gravat
-gearman
 glassier
 gymnotid
 gratae
