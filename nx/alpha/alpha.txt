@@ -16484,7 +16484,6 @@ amphibion
 agalactia
 antiaggressionist
 acetabuliferous
-antimicrobial
 aogiri
 astrally
 anteroposterior
@@ -19975,6 +19974,7 @@ armplate
 agamas
 angkhak
 adwesch
+antimicrobial
 azans
 aborsement
 afterclap
