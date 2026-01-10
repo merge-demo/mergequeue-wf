@@ -3824,6 +3824,7 @@ chalkier
 casually
 carbohydrogen
 carboy
+colorization
 celestes
 carboys
 cyathoid
@@ -11620,7 +11621,6 @@ cholee
 cholehematin
 choleine
 circinal
-colorization
 cholelith
 conchotome
 cholelithic
