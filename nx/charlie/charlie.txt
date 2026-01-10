@@ -8198,7 +8198,6 @@ countertrades
 calliophone
 cyprus
 conduceability
-cabined
 copartners
 choriomas
 cryptarch
@@ -30171,6 +30170,7 @@ compressor
 compursion
 cymlins
 cogue
+cabined
 carbonising
 ceramist
 cerotype
