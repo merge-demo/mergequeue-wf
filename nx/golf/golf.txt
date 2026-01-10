@@ -9579,6 +9579,7 @@ glutinize
 garden
 grs
 grumpy
+gagate
 gristliness
 graphophonic
 gulper
@@ -9919,7 +9920,6 @@ gerygone
 gustless
 guanin
 gnathostome
-gagate
 gynophagite
 ghoom
 glycerose
