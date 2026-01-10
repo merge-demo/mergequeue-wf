@@ -12173,6 +12173,7 @@ asimen
 ancylopod
 acneiform
 acrider
+apocopes
 anatropous
 antiecclesiastic
 aguardiente
@@ -17047,7 +17048,6 @@ angulus
 affying
 addy
 arthrotropic
-apocopes
 antimodern
 apocrenic
 agatha
