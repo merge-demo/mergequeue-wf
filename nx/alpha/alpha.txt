@@ -5468,6 +5468,7 @@ afterform
 actuarial
 aerolith
 aristos
+apicillary
 aftergas
 aylesbury
 abstractedness
@@ -16858,7 +16859,6 @@ apices
 aphislion
 arrearages
 accomplices
-apicillary
 apicitis
 alimentive
 apickback
