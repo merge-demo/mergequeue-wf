@@ -5586,7 +5586,6 @@ evaporate
 equalization
 exaggerated
 epidendrum
-elder
 elutions
 esophageal
 ethyl
@@ -8240,6 +8239,7 @@ erucic
 enjoying
 entozoa
 epigenist
+elder
 exulcerate
 enweave
 eleostearate
