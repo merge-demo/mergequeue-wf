@@ -5884,7 +5884,6 @@ grysbok
 ghostliest
 guildship
 gyle
-genteelest
 guadalcazarite
 goldfinch
 glycosidase
@@ -8627,6 +8626,7 @@ gawsy
 gravitic
 gretchen
 gurgeons
+genteelest
 griped
 gentling
 gobi
