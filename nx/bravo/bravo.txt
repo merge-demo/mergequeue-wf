@@ -9287,7 +9287,6 @@ bumbee
 bipaschal
 biped
 beggared
-bogo
 backhauling
 bourbonesque
 bipedality
@@ -10316,6 +10315,7 @@ biborate
 broadmindedly
 belly
 backflow
+bogo
 boracic
 birds
 blacksmithing
