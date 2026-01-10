@@ -2709,7 +2709,6 @@ bewaitered
 benightment
 barnbrack
 betweenbrain
-beelzebub
 biconjugate
 bourr
 beefiness
@@ -8206,6 +8205,7 @@ bellicoseness
 brancher
 brunts
 bewinter
+beelzebub
 benzopinacone
 byrlaw
 blimpish
