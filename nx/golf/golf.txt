@@ -3254,7 +3254,6 @@ getup
 gio
 genetous
 golilla
-grievants
 greatheartedness
 gambled
 gory
@@ -5859,6 +5858,7 @@ glassily
 gynoecium
 greens
 glucate
+grievants
 goofier
 gastrostomies
 glucinums
