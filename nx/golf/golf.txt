@@ -1016,6 +1016,7 @@ gangamopteris
 givers
 gangava
 groundward
+gastrochaenidae
 ghassanid
 gilse
 gurnetty
@@ -8163,7 +8164,6 @@ griding
 grayhound
 gypsuming
 goby
-gastrochaenidae
 grantia
 greekist
 gallet
