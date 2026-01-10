@@ -11272,7 +11272,6 @@ burkes
 batterfang
 brazenness
 bracts
-bickern
 bezants
 borghalpenny
 bespeaker
@@ -13245,6 +13244,7 @@ bangtail
 brachycephalize
 bor
 brough
+bickern
 borities
 bourlaw
 bowtel
