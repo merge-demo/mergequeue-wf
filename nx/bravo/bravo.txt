@@ -9146,7 +9146,6 @@ biopotential
 biopsic
 byssaceous
 bespice
-benightmare
 biopsychological
 balaklava
 breunnerite
@@ -13913,6 +13912,7 @@ binominal
 bidential
 brewing
 bowerlet
+benightmare
 bespouse
 begins
 bighearted
