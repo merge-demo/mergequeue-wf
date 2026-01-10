@@ -3465,7 +3465,6 @@ eriometer
 episyllogism
 enthroning
 entocornea
-edeotomy
 eucirripedia
 engrain
 embogue
@@ -10916,6 +10915,7 @@ enchaser
 electrothanasia
 euphonically
 epizoism
+edeotomy
 exmoor
 endangerer
 encarnalising
