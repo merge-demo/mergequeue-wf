@@ -2577,6 +2577,7 @@ beleaped
 blens
 backtalk
 barile
+bevilled
 barilla
 beleaf
 barters
@@ -7578,7 +7579,6 @@ bonspell
 breezeless
 banes
 boehmite
-bevilled
 butterbill
 baronga
 branchiopallial
