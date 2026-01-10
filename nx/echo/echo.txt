@@ -7817,7 +7817,6 @@ euraquilo
 extractions
 enlaces
 eurytomidae
-eosines
 ekatantalum
 endopsychic
 electrion
@@ -8939,6 +8938,7 @@ eudidymite
 ericetal
 executrixes
 esophagitis
+eosines
 exothecium
 extrasensuous
 emotiomotor
