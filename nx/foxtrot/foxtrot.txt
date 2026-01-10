@@ -3587,7 +3587,6 @@ felinity
 floorway
 files
 femora
-fiddle
 fuliguline
 firearmed
 filesniff
@@ -3878,6 +3877,7 @@ findable
 fruz
 foiling
 function
+fiddle
 frightens
 figurate
 findhorn
