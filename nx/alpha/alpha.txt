@@ -10595,6 +10595,7 @@ arsenite
 angulometer
 armitas
 applicant
+antibasilican
 arachne
 alcayde
 adulterants
@@ -14665,7 +14666,6 @@ adience
 anaglyptograph
 antiballooner
 artisanry
-antibasilican
 appealer
 auctorial
 ascon
