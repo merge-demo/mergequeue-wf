@@ -9476,6 +9476,7 @@ attackman
 amygdaloncus
 aworth
 accentuate
+alizarate
 atheism
 algorithmic
 abstention
@@ -23529,7 +23530,6 @@ andalusite
 aldeia
 advents
 algedi
-alizarate
 aulder
 anorganism
 auldfarrantlike
