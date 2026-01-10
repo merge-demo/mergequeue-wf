@@ -2190,7 +2190,6 @@ ethoxycaffeine
 exantlate
 epodes
 epizoan
-eructate
 endocyclic
 evanescently
 eggplant
@@ -11413,6 +11412,7 @@ eventlessly
 eyeflap
 empennages
 ergamine
+eructate
 eyebree
 epichoric
 enough
