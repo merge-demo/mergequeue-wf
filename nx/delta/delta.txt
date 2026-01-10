@@ -3352,7 +3352,6 @@ denims
 dullery
 definitor
 desulphurized
-dogmouth
 dentils
 doles
 dagos
@@ -3519,6 +3518,7 @@ dismissable
 defrayers
 defraying
 desaturate
+dogmouth
 dorsocephalad
 desiccated
 dagobas
