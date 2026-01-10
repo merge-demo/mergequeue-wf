@@ -1813,6 +1813,7 @@ fating
 fingian
 freightage
 feedbags
+foraminated
 flexographic
 fleshpot
 feminist
@@ -2615,7 +2616,6 @@ filigreed
 ferio
 farandmen
 fiants
-foraminated
 ferruginating
 fulleries
 flashly
