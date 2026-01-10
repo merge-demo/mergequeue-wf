@@ -1898,7 +1898,6 @@ cessionee
 crimble
 corbinas
 camblet
-confectory
 cambodian
 calotte
 camboge
@@ -15335,6 +15334,7 @@ compatriot
 crowdie
 critturs
 coexist
+confectory
 clangful
 clanging
 clangingly
