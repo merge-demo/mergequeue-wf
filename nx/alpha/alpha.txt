@@ -15809,7 +15809,6 @@ acepots
 antipyonin
 antithrombin
 alert
-antipyretics
 antipyrin
 accustomedness
 alinota
@@ -21163,6 +21162,7 @@ accommodates
 assimilativeness
 aerily
 asem
+antipyretics
 anticar
 alphabetics
 ascite
