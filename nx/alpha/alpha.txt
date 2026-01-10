@@ -5761,7 +5761,6 @@ antiroyalist
 aeropause
 ambulative
 alongside
-ahoy
 auxetics
 atlatl
 aligner
@@ -10136,6 +10135,7 @@ antiface
 abray
 anteflexion
 alexipyretic
+ahoy
 ambitendent
 amygdalotomy
 auximone
