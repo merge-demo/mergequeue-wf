@@ -97,6 +97,7 @@ fuminess
 fingerprints
 furazan
 filao
+fightable
 facetiae
 foxiest
 fluxionally
@@ -8362,7 +8363,6 @@ familiars
 faradmeter
 flues
 forgot
-fightable
 forking
 ferryway
 flaveria
