@@ -1777,7 +1777,6 @@ germinance
 goodless
 golliwogs
 gerbillinae
-generic
 gallic
 gonion
 grouchiest
@@ -10249,6 +10248,7 @@ gweduck
 gunless
 guillotinist
 glutaraldehyde
+generic
 gonophorous
 gastroptosis
 gobbet
