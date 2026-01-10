@@ -6756,7 +6756,6 @@ depraving
 dodecatyl
 disally
 diocesans
-datatype
 duplet
 demoralizer
 detestably
@@ -8063,6 +8062,7 @@ disilicic
 delphinidae
 dehypnotizing
 descaled
+datatype
 dafter
 dhooras
 dhooties
