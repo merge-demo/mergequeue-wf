@@ -938,7 +938,6 @@ bagwork
 birmingham
 bahadur
 beverage
-bahay
 battutos
 bahaist
 blocs
@@ -8416,6 +8415,7 @@ biserially
 batatilla
 buzukis
 beatster
+bahay
 benzocoumaran
 bignou
 betask
