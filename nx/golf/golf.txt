@@ -1553,6 +1553,7 @@ giraffesque
 gracilariid
 gery
 grype
+guiles
 gulfiest
 grandiloquence
 gearless
@@ -9051,7 +9052,6 @@ gobletful
 gravenstein
 galvanothermy
 gaminess
-guiles
 geohydrologic
 groomer
 grillee
