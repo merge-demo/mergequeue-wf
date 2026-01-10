@@ -296,7 +296,6 @@ dollfaced
 downcomer
 dourine
 daybooks
-deckman
 desand
 desquamative
 desmidiaceae
@@ -12177,6 +12176,7 @@ denitrificant
 dramaturgy
 disturbant
 desulfuration
+deckman
 discubitory
 dartman
 disexercise
