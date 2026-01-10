@@ -6040,7 +6040,6 @@ epistles
 extrarhythmical
 easternize
 exocrinologies
-edgemaker
 ecumenopolis
 escroll
 eolith
@@ -13255,6 +13254,7 @@ explat
 empurples
 exertive
 ety
+edgemaker
 endemical
 ethize
 edacity
