@@ -2226,6 +2226,7 @@ bontebok
 bodword
 blurb
 butterflylike
+breezing
 bedrivelled
 barauna
 bagatine
@@ -15963,7 +15964,6 @@ buzzbomb
 beghard
 bendell
 brominize
-breezing
 beice
 broomball
 bansela

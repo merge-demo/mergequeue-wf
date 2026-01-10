@@ -5906,6 +5906,7 @@ fastigia
 fdtype
 forelands
 found
+freet
 forestian
 fowlers
 fixedly
@@ -6107,7 +6108,6 @@ flewed
 familiarize
 fateful
 floriation
-freet
 fraser
 feedstuffs
 flamethrower
