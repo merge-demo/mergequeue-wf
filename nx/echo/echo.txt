@@ -12960,7 +12960,6 @@ enhaunt
 eulogiae
 expectancy
 earflower
-endotherm
 epistemophilia
 ecologist
 entotic
@@ -13917,6 +13916,7 @@ extorter
 ectoderm
 extramoral
 electee
+endotherm
 epimerizing
 exorcized
 extumescence
