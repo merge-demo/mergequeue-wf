@@ -16453,7 +16453,6 @@ conjecturer
 cloaklet
 culbert
 cowichan
-citrange
 costumist
 chaunt
 cymbaline
@@ -25486,6 +25485,7 @@ corporatism
 concerti
 cornupete
 chloroleucite
+citrange
 copulas
 cornus
 concertstuck
