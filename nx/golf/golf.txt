@@ -3362,6 +3362,7 @@ gelotoscopy
 glent
 grabbable
 glosseme
+gluteoinguinal
 gula
 geneticists
 germanized
@@ -6878,7 +6879,6 @@ galaxies
 gymnocarpic
 gymsia
 glomeruli
-gluteoinguinal
 gauntlets
 glucoprotein
 getaways
