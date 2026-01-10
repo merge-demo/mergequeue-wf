@@ -2747,7 +2747,6 @@ amontillado
 acrobatical
 acrobatism
 actinotherapeutic
-aflare
 alveolites
 acrobryous
 alarms
@@ -22383,6 +22382,7 @@ asteriskless
 angleberry
 ans
 aground
+aflare
 armourers
 antipragmaticism
 anteriorness
