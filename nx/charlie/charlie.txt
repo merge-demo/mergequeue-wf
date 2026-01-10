@@ -895,7 +895,6 @@ cajeput
 climaxes
 cajeputole
 census
-cajolement
 celure
 cajolements
 coagulating
@@ -6161,6 +6160,7 @@ chicos
 cattails
 cattaloes
 cyaniding
+cajolement
 catted
 crottels
 cretinistic
