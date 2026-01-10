@@ -10089,7 +10089,6 @@ exonian
 eternalize
 eyecups
 ensorcelize
-ebb
 erythrosin
 etheostominae
 elytroid
@@ -10769,6 +10768,7 @@ epicycloidal
 excystation
 ectopic
 extrasystolic
+ebb
 elderbush
 euphonic
 enid
