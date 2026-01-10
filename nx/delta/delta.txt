@@ -7258,7 +7258,6 @@ dobber
 delph
 dournesses
 deposal
-disarrest
 deterioration
 data
 diners
@@ -16582,6 +16581,7 @@ denotative
 donjon
 dikdiks
 diceras
+disarrest
 derout
 dialuric
 decorations
