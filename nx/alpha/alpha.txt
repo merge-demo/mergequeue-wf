@@ -3772,7 +3772,6 @@ aichmophobia
 acephalina
 adamantoblastoma
 arthrophyma
-alkaliferous
 accomplis
 aedility
 afer
@@ -24147,6 +24146,7 @@ alewives
 avast
 arache
 altoist
+alkaliferous
 avgasses
 antianarchist
 absorbance
