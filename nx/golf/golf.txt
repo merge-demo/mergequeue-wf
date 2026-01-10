@@ -6282,7 +6282,6 @@ gainable
 gluttingly
 gobble
 gloomily
-gobbled
 gothicizer
 gobbledygook
 gelatinised
@@ -6955,6 +6954,7 @@ garbologist
 gulf
 governable
 goodliness
+gobbled
 glyoxaline
 gorsiest
 gloxinias
