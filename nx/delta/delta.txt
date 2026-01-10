@@ -7700,7 +7700,6 @@ devily
 detail
 deviling
 deeded
-displaceable
 devility
 devilize
 delative
@@ -14857,6 +14856,7 @@ doctrinality
 doorbells
 dharmashastra
 doctrinarity
+displaceable
 diamondiferous
 deprisure
 dotant
