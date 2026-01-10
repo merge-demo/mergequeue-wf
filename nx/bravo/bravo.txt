@@ -4098,7 +4098,6 @@ beanstalk
 bestiaries
 bedmaking
 blearedness
-beriberi
 betoil
 beetrave
 bemusement
@@ -7666,6 +7665,7 @@ blandished
 bimolecular
 baric
 beechy
+beriberi
 beeyard
 brog
 bullocks
