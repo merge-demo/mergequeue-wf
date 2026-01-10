@@ -4306,7 +4306,6 @@ blubbers
 batiker
 boebera
 barly
-becalm
 becalming
 biaural
 beakiest
@@ -15616,6 +15615,7 @@ bdelloida
 braggadocio
 bryozoon
 belyingly
+becalm
 brique
 bilbos
 benthal
