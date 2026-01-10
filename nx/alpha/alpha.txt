@@ -2141,6 +2141,7 @@ achinese
 armatures
 amphophilous
 adspiration
+aeon
 abbaye
 agilely
 amortissement
@@ -25218,7 +25219,6 @@ abscisse
 amoralize
 axwise
 aurivorous
-aeon
 antecessor
 axwort
 acquirable
