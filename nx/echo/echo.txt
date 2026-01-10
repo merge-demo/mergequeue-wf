@@ -11335,6 +11335,7 @@ epupillate
 enwrap
 evapotranspiration
 ephetic
+effodientia
 ecaudata
 esiphonal
 eluviated
@@ -12009,7 +12010,6 @@ enforceability
 enamelled
 epidialogue
 enstranged
-effodientia
 eudaemonism
 exclusivistic
 exclusivity
