@@ -6682,6 +6682,7 @@ alliage
 abucco
 aposthia
 alt
+arrhal
 arpeggio
 archangelship
 arterialization
@@ -11780,7 +11781,6 @@ alconde
 analogousness
 anthem
 analogue
-arrhal
 analphabete
 angelus
 acyanopsia
