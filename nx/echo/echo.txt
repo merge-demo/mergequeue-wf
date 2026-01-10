@@ -1682,7 +1682,6 @@ escruage
 exhaustible
 evertors
 eclogues
-eases
 eligent
 ecumenist
 enlivening
@@ -9402,6 +9401,7 @@ enchair
 euspongia
 eventail
 embolies
+eases
 eucleid
 edifyingness
 ebdomade
