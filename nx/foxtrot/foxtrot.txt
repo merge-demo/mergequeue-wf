@@ -856,6 +856,7 @@ freckened
 freedoot
 fervorous
 forebows
+forbow
 free
 floutingly
 fermage
@@ -7459,7 +7460,6 @@ floressence
 fusk
 fatalistic
 feminologist
-forbow
 foreclose
 forestland
 foreparent
