@@ -1952,6 +1952,7 @@ gauged
 germicides
 glucosidal
 gorbellied
+global
 glutetei
 gruft
 gustoso
@@ -5013,7 +5014,6 @@ guariba
 glandered
 gurlet
 glittering
-global
 genially
 gangliest
 gateage
