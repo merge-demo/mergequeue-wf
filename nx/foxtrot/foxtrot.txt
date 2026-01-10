@@ -3176,7 +3176,6 @@ furanoses
 firma
 fauns
 fitched
-ficaries
 flouse
 foxite
 fices
@@ -3790,6 +3789,7 @@ filo
 fluvial
 filose
 ferrier
+ficaries
 furnitureless
 foreflap
 facette
