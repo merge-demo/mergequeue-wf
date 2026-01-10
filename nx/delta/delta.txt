@@ -11454,7 +11454,6 @@ departmental
 dockyard
 dissuader
 defenselessness
-demivotary
 determinoid
 disapproves
 discloser
@@ -11835,6 +11834,7 @@ drawbridges
 diduce
 dimitted
 discriminatively
+demivotary
 despatch
 discording
 drunker
