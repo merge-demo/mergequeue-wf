@@ -1538,7 +1538,6 @@ diddlers
 dieugard
 dynamisms
 dupondius
-durrs
 dedoggerelize
 deacons
 demobilizes
@@ -4606,6 +4605,7 @@ didine
 dadas
 disannul
 douzaines
+durrs
 dereliction
 demipectinate
 demonstrableness
