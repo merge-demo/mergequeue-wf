@@ -2912,7 +2912,6 @@ genuflex
 glyptal
 golkakra
 gynaeceum
-groggier
 gallerylike
 gigmanhood
 gravediggers
@@ -7626,6 +7625,7 @@ grab
 guanamine
 gullibility
 groaningly
+groggier
 gesithcundman
 guarantied
 gravimetrically
