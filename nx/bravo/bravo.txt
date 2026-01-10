@@ -7577,6 +7577,7 @@ businessman
 bevillain
 befell
 bonspell
+borrelia
 breezeless
 banes
 boehmite
@@ -10198,7 +10199,6 @@ blackcaps
 beaded
 bejeweled
 blanketflower
-borrelia
 beminstrel
 barysilite
 blackcod
