@@ -5658,6 +5658,7 @@ fascicled
 formerness
 fourgons
 frusla
+facades
 fortitude
 frostbitten
 flighter
@@ -11487,7 +11488,6 @@ ferrite
 foredescribe
 figural
 finnmarks
-facades
 furthest
 frise
 flittering
