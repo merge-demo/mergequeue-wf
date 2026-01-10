@@ -7021,6 +7021,7 @@ griefless
 guldengroschen
 geir
 glossopode
+goney
 gallerian
 glad
 grottoes
@@ -10437,7 +10438,6 @@ gluiness
 gyneolatry
 geologician
 guided
-goney
 glasshouses
 gardbrace
 grosbeaks
