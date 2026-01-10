@@ -560,7 +560,6 @@ fats
 falcons
 falculate
 fawnery
-falcunculus
 fussier
 fopling
 fibrobronchitis
@@ -10974,6 +10973,7 @@ fallfish
 fishwives
 freesias
 frail
+falcunculus
 feuillemorte
 fascicles
 furors

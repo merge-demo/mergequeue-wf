@@ -3523,6 +3523,7 @@ dismissable
 defrayers
 defraying
 desaturate
+dorsocephalad
 desiccated
 dagobas
 deceitful
@@ -5464,7 +5465,6 @@ deaerated
 deoxidative
 declamation
 deoxidisation
-dorsocephalad
 dissolubility
 deadest
 devoiced
