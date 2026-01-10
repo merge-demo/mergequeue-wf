@@ -7598,7 +7598,6 @@ extratelluric
 epicondylic
 erected
 epoptist
-equichangeable
 enviousness
 earsplitting
 encephalous
@@ -9241,6 +9240,7 @@ epizzoa
 escout
 exhume
 eloquential
+equichangeable
 educationalist
 extrapleural
 extrapolative
