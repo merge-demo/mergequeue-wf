@@ -3196,7 +3196,6 @@ eloins
 etioporphyrin
 ectotropic
 epidermidalization
-exocoelom
 eunuchal
 epitrophy
 epigonousepigons
@@ -13248,6 +13247,7 @@ explanted
 eutopian
 explanting
 explat
+exocoelom
 empurples
 exertive
 ety
