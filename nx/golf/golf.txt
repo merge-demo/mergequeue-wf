@@ -490,7 +490,6 @@ gasifiers
 grunions
 geochronological
 girkin
-gravimetrical
 gelatin
 gye
 glaucodot
@@ -5232,6 +5231,7 @@ gemara
 gentianose
 gingelies
 gieseckite
+gravimetrical
 geogenesis
 grottesco
 grimful
