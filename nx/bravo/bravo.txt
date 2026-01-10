@@ -7472,6 +7472,7 @@ bedgown
 boatings
 belgians
 betread
+banning
 bathybius
 braveries
 betrothing
@@ -16196,7 +16197,6 @@ blotting
 bonelessness
 befret
 botryomycotic
-banning
 blesbok
 benzoline
 berk
