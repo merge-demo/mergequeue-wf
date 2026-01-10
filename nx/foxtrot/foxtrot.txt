@@ -240,7 +240,6 @@ feverroot
 fluorotype
 faculous
 firelock
-filibranch
 forthcomingness
 facultatively
 faculties
@@ -9231,6 +9230,7 @@ frija
 fanaloka
 fascinations
 foveoles
+filibranch
 familiarly
 footled
 fries
