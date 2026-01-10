@@ -9949,7 +9949,6 @@ ecclesiae
 ensampler
 estrif
 elisor
-estrin
 elk
 estrums
 ethenol
@@ -12388,6 +12387,7 @@ eradiate
 ensample
 exhibitionism
 echinidea
+estrin
 encephalopathy
 epistyles
 enameled
