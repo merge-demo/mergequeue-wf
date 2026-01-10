@@ -3284,6 +3284,7 @@ expendables
 elul
 epidemic
 enoil
+exhausting
 erects
 enclitical
 encephalotomy
@@ -8086,7 +8087,6 @@ electrocolloidal
 epiplasmic
 epiplectic
 ethnological
-exhausting
 englishwomen
 enthusiastic
 enforcedly
