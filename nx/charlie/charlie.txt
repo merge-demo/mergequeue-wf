@@ -10517,7 +10517,6 @@ caballeria
 chylemia
 chiliadron
 chiliads
-connexity
 chiliahedron
 chiliarchia
 commuting
@@ -23716,6 +23715,7 @@ contradictiousness
 contradictiveness
 contradictory
 couxio
+connexity
 contradicts
 celeomorphae
 curitis
