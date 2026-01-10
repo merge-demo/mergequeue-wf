@@ -531,7 +531,6 @@ gluten
 gast
 galipoidin
 gotiglacial
-gomphocarpus
 geissolomataceae
 gamodemes
 griphus
@@ -6177,6 +6176,7 @@ goyin
 gristly
 gordyaean
 grandstanded
+gomphocarpus
 gamasoidea
 guillotinement
 glandiferous
