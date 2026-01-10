@@ -1599,7 +1599,6 @@ beatinest
 ballistician
 brachioganoidei
 ballflower
-ballywack
 byelaws
 basalt
 brooder
@@ -10468,6 +10467,7 @@ botong
 blanketlike
 brimborion
 breakover
+ballywack
 bloodfins
 blankets
 bhoot
