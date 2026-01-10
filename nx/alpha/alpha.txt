@@ -1252,7 +1252,6 @@ ambitus
 acarina
 acrasy
 acarine
-awaiters
 argils
 acarines
 achromasia
@@ -16384,6 +16383,7 @@ antler
 adherescence
 antlers
 accroached
+awaiters
 audibly
 antlid
 antling
