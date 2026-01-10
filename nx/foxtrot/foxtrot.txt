@@ -1228,7 +1228,6 @@ fixator
 fissure
 frustrately
 firmitude
-frigidity
 flexural
 flinched
 fatuities
@@ -3298,6 +3297,7 @@ flexility
 fracted
 forefinger
 fidejussor
+frigidity
 furfur
 fidelio
 forebreast
