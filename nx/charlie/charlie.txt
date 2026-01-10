@@ -1377,7 +1377,6 @@ chaped
 coquetted
 caliduct
 calif
-cinematographer
 cessio
 carpetwoven
 consolable
@@ -26948,6 +26947,7 @@ colorable
 cunningaire
 countermarching
 caroches
+cinematographer
 countermarriage
 countermessage
 chara
