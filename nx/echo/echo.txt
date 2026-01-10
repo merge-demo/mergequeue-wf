@@ -9682,7 +9682,6 @@ esprit
 enterorrhexis
 esq
 esquires
-existence
 exurbs
 establishmentarian
 euselachii
@@ -11245,6 +11244,7 @@ evangelic
 evangelical
 elide
 equiproducing
+existence
 endoplastron
 enjeopardy
 erector
