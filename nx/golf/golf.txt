@@ -4868,7 +4868,6 @@ graphemes
 gowns
 gymnothorax
 gladhearted
-greeted
 geometroidea
 giggish
 glaciology
@@ -7297,6 +7296,7 @@ gazeful
 gormandize
 glomi
 gormandizes
+greeted
 gundeck
 gangsa
 gleaming
