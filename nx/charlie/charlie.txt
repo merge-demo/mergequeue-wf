@@ -19081,7 +19081,6 @@ crises
 camb
 colliflower
 cruset
-colligate
 colligating
 cookbook
 cecropia
@@ -26396,6 +26395,7 @@ canulating
 cinderlike
 coterie
 ciminite
+colligate
 concavities
 centipoise
 cliffier
