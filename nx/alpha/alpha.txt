@@ -11221,6 +11221,7 @@ amphithecium
 abjures
 avowries
 amphithyra
+abrotine
 ana
 animikite
 acheron
@@ -25055,7 +25056,6 @@ awoken
 amylome
 archistome
 arboret
-abrotine
 antiserums
 antierosion
 aworry
