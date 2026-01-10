@@ -2017,6 +2017,7 @@ gars
 gregaloid
 generalness
 gambogic
+gyroscopics
 golliwog
 gadaria
 gravispheric
@@ -2052,7 +2053,6 @@ guazuti
 gavelock
 givenness
 gliridae
-gyroscopics
 ghana
 gerocomia
 gavelocks
