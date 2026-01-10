@@ -10278,6 +10278,7 @@ americanum
 amphicarpa
 avocados
 aliment
+anfract
 avoiders
 americophobe
 amerimnon
@@ -12539,7 +12540,6 @@ advene
 allochroite
 algosis
 arithmetician
-anfract
 ameliorating
 anfractuose
 anchusin
