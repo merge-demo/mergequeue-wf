@@ -8529,7 +8529,6 @@ equatable
 ecclesiasticize
 egregious
 echinated
-eastlin
 etherify
 ethicism
 emblement
@@ -11517,6 +11516,7 @@ eidolic
 electrophotometer
 evigilation
 exsecant
+eastlin
 encloister
 engin
 exoergic
