@@ -8732,6 +8732,7 @@ enlighteners
 experimentator
 equitemporaneous
 eluted
+exoculated
 ethysulphuric
 effulgence
 embrowd
@@ -9906,7 +9907,6 @@ epideictical
 extensionist
 electrotyper
 electromagnetics
-exoculated
 extravertive
 effemination
 epidermatic
