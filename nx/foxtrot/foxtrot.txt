@@ -1946,6 +1946,7 @@ fancy
 feebless
 filatory
 fillock
+fallacious
 fabricate
 fernticle
 fibratus
@@ -3970,7 +3971,6 @@ flattish
 fluting
 forfeited
 flunk
-fallacious
 fellies
 fingerprint
 ferric
