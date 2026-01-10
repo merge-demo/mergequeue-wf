@@ -1178,7 +1178,6 @@ galliney
 grifters
 grogs
 grift
-groatsworth
 gasthaus
 guidingly
 gaslights
@@ -5457,6 +5456,7 @@ garottes
 glyptodontoid
 galactophlebitis
 gravidae
+groatsworth
 gavot
 gravies
 griphosaurus
