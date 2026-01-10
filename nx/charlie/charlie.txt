@@ -7816,7 +7816,6 @@ coys
 certiorate
 certis
 certitudes
-circularized
 certosa
 cyathium
 certose
@@ -14882,6 +14881,7 @@ cheapies
 cajolingly
 cytopathogenic
 chagrined
+circularized
 cecostomy
 cytopathogenicity
 confuting
