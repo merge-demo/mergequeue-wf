@@ -1129,6 +1129,7 @@ ceratobranchial
 calcioscheelite
 calciovolborthite
 calciphylactic
+cresoxid
 calciphylaxis
 cabecera
 calciphilia
@@ -28808,7 +28809,6 @@ cresorcinol
 cryogenies
 ctg
 cresoxy
-cresoxid
 carcinosarcomas
 cloyed
 concumbency
