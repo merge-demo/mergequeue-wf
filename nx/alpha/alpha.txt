@@ -2842,7 +2842,6 @@ apicoectomy
 amylopsase
 annona
 acronym
-acrotreta
 aubrietia
 arteriolith
 aperitif
@@ -6696,6 +6695,7 @@ antispastic
 antiglare
 anaphorical
 armlocks
+acrotreta
 airable
 avenue
 angerless
