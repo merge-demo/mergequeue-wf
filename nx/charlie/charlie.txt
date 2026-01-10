@@ -18848,7 +18848,6 @@ codeins
 colichemarde
 colicines
 cultigen
-celiac
 corvisor
 cytogene
 colicroot
@@ -31580,6 +31579,7 @@ curtilage
 curtsied
 curucaneca
 catcalled
+celiac
 curucucu
 curucui
 copromisor
