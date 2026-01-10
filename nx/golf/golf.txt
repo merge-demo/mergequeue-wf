@@ -1425,7 +1425,6 @@ gausterer
 glossocomon
 gearshift
 gcd
-gangplow
 grundyite
 guigne
 galvanopsychic
@@ -7740,6 +7739,7 @@ grizzliest
 goldworker
 gamins
 grouf
+gangplow
 gorling
 grewsome
 gelations
