@@ -3793,7 +3793,6 @@ dittologies
 denigrative
 donkey
 dialyzator
-dienes
 dicier
 disjecting
 darnedest
@@ -13467,6 +13466,7 @@ dingbat
 dramatise
 diplogenesis
 dialogging
+dienes
 domic
 disreport
 disreputability
