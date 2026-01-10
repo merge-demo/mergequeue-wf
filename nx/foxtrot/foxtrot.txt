@@ -5626,6 +5626,7 @@ featest
 filagrees
 furbearer
 froebelist
+fainters
 forefeel
 fossilation
 fmt
@@ -8611,7 +8612,6 @@ footlight
 flocculus
 feower
 freehold
-fainters
 farmplace
 frequence
 fiscs
