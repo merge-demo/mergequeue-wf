@@ -646,7 +646,6 @@ flyways
 forgainst
 flagmen
 falsity
-faltboat
 foreshape
 flavorlessness
 fumier
@@ -2611,6 +2610,7 @@ finebent
 fountainless
 frivol
 flashbacks
+faltboat
 filigreed
 ferio
 farandmen
