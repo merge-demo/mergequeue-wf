@@ -11780,6 +11780,7 @@ alconde
 analogousness
 anthem
 analogue
+arrhal
 analphabete
 angelus
 acyanopsia
@@ -21494,7 +21495,6 @@ ancylus
 axles
 aspersoriums
 asperugo
-arrhal
 ambulatoria
 asperulous
 anticovenanting
