@@ -11630,7 +11630,6 @@ devillike
 dithering
 discerpibility
 disconsolately
-discriminativeness
 demophobe
 digester
 dimplement
@@ -17321,6 +17320,7 @@ derivational
 droolier
 drollery
 dorts
+discriminativeness
 desmotropism
 deynt
 drooper
