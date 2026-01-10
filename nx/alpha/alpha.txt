@@ -23305,6 +23305,7 @@ astrocytoma
 amoretto
 atropinization
 alicoche
+abneural
 akeley
 attempted
 attunement
@@ -24591,7 +24592,6 @@ automania
 alabamian
 aquarian
 availer
-abneural
 antimachine
 airmails
 archaeostomatous
