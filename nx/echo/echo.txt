@@ -3067,7 +3067,6 @@ elytrorhagia
 euglandina
 elytrostenosis
 elytrotomy
-emeer
 epistolatory
 elixir
 enraging
@@ -10130,6 +10129,7 @@ ecthlipses
 endorses
 etherealness
 escherichia
+emeer
 equisetum
 erose
 enculturated
