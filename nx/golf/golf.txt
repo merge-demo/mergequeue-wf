@@ -426,7 +426,6 @@ gair
 glucic
 gamosepalous
 gardenable
-gerate
 gooseflesh
 gammexane
 grapefruits
@@ -3515,6 +3514,7 @@ glamourize
 gesturist
 geothermic
 gleaners
+gerate
 girdingly
 guimpes
 gemsbucks
