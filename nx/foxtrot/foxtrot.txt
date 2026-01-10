@@ -2926,7 +2926,6 @@ fac
 flaked
 formulist
 fortunite
-furloughs
 froths
 filibranchiate
 fevered
@@ -11482,6 +11481,7 @@ fairleader
 froggery
 formular
 flowered
+furloughs
 fishified
 foothill
 ferrite
