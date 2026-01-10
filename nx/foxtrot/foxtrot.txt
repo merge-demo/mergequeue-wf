@@ -5927,7 +5927,6 @@ flocced
 frustulose
 film
 feyer
-festine
 fecund
 fistfight
 fangas
@@ -7960,6 +7959,7 @@ fonder
 frenzied
 foreseize
 flatteries
+festine
 fike
 flamen
 fightingly
