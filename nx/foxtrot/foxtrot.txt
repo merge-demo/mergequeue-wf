@@ -3300,6 +3300,7 @@ fossilologist
 featherlessness
 frustrates
 fioritura
+fond
 fulgide
 feture
 flabbergastation
@@ -5875,7 +5876,6 @@ forestallment
 fenestration
 flywinch
 flouncey
-fond
 footback
 forgrown
 fallers
