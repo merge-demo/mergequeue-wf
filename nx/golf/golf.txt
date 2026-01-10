@@ -5264,6 +5264,7 @@ gloamings
 grippier
 gaited
 gyrovagi
+goofer
 gemmipara
 groovy
 glycosine
@@ -5371,7 +5372,6 @@ galivant
 gynecomastism
 grandevity
 gombeenism
-goofer
 gonocheme
 gnomon
 generalisation
