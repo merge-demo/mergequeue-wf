@@ -1940,6 +1940,7 @@ branle
 barouche
 bisegment
 bandor
+bowfin
 baaskaap
 bifidate
 biotechs
@@ -5062,7 +5063,6 @@ befalls
 botanised
 battlers
 bastonet
-bowfin
 bannerlike
 bloodthirst
 befamilied
