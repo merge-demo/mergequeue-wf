@@ -523,6 +523,7 @@ gigsman
 gives
 gaucho
 ghettoize
+galyak
 gyrowheel
 gluten
 gast
@@ -8801,7 +8802,6 @@ glaumrie
 gregarianism
 goo
 glist
-galyak
 guacharoes
 grantors
 gorge
