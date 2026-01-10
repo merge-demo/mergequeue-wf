@@ -4444,7 +4444,6 @@ bonspells
 bretonian
 bourguignonne
 bilabials
-banting
 bonasus
 breathtakingly
 blindman
@@ -5677,6 +5676,7 @@ brunettes
 brasiers
 burlesquely
 bocher
+banting
 busks
 besped
 beldams
