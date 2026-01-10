@@ -1615,7 +1615,6 @@ fretize
 fellmongery
 fawners
 floury
-frowned
 facet
 farandole
 formicoidea
@@ -10090,6 +10089,7 @@ ferd
 frothsome
 fonted
 fulfilled
+frowned
 foreleader
 fustiest
 forearms
