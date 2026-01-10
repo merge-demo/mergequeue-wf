@@ -3731,6 +3731,7 @@ georgie
 galvanize
 geothermometer
 garishness
+guajillo
 gpm
 goldbug
 gangwa
@@ -7517,7 +7518,6 @@ gaet
 gambols
 gelatinizable
 garapato
-guajillo
 gastromenia
 globularity
 griffade
