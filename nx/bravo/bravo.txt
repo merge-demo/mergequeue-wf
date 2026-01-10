@@ -6748,7 +6748,6 @@ buffoons
 bionic
 bechalks
 buoyantly
-boondoggled
 beshrouding
 brakesmen
 bushtit
@@ -7627,6 +7626,7 @@ barnacle
 bewhisker
 biplicate
 bemingling
+boondoggled
 brosot
 burele
 bywalker
