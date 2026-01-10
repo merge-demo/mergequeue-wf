@@ -6615,7 +6615,6 @@ execrate
 epaleaceous
 elaeococca
 easterliness
-eudemonistical
 enterogastrone
 ermining
 enamdar
@@ -11360,6 +11359,7 @@ eth
 eveline
 equidifferent
 epitrochlear
+eudemonistical
 evenfall
 electroscission
 eupnoeic
