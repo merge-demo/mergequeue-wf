@@ -1197,6 +1197,7 @@ fume
 forepass
 frighter
 foochowese
+foraged
 flotson
 flukeless
 forgo
@@ -9627,7 +9628,6 @@ facete
 franticly
 forensic
 ferrules
-foraged
 floreta
 frontopontine
 fizzed
