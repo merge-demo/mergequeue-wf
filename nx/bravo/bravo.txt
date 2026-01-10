@@ -3064,7 +3064,6 @@ bdellostomatidae
 baruria
 barvel
 baleful
-baton
 byeworker
 beduin
 brainwashing
@@ -10435,6 +10434,7 @@ blanches
 buntlines
 blackout
 brawlingly
+baton
 besnows
 bisectionally
 blancmanges
