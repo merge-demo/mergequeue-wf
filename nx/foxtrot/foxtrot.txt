@@ -473,7 +473,6 @@ forcefulness
 faisceau
 firths
 forelaying
-florilage
 fared
 formidably
 friskiest
@@ -1036,6 +1035,7 @@ fumosity
 feverweed
 fenny
 federalese
+florilage
 fragmentalize
 flatboats
 finalists
