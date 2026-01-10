@@ -3763,7 +3763,6 @@ awol
 animation
 azoxybenzoic
 aglaia
-antecedal
 adiadokokinesia
 adiagnostic
 adeniform
@@ -13176,6 +13175,7 @@ ancestors
 aegithognathous
 aidance
 animus
+antecedal
 analphabetism
 administrationist
 animuses
