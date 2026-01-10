@@ -1007,6 +1007,7 @@ balcony
 burnweed
 bail
 bringer
+battledore
 barfs
 bailable
 baile
@@ -4292,7 +4293,6 @@ boggish
 brabbled
 befinger
 bathyscaph
-battledore
 bacterious
 bebreech
 bigeminy
