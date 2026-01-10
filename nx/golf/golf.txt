@@ -1525,7 +1525,6 @@ grote
 grasseye
 genapping
 geological
-geratology
 gasman
 gasbags
 galactosemia
@@ -10481,6 +10480,7 @@ gusset
 goosy
 glossological
 guimpe
+geratology
 guanophore
 gourmands
 goatbrush
