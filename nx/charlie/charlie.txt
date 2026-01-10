@@ -11065,7 +11065,6 @@ chitimacha
 chitimachan
 checksums
 coappears
-chitinoid
 chitinous
 chitins
 chitlin
@@ -16601,6 +16600,7 @@ cheerily
 clonicotonic
 coexecutrix
 clonisms
+chitinoid
 chaudron
 conjurer
 clerodendron
