@@ -16458,7 +16458,6 @@ corsned
 conjecturer
 cloaklet
 culbert
-cowichan
 costumist
 chaunt
 cymbaline
@@ -25592,6 +25591,7 @@ corpn
 corpora
 corporacies
 calcic
+cowichan
 corporalcy
 corporale
 corporalism
