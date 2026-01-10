@@ -6584,6 +6584,7 @@ eurygnathous
 elocution
 enwrapment
 enlinking
+enguard
 ectocarpaceous
 elemol
 eximidus
@@ -7217,7 +7218,6 @@ exacted
 estolide
 esplanades
 elpasolite
-enguard
 effervesce
 explicitness
 embrave
