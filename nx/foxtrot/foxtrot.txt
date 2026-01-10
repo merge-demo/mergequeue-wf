@@ -4834,7 +4834,6 @@ felsites
 fumish
 flume
 fracticipita
-faunus
 fishberries
 firepower
 flinthead
@@ -6612,6 +6611,7 @@ fiant
 funereal
 flamless
 furrings
+faunus
 flattened
 faunistical
 fluxionist
