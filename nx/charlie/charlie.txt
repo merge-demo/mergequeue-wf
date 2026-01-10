@@ -10453,7 +10453,6 @@ chil
 complementation
 chilacayote
 calinago
-cleistogamous
 capiases
 chylaceous
 chilalgia
@@ -22830,6 +22829,7 @@ consenescency
 cratometer
 coeditor
 consensually
+cleistogamous
 crouches
 cycadofilicale
 cytology
