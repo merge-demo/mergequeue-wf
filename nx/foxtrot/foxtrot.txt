@@ -9304,7 +9304,6 @@ faradomuscular
 frontispieced
 francas
 fraktur
-fasciolet
 fresnel
 foresentence
 fetishist
@@ -10330,6 +10329,7 @@ ferricyanhydric
 frolicsome
 fishful
 fratched
+fasciolet
 frammit
 fibrinolysin
 fultz
