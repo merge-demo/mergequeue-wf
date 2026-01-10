@@ -6756,7 +6756,6 @@ emerit
 evacuation
 ediface
 enthusiasms
-encoffin
 elaborator
 entrechat
 endoceratitic
@@ -13917,6 +13916,7 @@ extorter
 ectoderm
 extramoral
 electee
+encoffin
 epimerizing
 exorcized
 extumescence
