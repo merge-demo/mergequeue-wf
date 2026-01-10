@@ -9520,7 +9520,6 @@ escrowing
 esculents
 esculin
 expansively
-earthstar
 essences
 eugenesis
 extrasolar
@@ -13951,6 +13950,7 @@ entoire
 extraparliamentary
 ectotrophic
 expressless
+earthstar
 epimer
 eozoonal
 enface
