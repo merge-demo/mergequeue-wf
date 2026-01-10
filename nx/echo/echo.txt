@@ -233,6 +233,7 @@ expressible
 enarthroses
 earthslide
 endosalpingitis
+expansion
 ehuawa
 eyesores
 earthwall
@@ -6260,7 +6261,6 @@ excalfaction
 enrich
 enrichener
 ectopias
-expansion
 enows
 electrotechnology
 ecclesiastry

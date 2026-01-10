@@ -1830,7 +1830,6 @@ azotaemia
 atridean
 adolesced
 acequia
-aethered
 aceraceous
 acerae
 angling
@@ -9755,6 +9754,7 @@ anemonella
 aberroscope
 aquashow
 angleworm
+aethered
 ane
 adjudicating
 albumoid
