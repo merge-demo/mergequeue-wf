@@ -7796,6 +7796,7 @@ ebulliency
 eccentrate
 enterography
 epiglottitis
+ennomic
 exsiccator
 elegiambic
 equilibrator
@@ -13654,7 +13655,6 @@ extenuate
 extenuates
 enchanted
 empicture
-ennomic
 elastin
 eerier
 eliminates
