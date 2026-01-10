@@ -10607,6 +10607,7 @@ colpostat
 catamounts
 chilodon
 chilognathous
+clo
 chilogrammo
 cubic
 contract
@@ -16428,7 +16429,6 @@ cliver
 clivers
 clivis
 clk
-clo
 cloaca
 cloacae
 cryptanalyzed
