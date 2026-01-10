@@ -7357,7 +7357,6 @@ cephalins
 cephalism
 caprine
 cephalitis
-cephalization
 cephaloauricular
 counterclassifications
 cephalobranchiata
@@ -21926,6 +21925,7 @@ cephalalgy
 creating
 chungking
 courtiery
+cephalization
 convexities
 confessant
 confessary
