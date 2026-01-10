@@ -8782,7 +8782,6 @@ globin
 guttae
 gismo
 gurian
-groundenell
 grubby
 glucosuric
 glitterance
@@ -9879,6 +9878,7 @@ grilles
 gabbarts
 gallivant
 gospellike
+groundenell
 gnathopoda
 grousers
 gorillas
