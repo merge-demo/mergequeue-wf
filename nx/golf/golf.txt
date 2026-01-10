@@ -1347,6 +1347,7 @@ gieing
 gunky
 gazaboes
 garroter
+glacon
 gary
 groundling
 glyptological
@@ -10255,7 +10256,6 @@ graminivore
 guiltsick
 genesee
 generating
-glacon
 gorsehatch
 geographics
 gershom
