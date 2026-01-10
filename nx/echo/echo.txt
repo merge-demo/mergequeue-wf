@@ -4173,7 +4173,6 @@ elaeosia
 eyeroot
 etherealism
 escaloped
-echiurida
 etuve
 eighteen
 endrin
@@ -11334,6 +11333,7 @@ ecurie
 englander
 enrank
 entirety
+echiurida
 eightfold
 eagles
 erythrine
