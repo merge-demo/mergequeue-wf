@@ -1329,6 +1329,7 @@ balatron
 benzaldiphenyl
 balatte
 bermudian
+bewimple
 bernoullian
 bingy
 burelage
@@ -11762,7 +11763,6 @@ bartlett
 bobby
 burlily
 bobbin
-bewimple
 bolivias
 bobbinite
 bigamies
