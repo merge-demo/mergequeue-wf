@@ -7610,6 +7610,7 @@ foreconclude
 flagonet
 foredivine
 figworts
+faerie
 ficoidal
 foggier
 forecourts
@@ -9805,7 +9806,6 @@ fatigability
 fishworm
 farfel
 fluentness
-faerie
 flyspeck
 flummoxed
 fascists
