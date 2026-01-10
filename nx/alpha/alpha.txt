@@ -13872,7 +13872,6 @@ antheroid
 acraspedote
 ardisia
 antae
-antaean
 antaeus
 acetometry
 agriotypidae
@@ -19611,6 +19610,7 @@ apophorometer
 aridian
 aridity
 analogies
+antaean
 aridities
 anaxagorean
 afghanis
