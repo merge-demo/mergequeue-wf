@@ -6033,6 +6033,7 @@ dipyramidal
 dodge
 deputational
 diarrhoetic
+dracontian
 driegh
 dandiprat
 disappoint
@@ -8291,7 +8292,6 @@ dialyzer
 diagrams
 dentin
 db
-dracontian
 demivolts
 dispossess
 droob
