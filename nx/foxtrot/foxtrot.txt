@@ -2754,7 +2754,6 @@ festilogies
 feddans
 festinance
 festoonery
-floorless
 fraus
 familistere
 featness
@@ -8640,6 +8639,7 @@ finnochio
 functionate
 fingerfishes
 faddishly
+floorless
 feelers
 felt
 fearfully
