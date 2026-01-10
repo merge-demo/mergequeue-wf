@@ -11033,6 +11033,7 @@ blithesomely
 biography
 backseats
 biddery
+becaps
 bezels
 benzotriazine
 boffolas
@@ -15836,7 +15837,6 @@ broguer
 biotin
 brogueries
 beneficence
-becaps
 bove
 bedecks
 beauing
