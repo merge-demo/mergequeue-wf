@@ -7177,7 +7177,6 @@ guan
 gabelle
 glider
 gulfweed
-geometrise
 guans
 gaffs
 gauming
@@ -8001,6 +8000,7 @@ gulas
 gaoloring
 grandfathers
 gangster
+geometrise
 galvanotaxis
 guayacan
 glossy
