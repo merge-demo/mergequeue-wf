@@ -7518,7 +7518,6 @@ earnie
 electronics
 expositors
 eastward
-epicedian
 epicedium
 entropies
 eburine
@@ -9128,6 +9127,7 @@ equiproportional
 exograph
 endothermism
 erliche
+epicedian
 etiolating
 eldern
 episplenitis
