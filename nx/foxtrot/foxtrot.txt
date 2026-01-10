@@ -2694,7 +2694,6 @@ fungused
 flauto
 firebird
 feigher
-flaggella
 frost
 fraxetin
 fouette
@@ -11463,6 +11462,7 @@ formularies
 fideles
 flic
 flaffer
+flaggella
 furfurylidene
 furrowing
 forletting
