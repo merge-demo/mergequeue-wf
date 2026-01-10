@@ -5851,7 +5851,6 @@ agglomerates
 agglomeration
 agglomerative
 arachnologist
-apical
 agglutinate
 arenaceous
 arri
@@ -7977,6 +7976,7 @@ anomaliped
 admirations
 anahao
 alexius
+apical
 atramentary
 aramaicize
 alleging
