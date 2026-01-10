@@ -9533,7 +9533,6 @@ facinorous
 ffa
 frauleins
 formaliter
-fissiparousness
 flatbottom
 forbreak
 floatman
@@ -10725,6 +10724,7 @@ frumenty
 fungals
 footband
 forecar
+fissiparousness
 francic
 finnier
 fraternizer
