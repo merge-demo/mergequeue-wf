@@ -9222,6 +9222,7 @@ crombec
 chastest
 censurers
 ceduous
+candours
 chastiment
 clapperboard
 cheering
@@ -11071,7 +11072,6 @@ chitlin
 chitling
 chitlings
 cowbirds
-candours
 carloads
 calamus
 counterpaled
