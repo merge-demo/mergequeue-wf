@@ -3090,6 +3090,7 @@ gossipper
 giant
 gnash
 glaciologists
+ghanian
 graphiter
 greensauce
 gamelin
@@ -9679,7 +9680,6 @@ gaeltacht
 granulomata
 grozer
 grubbery
-ghanian
 grinders
 guesthouse
 griddling
