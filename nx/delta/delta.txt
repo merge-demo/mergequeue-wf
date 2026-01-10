@@ -14748,6 +14748,7 @@ dobos
 drumlier
 detained
 decahedral
+delft
 doctorbird
 dermestid
 doc
@@ -17756,7 +17757,6 @@ dioramas
 damper
 duikerbok
 doziness
-delft
 downlooked
 donga
 desoxycorticosterone
