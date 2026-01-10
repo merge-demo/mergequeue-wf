@@ -3746,7 +3746,6 @@ caravans
 caravanserai
 chromoxylography
 caravanserial
-companeros
 caravel
 caravels
 cosen
@@ -31164,6 +31163,7 @@ coenflame
 celite
 calonectria
 coconscious
+companeros
 cupolated
 craniotomies
 chewstick
