@@ -611,6 +611,7 @@ damnify
 dearth
 damnificatus
 disoccupation
+drapable
 debarration
 depolarizer
 damnifies
@@ -1345,7 +1346,6 @@ dauphine
 dauphines
 drooping
 drawboard
-drapable
 dauri
 dorter
 dreyfusism
