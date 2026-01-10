@@ -1280,7 +1280,6 @@ ais
 acatalectic
 apomicts
 atelocardia
-acatalepsy
 amazes
 acrobats
 acatalepsia
@@ -16855,6 +16854,7 @@ athletocracy
 apiarists
 adolescently
 antidemocratic
+acatalepsy
 apically
 apices
 aphislion
