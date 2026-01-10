@@ -5598,6 +5598,7 @@ bekiss
 beachside
 bekisses
 beknighted
+beveller
 ballistite
 burrio
 brassicaceous
@@ -7554,7 +7555,6 @@ bolographically
 bardism
 baseband
 belayer
-beveller
 bardelle
 biathlon
 bedgery
