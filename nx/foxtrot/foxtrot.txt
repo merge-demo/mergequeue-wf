@@ -650,7 +650,6 @@ flavorlessness
 fumier
 faltere
 frequenter
-frithsoken
 falx
 fallbacks
 fluocarbonate
@@ -3637,6 +3636,7 @@ foregoneness
 fanes
 fulfilment
 foredate
+frithsoken
 flawier
 forelooper
 floorings
