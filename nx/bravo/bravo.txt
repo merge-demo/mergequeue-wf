@@ -5766,7 +5766,6 @@ burnettize
 bussy
 bamboozled
 bellacoola
-bellatrix
 bungler
 buckjump
 balaghat
@@ -14703,6 +14702,7 @@ babyishly
 beslimer
 basiparaplastin
 brachiopodous
+bellatrix
 buffware
 braseros
 backspin
