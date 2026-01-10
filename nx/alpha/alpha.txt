@@ -11130,7 +11130,6 @@ appellable
 annulled
 amphigastrium
 aspersed
-amphigene
 aimers
 advocating
 antimetabole
@@ -22287,6 +22286,7 @@ astrictive
 astrictively
 axialities
 autodynamic
+amphigene
 antal
 annex
 antifundamentalist
