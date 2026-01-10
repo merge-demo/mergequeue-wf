@@ -6577,6 +6577,7 @@ gleditsia
 goumier
 gastropod
 garnetwork
+glasswork
 ghettos
 grassant
 grappas
@@ -7459,7 +7460,6 @@ gyrometer
 goodmen
 grimacingly
 guesses
-glasswork
 glycines
 gorgelet
 gamotropic
