@@ -3289,6 +3289,7 @@ branchiostegan
 bushfighter
 beadlery
 backpacking
+batty
 betweens
 balche
 banyoro
@@ -3702,7 +3703,6 @@ bullockman
 bindlet
 bepinch
 baylike
-batty
 barbita
 barny
 brookflower
