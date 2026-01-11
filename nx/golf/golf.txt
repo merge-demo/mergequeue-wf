@@ -5116,6 +5116,7 @@ glassiness
 glasslikeness
 garrya
 griffins
+generalizable
 granza
 gastroptosia
 glycan
@@ -6460,7 +6461,6 @@ grandmaternal
 galleine
 gasification
 gynecomania
-generalizable
 goldeney
 grey
 garnishes
