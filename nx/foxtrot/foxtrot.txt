@@ -4751,7 +4751,6 @@ fatnesses
 furfuroid
 feedwater
 fulgor
-flabella
 frises
 factice
 fiot
@@ -11257,6 +11256,7 @@ fluorescing
 funked
 flatbrod
 filigrees
+flabella
 feuilleton
 funky
 filter
