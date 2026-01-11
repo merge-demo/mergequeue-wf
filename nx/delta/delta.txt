@@ -3820,7 +3820,6 @@ dicycly
 defoams
 deciduous
 dicellate
-daphnes
 deionizations
 dichroiscope
 diatropic
@@ -15083,6 +15082,7 @@ distinguisher
 dehors
 determinable
 doggonest
+daphnes
 doggoning
 detant
 dislady
