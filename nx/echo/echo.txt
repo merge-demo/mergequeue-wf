@@ -5455,7 +5455,6 @@ enemyship
 energeia
 emblematicalness
 energesis
-extrinsicality
 earmark
 epilobium
 escript
@@ -10593,6 +10592,7 @@ eocarboniferous
 equalises
 earthiness
 euchrome
+extrinsicality
 extracosmical
 euclideanism
 euclidian
