@@ -844,6 +844,7 @@ emunctory
 exegetical
 explanative
 epitheton
+exogastritis
 entrecote
 epop
 exulate
@@ -2731,7 +2732,6 @@ evanish
 eupatoriaceous
 evovae
 enchodontid
-exogastritis
 electrotype
 electrotypy
 enolase
