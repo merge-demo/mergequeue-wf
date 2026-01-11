@@ -1634,7 +1634,6 @@ ballooners
 bickering
 brattier
 balloonflower
-balloonish
 bibracteolate
 bopper
 babby
@@ -5979,6 +5978,7 @@ benumbing
 benighter
 bevor
 battiness
+balloonish
 beltless
 benchmarks
 biauriculate
