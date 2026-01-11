@@ -3711,7 +3711,6 @@ gluconeogenic
 goblet
 goldest
 geoglyphic
-gauntleted
 gillnetting
 gonadotropic
 glout
@@ -8667,6 +8666,7 @@ grapnel
 gerb
 guti
 glucosin
+gauntleted
 gulfed
 gingerleaf
 grapline
