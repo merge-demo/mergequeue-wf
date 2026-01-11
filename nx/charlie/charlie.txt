@@ -2553,6 +2553,7 @@ cacqueteuse
 candlenut
 candlepins
 chemist
+clustery
 candlerent
 concealed
 candlers
@@ -22374,7 +22375,6 @@ congresses
 cutocellulose
 clatch
 corneas
-clustery
 claviform
 congressing
 collingual
