@@ -3867,7 +3867,6 @@ anastatica
 adjectives
 acetine
 agyiomania
-anaerobiotically
 adjoinant
 angoumian
 agaphite
@@ -15483,6 +15482,7 @@ antimixing
 algum
 auxilium
 antiphrastic
+anaerobiotically
 amenorrhoeal
 alabastrum
 aspectual
