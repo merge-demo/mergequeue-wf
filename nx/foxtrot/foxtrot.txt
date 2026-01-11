@@ -4779,7 +4779,6 @@ feuillage
 fortlet
 fulldo
 foxberries
-forestalment
 flammiferous
 fluing
 follower
@@ -5184,6 +5183,7 @@ fellas
 flashover
 frivolous
 fructure
+forestalment
 flowerers
 fibromuscular
 flasker
