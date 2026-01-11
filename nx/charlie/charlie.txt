@@ -10943,6 +10943,7 @@ classicalness
 corpselike
 cartelism
 cokers
+curculionist
 ceramic
 chiromantic
 cabret
@@ -19226,7 +19227,6 @@ conformational
 collusively
 cymbate
 collusory
-curculionist
 collution
 collutory
 cimbia

@@ -9705,7 +9705,6 @@ embryol
 equational
 escopette
 external
-ephebos
 epicoelar
 extraterritorial
 ethylhydrocupreine
@@ -12302,6 +12301,7 @@ effortless
 epithet
 equilin
 elvanitic
+ephebos
 exercitorian
 effront
 efs
