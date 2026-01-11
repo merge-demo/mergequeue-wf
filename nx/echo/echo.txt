@@ -5165,7 +5165,6 @@ electrology
 encode
 epiplocele
 economists
-entocoele
 ergotist
 enterovirus
 eastings
@@ -8570,6 +8569,7 @@ excrementous
 encompassing
 epigrammatism
 electroengraving
+entocoele
 egall
 equidimensional
 equidist
