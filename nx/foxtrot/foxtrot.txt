@@ -5628,6 +5628,7 @@ fiendlike
 fossicking
 fader
 floweret
+fonly
 flycatchers
 flicflac
 foregone
@@ -5747,7 +5748,6 @@ farris
 fluffer
 footpound
 folioliferous
-fonly
 fluidmeter
 filemaker
 fresnels
