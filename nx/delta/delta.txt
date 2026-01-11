@@ -3053,7 +3053,6 @@ deepfrozen
 deemphasize
 dorsoapical
 diuretic
-deary
 dampener
 durzada
 disinvolvement
@@ -9490,6 +9489,7 @@ digestor
 ditting
 decalcify
 digestory
+deary
 decide
 digesture
 disapproval
