@@ -1968,7 +1968,6 @@ glamor
 gallamine
 gimbal
 geranic
-goring
 grubroot
 grudged
 guttable
@@ -4729,6 +4728,7 @@ garawi
 galactoside
 gelidly
 grego
+goring
 guaranteeship
 gonocoel
 glutin
