@@ -915,7 +915,6 @@ bardiglio
 bismarine
 bailee
 boscage
-bagrationite
 berryless
 bertram
 bivinyl
@@ -13134,6 +13133,7 @@ boehmenist
 boreen
 bowerly
 burdash
+bagrationite
 boreiad
 bestowment
 birse
