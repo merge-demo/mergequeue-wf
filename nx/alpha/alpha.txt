@@ -4679,7 +4679,6 @@ antedawn
 allographic
 acrotisms
 alphard
-aeluropodous
 aenach
 aphrodistic
 addaxes
@@ -11622,6 +11621,7 @@ avanti
 anaphylactic
 angulating
 anaesthesis
+aeluropodous
 abichite
 abeltree
 augustest
