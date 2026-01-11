@@ -3381,7 +3381,6 @@ germfree
 geostrophically
 gobio
 greenbul
-groan
 gullion
 genethliacism
 gutterlike
@@ -8745,6 +8744,7 @@ gynecomorphous
 grammars
 gastraeal
 gnathonical
+groan
 grassflat
 gabbed
 gastrodisc
