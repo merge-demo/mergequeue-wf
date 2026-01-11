@@ -3343,6 +3343,7 @@ flavorer
 fress
 fractals
 faultage
+fastigiate
 filestatus
 floorers
 flotsam
@@ -3509,7 +3510,6 @@ farness
 flubbing
 fleches
 falcones
-fastigiate
 fulgorid
 fusicladium
 figurer
@@ -5239,6 +5239,7 @@ furmente
 frontozygomatic
 furial
 figboy
+flyback
 flaubert
 forestudy
 flossies
@@ -6781,6 +6782,7 @@ flamming
 fenmen
 foiningly
 forjudged
+falseness
 food
 foliageous
 fineer
@@ -8201,6 +8203,7 @@ florulent
 fruitfullest
 fluffily
 fishpond
+fleak
 fantastry
 feverberries
 formicinae
@@ -8427,7 +8430,6 @@ flatfootedly
 fiaroblast
 freshmanic
 formulize
-fierier
 flushers
 fozinesses
 fritting
@@ -8976,6 +8978,7 @@ floush
 fragged
 fronded
 fossicker
+fierier
 filosus
 faultfinder
 funambulist
@@ -10104,7 +10107,6 @@ flyingly
 fantee
 ferriferous
 fulminurate
-falseness
 fireblende
 fastigiated
 flattie
@@ -10541,7 +10543,6 @@ frillery
 frot
 fortune
 fanman
-flyback
 frottola
 federalizations
 featherback
@@ -11396,7 +11397,6 @@ forgiveably
 footballer
 flushness
 fourposter
-fleak
 fertilely
 farfetch
 furnishes

@@ -4076,6 +4076,7 @@ defoliators
 dodgasted
 died
 decodes
+detestable
 daschagga
 dankish
 deitate
@@ -5273,7 +5274,6 @@ degasifier
 dispositioned
 diatomaceoid
 denouncers
-detestable
 detinue
 dissimulate
 downhearted
