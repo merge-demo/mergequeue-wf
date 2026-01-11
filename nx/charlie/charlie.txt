@@ -11520,6 +11520,7 @@ compester
 chokedamp
 chokeys
 camerata
+coliforms
 congenetic
 chockstone
 coronofrontal
@@ -18860,7 +18861,6 @@ colies
 cathecting
 curvilinearity
 corymbiform
-coliforms
 codisjunct
 communicational
 chaetophoraceae
