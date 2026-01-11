@@ -9055,7 +9055,6 @@ bacterium
 bossisms
 biographies
 boulangist
-boreable
 brinjarries
 balei
 bummerish
@@ -18143,6 +18142,7 @@ boogie
 backband
 beclouding
 bunco
+boreable
 benching
 botanicas
 bolita
