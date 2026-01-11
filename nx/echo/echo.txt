@@ -3428,7 +3428,6 @@ emetine
 equivokes
 eremopteris
 egypt
-electrotechnics
 electrobiology
 embarge
 espier
@@ -6752,6 +6751,7 @@ echidnae
 environmentally
 eyelids
 endogamy
+electrotechnics
 erythraemia
 entreasure
 emerit
