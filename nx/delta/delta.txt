@@ -764,7 +764,6 @@ devolatilize
 detrude
 dandles
 discute
-delirament
 dissections
 diapsidan
 denies
@@ -8989,6 +8988,7 @@ deraigns
 dodecuplet
 dicodeine
 dicoelious
+delirament
 dicolon
 disbar
 dudine
