@@ -9580,7 +9580,6 @@ founts
 foveate
 fermenter
 freckle
-furnace
 flashiness
 fieldmouse
 fructicultural
@@ -11415,6 +11414,7 @@ flatterous
 fleurette
 filminess
 flushboard
+furnace
 feasor
 flocculose
 furniture
