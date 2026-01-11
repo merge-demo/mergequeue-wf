@@ -2178,7 +2178,6 @@ esophagostenosis
 eyestring
 ensorceling
 eucalyn
-explicandum
 electropult
 elation
 euphonise
@@ -6621,6 +6620,7 @@ elaeococca
 easterliness
 enterogastrone
 ermining
+explicandum
 enamdar
 egrimonle
 enterogenous
