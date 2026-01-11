@@ -1916,7 +1916,6 @@ disapprobations
 debouched
 dextrous
 dacryd
-dinophilus
 deferments
 desire
 durocs
@@ -10563,6 +10562,7 @@ demigrate
 dippable
 dolmen
 downness
+dinophilus
 duteously
 discoblastula
 directionless
