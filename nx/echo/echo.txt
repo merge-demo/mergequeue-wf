@@ -649,7 +649,6 @@ evincement
 expunges
 emerald
 eclamptic
-externs
 ecstatics
 etymonic
 ellipses
@@ -13365,6 +13364,7 @@ embog
 enchytraeid
 enfonce
 excretive
+externs
 estating
 emotionalising
 ethnogeographically
