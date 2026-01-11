@@ -2295,7 +2295,6 @@ drawnet
 disceptator
 downpipe
 decemuiri
-derby
 decemviral
 deepish
 decayer
@@ -15067,6 +15066,7 @@ depressingness
 demulsify
 diskery
 delightable
+derby
 dimply
 doggish
 doggishness

@@ -4638,7 +4638,6 @@ bothriums
 bilberry
 backer
 bedecked
-bedrid
 bedecking
 beholdingness
 bulletproofed
@@ -18087,6 +18086,7 @@ butacaine
 bidi
 butadiyne
 brumby
+bedrid
 beshout
 berthierite
 butane
