@@ -2338,7 +2338,6 @@ frequently
 filmable
 flanneled
 fencelike
-flunked
 friarly
 funerary
 fleay
@@ -9997,6 +9996,7 @@ frillings
 flaggingly
 flutterless
 fakeers
+flunked
 facileness
 feelingness
 floatingly
