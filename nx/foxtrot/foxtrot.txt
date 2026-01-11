@@ -2418,7 +2418,6 @@ freemasons
 fullom
 frizzle
 fingered
-frisco
 farandola
 flutterable
 fiel
@@ -11515,6 +11514,7 @@ frictional
 federalizes
 fundamentally
 fubby
+frisco
 foretopmen
 fibrolipomatous
 fissidactyl
