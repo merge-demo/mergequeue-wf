@@ -18910,7 +18910,6 @@ colyum
 climbs
 coliuria
 colla
-csnet
 countermoving
 cornulite
 collabent
@@ -27249,6 +27248,7 @@ countlessness
 countor
 cardhouse
 chitty
+csnet
 country
 cyclers
 countrieman
