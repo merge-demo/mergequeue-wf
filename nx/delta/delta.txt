@@ -4629,7 +4629,6 @@ dualisms
 deliming
 driest
 dryopithecid
-demivolt
 disprobative
 deus
 dismantle
@@ -6621,6 +6620,7 @@ desert
 darkroom
 deescalated
 deacidification
+demivolt
 denotational
 dissentism
 desorb
