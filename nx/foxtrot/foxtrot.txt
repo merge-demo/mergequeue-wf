@@ -1524,7 +1524,6 @@ franklinite
 forfends
 fauntleroy
 frousty
-frankability
 flagellaria
 faddisms
 freely
@@ -5402,6 +5401,7 @@ fleahopper
 fructuously
 familyish
 fimbrilla
+frankability
 finiking
 fum
 flouncier
