@@ -5738,6 +5738,7 @@ dehumidify
 depolarization
 dernly
 depolarize
+duffels
 dextrorsal
 decouple
 downstroke
@@ -7212,7 +7213,6 @@ disenchantingly
 detecter
 detecters
 decemvirate
-duffels
 digitate
 distance
 decertify
