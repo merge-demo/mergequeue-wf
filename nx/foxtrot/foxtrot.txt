@@ -1452,7 +1452,6 @@ faulds
 fasciculite
 flittern
 fley
-flix
 felicitators
 font
 flavorings
@@ -5309,6 +5308,7 @@ formols
 fitch
 feminization
 falsedad
+flix
 fogy
 fockle
 fabricable
