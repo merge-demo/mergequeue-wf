@@ -2668,7 +2668,6 @@ boggy
 barleybrake
 broadener
 barleycorn
-bournonite
 bilge
 bimensal
 bellying
@@ -12112,6 +12111,7 @@ barbascos
 bebloom
 balisaurs
 boilable
+bournonite
 befrounce
 blindage
 boilerful
