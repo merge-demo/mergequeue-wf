@@ -4683,7 +4683,6 @@ griggles
 graphometer
 gaonic
 guiltful
-gasconade
 gummosis
 gamori
 gentrice
@@ -10655,6 +10654,7 @@ galbulus
 gerontologies
 grantor
 giganticness
+gasconade
 gargets
 grandiloquent
 grutches
