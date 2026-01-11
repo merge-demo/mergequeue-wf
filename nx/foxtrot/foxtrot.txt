@@ -1446,6 +1446,7 @@ fatuus
 frankly
 fantasie
 feramorz
+fluentness
 filago
 fatelike
 fireside
@@ -9807,7 +9808,6 @@ flyeater
 fatigability
 fishworm
 farfel
-fluentness
 flyspeck
 flummoxed
 fascists
