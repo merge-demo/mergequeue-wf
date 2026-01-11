@@ -5628,7 +5628,6 @@ againward
 aggrace
 aguara
 ardeid
-agal
 appoggiaturas
 agalaxia
 anisomelus
@@ -24819,6 +24818,7 @@ avisos
 avital
 arboricole
 avitaminosis
+agal
 acariform
 aloof
 avocadoes
