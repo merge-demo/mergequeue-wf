@@ -7794,6 +7794,7 @@ fullerboard
 fife
 flanes
 firearms
+footler
 fotch
 fondant
 fritters
@@ -10694,7 +10695,6 @@ fieldworker
 flagless
 fist
 franklin
-footler
 famish
 frightable
 feretrum
