@@ -2781,7 +2781,6 @@ erythropoiesis
 elegised
 elegising
 excuderunt
-ensisternum
 ectoenzym
 elegized
 elegizes
@@ -4934,6 +4933,7 @@ endangitis
 expertised
 enfile
 endarteteria
+ensisternum
 engrammatic
 eupterotidae
 endaspidean
