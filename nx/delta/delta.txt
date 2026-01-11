@@ -3799,6 +3799,7 @@ duplexed
 dropped
 despatched
 discommender
+duncical
 deimos
 demagnetizer
 daffs
@@ -18194,7 +18195,6 @@ dispelled
 dasypeltis
 dinucleotide
 dorsulum
-duncical
 delamination
 dementi
 dharani
