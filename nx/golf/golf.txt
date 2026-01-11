@@ -4198,6 +4198,7 @@ gigback
 guacamole
 gasan
 goetic
+goggles
 gravelstone
 gasbag
 ginnle
@@ -10525,7 +10526,6 @@ gnome
 graveman
 genuineness
 grecized
-goggles
 giftling
 greenbacks
 gristhorbia
