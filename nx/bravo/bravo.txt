@@ -3234,7 +3234,6 @@ beware
 birdcalls
 basilateral
 bowker
-balak
 basilect
 bloodwit
 begunk
@@ -9416,6 +9415,7 @@ baroscope
 brockets
 baleless
 blirt
+balak
 biopoiesis
 bearishly
 bonniness
