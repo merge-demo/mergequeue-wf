@@ -2423,6 +2423,7 @@ electrodes
 etherization
 electrodiagnosis
 esterling
+emeers
 embiid
 entheos
 epepophysis
@@ -3817,7 +3818,6 @@ eradicatory
 erect
 epilogs
 entrusts
-emeers
 emend
 exscribe
 epistolizing
