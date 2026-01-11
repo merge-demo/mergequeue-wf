@@ -4152,7 +4152,6 @@ eiffel
 ensheathed
 every
 etymologically
-eniac
 emplunge
 eccentring
 empodia
@@ -11459,6 +11458,7 @@ extirpating
 encipherment
 ellinge
 elucidation
+eniac
 engraving
 ephemera
 ejido
