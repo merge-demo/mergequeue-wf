@@ -7369,6 +7369,7 @@ brazera
 bufidin
 bursters
 borides
+boarhound
 buttonholing
 breathseller
 betear
@@ -10122,7 +10123,6 @@ backfired
 bashed
 backwatered
 bizygomatic
-boarhound
 bokos
 basidiolichen
 bedstring
