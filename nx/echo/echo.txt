@@ -3812,7 +3812,6 @@ emceeing
 escalader
 enquirer
 eyewater
-electroneutral
 eradicatory
 erect
 epilogs
@@ -7507,6 +7506,7 @@ epauliere
 ectoprocta
 electroforming
 exocarp
+electroneutral
 experienceable
 epicede
 encephalitogenic
