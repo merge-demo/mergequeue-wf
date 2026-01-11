@@ -6415,7 +6415,6 @@ borize
 blas
 burely
 benzonaphthol
-benzonitrile
 behedge
 benzophenothiazine
 betting
@@ -12093,6 +12092,7 @@ bilinigrin
 bronchostomies
 bertin
 bojite
+benzonitrile
 biscuitry
 boxberry
 boycott
