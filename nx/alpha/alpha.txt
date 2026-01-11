@@ -1164,7 +1164,6 @@ anaclastic
 arow
 acalyculate
 apheliotropic
-acalyptratae
 anonymities
 acamar
 azimuths
@@ -1876,6 +1875,7 @@ acceleration
 adstrict
 anthropomorphological
 advanced
+acalyptratae
 arsenites
 anaglyphic
 azodisulphonic
