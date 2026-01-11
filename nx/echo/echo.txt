@@ -8046,7 +8046,6 @@ eteocles
 ectodermal
 exteriorly
 ego
-ektodynamorphic
 endamebic
 exuding
 earthworks
@@ -11043,6 +11042,7 @@ eurythmics
 epiphenomena
 endotrophic
 epigonichthys
+ektodynamorphic
 endosarcs
 enterrologist
 epicanthi
