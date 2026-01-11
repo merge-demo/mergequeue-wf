@@ -874,7 +874,6 @@ fundus
 fantasms
 forsloth
 fractable
-finked
 frayne
 fustigation
 flowage
@@ -8398,6 +8397,7 @@ fiddlerfishes
 firmans
 fibrillate
 floppy
+finked
 frontlash
 felling
 feezing
