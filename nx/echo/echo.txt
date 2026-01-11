@@ -3616,7 +3616,6 @@ exclusionary
 ectoglia
 entrap
 electrometallurgist
-embosoming
 euchlaena
 encraal
 embossage
@@ -12302,6 +12301,7 @@ equilin
 elvanitic
 ephebos
 exercitorian
+embosoming
 effront
 efs
 eulogizers
