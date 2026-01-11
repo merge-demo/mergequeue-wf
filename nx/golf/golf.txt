@@ -3339,6 +3339,7 @@ gluteofemoral
 ghawazee
 guland
 gerfalcon
+gnathostomi
 gudesake
 gynaecol
 gahnites
@@ -8619,7 +8620,6 @@ growths
 gutteral
 guarache
 glabriety
-gnathostomi
 gradually
 gawsy
 gravitic
