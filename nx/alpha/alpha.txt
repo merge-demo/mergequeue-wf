@@ -6467,7 +6467,6 @@ ahwal
 asiento
 anomura
 acrogynae
-arustle
 antidomestic
 ayacahuite
 arbutase
@@ -22902,6 +22901,7 @@ ashed
 atour
 amitie
 atoxyl
+arustle
 antiethnic
 adjutants
 azarole
