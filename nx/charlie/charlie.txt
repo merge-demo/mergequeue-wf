@@ -8136,6 +8136,7 @@ camelion
 chaffman
 codiniac
 coracosteon
+chockler
 continent
 carcer
 chaffron
@@ -12069,7 +12070,6 @@ crisp
 countermachination
 crusca
 caruage
-chockler
 casal
 chorusmaster
 chorussed
