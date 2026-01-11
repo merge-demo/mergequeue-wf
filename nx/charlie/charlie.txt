@@ -1594,7 +1594,6 @@ crawlway
 cyders
 commonwealthism
 chogak
-cuddle
 circumundulate
 callop
 cancerwort
@@ -9555,6 +9554,7 @@ calaththi
 checkrein
 checkroll
 counterimpulse
+cuddle
 compathy
 checkrope
 cumulant
