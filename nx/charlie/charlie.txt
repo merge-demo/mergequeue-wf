@@ -14088,6 +14088,7 @@ capivi
 corpuscle
 circe
 circean
+cuirasses
 circensian
 cobalts
 circinate
@@ -30728,7 +30729,6 @@ cuinage
 cuing
 cuirassed
 catachrestical
-cuirasses
 ceorl
 cuirassier
 commonplacely
