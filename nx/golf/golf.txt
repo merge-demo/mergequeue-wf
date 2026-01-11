@@ -35,7 +35,6 @@ gangue
 glaucolite
 guemal
 geometrine
-gelatinousness
 goi
 glassy
 glucosidic
@@ -4384,6 +4383,7 @@ gigerium
 gashy
 gutlike
 guaymie
+gelatinousness
 gozill
 granulite
 gemstone
