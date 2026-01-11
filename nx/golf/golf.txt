@@ -5137,6 +5137,7 @@ guernseyed
 glareproof
 grenadine
 goldeneye
+grecism
 grufted
 greesagh
 glaky
@@ -10326,7 +10327,6 @@ guinfo
 getsul
 glassfuls
 gullygut
-grecism
 gnatsnapper
 gilling
 goralog
