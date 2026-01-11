@@ -11261,6 +11261,7 @@ coped
 chlorimetric
 chlorinated
 chimers
+crystallization
 curly
 chlorination
 chlorinator
@@ -29465,7 +29466,6 @@ cyprinus
 coprides
 cherishingly
 crystallizable
-crystallization
 cyrtidae
 crystallize
 crystallizes

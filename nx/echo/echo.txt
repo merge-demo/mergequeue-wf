@@ -2730,7 +2730,6 @@ endomycetaceae
 evanish
 eupatoriaceous
 evovae
-enchodontid
 exogastritis
 electrotype
 electrotypy
@@ -7297,6 +7296,7 @@ eternises
 eelshop
 ephah
 embarcation
+enchodontid
 enact
 electrooptics
 escaping
