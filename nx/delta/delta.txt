@@ -1131,7 +1131,6 @@ dasyatis
 daylit
 distractingly
 draconic
-dasiphora
 darren
 dombeya
 dasypod
@@ -14612,6 +14611,7 @@ denotive
 demiurgically
 disastrousness
 dysfunction
+dasiphora
 darst
 damourite
 divorcible
