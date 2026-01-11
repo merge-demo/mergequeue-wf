@@ -6486,6 +6486,7 @@ foliates
 ferforth
 fireflower
 flibbertigibbet
+flayer
 freshish
 farmed
 forwarder
@@ -10903,7 +10904,6 @@ filagreing
 fractiously
 forehinting
 freestone
-flayer
 feist
 furore
 fullish
