@@ -9260,6 +9260,7 @@ alphabetiser
 amanda
 alphabetized
 alphabetizer
+agathaea
 auditioned
 antineoplastic
 adamancies
@@ -12588,7 +12589,6 @@ annus
 arcticward
 angareb
 astroid
-agathaea
 angel
 angela
 artemis
