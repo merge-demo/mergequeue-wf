@@ -3089,7 +3089,6 @@ gossipper
 giant
 gnash
 glaciologists
-ghanian
 graphiter
 greensauce
 gamelin
@@ -4864,6 +4863,7 @@ guardo
 gynerium
 goldenback
 glacieret
+ghanian
 gouaches
 garookuh
 graphemes
