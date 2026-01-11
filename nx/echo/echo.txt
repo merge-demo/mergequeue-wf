@@ -4029,7 +4029,6 @@ ectromelic
 enplanes
 entomoid
 explantation
-endhand
 emendatory
 empyemic
 empiercement
@@ -9722,6 +9721,7 @@ extollers
 enterococcus
 executional
 essency
+endhand
 extravertish
 epimorphic
 esselenian
