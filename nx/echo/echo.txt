@@ -8847,6 +8847,7 @@ ecospecifically
 esthesiometer
 earshots
 eremuri
+entosarc
 ethnoflora
 emotions
 electrotechnician
@@ -13119,7 +13120,6 @@ effeminatize
 experientialism
 entomologize
 eschevin
-entosarc
 eclipses
 extensionality
 ergology
