@@ -40,6 +40,7 @@ cherrystones
 ceticide
 cocozelle
 cluck
+chloroanaemia
 caballo
 caballos
 carbodiimide
@@ -30968,7 +30969,6 @@ cumbersomeness
 crymodynia
 charcoaled
 cameramen
-chloroanaemia
 charlestons
 contesting
 codrus
