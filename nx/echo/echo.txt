@@ -5436,7 +5436,6 @@ emblematology
 enginelike
 eneclann
 elaboratory
-enveloping
 equilaterally
 exoneretur
 efflux
@@ -11404,6 +11403,7 @@ eructate
 eyebree
 epichoric
 enough
+enveloping
 euxanthone
 erpetoichthys
 escaladed
