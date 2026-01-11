@@ -1003,7 +1003,6 @@ gads
 geanticline
 gubernia
 gimleting
-gandertmeeth
 genetta
 gemmed
 grumblingly
@@ -7184,6 +7183,7 @@ genecor
 gorgia
 girly
 gorglin
+gandertmeeth
 giftless
 gushing
 guard
