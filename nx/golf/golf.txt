@@ -3564,7 +3564,6 @@ gewgawry
 geckoes
 gyrfalcon
 gigantological
-gestatory
 geriatric
 grivoise
 gladdening
@@ -9846,6 +9845,7 @@ geognosies
 graybearded
 goatherds
 guacacoa
+gestatory
 grimacer
 gorce
 gue

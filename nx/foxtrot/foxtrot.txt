@@ -2877,7 +2877,6 @@ fanum
 firefighters
 featous
 faddiest
-foremention
 fettucini
 fungiferous
 forzato
@@ -8486,6 +8485,7 @@ frailer
 frondesce
 factorized
 father
+foremention
 floridans
 firy
 flunkeyite
