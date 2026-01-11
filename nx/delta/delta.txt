@@ -8775,7 +8775,6 @@ defrocking
 dequeen
 dragsmen
 diluted
-depeter
 demiking
 dragonkind
 diestruses
@@ -13899,6 +13898,7 @@ devours
 distemperedly
 dendritically
 dissensions
+depeter
 drinn
 distempering
 distending
