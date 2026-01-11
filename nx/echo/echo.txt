@@ -6677,7 +6677,6 @@ excusers
 enarthrodial
 epilegomenon
 enterorrhagia
-eclating
 enterorrhaphy
 enhalo
 eurycephalic
@@ -8094,6 +8093,7 @@ epiprecoracoid
 extrude
 elegant
 epipubis
+eclating
 expostulations
 errordump
 electrophotomicrography
