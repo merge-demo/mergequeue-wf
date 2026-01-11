@@ -7943,7 +7943,6 @@ expander
 eadish
 epinaos
 eirack
-embox
 estab
 escribe
 ettling
@@ -8143,6 +8142,7 @@ emprosthotonus
 electioneer
 extrapolated
 endobatholithic
+embox
 ephippium
 entrepas
 engyscope
