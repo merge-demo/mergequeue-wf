@@ -7377,6 +7377,7 @@ ghee
 groggery
 gossep
 graphs
+gastronomics
 gunation
 galactin
 geologist
@@ -8065,7 +8066,6 @@ gript
 gunstocking
 genys
 gastronomy
-gastronomics
 gasher
 gata
 gunstock
