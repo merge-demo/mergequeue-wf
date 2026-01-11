@@ -4966,7 +4966,6 @@ expectable
 embryotomy
 endellionite
 eucephalous
-electrocorticogram
 envy
 extirpative
 equinia
@@ -5808,6 +5807,7 @@ evade
 emulatory
 efficace
 electrovalency
+electrocorticogram
 eggshells
 exfoliation
 erlkings
