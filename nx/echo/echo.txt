@@ -3872,7 +3872,6 @@ epitomator
 emersed
 estivator
 emersonianism
-emesa
 emeses
 effigiate
 epalpate
@@ -11507,6 +11506,7 @@ electrophotometer
 evigilation
 exsecant
 eastlin
+emesa
 encloister
 engin
 exoergic
