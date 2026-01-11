@@ -1192,7 +1192,6 @@ bakal
 biasteric
 bajoire
 buoys
-bewigs
 brawliest
 breth
 bridebed
@@ -14508,6 +14507,7 @@ brainward
 ballistae
 byliny
 biontic
+bewigs
 brow
 besmirchment
 birdshots
