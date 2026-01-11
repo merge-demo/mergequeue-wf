@@ -8425,7 +8425,6 @@ chambray
 copei
 colloquist
 calyciferous
-commutative
 comport
 chambrays
 chambranle
@@ -13475,6 +13474,7 @@ crees
 cystenchyma
 cigarfish
 counterconversion
+commutative
 craspedum
 cigarillos
 cambibia
