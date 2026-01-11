@@ -2739,7 +2739,6 @@ electrotypy
 enolase
 earwigged
 eggroll
-egging
 evaporated
 electrovalent
 epinasty
@@ -10173,6 +10172,7 @@ eponymies
 ecardinal
 eunuchoid
 enneapetalous
+egging
 empestic
 esteemer
 elisabeth
