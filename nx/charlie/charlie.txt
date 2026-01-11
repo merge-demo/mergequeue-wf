@@ -15966,7 +15966,6 @@ cold
 cleptomaniac
 cliched
 cinchonizing
-clergy
 clergyable
 cotoneaster
 chemicalization
@@ -28941,6 +28940,7 @@ conelike
 cribworks
 cardinalate
 convocated
+clergy
 cricetidae
 chrysal
 chaityas
