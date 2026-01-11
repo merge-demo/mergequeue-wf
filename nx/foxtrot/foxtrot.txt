@@ -2407,7 +2407,6 @@ falsiteit
 fashionable
 fifie
 ferlying
-ferling
 flemishes
 fermail
 flabellifoliate
@@ -11430,6 +11429,7 @@ fishings
 furfuraceously
 ferity
 fingerlike
+ferling
 furred
 fascis
 frieze
