@@ -4709,7 +4709,6 @@ centrospermae
 carouse
 craftwork
 cathartes
-caroused
 carousels
 carp
 carpaine
@@ -18803,6 +18802,7 @@ chintzy
 chaplet
 coleochaetaceous
 classifically
+caroused
 curuba
 caravaned
 concentrical
