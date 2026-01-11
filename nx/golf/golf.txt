@@ -4982,7 +4982,6 @@ get
 galangal
 gamdia
 gammaridae
-grenadierly
 guddle
 gnathophorous
 gamines
@@ -7265,6 +7264,7 @@ gleamier
 grasni
 gumless
 gentlemen
+grenadierly
 gonesome
 grayouts
 grouched
