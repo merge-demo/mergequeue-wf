@@ -3784,7 +3784,6 @@ gallirallus
 gastroesophagostomy
 gracelike
 goetia
-gasterosteus
 groundedness
 gapy
 garnierite
@@ -6219,6 +6218,7 @@ grandmaster
 grunter
 grimacier
 giffgaff
+gasterosteus
 goatfishes
 grooved
 gladded

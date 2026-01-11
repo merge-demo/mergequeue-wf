@@ -8288,7 +8288,6 @@ coenaculum
 comas
 consute
 chalcography
-chalcographical
 chalcolithic
 circumlental
 cappae
@@ -25418,6 +25417,7 @@ cuarta
 choragus
 corniced
 collaud
+chalcographical
 creamery
 circumposition
 censors
