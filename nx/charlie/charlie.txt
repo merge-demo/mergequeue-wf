@@ -5001,6 +5001,7 @@ chrysomonadina
 cassettes
 cartouche
 curmudgeon
+chewed
 cust
 costrel
 canalman
@@ -10172,7 +10173,6 @@ chevvy
 chrysanisic
 capsa
 cabining
-chewed
 chaetodont
 condolatory
 chewers
