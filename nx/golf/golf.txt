@@ -1864,7 +1864,6 @@ gambles
 gazehound
 growlery
 guffaw
-gilgai
 goofy
 glutaminase
 gunflint
@@ -10481,6 +10480,7 @@ geometries
 gastroadenitis
 gusset
 goosy
+gilgai
 glossological
 guimpe
 geratology
