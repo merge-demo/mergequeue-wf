@@ -743,7 +743,6 @@ flushed
 fetlocked
 frustrater
 fana
-feoffment
 furoate
 fluxion
 febres
@@ -8392,6 +8391,7 @@ foot
 framers
 federalized
 fiddlerfishes
+feoffment
 firmans
 fibrillate
 floppy
