@@ -594,6 +594,7 @@ fallen
 ferny
 falling
 flichtering
+font
 faradized
 famine
 fussed
@@ -1456,7 +1457,6 @@ fasciculite
 flittern
 fley
 felicitators
-font
 flavorings
 fruiter
 favourable
