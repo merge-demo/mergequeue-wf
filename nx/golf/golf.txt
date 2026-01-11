@@ -4154,7 +4154,6 @@ glutamine
 gettysburg
 gargoyle
 glossem
-geophones
 glosts
 gizmos
 genetor
@@ -9350,6 +9349,7 @@ globetrotting
 gi
 grundified
 greeshoch
+geophones
 grager
 gaure
 guttera

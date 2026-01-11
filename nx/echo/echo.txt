@@ -1651,6 +1651,7 @@ erizo
 epiblastic
 egressed
 egresses
+emboldening
 extraphysiological
 expounded
 egret
@@ -8953,7 +8954,6 @@ exhilarant
 examinable
 explorative
 eleusinian
-emboldening
 enjoinment
 eartag
 ecclesiasticism
