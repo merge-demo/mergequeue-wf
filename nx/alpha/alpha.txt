@@ -60,7 +60,6 @@ abacus
 alcheringa
 abaddon
 abadengo
-autoimmune
 absis
 aerially
 argusfish
@@ -3239,6 +3238,7 @@ aleberry
 agitprop
 autisms
 astropectinidae
+autoimmune
 acupuncturator
 acupuncture
 abonne
