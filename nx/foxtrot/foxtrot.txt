@@ -4481,6 +4481,7 @@ furler
 forerigging
 footstool
 fishskin
+foresin
 formidable
 frouzier
 frankenia
@@ -11745,7 +11746,6 @@ foliiform
 fourteens
 flneur
 firiness
-foresin
 fremdly
 factorage
 fumados
