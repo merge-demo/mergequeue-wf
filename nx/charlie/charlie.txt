@@ -18929,7 +18929,6 @@ collagenous
 churchman
 cardholder
 chiffonniers
-collapsability
 collapses
 contam
 collapsing
@@ -29955,6 +29954,7 @@ cajoler
 crotal
 crotalic
 completely
+collapsability
 crotalidae
 crotaliform
 crotalin
