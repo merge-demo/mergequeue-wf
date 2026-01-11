@@ -2717,6 +2717,7 @@ decurves
 decorable
 department
 deist
+dissimulator
 delectable
 duetto
 decorate
@@ -11378,7 +11379,6 @@ dehydrogenise
 delimiter
 dischevel
 dentalization
-dissimulator
 diabases
 dermatocele
 dissuade
