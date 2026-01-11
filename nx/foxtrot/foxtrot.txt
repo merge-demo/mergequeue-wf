@@ -3228,6 +3228,7 @@ fearnought
 flexionless
 fremt
 fango
+forswat
 fuchsone
 fiddles
 flunkies
@@ -7486,7 +7487,6 @@ figgum
 ferie
 fawnlike
 fisheyes
-forswat
 footmen
 fausen
 ferrocerium
