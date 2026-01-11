@@ -1499,7 +1499,6 @@ conclusions
 crum
 citigrade
 callat
-chiripa
 conchologist
 caritive
 callback
@@ -16698,6 +16697,7 @@ clostridian
 clostridium
 closure
 colludes
+chiripa
 culveriner
 closuring
 clot
