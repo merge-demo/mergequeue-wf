@@ -2260,7 +2260,6 @@ bevesselled
 barbarically
 blandiloquous
 barbicanage
-barbequing
 barricos
 buddler
 bassoons
@@ -5869,6 +5868,7 @@ bonairness
 biunique
 biogenetical
 balopticon
+barbequing
 bellmaking
 banquo
 bachel
