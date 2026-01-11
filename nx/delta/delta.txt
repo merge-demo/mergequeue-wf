@@ -3179,7 +3179,6 @@ duellists
 diene
 dulcineas
 determinant
-deracine
 deinotherium
 dandiest
 dismayful
@@ -8399,6 +8398,7 @@ disnaturing
 detentes
 diallagic
 dogmaticalness
+deracine
 diallagite
 delisting
 deadwort
