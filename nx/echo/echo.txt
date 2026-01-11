@@ -1025,7 +1025,6 @@ explosibility
 encapsules
 euthanasic
 epoxide
-endearments
 elytrtra
 edder
 epiphora
@@ -12842,6 +12841,7 @@ emendated
 enterprisingness
 extinctor
 eisteddfods
+endearments
 eyes
 enumerations
 evangelistship
