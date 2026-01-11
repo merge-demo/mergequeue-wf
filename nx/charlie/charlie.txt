@@ -26276,6 +26276,7 @@ changeableness
 calliper
 cuprosilicon
 charivari
+crashingly
 csk
 ceston
 cervicicardiac
@@ -28246,7 +28247,6 @@ crashers
 crashes
 conventically
 crashing
-crashingly
 crashproof
 chervante
 crashworthiness
