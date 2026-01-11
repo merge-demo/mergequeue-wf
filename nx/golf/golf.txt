@@ -594,7 +594,6 @@ glycocoll
 garthman
 gallinaceae
 gallinacean
-galesaurus
 guillotinism
 gunsels
 giftware
@@ -3429,6 +3428,7 @@ germinations
 gigglingly
 gools
 grittily
+galesaurus
 gastriloquial
 glike
 gaslighting
