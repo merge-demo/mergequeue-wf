@@ -1956,6 +1956,7 @@ bandrol
 battens
 beatific
 boreus
+betafite
 barberess
 bandsawn
 bandsman
@@ -8316,7 +8317,6 @@ brakehead
 boilermaking
 bedsteads
 bigamist
-betafite
 bigamizing
 burstiness
 bedesman
