@@ -10196,7 +10196,6 @@ chi
 codworm
 croisard
 coussinet
-chia
 chondriosomes
 chyack
 chianti
@@ -31551,6 +31550,7 @@ curt
 curtailed
 cursores
 cubistic
+chia
 curtain
 cheesemongery
 centrals
