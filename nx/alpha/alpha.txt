@@ -7880,7 +7880,6 @@ amygdules
 apospory
 alerting
 ales
-alesan
 arenicolous
 alkalis
 acetphenetidin
@@ -9252,6 +9251,7 @@ adiposis
 alphabetised
 alphabetiser
 amanda
+alesan
 alphabetized
 alphabetizer
 agathaea
