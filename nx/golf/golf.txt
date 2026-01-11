@@ -1359,7 +1359,6 @@ galligaskins
 growingupness
 ganocephalan
 guillotiner
-greenalite
 glomerulus
 galloner
 glorifier
@@ -5308,6 +5307,7 @@ guarea
 glyceria
 gossipee
 grangerite
+greenalite
 gagged
 genialize
 guardsmen
