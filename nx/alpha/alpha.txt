@@ -9635,7 +9635,6 @@ archean
 alveolosubnasal
 accustomized
 antagonising
-aux
 alvissmal
 antirabic
 actinical
@@ -17409,6 +17408,7 @@ apothegmatically
 apothegmatist
 atriensis
 antiattrition
+aux
 autocratically
 apotheosised
 apotheosized
