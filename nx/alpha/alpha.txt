@@ -3460,7 +3460,6 @@ alterum
 addita
 abiliment
 antinovelist
-additionary
 associationalism
 additionist
 antilepton
@@ -6522,6 +6521,7 @@ antibaryon
 albi
 americanumancestors
 actinometers
+additionary
 anaesthesiology
 aigialosauridae
 aigialosaurus
