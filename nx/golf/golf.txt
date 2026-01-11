@@ -1904,6 +1904,7 @@ glaikit
 globulet
 gunboat
 geomalic
+gessamine
 gaudless
 ganglia
 giraffes
@@ -3422,7 +3423,6 @@ guitermanite
 groose
 gadbush
 gotchy
-gessamine
 girny
 gonfanons
 gluside
