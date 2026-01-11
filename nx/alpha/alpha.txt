@@ -2901,6 +2901,7 @@ acrostical
 acrostichoid
 acrostichum
 adoptianism
+anopheline
 afterrider
 abnegate
 acrosticism
@@ -24695,7 +24696,6 @@ averaging
 ackeys
 accordant
 acolyth
-anopheline
 averments
 admove
 antidiastase
