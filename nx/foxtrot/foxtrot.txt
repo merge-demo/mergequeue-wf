@@ -2500,7 +2500,6 @@ faldworth
 foremeant
 footsore
 flaps
-functionize
 foreswear
 fastballs
 frush
@@ -3840,6 +3839,7 @@ fulgurous
 frustulum
 flet
 forewoman
+functionize
 firmnesses
 frizzles
 fardage
