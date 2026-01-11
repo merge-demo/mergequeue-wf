@@ -9102,7 +9102,6 @@ arrha
 anstoss
 aetobatus
 almohades
-aglycone
 almon
 atheisms
 anga
@@ -16790,6 +16789,7 @@ avatars
 aphorist
 anomorhomboidal
 ailuropus
+aglycone
 autoportraiture
 attaboy
 aphorize
