@@ -6522,6 +6522,7 @@ fellah
 fluorescer
 frenchize
 fannia
+firer
 fordy
 fellatrix
 forsar
@@ -11228,7 +11229,6 @@ frittata
 fattenable
 fencelessness
 farads
-firer
 failles
 fieldsman
 fungosities
