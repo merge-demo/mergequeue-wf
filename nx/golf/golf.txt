@@ -1256,6 +1256,7 @@ ganomalite
 garbler
 gradings
 greasers
+grantees
 galliardly
 grognard
 geneki
@@ -1732,7 +1733,6 @@ governail
 guaba
 gambado
 glossoscopy
-grantees
 glycerinate
 guildry
 gympie
