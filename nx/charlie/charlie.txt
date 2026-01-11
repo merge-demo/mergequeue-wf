@@ -3102,6 +3102,7 @@ capably
 cerecloth
 capacify
 cowpat
+cordies
 centare
 contrabandist
 capacious
@@ -5443,7 +5444,6 @@ castled
 castlelike
 clitocybe
 castles
-cordies
 castlet
 commercing
 candlesticked
