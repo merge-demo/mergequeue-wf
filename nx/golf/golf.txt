@@ -5794,7 +5794,6 @@ goony
 grunts
 glomus
 gnatworm
-genupectoral
 goniometer
 graveless
 globoid
@@ -9241,6 +9240,7 @@ ginhound
 greenyard
 greened
 gripping
+genupectoral
 grade
 gelandesprung
 glycocin
