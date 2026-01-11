@@ -4465,6 +4465,7 @@ fishpole
 fishpoles
 fimbrillae
 flueless
+fconv
 fazed
 fishponds
 fishtailed
@@ -10516,7 +10517,6 @@ foregoer
 fibroin
 fluffs
 flatweed
-fconv
 fidged
 frostfish
 forcite
