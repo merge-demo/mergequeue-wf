@@ -11286,7 +11286,6 @@ adempt
 arcuses
 ampler
 amplexicaul
-anethene
 amphictyonic
 antiphylloxeric
 alviducous
@@ -17127,6 +17126,7 @@ acquirement
 apographical
 antibreakage
 annexing
+anethene
 autosensitization
 apoidea
 astucity
