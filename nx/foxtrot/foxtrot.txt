@@ -1639,6 +1639,7 @@ fipenny
 foraneen
 four
 fdnames
+ferula
 footwalk
 ferociousness
 forthcut
@@ -8202,7 +8203,6 @@ florulent
 fruitfullest
 fluffily
 fishpond
-ferula
 fantastry
 feverberries
 formicinae
