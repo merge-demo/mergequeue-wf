@@ -4231,7 +4231,6 @@ gaggles
 gundogs
 gur
 guitarist
-gauds
 gnathites
 gastroplication
 glaswegian
@@ -9367,6 +9366,7 @@ gnomish
 gerland
 groins
 grolieresque
+gauds
 granulative
 guessing
 giggles

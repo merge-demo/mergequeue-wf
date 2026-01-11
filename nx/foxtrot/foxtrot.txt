@@ -4327,7 +4327,6 @@ friendly
 freespac
 fleshings
 feaked
-fibromatoid
 fatling
 fosslify
 finific
@@ -10600,6 +10599,7 @@ firebases
 footworn
 flack
 fresh
+fibromatoid
 file
 forensical
 freshing
