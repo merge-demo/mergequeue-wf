@@ -5006,6 +5006,7 @@ glew
 goodwilled
 gigantic
 goldhead
+grouthead
 genealogists
 glister
 guilty
@@ -8293,7 +8294,6 @@ gingerwort
 grossers
 glam
 geranin
-grouthead
 gainfully
 glucosan
 giantly
