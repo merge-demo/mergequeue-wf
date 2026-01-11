@@ -4764,7 +4764,6 @@ desiderta
 disenslave
 demography
 dissimilative
-disemploys
 demographically
 divertissement
 distrained
@@ -13169,6 +13168,7 @@ deflourish
 decurved
 dispersedness
 detonates
+disemploys
 desynonymization
 discobolos
 dramshops
