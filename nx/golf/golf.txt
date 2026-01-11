@@ -8525,7 +8525,6 @@ geotaxis
 gegenion
 gelada
 gene
-gerardias
 gleyde
 groutnoll
 gnatling
@@ -9611,6 +9610,7 @@ giustina
 gobioidea
 goster
 geophagies
+gerardias
 graphical
 geodynamical
 guidage
