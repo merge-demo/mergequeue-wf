@@ -379,7 +379,6 @@ engaze
 eastman
 eructing
 enclaret
-encephalograph
 estops
 eastre
 extents
@@ -14091,6 +14090,7 @@ epigastral
 equilibrative
 ebonize
 entwinement
+encephalograph
 extremeless
 extremeness
 extremis
