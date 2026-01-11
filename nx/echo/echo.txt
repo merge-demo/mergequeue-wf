@@ -951,6 +951,7 @@ exarillate
 eyelashes
 efreet
 englishhood
+eleve
 ensisternal
 equipping
 endowments
@@ -8725,7 +8726,6 @@ embrowd
 endopods
 ethnolinguistic
 explodable
-eleve
 equities
 equivalenced
 equivalent
