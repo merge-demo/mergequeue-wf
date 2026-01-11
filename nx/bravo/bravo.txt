@@ -12970,7 +12970,6 @@ bangalow
 bootees
 battlemented
 bootery
-birse
 backtrail
 bonhomie
 boothage
@@ -13142,6 +13141,7 @@ bowerly
 burdash
 boreiad
 bestowment
+birse
 bugseeds
 boodleism
 borel
