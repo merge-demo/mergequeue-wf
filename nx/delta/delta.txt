@@ -2520,7 +2520,6 @@ doddered
 disaccommodation
 dubonnet
 deactivating
-declarations
 declarative
 deligation
 demieagle
@@ -16378,6 +16377,7 @@ drawtube
 doeuvre
 downwind
 droukit
+declarations
 dowp
 dowse
 defibrillative
