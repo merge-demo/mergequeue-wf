@@ -6248,6 +6248,7 @@ giglot
 gliders
 glucosidase
 gatemaker
+gedd
 gonne
 greaves
 gopura
@@ -8022,7 +8023,6 @@ gled
 galline
 gainer
 guttee
-gedd
 glouts
 gnotobiote
 glumpiness
