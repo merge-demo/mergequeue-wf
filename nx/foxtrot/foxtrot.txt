@@ -3349,6 +3349,7 @@ flooding
 falconer
 firmisternia
 flashers
+forgoers
 fieldish
 forded
 funereality
@@ -8306,7 +8307,6 @@ flasher
 fidges
 forequoted
 fearlessly
-forgoers
 fullfaces
 fetishes
 frisolee
