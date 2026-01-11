@@ -4745,7 +4745,6 @@ diaphototropism
 disbudding
 dpt
 dilated
-disannex
 diffeomorphism
 detours
 dismisser
@@ -15421,6 +15420,7 @@ domini
 decalomania
 demurer
 denis
+disannex
 downtowns
 dijudication
 dunkard
