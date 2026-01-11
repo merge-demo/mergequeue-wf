@@ -164,6 +164,7 @@ expurgations
 etymons
 enchylema
 encephalomeric
+errite
 enzygotic
 earthkin
 emargination
@@ -1613,7 +1614,6 @@ endocardia
 ethnogenist
 eglomerate
 eglomise
-errite
 entires
 enumerator
 extravagancies
