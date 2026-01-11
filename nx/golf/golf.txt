@@ -2248,6 +2248,7 @@ gastrotome
 grifts
 glottology
 gefulltefish
+gibbsite
 galax
 gonidiogenous
 greggriffin
@@ -4745,7 +4746,6 @@ gynomonecious
 gise
 granges
 gooder
-gibbsite
 gauping
 geisothermal
 graphiology
