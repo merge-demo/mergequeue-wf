@@ -6447,6 +6447,7 @@ goburra
 graduates
 griot
 gregorian
+gachupin
 gnomonia
 gazes
 gallivanted
@@ -8997,7 +8998,6 @@ greyhen
 gipper
 gastrodidymus
 glenlivet
-gachupin
 guaiacums
 granet
 gastrocolpotomy
