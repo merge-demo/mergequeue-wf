@@ -5842,6 +5842,7 @@ ebrillade
 equidistance
 ectogeneous
 ecesis
+expensilation
 engrandizement
 epidermatous
 enodate
@@ -8115,7 +8116,6 @@ enhances
 exhumator
 episclera
 encasement
-expensilation
 ensanguined
 enaction
 enseel
