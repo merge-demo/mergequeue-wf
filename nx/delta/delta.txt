@@ -7332,6 +7332,7 @@ deterrent
 dodunk
 detersiveness
 disunions
+demicylinder
 dryfat
 detestation
 decomponent
@@ -7933,7 +7934,6 @@ dextran
 dextranase
 doublelunged
 disallowable
-demicylinder
 defunctive
 diathermal
 decimeters
