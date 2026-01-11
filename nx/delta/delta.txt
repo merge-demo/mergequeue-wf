@@ -11289,6 +11289,7 @@ discanted
 dragon
 dropt
 duckwheat
+dialoger
 debussyan
 disordinate
 disarm
@@ -14968,7 +14969,6 @@ dermatoid
 drummer
 disarmer
 displodes
-dialoger
 desiccatory
 duckwing
 doffing
