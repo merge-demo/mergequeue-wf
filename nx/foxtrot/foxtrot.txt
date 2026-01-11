@@ -8805,7 +8805,6 @@ forgemen
 faradization
 flashed
 footnoted
-floret
 forechurch
 fjerding
 formula
@@ -10371,6 +10370,7 @@ foss
 footcandles
 forewarning
 fiaunt
+floret
 fraenula
 floodlighted
 fetology
