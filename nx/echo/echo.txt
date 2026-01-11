@@ -713,7 +713,6 @@ earthed
 exclusivist
 earthsets
 electrotrephine
-esocyclic
 ecology
 encephalolith
 envisions
@@ -11134,6 +11133,7 @@ exopt
 erne
 ecce
 eutychian
+esocyclic
 everly
 endamages
 evicke
