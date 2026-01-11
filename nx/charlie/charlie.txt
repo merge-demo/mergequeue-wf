@@ -17974,7 +17974,6 @@ charring
 coelder
 coelebogyne
 coelect
-coelection
 coelector
 cloacean
 cephalomyitis
@@ -27494,6 +27493,7 @@ chumpiness
 cathartical
 cheongsam
 coal
+coelection
 covariant
 colorism
 cathisma
