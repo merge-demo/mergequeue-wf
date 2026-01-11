@@ -2546,7 +2546,6 @@ aecidia
 anywheres
 acorus
 acosmism
-acosmist
 athecata
 aircoach
 atrophy
@@ -3812,6 +3811,7 @@ antidinic
 adion
 arhat
 adios
+acosmist
 adipate
 amphitruo
 aequorin
