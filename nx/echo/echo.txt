@@ -7924,6 +7924,7 @@ evaniidae
 ephebus
 enclisis
 ectozoic
+esculetin
 estoppel
 encyclopaedia
 effetmen
@@ -10032,7 +10033,6 @@ editresses
 energetical
 epitaphial
 epitaxis
-esculetin
 evolutions
 expecting
 emergent
