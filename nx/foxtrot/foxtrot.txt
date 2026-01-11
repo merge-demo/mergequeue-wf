@@ -3612,6 +3612,7 @@ fableland
 fundal
 furbelowed
 factories
+foursquareness
 fuchsia
 fanwort
 fenagler
@@ -9035,7 +9036,6 @@ foram
 fourrier
 foelike
 feature
-foursquareness
 faustian
 frangibleness
 fourteenths
