@@ -2229,6 +2229,7 @@ depictive
 drawknot
 didymous
 decathlons
+drawrod
 disunionist
 digitoxose
 drawcard
@@ -5528,7 +5529,6 @@ dorper
 departmentally
 discomfits
 depancreatize
-drawrod
 drainermen
 deoxygenized
 demicolumn
