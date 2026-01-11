@@ -8418,6 +8418,7 @@ chambray
 copei
 colloquist
 calyciferous
+commutative
 comport
 chambrays
 chambranle
@@ -26361,7 +26362,6 @@ cotarius
 catwise
 calander
 centipedal
-commutative
 cotch
 cellulitis
 chrysanilin
