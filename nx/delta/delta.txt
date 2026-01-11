@@ -3855,6 +3855,7 @@ dismast
 dissect
 disp
 dibstones
+dissipating
 dichotomize
 dyscrasite
 deerdog
@@ -10679,7 +10680,6 @@ danainae
 dinornithoid
 dawties
 dacryopyorrhea
-dissipating
 durned
 dislink
 defalk
