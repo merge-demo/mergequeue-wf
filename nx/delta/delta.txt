@@ -10729,6 +10729,7 @@ draff
 dipppier
 downcasts
 doubtingly
+datagrams
 diprotic
 dianoialogy
 descriptions
@@ -12835,7 +12836,6 @@ dismayable
 dismayfully
 declension
 demultiplexes
-datagrams
 diathermancy
 doubty
 dismail
