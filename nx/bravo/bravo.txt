@@ -14959,7 +14959,6 @@ burning
 baja
 breakers
 breakfast
-bastard
 blockmaking
 breakfronts
 butlerage
@@ -17803,6 +17802,7 @@ bambini
 bursae
 bacterizing
 brave
+bastard
 banghy
 begani
 blypes
