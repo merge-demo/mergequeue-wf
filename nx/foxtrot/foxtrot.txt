@@ -3976,7 +3976,6 @@ fulmine
 figurehead
 forbit
 feminisation
-fictionally
 fraulein
 friarling
 february
@@ -11674,6 +11673,7 @@ furcates
 frailties
 festoons
 flocculate
+fictionally
 feru
 felids
 finikin
