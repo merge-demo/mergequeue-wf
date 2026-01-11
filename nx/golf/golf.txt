@@ -7298,7 +7298,6 @@ glomi
 gormandizes
 greeted
 gundeck
-gangsa
 gleaming
 gwerziou
 gavelman
@@ -9195,6 +9194,7 @@ glaceed
 gridelin
 gynaecium
 garapata
+gangsa
 geogonic
 gouldian
 glauconitization
