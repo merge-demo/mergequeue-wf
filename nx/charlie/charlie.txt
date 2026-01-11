@@ -12264,7 +12264,6 @@ chrysophyte
 chromonemic
 chrysopid
 chrysoprase
-chrysoprasus
 chasmic
 counteradvice
 chrysops
@@ -29189,6 +29188,7 @@ cryosel
 cryospheric
 criosphinx
 ciseaux
+chrysoprasus
 chromatospheric
 criosphinxes
 cryostat
