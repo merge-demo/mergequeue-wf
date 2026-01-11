@@ -10141,7 +10141,6 @@ asiarchate
 antiface
 abray
 anteflexion
-alexipyretic
 ahoy
 ambitendent
 amygdalotomy
@@ -13880,6 +13879,7 @@ allocability
 answeringly
 amish
 abstrusely
+alexipyretic
 appeach
 ant
 antheroid
