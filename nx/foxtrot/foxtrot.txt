@@ -5658,6 +5658,7 @@ fingerwise
 federal
 frontonasal
 flageolet
+ffa
 factorization
 fascicled
 formerness
@@ -9533,7 +9534,6 @@ fontinas
 fideicommissumissa
 financed
 facinorous
-ffa
 frauleins
 formaliter
 flatbottom
