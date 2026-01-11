@@ -4197,7 +4197,6 @@ biodegrade
 beastship
 beat
 benches
-beatee
 bleery
 botling
 beaters
@@ -14928,6 +14927,7 @@ bestializes
 bonetta
 burnoosed
 breadmaker
+beatee
 breadman
 breadness
 brogueneer
