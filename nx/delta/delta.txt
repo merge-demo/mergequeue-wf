@@ -15294,6 +15294,7 @@ dolomite
 dose
 descriptives
 dorididae
+dehydrase
 dryfarmer
 dumpty
 diabolical
@@ -17958,7 +17959,6 @@ dukes
 deifical
 deseasonalize
 dukkeripen
-dehydrase
 dukuma
 dulat
 dulcamara
