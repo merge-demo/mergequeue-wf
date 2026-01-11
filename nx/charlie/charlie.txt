@@ -3748,7 +3748,6 @@ caravans
 caravanserai
 chromoxylography
 caravanserial
-caravel
 caravels
 cosen
 caraways
@@ -26382,6 +26381,7 @@ curlers
 cotemporanean
 cotemporaneously
 cotemporaries
+caravel
 clubbable
 cozeiest
 circumsaturnian
