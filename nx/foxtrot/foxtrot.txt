@@ -2928,7 +2928,6 @@ filialness
 ferroprint
 fumarium
 frogmarch
-facier
 fac
 flaked
 formulist
@@ -5585,6 +5584,7 @@ feticides
 feynesses
 fluemen
 floating
+facier
 fibroses
 favourite
 furunculus
