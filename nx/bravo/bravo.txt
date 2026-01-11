@@ -1457,6 +1457,7 @@ bloodthirstiest
 bismuthite
 biogen
 bathtubful
+bacterioblast
 botuliform
 balinghasay
 bromeosin
@@ -16013,7 +16014,6 @@ bower
 brontoscopy
 bronchioli
 bronchiospasm
-bacterioblast
 bronchitic
 bronchitis
 bethrall
