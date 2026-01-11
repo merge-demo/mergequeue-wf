@@ -16195,7 +16195,6 @@ climber
 cabobs
 climbers
 chromosantonin
-caskanet
 climbingfish
 collinearly
 chechen
@@ -20410,6 +20409,7 @@ compacts
 comites
 compacture
 copperplate
+caskanet
 crumbliness
 compadre
 curstfully
