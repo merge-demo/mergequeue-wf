@@ -4794,6 +4794,7 @@ ensnarements
 erythrol
 encoding
 equipostile
+enerve
 embrocate
 ergasterion
 enbusshe
@@ -8846,7 +8847,6 @@ entosarc
 ethnoflora
 emotions
 electrotechnician
-enerve
 escharoid
 englue
 exiler
