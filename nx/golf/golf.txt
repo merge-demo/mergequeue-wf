@@ -3097,7 +3097,6 @@ geomorphologically
 glycopexis
 geonavigation
 gabbart
-gizmos
 gaga
 greenswarded
 geadephagous
@@ -4159,6 +4158,7 @@ gargoyle
 glossem
 geophones
 glosts
+gizmos
 genetor
 gyropilot
 galaxiidae
