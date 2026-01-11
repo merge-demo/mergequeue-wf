@@ -160,7 +160,6 @@ episcopizing
 entrept
 economics
 empight
-expurgations
 etymons
 enchylema
 encephalomeric
@@ -11385,6 +11384,7 @@ ethnomusicologist
 endodontics
 enneasemic
 exuvia
+expurgations
 eponymist
 exuberate
 eventime
