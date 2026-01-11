@@ -129,7 +129,6 @@ balsamaceous
 balaghaut
 baze
 boarder
-boomer
 biriani
 babirusas
 brimmer
@@ -1181,6 +1180,7 @@ bogeyed
 beltmen
 baized
 birefraction
+boomer
 bundist
 blackbelly
 bifurcating
