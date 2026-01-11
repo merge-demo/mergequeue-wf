@@ -7423,7 +7423,6 @@ cleansing
 cephalomere
 cyclostylar
 cephalometric
-clysis
 cephalonasal
 cephalopathy
 cephalopharyngeal
@@ -29084,6 +29083,7 @@ crinatory
 crinel
 cringeling
 cringes
+clysis
 cringing
 compter
 chookie
