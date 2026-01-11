@@ -10173,7 +10173,6 @@ chevvy
 chrysanisic
 capsa
 cabining
-chaetodont
 condolatory
 chewers
 cameography
@@ -28162,6 +28161,7 @@ cranioschisis
 cranioscopy
 chimerism
 compeered
+chaetodont
 cameos
 craniotomy
 craniums
