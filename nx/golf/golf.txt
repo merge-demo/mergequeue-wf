@@ -2224,6 +2224,7 @@ gubbo
 gaster
 goodbyes
 ganefs
+greenalite
 generosities
 galactohemia
 gleit
@@ -5305,7 +5306,6 @@ guarea
 glyceria
 gossipee
 grangerite
-greenalite
 gagged
 genialize
 guardsmen
