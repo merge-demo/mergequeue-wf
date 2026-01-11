@@ -1186,7 +1186,6 @@ gig
 glyceraldehyde
 grinned
 gibbet
-gezerah
 guejarite
 galipine
 gorilla
@@ -5015,6 +5014,7 @@ gurlet
 glittering
 genially
 gangliest
+gezerah
 gateage
 grouselike
 gauging
