@@ -2116,7 +2116,6 @@ evaluators
 epispermic
 emu
 endamoebae
-eldfather
 eggberry
 ethmoturbinal
 extrovertedness
@@ -5889,6 +5888,7 @@ episcopalian
 encushion
 excessman
 enhaemospore
+eldfather
 epidotic
 execrators
 exaggerativeness
