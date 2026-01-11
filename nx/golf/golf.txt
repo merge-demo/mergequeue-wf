@@ -7159,7 +7159,6 @@ gremio
 gorcocks
 gypsylike
 grasscut
-grazable
 guayaba
 greenfly
 guric
@@ -7401,6 +7400,7 @@ granulosis
 gamming
 glisky
 gardenful
+grazable
 gossipped
 gestor
 gilthead
