@@ -2907,6 +2907,7 @@ goombay
 generatrices
 gileadite
 galvvanoscopy
+gnatsnap
 gibbing
 genuflex
 glyptal
@@ -8206,7 +8207,6 @@ gynaecocracy
 grain
 guanidins
 gabblers
-gnatsnap
 gasolier
 goatling
 granulet
