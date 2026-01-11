@@ -6350,6 +6350,7 @@ drawboy
 diacatholicon
 defined
 deprotestantize
+downstreet
 dioc
 ducula
 demurrable
@@ -10689,7 +10690,6 @@ dislink
 defalk
 derivable
 declinometer
-downstreet
 dogman
 derationalize
 dreadlessness
