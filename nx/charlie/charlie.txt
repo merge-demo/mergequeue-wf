@@ -3521,7 +3521,6 @@ chappow
 capsuliferous
 coldcock
 cheloniid
-capsuliform
 coverup
 capsuling
 clamer
@@ -18624,6 +18623,7 @@ crowders
 connex
 clanless
 coimplore
+capsuliform
 coyn
 coinable
 coinage
