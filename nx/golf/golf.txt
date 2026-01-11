@@ -3079,6 +3079,7 @@ gastromyces
 gangshag
 geometriform
 gurnet
+glycines
 graminicolous
 geyserish
 gemmipares
@@ -7457,7 +7458,6 @@ gyrometer
 goodmen
 grimacingly
 guesses
-glycines
 gorgelet
 gamotropic
 gastrotaxis
