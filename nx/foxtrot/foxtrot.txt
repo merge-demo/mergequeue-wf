@@ -3950,6 +3950,7 @@ fish
 fermentor
 fruitcakey
 frenziedly
+foundation
 frightfulness
 foreshown
 funneled
@@ -10015,7 +10016,6 @@ frantic
 frigiddaria
 favor
 frigidly
-foundation
 flagboat
 forint
 field
