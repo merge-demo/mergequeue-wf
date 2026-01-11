@@ -2523,7 +2523,6 @@ filamentule
 fooleries
 frangibility
 freeboot
-fem
 functionalistic
 foresightful
 falerno
@@ -9010,6 +9009,7 @@ feldspath
 frigorific
 faster
 ferrimagnetism
+fem
 folded
 feverwort
 falconries
