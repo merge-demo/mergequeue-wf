@@ -1819,7 +1819,6 @@ geodesia
 gastrovascular
 gold
 gthite
-gulleries
 giddies
 generativeness
 grummeter
@@ -2866,6 +2865,7 @@ ganoidei
 geolinguistics
 gnathobasic
 gentrices
+gulleries
 gayment
 gassiest
 garni
