@@ -8576,7 +8576,6 @@ equidist
 exrx
 equispatial
 elater
-erythron
 endophytically
 eyebolts
 eumerogenesis
@@ -13607,6 +13606,7 @@ encircle
 extemporary
 extemporisation
 entoiled
+erythron
 ewing
 extraspinal
 entification
