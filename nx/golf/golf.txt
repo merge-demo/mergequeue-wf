@@ -1177,6 +1177,7 @@ grift
 gasthaus
 guidingly
 gaslights
+gouaree
 gantlines
 gaon
 galoch
@@ -3866,7 +3867,6 @@ glissandi
 guarders
 greenbark
 gaudily
-gouaree
 gaul
 glazework
 gyving
