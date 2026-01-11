@@ -15232,6 +15232,7 @@ duplexer
 doliidae
 dolioform
 dabblings
+depolymerizing
 dioritic
 depreciated
 downing
@@ -18681,5 +18682,4 @@ diaulos
 derats
 dwindled
 dehisced
-depolymerizing
 dwindling
