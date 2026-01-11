@@ -7819,6 +7819,7 @@ florentines
 funfairs
 foremother
 frithbot
+finalities
 flyblew
 forbad
 flockier
@@ -9657,7 +9658,6 @@ feeders
 falcata
 flitwite
 ferias
-finalities
 flukier
 fudgy
 foamer
