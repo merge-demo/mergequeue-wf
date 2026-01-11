@@ -2965,7 +2965,6 @@ fameuse
 fewest
 fluke
 fading
-fewtrils
 fustee
 flanned
 fezzed
@@ -7423,6 +7422,7 @@ frankist
 foredooms
 flimsiest
 filles
+fewtrils
 faeces
 fat
 forbborne
