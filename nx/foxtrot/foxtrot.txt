@@ -3342,6 +3342,7 @@ flavorer
 fress
 fractals
 faultage
+fastigiate
 filestatus
 floorers
 flotsam
@@ -3508,7 +3509,6 @@ farness
 flubbing
 fleches
 falcones
-fastigiate
 fulgorid
 fusicladium
 figurer
