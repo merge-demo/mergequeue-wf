@@ -8478,7 +8478,6 @@ bedirter
 bedaze
 balita
 blams
-blackcoat
 biogenous
 blackwood
 bilayer
@@ -14719,6 +14718,7 @@ beaconing
 bookplates
 bluets
 brokery
+blackcoat
 brasil
 bluestockingish
 bronzing
