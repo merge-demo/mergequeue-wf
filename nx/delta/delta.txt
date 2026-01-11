@@ -3834,7 +3834,6 @@ divariant
 deionize
 degraduation
 dopatta
-decastyle
 deselects
 disinteresting
 dimensions
@@ -6744,6 +6743,7 @@ decollating
 desolations
 delate
 deceased
+decastyle
 desilt
 disregular
 deerweeds
