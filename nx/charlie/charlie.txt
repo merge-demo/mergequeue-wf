@@ -3688,6 +3688,7 @@ carangids
 coenaesthesis
 cooking
 coleopterological
+clem
 celomata
 carangin
 chunderous
@@ -16666,7 +16667,6 @@ colleagueship
 calumnies
 communist
 cyanosis
-clem
 carse
 colophonium
 closeness
