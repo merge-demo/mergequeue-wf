@@ -624,7 +624,6 @@ bendable
 blanquette
 barfing
 butchering
-boozed
 briarberry
 barnacles
 bullnecks
@@ -14889,6 +14888,7 @@ belonite
 burritos
 bedim
 bulborectal
+boozed
 breachful
 briefcases
 breadbasket
