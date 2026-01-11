@@ -34,7 +34,6 @@ graperies
 gangue
 glaucolite
 guemal
-geometrine
 goi
 glassy
 glucosidic
@@ -744,6 +743,7 @@ galvanizing
 greund
 gemmiferousness
 grattoir
+geometrine
 gonoplasm
 galvanoglyph
 gar
