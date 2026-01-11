@@ -547,6 +547,7 @@ balkar
 baubee
 balisaur
 baconian
+berthing
 benzalacetone
 bishopric
 burnets
@@ -17341,7 +17342,6 @@ bunchy
 bunchier
 bunchiness
 buncoing
-berthing
 bemused
 brucellas
 basilosaurus
