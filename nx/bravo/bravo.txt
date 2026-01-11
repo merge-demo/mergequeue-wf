@@ -8788,6 +8788,7 @@ beddingroll
 bottomry
 brule
 barhopping
+bordellos
 bimetals
 bolsters
 bullishness
@@ -11612,7 +11613,6 @@ brasse
 balladries
 botein
 budless
-bordellos
 bravi
 blurredly
 beatifying
