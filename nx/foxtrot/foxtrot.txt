@@ -5378,6 +5378,7 @@ feints
 fifteen
 fumarole
 feasts
+fowlpoxes
 filial
 fant
 foulmouthedly
@@ -5992,7 +5993,6 @@ flubdubs
 forestaysail
 fabiform
 flowerpots
-fowlpoxes
 favoredly
 freakiness
 fichtean
