@@ -2719,6 +2719,7 @@ ficche
 fathomer
 frazer
 fusain
+foreassign
 forefelt
 frigged
 fuscescent
@@ -11362,7 +11363,6 @@ furloughed
 flustrine
 fuchsin
 forfended
-foreassign
 fluxure
 fizzes
 fissional
