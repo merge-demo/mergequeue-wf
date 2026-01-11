@@ -8838,7 +8838,6 @@ chapterhouse
 catalina
 cardinalates
 chapwoman
-circumradii
 chaqueta
 commanders
 char
@@ -30184,6 +30183,7 @@ calorics
 cryptocleidus
 cruciformity
 cruciformly
+circumradii
 crucily
 crucilly
 cruck
