@@ -3768,6 +3768,7 @@ bowstringed
 beachwear
 battues
 bourdis
+bechalks
 batture
 bawcocks
 bielded
@@ -6746,7 +6747,6 @@ bermudas
 bucketfull
 buffoons
 bionic
-bechalks
 buoyantly
 beshrouding
 brakesmen

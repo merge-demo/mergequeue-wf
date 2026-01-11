@@ -4481,6 +4481,7 @@ gammelost
 graminology
 gommelin
 grandsire
+gourdiness
 generics
 giocoso
 gip
@@ -10809,7 +10810,6 @@ glibbery
 gossipping
 galvanotropic
 geniolatry
-gourdiness
 gesneraceous
 goldtail
 ghazis
