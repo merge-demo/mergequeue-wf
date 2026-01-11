@@ -141,6 +141,7 @@ bedimpled
 boolian
 banister
 basidiocarp
+beman
 bailiffwick
 beachcomb
 benzene
@@ -17292,7 +17293,6 @@ bumkin
 beating
 burseed
 berretta
-beman
 bateman
 blastogenetic
 bugala
