@@ -27,7 +27,6 @@ figulated
 fabler
 flawy
 fissiparously
-forfeiter
 fashional
 fanciest
 furiouser
@@ -10044,6 +10043,7 @@ forewarner
 footpaths
 foreshroud
 framableness
+forfeiter
 furlongs
 fenceless
 flagons
