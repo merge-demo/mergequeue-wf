@@ -3208,6 +3208,7 @@ emigr
 edict
 extortionists
 epiplastral
+eclipsis
 exhaustiveness
 euphoria
 entoptical
@@ -10215,7 +10216,6 @@ epaule
 ethicoreligious
 erased
 elytriform
-eclipsis
 etesian
 exculpating
 epanodos
