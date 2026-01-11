@@ -12670,7 +12670,6 @@ avarice
 agricole
 anointing
 arthragra
-abnormalised
 agreing
 angrily
 accountants
@@ -19721,6 +19720,7 @@ aristotelean
 aristotelianism
 acicula
 aristotype
+abnormalised
 aristotle
 arytenoepiglottic
 amphiblestritis
