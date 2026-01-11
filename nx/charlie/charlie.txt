@@ -7642,6 +7642,7 @@ cerebrize
 cerebrocardiac
 cytotaxonomy
 cerebroid
+cremains
 cirrhosed
 cerebromeningitis
 celiopyosis
@@ -8919,7 +8920,6 @@ candylike
 chromhidrosis
 coccygean
 cryptanalyst
-cremains
 cochylis
 charadrius
 charango
