@@ -579,6 +579,7 @@ cadres
 ciconiiform
 councilors
 convokes
+courlan
 colloque
 confort
 caduac
@@ -27339,7 +27340,6 @@ cantillation
 courgette
 courida
 cherokees
-courlan
 charging
 couronne
 coleseed
