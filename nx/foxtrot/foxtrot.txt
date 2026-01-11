@@ -6104,6 +6104,7 @@ forgab
 frontooccipital
 flanker
 fictionise
+freeholders
 fustic
 frances
 fleam
@@ -9711,7 +9712,6 @@ flipflop
 fictively
 foretoken
 flossier
-freeholders
 faldstool
 fringe
 fouquieria
