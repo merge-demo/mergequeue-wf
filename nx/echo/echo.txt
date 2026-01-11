@@ -9287,7 +9287,6 @@ entresol
 eugeosynclinal
 elytrin
 embue
-errors
 estramazone
 ecrustaceous
 electroethereal
@@ -12626,6 +12625,7 @@ eranthemum
 extramurally
 emeus
 elephantidae
+errors
 equiaxial
 epexegeses
 exodic

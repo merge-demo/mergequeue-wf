@@ -9511,7 +9511,6 @@ farming
 framework
 fellows
 forenames
-flopover
 femininism
 frameable
 frequenting
@@ -10630,6 +10629,7 @@ feeblebrained
 foreswore
 fanteeg
 forwarn
+flopover
 fellowmen
 freakouts
 fibrination
