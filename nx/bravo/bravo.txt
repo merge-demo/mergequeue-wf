@@ -7907,6 +7907,7 @@ bibitory
 bothridiums
 bohmite
 biblical
+batches
 bobsledders
 bels
 benamed
@@ -17132,7 +17133,6 @@ bequeather
 bulletheadedness
 bayard
 bromian
-batches
 branchiobdella
 basecoat
 bulletlike
