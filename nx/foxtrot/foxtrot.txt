@@ -9473,7 +9473,6 @@ frescoer
 fulsomeness
 fenman
 functionalities
-fausant
 filmslide
 fireboats
 flambant
@@ -10777,6 +10776,7 @@ felup
 fomentation
 footrope
 flagstaves
+fausant
 fletches
 forgotten
 frustum
