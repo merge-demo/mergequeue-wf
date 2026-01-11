@@ -24358,6 +24358,7 @@ coconstituent
 conservatoire
 chatsome
 conjecturing
+chedlock
 cookout
 craniophore
 cookroom
@@ -25738,7 +25739,6 @@ corresponsively
 churchlet
 corniche
 corridas
-chedlock
 corridors
 corriedale
 corrige

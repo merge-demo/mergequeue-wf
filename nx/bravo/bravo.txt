@@ -7493,7 +7493,6 @@ befreeze
 body
 better
 besmirched
-batrachia
 buboes
 bashalick
 bumboat
@@ -15050,6 +15049,7 @@ beaufet
 breba
 brewmaster
 boatfalls
+batrachia
 breccial
 boatly
 breccias
