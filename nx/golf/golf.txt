@@ -1982,7 +1982,6 @@ glycid
 gams
 glyptical
 gaurian
-gasting
 gaurie
 ginnings
 glamourous
@@ -6927,6 +6926,7 @@ goody
 giganticide
 geomalism
 ganglioform
+gasting
 geographer
 geneserine
 gulosity
