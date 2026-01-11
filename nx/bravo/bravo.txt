@@ -8187,7 +8187,6 @@ biding
 biosensor
 bidirectional
 biophagy
-beliefs
 boltonias
 boathouses
 bountith
@@ -10474,6 +10473,7 @@ brisement
 blankish
 blankly
 berberine
+beliefs
 boneless
 baidya
 bullfinch
