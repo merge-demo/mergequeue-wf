@@ -5947,6 +5947,7 @@ effate
 emissary
 eruc
 erythrose
+equiaxed
 entrances
 euflavine
 expectorates
@@ -8548,7 +8549,6 @@ enwreathe
 epigeous
 eskimauan
 extraparenchymal
-equiaxed
 edificable
 equate
 eburnification
