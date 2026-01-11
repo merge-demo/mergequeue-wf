@@ -5881,6 +5881,7 @@ brassies
 batholith
 beefin
 bypaths
+bandhava
 beerocracy
 bellowsful
 behang
@@ -11257,7 +11258,6 @@ beheadal
 blossomless
 baptize
 beche
-bandhava
 bizonia
 bogbeans
 biotoxins
