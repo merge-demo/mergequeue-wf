@@ -20799,6 +20799,7 @@ aliner
 archheresy
 artotype
 annotation
+anthesterion
 alberene
 asqueal
 acolhua
@@ -21588,7 +21589,6 @@ anakoluthia
 agush
 antiparagraphe
 aloed
-anthesterion
 arthrosia
 adjudgment
 automolite
