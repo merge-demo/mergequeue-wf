@@ -2018,7 +2018,6 @@ baniya
 baning
 bulkiness
 bandcutter
-breathseller
 banisher
 banishment
 banyuls
@@ -12240,6 +12239,7 @@ biometeorology
 blandiloquence
 baklawas
 benzodiazine
+breathseller
 barkeeps
 bridgeboard
 bijugular
