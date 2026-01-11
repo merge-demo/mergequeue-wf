@@ -3560,6 +3560,7 @@ gulo
 gastropore
 guttles
 graphonomy
+gallop
 genipaps
 gandoura
 gnathotheca
@@ -9961,7 +9962,6 @@ gravelly
 grander
 grainsick
 genom
-gallop
 gasteralgia
 galiots
 glamorizing
