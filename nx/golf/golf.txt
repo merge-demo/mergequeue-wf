@@ -729,6 +729,7 @@ gnomonical
 gersdorffite
 gentianic
 gor
+genioglossal
 gentlepeople
 galactotherapy
 gambling
@@ -2715,7 +2716,6 @@ gillers
 granule
 gemarist
 gigantocyte
-genioglossal
 gconvert
 gastroenterologists
 ganodont
