@@ -23974,7 +23974,6 @@ claquers
 carpetbagged
 convects
 caproyl
-crankshafts
 conveyed
 coonskins
 conveyer
@@ -30687,6 +30686,7 @@ complexometric
 cincinatti
 costopleural
 cudgeling
+crankshafts
 cudgelling
 costopneumopexy
 cudgels
