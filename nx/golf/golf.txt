@@ -3003,7 +3003,6 @@ gressorial
 genealogizer
 grievers
 galliardness
-geoids
 giddily
 gloriole
 gesticulatively
@@ -4485,6 +4484,7 @@ grandsire
 generics
 giocoso
 gip
+geoids
 gleba
 galloman
 gaultherine
