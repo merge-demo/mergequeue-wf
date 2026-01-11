@@ -5577,6 +5577,7 @@ enfants
 evulsion
 encephaloscopy
 emetophobia
+endogamies
 expediences
 evangel
 extratympanic
@@ -8301,7 +8302,6 @@ enshadow
 evg
 essonites
 episthotonos
-endogamies
 enolized
 electrodeposit
 enciphers
