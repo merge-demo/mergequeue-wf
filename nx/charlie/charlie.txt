@@ -12743,7 +12743,6 @@ cataloguize
 cratch
 chuff
 chuffer
-crunched
 countercraft
 cauliflowers
 chugalug
@@ -13402,6 +13401,7 @@ cyclothymiac
 cocci
 contractile
 czarists
+crunched
 cyclothymic
 cocooned
 cyclothure
