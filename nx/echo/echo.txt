@@ -8557,6 +8557,7 @@ edificable
 equate
 eburnification
 enharmonic
+epistropheus
 electroacoustical
 earnings
 ejectum
@@ -9064,7 +9065,6 @@ exterrestrial
 erythrocytosis
 excursionist
 ectasia
-epistropheus
 equivocations
 educe
 erythrolein
