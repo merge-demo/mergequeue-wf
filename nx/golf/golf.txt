@@ -2454,7 +2454,6 @@ gloriously
 glade
 goalkeeping
 grocers
-galavants
 graphotypic
 garial
 geologian
@@ -7864,6 +7863,7 @@ gristmilling
 graphospasm
 gerents
 goosander
+galavants
 grumble
 gimirrai
 gelidities
