@@ -3828,7 +3828,6 @@ bucerotes
 bewilderment
 behight
 broccoli
-boarfishes
 bhoy
 bugging
 baun
@@ -5905,6 +5904,7 @@ bellwether
 bradmaker
 bleater
 bellwort
+boarfishes
 belock
 basimesostasis
 beigy
