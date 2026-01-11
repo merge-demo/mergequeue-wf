@@ -3329,6 +3329,7 @@ capnomor
 cirripede
 characterologically
 connivant
+countermined
 celli
 colleri
 capo
@@ -26942,7 +26943,6 @@ countermine
 cinquefoils
 castellated
 cotonier
-countermined
 countermission
 coinfeftment
 chromophor
