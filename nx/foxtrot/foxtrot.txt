@@ -2778,7 +2778,6 @@ flareboard
 floppier
 festivity
 flatly
-fluorimeter
 forgift
 fistulized
 forbearer
@@ -8627,6 +8626,7 @@ flammigerous
 foundery
 familiarism
 flatworks
+fluorimeter
 fillagreing
 farseeingness
 fetcher
