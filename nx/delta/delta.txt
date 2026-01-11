@@ -8599,6 +8599,7 @@ dehydrant
 drainless
 decussate
 duckhouse
+demerge
 dyarchies
 displeased
 disjunctor
@@ -18447,7 +18448,6 @@ decagrams
 downsman
 doublethink
 dints
-demerge
 distrusts
 diddler
 duplicious
