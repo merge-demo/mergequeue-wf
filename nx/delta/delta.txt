@@ -5107,7 +5107,6 @@ difflation
 dendrolater
 desexes
 durango
-detect
 dola
 decompress
 daubes
@@ -7753,6 +7752,7 @@ deodorant
 destress
 dowie
 drawler
+detect
 ductilizing
 daphnephoria
 devaluating
