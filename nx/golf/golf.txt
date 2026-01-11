@@ -3087,7 +3087,6 @@ greensauce
 gamelin
 genepi
 grypanian
-gluttonized
 geomorphologically
 glycopexis
 geonavigation
@@ -10409,6 +10408,7 @@ gutta
 gullies
 gems
 groans
+gluttonized
 geometricians
 gapeworm
 girandola
