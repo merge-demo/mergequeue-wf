@@ -5532,6 +5532,7 @@ eucarida
 epigrammatised
 enhusk
 enfeeblish
+explat
 effectful
 enhearse
 epilimnetic
@@ -13248,7 +13249,6 @@ emboliform
 explanted
 eutopian
 explanting
-explat
 exocoelom
 exertive
 ety
