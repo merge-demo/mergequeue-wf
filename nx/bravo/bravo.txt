@@ -1985,7 +1985,6 @@ bitwise
 bantoid
 bagatelle
 babesiasis
-bange
 browns
 bronchoscopy
 brachydactyl
@@ -5438,6 +5437,7 @@ bedin
 betwit
 behammer
 bacula
+bange
 beshine
 boarstaff
 bronchium
