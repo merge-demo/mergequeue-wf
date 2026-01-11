@@ -2162,7 +2162,6 @@ gerontine
 gdinfo
 golfings
 gaycat
-gastrotomy
 grainer
 gizzards
 genteelly
@@ -3526,6 +3525,7 @@ gestalt
 gestaltist
 gallicisms
 gynecology
+gastrotomy
 grum
 gubernance
 gove
