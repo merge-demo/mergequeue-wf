@@ -1711,7 +1711,6 @@ calorimetrically
 calorimotor
 calorizing
 chloromelanite
-calosoma
 calotermes
 calotype
 cyclodiolefine
@@ -15012,6 +15011,7 @@ cittern
 cavorts
 citterns
 citua
+calosoma
 cytulae
 colormaking
 cosmesis

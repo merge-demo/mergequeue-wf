@@ -9049,7 +9049,6 @@ emanative
 eyases
 electrotherapeutics
 entergogenic
-extrality
 extravascular
 erythrocytoschisis
 engaud
@@ -10711,6 +10710,7 @@ electrotypic
 evenworthy
 ecossaise
 extenuative
+extrality
 egosyntonic
 etiquet
 endfile
