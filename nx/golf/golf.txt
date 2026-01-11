@@ -7273,7 +7273,6 @@ gavages
 glabella
 gangion
 grislier
-garlicmonger
 grabbing
 greencloth
 governorate
@@ -9148,6 +9147,7 @@ gablatores
 grumose
 gormandizing
 guttation
+garlicmonger
 geophagist
 gastroenterostomy
 guillemet
