@@ -1191,7 +1191,6 @@ excisemen
 entrochite
 edrioasteroidea
 epipany
-electrotyped
 exceptiveness
 expectancies
 educand
@@ -10133,6 +10132,7 @@ epilation
 epinastic
 exacerbations
 escapisms
+electrotyped
 emballonurid
 eupion
 enlure
