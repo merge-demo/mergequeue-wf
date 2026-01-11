@@ -1110,7 +1110,6 @@ abutilon
 apomorphine
 aeneid
 abutment
-articulant
 accusal
 assertible
 acylogen
@@ -6197,6 +6196,7 @@ agoraphobic
 annuitant
 achoo
 antiracing
+articulant
 airdates
 agorot
 agos
