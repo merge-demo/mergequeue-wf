@@ -7832,7 +7832,6 @@ entozoan
 epiguanine
 elementate
 enablement
-eireannach
 escandalize
 encloak
 extincts
@@ -12743,6 +12742,7 @@ erenach
 eloah
 epiphytical
 eucaryotic
+eireannach
 epispinal
 ethers
 equivoque
