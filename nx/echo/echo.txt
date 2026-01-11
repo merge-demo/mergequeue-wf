@@ -4360,7 +4360,6 @@ economize
 enterointestinal
 exceeders
 exothermous
-emulative
 enwoman
 enamour
 enamouredness
@@ -5662,6 +5661,7 @@ euploid
 endophasic
 erotism
 entrough
+emulative
 expectorants
 evomit
 emigres
