@@ -2444,6 +2444,7 @@ electrodialyze
 essayical
 epistle
 extrabold
+epitaphian
 evenglow
 empiristic
 esloign
@@ -11148,7 +11149,6 @@ eavesdrip
 encomy
 evacuant
 eighteenmos
-epitaphian
 executing
 electrification
 evacuants
