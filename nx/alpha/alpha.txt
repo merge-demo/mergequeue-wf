@@ -2992,7 +2992,6 @@ antireligious
 actinocrinite
 actinodielectric
 adenodermia
-actinodromous
 ariose
 actinoelectrically
 antigenic
@@ -13951,6 +13950,7 @@ alencon
 anticlassical
 antatrophic
 ante
+actinodromous
 avener
 adenoviral
 anhaemolytic
