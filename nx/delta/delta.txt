@@ -2963,7 +2963,6 @@ deductions
 dwarfism
 distrainment
 dirtier
-deductive
 deductory
 deducts
 deduplication
@@ -8234,6 +8233,7 @@ diagnostically
 disenthroned
 disentitled
 diagnosticate
+deductive
 deputization
 denitrating
 dinotherium
