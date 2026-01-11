@@ -4963,7 +4963,6 @@ demiliterate
 dude
 dummies
 diphyletic
-defaulting
 dunne
 dueness
 demythologizing
@@ -6108,6 +6107,7 @@ demiworld
 derailment
 decocts
 divvied
+defaulting
 depredations
 defalcate
 dental
