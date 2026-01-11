@@ -4063,7 +4063,6 @@ foxfish
 frijoles
 fondish
 fusibly
-flophouses
 flateria
 fraid
 fructuate
@@ -6825,6 +6824,7 @@ fallaciousness
 fiefdom
 foal
 foldaway
+flophouses
 feretory
 ferryman
 farfal
