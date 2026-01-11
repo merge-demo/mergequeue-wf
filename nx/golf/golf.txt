@@ -692,7 +692,6 @@ goneril
 gastronomer
 gardebras
 gonfalon
-goniotropous
 gastroenterology
 gratillity
 greeters
@@ -9536,6 +9535,7 @@ goondie
 grounders
 gonyaulax
 graceful
+goniotropous
 gabbroid
 ghylls
 guelphish
