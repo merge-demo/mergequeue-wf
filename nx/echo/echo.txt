@@ -1622,7 +1622,6 @@ estopped
 erogenetic
 esoethmoiditis
 electrochemist
-embay
 euthamia
 euphonetics
 enregistry
@@ -5172,6 +5171,7 @@ enterovirus
 eastings
 enigmatize
 epilithic
+embay
 endogenae
 enshrine
 efference
