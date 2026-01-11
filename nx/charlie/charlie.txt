@@ -17063,7 +17063,6 @@ contributary
 cnida
 cynocrambaceae
 cnemidium
-cnemis
 claudetites
 cyano
 cneorum
@@ -23731,6 +23730,7 @@ compunctious
 contraindicates
 contraindications
 cologarithm
+cnemis
 contralateral
 crappers
 conjunctural
