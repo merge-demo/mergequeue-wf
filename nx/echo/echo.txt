@@ -5815,7 +5815,6 @@ electrocorticogram
 eggshells
 exfoliation
 erlkings
-epicele
 extrinsic
 engrafter
 emagram
@@ -7906,6 +7905,7 @@ epicure
 endosmosis
 exudates
 exptl
+epicele
 exordia
 epimandibular
 enthrone
