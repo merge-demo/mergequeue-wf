@@ -237,6 +237,7 @@ flatway
 fumarate
 fittonia
 facular
+faulting
 fruitfullness
 fruitworm
 feverroot
@@ -9341,7 +9342,6 @@ fruticeta
 flukey
 forsado
 fluidise
-faulting
 flappers
 forty
 foveae
