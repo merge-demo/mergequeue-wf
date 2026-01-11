@@ -3524,7 +3524,6 @@ bogging
 bitterhearted
 bateau
 bateleur
-barbered
 bowerwoman
 blackhead
 bovista
@@ -12859,6 +12858,7 @@ bluffer
 bardy
 brame
 booly
+barbered
 backhanding
 betatters
 borocarbide
