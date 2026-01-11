@@ -2016,7 +2016,6 @@ believably
 bedstand
 baniya
 baning
-bulkiness
 bandcutter
 banisher
 banishment
@@ -2775,6 +2774,7 @@ bicipital
 bordello
 brattiest
 beeswing
+bulkiness
 brownstone
 boose
 buboed
