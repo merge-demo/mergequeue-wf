@@ -1052,7 +1052,6 @@ abt
 autoschediasm
 archreactionary
 ablend
-aphelion
 abuilding
 abuleia
 antitorpedo
@@ -3789,6 +3788,7 @@ arcticologist
 accipitrary
 animalian
 adiathetic
+aphelion
 adiating
 addends
 adiation
