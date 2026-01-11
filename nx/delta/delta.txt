@@ -3631,7 +3631,6 @@ disrespectfulness
 detractions
 deglazed
 discoblastic
-deglazing
 dubbing
 deglycerin
 dissonance
@@ -9410,6 +9409,7 @@ diffusors
 diabolus
 diner
 diether
+deglazing
 disenroll
 disheathing
 drowse
