@@ -2392,6 +2392,7 @@ gabon
 garhwali
 gymnoconia
 guardants
+gasterosteoid
 glump
 gerrhosaurid
 grignet
@@ -8034,7 +8035,6 @@ gabblement
 groveless
 geologized
 grudgment
-gasterosteoid
 gerousia
 gule
 grandmas
