@@ -3321,6 +3321,7 @@ gauze
 geotropically
 galagala
 gaut
+gallinula
 guarantor
 gazetteers
 gossypol
@@ -6602,7 +6603,6 @@ gudgeons
 gluconeogenetic
 gurgoyle
 genty
-gallinula
 guesswork
 gastrohyperneuria
 gabback
