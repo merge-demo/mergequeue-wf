@@ -4865,7 +4865,6 @@ epidermatoid
 encoder
 episcopable
 expectance
-embryogenetic
 eucaryote
 enshrining
 electrotherapeutist
@@ -14136,6 +14135,7 @@ endarch
 evokes
 equivorous
 ecarinate
+embryogenetic
 existentialize
 embody
 epithamia

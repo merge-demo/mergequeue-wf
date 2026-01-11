@@ -5370,7 +5370,6 @@ fumarole
 feasts
 filial
 fant
-forcepslike
 foulmouthedly
 foreseeingly
 fiddlebrained
@@ -10441,6 +10440,7 @@ felaheen
 frontignan
 fucate
 fetologies
+forcepslike
 flirty
 furoid
 feedable
