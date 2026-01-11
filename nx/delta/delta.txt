@@ -4477,6 +4477,7 @@ demies
 dosimetric
 demifigure
 domino
+distrail
 decentres
 disinflated
 downdraught
@@ -13727,7 +13728,6 @@ disseating
 denationalising
 dimmish
 diplantidian
-distrail
 disaltern
 dissident
 decentered
