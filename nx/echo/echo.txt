@@ -12807,6 +12807,7 @@ excitomotor
 embryology
 epicystotomy
 equine
+epinaoi
 euryale
 emajagua
 exoterical
@@ -13049,7 +13050,6 @@ engrapple
 encomiastical
 enhazard
 entrusted
-epinaoi
 eraser
 escoba
 emrode
