@@ -11464,7 +11464,6 @@ bluefin
 blaseness
 belonosphaerite
 benzylpenicillin
-barmkin
 bluegrass
 bluffy
 botargos
@@ -13576,6 +13575,7 @@ brodequin
 bearded
 briquette
 bouch
+barmkin
 blacksmith
 boucharde
 belime
