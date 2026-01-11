@@ -5534,7 +5534,6 @@ almagests
 aftershocks
 alexandria
 aftersound
-anterevolutional
 afterspring
 anatron
 afterstretch
@@ -15457,6 +15456,7 @@ allioniaceae
 antimilitary
 astacian
 antiministerial
+anterevolutional
 antiministerially
 aiming
 anandria
