@@ -5301,6 +5301,7 @@ cassia
 cassicus
 cassidid
 cassididae
+contests
 cotsetla
 cassidulina
 cassiduloid
@@ -23529,7 +23530,6 @@ comprise
 chace
 contestingly
 contestless
-contests
 cirratulus
 chinquapin
 clodding
