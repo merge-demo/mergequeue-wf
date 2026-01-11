@@ -1425,6 +1425,7 @@ gloves
 garreteer
 greenless
 gola
+gregor
 glycyrrhiza
 garret
 graffer
@@ -6221,7 +6222,6 @@ giffgaff
 goatfishes
 grooved
 gladded
-gregor
 garrisoned
 gastrimargy
 graphy
