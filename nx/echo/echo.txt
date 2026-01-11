@@ -2497,6 +2497,7 @@ electrogenic
 eudemonia
 exhilarates
 enfoncee
+epimerise
 electrogilt
 ejecting
 electrogram
@@ -11780,7 +11781,6 @@ extracorpuscular
 exulcerated
 envassal
 ekphore
-epimerise
 extrospective
 exorcises
 elusion
