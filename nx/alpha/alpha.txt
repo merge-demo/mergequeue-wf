@@ -2179,7 +2179,6 @@ acholuric
 arctogaeal
 alguazil
 aquatinta
-assessionary
 achondritic
 agrostology
 autodecremented
@@ -25355,6 +25354,7 @@ answerable
 agonising
 antinucleons
 acker
+assessionary
 abiology
 azotemia
 arbiter
