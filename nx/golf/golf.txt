@@ -2702,7 +2702,6 @@ gibbles
 genevan
 giboia
 grudgingness
-geodiferous
 gabardines
 gravelous
 guaican
@@ -8648,6 +8647,7 @@ genealogical
 guerdonless
 gestic
 ground
+geodiferous
 gibbeting
 gaufrettes
 geometrizing
