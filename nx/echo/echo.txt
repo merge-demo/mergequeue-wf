@@ -6309,6 +6309,7 @@ enlargingly
 emporium
 ergotin
 eschar
+eisteddfodau
 euchred
 ensphered
 elucubrate
@@ -10860,7 +10861,6 @@ embassiate
 eligibilities
 endostomata
 enchase
-eisteddfodau
 ethnic
 euphotic
 entailable
