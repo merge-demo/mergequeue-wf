@@ -2391,6 +2391,7 @@ drugget
 debilitated
 dino
 decidedly
+displeasurably
 dewclaw
 decidence
 dwyka
@@ -12348,7 +12349,6 @@ disguisedly
 dyestuffs
 dulcimer
 decimator
-displeasurably
 demagnetization
 draughtily
 disenabling
