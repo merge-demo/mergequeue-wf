@@ -4457,7 +4457,6 @@ gluer
 graces
 griffinage
 gynodioecious
-gophers
 groundedly
 giglet
 gerusia
@@ -10272,6 +10271,7 @@ gonophore
 glacier
 gustiness
 galvanoplastically
+gophers
 grownup
 gauzelike
 guanases
