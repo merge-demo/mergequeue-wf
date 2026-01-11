@@ -1716,7 +1716,6 @@ glories
 gane
 grassquit
 glaciation
-gloated
 goldfinnies
 glaucin
 gussie
@@ -3805,6 +3804,7 @@ guttur
 gastrotrichan
 graduations
 gurdy
+gloated
 glabellae
 griffons
 gasterothecal
