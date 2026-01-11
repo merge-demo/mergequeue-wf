@@ -4302,7 +4302,6 @@ carets
 caretta
 careworn
 concorporation
-carex
 cottages
 carfare
 carfares
@@ -13957,6 +13956,7 @@ cynotherapy
 counterrevolutionize
 cinquanter
 cinque
+carex
 cinquecentist
 coquetries
 crowl
