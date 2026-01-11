@@ -4406,7 +4406,6 @@ ginhouse
 geobios
 gelidiaceae
 gametocyst
-gangrene
 goldfinches
 gyron
 gallanilide
@@ -6524,6 +6523,7 @@ gens
 gamete
 grotian
 grasshopper
+gangrene
 gayest
 gorinesses
 glycins
