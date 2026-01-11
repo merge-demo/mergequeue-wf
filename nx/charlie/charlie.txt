@@ -8079,6 +8079,7 @@ chaetodon
 chaetodontidae
 chaetognatha
 cityscape
+chlorosis
 chaetophobia
 crumples
 chiack
@@ -24503,7 +24504,6 @@ cuckooed
 creosotic
 coelogyne
 curette
-chlorosis
 copa
 copable
 carrs
