@@ -4675,7 +4675,6 @@ eustachian
 enchorial
 exdelicto
 eild
-erminois
 evolve
 eremiteship
 enchoric
@@ -9637,6 +9636,7 @@ electrocoagulation
 escrows
 enkindles
 electrogalvanic
+erminois
 epilogize
 excitable
 ensearcher
