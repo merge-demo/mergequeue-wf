@@ -2103,7 +2103,6 @@ comdg
 campanile
 colloquiquiums
 cyclist
-campaniliform
 cognises
 chicayote
 campanini
@@ -24167,6 +24166,7 @@ convictional
 civilizatory
 cibarium
 convictions
+campaniliform
 convictism
 cresolin
 connexive
