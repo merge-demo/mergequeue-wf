@@ -28637,7 +28637,6 @@ crembalum
 cremes
 churnings
 clothilda
-choirboy
 chasmal
 covillager
 cremorne
@@ -31102,6 +31101,7 @@ cuproid
 cunicular
 cuniculi
 camelid
+choirboy
 cuniculus
 crosspatches
 cuniforms
