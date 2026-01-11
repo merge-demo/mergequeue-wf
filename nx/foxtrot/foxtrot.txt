@@ -3644,6 +3644,7 @@ furlana
 frangula
 franchisee
 fannier
+fiddleback
 foregoneness
 fanes
 fulfilment
@@ -7159,7 +7160,6 @@ fractionator
 fripper
 flaker
 flittingly
-fiddleback
 finesse
 floriscope
 flutier
