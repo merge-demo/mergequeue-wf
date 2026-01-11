@@ -9936,6 +9936,7 @@ bioscope
 bestialist
 brotherly
 bitstock
+brashier
 beasties
 besmirches
 bitter
@@ -16524,7 +16525,6 @@ borneo
 byrling
 bipyramid
 brushpopper
-brashier
 brushwood
 brushwork
 burdock
