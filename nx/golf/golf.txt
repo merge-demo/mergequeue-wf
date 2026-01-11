@@ -994,7 +994,6 @@ gouge
 greasebush
 ginglymoid
 glycogenesis
-golfs
 goldhammer
 ganderess
 genethlialogy
@@ -6563,6 +6562,7 @@ grew
 globuliform
 glutting
 gulfweeds
+golfs
 greyskin
 guiders
 glandarious
