@@ -3606,7 +3606,6 @@ anomaloscope
 adenoacanthoma
 adenocarcinomas
 adenochondroma
-annoyers
 adenochrome
 abnumerable
 antepectoral
@@ -16974,6 +16973,7 @@ aplodontiidae
 aplomb
 amygdaliferous
 astond
+annoyers
 amends
 aplome
 aplotaxene
