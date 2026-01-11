@@ -11418,6 +11418,7 @@ cloakless
 chondriosome
 cho
 complete
+competency
 conventionalism
 choak
 choana
@@ -24078,7 +24079,6 @@ circularise
 capercally
 cobaltine
 conversationable
-competency
 coactor
 crimpy
 conversationalists
