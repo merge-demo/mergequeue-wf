@@ -1526,7 +1526,6 @@ gasman
 gasbags
 galactosemia
 glyptodon
-gargler
 gasmen
 grippal
 galenian
@@ -6896,6 +6895,7 @@ genitival
 geed
 gaposises
 goniatitic
+gargler
 gibbosities
 grainman
 garroting
