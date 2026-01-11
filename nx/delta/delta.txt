@@ -5718,6 +5718,7 @@ deplorableness
 derivers
 disrepair
 deplore
+disaffiliate
 deplorer
 deplumated
 disposes
@@ -17366,7 +17367,6 @@ dca
 derivability
 delime
 dillydallies
-disaffiliate
 deallocation
 duvetine
 delactation
