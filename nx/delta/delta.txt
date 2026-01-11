@@ -1659,6 +1659,7 @@ daws
 deamination
 deaminize
 deammonation
+disendowed
 dichastic
 dandle
 deanships
@@ -3245,7 +3246,6 @@ disjects
 deblocked
 daughterliness
 dockhead
-disendowed
 dicondylian
 disburdening
 domesticate
