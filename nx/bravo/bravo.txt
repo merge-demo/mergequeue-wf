@@ -657,7 +657,6 @@ biannual
 baculine
 boiseries
 baculoid
-bicentricity
 baculus
 badaga
 biorgan
@@ -11949,6 +11948,7 @@ bodrage
 boysenberries
 bodiliness
 baalite
+bicentricity
 bortzes
 battleplane
 bravados
