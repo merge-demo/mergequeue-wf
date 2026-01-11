@@ -769,7 +769,6 @@ aepyornis
 ascites
 annats
 abreast
-archenteric
 aerobious
 acratia
 abreed
@@ -5588,6 +5587,7 @@ adjustable
 amidstream
 aga
 auspiciously
+archenteric
 antilopinae
 agacante
 accrue
