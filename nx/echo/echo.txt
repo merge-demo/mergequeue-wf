@@ -5328,7 +5328,6 @@ everglades
 exsertion
 eelfare
 endospore
-evidentness
 encharm
 epiphyte
 emetin
@@ -10931,6 +10930,7 @@ enchondrosis
 eaglewood
 euploidies
 euchromatin
+evidentness
 euphorically
 excommunicate
 evoked
