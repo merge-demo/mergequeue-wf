@@ -3230,6 +3230,7 @@ fango
 fuchsone
 fiddles
 flunkies
+fiendishness
 falern
 ferrean
 fictioner
@@ -9873,7 +9874,6 @@ fortescue
 fordicidia
 frib
 fruitage
-fiendishness
 formee
 fribbler
 friskle
