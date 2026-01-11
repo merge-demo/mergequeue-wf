@@ -2128,7 +2128,6 @@ cowbells
 campbellisms
 campbellites
 capriciousness
-campcraft
 campe
 calyceal
 cumbers
@@ -13099,6 +13098,7 @@ conclave
 conational
 countrypeople
 cyathiform
+campcraft
 cyathophyllum
 confest
 cibarial
