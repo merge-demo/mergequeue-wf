@@ -10802,7 +10802,6 @@ eumenides
 emblema
 encrinus
 electrogilding
-estimate
 exflagellate
 endosporic
 entombment
@@ -11681,6 +11680,7 @@ electrophone
 equimomental
 electromechanics
 equiangle
+estimate
 ethnical
 exaestuate
 eyeball
