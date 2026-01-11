@@ -6967,7 +6967,6 @@ curvirostres
 charros
 cementer
 cementification
-cyborgs
 cementin
 catapuce
 chieftainries
@@ -26374,6 +26373,7 @@ clubbable
 cozeiest
 circumsaturnian
 continuous
+cyborgs
 cotenancy
 cotenant
 cadish
