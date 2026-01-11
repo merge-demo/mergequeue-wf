@@ -1144,7 +1144,6 @@ gallnut
 groupment
 gunpowder
 granddam
-gypsologist
 gander
 gravamens
 gregarine
@@ -2561,6 +2560,7 @@ gestured
 grooveless
 gigmania
 gained
+gypsologist
 guessive
 generalise
 gastropathy
