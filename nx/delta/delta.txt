@@ -3504,6 +3504,7 @@ duffed
 deforse
 diplomatic
 disaccharides
+deflocculate
 dinitrotoluene
 drumloid
 disapproving
@@ -11512,7 +11513,6 @@ discoloration
 discolorations
 discolored
 dar
-deflocculate
 doest
 defalcations
 deads
