@@ -8087,7 +8087,6 @@ anteing
 avoidances
 abiogenetic
 artisanship
-algoid
 adroitness
 anglophiliac
 algolagnia
@@ -19168,6 +19167,7 @@ amebicide
 anathematizer
 accessorized
 attendances
+algoid
 abusable
 aerobiotic
 antepretonic
