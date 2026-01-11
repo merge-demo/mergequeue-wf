@@ -733,6 +733,7 @@ bearcoot
 bathyorographical
 badiner
 birt
+battish
 badious
 betrays
 betterer
@@ -8805,7 +8806,6 @@ barchans
 bimethyls
 bromohydrate
 buoyancies
-battish
 bridie
 bubblingly
 bimodule

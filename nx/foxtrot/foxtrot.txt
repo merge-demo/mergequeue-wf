@@ -5651,6 +5651,7 @@ fossilation
 fmt
 flyer
 failsafe
+footages
 forwhy
 forfar
 fingerwise
@@ -6556,7 +6557,6 @@ factionist
 fluxes
 floody
 flustrated
-footages
 filches
 fluted
 featherbedded
