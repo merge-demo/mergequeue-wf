@@ -1985,7 +1985,6 @@ bitwise
 bantoid
 bagatelle
 babesiasis
-bange
 browns
 bronchoscopy
 brachydactyl
@@ -3699,6 +3698,7 @@ bijugous
 bucketful
 bally
 belfather
+biddelian
 bonnering
 bakatan
 battement
@@ -4590,7 +4590,6 @@ beseech
 buglewort
 brunetness
 bicellular
-biddelian
 backjaw
 bedaub
 besuit
@@ -5438,6 +5437,7 @@ bedin
 betwit
 behammer
 bacula
+bange
 beshine
 boarstaff
 bronchium
@@ -8787,6 +8787,7 @@ beddingroll
 bottomry
 brule
 barhopping
+bordellos
 bimetals
 bolsters
 bullishness
@@ -11613,7 +11614,6 @@ brasse
 balladries
 botein
 budless
-bordellos
 bravi
 blurredly
 beatifying

@@ -674,6 +674,7 @@ fluotitanic
 forelegs
 fitness
 fames
+foggara
 fuddled
 finessing
 frissons
@@ -2061,7 +2062,6 @@ foys
 forehook
 fwelling
 flocky
-foggara
 filibuster
 feudalisation
 foremasthand
@@ -2407,7 +2407,6 @@ falsiteit
 fashionable
 fifie
 ferlying
-ferling
 flemishes
 fermail
 flabellifoliate
@@ -3343,6 +3342,7 @@ flavorer
 fress
 fractals
 faultage
+fastigiate
 filestatus
 floorers
 flotsam
@@ -3509,7 +3509,6 @@ farness
 flubbing
 fleches
 falcones
-fastigiate
 fulgorid
 fusicladium
 figurer
@@ -4482,6 +4481,7 @@ furler
 forerigging
 footstool
 fishskin
+foresin
 formidable
 frouzier
 frankenia
@@ -6782,6 +6782,7 @@ flamming
 fenmen
 foiningly
 forjudged
+falseness
 food
 foliageous
 fineer
@@ -10106,7 +10107,6 @@ flyingly
 fantee
 ferriferous
 fulminurate
-falseness
 fireblende
 fastigiated
 flattie
@@ -11431,6 +11431,7 @@ fishings
 furfuraceously
 ferity
 fingerlike
+ferling
 furred
 fascis
 frieze
@@ -11745,7 +11746,6 @@ foliiform
 fourteens
 flneur
 firiness
-foresin
 fremdly
 factorage
 fumados
