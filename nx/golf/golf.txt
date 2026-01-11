@@ -558,7 +558,6 @@ glyptography
 gup
 ghetto
 garde
-goolah
 getfd
 growls
 gableended
@@ -6882,6 +6881,7 @@ graphics
 gorbal
 guaranty
 greffotome
+goolah
 globosities
 galaxies
 gymnocarpic

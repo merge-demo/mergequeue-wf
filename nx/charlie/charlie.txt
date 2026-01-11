@@ -9823,7 +9823,6 @@ clubroot
 combattants
 carpologist
 chemick
-calanid
 chemicker
 chemicoastrological
 chokra
@@ -15623,6 +15622,7 @@ cartographers
 clattered
 coxcombries
 clatterer
+calanid
 crucifier
 clattery
 captainly
