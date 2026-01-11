@@ -1529,7 +1529,6 @@ balsaminaceae
 bronchopleurisy
 brakemaking
 balladist
-bedaubed
 balladizing
 biophore
 brutalization
@@ -13727,6 +13726,7 @@ billboard
 bevelment
 bourasque
 bradypeptic
+bedaubed
 ballarag
 belander
 birred
