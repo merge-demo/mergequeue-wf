@@ -2800,7 +2800,6 @@ anywhy
 aerie
 acquirer
 acromegaly
-analogs
 antiscience
 acromelalgia
 airworthier
@@ -3349,6 +3348,7 @@ andean
 allosyndesis
 audited
 argestes
+analogs
 antihierarchic
 arborescence
 adamite
