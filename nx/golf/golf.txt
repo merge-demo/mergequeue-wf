@@ -9258,6 +9258,7 @@ grazier
 giftedness
 groom
 gryllotalpa
+gangbuster
 glassworker
 glossalgia
 grandeeship
@@ -10375,7 +10376,6 @@ gaums
 gadgety
 gruffily
 greenlets
-gangbuster
 geum
 goadlike
 gallivorous
