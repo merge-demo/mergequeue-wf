@@ -1578,7 +1578,6 @@ fissirostres
 facially
 farcetta
 footingly
-fegary
 fooster
 favored
 favorer
@@ -11381,6 +11380,7 @@ firetraps
 fosters
 furnaces
 ferromagneticism
+fegary
 flightily
 footboards
 flashlamp
