@@ -5813,6 +5813,7 @@ batfish
 bimetallism
 berengelite
 bonasa
+bakula
 bellhouse
 blatchang
 buckstone
@@ -9694,7 +9695,6 @@ bishopdom
 baptists
 bilateral
 bishopling
-bakula
 biol
 bishopstool
 bivouacks
