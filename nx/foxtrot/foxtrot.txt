@@ -5174,6 +5174,7 @@ fregit
 farmhousey
 fraile
 frighting
+fawnskin
 fogdom
 frizzly
 foreadvise
@@ -11718,7 +11719,6 @@ friars
 fosslology
 flighty
 fructificative
-fawnskin
 fluoroscope
 flagellator
 folkland

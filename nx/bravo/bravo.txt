@@ -10757,7 +10757,6 @@ broadish
 bowhead
 bibl
 bannock
-belap
 blenk
 baronetizing
 backsetting
@@ -16891,6 +16890,7 @@ bourgeoises
 beermonger
 backings
 breastrail
+belap
 bissextile
 bohemians
 brachyprism
