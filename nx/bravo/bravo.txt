@@ -2022,6 +2022,7 @@ baniya
 baning
 bulkiness
 bandcutter
+breathseller
 banisher
 banishment
 banyuls
@@ -7372,7 +7373,6 @@ bursters
 borides
 boarhound
 buttonholing
-breathseller
 betear
 betel
 baseboards
