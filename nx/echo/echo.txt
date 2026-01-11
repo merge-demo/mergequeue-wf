@@ -4596,6 +4596,7 @@ enam
 effigies
 ectochondral
 expede
+enigmaticalness
 emperize
 enfettered
 encheason
@@ -7996,7 +7997,6 @@ eutannin
 exocline
 elasticized
 euploids
-enigmaticalness
 exscript
 epigonal
 essenced
