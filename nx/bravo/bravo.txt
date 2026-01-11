@@ -7077,6 +7077,7 @@ bombidae
 bola
 byre
 beknots
+brandy
 blenching
 barbute
 billiardist
@@ -14627,7 +14628,6 @@ balladeer
 branchlet
 brandenburg
 brandenburger
-brandy
 brosy
 bitty
 bondager
