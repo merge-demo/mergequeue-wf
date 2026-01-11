@@ -10848,6 +10848,7 @@ chip
 chipchop
 chiplet
 culvert
+cliack
 chipmunk
 claviharp
 chrysochrous
@@ -16069,7 +16070,6 @@ clewgarnet
 clewing
 cly
 cooruptibly
-cliack
 clubmobile
 clianthus
 clansmanship
