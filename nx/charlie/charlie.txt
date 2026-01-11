@@ -3800,6 +3800,7 @@ carbyl
 cenacle
 clouters
 carbineer
+companage
 carbines
 conquinamine
 carbinols
@@ -20424,7 +20425,6 @@ compagnies
 condonative
 concamerate
 companable
-companage
 circumfluent
 counterword
 cerebroma
