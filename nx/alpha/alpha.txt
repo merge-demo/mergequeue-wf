@@ -2609,7 +2609,6 @@ agapeic
 articulator
 allocated
 auxoflore
-abutters
 antescript
 asiden
 acquisite
@@ -12448,6 +12447,7 @@ anguillidae
 anemopathy
 astroscope
 antisudorific
+abutters
 anemoscope
 aurorian
 automorphism
