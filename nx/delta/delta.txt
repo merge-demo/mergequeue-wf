@@ -1559,7 +1559,6 @@ droops
 docked
 drippings
 dices
-deputising
 dyssodia
 deadfalls
 deviler
@@ -3226,6 +3225,7 @@ disenchain
 dapicho
 defensibleness
 downsizes
+deputising
 drays
 defensibly
 defensively
