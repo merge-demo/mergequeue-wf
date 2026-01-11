@@ -674,6 +674,7 @@ fluotitanic
 forelegs
 fitness
 fames
+foggara
 fuddled
 finessing
 frissons
@@ -2061,7 +2062,6 @@ foys
 forehook
 fwelling
 flocky
-foggara
 filibuster
 feudalisation
 foremasthand
