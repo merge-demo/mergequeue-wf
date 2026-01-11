@@ -1519,6 +1519,7 @@ glandless
 gorlin
 grote
 grasseye
+gogglebox
 genapping
 geological
 gasman
@@ -4137,7 +4138,6 @@ grasshop
 glucolipid
 gobernadora
 gondoletta
-gogglebox
 genus
 gelechiid
 gonagia
