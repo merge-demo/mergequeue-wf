@@ -1965,6 +1965,7 @@ gaunty
 gypsite
 genealogically
 greywacke
+genip
 glairs
 garnishments
 glamor
@@ -2744,7 +2745,6 @@ geodesic
 glamours
 gasolenes
 granularity
-genip
 gravedigger
 gilbertese
 genyplasty
