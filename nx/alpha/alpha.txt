@@ -12963,6 +12963,7 @@ annihilable
 attributes
 anharmonic
 abbreviating
+ascariasis
 aluniferous
 assubjugate
 aeroballistics
@@ -20926,7 +20927,6 @@ ascape
 abstrahent
 amidid
 adherence
-ascariasis
 aerodynamicist
 argaile
 assuefaction

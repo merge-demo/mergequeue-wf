@@ -6314,7 +6314,6 @@ berrendo
 bentonite
 bents
 benu
-benumbed
 benumbs
 ballplayers
 birdglue
@@ -12703,6 +12702,7 @@ bewrite
 beaklike
 bloodlessly
 bewrayed
+benumbed
 birdied
 babacoote
 boobily
