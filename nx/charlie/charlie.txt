@@ -16484,7 +16484,6 @@ clockless
 clockmaking
 crewer
 clockwatcher
-clockwise
 clockworked
 clavigerous
 carthamin
@@ -27962,6 +27961,7 @@ camerlengos
 celeomorphic
 chelicer
 catharize
+clockwise
 clinoclase
 catchpole
 cradlesongs
