@@ -4928,7 +4928,6 @@ endamoebidae
 equations
 entoils
 endangitis
-expertised
 enfile
 endarteteria
 ensisternum
@@ -11876,6 +11875,7 @@ emotivism
 excentric
 eumeromorphic
 entrepot
+expertised
 emits
 except
 escheatment
