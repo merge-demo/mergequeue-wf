@@ -13418,7 +13418,6 @@ aced
 annellata
 aphanapteryx
 anneloid
-agateware
 agraffee
 annette
 aob
@@ -17923,6 +17922,7 @@ amate
 approach
 aristodemocracy
 anthracotheriidae
+agateware
 approachable
 approached
 administration

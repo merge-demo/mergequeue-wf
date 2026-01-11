@@ -1223,7 +1223,6 @@ earthquake
 entirities
 enwombed
 espathate
-enlute
 elicited
 educationist
 endued
@@ -3398,6 +3397,7 @@ expensefully
 endodermis
 ecdyses
 endostyle
+enlute
 eyry
 eulogic
 environed
