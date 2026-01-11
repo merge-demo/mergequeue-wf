@@ -3809,7 +3809,6 @@ bescorched
 bristlecone
 beerish
 benzole
-beauish
 beatrice
 befleck
 bigness
@@ -5863,6 +5862,7 @@ beadier
 bonuses
 blacklisted
 bleaching
+beauish
 boozily
 blea
 bellyland
