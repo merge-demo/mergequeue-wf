@@ -5973,6 +5973,7 @@ gurneys
 glutaminic
 galliambus
 gimbri
+gregarious
 glutelins
 greaten
 guerrillaship
@@ -10274,7 +10275,6 @@ grownup
 gauzelike
 guanases
 galeproof
-gregarious
 guinness
 getid
 greenstuff
