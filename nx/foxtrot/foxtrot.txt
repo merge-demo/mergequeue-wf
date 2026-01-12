@@ -7584,7 +7584,6 @@ foreburton
 forecast
 forestarling
 foams
-ferial
 fullness
 foment
 fasthold
@@ -7634,6 +7633,7 @@ felicities
 factual
 foredefeated
 frankheartedness
+ferial
 fatuity
 footslogs
 fatimid
