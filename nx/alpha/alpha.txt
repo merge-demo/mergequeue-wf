@@ -2025,6 +2025,7 @@ aperistalsis
 aequoreal
 actinogram
 agglutinating
+auditive
 acropathology
 amplexus
 aveny
@@ -7172,7 +7173,6 @@ antigonococcic
 arthrectomies
 alangium
 anchors
-auditive
 alanines
 alagau
 audiologists
