@@ -1945,7 +1945,6 @@ global
 glutetei
 gruft
 gustoso
-gastrilegous
 gobans
 gauleiter
 grated
@@ -3106,6 +3105,7 @@ grits
 gemmates
 grenadines
 geophagism
+gastrilegous
 gemels
 gusseted
 grubhood
