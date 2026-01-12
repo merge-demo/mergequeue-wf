@@ -7285,7 +7285,6 @@ eumitosis
 epochism
 exception
 epalpebrate
-ebulliometer
 eurypylous
 eternises
 eelshop
@@ -13316,6 +13315,7 @@ eclipsareon
 extracosmic
 extogenous
 ectopistes
+ebulliometer
 educts
 exembryonate
 encroach
