@@ -2060,6 +2060,7 @@ anammonid
 altitudinal
 acheiria
 antiprohibition
+accumulate
 aboveboard
 apologised
 achenes
@@ -4436,7 +4437,6 @@ antipruritic
 annonaceae
 accipitrine
 azolla
-accumulate
 assaut
 adventitial
 aerobiotically
