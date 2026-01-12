@@ -1380,7 +1380,6 @@ gerodermia
 gauss
 groundkeeper
 ginners
-goulan
 garglers
 graplins
 glyoxylic
@@ -9029,6 +9028,7 @@ goldtit
 glacis
 guzzlers
 goodyness
+goulan
 glory
 grizzling
 grifting

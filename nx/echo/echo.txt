@@ -2986,7 +2986,6 @@ eyewinks
 experimentarian
 elicitation
 elicitor
-equivalvular
 enricher
 exploiters
 entoloma
@@ -7916,6 +7915,7 @@ eolopile
 equivocatory
 eternizes
 esquiring
+equivalvular
 estragol
 ensilation
 epimanikion
