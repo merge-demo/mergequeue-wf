@@ -2737,7 +2737,6 @@ gynandry
 genyophrynidae
 geodesic
 glamours
-gasolenes
 granularity
 gravedigger
 gilbertese
@@ -4573,6 +4572,7 @@ germinable
 gummed
 gainpain
 glabrousness
+gasolenes
 genocidal
 gnarred
 gil
