@@ -1367,7 +1367,6 @@ gervao
 gitalin
 garlion
 guhr
-guess
 gesturers
 garmentmaker
 gemmel
@@ -8999,6 +8998,7 @@ giveaway
 glimpses
 gumbolike
 glaucopis
+guess
 grievable
 grievance
 gatefolds
