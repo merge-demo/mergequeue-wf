@@ -1886,6 +1886,7 @@ discourse
 debouchment
 diarial
 debout
+dromaeognathae
 deervetch
 donging
 denticulated
@@ -9257,7 +9258,6 @@ dieses
 deforester
 diesters
 deflectable
-dromaeognathae
 diestock
 diestrous
 drawbridge
