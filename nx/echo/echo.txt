@@ -4226,6 +4226,7 @@ evacuate
 exhorter
 echolalic
 espousers
+extbook
 exocardiac
 emitting
 eucharists
@@ -13818,7 +13819,6 @@ extracerebral
 elucidative
 elasmobranch
 effervescingly
-extbook
 electrophilic
 extracystic
 equiarticulate

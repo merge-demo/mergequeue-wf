@@ -4735,7 +4735,6 @@ deaved
 diadochokinetic
 dromophobia
 dejected
-disgracing
 diaphototropism
 disbudding
 dpt
@@ -14843,6 +14842,7 @@ deathblows
 diallage
 doctorless
 dippers
+disgracing
 diffusibly
 dimissorial
 discombobulation
