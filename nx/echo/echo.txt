@@ -130,6 +130,7 @@ eponyms
 echinoderma
 embosk
 epigrammatic
+eurafric
 exanthemata
 enantiomorphous
 engaol
@@ -10978,7 +10979,6 @@ eoan
 emydea
 estufa
 eupsychics
-eurafric
 electrobioscopy
 epitaphize
 epigastric
