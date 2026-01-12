@@ -5658,7 +5658,6 @@ extranatural
 excreting
 everbearing
 entozoans
-eng
 evangelicals
 euploid
 endophasic
@@ -7142,6 +7141,7 @@ entertains
 examples
 edriophthalmous
 envisioning
+eng
 epistolising
 esophagometer
 episterna
