@@ -7774,6 +7774,7 @@ arctia
 alea
 aleak
 archcorsair
+actuating
 aleatoric
 academics
 aquae
@@ -10577,7 +10578,6 @@ aminoacetic
 anatomicosurgical
 academie
 arrhythmy
-actuating
 abrogator
 acetylized
 archdepredator
