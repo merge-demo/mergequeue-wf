@@ -1513,7 +1513,6 @@ forepiece
 faunish
 fleecing
 foamers
-fluorane
 flatdom
 franklinite
 forfends
@@ -10564,6 +10563,7 @@ flite
 floristry
 flamberge
 fierceness
+fluorane
 fusiliers
 frowl
 fierily
