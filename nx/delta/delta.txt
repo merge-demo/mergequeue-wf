@@ -2110,7 +2110,6 @@ disinheritances
 despoilment
 decameron
 digraph
-decamethonium
 doughfeet
 diamagnetism
 decametric
@@ -11695,6 +11694,7 @@ discordous
 dotishness
 dialogged
 didest
+decamethonium
 demiditone
 dishexecontahedroid
 discost
