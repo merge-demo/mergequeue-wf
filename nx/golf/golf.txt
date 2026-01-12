@@ -7618,7 +7618,6 @@ gownsmen
 gangism
 grassweed
 gledge
-gloomful
 gaumy
 gyrus
 gheraoes
@@ -8906,6 +8905,7 @@ gambone
 grenadierial
 gratuitously
 goniotheca
+gloomful
 grandeur
 glaucochroite
 grizard
