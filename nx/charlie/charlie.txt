@@ -3757,6 +3757,7 @@ chetty
 caravans
 caravanserai
 chromoxylography
+chavender
 caravanserial
 caravels
 cosen
@@ -9390,7 +9391,6 @@ colds
 chavante
 chavantean
 chavel
-chavender
 confirmment
 compart
 chavicin
