@@ -2270,6 +2270,7 @@ amended
 agronomics
 aciculum
 awning
+akhlame
 aluminous
 adjectitious
 attempers
@@ -4221,7 +4222,6 @@ armorer
 alchornea
 aesculapius
 annoyful
-akhlame
 alumen
 abime
 abaka
