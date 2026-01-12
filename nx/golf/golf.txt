@@ -6818,7 +6818,6 @@ grecize
 goodwill
 gibel
 gravilea
-glycosyls
 gonochorismal
 geryonia
 gonk
@@ -7592,6 +7591,7 @@ gelatiniferous
 grounded
 generability
 grandnieces
+glycosyls
 gypsywort
 gleewoman
 gaddishness
