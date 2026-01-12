@@ -4085,7 +4085,6 @@ gesan
 gossipy
 gotched
 gopherroot
-gazy
 gynostegium
 gabendum
 genesic
@@ -5398,6 +5397,7 @@ geckoid
 gravitating
 gingal
 gammadion
+gazy
 gloaters
 greenbug
 gritrock
