@@ -4837,6 +4837,7 @@ carlist
 cavalierish
 concaving
 connotive
+cindery
 chem
 crosspost
 cressida
@@ -28429,7 +28430,6 @@ crankless
 centralists
 chiefling
 creams
-cindery
 creance
 chabot
 creancer
