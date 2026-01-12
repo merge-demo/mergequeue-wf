@@ -2505,7 +2505,6 @@ colage
 candidated
 candidates
 candidatures
-clepe
 candide
 churls
 candidiasis
@@ -16119,6 +16118,7 @@ composure
 calciums
 chicles
 clithridiate
+clepe
 chagoma
 chainon
 cryptographical
