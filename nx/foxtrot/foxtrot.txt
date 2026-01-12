@@ -7737,6 +7737,7 @@ forehooves
 forpit
 fissidentaceae
 foreween
+fullish
 froghopper
 flarfish
 falsified
@@ -10906,7 +10907,6 @@ forehinting
 freestone
 feist
 furore
-fullish
 foeman
 fulgurated
 fosie
