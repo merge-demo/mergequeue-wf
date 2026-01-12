@@ -3793,7 +3793,6 @@ ciconia
 chloroethylene
 carbazic
 carbazylic
-chlorpikrin
 cheerios
 civilist
 carbazole
@@ -16342,6 +16341,7 @@ clypeola
 clypeolar
 clypeus
 cyanomethaemoglobin
+chlorpikrin
 clipped
 clippers
 clippie
