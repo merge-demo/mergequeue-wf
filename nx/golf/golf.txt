@@ -1986,7 +1986,6 @@ gaskings
 gageite
 gonadotrope
 granville
-glyoxyl
 goosetongue
 glovelike
 glyconian
@@ -2595,6 +2594,7 @@ graywall
 guv
 gauchely
 gangliasthenia
+glyoxyl
 goosefish
 granodiorite
 giltheads
