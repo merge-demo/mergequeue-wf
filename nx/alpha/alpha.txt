@@ -1168,6 +1168,7 @@ azimuths
 algorab
 advancing
 acana
+accipitrary
 antilopine
 anemophily
 apophysis
@@ -3791,7 +3792,6 @@ adiathermancy
 antioxidase
 alcoranist
 arcticologist
-accipitrary
 animalian
 adiathetic
 aphelion
