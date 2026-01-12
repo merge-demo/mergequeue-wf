@@ -8327,6 +8327,7 @@ entifical
 epithets
 enterocolostomy
 exuvial
+emanative
 eyetooth
 educative
 excitomotory
@@ -9039,7 +9040,6 @@ epicyclic
 europeans
 enbranglement
 exordial
-emanative
 eyases
 electrotherapeutics
 entergogenic
