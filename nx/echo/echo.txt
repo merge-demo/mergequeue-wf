@@ -5784,7 +5784,6 @@ ebullioscope
 entrepreneur
 encrinal
 episode
-encloser
 effluvia
 environing
 elephant
@@ -10522,6 +10521,7 @@ evulge
 explosions
 entohyal
 endogastritis
+encloser
 extraplacental
 exochorion
 epilachnides
