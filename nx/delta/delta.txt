@@ -1169,6 +1169,7 @@ demoiselles
 datafile
 dunts
 dahabiah
+demulsifying
 doormat
 demibrassart
 devilhood
@@ -7193,7 +7194,6 @@ dicast
 dynamis
 demijohns
 deciphers
-demulsifying
 decadactylous
 detainal
 destructionist
