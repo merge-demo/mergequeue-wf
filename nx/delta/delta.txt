@@ -2495,7 +2495,6 @@ direct
 dirigent
 defoliant
 deckhand
-dovekies
 deckle
 dandily
 dulls
@@ -17065,6 +17064,7 @@ diphtheriaphor
 daggerproof
 disrespectfully
 dingwall
+dovekies
 devastative
 drierman
 decennials
