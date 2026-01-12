@@ -6748,7 +6748,6 @@ decastyle
 desilt
 disregular
 deerweeds
-dihedral
 depraving
 dodecatyl
 disally
@@ -7462,6 +7461,7 @@ discontinuity
 diosma
 dysenteric
 darkheartedness
+dihedral
 dovish
 dignosce
 discoverably
