@@ -7156,7 +7156,6 @@ copita
 curvidentate
 coquetoon
 cannikin
-centigrams
 cendre
 catamited
 clamation
@@ -31858,6 +31857,7 @@ cochliodont
 cransier
 cheers
 cuttage
+centigrams
 crowfooted
 cuttail
 cirrhosis
