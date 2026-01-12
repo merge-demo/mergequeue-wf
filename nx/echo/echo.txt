@@ -5085,7 +5085,6 @@ elatha
 endocyst
 epodic
 enucleate
-experted
 extraditions
 eclogites
 eardrums
@@ -7948,6 +7947,7 @@ expenselessness
 epineuneuria
 esthesioneurosis
 evolutionary
+experted
 epineurium
 echinacea
 extradicted
