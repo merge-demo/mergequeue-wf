@@ -2015,6 +2015,7 @@ gomorrah
 glideless
 gantleted
 gnaeus
+guerdonless
 gangwayman
 grithman
 gimpy
@@ -8633,7 +8634,6 @@ gonidioid
 gametically
 grandtotal
 genealogical
-guerdonless
 gestic
 ground
 geodiferous
