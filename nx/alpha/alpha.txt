@@ -2289,6 +2289,7 @@ azimech
 acidy
 acetamid
 acidiferous
+archfounder
 argil
 aneurin
 atloaxoid
@@ -17325,7 +17326,6 @@ anticapital
 armigeral
 acetylsalicylic
 antiskeptic
-archfounder
 alums
 animalcules
 anaesthetic
