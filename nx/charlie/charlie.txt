@@ -944,7 +944,6 @@ caky
 clientelage
 conformant
 consecration
-cols
 caking
 collagist
 cakravartin
@@ -25759,6 +25758,7 @@ corrigibly
 connivent
 corrigiola
 corrival
+cols
 corrivality
 craniologist
 corrivalry
