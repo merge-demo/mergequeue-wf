@@ -7410,7 +7410,6 @@ extraperiodic
 extracurricular
 exercise
 elohimic
-ecchondrotome
 ephestia
 enregistering
 emphatical
@@ -12338,6 +12337,7 @@ endower
 euorthoptera
 eclated
 enteromyiasis
+ecchondrotome
 epicleidium
 emerod
 earlier
