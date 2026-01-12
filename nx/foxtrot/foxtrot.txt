@@ -4929,6 +4929,7 @@ fireworkless
 fulgural
 flourescent
 fino
+facula
 furriers
 fourscore
 flummoxes
@@ -5199,7 +5200,6 @@ froom
 flatlands
 fiberized
 flavoprotein
-facula
 flywheels
 flatman
 filtering
