@@ -7461,7 +7461,6 @@ festiveness
 forbiddingly
 fewnes
 flatworms
-floatplane
 fattened
 finning
 frankfurter
@@ -9551,6 +9550,7 @@ forbreak
 floatman
 ferv
 florets
+floatplane
 fibdom
 fleshpots
 fiducinales
