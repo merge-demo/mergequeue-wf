@@ -245,6 +245,7 @@ eyesores
 earthwall
 entte
 exoticalness
+exclaiming
 executant
 edaphodont
 empetrous
@@ -8708,7 +8709,6 @@ equisignal
 erethitic
 erythrozyme
 epigaeous
-exclaiming
 eriophyllous
 esculapian
 emulsifies
