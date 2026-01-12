@@ -561,7 +561,6 @@ evocate
 earache
 electrophorus
 elaborated
-evelina
 eching
 echinidan
 expy
@@ -2012,6 +2011,7 @@ ecstatically
 exemplary
 ekasilicon
 elachistaceous
+evelina
 earthen
 etherialize
 erinite
