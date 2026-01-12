@@ -13303,7 +13303,6 @@ anisopod
 ataraxias
 ancient
 archworkmaster
-astricted
 actinoscopy
 anthesterol
 anisopoda
@@ -20825,6 +20824,7 @@ annapurna
 archdisturber
 avouter
 anker
+astricted
 adpao
 allurers
 arupa
