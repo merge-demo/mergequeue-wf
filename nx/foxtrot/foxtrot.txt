@@ -6781,7 +6781,6 @@ frigoric
 fuchsinophil
 featherbed
 foreweep
-fluorescent
 forspeaking
 fitnesses
 flamming
@@ -10269,6 +10268,7 @@ ferryage
 fencers
 famines
 fowlpox
+fluorescent
 frazing
 faros
 flaskful
