@@ -1589,7 +1589,6 @@ gismos
 gymnura
 gauntlet
 gulanganes
-galleria
 gunlock
 grangerised
 ganoidean
@@ -10157,6 +10156,7 @@ guffer
 greaselessness
 gastrohepatitis
 glottologic
+galleria
 gaby
 gallinaginous
 gynecocracy
