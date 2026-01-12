@@ -3992,7 +3992,6 @@ gatchwork
 gnarls
 gigge
 gelatinated
-gallegan
 gallopers
 graphomaniac
 gyro
@@ -10456,6 +10455,7 @@ ginning
 gobiidae
 guardship
 gittite
+gallegan
 gastronomically
 grimacing
 gladsomely
