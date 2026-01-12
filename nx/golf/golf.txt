@@ -2220,7 +2220,6 @@ generosities
 galactohemia
 gleit
 gallicization
-glossopathy
 grieced
 ginglyni
 ghazies
@@ -10702,6 +10701,7 @@ goodmanship
 gildings
 genipap
 girdlers
+glossopathy
 goldbrickers
 goaling
 gipsying
