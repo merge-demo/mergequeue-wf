@@ -4761,7 +4761,6 @@ feedwater
 fulgor
 frises
 factice
-fiot
 fricatrice
 flacianist
 forerank
@@ -5227,6 +5226,7 @@ folders
 flatfeet
 flatulencies
 fictions
+fiot
 flameflower
 flatulentness
 flangeway
