@@ -1805,7 +1805,6 @@ glycine
 gowkit
 gastrocolostomy
 geodesia
-gastrovascular
 gold
 gthite
 giddies
@@ -4753,6 +4752,7 @@ gumshoe
 glucosuria
 grudgingly
 genista
+gastrovascular
 galeae
 gowland
 gitanos
