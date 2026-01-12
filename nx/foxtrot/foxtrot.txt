@@ -524,7 +524,6 @@ fortress
 fireflies
 foin
 faker
-flaneries
 formicariidae
 flickered
 foretokens
@@ -6288,6 +6287,7 @@ fargoing
 filched
 forhow
 floccules
+flaneries
 focusable
 fascinative
 foambow
