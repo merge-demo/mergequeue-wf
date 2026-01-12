@@ -8204,7 +8204,6 @@ brunts
 bewinter
 beelzebub
 benzopinacone
-byrlaw
 blimpish
 beloeilite
 busybodied
@@ -14025,6 +14024,7 @@ bullflower
 brachygraphy
 bethels
 boardable
+byrlaw
 blitzes
 bibulosity
 becluster
