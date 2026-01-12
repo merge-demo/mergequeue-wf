@@ -487,7 +487,6 @@ friggle
 fondues
 fulminating
 fluctisonous
-frostroot
 faithlessness
 fringeless
 folkmoter
@@ -6921,6 +6920,7 @@ fidejussory
 footings
 fimbriae
 focus
+frostroot
 finalizes
 finance
 failing
