@@ -1665,7 +1665,6 @@ dipsey
 dothiorella
 deanthropomorphism
 diasynthesis
-deanthropomorphization
 deappetizing
 docksides
 dearborn
@@ -11310,6 +11309,7 @@ drainageway
 difluoride
 discarding
 discardment
+deanthropomorphization
 discards
 dentals
 discarnate
