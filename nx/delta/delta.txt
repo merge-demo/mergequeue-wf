@@ -5473,7 +5473,6 @@ dilucid
 dotardy
 divestitures
 dilatation
-desertness
 dogtrot
 dudishness
 doses
@@ -7598,6 +7597,7 @@ duole
 devastating
 devastation
 disabler
+desertness
 disquiparant
 devata
 decidua
