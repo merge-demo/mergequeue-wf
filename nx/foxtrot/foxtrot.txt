@@ -1037,7 +1037,6 @@ fumosity
 feverweed
 fenny
 federalese
-florilage
 fragmentalize
 flatboats
 finalists
@@ -7349,6 +7348,7 @@ fenestrate
 failance
 freesheet
 falsies
+florilage
 fallibilism
 figuring
 francolin
