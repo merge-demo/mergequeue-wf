@@ -8776,7 +8776,6 @@ commonplaces
 chapelmaster
 colonises
 chapelry
-combflower
 cinerins
 chapels
 chapelward
@@ -10988,6 +10987,7 @@ chiros
 chirospasm
 chirotherian
 casern
+combflower
 corrals
 comessation
 crocodilia
