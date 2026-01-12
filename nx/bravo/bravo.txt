@@ -5957,7 +5957,6 @@ ballistic
 bolstered
 blockishness
 benzaldehyde
-beltie
 boogerman
 bludged
 butylamine
@@ -13618,6 +13617,7 @@ botulin
 bumpiness
 biangulated
 bhutani
+beltie
 bilker
 bremeness
 bopster
