@@ -5524,6 +5524,7 @@ enfeebles
 embus
 eyestones
 eucarida
+enameler
 epigrammatised
 enhusk
 enfeeblish
@@ -8368,7 +8369,6 @@ epistolography
 extracorporeally
 epitrachelia
 estrum
-enameler
 exceedable
 excitator
 earplug
