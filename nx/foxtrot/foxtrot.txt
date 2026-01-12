@@ -2806,6 +2806,7 @@ fishhouse
 fingery
 floodlights
 fideicommiss
+flocculose
 forebush
 fieldsmen
 frogleg
@@ -11417,7 +11418,6 @@ filminess
 flushboard
 furnace
 feasor
-flocculose
 furniture
 flummoxing
 frustrable
