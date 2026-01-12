@@ -5551,7 +5551,6 @@ glucinum
 grummest
 gustier
 genear
-globalizing
 gisants
 groggeries
 gump
@@ -10441,6 +10440,7 @@ gyneolatry
 geologician
 guided
 glasshouses
+globalizing
 gardbrace
 grosbeaks
 gilia
