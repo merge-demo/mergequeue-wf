@@ -6433,7 +6433,6 @@ flang
 fullterm
 foisted
 francois
-florentium
 fluorboric
 frugiferousness
 fusula
@@ -10278,6 +10277,7 @@ frogeyed
 farewelling
 feltlike
 fissureless
+florentium
 flabelliform
 fibra
 filite
