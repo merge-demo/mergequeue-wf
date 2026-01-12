@@ -671,6 +671,7 @@ bactriticone
 badderlocks
 basidiomycetous
 batrachoid
+banagos
 benignancy
 brolga
 brilliantine
@@ -7601,7 +7602,6 @@ bewaste
 beweary
 besottedness
 brainworker
-banagos
 belabored
 beweeper
 beneficent
