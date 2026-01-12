@@ -4581,6 +4581,7 @@ afficionado
 advocated
 afterspeech
 albertype
+asaphid
 acanthological
 aq
 avicularian
@@ -19655,7 +19656,6 @@ assailed
 arion
 arrowless
 amidone
-asaphid
 arisaid
 atone
 arisard
