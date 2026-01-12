@@ -18619,7 +18619,6 @@ combusted
 clerkhood
 creticism
 commanding
-clypeole
 cockroach
 coin
 cephalopod
@@ -23747,6 +23746,7 @@ crimped
 cataphoretically
 canulate
 cherogril
+clypeole
 conglomerates
 contraplex
 contrapolarization
