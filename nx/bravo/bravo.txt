@@ -6278,7 +6278,6 @@ binnacles
 benshee
 benshi
 benson
-briefs
 brandsolder
 becowarding
 becassine
@@ -7665,6 +7664,7 @@ baric
 beriberi
 beeyard
 brog
+briefs
 bullocks
 borne
 butanones
