@@ -6186,7 +6186,6 @@ beneficialness
 baloskionaceae
 bloodthirsting
 brassiest
-bisporous
 bassorin
 bethflower
 benefit
@@ -8107,6 +8106,7 @@ banyai
 belleeks
 bacteriohemolysin
 brolly
+bisporous
 bicostate
 billows
 bicrenate
