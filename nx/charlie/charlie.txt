@@ -11224,7 +11224,6 @@ chlorenchyma
 calefaction
 coassistance
 chlorguanide
-chlorhexidine
 coemperor
 chlorhydric
 chloriamb
@@ -12849,6 +12848,7 @@ chrysotherapy
 chupatty
 crases
 countermanifesto
+chlorhexidine
 crithmene
 chuppah
 cornuate
