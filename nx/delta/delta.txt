@@ -4642,6 +4642,7 @@ dismantle
 draggiest
 demisuit
 dumminess
+decorum
 dithyrambos
 diphthongous
 dimissory
@@ -12856,7 +12857,6 @@ disman
 dismantles
 darksome
 dishevelment
-decorum
 dissyllabic
 dyarchic
 dirhem
