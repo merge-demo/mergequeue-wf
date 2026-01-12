@@ -5893,6 +5893,7 @@ forgrown
 fallers
 filariid
 floatage
+fleyed
 farmeries
 fayal
 feverously
@@ -10124,7 +10125,6 @@ faradonervous
 flannelled
 flagellates
 flamant
-fleyed
 foretaste
 flyball
 foamiest
