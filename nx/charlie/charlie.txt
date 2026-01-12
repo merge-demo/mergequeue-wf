@@ -16236,7 +16236,6 @@ clinger
 crankness
 crossbeak
 contravenes
-clingy
 clinginess
 cuit
 covings
@@ -30357,6 +30356,7 @@ cessant
 calmierer
 cosmozoan
 cowpokes
+clingy
 crusile
 capita
 crimmers
