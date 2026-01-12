@@ -225,7 +225,6 @@ bach
 bibliograph
 bdellid
 betonica
-bastinadoed
 bactrites
 bathyanesthesia
 bachelorette
@@ -16982,6 +16981,7 @@ bumbass
 beudanite
 baloch
 baaed
+bastinadoed
 bugginess
 bookmonger
 buginvillaea
