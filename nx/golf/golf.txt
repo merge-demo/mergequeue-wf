@@ -76,6 +76,7 @@ guidelines
 groupoid
 grutten
 glauber
+guric
 gears
 gourdlike
 gubernator
@@ -7156,7 +7157,6 @@ gypsylike
 grasscut
 guayaba
 greenfly
-guric
 gile
 gore
 gorebill
