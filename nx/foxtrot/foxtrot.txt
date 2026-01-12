@@ -7783,7 +7783,6 @@ forsaken
 fungaceous
 flamelike
 fetishism
-face
 fintadores
 flicky
 fumigants
@@ -8672,6 +8671,7 @@ futharks
 feet
 finestiller
 finites
+face
 forborn
 fytte
 formatter
