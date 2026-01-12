@@ -2083,7 +2083,6 @@ gawgaw
 goldenseal
 gillian
 governments
-graminological
 gawk
 gratingly
 goatpox
@@ -10833,6 +10832,7 @@ grayhead
 gyrofrequency
 groschen
 genethlialogical
+graminological
 gyrograph
 guttar
 guaiacum
