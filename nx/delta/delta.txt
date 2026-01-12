@@ -3719,6 +3719,7 @@ depot
 domitic
 delegated
 disprove
+deinosaur
 decimate
 dehonestation
 desponsate
@@ -8993,7 +8994,6 @@ dicotyles
 delaminated
 dextraural
 dicotylidae
-deinosaur
 drowsiness
 disowns
 dicotyls
