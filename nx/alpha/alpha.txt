@@ -48,7 +48,6 @@ astrakhan
 alcyone
 achira
 allusively
-arcella
 arcaded
 aerosiderolite
 arguitively
@@ -5422,6 +5421,7 @@ appetitive
 afterlife
 alepine
 absorbs
+arcella
 actinophone
 antiutilitarian
 aciliate
