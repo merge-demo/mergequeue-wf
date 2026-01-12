@@ -6650,6 +6650,7 @@ foamflower
 flammulation
 front
 floriculturally
+foreseize
 fettled
 fidgetation
 frankish
@@ -7968,7 +7969,6 @@ footslog
 foresees
 fonder
 frenzied
-foreseize
 flatteries
 festine
 fike
