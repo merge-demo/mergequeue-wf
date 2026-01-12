@@ -3190,7 +3190,6 @@ basenji
 bailing
 brazening
 bashment
-barcan
 basiarachnoiditis
 befanned
 bauld
@@ -13609,6 +13608,7 @@ biquarterly
 barhop
 bouffant
 bedframes
+barcan
 brontesque
 barristers
 bratina
