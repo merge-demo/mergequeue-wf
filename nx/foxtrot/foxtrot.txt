@@ -5861,7 +5861,6 @@ forebear
 fossiliferous
 flitterbat
 fumeroot
-flaughter
 fallage
 frousiest
 fastigium
@@ -10205,6 +10204,7 @@ frivolity
 freakier
 froughy
 fricandelle
+flaughter
 filopodium
 feasibility
 falchions
