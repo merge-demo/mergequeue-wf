@@ -607,6 +607,7 @@ disoccupation
 drapable
 debarration
 depolarizer
+dialectologies
 damnifies
 damningly
 daneweeds
@@ -18055,7 +18056,6 @@ demihearse
 desirability
 dubitation
 dormilona
-dialectologies
 dulness
 dysphemism
 diselder
