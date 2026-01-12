@@ -2895,6 +2895,7 @@ brushland
 briscola
 barraging
 battologist
+bowpot
 bailer
 braca
 battener
@@ -14125,7 +14126,6 @@ bedravel
 blessedly
 bl
 brachycrany
-bowpot
 bricktimber
 brachydactylia
 bakehouse
