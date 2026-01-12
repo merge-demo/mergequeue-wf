@@ -6113,7 +6113,6 @@ gnetales
 gude
 gastrogenous
 guffy
-geogen
 gravities
 gerocomy
 goodby
@@ -10641,6 +10640,7 @@ gunsmithing
 gallophile
 grossification
 grank
+geogen
 geronto
 gambette
 greenly
