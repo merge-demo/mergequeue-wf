@@ -5844,7 +5844,6 @@ dags
 dentaries
 dusters
 deprecable
-deprecating
 doorbrand
 darling
 diachoresis
@@ -9768,6 +9767,7 @@ dilemmatic
 diplococci
 drizzlingly
 disulfoxide
+deprecating
 dclass
 dilettanti
 decriminalizing
