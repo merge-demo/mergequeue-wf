@@ -9259,7 +9259,6 @@ beggared
 backhauling
 bourbonesque
 bipedality
-bipeds
 bipeltate
 bipennate
 bedlamize
@@ -11767,6 +11766,7 @@ bobbish
 bais
 bobcats
 binmen
+bipeds
 bakes
 buddles
 beboss
