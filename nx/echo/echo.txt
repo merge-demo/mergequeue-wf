@@ -5758,6 +5758,7 @@ eucharistical
 englobe
 empressements
 epigraphy
+elastase
 expressions
 enneahedral
 envelopment
@@ -8277,7 +8278,6 @@ equivalve
 ennobles
 epithalline
 edgiest
-elastase
 einstein
 earthwards
 electropuncturation
