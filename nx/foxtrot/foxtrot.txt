@@ -6047,6 +6047,7 @@ fructiculose
 floorcloths
 finalize
 fumid
+fibrillate
 fluidizing
 foreplays
 farrowed
@@ -8402,7 +8403,6 @@ federalized
 fiddlerfishes
 feoffment
 firmans
-fibrillate
 floppy
 finked
 frontlash
