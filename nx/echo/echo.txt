@@ -8688,7 +8688,6 @@ externalise
 extravaganzas
 eluate
 escopet
-eked
 equisetaceous
 epicondylar
 endothelia
@@ -13636,6 +13635,7 @@ ears
 ethnomusicologically
 electrosmosis
 exopterygotic
+eked
 evited
 erme
 extends
