@@ -7510,7 +7510,6 @@ electronics
 expositors
 eastward
 epicedium
-entropies
 eburine
 exogastrically
 enddamage
@@ -9027,6 +9026,7 @@ emmies
 explanate
 epizooty
 equalize
+entropies
 emptier
 erythrocytolysis
 eelier
