@@ -594,7 +594,6 @@ bezzle
 bromates
 bacteremic
 behearse
-bacterid
 birdcages
 baraka
 barracked
@@ -6427,6 +6426,7 @@ benzopyrylium
 backcourt
 breastweed
 bluestem
+bacterid
 benzoquinoxaline
 balau
 benzosulfimide
