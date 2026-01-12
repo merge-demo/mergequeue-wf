@@ -10115,7 +10115,6 @@ chet
 cheth
 communalized
 chetopod
-ceonocyte
 chlorohydrin
 consanguinities
 chetvert
@@ -30842,6 +30841,7 @@ covalence
 culming
 culms
 coolidge
+ceonocyte
 corneocalcareous
 cranioclasm
 copaline
