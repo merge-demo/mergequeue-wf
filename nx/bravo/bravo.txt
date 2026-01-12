@@ -1420,6 +1420,7 @@ balebos
 baled
 baleen
 badmash
+berret
 bobance
 battable
 bottommost
@@ -6793,7 +6794,6 @@ badian
 bookery
 bersagliere
 brittles
-berret
 bonnocks
 bin
 berserks
