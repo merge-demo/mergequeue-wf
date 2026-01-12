@@ -795,7 +795,6 @@ ecrase
 enclitic
 escort
 eker
-extense
 eremophilous
 experimental
 electrocardiograms
@@ -11907,6 +11906,7 @@ euploeinae
 ectoderms
 emotionalist
 expertism
+extense
 enragement
 earthenware
 expurgation
