@@ -2214,7 +2214,6 @@ bararite
 breakerman
 barathea
 bristol
-backus
 brasqued
 bibbled
 bemaddens
@@ -7023,6 +7022,7 @@ bronzite
 baalist
 bespouses
 burdon
+backus
 behaviorism
 bigeminated
 berylate
