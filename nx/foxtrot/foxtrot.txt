@@ -5735,6 +5735,7 @@ formly
 flancards
 fuseplug
 friended
+fantasias
 fouett
 fuzz
 firking
@@ -9160,7 +9161,6 @@ fortresses
 firemen
 fribblish
 followings
-fantasias
 fortifies
 fielded
 fleeceflower
