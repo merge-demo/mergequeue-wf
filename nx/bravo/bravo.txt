@@ -15589,6 +15589,7 @@ bestreak
 buzzerphone
 bionts
 brinksmanship
+berginize
 batted
 beardlike
 berkeley
@@ -18402,7 +18403,6 @@ buttes
 bespring
 benthonic
 bvt
-berginize
 bowfins
 beltlines
 bagwash
