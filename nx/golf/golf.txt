@@ -4422,6 +4422,7 @@ grandsonship
 gloss
 gemmated
 gameless
+gildable
 grides
 gumdigger
 ganggang
@@ -10583,7 +10584,6 @@ grasset
 grecoue
 gurmukhi
 gneissitic
-gildable
 gatewoman
 grenadiership
 gpad
