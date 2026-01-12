@@ -8235,7 +8235,6 @@ figury
 fluoroscoping
 foldy
 fishways
-faded
 frijolito
 friskin
 fractur
@@ -9927,6 +9926,7 @@ forgiven
 furoid
 fastuously
 forgettingly
+faded
 flintstone
 fewnesses
 freeness
