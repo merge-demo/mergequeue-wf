@@ -7535,6 +7535,7 @@ glycolytic
 gortonian
 glaucophanize
 gangs
+garamond
 glitzy
 glabellous
 gryllus
@@ -8315,7 +8316,6 @@ gospel
 grippingness
 giardiasis
 gre
-garamond
 gleave
 gaseosity
 glochidian
