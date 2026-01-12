@@ -871,6 +871,7 @@ gamp
 geegaw
 gadis
 glove
+gunmaking
 garigue
 gers
 glossarize
@@ -10571,7 +10572,6 @@ guillemot
 gambetta
 goustie
 guanays
-gunmaking
 gaun
 gerbo
 gesneraceae
