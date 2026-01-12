@@ -4791,7 +4791,6 @@ barbarize
 blennies
 burking
 barrener
-biotelemetry
 bracker
 brachylogy
 bedriveling
@@ -8913,6 +8912,7 @@ bedchamber
 binotonous
 bedeck
 bazaar
+biotelemetry
 brachystaphylic
 bleeder
 biostratigraphy
