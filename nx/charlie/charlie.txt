@@ -3209,7 +3209,6 @@ craked
 citruses
 capewise
 capework
-capful
 caphar
 clistogastra
 cotillon
@@ -11788,6 +11787,7 @@ cucurbitaceae
 cercelee
 chondromatous
 chondromyces
+capful
 cissoids
 chukkas
 chondromyxosarcoma
