@@ -4764,7 +4764,6 @@ entrepreneurs
 empetrum
 epichondrotic
 euthermic
-enleagued
 evanishing
 embarrass
 errantry
@@ -10732,6 +10731,7 @@ emacerate
 emblazer
 earthboard
 ecologic
+enleagued
 euhyostylic
 eukairite
 exocentric
