@@ -2538,7 +2538,6 @@ ferricyanide
 ferrihydrocyanic
 fervency
 feedsman
-fanti
 friesic
 fimbriatum
 filicidal
@@ -9975,6 +9974,7 @@ forefence
 feeze
 fanzines
 fittable
+fanti
 friezer
 fulgurantly
 fiercely
