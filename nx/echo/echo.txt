@@ -340,7 +340,6 @@ etchimin
 elderly
 eightsome
 exploitation
-echos
 exhumation
 epilepsies
 encamps
@@ -7729,6 +7728,7 @@ ensilages
 encephalogram
 exotisms
 easternmost
+echos
 embolite
 expedientially
 ergatandromorphic
