@@ -10344,6 +10344,7 @@ dioptric
 dioptrical
 duhr
 diorama
+decimator
 daroo
 delinquently
 diophantine
@@ -12347,7 +12348,6 @@ dyschiria
 disguisedly
 dyestuffs
 dulcimer
-decimator
 demagnetization
 draughtily
 disenabling
