@@ -12686,6 +12686,7 @@ bulged
 brasero
 basinlike
 bellware
+basecoat
 bonxie
 boucher
 blockheadish
@@ -17133,7 +17134,6 @@ bulletheadedness
 bayard
 bromian
 branchiobdella
-basecoat
 bulletlike
 burghmote
 breadseller
