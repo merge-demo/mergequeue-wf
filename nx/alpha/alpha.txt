@@ -16682,7 +16682,6 @@ agre
 assails
 anteroom
 alcaides
-aphacic
 accompaniment
 allowedly
 afterswell
@@ -20780,6 +20779,7 @@ aquarium
 ableness
 artistries
 artists
+aphacic
 afshar
 athyreosis
 aspiculate
