@@ -7240,6 +7240,7 @@ geotectonics
 griefs
 geocratic
 gape
+gauntest
 gorgosaurus
 gavottes
 galenism
@@ -10107,7 +10108,6 @@ glore
 gudgeon
 griffes
 groupoids
-gauntest
 graecize
 gainings
 gramophonically
