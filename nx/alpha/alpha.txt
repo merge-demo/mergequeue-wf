@@ -5320,7 +5320,6 @@ anterosuperior
 acid
 affrightment
 affronted
-affrontedness
 avine
 anidiomatic
 adenose
@@ -16444,6 +16443,7 @@ aspring
 assiduities
 alfirk
 atropic
+affrontedness
 antrustion
 ants
 antsiest
