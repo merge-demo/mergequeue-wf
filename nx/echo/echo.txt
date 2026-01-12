@@ -6259,6 +6259,7 @@ estop
 eudalene
 executors
 enomotarch
+exotropic
 ethanes
 excalfaction
 enrich
@@ -11366,7 +11367,6 @@ erysiphaceae
 exigency
 ethnohistory
 effeir
-exotropic
 electrodesiccation
 evenforth
 edificator
