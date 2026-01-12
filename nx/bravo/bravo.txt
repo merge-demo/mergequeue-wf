@@ -2917,7 +2917,6 @@ blazonries
 blotchier
 bracero
 bacchanalianism
-barramundies
 broadcasts
 broadthroat
 biverbal
@@ -7755,6 +7754,7 @@ bridging
 bhagavat
 bivouacking
 bookrack
+barramundies
 bigamized
 bugre
 boskiest
