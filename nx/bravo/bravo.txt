@@ -672,6 +672,7 @@ brasseries
 bactriticone
 badderlocks
 basidiomycetous
+benignancy
 brolga
 brilliantine
 brimmimg
@@ -6880,7 +6881,6 @@ bruchid
 benignity
 blackmailed
 bacteriotoxic
-benignancy
 benkulen
 bigener
 ber
