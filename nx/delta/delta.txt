@@ -8162,7 +8162,6 @@ deprecate
 diacipiperazine
 disload
 druidism
-didodecahedral
 digitalism
 dashnaktzutiun
 desiccate
@@ -16873,6 +16872,7 @@ dodding
 dipladenia
 discriminations
 decilitre
+didodecahedral
 doubletone
 distortable
 descrier
