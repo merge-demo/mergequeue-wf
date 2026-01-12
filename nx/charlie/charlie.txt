@@ -7868,7 +7868,6 @@ coronatorial
 cervicapra
 cyanided
 caenogenesis
-cichloid
 cerviciplex
 cervicispinal
 cervicoauricular
@@ -15882,6 +15881,7 @@ cleech
 cuadra
 circumscrive
 closures
+cichloid
 circumclude
 carbonisation
 cachaca
