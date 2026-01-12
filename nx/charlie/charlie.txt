@@ -11833,6 +11833,7 @@ choora
 contents
 cacomixl
 concausal
+clistocarp
 confirmedness
 chatelet
 catamountain
@@ -25331,7 +25332,6 @@ coidentity
 cornbole
 cornbottle
 contrade
-clistocarp
 commemorating
 causeways
 corncakes
