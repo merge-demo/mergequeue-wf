@@ -5211,6 +5211,7 @@ geognosist
 gymnotidae
 gregatim
 groinery
+gatsby
 gleamily
 gabble
 gharial
@@ -8955,7 +8956,6 @@ galeopithecus
 gagger
 grieko
 glossopalatinus
-gatsby
 gyration
 gurgulation
 glorioles
