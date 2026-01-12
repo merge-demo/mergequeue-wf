@@ -10381,7 +10381,6 @@ dyewood
 debutantes
 debrominate
 dioxan
-dfault
 discanter
 deejays
 dioxane
@@ -17005,6 +17004,7 @@ desray
 dialectology
 depressurize
 disfame
+dfault
 dumbledore
 denominatively
 dextrine
