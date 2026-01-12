@@ -1075,6 +1075,7 @@ edgeboned
 eringos
 etypic
 exsheath
+eigne
 edged
 eidolon
 edgeshot
@@ -7427,7 +7428,6 @@ escobadura
 ephemeridae
 embed
 ectype
-eigne
 extrafocal
 electronographic
 eyess
