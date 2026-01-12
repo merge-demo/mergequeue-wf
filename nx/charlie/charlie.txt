@@ -5952,6 +5952,7 @@ carrotier
 colporrhea
 cates
 catesbaea
+carnivorous
 catfaced
 constructable
 compunctiously
@@ -26160,7 +26161,6 @@ castagnole
 centurions
 cowthwort
 cosmopolitanism
-carnivorous
 cosmopolitanization
 cosmopolitanized
 cosmopolitans
