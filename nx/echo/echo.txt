@@ -5293,7 +5293,6 @@ eosinophil
 enureses
 epicoracoidal
 eustachium
-externes
 ernest
 estocs
 ergodicity
@@ -12213,6 +12212,7 @@ eskuara
 ephemerides
 emmental
 eternalization
+externes
 endopterygote
 equipment
 epanalepsis
