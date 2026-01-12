@@ -10306,7 +10306,6 @@ amerind
 allantoic
 axe
 androgen
-anatomisable
 aviararies
 astelic
 amerinds
@@ -15935,6 +15934,7 @@ articulationist
 ascensor
 andantes
 antipooling
+anatomisable
 antiquarianize
 anachronism
 antiquaries
