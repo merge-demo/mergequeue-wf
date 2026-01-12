@@ -1028,7 +1028,6 @@ fluorescein
 fumosity
 feverweed
 fenny
-federalese
 fragmentalize
 flatboats
 finalists
@@ -2737,6 +2736,7 @@ friendlily
 festally
 festellae
 ficary
+federalese
 festered
 faliscan
 frizer
