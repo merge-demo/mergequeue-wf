@@ -1594,7 +1594,6 @@ dunkirker
 deafly
 deafmuteness
 disembrace
-docs
 deairing
 discernableness
 deairs
@@ -8020,6 +8019,7 @@ distinctional
 dhangar
 demonetising
 dhanuk
+docs
 druxey
 dharma
 dharmas
