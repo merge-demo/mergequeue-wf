@@ -4688,7 +4688,6 @@ eremiteship
 enchoric
 extraterritorials
 encyclopedias
-ekoi
 essoign
 exuberance
 entablement
@@ -5509,6 +5508,7 @@ epimerized
 excitate
 erectility
 equiformity
+ekoi
 enzymosis
 enervation
 ethnically
