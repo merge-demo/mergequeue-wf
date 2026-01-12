@@ -5954,6 +5954,7 @@ frankliniana
 fisherfolk
 fdname
 flakelet
+frenchiness
 flockings
 fudged
 fulsamic
@@ -9230,7 +9231,6 @@ fenagles
 fusses
 fracturing
 filicide
-frenchiness
 foolify
 floodwall
 formicaria
