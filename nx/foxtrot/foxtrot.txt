@@ -2,7 +2,6 @@ fodda
 fillmass
 firedrake
 first
-fallacia
 fimbrial
 forechase
 fabaceae
@@ -700,6 +699,7 @@ fanweed
 fondants
 fanatico
 fights
+fallacia
 forzandos
 firths
 forfeiture
