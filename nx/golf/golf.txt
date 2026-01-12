@@ -2771,7 +2771,6 @@ gristmiller
 garn
 guillotine
 gader
-gunboats
 gaedelian
 grooms
 genoise
@@ -10068,6 +10067,7 @@ gammation
 gargoyles
 greasing
 garment
+gunboats
 granitoidal
 guerdoner
 grandnephew
