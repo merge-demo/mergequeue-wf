@@ -3360,7 +3360,6 @@ allosyndesis
 audited
 argestes
 analogs
-antihierarchic
 arborescence
 adamite
 anselmian
@@ -9617,6 +9616,7 @@ apalit
 alvearium
 alveolariform
 antitetanic
+antihierarchic
 agriological
 alveolation
 alveole
