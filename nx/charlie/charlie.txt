@@ -9145,7 +9145,6 @@ charters
 cryptograms
 cindered
 chartist
-cingle
 chartless
 caricatured
 chartography
@@ -22962,6 +22961,7 @@ cavaedia
 counterretreat
 comforting
 chromosomic
+cingle
 consigned
 consignee
 consignify
