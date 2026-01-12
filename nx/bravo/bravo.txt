@@ -4607,7 +4607,6 @@ bedbugs
 boden
 bedtick
 bailliage
-bedchair
 butterine
 bedchairs
 boxthorns
@@ -10979,6 +10978,7 @@ buhlwork
 barth
 bourrees
 blinkard
+bedchair
 batara
 blesbuck
 bedlamism
