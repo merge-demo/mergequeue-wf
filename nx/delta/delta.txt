@@ -1382,7 +1382,6 @@ dispel
 downdale
 dismain
 drubbly
-demonomanie
 dorsiflexor
 digitals
 delis
@@ -6579,6 +6578,7 @@ discubation
 disfiguring
 dearie
 ditched
+demonomanie
 desecrations
 devotary
 dubious
