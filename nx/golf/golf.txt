@@ -2278,6 +2278,7 @@ genecologic
 granulocytopoiesis
 geitonogamy
 gliadin
+gneissose
 geomoroi
 grange
 glazer
@@ -9038,7 +9039,6 @@ gwantus
 gritstone
 grasswidow
 ghent
-gneissose
 geog
 gobletful
 gravenstein
