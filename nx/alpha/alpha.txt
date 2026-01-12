@@ -5843,7 +5843,6 @@ aggenerate
 agger
 aleukaemic
 autostoper
-antidicomarianite
 acrogenous
 agglomerate
 abraid
@@ -16958,6 +16957,7 @@ amphorette
 aplanatic
 aplanatism
 ately
+antidicomarianite
 abortus
 arteriotome
 antifermentative
