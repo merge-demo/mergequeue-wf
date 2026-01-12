@@ -17961,6 +17961,7 @@ coeff
 coefficients
 canoe
 coelacanth
+clan
 coelacanthidae
 coelacanthous
 commando
@@ -19039,7 +19040,6 @@ collegiateness
 czarinas
 carrel
 concorporating
-clan
 cotylosauria
 craniometric
 combattant
