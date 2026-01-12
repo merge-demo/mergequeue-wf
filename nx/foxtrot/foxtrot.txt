@@ -2408,7 +2408,6 @@ fobbed
 festivities
 fulgurous
 freemasons
-fullom
 frizzle
 fingered
 farandola
@@ -6572,6 +6571,7 @@ fip
 failsoft
 frotted
 forspread
+fullom
 foldskirt
 frakturs
 fraxinus
