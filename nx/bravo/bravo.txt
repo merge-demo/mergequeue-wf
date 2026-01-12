@@ -11575,6 +11575,7 @@ birdman
 bichrome
 boca
 bemurmurs
+bandaid
 blunged
 bourrasque
 blunger
@@ -14480,7 +14481,6 @@ bemocked
 bisischiadic
 brainpan
 brainpans
-bandaid
 bisley
 bloodroots
 bienvenue
