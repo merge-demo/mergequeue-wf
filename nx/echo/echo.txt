@@ -3977,6 +3977,7 @@ elevator
 emotivity
 exorability
 epitases
+emendicate
 empaistic
 exilarch
 eminency
@@ -5311,7 +5312,6 @@ endoskeletons
 endosmic
 evaders
 embaphium
-emendicate
 endosmoses
 excepted
 explicit
