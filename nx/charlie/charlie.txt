@@ -14336,7 +14336,6 @@ circumrotatory
 calochortus
 cask
 connectivity
-circumscribable
 condescend
 collapsed
 circumsession
@@ -14661,6 +14660,7 @@ cystophora
 calumet
 cystophore
 cistophorus
+circumscribable
 coadjustment
 cystophotography
 causeuses

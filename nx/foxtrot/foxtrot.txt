@@ -1918,6 +1918,7 @@ frogger
 furling
 fangot
 froze
+fungible
 factored
 finagling
 funds
@@ -3661,7 +3662,6 @@ fuzzing
 friskers
 fertilised
 finedrawing
-fungible
 febronian
 fanaticised
 federalize
