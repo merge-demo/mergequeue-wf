@@ -1689,7 +1689,6 @@ gamed
 ganancias
 gommier
 grusian
-galvanolysis
 garlanded
 gibson
 gros
@@ -2347,6 +2346,7 @@ galopin
 graylag
 gol
 garlandage
+galvanolysis
 gelated
 glost
 gymnics
