@@ -2708,7 +2708,6 @@ cippi
 cankereat
 cankered
 codders
-cephalosporium
 cording
 cubitopalmar
 catostomus
@@ -16651,6 +16650,7 @@ clops
 cantref
 coracopectoral
 cloque
+cephalosporium
 caedmonian
 cleanhandedness
 cloques
