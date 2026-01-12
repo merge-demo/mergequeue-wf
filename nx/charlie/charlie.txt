@@ -4759,6 +4759,7 @@ carpeting
 carpetlayer
 carpetmaking
 clubability
+cahuy
 captivation
 carpets
 chant
@@ -26483,7 +26484,6 @@ coopt
 cottager
 cottagers
 cottars
-cahuy
 cottas
 cotte
 cotted
