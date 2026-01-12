@@ -8811,7 +8811,6 @@ antireform
 arbusterin
 archduchesses
 algorismic
-allodia
 allodial
 alicula
 anteroflexion
@@ -9979,6 +9978,7 @@ awakes
 appulsive
 axmen
 antiformant
+allodia
 amblycephalus
 amblydactyla
 asymptomatically
