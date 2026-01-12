@@ -3583,6 +3583,7 @@ echelons
 embarras
 eben
 exhibit
+episcopes
 eloquentness
 escorted
 epigonichthyidae
@@ -9398,7 +9399,6 @@ enstool
 engerminate
 echeneid
 embodied
-episcopes
 elaphomyces
 esophagorrhagia
 escapist
