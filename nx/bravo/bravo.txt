@@ -3244,6 +3244,7 @@ bloodwit
 begunk
 beautifying
 beresite
+bael
 bote
 blottesquely
 babbling
@@ -10994,7 +10995,6 @@ barretors
 blowhards
 ballatoon
 blinkers
-bael
 bellhop
 batement
 bouvardia
