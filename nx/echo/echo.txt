@@ -3861,6 +3861,7 @@ escapology
 echinostomiasis
 espriella
 enring
+enthelminthic
 ecthymata
 emboweler
 estamene
@@ -6736,7 +6737,6 @@ eurytherm
 epistrophy
 etherate
 edaphic
-enthelminthic
 effume
 ectosomal
 extratarsal
