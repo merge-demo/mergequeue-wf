@@ -3497,6 +3497,7 @@ blotlessness
 biennium
 batamote
 batarde
+brownness
 bullaces
 batatas
 battleground
@@ -16310,7 +16311,6 @@ bedighted
 bekissed
 bilithon
 bisulcated
-brownness
 bandboxy
 brownnose
 bereavements
