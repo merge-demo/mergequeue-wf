@@ -315,7 +315,6 @@ greekism
 gamogenetically
 gesneria
 garlic
-gastrea
 globeholder
 gynophore
 greenkeeping
@@ -3157,6 +3156,7 @@ graduators
 germinative
 guise
 grecing
+gastrea
 geopolitical
 gayer
 grangers
