@@ -1058,7 +1058,6 @@ gooranut
 galvanometry
 ganglioma
 gasteropod
-gangliomas
 ganglionate
 ganglionated
 gerres
@@ -7449,6 +7448,7 @@ gruffiest
 gummer
 gonococcic
 googly
+gangliomas
 geest
 gadids
 gaditan
