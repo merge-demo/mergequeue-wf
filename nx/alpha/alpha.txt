@@ -3742,7 +3742,6 @@ archivolt
 adhesion
 adhesive
 architraved
-ananke
 arteriosclerotic
 adhesiveness
 archaizer
@@ -24246,6 +24245,7 @@ automechanical
 almoner
 actinically
 alluvion
+ananke
 automechanism
 acediamine
 ambo
