@@ -1616,7 +1616,6 @@ fretize
 fellmongery
 fawners
 floury
-facet
 farandole
 formicoidea
 foliot
@@ -3306,6 +3305,7 @@ foreheaded
 fond
 fulgide
 flabbergastation
+facet
 flexility
 fracted
 forsaking
