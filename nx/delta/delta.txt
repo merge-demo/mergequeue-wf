@@ -1248,7 +1248,6 @@ dusted
 diazoic
 denari
 demitasses
-datives
 disturbances
 dossil
 dermoptera
@@ -5310,6 +5309,7 @@ demurrage
 displosion
 despotize
 diatomacean
+datives
 decimalized
 decemfid
 demibombard
