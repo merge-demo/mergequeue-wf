@@ -4533,7 +4533,6 @@ flagging
 flintlocks
 favissa
 feer
-filices
 fleecers
 forheed
 foreigner
@@ -5154,6 +5153,7 @@ falasha
 forebespeak
 fractionise
 funking
+filices
 forbidding
 forthy
 fireweed
