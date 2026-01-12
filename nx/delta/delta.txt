@@ -2740,7 +2740,6 @@ decorator
 deliberated
 decrypts
 dissembling
-decore
 dewcup
 daijo
 decorist
@@ -17499,6 +17498,7 @@ drudgism
 dispope
 docket
 dicasts
+decore
 drugeteria
 deliverability
 druggets
