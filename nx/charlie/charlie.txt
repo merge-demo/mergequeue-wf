@@ -6024,7 +6024,6 @@ cathedratic
 cathedraticum
 cathern
 coverlets
-catheterisation
 cattail
 clienteles
 coiffes
@@ -26151,6 +26150,7 @@ cercopidae
 cosmonautical
 countdowns
 cosmonautically
+catheterisation
 cervelat
 cosmonauts
 cosmoplastic
