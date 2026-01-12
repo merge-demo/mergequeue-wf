@@ -2285,6 +2285,7 @@ grange
 glazer
 gynarchy
 gullage
+ginglmi
 gneisses
 give
 guitguit
@@ -6269,7 +6270,6 @@ guestchamber
 guttural
 ghostiest
 galidia
-ginglmi
 gconv
 gentle
 gulpin
