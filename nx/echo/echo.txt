@@ -1476,7 +1476,6 @@ ebrious
 entodermal
 epipodialia
 erythrocytolytic
-ethnicon
 exaggeratory
 epistolize
 execratory
@@ -4317,6 +4316,7 @@ enlay
 epicenes
 escarpments
 ectogenous
+ethnicon
 engs
 enhydra
 excerpts
