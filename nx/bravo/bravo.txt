@@ -16106,7 +16106,6 @@ blepharospath
 babesiosis
 broaden
 brontology
-bollards
 bearpaw
 burgessdom
 brontosauruses
@@ -17632,6 +17631,7 @@ bulldozes
 bolshy
 backster
 belduque
+bollards
 barricadoing
 burglarproofs
 bollocks
