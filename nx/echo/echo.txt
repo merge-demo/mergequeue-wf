@@ -11762,7 +11762,6 @@ ephraim
 ephydrid
 euplocomi
 engoue
-excarnation
 erysipelous
 epanadiplosis
 elusory
@@ -12781,6 +12780,7 @@ exortion
 extols
 exosmose
 exosmotic
+excarnation
 explicative
 edaphosaurid
 ensembles
