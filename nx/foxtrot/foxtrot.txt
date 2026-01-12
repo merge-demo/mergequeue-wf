@@ -5958,7 +5958,6 @@ frenchiness
 flockings
 fudged
 fulsamic
-freeing
 foreplanting
 folgerite
 fencepost
@@ -6186,6 +6185,7 @@ frowardness
 faraway
 fuselage
 faciata
+freeing
 flourish
 fermion
 fjorgyn
