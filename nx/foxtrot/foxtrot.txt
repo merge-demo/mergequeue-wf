@@ -5423,7 +5423,6 @@ festoonery
 ferulaic
 filmstrip
 faconde
-floccillation
 ferrocyanide
 faverel
 fleckering
@@ -7445,6 +7444,7 @@ fantasist
 flyness
 findy
 forbidals
+floccillation
 fasted
 foobar
 forbiddenly
