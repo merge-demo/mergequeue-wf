@@ -3178,7 +3178,6 @@ elodes
 eventognathous
 epiphytology
 elogy
-evansite
 exhorting
 engendrure
 elogium
@@ -5308,6 +5307,7 @@ endosclerite
 extrahepatic
 endoscope
 equivocalities
+evansite
 enantiopathy
 eradicators
 egeran
