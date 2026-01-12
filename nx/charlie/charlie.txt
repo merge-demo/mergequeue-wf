@@ -6364,7 +6364,6 @@ coheaded
 cumberlandite
 cestos
 cunit
-cephala
 computerizes
 cetiosauria
 clarinda
@@ -31246,6 +31245,7 @@ coenospecific
 curarines
 crossbanded
 curaris
+cephala
 centi
 curarization
 chattily
