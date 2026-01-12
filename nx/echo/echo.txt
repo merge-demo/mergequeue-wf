@@ -3187,6 +3187,7 @@ eloigned
 eleometer
 euphonetic
 emissive
+encompassed
 empanelled
 endoscopy
 earthsmoke
@@ -7043,7 +7044,6 @@ evangely
 environment
 epinikian
 enzymolytic
-encompassed
 enumerability
 entry
 epris
