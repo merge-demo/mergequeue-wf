@@ -9199,7 +9199,6 @@ chasmogamous
 chasmophyte
 commandeering
 callable
-chirruped
 constipating
 chasse
 cauliculus
@@ -17402,6 +17401,7 @@ coastguardman
 cheapskates
 coastguardsman
 coastguardsmen
+chirruped
 cacheted
 cruder
 crayfishes
