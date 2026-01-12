@@ -6244,6 +6244,7 @@ fathering
 flirted
 funnyman
 factoress
+facia
 fluohydric
 furnacemen
 flowerwork
@@ -6980,7 +6981,6 @@ formeret
 filibusterous
 freeway
 foll
-facia
 fillipeen
 fedarie
 fungoidal
