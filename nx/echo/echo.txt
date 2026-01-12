@@ -3982,7 +3982,6 @@ eminency
 embroglio
 empale
 empalers
-eyepit
 empall
 excurvation
 empanelling
@@ -11577,6 +11576,7 @@ equipartisan
 evoking
 emblemed
 empetraceous
+eyepit
 evolute
 embrute
 enlighten
