@@ -10395,7 +10395,6 @@ amidation
 aliofar
 amidide
 acoelous
-alienor
 adscript
 amidins
 arret
@@ -12460,6 +12459,7 @@ anemoscope
 aurorian
 automorphism
 axolysis
+alienor
 abhors
 anticonformities
 attask
