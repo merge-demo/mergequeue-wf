@@ -1547,7 +1547,6 @@ bulbiform
 bdl
 bufferrer
 bouton
-backsword
 ballastic
 bristles
 ballata
@@ -18191,6 +18190,7 @@ bingee
 bellwind
 braggadocianism
 besprinkler
+backsword
 buttonlike
 beltway
 bibliokleptomaniac
