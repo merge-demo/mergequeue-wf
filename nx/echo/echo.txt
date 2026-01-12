@@ -4603,7 +4603,6 @@ enigmaticalness
 emperize
 enfettered
 encheason
-enchequer
 euphemism
 easiness
 ethnolinguistics
@@ -5231,6 +5230,7 @@ edginesses
 edificative
 eyrer
 ecchymotic
+enchequer
 euchroic
 exsected
 enantiomeride
