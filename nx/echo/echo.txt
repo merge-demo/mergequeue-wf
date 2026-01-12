@@ -5542,7 +5542,6 @@ exotism
 etherlike
 enfeoffing
 episcopant
-exestuate
 erudit
 exhaustedly
 extendibility
@@ -5564,6 +5563,7 @@ eirenicon
 extraovular
 enfilades
 eerinesses
+exestuate
 enucleator
 erroneousness
 essentiality
