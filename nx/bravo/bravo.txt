@@ -6696,7 +6696,6 @@ blowsily
 barbadoes
 bepimple
 berkeleianism
-berkelium
 berkovets
 berkovtsi
 bedull
@@ -10693,6 +10692,7 @@ blearyeyedness
 boleros
 bevel
 blindly
+berkelium
 bubblers
 brotulid
 begarnish
