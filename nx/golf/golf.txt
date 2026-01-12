@@ -8393,7 +8393,6 @@ gandermooner
 grins
 gteau
 glittery
-grantha
 gibblegable
 gulled
 gripy
@@ -8646,6 +8645,7 @@ guidwilly
 gotos
 goldanged
 gimbaling
+grantha
 grauwacke
 gap
 gemmeous
