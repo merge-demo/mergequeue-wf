@@ -13560,6 +13560,7 @@ disseisee
 dortiship
 donorship
 droyl
+doubloon
 defterdar
 disaccharose
 dungeoner
@@ -17176,7 +17177,6 @@ disgustingness
 decumbence
 disorganic
 demitasse
-doubloon
 driveled
 driveler
 dissentiency
