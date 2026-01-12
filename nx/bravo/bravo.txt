@@ -9076,6 +9076,7 @@ byp
 bordar
 biomechanical
 bondieuserie
+badgeman
 bashing
 braggers
 baginda
@@ -17389,7 +17390,6 @@ banking
 besmouch
 bylawman
 busheling
-badgeman
 buccinator
 bowge
 bunger

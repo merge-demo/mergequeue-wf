@@ -5940,7 +5940,6 @@ codpiece
 caterers
 cytolymph
 cateringly
-copras
 caterpillar
 clavolet
 caterpillared
@@ -16007,6 +16006,7 @@ coinventor
 cobstone
 convalescency
 clerkdom
+copras
 clerkess
 caligated
 cypraeid
