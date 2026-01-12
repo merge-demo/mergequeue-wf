@@ -3890,7 +3890,6 @@ gonapophysal
 grasps
 gentlemanliness
 gentlemanhood
-galled
 gameball
 gastroenterotomy
 grandmama
@@ -5512,6 +5511,7 @@ gammacismus
 grangerising
 gemmier
 gluttery
+galled
 glyster
 galumphed
 gablet

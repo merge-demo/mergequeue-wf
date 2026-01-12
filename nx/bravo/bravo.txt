@@ -15266,6 +15266,7 @@ biocatalytic
 brick
 battened
 brickbat
+bicoloured
 buttonholed
 blackstrap
 borish
@@ -17472,7 +17473,6 @@ bunking
 babeldom
 browny
 bunny
-bicoloured
 babesias
 bunnies
 bunodont
