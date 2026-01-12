@@ -9236,7 +9236,6 @@ educationalist
 extrapleural
 extrapolative
 element
-embryoid
 expel
 eyestrain
 extradecretal
@@ -10301,6 +10300,7 @@ ethmopalatal
 ectases
 eyre
 epiphyllous
+embryoid
 ensignment
 ethnicist
 endymal
