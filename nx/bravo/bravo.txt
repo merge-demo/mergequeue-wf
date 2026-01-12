@@ -673,6 +673,7 @@ brasseries
 bactriticone
 badderlocks
 basidiomycetous
+batrachoid
 benignancy
 brolga
 brilliantine
@@ -17025,7 +17026,6 @@ blankard
 bakuninism
 bulby
 bulbier
-batrachoid
 birkenhead
 bacteriotoxin
 bulbiest
