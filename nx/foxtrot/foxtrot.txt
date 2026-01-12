@@ -4772,6 +4772,7 @@ flutidae
 furtherest
 fiddleneck
 freethinkers
+folkmote
 farcies
 feuillage
 fortlet
@@ -8706,7 +8707,6 @@ folium
 funariaceous
 forth
 freesia
-folkmote
 flaunters
 fryers
 funiculate
