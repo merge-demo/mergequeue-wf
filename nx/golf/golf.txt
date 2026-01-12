@@ -4775,7 +4775,6 @@ globality
 greenfishes
 gudemother
 gainstand
-garua
 galactite
 glick
 geldability
@@ -6274,6 +6273,7 @@ gonotyl
 guestchamber
 guttural
 ghostiest
+garua
 galidia
 gconv
 gentle
