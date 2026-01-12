@@ -6552,7 +6552,6 @@ cavey
 chromoscope
 cavekeeper
 cavelet
-confiner
 cambodia
 cavelike
 cavemen
@@ -17033,6 +17032,7 @@ cymbaleer
 candela
 croat
 clutchingly
+confiner
 consignificate
 calean
 clues
