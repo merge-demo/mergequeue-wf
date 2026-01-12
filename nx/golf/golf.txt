@@ -3835,7 +3835,6 @@ garrafa
 gombroon
 gapping
 goggle
-glomerule
 giantsize
 geodist
 gaub
@@ -8541,6 +8540,7 @@ gravely
 galops
 garnishees
 groupers
+glomerule
 gayal
 gravelish
 guardian
