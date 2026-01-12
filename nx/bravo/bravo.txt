@@ -6733,6 +6733,7 @@ bourgeoisify
 bagaudae
 blurted
 brawler
+boons
 beholds
 bermudas
 bucketfull
@@ -7651,7 +7652,6 @@ boughed
 bewitcher
 bewitches
 beswink
-boons
 bewitchingly
 bewitchingness
 brownprint
