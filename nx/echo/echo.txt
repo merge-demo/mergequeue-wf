@@ -2788,7 +2788,6 @@ elegising
 excuderunt
 ectoenzym
 elegized
-elegizes
 epifauna
 encrusts
 eutocia
@@ -9852,6 +9851,7 @@ encodes
 epidemical
 enflaming
 enodally
+elegizes
 encave
 ear
 electrotelethermometer
