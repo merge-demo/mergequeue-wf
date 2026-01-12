@@ -5083,6 +5083,7 @@ colat
 casanova
 casaques
 casas
+chivarra
 cojudge
 coevolve
 colisepsis
@@ -11125,7 +11126,6 @@ chivarees
 chivari
 crannequin
 chivaris
-chivarra
 chive
 cinecamera
 chivey
