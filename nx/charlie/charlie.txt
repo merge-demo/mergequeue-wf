@@ -5949,6 +5949,7 @@ cateringly
 caterpillar
 clavolet
 caterpillared
+challas
 caterpillarlike
 chelerythrin
 caterpillars
@@ -8356,7 +8357,6 @@ catechizable
 chalkworker
 centriciput
 cenotaphs
-challas
 contraponend
 chamicuro
 calcifuge
