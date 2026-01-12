@@ -2389,7 +2389,6 @@ garhwali
 gymnoconia
 guardants
 gasterosteoid
-glump
 guttular
 gerrhosaurid
 grignet
@@ -8710,6 +8709,7 @@ gree
 galvanometrically
 greenflies
 glean
+glump
 gynaecoid
 groundable
 glistered
