@@ -3524,7 +3524,6 @@ gehey
 gessoes
 gerrhosauridae
 gila
-gangplanks
 gestalt
 gestaltist
 gallicisms
@@ -9697,6 +9696,7 @@ gowfer
 grammatophyllum
 griffaun
 generals
+gangplanks
 grudging
 goldfinny
 geraniols
