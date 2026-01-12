@@ -716,7 +716,6 @@ glossatorial
 grapholite
 grossify
 ghess
-gardevisure
 germanistic
 gawn
 gladdest
@@ -4890,6 +4889,7 @@ gnomonics
 gallying
 gleg
 gigantize
+gardevisure
 gladfulness
 galaxian
 glaciates
