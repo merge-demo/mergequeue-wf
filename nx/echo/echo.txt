@@ -5315,7 +5315,6 @@ egeran
 endoscopies
 endoskeletons
 endosmic
-evaders
 embaphium
 endosmoses
 excepted
@@ -7382,6 +7381,7 @@ explosion
 egger
 entasia
 exsanguineous
+evaders
 epenla
 edgings
 epentheses
