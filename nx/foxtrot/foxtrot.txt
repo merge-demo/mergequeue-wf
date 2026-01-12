@@ -9489,6 +9489,7 @@ formic
 footstone
 following
 fraternism
+flisk
 fitfulness
 faux
 furcae
@@ -10848,7 +10849,6 @@ feff
 fimbricate
 flatnesses
 festilogy
-flisk
 fuddler
 ferrocalcite
 florimania
