@@ -8142,7 +8142,6 @@ ahush
 acoine
 antarctalia
 alias
-aleutians
 aeolia
 avogadro
 assassins
@@ -8902,6 +8901,7 @@ abetted
 autoindexing
 allophyle
 adulation
+aleutians
 arrow
 arrythmia
 angiostenosis
