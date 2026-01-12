@@ -3984,7 +3984,6 @@ emolument
 elevator
 emotivity
 exorability
-epitases
 emendicate
 empaistic
 exilarch
@@ -10752,6 +10751,7 @@ ensulphur
 eulamellibranchiata
 electrical
 ethylenically
+epitases
 etrier
 eulimidae
 epicoela
