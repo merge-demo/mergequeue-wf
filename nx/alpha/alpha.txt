@@ -1923,7 +1923,6 @@ acetylbenzoic
 aquilia
 apparelment
 acetylfluoride
-angularity
 abasements
 aerobian
 appendix
@@ -6145,6 +6144,7 @@ aplanobacter
 adeuism
 avengers
 antecedency
+angularity
 agonal
 athetize
 aurorae
