@@ -3971,6 +3971,7 @@ fono
 flav
 falkland
 friendlier
+feverfew
 fibrinemia
 fiscal
 fulmine
@@ -11326,7 +11327,6 @@ fatwa
 fidejussionary
 firedog
 formatted
-feverfew
 flaxy
 fgn
 foreguts
