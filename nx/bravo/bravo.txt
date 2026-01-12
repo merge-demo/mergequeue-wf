@@ -5360,6 +5360,7 @@ begnaw
 biharmonic
 borderlines
 butterscotch
+bombace
 bacchante
 balmy
 biguanide
@@ -12351,7 +12352,6 @@ blastocele
 bolus
 bomb
 bombacaceae
-bombace
 bombardiers
 beggary
 bumblebomb
