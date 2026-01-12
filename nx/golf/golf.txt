@@ -32,7 +32,6 @@ genotypically
 gableboard
 graperies
 gangue
-glaucolite
 guemal
 goi
 glassy
@@ -7001,6 +7000,7 @@ guaniferous
 greystone
 gumlah
 galvanocontractility
+glaucolite
 guirlande
 gauntries
 gushiest
