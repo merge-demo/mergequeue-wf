@@ -2459,7 +2459,6 @@ canch
 centgener
 cancha
 canchalagua
-cropsickness
 cherubically
 cancionero
 canciones
@@ -2839,6 +2838,7 @@ canoing
 cuerpo
 canon
 cardin
+cropsickness
 churlish
 canones
 cardooer
