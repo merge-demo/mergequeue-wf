@@ -5592,7 +5592,6 @@ furbelowing
 feticides
 feynesses
 fluemen
-floating
 facier
 fibroses
 favourite
@@ -5744,6 +5743,7 @@ fountains
 flammable
 freeloader
 flingy
+floating
 funded
 fiddlestring
 fishwife
