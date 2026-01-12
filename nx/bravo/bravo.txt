@@ -909,7 +909,6 @@ bdellotomy
 bowstaff
 bagpipers
 biopsy
-bandyball
 bardiglio
 bismarine
 bailee
@@ -2753,6 +2752,7 @@ beltline
 bullbat
 barolo
 bm
+bandyball
 bicolored
 bonneting
 bukeyef
