@@ -8833,7 +8833,6 @@ budbreak
 barkevikitic
 barterer
 beggars
-baptizers
 bytalk
 banjos
 broker
@@ -9484,6 +9483,7 @@ begettal
 bobwood
 brakes
 bovidae
+baptizers
 boga
 birectangular
 bireme
