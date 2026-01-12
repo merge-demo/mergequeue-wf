@@ -1581,7 +1581,6 @@ decipolar
 duplicia
 direfulness
 disenthralled
-deadness
 dairyman
 deadpanned
 deadpans
@@ -14211,6 +14210,7 @@ dithyrambic
 delaying
 disprofess
 drachm
+deadness
 deteriorism
 demobilizing
 deeds
