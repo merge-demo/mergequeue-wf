@@ -7042,7 +7042,6 @@ bioplasms
 basing
 branchiostomidae
 bowlegged
-boardly
 bowingly
 balnea
 brothel
@@ -8824,6 +8823,7 @@ birotatory
 bobbysoxers
 budbreak
 barkevikitic
+boardly
 barterer
 beggars
 bytalk
