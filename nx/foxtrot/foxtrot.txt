@@ -3944,7 +3944,6 @@ floosy
 finew
 flutteration
 fish
-fermentor
 fruitcakey
 frenziedly
 foundation
@@ -7334,6 +7333,7 @@ floorboards
 fancysick
 federalise
 fertil
+fermentor
 footwarmer
 fortnight
 focalized
