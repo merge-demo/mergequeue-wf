@@ -1761,6 +1761,7 @@ divines
 decadently
 dustheaps
 doorpost
+dicyanin
 deaving
 disseizor
 decolorization
@@ -9446,7 +9447,6 @@ decubitus
 derailleurs
 dissert
 digenetica
-dicyanin
 digue
 digeny
 dioicousness
