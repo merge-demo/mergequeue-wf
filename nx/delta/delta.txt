@@ -2617,6 +2617,7 @@ diswarrened
 deposals
 disyoked
 decoherence
+deadflat
 dirndl
 duramatral
 durably
@@ -6835,7 +6836,6 @@ dupla
 desmoncus
 dissention
 danknesses
-deadflat
 deltic
 demonism
 derivative
