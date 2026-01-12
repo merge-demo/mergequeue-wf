@@ -4497,6 +4497,7 @@ gyp
 gundog
 gymnastically
 graves
+gyassa
 generaliter
 greffier
 glamberry
@@ -7751,7 +7752,6 @@ gelations
 gosling
 gliomatous
 ged
-gyassa
 grandada
 goss
 grypotherium
