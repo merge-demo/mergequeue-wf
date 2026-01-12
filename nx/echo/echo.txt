@@ -1275,6 +1275,7 @@ epit
 enneastyle
 eel
 electrosherardizing
+eloin
 escalade
 eelboat
 eudendrium
@@ -3199,7 +3200,6 @@ enactment
 euryte
 epiderma
 eloigns
-eloin
 eloine
 engrossing
 eloiners
