@@ -17924,7 +17924,6 @@ controlled
 codling
 classlessness
 canafistola
-coguardian
 codman
 contingentiam
 chants
@@ -27043,6 +27042,7 @@ counterprogramming
 counterproject
 crustaceology
 comprehender
+coguardian
 cyclitis
 counterpronunciamento
 cetylene
