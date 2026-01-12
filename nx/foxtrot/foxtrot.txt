@@ -7151,6 +7151,7 @@ flanchard
 foolproof
 foolproofness
 frostlike
+fissureless
 ferret
 fibulare
 frocking
@@ -10275,7 +10276,6 @@ frogbit
 frogeyed
 farewelling
 feltlike
-fissureless
 florentium
 flabelliform
 fibra
