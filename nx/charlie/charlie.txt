@@ -8901,7 +8901,6 @@ characterology
 coffle
 crosshead
 corbelled
-confirming
 cassinette
 cerned
 contraposaune
@@ -16634,6 +16633,7 @@ clonus
 cloof
 cotylophora
 cervicolabial
+confirming
 chymaqueous
 chemicoluminescence
 cloot
