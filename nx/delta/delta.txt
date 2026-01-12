@@ -13100,6 +13100,7 @@ dispeaceful
 dory
 dital
 docents
+dwayberry
 decampment
 distractile
 decliners
@@ -18661,7 +18662,6 @@ deflagrability
 daishikis
 diapsid
 dvigu
-dwayberry
 descendance
 diligently
 dioptral
