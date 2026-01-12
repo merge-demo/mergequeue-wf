@@ -399,6 +399,7 @@ fattiness
 flusterer
 forcedness
 franklandite
+foreimagination
 frothed
 frisson
 firestopping
@@ -7695,7 +7696,6 @@ fixed
 flaithship
 floruits
 faeculence
-foreimagination
 flashlike
 foregift
 forgiveless
