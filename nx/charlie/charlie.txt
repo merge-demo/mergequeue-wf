@@ -9124,6 +9124,7 @@ charre
 charrette
 consenescence
 charrier
+comme
 clerkship
 charro
 concional
@@ -18642,7 +18643,6 @@ caners
 coincidents
 coachability
 coiner
-comme
 concoction
 coyness
 cerebration
