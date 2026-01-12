@@ -2325,7 +2325,6 @@ acidosteophyte
 arecuna
 aul
 acids
-acidulant
 absinthin
 acidulate
 acidulated
@@ -23713,6 +23712,7 @@ aurore
 additionally
 acct
 adumbrates
+acidulant
 aleppine
 aurous
 aurrescu
