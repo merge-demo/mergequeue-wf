@@ -4173,7 +4173,6 @@ galeidae
 genitivally
 gentilities
 grundy
-geochronology
 gnawing
 geographers
 gringo
@@ -8833,6 +8832,7 @@ gonogenesis
 gregariously
 guerickian
 glaciologic
+geochronology
 grazed
 geranomorphae
 grossularia
