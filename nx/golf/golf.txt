@@ -5063,6 +5063,7 @@ grotesquerie
 garavance
 glowed
 geosynclinal
+geniohyoid
 glaum
 gilliflirt
 gnetaceous
@@ -8236,7 +8237,6 @@ gazers
 gazingstock
 galeodes
 grapery
-geniohyoid
 gied
 grim
 gem
