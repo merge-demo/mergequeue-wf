@@ -5408,7 +5408,6 @@ castellation
 castellatus
 creolization
 copulates
-chamberfellow
 castellum
 chinoleine
 caster
@@ -30531,6 +30530,7 @@ cubical
 catskinner
 converts
 catonic
+chamberfellow
 cofferfish
 cubicula
 costly
