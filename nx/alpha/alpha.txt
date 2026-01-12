@@ -3777,7 +3777,6 @@ adamantoblastoma
 arthrophyma
 accomplis
 aedility
-afer
 adiaphorist
 arteriectasia
 aflatoxin
@@ -6510,6 +6509,7 @@ auksinu
 awk
 abjunctive
 aidful
+afer
 aiding
 adenanthera
 atlantoodontoid
