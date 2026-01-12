@@ -1411,7 +1411,6 @@ balds
 baculums
 bale
 babassu
-baleare
 bajonado
 backjoint
 balearica
@@ -14995,6 +14994,7 @@ burut
 bungerly
 bitthead
 breaster
+baleare
 breastfast
 bura
 bearing
