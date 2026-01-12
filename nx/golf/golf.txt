@@ -7705,6 +7705,7 @@ gradient
 galey
 gobblers
 greybeard
+gunge
 goatishly
 gastrophilist
 grease
@@ -10558,7 +10559,6 @@ gossipingly
 gudesakes
 gentamicin
 geosynclines
-gunge
 germinability
 gunjah
 glozer
