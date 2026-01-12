@@ -398,7 +398,6 @@ galatea
 glucogenesis
 groomling
 gelding
-glidewort
 gimleted
 gispin
 galaxias
@@ -4876,6 +4875,7 @@ giggish
 glaciology
 ghawazi
 glaciomarine
+glidewort
 guideway
 genecologically
 gynecidal
