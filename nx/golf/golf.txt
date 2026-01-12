@@ -5781,7 +5781,6 @@ graphites
 glycogenolysis
 gobiid
 goldbird
-gadaea
 goosecap
 groovers
 gonidic
@@ -9495,6 +9494,7 @@ gallinulinae
 grandmother
 ganosis
 groundskeeping
+gadaea
 gothicism
 greenhood
 garfield
