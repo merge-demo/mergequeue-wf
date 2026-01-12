@@ -6347,7 +6347,6 @@ begalling
 breakpoints
 begrace
 buffalofishes
-benzein
 bellyfish
 blinks
 benzenediazonium
@@ -14025,6 +14024,7 @@ bullflower
 brachygraphy
 bethels
 boardable
+benzein
 byrlaw
 blitzes
 bibulosity
