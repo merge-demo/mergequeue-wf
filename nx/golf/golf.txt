@@ -6730,7 +6730,6 @@ gonoblastidial
 gonid
 goyish
 gelly
-grinderies
 geometroid
 gabeler
 girdlelike
@@ -10580,6 +10579,7 @@ gerbo
 gesneraceae
 gyneocracy
 gallivanter
+grinderies
 grasset
 grecoue
 gurmukhi
