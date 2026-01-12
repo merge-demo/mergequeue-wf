@@ -2563,7 +2563,6 @@ aircoach
 atrophy
 aftertrial
 acouchi
-antisubmarine
 antagonisms
 accoutering
 allylene
@@ -14808,6 +14807,7 @@ antitragal
 actinoid
 associates
 antipoverty
+antisubmarine
 aswough
 antineutron
 antichthon
