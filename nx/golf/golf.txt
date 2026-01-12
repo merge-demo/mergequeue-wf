@@ -1019,7 +1019,6 @@ gurnetty
 granitizing
 gigahertz
 gnomons
-geophilous
 gymnure
 guttle
 glanduliferous
@@ -7672,6 +7671,7 @@ guenons
 geomantic
 gradated
 glucosazone
+geophilous
 gatecrasher
 grafts
 geospiza
