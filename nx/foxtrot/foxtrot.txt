@@ -698,7 +698,6 @@ ferlie
 fanweed
 fondants
 fanatico
-fights
 fallacia
 forzandos
 firths
@@ -5839,6 +5838,7 @@ ferrochrome
 flytiers
 fulhams
 flimflammery
+fights
 fpsps
 fictile
 fortunous
