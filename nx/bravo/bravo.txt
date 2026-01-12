@@ -6551,7 +6551,6 @@ besprizorni
 bibliography
 brustled
 bodingly
-becolor
 begulfed
 berated
 bushful
@@ -12720,6 +12719,7 @@ beguin
 bedunch
 bunkos
 blueth
+becolor
 boodled
 braccia
 bestowable
