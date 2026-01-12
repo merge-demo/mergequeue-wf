@@ -14,7 +14,6 @@ complanate
 cabaho
 cabal
 condylarthrous
-cryptostoma
 chaenomeles
 cows
 corkmaking
@@ -22771,6 +22770,7 @@ consanguinean
 caballeros
 consanguineous
 consanguineously
+cryptostoma
 caulocarpous
 coemptio
 consecrative
