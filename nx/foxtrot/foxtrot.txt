@@ -1262,7 +1262,6 @@ figgier
 finalized
 forenoon
 fumiferous
-fastidium
 frigid
 faineants
 fibroblast
@@ -3044,6 +3043,7 @@ freend
 flowerfly
 fatstock
 finances
+fastidium
 fanner
 forfeitableness
 familiarizes
