@@ -8995,7 +8995,6 @@ bioelectrical
 broomshank
 bioengineering
 bestialize
-beanos
 basidiomycetes
 bioethic
 beaverpelt
@@ -12472,6 +12471,7 @@ bonav
 bests
 bonbo
 bowerlike
+beanos
 bakeout
 bonbon
 betsimisaraka
