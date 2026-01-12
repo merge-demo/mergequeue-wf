@@ -15171,7 +15171,6 @@ colyba
 chlore
 cladus
 claes
-criminosis
 condecent
 crumbled
 clag
@@ -24879,6 +24878,7 @@ chaumontel
 coredeeming
 clemency
 capilliform
+criminosis
 cookware
 consularity
 coracomorph
