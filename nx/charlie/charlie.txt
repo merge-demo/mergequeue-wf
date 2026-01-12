@@ -9585,7 +9585,6 @@ checkwork
 cosmologist
 checkwriter
 concurrence
-cumshaw
 cascading
 curiara
 cheddar
@@ -15434,6 +15433,7 @@ clapstick
 centrosome
 clapt
 chicane
+cumshaw
 clochards
 cautio
 cabins
