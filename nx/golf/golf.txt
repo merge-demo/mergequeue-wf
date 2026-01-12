@@ -6742,7 +6742,6 @@ gride
 graphitic
 gastronephritis
 gauges
-gyrostats
 glomerate
 globulimeter
 glyconic
@@ -9862,6 +9861,7 @@ guaiac
 goitcho
 guaiaconic
 gonyocele
+gyrostats
 guesstimated
 guayaqui
 gorgoneion
