@@ -6184,7 +6184,6 @@ factorize
 frowardness
 faraway
 fuselage
-faciata
 freeing
 flourish
 fermion
@@ -8212,6 +8211,7 @@ forecatching
 frounced
 fluorescin
 flossed
+faciata
 feeblemindedness
 faldetta
 fribblery
