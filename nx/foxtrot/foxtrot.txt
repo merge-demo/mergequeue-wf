@@ -400,7 +400,6 @@ flusterer
 forcedness
 franklandite
 frothed
-frisson
 firestopping
 from
 fieldfight
@@ -11000,6 +10999,7 @@ furmities
 flatuous
 floricin
 fumatoria
+frisson
 freesilverism
 forcedly
 fieldfare
