@@ -5390,6 +5390,7 @@ criminol
 casteisms
 concessive
 casteless
+chiot
 chifforobes
 chimerical
 citator
@@ -9395,7 +9396,6 @@ confirmment
 compart
 chavicin
 chomp
-chiot
 chavicol
 cautelousness
 cowedly
