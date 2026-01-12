@@ -990,6 +990,7 @@ gouge
 greasebush
 ginglymoid
 glycogenesis
+guesses
 goldhammer
 ganderess
 genethlialogy
@@ -7463,7 +7464,6 @@ gou
 gyrometer
 goodmen
 grimacingly
-guesses
 gorgelet
 gamotropic
 gastrotaxis
