@@ -8034,7 +8034,6 @@ bicyclist
 bedabbles
 bicycular
 biciliated
-bicylindrical
 batrachophidia
 butlerlike
 bipinnatiparted
@@ -10558,6 +10557,7 @@ bradyuria
 bromobenzyl
 bashlik
 blastoporal
+bicylindrical
 breachers
 blastosphere
 balanus
