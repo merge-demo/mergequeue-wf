@@ -1153,7 +1153,6 @@ anthemed
 academized
 acadialite
 alpenstocker
-acadie
 abulyeit
 amorphic
 airshed
@@ -12777,6 +12776,7 @@ angiostrophy
 angiotasis
 aramaic
 angiotelectasia
+acadie
 amenty
 annulus
 administerd
