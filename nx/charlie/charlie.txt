@@ -7461,6 +7461,7 @@ conventicles
 cephalothoraxes
 corozo
 chippering
+chauk
 cephalotractor
 cephalotrocha
 cephalotus
@@ -9332,7 +9333,6 @@ civy
 carcoon
 cerris
 custos
-chauk
 calodaemon
 catagmatic
 chaukidari
