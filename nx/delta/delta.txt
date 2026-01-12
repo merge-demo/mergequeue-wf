@@ -3427,6 +3427,7 @@ dehumidifier
 damp
 discomfortably
 defluent
+didepsid
 debyes
 disassociating
 diatoric
@@ -16943,7 +16944,6 @@ dismality
 discerp
 dithery
 dredgers
-didepsid
 discamp
 dree
 docentship
