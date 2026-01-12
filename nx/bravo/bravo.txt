@@ -3650,7 +3650,6 @@ baculiform
 bedighting
 bipinnately
 breadberry
-batlon
 budded
 bumbleberry
 betacism
@@ -7318,6 +7317,7 @@ borith
 beswarm
 beswelter
 bisque
+batlon
 bethuel
 balti
 beguard
