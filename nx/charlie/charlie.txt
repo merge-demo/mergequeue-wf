@@ -80,7 +80,6 @@ comprises
 chief
 cabbalahs
 cabbalas
-cabbalist
 currie
 cystose
 cosmolatry
@@ -16589,6 +16588,7 @@ capsules
 cloisterwise
 cloistral
 concoagulation
+cabbalist
 cloit
 chamisos
 cloke
