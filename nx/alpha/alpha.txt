@@ -210,6 +210,7 @@ abbevillian
 abolishments
 acridyl
 ambystomidae
+antihidrotic
 avidous
 anthropomorphidae
 apotactite
@@ -7231,7 +7232,6 @@ authored
 amin
 alauda
 aphakic
-antihidrotic
 adai
 alaudine
 asters
