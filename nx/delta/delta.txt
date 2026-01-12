@@ -4859,7 +4859,6 @@ dramseller
 deactivator
 demonolater
 drupose
-dismality
 drownds
 dissimilation
 dietician
@@ -16936,6 +16935,7 @@ depurant
 downcurve
 dredgeful
 disintegrate
+dismality
 discerp
 dithery
 dredgers
