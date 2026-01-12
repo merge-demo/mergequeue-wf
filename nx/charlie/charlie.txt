@@ -3069,7 +3069,6 @@ canulas
 caputium
 chthonophagy
 coistrel
-canulates
 comatic
 canun
 canvas
@@ -7387,6 +7386,7 @@ carneys
 carks
 comnenian
 cupels
+canulates
 cephalocentesis
 coprocessors
 chymify
