@@ -1848,7 +1848,6 @@ gregory
 grandfer
 gunfighting
 gephyrean
-gulinulae
 geminorum
 gatewaying
 gawain
@@ -10674,6 +10673,7 @@ gametogony
 gladius
 gyric
 glunches
+gulinulae
 goatsbane
 galp
 glaiketness
