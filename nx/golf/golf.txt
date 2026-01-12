@@ -3872,7 +3872,6 @@ gyving
 gpcd
 gygis
 gibstaff
-galactodendron
 greyhound
 gratefulness
 greyling
@@ -9620,6 +9619,7 @@ goodenoviaceae
 granted
 gazed
 grind
+galactodendron
 gnus
 gingersnap
 grovellingly
