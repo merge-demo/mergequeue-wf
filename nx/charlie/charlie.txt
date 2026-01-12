@@ -8386,7 +8386,6 @@ cohered
 chalons
 coronograph
 chalot
-chaloupe
 cowpunch
 chaluka
 catacrotic
@@ -12603,6 +12602,7 @@ chronogrammatic
 chronogrammatically
 cheetah
 cenospecifically
+chaloupe
 chronogrammic
 chronograph
 chronographer
