@@ -6306,7 +6306,6 @@ fundmongering
 flugel
 frouze
 frettingly
-flatlet
 figbird
 forgetfully
 forerunnership
@@ -10414,6 +10413,7 @@ fibreware
 forswore
 fostering
 flamiest
+flatlet
 footgeld
 firs
 fleing
