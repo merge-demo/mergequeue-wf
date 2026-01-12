@@ -6573,6 +6573,7 @@ electricity
 emigrates
 exeunt
 erysimum
+extraorganismal
 erythroneocytosis
 enhuile
 enwind
@@ -9685,7 +9686,6 @@ envapor
 encephalomas
 exanthematous
 essayed
-extraorganismal
 electable
 exceptional
 european
