@@ -8472,7 +8472,6 @@ directionize
 dodecyl
 draconitic
 downgrades
-dampen
 diamondbacked
 doubter
 debaucher
@@ -17238,6 +17237,7 @@ densitometers
 droghlin
 discrepant
 diathermance
+dampen
 didactic
 discountenancing
 dauner
