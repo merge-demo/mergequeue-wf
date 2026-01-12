@@ -18698,6 +18698,7 @@ archbuilder
 archchemic
 antiopelmous
 archchronicler
+acrostics
 azotea
 asteroxylaceae
 amnia
@@ -21176,7 +21177,6 @@ atomicism
 aseptolin
 alighted
 adipous
-acrostics
 adjection
 acicularity
 azinphosmethyl
