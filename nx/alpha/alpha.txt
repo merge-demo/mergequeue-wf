@@ -13389,7 +13389,6 @@ aristulate
 archphylarch
 among
 anomala
-anlace
 albinistic
 anlagen
 assigners
@@ -23693,6 +23692,7 @@ auripigment
 aurir
 auriscalpia
 auriscopy
+anlace
 aurist
 aurists
 assentiveness
