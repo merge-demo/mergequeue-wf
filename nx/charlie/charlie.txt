@@ -2184,7 +2184,6 @@ cygnets
 camphoroyl
 clerkliest
 camporee
-camphorone
 camphorweed
 camphorwood
 cotan
@@ -23866,6 +23865,7 @@ contrive
 curds
 contrived
 contrivedly
+camphorone
 contrivement
 cinchonology
 cowroid
