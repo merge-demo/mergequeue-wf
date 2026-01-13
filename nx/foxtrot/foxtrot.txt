@@ -2329,7 +2329,6 @@ fer
 firecoat
 featherstitching
 ferae
-fairyship
 fablers
 frequently
 filmable
@@ -9781,6 +9780,7 @@ fevery
 ficoideae
 fretworks
 flexile
+fairyship
 frenchwomen
 frenetical
 fideicommissioner
