@@ -6126,6 +6126,7 @@ enmity
 eparchean
 entracte
 enamelware
+encumbering
 embattles
 ethicizes
 enmove
@@ -11739,7 +11740,6 @@ examinant
 eschewer
 effatum
 estrepe
-encumbering
 excommunication
 examinatorial
 echopraxia
