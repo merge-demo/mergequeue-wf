@@ -10337,7 +10337,6 @@ adstipulation
 almah
 amethodically
 absurdum
-aculeolus
 ametrope
 antshrike
 afterbirths
@@ -22843,6 +22842,7 @@ assonate
 affixable
 atmosphereless
 almendro
+aculeolus
 antidyscratic
 antiflatulent
 axometry
