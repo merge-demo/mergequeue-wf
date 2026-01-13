@@ -8350,7 +8350,6 @@ fatherlike
 freemartin
 flapperish
 fittiest
-fair
 foundling
 fils
 forewing
@@ -9601,6 +9600,7 @@ frist
 findfault
 fullers
 fotui
+fair
 forche
 fizzwater
 foliated
