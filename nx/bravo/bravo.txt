@@ -5951,7 +5951,6 @@ beltane
 belauding
 blumea
 bimetalic
-beachier
 buyouts
 bottlenecks
 ballistic
@@ -12761,6 +12760,7 @@ baianism
 bibulously
 blastophthoric
 bibliographically
+beachier
 bowet
 booker
 bacterins
