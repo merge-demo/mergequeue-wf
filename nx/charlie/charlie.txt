@@ -13401,7 +13401,6 @@ calindas
 crossarm
 cyclotome
 cyclotomic
-camisias
 cyclotosaurus
 cyclotrimethylenetrinitramine
 conquassate
@@ -15475,6 +15474,7 @@ clarini
 chlorates
 cellarette
 clarino
+camisias
 cenosite
 clarion
 chatelaines
