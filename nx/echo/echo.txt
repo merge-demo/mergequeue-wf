@@ -7107,7 +7107,6 @@ enmarbled
 enverdure
 explanatory
 enlaced
-encalendar
 ectosphenotic
 edicts
 enemy
@@ -12123,6 +12122,7 @@ enterate
 excurvated
 energy
 extrados
+encalendar
 emphysematous
 esclavage
 energise
