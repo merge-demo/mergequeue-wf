@@ -17592,7 +17592,6 @@ amenities
 ancillaries
 appendicularia
 aboulias
-azygosperm
 appendiculate
 alectoris
 autovalve
@@ -24527,6 +24526,7 @@ auxeses
 altercative
 antispreader
 aoristic
+azygosperm
 ascaron
 auxetic
 adoptability
