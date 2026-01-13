@@ -2044,7 +2044,6 @@ gavelock
 givenness
 gliridae
 ghana
-gerocomia
 gavelocks
 gattine
 galactosuria
@@ -3359,6 +3358,7 @@ gregaritic
 glancer
 glycosin
 gelotoscopy
+gerocomia
 glent
 grabbable
 glosseme
