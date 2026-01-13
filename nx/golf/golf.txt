@@ -7927,7 +7927,6 @@ gilbertage
 gameful
 grandams
 gusty
-gramophonic
 grapsidae
 gounau
 geratologic
@@ -9251,6 +9250,7 @@ grippleness
 galerite
 grazier
 giftedness
+gramophonic
 groom
 gryllotalpa
 gangbuster

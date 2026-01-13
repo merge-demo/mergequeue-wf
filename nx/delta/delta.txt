@@ -11780,6 +11780,7 @@ diplokaryon
 durbars
 dermography
 desoxymorphine
+drawspan
 debtor
 declarant
 didler
@@ -12928,7 +12929,6 @@ deviator
 dermaptera
 disnew
 drachmae
-drawspan
 debussed
 delving
 disobeying
