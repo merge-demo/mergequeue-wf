@@ -5447,7 +5447,6 @@ bronchium
 bicollateral
 behaving
 brainteasers
-bathylimnetic
 behaviored
 betravel
 behaviorists
@@ -11512,6 +11511,7 @@ bundlers
 bandsmen
 basophilia
 begemming
+bathylimnetic
 bedoctor
 blintze
 baccalaurean
