@@ -2790,7 +2790,6 @@ flattops
 fumigatories
 feedman
 faunae
-faveolate
 ficus
 fluidly
 fishhouse
@@ -3280,6 +3279,7 @@ flowerfence
 fivescore
 fibrinosis
 flounces
+faveolate
 fortier
 fulgency
 finity
