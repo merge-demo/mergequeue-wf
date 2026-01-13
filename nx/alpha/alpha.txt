@@ -702,7 +702,6 @@ animadversion
 antiaesthetic
 aboulia
 anoli
-astrometry
 acupuncturists
 aboulic
 amyloplastic
@@ -2156,6 +2155,7 @@ arborized
 achiness
 achinesses
 aching
+astrometry
 achiotes
 adapt
 alinasal
