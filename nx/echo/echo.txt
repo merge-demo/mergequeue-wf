@@ -2053,7 +2053,6 @@ encurl
 euglobulin
 exophasia
 elytrigerous
-ethiopic
 elaenia
 effranchisement
 elasticities
@@ -11247,6 +11246,7 @@ endocrinologic
 entrenchment
 etonian
 epithetize
+ethiopic
 ephedrine
 effulgent
 eely
