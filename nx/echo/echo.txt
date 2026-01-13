@@ -2479,6 +2479,7 @@ exendospermic
 engrails
 earthquaked
 exploding
+eslabon
 eyelets
 estus
 epidemiologies
@@ -4144,7 +4145,6 @@ ejacula
 endplate
 encyclicals
 enrooting
-eslabon
 entangler
 exungulate
 expropriation
