@@ -4282,7 +4282,6 @@ gilty
 goblets
 gammoned
 gynarchic
-gipsydom
 gearman
 gazella
 geumatophobia
@@ -4474,6 +4473,7 @@ gynura
 garotter
 goyazite
 gadsman
+gipsydom
 glucuronide
 gobby
 giobertite
