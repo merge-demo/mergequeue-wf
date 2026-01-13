@@ -678,7 +678,6 @@ gormand
 grapelet
 gelosine
 gooney
-grouplet
 gynecomaniac
 greenbone
 gauily
@@ -7880,6 +7879,7 @@ grovy
 gudge
 grecomaniac
 gamester
+grouplet
 gyrostachys
 giraffa
 ghastliest
