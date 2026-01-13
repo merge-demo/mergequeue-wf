@@ -3822,7 +3822,6 @@ dicellate
 deionizations
 dichroiscope
 diatropic
-divariant
 deionize
 degraduation
 dopatta
@@ -6452,6 +6451,7 @@ disclaimer
 disperge
 departmentalising
 diploes
+divariant
 decadenza
 dactylioglyph
 drupal
