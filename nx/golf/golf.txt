@@ -3981,7 +3981,6 @@ gigatons
 gastroschisis
 genetical
 geoduck
-gemmily
 gyroceras
 gleeting
 garrisons
@@ -7719,6 +7718,7 @@ guardhouses
 gradiometric
 gaup
 glancingly
+gemmily
 gnawed
 granzita
 gypsyesque
