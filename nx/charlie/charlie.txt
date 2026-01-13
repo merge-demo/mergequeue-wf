@@ -3504,7 +3504,6 @@ cordycepin
 ciliiferous
 capsizing
 capernaitish
-capsomere
 capsomers
 capstan
 capstans
@@ -30899,6 +30898,7 @@ cosuggestion
 csc
 cenozoic
 cultivate
+capsomere
 cultivates
 cultivating
 cooeed
