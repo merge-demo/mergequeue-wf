@@ -8246,6 +8246,7 @@ commissural
 chal
 complection
 chalaco
+chloranhydride
 crispation
 cellarous
 crakes
@@ -11176,7 +11177,6 @@ chilopodous
 chloranemia
 chloranemic
 chuffs
-chloranhydride
 chloranil
 carrying
 carosse
