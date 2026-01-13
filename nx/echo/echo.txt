@@ -9313,7 +9313,6 @@ eneid
 extendability
 extralegal
 eructative
-eruction
 emersions
 eruditical
 estrangedness
@@ -10869,6 +10868,7 @@ epidemial
 eructation
 ereption
 euphemian
+eruction
 esuriently
 electrolyzed
 endopleuritic
