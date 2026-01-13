@@ -3521,6 +3521,7 @@ goutily
 glaucosis
 gamont
 gaen
+gourmandise
 garrotter
 gymkhanas
 goodsire
@@ -10624,7 +10625,6 @@ gunpower
 gasping
 graffiti
 gentled
-gourmandise
 gifting
 gimmickry
 giantlikeness
