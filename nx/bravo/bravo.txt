@@ -5233,7 +5233,6 @@ boarcite
 basification
 bacteriaceous
 begar
-basaltic
 boneheaded
 bicentenary
 bimastoid
@@ -9564,6 +9563,7 @@ berceuses
 bacteria
 branchiostegite
 birthmark
+basaltic
 biographee
 banality
 besots
