@@ -3695,7 +3695,6 @@ booklover
 burnies
 bube
 brigantinebrigantines
-basihyal
 basiophthalmite
 bijugous
 bucketful
@@ -9470,6 +9469,7 @@ bovidae
 baptizers
 boga
 birectangular
+basihyal
 bireme
 begeck
 bacteriostat
