@@ -6510,7 +6510,6 @@ genetic
 gurdwara
 glaikitness
 galvanocautery
-griff
 guggle
 guelph
 goblinish
@@ -10521,6 +10520,7 @@ gnome
 graveman
 genuineness
 grecized
+griff
 giftling
 greenbacks
 gristhorbia
