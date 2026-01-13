@@ -2935,7 +2935,6 @@ chrysoidine
 cantatas
 cantation
 cantatrice
-coverts
 chestily
 chorioids
 condylos
@@ -25281,6 +25280,7 @@ camachile
 caloriduct
 choledochectomy
 corystoid
+coverts
 corita
 cephaldemae
 cyanoauric
