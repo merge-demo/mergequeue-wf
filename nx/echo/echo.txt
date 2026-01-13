@@ -6364,7 +6364,6 @@ ensafe
 earthward
 emulsor
 euskarian
-ethmoids
 elaboration
 enrobed
 emblazes
@@ -8035,6 +8034,7 @@ enteroscope
 epiphanise
 ealdormen
 epiphanous
+ethmoids
 erases
 expansiveness
 expiator
