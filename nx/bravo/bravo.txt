@@ -5192,7 +5192,6 @@ balanoblennorrhea
 befriending
 barns
 beadhouse
-bondfolk
 biliously
 barragan
 broideries
@@ -15654,6 +15653,7 @@ bromacetanilide
 bristlelike
 brigander
 branchi
+bondfolk
 beingless
 boonk
 babyhoods
