@@ -614,7 +614,6 @@ guineas
 gorgoniacea
 ghostweed
 graveside
-gloryless
 grumpiest
 goulashes
 gurnets
@@ -7569,6 +7568,7 @@ governmental
 garageman
 gangman
 gudrun
+gloryless
 goldsmithing
 gunyah
 geodesies
