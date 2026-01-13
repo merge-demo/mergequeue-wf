@@ -2589,7 +2589,6 @@ catalan
 ceraunograph
 carbona
 cordelled
-circumstantiation
 crepier
 camphires
 censuses
@@ -19793,6 +19792,7 @@ columnarized
 combusting
 combustion
 combustious
+circumstantiation
 chiropraxis
 combusts
 cacothymia
