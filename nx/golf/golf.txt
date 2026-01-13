@@ -4085,7 +4085,6 @@ gotched
 gopherroot
 gynostegium
 gabendum
-genesic
 ginorite
 gudget
 giantish
@@ -8668,6 +8667,7 @@ gests
 grizzliness
 gapeseed
 gazetteership
+genesic
 greatness
 gneissy
 gushers
