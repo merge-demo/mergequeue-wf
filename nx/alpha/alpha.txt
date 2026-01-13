@@ -17270,7 +17270,6 @@ antifederal
 arsmetik
 aporobranchian
 aporocactus
-aporrhegma
 asfetida
 ambiguousness
 aprowl
@@ -25358,6 +25357,7 @@ acker
 assessionary
 abiology
 azotemia
+aporrhegma
 arbiter
 ankylosis
 acinaceous
