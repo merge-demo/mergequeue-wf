@@ -365,7 +365,6 @@ furcal
 featural
 forkful
 favouringly
-failingness
 facultative
 fabraea
 foresound
@@ -4724,6 +4723,7 @@ fummel
 furtherer
 flamboyancy
 fooling
+failingness
 fluorene
 fistlike
 forecourse
