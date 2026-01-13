@@ -4129,7 +4129,6 @@ fornenst
 faff
 flywheel
 feasances
-fersmite
 formularism
 fluoryl
 fratriage
@@ -7582,6 +7581,7 @@ forebode
 frictionlessness
 forebodes
 frostweed
+fersmite
 flentes
 fleshbrush
 frivoler
