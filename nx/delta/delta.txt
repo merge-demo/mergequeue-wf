@@ -4061,7 +4061,6 @@ diplomyelia
 deline
 dishonourably
 dissoluteness
-drivelled
 dorsicolumn
 decus
 delineated
@@ -5667,6 +5666,7 @@ disvertebrate
 denominational
 delegacies
 dialysed
+drivelled
 dialectician
 deminudity
 destinist
