@@ -10013,7 +10013,6 @@ aspirin
 anatropal
 atmological
 aggadic
-archaeopithecus
 airpost
 admitty
 anaheim
@@ -17369,6 +17368,7 @@ assembly
 airmobile
 apostrophus
 apotactic
+archaeopithecus
 auditioning
 apotactici
 agriculturalist
