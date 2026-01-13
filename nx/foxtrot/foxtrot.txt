@@ -7151,7 +7151,6 @@ fostership
 forgeability
 fungicide
 flanchard
-foolproof
 foolproofness
 frostlike
 fissureless
@@ -11357,6 +11356,7 @@ foreglimpsed
 foldure
 footsores
 fluoroid
+foolproof
 feuds
 fiasco
 fannies
