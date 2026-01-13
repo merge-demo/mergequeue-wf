@@ -270,7 +270,6 @@ arian
 apparatus
 abdominalian
 appurtenances
-accuracy
 autotropism
 aeroacoustic
 aguamas
@@ -19536,6 +19535,7 @@ anoles
 authenticness
 amphidromic
 angularize
+accuracy
 aoife
 argufying
 anklets
