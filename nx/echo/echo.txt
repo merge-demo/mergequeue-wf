@@ -3774,7 +3774,6 @@ endiaper
 erugation
 electroendosmotic
 economite
-eyelast
 erythematic
 equestrians
 eolipile
@@ -8701,6 +8700,7 @@ elastometry
 electroencephalograph
 equisided
 equisignal
+eyelast
 erethitic
 erythrozyme
 epigaeous
