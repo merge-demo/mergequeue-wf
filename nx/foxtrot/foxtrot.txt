@@ -1094,6 +1094,7 @@ fam
 finkel
 fellatrixes
 fatiguing
+fossorial
 frighted
 fishling
 fastback
@@ -9210,7 +9211,6 @@ freights
 fondue
 formidolous
 foresightedness
-fossorial
 fonticulus
 flapjacks
 fractionization
