@@ -7411,7 +7411,6 @@ cuticles
 crepuscle
 cephalology
 cryolites
-cephalom
 cosonant
 coquettishness
 circler
@@ -9124,6 +9123,7 @@ container
 charta
 curialities
 chartable
+cephalom
 charterers
 charterhouse
 compactors
