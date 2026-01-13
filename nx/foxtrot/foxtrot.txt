@@ -4397,6 +4397,7 @@ flechette
 funt
 fowlings
 floorshifts
+footnotes
 flagged
 forbearances
 frenums
@@ -10141,7 +10142,6 @@ foamiest
 feebling
 forwardness
 fiercly
-footnotes
 fetalism
 fattishness
 feridgi
