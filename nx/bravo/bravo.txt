@@ -3403,6 +3403,7 @@ brythonic
 baculum
 bywoner
 benzilic
+bathysphere
 bassanite
 blockbuster
 boatloading
@@ -3597,7 +3598,6 @@ brushy
 berkeleyite
 bien
 bathysophical
-bathysphere
 boliviano
 bathythermograph
 bathmat
