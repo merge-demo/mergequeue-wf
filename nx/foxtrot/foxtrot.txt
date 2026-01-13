@@ -4166,6 +4166,7 @@ foreaccounting
 fumago
 frier
 forecloses
+fattenable
 fining
 forepromised
 filaria
@@ -11226,7 +11227,6 @@ fasciolae
 fictil
 fubsier
 frittata
-fattenable
 fencelessness
 farads
 failles
