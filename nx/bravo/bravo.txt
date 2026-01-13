@@ -3560,7 +3560,6 @@ bumfuzzle
 brookites
 bluet
 bathed
-bellower
 bathes
 bewend
 backslidden
@@ -8224,6 +8223,7 @@ bicolourous
 broid
 baleens
 barkey
+bellower
 blobby
 byronically
 beatable
