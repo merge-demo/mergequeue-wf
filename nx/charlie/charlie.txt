@@ -7261,7 +7261,6 @@ centriscid
 clarine
 centriscidae
 cups
-centriscoid
 cappadine
 centriscus
 centrism
@@ -28068,6 +28067,7 @@ cloriodid
 comma
 conversions
 constituter
+centriscoid
 cramping
 crampingly
 crampish
