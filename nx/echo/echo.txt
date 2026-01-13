@@ -3914,7 +3914,6 @@ epigonus
 enright
 emigration
 ensorcerize
-enherit
 egressive
 echeneis
 entomotomy
@@ -11876,6 +11875,7 @@ emotivism
 excentric
 eumeromorphic
 entrepot
+enherit
 expertised
 emits
 except
