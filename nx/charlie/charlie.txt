@@ -5012,7 +5012,6 @@ cartularies
 carapache
 cabbagelike
 collaring
-cartware
 cabossed
 cartwheel
 coannex
@@ -15427,6 +15426,7 @@ cabins
 claptraps
 clapwort
 culbuter
+cartware
 claque
 calipering
 canneries
