@@ -283,6 +283,7 @@ backare
 baal
 buisson
 beaune
+beguilement
 backarrows
 backbar
 bedright
@@ -5425,7 +5426,6 @@ biographical
 begrutten
 boltstrake
 beguess
-beguilement
 biunial
 beguilements
 biferous
