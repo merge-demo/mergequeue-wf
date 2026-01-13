@@ -3933,7 +3933,6 @@ gyges
 galloperdix
 gymnarchidae
 gallotannate
-gemlike
 grossen
 guaycuru
 gyroplane
@@ -10576,6 +10575,7 @@ gyneocracy
 gallivanter
 grinderies
 grasset
+gemlike
 grecoue
 gurmukhi
 gneissitic
