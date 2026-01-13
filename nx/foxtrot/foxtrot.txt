@@ -7444,7 +7444,6 @@ footplate
 flakiness
 feedlots
 formous
-forgivable
 fantasist
 flyness
 findy
@@ -11703,6 +11702,7 @@ fetidness
 fernsick
 frameless
 francomania
+forgivable
 fencer
 fanfish
 ferr
