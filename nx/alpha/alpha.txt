@@ -1381,6 +1381,7 @@ acceptability
 antistimulant
 amintor
 acceptance
+arenicolous
 axisymmetrical
 absorbent
 athalline
@@ -7890,7 +7891,6 @@ amygdules
 apospory
 alerting
 ales
-arenicolous
 alkalis
 acetphenetidin
 antiracial
