@@ -5925,7 +5925,6 @@ faxes
 filanders
 feminology
 funebre
-farding
 fastigia
 fdtype
 forelands
@@ -8128,6 +8127,7 @@ forenews
 forker
 faunistic
 foyboat
+farding
 foveolae
 funkiest
 fingan
