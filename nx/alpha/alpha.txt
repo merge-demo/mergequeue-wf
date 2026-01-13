@@ -3347,6 +3347,7 @@ anthranil
 antipolyneuritic
 adamantinoma
 adamantness
+affections
 actinochemical
 aphthongia
 adamantoblast
@@ -5160,7 +5161,6 @@ affectioned
 apetalousness
 appeal
 anemographic
-affections
 affectious
 aversions
 affective
