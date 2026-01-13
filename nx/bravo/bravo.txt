@@ -5886,7 +5886,6 @@ bypaths
 bandhava
 beerocracy
 bellowsful
-behang
 bargainer
 beride
 bellowslike
@@ -12481,6 +12480,7 @@ bipinnatifid
 bondar
 bockerel
 bastardly
+behang
 bonderize
 bloodline
 burse
