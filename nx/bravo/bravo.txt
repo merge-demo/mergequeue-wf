@@ -11063,7 +11063,6 @@ bottleholder
 blk
 birri
 bhoosa
-bakwiri
 bromin
 buckshot
 blo
@@ -16740,6 +16739,7 @@ bucketmaking
 basketfuls
 bromaurate
 blithehearted
+bakwiri
 besiege
 blemishing
 bishopship
