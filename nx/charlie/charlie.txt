@@ -9137,7 +9137,6 @@ charters
 cryptograms
 cindered
 chartist
-chartless
 caricatured
 chartography
 condiments
@@ -21828,6 +21827,7 @@ crumped
 copyright
 crunchable
 condurangin
+chartless
 cone
 compt
 communistical
