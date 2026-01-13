@@ -2592,7 +2592,6 @@ foresheet
 ferromanganese
 ferrometer
 ferronatrite
-follis
 florideae
 fluorouracil
 financiere
@@ -5212,6 +5211,7 @@ faceting
 flatted
 flatteringness
 flowerer
+follis
 foreshadowing
 fetalization
 funny

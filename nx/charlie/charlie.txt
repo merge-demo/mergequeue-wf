@@ -4765,7 +4765,6 @@ coindicate
 carphiophiops
 ceiler
 calonyction
-carphology
 carpid
 cogredient
 conclaves
@@ -20516,6 +20515,7 @@ cotham
 cobwebbiest
 coasting
 compassion
+carphology
 compassionate
 couthiness
 candidateship
