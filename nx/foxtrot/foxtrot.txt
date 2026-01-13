@@ -2376,6 +2376,7 @@ faburden
 fingernail
 flanged
 ferigee
+fervorlessness
 floundering
 futhorcs
 fleer
@@ -10366,7 +10367,6 @@ factor
 frenziedness
 foundationless
 finfoot
-fervorlessness
 fustilugs
 farriers
 fingerleaf
