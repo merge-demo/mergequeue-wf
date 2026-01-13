@@ -7465,7 +7465,6 @@ goodmen
 grimacingly
 gorgelet
 gamotropic
-geonic
 gastrotaxis
 grewt
 grampuses
@@ -7658,6 +7657,7 @@ graphic
 gipping
 gracilis
 gracing
+geonic
 gimblet
 gastrodialysis
 graft
