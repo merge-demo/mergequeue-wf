@@ -3736,7 +3736,6 @@ gynandria
 grisaille
 georgie
 galvanize
-geothermometer
 garishness
 guajillo
 gpm
@@ -9307,6 +9306,7 @@ gigantal
 gizzened
 gayly
 garishly
+geothermometer
 gastrectasia
 gateposts
 grotesqueness
