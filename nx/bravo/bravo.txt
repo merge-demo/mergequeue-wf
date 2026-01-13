@@ -14820,7 +14820,6 @@ blastostyle
 bennet
 betelnut
 brazened
-borrichia
 balaclava
 basketmaker
 bravers
@@ -17745,6 +17744,7 @@ bejumbled
 bawbees
 bumfs
 burnside
+borrichia
 bilharzia
 bauk
 burnt
