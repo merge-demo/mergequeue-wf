@@ -6542,6 +6542,7 @@ archpriest
 antasthenic
 amber
 antiparliament
+autocatharsis
 aiglet
 alectoriae
 anchoresses
@@ -8075,7 +8076,6 @@ algernon
 assassinator
 algesiometer
 algidity
-autocatharsis
 algidities
 algidness
 agriologist
