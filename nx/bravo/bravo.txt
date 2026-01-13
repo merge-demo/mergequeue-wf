@@ -9793,6 +9793,7 @@ bewonder
 breccia
 burdocks
 buffered
+bisubstitution
 bistipulate
 bistort
 bedarkened
@@ -9827,7 +9828,6 @@ boos
 brigandish
 bisubstituted
 benzoquinone
-bisubstitution
 babblingly
 bifurcated
 bubblebow
