@@ -1721,7 +1721,6 @@ esophagi
 eddoes
 expressivism
 elaioleucite
-eyebright
 extemporaneous
 eyecup
 emollescence
@@ -2558,6 +2557,7 @@ excepting
 electromagnetism
 euomphalus
 ebcdic
+eyebright
 elaborations
 euonymous
 edgemaking
