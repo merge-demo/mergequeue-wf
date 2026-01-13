@@ -5904,7 +5904,6 @@ fierasfer
 flounders
 fluorated
 flotas
-floatier
 flustrum
 fulcrums
 flidge
@@ -9666,6 +9665,7 @@ firing
 featherbone
 firemaster
 forlet
+floatier
 freeholdership
 feeders
 falcata
