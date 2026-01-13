@@ -2006,7 +2006,6 @@ galleass
 glosser
 goutify
 grubberies
-gars
 gregaloid
 generalness
 gambogic
@@ -3839,6 +3838,7 @@ giants
 gratifyingly
 glossology
 gristle
+gars
 gentian
 giantship
 garrafa
