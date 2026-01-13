@@ -8049,7 +8049,6 @@ frisked
 forespeaking
 factitive
 farfugium
-furcula
 filibustrous
 fissipedia
 foredeep
@@ -9429,6 +9428,7 @@ frankfurters
 functionary
 fastenings
 frails
+furcula
 fisheater
 familiarities
 furniment
