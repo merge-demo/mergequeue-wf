@@ -9675,7 +9675,6 @@ avocatory
 abandonedly
 albertina
 aviary
-amalgam
 ammochaetae
 apophonies
 amarantaceae
@@ -11947,6 +11946,7 @@ antigravitation
 apostrophize
 anaretical
 arc
+amalgam
 asymtotes
 anarthric
 aconitic
