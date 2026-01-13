@@ -1780,6 +1780,7 @@ digamist
 discede
 dwelled
 debarkment
+degauss
 doohickeys
 debarment
 debarrance
@@ -11052,7 +11053,6 @@ decades
 disclosable
 demonstrandum
 dhoti
-degauss
 dumfound
 dobbers
 divides
