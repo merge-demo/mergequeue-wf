@@ -6933,7 +6933,6 @@ flaggings
 flushingly
 figurist
 feline
-fictitiously
 fatuous
 fornacic
 forebackwardly
@@ -10621,6 +10620,7 @@ fructescent
 filmily
 framable
 formylate
+fictitiously
 feracities
 founds
 fatidical
