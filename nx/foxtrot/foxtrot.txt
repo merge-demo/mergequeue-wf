@@ -6779,6 +6779,7 @@ frigoric
 fuchsinophil
 featherbed
 foreweep
+furnaceman
 forspeaking
 fitnesses
 flamming
@@ -10225,7 +10226,6 @@ fliting
 fenite
 ferruled
 fissile
-furnaceman
 frontlet
 fitter
 fashed
