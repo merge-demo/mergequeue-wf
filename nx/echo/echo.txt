@@ -1267,7 +1267,6 @@ estamin
 eloigner
 equicaloric
 exstemporal
-extremal
 eme
 enfeoffment
 extrascripturality
@@ -11540,6 +11539,7 @@ epinikion
 electro
 evincing
 entoblast
+extremal
 exoculating
 evincive
 echnida
