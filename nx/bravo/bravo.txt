@@ -5036,6 +5036,7 @@ breakwaters
 beetles
 bubal
 bewildering
+bewrite
 brompicrin
 baching
 bhunder
@@ -12695,7 +12696,6 @@ betided
 bourtrees
 belluine
 bushgoats
-bewrite
 beaklike
 bloodlessly
 bewrayed
