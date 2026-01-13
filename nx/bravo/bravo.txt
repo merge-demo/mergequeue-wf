@@ -8130,7 +8130,6 @@ bruxism
 brazils
 brast
 bid
-bidactylous
 boeing
 biddability
 biddably
@@ -15356,6 +15355,7 @@ birdwitted
 bridewort
 basiliscan
 bighorn
+bidactylous
 bridgebuilder
 bridgehead
 bridgemaking
