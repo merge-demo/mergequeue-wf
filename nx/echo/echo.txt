@@ -4279,7 +4279,6 @@ eaux
 eumeristic
 emcumbering
 expressways
-equidiagonal
 epityphlon
 escutcheons
 experiment
@@ -12799,6 +12798,7 @@ exines
 extensional
 exostosis
 exarchist
+equidiagonal
 engraves
 elementary
 exostrae
