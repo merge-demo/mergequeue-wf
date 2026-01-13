@@ -5154,7 +5154,6 @@ compeller
 chondrectomy
 caseharden
 capsaicin
-callosity
 casehardening
 candida
 casey
@@ -8421,6 +8420,7 @@ centroid
 chamberleted
 ceratorhine
 camanchaca
+callosity
 chambers
 chambertin
 chelonia
