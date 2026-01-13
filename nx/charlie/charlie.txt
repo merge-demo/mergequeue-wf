@@ -2096,7 +2096,6 @@ campaign
 clotheshorses
 coadjacence
 campaigns
-colostric
 campana
 campane
 campanella
@@ -16655,6 +16654,7 @@ clodknocker
 curiologic
 closable
 closecross
+colostric
 cunninger
 closed
 chloramphenicol
