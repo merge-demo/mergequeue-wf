@@ -4971,7 +4971,6 @@ delustered
 diplopy
 duellers
 drouked
-denominationalize
 durn
 demure
 dehumanisation
@@ -6573,6 +6572,7 @@ dearie
 ditched
 demonomanie
 desecrations
+denominationalize
 devotary
 dubious
 delimits

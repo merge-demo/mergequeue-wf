@@ -1256,7 +1256,6 @@ gumboil
 gonglike
 garbill
 guyline
-goosebone
 ganomalite
 garbler
 gradings
@@ -3414,6 +3413,7 @@ gonocoele
 gildhalls
 gonydial
 globed
+goosebone
 gater
 groovelike
 garrulinae
