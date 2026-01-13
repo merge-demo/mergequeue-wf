@@ -5454,7 +5454,6 @@ fruittime
 forthbringer
 formable
 fany
-flecking
 frivolers
 fusarole
 fennel
@@ -8546,6 +8545,7 @@ fetlock
 fiddledeedee
 fidley
 flailing
+flecking
 firehall
 flatwise
 foramen
