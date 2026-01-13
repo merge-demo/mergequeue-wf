@@ -277,6 +277,7 @@ farceuse
 feoffeeship
 foetors
 foiled
+ferricyanate
 foretimes
 foxhounds
 firedamp
@@ -5326,7 +5327,6 @@ forceput
 forficula
 fingerprinted
 forehearth
-ferricyanate
 franchisal
 feelinglessly
 fibrilation
