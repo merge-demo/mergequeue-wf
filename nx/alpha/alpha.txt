@@ -13370,7 +13370,6 @@ ankylostomiasis
 ankylotic
 ankles
 aetolian
-aminase
 assimilatory
 ameban
 awny
@@ -18734,6 +18733,7 @@ arumin
 ave
 ancientry
 adinidan
+aminase
 attachers
 archdukes
 anisocercal
