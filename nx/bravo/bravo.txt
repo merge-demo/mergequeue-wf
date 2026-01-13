@@ -3468,6 +3468,7 @@ boughpot
 baroreceptor
 basto
 bucklandite
+brachelytrous
 bibliolatrous
 bathylite
 barquest
@@ -4625,7 +4626,6 @@ bellowing
 bradyauxesis
 balata
 buntal
-brachelytrous
 blader
 beslaved
 bouts
