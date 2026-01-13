@@ -3466,7 +3466,6 @@ bastions
 boughpot
 baroreceptor
 basto
-baguios
 bucklandite
 bibliolatrous
 bathylite
@@ -3909,6 +3908,7 @@ breadline
 baxtone
 brachyskelic
 boughten
+baguios
 bergylt
 breveted
 bint
