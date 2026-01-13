@@ -5005,7 +5005,6 @@ bibation
 bindweb
 ballonette
 buda
-barukhzy
 besieger
 beetewk
 barways
@@ -13745,6 +13744,7 @@ bracketwise
 bourgade
 beeped
 bonailie
+barukhzy
 bourgeoisie
 blessingly
 butine
