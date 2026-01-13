@@ -15072,6 +15072,7 @@ bredbergite
 baumhauerite
 bredes
 boutel
+balsamum
 breakable
 blindfoldedly
 betainogen
@@ -16480,7 +16481,6 @@ bedazzling
 bouffes
 bruno
 barmiest
-balsamum
 belemnoidea
 bridgeless
 bellibone
