@@ -4683,7 +4683,6 @@ eyeopener
 eryhtrism
 encyclopaedically
 extraterritorially
-encyclopedia
 eucryphia
 encyclopediacal
 euryscope
@@ -7095,6 +7094,7 @@ envelops
 euphorbiaceous
 enduing
 encarnalise
+encyclopedia
 encephalopsychesis
 eulogise
 extraperitoneal
