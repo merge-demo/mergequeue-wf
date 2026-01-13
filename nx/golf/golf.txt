@@ -4916,6 +4916,7 @@ giinwale
 granitiferous
 grossulariaceae
 goyim
+gyn
 garlandless
 girderage
 gladier
@@ -7650,7 +7651,6 @@ gracilariidae
 grivna
 grainy
 goodhumoredness
-gyn
 gunsel
 grunch
 graphic
