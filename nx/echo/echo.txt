@@ -4194,6 +4194,7 @@ entune
 evacuates
 eicosane
 earthlight
+entropy
 empresses
 emprint
 emprises
@@ -4928,7 +4929,6 @@ eupterotidae
 endaspidean
 emusify
 euhemerize
-entropy
 enticed
 exencephalic
 ectocoelic
