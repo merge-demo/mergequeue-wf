@@ -11399,7 +11399,6 @@ eyeflap
 empennages
 ergamine
 eructate
-eyebree
 epichoric
 enough
 enveloping
@@ -12131,6 +12130,7 @@ exploits
 ethnogeography
 etageres
 egally
+eyebree
 embastioned
 elasmobranchian
 excusably
