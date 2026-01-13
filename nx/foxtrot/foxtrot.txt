@@ -8566,7 +8566,6 @@ fabledom
 foretime
 flapped
 forehatchway
-flusterate
 feltwork
 figs
 fortification
@@ -8704,6 +8703,7 @@ folium
 funariaceous
 forth
 freesia
+flusterate
 flaunters
 fryers
 funiculate
