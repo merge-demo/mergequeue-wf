@@ -498,7 +498,6 @@ enanthesis
 epitheliomata
 evector
 ecclesia
-ecclesiarchy
 elapsing
 extoll
 engineer
@@ -13668,6 +13667,7 @@ ecphonesis
 exampling
 exorcisation
 epilogism
+ecclesiarchy
 embacle
 enforcement
 estrays
