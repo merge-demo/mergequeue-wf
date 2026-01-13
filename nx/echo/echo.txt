@@ -4621,7 +4621,6 @@ eigenvalues
 enchyma
 estheticism
 exencephalus
-evalue
 electorally
 exquisitiveness
 efficaciously
@@ -6121,6 +6120,7 @@ epistasy
 endocarpic
 enmeshment
 enrols
+evalue
 equivote
 enmity
 eparchean
