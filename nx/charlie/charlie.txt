@@ -16276,7 +16276,6 @@ clinohumite
 childermas
 constringency
 clinoid
-clinology
 clinometer
 clinometry
 cantos
@@ -21462,6 +21461,7 @@ concoagulate
 congestions
 cannibality
 concoct
+clinology
 caravan
 crackable
 caseweed
