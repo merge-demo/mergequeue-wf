@@ -3405,6 +3405,7 @@ boatloading
 bays
 bandstands
 basiophthalmous
+baviere
 bassetting
 botrychium
 bassy
@@ -5447,7 +5448,6 @@ biweeklies
 brisling
 brooklynite
 bilch
-baviere
 bianco
 balai
 bandying
