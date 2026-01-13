@@ -5950,6 +5950,7 @@ beachier
 buyouts
 bottlenecks
 ballistic
+biosensor
 bolstered
 blockishness
 benzaldehyde
@@ -8168,7 +8169,6 @@ binucleate
 barble
 befouls
 biding
-biosensor
 bidirectional
 biophagy
 boltonias
