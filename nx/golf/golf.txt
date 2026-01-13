@@ -5795,6 +5795,7 @@ gobiid
 goldbird
 goosecap
 groovers
+glaiket
 gonidic
 gangways
 gypsumed
@@ -8836,7 +8837,6 @@ garbles
 guileful
 generable
 gablock
-glaiket
 gasterophilus
 gonogenesis
 gregariously
