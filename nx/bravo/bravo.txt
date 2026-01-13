@@ -12928,7 +12928,6 @@ borolanite
 bifoil
 birthplace
 bacchiac
-bangster
 bkpt
 burk
 basihyoid
@@ -15012,6 +15011,7 @@ brinston
 backspear
 buccina
 boccale
+bangster
 branchiate
 barleybreak
 basketing
