@@ -10729,7 +10729,6 @@ bogeys
 brandies
 brooches
 blandisher
-becurtained
 boutell
 buffle
 bacillogenous
@@ -15241,6 +15240,7 @@ backstay
 bronziest
 besmutted
 barberfish
+becurtained
 briarwood
 bribable
 bribees
