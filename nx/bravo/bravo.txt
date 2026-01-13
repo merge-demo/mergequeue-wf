@@ -15531,6 +15531,7 @@ batonnier
 batta
 bystander
 bifollicular
+borosilicate
 banshees
 breakdowns
 brimmering
@@ -16733,7 +16734,6 @@ bustles
 belait
 biserrate
 befringed
-borosilicate
 bubblelike
 bottekin
 bucketmaking
