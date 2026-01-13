@@ -5717,6 +5717,7 @@ catarrhs
 coburgher
 calcitic
 catasarka
+confix
 cellblock
 catasetum
 chested
@@ -22046,7 +22047,6 @@ clairschacher
 confit
 caesalpiniaceous
 comparts
-confix
 confixing
 carf
 conflagration
