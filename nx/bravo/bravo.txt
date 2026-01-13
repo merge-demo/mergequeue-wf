@@ -11175,7 +11175,6 @@ brawniest
 betatter
 buckler
 brotan
-beflounce
 bipenniform
 bespit
 beknottedly
@@ -12964,6 +12963,7 @@ bursectomy
 byssogenous
 boot
 big
+beflounce
 bangalow
 bootees
 battlemented
