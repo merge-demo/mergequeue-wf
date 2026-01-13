@@ -3266,6 +3266,7 @@ capitana
 capitated
 capitatim
 capitation
+chorister
 cainite
 casimere
 capitations
@@ -12002,7 +12003,6 @@ chorist
 cyanuret
 characetum
 choristate
-chorister
 centralization
 choristoblastoma
 choristoneura
