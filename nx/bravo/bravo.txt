@@ -6347,7 +6347,6 @@ bibs
 benzanthrone
 bifarious
 bipolarize
-begalling
 breakpoints
 begrace
 buffalofishes
@@ -13530,6 +13529,7 @@ branchiostoma
 burgs
 bleeding
 bottleman
+begalling
 bulse
 benzin
 bepun
