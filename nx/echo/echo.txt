@@ -5282,7 +5282,6 @@ endorsees
 emeriti
 eosinophil
 enureses
-epicoracoidal
 eustachium
 ernest
 estocs
@@ -9955,6 +9954,7 @@ exorhason
 endangers
 esmeraldite
 extraterrestrial
+epicoracoidal
 enterprises
 endostoma
 externality
