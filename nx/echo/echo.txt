@@ -5137,6 +5137,7 @@ expression
 endodontology
 exundancy
 enoch
+eructating
 electroosmotic
 epiclinal
 euphorbiaceae
@@ -11940,7 +11941,6 @@ extracostal
 endotheliolysin
 epicedial
 epanagoge
-eructating
 enhorror
 ecuador
 excise
