@@ -3891,6 +3891,7 @@ footslogged
 fluidextract
 findable
 fruz
+flotas
 foiling
 function
 fiddle
@@ -5909,7 +5910,6 @@ fattening
 fierasfer
 flounders
 fluorated
-flotas
 flustrum
 fulcrums
 flidge
