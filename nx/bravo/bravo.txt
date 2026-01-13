@@ -836,6 +836,7 @@ beflags
 boohoos
 bravura
 brindlish
+bebait
 bleachs
 bloody
 bunters
@@ -10397,7 +10398,6 @@ benchwarmer
 bidarkee
 brachering
 beetlehead
-bebait
 bummest
 bepainting
 bowpin
