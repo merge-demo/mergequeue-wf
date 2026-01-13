@@ -2442,7 +2442,6 @@ gruesomer
 gleemaiden
 gyrencephalous
 gonochoristic
-gomukhi
 geometricism
 glariest
 gnawable
@@ -8495,6 +8494,7 @@ gospodipoda
 gulling
 geraniaceae
 grewhound
+gomukhi
 gestio
 glottises
 gastaldite

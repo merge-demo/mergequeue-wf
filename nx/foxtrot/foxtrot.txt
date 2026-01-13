@@ -6866,6 +6866,7 @@ faithfuls
 forams
 fasola
 funbre
+format
 fungin
 fermenting
 forewonted
@@ -6893,7 +6894,6 @@ fabled
 forbearable
 foliary
 frescoers
-format
 fluigramme
 favoringly
 favourableness
