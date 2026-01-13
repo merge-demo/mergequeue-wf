@@ -3635,6 +3635,7 @@ carabiniere
 carabinieri
 craterkin
 cotrespasser
+condoler
 choosable
 caraboa
 caaba
@@ -21741,7 +21742,6 @@ condoled
 condolence
 condolent
 cuna
-condoler
 coaxers
 civically
 coleuses
