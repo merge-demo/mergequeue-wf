@@ -12216,7 +12216,6 @@ disfigurer
 dustrags
 didactician
 diasper
-depositure
 degausser
 despiciency
 demander
@@ -13438,6 +13437,7 @@ deleing
 disembarkations
 decedents
 disquisitions
+depositure
 disquisitor
 delicately
 dismarble
