@@ -4828,6 +4828,7 @@ fullwords
 frosteds
 flu
 faena
+fitcher
 falsen
 forties
 floroon
@@ -6817,7 +6818,6 @@ fraternising
 falciform
 fass
 founding
-fitcher
 fantasy
 fleechment
 formalizations
