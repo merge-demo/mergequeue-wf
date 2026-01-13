@@ -9518,7 +9518,6 @@ capos
 checky
 cityful
 circularising
-calorimeters
 cacochymia
 checkless
 checklist
@@ -31676,6 +31675,7 @@ cushioned
 cushionet
 cushionflower
 cushioning
+calorimeters
 celestial
 cushionless
 ciruses
