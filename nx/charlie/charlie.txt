@@ -3485,7 +3485,6 @@ capsella
 calyptras
 capsian
 collectress
-ceruses
 chullpa
 capsicums
 capsid
@@ -16676,6 +16675,7 @@ closeness
 cedric
 climbing
 cypselidae
+ceruses
 closeouts
 crotchety
 closer
