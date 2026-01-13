@@ -9016,7 +9016,6 @@ equiglacial
 episcenium
 empyreans
 epibranchial
-ectocyst
 emmies
 explanate
 epizooty
@@ -13882,6 +13881,7 @@ ecchymoma
 extradosed
 entireties
 environments
+ectocyst
 ectobronchium
 enviers
 endophyte
