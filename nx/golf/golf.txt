@@ -785,7 +785,6 @@ ginneries
 goose
 gracefullest
 ghrush
-gandergoose
 gorble
 girllikeness
 grinnellia
@@ -1367,6 +1366,7 @@ ganocephalan
 guillotiner
 glomerulus
 galloner
+gandergoose
 glorifier
 guipures
 gunbarrel
