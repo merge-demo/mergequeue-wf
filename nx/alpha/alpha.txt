@@ -5443,6 +5443,7 @@ australasian
 acrostichic
 aftercooler
 autocollimate
+anticorona
 ack
 argotic
 apological
@@ -14956,7 +14957,6 @@ aljama
 abovesaid
 anticonventional
 anticor
-anticorona
 anticorrosiveness
 alachah
 abdominals
