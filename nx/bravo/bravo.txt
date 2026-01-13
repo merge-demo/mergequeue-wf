@@ -8059,7 +8059,6 @@ bumping
 bleakish
 babble
 bicolorous
-betrayal
 bicolors
 bidder
 bullescene
@@ -11253,6 +11252,7 @@ boder
 burkes
 batterfang
 brazenness
+betrayal
 bracts
 bezants
 borghalpenny
