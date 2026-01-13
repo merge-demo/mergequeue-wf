@@ -2166,7 +2166,6 @@ endleaf
 enfoil
 exterminatress
 enanthematous
-epoxy
 esophagostenosis
 eyestring
 ensorceling
@@ -2960,6 +2959,7 @@ elias
 epitomiser
 epistomal
 essentializing
+epoxy
 etypically
 egyptian
 embank
