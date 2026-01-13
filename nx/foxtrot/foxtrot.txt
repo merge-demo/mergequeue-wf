@@ -7654,7 +7654,6 @@ freezable
 fervors
 forril
 festino
-fowk
 fizzling
 farrier
 fossula
@@ -9064,6 +9063,7 @@ facade
 flayed
 fondling
 fasc
+fowk
 fizelyite
 feeling
 foredesk
