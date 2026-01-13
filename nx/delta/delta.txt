@@ -6668,7 +6668,6 @@ desesperance
 deshabille
 dinitrophenol
 diplohedron
-downcurved
 desyatin
 deaconries
 desicate
@@ -14710,6 +14709,7 @@ decasemic
 deviative
 dks
 dlvy
+downcurved
 diademed
 deburse
 dm
