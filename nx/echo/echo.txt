@@ -100,7 +100,6 @@ ephedraceae
 electrophysicist
 entrails
 encircling
-eulysite
 earning
 ecotone
 engraffed
@@ -11439,6 +11438,7 @@ encephalosis
 edgebone
 ependymary
 everted
+eulysite
 euouae
 eli
 exhaustion
