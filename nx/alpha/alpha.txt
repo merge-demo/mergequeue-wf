@@ -9840,7 +9840,6 @@ adagial
 artificious
 avoue
 alternator
-abandonee
 abu
 arachnoidean
 amaurosis
@@ -17567,6 +17566,7 @@ abidingness
 appendance
 appendant
 absampere
+abandonee
 androspore
 antixerophthalmic
 appendency
