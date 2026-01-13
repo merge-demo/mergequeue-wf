@@ -6648,6 +6648,7 @@ disesteemer
 dollmaker
 decadianome
 dynast
+disalign
 disendows
 drawarm
 dipneedle
@@ -15792,7 +15793,6 @@ daring
 dioscoreaceae
 disocclude
 domdaniel
-disalign
 dorsalgia
 dorsalwards
 doxantha
