@@ -4393,7 +4393,6 @@ elenchtical
 electrolyzer
 encephalosclerosis
 evisite
-endoplastule
 euornithes
 enapt
 ethnog
@@ -8443,6 +8442,7 @@ elianic
 encinas
 ecstasies
 epoxyed
+endoplastule
 epoxies
 employed
 easterlies
