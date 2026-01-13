@@ -9687,7 +9687,6 @@ embryol
 equational
 escopette
 external
-epicoelar
 extraterritorial
 ethylhydrocupreine
 euergetes
@@ -11205,6 +11204,7 @@ extatic
 exportations
 evanescible
 empoison
+epicoelar
 evanescing
 exorbitancy
 expilation
