@@ -3456,7 +3456,6 @@ dorsobranchiata
 defoliants
 defoliate
 doom
-defoliations
 disjunct
 debilitant
 decelerating
@@ -4650,6 +4649,7 @@ demitint
 demitoilet
 deteriorated
 denticulately
+defoliations
 dilutive
 dipterologist
 downswings
