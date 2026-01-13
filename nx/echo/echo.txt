@@ -5286,6 +5286,7 @@ epicoracoidal
 eustachium
 ernest
 estocs
+electrocorticogram
 ergodicity
 eliminability
 ebionite
@@ -5798,7 +5799,6 @@ evade
 emulatory
 efficace
 electrovalency
-electrocorticogram
 eggshells
 exfoliation
 erlkings
