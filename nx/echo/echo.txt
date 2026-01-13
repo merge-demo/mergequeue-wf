@@ -3076,7 +3076,6 @@ euglandina
 elytrostenosis
 elytrotomy
 epistolatory
-elixir
 enraging
 exhortatory
 elixiviate
@@ -13153,6 +13152,7 @@ experimenters
 enheaven
 empyreuma
 engraphy
+elixir
 ecesises
 effronted
 earthborn
