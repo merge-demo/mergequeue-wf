@@ -3512,7 +3512,6 @@ gentlehood
 greenlandish
 gertie
 geggery
-glamourize
 gesturist
 geothermic
 gleaners
@@ -4085,6 +4084,7 @@ gesan
 gossipy
 gotched
 gopherroot
+glamourize
 gynostegium
 gabendum
 ginorite
