@@ -10750,6 +10750,7 @@ backswimmer
 bemete
 blennenteria
 box
+bogle
 biti
 benzalhydrazine
 bandfish
@@ -14737,7 +14738,6 @@ balustrade
 balletically
 bioscientist
 brotheler
-bogle
 broilingly
 buffets
 babion

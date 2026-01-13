@@ -10193,6 +10193,7 @@ ammonobasic
 amelus
 alumine
 amen
+aufgabe
 agathosma
 amenability
 atoll
@@ -23445,7 +23446,6 @@ abasing
 auditotoria
 audubon
 aiglets
-aufgabe
 accentuation
 anguishous
 auftakt
