@@ -5537,7 +5537,6 @@ encourage
 exotism
 etherlike
 enfeoffing
-episcopant
 erudit
 exhaustedly
 extendibility
@@ -13580,6 +13579,7 @@ ectadenia
 enrobe
 emulation
 epikeia
+episcopant
 esoteric
 exsufflate
 exsufflation
