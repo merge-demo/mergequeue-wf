@@ -7922,7 +7922,6 @@ clinician
 cession
 clapotis
 cessionaire
-castaway
 cessor
 cesspit
 cesspits
@@ -28984,6 +28983,7 @@ cricotus
 criddle
 cried
 criey
+castaway
 coxoceritic
 curiescopy
 crier
