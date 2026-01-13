@@ -648,7 +648,6 @@ diacetylene
 despairs
 dt
 demonstrate
-dampproof
 dampproofing
 discus
 determinist
@@ -14330,6 +14329,7 @@ device
 drogerman
 dunter
 diffidation
+dampproof
 direr
 dramatizing
 dispiritment
