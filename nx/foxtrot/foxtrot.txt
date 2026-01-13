@@ -5462,7 +5462,6 @@ fusarole
 fennel
 ferroconcretor
 friending
-fullbodied
 frigefact
 forbids
 futurity
@@ -10615,6 +10614,7 @@ foughty
 favose
 feudalist
 fruchtschiefer
+fullbodied
 farragos
 fructescent
 filmily
