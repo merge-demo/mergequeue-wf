@@ -4059,6 +4059,7 @@ finitude
 foraminiferal
 flushable
 frab
+fauves
 fluking
 froise
 foxfish
@@ -6966,7 +6967,6 @@ freekirker
 fumigations
 flaxseeds
 fleyedly
-fauves
 fragmented
 fishback
 formyls
