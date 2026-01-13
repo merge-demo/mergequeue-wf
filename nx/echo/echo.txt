@@ -1345,7 +1345,6 @@ escuages
 explicatively
 ericophyte
 efface
-enthymematical
 equalized
 effacers
 evaginable
@@ -2572,6 +2571,7 @@ expeditely
 enacts
 escadrilles
 electrobiological
+enthymematical
 exorcist
 eatable
 emptiable
