@@ -6797,6 +6797,7 @@ entitle
 elixed
 evangelistarion
 enculturating
+extractive
 encyclopedist
 entitling
 essenian
@@ -6858,7 +6859,6 @@ epitome
 exterior
 eleutherozoa
 embarque
-extractive
 ergo
 eleusinion
 entomologies
