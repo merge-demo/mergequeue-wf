@@ -620,6 +620,7 @@ foreknows
 forpet
 forints
 feasted
+fissirostral
 finders
 filippic
 fumishness
@@ -5964,7 +5965,6 @@ fulsamic
 foreplanting
 folgerite
 fencepost
-fissirostral
 fantasmagoric
 figurings
 furlers
