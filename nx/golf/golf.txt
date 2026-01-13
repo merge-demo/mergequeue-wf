@@ -8440,7 +8440,6 @@ groundman
 graith
 glaciers
 gheber
-gravamen
 grawls
 gropes
 gigglier
@@ -8747,6 +8746,7 @@ growler
 graziers
 golosh
 geognostically
+gravamen
 gnathonic
 girosols
 gunneries
