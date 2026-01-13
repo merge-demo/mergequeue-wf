@@ -19669,7 +19669,6 @@ comade
 catechise
 comagmatic
 comake
-comaker
 cichar
 comals
 comamie
@@ -31190,6 +31189,7 @@ chakra
 cuproammonium
 cunningly
 coccygeus
+comaker
 cuprobismutite
 cryolite
 corrosive
