@@ -1529,6 +1529,7 @@ ahuatle
 anthroponomy
 airborn
 annite
+authorization
 accomplicity
 archcozener
 accomplisher
@@ -15808,7 +15809,6 @@ amberiferous
 antiepileptic
 amphisbaenian
 afloat
-authorization
 antipyics
 acepots
 antipyonin
