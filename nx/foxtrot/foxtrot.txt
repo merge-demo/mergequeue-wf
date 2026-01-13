@@ -5633,6 +5633,7 @@ flacourtiaceae
 felsitic
 fauster
 flyby
+facsimilize
 fratch
 furacious
 forfault
@@ -8453,7 +8454,6 @@ foppish
 forpine
 furca
 featherdom
-facsimilize
 fique
 fantail
 fathercraft
