@@ -12659,7 +12659,6 @@ chub
 chubascos
 coons
 calin
-cellulating
 candlepin
 cayuco
 condores
@@ -18926,6 +18925,7 @@ calligrapher
 colladas
 crematoria
 collage
+cellulating
 collagenase
 collagenous
 churchman
