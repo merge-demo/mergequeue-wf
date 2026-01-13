@@ -2882,7 +2882,6 @@ bursted
 barracouta
 brushlessness
 bicep
-blanketless
 bartenders
 bridebowl
 boskage
@@ -5364,6 +5363,7 @@ biharmonic
 borderlines
 butterscotch
 bombace
+blanketless
 bacchante
 balmy
 biguanide
