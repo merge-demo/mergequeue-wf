@@ -2590,6 +2590,7 @@ brio
 burlington
 baryphonia
 bronzesmith
+biotelemetry
 bastardizing
 banzai
 baris
@@ -8905,7 +8906,6 @@ bedchamber
 binotonous
 bedeck
 bazaar
-biotelemetry
 brachystaphylic
 bleeder
 biostratigraphy
