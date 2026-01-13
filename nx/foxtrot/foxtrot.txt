@@ -3395,6 +3395,7 @@ febricity
 fiascoes
 fireshine
 foretalk
+fatwood
 forprise
 fiendly
 featurely
@@ -5352,7 +5353,6 @@ fuligula
 flukes
 fumage
 fluoridize
-fatwood
 felix
 fulciform
 fretters
