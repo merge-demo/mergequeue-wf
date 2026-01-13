@@ -50,7 +50,6 @@ brachydomal
 bodleian
 brutalizes
 bolbanac
-bodement
 bechirp
 bish
 bundocks
@@ -7772,6 +7771,7 @@ bheestie
 beblot
 bespangles
 bathyscaphe
+bodement
 bravoite
 beach
 bullan
