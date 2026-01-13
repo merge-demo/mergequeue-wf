@@ -2754,7 +2754,6 @@ employment
 estadal
 enceint
 eleemosinar
-entity
 eeten
 equipotent
 electees
@@ -11646,6 +11645,7 @@ elfic
 empaneled
 ensear
 enforcibility
+entity
 embordering
 experienced
 epulosis
