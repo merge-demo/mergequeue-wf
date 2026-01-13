@@ -1069,6 +1069,7 @@ divisibleness
 dads
 dorsosternal
 denudations
+digammated
 darvon
 darwesh
 demotist
@@ -9426,7 +9427,6 @@ digamma
 dichlone
 demilegato
 downfeed
-digammated
 dodgier
 disseat
 doryline
