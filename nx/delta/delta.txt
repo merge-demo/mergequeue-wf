@@ -5831,7 +5831,6 @@ disanagrammatize
 daftest
 doxologizing
 dreidel
-dedecorous
 dourest
 dimagnesic
 depraver
@@ -12980,6 +12979,7 @@ differed
 druidesses
 desmoids
 dicephalous
+dedecorous
 demons
 decatholicize
 differers
