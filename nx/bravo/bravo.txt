@@ -670,7 +670,6 @@ brasseries
 bactriticone
 badderlocks
 basidiomycetous
-batrachoid
 banagos
 benignancy
 brolga
@@ -16090,6 +16089,7 @@ bronchotyphus
 bronchotome
 belucki
 bespectacled
+batrachoid
 barythymia
 basifiers
 boubous
