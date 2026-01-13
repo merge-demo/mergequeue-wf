@@ -681,6 +681,7 @@ eigenstate
 endothermy
 enshrouding
 electrostatic
+excitonic
 emaculate
 exsertion
 embrangling
@@ -2017,7 +2018,6 @@ economizing
 effetman
 electrine
 ekka
-excitonic
 ectoskeleton
 entoproct
 exophoric
