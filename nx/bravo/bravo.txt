@@ -7775,7 +7775,6 @@ beach
 bullan
 brocard
 bhindi
-bowstave
 beaufort
 bhishti
 bhistie
@@ -16321,6 +16320,7 @@ bloodguilt
 brassy
 beachmen
 barraclade
+bowstave
 bubo
 bluenesses
 brownouts
