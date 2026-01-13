@@ -8236,7 +8236,6 @@ cryptogamian
 chairwarmer
 chairwomen
 cyanocitta
-chaiseless
 chaises
 comfortabilities
 circumbendibuses
@@ -21816,6 +21815,7 @@ concours
 commoners
 crossbearer
 conductus
+chaiseless
 complementarily
 columbin
 condoling
