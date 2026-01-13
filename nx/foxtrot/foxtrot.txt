@@ -4103,7 +4103,6 @@ fergusonite
 featherbrain
 fir
 fattable
-formal
 fatalness
 fissipedal
 fiendful
@@ -5934,6 +5933,7 @@ forelands
 found
 freet
 fowlers
+formal
 flocced
 frustulose
 film
