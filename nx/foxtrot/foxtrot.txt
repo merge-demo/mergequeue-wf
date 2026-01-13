@@ -11191,7 +11191,6 @@ fremdness
 fibrinocellular
 felspar
 fungibility
-fadeout
 fideists
 fungicidally
 fungicides
@@ -11490,6 +11489,7 @@ ferrite
 foredescribe
 figural
 finnmarks
+fadeout
 furthest
 frise
 flittering
