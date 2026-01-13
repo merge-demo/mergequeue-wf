@@ -148,7 +148,6 @@ abater
 alanyl
 alcumy
 asbolin
-atoms
 abatised
 alcades
 abaton
@@ -7295,6 +7294,7 @@ affrontive
 albedo
 antidisestablishmentarian
 anthracaemia
+atoms
 alum
 albee
 acroterteria
