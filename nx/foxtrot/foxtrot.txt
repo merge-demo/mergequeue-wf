@@ -324,7 +324,6 @@ fragmentisation
 foregame
 fieriest
 flanks
-fraenums
 forebar
 fistnotes
 flambeed
@@ -734,6 +733,7 @@ foreclosed
 famous
 facilitating
 featherlet
+fraenums
 famp
 famuli
 fatshedera
