@@ -6530,7 +6530,6 @@ glycins
 grazing
 gymnasia
 groundage
-groundably
 gallivat
 grummels
 glassfish
@@ -7503,6 +7502,7 @@ gaudies
 geranial
 gades
 gonorrhoea
+groundably
 groundwater
 gazing
 gulpy
