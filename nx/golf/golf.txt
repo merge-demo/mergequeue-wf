@@ -5028,7 +5028,6 @@ glandered
 gurlet
 glittering
 genially
-gangliest
 gezerah
 gateage
 grouselike
@@ -6253,6 +6252,7 @@ gedd
 gonne
 greaves
 gopura
+gangliest
 goatstone
 gaum
 goatweed
