@@ -853,6 +853,7 @@ benzidin
 benzalcohol
 beffroy
 baggala
+baigneuses
 bandyman
 brannerite
 borderlight
@@ -998,7 +999,6 @@ bronchiocrisis
 barbarizes
 bitangent
 blain
-baigneuses
 boraces
 barmecidal
 balcony
