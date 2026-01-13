@@ -9475,7 +9475,6 @@ birectangular
 bireme
 begeck
 bacteriostat
-babishly
 betassel
 bookholder
 bulimulidae
@@ -13350,6 +13349,7 @@ banderillas
 burglar
 branchstand
 barman
+babishly
 bumbarge
 bodrag
 bromide
