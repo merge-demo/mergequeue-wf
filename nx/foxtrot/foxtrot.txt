@@ -6847,7 +6847,6 @@ ferme
 fiendliness
 frontal
 flaccidity
-footbeat
 forfalt
 faithfuls
 forams
@@ -10358,6 +10357,7 @@ friable
 fanged
 fingerings
 fluormeter
+footbeat
 ferrates
 farnesses
 factor
