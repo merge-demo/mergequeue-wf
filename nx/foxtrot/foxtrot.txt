@@ -8910,6 +8910,7 @@ fictious
 filosofe
 freeholder
 folia
+fief
 fleuron
 filiopietistic
 facilities
@@ -10235,7 +10236,6 @@ fulmar
 falcidian
 forehammer
 foresing
-fief
 firesider
 flaxen
 foreannouncement
