@@ -9617,7 +9617,6 @@ alveolariform
 antitetanic
 antihierarchic
 agriological
-alveolation
 alveole
 alveolectomy
 alveoli
@@ -21103,6 +21102,7 @@ aerobiont
 aclydes
 ascothoracica
 acritude
+alveolation
 aspirators
 aerographer
 ascribable
