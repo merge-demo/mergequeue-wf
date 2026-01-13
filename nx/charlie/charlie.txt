@@ -2863,7 +2863,6 @@ coambassador
 canonising
 canonist
 canonistical
-canonized
 catapult
 carboxyhemoglobin
 chalmer
@@ -27570,6 +27569,7 @@ characterised
 coverlids
 clairce
 coverslip
+canonized
 covertly
 colacobioses
 colloquialist
