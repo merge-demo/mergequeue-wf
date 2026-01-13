@@ -7470,6 +7470,7 @@ betrothing
 betrothment
 bacteriopurpurin
 betroths
+biodegradability
 bromine
 betrousered
 balinese
@@ -8962,7 +8963,6 @@ barbarousness
 biocoenotic
 bradding
 broth
-biodegradability
 biodegradable
 beleap
 biodegrading

@@ -554,7 +554,6 @@ gudgeoning
 glareole
 glyptography
 gup
-gullish
 ghetto
 garde
 getfd
@@ -2504,6 +2503,7 @@ gonopodial
 gallants
 gemmology
 gnathidium
+gullish
 gerbils
 geoisotherm
 golandause
