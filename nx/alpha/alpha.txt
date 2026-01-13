@@ -15228,7 +15228,6 @@ antigalactagogue
 ageusic
 antigambling
 arrowlike
-antiganting
 argol
 aftersupper
 advoyer
@@ -20253,6 +20252,7 @@ alluvio
 anauxite
 adjacence
 avicide
+antiganting
 androecium
 arrivistes
 assuager
