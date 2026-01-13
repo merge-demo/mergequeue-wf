@@ -833,6 +833,7 @@ gathering
 greensick
 goalage
 glareolidae
+gastroenteric
 geonim
 gwine
 gnathal
@@ -4924,7 +4925,6 @@ gleam
 glozes
 goldurns
 goatly
-gastroenteric
 gasthauses
 galleylike
 grasshopperish
