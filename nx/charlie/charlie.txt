@@ -4342,7 +4342,6 @@ corrects
 cigaresque
 caryatids
 caribal
-conserving
 chymosin
 cariban
 caribbean
@@ -13472,6 +13471,7 @@ cambibia
 categoricalness
 calcomp
 casting
+conserving
 cigaritos
 choloepus
 cygnid
