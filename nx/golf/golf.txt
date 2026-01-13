@@ -2335,6 +2335,7 @@ ge
 gagsters
 gingival
 guige
+gallicisms
 geistlich
 graviton
 gateman
@@ -3536,7 +3537,6 @@ gerrhosauridae
 gila
 gestalt
 gestaltist
-gallicisms
 gynecology
 gastrotomy
 grum
