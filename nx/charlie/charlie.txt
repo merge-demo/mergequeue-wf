@@ -8176,7 +8176,6 @@ cambion
 caracoling
 chaguar
 chahar
-chahars
 chemotaxonomy
 chai
 chay
@@ -12080,6 +12079,7 @@ choses
 chott
 chunky
 chotts
+chahars
 chou
 chinkiest
 chouan
