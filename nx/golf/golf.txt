@@ -3234,7 +3234,6 @@ gravecloth
 gaddis
 governmentalist
 grigs
-guardant
 guayabi
 gonycampsis
 gametoid
@@ -8079,6 +8078,7 @@ greenishness
 gusted
 gallocyanine
 gangliitis
+guardant
 gettering
 grumbly
 gs
