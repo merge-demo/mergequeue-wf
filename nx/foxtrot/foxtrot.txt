@@ -5114,6 +5114,7 @@ flumps
 flamelet
 fun
 fluidities
+foamy
 fuligo
 fundless
 fumettes
@@ -9856,7 +9857,6 @@ fleck
 forcy
 fadridden
 faddist
-foamy
 fretum
 fanegas
 fidget
