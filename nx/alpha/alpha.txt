@@ -12192,7 +12192,6 @@ alshain
 anticks
 asimen
 ancylopod
-acneiform
 acrider
 apocopes
 anatropous
@@ -19707,6 +19706,7 @@ anticathexis
 aristology
 artocarpous
 anamite
+acneiform
 authoress
 affirmly
 acrostichal
