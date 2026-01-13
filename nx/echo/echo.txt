@@ -4726,6 +4726,7 @@ eponymus
 ensuance
 englishism
 enrapture
+excitants
 eulogism
 executonis
 estre
@@ -12359,7 +12360,6 @@ embace
 euphemia
 eelbob
 exhaustive
-excitants
 einkanter
 essencing
 eucleidae
