@@ -8372,7 +8372,6 @@ familiars
 faradmeter
 flues
 forgot
-forking
 frogeye
 ferryway
 flaveria
@@ -9619,6 +9618,7 @@ factabling
 foller
 flaser
 futilitarian
+forking
 freightyard
 forwalk
 foolmonger
