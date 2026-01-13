@@ -4925,6 +4925,7 @@ blackheartedly
 brig
 bonnne
 border
+bindable
 brevets
 beefburgers
 beefeater
@@ -10928,7 +10929,6 @@ beadledom
 biggity
 bibbling
 blindball
-bindable
 befingered
 bangers
 boxball
