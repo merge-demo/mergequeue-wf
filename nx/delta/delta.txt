@@ -1289,7 +1289,6 @@ dissaved
 deregulate
 diobolons
 doodler
-dishy
 dolf
 defog
 daltonic
@@ -16575,6 +16574,7 @@ disharmonic
 decompile
 daman
 dambose
+dishy
 dissimilated
 dragonade
 diametrical
