@@ -5126,6 +5126,7 @@ furnishness
 flossa
 flareless
 frother
+forward
 foraminulous
 fuss
 flagellum
@@ -11597,7 +11598,6 @@ feathertop
 faradic
 fargite
 fussing
-forward
 furciferine
 fealty
 fideicommissary
