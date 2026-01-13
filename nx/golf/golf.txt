@@ -2703,6 +2703,7 @@ gervas
 guaranis
 gardeviance
 gibbles
+gunbright
 genevan
 giboia
 grudgingness
@@ -5212,7 +5213,6 @@ guavas
 gallates
 gemman
 guidwillie
-gunbright
 grandioseness
 gaussbergite
 glutenous
