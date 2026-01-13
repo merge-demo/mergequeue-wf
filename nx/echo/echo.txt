@@ -316,7 +316,6 @@ enema
 exhumers
 epigoneion
 enqueue
-entered
 endognath
 exomphalos
 endangering
@@ -6286,6 +6285,7 @@ esotropia
 earmarking
 enrollers
 endosmos
+entered
 eriocaulaceous
 eche
 endocortex
