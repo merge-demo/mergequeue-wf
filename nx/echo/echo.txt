@@ -3492,7 +3492,6 @@ errand
 exolete
 exothecate
 enfiladed
-esd
 epigean
 extradoses
 exteriors
@@ -4407,6 +4406,7 @@ enations
 euripos
 enbrave
 eggheadedness
+esd
 egotize
 eruptively
 experiential
