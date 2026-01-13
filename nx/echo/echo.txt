@@ -504,7 +504,6 @@ extoll
 engineer
 entrada
 empasm
-exody
 etesians
 equivocatingly
 extorsion
@@ -1243,6 +1242,7 @@ edaciousness
 educatress
 emetical
 embroscopic
+exody
 ennuyee
 epimorphosis
 echidnas
