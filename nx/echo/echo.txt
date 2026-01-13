@@ -6233,6 +6233,7 @@ eidology
 enplane
 ecorticate
 evolutive
+exopterygota
 expiscate
 enrollment
 enplaned
@@ -10460,7 +10461,6 @@ eleanor
 effluviums
 ericius
 enteroviral
-exopterygota
 etherin
 epochist
 exalate
