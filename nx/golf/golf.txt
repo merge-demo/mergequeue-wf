@@ -4563,7 +4563,6 @@ galactoma
 gumwoods
 gills
 graminiform
-ghostfishes
 gladdy
 grit
 gigantomachia
@@ -4956,6 +4955,7 @@ graphidiaceae
 glaga
 geologies
 gibbetted
+ghostfishes
 glagolic
 glucuronic
 garcon
