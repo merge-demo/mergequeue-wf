@@ -370,7 +370,6 @@ enlists
 eisegesis
 entoperipheral
 enameling
-elfship
 euboic
 eastling
 estang
@@ -7404,6 +7403,7 @@ entanglement
 extraperiodic
 extracurricular
 exercise
+elfship
 elohimic
 ephestia
 enregistering
