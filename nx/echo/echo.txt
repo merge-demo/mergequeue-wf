@@ -202,6 +202,7 @@ exploration
 euphemised
 electrolier
 equipoising
+enfief
 extraformal
 examiner
 ecclesiasticus
@@ -5898,7 +5899,6 @@ execrators
 exaggerativeness
 exclaims
 epitomise
-enfief
 enharbour
 electrometallurgy
 exocytosis
