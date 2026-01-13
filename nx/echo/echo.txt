@@ -7500,7 +7500,6 @@ employs
 exstemporaneous
 epauliere
 ectoprocta
-electroforming
 exocarp
 electroneutral
 epicede
@@ -9108,6 +9107,7 @@ equiproportional
 exograph
 endothermism
 erliche
+electroforming
 epicedian
 etiolating
 eldern
