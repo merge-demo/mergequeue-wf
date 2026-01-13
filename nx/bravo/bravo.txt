@@ -7560,7 +7560,6 @@ beverse
 bogota
 barbets
 blastocolla
-binocle
 balsamweed
 barrelmaking
 bourbonism
@@ -15745,6 +15744,7 @@ bands
 bonbonniere
 barycentric
 barbering
+binocle
 battarism
 brunonia
 broadlooms
