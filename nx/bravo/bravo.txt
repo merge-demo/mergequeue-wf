@@ -3115,6 +3115,7 @@ blindfold
 bibliothec
 benzedrine
 baculite
+backstrip
 bemixes
 blabby
 betraying
@@ -15300,7 +15301,6 @@ brickle
 bulbospinal
 bricklike
 beclose
-backstrip
 bricklining
 bucketing
 balneal
