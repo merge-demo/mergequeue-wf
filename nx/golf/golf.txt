@@ -9313,7 +9313,6 @@ gesithcund
 garo
 gigabyte
 gossamer
-griddler
 groceryman
 gourmanderie
 goitre
@@ -10661,6 +10660,7 @@ gastroperiodynia
 gurged
 goldmist
 glyoxalase
+griddler
 gortonite
 gliding
 generalizeable
