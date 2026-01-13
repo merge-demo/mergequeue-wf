@@ -3215,7 +3215,6 @@ fourcher
 flippantness
 fijian
 flittermouse
-frostwort
 fearnought
 flexionless
 fremt
@@ -6388,6 +6387,7 @@ ferriprussiate
 fibropurulent
 facadal
 filicite
+frostwort
 frizing
 floreted
 flunkey
