@@ -12587,7 +12587,6 @@ chronocarator
 citrine
 chronocyclegraph
 chronocrator
-chronogeneous
 combinedness
 chronogram
 chronogrammatic
@@ -19403,6 +19402,7 @@ colorectitis
 correspondingly
 chantable
 colorers
+chronogeneous
 cinerea
 carpocervical
 colorfastness
