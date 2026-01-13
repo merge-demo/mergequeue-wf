@@ -5437,7 +5437,6 @@ galatotrophic
 gumly
 gapper
 gastroduodenotomy
-gibus
 glynn
 gamogenetical
 graynesses
@@ -9460,6 +9459,7 @@ galloptious
 glycocholate
 gamble
 goto
+gibus
 gingivoglossitis
 gramps
 gingerliness
