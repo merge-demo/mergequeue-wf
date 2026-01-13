@@ -2538,7 +2538,6 @@ amicable
 abeyant
 aconelline
 assentatory
-aconine
 arbuscula
 aconital
 aconite
@@ -17089,6 +17088,7 @@ abstinence
 apodiabolosis
 arithmetize
 aluminite
+aconine
 apodyteria
 adverb
 apodyterium
