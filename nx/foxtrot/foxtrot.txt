@@ -4435,6 +4435,7 @@ fovent
 foals
 flogmaster
 fledgier
+follicle
 floppiest
 fishman
 float
@@ -4707,7 +4708,6 @@ flatwashes
 foreby
 fishpot
 forefeelingly
-follicle
 finca
 frivolizing
 fibroreticulate
