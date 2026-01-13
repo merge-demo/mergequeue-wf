@@ -6940,6 +6940,7 @@ arborist
 animal
 apportionable
 anoure
+antedon
 aniseeds
 appreciatorily
 annomination
@@ -25011,7 +25012,6 @@ awhirl
 aswim
 anamesite
 autotruck
-antedon
 awikiwiki
 asymmetral
 anionically
