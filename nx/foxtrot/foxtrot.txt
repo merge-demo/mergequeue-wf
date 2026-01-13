@@ -4796,7 +4796,6 @@ foreranks
 foulminded
 fellowshipped
 filigera
-forceps
 flagelliform
 fever
 folie
@@ -6953,6 +6952,7 @@ fletched
 fifes
 foolishly
 fleme
+forceps
 felafel
 feticidal
 flintwood
