@@ -6265,7 +6265,6 @@ basiliscus
 backspread
 bulblet
 benorth
-benefact
 beme
 bensall
 behaviorist
@@ -7035,6 +7034,7 @@ basing
 branchiostomidae
 bowlegged
 bowingly
+benefact
 balnea
 brothel
 balor
