@@ -2748,7 +2748,6 @@ consorting
 cannach
 cannalling
 clubhauling
-comedietta
 cannat
 chutney
 canned
@@ -10640,6 +10639,7 @@ cuts
 claustrophobe
 cryptesthetic
 conenchyma
+comedietta
 conglomerated
 catties
 cervicorn
