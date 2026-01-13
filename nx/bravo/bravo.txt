@@ -8450,7 +8450,6 @@ bowedness
 bikers
 becalmment
 bredi
-biorbital
 bedirter
 bedaze
 balita
@@ -16898,6 +16897,7 @@ buffeted
 brotchen
 botchiness
 borderless
+biorbital
 bubalises
 bietle
 bucketman
