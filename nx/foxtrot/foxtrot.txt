@@ -1641,7 +1641,6 @@ footwalk
 ferociousness
 forthcut
 flamboyantly
-focally
 fice
 feaberry
 fundulinae
@@ -9581,6 +9580,7 @@ frypan
 faithworthy
 footling
 finiteness
+focally
 fringier
 fleets
 fitroot
