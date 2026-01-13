@@ -357,6 +357,7 @@ electress
 eulogia
 expedient
 ethynyls
+exports
 ebon
 entomol
 esotericism
@@ -10422,7 +10423,6 @@ entomologizing
 excluder
 ethrogim
 ehatisaht
-exports
 eos
 etymic
 ergosterin
