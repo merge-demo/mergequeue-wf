@@ -10534,6 +10534,7 @@ adossee
 acatharsia
 amyloidosis
 anguille
+antum
 amusias
 amyloleucite
 afterwrath
@@ -16443,7 +16444,6 @@ antsiest
 accentus
 antsigne
 alkargen
-antum
 ambulatio
 apionol
 antwise
