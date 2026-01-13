@@ -38,7 +38,6 @@ allseeds
 aphorized
 aurine
 aethogen
-aerometeorograph
 acquiescement
 aquanaut
 autopsist
@@ -1055,6 +1054,7 @@ abt
 autoschediasm
 archreactionary
 ablend
+aerometeorograph
 abuilding
 abuleia
 antitorpedo
