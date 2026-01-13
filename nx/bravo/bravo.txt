@@ -6589,7 +6589,6 @@ bowldering
 bladderless
 berchemia
 borachio
-blazoned
 babbage
 battuta
 brazenly
@@ -7245,6 +7244,7 @@ bidri
 benzoquinoline
 blea
 bungarum
+blazoned
 bagginess
 bestiary
 burrawang
