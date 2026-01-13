@@ -9076,6 +9076,7 @@ ghostliness
 gaylussite
 gnatcatcher
 girasole
+glares
 gallium
 gravels
 gryllos
@@ -9850,7 +9851,6 @@ gorce
 gue
 globulinuria
 glycerolate
-glares
 gumweeds
 gnathostoma
 gutsily
