@@ -4244,6 +4244,7 @@ geod
 glutael
 gregarian
 ganef
+glacify
 gulflike
 guglet
 gossy
@@ -10393,7 +10394,6 @@ gratification
 garbanzos
 gyri
 giambeux
-glacify
 giggled
 gonyalgia
 gelatiniser
