@@ -9133,6 +9133,7 @@ curialities
 chartable
 charterers
 charterhouse
+compactors
 chartering
 charterism
 charters
@@ -20417,7 +20418,6 @@ conject
 conurbations
 clobbered
 centraxonia
-compactors
 continuingly
 compacts
 comites
