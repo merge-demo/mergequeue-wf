@@ -3304,7 +3304,6 @@ definiens
 derencephalocele
 decigram
 dartrous
-dialogistic
 dimensionally
 dumped
 definish
@@ -5747,6 +5746,7 @@ deliberating
 descendability
 duree
 disjoint
+dialogistic
 descriptor
 decasualizing
 diplanetism
