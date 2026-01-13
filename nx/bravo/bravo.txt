@@ -2814,6 +2814,7 @@ barites
 bolding
 bell
 betulaceous
+bullated
 baroqueness
 barneys
 banded
@@ -17221,7 +17222,6 @@ blksize
 brid
 baccillum
 brodee
-bullated
 broad
 boffo
 bridged
