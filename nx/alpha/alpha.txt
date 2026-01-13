@@ -2014,6 +2014,7 @@ acetosoluble
 acetostearin
 acetothienone
 acetotoluid
+alkalic
 accessible
 awellimiden
 argumentator
@@ -10249,7 +10250,6 @@ athetized
 anticoagulants
 ataxic
 aristocratically
-alkalic
 amerces
 amerciable
 agao
