@@ -5027,7 +5027,6 @@ econometer
 encyclopediac
 encaenia
 endophragmal
-equaling
 entomb
 enqueued
 encumbrances
@@ -13087,6 +13086,7 @@ ergates
 enslave
 emulousness
 embassador
+equaling
 explications
 ergotisms
 ende
