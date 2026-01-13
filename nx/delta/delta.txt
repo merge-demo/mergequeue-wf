@@ -4414,7 +4414,6 @@ deceits
 diceplay
 destabilized
 duress
-demy
 dwaible
 dorsimesal
 decahydrated
@@ -17205,6 +17204,7 @@ drives
 dredgings
 disulfate
 driveway
+demy
 decrepitation
 dingoes
 deferrizing
