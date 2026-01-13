@@ -4223,7 +4223,6 @@ gundogs
 gur
 guitarist
 gnathites
-gastroplication
 glaswegian
 gibbeted
 goney
@@ -8115,6 +8114,7 @@ gaslightness
 granitite
 ghain
 grudgeful
+gastroplication
 genteelish
 gesning
 gave
