@@ -1592,7 +1592,6 @@ deafmuteness
 disembrace
 deairing
 discernableness
-deairs
 dealate
 disbarred
 drupelet
@@ -8995,6 +8994,7 @@ dicoelious
 delirament
 dicolon
 disbar
+deairs
 dudine
 dicotyles
 delaminated
