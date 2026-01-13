@@ -7740,7 +7740,6 @@ geopolitic
 girning
 galvanized
 gunpowderous
-geomyid
 grizzliest
 goldworker
 gamins
@@ -10126,6 +10125,7 @@ gephyrocercal
 glottid
 genion
 gazetteer
+geomyid
 gonystylus
 goldenfleece
 gymnosporangium
