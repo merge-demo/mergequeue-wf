@@ -3422,7 +3422,6 @@ bioelectrogenesis
 busiest
 broider
 boletes
-bewall
 bittor
 boehmenism
 berascaled
@@ -14692,6 +14691,7 @@ bibliomanism
 brantness
 brants
 bararesque
+bewall
 branular
 babyishly
 beslimer
