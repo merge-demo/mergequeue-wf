@@ -4132,7 +4132,6 @@ geoffroyine
 globalization
 gimcrack
 gastrojejunal
-galictis
 griph
 grasshop
 glucolipid
@@ -6676,6 +6675,7 @@ gash
 geostatic
 grandioso
 gustoish
+galictis
 gonfalcon
 gradienter
 glossopyrosis
