@@ -3915,7 +3915,6 @@ extraboldface
 etruscans
 eminencies
 extramolecular
-evendown
 eminent
 easternized
 eminently
@@ -4109,6 +4108,7 @@ essenism
 eutheria
 ethological
 eulogizing
+evendown
 euhemerism
 ecdysis
 expertly
