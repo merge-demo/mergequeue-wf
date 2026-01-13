@@ -1913,6 +1913,7 @@ furling
 fangot
 froze
 fungible
+freebie
 factored
 finagling
 funds
@@ -9629,7 +9630,6 @@ flatette
 forepale
 final
 furuncular
-freebie
 frescos
 fleeciest
 freebooter
