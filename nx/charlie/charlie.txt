@@ -8088,7 +8088,6 @@ chlorosis
 chaetophobia
 crumples
 chiack
-chaetophoraceous
 cuvierian
 chaetopod
 castores
@@ -25542,6 +25541,7 @@ coronals
 coronamen
 coronate
 calp
+chaetophoraceous
 corrosible
 coronations
 chitchatty
