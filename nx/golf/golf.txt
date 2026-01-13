@@ -5171,7 +5171,6 @@ gummas
 grassland
 graciousness
 glycoside
-gasteromycete
 glossate
 glarier
 gregarinous
@@ -7100,6 +7099,7 @@ gaus
 gastrectomy
 gunwales
 grader
+gasteromycete
 glaucoma
 gesnerian
 glycolate
