@@ -3759,7 +3759,6 @@ gasoliner
 gos
 glyceral
 gastromalacia
-guardstone
 gulist
 gasterolichenes
 gaslighted
@@ -4168,6 +4167,7 @@ gemological
 growled
 geggee
 gyrectomy
+guardstone
 gimmickery
 gendering
 gangrenate
