@@ -5691,7 +5691,6 @@ belecture
 burbush
 belemnitic
 bairnlier
-belemnoid
 belayed
 bambinos
 bowssen
@@ -14533,6 +14532,7 @@ bagh
 brakeless
 brakeload
 bemotto
+belemnoid
 brakemaker
 brakeman
 builtin
