@@ -2323,7 +2323,6 @@ espressos
 exurbias
 endocrania
 expert
-entheal
 euphuism
 endosteum
 escalatory
@@ -5905,6 +5904,7 @@ exclave
 ethmonasal
 ericaceae
 etiolate
+entheal
 enheart
 enhearten
 enfevering
