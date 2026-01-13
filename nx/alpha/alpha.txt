@@ -9827,7 +9827,6 @@ acerata
 alveolodental
 airers
 ascolichenes
-adminiculate
 abducens
 anticlastic
 auricled
@@ -14929,6 +14928,7 @@ amidohexose
 avyayibhava
 auxesis
 avicular
+adminiculate
 anticonservatism
 anticonservativeness
 auricularis
