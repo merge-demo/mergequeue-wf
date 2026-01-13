@@ -17467,6 +17467,7 @@ designless
 dimwitted
 drowsihead
 drowte
+ductless
 dreads
 defleas
 discrete
@@ -17817,7 +17818,6 @@ duststorm
 ductilize
 disambiguated
 ductilized
-ductless
 darktown
 darrell
 ductor
