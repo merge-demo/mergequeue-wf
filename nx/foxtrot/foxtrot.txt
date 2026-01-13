@@ -4422,7 +4422,6 @@ footpick
 fishily
 farinaceously
 fishiness
-fenbank
 fraxin
 formulary
 frazzle
@@ -10953,6 +10952,7 @@ foehn
 formamidine
 flexure
 fretwork
+fenbank
 fetal
 floorage
 fack
