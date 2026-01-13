@@ -15358,6 +15358,7 @@ clangs
 conquests
 critter
 calluses
+catawamptious
 chronographical
 clanjamfrey
 chalcotript
@@ -25019,7 +25020,6 @@ cowperitis
 circumpolar
 custodee
 cordal
-catawamptious
 clavicytherium
 cordax
 carnivora
