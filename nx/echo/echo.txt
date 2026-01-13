@@ -5145,6 +5145,7 @@ epiclinal
 euphorbiaceae
 eyestalks
 extrapolate
+exflagellate
 endoenzyme
 epitrochoid
 elytrorrhaphy
@@ -10787,7 +10788,6 @@ eumenides
 emblema
 encrinus
 electrogilding
-exflagellate
 endosporic
 entombment
 eumycete

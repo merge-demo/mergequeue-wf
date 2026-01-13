@@ -953,7 +953,6 @@ gopher
 gumwood
 gammoners
 gothic
-gemse
 gooseries
 glycyphyllin
 glycogenic
@@ -5546,6 +5545,7 @@ gloomingly
 gastroparietal
 gazingly
 garring
+gemse
 gamodeme
 gloams
 gonotokont
