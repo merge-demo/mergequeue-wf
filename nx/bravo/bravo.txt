@@ -3616,6 +3616,7 @@ balconet
 bathometry
 balneary
 bathophobia
+burettes
 buvette
 bathos
 bunkmates
@@ -13914,7 +13915,6 @@ broadhead
 bedded
 blenniid
 baas
-burettes
 bottomrying
 banakite
 beaveries
