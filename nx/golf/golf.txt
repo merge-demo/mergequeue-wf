@@ -966,6 +966,7 @@ gout
 gunstone
 gamophagy
 grave
+glisters
 ghostless
 graptolite
 gunshot
@@ -2640,7 +2641,6 @@ grisette
 gowf
 glossolabial
 goutte
-glisters
 genesial
 goliath
 grav
