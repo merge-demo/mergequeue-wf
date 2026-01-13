@@ -5490,7 +5490,6 @@ gonfanon
 gladful
 gearwheel
 goethite
-gilenyie
 gamelote
 gyrfalcons
 gamolepis
@@ -7910,6 +7909,7 @@ garlandlike
 gabbais
 ghostlikeness
 grammatics
+gilenyie
 galinsoga
 gastropodous
 graved
