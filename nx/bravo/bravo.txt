@@ -12068,7 +12068,6 @@ bohora
 benny
 brontogram
 bebop
-bombarded
 bowdlerising
 bohunk
 branta
@@ -16801,6 +16800,7 @@ babehood
 boodie
 buckwheatlike
 biotite
+bombarded
 bromometrically
 balaic
 bloodstanch
