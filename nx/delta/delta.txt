@@ -10426,7 +10426,6 @@ diervilla
 diphenylchloroarsine
 diphenylene
 diphenylenimine
-dug
 dogmatic
 discoideae
 diodon
@@ -16083,6 +16082,7 @@ disaffections
 diplozoon
 deaning
 deterration
+dug
 denaturisation
 disfrocked
 decayedness
