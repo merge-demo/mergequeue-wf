@@ -1828,7 +1828,6 @@ becobweb
 beebreads
 barebacked
 breakwater
-bizardite
 bepurple
 buzzy
 brimming
@@ -2541,6 +2540,7 @@ baria
 bedouse
 blameful
 bartered
+bizardite
 baboodom
 bucca
 beflowers
