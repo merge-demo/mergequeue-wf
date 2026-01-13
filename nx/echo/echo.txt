@@ -5257,7 +5257,6 @@ echevin
 endopodite
 evolves
 eskimoid
-elflocks
 elapsoidea
 earthshakingly
 expeditating
@@ -6522,6 +6521,7 @@ ended
 entangled
 expropriates
 entangledness
+elflocks
 endotrachelitis
 escutcheoned
 ehlite
