@@ -3579,6 +3579,7 @@ fixates
 fenceful
 florigraphy
 forspoken
+fastening
 feddan
 fussle
 flether
@@ -5256,7 +5257,6 @@ formylating
 fictionising
 flinders
 flautino
-fastening
 faithfulness
 fisherman
 foulmouthedness
