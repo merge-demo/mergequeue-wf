@@ -5650,6 +5650,7 @@ bogie
 belam
 bettas
 brabblement
+bartering
 boatloader
 beclamoring
 brunet
@@ -11224,7 +11225,6 @@ biometer
 biforin
 bloomless
 baptisia
-bartering
 bacteriocidal
 bahamians
 byways
