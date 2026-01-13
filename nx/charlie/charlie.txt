@@ -6115,7 +6115,6 @@ cairds
 catlins
 craftsperson
 cryptoporticus
-canephroi
 cantharidizing
 cumene
 cameroonian
@@ -28208,6 +28207,7 @@ cubitalia
 crannock
 crannoger
 carvomenthene
+canephroi
 campgrounds
 cockscomb
 chippy

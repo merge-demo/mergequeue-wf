@@ -1529,7 +1529,6 @@ glairing
 guaxima
 gerbille
 geneses
-glandless
 gorlin
 grote
 grasseye
@@ -4859,6 +4858,7 @@ glaistig
 grapewort
 gymnast
 grubstreet
+glandless
 gospeler
 grungiest
 grateful
