@@ -1219,7 +1219,6 @@ fusilier
 foolishness
 fashing
 fritt
-fiddley
 fascinate
 fixator
 fissure
@@ -4992,6 +4991,7 @@ firmware
 fthm
 flamers
 foxing
+fiddley
 flamy
 flowchart
 fan
