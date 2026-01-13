@@ -8665,7 +8665,6 @@ epiglottides
 entortill
 evangelists
 equiperiodic
-equipoise
 endophyllous
 erotical
 epilepsy
@@ -9230,6 +9229,7 @@ educationalist
 extrapleural
 extrapolative
 element
+equipoise
 expel
 eyestrain
 extradecretal
