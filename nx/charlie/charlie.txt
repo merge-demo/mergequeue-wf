@@ -8005,7 +8005,6 @@ cossets
 cevian
 ceviche
 cevine
-cevitamic
 cismontane
 contes
 cf
@@ -9057,6 +9056,7 @@ charmed
 charmedly
 coax
 charmfully
+cevitamic
 choragy
 chromodiascope
 curlily
