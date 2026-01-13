@@ -9079,7 +9079,6 @@ charmonium
 charms
 charneco
 charnockite
-covarecan
 charnockites
 charnu
 conglomeratic
@@ -18173,6 +18172,7 @@ coenosarcal
 coequated
 chloriodide
 collar
+covarecan
 centralistic
 coequates
 coerce
