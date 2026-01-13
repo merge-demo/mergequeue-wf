@@ -1605,7 +1605,6 @@ extraversion
 encampment
 envigor
 exogeny
-exaggeratedness
 essenis
 emball
 enterokinetic
@@ -9053,6 +9052,7 @@ erythrocytosis
 excursionist
 ectasia
 equivocations
+exaggeratedness
 educe
 erythrolein
 ethnics
