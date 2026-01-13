@@ -794,7 +794,6 @@ gravata
 garrotting
 gambang
 gastrular
-goldbeater
 glauke
 greenlandite
 glucosane
@@ -10689,6 +10688,7 @@ generalty
 grandisonant
 glycerols
 gurnard
+goldbeater
 gildsman
 gastroenteroptosis
 grands
