@@ -1558,7 +1558,6 @@ geez
 gilpy
 gravaminous
 galileo
-giraffesque
 gracilariid
 gery
 grype
@@ -7691,6 +7690,7 @@ guachamaca
 grubber
 germane
 geira
+giraffesque
 grounding
 geodynamics
 gyppery
