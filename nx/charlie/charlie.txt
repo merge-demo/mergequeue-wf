@@ -11772,7 +11772,6 @@ chondrogenesis
 corelation
 corbiculate
 chondroglossal
-chondrography
 cytomegalic
 conduplication
 contemnibly
@@ -16098,6 +16097,7 @@ clientage
 cliental
 chemiluminescent
 classer
+chondrography
 cycloramas
 condylotomy
 choriocarcinomata
