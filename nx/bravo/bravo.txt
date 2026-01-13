@@ -9817,7 +9817,6 @@ brights
 borg
 betsileos
 buttresses
-bewitching
 barleymow
 beja
 bistriate
@@ -10466,6 +10465,7 @@ banks
 blanks
 basophobia
 boltmaking
+bewitching
 beesting
 baritone
 bemadam
