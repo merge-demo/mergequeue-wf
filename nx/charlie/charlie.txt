@@ -5554,6 +5554,7 @@ crowboot
 cpm
 catacombs
 cyanamide
+collaborator
 catacorner
 catacorolla
 ceaselessly
@@ -18916,7 +18917,6 @@ celibataire
 collaboratively
 clomping
 clothworker
-collaborator
 collaborators
 closehauled
 cosigner
