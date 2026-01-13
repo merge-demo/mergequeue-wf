@@ -4577,6 +4577,7 @@ feudists
 frit
 floripondio
 feuder
+footboy
 fisticuff
 flagfish
 fouldre
@@ -7193,7 +7194,6 @@ footboard
 feckful
 friszka
 facepiece
-footboy
 ferrophosphorus
 fossette
 footboys
