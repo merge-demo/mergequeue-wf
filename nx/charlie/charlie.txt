@@ -4477,6 +4477,7 @@ canarin
 catabolite
 carl
 camassia
+cycadaceous
 coprincipate
 caseates
 cert
@@ -19356,7 +19357,6 @@ cerotic
 checkstone
 color
 creational
-cycadaceous
 chinchier
 colorableness
 camisades
