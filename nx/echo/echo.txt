@@ -1676,7 +1676,6 @@ expiable
 eschaufe
 episcopally
 eichhornia
-eichwaldite
 eide
 excommunications
 enactors
@@ -9926,6 +9925,7 @@ ethenol
 enskies
 entoil
 equisetales
+eichwaldite
 extrospection
 englishize
 enfonced
