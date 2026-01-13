@@ -5758,6 +5758,7 @@ gonapophysis
 girasols
 gyrolite
 gressorious
+graveyards
 geotropism
 gurus
 geologize
@@ -9116,7 +9117,6 @@ glutination
 glathsheimr
 goadster
 gease
-graveyards
 glaucomys
 glumal
 glires
