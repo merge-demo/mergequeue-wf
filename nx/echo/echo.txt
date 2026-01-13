@@ -7021,7 +7021,6 @@ embladder
 explorable
 exclaimer
 estated
-extradialectal
 earphone
 enactory
 everbloomer
@@ -8734,6 +8733,7 @@ effs
 exciples
 ektexines
 equivoke
+extradialectal
 emmergoose
 elaeocarpaceae
 extortionately
