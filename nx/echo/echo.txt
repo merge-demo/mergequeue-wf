@@ -5913,6 +5913,7 @@ ere
 exclave
 ethmonasal
 ericaceae
+etiolate
 enheart
 enhearten
 enfevering
@@ -8424,7 +8425,6 @@ eurytropic
 electroanalytic
 electroencephalography
 eponym
-etiolate
 ensand
 epicier
 enthronizing
