@@ -1590,7 +1590,6 @@ fadges
 fichu
 flook
 flavobacterium
-favosely
 formidability
 favosites
 finer
@@ -7311,6 +7310,7 @@ firmity
 fullered
 fleetings
 flanderkin
+favosely
 fraggings
 fb
 fecial
