@@ -7395,6 +7395,7 @@ grazable
 gossipped
 gestor
 gilthead
+glaucus
 glyptograph
 gynostemia
 groupable
@@ -9116,7 +9117,6 @@ gladiatorism
 glomerulose
 guajira
 glads
-glaucus
 gappy
 galactidrosis
 gherkin
