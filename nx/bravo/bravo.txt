@@ -3982,6 +3982,7 @@ bantlings
 barbarian
 bestsellers
 barytes
+bharal
 bespy
 beaching
 beachman
@@ -7759,7 +7760,6 @@ behavioral
 bhangi
 bhara
 barenecked
-bharal
 basaltiform
 buhr
 borocaine
