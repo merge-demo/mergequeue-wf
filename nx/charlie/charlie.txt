@@ -10125,7 +10125,6 @@ chevener
 cheventayn
 cheverel
 carcassed
-cheveret
 cheveril
 cahoot
 cathartae
@@ -25751,6 +25750,7 @@ corniche
 corridas
 corridors
 corriedale
+cheveret
 corrige
 corrigenda
 compossibility
