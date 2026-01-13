@@ -4309,7 +4309,6 @@ fet
 fructiferousness
 fretworked
 foddering
-frailty
 fluorins
 fellnesses
 fasteners
@@ -6137,6 +6136,7 @@ frump
 firmarius
 freebooted
 flocculating
+frailty
 frayn
 floridity
 fetterbush
