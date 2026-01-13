@@ -2896,7 +2896,6 @@ brushland
 briscola
 barraging
 battologist
-bowpot
 bailer
 braca
 battener
@@ -6434,6 +6433,7 @@ balau
 benzosulfimide
 benzosulphimide
 barricaders
+bowpot
 bedash
 botanises
 bedlamer

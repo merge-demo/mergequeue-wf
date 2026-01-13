@@ -632,7 +632,6 @@ gradatory
 geodetic
 gunpaper
 guenepe
-guideline
 gardencraft
 gallomaniac
 girls
@@ -1347,6 +1346,7 @@ gheleem
 gemelled
 gieing
 gunky
+guideline
 gazaboes
 garroter
 glacon
