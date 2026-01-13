@@ -4720,6 +4720,7 @@ geta
 gerbilles
 greensand
 gossoon
+ghettos
 glassin
 guisard
 glycuronic
@@ -6576,7 +6577,6 @@ goumier
 gastropod
 garnetwork
 glasswork
-ghettos
 grassant
 grappas
 glottalization
