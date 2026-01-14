@@ -317,7 +317,6 @@ epitheliolysin
 expiries
 endosmose
 easterling
-enema
 exhumers
 epigoneion
 enqueue
@@ -6976,6 +6975,7 @@ eyebrows
 ensaint
 entre
 elwood
+enema
 entreasuring
 ecdemite
 easily
