@@ -11063,7 +11063,6 @@ epipharynx
 endolumbar
 electrothermostat
 estheria
-epicormic
 eusebian
 extrudes
 edifies
@@ -13500,6 +13499,7 @@ eudaemonic
 eucalypti
 equianharmonic
 eisegetical
+epicormic
 egocentricities
 erk
 epifolliculitis
