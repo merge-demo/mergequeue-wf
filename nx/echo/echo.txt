@@ -10985,7 +10985,6 @@ electrobioscopy
 epitaphize
 epigastric
 eurasianism
-eremites
 endocervicitis
 excludes
 eoside
@@ -13730,6 +13729,7 @@ executrix
 elatine
 endnote
 extratemporal
+eremites
 esteemed
 enfavor
 elfhood
