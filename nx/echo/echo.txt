@@ -1511,6 +1511,7 @@ effraction
 escalado
 eighths
 etymologised
+estaminet
 eurythermic
 electrometric
 euphonia
@@ -9773,7 +9774,6 @@ exponentiate
 eustace
 ebracteolate
 enhanced
-estaminet
 elaeagnus
 emittance
 exergue
