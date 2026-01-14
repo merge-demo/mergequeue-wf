@@ -7096,7 +7096,6 @@ encyclopedia
 encephalopsychesis
 eulogise
 extraperitoneal
-enmarbled
 enverdure
 explanatory
 eupepsies
@@ -7305,6 +7304,7 @@ exosphere
 exile
 eunomian
 environmentalism
+enmarbled
 encrypting
 eriophyes
 eased
