@@ -6930,7 +6930,6 @@ celtiberian
 celticize
 celtidaceae
 consortiums
-celtis
 celtish
 celtism
 celtium
@@ -7033,6 +7032,7 @@ cenomanian
 chingma
 calciphobic
 cenosity
+celtis
 championless
 cenotaphy
 contorsive
