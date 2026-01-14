@@ -16828,6 +16828,7 @@ crepitus
 clovewort
 castling
 coauditor
+choregraphic
 cpl
 corporealist
 cuneator
@@ -30606,7 +30607,6 @@ cucule
 credensive
 caryocar
 cerigerous
-choregraphic
 cuculiformes
 cephaloclasia
 coleopteral
