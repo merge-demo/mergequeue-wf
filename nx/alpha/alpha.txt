@@ -3830,7 +3830,6 @@ amphithuron
 acetabuliform
 adipinic
 arapahos
-adipoceriform
 adipoid
 aube
 amati
@@ -15434,6 +15433,7 @@ antimechanization
 antimedical
 antimedicine
 anaptomorphidae
+adipoceriform
 anchylotic
 agrestial
 antimedievalism
