@@ -16695,6 +16695,7 @@ centronucleus
 compatriotism
 clotbur
 clapbread
+curative
 carpetbeater
 clote
 chayota
@@ -31254,7 +31255,6 @@ curatess
 cliency
 curation
 cutworks
-curative
 curativeness
 costogenic
 curatorium
