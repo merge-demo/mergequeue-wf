@@ -1964,6 +1964,7 @@ forebody
 flchette
 forbs
 flannelette
+fruity
 fivebar
 frettiest
 frden
@@ -9442,7 +9443,6 @@ fileted
 fantastical
 facing
 fettler
-fruity
 fogger
 frislet
 forblack
