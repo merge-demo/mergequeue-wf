@@ -1998,7 +1998,6 @@ glyconian
 gleefully
 gynaecea
 goosewing
-gatch
 gingilis
 galleass
 glosser
@@ -3357,6 +3356,7 @@ graminiferous
 germanification
 gadso
 grimmia
+gatch
 gregaritic
 glancer
 glycosin
