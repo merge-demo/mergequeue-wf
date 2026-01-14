@@ -170,6 +170,7 @@ encephalomeric
 errite
 enzygotic
 earthkin
+enable
 emargination
 equivalencies
 expired
@@ -1827,7 +1828,6 @@ expediteness
 engravers
 embankments
 encompasser
-enable
 estimates
 entresse
 elliott
