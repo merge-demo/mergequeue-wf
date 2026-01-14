@@ -3062,7 +3062,6 @@ cantwise
 castigated
 canula
 canulae
-canulas
 caputium
 chthonophagy
 coistrel
@@ -23625,6 +23624,7 @@ cappadocian
 centumviral
 contortedness
 commissionating
+canulas
 chronothermometer
 contortional
 contortionist
