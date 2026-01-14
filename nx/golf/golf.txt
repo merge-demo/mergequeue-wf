@@ -2234,7 +2234,6 @@ ghazies
 grisled
 genette
 gekkonid
-gossipmongering
 galactase
 gitana
 gastrotome
@@ -6007,6 +6006,7 @@ gaols
 garboils
 garoter
 gillot
+gossipmongering
 gonifs
 gastroenterocolostomy
 gibetting
