@@ -8963,7 +8963,6 @@ ergometer
 employer
 exophthalmos
 erythema
-evene
 erythemal
 elenchical
 enterokinesia
@@ -13069,6 +13068,7 @@ evaluations
 euphonized
 expermentized
 ensnarers
+evene
 epigonic
 emus
 embankment
