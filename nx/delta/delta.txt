@@ -5647,7 +5647,6 @@ deselecting
 dyslexia
 discos
 decerniture
-delineation
 denudation
 depilitant
 deplace
@@ -14563,6 +14562,7 @@ dapifer
 downpouring
 divisibility
 divisibilities
+delineation
 divisible
 diaglyphic
 division
