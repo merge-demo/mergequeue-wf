@@ -847,7 +847,6 @@ ferrozirconium
 frown
 felinely
 ferrets
-flummox
 fanon
 fronted
 fantailed
@@ -7234,6 +7233,7 @@ foremind
 fishbone
 forefeeling
 filths
+flummox
 fps
 festivalgoer
 fend
