@@ -5608,6 +5608,7 @@ extispicy
 elevational
 escribed
 excesses
+everduring
 egling
 exiguities
 enforces
@@ -12251,7 +12252,6 @@ enteromegaly
 ethiopian
 els
 elegises
-everduring
 exemplarism
 especially
 exempli
