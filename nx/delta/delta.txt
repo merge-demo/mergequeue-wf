@@ -13837,7 +13837,6 @@ detruncate
 dengues
 destructivity
 dissuit
-duhat
 disorient
 dignifies
 deflexible
@@ -15838,6 +15837,7 @@ dozen
 dorsothoracic
 diablotin
 dialdehyde
+duhat
 deiced
 disrating
 defecated
