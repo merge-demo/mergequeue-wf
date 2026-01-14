@@ -1276,7 +1276,6 @@ gayeties
 gaia
 glenwood
 grame
-granage
 gardens
 gavall
 goethites
@@ -8430,6 +8429,7 @@ gawby
 gyroscopically
 grebe
 groomishly
+granage
 grasses
 gulping
 gymnocladus
