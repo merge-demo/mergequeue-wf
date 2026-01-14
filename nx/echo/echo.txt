@@ -8960,6 +8960,7 @@ electrocardiograph
 elicitable
 esteriferous
 eristically
+ergometer
 employer
 exophthalmos
 erythema
@@ -12397,7 +12398,6 @@ epistyle
 experient
 epitomization
 eyer
-ergometer
 effude
 epapillate
 elengely
