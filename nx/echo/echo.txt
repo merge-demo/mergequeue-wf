@@ -1325,6 +1325,7 @@ eq
 eeriness
 ecostate
 epithalamion
+ensnares
 essaying
 encircler
 estrado
@@ -13513,7 +13514,6 @@ extrastapedial
 epigrapher
 expanses
 elinor
-ensnares
 embroiderers
 examine
 elephantous
