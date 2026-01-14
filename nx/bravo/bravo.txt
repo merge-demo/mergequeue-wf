@@ -15593,6 +15593,7 @@ berkeley
 bargeload
 barr
 brioches
+brocardic
 backspier
 bisso
 beadlet
@@ -15772,7 +15773,6 @@ brob
 booksy
 betorcin
 blithesomeness
-brocardic
 biaxially
 bardee
 brocatelle
