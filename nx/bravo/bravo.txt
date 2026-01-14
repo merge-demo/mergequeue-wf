@@ -1420,6 +1420,7 @@ balearica
 balebos
 baled
 baleen
+beliefs
 badmash
 berret
 bobance
@@ -10458,7 +10459,6 @@ brisement
 blankish
 blankly
 berberine
-beliefs
 boneless
 baidya
 bullfinch
