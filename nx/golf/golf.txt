@@ -4252,7 +4252,6 @@ guidable
 gliosa
 greenovite
 gonidiose
-gunned
 grovel
 geologer
 gois
@@ -5016,6 +5015,7 @@ goldhead
 grouthead
 genealogists
 glister
+gunned
 guilty
 guariba
 glandered
