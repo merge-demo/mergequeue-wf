@@ -6021,7 +6021,6 @@ gnarliness
 grassiness
 gaidropsaridae
 glucokinase
-gnetaceae
 groggily
 germal
 gravelweed
@@ -8841,6 +8840,7 @@ geochronology
 grazed
 geranomorphae
 grossularia
+gnetaceae
 grossest
 gauntleting
 germain
