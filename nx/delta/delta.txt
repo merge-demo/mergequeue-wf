@@ -6487,6 +6487,7 @@ disomatous
 descendent
 dolichosoma
 delight
+devex
 diadromous
 dispositionally
 dissevering
@@ -10855,7 +10856,6 @@ directors
 directorships
 dysphrasia
 dapples
-devex
 deificatory
 direness
 dolly
