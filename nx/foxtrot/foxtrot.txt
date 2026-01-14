@@ -2266,7 +2266,6 @@ filters
 florentinism
 flatulence
 firebombed
-forshape
 full
 flavones
 filamentiferous
@@ -5443,6 +5442,7 @@ flanken
 fascia
 festoonery
 ferulaic
+forshape
 filmstrip
 faconde
 ferrocyanide
