@@ -2321,6 +2321,7 @@ gristy
 gibbsites
 genipapada
 gelatine
+gangling
 gaposis
 gazer
 gondoliere
@@ -9229,7 +9230,6 @@ galvanization
 gluteus
 groves
 goffered
-gangling
 gametangia
 ginhound
 greenyard
