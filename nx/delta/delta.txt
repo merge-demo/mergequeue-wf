@@ -6282,7 +6282,6 @@ dial
 dicranaceae
 dorsabdominally
 dermatosclerosis
-dermatoses
 devulcanize
 detubation
 decarboxylated
@@ -9051,6 +9050,7 @@ dictatorialness
 disulphuric
 dictature
 dorsals
+dermatoses
 dictyodromous
 deafest
 diction
