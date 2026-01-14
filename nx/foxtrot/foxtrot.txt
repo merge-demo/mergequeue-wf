@@ -1954,6 +1954,7 @@ foreteller
 fancy
 feebless
 filatory
+frontes
 fillock
 fallacious
 fabricate
@@ -6697,7 +6698,6 @@ foder
 forkwise
 falseheartedly
 footmarks
-frontes
 flees
 fluidism
 flintily
