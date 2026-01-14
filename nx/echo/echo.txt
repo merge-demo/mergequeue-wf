@@ -1374,7 +1374,6 @@ ennuied
 effects
 enlarge
 edified
-excommunion
 eons
 equilibristat
 enclog
@@ -6338,6 +6337,7 @@ ellice
 enthrals
 evenfalls
 endangiitis
+excommunion
 equisetaceae
 enshield
 endostitis
