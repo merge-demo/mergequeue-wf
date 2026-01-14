@@ -4497,6 +4497,7 @@ demihagbut
 dispair
 demihaque
 demijambe
+demulcent
 discriminant
 divet
 dottled
@@ -18372,7 +18373,6 @@ dimercury
 dreamish
 dorse
 dissector
-demulcent
 duodenojejunostomies
 dillue
 douches
