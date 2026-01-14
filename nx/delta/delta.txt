@@ -2215,7 +2215,6 @@ decasualise
 disgavel
 dialectological
 depictive
-drawknot
 didymous
 decathlons
 drawrod
@@ -17505,6 +17504,7 @@ decore
 drugeteria
 deliverability
 druggets
+drawknot
 dendroidea
 doorhawk
 drawability

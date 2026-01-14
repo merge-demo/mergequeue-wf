@@ -1318,6 +1318,7 @@ caliban
 clogged
 cunea
 calaverite
+corroborate
 caliber
 compulsatory
 calibers
@@ -20149,7 +20150,6 @@ comminuted
 caridomorpha
 cybercultural
 comminution
-corroborate
 chokingly
 commiserates
 calcareocorneous
