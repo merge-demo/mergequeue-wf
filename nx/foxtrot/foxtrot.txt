@@ -1391,6 +1391,7 @@ fiddly
 fabronia
 fermatas
 frith
+fanzines
 figitidae
 freezer
 foodlessness
@@ -9985,7 +9986,6 @@ formulising
 forsythias
 forefence
 feeze
-fanzines
 fittable
 fanti
 friezer
