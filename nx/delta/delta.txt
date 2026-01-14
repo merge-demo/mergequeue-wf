@@ -3818,6 +3818,7 @@ defoams
 deciduous
 dicellate
 deionizations
+deportable
 dichroiscope
 diatropic
 deionize
@@ -13259,7 +13260,6 @@ drawsheet
 desaurine
 dendrobe
 dronte
-deportable
 drover
 deuterofibrinose
 dinnerless
