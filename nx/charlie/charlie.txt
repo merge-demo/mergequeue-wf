@@ -9487,6 +9487,7 @@ cableways
 cirrigerous
 climatically
 checkbooks
+curtest
 coendou
 calculated
 checker
@@ -23077,7 +23078,6 @@ consopite
 consort
 crown
 chowderhead
-curtest
 consortable
 consorter
 consortia
