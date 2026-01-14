@@ -4609,7 +4609,6 @@ carnivoral
 canvasado
 carnivore
 carnivorism
-cordialness
 chlormethylic
 creakiness
 coherer
@@ -13432,6 +13431,7 @@ courageously
 christabel
 crozzle
 chaine
+cordialness
 condemnation
 chlorinates
 counterturn
