@@ -5266,6 +5266,7 @@ gleys
 grindery
 grissons
 gorgers
+gachupin
 gloamings
 grippier
 gaited
@@ -6445,7 +6446,6 @@ goburra
 graduates
 griot
 gregorian
-gachupin
 gnomonia
 gazes
 gallivanted
