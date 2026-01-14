@@ -5290,7 +5290,6 @@ deuteroconid
 disalicylide
 ducks
 drumlin
-dialkylamine
 distitle
 dentalium
 dolor
@@ -10367,6 +10366,7 @@ diordinal
 dynodes
 dipotassic
 disassimilate
+dialkylamine
 dioscurian
 diazoanhydride
 discrimination
