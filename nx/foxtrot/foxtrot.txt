@@ -1457,7 +1457,6 @@ flavorings
 fruiter
 favourable
 fearsomely
-fiqh
 foreshows
 fabulate
 flytes
@@ -3785,6 +3784,7 @@ filming
 firnification
 flannelling
 frugivora
+fiqh
 fortranh
 forebridge
 filmland
