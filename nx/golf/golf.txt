@@ -549,7 +549,6 @@ gastromelus
 grazioso
 geisotherm
 gynecocracies
-gd
 gilravager
 gudgeoning
 glyptography
@@ -4691,6 +4690,7 @@ gyrophoraceous
 gonopod
 greenhouse
 glance
+gd
 gringophobia
 ghafir
 gospelist
