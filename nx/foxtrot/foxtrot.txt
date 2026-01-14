@@ -3843,7 +3843,6 @@ fineless
 fiberglas
 formicary
 fiberscope
-forgiveable
 fungistat
 frieseite
 flavanthrene
@@ -10704,6 +10703,7 @@ franklin
 famish
 frightable
 feretrum
+forgiveable
 facultied
 fibular
 fainting
