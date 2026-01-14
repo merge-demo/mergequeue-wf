@@ -756,7 +756,6 @@ flittiness
 falcation
 fluorination
 fenrir
-forepart
 frankalmoigne
 frostiness
 filicites
@@ -3475,6 +3474,7 @@ frayn
 fleeches
 fanfares
 frostfishes
+forepart
 foreseason
 fallback
 fighteress
