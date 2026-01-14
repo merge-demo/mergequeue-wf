@@ -6481,7 +6481,6 @@ anomura
 acrogynae
 antidomestic
 ayacahuite
-arbutase
 avoyer
 athbash
 ay
@@ -7102,6 +7101,7 @@ alabaster
 atellan
 aphizog
 alabastrian
+arbutase
 alabastrine
 aortographic
 ascenders
