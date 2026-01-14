@@ -18228,6 +18228,7 @@ alectorioid
 ashet
 arcady
 aquose
+articulations
 analogistic
 arroz
 ar
@@ -20705,7 +20706,6 @@ articulates
 ashlering
 affrap
 anamnesis
-articulations
 anteroventrally
 alody
 alwise
