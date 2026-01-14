@@ -4063,6 +4063,7 @@ gellert
 grounds
 genies
 gildhall
+geosynclines
 gyrencephala
 glandes
 gib
@@ -10551,7 +10552,6 @@ germens
 gossipingly
 gudesakes
 gentamicin
-geosynclines
 germinability
 gunjah
 glozer
