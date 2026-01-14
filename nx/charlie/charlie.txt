@@ -9552,7 +9552,6 @@ checkrowing
 consummatively
 checkrows
 computational
-chapatty
 checkstring
 cuissen
 checksum
@@ -28888,6 +28887,7 @@ calendarer
 cradlefellow
 ciderish
 crewman
+chapatty
 crewmanship
 crewmen
 capsheaf
