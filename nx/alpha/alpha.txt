@@ -17421,7 +17421,6 @@ apotheosised
 apotheosized
 apothesine
 ananias
-anteportico
 aeromedical
 apotome
 apyretic
@@ -24239,6 +24238,7 @@ almoner
 actinically
 alluvion
 ananke
+anteportico
 automechanism
 acediamine
 ambo
