@@ -976,7 +976,6 @@ chrysothamnus
 calamary
 calamariaceous
 centrifugalized
-compactedness
 calamarmar
 cilioflagellate
 calamars
@@ -8871,6 +8870,7 @@ clodbreaker
 cuniform
 cumarone
 cubiculo
+compactedness
 cowards
 compile
 characterism
