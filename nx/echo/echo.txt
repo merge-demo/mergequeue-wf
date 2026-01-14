@@ -6606,7 +6606,6 @@ embryous
 enseam
 exfoliated
 egyptianism
-expulsatory
 entoplastic
 electrophoresis
 eructed
@@ -9221,6 +9220,7 @@ epizzoa
 escout
 exhume
 eloquential
+expulsatory
 equichangeable
 educationalist
 extrapleural
