@@ -8099,7 +8099,6 @@ enbibe
 epiural
 erysipelatous
 extracalicular
-erugo
 epididymite
 earaches
 enew
@@ -9940,6 +9939,7 @@ endowers
 eluents
 entonement
 erythrin
+erugo
 entreatment
 esurient
 electroform
