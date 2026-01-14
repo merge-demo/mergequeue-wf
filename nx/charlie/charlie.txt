@@ -4226,7 +4226,6 @@ carditises
 cardium
 continual
 chapbooks
-cardo
 colorum
 cardoon
 cardoons
@@ -25861,6 +25860,7 @@ corruptively
 corruptly
 colubriformes
 corruptor
+cardo
 contravindicate
 cloudiest
 conglutinative
