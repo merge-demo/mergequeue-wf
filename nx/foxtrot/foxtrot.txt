@@ -6576,6 +6576,7 @@ floody
 flustrated
 frogskins
 filches
+fubbed
 fluted
 featherbedded
 feroher
@@ -9721,7 +9722,6 @@ fourths
 funduck
 floyt
 finalis
-fubbed
 fromage
 fletcher
 fregata
