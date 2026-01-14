@@ -2534,7 +2534,6 @@ candleholder
 candlelight
 candlelighter
 chaloth
-confraternities
 candlelighting
 cohusband
 carvels
@@ -2914,6 +2913,7 @@ catboat
 cantando
 cantankerous
 capsizable
+confraternities
 cantankerously
 chonicrite
 colourableness
