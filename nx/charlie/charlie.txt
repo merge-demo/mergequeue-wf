@@ -15360,7 +15360,6 @@ cornfloor
 clankless
 chaldaic
 chloropia
-creches
 cradlemen
 clansfolk
 clanship
@@ -24040,6 +24039,7 @@ carcel
 copperworks
 coralwort
 convents
+creches
 conventual
 coeligenous
 cerebri
