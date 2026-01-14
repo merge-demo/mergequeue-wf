@@ -7173,6 +7173,7 @@ glider
 gulfweed
 guans
 gaffs
+gorgerin
 gauming
 gross
 guaiacs
@@ -10087,7 +10088,6 @@ gumshoed
 geomyidae
 grakle
 gonomere
-gorgerin
 goof
 gigabits
 guesdism
