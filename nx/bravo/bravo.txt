@@ -1328,7 +1328,6 @@ batman
 belying
 bibliolater
 balatron
-benzaldiphenyl
 balatte
 bermudian
 bewimple
@@ -5399,6 +5398,7 @@ bacteriogenic
 bonace
 blueweed
 buyable
+benzaldiphenyl
 bromobenzene
 barodynamic
 barleybird
