@@ -738,7 +738,6 @@ deoppilative
 dubs
 decoyer
 dandizette
-decasyllabic
 duvetyne
 destains
 dehorn
@@ -9457,6 +9456,7 @@ digue
 digeny
 dioicousness
 diamorphosis
+decasyllabic
 denoted
 defender
 demiplate

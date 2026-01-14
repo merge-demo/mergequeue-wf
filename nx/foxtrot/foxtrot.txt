@@ -1115,6 +1115,7 @@ farseer
 frenchwoman
 firerooms
 frondescence
+ferret
 foughten
 farsighted
 flatiron
@@ -7168,7 +7169,6 @@ flanchard
 foolproofness
 frostlike
 fissureless
-ferret
 fibulare
 frocking
 filipinization
