@@ -2595,6 +2595,7 @@ everest
 evaporator
 enhaloed
 eliasite
+espiglerie
 embryonate
 engrail
 epitomising
@@ -12995,7 +12996,6 @@ ensnarls
 exhaust
 expectorant
 entame
-espiglerie
 epithelialize
 expectorated
 enneahedria
