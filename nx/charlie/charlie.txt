@@ -3093,6 +3093,7 @@ caon
 chlorocruorin
 caoutchin
 caoutchoucin
+chilidog
 cap
 capa
 conferrable
@@ -30622,7 +30623,6 @@ coprology
 cucullate
 contravened
 clothier
-chilidog
 crustosis
 cuculle
 cuculoid
