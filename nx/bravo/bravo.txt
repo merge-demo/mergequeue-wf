@@ -1417,6 +1417,7 @@ bajonado
 backjoint
 balearica
 balebos
+bleater
 baled
 baleen
 beliefs
@@ -5899,7 +5900,6 @@ beggardom
 bretons
 bellwether
 bradmaker
-bleater
 bellwort
 boarfishes
 belock
