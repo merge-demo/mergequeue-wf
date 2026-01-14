@@ -11805,7 +11805,6 @@ antimonarchy
 apishly
 angraecum
 anacard
-alleviators
 astrolabes
 archai
 antimonopolism
@@ -20948,6 +20947,7 @@ ascaridiasis
 archeologian
 affects
 ascarids
+alleviators
 agog
 ascelli
 ascellus
