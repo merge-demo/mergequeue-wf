@@ -1643,7 +1643,6 @@ fice
 feaberry
 fundulinae
 ferrandin
-forweep
 frike
 firoloida
 farmerette
@@ -5291,6 +5290,7 @@ fluctuosity
 freelance
 flexes
 forecastingly
+forweep
 farley
 fidfad
 favellae
