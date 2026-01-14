@@ -2711,6 +2711,7 @@ dissimulator
 delectable
 duetto
 decorate
+defenses
 damon
 decorating
 demivolte
@@ -16903,7 +16904,6 @@ dyspeptics
 disbelieve
 drearies
 desterilizing
-defenses
 dermatograph
 demystify
 denaturize
