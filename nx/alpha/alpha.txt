@@ -6426,7 +6426,6 @@ aha
 ahamkara
 autoclaves
 affeir
-antienthusiasm
 angiosperms
 ahartalav
 anophthalmus
@@ -14321,6 +14320,7 @@ asymmetries
 actualizing
 antimedieval
 astigmatoscopies
+antienthusiasm
 aerogramme
 antineutrality
 alimentariness
