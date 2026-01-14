@@ -907,7 +907,6 @@ airmanship
 amylon
 absit
 absoil
-acorn
 absterging
 antient
 absolent
@@ -22441,6 +22440,7 @@ astronomy
 analgen
 aphototropism
 astronomical
+acorn
 ajenjo
 acylate
 autotrophic
