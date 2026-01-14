@@ -3008,7 +3008,6 @@ ghetti
 gasifier
 geologically
 gondite
-gavialis
 gratuitous
 galvanocauteries
 gridder
@@ -7896,6 +7895,7 @@ grammarless
 grammaticaster
 greatheart
 guesstimate
+gavialis
 garlandlike
 gabbais
 ghostlikeness
