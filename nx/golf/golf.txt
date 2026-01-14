@@ -1792,6 +1792,7 @@ genotypic
 gypsiologist
 galacthidrosis
 glossolaly
+gametophore
 gutterblood
 gelatinotype
 glutinate
@@ -6746,7 +6747,6 @@ glenoid
 goniodoridae
 gagmen
 granitized
-gametophore
 gagging
 grannie
 goura
