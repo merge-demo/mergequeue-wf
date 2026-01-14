@@ -6658,6 +6658,7 @@ gyrodyne
 gambusias
 gunnysack
 guidons
+gastrohysteropexy
 glasseye
 gleams
 gauffering
@@ -7882,7 +7883,6 @@ grimes
 going
 glossematic
 grammalogue
-gastrohysteropexy
 gumby
 gumptious
 gour
