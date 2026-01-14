@@ -2800,6 +2800,7 @@ bezoar
 befilch
 backstroking
 beachless
+bobfly
 bhp
 barrowman
 balletomanes
@@ -9593,7 +9594,6 @@ biblist
 bodewash
 budorcas
 budgets
-bobfly
 bumbler
 backyarder
 bothridium
