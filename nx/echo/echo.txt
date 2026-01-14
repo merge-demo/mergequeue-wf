@@ -2988,7 +2988,6 @@ ennoblers
 ethid
 epidermophyton
 externalising
-elicitors
 eloined
 endonuclear
 elicits
@@ -12876,6 +12875,7 @@ engrace
 excommunicating
 eserines
 extorting
+elicitors
 erastus
 ellwand
 expandible
