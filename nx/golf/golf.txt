@@ -4610,6 +4610,7 @@ galloper
 grinter
 gladiole
 guardrail
+gullet
 guttiferales
 genoms
 goitered
@@ -5289,7 +5290,6 @@ gentilic
 gravitative
 gammer
 gluiest
-gullet
 gelsemiums
 glenohumeral
 gonyoncus
