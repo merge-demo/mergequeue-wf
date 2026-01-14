@@ -3902,6 +3902,7 @@ classwork
 carbonimeter
 carbonimide
 choultries
+catchword
 contrastimulant
 costaea
 chinkle
@@ -5801,7 +5802,6 @@ chad
 capette
 copperheads
 contribute
-catchword
 cervinae
 catchwork
 cabasset
