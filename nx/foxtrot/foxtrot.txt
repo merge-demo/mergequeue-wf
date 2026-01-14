@@ -794,6 +794,7 @@ fiendism
 frangipane
 fills
 frightened
+filtratable
 fichteanism
 farmost
 forecovert
@@ -3043,7 +3044,6 @@ fractionalization
 fibril
 fuzing
 fountaineer
-filtratable
 ferberite
 fluorin
 fusils
