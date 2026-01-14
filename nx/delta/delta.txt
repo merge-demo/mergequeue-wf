@@ -644,7 +644,6 @@ deutonymph
 dextrosuria
 diacetylene
 despairs
-dt
 demonstrate
 dampproofing
 discus
@@ -7647,6 +7646,7 @@ dobzhansky
 disterminate
 dewberries
 drumbled
+dt
 divesture
 deunam
 diobolon

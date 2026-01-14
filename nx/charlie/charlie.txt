@@ -11310,7 +11310,6 @@ ctimo
 copelidine
 chaneled
 chloromata
-chloromethane
 chlorometry
 categorem
 coopted
@@ -24053,6 +24052,7 @@ coiling
 convergences
 comps
 convergency
+chloromethane
 columbary
 convergent
 cytogeny
