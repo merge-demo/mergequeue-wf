@@ -4517,7 +4517,6 @@ frowst
 flatting
 forlane
 frescade
-feely
 fates
 fertilizers
 forme
@@ -8245,6 +8244,7 @@ figury
 fluoroscoping
 foldy
 fishways
+feely
 faded
 frijolito
 friskin
