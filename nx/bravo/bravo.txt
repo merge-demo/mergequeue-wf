@@ -1025,6 +1025,7 @@ bustiest
 boyaus
 basanite
 breenge
+baleful
 bersil
 bicyclers
 bromoform
@@ -3074,7 +3075,6 @@ biobibliographical
 bdellostomatidae
 baruria
 barvel
-baleful
 byeworker
 beduin
 brainwashing
