@@ -7210,7 +7210,6 @@ carburettor
 centralness
 cacodaemonic
 cophetua
-caracas
 centranth
 centrarchid
 clar
@@ -8522,6 +8521,7 @@ championing
 championize
 caesium
 champions
+caracas
 cytotaxonomic
 champleve
 chiselled
