@@ -5830,6 +5830,7 @@ agentives
 allergic
 acacia
 adducing
+arousable
 archprototype
 agrionid
 areostyle
@@ -21835,7 +21836,6 @@ assimilationist
 afterattack
 abede
 assinego
-arousable
 allotrylic
 assiniboin
 assyntite
