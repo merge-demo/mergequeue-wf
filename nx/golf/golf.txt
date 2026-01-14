@@ -5138,7 +5138,6 @@ grammatic
 gomerec
 grittier
 gunman
-garboards
 guilelessly
 ghalva
 guernseyed
@@ -7246,6 +7245,7 @@ gonial
 gratin
 gastronomical
 gantryman
+garboards
 globosite
 galik
 gymnocarpous
