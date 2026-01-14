@@ -5038,7 +5038,6 @@ allantoidal
 ap
 aerotonometric
 aerotropism
-allantois
 aeruginous
 aerugo
 aes
@@ -21843,6 +21842,7 @@ agueweed
 assinuate
 alternanthera
 anecdotical
+allantois
 anaglyphics
 agnatic
 assyriological
