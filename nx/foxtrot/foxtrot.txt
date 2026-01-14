@@ -2460,6 +2460,7 @@ frenchless
 filiation
 fervour
 favonian
+fallible
 forspeak
 folksiest
 fernandinite
@@ -4030,7 +4031,6 @@ flower
 fario
 feute
 funerally
-fallible
 feudatorial
 foredawn
 farmwife
