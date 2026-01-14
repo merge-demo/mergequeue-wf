@@ -9755,7 +9755,6 @@ aberroscope
 aquashow
 angleworm
 aethered
-ane
 adjudicating
 albumoid
 aponogeton
@@ -12691,6 +12690,7 @@ angioblastic
 angiocardiographies
 anileness
 achordate
+ane
 angiocarpic
 anaunter
 angiology
