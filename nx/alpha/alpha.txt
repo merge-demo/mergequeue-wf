@@ -2363,7 +2363,6 @@ absorbed
 acieration
 apiary
 aum
-altometer
 acyetic
 apprehend
 autocrat
@@ -23500,6 +23499,7 @@ adenocyst
 amicus
 august
 antidemocracy
+altometer
 abstemiousness
 ammoniaemia
 augustine
