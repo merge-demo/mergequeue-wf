@@ -1592,7 +1592,6 @@ gismos
 gymnura
 gauntlet
 gulanganes
-gunlock
 grangerised
 ganoidean
 gasterotheca
@@ -10198,6 +10197,7 @@ gladiola
 guido
 ganglioneuroma
 gearwheels
+gunlock
 gelechia
 glaucium
 goalies
