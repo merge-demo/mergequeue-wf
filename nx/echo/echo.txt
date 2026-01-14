@@ -1368,7 +1368,6 @@ effectors
 effectress
 exoner
 elderbrotherish
-exhausts
 encapsulate
 elengeness
 ennuied
@@ -10711,6 +10710,7 @@ egosyntonic
 etiquet
 endfile
 excusable
+exhausts
 eugonic
 eggheaded
 epithecicia
