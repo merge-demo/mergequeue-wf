@@ -5750,6 +5750,7 @@ burials
 backsight
 bandlimit
 belight
+bosjesman
 bulldozer
 belike
 bogeying
@@ -13273,7 +13274,6 @@ breadthless
 bagmen
 boshes
 brevirostrines
-bosjesman
 buggess
 blazonry
 blushless
