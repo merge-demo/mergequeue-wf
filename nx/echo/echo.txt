@@ -4338,6 +4338,7 @@ enamelist
 euthenasia
 enamelless
 eburnean
+extravillar
 emit
 emplacements
 enamorado
@@ -5980,7 +5981,6 @@ embassade
 epidemiologic
 emitters
 enjoiners
-extravillar
 estafa
 exigence
 electricalness
