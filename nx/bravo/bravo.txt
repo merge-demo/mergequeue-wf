@@ -6827,7 +6827,6 @@ bushbashing
 bradypodoid
 bluehearts
 buprestidan
-bradylalia
 bedizen
 bertie
 belard
@@ -8470,6 +8469,7 @@ begray
 bittium
 breathableness
 burblier
+bradylalia
 brainge
 behaviors
 bilaterally
