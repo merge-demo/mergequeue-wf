@@ -8638,6 +8638,7 @@ goslarite
 gregge
 guidwilly
 gotos
+glided
 goldanged
 gimbaling
 grantha
@@ -9407,7 +9408,6 @@ glossolalist
 goutiness
 glonoin
 gnomists
-glided
 garotes
 gurly
 germigenous
