@@ -2837,6 +2837,7 @@ canonesses
 canonicalization
 cinctures
 canonicalized
+cavaedia
 cordant
 canonicalizes
 croaked
@@ -22952,7 +22953,6 @@ consign
 consignatary
 consignataries
 chlorodized
-cavaedia
 counterretreat
 comforting
 chromosomic
