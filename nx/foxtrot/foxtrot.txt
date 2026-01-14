@@ -5684,7 +5684,6 @@ frostbitten
 flighter
 fleysome
 farolito
-funicular
 florescent
 forlese
 flightier
@@ -7149,6 +7148,7 @@ fighter
 foolish
 ferryboats
 fascinating
+funicular
 floodless
 fleapit
 factious
