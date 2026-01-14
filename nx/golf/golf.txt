@@ -4244,6 +4244,7 @@ glacify
 gulflike
 guglet
 gossy
+grenat
 goosefoots
 gutling
 geomagnetic
@@ -8538,7 +8539,6 @@ gayal
 gravelish
 guardian
 gulpers
-grenat
 gabling
 gurging
 grouchingly
