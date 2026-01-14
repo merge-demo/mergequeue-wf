@@ -1609,6 +1609,7 @@ envigor
 exogeny
 essenis
 emball
+endosperm
 enterokinetic
 electrosynthetically
 eglantines
@@ -11840,7 +11841,6 @@ extancy
 ensiled
 elutes
 exceeded
-endosperm
 excelente
 evanescent
 egomanias
