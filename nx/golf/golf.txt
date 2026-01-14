@@ -5476,7 +5476,6 @@ griphosaurus
 gammarid
 golaseccan
 geomancy
-gaea
 glyptolith
 grotesques
 girsle
@@ -6711,6 +6710,7 @@ grint
 germanious
 growable
 gromatic
+gaea
 gutsiness
 glades
 gibbergunyah
