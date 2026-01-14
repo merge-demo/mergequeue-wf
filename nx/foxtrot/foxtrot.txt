@@ -2908,6 +2908,7 @@ fibber
 frumpiness
 fanciable
 fortressing
+friendlier
 footmark
 fustianist
 frizzen
@@ -10405,7 +10406,6 @@ faithfully
 furrowers
 freshwoman
 formalin
-friendlier
 foreordainments
 frontages
 floorshow
