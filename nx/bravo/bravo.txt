@@ -3696,7 +3696,6 @@ befrilled
 bros
 bisabol
 bumboatman
-booklover
 burnies
 bube
 brigantinebrigantines
@@ -18273,6 +18272,7 @@ barleycorn
 baldy
 basque
 beydom
+booklover
 bencher
 butterworker
 bradyteleocinesia
