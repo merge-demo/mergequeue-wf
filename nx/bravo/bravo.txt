@@ -5273,7 +5273,6 @@ bolters
 bastes
 brushup
 bothsided
-begazing
 bimasty
 borderer
 bedabbling
@@ -9324,6 +9323,7 @@ bipolarization
 besmear
 bathman
 bishopess
+begazing
 backstrokes
 bromoiodid
 biprism
