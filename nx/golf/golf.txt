@@ -1507,7 +1507,6 @@ gauntness
 girllike
 grotesque
 glumly
-gastrulae
 gusain
 gunzian
 guested
@@ -7780,6 +7779,7 @@ glycolide
 gaisling
 gladkaite
 gematriot
+gastrulae
 grievant
 galvanizations
 gnathism

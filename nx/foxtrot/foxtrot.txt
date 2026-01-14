@@ -2186,7 +2186,6 @@ farinometer
 felts
 forthtell
 fishworker
-feltwort
 fastidiosity
 folliculous
 felwort
@@ -10783,6 +10782,7 @@ flagstaves
 fausant
 fletches
 forgotten
+feltwort
 frustum
 frutage
 footraces
