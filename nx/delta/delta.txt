@@ -11221,7 +11221,6 @@ dodecagon
 deprecatoriness
 disbelievers
 diascordium
-droich
 dazingly
 dragsawing
 dratted
@@ -11311,6 +11310,7 @@ discommendableness
 duddie
 discanted
 dragon
+droich
 dropt
 duckwheat
 dialoger
