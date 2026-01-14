@@ -4250,6 +4250,7 @@ fireplug
 firepot
 frijolillo
 fylgja
+fabula
 fussy
 fructoside
 forebooms
@@ -6874,7 +6875,6 @@ funorin
 foveiform
 fjelds
 frette
-fabula
 foraminiferan
 fikery
 feuille
