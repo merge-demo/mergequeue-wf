@@ -10838,7 +10838,6 @@ chipmunk
 claviharp
 chrysochrous
 chipolata
-coleopteroid
 coming
 cordwain
 chippendale
@@ -29114,6 +29113,7 @@ chicagoan
 crinoidean
 cerebrotonia
 cuadrillero
+coleopteroid
 corundums
 chickenweed
 ceremonialists
