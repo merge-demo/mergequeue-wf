@@ -176,7 +176,6 @@ decipherer
 daedaloid
 diel
 dentololabial
-diaplasma
 daybill
 daemony
 deforesting
@@ -4765,6 +4764,7 @@ demolish
 detrained
 dazzlingly
 dumbbeller
+diaplasma
 deparliament
 demolisher
 daily
