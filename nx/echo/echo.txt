@@ -1631,7 +1631,6 @@ euphonetics
 enregistry
 eruptions
 ecchymoses
-enablers
 errantly
 eyewitnesses
 egomania
@@ -4954,6 +4953,7 @@ embole
 entopical
 epineurial
 enthronise
+enablers
 exigenter
 entoplastron
 encouragement
