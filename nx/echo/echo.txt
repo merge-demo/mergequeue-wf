@@ -1003,7 +1003,6 @@ eastwards
 esoterics
 exhumes
 entera
-expanse
 excavatory
 exocardia
 erotize
@@ -13964,6 +13963,7 @@ embrocations
 extraperineal
 embosked
 ergophile
+expanse
 enwreathed
 endears
 extraperiosteal
