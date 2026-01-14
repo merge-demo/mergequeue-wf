@@ -447,7 +447,6 @@ deified
 dame
 deveining
 declivous
-dogs
 divertibility
 demob
 dalesfolk
@@ -18600,6 +18599,7 @@ dedo
 daincha
 dustless
 droguet
+dogs
 dextrolimonene
 diakonikon
 dustour
