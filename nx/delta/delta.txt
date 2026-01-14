@@ -9254,7 +9254,6 @@ demidolmen
 dementis
 dochmii
 dulcet
-dieresis
 dihydrazone
 defensive
 disemic
@@ -16070,6 +16069,7 @@ dentale
 dangs
 doughier
 deipnosophistic
+dieresis
 dissceptring
 disaffections
 diplozoon
