@@ -667,6 +667,7 @@ brasseries
 bactriticone
 badderlocks
 basidiomycetous
+brigsail
 banagos
 benignancy
 brolga
@@ -7308,7 +7309,6 @@ blowsier
 bleariness
 bestuds
 bescreens
-brigsail
 besully
 borith
 beswarm
