@@ -10659,7 +10659,6 @@ atwitter
 affa
 antiphthisical
 avoider
-auricle
 asterisked
 amissible
 amissing
@@ -23422,6 +23421,7 @@ auditing
 aftersong
 abelmosks
 agnail
+auricle
 accommodational
 advenience
 antifeminist
