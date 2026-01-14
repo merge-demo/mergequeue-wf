@@ -2309,7 +2309,6 @@ gangliglia
 griskin
 gymnodiniaceae
 galidictis
-ganofs
 gaiassa
 gelant
 glyceric
@@ -2537,6 +2536,7 @@ gushed
 ghoulie
 graeme
 goshawks
+ganofs
 gardeny
 gloriation
 gatha
