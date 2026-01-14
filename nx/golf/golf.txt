@@ -707,6 +707,7 @@ grapholite
 grossify
 ghess
 germanistic
+gannet
 gawn
 gladdest
 grissen
@@ -6904,7 +6905,6 @@ gelatinoid
 getters
 graticulate
 glis
-gannet
 glibly
 goodenia
 garnering
