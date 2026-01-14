@@ -9030,7 +9030,6 @@ bobo
 bentwoods
 blankety
 bunchbacked
-bacterium
 bossisms
 biographies
 boulangist
@@ -17515,6 +17514,7 @@ blueweeds
 brandise
 backstopping
 baalath
+bacterium
 burbly
 bonnie
 bantling
