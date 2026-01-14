@@ -7441,7 +7441,6 @@ enif
 esthesia
 ephippia
 enfortune
-esterify
 endeign
 effluency
 ephor
@@ -12517,6 +12516,7 @@ eupione
 eumolpides
 enzymology
 exculpative
+esterify
 extoolitic
 enactable
 embarkations
