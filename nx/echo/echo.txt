@@ -1326,6 +1326,7 @@ eeriness
 ecostate
 epithalamion
 ensnares
+ephemerae
 essaying
 encircler
 estrado
@@ -11027,7 +11028,6 @@ euangiotic
 epipial
 eyne
 endogenies
-ephemerae
 enrollments
 episcopacies
 eliminator
