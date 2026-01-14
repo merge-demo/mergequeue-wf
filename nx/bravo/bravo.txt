@@ -3158,7 +3158,6 @@ bunda
 bleakest
 bonnes
 bronchography
-bleat
 briskly
 brachiating
 bookcase
@@ -8869,6 +8868,7 @@ bursiform
 bulltoad
 brilliants
 binny
+bleat
 briners
 bumpered
 beanbags
