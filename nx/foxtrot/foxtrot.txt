@@ -4729,6 +4729,7 @@ fluey
 fixidity
 filmdom
 fixing
+feudalist
 flannelleaf
 flopwing
 fingerhook
@@ -10618,7 +10619,6 @@ fibration
 foreland
 foughty
 favose
-feudalist
 fruchtschiefer
 fullbodied
 farragos
