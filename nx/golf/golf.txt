@@ -3927,7 +3927,6 @@ graining
 guls
 gaelicization
 goblinism
-glumpy
 gloweringly
 gyges
 galloperdix
@@ -7634,6 +7633,7 @@ gerenda
 galvanist
 garpike
 gametangium
+glumpy
 gilbertite
 glucosidically
 gracefuller
