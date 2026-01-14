@@ -1202,6 +1202,7 @@ fainness
 falconine
 fannon
 fascista
+fairyfloss
 fright
 fund
 fleech
@@ -7423,7 +7424,6 @@ fought
 france
 ferocious
 formaldehydesulphoxylic
-fairyfloss
 foredone
 forastero
 frankist
