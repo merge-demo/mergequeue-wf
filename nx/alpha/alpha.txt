@@ -1089,7 +1089,6 @@ abune
 ausubo
 aburton
 artemisia
-aedoeology
 atestine
 amphioxidae
 abused
@@ -9396,6 +9395,7 @@ alternate
 alternated
 alternately
 apheretic
+aedoeology
 achier
 alignments
 assaugement
