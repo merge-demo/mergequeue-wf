@@ -5462,6 +5462,7 @@ afterdeck
 aerial
 afterform
 actuarial
+amarantite
 aerolith
 aristos
 apicillary
@@ -21512,7 +21513,6 @@ asphyxias
 anticlassically
 auxoaction
 antiphase
-amarantite
 asphyxiating
 attern
 athapaskan
