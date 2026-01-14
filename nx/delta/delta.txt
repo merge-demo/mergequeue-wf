@@ -5533,7 +5533,6 @@ deposer
 depauperize
 dorsal
 dyscrase
-depeinct
 dwarfing
 disharmonizing
 donatistic
@@ -17697,6 +17696,7 @@ declamando
 deferentitis
 demidevil
 dilemmic
+depeinct
 dullhearted
 dynamometer
 dotal
