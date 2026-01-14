@@ -7119,6 +7119,7 @@ forelock
 fists
 floriparous
 francis
+flaxy
 foodful
 fribby
 fatalities
@@ -11327,7 +11328,6 @@ fatwa
 fidejussionary
 firedog
 formatted
-flaxy
 fgn
 foreguts
 firesides
