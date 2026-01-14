@@ -848,7 +848,6 @@ acesodyne
 abscission
 abscond
 absconded
-agonizes
 archegoniate
 agha
 accurse
@@ -16545,6 +16544,7 @@ apaid
 abioses
 agapanthuses
 antitrochanter
+agonizes
 allochetia
 apanaged
 alouatta
