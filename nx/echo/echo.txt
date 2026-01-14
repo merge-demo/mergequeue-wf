@@ -1002,7 +1002,6 @@ eddied
 edits
 eastwards
 esoterics
-exhumes
 entera
 excavatory
 exocardia
@@ -9083,6 +9082,7 @@ egoistically
 erythrosis
 eriglossa
 ephemeras
+exhumes
 erythroxylaceous
 eulogizer
 encycl
