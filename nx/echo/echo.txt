@@ -2144,6 +2144,7 @@ equably
 experiencing
 emmarble
 euxenite
+electrogenesis
 elastivity
 eleusine
 externat
@@ -3724,7 +3725,6 @@ explorate
 elucidators
 epichirema
 embryophore
-electrogenesis
 elements
 embryos
 encuirassed
