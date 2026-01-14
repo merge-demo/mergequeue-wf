@@ -3045,7 +3045,6 @@ bah
 bhang
 buccinum
 branglement
-bopping
 bare
 burgesses
 bartizans
@@ -11692,6 +11691,7 @@ boathouse
 backbends
 boffos
 blacketeer
+bopping
 bandhu
 botchy
 bittacle
