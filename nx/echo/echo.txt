@@ -4544,6 +4544,7 @@ euphony
 endoparasitica
 epagoge
 echinodermal
+excubitoria
 emberizidae
 enterocystoma
 electing
@@ -12088,7 +12089,6 @@ eubacterium
 ency
 excruciating
 excruciator
-excubitoria
 electrolysing
 epitheloid
 eradicator
