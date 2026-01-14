@@ -1316,7 +1316,6 @@ caliban
 clogged
 cunea
 calaverite
-corroborate
 caliber
 compulsatory
 calibers
@@ -7527,6 +7526,7 @@ ceratonia
 cicerones
 counterbrace
 clinically
+corroborate
 cardamoms
 chlorophyl
 ceratophyllaceous
