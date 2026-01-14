@@ -2018,6 +2018,7 @@ bandcutter
 banisher
 banishment
 banyuls
+bremsstrahlung
 backlists
 baniva
 burbliest
@@ -9057,7 +9058,6 @@ bobsleding
 bewhite
 bartizan
 brender
-bremsstrahlung
 bacterioagglutinin
 bets
 byp
