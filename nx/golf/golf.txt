@@ -4748,6 +4748,7 @@ gooder
 gauping
 geisothermal
 graphiology
+gleyde
 glycerate
 galchic
 gelatia
@@ -8516,7 +8517,6 @@ geotaxis
 gegenion
 gelada
 gene
-gleyde
 groutnoll
 gnatling
 grivets
