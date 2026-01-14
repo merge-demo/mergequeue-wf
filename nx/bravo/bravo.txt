@@ -9103,7 +9103,6 @@ burying
 biophagism
 biophilous
 biophysiography
-balibuntal
 biophysiology
 barky
 besiegingly
@@ -15855,6 +15854,7 @@ burnup
 beshrouds
 busmen
 banande
+balibuntal
 becoward
 bihalve
 barebones
