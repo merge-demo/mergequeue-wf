@@ -7855,7 +7855,6 @@ biface
 bigarreau
 baiting
 bark
-bronzy
 bursautee
 befooled
 bibble
@@ -15843,6 +15842,7 @@ bioclimatologist
 besonio
 begowned
 bimester
+bronzy
 broigne
 blueprinting
 broiled
