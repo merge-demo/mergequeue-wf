@@ -6243,6 +6243,7 @@ guestimate
 giglot
 gliders
 glucosidase
+gelatose
 gatemaker
 gedd
 gonne
@@ -7974,7 +7975,6 @@ gaucheries
 gunz
 greenhorn
 gheraoed
-gelatose
 granddaughter
 gemmary
 giglets
