@@ -3011,7 +3011,6 @@ floaters
 friendliwise
 foreman
 floodage
-flogster
 fioriture
 firemanship
 feoffers
@@ -7514,6 +7513,7 @@ forcibility
 forcibleness
 furnacite
 freckliest
+flogster
 ferredoxin
 firecrest
 finner
