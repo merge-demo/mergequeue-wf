@@ -4156,7 +4156,6 @@ eyers
 earhead
 externum
 encl
-encaustes
 exporter
 elaeosia
 eyeroot
@@ -11998,6 +11997,7 @@ enamelled
 epidialogue
 enstranged
 exclusivistic
+encaustes
 exclusivity
 effluents
 egomaniac
