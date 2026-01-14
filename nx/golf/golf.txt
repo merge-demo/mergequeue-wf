@@ -2447,6 +2447,7 @@ gyrolith
 gazel
 gnapweed
 goaled
+gripman
 guiac
 grouseless
 gummose
@@ -7228,7 +7229,6 @@ goodnesses
 gony
 greenthumbed
 gooroo
-gripman
 generality
 geotectonics
 griefs

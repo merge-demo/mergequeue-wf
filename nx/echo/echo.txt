@@ -3217,7 +3217,6 @@ euphoria
 entoptical
 eurhythmics
 excl
-elaborate
 evinced
 egghead
 entertainingness
@@ -7021,6 +7020,7 @@ emplace
 embladder
 explorable
 exclaimer
+elaborate
 estated
 earphone
 enactory
