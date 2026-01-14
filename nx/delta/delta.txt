@@ -1771,7 +1771,6 @@ debark
 drawknife
 debarking
 digamist
-discede
 dwelled
 debarkment
 degauss
@@ -18388,6 +18387,7 @@ damsons
 deepfreezing
 dorrs
 divulgers
+discede
 detracting
 decelerations
 diverb
