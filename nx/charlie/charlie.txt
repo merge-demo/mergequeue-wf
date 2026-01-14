@@ -15439,7 +15439,6 @@ claret
 cervantes
 cheerio
 cajou
-canzos
 coppas
 clary
 claribella
@@ -19499,6 +19498,7 @@ crociary
 corposant
 colourist
 colourless
+canzos
 ceruleum
 colourman
 colpenchyma
