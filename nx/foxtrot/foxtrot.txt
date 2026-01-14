@@ -6886,6 +6886,7 @@ foliaged
 foreparts
 firetower
 faulter
+fenestral
 flipjack
 fourhanded
 fabled
@@ -7368,7 +7369,6 @@ femereil
 fossilism
 filefish
 frache
-fenestral
 fagald
 finchbacked
 feazing
