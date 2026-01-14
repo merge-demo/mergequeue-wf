@@ -10965,7 +10965,6 @@ biclinia
 buhlwork
 barth
 bourrees
-blinkard
 bedchair
 batara
 blesbuck
@@ -11389,6 +11388,7 @@ benmost
 bakeapple
 bendingly
 beguiled
+blinkard
 bluebeard
 bure
 buff
