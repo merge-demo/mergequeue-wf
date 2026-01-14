@@ -1427,6 +1427,7 @@ bawls
 balefires
 bewreak
 barmbrack
+bethumped
 branned
 baleys
 baleise
@@ -5406,7 +5407,6 @@ begrett
 begrim
 brinny
 breads
-bethumped
 begrimed
 bandusian
 bedeafened
