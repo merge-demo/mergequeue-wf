@@ -12528,7 +12528,6 @@ caprifole
 countergauger
 charmer
 coachmaking
-cassino
 chrysorin
 corimelaenidae
 chromoptometer
@@ -29054,6 +29053,7 @@ chorioadenoma
 coraciae
 commissariats
 cantab
+cassino
 cryptorhynchus
 crimper
 cynomorpha
