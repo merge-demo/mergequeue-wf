@@ -2369,7 +2369,6 @@ excrete
 espaliering
 encore
 encomia
-equines
 evenlong
 equison
 electrochronometric
@@ -6604,6 +6603,7 @@ esperantidist
 ernest
 erump
 embryous
+equines
 enseam
 exfoliated
 egyptianism
