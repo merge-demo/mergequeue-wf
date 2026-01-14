@@ -4860,7 +4860,6 @@ diminuendo
 diosmosis
 dialogist
 demonologer
-demonology
 demonologically
 demonomist
 draisene
@@ -18355,6 +18354,7 @@ duodenate
 duodenation
 dogtrotted
 ditcher
+demonology
 degelation
 dyestuff
 diallelon
