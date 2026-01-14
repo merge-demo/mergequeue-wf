@@ -7721,7 +7721,6 @@ granzita
 gypsyesque
 gynostemium
 guaranteing
-getter
 gynandrophore
 gaspy
 gaw
@@ -8348,6 +8347,7 @@ graspingly
 gibbosity
 ginglymi
 glycuronide
+getter
 grassbird
 grunzie
 guha
