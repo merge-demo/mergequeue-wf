@@ -4745,6 +4745,7 @@ generater
 goths
 gynomonecious
 gise
+gallstones
 granges
 gooder
 gauping
@@ -8477,7 +8478,6 @@ grapestone
 geodete
 gigas
 gravelroot
-gallstones
 gentisic
 gubbertush
 goldbricks
