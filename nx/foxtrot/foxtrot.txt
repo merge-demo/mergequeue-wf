@@ -673,6 +673,7 @@ fitness
 fames
 foggara
 fuddled
+fragmentariness
 finessing
 frissons
 formism
@@ -9273,7 +9274,6 @@ firebugs
 fertilising
 fascinatress
 freeborn
-fragmentariness
 fragmentist
 foundries
 factionalist
