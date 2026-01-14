@@ -2521,6 +2521,7 @@ cocoroot
 cinematographies
 curryfavel
 candyweed
+countered
 candle
 coehorn
 candleberries
@@ -26793,7 +26794,6 @@ chromogenic
 clamping
 counterdrive
 crewneck
-countered
 cypselomorph
 countereffort
 comfortful
