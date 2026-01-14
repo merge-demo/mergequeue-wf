@@ -175,6 +175,7 @@ damas
 decipherer
 daedaloid
 diel
+dentololabial
 diaplasma
 daybill
 daemony
@@ -3269,7 +3270,6 @@ deflationary
 dorsoposteriad
 disjointedly
 deleteriously
-dentololabial
 different
 definably
 dn
