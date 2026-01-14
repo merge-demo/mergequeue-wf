@@ -1134,7 +1134,6 @@ enumerable
 edwina
 extempory
 epeisodion
-ecphrasis
 esterification
 electrotypes
 ergoism
@@ -12029,6 +12028,7 @@ ecblastesis
 enwwove
 excoriations
 electropsychrometer
+ecphrasis
 epiclike
 escaper
 electrostenolytic
