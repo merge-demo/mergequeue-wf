@@ -4996,6 +4996,7 @@ firmware
 fthm
 flamers
 foxing
+furfuration
 fiddley
 flamy
 flowchart
@@ -9568,7 +9569,6 @@ faecalith
 fart
 forechoir
 faltche
-furfuration
 filicinian
 futurize
 frontomaxillary
