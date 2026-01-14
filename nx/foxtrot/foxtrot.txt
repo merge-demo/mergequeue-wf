@@ -409,7 +409,6 @@ flannelflower
 froes
 faintly
 forecastlehead
-forehall
 ferrymen
 filicauline
 forbid
@@ -10139,6 +10138,7 @@ flamant
 foretaste
 flyball
 foamiest
+forehall
 feebling
 forwardness
 fiercly
