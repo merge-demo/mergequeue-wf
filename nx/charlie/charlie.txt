@@ -20491,7 +20491,6 @@ composition
 compartments
 copist
 chapin
-celticist
 compass
 compassability
 compassable
@@ -24385,6 +24384,7 @@ coolen
 cooler
 coolers
 crimpier
+celticist
 caviling
 cholinergic
 coolest
