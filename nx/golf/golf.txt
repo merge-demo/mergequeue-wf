@@ -8420,6 +8420,7 @@ geste
 grisailles
 gunport
 gemmaceous
+glaumrie
 gallivanting
 galeeny
 genipa
@@ -8786,7 +8787,6 @@ gonapod
 grained
 gawkers
 gudefather
-glaumrie
 goo
 glist
 guacharoes
