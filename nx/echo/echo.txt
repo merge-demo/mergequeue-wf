@@ -678,6 +678,7 @@ exprobration
 extimulate
 eigenstate
 endothermy
+elodes
 enshrouding
 electrostatic
 excitonic
@@ -3162,7 +3163,6 @@ extradicting
 etatist
 esthetically
 ephebi
-elodes
 eventognathous
 epiphytology
 elogy
