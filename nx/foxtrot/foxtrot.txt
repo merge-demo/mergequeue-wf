@@ -6720,6 +6720,7 @@ forenotice
 folkright
 foemanship
 fripperer
+frustum
 forethoughtfully
 frankfold
 filemarks
@@ -10788,7 +10789,6 @@ fausant
 fletches
 forgotten
 feltwort
-frustum
 frutage
 footraces
 frutex
