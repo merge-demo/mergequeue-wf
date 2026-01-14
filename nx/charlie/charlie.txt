@@ -16638,7 +16638,6 @@ conteck
 clops
 cantref
 coracopectoral
-cloque
 cephalosporium
 caedmonian
 cleanhandedness
@@ -28929,6 +28928,7 @@ cribellum
 cribose
 cribrate
 cribriform
+cloque
 cribriformity
 convertaplane
 cribs
