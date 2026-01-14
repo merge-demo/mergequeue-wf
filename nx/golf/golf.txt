@@ -2974,7 +2974,6 @@ gestatorium
 guardingly
 glaury
 gusts
-gingivalgia
 gaddang
 guilt
 gurkha
@@ -10577,6 +10576,7 @@ grinderies
 grasset
 gemlike
 grecoue
+gingivalgia
 gurmukhi
 gneissitic
 gatewoman
