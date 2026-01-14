@@ -10427,6 +10427,7 @@ complementation
 chilacayote
 calinago
 capiases
+coextension
 chylaceous
 chilalgia
 consult
@@ -12949,7 +12950,6 @@ cia
 cyan
 cyanamid
 conspires
-coextension
 chipling
 coaxially
 cyanate
