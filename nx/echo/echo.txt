@@ -3903,7 +3903,6 @@ echeneis
 entomotomy
 extraboldface
 etruscans
-eminencies
 extramolecular
 eminent
 easternized
@@ -4610,6 +4609,7 @@ enchyma
 estheticism
 exencephalus
 electorally
+eminencies
 exquisitiveness
 efficaciously
 esseda
