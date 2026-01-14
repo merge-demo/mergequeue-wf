@@ -2783,6 +2783,7 @@ desmogen
 dugal
 dop
 dorsalward
+daughterhood
 disharmonize
 dicyemida
 demarches
@@ -15707,7 +15708,6 @@ downbye
 dorask
 dorbeetle
 dissava
-daughterhood
 dorbel
 dorbugs
 defeatist
