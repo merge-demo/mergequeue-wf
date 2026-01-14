@@ -3725,6 +3725,7 @@ grenadilla
 glaver
 gamomania
 greillade
+gametange
 ghibli
 gobline
 ghiblis
@@ -9723,7 +9724,6 @@ grumous
 gowaned
 gelable
 graphologies
-gametange
 gradative
 glareous
 galapee
