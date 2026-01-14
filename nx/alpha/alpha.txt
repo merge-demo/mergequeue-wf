@@ -6604,7 +6604,6 @@ acensuador
 arakanese
 anatolian
 aporetical
-anointer
 azotise
 audible
 allemandes
@@ -12493,6 +12492,7 @@ antidoron
 aligns
 aboriginary
 aeropleustic
+anointer
 acinetarian
 anankes
 autochthonously
