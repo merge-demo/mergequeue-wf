@@ -6123,7 +6123,6 @@ gliosis
 gastroid
 geitonogamous
 gyroma
-greit
 glossographical
 greatly
 gnathostomous
@@ -10321,6 +10320,7 @@ guinfo
 getsul
 glassfuls
 gullygut
+greit
 gnatsnapper
 gilling
 goralog
