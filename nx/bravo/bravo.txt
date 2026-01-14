@@ -4821,7 +4821,6 @@ backpedaled
 burriest
 bougee
 bedroll
-bruckle
 bandicoots
 bedrugged
 bedrugs
@@ -14480,6 +14479,7 @@ burgher
 branchiocardiac
 blowline
 brainstems
+bruckle
 brainstone
 bracteal
 braconidae
