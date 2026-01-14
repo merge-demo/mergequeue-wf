@@ -8078,7 +8078,6 @@ clanks
 chaetifera
 chaetiferous
 cocytean
-chaetochloa
 chaetodon
 chaetodontidae
 chaetognatha
@@ -17691,6 +17690,7 @@ convenery
 cochlear
 cochleariform
 counterstimulate
+chaetochloa
 cocksfoot
 coalternation
 comedy
