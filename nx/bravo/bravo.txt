@@ -2802,7 +2802,6 @@ backstroking
 beachless
 bobfly
 bhp
-barrowman
 balletomanes
 bloopers
 buckayro
@@ -13124,6 +13123,7 @@ boe
 braggartry
 baud
 branchiopallial
+barrowman
 boracite
 blurrer
 bowdlerise
