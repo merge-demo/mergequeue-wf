@@ -4851,7 +4851,6 @@ gifted
 gadi
 globularia
 gein
-glaistig
 grapewort
 gymnast
 grubstreet
@@ -6598,6 +6597,7 @@ gruis
 gloppen
 gawkiest
 geldesprung
+glaistig
 graduateship
 gudgeons
 gluconeogenetic
