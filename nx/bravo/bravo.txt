@@ -2040,7 +2040,6 @@ bailiaries
 banknote
 bookseller
 biophysicist
-banknotes
 brasserie
 bedeguar
 buffoonesque
@@ -16351,6 +16350,7 @@ brrr
 brotherless
 bespecked
 bitume
+banknotes
 brachistochronic
 busbies
 bayz
