@@ -3398,6 +3398,7 @@ endostyle
 enlute
 eyry
 eulogic
+epicycle
 environed
 elegies
 encheer
@@ -13829,7 +13830,6 @@ expos
 euthenics
 excudit
 effeminize
-epicycle
 elaeothesia
 extraversively
 ethnozoological
