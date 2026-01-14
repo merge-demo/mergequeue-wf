@@ -927,7 +927,6 @@ departed
 dizzardly
 dardan
 deadman
-dodecastyle
 doctors
 dextrosazone
 dexter
@@ -18656,6 +18655,7 @@ devitrification
 decolorize
 devaporation
 dereign
+dodecastyle
 dihydroxyacetone
 deathful
 deflagrability
