@@ -992,7 +992,6 @@ calaminaris
 callipygian
 caccabis
 calamine
-cervidae
 calamines
 cypseline
 confiscating
@@ -8241,6 +8240,7 @@ chakram
 carpentry
 chaksi
 commissural
+cervidae
 chal
 complection
 chalaco
