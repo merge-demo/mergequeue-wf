@@ -5703,6 +5703,7 @@ furtive
 fract
 fuci
 flyless
+flustery
 forbearingly
 fuddle
 flitted
@@ -6555,7 +6556,6 @@ flusteration
 forthcoming
 festschrifts
 fakes
-flustery
 familism
 filiciform
 fondnesses
