@@ -1885,7 +1885,6 @@ ensepulchering
 equitemporal
 expeller
 elfin
-ensober
 eremology
 erastian
 eila
@@ -7614,6 +7613,7 @@ epicotyls
 endoderms
 enterpillar
 extrasomatic
+ensober
 emplead
 enterostasis
 earworms
