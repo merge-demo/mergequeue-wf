@@ -6951,7 +6951,6 @@ badder
 bismuths
 bagheli
 brott
-bilihumin
 begohm
 bagoong
 balky
@@ -10020,6 +10019,7 @@ brahmic
 berbery
 barrenness
 bivector
+bilihumin
 biventer
 backseat
 blackwashing
