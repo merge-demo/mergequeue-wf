@@ -4627,7 +4627,6 @@ bedazzlingly
 bibliopolery
 beckon
 baptise
-bedbugs
 boden
 bedtick
 bailliage
@@ -15447,6 +15446,7 @@ brevete
 barghests
 bowsed
 bombe
+bedbugs
 benzylidene
 biogeographically
 brighid
