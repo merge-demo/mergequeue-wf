@@ -2970,7 +2970,6 @@ berberins
 blizzardly
 bloodybones
 billowed
-bonus
 brasset
 beath
 battalias
@@ -6739,6 +6738,7 @@ blurted
 brawler
 boons
 beholds
+bonus
 bermudas
 bucketfull
 buffoons
