@@ -3984,7 +3984,6 @@ forecastles
 fono
 flav
 falkland
-friendlier
 feverfew
 fibrinemia
 fiscal
@@ -10409,6 +10408,7 @@ faithfully
 furrowers
 freshwoman
 formalin
+friendlier
 foreordainments
 frontages
 floorshow
