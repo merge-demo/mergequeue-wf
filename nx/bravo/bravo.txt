@@ -2899,6 +2899,7 @@ briscola
 barraging
 battologist
 bailer
+bisectional
 braca
 battener
 buphthalmic
@@ -14281,7 +14282,6 @@ boanergean
 bloodstroke
 byegaein
 blunderingly
-bisectional
 bradydactylia
 bisulfide
 belamour
