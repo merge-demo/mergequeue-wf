@@ -811,7 +811,6 @@ fanfaronading
 farmhouses
 foiter
 folkloric
-fatality
 froster
 forensicality
 flipe
@@ -11436,6 +11435,7 @@ furfuraceously
 ferity
 fingerlike
 ferling
+fatality
 furred
 fascis
 frieze
