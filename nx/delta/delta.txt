@@ -1708,7 +1708,6 @@ deathify
 degums
 diobol
 deathiness
-dasewe
 discantus
 duckpond
 devotes
@@ -12518,6 +12517,7 @@ dislimb
 disyllabized
 discontinuations
 disconform
+dasewe
 disillusionising
 disdeceive
 decimalize
