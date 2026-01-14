@@ -5977,6 +5977,7 @@ bibio
 bufagin
 bangalay
 bude
+battels
 benumbing
 benighter
 bevor
@@ -16052,7 +16053,6 @@ beryllosis
 blooming
 backshift
 bronchohemorrhagia
-battels
 bridelace
 boatwoman
 bonchief
