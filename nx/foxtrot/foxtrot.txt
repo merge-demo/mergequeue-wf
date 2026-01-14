@@ -4535,7 +4535,6 @@ forblow
 feebleheartedness
 foreshank
 fou
-friandise
 festschrift
 flicking
 fissilinguia
@@ -9899,6 +9898,7 @@ formee
 fribbler
 friskle
 fricace
+friandise
 fricandeaux
 foozlers
 footcloths
