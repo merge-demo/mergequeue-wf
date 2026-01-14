@@ -3647,7 +3647,6 @@ forebitter
 facticide
 fretsaws
 filigrained
-flaughts
 fret
 fiftieths
 fibrillar
@@ -8354,6 +8353,7 @@ fautorship
 flytraps
 fusate
 forisfamiliation
+flaughts
 ferrotyping
 fatherlike
 freemartin
