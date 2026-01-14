@@ -893,6 +893,7 @@ granules
 gametogenic
 gueparde
 gravemaster
+geologer
 glutathione
 gleaminess
 gladdens
@@ -4252,7 +4253,6 @@ gliosa
 greenovite
 gonidiose
 grovel
-geologer
 gois
 gerund
 galvanomagnetism
