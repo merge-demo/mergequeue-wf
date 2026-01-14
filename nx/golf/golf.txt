@@ -775,7 +775,6 @@ galliformes
 ginneries
 goose
 gracefullest
-ghrush
 gorble
 girllikeness
 grinnellia
@@ -1758,6 +1757,7 @@ governmentish
 gootee
 giaour
 gymnoglossa
+ghrush
 guberla
 graniticoline
 gynopara
