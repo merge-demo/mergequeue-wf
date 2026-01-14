@@ -1551,6 +1551,7 @@ giftwrap
 gripers
 growed
 geez
+gallwort
 gilpy
 gravaminous
 galileo
@@ -8575,7 +8576,6 @@ grallatory
 gaufrette
 grasscutter
 glycolaldehyde
-gallwort
 gith
 gourmand
 generates
