@@ -10692,6 +10692,7 @@ eelgrasses
 euglenaceae
 extrasyllabic
 embraced
+equiaxe
 endopleural
 euripus
 epitra
@@ -13710,7 +13711,6 @@ externe
 excursionize
 expiatist
 ermanaric
-equiaxe
 ergocalciferol
 enginous
 evasive
