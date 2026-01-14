@@ -28752,7 +28752,6 @@ cunctatious
 cresc
 comparativeness
 cordelier
-crescendo
 conspiracy
 crescendoing
 crescendos
@@ -31174,6 +31173,7 @@ clerklike
 catechutannic
 commulation
 contrappostos
+crescendo
 corantos
 cloudling
 cuprene
