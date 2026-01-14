@@ -24248,6 +24248,7 @@ cholecystoduodenostomy
 constraining
 curval
 culturing
+copatentee
 comr
 condonance
 convolvulus
@@ -24533,7 +24534,6 @@ cretinization
 coradical
 copastor
 candlebox
-copatentee
 copatriot
 copatroness
 cathectic
