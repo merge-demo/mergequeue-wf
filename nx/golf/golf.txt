@@ -5157,6 +5157,7 @@ glinting
 glaucidium
 granddad
 grimness
+gladwin
 gainyield
 ghuz
 generalissima
@@ -6306,7 +6307,6 @@ gobylike
 gnashed
 gneu
 gotham
-gladwin
 gymnasial
 guidsire
 gyrons
