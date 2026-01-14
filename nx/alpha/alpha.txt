@@ -2838,7 +2838,6 @@ abominability
 areometer
 acromiohumeral
 accrete
-adinida
 acromphalus
 acronic
 acronically
@@ -4462,6 +4461,7 @@ acrography
 adventual
 agromyzidae
 animalization
+adinida
 arundo
 adventured
 adventuresome
