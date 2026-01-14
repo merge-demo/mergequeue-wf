@@ -6346,6 +6346,7 @@ endostitis
 ebbed
 eprouvette
 endoerythrocytic
+electrographite
 enshrined
 enshrinement
 embars
@@ -9174,7 +9175,6 @@ enchodus
 endosiphuncle
 elates
 embryophyte
-electrographite
 empiricism
 echelon
 exotropia
