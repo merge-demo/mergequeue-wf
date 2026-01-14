@@ -4753,7 +4753,6 @@ guzmania
 gymnasiast
 guarnieri
 gumshoe
-glucosuria
 grudgingly
 genista
 gastrovascular
@@ -8653,6 +8652,7 @@ gulfed
 gingerleaf
 grapline
 goldfielder
+glucosuria
 gaslight
 gasteralgia
 govern
