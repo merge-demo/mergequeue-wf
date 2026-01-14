@@ -2074,6 +2074,7 @@ ernestine
 elamite
 episcope
 electrophorese
+eject
 eudialyte
 enteroscopy
 exacum
@@ -13677,7 +13678,6 @@ extrapolates
 epithem
 encomiendas
 electrocataphoresis
-eject
 enphytotic
 endorsors
 erratum
