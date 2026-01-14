@@ -2089,7 +2089,6 @@ bcf
 baldest
 blesses
 bannerols
-birthmarks
 bioflavinoid
 buyers
 bannocks
@@ -10196,6 +10195,7 @@ beefish
 billette
 blackens
 bakalei
+birthmarks
 blackfeet
 barrelhouses
 bewrayingly
