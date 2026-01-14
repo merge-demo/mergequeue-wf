@@ -3826,7 +3826,6 @@ ganymede
 greenfinch
 grumpishness
 graspless
-grus
 greycoat
 giants
 gratifyingly
@@ -4503,6 +4502,7 @@ gyp
 gundog
 gymnastically
 graves
+grus
 gyassa
 generaliter
 greffier
