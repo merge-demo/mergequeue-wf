@@ -3943,7 +3943,6 @@ fraple
 ferrocyanogen
 falsehearted
 furrowed
-flemish
 foresummon
 forbodes
 fimbriate
@@ -6844,6 +6843,7 @@ flourishes
 frowstiness
 forethink
 foldcourse
+flemish
 fiberless
 forzando
 fleshhook
