@@ -2459,7 +2459,6 @@ cancionero
 canciones
 charivaried
 coacervation
-cancrid
 cruzeiro
 capelline
 cancrine
@@ -13425,6 +13424,7 @@ conspicuousness
 cleared
 catchingly
 craniognomy
+cancrid
 courageously
 christabel
 crozzle
