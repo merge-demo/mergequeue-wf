@@ -13508,7 +13508,6 @@ bedless
 broomer
 bentstar
 beray
-browzer
 bionomics
 benefaction
 bars
@@ -14622,6 +14621,7 @@ banate
 bacis
 blatterer
 brandiron
+browzer
 buddle
 bimaculate
 billhooks
