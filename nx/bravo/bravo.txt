@@ -12317,7 +12317,6 @@ behold
 boltheading
 beslimed
 boltlike
-blindling
 beaupers
 boltmaker
 bunga
@@ -17432,6 +17431,7 @@ bunk
 benzanilide
 begrudged
 bipersonal
+blindling
 byerite
 brancard
 bushbaby
