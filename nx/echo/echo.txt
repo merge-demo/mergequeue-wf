@@ -2658,7 +2658,6 @@ electrophrenic
 eyrie
 enantioblastic
 electropower
-electropsychrometer
 eidolology
 emblazonment
 evolvers
@@ -12029,6 +12028,7 @@ engenderment
 ecblastesis
 enwwove
 excoriations
+electropsychrometer
 epiclike
 escaper
 electrostenolytic
