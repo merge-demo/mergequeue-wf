@@ -654,7 +654,6 @@ boiseries
 baculoid
 baculus
 badaga
-biorgan
 buncombe
 bunted
 barnstormed
@@ -2544,6 +2543,7 @@ bizardite
 baboodom
 bucca
 beflowers
+biorgan
 baggy
 bariatrician
 banderilla
