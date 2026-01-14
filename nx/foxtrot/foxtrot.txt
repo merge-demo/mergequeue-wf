@@ -4923,7 +4923,6 @@ fives
 foenngreek
 fibrinate
 fellage
-freedmen
 fraternalism
 fulvidness
 federationist
@@ -8160,6 +8159,7 @@ filmiest
 fillister
 fathogram
 fumigator
+freedmen
 foretellers
 forethrift
 fusel
