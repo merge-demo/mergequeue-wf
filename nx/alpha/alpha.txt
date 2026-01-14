@@ -2021,7 +2021,6 @@ acetosoluble
 acetostearin
 acetothienone
 acetotoluid
-alkalic
 accessible
 awellimiden
 argumentator
@@ -2379,6 +2378,7 @@ anisognathism
 agitative
 artifact
 awalt
+alkalic
 alizari
 archontate
 archical
