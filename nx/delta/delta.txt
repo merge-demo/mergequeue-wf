@@ -9381,7 +9381,6 @@ dautie
 depurged
 disinflating
 diffract
-diffractively
 deruralize
 diffractiveness
 dist
@@ -12869,6 +12868,7 @@ darksome
 dishevelment
 dissyllabic
 dyarchic
+diffractively
 dirhem
 dismarket
 dispence
