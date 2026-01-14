@@ -6468,7 +6468,6 @@ elkhound
 electrolyzing
 epizoisms
 ensurance
-ensuring
 entitative
 excited
 endings
@@ -13644,6 +13643,7 @@ engrosses
 erma
 echoes
 ecyphellate
+ensuring
 elongating
 extenuate
 extenuates
