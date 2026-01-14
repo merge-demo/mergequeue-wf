@@ -2217,6 +2217,7 @@ giraffoid
 geoidal
 garmented
 gestational
+geotaxis
 gooseskin
 goaves
 gemwork
@@ -8509,7 +8510,6 @@ gandhara
 gorcocks
 gravitations
 gerenuk
-geotaxis
 gegenion
 gelada
 gene
