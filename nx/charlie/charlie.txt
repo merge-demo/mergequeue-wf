@@ -1554,6 +1554,7 @@ compounding
 concertos
 calliopsis
 chutes
+caporals
 cuisse
 callipash
 coorieing
@@ -3374,7 +3375,6 @@ caponizer
 caponniere
 capons
 caporal
-caporals
 candlestick
 crozer
 catapetalous
