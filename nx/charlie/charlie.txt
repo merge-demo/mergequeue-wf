@@ -4558,6 +4558,7 @@ congratulate
 carnaria
 carnassial
 carnate
+contrasting
 corupay
 cordialize
 carnation
@@ -11168,7 +11169,6 @@ chloralosed
 chloralum
 chelators
 chlorambucil
-contrasting
 chloramin
 caperwort
 chilopodous
