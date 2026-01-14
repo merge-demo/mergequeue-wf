@@ -2640,6 +2640,7 @@ farmyardy
 fantast
 fabric
 falanaka
+flowerful
 forwoden
 freshes
 fluocerite
@@ -10304,7 +10305,6 @@ fasciodesis
 fleshen
 frat
 funders
-flowerful
 franconian
 fuddlebrained
 formolit
