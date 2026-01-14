@@ -2671,7 +2671,6 @@ glossopetra
 goatee
 glossosteresis
 gambir
-gastrocolic
 glycohemia
 goldfish
 geswarp
@@ -3150,6 +3149,7 @@ gymnocidium
 gastful
 guffaws
 gurglet
+gastrocolic
 glauconiferous
 goan
 golandaas
