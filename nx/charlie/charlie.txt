@@ -28405,7 +28405,6 @@ cread
 creak
 cristated
 catalecticant
-caesarize
 creaky
 citizenism
 cholestene
@@ -30677,6 +30676,7 @@ crusados
 chiveret
 crizzle
 coses
+caesarize
 crawls
 class
 colorer
