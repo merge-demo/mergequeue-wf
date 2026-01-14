@@ -4630,7 +4630,6 @@ dismantle
 draggiest
 demisuit
 dumminess
-decorum
 dithyrambos
 diphthongous
 dimissory
@@ -11285,6 +11284,7 @@ dogstail
 disburse
 deictic
 duckpins
+decorum
 divinistre
 dadupanthi
 definability
