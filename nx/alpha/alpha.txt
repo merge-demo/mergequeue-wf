@@ -2113,7 +2113,6 @@ achieving
 anatomicals
 anything
 alabastrums
-anastases
 accedence
 agglutinations
 antadiform
@@ -12630,6 +12629,7 @@ antiquarism
 ageusia
 apodioxis
 awarrant
+anastases
 anoretic
 ahantchuyuk
 apickaback
