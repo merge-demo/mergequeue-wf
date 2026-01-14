@@ -8108,7 +8108,6 @@ exhumator
 episclera
 encasement
 ensanguined
-enaction
 enseel
 episcopalianism
 elaeosaccharum
@@ -13355,6 +13354,7 @@ ethicist
 enlength
 embog
 enchytraeid
+enaction
 enfonce
 excretive
 externs
