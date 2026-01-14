@@ -1083,6 +1083,7 @@ gregarinae
 gloiosiphoniaceae
 glueyness
 groundway
+glyptograph
 gypsums
 glares
 gnostically
@@ -7392,7 +7393,6 @@ gossipped
 gestor
 gilthead
 glaucus
-glyptograph
 gynostemia
 groupable
 gamelike

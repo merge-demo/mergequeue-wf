@@ -1243,6 +1243,7 @@ fassalite
 fastbacks
 frigor
 faradism
+flatulent
 futteret
 frisbee
 favella
@@ -10681,7 +10682,6 @@ filtrability
 facultate
 felonweed
 fegatella
-flatulent
 fickly
 fitzroy
 flocculency
