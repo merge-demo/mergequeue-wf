@@ -4997,7 +4997,6 @@ gamines
 gladioluses
 greenbrier
 girondist
-groundwards
 granddada
 guidances
 gypper
@@ -8915,6 +8914,7 @@ gloomful
 grandeur
 glaucochroite
 grizard
+groundwards
 gemeinschaft
 groundberry
 gressoria
