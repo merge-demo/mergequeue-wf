@@ -1170,6 +1170,7 @@ gnetums
 galliferous
 gunung
 guffin
+glides
 gaol
 gulls
 graphometry
@@ -8402,7 +8403,6 @@ geoblast
 gaize
 guru
 grandstander
-glides
 ganoid
 granites
 genro
