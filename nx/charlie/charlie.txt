@@ -12843,7 +12843,6 @@ contingency
 church
 courageousness
 churchcraft
-churches
 chondrocranium
 churchful
 clatters
@@ -27715,6 +27714,7 @@ chamite
 cycloplegia
 coadventuress
 cowk
+churches
 cowkine
 cumulatively
 coordinately
