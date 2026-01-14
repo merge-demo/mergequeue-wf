@@ -1559,7 +1559,6 @@ gery
 grype
 gulfiest
 grandiloquence
-gearless
 ghoul
 gadflies
 gunrack
@@ -8446,6 +8445,7 @@ grawls
 gropes
 gigglier
 gyves
+gearless
 genocides
 gonoblastic
 goldonian
