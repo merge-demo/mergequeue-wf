@@ -6800,7 +6800,6 @@ busulfan
 busying
 berrichonne
 bosquet
-berrier
 bitterbur
 beaut
 barytosulphate
@@ -12932,6 +12931,7 @@ burk
 basihyoid
 barthian
 boong
+berrier
 barothermogram
 badan
 blunders
