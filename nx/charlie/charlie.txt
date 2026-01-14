@@ -5,7 +5,6 @@ concrement
 coalsack
 caatinga
 cab
-caba
 cires
 chorionic
 cajaput
@@ -3579,6 +3578,7 @@ classier
 captive
 caucus
 captivatrix
+caba
 caucused
 calvarias
 captives
