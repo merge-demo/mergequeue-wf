@@ -1470,6 +1470,7 @@ ann
 acclimatizer
 amphipneustic
 agreeableness
+avoidance
 anticness
 acclinal
 adhesivemeter
@@ -6416,7 +6417,6 @@ aeronomic
 acidaemia
 agunah
 alliterational
-avoidance
 arrosion
 anviled
 arthromeningitis
