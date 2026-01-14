@@ -11153,7 +11153,6 @@ criminaldom
 childishness
 centrex
 chloragogue
-chloral
 chloralformamide
 cluniac
 cupelling
@@ -18716,6 +18715,7 @@ congreet
 canvasses
 coiture
 chemiphotic
+chloral
 cabot
 chipmunks
 cannonade
