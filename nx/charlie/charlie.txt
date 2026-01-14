@@ -11529,7 +11529,6 @@ cooptions
 cordovans
 crossosoma
 catagenesis
-chola
 costoxiphoid
 christiad
 cholaemia
@@ -30015,6 +30014,7 @@ croupe
 cloyer
 cabochons
 compulsions
+chola
 cuggermugger
 clearstarch
 chromo
