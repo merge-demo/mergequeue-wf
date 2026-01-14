@@ -11773,7 +11773,6 @@ cercelee
 chondromatous
 chondromyces
 cissoids
-chukkas
 chondromyxosarcoma
 chondromucoid
 chondropharyngeus
@@ -27142,6 +27141,7 @@ counterstock
 counterstroke
 cyclopoid
 clientless
+chukkas
 cellulate
 countersuit
 countersun
