@@ -800,7 +800,6 @@ enclitic
 escort
 eker
 eremophilous
-experimental
 electrocardiograms
 epitheliliums
 ecroulement
@@ -2415,6 +2414,7 @@ ectogenetic
 electroetching
 electrodeposition
 edana
+experimental
 exhibitable
 electrodes
 etherization
