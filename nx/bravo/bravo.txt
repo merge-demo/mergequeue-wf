@@ -6685,7 +6685,6 @@ berimed
 beseemly
 berimes
 bacillian
-bering
 beneficences
 broughtas
 burghs
@@ -10516,6 +10515,7 @@ bhat
 batodendron
 berrichon
 brickfielder
+bering
 beeflower
 blastochyle
 bibliopegically
