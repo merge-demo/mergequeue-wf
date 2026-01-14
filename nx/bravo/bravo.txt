@@ -76,7 +76,6 @@ backout
 bogfern
 beanballs
 breastband
-babelet
 boycotts
 barouches
 blossoms
@@ -2709,6 +2708,7 @@ birdland
 boraxes
 beakhead
 burnouses
+babelet
 bewaitered
 benightment
 barnbrack
