@@ -14638,7 +14638,6 @@ campodeiform
 cystophora
 calumet
 cystophore
-cistophorus
 circumscribable
 coadjustment
 cystophotography
@@ -23880,6 +23879,7 @@ cacoproctia
 conin
 cananga
 conforming
+cistophorus
 controversal
 conduces
 compositeness
