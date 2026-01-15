@@ -1685,7 +1685,6 @@ gropers
 gif
 gastrodermal
 grandisonianism
-gastrodermis
 groundplot
 guayabo
 gastroduodenitis
@@ -3160,6 +3159,7 @@ gumdrops
 gomuti
 gymnocidium
 gastful
+gastrodermis
 guffaws
 gurglet
 glauconiferous
