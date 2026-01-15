@@ -12716,7 +12716,6 @@ apocopation
 anthocerotales
 antihemagglutinin
 annelid
-angioma
 angiomas
 acquits
 anxiety
@@ -13029,6 +13028,7 @@ adullam
 anidiomatical
 aromatized
 achromatic
+angioma
 antivaccinator
 aniente
 actinobacillosis
