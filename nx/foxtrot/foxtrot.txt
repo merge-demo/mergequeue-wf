@@ -1193,6 +1193,7 @@ fifths
 fume
 forepass
 frighter
+faultfully
 foochowese
 foraged
 flumadiddle
@@ -5373,7 +5374,6 @@ fourrag
 flowingness
 flawflower
 frilliest
-faultfully
 fails
 flawing
 flabbergasted
