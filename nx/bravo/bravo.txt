@@ -7735,7 +7735,6 @@ brachydactylous
 bumblebee
 backfilling
 bezzo
-bhabar
 benzoglycolic
 belemnites
 bromonaphthalene
@@ -18333,6 +18332,7 @@ buttons
 buttonwood
 bloodworm
 baragouin
+bhabar
 bunkums
 buttressed
 buttresslike
