@@ -1742,7 +1742,6 @@ gympie
 goldstone
 genotypes
 gunsmiths
-geogonical
 gastronosus
 gnarrs
 gammon
@@ -9192,6 +9191,7 @@ galvanometric
 gaffers
 glareole
 grape
+geogonical
 grusinian
 gmelina
 goosepimply
