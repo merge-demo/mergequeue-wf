@@ -1970,7 +1970,6 @@ enjoin
 epiphylaxis
 egyptize
 eluants
-eyeleted
 excursions
 enabled
 echinulate
@@ -3488,6 +3487,7 @@ engrain
 embogue
 electrophobia
 enolizable
+eyeleted
 egested
 ennuyant
 egads
