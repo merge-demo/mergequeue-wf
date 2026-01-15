@@ -187,7 +187,6 @@ fourquine
 factiously
 forthought
 furyl
-flirtable
 fanmaker
 fuzees
 forewisdom
@@ -722,6 +721,7 @@ farcial
 flair
 fittingly
 foziness
+flirtable
 frettier
 feta
 foraminulose
