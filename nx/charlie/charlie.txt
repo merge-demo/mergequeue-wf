@@ -8469,7 +8469,6 @@ cribbage
 chamotte
 coarbiter
 cauligenous
-champagneless
 champagning
 chockman
 champagnize
@@ -12506,6 +12505,7 @@ childage
 chromophobia
 chromophobic
 coenenchym
+champagneless
 clairvoyants
 chromophore
 chromophorous
