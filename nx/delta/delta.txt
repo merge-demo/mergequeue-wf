@@ -12776,7 +12776,6 @@ dodecant
 difference
 dislocability
 dosimetry
-dustcloth
 doggrels
 dispensability
 dorsilateral
@@ -15610,6 +15609,7 @@ dowl
 denotativeness
 didymia
 doghouses
+dustcloth
 desilicified
 dielec
 displacement
