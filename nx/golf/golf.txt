@@ -4828,6 +4828,7 @@ genarch
 glossematics
 gunmaker
 galipine
+gastroenteritic
 gnarr
 gypsy
 givingness
@@ -7023,7 +7024,6 @@ goosemouth
 gynosporangium
 goofiness
 grafter
-gastroenteritic
 grutching
 goodies
 groovier
