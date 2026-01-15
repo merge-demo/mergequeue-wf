@@ -6282,6 +6282,7 @@ enows
 electrotechnology
 ecclesiastry
 eglandular
+enumerability
 enduring
 exspoliation
 engineeringly
@@ -7065,7 +7066,6 @@ evangely
 environment
 epinikian
 enzymolytic
-enumerability
 entry
 expansionary
 eleazar
