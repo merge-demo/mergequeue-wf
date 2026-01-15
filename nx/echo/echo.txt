@@ -681,6 +681,7 @@ enddamaged
 extimulate
 eigenstate
 endothermy
+esurient
 elodes
 enshrouding
 electrostatic
@@ -9950,7 +9951,6 @@ entonement
 erythrin
 erugo
 entreatment
-esurient
 electroform
 etalage
 endamnify
