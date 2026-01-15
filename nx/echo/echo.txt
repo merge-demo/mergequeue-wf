@@ -9790,7 +9790,6 @@ emunctories
 estampage
 empiric
 enucleating
-evolving
 enchaining
 electrophotography
 eatables
@@ -10069,6 +10068,7 @@ epinglette
 escharine
 echidnidae
 ethenes
+evolving
 ethenoid
 exonian
 eternalize
