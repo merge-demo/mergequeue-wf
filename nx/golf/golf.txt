@@ -2174,7 +2174,6 @@ genteelly
 gierfalcon
 geraldine
 goosegirl
-guacos
 galvanocauterization
 galea
 goniostat
@@ -7719,6 +7718,7 @@ gnawed
 granzita
 gypsyesque
 gynostemium
+guacos
 guaranteing
 gynandrophore
 gaspy
