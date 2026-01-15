@@ -13591,7 +13591,6 @@ carbuncles
 cote
 cimbrian
 cotsetle
-conferted
 cimbric
 cyme
 cymelet
@@ -21631,6 +21630,7 @@ condense
 condensedness
 condensers
 condenses
+conferted
 cooba
 committeeman
 camphorating
