@@ -166,7 +166,6 @@ episcopizing
 entrept
 economics
 empight
-etymons
 enchylema
 encephalomeric
 errite
@@ -11662,6 +11661,7 @@ eliminations
 exaction
 enfire
 exactitude
+etymons
 electrohydraulic
 eulogias
 exactness
