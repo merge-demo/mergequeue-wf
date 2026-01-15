@@ -2511,6 +2511,7 @@ footsore
 flaps
 foreswear
 fastballs
+fleshly
 frush
 flunky
 frecket
@@ -10324,7 +10325,6 @@ formolit
 frabous
 frankeniaceae
 fe
-fleshly
 fibrillations
 flakers
 frond

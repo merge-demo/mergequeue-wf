@@ -8064,7 +8064,6 @@ chador
 chadors
 chaenolobus
 chaetae
-cameration
 chemin
 chaetal
 carromata
@@ -19120,6 +19119,7 @@ colliquable
 collyria
 collyridian
 collyrite
+cameration
 carder
 collyrium
 cedes
