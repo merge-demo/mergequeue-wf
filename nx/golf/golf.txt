@@ -890,7 +890,6 @@ gravemaster
 geologer
 glutathione
 gleaminess
-gladdens
 glutethimide
 gangrels
 gobioid
@@ -2639,6 +2638,7 @@ gogmagog
 gauger
 grittle
 gawcey
+gladdens
 glaucine
 glamourization
 gesticular
