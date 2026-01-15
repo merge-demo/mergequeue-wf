@@ -1072,7 +1072,6 @@ assortments
 arghool
 albertustaler
 abuna
-acclimatized
 askew
 abundance
 accurtation
@@ -19536,6 +19535,7 @@ admiration
 apnea
 argulus
 argument
+acclimatized
 arabidopsis
 argumental
 autecious
