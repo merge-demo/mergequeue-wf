@@ -5160,7 +5160,6 @@ frother
 forward
 foraminulous
 fuss
-flagellum
 falsehood
 fandoms
 flanders
@@ -9833,6 +9832,7 @@ feldspar
 fructuosity
 frapp
 fallacies
+flagellum
 falchion
 fessways
 frigorifico
