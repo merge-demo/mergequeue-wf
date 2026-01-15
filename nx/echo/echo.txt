@@ -1827,7 +1827,6 @@ effractor
 epicentral
 epigenic
 eparchs
-eumemorrhea
 electromyograph
 erinose
 entericoid
@@ -13332,6 +13331,7 @@ excisemanship
 extrared
 enters
 educated
+eumemorrhea
 empexa
 exponentiates
 emilia
