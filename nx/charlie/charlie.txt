@@ -526,6 +526,7 @@ copt
 corymbous
 ceremoniary
 chainmaking
+chemicophysical
 cadet
 canonize
 cadets
@@ -9821,7 +9822,6 @@ caliches
 cyclostome
 chemicomineralogical
 carcinogenicity
-chemicophysical
 carbonized
 creneling
 crucifige
