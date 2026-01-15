@@ -814,7 +814,6 @@ goban
 granulater
 geonegative
 glockenspiel
-gillar
 goethe
 guaraunan
 gymnoblastic
@@ -6521,6 +6520,7 @@ gurdwara
 glaikitness
 galvanocautery
 guggle
+gillar
 guelph
 gens
 gamete
