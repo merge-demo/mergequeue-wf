@@ -6793,6 +6793,7 @@ desks
 dragade
 diosmosed
 donor
+deerwood
 destined
 deslime
 desmachyme
@@ -9605,7 +9606,6 @@ digressive
 digressory
 decayable
 dartsman
-deerwood
 drazel
 diddering
 druse
