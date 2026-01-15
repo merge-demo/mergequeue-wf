@@ -17178,7 +17178,6 @@ bullition
 bar
 boggin
 bulletproof
-bullnose
 beewinged
 bullnoses
 bacchuslike
@@ -17523,6 +17522,7 @@ burbot
 bleak
 beata
 bejazz
+bullnose
 biomedical
 bromopicrin
 bidenticulate
