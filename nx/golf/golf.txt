@@ -1250,7 +1250,6 @@ goldy
 generalizations
 gondolas
 gambolled
-goodship
 galligaskin
 groff
 gravures
@@ -1600,6 +1599,7 @@ gulanganes
 grangerised
 ganoidean
 gasterotheca
+goodship
 glabellar
 grizzly
 gougers
