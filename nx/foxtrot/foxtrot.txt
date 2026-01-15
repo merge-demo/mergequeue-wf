@@ -5826,7 +5826,6 @@ familiarization
 fundament
 floodwater
 flippancies
-freshness
 flareback
 flavorfulness
 fetor
@@ -7833,6 +7832,7 @@ fisticuffery
 forequarter
 favillous
 flecker
+freshness
 fulicine
 forsaker
 foremean
