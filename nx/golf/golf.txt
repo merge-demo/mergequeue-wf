@@ -6488,7 +6488,6 @@ governor
 golder
 glimpse
 gypsoplast
-guising
 grapenuts
 gateward
 guileless
@@ -10628,6 +10627,7 @@ graffiti
 gentled
 gifting
 gimmickry
+guising
 giantlikeness
 gunshop
 gruelings
