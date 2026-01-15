@@ -1608,6 +1608,7 @@ gunplay
 gl
 graphology
 goodeniaceous
+girasol
 grinder
 geulah
 gambiae
@@ -10313,7 +10314,6 @@ goasila
 geic
 galliard
 galactosidase
-girasol
 gault
 glabreity
 granulations
