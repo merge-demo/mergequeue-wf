@@ -2014,7 +2014,6 @@ economizing
 effetman
 electrine
 ekka
-ectoskeleton
 entoproct
 exophoric
 experienceless
@@ -6194,6 +6193,7 @@ enolic
 explicableness
 etiologic
 enterclose
+ectoskeleton
 execs
 ellipsoid
 erasure
