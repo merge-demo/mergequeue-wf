@@ -3770,7 +3770,6 @@ extortionate
 embryon
 emissaryship
 ethnish
-endoceratite
 ejulate
 embrowning
 embrues
@@ -11570,6 +11569,7 @@ evernia
 equipartisan
 evoking
 emblemed
+endoceratite
 empetraceous
 eyepit
 evolute
