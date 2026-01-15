@@ -11425,7 +11425,6 @@ everydayness
 ectethmoidal
 everyman
 enhydrous
-everywhen
 escorting
 explorers
 eluctation
@@ -13355,6 +13354,7 @@ ethicist
 enlength
 embog
 enchytraeid
+everywhen
 enaction
 enfonce
 excretive
