@@ -6313,6 +6313,7 @@ emporium
 ergotin
 eschar
 eisteddfodau
+electrotheraputics
 euchred
 ensphered
 elucubrate
@@ -9822,7 +9823,6 @@ esters
 exoneration
 encephalomere
 electromagnet
-electrotheraputics
 esth
 elephanticide
 eyebolt
