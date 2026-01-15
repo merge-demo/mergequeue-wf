@@ -3005,7 +3005,6 @@ coyest
 calorifacient
 charmingly
 canticle
-carne
 campesino
 canticles
 conquerableness
@@ -11773,6 +11772,7 @@ chondromatous
 chondromyces
 cissoids
 chondromyxosarcoma
+carne
 chondromucoid
 chondropharyngeus
 carpale
