@@ -358,6 +358,7 @@ furcal
 featural
 forkful
 favouringly
+faky
 fabraea
 foresound
 floss
@@ -5141,7 +5142,6 @@ fitches
 frigatoon
 fluorescence
 forevalue
-faky
 flapping
 fessely
 flumps
