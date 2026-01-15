@@ -736,6 +736,7 @@ geometrine
 gonoplasm
 galvanoglyph
 gar
+gossipdom
 goniometric
 gossypin
 golem
@@ -1336,7 +1337,6 @@ greeting
 gargoyley
 grandparentage
 gluconate
-gossipdom
 grimier
 gested
 gheleem
