@@ -863,7 +863,6 @@ geegaw
 gadis
 glove
 gunmaking
-garigue
 gers
 glossarize
 goolde
@@ -8657,6 +8656,7 @@ goldfielder
 glucosuria
 gaslight
 gasteralgia
+garigue
 govern
 gladiators
 gradal
