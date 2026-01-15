@@ -5707,7 +5707,6 @@ drepanaspis
 demit
 deplorabilia
 dextrane
-deplorability
 dogeless
 duals
 deplorableness
@@ -12737,6 +12736,7 @@ disperiwig
 diacromyodian
 disliked
 disliken
+deplorability
 drawshave
 dislikeness
 duettino
