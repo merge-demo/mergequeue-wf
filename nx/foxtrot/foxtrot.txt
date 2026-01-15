@@ -5485,7 +5485,6 @@ feridji
 forehandedness
 figuration
 fruittime
-formable
 fany
 frivolers
 fusarole
@@ -8571,6 +8570,7 @@ fetiparous
 fluid
 feme
 foreboder
+formable
 foreslack
 foun
 facsimiling
