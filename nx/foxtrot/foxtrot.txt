@@ -1467,6 +1467,7 @@ flaillike
 fissidentaceous
 fibry
 frizzes
+fris
 flichtered
 finitudes
 feverish
@@ -3404,7 +3405,6 @@ filtre
 forminate
 faculative
 finmarks
-fris
 filename
 finnickier
 flighting
