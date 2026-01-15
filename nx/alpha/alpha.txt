@@ -5348,7 +5348,6 @@ anicut
 aflat
 agons
 argans
-anacreon
 aflower
 appaume
 acrorhagus
@@ -11030,6 +11029,7 @@ amphanthia
 amphanthium
 ampherotokous
 arms
+anacreon
 adjutancies
 antirationality
 araeometer
