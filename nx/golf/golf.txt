@@ -4344,7 +4344,6 @@ germicide
 gymnadenia
 glazings
 grieves
-gluttonous
 gridelin
 garganeys
 gentisein
@@ -9008,6 +9007,7 @@ gull
 gubbo
 giveaway
 glimpses
+gluttonous
 gumbolike
 glaucopis
 guess
