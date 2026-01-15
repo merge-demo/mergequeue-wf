@@ -1764,7 +1764,6 @@ gootee
 giaour
 gymnoglossa
 ghrush
-guberla
 graniticoline
 gynopara
 glycolipin
@@ -3594,6 +3593,7 @@ gumshoing
 gavage
 gesticulations
 grueller
+guberla
 gentiin
 gagman
 gynandrous
