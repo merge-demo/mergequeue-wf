@@ -3727,7 +3727,6 @@ bindlet
 bepinch
 baylike
 barbita
-barny
 brookflower
 brightest
 batting
@@ -11104,6 +11103,7 @@ bioral
 blockiest
 bevelling
 blocking
+barny
 borborygmic
 blabber
 bearbaiter
