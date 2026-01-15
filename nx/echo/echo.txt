@@ -5881,7 +5881,6 @@ echoer
 entocalcaneal
 euthyroid
 episcopalian
-encushion
 excessman
 enhaemospore
 eldfather
@@ -10358,6 +10357,7 @@ endogenesis
 ellagic
 ethylamime
 elytra
+encushion
 elatives
 ethnopsychology
 excitometabolic
