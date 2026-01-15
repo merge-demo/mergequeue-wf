@@ -545,7 +545,6 @@ fakirs
 falbelo
 fioretti
 frowny
-foresense
 falco
 forepaled
 fetterless
@@ -5018,6 +5017,7 @@ foxing
 fiddley
 flamy
 flowchart
+foresense
 fan
 floorages
 flamingant
