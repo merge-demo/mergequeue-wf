@@ -4746,6 +4746,7 @@ deair
 deanimalize
 diemaker
 dentalizing
+decametre
 dolphin
 desiderta
 disenslave
@@ -12368,7 +12369,6 @@ disguises
 disgulf
 dionaeaceae
 disperato
-decametre
 daff
 deprivation
 dracontites
