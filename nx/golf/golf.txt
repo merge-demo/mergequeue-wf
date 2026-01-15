@@ -7687,6 +7687,7 @@ giraffesque
 grounding
 geodynamics
 gyppery
+goli
 globulariaceous
 greenlet
 gleary
@@ -10486,7 +10487,6 @@ gentilitious
 gimels
 graylings
 gastrin
-goli
 gusher
 glumaceous
 ginghamed
