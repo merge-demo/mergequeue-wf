@@ -4486,6 +4486,7 @@ decern
 dorsilumbar
 devocation
 demigroat
+demonio
 dogmatician
 dotier
 dispiritedness
@@ -5339,7 +5340,6 @@ disappropriation
 dipmeter
 drub
 duplications
-demonio
 disemburden
 dolichocrany
 diazenithal
