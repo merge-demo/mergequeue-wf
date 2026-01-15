@@ -2163,6 +2163,7 @@ fordeal
 friskest
 frontiers
 folkmoot
+flectional
 falsities
 funnels
 felonwort
@@ -4345,7 +4346,6 @@ fluorins
 fellnesses
 fasteners
 fiked
-flectional
 foreleech
 formularised
 forgets
