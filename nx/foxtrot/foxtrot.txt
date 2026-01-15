@@ -3380,7 +3380,6 @@ funereality
 fattener
 furriners
 fibromatous
-fossores
 foveolate
 farle
 freewomen
@@ -5094,6 +5093,7 @@ formalisms
 flipping
 flatbeds
 flanneling
+fossores
 forepaw
 ferries
 falsifies

@@ -2634,7 +2634,6 @@ acquisite
 arricciati
 appraiser
 alferes
-aquarii
 amidase
 asperates
 acquisitive
@@ -17201,6 +17200,7 @@ archipterygial
 antitank
 adducers
 apoop
+aquarii
 apophatic
 arrendation
 atonements
