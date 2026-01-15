@@ -13983,6 +13983,7 @@ cypher
 cipherdom
 causeur
 cyphered
+chenevixite
 cipherer
 cipherhood
 ciphering
@@ -18386,7 +18387,6 @@ counterbuilding
 conformers
 cogmen
 claypan
-chenevixite
 conterminant
 cognac
 curdier
