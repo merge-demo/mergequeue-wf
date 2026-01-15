@@ -5585,6 +5585,7 @@ expediences
 evangel
 extratympanic
 empathetically
+evader
 estimably
 endaortic
 epicuticle
@@ -8608,7 +8609,6 @@ enchantress
 embouchures
 excelled
 espavel
-evader
 equielliptical
 equigranular
 equilateral
