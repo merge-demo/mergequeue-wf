@@ -2375,6 +2375,7 @@ excrete
 espaliering
 encore
 encomia
+emetic
 evenlong
 equison
 electrochronometric
@@ -2770,7 +2771,6 @@ ennoblment
 eleemosynary
 etymology
 epizoon
-emetic
 engorge
 eleemosynarily
 elegancy
