@@ -15375,6 +15375,7 @@ cyprinodontidae
 covenantor
 claosaurus
 clapboard
+chrysopidae
 caenolestes
 clapboarding
 cleidomastoid
@@ -18249,7 +18250,6 @@ cofactors
 castrating
 cofane
 conflagrator
-chrysopidae
 cutlery
 cofeature
 coferment
