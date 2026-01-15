@@ -14873,7 +14873,6 @@ documentize
 dehortative
 donnish
 disazo
-downbear
 documents
 dowitcher
 dependencies
@@ -15561,6 +15560,7 @@ deconcatenate
 deorganization
 drying
 donors
+downbear
 determinedly
 dool
 duumviri
