@@ -13125,7 +13125,6 @@ animallike
 apozemical
 accouterments
 anisil
-adapter
 achieves
 atmidometer
 animastic
@@ -24732,6 +24731,7 @@ arctitude
 aviaries
 anahita
 abrood
+adapter
 aviarist
 absinths
 accosted
