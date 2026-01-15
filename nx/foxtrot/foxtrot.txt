@@ -3496,6 +3496,7 @@ frugalness
 favillae
 fumaroid
 figshell
+forbare
 foe
 flankard
 ficins
@@ -7520,7 +7521,6 @@ fisheyes
 footmen
 fausen
 ferrocerium
-forbare
 fileable
 fillemot
 faience
