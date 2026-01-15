@@ -2142,6 +2142,7 @@ bantery
 boxfishes
 banty
 betangle
+bedless
 bribery
 bantu
 bantus
@@ -13494,7 +13495,6 @@ backtracker
 bottlebrush
 basibregmatic
 beeriness
-bedless
 broomer
 bentstar
 beray
