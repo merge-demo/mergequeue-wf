@@ -4762,7 +4762,6 @@ euphrosyne
 enarthrosis
 emeerates
 embussed
-erotesis
 entophyte
 enclaves
 eccentrical
@@ -7396,6 +7395,7 @@ exsanguineous
 evaders
 epenla
 edgings
+erotesis
 epentheses
 errant
 exotic
