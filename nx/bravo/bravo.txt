@@ -1792,7 +1792,6 @@ bosuns
 bamboozles
 bamboozling
 brachman
-burdie
 bamboula
 brigantes
 boswellized
@@ -9755,6 +9754,7 @@ begobs
 barleduc
 bacillus
 burlesquing
+burdie
 botticellian
 brichette
 befriends
