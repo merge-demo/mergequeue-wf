@@ -2611,6 +2611,7 @@ barytons
 bowable
 bears
 brittlely
+betulin
 barytophyllite
 blawed
 barkary
@@ -16242,7 +16243,6 @@ bithynian
 bridget
 brotuliform
 bostryx
-betulin
 bpt
 ballsier
 broughams
