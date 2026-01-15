@@ -7062,7 +7062,6 @@ epinikian
 enzymolytic
 enumerability
 entry
-epris
 expansionary
 eleazar
 exemptile
@@ -7116,6 +7115,7 @@ encephalopsychesis
 eulogise
 extraperitoneal
 enverdure
+epris
 explanatory
 eupepsies
 enlaced
