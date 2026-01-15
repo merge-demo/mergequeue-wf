@@ -1632,6 +1632,7 @@ deaminase
 digitize
 demonological
 decasualization
+dielec
 drivel
 drassid
 doddies
@@ -15609,7 +15610,6 @@ didymia
 doghouses
 dustcloth
 desilicified
-dielec
 displacement
 derth
 deponent
