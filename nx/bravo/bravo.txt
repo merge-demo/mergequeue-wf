@@ -7728,6 +7728,7 @@ bezoars
 bloodcurdlingly
 bacterin
 bezpopovets
+bistred
 barged
 balsa
 boatbuilder
@@ -12027,7 +12028,6 @@ bolts
 bogmire
 blarina
 brodyagi
-bistred
 borine
 baggit
 bedwarf
