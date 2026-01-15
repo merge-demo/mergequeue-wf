@@ -6043,7 +6043,6 @@ foreloper
 floodlight
 furzes
 forleave
-frenchification
 frailly
 floodlilit
 fivepins
@@ -8340,6 +8339,7 @@ flump
 forehoof
 frontlets
 forgiving
+frenchification
 flintify
 flagellata
 forgoer
