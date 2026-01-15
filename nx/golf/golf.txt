@@ -7059,6 +7059,7 @@ gentil
 gurgling
 gumshoes
 greenhouses
+gametic
 glazier
 geissolomataceous
 gigantosaurus
@@ -10336,7 +10337,6 @@ gujarati
 genteel
 granulitization
 grimoire
-gametic
 girondin
 gamodesmic
 gymnostomous
