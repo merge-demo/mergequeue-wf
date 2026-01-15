@@ -13163,7 +13163,6 @@ anabiosis
 alchymy
 acoustical
 archbeacon
-aghori
 animikean
 abow
 aftereffects
@@ -21623,6 +21622,7 @@ appeasers
 assaying
 androgens
 adenectopic
+aghori
 atheticize
 assailableness
 anthophagous
