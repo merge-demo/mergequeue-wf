@@ -7515,7 +7515,6 @@ deuterium
 deinocephalia
 dahlin
 deuterocanonical
-disbursal
 drolls
 deuterocasease
 denuclearized
@@ -14223,6 +14222,7 @@ doldrum
 drogh
 dramatists
 dicer
+disbursal
 diadermic
 damage
 daboia
