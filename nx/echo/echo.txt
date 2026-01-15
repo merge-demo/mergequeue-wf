@@ -4392,7 +4392,6 @@ encratic
 eunuchized
 elenchtical
 electrolyzer
-encephalosclerosis
 evisite
 euornithes
 enapt
@@ -9839,6 +9838,7 @@ expletiveness
 eupepsy
 erostrate
 experimentalize
+encephalosclerosis
 epeeists
 exallotriote
 ependymoma
