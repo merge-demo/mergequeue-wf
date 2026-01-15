@@ -2269,7 +2269,6 @@ effluve
 endoperitonitis
 endoplasma
 epiphyllospermous
-elector
 eyehook
 epigonos
 elks
@@ -2519,6 +2518,7 @@ epicanthic
 epochs
 exterminative
 electrokinetics
+elector
 equiparable
 evirate
 elasticum
