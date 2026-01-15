@@ -246,7 +246,6 @@ donatistical
 dry
 deceiver
 dagomba
-dagswain
 daguerreotype
 downspout
 dolichopodous
@@ -3840,6 +3839,7 @@ deistical
 dismast
 dissect
 disp
+dagswain
 diaxonic
 dibstones
 dissipating
