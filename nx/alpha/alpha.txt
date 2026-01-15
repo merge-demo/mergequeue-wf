@@ -9589,6 +9589,7 @@ astrophotography
 abature
 amphiblastic
 alurgite
+alphatoluic
 autocephalic
 asepalous
 altiplanicie
@@ -15453,7 +15454,6 @@ antimetropic
 antimycotic
 argyric
 achage
-alphatoluic
 allioniaceae
 antimilitary
 astacian
