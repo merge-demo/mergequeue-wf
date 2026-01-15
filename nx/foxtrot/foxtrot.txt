@@ -6244,7 +6244,6 @@ frequented
 foredoor
 fraughts
 furiosity
-fructifier
 ferrums
 fewness
 fewneses
@@ -10877,6 +10876,7 @@ flus
 fleetness
 flavorous
 fulfillments
+fructifier
 fennici
 fulfullment
 functionless
