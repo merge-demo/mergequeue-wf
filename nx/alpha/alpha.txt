@@ -5823,6 +5823,7 @@ allergic
 acacia
 adducing
 arousable
+apnoeic
 archprototype
 agrionid
 areostyle
@@ -15696,7 +15697,6 @@ antipathetic
 antimodernism
 autostability
 arenas
-apnoeic
 atophan
 anteflexed
 autocephalous
