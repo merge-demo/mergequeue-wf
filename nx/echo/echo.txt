@@ -957,6 +957,7 @@ englishhood
 eleve
 ensisternal
 equipping
+ensheathed
 endowments
 endorsements
 electrophoretic
@@ -4147,7 +4148,6 @@ endives
 exedral
 epirote
 eiffel
-ensheathed
 every
 etymologically
 emplunge
