@@ -2614,6 +2614,7 @@ gyve
 generate
 guitars
 gypsiferous
+glycogenolytic
 generated
 gazetteerage
 gomerel
@@ -5346,7 +5347,6 @@ gambolling
 glycyrrhizin
 gimps
 gorgonising
-glycogenolytic
 gammaroid
 germans
 germanesque
