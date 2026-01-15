@@ -8432,7 +8432,6 @@ grisailles
 gunport
 gemmaceous
 glaumrie
-gallivanting
 galeeny
 genipa
 gawby
@@ -10175,6 +10174,7 @@ giddyish
 galuth
 gal
 gloried
+gallivanting
 glideness
 gasconading
 guardianly

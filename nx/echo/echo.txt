@@ -1878,7 +1878,6 @@ embedding
 elinguate
 evenest
 enigmatical
-eared
 eighties
 eightieth
 economizes
@@ -5902,6 +5901,7 @@ excessman
 enhaemospore
 eldfather
 epidotic
+eared
 execrators
 exaggerativeness
 exclaims
