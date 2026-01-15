@@ -2570,6 +2570,7 @@ graciously
 gallfly
 gael
 geothermal
+geomorphological
 gantlet
 gilliver
 glusid
@@ -10037,7 +10038,6 @@ gone
 gentlemanship
 gorgonised
 gamopetalous
-geomorphological
 geomys
 geochrony
 gudewife
