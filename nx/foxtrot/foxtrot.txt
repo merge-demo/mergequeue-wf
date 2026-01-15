@@ -2011,7 +2011,6 @@ fardels
 flanconnade
 feetfirst
 fireworky
-fractionizing
 freshens
 farmers
 fieldwards
@@ -10507,6 +10506,7 @@ finnesko
 fillagree
 feta
 fescue
+fractionizing
 follied
 foreadvice
 floreating
