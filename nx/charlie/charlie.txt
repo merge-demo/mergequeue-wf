@@ -2418,7 +2418,6 @@ carpogone
 coruminacan
 canceller
 cancellous
-cancellus
 campement
 cancelment
 cessment
@@ -6797,6 +6796,7 @@ cypres
 celerities
 celeste
 centrical
+cancellus
 cadiueio
 conjectures
 celestialized
