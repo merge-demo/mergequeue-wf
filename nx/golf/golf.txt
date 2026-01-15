@@ -5191,7 +5191,6 @@ gutturine
 goldenmouthed
 gentlehearted
 gyps
-glaucophanite
 goldcrest
 gimpiest
 gaes
@@ -6988,6 +6987,7 @@ gamut
 gasthauser
 gobbed
 gelatinize
+glaucophanite
 galoshed
 goosish
 gigglers
