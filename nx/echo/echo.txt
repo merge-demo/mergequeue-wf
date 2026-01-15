@@ -1459,6 +1459,7 @@ endowing
 erasions
 ericoid
 entosterna
+ectoskeleton
 excoct
 electrostriction
 encashable
@@ -6200,7 +6201,6 @@ enolic
 explicableness
 etiologic
 enterclose
-ectoskeleton
 execs
 ellipsoid
 erasure
