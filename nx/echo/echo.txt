@@ -12481,6 +12481,7 @@ embosture
 executrixship
 expertize
 exine
+extraocular
 errantia
 exodromic
 everyway
@@ -12683,7 +12684,6 @@ erie
 emparadise
 exodontics
 endorsor
-extraocular
 estrogenically
 exculpates
 epilachna
