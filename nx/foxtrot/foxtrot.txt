@@ -2053,6 +2053,7 @@ fops
 frothiness
 foggiest
 felahin
+fanam
 fissipes
 fendillation
 favissae
@@ -2520,7 +2521,6 @@ feverlike
 fluorine
 fiatconfirmatio
 ferrer
-fanam
 feeler
 footwall
 frugivorous
