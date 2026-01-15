@@ -3668,7 +3668,6 @@ argled
 abnegation
 adenophorous
 accumulative
-adenopodous
 adenosarcomata
 adiaphoristic
 armloads
@@ -12057,6 +12056,7 @@ attacco
 anatopism
 apostrophizes
 antiaristocratical
+adenopodous
 anatox
 axed
 anatoxin
