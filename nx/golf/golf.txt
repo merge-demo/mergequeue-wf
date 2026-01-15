@@ -824,7 +824,6 @@ goalage
 glareolidae
 gastroenteric
 geonim
-gwine
 gnathal
 geezers
 ghastfulness
@@ -3034,6 +3033,7 @@ gently
 garnered
 grumbled
 gushingness
+gwine
 gauchest
 geoscience
 geminiform
