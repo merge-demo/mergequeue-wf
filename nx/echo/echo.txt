@@ -6652,6 +6652,7 @@ enzymologies
 emmarbling
 escalops
 enterohydrocele
+ethologic
 embolomeri
 elevation
 embryoctonic
@@ -6793,7 +6794,6 @@ epithumetic
 engluts
 enjoys
 entireness
-ethologic
 emphasise
 evading
 echoized
