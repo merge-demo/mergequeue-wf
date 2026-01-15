@@ -2033,7 +2033,6 @@ exophoric
 experienceless
 eryngo
 ekron
-encephalocele
 educement
 epidemics
 ektenes
@@ -10657,6 +10656,7 @@ eques
 enharmonical
 enchilada
 eudemonistic
+encephalocele
 eudemonics
 epinephrine
 excamber
