@@ -1287,7 +1287,6 @@ ganglioid
 gingham
 grizzler
 giddying
-gunnels
 groundbreaker
 granulose
 goldenknop
@@ -5017,6 +5016,7 @@ gymnogen
 galling
 glew
 goodwilled
+gunnels
 gigantic
 goldhead
 grouthead
