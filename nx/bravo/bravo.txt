@@ -4982,7 +4982,6 @@ bonework
 blesse
 barmier
 boulles
-bactritoid
 bonaveria
 boltless
 bituminized
@@ -15081,6 +15080,7 @@ balefully
 breechcloths
 biosatellite
 benzdiazine
+bactritoid
 begift
 barraters
 breedable
