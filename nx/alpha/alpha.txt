@@ -3586,7 +3586,6 @@ abattises
 acumination
 adharma
 asphalt
-abada
 antipodagron
 agelessly
 adelomorphic
@@ -10533,6 +10532,7 @@ amyloplast
 appertaining
 amyloplastid
 antichronism
+abada
 adenase
 anteromedian
 arborolater
