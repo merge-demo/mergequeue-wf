@@ -971,6 +971,7 @@ frondation
 fruitling
 farceuses
 flenched
+finite
 facetiousness
 frape
 fastigiums
@@ -5759,7 +5760,6 @@ fibrine
 freckles
 funeration
 forbearant
-finite
 fibrohemorrhagic
 formly
 flancards
