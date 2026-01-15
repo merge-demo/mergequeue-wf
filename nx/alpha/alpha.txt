@@ -11222,6 +11222,7 @@ ana
 animikite
 acheron
 amphithyron
+antiman
 avoir
 apetalies
 amphithura
@@ -22191,7 +22192,6 @@ anhydromyelia
 areito
 accessability
 adiamorphic
-antiman
 advised
 ankylomele
 agilities
