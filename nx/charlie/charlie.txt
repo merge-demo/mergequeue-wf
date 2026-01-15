@@ -345,7 +345,6 @@ cyanometries
 compasser
 clinorhombic
 cetorhinus
-cerebralization
 cacodaemoniac
 cacodaemonial
 cradle
@@ -4864,6 +4863,7 @@ ceratomania
 carriagesmith
 cinchonicin
 carriageway
+cerebralization
 celiocele
 carryall
 chromatoplasm
