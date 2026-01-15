@@ -5530,6 +5530,7 @@ exorcising
 experimenting
 exoterics
 espiritual
+euphon
 enfeebles
 embus
 eyestones
@@ -12571,7 +12572,6 @@ escheat
 embrawn
 epsomite
 earlet
-euphon
 ethion
 extraught
 eunuchry
