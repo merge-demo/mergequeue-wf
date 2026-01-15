@@ -2481,6 +2481,7 @@ conductible
 choraguses
 coition
 certitude
+cognomens
 cacodemonic
 cassidony
 colloidally
@@ -18445,7 +18446,6 @@ cognizes
 chevise
 cognizing
 cognizor
-cognomens
 claught
 carnally
 cathedral
