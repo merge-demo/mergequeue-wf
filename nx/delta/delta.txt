@@ -585,7 +585,6 @@ decantate
 damnably
 deburr
 dryadic
-distorts
 declassed
 damnedest
 dermatorrhoea
@@ -4756,6 +4755,7 @@ demography
 dissimilative
 demographically
 demichamfron
+distorts
 divertissement
 distrained
 dementedness
