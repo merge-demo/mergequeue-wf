@@ -10988,7 +10988,6 @@ disaffinity
 disaffirmance
 dictyosiphon
 disaffirmation
-disaffirming
 detachedness
 dermococcus
 drainman
@@ -14195,6 +14194,7 @@ duc
 disorientates
 dolesman
 dermatomic
+disaffirming
 drolly
 download
 dithyrambic
