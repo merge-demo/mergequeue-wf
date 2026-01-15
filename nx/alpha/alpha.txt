@@ -9852,7 +9852,6 @@ abayah
 abluents
 activator
 authenticities
-assayer
 ambaris
 ambas
 ambassade
@@ -10799,6 +10798,7 @@ allegorical
 amniocentesis
 anapnoic
 aboardage
+assayer
 amniomancy
 acclamation
 absolution
