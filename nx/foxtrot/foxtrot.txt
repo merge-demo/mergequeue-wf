@@ -5101,7 +5101,6 @@ fizz
 forekeel
 faithbreaker
 fibularia
-foeship
 faconne
 fraudful
 futhermore
@@ -5119,6 +5118,7 @@ flaperon
 flippantly
 flappable
 frankalmoin
+foeship
 fishgig
 fortyish
 frumpishness
