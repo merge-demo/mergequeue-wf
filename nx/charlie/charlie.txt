@@ -19679,6 +19679,7 @@ comanche
 comanchean
 cohesion
 chlordan
+cowsheds
 comanches
 comandantes
 commend
@@ -27754,7 +27755,6 @@ crescentic
 catbrier
 corkscrews
 cowshed
-cowsheds
 cowshot
 chough
 cowshut
