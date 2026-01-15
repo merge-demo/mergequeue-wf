@@ -12383,7 +12383,6 @@ aporias
 armchairs
 anecdotage
 ajowan
-amsath
 anecdote
 anecdotes
 anecdotic
@@ -19287,6 +19286,7 @@ aristas
 absentmindedly
 arabesque
 alation
+amsath
 australis
 arenosity
 areolae
