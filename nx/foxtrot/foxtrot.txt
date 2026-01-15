@@ -4008,7 +4008,6 @@ fulmine
 figurehead
 forbit
 feminisation
-fraulein
 friarling
 february
 fairydom
@@ -4779,6 +4778,7 @@ fruitfuller
 foliobranch
 frumentarious
 forkfuls
+fraulein
 finales
 fougue
 feathermonger
