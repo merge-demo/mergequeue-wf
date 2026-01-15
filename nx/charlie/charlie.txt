@@ -8437,7 +8437,6 @@ cabirean
 chamfers
 chamfrain
 calvaria
-carilloneur
 cradock
 carpal
 chamian
@@ -14911,6 +14910,7 @@ curding
 coenogamete
 continuedly
 cordites
+carilloneur
 creaks
 chupak
 cytostomal
