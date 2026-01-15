@@ -4935,6 +4935,7 @@ guaranteeing
 garston
 galleryite
 gleam
+greetings
 glozes
 goldurns
 goatly
@@ -9908,7 +9909,6 @@ grinningly
 gorals
 gasholder
 grasshoppers
-greetings
 gablewise
 gemmae
 goodliest
