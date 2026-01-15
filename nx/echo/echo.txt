@@ -9900,7 +9900,6 @@ estradiol
 externship
 emphasis
 epicentrum
-extravisceral
 equicellular
 electroosmotically
 estrayed
@@ -10012,6 +10011,7 @@ equalist
 endocrinism
 eschatologically
 endogamous
+extravisceral
 eterne
 endangerment
 escargots
