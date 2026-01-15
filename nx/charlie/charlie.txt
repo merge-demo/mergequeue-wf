@@ -10101,7 +10101,6 @@ chevage
 careened
 columnwise
 cheval
-chevalet
 chevalets
 chevalier
 cystencyte
@@ -31136,6 +31135,7 @@ cupfulfuls
 canvassing
 cupid
 cupidinous
+chevalet
 cupidities
 congealment
 communalising
