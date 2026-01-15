@@ -4050,7 +4050,6 @@ carcinomorphic
 cholericness
 carcinophagous
 carcinopolypus
-chloroformization
 carcinosarcoma
 coloreds
 chinanta
@@ -29764,6 +29763,7 @@ citable
 caliperer
 cradlelike
 carbanil
+chloroformization
 crooningly
 croose
 cliftonia
