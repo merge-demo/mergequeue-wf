@@ -1135,7 +1135,6 @@ dasyuridae
 dasyurine
 dactylopatagium
 docimastic
-dassent
 deadheads
 dicaeology
 dodecaphony
@@ -17111,6 +17110,7 @@ dullish
 dematerialise
 divvers
 drunkenness
+dassent
 decuries
 deuteronomy
 decine
