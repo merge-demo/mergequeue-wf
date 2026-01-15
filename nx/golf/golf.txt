@@ -1259,7 +1259,6 @@ gumboil
 gonglike
 garbill
 guyline
-ganomalite
 garbler
 gradings
 greasers
@@ -7208,6 +7207,7 @@ galvayne
 guebre
 grabbers
 geobotanical
+ganomalite
 graphitoid
 generalship
 gingely
