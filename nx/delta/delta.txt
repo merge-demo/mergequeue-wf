@@ -398,7 +398,6 @@ dictates
 descanting
 deities
 dodrantal
-dhourra
 discoursers
 dais
 donjons
@@ -14623,6 +14622,7 @@ dell
 desulfovibrio
 diarrheas
 duodenectomy
+dhourra
 drevel
 dibucaine
 dialogued
