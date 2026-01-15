@@ -2643,6 +2643,7 @@ endostracum
 epistlers
 eunectes
 enigmatology
+exactive
 ebulus
 exportability
 eggplants
@@ -13620,7 +13621,6 @@ esopgi
 expurgates
 emprent
 empedoclean
-exactive
 effossion
 elinvar
 epsilon

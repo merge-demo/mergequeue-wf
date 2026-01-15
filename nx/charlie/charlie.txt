@@ -5320,7 +5320,6 @@ catamenia
 cassiope
 curvette
 cassiopeia
-cuculus
 cassiopeian
 chlorohydroquinone
 cassiopeid
@@ -28547,6 +28546,7 @@ credulity
 cardiosclerosis
 credulities
 creed
+cuculus
 creeded
 calamistrum
 caddised
