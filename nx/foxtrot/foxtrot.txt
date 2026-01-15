@@ -1601,7 +1601,6 @@ florae
 floppies
 functionating
 fallalery
-faniente
 favouring
 flannel
 fawkener
@@ -11209,6 +11208,7 @@ fraughted
 fibronuclear
 forktail
 fundungi
+faniente
 firewall
 foraminous
 fallfishes
