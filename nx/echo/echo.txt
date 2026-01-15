@@ -1701,7 +1701,6 @@ ethylenes
 epiphloedal
 electrotaxis
 ejusdem
-enfurrow
 eisteddfodic
 eyeballed
 eyeballing
@@ -11051,6 +11050,7 @@ establish
 epigastriocele
 endodontia
 europeanize
+enfurrow
 earthier
 ejaculators
 epihydrinic
