@@ -12424,7 +12424,6 @@ beswarmed
 burbots
 bombus
 bombardelle
-bomos
 beloveds
 bon
 backrope
@@ -16171,6 +16170,7 @@ buprestid
 broomballer
 blasphemers
 biologic
+bomos
 bactrian
 bullback
 broomiest
