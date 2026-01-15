@@ -7892,6 +7892,7 @@ bohmite
 biblical
 batches
 bobsledders
+batell
 bels
 benamed
 biblicality
@@ -12470,7 +12471,6 @@ backcast
 begloom
 baggara
 bonbons
-batell
 bareboats
 bureaux
 bootstrap
