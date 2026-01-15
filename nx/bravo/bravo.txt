@@ -1184,7 +1184,6 @@ bifurcating
 bonnaz
 bewails
 bakal
-biasteric
 buoys
 breth
 bridebed
@@ -15757,6 +15756,7 @@ broadsiding
 broadspread
 broadsword
 bamangwato
+biasteric
 blackboards
 bromethyl
 brob
