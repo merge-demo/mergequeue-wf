@@ -4524,7 +4524,6 @@ becrowded
 burstwort
 brickset
 boundure
-bacchanalias
 bumptiously
 brokes
 buffering
@@ -7728,6 +7727,7 @@ bistred
 barged
 balsa
 boatbuilder
+bacchanalias
 brideknot
 blackmailing
 bronzed
