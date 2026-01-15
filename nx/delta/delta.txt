@@ -335,7 +335,6 @@ daymark
 doupion
 daimiate
 dutch
-daimiel
 davallia
 daimyo
 depurates
@@ -1089,6 +1088,7 @@ dispiriting
 dashier
 diaceturia
 dispatching
+daimiel
 decempennate
 dullify
 definitional
