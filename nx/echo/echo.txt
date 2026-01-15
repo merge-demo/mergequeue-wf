@@ -6580,7 +6580,6 @@ estonia
 erythorbate
 ethnohistorian
 enteradenological
-enteral
 ensuant
 enterectomy
 enterer
@@ -11451,6 +11450,7 @@ euouae
 eli
 exhaustion
 emys
+enteral
 elitists
 echovirus
 exercent
