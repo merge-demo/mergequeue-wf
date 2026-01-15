@@ -6621,7 +6621,6 @@ equines
 enseam
 exfoliated
 egyptianism
-entoplastic
 electrophoresis
 eructed
 equatorward
@@ -11660,6 +11659,7 @@ eruca
 electivity
 emersonian
 eliminations
+entoplastic
 exaction
 enfire
 exactitude
