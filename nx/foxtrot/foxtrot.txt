@@ -5828,6 +5828,7 @@ flavorfulness
 fetor
 feculent
 ferulas
+foosterer
 fishweed
 fastiia
 frontis
@@ -7241,7 +7242,6 @@ forebroads
 filmmaker
 forgottenness
 fredaine
-foosterer
 funnel
 footfarer
 falsework
