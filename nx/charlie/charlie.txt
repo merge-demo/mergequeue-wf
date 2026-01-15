@@ -13995,6 +13995,7 @@ cargador
 cyphosis
 compitum
 cipo
+calories
 carabin
 conservatist
 catstitch
@@ -25932,7 +25933,6 @@ corticium
 callans
 corticoafferent
 corticoline
-calories
 corticolous
 corticose
 corticosteroids
