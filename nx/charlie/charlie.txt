@@ -4303,7 +4303,6 @@ comfiest
 carets
 caretta
 careworn
-concorporation
 cottages
 carfare
 carfares
@@ -17387,6 +17386,7 @@ coassuming
 chrysolite
 coast
 coastal
+concorporation
 coastally
 cohabitant
 cinemese
