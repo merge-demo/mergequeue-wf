@@ -2286,7 +2286,6 @@ genecologic
 granulocytopoiesis
 gliadin
 gneissose
-geomoroi
 grange
 glazer
 gynarchy
@@ -5374,6 +5373,7 @@ grittiness
 galactopoiesis
 germinating
 gourds
+geomoroi
 glomerulate
 galactosemic
 graciosos
