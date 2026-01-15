@@ -2142,7 +2142,6 @@ banterers
 bloodlessness
 bantery
 boxfishes
-bantering
 banty
 betangle
 bribery
@@ -8961,6 +8960,7 @@ bowser
 blissfulness
 barbarousness
 biocoenotic
+bantering
 bradding
 broth
 biodegradable
