@@ -9212,7 +9212,6 @@ biotypology
 balneotherapeutics
 biotites
 bolometric
-basil
 blowback
 borohydride
 blackheartedly
@@ -11182,6 +11181,7 @@ bloodstreams
 beforementioned
 bolivars
 boastive
+basil
 beparch
 bisdimethylamino
 bacteroidal
