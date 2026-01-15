@@ -3549,6 +3549,7 @@ caprioled
 captainry
 captainship
 chaotically
+corralling
 chemicked
 concordat
 chevy
@@ -30359,7 +30360,6 @@ coss
 clytemnestra
 conttinua
 clenching
-corralling
 crustacean
 curvograph
 chinovnik
