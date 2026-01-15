@@ -8063,6 +8063,7 @@ gratitude
 geotaxy
 ghosthood
 gangsman
+gryllid
 gouvernante
 grapnels
 glaucine
@@ -9107,7 +9108,6 @@ gis
 goloch
 gunpowdery
 gilled
-gryllid
 galluptious
 golgothas
 geelbek
