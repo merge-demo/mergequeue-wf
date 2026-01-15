@@ -6816,6 +6816,7 @@ fineer
 furthersome
 fleury
 fatheaded
+fodderless
 frized
 fleece
 feering
@@ -11543,7 +11544,6 @@ furlable
 fabling
 fictionize
 fards
-fodderless
 forjudgment
 fork
 famulary
