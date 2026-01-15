@@ -1794,7 +1794,6 @@ bamboozling
 brachman
 burdie
 bamboula
-banterer
 brigantes
 boswellized
 bowmen
@@ -15021,6 +15020,7 @@ breathe
 bravuraish
 blennophlogisma
 breathes
+banterer
 boarstaff
 boppist
 bookishly
