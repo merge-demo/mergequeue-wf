@@ -959,7 +959,6 @@ equipping
 endowments
 endorsements
 electrophoretic
-epilogues
 excusation
 eurypteroid
 eluvia
@@ -7723,6 +7722,7 @@ embosom
 exchanger
 extrafine
 eosine
+epilogues
 extractiform
 ensilages
 encephalogram
