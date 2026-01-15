@@ -7872,7 +7872,6 @@ cysticle
 cooeyed
 cervicomuscular
 cerviconasal
-cholelithotripsy
 cribrous
 crotchy
 cervicothoracic
@@ -12466,6 +12465,7 @@ cranemanship
 chromoisomer
 cenotaphies
 chromoisomeric
+cholelithotripsy
 chamaenerion
 carneous
 candelabra
