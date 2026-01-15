@@ -2605,7 +2605,6 @@ eurylaimoid
 everest
 evaporator
 enhaloed
-eliasite
 espiglerie
 embryonate
 engrail
@@ -4096,6 +4095,7 @@ esotropic
 enjambement
 erotophobia
 erythroderma
+eliasite
 edibleness
 epiphonemae
 empathized
