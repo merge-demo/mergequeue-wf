@@ -2268,6 +2268,7 @@ flatulence
 firebombed
 full
 flavones
+feverbush
 filamentiferous
 fantails
 folktale
@@ -11161,7 +11162,6 @@ forbiddance
 fibroid
 fauteuils
 fedellini
-feverbush
 fetometry
 fishtail
 fieldleft
