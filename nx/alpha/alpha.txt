@@ -4935,7 +4935,6 @@ arter
 aeronaut
 aeronautic
 argentose
-agama
 aeronautical
 amyliferous
 aumil
@@ -9045,6 +9044,7 @@ antacid
 alluvious
 assortative
 aphrodesiac
+agama
 antipeptone
 ametropic
 accipitres
