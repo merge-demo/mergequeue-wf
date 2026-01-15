@@ -2309,7 +2309,6 @@ gestant
 grosse
 gripmen
 genecologist
-goas
 galaxy
 grallatorial
 glottidean
@@ -4503,6 +4502,7 @@ gommelin
 grandsire
 gourdiness
 generics
+goas
 giocoso
 gip
 geoids
