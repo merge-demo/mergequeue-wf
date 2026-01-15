@@ -290,6 +290,7 @@ filander
 folios
 finfishes
 felsic
+fragmenting
 flooders
 fairly
 folk
@@ -1356,7 +1357,6 @@ fanning
 fatigue
 fossicks
 fatiguesome
-fragmenting
 fulminuric
 fatiha
 fruticeous
