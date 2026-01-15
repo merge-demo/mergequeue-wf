@@ -11992,7 +11992,6 @@ ectromelian
 essenic
 exclusive
 enaunter
-enforceability
 enamelled
 epidialogue
 enstranged
@@ -14202,6 +14201,7 @@ exurge
 ebulliometry
 effecters
 equiradiate
+enforceability
 exerciser
 exust
 encaging

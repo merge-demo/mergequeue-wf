@@ -5878,6 +5878,7 @@ genius
 gardon
 greeneries
 gigolo
+gaatch
 grundel
 griddled
 gasfiring
@@ -10717,7 +10718,6 @@ garbanzo
 gu
 grams
 gumma
-gaatch
 gunship
 gismondine
 gastrolytic
