@@ -1001,7 +1001,6 @@ battledore
 barfs
 bailable
 baile
-bezazz
 barbequed
 betanaphthol
 basqued
@@ -1452,6 +1451,7 @@ brightish
 bugler
 balimbing
 bloodthirstiest
+bezazz
 bismuthite
 businessese
 biogen
