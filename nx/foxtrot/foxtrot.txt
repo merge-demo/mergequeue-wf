@@ -9047,7 +9047,6 @@ functionnaire
 fernless
 fableist
 flabellarium
-fourragere
 fermila
 fragrantly
 fiefdoms
@@ -10392,6 +10391,7 @@ forewarning
 fiaunt
 floret
 fraenula
+fourragere
 floodlighted
 fetology
 fluoridized
