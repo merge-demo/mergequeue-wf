@@ -6616,7 +6616,6 @@ confluence
 caxtonian
 caza
 cazimi
-chamois
 crossability
 confusticate
 chondrofetal
@@ -29588,6 +29587,7 @@ culture
 caterer
 crocetin
 ceratospongiae
+chamois
 croche
 crocheted
 crocheter
