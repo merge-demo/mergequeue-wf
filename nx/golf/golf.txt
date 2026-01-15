@@ -5128,6 +5128,7 @@ garrya
 griffins
 generalizable
 granza
+granuloma
 gastroptosia
 glycan
 guilders
@@ -7202,7 +7203,6 @@ generalship
 gingely
 gospoda
 gillotage
-granuloma
 gonomery
 gonagra
 geniuses

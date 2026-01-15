@@ -318,6 +318,7 @@ enterodynia
 electroplated
 epitheliolysin
 expiries
+esophagodynia
 endosmose
 easterling
 exhumers
@@ -11296,7 +11297,6 @@ elbowboard
 evaporating
 eviscerating
 endoarteritis
-esophagodynia
 excursing
 endue
 eluder
