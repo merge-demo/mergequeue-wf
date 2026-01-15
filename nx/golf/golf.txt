@@ -888,6 +888,7 @@ gametogenic
 gueparde
 gravemaster
 geologer
+guessworker
 glutathione
 gleaminess
 gladdens
@@ -2058,7 +2059,6 @@ galactosuria
 gasometrically
 glossiness
 goaf
-guessworker
 gallied
 glime
 grapeful
