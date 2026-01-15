@@ -4008,7 +4008,6 @@ administrates
 antihemolytic
 administrational
 administrative
-affixion
 administratively
 administratrices
 antiarin
@@ -23005,6 +23004,7 @@ atropisms
 atropos
 atropous
 atrorubent
+affixion
 aeoline
 angiocarditis
 abrim
