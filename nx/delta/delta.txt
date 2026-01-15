@@ -5968,7 +5968,6 @@ docious
 decimetres
 doubledamn
 deckswabber
-debord
 decuples
 dragons
 duller
@@ -11470,6 +11469,7 @@ dermatoplast
 deinoceras
 duplicitous
 discloud
+debord
 dingus
 disincarceration
 disclusion
