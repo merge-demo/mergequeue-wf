@@ -10054,7 +10054,6 @@ ambrosiaceae
 ambrosias
 abates
 argine
-ambrosiate
 affords
 altarwise
 ambrosine
@@ -23121,6 +23120,7 @@ annunciable
 anathematiser
 allometric
 analytic
+ambrosiate
 airdropped
 alew
 amarna
