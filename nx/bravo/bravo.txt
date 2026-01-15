@@ -7106,7 +7106,6 @@ brescian
 beetler
 beknown
 bousoukia
-bathyscaphes
 bespeckle
 bethylid
 bespeckled
@@ -15761,6 +15760,7 @@ betorcin
 blithesomeness
 biaxially
 bardee
+bathyscaphes
 brocatelle
 beowulf
 brocatello
