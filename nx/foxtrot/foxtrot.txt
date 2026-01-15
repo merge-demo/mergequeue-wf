@@ -3001,7 +3001,6 @@ farceurs
 fiar
 flirts
 furiousness
-footropes
 faintheartedness
 filmiform
 forma
@@ -5225,6 +5224,7 @@ furbelows
 froom
 flatlands
 fiberized
+footropes
 flavoprotein
 flywheels
 flatman
