@@ -3269,6 +3269,7 @@ foreknowledge
 freestanding
 fibrosity
 forthrightly
+fattishness
 fulmicotton
 faradizer
 flaught
@@ -10161,7 +10162,6 @@ feebling
 forwardness
 fiercly
 fetalism
-fattishness
 feridgi
 flammability
 forespake
