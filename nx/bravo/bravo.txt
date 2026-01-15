@@ -5477,7 +5477,6 @@ bendways
 benignness
 borg
 bechamel
-buffaloes
 bonce
 bahmani
 bootid
@@ -6149,6 +6148,7 @@ betide
 bourne
 barquette
 badaxe
+buffaloes
 bitolyl
 backhaul
 baikalite
