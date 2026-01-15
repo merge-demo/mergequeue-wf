@@ -2560,7 +2560,6 @@ capitalizations
 cecidiology
 committeewoman
 chinol
-castellanship
 candlesticks
 choledocholithotripsy
 cambial
@@ -18148,6 +18147,7 @@ coenosteum
 cacopharyngia
 coenotype
 coenotypic
+castellanship
 coenotrope
 coenthrone
 colatorium
