@@ -349,6 +349,7 @@ gutwort
 garvock
 gingerin
 geometricize
+gobiid
 gilet
 gantlets
 galvanography
@@ -5796,7 +5797,6 @@ garbel
 gade
 graphites
 glycogenolysis
-gobiid
 goldbird
 goosecap
 groovers
