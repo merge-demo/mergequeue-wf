@@ -5518,6 +5518,7 @@ boxed
 bardic
 bootyless
 bechained
+bivouacks
 beige
 barracudas
 backers
@@ -9673,7 +9674,6 @@ bilateral
 bishopling
 biol
 bishopstool
-bivouacks
 bishopweed
 bobbinets
 bestir
