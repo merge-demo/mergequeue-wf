@@ -3468,6 +3468,7 @@ capriote
 capripede
 cytosporina
 caducecaducean
+chianti
 chiastolite
 capris
 convoking
@@ -10169,7 +10170,6 @@ croisard
 coussinet
 chondriosomes
 chyack
-chianti
 chiao
 capsicum
 chiapanec
