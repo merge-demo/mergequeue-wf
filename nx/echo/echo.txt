@@ -3899,6 +3899,7 @@ environmental
 extracted
 endometry
 electroculture
+enflower
 emictory
 exotheca
 englishmen
@@ -5587,7 +5588,6 @@ epicuticle
 endogens
 epiklesis
 embryulcus
-enflower
 essexite
 evaporate
 equalization
