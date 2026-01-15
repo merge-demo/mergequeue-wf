@@ -5859,6 +5859,7 @@ forpass
 flocking
 flited
 freckliness
+feretrum
 foehns
 finings
 fulth
@@ -10712,7 +10713,6 @@ fist
 franklin
 famish
 frightable
-feretrum
 forgiveable
 facultied
 fibular
