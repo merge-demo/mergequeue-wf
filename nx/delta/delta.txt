@@ -5914,6 +5914,7 @@ decompression
 dotard
 dolerin
 demonstration
+disencharm
 dispossessing
 deep
 darwin
@@ -12051,7 +12052,6 @@ dowd
 disenchantments
 disenchantress
 depluming
-disencharm
 doctrix
 daint
 dipterad
