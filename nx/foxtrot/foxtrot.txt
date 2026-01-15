@@ -7130,6 +7130,7 @@ flapmouthed
 foreganger
 forepromise
 figura
+fracas
 fonts
 forelock
 fists
@@ -11694,7 +11695,6 @@ fasinite
 flapcake
 foredispose
 filets
-fracas
 friarhood
 far
 foretellableness
