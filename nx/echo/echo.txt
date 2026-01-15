@@ -5343,7 +5343,6 @@ enwingly
 excarnate
 endeavoring
 enmagazine
-epanody
 endothecal
 eradicate
 ectozoans
@@ -10867,6 +10866,7 @@ entailable
 equitability
 enchalice
 elboic
+epanody
 epidemial
 eructation
 ereption
