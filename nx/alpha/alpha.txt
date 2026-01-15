@@ -7514,7 +7514,6 @@ alcanna
 acardiac
 ascophyllum
 anastomos
-astragal
 alcazaba
 apophonic
 adamance
@@ -24118,6 +24117,7 @@ articulus
 acanthocarpous
 acidimetrical
 anticapitalistic
+astragal
 autografting
 autogram
 anthesteria
