@@ -2313,7 +2313,6 @@ genecologist
 galaxy
 grallatorial
 glottidean
-gangliglia
 gymnodiniaceae
 galidictis
 gaiassa
@@ -3457,6 +3456,7 @@ grittily
 glomerate
 galesaurus
 gastriloquial
+gangliglia
 glike
 guatemalan
 gaslighting
