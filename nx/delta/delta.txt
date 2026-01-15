@@ -1702,7 +1702,6 @@ dyad
 demoralisation
 diener
 dishwiping
-deathify
 degums
 diobol
 deathiness
@@ -12545,6 +12544,7 @@ disindividualize
 doorkeep
 dicotyledonary
 disinfectants
+deathify
 drafter
 dreg
 deceivers
