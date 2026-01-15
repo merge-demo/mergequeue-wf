@@ -1871,6 +1871,7 @@ grecizing
 gossip
 gleir
 graptolithina
+gerrhosaurid
 graveled
 gambles
 gazehound
@@ -2395,7 +2396,6 @@ gymnoconia
 guardants
 gasterosteoid
 guttular
-gerrhosaurid
 grignet
 gonopodpodia
 geb
