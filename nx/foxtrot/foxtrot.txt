@@ -1101,7 +1101,6 @@ farrisite
 fleerish
 firehalls
 forespeech
-figulate
 forthcame
 fashions
 flyings
@@ -10229,6 +10228,7 @@ furnit
 fluorometer
 frivolity
 freakier
+figulate
 froughy
 fricandelle
 flaughter
