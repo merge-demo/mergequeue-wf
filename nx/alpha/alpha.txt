@@ -102,6 +102,7 @@ abase
 antedate
 asap
 amalgamating
+apyrene
 abret
 abasers
 abashed
@@ -16838,7 +16839,6 @@ acromonogrammatic
 aphthong
 alabastron
 arkite
-apyrene
 apiaca
 apiarians
 athletocracy
