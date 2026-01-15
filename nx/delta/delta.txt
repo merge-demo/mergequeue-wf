@@ -8443,6 +8443,7 @@ devotionalist
 dorsiventrally
 ds
 disburthen
+diseuse
 duopsony
 degreed
 daddynut
@@ -16119,7 +16120,6 @@ diminishments
 deltoidal
 doo
 desecrate
-diseuse
 deoxygenize
 drewite
 devisal
