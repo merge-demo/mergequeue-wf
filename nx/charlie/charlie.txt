@@ -6965,7 +6965,6 @@ cementer
 cementification
 cyborgs
 cementin
-catapuce
 chieftainries
 carane
 cementite
@@ -25821,6 +25820,7 @@ calcars
 corrosivity
 colophonate
 cinclidotus
+catapuce
 corrugant
 corrugate
 chamacoco
