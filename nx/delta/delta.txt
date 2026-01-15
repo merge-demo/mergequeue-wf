@@ -2807,7 +2807,6 @@ duplicative
 deferred
 dossers
 dousing
-declarator
 diereses
 decried
 disulphonate
@@ -3256,6 +3255,7 @@ defibrillatory
 dropax
 drimys
 defier
+declarator
 deracinated
 dense
 denuded
