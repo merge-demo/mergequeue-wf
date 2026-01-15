@@ -12679,7 +12679,6 @@ disjunctive
 disjunctively
 deseed
 downloading
-dibble
 disembodying
 diskelion
 disquiparancy
@@ -17300,6 +17299,7 @@ deduct
 devolvement
 dilatability
 drony
+dibble
 droningly
 degelatinize
 deadlocked

@@ -685,7 +685,6 @@ gonfalon
 gastroenterology
 gratillity
 greeters
-gaspereaus
 grunters
 gimmals
 goldney
@@ -5256,6 +5255,7 @@ gingelies
 gieseckite
 gravimetrical
 geogenesis
+gaspereaus
 grottesco
 grimful
 guiler
