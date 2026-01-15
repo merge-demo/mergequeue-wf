@@ -8066,6 +8066,7 @@ biconsonantal
 barnburner
 biconvexity
 browband
+brickwork
 bicorn
 bourrelet
 beslabber
@@ -15141,7 +15142,6 @@ brett
 brot
 brettice
 betty
-brickwork
 blisterweed
 bradawl
 beulah
