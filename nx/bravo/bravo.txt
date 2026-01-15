@@ -4604,7 +4604,6 @@ betrunk
 bozo
 beseech
 buglewort
-brunetness
 bicellular
 backjaw
 bedaub
@@ -9512,6 +9511,7 @@ birn
 byrnie
 biotope
 battlefront
+brunetness
 bisulphide
 bugong
 babingtonite
