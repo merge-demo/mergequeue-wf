@@ -3452,7 +3452,6 @@ frontals
 fulmines
 forewarmer
 forhaile
-forested
 forepointer
 furfurans
 futtermassel
@@ -6761,6 +6760,7 @@ flintlock
 flexura
 flouts
 fogfruits
+forested
 frizel
 fluerics
 formicariae
