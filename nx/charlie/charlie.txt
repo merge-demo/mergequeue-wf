@@ -15016,6 +15016,7 @@ civilest
 cardiod
 civilian
 chalcostibite
+collection
 civilianize
 crotchets
 civilians
@@ -18991,7 +18992,6 @@ ctenoidean
 constables
 collectibility
 collectible
-collection
 cinnamon
 collectivise
 collectivism
