@@ -3507,7 +3507,6 @@ cons
 capsular
 conceitedness
 capsulation
-conics
 collegatary
 chainomatic
 chawbone
@@ -31365,6 +31364,7 @@ curiate
 chromocollotypy
 clothespin
 chaetopodous
+conics
 criosphinges
 cothurnate
 curie
