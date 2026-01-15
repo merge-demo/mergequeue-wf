@@ -1782,7 +1782,6 @@ cheremissian
 christless
 coyer
 calumniators
-calumnious
 calumniously
 camelopard
 canephor
@@ -8792,6 +8791,7 @@ crips
 clearweed
 cave
 carposporic
+calumnious
 cachexic
 candleball
 contemplating
