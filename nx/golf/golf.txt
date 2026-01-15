@@ -8026,7 +8026,6 @@ geonoma
 galleyman
 gnathometer
 gabblement
-groveless
 geologized
 grudgment
 gule
@@ -9066,6 +9065,7 @@ givin
 galbraithian
 glomera
 gilguy
+groveless
 galoshes
 gateways
 gomasta
