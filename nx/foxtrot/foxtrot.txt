@@ -5717,7 +5717,6 @@ facund
 foetor
 fernery
 frigidaire
-francolite
 flatnose
 furziest
 forepassed
@@ -8404,6 +8403,7 @@ familiars
 faradmeter
 flues
 forgot
+francolite
 frogeye
 ferryway
 flaveria
