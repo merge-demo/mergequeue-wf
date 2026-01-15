@@ -148,7 +148,6 @@ facsimiled
 fremd
 fizzing
 fungivorous
-fracturable
 frigidaria
 flayers
 fanworts
@@ -9460,6 +9459,7 @@ franklins
 flector
 fiberize
 frizzliest
+fracturable
 faffy
 footgears
 frumpishly
