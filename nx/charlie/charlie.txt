@@ -8751,7 +8751,6 @@ chirpier
 chapellany
 chapelled
 cimnel
-clavy
 carditic
 cobnut
 capitaliser
@@ -28762,6 +28761,7 @@ coacervated
 crescentiform
 courage
 chylifactive
+clavy
 crescenting
 carpetmaker
 colleagues
