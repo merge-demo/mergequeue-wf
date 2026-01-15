@@ -3620,6 +3620,7 @@ emboscata
 exclusionary
 ectoglia
 entrap
+enplane
 electrometallurgist
 euchlaena
 encraal
@@ -6231,7 +6232,6 @@ erratuta
 editorialize
 endamaged
 eidology
-enplane
 ecorticate
 exopterygota
 expiscate
