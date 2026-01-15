@@ -5488,6 +5488,7 @@ berrigan
 bedraped
 bendways
 benignness
+borg
 bechamel
 buffaloes
 bonce
@@ -9805,7 +9806,6 @@ bework
 budding
 boeotarch
 brights
-borg
 betsileos
 buttresses
 barleymow
