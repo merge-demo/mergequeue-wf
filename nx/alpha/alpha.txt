@@ -11249,7 +11249,6 @@ amphodarch
 ampholytic
 anobiidae
 amphora
-acappella
 algors
 alohas
 abuzz
@@ -12154,6 +12153,7 @@ anchorman
 auriculae
 appositive
 avars
+acappella
 accouters
 altingiaceae
 anchormen
