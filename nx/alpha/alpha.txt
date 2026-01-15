@@ -19383,7 +19383,6 @@ apogaic
 administratrix
 amuser
 argentan
-axisymmetry
 aerobacter
 autochrome
 anacrisis
@@ -22952,6 +22951,7 @@ atrip
 asthenopic
 argyraspides
 asquat
+axisymmetry
 archaical
 atriplex
 atrypoid
