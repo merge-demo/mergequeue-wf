@@ -2029,7 +2029,6 @@ endmatcher
 excitableness
 epilate
 ektexine
-elabor
 epibenthic
 episternite
 evictees
@@ -8294,6 +8293,7 @@ eluxate
 epigyny
 embitter
 epistemic
+elabor
 egyptians
 estragole
 eskimoic

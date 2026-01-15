@@ -224,7 +224,6 @@ ferromagnetic
 factorials
 frontenis
 fanons
-forborne
 futurist
 figuline
 faire
@@ -3556,6 +3555,7 @@ formant
 farcical
 frightful
 foulsome
+forborne
 filamentary
 filament
 flannelleaves
