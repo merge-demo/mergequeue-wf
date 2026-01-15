@@ -1282,7 +1282,6 @@ eudendrium
 epicures
 enroot
 efficiently
-earthshock
 ethylidyne
 eyelight
 eelcake
@@ -1800,6 +1799,7 @@ eutony
 eyeseed
 entophytically
 ectosarcous
+earthshock
 elaphomyces
 electrophotometry
 eyeservant
