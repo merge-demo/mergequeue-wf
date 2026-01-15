@@ -6293,6 +6293,7 @@ fivepence
 flrie
 feudum
 foreread
+fumade
 fairgoing
 flaxes
 fulgurate
@@ -9874,7 +9875,6 @@ followup
 firedamps
 fragmentary
 formulating
-fumade
 flowoff
 fattens
 fleck
