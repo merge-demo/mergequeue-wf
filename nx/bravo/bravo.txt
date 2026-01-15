@@ -9245,7 +9245,6 @@ buffer
 becrimes
 bumbee
 bipaschal
-biped
 beggared
 backhauling
 bourbonesque
@@ -14790,6 +14789,7 @@ bogy
 bacury
 bootblack
 beribbon
+biped
 befretted
 baluchistan
 bowdlerize
