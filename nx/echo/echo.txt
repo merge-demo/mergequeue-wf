@@ -2748,6 +2748,7 @@ electrotypy
 enolase
 earwigged
 eggroll
+ectophytic
 evaporated
 electrovalent
 epinasty
@@ -13959,7 +13960,6 @@ excuse
 extraparochial
 equicurve
 endolemma
-ectophytic
 essoiner
 embezzles
 embrocations
