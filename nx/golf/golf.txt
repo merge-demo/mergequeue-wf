@@ -1202,7 +1202,6 @@ glyceraldehyde
 grinned
 gibbet
 guejarite
-galipine
 gorilla
 gaplessness
 gynandrism
@@ -4830,6 +4829,7 @@ gomeril
 genarch
 glossematics
 gunmaker
+galipine
 glar
 gnarr
 gypsy
