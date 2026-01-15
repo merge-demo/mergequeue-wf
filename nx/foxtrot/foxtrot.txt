@@ -5338,6 +5338,7 @@ falda
 fossilage
 fstore
 flot
+flocking
 fissiped
 flavourful
 fieldy
@@ -5862,7 +5863,6 @@ flyswatter
 filipiniana
 figmental
 forpass
-flocking
 flited
 freckliness
 feretrum
