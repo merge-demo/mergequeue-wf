@@ -7428,7 +7428,6 @@ disseised
 duodrama
 detrivorous
 dervish
-doggereled
 diplomatists
 doebird
 darbha
@@ -15814,6 +15813,7 @@ demisphere
 dorsolumbar
 dankly
 discussment
+doggereled
 deputise
 detent
 deputyship
