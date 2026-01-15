@@ -4953,7 +4953,6 @@ emusify
 euhemerize
 enticed
 exencephalic
-exterrestrial
 ectocoelic
 emporetic
 electroamalgamation
@@ -8439,6 +8438,7 @@ elsewhere
 epollicate
 ethoses
 eponge
+exterrestrial
 exhibitioner
 ethopoetic
 exsuction
