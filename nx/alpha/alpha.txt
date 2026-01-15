@@ -15916,7 +15916,6 @@ acculturative
 appointor
 attent
 autorotate
-antiq
 antiqua
 acetylated
 antelope
@@ -17803,6 +17802,7 @@ archisynagogue
 accidentarily
 amplex
 alex
+antiq
 alisphenoid
 amphiarthrosis
 asterales
