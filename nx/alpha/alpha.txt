@@ -7824,7 +7824,6 @@ arterionecrosis
 amor
 aleikoum
 astropecten
-agammaglobulinemia
 aleiptic
 actinology
 aleyrodes
@@ -9452,6 +9451,7 @@ aortotomy
 acousmas
 audiotapes
 altingiaceous
+agammaglobulinemia
 antherozooid
 attitudinising
 annul
