@@ -10126,6 +10126,7 @@ commodores
 changed
 capitalistic
 copurchaser
+cephalograph
 chevin
 cheviots
 chevres
@@ -10409,7 +10410,6 @@ capsomer
 conquered
 coryphaena
 clinocephalic
-cephalograph
 chihuahuas
 comephorous
 chikara
