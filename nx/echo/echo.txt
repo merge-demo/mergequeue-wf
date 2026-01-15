@@ -7363,6 +7363,7 @@ eucyclic
 estrangle
 epeirogenesis
 epiphanic
+empair
 eelblennies
 epeirogenically
 erythrina
@@ -10894,7 +10895,6 @@ euphemize
 eyebeam
 euxine
 equilibrations
-empair
 esclandre
 exsolve
 emendations
