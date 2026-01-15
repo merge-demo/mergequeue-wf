@@ -12793,7 +12793,6 @@ exostosis
 exarchist
 equidiagonal
 engraves
-elementary
 exostrae
 exoteric
 esopus
@@ -13881,6 +13880,7 @@ extradited
 ecchymoma
 extradosed
 entireties
+elementary
 environments
 ectocyst
 ectobronchium
