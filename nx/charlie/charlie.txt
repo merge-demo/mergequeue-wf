@@ -28904,7 +28904,6 @@ corallorhiza
 crib
 crybaby
 cooperant
-coarse
 centrolecithal
 conductility
 crybabies
@@ -29876,6 +29875,7 @@ crossflow
 crossfoot
 crosshackle
 colicins
+coarse
 crosshair
 crosshand
 crosshatches
