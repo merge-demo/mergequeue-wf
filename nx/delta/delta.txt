@@ -2841,7 +2841,6 @@ dirties
 desiring
 diaclasis
 deculturate
-driverless
 deperm
 dihydronicotine
 dozens
@@ -6444,6 +6443,7 @@ distilland
 desalinator
 disclaimer
 disperge
+driverless
 departmentalising
 diploes
 divariant
