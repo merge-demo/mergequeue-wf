@@ -976,7 +976,6 @@ calamary
 calamariaceous
 centrifugalized
 calamarmar
-cilioflagellate
 calamars
 calambac
 coastmen
@@ -17547,6 +17546,7 @@ cobridgehead
 cyzicene
 chrysostomic
 chimneyhead
+cilioflagellate
 coburg
 cobweb
 coemployed
