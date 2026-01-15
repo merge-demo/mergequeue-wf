@@ -5722,7 +5722,6 @@ foetor
 fernery
 frigidaire
 flatnose
-furziest
 forepassed
 furtive
 fract
@@ -6461,6 +6460,7 @@ fluocerine
 fren
 flang
 fullterm
+furziest
 foisted
 francois
 fluorboric
