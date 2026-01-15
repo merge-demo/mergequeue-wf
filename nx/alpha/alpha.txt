@@ -1060,6 +1060,7 @@ aerometeorograph
 abuilding
 abuleia
 anabolic
+abneural
 abulia
 atticizing
 axhammered
@@ -23300,7 +23301,6 @@ astrocytoma
 amoretto
 atropinization
 alicoche
-abneural
 akeley
 attempted
 attunement

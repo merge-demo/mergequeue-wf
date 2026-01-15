@@ -754,7 +754,6 @@ bradylogia
 bicetyl
 beeline
 biometrical
-bethorn
 bedamp
 building
 binitarian
@@ -4205,6 +4204,7 @@ babelize
 beastling
 bullswool
 beastlings
+bethorn
 bulgy
 beastman
 barracoutas
