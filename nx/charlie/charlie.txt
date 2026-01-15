@@ -14294,7 +14294,6 @@ constrained
 circumpentagon
 convexed
 circumplanetary
-crone
 chrysazin
 circumplicate
 circumplication
@@ -25414,6 +25413,7 @@ cornic
 cornice
 costodiaphragmatic
 cuarta
+crone
 choragus
 corniced
 collaud
