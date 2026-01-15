@@ -9966,7 +9966,6 @@ etape
 etapes
 exorhason
 endangers
-esmeraldite
 extraterrestrial
 epicoracoidal
 enterprises
@@ -13031,6 +13030,7 @@ embryonal
 ezba
 encolumn
 entastic
+esmeraldite
 existentially
 epiphytically
 empiricist
