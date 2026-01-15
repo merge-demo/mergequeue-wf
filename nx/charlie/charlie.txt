@@ -4607,7 +4607,6 @@ carnivoral
 canvasado
 carnivore
 carnivorism
-chlormethylic
 creakiness
 coherer
 carnivorously
@@ -29027,6 +29026,7 @@ criminologic
 criminological
 criminologically
 condylarthrosis
+chlormethylic
 choreographers
 congous
 cenatory
