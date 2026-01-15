@@ -11402,6 +11402,7 @@ consultations
 choanate
 conspiratress
 choanephora
+coliseum
 cystopyelography
 choanocyte
 cotta
@@ -18898,7 +18899,6 @@ crud
 colyone
 choanoflagellata
 colipuncture
-coliseum
 chancelor
 colossus
 cestoid
