@@ -1098,6 +1098,7 @@ collyrie
 caddisflies
 calciferol
 calcified
+coarticulate
 counterboycott
 calcifying
 codelight
@@ -17363,7 +17364,6 @@ canonizations
 chickory
 coarsening
 coarsens
-coarticulate
 coarticulation
 contriver
 canavalia
