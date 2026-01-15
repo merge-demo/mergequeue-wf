@@ -2375,6 +2375,7 @@ electroplating
 expostulate
 electroplates
 ecphova
+eclogic
 egba
 explees
 episteme
@@ -11790,7 +11791,6 @@ enteradenography
 exauctorate
 elding
 enrolment
-eclogic
 elaphrium
 eleutherophyllous
 euryon
