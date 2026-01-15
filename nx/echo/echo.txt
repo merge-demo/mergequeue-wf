@@ -8647,6 +8647,7 @@ eggcrate
 endnotes
 enmeshed
 elechi
+enplanement
 elastometer
 eltrot
 equipedal
@@ -14149,7 +14150,6 @@ episcopates
 ebonizing
 ephemerality
 ethylene
-enplanement
 emulates
 enlard
 entocuneiform
