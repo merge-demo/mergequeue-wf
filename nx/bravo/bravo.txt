@@ -5868,7 +5868,6 @@ bachel
 baronship
 bellmanship
 braggingly
-buttstock
 brassies
 batholith
 beefin
@@ -6828,6 +6827,7 @@ buprestidan
 bedizen
 bertie
 belard
+buttstock
 bertolonia
 bioacoustics
 basigenous
