@@ -7835,7 +7835,6 @@ entozoan
 epiguanine
 elementate
 enablement
-escandalize
 encloak
 extincts
 executioner
@@ -13302,6 +13301,7 @@ exploiture
 exploratively
 eikonology
 egency
+escandalize
 estoile
 eminences
 exarchic
