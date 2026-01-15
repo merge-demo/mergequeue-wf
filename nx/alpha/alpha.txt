@@ -11992,7 +11992,6 @@ airspeed
 anastasius
 anemosis
 architeuthis
-anastate
 anastatus
 anastigmat
 anastigmatic
@@ -20050,6 +20049,7 @@ averral
 appetize
 anaphoras
 apophyses
+anastate
 ambrosial
 allomerizing
 albainn
