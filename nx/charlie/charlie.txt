@@ -11836,7 +11836,6 @@ chopdar
 colonus
 cyprinoidea
 connation
-clarina
 chopins
 coinquinate
 choplogic
@@ -14669,6 +14668,7 @@ coliander
 cystospastic
 cited
 cystostomies
+clarina
 chamberlet
 catilinarian
 cystotome

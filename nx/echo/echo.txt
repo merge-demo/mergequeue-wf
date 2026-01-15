@@ -1146,7 +1146,6 @@ encatarrhaphy
 erichthoid
 ejectee
 enarm
-endopterygotic
 epacts
 elhi
 eikons
@@ -12212,6 +12211,7 @@ externes
 endopterygote
 equipment
 epanalepsis
+endopterygotic
 eclogue
 executress
 elshin
