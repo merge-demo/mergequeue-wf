@@ -4867,7 +4867,6 @@ carriageway
 celiocele
 carryall
 chromatoplasm
-carried
 carryed
 carrier
 conidian
@@ -13170,6 +13169,7 @@ ciceronage
 ciceroni
 crossbreeds
 ciceronian
+carried
 chiaroscuro
 clon
 ciceronianisms
