@@ -1357,6 +1357,7 @@ effect
 endocardiac
 elderlies
 exopeptidase
+entraining
 effective
 exorcised
 enhallow
@@ -2040,7 +2041,6 @@ eradiculose
 elsa
 elabrate
 epirrhematic
-entraining
 epigaea
 encurl
 euglobulin
