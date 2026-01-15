@@ -3487,6 +3487,7 @@ frostfishes
 forepart
 foreseason
 fallback
+foreinstruct
 fighteress
 fatigation
 fighting
@@ -7778,7 +7779,6 @@ flavedos
 ferrated
 fishy
 firnismalerei
-foreinstruct
 fallal
 fatherland
 flyman
