@@ -16669,7 +16669,6 @@ crotchety
 closer
 chrysler
 closers
-closes
 closeting
 circumjacence
 cercosporella
@@ -30812,6 +30811,7 @@ cullies
 conveyance
 clarigold
 cullionly
+closes
 cullisance
 cotterel
 cannibalish
