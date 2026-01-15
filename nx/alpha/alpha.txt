@@ -349,7 +349,6 @@ aberrantly
 aberrants
 affenspalte
 aberrating
-astrogonic
 arrival
 aberration
 aberrational
@@ -5856,6 +5855,7 @@ arenaceous
 arri
 agglutinative
 adamantine
+astrogonic
 agglutinatively
 angelonia
 aarrghh
