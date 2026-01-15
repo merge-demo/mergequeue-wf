@@ -2407,7 +2407,6 @@ deceived
 diaphragm
 dane
 desmohemoblast
-dropkick
 dusken
 dihydronaphthalene
 decimating
@@ -15276,6 +15275,7 @@ desubstantiate
 dolomedes
 dolomite
 dose
+dropkick
 descriptives
 dorididae
 dehydrase
