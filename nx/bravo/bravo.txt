@@ -2744,7 +2744,6 @@ besague
 butlerism
 batholitic
 baroko
-bubastite
 backward
 beltline
 bullbat
@@ -5539,6 +5538,7 @@ bemurmured
 bobowler
 benefactive
 begnawn
+bubastite
 bruce
 beisance
 burh
