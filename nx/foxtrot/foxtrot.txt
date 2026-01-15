@@ -1462,6 +1462,7 @@ favourable
 fearsomely
 foreshows
 fabulate
+forewonted
 flytes
 flaillike
 fissidentaceous
@@ -6887,7 +6888,6 @@ format
 fungin
 fortes
 fermenting
-forewonted
 freelancer
 funorin
 foveiform
