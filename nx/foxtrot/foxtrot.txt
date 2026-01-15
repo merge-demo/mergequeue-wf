@@ -3108,7 +3108,6 @@ flowing
 fluorescent
 fogbank
 fairylike
-fibrocement
 fieulamort
 fecula
 frottages
@@ -5720,6 +5719,7 @@ foster
 foetor
 fernery
 frigidaire
+fibrocement
 flatnose
 forepassed
 furtive
