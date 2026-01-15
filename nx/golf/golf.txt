@@ -3749,6 +3749,7 @@ galvanize
 garishness
 guajillo
 gpm
+glamorize
 goldbug
 gangwa
 genae
@@ -9405,7 +9406,6 @@ gimmick
 ganched
 gravestones
 gallerygoer
-glamorize
 goggliest
 gwen
 glareola
