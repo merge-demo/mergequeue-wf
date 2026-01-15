@@ -5164,6 +5164,7 @@ endoenzyme
 epitrochoid
 elytrorrhaphy
 encyclic
+eclosions
 essonite
 epimeride
 enounced
@@ -12983,7 +12984,6 @@ etherous
 evanition
 epicentrums
 eucrasy
-eclosions
 equanimously
 expecter
 enzym
