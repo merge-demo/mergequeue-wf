@@ -2689,7 +2689,6 @@ foremelt
 feasing
 ferular
 frondage
-feruled
 felonous
 ferulic
 fitzclarence
@@ -4810,6 +4809,7 @@ forfeits
 furloughing
 fasibitikite
 flagellatae
+feruled
 faders
 footlike
 fulmination
