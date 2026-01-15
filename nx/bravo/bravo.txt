@@ -13100,7 +13100,6 @@ borders
 biverb
 bagpipe
 beriber
-brevetting
 borderline
 bowgrace
 balneae
@@ -17756,6 +17755,7 @@ basyl
 burping
 burrbark
 bloodied
+brevetting
 bedrolls
 balaenoid
 burrers
