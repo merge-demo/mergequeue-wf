@@ -5944,7 +5944,6 @@ farine
 fowling
 floristic
 floatsmen
-fluff
 farthingale
 forestem
 formidableness
@@ -10535,6 +10534,7 @@ ferruling
 floria
 farrant
 frontiersmen
+fluff
 flnerie
 foregoer
 fibroin
