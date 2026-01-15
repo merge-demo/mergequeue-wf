@@ -5726,7 +5726,6 @@ brimmered
 belie
 balausta
 belied
-bridalty
 blatancy
 beliefful
 bundobust
@@ -6176,6 +6175,7 @@ benefactress
 benign
 bepearl
 blest
+bridalty
 breaming
 beneficed
 brangle
