@@ -5244,6 +5244,7 @@ axon
 affixal
 astipulate
 affectedly
+anaematosis
 astrid
 americanoid
 amortization
@@ -14682,7 +14683,6 @@ antibilious
 actinoida
 antibiosis
 antibiotic
-anaematosis
 acousmatic
 antibiotically
 autarkically
