@@ -4938,7 +4938,6 @@ aeronautic
 argentose
 agama
 aeronautical
-aeronomer
 amyliferous
 aumil
 anisogametic
@@ -19747,6 +19746,7 @@ aggressiveness
 arithmomancy
 arivaipa
 amphoral
+aeronomer
 anhistous
 amortized
 arjun
