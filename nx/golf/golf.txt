@@ -2980,7 +2980,6 @@ grane
 gastroscopic
 glycerinating
 gooseflower
-gestatorium
 guardingly
 glaury
 gusts
@@ -4720,6 +4719,7 @@ girshes
 gastrohysterotomy
 gipsyish
 gingkoes
+gestatorium
 garvanzo
 gastrohelcosis
 geomorphologic
