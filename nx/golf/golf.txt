@@ -4829,7 +4829,6 @@ genarch
 glossematics
 gunmaker
 galipine
-glar
 gnarr
 gypsy
 givingness
@@ -9195,6 +9194,7 @@ geogonical
 grusinian
 gmelina
 goosepimply
+glar
 grooming
 gardant
 gladstone
