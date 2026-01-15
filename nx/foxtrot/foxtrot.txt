@@ -7183,7 +7183,6 @@ fusional
 fingerstall
 fostership
 forgeability
-fungicide
 flanchard
 foolproofness
 frostlike
@@ -10901,6 +10900,7 @@ fitweed
 frousy
 faddism
 fulgidity
+fungicide
 fornent
 flaite
 functionally
