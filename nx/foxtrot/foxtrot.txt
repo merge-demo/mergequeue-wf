@@ -9121,6 +9121,7 @@ fascili
 fib
 frumentaceous
 flotsan
+friendliness
 faineantism
 fix
 fractionalize
@@ -11070,7 +11071,6 @@ fancies
 franco
 flanerie
 ferruminate
-friendliness
 fermented
 firmarii
 fumuli
