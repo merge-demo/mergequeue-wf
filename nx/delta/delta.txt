@@ -997,6 +997,7 @@ dhabb
 darkmans
 dineutron
 drawbars
+diathermal
 daggly
 darkskin
 darksum
@@ -7939,7 +7940,6 @@ dextranase
 doublelunged
 disallowable
 defunctive
-diathermal
 decimeters
 dextroaural
 draconian
