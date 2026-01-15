@@ -1037,6 +1037,7 @@ blitzbuggy
 bolete
 babyhouse
 burfish
+bouse
 becost
 blousier
 burghal
@@ -13763,7 +13764,6 @@ benic
 beaverite
 benighten
 buffy
-bouse
 boused
 balija
 bousouki
