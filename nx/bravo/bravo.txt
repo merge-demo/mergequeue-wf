@@ -3953,6 +3953,7 @@ bocstaff
 bdelloura
 bisected
 bassette
+bypast
 boiko
 buccolingual
 bunch
@@ -12570,7 +12571,6 @@ benchy
 bongoes
 blockaded
 bongoist
-bypast
 bannimus
 beaus
 bombax
