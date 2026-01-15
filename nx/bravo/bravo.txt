@@ -2254,7 +2254,6 @@ bandog
 bunker
 barbarically
 blandiloquous
-barbicanage
 barricos
 buddler
 bassoons
@@ -2800,6 +2799,7 @@ bequeathing
 bookstore
 barong
 bezoar
+barbicanage
 befilch
 backstroking
 beachless
