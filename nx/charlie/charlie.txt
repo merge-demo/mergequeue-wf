@@ -2761,6 +2761,7 @@ compete
 colts
 cancerphobia
 cannetille
+cpus
 claviers
 cereless
 cannibalization
@@ -27840,7 +27841,6 @@ cpd
 crossbreds
 chemurgic
 cpo
-cpus
 contractional
 centriffed
 chinotti
