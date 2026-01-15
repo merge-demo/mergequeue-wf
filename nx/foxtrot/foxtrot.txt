@@ -1725,6 +1725,7 @@ featherbird
 feoffors
 forfare
 foreshore
+facty
 floriferous
 fretfully
 farcemeat
@@ -9757,7 +9758,6 @@ fourfiusher
 fraising
 fustle
 footwalls
-facty
 femoral
 fingerroot
 functorial
