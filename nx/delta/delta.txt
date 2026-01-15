@@ -5836,7 +5836,6 @@ deadtongue
 dags
 dentaries
 dusters
-deprecable
 doorbrand
 darling
 diachoresis
@@ -7868,6 +7867,7 @@ disbudder
 destitutely
 deglute
 driveways
+deprecable
 dewclaws
 diaphonia
 dites
