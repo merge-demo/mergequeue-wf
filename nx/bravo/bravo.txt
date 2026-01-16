@@ -9799,6 +9799,7 @@ biophysicochemical
 bystreet
 bistres
 bework
+bituminize
 budding
 boeotarch
 brights
@@ -17954,7 +17955,6 @@ bushwhackers
 boheas
 balancing
 bellowsman
-bituminize
 baho
 busybodyism
 basilosauridae
