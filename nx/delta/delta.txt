@@ -2405,6 +2405,7 @@ dehiscent
 dalaga
 dreamlit
 dinoceratid
+defile
 deceived
 diaphragm
 dane
@@ -4030,7 +4031,6 @@ discant
 delignification
 demurringly
 delimed
-defile
 disquisitory
 diphysitism
 duskiness
