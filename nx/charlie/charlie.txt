@@ -16896,7 +16896,6 @@ clubhauled
 clubhauls
 clubhouses
 clubionidae
-canters
 clubman
 cloveroot
 cabmen
@@ -16926,6 +16925,7 @@ challah
 clucky
 concussional
 connectional
+canters
 coachwhip
 clucking
 clue
