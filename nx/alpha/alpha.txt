@@ -131,7 +131,6 @@ assertive
 alienable
 aspidoganoidei
 aulostoma
-abasic
 ascriptive
 anachueta
 alcarraza
@@ -3860,6 +3859,7 @@ adital
 aporrhoea
 aquacades
 ansae
+abasic
 arthrosyrinx
 arbovirus
 analcite
