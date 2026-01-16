@@ -5783,6 +5783,7 @@ backlogging
 bearably
 blackneck
 ballhausplatz
+blares
 basten
 beblubbered
 behint
@@ -10474,7 +10475,6 @@ boyards
 barytostrontianite
 buoying
 burinist
-blares
 boongary
 blaring
 bookwise
