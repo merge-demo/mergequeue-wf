@@ -1837,6 +1837,7 @@ frilly
 flashlight
 flavoured
 febricitant
+firearm
 frictions
 feastless
 febrific
@@ -7739,7 +7740,6 @@ factualism
 fittywise
 forsteal
 fossilised
-firearm
 faveolus
 forecasting
 freeze
