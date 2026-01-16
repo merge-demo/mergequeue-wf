@@ -2391,7 +2391,6 @@ functioning
 federatist
 felonsetter
 formicivorous
-filtrable
 faburden
 fingernail
 flanged
@@ -6676,6 +6675,7 @@ front
 floriculturally
 foreseize
 fettled
+filtrable
 fidgetation
 frankish
 freemanship
