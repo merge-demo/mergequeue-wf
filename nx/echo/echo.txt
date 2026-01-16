@@ -4372,7 +4372,6 @@ exceeders
 exothermous
 enwoman
 enamour
-enamouredness
 expostulator
 effuse
 espouse
@@ -9461,6 +9460,7 @@ ephahs
 eses
 epicism
 exegetes
+enamouredness
 eschrufe
 escopeta
 euphemistical
