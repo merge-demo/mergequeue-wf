@@ -5609,7 +5609,6 @@ evaporate
 equalization
 epidendrum
 elutions
-esophageal
 ethyl
 edenization
 ethiopia
@@ -9279,6 +9278,7 @@ egressing
 electra
 exonerative
 exarch
+esophageal
 errants
 espinette
 erratas
