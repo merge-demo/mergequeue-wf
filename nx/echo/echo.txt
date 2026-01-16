@@ -135,6 +135,7 @@ euphonised
 eponyms
 echinoderma
 embosk
+excipient
 eloigns
 epigrammatic
 eurafric
@@ -4841,7 +4842,6 @@ emulously
 effeminised
 encomic
 executory
-excipient
 embryonally
 epispastic
 exsuperance
