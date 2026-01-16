@@ -1212,7 +1212,6 @@ gibbet
 guejarite
 gorilla
 gaplessness
-gynandrism
 gourmandise
 gappier
 gladiatorial
@@ -5812,6 +5811,7 @@ goldbird
 goosecap
 groovers
 geogonic
+gynandrism
 glaiket
 gonidic
 gangways
