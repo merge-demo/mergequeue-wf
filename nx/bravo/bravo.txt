@@ -3039,6 +3039,7 @@ bisyllabic
 barflies
 bah
 buggeries
+basters
 bhang
 buccinum
 branglement
@@ -18143,7 +18144,6 @@ botanicas
 bolita
 bashless
 bromeikon
-basters
 byzant
 butyryls
 brakeages
