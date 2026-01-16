@@ -333,6 +333,7 @@ flexuosity
 forespent
 fag
 feint
+fulciment
 factorial
 finagles
 fibrillated
@@ -10865,7 +10866,6 @@ flatnesses
 fuddler
 ferrocalcite
 florimania
-fulciment
 fs
 failures
 franklinic
