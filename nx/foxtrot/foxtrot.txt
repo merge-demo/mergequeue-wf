@@ -7601,6 +7601,7 @@ fragmentization
 feuilletonist
 feedhead
 familiarity
+foresighted
 fother
 faultily
 friendship
@@ -11460,7 +11461,6 @@ fiducially
 fatlings
 falteringly
 furrily
-foresighted
 fathoms
 fusible
 frondeur
