@@ -3958,6 +3958,7 @@ ferrocyanogen
 falsehearted
 furrowed
 foresummon
+fishplate
 fimbriate
 fendered
 fullest
@@ -6563,7 +6564,6 @@ footage
 fumagine
 fenestellidae
 fouquieriaceous
-fishplate
 funambulation
 foulness
 fictor
