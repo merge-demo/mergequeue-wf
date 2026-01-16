@@ -4567,7 +4567,6 @@ antechapel
 altercate
 apersee
 accoying
-adlumine
 anthropophagously
 advisories
 acrock
@@ -24741,6 +24740,7 @@ absinths
 accosted
 airest
 antipathogene
+adlumine
 ankylosaurus
 angule
 antecoxal
