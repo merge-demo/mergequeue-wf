@@ -7884,7 +7884,6 @@ bewreath
 bealtine
 bibiri
 brad
-barefisted
 bibitory
 bothridiums
 bohmite
@@ -15757,6 +15756,7 @@ booksy
 betorcin
 blithesomeness
 biaxially
+barefisted
 bardee
 bathyscaphes
 brocatelle
