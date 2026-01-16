@@ -75,7 +75,6 @@ guidelines
 groupoid
 grutten
 glauber
-guric
 gears
 gourdlike
 gubernator
@@ -3812,6 +3811,7 @@ gaugership
 gadid
 grumpier
 gringos
+guric
 ghostly
 gaura
 ghostwriters
