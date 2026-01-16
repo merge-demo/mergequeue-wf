@@ -1234,6 +1234,7 @@ education
 edulcorating
 ennuye
 enscroll
+embolismus
 educational
 extratracheal
 elenge
@@ -6477,7 +6478,6 @@ encumberment
 ectodactylism
 endometriosis
 enterocoela
-embolismus
 eurypteroidea
 ensoul
 ensouled
