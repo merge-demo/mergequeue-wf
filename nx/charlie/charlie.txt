@@ -146,7 +146,6 @@ cabiric
 cataclysm
 cable
 cablecast
-cardiolith
 catholici
 crudes
 cabled
@@ -2713,6 +2712,7 @@ cneoraceous
 claviculus
 cameo
 cankerroot
+cardiolith
 camerine
 cauponize
 cankers
