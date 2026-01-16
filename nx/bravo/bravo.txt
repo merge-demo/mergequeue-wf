@@ -3348,7 +3348,6 @@ bandurria
 backbearing
 basketmaking
 bonnets
-barnacling
 batikuling
 bluecoat
 basketwoman
@@ -5562,6 +5561,7 @@ bialveolar
 bigeminies
 bhava
 biopsies
+barnacling
 blusher
 beadswoman
 blockline
