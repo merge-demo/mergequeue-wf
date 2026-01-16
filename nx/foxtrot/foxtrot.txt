@@ -2727,7 +2727,6 @@ flywort
 ferriages
 fideicommissum
 figpecker
-ficche
 fathomer
 frazer
 fusain
@@ -4806,6 +4805,7 @@ furtherest
 fiddleneck
 folkmote
 farcies
+ficche
 feuillage
 fortlet
 fulldo
