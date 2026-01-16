@@ -5165,6 +5165,7 @@ grenadine
 goldeneye
 grecism
 grufted
+galvanocautery
 greesagh
 glaky
 gte
@@ -6525,7 +6526,6 @@ gruffness
 genetic
 gurdwara
 glaikitness
-galvanocautery
 guggle
 gillar
 guelph
