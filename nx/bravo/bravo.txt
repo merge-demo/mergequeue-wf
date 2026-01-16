@@ -3009,7 +3009,6 @@ backhatch
 bioassay
 blarneyer
 bottomer
-barstools
 bart
 bargees
 brahma
@@ -11069,6 +11068,7 @@ behavioristically
 basichromiole
 bettina
 boyfriend
+barstools
 budgero
 bisaccate
 bloating
