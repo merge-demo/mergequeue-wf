@@ -11332,7 +11332,6 @@ epoche
 excoriator
 esperantism
 ecurie
-enrank
 entirety
 echiurida
 eightfold
@@ -12487,6 +12486,7 @@ eluviates
 enteropneusta
 erythrophage
 envisages
+enrank
 embosture
 executrixship
 expertize

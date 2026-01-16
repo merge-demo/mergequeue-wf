@@ -12303,7 +12303,6 @@ baysmelts
 baler
 brake
 bhumidar
-briefless
 byssiferous
 bolt
 bluestockings
@@ -13783,6 +13782,7 @@ billetwood
 baronies
 balneatory
 boutefeu
+briefless
 bouteria
 buns
 brownian
