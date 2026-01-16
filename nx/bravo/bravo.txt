@@ -14238,7 +14238,6 @@ baculi
 bracking
 brockle
 brackish
-bacteriological
 banat
 byrls
 bracon
@@ -18365,6 +18364,7 @@ bland
 bobbins
 bordrage
 brailing
+bacteriological
 bimesters
 buz
 buzane
