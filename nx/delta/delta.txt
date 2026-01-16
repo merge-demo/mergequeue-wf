@@ -1314,7 +1314,6 @@ dart
 dauntingness
 discerners
 demandant
-duelli
 decephalize
 definer
 dauphine
@@ -10904,6 +10903,7 @@ drudging
 donates
 dirtied
 denazifying
+duelli
 dirtying
 dyslogia
 dissaturate
