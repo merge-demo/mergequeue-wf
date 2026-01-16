@@ -5448,7 +5448,6 @@ easterly
 enfirm
 eaglelike
 esthetology
-endure
 endurer
 enduringly
 exacerbescent
@@ -12881,6 +12880,7 @@ engrace
 excommunicating
 eserines
 extorting
+endure
 elicitors
 erastus
 ellwand
