@@ -2752,7 +2752,6 @@ bonneting
 bukeyef
 barology
 bullish
-barolong
 barometers
 beefy
 blam
@@ -16248,6 +16247,7 @@ ballsier
 broughams
 brought
 barmote
+barolong
 blandish
 bryologies
 buffaloed
