@@ -32,6 +32,7 @@ freeman
 floodlet
 fluvious
 fourchee
+fumigatories
 fieldmen
 finement
 fibrolitic
@@ -2806,7 +2807,6 @@ freshener
 finlander
 facers
 flattops
-fumigatories
 feedman
 faunae
 ficus
