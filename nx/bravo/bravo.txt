@@ -1825,7 +1825,6 @@ blancmanger
 bemuse
 botanizer
 bananaland
-butomaceous
 blowen
 bluegum
 benzyls
@@ -3875,6 +3874,7 @@ bawdies
 bestrow
 bricklaying
 belvidere
+butomaceous
 breastless
 bristlemouth
 bekick
