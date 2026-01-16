@@ -4406,6 +4406,7 @@ fathomed
 feltwork
 fishboats
 fictionalization
+foldless
 fonduk
 fishbolts
 faqir
@@ -7483,7 +7484,6 @@ forbiddenly
 fuage
 fulling
 fenestellae
-foldless
 festiveness
 forbiddingly
 fewnes
