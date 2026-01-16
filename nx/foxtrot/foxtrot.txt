@@ -4356,6 +4356,7 @@ ferritin
 fashionableness
 famille
 farewelled
+frustrated
 friendly
 freespac
 fleshings
@@ -10414,7 +10415,6 @@ fantasized
 frondlet
 featherwise
 focometer
-frustrated
 fikey
 fluoboric
 frontoauricular
