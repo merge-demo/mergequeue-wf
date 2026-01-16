@@ -5358,6 +5358,7 @@ beerage
 bubas
 barbola
 begnaw
+basihyoid
 biharmonic
 borderlines
 butterscotch
@@ -12922,7 +12923,6 @@ birthplace
 bacchiac
 bkpt
 burk
-basihyoid
 barthian
 boong
 berrier
