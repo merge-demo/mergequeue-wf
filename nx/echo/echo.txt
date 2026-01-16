@@ -1880,6 +1880,7 @@ elbow
 exopodite
 evaginated
 effervescive
+ecblastesis
 ensouling
 encipherer
 elench
@@ -12037,7 +12038,6 @@ encia
 egestions
 enlivenment
 engenderment
-ecblastesis
 enwwove
 excoriations
 ecphrasis
