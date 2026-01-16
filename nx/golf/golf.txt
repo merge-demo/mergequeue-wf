@@ -681,7 +681,6 @@ greenbone
 gastroadenitis
 gauily
 gideon
-granulomatosis
 gatelike
 goneril
 gastronomer
@@ -9312,6 +9311,7 @@ glowworm
 guts
 gaugeably
 graver
+granulomatosis
 groaned
 ghosts
 gasometry
