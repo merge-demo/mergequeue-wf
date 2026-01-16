@@ -2210,7 +2210,6 @@ cornamute
 campo
 campodeoid
 campong
-campongs
 convincing
 counterclaiming
 cocculus
@@ -4871,6 +4870,7 @@ clachans
 carriages
 crosstie
 crushability
+campongs
 ceratomania
 carriagesmith
 cinchonicin
