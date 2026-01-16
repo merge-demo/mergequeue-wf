@@ -5642,7 +5642,6 @@ flatterable
 flagon
 fol
 forleaving
-forgettery
 fural
 forestays
 flexion
@@ -7219,6 +7218,7 @@ fishmeals
 fibrillae
 flea
 fuscous
+forgettery
 football
 flaglet
 fatheadedly
