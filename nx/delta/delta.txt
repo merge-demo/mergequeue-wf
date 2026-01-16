@@ -10563,7 +10563,6 @@ diplocardiac
 diplocarpon
 diplocaulescent
 diplocephalus
-dove
 drearisomeness
 dysaphia
 dbrn
@@ -11513,6 +11512,7 @@ downturned
 demythologising
 diamyl
 discography
+dove
 dekaliter
 dishier
 diplodia

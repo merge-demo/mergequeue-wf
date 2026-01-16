@@ -11712,7 +11712,6 @@ clavicor
 collaborative
 cladistic
 choluria
-confesser
 clinal
 conglobately
 choluteca
@@ -30577,6 +30576,7 @@ cubonavicular
 cubti
 cluff
 clambers
+confesser
 corraded
 chinese
 comicotragical
