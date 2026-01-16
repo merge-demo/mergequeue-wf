@@ -3655,7 +3655,6 @@ faintishness
 fielder
 fabian
 floatsman
-fanglet
 fylfot
 froglets
 forebitter
@@ -4833,6 +4832,7 @@ fellowshipped
 filigera
 flagelliform
 fever
+fanglet
 folie
 fauve
 filigrain
