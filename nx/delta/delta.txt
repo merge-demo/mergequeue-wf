@@ -3835,6 +3835,7 @@ deistical
 dismast
 dissect
 disp
+diplomats
 dagswain
 diaxonic
 dibstones
@@ -10639,7 +10640,6 @@ discogastrula
 deaminized
 diauli
 decompressing
-diplomats
 dormin
 dysporomorph
 dispicion
