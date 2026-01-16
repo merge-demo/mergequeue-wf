@@ -852,7 +852,6 @@ ferrets
 fanon
 fronted
 fantailed
-ferocities
 fermi
 fashioner
 faddishness
@@ -4357,6 +4356,7 @@ fashionableness
 famille
 farewelled
 frustrated
+ferocities
 friendly
 freespac
 fleshings
