@@ -18124,6 +18124,7 @@ aquanauts
 anemonol
 abdicated
 acapnia
+apneas
 ableptically
 achromatopia
 allegator
@@ -21744,7 +21745,6 @@ abuta
 assertion
 airplot
 androids
-apneas
 actinologue
 ady
 awninged
