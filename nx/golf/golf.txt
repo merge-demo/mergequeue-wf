@@ -4094,6 +4094,7 @@ gib
 grandness
 gildship
 gutturals
+garment
 gerundive
 gushingly
 graybacks
@@ -10060,7 +10061,6 @@ gleans
 gammation
 gargoyles
 greasing
-garment
 granitoidal
 guerdoner
 grimmiaceae
