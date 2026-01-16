@@ -9646,7 +9646,6 @@ embost
 espartos
 eleven
 enhydritic
-especialness
 eucalyptole
 esperantido
 economicalness
@@ -9921,6 +9920,7 @@ estradiol
 externship
 emphasis
 epicentrum
+especialness
 equicellular
 electroosmotically
 estrayed
