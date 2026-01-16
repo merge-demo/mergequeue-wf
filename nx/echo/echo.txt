@@ -3679,6 +3679,7 @@ embranchment
 ellick
 expositive
 emotionalised
+enascent
 electrosensitive
 eudaemonize
 elfkin
@@ -10048,7 +10049,6 @@ exitial
 entamoebiasis
 epopoeist
 etceteras
-enascent
 ethanediol
 endomictic
 epigaster
