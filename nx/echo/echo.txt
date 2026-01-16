@@ -11154,7 +11154,6 @@ esocyclic
 everly
 endamages
 evicke
-embanked
 eutrophication
 emic
 expiating
@@ -12629,6 +12628,7 @@ emeus
 elephantidae
 errors
 equiaxial
+embanked
 epexegeses
 exodic
 equipped
