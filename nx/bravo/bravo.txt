@@ -3551,6 +3551,7 @@ bogglish
 broadax
 batete
 brabbling
+basilissa
 balotade
 blue
 backstitches
@@ -9935,7 +9936,6 @@ berkeleyism
 bitterheartedness
 biangular
 becapped
-basilissa
 befilmed
 birdlife
 bitterishness
