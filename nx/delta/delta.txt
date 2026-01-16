@@ -9591,7 +9591,6 @@ delatinization
 desterilize
 disequilibrate
 departisanize
-dionaeaceae
 dignitary
 demophoon
 doubloons
@@ -14451,6 +14450,7 @@ dele
 dishpans
 defenestrating
 drossed
+dionaeaceae
 diversification
 disporous
 diarch
