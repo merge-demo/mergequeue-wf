@@ -153,6 +153,7 @@ ghettoized
 gnomonology
 glunimie
 gorgonian
+gremiale
 galvanosurgery
 gybe
 glacialize
@@ -2556,7 +2557,6 @@ gatha
 groundlessness
 gush
 gulpier
-gremiale
 gamogeny
 graven
 glomeroporphyritic
