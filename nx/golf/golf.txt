@@ -920,7 +920,6 @@ garnishable
 gemeinschaften
 guttler
 guppies
-galt
 gametophoric
 gorbet
 gated
@@ -979,6 +978,7 @@ genomic
 gamostele
 gentlest
 genetically
+galt
 graysby
 guitarlike
 gallantness
