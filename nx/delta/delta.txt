@@ -11855,7 +11855,6 @@ despatch
 drunker
 discriminator
 dacite
-dirigibility
 diegueno
 disembrangle
 devilman
@@ -12704,6 +12703,7 @@ dvandva
 desocialization
 dextrorse
 divining
+dirigibility
 dehorts
 diatrymiformes
 dridder
