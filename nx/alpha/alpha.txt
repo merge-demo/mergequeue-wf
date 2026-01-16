@@ -9579,6 +9579,7 @@ antedated
 alur
 astrophotography
 abature
+aphydrotropism
 amphiblastic
 alurgite
 alphatoluic
@@ -16749,7 +16750,6 @@ andantino
 adepts
 asteriidae
 ashiest
-aphydrotropism
 aphylly
 abidi
 aerification
