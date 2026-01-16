@@ -3591,7 +3591,6 @@ gastropore
 guttles
 graphonomy
 gallop
-genipaps
 gandoura
 gnathotheca
 greenboard
@@ -5563,6 +5562,7 @@ gemse
 gamodeme
 gloams
 gonotokont
+genipaps
 gorhens
 gastropods
 guanabano
