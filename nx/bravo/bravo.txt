@@ -3161,7 +3161,6 @@ biphase
 basepoint
 behavers
 baser
-brazen
 blanda
 bayete
 bleachfield
@@ -14284,6 +14283,7 @@ bisacromial
 brasswork
 bradyseism
 brassware
+brazen
 bombycinous
 briskets
 betraying
