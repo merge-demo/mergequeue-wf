@@ -2192,7 +2192,6 @@ esophagostenosis
 eyestring
 ensorceling
 electropult
-elation
 euphonise
 enrib
 effloresces
@@ -8348,6 +8347,7 @@ emulating
 embowelled
 evangelise
 enscrolls
+elation
 eternizing
 eland
 eucarpic
