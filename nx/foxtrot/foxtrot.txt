@@ -8611,7 +8611,6 @@ flapped
 forehatchway
 feltwork
 figs
-fortification
 formulated
 funest
 formulisation
@@ -10073,6 +10072,7 @@ friendlessness
 frijole
 footprint
 forewarner
+fortification
 footpaths
 foreshroud
 framableness
