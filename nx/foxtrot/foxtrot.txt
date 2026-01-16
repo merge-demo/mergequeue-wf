@@ -584,7 +584,6 @@ figless
 frisette
 frim
 foxwood
-forebays
 freight
 fallen
 ferny
@@ -9835,6 +9834,7 @@ frequentest
 foraminifer
 feldspar
 fructuosity
+forebays
 frapp
 fallacies
 flagellum
