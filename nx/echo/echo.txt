@@ -12055,6 +12055,7 @@ esselen
 ectoblastic
 enfolder
 excrescency
+extramission
 extorts
 eris
 enfoldment
@@ -13901,7 +13902,6 @@ extrametrical
 eccl
 extolment
 eleonorite
-extramission
 erythrism
 eperotesis
 entombed
