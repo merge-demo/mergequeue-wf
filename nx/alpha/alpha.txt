@@ -1155,7 +1155,6 @@ assurgency
 abalone
 audace
 attractive
-altruistic
 anthemed
 academized
 acadialite
@@ -12885,6 +12884,7 @@ averil
 angiopoietic
 achievement
 agrope
+altruistic
 afraid
 algicide
 ammeos
