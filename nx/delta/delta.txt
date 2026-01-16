@@ -5044,7 +5044,6 @@ doomwatcher
 daler
 deliverable
 dibbukim
-disilicide
 dendraxon
 decolorizer
 delightsome
@@ -15811,6 +15810,7 @@ delint
 disaccredit
 distillers
 disprovable
+disilicide
 demisphere
 dorsolumbar
 dankly
