@@ -5415,6 +5415,7 @@ gyrencephalate
 gismondite
 goiters
 garderobe
+gangrel
 glees
 gregarianism
 gormands
@@ -10240,7 +10241,6 @@ gasworker
 galusha
 gratis
 glamouring
-gangrel
 girthed
 geissospermin
 gentlefolks
