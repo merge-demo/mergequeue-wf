@@ -3103,7 +3103,6 @@ etageres
 excerptor
 ensheathes
 epiphenomenal
-esophagoscope
 electrion
 epigram
 everich
@@ -11643,6 +11642,7 @@ extracolumella
 embeds
 eulogists
 ersatz
+esophagoscope
 ethnocentricity
 exclosure
 emollition
