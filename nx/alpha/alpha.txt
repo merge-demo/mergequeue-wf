@@ -4677,7 +4677,6 @@ aetheling
 antedawn
 allographic
 acrotisms
-alphard
 aenach
 aphrodistic
 addaxes
@@ -9620,6 +9619,7 @@ acquereur
 aggregatae
 archean
 alveolosubnasal
+alphard
 accustomized
 antagonising
 alvissmal
