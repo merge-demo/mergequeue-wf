@@ -5895,7 +5895,6 @@ glucocorticoid
 genius
 gardon
 greeneries
-gigolo
 gaatch
 grundel
 griddled
@@ -8240,6 +8239,7 @@ genuflectory
 generalissimo
 gordiaceous
 gentleman
+gigolo
 gambroon
 glazier
 gerontogeous
