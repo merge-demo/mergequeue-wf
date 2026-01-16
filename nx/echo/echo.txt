@@ -2412,7 +2412,6 @@ enfleurage
 escamotage
 excathedral
 ectromelia
-exanguin
 epidotization
 exognathion
 etherealisation
@@ -10075,6 +10074,7 @@ encephalographically
 editorially
 eledoisin
 entitlement
+exanguin
 ethanolamine
 ephemeralness
 enwrite
