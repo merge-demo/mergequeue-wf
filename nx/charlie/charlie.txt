@@ -7666,7 +7666,6 @@ continency
 coyotes
 calathisci
 calcarated
-cerebrospinal
 cevadilline
 cerebrospinant
 cerebrosuria
@@ -15283,6 +15282,7 @@ colters
 clamminess
 clamming
 colpotomies
+cerebrospinal
 clammyweed
 clamored
 cog
