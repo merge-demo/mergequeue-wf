@@ -1759,7 +1759,6 @@ dilation
 desmoscolex
 debark
 drawknife
-debarking
 digamist
 dwelled
 debarkment
@@ -17648,6 +17647,7 @@ dactyls
 delivered
 diclinism
 dagame
+debarking
 dioscorein
 downsteepy
 dualize
