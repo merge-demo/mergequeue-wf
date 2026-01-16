@@ -11789,7 +11789,6 @@ consonantally
 chondroprotein
 coplots
 chondropterygian
-choanoflagellate
 caravansary
 chondropterygious
 chondrosarcomatous
@@ -23735,6 +23734,7 @@ canulate
 cherogril
 clypeole
 conglomerates
+choanoflagellate
 contraplex
 contrapolarization
 cointers
