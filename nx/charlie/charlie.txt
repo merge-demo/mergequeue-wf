@@ -24886,7 +24886,6 @@ coracomorphae
 chrysopoeia
 coracoprocoracoid
 crepitation
-coracoradialis
 cheilion
 conveyers
 cardecu
@@ -25916,6 +25915,7 @@ corteges
 capitalization
 congas
 coeternally
+coracoradialis
 cortexes
 cortices
 corticiferous
