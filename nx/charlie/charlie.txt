@@ -4315,6 +4315,7 @@ carfares
 carfloat
 coater
 carfuffle
+clites
 capiteaux
 camauros
 coppered
@@ -16389,7 +16390,6 @@ clit
 clitch
 clite
 counterplea
-clites
 cleridae
 clithe
 clithral
