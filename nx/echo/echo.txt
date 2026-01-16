@@ -11579,7 +11579,6 @@ erethizon
 earthrise
 estrange
 endites
-evernia
 equipartisan
 evoking
 emblemed
@@ -13638,6 +13637,7 @@ exopterygotic
 eked
 evited
 extends
+evernia
 extensibility
 euphemization
 epididymis
