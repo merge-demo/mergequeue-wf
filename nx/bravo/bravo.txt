@@ -810,7 +810,6 @@ brecciation
 befathered
 benzenoid
 biniodide
-biochron
 bewailingly
 bibliotheca
 billikin
@@ -10026,6 +10025,7 @@ blackwashing
 bulkin
 bizarrerie
 bield
+biochron
 bn
 baroscopical
 bargainor
