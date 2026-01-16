@@ -5197,7 +5197,6 @@ ampitheater
 attackable
 anapterygotous
 alingual
-anticlinal
 anapophysial
 affine
 anteporch
@@ -17448,6 +17447,7 @@ alcalzar
 accrementition
 appallment
 aerodyne
+anticlinal
 availability
 anamorphic
 armers
