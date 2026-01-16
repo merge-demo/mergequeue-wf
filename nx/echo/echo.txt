@@ -3977,7 +3977,6 @@ excalation
 earthbound
 emollients
 emoloa
-endosymbiosis
 encephalophyma
 emolumental
 extemporiser
@@ -9727,6 +9726,7 @@ edulcorative
 esse
 evangelizing
 elementarism
+endosymbiosis
 embryol
 equational
 escopette
