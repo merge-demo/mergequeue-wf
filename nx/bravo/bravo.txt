@@ -5939,6 +5939,7 @@ berber
 brandenburgs
 biggety
 beltane
+bartizan
 belauding
 blumea
 bimetalic
@@ -9056,7 +9057,6 @@ bedstands
 bioluminescence
 bobsleding
 bewhite
-bartizan
 brender
 bacterioagglutinin
 bets
