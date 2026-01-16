@@ -10427,7 +10427,6 @@ ascaris
 anotia
 amidulin
 axones
-abnegating
 absinthiating
 amyelencephalous
 actionizing
@@ -22124,6 +22123,7 @@ asthamatic
 antimacassar
 apothegmatic
 astheny
+abnegating
 achroacyte
 ambitionless
 abjudge
