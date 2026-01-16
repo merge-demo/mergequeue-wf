@@ -10947,6 +10947,7 @@ bignoniad
 bombers
 bookful
 blindstories
+bromeliad
 brede
 bristly
 blindweed
@@ -12052,7 +12053,6 @@ becker
 baronry
 braula
 bidigitate
-bromeliad
 bottomried
 babysitting
 biogens
