@@ -55,7 +55,6 @@ epigraphic
 earflap
 expender
 excites
-exciton
 electroretinograph
 excursion
 effusiometer
@@ -8540,6 +8539,7 @@ enamellar
 essee
 extrasensorial
 extratorrid
+exciton
 englished
 ethmoiditis
 epiphysis
