@@ -4792,6 +4792,7 @@ carpocephala
 canicular
 caryotins
 carpocerite
+calcicole
 carpocratian
 carpogam
 carpogamy
@@ -15743,7 +15744,6 @@ caught
 clawers
 clawing
 colobium
-calcicole
 cyproheptadine
 clinks
 chinche
