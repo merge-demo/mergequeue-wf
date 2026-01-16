@@ -1443,6 +1443,7 @@ floorwalkers
 fringing
 fetched
 fatuoid
+flanched
 flawless
 fatuus
 frankly
@@ -8735,7 +8736,6 @@ fillebeg
 fumistery
 fusarial
 foretastes
-flanched
 folkboat
 fraze
 federating
