@@ -8646,7 +8646,6 @@ gravidate
 goslarite
 gregge
 guidwilly
-gotos
 glided
 goldanged
 gimbaling
@@ -9204,6 +9203,7 @@ glaceed
 gynaecium
 garapata
 gangsa
+gotos
 gerridae
 gouldian
 glauconitization
