@@ -6779,7 +6779,6 @@ forested
 frizel
 fluerics
 formicariae
-foofaraws
 freshwater
 finely
 fumbler
@@ -6902,6 +6901,7 @@ faithfuls
 forams
 fasola
 funbre
+foofaraws
 format
 fungin
 fortes
