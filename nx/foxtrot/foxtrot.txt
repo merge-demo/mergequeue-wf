@@ -8606,7 +8606,6 @@ fulgid
 furculum
 farctate
 fabledom
-foretime
 flapped
 forehatchway
 feltwork
@@ -10352,6 +10351,7 @@ felstone
 fluidglycerate
 fiberization
 fistulatome
+foretime
 financier
 fasher
 frillies
