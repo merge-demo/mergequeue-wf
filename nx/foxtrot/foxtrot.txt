@@ -2251,7 +2251,6 @@ flopping
 footnoting
 foreimpressed
 forgetting
-fracture
 filesave
 fulvous
 folio
@@ -4104,6 +4103,7 @@ fallopian
 filelike
 forcible
 frenuna
+fracture
 frondescing
 forgivingness
 fianced
