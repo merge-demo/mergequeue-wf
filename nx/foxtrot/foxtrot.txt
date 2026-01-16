@@ -2313,6 +2313,7 @@ febrility
 fast
 fixities
 fixatifs
+foggy
 franchises
 feminizes
 friday
@@ -5531,7 +5532,6 @@ floatative
 fopship
 fabricative
 flexible
-foggy
 fleering
 flattening
 figurativeness
