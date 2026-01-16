@@ -1466,6 +1466,7 @@ ericoid
 entosterna
 ectoskeleton
 excoct
+endobatholithic
 electrostriction
 encashable
 egyptianization
@@ -8156,7 +8157,6 @@ episcopature
 emprosthotonus
 electioneer
 extrapolated
-endobatholithic
 embox
 ephippium
 entrepas
