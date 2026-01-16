@@ -9378,6 +9378,7 @@ brendice
 besmother
 brasilein
 bescours
+base
 brines
 birdbaths
 broomroot
@@ -17763,7 +17764,6 @@ blepharoconjunctivitis
 buccinal
 burrgrailer
 bringela
-base
 braiders
 bedcovers
 burrheadedness
