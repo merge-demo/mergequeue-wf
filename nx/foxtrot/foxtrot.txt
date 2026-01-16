@@ -2083,6 +2083,7 @@ floriculture
 felicitator
 flourishable
 fudger
+fides
 fainty
 fourpence
 fetterlock
@@ -10934,7 +10935,6 @@ formalized
 fieldwort
 forsworn
 falloffs
-fides
 facie
 fustigated
 flivver
