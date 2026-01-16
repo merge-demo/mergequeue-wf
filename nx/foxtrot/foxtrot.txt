@@ -8111,6 +8111,7 @@ fieldie
 favoured
 folksay
 fontlet
+foretopman
 fourteenthly
 forestation
 faceup
@@ -10206,7 +10207,6 @@ foreassurance
 flintifying
 forefatherly
 franion
-foretopman
 fructuary
 fore
 flunkeyism
