@@ -3979,7 +3979,6 @@ gateworks
 glaciological
 gorblin
 gnathonically
-gonotome
 gravidness
 galeoid
 gymnetrous
@@ -7303,6 +7302,7 @@ gleby
 gladfully
 gingernut
 giliak
+gonotome
 gemination
 gammas
 gromyl
