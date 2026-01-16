@@ -3133,6 +3133,7 @@ gusseted
 grubhood
 gashliness
 ghorkhar
+gomer
 greffe
 gantleting
 geat
@@ -6570,7 +6571,6 @@ gamelans
 gastrologists
 gleization
 geminated
-gomer
 gratiolin
 garrulous
 gesten
