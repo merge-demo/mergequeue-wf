@@ -6460,6 +6460,7 @@ geostrophic
 grows
 gocart
 girnie
+genyantrum
 goburra
 graduates
 griot
@@ -7078,7 +7079,6 @@ geomantical
 gemmy
 gastroenteralgia
 galactagogue
-genyantrum
 genealogist
 gliffing
 galenic
