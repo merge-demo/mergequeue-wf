@@ -3026,7 +3026,6 @@ frostflower
 floriken
 frenchen
 fissioned
-felstones
 friendlies
 fustin
 fiber
@@ -8576,6 +8575,7 @@ foreboder
 formable
 foreslack
 foun
+felstones
 facsimiling
 fetlock
 fiddledeedee
