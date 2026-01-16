@@ -2242,6 +2242,7 @@ barbarianizing
 bandog
 bunker
 barbarically
+bruit
 blandiloquous
 barricos
 buddler
@@ -15264,7 +15265,6 @@ beautify
 bembex
 billhook
 brickel
-bruit
 biometrically
 bouldering
 bushiness
