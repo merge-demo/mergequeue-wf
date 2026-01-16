@@ -1828,6 +1828,7 @@ effractor
 epicentral
 epigenic
 eparchs
+epimerase
 electromyograph
 erinose
 entericoid
@@ -4671,7 +4672,6 @@ endarchies
 exuberantness
 elasticizes
 enzymologist
-epimerase
 eusuchian
 edmund
 egyptianize
