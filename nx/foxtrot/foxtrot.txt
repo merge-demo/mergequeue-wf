@@ -8178,7 +8178,6 @@ fluctuous
 faveoli
 freshmanship
 foretaster
-forefin
 foretasting
 fretsaw
 falisci
@@ -11216,6 +11215,7 @@ foraminous
 fallfishes
 forcipal
 fireplugs
+forefin
 frenzelite
 flinter
 fluorophosphate
