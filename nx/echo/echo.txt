@@ -5103,7 +5103,6 @@ exited
 endoclinal
 eternals
 endocoelar
-eupanorthidae
 ectozoan
 epitomical
 epistoma
@@ -11990,6 +11989,7 @@ exclamatory
 exclaves
 excavational
 expensed
+eupanorthidae
 eryngium
 everyone
 egocentric
