@@ -7711,6 +7711,7 @@ gradient
 galey
 gobblers
 greybeard
+gneissitic
 goatishly
 gastrophilist
 grease
@@ -10574,7 +10575,6 @@ gemlike
 grecoue
 gingivalgia
 gurmukhi
-gneissitic
 gatewoman
 grenadiership
 gpad
