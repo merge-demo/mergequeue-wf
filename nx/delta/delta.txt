@@ -216,6 +216,7 @@ dorstenia
 donees
 dorsula
 don
+deprogrammings
 displanting
 diff
 discrepencies
@@ -5962,7 +5963,6 @@ deprogrammed
 drillstock
 devonic
 depeculate
-deprogrammings
 deprograms
 dropforged
 deprome
