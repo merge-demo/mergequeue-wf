@@ -1184,7 +1184,6 @@ glides
 gaol
 gulls
 graphometry
-grumes
 grinners
 galliney
 grifters
@@ -4556,6 +4555,7 @@ gypsyism
 gowk
 glossokinesthetic
 grading
+grumes
 guzzling
 granitize
 gyromele
