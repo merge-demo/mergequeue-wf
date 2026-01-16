@@ -7856,7 +7856,6 @@ executioner
 empurples
 epihyal
 exogonium
-escapes
 egis
 excitor
 epibiotic
@@ -10168,6 +10167,7 @@ epicrates
 elaborators
 exsomatic
 edgier
+escapes
 earlyish
 encroaching
 embroideress
