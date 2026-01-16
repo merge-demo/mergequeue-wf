@@ -960,6 +960,7 @@ fumidity
 forbysening
 findal
 fiberware
+frankable
 filmized
 firestone
 federalising
@@ -4365,7 +4366,6 @@ forthfare
 feerie
 fetography
 fatigueless
-frankable
 fandango
 firstborn
 fourflusher
