@@ -7533,7 +7533,6 @@ ectoprocta
 exocarp
 electroneutral
 epicede
-encephalitogenic
 epicedia
 encephalopathic
 earnie
@@ -11432,6 +11431,7 @@ eligibility
 enchytraeus
 escapeless
 emceed
+encephalitogenic
 expansional
 epithelioglandular
 effendi
