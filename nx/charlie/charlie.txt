@@ -10471,7 +10471,6 @@ comicality
 chalicotherium
 children
 cainogenesis
-childrenite
 corylin
 chalazogamic
 childridden
@@ -16755,6 +16754,7 @@ confixed
 coachee
 cloturing
 candidate
+childrenite
 clotweed
 clou
 cloudage
