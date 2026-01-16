@@ -4687,7 +4687,6 @@ fifo
 firked
 flourished
 forejudgment
-factorizations
 frawn
 frigidities
 formulations
@@ -11606,6 +11605,7 @@ for
 fetch
 frenchman
 forcarve
+factorizations
 frack
 flute
 formulizer
