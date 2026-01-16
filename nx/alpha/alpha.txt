@@ -3595,7 +3595,6 @@ admeasurer
 azole
 assedat
 arabicize
-agora
 adendritic
 akenbold
 antidromic
@@ -19459,6 +19458,7 @@ armgaunt
 archwife
 argillic
 assessing
+agora
 aelurophobe
 antipewism
 adrenocorticosteroid
