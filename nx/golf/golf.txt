@@ -897,7 +897,6 @@ gueparde
 gravemaster
 geologer
 guessworker
-glutathione
 gleaminess
 glutethimide
 gangrels
@@ -7293,6 +7292,7 @@ grabbing
 greencloth
 governorate
 gaonate
+glutathione
 generosity
 gribble
 gleby
