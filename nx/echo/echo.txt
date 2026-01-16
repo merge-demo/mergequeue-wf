@@ -3572,7 +3572,6 @@ eproboscidea
 explementary
 endow
 embodiers
-embodies
 extrusile
 elevens
 essential
@@ -7711,6 +7710,7 @@ enteroplasty
 endodynamomorphic
 erechtheus
 electropolish
+embodies
 extravagate
 ean
 eftsoon
