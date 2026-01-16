@@ -14659,7 +14659,6 @@ decentre
 decameter
 draftees
 dora
-degradability
 disinvite
 deuteropathy
 disyllabizing
@@ -14898,6 +14897,7 @@ dodecafid
 dodecahedral
 doctorate
 dieselization
+degradability
 dodecahydrate
 dendrocoelous
 duodenojejunostomy
