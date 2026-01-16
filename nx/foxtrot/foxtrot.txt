@@ -6556,6 +6556,7 @@ frenchize
 fannia
 firer
 fordy
+faithful
 fellatrix
 forsar
 flurn
@@ -8201,7 +8202,6 @@ farcify
 fannell
 flatcaps
 favel
-faithful
 featurette
 fuchsias
 fellable
