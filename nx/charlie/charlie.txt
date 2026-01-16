@@ -18441,7 +18441,6 @@ cognitive
 cognitively
 cokelike
 contagion
-circumvents
 cognizable
 cognizant
 cognize
@@ -31501,6 +31500,7 @@ chinchy
 curricla
 conchologize
 currijong
+circumvents
 curring
 coulomb
 currock
