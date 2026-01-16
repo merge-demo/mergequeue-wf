@@ -12844,6 +12844,7 @@ disconfirm
 dismayable
 dismayfully
 declension
+deixis
 diathermancy
 doubty
 dismail
@@ -13060,7 +13061,6 @@ dain
 dermatoneurology
 disfeaturing
 disgenic
-deixis
 disparts
 deformities
 distemperment
