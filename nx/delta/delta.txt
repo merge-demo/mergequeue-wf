@@ -3755,7 +3755,6 @@ disseizoress
 defibrillation
 deicers
 deicides
-dismutation
 devilkin
 dreissiger
 dunno
@@ -4936,6 +4935,7 @@ dissipate
 demotists
 dragontail
 draggled
+dismutation
 dhurry
 disgeneric
 diamb
