@@ -1076,7 +1076,6 @@ bairdi
 bronchus
 bumbailiff
 beneficency
-bastiles
 bradypnoea
 bairn
 bypassed
@@ -3657,6 +3656,7 @@ bipinnately
 breadberry
 budded
 bumbleberry
+bastiles
 betacism
 brazenfacedly
 botchery
