@@ -3972,6 +3972,7 @@ adman
 antiquatedness
 admeasuring
 adulterant
+assertory
 allosterically
 antiracially
 amimide
@@ -17787,7 +17788,6 @@ amphimixes
 apportioning
 analphabetic
 agent
-assertory
 angiogenic
 anthranone
 aegialitis
