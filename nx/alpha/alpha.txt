@@ -5262,7 +5262,6 @@ authorism
 armageddon
 agnathostomata
 autoboat
-anophthalmia
 afflated
 anilao
 accra
@@ -11710,6 +11709,7 @@ ascocarp
 africanthropus
 aglimmer
 axfetch
+anophthalmia
 aparavidya
 alisphenoidal
 analysers
