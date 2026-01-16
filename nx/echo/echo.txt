@@ -1124,6 +1124,7 @@ evaluates
 envined
 epimerize
 elliptic
+encushion
 edificed
 enlightens
 essayish
@@ -10374,7 +10375,6 @@ ellagic
 ethnogeographically
 ethylamime
 elytra
-encushion
 elatives
 ethnopsychology
 excitometabolic
