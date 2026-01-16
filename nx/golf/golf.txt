@@ -4362,7 +4362,6 @@ gustativeness
 girlchild
 galeod
 gnocchetti
-gyrostabilizer
 glottogony
 girse
 gleesomeness
@@ -10626,6 +10625,7 @@ gimmickry
 guising
 giantlikeness
 gunshop
+gyrostabilizer
 gruelings
 gulches
 gnoses
