@@ -1822,6 +1822,7 @@ beaconed
 beglads
 bustler
 blancmanger
+bantering
 bemuse
 botanizer
 bananaland
@@ -8966,7 +8967,6 @@ bowser
 blissfulness
 barbarousness
 biocoenotic
-bantering
 bradding
 broth
 biodegradable
