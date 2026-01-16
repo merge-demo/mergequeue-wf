@@ -871,6 +871,7 @@ absentees
 absenters
 antisensuousness
 aflatus
+aquae
 amurcosity
 absentminded
 aerobics
@@ -7765,7 +7766,6 @@ archcorsair
 actuating
 aleatoric
 academics
-aquae
 antisensuously
 analphabetical
 apologetically
