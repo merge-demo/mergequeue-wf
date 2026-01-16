@@ -9394,6 +9394,7 @@ cisatlantic
 cytitis
 chawers
 chawia
+cylinder
 combinement
 cembali
 chawing
@@ -13497,7 +13498,6 @@ colletes
 chloryl
 ciliform
 ciliiform
-cylinder
 cylindrella
 cylindrelloid
 cryptographic
