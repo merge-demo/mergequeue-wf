@@ -4828,7 +4828,6 @@ gurdle
 giveable
 gederite
 gametophyll
-gels
 gotta
 gomeril
 genarch
@@ -7791,6 +7790,7 @@ gonadectomized
 gonococcocci
 gonystylaceae
 goldbugs
+gels
 glycolide
 gaisling
 gladkaite
