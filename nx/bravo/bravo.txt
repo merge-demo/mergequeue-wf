@@ -812,7 +812,6 @@ benzenoid
 biniodide
 biochron
 bewailingly
-bromodeoxyuridine
 bibliotheca
 billikin
 bet
@@ -3523,6 +3522,7 @@ batholite
 bicarpellary
 batboys
 bespawl
+bromodeoxyuridine
 blubberous
 bissext
 bonniest
