@@ -597,6 +597,7 @@ adjure
 abnormalized
 anatomical
 amynodont
+antennulary
 abococket
 aerocyst
 abode
@@ -10107,7 +10108,6 @@ allocinnamic
 amphitheaters
 arcocentrous
 axifugal
-antennulary
 antipsychiatry
 anabaenas
 amphisbaena
