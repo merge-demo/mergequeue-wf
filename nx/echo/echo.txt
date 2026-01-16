@@ -1470,6 +1470,7 @@ erasions
 ericoid
 entosterna
 ectoskeleton
+entrep
 excoct
 endobatholithic
 electrostriction
@@ -9290,7 +9291,6 @@ erron
 edificatory
 electrotellurograph
 externalist
-entrep
 exclaustration
 ebricty
 enculturation
