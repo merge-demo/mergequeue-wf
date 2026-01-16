@@ -8472,7 +8472,6 @@ bilaterally
 belabouring
 boort
 boggart
-billions
 bundu
 bilby
 bestialised
@@ -13078,6 +13077,7 @@ biggin
 borborygmus
 bettongia
 breeching
+billions
 barricade
 bewinged
 bagataway
