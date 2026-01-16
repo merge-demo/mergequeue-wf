@@ -1777,7 +1777,6 @@ gossips
 gyrofrequencies
 graeae
 gastropneumonic
-governmentish
 gootee
 giaour
 gymnoglossa
@@ -10044,6 +10043,7 @@ gamopetalous
 geomys
 geochrony
 gudewife
+governmentish
 gustus
 girgashite
 gaffer
