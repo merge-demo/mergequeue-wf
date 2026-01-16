@@ -2911,6 +2911,7 @@ clothesmonger
 chalcis
 cantabrian
 cantabrigian
+calcined
 cantaliver
 cackled
 cantaloup
@@ -3933,7 +3934,6 @@ chondrin
 carbonous
 carbons
 carbonuria
-calcined
 checkhook
 contradistinguish
 celibacies
