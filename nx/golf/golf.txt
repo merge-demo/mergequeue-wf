@@ -7663,6 +7663,7 @@ goodhumoredness
 gunsel
 grunch
 graphic
+glavering
 gipping
 gracilis
 gracing
@@ -9223,7 +9224,6 @@ grimacers
 gooral
 gridlock
 greenstick
-glavering
 goatees
 gastrodiaphanoscopy
 gradine
