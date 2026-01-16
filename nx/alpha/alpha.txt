@@ -11028,6 +11028,7 @@ assures
 ampersands
 amphanthia
 amphanthium
+antling
 ampherotokous
 arms
 anacreon
@@ -16383,7 +16384,6 @@ antlers
 accroached
 awaiters
 antlid
-antling
 arctostaphylos
 antlophobia
 antocular

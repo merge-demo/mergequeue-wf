@@ -4741,7 +4741,6 @@ gingkoes
 gestatorium
 garvanzo
 gastrohelcosis
-geomorphologic
 graveward
 ghostily
 geta
@@ -10869,6 +10868,7 @@ glacises
 gyrophora
 goggan
 gliddery
+geomorphologic
 goaltending
 graperoot
 gorbelly
