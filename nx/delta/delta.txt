@@ -2269,7 +2269,6 @@ dowsers
 drawnet
 disceptator
 downpipe
-decemuiri
 decemviral
 deepish
 decayer
@@ -12508,6 +12507,7 @@ dowitchers
 dard
 drissel
 disoccupying
+decemuiri
 dampproofer
 disidentify
 deracinate
