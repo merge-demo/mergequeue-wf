@@ -8383,7 +8383,6 @@ gobber
 greyer
 gau
 geanticlinal
-geomagnetics
 garbled
 gentes
 gladness
@@ -9356,6 +9355,7 @@ galactophagous
 goutweed
 guidebook
 grenade
+geomagnetics
 globetrotting
 gi
 grundified
