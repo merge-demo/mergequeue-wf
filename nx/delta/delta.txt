@@ -763,6 +763,7 @@ daneweed
 dangerously
 dactyliomancy
 diabrotic
+diverging
 dognaps
 deduced
 dangerousness
@@ -7575,7 +7576,6 @@ distingu
 dancy
 dissunder
 debated
-diverging
 detersion
 dingily
 diversifiability
