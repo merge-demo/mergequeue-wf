@@ -4087,7 +4087,6 @@ flixweed
 foppishness
 foraminiferal
 frab
-fauves
 fluking
 froise
 foxfish
@@ -4451,6 +4450,7 @@ fished
 forestress
 fruticous
 feulamort
+fauves
 farand
 featherbrained
 forfeit
