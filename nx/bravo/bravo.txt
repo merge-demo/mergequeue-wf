@@ -925,6 +925,7 @@ batad
 branny
 bungaloid
 brownout
+barrenest
 bustier
 bagwork
 birmingham
@@ -15696,7 +15697,6 @@ blimpishness
 burgundies
 batterable
 buffone
-barrenest
 bulkheads
 belemnid
 benzoazurine
