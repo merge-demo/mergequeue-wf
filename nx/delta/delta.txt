@@ -7871,7 +7871,6 @@ distemonous
 distils
 dewaters
 dermobranchiata
-disard
 desmocyte
 dihydrogen
 dewcap
@@ -10971,6 +10970,7 @@ dromioid
 disconduce
 daimon
 dyingness
+disard
 dysacousis
 disturbers
 dayglows
