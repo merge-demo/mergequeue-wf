@@ -14697,6 +14697,7 @@ cairns
 citadel
 cital
 countersynod
+chambering
 cytasic
 cytasters
 chowchow
@@ -31662,7 +31663,6 @@ cyclarthrodial
 casked
 coth
 cushiness
-chambering
 cushing
 cushion
 cushioned
