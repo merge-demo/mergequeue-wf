@@ -4404,7 +4404,6 @@ cloakage
 cityish
 carillonning
 carillons
-carinae
 carinal
 cavum
 carinas
@@ -21945,6 +21944,7 @@ confessionally
 chirographary
 confessor
 confessorship
+carinae
 confetti
 conocephalus
 cymbella
