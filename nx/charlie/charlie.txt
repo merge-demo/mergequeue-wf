@@ -5408,7 +5408,6 @@ crinicultural
 congestible
 cinemograph
 corncob
-cissus
 calibrators
 crummies
 cibolan
@@ -14086,6 +14085,7 @@ coxcombs
 chirinola
 cyclohexene
 circination
+cissus
 circiter
 counterapproach
 calvity
