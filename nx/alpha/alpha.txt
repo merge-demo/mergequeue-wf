@@ -827,6 +827,7 @@ arthropomata
 abruptness
 ambilogy
 algarot
+alterations
 authoritatively
 additur
 abstruse
@@ -5241,7 +5242,6 @@ anthriscus
 affirmations
 adorant
 arenicolor
-alterations
 appetized
 axon
 affixal
