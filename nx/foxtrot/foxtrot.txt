@@ -3686,6 +3686,7 @@ forelooper
 floorings
 fuzzing
 friskers
+fare
 fertilised
 finedrawing
 febronian
@@ -10218,7 +10219,6 @@ forthbringing
 forklifts
 fleshment
 fritniency
-fare
 foreknee
 feckly
 flavour
