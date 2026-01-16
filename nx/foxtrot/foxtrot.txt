@@ -5366,7 +5366,6 @@ forehearth
 franchisal
 feelinglessly
 fibrilation
-fontanel
 fomalhaut
 flats
 flintworker
@@ -7762,6 +7761,7 @@ foziest
 foreturn
 flotter
 farreation
+fontanel
 furriness
 forehoofs
 forehooves
