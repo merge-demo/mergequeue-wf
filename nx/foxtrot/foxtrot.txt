@@ -4089,7 +4089,6 @@ frankest
 felapton
 flixweed
 foppishness
-finitude
 foraminiferal
 frab
 fauves
@@ -6731,6 +6730,7 @@ fantaseid
 flacianism
 flannelet
 foder
+finitude
 forkwise
 falseheartedly
 footmarks
