@@ -16338,7 +16338,6 @@ allocrotonic
 aminopropionic
 acalepha
 antivibrating
-antivibrator
 antivibratory
 antivitalist
 ammoniuria
@@ -21520,6 +21519,7 @@ anticline
 avenging
 asphyxiator
 asphyxied
+antivibrator
 achlorhydric
 ampulating
 assuaged
