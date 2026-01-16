@@ -22542,7 +22542,6 @@ conjugator
 conjugators
 conjugium
 countercause
-carabiner
 comfreys
 colluding
 cornetto
@@ -29976,6 +29975,7 @@ coccosteidae
 colliquate
 crotching
 cancerization
+carabiner
 crotesco
 cooptive
 cannoned
