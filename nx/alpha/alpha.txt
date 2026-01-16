@@ -4883,7 +4883,6 @@ archdapifership
 aetiophyllin
 auncel
 antimonide
-almsfolk
 atame
 alluvivia
 arake
@@ -10232,6 +10231,7 @@ affination
 athetized
 anticoagulants
 ataxic
+almsfolk
 aristocratically
 amerces
 amerciable
