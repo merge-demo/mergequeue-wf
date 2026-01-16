@@ -29892,6 +29892,7 @@ containments
 crossleted
 chopfallen
 carcase
+crosspatches
 cuculidae
 crosslight
 crosslike
@@ -31091,7 +31092,6 @@ cunicular
 cuniculi
 choirboy
 cuniculus
-crosspatches
 cuniforms
 cunila
 characterizable
