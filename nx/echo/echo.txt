@@ -822,6 +822,7 @@ eolotropic
 echinoderm
 ennoy
 expedition
+enfeebling
 endogonidium
 emotionalization
 erugatory
@@ -6231,7 +6232,6 @@ enophthalmus
 enorm
 encoders
 explorement
-enfeebling
 expectingly
 enfetter
 exhalations
