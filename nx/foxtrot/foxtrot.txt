@@ -4871,6 +4871,7 @@ floroon
 footbath
 frostbiter
 fibrinuria
+furacity
 felsites
 fumish
 flume
@@ -7656,7 +7657,6 @@ furuncles
 faille
 fifers
 fissipalmate
-furacity
 felicitous
 folliful
 flubs
