@@ -7707,7 +7707,6 @@ gradient
 galey
 gobblers
 greybeard
-gunge
 goatishly
 gastrophilist
 grease
@@ -9318,6 +9317,7 @@ gigantal
 gizzened
 gayly
 garishly
+gunge
 geothermometer
 gastrectasia
 gateposts
