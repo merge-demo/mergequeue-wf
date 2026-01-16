@@ -5847,7 +5847,6 @@ gadarene
 gloveman
 gumtrees
 glover
-glochines
 genos
 glave
 gastrodisk
@@ -7285,6 +7284,7 @@ grouched
 gambeering
 gesticulative
 gratuitousness
+glochines
 guarani
 gaultherase
 gavages
