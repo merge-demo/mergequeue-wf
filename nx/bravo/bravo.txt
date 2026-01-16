@@ -3966,6 +3966,7 @@ boreens
 bluffness
 barbeiro
 bhandari
+befavour
 barhal
 bee
 bastardizations
@@ -17063,7 +17064,6 @@ bulky
 bulkily
 bitterweed
 barograms
-befavour
 bihydrazine
 bulkish
 belittlers
