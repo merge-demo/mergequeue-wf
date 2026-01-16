@@ -5025,7 +5025,6 @@ carapache
 cabbagelike
 collaring
 cabossed
-cartwheel
 coannex
 catarrhine
 cryptogramma
@@ -29257,6 +29256,7 @@ cryptococci
 caulophylline
 clout
 calibration
+cartwheel
 cryptococcosis
 chinband
 cryptococcus
