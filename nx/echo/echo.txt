@@ -1997,7 +1997,6 @@ elementalist
 erdvark
 elishah
 enfierce
-endarchy
 etymologer
 extraterrestrials
 encephalomalacia
@@ -4353,6 +4352,7 @@ extraterritoriality
 enterable
 enols
 entrenches
+endarchy
 esture
 elytroclasia
 eurygnathism
