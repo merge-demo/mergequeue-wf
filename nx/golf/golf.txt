@@ -5376,7 +5376,6 @@ gryposis
 grittiness
 galactopoiesis
 germinating
-gourds
 geomoroi
 glomerulate
 galactosemic
@@ -9128,6 +9127,7 @@ goadster
 gease
 glaucomys
 glumal
+gourds
 glires
 glottochronology
 gladiatorism
