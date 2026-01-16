@@ -3322,7 +3322,6 @@ fideicommissaries
 fungus
 flirtling
 finesser
-faon
 foreward
 flyting
 fraternation
@@ -6415,6 +6414,7 @@ fervours
 forsooth
 fitting
 ferriprussiate
+faon
 fibropurulent
 facadal
 filicite
