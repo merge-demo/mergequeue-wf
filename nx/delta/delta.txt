@@ -10453,7 +10453,6 @@ diphenylamine
 diervilla
 diphenylchloroarsine
 diphenylene
-diphenylenimine
 dogmatic
 discoideae
 diodon
@@ -11005,6 +11004,7 @@ disaffirmation
 detachedness
 dermococcus
 drainman
+diphenylenimine
 dayberry
 dissyllabising
 deepwaterman
