@@ -3682,7 +3682,6 @@ barrelsful
 bookfold
 besetting
 benzophenol
-bardolater
 bangia
 bottomchrome
 bunsen
@@ -14807,6 +14806,7 @@ biped
 befretted
 baluchistan
 bowdlerize
+bardolater
 brauronian
 bocaccio
 bronchophthisis
