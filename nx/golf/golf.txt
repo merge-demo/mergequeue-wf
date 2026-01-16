@@ -1930,7 +1930,6 @@ glaikit
 globulet
 gunboat
 geomalic
-gessamine
 gaudless
 ganglia
 giraffes
@@ -5209,6 +5208,7 @@ gnatflower
 gaumed
 goblinesque
 gutturine
+gessamine
 goldenmouthed
 gentlehearted
 gyps
