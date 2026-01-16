@@ -4686,7 +4686,6 @@ bedford
 bouncers
 bonier
 broadaxe
-broomed
 bowdlerizes
 burnettized
 biotechnics
@@ -9993,6 +9992,7 @@ burbles
 biases
 bivalence
 bottleful
+broomed
 bougainvillea
 bankroll
 blethering
