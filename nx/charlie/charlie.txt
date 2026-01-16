@@ -19504,7 +19504,6 @@ canzos
 ceruleum
 colourman
 colpenchyma
-closet
 challoth
 colpindach
 canzonets
@@ -28364,6 +28363,7 @@ coracle
 coalpits
 conversations
 campaniform
+closet
 craze
 clerisies
 caupones
