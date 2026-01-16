@@ -4266,7 +4266,6 @@ behooveful
 beautifier
 bishopbird
 banff
-beautiful
 blowball
 bellhanging
 beautihood
@@ -9428,6 +9427,7 @@ bullyrook
 bulges
 birdless
 birdlimes
+beautiful
 blennoemesis
 becomings
 bimolecularly
