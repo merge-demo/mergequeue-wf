@@ -6436,7 +6436,6 @@ glommed
 gastroduodenoscopy
 galore
 gemmules
-glossiest
 gematria
 gongorist
 grimm
@@ -10719,6 +10718,7 @@ grams
 gumma
 gunship
 gismondine
+glossiest
 gastrolytic
 gutnic
 gracioso
