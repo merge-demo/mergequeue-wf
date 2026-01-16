@@ -6852,6 +6852,7 @@ exostema
 exemplar
 ecphoria
 enlistees
+essling
 entropion
 eggler
 encheiria
@@ -7589,7 +7590,6 @@ eolithic
 euglena
 empiricists
 exterminate
-essling
 enjoinders
 effoliate
 ersar

@@ -15270,7 +15270,6 @@ clamcracker
 crabfish
 clame
 cheeseboard
-clamflat
 ctn
 calamospermae
 chivalry
@@ -27854,6 +27853,7 @@ crabber
 crabbery
 carnivaler
 crabby
+clamflat
 casa
 crowdedness
 crabbiest
