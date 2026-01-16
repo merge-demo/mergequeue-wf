@@ -8264,6 +8264,7 @@ camise
 compressing
 caracoli
 chalazium
+cattlehide
 chandam
 cellulomonas
 causewayed
@@ -17984,7 +17985,6 @@ coelentera
 cubicle
 cookshack
 colics
-cattlehide
 catharses
 crotin
 coelenterates
