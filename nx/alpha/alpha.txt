@@ -10032,7 +10032,6 @@ antehuman
 ambreic
 archdiocese
 ambrettolide
-arthralgia
 antiempiricist
 alluminor
 ardilla
@@ -16237,6 +16236,7 @@ antitheist
 avgases
 affixer
 arthrocace
+arthralgia
 agrest
 arviculture
 aluta
