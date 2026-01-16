@@ -5778,7 +5778,6 @@ gurus
 geologize
 gallopade
 glossohyal
-grayed
 gobos
 glossolalia
 gustoes
@@ -7642,6 +7641,7 @@ greengroceries
 gloeosporium
 gunating
 globical
+grayed
 grabhook
 grabouche
 gripsack
