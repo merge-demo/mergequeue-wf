@@ -1768,7 +1768,6 @@ broquery
 baronnes
 blowtube
 becollier
-buses
 biome
 biretta
 bedraggling
@@ -16772,6 +16771,7 @@ bedfoot
 bariatrics
 bucktooth
 bronchovesicular
+buses
 belgrade
 bunnia
 bucktoothed
