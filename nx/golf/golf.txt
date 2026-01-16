@@ -7932,7 +7932,6 @@ giglots
 gotten
 goniatitoid
 glossotherium
-gramme
 ginned
 gemeled
 groggiest
@@ -10245,6 +10244,7 @@ geissospermin
 gentlefolks
 gainsays
 galericulate
+gramme
 gowpin
 gweduck
 gunless
