@@ -2333,6 +2333,7 @@ gibbsites
 genipapada
 gelatine
 gangling
+garroting
 gaposis
 gazer
 gondoliere
@@ -6910,7 +6911,6 @@ goniatitic
 gargler
 gibbosities
 grainman
-garroting
 goosed
 garnishing
 gynandroid
