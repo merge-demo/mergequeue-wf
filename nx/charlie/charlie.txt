@@ -27381,7 +27381,6 @@ cabinetmaker
 catastatic
 courting
 courtly
-courtlier
 coalescent
 chow
 chaptered
@@ -30931,6 +30930,7 @@ clews
 churrs
 culvers
 cannabinol
+courtlier
 cum
 cants
 cumay
