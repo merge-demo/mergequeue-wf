@@ -6201,7 +6201,6 @@ chinpiece
 cicely
 cancan
 cattleyak
-cattleman
 conhydrin
 cattleship
 catullian
@@ -11825,6 +11824,7 @@ choosers
 choosier
 cryotherapy
 cheaps
+cattleman
 choosiness
 chadar
 chop
