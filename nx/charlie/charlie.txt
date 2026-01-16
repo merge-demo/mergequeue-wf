@@ -13433,6 +13433,7 @@ counterturn
 cofeatures
 cydonian
 confederator
+corallum
 cydonium
 cie
 cierge
@@ -19946,7 +19947,6 @@ coml
 commandable
 commandatory
 commanded
-corallum
 confervaceae
 commandedness
 coelacanthine
