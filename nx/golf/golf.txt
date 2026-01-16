@@ -2348,7 +2348,6 @@ ge
 gagsters
 gingival
 guige
-gallicisms
 geistlich
 graviton
 gateman
@@ -5871,6 +5870,7 @@ gatetender
 geroderma
 graffito
 gedact
+gallicisms
 galvanoplastic
 gate
 glassily
