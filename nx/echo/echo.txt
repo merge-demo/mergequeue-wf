@@ -8279,7 +8279,6 @@ ellagate
 exemplification
 enervate
 epitaxies
-ebonizes
 epidemicity
 enzyme
 epigrammatized
@@ -14080,6 +14079,7 @@ echelonment
 emarcid
 enterobiliary
 exclude
+ebonizes
 enquarter
 extracurriculum
 endyma
