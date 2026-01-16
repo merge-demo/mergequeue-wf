@@ -4597,7 +4597,6 @@ gingering
 gyrate
 gyrated
 grees
-gosain
 germinable
 gummed
 gainpain
@@ -9559,6 +9558,7 @@ groutier
 gins
 gastritic
 gyroscope
+gosain
 groupwise
 gladless
 grumped
