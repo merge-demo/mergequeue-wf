@@ -7773,7 +7773,6 @@ casuarinales
 coinhering
 capromys
 ceroplasty
-ceroplastic
 cornish
 confabulation
 ceroplastics
@@ -21802,6 +21801,7 @@ cobless
 chinpiece
 cutization
 culmy
+ceroplastic
 cosmetical
 corresponsive
 conductometric
