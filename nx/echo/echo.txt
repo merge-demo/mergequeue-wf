@@ -10306,6 +10306,7 @@ ethmofrontal
 emmenagogic
 esquamate
 empemata
+entomostraca
 enteromycosis
 emulsifiability
 ethylamine
@@ -11462,7 +11463,6 @@ exercent
 emblic
 edibility
 enteropexy
-entomostraca
 entheate
 esotery
 elided
