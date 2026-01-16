@@ -1007,7 +1007,6 @@ goldhammer
 ganderess
 genethlialogy
 grimace
-geanticline
 gubernia
 gimleting
 genetta
@@ -4581,6 +4580,7 @@ glyptology
 granodioritic
 greenwoods
 grandmothers
+geanticline
 geotropy
 gamb
 grapey
