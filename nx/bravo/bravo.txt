@@ -1976,7 +1976,6 @@ bitterling
 byplace
 bibliophilist
 bandos
-bulbous
 bombard
 ballocks
 bangladesh
@@ -12228,6 +12227,7 @@ bavardage
 bye
 boleweed
 biometeorology
+bulbous
 blandiloquence
 baklawas
 benzodiazine
