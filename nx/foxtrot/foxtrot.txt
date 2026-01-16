@@ -146,7 +146,6 @@ forensically
 featherier
 fossiled
 facsimiled
-fremd
 fizzing
 fungivorous
 frigidaria
@@ -10299,6 +10298,7 @@ frazing
 faros
 flaskful
 frog
+fremd
 flopovers
 frogbit
 frogeyed
