@@ -3390,6 +3390,7 @@ emanatist
 excludability
 epical
 erupt
+enterer
 enwreath
 emasculates
 endoesophagitis
@@ -6592,7 +6593,6 @@ ethnohistorian
 enteradenological
 ensuant
 enterectomy
-enterer
 eulogious
 esothyropexy
 excusive
