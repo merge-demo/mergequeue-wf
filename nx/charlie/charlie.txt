@@ -5956,6 +5956,7 @@ cates
 catesbaea
 carnivorous
 catfaced
+caduca
 constructable
 compunctiously
 chivy
@@ -14623,7 +14624,6 @@ cornual
 cryptogenous
 confederations
 cystolith
-caduca
 cystolithiasis
 cystoma
 cystomas
