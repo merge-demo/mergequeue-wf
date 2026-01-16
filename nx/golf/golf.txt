@@ -4173,6 +4173,7 @@ gettysburg
 glossem
 glosts
 gizmos
+girandole
 genetor
 gyropilot
 galaxiidae
@@ -8179,7 +8180,6 @@ gastrostomize
 gristmill
 grantsman
 granular
-girandole
 gooky
 granulary
 guidebooks
