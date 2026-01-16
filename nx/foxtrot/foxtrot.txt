@@ -6472,6 +6472,7 @@ formulized
 foetal
 fudgy
 fluorenes
+fanega
 fluctuability
 ferriage
 fixup
@@ -11172,7 +11173,6 @@ flaggery
 formylated
 forumize
 foreallot
-fanega
 freeings
 faiences
 fcomp
