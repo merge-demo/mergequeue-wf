@@ -979,7 +979,6 @@ glanis
 genomic
 gamostele
 gentlest
-glottogony
 genetically
 graysby
 guitarlike
@@ -4366,6 +4365,7 @@ girlchild
 galeod
 gnocchetti
 gyrostabilizer
+glottogony
 girse
 gleesomeness
 gravidity
