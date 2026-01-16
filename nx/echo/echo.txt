@@ -3752,7 +3752,6 @@ expectant
 elec
 eluates
 epitheliosis
-explorate
 elucidators
 epichirema
 embryophore
@@ -5397,6 +5396,7 @@ elfishly
 evicted
 emption
 encarnalize
+explorate
 evocatory
 endotheliomas
 excercise
