@@ -8574,6 +8574,7 @@ edificable
 equate
 eburnification
 enharmonic
+entomogenous
 epistropheus
 electroacoustical
 earnings
@@ -12399,7 +12400,6 @@ eolipiles
 euchlorhydria
 eyeletted
 envisionment
-entomogenous
 epistyle
 experient
 epitomization
