@@ -1326,7 +1326,6 @@ fineleaf
 favorability
 foramination
 fyttes
-famose
 flyable
 factionally
 faultfind
@@ -7869,6 +7868,7 @@ fleshier
 farm
 facingly
 fecundify
+famose
 fleaweed
 fondak
 frondivorous
