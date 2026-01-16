@@ -5966,6 +5966,7 @@ catfall
 catfalls
 catfight
 creeled
+cokeney
 catfish
 chouanize
 catfoot
@@ -26244,7 +26245,6 @@ costectomies
 costed
 consultatory
 condylopod
-cokeney
 coxopodite
 clutters
 catocala
