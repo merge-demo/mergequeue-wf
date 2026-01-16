@@ -4011,7 +4011,6 @@ figurehead
 forbit
 feminisation
 friarling
-february
 fairydom
 felicitation
 funfest
@@ -6347,6 +6346,7 @@ felloes
 fluidic
 faulted
 friendlike
+february
 frankeniaceous
 fluidified
 factualness
