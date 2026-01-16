@@ -129,7 +129,6 @@ babylon
 backtrace
 brassily
 biological
-balsamaceous
 balaghaut
 baze
 boarder
@@ -7524,6 +7523,7 @@ betulinic
 bipyramidal
 bengals
 biomicroscope
+balsamaceous
 bowne
 bozine
 besant
