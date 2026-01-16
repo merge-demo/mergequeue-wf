@@ -2943,7 +2943,6 @@ blind
 benefactor
 bushers
 barreling
-bibaciousness
 backbiting
 blanco
 bited
@@ -8795,6 +8794,7 @@ bimotors
 belonged
 bosc
 beagling
+bibaciousness
 behests
 behinder
 barycentre
