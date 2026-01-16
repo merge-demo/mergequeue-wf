@@ -2171,7 +2171,6 @@ ferrous
 felony
 foreignership
 fractioned
-fordeal
 friskest
 frontiers
 folkmoot
@@ -2940,6 +2939,7 @@ fencing
 forereaching
 floccipend
 filthless
+fordeal
 fiance
 flyoff
 filialness
