@@ -2875,7 +2875,6 @@ abidal
 azaleas
 anchorage
 adessive
-aeolipyle
 anilopyrine
 amidopyrine
 adaptation
@@ -18595,6 +18594,7 @@ acinous
 alignment
 academial
 astrophil
+aeolipyle
 archaeolater
 audits
 authoritativeness
