@@ -11322,7 +11322,6 @@ copelidine
 chaneled
 chloromata
 chlorometry
-categorem
 coopted
 capman
 chloromycetin
@@ -28478,6 +28477,7 @@ creatureship
 conversibility
 creaturize
 churchanity
+categorem
 crebricostate
 crebrisulcate
 cooeys
