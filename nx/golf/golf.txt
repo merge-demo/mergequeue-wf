@@ -8542,6 +8542,7 @@ graveclod
 genl
 gibaro
 garum
+gekko
 glisteningly
 glossotype
 gurgle
@@ -8826,7 +8827,6 @@ greenware
 giveth
 gospodar
 guyandot
-gekko
 goldenpert
 ghostess
 gulfs
