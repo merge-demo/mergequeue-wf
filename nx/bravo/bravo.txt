@@ -4050,7 +4050,6 @@ burglarproofing
 buchu
 bom
 butled
-beamed
 bipinnatisect
 bedrock
 bienvenu
@@ -9056,6 +9055,7 @@ biologics
 busybodyish
 bedstands
 bioluminescence
+beamed
 bobsleding
 bewhite
 brender

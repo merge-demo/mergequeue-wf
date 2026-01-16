@@ -5668,6 +5668,7 @@ extinct
 essayist
 eucalypts
 exposable
+escaper
 eligibly
 ectocelic
 extranatural
@@ -12049,7 +12050,6 @@ enwwove
 excoriations
 ecphrasis
 epiclike
-escaper
 electrostenolytic
 elflike
 expurgatorial
