@@ -5909,7 +5909,6 @@ aggregator
 async
 alepole
 ackman
-amatol
 antiroll
 anatman
 amphigoric
@@ -6551,6 +6550,7 @@ abbatial
 ascalabota
 adambulacral
 alkaligen
+amatol
 axmanship
 aquaculture
 alveolite
