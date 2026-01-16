@@ -709,6 +709,7 @@ falcinellus
 frogface
 firebolted
 fimetic
+fulminic
 fumigatorium
 fatigated
 fistnote
@@ -7203,7 +7204,6 @@ fishmeals
 fibrillae
 flea
 fuscous
-fulminic
 football
 flaglet
 fatheadedly
