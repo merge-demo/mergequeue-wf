@@ -768,7 +768,6 @@ gerkin
 ginghams
 galvanopuncture
 goutwort
-groupings
 gladsomer
 geometrically
 graywether
@@ -6235,6 +6234,7 @@ grivois
 gamblesome
 gardener
 guahibo
+groupings
 giantize
 grandmaster
 grunter
