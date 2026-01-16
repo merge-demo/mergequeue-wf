@@ -11043,6 +11043,7 @@ clarkeites
 conichalcite
 coffea
 chistka
+curried
 chit
 cordoba
 chuckled
@@ -28837,7 +28838,6 @@ calsouns
 crevasses
 crumblement
 catharization
-curried
 crevet
 crevette
 creviced
