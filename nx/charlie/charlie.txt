@@ -6691,7 +6691,6 @@ cecrops
 cecum
 cecums
 crinoidal
-cecutiency
 cedar
 chlorastrolite
 credenza
@@ -9252,6 +9251,7 @@ chatelain
 cordmaker
 chemotherapists
 corrosionproof
+cecutiency
 conceive
 corporeality
 chathamites

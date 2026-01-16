@@ -12974,7 +12974,6 @@ anhyd
 anhydraemia
 antikinase
 aquo
-anhydrate
 anhydration
 altering
 anhydride
@@ -21780,6 +21779,7 @@ anionics
 antimethod
 antifertilizer
 abaxial
+anhydrate
 assessed
 assessment
 aphacial
