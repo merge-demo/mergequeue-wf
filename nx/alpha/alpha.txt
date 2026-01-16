@@ -835,7 +835,6 @@ ammiral
 abs
 aitchbone
 anabasse
-ammophila
 auriculately
 absalom
 ambisinistrous
@@ -10113,6 +10112,7 @@ attestors
 ame
 ailette
 amebean
+ammophila
 annabergite
 adoptee
 architecure
