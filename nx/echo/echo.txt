@@ -10234,7 +10234,6 @@ emoter
 epaule
 ethicoreligious
 erased
-elytriform
 etesian
 exculpating
 epanodos
@@ -12491,6 +12490,7 @@ extraocular
 errantia
 exodromic
 everyway
+elytriform
 embarrel
 enoplion
 enchiridia
