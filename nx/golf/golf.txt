@@ -4745,7 +4745,6 @@ guisard
 glycuronic
 graecism
 goglet
-glissader
 girted
 gaberlunzie
 garawi
@@ -7321,6 +7320,7 @@ gleaming
 gwerziou
 gavelman
 glassblowing
+glissader
 galactolipin
 glossotomies
 ginsengs
