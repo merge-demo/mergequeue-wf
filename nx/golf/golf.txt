@@ -1727,7 +1727,6 @@ gentries
 gastrophilite
 grandly
 gastrograph
-ganguela
 gamebag
 grieflessness
 gazetteerish
@@ -9602,6 +9601,7 @@ glossopodium
 gomutis
 glume
 gymnosoph
+ganguela
 guardianless
 gastornithidae
 grousers
