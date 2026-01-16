@@ -6323,7 +6323,6 @@ dgag
 dearly
 dermoneural
 diploetic
-dermoneurosis
 decent
 discordful
 doctrinal
@@ -8130,6 +8129,7 @@ deepener
 diamminonitrate
 diapasons
 destitution
+dermoneurosis
 dakotan
 divaricated
 devein
