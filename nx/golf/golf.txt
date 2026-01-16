@@ -2247,6 +2247,7 @@ gaster
 goodbyes
 ganefs
 greenalite
+golaseccan
 generosities
 galactohemia
 gleit
@@ -5499,7 +5500,6 @@ gavot
 gravies
 griphosaurus
 gammarid
-golaseccan
 geomancy
 glyptolith
 grotesques
