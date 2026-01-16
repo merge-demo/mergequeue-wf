@@ -3047,7 +3047,6 @@ emony
 estatesman
 esoanhydride
 equiprobabilism
-eliminated
 epaulets
 ectopia
 elymus
@@ -6880,6 +6879,7 @@ electrostatical
 examiningly
 entomical
 empoisoning
+eliminated
 electroimpulse
 eyepopper
 eupolyzoan
