@@ -1011,7 +1011,6 @@ gubernia
 gimleting
 genetta
 gemmed
-grumblingly
 gadoids
 gabgab
 gaminish
@@ -2738,6 +2737,7 @@ geniculation
 glanduliform
 gillers
 granule
+grumblingly
 gemarist
 gigantocyte
 gconvert
