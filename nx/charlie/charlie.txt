@@ -16991,7 +16991,6 @@ cosignitary
 clupeids
 checkpointed
 creatureliness
-classis
 cachalot
 caviar
 clupien
@@ -29441,6 +29440,7 @@ correctedness
 cueist
 cerographic
 circuiter
+classis
 crystallising
 crystallites
 coilyear
