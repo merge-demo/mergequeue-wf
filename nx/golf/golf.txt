@@ -2531,7 +2531,6 @@ grandity
 glossier
 gaucher
 golds
-gribbles
 gatepost
 geyan
 gastroalbuminorrhea
@@ -10450,6 +10449,7 @@ glozed
 gomphodont
 grads
 gabber
+gribbles
 gumdrop
 gelseminine
 glaizie
