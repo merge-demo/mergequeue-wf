@@ -21554,7 +21554,6 @@ adrostral
 admissively
 aspidospermine
 actinopterygian
-aspirant
 amoraic
 azurmalachite
 aelurophobia
@@ -24134,6 +24133,7 @@ ammoreslinol
 atimon
 autographometer
 angiomyoma
+aspirant
 autoheader
 axone
 areopagitic
