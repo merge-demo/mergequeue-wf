@@ -14415,6 +14415,7 @@ cirratulidae
 carisoprodol
 cocowort
 costmary
+claustral
 cipolins
 cirri
 cogit
@@ -15657,7 +15658,6 @@ coattends
 craniotympanic
 cartilaginification
 clausthalite
-claustral
 claustration
 characinoid
 concludence
