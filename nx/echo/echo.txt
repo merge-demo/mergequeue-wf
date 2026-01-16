@@ -6764,7 +6764,6 @@ exstill
 entete
 eurytherm
 epistrophy
-etherate
 edaphic
 effume
 ectosomal
@@ -7528,6 +7527,7 @@ epidermically
 ergotism
 expoliate
 ecuelle
+etherate
 engiscope
 eulamellibranch
 epicardia
