@@ -4551,7 +4551,6 @@ enactive
 epiplasm
 emerita
 ephorate
-encephalopathia
 ethynylation
 emigrationist
 ectosphenoid
@@ -6377,6 +6376,7 @@ equisetaceae
 enshield
 endostitis
 ebbed
+encephalopathia
 eprouvette
 endoerythrocytic
 electrographite
