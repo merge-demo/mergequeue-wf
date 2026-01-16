@@ -28682,7 +28682,6 @@ creodonts
 creole
 creolian
 creolism
-carposporangium
 creolite
 cohob
 cyclanthales
@@ -30304,6 +30303,7 @@ crunodes
 countervairy
 chantors
 confrater
+carposporangium
 consonantizing
 cimiciform
 constructions

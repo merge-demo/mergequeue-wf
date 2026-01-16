@@ -373,7 +373,6 @@ bossy
 borings
 backhoe
 bake
-buccellarius
 bemoans
 baseballdom
 brachyurus
@@ -5152,6 +5151,7 @@ budworm
 biotic
 boomorah
 broadside
+buccellarius
 beggarer
 buccinatory
 bagpod
