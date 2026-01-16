@@ -2203,6 +2203,7 @@ folliculous
 felwort
 flatlander
 fathearted
+foreadapt
 fairsome
 forestery
 facetious
@@ -10096,7 +10097,6 @@ frillily
 falderal
 fringilla
 faunal
-foreadapt
 ferrumination
 frilling
 flee
