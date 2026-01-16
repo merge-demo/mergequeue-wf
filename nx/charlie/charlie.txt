@@ -12137,7 +12137,6 @@ cubans
 cyclonoscope
 crupper
 conjecturalist
-chresmology
 cursed
 chrestomathics
 chrestomathies
@@ -30538,6 +30537,7 @@ captaining
 cymographic
 cubisms
 crucibulum
+chresmology
 crankery
 contraprops
 cubitale
