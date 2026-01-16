@@ -4086,7 +4086,6 @@ cryptographer
 cardanol
 chymist
 cardboard
-complacency
 crissum
 cephalopodic
 cardel
@@ -18219,6 +18218,7 @@ centerless
 coessentially
 cervulus
 coetaneous
+complacency
 coeternal
 coeternity
 counterpressure
