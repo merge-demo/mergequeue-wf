@@ -3109,7 +3109,6 @@ bottlestone
 bestness
 bealach
 bronteana
-boithrin
 butylene
 babbie
 bulbils
@@ -7480,6 +7479,7 @@ beaners
 ballyragged
 bact
 betso
+boithrin
 betted
 befreeze
 body
