@@ -6606,6 +6606,7 @@ failsoft
 frotted
 forspread
 fullom
+freddo
 foldskirt
 frakturs
 fraxinus
@@ -8813,7 +8814,6 @@ fala
 facient
 frizzled
 faintise
-freddo
 farde
 fluoranthene
 forbiddable
