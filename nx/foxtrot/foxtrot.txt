@@ -8513,6 +8513,7 @@ filmdoms
 foxes
 foliobranchiate
 formations
+fleck
 fatbrained
 formazan
 flywheels
@@ -9882,7 +9883,6 @@ fragmentary
 formulating
 flowoff
 fattens
-fleck
 forcy
 fadridden
 faddist
