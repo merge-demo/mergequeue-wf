@@ -6458,6 +6458,7 @@ ballast
 betell
 bisulcate
 borderings
+brilliantwise
 bergmannite
 bilati
 beothukan
@@ -15490,7 +15491,6 @@ boswellizing
 bullule
 beartongue
 bemusing
-brilliantwise
 brilliolette
 brills
 baculites
