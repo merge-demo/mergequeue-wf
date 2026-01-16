@@ -4051,7 +4051,6 @@ carcinomatoid
 carcinomatosis
 curmudgeonly
 carpetweed
-cellophane
 cholers
 cornhusk
 carcinomatous
@@ -23688,6 +23687,7 @@ colliquament
 chancefulness
 coruscative
 contradictional
+cellophane
 contradictious
 cairene
 contradictiously
