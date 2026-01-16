@@ -3576,6 +3576,7 @@ garrulity
 grudger
 gynandromorphism
 gemul
+gufa
 gewgawry
 geckoes
 gyrfalcon
@@ -7853,7 +7854,6 @@ gooiest
 garneter
 guanche
 gerately
-gufa
 greenkeeper
 glassblowers
 glead
