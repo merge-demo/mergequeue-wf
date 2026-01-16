@@ -1652,6 +1652,7 @@ docksides
 dearborn
 dearest
 derides
+desuete
 dyne
 deposition
 deadeners
@@ -15925,7 +15926,6 @@ dl
 debacles
 dauntlessness
 dothideales
-desuete
 dendrobatinae
 dissonancies
 dotiest
