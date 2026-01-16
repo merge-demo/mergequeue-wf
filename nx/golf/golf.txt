@@ -3345,7 +3345,6 @@ gaut
 gallinula
 guarantor
 gazetteers
-gossypol
 gyral
 garlandwise
 gaelicist
@@ -3895,6 +3894,7 @@ gibbous
 gentilesse
 ganching
 glissandi
+gossypol
 guarders
 greenbark
 gaudily
