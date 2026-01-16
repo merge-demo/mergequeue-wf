@@ -4784,7 +4784,6 @@ aerobiosis
 addleheaded
 aglipayan
 absorbability
-allotypy
 allophylic
 awedly
 authenticatable
@@ -12377,6 +12376,7 @@ annihilability
 autodermic
 asphyxy
 approval
+allotypy
 amidosuccinamic
 animalia
 antibiont
