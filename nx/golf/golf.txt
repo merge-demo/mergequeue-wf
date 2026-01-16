@@ -1430,6 +1430,7 @@ gonidia
 gasified
 gausterer
 glossocomon
+gowned
 gearshift
 gcd
 grundyite
@@ -6556,7 +6557,6 @@ grays
 gratinate
 gynecomaniacal
 greaseproofness
-gowned
 glaucic
 graceless
 galls

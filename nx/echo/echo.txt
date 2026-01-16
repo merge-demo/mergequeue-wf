@@ -8122,6 +8122,7 @@ electrovection
 enbibe
 epiural
 erysipelatous
+epilemma
 extracalicular
 epididymite
 earaches
@@ -13640,7 +13641,6 @@ extends
 extensibility
 euphemization
 epididymis
-epilemma
 extensions
 expansometer
 engrosses
