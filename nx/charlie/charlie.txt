@@ -566,6 +566,7 @@ cadmia
 cadmic
 cateran
 cardiataxia
+coparallel
 cadmium
 crabsidle
 cadmiumize
@@ -30120,7 +30121,6 @@ crowstick
 crowstone
 camber
 crowtoe
-coparallel
 calycanthaceae
 crozers
 chromididae
