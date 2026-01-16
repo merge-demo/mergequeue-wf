@@ -2870,7 +2870,6 @@ anciency
 apium
 abidal
 azaleas
-acronymizing
 anchorage
 adessive
 aeolipyle
@@ -22282,6 +22281,7 @@ astream
 automates
 adamically
 astrictive
+acronymizing
 astrictively
 axialities
 autodynamic
