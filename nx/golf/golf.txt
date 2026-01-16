@@ -1516,7 +1516,6 @@ gaseousness
 guijo
 gesticulated
 gauntness
-girllike
 gillhooter
 grotesque
 glumly
@@ -5324,6 +5323,7 @@ gonyoncus
 genomes
 gesticulating
 gutturalism
+girllike
 grouted
 garnets
 gauntly
