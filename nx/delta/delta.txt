@@ -10512,7 +10512,6 @@ dendrodra
 diphthonging
 diphthongisation
 deisticalness
-dozent
 dalar
 daglock
 diphthongize
@@ -13889,6 +13888,7 @@ ductileness
 dancery
 devours
 distemperedly
+dozent
 dendritically
 dissensions
 depeter
