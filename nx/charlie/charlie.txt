@@ -13677,7 +13677,6 @@ chromatical
 cinch
 colleges
 cytomorphology
-cinches
 crankcase
 cinching
 cosmolining
@@ -16002,6 +16001,7 @@ clyde
 clerkliness
 chlorocarbon
 clerkships
+cinches
 comrado
 conglutin
 clernly
