@@ -7661,6 +7661,7 @@ deviance
 dimples
 deviancy
 dogcatcher
+discurtain
 disquantity
 diphosphate
 deforcement
@@ -11910,7 +11911,6 @@ deplumed
 dbl
 disinterested
 dissociableness
-discurtain
 discusses
 discussion
 dominations
