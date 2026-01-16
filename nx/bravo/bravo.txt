@@ -1498,7 +1498,6 @@ blighter
 brattles
 belime
 bodaciously
-bedlar
 bahadurs
 beggar
 boroglycerate
@@ -8513,6 +8512,7 @@ biosocial
 brevicauda
 bilimbing
 beaufin
+bedlar
 bilin
 belk
 beweep
