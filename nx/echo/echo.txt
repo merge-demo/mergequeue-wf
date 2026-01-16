@@ -8853,7 +8853,6 @@ ecospecifically
 esthesiometer
 earshots
 eremuri
-entosarc
 ethnoflora
 emotions
 electrotechnician
@@ -11454,6 +11453,7 @@ eli
 exhaustion
 emys
 enteral
+entosarc
 elitists
 echovirus
 exercent
