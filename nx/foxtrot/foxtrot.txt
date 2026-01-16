@@ -582,6 +582,7 @@ ff
 frowzy
 figless
 frisette
+flatwise
 frim
 foxwood
 freight
@@ -8584,7 +8585,6 @@ fidley
 flailing
 flecking
 firehall
-flatwise
 foramen
 forinsec
 fream
