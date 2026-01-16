@@ -3053,7 +3053,6 @@ epaulets
 ectopia
 elymus
 expatiator
-ergotamine
 epitomes
 embitterment
 enfield
@@ -9077,6 +9076,7 @@ erythrocytoschisis
 engaud
 epenthesis
 editorialist
+ergotamine
 erythrocytosis
 excursionist
 ectasia
