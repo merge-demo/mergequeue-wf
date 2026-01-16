@@ -884,7 +884,6 @@ encorbelment
 epiderms
 emraud
 englobement
-eddic
 entourages
 epistolizer
 eigenfunction
@@ -8110,6 +8109,7 @@ extrude
 elegant
 epipubis
 eclating
+eddic
 expostulations
 errordump
 escarmouche
