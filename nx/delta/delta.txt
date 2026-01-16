@@ -11455,7 +11455,6 @@ distrouser
 decarbonate
 deterging
 disciplinatory
-discipling
 disciplining
 depopulator
 discipular
@@ -16806,6 +16805,7 @@ dissociable
 dendrodus
 diaphanoscopy
 drumbeat
+discipling
 drillbit
 darbukka
 dablet
