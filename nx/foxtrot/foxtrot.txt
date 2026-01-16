@@ -9023,6 +9023,7 @@ fatigues
 flaggiest
 forepole
 frustule
+femoral
 flugelhorn
 fanmaking
 fourre
@@ -9764,7 +9765,6 @@ fourfiusher
 fraising
 fustle
 footwalls
-femoral
 fingerroot
 functorial
 filch
