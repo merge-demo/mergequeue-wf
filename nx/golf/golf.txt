@@ -239,6 +239,7 @@ gravure
 gaiter
 gallicolous
 goniocraniometry
+grantor
 gluelike
 goajiro
 gomphosis
@@ -10643,7 +10644,6 @@ goatherd
 galbulus
 gerontologies
 gelation
-grantor
 giganticness
 gasconade
 gargets
