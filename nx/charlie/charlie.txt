@@ -25124,7 +25124,6 @@ coremorphosis
 colouring
 chromonematic
 crocks
-complacential
 coreplastic
 corepressor
 cubas
@@ -31088,6 +31087,7 @@ capitulation
 cacodylate
 cuproid
 cunicular
+complacential
 cuniculi
 choirboy
 cuniculus
