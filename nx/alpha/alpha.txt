@@ -12117,7 +12117,6 @@ antlerite
 ancestry
 autocue
 astronautical
-alcaid
 allodge
 asgard
 andaman
@@ -24684,6 +24683,7 @@ absumption
 allotelluric
 asteer
 arabized
+alcaid
 actinidia
 anastrophia
 archimage
