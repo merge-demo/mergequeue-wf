@@ -7176,6 +7176,7 @@ bunchberries
 bonduc
 ballcarrier
 barret
+bertin
 beclout
 backless
 besprinkles
@@ -12084,7 +12085,6 @@ breadnuts
 buybacks
 bilinigrin
 bronchostomies
-bertin
 bojite
 benzonitrile
 biscuitry
