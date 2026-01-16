@@ -9690,7 +9690,6 @@ bushily
 bisymmetrical
 bigg
 borate
-bisync
 boolies
 bisischiatic
 bauera
@@ -11746,6 +11745,7 @@ bobbinite
 bigamies
 bobbish
 bais
+bisync
 bobcats
 binmen
 bipeds
