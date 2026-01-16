@@ -4126,7 +4126,6 @@ feldsparphyre
 fenestellid
 finitely
 felicitously
-foresightless
 fiddlebow
 fungusy
 frostation
@@ -10912,6 +10911,7 @@ fungicide
 fornent
 flaite
 functionally
+foresightless
 footholds
 flavor
 forts
