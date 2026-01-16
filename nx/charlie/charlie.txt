@@ -26681,6 +26681,7 @@ counterannouncement
 counterarch
 cetrarin
 compulsative
+crossways
 cloisters
 counterassociation
 cammock
@@ -29930,7 +29931,6 @@ carcinologist
 crosstrack
 crosstree
 crossway
-crossways
 cetid
 catheti
 cyclopaedic
