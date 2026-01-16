@@ -2543,6 +2543,7 @@ bombillas
 barycenter
 burmite
 brillolette
+batatilla
 barid
 bouser
 bereaving
@@ -8397,7 +8398,6 @@ beveto
 bauhinia
 bipaliidae
 biserially
-batatilla
 barney
 buzukis
 beatster
