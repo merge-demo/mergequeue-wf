@@ -9779,7 +9779,6 @@ gonococcus
 gingles
 gymnasium
 goodwills
-gargantuan
 guidonian
 georgiana
 gyrinus
@@ -10656,6 +10655,7 @@ gorrel
 genera
 galee
 gemmiest
+gargantuan
 gnomed
 gastroperiodynia
 gurged
