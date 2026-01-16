@@ -15089,7 +15089,6 @@ adjectivitis
 axofugal
 atrocious
 acopic
-advential
 antispeculation
 aggrandisement
 athena
@@ -25299,6 +25298,7 @@ asymmetrical
 atmospheric
 anesthetist
 agrarians
+advential
 acetylrosaniline
 aceta
 antidiphtheric
