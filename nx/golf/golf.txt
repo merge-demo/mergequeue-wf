@@ -607,6 +607,7 @@ gabert
 glossopalatine
 grieben
 guineas
+gemming
 gorgoniacea
 ghostweed
 graveside
@@ -8941,7 +8942,6 @@ grainage
 ganglier
 giros
 geoducks
-gemming
 gegenschein
 gaufferer
 grubbed
