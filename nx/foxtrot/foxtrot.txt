@@ -3733,7 +3733,6 @@ facebread
 fortnightly
 fillies
 feetless
-firedogs
 fillings
 furfuryl
 forepoling
@@ -8551,6 +8550,7 @@ freeward
 ferruminated
 forjudger
 formicid
+firedogs
 forger
 formicine
 fashiousness
