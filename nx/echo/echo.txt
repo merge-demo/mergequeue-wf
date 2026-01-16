@@ -2561,7 +2561,6 @@ ensete
 entozoic
 exesion
 ela
-enounce
 epiphytal
 encastage
 emptiest
@@ -12542,6 +12541,7 @@ exit
 edger
 encrypted
 exsects
+enounce
 exite
 extinction
 envied
