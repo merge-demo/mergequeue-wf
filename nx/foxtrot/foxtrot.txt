@@ -2281,7 +2281,6 @@ full
 flavones
 feverbush
 filamentiferous
-fantails
 folktale
 fulmineous
 friths
@@ -4487,6 +4486,7 @@ freewheel
 fibroglioma
 fannings
 farcied
+fantails
 flustered
 fairkeeper
 feste
