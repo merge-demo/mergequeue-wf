@@ -1055,7 +1055,6 @@ fivepenny
 fletcherize
 folates
 farmership
-fellata
 fulgence
 festschriften
 felicitated
@@ -6843,6 +6842,7 @@ frayed
 fried
 focimetry
 formative
+fellata
 fissate
 facaded
 folacin
