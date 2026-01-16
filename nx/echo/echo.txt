@@ -2858,7 +2858,6 @@ embroidered
 endpleasure
 earbob
 elenchic
-eidos
 extrovertive
 elves
 elenchize
@@ -12005,6 +12004,7 @@ ectromelian
 essenic
 exclusive
 enaunter
+eidos
 enamelled
 epidialogue
 enstranged
