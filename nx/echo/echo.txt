@@ -3466,7 +3466,6 @@ embarge
 espier
 enteropneustal
 estimator
-epinephelus
 ebullate
 exurbanite
 equiparate
@@ -8573,6 +8572,7 @@ excessmen
 exchangeable
 ectomeric
 ecalcarate
+epinephelus
 enwreathe
 epigeous
 extraparenchymal
