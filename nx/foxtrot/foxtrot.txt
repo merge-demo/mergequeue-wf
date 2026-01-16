@@ -4599,7 +4599,6 @@ flagellation
 fruitcake
 flashboard
 faciolingual
-finishers
 fourth
 feudists
 frit
@@ -7178,6 +7177,7 @@ fennig
 fledge
 fedayeen
 fighter
+finishers
 foolish
 ferryboats
 fascinating
