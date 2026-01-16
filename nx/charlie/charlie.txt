@@ -9542,7 +9542,6 @@ calaththi
 checkrein
 checkroll
 counterimpulse
-cuddle
 compathy
 checkrope
 cumulant
@@ -26422,6 +26421,7 @@ cotitular
 cotland
 chowk
 cotoin
+cuddle
 cubit
 cotorment
 cybernetically

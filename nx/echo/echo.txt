@@ -2778,6 +2778,7 @@ electees
 enthusiasts
 expounds
 ennobler
+etymologies
 envoi
 ennoblment
 eleemosynary
@@ -7757,7 +7758,6 @@ expedientially
 ergatandromorphic
 episodes
 electrodynamical
-etymologies
 endophytal
 etherizer
 epanaphoral
