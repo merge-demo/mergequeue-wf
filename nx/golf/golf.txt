@@ -85,7 +85,6 @@ glandulose
 garbling
 gangliectomy
 graunt
-glottalizing
 gabbai
 gadge
 gonadal
@@ -1420,6 +1419,7 @@ glossanthrax
 gaulsh
 glycosemia
 geitjie
+glottalizing
 germanize
 gruffish
 gaits
