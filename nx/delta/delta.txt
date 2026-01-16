@@ -6803,6 +6803,7 @@ deskman
 desks
 dragade
 diosmosed
+doorcase
 donor
 deerwood
 destined
@@ -9710,7 +9711,6 @@ dikaryophyte
 depletive
 demission
 dikaryophytic
-doorcase
 dipneusti
 devilward
 diageotropy
