@@ -5218,7 +5218,6 @@ forewords
 fregit
 farmhousey
 fraile
-frighting
 fawnskin
 fogdom
 frizzly
@@ -8844,6 +8843,7 @@ frugality
 fashionative
 frightfully
 frontage
+frighting
 forhooie
 forechamber
 forwearied
