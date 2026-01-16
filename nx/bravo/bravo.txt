@@ -3423,7 +3423,6 @@ bioassaying
 bivalents
 betsey
 blastodermatic
-bioelectrogenesis
 busiest
 broider
 boletes
@@ -5763,6 +5762,7 @@ beaverroot
 bellbinder
 budgeree
 bullous
+bioelectrogenesis
 brusquest
 barnyards
 bascology
