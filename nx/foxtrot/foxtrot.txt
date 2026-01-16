@@ -4563,7 +4563,6 @@ flagging
 flintlocks
 favissa
 feer
-fleecers
 forheed
 foreigner
 forslake
@@ -10298,6 +10297,7 @@ faros
 flaskful
 frog
 fremd
+fleecers
 flopovers
 frogbit
 frogeyed
