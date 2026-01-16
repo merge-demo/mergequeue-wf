@@ -4984,6 +4984,7 @@ exigenter
 entoplastron
 encouragement
 enstamp
+encephalocoele
 expectable
 embryotomy
 endellionite
@@ -9171,7 +9172,6 @@ enates
 elaphe
 embryons
 ernes
-encephalocoele
 eosinophilic
 erodent
 extradite
