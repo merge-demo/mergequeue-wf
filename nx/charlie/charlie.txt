@@ -10073,7 +10073,6 @@ collab
 chipchap
 chessdom
 chesser
-cabinda
 codheaded
 chesses
 chessylite
@@ -18833,6 +18832,7 @@ cephalacanthidae
 contemplated
 closehanded
 conventionalization
+cabinda
 compliers
 colet
 cobego
