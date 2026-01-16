@@ -12467,7 +12467,6 @@ cranemanship
 chromoisomer
 cenotaphies
 chromoisomeric
-cholelithotripsy
 chamaenerion
 carneous
 candelabra
@@ -13514,6 +13513,7 @@ cylindrograph
 compilers
 chisel
 chrysocolla
+cholelithotripsy
 comitiva
 cylindroid
 ceratites

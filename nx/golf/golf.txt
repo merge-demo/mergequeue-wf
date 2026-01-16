@@ -4015,7 +4015,6 @@ grice
 guerillas
 gumbotil
 ganner
-graphis
 gimping
 goffer
 gouges
@@ -10848,6 +10847,7 @@ granddaddy
 gymnasiarch
 genesiurgic
 grumps
+graphis
 galianes
 gramashes
 gorging
