@@ -5416,7 +5416,6 @@ flutey
 forehand
 feints
 fifteen
-fumarole
 feasts
 fowlpoxes
 filial
@@ -8445,6 +8444,7 @@ federalized
 fiddlerfishes
 feoffment
 firmans
+fumarole
 floppy
 finked
 fallaciousness
