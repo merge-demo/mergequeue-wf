@@ -9591,6 +9591,7 @@ departisanize
 dignitary
 demophoon
 doubloons
+deipnosophist
 donnot
 drunks
 dignotion
@@ -10773,7 +10774,6 @@ delian
 dragonlike
 dips
 dipsacaceous
-deipnosophist
 depriver
 drad
 dun
