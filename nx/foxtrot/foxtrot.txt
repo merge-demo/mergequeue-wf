@@ -3532,7 +3532,6 @@ fusicladium
 figurer
 foolery
 fute
-flyweight
 fleetingly
 fernland
 figures
@@ -4698,6 +4697,7 @@ fortify
 filet
 fourthly
 fatale
+flyweight
 fluctiferous
 flange
 folkmooter
