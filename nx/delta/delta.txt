@@ -5641,7 +5641,6 @@ distract
 diopsidic
 depigmentate
 docosanoic
-depigmentation
 depigmentize
 dissidence
 dihexahedral
@@ -13834,6 +13833,7 @@ detruncate
 dengues
 destructivity
 dissuit
+depigmentation
 disorient
 dignifies
 deflexible
