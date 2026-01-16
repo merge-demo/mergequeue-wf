@@ -7940,6 +7940,7 @@ ephebus
 enclisis
 ectozoic
 esculetin
+expurge
 estoppel
 encyclopaedia
 effetmen
@@ -12046,7 +12047,6 @@ epiclike
 escaper
 electrostenolytic
 elflike
-expurge
 expurgatorial
 embalmed
 excortication
