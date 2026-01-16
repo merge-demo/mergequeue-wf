@@ -1385,7 +1385,6 @@ garlion
 guhr
 gesturers
 garmentmaker
-gemmel
 gymnic
 gelogenic
 germanely
@@ -7279,6 +7278,7 @@ gonesome
 grayouts
 grouched
 gambeering
+gemmel
 gesticulative
 gratuitousness
 glochines
