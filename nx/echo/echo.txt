@@ -8299,7 +8299,6 @@ epigrammatized
 eikones
 electrothermics
 ecophobia
-ewe
 erythrismal
 enroller
 eschynite
@@ -9903,6 +9902,7 @@ emmensite
 endlichite
 enterritoriality
 ephedrin
+ewe
 educible
 executes
 eduskunta
