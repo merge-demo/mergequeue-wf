@@ -8566,7 +8566,6 @@ chancery
 chances
 compunctionary
 chancewise
-chanche
 cycloaddition
 chanchito
 chancy
@@ -30681,6 +30680,7 @@ cudgeled
 cudgeler
 calymene
 cudgelers
+chanche
 counterwind
 complexometric
 costopleural
