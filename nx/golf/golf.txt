@@ -346,6 +346,7 @@ gutwort
 garvock
 gingerin
 geometricize
+giftling
 gobiid
 gilet
 gantlets
@@ -10519,7 +10520,6 @@ gnome
 genuineness
 grecized
 griff
-giftling
 greenbacks
 gristhorbia
 gyrational
