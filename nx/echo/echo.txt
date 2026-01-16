@@ -5935,6 +5935,7 @@ ere
 exclave
 ethmonasal
 ericaceae
+establisher
 etiolate
 entheal
 enheart
@@ -7299,7 +7300,6 @@ emcee
 empolder
 eliquate
 encipher
-establisher
 equiatomic
 establismentarianism
 efferous
