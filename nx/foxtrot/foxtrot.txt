@@ -1758,7 +1758,6 @@ fusels
 fluoridates
 fn
 featheriness
-fretsome
 forsterite
 farfet
 farsalah
@@ -2862,6 +2861,7 @@ flatlets
 forestair
 fecundity
 fibrillose
+fretsome
 fed
 faeries
 ferlies
