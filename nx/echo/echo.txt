@@ -7850,7 +7850,6 @@ executioner
 empurples
 epihyal
 exogonium
-entogastric
 escapes
 egis
 excitor
@@ -9607,6 +9606,7 @@ episporium
 elaeoblastic
 earldom
 epiphenomenalism
+entogastric
 esoterist
 evildoers
 eventlessness
