@@ -5144,7 +5144,6 @@ glassiness
 glasslikeness
 garrya
 griffins
-generalizable
 granza
 granuloma
 gastroptosia
@@ -8878,6 +8877,7 @@ gallowsward
 goldeye
 glossingly
 galop
+generalizable
 grosser
 gainlier
 galleyworm
