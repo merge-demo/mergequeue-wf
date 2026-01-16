@@ -7886,7 +7886,6 @@ diaphonia
 dites
 dapson
 dewdrop
-defamatory
 daggerboard
 dewdropper
 dogteeth
@@ -10655,6 +10654,7 @@ diauli
 decompressing
 dormin
 dysporomorph
+defamatory
 dispicion
 drawfile
 diphtheritic
