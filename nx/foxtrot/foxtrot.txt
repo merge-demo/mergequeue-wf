@@ -2690,7 +2690,6 @@ falsely
 fluoridating
 fertilise
 fondus
-fylfots
 funeral
 fallowed
 foremelt
@@ -4530,6 +4529,7 @@ frangulin
 fluctuant
 firebrands
 fluidifying
+fylfots
 frowst
 flatting
 forlane
