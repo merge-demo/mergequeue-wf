@@ -2773,7 +2773,6 @@ gnateater
 goriest
 grainering
 germanomania
-gravitons
 gusle
 grith
 genit
@@ -7976,6 +7975,7 @@ gooseberries
 grandad
 glandula
 goggling
+gravitons
 glaringness
 gnomically
 gentilization
