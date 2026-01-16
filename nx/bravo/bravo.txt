@@ -8310,7 +8310,6 @@ broodingly
 booze
 butterflyfish
 biblists
-binderies
 beak
 burden
 botte
@@ -15002,6 +15001,7 @@ brinston
 backspear
 boccale
 bangster
+binderies
 branchiate
 barleybreak
 basketing
