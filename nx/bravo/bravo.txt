@@ -15251,7 +15251,6 @@ biocatalytic
 brick
 battened
 brickbat
-bicoloured
 buttonholed
 blackstrap
 borish
@@ -16541,6 +16540,7 @@ bolshevistic
 bordered
 bestrode
 brustle
+bicoloured
 bridal
 brusure
 broiders
