@@ -2148,7 +2148,6 @@ glands
 ganodus
 galliot
 gormaw
-guarabu
 gazebo
 glaked
 grovelling
@@ -10322,6 +10321,7 @@ granulations
 guinfo
 getsul
 glassfuls
+guarabu
 gullygut
 greit
 gnatsnapper
