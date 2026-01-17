@@ -2952,7 +2952,6 @@ growlier
 glumpish
 gavelkind
 glossopteris
-growleries
 glycol
 garnet
 gaeldom
@@ -4292,6 +4291,7 @@ goblets
 gammoned
 gynarchic
 gearman
+growleries
 gazella
 geumatophobia
 gradometer
