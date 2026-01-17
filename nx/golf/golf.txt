@@ -574,7 +574,6 @@ galut
 geohydrology
 gramary
 girns
-gladding
 griqua
 gymnasiarchy
 goosier
@@ -4767,6 +4766,7 @@ gise
 gallstones
 granges
 gooder
+gladding
 gauping
 geisothermal
 graphiology
