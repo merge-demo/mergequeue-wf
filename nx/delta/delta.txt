@@ -16213,7 +16213,6 @@ dermatographia
 diarrhea
 deforest
 dactylography
-deteriorate
 decemberly
 downface
 downstair
@@ -16953,6 +16952,7 @@ discamp
 dree
 docentship
 dunces
+deteriorate
 dayan
 daggar
 desiccant
