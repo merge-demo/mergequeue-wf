@@ -745,6 +745,7 @@ galvanoglyph
 gar
 gossipdom
 goniometric
+gravamina
 gossypin
 golem
 gnawer
@@ -6382,7 +6383,6 @@ ganoin
 greyed
 gummage
 gymnolaemata
-gravamina
 ginglymodian
 gloriosa
 gippo
