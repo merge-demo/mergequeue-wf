@@ -1000,6 +1000,7 @@ ginglymoid
 glycogenesis
 guesses
 goldhammer
+gridding
 ganderess
 genethlialogy
 grimace
@@ -8793,7 +8794,6 @@ galeus
 gobbin
 germling
 gaypoo
-gridding
 gralloch
 graminaceous
 gluhwein
