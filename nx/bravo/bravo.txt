@@ -1214,7 +1214,6 @@ biscot
 biremes
 bearhide
 bearberry
-balloting
 benzyl
 bruchus
 bankbook
@@ -11514,6 +11513,7 @@ basophilia
 begemming
 bathylimnetic
 bedoctor
+balloting
 blintze
 baccalaurean
 bluewoods
