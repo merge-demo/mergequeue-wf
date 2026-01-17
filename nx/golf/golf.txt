@@ -2080,7 +2080,6 @@ gutterize
 gavels
 gloriana
 gavia
-grapheme
 gaynesses
 girsh
 gamey
@@ -10771,6 +10770,7 @@ glycyl
 gutt
 greenbrier
 gourmandism
+grapheme
 gung
 gunroom
 genialness
