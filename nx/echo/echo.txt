@@ -5197,6 +5197,7 @@ epilithic
 embay
 endogenae
 enshrine
+eruc
 efference
 euchres
 eulogy
@@ -5965,7 +5966,6 @@ encrinoidea
 elains
 effate
 emissary
-eruc
 erythrose
 equiaxed
 entrances
