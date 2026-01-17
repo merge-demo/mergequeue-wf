@@ -324,6 +324,7 @@ collidine
 crumbing
 cackerel
 counterend
+comatosely
 copsewooded
 cacklers
 cornett
@@ -19701,7 +19702,6 @@ claptrap
 chemisorption
 clefts
 comatiks
-comatosely
 countercharged
 comatoseness
 comatosity
