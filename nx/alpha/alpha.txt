@@ -1402,6 +1402,7 @@ arability
 antiprotozoal
 agron
 azygospore
+afforests
 armonica
 anophthalmos
 allotriodontia
@@ -8733,7 +8734,6 @@ airtightness
 ascoma
 apterygote
 acetylcholinesterase
-afforests
 acescents
 autoelectrolytic
 alodial
