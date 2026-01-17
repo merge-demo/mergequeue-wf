@@ -4356,6 +4356,7 @@ ferritin
 fashionableness
 famille
 farewelled
+furnaced
 frustrated
 ferocities
 friendly
@@ -6112,7 +6113,6 @@ floral
 floralize
 foretypified
 floras
-furnaced
 fructiform
 focusless
 frottage
