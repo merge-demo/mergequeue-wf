@@ -2291,7 +2291,6 @@ globelike
 garance
 geissoloma
 geissospermine
-gymnorhinal
 glyoxalic
 genecologic
 granulocytopoiesis
@@ -2710,6 +2709,7 @@ gunbright
 genevan
 giboia
 grudgingness
+gymnorhinal
 gabardines
 gravelous
 guaican
