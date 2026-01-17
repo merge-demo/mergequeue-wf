@@ -2367,6 +2367,7 @@ braggart
 bubbletops
 boxboards
 barbotine
+blaunner
 bones
 biolysis
 belligerency
@@ -10634,7 +10635,6 @@ besayle
 blastomas
 bereft
 bohemia
-blaunner
 bein
 blawing
 bidery
