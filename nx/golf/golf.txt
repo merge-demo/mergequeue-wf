@@ -1811,7 +1811,6 @@ gelatinotype
 glutinate
 gaberloonie
 gestalten
-gangwaymen
 goiterogenic
 grumpiness
 gammarus
@@ -5341,6 +5340,7 @@ gossipee
 grangerite
 gagged
 genialize
+gangwaymen
 guardsmen
 glommox
 guatemala
