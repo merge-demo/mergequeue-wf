@@ -7935,7 +7935,6 @@ esquiring
 equivalvular
 equitant
 estragol
-ensilation
 epimanikion
 epimeres
 epimerism
@@ -14193,6 +14192,7 @@ ectosome
 endometritis
 esthetics
 elimination
+ensilation
 emasculate
 epulation
 endlong
