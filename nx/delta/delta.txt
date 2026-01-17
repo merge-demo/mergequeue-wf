@@ -4197,7 +4197,6 @@ dislocate
 diluvial
 disacknowledge
 discrepation
-deltas
 dibromobenzene
 dook
 dopaminergic
@@ -15541,6 +15540,7 @@ dispersing
 drivellingly
 doubt
 divelled
+deltas
 diocesian
 diathermize
 dielytra
