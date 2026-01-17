@@ -16214,6 +16214,7 @@ clinchers
 clinches
 clinchingly
 capkin
+counterplotter
 chargeability
 cathedratical
 cardinalis
@@ -26984,7 +26985,6 @@ counterplay
 counterplayer
 carassow
 conformance
-counterplotter
 curatage
 contoid
 chimneypot
