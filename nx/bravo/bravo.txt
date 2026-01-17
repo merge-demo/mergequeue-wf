@@ -3358,7 +3358,6 @@ boller
 binarium
 burgoos
 bronchobuster
-basoid
 belitter
 baraithas
 beltine
@@ -13853,6 +13852,7 @@ bowbent
 bowdichia
 bloodily
 beboppers
+basoid
 brisa
 backwasher
 bracketted
