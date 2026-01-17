@@ -11002,7 +11002,6 @@ blindstorey
 blinkingly
 batel
 blocky
-blintzes
 braid
 blacksmiths
 billowy
@@ -16537,6 +16536,7 @@ borasque
 benedictions
 bimillennium
 bequote
+blintzes
 biasness
 bursattee
 boucherize
