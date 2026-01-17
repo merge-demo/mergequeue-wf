@@ -14714,7 +14714,6 @@ degustate
 dregs
 dystectic
 dilemmas
-divid
 dioecisms
 dorsoposterior
 devilling
@@ -15331,6 +15330,7 @@ darbyite
 decongestion
 domesdays
 diarthrodial
+divid
 domesticality
 decreased
 debriding
