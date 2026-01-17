@@ -4618,7 +4618,6 @@ dicynodontidae
 deashing
 demiscible
 dicebox
-denticulate
 demise
 demisecond
 demised
@@ -6167,6 +6166,7 @@ disputations
 daimonic
 desoxalate
 derfly
+denticulate
 deric
 disbosomed
 deriders
