@@ -89,7 +89,6 @@ cephaeline
 coemptor
 cabbed
 cubics
-crosier
 cabby
 coempts
 cabbie
@@ -24698,6 +24697,7 @@ coauthered
 camacey
 cambrics
 corimelaena
+crosier
 cognosce
 copperskin
 colipyuria

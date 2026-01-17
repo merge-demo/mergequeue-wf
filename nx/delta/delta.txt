@@ -2552,7 +2552,6 @@ disequality
 disembarkations
 dorsocephalic
 distiller
-declensionally
 dynamograph
 declensions
 decretist
@@ -3501,6 +3500,7 @@ downfold
 deuterostomata
 duffed
 deforse
+declensionally
 diplomatic
 disaccharides
 deflocculate
