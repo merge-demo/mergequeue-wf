@@ -320,6 +320,7 @@ flagarie
 flowable
 fiji
 fissle
+follyer
 flensing
 feudalised
 fledges
@@ -10771,7 +10772,6 @@ forcemeat
 forbore
 fanciness
 foreyear
-follyer
 fascistize
 filagree
 flasket
