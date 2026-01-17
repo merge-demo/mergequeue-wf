@@ -8623,7 +8623,6 @@ beflecks
 brachiofacial
 buts
 billfishes
-bradypode
 brownnoser
 bouquet
 bellflower
@@ -10535,6 +10534,7 @@ brainy
 bridgewards
 bonehead
 burin
+bradypode
 blastomyces
 bainie
 blastomycete
