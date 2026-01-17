@@ -5853,7 +5853,6 @@ gadarene
 gloveman
 gumtrees
 glover
-genos
 glave
 gastrodisk
 glamorously
@@ -8776,6 +8775,7 @@ gunneries
 gonangium
 guazuma
 gonys
+genos
 greenrooms
 garlics
 granula
