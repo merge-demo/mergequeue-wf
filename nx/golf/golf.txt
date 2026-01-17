@@ -9120,6 +9120,7 @@ gusting
 glasser
 grimalkin
 genitive
+gasparillo
 gentianwort
 ghast
 grimme
@@ -9405,7 +9406,6 @@ geophila
 goliad
 gunnysacks
 ghaist
-gasparillo
 gyrostat
 gimmick
 ganched
