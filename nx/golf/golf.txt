@@ -3348,7 +3348,6 @@ gnathostomi
 gudesake
 gynaecol
 gahnites
-geriatrician
 gregos
 geriatrist
 glutinant
@@ -7803,6 +7802,7 @@ graped
 graveling
 gonadectomized
 gonococcocci
+geriatrician
 gonystylaceae
 gadabout
 goldbugs
