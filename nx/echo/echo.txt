@@ -10816,6 +10816,7 @@ entombment
 eumycete
 elaborating
 erinaceus
+epithem
 emoting
 euskera
 esterases
@@ -13676,7 +13677,6 @@ exteriorised
 ecrus
 entapophysis
 extrapolates
-epithem
 encomiendas
 electrocataphoresis
 enphytotic
