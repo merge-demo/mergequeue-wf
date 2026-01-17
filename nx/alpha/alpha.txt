@@ -12381,7 +12381,6 @@ approval
 allotypy
 amidosuccinamic
 animalia
-antibiont
 admensuration
 algesis
 aporias
@@ -19618,6 +19617,7 @@ anthracomartus
 aplastic
 annotate
 ark
+antibiont
 arillate
 affricative
 abwatts
