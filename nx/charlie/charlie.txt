@@ -26818,7 +26818,6 @@ cudava
 chilopod
 counterfeits
 counterfessed
-counterfire
 concertised
 counterflange
 cruzados
@@ -27728,6 +27727,7 @@ clinochlore
 cytidines
 coleus
 cowpoxes
+counterfire
 consortium
 champagnizing
 chorus
