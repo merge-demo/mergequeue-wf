@@ -20169,7 +20169,6 @@ commissoria
 clypeastroidea
 commissure
 confederacy
-chalcidic
 commissurotomies
 commit
 commitment
@@ -29392,6 +29391,7 @@ ceratobatrachinae
 crispens
 crispers
 craaled
+chalcidic
 chromatogram
 costlessness
 cymbals
