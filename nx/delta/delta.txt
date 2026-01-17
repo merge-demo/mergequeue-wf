@@ -220,6 +220,7 @@ diff
 discrepencies
 duotoned
 desilverizer
+dished
 distrest
 diastrophe
 dottore
@@ -16421,7 +16422,6 @@ drabbling
 doubler
 drabler
 delivery
-dished
 discoverture
 dextropinene
 dublin

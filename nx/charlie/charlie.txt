@@ -1472,6 +1472,7 @@ calyptratae
 calyptriform
 calyptrimorphous
 coracoscapular
+cervicoaxillary
 ceriornis
 carnosin
 calisayas
@@ -21694,7 +21695,6 @@ compriest
 chondria
 cimolite
 cobalamine
-cervicoaxillary
 cancered
 creasing
 condiment
