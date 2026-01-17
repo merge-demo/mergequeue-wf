@@ -2047,6 +2047,7 @@ fourpounder
 femorotibial
 frontspiece
 feinter
+forisfamiliation
 feudary
 forgivableness
 flunking
@@ -8388,7 +8389,6 @@ fautorship
 furmeties
 flytraps
 fusate
-forisfamiliation
 flaughts
 ferrotyping
 fatherlike
