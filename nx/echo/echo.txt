@@ -6634,7 +6634,6 @@ equiponderant
 excluding
 extenuate
 echinorhynchus
-esperantidist
 ernest
 erump
 embryous
@@ -13083,6 +13082,7 @@ embankment
 envelope
 eval
 enclosed
+esperantidist
 ergates
 enslave
 emulousness
