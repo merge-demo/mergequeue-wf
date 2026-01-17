@@ -744,7 +744,6 @@ bepat
 boroughship
 brushcut
 bygoing
-banket
 badmouthed
 burled
 badmouths
@@ -8368,6 +8367,7 @@ biventral
 biggish
 bayadeer
 bepelt
+banket
 bigheaded
 balanoglossida
 blastostylar
