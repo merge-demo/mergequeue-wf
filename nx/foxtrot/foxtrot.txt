@@ -2811,7 +2811,6 @@ freshener
 finlander
 facers
 flattops
-feedman
 faunae
 ficus
 fluidly
@@ -9541,6 +9540,7 @@ formalness
 fulcrate
 flounderingly
 fratricelli
+feedman
 fastwalk
 flights
 fidele
