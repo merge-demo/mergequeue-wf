@@ -5798,6 +5798,7 @@ flyovers
 flype
 feodaries
 franchise
+feist
 funiculi
 forkmen
 federalizing
@@ -10921,7 +10922,6 @@ filagreing
 fractiously
 forehinting
 freestone
-feist
 furore
 foeman
 fulgurated
