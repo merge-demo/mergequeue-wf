@@ -4386,6 +4386,7 @@ disrank
 dolos
 diapyesis
 demesman
+dextroses
 depravities
 declarers
 disentitle
@@ -12694,7 +12695,6 @@ downers
 dysury
 desmocytoma
 disker
-dextroses
 dysoxidation
 demesnes
 didy
