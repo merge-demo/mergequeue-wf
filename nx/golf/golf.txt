@@ -351,6 +351,7 @@ gingerin
 geometricize
 giftling
 gobiid
+glossophaga
 gilet
 gantlets
 galvanography
@@ -6415,7 +6416,6 @@ gospelwards
 germanophile
 greenwort
 gradatim
-glossophaga
 galloped
 gamesomeness
 grieve
