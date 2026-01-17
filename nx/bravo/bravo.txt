@@ -5029,6 +5029,7 @@ breakwaters
 beetles
 bubal
 bewildering
+beard
 bewrite
 brompicrin
 baching
@@ -17440,7 +17441,6 @@ blackouts
 bunkermen
 babel
 bronchiolus
-beard
 burler
 balsawood
 birdnester
