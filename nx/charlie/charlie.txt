@@ -1927,7 +1927,6 @@ clarity
 cartonnage
 cambricleaf
 colobus
-cambridge
 catostomidae
 clumber
 chaumer
@@ -28415,6 +28414,7 @@ creased
 countertenors
 confers
 creaseless
+cambridge
 creasers
 creases
 creashaks
