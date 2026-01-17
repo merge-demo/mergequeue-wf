@@ -17230,7 +17230,6 @@ aminoplast
 abyssolith
 autopsying
 aspersoria
-apophlegm
 appointe
 albuminiform
 apophlegmatic
@@ -22049,6 +22048,7 @@ asbestoses
 allelisms
 avenous
 astricting
+apophlegm
 antiaristocrat
 adverbs
 asteatosis
