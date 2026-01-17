@@ -1797,7 +1797,6 @@ frogmen
 flindosy
 foredoes
 featherwing
-fjorded
 fitified
 fevercup
 ferromagnetism
@@ -11415,6 +11414,7 @@ furcular
 forksmith
 fidgeted
 filii
+fjorded
 flamingly
 flumdiddle
 fisticuffing
