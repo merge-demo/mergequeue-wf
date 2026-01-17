@@ -1028,7 +1028,6 @@ ensaffron
 expiscated
 edaphology
 estopping
-entastic
 etymological
 edaphon
 endorsing
@@ -9078,6 +9077,7 @@ erythrocytoschisis
 engaud
 eremic
 epenthesis
+entastic
 editorialist
 ergotamine
 erythrocytosis
