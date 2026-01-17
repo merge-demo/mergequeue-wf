@@ -2642,7 +2642,6 @@ genesitic
 gymnastics
 genethliacal
 gharri
-gabelled
 gametophyte
 grendel
 geraty
@@ -3226,6 +3225,7 @@ glycans
 gazon
 gabler
 guildsman
+gabelled
 glaze
 geomantically
 grangerism
