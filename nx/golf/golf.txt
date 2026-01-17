@@ -1693,6 +1693,7 @@ gamelion
 gropers
 gif
 gastrodermal
+gummatous
 grandisonianism
 groundplot
 guayabo
@@ -10465,7 +10466,6 @@ gummaking
 gjetost
 gigs
 gundalow
-gummatous
 gerrymandered
 gametophagia
 gynaeolater
