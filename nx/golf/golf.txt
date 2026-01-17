@@ -5149,7 +5149,6 @@ garners
 grenelle
 glassiness
 glasslikeness
-garrya
 griffins
 gwag
 granza
@@ -6896,6 +6895,7 @@ grand
 grisettish
 graphics
 gorbal
+garrya
 guaranty
 greffotome
 goolah
