@@ -11395,7 +11395,6 @@ counterscoff
 cellulomonadeae
 chemotroph
 chlorpicrin
-chlorpromazine
 cheerfulsome
 ciboule
 chlorsalol
@@ -20002,6 +20001,7 @@ cany
 cofeoffee
 commatic
 cubbish
+chlorpromazine
 chainplate
 conductive
 commeasurable
