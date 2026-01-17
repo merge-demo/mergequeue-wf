@@ -1968,7 +1968,6 @@ fillock
 fallacious
 fabricate
 fernticle
-fibratus
 falconers
 farset
 farting
@@ -3503,6 +3502,7 @@ fighting
 futtock
 formboard
 favillae
+fibratus
 fumaroid
 figshell
 forbare
