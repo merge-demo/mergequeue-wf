@@ -3587,6 +3587,7 @@ bathylithic
 bootless
 bespouse
 buckwagon
+bedog
 bipinnaria
 bathymetry
 bathymetrical
@@ -15707,7 +15708,6 @@ botulismus
 blastomycetes
 bewildered
 burr
-bedog
 beholder
 braggiest
 beretta
