@@ -14433,6 +14433,7 @@ conservable
 cirripedial
 centiare
 cowled
+crowstone
 conferrers
 crosscrosslet
 charades
@@ -30111,7 +30112,6 @@ crowstepped
 citee
 chirological
 crowstick
-crowstone
 camber
 crowtoe
 calycanthaceae
