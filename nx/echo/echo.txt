@@ -2565,7 +2565,6 @@ eupnea
 ephemeromorph
 ensete
 entozoic
-exesion
 ela
 epiphytal
 encastage
@@ -6203,6 +6202,7 @@ ennoblement
 estuant
 euryhaline
 embarcadero
+exesion
 exaspidean
 enchannel
 exorcizing
