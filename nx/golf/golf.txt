@@ -1540,7 +1540,6 @@ gladsome
 garotted
 goutish
 gaolage
-gardenhood
 glairing
 guaxima
 gerbille
@@ -5567,6 +5566,7 @@ gloomingly
 gastroparietal
 gazingly
 garring
+gardenhood
 gemse
 gamodeme
 gloams
