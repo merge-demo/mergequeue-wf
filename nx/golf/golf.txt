@@ -429,7 +429,6 @@ garrote
 goldless
 galei
 geeldikkop
-globelet
 gynecotelic
 glandlike
 garliclike
@@ -3635,6 +3634,7 @@ grenadin
 gangues
 gingko
 garmentworker
+globelet
 glowing
 ganglions
 gymnorhina
