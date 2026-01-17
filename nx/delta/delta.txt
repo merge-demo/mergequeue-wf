@@ -2708,7 +2708,6 @@ decorable
 department
 deist
 dissimulator
-delectable
 duetto
 decorate
 defenses
@@ -17114,6 +17113,7 @@ dematerialise
 divvers
 drunkenness
 dassent
+delectable
 decuries
 deuteronomy
 decine
