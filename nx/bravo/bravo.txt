@@ -4256,7 +4256,6 @@ bedung
 begaud
 begat
 beardless
-behooveful
 beautifier
 bishopbird
 banff
@@ -11749,6 +11748,7 @@ bartlett
 bobby
 burlily
 bobbin
+behooveful
 bolivias
 bobbinite
 biolyses
