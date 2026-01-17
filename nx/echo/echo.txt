@@ -5046,7 +5046,6 @@ euhemerist
 erythrolysis
 endia
 equerry
-elaeomargaric
 enrolled
 extraordinaries
 eclairs
@@ -10182,6 +10181,7 @@ extravagances
 exertion
 expressness
 embargoed
+elaeomargaric
 endocarpoid
 elenctical
 elodeaceae
