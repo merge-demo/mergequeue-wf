@@ -8094,7 +8094,6 @@ gastronomy
 gata
 gunstock
 grandpapa
-grunting
 glykopectic
 geophysicists
 guglia
@@ -8868,6 +8867,7 @@ galleys
 gallus
 globate
 griege
+grunting
 gm
 guatemalans
 girrit
