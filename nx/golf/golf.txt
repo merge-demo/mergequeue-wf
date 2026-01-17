@@ -1976,7 +1976,6 @@ grossing
 gaultherin
 gangers
 gruelly
-gaunty
 gypsite
 genealogically
 greywacke
@@ -4670,6 +4669,7 @@ glossae
 gazook
 gastronomist
 generalizing
+gaunty
 germanyl
 gruys
 graafian
