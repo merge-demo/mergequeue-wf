@@ -5021,7 +5021,6 @@ flamers
 foxing
 fiddley
 flamy
-flowchart
 foresense
 fan
 floorages
@@ -6721,6 +6720,7 @@ fruitery
 fancymonger
 fatuousness
 farmeress
+flowchart
 flies
 fecche
 fantaseid
