@@ -3779,6 +3779,7 @@ gherkins
 gyrencephalic
 ghostier
 galah
+ganner
 geodetically
 glumelike
 giftbook
@@ -4007,7 +4008,6 @@ gyro
 grice
 guerillas
 gumbotil
-ganner
 gimping
 goffer
 gouges
