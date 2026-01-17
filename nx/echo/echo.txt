@@ -5724,7 +5724,6 @@ enantiosis
 engild
 engilding
 empirism
-exceptionality
 exophthalmic
 excrementive
 engined
@@ -12561,6 +12560,7 @@ expressmen
 ergonovine
 eupathy
 excepable
+exceptionality
 enuring
 electropathic
 echuca
