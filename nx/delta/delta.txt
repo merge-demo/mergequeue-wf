@@ -6909,6 +6909,7 @@ despatches
 deoxidise
 diplophonic
 despecialization
+diffraction
 disembarrassed
 dispute
 domineer
@@ -17396,7 +17397,6 @@ druith
 decollimate
 dividual
 droppage
-diffraction
 didascaly
 direction
 decream
