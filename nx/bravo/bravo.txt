@@ -7650,7 +7650,6 @@ bewitchment
 bounderishly
 bewizard
 blanca
-bombycina
 blandished
 bimolecular
 baric
@@ -14741,6 +14740,7 @@ bodings
 brasque
 bloc
 bullwhack
+bombycina
 brassages
 brassard
 briefing
