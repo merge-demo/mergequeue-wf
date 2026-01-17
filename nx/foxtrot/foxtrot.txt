@@ -3345,6 +3345,7 @@ frighteningness
 featheredge
 forchase
 fameworthy
+factabling
 fruggan
 fluorides
 fullmouthedly
@@ -9648,7 +9649,6 @@ filigraned
 fullering
 forepad
 forgone
-factabling
 foller
 flaser
 futilitarian
