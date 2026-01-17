@@ -2081,6 +2081,7 @@ alphabets
 argon
 aeropulse
 acheronian
+aforetime
 asdics
 achroous
 advisors
@@ -14796,7 +14797,6 @@ antichreses
 antichrist
 amphiploid
 antichristianism
-aforetime
 anglicisms
 antepagmenta
 aiwain
