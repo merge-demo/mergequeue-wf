@@ -2190,7 +2190,6 @@ enfoil
 exterminatress
 enanthematous
 esophagostenosis
-eyestring
 ensorceling
 electropult
 euphonise
@@ -10782,6 +10781,7 @@ excystation
 ectopic
 extrasystolic
 ebb
+eyestring
 elderbush
 euphonic
 enid
