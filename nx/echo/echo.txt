@@ -2788,7 +2788,6 @@ ennobler
 etymologies
 envoi
 ennoblment
-eleemosynary
 etymology
 epizoon
 engorge
@@ -5507,6 +5506,7 @@ energizers
 edify
 earthquave
 epipleural
+eleemosynary
 esterifiable
 erythrocatalysis
 epiploic
