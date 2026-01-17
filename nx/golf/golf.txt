@@ -508,7 +508,6 @@ graff
 galivants
 geneticism
 gleamiest
-goldi
 goldthread
 gustily
 gallbladders
@@ -10099,6 +10098,7 @@ gigman
 galivanting
 glore
 gudgeon
+goldi
 griffes
 groupoids
 graecize
