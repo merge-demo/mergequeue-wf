@@ -5144,6 +5144,7 @@ glassiness
 glasslikeness
 garrya
 griffins
+gwag
 granza
 granuloma
 gastroptosia
@@ -8956,7 +8957,6 @@ gaffe
 gigi
 gladelike
 grandiloquous
-gwag
 globy
 galluot
 galvanising
