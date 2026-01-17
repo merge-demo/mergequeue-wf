@@ -3644,7 +3644,6 @@ ganglions
 gymnorhina
 geomagnetist
 grugru
-gunslinging
 ghettoizes
 gymkhana
 geogony
@@ -8582,6 +8581,7 @@ graveolent
 gymnoderinae
 gozzan
 grainsman
+gunslinging
 gramineae
 graverobbing
 girons
