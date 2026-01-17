@@ -4452,7 +4452,6 @@ adventive
 abysses
 adventively
 apaesthesia
-automobilism
 ametabolous
 amounting
 acrography
@@ -15956,6 +15955,7 @@ arcadianly
 antiquation
 adnex
 accomplishing
+automobilism
 autoloading
 artery
 antirabies
