@@ -2911,6 +2911,7 @@ grasschat
 goombay
 generatrices
 gileadite
+globeflower
 galvvanoscopy
 gnatsnap
 gibbing
@@ -4620,7 +4621,6 @@ genderless
 girellidae
 greenhorns
 gravicembalo
-globeflower
 greenness
 gutturalized
 gilim

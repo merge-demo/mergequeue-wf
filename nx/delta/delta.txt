@@ -8594,6 +8594,7 @@ diapirs
 diaplases
 disnaturalization
 disk
+deteriority
 deprived
 destroying
 doormaking
@@ -13320,7 +13321,6 @@ delegalized
 distillates
 dispraising
 dentiloquist
-deteriority
 dasheen
 dispraisingly
 diversion
