@@ -2667,7 +2667,6 @@ editchar
 encasserole
 electrophoretogram
 expansure
-exturb
 estimated
 enthralled
 eave
@@ -12227,6 +12226,7 @@ exsurge
 enchases
 expertized
 epitritic
+exturb
 eloiner
 encommon
 expounding
