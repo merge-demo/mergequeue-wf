@@ -9060,7 +9060,6 @@ geog
 gobletful
 gravenstein
 galvanothermy
-gaminess
 guiles
 geohydrologic
 groomer
@@ -9542,6 +9541,7 @@ graceful
 goniotropous
 gabbroid
 guelphish
+gaminess
 grimines
 grundlov
 group
