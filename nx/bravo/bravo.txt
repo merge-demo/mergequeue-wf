@@ -4599,7 +4599,6 @@ bozo
 beseech
 buglewort
 bicellular
-backjaw
 bedaub
 besuit
 bundeli
@@ -7636,6 +7635,7 @@ bhungi
 bemadams
 boasting
 brisbane
+backjaw
 bloodies
 bewitched
 bewitcher
