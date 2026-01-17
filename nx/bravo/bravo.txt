@@ -4548,7 +4548,6 @@ brigadiership
 barricaded
 burnsides
 batata
-balushai
 becudgels
 bosons
 bilixanthin
@@ -8394,6 +8393,7 @@ beadeyes
 bown
 bonamano
 bemuddled
+balushai
 brulot
 baryphony
 beveto
