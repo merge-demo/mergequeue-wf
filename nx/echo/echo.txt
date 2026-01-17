@@ -651,7 +651,6 @@ echeneidoid
 enchant
 ephesine
 enneaeteric
-empyreumatic
 evincement
 expunges
 emerald
@@ -2748,6 +2747,7 @@ electrotheraputic
 elocution
 emyds
 esophagus
+empyreumatic
 elaeopten
 electrothermal
 ephippial
