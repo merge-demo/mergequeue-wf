@@ -4426,6 +4426,7 @@ floorshifts
 footnotes
 forbearances
 frenums
+floruits
 flexive
 forky
 forecomingness
@@ -7722,7 +7723,6 @@ furmenty
 figary
 fixed
 flaithship
-floruits
 faeculence
 flashlike
 foregift
