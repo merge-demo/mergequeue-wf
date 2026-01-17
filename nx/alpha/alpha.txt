@@ -13757,7 +13757,6 @@ anagallis
 aventurin
 africanism
 anglicist
-acoustician
 antonovics
 amidoacetic
 averred
@@ -20346,6 +20345,7 @@ afterdamp
 arsenolite
 aphidious
 attached
+acoustician
 arsenophen
 agrafes
 agree

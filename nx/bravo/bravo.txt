@@ -6398,7 +6398,6 @@ biozone
 bilbi
 belgium
 benzoglyoxaline
-bastioned
 benzohydrol
 becuna
 blankness
@@ -9670,6 +9669,7 @@ byblis
 bothridia
 bishop
 bummer
+bastioned
 baskonize
 brince
 bishopdom
