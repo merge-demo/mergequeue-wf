@@ -4878,7 +4878,6 @@ distributer
 diluting
 deigns
 diminuendo
-diosmosis
 demonologer
 demonologically
 demonomist
@@ -6217,6 +6216,7 @@ decemvir
 derivativeness
 dermatomuscular
 dacoit
+diosmosis
 derivedness
 dawks
 deriver
