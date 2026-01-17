@@ -7750,7 +7750,6 @@ cermets
 commissar
 cern
 charioteership
-cavaliership
 cityward
 croquet
 cerniture
@@ -11273,6 +11272,7 @@ chloroacetone
 childe
 conservation
 chloroamide
+cavaliership
 chloroamine
 chloroaurate
 chloroaurite
