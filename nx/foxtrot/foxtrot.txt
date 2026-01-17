@@ -6505,7 +6505,6 @@ fafnir
 formularization
 flagelliferous
 fairlike
-floatmaker
 fireworm
 fatiguabilities
 fossae
@@ -10795,6 +10794,7 @@ focuses
 flat
 felup
 fomentation
+floatmaker
 footrope
 flagstaves
 fausant
