@@ -5041,6 +5041,7 @@ flammule
 fomites
 fatidic
 flatness
+fascinery
 fodders
 formalize
 ferrugination
@@ -9339,7 +9340,6 @@ fertilities
 fretwise
 ferruginated
 fantaisie
-fascinery
 faradomuscular
 frontispieced
 francas
