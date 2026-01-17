@@ -17150,7 +17150,6 @@ apollonian
 apollonic
 antalkaline
 apology
-apologiae
 asarone
 adenogenesis
 aselline
@@ -25009,6 +25008,7 @@ aganglionic
 antheriferous
 applanation
 amphitheatric
+apologiae
 anthroic
 alliterating
 awhile
