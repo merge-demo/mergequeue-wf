@@ -2950,7 +2950,6 @@ actaea
 aphanes
 austerer
 aproterodont
-actaeon
 actg
 actualised
 antiecclesiasticism
@@ -21155,6 +21154,7 @@ acephalan
 aselar
 associator
 asellate
+actaeon
 apostates
 anthracitiferous
 agnathic
