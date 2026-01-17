@@ -9130,7 +9130,6 @@ economization
 encycl
 excursory
 escheating
-erythroxylon
 embouchment
 ethnoses
 epitela
@@ -10117,6 +10116,7 @@ eutopia
 erythrophagous
 euphausiacea
 exemplificational
+erythroxylon
 earlike
 entities
 ethereality
