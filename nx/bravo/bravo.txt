@@ -4190,7 +4190,6 @@ beastlike
 bodywise
 bengalic
 bogman
-bumpkinish
 brinsell
 beastlily
 beclown
@@ -11231,6 +11230,7 @@ boxen
 bedclothes
 bronchiloquy
 boulevardiers
+bumpkinish
 bicyclists
 burgraviate
 blaws
