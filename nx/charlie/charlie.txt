@@ -3393,6 +3393,7 @@ capotasto
 capotastos
 choicest
 chronographically
+clavicorn
 celsius
 cobias
 carrots
@@ -15723,7 +15724,6 @@ clavicittern
 contraction
 clavicle
 cannas
-clavicorn
 clavicornes
 clavicular
 clavicularium
