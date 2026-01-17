@@ -6597,6 +6597,7 @@ feroher
 faintish
 flameless
 filmlands
+floorless
 fjords
 frills
 falter
@@ -8688,7 +8689,6 @@ functionate
 fingerfishes
 faddishly
 formicate
-floorless
 felt
 fearfully
 farmhand
