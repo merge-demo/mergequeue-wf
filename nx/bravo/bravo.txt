@@ -8995,7 +8995,6 @@ broomshank
 bioengineering
 bestialize
 basidiomycetes
-bioethic
 beaverpelt
 bromyrite
 breathless
@@ -10099,6 +10098,7 @@ boomerang
 bucolic
 blacklisting
 bullheadedness
+bioethic
 bradynosus
 bizel
 bizonal

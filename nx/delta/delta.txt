@@ -14420,7 +14420,6 @@ divan
 dipolsphene
 depaint
 draining
-doley
 demicadence
 decompiler
 divans
@@ -17471,6 +17470,7 @@ designless
 dimwitted
 drowsihead
 drowte
+doley
 ductless
 dreads
 defleas
