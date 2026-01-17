@@ -9000,7 +9000,6 @@ eumerism
 exophthalmos
 erythema
 erythemal
-elenchical
 enterokinesia
 enormious
 erythemas
@@ -12620,6 +12619,7 @@ elate
 eranthemum
 extramurally
 emeus
+elenchical
 elephantidae
 errors
 equiaxial
