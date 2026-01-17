@@ -6806,6 +6806,7 @@ beaut
 barytosulphate
 badian
 bookery
+baronages
 bersagliere
 brittles
 bonnocks
@@ -16922,7 +16923,6 @@ bester
 betorn
 bashyle
 birostrated
-baronages
 balneographer
 bedimpling
 buffoonishness
