@@ -1353,6 +1353,7 @@ enteroid
 elohist
 epyllia
 electrocardiogram
+exodium
 emesis
 epicranius
 effectiveness
@@ -2005,7 +2006,6 @@ enfierce
 etymologer
 extraterrestrials
 encephalomalacia
-exodium
 eurasians
 exteriorise
 edgeman
