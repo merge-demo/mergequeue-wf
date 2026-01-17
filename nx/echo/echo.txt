@@ -8813,6 +8813,7 @@ expedients
 extime
 enterozoan
 el
+efflorescency
 ekename
 equidistant
 erasers
@@ -12246,7 +12247,6 @@ emarginating
 ensignry
 evilwishing
 entrochus
-efflorescency
 eta
 embarring
 enteromegaly
