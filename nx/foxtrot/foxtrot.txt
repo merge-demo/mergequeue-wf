@@ -3090,7 +3090,6 @@ frozen
 frenching
 faddiness
 fisherboy
-flabby
 ferngale
 fipple
 festoon
@@ -6602,6 +6601,7 @@ frills
 falter
 facility
 forgie
+flabby
 frogeater
 farweltered
 fip
