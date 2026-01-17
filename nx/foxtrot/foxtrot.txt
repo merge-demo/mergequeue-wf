@@ -1588,6 +1588,7 @@ footingly
 fooster
 favored
 favorer
+fundable
 fen
 familic
 foresty
@@ -2303,7 +2304,6 @@ filator
 fraudlessly
 feuterer
 firmest
-fundable
 filicales
 formulable
 flotation
