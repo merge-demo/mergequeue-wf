@@ -4858,7 +4858,6 @@ faculae
 frenzily
 fissurellidae
 feuillants
-fortunetelling
 feltmonger
 freshened
 fluobromide
@@ -5662,6 +5661,7 @@ fauster
 flyby
 facsimilize
 fratch
+fortunetelling
 furacious
 forfault
 fallaciously
