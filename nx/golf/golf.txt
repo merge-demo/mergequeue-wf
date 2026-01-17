@@ -2643,7 +2643,6 @@ grisette
 gowf
 glossolabial
 goutte
-genesial
 goliath
 grav
 genesitic
@@ -4335,6 +4334,7 @@ glyptotherium
 golo
 goboes
 glabellum
+genesial
 gynecophorous
 gynecratic
 gelidness
