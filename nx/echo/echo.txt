@@ -2231,6 +2231,7 @@ equips
 erythemic
 extromit
 emissitious
+eminent
 ectomorphic
 empathy
 electron
@@ -3936,7 +3937,6 @@ entomotomy
 extraboldface
 etruscans
 extramolecular
-eminent
 easternized
 eminently
 enamored
