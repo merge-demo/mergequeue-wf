@@ -4736,6 +4736,7 @@ diaphototropism
 disbudding
 dpt
 dilated
+dors
 diffeomorphism
 detours
 dismisser
@@ -9086,7 +9087,6 @@ diluvy
 dictyota
 defiances
 dictyotales
-dors
 dictyotic
 dailiness
 devow
