@@ -15,6 +15,7 @@ cabaho
 cabal
 condylarthrous
 chaenomeles
+collegian
 cows
 corkmaking
 cabaletta
@@ -15501,7 +15502,6 @@ coerected
 confraternization
 congratulation
 claroes
-collegian
 claros
 chemotaxis
 contraposition
