@@ -10074,7 +10074,6 @@ eledoisin
 entitlement
 exanguin
 ethanolamine
-ephemeralness
 enwrite
 ethanolysis
 excretion
@@ -12823,6 +12822,7 @@ empacket
 elinguated
 equinities
 expansive
+ephemeralness
 equirotal
 exothecal
 emboss
