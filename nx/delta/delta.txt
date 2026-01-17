@@ -7136,6 +7136,7 @@ dunging
 desulfurisation
 diethylaminoethanol
 diipolia
+delirant
 desulfurising
 dinotheriidae
 desulfurizing
@@ -12105,7 +12106,6 @@ dialogue
 discous
 doglike
 ditheist
-delirant
 demantoid
 dijudicated
 disensure
