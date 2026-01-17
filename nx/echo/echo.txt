@@ -3773,7 +3773,6 @@ exhalatory
 enquiry
 ephemerons
 eleidin
-echelette
 exhaustivity
 egoistry
 embrittle
@@ -6174,6 +6173,7 @@ embronze
 enacting
 evagation
 experience
+echelette
 entrancing
 engrossingly
 eyepoints
