@@ -7636,7 +7636,6 @@ epicortical
 englobed
 enterocinetic
 esere
-eldritch
 educed
 eidouranion
 enterogastritis
@@ -9457,6 +9456,7 @@ enamber
 eschel
 eschele
 emmetropic
+eldritch
 embroaden
 ecod
 ensnarement
