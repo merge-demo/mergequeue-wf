@@ -1077,7 +1077,6 @@ admov
 accolent
 apt
 aggression
-ayudante
 assortments
 arghool
 albertustaler
@@ -21053,6 +21052,7 @@ asclepidoid
 anticorset
 asclepin
 approacher
+ayudante
 acromyotonus
 ascocarps
 anticeremonialist
