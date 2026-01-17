@@ -8409,7 +8409,6 @@ bygone
 bathhouses
 bist
 blousiest
-benthic
 bribed
 biddableness
 bitore
@@ -9200,6 +9199,7 @@ butyraceous
 blanketed
 biotelemetries
 betulinol
+benthic
 biotical
 bobwhite
 bespreads
