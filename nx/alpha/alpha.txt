@@ -952,7 +952,6 @@ afterhold
 amazons
 azoflavine
 assents
-absorbing
 absorpt
 absorptiometer
 allegeable
@@ -13639,6 +13638,7 @@ anointments
 articulation
 adulterer
 anticipators
+absorbing
 astrometrical
 aunt
 absolutization
