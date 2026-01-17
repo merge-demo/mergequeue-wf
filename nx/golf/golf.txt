@@ -8039,7 +8039,6 @@ globing
 glottologies
 gnomonologically
 gasifiable
-gled
 galline
 gainer
 guttee
@@ -9264,6 +9263,7 @@ gibberosity
 grippleness
 galerite
 grazier
+gled
 giftedness
 gramophonic
 groom
