@@ -6146,6 +6146,7 @@ enrols
 evalue
 equivote
 enmity
+eunuchism
 eparchean
 entracte
 encumbering
@@ -10837,7 +10838,6 @@ ethicalism
 exequatur
 eighteenth
 emanation
-eunuchism
 endoprocta
 euodic
 entrepots
