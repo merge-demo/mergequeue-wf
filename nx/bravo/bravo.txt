@@ -647,7 +647,6 @@ bullroarer
 babua
 briars
 barren
-brioche
 bicorne
 bathool
 bombo
@@ -3850,6 +3849,7 @@ blistery
 blvd
 balsas
 bohireen
+brioche
 bavette
 baviaantje
 bulldogism
