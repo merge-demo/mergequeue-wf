@@ -214,6 +214,7 @@ gradefinder
 griece
 gunsling
 gelasimus
+glabbella
 grandsir
 gadder
 gangdom
@@ -2623,7 +2624,6 @@ gomerel
 guetare
 generative
 glossologist
-glabbella
 gigartinaceous
 gitaligenin
 gaurs
