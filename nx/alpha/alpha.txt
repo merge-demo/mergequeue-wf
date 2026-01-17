@@ -2948,6 +2948,7 @@ ankus
 actaea
 aphanes
 austerer
+aproterodont
 actaeon
 actg
 actualised
@@ -18370,7 +18371,6 @@ anaclinal
 alumna
 alloplasmatic
 anteport
-aproterodont
 aspredinidae
 automen
 arcuately
