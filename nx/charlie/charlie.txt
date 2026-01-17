@@ -23583,7 +23583,6 @@ continuer
 cancellate
 cytostome
 continuers
-corseleted
 columns
 coccinellid
 continuity
@@ -23675,6 +23674,7 @@ contradicter
 causatum
 cabezons
 classwise
+corseleted
 colliquament
 chancefulness
 coruscative
