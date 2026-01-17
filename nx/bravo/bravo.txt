@@ -979,7 +979,6 @@ bayano
 bifurcate
 birlie
 bewitch
-bipalium
 baycuru
 baidarkas
 binders
@@ -15599,6 +15598,7 @@ bardelle
 barometer
 beavers
 brewsterite
+bipalium
 barbacan
 brises
 bumbard
