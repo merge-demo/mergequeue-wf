@@ -8074,7 +8074,6 @@ algidity
 algidities
 algidness
 agriologist
-aeronautics
 afft
 angeline
 anight
@@ -19897,6 +19896,7 @@ aeolis
 armlock
 autoconvection
 armoracia
+aeronautics
 albertite
 akuammin
 adonises
