@@ -6925,7 +6925,6 @@ aiwan
 annamitic
 adobo
 aspirata
-aywhere
 aizoon
 alkenyl
 antitryptic
@@ -9937,6 +9936,7 @@ alisma
 ambisinister
 amblypodous
 ambit
+aywhere
 albertinian
 apriority
 ambital
