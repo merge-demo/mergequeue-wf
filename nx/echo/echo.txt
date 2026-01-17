@@ -5302,7 +5302,6 @@ elusiveness
 engrafting
 ecmnesia
 entopterygoid
-excerpt
 extravagation
 enrolles
 ethylmorphine
@@ -8727,6 +8726,7 @@ esthesiogenic
 elastometry
 electroencephalograph
 equisided
+excerpt
 equisignal
 eyelast
 erethitic
