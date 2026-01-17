@@ -3021,7 +3021,6 @@ brahma
 bartended
 barrera
 beared
-bidirectionally
 bottstick
 bartending
 blasts
@@ -9911,6 +9910,7 @@ batakan
 breaghe
 brasilete
 biconcave
+bidirectionally
 bytownitite
 babysat
 beneficiaries
