@@ -6926,7 +6926,6 @@ celsian
 cashbox
 celt
 celtiberi
-circularizers
 cofaster
 celtiberian
 celticize
@@ -10333,6 +10332,7 @@ chickwit
 chicle
 chicly
 chicness
+circularizers
 chantries
 caryocaraceous
 coryneum
