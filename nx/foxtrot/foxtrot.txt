@@ -829,7 +829,6 @@ folkloristic
 fustanelle
 fantasticalness
 fulgide
-flautists
 fightings
 frisk
 fowl
@@ -4082,6 +4081,7 @@ formulation
 febris
 forgetive
 formenic
+flautists
 frimaire
 frecked
 festoony
