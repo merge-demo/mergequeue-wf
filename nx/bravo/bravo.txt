@@ -1858,6 +1858,7 @@ battlepiece
 bollito
 bandeau
 betula
+bedtick
 bancus
 beethoven
 backstabber
@@ -4626,7 +4627,6 @@ bibliopolery
 beckon
 baptise
 boden
-bedtick
 bailliage
 butterine
 bedchairs
