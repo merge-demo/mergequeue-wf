@@ -9903,7 +9903,6 @@ botcher
 burnsian
 banderols
 baldpated
-bitmap
 buccaneering
 bimbos
 bito
@@ -14906,6 +14905,7 @@ backscratching
 bloodberry
 breasthook
 breadearning
+bitmap
 belage
 basigamy
 breaden
