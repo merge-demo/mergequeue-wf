@@ -5812,7 +5812,6 @@ copperheads
 contribute
 cervinae
 catchwork
-cabasset
 chartulas
 counterinsurgents
 catclaw
@@ -6982,6 +6981,7 @@ carane
 cementite
 cannery
 cementitious
+cabasset
 carinaria
 cementmaker
 catapan
