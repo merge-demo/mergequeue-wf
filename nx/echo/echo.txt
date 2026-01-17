@@ -569,7 +569,6 @@ electrophorus
 elaborated
 eching
 echinidan
-expy
 eclipsises
 edeagra
 epithelioceptor
@@ -4483,6 +4482,7 @@ encarnalized
 embreach
 econometrically
 elevens
+expy
 encarnalizing
 encarpa
 encarpium
