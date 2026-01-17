@@ -8743,6 +8743,7 @@ enlighteners
 experimentator
 equitemporaneous
 eluted
+edo
 exoculated
 ethysulphuric
 effulgence
@@ -11096,7 +11097,6 @@ estocada
 electors
 expunging
 endosome
-edo
 economiser
 egoity
 ekacaesium
