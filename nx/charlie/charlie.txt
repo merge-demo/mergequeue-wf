@@ -10902,7 +10902,6 @@ chirks
 contrariety
 chlorotrifluoroethylene
 chirmed
-chirming
 chirms
 crumena
 chirocosmetics
@@ -23785,6 +23784,7 @@ contrarotation
 conjunctival
 centrifugal
 contrascriptural
+chirming
 contrast
 costocolic
 classmen
