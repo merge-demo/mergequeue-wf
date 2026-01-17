@@ -385,6 +385,7 @@ glumpily
 goatskins
 grandmamma
 guisian
+gleys
 gallnuts
 gps
 galant
@@ -5288,7 +5289,6 @@ gibbals
 guardianships
 girouette
 gadding
-gleys
 grindery
 giraffa
 grissons
