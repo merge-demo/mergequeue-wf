@@ -3133,6 +3133,7 @@ foam
 foremistress
 flavourless
 forcipated
+fairgoing
 fibroferrite
 fundic
 firewarden
@@ -6296,7 +6297,6 @@ flrie
 feudum
 foreread
 fumade
-fairgoing
 flaxes
 fulgurate
 flysches
