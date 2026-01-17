@@ -8553,6 +8553,7 @@ backboned
 bafaro
 butyryl
 balzacian
+binmen
 bearhound
 bisections
 biliteral
@@ -11753,7 +11754,6 @@ bobbish
 bais
 bisync
 bobcats
-binmen
 bipeds
 bakes
 buddles
