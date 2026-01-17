@@ -6717,7 +6717,6 @@ fastuous
 fireweeds
 fairgrass
 fruitery
-fancymonger
 fatuousness
 farmeress
 flowchart
@@ -10172,6 +10171,7 @@ flammability
 forespake
 fatsoes
 flanque
+fancymonger
 frisking
 filching
 froth
