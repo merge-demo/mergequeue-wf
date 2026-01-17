@@ -8852,7 +8852,6 @@ equiprobabilist
 egyptologic
 encrypt
 emptive
-eremic
 egregiousness
 eremitism
 euploidy
@@ -9074,6 +9073,7 @@ entergogenic
 extravascular
 erythrocytoschisis
 engaud
+eremic
 epenthesis
 editorialist
 ergotamine
