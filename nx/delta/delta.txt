@@ -5864,7 +5864,6 @@ darling
 diachoresis
 domal
 demeaning
-deafish
 disconcert
 deprecative
 dissolvable
@@ -7937,6 +7936,7 @@ dex
 dignify
 democritean
 dresden
+deafish
 dexes
 desertward
 dauntlessly
