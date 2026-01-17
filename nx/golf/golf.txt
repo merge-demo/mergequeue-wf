@@ -2350,7 +2350,6 @@ gamine
 geomaly
 gelatinizer
 gradates
-giornatate
 gadbee
 gavials
 guaiacols
@@ -2370,6 +2369,7 @@ guilder
 gibbartas
 guajiras
 gyrostatic
+giornatate
 greengrocer
 gomart
 grubbiness
