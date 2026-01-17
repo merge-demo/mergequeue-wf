@@ -1919,6 +1919,7 @@ foamless
 furtherance
 feteritas
 foldstool
+feints
 federalistic
 frogger
 furling
@@ -5410,7 +5411,6 @@ flb
 fantasque
 flutey
 forehand
-feints
 fifteen
 feasts
 fowlpoxes
