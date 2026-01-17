@@ -19832,6 +19832,7 @@ aginner
 araguato
 armhole
 agnomen
+afterbay
 acapsular
 adeptest
 armida
@@ -23983,7 +23984,6 @@ apertness
 aryanization
 autocarp
 ambiences
-afterbay
 anthomyiid
 achatinella
 angiometer
