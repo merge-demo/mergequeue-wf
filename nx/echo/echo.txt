@@ -2744,6 +2744,7 @@ excitors
 enduros
 electrotherapy
 electrotheraputic
+elocution
 emyds
 esophagus
 elaeopten
@@ -6619,7 +6620,6 @@ exodontia
 eruditional
 extramarginal
 eurygnathous
-elocution
 equidivision
 enwrapment
 enlinking
