@@ -8996,6 +8996,7 @@ anthracoid
 alloxuraemia
 alloxuremia
 apnoeas
+apsidal
 anadicrotic
 alphyl
 amidoacetal
@@ -15106,7 +15107,6 @@ antiejaculation
 alterants
 almners
 allotrope
-apsidal
 acrothoracica
 antiemetic
 antiempiric
