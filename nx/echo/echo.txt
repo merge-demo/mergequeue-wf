@@ -4842,7 +4842,6 @@ eccoproticophoric
 escape
 erugate
 epiphyll
-estrogenicity
 embrangle
 elasticizer
 episcopize
@@ -6098,6 +6097,7 @@ enlightenment
 enticing
 eroticization
 eructates
+estrogenicity
 england
 embryonic
 eunomianism
