@@ -8050,7 +8050,6 @@ ganglionectomy
 globing
 glottologies
 gnomonologically
-gasifiable
 galline
 gainer
 guttee
@@ -8434,6 +8433,7 @@ guisards
 glossophagine
 gargety
 guns
+gasifiable
 gasterosteiform
 ginner
 gigabytes
