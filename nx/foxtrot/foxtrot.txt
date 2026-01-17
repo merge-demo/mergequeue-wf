@@ -9443,7 +9443,6 @@ foundrymen
 fumbled
 federator
 frocks
-frostbiting
 forlore
 forestership
 forewit
@@ -10019,6 +10018,7 @@ fumatorium
 freckled
 fa
 frigage
+frostbiting
 flambeau
 frigates
 flocculated

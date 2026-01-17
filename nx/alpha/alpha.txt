@@ -7894,7 +7894,6 @@ alethopteis
 afterword
 acritical
 amatungula
-alethopteroid
 archidium
 alethoscope
 airwaves
@@ -10187,6 +10186,7 @@ assess
 amenance
 amydon
 amending
+alethopteroid
 amoebian
 atopy
 amendment
