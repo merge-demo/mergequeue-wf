@@ -23345,7 +23345,6 @@ consumptional
 consumptions
 consumptive
 consumptively
-coordinates
 consumptives
 crambinae
 cromorna
@@ -30722,6 +30721,7 @@ cuirassier
 commonplacely
 conusor
 cuishes
+coordinates
 cyanometer
 cremone
 chaps
