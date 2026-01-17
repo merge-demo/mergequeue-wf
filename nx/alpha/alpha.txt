@@ -5527,7 +5527,6 @@ andiroba
 absolute
 afters
 amphibrach
-allomerism
 attentat
 apholate
 aftershaft
@@ -21305,6 +21304,7 @@ antiexporting
 antevenient
 arbitrary
 alleger
+allomerism
 amafingo
 aceanthrene
 atretic
