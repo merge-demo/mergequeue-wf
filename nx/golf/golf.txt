@@ -4503,7 +4503,6 @@ gammelost
 graminology
 gommelin
 grandsire
-gourdiness
 generics
 goas
 giocoso
@@ -4784,6 +4783,7 @@ gumshoe
 grudgingly
 genista
 globosphaerite
+gourdiness
 gastrovascular
 galeae
 gowland
