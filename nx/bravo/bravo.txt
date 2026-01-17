@@ -347,6 +347,7 @@ brushes
 belches
 backfills
 bequeath
+beche
 backfires
 bobeche
 brontolite
@@ -11243,7 +11244,6 @@ biglandular
 beheadal
 blossomless
 baptize
-beche
 bizonia
 bogbeans
 biotoxins
