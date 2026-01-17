@@ -3943,7 +3943,6 @@ etruscans
 extramolecular
 easternized
 eminently
-enamored
 expressionless
 edentulous
 englory
@@ -13914,6 +13913,7 @@ ectoderm
 extramoral
 electee
 encoffin
+enamored
 epimerizing
 exorcized
 extumescence
