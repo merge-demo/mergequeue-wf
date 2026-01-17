@@ -434,7 +434,6 @@ experts
 electrepeter
 entelodont
 eighteenfold
-educ
 exoneural
 enterorrhea
 ebionitism
@@ -8607,6 +8606,7 @@ egall
 equidimensional
 equidist
 exrx
+educ
 equispatial
 elater
 endophytically
