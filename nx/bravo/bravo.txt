@@ -2138,6 +2138,7 @@ boxfishes
 banty
 betangle
 bedless
+bewith
 bribery
 bantu
 bantus
@@ -5063,7 +5064,6 @@ bloodthirst
 befamilied
 biogeography
 bemas
-bewith
 befeather
 becoming
 bootlessly
