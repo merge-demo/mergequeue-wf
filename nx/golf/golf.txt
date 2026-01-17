@@ -3170,7 +3170,6 @@ gersum
 gelosin
 grassplot
 gagster
-georgemas
 gullah
 grannam
 germanite
@@ -7512,6 +7511,7 @@ grunerite
 grapplement
 gomerals
 gasconaded
+georgemas
 gravitation
 gists
 gluttons
