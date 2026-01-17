@@ -1862,7 +1862,6 @@ bancus
 beethoven
 backstabber
 bandelette
-banderma
 banderol
 banderole
 bindings
@@ -14513,6 +14512,7 @@ breamed
 becivet
 braireau
 braises
+banderma
 butea
 braystone
 breeze
