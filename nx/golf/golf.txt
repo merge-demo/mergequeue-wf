@@ -3888,6 +3888,7 @@ gpcd
 gygis
 gibstaff
 greyhound
+ginkgoaceae
 gratefulness
 greyling
 greenbugs
@@ -9444,7 +9445,6 @@ grosgrains
 genuflector
 grossed
 grebes
-ginkgoaceae
 guerrillas
 grosshead
 granitization
