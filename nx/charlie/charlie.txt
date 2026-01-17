@@ -9912,7 +9912,6 @@ collocatory
 chemotaxonomic
 controls
 corocleisis
-carices
 chemotherapeutical
 clamlike
 chemotherapeutically
@@ -26930,6 +26929,7 @@ countermoved
 casebound
 cerebralist
 carlylese
+carices
 countermutiny
 counternarrative
 conceded
