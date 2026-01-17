@@ -1563,7 +1563,6 @@ efl
 efph
 endocystitis
 entocondylar
-empyesis
 endophytous
 electionary
 echograph
@@ -7135,6 +7134,7 @@ extinguishers
 endpaper
 epidendral
 envelops
+empyesis
 enduing
 encarnalise
 encyclopedia
