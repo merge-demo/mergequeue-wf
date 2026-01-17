@@ -1577,7 +1577,6 @@ frotteur
 faulkner
 funning
 fortyfold
-farcelike
 frisca
 filariidae
 farmtown
@@ -5188,6 +5187,7 @@ forewent
 faldistory
 fidejussion
 figureless
+farcelike
 flavaniline
 fluidacetextract
 freighting
