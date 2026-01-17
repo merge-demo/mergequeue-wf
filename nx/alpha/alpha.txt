@@ -3940,7 +3940,6 @@ approximatively
 amgarn
 auntlier
 adipomatous
-allophanamid
 adjutant
 anesthetic
 adjutator
@@ -21886,6 +21885,7 @@ asthenics
 assizes
 amphistome
 anilinophilous
+allophanamid
 assman
 antiproductively
 assmanship
