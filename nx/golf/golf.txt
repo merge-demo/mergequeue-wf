@@ -456,7 +456,6 @@ gabbroitic
 greenside
 gunong
 granadine
-glop
 gearset
 guardedly
 gymnospore
@@ -4563,6 +4562,7 @@ grubbers
 gorry
 girlies
 gypsology
+glop
 gymnotokous
 glib
 gypsophila
