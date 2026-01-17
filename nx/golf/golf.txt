@@ -4324,7 +4324,6 @@ guncotton
 gantang
 gruelled
 gomorrhean
-gesturing
 graveclothes
 goatlike
 gigantesque
@@ -7088,6 +7087,7 @@ geikia
 gesellschaft
 galyaks
 gliocyte
+gesturing
 gutturopalatal
 gastrosoph
 gelidity
