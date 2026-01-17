@@ -5409,7 +5409,6 @@ empyreum
 eophyte
 electrogild
 eccentrometer
-entosphenoid
 ectopatagia
 erthling
 electively
@@ -8804,6 +8803,7 @@ eudromias
 endanger
 etcetera
 exemplificative
+entosphenoid
 earlaps
 epistolise
 etherized
