@@ -1419,6 +1419,7 @@ graveyard
 gastrostegal
 gravitometer
 garnetter
+gliosis
 glyconeogenetic
 gamily
 governs
@@ -6144,7 +6145,6 @@ gigliato
 gallimaufry
 gyrous
 gurniad
-gliosis
 gastroid
 geitonogamous
 gyroma
