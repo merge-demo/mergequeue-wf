@@ -13326,6 +13326,7 @@ bitterhead
 boarish
 bedsonias
 bostanji
+bucorvus
 bosthoon
 bostonian
 banderillas
@@ -16797,7 +16798,6 @@ bugsha
 bemuddy
 bucolically
 ballett
-bucorvus
 billheading
 burrower
 branchiostegidae
