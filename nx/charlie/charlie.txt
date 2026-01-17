@@ -1132,7 +1132,6 @@ cybernion
 calciobiotite
 calcioferrite
 ceratobranchial
-calcioscheelite
 calciovolborthite
 calciphylactic
 cresoxid
@@ -27283,6 +27282,7 @@ cowal
 concatenating
 couponless
 coupons
+calcioscheelite
 coups
 comodo
 circumciser
