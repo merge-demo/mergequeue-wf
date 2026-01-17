@@ -15463,7 +15463,6 @@ denunciant
 donator
 detergence
 discodactyl
-deceivableness
 dispell
 desist
 deflagrated
@@ -16571,6 +16570,7 @@ denotative
 donjon
 dikdiks
 diceras
+deceivableness
 defortify
 disarrest
 derout
