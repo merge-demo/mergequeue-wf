@@ -3545,7 +3545,6 @@ batete
 brabbling
 basilissa
 balotade
-blue
 backstitches
 batfishes
 biri
@@ -3635,6 +3634,7 @@ blithelike
 batidaceous
 becrowds
 beshouted
+blue
 boise
 boloneys
 birlinn
