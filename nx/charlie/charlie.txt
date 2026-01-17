@@ -6162,6 +6162,7 @@ catsos
 carloadings
 catspaw
 catstane
+copiable
 catstep
 catstick
 ciderkin
@@ -17143,7 +17144,6 @@ chemotherapeutic
 coccygalgia
 cohesive
 ctenophoric
-copiable
 coadjudicator
 correlation
 coadjutant
