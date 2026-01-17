@@ -2297,7 +2297,6 @@ decennial
 dingdongs
 decennium
 dohter
-deflux
 decentering
 discomfortableness
 daidled
@@ -15536,6 +15535,7 @@ donsky
 dispersing
 drivellingly
 doubt
+deflux
 divelled
 deltas
 diocesian
