@@ -3069,7 +3069,6 @@ grammatical
 graspable
 gollywog
 glitteringly
-gibbed
 gyrostatically
 gastrostomus
 gromet
@@ -9488,6 +9487,7 @@ grouchiness
 geminally
 gitksan
 gelds
+gibbed
 garbline
 glorify
 gobia
