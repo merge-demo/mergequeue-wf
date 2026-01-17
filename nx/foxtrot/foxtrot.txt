@@ -4463,7 +4463,6 @@ feulamort
 fauves
 farand
 featherbrained
-forfeit
 footpick
 firmed
 fishily
@@ -6053,6 +6052,7 @@ floods
 furiosa
 foisons
 frequenters
+forfeit
 fisk
 filleter
 fanwright
