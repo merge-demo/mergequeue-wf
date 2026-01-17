@@ -2991,7 +2991,6 @@ deemphasized
 deemster
 denaturizing
 dolomitizing
-dendrolatry
 dermochelys
 dochmius
 dermapteran
@@ -6636,6 +6635,7 @@ dictyotaceae
 desertfully
 deserticolous
 duction
+dendrolatry
 diversified
 dowitch
 deletes
