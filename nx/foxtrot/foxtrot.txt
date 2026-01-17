@@ -3416,6 +3416,7 @@ finnickier
 flighting
 foxish
 fibers
+frillers
 foresters
 flowcharts
 fudging
@@ -5562,7 +5563,6 @@ fudder
 frequentness
 flensed
 forfear
-frillers
 flensers
 fidelities
 feus
