@@ -3092,7 +3092,6 @@ bryan
 bannack
 bandlessly
 blague
-benzolize
 benzophenoxazine
 boilerworks
 breather
@@ -7877,6 +7876,7 @@ barrad
 butterflyer
 bibenzyl
 biberon
+benzolize
 bibionid
 bathochromatism
 brackebuschite
