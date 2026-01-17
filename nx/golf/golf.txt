@@ -5887,7 +5887,6 @@ gate
 glassily
 gynoecium
 greens
-glucate
 gonotype
 grievants
 goofier
@@ -10572,6 +10571,7 @@ gallivanter
 grinderies
 grasset
 gemlike
+glucate
 grecoue
 gingivalgia
 gurmukhi
