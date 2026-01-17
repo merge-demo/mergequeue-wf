@@ -5499,6 +5499,7 @@ griphosaurus
 gammarid
 geomancy
 glyptolith
+gynostemia
 grotesques
 girsle
 gonfanon
@@ -7414,7 +7415,6 @@ grazable
 gossipped
 gestor
 gilthead
-gynostemia
 groupable
 gamelike
 gasolineless
