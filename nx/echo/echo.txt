@@ -3186,6 +3186,7 @@ empennage
 equiangularity
 even
 encomiums
+effervesce
 ell
 ecdysones
 echinorhinidae
@@ -7249,7 +7250,6 @@ exacted
 estolide
 esplanades
 elpasolite
-effervesce
 everlasting
 explicitness
 economese
