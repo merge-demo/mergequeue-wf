@@ -5954,6 +5954,7 @@ alhena
 anemophilous
 apparence
 anachronistic
+arctosis
 archt
 actinomycetal
 aghan
@@ -19168,7 +19169,6 @@ amidship
 asexualize
 arctoidean
 arctos
-arctosis
 acetylasalicylic
 allituric
 alick

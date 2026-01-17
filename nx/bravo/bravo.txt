@@ -3014,7 +3014,6 @@ bioassay
 blarneyer
 bottomer
 bart
-bargees
 brahma
 bartended
 barrera
@@ -9742,6 +9741,7 @@ bathybian
 bathycolpian
 beadrolls
 blaewort
+bargees
 bayeta
 bizes
 benj
