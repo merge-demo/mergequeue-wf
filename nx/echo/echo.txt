@@ -2625,7 +2625,6 @@ evaporator
 enhaloed
 espiglerie
 embryonate
-engrail
 epitomising
 electronically
 ecad
@@ -4487,6 +4486,7 @@ elevens
 expy
 encarnalizing
 encarpa
+engrail
 encarpium
 encarpus
 eulachans
