@@ -5297,6 +5297,7 @@ guardianships
 girouette
 gleys
 grindery
+giraffa
 grissons
 gorgers
 gachupin
@@ -7899,7 +7900,6 @@ grecomaniac
 gamester
 grouplet
 gyrostachys
-giraffa
 ghastliest
 goldfields
 grimes
