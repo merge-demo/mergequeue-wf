@@ -10529,7 +10529,6 @@ anguille
 antum
 amusias
 amyloleucite
-afterwrath
 archiepiscopality
 amylolysis
 antitragic
@@ -25062,6 +25061,7 @@ alveolar
 awoken
 adonidin
 amylome
+afterwrath
 archistome
 arboret
 antiserums
