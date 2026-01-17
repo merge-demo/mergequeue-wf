@@ -1928,7 +1928,6 @@ gaudless
 ganglia
 giraffes
 gulped
-gastromycosis
 gurjan
 geal
 glutoid
@@ -4877,6 +4876,7 @@ gadi
 globularia
 gein
 grapewort
+gastromycosis
 gymnast
 glandless
 gospeler
