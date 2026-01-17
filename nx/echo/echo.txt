@@ -4104,7 +4104,6 @@ ermit
 ethylbenzene
 euthymy
 esthetophore
-equitant
 esotropic
 enjambement
 erotophobia
@@ -7930,6 +7929,7 @@ equivocatory
 eternizes
 esquiring
 equivalvular
+equitant
 estragol
 ensilation
 epimanikion
