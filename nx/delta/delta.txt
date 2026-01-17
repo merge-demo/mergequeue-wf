@@ -9200,7 +9200,6 @@ desoxycinchonine
 decalog
 diptych
 dialyse
-description
 doors
 delobranchiata
 dyeability
@@ -11013,6 +11012,7 @@ dermococcus
 drainman
 diphenylenimine
 dayberry
+description
 dissyllabising
 deepwaterman
 decapoda
