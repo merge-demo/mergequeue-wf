@@ -4856,7 +4856,6 @@ exsuperance
 encomiumia
 encompassment
 embira
-episiotomy
 echard
 encores
 enemas
@@ -11812,6 +11811,7 @@ eleutherophyllous
 euryon
 exaudi
 erythrocytometry
+episiotomy
 ethenoidal
 epilobe
 ectothermic
