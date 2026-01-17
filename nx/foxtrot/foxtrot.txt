@@ -2080,6 +2080,7 @@ forehook
 fwelling
 flocky
 filibuster
+fremdly
 feudalisation
 foremasthand
 fructidor
@@ -11746,7 +11747,6 @@ foliiform
 fourteens
 flneur
 firiness
-fremdly
 factorage
 fumados
 firefang

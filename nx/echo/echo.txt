@@ -9947,6 +9947,7 @@ eschars
 ennew
 ecclesiae
 ensampler
+electrocautery
 estrif
 elisor
 elk
@@ -13551,7 +13552,6 @@ elflock
 eutaxie
 excitements
 equilobed
-electrocautery
 enlightening
 earthquakes
 exuviae
