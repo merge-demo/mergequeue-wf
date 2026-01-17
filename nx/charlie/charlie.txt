@@ -4074,6 +4074,7 @@ countershafting
 corder
 coniopterygidae
 cardamine
+claith
 catarrhinian
 cephalotaceous
 cowpox
@@ -15225,7 +15226,6 @@ chinaberry
 claystone
 curtained
 cynomoriaceous
-claith
 clubmen
 connixation
 clayton
