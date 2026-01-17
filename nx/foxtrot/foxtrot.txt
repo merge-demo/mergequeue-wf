@@ -6845,6 +6845,7 @@ fodderless
 frized
 fleece
 feering
+fulicinae
 foresworn
 furthering
 felloe
@@ -8233,7 +8234,6 @@ fabianist
 foundlings
 fingerboards
 fuliginous
-fulicinae
 foreverness
 foregoes
 foederatus
