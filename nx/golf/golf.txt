@@ -4149,6 +4149,7 @@ gimcrack
 gastrojejunal
 griph
 grasshop
+gentlemanly
 glucolipid
 gobernadora
 gondoletta
@@ -9340,7 +9341,6 @@ gamely
 gynocracy
 gemauve
 granitoid
-gentlemanly
 groenendael
 gecko
 gallstone
