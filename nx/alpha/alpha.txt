@@ -13031,7 +13031,6 @@ achromatic
 angioma
 antivaccinator
 aniente
-actinobacillosis
 anigh
 alienize
 autognosis
@@ -15624,6 +15623,7 @@ anoxaemia
 amygdalitis
 aeolight
 acrocontracture
+actinobacillosis
 almous
 antiochian
 antiodont
