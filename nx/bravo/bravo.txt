@@ -6263,7 +6263,6 @@ brush
 braceleted
 bimodulus
 bloke
-blaws
 bennies
 benomyl
 basiliscus
@@ -11230,6 +11229,7 @@ bronchiloquy
 boulevardiers
 bicyclists
 burgraviate
+blaws
 bother
 boththridia
 begumming
