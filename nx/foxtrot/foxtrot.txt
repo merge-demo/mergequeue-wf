@@ -4539,7 +4539,6 @@ feely
 fates
 fertilizers
 forme
-forsay
 fleadock
 ferrovanadium
 flogging
@@ -5774,6 +5773,7 @@ floating
 funded
 fiddlestring
 fishwife
+forsay
 folklorist
 flinkite
 flatcar
