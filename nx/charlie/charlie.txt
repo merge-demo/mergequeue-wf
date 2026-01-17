@@ -7246,6 +7246,7 @@ clamors
 cladoceran
 centrifugate
 centrifuge
+cenotaph
 columbaries
 centrifugence
 centrifuging
@@ -16876,7 +16877,6 @@ chopas
 clubdom
 clubfist
 clubfisted
-cenotaph
 clubfoot
 clubfooted
 clubhand
