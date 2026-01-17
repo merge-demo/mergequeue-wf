@@ -2282,6 +2282,7 @@ corresponds
 canadite
 conferva
 casbah
+clepes
 celtdom
 coquina
 conceivers
@@ -5462,7 +5463,6 @@ capellane
 casaque
 castlewise
 castock
-clepes
 castoffs
 coldly
 castoreum
