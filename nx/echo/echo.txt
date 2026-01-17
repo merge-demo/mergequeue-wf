@@ -2911,7 +2911,6 @@ ether
 eagre
 escars
 elephantoid
-elanus
 elephantiasic
 emotionlessly
 eurylaimus
@@ -7022,6 +7021,7 @@ easily
 eclipsing
 endjunk
 entreaties
+elanus
 excavatorial
 entreats
 esperanto
