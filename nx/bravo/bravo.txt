@@ -1927,7 +1927,6 @@ backhoes
 bandoleers
 burdalone
 bivalent
-birny
 bandolerismo
 buckayros
 bandoleros
@@ -6347,6 +6346,7 @@ bakairi
 balandra
 bibs
 benzanthrone
+birny
 bifarious
 bipolarize
 breakpoints
