@@ -11759,7 +11759,6 @@ caliphates
 coccygerector
 chondrocoracoid
 consonantalizing
-chondrocostal
 chondrocranial
 circuitous
 chondrodystrophy
@@ -25308,6 +25307,7 @@ cricking
 chromoisomerism
 cassoulet
 cornbinks
+chondrocostal
 comities
 coidentity
 cornbole
