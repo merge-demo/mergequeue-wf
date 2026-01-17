@@ -2021,7 +2021,6 @@ dilutant
 daucus
 decagonally
 detenus
-dothidella
 dukeling
 daimen
 duplicitas
@@ -6276,6 +6275,7 @@ diradiation
 didymolite
 daughters
 dermatopathic
+dothidella
 dermatophyte
 disarming
 decarboxylation
