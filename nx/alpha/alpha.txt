@@ -21770,7 +21770,6 @@ archiphoneme
 apsidally
 amalaita
 assertress
-annunciator
 athetesis
 assertum
 agricolous
@@ -23760,6 +23759,7 @@ ararauna
 auspiciousness
 arpenteur
 actinocarpic
+annunciator
 ascochyta
 accursing
 allothigenetic
