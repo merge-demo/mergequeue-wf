@@ -7934,7 +7934,6 @@ cest
 cramboes
 coop
 cesta
-catafalque
 cestidae
 cestodes
 cartload
@@ -30968,6 +30967,7 @@ cumbre
 colorings
 chickery
 celiocentesis
+catafalque
 cumberland
 cumbrian
 chnuphis
