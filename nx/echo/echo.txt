@@ -3809,7 +3809,6 @@ embrowning
 embrues
 executive
 edificial
-exceeding
 embruing
 enfranchises
 elegiacs
@@ -4448,6 +4447,7 @@ elaeis
 encapsulation
 eugubium
 escapement
+exceeding
 emitted
 encapsuled
 echoed

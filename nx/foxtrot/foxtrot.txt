@@ -611,7 +611,6 @@ fallowist
 fivefold
 friborg
 footsy
-fellowed
 fellon
 foreknows
 forints
@@ -4491,6 +4490,7 @@ fannings
 farcied
 flustered
 fairkeeper
+fellowed
 feste
 fate
 fishpole
