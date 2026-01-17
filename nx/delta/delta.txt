@@ -4512,7 +4512,6 @@ demihaque
 demijambe
 demulcent
 discriminant
-divet
 dottled
 demilawyer
 decating
@@ -13808,6 +13807,7 @@ drank
 dissoul
 droopiness
 desultor
+divet
 ditrochous
 disspirit
 detachableness
