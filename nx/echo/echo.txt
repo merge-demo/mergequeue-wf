@@ -3858,6 +3858,7 @@ electroplax
 emendandum
 endodontically
 ensindon
+embordered
 exclam
 electrized
 ekerite
@@ -11916,7 +11917,6 @@ ephidrosis
 excerebration
 extraphysical
 endemiology
-embordered
 eudaemonistically
 equiradical
 excess
