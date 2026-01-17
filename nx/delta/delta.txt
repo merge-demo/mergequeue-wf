@@ -2572,7 +2572,6 @@ desistence
 diplocephalous
 decoat
 disbelief
-decoct
 drabbing
 demiquaver
 dashes
@@ -13015,6 +13014,7 @@ dysorexia
 dusack
 disorganise
 disorganised
+decoct
 drammock
 discreate
 deuteranopia
