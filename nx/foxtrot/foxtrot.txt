@@ -3237,7 +3237,6 @@ ficklest
 ficklety
 flippery
 fictionalize
-flounce
 fourcher
 flippantness
 fijian
@@ -10158,6 +10157,7 @@ flannelled
 flagellates
 flamant
 foretaste
+flounce
 failsafe
 flyball
 foamiest
