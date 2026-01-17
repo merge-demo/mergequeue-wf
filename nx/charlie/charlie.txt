@@ -922,7 +922,6 @@ cajones
 cajun
 cajuput
 chondroblast
-cartooning
 chemoses
 catharan
 confided
@@ -30237,6 +30236,7 @@ cliqueyness
 crumble
 crumbles
 crumblet
+cartooning
 crumbliest
 claqueurs
 counternaiant
