@@ -2247,7 +2247,6 @@ gleit
 gallicization
 grieced
 ginglyni
-ghazies
 grisled
 genette
 gekkonid
@@ -6534,6 +6533,7 @@ gravelled
 gawkily
 gruffness
 genetic
+ghazies
 gurdwara
 glaikitness
 guggle
