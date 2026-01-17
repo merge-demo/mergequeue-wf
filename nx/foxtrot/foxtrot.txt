@@ -2545,7 +2545,6 @@ fiatconfirmatio
 ferrer
 feeler
 footwall
-frugivorous
 fibromembranous
 frate
 filamentule
@@ -4977,6 +4976,7 @@ furriers
 fourscore
 flummoxes
 flakiest
+frugivorous
 forged
 frequentable
 foamier
