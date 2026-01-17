@@ -4779,6 +4779,7 @@ bedtimes
 bedouins
 bedown
 bedpans
+bombace
 bries
 beeball
 besplit
@@ -5358,7 +5359,6 @@ basihyoid
 biharmonic
 borderlines
 butterscotch
-bombace
 blanketless
 bacchante
 balmy
