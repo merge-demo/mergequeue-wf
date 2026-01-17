@@ -2206,7 +2206,6 @@ fractocumulus
 fadme
 flashet
 feltmaker
-factionate
 furtum
 fiducia
 fab
@@ -8743,6 +8742,7 @@ faultlessness
 fields
 fortaxed
 fanlike
+factionate
 fragility
 folium
 funariaceous
