@@ -1270,7 +1270,6 @@ grantees
 galliardly
 grognard
 geneki
-glycogelatin
 genophobia
 guenon
 glutinosity
@@ -5706,6 +5705,7 @@ grandsons
 glorying
 gobbledegook
 gatemen
+glycogelatin
 gant
 grippelike
 grate
