@@ -593,7 +593,6 @@ ferny
 falling
 flichtering
 font
-faradized
 famine
 fussed
 flamier
@@ -1398,6 +1397,7 @@ filmy
 fiddly
 fabronia
 fermatas
+faradized
 frith
 fanzines
 figitidae
