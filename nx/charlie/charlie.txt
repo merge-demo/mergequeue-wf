@@ -3968,7 +3968,6 @@ cicindela
 coadventurer
 corpuscular
 carburetant
-carbureted
 carburetest
 carburetion
 chichipate
@@ -13540,6 +13539,7 @@ cymagraph
 cimaise
 cicatriculae
 catadioptric
+carbureted
 cafe
 colament
 cymaise
