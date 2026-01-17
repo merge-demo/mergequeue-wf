@@ -10453,7 +10453,6 @@ banner
 badling
 bronco
 bailwood
-burgrave
 biosynthesis
 bravado
 bragged
@@ -17938,6 +17937,7 @@ belga
 balletic
 bankrolls
 bushwack
+burgrave
 bonewood
 bathybic
 baryta
