@@ -4015,7 +4015,6 @@ embarrassingly
 empathetic
 egalite
 estamp
-equiform
 endarteria
 extramodal
 empatron
@@ -5550,6 +5549,7 @@ eucarida
 enameler
 epigrammatised
 enhusk
+equiform
 ennuis
 enfeeblish
 explat
