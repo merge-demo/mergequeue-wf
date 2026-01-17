@@ -486,7 +486,6 @@ blackacre
 biogenesis
 burbling
 backstrapped
-blastophoric
 bombsights
 bescoundrel
 bancal
@@ -1134,6 +1133,7 @@ baiters
 banqueter
 baxter
 bridges
+blastophoric
 baitfish
 bleaches
 buffeter
