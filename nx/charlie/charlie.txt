@@ -15002,7 +15002,6 @@ calosoma
 cytulae
 colormaking
 cosmesis
-carpetless
 carbonado
 civet
 complementative
@@ -18696,6 +18695,7 @@ cointerred
 cointerring
 cointersecting
 cointreau
+carpetless
 coinvolve
 coyo
 coyol
