@@ -3032,7 +3032,6 @@ bartends
 burthened
 baggywrinkle
 boogyman
-barter
 blechnoid
 brilliancy
 blood
@@ -16573,6 +16572,7 @@ brute
 buddling
 bangtailed
 bequeathal
+barter
 birr
 barful
 budzat
