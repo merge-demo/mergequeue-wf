@@ -1587,7 +1587,6 @@ communising
 chemostat
 callisto
 callithrix
-capriform
 collegiant
 corruptibilities
 callithumpian
@@ -16171,6 +16170,7 @@ climates
 corporatively
 corvus
 climatic
+capriform
 climatius
 climatize
 climatographical
