@@ -3286,6 +3286,7 @@ flaught
 fosterland
 filbert
 freit
+furnacer
 forechoice
 fifteenthly
 friary
@@ -3714,7 +3715,6 @@ falsifying
 footman
 furbishing
 flaying
-furnacer
 futurama
 fructiferous
 finicking
