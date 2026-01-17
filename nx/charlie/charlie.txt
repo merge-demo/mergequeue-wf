@@ -1329,7 +1329,6 @@ calibre
 causative
 cyanohydrin
 catalects
-caliburn
 coomb
 crewless
 cravatted
@@ -4234,6 +4233,7 @@ cardium
 continual
 chapbooks
 colorum
+caliburn
 cardoon
 cardoons
 cardophagus
