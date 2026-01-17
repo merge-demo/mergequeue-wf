@@ -1222,6 +1222,7 @@ fleckiness
 feinted
 friborgh
 fasherie
+forloin
 fusilier
 foolishness
 fashing
@@ -8497,7 +8498,6 @@ fasels
 fluorinating
 flexuosely
 fibrocrystalline
-forloin
 fulminous
 fuliginousness
 fuze
