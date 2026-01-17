@@ -4330,6 +4330,7 @@ favorableness
 franc
 flunkeys
 forbears
+faffle
 farhand
 flutemouth
 forbearantly
@@ -5050,7 +5051,6 @@ fascinery
 fodders
 formalize
 ferrugination
-faffle
 flemished
 forwarders
 fictionalized
