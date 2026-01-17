@@ -3464,7 +3464,6 @@ defoliants
 defoliate
 doom
 disjunct
-debilitant
 decelerating
 dehydrochlorination
 doesn
@@ -18676,6 +18675,7 @@ documentarily
 dwarfisms
 dermopteran
 darwinically
+debilitant
 detersively
 dwarfs
 diaulos
