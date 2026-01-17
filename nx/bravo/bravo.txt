@@ -4775,6 +4775,7 @@ bord
 bedmate
 bogey
 biz
+bedtimes
 bedouins
 bedown
 bedpans
@@ -17423,7 +17424,6 @@ bassoon
 bronchographic
 berserker
 bunkerage
-bedtimes
 bandbox
 brokages
 boe
