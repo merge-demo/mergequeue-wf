@@ -4335,7 +4335,6 @@ dematerializing
 dematiaceae
 dissepiment
 dragonets
-duplexity
 dizening
 drawk
 demeanor
@@ -7442,6 +7441,7 @@ darbha
 diplegic
 dich
 djellab
+duplexity
 drivable
 debating
 denude
