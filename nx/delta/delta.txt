@@ -11303,6 +11303,7 @@ disbury
 definitively
 dogstail
 disburse
+deg
 deictic
 duckpins
 decorum
@@ -14768,7 +14769,6 @@ docimasia
 dossy
 dakir
 desmacyte
-deg
 dentilated
 docimastical
 decimation
