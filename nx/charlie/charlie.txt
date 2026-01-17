@@ -7971,7 +7971,6 @@ cetiosaurian
 contumacities
 corixidae
 cetologist
-cetomorpha
 clarissimo
 ceaselessness
 celiomyalgia
@@ -17711,6 +17710,7 @@ cephalalgic
 curviform
 cochleous
 cochlidiid
+cetomorpha
 catalaunian
 calque
 conservationist
