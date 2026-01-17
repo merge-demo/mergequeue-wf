@@ -6131,6 +6131,7 @@ duperies
 debasers
 ditremid
 deratted
+disgrace
 digeneous
 defatigation
 draperies
@@ -17875,7 +17876,6 @@ duelling
 duellist
 diplomata
 debromination
-disgrace
 disburser
 deterministically
 diguanide
