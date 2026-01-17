@@ -12745,6 +12745,7 @@ centilitre
 cypriniform
 chuje
 clockmaker
+conquer
 cajava
 chukchi
 chukka
@@ -16460,7 +16461,6 @@ chaunt
 cymbaline
 cloakroom
 cloakrooms
-conquer
 caterwaul
 cloakwise
 condominiiums
