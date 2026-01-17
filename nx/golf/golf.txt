@@ -1742,7 +1742,6 @@ georgium
 governail
 guaba
 gambado
-glossoscopy
 glycerinate
 guildry
 gympie
@@ -3990,6 +3989,7 @@ geomorphy
 gnoff
 graphicly
 gigatons
+glossoscopy
 genetical
 geoduck
 gyroceras
