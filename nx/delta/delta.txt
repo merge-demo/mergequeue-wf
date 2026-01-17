@@ -4745,6 +4745,7 @@ disbudding
 dpt
 dilated
 dors
+duration
 debase
 diffeomorphism
 detours
@@ -11528,7 +11529,6 @@ discodactylous
 damasse
 deskbound
 diversifying
-duration
 dyotheletic
 dividuous
 downturned
