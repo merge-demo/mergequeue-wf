@@ -6466,6 +6466,7 @@ fullterm
 furziest
 foisted
 francois
+frailes
 fluorboric
 frugiferousness
 fusula
@@ -8878,7 +8879,6 @@ flunks
 facebar
 favorably
 filmsets
-frailes
 fetchers
 frappeing
 farsi
