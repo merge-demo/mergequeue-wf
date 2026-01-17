@@ -8138,6 +8138,7 @@ gesning
 gave
 gentlewoman
 gorkun
+gallivorous
 gundygut
 granivore
 guianese
@@ -10368,7 +10369,6 @@ gruffily
 greenlets
 geum
 goadlike
-gallivorous
 glaur
 grouseberry
 gelate
