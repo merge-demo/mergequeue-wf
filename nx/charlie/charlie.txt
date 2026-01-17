@@ -8782,7 +8782,6 @@ curiboca
 crackup
 carpocapsa
 cognitives
-chapless
 chapleted
 countersmile
 clothesbasket
@@ -18259,6 +18258,7 @@ cutlery
 cofeature
 coferment
 collenchyme
+chapless
 colchicine
 consentively
 coenosarc
