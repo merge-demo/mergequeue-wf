@@ -925,7 +925,6 @@ detonational
 departed
 dizzardly
 dardan
-deadman
 doctors
 dextrosazone
 dexter
@@ -9324,6 +9323,7 @@ dietitians
 diddle
 dtset
 dietotherapy
+deadman
 dietotoxic
 detersive
 depletable
