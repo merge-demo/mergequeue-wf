@@ -3589,6 +3589,7 @@ binode
 blonds
 bathylithic
 bootless
+bespouse
 buckwagon
 bipinnaria
 bathymetry
@@ -13891,7 +13892,6 @@ bidential
 brewing
 bowerlet
 benightmare
-bespouse
 begins
 bighearted
 bagreef
