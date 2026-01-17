@@ -1668,7 +1668,6 @@ accruement
 arthromeric
 accruer
 anatta
-adiabatic
 accrues
 accruing
 antiprophet
@@ -19836,6 +19835,7 @@ adeptest
 armida
 armies
 abthainry
+adiabatic
 armiferous
 agnoetism
 agnoetae
