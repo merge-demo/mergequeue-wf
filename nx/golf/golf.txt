@@ -8186,7 +8186,6 @@ gristmill
 grantsman
 granular
 gooky
-granulary
 guidebooks
 giulio
 glyoxalin
@@ -10795,6 +10794,7 @@ gadoidea
 guttide
 gareth
 gynomonoecious
+granulary
 gilbert
 gewgawy
 granolite
