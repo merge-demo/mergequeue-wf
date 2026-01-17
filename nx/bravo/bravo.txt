@@ -9035,6 +9035,7 @@ bohemias
 biogeographical
 bobo
 bentwoods
+barometry
 blankety
 bunchbacked
 bossisms
@@ -13401,7 +13402,6 @@ botella
 bebrave
 buss
 balladlike
-barometry
 bargainers
 both
 bothered
