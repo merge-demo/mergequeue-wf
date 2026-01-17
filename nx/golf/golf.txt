@@ -8084,7 +8084,6 @@ gript
 gunstocking
 genys
 gastronomy
-gasher
 gata
 gunstock
 grandpapa
@@ -9224,6 +9223,7 @@ golee
 greenhornism
 grimacers
 gooral
+gasher
 gridlock
 greenstick
 goatees
