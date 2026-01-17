@@ -20547,7 +20547,6 @@ coxofemoral
 crumpling
 coachwork
 clarkia
-cipherable
 costerdom
 colorability
 clayware
@@ -21536,6 +21535,7 @@ canicule
 concreter
 concretional
 concretionary
+cipherable
 concretist
 concretive
 cholangiographic
