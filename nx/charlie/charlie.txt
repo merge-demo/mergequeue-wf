@@ -19314,7 +19314,6 @@ christine
 colonising
 colonist
 colonizable
-colonize
 comminating
 courted
 commentate
@@ -27799,6 +27798,7 @@ casette
 contraire
 craquelures
 chelonin
+colonize
 citharista
 counterquery
 chariotee
