@@ -3681,6 +3681,7 @@ caraipa
 caraipi
 carlish
 caraja
+cleaners
 carajas
 chromocytometer
 carambole
@@ -13359,7 +13360,6 @@ curatize
 centuply
 cyclosis
 cuppas
-cleaners
 cyclostyle
 cyclostoma
 centaurium
