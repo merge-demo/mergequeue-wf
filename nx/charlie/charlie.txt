@@ -23902,7 +23902,6 @@ channelwards
 contubernial
 contumacy
 ciceronic
-contumacious
 cantel
 ciguatera
 contumely
@@ -27312,6 +27311,7 @@ centimos
 chemistries
 courbettes
 cantillation
+contumacious
 courgette
 courida
 cherokees
