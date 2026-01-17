@@ -8553,7 +8553,6 @@ ellipsoids
 exsufflicate
 esophagotome
 exhumed
-equatable
 ecclesiasticize
 egregious
 echinated
@@ -11992,6 +11991,7 @@ eryngium
 everyone
 egocentric
 enterfeat
+equatable
 exampleship
 essentials
 eigenspace
