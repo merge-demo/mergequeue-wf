@@ -1979,7 +1979,6 @@ frettiest
 frden
 feeds
 favellae
-figo
 fight
 futurists
 forbiddal
@@ -8656,6 +8655,7 @@ farmsteading
 fricative
 flexor
 firedragon
+figo
 forcipulata
 fanegada
 forspent
