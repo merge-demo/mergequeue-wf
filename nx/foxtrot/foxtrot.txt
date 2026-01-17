@@ -1508,7 +1508,6 @@ fanaticism
 foresend
 faulx
 flugelman
-flaunter
 focusers
 fastidiously
 factionary
@@ -2719,6 +2718,7 @@ feigher
 frost
 fraxetin
 fouette
+flaunter
 fervor
 flamenco
 frondous
