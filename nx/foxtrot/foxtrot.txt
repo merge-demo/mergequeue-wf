@@ -2384,6 +2384,7 @@ flathead
 fenchol
 futures
 footganger
+finiking
 fingersmith
 fetial
 fortunetellers
@@ -5439,7 +5440,6 @@ fleahopper
 fructuously
 fimbrilla
 frankability
-finiking
 fum
 flouncier
 fuzzines
