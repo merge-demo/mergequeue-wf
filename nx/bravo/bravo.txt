@@ -11662,7 +11662,6 @@ boardwalks
 battledored
 benefactrix
 bolis
-brachyural
 barche
 byelorussia
 boarspear
@@ -14433,6 +14432,7 @@ bleeping
 busticate
 bewared
 brailles
+brachyural
 birdcraft
 bylaw
 bonebinder
