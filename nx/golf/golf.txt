@@ -6326,6 +6326,7 @@ guiser
 gallify
 gasogenes
 ginglymus
+golems
 gonfalons
 gobylike
 gnashed
@@ -8827,7 +8828,6 @@ greenstone
 gimballing
 geographized
 gunny
-golems
 greenware
 giveth
 gospodar
