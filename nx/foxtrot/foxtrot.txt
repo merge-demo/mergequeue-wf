@@ -9456,7 +9456,6 @@ frankfurters
 functionary
 fastenings
 frails
-furcula
 fisheater
 familiarities
 furniment
@@ -10261,6 +10260,7 @@ fissile
 frontlet
 fitter
 fashed
+furcula
 falderals
 fabricant
 fulmar
