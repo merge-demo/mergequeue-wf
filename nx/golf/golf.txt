@@ -131,7 +131,6 @@ geryonid
 guelf
 gadwalls
 ghillie
-germless
 girth
 gigantology
 gaelic
@@ -4900,6 +4899,7 @@ geometroidea
 giggish
 glaciology
 ghawazi
+germless
 glaciomarine
 glidewort
 guideway
