@@ -5598,7 +5598,6 @@ enfants
 evulsion
 encephaloscopy
 emetophobia
-endogamies
 expediences
 evangel
 extratympanic
@@ -7278,6 +7277,7 @@ ensealed
 eopalaeozoic
 egocentrically
 erysipelothrix
+endogamies
 eulogises
 eorhyolite
 engrafter
