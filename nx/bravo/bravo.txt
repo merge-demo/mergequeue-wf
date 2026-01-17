@@ -1056,7 +1056,6 @@ bepraisement
 boogymen
 bullterrier
 biogenic
-bedizenment
 baioc
 braciole
 boresomeness
@@ -9302,6 +9301,7 @@ biodegraded
 broncholithiasis
 baffle
 beshrewing
+bedizenment
 blockader
 biplane
 backet
