@@ -9676,7 +9676,6 @@ dipoles
 dexterous
 discompose
 diaskeuast
-dihydrostreptomycin
 dihydrotachysterol
 defaceable
 defaitiste
@@ -9866,6 +9865,7 @@ drudgingly
 destuffs
 disbalance
 dystocias
+dihydrostreptomycin
 dentile
 dragonesque
 diesis
