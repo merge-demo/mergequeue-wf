@@ -1435,7 +1435,6 @@ expletive
 enopla
 exemplupla
 eucalyptol
-examinative
 efficacy
 empuzzle
 ethene
@@ -10533,6 +10532,7 @@ electrometry
 effusing
 entreatingly
 ethnize
+examinative
 euboean
 electrochemically
 eubteria
