@@ -17345,7 +17345,6 @@ chlamydomonadidae
 cymogenes
 coaptation
 coapted
-cohosts
 carolinian
 conclamant
 ceratophyta
@@ -28907,6 +28906,7 @@ cribose
 cribrate
 cribriform
 cloque
+cohosts
 cribriformity
 convertaplane
 cribs
