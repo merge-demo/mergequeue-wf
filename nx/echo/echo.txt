@@ -2539,7 +2539,6 @@ epochs
 exterminative
 electrokinetics
 elector
-equiparable
 evirate
 elasticum
 electroless
@@ -9989,6 +9988,7 @@ etapes
 exorhason
 endangers
 extraterrestrial
+equiparable
 epicoracoidal
 enterprises
 endostoma
