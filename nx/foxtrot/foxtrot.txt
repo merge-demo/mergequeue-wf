@@ -5525,7 +5525,6 @@ forager
 frolickly
 fplot
 forseek
-fusobteria
 femur
 flavorers
 filterable
@@ -9686,6 +9685,7 @@ flanger
 flagellant
 finalism
 foreseeability
+fusobteria
 filipinize
 fleeceable
 firefly
