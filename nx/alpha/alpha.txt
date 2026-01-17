@@ -3296,7 +3296,6 @@ amaracus
 acutograve
 analogist
 acutonodose
-aurene
 aminity
 arthrotomy
 anthropomorphist
@@ -8888,6 +8887,7 @@ accesses
 angelocracy
 auxiliatory
 allophanate
+aurene
 allophanates
 allophanic
 acredula
