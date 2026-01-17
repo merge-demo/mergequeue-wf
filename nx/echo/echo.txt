@@ -4412,6 +4412,7 @@ embrasure
 elenchi
 encratic
 eunuchized
+extraterritorial
 elenchtical
 electrolyzer
 evisite
@@ -9729,7 +9730,6 @@ embryol
 equational
 escopette
 external
-extraterritorial
 ethylhydrocupreine
 euergetes
 eranist
