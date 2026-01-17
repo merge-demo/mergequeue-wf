@@ -1143,6 +1143,7 @@ groundwall
 gliadins
 geonyctitropic
 gutsiest
+guano
 grasscut
 geotactically
 grammatolatry
@@ -2368,7 +2369,6 @@ gadinic
 guilder
 gibbartas
 guajiras
-guano
 gyrostatic
 greengrocer
 gomart
