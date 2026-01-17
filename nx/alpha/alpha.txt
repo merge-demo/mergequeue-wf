@@ -3089,7 +3089,6 @@ adjudications
 alternations
 aboral
 actinophrys
-aspics
 archimorphic
 actinopteran
 ascidian
@@ -16668,6 +16667,7 @@ antilogical
 aggers
 abjuration
 asserters
+aspics
 anotus
 amygdalopathy
 agre
