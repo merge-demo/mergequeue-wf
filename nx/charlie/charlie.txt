@@ -6711,7 +6711,6 @@ cottiers
 cedilla
 cedillas
 ceding
-cedis
 cosheath
 chromule
 cedrat
@@ -19637,6 +19636,7 @@ columniation
 caballing
 crackback
 columniform
+cedis
 contralto
 cherimoya
 circumaction
