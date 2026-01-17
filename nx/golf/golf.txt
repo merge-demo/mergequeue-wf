@@ -2569,7 +2569,6 @@ guardroom
 graciously
 gallfly
 gael
-geothermal
 geomorphological
 gantlet
 gilliver
@@ -5681,6 +5680,7 @@ goner
 granadilla
 gallinago
 gowkedness
+geothermal
 gasps
 geisenheimer
 gyrators
