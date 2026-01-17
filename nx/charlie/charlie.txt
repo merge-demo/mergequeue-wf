@@ -4838,6 +4838,7 @@ chibouk
 carposporangial
 carlist
 cavalierish
+casten
 concaving
 connotive
 cindery
@@ -5705,7 +5706,6 @@ cataplasis
 cogwood
 capering
 cataplastic
-casten
 catapleiite
 catapulted
 catapultier
