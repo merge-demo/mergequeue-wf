@@ -15757,7 +15757,6 @@ blackboards
 bromethyl
 brob
 booksy
-betorcin
 blithesomeness
 biaxially
 barefisted
@@ -15860,6 +15859,7 @@ barebones
 baksheeshes
 boudoiresque
 balsamer
+betorcin
 bemires
 bimaculated
 biocentric
