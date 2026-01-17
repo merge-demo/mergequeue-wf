@@ -639,6 +639,7 @@ excommenge
 exostoses
 enamellist
 eurypharynx
+echinocactus
 euro
 enwreathing
 eversions
@@ -10716,7 +10717,6 @@ equiaxe
 endopleural
 euripus
 epitra
-echinocactus
 erebus
 euglenoid
 eucrystalline
