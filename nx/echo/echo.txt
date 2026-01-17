@@ -2959,7 +2959,6 @@ epiphylline
 eleventeenth
 eleventh
 evicts
-excitation
 elevons
 eurydice
 elf
@@ -13003,6 +13002,7 @@ exhaust
 expectorant
 entame
 epithelialize
+excitation
 expectorated
 enneahedria
 exculpate
