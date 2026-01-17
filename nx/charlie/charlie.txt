@@ -29048,7 +29048,6 @@ crimson
 crimsoned
 credendum
 crimsonness
-crin
 contrapone
 casselty
 columbus
@@ -31813,6 +31812,7 @@ cutin
 confutation
 cutinisation
 cutinise
+crin
 coliiformes
 cretic
 cloggy
