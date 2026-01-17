@@ -2444,7 +2444,6 @@ gemmer
 goliards
 gumphion
 gloppy
-grow
 gild
 gauk
 gruesomer
@@ -5143,6 +5142,7 @@ gangmaster
 gradationately
 glottological
 garners
+grow
 grenelle
 glassiness
 glasslikeness
