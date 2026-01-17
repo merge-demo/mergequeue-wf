@@ -8886,7 +8886,6 @@ fossage
 fanlight
 fidel
 fairish
-fearable
 fusc
 freightliner
 flexured
@@ -9586,6 +9585,7 @@ ferv
 florets
 floatplane
 fibdom
+fearable
 fleshpots
 fiducinales
 faveoluli
