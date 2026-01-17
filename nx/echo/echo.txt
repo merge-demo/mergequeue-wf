@@ -6264,7 +6264,6 @@ enplaned
 eisteddfod
 enscrolled
 ecumenics
-embryonary
 enamine
 enarbor
 ethnogeographical
@@ -11205,6 +11204,7 @@ exonuclease
 endospermic
 evaluated
 ethereal
+embryonary
 embourgeoisement
 evolvement
 everymen
