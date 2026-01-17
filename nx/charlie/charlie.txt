@@ -16708,6 +16708,7 @@ clote
 chayota
 clomb
 cloth
+cusparia
 clothe
 clothed
 confusional
@@ -28987,7 +28988,6 @@ crozzly
 crimeproof
 chickasaws
 charlatanship
-cusparia
 cryptogenic
 charlemagne
 ceorlish
