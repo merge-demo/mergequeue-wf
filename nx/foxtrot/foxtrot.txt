@@ -8149,6 +8149,7 @@ footlog
 fessing
 falbala
 forestral
+fumarole
 forestries
 forewind
 firebrats
@@ -8444,7 +8445,6 @@ federalized
 fiddlerfishes
 feoffment
 firmans
-fumarole
 floppy
 finked
 fallaciousness
