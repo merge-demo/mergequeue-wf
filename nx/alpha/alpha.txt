@@ -11985,7 +11985,6 @@ aletris
 abstractors
 aforethought
 armit
-anastasian
 alveus
 aerogen
 anhalamine
@@ -18736,6 +18735,7 @@ archebanc
 artillerymen
 archebancs
 alkine
+anastasian
 amylocoagulase
 aguilarite
 ascocarpous
