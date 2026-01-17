@@ -13710,7 +13710,6 @@ cubanize
 cinchonise
 clashed
 chambul
-colan
 cinchonization
 crunodal
 cinchonize
@@ -31604,6 +31603,7 @@ curvet
 corvets
 curvetted
 curvetting
+colan
 curvy
 chinwag
 curvicaudate
