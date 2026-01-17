@@ -3706,7 +3706,6 @@ abrenounce
 anointment
 alliteration
 antiquity
-anchorhold
 alcoothionic
 albuminization
 agillawood
@@ -18663,6 +18662,7 @@ archbeadle
 augends
 autocephality
 archbishopry
+anchorhold
 archbishopric
 arrases
 acroamata
