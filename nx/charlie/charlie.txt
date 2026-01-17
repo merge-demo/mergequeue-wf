@@ -5494,6 +5494,7 @@ chersydridae
 cantraips
 casuarius
 carpellary
+collate
 chamaecyparis
 crunode
 casuistess
@@ -22798,7 +22799,6 @@ conscriptional
 clambering
 conscriptions
 characterological
-collate
 cismarine
 consecrate
 consecrater
