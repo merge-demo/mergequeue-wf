@@ -3491,6 +3491,7 @@ buphaga
 bander
 barkpeeler
 boobook
+botanically
 bugling
 bolloxed
 batable
@@ -13364,7 +13365,6 @@ bandoleered
 bacteriologically
 bradykinesis
 brazed
-botanically
 botanics
 bridechamber
 botanist
