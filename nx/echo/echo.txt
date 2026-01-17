@@ -13290,7 +13290,6 @@ empierce
 epigastrical
 endophragm
 estranger
-englishable
 evict
 emerged
 ensheath
@@ -13398,6 +13397,7 @@ empodium
 euskaldun
 entobranchiate
 escapeway
+englishable
 exposture
 esurience
 encephalola
