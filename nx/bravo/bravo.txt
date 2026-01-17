@@ -223,6 +223,7 @@ bumpy
 bestraw
 baccivorous
 bibliograph
+bestowable
 bdellid
 betonica
 bactrites
@@ -12712,7 +12713,6 @@ blueth
 becolor
 boodled
 braccia
-bestowable
 bane
 bellical
 buhrs
