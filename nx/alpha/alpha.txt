@@ -2604,6 +2604,7 @@ acpt
 acridinic
 acquaint
 acquaintanceship
+aulical
 acidophilus
 acquisible
 angiophorous
@@ -23538,7 +23539,6 @@ auletai
 allokinetic
 apocryphalist
 alacritous
-aulical
 aulicism
 aries
 aquamarines
