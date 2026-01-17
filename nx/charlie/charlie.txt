@@ -7468,6 +7468,7 @@ cephalotractor
 cephalotrocha
 cephalotus
 cephalous
+comanic
 cephas
 cepheid
 conchucu
@@ -19692,7 +19693,6 @@ cinematics
 comandra
 capetown
 cheir
-comanic
 comarum
 comate
 cowerer
