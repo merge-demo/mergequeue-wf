@@ -2819,6 +2819,7 @@ extrusions
 exhilaratory
 engraft
 echards
+erosion
 evergreenite
 exchangeably
 equangular
@@ -6016,7 +6017,6 @@ electricalness
 embolomerism
 electrodynamism
 exhortative
-erosion
 entomophily
 ejects
 earns
