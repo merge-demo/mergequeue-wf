@@ -3553,7 +3553,6 @@ captacula
 colport
 captain
 captaincy
-captaincies
 caprioled
 captainry
 captainship
@@ -22364,6 +22363,7 @@ cylindered
 cawk
 congresser
 congresses
+captaincies
 cutocellulose
 clatch
 corneas
