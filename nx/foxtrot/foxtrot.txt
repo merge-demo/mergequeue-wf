@@ -1616,6 +1616,7 @@ forenamed
 florae
 floppies
 functionating
+fluvial
 fallalery
 filefish
 favouring
@@ -3833,7 +3834,6 @@ foxer
 faunule
 filmstrips
 filo
-fluvial
 filose
 ferrier
 ficaries
