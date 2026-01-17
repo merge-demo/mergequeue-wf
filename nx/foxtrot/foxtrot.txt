@@ -5509,7 +5509,6 @@ foremade
 frisado
 fledgiest
 forefend
-floatless
 foisonless
 feasten
 forefigure
@@ -7187,6 +7186,7 @@ ferryboats
 fascinating
 funicular
 fleapit
+floatless
 factious
 felonries
 favourers
