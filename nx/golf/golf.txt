@@ -2903,6 +2903,7 @@ ganglionic
 gustavus
 guardsman
 graminaceae
+ganocephalous
 gipser
 grasschat
 goombay
@@ -6333,7 +6334,6 @@ gonfalons
 gobylike
 gnashed
 gneu
-ganocephalous
 gotham
 gymnasial
 guidsire
