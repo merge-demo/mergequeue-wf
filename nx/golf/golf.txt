@@ -1645,7 +1645,6 @@ gummy
 gillies
 guaguanche
 gobiesocidae
-gingili
 glyptics
 gastralgy
 gaunted
@@ -2110,6 +2109,7 @@ governments
 graywall
 gawk
 gratingly
+gingili
 goatpox
 gignate
 gozzard
