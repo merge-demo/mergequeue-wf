@@ -9598,7 +9598,6 @@ greets
 gager
 grouts
 grouze
-gelatined
 giffgaff
 glossopodium
 gomutis
@@ -10531,6 +10530,7 @@ geometrina
 gonadotrophin
 geodesical
 gratiola
+gelatined
 gibs
 gulix
 georgia
