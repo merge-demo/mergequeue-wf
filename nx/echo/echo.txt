@@ -9971,7 +9971,6 @@ electrochemical
 endowers
 eluents
 entonement
-erythrin
 erugo
 entreatment
 electroform
@@ -12074,6 +12073,7 @@ ekphoria
 expostulation
 erepsin
 escuage
+erythrin
 embryectomies
 enflames
 earworm
