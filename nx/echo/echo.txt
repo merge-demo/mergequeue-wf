@@ -3578,7 +3578,6 @@ elemi
 emblements
 earmuffs
 expellee
-exclaimed
 endemically
 erraticism
 exon
@@ -7655,6 +7654,7 @@ eumenid
 epithalamus
 engender
 enterocleisis
+exclaimed
 encefalon
 enringed
 electroacoustical
