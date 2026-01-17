@@ -19706,7 +19706,6 @@ comatiks
 countercharged
 comatoseness
 comatosity
-combaron
 combasou
 combat
 criminal
@@ -27512,6 +27511,7 @@ coverable
 coverages
 cytostatically
 cuselite
+combaron
 convito
 crenulate
 coveralled
