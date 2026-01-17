@@ -240,6 +240,7 @@ fumarate
 fittonia
 facular
 faulting
+fiend
 fruitfullness
 fruitworm
 feverroot
@@ -10230,7 +10231,6 @@ flavour
 frittering
 fluoroscopy
 fuchi
-fiend
 furnit
 fluorometer
 frivolity
