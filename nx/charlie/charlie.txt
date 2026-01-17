@@ -7816,7 +7816,6 @@ certifiers
 cystein
 coelialgia
 certifies
-coys
 certiorate
 certis
 certitudes
@@ -11172,6 +11171,7 @@ comburimeter
 cymbocephalic
 chloralize
 coroplastic
+coys
 chloralized
 commissioners
 chloralosed
