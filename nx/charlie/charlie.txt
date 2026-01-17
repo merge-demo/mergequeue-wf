@@ -7409,7 +7409,6 @@ cephalogram
 cephaloid
 culminates
 cuticles
-crepuscle
 cephalology
 cryolites
 cosonant
@@ -26822,6 +26821,7 @@ counterflange
 cruzados
 counterfleury
 cupeling
+crepuscle
 clodlike
 counterfoil
 combativity
