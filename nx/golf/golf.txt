@@ -4573,6 +4573,7 @@ galoots
 groten
 glyptology
 granodioritic
+gentamicin
 greenwoods
 grandmothers
 geanticline
@@ -10546,7 +10547,6 @@ griffinhood
 germens
 gossipingly
 gudesakes
-gentamicin
 germinability
 gunjah
 glozer
