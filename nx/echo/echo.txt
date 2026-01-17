@@ -4102,7 +4102,6 @@ endsheet
 enquire
 elve
 encages
-eutherian
 ermit
 ethylbenzene
 euthymy
@@ -8867,6 +8866,7 @@ eremuri
 ethnoflora
 emotions
 electrotechnician
+eutherian
 escharoid
 englue
 exiler
