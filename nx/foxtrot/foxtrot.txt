@@ -2697,7 +2697,6 @@ frondage
 felonous
 ferulic
 fitzclarence
-frogeater
 foundational
 filaze
 frizziness
@@ -6602,6 +6601,7 @@ frills
 falter
 facility
 forgie
+frogeater
 farweltered
 fip
 failsoft
