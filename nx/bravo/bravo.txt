@@ -7554,7 +7554,6 @@ bardism
 baseband
 blazers
 belayer
-bardelle
 biathlon
 bedgery
 bevenom
@@ -15593,6 +15592,7 @@ bilbos
 benthal
 brisances
 bination
+bardelle
 barometer
 beavers
 brewsterite
