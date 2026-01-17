@@ -4591,7 +4591,6 @@ capsule
 cotoxo
 clapperdudgeon
 carnied
-carniferrin
 cripes
 carnifex
 carnifexes
@@ -22525,6 +22524,7 @@ chiolite
 champerties
 conjuctiva
 chitinized
+carniferrin
 cuproscheelite
 collingly
 conjugales
