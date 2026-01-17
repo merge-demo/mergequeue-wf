@@ -2977,6 +2977,7 @@ antitropical
 archenteron
 aulostomi
 actiniomorpha
+audiometrist
 amphiploidy
 addisoniana
 alterant
@@ -17026,7 +17027,6 @@ apocynthion
 apocynthions
 asperggilla
 apocopate
-audiometrist
 apocopated
 adhocracy
 artily
