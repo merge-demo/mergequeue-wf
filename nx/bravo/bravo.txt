@@ -8609,6 +8609,7 @@ bassnesses
 billeted
 bilabe
 biologize
+barman
 boweries
 bankrider
 bouleuteria
@@ -13336,7 +13337,6 @@ bostonian
 banderillas
 burglar
 branchstand
-barman
 babishly
 bumbarge
 bodrag
