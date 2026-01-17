@@ -12180,7 +12180,6 @@ behaviourist
 banged
 beloid
 backstop
-bathmats
 baedekers
 bonesets
 bever
@@ -17783,6 +17782,7 @@ buttals
 breakback
 burroweed
 burrows
+bathmats
 benevolent
 benzdifuran
 burrstone
