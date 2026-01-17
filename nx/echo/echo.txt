@@ -8159,7 +8159,6 @@ excursed
 epithermal
 elleck
 eliminative
-elmy
 echeveria
 episcopate
 expulsions
@@ -14138,6 +14137,7 @@ extrospect
 endarch
 evokes
 equivorous
+elmy
 embryogenetic
 existentialize
 epithamia
