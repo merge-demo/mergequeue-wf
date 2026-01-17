@@ -1523,6 +1523,7 @@ fittily
 forepiece
 faunish
 fleecing
+funditor
 foamers
 flatdom
 franklinite
@@ -10485,7 +10486,6 @@ footer
 filigree
 flow
 flamelet
-funditor
 flyspecked
 fermacy
 firstling
