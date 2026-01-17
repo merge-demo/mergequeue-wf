@@ -5688,6 +5688,7 @@ depletions
 danton
 denutrition
 disparities
+diploblastic
 delthyrium
 deploy
 desipramine
@@ -10181,7 +10182,6 @@ dues
 dave
 dewflower
 diverticulate
-diploblastic
 distraint
 downy
 deuteranomal
