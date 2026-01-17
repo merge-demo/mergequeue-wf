@@ -12665,6 +12665,7 @@ espied
 extrapolation
 ens
 electrophonic
+examinations
 erotogenic
 effrontery
 exterritoriality
@@ -14165,7 +14166,6 @@ escapists
 episcopising
 entredeux
 eof
-examinations
 ethmopalatine
 equivocacies
 extubation
