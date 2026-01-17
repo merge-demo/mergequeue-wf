@@ -5467,7 +5467,6 @@ afterdeal
 afterdeck
 aerial
 afterform
-actuarial
 amarantite
 aerolith
 aristos
@@ -24415,6 +24414,7 @@ antisuffragist
 alcoholized
 acetylenation
 alembicated
+actuarial
 autostyly
 accessorizing
 avouches
