@@ -1787,7 +1787,6 @@ exasper
 exclaimers
 euroclydon
 experimentor
-eliding
 epikia
 ecdemic
 eyelet
@@ -8615,6 +8614,7 @@ estrogen
 embranglement
 esthetes
 equidistribution
+eliding
 esu
 eutaxic
 equidiurnal
