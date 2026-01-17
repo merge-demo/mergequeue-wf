@@ -1530,7 +1530,6 @@ grantable
 glengarry
 guittonian
 gladsome
-gonopores
 garotted
 goutish
 gaolage
@@ -10136,6 +10135,7 @@ grouping
 gaskets
 gauderies
 geopolar
+gonopores
 granado
 guetre
 gemsbuck
