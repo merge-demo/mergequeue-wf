@@ -7864,7 +7864,6 @@ glead
 gala
 geographical
 gaj
-grene
 geophone
 gegg
 groaners
@@ -9276,6 +9275,7 @@ grandeeship
 ghatti
 griqualander
 granthi
+grene
 geminis
 gleaning
 glouting
