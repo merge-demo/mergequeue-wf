@@ -9429,7 +9429,6 @@ acini
 advehent
 academia
 arenig
-altimeters
 aspidomancy
 atabrine
 allesthesia
@@ -24867,6 +24866,7 @@ acritochromacy
 atmosphere
 alands
 animates
+altimeters
 artisanal
 aggrandizements
 avouchers
