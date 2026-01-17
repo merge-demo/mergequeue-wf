@@ -2721,7 +2721,6 @@ dewcup
 daijo
 decorist
 dragged
-dropshot
 durum
 daringness
 demilancer
@@ -10033,6 +10032,7 @@ dimorphotheca
 dividedness
 distort
 determinedness
+dropshot
 devitalize
 dogwood
 dactylioglyphtic
