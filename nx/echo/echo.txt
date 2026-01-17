@@ -5345,7 +5345,6 @@ endospore
 encharm
 epiphyte
 emetin
-exasperation
 endosteoma
 exarchy
 essentialism
@@ -13284,6 +13283,7 @@ eglantine
 etches
 electrohomeopathy
 earner
+exasperation
 expone
 eolation
 eyeshield
