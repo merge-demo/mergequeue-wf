@@ -5161,7 +5161,6 @@ endoenzyme
 epitrochoid
 elytrorrhaphy
 encyclic
-eclosions
 essonite
 epimeride
 enounced
@@ -9923,6 +9922,7 @@ emphasis
 epicentrum
 especialness
 equicellular
+eclosions
 electroosmotically
 estrayed
 ectropion
