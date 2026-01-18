@@ -5448,7 +5448,6 @@ afterclause
 aftercome
 australasian
 acrostichic
-aftercooler
 autocollimate
 anticorona
 ack
@@ -17658,6 +17657,7 @@ assail
 aggroup
 appl
 advena
+aftercooler
 angelin
 antienzymic
 amnionata
