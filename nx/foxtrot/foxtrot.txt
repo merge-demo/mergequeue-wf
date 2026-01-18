@@ -1552,6 +1552,7 @@ fauterer
 fauteuil
 fimbriodentate
 foreteach
+forspread
 forklift
 farrow
 forbathe
@@ -6609,7 +6610,6 @@ farweltered
 fip
 failsoft
 frotted
-forspread
 fullom
 freddo
 foldskirt
