@@ -2784,6 +2784,7 @@ almeh
 archaeologist
 argand
 armets
+antipolar
 archaist
 acrodactyla
 anarithmia
@@ -15842,7 +15843,6 @@ antipodism
 argentina
 apronstring
 antipoetical
-antipolar
 afibrinogenemia
 acanthus
 afrete
