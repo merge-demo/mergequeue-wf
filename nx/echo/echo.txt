@@ -3930,7 +3930,6 @@ epigonus
 enright
 emigration
 ensorcerize
-egressive
 echeneis
 entomotomy
 extraboldface
@@ -6319,6 +6318,7 @@ embrocation
 ejusd
 enalite
 eumycetes
+egressive
 equijacent
 euxenites
 enthralment
