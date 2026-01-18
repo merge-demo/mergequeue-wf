@@ -4371,7 +4371,6 @@ friendly
 freespac
 fleshings
 feaked
-fatling
 fosslify
 finific
 frankify
@@ -5756,6 +5755,7 @@ fishnets
 finedraw
 fermium
 financially
+fatling
 fawe
 forehanded
 flintwork
