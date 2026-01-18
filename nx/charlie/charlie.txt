@@ -9227,6 +9227,7 @@ censurers
 ceduous
 candours
 chastiment
+cryology
 clapperboard
 cheering
 corf
@@ -11739,7 +11740,6 @@ chondriomere
 caryatides
 chondriosphere
 connaturally
-cryology
 chondrites
 chondritic
 chondroalbuminoid
