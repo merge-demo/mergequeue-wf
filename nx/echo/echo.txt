@@ -6954,7 +6954,6 @@ entopic
 elements
 extrasensory
 emergency
-endiablee
 elling
 entoplasm
 estreats
@@ -10879,6 +10878,7 @@ epidemial
 eructation
 ereption
 euphemian
+endiablee
 eruction
 esuriently
 ejaculated
