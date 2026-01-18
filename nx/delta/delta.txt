@@ -10226,7 +10226,6 @@ disallowing
 distillation
 dinging
 dingleberry
-dingled
 denuclearize
 dingman
 doven
@@ -10436,6 +10435,7 @@ dotards
 djibouti
 demeritorious
 difunctional
+dingled
 diverges
 dioxindole
 decoyers
