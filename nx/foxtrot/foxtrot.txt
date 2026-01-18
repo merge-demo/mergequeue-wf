@@ -1908,6 +1908,7 @@ fontanelle
 fumbling
 fustilarian
 foism
+fenestellidae
 filoselle
 fruitless
 fleeceless
@@ -6575,7 +6576,6 @@ flurn
 flurried
 footage
 fumagine
-fenestellidae
 funambulation
 foulness
 fictor
