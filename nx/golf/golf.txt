@@ -923,6 +923,7 @@ gez
 gelatinizability
 genome
 guahivo
+gawking
 genteeler
 gaverick
 guna
@@ -1823,7 +1824,6 @@ gonadial
 gastroscopist
 gavelled
 genotypic
-gawking
 gypsiologist
 glossolaly
 gametophore
