@@ -1295,7 +1295,6 @@ cheapening
 copus
 cerulignone
 calepin
-calesero
 castorized
 campier
 cteniform
@@ -18561,6 +18560,7 @@ chello
 cill
 cohortative
 circumdiction
+calesero
 chapelling
 cephalalgia
 crownlet
