@@ -7721,6 +7721,7 @@ curatical
 counterappellant
 crowded
 commemorations
+criosphinx
 coccosphere
 cerevisial
 coes
@@ -29161,7 +29162,6 @@ cymbaler
 consignificator
 cryosel
 cryospheric
-criosphinx
 ciseaux
 chrysoprasus
 chromatospheric
