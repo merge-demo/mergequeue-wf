@@ -939,7 +939,6 @@ feel
 farfels
 furtherances
 faradisation
-fluosilicic
 fimbrilliferous
 faradised
 furfural
@@ -3519,6 +3518,7 @@ figshell
 forbare
 foe
 flankard
+fluosilicic
 ficins
 fordays
 foetalism
