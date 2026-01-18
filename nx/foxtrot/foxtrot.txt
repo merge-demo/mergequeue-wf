@@ -224,6 +224,7 @@ flindersia
 forsakes
 factrix
 forestland
+foregallery
 footmanship
 ferromagnetic
 factorials
@@ -11587,7 +11588,6 @@ forespoken
 flanch
 freity
 floscular
-foregallery
 fussbudgety
 fevers
 filtrates
