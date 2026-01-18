@@ -2352,6 +2352,7 @@ cinchonamin
 canalizes
 cystiferous
 celeomorph
+corticolous
 canalizing
 charmers
 canalla
@@ -25908,7 +25909,6 @@ corticium
 callans
 corticoafferent
 corticoline
-corticolous
 corticose
 corticosteroids
 clandestinity
