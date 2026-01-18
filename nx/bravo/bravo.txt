@@ -1397,6 +1397,7 @@ baldish
 ballparks
 boaters
 baldmoney
+brutage
 bryogenin
 baldmoneys
 bellwaver
@@ -15703,7 +15704,6 @@ belemnid
 benzoazurine
 broadcast
 beakerful
-brutage
 befancy
 bayonet
 bacteriosis
