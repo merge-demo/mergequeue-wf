@@ -1695,6 +1695,7 @@ gardeen
 gryphon
 gastrocoel
 gamuts
+glyphographic
 graupels
 gamelion
 gropers
@@ -8325,7 +8326,6 @@ gastroblennorrhea
 ginmill
 gambol
 graphologists
-glyphographic
 gyropigeon
 grammarians
 gimp

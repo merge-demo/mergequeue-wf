@@ -4048,6 +4048,7 @@ emphysema
 endobronchitis
 emphyteutic
 ectromelic
+encover
 enplanes
 entomoid
 explantation
@@ -8094,7 +8095,6 @@ ethylidene
 extraprovincial
 epiphragm
 enlargedness
-encover
 extrasyphilitic
 expressable
 enteromere
