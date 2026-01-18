@@ -6228,7 +6228,6 @@ adiposities
 agramed
 antipyrotic
 afterpeak
-agrammatism
 agrammatologia
 annattos
 ahab
@@ -10586,6 +10585,7 @@ aminomalonic
 antiforeign
 anicular
 anisodactyl
+agrammatism
 antiorgastic
 armrack
 aminopherase
