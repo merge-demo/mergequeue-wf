@@ -7608,7 +7608,6 @@ forebode
 frictionlessness
 forebodes
 frostweed
-fersmite
 flentes
 fleshbrush
 frivoler
@@ -8187,6 +8186,7 @@ falisci
 fractionate
 fanaticalness
 foretell
+fersmite
 filmiest
 fillister
 fathogram
