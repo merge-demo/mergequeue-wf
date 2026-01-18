@@ -927,6 +927,7 @@ freighters
 fids
 fantocine
 farawayness
+foreshow
 fennelflower
 formalazine
 ferine
@@ -5188,7 +5189,6 @@ felter
 fas
 flawful
 forvay
-foreshow
 fiscalization
 forelay
 flinches
