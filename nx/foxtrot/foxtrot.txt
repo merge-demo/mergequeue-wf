@@ -1628,6 +1628,7 @@ feelers
 fraischeur
 funfair
 filagreeing
+flamboyance
 fasciately
 flier
 foible
@@ -3617,7 +3618,6 @@ fairylands
 forestry
 foggily
 fermentology
-flamboyance
 fencelet
 flymen
 flenches
