@@ -10291,7 +10291,6 @@ entombing
 ethiodide
 excluded
 enspangle
-extravasate
 excipulum
 etherol
 experimentize
@@ -13957,6 +13956,7 @@ eozoonal
 enface
 electropoion
 enallage
+extravasate
 excuse
 extraparochial
 equicurve
