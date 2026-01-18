@@ -5507,7 +5507,6 @@ chains
 computations
 cutaneal
 casuistically
-cyclopedia
 casuistry
 catpipe
 colic
@@ -28770,6 +28769,7 @@ cantino
 cresegol
 cargo
 cresyl
+cyclopedia
 cresylate
 cresylic
 ciliary
