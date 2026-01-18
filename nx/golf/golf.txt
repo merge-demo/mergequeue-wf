@@ -5750,7 +5750,6 @@ gingers
 glossinas
 gertrude
 gilbertine
-gurneyite
 gloveress
 gimmaled
 gestning
@@ -9634,6 +9633,7 @@ goodenoviaceae
 granted
 gazed
 grind
+gurneyite
 galactodendron
 gnus
 gingersnap
