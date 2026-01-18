@@ -9369,7 +9369,6 @@ alternamente
 aframerican
 antilocapridae
 ambilateral
-arrestant
 annotatory
 arabia
 axonolipa
@@ -17195,6 +17194,7 @@ automatization
 aegopodium
 aspired
 androphagous
+arrestant
 althaeas
 almudes
 antivirus
