@@ -7456,6 +7456,7 @@ fiddleheaded
 fogs
 fidgetingly
 felting
+foldout
 friendliest
 flourishy
 foraminose
@@ -9268,7 +9269,6 @@ fruchtschiefer
 fossilization
 filmize
 fenagles
-foldout
 fusses
 fracturing
 filicide
