@@ -13805,7 +13805,6 @@ bedaggered
 besmudging
 boutonnieres
 boutons
-balister
 billback
 barrelful
 boulle
@@ -17880,6 +17879,7 @@ bivium
 biliousness
 boundable
 bushelers
+balister
 bushelfuls
 belabour
 bonytail
