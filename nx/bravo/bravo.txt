@@ -5591,6 +5591,7 @@ bekiss
 bashalick
 beachside
 bekisses
+belock
 beknighted
 beveller
 ballistite
@@ -5895,7 +5896,6 @@ bellwort
 brazilite
 bldg
 boarfishes
-belock
 basimesostasis
 beigy
 boatsmanship
