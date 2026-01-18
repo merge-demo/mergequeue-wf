@@ -3912,7 +3912,6 @@ baxtone
 brachyskelic
 boughten
 baguios
-bergylt
 breveted
 bint
 brockage
@@ -12428,6 +12427,7 @@ bedizening
 bulgarian
 bergeres
 beele
+bergylt
 backtack
 brownstones
 bustled
