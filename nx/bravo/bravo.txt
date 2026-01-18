@@ -7253,7 +7253,6 @@ boogeymen
 bagginess
 bestiary
 burrawang
-blastomeric
 bur
 bestiarian
 bestiarist
@@ -8670,6 +8669,7 @@ billionism
 billionth
 beldames
 belamy
+blastomeric
 bookable
 brightsomeness
 bimedial
