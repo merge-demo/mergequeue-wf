@@ -3430,7 +3430,6 @@ genotype
 guttiferal
 gundelet
 guides
-germinations
 gigglingly
 gools
 grittily
@@ -5934,6 +5933,7 @@ gymnospermous
 goitrous
 groove
 grousing
+germinations
 gasogene
 goliardeys
 goldarn
