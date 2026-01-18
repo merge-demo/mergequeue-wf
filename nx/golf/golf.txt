@@ -4891,7 +4891,6 @@ graphemes
 gowns
 gymnothorax
 gladhearted
-geometroidea
 giggish
 glaciology
 ghawazi
@@ -7461,6 +7460,7 @@ germarium
 gaudery
 galen
 gruffiest
+geometroidea
 gummer
 gonococcic
 googly
