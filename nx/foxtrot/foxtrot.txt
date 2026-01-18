@@ -2154,6 +2154,7 @@ finnicize
 floruit
 frigate
 footprints
+fleam
 fletch
 faujdar
 fuchsite
@@ -6145,7 +6146,6 @@ fictionise
 freeholders
 fustic
 frances
-fleam
 finking
 fractal
 fumarates
