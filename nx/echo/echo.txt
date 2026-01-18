@@ -10295,7 +10295,6 @@ ethiodide
 excluded
 enspangle
 extravasate
-eulogium
 excipulum
 etherol
 experimentize
@@ -12150,6 +12149,7 @@ exsert
 ellipse
 encolure
 econometrical
+eulogium
 ethmoturbinate
 excussed
 estranges
