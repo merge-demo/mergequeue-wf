@@ -1480,6 +1480,7 @@ ann
 acclimatizer
 amphipneustic
 agreeableness
+arraignment
 avoidance
 acclinal
 adhesivemeter
@@ -20136,7 +20137,6 @@ aerosats
 allenarly
 allocutive
 acanthodini
-arraignment
 allolalia
 atavism
 aitesis
