@@ -568,6 +568,7 @@ blatiform
 baconize
 baconweed
 bierkeller
+boloball
 bonjour
 barniest
 bandannas
@@ -13941,7 +13942,6 @@ blad
 bluefishes
 bauno
 bitbrace
-boloball
 bowleg
 bowleggedness
 blithesome
