@@ -4916,6 +4916,7 @@ bobac
 burrowstown
 bolases
 beyerite
+boltrope
 battled
 beefalo
 basketweaving
@@ -12332,7 +12333,6 @@ bombaster
 bowfront
 biquartz
 brogans
-boltrope
 beadleism
 begrave
 bonellia
