@@ -6659,7 +6659,6 @@ boneshave
 beribanded
 belgard
 birdy
-basement
 bargeboard
 barbarious
 beriberis
@@ -16435,6 +16434,7 @@ brume
 borrowed
 boryl
 branchipus
+basement
 biosynthetic
 borage
 brushers
