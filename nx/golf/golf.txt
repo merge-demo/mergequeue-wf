@@ -3854,7 +3854,6 @@ gastaldo
 governing
 gallantry
 gibber
-gibberellin
 grandmotherhood
 gaffing
 goffers
@@ -6575,6 +6574,7 @@ geminated
 gratiolin
 garrulous
 gabblers
+gibberellin
 gesten
 grew
 globuliform
