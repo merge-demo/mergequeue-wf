@@ -982,7 +982,6 @@ definement
 darkies
 drupel
 darkish
-drillmasters
 draughtsmen
 disquietudes
 driven
@@ -4325,6 +4324,7 @@ drused
 demasting
 dematerialisation
 dematerialised
+drillmasters
 divinified
 donal
 disproportionation
