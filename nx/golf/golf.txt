@@ -2446,7 +2446,6 @@ gyrencephalous
 gonochoristic
 geometricism
 glariest
-gnawable
 gyrolith
 gazel
 gnapweed
@@ -10166,6 +10165,7 @@ gynecocracy
 galways
 gazolyte
 guller
+gnawable
 greenier
 gilding
 grudges
