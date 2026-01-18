@@ -615,7 +615,6 @@ galbulinae
 guaranian
 glockenspiels
 gabert
-glossopalatine
 grieben
 guineas
 gemming
@@ -8060,6 +8059,7 @@ glyptodontoid
 glumpiness
 glimpsing
 gradational
+glossopalatine
 goodhap
 geonoma
 galleyman
