@@ -8096,6 +8096,7 @@ castores
 chaetopodan
 chaetopterus
 canthi
+capiturlary
 chaetosomidae
 compacting
 chaetotactic
@@ -20041,7 +20042,6 @@ cinemelodrama
 cocorico
 ciliograde
 conterminal
-capiturlary
 circularizations
 commendatorily
 commended
