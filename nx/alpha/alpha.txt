@@ -13249,6 +13249,7 @@ albireo
 aurifex
 agglutinability
 autosome
+artel
 abobra
 anthelminthic
 apoturmeric
@@ -23184,7 +23185,6 @@ attest
 acknowledges
 attestable
 ascula
-artel
 arsonvalization
 alytarch
 anisotonic
