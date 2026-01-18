@@ -1817,6 +1817,7 @@ fastener
 fractureproof
 fissiparous
 forane
+forefeeling
 featured
 fluidify
 featureful
@@ -7256,7 +7257,6 @@ flabel
 fused
 foremind
 fishbone
-forefeeling
 filths
 foresays
 flummox
