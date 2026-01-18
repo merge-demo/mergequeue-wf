@@ -2225,6 +2225,7 @@ entozoologist
 examination
 elderberries
 exaggeration
+epimedium
 equips
 erythemic
 extromit
@@ -6583,7 +6584,6 @@ excusive
 epipterous
 eccritic
 embattled
-epimedium
 enorthotrope
 estoppels
 electricity
