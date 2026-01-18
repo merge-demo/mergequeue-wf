@@ -2631,7 +2631,6 @@ caprellidae
 canescence
 chaetetes
 conversationalist
-composes
 chimp
 canework
 chuckling
@@ -28969,6 +28968,7 @@ coachbuilding
 choledography
 citrated
 crig
+composes
 crying
 chambermaids
 clogs
