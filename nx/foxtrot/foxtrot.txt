@@ -7052,6 +7052,7 @@ fluxed
 ferthumlungur
 fumarase
 fibromatosis
+footnote
 ferrocyanic
 fisherpeople
 flaky
@@ -10315,7 +10316,6 @@ flabelliform
 fibra
 filite
 floated
-footnote
 fissure
 froggies
 finale
