@@ -4844,6 +4844,7 @@ fever
 fanglet
 folie
 fauve
+fundamentals
 filigrain
 flageolets
 fissiparousness
@@ -8255,7 +8256,6 @@ foothils
 flakier
 fitout
 forewritten
-fundamentals
 forgeries
 fictioneer
 federative

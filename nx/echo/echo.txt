@@ -5006,7 +5006,6 @@ enschedule
 exomphalous
 electrofused
 eco
-eightscore
 endenization
 excusator
 ecarte
@@ -13413,6 +13412,7 @@ exposture
 encephalola
 emotion
 entropium
+eightscore
 exter
 entrapments
 expounder
