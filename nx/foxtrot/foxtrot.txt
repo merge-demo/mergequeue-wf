@@ -4918,6 +4918,7 @@ fooless
 flagworm
 firelike
 fittedness
+flophouses
 florida
 flivvers
 fairwater
@@ -6880,7 +6881,6 @@ floridean
 fiefdom
 foal
 foldaway
-flophouses
 feretory
 ferryman
 farfal
