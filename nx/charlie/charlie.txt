@@ -8958,6 +8958,7 @@ crowds
 catholicizing
 chareter
 charette
+cleistothecia
 censers
 chemisms
 cenobium
@@ -22792,7 +22793,6 @@ clearage
 coticular
 clovers
 cabers
-cleistothecia
 consecrator
 consecratory
 consectary
