@@ -18579,6 +18579,7 @@ considerateness
 coiffe
 coiffed
 carryover
+creel
 caustics
 clavers
 coiffeur
@@ -28555,7 +28556,6 @@ creekfishes
 cothurnni
 catoptrical
 cheliferous
-creel
 correllation
 creen
 coelococcus
