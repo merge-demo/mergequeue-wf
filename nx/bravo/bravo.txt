@@ -12232,6 +12232,7 @@ byrled
 brabbler
 bavardage
 bye
+barwing
 boleweed
 biometeorology
 bulbous
@@ -13993,7 +13994,6 @@ brooky
 boxcars
 brairo
 bishopful
-barwing
 bowsie
 badinaging
 bacteriuria
