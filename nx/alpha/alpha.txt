@@ -4849,6 +4849,7 @@ auslaut
 airphobia
 adelochorda
 aliyoth
+arache
 aerodonetics
 appeasement
 amnesiac
@@ -24152,7 +24153,6 @@ acetylthymol
 alewives
 avast
 accredits
-arache
 altoist
 agricolist
 alkaliferous
