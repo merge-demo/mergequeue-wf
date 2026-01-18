@@ -331,7 +331,6 @@ cackles
 calesas
 cnidocyst
 cacostomia
-coronamen
 conventicle
 committedness
 cacochylia
@@ -6993,6 +6992,7 @@ cementwork
 cemetaries
 cemetery
 copesettic
+coronamen
 cemeterial
 cephalotomy
 catchpenny
