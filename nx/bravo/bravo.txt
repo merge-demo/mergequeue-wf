@@ -6572,7 +6572,6 @@ blastospheric
 bakehead
 boatside
 borickite
-brekky
 benzothiazole
 berberi
 breastrope
@@ -15784,6 +15783,7 @@ beclogged
 brochophony
 brocht
 brochure
+brekky
 balisier
 babblishly
 bombsight
