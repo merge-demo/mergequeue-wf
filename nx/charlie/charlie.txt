@@ -167,7 +167,6 @@ countervails
 caboceer
 cizar
 caboched
-clump
 cabocle
 caboclo
 coploughing
@@ -12400,6 +12399,7 @@ chromatoptometry
 couch
 cobalticyanic
 chromatoscopy
+clump
 circumduct
 chromatosis
 chromaturia
