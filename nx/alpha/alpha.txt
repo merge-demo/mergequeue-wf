@@ -12930,7 +12930,6 @@ antispectroscopic
 anvilling
 angustiseptal
 accommodable
-angustura
 antireforming
 angwich
 aphorismic
@@ -21569,6 +21568,7 @@ aspiration
 aspiree
 anhang
 adipoma
+angustura
 aralia
 aspirer
 aspirers
