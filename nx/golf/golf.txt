@@ -2636,6 +2636,7 @@ gowf
 glossolabial
 goutte
 goliath
+goldfielder
 grav
 genesitic
 gymnastics
@@ -8671,7 +8672,6 @@ glucosin
 gauntleted
 gulfed
 gingerleaf
-goldfielder
 glucosuria
 gaslight
 gasteralgia
