@@ -4929,7 +4929,6 @@ fairwater
 flaxbush
 frankpledge
 funambulating
-foothook
 flaring
 frabbit
 forearm
@@ -9714,6 +9713,7 @@ forlet
 floatier
 feeders
 falcata
+foothook
 flitwite
 ferias
 flukier
