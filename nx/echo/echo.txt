@@ -9354,6 +9354,7 @@ erinys
 endosiphon
 erythroid
 encrusted
+equimolar
 ebcd
 erugos
 escapage
@@ -14156,7 +14157,6 @@ entocuneiform
 excussion
 epitaphic
 evensongs
-equimolar
 extrachromosomal
 expromission
 ectoenzyme
