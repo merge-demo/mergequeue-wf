@@ -3621,6 +3621,7 @@ gottlieb
 grenadin
 gangues
 gingko
+gau
 garmentworker
 globelet
 glowing
@@ -8384,7 +8385,6 @@ greenslade
 gracefulness
 gobber
 greyer
-gau
 geanticlinal
 garbled
 gentes
