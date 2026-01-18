@@ -2387,7 +2387,6 @@ elderliness
 electromobilism
 excrementitial
 endoscopes
-excrete
 espaliering
 euphemizing
 encore
@@ -5316,6 +5315,7 @@ extrahepatic
 endoscope
 equivocalities
 evansite
+excrete
 enantiopathy
 eradicators
 egeran
