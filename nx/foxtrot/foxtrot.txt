@@ -7483,6 +7483,7 @@ forby
 famelessly
 footplate
 flakiness
+furnished
 feedlots
 formous
 fantasist
@@ -11347,7 +11348,6 @@ flathat
 floodlight
 faceted
 fictional
-furnished
 funebrious
 faujasite
 formals
