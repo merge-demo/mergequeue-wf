@@ -8326,7 +8326,6 @@ episthotonos
 elegizes
 enolized
 electrodeposit
-enciphers
 elev
 expressibly
 endured
@@ -13001,6 +13000,7 @@ emulsoid
 explode
 evanition
 epicentrums
+enciphers
 eucrasy
 expecter
 enzym
