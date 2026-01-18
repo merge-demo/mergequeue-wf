@@ -1309,7 +1309,6 @@ exposition
 episomal
 evaluation
 eightfoil
-enmanche
 enthymeme
 ergostat
 eightling
@@ -9380,6 +9379,7 @@ essancias
 emane
 exocyclica
 enrobement
+enmanche
 effecter
 educable
 earmindedness
