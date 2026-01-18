@@ -1764,7 +1764,6 @@ glycerinate
 guildry
 gympie
 goldstone
-genotypes
 gunsmiths
 gastronosus
 gnarrs
@@ -9233,6 +9232,7 @@ glycolytically
 gynecologist
 guanajuatite
 greenwich
+genotypes
 gynarchies
 galvanization
 ganglionitis
