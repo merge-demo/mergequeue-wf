@@ -4423,7 +4423,6 @@ gelidiaceae
 gametocyst
 goldfinches
 gyron
-gallanilide
 gyniatries
 gambias
 graffias
@@ -5489,6 +5488,7 @@ girlhood
 gus
 glossoepiglottidean
 galactophlebitis
+gallanilide
 gravidae
 groatsworth
 gavot
