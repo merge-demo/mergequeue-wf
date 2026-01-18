@@ -5880,7 +5880,6 @@ gate
 glassily
 gynoecium
 greens
-gonotype
 grievants
 goofier
 gastrostomies
@@ -10466,6 +10465,7 @@ gundalow
 gerrymandered
 gametophagia
 gynaeolater
+gonotype
 gastrolienal
 gypaetus
 geometries
