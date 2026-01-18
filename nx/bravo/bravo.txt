@@ -4337,6 +4337,7 @@ birrettas
 bepen
 beccafico
 buttressing
+bipods
 beccaficoes
 bealtuinn
 beccaficos
@@ -9309,7 +9310,6 @@ bonavist
 butler
 bantamweights
 bipod
-bipods
 boondoggles
 botches
 bipolarity
