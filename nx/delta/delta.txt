@@ -16195,7 +16195,6 @@ downcastness
 disabling
 deringer
 danagla
-dueled
 downcome
 downcoming
 deke
@@ -17012,6 +17011,7 @@ dialectology
 depressurize
 disfame
 dfault
+dueled
 denominatively
 dekagram
 doberman
