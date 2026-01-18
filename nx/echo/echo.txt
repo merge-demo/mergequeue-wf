@@ -1583,6 +1583,7 @@ expostulative
 egg
 ethmoid
 endosternum
+encumber
 exradio
 episcopised
 evoke
@@ -10816,7 +10817,6 @@ euskera
 esterases
 eluviation
 epitactic
-encumber
 excitosecretory
 engrafts
 embracer
