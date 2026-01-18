@@ -2067,7 +2067,6 @@ cropper
 capitalizer
 chicomecoatl
 cruelize
-colonial
 coburgess
 camouflageable
 camouflager
@@ -24139,6 +24138,7 @@ charon
 convictfish
 convictfishes
 cornulites
+colonial
 convictible
 coerecting
 carfax
