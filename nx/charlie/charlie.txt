@@ -10986,6 +10986,7 @@ chiropterite
 chirospasm
 chirotherian
 casern
+chignoned
 combflower
 corrals
 crocodilia
@@ -22501,7 +22502,6 @@ crosser
 charmel
 cottonwood
 cerebrosis
-chignoned
 conjoinedly
 conjointment
 chromaffin
