@@ -2289,7 +2289,6 @@ agronomics
 aciculum
 awning
 akhlame
-aluminous
 adjectitious
 attempers
 acidaspis
@@ -14657,6 +14656,7 @@ antinormal
 anthryl
 adelges
 antiaristocratically
+aluminous
 addis
 aigret
 arrgt
