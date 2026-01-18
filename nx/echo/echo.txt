@@ -7896,7 +7896,6 @@ etheling
 existing
 eidola
 enlargement
-ethonone
 euphemistic
 eclampsia
 enclavement
@@ -8191,6 +8190,7 @@ enroots
 ethnicity
 earth
 expirant
+ethonone
 encyclical
 episodical
 earsh
