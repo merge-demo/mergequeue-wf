@@ -22178,7 +22178,6 @@ confusability
 capitalised
 compactness
 confusedly
-carnalized
 confusedness
 confuser
 chickee
@@ -26348,6 +26347,7 @@ curlers
 cotemporanean
 cotemporaneously
 cotemporaries
+carnalized
 caravel
 clubbable
 cozeiest
