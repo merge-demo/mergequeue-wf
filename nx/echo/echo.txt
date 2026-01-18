@@ -10849,6 +10849,7 @@ eimer
 etamins
 eudemony
 explodes
+extinctions
 engine
 electrocuting
 execrates
@@ -13744,7 +13745,6 @@ ectosphere
 extincted
 enterostomies
 editable
-extinctions
 enantiopathic
 euphorbia
 episcopacy
