@@ -257,7 +257,6 @@ balancedness
 brontosaur
 beamily
 bacillariaceous
-bedfellow
 bacillariophyta
 buckwasher
 bacilli
@@ -8642,6 +8641,7 @@ bellyfull
 bioactivity
 bronchial
 bailout
+bedfellow
 belatedly
 bloman
 beeswinged
