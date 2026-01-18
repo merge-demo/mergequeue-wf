@@ -604,6 +604,7 @@ font
 famine
 fussed
 flamier
+fancymonger
 fortunation
 fdubs
 ferrocyanhydric
@@ -10184,7 +10185,6 @@ flammability
 forespake
 fatsoes
 flanque
-fancymonger
 frisking
 filching
 froth
