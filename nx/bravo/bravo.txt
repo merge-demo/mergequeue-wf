@@ -5473,7 +5473,6 @@ berrigan
 bedraped
 bendways
 benignness
-borg
 bechamel
 bullets
 bonce
@@ -16506,6 +16505,7 @@ brushier
 bunkoed
 barbouillage
 bluenoser
+borg
 bloodshotten
 bendys
 beggable
