@@ -7382,7 +7382,6 @@ ecdyson
 exonship
 epithetical
 extollment
-everywhither
 earthmoving
 equipollency
 emissile
@@ -12505,6 +12504,7 @@ eugeny
 exoskeleton
 easeled
 exist
+everywhither
 existed
 elucidating
 esne
