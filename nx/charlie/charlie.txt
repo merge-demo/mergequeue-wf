@@ -223,6 +223,7 @@ cabrillas
 cabrit
 comprend
 cabstands
+crewel
 celebrators
 coalyards
 cabureiba
@@ -2542,7 +2543,6 @@ circumcinct
 candlemaker
 candlemaking
 candlemas
-crewel
 childproof
 cacqueteuse
 candlenut
