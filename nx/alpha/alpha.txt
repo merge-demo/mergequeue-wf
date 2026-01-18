@@ -10973,6 +10973,7 @@ archsin
 accessor
 anniellidae
 ampasimenite
+anomodont
 ampelidaceous
 acher
 ampelidae
@@ -13682,7 +13683,6 @@ anomia
 acquiet
 anutraminosa
 apparatchik
-anomodont
 aythya
 anomodontia
 anomoeomery
