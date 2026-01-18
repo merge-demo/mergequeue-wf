@@ -11970,7 +11970,6 @@ dissoluble
 discuses
 disease
 dialysers
-dentalisation
 defectively
 deductile
 diseased
@@ -18424,6 +18423,7 @@ diphthongise
 duping
 diabolic
 dipsticks
+dentalisation
 dupion
 disendowing
 diarize
