@@ -4364,6 +4364,7 @@ expulsive
 expansibleness
 enactor
 epigrammatize
+extend
 eloquence
 enamelist
 euthenasia
@@ -4797,7 +4798,6 @@ endosmosic
 excircle
 exploratory
 extracardial
-extend
 endosporously
 emeried
 ecu
