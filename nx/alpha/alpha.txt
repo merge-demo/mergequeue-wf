@@ -10206,7 +10206,6 @@ autogenetic
 ament
 amphiblastula
 adaunt
-arrhenotoky
 arundineous
 allotheria
 ankylopoietic
@@ -16910,6 +16909,7 @@ anteverts
 approbator
 ambrite
 animotheism
+arrhenotoky
 apishamore
 adstipulated
 aceturic
