@@ -5145,6 +5145,7 @@ affected
 agpaitic
 affectibility
 affecting
+accidie
 archinformer
 acrochordon
 antitangent
@@ -10780,7 +10781,6 @@ affronter
 allamoth
 antiphilosophy
 amerindic
-accidie
 allegorical
 amniocentesis
 anapnoic
