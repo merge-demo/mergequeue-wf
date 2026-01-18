@@ -13119,6 +13119,7 @@ clodhopper
 cliffiest
 cycadeoidea
 cycadite
+carucate
 cooner
 cotys
 catstone
@@ -16746,7 +16747,6 @@ calycoid
 cyanus
 carts
 consonantalized
-carucate
 camases
 clotting
 characterful
