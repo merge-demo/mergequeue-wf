@@ -2283,6 +2283,7 @@ anabas
 arsenicate
 areographer
 acichloride
+antimere
 aciculae
 amended
 agronomics
@@ -7558,7 +7559,6 @@ antisepticist
 alcidine
 abstracter
 alcine
-antimere
 atomist
 alcyonacean
 alcyoniaceae
