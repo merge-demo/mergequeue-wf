@@ -690,7 +690,6 @@ fishwood
 finenesses
 fiancing
 fidate
-focalised
 frisker
 fizzier
 fireman
@@ -6455,6 +6454,7 @@ flaking
 fumerel
 flashingly
 foppy
+focalised
 flatlings
 fricandel
 farcin
