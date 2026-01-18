@@ -3761,7 +3761,6 @@ astrogeny
 allayers
 adhibition
 antidemocracies
-apologies
 anthobiology
 alberta
 awol
@@ -24245,6 +24244,7 @@ arriccio
 automatous
 automechanical
 almoner
+apologies
 actinically
 alluvion
 ananke
