@@ -5459,7 +5459,6 @@ castles
 castlet
 commercing
 candlesticked
-confront
 capellane
 casaque
 castlewise
@@ -11683,6 +11682,7 @@ cheilodipteridae
 cryogen
 criniger
 chollas
+confront
 choller
 chameleonize
 crouperbush
