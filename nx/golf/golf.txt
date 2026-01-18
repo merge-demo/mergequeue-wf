@@ -6563,6 +6563,7 @@ gallisin
 graceless
 galls
 goma
+gatherable
 glossoplegia
 granduncles
 grottoed
@@ -8817,7 +8818,6 @@ grantors
 gorge
 greenling
 grogram
-gatherable
 groszy
 gentilism
 glyceryls
