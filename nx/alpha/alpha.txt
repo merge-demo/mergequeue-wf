@@ -15098,7 +15098,6 @@ almners
 allotrope
 acrothoracica
 antiemetic
-antiempiric
 apothecia
 aggrandiser
 absents
@@ -18054,6 +18053,7 @@ abstricts
 assonances
 apteryla
 alternance
+antiempiric
 agentship
 arthralgic
 aptest
