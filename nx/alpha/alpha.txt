@@ -19783,7 +19783,6 @@ anilid
 armamentarium
 affeerment
 armangite
-adularia
 amalic
 auriculars
 adaptivity
@@ -25074,6 +25073,7 @@ alkylating
 alacha
 aor
 awrong
+adularia
 acromyodian
 anural
 azedarach
