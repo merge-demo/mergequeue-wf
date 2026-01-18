@@ -2201,7 +2201,6 @@ autodecremented
 antiantidote
 arioso
 alure
-alqueire
 amyelotrophy
 achordata
 achorion
@@ -15965,6 +15964,7 @@ antirabies
 aponeurositis
 anisomelia
 antirachitically
+alqueire
 acubens
 arecolidine
 adverbiality
