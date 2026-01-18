@@ -8970,7 +8970,6 @@ alkalises
 ammonoid
 allowed
 attorned
-assertiveness
 acquiescing
 assagais
 aftermarriage
@@ -11983,6 +11982,7 @@ admiral
 autodestruction
 apician
 aletris
+assertiveness
 abstractors
 aforethought
 armit
