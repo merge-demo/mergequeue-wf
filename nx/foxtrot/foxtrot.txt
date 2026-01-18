@@ -2863,6 +2863,7 @@ faddish
 forebemoan
 feltyfare
 fisty
+forenent
 finable
 foresails
 flurry
@@ -9140,7 +9141,6 @@ foxbane
 faltered
 falcular
 fribbleism
-forenent
 faucitis
 friesish
 females
