@@ -52,7 +52,6 @@ dacryocystitis
 diarchial
 dominicans
 diseasefulness
-dacryocystosyringotomy
 derham
 dichotomise
 dacryorrhea
@@ -15783,6 +15782,7 @@ doxantha
 dorsi
 debosh
 dorsibranchiata
+dacryocystosyringotomy
 didymitis
 disciplined
 diaphragming
