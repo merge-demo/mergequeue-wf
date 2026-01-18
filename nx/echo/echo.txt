@@ -5545,6 +5545,7 @@ embus
 eyestones
 eucarida
 enameler
+exequatur
 epigrammatised
 enhusk
 ennuis
@@ -10826,7 +10827,6 @@ estivates
 embryographic
 euphemizer
 ethicalism
-exequatur
 eighteenth
 emanation
 endoprocta
