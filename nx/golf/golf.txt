@@ -613,6 +613,7 @@ germanity
 gigue
 galactose
 galbulinae
+germanophile
 guaranian
 glockenspiels
 gabert
@@ -6408,7 +6409,6 @@ gugal
 grapes
 grandisonous
 gospelwards
-germanophile
 greenwort
 gradatim
 galloped
