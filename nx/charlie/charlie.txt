@@ -13573,7 +13573,6 @@ cymbalists
 coagulates
 cymballed
 cymballing
-cymbalom
 cimbaloms
 cymbalon
 cymbel
@@ -20569,6 +20568,7 @@ counterterror
 coremia
 chalah
 compensated
+cymbalom
 cerrero
 compensatingly
 confriar

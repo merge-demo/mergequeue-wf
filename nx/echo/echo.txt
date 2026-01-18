@@ -3139,7 +3139,6 @@ etiolin
 emetia
 excreters
 epicurish
-eardrop
 enseraph
 ellfish
 endarterium
@@ -7923,6 +7922,7 @@ epicele
 exordia
 epimandibular
 enthrone
+eardrop
 eolopile
 equivocatory
 eternizes
