@@ -17467,7 +17467,6 @@ brulots
 boomage
 bridles
 bracer
-blacklight
 barbiturates
 buscarle
 brachydiagonal
@@ -17677,6 +17676,7 @@ bowlder
 burkundaz
 burlace
 bylaws
+blacklight
 brodyaga
 balancement
 bevomits
