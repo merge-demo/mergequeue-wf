@@ -155,6 +155,7 @@ glunimie
 gorgonian
 gremiale
 galvanosurgery
+genevoise
 gybe
 glacialize
 gilds
@@ -7018,7 +7019,6 @@ glaucolite
 guirlande
 gauntries
 gushiest
-genevoise
 goosemouth
 gynosporangium
 goofiness

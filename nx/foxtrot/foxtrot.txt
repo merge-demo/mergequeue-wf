@@ -833,7 +833,6 @@ flipe
 fudge
 folkloristic
 fustanelle
-fantasticalness
 fulgide
 fightings
 frisk
@@ -1641,6 +1640,7 @@ flier
 foible
 frictionproof
 fretize
+fantasticalness
 foresight
 fellmongery
 fawners
