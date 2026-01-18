@@ -5950,6 +5950,7 @@ bartizan
 belauding
 blumea
 bimetalic
+bongoes
 buyouts
 bottlenecks
 ballistic
@@ -12577,7 +12578,6 @@ backdoor
 blazed
 bonfires
 benchy
-bongoes
 blockaded
 bongoist
 bannimus
