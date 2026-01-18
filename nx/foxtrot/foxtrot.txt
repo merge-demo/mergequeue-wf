@@ -5722,7 +5722,6 @@ forlese
 flightier
 formulas
 foster
-foetor
 fernery
 frigidaire
 fibrocement
@@ -8012,6 +8011,7 @@ fantasticness
 federalisation
 fopdoodle
 freeheartedness
+foetor
 foreshadow
 forgivenesses
 foreshadowed
