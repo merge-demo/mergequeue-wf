@@ -1194,6 +1194,7 @@ gaol
 gulls
 graphometry
 grinners
+glans
 galliney
 grifters
 grogs
@@ -1515,7 +1516,6 @@ grincome
 gynocardia
 gangliocyte
 guydom
-glans
 grouter
 gaselier
 golet
