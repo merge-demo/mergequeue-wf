@@ -5396,6 +5396,7 @@ eosphorite
 existant
 edges
 elfishly
+explosions
 evicted
 emption
 encarnalize
@@ -10539,7 +10540,6 @@ eubteria
 embezzlers
 encodement
 evulge
-explosions
 entohyal
 endogastritis
 encloser
