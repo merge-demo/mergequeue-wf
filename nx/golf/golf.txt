@@ -1530,7 +1530,6 @@ gastric
 gisarme
 growly
 greta
-ghostology
 granolith
 gaseousness
 guijo
@@ -4567,6 +4566,7 @@ glyptology
 granodioritic
 gentamicin
 greenwoods
+ghostology
 grandmothers
 geanticline
 geotropy
