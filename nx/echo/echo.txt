@@ -950,7 +950,6 @@ endosporous
 eriodictyon
 exampled
 envision
-exegesist
 enteritidis
 equiradial
 echinoids
@@ -6011,6 +6010,7 @@ exigence
 electricalness
 embolomerism
 electrodynamism
+exegesist
 exhortative
 entomophily
 ejects
