@@ -6521,6 +6521,7 @@ foliates
 ferforth
 fireflower
 flibbertigibbet
+finishers
 flayer
 freshish
 farmed
@@ -7175,7 +7176,6 @@ fennig
 fledge
 fedayeen
 fighter
-finishers
 foolish
 ferryboats
 fascinating
