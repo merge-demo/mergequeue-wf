@@ -1077,7 +1077,6 @@ gluteofemoral
 gratefully
 gompholobium
 gooranut
-galvanometry
 ganglioma
 gasteropod
 ganglionate
@@ -7846,6 +7845,7 @@ gipseian
 greeny
 grubworm
 gulleys
+galvanometry
 gutweed
 gaius
 gillstoup
