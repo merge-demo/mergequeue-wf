@@ -666,7 +666,6 @@ gunkhole
 gudebrother
 grihyasutra
 grindstones
-goury
 gastrojejunostomy
 gastrasthenia
 gliff
@@ -4711,6 +4710,7 @@ ghafir
 gospelist
 geobiology
 galli
+goury
 gastroplenic
 gestes
 guttery
