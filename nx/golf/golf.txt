@@ -5507,7 +5507,6 @@ gladful
 gearwheel
 goethite
 gamelote
-gyrfalcons
 gamolepis
 gonadic
 gliffy
@@ -10606,6 +10605,7 @@ goldenmouth
 gallow
 glumose
 gallinules
+gyrfalcons
 gotraja
 goy
 greenhearted
