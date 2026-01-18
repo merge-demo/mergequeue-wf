@@ -6041,7 +6041,6 @@ bellow
 bemoan
 bookie
 bemoaned
-bauxitic
 baccarats
 bowenite
 biomathematics
@@ -9275,6 +9274,7 @@ biordinal
 blancmange
 batussi
 bladebone
+bauxitic
 bipinnarias
 bipinnated
 becked
