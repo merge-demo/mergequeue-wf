@@ -4252,7 +4252,6 @@ fatherlands
 fisticuffs
 fluxile
 fructose
-fibrospongiae
 fruitlessness
 finialed
 fragmentally
@@ -9542,6 +9541,7 @@ flisk
 fitfulness
 faux
 furcae
+fibrospongiae
 familial
 fauld
 fireboxes
