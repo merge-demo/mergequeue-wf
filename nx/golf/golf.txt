@@ -5779,7 +5779,6 @@ gurus
 geologize
 gallopade
 glossohyal
-gobos
 glossolalia
 gustoes
 glossolysis
@@ -9976,6 +9975,7 @@ growingly
 grata
 genevese
 girderless
+gobos
 glebes
 gipsyry
 geoparallelotropic
