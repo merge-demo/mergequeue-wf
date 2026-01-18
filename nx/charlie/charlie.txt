@@ -22628,7 +22628,6 @@ coaevals
 cantabri
 cheesemonger
 connexiva
-cringer
 cornel
 connexure
 crumbier
@@ -25660,6 +25659,7 @@ corregimientos
 chaucerianism
 correl
 chromosomic
+cringer
 coolaman
 correlatable
 cathedrae
