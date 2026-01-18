@@ -7850,7 +7850,6 @@ cerulignol
 cerumen
 ceruminal
 costean
-chemoautotrophy
 charabancer
 clorinator
 cerussite
@@ -23396,6 +23395,7 @@ containing
 contains
 canzonetta
 courtby
+chemoautotrophy
 contaminant
 contaminants
 contaminate
