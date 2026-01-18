@@ -1994,7 +1994,6 @@ fivebar
 frettiest
 frden
 feeds
-favellae
 fight
 futurists
 forbiddal
@@ -8500,6 +8499,7 @@ fantail
 fathercraft
 franciscan
 furrower
+favellae
 fidelia
 fescues
 fasels
