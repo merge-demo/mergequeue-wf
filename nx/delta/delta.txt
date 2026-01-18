@@ -10690,7 +10690,6 @@ doralium
 dolomize
 doon
 discoveries
-diplopod
 diplopoda
 daffadillies
 delocalization
@@ -12864,6 +12863,7 @@ dyemaking
 daubs
 devolutive
 deliquiesce
+diplopod
 demiparadise
 dithalous
 disman
