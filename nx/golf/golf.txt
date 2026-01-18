@@ -1461,6 +1461,7 @@ garret
 graffer
 gruppetto
 gamostelic
+gypsiferous
 gipsire
 griseofulvin
 gashing
@@ -2610,7 +2611,6 @@ gametogeny
 gyve
 generate
 guitars
-gypsiferous
 glycogenolytic
 generated
 gazetteerage
