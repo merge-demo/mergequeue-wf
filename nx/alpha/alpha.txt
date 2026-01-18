@@ -8572,7 +8572,6 @@ archencephalic
 anotropia
 anastomosis
 autotheater
-amygdaloidal
 annunciatory
 allegorizer
 anomuran
@@ -9922,6 +9921,7 @@ appel
 ambigu
 anorthitite
 acinacity
+amygdaloidal
 ambilateralaterally
 applaudingly
 annonce

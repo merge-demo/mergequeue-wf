@@ -5831,7 +5831,6 @@ bemata
 beleaps
 bracteolate
 bestorm
-bldg
 bricks
 bulgur
 bellicism
@@ -5895,6 +5894,7 @@ bellwether
 bradmaker
 bellwort
 brazilite
+bldg
 boarfishes
 belock
 basimesostasis
