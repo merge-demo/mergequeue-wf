@@ -1623,7 +1623,6 @@ daydrudge
 dealkylate
 daundered
 disassembler
-deallocate
 devotional
 dicephalus
 darkhaired
@@ -2824,6 +2823,7 @@ disequalization
 decastellate
 draggle
 desidious
+deallocate
 daimones
 decrypt
 dasyus
