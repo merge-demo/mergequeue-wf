@@ -8646,6 +8646,7 @@ chiefs
 changer
 columbic
 changers
+cokelike
 clypei
 changes
 changs
@@ -18445,7 +18446,6 @@ componentry
 cognitional
 cognitive
 cognitively
-cokelike
 contagion
 cognizable
 cognizant
