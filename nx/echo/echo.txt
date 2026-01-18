@@ -1770,7 +1770,6 @@ electrolyzable
 ejaculating
 enjoy
 enterosyphilis
-embolon
 employ
 embossing
 epistilbite
@@ -5142,6 +5141,7 @@ epiplanktonic
 ejectives
 elaeoblast
 enneaphyllous
+embolon
 engirt
 epigrammatizing
 endocrinic
