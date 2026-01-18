@@ -4403,7 +4403,6 @@ asthenias
 agrypnode
 awash
 angild
-adumbrative
 aerobus
 adure
 andia
@@ -20709,6 +20708,7 @@ articularly
 axonemes
 articulars
 accessively
+adumbrative
 articulated
 abut
 amimia
