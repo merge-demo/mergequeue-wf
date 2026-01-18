@@ -8864,7 +8864,6 @@ bipartite
 bink
 benward
 binna
-bistournage
 bowering
 bursiform
 bulltoad
@@ -14318,6 +14317,7 @@ burelly
 benzaldoxime
 blites
 bivane
+bistournage
 biographize
 brads
 brainsickness
