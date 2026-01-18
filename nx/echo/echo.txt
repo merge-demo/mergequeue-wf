@@ -3324,7 +3324,6 @@ expendables
 elul
 epidemic
 enoil
-exhausting
 erects
 enclitical
 encephalotomy
@@ -4987,6 +4986,7 @@ enablers
 exigenter
 entoplastron
 encouragement
+exhausting
 enstamp
 encephalocoele
 expectable

@@ -20371,7 +20371,6 @@ arcsines
 anserated
 anticorrosives
 autoradiography
-apothgm
 alefzero
 admonitor
 awearied
@@ -23663,6 +23662,7 @@ acarpous
 accumbent
 auricularian
 appealingness
+apothgm
 auriculas
 aerogene
 aussie
