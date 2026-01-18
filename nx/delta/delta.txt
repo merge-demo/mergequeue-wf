@@ -9499,7 +9499,6 @@ dustiest
 detester
 disparateness
 digestibility
-digestible
 deedier
 dite
 digestibly
@@ -18021,6 +18020,7 @@ degeneralize
 displeasurable
 dislocations
 divinities
+digestible
 duler
 dillydallier
 dullard
