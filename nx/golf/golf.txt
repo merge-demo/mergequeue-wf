@@ -8183,7 +8183,6 @@ griding
 grayhound
 gypsuming
 goby
-grantia
 greekist
 gallet
 graustark
@@ -10318,6 +10317,7 @@ gault
 glabreity
 granulations
 guinfo
+grantia
 getsul
 glassfuls
 guarabu
