@@ -2551,7 +2551,6 @@ feeler
 footwall
 fibromembranous
 frate
-filamentule
 fooleries
 frangibility
 freeboot
@@ -3185,6 +3184,7 @@ ferment
 frighty
 frisii
 fertilizable
+filamentule
 fenceplay
 fisheries
 fistulated
