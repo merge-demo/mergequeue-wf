@@ -13707,7 +13707,6 @@ anonyma
 ami
 antifouler
 antiabrasion
-astragalonavicular
 alman
 anonymity
 anonymously
@@ -18618,6 +18617,7 @@ antiracial
 angerly
 arthrocarcinoma
 aggregable
+astragalonavicular
 achatina
 archaeostoma
 anisidine
