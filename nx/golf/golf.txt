@@ -3726,7 +3726,6 @@ gobline
 ghiblis
 geebung
 gynandria
-grisaille
 georgie
 galvanize
 garishness
@@ -9071,6 +9070,7 @@ geohydrologic
 groomer
 grillee
 gossipers
+grisaille
 gatehouse
 gigged
 groceress
