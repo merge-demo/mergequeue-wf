@@ -10095,6 +10095,7 @@ bilander
 baufrey
 bathoflore
 boomerang
+blowlamp
 bucolic
 blacklisting
 bullheadedness
@@ -11027,7 +11028,6 @@ blisteringly
 branchedness
 barlow
 blithe
-blowlamp
 bratina
 bhaiachara
 burliest
