@@ -4644,6 +4644,7 @@ caroch
 caroche
 closings
 cyclarthrsis
+colorblindness
 cinchonising
 carolan
 cochlidiidae
@@ -12926,7 +12927,6 @@ churrus
 cooeeing
 copiers
 clavus
-colorblindness
 carroming
 carbolic
 contestably
