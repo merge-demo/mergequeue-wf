@@ -1330,6 +1330,7 @@ glossarist
 grail
 geodiatropism
 guepard
+glowered
 giro
 graviers
 grindal
@@ -3193,7 +3194,6 @@ gellant
 gourounut
 grouses
 gavotte
-glowered
 goat
 graduating
 gelechiidae
