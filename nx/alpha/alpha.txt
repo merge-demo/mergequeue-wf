@@ -1373,7 +1373,6 @@ alphabetising
 accelerometer
 accelerometers
 adamancy
-anticatholic
 aurang
 anapaestical
 airtightly
@@ -18861,6 +18860,7 @@ archicantor
 artier
 abouts
 aghastness
+anticatholic
 accouterment
 archicerebrum
 archichlamydeae
