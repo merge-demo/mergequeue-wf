@@ -1625,7 +1625,6 @@ exogeny
 essenis
 emball
 endosperm
-enterokinetic
 electrosynthetically
 eglantines
 endocardia
@@ -7195,6 +7194,7 @@ enamines
 ellipticity
 elytroptosis
 eucharistize
+enterokinetic
 ecthymatous
 epharmonic
 emforth
