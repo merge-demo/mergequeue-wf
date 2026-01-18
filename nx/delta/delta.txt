@@ -2478,7 +2478,6 @@ dateline
 deporte
 debased
 ditchdown
-direct
 dirigent
 defoliant
 deckhand
@@ -6867,6 +6866,7 @@ dispositor
 desoeuvre
 dewlight
 drailed
+direct
 demidoctor
 destriers
 dsp
