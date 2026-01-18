@@ -13370,7 +13370,6 @@ brazed
 botanics
 bridechamber
 botanist
-botanize
 blattidae
 brushmen
 bescreening
@@ -14475,6 +14474,7 @@ branchiocardiac
 blowline
 bruckle
 brainstone
+botanize
 bracteal
 braconidae
 brainstormer
