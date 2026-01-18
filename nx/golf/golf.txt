@@ -7553,7 +7553,6 @@ garamond
 glabellous
 gryllus
 gubernaculum
-grigri
 graypate
 gemstones
 giggling
@@ -10295,6 +10294,7 @@ guestimating
 gervase
 guarantorship
 gonimoblast
+grigri
 gaumish
 grotesquery
 gravipause
