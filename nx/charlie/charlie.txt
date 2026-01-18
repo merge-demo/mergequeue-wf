@@ -4723,7 +4723,6 @@ charlock
 carpet
 carpetbagger
 chantage
-conchometry
 catty
 caddow
 compatibles
@@ -23133,6 +23132,7 @@ coystrel
 curupay
 coachy
 ck
+conchometry
 conceits
 constellated
 constellating
