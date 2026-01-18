@@ -7517,7 +7517,6 @@ ceratiasis
 charred
 ceratiid
 ceratins
-ceratioid
 capsuligerous
 curarized
 caffle
@@ -10143,6 +10142,7 @@ commodores
 changed
 capitalistic
 copurchaser
+ceratioid
 cephalograph
 chevin
 cheviots
