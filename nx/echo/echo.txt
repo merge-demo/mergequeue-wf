@@ -821,6 +821,7 @@ echinoderm
 ennoy
 expedition
 enfeebling
+ensphered
 endogonidium
 emotionalization
 erugatory
@@ -6329,7 +6330,6 @@ eschar
 eisteddfodau
 electrotheraputics
 euchred
-ensphered
 elucubrate
 eyespot
 enseal
