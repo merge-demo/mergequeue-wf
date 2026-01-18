@@ -1462,6 +1462,7 @@ flawless
 fatuus
 frankly
 fantasie
+fadeout
 feramorz
 fluentness
 filago
@@ -11499,7 +11500,6 @@ foothill
 ferrite
 figural
 finnmarks
-fadeout
 furthest
 frise
 flittering
