@@ -6795,7 +6795,6 @@ gamier
 gonionia
 genericness
 germs
-gamelang
 ganam
 gamgee
 galenites
@@ -9171,6 +9170,7 @@ gelseminic
 gummers
 guild
 gobonated
+gamelang
 ginward
 grummel
 gambier
