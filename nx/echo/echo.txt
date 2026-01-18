@@ -2783,7 +2783,6 @@ eeten
 equipotent
 electees
 enthusiasts
-expounds
 ennobler
 etymologies
 envoi
@@ -10239,6 +10238,7 @@ epaule
 ethicoreligious
 erased
 etesian
+expounds
 exculpating
 epanodos
 externalisation

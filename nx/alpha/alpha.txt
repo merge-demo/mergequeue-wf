@@ -1334,7 +1334,6 @@ amyelia
 atomized
 athanor
 acylating
-acaulescence
 amidships
 acaulescent
 acauline
@@ -6932,6 +6931,7 @@ aizoon
 alkenyl
 antitryptic
 ascensiontide
+acaulescence
 atrioventricular
 arborist
 animal
