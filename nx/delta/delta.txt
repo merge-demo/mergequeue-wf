@@ -11486,7 +11486,6 @@ disclosure
 diplomaed
 dermatoplast
 deinoceras
-discloud
 debord
 dingus
 disincarceration
@@ -13363,6 +13362,7 @@ despiciency
 dispropriate
 dysprosia
 disproves
+discloud
 dispurse
 distillate
 destuffing
