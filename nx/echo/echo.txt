@@ -764,7 +764,6 @@ esthesises
 evolutive
 ectental
 edifice
-exhibitor
 ensamples
 erythropoietin
 endocytotic
@@ -10377,6 +10376,7 @@ edgestone
 embezzlements
 exhibitive
 equibiradiate
+exhibitor
 egards
 endogenesis
 ellagic
