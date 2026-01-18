@@ -1431,7 +1431,6 @@ glycosemia
 geitjie
 glottalizing
 germanize
-gruffish
 gaits
 gypsies
 glaucophane
@@ -6837,6 +6836,7 @@ gravilea
 gonochorismal
 geryonia
 gonk
+gruffish
 guarding
 gurts
 gris
