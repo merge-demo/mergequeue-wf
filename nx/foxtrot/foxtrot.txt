@@ -4901,7 +4901,6 @@ flowery
 fatagaga
 factorylike
 festinately
-fructiparous
 feasting
 furnishing
 fodder
@@ -6722,6 +6721,7 @@ fatalistically
 floater
 fastuous
 fireweeds
+fructiparous
 fairgrass
 fruitery
 fatuousness
