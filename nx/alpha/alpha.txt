@@ -18031,7 +18031,6 @@ aproneer
 anhidrosis
 adminicle
 adular
-amphigenetic
 acopon
 aim
 aporosa
@@ -23907,6 +23906,7 @@ appositively
 alumbrado
 anzac
 authigenetic
+amphigenetic
 abjudication
 antiozonant
 authigenous
