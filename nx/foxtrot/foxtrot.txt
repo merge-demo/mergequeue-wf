@@ -713,6 +713,7 @@ forfeiture
 fobs
 falcinellus
 frogface
+feeblehearted
 firebolted
 fimetic
 fulminic
@@ -7984,7 +7985,6 @@ functionalize
 foresee
 furtively
 faitor
-feeblehearted
 fibrinolytic
 futchel
 footeite
