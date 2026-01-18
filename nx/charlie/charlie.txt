@@ -22119,7 +22119,6 @@ cycloparaffin
 cautel
 chironomic
 cromerian
-contrivance
 caickle
 confounder
 chloridation
@@ -26552,6 +26551,7 @@ coulee
 coulees
 coulie
 coulisses
+contrivance
 coaid
 couloir
 coinmaking
