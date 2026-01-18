@@ -5190,7 +5190,6 @@ dyings
 daemon
 dahabiehs
 decephalization
-darnix
 deathly
 diaheliotropic
 detruncating
@@ -6354,6 +6353,7 @@ delimitized
 dimication
 dermophobe
 domineering
+darnix
 dermosclerite
 deco
 dermotropic
