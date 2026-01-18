@@ -6269,7 +6269,6 @@ duchesnea
 deutobromide
 dividable
 dermatomere
-dermatomyces
 deploredness
 doldrums
 diact
@@ -8853,6 +8852,7 @@ dodecagonal
 divination
 doomfully
 dib
+dermatomyces
 diastematomyelia
 dyspraxia
 dibbing
