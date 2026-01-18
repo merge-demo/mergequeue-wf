@@ -6796,6 +6796,7 @@ celebrationis
 convallamarin
 celebrations
 celebrative
+chaya
 celebre
 celebrious
 counterinterpretation
@@ -15559,7 +15560,6 @@ classy
 crossbolted
 classicalist
 classicality
-chaya
 chromophoric
 classicist
 classicists
