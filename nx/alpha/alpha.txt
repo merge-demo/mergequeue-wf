@@ -14220,7 +14220,6 @@ anthemas
 abscissin
 asexuals
 anthemata
-agavose
 abdominally
 amugis
 apsid
@@ -23835,6 +23834,7 @@ alteration
 accessoriusorii
 anhydremic
 aigrets
+agavose
 antiphrastically
 autacoidal
 actinocutitis
