@@ -9384,6 +9384,7 @@ enrobement
 enmanche
 effecter
 educable
+epistolizable
 earmindedness
 escalator
 excommunicable
@@ -13689,7 +13690,6 @@ electrocataphoresis
 enphytotic
 endorsors
 erratum
-epistolizable
 espec
 emotionlessness
 ergotoxin
