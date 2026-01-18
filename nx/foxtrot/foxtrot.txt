@@ -8509,6 +8509,7 @@ filmdoms
 foxes
 foliobranchiate
 floodage
+fanging
 formations
 fleck
 fatbrained
@@ -9897,7 +9898,6 @@ freddy
 fennoman
 foxfire
 freudist
-fanging
 foetalization
 friar
 fremitus
