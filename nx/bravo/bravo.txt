@@ -1730,6 +1730,7 @@ biasing
 blackbrush
 baloney
 ballyhoos
+bhar
 buskers
 brokerage
 botan
@@ -11363,7 +11364,6 @@ blub
 blickey
 blubbed
 bursting
-bhar
 breathed
 bluntest
 bedcap
