@@ -1546,7 +1546,6 @@ echolocation
 effused
 extemporaneously
 elasmobranchii
-explanatorily
 exonarthex
 eventuating
 epics
@@ -7062,6 +7061,7 @@ exclaimer
 elaborate
 estated
 earphone
+explanatorily
 enactory
 everbloomer
 epiphenomenon
