@@ -960,7 +960,6 @@ farinha
 flyleaf
 foundry
 foreffelt
-flawedness
 fourchite
 fortunateness
 forms
@@ -11060,6 +11059,7 @@ fumets
 fumiest
 flaggelation
 frivolist
+flawedness
 fossilizes
 foraying
 forestay
