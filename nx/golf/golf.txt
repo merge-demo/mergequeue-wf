@@ -3143,7 +3143,6 @@ grassie
 governed
 gumdrops
 gomuti
-gymnocidium
 gastful
 gastrodermis
 guffaws
@@ -8727,6 +8726,7 @@ galvanometrically
 greenflies
 glean
 glump
+gymnocidium
 gynaecoid
 grabbots
 groundable
