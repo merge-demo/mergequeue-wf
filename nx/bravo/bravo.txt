@@ -2569,6 +2569,7 @@ brassage
 birk
 bashlyk
 brained
+bespecklement
 bonaci
 beltways
 bardel
@@ -13692,7 +13693,6 @@ bounds
 beggaress
 backspliced
 becrowd
-bespecklement
 blights
 brochan
 bacbakiri
