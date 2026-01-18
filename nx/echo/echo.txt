@@ -1735,7 +1735,6 @@ equipollence
 electrothermancy
 ellan
 esophagi
-eddoes
 expressivism
 elaioleucite
 extemporaneous
@@ -4450,6 +4449,7 @@ extispices
 e
 excoriation
 espacement
+eddoes
 ejaculation
 encaptive
 entomion
