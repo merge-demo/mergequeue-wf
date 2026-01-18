@@ -2402,7 +2402,6 @@ furrure
 filoplumaceous
 folksiness
 foredating
-fromfile
 foreordinating
 freakpot
 fraises
@@ -3546,6 +3545,7 @@ fleches
 falcones
 fulgorid
 fusicladium
+fromfile
 figurer
 foolery
 fute
