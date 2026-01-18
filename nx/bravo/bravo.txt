@@ -3124,7 +3124,6 @@ blueblack
 becher
 birdlime
 baseburner
-basecourt
 brachiator
 boosting
 boneset
@@ -13864,6 +13863,7 @@ bezantee
 bistratal
 bemaddening
 bullionless
+basecourt
 buriat
 bedfellowship
 binodal
