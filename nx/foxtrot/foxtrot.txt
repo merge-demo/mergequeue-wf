@@ -1001,7 +1001,6 @@ foyers
 forride
 fictionization
 folkvang
-fardel
 flannelmouth
 fusion
 fardelet
@@ -5772,6 +5771,7 @@ feck
 fishnets
 finedraw
 foredated
+fardel
 fermium
 financially
 fatling
