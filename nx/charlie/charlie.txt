@@ -9010,7 +9010,6 @@ charism
 charismata
 consuete
 charismatic
-collationer
 cunabular
 ceriphs
 charisms
@@ -21524,6 +21523,7 @@ concrescence
 cephalohumeral
 concrescive
 colocentesis
+collationer
 coerces
 concreted
 concretely
