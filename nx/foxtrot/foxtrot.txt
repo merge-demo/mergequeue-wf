@@ -2555,6 +2555,7 @@ favaginous
 foulmouth
 feverlike
 fluorine
+flappier
 fiatconfirmatio
 ferrer
 feeler
@@ -11004,7 +11005,6 @@ feuillemorte
 fascicles
 furors
 fink
-flappier
 figent
 forerunning
 formularize
