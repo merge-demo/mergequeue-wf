@@ -4923,7 +4923,6 @@ gagelike
 gilour
 geographic
 gatherer
-growlingly
 grayhead
 gunnen
 gaff
@@ -6081,6 +6080,7 @@ glovemen
 glutenin
 glycemia
 goblinish
+growlingly
 gownsman
 guttiest
 geld
