@@ -973,7 +973,6 @@ anchorites
 abstain
 abstainer
 ameland
-angoras
 asterismal
 afterpotential
 abstainers
@@ -16554,6 +16553,7 @@ apass
 apast
 absolutive
 abiogenesis
+angoras
 acolytes
 acroneurosis
 agrimonies
