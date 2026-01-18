@@ -7549,7 +7549,6 @@ gortonian
 glaucophanize
 gangs
 garamond
-glitzy
 glabellous
 gryllus
 gubernaculum
@@ -8125,6 +8124,7 @@ gravat
 glassier
 gymnotid
 gratae
+glitzy
 gypsydoms
 genistin
 guttulae
