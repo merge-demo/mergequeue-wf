@@ -10068,7 +10068,6 @@ cheskey
 campine
 cheslep
 coleochaete
-crestings
 clothesbrush
 chimney
 chemise
@@ -14969,6 +14968,7 @@ crossjack
 citreous
 citril
 confabulates
+crestings
 citrination
 congressmen
 currachs
