@@ -2586,6 +2586,7 @@ barters
 blackie
 baryon
 brio
+ballutes
 burlington
 baryphonia
 bronzesmith
@@ -13582,7 +13583,6 @@ bibliophile
 beany
 baling
 binucleolate
-ballutes
 bepainted
 besnowed
 beatermen
