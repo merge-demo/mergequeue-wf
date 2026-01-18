@@ -6427,7 +6427,6 @@ desensitized
 debat
 demits
 desaccharification
-defalcation
 decarburisation
 dozened
 dellenite
@@ -8923,6 +8922,7 @@ decaisnea
 desiccators
 diceboard
 dazzles
+defalcation
 dilemi
 daunomycin
 doorposts
