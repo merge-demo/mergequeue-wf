@@ -1643,7 +1643,6 @@ fretize
 foresight
 fellmongery
 fawners
-floury
 farandole
 formicoidea
 foliot
@@ -6897,6 +6896,7 @@ farfal
 flourishes
 frowstiness
 forethink
+floury
 foldcourse
 flemish
 fiberless
