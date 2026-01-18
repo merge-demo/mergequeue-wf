@@ -4516,6 +4516,7 @@ combatants
 carlock
 cogways
 cholecystotomies
+colliding
 circumference
 carlot
 carls
@@ -17739,7 +17740,6 @@ christianization
 cockades
 canorously
 cyatheaceous
-colliding
 comoid
 cetaceous
 charmeuse
