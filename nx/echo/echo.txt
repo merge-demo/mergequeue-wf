@@ -3056,7 +3056,6 @@ equiprobabilism
 epaulets
 ectopia
 elymus
-expatiator
 epitomes
 embitterment
 enfield
@@ -11248,6 +11247,7 @@ ethine
 electropuncture
 evangelic
 evangelical
+expatiator
 elide
 equiproducing
 existence
