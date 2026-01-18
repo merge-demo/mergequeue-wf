@@ -5913,7 +5913,6 @@ bassist
 bared
 belonging
 basisphenoid
-bailiffship
 believing
 behoves
 bundobust
@@ -10509,6 +10508,7 @@ blarnid
 bedip
 bayoneteer
 brachysclereid
+bailiffship
 bhutan
 bathmic
 blason
