@@ -1347,6 +1347,7 @@ fyttes
 flannelflower
 flyable
 factionally
+faunal
 frantically
 fluxible
 foulnesses
@@ -10111,7 +10112,6 @@ flenching
 frillily
 falderal
 fringilla
-faunal
 ferrumination
 frilling
 flee
