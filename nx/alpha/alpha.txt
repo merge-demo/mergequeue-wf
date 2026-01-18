@@ -9429,7 +9429,6 @@ acini
 advehent
 academia
 arenig
-aspidomancy
 atabrine
 allesthesia
 alchemistry
@@ -17921,6 +17920,7 @@ anachronist
 advects
 adorner
 approbating
+aspidomancy
 approbations
 arghel
 approbative
