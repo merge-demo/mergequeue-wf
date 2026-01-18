@@ -3857,6 +3857,7 @@ governing
 gallantry
 gibber
 grandmotherhood
+grallatores
 gaffing
 goffers
 gilden
@@ -5639,7 +5640,6 @@ geochemist
 geophysical
 gownlet
 glottogonist
-grallatores
 garuda
 ginks
 gravestone
