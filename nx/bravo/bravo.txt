@@ -2335,6 +2335,7 @@ breloque
 bathyscape
 barbicel
 bemitred
+begums
 barbicels
 breek
 bathonian
@@ -9877,7 +9878,6 @@ billed
 brennschluss
 barbing
 brands
-begums
 bites
 birefringent
 bebat
