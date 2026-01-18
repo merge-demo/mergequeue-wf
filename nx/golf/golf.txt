@@ -8728,7 +8728,6 @@ gymnocidium
 gynaecoid
 grabbots
 groundable
-glistered
 gome
 glissading
 gutterling
@@ -9450,6 +9449,7 @@ grebes
 guerrillas
 grosshead
 granitization
+glistered
 grafted
 ghaznevid
 grossly
