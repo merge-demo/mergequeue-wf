@@ -2117,7 +2117,6 @@ bourignonist
 birthrights
 beleaguerment
 braccae
-booms
 bosch
 brouillon
 bailors
@@ -6453,6 +6452,7 @@ bitripartite
 brucite
 brimfulness
 benzothiodiazole
+booms
 bergamiol
 bumpering
 backcloth
