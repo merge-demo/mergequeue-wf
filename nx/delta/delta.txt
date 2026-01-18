@@ -1892,7 +1892,6 @@ delicateness
 depravity
 dallas
 downslip
-debriefing
 dottle
 dowser
 danzig
@@ -12757,6 +12756,7 @@ dikage
 disliker
 direfully
 dodders
+debriefing
 discharge
 dioicously
 drizzle
