@@ -4208,6 +4208,7 @@ camshaft
 cardionecrosis
 cannibal
 cardioneurosis
+cursedness
 clifflet
 chrysophan
 cardiopath
@@ -19393,7 +19394,6 @@ cervelat
 coloraturas
 carnivoracity
 colorature
-cursedness
 celesta
 colorblind
 cartomancies
