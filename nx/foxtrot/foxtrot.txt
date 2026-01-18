@@ -5611,7 +5611,6 @@ fletchers
 formulise
 fellic
 fondler
-furrower
 fisc
 faked
 filibusterers
@@ -8486,6 +8485,7 @@ fique
 fantail
 fathercraft
 franciscan
+furrower
 fidelia
 fescues
 fasels
