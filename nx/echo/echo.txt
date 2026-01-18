@@ -3424,6 +3424,7 @@ endostyle
 enlute
 eyry
 eulogic
+eddaic
 epicycle
 environed
 elegies
@@ -6049,7 +6050,6 @@ ecumenopolis
 escroll
 eolith
 exhusband
-eddaic
 enlargeable
 eigenvectors
 echinorhinus
