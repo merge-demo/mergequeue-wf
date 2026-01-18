@@ -3959,7 +3959,6 @@ genioplasty
 genetrix
 gateworks
 glaciological
-gamut
 gorblin
 gnathonically
 gravidness
@@ -10650,6 +10649,7 @@ grandiloquent
 grutches
 gorrel
 genera
+gamut
 galee
 gemmiest
 gargantuan
