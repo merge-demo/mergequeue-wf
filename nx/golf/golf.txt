@@ -3523,6 +3523,7 @@ gymkhanas
 goodsire
 gravidas
 gehey
+glaucous
 gessoes
 gerrhosauridae
 germ
@@ -5065,7 +5066,6 @@ glebeless
 gammed
 geotilla
 galbulidae
-glaucous
 gunhouse
 gynandrosporous
 goiabada
