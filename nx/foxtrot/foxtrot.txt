@@ -2095,7 +2095,6 @@ filibuster
 fremdly
 feudalisation
 foremasthand
-fructidor
 fusibleness
 freeform
 fruitfully
@@ -8649,6 +8648,7 @@ feigner
 fluviomarine
 fossilize
 fornicatrix
+fructidor
 fieldman
 frameshift
 fullfil
