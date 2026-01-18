@@ -1520,7 +1520,6 @@ effort
 ethmovomer
 environic
 emmenic
-ergonomic
 epanorthotic
 exenteritis
 envelop
@@ -11237,6 +11236,7 @@ evangeliaries
 enkindling
 ectepicondylar
 expensive
+ergonomic
 enthronised
 elohism
 enosis
