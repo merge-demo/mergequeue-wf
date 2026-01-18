@@ -496,6 +496,7 @@ bancal
 beckoners
 bicentennial
 beltis
+boarstaff
 backstromite
 boart
 ballyhooing
@@ -15036,7 +15037,6 @@ blennophlogisma
 breathes
 bistres
 banterer
-boarstaff
 boppist
 bookishly
 beaufet
