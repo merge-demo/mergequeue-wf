@@ -6291,7 +6291,6 @@ gregariousness
 gonotyl
 guestchamber
 guttural
-ghostiest
 garua
 galidia
 gconv
@@ -9701,6 +9700,7 @@ guesthouse
 griddling
 gopherman
 gleets
+ghostiest
 grabbling
 grubstakes
 gemmula
