@@ -7156,6 +7156,7 @@ elaterometer
 engrossed
 emery
 established
+elaps
 ephemerist
 entertains
 examples
@@ -10461,7 +10462,6 @@ embryoniferous
 euphotide
 etymon
 ectocondyle
-elaps
 endothelium
 etiolated
 emancipation
