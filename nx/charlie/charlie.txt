@@ -4700,6 +4700,7 @@ centerline
 carotinemia
 carotinoid
 corespondency
+cothurnus
 carotol
 chalcedonian
 caroubier
@@ -26370,7 +26371,6 @@ cycloidian
 cerenkov
 cothon
 cothouse
-cothurnus
 coticed
 coruscate
 cleating
