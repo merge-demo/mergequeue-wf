@@ -1081,6 +1081,7 @@ galvanometry
 ganglioma
 gasteropod
 ganglionate
+goldbrick
 ganglionated
 gerres
 grayness
@@ -9877,7 +9878,6 @@ girting
 gawcie
 guaiasanol
 grounden
-goldbrick
 ghebeta
 goneoclinic
 grilles
