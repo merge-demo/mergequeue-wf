@@ -2523,7 +2523,6 @@ discomorula
 desertism
 destinations
 dorothea
-dipper
 dibromoacetaldehyde
 deaminate
 drain
@@ -12655,6 +12654,7 @@ donzel
 driftfish
 deadhearted
 deodorise
+dipper
 definitise
 dihelium
 dephase
