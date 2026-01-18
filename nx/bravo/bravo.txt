@@ -1403,6 +1403,7 @@ baldpatedness
 bulter
 balds
 baculums
+battute
 bale
 babassu
 bajonado
@@ -3781,7 +3782,6 @@ blackening
 biocontrol
 begger
 bobflies
-battute
 burratine
 bacterian
 bawdstrot
