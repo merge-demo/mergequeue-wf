@@ -7674,6 +7674,7 @@ bradypus
 beeper
 burgling
 bewraps
+bullpen
 bonairly
 basilisks
 belesprit
@@ -17198,7 +17199,6 @@ blastulae
 brisque
 beneficiaryship
 barkantine
-bullpen
 bullpoll
 bemirror
 brughs
