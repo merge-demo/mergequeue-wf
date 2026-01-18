@@ -3150,6 +3150,7 @@ foam
 foremistress
 flavourless
 forcipated
+ferulaceous
 fairgoing
 fibroferrite
 fundic
@@ -10038,7 +10039,6 @@ flambeau
 flocculated
 flavin
 fontes
-ferulaceous
 fumiduct
 floridness
 friedrichsdor
