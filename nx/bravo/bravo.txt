@@ -8600,7 +8600,6 @@ billbug
 biller
 blackeye
 brantcorn
-brawlis
 billeted
 bilabe
 biologize
@@ -12603,6 +12602,7 @@ blauboks
 balsamroot
 bourgeoning
 brails
+brawlis
 bridehead
 battle
 bonification
