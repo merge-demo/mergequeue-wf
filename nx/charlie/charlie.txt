@@ -3205,7 +3205,6 @@ conferring
 crystallogy
 craked
 citruses
-capewise
 capework
 caphar
 clistogastra
@@ -20452,6 +20451,7 @@ comparascope
 chemosynthetically
 comparate
 comparatist
+capewise
 comparatival
 cratometer
 criminated
