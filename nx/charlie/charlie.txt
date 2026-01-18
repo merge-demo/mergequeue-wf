@@ -12700,6 +12700,7 @@ chuddah
 chyme
 cracowe
 courtesied
+crouching
 countermarch
 cassone
 conventioneer
@@ -21198,7 +21199,6 @@ communitywide
 concentric
 circumneutral
 concentricate
-crouching
 conceptualizer
 concents
 concentual
