@@ -1170,6 +1170,7 @@ eikons
 eupepsia
 environage
 edition
+everich
 endere
 editorialization
 ecphory
@@ -10658,7 +10659,6 @@ eques
 enharmonical
 enchilada
 eudemonistic
-everich
 encephalocele
 eudemonics
 epinephrine
