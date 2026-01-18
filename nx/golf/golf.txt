@@ -4337,7 +4337,6 @@ gelsemia
 goldbeating
 germicide
 gymnadenia
-glazings
 grieves
 gridelin
 gentisein
@@ -10530,6 +10529,7 @@ geometrina
 gonadotrophin
 geodesical
 gratiola
+glazings
 gelatined
 gibs
 gulix
