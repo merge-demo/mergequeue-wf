@@ -4181,7 +4181,6 @@ extracranial
 energids
 expungement
 erythrodermia
-eyers
 earhead
 externum
 encl
@@ -12161,6 +12160,7 @@ eucolite
 enlistee
 ependyma
 exeat
+eyers
 epigraphs
 ethmovomerine
 exec

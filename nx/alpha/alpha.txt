@@ -11302,7 +11302,6 @@ amphioxus
 ampulliform
 affrightfully
 ampullula
-alienate
 amputate
 anuresis
 amputates
@@ -17599,6 +17598,7 @@ apperceptionism
 anoura
 alkalizate
 alhacena
+alienate
 abortifacient
 appersonation
 appersonification
