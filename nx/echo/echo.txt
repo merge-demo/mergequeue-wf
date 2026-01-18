@@ -8249,6 +8249,7 @@ etchers
 empyrosis
 episodial
 erythroscope
+ecrus
 epistaxis
 epistemically
 extemporising
@@ -13676,7 +13677,6 @@ elevon
 elizabethanism
 exteriorisation
 exteriorised
-ecrus
 entapophysis
 extrapolates
 encomiendas
