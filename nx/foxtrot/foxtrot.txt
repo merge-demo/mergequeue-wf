@@ -4454,6 +4454,7 @@ footgear
 fl
 frenches
 flaubertian
+facsimiling
 fie
 fished
 forestress
@@ -8579,7 +8580,6 @@ foreslack
 foun
 felstones
 fc
-facsimiling
 fetlock
 fiddledeedee
 fidley
