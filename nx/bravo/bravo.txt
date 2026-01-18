@@ -2756,6 +2756,7 @@ batholitic
 baroko
 backward
 beltline
+benthonic
 bullbat
 barolo
 bm
@@ -18401,7 +18402,6 @@ bothlike
 bubber
 buttes
 bespring
-benthonic
 bvt
 bowfins
 bittie
