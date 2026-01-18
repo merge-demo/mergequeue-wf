@@ -5461,7 +5461,6 @@ exaggerations
 emydosauria
 empetraceae
 electuary
-exculpations
 expirations
 eburated
 eurithermophile
@@ -10118,6 +10117,7 @@ esterizing
 eutopia
 erythrophagous
 euphausiacea
+exculpations
 exemplificational
 erythroxylon
 earlike
