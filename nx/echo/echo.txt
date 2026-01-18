@@ -2965,7 +2965,6 @@ elf
 elfenfolk
 endogeny
 elfinwood
-exfoliating
 eastermost
 enflamed
 electromotor
@@ -9954,6 +9953,7 @@ enskies
 entoil
 equisetales
 eichwaldite
+exfoliating
 extrospection
 englishize
 enfonced
