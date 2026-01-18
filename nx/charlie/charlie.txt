@@ -10219,7 +10219,6 @@ cleruchic
 chiasms
 chiasmus
 coeline
-curacao
 chiastoneural
 chiastoneury
 chalone
@@ -29248,6 +29247,7 @@ clamoured
 conceptualising
 collenchymatous
 cryptoclimate
+curacao
 checking
 cryptococci
 caulophylline
