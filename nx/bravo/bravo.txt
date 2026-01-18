@@ -7222,7 +7222,6 @@ besteads
 besteal
 betterment
 bioresearch
-bedcover
 bested
 bugs
 bromometrical
@@ -12615,6 +12614,7 @@ brashness
 bottomlessly
 bronchoalveolar
 boniness
+bedcover
 brant
 brooklike
 boning
