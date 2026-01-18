@@ -5705,6 +5705,7 @@ fourgons
 frusla
 facades
 forecabin
+freeholdership
 fortitude
 frostbitten
 furmint
@@ -9701,7 +9702,6 @@ featherbone
 firemaster
 forlet
 floatier
-freeholdership
 feeders
 falcata
 flitwite

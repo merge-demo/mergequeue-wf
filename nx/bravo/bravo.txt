@@ -5471,6 +5471,7 @@ bendways
 benignness
 borg
 bechamel
+bullets
 bonce
 bahmani
 bootid
@@ -10754,7 +10755,6 @@ baronetizing
 backsetting
 bergsonism
 blennemesis
-bullets
 backswimmer
 bemete
 blennenteria
