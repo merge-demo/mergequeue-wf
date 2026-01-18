@@ -2406,7 +2406,6 @@ gasterosteoid
 guttular
 grignet
 gonopodpodia
-geb
 george
 gabardines
 galloots
@@ -4779,6 +4778,7 @@ galeae
 genteelize
 gowland
 gitanos
+geb
 goala
 geraera
 gitim
