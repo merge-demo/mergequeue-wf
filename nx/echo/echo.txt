@@ -2343,6 +2343,7 @@ espressos
 exurbias
 endocrania
 expert
+elapidae
 euphuism
 endosteum
 electropsychrometer
@@ -14048,7 +14049,6 @@ equaled
 escoting
 eyeline
 expressman
-elapidae
 elektra
 epitaphist
 eidolons
