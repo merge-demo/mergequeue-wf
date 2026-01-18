@@ -365,7 +365,6 @@ gasogenic
 gorefish
 gangrenous
 gunsmith
-goniometrical
 guyer
 gladiolar
 gentianaceous
@@ -7414,6 +7413,7 @@ graculus
 globated
 granulosis
 glisky
+goniometrical
 gardenful
 grazable
 gossipped
