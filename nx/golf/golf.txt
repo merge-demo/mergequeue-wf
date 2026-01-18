@@ -7152,6 +7152,7 @@ gambrels
 gopherberry
 guernsey
 golgi
+guanay
 gopherberries
 gothics
 gelts
@@ -8868,7 +8869,6 @@ glossaries
 grandparenthood
 gardenlike
 girsle
-guanay
 gablelike
 graecized
 glittersome
