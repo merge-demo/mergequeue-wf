@@ -6781,7 +6781,6 @@ berrettas
 bemouth
 bartender
 bloodred
-barongs
 barracudina
 bufonid
 busway
@@ -12174,6 +12173,7 @@ beclip
 beg
 bultey
 behaviourist
+barongs
 banged
 beloid
 backstop
