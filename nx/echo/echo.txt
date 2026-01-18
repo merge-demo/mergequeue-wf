@@ -5423,7 +5423,6 @@ enfester
 ed
 equid
 electrological
-emigrants
 eightsman
 electronvolt
 ergotization
@@ -8793,6 +8792,7 @@ erections
 eudromias
 endanger
 etcetera
+emigrants
 exemplificative
 entosphenoid
 earlaps
