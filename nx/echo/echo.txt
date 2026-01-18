@@ -9529,7 +9529,6 @@ escritoire
 eleutherarch
 exorcisers
 electromotivity
-eruptives
 electrochemistry
 episodic
 encyclopedian
@@ -11793,6 +11792,7 @@ ensignship
 endorsingly
 exasperatedly
 eversion
+eruptives
 entrees
 exasperater
 engrid
