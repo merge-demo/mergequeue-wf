@@ -1468,7 +1468,6 @@ electroshocks
 expandedness
 equiomnipotent
 emetins
-epidote
 exterous
 emphasized
 endowing
@@ -7768,6 +7767,7 @@ elementality
 egregiously
 encyclopaedize
 engjateigur
+epidote
 everlastingly
 epigastria
 engagement
