@@ -6619,7 +6619,6 @@ clannish
 capabler
 commissaries
 caxon
-caxton
 confluence
 caxtonian
 caza
@@ -26694,6 +26693,7 @@ counterbalanced
 crackerjack
 counterbarrage
 checkmark
+caxton
 cardiotomy
 carromatas
 cars
