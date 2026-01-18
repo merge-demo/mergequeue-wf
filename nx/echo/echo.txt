@@ -802,6 +802,7 @@ exscinding
 ecphore
 emotes
 echinal
+envelope
 euomphalid
 ephedrins
 ecrase
@@ -13087,7 +13088,6 @@ epigonic
 eucalyn
 emus
 embankment
-envelope
 eval
 enclosed
 esperantidist
