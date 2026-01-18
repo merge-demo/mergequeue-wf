@@ -343,7 +343,6 @@ forespent
 fag
 feint
 fulciment
-factorial
 finagles
 fibrillated
 finochio
@@ -8145,6 +8144,7 @@ forestral
 fumarole
 forestries
 forewind
+factorial
 firebrats
 furnitures
 fierasferid

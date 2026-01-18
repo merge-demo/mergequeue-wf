@@ -1981,7 +1981,6 @@ grossing
 gaultherin
 gangers
 gruelly
-gypsite
 genealogically
 greywacke
 genip
@@ -7146,6 +7145,7 @@ gastrocatarrhal
 glucosulfone
 guidman
 grassation
+gypsite
 globalists
 germinational
 gestates
