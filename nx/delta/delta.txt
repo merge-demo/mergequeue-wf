@@ -1666,7 +1666,6 @@ docksides
 dearborn
 dearest
 dorosacral
-derides
 desuete
 dyne
 deposition
@@ -14702,6 +14701,7 @@ decasemic
 deviative
 dks
 dlvy
+derides
 downcurved
 diademed
 deburse
