@@ -4047,7 +4047,6 @@ furazolidone
 fluorosis
 fishery
 forleft
-failingly
 furrow
 fabricated
 filmlike
@@ -7032,6 +7031,7 @@ fedarie
 fungoidal
 fulgurite
 fuchsian
+failingly
 formalisation
 flosculous
 forbode
