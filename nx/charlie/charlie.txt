@@ -14691,7 +14691,6 @@ colonic
 criocephalus
 cistus
 cairns
-citadel
 cital
 countersynod
 chambering
@@ -26690,6 +26689,7 @@ costulation
 cytoproct
 counteravouch
 contributiveness
+citadel
 counteravouchment
 counterbalanced
 crackerjack
