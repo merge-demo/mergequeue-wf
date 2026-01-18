@@ -108,7 +108,6 @@ babied
 bumaloe
 bullpens
 bloodstock
-bisyllabism
 boddhisattva
 bonsoir
 blistering
@@ -8619,6 +8618,7 @@ brachysm
 beflecks
 brachiofacial
 buts
+bisyllabism
 billfishes
 brownnoser
 bouquet
