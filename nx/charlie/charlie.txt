@@ -2571,7 +2571,6 @@ candlewasting
 coyan
 cordwoods
 codlins
-conners
 candlewright
 cynically
 clouds
@@ -26921,6 +26920,7 @@ cotonier
 countermission
 coinfeftment
 chromophor
+conners
 circumsciss
 carburizing
 countermoved
