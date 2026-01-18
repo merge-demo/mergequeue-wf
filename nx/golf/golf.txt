@@ -3205,7 +3205,6 @@ gramoches
 geoscopic
 glairiness
 geosphere
-graying
 guineaman
 gapless
 guerilla
@@ -10594,6 +10593,7 @@ gonzalo
 gigging
 gallbladder
 glochidia
+graying
 grandame
 gadidae
 geohydrologist
