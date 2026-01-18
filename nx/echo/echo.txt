@@ -9144,6 +9144,7 @@ elabor
 expulser
 episplenitis
 exumbrella
+emoting
 entanglers
 elidible
 esrog
@@ -10809,7 +10810,6 @@ expiating
 elaborating
 erinaceus
 epithem
-emoting
 extrazodiacal
 euskera
 esterases
