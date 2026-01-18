@@ -943,6 +943,7 @@ cakravartin
 cal
 crumpler
 crawfoot
+coinherence
 calabari
 cornices
 collared
@@ -9053,7 +9054,6 @@ charlesworth
 charlet
 costotomies
 charlocks
-coinherence
 cobberer
 charm
 charmed
