@@ -409,6 +409,7 @@ galatea
 glucogenesis
 groomling
 gelding
+gapeworm
 gimleted
 gispin
 galaxias
@@ -10399,7 +10400,6 @@ gullies
 gems
 groans
 geometricians
-gapeworm
 goujon
 gullying
 gothism
