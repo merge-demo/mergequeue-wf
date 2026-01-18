@@ -5601,7 +5601,6 @@ accrue
 agacerie
 austromancy
 acidanthera
-axillary
 agade
 atopies
 aquicultural
@@ -6628,6 +6627,7 @@ amarillos
 acoustic
 ailurus
 ailweed
+axillary
 appassionatamente
 alcoholate
 aimak
