@@ -5487,6 +5487,7 @@ flyswat
 feridji
 forehandedness
 figuration
+ferritic
 fruittime
 fany
 fellowshiped
@@ -8516,7 +8517,6 @@ formazan
 flywheels
 furiant
 foresinger
-ferritic
 featherfew
 filmsetter
 feasibilities
