@@ -3552,7 +3552,6 @@ danke
 dermatotome
 drawbeam
 dewanee
-dihexagonal
 dissheathe
 dehwar
 defuze
@@ -7976,6 +7975,7 @@ dorsibranch
 drawpoint
 drunkometer
 dextroglucose
+dihexagonal
 distensive
 dextrolactic
 despotes

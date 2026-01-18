@@ -2740,7 +2740,6 @@ frost
 fraxetin
 fouette
 flaunter
-fervor
 flamenco
 frondous
 flywort
@@ -5221,6 +5220,7 @@ fairnesses
 flashiest
 ficoidaceae
 frasier
+fervor
 flecken
 fermerer
 famulli
