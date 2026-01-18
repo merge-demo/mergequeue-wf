@@ -2896,7 +2896,6 @@ acropore
 antialbumose
 anathematize
 areographically
-acrosomes
 aneurysms
 anapsid
 ammoniureted
@@ -5460,6 +5459,7 @@ aphanitism
 acentric
 aftercrop
 amphigaea
+acrosomes
 acanthodian
 afterdays
 antifoam
