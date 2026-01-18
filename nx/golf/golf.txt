@@ -2214,7 +2214,6 @@ granes
 ghosting
 guberniya
 gabs
-gadolinic
 ganophyllite
 gymnastical
 gestalts
@@ -7228,6 +7227,7 @@ gillotage
 gonomery
 gonagra
 geniuses
+gadolinic
 glistering
 gallops
 geomys
