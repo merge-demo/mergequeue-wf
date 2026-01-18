@@ -4094,7 +4094,6 @@ barmy
 bixaceae
 beaning
 branchier
-bradyacousia
 beano
 biclavate
 bareboned
@@ -7895,6 +7894,7 @@ biblicality
 biblicopsychological
 blemmatrope
 biblike
+bradyacousia
 berinse
 burn
 bombs
