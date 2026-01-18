@@ -3160,7 +3160,6 @@ elliptograph
 elliptoid
 extraparietal
 endodontologist
-eke
 elm
 embarrassment
 educing
@@ -11758,6 +11757,7 @@ ephraim
 ephydrid
 euplocomi
 engoue
+eke
 erysipelous
 epanadiplosis
 elusory
