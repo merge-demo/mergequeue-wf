@@ -4665,7 +4665,6 @@ fit
 fontally
 fireproof
 fringilliform
-fitchee
 firmland
 finecomb
 fibrocalcareous
@@ -9996,6 +9995,7 @@ formated
 feceris
 fortuitism
 formulising
+fitchee
 forsythias
 forefence
 feeze
