@@ -19389,7 +19389,6 @@ coloraturas
 carnivoracity
 colorature
 celesta
-colorblind
 cartomancies
 colorcasting
 calvus
@@ -24834,6 +24833,7 @@ conductivity
 coquitlam
 cor
 corabecan
+colorblind
 closkey
 complications
 creutzer
