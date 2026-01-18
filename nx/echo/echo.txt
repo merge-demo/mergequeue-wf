@@ -5918,7 +5918,6 @@ enterocholecystostomy
 ephemeron
 excursive
 ere
-ethmonasal
 ericaceae
 establisher
 etiolate
@@ -6905,6 +6904,7 @@ entomophila
 entomophobia
 earwaxes
 enties
+ethmonasal
 eventlessness
 esthesiography
 eucryptite
