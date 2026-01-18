@@ -14773,7 +14773,6 @@ baignoire
 bagio
 backvelder
 billable
-brat
 brutter
 blender
 bounder
@@ -16432,6 +16431,7 @@ bioelectronics
 brume
 borrowed
 boryl
+brat
 branchipus
 basement
 biosynthetic
