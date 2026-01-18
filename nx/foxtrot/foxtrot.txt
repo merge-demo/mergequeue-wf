@@ -3263,6 +3263,7 @@ fijian
 flittermouse
 fearnought
 flexionless
+fulminant
 fango
 forswat
 fuchsone
@@ -6637,7 +6638,6 @@ frakturs
 fraxinus
 fortifying
 flexuousness
-fulminant
 fungi
 floodboard
 fierabras
