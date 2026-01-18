@@ -18460,6 +18460,7 @@ cognominated
 cognoscent
 changeling
 castelli
+churner
 cognoscente
 cognoscing
 cognoscitive
@@ -23862,7 +23863,6 @@ controling
 controllable
 controllably
 controller
-churner
 costophrenic
 controlless
 cacoproctia
