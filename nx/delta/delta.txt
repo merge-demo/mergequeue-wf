@@ -490,7 +490,6 @@ dalmanites
 discocarpous
 dictature
 dalmatic
-dalt
 dawen
 denomination
 dermaskeleton
@@ -7682,6 +7681,7 @@ debell
 deviance
 dimples
 deviancy
+dalt
 dogcatcher
 discurtain
 disquantity
