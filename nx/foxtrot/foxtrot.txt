@@ -3226,7 +3226,6 @@ fungia
 fiches
 findjan
 feracious
-fusilade
 foredetermination
 fortnights
 flotages
@@ -6027,6 +6026,7 @@ fineable
 foreview
 fatalize
 flubdubs
+fusilade
 forestaysail
 fabiform
 flowerpots
