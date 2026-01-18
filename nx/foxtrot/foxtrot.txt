@@ -4028,6 +4028,7 @@ fleshquake
 fingerers
 feed
 forecastles
+funnelform
 fono
 flav
 falkland
@@ -9932,7 +9933,6 @@ footcloths
 fluellen
 fanfishes
 foxily
-funnelform
 frough
 fibrosarcoma
 flexanimous
