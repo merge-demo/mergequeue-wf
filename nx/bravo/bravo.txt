@@ -5360,7 +5360,6 @@ begnaw
 basihyoid
 biharmonic
 borderlines
-butterscotch
 blanketless
 bacchante
 balmy
@@ -16689,6 +16688,7 @@ bisons
 brilliantined
 branchiata
 bardlet
+butterscotch
 blacking
 blanketeer
 buchanite
