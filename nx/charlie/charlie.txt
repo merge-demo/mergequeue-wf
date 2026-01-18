@@ -6273,6 +6273,7 @@ coralist
 clergies
 corbel
 corticifugal
+craythur
 caudebeck
 caudex
 caudices
@@ -17424,7 +17425,6 @@ chordamesodermal
 coatee
 coatees
 clivises
-craythur
 chronographical
 coatie
 cretinized
