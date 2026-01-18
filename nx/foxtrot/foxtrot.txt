@@ -3258,7 +3258,6 @@ fijian
 flittermouse
 fearnought
 flexionless
-fremt
 fango
 forswat
 fuchsone
@@ -3358,6 +3357,7 @@ flabbergastation
 facet
 flexility
 fracted
+fremt
 forsaking
 fidejussor
 frigidity
