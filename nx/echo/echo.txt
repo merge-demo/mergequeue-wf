@@ -6917,7 +6917,6 @@ epic
 enfeoffed
 estruses
 extremism
-equivocal
 evitable
 entomosporium
 ethically
@@ -9131,6 +9130,7 @@ excursory
 escheating
 embouchment
 ethnoses
+equivocal
 epitela
 enfollow
 enlargements
