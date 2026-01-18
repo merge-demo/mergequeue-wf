@@ -11915,7 +11915,6 @@ dammit
 discursify
 deplumed
 dbl
-disinterested
 dissociableness
 discusses
 discussion
@@ -12716,6 +12715,7 @@ diatrymiformes
 dridder
 dendrobates
 disfavour
+disinterested
 droves
 dissolute
 deployable
