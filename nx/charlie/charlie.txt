@@ -11066,7 +11066,6 @@ checksums
 coappears
 chitinous
 chitins
-chitlin
 chitling
 chitlings
 cowbirds
@@ -28143,6 +28142,7 @@ craniopathic
 craniopharyngeal
 code
 craniorhachischisis
+chitlin
 countercheck
 cranioschisis
 cranioscopy
