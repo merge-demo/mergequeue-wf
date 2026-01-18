@@ -1761,6 +1761,7 @@ dustheaps
 doorpost
 dicyanin
 deaving
+deprivable
 disseizor
 decolorization
 disregardfully
@@ -5947,7 +5948,6 @@ depriment
 dodonaea
 depriorize
 disorderedness
-deprivable
 disvaluation
 degrader
 departements
