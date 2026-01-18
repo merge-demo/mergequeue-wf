@@ -4394,6 +4394,7 @@ forestiera
 factions
 forewomen
 flavored
+formly
 foresleeve
 forwrap
 finagle
@@ -5769,7 +5770,6 @@ freckles
 funeration
 forbearant
 fibrohemorrhagic
-formly
 fuseplug
 friended
 fantasias
