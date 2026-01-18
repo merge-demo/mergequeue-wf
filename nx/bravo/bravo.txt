@@ -4960,7 +4960,6 @@ boatel
 bandy
 beek
 balkers
-bioclimatologies
 beekeepers
 baya
 botchily
@@ -9321,6 +9320,7 @@ backstrokes
 bromoiodid
 biprism
 burgaudine
+bioclimatologies
 barbarities
 blackguardism
 biprong
