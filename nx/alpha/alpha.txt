@@ -7925,7 +7925,6 @@ assapan
 auscultations
 alternates
 aleurodes
-aleurometer
 aleuronat
 absi
 aleurone
@@ -11340,6 +11339,7 @@ aneroids
 arthogram
 apiphobia
 antholysis
+aleurometer
 antisquama
 autolysis
 atrabilious
