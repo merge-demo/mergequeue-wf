@@ -889,6 +889,7 @@ cs
 cayuca
 commendador
 cosmothetic
+coparty
 cayugan
 cayugas
 cayuse
@@ -24441,7 +24442,6 @@ computable
 checksummed
 caroli
 coopers
-coparty
 cooptate
 coopting
 coopts
