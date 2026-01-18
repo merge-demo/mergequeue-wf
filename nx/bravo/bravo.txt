@@ -3087,6 +3087,7 @@ breather
 blastplate
 bating
 boneblack
+bended
 bettors
 barksome
 basale
@@ -4156,7 +4157,6 @@ brockages
 bowdlerizations
 bearm
 backslaps
-bended
 brevet
 backdrop
 bagwigs
