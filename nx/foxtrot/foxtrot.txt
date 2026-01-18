@@ -6776,6 +6776,7 @@ formulatory
 fruiteress
 flintlock
 flexura
+foredays
 flouts
 fogfruits
 forested
@@ -9833,7 +9834,6 @@ foreladies
 fallfish
 friends
 frenzy
-foredays
 fascicular
 figurability
 fridges

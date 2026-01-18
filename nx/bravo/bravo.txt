@@ -3469,7 +3469,6 @@ bathylite
 barquest
 basts
 banuyo
-basural
 bovarism
 browpost
 basuto
@@ -8930,6 +8929,7 @@ barleysick
 bioblastic
 bisagre
 backwoodsiness
+basural
 berakot
 burnewin
 brontolith
