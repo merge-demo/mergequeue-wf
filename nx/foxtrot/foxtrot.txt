@@ -703,6 +703,7 @@ filmcards
 ferlie
 fanweed
 fondants
+fallibly
 fanatico
 fallacia
 forzandos
@@ -10564,7 +10565,6 @@ frostily
 fluorate
 forwearying
 fatness
-fallibly
 frutescent
 fervencies
 fili
