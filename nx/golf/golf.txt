@@ -2404,6 +2404,7 @@ gashes
 ger
 gabon
 garhwali
+glyptographer
 gymnoconia
 guardants
 gasterosteoid
@@ -3664,7 +3665,6 @@ glutinose
 gyrocar
 greg
 gatewaymen
-glyptographer
 galyac
 gynostegigia
 gnathobdellae
