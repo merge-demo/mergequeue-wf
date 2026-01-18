@@ -11137,7 +11137,6 @@ besmeared
 bld
 boites
 blubberhead
-barrooms
 buoyance
 bigmitt
 bretesse
@@ -12657,6 +12656,7 @@ bonnier
 backlist
 beverages
 breechblock
+barrooms
 bonnnes
 bonnwis
 bionomist
