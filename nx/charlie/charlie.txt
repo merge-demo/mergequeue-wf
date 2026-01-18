@@ -21559,7 +21559,6 @@ chunkiest
 colin
 casuarinaceae
 concupiscible
-concupiscibleness
 cuff
 claimsmen
 ceruse
@@ -23607,6 +23606,7 @@ contortional
 contortionist
 cyril
 capitular
+concupiscibleness
 cubomancy
 comforts
 contorts
