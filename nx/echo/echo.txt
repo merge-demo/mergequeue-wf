@@ -752,7 +752,6 @@ economise
 epigyne
 eschaunge
 extremital
-excessmen
 eidolism
 elegiambus
 entour
@@ -2055,6 +2054,7 @@ emulsic
 endodontist
 eradiculose
 elsa
+excessmen
 elabrate
 epirrhematic
 epigaea

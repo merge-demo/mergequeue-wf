@@ -2796,6 +2796,7 @@ ashmolean
 abalienation
 alamire
 acrodontism
+auronal
 acrodrome
 acrodromous
 amyxorrhoea
@@ -12937,7 +12938,6 @@ antepone
 anticomplementary
 angust
 adrenine
-auronal
 angustirostrate
 admirator
 anteriority
