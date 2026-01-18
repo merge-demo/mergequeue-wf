@@ -11565,6 +11565,7 @@ cingulum
 clammier
 chainstitch
 chimachima
+contemperate
 countermeasure
 cholecystenterorrhaphy
 cholecystenterostomy
@@ -11801,7 +11802,6 @@ chondrostean
 chondrostei
 cytosine
 coexecutrices
-contemperate
 chondrosternal
 chondrotomy
 chonk
