@@ -141,6 +141,7 @@ basicranial
 beams
 bedimpled
 boolian
+biflabellate
 banister
 basidiocarp
 beman
@@ -8236,7 +8237,6 @@ biff
 broadwayite
 bifilar
 bifilarly
-biflabellate
 biflagelate
 bleo
 bewaring
