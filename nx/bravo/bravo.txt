@@ -4964,7 +4964,6 @@ bassos
 beelzebul
 bonework
 blesse
-barmier
 boulles
 bonaveria
 boltless
@@ -15654,6 +15653,7 @@ behypocrite
 bewigging
 bonelet
 britain
+barmier
 brotany
 buzzardlike
 biting
