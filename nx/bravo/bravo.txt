@@ -9845,6 +9845,7 @@ bitable
 bytalks
 backpedal
 bitanhol
+burbark
 bitartrate
 blackprint
 beneplacito
@@ -12841,7 +12842,6 @@ byronite
 bookworm
 booleys
 bluffer
-burbark
 bardy
 brame
 booly
