@@ -779,6 +779,7 @@ effaces
 exuvium
 ecotype
 ecotipically
+epicanthi
 ecotypically
 ecotonal
 enclaved
@@ -11023,7 +11024,6 @@ eurybenthic
 endeared
 etacist
 eutaxies
-epicanthi
 eusynchite
 epiglot
 enridged
