@@ -8685,6 +8685,7 @@ discoast
 diaspidine
 dots
 denominations
+discomposure
 dayakker
 dwt
 droumy
@@ -15200,7 +15201,6 @@ dolichosauri
 dinnerware
 dracaenaceae
 dolichosauria
-discomposure
 dolichuric
 diabolonian
 duplexer
