@@ -1920,7 +1920,6 @@ excud
 expletives
 esquamulose
 eimak
-exulted
 eulima
 eudiometrical
 escalations
@@ -8329,6 +8328,7 @@ enciphers
 elev
 expressibly
 endured
+exulted
 emulating
 embowelled
 evangelise
