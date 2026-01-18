@@ -3148,7 +3148,6 @@ craterid
 cristatella
 cape
 chequerboard
-capeadores
 capelan
 capelans
 cummin
@@ -20661,6 +20660,7 @@ complaint
 capibara
 counteranswer
 complaintiveness
+capeadores
 chaussures
 cabinetmake
 complaisant
