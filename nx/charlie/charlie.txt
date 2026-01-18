@@ -4770,7 +4770,6 @@ carphiophiops
 cubicly
 ceiler
 calonyction
-carpid
 cogredient
 conclaves
 carping
@@ -16882,6 +16881,7 @@ clubfisted
 clubfoot
 clubfooted
 clubhand
+carpid
 clubhands
 conclusum
 cerebralgia
