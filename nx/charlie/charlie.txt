@@ -13167,6 +13167,7 @@ ciceronage
 ciceroni
 crossbreeds
 ciceronian
+capsheaf
 carried
 chiaroscuro
 clon
@@ -28868,7 +28869,6 @@ crewman
 chapatty
 crewmanship
 crewmen
-capsheaf
 chaetognathan
 crex
 crikey
