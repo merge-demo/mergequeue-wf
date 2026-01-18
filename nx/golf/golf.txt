@@ -2926,7 +2926,6 @@ ganta
 glints
 gallipots
 gonocyte
-gaveled
 gombos
 geochemical
 gee
@@ -9474,6 +9473,7 @@ guatoan
 granitification
 gymel
 glycerolize
+gaveled
 gnattier
 gaywings
 glues
