@@ -4756,7 +4756,6 @@ gooder
 gladding
 gauping
 geisothermal
-graphiology
 gleyde
 glycerate
 galchic
@@ -5980,6 +5979,7 @@ germlike
 gastrohydrorrhea
 grangerize
 geodesics
+graphiology
 governance
 gingivolabial
 gazogenes
