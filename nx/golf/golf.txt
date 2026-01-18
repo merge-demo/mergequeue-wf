@@ -456,7 +456,6 @@ gyrenes
 geoprumnon
 gonopoietic
 gpd
-gerberas
 gastroanastomosis
 geechee
 gurnetty
@@ -3843,6 +3842,7 @@ gentian
 giantship
 garrafa
 gombroon
+gerberas
 gapping
 goggle
 giantsize
