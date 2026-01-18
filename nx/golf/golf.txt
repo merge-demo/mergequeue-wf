@@ -908,7 +908,6 @@ ginep
 gametocyte
 grayout
 granules
-gametogenic
 gueparde
 gravemaster
 geologer
@@ -5611,6 +5610,7 @@ glyster
 gallery
 guarri
 gastrophile
+gametogenic
 gymnocalycium
 gussies
 gastroenteritis
