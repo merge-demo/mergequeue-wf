@@ -2831,7 +2831,6 @@ exchangeably
 equangular
 explorations
 ebracteate
-eurithermophilic
 excecate
 edaphosauria
 expolish
@@ -13212,6 +13211,7 @@ ecospecific
 echinopsine
 expiration
 esparto
+eurithermophilic
 ervil
 exponentiation
 epaxial
