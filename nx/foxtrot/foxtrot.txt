@@ -4001,6 +4001,7 @@ footsteps
 founders
 focalise
 forecastors
+finableness
 floeberg
 fingerer
 finagler
@@ -6780,7 +6781,6 @@ fury
 foreface
 flaughtbred
 frequent
-finableness
 fusure
 forecontrive
 fenner
