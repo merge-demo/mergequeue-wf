@@ -10597,7 +10597,6 @@ aminosuccinamic
 airwoman
 angioleucitis
 applicants
-anthropoid
 aushar
 araru
 abrazo
@@ -17156,6 +17155,7 @@ aralie
 aphroditic
 anthracoxen
 ajog
+anthropoid
 atmos
 arcking
 apartment
