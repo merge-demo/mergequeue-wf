@@ -6595,6 +6595,7 @@ foulness
 fictor
 fissilingual
 frosted
+formalizable
 flourlike
 foremessenger
 fluoroscoped
@@ -9268,7 +9269,6 @@ feat
 foreship
 federations
 frilliness
-formalizable
 fooyung
 fadednyess
 figulines
