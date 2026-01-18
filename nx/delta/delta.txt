@@ -4347,7 +4347,6 @@ demeanor
 doit
 dupped
 disallowableness
-disembark
 dragonet
 demeanored
 diphtheritis
@@ -9195,6 +9194,7 @@ dreidl
 delicat
 disacquaint
 dogship
+disembark
 defensing
 duelled
 desoxycinchonine
