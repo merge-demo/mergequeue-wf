@@ -392,6 +392,7 @@ eastman
 enclaret
 estops
 eastre
+elegiast
 extents
 enturret
 empresse
@@ -13724,7 +13725,6 @@ evasive
 endothelioblastoma
 exhaustedness
 externity
-elegiast
 ecologies
 eliciting
 ecliptic
