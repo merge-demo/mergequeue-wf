@@ -5819,6 +5819,7 @@ burmannia
 bandstop
 bellyached
 bismethyl
+bedrizzle
 bellyaches
 bonhomies
 becriming
@@ -7301,7 +7302,6 @@ bongoists
 bestud
 bahur
 boninite
-bedrizzle
 bedight
 bipont
 barrancas
