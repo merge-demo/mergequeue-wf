@@ -318,7 +318,6 @@ enterodynia
 electroplated
 epitheliolysin
 expiries
-esophagodynia
 endosmose
 easterling
 exhumers
@@ -5480,6 +5479,7 @@ enemata
 enemyship
 energeia
 emblematicalness
+esophagodynia
 energesis
 earmark
 epilobium
