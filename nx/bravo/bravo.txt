@@ -9863,7 +9863,6 @@ barrels
 bucranium
 beamy
 blanketer
-babuls
 bressummer
 beworried
 broch
@@ -14137,6 +14136,7 @@ brachydont
 brachydontism
 bypass
 brachyglossal
+babuls
 blase
 burgul
 baring
