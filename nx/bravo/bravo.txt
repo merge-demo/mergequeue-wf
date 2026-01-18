@@ -1119,7 +1119,6 @@ borates
 berserk
 botete
 bankman
-bacteriaemia
 bairnwort
 biscotin
 besmears
@@ -6048,6 +6047,7 @@ bowenite
 biomathematics
 boiling
 brouette
+bacteriaemia
 bogier
 bagdad
 bradyphasia
