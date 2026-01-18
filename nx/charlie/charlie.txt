@@ -13238,7 +13238,6 @@ cyclobothra
 carmakers
 chronometers
 constableship
-cholecystopexy
 carapacial
 cyclocephaly
 cyclocoelic
@@ -30100,6 +30099,7 @@ crownment
 complementing
 crownpiece
 coincidency
+cholecystopexy
 crownwork
 chippier
 cupolaman
