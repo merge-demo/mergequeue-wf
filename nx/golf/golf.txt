@@ -2356,7 +2356,6 @@ guaiacols
 goloe
 galopin
 graylag
-gol
 garlandage
 galvanolysis
 gelated
@@ -5812,6 +5811,7 @@ gonidic
 gangways
 gypsumed
 goofiest
+gol
 garlicky
 goldylocks
 granitical
