@@ -803,7 +803,6 @@ goloka
 gamboller
 gambade
 gravata
-garrotting
 gambang
 gastrular
 glauke
@@ -1445,6 +1444,7 @@ glossocomon
 gowned
 gearshift
 gcd
+garrotting
 grundyite
 guigne
 galvanopsychic
