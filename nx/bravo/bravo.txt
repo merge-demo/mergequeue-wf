@@ -5895,6 +5895,7 @@ basimesostasis
 beigy
 boatsmanship
 belomancy
+breadlessness
 belonephobia
 belonger
 bagonet
@@ -16786,7 +16787,6 @@ buses
 bunnia
 bucktoothed
 bountyless
-breadlessness
 basilicas
 bicameralist
 babehood
