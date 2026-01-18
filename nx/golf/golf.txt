@@ -992,6 +992,7 @@ genre
 ghastfully
 gilgamesh
 grouting
+gliriformia
 goldurn
 gerodontology
 gumbo
@@ -5142,7 +5143,6 @@ glycan
 guilders
 gravery
 gyneolater
-gliriformia
 glassmaking
 guerite
 glyc
