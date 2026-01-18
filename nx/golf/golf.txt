@@ -138,6 +138,7 @@ gaelic
 gavialoid
 gynostegia
 gallicole
+gunfighter
 guy
 greenth
 grower
@@ -898,7 +899,6 @@ gotha
 gadroon
 geopositive
 globicephala
-gunfighter
 ginep
 gametocyte
 grayout
