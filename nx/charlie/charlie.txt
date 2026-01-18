@@ -1100,6 +1100,7 @@ coarticulate
 counterboycott
 calcifying
 codelight
+cammas
 callipee
 cantboard
 centesimos
@@ -31817,7 +31818,6 @@ coliiformes
 cretic
 cloggy
 combust
-cammas
 catholic
 campestrian
 cutinising
