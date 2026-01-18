@@ -27,7 +27,6 @@ dzeren
 deltiology
 declinograph
 detur
-dependance
 daven
 dabs
 desalinates
@@ -2935,6 +2934,7 @@ dimanganion
 dipterans
 displayer
 dediticiancy
+dependance
 dedogmatize
 dedolation
 deseret
