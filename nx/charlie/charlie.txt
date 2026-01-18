@@ -3922,7 +3922,6 @@ crankles
 carbonisable
 carbonise
 clarets
-canister
 carbonitride
 countertranslation
 charmfulness
@@ -5482,6 +5481,7 @@ castrati
 compendent
 castrensial
 castrum
+canister
 cerebellopontile
 christianness
 cabrerite
