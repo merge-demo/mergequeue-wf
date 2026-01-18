@@ -1512,7 +1512,6 @@ generical
 grillages
 gaoler
 glebae
-gowks
 grover
 gamma
 gilbertite
@@ -6573,6 +6572,7 @@ geminated
 gratiolin
 garrulous
 gabblers
+gowks
 gibberellin
 gesten
 grew
