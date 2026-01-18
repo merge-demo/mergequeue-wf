@@ -8347,7 +8347,6 @@ diplogenetic
 datagram
 disenactment
 dialectal
-dormeuse
 drawees
 dishpanful
 draftier
@@ -17048,6 +17047,7 @@ dosers
 disthroning
 divisory
 degenerated
+dormeuse
 diclinies
 desalinate
 diaplexus
