@@ -3271,7 +3271,6 @@ ferrean
 fictioner
 furbisher
 forestish
-foots
 fictionized
 frankheartness
 foutre
@@ -11463,6 +11462,7 @@ flirtation
 fiducially
 fatlings
 falteringly
+foots
 furrily
 fathoms
 fusible
