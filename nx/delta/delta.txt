@@ -2001,7 +2001,6 @@ doglegged
 defaecate
 dysphasia
 deadfall
-dictation
 dacryocele
 despaired
 decadrachmae
@@ -5541,6 +5540,7 @@ demihague
 diplomatique
 deposer
 depauperize
+dictation
 dorsal
 deuterofibrinose
 dyscrase
