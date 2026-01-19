@@ -1890,7 +1890,6 @@ grecizing
 gossip
 gleir
 graptolithina
-gerrhosaurid
 graveled
 gambles
 growlery
@@ -7686,6 +7685,7 @@ gracilis
 gracing
 grunth
 geonic
+gerrhosaurid
 gimblet
 gastrodialysis
 graft
