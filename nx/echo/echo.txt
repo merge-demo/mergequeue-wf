@@ -11670,7 +11670,6 @@ etymons
 electrohydraulic
 eulogias
 exactness
-edeology
 exactors
 enterophthisis
 electrophone
@@ -12557,6 +12556,7 @@ exoascaceous
 exoascales
 empeo
 enkindled
+edeology
 exobasidiaceae
 epiplopexy
 epithesis
