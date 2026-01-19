@@ -4167,6 +4167,7 @@ glossem
 glosts
 gizmos
 girandole
+garmentless
 genetor
 gyropilot
 galaxiidae
@@ -8576,7 +8577,6 @@ grecian
 girrock
 grues
 glycin
-garmentless
 geisha
 graveolent
 gymnoderinae
