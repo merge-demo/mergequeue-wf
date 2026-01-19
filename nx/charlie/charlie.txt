@@ -1255,7 +1255,6 @@ cumulostratus
 camporees
 crup
 contender
-cauliferous
 counterfaller
 corporality
 cambrel
@@ -4039,6 +4038,7 @@ carcinolysin
 cycadiform
 carcinological
 carcinoma
+cauliferous
 carbocyclic
 curtesy
 carcinomata
