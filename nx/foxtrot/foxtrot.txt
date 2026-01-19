@@ -3185,6 +3185,7 @@ fantocine
 futuristic
 farreate
 ferrugo
+fatalities
 fingerpost
 ferment
 frighty
@@ -7167,7 +7168,6 @@ francis
 flaxy
 foodful
 fribby
-fatalities
 flowk
 frase
 felones
