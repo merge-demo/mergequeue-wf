@@ -39,7 +39,6 @@ finement
 fibrolitic
 fibrocyst
 fabricator
-flintless
 furies
 farmscape
 flick
@@ -9850,6 +9849,7 @@ fridges
 ferijee
 frequentest
 foraminifer
+flintless
 feldspar
 fructuosity
 frapp
