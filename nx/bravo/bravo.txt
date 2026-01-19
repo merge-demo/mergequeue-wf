@@ -5414,6 +5414,7 @@ begriming
 begrimmed
 bot
 bordroom
+baddeleyite
 brachycardia
 biweekly
 booking
@@ -16408,7 +16409,6 @@ bruiter
 bruits
 borofluorin
 breadthen
-baddeleyite
 bacchius
 botryolite
 benefic

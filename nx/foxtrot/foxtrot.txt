@@ -4177,6 +4177,7 @@ fireback
 flagellative
 frogleaf
 fulk
+foregone
 farmy
 fellowshipping
 fenchyl
@@ -5682,7 +5683,6 @@ fader
 floweret
 fonly
 flycatchers
-foregone
 figureheads
 futtah
 flintiness
