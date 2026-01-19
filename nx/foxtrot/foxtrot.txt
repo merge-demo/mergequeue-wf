@@ -5420,6 +5420,7 @@ forereach
 front
 formonitrile
 festuca
+festoons
 ferry
 faitery
 flb
@@ -11681,7 +11682,6 @@ ferrety
 flames
 frowsty
 furcates
-festoons
 flocculate
 feru
 felids
