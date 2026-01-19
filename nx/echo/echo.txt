@@ -1624,6 +1624,7 @@ essenis
 emball
 endosperm
 electrosynthetically
+evections
 eglantines
 endocardia
 ethnogenist
@@ -6972,7 +6973,6 @@ expergefaction
 entoptic
 entoptics
 epiphytous
-evections
 expense
 enjoyableness
 entosternal
