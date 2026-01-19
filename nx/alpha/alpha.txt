@@ -12347,7 +12347,6 @@ adjective
 aromal
 androphorous
 antipyryl
-actinides
 argante
 androsphinx
 androsporangium
@@ -15529,6 +15528,7 @@ areopagist
 antiatheism
 alsikes
 aquaplanes
+actinides
 antimonies
 antimonium
 abseil
