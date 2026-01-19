@@ -8788,7 +8788,6 @@ endothermal
 embossable
 enround
 electrodepositable
-elegist
 erections
 eudromias
 endanger
@@ -13182,6 +13181,7 @@ ectally
 epiphonema
 enrive
 epithetician
+elegist
 epistlar
 endergonic
 eugenist
