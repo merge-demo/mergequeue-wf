@@ -5271,6 +5271,7 @@ caspian
 coriariaceous
 casque
 casqued
+const
 cushat
 casquetel
 colemouse
@@ -24245,7 +24246,6 @@ cucumis
 convulsion
 conjugates
 conjuncture
-const
 crescendi
 chirographer
 confessing
