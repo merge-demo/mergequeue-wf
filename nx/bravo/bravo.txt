@@ -1746,7 +1746,6 @@ broon
 byline
 boutonniere
 belorussian
-baloskion
 balter
 bulbels
 balsamation
@@ -4615,6 +4614,7 @@ bigeminate
 bedazzle
 banters
 bowsprit
+baloskion
 ballbuster
 bedazzles
 bedazzlingly
