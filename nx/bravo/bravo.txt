@@ -3960,7 +3960,6 @@ bristols
 behelp
 bengaline
 bdellovibrio
-butanes
 beautification
 blepharal
 bariums
@@ -4649,6 +4648,7 @@ backer
 bedecked
 bedecking
 beholdingness
+butanes
 bulletproofed
 bundles
 bedehouse
