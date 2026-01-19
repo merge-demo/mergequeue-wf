@@ -5586,7 +5586,6 @@ glycidol
 gowning
 gad
 gamecocks
-guardlike
 globigerinae
 guarnerius
 gloea
@@ -10234,6 +10233,7 @@ glamourously
 gasworker
 galusha
 gratis
+guardlike
 glamouring
 girthed
 geissospermin
