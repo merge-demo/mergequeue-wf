@@ -3712,7 +3712,6 @@ goldest
 geoglyphic
 gillnetting
 gonadotropic
-glout
 gardenin
 gaffkya
 genotypicity
@@ -9669,6 +9668,7 @@ gobinist
 griming
 glaucodote
 geests
+glout
 gleeman
 goiter
 grizzlier
