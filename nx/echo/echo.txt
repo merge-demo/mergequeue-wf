@@ -2840,7 +2840,6 @@ etherealization
 eluded
 embelic
 exclamations
-easter
 enjeopard
 elementish
 extricates
@@ -10100,6 +10099,7 @@ exonian
 eternalize
 eyecups
 ensorcelize
+easter
 etypical
 erythrosin
 etheostominae
