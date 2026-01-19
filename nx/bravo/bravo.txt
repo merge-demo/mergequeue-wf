@@ -484,6 +484,7 @@ bridely
 backstitch
 bahoo
 billhead
+brevetted
 briming
 broadway
 besiclometer
@@ -1084,7 +1085,6 @@ beneficency
 bradypnoea
 bairn
 bypassed
-brevetted
 bransolder
 bromius
 basileis
