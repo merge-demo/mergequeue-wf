@@ -12478,7 +12478,6 @@ chromolith
 colent
 chromolithic
 concanavalin
-chromolithography
 chromolithographic
 chromomere
 crioceris
@@ -19702,6 +19701,7 @@ chubbier
 combatable
 chroma
 chrismale
+chromolithography
 chalybeate
 combatant
 cimbalom
