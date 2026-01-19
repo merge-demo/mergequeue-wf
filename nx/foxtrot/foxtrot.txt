@@ -1813,6 +1813,7 @@ folkmots
 flak
 frotting
 frustules
+freath
 fanfarade
 flyspecks
 fastener
@@ -9407,7 +9408,6 @@ fro
 fanneling
 flummydiddle
 filmographies
-freath
 fathoming
 flane
 fewmets
