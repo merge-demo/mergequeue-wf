@@ -2737,6 +2737,7 @@ escrol
 expectorating
 excitors
 enduros
+elmy
 electrotherapy
 electrotheraputic
 elocution
@@ -14138,7 +14139,6 @@ endarch
 eucharistical
 evokes
 equivorous
-elmy
 embryogenetic
 existentialize
 epithamia
