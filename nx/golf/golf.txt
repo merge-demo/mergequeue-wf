@@ -4554,7 +4554,6 @@ gypsology
 glop
 greekess
 gymnotokous
-glib
 gypsophila
 gypsophily
 governorship
@@ -6246,6 +6245,7 @@ gleds
 gulravage
 grouper
 gp
+glib
 galactophagist
 glucosamine
 goaty
