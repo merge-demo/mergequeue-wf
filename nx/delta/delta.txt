@@ -4124,6 +4124,7 @@ deliveress
 dodecatheon
 dentirostrate
 damner
+disalign
 diadoche
 desipience
 demonocracy
@@ -6661,7 +6662,6 @@ disesteemer
 dollmaker
 decadianome
 dynast
-disalign
 disendows
 drawarm
 dipneedle
