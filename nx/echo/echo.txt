@@ -10260,6 +10260,7 @@ experiences
 embedded
 excavators
 edema
+electromyographic
 emphraxis
 eglestonite
 extragastric
@@ -11845,7 +11846,6 @@ enshrinements
 engracing
 excavator
 excave
-electromyographic
 epist
 eructated
 extancy

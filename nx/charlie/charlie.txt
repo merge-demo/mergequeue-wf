@@ -2836,7 +2836,6 @@ cuprammonium
 canoing
 cuerpo
 canon
-cardin
 cropsickness
 churlish
 canones
@@ -6832,6 +6831,7 @@ celiadelphus
 costard
 celibatic
 conducent
+cardin
 celibatory
 cyclicality
 celidography
