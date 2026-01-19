@@ -19842,6 +19842,7 @@ attributives
 audiogenic
 armiger
 aweto
+asak
 armigeros
 armigerous
 aimful
@@ -25149,7 +25150,6 @@ affodill
 adept
 antritis
 anathemas
-asak
 apertum
 axiomatizes
 advocatrice
