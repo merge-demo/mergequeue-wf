@@ -5482,7 +5482,6 @@ groupageness
 gastroesophageal
 galliwasp
 guniter
-glyphic
 gambist
 gascoign
 guran
@@ -5549,6 +5548,7 @@ goods
 goodyera
 gutium
 glossoptosis
+glyphic
 goldilocks
 glink
 glisten
