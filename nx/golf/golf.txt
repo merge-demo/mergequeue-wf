@@ -342,7 +342,6 @@ galactometer
 gaussian
 garnishment
 grilses
-gleen
 gerontologic
 gangetic
 governingly
@@ -10576,6 +10575,7 @@ gatewoman
 grenadiership
 gpad
 gratulate
+gleen
 governess
 goads
 garnisher
