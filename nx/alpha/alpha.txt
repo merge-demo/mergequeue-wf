@@ -6760,6 +6760,7 @@ airfare
 amyctic
 airflow
 antimoralist
+affray
 agoniada
 airfoil
 airfoils
@@ -16298,7 +16299,6 @@ artophoria
 antituberculotic
 anticholagogue
 antitumoral
-affray
 acranial
 amphoriloquy
 amdahl
