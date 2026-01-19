@@ -2389,7 +2389,6 @@ canaries
 cohobates
 companator
 canarine
-canarium
 centers
 canarsee
 cuj
@@ -23310,6 +23309,7 @@ consumes
 catamnestic
 consuming
 consumingly
+canarium
 consummated
 consummating
 calamaroid

@@ -896,7 +896,6 @@ englobement
 entourages
 epistolizer
 eigenfunction
-erythrocytolysin
 electrocution
 entailed
 ectomorph
@@ -10658,6 +10657,7 @@ eques
 enharmonical
 enchilada
 eudemonistic
+erythrocytolysin
 encephalocele
 eudemonics
 epinephrine
