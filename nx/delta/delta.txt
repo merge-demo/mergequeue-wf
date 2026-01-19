@@ -8261,7 +8261,6 @@ ductus
 distrito
 diagnosed
 diagnostical
-diagnostically
 disenthroned
 disentitled
 diagnosticate
@@ -16269,6 +16268,7 @@ dispeace
 downriver
 defended
 downshift
+diagnostically
 downshifted
 downshore
 disvalue
