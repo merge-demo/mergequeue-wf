@@ -11302,6 +11302,7 @@ amphioxus
 ampulliform
 affrightfully
 ampullula
+assecuration
 amputate
 anuresis
 amputates
@@ -21673,7 +21674,6 @@ alpinely
 anabasine
 asseal
 arad
-assecuration
 anagua
 assecure
 advenience
