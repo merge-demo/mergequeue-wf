@@ -10807,7 +10807,6 @@ dipsopathy
 demonography
 daintiest
 diploperistomic
-dipstick
 disrest
 diazotize
 divinization
@@ -14624,6 +14623,7 @@ deemphasize
 debag
 defamous
 draine
+dipstick
 divulgation
 dolly
 deozonize
