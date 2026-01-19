@@ -1939,7 +1939,6 @@ epurate
 eptatretidae
 estadel
 eyrant
-eschalot
 enolize
 entomophthorales
 excision
@@ -9913,6 +9912,7 @@ etaballi
 extradural
 epipterygoid
 exprimable
+eschalot
 emoluments
 euphuists
 embolisms
