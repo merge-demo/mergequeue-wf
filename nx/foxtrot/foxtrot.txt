@@ -2686,7 +2686,6 @@ firmless
 fluviatic
 feedings
 feeding
-felspathic
 fainaigue
 froufrou
 factotum
@@ -8315,6 +8314,7 @@ forwaked
 families
 flashtubes
 fillingness
+felspathic
 fibromyomatous
 forthcall
 forgetful
