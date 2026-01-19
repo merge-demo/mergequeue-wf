@@ -3483,7 +3483,6 @@ gulpiest
 greco
 gynaeolatry
 gibraltar
-galleting
 gallicize
 gyromancy
 gainless
@@ -10539,6 +10538,7 @@ galeorchis
 gilgul
 gilly
 gatecrashers
+galleting
 gonal
 gunfights
 girella
