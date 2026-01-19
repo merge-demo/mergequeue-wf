@@ -5062,6 +5062,7 @@ bannerlike
 bloodthirst
 befamilied
 biogeography
+bergeres
 bemas
 befeather
 becoming
@@ -12434,7 +12435,6 @@ beget
 bluishness
 bedizening
 bulgarian
-bergeres
 beele
 bergylt
 backtack
