@@ -4520,7 +4520,6 @@ exhort
 embryophyta
 eyestone
 encephalographic
-episematic
 enamelling
 esthesiophysiology
 elsewhat
@@ -8641,6 +8640,7 @@ engler
 equilibriums
 ethician
 equimodal
+episematic
 eunomia
 espantoon
 encirclements
