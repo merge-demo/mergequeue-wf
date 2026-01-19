@@ -1430,6 +1430,7 @@ accepts
 apellous
 aproned
 accessary
+animate
 accessaries
 anesthesiometer
 accessarily
@@ -6331,7 +6332,6 @@ agriochoerus
 amoeban
 appomatox
 aquifuge
-animate
 allotypical
 apoplexy
 auletic
