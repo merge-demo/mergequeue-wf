@@ -746,7 +746,6 @@ enterozoa
 encephalometric
 epyllion
 equalable
-expressionable
 eosinate
 enneaspermous
 enabler
@@ -2110,6 +2109,7 @@ evacuative
 elapine
 euthyneurous
 exilic
+expressionable
 emenders
 enfelon
 eutectics
