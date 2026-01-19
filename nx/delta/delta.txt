@@ -6237,7 +6237,6 @@ dermatotropic
 dizaine
 dermatatrophia
 dammer
-discretely
 dayman
 devirginate
 donum
@@ -17568,6 +17567,7 @@ domesticates
 duteousness
 drumming
 drumreads
+discretely
 demential
 drumroll
 drums
