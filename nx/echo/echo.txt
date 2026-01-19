@@ -215,7 +215,6 @@ enfief
 extraformal
 examiner
 ecclesiasticus
-encrustment
 emeras
 exarticulation
 exclamatively
@@ -746,6 +745,7 @@ enterozoa
 encephalometric
 epyllion
 equalable
+encrustment
 eosinate
 enneaspermous
 enabler
