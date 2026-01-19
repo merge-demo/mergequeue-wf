@@ -1101,7 +1101,6 @@ electrized
 exsheath
 entomologies
 eigne
-edged
 eidolon
 edgeshot
 edgeway
@@ -5319,6 +5318,7 @@ endoscopies
 endoskeletons
 endosmic
 embaphium
+edged
 endosmoses
 excepted
 explicit
