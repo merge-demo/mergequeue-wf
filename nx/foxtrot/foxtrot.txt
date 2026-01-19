@@ -3722,6 +3722,7 @@ figure
 fewter
 futuro
 fibrilated
+fringepod
 fidos
 falsifying
 footman
@@ -5865,7 +5866,6 @@ fisher
 farth
 fiaschi
 fecket
-fringepod
 flyspecking
 folate
 fill
