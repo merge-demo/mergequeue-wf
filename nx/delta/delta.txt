@@ -9915,7 +9915,6 @@ doek
 dace
 dimensioning
 dimensum
-disangularize
 dimer
 decadency
 deludable
@@ -17707,6 +17706,7 @@ dubbin
 disused
 dystopias
 demipauldron
+disangularize
 discriminable
 durables
 demultiplex
