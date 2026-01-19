@@ -12714,7 +12714,6 @@ abernethy
 angionoma
 aecidioform
 anglish
-angioparalytic
 angioparesis
 ambassadorship
 awarder
@@ -13873,6 +13872,7 @@ anergic
 amzel
 antagonism
 alef
+angioparalytic
 alligators
 anticrepuscular
 antagonistical
