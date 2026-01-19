@@ -7059,6 +7059,7 @@ amanitas
 aerocartograph
 actuator
 aliesterase
+automower
 anointers
 akmuddar
 aknow
@@ -17443,7 +17444,6 @@ abominating
 aloisiite
 aulu
 appendence
-automower
 athyris
 arriving
 appalling
