@@ -8235,6 +8235,7 @@ electrofusion
 espies
 epipharyngeal
 etchers
+escrows
 empyrosis
 episodial
 erythroscope
@@ -9660,7 +9661,6 @@ enclosing
 emissaries
 epicycles
 electrocoagulation
-escrows
 enkindles
 erminois
 epilogize
