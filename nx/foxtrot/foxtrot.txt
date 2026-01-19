@@ -2756,7 +2756,6 @@ finfish
 friezed
 fraternization
 fourness
-fyce
 fussify
 fraela
 folklore
@@ -6494,6 +6493,7 @@ fixup
 fluvio
 foppery
 fragrantness
+fyce
 floreal
 funiliform
 facelift
