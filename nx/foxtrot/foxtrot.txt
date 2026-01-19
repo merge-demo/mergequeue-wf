@@ -3514,7 +3514,6 @@ fanfares
 frostfishes
 forepart
 foreseason
-fallback
 foreinstruct
 fighteress
 fatigation
@@ -10731,6 +10730,7 @@ foodstuffs
 fruitiness
 fieldworker
 flagless
+fallback
 fist
 famish
 frightable
