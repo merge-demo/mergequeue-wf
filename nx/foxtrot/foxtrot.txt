@@ -565,7 +565,6 @@ falconinae
 fleeces
 factitial
 funambulant
-fourness
 falcons
 falculate
 fawnery
@@ -2756,6 +2755,7 @@ fetation
 finfish
 friezed
 fraternization
+fourness
 fyce
 fussify
 fraela
