@@ -13543,7 +13543,6 @@ baronethood
 bottomers
 bottoming
 betweenness
-benefic
 birthing
 bowyangs
 basementward
@@ -16408,6 +16407,7 @@ breadthen
 baddeleyite
 bacchius
 botryolite
+benefic
 bevil
 backarrow
 benchmarking
