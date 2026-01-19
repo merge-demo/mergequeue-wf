@@ -2767,7 +2767,6 @@ acrostolia
 amebian
 amnion
 ates
-artarin
 ameliorations
 amontillado
 acrobatical
@@ -9566,6 +9565,7 @@ ardency
 amnionia
 anacahuita
 acis
+artarin
 auspicy
 antimodernist
 antespring
