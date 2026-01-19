@@ -9964,7 +9964,6 @@ antiformant
 allodia
 amblycephalus
 amblydactyla
-asymptomatically
 aedeagi
 ammoniemia
 agarita
@@ -16772,6 +16771,7 @@ aphorist
 anomorhomboidal
 ailuropus
 autoportraiture
+asymptomatically
 attaboy
 aphorize
 aktivist
