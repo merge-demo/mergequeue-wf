@@ -12456,7 +12456,6 @@ banya
 bulls
 bonagh
 biconvex
-bonaire
 buccate
 bonang
 brontothere
@@ -17718,6 +17717,7 @@ benempt
 bemuzzled
 bott
 beknit
+bonaire
 burnfire
 burnish
 burnishable
