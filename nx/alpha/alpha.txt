@@ -4827,7 +4827,6 @@ amas
 amoebous
 arkwright
 astrolater
-appoggiatura
 apopetalous
 amphibiology
 aloma
@@ -21967,6 +21966,7 @@ athamaunte
 asssembler
 abomination
 astrologer
+appoggiatura
 alectoropodous
 angerless
 anthropic
