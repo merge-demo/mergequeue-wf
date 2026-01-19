@@ -3935,7 +3935,6 @@ equalness
 eels
 enalid
 exede
-examinability
 epiglottis
 endexine
 emissory
@@ -8569,6 +8568,7 @@ enunciative
 equatorwards
 exchangeable
 ectomeric
+examinability
 ecalcarate
 epinephelus
 enwreathe
