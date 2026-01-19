@@ -2153,7 +2153,6 @@ glands
 ganodus
 galliot
 gormaw
-gazebo
 glaked
 grovelling
 gazeboes
@@ -2899,6 +2898,7 @@ graminaceae
 ganocephalous
 gipser
 grasschat
+gazebo
 goombay
 generatrices
 gileadite
