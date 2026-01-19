@@ -4982,7 +4982,6 @@ fourscore
 flummoxes
 flakiest
 frugivorous
-forged
 frequentable
 foamier
 fixate
@@ -7495,6 +7494,7 @@ forbidals
 floccillation
 fasted
 foobar
+forged
 forbiddenly
 fuage
 fulling
