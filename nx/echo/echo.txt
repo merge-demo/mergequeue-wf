@@ -4926,6 +4926,7 @@ endocrinal
 endamebae
 equiv
 eveck
+equiperiodic
 eupatoriaceous
 east
 extradictable
@@ -8676,7 +8677,6 @@ episcleritis
 epiglottides
 entortill
 evangelists
-equiperiodic
 erotical
 epilepsy
 ejecta
