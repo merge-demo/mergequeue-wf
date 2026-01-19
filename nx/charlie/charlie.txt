@@ -6163,6 +6163,7 @@ catspaw
 catstane
 copiable
 catstep
+cohesions
 catstick
 ciderkin
 cafeterias
@@ -6782,7 +6783,6 @@ celeb
 capicha
 clition
 celebrant
-cohesions
 celebrants
 comiakin
 celebratedly
