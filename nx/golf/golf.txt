@@ -5158,7 +5158,6 @@ gomerec
 grittier
 gunman
 guilelessly
-ghalva
 guernseyed
 goldlike
 glareproof
@@ -7844,6 +7843,7 @@ guessers
 glenoidal
 girnal
 gearcase
+ghalva
 glacial
 gipseian
 greeny
