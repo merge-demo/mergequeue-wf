@@ -9386,7 +9386,6 @@ foregoers
 fabrikoid
 fruticeta
 footworn
-flukey
 forsado
 fluidise
 flappers
@@ -9664,6 +9663,7 @@ forgone
 foller
 flaser
 futilitarian
+flukey
 forking
 freightyard
 fidded
