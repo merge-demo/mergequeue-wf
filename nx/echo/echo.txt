@@ -7473,7 +7473,6 @@ enambush
 enif
 esthesia
 ephippia
-enfortune
 endeign
 effluency
 ephor
@@ -10994,6 +10993,7 @@ exorable
 eoan
 emydea
 estufa
+enfortune
 eupsychics
 electrobioscopy
 epitaphize
