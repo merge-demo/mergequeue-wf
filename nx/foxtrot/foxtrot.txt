@@ -2335,6 +2335,7 @@ fast
 fixities
 fixatifs
 foggy
+fondaco
 franchises
 feminizes
 friday
@@ -4063,7 +4064,6 @@ fluoaluminic
 frithstool
 faradocontractility
 forwean
-fondaco
 fallacious
 forefaces
 flower

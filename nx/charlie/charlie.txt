@@ -13502,7 +13502,6 @@ compilers
 chisel
 chrysocolla
 cholelithotripsy
-comitiva
 cylindroid
 ceratites
 caudillos
@@ -27012,6 +27011,7 @@ counterpreach
 counterprick
 cark
 combinatoric
+comitiva
 counterprocess
 counterproductive
 counterproductively
