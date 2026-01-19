@@ -3688,7 +3688,6 @@ ellick
 expositive
 emotionalised
 enascent
-electrosensitive
 eudaemonize
 elfkin
 estimators
@@ -5528,6 +5527,7 @@ enfeeblements
 exorcising
 experimenting
 exoterics
+electrosensitive
 espiritual
 euphon
 enfeebles
