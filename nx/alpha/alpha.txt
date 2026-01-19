@@ -2967,7 +2967,6 @@ actinautographic
 aerotonometer
 apographic
 antijam
-auscultative
 acting
 actiniae
 axial
@@ -19537,6 +19536,7 @@ acclimatized
 arabidopsis
 argumental
 autecious
+auscultative
 anesthesiant
 aeroscope
 asynchronous

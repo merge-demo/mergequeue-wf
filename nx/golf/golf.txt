@@ -3534,6 +3534,7 @@ gynecology
 gastrotomy
 grum
 gubernance
+guanabano
 gove
 gelid
 gaveler
@@ -5566,7 +5567,6 @@ gonotokont
 genipaps
 gorhens
 gastropods
-guanabano
 granadillo
 goalie
 glutinously
