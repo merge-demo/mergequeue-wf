@@ -6192,6 +6192,7 @@ alswith
 acrocarpi
 agoranomus
 advertiser
+amoritic
 archengineer
 asarota
 alnager
@@ -10895,7 +10896,6 @@ arcsine
 acetphenetid
 amorite
 allegory
-amoritic
 accoil
 alma
 adolescence
