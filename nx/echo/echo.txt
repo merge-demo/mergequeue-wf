@@ -7081,7 +7081,6 @@ entry
 expansionary
 eleazar
 exemptile
-earthfast
 experiencer
 enumeration
 expressional
@@ -12502,6 +12501,7 @@ erythrean
 existimation
 eunicid
 epicalyx
+earthfast
 etymologized
 euphemy
 emissaria
