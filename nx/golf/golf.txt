@@ -3177,7 +3177,6 @@ grannam
 germanite
 gurgles
 georgics
-glycosyl
 gnast
 galumphing
 grangousier
@@ -4215,6 +4214,7 @@ gratewise
 gypsum
 gouda
 graphiologist
+glycosyl
 glassen
 gelinotte
 gamopetalae
