@@ -4870,7 +4870,6 @@ gainfulness
 glaciered
 gecarcinian
 glossal
-gages
 gifted
 gadi
 globularia
@@ -6208,6 +6207,7 @@ glandiferous
 givens
 glistened
 goliaths
+gages
 gish
 gyric
 gambodic
