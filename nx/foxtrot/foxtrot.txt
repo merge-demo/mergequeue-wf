@@ -67,7 +67,6 @@ fenchone
 firns
 feudalization
 faceharden
-flagships
 financiers
 flashing
 facellite
@@ -971,6 +970,7 @@ fumidity
 forbysening
 findal
 fiberware
+flagships
 frankable
 filmized
 firestone
