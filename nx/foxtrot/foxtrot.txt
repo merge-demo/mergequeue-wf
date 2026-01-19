@@ -1857,7 +1857,6 @@ flaccid
 falangism
 feloid
 febrile
-forrue
 fcs
 fluidizer
 farthermore
@@ -7230,6 +7229,7 @@ forgettery
 football
 flaglet
 fatheadedly
+forrue
 feh
 feeder
 filling
