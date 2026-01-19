@@ -865,7 +865,6 @@ extremest
 encrust
 embiidina
 explanative
-epitheton
 exogastritis
 entrecote
 epop
@@ -13178,6 +13177,7 @@ enhort
 embolomycotic
 experimentist
 empassion
+epitheton
 emulsify
 efoveolate
 enterauxe
