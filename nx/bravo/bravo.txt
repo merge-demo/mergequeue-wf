@@ -8600,6 +8600,7 @@ billbug
 biller
 blackeye
 brantcorn
+bon
 billeted
 bilabe
 biologize
@@ -12448,7 +12449,6 @@ burbots
 bombus
 bombardelle
 beloveds
-bon
 backrope
 bonacis
 banya
