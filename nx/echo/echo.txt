@@ -1565,7 +1565,6 @@ entomophilous
 epa
 epicalyxes
 evected
-egality
 examens
 exaggeratedly
 enliven
@@ -11667,6 +11666,7 @@ exacting
 eruca
 electivity
 emersonian
+egality
 eliminations
 entoplastic
 enfire
