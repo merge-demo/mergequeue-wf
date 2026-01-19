@@ -3636,7 +3636,6 @@ fenceful
 florigraphy
 forspoken
 fastening
-feddan
 flether
 fourniture
 flank
@@ -9814,6 +9813,7 @@ fido
 frenchly
 fogus
 fissionability
+feddan
 floatable
 footmanry
 fingermark
