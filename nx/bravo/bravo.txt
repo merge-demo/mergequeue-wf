@@ -9133,7 +9133,6 @@ bidented
 brown
 bandagist
 bicolours
-buzzwords
 bladdernose
 biorhythm
 butyrins
@@ -9553,6 +9552,7 @@ bdellostoma
 birses
 buttstrapped
 birsit
+buzzwords
 brandenburgh
 badenite
 borstals
