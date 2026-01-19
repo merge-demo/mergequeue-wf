@@ -3978,6 +3978,7 @@ fraple
 ferrocyanogen
 falsehearted
 furrowed
+ferther
 foresummon
 fishplate
 fimbriate
@@ -8795,7 +8796,6 @@ firesafe
 fortifys
 finalist
 filicornia
-ferther
 framboesia
 finniest
 firespout
