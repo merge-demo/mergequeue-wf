@@ -1581,7 +1581,6 @@ ghoul
 gadflies
 gunrack
 grounder
-gazetting
 grulla
 glimes
 germans
@@ -1837,6 +1836,7 @@ gold
 gthite
 giddies
 generativeness
+gazetting
 grummeter
 grapta
 greyhens
