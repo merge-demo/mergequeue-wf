@@ -6342,7 +6342,6 @@ guidsire
 gyrons
 gastroatonia
 gastriloquous
-gnatoo
 gymnorhininae
 goodheartedly
 gansel
@@ -8699,6 +8698,7 @@ gisel
 greaved
 granite
 gesseron
+gnatoo
 galvaniser
 grossulaceous
 gigartinales
