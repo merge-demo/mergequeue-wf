@@ -8642,7 +8642,6 @@ dinge
 debugging
 dialyses
 diary
-dishelming
 diaglyph
 disimprove
 diarist
@@ -14939,6 +14938,7 @@ dreadless
 demophile
 decollate
 dodman
+dishelming
 dodoma
 demonised
 drugman
