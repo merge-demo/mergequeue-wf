@@ -10757,6 +10757,7 @@ ammonitoidea
 affording
 ammocoetiform
 appay
+anim
 antischolastic
 ammoniuret
 argolian
@@ -24212,7 +24213,6 @@ anklejack
 autolyzes
 autoloader
 antiromantic
-anim
 autology
 autological
 antiatheist

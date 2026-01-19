@@ -4656,7 +4656,6 @@ dilutive
 dipterologist
 downswings
 derealization
-declaration
 demiurgos
 dewaxed
 denticles
@@ -10839,6 +10838,7 @@ dipware
 diver
 disposal
 disadvantageous
+declaration
 diquat
 demirelief
 disconcertingly
