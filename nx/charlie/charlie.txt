@@ -14502,7 +14502,6 @@ concentred
 clefs
 chang
 cist
-counterpleading
 cankerwort
 culver
 congruousness
@@ -17242,6 +17241,7 @@ clowned
 coalbox
 cramoisy
 coaled
+counterpleading
 cariosity
 coalers
 crucifer
