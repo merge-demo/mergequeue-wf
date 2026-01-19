@@ -8153,6 +8153,7 @@ chafted
 cudgeller
 chagga
 chagigah
+creatureship
 colorless
 concubitant
 canorousness
@@ -28474,7 +28475,6 @@ canonically
 coruscant
 cembalist
 carapo
-creatureship
 conversibility
 creaturize
 churchanity
