@@ -1264,7 +1264,6 @@ generalizations
 gondolas
 gambolled
 galligaskin
-groff
 gravures
 giddy
 grogged
@@ -2850,6 +2849,7 @@ gutnish
 gadders
 gothish
 genoveva
+groff
 grangerizing
 gingelly
 gilgulim
