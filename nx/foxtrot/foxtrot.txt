@@ -7141,7 +7141,6 @@ floodwood
 feases
 forefit
 forebodings
-fanny
 fons
 fauxbourdon
 ferrum
@@ -8850,6 +8849,7 @@ frontage
 frighting
 forhooie
 forechamber
+fanny
 forwearied
 fully
 fitchy
