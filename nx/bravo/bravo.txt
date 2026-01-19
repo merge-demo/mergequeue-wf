@@ -493,7 +493,6 @@ baldrick
 baddish
 blackacre
 biogenesis
-burbling
 backstrapped
 bombsights
 bescoundrel
@@ -11019,6 +11018,7 @@ blocky
 beckets
 braid
 blacksmiths
+burbling
 billowy
 boehmenite
 bliss
