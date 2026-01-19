@@ -1258,6 +1258,7 @@ apothece
 acarid
 accord
 addorsed
+anaclastics
 agonostomus
 aegrotat
 anarthropod
@@ -11522,7 +11523,6 @@ androgametophore
 abolla
 atonal
 adversifolious
-anaclastics
 asteriated
 andromede
 anthos
