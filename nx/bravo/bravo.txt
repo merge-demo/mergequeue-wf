@@ -3780,7 +3780,6 @@ bourdis
 batture
 bawcocks
 bielded
-barasingha
 blackening
 biocontrol
 begger
@@ -16304,6 +16303,7 @@ boosted
 binodous
 bullions
 bedighted
+barasingha
 bekissed
 bilithon
 bisulcated
