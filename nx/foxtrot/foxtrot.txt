@@ -481,6 +481,7 @@ fieldbird
 furthy
 foredoomer
 faisan
+flanked
 forcefulness
 faisceau
 forelaying
@@ -8109,7 +8110,6 @@ flashbulb
 forestalls
 fordrive
 funerals
-flanked
 flyleaves
 flutterer
 fitment
