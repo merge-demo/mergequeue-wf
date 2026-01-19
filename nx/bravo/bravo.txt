@@ -9654,6 +9654,7 @@ bisects
 bottleflower
 blethers
 banalize
+bamangwato
 bosky
 bandcase
 baboot
@@ -15754,7 +15755,6 @@ breakfront
 broadsiding
 broadspread
 broadsword
-bamangwato
 biasteric
 blackboards
 bromethyl
