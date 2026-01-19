@@ -2703,6 +2703,7 @@ amphisilidae
 ankylophobia
 acridity
 agglutogenic
+awacs
 aerobee
 acridities
 acrydium
@@ -5743,7 +5744,6 @@ antismog
 ashmen
 aggregational
 agastric
-awacs
 amylohydrolysis
 ancestor
 agate
