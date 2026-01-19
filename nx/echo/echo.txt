@@ -3254,7 +3254,6 @@ eidetic
 esophagomalacia
 endocone
 exantlate
-ejaculum
 eulogising
 extraserous
 encircles
@@ -5721,6 +5720,7 @@ endorsee
 egalites
 engineries
 embrace
+ejaculum
 eau
 educabilia
 ebullient
