@@ -3584,6 +3584,7 @@ bedog
 bipinnaria
 bathymetry
 bathymetrical
+bromism
 biggonet
 bathing
 brecciated
@@ -7359,7 +7360,6 @@ burners
 bareges
 blastomycin
 bottier
-bromism
 birde
 barnstormers
 believingly
