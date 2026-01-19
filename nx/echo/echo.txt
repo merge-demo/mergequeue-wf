@@ -9168,7 +9168,6 @@ endovaccination
 encolor
 exteriorize
 enates
-elaphe
 embryons
 ernes
 eosinophilic
@@ -10065,6 +10064,7 @@ epicoeloma
 encumbered
 eurybathic
 export
+elaphe
 embonpoint
 epopoeias
 eyey
