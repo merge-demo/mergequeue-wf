@@ -1617,7 +1617,6 @@ deutsche
 disorientated
 deisin
 difficulty
-daylong
 dimetrodon
 deodate
 datolitic
@@ -10269,6 +10268,7 @@ dinnerly
 decillionth
 dishcross
 doblons
+daylong
 diphthong
 defibrination
 desobligeant
