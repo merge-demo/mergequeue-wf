@@ -1182,6 +1182,7 @@ disinvolve
 dextrans
 datary
 dataries
+dialoguer
 depeach
 dithers
 datcha
@@ -8805,7 +8806,6 @@ delies
 decolonize
 disleafed
 droners
-dialoguer
 deuterodome
 diazins
 dulcifying
