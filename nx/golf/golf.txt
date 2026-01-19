@@ -3190,7 +3190,6 @@ grouses
 gavotte
 goat
 graduating
-gelechiidae
 geoscopy
 gutting
 gordonia
@@ -6944,6 +6943,7 @@ genips
 gaoling
 geochemically
 goodishness
+gelechiidae
 gastight
 gilders
 gambette
