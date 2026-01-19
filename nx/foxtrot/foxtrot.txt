@@ -2890,7 +2890,6 @@ fecundity
 fibrillose
 fretsome
 fed
-faeries
 ferlies
 flumes
 forthinking
@@ -5986,6 +5985,7 @@ formal
 flocced
 frustulose
 film
+faeries
 feyer
 fecund
 fistfight
