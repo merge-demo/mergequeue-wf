@@ -832,6 +832,7 @@ capitalizes
 choreograph
 cy
 clasts
+crotchet
 caiman
 counterplot
 cantily
@@ -21883,7 +21884,6 @@ cornerbind
 camalig
 cohorn
 counterstain
-crotchet
 chiasm
 conferruminate
 catslide
