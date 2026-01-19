@@ -5540,6 +5540,7 @@ diplomatique
 deposer
 depauperize
 dorsal
+deuterofibrinose
 dyscrase
 dwarfing
 disharmonizing
@@ -13255,7 +13256,6 @@ drawsheet
 dendrobe
 dronte
 drover
-deuterofibrinose
 dinnerless
 dyspnea
 destructory
