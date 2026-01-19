@@ -902,7 +902,6 @@ ginep
 gametocyte
 grayout
 granules
-gueparde
 gravemaster
 geologer
 guessworker
@@ -10847,6 +10846,7 @@ graphis
 galianes
 gramashes
 geryoniidae
+gueparde
 gorging
 grainiest
 guidance
