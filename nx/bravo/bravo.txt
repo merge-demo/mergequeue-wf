@@ -1197,7 +1197,6 @@ bakeries
 budling
 burgoo
 blowpipe
-bakerly
 bakersfield
 bakie
 bucketed
@@ -13498,6 +13497,7 @@ bensell
 brightsome
 belowstairs
 banderillero
+bakerly
 bifaces
 brushlet
 bundestag
