@@ -773,6 +773,7 @@ aeromechanics
 ansa
 autogyro
 appreciation
+anankastic
 agnition
 asperation
 attuning
@@ -11820,7 +11821,6 @@ ananism
 aerodromes
 ananite
 aplanospore
-anankastic
 aqueomercurial
 allergen
 ananta
