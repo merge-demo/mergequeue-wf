@@ -7745,7 +7745,6 @@ aldolization
 anconei
 aldolized
 aldolizing
-anticness
 aldols
 aldose
 aldoside
@@ -8837,6 +8836,7 @@ antibacchius
 adjustments
 acrogenic
 alloisomerism
+anticness
 axisymmetric
 archaically
 agallochum
