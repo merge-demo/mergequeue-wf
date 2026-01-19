@@ -4835,6 +4835,7 @@ denicotinize
 demagnetized
 devotionary
 dewlap
+devoid
 dyspeptically
 diphenylacetylene
 demonishness
@@ -5184,7 +5185,6 @@ decephalization
 deathly
 diaheliotropic
 detruncating
-devoid
 diazoamino
 denitrifier
 diaphorase
