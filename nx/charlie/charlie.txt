@@ -11264,7 +11264,6 @@ chesterbed
 ceresin
 chlormethane
 chrysidella
-chloroacetone
 childe
 conservation
 chloroamide
@@ -13438,6 +13437,7 @@ cig
 cigarette
 crees
 cystenchyma
+chloroacetone
 cigarfish
 counterconversion
 commutative
