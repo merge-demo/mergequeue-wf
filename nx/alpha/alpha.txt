@@ -9504,7 +9504,6 @@ alulim
 alumel
 agrom
 alumic
-abesse
 alumiferous
 acroamatics
 autoinoculation
@@ -16430,6 +16429,7 @@ ambulatio
 apionol
 autostability
 antwise
+abesse
 anunder
 aphelinus
 acrochordidae
