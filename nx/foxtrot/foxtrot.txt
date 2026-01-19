@@ -7574,7 +7574,6 @@ fudges
 funniest
 frutilla
 fossarian
-freezed
 filer
 factures
 furciferous
@@ -10326,6 +10325,7 @@ filite
 floated
 fissure
 froggies
+freezed
 finale
 froggish
 forslack
