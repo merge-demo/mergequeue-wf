@@ -8175,7 +8175,6 @@ crepuscule
 chainless
 counteractions
 crosscheck
-chlortetracycline
 chumping
 ciliola
 craspedon
@@ -19456,6 +19455,7 @@ colostrum
 colotomy
 colotomies
 colourably
+chlortetracycline
 cometical
 colouration
 crabeating
