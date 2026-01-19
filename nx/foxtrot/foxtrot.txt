@@ -4523,7 +4523,6 @@ fimbrillae
 fconv
 fazed
 fishponds
-fishtailed
 fibrilled
 fishpotter
 finicism
@@ -5308,6 +5307,7 @@ frontierlike
 foreclaw
 frumpery
 fest
+fishtailed
 fraternizes
 formylating
 fictionising
