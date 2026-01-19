@@ -6624,6 +6624,7 @@ dreamwhile
 desert
 darkroom
 deescalated
+detailing
 deacidification
 demivolt
 denotational
@@ -17137,7 +17138,6 @@ decade
 decius
 doaty
 dimwittedness
-detailing
 disgaveled
 diaphaneity
 diswont
