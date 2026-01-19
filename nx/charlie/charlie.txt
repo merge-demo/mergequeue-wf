@@ -5886,7 +5886,6 @@ cuemanship
 cleaves
 corkmaker
 categorization
-coryzal
 corona
 crumbs
 commercia
@@ -30375,6 +30374,7 @@ charted
 cresotinic
 crustalogical
 crustalogist
+coryzal
 cyrenaic
 crustated
 contesters
