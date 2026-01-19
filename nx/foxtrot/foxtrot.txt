@@ -25,7 +25,6 @@ fabler
 flawy
 fissiparously
 fashional
-fanciest
 furiouser
 febricula
 frambesia
@@ -10316,6 +10315,7 @@ frog
 fremd
 fleecers
 flopovers
+fanciest
 frogbit
 frogeyed
 farewelling
