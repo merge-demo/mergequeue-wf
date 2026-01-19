@@ -756,7 +756,6 @@ gonoplasm
 galvanoglyph
 gar
 gossipdom
-goniometric
 gravamina
 gossypin
 golem
@@ -1441,6 +1440,7 @@ glottalizing
 germanize
 gaits
 gypsies
+goniometric
 glaucophane
 ganyie
 gallotannin
