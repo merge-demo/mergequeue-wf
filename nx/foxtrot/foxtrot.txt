@@ -8354,7 +8354,6 @@ frecklish
 foreseen
 flump
 forehoof
-frontlets
 forgiving
 frenchification
 flintify
@@ -10011,6 +10010,7 @@ formulising
 fitchee
 forsythias
 forefence
+frontlets
 feeze
 fittable
 fanti
