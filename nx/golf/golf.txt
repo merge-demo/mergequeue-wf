@@ -1278,6 +1278,7 @@ guyline
 gradings
 greasers
 grantees
+gipper
 galliardly
 grognard
 geneki
@@ -8997,7 +8998,6 @@ ghostwrites
 groutiest
 gesso
 greyhen
-gipper
 gastrodidymus
 glenlivet
 guaiacums
