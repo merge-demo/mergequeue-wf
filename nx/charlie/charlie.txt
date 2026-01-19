@@ -1882,7 +1882,6 @@ chundari
 camaxtli
 clabularia
 camball
-cambarus
 cambered
 caches
 croc
@@ -25722,6 +25721,7 @@ coronal
 cleruch
 corrigibly
 connivent
+cambarus
 corrigiola
 corrival
 cols
