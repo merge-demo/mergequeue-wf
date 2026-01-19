@@ -5142,7 +5142,6 @@ fortyish
 frumpishness
 flappet
 fermions
-figlike
 flatcar
 fishline
 fosses
@@ -6095,6 +6094,7 @@ finalize
 fumid
 fibrillate
 fluidizing
+figlike
 foreplays
 farrowed
 fawny
