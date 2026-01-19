@@ -7801,6 +7801,7 @@ enterography
 ennomic
 exsiccator
 elegiambic
+enjail
 equilibrator
 epicarps
 empyocele
@@ -13545,7 +13546,6 @@ embowels
 eccles
 externomedian
 exscinds
-enjail
 encyclics
 entailers
 epiphenomenally
