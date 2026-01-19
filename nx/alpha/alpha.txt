@@ -15940,7 +15940,6 @@ automobilism
 autoloading
 artery
 antirabies
-aponeurositis
 anisomelia
 antirachitically
 alqueire
@@ -25167,6 +25166,7 @@ atomicity
 aphanipterous
 abduce
 aret
+aponeurositis
 axman
 atheological
 axodendrite
