@@ -4346,7 +4346,6 @@ flunkeys
 friars
 forbears
 faffle
-farhand
 flutemouth
 forbearantly
 fleshlessness
@@ -11205,6 +11204,7 @@ figged
 fungation
 fleckier
 fremdness
+farhand
 fibrinocellular
 felspar
 fungibility
