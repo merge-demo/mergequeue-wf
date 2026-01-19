@@ -6107,6 +6107,7 @@ defalcate
 dental
 duplexs
 dogstones
+degradations
 dualist
 december
 derays
@@ -16431,7 +16432,6 @@ damaskin
 deadpanning
 doyens
 darken
-degradations
 disjointness
 dasyprocta
 domesticities
