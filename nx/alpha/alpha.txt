@@ -8090,7 +8090,6 @@ asseveratory
 adjuster
 abscised
 anachronous
-afterchrome
 algological
 algoman
 algometrical
@@ -17040,6 +17039,7 @@ actuates
 arithmocracy
 angiitis
 appear
+afterchrome
 amourette
 arthrobranchia
 ammoniac
