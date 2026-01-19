@@ -770,7 +770,6 @@ ensamples
 erythropoietin
 endocytotic
 ecumenically
-ecosystem
 enstyle
 emblematised
 emigree
@@ -11758,6 +11757,7 @@ episcopise
 ensurer
 easier
 entoptoscopy
+ecosystem
 elaterium
 examinee
 exotery
