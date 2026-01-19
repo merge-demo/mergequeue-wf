@@ -2267,7 +2267,6 @@ bijective
 bioecology
 birdclapper
 bannerwise
-burgensic
 bigmouths
 bacons
 blastment
@@ -3303,6 +3302,7 @@ bushfighter
 beadlery
 backpacking
 batty
+burgensic
 betweens
 balche
 beauties
