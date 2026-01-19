@@ -12155,6 +12155,7 @@ bolas
 bedell
 bartsia
 basiglandular
+barthian
 balmacaan
 biglenoid
 brawest
@@ -12929,7 +12930,6 @@ birthplace
 bacchiac
 bkpt
 burk
-barthian
 boong
 berrier
 barothermogram
