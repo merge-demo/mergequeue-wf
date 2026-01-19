@@ -8370,6 +8370,7 @@ expeding
 endocardial
 eastlins
 episternum
+eigenspace
 exude
 epicontinental
 erosive
@@ -11990,7 +11991,6 @@ enterfeat
 equatable
 exampleship
 essentials
-eigenspace
 etherion
 espeire
 embolus
