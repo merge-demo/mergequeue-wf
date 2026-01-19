@@ -5933,7 +5933,6 @@ gomerels
 goback
 gelatinisation
 gynecide
-galenist
 gentilish
 gymnospermous
 gastrophthisis
@@ -7550,6 +7549,7 @@ glossodynia
 generalization
 glial
 glycolytic
+galenist
 gortonian
 glaucophanize
 gangs
