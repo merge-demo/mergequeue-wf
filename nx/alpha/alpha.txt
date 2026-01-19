@@ -17317,6 +17317,7 @@ armigeral
 acetylsalicylic
 antiskeptic
 alums
+atterrate
 animalcules
 anaesthetic
 autothermy
@@ -22659,7 +22660,6 @@ aphrosiderite
 acylates
 autocracy
 athermancy
-atterrate
 athermanous
 argentol
 alley
