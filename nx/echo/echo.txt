@@ -9840,7 +9840,6 @@ esters
 exoneration
 encephalomere
 electromagnet
-esth
 elephanticide
 eyebolt
 ecbatic
@@ -14112,6 +14111,7 @@ etyma
 extremuma
 exceptio
 extricable
+esth
 extricably
 edibile
 enjoyer
