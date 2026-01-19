@@ -4931,7 +4931,6 @@ equiperiodic
 eupatoriaceous
 east
 extradictable
-endamoebas
 extradomestic
 endamoebidae
 equations
@@ -9325,6 +9324,7 @@ enkennel
 erthly
 electrogalvanic
 ericaceous
+endamoebas
 eskimauan
 everydeal
 excels
