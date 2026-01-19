@@ -4645,7 +4645,6 @@ flabbily
 fossilized
 fool
 fringilliformes
-feigned
 frenchily
 frumpling
 flask
@@ -10462,6 +10461,7 @@ foliation
 frontbencher
 footlining
 frontcourt
+feigned
 forays
 fructus
 francium
