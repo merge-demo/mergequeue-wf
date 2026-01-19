@@ -2321,7 +2321,6 @@ dismounted
 diagraphs
 dekaparsec
 ditrigonal
-dermatropic
 danglement
 dobermans
 drat
@@ -5024,6 +5023,7 @@ densification
 dayal
 drivingly
 denaturalising
+dermatropic
 disconcord
 denaturalized
 dandriff
