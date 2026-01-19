@@ -1140,7 +1140,6 @@ flatwoods
 foes
 forbade
 familiarizing
-fervidness
 fusileer
 frizzling
 farthing
@@ -7161,6 +7160,7 @@ foreganger
 forepromise
 figura
 fracas
+fervidness
 fonts
 forelock
 fists
