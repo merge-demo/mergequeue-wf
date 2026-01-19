@@ -3743,7 +3743,6 @@ governorships
 gadgeteers
 glyptician
 gnomoniaceae
-gametes
 gutturotetany
 ghost
 gnathonism
@@ -4500,6 +4499,7 @@ gip
 geoids
 gleba
 galloman
+gametes
 gaultherine
 gipon
 gaetulan
