@@ -1476,7 +1476,6 @@ erasions
 ericoid
 entosterna
 ectoskeleton
-entrep
 excoct
 endobatholithic
 electrostriction
@@ -9963,6 +9962,7 @@ exfoliating
 extrospection
 englishize
 enfonced
+entrep
 estuarial
 epagogic
 eloquently
