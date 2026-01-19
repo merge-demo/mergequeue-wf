@@ -2476,6 +2476,7 @@ cancrums
 cand
 clansmen
 candelabras
+cyprinids
 candelabrum
 corelatively
 candelilla
@@ -14023,7 +14024,6 @@ contraregular
 cyprina
 cyprinid
 cheiromancy
-cyprinids
 cauline
 copyhold
 clerklier
