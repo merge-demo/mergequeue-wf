@@ -3419,6 +3419,7 @@ endostyle
 enlute
 eyry
 eulogic
+exalters
 eddaic
 epicycle
 environed
@@ -11396,7 +11397,6 @@ echocardiogram
 equiformal
 engross
 endocrin
-exalters
 eccyesis
 euconic
 evennesses
