@@ -510,6 +510,7 @@ airways
 arsenicophagy
 antennas
 alderling
+analphabete
 antapology
 abjugate
 abjunct
@@ -11771,7 +11772,6 @@ alconde
 analogousness
 anthem
 analogue
-analphabete
 angelus
 acyanopsia
 awink
