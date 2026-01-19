@@ -1647,7 +1647,6 @@ abjoint
 argyrosis
 arilliform
 arricci
-accrescendo
 accretions
 awag
 according
@@ -9642,6 +9641,7 @@ alethiological
 antipyresis
 almandines
 anticarious
+accrescendo
 amahuaca
 assoil
 antigen
