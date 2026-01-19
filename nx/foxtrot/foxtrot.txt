@@ -7482,6 +7482,7 @@ filles
 fewtrils
 faeces
 fat
+faltering
 forbborne
 freshen
 feudalism
@@ -8308,7 +8309,6 @@ forfoughten
 flunkyism
 finestra
 fructivorous
-faltering
 flavines
 froeman
 fossulet
