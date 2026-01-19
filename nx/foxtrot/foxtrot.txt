@@ -6760,6 +6760,7 @@ forevouched
 ferroaluminum
 foehnlike
 furcilia
+foretopman
 fulgurating
 flossing
 forenotice
@@ -8122,7 +8123,6 @@ faradise
 favoured
 folksay
 fontlet
-foretopman
 fourteenthly
 forestation
 faceup
