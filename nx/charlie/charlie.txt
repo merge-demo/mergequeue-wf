@@ -3076,7 +3076,6 @@ cycadeous
 canvasers
 coralroot
 cumaldehyde
-coperiodic
 citterns
 capriola
 cyclopterous
@@ -29290,6 +29289,7 @@ cryptogamist
 cryptoglioma
 custody
 cryptogram
+coperiodic
 cryptogrammatic
 cryptogrammatical
 cadouk
