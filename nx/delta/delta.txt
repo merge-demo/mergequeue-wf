@@ -6518,7 +6518,6 @@ descensionist
 descensive
 descent
 devotement
-despert
 dekameter
 decanal
 diffracting
@@ -8502,6 +8501,7 @@ diamondbacked
 doubter
 debaucher
 dunites
+despert
 denigrating
 doughman
 draffier
