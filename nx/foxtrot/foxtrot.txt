@@ -958,7 +958,6 @@ foreffelt
 fourchite
 fortunateness
 forms
-flightless
 farandoles
 faxing
 fosterer
@@ -1919,6 +1918,7 @@ flics
 fainly
 fistula
 filicologist
+flightless
 flimsy
 forgiver
 farrowing
