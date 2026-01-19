@@ -7810,7 +7810,6 @@ fatherland
 flyman
 footwarmers
 fashionless
-flaglike
 foreknew
 fiord
 fumaria
@@ -8334,6 +8333,7 @@ facily
 frateries
 forgett
 faits
+flaglike
 formuliser
 feldspars
 fulltime
