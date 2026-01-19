@@ -5944,7 +5944,6 @@ grousing
 germinations
 gasogene
 goliardeys
-goldarn
 gilgames
 granivorous
 grackle
@@ -9329,6 +9328,7 @@ geothermometer
 gastrectasia
 gooral
 gateposts
+goldarn
 grotesqueness
 grobian
 grucche
