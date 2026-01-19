@@ -9578,7 +9578,6 @@ births
 blackfins
 birthstones
 brontephobia
-bulliform
 birthstool
 bitnet
 brandreth
@@ -9961,6 +9960,7 @@ beggarly
 baulking
 britska
 bitternut
+bulliform
 benzoated
 bitterroot
 brachydactylia
