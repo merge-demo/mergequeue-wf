@@ -2453,7 +2453,6 @@ flabellifoliate
 fobbed
 festivities
 fulgurous
-freemasons
 frizzle
 fingered
 farandola
@@ -11253,6 +11252,7 @@ foreday
 foreknown
 farsang
 furzed
+freemasons
 funiculars
 funiform
 fleeing
