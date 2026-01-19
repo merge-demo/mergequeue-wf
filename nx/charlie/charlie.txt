@@ -9070,6 +9070,7 @@ cervantist
 chepster
 charmless
 charmlessly
+cloth
 charmonium
 charms
 charneco
@@ -16696,7 +16697,6 @@ carpetbeater
 clote
 chayota
 clomb
-cloth
 cusparia
 clothe
 clothed
