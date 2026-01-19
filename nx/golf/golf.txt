@@ -3722,7 +3722,6 @@ grenadilla
 glaver
 gamomania
 greillade
-ghibli
 garganeys
 gobline
 ghiblis
@@ -5385,6 +5384,7 @@ gymnophiona
 glassmen
 greener
 glycollate
+ghibli
 generalised
 grammatology
 genethliacon
