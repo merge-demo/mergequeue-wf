@@ -2943,6 +2943,7 @@ barreleyes
 barrelet
 bookend
 batuque
+bregmata
 botanical
 beachheads
 blennometritis
@@ -8924,7 +8925,6 @@ bunn
 bathypelagic
 bioaccumulation
 bioactivities
-bregmata
 bioastronautics
 bungalow
 belcher
