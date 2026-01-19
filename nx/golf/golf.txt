@@ -3567,7 +3567,6 @@ gastropore
 guttles
 graphonomy
 gallop
-gandoura
 gnathotheca
 greenboard
 gynospore
@@ -7445,6 +7444,7 @@ glaik
 grangerization
 gaduin
 gadean
+gandoura
 grateless
 gassit
 grandest
