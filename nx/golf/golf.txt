@@ -1190,7 +1190,6 @@ gnetums
 galliferous
 gunung
 guffin
-glides
 gaol
 gulls
 graphometry
@@ -2818,6 +2817,7 @@ gimmor
 grievingly
 greatcoat
 gyne
+glides
 guzzledom
 garblings
 gathers
