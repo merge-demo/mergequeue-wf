@@ -835,6 +835,7 @@ cy
 clasts
 caiman
 counterplot
+cantily
 chirpily
 carbocinchomeronic
 catachthonian
@@ -3017,7 +3018,6 @@ cantilever
 cochromatography
 cantilevered
 cantilevers
-cantily
 codenization
 countertraction
 cantina
