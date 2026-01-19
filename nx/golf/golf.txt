@@ -7892,6 +7892,7 @@ gelidities
 gardening
 gasket
 grovelled
+gradgrindish
 guhayna
 goatskin
 gond
@@ -9018,7 +9019,6 @@ gearbox
 galingale
 galloway
 guaranteed
-gradgrindish
 glander
 getable
 gigant
