@@ -11212,6 +11212,7 @@ avowries
 amphithyra
 abrotine
 ana
+authorish
 animikite
 acheron
 amphithyron
@@ -21422,7 +21423,6 @@ asper
 amnesties
 asperate
 artefact
-authorish
 anosmias
 asperges
 accustomize
