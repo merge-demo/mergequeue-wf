@@ -4583,6 +4583,7 @@ gucked
 gambrel
 galactoma
 gumwoods
+genius
 gills
 graminiform
 gladdy
@@ -5892,7 +5893,6 @@ giggle
 gasterozooid
 gregarinidal
 glucocorticoid
-genius
 gardon
 greeneries
 gaatch
