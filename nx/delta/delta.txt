@@ -1671,7 +1671,6 @@ desuete
 dyne
 deposition
 deadeners
-dottel
 dephysicalization
 decrementless
 dihalogen
@@ -8377,6 +8376,7 @@ disgorgement
 ditchside
 divinify
 dotlet
+dottel
 dialypetalous
 dichotomization
 dialysability
