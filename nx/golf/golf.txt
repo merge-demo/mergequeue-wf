@@ -10060,7 +10060,6 @@ geomancies
 gleans
 gammation
 gargoyles
-greasing
 granitoidal
 guerdoner
 grimmiaceae
@@ -10439,6 +10438,7 @@ gardbrace
 grosbeaks
 gilia
 glozed
+greasing
 gomphodont
 grads
 gabber
