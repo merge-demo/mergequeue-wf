@@ -237,6 +237,7 @@ guardfully
 golpe
 gyrochrome
 gaspereau
+gearcases
 gowpen
 gravure
 gaiter
@@ -4448,7 +4449,6 @@ gryphons
 geminately
 gorget
 grandezza
-gearcases
 gongs
 grifter
 galabeah
