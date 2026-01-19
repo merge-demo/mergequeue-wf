@@ -6125,6 +6125,7 @@ gramineous
 gneiss
 grotesquely
 goosebeak
+galactemia
 gullibly
 gryphosaurus
 gnessic
@@ -9505,7 +9506,6 @@ gadaea
 gothicism
 greenhood
 gastrulate
-galactemia
 garniec
 guignol
 grapple
