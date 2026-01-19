@@ -7654,7 +7654,6 @@ angustia
 ald
 aldane
 aldea
-antichresis
 adzooks
 autoplastic
 arbours
@@ -11253,6 +11252,7 @@ antonina
 ampyxes
 alvan
 amphigaean
+antichresis
 amigas
 asperite
 answerably
