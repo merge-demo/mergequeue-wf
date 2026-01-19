@@ -7915,6 +7915,7 @@ emitter
 eatery
 epicure
 endosmosis
+euorthoptera
 exudates
 exptl
 epicele
@@ -12332,7 +12333,6 @@ exclusionist
 exflect
 exonerated
 endower
-euorthoptera
 eclated
 erenach
 enteromyiasis
