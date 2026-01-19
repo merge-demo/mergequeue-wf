@@ -6427,7 +6427,6 @@ glassworks
 granulitis
 gracer
 geoponic
-goshenite
 goidelic
 goldeyes
 glommed
@@ -9487,6 +9486,7 @@ gelds
 gibbed
 garbline
 glorify
+goshenite
 gobia
 gouramis
 gemmate
