@@ -710,7 +710,6 @@ greyiaceae
 galtrap
 gianthood
 grazer
-galumphs
 gnathostomata
 guebucu
 greasiness
@@ -8977,6 +8976,7 @@ globalist
 gentianin
 gemmiform
 golfed
+galumphs
 girt
 galere
 gillying
