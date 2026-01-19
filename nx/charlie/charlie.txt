@@ -4412,7 +4412,6 @@ carillons
 carinal
 cavum
 carinas
-chrysene
 carinate
 carinated
 cranioscopical
@@ -30006,6 +30005,7 @@ croupe
 cloyer
 cabochons
 compulsions
+chrysene
 chola
 cuggermugger
 clearstarch
