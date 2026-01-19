@@ -10634,7 +10634,6 @@ documented
 decoctible
 diploidic
 dominus
-diploidize
 diploma
 dolorogenic
 domitable
@@ -14585,6 +14584,7 @@ dipleurula
 diesinking
 deuteromyosinose
 dispensing
+diploidize
 divorcee
 dryfarm
 departmentization
