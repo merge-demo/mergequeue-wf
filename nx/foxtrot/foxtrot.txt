@@ -2293,7 +2293,6 @@ feluccas
 ficoid
 fatiscent
 filters
-florentinism
 flatulence
 firebombed
 full
@@ -6228,6 +6227,7 @@ fenster
 floccilation
 flounced
 flounder
+florentinism
 factorize
 frowardness
 faraway
