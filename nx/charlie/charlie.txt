@@ -4342,6 +4342,7 @@ cargoes
 carhop
 carhops
 contorted
+corton
 continuing
 cary
 caryatid
@@ -25926,7 +25927,6 @@ cymbium
 cortisols
 cortlandtite
 caulotaxy
-corton
 cacoeconomy
 convolute
 colley
