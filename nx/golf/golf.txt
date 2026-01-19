@@ -5,7 +5,6 @@ grandstanded
 gees
 gaseliers
 groats
-gallowglass
 grandfatherish
 gabbers
 grasswork
@@ -9170,6 +9169,7 @@ gummers
 guild
 gobonated
 gamelang
+gallowglass
 ginward
 grummel
 gambier
