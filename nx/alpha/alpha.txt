@@ -7807,7 +7807,6 @@ angiospermae
 alectoromancy
 amphibiological
 appointable
-amicron
 anociassociation
 arrentable
 alectryomancy
@@ -12941,6 +12940,7 @@ annihilable
 attributes
 anharmonic
 abbreviating
+amicron
 ascariasis
 accessory
 aluniferous
