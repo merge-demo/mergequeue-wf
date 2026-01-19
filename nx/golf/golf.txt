@@ -4296,7 +4296,6 @@ gazella
 geumatophobia
 gradometer
 galravitch
-glamourizer
 generationism
 geodetics
 gnu
@@ -8295,6 +8294,7 @@ graphemically
 genevois
 greyback
 graphemics
+glamourizer
 glutamates
 glorioso
 graphiological
