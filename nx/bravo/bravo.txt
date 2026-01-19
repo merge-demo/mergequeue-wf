@@ -2577,7 +2577,6 @@ bardel
 barylalia
 beleaped
 blens
-backtalk
 barile
 bevilled
 barilla
@@ -3570,6 +3569,7 @@ berseems
 belatticed
 baroscopic
 binode
+backtalk
 blonds
 bathylithic
 bootless
