@@ -1573,7 +1573,6 @@ giftwrap
 gripers
 growed
 geez
-gallwort
 gilpy
 gravaminous
 galileo
@@ -8490,6 +8489,7 @@ gladiolas
 gales
 gandul
 gooses
+gallwort
 germigene
 gyring
 grapestone
