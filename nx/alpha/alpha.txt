@@ -1778,7 +1778,6 @@ annerre
 armouring
 adelaster
 armpit
-accustomizing
 aphilanthropy
 anisyl
 adiamorphism
@@ -22959,6 +22958,7 @@ asthenopic
 argyraspides
 asquat
 axisymmetry
+accustomizing
 archaical
 atriplex
 atrypoid
