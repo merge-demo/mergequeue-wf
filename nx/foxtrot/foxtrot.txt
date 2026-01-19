@@ -4943,6 +4943,7 @@ furoic
 fraughtage
 fixes
 flong
+frailties
 fatigable
 firmhearted
 flightiest
@@ -11680,7 +11681,6 @@ ferrety
 flames
 frowsty
 furcates
-frailties
 festoons
 flocculate
 feru
