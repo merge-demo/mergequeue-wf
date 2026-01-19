@@ -4341,7 +4341,6 @@ floppiest
 fibroma
 fending
 follicule
-fibster
 ferngrower
 fungology
 flaunching
@@ -10369,6 +10368,7 @@ fistulatome
 foretime
 financier
 frillies
+fibster
 flagitiousness
 ferricyanhydric
 frolicsome
