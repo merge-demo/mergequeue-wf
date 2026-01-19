@@ -1572,7 +1572,6 @@ fauvette
 flowcontrol
 fishbowl
 futural
-firebirds
 fause
 fliest
 fauvisms
@@ -5464,6 +5463,7 @@ fimbrilla
 frankability
 fum
 flouncier
+firebirds
 fleams
 fittier
 freaked
