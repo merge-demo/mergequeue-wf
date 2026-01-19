@@ -13054,6 +13054,7 @@ empiricist
 esophagectomy
 ergotic
 eyl
+enclosed
 estafette
 electrocauteries
 evoe
@@ -13094,7 +13095,6 @@ eucalyn
 emus
 embankment
 eval
-enclosed
 esperantidist
 ergates
 enslave
