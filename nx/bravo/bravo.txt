@@ -2720,7 +2720,6 @@ bewaitered
 benightment
 barnbrack
 betweenbrain
-biconjugate
 bourr
 beefiness
 barnyard
@@ -10172,6 +10171,7 @@ blackband
 blackberrylike
 bootleggers
 bunkload
+biconjugate
 bacchant
 bellied
 berbers
