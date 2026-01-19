@@ -6384,7 +6384,6 @@ ensafe
 earthward
 emulsor
 euskarian
-elaboration
 enrobed
 emblazes
 encrinitical
@@ -6657,6 +6656,7 @@ elevation
 embryoctonic
 eched
 eyeing
+elaboration
 exoderms
 exchangite
 escambron
