@@ -10993,7 +10993,6 @@ blinkards
 bowses
 bilboquet
 brachystomata
-beckets
 bartonia
 beadroll
 blinker
@@ -11010,6 +11009,7 @@ blindstorey
 blinkingly
 batel
 blocky
+beckets
 braid
 blacksmiths
 billowy
