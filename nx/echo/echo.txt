@@ -3146,6 +3146,7 @@ ellipsograph
 equoidean
 esemplastic
 extemporize
+existent
 enamouring
 elliptograph
 elliptoid
@@ -4777,7 +4778,6 @@ errantry
 explore
 eyren
 executions
-existent
 exodos
 endosmosic
 excircle
