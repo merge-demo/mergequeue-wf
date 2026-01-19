@@ -1442,6 +1442,7 @@ brankier
 begroan
 backchat
 bight
+barker
 bioclimatological
 bifid
 balibago
@@ -6537,7 +6538,6 @@ beetleheaded
 brothering
 bequalm
 bioblast
-barker
 bklr
 bequeathed
 blackfish
