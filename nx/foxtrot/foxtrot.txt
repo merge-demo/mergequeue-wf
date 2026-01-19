@@ -4698,7 +4698,6 @@ frigidities
 formulations
 flickerproof
 fireboard
-floggable
 fitzroya
 federatively
 fearfullest
@@ -7536,6 +7535,7 @@ fasciculation
 figgum
 ferie
 feroher
+floggable
 fawnlike
 fisheyes
 footmen
