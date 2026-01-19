@@ -12248,6 +12248,7 @@ chrysopsis
 chorally
 caliche
 camphorphorone
+campfire
 chrysosperm
 cosmetic
 chrysosplenium
@@ -27527,7 +27528,6 @@ coprolalia
 carangidae
 covered
 coverer
-campfire
 columbotantalate
 coverings
 comped
