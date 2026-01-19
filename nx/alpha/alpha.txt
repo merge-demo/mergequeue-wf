@@ -6752,6 +6752,7 @@ advertizing
 amiga
 airdropping
 aired
+aslumber
 arraignability
 airedales
 asseverations
@@ -21385,7 +21386,6 @@ antidraft
 agitation
 atabeg
 asleep
-aslumber
 autoxidizer
 arolla
 abkar
