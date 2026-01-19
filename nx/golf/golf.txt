@@ -7066,7 +7066,6 @@ glazier
 geissolomataceous
 gigantosaurus
 grillade
-gunfought
 grindle
 gigameter
 gaudish
@@ -7965,6 +7964,7 @@ gusty
 grapsidae
 gounau
 geratologic
+gunfought
 gingerbread
 gentleheartedness
 garbless
