@@ -5192,7 +5192,6 @@ enlistment
 electo
 embroider
 endomorph
-endoglobular
 existibility
 embossment
 epigastrial
@@ -8447,6 +8446,7 @@ eponge
 exterrestrial
 exhibitioner
 ethopoetic
+endoglobular
 exsuction
 eurytropic
 estimations
