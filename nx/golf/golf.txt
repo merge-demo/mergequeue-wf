@@ -9749,7 +9749,6 @@ gelder
 gidgea
 granuliform
 gruellings
-gruesome
 grevillea
 grievant
 gasp
@@ -10316,6 +10315,7 @@ guinfo
 grantia
 getsul
 glassfuls
+gruesome
 guarabu
 gullygut
 greit
