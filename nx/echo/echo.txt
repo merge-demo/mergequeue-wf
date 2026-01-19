@@ -11162,6 +11162,7 @@ evacuant
 eighteenmos
 executing
 electrification
+exposure
 evacuants
 earthdrake
 epaulet
@@ -12145,7 +12146,6 @@ estreating
 elytron
 ensigning
 endpoint
-exposure
 exsert
 ellipse
 encolure
