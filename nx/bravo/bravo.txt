@@ -1046,7 +1046,6 @@ bouse
 becost
 blousier
 burghal
-birdlimed
 borosalicylate
 blennioidea
 becense
@@ -17727,6 +17726,7 @@ burnishable
 brachiorrhachidian
 burnisher
 brahmins
+birdlimed
 breezily
 burnishing
 bookbindery
