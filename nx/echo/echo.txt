@@ -5344,7 +5344,6 @@ expatriations
 evzones
 ethanethiol
 endocline
-epicrystalline
 encoring
 enarme
 endosteomata
@@ -7311,6 +7310,7 @@ eristics
 etherealize
 emulous
 eimeria
+epicrystalline
 eat
 endotheliulia
 epagomenae
