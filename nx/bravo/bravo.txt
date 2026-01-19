@@ -590,6 +590,7 @@ banger
 bactericide
 beggiatoa
 bacteriochlorophyll
+bepimpling
 bacteriocin
 bosket
 bostangi
@@ -6529,7 +6530,6 @@ blowiness
 bepart
 beacher
 barred
-bepimpling
 bepraiser
 burrheaded
 benzocaine
