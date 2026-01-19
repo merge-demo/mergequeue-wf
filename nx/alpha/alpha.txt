@@ -6961,6 +6961,7 @@ ajoint
 akal
 akali
 akamai
+avogram
 annoyed
 abominations
 akania
@@ -8370,7 +8371,6 @@ aftercost
 abiegh
 alkalinized
 arite
-avogram
 anticausotic
 ametabole
 aschaffite
