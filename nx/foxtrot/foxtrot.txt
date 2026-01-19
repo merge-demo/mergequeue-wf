@@ -1387,7 +1387,6 @@ fullword
 filicology
 fishboat
 fatly
-floscularia
 februation
 formularistic
 fancical
@@ -7726,6 +7725,7 @@ fools
 faluns
 forefield
 factitiousness
+floscularia
 fructosan
 flimsilyst
 flips
