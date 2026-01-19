@@ -15177,6 +15177,7 @@ antifeudalization
 ankyroid
 affiancer
 androtauric
+adipocyte
 anacephalaeosis
 atheology
 antifibrinolysin
@@ -16575,7 +16576,6 @@ acknowledgeable
 abstractions
 acalculia
 apeek
-adipocyte
 apelles
 acuminate
 amphigonic
