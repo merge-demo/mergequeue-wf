@@ -2588,7 +2588,6 @@ decoat
 disbelief
 drabbing
 demiquaver
-dashes
 diformin
 decoctive
 dinero
@@ -10960,6 +10959,7 @@ diclytra
 disunionism
 disaccustomedness
 dotardism
+dashes
 draymen
 dromioid
 disconduce
