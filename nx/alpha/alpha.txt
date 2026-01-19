@@ -5318,6 +5318,7 @@ acanthous
 aptotic
 agnosticism
 agglutinable
+annot
 affriended
 aggrandizable
 affrightful
@@ -7592,7 +7593,6 @@ assertorically
 alcohol
 alcoholature
 agelacrinites
-annot
 alcoholdom
 abbrev
 alcoholemia
