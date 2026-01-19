@@ -2955,6 +2955,7 @@ gavelkind
 glossopteris
 glycol
 garnet
+garlopa
 gaeldom
 geocyclic
 gnat
@@ -8700,7 +8701,6 @@ gaiting
 gisel
 greaved
 granite
-garlopa
 gesseron
 galvaniser
 grossulaceous

@@ -6884,6 +6884,7 @@ epitome
 exterior
 eleutherozoa
 embarque
+entocoel
 ergo
 eleusinion
 eightballs
@@ -9486,7 +9487,6 @@ ethylsulphuric
 embanks
 entwist
 exonerators
-entocoel
 earthbred
 eliquation
 extroverted
