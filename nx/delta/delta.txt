@@ -5040,6 +5040,7 @@ dirndls
 denaturing
 duplicand
 denaturise
+desensitization
 disserve
 disfigures
 dextrogyrate
@@ -5867,7 +5868,6 @@ deprecator
 dysbarism
 datism
 deoxidised
-desensitization
 deota
 degradingness
 dirk
