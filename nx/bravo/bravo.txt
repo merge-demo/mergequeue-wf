@@ -2976,7 +2976,6 @@ bloodybones
 billowed
 brasset
 bugloss
-beath
 battalias
 bigeyes
 bennettitaceous
@@ -4665,6 +4664,7 @@ bedehouse
 broadenings
 byrewards
 bullrushes
+beath
 bedehouses
 bedemen
 brimstone
