@@ -6012,7 +6012,6 @@ cessionary
 carburized
 cathartolinum
 cathected
-cathects
 cathedra
 cathedraled
 cathedralesque
@@ -25867,6 +25866,7 @@ corset
 campylotropal
 corsetier
 concluding
+cathects
 corsetiere
 conicalness
 corseting
