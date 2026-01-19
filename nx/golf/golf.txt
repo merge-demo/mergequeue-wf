@@ -2175,6 +2175,7 @@ ginnet
 goslet
 gymnolaematous
 giunta
+gally
 geheimrat
 gallophobe
 gantlopes
@@ -3275,7 +3276,6 @@ gambeered
 glagol
 goldenwing
 galoot
-gally
 glandule
 graffage
 grecophil
