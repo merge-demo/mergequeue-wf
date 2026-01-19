@@ -5222,7 +5222,6 @@ bored
 bettong
 backfatter
 befuddled
-befuddler
 boxberries
 beleaguers
 beautyship
@@ -10004,6 +10003,7 @@ biologically
 browden
 bennettitaceae
 bravas
+befuddler
 boree
 brian
 bassnesses
