@@ -496,7 +496,6 @@ fluctisonous
 faithlessness
 fringeless
 fasces
-folkmoter
 forenote
 foliosity
 faithworthiness
@@ -11460,6 +11459,7 @@ fancify
 formfeed
 frizers
 firebase
+folkmoter
 friese
 flirtation
 fiducially
