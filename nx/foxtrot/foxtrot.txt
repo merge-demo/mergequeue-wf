@@ -9853,7 +9853,6 @@ frequentest
 foraminifer
 feldspar
 fructuosity
-forebays
 frapp
 fallacies
 flagellum
@@ -10142,6 +10141,7 @@ fringilline
 finches
 ferd
 fonted
+forebays
 frowned
 foreleader
 fustiest
