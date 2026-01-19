@@ -1456,7 +1456,6 @@ fatuitous
 familiarise
 floorwalkers
 fringing
-fetched
 fatuoid
 flanched
 flawless
@@ -9905,6 +9904,7 @@ flavoursome
 fovilla
 forgoers
 freudian
+fetched
 filthiness
 fluorenyl
 freddy
