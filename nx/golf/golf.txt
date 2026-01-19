@@ -2685,6 +2685,7 @@ genetika
 glanders
 gurgeon
 geraniums
+galeche
 greatest
 guaraguao
 grangerisation
@@ -9838,7 +9839,6 @@ granter
 galley
 gruntling
 grutch
-galeche
 goyetian
 gumfield
 gitano
