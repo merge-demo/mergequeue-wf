@@ -1344,7 +1344,6 @@ atomized
 athanor
 acylating
 amidships
-acaulescent
 acauline
 antirevolutionaries
 acc
@@ -4054,6 +4053,7 @@ asarotum
 areometric
 admit
 aldrin
+acaulescent
 admits
 archhost
 admittance
