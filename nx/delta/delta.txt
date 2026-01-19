@@ -11856,7 +11856,6 @@ dollarleaf
 distantly
 demot
 duny
-delver
 disarticulation
 dosserets
 deinodon
@@ -18392,6 +18391,7 @@ decontrols
 duodenums
 dimorphite
 damsons
+delver
 deepfreezing
 dorrs
 divulgers
