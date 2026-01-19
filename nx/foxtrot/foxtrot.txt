@@ -871,7 +871,6 @@ felstone
 freckened
 freedoot
 fervorous
-forebows
 forbow
 free
 floutingly
@@ -11158,6 +11157,7 @@ fastland
 formality
 flusterating
 fins
+forebows
 fundatrices
 forhoo
 frizzed
