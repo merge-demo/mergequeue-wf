@@ -10131,6 +10131,7 @@ dodipole
 dirls
 dogfight
 dilatable
+discoverer
 dynamomorphic
 discoursively
 dynamophone
@@ -11776,7 +11777,6 @@ discoach
 decerebrated
 discoverable
 disworth
-discoverer
 decancellation
 deplume
 discradle
