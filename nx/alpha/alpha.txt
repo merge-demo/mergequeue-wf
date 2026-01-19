@@ -20957,7 +20957,6 @@ ascend
 ascendable
 ayenbite
 antihylist
-amortisseur
 ahtena
 antirust
 autotroph
@@ -23716,6 +23715,7 @@ araphorostic
 anchtherium
 aurulent
 anagrammatical
+amortisseur
 anisuria
 alopecurus
 auscultascope
