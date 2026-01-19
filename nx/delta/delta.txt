@@ -4428,7 +4428,6 @@ demibeast
 demibelt
 dinornithes
 didelphic
-deists
 deglamorization
 deradelphus
 demibob
@@ -8669,6 +8668,7 @@ delfs
 discoloring
 diascope
 devilries
+deists
 domed
 distracted
 didactyl
