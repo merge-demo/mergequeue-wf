@@ -1396,6 +1396,7 @@ biglot
 baldish
 ballparks
 boaters
+byeman
 baldmoney
 brutage
 bryogenin
@@ -8208,7 +8209,6 @@ bash
 banishes
 buffalos
 baldpate
-byeman
 ballote
 bienly
 boyism
