@@ -1544,6 +1544,7 @@ deactivation
 deactivators
 disring
 distressedness
+dalteen
 doublure
 deadlier
 deaden
@@ -13816,7 +13817,6 @@ dammars
 disstate
 dissuaded
 delayed
-dalteen
 downsliding
 dachshound
 debunk
