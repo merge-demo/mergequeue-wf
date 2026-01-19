@@ -3617,7 +3617,6 @@ balneary
 bathophobia
 burettes
 buvette
-bathos
 bunkmates
 boccies
 brach
@@ -13467,6 +13466,7 @@ botone
 blanche
 bartisans
 bulgier
+bathos
 balconette
 birles
 breadbox
