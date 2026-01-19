@@ -94,7 +94,6 @@ cabbie
 crenelate
 cabble
 cosec
-cabbled
 cabbler
 coulombic
 chars
@@ -5186,6 +5185,7 @@ cauldron
 casemented
 casements
 censual
+cabbled
 connexivum
 caseolysis
 christy
