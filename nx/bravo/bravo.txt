@@ -13592,7 +13592,6 @@ butterbough
 bankfull
 bibliophile
 beany
-baling
 binucleolate
 bepainted
 besnowed
@@ -18240,6 +18239,7 @@ balistarius
 besweatered
 butterflower
 bleinerite
+baling
 bugproof
 battles
 bacteraemia
