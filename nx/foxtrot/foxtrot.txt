@@ -2648,6 +2648,7 @@ fontful
 fribourg
 farish
 formalistic
+fulgurator
 finebent
 fountainless
 frivol
@@ -11565,7 +11566,6 @@ figurations
 friskful
 flytier
 focussed
-fulgurator
 fixature
 finnickiest
 foreworn
