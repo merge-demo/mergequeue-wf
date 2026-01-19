@@ -4945,7 +4945,6 @@ draggled
 dismutation
 dhurry
 disgeneric
-diamb
 demountable
 devastators
 dempsters
@@ -18537,6 +18536,7 @@ darbs
 disrates
 durians
 differ
+diamb
 duricrust
 duopolistic
 duridine
