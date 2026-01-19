@@ -7195,7 +7195,6 @@ alaria
 aqueoglacial
 albuminose
 alarm
-assumably
 alarmclock
 alexanders
 abamps
@@ -16517,6 +16516,7 @@ apochae
 apagogic
 avenses
 alteregoism
+assumably
 arumlike
 acarology
 apagogically
