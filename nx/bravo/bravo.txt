@@ -13578,6 +13578,7 @@ barmkin
 blacksmith
 boucharde
 budgerigar
+braying
 blockpate
 barometrography
 blundered
@@ -17698,7 +17699,6 @@ brachioganoid
 basker
 berengaria
 behove
-braying
 bismosol
 butteriness
 biont
