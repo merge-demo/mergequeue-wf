@@ -1774,6 +1774,7 @@ assoria
 accusor
 annerre
 armouring
+archsynagogue
 adelaster
 armpit
 aphilanthropy
@@ -13766,7 +13767,6 @@ albumeniizer
 afterhend
 alectoromachy
 apparelling
-archsynagogue
 angstrom
 antirennin
 achariaceae
