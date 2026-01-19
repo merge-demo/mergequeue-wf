@@ -5220,7 +5220,6 @@ grinch
 genetmoil
 gazania
 geldant
-grouch
 gnostology
 gyrophoraceae
 graylags
@@ -6084,6 +6083,7 @@ gondoliers
 grungy
 glovemen
 glutenin
+grouch
 glycemia
 goblinish
 growlingly
