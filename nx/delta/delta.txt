@@ -3513,7 +3513,6 @@ defraying
 desaturate
 dogmouth
 dorsocephalad
-desiccated
 dagobas
 deceitful
 desmomyaria
@@ -14512,6 +14511,7 @@ dedition
 dipleidoscope
 decolonised
 dewfalls
+desiccated
 divided
 dividendus
 denominate
