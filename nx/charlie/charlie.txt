@@ -12620,6 +12620,7 @@ chronon
 choppily
 chronons
 chefrinia
+chromatoptometer
 chronophotography
 chronoscopic
 chronoscopically
@@ -15126,7 +15127,6 @@ cladogenous
 cerebromalacia
 cupromanganese
 censurer
-chromatoptometer
 cladonia
 craniometrical
 cladoniaceae
