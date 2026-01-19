@@ -667,7 +667,6 @@ alimentally
 autotomic
 azumbre
 azoted
-abominations
 abominator
 attrist
 abominators
@@ -6958,6 +6957,7 @@ akal
 akali
 akamai
 annoyed
+abominations
 akania
 akasa
 akawai
