@@ -8006,7 +8006,6 @@ foresees
 fonder
 frenzied
 flatteries
-festine
 fike
 flamen
 frisket
@@ -10665,6 +10664,7 @@ formagen
 froggier
 fluorimetry
 forestalling
+festine
 fustier
 fragmental
 forks
