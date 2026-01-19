@@ -3222,6 +3222,7 @@ flagitate
 fesels
 freeholds
 filibeg
+fishpole
 frosh
 farted
 fickle
@@ -4515,7 +4516,6 @@ fairkeeper
 fellowed
 feste
 fate
-fishpole
 fishpoles
 fimbrillae
 fconv
