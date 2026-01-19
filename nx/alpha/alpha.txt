@@ -15871,7 +15871,6 @@ annelidian
 anno
 antipriesthood
 aminotriazole
-avaritia
 arni
 antiprime
 agrotis
@@ -21901,6 +21900,7 @@ acceptably
 associable
 anchietin
 associated
+avaritia
 antivivisectionists
 ananaplas
 acrocephaly
