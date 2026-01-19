@@ -2112,7 +2112,6 @@ flamed
 fogle
 federalist
 floriculture
-felicitator
 flourishable
 fudger
 fides
@@ -5366,6 +5365,7 @@ flot
 flocking
 fissiped
 fieldy
+felicitator
 fideicommissa
 ferreling
 frostbird
