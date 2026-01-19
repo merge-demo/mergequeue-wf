@@ -4537,6 +4537,7 @@ geomagnetism
 gloeocapsoid
 girlie
 grantiidae
+granivore
 gypsying
 gyre
 gigmanic
@@ -8151,7 +8152,6 @@ gentlewoman
 gorkun
 gallivorous
 gundygut
-granivore
 guianese
 genocidal
 gasconader
