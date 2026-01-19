@@ -5102,6 +5102,7 @@ befire
 befist
 boomerangs
 braised
+bethunder
 berberia
 beshrewed
 bespotted
@@ -16830,7 +16831,6 @@ boyuna
 backwashed
 berattle
 brandisher
-bethunder
 boswell
 batteuse
 buddleia
