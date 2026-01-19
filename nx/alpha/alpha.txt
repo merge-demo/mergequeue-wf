@@ -19594,7 +19594,6 @@ alloclase
 apophorometer
 avenging
 aridian
-aridity
 analogies
 antaean
 aridities
@@ -22377,6 +22376,7 @@ astrogation
 astrogational
 anangioid
 astrogeology
+aridity
 ariadne
 anniversaries
 astroglia
