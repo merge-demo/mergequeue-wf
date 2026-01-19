@@ -4130,7 +4130,6 @@ arietate
 abduct
 aurochses
 acetary
-adolescence
 ascabart
 adolescent
 admonitorial
@@ -10896,6 +10895,7 @@ allegory
 amoritic
 accoil
 alma
+adolescence
 amoritish
 aftersensation
 astounded
