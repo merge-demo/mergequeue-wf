@@ -2950,7 +2950,6 @@ delinquent
 describers
 deductio
 deductions
-dwarfism
 distrainment
 dirtier
 deductory
@@ -10675,6 +10674,7 @@ diplonema
 demonopolize
 deuteric
 detritus
+dwarfism
 dunnaged
 diplont
 diplonts
