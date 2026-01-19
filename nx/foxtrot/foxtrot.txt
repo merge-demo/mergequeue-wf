@@ -4310,6 +4310,7 @@ fatless
 flail
 fireward
 fumaroles
+flaunted
 fractiousness
 forehead
 forclose
@@ -4636,7 +4637,6 @@ fenester
 fermatian
 frictionize
 frutices
-flaunted
 flabbily
 fossilized
 fool
