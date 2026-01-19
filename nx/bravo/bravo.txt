@@ -6281,7 +6281,6 @@ bloke
 bennies
 benomyl
 bosomy
-basiliscus
 backspread
 bulblet
 benorth
@@ -13559,6 +13558,7 @@ becomes
 bookshelves
 bleachhouse
 botulins
+basiliscus
 bern
 berlinize
 bangboard
