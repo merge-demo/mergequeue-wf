@@ -4910,7 +4910,6 @@ furnishing
 fodder
 foliums
 froebelism
-footfall
 fustigate
 floor
 frondose
@@ -5235,6 +5234,7 @@ frizzly
 foreadvise
 fellas
 frivolous
+footfall
 fructure
 forestalment
 foxhounds
