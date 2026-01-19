@@ -1411,7 +1411,6 @@ armonica
 anophthalmos
 allotriodontia
 avestruz
-alternize
 acceptee
 actinomycotic
 aevia
@@ -8571,6 +8570,7 @@ allegorizer
 anomuran
 allegorizing
 angulosity
+alternize
 allegresse
 ambary
 allegrettos
