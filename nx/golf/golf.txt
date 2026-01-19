@@ -2800,7 +2800,6 @@ gadhelic
 grabbled
 garbs
 gelotometer
-glottochronological
 gabies
 gangwayed
 glassie
@@ -5658,6 +5657,7 @@ grisping
 glochid
 garnice
 gradable
+glottochronological
 geophilidae
 governeress
 gravity
