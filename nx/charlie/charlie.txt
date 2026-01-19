@@ -4148,6 +4148,7 @@ cornmaster
 condalia
 cardinal
 croslet
+chuggers
 cardiorrhexis
 cardinalfishes
 casuist
@@ -12731,7 +12732,6 @@ canalage
 clawsick
 cutie
 chugged
-chuggers
 ceylonese
 chugging
 centilitre
