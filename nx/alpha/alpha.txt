@@ -3800,7 +3800,6 @@ adiated
 ammodytidae
 adiathermancy
 administrational
-antioxidase
 alcoranist
 arcticologist
 animalian
@@ -9085,6 +9084,7 @@ aerarian
 abranchiate
 alpigene
 almice
+antioxidase
 almida
 ammonites
 absentation
