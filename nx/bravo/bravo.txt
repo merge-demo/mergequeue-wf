@@ -2957,7 +2957,6 @@ bited
 barrelled
 billfish
 blackberries
-barrelmaker
 blissfully
 bamboozlement
 boules
@@ -8116,6 +8115,7 @@ beglerbegship
 broccolis
 breathing
 bronchophonic
+barrelmaker
 borshts
 bespreng
 biculturalism
