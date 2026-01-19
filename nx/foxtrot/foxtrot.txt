@@ -601,6 +601,7 @@ font
 famine
 fussed
 flamier
+foliary
 fancymonger
 fortunation
 fdubs
@@ -6950,7 +6951,6 @@ flipjack
 fourhanded
 fabled
 forbearable
-foliary
 frescoers
 fluigramme
 favoringly
