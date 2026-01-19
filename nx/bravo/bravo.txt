@@ -2687,6 +2687,7 @@ breechloader
 bantamweight
 brugh
 backlins
+brotany
 berrugate
 barm
 bollixes
@@ -15657,7 +15658,6 @@ behypocrite
 bonelet
 britain
 barmier
-brotany
 buzzardlike
 biting
 britannically

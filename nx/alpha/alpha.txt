@@ -816,7 +816,6 @@ abrogate
 allergies
 artisan
 aerodynamical
-antagonisation
 archilithic
 abrogating
 avocado
@@ -14322,6 +14321,7 @@ acolyte
 airplane
 anthotaxis
 andries
+antagonisation
 analgetic
 archeology
 autoscopy
