@@ -7199,6 +7199,7 @@ ellipticity
 elytroptosis
 eucharistize
 enterokinetic
+emulgens
 ecthymatous
 epharmonic
 emforth
@@ -11516,7 +11517,6 @@ erin
 etouffe
 epileptology
 erbium
-emulgens
 eidolic
 electrophotometer
 evigilation
