@@ -6720,6 +6720,7 @@ epiclastic
 epileptics
 excides
 elongations
+exrx
 enterprize
 edulcorate
 expertising
@@ -8590,7 +8591,6 @@ entocoele
 egall
 equidimensional
 equidist
-exrx
 educ
 equispatial
 elater
