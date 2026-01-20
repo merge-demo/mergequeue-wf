@@ -931,7 +931,6 @@ cakewalked
 cakewalker
 cakewalking
 caressant
-carnotite
 caky
 clientelage
 conformant
@@ -14767,6 +14766,7 @@ citizenly
 cavorter
 citizenry
 callithump
+carnotite
 corruptibleness
 cascan
 citizens
