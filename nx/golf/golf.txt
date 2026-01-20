@@ -1298,7 +1298,6 @@ glenwood
 grame
 gardens
 gavall
-goethites
 gratten
 gromatical
 graplines
@@ -9047,6 +9046,7 @@ gazeless
 goulan
 glory
 grizzling
+goethites
 glyconian
 gastroscopy
 grifting
