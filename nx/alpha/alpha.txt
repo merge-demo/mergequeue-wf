@@ -4589,7 +4589,6 @@ advocacy
 afficionado
 advocated
 afterspeech
-albertype
 asaphid
 acanthological
 aq
@@ -8367,6 +8366,7 @@ ankylostoma
 alkalinity
 alkalinities
 abactor
+albertype
 aesthesics
 angiography
 aftercost
