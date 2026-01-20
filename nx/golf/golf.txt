@@ -1822,7 +1822,6 @@ gutterblood
 gelatinotype
 gaberloonie
 gestalten
-goiterogenic
 grumpiness
 gammarus
 gastrostenosis
@@ -2576,6 +2575,7 @@ glen
 gruffy
 grandma
 gingle
+goiterogenic
 grue
 generations
 gastrula
