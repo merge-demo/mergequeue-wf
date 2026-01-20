@@ -967,6 +967,7 @@ findal
 fiberware
 flagships
 frankable
+fourhanded
 filmized
 firestone
 federalising
@@ -6942,7 +6943,6 @@ faulter
 furanoses
 fenestral
 flipjack
-fourhanded
 fabled
 forbearable
 frescoers

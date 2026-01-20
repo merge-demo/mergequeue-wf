@@ -2233,7 +2233,6 @@ broggle
 blobs
 badineur
 bung
-bandgap
 barbara
 barbary
 baculiferous
@@ -6958,6 +6957,7 @@ benignly
 bargoose
 badder
 bismuths
+bandgap
 bagheli
 brott
 begohm
