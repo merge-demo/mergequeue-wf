@@ -13781,6 +13781,7 @@ dalis
 dissour
 disenshroud
 dreamboat
+dug
 desugaring
 drum
 damndests
@@ -16070,7 +16071,6 @@ disaffections
 diplozoon
 deaning
 deterration
-dug
 denaturisation
 disfrocked
 decayedness
