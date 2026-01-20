@@ -9914,7 +9914,6 @@ doctrinable
 dimber
 doek
 dace
-dimensioning
 dimensum
 dimer
 decadency
@@ -14701,6 +14700,7 @@ degustate
 dregs
 dystectic
 dilemmas
+dimensioning
 dioecisms
 dorsoposterior
 devilling
