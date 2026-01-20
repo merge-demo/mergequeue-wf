@@ -634,7 +634,6 @@ ejulation
 excommenge
 exostoses
 enamellist
-eurypharynx
 echinocactus
 euro
 enwreathing
@@ -5803,6 +5802,7 @@ erectors
 entrepreneur
 encrinal
 episode
+eurypharynx
 effluvia
 environing
 elephant
