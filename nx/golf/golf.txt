@@ -1990,7 +1990,6 @@ garnishments
 glamor
 gallamine
 gimbal
-geranic
 grubroot
 grudged
 guttable
@@ -10706,6 +10705,7 @@ gurshes
 guardhouse
 gobbler
 guaque
+geranic
 gonadectomies
 guayroto
 gyascutus

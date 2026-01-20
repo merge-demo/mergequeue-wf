@@ -2198,6 +2198,7 @@ fractioned
 frontiers
 folkmoot
 flectional
+feverless
 falsities
 funnels
 felonwort
@@ -9958,7 +9959,6 @@ frontager
 furilic
 frozenly
 fibropericarditis
-feverless
 filibusters
 floured
 furoid
