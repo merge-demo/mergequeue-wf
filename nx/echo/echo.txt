@@ -3842,7 +3842,6 @@ epistolizing
 eglandulose
 eremophyte
 electroplax
-emendandum
 endodontically
 ensindon
 embordered
@@ -12670,6 +12669,7 @@ enkolpion
 exometritis
 etuve
 epitaxial
+emendandum
 elychnious
 echo
 erotized
