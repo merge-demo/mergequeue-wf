@@ -6394,7 +6394,6 @@ fescennine
 fluked
 fuliginosity
 fluent
-foresteep
 ferryhouse
 fob
 furans
@@ -9562,6 +9561,7 @@ forearmed
 fand
 fayumic
 floors
+foresteep
 forewarned
 fraudulent
 fecundated

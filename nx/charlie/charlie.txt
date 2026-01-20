@@ -3265,7 +3265,6 @@ casques
 capitalizing
 capitalness
 capitan
-capitana
 capitated
 capitatim
 capitation
@@ -11787,6 +11786,7 @@ caravansary
 chondropterygious
 chondrosarcomatous
 construed
+capitana
 codder
 coendured
 colpohysterotomy
