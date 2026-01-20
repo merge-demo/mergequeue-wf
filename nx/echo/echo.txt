@@ -4954,7 +4954,6 @@ eurytomid
 ephemerally
 expressed
 endearedness
-enterocele
 endearingness
 estrada
 emulatress
@@ -9960,6 +9959,7 @@ ecclesiae
 ensampler
 electrocautery
 estrif
+enterocele
 elisor
 elk
 estrums
