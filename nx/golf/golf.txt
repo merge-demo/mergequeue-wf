@@ -200,7 +200,6 @@ gentleness
 gramas
 graphing
 gliadines
-gallish
 gaudsman
 goldcup
 glagolitsa
@@ -5238,6 +5237,7 @@ gracility
 gymnotidae
 groinery
 gatsby
+gallish
 gleamily
 gabble
 gharial
