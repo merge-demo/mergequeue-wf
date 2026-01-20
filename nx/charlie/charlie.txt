@@ -2561,6 +2561,7 @@ candleshrift
 capitalizations
 cecidiology
 committeewoman
+coelenteric
 chinol
 candlesticks
 choledocholithotripsy
@@ -17977,7 +17978,6 @@ colics
 catharses
 crotin
 coelenterates
-coelenteric
 copyman
 coelestial
 coelestine
