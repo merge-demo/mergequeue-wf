@@ -7,7 +7,6 @@ dialectologist
 dabby
 diaulic
 dogbane
-disorders
 demerara
 drawstrings
 dermatoheteroplasty
@@ -9841,6 +9840,7 @@ dispense
 delusiveness
 dillseed
 dropkick
+disorders
 deputations
 dimetria
 decarbonised
