@@ -4673,6 +4673,7 @@ finecomb
 fibrocalcareous
 ferring
 flowmanostat
+forcipes
 foresaying
 fasciotomy
 fleckless
@@ -8443,7 +8444,6 @@ fallaciousness
 frontlash
 felling
 feezing
-forcipes
 framboise
 fornications
 followed
