@@ -1451,7 +1451,6 @@ garrotting
 grundyite
 guigne
 galvanopsychic
-gambes
 gloves
 garreteer
 greenless
@@ -5920,6 +5919,7 @@ glucoside
 goshawk
 gurjun
 graptolitic
+gambes
 grandparents
 gorlois
 garce
