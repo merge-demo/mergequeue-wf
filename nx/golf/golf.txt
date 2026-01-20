@@ -3585,7 +3585,6 @@ gagman
 gynandrous
 gametogenesis
 grouchier
-guergal
 guarauno
 gallimaufries
 goalers
@@ -4627,6 +4626,7 @@ greenness
 gutturalized
 gilim
 graphometry
+guergal
 glim
 galloper
 grinter
