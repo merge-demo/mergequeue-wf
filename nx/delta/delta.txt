@@ -4349,7 +4349,6 @@ diphtheritis
 dunkled
 demissory
 douper
-delegable
 dualizing
 digenous
 demele
@@ -17715,6 +17714,7 @@ demultiplex
 dedifferentiation
 decanonization
 divulgate
+delegable
 dubbins
 dicarbonate
 dubiety
