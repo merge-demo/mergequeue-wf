@@ -6327,6 +6327,7 @@ eumycetes
 egressive
 equijacent
 euxenites
+edeology
 enthralment
 embowed
 euclidean
@@ -12563,7 +12564,6 @@ exoascaceous
 exoascales
 empeo
 enkindled
-edeology
 exobasidiaceae
 epiplopexy
 epithesis
