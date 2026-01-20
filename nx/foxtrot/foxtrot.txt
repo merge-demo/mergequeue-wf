@@ -7357,6 +7357,7 @@ fraggings
 fb
 fecial
 frocked
+firebrats
 flashback
 fluoran
 famishing
@@ -8143,7 +8144,6 @@ fumarole
 forestries
 forewind
 factorial
-firebrats
 furnitures
 fanums
 fumigating
