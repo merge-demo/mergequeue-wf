@@ -3609,6 +3609,7 @@ filaricidal
 filariids
 foody
 folkvangr
+funt
 funding
 forboding
 fairylands
@@ -4428,7 +4429,6 @@ faqir
 fama
 fingerberry
 flechette
-funt
 fowlings
 floorshifts
 footnotes
