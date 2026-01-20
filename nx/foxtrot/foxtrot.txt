@@ -6376,7 +6376,6 @@ footlock
 fakirism
 forceful
 fluidounce
-fulminated
 factory
 frankincensed
 flybelts
@@ -10901,6 +10900,7 @@ furoin
 formelt
 fishpool
 forficate
+fulminated
 flaminian
 fumblingly
 fallout
