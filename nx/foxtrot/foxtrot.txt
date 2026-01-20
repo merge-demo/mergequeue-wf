@@ -5100,6 +5100,7 @@ formalisms
 flipping
 flatbeds
 flanneling
+flidge
 fossores
 forepaw
 ferries
@@ -5947,7 +5948,6 @@ flounders
 fluorated
 freemasonic
 fulcrums
-flidge
 fortunes
 fitz
 farine
