@@ -751,7 +751,6 @@ grattoir
 geometrine
 gonoplasm
 galvanoglyph
-gar
 gossipdom
 guglia
 gravamina
@@ -1611,6 +1610,7 @@ gismos
 gymnura
 gauntlet
 gulanganes
+gar
 grangerised
 ganoidean
 gasterotheca
