@@ -4440,6 +4440,7 @@ gutless
 gameless
 gildable
 grides
+gentamicin
 gumdigger
 ganggang
 galantine
@@ -4571,7 +4572,6 @@ galoots
 groten
 glyptology
 granodioritic
-gentamicin
 greenwoods
 ghostology
 grandmothers
