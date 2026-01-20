@@ -8810,7 +8810,6 @@ algorismic
 allodial
 alicula
 anteroflexion
-amniatic
 adyta
 allodiality
 afterdate
@@ -13767,6 +13766,7 @@ anorthitic
 axospermous
 anorthographical
 ala
+amniatic
 anorthophyre
 adrenocorticotrophin
 augean
