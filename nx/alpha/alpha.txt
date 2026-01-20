@@ -5572,7 +5572,6 @@ aphototaxis
 aftervision
 actinomycoma
 afterwale
-amnesics
 afterward
 afterwise
 anaplerosis
@@ -21985,6 +21984,7 @@ assume
 araneidal
 apophis
 anthography
+amnesics
 assumers
 arcsin
 aircrewmen
