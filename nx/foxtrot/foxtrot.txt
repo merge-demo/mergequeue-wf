@@ -4459,6 +4459,7 @@ fishes
 fiancees
 feirie
 fleta
+fluorid
 footgear
 fl
 frenches
@@ -9331,7 +9332,6 @@ forecome
 fraise
 fraised
 frug
-fluorid
 fraik
 fertilities
 fretwise
