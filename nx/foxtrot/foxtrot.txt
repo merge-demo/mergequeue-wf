@@ -1003,7 +1003,6 @@ famelic
 friarbird
 fares
 feats
-fastigated
 faretta
 foresaid
 foldable
@@ -10797,6 +10796,7 @@ foldboat
 fatherliness
 fuder
 frustrating
+fastigated
 fairing
 fingerless
 fohn
