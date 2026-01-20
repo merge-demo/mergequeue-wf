@@ -1513,7 +1513,6 @@ glebae
 grover
 gamma
 gilbertite
-grincome
 gynocardia
 gangliocyte
 guydom
@@ -6302,6 +6301,7 @@ gendarmery
 graithly
 gospelly
 gobiidae
+grincome
 gainable
 gonepoietic
 gobble
