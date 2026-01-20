@@ -7416,6 +7416,7 @@ cephalodium
 cephalofacial
 cephalogram
 cephaloid
+calliopean
 culminates
 cuticles
 cephalology
@@ -17287,7 +17288,6 @@ coalless
 coalmouse
 commentaries
 counterdrain
-calliopean
 coalpit
 cryptograph
 coalsacks
