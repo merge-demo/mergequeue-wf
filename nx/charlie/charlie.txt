@@ -6698,6 +6698,7 @@ cecum
 cecums
 crinoidal
 cedar
+connect
 chlorastrolite
 credenza
 coindicant
@@ -18711,7 +18712,6 @@ cannonade
 conglobation
 cojusticiar
 campily
-connect
 coke
 clinocephalism
 cokes
