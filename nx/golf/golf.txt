@@ -4731,7 +4731,6 @@ glycoluril
 griminess
 groundnut
 girshes
-gastrohysterotomy
 gipsyish
 gingkoes
 gestatorium
@@ -6917,6 +6916,7 @@ gelatinoid
 getters
 graticulate
 glis
+gastrohysterotomy
 glibly
 goodenia
 garnering
