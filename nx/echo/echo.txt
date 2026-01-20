@@ -5856,7 +5856,6 @@ extrasensible
 engraver
 eloign
 entree
-engysseismology
 ebbman
 ethiops
 exprobrate
@@ -12181,6 +12180,7 @@ elementalism
 emerized
 excelse
 epiboly
+engysseismology
 execratively
 enragedness
 emeraude
