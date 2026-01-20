@@ -14857,6 +14857,7 @@ abnormality
 ateleological
 antliate
 angeles
+assertable
 around
 anticity
 anticytolysin
@@ -21738,7 +21739,6 @@ archaisms
 assert
 async
 albanenses
-assertable
 antinganting
 acacatechol
 assagaied
