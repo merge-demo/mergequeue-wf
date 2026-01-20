@@ -10699,7 +10699,6 @@ brachyrrhinia
 bleaker
 balanophoraceae
 bandspreading
-boardinghouse
 bernese
 bleaky
 buist
@@ -11187,6 +11186,7 @@ blindfoldly
 blunker
 blandness
 betatter
+boardinghouse
 buckler
 brotan
 bipenniform
