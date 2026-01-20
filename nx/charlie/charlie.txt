@@ -13741,6 +13741,7 @@ cubbyholes
 cinema
 catalanist
 cinemactic
+corynine
 cinemagoer
 caperbush
 circumlocutionary
@@ -25211,7 +25212,6 @@ corineus
 candelabrums
 caucussed
 corynid
-corynine
 corinne
 corynocarpus
 corynteria
