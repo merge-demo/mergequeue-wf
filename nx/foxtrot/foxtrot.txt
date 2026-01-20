@@ -5987,7 +5987,6 @@ famacide
 frankliniana
 fisherfolk
 fdname
-flakelet
 frenchiness
 flockings
 fudged
@@ -10569,6 +10568,7 @@ frutescent
 fervencies
 fili
 flaccidities
+flakelet
 felsosphaerite
 florimanist
 figuratively
