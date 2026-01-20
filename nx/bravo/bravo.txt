@@ -372,6 +372,7 @@ backhandedness
 brinjarry
 balkily
 brewery
+boggling
 brachypodous
 barbeque
 bovarist
@@ -12017,7 +12018,6 @@ boggler
 bannerol
 bogglers
 bhat
-boggling
 bessarabian
 brinded
 bogyism
