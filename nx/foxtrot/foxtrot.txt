@@ -6800,7 +6800,6 @@ frustratory
 foreboding
 faintheartedly
 fundamentalism
-frontrunner
 folksily
 flame
 felted
@@ -11637,6 +11636,7 @@ forehew
 fumy
 forwake
 fetlow
+frontrunner
 fineness
 fairleads
 fructoses
