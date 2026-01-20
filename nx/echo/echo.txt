@@ -4818,6 +4818,7 @@ etymologize
 eventides
 excrementitiousness
 enucleation
+expostulation
 encolpia
 entypies
 epigonous
@@ -12073,7 +12074,6 @@ expressor
 easels
 echevaria
 ekphoria
-expostulation
 erepsin
 escuage
 erythrin
