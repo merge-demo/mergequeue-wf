@@ -6749,7 +6749,6 @@ blurted
 brawler
 boons
 beholds
-bonus
 bermudas
 bucketfull
 buffoons
@@ -10610,6 +10609,7 @@ bambuco
 beclowned
 burghbote
 blate
+bonus
 bombasticness
 blateness
 bhisti
