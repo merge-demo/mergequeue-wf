@@ -6536,7 +6536,6 @@ beetleheaded
 brothering
 bequalm
 bioblast
-bklr
 bequeathed
 blackfish
 blooping
@@ -17854,6 +17853,7 @@ bine
 busbar
 barotse
 bibliopegic
+bklr
 biscanism
 bused
 brisks
