@@ -5070,7 +5070,6 @@ befalls
 botanised
 battlers
 bastonet
-bannerlike
 bloodthirst
 befamilied
 biogeography
@@ -18338,6 +18337,7 @@ bunkums
 buttressed
 buttresslike
 bromiodide
+bannerlike
 builder
 bulbs
 bandana
