@@ -16720,7 +16720,6 @@ accur
 ametaboly
 anthophagy
 aciculums
-aphemia
 attal
 athenaeum
 ascertainment
@@ -23458,6 +23457,7 @@ ahimsas
 agrufe
 augerer
 augers
+aphemia
 aughts
 algebraists
 astringer
