@@ -10782,7 +10782,6 @@ fanciness
 foreyear
 fascistize
 filagree
-flasket
 fringelike
 faenus
 flam
@@ -11464,6 +11463,7 @@ firebase
 folkmoter
 friese
 flirtation
+flasket
 fiducially
 fatlings
 falteringly
