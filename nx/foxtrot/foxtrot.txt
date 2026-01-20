@@ -4617,7 +4617,6 @@ floripondio
 feuder
 footboy
 fisticuff
-fouldre
 fringed
 familiarness
 fratricide
@@ -8373,6 +8372,7 @@ fronter
 fanflower
 folial
 fungic
+fouldre
 frizzers
 forelouper
 ferlied
