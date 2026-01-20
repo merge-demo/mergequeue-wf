@@ -3747,7 +3747,6 @@ fiercen
 feodal
 facebread
 fortnightly
-fillies
 feetless
 fillings
 furfuryl
@@ -4144,6 +4143,7 @@ fir
 fattable
 fatalness
 fizgigs
+fillies
 fissipedal
 fiendful
 feuilletons
