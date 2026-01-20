@@ -3457,7 +3457,6 @@ bastards
 bioptic
 barrelfishes
 baster
-bastille
 bastilles
 basibracteolate
 beladle
@@ -16693,6 +16692,7 @@ brilliantined
 branchiata
 bardlet
 butterscotch
+bastille
 blacking
 blanketeer
 buchanite
