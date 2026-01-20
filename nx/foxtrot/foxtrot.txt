@@ -5849,7 +5849,6 @@ ferule
 fleuronnee
 fungous
 fuzzball
-frontlessly
 favorers
 furnage
 fungistatic
@@ -7057,6 +7056,7 @@ fruitfullest
 fauna
 firepink
 floriated
+frontlessly
 folliculitis
 frt
 flub
