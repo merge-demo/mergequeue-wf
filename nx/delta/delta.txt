@@ -2803,7 +2803,6 @@ decouples
 decretively
 dictionary
 discind
-decretorian
 deteriorating
 disponent
 duplicative
@@ -12662,6 +12661,7 @@ deepfroze
 directs
 dargsman
 decupled
+decretorian
 derning
 disyoking
 desireable
