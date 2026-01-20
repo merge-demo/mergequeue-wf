@@ -2388,7 +2388,6 @@ gelotherapy
 goblinize
 geniting
 germanies
-geotectonic
 gravitates
 genitives
 gorkiesque
@@ -10134,6 +10133,7 @@ gnomic
 grouping
 gaskets
 gauderies
+geotectonic
 geopolar
 gonopores
 granado
