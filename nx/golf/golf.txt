@@ -594,7 +594,6 @@ goosier
 gallicizer
 gomphrena
 gabfest
-gorilloid
 graptoloidea
 galempong
 garron
@@ -9537,6 +9536,7 @@ gae
 geisa
 glaciaria
 goondie
+gorilloid
 grounders
 gonyaulax
 graceful
