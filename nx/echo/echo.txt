@@ -2766,7 +2766,6 @@ enchodontid
 electrotype
 electrotypy
 enolase
-earwigged
 eggroll
 ectophytic
 evaporated
@@ -8765,6 +8764,7 @@ exciples
 ektexines
 erato
 equivoke
+earwigged
 extradialectal
 emmergoose
 elaeocarpaceae
