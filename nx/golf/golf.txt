@@ -9340,7 +9340,6 @@ goitre
 gardnap
 goidel
 gamely
-gynocracy
 gemauve
 granitoid
 groenendael
@@ -9389,6 +9388,7 @@ gigantostracan
 geomagnetically
 grond
 gront
+gynocracy
 grozet
 guddled
 genuflect
