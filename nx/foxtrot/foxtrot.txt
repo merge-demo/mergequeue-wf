@@ -2953,7 +2953,6 @@ flyboy
 fourneau
 furazane
 fossane
-frustums
 fencing
 forereaching
 floccipend
@@ -5623,6 +5622,7 @@ formulise
 fellic
 fondler
 fisc
+frustums
 faked
 filibusterers
 forninst
