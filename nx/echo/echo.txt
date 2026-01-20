@@ -191,7 +191,6 @@ exequy
 earmarked
 eelbobber
 eupepsias
-esmeralda
 expiring
 egremoigne
 expressive
@@ -3814,6 +3813,7 @@ embulk
 evehood
 empaled
 exceptively
+esmeralda
 embull
 epanodos
 embush
