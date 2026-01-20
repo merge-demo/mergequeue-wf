@@ -10235,6 +10235,7 @@ enforcers
 evanishing
 epopees
 evermore
+entoblast
 esophagomycosis
 epithalamy
 envenomation
@@ -11555,7 +11556,6 @@ extractable
 epinikion
 electro
 evincing
-entoblast
 extremal
 exoculating
 echnida
