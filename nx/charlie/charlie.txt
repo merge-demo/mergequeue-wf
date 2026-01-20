@@ -11139,7 +11139,6 @@ chizz
 chizzel
 chladnite
 chondrite
-caulicles
 chlamyd
 chlamydate
 coenures
@@ -11174,6 +11173,7 @@ chloralosed
 chloralum
 chelators
 chlorambucil
+caulicles
 chloramin
 caperwort
 chilopodous
