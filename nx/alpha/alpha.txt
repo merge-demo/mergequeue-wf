@@ -6684,7 +6684,6 @@ appellatory
 antioxygen
 amplifies
 accepters
-armyworm
 alliage
 abucco
 aposthia
@@ -15786,6 +15785,7 @@ anodize
 antiphony
 amortizes
 apneumatosis
+armyworm
 affreight
 amethystlike
 ambitioning
