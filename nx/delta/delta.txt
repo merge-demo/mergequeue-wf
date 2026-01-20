@@ -10228,6 +10228,7 @@ declarable
 dehonestate
 demirevetment
 disallowing
+dyslogia
 distillation
 dinging
 dingleberry
@@ -10921,7 +10922,6 @@ dirtied
 denazifying
 duelli
 dirtying
-dyslogia
 dissaturate
 discontinuous
 diathermometer
