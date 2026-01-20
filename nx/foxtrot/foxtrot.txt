@@ -1811,6 +1811,7 @@ fores
 ferninst
 forbesite
 folkmots
+fouett
 flak
 frotting
 frustules
@@ -5772,7 +5773,6 @@ fibrohemorrhagic
 fuseplug
 friended
 fantasias
-fouett
 fuzz
 firking
 fountains
