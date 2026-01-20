@@ -7770,7 +7770,6 @@ bravoite
 beach
 bullan
 brocard
-bhindi
 beaufort
 bhistie
 berake
@@ -12078,6 +12077,7 @@ biogens
 bulking
 bemartyr
 bohora
+bhindi
 benny
 brontogram
 bebop
