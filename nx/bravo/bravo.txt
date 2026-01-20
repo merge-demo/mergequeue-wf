@@ -1755,7 +1755,6 @@ balter
 bulbels
 balsamation
 bradycauma
-balsamine
 balsamitic
 balsamiticness
 benzoylating
@@ -4188,6 +4187,7 @@ bengalic
 bogman
 brinsell
 beastlily
+balsamine
 beclown
 barrow
 boylas
