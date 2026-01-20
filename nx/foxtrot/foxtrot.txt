@@ -951,7 +951,6 @@ foundry
 foreffelt
 fourchite
 fortunateness
-forms
 farandoles
 faxing
 fosterer
@@ -3533,6 +3532,7 @@ fordays
 foetalism
 floorhead
 forpined
+forms
 fibrochondroma
 ferrochromium
 finnic
