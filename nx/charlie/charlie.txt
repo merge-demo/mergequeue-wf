@@ -15026,7 +15026,6 @@ civilianize
 crotchets
 civilians
 clothy
-civilisations
 choanoid
 countercondemnation
 cipollino
@@ -22358,6 +22357,7 @@ casettes
 congresswomen
 congridae
 centigramme
+civilisations
 crescent
 cyclopedist
 cistaceous
