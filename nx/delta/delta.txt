@@ -7060,6 +7060,7 @@ devall
 doodad
 durst
 dessus
+disobedience
 destabilization
 difficultly
 destabilize
@@ -18194,7 +18195,6 @@ dissective
 distrust
 dunbird
 dermatoscopy
-disobedience
 dieselizing
 diable
 disarticulated
