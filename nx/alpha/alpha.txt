@@ -5636,7 +5636,6 @@ aggrace
 aguara
 ardeid
 appoggiaturas
-agalaxia
 anisomelus
 agalena
 agalenidae
@@ -11151,6 +11150,7 @@ aciduria
 amphimictic
 animized
 amphimorulae
+agalaxia
 amphioxi
 amphioxuses
 assemblymen
