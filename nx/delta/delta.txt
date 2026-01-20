@@ -8810,7 +8810,6 @@ deuterodome
 diazins
 dulcifying
 deadwoods
-defeat
 defrocking
 dequeen
 dragsmen
@@ -14735,6 +14734,7 @@ dermestid
 doc
 declinedness
 darnation
+defeat
 dioptrically
 dedolomitize
 docetae
