@@ -3881,7 +3881,6 @@ farcer
 frizette
 folksinger
 frustulum
-flet
 forewoman
 fadingly
 functionize
@@ -8573,6 +8572,7 @@ flouring
 flowages
 fiefs
 filefishes
+flet
 fetiparous
 feme
 foreboder

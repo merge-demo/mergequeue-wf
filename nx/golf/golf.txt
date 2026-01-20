@@ -1900,6 +1900,7 @@ gunflint
 geodic
 galacturia
 grabber
+gaucher
 grainless
 gatherers
 gumpheon
@@ -2517,7 +2518,6 @@ genitalic
 gaelicize
 grandity
 glossier
-gaucher
 golds
 gatepost
 geyan
