@@ -6724,6 +6724,7 @@ bedull
 bayesian
 bemeaned
 berlin
+beseam
 browsability
 bismuthine
 broomstaff
@@ -6918,7 +6919,6 @@ biliverdic
 botchers
 bescutcheon
 bondservant
-beseam
 bisannual
 bluegills
 birlers
