@@ -11172,7 +11172,6 @@ aloofly
 amice
 amphisarca
 aqua
-actuated
 administratorship
 apiose
 acropodium
@@ -22725,6 +22724,7 @@ applauds
 ascared
 antigonococcic
 annumerate
+actuated
 allomerous
 acclimatizing
 aggies
