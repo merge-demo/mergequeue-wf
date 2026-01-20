@@ -4472,7 +4472,6 @@ encarnalized
 embreach
 econometrically
 elevens
-expy
 encarnalizing
 encarpa
 engrail
@@ -10186,6 +10185,7 @@ elaborators
 exsomatic
 edgier
 escapes
+expy
 earlyish
 encroaching
 embroideress

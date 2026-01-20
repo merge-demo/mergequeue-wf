@@ -5867,7 +5867,6 @@ gurgoyl
 geocarpic
 glt
 guff
-gorkhali
 gatten
 gonophoric
 gruiformes
@@ -9387,6 +9386,7 @@ guessing
 giggles
 gamesome
 gauffre
+gorkhali
 gigantostracan
 geomagnetically
 grond
