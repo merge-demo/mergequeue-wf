@@ -5205,7 +5205,6 @@ gutturine
 gessamine
 goldenmouthed
 gentlehearted
-gyps
 goldcrest
 gimpiest
 gaes
@@ -6583,6 +6582,7 @@ greyskin
 guiders
 glandarious
 gld
+gyps
 genesiac
 glaziest
 ganowanian
