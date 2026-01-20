@@ -5133,7 +5133,6 @@ beflap
 beflea
 brainier
 belching
-borderers
 boussingaultite
 bunrakus
 beflecked
@@ -16269,6 +16268,7 @@ bathmotropism
 baiter
 barkeepers
 browet
+borderers
 blameworthy
 brander
 becrimed
