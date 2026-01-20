@@ -5893,7 +5893,6 @@ categorizer
 chromeplated
 cabas
 crawling
-chateau
 cateye
 catel
 coelongated
@@ -17170,6 +17169,7 @@ coadsorbent
 coprophobic
 caddisfly
 creek
+chateau
 coaters
 chlorometer
 churliest
