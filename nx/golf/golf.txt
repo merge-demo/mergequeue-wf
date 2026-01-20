@@ -3365,6 +3365,7 @@ glosseme
 gula
 germanized
 goosewinged
+gourmand
 germanizer
 gloominess
 germanness
@@ -7142,7 +7143,6 @@ germinational
 gestates
 goosiest
 gasterotrichan
-gourmand
 granger
 gadzooks
 gambrels
