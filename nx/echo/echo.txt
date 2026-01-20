@@ -6732,7 +6732,6 @@ ecrevisse
 epulis
 espundia
 eager
-excitably
 exacters
 endamebiasis
 entertainingly
@@ -9937,6 +9936,7 @@ especialness
 equicellular
 eclosions
 electroosmotically
+excitably
 estrayed
 ectropion
 embarks
