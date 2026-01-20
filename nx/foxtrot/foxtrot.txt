@@ -4331,7 +4331,6 @@ foreordains
 fendable
 feudalized
 firk
-febrifuges
 filacer
 facsimilist
 floppiest
@@ -7502,6 +7501,7 @@ fasted
 foobar
 forged
 forbiddenly
+febrifuges
 fuage
 fulling
 fenestellae
