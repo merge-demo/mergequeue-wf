@@ -5593,7 +5593,6 @@ afunctional
 anticorrosion
 acrogynous
 afwillite
-afzelia
 adjustable
 amidstream
 aga
@@ -10796,6 +10795,7 @@ affronter
 allamoth
 antiphilosophy
 amerindic
+afzelia
 allegorical
 amniocentesis
 anapnoic
