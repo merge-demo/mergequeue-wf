@@ -17807,7 +17807,6 @@ alex
 antiq
 alisphenoid
 amphiarthrosis
-asterales
 archiblast
 astraeidae
 apposer
@@ -18614,6 +18613,7 @@ angerly
 arthrocarcinoma
 aggregable
 astragalonavicular
+asterales
 achatina
 archaeostoma
 anisidine
