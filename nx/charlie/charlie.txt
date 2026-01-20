@@ -5464,6 +5464,7 @@ casaque
 castlewise
 castock
 castoffs
+cantharellus
 coldly
 castoreum
 caftaned
@@ -17991,7 +17992,6 @@ concept
 chaster
 contributor
 coelin
-cantharellus
 coelioscopy
 cooperativeness
 czechic
