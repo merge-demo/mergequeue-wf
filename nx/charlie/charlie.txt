@@ -8155,6 +8155,7 @@ chokecherry
 chafted
 cudgeller
 chagga
+cocoawood
 chagigah
 creatureship
 colorless
@@ -17748,7 +17749,6 @@ cocoach
 cte
 campuses
 cashier
-cocoawood
 churchgoing
 cocobola
 cocobolas
