@@ -9328,6 +9328,7 @@ cerris
 custos
 calodaemon
 catagmatic
+chapitle
 chaukidari
 chaulmaugra
 chaulmoogra
@@ -15642,7 +15643,6 @@ cochineal
 claudication
 coercend
 claughted
-chapitle
 cappadochio
 cyanoacetic
 claughts
