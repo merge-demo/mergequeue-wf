@@ -2007,6 +2007,7 @@ dourer
 dejeuner
 dimorphic
 dastardy
+dayroom
 daffodilly
 desugars
 departures
@@ -11189,7 +11190,6 @@ defiling
 debadge
 dysautonomia
 disavail
-dayroom
 discomforted
 despect
 dishabituating
