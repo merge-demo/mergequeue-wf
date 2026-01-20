@@ -27837,7 +27837,6 @@ cleanups
 cq
 cr
 craal
-craaling
 courtezanship
 choirmaster
 craals
@@ -30832,6 +30831,7 @@ ceonocyte
 corneocalcareous
 cranioclasm
 copaline
+craaling
 clavately
 corduroyed
 cauterisation
