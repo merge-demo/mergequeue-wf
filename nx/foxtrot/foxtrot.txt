@@ -363,7 +363,6 @@ fierding
 fadeless
 fishway
 fail
-fireplough
 faineancy
 fimbricated
 furcal
@@ -6674,6 +6673,7 @@ fluxionist
 fluxive
 fissions
 freespace
+fireplough
 fireproofed
 fuciphagous
 foalfoots
