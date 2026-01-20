@@ -3372,7 +3372,6 @@ dicotyledons
 damnum
 ditremidae
 downlinks
-deflect
 dichotomic
 disinhuming
 dactyli
@@ -15718,6 +15717,7 @@ donec
 downlie
 doggoneder
 dormancies
+deflect
 dizygotic
 dormers
 defraud

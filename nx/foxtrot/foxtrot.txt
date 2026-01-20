@@ -1066,6 +1066,7 @@ farmership
 fulgence
 festschriften
 felicitated
+floreal
 fortepiano
 flypaper
 formicarian
@@ -6495,7 +6496,6 @@ fluvio
 foppery
 fragrantness
 fyce
-floreal
 funiliform
 facelift
 finick
