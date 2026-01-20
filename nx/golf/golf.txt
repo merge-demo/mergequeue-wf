@@ -3647,7 +3647,6 @@ gimlets
 guacho
 gewgaws
 ghan
-glowerer
 graftproof
 glycerogelatin
 glumella
@@ -4431,6 +4430,7 @@ graffias
 gowdnook
 grindings
 groundhog
+glowerer
 gink
 goles
 gorgoneia
