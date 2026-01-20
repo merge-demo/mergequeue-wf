@@ -4570,7 +4570,6 @@ emplaned
 embarkation
 encephalotome
 ethics
-epionynychia
 euphony
 endoparasitica
 epagoge
@@ -9287,6 +9286,7 @@ effranchise
 errable
 endbrains
 errancies
+epionynychia
 endospermous
 egressing
 electra
