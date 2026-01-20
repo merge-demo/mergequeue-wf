@@ -9092,6 +9092,7 @@ freakery
 floatation
 flimflammer
 fistle
+flairs
 foxier
 fragile
 fregatidae
@@ -10702,7 +10703,6 @@ flangers
 fewmand
 fathometer
 femininity
-flairs
 furstone
 freezingly
 foremark

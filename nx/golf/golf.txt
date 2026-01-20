@@ -621,7 +621,6 @@ galbulinae
 germanophile
 guaranian
 glockenspiels
-gabert
 grieben
 guineas
 gemming
@@ -1329,6 +1328,7 @@ gargalize
 grump
 gerendum
 government
+gabert
 glossarist
 grail
 geodiatropism
