@@ -7561,7 +7561,6 @@ executer
 endomysium
 endmost
 equivalently
-equalling
 erythrolitmin
 extemporal
 epichondrosis
@@ -12561,6 +12560,7 @@ eft
 endorphin
 exoascaceous
 exoascales
+equalling
 empeo
 enkindled
 edeology
