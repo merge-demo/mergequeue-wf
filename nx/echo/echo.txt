@@ -5414,6 +5414,7 @@ equid
 electrological
 eightsman
 electronvolt
+estranged
 ergotization
 excrescences
 ectene
@@ -6516,7 +6517,6 @@ enlivens
 erubescence
 excludable
 electrotitration
-estranged
 estimative
 execration
 ephemeric
