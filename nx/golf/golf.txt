@@ -768,6 +768,7 @@ gansa
 gestapos
 gerim
 grylle
+gynarchic
 gunbearer
 gerkin
 ginghams
@@ -4283,7 +4284,6 @@ goosing
 gilty
 goblets
 gammoned
-gynarchic
 geographize
 gearman
 growleries
