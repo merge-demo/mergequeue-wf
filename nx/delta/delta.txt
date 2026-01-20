@@ -5814,6 +5814,7 @@ depilation
 deposito
 distastes
 depositor
+detonatability
 derides
 daytime
 deleatur
@@ -18229,7 +18230,6 @@ ditetragonal
 diamagnetometer
 druidism
 disfellowship
-detonatability
 deadlocks
 dode
 decurrent
