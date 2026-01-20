@@ -1956,6 +1956,7 @@ balances
 bandstring
 bathymetric
 brandishes
+bahut
 believes
 baahling
 beworms
@@ -9635,7 +9636,6 @@ bhutia
 bromides
 bumbledom
 bronchomycosis
-bahut
 blastomata
 biscutate
 boondocker
