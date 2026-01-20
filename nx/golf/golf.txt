@@ -5949,6 +5949,7 @@ grackle
 grogshops
 goofs
 gambirs
+gre
 gluepot
 gynophoric
 gimballed
@@ -8333,7 +8334,6 @@ gimp
 gospel
 grippingness
 giardiasis
-gre
 gleave
 gaseosity
 glochidian
