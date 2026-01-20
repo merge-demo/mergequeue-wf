@@ -10657,7 +10657,6 @@ avoider
 asterisked
 amissible
 amissing
-amita
 aeroscopic
 aplanatically
 arthroses
@@ -21869,6 +21868,7 @@ agly
 abutted
 averrhoa
 assishly
+amita
 aculeated
 adapted
 aplacophoran
