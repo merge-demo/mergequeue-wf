@@ -6122,7 +6122,6 @@ fascinated
 foyboat
 floral
 floralize
-fabrics
 foretypified
 floras
 fructiform
@@ -11089,6 +11088,7 @@ fungated
 fummle
 fere
 fascias
+fabrics
 funambulator
 feels
 fuzzle
