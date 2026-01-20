@@ -815,6 +815,7 @@ darwan
 deteriorator
 deprecatory
 duralumin
+dinmont
 duotone
 decrudescence
 dank
@@ -11633,7 +11634,6 @@ dipt
 dipsaceae
 defrocks
 denominationalism
-dinmont
 disconectae
 drupelets
 dosology
