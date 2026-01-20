@@ -3284,7 +3284,6 @@ fluorinate
 fittit
 foreknowledge
 fibrosity
-forthrightly
 fattishness
 fulmicotton
 faradizer
@@ -9713,6 +9712,7 @@ floriform
 freeloaded
 focalisation
 feuter
+forthrightly
 finitesimal
 flatfootedness
 forespeaker
