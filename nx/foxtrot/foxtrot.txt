@@ -3236,7 +3236,6 @@ facsimileing
 feloness
 fluework
 focalizing
-floorshift
 firmisternous
 falseheartedness
 fougade
@@ -10529,6 +10528,7 @@ frontotemporal
 fluxional
 forecastle
 floe
+floorshift
 fleet
 fwd
 fisted
