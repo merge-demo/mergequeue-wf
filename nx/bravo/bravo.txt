@@ -4203,7 +4203,6 @@ bethorn
 bulgy
 beastman
 barracoutas
-biodegrade
 beastship
 benches
 bleery
@@ -12934,6 +12933,7 @@ badan
 blunders
 bedsheet
 bashaws
+biodegrade
 blackcock
 basichromatin
 bacciform
