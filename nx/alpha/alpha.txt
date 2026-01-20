@@ -3431,7 +3431,6 @@ ascitical
 adaxial
 adazzle
 adcons
-autopticity
 admires
 aesculus
 atap
@@ -9158,6 +9157,7 @@ adenogenous
 atomics
 argentamin
 autometric
+autopticity
 aphony
 angiolymphoma
 asaraceae
