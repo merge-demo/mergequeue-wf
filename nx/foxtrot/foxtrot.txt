@@ -1376,7 +1376,6 @@ fatiha
 fruticeous
 flaxdrop
 flenser
-fredricite
 foretopmast
 fullword
 filicology
@@ -10804,6 +10803,7 @@ flat
 felup
 fomentation
 floatmaker
+fredricite
 footrope
 flagstaves
 fausant
