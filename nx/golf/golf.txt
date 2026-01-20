@@ -4401,7 +4401,6 @@ granulite
 gemstone
 gravestead
 gluily
-glossata
 gharries
 greenhew
 ginglymostoma
@@ -6756,6 +6755,7 @@ gynaecologic
 glycolyl
 glimed
 geer
+glossata
 gride
 graphitic
 gastronephritis
