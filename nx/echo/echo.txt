@@ -3414,7 +3414,6 @@ equiangular
 emphemeralness
 expensefully
 endodermis
-ecdyses
 endostyle
 enlute
 eyry
@@ -4763,6 +4762,7 @@ encysting
 eugenol
 encysts
 eyepieces
+ecdyses
 euphrosyne
 enarthrosis
 emeerates
