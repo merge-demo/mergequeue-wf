@@ -19051,7 +19051,6 @@ cometographer
 collidin
 condensed
 cetacea
-cepous
 collier
 circuli
 cuprite
@@ -27362,6 +27361,7 @@ chickweed
 courtyards
 catoquina
 coonroot
+cepous
 closter
 custron
 courtierly
