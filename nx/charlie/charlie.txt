@@ -4834,7 +4834,6 @@ cissoidal
 carpos
 clivus
 chibouk
-carposporangial
 carlist
 cavalierish
 concaving
@@ -14236,6 +14235,7 @@ circumlitio
 circumlittoral
 circumlocute
 circumlocution
+carposporangial
 cypripedin
 centralizes
 circumlocutionist
