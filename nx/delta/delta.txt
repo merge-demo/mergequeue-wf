@@ -5933,7 +5933,6 @@ disentraced
 dere
 defeatee
 depravingly
-depreter
 depriment
 dodonaea
 depriorize
@@ -16184,6 +16183,7 @@ disenfranchise
 diseasing
 dermopathy
 deplete
+depreter
 dendroceratina
 dacryocystoblennorrhea
 dindymus
