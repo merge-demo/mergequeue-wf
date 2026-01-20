@@ -3992,7 +3992,6 @@ gatchwork
 gnarls
 gigge
 gelatinated
-gallopers
 graphomaniac
 gyro
 grice
@@ -8722,6 +8721,7 @@ galvanometrically
 greenflies
 glean
 glump
+gallopers
 gymnocidium
 gynaecoid
 grabbots
