@@ -5868,7 +5868,6 @@ bellyland
 bonairness
 biunique
 biogenetical
-balopticon
 barbequing
 bellmaking
 banquo
@@ -16452,6 +16451,7 @@ breastful
 brummy
 byth
 brumous
+balopticon
 brumstane
 bravoing
 brunched
