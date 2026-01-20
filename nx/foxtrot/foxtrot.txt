@@ -1263,6 +1263,7 @@ fluorography
 folds
 fassalite
 fastbacks
+fluorite
 frigor
 flirtational
 faradism
@@ -7755,7 +7756,6 @@ freeze
 foxskin
 fano
 footbreadth
-fluorite
 firmaments
 flitfold
 fellingbird
