@@ -4783,7 +4783,6 @@ gumshoe
 grudgingly
 genista
 globosphaerite
-gourdiness
 gastrovascular
 galeae
 genteelize
@@ -7044,6 +7043,7 @@ glossopode
 gallerian
 gardevin
 glad
+gourdiness
 grottoes
 gossipry
 giddybrain
