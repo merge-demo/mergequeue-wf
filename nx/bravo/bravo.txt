@@ -10260,6 +10260,7 @@ brevicomis
 blathery
 brachia
 blateroon
+bindwith
 brollies
 beaverlike
 betimber
@@ -16296,7 +16297,6 @@ burry
 beluga
 browniest
 beamlet
-bindwith
 bahuts
 bourock
 brushing
