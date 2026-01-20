@@ -2863,7 +2863,6 @@ barouchette
 barouni
 begrain
 besmoothing
-baroxyton
 bodge
 benignantly
 beebread
@@ -7326,6 +7325,7 @@ beta
 biodynamical
 broombush
 biogeographic
+baroxyton
 betacaine
 betacismus
 betag
