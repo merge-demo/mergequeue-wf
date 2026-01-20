@@ -2047,7 +2047,6 @@ fibrinoplastin
 fourpounder
 femorotibial
 filename
-frontspiece
 feinter
 forisfamiliation
 feudary
@@ -7836,6 +7835,7 @@ fidicula
 franciscanism
 fisticuffery
 forequarter
+frontspiece
 favillous
 flecker
 freshness
