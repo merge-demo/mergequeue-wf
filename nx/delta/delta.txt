@@ -15677,7 +15677,6 @@ discriminatorily
 dorad
 dipylon
 desaurin
-deteriorates
 dorado
 discovers
 downbye
@@ -15853,6 +15852,7 @@ delphinia
 discounts
 datura
 dogproof
+deteriorates
 desterilized
 deferens
 dosing
