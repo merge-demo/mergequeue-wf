@@ -10401,7 +10401,6 @@ forecourt
 feaze
 foss
 forthcut
-footcandles
 fiaunt
 floret
 fraenula
@@ -11224,6 +11223,7 @@ fireplugs
 forefin
 frenzelite
 flinter
+footcandles
 fluorophosphate
 fiduciaries
 frontiersman
