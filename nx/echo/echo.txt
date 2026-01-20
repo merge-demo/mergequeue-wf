@@ -791,7 +791,6 @@ equilibrist
 easternizing
 ecoute
 exscinding
-ecphore
 emotes
 echinal
 envelope
@@ -10322,6 +10321,7 @@ endangeitis
 exomorphic
 ellipsone
 extension
+ecphore
 ethmofrontal
 emmenagogic
 esquamate
