@@ -4024,6 +4024,7 @@ flav
 falkland
 feverfew
 fibrinemia
+flotage
 fiscal
 fulmine
 figurehead
@@ -9798,7 +9799,6 @@ forsakers
 frenatae
 frenched
 fossate
-flotage
 futuramic
 furiously
 fido

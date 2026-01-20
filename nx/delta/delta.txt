@@ -10760,7 +10760,6 @@ digitalize
 dolently
 dactylioglyphic
 demurs
-declinal
 dippier
 dipping
 dentes
@@ -14893,6 +14892,7 @@ dihedrals
 deploys
 drogue
 ducted
+declinal
 drails
 dolph
 dodecane
