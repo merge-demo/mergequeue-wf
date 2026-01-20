@@ -1639,7 +1639,6 @@ fantasticalness
 foresight
 fellmongery
 fawners
-farandole
 formicoidea
 foliot
 feltmaking
@@ -10015,6 +10014,7 @@ faucet
 funkier
 frostnipped
 fossilated
+farandole
 femerell
 fantoms
 forerib
