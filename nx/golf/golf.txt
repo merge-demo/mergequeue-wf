@@ -6389,6 +6389,7 @@ gambelli
 ganoblast
 garnitures
 gustables
+giambeux
 glimmered
 gumpus
 gofer
@@ -10388,7 +10389,6 @@ gargoyled
 gallflower
 garbanzos
 gyri
-giambeux
 giggled
 gonyalgia
 gelatiniser
