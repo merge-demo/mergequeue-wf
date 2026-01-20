@@ -4154,7 +4154,6 @@ edictum
 epigene
 enlief
 extund
-epicanthus
 ejacula
 endplate
 enrooting
@@ -4375,6 +4374,7 @@ endoute
 economize
 enterointestinal
 exceeders
+epicanthus
 exothermous
 enwoman
 enamour
