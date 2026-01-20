@@ -3477,7 +3477,6 @@ frontals
 fulmines
 forewarmer
 forhaile
-forepointer
 furfurans
 futtermassel
 forthward
@@ -9699,6 +9698,7 @@ firemaster
 forlet
 floatier
 feeders
+forepointer
 falcata
 foothook
 flitwite
