@@ -2487,6 +2487,7 @@ frithborgh
 flappy
 fleshful
 firelocks
+fricatives
 fascinatedly
 firn
 fumbulator
@@ -10245,7 +10246,6 @@ filopodium
 feasibility
 falchions
 forjudges
-fricatives
 furcule
 friation
 frivolousness
