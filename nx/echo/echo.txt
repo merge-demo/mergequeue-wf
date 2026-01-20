@@ -1972,6 +1972,7 @@ excursions
 enabled
 echinulate
 enframement
+eliding
 estoppal
 eurypterid
 enthelminthes
@@ -8624,7 +8625,6 @@ estrogen
 embranglement
 esthetes
 equidistribution
-eliding
 esu
 eutaxic
 equidiurnal
