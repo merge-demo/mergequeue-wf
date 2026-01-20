@@ -3224,6 +3224,7 @@ frosh
 farted
 fickle
 fittings
+fingerprint
 functionalism
 fixage
 fruits
@@ -4037,7 +4038,6 @@ flattish
 forfeited
 flunk
 fellies
-fingerprint
 foreshowed
 ferric
 furazolidone
