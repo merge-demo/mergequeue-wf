@@ -5039,7 +5039,6 @@ denaturing
 duplicand
 denaturise
 desensitization
-disserve
 disfigures
 dextrogyrate
 discover
@@ -8352,6 +8351,7 @@ darkishness
 ditrigonally
 decongested
 dalespeople
+disserve
 disadventure
 dresses
 decapodous
