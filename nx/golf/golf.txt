@@ -2840,7 +2840,6 @@ gentlemanlikeness
 gossan
 gybing
 goosehouse
-galactophlysis
 grayhair
 gasaliers
 graminous
@@ -4742,6 +4741,7 @@ greensand
 gossoon
 ghettos
 glassin
+galactophlysis
 guisard
 glycuronic
 graecism
