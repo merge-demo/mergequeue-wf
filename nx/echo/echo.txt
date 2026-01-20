@@ -1063,7 +1063,6 @@ etatisme
 edentalous
 edentata
 envolupen
-epinicion
 ethyls
 edeodynia
 edeomania
@@ -13607,6 +13606,7 @@ epimyocardium
 externa
 enjoinder
 epoxides
+epinicion
 elementally
 excern
 enteroceptor
