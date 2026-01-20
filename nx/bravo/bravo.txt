@@ -9332,6 +9332,7 @@ burgaudine
 bioclimatologies
 barbarities
 blackguardism
+batterable
 biprong
 baseball
 buildup
@@ -15697,7 +15698,6 @@ broacher
 bacchanals
 broaches
 burgundies
-batterable
 buffone
 bulkheads
 belemnid
