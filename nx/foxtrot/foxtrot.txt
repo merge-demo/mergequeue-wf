@@ -5125,7 +5125,6 @@ foeship
 fishgig
 fortyish
 frumpishness
-flappet
 fermions
 flatcar
 fishline
@@ -10670,6 +10669,7 @@ fellowmen
 freakouts
 fibrination
 fatefulness
+flappet
 fortifier
 fuzzes
 fulgent
