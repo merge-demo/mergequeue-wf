@@ -661,7 +661,6 @@ disseize
 dusio
 drynesses
 danaine
-danaite
 detainer
 damasking
 deltaic
@@ -6721,6 +6720,7 @@ date
 designedly
 detachability
 delibate
+danaite
 designment
 dishwater
 designer
