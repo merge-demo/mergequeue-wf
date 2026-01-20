@@ -2953,7 +2953,6 @@ custumals
 cryptoprocta
 cantering
 canthal
-curling
 cantharic
 cantharidae
 cake
@@ -19437,6 +19436,7 @@ colossal
 colossality
 colossally
 colossean
+curling
 colosseum
 colossian
 charas
