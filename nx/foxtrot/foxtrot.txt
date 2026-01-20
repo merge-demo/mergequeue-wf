@@ -3225,6 +3225,7 @@ fesels
 freeholds
 filibeg
 fishpole
+flaunched
 frosh
 farted
 fickle
@@ -4737,7 +4738,6 @@ fiddled
 figurante
 flytings
 fiendliest
-flaunched
 fetis
 flections
 flexibilities
