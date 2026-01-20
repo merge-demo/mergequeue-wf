@@ -6092,6 +6092,7 @@ cathouses
 crownling
 cathrin
 cathryn
+classical
 coversine
 cathud
 cretification
@@ -16509,7 +16510,6 @@ cruisken
 cerule
 channelization
 cucumbers
-classical
 cloggier
 chiliasm
 clogginess
