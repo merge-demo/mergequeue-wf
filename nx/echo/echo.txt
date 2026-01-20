@@ -638,7 +638,6 @@ euro
 enwreathing
 eversions
 entertained
-eclaircissement
 epeus
 ey
 elastica
@@ -9354,6 +9353,7 @@ everydeal
 excels
 enticeful
 espieglerie
+eclaircissement
 erubescent
 entelechy
 ecus
