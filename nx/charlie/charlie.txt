@@ -18887,7 +18887,6 @@ cestoid
 choroti
 colistin
 coypou
-colitic
 colitises
 colyum
 climbs
@@ -23107,6 +23106,7 @@ coystrel
 curupay
 coachy
 ck
+colitic
 conchometry
 conceits
 cliftonia
