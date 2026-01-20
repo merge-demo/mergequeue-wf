@@ -10063,6 +10063,7 @@ expecting
 emergent
 encastered
 egrets
+eolienne
 exitial
 entamoebiasis
 epopoeist
@@ -11369,7 +11370,6 @@ eunuch
 evaporators
 eugenics
 exactable
-eolienne
 eveless
 estrildine
 eth
