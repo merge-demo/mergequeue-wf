@@ -6961,7 +6961,6 @@ folky
 fibromyxosarcoma
 fidejussory
 footings
-fimbriae
 focus
 frostroot
 finalizes
@@ -9584,6 +9583,7 @@ fleshpots
 fiducinales
 faveoluli
 folkishness
+fimbriae
 fentanyl
 fart
 forechoir
