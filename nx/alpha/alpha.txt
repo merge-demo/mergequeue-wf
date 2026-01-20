@@ -25090,7 +25090,6 @@ animalism
 aggregated
 axemen
 arsine
-axenic
 axenically
 abbreviators
 annual
@@ -25365,6 +25364,7 @@ alimonies
 angiosis
 animadversions
 azotetrazole
+axenic
 azothionium
 amoving
 almoravides

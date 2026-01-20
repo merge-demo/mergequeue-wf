@@ -7496,6 +7496,7 @@ groundswells
 gonococcal
 grithbreach
 granuliferous
+grocery
 geocentrical
 gabbler
 gonia
@@ -9268,7 +9269,6 @@ grazier
 gled
 giftedness
 gramophonic
-grocery
 gryllotalpa
 gangbuster
 glassworker
