@@ -1407,6 +1407,7 @@ fanzines
 figitidae
 freezer
 foodlessness
+frontosquamosal
 fatsia
 fancying
 fermiums
@@ -7928,7 +7929,6 @@ fenestrule
 fulgour
 fiddlefaced
 forementioned
-frontosquamosal
 filler
 foreshots
 facings
