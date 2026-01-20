@@ -8684,6 +8684,7 @@ enplanement
 elastometer
 eltrot
 equipedal
+eneid
 endotheliomyoma
 earthshaking
 epithalamiumia
@@ -9357,7 +9358,6 @@ electroori
 encephalopathy
 eructance
 empoverish
-eneid
 extendability
 extralegal
 eructative
