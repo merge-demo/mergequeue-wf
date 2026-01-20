@@ -4898,7 +4898,6 @@ carrions
 carryons
 compense
 carryout
-carryouts
 crosshatched
 carritches
 carriwitchet
@@ -9810,6 +9809,7 @@ contrails
 chelonian
 cheloniidae
 crucialness
+carryouts
 chemehuevi
 chemiatric
 chapeless
