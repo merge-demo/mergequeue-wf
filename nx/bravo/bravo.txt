@@ -997,7 +997,6 @@ bibliology
 bioavailability
 butadiene
 baiginet
-biparental
 brichen
 bronchiocrisis
 bravure
@@ -14915,6 +14914,7 @@ breasthook
 breadearning
 bitmap
 belage
+biparental
 basigamy
 breaden
 breadfruit
