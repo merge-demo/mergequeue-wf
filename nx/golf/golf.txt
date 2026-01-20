@@ -1771,6 +1771,7 @@ gamesman
 guernseys
 gaullism
 gastropexy
+guildsman
 gutte
 garroo
 gorgonacea
@@ -3217,7 +3218,6 @@ geotechnic
 graplin
 glycans
 gazon
-guildsman
 gabelled
 glaze
 geomantically
