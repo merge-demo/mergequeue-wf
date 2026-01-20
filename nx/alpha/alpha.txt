@@ -102,7 +102,6 @@ auditories
 abarticulation
 agyieus
 abase
-antedate
 asap
 apyrene
 abret
@@ -1175,6 +1174,7 @@ airshed
 acalephoid
 anaclastic
 arow
+antedate
 acalyculate
 apheliotropic
 anonymities
