@@ -25541,7 +25541,6 @@ corpora
 corporacies
 calcic
 cowichan
-corporalcy
 corporale
 corporalism
 calippic
@@ -26476,6 +26475,7 @@ commandoes
 crockeries
 ceresine
 cottonization
+corporalcy
 coexpire
 cottonize
 cottonmouth
