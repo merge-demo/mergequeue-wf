@@ -3503,6 +3503,7 @@ capsizes
 ciliiferous
 capsizing
 capernaitish
+contagion
 capsomers
 capstan
 capstans
@@ -18429,7 +18430,6 @@ componentry
 cognitional
 cognitive
 cognitively
-contagion
 cognizable
 cognizant
 cognize
