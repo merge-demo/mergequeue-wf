@@ -8409,6 +8409,7 @@ epitrachelia
 estrum
 exceedable
 excitator
+endhand
 earplug
 espontoon
 engraftation
@@ -13885,7 +13886,6 @@ explores
 exosmosis
 eutectic
 endolymphangial
-endhand
 extracloacal
 extradited
 ecchymoma
