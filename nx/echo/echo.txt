@@ -10372,6 +10372,7 @@ elephantine
 enquired
 explain
 etwite
+event
 ethnolinguist
 eaglets
 estensible
@@ -10504,7 +10505,6 @@ etna
 eucrasia
 etrenne
 exsurgent
-event
 etrog
 etruscology
 endosteally
