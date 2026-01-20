@@ -13741,7 +13741,6 @@ cynegild
 cubbyholes
 cinema
 catalanist
-cinemactic
 corynine
 cinemagoer
 caperbush
@@ -17027,6 +17026,7 @@ cymbaleer
 candela
 croat
 clutchingly
+cinemactic
 confiner
 consignificate
 calean
