@@ -9605,7 +9605,6 @@ feebleness
 frappes
 flossies
 figurers
-floppiness
 fattrels
 frypan
 footling
@@ -11075,6 +11074,7 @@ foreanswer
 filiferous
 flammulated
 fontainea
+floppiness
 fawner
 floggings
 fancies
