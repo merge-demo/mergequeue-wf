@@ -2031,7 +2031,6 @@ camilla
 chariotlike
 cacholong
 calycanthemy
-camillus
 camino
 camion
 camions
@@ -2132,6 +2131,7 @@ campanulatae
 campanulate
 chondrosarcomata
 campanulous
+camillus
 cowbells
 campbellisms
 campbellites
