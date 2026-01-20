@@ -3697,7 +3697,6 @@ carandas
 craspedota
 carangids
 coenaesthesis
-cooking
 coleopterological
 clem
 celomata
@@ -24779,6 +24778,7 @@ cabbing
 cheechakos
 coroscopy
 copulae
+cooking
 copular
 copularium
 conceivable

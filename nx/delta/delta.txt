@@ -3490,6 +3490,7 @@ darkey
 deformation
 deflections
 delete
+dubitably
 deformations
 deformedly
 downfold
@@ -17732,7 +17733,6 @@ dubiousness
 delegative
 dubitable
 dichondra
-dubitably
 diaphorite
 digs
 deflagrates
