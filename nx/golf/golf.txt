@@ -194,6 +194,7 @@ goslings
 greyest
 guestless
 glug
+garten
 gambiers
 gentleness
 gramas
@@ -5310,7 +5311,6 @@ gunter
 greeds
 gamecraft
 gombroons
-garten
 gentilic
 gravitative
 gammer
