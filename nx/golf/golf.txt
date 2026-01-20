@@ -636,7 +636,6 @@ gemmiparously
 glassed
 gunslingers
 gillie
-glome
 goopy
 geophysicist
 glide
@@ -9112,6 +9111,7 @@ golgothas
 geelbek
 glottogonic
 gusting
+glome
 glasser
 grimalkin
 genitive
