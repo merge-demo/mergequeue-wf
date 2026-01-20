@@ -1554,7 +1554,6 @@ foreteach
 forspread
 forklift
 farrow
-forbathe
 forepayment
 fidac
 fauvette
@@ -7961,6 +7960,7 @@ factiousness
 franklinia
 foreruns
 fluid
+forbathe
 flacket
 futhorks
 frightenable
