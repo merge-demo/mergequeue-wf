@@ -4952,7 +4952,6 @@ buccin
 builtin
 bepride
 burhinidae
-bilobular
 beefier
 bequest
 backus
@@ -9179,6 +9178,7 @@ biosphere
 bionomical
 biostatic
 biostatical
+bilobular
 buffleheaded
 bletting
 banc
