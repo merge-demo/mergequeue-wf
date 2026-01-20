@@ -1373,6 +1373,7 @@ flaggish
 fanning
 fatigue
 fossicks
+forwear
 fatiguesome
 fulminuric
 fatiha
@@ -3758,7 +3759,6 @@ fishbones
 filicides
 fecundates
 fillmore
-forwear
 fiscally
 fosse
 fasciculately
