@@ -8174,6 +8174,7 @@ bearess
 brutelike
 basidigitale
 brachydactylic
+barwing
 bespreading
 blossomed
 bardier
@@ -12247,7 +12248,6 @@ byrled
 brabbler
 bavardage
 bye
-barwing
 boleweed
 biometeorology
 bulbous
