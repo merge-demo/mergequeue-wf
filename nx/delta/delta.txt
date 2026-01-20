@@ -12788,7 +12788,6 @@ dislocability
 dosimetry
 doggrels
 dispensability
-dorsilateral
 dislocating
 depatriate
 dissemblingly
@@ -15490,6 +15489,7 @@ derobe
 dispassionateness
 disinfect
 darcy
+dorsilateral
 dement
 dewanny
 doloriferous
