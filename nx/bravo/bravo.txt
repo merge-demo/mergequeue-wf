@@ -1952,6 +1952,7 @@ beacon
 beseechment
 bisection
 bagnio
+babus
 balances
 bandstring
 bathymetric
@@ -3880,7 +3881,6 @@ bekick
 birthbed
 butterers
 bullpouts
-babus
 bawdrics
 bawdries
 boreal

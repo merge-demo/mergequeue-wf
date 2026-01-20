@@ -3087,6 +3087,7 @@ aphanophyre
 actinonema
 autacoid
 amphibolia
+ammono
 aminoguanidine
 aswing
 allantoinuria
@@ -10770,7 +10771,6 @@ anim
 antischolastic
 ammoniuret
 argolian
-ammono
 ammonoidea
 ammonoidean
 aerocartography
