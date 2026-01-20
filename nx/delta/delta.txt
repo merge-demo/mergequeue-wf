@@ -2358,6 +2358,7 @@ dwarfest
 dielike
 databases
 daphnid
+dossy
 decadally
 devocalising
 duodenopancreatectomy
@@ -14754,7 +14755,6 @@ divinator
 disabusal
 diaheliotropically
 docimasia
-dossy
 dakir
 desmacyte
 dentilated
