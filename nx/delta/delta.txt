@@ -2314,7 +2314,6 @@ daphne
 defensory
 dishwash
 dismounted
-diagraphs
 dekaparsec
 ditrigonal
 danglement
@@ -12060,6 +12059,7 @@ dacelonine
 dermatomyoma
 deutonephron
 disemploy
+diagraphs
 deschool
 dooket
 disemployment
