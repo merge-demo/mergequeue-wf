@@ -3953,6 +3953,7 @@ adipomatous
 adjutant
 anesthetic
 adjutator
+airtight
 adjute
 aqueity
 apologer
@@ -10800,7 +10801,6 @@ amosite
 armsful
 anhydric
 availably
-airtight
 amnios
 amniotes
 antipreparedness
