@@ -5757,7 +5757,6 @@ embossments
 extracts
 esophoric
 eddying
-endozoic
 endues
 ensalada
 eonism
@@ -12424,6 +12423,7 @@ exaltations
 eclipsable
 esquire
 enlimn
+endozoic
 ennoblements
 exhumatory
 emancipations

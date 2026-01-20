@@ -1936,6 +1936,7 @@ feints
 federalistic
 frogger
 furling
+flaunted
 fangot
 froze
 fungible
@@ -4309,7 +4310,6 @@ fatless
 flail
 fireward
 fumaroles
-flaunted
 fractiousness
 forehead
 forclose
