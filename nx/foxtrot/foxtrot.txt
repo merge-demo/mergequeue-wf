@@ -7923,7 +7923,6 @@ fulgour
 fiddlefaced
 forementioned
 filler
-foreshots
 facings
 flenses
 flatbread
@@ -9706,6 +9705,7 @@ foothook
 flitwite
 ferias
 flukier
+foreshots
 fudgy
 foamer
 floriform
