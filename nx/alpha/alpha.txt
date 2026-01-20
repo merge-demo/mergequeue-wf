@@ -16592,7 +16592,6 @@ auriculoparietal
 anaglyphy
 abrasax
 apepsinia
-adumbrate
 antonio
 arean
 apercus
@@ -24747,6 +24746,7 @@ absinths
 accosted
 airest
 antipathogene
+adumbrate
 adlumine
 ankylosaurus
 angule
