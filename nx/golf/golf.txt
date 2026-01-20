@@ -1508,6 +1508,7 @@ grossart
 generical
 grillages
 gaoler
+gangrene
 glebae
 grover
 gamma
@@ -6532,7 +6533,6 @@ gens
 gamete
 grotian
 grasshopper
-gangrene
 gayest
 gorinesses
 glycins
