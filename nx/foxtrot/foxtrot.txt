@@ -5463,7 +5463,6 @@ feedbin
 fettles
 flanken
 fascia
-festoonery
 ferulaic
 forshape
 filmstrip
@@ -9429,6 +9428,7 @@ franker
 fruticant
 fireguard
 fleshing
+festoonery
 flocci
 folcgemot
 flurriment
