@@ -1258,7 +1258,6 @@ balalaika
 birdberry
 batrachiate
 balan
-brittonic
 bedstead
 behindhand
 bibliographer
@@ -4682,6 +4681,7 @@ beltmaking
 bhikhari
 belch
 backwashing
+brittonic
 briquetted
 bookworms
 bedfellows

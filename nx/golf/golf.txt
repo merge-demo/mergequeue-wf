@@ -2331,7 +2331,6 @@ gaiassa
 gelant
 glyceric
 granulation
-gyres
 gelatinating
 greyfish
 geognosis
@@ -7779,6 +7778,7 @@ grypotherium
 governors
 graduses
 gentium
+gyres
 gastronomically
 girba
 glycuresis
