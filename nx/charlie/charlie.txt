@@ -1855,6 +1855,7 @@ camailed
 calzada
 camaka
 camaldolese
+chromidiosome
 camaldolesian
 camaldule
 camalote
@@ -12420,7 +12421,6 @@ chromidae
 chromide
 chiffchaff
 chromides
-chromidiosome
 circuses
 confirmor
 carolers
