@@ -2817,6 +2817,7 @@ growling
 gimmor
 grievingly
 greatcoat
+gile
 gyne
 glides
 guzzledom
@@ -7171,7 +7172,6 @@ gremio
 gypsylike
 guayaba
 greenfly
-gile
 gore
 gorebill
 gibing
