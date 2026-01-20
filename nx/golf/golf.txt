@@ -4226,7 +4226,6 @@ gainful
 gyrocompass
 gundogs
 gur
-guitarist
 gnathites
 glaswegian
 gibbeted
@@ -6962,6 +6961,7 @@ gravitater
 golgotha
 geniohyoglossal
 gonosome
+guitarist
 garbologist
 gulf
 governable

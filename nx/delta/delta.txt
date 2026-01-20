@@ -3943,7 +3943,6 @@ delectability
 dampang
 dissatisfactory
 decides
-disintensify
 duplex
 devitalise
 deputized
@@ -5525,6 +5524,7 @@ deoxygenation
 depancreatize
 drainermen
 deoxygenized
+disintensify
 demicolumn
 doubleton
 diffusionism
