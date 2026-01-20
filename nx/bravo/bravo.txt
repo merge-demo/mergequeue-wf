@@ -3204,7 +3204,6 @@ bilio
 boatwright
 bromelia
 beadily
-basidia
 bloop
 bastite
 bangash
@@ -6683,6 +6682,7 @@ blusht
 burnings
 bansalague
 bridelike
+basidia
 brainteaser
 bandaite
 barpost
