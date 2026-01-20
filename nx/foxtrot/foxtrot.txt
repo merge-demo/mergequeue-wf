@@ -63,7 +63,6 @@ fixgig
 facebow
 fractostratus
 fenchone
-firns
 feudalization
 faceharden
 financiers
@@ -5625,6 +5624,7 @@ fondler
 fisc
 frustums
 faked
+firns
 filibusterers
 forninst
 frontal
