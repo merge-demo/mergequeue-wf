@@ -3797,7 +3797,6 @@ gringolee
 granaries
 galateas
 gonged
-guttur
 gastrotrichan
 graduations
 gurdy
@@ -6999,6 +6998,7 @@ galoshed
 gigglers
 granjeno
 grove
+guttur
 grinds
 glens
 glyconeogenesis

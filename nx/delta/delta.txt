@@ -14727,7 +14727,6 @@ disposableness
 detained
 decahedral
 delft
-doctorbird
 dermestid
 doc
 declinedness
@@ -15508,6 +15507,7 @@ demodulator
 drummers
 dee
 donnas
+doctorbird
 dittander
 donnerd
 donnick
