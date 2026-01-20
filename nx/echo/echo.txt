@@ -6612,6 +6612,7 @@ extramarginal
 exserting
 eurygnathous
 equidivision
+evilmouthed
 enwrapment
 enlinking
 enguard
@@ -13198,7 +13199,6 @@ epistlar
 endergonic
 eugenist
 exegesis
-evilmouthed
 ereptase
 ethnicize
 euryalus
