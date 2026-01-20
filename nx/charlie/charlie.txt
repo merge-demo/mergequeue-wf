@@ -9491,7 +9491,6 @@ checkbook
 counterbuff
 chachalaca
 cableways
-cirrigerous
 climatically
 checkbooks
 curtest
@@ -14508,6 +14507,7 @@ cyanometry
 catheads
 cyst
 consoler
+cirrigerous
 casper
 continuantly
 cogitating
