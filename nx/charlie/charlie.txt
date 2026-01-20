@@ -3512,7 +3512,6 @@ capsula
 cons
 capsular
 conceitedness
-capsulation
 cachot
 collegatary
 chainomatic
@@ -24905,6 +24904,7 @@ carminatives
 caterans
 craniacromial
 cordately
+capsulation
 cephadia
 codices
 continuousness
