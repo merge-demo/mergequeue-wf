@@ -1469,7 +1469,6 @@ fasciculite
 flittern
 fley
 felicitators
-flavorings
 fruiter
 favourable
 fearsomely
@@ -1796,6 +1795,7 @@ foredoes
 featherwing
 fitified
 fevercup
+flavorings
 ferromagnetism
 facticity
 familiarisingly
