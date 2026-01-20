@@ -4946,6 +4946,7 @@ beefburgers
 beefeater
 beefeaters
 buccin
+builtin
 bepride
 burhinidae
 bilobular
@@ -14540,7 +14541,6 @@ bemotto
 belemnoid
 brakemaker
 brakeman
-builtin
 baby
 brakeroot
 bluebells
