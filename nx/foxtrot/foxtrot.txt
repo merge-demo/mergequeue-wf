@@ -635,6 +635,7 @@ faintingly
 fourteen
 flavorless
 fits
+fleeching
 fallibleness
 fleshes
 folly
@@ -1705,7 +1706,6 @@ frangible
 fuzes
 fairtime
 ferrament
-fleeching
 formaldehyd
 fingertip
 feria
