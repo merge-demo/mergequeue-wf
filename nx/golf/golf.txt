@@ -6359,7 +6359,6 @@ gebang
 gobo
 gaybine
 gobony
-grindelia
 glycerolyses
 gobstopper
 goosenecked
@@ -8190,6 +8189,7 @@ goby
 greekist
 gallet
 graustark
+grindelia
 gastrostomize
 gristmill
 grantsman
