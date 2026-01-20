@@ -8836,7 +8836,6 @@ gazelline
 gust
 genual
 greenwood
-garryaceae
 gandhian
 glimpsers
 grandchildren
@@ -9488,6 +9487,7 @@ grouchiness
 geminally
 gitksan
 gelds
+garryaceae
 gibbed
 garbline
 glorify
