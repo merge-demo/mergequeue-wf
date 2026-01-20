@@ -1021,7 +1021,6 @@ bailers
 brees
 birdsnest
 bunglings
-bargainwise
 bailiffs
 blennorrhea
 billons
@@ -2271,6 +2270,7 @@ bacons
 blastment
 bandar
 barbarized
+bargainwise
 beleaping
 breccia
 britannica
