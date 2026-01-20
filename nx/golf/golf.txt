@@ -10550,7 +10550,6 @@ granospherite
 gabe
 genioglossi
 gard
-gunk
 grateman
 grilling
 guillemot
@@ -10646,6 +10645,7 @@ gargets
 grandiloquent
 grutches
 gorrel
+gunk
 genera
 gamut
 galee
