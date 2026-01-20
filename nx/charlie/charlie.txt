@@ -4282,7 +4282,6 @@ carelessly
 carelessness
 careme
 carene
-chyometer
 calculator
 ceremonies
 capsulotome
@@ -13034,6 +13033,7 @@ craniates
 cyanophile
 cyanophoric
 cyanopia
+chyometer
 censerless
 colloquize
 chresard
