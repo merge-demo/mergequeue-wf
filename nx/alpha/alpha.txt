@@ -3957,7 +3957,6 @@ auntlier
 adipomatous
 adjutant
 anesthetic
-adjutator
 airtight
 adjute
 aqueity
@@ -15661,6 +15660,7 @@ armpits
 abysm
 aparaphysate
 antiorthodoxy
+adjutator
 antioxidants
 atoneable
 amygdalectomy
