@@ -3999,7 +3999,6 @@ carcajous
 carcanet
 carousel
 cathodoluminescence
-carcanetted
 carcases
 crueler
 carcass
@@ -10501,6 +10500,7 @@ comprehend
 chakar
 chiliastic
 chiliasts
+carcanetted
 chilidogs
 coropo
 coevolutionary
