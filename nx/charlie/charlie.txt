@@ -14371,7 +14371,6 @@ cryptoanalytic
 circumvolution
 curdler
 circumvolve
-circumvolved
 circumzenithal
 circus
 circusy
@@ -23615,6 +23614,7 @@ claribel
 corrodentia
 carroccio
 constituted
+circumvolved
 cultivars
 contraception
 conchological
