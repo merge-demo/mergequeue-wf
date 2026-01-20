@@ -2593,7 +2593,6 @@ grosses
 gaiterless
 giveaways
 gloveless
-generalized
 gauchely
 gangliasthenia
 glyoxyl
@@ -10117,6 +10116,7 @@ grub
 goniopholis
 galahs
 gettableness
+generalized
 greetingless
 garrulus
 galactodensimeter
