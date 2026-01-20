@@ -374,7 +374,6 @@ balkily
 brewery
 boggling
 brachypodous
-barbeque
 bovarist
 bossy
 borings
@@ -15787,6 +15786,7 @@ beclogged
 brochophony
 brocht
 brochure
+barbeque
 brekky
 balisier
 babblishly
