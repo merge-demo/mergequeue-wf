@@ -10339,7 +10339,6 @@ expecters
 effacer
 ethmopalatal
 ectases
-eyre
 epiphyllous
 embryoid
 ensignment
@@ -12306,6 +12305,7 @@ exercitation
 ensnarling
 effortless
 equilin
+eyre
 elvanitic
 ephebos
 exercitorian
