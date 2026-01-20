@@ -366,7 +366,6 @@ gantlets
 galvanography
 graftdom
 graphed
-gasogenic
 gorefish
 gangrenous
 gunsmith
@@ -7987,6 +7986,7 @@ gillflirt
 granary
 greases
 gastrotomies
+gasogenic
 glecoma
 gook
 gliriform
