@@ -2510,6 +2510,7 @@ fernyear
 furison
 fordo
 forehatch
+fortaxed
 flams
 flavic
 fluster
@@ -8730,7 +8731,6 @@ fraze
 federating
 faultlessness
 fields
-fortaxed
 foraneous
 fanlike
 factionate
