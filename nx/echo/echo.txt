@@ -4605,7 +4605,6 @@ enam
 effigies
 ectochondral
 expede
-enigmaticalness
 emperize
 encheason
 euphemism
@@ -12643,6 +12642,7 @@ equiaxial
 embanked
 epexegeses
 exodic
+enigmaticalness
 equipped
 emeralds
 essancia
