@@ -2585,7 +2585,6 @@ gweduc
 ganch
 germanly
 grig
-guff
 grubbies
 gynecium
 gurle
@@ -5868,6 +5867,7 @@ gedrite
 gurgoyl
 geocarpic
 glt
+guff
 gorkhali
 gatten
 gonophoric
