@@ -2107,7 +2107,6 @@ diploidion
 dissyllabism
 decameral
 daintify
-doline
 drawstop
 diapasm
 doab
@@ -10331,6 +10330,7 @@ dislodged
 drossing
 dioecia
 dioecian
+doline
 dioeciopolygamous
 disclout
 duodenal
