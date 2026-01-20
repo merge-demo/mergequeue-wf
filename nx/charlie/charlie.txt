@@ -12842,7 +12842,6 @@ correo
 churchgoers
 churchy
 chloridized
-churchianity
 churchyard
 crawlways
 churchyards
@@ -18628,6 +18627,7 @@ coachability
 coiner
 concoction
 coyness
+churchianity
 cerebration
 chiropterous
 continentally
