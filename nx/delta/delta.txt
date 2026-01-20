@@ -2636,7 +2636,6 @@ dinglebird
 decreers
 decolours
 decommission
-decommissioned
 discriminably
 decompensating
 decenniad
@@ -10194,6 +10193,7 @@ deltidia
 dues
 delirate
 dave
+decommissioned
 dewflower
 diverticulate
 distraint
