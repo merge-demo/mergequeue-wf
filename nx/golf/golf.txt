@@ -1932,7 +1932,6 @@ glochids
 gubat
 gullied
 gastrozooid
-globalism
 galeated
 glaikit
 globulet
@@ -3781,6 +3780,7 @@ goes
 ghostland
 gabbling
 gaugership
+globalism
 guesdism
 gadid
 grumpier
