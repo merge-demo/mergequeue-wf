@@ -3028,7 +3028,6 @@ blasts
 bartends
 burthened
 baggywrinkle
-boogyman
 blechnoid
 brilliancy
 blood
@@ -6710,6 +6709,7 @@ bergh
 brachiata
 boonless
 brooking
+boogyman
 bureaucratization
 basirhinal
 blowsily
