@@ -11947,6 +11947,7 @@ battleplane
 bravados
 bouillons
 bovovaccine
+biped
 binny
 betterly
 buggies
@@ -14805,7 +14806,6 @@ bogy
 bacury
 bootblack
 beribbon
-biped
 befretted
 baluchistan
 bowdlerize
