@@ -133,7 +133,6 @@ gadwalls
 ghillie
 girth
 gigantology
-gaelic
 gavialoid
 gynostegia
 gallicole
@@ -9478,6 +9477,7 @@ gaywings
 glues
 galloptious
 glycocholate
+gaelic
 gamble
 goto
 gibus
