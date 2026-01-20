@@ -2482,7 +2482,6 @@ archfriend
 amblycephalidae
 angiocardiography
 autocombustible
-amphicyon
 aclinic
 atrabilar
 antigene
@@ -3624,6 +3623,7 @@ arabicize
 adendritic
 akenbold
 antidromic
+amphicyon
 adenylic
 avichi
 adatom
