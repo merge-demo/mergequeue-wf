@@ -15879,6 +15879,7 @@ archils
 antipriest
 annelidian
 anno
+ascetic
 antipriesthood
 aminotriazole
 arni
@@ -20997,7 +20998,6 @@ ascendant
 arthropterous
 ascescent
 asceses
-ascetic
 appendent
 asceticism
 ascetta
