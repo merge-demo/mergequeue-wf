@@ -2374,6 +2374,7 @@ formalizing
 fer
 firecoat
 featherstitching
+fableist
 ferae
 fablers
 frequently
@@ -9050,7 +9051,6 @@ fuddle
 flavine
 functionnaire
 fernless
-fableist
 flabellarium
 fermila
 fragrantly
