@@ -8904,6 +8904,7 @@ allicient
 antennular
 amphilogy
 andy
+altaic
 arboreally
 allophones
 allophonically
@@ -20943,7 +20944,6 @@ appertains
 adipometer
 actinon
 adustiosis
-altaic
 acclimated
 andabatism
 arseno
