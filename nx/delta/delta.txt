@@ -11460,7 +11460,6 @@ disciplinarians
 disquieten
 dyspnoi
 disciplinarily
-dominial
 durative
 darkled
 disciplinate
@@ -14454,6 +14453,7 @@ demeter
 diversory
 dressmaker
 dimethylamine
+dominial
 divert
 deafen
 disraeli
