@@ -2398,7 +2398,6 @@ bemoisten
 brinkmanship
 besplash
 bardcraft
-beleve
 buckhorn
 blackcap
 biocoenosis
@@ -10737,6 +10736,7 @@ brainwashes
 bronchorrhagia
 bleats
 bleaunt
+beleve
 bellbine
 bilaminated
 bleck
