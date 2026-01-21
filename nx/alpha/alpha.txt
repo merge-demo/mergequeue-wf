@@ -23724,6 +23724,7 @@ anisuria
 alopecurus
 auscultascope
 adzes
+anovular
 andropetalar
 academic
 auscultates
@@ -24955,7 +24956,6 @@ arrondissements
 awareness
 arbitrable
 auribromide
-anovular
 awaruite
 awat
 atomizing
