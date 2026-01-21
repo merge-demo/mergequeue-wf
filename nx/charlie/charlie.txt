@@ -4006,7 +4006,6 @@ carcassing
 carcavelhos
 coonjine
 carceag
-camanay
 cheerfulness
 carangoid
 carcels
@@ -4614,6 +4613,7 @@ carnival
 carnivalesque
 contrastimulation
 carnivals
+camanay
 carnivoral
 canvasado
 carnivore
