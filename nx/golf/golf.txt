@@ -4333,6 +4333,7 @@ gyrinidae
 gelsemia
 goldbeating
 germicide
+guipure
 gymnadenia
 grieves
 gridelin
@@ -5524,7 +5525,6 @@ giggly
 guester
 glue
 grammatically
-guipure
 glisk
 gruffed
 gastruran
