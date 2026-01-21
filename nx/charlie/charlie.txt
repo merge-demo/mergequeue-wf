@@ -7831,7 +7831,6 @@ certiorate
 certis
 certitudes
 certosa
-cyathium
 certose
 certosina
 canewares
@@ -9280,6 +9279,7 @@ chattelism
 caravaning
 crassis
 chattels
+cyathium
 calamities
 craunch
 cocainizing
