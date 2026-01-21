@@ -3519,6 +3519,7 @@ frostfishes
 forepart
 foreseason
 foreinstruct
+fostered
 fighteress
 fatigation
 fighting
@@ -8911,7 +8912,6 @@ fossulae
 flatfishes
 fumarium
 featureless
-fostered
 fator
 figeter
 flickers
