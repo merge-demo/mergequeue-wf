@@ -3910,6 +3910,7 @@ gradientia
 geochronometry
 gonosomal
 gifola
+gymnospermic
 galleriies
 geometer
 geologic
@@ -7394,7 +7395,6 @@ gastronomics
 gunation
 galactin
 geologist
-gymnospermic
 gaggler
 gluttonised
 gymnolaema
