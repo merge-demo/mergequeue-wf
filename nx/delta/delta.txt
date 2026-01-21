@@ -6307,7 +6307,6 @@ dermatozoon
 deadens
 dermatozoonosis
 dogfishes
-dryophyllum
 dermatozzoa
 dermatrophia
 disgrade
@@ -7476,6 +7475,7 @@ disulphid
 detruncation
 damneder
 dodgery
+dryophyllum
 detrusion
 detumescence
 detune

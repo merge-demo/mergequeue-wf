@@ -5998,7 +5998,6 @@ gazogenes
 gawney
 galactopathy
 goldener
-ginkgoes
 garreted
 gnotobiologies
 groucho
@@ -9627,6 +9626,7 @@ graphical
 geodynamical
 guidage
 groveller
+ginkgoes
 gauteite
 gershon
 gruels
