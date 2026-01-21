@@ -5787,7 +5787,6 @@ archiannelida
 ageisms
 antiturnpikeism
 arithmetical
-atteal
 agelaus
 amateur
 acquent
@@ -8755,6 +8754,7 @@ autoimmunization
 asthmatics
 allocations
 amyosthenia
+atteal
 amender
 adeptly
 adamastor
