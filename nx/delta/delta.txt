@@ -4929,6 +4929,7 @@ disomus
 demotions
 deferent
 dysmeromorph
+diandrous
 daystar
 discreated
 demarking
@@ -16890,7 +16891,6 @@ dispends
 drumfish
 dullishly
 dobchick
-diandrous
 disaggregated
 damboard
 deuzan
