@@ -5022,7 +5022,6 @@ girondist
 granddada
 guidances
 gypper
-ginglymostomoid
 granita
 gainst
 growze
@@ -7552,6 +7551,7 @@ gangs
 garamond
 glabellous
 gryllus
+ginglymostomoid
 gubernaculum
 graypate
 gemstones
