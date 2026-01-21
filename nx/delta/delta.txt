@@ -10571,6 +10571,7 @@ diacidic
 dipleural
 docetically
 daedal
+demigrate
 dionysian
 dimeric
 demobs
@@ -10603,7 +10604,6 @@ dislikes
 disequilibrium
 diplomas
 disslander
-demigrate
 dippable
 dolmen
 durukuli
