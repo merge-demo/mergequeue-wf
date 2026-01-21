@@ -6850,7 +6850,6 @@ foresworn
 furthering
 felloe
 frayed
-fried
 focimetry
 formative
 fellata
@@ -11342,6 +11341,7 @@ faultfinding
 fossilogist
 furfuralcohol
 freebees
+fried
 flathat
 floodlight
 faceted
