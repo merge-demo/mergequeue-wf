@@ -3864,6 +3864,7 @@ chrisma
 carbomethene
 carbomethoxy
 carbomethoxyl
+croupily
 carbon
 carbonaceous
 cuter
@@ -19935,7 +19936,6 @@ colortype
 cuscuses
 comitje
 chunters
-croupily
 coml
 commandable
 commandatory
