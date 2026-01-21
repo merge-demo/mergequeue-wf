@@ -1700,6 +1700,7 @@ bedticks
 bensh
 bathless
 bhd
+bezoardic
 byganging
 barbels
 barchan
@@ -10624,7 +10625,6 @@ bazookamen
 biomicroscopy
 bluesides
 bermudians
-bezoardic
 bespeech
 biotelemetric
 biffies
