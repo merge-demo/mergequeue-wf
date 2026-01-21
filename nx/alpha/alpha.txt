@@ -15755,7 +15755,6 @@ ablauts
 adelphic
 agonistical
 anvilled
-aviolite
 amidic
 amphibiotica
 acarpellous
@@ -22470,6 +22469,7 @@ anamnestically
 anthemideae
 aleurones
 astrophotographic
+aviolite
 astrophotometer
 astroscopy
 autocratorical
