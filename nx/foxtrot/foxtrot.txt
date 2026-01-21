@@ -1880,7 +1880,6 @@ flabellation
 fizzes
 fatuously
 fec
-fantoddish
 feelingly
 fecundate
 fianchetti
@@ -5605,6 +5604,7 @@ fillet
 ferally
 faradises
 formatters
+fantoddish
 fanjets
 fiddlies
 fleshliness
