@@ -9137,6 +9137,7 @@ girthline
 glutination
 glathsheimr
 goadster
+glycyl
 gease
 glaucomys
 glumal
@@ -10770,7 +10771,6 @@ gloam
 graminin
 gimbals
 glamourie
-glycyl
 gutt
 greenbrier
 gourmandism
