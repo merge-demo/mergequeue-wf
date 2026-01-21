@@ -8165,6 +8165,7 @@ giblets
 grimily
 granophyre
 guidon
+gambades
 gimlet
 gassier
 gruesomeness
@@ -9790,7 +9791,6 @@ gymnasium
 guidonian
 gyrinus
 gourmander
-gambades
 greyhounds
 grocerwise
 gloomiest
