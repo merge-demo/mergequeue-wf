@@ -13999,7 +13999,6 @@ antechoirs
 axostyle
 antecolic
 antecornu
-antecourt
 antecubital
 antecurvature
 afshah
@@ -23120,6 +23119,7 @@ arthurian
 albumoses
 anthroponym
 areopagy
+antecourt
 astonishingness
 antinode
 aberdonian
