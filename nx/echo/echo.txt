@@ -8788,7 +8788,6 @@ estriols
 embrue
 exhedra
 euphyllite
-eradicable
 encelia
 episcopolatry
 enticement
@@ -12687,6 +12686,7 @@ erotogenic
 effrontery
 exterritoriality
 epicotyledonary
+eradicable
 exonerating
 ephemerous
 euclase
