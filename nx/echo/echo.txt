@@ -1200,7 +1200,6 @@ entrochite
 epipany
 exceptiveness
 expectancies
-educand
 edification
 evanished
 educatability
@@ -6023,6 +6022,7 @@ exhaustlessly
 egbo
 extraconstellated
 excogitative
+educand
 enumerates
 enterospasm
 eustacies
