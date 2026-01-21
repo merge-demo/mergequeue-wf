@@ -4673,6 +4673,7 @@ fistwise
 fit
 fireproof
 fringilliform
+feere
 firmland
 finecomb
 fibrocalcareous
@@ -9655,7 +9656,6 @@ forwalk
 foolmonger
 fogginess
 flaser
-feere
 flatette
 forepale
 final
