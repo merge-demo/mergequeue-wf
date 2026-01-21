@@ -952,7 +952,6 @@ bustier
 bagwork
 birmingham
 bahadur
-beverage
 battutos
 bahaist
 blocs
@@ -5630,6 +5629,7 @@ blobbed
 bomi
 bombloads
 belaboring
+beverage
 battlement
 bronchopleurisy
 baghla
