@@ -973,6 +973,7 @@ gamophagy
 grave
 glisters
 ghostless
+gastroesophageal
 graptolite
 gunshot
 glanis
@@ -5483,7 +5484,6 @@ galoshe
 gender
 granomerite
 groupageness
-gastroesophageal
 galliwasp
 guniter
 gambist

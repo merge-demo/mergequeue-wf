@@ -507,7 +507,6 @@ famished
 faitours
 fomented
 fainant
-fawningly
 fistical
 fundulus
 feckfully
@@ -9075,6 +9074,7 @@ fourther
 fireroom
 fouter
 foliator
+fawningly
 forniciform
 fustie
 facade
