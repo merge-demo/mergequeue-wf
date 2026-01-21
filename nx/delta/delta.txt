@@ -4307,7 +4307,6 @@ demarcatordemarcators
 disks
 decempedate
 disaffects
-defected
 demarchy
 dinical
 demaree
@@ -8415,6 +8414,7 @@ delocalizing
 darwinize
 draftable
 dustsheet
+defected
 digestant
 disniche
 dialysis
