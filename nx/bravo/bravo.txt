@@ -8953,7 +8953,6 @@ baboon
 biocide
 bookcases
 bioclimatic
-brutalising
 bowwoman
 bioclimatician
 bioclimatology
@@ -13295,6 +13294,7 @@ butch
 bosn
 balneologist
 brinkless
+brutalising
 bundists
 bosniak
 breastwise
