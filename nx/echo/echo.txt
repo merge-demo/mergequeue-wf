@@ -6650,7 +6650,6 @@ empyreumata
 enantiomeric
 ekistic
 elephantlike
-enzymologies
 emmarbling
 escalops
 enterohydrocele
@@ -8490,6 +8489,7 @@ endures
 epsilons
 equivalency
 entryways
+enzymologies
 entrants
 emda
 enregiment
