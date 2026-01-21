@@ -4870,6 +4870,7 @@ embusy
 eucatropine
 escapable
 egalitarians
+epigenesis
 exorciser
 epidermatoid
 encoder
@@ -13907,7 +13908,6 @@ extramatrical
 etheria
 extrameridional
 electoral
-epigenesis
 eurygaea
 extrametrical
 eccl
