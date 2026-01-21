@@ -4262,7 +4262,6 @@ appoint
 azophosphore
 aromatophore
 adrenalcortical
-appoggiature
 archesporium
 adrenalectomize
 aumous
@@ -19284,6 +19283,7 @@ anagrammed
 arenilitic
 anthraquinonyl
 apocalyptical
+appoggiature
 alberca
 aristas
 absentmindedly
