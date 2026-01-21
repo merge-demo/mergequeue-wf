@@ -9421,7 +9421,6 @@ glossolalist
 goutiness
 glonoin
 gnomists
-garotes
 gurly
 germigenous
 grannyknot
@@ -10771,6 +10770,7 @@ glycyl
 gutt
 greenbrier
 gourmandism
+garotes
 grapheme
 gung
 gunroom
