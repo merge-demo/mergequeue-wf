@@ -9565,7 +9565,6 @@ checksum
 cocarde
 checksumming
 castro
-cleaverwort
 cistaceae
 chromogenous
 capacitively
@@ -10101,6 +10100,7 @@ curing
 chesterfield
 chesterfieldian
 chestfuls
+cleaverwort
 chesty
 chestier
 collaudation
