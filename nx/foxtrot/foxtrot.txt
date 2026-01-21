@@ -10122,6 +10122,7 @@ feminacy
 fringetail
 foreplot
 forhooy
+forspoke
 farmerlike
 frixion
 frogskin
@@ -11101,7 +11102,6 @@ fedia
 forgathered
 filled
 fixups
-forspoke
 fogbow
 frowner
 frayproof
