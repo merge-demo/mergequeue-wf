@@ -2717,7 +2717,6 @@ ganodont
 globoids
 genioglossus
 gelling
-genitocrural
 grout
 guptavidya
 guara
@@ -8312,6 +8311,7 @@ gelders
 gastroplasty
 granam
 graphitize
+genitocrural
 gastrotubotomy
 graphitizing
 gutturalising
