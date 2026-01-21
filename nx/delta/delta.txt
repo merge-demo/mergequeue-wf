@@ -5828,7 +5828,6 @@ dassies
 denture
 dekle
 disauthentic
-doubled
 dextrocerebral
 dowel
 diabolos
@@ -18599,6 +18598,7 @@ despisableness
 doleritic
 dustheap
 dedo
+doubled
 daincha
 dustless
 droguet
