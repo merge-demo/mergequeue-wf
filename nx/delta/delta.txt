@@ -4027,7 +4027,6 @@ delict
 drainman
 demineralize
 deaquation
-deliquescence
 delictual
 disobeyed
 delieret
@@ -7606,6 +7605,7 @@ dactylonomy
 devadasi
 deval
 devaloka
+deliquescence
 drenched
 declinable
 devaluates
