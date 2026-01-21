@@ -578,6 +578,7 @@ electrified
 echinodorus
 est
 epixylous
+excerpt
 endotheliotoxin
 echinoid
 exequial
@@ -8731,7 +8732,6 @@ empathizing
 electroencephalograph
 engs
 equisided
-excerpt
 equisignal
 eyelast
 erethitic
