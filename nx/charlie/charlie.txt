@@ -2610,7 +2610,6 @@ calcination
 castile
 caned
 canela
-canellaceous
 cuttlefish
 canellas
 codified
@@ -14349,6 +14348,7 @@ chinking
 cankering
 coifed
 curriery
+canellaceous
 carvist
 cayubaban
 circumvallate
