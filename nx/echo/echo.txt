@@ -1494,6 +1494,7 @@ eelpout
 effort
 ethmovomer
 environic
+eliminating
 emmenic
 epanorthotic
 exenteritis
@@ -2217,7 +2218,6 @@ empathy
 electron
 esprits
 enchurch
-eliminating
 exsanguinating
 epimyocardial
 eths
