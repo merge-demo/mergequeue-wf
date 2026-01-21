@@ -5314,7 +5314,6 @@ endoskeletons
 endosmic
 embaphium
 edged
-endosmoses
 excepted
 explicit
 excursuses
@@ -5594,6 +5593,7 @@ embryulcus
 essexite
 evaporate
 equalization
+endosmoses
 epidendrum
 elutions
 ethyl
