@@ -2645,7 +2645,6 @@ foresheet
 ferromanganese
 ferrometer
 ferronatrite
-florideae
 fluorouracil
 financiere
 frangulaceae
@@ -6441,6 +6440,7 @@ febricide
 fiddlery
 fumatories
 fendering
+florideae
 fissipeda
 frizado
 frags
