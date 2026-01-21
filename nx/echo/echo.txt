@@ -3169,6 +3169,7 @@ empennage
 equiangularity
 even
 encomiums
+enrobed
 effervesce
 ell
 ecdysones
@@ -6395,7 +6396,6 @@ ensafe
 earthward
 emulsor
 euskarian
-enrobed
 emblazes
 encrinitical
 entelechial
