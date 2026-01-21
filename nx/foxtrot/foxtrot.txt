@@ -5517,6 +5517,7 @@ forefend
 feasten
 forefigure
 furor
+fructokinase
 flurt
 freezers
 ferrary
@@ -7647,7 +7648,6 @@ fuzils
 foretake
 fowent
 fellatee
-fructokinase
 formers
 fragor
 foreclosure
