@@ -1978,6 +1978,7 @@ exarchateship
 elementalist
 erdvark
 elishah
+enfilades
 enfierce
 etymologer
 extraterrestrials
@@ -5563,7 +5564,6 @@ experimentations
 excriminate
 eirenicon
 extraovular
-enfilades
 eerinesses
 exestuate
 extrapituitary
