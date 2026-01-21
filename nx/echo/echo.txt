@@ -9152,7 +9152,6 @@ elabor
 expulser
 episplenitis
 exumbrella
-emoting
 entanglers
 extraduction
 elidible
@@ -9963,6 +9962,7 @@ estrif
 enterocele
 elisor
 elk
+emoting
 estrums
 ethenol
 enskies
