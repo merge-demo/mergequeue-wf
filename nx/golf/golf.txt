@@ -5896,6 +5896,7 @@ gaatch
 grundel
 griddled
 gasfiring
+gaultherase
 geolatry
 grandesque
 gravimetric
@@ -7285,7 +7286,6 @@ gambeering
 gratuitousness
 glochines
 guarani
-gaultherase
 gavages
 glabella
 gangion
