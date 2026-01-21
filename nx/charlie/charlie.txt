@@ -9920,7 +9920,6 @@ cresylene
 coenamors
 chemotaxy
 collocatory
-chemotaxonomic
 controls
 corocleisis
 chemotherapeutical
@@ -15876,6 +15875,7 @@ coassumes
 cledde
 cocuiza
 cledgy
+chemotaxonomic
 calibrator
 currishness
 cleech
