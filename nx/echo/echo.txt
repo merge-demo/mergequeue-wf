@@ -7025,6 +7025,7 @@ esperanto
 encycl
 esophagopathy
 entrec
+exptl
 exiting
 effecting
 excisor
@@ -7932,7 +7933,6 @@ evolvements
 endosmosis
 euorthoptera
 exudates
-exptl
 epicele
 exordia
 epimandibular
