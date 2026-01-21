@@ -10685,6 +10685,7 @@ dwarfism
 dunnaged
 diplont
 diplonts
+ditetrahedral
 dichlamydeous
 diplophase
 difficultness
@@ -15954,7 +15955,6 @@ dissimulative
 dimberdamber
 dubba
 devolutionary
-ditetrahedral
 drafts
 duodenocholangitis
 dasnt
