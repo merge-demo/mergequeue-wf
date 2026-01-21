@@ -2082,6 +2082,7 @@ ache
 alkalinising
 artemisin
 affiliation
+acoupe
 amylohydrolytic
 antiputrefactive
 anammonid
@@ -25214,7 +25215,6 @@ atomists
 atlas
 anticked
 antienzymatic
-acoupe
 aalii
 atrocha
 abscisse
