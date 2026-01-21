@@ -117,6 +117,7 @@ enumerate
 enchisel
 equilibrial
 entone
+expiratory
 earreach
 engineership
 enamoured
@@ -3846,7 +3847,6 @@ exclam
 ekerite
 endoradiosonde
 enterprisingly
-expiratory
 embolism
 esthetical
 exla
