@@ -3881,7 +3881,6 @@ fungistat
 frieseite
 flavanthrene
 favous
-farcer
 frizette
 folksinger
 frustulum
@@ -6509,6 +6508,7 @@ formularization
 flagelliferous
 fairlike
 fireworm
+farcer
 fatiguabilities
 fossae
 fluoride
