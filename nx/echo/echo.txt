@@ -7370,6 +7370,7 @@ electrolyze
 experiencible
 engorgement
 epaulement
+ebeneous
 evaporite
 eyries
 epee
@@ -12483,7 +12484,6 @@ excusively
 etiogenic
 elfdom
 epacme
-ebeneous
 eluviates
 enteropneusta
 erythrophage
