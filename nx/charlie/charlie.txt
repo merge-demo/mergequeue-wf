@@ -7129,7 +7129,6 @@ crenelating
 centerer
 centerfold
 cobalticyanides
-coofs
 centerfolds
 cretoria
 centering
@@ -13717,6 +13716,7 @@ communiqu
 cinchophen
 cinchotine
 cullions
+coofs
 cincinni
 cinclides
 composture
