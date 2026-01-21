@@ -2923,7 +2923,6 @@ fungiferous
 forzato
 fistulate
 fervescence
-fruitlet
 flamberg
 farsightedly
 flows
@@ -4618,6 +4617,7 @@ flagellation
 fruitcake
 flashboard
 faciolingual
+fruitlet
 fourth
 feudists
 frit
