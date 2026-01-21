@@ -3983,6 +3983,7 @@ foresummon
 fishplate
 fimbriate
 fendered
+fiftypenny
 fullest
 foeniculum
 formaldehydesulphoxylate
@@ -7891,7 +7892,6 @@ fashes
 frounces
 frontier
 filthier
-fiftypenny
 fastness
 feltyflier
 fleamy
