@@ -1699,6 +1699,7 @@ arteriograph
 adventurism
 astr
 anorganic
+armers
 alkalimeter
 arank
 ambiguously
@@ -17458,7 +17459,6 @@ aerodyne
 anticlinal
 availability
 anamorphic
-armers
 aurigid
 amplifying
 autobasidia

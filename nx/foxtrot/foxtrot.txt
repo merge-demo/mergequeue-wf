@@ -154,7 +154,6 @@ folden
 fellaheen
 ferreters
 facks
-forefront
 forcible
 fumitories
 flatteringly
@@ -11133,6 +11132,7 @@ fiesta
 functors
 formational
 foulard
+forefront
 functus
 furivae
 frostwork
