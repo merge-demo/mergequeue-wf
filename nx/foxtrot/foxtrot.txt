@@ -2958,7 +2958,6 @@ flagonless
 fetus
 flyboy
 fourneau
-furazane
 fossane
 fencing
 forereaching
@@ -3910,6 +3909,7 @@ finalization
 furfooz
 freedoms
 filleting
+furazane
 feckless
 futurism
 frazzling
