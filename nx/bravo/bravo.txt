@@ -5894,7 +5894,6 @@ babylonish
 bucconasal
 blackman
 begaudy
-bellweed
 beggardom
 bretons
 bellwether
@@ -6614,6 +6613,7 @@ bluff
 betowered
 bacharach
 barege
+bellweed
 bukh
 bavaroy
 bodyplate
