@@ -4218,7 +4218,6 @@ glycoproteid
 gastroarthritis
 goodly
 guaranin
-gaslit
 gainful
 gyrocompass
 gundogs
@@ -5035,6 +5034,7 @@ goldic
 generant
 gymnogen
 galling
+gaslit
 glew
 goodwilled
 gunnels
