@@ -4755,6 +4755,7 @@ diemaker
 dentalizing
 decametre
 dolphin
+datch
 desiderta
 disenslave
 diphthong
@@ -18502,7 +18503,6 @@ dyslogistically
 daringly
 duramens
 daffish
-datch
 drongos
 duffer
 durances
