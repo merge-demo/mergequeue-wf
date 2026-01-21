@@ -3858,7 +3858,6 @@ expletory
 emended
 emending
 escribano
-emerge
 escapology
 echinostomiasis
 espriella
@@ -8088,6 +8087,7 @@ emerize
 everyplace
 extensum
 enfacing
+emerge
 eriophyid
 eaglehawk
 epiphloeum
