@@ -10474,7 +10474,6 @@ diphenylamine
 diervilla
 diphenylchloroarsine
 diphenylene
-dogmatic
 discoideae
 diodon
 disnatural
@@ -12886,6 +12885,7 @@ duci
 dunnages
 dicotyledon
 devotionally
+dogmatic
 destructor
 dam
 dribblets
