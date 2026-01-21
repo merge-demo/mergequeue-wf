@@ -6258,6 +6258,7 @@ dermatography
 dezincation
 dermatolysis
 dirtbird
+delegable
 doormats
 duchesnea
 deutobromide
@@ -17720,7 +17721,6 @@ demultiplex
 dedifferentiation
 decanonization
 divulgate
-delegable
 dubbins
 dicarbonate
 dubiety

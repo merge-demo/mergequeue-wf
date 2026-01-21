@@ -3933,7 +3933,6 @@ bch
 borsholder
 bchs
 ballotage
-bd
 boracium
 buttonholes
 butternose
@@ -8750,6 +8749,7 @@ bengal
 backberand
 bimaxillary
 bobsleigh
+bd
 bimbisara
 basibranchial
 bromopnea
