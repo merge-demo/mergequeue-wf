@@ -2145,7 +2145,6 @@ banty
 betangle
 bedless
 bewith
-bribery
 bantu
 bantus
 baboonish
@@ -10624,6 +10623,7 @@ biomicroscopy
 bluesides
 bermudians
 bespeech
+bribery
 biotelemetric
 biffies
 blats
