@@ -1013,6 +1013,7 @@ gubernia
 gimleting
 genetta
 gemmed
+gainsay
 gadoids
 gabgab
 gaminish
@@ -9099,7 +9100,6 @@ gallium
 gravels
 gryllos
 gaffle
-gainsay
 grilse
 gyromagnetic
 glossitis
