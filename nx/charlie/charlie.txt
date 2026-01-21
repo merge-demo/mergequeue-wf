@@ -22777,6 +22777,7 @@ cismarine
 consecrate
 consecrater
 contramarque
+coliseums
 consecrates
 clearage
 coticular
@@ -28602,7 +28603,6 @@ catechus
 cremation
 cremationism
 cremationist
-coliseums
 colacobiotic
 caulerpaceae
 changa
