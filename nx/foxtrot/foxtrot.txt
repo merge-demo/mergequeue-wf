@@ -6882,7 +6882,6 @@ floridean
 fiefdom
 foal
 foldaway
-feretory
 ferryman
 farfal
 flourishes
@@ -10340,6 +10339,7 @@ finickingness
 frust
 fgrid
 fustian
+feretory
 fennecs
 foundationed
 ferronickel

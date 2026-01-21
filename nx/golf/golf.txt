@@ -2504,6 +2504,7 @@ gallants
 gnathidium
 gullish
 gerbils
+gambrel
 geoisotherm
 golandause
 greekish
@@ -4574,7 +4575,6 @@ geotropy
 gamb
 grapey
 gucked
-gambrel
 galactoma
 gumwoods
 genius
