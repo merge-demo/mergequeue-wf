@@ -2554,7 +2554,6 @@ childproof
 cacqueteuse
 candlenut
 candlepins
-chemist
 clustery
 candlerent
 concealed
@@ -3505,6 +3504,7 @@ capsizes
 ciliiferous
 capsizing
 capernaitish
+chemist
 contagion
 capsomers
 capstan
