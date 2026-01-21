@@ -4393,7 +4393,6 @@ granulite
 gemstone
 gravestead
 gluily
-gharries
 greenhew
 ginglymostoma
 glucose
@@ -5625,6 +5624,7 @@ gelilah
 goutier
 greenroom
 glucaemia
+gharries
 gumming
 gripless
 glaieul
