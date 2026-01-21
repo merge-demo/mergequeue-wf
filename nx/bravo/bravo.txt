@@ -503,7 +503,6 @@ bombsights
 bescoundrel
 bancal
 beckoners
-bicentennial
 beltis
 boarstaff
 backstromite
@@ -4897,6 +4896,7 @@ bedur
 brimmingly
 backsplicing
 bedeswomen
+bicentennial
 bonos
 buonamano
 belavendered
