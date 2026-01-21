@@ -11876,7 +11876,6 @@ essang
 encounter
 excelsior
 eventfulness
-entremets
 earthily
 emotivism
 excentric
@@ -13425,6 +13424,7 @@ escapeway
 englishable
 exposture
 encephalola
+entremets
 emotion
 entropium
 eightscore
