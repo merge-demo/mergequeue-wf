@@ -1365,7 +1365,6 @@ gluconate
 grimier
 gested
 gheleem
-gemelled
 gieing
 gunky
 guideline
@@ -2663,6 +2662,7 @@ galler
 gymnosophist
 guest
 glossopetra
+gemelled
 glossosteresis
 gambir
 gastrocolic
