@@ -3510,6 +3510,7 @@ fruitstalk
 forebowline
 franklinist
 forswearer
+faster
 firmisternial
 figgiest
 frayn
@@ -9030,7 +9031,6 @@ fiacre
 freethinking
 footle
 frigorific
-faster
 ferrimagnetism
 folded
 feverwort
