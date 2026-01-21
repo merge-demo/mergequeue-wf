@@ -8509,6 +8509,7 @@ cephalomotor
 champy
 conjoint
 coe
+cubicle
 capparidaceous
 conylene
 coquillage
@@ -17993,7 +17994,6 @@ clubwood
 circumvolving
 castano
 coelentera
-cubicle
 cookshack
 colics
 catharses

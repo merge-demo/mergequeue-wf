@@ -2484,7 +2484,6 @@ deporte
 debased
 ditchdown
 dirigent
-defoliant
 deckhand
 deckle
 dandily
@@ -11561,6 +11560,7 @@ discoloration
 discolorations
 discolored
 dar
+defoliant
 doest
 dissectors
 defalcations
