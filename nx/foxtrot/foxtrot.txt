@@ -4164,7 +4164,6 @@ fusiladed
 fiorite
 fraternisation
 falsehoods
-fergus
 fornenst
 faff
 flywheel
@@ -7404,6 +7403,7 @@ fallibilism
 francolin
 freshment
 femereil
+fergus
 fossilism
 frache
 fagald
