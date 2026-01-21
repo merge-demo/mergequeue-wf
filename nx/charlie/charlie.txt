@@ -13245,7 +13245,6 @@ coulometric
 crossrail
 cycloaliphatic
 cycloalkane
-cyclobothra
 carmakers
 chronometers
 constableship
@@ -31731,6 +31730,7 @@ cuculine
 customance
 cystenchymatous
 customariness
+cyclobothra
 customer
 customers
 copernicia
