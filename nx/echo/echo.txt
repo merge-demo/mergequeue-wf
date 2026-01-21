@@ -502,6 +502,7 @@ endgame
 enanthesis
 epitheliomata
 evector
+enchiridia
 ecclesia
 elapsing
 extoll
@@ -12498,7 +12499,6 @@ everyway
 elytriform
 elvanite
 enoplion
-enchiridia
 exinguinal
 elatrometer
 electrodissolution
