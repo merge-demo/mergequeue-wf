@@ -14605,6 +14605,7 @@ correlated
 classroom
 cystocarcinoma
 carlina
+ceramicist
 cystocele
 cystodynia
 cystoelytroplasty
@@ -25409,7 +25410,6 @@ corning
 cornishman
 cornless
 cornmeal
-ceramicist
 chillagite
 cornmeals
 cornmuse
