@@ -12659,7 +12659,6 @@ athirst
 antipriming
 angiectasis
 abortively
-apostemate
 apyrous
 amphitrite
 avarice
@@ -23253,6 +23252,7 @@ australorp
 asphodeline
 attornare
 antirealism
+apostemate
 accumulator
 arrhythmias
 albizzia
