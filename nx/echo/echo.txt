@@ -735,7 +735,6 @@ enode
 eyefuls
 enterozoa
 encephalometric
-epyllion
 equalable
 encrustment
 eosinate
@@ -6504,6 +6503,7 @@ electrolyzing
 epizoisms
 ensurance
 entitative
+epyllion
 excited
 endings
 exposed
