@@ -8604,6 +8604,7 @@ diaphoreses
 diaphoretical
 disanimate
 devoutlessness
+dependencies
 diaphoretics
 denaturalise
 doozy
@@ -14872,7 +14873,6 @@ donnish
 disazo
 documents
 dowitcher
-dependencies
 depurging
 dodder
 differingly
