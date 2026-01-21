@@ -6022,7 +6022,6 @@ cathedraticum
 cathern
 coverlets
 cattail
-clienteles
 coiffes
 crabgrass
 catheterism
@@ -18533,6 +18532,7 @@ cytopathogenic
 cohering
 coquicken
 coheritor
+clienteles
 chondrosarcomas
 croceus
 candidest
