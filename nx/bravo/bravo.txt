@@ -8930,7 +8930,6 @@ bioactivities
 bioastronautics
 bungalow
 belcher
-bulbul
 boozes
 barleysick
 bioblastic
@@ -10130,6 +10129,7 @@ bizygomatic
 bokos
 bedstring
 burglarious
+bulbul
 bizones
 bergeret
 biblos
