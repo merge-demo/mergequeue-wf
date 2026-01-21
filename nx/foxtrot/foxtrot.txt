@@ -4202,6 +4202,7 @@ forthrights
 firebox
 flocculation
 freighted
+functor
 farkleberries
 felineness
 fuligulinae
@@ -7109,7 +7110,6 @@ filla
 festination
 focalising
 filippic
-functor
 frittered
 frescoist
 frigorifical
