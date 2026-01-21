@@ -429,7 +429,6 @@ eeler
 emergent
 enthroned
 encyclopedism
-empestic
 eightvos
 europa
 exosseous
@@ -2734,6 +2733,7 @@ electrotherapy
 electrotheraputic
 elocution
 emyds
+empestic
 esophagus
 empyreumatic
 elaeopten
