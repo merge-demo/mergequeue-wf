@@ -4015,7 +4015,6 @@ genospecies
 gargoyle
 gynecocratical
 gregarinina
-guardage
 grassnut
 grex
 gluttonousness
@@ -10532,6 +10531,7 @@ georgia
 grallic
 galeorchis
 gilgul
+guardage
 gilly
 gatecrashers
 galleting
