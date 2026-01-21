@@ -3961,6 +3961,7 @@ delegateship
 dermographism
 digressiveness
 dibasicity
+damping
 dipteros
 delegations
 desexing
@@ -18018,7 +18019,6 @@ denitrated
 disgallant
 demanders
 doroscentral
-damping
 dacryocystalgia
 duteous
 dissoconch
