@@ -1307,7 +1307,6 @@ dorsigerous
 disorder
 dault
 dolorimetric
-diageotropism
 docetic
 dysesthesia
 determinants
@@ -17145,6 +17144,7 @@ decius
 doaty
 dimwittedness
 disgaveled
+diageotropism
 diaphaneity
 diswont
 davyum
