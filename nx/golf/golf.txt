@@ -5635,6 +5635,7 @@ glucaemia
 gharries
 gumming
 gripless
+grantia
 glaieul
 geochemist
 geophysical
@@ -10312,7 +10313,6 @@ gault
 glabreity
 granulations
 guinfo
-grantia
 getsul
 glassfuls
 gruesome
