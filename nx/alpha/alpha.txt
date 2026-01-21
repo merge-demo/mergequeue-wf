@@ -10467,7 +10467,6 @@ autoracemization
 advent
 ambulatoriums
 alcuinian
-amygdalin
 antepenuit
 antiderivative
 anachromasis
@@ -20681,6 +20680,7 @@ annunciates
 afflicts
 artiad
 artichoke
+amygdalin
 autoagglutinating
 afghani
 amphorous
