@@ -6276,7 +6276,6 @@ gyse
 grapples
 goatsbeard
 gwyniad
-gleed
 guestimate
 giglot
 gliders
@@ -10846,6 +10845,7 @@ grailer
 granddaddy
 gymnasiarch
 grumps
+gleed
 graphis
 galianes
 gramashes
