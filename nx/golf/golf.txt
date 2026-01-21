@@ -3365,6 +3365,7 @@ gula
 germanized
 goosewinged
 gourmand
+glissandos
 germanizer
 gloominess
 germanness
@@ -8534,7 +8535,6 @@ goanese
 glarily
 geology
 goodyear
-glissandos
 goatishness
 gerontophilia
 galactonic
