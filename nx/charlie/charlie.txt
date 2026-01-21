@@ -3139,6 +3139,7 @@ capcase
 celotomy
 craterid
 cristatella
+cultual
 cape
 chequerboard
 capelan
@@ -30896,7 +30897,6 @@ cultrate
 cultrated
 cyclitol
 cults
-cultual
 cobwebbery
 cultural
 culturally
