@@ -4251,6 +4251,7 @@ divisors
 deadening
 dem
 demagnetisation
+deducing
 dovelet
 demagnetising
 diacranteric
@@ -12057,7 +12058,6 @@ demirep
 disaffected
 divia
 dilacerate
-deducing
 deleading
 defenseman
 dowses
