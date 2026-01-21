@@ -2027,6 +2027,7 @@ fedora
 fide
 flipper
 fautor
+fusils
 fullymart
 florilegium
 fibreglass
@@ -3081,7 +3082,6 @@ fuzing
 fountaineer
 ferberite
 fluorin
-fusils
 frounceless
 freend
 flowerfly
