@@ -2209,7 +2209,6 @@ aquatinta
 achondritic
 agrostology
 autodecremented
-antiantidote
 arioso
 alure
 amyelotrophy
@@ -6437,6 +6436,7 @@ angiosperms
 ahartalav
 anophthalmus
 abolisher
+antiantidote
 alarming
 ahead
 arthrodiran
