@@ -7721,7 +7721,6 @@ eyeleting
 everyness
 erythraea
 epirogeny
-epidermic
 epidermical
 endocranial
 enteroplasty
@@ -9077,6 +9076,7 @@ entergogenic
 extravascular
 erythrocytoschisis
 engaud
+epidermic
 eremic
 epenthesis
 entastic
