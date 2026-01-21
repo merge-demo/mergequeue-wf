@@ -5649,6 +5649,7 @@ graminaceae
 grabman
 goldseed
 grisping
+geotectonics
 glochid
 garnice
 gradable
@@ -7244,7 +7245,6 @@ gony
 greenthumbed
 gooroo
 generality
-geotectonics
 griefs
 geocratic
 gape
