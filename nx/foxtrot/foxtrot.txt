@@ -3102,6 +3102,7 @@ funnellike
 fisherboat
 feringi
 fibro
+forbiddenly
 fantastico
 fantasia
 fennecs
@@ -7493,7 +7494,6 @@ fasted
 foobar
 forged
 flimsily
-forbiddenly
 febrifuges
 fuage
 fulling
