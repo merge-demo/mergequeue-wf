@@ -2749,7 +2749,6 @@ blitum
 betrothals
 balandrana
 brasen
-betaken
 beladies
 barognosis
 besague
@@ -3749,6 +3748,7 @@ beautifully
 behatted
 bibliothque
 bodysurfing
+betaken
 bemist
 battologise
 baldoquin
