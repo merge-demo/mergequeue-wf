@@ -1006,7 +1006,6 @@ dineutron
 drawbars
 diathermal
 daggly
-darkskin
 darksum
 domineers
 decimeter
@@ -1612,6 +1611,7 @@ dinginess
 diadrome
 derision
 disenrol
+darkskin
 damagingly
 decl
 dealcoholize
