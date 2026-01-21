@@ -4626,6 +4626,7 @@ carns
 chamaecistus
 caro
 clothmaker
+cookstove
 contemplator
 caroa
 colleger
@@ -24339,7 +24340,6 @@ cookshop
 cookshops
 chiliasms
 cards
-cookstove
 colligible
 contumacies
 coreveler
