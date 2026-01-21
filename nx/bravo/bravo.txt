@@ -60,7 +60,6 @@ bish
 bundocks
 babbly
 befrogged
-bartram
 brushable
 babbit
 botrytises
@@ -5299,6 +5298,7 @@ brawn
 beady
 betsy
 beggiatoaceae
+bartram
 bitonality
 blurs
 beggingly
