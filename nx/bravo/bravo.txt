@@ -2589,7 +2589,6 @@ barters
 blackie
 baryon
 brio
-ballutes
 burlington
 baryphonia
 bronzesmith
@@ -3948,6 +3947,7 @@ boarts
 booksellerish
 bombardier
 bocstaff
+ballutes
 bdelloura
 bisected
 bassette
