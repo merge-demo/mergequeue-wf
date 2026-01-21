@@ -3042,7 +3042,6 @@ bartisan
 burnetize
 ballrooms
 belibeled
-bisyllabic
 barflies
 bah
 basters
@@ -10580,6 +10579,7 @@ baccilla
 bromobenzyl
 bashlik
 blastoporal
+bisyllabic
 bicylindrical
 breachers
 blastosphere
