@@ -1383,6 +1383,7 @@ forwear
 fatiguesome
 fulminuric
 fatiha
+formable
 fruticeous
 flaxdrop
 flenser
@@ -8576,7 +8577,6 @@ flet
 fetiparous
 feme
 foreboder
-formable
 foreslack
 foun
 felstones
