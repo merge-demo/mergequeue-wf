@@ -5685,7 +5685,6 @@ figureheads
 futtah
 flintiness
 forgetfulness
-flicker
 fixity
 flocculently
 fiords
@@ -6214,6 +6213,7 @@ fouls
 flossiest
 filibusterism
 feverberry
+flicker
 fervidity
 freighter
 familiarised

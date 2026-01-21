@@ -3157,7 +3157,6 @@ graduators
 germinative
 guise
 grecing
-gastrea
 geopolitical
 gayer
 grangers
@@ -5951,6 +5950,7 @@ goliardeys
 gilgames
 granivorous
 grackle
+gastrea
 grogshops
 goofs
 gambirs
