@@ -4279,6 +4279,7 @@ galactolytic
 gumptionless
 gingerberry
 gloats
+glb
 grulla
 gastriloquism
 guider
@@ -5223,7 +5224,6 @@ gyrophoraceae
 gomutis
 graylags
 graphophobia
-glb
 gastratrophia
 gossipred
 gesticulator
