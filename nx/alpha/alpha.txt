@@ -216,7 +216,6 @@ avidous
 anthropomorphidae
 acroclinium
 apotactite
-alantolic
 apteran
 acology
 abbotcies
@@ -18825,6 +18824,7 @@ ambush
 achromatophil
 acylogen
 autumnally
+alantolic
 aeriferous
 aprilis
 antimonarch
