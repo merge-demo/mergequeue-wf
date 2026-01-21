@@ -6735,7 +6735,6 @@ eager
 exacters
 endamebiasis
 entertainingly
-electrophysics
 entertainment
 elaborately
 enmuffle
@@ -13370,6 +13369,7 @@ evolvable
 extrametaphysical
 encowl
 erithacus
+electrophysics
 evolved
 exceedingly
 enrough
