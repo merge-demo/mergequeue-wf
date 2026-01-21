@@ -2098,7 +2098,6 @@ conli
 campaign
 clotheshorses
 coadjacence
-campaigns
 campana
 campane
 campanella
@@ -3369,6 +3368,7 @@ coparenary
 camaldolensian
 commissariat
 coderives
+campaigns
 caponize
 crispate
 caponized
