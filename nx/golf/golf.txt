@@ -3856,7 +3856,6 @@ giarre
 gorgio
 gastaldo
 governing
-gallantry
 gibber
 grandmotherhood
 grallatores
@@ -10506,6 +10505,7 @@ gynecic
 garbardine
 ghoulishness
 graduand
+gallantry
 guauaenok
 gingerade
 gnome
