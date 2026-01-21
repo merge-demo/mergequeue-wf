@@ -7601,6 +7601,7 @@ guserid
 goniatitidae
 greywether
 gynecophoric
+grigris
 geraniol
 gymnospermae
 gemini
@@ -8716,7 +8717,6 @@ grapy
 geyser
 glossless
 gritty
-grigris
 gres
 galerum
 gawkishly
