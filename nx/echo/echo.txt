@@ -2070,7 +2070,6 @@ elamite
 episcope
 electrophorese
 eject
-eudialyte
 enteroscopy
 exacum
 elanet
@@ -12842,6 +12841,7 @@ emboss
 eccentrics
 exothermically
 eloignment
+eudialyte
 eupomatia
 ern
 extrinsicate
