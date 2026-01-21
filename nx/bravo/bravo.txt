@@ -9970,7 +9970,6 @@ bulliform
 benzoated
 bitterroot
 brachydactylia
-barrowful
 backfall
 berrying
 bevatron
@@ -16844,6 +16843,7 @@ bicarbonate
 begari
 blindfolding
 blackener
+barrowful
 budger
 bagasse
 budgerow
