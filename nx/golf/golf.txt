@@ -1574,7 +1574,6 @@ gripers
 growed
 geez
 gilpy
-gravaminous
 galileo
 gracilariid
 gery
@@ -9547,6 +9546,7 @@ goondie
 gorilloid
 grounders
 gonyaulax
+gravaminous
 graceful
 goniotropous
 gabbroid
