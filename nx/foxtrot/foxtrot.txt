@@ -805,7 +805,6 @@ freesp
 fiendism
 frangipane
 fills
-frightened
 filtratable
 fichteanism
 farmost
@@ -4538,6 +4537,7 @@ furthermost
 foreloop
 fishspear
 fluffier
+frightened
 fertilizations
 fountainwise
 faldage
