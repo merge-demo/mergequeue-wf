@@ -4500,6 +4500,7 @@ dotier
 dispiritedness
 demihagbut
 dispair
+disenabled
 demihaque
 demijambe
 demulcent
@@ -12066,7 +12067,6 @@ diagraphs
 deschool
 dooket
 disemployment
-disenabled
 duplicates
 differen
 disenchant
