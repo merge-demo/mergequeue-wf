@@ -12326,7 +12326,6 @@ angiostomy
 androgone
 andrographis
 autoallogamy
-acrotomous
 adamsite
 andromache
 admonitive
@@ -18039,6 +18038,7 @@ anhidrosis
 adminicle
 adular
 acopon
+acrotomous
 aim
 aporosa
 anteoperculum
