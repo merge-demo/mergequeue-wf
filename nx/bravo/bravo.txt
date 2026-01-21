@@ -5029,7 +5029,6 @@ bombernickel
 beetled
 boite
 beblear
-banqueteer
 bookmaking
 braunschweiger
 bookselling
@@ -5880,6 +5879,7 @@ beneme
 batholith
 beefin
 bypaths
+banqueteer
 bandhava
 beerocracy
 bellowsful
