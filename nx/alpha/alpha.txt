@@ -13174,7 +13174,6 @@ animuses
 amiles
 anisado
 alphecca
-askable
 anisal
 araks
 antiphysician
@@ -16452,6 +16451,7 @@ abietinic
 almacantar
 apulmonic
 autolysin
+askable
 armoire
 aeron
 anvils
