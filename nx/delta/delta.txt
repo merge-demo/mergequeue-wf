@@ -9160,7 +9160,6 @@ doffs
 detriment
 disdiaclasis
 draintile
-digitoxin
 didicoy
 deadpanner
 digger
@@ -16854,6 +16853,7 @@ dumbs
 dreadable
 directorial
 daftnesses
+digitoxin
 dreaded
 disadventurous
 disentailment
