@@ -5229,6 +5229,7 @@ guavas
 gallates
 gemman
 guidwillie
+gueparde
 grandioseness
 gaussbergite
 glutenous
@@ -10848,7 +10849,6 @@ graphis
 galianes
 gramashes
 geryoniidae
-gueparde
 gorging
 guidance
 gluttery
