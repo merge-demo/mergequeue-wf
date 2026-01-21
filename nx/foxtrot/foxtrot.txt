@@ -4904,7 +4904,6 @@ furnishing
 fodder
 foliums
 froebelism
-fustigate
 floor
 frondose
 fairbanks
@@ -9041,6 +9040,7 @@ falconries
 favositoid
 formally
 francophilism
+fustigate
 fourierism
 foldwards
 festivally
