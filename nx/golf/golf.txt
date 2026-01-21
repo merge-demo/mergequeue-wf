@@ -1433,6 +1433,7 @@ glottalizing
 germanize
 gaits
 gypsies
+gouvernantes
 goniometric
 glaucophane
 ganyie
@@ -3845,7 +3846,6 @@ goggle
 giantsize
 geodist
 gaub
-gouvernantes
 giantlike
 gherao
 giarre
