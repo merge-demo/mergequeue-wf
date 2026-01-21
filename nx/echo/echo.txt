@@ -6744,6 +6744,7 @@ endosepsis
 epicenters
 emunge
 enuresis
+easting
 exstill
 entete
 eurytherm
@@ -12417,7 +12418,6 @@ exhilaratingly
 endite
 engobe
 euroaquilo
-easting
 epifaunas
 epitympanum
 exhortations
