@@ -1115,6 +1115,7 @@ envined
 epimerize
 encushion
 edificed
+encyclopedias
 enlightens
 essayish
 edifying
@@ -4681,7 +4682,6 @@ evolve
 eremiteship
 enchoric
 extraterritorials
-encyclopedias
 essoign
 exuberance
 entablement
