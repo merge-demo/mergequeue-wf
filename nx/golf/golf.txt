@@ -1405,6 +1405,7 @@ gerodermia
 gauss
 groundkeeper
 ginners
+goodwives
 garglers
 graplins
 glyoxylic
@@ -7006,7 +7007,6 @@ glens
 glyconeogenesis
 grapevine
 gybed
-goodwives
 germander
 garrigue
 groundsman
