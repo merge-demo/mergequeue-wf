@@ -5523,6 +5523,7 @@ enfatico
 elasmosaur
 enfeeblements
 exorcising
+excaudate
 experimenting
 exoterics
 electrosensitive
@@ -8311,7 +8312,6 @@ ennobles
 epithalline
 edgiest
 emunctory
-excaudate
 einstein
 electropuncturation
 ecumenicality
