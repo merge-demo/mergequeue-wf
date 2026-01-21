@@ -2251,6 +2251,7 @@ gleit
 gallicization
 grieced
 ginglyni
+glycosuric
 grisled
 genette
 gekkonid
@@ -3648,7 +3649,6 @@ glycerogelatin
 glumella
 gourmandize
 galvanisation
-glycosuric
 gladsomeness
 ghoulishly
 gausses
