@@ -4572,6 +4572,7 @@ echinodermal
 excubitoria
 emberizidae
 enterocystoma
+extrabranchial
 electing
 embeggar
 earthmove
@@ -4896,7 +4897,6 @@ explete
 epitaxic
 encrustation
 elepaio
-extrabranchial
 excitoglandular
 empoisons
 exoperidium
