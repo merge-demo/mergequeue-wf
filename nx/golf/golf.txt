@@ -5541,7 +5541,6 @@ gimmer
 goods
 goodyera
 gutium
-glossoptosis
 glyphic
 goldilocks
 glink
@@ -9983,6 +9982,7 @@ governesshood
 gradgrindism
 gymnite
 gulleting
+glossoptosis
 guardable
 guardedness
 gastroparalysis
