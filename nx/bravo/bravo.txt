@@ -4541,7 +4541,6 @@ blankest
 brigadiership
 barricaded
 burnsides
-batata
 becudgels
 bosons
 bilixanthin
@@ -11434,6 +11433,7 @@ bepistoled
 brimstonewort
 bons
 bescorches
+batata
 brachiocyllosis
 bluebill
 bowlfuls
