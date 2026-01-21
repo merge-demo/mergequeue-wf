@@ -565,7 +565,6 @@ falconinae
 fleeces
 factitial
 funambulant
-falcons
 falculate
 fawnery
 fifie
@@ -10177,6 +10176,7 @@ frisch
 friskingly
 frondiform
 feudatary
+falcons
 firster
 foredecree
 fravashi
