@@ -1993,6 +1993,7 @@ gimbal
 grubroot
 grudged
 gonif
+gongman
 galician
 goschens
 gryphaea
@@ -10071,7 +10072,6 @@ geomorphologist
 gueridons
 goupin
 gasking
-gongman
 galette
 gossypols
 guerison
