@@ -1594,7 +1594,6 @@ grassless
 geothermally
 gassed
 grana
-glaciologist
 glutelin
 germinancy
 glassless
@@ -7194,6 +7193,7 @@ gabelle
 glider
 guans
 gaffs
+glaciologist
 gorgerin
 gynogenetic
 gauming
