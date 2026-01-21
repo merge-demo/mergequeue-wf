@@ -2390,7 +2390,6 @@ electroplates
 ecphova
 eclogic
 egba
-explees
 episteme
 eloise
 exhaustable
@@ -11386,6 +11385,7 @@ eupnoeic
 enervative
 exhaustibility
 evaluating
+explees
 emergers
 extenders
 erysiphaceae
