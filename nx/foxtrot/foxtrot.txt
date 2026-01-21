@@ -6266,7 +6266,6 @@ fetidity
 frequented
 foredoor
 fraughts
-furiosity
 ferrums
 filicinean
 fewness
@@ -8427,6 +8426,7 @@ frogeye
 ferryway
 flaveria
 filchingly
+furiosity
 forkless
 formicative
 forklike
