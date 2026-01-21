@@ -769,7 +769,6 @@ electrothanatosis
 emancipate
 extoled
 effaces
-exuvium
 ecotype
 ecotipically
 epicanthi
@@ -5581,6 +5580,7 @@ expediences
 evangel
 extratympanic
 empathetically
+exuvium
 evader
 estimably
 endaortic
