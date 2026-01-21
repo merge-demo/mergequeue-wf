@@ -8342,7 +8342,6 @@ enolized
 electrodeposit
 elev
 expressibly
-endured
 exulted
 emulating
 evangelise
@@ -11339,6 +11338,7 @@ episcoparian
 epoche
 excoriator
 esperantism
+endured
 ecurie
 entirety
 echiurida
