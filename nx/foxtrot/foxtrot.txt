@@ -2038,6 +2038,7 @@ fefnicute
 frizzer
 fullam
 flanking
+featherdom
 fardels
 flanconnade
 feetfirst
@@ -8485,7 +8486,6 @@ floweriness
 foppish
 forpine
 furca
-featherdom
 fantail
 fathercraft
 franciscan
