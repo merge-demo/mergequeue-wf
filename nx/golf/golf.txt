@@ -6020,7 +6020,6 @@ glaciable
 glutose
 gluttonish
 granulous
-geometry
 gonadectomizing
 gutterman
 giallolino
@@ -8620,6 +8619,7 @@ glasslike
 grouped
 gunpapers
 gravisphere
+geometry
 guiltlessly
 gammoner
 gateado
