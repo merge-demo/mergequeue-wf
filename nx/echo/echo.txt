@@ -6647,6 +6647,7 @@ eviller
 edificant
 enframe
 eartagged
+electrohydraulic
 empyreumata
 enantiomeric
 ekistic
@@ -11685,7 +11686,6 @@ entoplastic
 enfire
 exactitude
 etymons
-electrohydraulic
 eulogias
 exactness
 exactors
