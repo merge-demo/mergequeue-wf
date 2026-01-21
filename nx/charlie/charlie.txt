@@ -5958,7 +5958,6 @@ carnivorous
 catfaced
 caduca
 constructable
-compunctiously
 chivy
 catfacing
 catfall
@@ -11190,6 +11189,7 @@ chilopodous
 chloranemia
 chloranemic
 chuffs
+compunctiously
 chloranil
 carrying
 carosse
