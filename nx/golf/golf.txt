@@ -1439,6 +1439,7 @@ ganyie
 gallotannin
 gonidia
 gasified
+glaciate
 gausterer
 glossocomon
 gowned
@@ -9525,7 +9526,6 @@ gasolinic
 gluish
 guaharibo
 gabriella
-glaciate
 grumbling
 gawky
 graduation
