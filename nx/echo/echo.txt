@@ -5573,7 +5573,6 @@ exestuate
 extrapituitary
 enucleator
 erroneousness
-essentiality
 enkolpia
 evocators
 eugenists
@@ -11012,6 +11011,7 @@ excludes
 eoside
 eigenfrequency
 escobita
+essentiality
 enlightenments
 ecologically
 electrokinematics
