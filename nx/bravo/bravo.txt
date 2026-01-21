@@ -7576,7 +7576,6 @@ banes
 boehmite
 butterbill
 baronga
-bernicle
 bevoiled
 becco
 bloodweed
@@ -14599,6 +14598,7 @@ broma
 branchiness
 beglobed
 butterburr
+bernicle
 blockage
 blackcurrant
 betrail
