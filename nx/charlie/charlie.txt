@@ -9725,7 +9725,6 @@ cycloolefinic
 channelizes
 chiloncus
 cheilodipterus
-cheiloplasty
 cheilostomata
 cheilostomatous
 censer
@@ -12343,6 +12342,7 @@ christos
 christward
 cresting
 classing
+cheiloplasty
 chromaffinic
 chromamamin
 corelate

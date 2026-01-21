@@ -3557,7 +3557,6 @@ figurable
 figurae
 forebowels
 formulism
-fictionalizes
 farness
 flubbing
 fleches
@@ -7689,6 +7688,7 @@ fructuarius
 funiculus
 flays
 forespeak
+fictionalizes
 fawns
 faradising
 ferricyanic
