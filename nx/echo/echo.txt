@@ -1335,7 +1335,6 @@ encircler
 estrado
 eassel
 enteroid
-elohist
 epyllia
 electrocardiogram
 exodium
@@ -2219,6 +2218,7 @@ epimedium
 equips
 erythemic
 extromit
+elohist
 emissitious
 eminent
 ectomorphic
