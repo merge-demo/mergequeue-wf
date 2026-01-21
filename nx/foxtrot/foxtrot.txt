@@ -2203,7 +2203,6 @@ funnels
 felonwort
 falutin
 flatterdock
-fraudproof
 fertilizing
 femorocele
 fogyisms
@@ -7175,6 +7174,7 @@ forges
 fidgety
 fraken
 fingerspin
+fraudproof
 fennig
 fledge
 fedayeen
