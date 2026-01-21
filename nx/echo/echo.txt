@@ -3981,7 +3981,6 @@ eugregarinida
 epimeron
 emolument
 epithelial
-elevator
 emotivity
 exorability
 emendicate
@@ -12072,6 +12071,7 @@ engulfs
 edentates
 expressor
 easels
+elevator
 echevaria
 ekphoria
 erepsin
