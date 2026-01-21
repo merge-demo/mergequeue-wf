@@ -3565,7 +3565,6 @@ auricles
 adducible
 ampelideous
 adducted
-aviculture
 aviatrices
 adducting
 aides
@@ -7411,6 +7410,7 @@ araneida
 asteroxylon
 acknowing
 albrecht
+aviculture
 allonge
 albricias
 arable
