@@ -8753,7 +8753,6 @@ equitemporaneous
 eluted
 edo
 ethysulphuric
-effulgence
 embrowd
 escortment
 endopods
@@ -9916,6 +9915,7 @@ exhaustively
 emmensite
 endlichite
 enterritoriality
+effulgence
 ephedrin
 ewe
 educible
