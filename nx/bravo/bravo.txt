@@ -5906,7 +5906,6 @@ boarfishes
 basimesostasis
 beigy
 boatsmanship
-belomancy
 breadlessness
 belonephobia
 belonger
@@ -11125,6 +11124,7 @@ bedwarfed
 blockboard
 beblain
 brazilette
+belomancy
 butomaceae
 blocked
 blocker
