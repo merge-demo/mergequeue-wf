@@ -13516,7 +13516,6 @@ compilers
 chisel
 chrysocolla
 cholelithotripsy
-cylindroid
 ceratites
 caudillos
 cylindromatous
@@ -16229,6 +16228,7 @@ cavus
 clinchers
 clinches
 clinchingly
+cylindroid
 capkin
 counterplotter
 chargeability
