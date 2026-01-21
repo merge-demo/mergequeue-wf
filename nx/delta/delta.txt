@@ -1386,7 +1386,6 @@ disposition
 dissatisfactoriness
 desipient
 diligentia
-disintegrable
 dulcid
 dechoralize
 darkly
@@ -5584,6 +5583,7 @@ dichromatopsia
 depersonalise
 depersonalising
 desponded
+disintegrable
 diplomatology
 discipled
 deputes
