@@ -1197,7 +1197,6 @@ enchytraeidae
 edoni
 excisemen
 entrochite
-edrioasteroidea
 epipany
 exceptiveness
 expectancies
@@ -6793,6 +6792,7 @@ educator
 euclid
 extramural
 encage
+edrioasteroidea
 entire
 epithumetic
 engluts
