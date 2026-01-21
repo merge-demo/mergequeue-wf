@@ -8675,7 +8675,6 @@ etherialism
 expositions
 epipoditic
 eggcrate
-enmeshed
 elechi
 enplanement
 elastometer
@@ -10032,6 +10031,7 @@ epinician
 euptelea
 eternalised
 enweb
+enmeshed
 extradict
 emotiomuscular
 electrode
