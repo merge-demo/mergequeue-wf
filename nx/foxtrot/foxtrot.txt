@@ -6745,7 +6745,6 @@ forevouched
 ferroaluminum
 foehnlike
 furcilia
-foretopman
 fulgurating
 flossing
 forenotice
@@ -10489,6 +10488,7 @@ firstling
 forcaria
 filesmith
 fadingness
+foretopman
 feudalistic
 fossified
 firsts
