@@ -3599,7 +3599,6 @@ getling
 goldenest
 getpenny
 gracile
-gawish
 garotting
 gunkholed
 gapo
@@ -5380,6 +5379,7 @@ gabionade
 gurnards
 gymnophiona
 glassmen
+gawish
 greener
 glycollate
 ghibli
