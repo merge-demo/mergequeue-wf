@@ -4699,7 +4699,6 @@ companero
 complicatedness
 chwana
 contrary
-comptoir
 centerline
 carotinemia
 carotinoid
@@ -21601,6 +21600,7 @@ counteroffensives
 cilery
 condensaries
 camla
+comptoir
 condensates
 crick
 condensation

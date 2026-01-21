@@ -2885,7 +2885,6 @@ electroluminescent
 exteriorate
 errorful
 expediencies
-explicans
 evenhanded
 enaluron
 elephantiasis
@@ -10145,6 +10144,7 @@ extrusible
 ecthlipses
 endorses
 etherealness
+explicans
 escherichia
 emeer
 equisetum
