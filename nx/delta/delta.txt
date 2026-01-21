@@ -7780,7 +7780,6 @@ deadweight
 deviser
 devising
 detailism
-diglyph
 devisor
 deodorant
 destress
@@ -18013,6 +18012,7 @@ dulcigenic
 dictyota
 dehydrogenizer
 delouses
+diglyph
 dungon
 doffing
 denitrated
