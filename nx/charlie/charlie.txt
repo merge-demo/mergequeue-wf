@@ -15257,6 +15257,7 @@ ceromancy
 claywares
 caam
 colours
+calcspar
 costmaries
 crassina
 clam
@@ -25098,7 +25099,6 @@ corejoice
 caryophyllene
 corelated
 chemosurgical
-calcspar
 carrotins
 clishmaclaver
 corelational

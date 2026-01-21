@@ -4849,7 +4849,6 @@ brazenface
 bikh
 bepaper
 beshrouded
-bolometer
 bedstraws
 boundedly
 brephic
@@ -7863,6 +7862,7 @@ butterflyer
 bibenzyl
 biberon
 betrough
+bolometer
 benzolize
 bibionid
 bathochromatism
