@@ -3520,7 +3520,6 @@ gleaners
 gerate
 glut
 guimpes
-gemsbucks
 goutily
 glaucosis
 gamont
@@ -3585,6 +3584,7 @@ gesticulant
 gumshoing
 gavage
 gesticulations
+gemsbucks
 grueller
 guberla
 gagman
