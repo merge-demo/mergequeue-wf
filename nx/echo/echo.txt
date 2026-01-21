@@ -6195,6 +6195,7 @@ elision
 enlisted
 ennoblement
 estuant
+enviable
 euryhaline
 embarcadero
 exesion
@@ -8232,7 +8233,6 @@ exodontic
 erythrodextrin
 episcia
 extracting
-enviable
 elydoric
 exaltee
 epistases
