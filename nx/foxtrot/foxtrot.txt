@@ -1483,6 +1483,7 @@ favourable
 fearsomely
 foreshows
 fabulate
+flabelliform
 forewonted
 flytes
 flaillike
@@ -10306,7 +10307,6 @@ frogeyed
 farewelling
 feltlike
 florentium
-flabelliform
 fibra
 filite
 floated
