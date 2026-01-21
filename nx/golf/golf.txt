@@ -1642,7 +1642,6 @@ glossy
 gillies
 guaguanche
 gobiesocidae
-glyptics
 gastralgy
 gumweeds
 gaunted
@@ -10582,6 +10581,7 @@ glossed
 greaser
 gumweed
 grandisonian
+glyptics
 grenadier
 gonidium
 geotectonically
