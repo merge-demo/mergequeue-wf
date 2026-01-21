@@ -10545,7 +10545,6 @@ blart
 blastings
 boomers
 batodendron
-berrichon
 brickfielder
 bestayed
 bering
@@ -13948,6 +13947,7 @@ boride
 bilious
 bedrite
 bowing
+berrichon
 bowings
 barkentine
 burglarproof
