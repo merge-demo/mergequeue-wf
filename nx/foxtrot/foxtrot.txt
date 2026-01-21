@@ -6820,7 +6820,6 @@ farthings
 fibroadenoma
 forwent
 fragilities
-flimsily
 folliculin
 frigoric
 fuchsinophil
@@ -7494,6 +7493,7 @@ floccillation
 fasted
 foobar
 forged
+flimsily
 forbiddenly
 febrifuges
 fuage
