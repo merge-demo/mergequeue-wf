@@ -4924,7 +4924,6 @@ frankpledge
 funambulating
 flaring
 frabbit
-forearm
 froglet
 flagellatory
 fulgora
@@ -5988,6 +5987,7 @@ flushes
 flaxier
 ferroelectric
 faden
+forearm
 frogged
 famacide
 frankliniana
