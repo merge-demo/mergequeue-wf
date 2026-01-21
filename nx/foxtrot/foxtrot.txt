@@ -1751,6 +1751,7 @@ feoffors
 forfare
 foreshore
 facty
+fixes
 floriferous
 fretfully
 farcemeat
@@ -4932,7 +4933,6 @@ flails
 feuilletonism
 furoic
 fraughtage
-fixes
 flong
 frailties
 fatigable
