@@ -1187,7 +1187,6 @@ galactometry
 gnetums
 galliferous
 gunung
-guffin
 gaol
 gulls
 graphometry
@@ -2353,6 +2352,7 @@ guige
 geistlich
 graviton
 gateman
+guffin
 gramineal
 gamine
 geomaly
