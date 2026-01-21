@@ -2114,7 +2114,6 @@ banshies
 bornan
 bronchostomy
 besetment
-betrough
 branchihyal
 bourkha
 bolos
@@ -7869,6 +7868,7 @@ barrad
 butterflyer
 bibenzyl
 biberon
+betrough
 benzolize
 bibionid
 bathochromatism
