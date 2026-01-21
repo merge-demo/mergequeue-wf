@@ -9179,6 +9179,7 @@ biospeleology
 bitterns
 biosphere
 bionomical
+beknotting
 biostatic
 biostatical
 bilobular
@@ -14995,7 +14996,6 @@ bankings
 brachets
 braquemard
 blastemal
-beknotting
 breastbeam
 burut
 bungerly
