@@ -10869,7 +10869,6 @@ eimer
 etamins
 eudemony
 explodes
-extinctions
 engine
 electrocuting
 execrates
@@ -13853,6 +13852,7 @@ enmities
 exstimulate
 eyestrings
 exchanges
+extinctions
 extractant
 enchiridion
 euphorbiaceous
