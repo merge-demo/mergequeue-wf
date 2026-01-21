@@ -8405,7 +8405,6 @@ benzocoumaran
 betask
 bygo
 bathythermogram
-bimetallist
 bygone
 bathhouses
 bist
@@ -14152,6 +14151,7 @@ brachyglossal
 babuls
 blase
 burgul
+bimetallist
 baring
 blusterously
 brachygnathia
