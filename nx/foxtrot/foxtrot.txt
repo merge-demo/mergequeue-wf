@@ -4285,7 +4285,6 @@ fracases
 freakishness
 flicflac
 faxed
-fatting
 fireplug
 firepot
 frijolillo
@@ -5884,6 +5883,7 @@ flytiers
 fulhams
 flimflammery
 fights
+fatting
 fpsps
 fictile
 fortunous
