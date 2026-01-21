@@ -2121,6 +2121,7 @@ birthrights
 beleaguerment
 braccae
 bosch
+bronzes
 brouillon
 bailors
 barring
@@ -3287,7 +3288,6 @@ babbler
 bloodiest
 basions
 backstabbed
-bronzes
 branchiostegan
 bushfighter
 beadlery
