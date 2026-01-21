@@ -293,6 +293,7 @@ geobotany
 ganjas
 gaminesque
 gaist
+governors
 giles
 garnison
 grantsmanship
@@ -7777,7 +7778,6 @@ ged
 grandada
 goss
 grypotherium
-governors
 graduses
 gentium
 gyres
