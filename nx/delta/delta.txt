@@ -7012,7 +7012,6 @@ debrided
 despoilments
 deorganize
 diatesseron
-decadence
 deface
 despondence
 despondencies
@@ -12503,6 +12502,7 @@ dishwasher
 discharm
 dishwashers
 depside
+decadence
 demonstrant
 dishwashings
 dowitchers
