@@ -12359,7 +12359,6 @@ abrogable
 annihilability
 autodermic
 asphyxy
-alternators
 approval
 acatholic
 allotypy
@@ -20566,6 +20565,7 @@ actinosome
 assimulate
 arctiid
 agend
+alternators
 arrased
 ageable
 altazimuth
