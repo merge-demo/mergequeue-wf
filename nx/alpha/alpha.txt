@@ -5805,7 +5805,6 @@ asperness
 achiote
 acculturizing
 archfelon
-anisocarpic
 advocation
 ampyx
 agendas
@@ -18849,6 +18848,7 @@ aulae
 archhumbug
 anilinophile
 agriology
+anisocarpic
 archibenthic
 archiblastic
 anodonta
