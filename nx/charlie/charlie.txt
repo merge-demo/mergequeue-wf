@@ -7749,6 +7749,7 @@ ceriums
 corambis
 chloroplatinite
 cermet
+coadaptation
 cyamid
 caramelising
 cermets
@@ -18944,7 +18945,6 @@ coupelet
 cochal
 conjugate
 cryptoclimatology
-coadaptation
 collarless
 collatee
 carate
