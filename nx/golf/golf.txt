@@ -2534,7 +2534,6 @@ griths
 glaciolacustrine
 gushed
 graeme
-goshawks
 ganofs
 gloriation
 gatha
@@ -9252,6 +9251,7 @@ greenyard
 greened
 gripping
 genupectoral
+goshawks
 grade
 gelandesprung
 glycocin
