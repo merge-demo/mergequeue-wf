@@ -3275,7 +3275,6 @@ fuchsone
 fiddles
 flunkies
 fiendishness
-falern
 ferrean
 fictioner
 furbisher
@@ -5328,6 +5327,7 @@ farse
 fulfil
 fleas
 fratcheous
+falern
 fireproofing
 foramina
 flavid
