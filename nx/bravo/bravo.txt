@@ -3739,6 +3739,7 @@ battler
 beaued
 battleships
 barrace
+becrowded
 blushiness
 battlesome
 bimestrial
@@ -4521,7 +4522,6 @@ bronchiectatic
 becroak
 bedead
 bureaucratism
-becrowded
 burstwort
 brickset
 boundure
