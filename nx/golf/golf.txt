@@ -1457,7 +1457,6 @@ gloves
 garreteer
 greenless
 gola
-gregor
 graniferous
 glycyrrhiza
 germanism
@@ -1836,6 +1835,7 @@ gold
 gthite
 geosynchronous
 giddies
+gregor
 generativeness
 gazetting
 grummeter
