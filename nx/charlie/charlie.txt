@@ -19550,7 +19550,6 @@ coltoria
 clubbier
 capparidaceae
 cryptocarpous
-coltpixy
 coltsfoot
 coltsfoots
 captivities
@@ -26645,6 +26644,7 @@ carotins
 counteractively
 cardiectomy
 chartermaster
+coltpixy
 chaetophoraceae
 cavish
 conflagrate
