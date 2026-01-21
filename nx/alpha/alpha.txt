@@ -5339,7 +5339,6 @@ anterosuperior
 acid
 affrightment
 affronted
-avine
 anidiomatic
 adenose
 affronts
@@ -13566,6 +13565,7 @@ abend
 arborator
 acrity
 adrenaline
+avine
 adinole
 aulostomus
 adat
