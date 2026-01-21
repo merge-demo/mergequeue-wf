@@ -5412,7 +5412,6 @@ crinicultural
 congestible
 cinemograph
 corncob
-calibrators
 crummies
 cibolan
 corv
@@ -12567,6 +12566,7 @@ chromoxylograph
 chron
 cacothes
 concurrences
+calibrators
 concubitus
 chronic
 chronica
