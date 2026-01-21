@@ -4374,7 +4374,6 @@ enterointestinal
 exceeders
 epicanthus
 exothermous
-enwoman
 enamour
 expostulator
 effuse
@@ -6700,6 +6699,7 @@ enterorrhagia
 enterorrhaphy
 enhalo
 eurycephalic
+enwoman
 euphemising
 eutychianism
 erythrogonium
