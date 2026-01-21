@@ -5893,6 +5893,7 @@ gastrostomies
 glucinums
 gangflower
 graders
+guiles
 grapelike
 giggle
 gasterozooid
@@ -9067,7 +9068,6 @@ geog
 gobletful
 gravenstein
 galvanothermy
-guiles
 geohydrologic
 groomer
 grillee
