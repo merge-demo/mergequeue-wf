@@ -646,7 +646,6 @@ crutchlike
 caesardom
 caesarean
 caesareans
-cardiopyloric
 campagnol
 connubialism
 cottage
@@ -29184,6 +29183,7 @@ crippleness
 caumatic
 cardia
 crippler
+cardiopyloric
 cripples
 creaser
 capillarity
