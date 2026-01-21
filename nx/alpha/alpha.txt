@@ -12302,6 +12302,7 @@ auk
 abnormally
 acervuli
 anticourt
+arbitraries
 anisotropic
 androclinia
 atrabilaire
@@ -16107,7 +16108,6 @@ aerospace
 ascians
 acerb
 abets
-arbitraries
 autolyzing
 acrididae
 argumentatious
