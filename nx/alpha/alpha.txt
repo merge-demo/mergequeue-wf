@@ -2826,7 +2826,6 @@ acheirous
 apachette
 awork
 antiferromagnetic
-austronesian
 amaxomania
 asphyxiative
 acidophile
@@ -9010,6 +9009,7 @@ adolesce
 artabe
 appeasive
 antidecalogue
+austronesian
 allspice
 adorners
 anticatalase
