@@ -8717,7 +8717,6 @@ alcidae
 alliterates
 await
 actious
-apodixis
 alliterationist
 avens
 aspersions
@@ -20811,6 +20810,7 @@ anthesterion
 alberene
 asqueal
 autopsies
+apodixis
 acolhua
 amebiform
 aligners

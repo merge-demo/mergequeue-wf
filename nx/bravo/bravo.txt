@@ -4938,7 +4938,6 @@ battled
 beefalo
 basketweaving
 birefringence
-bilimbis
 brig
 bonnne
 border
@@ -9134,6 +9133,7 @@ bandagist
 bicolours
 bladdernose
 biorhythm
+bilimbis
 butyrins
 biorhythmicity
 bumptiousness
