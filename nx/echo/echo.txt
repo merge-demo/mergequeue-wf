@@ -5103,7 +5103,6 @@ emanatistic
 epilogic
 ecthyma
 electrocontractility
-eobiont
 exsanguinous
 erotics
 endocoele
@@ -13633,6 +13632,7 @@ extraspinal
 entification
 extemporized
 escallonia
+eobiont
 emendation
 epencephal
 esopgi
