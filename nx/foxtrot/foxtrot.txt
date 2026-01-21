@@ -1862,7 +1862,6 @@ falangism
 feloid
 febrile
 fcs
-fluidizer
 farthermore
 felled
 fruiterers
@@ -6409,6 +6408,7 @@ funori
 fettling
 franklinian
 feodality
+fluidizer
 fens
 fiendship
 frigidarium
