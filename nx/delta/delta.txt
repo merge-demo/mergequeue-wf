@@ -2261,7 +2261,6 @@ dachshunde
 drummed
 diploses
 diapyetic
-definitized
 defuzes
 daubreeite
 domineerer
@@ -5807,6 +5806,7 @@ deposit
 divine
 diamondwork
 dartlike
+definitized
 dreiling
 deformism
 depilation
