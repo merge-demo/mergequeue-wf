@@ -6910,6 +6910,7 @@ akron
 anagrammatised
 aberrator
 adores
+alcid
 aith
 anniversarily
 aithochroi
@@ -17041,7 +17042,6 @@ apocopate
 apocopated
 adhocracy
 artily
-alcid
 angulus
 affying
 addy
