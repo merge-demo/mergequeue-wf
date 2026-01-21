@@ -273,7 +273,6 @@ edaphosaurus
 enmew
 esophagal
 earwigginess
-exsiccation
 environs
 earwigs
 effectless
@@ -13926,6 +13925,7 @@ enamored
 epimerizing
 exorcized
 extumescence
+exsiccation
 euphoniousness
 emporial
 en
