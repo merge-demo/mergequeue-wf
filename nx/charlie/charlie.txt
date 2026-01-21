@@ -1906,7 +1906,6 @@ calcitration
 containers
 cologne
 cotwin
-calandria
 calicoed
 cordwains
 chickling
@@ -4825,6 +4824,7 @@ carpopoditic
 coordinating
 carved
 carpoptosia
+calandria
 completion
 cissoidal
 carpos
