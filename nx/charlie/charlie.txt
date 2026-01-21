@@ -3042,6 +3042,7 @@ cantonize
 colectomy
 cantoral
 cantoria
+cholralosed
 cardsharps
 calabooses
 cantoris
@@ -25386,7 +25387,6 @@ collaud
 chalcographical
 creamery
 circumposition
-cholralosed
 censors
 centrifuged
 coarsish
