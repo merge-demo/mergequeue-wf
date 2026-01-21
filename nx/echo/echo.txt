@@ -817,6 +817,7 @@ emotionalization
 erugatory
 exadverso
 endosulfan
+embeddable
 exodus
 eurytopic
 eremitical
@@ -1103,7 +1104,6 @@ edible
 expeditive
 embase
 endothelial
-embeddable
 exploiting
 echinology
 elective
