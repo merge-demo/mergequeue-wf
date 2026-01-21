@@ -792,7 +792,6 @@ equilibrist
 easternizing
 ecoute
 exscinding
-emotes
 echinal
 envelope
 euomphalid
@@ -4303,6 +4302,7 @@ earjewel
 eremital
 emulsions
 equidistantial
+emotes
 ermitophobia
 emacerated
 extoller
