@@ -1074,7 +1074,6 @@ captionless
 coohee
 calced
 crackhemp
-calcedon
 carbamidine
 colory
 codebreak
@@ -13051,6 +13050,7 @@ cyanoplatinous
 cyanose
 cyanoses
 celestialness
+calcedon
 chemitype
 cyanosite
 cyanotic
