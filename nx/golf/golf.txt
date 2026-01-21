@@ -804,7 +804,6 @@ gambade
 gravata
 gambang
 gastrular
-glauke
 greenlandite
 gagsters
 glucosane
@@ -2203,6 +2202,7 @@ galvanocauterization
 galea
 goniostat
 glistening
+glauke
 gebbie
 glassines
 gorily
