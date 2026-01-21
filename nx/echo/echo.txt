@@ -6389,6 +6389,7 @@ electrobus
 ephebe
 expenseful
 equidense
+emphyteuta
 ensafe
 earthward
 emulsor
@@ -8657,7 +8658,6 @@ extractor
 enervous
 expels
 ectoplasmic
-emphyteuta
 elutriating
 emergently
 equinate
