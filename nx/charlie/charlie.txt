@@ -13664,6 +13664,7 @@ cymraeg
 cymry
 cousinage
 consuetude
+criss
 cynanche
 corroboreeing
 cutlases
@@ -28260,7 +28261,6 @@ curtnesses
 cratchins
 crateman
 cratemen
-criss
 crossbreed
 crater
 cachet
