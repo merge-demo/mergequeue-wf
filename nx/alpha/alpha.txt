@@ -3085,7 +3085,6 @@ aphrodisiac
 ambreate
 aliyos
 adfreeze
-actinomorphic
 amphitrichous
 arsonate
 abdominoanterior
@@ -11981,6 +11980,7 @@ alveus
 aerogen
 anhalamine
 antilibration
+actinomorphic
 airspeed
 anastasius
 anemosis
