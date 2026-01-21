@@ -4924,7 +4924,6 @@ decasualized
 didacticism
 drabbletail
 deradenitis
-demote
 demoted
 demotes
 disomus
@@ -10373,6 +10372,7 @@ diosmin
 diabological
 decisive
 diseuses
+demote
 demurrers
 ditton
 damia
