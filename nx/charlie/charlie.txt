@@ -6076,7 +6076,6 @@ catholicize
 corotating
 catholicly
 centricipital
-catholicon
 clinkers
 cloisterless
 catholicos
@@ -28207,6 +28206,7 @@ cystatrophia
 cururo
 chromaphil
 cellulose
+catholicon
 castrate
 chapelet
 chantefable
