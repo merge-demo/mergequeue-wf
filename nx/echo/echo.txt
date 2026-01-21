@@ -3606,7 +3606,6 @@ eglandulous
 entozoon
 emboweled
 epithecial
-exemplificative
 elvish
 ethanamide
 enslaves
@@ -6105,6 +6104,7 @@ emboly
 exceed
 escalier
 exossate
+exemplificative
 explida
 euchorda
 expiscating
