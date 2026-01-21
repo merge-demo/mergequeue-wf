@@ -5561,7 +5561,6 @@ fylker
 flora
 frotton
 funniness
-forkers
 foreword
 fudder
 frequentness
@@ -10865,6 +10864,7 @@ flary
 ferntickled
 funniment
 feff
+forkers
 fimbricate
 flatnesses
 fuddler
