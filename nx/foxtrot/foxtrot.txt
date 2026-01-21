@@ -6126,7 +6126,6 @@ foyboat
 floral
 floralize
 foretypified
-floras
 fructiform
 focusless
 frottage
@@ -8281,6 +8280,7 @@ fetometry
 fairyologist
 fanback
 furlanas
+floras
 flaskets
 felines
 festering
