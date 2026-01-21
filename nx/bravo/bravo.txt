@@ -3986,7 +3986,6 @@ brittlewood
 bawtie
 bantlings
 barbarian
-bestsellers
 barytes
 bharal
 bespy
@@ -16319,6 +16318,7 @@ bilithon
 bisulcated
 bandboxy
 brownnose
+bestsellers
 bereavements
 bloodguilt
 brassy
