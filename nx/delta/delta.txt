@@ -3443,7 +3443,6 @@ dashboards
 disavowance
 dependents
 dehydroffrozen
-defoedation
 defogged
 disyllable
 dormered
@@ -17916,6 +17915,7 @@ dithyramb
 dufferdom
 duffle
 doodskop
+defoedation
 dreamier
 distome
 dutifully
