@@ -25460,7 +25460,6 @@ cocowood
 culminant
 condemns
 contaggia
-circumclusion
 congenialness
 cephaelis
 corollary
@@ -25896,6 +25895,7 @@ congas
 coeternally
 coracoradialis
 cortexes
+circumclusion
 cortices
 corticiferous
 cordula
