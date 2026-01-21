@@ -1670,7 +1670,6 @@ epiglottic
 embliss
 equating
 expiable
-eschaufe
 episcopally
 eide
 excommunications
@@ -12541,6 +12540,7 @@ enactable
 embarkations
 eftest
 extant
+eschaufe
 existlessness
 euconjugatae
 epistemological
