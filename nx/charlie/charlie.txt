@@ -11267,6 +11267,7 @@ chesterbed
 ceresin
 chlormethane
 chrysidella
+conidia
 childe
 conservation
 chloroamide
@@ -15109,7 +15110,6 @@ clanger
 conducta
 chlorophyceous
 cantative
-conidia
 colonizer
 cornucopia
 celature
