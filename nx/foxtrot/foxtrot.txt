@@ -2124,6 +2124,7 @@ fear
 frequency
 firmers
 frostings
+fluigram
 forebodies
 federates
 frazed
@@ -10846,7 +10847,6 @@ factualistic
 flue
 fubbery
 filamentoid
-fluigram
 fluoridation
 faintful
 fuchsine
