@@ -1195,7 +1195,6 @@ excisemen
 entrochite
 epipany
 exceptiveness
-expectancies
 edification
 evanished
 educatability
@@ -8829,6 +8828,7 @@ equidistant
 erasers
 effectuate
 equestrial
+expectancies
 ensellure
 eight
 epichorion
