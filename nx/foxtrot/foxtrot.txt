@@ -2201,7 +2201,6 @@ felony
 foreignership
 fractioned
 frontiers
-folkmoot
 flectional
 feverless
 falsities
@@ -11061,6 +11060,7 @@ fossilizes
 foraying
 forestay
 fumigated
+folkmoot
 femororotulian
 formican
 floriferously
