@@ -13269,6 +13269,7 @@ excluders
 endocrinopathic
 equiparation
 exoarteritis
+enterochromaffin
 enlightenedness
 earings
 emboliform
@@ -14066,7 +14067,6 @@ eulogiser
 equationism
 emes
 engulfing
-enterochromaffin
 extravagance
 epauleted
 exanthema
