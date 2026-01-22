@@ -14804,7 +14804,6 @@ beribbon
 befretted
 baluchistan
 bowdlerize
-bardolater
 brauronian
 bocaccio
 bronchophthisis
@@ -17323,6 +17322,7 @@ basilosaurus
 bund
 bloomery
 ballam
+bardolater
 boxier
 babes
 birdseed
