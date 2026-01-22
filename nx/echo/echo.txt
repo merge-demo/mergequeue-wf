@@ -2442,7 +2442,6 @@ ecraseur
 emplection
 electrodialyze
 essayical
-epistle
 extrabold
 evenglow
 empiristic
@@ -8976,6 +8975,7 @@ emplore
 erika
 eclairissement
 eryngos
+epistle
 elasmotherium
 europeanly
 essex
