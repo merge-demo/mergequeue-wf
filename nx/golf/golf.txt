@@ -2805,7 +2805,6 @@ gemeinde
 gotch
 gaunt
 growling
-gimmor
 grievingly
 greatcoat
 gile
@@ -4515,6 +4514,7 @@ goldenly
 giardia
 gyp
 gundog
+gimmor
 gymnastically
 graves
 grus
