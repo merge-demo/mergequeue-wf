@@ -2782,6 +2782,7 @@ gramophonist
 gonangia
 gekkonidae
 glaister
+gonophorous
 girling
 gaskins
 gelating
@@ -10252,7 +10253,6 @@ gunless
 guillotinist
 glutaraldehyde
 generic
-gonophorous
 gastroptosis
 gobbet
 galvo
