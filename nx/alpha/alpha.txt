@@ -8778,6 +8778,7 @@ adermin
 alids
 alcyonacea
 allochiria
+annotators
 adaptionism
 alcoves
 allochlorophyll
@@ -13468,7 +13469,6 @@ ary
 ablate
 annotator
 alasas
-annotators
 arrendator
 assonant
 atwain
