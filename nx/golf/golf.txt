@@ -3742,7 +3742,6 @@ guajillo
 glamorize
 gangwa
 genae
-gigantine
 glops
 gooselike
 gurgly
@@ -7036,6 +7035,7 @@ grafter
 grutching
 goodies
 groovier
+gigantine
 guayabera
 gunnership
 grooty
