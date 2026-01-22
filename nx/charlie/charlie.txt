@@ -3481,7 +3481,6 @@ collectress
 chullpa
 clupeid
 capsicums
-capsid
 coumarous
 ciceronianists
 copesman
@@ -12857,6 +12856,7 @@ cirrhopod
 ceratitidae
 colonialism
 cosmogonic
+capsid
 cookers
 churchscot
 churchway
