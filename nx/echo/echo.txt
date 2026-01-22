@@ -8304,6 +8304,7 @@ epitaxies
 epidemicity
 enzyme
 epigrammatized
+eudemonistic
 eikones
 electrothermics
 ecophobia
@@ -10687,7 +10688,6 @@ endozoa
 eques
 enharmonical
 enchilada
-eudemonistic
 erythrocytolysin
 encephalocele
 epinephrine
