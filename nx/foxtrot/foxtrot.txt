@@ -1712,6 +1712,7 @@ finishing
 fearingly
 fearless
 frangible
+facie
 fuzes
 fairtime
 ferrament
@@ -10942,7 +10943,6 @@ formalized
 fieldwort
 forsworn
 falloffs
-facie
 fustigated
 flivver
 firesafeness
