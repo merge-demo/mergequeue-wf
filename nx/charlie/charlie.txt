@@ -5253,6 +5253,7 @@ casking
 casks
 caspar
 castings
+centrifuge
 casparian
 caspian
 coriariaceous
@@ -7249,7 +7250,6 @@ camptonite
 clamors
 cladoceran
 centrifugate
-centrifuge
 cenotaph
 columbaries
 centrifugence
