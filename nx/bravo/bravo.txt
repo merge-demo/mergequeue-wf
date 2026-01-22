@@ -1066,7 +1066,6 @@ bouse
 becost
 blousier
 burghal
-borosalicylate
 blennioidea
 bumboat
 becense
@@ -7687,6 +7686,7 @@ bairnteem
 bourgeoisitic
 balanidae
 bilabiate
+borosalicylate
 baldly
 biplace
 bezanty
