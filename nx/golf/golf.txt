@@ -5035,7 +5035,6 @@ galling
 gaslit
 glew
 goodwilled
-gunnels
 gigantic
 goldhead
 grouthead
@@ -7451,6 +7450,7 @@ guiltlessness
 gotra
 golliwogg
 germarium
+gunnels
 gaudery
 galen
 gruffiest
