@@ -1092,7 +1092,6 @@ giggler
 gasserian
 glossic
 gist
-glor
 gonimous
 gregarinae
 gloiosiphoniaceae
@@ -3899,6 +3898,7 @@ gentlemanliness
 gomashta
 gentlemanhood
 gameball
+glor
 gastroenterotomy
 grandmama
 grimsir
