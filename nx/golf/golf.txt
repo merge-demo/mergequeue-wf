@@ -1964,7 +1964,6 @@ glorifiable
 garvie
 gulfweed
 grandstanding
-gastroduodenostomies
 girder
 gabbled
 gonorrhoeic
@@ -10359,6 +10358,7 @@ grot
 geomorphist
 glebal
 guarana
+gastroduodenostomies
 gaums
 gadgety
 gauzes
