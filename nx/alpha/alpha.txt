@@ -2556,6 +2556,7 @@ allozooid
 acomous
 actins
 acroasis
+atomics
 ascidiform
 albumean
 abolitionists
@@ -9155,7 +9156,6 @@ archdeaconry
 alveated
 alodialty
 adenogenous
-atomics
 argentamin
 autometric
 autopticity
