@@ -6378,6 +6378,7 @@ endostitis
 ebbed
 encephalopathia
 eprouvette
+endorser
 endoerythrocytic
 electrographite
 enshrined
@@ -13142,7 +13143,6 @@ exemplifiable
 ethylin
 effeminatize
 experientialism
-endorser
 electrotonus
 eschevin
 eclipses
