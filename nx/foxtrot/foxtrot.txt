@@ -2846,7 +2846,6 @@ flattops
 faunae
 ficus
 fluidly
-fishhouse
 fingery
 floodlights
 fideicommiss
@@ -5200,6 +5199,7 @@ fractionise
 funking
 filices
 forbidding
+fishhouse
 forthy
 floccules
 fireweed
