@@ -3422,7 +3422,6 @@ guitermanite
 groose
 gadbush
 gotchy
-girny
 gonfanons
 gluside
 gibbar
@@ -4914,6 +4913,7 @@ goniunia
 grush
 geoffroyin
 generalidad
+girny
 galleta
 gunnel
 geshurites
