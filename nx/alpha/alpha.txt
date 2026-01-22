@@ -231,7 +231,6 @@ animality
 ajourise
 aeroliths
 adenomyxoma
-actable
 apostate
 aerologic
 abraded
@@ -588,6 +587,7 @@ acusector
 apioidal
 advowry
 ashantee
+actable
 ashlers
 aerobioscope
 antiquarian
