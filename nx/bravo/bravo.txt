@@ -12080,6 +12080,7 @@ benny
 brontogram
 bebop
 bowdlerising
+bindis
 bohunk
 branta
 balalaikas
@@ -12353,7 +12354,6 @@ begrave
 bonellia
 barbarea
 bestrowing
-bindis
 budgeteer
 blanquillo
 blastocele
