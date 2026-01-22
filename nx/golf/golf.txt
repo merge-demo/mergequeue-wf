@@ -3470,7 +3470,6 @@ gerodontic
 galactostasis
 gerontic
 generalships
-genuflections
 gondolier
 galbe
 gonocytes
@@ -4179,6 +4178,7 @@ gendering
 gangrenate
 gr
 gallinulelike
+genuflections
 gymnasic
 grelot
 galeidae
