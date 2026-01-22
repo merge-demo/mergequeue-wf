@@ -950,6 +950,7 @@ bagwig
 batad
 branny
 bungaloid
+bipinnarias
 brownout
 barrenest
 bustier
@@ -9277,7 +9278,6 @@ blancmange
 batussi
 bladebone
 bauxitic
-bipinnarias
 bipinnated
 becked
 bow
