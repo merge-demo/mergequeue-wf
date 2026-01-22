@@ -3417,7 +3417,6 @@ giftie
 glucidic
 gaults
 germin
-gobemouche
 gymnurine
 guitermanite
 groose
@@ -9824,6 +9823,7 @@ grun
 gemmuliferous
 gien
 gtt
+gobemouche
 gagaku
 gymnastic
 gavel
