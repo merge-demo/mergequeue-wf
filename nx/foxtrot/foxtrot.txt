@@ -4834,7 +4834,6 @@ feruled
 faders
 footlike
 fulmination
-follies
 flagellations
 forescript
 fieldstrip
@@ -7909,6 +7908,7 @@ fulgoroidea
 fanfoot
 finns
 filterman
+follies
 furiousity
 flittered
 fruitwood
