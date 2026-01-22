@@ -5813,6 +5813,7 @@ embolization
 eburnated
 engoument
 evade
+extogenous
 emulatory
 efficace
 electrovalency
@@ -13337,7 +13338,6 @@ exarchic
 ethicalities
 eclipsareon
 extracosmic
-extogenous
 ectopistes
 ebulliometer
 exigences
