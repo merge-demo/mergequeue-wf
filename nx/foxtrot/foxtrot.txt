@@ -7398,7 +7398,6 @@ friendless
 fustet
 floorboards
 fancysick
-federalise
 fertil
 fermentor
 footwarmer
@@ -9128,6 +9127,7 @@ flotsan
 friendliness
 faineantism
 fix
+federalise
 fractionalize
 foreparents
 frap
