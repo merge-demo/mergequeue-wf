@@ -13732,7 +13732,6 @@ broozled
 bourdons
 beckoned
 befoolable
-bracketwise
 bourgade
 beeped
 bonailie
@@ -17959,6 +17958,7 @@ boheas
 balancing
 bellowsman
 blazoned
+bracketwise
 baho
 busybodyism
 basilosauridae

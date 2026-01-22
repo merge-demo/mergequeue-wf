@@ -1247,7 +1247,6 @@ danthonia
 dusted
 diazoic
 denari
-demitasses
 disturbances
 dossil
 dermoptera
@@ -17297,6 +17296,7 @@ dromometer
 debentures
 defoul
 discrepate
+demitasses
 disrelated
 dyemaker
 dronage
