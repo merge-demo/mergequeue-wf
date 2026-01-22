@@ -9816,7 +9816,6 @@ euphrates
 expenthesis
 electroplate
 encrinite
-eucalyptic
 estable
 erodability
 establishable
@@ -13946,6 +13945,7 @@ extraofficial
 earnestly
 eternities
 expertship
+eucalyptic
 endromis
 eleutheri
 ethylthioethane
