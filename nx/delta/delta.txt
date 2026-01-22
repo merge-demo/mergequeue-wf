@@ -1875,7 +1875,6 @@ diaphanotype
 deicate
 deboss
 detractive
-disinterestedness
 debouche
 disconcertingness
 discourse
@@ -16607,6 +16606,7 @@ dragrope
 dexterousness
 debiteuse
 deathbeds
+disinterestedness
 dragstaff
 drone
 designation
