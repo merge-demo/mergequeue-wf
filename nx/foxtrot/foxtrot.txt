@@ -5625,7 +5625,6 @@ fricti
 finnan
 fletchers
 formulise
-fellic
 fondler
 fisc
 frustums
@@ -7559,6 +7558,7 @@ faience
 firefall
 floperoo
 firstship
+fellic
 forcibility
 forcibleness
 furnacite
