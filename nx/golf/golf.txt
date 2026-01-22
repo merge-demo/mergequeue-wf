@@ -241,7 +241,6 @@ gaspereau
 gearcases
 gowpen
 gravure
-gaiter
 gallicolous
 goniocraniometry
 grantor
@@ -3790,6 +3789,7 @@ grumpier
 gringos
 guric
 ghostly
+gaiter
 gaura
 ghostwriters
 gallirallus
