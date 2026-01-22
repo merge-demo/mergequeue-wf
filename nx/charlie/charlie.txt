@@ -2531,7 +2531,6 @@ countered
 candle
 coehorn
 candleberries
-candlebomb
 candlefish
 corporeal
 chaldaical
@@ -13730,6 +13729,7 @@ cinctured
 cinder
 cnemapophysis
 cindering
+candlebomb
 cinderman
 cindy
 collusive
