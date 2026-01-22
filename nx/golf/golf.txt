@@ -2162,6 +2162,7 @@ gossamers
 guestship
 gen
 glumiferous
+glaciating
 galla
 guesstimating
 ghostwritten
@@ -5524,7 +5525,6 @@ germiculture
 gandhism
 grazings
 greater
-glaciating
 goldeye
 gonostyle
 galet
