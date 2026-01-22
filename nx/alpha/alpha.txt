@@ -4840,7 +4840,6 @@ avoset
 aerocraft
 aspheterize
 antisex
-archaises
 amas
 amoebous
 arkwright
@@ -13796,6 +13795,7 @@ allophane
 appellate
 araphostic
 amerced
+archaises
 antiphonal
 androgenetic
 adumbrant

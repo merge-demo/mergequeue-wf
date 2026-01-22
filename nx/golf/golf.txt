@@ -2678,7 +2678,6 @@ glow
 geomancer
 garg
 germantown
-globulicidal
 genetika
 glanders
 gurgeon
@@ -7836,6 +7835,7 @@ gralline
 gadman
 geoff
 gray
+globulicidal
 greasily
 greenuk
 gemmative
