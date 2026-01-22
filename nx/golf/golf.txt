@@ -2769,7 +2769,6 @@ garn
 guillotine
 gader
 gaedelian
-grooms
 genoise
 ghanaian
 garroted
@@ -4041,6 +4040,7 @@ garrotted
 gynostemiumia
 grubbily
 gremial
+grooms
 grabbed
 giddier
 gemshorn
