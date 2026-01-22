@@ -4493,6 +4493,7 @@ gobby
 giobertite
 grazierdom
 grainsickness
+gaveled
 gosplan
 gammelost
 graminology
@@ -9474,7 +9475,6 @@ guatoan
 granitification
 gymel
 glycerolize
-gaveled
 gnattier
 gaywings
 glues
