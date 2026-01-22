@@ -996,7 +996,6 @@ enfeature
 electrootiatrics
 erythroblastotic
 epichoristic
-eudiagnostic
 execution
 ethnarchs
 effluviable
@@ -8461,6 +8460,7 @@ ecbole
 eponge
 exterrestrial
 exhibitioner
+eudiagnostic
 ethopoetic
 endoglobular
 exsuction
