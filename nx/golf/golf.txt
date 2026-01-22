@@ -2822,7 +2822,6 @@ gazettal
 gormless
 glassophone
 glutition
-glottalite
 gloiopeltis
 guilloche
 gentiobiose
@@ -8420,6 +8419,7 @@ gandermooner
 grins
 gteau
 granulize
+glottalite
 glittery
 gibblegable
 gulled
