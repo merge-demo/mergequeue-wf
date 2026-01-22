@@ -3975,7 +3975,6 @@ euxanthin
 euskara
 extremistic
 encephalic
-emotioned
 eugregarinida
 epimeron
 emolument
@@ -8251,6 +8250,7 @@ epibenthos
 enrapturedly
 electromagnetist
 electrofusion
+emotioned
 espies
 etchers
 escrows
