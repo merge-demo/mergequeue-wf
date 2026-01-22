@@ -8622,7 +8622,6 @@ gitoxigenin
 glasslike
 grouped
 gunpapers
-gravisphere
 geometry
 guiltlessly
 gammoner
@@ -8864,6 +8863,7 @@ grazed
 geranomorphae
 grossularia
 gnetaceae
+gravisphere
 grossest
 gauntleting
 germain
