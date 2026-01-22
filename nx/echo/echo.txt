@@ -3444,6 +3444,7 @@ enregistration
 egal
 excursioner
 envelopes
+enterclose
 encyclopaedial
 embannered
 emetine
@@ -6226,7 +6227,6 @@ employee
 enolic
 explicableness
 etiologic
-enterclose
 eponymies
 execs
 ellipsoid
