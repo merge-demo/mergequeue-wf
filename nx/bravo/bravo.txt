@@ -16521,6 +16521,7 @@ bipyramid
 brushpopper
 brushwood
 brushwork
+balaenoidean
 burdock
 beecher
 bendayed
@@ -17394,7 +17395,6 @@ butoxyl
 balsamic
 bunyan
 buninahua
-balaenoidean
 borating
 beasthood
 balldress

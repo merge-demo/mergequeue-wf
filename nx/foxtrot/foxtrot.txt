@@ -1115,6 +1115,7 @@ fellatrixes
 fatiguing
 fossorial
 frighted
+ferula
 fishling
 fastback
 farrisite
@@ -1671,7 +1672,6 @@ fipenny
 foraneen
 four
 fdnames
-ferula
 footwalk
 ferociousness
 fice
