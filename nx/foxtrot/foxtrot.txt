@@ -6305,6 +6305,7 @@ frenchmen
 funguslike
 falange
 fog
+frication
 fivepence
 flrie
 feudum
@@ -9152,7 +9153,6 @@ floorward
 foge
 flavors
 fehmic
-frication
 funebrial
 forthgo
 figging
