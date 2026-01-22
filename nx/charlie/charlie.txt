@@ -5420,6 +5420,7 @@ castes
 chrysanthemin
 casteth
 crossbench
+coincorporate
 castice
 castigable
 confederates
@@ -12547,7 +12548,6 @@ cadjan
 cranemen
 chromotypy
 cynegetics
-coincorporate
 chromotypographic
 chromotropy
 chromotropic
