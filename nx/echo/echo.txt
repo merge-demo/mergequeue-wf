@@ -5433,6 +5433,7 @@ emblematology
 enginelike
 eneclann
 elaboratory
+epitaxies
 exoneretur
 efflux
 epigynies
@@ -8306,7 +8307,6 @@ embellished
 ellagate
 exemplification
 enervate
-epitaxies
 epidemicity
 enzyme
 epigrammatized
