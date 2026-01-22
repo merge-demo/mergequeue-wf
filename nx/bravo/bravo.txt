@@ -4616,7 +4616,6 @@ borborus
 bedaubing
 bloodstone
 belial
-beats
 bedazement
 bigeminate
 bedazzle
@@ -9385,6 +9384,7 @@ bistros
 breweries
 brendice
 besmother
+beats
 brasilein
 bescours
 base
