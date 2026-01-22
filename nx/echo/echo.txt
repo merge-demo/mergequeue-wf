@@ -2380,7 +2380,6 @@ eclogic
 egba
 episteme
 eloise
-exhaustable
 electroconvulsive
 empoisonment
 ergotoxine
@@ -12124,6 +12123,7 @@ ejam
 eloper
 erpetologist
 eg
+exhaustable
 eyelike
 epural
 excursiveness
