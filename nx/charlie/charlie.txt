@@ -16439,6 +16439,7 @@ cliver
 clivers
 clivis
 clk
+climbing
 cloaca
 cloacae
 cryptanalyzed
@@ -16678,7 +16679,6 @@ crystallisation
 colophonium
 closeness
 cedric
-climbing
 cypselidae
 ceruses
 cornetto
