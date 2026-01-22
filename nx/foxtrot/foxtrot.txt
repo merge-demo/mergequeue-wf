@@ -2922,7 +2922,6 @@ fackins
 fanum
 firefighters
 featous
-faddiest
 fettucini
 fungiferous
 forzato
@@ -9989,6 +9988,7 @@ foretells
 farmyards
 fake
 funs
+faddiest
 falconry
 fleabane
 formated

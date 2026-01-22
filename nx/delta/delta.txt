@@ -6390,7 +6390,6 @@ derogative
 dispersity
 derogator
 derogatory
-decanate
 drawer
 deplorate
 disincorporating
@@ -16404,6 +16403,7 @@ decidement
 disculpate
 derivately
 diphyletic
+decanate
 defogger
 dosser
 datum
