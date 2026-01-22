@@ -11808,6 +11808,7 @@ doorsteps
 disci
 delist
 damianist
+decalcomania
 darkening
 discard
 disasinate
@@ -15254,7 +15255,6 @@ dissolves
 devant
 decelerate
 droopt
-decalcomania
 diurnation
 diamylose
 diluviums
