@@ -7264,7 +7264,6 @@ explicitness
 economese
 exonerate
 endoproct
-ergatomorphism
 epicurize
 eohippus
 eohippuses
@@ -8753,6 +8752,7 @@ enlighteners
 experimentator
 equitemporaneous
 eluted
+ergatomorphism
 edo
 ethysulphuric
 embrowd
