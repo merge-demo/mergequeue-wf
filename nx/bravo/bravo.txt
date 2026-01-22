@@ -7580,6 +7580,7 @@ becco
 bloodweed
 bonitoes
 bibacity
+basement
 briefer
 bevvy
 bewailers
@@ -16432,7 +16433,6 @@ borrowed
 boryl
 brat
 branchipus
-basement
 biosynthetic
 brushers
 burrish

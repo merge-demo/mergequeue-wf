@@ -5484,7 +5484,6 @@ aerial
 afterform
 amarantite
 aerolith
-aristos
 aftergas
 aylesbury
 abstractedness
@@ -7456,6 +7455,7 @@ albuminimeter
 albuminiparous
 acromial
 agnomina
+aristos
 aldebaran
 annihilationistic
 anfracture
