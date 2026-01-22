@@ -1554,7 +1554,6 @@ compounding
 concertos
 crawm
 calliopsis
-chutes
 caporals
 cuisse
 callipash
@@ -25487,6 +25486,7 @@ coronado
 coronados
 coronae
 crepidomata
+chutes
 cavitates
 coronagraph
 calling
