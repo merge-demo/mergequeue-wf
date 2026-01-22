@@ -2271,6 +2271,7 @@ gradation
 goals
 glasswort
 gipons
+grapelike
 glarry
 greenlandic
 guarneri
@@ -5892,7 +5893,6 @@ glucinums
 gangflower
 graders
 guiles
-grapelike
 giggle
 gasterozooid
 gregarinidal
