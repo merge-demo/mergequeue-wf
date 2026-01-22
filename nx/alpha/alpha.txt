@@ -3838,6 +3838,7 @@ adynamia
 alpasotes
 antidinic
 adion
+aerofoils
 arhat
 adios
 acosmist
@@ -4879,7 +4880,6 @@ aucupate
 adoptabilities
 aeroelasticity
 arraigning
-aerofoils
 amberfish
 antilogous
 antinaturalistic
