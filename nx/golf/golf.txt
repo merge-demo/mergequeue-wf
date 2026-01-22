@@ -4418,7 +4418,6 @@ gondi
 gardened
 gayway
 grandam
-galvanoscope
 ginhouse
 geobios
 gelidiaceae
@@ -9800,6 +9799,7 @@ gourmander
 greyhounds
 grocerwise
 gloomiest
+galvanoscope
 grannom
 gelants
 gratiosolin
