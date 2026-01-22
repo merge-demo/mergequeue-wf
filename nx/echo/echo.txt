@@ -1212,7 +1212,6 @@ ennuye
 enscroll
 embolismus
 educational
-extratracheal
 elenge
 eldest
 earthquake
@@ -13555,6 +13554,7 @@ euphemism
 exscinds
 encyclics
 entailers
+extratracheal
 epiphenomenally
 elopements
 extrafloral

@@ -9328,7 +9328,6 @@ gigantal
 gizzened
 gayly
 garishly
-gunge
 geothermometer
 gastrectasia
 gooral
@@ -10761,6 +10760,7 @@ grovelers
 girdle
 germinator
 gut
+gunge
 grasswards
 giber
 generation
