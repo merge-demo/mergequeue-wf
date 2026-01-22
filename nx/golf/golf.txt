@@ -1513,7 +1513,6 @@ gamma
 gilbertite
 gynocardia
 gangliocyte
-guydom
 grouter
 gaselier
 golet
@@ -2484,6 +2483,7 @@ ghettoed
 glauconiidae
 gemologist
 groping
+guydom
 gloaming
 gabriel
 gemot
