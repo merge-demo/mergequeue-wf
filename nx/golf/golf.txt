@@ -1067,7 +1067,6 @@ gratefully
 gompholobium
 gooranut
 ganglioma
-gasteropod
 ganglionate
 goldbrick
 ganglionated
@@ -3558,6 +3557,7 @@ grudger
 gynandromorphism
 gemul
 gufa
+gasteropod
 gewgawry
 geckoes
 gyrfalcon
