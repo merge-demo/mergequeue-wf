@@ -2681,6 +2681,7 @@ forgoing
 fastidious
 fernando
 fouling
+fervanite
 familiarisation
 fishmen
 farmlands
@@ -11148,7 +11149,6 @@ fundamentalist
 fistful
 fiendlier
 flops
-fervanite
 fearnaught
 foyaite
 fragaria
