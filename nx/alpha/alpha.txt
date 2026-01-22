@@ -6659,7 +6659,6 @@ argentiferous
 amphimictical
 antagonizes
 antimension
-ain
 anthocyanin
 ablow
 anathematic
@@ -9484,6 +9483,7 @@ anisomeles
 alimentary
 angletouch
 antichurchian
+ain
 autoharp
 accountableness
 alture
