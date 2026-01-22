@@ -2088,6 +2088,7 @@ gavia
 gaynesses
 girsh
 gamey
+gibus
 gleeked
 guideboard
 ghosty
@@ -9481,7 +9482,6 @@ glycocholate
 gaelic
 gamble
 goto
-gibus
 gingivoglossitis
 gramps
 gingerliness
