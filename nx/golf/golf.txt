@@ -4577,6 +4577,7 @@ grapey
 gucked
 galactoma
 gumwoods
+gourdful
 genius
 gills
 graminiform
@@ -8937,7 +8938,6 @@ groundwards
 gemeinschaft
 groundberry
 gressoria
-gourdful
 ghostfish
 grizzle
 grieving
