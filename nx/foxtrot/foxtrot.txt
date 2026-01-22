@@ -9720,7 +9720,6 @@ featherfoil
 flibustier
 forwardly
 flotations
-farthest
 foresign
 fecklessly
 feliform
@@ -10671,6 +10670,7 @@ fortifier
 fuzzes
 fulgent
 friendlike
+farthest
 foilsman
 fusht
 famular
