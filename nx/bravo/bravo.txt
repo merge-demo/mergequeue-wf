@@ -3782,6 +3782,7 @@ bourdis
 batture
 bawcocks
 bielded
+bicuspids
 blackening
 biocontrol
 begger
@@ -14656,7 +14657,6 @@ bandsaw
 beanies
 brank
 backaches
-bicuspids
 bribemonger
 buxeous
 beltmen

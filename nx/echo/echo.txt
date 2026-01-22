@@ -9226,7 +9226,6 @@ ebenaceae
 exuviation
 engines
 enfork
-enchodus
 endosiphuncle
 elates
 embryophyte
@@ -10012,6 +10011,7 @@ enclear
 entepicondylar
 etape
 etapes
+enchodus
 exorhason
 endangers
 extraterrestrial
