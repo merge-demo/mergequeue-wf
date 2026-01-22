@@ -11737,7 +11737,6 @@ chondrinous
 crotalism
 cirrhotic
 chondrioma
-churlhood
 chondriomere
 caryatides
 chondriosphere
@@ -17822,6 +17821,7 @@ chalaza
 coindwelling
 cement
 cardiography
+churlhood
 codas
 cardialgic
 coddy
