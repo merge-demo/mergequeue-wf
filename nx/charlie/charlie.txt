@@ -1314,6 +1314,7 @@ caroon
 calibers
 corneosclerotic
 colunar
+coemanate
 calibrated
 calibrates
 calibrating
@@ -5239,7 +5240,6 @@ casiri
 casita
 casket
 corpl
-coemanate
 carmine
 cellulosed
 cliftonite
