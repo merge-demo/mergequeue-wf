@@ -5289,7 +5289,6 @@ enureses
 eustachium
 ernest
 estocs
-electrocorticogram
 ergodicity
 eliminability
 ebionite
@@ -6621,6 +6620,7 @@ enterocyst
 etcher
 electrician
 enquicken
+electrocorticogram
 equiponderant
 excluding
 extenuate
