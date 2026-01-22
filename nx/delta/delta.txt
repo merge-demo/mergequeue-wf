@@ -3559,7 +3559,6 @@ dingles
 danke
 dermatotome
 drawbeam
-dewanee
 dissheathe
 dehwar
 defuze
@@ -16889,6 +16888,7 @@ dichromate
 damewort
 danize
 displacing
+dewanee
 dreamiest
 dreamlikeness
 drumfish
