@@ -480,7 +480,6 @@ fulminate
 faciendum
 fragilariaceae
 froglike
-fiberizing
 feuage
 fieldbird
 furthy
@@ -824,6 +823,7 @@ financing
 flunker
 functionalizing
 fanfaronading
+fiberizing
 farmhouses
 foiter
 folkloric
