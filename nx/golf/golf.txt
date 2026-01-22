@@ -4775,6 +4775,7 @@ geisothermal
 glycerate
 galchic
 gelatia
+ginglymodian
 generis
 gastraeas
 guzmania
@@ -6383,7 +6384,6 @@ ganoin
 greyed
 gummage
 gymnolaemata
-ginglymodian
 gloriosa
 gippo
 gunj
