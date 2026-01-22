@@ -3892,6 +3892,7 @@ chewbark
 colonizers
 chalybite
 carbonification
+carpincho
 chigger
 carbinol
 courie
@@ -28189,7 +28190,6 @@ chalcididae
 calefy
 connecting
 crannying
-carpincho
 compiler
 cubitalia
 crannock
