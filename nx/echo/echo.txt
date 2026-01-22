@@ -4541,6 +4541,7 @@ eery
 enrange
 entrepreneurial
 ectotheca
+extensibility
 enactive
 epiplasm
 emerita
@@ -13659,7 +13660,6 @@ eked
 evited
 extends
 evernia
-extensibility
 euphemization
 epididymis
 extensions
