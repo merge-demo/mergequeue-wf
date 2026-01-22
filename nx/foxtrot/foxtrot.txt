@@ -7196,7 +7196,6 @@ felonries
 favourers
 fetors
 fusional
-fingerstall
 fostership
 forgeability
 flanchard
@@ -10414,6 +10413,7 @@ featherwise
 focometer
 fikey
 fluoboric
+fingerstall
 frontoauricular
 foxinesses
 funeralize
