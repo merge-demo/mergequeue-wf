@@ -2226,6 +2226,7 @@ bayards
 bromize
 bacin
 barbados
+bubbleless
 broggle
 blobs
 badineur
@@ -11050,7 +11051,6 @@ becaps
 bezels
 benzotriazine
 boffolas
-bubbleless
 beeflower
 bowsaw
 bigamistic
