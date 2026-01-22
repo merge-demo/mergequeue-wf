@@ -6053,7 +6053,6 @@ critics
 centraliser
 capshore
 collatress
-contratempo
 courtesans
 cardinalated
 cryptostomata
@@ -11520,6 +11519,7 @@ coredeemed
 cratonic
 cleuks
 clinkstone
+contratempo
 congelifraction
 chokerman
 chalones
