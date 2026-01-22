@@ -16827,7 +16827,6 @@ cyrillic
 clove
 cytological
 caduciaries
-crankish
 calorescent
 chalaziferous
 chlored
@@ -25009,6 +25008,7 @@ comae
 chumble
 cordelia
 cordelle
+crankish
 crushableness
 cordery
 corders
