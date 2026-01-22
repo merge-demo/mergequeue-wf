@@ -2379,7 +2379,6 @@ expostulate
 electroplates
 ecphova
 eclogic
-egba
 episteme
 eloise
 electroconvulsive
@@ -9632,6 +9631,7 @@ emulator
 epihippus
 enterohemorrhage
 esophagalgia
+egba
 esophago
 esophagogastroscopy
 enticeable
