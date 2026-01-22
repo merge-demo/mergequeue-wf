@@ -3973,7 +3973,6 @@ giving
 gley
 graphomotor
 gigasecond
-generalisable
 gisla
 ghat
 geomorphy
@@ -5710,6 +5709,7 @@ gahnite
 guar
 glorifications
 garefowls
+generalisable
 girdles
 gnatlike
 glissando
