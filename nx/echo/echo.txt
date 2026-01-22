@@ -5394,7 +5394,6 @@ endomitotic
 endotracheal
 empresario
 endeavourer
-exuviated
 ecclesial
 engirdles
 ebonige
@@ -10674,6 +10673,7 @@ emblematically
 edda
 encryption
 eviting
+exuviated
 epimysium
 elaterid
 eudaimonia
