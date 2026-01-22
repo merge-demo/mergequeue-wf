@@ -1213,7 +1213,6 @@ glyceraldehyde
 grinned
 gibbet
 glowingly
-guejarite
 gorilla
 gaplessness
 gourmandise
@@ -5632,6 +5631,7 @@ gaz
 gesticulacious
 gazometer
 gelilah
+guejarite
 goutier
 greenroom
 glucaemia
