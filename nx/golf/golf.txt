@@ -5297,6 +5297,7 @@ grissons
 gorgers
 gloamings
 grippier
+guestimate
 gaited
 gyrovagi
 goofer
@@ -6273,7 +6274,6 @@ gyse
 grapples
 goatsbeard
 gwyniad
-guestimate
 giglot
 gliders
 glucosidase
