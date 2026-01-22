@@ -3552,7 +3552,6 @@ brookites
 bicaudate
 bluet
 bathed
-bathes
 bewend
 backslidden
 bicondylar
@@ -15011,6 +15010,7 @@ brinston
 backspear
 broiling
 boccale
+bathes
 bangster
 binderies
 branchiate
