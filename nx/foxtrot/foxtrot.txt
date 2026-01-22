@@ -7062,7 +7062,6 @@ fluxed
 ferthumlungur
 fumarase
 fibromatosis
-footnote
 ferrocyanic
 freakout
 fisherpeople
@@ -10657,6 +10656,7 @@ fustier
 fragmental
 forks
 francophobe
+footnote
 feeblebrained
 foreswore
 fanteeg
