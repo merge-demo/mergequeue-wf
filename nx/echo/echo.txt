@@ -675,7 +675,6 @@ enddamaged
 extimulate
 eigenstate
 endothermy
-esurient
 elodes
 enshrouding
 electrostatic
@@ -10151,6 +10150,7 @@ ethereality
 endotropic
 epharmony
 engraphically
+esurient
 earthlike
 extrusible
 ecthlipses
