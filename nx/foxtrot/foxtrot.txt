@@ -1340,6 +1340,7 @@ flashover
 flear
 fieldball
 flookan
+frithy
 flout
 formates
 foretopsail
@@ -3690,7 +3691,6 @@ froglets
 forebitter
 facticide
 fretsaws
-frithy
 filigrained
 fret
 fiftieths
