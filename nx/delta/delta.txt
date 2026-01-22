@@ -1582,6 +1582,7 @@ deadpanned
 doubtance
 deadpans
 depayse
+dinotherium
 daikering
 disinfector
 dermal
@@ -8284,7 +8285,6 @@ diagnosticate
 deductive
 deputization
 denitrating
-dinotherium
 dehortatory
 dynastes
 demegoric
