@@ -6448,6 +6448,7 @@ byliner
 blowup
 benzothiazine
 babbishly
+barangay
 benzothiazoline
 bitripartite
 brucite
@@ -6456,7 +6457,6 @@ benzothiodiazole
 bergamiol
 bumpering
 backcloth
-barangay
 burs
 benzotrichloride
 bolection
