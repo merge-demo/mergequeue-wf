@@ -12714,7 +12714,6 @@ conventioneer
 clingingness
 countervail
 crape
-chudic
 charnels
 chuet
 chueta
@@ -22831,6 +22830,7 @@ cultistic
 consentience
 consentient
 consenting
+chudic
 consentingly
 chaldee
 cohert

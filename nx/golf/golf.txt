@@ -3880,7 +3880,6 @@ glazework
 gyving
 gpcd
 gygis
-gibstaff
 greyhound
 ginkgoaceae
 gratefulness
@@ -6630,6 +6629,7 @@ gluconeogenetic
 gurgoyle
 genty
 guesswork
+gibstaff
 gastrohyperneuria
 gabback
 gangrenescent
