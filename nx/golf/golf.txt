@@ -10045,6 +10045,7 @@ galera
 gudame
 gibberose
 gone
+guids
 gentlemanship
 gorgonised
 gamopetalous
@@ -10206,7 +10207,6 @@ gunlock
 glaucium
 gourmandize
 guttifer
-guids
 guidwife
 geladas
 geochronologist
