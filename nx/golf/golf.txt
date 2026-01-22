@@ -5879,6 +5879,7 @@ graffito
 gedact
 gallicisms
 galvanoplastic
+gressoria
 gate
 glassily
 gynoecium
@@ -8938,7 +8939,6 @@ grizard
 groundwards
 gemeinschaft
 groundberry
-gressoria
 ghostfish
 grizzle
 grieving
