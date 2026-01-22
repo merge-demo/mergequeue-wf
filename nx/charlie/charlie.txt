@@ -17177,7 +17177,6 @@ coadjutrix
 coadjuvate
 crasser
 coadminister
-civic
 coadministratrix
 catalyzers
 coadmiration
@@ -20622,6 +20621,7 @@ coralbush
 cocurricular
 cofounded
 curvilinearly
+civic
 compilations
 ceratin
 compilator
