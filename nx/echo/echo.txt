@@ -6523,6 +6523,7 @@ erubescence
 excludable
 electrotitration
 estimative
+einkorn
 execration
 ephemeric
 extravagating
@@ -9664,7 +9665,6 @@ estivated
 espadon
 effervescible
 ewer
-einkorn
 endoblast
 encense
 equipper
