@@ -4132,7 +4132,6 @@ endosarc
 extent
 eyass
 endogamous
-epitonic
 experimentation
 encraty
 electrorefine
@@ -5440,6 +5439,7 @@ exaggerations
 emydosauria
 empetraceae
 electuary
+epitonic
 expirations
 eburated
 eurithermophile
