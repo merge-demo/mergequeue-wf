@@ -1913,7 +1913,6 @@ eir
 eclat
 epurate
 eptatretidae
-estadel
 eyrant
 enolize
 entomophthorales
@@ -3467,6 +3466,7 @@ evermo
 entotrophi
 eavedropper
 embark
+estadel
 epitomize
 equipage
 exteroceptor
