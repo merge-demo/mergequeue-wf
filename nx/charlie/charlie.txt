@@ -5485,7 +5485,6 @@ casuariiformes
 chloramide
 civetlike
 chersydridae
-cantraips
 casuarius
 carpellary
 collate
@@ -7338,6 +7337,7 @@ cupidone
 cataractous
 chimera
 chilotomies
+cantraips
 coronadite
 chimar
 captious
