@@ -2904,7 +2904,6 @@ acrophonic
 antiendowment
 acropoleis
 acuminated
-asthenope
 archpontiff
 acarologist
 aureocasidium
@@ -7211,6 +7210,7 @@ alarmedly
 audivise
 alarmingly
 aurantiaceae
+asthenope
 actinomyxidiida
 assn
 alarmingness
