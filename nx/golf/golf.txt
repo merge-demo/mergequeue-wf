@@ -6298,7 +6298,6 @@ gregorianizer
 grecale
 gob
 geminating
-greediness
 gadslid
 goateed
 gregariousness
@@ -7742,6 +7741,7 @@ gastropodan
 guardhouses
 gradiometric
 gaup
+greediness
 glancingly
 gemmily
 gyrus
