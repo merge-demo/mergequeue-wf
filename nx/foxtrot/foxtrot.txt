@@ -2377,7 +2377,6 @@ fer
 firecoat
 featherstitching
 fableist
-ferae
 fablers
 frequently
 filmable
@@ -8676,6 +8675,7 @@ flammigerous
 familiarism
 flatworks
 fluorimeter
+ferae
 fillagreing
 farseeingness
 fetcher
