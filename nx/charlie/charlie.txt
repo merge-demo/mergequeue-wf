@@ -11607,6 +11607,7 @@ corrigibleness
 closured
 choledochotomies
 cholee
+counterpoints
 cholehematin
 choleine
 circinal
@@ -26991,7 +26992,6 @@ carassow
 conformance
 contoid
 chimneypot
-counterpoints
 cataleptiform
 combinably
 contestable
