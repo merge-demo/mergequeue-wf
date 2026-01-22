@@ -953,7 +953,6 @@ englishhood
 eleve
 ensisternal
 equipping
-ensheathed
 endowments
 endorsements
 electrophoretic
@@ -7528,6 +7527,7 @@ eunomy
 exemplifiers
 ethrog
 everywhence
+ensheathed
 escarteled
 epiboulangerite
 episomes
