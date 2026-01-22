@@ -4605,7 +4605,6 @@ ectochondral
 expede
 emperize
 encheason
-euphemism
 easiness
 ethnolinguistics
 embryophagous
@@ -13553,6 +13552,7 @@ error
 embowels
 eccles
 externomedian
+euphemism
 exscinds
 encyclics
 entailers
