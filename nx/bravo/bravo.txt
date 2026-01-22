@@ -7002,6 +7002,7 @@ besluit
 bespread
 besmiled
 basipterygial
+boride
 bobtailing
 bathhouse
 bap
@@ -13929,7 +13930,6 @@ bluestocking
 blaming
 bejape
 baggyrinkle
-boride
 bilious
 bedrite
 bowing
