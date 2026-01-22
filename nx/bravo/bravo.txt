@@ -10469,6 +10469,7 @@ bughouses
 ballywack
 bloodfins
 blankets
+backhanding
 bhoot
 blobbiness
 brisement
@@ -12856,7 +12857,6 @@ bluffer
 brame
 booly
 barbered
-backhanding
 betatters
 borocarbide
 burstone
