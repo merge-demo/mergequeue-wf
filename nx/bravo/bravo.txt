@@ -7493,6 +7493,7 @@ baldnesses
 bettermost
 bouldery
 bedeviling
+bewinged
 bebeerine
 bifidities
 barbeau
@@ -13092,7 +13093,6 @@ babishly
 breeching
 billions
 barricade
-bewinged
 bagataway
 bonded
 baltheus
