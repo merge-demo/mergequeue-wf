@@ -8196,7 +8196,6 @@ before
 bash
 banishes
 buffalos
-baldpate
 ballote
 bienly
 boyism
@@ -14018,6 +14017,7 @@ boxing
 boxman
 boxroom
 bromatium
+baldpate
 bulrushes
 bacteriofluorescin
 borghese
