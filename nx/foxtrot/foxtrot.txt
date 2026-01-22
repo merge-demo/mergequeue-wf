@@ -4568,6 +4568,7 @@ fleadock
 ferrovanadium
 flogging
 felinae
+fishlike
 flattop
 foliicolous
 forblow
@@ -5390,7 +5391,6 @@ fomalhaut
 flats
 flintworker
 frontingly
-fishlike
 fourrag
 flowingness
 fauconnier
