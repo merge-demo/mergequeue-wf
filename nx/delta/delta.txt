@@ -1221,7 +1221,6 @@ datemark
 disenter
 diaconal
 deleting
-drink
 davidist
 daterman
 diabolification
@@ -1624,6 +1623,7 @@ difficulty
 dimetrodon
 deodate
 datolitic
+drink
 domify
 devertebrated
 daydrudge
