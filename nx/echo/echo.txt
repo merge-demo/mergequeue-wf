@@ -1290,7 +1290,6 @@ emperors
 emissions
 eking
 eyelessness
-egophony
 electrocystoscope
 endorsors
 expands
@@ -7535,6 +7534,7 @@ epiboulangerite
 episomes
 epidermically
 ergotism
+egophony
 expoliate
 ecuelle
 etherate
