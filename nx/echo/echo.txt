@@ -1115,7 +1115,6 @@ edificed
 encyclopedias
 enlightens
 essayish
-edifying
 embattling
 egolatrous
 edile
@@ -7299,6 +7298,7 @@ endothorax
 eosinoblast
 ennage
 eosinophile
+edifying
 emptyhearted
 euonymuses
 emcee
