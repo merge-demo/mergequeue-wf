@@ -6312,6 +6312,7 @@ galidia
 gconv
 gentle
 gulpin
+goby
 gendarmery
 graithly
 gospelly
@@ -8192,7 +8193,6 @@ gulch
 griding
 grayhound
 gypsuming
-goby
 greekist
 gallet
 graustark
