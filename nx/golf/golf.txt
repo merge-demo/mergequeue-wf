@@ -4148,7 +4148,6 @@ gelechiid
 gonagia
 gaulic
 gaufer
-glorification
 greed
 gulgul
 gratifiedly
@@ -6085,6 +6084,7 @@ gunate
 geyerite
 gondoliers
 glovemen
+glorification
 glutenin
 grouch
 glycemia
