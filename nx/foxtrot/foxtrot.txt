@@ -4641,6 +4641,7 @@ fenester
 fermatian
 frictionize
 frutices
+floscularia
 flabbily
 fossilized
 fool
@@ -7734,7 +7735,6 @@ fools
 faluns
 forefield
 factitiousness
-floscularia
 fructosan
 flimsilyst
 flips
