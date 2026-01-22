@@ -881,7 +881,6 @@ gadis
 glove
 gunmaking
 gers
-glossarize
 goolde
 gangplank
 guerrilla
@@ -1977,6 +1976,7 @@ glucosidal
 gorbellied
 global
 glutetei
+glossarize
 gruft
 gustoso
 gobans
