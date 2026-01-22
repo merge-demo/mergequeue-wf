@@ -3023,6 +3023,7 @@ deerfly
 dandisette
 disafforestment
 dragonfish
+dipping
 deerhound
 diphthongs
 duckboard
@@ -10780,7 +10781,6 @@ dolently
 dactylioglyphic
 demurs
 dippier
-dipping
 dentes
 dippings
 draff
