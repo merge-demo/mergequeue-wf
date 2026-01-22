@@ -7431,6 +7431,7 @@ anaptychi
 arsmetrik
 albumeniser
 albumenization
+autolatry
 albumenized
 autopathography
 aerophoto
@@ -13440,7 +13441,6 @@ annoy
 alister
 annoyance
 athenian
-autolatry
 attributal
 annoyances
 anthropopathy
