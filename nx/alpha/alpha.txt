@@ -11227,7 +11227,6 @@ avoir
 apetalies
 amphithura
 amphipnous
-aniba
 amphibian
 anticodon
 asperated
@@ -12706,6 +12705,7 @@ angiomas
 acquits
 anxiety
 anoestrous
+aniba
 airbrushed
 asexual
 astakiwi
