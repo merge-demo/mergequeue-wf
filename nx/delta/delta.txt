@@ -10484,7 +10484,6 @@ diphenylchloroarsine
 diphenylene
 discoideae
 diodon
-disnatural
 delace
 disinterring
 diphenyls
@@ -15526,6 +15525,7 @@ doubt
 deflux
 divelled
 deltas
+disnatural
 diocesian
 diathermize
 dielytra
