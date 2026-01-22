@@ -4166,7 +4166,6 @@ glossem
 glosts
 gizmos
 girandole
-garmentless
 genetor
 gyropilot
 galaxiidae
@@ -7694,6 +7693,7 @@ guenons
 geomantic
 gradated
 glucosazone
+garmentless
 geophilous
 grafts
 geospiza
