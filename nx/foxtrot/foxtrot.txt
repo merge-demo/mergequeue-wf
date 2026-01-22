@@ -204,7 +204,6 @@ forcut
 factoryship
 floatiness
 fraudulence
-fluctuates
 fusinite
 feuar
 filiety
@@ -2286,6 +2285,7 @@ fainaiguer
 fatil
 fain
 fenced
+fluctuates
 forkiest
 fengite
 fibromyectomy
