@@ -4866,6 +4866,7 @@ emotionize
 embusy
 eucatropine
 escapable
+eneid
 egalitarians
 epigenesis
 exorciser
@@ -8684,7 +8685,6 @@ enplanement
 elastometer
 eltrot
 equipedal
-eneid
 endotheliomyoma
 earthshaking
 epithalamiumia
