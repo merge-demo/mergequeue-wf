@@ -6104,7 +6104,6 @@ gruffiness
 grewsomer
 gemuetlich
 gamines
-grandaddy
 glochidial
 grizelin
 guly
@@ -8144,6 +8143,7 @@ goodnight
 gilliflower
 gratefullest
 granitiform
+grandaddy
 gaslightness
 granitite
 ghain
