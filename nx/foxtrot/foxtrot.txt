@@ -1117,6 +1117,7 @@ ferula
 fishling
 fastback
 farrisite
+foreordain
 facilitate
 fleerish
 firehalls
@@ -5646,7 +5647,6 @@ favourite
 furunculus
 fw
 foamily
-foreordain
 flatterable
 flagon
 fol
