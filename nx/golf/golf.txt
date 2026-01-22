@@ -5706,7 +5706,6 @@ gypsyhead
 glyoxal
 glooms
 gullably
-gratefuller
 glasses
 glassrope
 gahnite
@@ -9746,6 +9745,7 @@ gascons
 grumous
 gowaned
 gelable
+gratefuller
 graphologies
 gradative
 glareous
