@@ -13421,7 +13421,6 @@ brusquely
 batteaux
 bothersomely
 basivertebral
-bothie
 bardesanist
 baggers
 batons
@@ -13719,6 +13718,7 @@ burgherage
 bondholder
 billboard
 bevelment
+bothie
 bourasque
 bradypeptic
 bedaubed
