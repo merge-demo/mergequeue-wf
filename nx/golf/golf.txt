@@ -5755,6 +5755,7 @@ gertrude
 gilbertine
 gloveress
 gimmaled
+guignol
 gestning
 gunsman
 graviers
@@ -9515,7 +9516,6 @@ gothicism
 greenhood
 gastrulate
 garniec
-guignol
 grapple
 glorified
 gasolinic
