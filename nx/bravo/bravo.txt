@@ -5719,7 +5719,6 @@ bemuzzles
 boilingly
 blasphemously
 badman
-beliers
 belies
 braziery
 believers
@@ -14434,6 +14433,7 @@ brayera
 brayerin
 brionies
 brayers
+beliers
 bromthymol
 brutedom
 befleaing
