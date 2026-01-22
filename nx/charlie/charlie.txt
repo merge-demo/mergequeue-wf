@@ -1108,6 +1108,7 @@ calcimines
 coops
 crudeness
 choppin
+circinate
 crossbarred
 calcinate
 calcinator
@@ -14066,7 +14067,6 @@ circean
 cuirasses
 circensian
 cobalts
-circinate
 coxcombs
 chirinola
 cyclohexene
