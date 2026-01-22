@@ -1096,7 +1096,6 @@ farrago
 franchisement
 flichters
 fortuities
-feriae
 feudaries
 fleshhood
 foundryman
@@ -10727,6 +10726,7 @@ fieldworker
 flagless
 fallback
 fist
+feriae
 famish
 frightable
 forgiveable

@@ -6500,7 +6500,6 @@ antileptic
 apostasy
 aidant
 aided
-amphigamae
 amchoor
 aydendron
 achenocarp
@@ -12173,6 +12172,7 @@ apocopes
 anatropous
 antiecclesiastic
 aguardiente
+amphigamae
 alnico
 araliaceous
 apprehensions
