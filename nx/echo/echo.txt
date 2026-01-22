@@ -7212,7 +7212,6 @@ epharmonic
 emforth
 eryopsid
 ethnomanic
-exuviability
 encomiastically
 electrons
 ecumenic
@@ -9272,6 +9271,7 @@ embreathement
 entrant
 extirpate
 escout
+exuviability
 eloquential
 electrotypic
 equichangeable
