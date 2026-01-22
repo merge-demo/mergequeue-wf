@@ -7209,7 +7209,6 @@ guard
 gladden
 gestate
 gardinol
-galvayne
 guebre
 grabbers
 geobotanical
@@ -9084,6 +9083,7 @@ goldflower
 guereba
 givin
 galbraithian
+galvayne
 glomera
 gilguy
 groveless
