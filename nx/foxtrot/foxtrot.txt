@@ -2433,7 +2433,6 @@ floundering
 futhorcs
 fleer
 feasant
-fistularia
 flavous
 filipuncture
 felanders
@@ -10094,6 +10093,7 @@ flexitime
 finicky
 fopped
 fiars
+fistularia
 flenching
 frillily
 falderal
