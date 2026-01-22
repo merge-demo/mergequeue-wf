@@ -4781,7 +4781,6 @@ guarnieri
 gumshoe
 grudgingly
 genista
-globosphaerite
 gastrovascular
 galeae
 genteelize
@@ -8676,6 +8675,7 @@ glucosin
 gauntleted
 gulfed
 gingerleaf
+globosphaerite
 glucosuria
 gaslight
 gasteralgia
