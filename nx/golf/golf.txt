@@ -296,7 +296,6 @@ governors
 giles
 garnison
 grantsmanship
-galjoen
 gaudful
 gamphrel
 gourami
@@ -7550,6 +7549,7 @@ gortonian
 glaucophanize
 gangs
 garamond
+galjoen
 glabellous
 gryllus
 ginglymostomoid
