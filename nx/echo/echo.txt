@@ -2643,7 +2643,6 @@ electrophoretogram
 expansure
 estimated
 enthralled
-eosaurus
 eave
 embarrased
 eu
@@ -5278,6 +5277,7 @@ excretolic
 endocorpuscular
 eparchial
 extrusive
+eosaurus
 endorsed
 emendating
 effector
