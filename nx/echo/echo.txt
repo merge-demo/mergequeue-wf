@@ -6542,7 +6542,6 @@ essay
 entamoebic
 endostosis
 extroversion
-embrighten
 ephyra
 exactly
 entomophthora
@@ -7901,6 +7900,7 @@ equipaga
 exululate
 epil
 exoclinal
+embrighten
 encheson
 endorsation
 elixation
