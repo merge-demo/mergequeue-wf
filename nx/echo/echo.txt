@@ -5535,7 +5535,6 @@ eyestones
 eucarida
 enameler
 exequatur
-epigrammatised
 enhusk
 ennuis
 enfeeblish
@@ -5995,6 +5994,7 @@ epilated
 eucommia
 epimere
 expatiatingly
+epigrammatised
 enjoiner
 excubant
 euonym
