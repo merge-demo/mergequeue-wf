@@ -600,7 +600,6 @@ bosket
 bostangi
 bastiment
 bacteriodiagnosis
-bezzle
 bromates
 bacteremic
 behearse
@@ -17804,6 +17803,7 @@ bursaries
 buttermilk
 bursars
 bursch
+bezzle
 bum
 binominated
 bianisidine
