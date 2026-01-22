@@ -2599,6 +2599,7 @@ autogeneal
 almner
 aljamiah
 ancestrial
+apolista
 arctomys
 againstand
 acouometer
@@ -13272,7 +13273,6 @@ anisopoda
 allegretto
 aspca
 agamont
-apolista
 anisopteran
 alf
 absolvitory
