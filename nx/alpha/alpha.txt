@@ -9901,7 +9901,6 @@ amninia
 ambicoloration
 abseiled
 albacore
-ambidexterity
 anthocephalous
 ambidexterities
 andorite
@@ -21310,6 +21309,7 @@ argentide
 artless
 androdioecious
 asymmetranthous
+ambidexterity
 anthropologies
 antiexporting
 antevenient
