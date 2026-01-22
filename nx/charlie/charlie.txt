@@ -130,7 +130,6 @@ coumalic
 chordophone
 clitelline
 cabinetworker
-cabinetworking
 cabinlike
 couches
 crafter
@@ -4440,6 +4439,7 @@ carinula
 catholics
 camisas
 carinulate
+cabinetworking
 champain
 changeably
 carioles
