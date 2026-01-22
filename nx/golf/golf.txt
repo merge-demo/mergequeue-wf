@@ -4816,7 +4816,6 @@ gadling
 gonimolobe
 gamer
 germanophobia
-gryphite
 groop
 goad
 gaels
@@ -6211,6 +6210,7 @@ gomphocarpus
 gamasoidea
 glandiferous
 givens
+gryphite
 glistened
 goliaths
 gages
