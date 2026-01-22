@@ -1980,7 +1980,6 @@ aporetic
 acetylperoxide
 acetylphenylhydrazine
 aslope
-affinite
 ammeter
 acetylphenol
 agogic
@@ -24315,6 +24314,7 @@ aluminographic
 apparent
 aeroporotomy
 abacinate
+affinite
 achafe
 autophon
 aftertaste
