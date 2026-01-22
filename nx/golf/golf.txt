@@ -45,6 +45,7 @@ griller
 guttiferae
 gluemaking
 gablewindowed
+glaserite
 galopades
 gogga
 gonidiophore
@@ -1855,7 +1856,6 @@ glummer
 gabbier
 gatekeepers
 glos
-glaserite
 gentile
 groupage
 garlands
