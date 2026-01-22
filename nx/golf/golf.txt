@@ -7877,6 +7877,7 @@ gerately
 greenkeeper
 glassblowers
 glead
+gigas
 gala
 geographical
 gaj
@@ -8504,7 +8505,6 @@ gallwort
 germigene
 gyring
 geodete
-gigas
 gravelroot
 gentisic
 gubbertush
