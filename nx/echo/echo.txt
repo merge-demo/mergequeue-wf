@@ -8372,7 +8372,6 @@ enterocolostomy
 exuvial
 emanative
 eyetooth
-educative
 excitomotory
 exclusory
 endiadem
@@ -11927,6 +11926,7 @@ enragement
 expurgation
 ephidrosis
 excerebration
+educative
 extraphysical
 endemiology
 eudaemonistically
