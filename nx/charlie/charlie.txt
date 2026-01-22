@@ -3096,7 +3096,6 @@ capableness
 clayoquot
 challengingly
 cirque
-capably
 cerecloth
 cowpat
 cordies
@@ -8880,6 +8879,7 @@ compactedness
 cowards
 compile
 characterism
+capably
 cueing
 characteristically
 characteristicalness
