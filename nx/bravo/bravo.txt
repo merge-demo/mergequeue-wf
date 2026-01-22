@@ -14252,7 +14252,6 @@ bestowal
 baikerite
 bashlyks
 breed
-bafflement
 bradawls
 bryanite
 boxerism
@@ -16246,6 +16245,7 @@ brotocrystal
 bezaleelian
 borts
 blote
+bafflement
 bithynian
 brotuliform
 blight
