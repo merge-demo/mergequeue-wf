@@ -10891,6 +10891,7 @@ antilactase
 antagonist
 amylophosphoric
 aromatizing
+affeerment
 acheat
 apoplectic
 abomasum
@@ -19782,7 +19783,6 @@ acrodermatitis
 airplanes
 anilid
 armamentarium
-affeerment
 armangite
 amalic
 auriculars
