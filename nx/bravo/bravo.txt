@@ -189,6 +189,7 @@ baccalaureates
 baccalaureus
 baroques
 bandido
+bundlet
 byes
 bitt
 baccated
@@ -15704,7 +15705,6 @@ bacteriosis
 birdweed
 bosoming
 bauxitite
-bundlet
 bluster
 baccilli
 botulismus
