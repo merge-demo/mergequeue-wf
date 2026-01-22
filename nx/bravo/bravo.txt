@@ -11216,6 +11216,7 @@ bloodthirster
 beliquors
 blindages
 bedewoman
+becurse
 bitewing
 beknot
 bitewings
@@ -16607,7 +16608,6 @@ blockheadism
 bandster
 bsf
 burghalpenny
-becurse
 bedsit
 blepharophthalmia
 bocasine
