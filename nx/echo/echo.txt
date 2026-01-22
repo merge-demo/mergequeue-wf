@@ -8500,6 +8500,7 @@ epsilons
 equivalency
 entryways
 enzymologies
+endocolpitis
 entrants
 emda
 enregiment
@@ -8854,7 +8855,6 @@ euphemist
 exomologesis
 evocable
 erectable
-endocolpitis
 erecters
 erectile
 egyptology
