@@ -8871,7 +8871,6 @@ gallus
 globate
 griege
 grunting
-gm
 guatemalans
 girrit
 grandparenthood
@@ -9985,6 +9984,7 @@ gateway
 granddaddies
 governesshood
 gradgrindism
+gm
 gymnite
 gulleting
 glossoptosis
