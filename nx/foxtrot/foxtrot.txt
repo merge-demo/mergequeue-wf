@@ -6911,6 +6911,7 @@ frolics
 froebelian
 freehanded
 flyers
+fatefulness
 ferme
 fiendliness
 flaccidity
@@ -10663,7 +10664,6 @@ frostily
 fellowmen
 freakouts
 fibrination
-fatefulness
 flappet
 fortifier
 fuzzes
