@@ -512,7 +512,6 @@ glossocoma
 gratuity
 gamekeepers
 gruffing
-geologers
 girnel
 graff
 galivants
@@ -9680,6 +9679,7 @@ glaucodote
 geests
 glout
 gleeman
+geologers
 goiter
 grizzlier
 guarish
