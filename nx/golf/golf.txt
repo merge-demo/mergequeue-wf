@@ -1217,7 +1217,6 @@ gorilla
 gaplessness
 gourmandise
 gappier
-gladiatorial
 genesiacal
 gradations
 globular
@@ -9665,6 +9664,7 @@ gadger
 gangerel
 gossipmonger
 ghostwriting
+gladiatorial
 guzerat
 gallize
 goniodorididae
