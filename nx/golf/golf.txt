@@ -902,6 +902,7 @@ geologer
 guessworker
 gleaminess
 glutethimide
+genic
 gangrels
 gobioid
 goosebird
@@ -2704,7 +2705,6 @@ gratifiable
 glycogeny
 gymnodont
 globins
-genic
 georgians
 gooseweed
 gaze
