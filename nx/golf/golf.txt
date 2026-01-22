@@ -2736,7 +2736,6 @@ gestae
 gynandry
 grassman
 genyophrynidae
-geodesic
 glamours
 granularity
 gravedigger
@@ -9165,6 +9164,7 @@ garlicmonger
 geophagist
 galago
 gastroenterostomy
+geodesic
 guillemet
 grindable
 gibbose
