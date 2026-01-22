@@ -3331,6 +3331,7 @@ eunice
 ecumenicize
 euphonize
 ethopoeia
+endemisms
 epitaphical
 estevin
 empathizes
@@ -12066,7 +12067,6 @@ eris
 enfoldment
 enamellers
 excuseless
-endemisms
 emplume
 excreta
 eskers
