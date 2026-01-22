@@ -13981,7 +13981,6 @@ birdlike
 bowstrung
 behavior
 bowtell
-barographic
 backpointer
 byspell
 broadened
@@ -15240,6 +15239,7 @@ blowhards
 blancs
 barbiturate
 bombardon
+barographic
 batwa
 brightsmith
 brotherliness
