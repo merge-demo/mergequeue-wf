@@ -3967,6 +3967,7 @@ filea
 fined
 faulty
 fireboot
+favel
 flapperhood
 furthers
 formature
@@ -8212,7 +8213,6 @@ farcify
 fireflies
 fannell
 flatcaps
-favel
 featurette
 fuchsias
 fellable
