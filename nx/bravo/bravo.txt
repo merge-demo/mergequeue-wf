@@ -6903,7 +6903,6 @@ brandi
 barrelhead
 burbankism
 beseige
-biliverdic
 botchers
 bescutcheon
 bondservant
@@ -8608,6 +8607,7 @@ bastinading
 billety
 billets
 belis
+biliverdic
 brainlike
 bassaris
 brauneberger
