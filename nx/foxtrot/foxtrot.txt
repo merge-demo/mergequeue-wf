@@ -4859,7 +4859,6 @@ filigrain
 flageolets
 fissiparousness
 flagfishes
-fubsy
 forbiddenness
 faculae
 frenzily
@@ -9332,6 +9331,7 @@ frug
 fraik
 fertilities
 fretwise
+fubsy
 ferruginated
 fantaisie
 freemasons
