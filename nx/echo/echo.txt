@@ -5584,6 +5584,7 @@ evangel
 extratympanic
 empathetically
 exuvium
+elevator
 evader
 estimably
 endaortic
@@ -12077,7 +12078,6 @@ engulfs
 edentates
 expressor
 easels
-elevator
 echevaria
 ekphoria
 erepsin
