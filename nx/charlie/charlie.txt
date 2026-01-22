@@ -16995,6 +16995,7 @@ concretize
 certainer
 commerces
 clunkers
+corrige
 corregidors
 crowner
 clunter
@@ -25713,7 +25714,6 @@ corniche
 corridas
 corridors
 corriedale
-corrige
 corrigenda
 compossibility
 corrigible
