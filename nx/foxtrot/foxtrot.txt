@@ -1064,6 +1064,7 @@ folates
 farmership
 fulgence
 festschriften
+feldspathoid
 felicitated
 floreal
 fortepiano
@@ -2092,7 +2093,6 @@ favissae
 folkway
 fusulas
 frory
-feldspathoid
 foys
 forehook
 fwelling
