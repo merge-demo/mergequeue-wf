@@ -5039,7 +5039,6 @@ emphaticalness
 ectoproct
 enrage
 exemplum
-editorialized
 elopes
 endoaortitis
 endoappendicitis
@@ -5703,6 +5702,7 @@ electrorefining
 extrasacerdotal
 enantiosis
 engild
+editorialized
 engilding
 empirism
 exophthalmic
