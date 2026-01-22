@@ -3733,6 +3733,7 @@ guajillo
 glamorize
 gangwa
 genae
+galloper
 glops
 gooselike
 gurgly
@@ -4628,7 +4629,6 @@ gilim
 graphometry
 guergal
 glim
-galloper
 gladiole
 guardrail
 gullet
