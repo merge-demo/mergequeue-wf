@@ -3612,7 +3612,6 @@ grogginess
 gantangs
 graziers
 gigtree
-griffe
 gymnodiniaceous
 glycuronid
 gnathopod
@@ -9003,6 +9002,7 @@ gall
 gastroduodenostomy
 gallicola
 grizzlyman
+griffe
 ghostwrites
 groutiest
 gesso
