@@ -512,6 +512,7 @@ boart
 ballyhooing
 backtenter
 beggingwise
+beleft
 blennioid
 backtracking
 backtracks
@@ -2793,7 +2794,6 @@ brownstone
 boose
 buboed
 bookies
-beleft
 been
 baroneting
 baronetize
