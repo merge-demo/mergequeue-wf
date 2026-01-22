@@ -538,6 +538,7 @@ foretokens
 fiumara
 flench
 forcleave
+foveolas
 fakery
 flaxweed
 foreconsider
@@ -8069,7 +8070,6 @@ floroun
 foreskin
 flexures
 forestal
-foveolas
 foggish
 fluate
 floran
