@@ -9967,7 +9967,6 @@ chequer
 chequered
 chequers
 creosoted
-chalukya
 chequerwork
 chequin
 chercock
@@ -13292,6 +13291,7 @@ chancrous
 cavalcades
 cyclometer
 choeropsis
+chalukya
 cavetti
 couchers
 crudding
