@@ -4338,7 +4338,6 @@ aikuchi
 autotriploid
 adsorbability
 alphabetisation
-archpuritan
 allocryptic
 adsorbable
 argus
@@ -5902,6 +5901,7 @@ apprehensive
 atelorachidia
 anhaematopoiesis
 aerogeology
+archpuritan
 adit
 amazonstone
 apostacies
