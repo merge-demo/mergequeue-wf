@@ -279,7 +279,6 @@ ferricyanate
 foretimes
 firedamp
 flutter
-fadge
 fermery
 fusile
 flammant
@@ -9748,6 +9747,7 @@ fregata
 faunist
 furthered
 frondent
+fadge
 forfairn
 freibergite
 fierasferid
