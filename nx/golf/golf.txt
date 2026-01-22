@@ -4650,6 +4650,7 @@ gasify
 giornata
 guadagnini
 guarantees
+garbled
 glycerizin
 geast
 gufought
@@ -8404,7 +8405,6 @@ gracefulness
 gobber
 greyer
 geanticlinal
-garbled
 gentes
 gladness
 graphostatic

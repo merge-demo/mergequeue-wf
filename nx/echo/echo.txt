@@ -11592,7 +11592,6 @@ ess
 extypal
 eperva
 extraburghal
-elenchus
 embrittled
 edea
 errantness
@@ -12704,6 +12703,7 @@ ecliptically
 esotericist
 erie
 eucleidae
+elenchus
 emparadise
 exodontics
 endorsor
