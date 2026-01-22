@@ -4918,6 +4918,7 @@ deathwatches
 delists
 deserter
 disbursed
+decrease
 dabsters
 dictators
 demoraliser
@@ -12028,7 +12029,6 @@ dentifrices
 degum
 detestability
 dissociate
-decrease
 dyable
 doweled
 disembitter
