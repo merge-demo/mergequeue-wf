@@ -615,7 +615,6 @@ chiropod
 citizenizing
 constrictors
 caelometer
-cresson
 caenogenetic
 costume
 climata
@@ -3580,6 +3579,7 @@ caucused
 calvarias
 captives
 curbstones
+cresson
 captor
 capturable
 capture

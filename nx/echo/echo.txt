@@ -11362,6 +11362,7 @@ electrocute
 epupillate
 enwrap
 evapotranspiration
+equiarticulate
 ephetic
 effodientia
 ecaudata
@@ -13832,7 +13833,6 @@ elasmobranch
 effervescingly
 electrophilic
 extracystic
-equiarticulate
 extracivic
 enscale
 euchroite
