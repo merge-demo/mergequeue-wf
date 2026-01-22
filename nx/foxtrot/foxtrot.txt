@@ -1559,7 +1559,6 @@ fistiness
 flustroid
 feedbox
 flourishingly
-flippant
 foodless
 female
 firelit
@@ -3287,6 +3286,7 @@ forewinning
 fictitiousness
 fistularioid
 fable
+flippant
 fortieths
 flighter
 freehearted
