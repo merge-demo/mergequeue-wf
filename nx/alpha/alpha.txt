@@ -24567,6 +24567,7 @@ auxinically
 anaconda
 anisilic
 amober
+arachis
 auxoamylase
 autofecundation
 assurgent
@@ -24960,7 +24961,6 @@ awat
 atomizing
 adiaphorous
 abfarad
-arachis
 awave
 atilt
 aldine
