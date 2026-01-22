@@ -1651,7 +1651,6 @@ extraphysiological
 expounded
 egret
 exsanguine
-eelery
 egromancy
 egurgitate
 egurgitated
@@ -5499,6 +5498,7 @@ environ
 ejaculates
 embalmers
 enervating
+eelery
 electroscope
 elritch
 ectocarpic
