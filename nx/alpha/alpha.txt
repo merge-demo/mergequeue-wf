@@ -11588,7 +11588,6 @@ arrage
 accelerates
 assuror
 anaemotropy
-ambulacrum
 acerbity
 anaerobation
 antiquist
@@ -14620,6 +14619,7 @@ antiantitoxin
 antianxiety
 alphos
 antiboss
+ambulacrum
 attaching
 antiaquatic
 antiar
