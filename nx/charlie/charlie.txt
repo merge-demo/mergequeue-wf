@@ -1713,7 +1713,6 @@ computing
 calorimetry
 cypreses
 calorimetrical
-carvyl
 calorimetrically
 calorimotor
 calorizing
@@ -14813,6 +14812,7 @@ commiseratively
 cytogenetic
 chiromegaly
 cornsack
+carvyl
 cytogenic
 cahill
 cytoglobin
