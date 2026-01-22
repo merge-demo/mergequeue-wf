@@ -3554,7 +3554,6 @@ forebowels
 formulism
 farness
 flubbing
-fleches
 falcones
 fulgorid
 fusicladium
@@ -8553,6 +8552,7 @@ formicid
 forger
 formicine
 fashiousness
+fleches
 fluidal
 formylal
 fervorless
