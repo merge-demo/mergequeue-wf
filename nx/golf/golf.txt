@@ -80,7 +80,6 @@ gymnopaedes
 galabia
 gratify
 glandulose
-garbling
 graunt
 gabbai
 gadge
@@ -5709,6 +5708,7 @@ glooms
 gullably
 glasses
 glassrope
+garbling
 gahnite
 guar
 glorifications
