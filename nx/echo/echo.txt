@@ -2121,6 +2121,7 @@ extradictionary
 evejar
 eurycephalous
 edenite
+enkolpia
 exudes
 eberthella
 embrave
@@ -5566,7 +5567,6 @@ exestuate
 extrapituitary
 enucleator
 erroneousness
-enkolpia
 evocators
 eugenists
 enfants
