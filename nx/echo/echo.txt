@@ -5020,7 +5020,6 @@ equerry
 enrolled
 extraordinaries
 eclairs
-econometer
 encyclopediac
 encaenia
 endophragmal
@@ -10122,6 +10121,7 @@ evolving
 ethenoid
 exonian
 eternalize
+econometer
 eyecups
 ensorcelize
 easter
