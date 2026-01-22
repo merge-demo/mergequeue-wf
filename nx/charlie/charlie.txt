@@ -11766,7 +11766,6 @@ connubiate
 chondrofibroma
 campaigned
 cognation
-chondrogenesis
 corelation
 corbiculate
 chondroglossal
@@ -30905,6 +30904,7 @@ culturine
 carbro
 countertraverse
 chainette
+chondrogenesis
 cystoids
 coigns
 crotched
