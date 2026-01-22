@@ -4227,6 +4227,7 @@ gyrocompass
 gundogs
 gur
 gnathites
+galahs
 glaswegian
 gibbeted
 goney
@@ -10116,7 +10117,6 @@ guesser
 gonads
 gamogenesis
 goniopholis
-galahs
 gettableness
 generalized
 greetingless
