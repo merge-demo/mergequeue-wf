@@ -4525,7 +4525,6 @@ gundog
 gymnastically
 graves
 grus
-gyassa
 generaliter
 greffier
 glamberry
@@ -6746,6 +6745,7 @@ gymnosperm
 gangplows
 grattage
 gewgawed
+gyassa
 growse
 gardenize
 goup

@@ -3680,6 +3680,7 @@ enascent
 eudaemonize
 elfkin
 estimators
+effectful
 elaeocarpaceous
 ecocidal
 epitrachelion
@@ -5538,7 +5539,6 @@ enhusk
 ennuis
 enfeeblish
 explat
-effectful
 enhearse
 epilimnetic
 euhemerizing
