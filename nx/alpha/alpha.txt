@@ -9512,7 +9512,6 @@ agrom
 alumic
 alumiferous
 acroamatics
-autoinoculation
 autotrophy
 australorp
 assument
@@ -9798,6 +9797,7 @@ axle
 alloquial
 argean
 algine
+autoinoculation
 acromiosternal
 acceptive
 antidotal
