@@ -7386,7 +7386,6 @@ fratricidal
 foeffment
 flares
 forecasts
-fireshaft
 fulgently
 formiate
 friendless
@@ -10927,6 +10926,7 @@ filigreing
 filagreing
 fractiously
 forehinting
+fireshaft
 freestone
 furore
 foeman
