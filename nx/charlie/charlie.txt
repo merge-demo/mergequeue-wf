@@ -22106,7 +22106,6 @@ crocine
 cedrium
 conformator
 conformed
-conformer
 coercibleness
 cumbered
 curvate
@@ -28188,6 +28187,7 @@ crannied
 crannies
 chalcididae
 calefy
+conformer
 connecting
 crannying
 compiler
