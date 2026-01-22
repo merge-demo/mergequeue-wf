@@ -9220,7 +9220,6 @@ crombec
 chastest
 censurers
 ceduous
-candours
 chastiment
 cryology
 clapperboard
@@ -26568,6 +26567,7 @@ circumscription
 coumaphos
 coumara
 coumaran
+candours
 coumaric
 calopogon
 celluloided
