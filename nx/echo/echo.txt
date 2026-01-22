@@ -4119,7 +4119,6 @@ ethological
 earthset
 eulogizing
 enventual
-evendown
 euhemerism
 ecdysis
 expertly
@@ -5338,6 +5337,7 @@ endocline
 encoring
 enarme
 endosteomata
+evendown
 enwingly
 euonymus
 excarnate
