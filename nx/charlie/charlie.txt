@@ -4002,6 +4002,7 @@ cathodoluminescence
 carcases
 crueler
 carcass
+cheveret
 carcassing
 carcavelhos
 coonjine
@@ -25715,7 +25716,6 @@ corniche
 corridas
 corridors
 corriedale
-cheveret
 corrige
 corrigenda
 compossibility
