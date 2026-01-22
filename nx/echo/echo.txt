@@ -4708,6 +4708,7 @@ encyclopedical
 exacerbating
 egence
 envire
+environment
 esrogs
 eudipleural
 epichristian
@@ -7089,7 +7090,6 @@ enheritance
 exclamation
 engilded
 evangely
-environment
 enzymolytic
 entry
 expansionary
