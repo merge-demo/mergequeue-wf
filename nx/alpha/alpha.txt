@@ -17841,6 +17841,7 @@ appreciativeness
 appreciatory
 aerify
 appreciators
+anemometer
 aceship
 andamento
 amblers
@@ -17909,7 +17910,6 @@ amblypod
 alcoholist
 accubitus
 approaching
-anemometer
 approbated
 anachronist
 advects
