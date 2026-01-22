@@ -3518,7 +3518,6 @@ excursionism
 enate
 epees
 enanthema
-elaeothesium
 enginemen
 excusative
 epistemologist
@@ -5809,6 +5808,7 @@ engouement
 embolization
 eburnated
 engoument
+elaeothesium
 evade
 extogenous
 emulatory
