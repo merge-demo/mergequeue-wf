@@ -9801,7 +9801,6 @@ essorant
 expositional
 expenditrix
 echiuroidea
-engrave
 equilaterally
 etherish
 efficiencies
@@ -11829,6 +11828,7 @@ exists
 exauthorizeexc
 equimolal
 eplot
+engrave
 externization
 epipolism
 enviably
