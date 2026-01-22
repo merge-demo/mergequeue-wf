@@ -6577,7 +6577,6 @@ desecrater
 drew
 duckfooted
 duet
-dermol
 danburite
 desdemona
 dilemmatical
@@ -11745,6 +11744,7 @@ demiditone
 dishexecontahedroid
 discost
 digitally
+dermol
 discotheque
 disengirdle
 diagramed
