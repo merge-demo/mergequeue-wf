@@ -4381,7 +4381,6 @@ chaussee
 consecrated
 caricology
 crisper
-counterslope
 caricologist
 cowlstaff
 caricous
@@ -21722,6 +21721,7 @@ caranda
 cecidomyiid
 cedens
 commy
+counterslope
 crackling
 cinchonism
 conditioner
