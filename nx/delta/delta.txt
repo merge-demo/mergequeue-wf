@@ -853,7 +853,6 @@ dripproof
 disincrustant
 decrescendo
 deliberative
-dansy
 dansker
 danta
 droppy
@@ -9121,6 +9120,7 @@ discommodity
 diluvy
 defiances
 dictyotales
+dansy
 dictyotic
 dailiness
 devow
