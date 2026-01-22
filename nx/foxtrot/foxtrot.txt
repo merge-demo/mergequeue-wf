@@ -8191,6 +8191,7 @@ faveoli
 freshmanship
 foretaster
 foretasting
+fermacy
 fretsaw
 falisci
 fractionate
@@ -10483,7 +10484,6 @@ filigree
 flow
 flamelet
 flyspecked
-fermacy
 firstling
 forcaria
 filesmith
