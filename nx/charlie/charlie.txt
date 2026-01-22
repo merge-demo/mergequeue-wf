@@ -20139,6 +20139,7 @@ cuspids
 commingler
 commingles
 calabazilla
+cruciate
 commingling
 comminuted
 caridomorpha
@@ -29107,7 +29108,6 @@ callitrichaceae
 cnemides
 crinums
 crowstep
-cruciate
 compotier
 cryobiological
 cryobiologist
