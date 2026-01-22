@@ -752,7 +752,6 @@ guglia
 gravamina
 gossypin
 golem
-gnawer
 gasted
 goatee
 gustfulness
@@ -10102,6 +10101,7 @@ gigant
 groomish
 gigman
 galivanting
+gnawer
 glore
 gudgeon
 goldi
