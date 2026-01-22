@@ -2176,7 +2176,6 @@ camphols
 contemnor
 camphorated
 camphory
-carrotweed
 camphoryl
 corgi
 cygnets
@@ -10299,6 +10298,7 @@ circuting
 comfortable
 chickamauga
 conia
+carrotweed
 catechumenically
 camaieu
 clupeiform
