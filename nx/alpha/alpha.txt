@@ -23824,7 +23824,6 @@ artefacts
 austrogaea
 autotomize
 ampules
-atheriogaea
 accouplement
 ambrosio
 archeocyte
@@ -25213,6 +25212,7 @@ aardvarks
 assentatorily
 atomists
 atlas
+atheriogaea
 anticked
 antienzymatic
 aalii
