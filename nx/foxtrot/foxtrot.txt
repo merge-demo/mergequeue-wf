@@ -3388,7 +3388,6 @@ fullmouthedly
 fandom
 fulcra
 flon
-forsung
 fidge
 frogfoot
 flavorer
@@ -6792,6 +6791,7 @@ flores
 frippery
 fairways
 fogfruit
+forsung
 formulatory
 fruiteress
 flintlock
