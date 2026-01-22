@@ -4630,7 +4630,6 @@ graphometry
 guergal
 glim
 galloper
-grinter
 gladiole
 guardrail
 gullet
@@ -6990,6 +6989,7 @@ gonium
 grx
 gentianal
 geometrised
+grinter
 geostatics
 gibier
 goodwife
