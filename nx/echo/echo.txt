@@ -3741,6 +3741,7 @@ expectant
 elec
 eluates
 epitheliosis
+extracutaneous
 elucidators
 epichirema
 embryophore
@@ -13606,7 +13607,6 @@ exsufflate
 exsufflation
 expressio
 empathies
-extracutaneous
 evasions
 epimyocardium
 externa
