@@ -10979,7 +10979,6 @@ blindstories
 bromeliad
 brede
 bristly
-blindweed
 blindworm
 backscratcher
 blackamoor
@@ -14648,6 +14647,7 @@ barillas
 boopic
 brandon
 branchful
+blindweed
 brandrith
 brandyball
 belue
