@@ -7304,7 +7304,6 @@ centrosphere
 crevassed
 cylinderer
 centum
-colorcaster
 copopsia
 catarinite
 cryptococcal
@@ -12706,6 +12705,7 @@ courtesied
 crouching
 countermarch
 cassone
+colorcaster
 conventioneer
 clingingness
 countervail
