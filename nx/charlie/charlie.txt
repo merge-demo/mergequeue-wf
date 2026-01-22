@@ -8677,7 +8677,6 @@ chansonniers
 chantey
 counterlighted
 conspired
-chantepleure
 chondroid
 caudaite
 chanterelle
@@ -15183,6 +15182,7 @@ clayer
 contchar
 clayier
 centetes
+chantepleure
 clayiest
 cubitocarpal
 clayiness
