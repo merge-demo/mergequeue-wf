@@ -883,7 +883,6 @@ flexing
 foreflank
 fantasmal
 fundus
-fantasms
 friskier
 forsloth
 fractable
@@ -1219,6 +1218,7 @@ flukeless
 forgo
 filatures
 fainness
+fantasms
 falconine
 fannon
 fascista
