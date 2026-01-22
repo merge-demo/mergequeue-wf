@@ -5806,6 +5806,7 @@ factional
 facilitator
 flype
 feodaries
+feltness
 franchise
 feist
 funiculi
@@ -9676,7 +9677,6 @@ friableness
 frizzing
 fishpound
 fivestones
-feltness
 fothering
 flanger
 flagellant
