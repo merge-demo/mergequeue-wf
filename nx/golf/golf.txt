@@ -915,6 +915,7 @@ gawking
 genteeler
 gaverick
 guna
+glaur
 gambia
 gerbillus
 garava
@@ -10365,7 +10366,6 @@ grumbled
 greenlets
 geum
 goadlike
-glaur
 grouseberry
 gelate
 garretmaster
