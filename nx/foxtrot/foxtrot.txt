@@ -5717,7 +5717,6 @@ facades
 forecabin
 freeholdership
 fortitude
-fustilugs
 furmint
 fleysome
 florescent
@@ -5862,6 +5861,7 @@ fisher
 farth
 fiaschi
 fecket
+fustilugs
 flyspecking
 folate
 fill
