@@ -1468,7 +1468,6 @@ enciente
 epipodialia
 erythrocytolytic
 exaggeratory
-epistolize
 ethylated
 ebbing
 electromassage
@@ -13538,6 +13537,7 @@ editing
 eristic
 epitomic
 extrastapedial
+epistolize
 epigrapher
 expanses
 elinor
