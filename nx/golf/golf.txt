@@ -5023,7 +5023,6 @@ gauziest
 goldic
 generant
 gymnogen
-galling
 gaslit
 glew
 goodwilled
@@ -10189,6 +10188,7 @@ guidepost
 guerillaism
 geostrategist
 granulated
+galling
 gaoloring
 goosery
 genethliac
