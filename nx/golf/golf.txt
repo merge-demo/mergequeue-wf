@@ -2679,6 +2679,7 @@ guaranis
 gardeviance
 gibbles
 gunbright
+graphotype
 genevan
 giboia
 grudgingness
@@ -8353,7 +8354,6 @@ glyconics
 gasteria
 graphoscope
 grudgeless
-graphotype
 gummic
 gastly
 grapier
