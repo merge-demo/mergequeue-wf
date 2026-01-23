@@ -5279,7 +5279,6 @@ emulsionize
 elusiveness
 engrafting
 ecmnesia
-entopterygoid
 extravagation
 enrolles
 ethylmorphine
@@ -10456,6 +10455,7 @@ earwigging
 epiphanize
 electropositive
 enfranchisable
+entopterygoid
 each
 elusoriness
 exchanged
