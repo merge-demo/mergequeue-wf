@@ -2652,7 +2652,6 @@ guest
 glossopetra
 gemelled
 glossosteresis
-gambir
 gastrocolic
 glycohemia
 goldfish
@@ -5910,6 +5909,7 @@ ganymedes
 grysbok
 ghostliest
 guildship
+gambir
 gastroplication
 gyle
 guadalcazarite
