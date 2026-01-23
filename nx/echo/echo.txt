@@ -1225,6 +1225,7 @@ elenge
 eldest
 earthquake
 entirities
+enchainment
 enwombed
 espathate
 elicited
@@ -6924,7 +6925,6 @@ enstatolite
 exaugurate
 eudemonist
 envisaged
-enchainment
 expectative
 estrins
 extortionate

@@ -12430,7 +12430,6 @@ drammer
 decoagulation
 dietetist
 dichromaticism
-deathweed
 dishcloth
 defiladed
 dishcloths
@@ -14106,6 +14105,7 @@ despin
 distream
 district
 districting
+deathweed
 defoaming
 decarnate
 doree
