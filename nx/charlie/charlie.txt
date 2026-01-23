@@ -4997,6 +4997,7 @@ cypseli
 cartographic
 cartographical
 cartographically
+cognisableness
 carton
 cartoner
 cartonful
@@ -17856,7 +17857,6 @@ cellularly
 codefendant
 codeina
 carby
-cognisableness
 cakemaking
 communion
 cunjah
