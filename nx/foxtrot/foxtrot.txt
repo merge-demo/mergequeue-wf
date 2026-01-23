@@ -1911,6 +1911,7 @@ flybys
 fingerflower
 fontanelle
 fumbling
+forestaller
 fustilarian
 foism
 fenestellidae
@@ -2075,7 +2076,6 @@ fermenting
 faucalize
 fireboat
 flindosa
-forestaller
 forwander
 faunlike
 fissileness
