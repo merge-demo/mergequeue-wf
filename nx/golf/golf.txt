@@ -1266,7 +1266,6 @@ guyline
 gradings
 greasers
 grantees
-gipper
 galliardly
 grognard
 geneki
@@ -2007,6 +2006,7 @@ gonadotrope
 granville
 goosetongue
 glovelike
+gipper
 gleefully
 gynaecea
 goosewing
