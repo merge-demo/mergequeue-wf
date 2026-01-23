@@ -4549,6 +4549,7 @@ carnalite
 clarain
 culverin
 carnalize
+chockablock
 cayuga
 counterexposition
 carolingian
@@ -11438,7 +11439,6 @@ ceryl
 cannelloni
 chocho
 chacun
-chockablock
 casuary
 county
 chronicler

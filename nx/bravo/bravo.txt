@@ -2761,7 +2761,6 @@ besague
 butlerism
 batholitic
 baroko
-backward
 beltline
 benthonic
 bullbat
@@ -8343,6 +8342,7 @@ biggened
 bayonetting
 betain
 buckplate
+backward
 baccharoid
 bakepan
 barbarous
