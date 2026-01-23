@@ -1116,6 +1116,7 @@ ferula
 fishling
 fastback
 farrisite
+fume
 foreordain
 facilitate
 fleerish
@@ -1210,7 +1211,6 @@ funder
 fimbriating
 funaria
 fifths
-fume
 forepass
 frighter
 faultfully
