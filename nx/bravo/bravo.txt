@@ -7901,7 +7901,6 @@ barony
 burglarising
 billyo
 backstitched
-bistipuled
 brambling
 blackjacks
 bututs
@@ -18275,6 +18274,7 @@ barleycorn
 baldy
 basque
 beetiest
+bistipuled
 beydom
 booklover
 bencher
