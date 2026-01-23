@@ -2114,7 +2114,6 @@ gleamed
 gozzard
 graecizing
 gardenias
-geobotanist
 galvanizer
 gomarian
 gerontes
@@ -7533,6 +7532,7 @@ gavelmen
 getmesost
 galliardize
 goschen
+geobotanist
 glossodynia
 generalization
 glial
