@@ -2109,7 +2109,6 @@ feudalisation
 foremasthand
 fusibleness
 founderous
-freeform
 fideistic
 flamed
 federalist
@@ -5573,6 +5572,7 @@ fudder
 frequentness
 flensed
 forfear
+freeform
 flensers
 frills
 fidelities

@@ -8770,6 +8770,7 @@ enlighteners
 experimentator
 equitemporaneous
 eluted
+excelse
 ergatomorphism
 edo
 ethysulphuric
@@ -12193,7 +12194,6 @@ entrechats
 emanated
 elementalism
 emerized
-excelse
 epiboly
 engysseismology
 execratively
