@@ -4137,7 +4137,6 @@ bicompact
 brachiopode
 bodysurfs
 bowmaking
-beelbow
 belladonna
 birches
 beardfishes
@@ -13329,6 +13328,7 @@ brainwork
 bestrew
 beigel
 brune
+beelbow
 bossily
 bowler
 bitterhead
