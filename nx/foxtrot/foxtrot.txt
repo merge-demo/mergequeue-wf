@@ -4252,7 +4252,6 @@ fado
 flickertail
 fishet
 fibrocaseous
-foliating
 foliar
 fibrocellular
 formamido
@@ -6982,6 +6981,7 @@ fideists
 flaggings
 feminality
 flushingly
+foliating
 figurist
 feline
 fatuous
