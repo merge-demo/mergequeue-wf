@@ -56,7 +56,6 @@ gentlemanize
 glossas
 gullability
 gloiosiphonia
-gandum
 galliums
 grayish
 giddap
@@ -4136,6 +4135,7 @@ genus
 gelechiid
 gonagia
 gaulic
+gandum
 gaufer
 greed
 gulgul
