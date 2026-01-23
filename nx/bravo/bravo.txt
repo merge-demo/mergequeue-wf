@@ -4215,7 +4215,6 @@ beastship
 benches
 bleery
 botling
-beaters
 beatifical
 benchlet
 beatifically
@@ -17338,6 +17337,7 @@ boudeuse
 babelic
 balneotherapy
 bottleneck
+beaters
 baluga
 badged
 benzantialdoxime
