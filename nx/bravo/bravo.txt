@@ -3530,7 +3530,6 @@ bateau
 bateleur
 bowerwoman
 blackhead
-bovista
 brahminic
 bouchal
 bulldoggishly
@@ -14307,6 +14306,7 @@ bradytrophic
 baileys
 bousoukis
 basifixed
+bovista
 britzkas
 bradley
 bareka
