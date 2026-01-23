@@ -6170,7 +6170,6 @@ geese
 gumflower
 gipsywort
 glavered
-gardy
 grumpish
 gomari
 grueler
@@ -10686,6 +10685,7 @@ glycerols
 gurnard
 goldbeater
 gildsman
+gardy
 gastroenteroptosis
 grands
 glaucomatous
