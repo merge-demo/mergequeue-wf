@@ -1828,6 +1828,7 @@ bambute
 blackheart
 becombed
 baserunning
+bulldoggy
 belonid
 bonsela
 bikie
@@ -17676,7 +17677,6 @@ bevomits
 birgus
 bordage
 blackfin
-bulldoggy
 blueings
 boomlets
 burleycue
