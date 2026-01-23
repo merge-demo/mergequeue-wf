@@ -5518,7 +5518,6 @@ contos
 chevaux
 catabases
 capoc
-catabasion
 catabasis
 calico
 cameralistic
@@ -14443,6 +14442,7 @@ corkwood
 cirropodous
 cirrose
 cholelithiasis
+catabasion
 capsulociliary
 caseine
 cirrosely
