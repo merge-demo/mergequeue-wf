@@ -4626,7 +4626,6 @@ ballbuster
 bedazzles
 bedazzlingly
 bibliopolery
-beckon
 baptise
 boden
 bailliage
@@ -9102,6 +9101,7 @@ biophotophone
 bemire
 brickmaking
 bethumps
+beckon
 bearbaiting
 bonzery
 basking
