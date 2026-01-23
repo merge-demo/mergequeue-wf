@@ -3234,6 +3234,7 @@ flouse
 foxite
 fices
 flagitate
+feuillemorte
 flusteration
 fesels
 freeholds
@@ -10995,7 +10996,6 @@ flossier
 fishwives
 freesias
 falcunculus
-feuillemorte
 fascicles
 furors
 fink
