@@ -1312,6 +1312,7 @@ glossarist
 grail
 guepard
 glowered
+guardhouse
 giro
 grindal
 garganey
@@ -10706,7 +10707,6 @@ gallivants
 gipsying
 glinted
 gurshes
-guardhouse
 gobbler
 guaque
 geranic
