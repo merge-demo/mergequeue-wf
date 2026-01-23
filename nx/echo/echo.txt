@@ -1226,6 +1226,7 @@ eldest
 earthquake
 entirities
 enchainment
+estranged
 enwombed
 espathate
 elicited
@@ -5417,7 +5418,6 @@ equid
 electrological
 eightsman
 electronvolt
-estranged
 ergotization
 excrescences
 ectene
