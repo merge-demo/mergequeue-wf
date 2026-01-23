@@ -1319,6 +1319,7 @@ epinephrin
 eq
 eeriness
 ecostate
+exterritoriality
 epithalamion
 ensnares
 ephemerae
@@ -12692,7 +12693,6 @@ electrophonic
 examinations
 erotogenic
 effrontery
-exterritoriality
 epicotyledonary
 eradicable
 exonerating
