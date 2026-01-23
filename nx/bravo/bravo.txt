@@ -1066,6 +1066,7 @@ blitzbuggy
 bolete
 babyhouse
 bawley
+bedelve
 burfish
 bouse
 becost
@@ -12894,7 +12895,6 @@ basinerved
 brushoff
 bodily
 baresarks
-bedelve
 bucketeer
 boomster
 boomtown
