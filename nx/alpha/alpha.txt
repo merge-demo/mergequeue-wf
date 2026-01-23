@@ -3562,6 +3562,7 @@ antthrush
 amyloidoses
 addressing
 anareta
+anas
 avaradrano
 addrest
 astricts
@@ -11943,7 +11944,6 @@ anarthrosis
 anarthrously
 anarthrousness
 avionics
-anas
 athumia
 anasa
 aralkylated
