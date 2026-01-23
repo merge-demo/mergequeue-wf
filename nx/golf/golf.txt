@@ -4333,7 +4333,6 @@ grugrus
 gyrinidae
 gelsemia
 goldbeating
-germicide
 guipure
 gymnadenia
 grieves
@@ -6718,6 +6717,7 @@ graptolithida
 gyroscopic
 glanduligerous
 gammons
+germicide
 geocoronium
 gumboils
 gastropancreatic
