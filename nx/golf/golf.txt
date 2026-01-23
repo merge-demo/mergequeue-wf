@@ -418,7 +418,6 @@ grouse
 goloshes
 goffering
 growl
-grapeys
 galeage
 goober
 gair
@@ -1965,6 +1964,7 @@ gorbellied
 global
 glutetei
 glossarize
+grapeys
 gruft
 gustoso
 gobans

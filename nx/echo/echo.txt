@@ -4678,7 +4678,6 @@ enrapting
 extranuclear
 eustachian
 enchorial
-exdelicto
 eild
 evolve
 eremiteship
@@ -5969,6 +5968,7 @@ enigmata
 eluvial
 exquisite
 etourderie
+exdelicto
 enigmatist
 epotation
 enigmatizing
