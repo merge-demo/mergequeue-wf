@@ -3948,7 +3948,6 @@ brownist
 bdelloid
 bdellometer
 burl
-boarts
 booksellerish
 bombardier
 bocstaff
@@ -15800,6 +15799,7 @@ batholiths
 bottlenose
 brodiaea
 benami
+boarts
 benchboard
 bilateralistic
 bractlet
