@@ -877,7 +877,6 @@ forbow
 free
 fermage
 fantasying
-falterer
 flasks
 farforthly
 flexing
@@ -8062,6 +8061,7 @@ forestal
 foggish
 fluate
 floran
+falterer
 flotten
 fleying
 fallency
