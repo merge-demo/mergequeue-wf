@@ -969,7 +969,6 @@ erogenesis
 elects
 ectrosyndactyly
 earring
-expenditor
 endopericarditis
 eyedroppers
 elixirs
@@ -6554,6 +6553,7 @@ exactly
 entomophthora
 elaphodus
 endurant
+expenditor
 ended
 entangled
 entangledness
