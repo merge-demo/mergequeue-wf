@@ -4797,7 +4797,6 @@ bombace
 bries
 beeball
 besplit
-bedpost
 bedrabbling
 bauds
 bedrails
@@ -11874,6 +11873,7 @@ basketworm
 butanoic
 boded
 bodefully
+bedpost
 baking
 brigands
 brachyura
