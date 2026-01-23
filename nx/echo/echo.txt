@@ -8960,7 +8960,6 @@ exoskeletal
 eteoclus
 endosmotically
 elseways
-ericales
 eryopid
 endeavors
 enisle
@@ -14000,6 +13999,7 @@ epicoracohumeral
 exaltate
 extralimital
 epistemonic
+ericales
 enfigure
 extrapolatory
 entemple
