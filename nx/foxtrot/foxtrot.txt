@@ -8041,7 +8041,6 @@ foreshoe
 fimetarious
 foreshortened
 fenerate
-foreshot
 ficelle
 fumatoriums
 fibrinogenous
@@ -11580,6 +11579,7 @@ feuing
 fusilladed
 fluctigerous
 fusillading
+foreshot
 furzechat
 flory
 fundatrix
