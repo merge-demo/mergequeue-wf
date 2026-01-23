@@ -2291,7 +2291,6 @@ canaglia
 canaigre
 canaille
 cymoid
-clearish
 chargeship
 commonwealth
 cubitoplantar
@@ -27510,6 +27509,7 @@ cherub
 calvinian
 covenanter
 cameroon
+clearish
 conjunctive
 covent
 coventry
