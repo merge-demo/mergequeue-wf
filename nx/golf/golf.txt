@@ -258,7 +258,6 @@ gloom
 ghostlike
 groom
 gambrelled
-glamorous
 guao
 glaires
 glyph
@@ -6105,6 +6104,7 @@ gruffiness
 grewsomer
 gemuetlich
 gamines
+glamorous
 glochidial
 grizelin
 guly
