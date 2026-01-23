@@ -6508,7 +6508,6 @@ banxring
 bepiece
 bepile
 bult
-bolshie
 bumbled
 blowiness
 bepart
@@ -17413,6 +17412,7 @@ blindling
 byerite
 basseted
 brancard
+bolshie
 bushbaby
 bellwethers
 bassoon
