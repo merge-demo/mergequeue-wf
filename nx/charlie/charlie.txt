@@ -20484,7 +20484,6 @@ chrysenic
 chiliomb
 constantinopolitan
 compartmented
-centenionalis
 corundum
 composition
 copist
@@ -25381,6 +25380,7 @@ cornhouse
 cornhusker
 cox
 concertati
+centenionalis
 chamades
 cornhusking
 consummate
