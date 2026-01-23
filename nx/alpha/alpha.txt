@@ -7573,7 +7573,6 @@ antisepticist
 alcidine
 abstracter
 alcine
-atomist
 alcyonacean
 acost
 alcyonic
@@ -16683,6 +16682,7 @@ anhydrous
 arithmeticians
 atalanta
 aphanisis
+atomist
 atropaceous
 arteriotomies
 adages
