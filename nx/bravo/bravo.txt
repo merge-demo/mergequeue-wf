@@ -6511,7 +6511,6 @@ bepile
 bult
 bumbled
 blowiness
-bepart
 beacher
 barred
 bepraiser
@@ -8276,6 +8275,7 @@ bourgeoise
 basketry
 biocoenoses
 biga
+bepart
 bigae
 battological
 bundled
