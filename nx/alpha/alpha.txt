@@ -12850,6 +12850,7 @@ assertoric
 aspalathus
 ascitb
 articulatory
+analyzed
 angouleme
 adiaphanousness
 armored
@@ -25106,7 +25107,6 @@ anthropos
 armorplated
 axiate
 abolete
-analyzed
 archeress
 antiegotist
 amphicondyla
