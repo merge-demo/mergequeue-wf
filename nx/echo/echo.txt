@@ -5128,6 +5128,7 @@ epigrammatizing
 endocrinic
 existentialistic
 estradiol
+esophagalgia
 enterocoel
 emergencies
 entogenous
@@ -9644,7 +9645,6 @@ emplacing
 emulator
 epihippus
 enterohemorrhage
-esophagalgia
 egba
 esophagogastroscopy
 enticeable
