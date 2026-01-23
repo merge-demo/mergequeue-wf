@@ -2944,6 +2944,7 @@ gaeldom
 geocyclic
 gnat
 gorsy
+guimpes
 gynaecocracies
 gunfighters
 grassplat
@@ -3507,7 +3508,6 @@ geothermic
 gleaners
 gerate
 glut
-guimpes
 goutily
 glaucosis
 gamont
