@@ -18325,7 +18325,6 @@ coffinmaking
 civicism
 chaori
 chewer
-coffins
 civilizer
 coffled
 coarbitrator
@@ -19693,6 +19692,7 @@ capetown
 cheir
 comarum
 comate
+coffins
 cowerer
 coquilla
 camarilla
