@@ -3688,7 +3688,6 @@ garaged
 geopony
 gladen
 garridge
-guanylic
 gnathopodous
 granilla
 gossameriness
@@ -4664,6 +4663,7 @@ gnathobase
 gleamy
 glossae
 gazook
+guanylic
 gastronomist
 generalizing
 gaunty
