@@ -1026,7 +1026,6 @@ dizdar
 devs
 diplohedral
 dreamt
-diacodium
 deas
 disobliging
 dutra
@@ -1391,6 +1390,7 @@ dulcid
 dechoralize
 darkly
 deportation
+diacodium
 diazomethane
 dawdling
 dibbed
