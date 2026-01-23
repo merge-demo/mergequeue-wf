@@ -6823,7 +6823,6 @@ bibliotaphic
 batten
 berthed
 bronzelike
-birdeye
 bushbashing
 bradypodoid
 bluehearts
@@ -11448,6 +11447,7 @@ bromeliaceous
 becquerelite
 berettas
 bowlderhead
+birdeye
 berycoidei
 byzantinism
 bluecurls
