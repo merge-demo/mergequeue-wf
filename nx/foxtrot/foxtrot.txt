@@ -3872,7 +3872,6 @@ filose
 ferrier
 ficaries
 furnitureless
-facette
 fairyism
 forehock
 footblower
@@ -6431,6 +6430,7 @@ fiendship
 frigidarium
 futurable
 flimsier
+facette
 flumping
 filate
 fibula
