@@ -3724,7 +3724,6 @@ garishness
 guajillo
 glamorize
 gangwa
-genae
 galloper
 glops
 gooselike
@@ -9017,6 +9016,7 @@ gluttonous
 gumbolike
 glaucopis
 guess
+genae
 grievable
 gillnets
 grievance
