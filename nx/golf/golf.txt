@@ -822,6 +822,7 @@ gymnoblastic
 gilberts
 gathering
 greensick
+gusts
 goalage
 glareolidae
 gastroenteric
@@ -3794,7 +3795,6 @@ graveldiver
 geometdecrne
 getatable
 gazoz
-gusts
 ginn
 goldfield
 geodes
