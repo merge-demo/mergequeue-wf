@@ -1488,7 +1488,6 @@ flittern
 fley
 felicitators
 fruiter
-favourable
 fearsomely
 foreshows
 fabulate
@@ -8768,6 +8767,7 @@ fourling
 fibroids
 foulmart
 favellidium
+favourable
 fenagled
 florizine
 flaxwench
