@@ -7590,6 +7590,7 @@ begirding
 bewary
 bewaste
 beweary
+biocoenotic
 besottedness
 brainworker
 belabored
@@ -8965,7 +8966,6 @@ bouchons
 bowser
 blissfulness
 barbarousness
-biocoenotic
 bradding
 broth
 biodegradable
