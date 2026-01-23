@@ -13951,7 +13951,6 @@ ceratopsid
 cynthiidae
 cion
 chaum
-corpus
 coveting
 croy
 cacique
@@ -25229,6 +25228,7 @@ corynocarpus
 corinth
 corinthes
 corinthiac
+corpus
 corinthianize
 cumidine
 coriolanus
