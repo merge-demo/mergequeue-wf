@@ -8151,7 +8151,6 @@ genteelish
 gave
 gentlewoman
 gorkun
-giansar
 gallivorous
 gundygut
 guianese
@@ -10532,6 +10531,7 @@ georgia
 grallic
 galeorchis
 gilgul
+giansar
 guardage
 gilly
 gatecrashers
