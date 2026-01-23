@@ -10744,7 +10744,6 @@ dislink
 derivable
 declinometer
 dogman
-derationalize
 dreadlessness
 denunciating
 demorage
@@ -13407,6 +13406,7 @@ decimetre
 disyoke
 duala
 dobule
+derationalize
 disheartens
 distributively
 disporting
