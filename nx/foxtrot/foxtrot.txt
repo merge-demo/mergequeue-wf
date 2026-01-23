@@ -2647,6 +2647,7 @@ filthy
 filazer
 feoffed
 foresheet
+fontes
 ferromanganese
 ferrometer
 ferronatrite
@@ -10015,7 +10016,6 @@ frostbiting
 flambeau
 flocculated
 flavin
-fontes
 fumiduct
 floridness
 friedrichsdor
