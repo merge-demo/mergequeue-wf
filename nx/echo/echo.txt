@@ -4606,6 +4606,7 @@ enam
 effigies
 ectochondral
 expede
+errancies
 emperize
 encheason
 easiness
@@ -9302,7 +9303,6 @@ empty
 effranchise
 errable
 endbrains
-errancies
 epionynychia
 endospermous
 egressing
