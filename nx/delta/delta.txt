@@ -4258,7 +4258,6 @@ disannexation
 demasculinise
 divisors
 deadening
-dem
 demagnetisation
 deducing
 dovelet
@@ -9947,6 +9946,7 @@ dynamic
 deplorers
 diversipedate
 defectuous
+dem
 dimerization
 dipropargyl
 duscle
