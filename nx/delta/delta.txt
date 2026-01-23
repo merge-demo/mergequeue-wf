@@ -3976,6 +3976,7 @@ dermographism
 digressiveness
 dibasicity
 damping
+doll
 dipteros
 delegations
 desexing
@@ -13771,7 +13772,6 @@ devastatingly
 disproval
 diatoms
 delectible
-doll
 dollishness
 dawdlingly
 drove
