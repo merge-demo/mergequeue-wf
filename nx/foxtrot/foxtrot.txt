@@ -8734,6 +8734,7 @@ fields
 foraneous
 fanlike
 factionate
+forjudge
 fragility
 folium
 funariaceous
@@ -9391,7 +9392,6 @@ fortuuned
 ferromagnesian
 frangulic
 ficin
-forjudge
 flichter
 fishless
 facelessness
