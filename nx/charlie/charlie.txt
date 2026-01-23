@@ -4496,7 +4496,6 @@ carlings
 carlino
 confessionalist
 carlins
-coccigenic
 carlishness
 cogwheels
 coaler
@@ -11928,6 +11927,7 @@ calculabilities
 cerites
 cohanim
 cruces
+coccigenic
 cosmochemistry
 choreoid
 crocidolite
