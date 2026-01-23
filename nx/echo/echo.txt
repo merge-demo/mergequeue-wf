@@ -1821,6 +1821,7 @@ erinose
 entericoid
 expediteness
 engravers
+extensible
 embankments
 encompasser
 estimates
@@ -7925,7 +7926,6 @@ epileny
 extinguised
 endopeptidase
 eromania
-extensible
 exotospore
 enwoven
 entomeric
