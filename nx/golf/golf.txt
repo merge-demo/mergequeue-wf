@@ -4945,6 +4945,7 @@ grudgers
 guaranteeing
 granite
 garston
+gelilah
 galleryite
 gleam
 greetings
@@ -5627,7 +5628,6 @@ gerundival
 gaz
 gesticulacious
 gazometer
-gelilah
 guejarite
 goutier
 greenroom
