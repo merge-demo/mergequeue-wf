@@ -6264,7 +6264,6 @@ endamaged
 eidology
 ecorticate
 exopterygota
-expiscate
 enplaned
 eisteddfod
 enscrolled
@@ -13870,6 +13869,7 @@ enharbor
 emandibulate
 equitably
 essene
+expiscate
 extroverts
 encyst
 everett
