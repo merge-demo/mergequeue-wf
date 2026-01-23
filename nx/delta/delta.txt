@@ -9969,7 +9969,6 @@ ductilely
 drear
 direly
 dimyaria
-downwardness
 dimidiate
 dispart
 darkens
@@ -12551,6 +12550,7 @@ dustup
 defiled
 drostden
 disinclination
+downwardness
 disinclined
 dolichotmema
 disindividualize
