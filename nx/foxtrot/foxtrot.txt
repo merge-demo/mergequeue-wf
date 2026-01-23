@@ -7871,6 +7871,7 @@ finalities
 flyblew
 forbad
 flockier
+forks
 faint
 fording
 forgathering
@@ -10656,7 +10657,6 @@ forestalling
 festine
 fustier
 fragmental
-forks
 francophobe
 footnote
 feeblebrained
