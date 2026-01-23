@@ -5476,6 +5476,7 @@ dorsiventrality
 deoxidize
 doryphoros
 deoxygenated
+daroga
 depaints
 dilucid
 divestitures
@@ -8721,7 +8722,6 @@ diastalsis
 diglossia
 dryads
 diastasimetry
-daroga
 deraigned
 demobbed
 dilligrout
