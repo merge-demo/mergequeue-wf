@@ -2578,6 +2578,7 @@ eatable
 emptiable
 electrometer
 exstrophy
+etherene
 edplot
 emphlysis
 earthgrubber
@@ -4294,7 +4295,6 @@ electrodispersive
 escalate
 exclusivism
 emulsion
-etherene
 esotrope
 escurialize
 excruciatingly
