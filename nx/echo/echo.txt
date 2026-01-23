@@ -7514,7 +7514,6 @@ enambush
 enif
 esthesia
 ephippia
-endeign
 effluency
 ephor
 elisha
@@ -10455,6 +10454,7 @@ etruscologist
 edmond
 equivocally
 eighty
+endeign
 egretta
 earwigging
 epiphanize
