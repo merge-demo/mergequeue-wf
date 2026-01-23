@@ -4308,7 +4308,6 @@ geoform
 gunfight
 goon
 galilean
-gramophones
 gusto
 grainsmen
 guncotton
@@ -8482,6 +8481,7 @@ gonoblastic
 goldonian
 gentlehood
 glassweed
+gramophones
 gawked
 grumphy
 greenbacker
