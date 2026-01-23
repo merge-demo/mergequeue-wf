@@ -4082,7 +4082,6 @@ crissum
 cephalopodic
 cardel
 cephalic
-crucianella
 ceroid
 chromocentral
 creaminess
@@ -15549,6 +15548,7 @@ cuitle
 clasped
 cinevariety
 clasper
+crucianella
 claspers
 claspt
 classable
