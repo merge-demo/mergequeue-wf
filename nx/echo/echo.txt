@@ -1562,7 +1562,6 @@ elytrous
 eurythermal
 expostulative
 egg
-ethmoid
 endosternum
 encumber
 exradio
@@ -3188,6 +3187,7 @@ elogy
 exhorting
 engendrure
 elogium
+ethmoid
 egohood
 excecation
 eloigned
