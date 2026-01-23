@@ -150,6 +150,7 @@ graniteware
 ghettoized
 gnomonology
 glunimie
+gouge
 gorgonian
 gremiale
 galvanosurgery
@@ -994,7 +995,6 @@ gundi
 gramercy
 germinal
 gretel
-gouge
 gallach
 greasebush
 ginglymoid
