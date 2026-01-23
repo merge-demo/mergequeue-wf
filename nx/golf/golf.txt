@@ -737,7 +737,6 @@ gripple
 galvanizing
 greund
 gemmiferousness
-grattoir
 geometrine
 gonoplasm
 galvanoglyph
@@ -10515,6 +10514,7 @@ gyrational
 goalee
 garrooka
 gypsous
+grattoir
 gulp
 gomarist
 gundie
