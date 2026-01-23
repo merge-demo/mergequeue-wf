@@ -1758,7 +1758,6 @@ dispersonify
 dawnward
 dicta
 desmidiologist
-divines
 decadently
 dustheaps
 doorpost
@@ -3629,6 +3628,7 @@ deontological
 degging
 delphinoidine
 devices
+divines
 deglamorizing
 doubtlessly
 disrespectfulness
