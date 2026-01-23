@@ -5170,6 +5170,7 @@ canvaser
 caseinogen
 caseload
 calycine
+colicker
 caseloads
 casemaker
 caprylene
@@ -18716,7 +18717,6 @@ coypous
 conversance
 coypus
 coirs
-colicker
 coislander
 cleading
 coistril
