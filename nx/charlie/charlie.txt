@@ -5676,7 +5676,6 @@ comprizable
 cataphyll
 correlativism
 chlorococcum
-cataphora
 cataphoresis
 cataphoria
 cataphract
@@ -7610,6 +7609,7 @@ cercus
 cerdonian
 cereal
 centrifugalizing
+cataphora
 collative
 changeability
 cervices
