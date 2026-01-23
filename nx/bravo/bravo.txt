@@ -5925,7 +5925,6 @@ beprose
 blisses
 baggie
 bawled
-baetyl
 backslap
 belostomatidae
 besleeve
@@ -11823,6 +11822,7 @@ barnful
 bitumed
 br
 billingsgate
+baetyl
 bocasin
 bookshops
 boccarella
