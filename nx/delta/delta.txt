@@ -4113,7 +4113,6 @@ deadworks
 dipodidae
 discomfited
 dithematic
-datelined
 delirium
 disconanthae
 didrachmal
@@ -17017,6 +17016,7 @@ diphyes
 dressiest
 desray
 dialectology
+datelined
 depressurize
 damning
 disfame
