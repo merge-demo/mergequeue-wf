@@ -20591,6 +20591,7 @@ compert
 competed
 competent
 classmates
+chaptalized
 competible
 casimire
 cyclothem
@@ -28345,7 +28346,6 @@ corviform
 crawl
 crawled
 cuterebra
-chaptalized
 cierzos
 crawlerize
 crawlers
