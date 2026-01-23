@@ -4151,7 +4151,6 @@ genetor
 gyropilot
 galaxiidae
 graphitization
-gemological
 growled
 geggee
 gyrectomy
@@ -4335,6 +4334,7 @@ glottogony
 girse
 grounds
 gleesomeness
+gemological
 gravidity
 gloeosporiose
 gawks
