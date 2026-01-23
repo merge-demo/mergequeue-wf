@@ -2774,7 +2774,6 @@ friezed
 fraternization
 fourness
 fussify
-fraela
 folklore
 feedy
 fedity
@@ -10101,6 +10100,7 @@ flee
 foretrace
 ferk
 fellsman
+fraela
 forereading
 fantasmagorically
 fittest
