@@ -1025,7 +1025,6 @@ darn
 darndest
 deflectors
 demain
-darnels
 destandardize
 dizdar
 devs
@@ -18269,6 +18268,7 @@ darts
 dayflies
 disapprobative
 dippy
+darnels
 deuterogamist
 discordia
 divot
