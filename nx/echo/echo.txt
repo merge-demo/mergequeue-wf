@@ -578,6 +578,7 @@ epixylous
 excerpt
 endotheliotoxin
 echinoid
+engulfs
 exequial
 ethiopians
 equatorially
@@ -12081,7 +12082,6 @@ escheator
 exurb
 empexa
 educationalism
-engulfs
 edentates
 expressor
 easels
