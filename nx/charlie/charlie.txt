@@ -12746,6 +12746,7 @@ clockmaker
 conquer
 cajava
 chukchi
+coreligionist
 chukka
 chukkar
 chukker
@@ -25108,7 +25109,6 @@ consolation
 caimakam
 cottoid
 chauvinistic
-coreligionist
 carbolise
 cooperancy
 cueball
