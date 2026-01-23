@@ -4312,7 +4312,6 @@ careworn
 cottages
 carfare
 carfares
-carfloat
 coater
 carfuffle
 clites
@@ -14048,6 +14047,7 @@ cyproterone
 chiriana
 cypselomorphae
 churchism
+carfloat
 cypselomorphic
 canons
 cypselous
