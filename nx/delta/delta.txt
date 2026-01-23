@@ -481,6 +481,7 @@ denaturalize
 dinkey
 distempered
 droddum
+drover
 descended
 dallier
 dup
@@ -13255,7 +13256,6 @@ dodecasemic
 displicence
 drawsheet
 dendrobe
-drover
 dinnerless
 dyspnea
 destructory
