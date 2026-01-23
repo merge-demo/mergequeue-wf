@@ -8113,7 +8113,6 @@ borshts
 bespreng
 biculturalism
 billeters
-bicursal
 bailments
 bicuspid
 bedward
@@ -13771,6 +13770,7 @@ bookplate
 biplosive
 benic
 beaverite
+bicursal
 benighten
 buffy
 boused
