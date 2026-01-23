@@ -10657,6 +10657,7 @@ exsect
 eucone
 eucopepoda
 eucosmidae
+expiational
 ecstasis
 espaliers
 expensing
@@ -13224,7 +13225,6 @@ embroil
 embiotocoid
 expiation
 esbatement
-expiational
 expiators
 ectromelian
 endostracal
