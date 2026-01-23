@@ -17253,7 +17253,6 @@ attempts
 ampersand
 apoplectoid
 apoplex
-anthropomorphization
 adamantoid
 anemometrographic
 aporhyolite
@@ -22385,6 +22384,7 @@ asteriskless
 angleberry
 ans
 aground
+anthropomorphization
 aflare
 armourers
 antipragmaticism
