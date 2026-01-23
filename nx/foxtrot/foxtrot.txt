@@ -3344,6 +3344,7 @@ fivescore
 fussle
 flounces
 faveolate
+flingers
 fortier
 fulgency
 finity
@@ -8590,7 +8591,6 @@ futuristically
 frumenty
 forfend
 foremisgiving
-flingers
 fard
 fibrositis
 franklinization
