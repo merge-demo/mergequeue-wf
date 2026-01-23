@@ -2587,6 +2587,7 @@ espaliering
 env
 elastins
 entranceway
+endent
 exenteration
 escapeful
 ethchlorvynol
@@ -5628,7 +5629,6 @@ everduring
 egling
 exiguities
 enforces
-endent
 endocentric
 encouraging
 eirene
