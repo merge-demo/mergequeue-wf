@@ -8372,7 +8372,6 @@ dalespeople
 disserve
 disadventure
 dresses
-decapodous
 droopingness
 diplois
 duer
@@ -17914,6 +17913,7 @@ dekares
 dithyramb
 dufferdom
 duffle
+decapodous
 doodskop
 defoedation
 dreamier
