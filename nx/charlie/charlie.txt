@@ -2371,6 +2371,7 @@ canamo
 cranesbill
 chaetognathous
 cicer
+consignataries
 canap
 consummator
 cabriole
@@ -22934,7 +22935,6 @@ considers
 calyptra
 consign
 consignatary
-consignataries
 chlorodized
 counterretreat
 comforting
