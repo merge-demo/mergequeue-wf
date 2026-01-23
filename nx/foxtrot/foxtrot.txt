@@ -2110,7 +2110,6 @@ foremasthand
 fusibleness
 founderous
 freeform
-fruitfully
 fideistic
 flamed
 federalist
@@ -10519,6 +10518,7 @@ foreadvice
 floreating
 frontotemporal
 fluxional
+fruitfully
 forecastle
 floe
 floorshift
