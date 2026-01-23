@@ -12084,6 +12084,7 @@ anerethisia
 aegyptilla
 antiflash
 anaunters
+alphamerically
 autorail
 aggressive
 ablaut
@@ -17183,7 +17184,6 @@ adoxa
 antihumanistic
 azulite
 anthropomorphotheist
-alphamerically
 aragonian
 acescent
 autovaccination
