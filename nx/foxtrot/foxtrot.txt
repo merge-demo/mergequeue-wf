@@ -1240,6 +1240,7 @@ friborgh
 fasherie
 forloin
 fusilier
+folksinging
 foolishness
 fashing
 fritt
@@ -6227,7 +6228,6 @@ freighter
 familiarised
 frettation
 filical
-folksinging
 fribbling
 fitchering
 forlornly
