@@ -2264,7 +2264,6 @@ fchar
 fingerling
 firers
 feudee
-filosa
 follows
 fikie
 firebombs
@@ -3144,6 +3143,7 @@ filoplume
 fibroelastic
 finnick
 fibroenchondroma
+filosa
 friseur
 faring
 fulminancy

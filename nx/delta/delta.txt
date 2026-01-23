@@ -5866,6 +5866,7 @@ dragonfly
 dewaxing
 deadtongue
 dags
+detrivorous
 dentaries
 dusters
 doorbrand
@@ -7462,7 +7463,6 @@ densitometry
 dardic
 disseised
 duodrama
-detrivorous
 dervish
 diplomatists
 doebird
