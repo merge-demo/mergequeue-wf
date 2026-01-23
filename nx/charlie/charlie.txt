@@ -4521,6 +4521,7 @@ carls
 cavorters
 carmagnole
 culverkey
+compartments
 ceremonials
 conularia
 circumscriptions
@@ -20491,7 +20492,6 @@ compartmented
 centenionalis
 corundum
 composition
-compartments
 copist
 chapin
 compass
