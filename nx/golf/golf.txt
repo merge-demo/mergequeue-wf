@@ -8731,6 +8731,7 @@ glissading
 gutterling
 glacification
 gardenmaking
+gravels
 ginete
 gymnical
 galactophygous
@@ -9095,7 +9096,6 @@ gnatcatcher
 girasole
 glares
 gallium
-gravels
 gryllos
 gaffle
 grilse
