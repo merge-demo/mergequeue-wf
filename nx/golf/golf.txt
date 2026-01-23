@@ -1320,7 +1320,6 @@ government
 gabert
 glossarist
 grail
-geodiatropism
 guepard
 glowered
 giro
@@ -3391,6 +3390,7 @@ gesithcund
 gomorrean
 gids
 gaging
+geodiatropism
 galvanic
 genion
 goshen
