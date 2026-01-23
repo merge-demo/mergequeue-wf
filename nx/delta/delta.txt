@@ -15033,7 +15033,6 @@ disrout
 durnedest
 decided
 deformer
-doggerelling
 disbutton
 decnet
 drysalteries
@@ -16763,6 +16762,7 @@ drawback
 debasing
 dei
 decolorate
+doggerelling
 demitube
 dyscrasial
 detritivorous

@@ -515,7 +515,6 @@ airways
 arsenicophagy
 antennas
 alderling
-analphabete
 antapology
 abjugate
 abjunct
@@ -16642,6 +16641,7 @@ antichorus
 antihumanism
 alioth
 antimosquito
+analphabete
 ammochryse
 anocithesia
 aberrance
