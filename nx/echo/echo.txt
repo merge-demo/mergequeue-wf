@@ -6336,7 +6336,6 @@ enalite
 eumycetes
 egressive
 equijacent
-euxenites
 edeology
 enthralment
 embowed
@@ -9902,6 +9901,7 @@ exultantly
 elementarily
 endothermous
 excludingly
+euxenites
 enstatite
 encodes
 elocular
