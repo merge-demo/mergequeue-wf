@@ -9639,7 +9639,6 @@ epihippus
 enterohemorrhage
 esophagalgia
 egba
-esophago
 esophagogastroscopy
 enticeable
 eupomatiaceae
@@ -10742,6 +10741,7 @@ enveloper
 exceptious
 eumitotic
 eva
+esophago
 eelgrasses
 euglenaceae
 extrasyllabic
