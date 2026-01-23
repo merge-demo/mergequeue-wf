@@ -3366,7 +3366,6 @@ crispate
 caponized
 contrasty
 caponizer
-caponniere
 capons
 caporal
 candlestick
@@ -21398,6 +21397,7 @@ concision
 corrugation
 concitation
 cominform
+caponniere
 concite
 conclamation
 conger
