@@ -2330,7 +2330,6 @@ exurbias
 endocrania
 expert
 elapidae
-euphuism
 endosteum
 electropsychrometer
 escalatory
@@ -13717,6 +13716,7 @@ earbash
 epitomator
 exocardial
 enarration
+euphuism
 elusions
 eloge
 embden
