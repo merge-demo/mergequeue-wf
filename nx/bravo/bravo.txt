@@ -7084,7 +7084,6 @@ bespangling
 bespate
 brickbatted
 basset
-bezzant
 bennetweed
 bespattered
 boshvarks
@@ -10402,6 +10401,7 @@ byward
 biosis
 betise
 blamefulness
+bezzant
 baroto
 bilewhit
 brisking
