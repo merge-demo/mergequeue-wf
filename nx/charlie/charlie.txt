@@ -25427,7 +25427,6 @@ cornua
 comdt
 congreso
 compulsory
-cornuated
 coelastraceae
 cornubianite
 chronometrical
@@ -30249,6 +30248,7 @@ caelum
 crumen
 cloudscape
 crumenal
+cornuated
 cherte
 crumhorn
 caingin
