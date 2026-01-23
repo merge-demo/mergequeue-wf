@@ -8390,6 +8390,7 @@ furmeties
 fragmentizer
 fading
 fusate
+falcer
 flaughts
 ferrotyping
 fatherlike
@@ -10271,7 +10272,6 @@ fractionalism
 forebears
 fluttered
 flobby
-falcer
 friulian
 fibroadenia
 flying
