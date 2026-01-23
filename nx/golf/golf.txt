@@ -2761,6 +2761,7 @@ guanos
 gainsayers
 gunfire
 gorraf
+goulan
 gipped
 glanditerous
 gramophonist
@@ -9039,7 +9040,6 @@ geognosist
 guzzlers
 goodyness
 gazeless
-goulan
 glory
 goodyear
 grizzling
