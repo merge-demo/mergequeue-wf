@@ -8877,6 +8877,7 @@ defail
 diastematomyelia
 dyspraxia
 dibbing
+datelined
 deliberates
 dibbled
 degame
@@ -17014,7 +17015,6 @@ diphyes
 dressiest
 desray
 dialectology
-datelined
 depressurize
 damning
 disfame
