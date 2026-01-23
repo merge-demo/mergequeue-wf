@@ -7855,7 +7855,6 @@ automatontons
 abolishes
 alnus
 apogamy
-antetype
 alemmal
 acidoproteolytic
 abiogenesist
@@ -23181,6 +23180,7 @@ applyment
 athleticism
 attery
 absorbtion
+antetype
 alcapton
 attermined
 aging
