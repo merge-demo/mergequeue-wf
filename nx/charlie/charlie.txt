@@ -6586,6 +6586,7 @@ cavitary
 closeup
 cystophthisis
 choleric
+curarization
 cauliculi
 cavitated
 consulter
@@ -31240,7 +31241,6 @@ crossbanded
 curaris
 cephala
 centi
-curarization
 chattily
 camoudie
 crocoites
