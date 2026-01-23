@@ -2528,6 +2528,7 @@ countered
 candle
 coehorn
 candleberries
+colocola
 candlefish
 corporeal
 chaldaical
@@ -16352,7 +16353,6 @@ clips
 camleteen
 cervicide
 clipse
-colocola
 causticizer
 clipsome
 crabmeat
