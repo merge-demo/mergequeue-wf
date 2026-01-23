@@ -5749,7 +5749,6 @@ cerithioid
 catberry
 catbirds
 copyist
-codding
 catboats
 catcall
 catcaller
@@ -20614,6 +20613,7 @@ challengee
 competitrix
 compilable
 coralbush
+codding
 cocurricular
 cofounded
 curvilinearly
