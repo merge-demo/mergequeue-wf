@@ -133,7 +133,6 @@ gadwalls
 ghillie
 girth
 gilden
-gigantology
 gavialoid
 gynostegia
 gallicole
@@ -4038,6 +4037,7 @@ gorgedly
 gnomological
 gearksutite
 galliasses
+gigantology
 geared
 ganglioneural
 gilbertian
