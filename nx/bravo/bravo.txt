@@ -15061,7 +15061,6 @@ brecht
 brawns
 bungholes
 billitonite
-bennettites
 burnut
 bredbergite
 baumhauerite
@@ -16389,6 +16388,7 @@ broadswords
 balmorals
 bromomania
 bicarb
+bennettites
 bloodripeness
 bleatingly
 bdft
