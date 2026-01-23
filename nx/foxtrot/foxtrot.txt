@@ -1418,6 +1418,7 @@ functional
 fibrocaseose
 filmy
 fiddly
+ferryage
 fabronia
 fermatas
 faradized
@@ -10281,7 +10282,6 @@ fuscin
 fastings
 feebly
 foxchop
-ferryage
 faultfind
 fencers
 famines
