@@ -5572,6 +5572,7 @@ frequentness
 flensed
 forfear
 flensers
+frills
 fidelities
 feus
 farouk
@@ -6612,7 +6613,6 @@ flameless
 filmlands
 floorless
 fjords
-frills
 falter
 facility
 forgie
