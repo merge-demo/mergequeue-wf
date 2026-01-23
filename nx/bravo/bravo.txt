@@ -2550,7 +2550,6 @@ beflowers
 biorgan
 bariatrician
 banderilla
-bombillas
 barycenter
 bardish
 burmite
@@ -10826,6 +10825,7 @@ bratty
 bronchomotor
 befuddlers
 bywords
+bombillas
 befrill
 boatsmen
 blepharadenitis
