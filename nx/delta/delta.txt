@@ -8629,7 +8629,6 @@ deorsumversion
 driftland
 dewan
 decremeter
-dissatisfied
 driller
 dispunitive
 donatio
@@ -8938,6 +8937,7 @@ desiccators
 diceboard
 dazzles
 defalcation
+dissatisfied
 dilemi
 daunomycin
 doorposts
