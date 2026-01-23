@@ -5695,6 +5695,7 @@ augusta
 aminoacetone
 arithmetics
 amentiferous
+actuarian
 arteriostrepsis
 ascrive
 amant
@@ -16223,7 +16224,6 @@ autocorrelation
 arboretum
 amit
 antitarnishing
-actuarian
 anaplasm
 amasser
 altininck
