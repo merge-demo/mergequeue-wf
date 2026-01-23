@@ -4529,7 +4529,6 @@ finific
 feste
 fate
 fishpoles
-fimbrillae
 fconv
 fazed
 fishponds
@@ -8903,6 +8902,7 @@ foozles
 fossilogy
 fload
 fistuliform
+fimbrillae
 foremastman
 felichthys
 fluter
