@@ -5499,6 +5499,7 @@ geomancy
 glyptolith
 gynostemia
 gingerberry
+garrulous
 grotesques
 girsle
 gonfanon
@@ -6568,7 +6569,6 @@ gastrologists
 gleization
 geminated
 gratiolin
-garrulous
 gabblers
 gowks
 gibberellin
