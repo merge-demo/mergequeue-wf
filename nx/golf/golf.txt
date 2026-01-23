@@ -5316,7 +5316,6 @@ gazump
 glenohumeral
 gonyoncus
 gilenyer
-genomes
 gesticulating
 gutturalism
 girllike
@@ -7657,6 +7656,7 @@ galvanist
 garpike
 gametangium
 glumpy
+genomes
 glucosidically
 gallerying
 grainy
