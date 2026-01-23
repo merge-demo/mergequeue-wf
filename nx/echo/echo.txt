@@ -4107,6 +4107,7 @@ eugenical
 electrotonize
 embalms
 emil
+errors
 ethmophysal
 entoilment
 enantiomer
@@ -12647,7 +12648,6 @@ eranthemum
 extramurally
 elenchical
 elephantidae
-errors
 equiaxial
 embanked
 epexegeses
