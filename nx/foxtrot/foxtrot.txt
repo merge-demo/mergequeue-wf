@@ -3084,7 +3084,6 @@ foursquare
 fractionalization
 fibril
 fuzing
-fountaineer
 ferberite
 fluorin
 frounceless
@@ -6901,6 +6900,7 @@ fleshhook
 farinulent
 fervescent
 foederal
+fountaineer
 frolics
 freehanded
 flyers
