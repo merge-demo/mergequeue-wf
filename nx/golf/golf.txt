@@ -1330,6 +1330,7 @@ guywire
 gamekeeping
 gibbered
 goniatitid
+glathsheim
 groomers
 glost
 gourinae
@@ -3538,7 +3539,6 @@ glasgow
 gallophobia
 graptomancy
 griefful
-glathsheim
 gimper
 gilts
 goading
