@@ -1188,7 +1188,6 @@ equivocalness
 estuaries
 enterobiasis
 edomitish
-expective
 escorial
 eutomous
 epipharyngeal
@@ -13906,6 +13905,7 @@ empanada
 extirpates
 extramatrical
 etheria
+expective
 extrameridional
 electoral
 eurygaea
