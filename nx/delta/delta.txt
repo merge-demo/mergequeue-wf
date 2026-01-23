@@ -1627,7 +1627,6 @@ datisca
 deutsche
 disorientated
 deisin
-difficulty
 dimetrodon
 deodate
 datolitic
@@ -12999,6 +12998,7 @@ druidesses
 desmoids
 dicephalous
 dedecorous
+difficulty
 demons
 decatholicize
 differers
