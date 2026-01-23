@@ -5020,6 +5020,7 @@ chevrony
 cartulary
 cartularies
 carapache
+catamneses
 cabbagelike
 collaring
 cabossed
@@ -31022,7 +31023,6 @@ cumulated
 computerized
 chasteness
 cps
-catamneses
 cerebrate
 contemplatively
 carnies
