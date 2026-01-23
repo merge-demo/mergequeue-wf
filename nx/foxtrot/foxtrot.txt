@@ -5472,7 +5472,6 @@ forshape
 filmstrip
 faconde
 ferrocyanide
-faverel
 fleckering
 fluoridise
 flunkyistic
@@ -10625,6 +10624,7 @@ firebases
 flack
 fresh
 fibromatoid
+faverel
 forensical
 freshing
 falding
