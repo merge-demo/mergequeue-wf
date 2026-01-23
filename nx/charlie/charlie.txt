@@ -13433,7 +13433,6 @@ cie
 cierge
 cierzo
 certificator
-courb
 cyesis
 cif
 countergage
@@ -23447,6 +23446,7 @@ contending
 contendress
 cornstalk
 civil
+courb
 cimeter
 contenement
 contrapuntal
