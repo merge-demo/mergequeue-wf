@@ -2945,7 +2945,6 @@ barratries
 bajochi
 blabbermouth
 becrawls
-barratrously
 barrelage
 barreled
 bodymaking
@@ -8797,6 +8796,7 @@ binaries
 bodysuit
 bulginess
 berghaan
+barratrously
 binaural
 blow
 bldr
