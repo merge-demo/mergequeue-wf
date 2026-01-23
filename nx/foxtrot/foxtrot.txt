@@ -4894,6 +4894,7 @@ felsites
 fumish
 flume
 fracticipita
+freeing
 fishberries
 firepower
 flinthead
@@ -6231,7 +6232,6 @@ factorize
 frowardness
 faraway
 fuselage
-freeing
 flourish
 fermion
 fjorgyn
