@@ -4254,7 +4254,6 @@ formamido
 flummadiddle
 federals
 feather
-featherstitch
 frag
 frenate
 flittermmice
@@ -7911,6 +7910,7 @@ follies
 furiousity
 flittered
 fruitwood
+featherstitch
 fidgetiness
 forepaws
 furcellate
