@@ -1259,7 +1259,6 @@ exorcismal
 endoplastular
 equvalent
 estamin
-eloigner
 equicaloric
 exalbuminous
 exstemporal
@@ -4152,6 +4151,7 @@ endplate
 enrooting
 entangler
 exungulate
+eloigner
 expropriation
 endives
 exedral
