@@ -3543,6 +3543,7 @@ emporiums
 emblazed
 enserfment
 erke
+exospore
 evelight
 emblazoned
 emblazoner
@@ -12798,7 +12799,6 @@ ensembles
 encounterable
 effectuated
 emancipative
-exospore
 endrumpf
 enthusiastical
 eurycerotidae
