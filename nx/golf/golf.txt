@@ -5647,7 +5647,6 @@ grossular
 graminaceae
 grabman
 goldseed
-grisping
 geotectonics
 glochid
 garnice
@@ -9216,6 +9215,7 @@ gora
 geographically
 granulates
 gregarinida
+grisping
 glared
 griphite
 gesture
