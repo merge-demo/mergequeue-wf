@@ -421,7 +421,6 @@ gegger
 grouse
 goloshes
 goffering
-galcha
 growl
 grapeys
 galeage
@@ -4136,6 +4135,7 @@ globalization
 gadroons
 gimcrack
 griph
+galcha
 grasshop
 gentlemanly
 glucolipid
