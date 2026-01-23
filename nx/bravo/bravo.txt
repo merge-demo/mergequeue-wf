@@ -5182,7 +5182,6 @@ befraught
 bepaid
 befreight
 befountained
-baguette
 burbank
 broiler
 butles
@@ -10533,6 +10532,7 @@ blastings
 boomers
 batodendron
 brickfielder
+baguette
 bestayed
 bering
 blastochyle
