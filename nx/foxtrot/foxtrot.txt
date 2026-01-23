@@ -2371,6 +2371,7 @@ flatways
 fireclays
 fineries
 falsetto
+flourish
 feoffs
 fasciole
 flaw
@@ -6234,7 +6235,6 @@ factorize
 frowardness
 faraway
 fuselage
-flourish
 fermion
 fjorgyn
 foully
