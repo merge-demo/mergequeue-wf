@@ -6521,6 +6521,7 @@ epyllion
 excited
 endings
 exposed
+evaders
 enswathement
 expeditor
 elementariness
@@ -7443,7 +7444,6 @@ explosion
 egger
 entasia
 exsanguineous
-evaders
 epenla
 edgings
 erotesis
