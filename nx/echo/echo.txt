@@ -2750,7 +2750,6 @@ endomycetaceae
 erotopathy
 evanish
 evovae
-enchodontid
 electrotype
 electrotypy
 enolase
@@ -3694,6 +3693,7 @@ elaeocarpaceous
 ecocidal
 epitrachelion
 embread
+enchodontid
 entrepeneurs
 ejector
 exporting
