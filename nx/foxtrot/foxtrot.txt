@@ -3695,7 +3695,6 @@ fielder
 fabian
 floatsman
 fylfot
-froglets
 forebitter
 facticide
 fretsaws
@@ -4782,6 +4781,7 @@ flyovers
 flamboyancy
 fooling
 failingness
+froglets
 fluorene
 forecourse
 fizgig
