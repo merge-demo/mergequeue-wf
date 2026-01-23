@@ -2719,6 +2719,7 @@ flamb
 frontispiece
 fertile
 falsely
+fretsome
 fluoridating
 fertilise
 fritz
@@ -2896,7 +2897,6 @@ flatlets
 forestair
 fecundity
 fibrillose
-fretsome
 fed
 ferlies
 flumes
