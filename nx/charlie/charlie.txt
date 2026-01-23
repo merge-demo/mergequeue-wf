@@ -270,6 +270,7 @@ charque
 chinin
 counterlode
 compenetration
+counterapproach
 cottoning
 cachexias
 cheesery
@@ -14073,7 +14074,6 @@ cyclohexene
 circination
 cissus
 circiter
-counterapproach
 calvity
 cattie
 circled
