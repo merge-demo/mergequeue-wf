@@ -705,6 +705,7 @@ destitution
 dandie
 doubtless
 drybrained
+detruncated
 detachs
 dandify
 dimmit
@@ -14519,7 +14520,6 @@ didn
 dioxime
 dad
 demurest
-detruncated
 dilatement
 disintegratory
 deciceronize
