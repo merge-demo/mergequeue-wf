@@ -894,7 +894,6 @@ freshet
 falconets
 fourchette
 fireworks
-fans
 folliculose
 falconbill
 footworks
@@ -8579,6 +8578,7 @@ flouring
 flowages
 fiefs
 filefishes
+fans
 flet
 fetiparous
 feme
