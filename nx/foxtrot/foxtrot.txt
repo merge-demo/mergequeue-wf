@@ -4319,7 +4319,6 @@ fluorane
 flaxbird
 fatten
 fax
-fungose
 flatterers
 frenzying
 fission
@@ -6001,6 +6000,7 @@ forearm
 frogged
 famacide
 frankliniana
+fungose
 fisherfolk
 fdname
 frenchiness
