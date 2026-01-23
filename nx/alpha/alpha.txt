@@ -10580,7 +10580,6 @@ analogicalness
 aminobenzoic
 alewife
 appetency
-aminoglutaric
 aminoid
 agrement
 aminoketone
@@ -22995,6 +22994,7 @@ atropal
 atrophia
 albanite
 arsonist
+aminoglutaric
 azoisobutyronitrile
 aceraceae
 aspirate
