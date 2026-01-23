@@ -5923,7 +5923,6 @@ ackman
 antiroll
 anatman
 amphigoric
-appraisable
 afore
 antiliberalness
 anergia
@@ -12016,6 +12015,7 @@ ancestress
 apogamically
 aspartate
 anathematical
+appraisable
 anathematisation
 anathematise
 amour
