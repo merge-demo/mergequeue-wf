@@ -5409,7 +5409,6 @@ affrettando
 astartian
 aeroview
 antifelon
-amalgams
 atharvan
 abstractionism
 assegai
@@ -8845,6 +8844,7 @@ anticness
 axisymmetric
 archaically
 agallochum
+amalgams
 aerobiologic
 allomorphism
 aesthesodic
