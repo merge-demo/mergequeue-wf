@@ -3171,7 +3171,6 @@ ell
 ecdysones
 echinorhinidae
 etheriidae
-eastlander
 epitomised
 elodeas
 enfaced
@@ -8605,6 +8604,7 @@ enwreathe
 epigeous
 extraparenchymal
 edificable
+eastlander
 equate
 eburnification
 enharmonic
