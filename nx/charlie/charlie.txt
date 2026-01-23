@@ -2,7 +2,6 @@ coredemptress
 caapeba
 cephalad
 concrement
-coalsack
 caatinga
 cab
 cires
@@ -9323,6 +9322,7 @@ chauffer
 crankplate
 chauffeurship
 chauffeuse
+coalsack
 civy
 carcoon
 cerris
