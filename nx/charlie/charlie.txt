@@ -9940,7 +9940,6 @@ cacks
 crackjaw
 chemotropically
 chempaduk
-chemurgical
 chemurgically
 chen
 chenar
@@ -27129,6 +27128,7 @@ clientless
 chukkas
 cellulate
 countersuit
+chemurgical
 countersun
 calfdozer
 cava
