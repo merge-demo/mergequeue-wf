@@ -2715,6 +2715,7 @@ gestae
 gynandry
 grassman
 genyophrynidae
+gue
 glamours
 granularity
 gravedigger
@@ -9856,7 +9857,6 @@ guacacoa
 gestatory
 grimacer
 gorce
-gue
 globulinuria
 glycerolate
 gnathostoma
