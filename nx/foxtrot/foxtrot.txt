@@ -7838,7 +7838,6 @@ forequarter
 frontspiece
 favillous
 flecker
-fulicine
 forsaker
 foremean
 followingly
@@ -10440,6 +10439,7 @@ feigning
 fogie
 fumigant
 foxgloves
+fulicine
 foliation
 frontbencher
 footlining
