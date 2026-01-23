@@ -6353,7 +6353,6 @@ biocidal
 boxboard
 bakairi
 balandra
-bibs
 benzanthrone
 birny
 bifarious
@@ -16232,6 +16231,7 @@ buirdly
 birth
 bismuthiferous
 brothers
+bibs
 bischofite
 blowdown
 barbudo
