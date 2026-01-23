@@ -6231,7 +6231,6 @@ blackleggery
 bedraggles
 beetle
 benet
-beneventan
 benevolency
 bengalese
 boston
@@ -7867,6 +7866,7 @@ bibionid
 bathochromatism
 brackebuschite
 bardie
+beneventan
 brainchild
 bewreath
 bealtine
