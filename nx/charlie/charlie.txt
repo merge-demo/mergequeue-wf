@@ -8451,6 +8451,7 @@ chamisal
 chamise
 chamises
 chamiso
+cipherdom
 chamlet
 chamma
 chammy
@@ -13973,7 +13974,6 @@ congees
 cyphella
 calothrix
 cypher
-cipherdom
 causeur
 cyphered
 chenevixite
