@@ -5728,7 +5728,6 @@ fibrocement
 fantasize
 flatnose
 forepassed
-furtive
 fract
 fuci
 fluidextract
@@ -8200,6 +8199,7 @@ felsobanyite
 fondon
 fazenda
 farmland
+furtive
 foison
 fire
 footmenfootpad
