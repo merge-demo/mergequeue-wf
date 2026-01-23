@@ -7914,7 +7914,6 @@ deglute
 driveways
 deprecable
 dewclaws
-diaphonia
 dites
 dapson
 dewdrop
@@ -11441,6 +11440,7 @@ decays
 deject
 dishrag
 domesticative
+diaphonia
 diplopods
 discigerous
 discing
