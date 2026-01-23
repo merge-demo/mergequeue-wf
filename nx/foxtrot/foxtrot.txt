@@ -4182,6 +4182,7 @@ fiorite
 fraternisation
 falsehoods
 fornenst
+formalist
 faff
 flywheel
 feasances
@@ -8475,7 +8476,6 @@ flushers
 fozinesses
 freshman
 fades
-formalist
 fallibilist
 foreboded
 flueless
