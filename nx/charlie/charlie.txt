@@ -12782,7 +12782,6 @@ crake
 chumship
 comdia
 chumships
-clonism
 curbing
 coelogastrula
 conductory
@@ -18094,6 +18093,7 @@ corton
 cardiolysis
 coendidae
 coendures
+clonism
 cephalosporin
 crantara
 coenenchymal
