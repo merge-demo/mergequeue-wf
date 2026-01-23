@@ -3713,6 +3713,7 @@ contumacity
 cognates
 carapacic
 carapax
+concresce
 climacterial
 coachable
 carbonadoes
@@ -21520,7 +21521,6 @@ calycle
 climacterical
 celestialize
 carbarns
-concresce
 concrescence
 cephalohumeral
 concrescive
