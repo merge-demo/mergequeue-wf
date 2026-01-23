@@ -2016,7 +2016,6 @@ grubberies
 gregaloid
 generalness
 gambogic
-gyroscopics
 golliwog
 gadaria
 gravispheric
@@ -9616,6 +9615,7 @@ graphical
 geodynamical
 guidage
 groveller
+gyroscopics
 ginkgoes
 gauteite
 gershon
