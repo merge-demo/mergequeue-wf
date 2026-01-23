@@ -8758,7 +8758,6 @@ coveys
 cappagh
 catchy
 chapelgoing
-cockpits
 chapelize
 chirpier
 chapellany
@@ -26850,6 +26849,7 @@ custodes
 counteridea
 cotquean
 counterideal
+cockpits
 circumambience
 counterimagination
 cimicide
