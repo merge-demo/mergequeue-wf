@@ -6015,7 +6015,6 @@ diobols
 demonetization
 delimiting
 decohere
-disapprove
 dermatonosus
 derogated
 depthways
@@ -9371,6 +9370,7 @@ divekeeper
 diffame
 dietted
 detracts
+disapprove
 deifier
 diffarreation
 doited
