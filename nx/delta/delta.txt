@@ -6797,7 +6797,6 @@ desires
 dihedrons
 desirous
 desirousness
-drily
 decolonising
 dogmatized
 dropsonde
@@ -12877,6 +12876,7 @@ dogmatic
 destructor
 dam
 dribblets
+drily
 deposita
 democratization
 dismasted
