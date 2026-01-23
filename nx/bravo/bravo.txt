@@ -4831,6 +4831,7 @@ bedroll
 bandicoots
 bedrugged
 bedrugs
+biggety
 brakesman
 bits
 bedside
@@ -5951,7 +5952,6 @@ butterroot
 belast
 berber
 brandenburgs
-biggety
 beltane
 bartizan
 belauding
