@@ -945,6 +945,7 @@ extropical
 escalation
 endocervical
 electrotonic
+exhalatory
 emplaces
 exculpatory
 extravagated
@@ -3756,7 +3757,6 @@ etherialise
 embryotegae
 eweries
 embryotome
-exhalatory
 enquiry
 ephemerons
 eleidin
