@@ -1567,7 +1567,6 @@ egg
 endosternum
 eolipile
 encumber
-exradio
 episcopised
 evoke
 enterocoelic
@@ -12438,6 +12437,7 @@ esquire
 enlimn
 endozoic
 ennoblements
+exradio
 exhumatory
 emancipations
 epifaunal
