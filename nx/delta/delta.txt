@@ -6710,6 +6710,7 @@ demikindred
 diacoustics
 desideration
 desiderative
+dorlach
 dolorimetrically
 drunkard
 darnex
@@ -11179,7 +11180,6 @@ disassociate
 disassociates
 disasters
 dimerize
-dorlach
 doupioni
 disseises
 dumbfound
