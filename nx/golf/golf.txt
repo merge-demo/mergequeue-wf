@@ -4067,7 +4067,6 @@ garter
 glochidium
 gulinula
 gesan
-gossipy
 gotched
 gopherroot
 glamourize
@@ -9704,6 +9703,7 @@ grubstakes
 gemmula
 grewsomest
 gin
+gossipy
 glycyrize
 guestmaster
 gesturer
