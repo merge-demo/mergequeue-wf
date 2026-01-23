@@ -14256,7 +14256,6 @@ cass
 circumnavigable
 circumnavigate
 champers
-corollike
 circumnavigation
 clefted
 chickaree
@@ -19951,6 +19950,7 @@ centenarians
 corbeling
 cultivation
 commandeers
+corollike
 canty
 criticizable
 carunculous
