@@ -2366,6 +2366,7 @@ feoffer
 faultier
 flatways
 fireclays
+fineries
 falsetto
 feoffs
 fasciole
@@ -7095,7 +7096,6 @@ fondles
 fosterable
 fainter
 fumant
-fineries
 freemason
 fondly
 fluorspar
