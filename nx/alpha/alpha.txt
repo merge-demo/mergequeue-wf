@@ -7556,6 +7556,7 @@ accident
 anabaptism
 anisokonia
 abnegator
+arcs
 allograph
 abstracters
 adiaphorism
@@ -17871,7 +17872,6 @@ agisms
 athrepsia
 astipulation
 additament
-arcs
 apprenticement
 agnostic
 apprenticeships
