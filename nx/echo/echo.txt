@@ -5577,7 +5577,6 @@ extraovular
 eerinesses
 exestuate
 extrapituitary
-enucleator
 erroneousness
 evocators
 eugenists
@@ -9316,6 +9315,7 @@ erratas
 erratic
 erratically
 enantiomorphic
+enucleator
 eulogist
 electropism
 esdras
