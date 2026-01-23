@@ -1346,7 +1346,6 @@ aluminaphone
 antarchism
 alphabetic
 adtevac
-activators
 arginase
 amoeba
 anangular
@@ -2705,6 +2704,7 @@ anax
 attenuating
 apex
 arachic
+activators
 airpark
 acridiidae
 allochiral
