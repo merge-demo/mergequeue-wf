@@ -3297,7 +3297,6 @@ amyloids
 anisoptera
 adornos
 acute
-acutely
 ascomycetal
 acutest
 authorcraft
@@ -18338,6 +18337,7 @@ aragonspath
 autoluminescent
 arain
 ausonian
+acutely
 arains
 arterialised
 antrotome
