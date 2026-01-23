@@ -4317,7 +4317,6 @@ boatwise
 backcourtman
 blouselike
 bebrush
-blisteringly
 bebuttoned
 below
 bushwood
@@ -10759,6 +10758,7 @@ broadish
 bowhead
 bibl
 bannock
+blisteringly
 blenk
 baronetizing
 bedunced
