@@ -1134,6 +1134,7 @@ demonstrative
 detick
 digitogenin
 droppers
+desaturate
 dasypus
 dispraisingly
 domesticized
@@ -3517,7 +3518,6 @@ disembarrassment
 dismissable
 defrayers
 defraying
-desaturate
 dogmouth
 dorsocephalad
 dagobas
