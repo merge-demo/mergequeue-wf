@@ -1621,7 +1621,6 @@ fabrique
 fadges
 fichu
 flook
-flavobacterium
 formidability
 favosites
 flexors
@@ -10483,6 +10482,7 @@ frangipanis
 fatalist
 fathomable
 frettage
+flavobacterium
 fusoid
 fitche
 footer
