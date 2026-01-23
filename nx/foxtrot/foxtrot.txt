@@ -5178,6 +5178,7 @@ foamy
 fuligo
 fundless
 fumettes
+foy
 frsikets
 fletching
 furnishness
@@ -8964,7 +8965,6 @@ foremast
 firmer
 forepast
 feminines
-foy
 flacker
 falsificator
 fretfulness
