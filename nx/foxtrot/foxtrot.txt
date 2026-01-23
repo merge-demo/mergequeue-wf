@@ -4307,6 +4307,7 @@ flicflac
 faxed
 fireplug
 firepot
+flaubertian
 frijolillo
 fabula
 fussy
@@ -4475,7 +4476,6 @@ fluorid
 footgear
 fl
 frenches
-flaubertian
 facsimiling
 fie
 fished
