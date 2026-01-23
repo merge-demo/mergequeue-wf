@@ -1263,7 +1263,6 @@ grogged
 glucid
 gooding
 gumboil
-gonglike
 garbill
 guyline
 gradings
@@ -7867,6 +7866,7 @@ gunline
 gardenly
 geraldine
 globefishes
+gonglike
 guests
 gooiest
 garneter
