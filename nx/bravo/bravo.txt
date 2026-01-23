@@ -1613,6 +1613,7 @@ ballised
 biradial
 britches
 binate
+beking
 ballista
 basketlike
 beatinest
@@ -4367,7 +4368,6 @@ baubling
 blodite
 bromhydric
 bossdoms
-beking
 beatifying
 boatkeeper
 biconic
