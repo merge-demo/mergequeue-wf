@@ -928,6 +928,7 @@ caky
 clientelage
 conformant
 consecration
+compearance
 caking
 collagist
 cakravartin
@@ -25236,7 +25237,6 @@ cailleach
 cladode
 covenant
 coryphaei
-compearance
 costlier
 cpt
 confucians
