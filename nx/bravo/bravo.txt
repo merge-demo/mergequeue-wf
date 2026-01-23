@@ -3011,6 +3011,7 @@ broadcasters
 boulevard
 barrister
 buat
+bordures
 bethanked
 barroom
 bedumb
@@ -12742,7 +12743,6 @@ benthamite
 boogies
 biotechnology
 bubonocele
-bordures
 bubbles
 bulbine
 burlecue
