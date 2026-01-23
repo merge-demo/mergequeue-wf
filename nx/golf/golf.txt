@@ -6827,6 +6827,7 @@ goodwill
 gibel
 gravilea
 gonochorismal
+gnarling
 geryonia
 gonk
 gruffish
@@ -8038,7 +8039,6 @@ gangster
 geometrise
 galvanotaxis
 guayacan
-gnarling
 gynecologic
 getups
 glandiform
