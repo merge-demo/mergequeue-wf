@@ -2701,6 +2701,7 @@ firmless
 fluviatic
 feedings
 feeding
+fakers
 fainaigue
 froufrou
 factotum
@@ -4140,7 +4141,6 @@ forgivingness
 fianced
 federation
 ferrotitanium
-fakers
 foreprovided
 finny
 fab
