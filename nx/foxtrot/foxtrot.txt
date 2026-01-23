@@ -7691,7 +7691,6 @@ ferricyanic
 foredune
 freezable
 fervors
-forril
 festino
 fizzling
 farrier
@@ -11519,6 +11518,7 @@ fishbowls
 flouncy
 fusariose
 finnicky
+forril
 fanfold
 fusariosis
 flaxman
