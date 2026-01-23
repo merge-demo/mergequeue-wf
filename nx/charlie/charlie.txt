@@ -641,7 +641,6 @@ crutchlike
 caesardom
 caesarean
 caesareans
-campagnol
 connubialism
 cottage
 caesarian
@@ -25642,6 +25641,7 @@ correctionalist
 conformities
 corrective
 correctively
+campagnol
 computers
 correctiveness
 cryptogenetic
