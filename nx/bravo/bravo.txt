@@ -3409,7 +3409,6 @@ bays
 bandstands
 basiophthalmous
 baviere
-bassetting
 botrychium
 bassy
 besieges
@@ -12443,6 +12442,7 @@ beswarmed
 burbots
 bombus
 bombardelle
+bassetting
 beloveds
 backrope
 bonacis
