@@ -11258,7 +11258,6 @@ biotoxins
 blotchiness
 buckeye
 beaker
-boder
 burkes
 batterfang
 brazenness
@@ -17938,6 +17937,7 @@ bushwack
 burgrave
 bonewood
 bathybic
+boder
 baryta
 bushwahs
 basemen
