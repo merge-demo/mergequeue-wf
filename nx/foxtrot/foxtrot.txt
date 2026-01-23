@@ -6544,6 +6544,7 @@ foothalt
 frivoled
 fishable
 fluoaluminate
+fraternalist
 featurelessness
 fainted
 fifing
@@ -9781,7 +9782,6 @@ flaggily
 fictionist
 foamingly
 feoffor
-fraternalist
 faying
 fremontodendron
 fumacious
