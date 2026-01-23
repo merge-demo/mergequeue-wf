@@ -3825,7 +3825,6 @@ erastianism
 edaciously
 embusk
 encardion
-encrypts
 equiponderance
 ectoethmoid
 exercising
@@ -5454,6 +5453,7 @@ electuary
 epitonic
 expirations
 eburated
+encrypts
 eurithermophile
 er
 ecraseurs
