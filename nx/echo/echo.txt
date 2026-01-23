@@ -2515,7 +2515,6 @@ etamin
 envelopers
 electroing
 electrokinetic
-eluviate
 epicanthic
 epochs
 exterminative
@@ -3338,6 +3337,7 @@ estevin
 empathizes
 empiriological
 effacement
+eluviate
 ethnographic
 enigmatically
 equipartisan
