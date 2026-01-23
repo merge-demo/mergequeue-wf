@@ -499,6 +499,7 @@ briming
 broadway
 besiclometer
 baldrick
+brocard
 baddish
 bluenose
 blackacre
@@ -7761,7 +7762,6 @@ blithest
 bravoite
 beach
 bullan
-brocard
 beaufort
 bhistie
 berake
