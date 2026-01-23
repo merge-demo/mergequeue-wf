@@ -6090,6 +6090,7 @@ coversine
 cathud
 cretification
 catydid
+cyrtostyle
 counterhypothesis
 continuos
 cyclicity
@@ -23380,7 +23381,6 @@ chemasthenia
 copasetic
 calami
 cecidologist
-cyrtostyle
 containership
 comates
 centenarianism
