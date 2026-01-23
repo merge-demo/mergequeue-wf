@@ -2174,7 +2174,6 @@ fumishing
 faujdar
 fuchsite
 fosterling
-flagstone
 fluer
 florula
 fidepromissor
@@ -7066,6 +7065,7 @@ follily
 fendy
 feloniously
 forage
+flagstone
 frizzler
 fanteague
 flexographically
