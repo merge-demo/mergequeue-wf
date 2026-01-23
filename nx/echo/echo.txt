@@ -10287,6 +10287,7 @@ eclair
 emotionalistic
 elzevirian
 elaborates
+exigency
 extruders
 epanorthosis
 errsyn
@@ -11413,7 +11414,6 @@ emergers
 extenders
 erysiphaceae
 expulsatory
-exigency
 ethnohistory
 effeir
 electrodesiccation
