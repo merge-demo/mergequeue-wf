@@ -658,6 +658,7 @@ foreshape
 faburden
 flavorlessness
 fumier
+foisted
 faltere
 frequenter
 falx
@@ -6484,7 +6485,6 @@ fren
 flang
 fullterm
 furziest
-foisted
 francois
 frailes
 fluorboric
