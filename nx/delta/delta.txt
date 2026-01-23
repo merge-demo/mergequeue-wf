@@ -2576,7 +2576,6 @@ duad
 drowns
 douse
 discouragements
-daktylos
 diandria
 docetist
 desistence
@@ -14713,6 +14712,7 @@ dismarketing
 dendroceratine
 dimensionality
 diphylleia
+daktylos
 dianoetic
 detumescent
 dotlike
