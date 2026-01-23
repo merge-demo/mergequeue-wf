@@ -7651,7 +7651,6 @@ encephalous
 enhungered
 electrophoridae
 epicoracoid
-exocrine
 epionychia
 ellachick
 exhumations
@@ -12042,6 +12041,7 @@ extraembryonic
 enquere
 exploitage
 empeine
+exocrine
 entackle
 ervum
 excommunicative
