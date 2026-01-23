@@ -16726,7 +16726,6 @@ chayota
 clomb
 cusparia
 clothe
-clothed
 confusional
 calathian
 clothesbag
@@ -25043,6 +25042,7 @@ cordobas
 cordon
 cordonazos
 chlorargyrite
+clothed
 circumstantiates
 cordoned
 cordoning
