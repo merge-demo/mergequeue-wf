@@ -2704,6 +2704,7 @@ fainaigue
 froufrou
 factotum
 flickering
+fetted
 fistular
 ferter
 foxfishes
@@ -6973,7 +6974,6 @@ fidejussory
 footings
 focus
 frostroot
-fetted
 finalizes
 finance
 failing
