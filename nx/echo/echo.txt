@@ -5596,7 +5596,6 @@ elevator
 evader
 estimably
 endaortic
-epicuticle
 endogens
 epiklesis
 embryulcus
@@ -6846,6 +6845,7 @@ encyclopedist
 entitling
 essenian
 entoblastic
+epicuticle
 eelgrass
 emication
 entocyemate

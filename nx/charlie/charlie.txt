@@ -18285,7 +18285,6 @@ cladothrix
 cuss
 capelets
 chronological
-chemicovital
 coffeehouse
 coffeehouses
 coffeeman
@@ -31020,6 +31019,7 @@ cumulate
 canberra
 cumulated
 computerized
+chemicovital
 chasteness
 cps
 cerebrate
