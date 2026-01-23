@@ -7012,7 +7012,6 @@ fiscals
 fixion
 februaries
 feculence
-forswear
 footsie
 flexed
 freekirker
@@ -9679,6 +9678,7 @@ fusobteria
 filipinize
 fleeceable
 firefly
+forswear
 fdub
 frieseite
 floridly
