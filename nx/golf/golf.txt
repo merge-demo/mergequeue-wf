@@ -4650,6 +4650,7 @@ galipoipin
 gamboge
 glucosaemia
 gymnanthes
+glottalize
 gluttonism
 guianan
 gnathobase
@@ -4974,7 +4975,6 @@ grazeable
 gargoylism
 gethsemane
 griper
-glottalize
 glossotomy
 generalize
 geodal
