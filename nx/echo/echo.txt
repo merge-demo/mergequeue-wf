@@ -2042,6 +2042,7 @@ elabrate
 epirrhematic
 epigaea
 encurl
+enfolders
 exophasia
 elytrigerous
 elaenia
@@ -5607,7 +5608,6 @@ euthanatize
 evibrate
 enhedge
 emberiza
-enfolders
 epimacus
 enfoldings
 elevators
