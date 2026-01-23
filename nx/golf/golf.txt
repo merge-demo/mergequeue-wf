@@ -481,7 +481,6 @@ grades
 gipsies
 geckotian
 goats
-golcondas
 gess
 gemmingia
 gasifiers
@@ -6089,6 +6088,7 @@ gownsman
 guttiest
 geld
 gyttja
+golcondas
 gairfowl
 gnawers
 gnathopodite
