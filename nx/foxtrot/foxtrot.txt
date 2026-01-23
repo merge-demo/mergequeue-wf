@@ -2986,7 +2986,6 @@ fevered
 furnacing
 fingerbreadth
 feveret
-forefending
 froggy
 foredecks
 florivorous
@@ -9940,6 +9939,7 @@ feterita
 fosh
 fibroneuroma
 frickle
+forefending
 frontager
 furilic
 frozenly
