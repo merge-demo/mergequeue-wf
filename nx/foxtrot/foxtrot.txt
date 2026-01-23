@@ -4856,7 +4856,6 @@ fever
 fanglet
 folie
 fauve
-fundamentals
 filigrain
 flageolets
 fissiparousness
@@ -11428,6 +11427,7 @@ fleurette
 filminess
 flushboard
 furnace
+fundamentals
 feasor
 flummoxing
 frustrable
