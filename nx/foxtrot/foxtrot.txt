@@ -3019,7 +3019,6 @@ firry
 fameuse
 fewest
 fluke
-fading
 fustee
 flanned
 fezzed
@@ -8388,6 +8387,7 @@ forasmuch
 fautorship
 furmeties
 fragmentizer
+fading
 fusate
 flaughts
 ferrotyping
