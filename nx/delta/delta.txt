@@ -4477,7 +4477,6 @@ drinkableness
 destruction
 demiculverin
 dodgiest
-divulsed
 demidistance
 diaphane
 diabetogenic
@@ -8646,6 +8645,7 @@ deadbeat
 dehydrant
 drainless
 decussate
+divulsed
 duckhouse
 demerge
 dyarchies
