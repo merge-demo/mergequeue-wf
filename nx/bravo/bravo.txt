@@ -7799,7 +7799,6 @@ bethwine
 balibuntl
 biajaiba
 bidonville
-berain
 bezante
 bernacle
 biallyl
@@ -13552,6 +13551,7 @@ bottu
 bags
 bevy
 bourre
+berain
 boondoggle
 boneyards
 betrayer
