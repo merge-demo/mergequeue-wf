@@ -5798,7 +5798,6 @@ bigthatch
 blennostasis
 ballaster
 belton
-bountihead
 bellevue
 bonhommie
 boxers
@@ -6863,6 +6862,7 @@ bemingled
 bescab
 beurre
 berceuse
+bountihead
 blepharoplast
 belout
 blandishment
