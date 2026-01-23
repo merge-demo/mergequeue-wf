@@ -1153,7 +1153,6 @@ gunpowder
 granddam
 gander
 gravamens
-gregarine
 gamasidae
 guava
 gantelope
@@ -6012,6 +6011,7 @@ glaciable
 glutose
 gluttonish
 granulous
+gregarine
 gonadectomizing
 gutterman
 giallolino
