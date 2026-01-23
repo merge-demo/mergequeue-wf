@@ -3397,7 +3397,6 @@ disassociable
 dyscrasia
 decarboxylase
 decolorisation
-derries
 disadorn
 depositation
 donet
@@ -13454,6 +13453,7 @@ disemboweled
 disform
 diffusion
 dennstaedtia
+derries
 disrated
 disrecommendation
 drawlers
