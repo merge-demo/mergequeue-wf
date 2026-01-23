@@ -11947,7 +11947,6 @@ arteriosclerosis
 agelast
 awakenable
 anaschistic
-anaseismic
 anaerobia
 albite
 antiscia
@@ -21466,6 +21465,7 @@ assedation
 aspers
 adenosarcoma
 asperse
+anaseismic
 abecedaries
 agapeically
 asperser
