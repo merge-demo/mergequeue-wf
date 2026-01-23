@@ -4892,7 +4892,6 @@ eulogizes
 expectorator
 electroed
 electroharmonic
-encrinic
 encrinidae
 encrinital
 encroacher
@@ -12916,6 +12915,7 @@ extremer
 enological
 erotomania
 echafaudage
+encrinic
 elucid
 erosions
 exposer
