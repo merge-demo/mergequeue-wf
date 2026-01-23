@@ -5306,7 +5306,6 @@ discoids
 dreamers
 discomposing
 disrespect
-dentate
 disrange
 demarkation
 deuteroconid
@@ -17571,6 +17570,7 @@ drumreads
 discretely
 demential
 drumroll
+dentate
 drums
 decalcifier
 drumstick
