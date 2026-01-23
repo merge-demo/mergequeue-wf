@@ -5754,6 +5754,7 @@ expose
 embossments
 extracts
 esophoric
+encomiendas
 eddying
 endues
 ensalada
@@ -13692,7 +13693,6 @@ exteriorisation
 exteriorised
 entapophysis
 extrapolates
-encomiendas
 electrocataphoresis
 enphytotic
 erratum
