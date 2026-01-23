@@ -6793,7 +6793,6 @@ flexura
 foredays
 flouts
 fogfruits
-forested
 frizel
 fluerics
 formicariae
@@ -8978,6 +8977,7 @@ forayer
 fartherance
 fustigator
 filister
+forested
 foutra
 flowerlessness
 favelidium
