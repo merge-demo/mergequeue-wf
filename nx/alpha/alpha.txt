@@ -1855,6 +1855,7 @@ awnings
 alackaday
 autarch
 akoasma
+adaptors
 adduct
 antiketogenesis
 acephalus
@@ -23232,7 +23233,6 @@ attingent
 aggro
 autosuggestions
 apple
-adaptors
 apophasis
 attitudinised
 attitudiniser
