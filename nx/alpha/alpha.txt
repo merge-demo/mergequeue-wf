@@ -8949,7 +8949,6 @@ actinoids
 acrimony
 aefauld
 allotriophagia
-allotropic
 ailanthus
 alvearies
 abusively
@@ -17912,6 +17911,7 @@ appro
 amate
 approach
 aristodemocracy
+allotropic
 anthracotheriidae
 agateware
 anisated
