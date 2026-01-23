@@ -4957,7 +4957,6 @@ carter
 clown
 carters
 cartesian
-cartful
 carthame
 counterradiation
 ceramists
@@ -5106,6 +5105,7 @@ cytocide
 chemoprophylaxis
 cascable
 cascadable
+cartful
 cascade
 crankous
 coupes
