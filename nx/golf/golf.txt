@@ -6410,7 +6410,6 @@ grapes
 grandisonous
 gospelwards
 greenwort
-gradatim
 galloped
 gamesomeness
 grieve
@@ -10299,6 +10298,7 @@ gasped
 gibblegabble
 glene
 grossularite
+gradatim
 galvanomagnet
 grasshopperdom
 gerrymanderer
