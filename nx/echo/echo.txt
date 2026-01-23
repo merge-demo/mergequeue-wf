@@ -3998,6 +3998,7 @@ empanelling
 empanels
 enfamish
 emparchment
+evertile
 exaltative
 embarrassingly
 empathetic
@@ -4288,7 +4289,6 @@ experiment
 ephemeroptera
 endometrium
 electrodispersive
-evertile
 escalate
 exclusivism
 emulsion
