@@ -3320,7 +3320,6 @@ geriatrist
 glutinant
 generalissimos
 goxes
-german
 geckos
 gunstocks
 germanify
@@ -5440,6 +5439,7 @@ glimmer
 groundswell
 generall
 glucosid
+german
 glycaemic
 grimmer
 galopade
