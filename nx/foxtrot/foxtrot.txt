@@ -3539,7 +3539,6 @@ frostfishes
 forepart
 foreseason
 foreinstruct
-fostered
 fighteress
 fatigation
 fighting
@@ -10182,6 +10181,7 @@ fearfulness
 folkmotes
 fennish
 fittyfied
+fostered
 fluoborite
 finalizations
 fennec
