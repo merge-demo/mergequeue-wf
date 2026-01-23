@@ -1273,6 +1273,7 @@ baselessly
 brattice
 ballyhack
 baldheaded
+bicircular
 balalaika
 birdberry
 batrachiate
@@ -8023,7 +8024,6 @@ borsht
 beslipper
 bespatterer
 bowlmaker
-bicircular
 boson
 bitemporal
 bushboy
