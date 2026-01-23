@@ -8935,7 +8935,6 @@ arrenotokous
 anthroropolith
 angelon
 admaxillary
-annulata
 archicytula
 akoluthia
 algebraized
@@ -24964,6 +24963,7 @@ atomizing
 adiaphorous
 abfarad
 awave
+annulata
 atilt
 aldine
 arroyo
