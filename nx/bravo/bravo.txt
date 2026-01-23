@@ -3581,6 +3581,7 @@ buckwagon
 bedog
 bipinnaria
 bathymetry
+bewrayers
 bathymetrical
 bromism
 biggonet
@@ -7413,7 +7414,6 @@ buffcoat
 biographer
 blanketmaking
 basest
-bewrayers
 biorhythmicities
 birdhouse
 bethorns
