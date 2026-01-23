@@ -7373,6 +7373,7 @@ famishing
 fiorded
 flumed
 footslogger
+farasula
 flailed
 fluorogen
 foregoing
@@ -11667,7 +11668,6 @@ foreknowing
 fusus
 feedlot
 fanion
-farasula
 fut
 futhorc
 fleshers
