@@ -2394,7 +2394,6 @@ dewclaw
 damascenine
 dwyka
 deciders
-diphenylguanidine
 disownment
 disguisements
 dismantlement
@@ -8285,6 +8284,7 @@ deductive
 deputization
 denitrating
 dehortatory
+diphenylguanidine
 dynastes
 demegoric
 diiodid
