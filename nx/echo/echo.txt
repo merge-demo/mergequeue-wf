@@ -4370,7 +4370,6 @@ endoute
 economize
 enterointestinal
 exceeders
-epicanthus
 exothermous
 enamour
 expostulator
@@ -5649,6 +5648,7 @@ embarrasses
 epicritic
 enforth
 epithi
+epicanthus
 exhibitorial
 enframed
 esculents
