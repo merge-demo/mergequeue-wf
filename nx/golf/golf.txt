@@ -5189,6 +5189,7 @@ glossate
 glarier
 gregarinous
 glali
+greable
 gunner
 gnatflower
 gaumed
@@ -7460,7 +7461,6 @@ gadids
 gaditan
 gordolobo
 gorillalike
-greable
 gou
 gyrometer
 goodmen
