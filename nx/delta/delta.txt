@@ -2092,7 +2092,6 @@ dunlop
 dissimilar
 djuka
 dialing
-dodecasemic
 dinornithid
 dominial
 disappearance
@@ -13254,6 +13253,7 @@ driftpiece
 displeasures
 dilations
 defensorship
+dodecasemic
 displicence
 drawsheet
 dendrobe
