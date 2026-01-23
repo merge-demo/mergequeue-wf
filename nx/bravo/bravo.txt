@@ -4822,7 +4822,6 @@ brachylogy
 bedriveling
 brutality
 backpedaled
-burriest
 bougee
 bedroll
 bandicoots
@@ -6086,6 +6085,7 @@ boguing
 bittier
 barleducs
 bol
+burriest
 biliary
 ballmine
 biostatistics
