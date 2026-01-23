@@ -10329,7 +10329,6 @@ cowpoke
 chickpea
 conspirator
 chickpeas
-cerer
 chickstone
 consultory
 canariote
@@ -23942,6 +23941,7 @@ convallaria
 chalazion
 consummately
 chammied
+cerer
 cagey
 clyfaking
 chukkars
