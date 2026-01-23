@@ -4737,7 +4737,6 @@ englishism
 enrapture
 excitants
 eulogism
-executonis
 estre
 emplaced
 exponentiating
@@ -8452,6 +8451,7 @@ emblossom
 exulceration
 epulones
 exchange
+executonis
 electrizer
 evisceration
 equip
