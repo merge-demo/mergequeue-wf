@@ -1784,7 +1784,6 @@ desmoscolex
 debark
 drawknife
 digamist
-dwelled
 debarkment
 degauss
 doohickeys
@@ -10971,6 +10970,7 @@ dazzlement
 dannock
 disaccomodate
 dobsonflies
+dwelled
 droplike
 dropcloth
 diclytra
