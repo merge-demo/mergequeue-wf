@@ -7461,7 +7461,6 @@ cephalopodous
 corporatist
 chthonian
 cephalopterus
-cephaloridine
 cadus
 copecks
 cephalosome
@@ -26038,6 +26037,7 @@ challote
 complaisantness
 cosigned
 cretin
+cephaloridine
 cosigners
 cubbies
 chowderheadedness
