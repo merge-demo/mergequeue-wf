@@ -11126,7 +11126,6 @@ chivaris
 chive
 cinecamera
 chivey
-cephalanthium
 chiliadal
 crescographic
 cyphonautes
@@ -31080,6 +31079,7 @@ choanite
 catharism
 cuneus
 calcedony
+cephalanthium
 curvets
 copataine
 capitulation
