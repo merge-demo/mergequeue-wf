@@ -2114,7 +2114,6 @@ ectromelus
 enclosable
 enterolysis
 edgeweed
-elasmothere
 emulge
 excretory
 extrapolator
@@ -9992,6 +9991,7 @@ enfonced
 entrep
 estuarial
 epagogic
+elasmothere
 eloquently
 estuosity
 endophagy
