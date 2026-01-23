@@ -16348,7 +16348,6 @@ downway
 disdain
 drunkery
 downwardly
-devourment
 downgrowth
 deducive
 dultie
@@ -16609,6 +16608,7 @@ debiteuse
 deathbeds
 disinterestedness
 dragstaff
+devourment
 drone
 designation
 dragsters

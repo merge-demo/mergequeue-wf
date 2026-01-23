@@ -5244,7 +5244,6 @@ flasker
 furless
 foretooth
 foreshock
-floccular
 fossilage
 fellifluous
 furbelows
@@ -7286,6 +7285,7 @@ fraileros
 flitch
 fairily
 freud
+floccular
 find
 foothot
 frowstily
