@@ -3822,7 +3822,6 @@ bauch
 bondoc
 browsing
 bityite
-bristlecone
 beerish
 benzole
 beatrice
@@ -7337,6 +7336,7 @@ boyau
 betakes
 betaking
 beneventana
+bristlecone
 bacalao
 bombacaceous
 blowby
