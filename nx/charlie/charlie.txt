@@ -9475,6 +9475,7 @@ chebecs
 chebog
 culation
 categorising
+chronique
 chebulic
 colorbearer
 chechakos
@@ -12573,7 +12574,6 @@ chronicon
 chronics
 craddy
 copping
-chronique
 cribwork
 commerceless
 chronocarator
