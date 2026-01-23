@@ -9476,7 +9476,6 @@ darshana
 displume
 destructively
 digamma
-dichlone
 demilegato
 downfeed
 dodgier
@@ -15682,6 +15681,7 @@ discovers
 downbye
 dorask
 dorbeetle
+dichlone
 dissava
 dorbel
 dorbugs
