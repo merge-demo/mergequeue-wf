@@ -6296,6 +6296,7 @@ enows
 electrotechnology
 ecclesiastry
 eglandular
+elytroplastic
 enumerability
 enduring
 exspoliation
@@ -7721,7 +7722,6 @@ epidemically
 evidentiary
 enfevered
 epidemiography
-elytroplastic
 epeirogeny
 equilibration
 expendability
