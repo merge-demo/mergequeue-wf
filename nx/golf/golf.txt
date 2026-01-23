@@ -2931,7 +2931,6 @@ glitter
 geocerite
 gubernation
 greenheaded
-gallons
 gulley
 gasoscope
 growlier
@@ -8130,6 +8129,7 @@ galleries
 glottic
 goasila
 gravat
+gallons
 glassier
 gymnotid
 gratae
