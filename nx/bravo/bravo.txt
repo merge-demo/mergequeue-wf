@@ -6799,6 +6799,7 @@ badian
 bookery
 baronages
 bersagliere
+burdenable
 brittles
 bonnocks
 bin
@@ -12944,7 +12945,6 @@ bromizes
 bruin
 biblicolegal
 babassus
-burdenable
 bungmaker
 bouffante
 bursectomy
