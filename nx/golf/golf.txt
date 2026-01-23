@@ -4539,7 +4539,6 @@ grading
 grumes
 guzzling
 granitize
-gyromele
 geogenetic
 gays
 grubbers
@@ -4565,6 +4564,7 @@ geanticline
 geotropy
 gamb
 grapey
+gyromele
 gucked
 galactoma
 gumwoods
