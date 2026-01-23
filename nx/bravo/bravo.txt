@@ -4166,6 +4166,7 @@ brockages
 bowdlerizations
 bearm
 backslaps
+biconnected
 brevet
 backdrop
 bracciale
@@ -8043,7 +8044,6 @@ bicolors
 bidder
 bullescene
 biramose
-biconnected
 bouleuterion
 boildown
 bayberry
