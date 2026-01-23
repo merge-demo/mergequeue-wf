@@ -753,7 +753,6 @@ birt
 battish
 badious
 betrays
-betterer
 bellybutton
 bicentennially
 brontide
@@ -1571,6 +1570,7 @@ beeherd
 burger
 bersiamite
 bulbiform
+betterer
 bdl
 bufferrer
 bouton
