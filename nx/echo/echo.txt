@@ -6606,7 +6606,6 @@ ensuant
 esothyropexy
 excusive
 epipterous
-eccritic
 embattled
 enorthotrope
 estoppels
@@ -11922,6 +11921,7 @@ emissivity
 enfume
 emends
 engore
+eccritic
 enami
 euploeinae
 ectoderms
