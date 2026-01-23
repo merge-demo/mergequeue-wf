@@ -8807,7 +8807,6 @@ encelia
 episcopolatry
 enticement
 eremitish
-eradicant
 epineolithic
 endothermal
 embossable
@@ -11483,6 +11482,7 @@ enteral
 entosarc
 elitists
 echovirus
+eradicant
 exercent
 emblic
 edibility
