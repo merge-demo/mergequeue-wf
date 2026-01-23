@@ -258,7 +258,6 @@ favouredly
 frostbound
 fritterer
 facultize
-finify
 fulgur
 fannel
 furfures
@@ -2168,6 +2167,7 @@ finnicize
 floruit
 frigate
 footprints
+finify
 fleam
 fletch
 fumishing
