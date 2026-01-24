@@ -11413,7 +11413,6 @@ dowhacky
 devoter
 dehydrogenise
 delimiter
-dischevel
 dentalization
 diabases
 dermatocele
@@ -12363,6 +12362,7 @@ desynchronize
 diaconia
 delineates
 daredevilism
+dischevel
 dormy
 drywalls
 diferrion
