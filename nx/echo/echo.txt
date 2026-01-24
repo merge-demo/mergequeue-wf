@@ -6818,7 +6818,6 @@ euclid
 extramural
 encage
 edrioasteroidea
-entire
 epithumetic
 engluts
 enjoys
@@ -14204,6 +14203,7 @@ enforceability
 exerciser
 exust
 encaging
+entire
 excitron
 exxon
 enfeoffs
