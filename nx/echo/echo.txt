@@ -9098,6 +9098,7 @@ englishable
 epicyclic
 europeans
 escharotic
+errs
 enbranglement
 exordial
 eyases
@@ -10204,7 +10205,6 @@ epigraphical
 eccentric
 endive
 earstone
-errs
 expositress
 engouee
 eurhodine
