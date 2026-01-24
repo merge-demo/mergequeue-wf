@@ -14697,7 +14697,6 @@ blackbirding
 benedicks
 bacteriologic
 bibliomanism
-brantness
 brants
 bewall
 branular
@@ -17112,6 +17111,7 @@ beduck
 bulanda
 boothite
 biker
+brantness
 bullet
 bulleted
 byepath
