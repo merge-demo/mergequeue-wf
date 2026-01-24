@@ -15664,7 +15664,6 @@ coattends
 craniotympanic
 copper
 cartilaginification
-clausthalite
 claustration
 characinoid
 concludence
@@ -25665,6 +25664,7 @@ coolaman
 correlatable
 cathedrae
 chita
+clausthalite
 cytopathology
 creach
 commutation
