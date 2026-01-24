@@ -3551,7 +3551,6 @@ graphonomy
 gallop
 gnathotheca
 greenboard
-gynospore
 gesticulant
 gumshoing
 gavage
@@ -8940,6 +8939,7 @@ gaufferer
 grubbed
 gingras
 gabbing
+gynospore
 glossemes
 grandparent
 gibbets
