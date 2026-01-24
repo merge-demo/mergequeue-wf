@@ -82,6 +82,7 @@ faces
 fiendish
 flagrantness
 famousness
+florification
 facetely
 froufrous
 foreflap
@@ -9238,7 +9239,6 @@ faming
 footballist
 fronton
 filariasis
-florification
 feat
 foreship
 federations
