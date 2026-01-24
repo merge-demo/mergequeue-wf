@@ -2646,7 +2646,6 @@ eudiaphoresis
 excerpted
 exercitor
 epithelize
-editchar
 encasserole
 electrophoretogram
 expansure
@@ -5220,6 +5219,7 @@ ekebergite
 either
 endoneurium
 equestrianism
+editchar
 equinely
 escoba
 entier
