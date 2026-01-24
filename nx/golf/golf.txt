@@ -3509,7 +3509,6 @@ gerrhosauridae
 germ
 gila
 gestalt
-gestaltist
 genital
 gynecology
 gastrotomy
@@ -5469,6 +5468,7 @@ grills
 geomancy
 glyptolith
 gynostemia
+gestaltist
 gingerberry
 garrulous
 grotesques
