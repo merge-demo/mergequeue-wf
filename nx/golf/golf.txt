@@ -5605,7 +5605,6 @@ guejarite
 goutier
 greenroom
 glucaemia
-gharries
 gumming
 gripless
 grantia
@@ -6993,6 +6992,7 @@ generalism
 gormandism
 guaniferous
 greystone
+gharries
 gladiatorship
 gumlah
 galvanocontractility
