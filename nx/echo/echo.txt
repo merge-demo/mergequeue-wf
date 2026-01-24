@@ -734,6 +734,7 @@ enspell
 estantion
 erythrozincite
 endotoxic
+endosmotic
 exceptant
 eidently
 enode
@@ -9590,7 +9591,6 @@ electroviscous
 evacuees
 eulogious
 exannulate
-endosmotic
 euchromatic
 emasculated
 embarrassed
