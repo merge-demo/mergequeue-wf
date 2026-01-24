@@ -4430,7 +4430,6 @@ directoral
 dampcourse
 demethylate
 defogs
-dependabilities
 definitize
 demetricize
 deceits
@@ -17944,6 +17943,7 @@ dugento
 dragooned
 devest
 devouress
+dependabilities
 dugongidae
 discussed
 desalinizes
