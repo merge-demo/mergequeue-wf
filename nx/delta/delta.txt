@@ -751,6 +751,7 @@ dandler
 dandlers
 dispurpose
 drawn
+derailleurs
 deglutinate
 devolatilize
 detrude
@@ -9492,7 +9493,6 @@ delaw
 demode
 dozener
 decubitus
-derailleurs
 dissert
 digenetica
 digue
