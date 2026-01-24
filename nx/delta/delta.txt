@@ -1894,6 +1894,7 @@ downslip
 dottle
 dowser
 danzig
+detectible
 didus
 declassicize
 dissenterism
@@ -7240,7 +7241,6 @@ digitate
 distance
 decertify
 damnified
-detectible
 devonshire
 deadlight
 disparatum
