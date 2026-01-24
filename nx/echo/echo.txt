@@ -10257,7 +10257,6 @@ evanishing
 epopees
 evermore
 entoblast
-esophagomycosis
 epithalamy
 envenomation
 exactiveness
@@ -12672,6 +12671,7 @@ exostracism
 examplar
 exogyra
 enterogram
+esophagomycosis
 effusion
 exognathite
 exogenetic
