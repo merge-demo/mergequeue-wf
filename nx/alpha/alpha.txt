@@ -5633,6 +5633,7 @@ antilens
 amphistomatic
 againward
 aggrace
+antholite
 aguara
 ardeid
 appoggiaturas
@@ -14290,7 +14291,6 @@ anodes
 aroras
 antireaction
 aniseikonia
-antholite
 anthological
 anthologically
 anthologies
