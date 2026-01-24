@@ -6233,7 +6233,6 @@ benet
 benevolency
 bengalese
 boston
-batavian
 bluelegs
 bengola
 bipartient
@@ -14675,6 +14674,7 @@ branks
 bronchi
 brankursine
 branles
+batavian
 blench
 bronchopulmonary
 biogeographers
