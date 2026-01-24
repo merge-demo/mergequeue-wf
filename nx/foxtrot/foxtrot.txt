@@ -4016,7 +4016,6 @@ fetches
 foeniculum
 formaldehydesulphoxylate
 forbecause
-fromward
 fictionmonger
 furcating
 fogyism
@@ -6641,6 +6640,7 @@ freddo
 foldskirt
 frakturs
 fumigatory
+fromward
 fraxinus
 fertilisational
 fortifying
