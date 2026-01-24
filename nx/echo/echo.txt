@@ -666,7 +666,6 @@ ehrman
 etatism
 excretitious
 euahlayi
-expect
 erythroxylum
 eof
 eavesdrop
@@ -3069,6 +3068,7 @@ eliquidate
 extraclaustral
 ensilver
 elissa
+expect
 exaun
 eyereach
 ebenezer
