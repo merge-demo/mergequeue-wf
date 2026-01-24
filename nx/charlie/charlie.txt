@@ -10405,7 +10405,6 @@ cryptometer
 conchinin
 chiffons
 continuable
-chifforobe
 chlorinity
 chylified
 cozenage
@@ -17398,6 +17397,7 @@ cimline
 coassist
 coassistant
 culpas
+chifforobe
 cupola
 calatrava
 crystallic
