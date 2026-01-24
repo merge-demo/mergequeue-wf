@@ -693,7 +693,6 @@ galtrap
 gianthood
 grazer
 gnathostomata
-guebucu
 greasiness
 gemmology
 galvanically
@@ -10696,6 +10695,7 @@ guardfish
 glazers
 goodmanship
 gildings
+guebucu
 genipap
 gigacycle
 girdlers
