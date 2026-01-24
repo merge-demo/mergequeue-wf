@@ -4634,6 +4634,7 @@ glucosaemia
 gymnanthes
 glottalize
 gluttonism
+glances
 guianan
 gnathobase
 gleamy
@@ -5897,7 +5898,6 @@ glycosidase
 genuflected
 gipsyweed
 gainliness
-glances
 glucoside
 goshawk
 gurjun
