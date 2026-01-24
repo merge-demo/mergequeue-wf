@@ -1963,7 +1963,6 @@ eluants
 excursions
 enabled
 etherialization
-echinulate
 enframement
 eliding
 estoppal
@@ -7283,6 +7282,7 @@ entophytous
 electrophilically
 ectomeres
 edwards
+echinulate
 embroiler
 esplanades
 elpasolite
