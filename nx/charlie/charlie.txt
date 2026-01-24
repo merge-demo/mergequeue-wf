@@ -7967,7 +7967,6 @@ catiline
 ceterach
 ceti
 cetic
-cocytus
 chitinization
 cetyl
 cetylic
@@ -24573,6 +24572,7 @@ clapped
 copiapite
 copyboy
 copyboys
+cocytus
 cupelers
 cod
 cakehouse
