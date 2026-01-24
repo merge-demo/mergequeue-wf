@@ -13393,6 +13393,7 @@ canaanite
 conducingly
 cantico
 calindas
+codol
 crossarm
 cyclotome
 cyclotomic
@@ -19856,7 +19857,6 @@ clamorously
 chaldean
 comfier
 calamites
-codol
 chamaedaphne
 cohabits
 cuspidation
