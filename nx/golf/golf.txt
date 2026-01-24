@@ -3577,7 +3577,6 @@ gaycat
 gaspar
 getling
 goldenest
-getpenny
 gracile
 garotting
 gunkholed
@@ -8551,6 +8550,7 @@ gulpers
 gabling
 gurging
 grouchingly
+getpenny
 grownups
 geomedical
 guttated
