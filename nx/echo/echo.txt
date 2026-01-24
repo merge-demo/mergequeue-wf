@@ -2115,6 +2115,7 @@ emu
 endamoebae
 eggberry
 extrovertedness
+ectype
 extirpateo
 enent
 emma
@@ -7489,7 +7490,6 @@ ephemerid
 escobadura
 ephemeridae
 embed
-ectype
 extrafocal
 eyess
 extracivically
