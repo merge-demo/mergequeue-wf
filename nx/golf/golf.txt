@@ -4471,7 +4471,6 @@ generics
 goas
 giocoso
 gip
-geoids
 gleba
 galloman
 gametes
@@ -10536,6 +10535,7 @@ giansar
 guardage
 gilly
 gatecrashers
+geoids
 galleting
 gonal
 gunfights
