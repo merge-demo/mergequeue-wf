@@ -3994,7 +3994,6 @@ geds
 genospecies
 gargoyle
 gynecocratical
-gregarinina
 gynandrarchic
 grassnut
 grex
@@ -10651,6 +10650,7 @@ gunk
 genera
 gamut
 galee
+gregarinina
 gemmiest
 gargantuan
 gnomed
