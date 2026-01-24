@@ -1807,7 +1807,6 @@ apochromatic
 acedias
 absolvitor
 agalloch
-astigmia
 aboriginally
 ammonitiferous
 aceldamas
@@ -18881,6 +18880,7 @@ astalk
 autotomising
 addoom
 aphelian
+astigmia
 aldohexose
 ausu
 aficionada
