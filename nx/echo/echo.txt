@@ -3178,7 +3178,6 @@ ell
 ecdysones
 echinorhinidae
 etheriidae
-epitomised
 elodeas
 enfaced
 eigh
@@ -5916,6 +5915,7 @@ eared
 exaggerativeness
 exclaims
 enrollment
+epitomised
 epitomise
 enharbour
 electrometallurgy
