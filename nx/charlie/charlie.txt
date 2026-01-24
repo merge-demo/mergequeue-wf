@@ -10611,7 +10611,6 @@ chylomicron
 chylopericardium
 chylophylly
 chylophyllous
-celestas
 chylophyllously
 cabalistically
 collielike
@@ -18199,6 +18198,7 @@ coercionary
 coercitive
 christianomastix
 coercive
+celestas
 campaigners
 coerciveness
 coercivity
