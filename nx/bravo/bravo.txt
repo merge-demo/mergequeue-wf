@@ -1303,7 +1303,6 @@ burgomaster
 bari
 boldoine
 brahmism
-boteroll
 blathered
 banksias
 betorcinol
@@ -7913,6 +7912,7 @@ bibliologies
 brains
 bedboard
 brachiation
+boteroll
 baldachinos
 bibliologist
 bedlike
