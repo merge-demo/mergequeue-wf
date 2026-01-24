@@ -9179,7 +9179,6 @@ elabor
 expulser
 episplenitis
 exumbrella
-entanglers
 extraduction
 elidible
 esrog
@@ -9905,6 +9904,7 @@ enodally
 encave
 ear
 electrotelethermometer
+entanglers
 erythematous
 editorial
 extorters
