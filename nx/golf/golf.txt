@@ -7167,7 +7167,6 @@ gingerbready
 glucolipin
 graftage
 guan
-gabelle
 glider
 gaffs
 glaciologist
@@ -10559,6 +10558,7 @@ guanays
 gaun
 gerbo
 gesneraceae
+gabelle
 gyneocracy
 gallivanter
 grinderies
