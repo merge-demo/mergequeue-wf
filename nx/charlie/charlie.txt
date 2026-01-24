@@ -7466,6 +7466,7 @@ conventicles
 cephalothoraxes
 corozo
 chippering
+commands
 chauk
 cephalotractor
 cephalotrocha
@@ -10066,7 +10067,6 @@ complier
 cheselip
 coxocerite
 cyclogram
-commands
 cheskey
 campine
 cheslep
