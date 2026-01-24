@@ -659,6 +659,7 @@ armaturing
 archibenthos
 aboma
 amaga
+alloxy
 abomasus
 alkylize
 affinely
@@ -955,7 +956,6 @@ astriction
 atomistics
 aglisten
 aldolize
-alloxy
 animous
 appeasably
 absonous
