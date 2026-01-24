@@ -1445,6 +1445,7 @@ germanism
 garret
 gpm
 graffer
+grulla
 gruppetto
 gypsiferous
 gipsire
@@ -4262,7 +4263,6 @@ gladiators
 gumptionless
 gloats
 glb
-grulla
 gastriloquism
 guider
 goosing
