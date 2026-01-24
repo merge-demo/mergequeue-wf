@@ -796,7 +796,6 @@ fandangos
 ferried
 fellowlike
 flatbed
-fleaworts
 freesp
 fiendism
 frangipane
@@ -4256,6 +4255,7 @@ fanos
 fingent
 floodtime
 forel
+fleaworts
 favourably
 firebrick
 foulmouthed
