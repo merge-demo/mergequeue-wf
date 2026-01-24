@@ -12743,7 +12743,6 @@ angiorrhaphy
 angiorrhea
 armorwise
 ammocoetid
-affirmant
 ashen
 angiosymphysis
 anopia
@@ -19163,6 +19162,7 @@ abusable
 araponga
 aerobiotic
 antepretonic
+affirmant
 antiparliamenteer
 alemannic
 anatomically
