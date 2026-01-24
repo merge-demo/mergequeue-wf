@@ -6348,6 +6348,7 @@ brike
 benzanthracene
 biocidal
 boxboard
+becurtained
 bakairi
 balandra
 benzanthrone
@@ -15225,7 +15226,6 @@ backstay
 bronziest
 besmutted
 barberfish
-becurtained
 briarwood
 bribable
 bribees
