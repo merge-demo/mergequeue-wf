@@ -692,7 +692,6 @@ greyiaceae
 galtrap
 gianthood
 grazer
-gnathostomata
 greasiness
 gemmology
 galvanically
@@ -7852,6 +7851,7 @@ gooiest
 garneter
 guanche
 gerately
+gnathostomata
 greenkeeper
 glassblowers
 glead
