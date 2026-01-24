@@ -6724,6 +6724,7 @@ arid
 aircraftsman
 aircraftsmen
 archband
+arsenium
 aircraftswoman
 amytal
 aircraftwoman
@@ -8262,7 +8263,6 @@ arundinaceous
 arnaut
 alimentativeness
 airlifts
-arsenium
 alimented
 alimentic
 alabandite
