@@ -10229,7 +10229,6 @@ flavour
 frittering
 fluoroscopy
 fuchi
-furnit
 fluorometer
 frivolity
 freakier
@@ -10877,6 +10876,7 @@ fs
 failures
 franklinic
 fulcruming
+furnit
 feeable
 fanatical
 fulfiller
