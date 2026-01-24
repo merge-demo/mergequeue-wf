@@ -4356,6 +4356,7 @@ dumbbeller
 demeanor
 doit
 dupped
+disaffiliation
 disallowableness
 dragonet
 demeanored
@@ -9737,7 +9738,6 @@ dipneusti
 devilward
 diageotropy
 dilactic
-disaffiliation
 dilactone
 dilamination
 dilaniate
