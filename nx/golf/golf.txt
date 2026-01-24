@@ -3427,6 +3427,7 @@ globiferous
 gpss
 girland
 goniodoris
+gunsman
 germon
 groundskeep
 ghostcraft
@@ -5727,7 +5728,6 @@ gimmaled
 guignol
 glotum
 gestning
-gunsman
 graviers
 guacharo
 gathered
