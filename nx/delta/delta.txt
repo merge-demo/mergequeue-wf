@@ -733,6 +733,7 @@ dragonhead
 dandis
 discursory
 divulgate
+defamatory
 deoppilative
 dubs
 decoyer
@@ -10679,7 +10680,6 @@ delimiters
 decompressing
 dormin
 dysporomorph
-defamatory
 dispicion
 drawfile
 diphtheritic
