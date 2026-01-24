@@ -4036,7 +4036,6 @@ gilbertian
 girlishness
 glycoprotein
 guttula
-galipidine
 grotzen
 groat
 gouter
@@ -8440,6 +8439,7 @@ grisailles
 gunport
 gemmaceous
 glaumrie
+galipidine
 gorry
 galeeny
 genipa
