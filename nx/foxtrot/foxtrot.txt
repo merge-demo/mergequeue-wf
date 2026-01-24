@@ -9331,6 +9331,7 @@ frenchy
 faradomuscular
 frontispieced
 francas
+fibroin
 fraktur
 fresnel
 foresentence
@@ -10542,7 +10543,6 @@ floria
 farrant
 flnerie
 foregoer
-fibroin
 fluffs
 flatweed
 fidged
