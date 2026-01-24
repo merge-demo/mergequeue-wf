@@ -11985,7 +11985,6 @@ dandiacal
 defeasive
 debonaire
 diseasedness
-diseases
 dannie
 diseconomy
 diastemata
@@ -14194,6 +14193,7 @@ dammish
 daywork
 desmopathologist
 dunair
+diseases
 deselecting
 desiccator
 desponsories
