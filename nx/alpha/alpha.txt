@@ -2048,7 +2048,6 @@ aperistalsis
 aequoreal
 albuminiform
 actinogram
-agglutinating
 auditive
 acropathology
 amplexus
@@ -13854,6 +13853,7 @@ apprehends
 asservilize
 aspersoriums
 ansulate
+agglutinating
 anglice
 answerability
 answered
