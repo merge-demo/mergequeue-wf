@@ -130,7 +130,6 @@ gadwalls
 ghillie
 girth
 gavialoid
-gynostegia
 gallicole
 gunfighter
 guy
@@ -1372,6 +1371,7 @@ garmentmaker
 gynomonecious
 gymnic
 gelogenic
+gynostegia
 germanely
 green
 garments
