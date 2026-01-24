@@ -5577,6 +5577,7 @@ fluozirconic
 fernbrake
 ferreter
 fylker
+flitching
 flora
 frotton
 funniness
@@ -9948,7 +9949,6 @@ flintstone
 fewnesses
 freeness
 folksey
-flitching
 fraghan
 frits
 flukewort
