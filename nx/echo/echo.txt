@@ -3585,6 +3585,7 @@ endow
 embodiers
 extrusile
 essential
+enframes
 embassage
 epepophysial
 echelons
@@ -7953,7 +7954,6 @@ eclampsia
 enclavement
 excoriable
 enneastylar
-enframes
 ecclesiography
 exacerbated
 ensiferi
