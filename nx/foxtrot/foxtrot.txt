@@ -548,6 +548,7 @@ feodum
 fakirs
 falbelo
 fioretti
+futuro
 frowny
 falco
 forepaled
@@ -3742,7 +3743,6 @@ filings
 finched
 figure
 fewter
-futuro
 fibrilated
 fringepod
 fidos
