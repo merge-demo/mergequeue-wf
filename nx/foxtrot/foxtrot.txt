@@ -5851,6 +5851,7 @@ flippancies
 flareback
 flavorfulness
 fetor
+feathered
 ferulas
 foosterer
 fishweed
@@ -7457,7 +7458,6 @@ fetting
 frowy
 fulcrum
 fibrotic
-feathered
 focimeter
 federally
 fiddleheaded
