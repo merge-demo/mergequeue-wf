@@ -12330,7 +12330,6 @@ emanators
 echea
 exerted
 eviscerations
-evectant
 enthrallments
 exertionless
 excretes
@@ -14008,6 +14007,7 @@ enlumine
 electrolytic
 extrapunitive
 equinity
+evectant
 expalpate
 ephorship
 eustacy
