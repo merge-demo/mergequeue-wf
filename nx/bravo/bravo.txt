@@ -9835,7 +9835,6 @@ buttresses
 barleymow
 beja
 buzzgloak
-birdwatch
 bagwigged
 beddable
 bradypepsia
@@ -18105,6 +18104,7 @@ ballyrag
 beauteousness
 bistouries
 birchism
+birdwatch
 briza
 butcheress
 bradysphygmia
