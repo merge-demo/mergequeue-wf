@@ -1104,6 +1104,7 @@ encephaloscope
 enormous
 ead
 ensanguining
+eaux
 edhs
 evanesced
 envergure
@@ -4285,7 +4286,6 @@ emulations
 exporters
 expiree
 escambio
-eaux
 eumeristic
 emcumbering
 expressways
