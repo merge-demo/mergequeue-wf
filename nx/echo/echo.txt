@@ -10694,7 +10694,6 @@ encryption
 eviting
 exuviated
 epimysium
-elaterid
 eudaimonia
 eudaimonist
 eric
@@ -10919,6 +10918,7 @@ entailable
 equitability
 enchalice
 elboic
+elaterid
 epanody
 epidemial
 eructation
