@@ -7076,7 +7076,6 @@ beknots
 brandy
 blenching
 barbute
-billiardist
 besouth
 brachiosaurus
 bedazzlement
@@ -16646,6 +16645,7 @@ bursati
 benedictory
 brachiocrural
 bedlamps
+billiardist
 bubblement
 bubbler
 bullshitting
