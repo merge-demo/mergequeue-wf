@@ -4603,7 +4603,6 @@ geoagronomic
 girds
 guaranies
 grids
-gallflies
 griddlecake
 gracefully
 genderless
@@ -7503,6 +7502,7 @@ gonorrhoea
 groundably
 groundwater
 gazing
+gallflies
 gulpy
 gladiatory
 glyphography
