@@ -2455,6 +2455,7 @@ baulk
 bonete
 blackjacked
 bradenhead
+bans
 byres
 boring
 brassic
@@ -15521,7 +15522,6 @@ bossa
 bromo
 beignet
 bihai
-bans
 bolshevistically
 bryndza
 bleaters
