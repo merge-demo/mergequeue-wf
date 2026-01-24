@@ -1058,6 +1058,7 @@ belate
 bromoform
 boroughmaster
 bailiwick
+benzoin
 bridler
 benzothiopyran
 battening
@@ -15720,7 +15721,6 @@ bewildered
 burr
 beholder
 braggiest
-benzoin
 beretta
 bepuzzlement
 ballgowns
