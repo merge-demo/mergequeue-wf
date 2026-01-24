@@ -13757,7 +13757,6 @@ cinemagoers
 cinemas
 cinematheque
 carsmith
-cheeringly
 consumers
 congruities
 cinematheques
@@ -20191,6 +20190,7 @@ commodata
 commodate
 clerics
 commodation
+cheeringly
 capmint
 coft
 coelomic
