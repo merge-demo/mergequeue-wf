@@ -7934,7 +7934,6 @@ elettaria
 etheling
 existing
 eidola
-enlargement
 euphemistic
 eclampsia
 enclavement
@@ -9080,6 +9079,7 @@ equiglacial
 episcenium
 epibranchial
 emmies
+enlargement
 explanate
 epizooty
 entropies
