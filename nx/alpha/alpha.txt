@@ -16009,7 +16009,6 @@ absolvable
 archprince
 antipot
 atalaya
-affably
 architectonica
 amusing
 aldehol
@@ -25354,6 +25353,7 @@ azotemia
 aporrhegma
 arbiter
 ankylosis
+affably
 acinaceous
 azotemic
 amphitheatered

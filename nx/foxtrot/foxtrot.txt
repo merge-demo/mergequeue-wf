@@ -362,7 +362,6 @@ fluxionary
 fierding
 fadeless
 fishway
-fail
 faineancy
 fimbricated
 furcal
@@ -5711,6 +5710,7 @@ flyer
 forbearingness
 footages
 forwhy
+fail
 forfar
 fingerwise
 frontonasal
