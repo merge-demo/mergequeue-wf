@@ -3529,7 +3529,6 @@ enchained
 embers
 eugubine
 estival
-excursionism
 enate
 epees
 enanthema
@@ -12491,6 +12490,7 @@ efforts
 enrollees
 ense
 excusively
+excursionism
 etiogenic
 enki
 elfdom
