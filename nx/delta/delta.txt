@@ -3948,7 +3948,6 @@ delectability
 dampang
 dissatisfactory
 decides
-duplex
 devitalise
 deputized
 distune
@@ -11671,6 +11670,7 @@ discontentments
 druery
 disboweled
 discontents
+duplex
 discontiguity
 discontinuances
 dambonite
