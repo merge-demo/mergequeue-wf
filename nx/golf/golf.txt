@@ -4216,7 +4216,6 @@ grandfather
 gloy
 gutturize
 gosmore
-glotum
 greying
 ges
 geod
@@ -5724,6 +5723,7 @@ gloveress
 galeoid
 gimmaled
 guignol
+glotum
 gestning
 gunsman
 graviers
