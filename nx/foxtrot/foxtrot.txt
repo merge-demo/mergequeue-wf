@@ -3584,6 +3584,7 @@ fromfile
 figurer
 foolery
 fute
+fuzzing
 fleetingly
 fernland
 figures
@@ -3731,7 +3732,6 @@ flawier
 forelooper
 father
 floorings
-fuzzing
 friskers
 fare
 fertilised
