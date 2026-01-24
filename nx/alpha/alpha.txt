@@ -3723,6 +3723,7 @@ alloted
 abrenounce
 anointment
 alliteration
+annuller
 antiquity
 alcoothionic
 albuminization
@@ -13518,7 +13519,6 @@ aide
 anthems
 annullate
 autophagy
-annuller
 apprizes
 aquafortis
 annulment
