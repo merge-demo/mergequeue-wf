@@ -2436,6 +2436,7 @@ allelomorph
 aciniform
 anatomicophysiological
 aggrate
+auld
 acinus
 actinozoon
 aedes
@@ -24202,7 +24203,6 @@ anthozoa
 achroodextrinase
 awakens
 autokinesy
-auld
 allentiacan
 autokinesis
 arythmia
