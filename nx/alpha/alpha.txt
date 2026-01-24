@@ -15428,6 +15428,7 @@ antimedicine
 anaptomorphidae
 adipoceriform
 anchylotic
+arcual
 agrestial
 antimedievalism
 antimedievally
@@ -24598,7 +24599,6 @@ auxology
 ammonea
 argentarius
 anachorism
-arcual
 auxotox
 auxotroph
 auxotrophy

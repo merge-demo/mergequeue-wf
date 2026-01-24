@@ -429,6 +429,7 @@ borecole
 backstretch
 basename
 bernie
+bors
 beefhead
 brushless
 brinjaree
@@ -13294,7 +13295,6 @@ barundi
 blemmyes
 botryoidal
 beading
-bors
 breatheableness
 bosonic
 bugi
