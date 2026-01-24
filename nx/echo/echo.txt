@@ -7291,6 +7291,7 @@ exonerate
 endoproct
 epicurize
 eohippus
+entrant
 eohippuses
 epigenous
 electronegativity
@@ -9277,7 +9278,6 @@ erotomaniac
 erotomaniacal
 embreathement
 electromer
-entrant
 extirpate
 escout
 exuviability
