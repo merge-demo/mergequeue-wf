@@ -4056,6 +4056,7 @@ gopherroot
 glamourize
 gynostegium
 gabendum
+glendale
 gerontologic
 ginorite
 giantish
@@ -5735,7 +5736,6 @@ gaboon
 galuth
 guttule
 ghillies
-glendale
 gnomide
 guidelines
 glossocele
