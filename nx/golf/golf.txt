@@ -9096,7 +9096,6 @@ grimaced
 gamestress
 gulose
 genoese
-gis
 goloch
 gunpowdery
 gilled
@@ -9506,6 +9505,7 @@ gawky
 graduation
 griffonne
 gabled
+gis
 glandulosity
 genitalial
 glycose
