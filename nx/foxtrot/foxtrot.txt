@@ -243,7 +243,6 @@ fiend
 fruitfullness
 fruitworm
 feverroot
-fluorotype
 faculous
 firelock
 forthcomingness
@@ -11458,6 +11457,7 @@ formfeed
 frizers
 firebase
 folkmoter
+fluorotype
 friese
 flirtation
 flasket
