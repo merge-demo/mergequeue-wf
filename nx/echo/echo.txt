@@ -452,6 +452,7 @@ epact
 eutrophic
 embayed
 endochrome
+exorbital
 epidermomycosis
 excelsitude
 evangelist
@@ -1025,7 +1026,6 @@ edaphon
 endorsing
 excel
 enquiring
-exorbital
 embar
 earthwork
 explosibility
