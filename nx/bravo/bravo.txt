@@ -10303,6 +10303,7 @@ boolean
 bellweather
 bulldogs
 biborate
+boltmaker
 broadmindedly
 belly
 backflow
@@ -12345,7 +12346,6 @@ boltheading
 beslimed
 boltlike
 beaupers
-boltmaker
 bunga
 bandoras
 bedawee
