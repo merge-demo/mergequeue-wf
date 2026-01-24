@@ -15334,7 +15334,6 @@ caddo
 compatriot
 crowdie
 critturs
-coexist
 confectory
 clangful
 clanging
@@ -22058,6 +22057,7 @@ chromatophilia
 cinchotine
 codes
 conflicted
+coexist
 corsage
 chimerically
 cleptobiosis
