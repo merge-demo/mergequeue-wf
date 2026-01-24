@@ -1260,7 +1260,6 @@ excursionists
 eleutherophyllous
 edwardean
 easternly
-edwardsiidae
 everglade
 emersion
 exorcismal
@@ -10602,6 +10601,7 @@ entrymen
 eucharitidae
 expenses
 epitaxy
+edwardsiidae
 ephebeubea
 expiscator
 epitoxoid
