@@ -6236,7 +6236,6 @@ execs
 ellipsoid
 erasure
 enophthalmus
-enorm
 encoders
 explorement
 expectingly
@@ -6896,6 +6895,7 @@ examiningly
 empoisoning
 eliminated
 electroimpulse
+enorm
 eyepopper
 eupolyzoan
 expresses
