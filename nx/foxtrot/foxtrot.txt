@@ -8427,7 +8427,6 @@ foliage
 foreleg
 forlain
 flanning
-forecount
 finises
 fruitcakes
 fullery
@@ -8736,6 +8735,7 @@ forth
 freesia
 flusterate
 fryers
+forecount
 funiculate
 furicane
 flapless
