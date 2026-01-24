@@ -1657,6 +1657,7 @@ abantes
 aberduvine
 assapanic
 arrojadite
+articulators
 amphoricity
 achate
 accriminate
@@ -20722,7 +20723,6 @@ alody
 alwise
 agrosteral
 agrologic
-articulators
 adfiliate
 antitropic
 aces
