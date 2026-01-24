@@ -347,7 +347,6 @@ burglars
 burlers
 befilth
 backbitten
-buckra
 brushes
 belches
 backfills
@@ -4916,6 +4915,7 @@ bigotty
 bowsprits
 biophysical
 bewpers
+buckra
 beechen
 bostonese
 beechnut
