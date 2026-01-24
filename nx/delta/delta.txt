@@ -9335,7 +9335,6 @@ deorientalize
 disquiparancy
 deobstruent
 dietic
-decolorant
 dietitians
 diddle
 dtset
@@ -13491,6 +13490,7 @@ detesting
 decaffeinating
 disrespecter
 disrespective
+decolorant
 decantherous
 dishabited
 disillusionment
