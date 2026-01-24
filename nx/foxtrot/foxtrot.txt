@@ -1074,6 +1074,7 @@ fulgence
 festschriften
 feldspathoid
 felicitated
+fruitery
 floreal
 fortepiano
 flypaper
@@ -6743,7 +6744,6 @@ floater
 fructiparous
 fairgrass
 flem
-fruitery
 flippery
 findon
 fatuousness
