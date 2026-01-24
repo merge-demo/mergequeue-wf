@@ -2393,7 +2393,6 @@ electroplating
 expostulate
 electroplates
 ecphova
-eclogic
 episteme
 eloise
 electroconvulsive
@@ -13048,6 +13047,7 @@ emulate
 ebons
 executorial
 edifyingly
+eclogic
 enjoins
 epipastic
 egoisticalness
