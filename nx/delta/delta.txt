@@ -12607,6 +12607,7 @@ depend
 defies
 dissuasive
 divertible
+downlinking
 dicaryophase
 delusters
 detonator
@@ -16693,7 +16694,6 @@ deiphobus
 dramming
 debridement
 dorrbeetle
-downlinking
 distributedly
 drypoint
 disadvised
