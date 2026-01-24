@@ -101,7 +101,6 @@ guises
 galeate
 gofferer
 gliomata
-glowbard
 grammarianism
 gemwork
 gadolinia
@@ -4931,6 +4930,7 @@ galleylike
 grasshopperish
 gastrosplenic
 ghyll
+glowbard
 glairiest
 gladsomest
 glaniostomi

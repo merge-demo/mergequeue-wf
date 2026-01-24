@@ -3658,7 +3658,6 @@ caracolling
 caracora
 caractacus
 caradoc
-carafes
 craspedote
 cavelet
 cattleyas
@@ -20407,6 +20406,7 @@ crumbliness
 compadre
 curstfully
 conjurison
+carafes
 calycanthemous
 compadres
 compage
