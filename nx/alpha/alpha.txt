@@ -21642,7 +21642,6 @@ adopters
 abreid
 assays
 assam
-assamites
 acetamide
 atrophiated
 assart
@@ -25340,6 +25339,7 @@ arilled
 acceders
 antigovernmental
 azorubine
+assamites
 aldermanic
 acylation
 aurantia
