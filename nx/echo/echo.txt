@@ -4243,7 +4243,6 @@ emptiers
 emptiness
 esterellite
 exordiums
-emptio
 endemicity
 enfranchising
 empetraceous
@@ -4518,6 +4517,7 @@ encephalartos
 effloresced
 escocheon
 encephalitic
+emptio
 executively
 emulators
 exhort
