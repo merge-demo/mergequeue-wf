@@ -3656,6 +3656,7 @@ caractacus
 caradoc
 carafes
 craspedote
+cavelet
 cattleyas
 clangor
 cocineras
@@ -6541,7 +6542,6 @@ cavefish
 cavey
 chromoscope
 cavekeeper
-cavelet
 cambodia
 cavelike
 cavemen
