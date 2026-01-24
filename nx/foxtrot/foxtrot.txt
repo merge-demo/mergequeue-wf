@@ -10157,6 +10157,7 @@ flamant
 felled
 foretaste
 flounce
+fatstocks
 failsafe
 flyball
 foamiest
@@ -10589,7 +10590,6 @@ fusiliers
 freemasonical
 frowl
 folklorism
-fatstocks
 frowners
 faciend
 freq
