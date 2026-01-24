@@ -5744,7 +5744,6 @@ deconsider
 depoh
 decd
 depolarise
-dehumidify
 depolarization
 dernly
 denigrate
@@ -11482,6 +11481,7 @@ decreative
 defenselessness
 determinoid
 disapproves
+dehumidify
 discloser
 disclosive
 disclosure
