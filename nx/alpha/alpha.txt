@@ -355,7 +355,6 @@ aberr
 alphin
 aerophone
 abdicate
-aberrancy
 aberrantly
 aberrants
 apostatically
@@ -16021,6 +16020,7 @@ actionize
 aubretias
 ality
 atmidalbumin
+aberrancy
 anaphasic
 antirevolution
 antirevolutionist
