@@ -14421,7 +14421,6 @@ demicadence
 decompiler
 divans
 distributivity
-dejerate
 dysentery
 detn
 durian
@@ -15467,6 +15466,7 @@ dogmas
 diaries
 demultiplexes
 dihydrocuprin
+dejerate
 dysraphia
 dispendious
 diabolism
