@@ -6070,6 +6070,7 @@ escroll
 eolith
 enlargeable
 eigenvectors
+esthete
 echinorhinus
 eoanthropus
 enlargeableness
@@ -10972,7 +10973,6 @@ electromyographically
 exothermic
 exposit
 ethanoyl
-esthete
 eanlings
 eudemian
 epibaterium
