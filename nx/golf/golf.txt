@@ -6836,7 +6836,6 @@ gallican
 graffiti
 gingersnaps
 gamelotte
-gravette
 grabs
 gymnodontes
 gelofer
@@ -7826,6 +7825,7 @@ gipseian
 greeny
 grubworm
 gulleys
+gravette
 galvanometry
 ghettoization
 gutweed
