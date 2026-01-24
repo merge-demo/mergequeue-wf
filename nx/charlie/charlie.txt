@@ -12750,6 +12750,7 @@ conquer
 cajava
 chukchi
 coreligionist
+coloner
 chukka
 chukkar
 chukker
@@ -19272,7 +19273,6 @@ colonate
 colonelcies
 colonelships
 conductorless
-coloner
 colones
 cogeneration
 colongitude
