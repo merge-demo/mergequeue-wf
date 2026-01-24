@@ -1439,7 +1439,6 @@ badmash
 bridged
 berret
 bobance
-battable
 bawls
 balefires
 bewreak
@@ -3424,6 +3423,7 @@ bureau
 bassia
 bobbishly
 bassie
+battable
 bioassaying
 bivalents
 betsey
