@@ -4293,7 +4293,6 @@ dodoisms
 dorsoposterior
 dysacousia
 demanded
-dissyllabized
 dilos
 disburden
 defatigable
@@ -6758,6 +6757,7 @@ desolations
 delate
 dividingly
 deceased
+dissyllabized
 decastyle
 desilt
 disregular
