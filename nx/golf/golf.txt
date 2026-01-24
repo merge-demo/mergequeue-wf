@@ -2676,7 +2676,6 @@ gervas
 guaranis
 gardeviance
 gibbles
-gunbright
 graphotype
 genevan
 giboia
@@ -2838,6 +2837,7 @@ gilgulim
 glassite
 gifture
 gryde
+gunbright
 ganoidei
 geolinguistics
 gnathobasic
