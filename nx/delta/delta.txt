@@ -4121,7 +4121,6 @@ didrachmal
 dreikanters
 doctrinization
 dishonourable
-divagate
 delisk
 dama
 dispowder
@@ -6836,6 +6835,7 @@ dvorak
 decemvirship
 dolichoblond
 definition
+divagate
 ducamara
 decemvirs
 donataries
