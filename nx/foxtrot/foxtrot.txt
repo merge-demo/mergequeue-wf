@@ -5134,7 +5134,6 @@ fizz
 forekeel
 faithbreaker
 fibularia
-faconne
 fraudful
 futhermore
 flapdock
@@ -7585,6 +7584,7 @@ fordableness
 fathership
 featless
 frothiest
+faconne
 floodproof
 fawning
 flashpan
