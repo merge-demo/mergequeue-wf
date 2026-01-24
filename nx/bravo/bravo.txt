@@ -3989,7 +3989,6 @@ barbeiro
 bhandari
 befavour
 barhal
-bee
 bastardizations
 bilanders
 borborygm
@@ -16536,6 +16535,7 @@ brushproof
 buzzes
 birdfarms
 bulk
+bee
 bricker
 bishoplet
 brangler
