@@ -1880,7 +1880,6 @@ encystments
 errabund
 elaterin
 ensepulchering
-equitemporal
 expeller
 elfin
 eremology
@@ -2395,6 +2394,7 @@ episteme
 eloise
 electroconvulsive
 empoisonment
+equitemporal
 ergotoxine
 experientially
 engorged
