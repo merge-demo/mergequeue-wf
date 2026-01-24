@@ -1214,7 +1214,6 @@ drivehead
 decolonise
 disembarkation
 defecating
-disemplane
 datelessness
 denizate
 detacher
@@ -3251,6 +3250,7 @@ deferrized
 dobl
 dentilingual
 dullsome
+disemplane
 disjects
 deblocked
 daughterliness
