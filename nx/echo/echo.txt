@@ -1090,7 +1090,6 @@ entomologies
 eigne
 eidolon
 edgeshot
-edgeway
 embalmment
 exterritorial
 enshrouded
@@ -1992,6 +1991,7 @@ ecklein
 europeward
 electroceramic
 eriocaulaceae
+edgeway
 eurychoric
 eighth
 expressively
