@@ -15396,6 +15396,7 @@ chrysopidae
 caenolestes
 clapboarding
 cleidomastoid
+cumular
 clapboards
 clapcake
 chortled
@@ -22775,7 +22776,6 @@ consciousness
 cytoplasmic
 conscive
 cholanthrene
-cumular
 chronogenesis
 conscribing
 conscript
