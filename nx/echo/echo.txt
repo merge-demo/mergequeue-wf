@@ -1467,7 +1467,6 @@ epitasis
 epithalamia
 etherified
 ebrious
-entodermal
 enciente
 epipodialia
 erythrocytolytic
@@ -6023,6 +6022,7 @@ exhortative
 entomophily
 ejects
 earns
+entodermal
 eluding
 ennoblingly
 extensimeter
