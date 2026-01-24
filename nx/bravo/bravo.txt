@@ -9205,7 +9205,6 @@ biotypic
 boubou
 blowline
 biotypology
-balneotherapeutics
 biotites
 bolometric
 blowback
@@ -14740,6 +14739,7 @@ bibliomancy
 balustrade
 balletically
 bioscientist
+balneotherapeutics
 broilingly
 buffets
 babion
