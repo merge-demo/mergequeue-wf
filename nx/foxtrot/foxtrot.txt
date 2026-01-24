@@ -4713,6 +4713,7 @@ fruiteries
 fruitgrowing
 firca
 fitchew
+ferial
 fruitages
 fally
 flavory
@@ -7676,7 +7677,6 @@ felicities
 factual
 foredefeated
 frankheartedness
-ferial
 fatuity
 footslogs
 fatimid
