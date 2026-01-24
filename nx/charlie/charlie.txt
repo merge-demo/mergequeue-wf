@@ -9509,6 +9509,7 @@ centrolepidaceous
 checkerbellies
 checkerberry
 checkerberries
+crafty
 chorological
 checkerbloom
 calyciform
@@ -28513,7 +28514,6 @@ cassada
 credentialed
 carrot
 countercampaign
-crafty
 croomia
 cystines
 credentials
