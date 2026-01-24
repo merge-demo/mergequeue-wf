@@ -4702,6 +4702,7 @@ fasciotomy
 fleckless
 fruiteries
 fruitgrowing
+firca
 fitchew
 fruitages
 fally
@@ -7276,7 +7277,6 @@ fps
 festivalgoer
 fend
 fishers
-firca
 fixative
 fourche
 furnariidae
