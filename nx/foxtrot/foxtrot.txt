@@ -1928,7 +1928,6 @@ filiform
 foresing
 forethink
 fremescent
-flics
 fainly
 fistula
 filicologist
@@ -6198,6 +6197,7 @@ frump
 firmarius
 freebooted
 flocculating
+flics
 frailty
 frayn
 floridity
