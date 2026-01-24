@@ -5183,7 +5183,6 @@ enterovirus
 eastings
 enigmatize
 epilithic
-embay
 endogenae
 enshrine
 eruc
@@ -10320,6 +10319,7 @@ eudorina
 estafet
 economical
 ethyne
+embay
 emmeleia
 endoscopist
 endosarcous
