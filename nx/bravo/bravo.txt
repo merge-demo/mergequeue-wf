@@ -2608,6 +2608,7 @@ brio
 burlington
 baryphonia
 bronzesmith
+battu
 biotelemetry
 bastardizing
 banzai
@@ -5530,7 +5531,6 @@ briefly
 bringdown
 bowllike
 boatswains
-battu
 bawty
 beingness
 brandade
