@@ -6803,7 +6803,6 @@ bersagliere
 burdenable
 brittles
 bonnocks
-bin
 berserks
 bear
 berskin
@@ -11300,6 +11299,7 @@ bloodguiltiness
 blouse
 blearier
 basks
+bin
 blouses
 bloviated
 bruskest
