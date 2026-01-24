@@ -1687,6 +1687,7 @@ fthm
 facial
 federate
 fuddledness
+flaveria
 folksong
 fingerstone
 flemer
@@ -8416,7 +8417,6 @@ forgot
 francolite
 frogeye
 ferryway
-flaveria
 filchingly
 furiosity
 forkless
