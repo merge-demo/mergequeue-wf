@@ -7233,7 +7233,6 @@ enwinding
 elemis
 ethmomaxillary
 einsteinium
-entotympanic
 enwing
 enamines
 ellipticity
@@ -11378,6 +11377,7 @@ electrocute
 epupillate
 enwrap
 evapotranspiration
+entotympanic
 equiarticulate
 ephetic
 effodientia
