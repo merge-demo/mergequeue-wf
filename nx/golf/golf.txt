@@ -333,7 +333,6 @@ galactometer
 gaussian
 garnishment
 grilses
-gerontologic
 gangetic
 governingly
 guacimo
@@ -4068,6 +4067,7 @@ gopherroot
 glamourize
 gynostegium
 gabendum
+gerontologic
 ginorite
 giantish
 grisettes
