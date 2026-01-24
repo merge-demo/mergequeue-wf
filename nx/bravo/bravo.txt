@@ -9637,6 +9637,7 @@ biscuitroot
 bumtrap
 barky
 backhauls
+bangle
 bhutia
 bromides
 bumbledom
@@ -17927,7 +17928,6 @@ barbermonger
 bushmasters
 bagwoman
 bushongo
-bangle
 bedsides
 breezes
 bowwows
