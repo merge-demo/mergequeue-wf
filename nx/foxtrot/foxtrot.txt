@@ -3157,6 +3157,7 @@ frottages
 feres
 filoplume
 fibroelastic
+forestallment
 fibroenchondroma
 filosa
 friseur
@@ -5948,7 +5949,6 @@ fumous
 feudatories
 freakdom
 ferox
-forestallment
 fenestration
 flywinch
 flouncey
