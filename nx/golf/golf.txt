@@ -908,7 +908,6 @@ gemeinschaften
 guttler
 guppies
 gametophoric
-gorbet
 gated
 gnashes
 glycaemia
@@ -3448,6 +3447,7 @@ gaertnerian
 gynandries
 gospodin
 greeks
+gorbet
 gerocomical
 gingivitis
 gaelicism
