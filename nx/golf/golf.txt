@@ -7362,7 +7362,6 @@ ghee
 groggery
 gossep
 graphs
-gastronomics
 gunation
 galactin
 geologist
@@ -8634,6 +8633,7 @@ ground
 geodiferous
 gibbeting
 gaufrettes
+gastronomics
 geometrizing
 gravidate
 goslarite
