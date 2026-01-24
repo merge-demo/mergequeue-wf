@@ -10158,6 +10158,7 @@ earlike
 entities
 examines
 ethereality
+externation
 endotropic
 epharmony
 engraphically
@@ -10393,7 +10394,6 @@ ethnogeographic
 enflaming
 extirpator
 embillow
-externation
 ethnographer
 echium
 euornithic
