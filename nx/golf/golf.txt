@@ -2688,7 +2688,6 @@ geniculately
 geniculation
 glanduliform
 gillers
-granule
 grumblingly
 gemarist
 gconvert
@@ -7373,6 +7372,7 @@ glessite
 griffon
 generalizers
 gamotropism
+granule
 glimmerite
 graculus
 globated
