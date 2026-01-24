@@ -1826,7 +1826,6 @@ granat
 googlies
 giltcup
 gouts
-gauziness
 gemmiparity
 grails
 gesellschaften
@@ -4610,6 +4609,7 @@ gutturalized
 gilim
 graphometry
 guergal
+gauziness
 glim
 gladiole
 guardrail
