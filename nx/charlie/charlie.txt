@@ -1613,7 +1613,6 @@ chylemia
 callorhynchidae
 callosal
 chronographs
-copperas
 callose
 crafts
 calloses
@@ -2095,6 +2094,7 @@ conli
 campaign
 clotheshorses
 coadjacence
+copperas
 campana
 campane
 campanella
