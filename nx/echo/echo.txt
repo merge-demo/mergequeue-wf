@@ -8997,7 +8997,6 @@ eon
 eosate
 extraspherical
 encephalin
-eleaticism
 endopleurite
 erratics
 erythrocytes
@@ -10114,6 +10113,7 @@ eledoisin
 entitlement
 exanguin
 ethanolamine
+eleaticism
 enwrite
 ethanolysis
 excretion
