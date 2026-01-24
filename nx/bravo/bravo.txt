@@ -2703,6 +2703,7 @@ barghest
 breechloader
 bantamweight
 brugh
+buret
 backlins
 brotany
 berrugate
@@ -17553,7 +17554,6 @@ bureaucratizing
 belfather
 brisket
 brewings
-buret
 blowfishes
 bedirtied
 bashkir
