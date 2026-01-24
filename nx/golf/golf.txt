@@ -4674,7 +4674,6 @@ guttersnipish
 griggles
 graphometer
 gaonic
-gummosis
 gamori
 gentrice
 gironny
@@ -7426,6 +7425,7 @@ gotra
 golliwogg
 germarium
 gunnels
+gummosis
 gaudery
 galen
 gruffiest
