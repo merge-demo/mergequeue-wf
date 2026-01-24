@@ -5575,7 +5575,6 @@ fernbrake
 ferreter
 fylker
 flitching
-flora
 frotton
 funniness
 foreword
@@ -11061,6 +11060,7 @@ fossilizes
 foraying
 forestay
 fumigated
+flora
 folkmoot
 femororotulian
 formican
