@@ -2007,6 +2007,7 @@ byplace
 bibliophilist
 bandos
 bombard
+blinkards
 ballocks
 bangladesh
 bespatters
@@ -10997,7 +10998,6 @@ blesbuck
 burps
 breathable
 bices
-blinkards
 bowses
 bilboquet
 brachystomata
