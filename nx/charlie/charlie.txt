@@ -7287,7 +7287,6 @@ cognacs
 centrodesmus
 centrodorsal
 centroids
-cyanophilous
 conte
 cashel
 centromeric
@@ -24467,6 +24466,7 @@ cootch
 corticin
 cheeseburger
 cootfoot
+cyanophilous
 crotyl
 cootie
 copps
