@@ -9277,6 +9277,7 @@ fragileness
 flacherie
 fragmentised
 ficiform
+fogie
 fucus
 fibre
 fledged
@@ -10435,7 +10436,6 @@ footgeld
 firs
 fleing
 feigning
-fogie
 fumigant
 foxgloves
 fulicine
