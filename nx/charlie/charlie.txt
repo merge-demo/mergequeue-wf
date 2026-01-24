@@ -10367,6 +10367,7 @@ chiefery
 cyatholith
 chiefest
 cervalet
+congeneric
 conveyorizer
 chiefish
 chieftain
@@ -22228,7 +22229,6 @@ coronary
 congeliturbation
 corneous
 congeneracy
-congeneric
 congenerical
 carkingly
 cynthian
