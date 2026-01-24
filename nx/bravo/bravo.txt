@@ -7584,7 +7584,6 @@ begirding
 bewary
 bewaste
 beweary
-biocoenotic
 besottedness
 brainworker
 belabored
@@ -16489,6 +16488,7 @@ brushback
 bladesmith
 buttonholder
 bestick
+biocoenotic
 betrace
 bassine
 beliefless
