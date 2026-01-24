@@ -6357,6 +6357,7 @@ eschar
 eisteddfodau
 electrotheraputics
 euchred
+exhaustion
 elucubrate
 eyespot
 enseal
@@ -11486,7 +11487,6 @@ everted
 eulysite
 euouae
 eli
-exhaustion
 emys
 enteral
 entosarc
