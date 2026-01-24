@@ -6051,7 +6051,6 @@ gigantical
 gnomology
 gyppers
 gnathitis
-grammars
 gragers
 ganevs
 guerre
@@ -8656,6 +8655,7 @@ germanized
 gemmeous
 grapnel
 guti
+grammars
 gashy
 glucosin
 gauntleted
