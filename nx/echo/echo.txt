@@ -6599,7 +6599,6 @@ entelechies
 entomologic
 eudiometrically
 expellable
-earthfall
 engorging
 entendre
 epidermophytosis
@@ -8471,6 +8470,7 @@ electrizer
 evisceration
 equip
 enjoyment
+earthfall
 eglogue
 endothecate
 endable
