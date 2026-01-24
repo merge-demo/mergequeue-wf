@@ -10453,7 +10453,6 @@ disfavors
 dioxides
 dioxids
 donald
-diacid
 dotards
 djibouti
 demeritorious
@@ -11506,6 +11505,7 @@ documentation
 diallages
 deedeed
 drungar
+diacid
 deadeye
 duodenogram
 dehaites
