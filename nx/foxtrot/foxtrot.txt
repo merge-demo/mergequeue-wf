@@ -2263,7 +2263,6 @@ forebye
 febricitation
 farraginous
 fonded
-freyja
 ferroelectricity
 fizzle
 fantasmagoria
@@ -9458,6 +9457,7 @@ fettler
 fogger
 frislet
 forblack
+freyja
 foxholes
 foreweigh
 falsum
