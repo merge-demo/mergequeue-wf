@@ -1986,7 +1986,6 @@ gams
 gargil
 glyptical
 gaurian
-gaurie
 ginnings
 glamourous
 gaussage
@@ -6615,6 +6614,7 @@ glamourless
 glummy
 garous
 glegnesses
+gaurie
 gonaduct
 gighe
 guiling
