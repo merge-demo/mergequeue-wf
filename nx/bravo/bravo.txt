@@ -6829,7 +6829,6 @@ bronzelike
 bushbashing
 bradypodoid
 bluehearts
-buprestidan
 bedizen
 bertie
 belard
@@ -13277,6 +13276,7 @@ bizen
 boasters
 butch
 bosn
+buprestidan
 balneologist
 brinkless
 brutalising
