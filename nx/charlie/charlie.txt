@@ -23340,7 +23340,6 @@ coatracks
 circumspect
 coattest
 congests
-coverups
 contaction
 consolidant
 contactor
@@ -25231,6 +25230,7 @@ corpus
 corinthianize
 cumidine
 coriolanus
+coverups
 cailleach
 cladode
 covenant
