@@ -2453,7 +2453,6 @@ entailment
 ehrwaldite
 erythroclasis
 empeople
-entophytal
 espinel
 emblazonry
 electrogenetic
@@ -3792,6 +3791,7 @@ embrocates
 efflower
 erugation
 electroendosmotic
+entophytal
 economite
 epigonium
 erythematic
