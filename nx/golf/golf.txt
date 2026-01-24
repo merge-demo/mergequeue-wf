@@ -1448,7 +1448,6 @@ garret
 gpm
 graffer
 gruppetto
-gamostelic
 gypsiferous
 gipsire
 griseofulvin
@@ -6487,6 +6486,7 @@ glimpse
 gypsoplast
 grapenuts
 gateward
+gamostelic
 guileless
 garrupa
 gannister
