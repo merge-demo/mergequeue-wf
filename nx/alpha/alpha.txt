@@ -4636,7 +4636,6 @@ airbursts
 aedileship
 asidehand
 atomerg
-aethrioscope
 accessorii
 arrided
 aedilian
@@ -23559,6 +23558,7 @@ aries
 aquamarines
 antaphroditic
 acetoxime
+aethrioscope
 auloi
 anthropotomist
 abastardize
