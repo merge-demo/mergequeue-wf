@@ -113,7 +113,6 @@ ephydridae
 epithelioma
 enthrallment
 enumerate
-enchisel
 equilibrial
 entone
 expiratory
@@ -2119,6 +2118,7 @@ extirpateo
 enent
 emma
 escobilla
+enchisel
 emblematist
 ectromelus
 enclosable
