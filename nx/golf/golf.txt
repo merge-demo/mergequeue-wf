@@ -831,6 +831,7 @@ glimpsed
 gruelers
 gamdeboo
 gonfaloniership
+glist
 genteelism
 gentlewomanly
 grece
@@ -8797,7 +8798,6 @@ grained
 gawkers
 gudefather
 goo
-glist
 guacharoes
 grantors
 gorge
