@@ -3829,7 +3829,6 @@ dichroiscope
 diatropic
 deionize
 degraduation
-dopatta
 deselects
 disinteresting
 dimensions
@@ -15537,6 +15536,7 @@ discocarp
 demonstrators
 diazobenzene
 doodab
+dopatta
 demurrages
 dowdyish
 dehnstufe

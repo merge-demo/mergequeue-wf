@@ -18701,7 +18701,6 @@ agenesia
 archdetective
 amputee
 alkalisation
-apurpose
 archgenethliac
 anubin
 archdiplomatist
@@ -19920,6 +19919,7 @@ adjuration
 armorials
 arkansawyer
 armorican
+apurpose
 albescence
 adenofibrosis
 anagnorisis
