@@ -8082,7 +8082,6 @@ gunstocking
 genys
 gastronomy
 gata
-gunstock
 grubbing
 glykopectic
 geophysicists
@@ -9866,6 +9865,7 @@ guaiac
 goitcho
 gonyocele
 gyrostats
+gunstock
 guesstimated
 guayaqui
 gorgoneion
