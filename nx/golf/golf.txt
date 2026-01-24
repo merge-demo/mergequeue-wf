@@ -875,7 +875,6 @@ goblinry
 glyoxime
 gerontomorphosis
 greedless
-globe
 grillwork
 gotha
 gadroon
@@ -3488,6 +3487,7 @@ geometrized
 glossolaryngeal
 gourmets
 gerrymander
+globe
 gorgons
 gruiform
 goldwater
