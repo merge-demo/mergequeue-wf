@@ -17888,6 +17888,7 @@ cabook
 codette
 codfish
 childbed
+couchette
 codfisher
 counterpassion
 cochlea
@@ -22905,7 +22906,6 @@ conserve
 costae
 conserver
 cassaba
-couchette
 ceratoid
 conservers
 colposcope
