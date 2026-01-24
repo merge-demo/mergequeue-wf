@@ -6124,7 +6124,6 @@ fribbles
 funambuloes
 firmamental
 fictioneering
-feldsher
 featishness
 fusty
 foolscaps
@@ -10654,6 +10653,7 @@ francophobe
 footnote
 feeblebrained
 foreswore
+feldsher
 fanteeg
 forwarn
 flopover
