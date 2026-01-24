@@ -6798,7 +6798,6 @@ genal
 genros
 gymnotus
 gondola
-garbleable
 guffawing
 groceteria
 goitrogen
@@ -7970,6 +7969,7 @@ germanically
 geophagia
 ghostlily
 generalist
+garbleable
 gouged
 geochemistry
 gillflirt
