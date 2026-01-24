@@ -10793,7 +10793,6 @@ amniocentesis
 anapnoic
 aboardage
 assayer
-amniomancy
 acclamation
 absolution
 amosite
@@ -12051,6 +12050,7 @@ attacco
 anatopism
 apostrophizes
 antiaristocratical
+amniomancy
 anatox
 axed
 anatoxin
