@@ -23570,6 +23570,7 @@ continuers
 columns
 coccinellid
 continuity
+covetable
 cassiaceae
 capfuls
 congregated
@@ -27557,7 +27558,6 @@ coves
 censured
 coalizer
 cerealin
-covetable
 coveted
 covetise
 coregonidae
