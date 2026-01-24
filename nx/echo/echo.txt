@@ -6052,7 +6052,6 @@ exocrinologies
 ecumenopolis
 escroll
 eolith
-exhusband
 enlargeable
 eigenvectors
 echinorhinus
@@ -6765,6 +6764,7 @@ entete
 eurytherm
 epistrophy
 edaphic
+exhusband
 effume
 ectosomal
 extratarsal
