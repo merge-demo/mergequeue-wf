@@ -3736,6 +3736,7 @@ bloops
 barotraumata
 bornean
 battlefronts
+bradyglossia
 bringall
 brucella
 barnstorms
@@ -14576,7 +14577,6 @@ blattoidea
 babroot
 beadle
 branchiae
-bradyglossia
 breeks
 branchicolous
 besoothing
