@@ -3786,7 +3786,6 @@ bowstringed
 beachwear
 battues
 bourdis
-batture
 bawcocks
 bielded
 bicuspids
@@ -4124,6 +4123,7 @@ blokes
 brickbatting
 bobbed
 beansetter
+batture
 beanshooter
 beanstalk
 bestiaries
