@@ -8060,7 +8060,6 @@ codirectional
 chloracne
 chacte
 chadarim
-chadelle
 colloquy
 catsup
 capstones
@@ -30481,6 +30480,7 @@ colicystopyelitis
 copiopia
 cuarteron
 collomia
+chadelle
 carfuffled
 cloglike
 cuartilla
