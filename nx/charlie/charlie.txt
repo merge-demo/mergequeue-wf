@@ -2720,6 +2720,7 @@ coff
 combinatorics
 cutey
 churr
+cartomancy
 cannabic
 churchwise
 cannabidiol
@@ -19133,7 +19134,6 @@ collocated
 cord
 crystallographer
 cauked
-cartomancy
 chkfile
 carambola
 calfskins
