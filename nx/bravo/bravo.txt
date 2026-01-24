@@ -6617,6 +6617,7 @@ bodyplate
 boninesses
 besotter
 basioccipital
+boucharde
 billetty
 berede
 bursate
@@ -13570,7 +13571,6 @@ briquette
 bouch
 barmkin
 blacksmith
-boucharde
 budgerigar
 braying
 blockpate
