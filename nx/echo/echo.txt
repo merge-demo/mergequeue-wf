@@ -4525,7 +4525,6 @@ emulators
 expressionists
 exhort
 embryophyta
-eyestone
 encephalographic
 enamelling
 esthesiophysiology
@@ -8565,6 +8564,7 @@ endways
 eosinlike
 erectness
 enwrapping
+eyestone
 enclave
 epencephalons
 ecuadoran
