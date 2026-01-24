@@ -9087,7 +9087,6 @@ barbershop
 biasses
 burnouts
 boldface
-burying
 biophagism
 biophilous
 biophysiography
@@ -16896,6 +16895,7 @@ buzzer
 basos
 bask
 battak
+burying
 butut
 betas
 benvenuto
