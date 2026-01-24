@@ -1281,7 +1281,6 @@ epicures
 enroot
 efficiently
 ethylidyne
-eyelight
 eelcake
 elsewheres
 exposition
@@ -4377,6 +4376,7 @@ expostulator
 effuse
 espouse
 espichellite
+eyelight
 espadrille
 enamours
 episperm
