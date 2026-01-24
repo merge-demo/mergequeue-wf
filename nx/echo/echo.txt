@@ -4316,6 +4316,7 @@ elohim
 enlay
 epicenes
 ectogenous
+enphytotic
 ethnicon
 enhydra
 excerpts
@@ -13686,7 +13687,6 @@ exteriorised
 entapophysis
 extrapolates
 electrocataphoresis
-enphytotic
 erratum
 espec
 emotionlessness
