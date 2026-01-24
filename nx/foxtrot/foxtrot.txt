@@ -1894,7 +1894,6 @@ fizzes
 fatuously
 fec
 feelingly
-fecundate
 fianchetti
 feture
 frundel
@@ -3760,6 +3759,7 @@ fructiferous
 fadedness
 follying
 fiddleys
+fecundate
 filioque
 feelies
 filchery
