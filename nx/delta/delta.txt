@@ -3134,7 +3134,6 @@ disorganized
 defeated
 downs
 dicastic
-disgusted
 diluviate
 disgout
 deliberately
@@ -6325,6 +6324,7 @@ diagonial
 dermis
 dendrologist
 diaplasis
+disgusted
 dejectory
 dihydroxyacetone
 dermobranchiate
