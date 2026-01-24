@@ -12418,7 +12418,6 @@ beefsteaks
 brimful
 bathyplankton
 bombing
-beautifies
 buttoned
 broguery
 bonkers
@@ -18231,6 +18230,7 @@ briefers
 bent
 brevity
 bienniums
+beautifies
 blathering
 barathrum
 balistarius
