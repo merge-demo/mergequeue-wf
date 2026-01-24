@@ -2604,7 +2604,6 @@ decoherence
 deadflat
 dirndl
 duramatral
-durably
 draffy
 dacoitage
 dicranaceous
@@ -17770,6 +17769,7 @@ downlooked
 donga
 desoxycorticosterone
 depa
+durably
 desoxyanisoin
 decken
 dossing
