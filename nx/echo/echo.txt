@@ -3979,7 +3979,6 @@ elegancies
 emirate
 electromotive
 euxanthin
-euskara
 extremistic
 encephalic
 eugregarinida
@@ -10570,6 +10569,7 @@ euboean
 electrochemically
 eubteria
 embezzlers
+euskara
 encodement
 evulge
 entohyal
