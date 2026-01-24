@@ -37,7 +37,6 @@ brachial
 bionergy
 bonnive
 babbitted
-beshell
 baccies
 bureaucrat
 banshie
@@ -5267,6 +5266,7 @@ begats
 bani
 bolters
 bastes
+beshell
 brushup
 bothsided
 bimasty
