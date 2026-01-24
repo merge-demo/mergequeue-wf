@@ -12049,7 +12049,6 @@ caruage
 casal
 chorusmaster
 chorussed
-chorusses
 cathedralic
 chorussing
 creatively
@@ -26058,6 +26057,7 @@ castigable
 calctufas
 cliquier
 custrel
+chorusses
 crummie
 cosmetics
 chakravartin
