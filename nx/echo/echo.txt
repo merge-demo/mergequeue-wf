@@ -1188,6 +1188,7 @@ estuaries
 enterobiasis
 edomitish
 escorial
+eurobin
 eutomous
 epipharyngeal
 exorbitate
@@ -1798,7 +1799,6 @@ electrophotometry
 eyeservant
 eyeshade
 exolve
-eurobin
 enticingness
 euglenales
 enterocentesis
