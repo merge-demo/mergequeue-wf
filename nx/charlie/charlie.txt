@@ -13268,6 +13268,7 @@ coadapt
 cyclohexadienyl
 cerophilous
 crossrow
+camelback
 cyclohexanol
 crass
 cyclohexanone
@@ -17578,7 +17579,6 @@ cocaceous
 chorioepitheliomas
 cocaine
 cygneous
-camelback
 cocainised
 chloroformism
 cocainising
