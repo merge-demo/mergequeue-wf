@@ -4243,7 +4243,6 @@ gois
 gerund
 galvanomagnetism
 gynaecological
-galeas
 gabbiness
 grimacingly
 gobbing
@@ -6906,6 +6905,7 @@ gitterns
 gombay
 gangliomata
 graftonite
+galeas
 groundspeed
 gent
 gelsemine
