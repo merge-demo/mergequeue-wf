@@ -6248,7 +6248,6 @@ factorize
 frowardness
 faraway
 fuselage
-fermion
 fjorgyn
 foully
 fleetwing
@@ -10058,6 +10057,7 @@ friendships
 filiformed
 fungian
 futureless
+fermion
 flunkeyhood
 feracity
 frigotherapy
