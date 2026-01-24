@@ -2919,7 +2919,6 @@ foxship
 falcade
 futile
 funnier
-frisettes
 fogies
 formicarium
 frabjously
@@ -7349,6 +7348,7 @@ flinching
 forfouchten
 feodary
 flintlike
+frisettes
 flaxboard
 forepeak
 fordwine
