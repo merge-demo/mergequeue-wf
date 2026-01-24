@@ -6997,6 +6997,7 @@ elling
 entoplasm
 extramusical
 estreats
+esocidae
 exiled
 eudora
 elbowpiece
@@ -13156,7 +13157,6 @@ eulogize
 exhalation
 empaestic
 engelmanni
-esocidae
 ejuration
 erymanthian
 enzymic
