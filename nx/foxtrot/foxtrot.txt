@@ -4109,6 +4109,7 @@ fletchings
 filelike
 fungoid
 finishable
+featherwise
 fabrication
 foredo
 fenianism
@@ -10406,7 +10407,6 @@ ferrado
 furriery
 fantasized
 frondlet
-featherwise
 focometer
 fikey
 fluoboric
