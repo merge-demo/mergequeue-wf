@@ -7019,7 +7019,6 @@ abamp
 amdt
 antifeministic
 apogeal
-antitropic
 altiloquent
 akha
 angus
@@ -20721,6 +20720,7 @@ agrosteral
 agrologic
 articulators
 adfiliate
+antitropic
 aces
 affrontingly
 avid
