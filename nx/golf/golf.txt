@@ -4406,7 +4406,6 @@ gyron
 gyniatries
 gambias
 graffias
-grousing
 grindings
 groundhog
 glowerer
@@ -8326,6 +8325,7 @@ gram
 graphological
 grandfatherly
 gluttonising
+grousing
 gastroblennorrhea
 ginmill
 gambol

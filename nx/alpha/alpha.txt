@@ -18312,7 +18312,6 @@ apotheoses
 anaesthetizing
 apart
 akaroa
-asor
 arachnoidea
 antinial
 arachnology
@@ -22826,6 +22825,7 @@ aby
 atmolysis
 atmolyzation
 atmologic
+asor
 anisotropous
 alterability
 albopannin
