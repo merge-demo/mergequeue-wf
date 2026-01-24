@@ -3790,7 +3790,6 @@ cuttlebone
 carbaryls
 captress
 clubbing
-crewellery
 ciconia
 chloroethylene
 carbazic
@@ -27035,6 +27034,7 @@ caplock
 clerking
 counterprotection
 counterpull
+crewellery
 counterpuncture
 counterpush
 caneva
