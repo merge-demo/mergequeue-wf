@@ -5160,7 +5160,6 @@ cherimolla
 cabrito
 casein
 caseinate
-canvaser
 caseinogen
 caseload
 calycine
@@ -18770,6 +18769,7 @@ colchicin
 chinones
 colchicum
 catostomid
+canvaser
 clavichords
 colchis
 crispily
