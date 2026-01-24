@@ -5077,7 +5077,6 @@ glycogen
 gerefa
 gastrohypertonic
 grizzlers
-gandering
 gisarmes
 gassy
 gapped
@@ -6331,6 +6330,7 @@ gobo
 gaybine
 gobony
 glycerolyses
+gandering
 gobstopper
 goosenecked
 gemots
