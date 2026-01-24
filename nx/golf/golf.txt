@@ -6821,6 +6821,7 @@ gonochorismal
 gnarling
 geryonia
 gonk
+guans
 gruffish
 guarding
 gurts
@@ -7176,7 +7177,6 @@ graftage
 guan
 gabelle
 glider
-guans
 gaffs
 glaciologist
 gorgerin
