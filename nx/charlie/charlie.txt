@@ -13035,7 +13035,6 @@ cerevis
 cyanophycean
 cyanophyceous
 crunchingness
-cryogens
 curcumas
 craniates
 cyanophile
@@ -22546,6 +22545,7 @@ conjunctur
 conjunctures
 conjuration
 conjurations
+cryogens
 conjured
 cocitizenship
 canel
