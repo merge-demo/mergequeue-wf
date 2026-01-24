@@ -2450,7 +2450,6 @@ disple
 diaeresis
 disparaged
 decipherability
-dand
 doctrinarily
 deucing
 disintegrative
@@ -14174,6 +14173,7 @@ disulphate
 disagree
 decrepit
 daybook
+dand
 dragoon
 dijudicated
 detection
