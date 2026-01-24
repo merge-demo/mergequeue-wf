@@ -1346,7 +1346,6 @@ garroter
 glacon
 gary
 groundling
-glyptological
 gristbite
 ging
 ganoine
@@ -7781,6 +7780,7 @@ gyroidal
 graped
 graveling
 gonadectomized
+glyptological
 gonococcocci
 geriatrician
 girly
