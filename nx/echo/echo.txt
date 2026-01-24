@@ -1121,7 +1121,6 @@ epimerize
 encushion
 edificed
 encyclopedias
-enlightens
 essayish
 embattling
 egolatrous
@@ -8850,6 +8849,7 @@ el
 efflorescency
 ekename
 equidistant
+enlightens
 erasers
 effectuate
 equestrial
