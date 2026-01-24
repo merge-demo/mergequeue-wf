@@ -1297,6 +1297,7 @@ forenoon
 fumiferous
 frigid
 floodless
+footcandles
 faineants
 fibroblast
 formicide
@@ -11222,7 +11223,6 @@ fireplugs
 forefin
 frenzelite
 flinter
-footcandles
 fluorophosphate
 fiduciaries
 frontiersman

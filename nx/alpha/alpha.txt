@@ -10047,7 +10047,6 @@ abates
 argine
 affords
 apophysary
-altarwise
 ambrosine
 ambsace
 ambsaces
@@ -21051,6 +21050,7 @@ asclepiadaceae
 asclepiadae
 aircheck
 asclepiadean
+altarwise
 asclepiadic
 anchylosed
 autosender
