@@ -344,6 +344,7 @@ gofers
 greekless
 gathic
 galactophoritis
+gigelira
 gutwort
 garvock
 gingerin
@@ -3900,7 +3901,6 @@ geometer
 geologic
 glossophorous
 gemmoid
-gigelira
 grantsmen
 granulomas
 garoting
