@@ -2814,7 +2814,6 @@ gait
 gascheck
 gentlemanlikeness
 gossan
-gybing
 goosehouse
 grayhair
 gasaliers
@@ -5182,6 +5181,7 @@ goldcrest
 gimpiest
 gaes
 guerdon
+gybing
 gammick
 geologised
 gawkhammer
