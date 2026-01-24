@@ -1157,7 +1157,6 @@ banqueter
 baxter
 blastophoric
 baitfish
-bleaches
 buffeter
 ballard
 baywoods
@@ -6391,6 +6390,7 @@ blazing
 botulinal
 backsliding
 bardo
+bleaches
 blastophaga
 bacteriostasis
 bobeches
