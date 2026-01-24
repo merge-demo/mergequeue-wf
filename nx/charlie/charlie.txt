@@ -8391,7 +8391,6 @@ chamaebatia
 chamaecranial
 cogons
 centry
-compinge
 corkir
 chamaelirium
 chamaepericlymenum
@@ -25456,6 +25455,7 @@ corodiary
 corodiastasis
 convicting
 corodies
+compinge
 cocowood
 culminant
 condemns
