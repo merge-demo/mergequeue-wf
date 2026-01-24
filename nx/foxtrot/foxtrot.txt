@@ -6261,6 +6261,7 @@ fleetest
 forkable
 fearlessness
 flagilate
+focalisation
 fairyland
 farthingless
 fatima
@@ -9701,7 +9702,6 @@ fudgy
 foamer
 floriform
 freeloaded
-focalisation
 feuter
 forthrightly
 finitesimal
