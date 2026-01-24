@@ -4834,7 +4834,6 @@ grande
 glycogenize
 gowany
 gallooned
-gjedost
 gyniatrics
 glorifies
 gweducks
@@ -6376,6 +6375,7 @@ given
 getspace
 goldspink
 granolithic
+gjedost
 grouty
 grassweed
 geotectology
