@@ -3161,7 +3161,6 @@ frottages
 feres
 filoplume
 fibroelastic
-finnick
 fibroenchondroma
 filosa
 friseur
@@ -3821,6 +3820,7 @@ flambeing
 folliculina
 fertilizability
 funnily
+finnick
 fortressed
 frizettes
 finfoots
