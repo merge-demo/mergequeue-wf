@@ -6020,6 +6020,7 @@ gaidropsaridae
 glucokinase
 germal
 gravelweed
+gearcase
 geminative
 gutturonasal
 gingerly
@@ -7826,7 +7827,6 @@ grayling
 galivanted
 glenoidal
 girnal
-gearcase
 ghalva
 glacial
 gipseian
