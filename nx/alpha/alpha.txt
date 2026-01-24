@@ -14484,7 +14484,6 @@ adenoneural
 armature
 anthropomorphised
 arimaspian
-abaculus
 autocopist
 admirability
 arborean
@@ -18367,6 +18366,7 @@ ankylotia
 azorian
 abatjours
 adversant
+abaculus
 awaiter
 anthurium
 araracanga

@@ -3255,7 +3255,6 @@ bowker
 basilect
 bloodwit
 begunk
-beautifying
 beresite
 bael
 bote
@@ -17860,6 +17859,7 @@ belowground
 bushbucks
 batrachium
 bacilluria
+beautifying
 bairnishness
 beholders
 backdating
