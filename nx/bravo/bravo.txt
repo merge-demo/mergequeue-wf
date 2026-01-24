@@ -9743,7 +9743,6 @@ beeping
 bismuthinite
 bejumble
 belfried
-busking
 bekinkinite
 barway
 bismutosphaerite
@@ -9852,6 +9851,7 @@ bisulfate
 biblioklept
 bromatology
 bumbaste
+busking
 bocca
 boomed
 bitable
