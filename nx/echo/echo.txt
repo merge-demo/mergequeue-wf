@@ -10894,6 +10894,7 @@ epithetic
 eupatorium
 ethnobiology
 eupatrids
+extragalactic
 eluent
 exemplars
 eimer
@@ -13891,7 +13892,6 @@ ectocyst
 ectobronchium
 enviers
 endophyte
-extragalactic
 enteraden
 evillest
 empressment
