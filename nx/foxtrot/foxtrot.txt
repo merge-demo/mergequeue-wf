@@ -1145,6 +1145,7 @@ faciocervical
 flatwoods
 foes
 forbade
+forepointer
 familiarizing
 fusileer
 frizzling
@@ -9691,7 +9692,6 @@ forlet
 floatier
 feeders
 fell
-forepointer
 falcata
 foothook
 flitwite
