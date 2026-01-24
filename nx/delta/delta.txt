@@ -3883,6 +3883,7 @@ disherits
 dekameters
 decumani
 dekapode
+dextrocerebral
 duo
 dermopathic
 decan
@@ -5829,7 +5830,6 @@ dassies
 denture
 dekle
 disauthentic
-dextrocerebral
 dowel
 diabolos
 divestible
