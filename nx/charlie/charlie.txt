@@ -12140,6 +12140,7 @@ chimere
 chria
 chris
 calibogus
+composited
 chrysalid
 coronet
 chrysalida
@@ -20870,7 +20871,6 @@ composer
 composita
 chromous
 composite
-composited
 compositely
 cowitch
 composites

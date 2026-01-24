@@ -4380,7 +4380,6 @@ graphicalness
 grylli
 guz
 gasterosteid
-gematrical
 gondi
 gardened
 gayway
@@ -4959,6 +4958,7 @@ glossotomy
 generalize
 geodal
 glycerinize
+gematrical
 gorier
 gavotted
 genealogic
