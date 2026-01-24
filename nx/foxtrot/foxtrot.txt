@@ -842,6 +842,7 @@ fightings
 frisk
 fowl
 fermate
+fonds
 flatulently
 frowsy
 forgedly
@@ -3139,7 +3140,6 @@ ferngale
 fipple
 faradizes
 festoon
-fonds
 flakes
 fern
 flexity
