@@ -679,7 +679,6 @@ ebriety
 ennoble
 evilness
 enddamaged
-extimulate
 eigenstate
 endothermy
 elodes
@@ -6045,6 +6044,7 @@ empiry
 estoque
 electrobrasser
 expromissor
+extimulate
 expire
 epiglottises
 edginess
