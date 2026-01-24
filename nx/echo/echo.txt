@@ -12617,6 +12617,7 @@ exocoelum
 epifascial
 epistylis
 eustathian
+environments
 eyeserver
 extemporised
 exocrines
@@ -13885,7 +13886,6 @@ ecchymoma
 extradosed
 entireties
 elementary
-environments
 ectocyst
 ectobronchium
 enviers
