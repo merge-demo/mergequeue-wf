@@ -11676,6 +11676,7 @@ boarspear
 balloter
 burns
 bevels
+biparous
 benchfellow
 bacauan
 bizant
@@ -12828,7 +12829,6 @@ becloaked
 bioelectric
 bullneck
 bitstocks
-biparous
 bontequagga
 burma
 broods
