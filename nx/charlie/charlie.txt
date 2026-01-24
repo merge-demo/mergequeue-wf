@@ -24343,6 +24343,7 @@ caverning
 caritas
 cookshop
 cookshops
+cellule
 chiliasms
 cards
 colligible
@@ -30036,7 +30037,6 @@ cumbersomely
 cotice
 commandress
 crouth
-cellule
 conversational
 chattanoogan
 crowbait
