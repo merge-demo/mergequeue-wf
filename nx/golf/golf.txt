@@ -6402,7 +6402,6 @@ gamest
 galactosis
 gamgia
 gentility
-gobioidei
 gasproof
 glassworks
 granulitis
@@ -6693,6 +6692,7 @@ gastroscopies
 ghoulery
 geraniaceous
 graptolithida
+gobioidei
 gyroscopic
 glanduligerous
 gammons
