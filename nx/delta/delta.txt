@@ -761,7 +761,6 @@ denies
 dandruffs
 dialytic
 deaden
-devast
 debile
 dovecote
 diuretical
@@ -18510,6 +18509,7 @@ downcast
 demonolatrous
 downrange
 durations
+devast
 durbachite
 dustwoman
 decolonisation
