@@ -4863,6 +4863,7 @@ encountered
 epigenesist
 epiphylaxis
 endothecium
+entomostraca
 encashing
 eros
 ethical
@@ -10353,7 +10354,6 @@ emmenagogic
 esquamate
 empemata
 eucommiaceae
-entomostraca
 enteromycosis
 erythrochroism
 emulsifiability
