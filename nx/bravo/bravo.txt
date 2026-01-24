@@ -2647,7 +2647,6 @@ broadcloth
 borana
 benettle
 bunglesome
-briers
 benignant
 barkery
 blamefully
@@ -14616,6 +14615,7 @@ bibliogony
 bombilation
 branchireme
 branchless
+briers
 bdellostomidae
 batteryman
 bancales
