@@ -3734,7 +3734,6 @@ adespoton
 analemmatic
 arylating
 adessenarian
-amphiprotic
 adeste
 afterpressure
 antesternum
@@ -13935,6 +13934,7 @@ anhaemolytic
 auntie
 anteact
 anchylosis
+amphiprotic
 amoks
 achloropsia
 anteater
