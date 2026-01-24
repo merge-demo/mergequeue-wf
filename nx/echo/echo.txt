@@ -7167,7 +7167,6 @@ enverdure
 epris
 explanatory
 eupepsies
-enlaced
 ectosphenotic
 edicts
 enemy
@@ -8805,6 +8804,7 @@ eastlins
 exuberated
 exteriorized
 enacted
+enlaced
 exuperable
 extrapelvic
 encystment
