@@ -3731,7 +3731,6 @@ dreadful
 dytiscidae
 dehorner
 diplography
-dehorners
 desiredness
 dehorning
 dechlorinating
@@ -13934,6 +13933,7 @@ dynamogeneses
 deodand
 daemonian
 discoboli
+dehorners
 disdainous
 dachs
 distillmint
