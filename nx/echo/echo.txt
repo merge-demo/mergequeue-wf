@@ -1797,6 +1797,7 @@ exhbn
 expiscation
 eutony
 eyeseed
+edgeless
 entophytically
 ectosarcous
 earthshock
@@ -9221,7 +9222,6 @@ euplectella
 eirenic
 erodes
 eudesmol
-edgeless
 enslavement
 everts
 excantation
