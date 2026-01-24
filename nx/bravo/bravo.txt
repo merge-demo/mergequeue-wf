@@ -7901,7 +7901,6 @@ bisme
 barony
 burglarising
 billyo
-backstitched
 brambling
 blackjacks
 bututs
@@ -13547,6 +13546,7 @@ botulins
 begotten
 basiliscus
 bern
+backstitched
 berlinize
 bangboard
 buttyman
