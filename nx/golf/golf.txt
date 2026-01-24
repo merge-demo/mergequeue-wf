@@ -1056,7 +1056,6 @@ grayness
 glyceridic
 gomphiasis
 gift
-gymnospermism
 gallweed
 glaceing
 gunwale
@@ -9716,6 +9715,7 @@ goodish
 gastrojejunostomies
 greatened
 gothite
+gymnospermism
 grueled
 gyrose
 guzzles
