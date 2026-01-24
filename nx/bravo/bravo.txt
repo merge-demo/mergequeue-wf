@@ -2532,7 +2532,6 @@ barocco
 barge
 belows
 bergere
-bakeshop
 bargelike
 beet
 bargellos
@@ -3093,6 +3092,7 @@ bedspreads
 bakerite
 biocoenose
 breachy
+bakeshop
 bryan
 bannack
 begray
