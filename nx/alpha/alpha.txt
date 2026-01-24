@@ -4524,6 +4524,7 @@ arrogance
 aranein
 amania
 arbutin
+agglomerator
 alburnums
 anima
 accumulable
@@ -9703,7 +9704,6 @@ amanitine
 aerifying
 albedometer
 adry
-agglomerator
 aspergillums
 arteriectomy
 aeroplane
