@@ -3413,7 +3413,6 @@ genotype
 gemitorial
 guttiferal
 gundelet
-guides
 gigglingly
 gools
 grittily
@@ -3608,6 +3607,7 @@ gangues
 gingko
 gau
 garmentworker
+guides
 globelet
 glowing
 ganglions
