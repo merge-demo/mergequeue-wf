@@ -3764,7 +3764,6 @@ eweries
 embryotome
 enquiry
 ephemerons
-eleidin
 exhaustivity
 egoistry
 embrittle
@@ -10763,6 +10762,7 @@ extrality
 egosyntonic
 etiquet
 endfile
+eleidin
 excusable
 exhausts
 eugonic
