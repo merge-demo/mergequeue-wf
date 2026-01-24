@@ -2297,7 +2297,6 @@ griffinism
 give
 guitguit
 glycerophosphoric
-germule
 gibblegabbler
 galante
 gumihan
@@ -8256,6 +8255,7 @@ gallingly
 guttus
 grapeflower
 grapefruit
+germule
 gazers
 gazingstock
 galeodes
