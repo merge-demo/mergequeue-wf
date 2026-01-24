@@ -3362,7 +3362,6 @@ basketwoman
 batocrinus
 beal
 bromargyrite
-basketwork
 beggiatoaceous
 burgeons
 bountree
@@ -5943,6 +5942,7 @@ bechancing
 beden
 backswordmen
 batswing
+basketwork
 bacteriolysis
 bipotentialities
 blonde
