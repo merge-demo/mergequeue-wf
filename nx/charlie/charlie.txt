@@ -3982,7 +3982,6 @@ cameist
 coronographic
 carburised
 contributed
-carlylism
 carburiser
 cerulescent
 carburizer
@@ -15347,6 +15346,7 @@ corridored
 cookish
 conjurement
 clangors
+carlylism
 cappella
 charioteers
 clangour
