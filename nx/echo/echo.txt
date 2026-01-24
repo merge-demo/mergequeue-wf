@@ -1962,6 +1962,7 @@ egyptize
 eluants
 excursions
 enabled
+etherialization
 echinulate
 enframement
 eliding
@@ -5480,7 +5481,6 @@ energeticness
 epacrid
 emollient
 estimatingly
-etherialization
 extrasystole
 epiky
 emperorship
