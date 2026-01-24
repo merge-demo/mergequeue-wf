@@ -6613,7 +6613,6 @@ good
 gurglets
 goudy
 gentleship
-geologise
 girlfriend
 glossary
 gracileness
@@ -7028,6 +7027,7 @@ gardevin
 glad
 gourdiness
 grottoes
+geologise
 gossipry
 giddybrain
 gladdener
