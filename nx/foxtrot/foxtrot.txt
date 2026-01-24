@@ -3410,6 +3410,7 @@ fluorides
 fullmouthedly
 fandom
 fulcra
+figworm
 flon
 fidge
 frogfoot
@@ -9212,7 +9213,6 @@ foppy
 foregather
 fissipes
 ferriprussic
-figworm
 faired
 florulae
 feoffees
