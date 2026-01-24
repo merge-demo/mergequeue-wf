@@ -8620,7 +8620,6 @@ appareled
 ainu
 allemand
 alleniate
-allentato
 agaty
 alsine
 acalephan
@@ -8705,6 +8704,7 @@ amsterdam
 acescence
 atwind
 admonishes
+allentato
 alcidae
 alliterates
 await
