@@ -1656,7 +1656,6 @@ foible
 frictionproof
 fretize
 fantasticalness
-foresight
 firmest
 fellmongery
 fawners
@@ -9551,6 +9550,7 @@ foresteep
 forewarned
 fraudulent
 frontiersmen
+foresight
 fecundated
 fraudulentness
 ferreting
