@@ -4176,7 +4176,6 @@ felicitously
 fiddlebow
 fungusy
 frostation
-fergusonite
 foreordaining
 featherbrain
 fir
@@ -5391,6 +5390,7 @@ fogy
 fockle
 fabricable
 feodatory
+fergusonite
 forceput
 forficula
 fingerprinted
