@@ -4664,7 +4664,6 @@ drifting
 determinists
 ducklar
 demivambrace
-dorsicollar
 directrices
 darkling
 drusean
@@ -12809,6 +12808,7 @@ drawfiling
 donative
 disloyalist
 disloyally
+dorsicollar
 disloyalty
 decrepity
 doored
