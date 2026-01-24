@@ -5126,6 +5126,7 @@ earthmover
 endamaging
 eyeholes
 ensheathe
+electrotautomerism
 evanishment
 edificate
 epiplanktonic
@@ -7725,7 +7726,6 @@ encrimson
 eightieths
 endotheliomata
 eboulement
-electrotautomerism
 expoundable
 epideistic
 equidominant
