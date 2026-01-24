@@ -4591,7 +4591,6 @@ capsule
 cotoxo
 clapperdudgeon
 carnied
-cripes
 carnifex
 carnifexes
 cationic
@@ -22611,6 +22610,7 @@ cadastre
 connectively
 clavichordists
 convallariaceous
+cripes
 connector
 connectors
 camellus
