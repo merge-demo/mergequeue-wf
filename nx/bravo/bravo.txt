@@ -4579,7 +4579,6 @@ bathroot
 bater
 bool
 bedabble
-beagles
 barricadoed
 biggening
 behavioristic
@@ -15463,6 +15462,7 @@ binominous
 brillante
 bant
 brilliance
+beagles
 braata
 bereave
 bono
