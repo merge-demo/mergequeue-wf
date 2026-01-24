@@ -206,6 +206,7 @@ entermete
 ergogram
 exploration
 euphemised
+enleaf
 electrolier
 equipoising
 enfief
@@ -13301,7 +13302,6 @@ eudemons
 explicator
 eriodendron
 epilobiaceae
-enleaf
 evangelicism
 elapids
 eglantine
