@@ -8044,7 +8044,6 @@ gnotobiote
 glyptodontoid
 glumpiness
 glimpsing
-gradational
 glossopalatine
 geonoma
 galleyman
@@ -8625,6 +8624,7 @@ griffithite
 galenoid
 gastrolatrous
 gums
+gradational
 gemel
 gonidioid
 gametically
