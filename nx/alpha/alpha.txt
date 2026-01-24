@@ -11349,7 +11349,6 @@ ateeter
 anthine
 adnexitis
 adonic
-amygdalae
 amu
 arteriae
 amuchco
@@ -11825,6 +11824,7 @@ allergen
 ananta
 astraea
 argininephosphoric
+amygdalae
 antimasquerade
 altarist
 anammonide
