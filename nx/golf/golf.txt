@@ -982,7 +982,6 @@ gallach
 greasebush
 ginglymoid
 glycogenesis
-guesses
 goldhammer
 gridding
 ganderess
@@ -2778,6 +2777,7 @@ gentianella
 gadhelic
 grabbled
 garbs
+guesses
 gelotometer
 gabies
 ginnery
