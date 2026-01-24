@@ -718,7 +718,6 @@ breeches
 backyard
 badgerer
 banana
-bevined
 balada
 badgeringly
 brotula
@@ -14842,6 +14841,7 @@ bilamellated
 biaxillary
 belatedness
 bergschrund
+bevined
 behalves
 brawnily
 brightener
