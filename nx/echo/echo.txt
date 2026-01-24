@@ -10918,7 +10918,6 @@ equitability
 enchalice
 elboic
 elaterid
-epanody
 epidemial
 eructation
 ereption
@@ -11727,6 +11726,7 @@ exaggeratingly
 exoascus
 extralinguistically
 expends
+epanody
 exobiologist
 ellipsometer
 erythrogenic
