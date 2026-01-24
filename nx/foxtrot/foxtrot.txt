@@ -2664,7 +2664,6 @@ filazer
 feoffed
 foresheet
 fontes
-ferromanganese
 ferrometer
 ferronatrite
 fluorouracil
@@ -10989,6 +10988,7 @@ fiberizes
 flubdub
 fedayee
 fructifying
+ferromanganese
 frey
 furls
 flabbergast
