@@ -8284,7 +8284,6 @@ dowdily
 dubitancy
 deathcup
 diagnostician
-diagnosticians
 dispopularize
 draped
 disputableness
@@ -17563,6 +17562,7 @@ dismissals
 drumloidal
 disavowal
 duct
+diagnosticians
 domesticates
 duteousness
 drumming
