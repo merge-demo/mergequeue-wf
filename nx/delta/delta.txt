@@ -2079,7 +2079,6 @@ diety
 defaced
 devolution
 disproportionally
-decal
 dodecylic
 dilatory
 decalage
@@ -12150,6 +12149,7 @@ deplaceable
 disentrail
 decalcify
 disentrainment
+decal
 disentrance
 depilatory
 devilism
