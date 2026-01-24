@@ -2029,6 +2029,7 @@ bulrushy
 believably
 buckboard
 bedstand
+byon
 baniya
 baning
 bandcutter
@@ -9068,7 +9069,6 @@ beavery
 babelike
 besmuts
 bion
-byon
 bionditional
 bionics
 brachyprosopic
