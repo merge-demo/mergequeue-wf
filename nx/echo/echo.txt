@@ -5964,7 +5964,6 @@ elains
 effate
 emissary
 erythrose
-equiaxed
 entrances
 euflavine
 expectorates
@@ -9931,6 +9930,7 @@ endlichite
 enterritoriality
 effulgence
 ephedrin
+equiaxed
 ewe
 educible
 executes
