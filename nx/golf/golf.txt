@@ -8217,7 +8217,6 @@ grain
 guanidins
 gasolier
 goatling
-granulet
 ganisters
 gemsboks
 gallies
@@ -10212,6 +10211,7 @@ getspa
 guyers
 gobet
 grindstone
+granulet
 gawsy
 gitanemuk
 gladdon
