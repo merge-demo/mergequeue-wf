@@ -292,6 +292,7 @@ beguilement
 backarrows
 backbar
 bedright
+bugbeardom
 biolith
 booter
 bakeware
@@ -10868,7 +10869,6 @@ balow
 bullbeggar
 butterman
 bigger
-bugbeardom
 blepharomelasma
 broses
 blepharoplastic
