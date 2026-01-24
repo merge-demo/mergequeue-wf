@@ -1236,6 +1236,7 @@ backslid
 beds
 bittersweetness
 buxbaumia
+bedazement
 baldachined
 beeswaxes
 blackshirt
@@ -4615,7 +4616,6 @@ borborus
 bedaubing
 bloodstone
 belial
-bedazement
 bigeminate
 bedazzle
 banters
