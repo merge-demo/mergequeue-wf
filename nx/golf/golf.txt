@@ -180,7 +180,6 @@ gynetype
 gastronomic
 gaggery
 greenage
-goaler
 ghostdom
 genuinely
 gerrymandering
@@ -6702,6 +6701,7 @@ growable
 gromatic
 gaea
 gutsiness
+goaler
 glades
 graecomania
 gibbergunyah
