@@ -2270,6 +2270,7 @@ ferroelectricity
 fizzle
 fantasmagoria
 fixe
+fritted
 fogged
 feminal
 fruiting
@@ -10211,7 +10212,6 @@ functionality
 flagellariaceous
 fluoroscopist
 finespun
-fritted
 fellowheirship
 forthbringing
 forklifts
