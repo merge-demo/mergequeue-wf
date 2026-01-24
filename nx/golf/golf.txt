@@ -3341,7 +3341,6 @@ glent
 grabbable
 glosseme
 gula
-germanized
 goosewinged
 gourmand
 glissandos
@@ -8653,6 +8652,7 @@ gimbaling
 grantha
 grauwacke
 gap
+germanized
 gemmeous
 grapnel
 guti
