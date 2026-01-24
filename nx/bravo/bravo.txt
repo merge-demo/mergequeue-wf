@@ -4280,7 +4280,6 @@ begat
 beardless
 beautifier
 bishopbird
-banff
 blowball
 bellhanging
 beautihood
@@ -9547,6 +9546,7 @@ beirut
 brahmaness
 barbules
 beaconage
+banff
 bouffants
 bemonster
 barristership
