@@ -1049,6 +1049,7 @@ calcanean
 calcaneoastragaloid
 calcaneoplantar
 countersale
+clausule
 calcaneoscaphoid
 calcaneum
 calcannea
@@ -15676,7 +15677,6 @@ clausula
 chiffonnier
 chiasmodontid
 cirrigrade
-clausule
 caseum
 cheekily
 clausure
