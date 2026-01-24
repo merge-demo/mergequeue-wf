@@ -5162,6 +5162,7 @@ extrapolate
 exflagellate
 endoenzyme
 epitrochoid
+emarginula
 elytrorrhaphy
 encyclic
 essonite
@@ -12766,7 +12767,6 @@ epispinal
 ethers
 equivoque
 enfetters
-emarginula
 electroindustrial
 endoplasm
 eucarpous
