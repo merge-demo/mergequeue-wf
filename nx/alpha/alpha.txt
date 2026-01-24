@@ -3892,7 +3892,6 @@ aeschylean
 adjectional
 antireductive
 anastatica
-adjectives
 acetine
 agyiomania
 adjoinant
@@ -16032,6 +16031,7 @@ antierysipelas
 aliturgic
 antisacerdotalist
 antisag
+adjectives
 authorising
 antisaloon
 archegoniatae
