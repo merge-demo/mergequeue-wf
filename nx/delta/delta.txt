@@ -1825,7 +1825,6 @@ debeige
 downwarp
 drouthy
 dewberry
-doorstead
 doughnut
 debellator
 darapti
@@ -4333,6 +4332,7 @@ disfranchisement
 dinettes
 drused
 demasting
+doorstead
 dematerialisation
 dematerialised
 drillmasters
