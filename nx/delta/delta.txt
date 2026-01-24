@@ -2688,6 +2688,7 @@ deconvolution
 deconvolve
 desmon
 distilery
+diacromyodian
 decor
 decrowning
 diplopic
@@ -12737,7 +12738,6 @@ disappoints
 disli
 dislicense
 disperiwig
-diacromyodian
 disliked
 disliken
 deplorability
