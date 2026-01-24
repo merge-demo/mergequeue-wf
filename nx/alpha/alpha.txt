@@ -16263,7 +16263,6 @@ aerophysical
 antitobacconist
 absorb
 antihistamines
-antitonic
 artistical
 autoneurotoxin
 apiararies
@@ -24488,6 +24487,7 @@ autotypography
 autotomise
 armbands
 adoptively
+antitonic
 archaeologists
 anacletica
 astragals
