@@ -610,7 +610,6 @@ bostangi
 bastiment
 bacteriodiagnosis
 bromates
-bacteremic
 behearse
 birdcages
 baraka
@@ -11252,6 +11251,7 @@ bronchiloquy
 boulevardiers
 bumpkinish
 bicyclists
+bacteremic
 burgraviate
 blaws
 bother
