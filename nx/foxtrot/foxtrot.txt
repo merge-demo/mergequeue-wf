@@ -2617,6 +2617,7 @@ fieldsmen
 feinting
 fumes
 ferrocene
+finns
 fogramity
 flongs
 ferrocyanate
@@ -7901,7 +7902,6 @@ fowlerite
 fritterers
 foreordinate
 fanfoot
-finns
 filterman
 follies
 furiousity
