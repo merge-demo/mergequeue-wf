@@ -9690,7 +9690,6 @@ encloud
 embost
 enhydritic
 eucalyptole
-esperantido
 economicalness
 enclosing
 emissaries
@@ -10474,6 +10473,7 @@ emigres
 exorbitance
 entresalle
 excreted
+esperantido
 ecb
 ectocranial
 epilator
