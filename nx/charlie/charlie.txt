@@ -22545,7 +22545,6 @@ cupriferous
 containerships
 conjunctively
 chersonese
-chimbleys
 cheekful
 conjuncts
 conjunctur
@@ -30776,6 +30775,7 @@ confiteor
 canisiana
 cistic
 cervisial
+chimbleys
 cuarto
 cloudbursts
 contineu
