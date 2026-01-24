@@ -3167,7 +3167,6 @@ eartab
 exudations
 eyewash
 empennage
-equiangularity
 even
 encomiums
 enrobed
@@ -12137,6 +12136,7 @@ eyelike
 epural
 excursiveness
 enterate
+equiangularity
 excurvated
 energy
 esemplasy
