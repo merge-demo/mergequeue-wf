@@ -15255,6 +15255,7 @@ bryce
 biocatalytic
 brick
 battened
+berginize
 brickbat
 buttonholed
 blackstrap
@@ -15572,7 +15573,6 @@ bestreak
 buzzerphone
 bionts
 brinksmanship
-berginize
 batted
 beardlike
 berkeley
