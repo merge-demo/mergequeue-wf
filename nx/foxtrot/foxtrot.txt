@@ -2260,6 +2260,7 @@ fonded
 ferroelectricity
 fantasmagoria
 fixe
+flueless
 fritted
 fogged
 feminal
@@ -8473,7 +8474,6 @@ freshman
 fades
 fallibilist
 foreboded
-flueless
 floweriness
 foppish
 forpine
