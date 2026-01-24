@@ -5167,6 +5167,7 @@ caseinogen
 caseload
 calycine
 colicker
+chattiness
 caseloads
 casemaker
 caprylene
@@ -9303,7 +9304,6 @@ chairmending
 confragose
 chatties
 chattiest
-chattiness
 colorably
 componed
 chromotherapy
