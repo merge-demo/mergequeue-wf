@@ -6903,7 +6903,6 @@ atar
 airts
 aquila
 algerine
-activize
 atokal
 acier
 acetanisidine
@@ -12588,6 +12587,7 @@ angelically
 argentic
 aptote
 alambique
+activize
 asphaltite
 amb
 atonalism
