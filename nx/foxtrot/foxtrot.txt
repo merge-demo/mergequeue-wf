@@ -2239,6 +2239,7 @@ forthtell
 fishworker
 fastidiosity
 folliculous
+frowl
 felwort
 flatlander
 fathearted
@@ -10586,7 +10587,6 @@ flamberge
 fierceness
 fusiliers
 freemasonical
-frowl
 folklorism
 frowners
 faciend
