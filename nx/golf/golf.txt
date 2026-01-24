@@ -358,7 +358,6 @@ graftdom
 graphed
 gorefish
 gangrenous
-gunsmith
 gladiolar
 gentianaceous
 gracefuller
@@ -3840,6 +3839,7 @@ gastaldo
 governing
 gibber
 grandmotherhood
+gunsmith
 grallatores
 gaffing
 goffers
