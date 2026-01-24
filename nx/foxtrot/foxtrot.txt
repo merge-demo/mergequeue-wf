@@ -8199,7 +8199,6 @@ fazenda
 farmland
 furtive
 foison
-fire
 footmenfootpad
 farcify
 fireflies
@@ -9592,6 +9591,7 @@ fliffus
 feebleness
 flossies
 figurers
+fire
 fattrels
 frypan
 footling
