@@ -4189,7 +4189,6 @@ biconnected
 brevet
 backdrop
 bracciale
-bagwigs
 bahuvrihis
 baddishness
 bearward
@@ -8693,6 +8692,7 @@ butties
 basins
 buckbeans
 bilobe
+bagwigs
 bilobed
 bigeye
 bilocular
