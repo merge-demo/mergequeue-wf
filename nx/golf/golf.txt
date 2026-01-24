@@ -175,7 +175,6 @@ gammacism
 garred
 guemul
 glazing
-garbage
 governessdom
 gynetype
 gastronomic
@@ -3333,6 +3332,7 @@ grimmia
 gatch
 gregaritic
 glancer
+garbage
 gravelliness
 glycosin
 gelotoscopy
