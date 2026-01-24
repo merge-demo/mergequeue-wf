@@ -6879,6 +6879,7 @@ elix
 enl
 equestriennes
 extipulate
+enchain
 ethnogenic
 emmenology
 epicranial
@@ -8740,7 +8741,6 @@ escopet
 equisetaceous
 epicondylar
 endothelia
-enchain
 erupting
 endostome
 enamorate
