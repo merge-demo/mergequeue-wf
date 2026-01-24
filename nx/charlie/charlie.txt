@@ -3779,6 +3779,7 @@ cephalomenia
 carbamyls
 carpodetus
 carbamine
+canonicalize
 circumnutate
 cowquake
 circum
@@ -28641,7 +28642,6 @@ crotches
 cellblocks
 clarisse
 classific
-canonicalize
 chroococcus
 constantine
 coloniser
