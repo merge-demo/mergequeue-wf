@@ -7617,7 +7617,6 @@ dequeuing
 dactylonomy
 devadasi
 deval
-devaloka
 deliquescence
 drenched
 declinable
@@ -14540,6 +14539,7 @@ disjointly
 dyadic
 deallocating
 dagging
+devaloka
 divinized
 divinizes
 demarche
