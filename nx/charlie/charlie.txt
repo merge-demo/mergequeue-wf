@@ -3670,7 +3670,6 @@ crateful
 carageens
 chromatography
 caraibe
-caraipa
 caraipi
 carlish
 caraja
@@ -28519,6 +28518,7 @@ credently
 crawleyroot
 credere
 credible
+caraipa
 concealers
 crimogenic
 credibly

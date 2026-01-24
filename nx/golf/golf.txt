@@ -4661,7 +4661,6 @@ gorillaship
 glamorized
 gyrostabilized
 goatbush
-gastrophilus
 gurk
 granulitic
 gunlocks
@@ -6866,6 +6865,7 @@ graphics
 gorbal
 garrya
 guaranty
+gastrophilus
 greffotome
 goolah
 globosities
