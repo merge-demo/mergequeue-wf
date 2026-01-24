@@ -2398,7 +2398,6 @@ grignet
 gonopodpodia
 george
 gabardines
-galloots
 gadwall
 gridirons
 glossarially
@@ -9921,6 +9920,7 @@ growth
 gluttingly
 gokuraku
 gastrochaena
+galloots
 gastrologist
 gerygone
 gustless
