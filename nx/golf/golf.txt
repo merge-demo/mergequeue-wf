@@ -9599,7 +9599,6 @@ groveled
 gridiron
 giustina
 gobioidea
-geophagies
 gerardias
 graphical
 geodynamical
@@ -10513,6 +10512,7 @@ gristhorbia
 gyrational
 goalee
 garrooka
+geophagies
 gypsous
 grattoir
 gulp
