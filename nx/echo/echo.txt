@@ -5514,7 +5514,6 @@ eelery
 electroscope
 elritch
 ectocarpic
-epimerized
 excitate
 erectility
 equiformity
@@ -13884,6 +13883,7 @@ etamine
 explores
 exosmosis
 eutectic
+epimerized
 endolymphangial
 extracloacal
 extradited
