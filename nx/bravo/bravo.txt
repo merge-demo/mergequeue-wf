@@ -95,7 +95,6 @@ bandeaux
 babels
 belinda
 boation
-botrytis
 blinking
 bulwarks
 bepastured
@@ -344,6 +343,7 @@ bangala
 bigha
 billiardly
 burglars
+botrytis
 burlers
 befilth
 backbitten
