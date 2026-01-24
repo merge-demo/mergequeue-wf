@@ -6578,7 +6578,6 @@ gorevan
 gambas
 guazzo
 groyne
-guarapo
 ghostwrite
 gulpingly
 ganoids
@@ -6750,6 +6749,7 @@ goura
 gripped
 georgic
 gulash
+guarapo
 graminivorous
 giddyberry
 gentles
