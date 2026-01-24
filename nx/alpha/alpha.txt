@@ -6802,6 +6802,7 @@ aphorises
 apanages
 antiagglutinative
 awry
+anesthetized
 airn
 auripuncture
 amalrician
@@ -12523,7 +12524,6 @@ archrascal
 asarh
 angwantibo
 anesthetization
-anesthetized
 achromotrichia
 altoun
 anterograde
