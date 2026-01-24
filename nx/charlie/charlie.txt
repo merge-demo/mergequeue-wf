@@ -4317,7 +4317,6 @@ careworn
 cottages
 carfare
 carfares
-coater
 carfuffle
 clites
 capiteaux
@@ -28204,6 +28203,7 @@ coulisse
 cowleeching
 crepe
 cystatrophia
+coater
 cururo
 chromaphil
 cellulose
