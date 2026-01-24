@@ -1442,7 +1442,6 @@ gpm
 graffer
 grulla
 gruppetto
-gypsiferous
 gipsire
 griseofulvin
 gashing
@@ -7705,6 +7704,7 @@ grease
 gobiesox
 galerus
 gunda
+gypsiferous
 granters
 glaucomas
 guacharos
