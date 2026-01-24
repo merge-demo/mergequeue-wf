@@ -624,6 +624,7 @@ embolo
 energism
 echometer
 echopractic
+explosive
 elitisms
 electuaries
 ebonise
@@ -2371,7 +2372,6 @@ epistroma
 electrocardiographic
 explorational
 entocele
-explosive
 egad
 elderliness
 excrementitial
