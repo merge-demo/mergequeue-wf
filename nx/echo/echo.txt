@@ -2402,7 +2402,6 @@ engorged
 emphyteusis
 exocone
 egoistic
-exergonic
 entrenchments
 exultation
 electrocutional
@@ -9800,6 +9799,7 @@ enthusiast
 expressure
 essentialization
 eruginous
+exergonic
 essentially
 exigencies
 expeditation
