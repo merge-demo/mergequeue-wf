@@ -1003,7 +1003,6 @@ folkvang
 flannelmouth
 fusion
 fardelet
-feower
 fasciculus
 flerry
 famelic
@@ -1579,6 +1578,7 @@ fimbriodentate
 foreteach
 forspread
 forklift
+feower
 farrow
 forepayment
 fidac
