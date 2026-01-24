@@ -11620,7 +11620,6 @@ counterbore
 choriambuses
 chyle
 crosscurrent
-coed
 corruptibly
 crankbird
 configurationism
@@ -27977,6 +27976,7 @@ crag
 craggan
 craggy
 cataphylla
+coed
 craglike
 crags
 carthusian
