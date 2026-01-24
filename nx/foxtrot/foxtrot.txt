@@ -9486,7 +9486,6 @@ fount
 franz
 forkman
 felidae
-footballs
 foliiferous
 flamines
 foreteeth
@@ -11077,6 +11076,7 @@ floppiness
 fawner
 floggings
 fancies
+footballs
 franco
 flanerie
 ferruminate
