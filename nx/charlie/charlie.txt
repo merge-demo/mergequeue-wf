@@ -5512,7 +5512,6 @@ cosmographical
 crankiest
 cellar
 casuistries
-casus
 cat
 catabaptist
 contos
@@ -16972,6 +16971,7 @@ canavalin
 curst
 clumpst
 clumse
+casus
 clumsy
 constituently
 clumsier
