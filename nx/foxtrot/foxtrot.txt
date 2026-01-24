@@ -181,7 +181,6 @@ farcialize
 factionistism
 fibrointestinal
 fusteric
-fence
 fluellin
 fabulous
 fourquine
@@ -9436,6 +9435,7 @@ forthcomer
 frankfurters
 functionary
 fastenings
+fence
 frails
 fisheater
 familiarities
