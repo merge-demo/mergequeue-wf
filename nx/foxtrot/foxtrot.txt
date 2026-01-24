@@ -4110,7 +4110,6 @@ finis
 flashbacks
 flatling
 feudal
-fletchings
 filelike
 fungoid
 finishable
@@ -10257,6 +10256,7 @@ frontlet
 fitter
 fashed
 falderals
+fletchings
 fabricant
 fulmar
 falcidian
