@@ -1542,7 +1542,6 @@ coquettes
 cooeying
 convoker
 calligraphically
-cigarillo
 chiefly
 calamintha
 contemplation
@@ -22569,6 +22568,7 @@ coking
 corpulency
 chorizo
 commonness
+cigarillo
 castuli
 counterbid
 conking
