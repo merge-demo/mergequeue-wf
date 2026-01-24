@@ -3177,6 +3177,7 @@ franciscans
 faddle
 fourier
 flip
+farriers
 fences
 fibroins
 fairlead
@@ -10379,7 +10380,6 @@ frenziedness
 firms
 foundationless
 finfoot
-farriers
 fingerleaf
 fingering
 frondeurs
