@@ -3009,7 +3009,6 @@ campesino
 canticles
 conquerableness
 cantilene
-cantilever
 cochromatography
 cantilevered
 cantilevers
@@ -8794,6 +8793,7 @@ cognitives
 chapleted
 countersmile
 clothesbasket
+cantilever
 chapon
 corrugators
 cuppa
