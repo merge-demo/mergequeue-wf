@@ -4895,7 +4895,6 @@ frontoorbital
 fasciolaria
 fancifulness
 floatiest
-fullwords
 frosteds
 flu
 faena
@@ -7059,6 +7058,7 @@ fruitfullest
 fauna
 firepink
 floriated
+fullwords
 frontlessly
 folliculitis
 frt
