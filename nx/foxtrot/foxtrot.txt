@@ -9718,7 +9718,6 @@ flotations
 foresign
 fecklessly
 feliform
-fulcrumage
 flabrum
 furaciousness
 florally
@@ -10892,6 +10891,7 @@ fulfullment
 functionless
 fussification
 fulmarus
+fulcrumage
 fontanels
 fluxweed
 flamefish
