@@ -5152,7 +5152,6 @@ ballota
 bloodthirstiness
 boedromion
 befools
-bridgeport
 budworm
 biotic
 boomorah
@@ -8586,6 +8585,7 @@ billeted
 bilabe
 biologize
 barman
+bridgeport
 boweries
 bankrider
 bastinading
