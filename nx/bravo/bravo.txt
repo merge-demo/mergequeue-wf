@@ -1609,7 +1609,6 @@ brooked
 birdie
 bairam
 boviform
-bonifaces
 beknighting
 brummagem
 broomsticks
@@ -11109,6 +11108,7 @@ block
 bidet
 bruet
 bibberies
+bonifaces
 bedwarfed
 blockboard
 beblain
