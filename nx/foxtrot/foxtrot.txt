@@ -7144,6 +7144,7 @@ ferrum
 forgiveness
 frogspawn
 flaxlike
+favelas
 fordrive
 fontal
 fougasse
@@ -7631,7 +7632,6 @@ flentes
 fleshbrush
 frivoler
 foreboom
-favelas
 filterers
 fortuitus
 foreburton
