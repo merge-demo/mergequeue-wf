@@ -3524,7 +3524,6 @@ grundy
 gowl
 gastrologer
 genoa
-gallanting
 glauconite
 glasgow
 gallophobia
@@ -4107,6 +4106,7 @@ germanical
 guzzler
 geissolomataceous
 geoffroyine
+gallanting
 globalization
 gadroons
 gimcrack
