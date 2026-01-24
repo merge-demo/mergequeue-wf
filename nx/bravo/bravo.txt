@@ -4409,7 +4409,6 @@ becircled
 botfly
 bonitas
 beck
-bowman
 boehmites
 bullimong
 becky
@@ -6045,6 +6044,7 @@ blighty
 berobed
 bucerotidae
 becovet
+bowman
 besaint
 beautifulness
 bellow
