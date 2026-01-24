@@ -5651,7 +5651,6 @@ attendress
 adulter
 antiquely
 aeolistic
-agamete
 angulates
 agamy
 agamian
@@ -6996,6 +6995,7 @@ alkahestical
 acalephes
 argillous
 adhibited
+agamete
 asinego
 agoing
 arthropathy
