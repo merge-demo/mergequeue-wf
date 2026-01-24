@@ -11297,7 +11297,6 @@ disburdenment
 dichasial
 disbury
 definitively
-dogstail
 disburse
 deg
 deictic
@@ -12461,6 +12460,7 @@ desecate
 disheriting
 deforms
 dishevelled
+dogstail
 dishevelling
 decimalizing
 delomorphic
