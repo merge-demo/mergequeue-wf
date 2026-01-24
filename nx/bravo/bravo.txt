@@ -5330,7 +5330,6 @@ balanoid
 begirds
 bickered
 beefed
-begirt
 bogies
 beglerbeglic
 boors
@@ -12615,6 +12614,7 @@ blauboks
 balsamroot
 bourgeoning
 brails
+begirt
 brawlis
 bridehead
 battle
