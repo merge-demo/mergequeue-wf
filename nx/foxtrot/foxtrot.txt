@@ -3688,6 +3688,7 @@ furbelowed
 factories
 foursquareness
 firlot
+furnaces
 fuchsia
 fanwort
 fenagler
@@ -11386,7 +11387,6 @@ forming
 faute
 firetraps
 fosters
-furnaces
 ferromagneticism
 fegary
 flightily
