@@ -17179,7 +17179,6 @@ ankerites
 anatosaurus
 amoebiasis
 archgunner
-apomictical
 amlong
 aquilegia
 aeroides
@@ -19366,6 +19365,7 @@ accidentalness
 argel
 admissable
 agio
+apomictical
 argent
 argentamid
 amadi
