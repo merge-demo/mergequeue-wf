@@ -3729,7 +3729,6 @@ adversative
 annihilating
 awfully
 asystematic
-adequate
 almuerzo
 appenage
 annum
@@ -15261,6 +15260,7 @@ arar
 acetimetry
 afterdinner
 antigravitate
+adequate
 annale
 alleviator
 agamically
