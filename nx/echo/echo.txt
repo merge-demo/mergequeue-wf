@@ -2620,7 +2620,6 @@ entertainable
 eighteenthly
 eden
 ensnarl
-encapsule
 eructed
 exhilarator
 empididae
@@ -13422,6 +13421,7 @@ entobranchiate
 escapeway
 exposture
 encephalola
+encapsule
 entremets
 emotion
 entropium
