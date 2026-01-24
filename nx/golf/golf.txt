@@ -1491,7 +1491,6 @@ gangrene
 glebae
 grover
 gamma
-gilbertite
 gynocardia
 gangliocyte
 grouter
@@ -3408,6 +3407,7 @@ galumptious
 geopolitik
 genotype
 gemitorial
+gilbertite
 guttiferal
 gundelet
 gigglingly
