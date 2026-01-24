@@ -417,6 +417,7 @@ bugles
 bibliophagic
 bromocresol
 blesses
+barkeep
 bromocamphor
 backpiece
 backrush
@@ -2707,7 +2708,6 @@ barm
 bollixes
 begrimming
 barmaster
-barkeep
 benzoic
 blagueur
 bocedization
