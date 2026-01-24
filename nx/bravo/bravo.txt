@@ -7459,7 +7459,6 @@ bookbinders
 bromated
 bequeathment
 bedgown
-boatings
 belgians
 betread
 bugseed
@@ -13552,6 +13551,7 @@ backstitched
 berlinize
 bangboard
 buttyman
+boatings
 botulinus
 bottu
 bags
