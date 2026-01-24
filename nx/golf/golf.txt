@@ -1961,7 +1961,6 @@ global
 glutetei
 glossarize
 grapeys
-gruft
 gustoso
 gobans
 gauleiter
@@ -6491,6 +6490,7 @@ gliming
 grooving
 glairin
 gibbert
+gruft
 goaltenders
 georgiadesite
 gonapophysial
