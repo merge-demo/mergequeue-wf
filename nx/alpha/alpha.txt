@@ -18561,7 +18561,6 @@ allurer
 antitragi
 aperch
 araminta
-arcanite
 arcature
 applicative
 arcatures
@@ -19320,6 +19319,7 @@ adventurers
 anthracnose
 arbutus
 ankylos
+arcanite
 anthologizer
 areopagite
 areopagitica
