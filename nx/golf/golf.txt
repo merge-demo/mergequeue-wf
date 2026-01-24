@@ -3692,7 +3692,6 @@ gillnetting
 gonadotropic
 gardenin
 gaffkya
-genotypicity
 ghettoes
 ghettoizing
 grenadilla
@@ -5958,6 +5957,7 @@ gestapo
 grahamite
 gondang
 gonopodia
+genotypicity
 governante
 germlike
 gastrohydrorrhea
