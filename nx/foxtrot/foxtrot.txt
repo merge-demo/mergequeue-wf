@@ -4606,6 +4606,7 @@ francophobia
 flagging
 flintlocks
 favissa
+fleckier
 feer
 forheed
 foreigner
@@ -11200,7 +11201,6 @@ forefather
 force
 figged
 fungation
-fleckier
 fremdness
 farhand
 fibrinocellular
