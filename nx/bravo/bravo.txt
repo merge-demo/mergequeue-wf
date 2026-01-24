@@ -5764,6 +5764,7 @@ bellacoola
 bungler
 buckjump
 balaghat
+blowgun
 biophysics
 beaverroot
 bellbinder
@@ -10925,7 +10926,6 @@ bloodlike
 bullit
 belauds
 blastomycetic
-blowgun
 blighters
 bestowing
 bluish
