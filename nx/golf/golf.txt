@@ -2908,7 +2908,6 @@ gonocyte
 gombos
 geochemical
 gee
-gelose
 gaiety
 gallipot
 gobiiformes
@@ -8406,6 +8405,7 @@ gravest
 galvanoglyphy
 glucofrangulin
 gedecktwork
+gelose
 gulfing
 geoblast
 gaize
