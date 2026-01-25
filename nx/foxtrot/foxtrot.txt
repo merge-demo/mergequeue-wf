@@ -2940,7 +2940,6 @@ fondlike
 flog
 fishworks
 fackins
-fanum
 firefighters
 featous
 fettucini
@@ -8183,6 +8182,7 @@ fazenda
 farmland
 furtive
 foison
+fanum
 footmenfootpad
 farcify
 fireflies
