@@ -9162,7 +9162,6 @@ doundake
 dryish
 didal
 dentalize
-didascalic
 dogface
 dobbing
 dormins
@@ -16328,6 +16327,7 @@ downstate
 dolmens
 defilade
 defrost
+didascalic
 downstrokes
 downtake
 duodecane
