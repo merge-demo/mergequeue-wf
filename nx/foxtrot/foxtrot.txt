@@ -1465,7 +1465,6 @@ felicify
 firmness
 futhork
 fatuitous
-familiarise
 floorwalkers
 fringing
 fatuoid
@@ -8351,6 +8350,7 @@ fantoccini
 fountaining
 foursome
 foreroyal
+familiarise
 floralia
 fod
 fraughan
