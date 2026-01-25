@@ -1616,7 +1616,6 @@ foresty
 ferrash
 fourstrand
 filespec
-foreignize
 fibrinoid
 favorites
 fabrique
@@ -11028,6 +11027,7 @@ flintiest
 frontirostria
 foreproffer
 fatlike
+foreignize
 furfurol
 flatmate
 fumblers
