@@ -992,7 +992,6 @@ antiserum
 assis
 atlantomastoid
 aerophobia
-astron
 abstentionism
 anaptyctical
 abstentionist
@@ -7006,6 +7005,7 @@ abamp
 amdt
 antifeministic
 apogeal
+astron
 altiloquent
 akha
 angus
