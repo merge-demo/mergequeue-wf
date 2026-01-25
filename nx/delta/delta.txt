@@ -3083,6 +3083,7 @@ defacing
 dicephalus
 defacto
 defade
+disanchor
 defaillance
 defalcated
 disembroilment
@@ -6768,7 +6769,6 @@ dismayingness
 desiliconization
 didascalar
 doubly
-disanchor
 dissogeny
 decollating
 desolations
