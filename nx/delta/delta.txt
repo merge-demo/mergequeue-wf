@@ -1037,6 +1037,7 @@ dutra
 darner
 darners
 dewooled
+deescalated
 dimeters
 decarch
 detailist
@@ -6646,7 +6647,6 @@ demerol
 dreamwhile
 desert
 darkroom
-deescalated
 detailing
 deacidification
 demivolt

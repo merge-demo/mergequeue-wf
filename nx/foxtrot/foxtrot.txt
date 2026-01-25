@@ -3295,6 +3295,7 @@ flunkies
 fiendishness
 ferrean
 fictioner
+facewise
 furbisher
 forestish
 fictionized
@@ -3377,7 +3378,6 @@ fails
 flyting
 fraternation
 foreconscious
-facewise
 ferrohydrocyanic
 fossilologist
 featherlessness
