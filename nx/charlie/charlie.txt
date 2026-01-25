@@ -17924,7 +17924,6 @@ chiliad
 codirector
 conycatcher
 codirects
-codist
 codivine
 codline
 calcigerous
@@ -23167,6 +23166,7 @@ chromatoid
 cowpath
 constitutiveness
 constitutor
+codist
 cassiri
 constr
 commence
