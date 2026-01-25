@@ -7826,6 +7826,7 @@ farmer
 facer
 fanfaronade
 fullerboard
+foxy
 fife
 flanes
 firearms
@@ -10732,7 +10733,6 @@ facultied
 fibular
 fainting
 fats
-foxy
 felsophyre
 forescent
 feralin
