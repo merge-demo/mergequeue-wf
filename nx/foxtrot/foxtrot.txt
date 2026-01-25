@@ -3910,7 +3910,6 @@ firewoods
 fisticuffer
 furthermore
 fiberglas
-formicary
 fideicommissaries
 fiberscope
 fungistat
@@ -8291,6 +8290,7 @@ fireplaces
 fluidize
 fluidally
 forficulidae
+formicary
 forfoughten
 flunkyism
 finestra
