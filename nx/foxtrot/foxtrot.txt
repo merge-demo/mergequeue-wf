@@ -4702,6 +4702,7 @@ feere
 firmland
 finecomb
 fibrocalcareous
+frayed
 ferring
 flowmanostat
 forcipes
@@ -6848,7 +6849,6 @@ fulicinae
 foresworn
 furthering
 felloe
-frayed
 focimetry
 formative
 fellata
