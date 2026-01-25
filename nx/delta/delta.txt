@@ -2939,6 +2939,7 @@ dedicators
 ducatus
 dechlorination
 dansk
+duplicand
 diacope
 dedifferentiating
 debarbarization
@@ -5062,7 +5063,6 @@ deboist
 dueller
 dirndls
 denaturing
-duplicand
 denaturise
 desensitization
 disfigures
