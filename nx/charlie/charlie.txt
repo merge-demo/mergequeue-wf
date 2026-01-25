@@ -15006,7 +15006,6 @@ calosoma
 cytulae
 colormaking
 cosmesis
-carbonado
 civet
 complementative
 coadjutrice
@@ -25605,6 +25604,7 @@ corpsbruder
 corpse
 corpses
 consummates
+carbonado
 creeshy
 cecity
 corpsy
