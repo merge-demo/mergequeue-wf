@@ -8679,6 +8679,7 @@ forsakenness
 fermentarian
 fleeces
 forsythia
+foxchop
 fixtures
 fairyology
 forlorner
@@ -10285,7 +10286,6 @@ frill
 fuscin
 fastings
 feebly
-foxchop
 faultfind
 fencers
 famines
