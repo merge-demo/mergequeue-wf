@@ -6516,7 +6516,6 @@ bixbyite
 bepicture
 bugology
 banxring
-bepiece
 bepile
 bult
 bumbled
@@ -15035,6 +15034,7 @@ bearwood
 barrowcoat
 brachium
 breathability
+bepiece
 bilateralism
 browbeat
 begun
