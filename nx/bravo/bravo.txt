@@ -5072,7 +5072,6 @@ belaboured
 beltcourse
 bigotedly
 bedplates
-benzothiophene
 befalling
 brainache
 befalls
@@ -5611,6 +5610,7 @@ beachside
 bekisses
 belock
 beknighted
+benzothiophene
 beveller
 ballistite
 burrio
