@@ -554,7 +554,6 @@ feodum
 fakirs
 falbelo
 fioretti
-futuro
 frowny
 falco
 feedy
@@ -803,6 +802,7 @@ ferried
 fellowlike
 flatbed
 freesp
+futuro
 fiendism
 frangipane
 fills
