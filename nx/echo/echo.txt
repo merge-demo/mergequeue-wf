@@ -3819,7 +3819,6 @@ enfranchises
 elegiacs
 embruting
 endocellular
-embubble
 eschatology
 eleuin
 embulk
@@ -12562,6 +12561,7 @@ edger
 encrypted
 exsects
 enounce
+embubble
 exite
 extinction
 enacts
