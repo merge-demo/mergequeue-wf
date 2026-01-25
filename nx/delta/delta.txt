@@ -7027,7 +7027,6 @@ decongest
 decamps
 disjasket
 dogfaces
-defense
 drowners
 diplumbic
 despoilments
@@ -13698,6 +13697,7 @@ dissimilars
 directorially
 dorize
 dequantitate
+defense
 diedral
 dissimilate
 depletion
