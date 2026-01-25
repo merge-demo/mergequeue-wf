@@ -9478,6 +9478,7 @@ diabolus
 diner
 doney
 diether
+dockyards
 deglazing
 disenroll
 disheathing
@@ -14797,7 +14798,6 @@ dockhand
 dockhouse
 dilambdodont
 deringers
-dockyards
 docking
 dobos
 dockland
