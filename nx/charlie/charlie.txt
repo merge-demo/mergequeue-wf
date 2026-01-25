@@ -10627,6 +10627,7 @@ circumspection
 cashbook
 chylopoetic
 chylopoiesis
+claviole
 chilopsis
 coagulum
 chilostomatous
@@ -22410,7 +22411,6 @@ calandrinae
 coniceine
 contaminating
 conicle
-claviole
 chessman
 conidae
 congratulable
