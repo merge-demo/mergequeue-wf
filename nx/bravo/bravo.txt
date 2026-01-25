@@ -4689,7 +4689,6 @@ brunhild
 breakfastless
 beltmaking
 bhikhari
-belch
 backwashing
 brittonic
 briquetted
@@ -10340,6 +10339,7 @@ bipartisanism
 bamboozler
 blennoid
 blackwater
+belch
 blightbird
 ballahou
 blackweed
