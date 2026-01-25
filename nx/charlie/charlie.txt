@@ -17399,6 +17399,7 @@ coreceiver
 cimline
 coassist
 coassistant
+crisle
 culpas
 chifforobe
 cupola
@@ -29939,7 +29940,6 @@ cuarenta
 crosswise
 californium
 coccygotomy
-crisle
 crosswiseness
 crostarie
 chymia
