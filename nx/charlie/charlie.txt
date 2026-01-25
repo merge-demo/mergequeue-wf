@@ -16919,6 +16919,7 @@ casebooks
 clubroots
 clubs
 clubstart
+coiffeur
 cephalorachidian
 clubster
 carpogonium
@@ -18582,7 +18583,6 @@ carryover
 creel
 caustics
 clavers
-coiffeur
 coiffeurs
 coiffeuses
 ceroxylon
