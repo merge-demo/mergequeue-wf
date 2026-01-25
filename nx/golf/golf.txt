@@ -892,7 +892,6 @@ gobioid
 goosebird
 gastroatrophia
 gez
-gelatinizability
 genome
 gawking
 genteeler
@@ -4094,6 +4093,7 @@ glanderous
 gletscher
 grifted
 gastrectomies
+gelatinizability
 geneal
 germanical
 guzzler
