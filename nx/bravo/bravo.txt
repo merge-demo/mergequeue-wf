@@ -7424,6 +7424,7 @@ befogs
 bethroot
 blackbirds
 bamboche
+barbeau
 breakthroughes
 bethump
 betides
@@ -7495,7 +7496,6 @@ bedeviling
 bewinged
 bebeerine
 bifidities
-barbeau
 bookstack
 budgeting
 balmier
