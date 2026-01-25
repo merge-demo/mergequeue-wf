@@ -4109,6 +4109,7 @@ bean
 bemuses
 boldness
 bedeafen
+byssolite
 bottlefuls
 beancod
 beaner
@@ -14972,7 +14973,6 @@ breaklist
 beaume
 bostonians
 breakoff
-byssolite
 breakout
 breakpoint
 breaks
