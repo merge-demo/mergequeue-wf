@@ -5824,6 +5824,7 @@ glissades
 greggle
 gather
 gedrite
+gutsy
 gurgoyl
 geocarpic
 glt
@@ -6803,7 +6804,6 @@ gurts
 gris
 glutimate
 glunch
-gutsy
 gonococci
 glossopharyngeus
 genitors
