@@ -1142,6 +1142,7 @@ flatwoods
 foes
 forbade
 forepointer
+fraxinella
 familiarizing
 fusileer
 frizzling
@@ -2928,7 +2929,6 @@ fluoresage
 frabjously
 forgettable
 foaled
-fraxinella
 flukeworm
 fibbers
 fractioning
