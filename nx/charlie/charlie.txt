@@ -4998,7 +4998,6 @@ cartoonist
 chrysomonadina
 cassettes
 cartouche
-curmudgeon
 chewed
 cust
 costrel
@@ -21230,6 +21229,7 @@ cospecific
 conceptualize
 chrysamine
 clustered
+curmudgeon
 conceptualized
 chonta
 conks
