@@ -140,7 +140,6 @@ cabiric
 cataclysm
 correa
 cable
-cablecast
 crudes
 cabled
 cablegram
@@ -19894,6 +19893,7 @@ cognominal
 comicocynical
 colnaria
 conjugally
+cablecast
 cicisbeo
 chinchiest
 cedrene
