@@ -2171,6 +2171,7 @@ finnicize
 floruit
 frigate
 footprints
+frontogenesis
 finify
 fleam
 fletch
@@ -9964,7 +9965,6 @@ floorwise
 felid
 farragoes
 fecifork
-frontogenesis
 fornices
 froideur
 foyaitic
