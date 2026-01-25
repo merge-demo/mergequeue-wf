@@ -3751,7 +3751,6 @@ finched
 figure
 fewter
 fibrilated
-fringepod
 fidos
 falsifying
 footman
@@ -5622,6 +5621,7 @@ fillet
 ferally
 faradises
 formatters
+fringepod
 fantoddish
 fanjets
 fiddlies
