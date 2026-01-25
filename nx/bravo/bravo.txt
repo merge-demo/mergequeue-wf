@@ -15629,7 +15629,6 @@ barbule
 briss
 backwoodsman
 bolsterer
-brist
 bourbonian
 bombproof
 bristled
@@ -17327,6 +17326,7 @@ bund
 bloomery
 ballam
 bardolater
+brist
 boxier
 babes
 birdseed
