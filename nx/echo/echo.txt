@@ -7974,7 +7974,6 @@ epicure
 evolvements
 endosmosis
 euorthoptera
-exudates
 epicele
 exordia
 epimandibular
@@ -10474,6 +10473,7 @@ esperantido
 ecb
 ectocranial
 epilator
+exudates
 enalite
 evaporability
 earpick
