@@ -1019,7 +1019,6 @@ embryulci
 ethanim
 eddied
 edits
-eastwards
 esoterics
 entera
 excavatory
@@ -3346,6 +3345,7 @@ effacement
 eluviate
 ethnographic
 enigmatically
+eastwards
 equipartisan
 electrosurgically
 exdividend
