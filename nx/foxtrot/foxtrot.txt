@@ -5598,7 +5598,6 @@ fidelities
 feus
 farouk
 foolscap
-furunculoid
 flumdiddle
 formes
 filchers
@@ -9832,6 +9831,7 @@ frogmouths
 figurability
 fridges
 ferijee
+furunculoid
 foraminifer
 flintless
 feldspar
