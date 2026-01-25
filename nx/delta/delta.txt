@@ -430,7 +430,6 @@ daytimes
 daywrit
 dakerhen
 deaner
-disappointing
 dakhini
 dystopian
 diphase
@@ -8471,6 +8470,7 @@ deflower
 drowned
 diallings
 dovefoot
+disappointing
 deliracy
 disciplines
 deliveror
