@@ -5462,7 +5462,6 @@ coldly
 castoreum
 caftaned
 castorite
-castra
 crystallographical
 collarinos
 castrates
@@ -14522,6 +14521,7 @@ continuantly
 cogitating
 cista
 circumstanced
+castra
 cubicontravariant
 cystalgia
 commatism
