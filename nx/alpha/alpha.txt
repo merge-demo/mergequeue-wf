@@ -8552,6 +8552,7 @@ abscising
 admirance
 aerodynamic
 absentment
+awaiter
 antre
 allegoriser
 anotto
@@ -18367,7 +18368,6 @@ azorian
 abatjours
 adversant
 abaculus
-awaiter
 anthurium
 araracanga
 anaclinal
