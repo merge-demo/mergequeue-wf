@@ -5319,7 +5319,6 @@ fishtailed
 fraternizes
 formylating
 fictionising
-farce
 flinders
 flautino
 faithfulness
@@ -10521,6 +10520,7 @@ fruitfully
 forecastle
 floe
 floorshift
+farce
 fleet
 fwd
 fisted
