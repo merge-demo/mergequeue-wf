@@ -8121,7 +8121,6 @@ coracosteon
 chockler
 continent
 carcer
-chaffron
 clavicornia
 chaffs
 costlessly
@@ -16460,6 +16459,7 @@ cloaklet
 culbert
 costumist
 chaunt
+chaffron
 cymbaline
 cloakroom
 cloakrooms
