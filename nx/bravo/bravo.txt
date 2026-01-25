@@ -5217,6 +5217,7 @@ barragan
 broideries
 breastpin
 blastodisk
+bullwhacker
 boardmanship
 bachelry
 beleed
@@ -7110,7 +7111,6 @@ bimorphs
 bushing
 bespeaking
 breeder
-bullwhacker
 bullalaria
 bespeaks
 backrun
