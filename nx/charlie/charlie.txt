@@ -15840,6 +15840,7 @@ clearsightedness
 clearstarcher
 clearstory
 crispest
+camisades
 coelenteron
 cascara
 calentured
@@ -19359,7 +19360,6 @@ color
 creational
 chinchier
 colorableness
-camisades
 curratow
 chilloes
 clothing
