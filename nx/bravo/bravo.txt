@@ -1428,6 +1428,7 @@ bulter
 balds
 baculums
 battute
+baccalaurean
 bale
 babassu
 bajonado
@@ -11518,7 +11519,6 @@ bathylimnetic
 bedoctor
 balloting
 blintze
-baccalaurean
 bluewoods
 ballat
 billposter
