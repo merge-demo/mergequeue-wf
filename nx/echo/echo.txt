@@ -8320,7 +8320,6 @@ eleostearate
 exogamous
 epistolarian
 epopoeia
-epochal
 eyeglass
 enatant
 epistolised
@@ -11527,6 +11526,7 @@ eductions
 eleutherian
 englishness
 erythraeidae
+epochal
 erasures
 evictions
 emboldens
