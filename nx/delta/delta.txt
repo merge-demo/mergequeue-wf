@@ -3464,7 +3464,6 @@ defluvium
 demimark
 dhotis
 dang
-defoamed
 defoamer
 duodecimally
 dashboards
@@ -7018,6 +7017,7 @@ desiringly
 disproportionality
 despoil
 dolcino
+defoamed
 destructions
 despoiled
 destroyers
