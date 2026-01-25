@@ -1105,7 +1105,6 @@ apparelled
 abundancy
 aluminosis
 abundant
-anachronical
 agnatically
 abune
 ausubo
@@ -11430,6 +11429,7 @@ atwo
 aldermanly
 anabathrum
 asperously
+anachronical
 astigmism
 aristogenesis
 asparagyl
