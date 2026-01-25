@@ -1610,7 +1610,6 @@ dummered
 dawe
 dunkirker
 deafly
-deafmuteness
 disembrace
 deairing
 discernableness
@@ -14992,6 +14991,7 @@ diathermacy
 dure
 discomforter
 degrees
+deafmuteness
 deprogram
 dissolving
 dogear
