@@ -2308,7 +2308,6 @@ discomfortableness
 daidled
 drips
 dirtplate
-dephlogisticate
 decenters
 disaggregation
 digestors
@@ -3376,6 +3375,7 @@ defis
 deflagrable
 desophistication
 decolor
+dephlogisticate
 disrestore
 dynagraph
 dithionate
