@@ -9940,6 +9940,7 @@ ballooning
 bapt
 baffed
 bewhisper
+blurrier
 biffin
 bitterer
 baygall
@@ -18118,7 +18119,6 @@ battalion
 butene
 butenyl
 babuina
-blurrier
 beethovian
 buteonine
 blenniid
