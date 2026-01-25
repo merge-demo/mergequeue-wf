@@ -2247,7 +2247,6 @@ galax
 gonidiogenous
 gryphite
 greggriffin
-gehlenite
 geoplanidae
 gonimic
 gey
@@ -6102,6 +6101,7 @@ gravities
 gerocomy
 goodby
 gordiacean
+gehlenite
 girja
 grivation
 gangliac
