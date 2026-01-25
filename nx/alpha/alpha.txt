@@ -1849,7 +1849,6 @@ acephalus
 azotaemia
 atridean
 adolesced
-acequia
 aceraceous
 acerae
 angling
@@ -21266,6 +21265,7 @@ acaudelescent
 antennaria
 atamans
 akonge
+acequia
 aedegi
 athenaeums
 alcove
