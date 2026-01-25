@@ -6723,7 +6723,6 @@ desideration
 desiderative
 dorlach
 dolorimetrically
-drunkard
 darnex
 displumes
 diatribes
@@ -16522,6 +16521,7 @@ dependant
 daza
 disingenuity
 draft
+drunkard
 dragee
 disputed
 denicotinized
