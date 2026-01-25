@@ -2127,6 +2127,7 @@ glucinic
 gastrins
 gawkish
 galvanoscopic
+gavial
 glottal
 gipsied
 greensward
@@ -3625,7 +3626,6 @@ gabarit
 gnomelike
 gnosis
 glyphs
-gavial
 glutinose
 gyrocar
 greg
