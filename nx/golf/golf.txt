@@ -794,7 +794,6 @@ gamboled
 goldenrods
 ghettoing
 gyppo
-gletty
 granose
 geognost
 ginney
@@ -5251,6 +5250,7 @@ grassflower
 glottiscope
 gastriloquist
 gibbals
+gletty
 guardianships
 girouette
 gadding
