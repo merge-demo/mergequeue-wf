@@ -4756,7 +4756,6 @@ bordereaux
 birlings
 balor
 bulllike
-ballpoint
 burley
 bobsleds
 bushier
@@ -8234,6 +8233,7 @@ bootlicked
 bekah
 bifara
 bedress
+ballpoint
 biff
 broadwayite
 bifilar
