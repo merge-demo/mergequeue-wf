@@ -8238,7 +8238,6 @@ fantastry
 feverberries
 formicinae
 foghorn
-forewings
 forecatching
 frounced
 flaminical
@@ -10407,6 +10406,7 @@ fattest
 filthify
 feague
 feudovassalism
+forewings
 faceman
 fortiori
 ferrado
