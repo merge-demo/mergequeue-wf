@@ -9806,7 +9806,6 @@ eurhythmy
 exitious
 enthusiast
 expressure
-essentialization
 eruginous
 exergonic
 essentially
@@ -11385,6 +11384,7 @@ enwrap
 evapotranspiration
 entotympanic
 equiarticulate
+essentialization
 ephetic
 effodientia
 ecaudata
