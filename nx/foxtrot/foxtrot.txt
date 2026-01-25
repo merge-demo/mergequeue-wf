@@ -5057,7 +5057,6 @@ fourflushers
 fictileness
 forbiddingness
 firstlings
-frets
 farmhold
 firmware
 flamers
@@ -10934,6 +10933,7 @@ fractural
 ferris
 fulled
 formalized
+frets
 fieldwort
 forsworn
 falloffs
