@@ -2932,7 +2932,6 @@ disfavor
 duodecimals
 dedicatory
 despitous
-duenesses
 dedicatorily
 doggoner
 dedicators
@@ -11450,6 +11449,7 @@ decays
 deject
 dishrag
 domesticative
+duenesses
 diaphonia
 diplopods
 discigerous
