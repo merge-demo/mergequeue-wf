@@ -8279,7 +8279,6 @@ chalcomenite
 chalcone
 chalcopyrite
 chalcosine
-calyptrogyne
 crocodilite
 coween
 cronyism
@@ -19128,6 +19127,7 @@ cedes
 corrupts
 cystocyte
 collisive
+calyptrogyne
 curtseying
 collyweston
 commonalty
