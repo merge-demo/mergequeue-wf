@@ -2364,6 +2364,7 @@ ftnerr
 forbysen
 furrowless
 fritter
+felix
 fensive
 footie
 faulkland
@@ -5417,7 +5418,6 @@ fuligula
 flukes
 fumage
 fluoridize
-felix
 fulciform
 fretters
 flain
