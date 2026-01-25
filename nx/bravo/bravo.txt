@@ -12424,6 +12424,7 @@ bombing
 buttoned
 broguery
 bonkers
+botanics
 bushfighting
 beplaided
 begorry
@@ -13369,7 +13370,6 @@ bacteriologically
 bradykinesis
 boogers
 brazed
-botanics
 bridechamber
 botanist
 blattidae
