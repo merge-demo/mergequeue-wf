@@ -1207,7 +1207,6 @@ epipany
 exceptiveness
 edification
 evanished
-educatability
 empathize
 eident
 educatable
@@ -3422,6 +3421,7 @@ equiangular
 emphemeralness
 expensefully
 endostyle
+educatability
 enlute
 eyry
 eulogic
