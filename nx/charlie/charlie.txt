@@ -1877,7 +1877,6 @@ camarera
 camarin
 cubists
 coronillo
-camaron
 camass
 camasses
 channelly
@@ -25407,6 +25406,7 @@ consignable
 corning
 cornishman
 cornless
+camaron
 cornmeal
 chillagite
 cornmeals
