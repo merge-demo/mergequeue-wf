@@ -6845,7 +6845,6 @@ gies
 gallon
 gremmie
 gobonee
-gnomonic
 gloryingly
 gypsied
 gaffsman
@@ -8274,6 +8273,7 @@ gravid
 gladlier
 glabrate
 gulfwards
+gnomonic
 grandfatherless
 gooseneck
 graphemically
