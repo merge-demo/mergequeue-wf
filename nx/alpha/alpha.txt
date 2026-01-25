@@ -20667,6 +20667,7 @@ albumen
 arthrospore
 arthrostome
 arthrostomy
+aboideaus
 amputative
 arthrotome
 abusious
@@ -25323,7 +25324,6 @@ antisplitting
 ampoule
 antidotes
 archplayer
-aboideaus
 antireactionaries
 aluconinae
 antiliberals
