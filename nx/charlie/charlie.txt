@@ -2851,6 +2851,7 @@ condiddled
 countercharge
 canonisation
 cadaverine
+covariables
 canonised
 canoniser
 cephalothoraces
@@ -4809,7 +4810,6 @@ carpopedal
 couteau
 cahuilla
 carpophyte
-covariables
 carpopodite
 carpopoditic
 coordinating
