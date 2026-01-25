@@ -1928,7 +1928,6 @@ fondon
 fruitless
 fleeceless
 filiform
-foresing
 forethink
 fremescent
 fainly
@@ -8088,6 +8087,7 @@ fll
 forespencer
 frivolling
 fatbirds
+foresing
 fontina
 foreguidance
 fellmongered
