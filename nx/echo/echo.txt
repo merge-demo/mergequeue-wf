@@ -3103,6 +3103,7 @@ eumycetic
 elkslip
 elkuma
 elkwood
+equipoise
 etherean
 endothrix
 epicenter
@@ -9297,7 +9298,6 @@ educationalist
 extrapleural
 extrapolative
 element
-equipoise
 expel
 eyestrain
 extradecretal
