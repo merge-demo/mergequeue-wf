@@ -1960,7 +1960,6 @@ complementalness
 consubstantiation
 carcinus
 cornule
-cotterite
 constant
 camelopardus
 cloghad
@@ -13823,6 +13822,7 @@ carmele
 caeca
 cineration
 creosoting
+cotterite
 clatchy
 cinerator
 circumrotation
