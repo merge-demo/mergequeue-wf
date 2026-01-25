@@ -9271,7 +9271,6 @@ entryway
 endarterectomy
 embound
 epikleses
-empannel
 effodient
 epiderm
 efph
@@ -11497,6 +11496,7 @@ eli
 emys
 enteral
 entosarc
+empannel
 elitists
 echovirus
 eradicant
