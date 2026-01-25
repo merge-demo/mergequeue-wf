@@ -2736,6 +2736,7 @@ fibs
 feckulence
 flamb
 frontispiece
+formularize
 fertile
 falsely
 fretsome
@@ -11002,7 +11003,6 @@ furors
 fink
 figent
 forerunning
-formularize
 flustery
 faipule
 focaloid
