@@ -379,7 +379,6 @@ goatskins
 grandmamma
 guisian
 gleys
-gallnuts
 gps
 galant
 galanthus
@@ -6808,6 +6807,7 @@ glossopharyngeus
 genitors
 gonopore
 gerontologist
+gallnuts
 gyrant
 gt
 gonof
