@@ -3919,7 +3919,6 @@ fadingly
 functionize
 firmnesses
 frizzles
-fardage
 fon
 fanglomerate
 fraenum
@@ -8371,6 +8370,7 @@ fautorship
 furmeties
 fragmentizer
 fading
+fardage
 fusate
 falcer
 flaughts
