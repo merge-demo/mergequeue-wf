@@ -9686,7 +9686,6 @@ disruption
 dowing
 dihybridism
 dihybrids
-dd
 disfunctions
 dupers
 dihydrochloride
@@ -15261,6 +15260,7 @@ decelerate
 droopt
 diurnation
 diamylose
+dd
 diluviums
 desubstantiate
 dolomite
