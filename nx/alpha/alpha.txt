@@ -9686,7 +9686,6 @@ astrodome
 amicabilities
 amperage
 amalgamization
-anaphase
 attainor
 argosine
 aircrews
@@ -20440,6 +20439,7 @@ ascertained
 autotherapeutic
 alme
 azoformic
+anaphase
 artemision
 anakoluthia
 aeneolithic
