@@ -6796,7 +6796,6 @@ goodwill
 gibel
 gravilea
 gonochorismal
-gentrice
 gnarling
 geryonia
 gonk
@@ -7925,6 +7924,7 @@ galinsoga
 gastropodous
 graved
 grammatistical
+gentrice
 gratinated
 gasteropoda
 giglots
