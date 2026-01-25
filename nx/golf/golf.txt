@@ -7649,7 +7649,6 @@ gracilis
 gracing
 grunth
 geonic
-gerrhosaurid
 gimblet
 gastrodialysis
 graft
@@ -10865,6 +10864,7 @@ glimmerous
 ganza
 guaranteer
 gils
+gerrhosaurid
 glacises
 gyrophora
 goggan
