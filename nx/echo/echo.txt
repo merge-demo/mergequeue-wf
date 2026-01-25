@@ -5999,7 +5999,6 @@ epotation
 enigmatizing
 enigmatographer
 encyclopaedic
-exempts
 erogenic
 envenoming
 excreter
@@ -6655,6 +6654,7 @@ ectocarpaceous
 eximidus
 electromyographical
 episcopalians
+exempts
 empark
 enterocyst
 etcher
