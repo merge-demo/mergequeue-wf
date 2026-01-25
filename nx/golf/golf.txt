@@ -3639,7 +3639,6 @@ gananciales
 gantries
 galleriidae
 galactoid
-giarra
 goetae
 gynaecology
 guttersnipes
@@ -9078,6 +9077,7 @@ gaylussite
 gnatcatcher
 girasole
 glares
+giarra
 gallium
 gryllos
 gaffle
