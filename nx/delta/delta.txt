@@ -4490,6 +4490,7 @@ danubian
 defused
 devchar
 drinkableness
+defrauder
 destruction
 demiculverin
 dodgiest
@@ -16128,7 +16129,6 @@ disbeliever
 dowagers
 dispersions
 droplet
-defrauder
 desalinized
 deweylite
 dayal
