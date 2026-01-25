@@ -1153,7 +1153,6 @@ apparitions
 appere
 autoschediastical
 aoul
-academes
 agrostographical
 academy
 anthropocentrism
@@ -4540,6 +4539,7 @@ anathematised
 atomatic
 antas
 advisableness
+academes
 amidon
 anicca
 advisal
