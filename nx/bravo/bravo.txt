@@ -1948,6 +1948,7 @@ backhoes
 bandoleers
 burdalone
 bivalent
+braving
 bandolerismo
 buckayros
 bandoleros
@@ -14826,7 +14827,6 @@ bravers
 bipolar
 bradycrotic
 braves
-braving
 bravissimo
 bifolium
 bramblebush
