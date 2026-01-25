@@ -4807,6 +4807,7 @@ foxberry
 filamentous
 figaro
 fairyish
+fog
 forsake
 fjord
 flirter
@@ -6312,7 +6313,6 @@ funambulo
 frenchmen
 funguslike
 falange
-fog
 frication
 fivepence
 flrie
