@@ -876,7 +876,6 @@ exulate
 etamines
 eriophorum
 elfwife
-ectocommensal
 ectocondylar
 endophytic
 efficient
@@ -11426,6 +11425,7 @@ exothermicity
 effeir
 electrodesiccation
 evenforth
+ectocommensal
 edificator
 eruciform
 emanatively
