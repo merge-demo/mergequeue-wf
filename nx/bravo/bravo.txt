@@ -11001,7 +11001,6 @@ beadroll
 blinker
 balancewise
 bitterful
-ballatoon
 blinkers
 bellhop
 batement
@@ -17044,6 +17043,7 @@ bubblish
 bulger
 boyhood
 belier
+ballatoon
 bersim
 bulgiest
 blizzard
