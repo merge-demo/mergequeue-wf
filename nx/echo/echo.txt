@@ -1076,7 +1076,6 @@ expeditions
 eczematization
 exadversum
 etchareottine
-eyeless
 endoskeleton
 eqpt
 entail
@@ -6888,6 +6887,7 @@ eumenes
 ectosarcs
 elix
 enl
+eyeless
 equestriennes
 extipulate
 enchain
