@@ -1673,6 +1673,7 @@ advancements
 accruement
 arthromeric
 accruer
+administrant
 anatta
 accrues
 accruing
@@ -10261,7 +10262,6 @@ apitpat
 angiotonase
 alveolated
 aneled
-administrant
 antisensitizer
 antidancing
 audio
