@@ -315,7 +315,6 @@ fondest
 ford
 floorthrough
 fiercest
-flytrap
 febrifacient
 footpounds
 firbolg
@@ -5071,6 +5070,7 @@ flamingant
 foremarch
 fomenters
 flowcharting
+flytrap
 flings
 frenulum
 flyway
