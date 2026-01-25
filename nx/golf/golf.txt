@@ -3599,7 +3599,6 @@ gongorism
 gau
 garmentworker
 guides
-globelet
 glowing
 ganglions
 gymnorhina
@@ -6125,6 +6124,7 @@ gjetosts
 gastroenterocolitis
 giller
 glazes
+globelet
 glaserian
 gnotobiosis
 giddiness
