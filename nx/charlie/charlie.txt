@@ -25612,7 +25612,6 @@ crusting
 corpsbruder
 corpse
 corpses
-consummates
 carbonado
 creeshy
 cecity
@@ -30007,6 +30006,7 @@ cabochons
 compulsions
 chrysene
 chola
+consummates
 cephaeline
 cuggermugger
 clearstarch
