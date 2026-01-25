@@ -2706,6 +2706,7 @@ epizootiologic
 elamitish
 ejurate
 excavation
+existimation
 escalin
 emong
 electrosurgery
@@ -12515,7 +12516,6 @@ electrodissolution
 effare
 electrologic
 erythrean
-existimation
 eunicid
 epicalyx
 earthfast
