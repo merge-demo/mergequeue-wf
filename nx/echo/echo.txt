@@ -2271,7 +2271,6 @@ exocolitis
 effluve
 endoperitonitis
 endoplasma
-epiphyllospermous
 epigonos
 elks
 encell
@@ -6947,6 +6946,7 @@ eventlessness
 esthesiography
 eucryptite
 epic
+epiphyllospermous
 enfeoffed
 espartos
 evitable
