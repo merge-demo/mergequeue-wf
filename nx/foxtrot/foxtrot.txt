@@ -6232,7 +6232,6 @@ frowardly
 fenster
 floccilation
 flounced
-flounder
 florentinism
 factorize
 frowardness
@@ -11562,6 +11561,7 @@ frames
 footlessly
 fusil
 fowage
+flounder
 figurations
 friskful
 flytier
