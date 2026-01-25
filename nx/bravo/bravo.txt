@@ -1152,7 +1152,6 @@ backwall
 borates
 berserk
 botete
-bankman
 bairnwort
 biscotin
 besmears
@@ -17227,6 +17226,7 @@ bromindigo
 bullwhipping
 barrel
 bullwort
+bankman
 boonies
 bolograph
 bumbailiffship
