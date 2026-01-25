@@ -6577,7 +6577,6 @@ banisters
 ballader
 birdshot
 besprizorni
-bibliography
 brustled
 begulfed
 berated
@@ -13255,6 +13254,7 @@ brigue
 bender
 begemmed
 bordure
+bibliography
 boschveld
 boulevardize
 bewit
