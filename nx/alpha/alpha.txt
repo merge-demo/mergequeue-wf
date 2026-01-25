@@ -19985,6 +19985,7 @@ afoam
 aals
 amasta
 armure
+aurophore
 armures
 arn
 attry
@@ -23720,7 +23721,6 @@ auroch
 answer
 anteceded
 anthropogeography
-aurophore
 aurore
 additionally
 acct
