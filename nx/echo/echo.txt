@@ -7062,7 +7062,6 @@ entreats
 embracive
 esperanto
 encycl
-esophagopathy
 entrec
 exptl
 exiting
@@ -8417,6 +8416,7 @@ epithyme
 eloped
 epityphlitis
 erythrosinophile
+esophagopathy
 epineurium
 evolutional
 expeding
