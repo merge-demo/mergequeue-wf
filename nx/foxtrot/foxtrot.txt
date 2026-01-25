@@ -7262,6 +7262,7 @@ fourche
 furnariidae
 fraileros
 flitch
+ferryway
 fairily
 freud
 floccular
@@ -8399,7 +8400,6 @@ faradmeter
 forgot
 francolite
 frogeye
-ferryway
 filchingly
 furiosity
 forkless
