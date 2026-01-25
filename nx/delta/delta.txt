@@ -10282,6 +10282,7 @@ dinking
 defatting
 dinkum
 detractory
+durmast
 duroc
 dormitory
 dummy
@@ -18547,7 +18548,6 @@ dozzled
 diphthonged
 dekalitre
 daysides
-durmast
 doppler
 dirging
 durndest
