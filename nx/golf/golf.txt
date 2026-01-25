@@ -7508,6 +7508,7 @@ gelatinizable
 garapato
 gastromenia
 globularity
+gnathism
 griffade
 gavelmen
 getmesost
@@ -7792,7 +7793,6 @@ gematriot
 grungy
 gastrulae
 galvanizations
-gnathism
 gauby
 gabeller
 gangsters
