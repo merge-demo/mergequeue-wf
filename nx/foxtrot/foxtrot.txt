@@ -1915,6 +1915,7 @@ flintier
 foredoom
 footstep
 fourdrinier
+fibrinokinase
 flamboyantize
 faradizing
 forcelet
@@ -4681,7 +4682,6 @@ flippance
 foaling
 forestwards
 fibrinolyses
-fibrinokinase
 feisty
 fooldom
 fleuronne
