@@ -2243,6 +2243,7 @@ gefulltefish
 gibbsite
 galax
 gonidiogenous
+gryphite
 greggriffin
 gehlenite
 geoplanidae
@@ -6167,7 +6168,6 @@ gomphocarpus
 gamasoidea
 glandiferous
 givens
-gryphite
 glistened
 goliaths
 gages
