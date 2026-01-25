@@ -1708,7 +1708,6 @@ gester
 gleanings
 gluttonise
 gluts
-gelatination
 grudgefulness
 glyptodont
 gentries
@@ -10283,6 +10282,7 @@ guarantorship
 gonimoblast
 grigri
 gaumish
+gelatination
 grotesquery
 gravipause
 grecque
