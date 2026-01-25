@@ -10614,6 +10614,7 @@ blathers
 bazookamen
 biomicroscopy
 bluesides
+bronzier
 bermudians
 bespeech
 bribery
@@ -18260,7 +18261,6 @@ buttermonger
 buttermaking
 bice
 bagworm
-bronzier
 butternuts
 barstool
 batea
