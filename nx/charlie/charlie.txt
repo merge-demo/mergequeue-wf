@@ -2469,7 +2469,6 @@ coffeeberry
 cancrinite
 cancrisocial
 cancroid
-crystallitic
 cancrum
 cancrums
 cand
@@ -5896,6 +5895,7 @@ capomo
 culminal
 compositorial
 catenoid
+crystallitic
 cacozyme
 canli
 capuli
