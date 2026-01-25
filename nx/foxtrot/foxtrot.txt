@@ -2958,7 +2958,6 @@ floorcloth
 furfurals
 fibrose
 factors
-future
 foremost
 flung
 feudalists
@@ -4832,6 +4831,7 @@ frumentarious
 forkfuls
 fraulein
 fougue
+future
 feathermonger
 fobbing
 fatnesses
