@@ -5226,6 +5226,7 @@ escoba
 entier
 erythrogen
 encinder
+engregge
 etiotropically
 endopathic
 endopelvic
@@ -11638,7 +11639,6 @@ elegize
 encumbrance
 extrovert
 electroretinogram
-engregge
 eternalising
 enmeshing
 evolver
