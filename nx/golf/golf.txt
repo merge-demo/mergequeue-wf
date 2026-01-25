@@ -4092,7 +4092,6 @@ gerundively
 groining
 glanderous
 gletscher
-guyer
 grifted
 gastrectomies
 geneal
@@ -6866,6 +6865,7 @@ gauntlets
 glucoprotein
 getaways
 grisliness
+guyer
 geaster
 genitival
 gilt
