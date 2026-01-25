@@ -1519,6 +1519,7 @@ gridiron
 grantable
 glengarry
 guittonian
+garderobe
 gladsome
 garotted
 goutish
@@ -5379,7 +5380,6 @@ generalisation
 gyrencephalate
 gismondite
 goiters
-garderobe
 gangrel
 glees
 gregarianism
