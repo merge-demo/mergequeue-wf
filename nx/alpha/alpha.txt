@@ -602,6 +602,7 @@ amanitins
 aesthophysiology
 arytenoidal
 ampleness
+anadiplosis
 abnormalcies
 adjure
 avulsions
@@ -2133,7 +2134,6 @@ accedence
 agglutinations
 achilleine
 abnormalness
-anadiplosis
 anthropological
 aragonite
 alfin
