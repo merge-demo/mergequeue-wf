@@ -1556,7 +1556,6 @@ etch
 epithecal
 extracalendar
 ettarre
-emmetropism
 evanishes
 emptings
 egesta
@@ -12616,6 +12615,7 @@ enrooted
 exocoelic
 enneagynous
 explant
+emmetropism
 epicardium
 electrostatics
 exocoelum
