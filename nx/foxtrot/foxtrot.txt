@@ -1349,7 +1349,6 @@ flear
 fieldball
 flookan
 frithy
-flout
 formates
 foretopsail
 fallowness
@@ -2087,6 +2086,7 @@ fireboat
 flindosa
 forwander
 faunlike
+flout
 fructescence
 florins
 fogbows
