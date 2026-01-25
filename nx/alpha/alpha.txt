@@ -1053,7 +1053,6 @@ albinoism
 aunter
 abstrusities
 angiogenesis
-astromeda
 ambarella
 athabasca
 aphlaston
@@ -10882,6 +10881,7 @@ amorettos
 attainer
 angiogram
 aphrolite
+astromeda
 antilactase
 antagonist
 amylophosphoric
