@@ -8444,7 +8444,6 @@ dilatator
 diabase
 dialists
 deacetylated
-diffusional
 dragboat
 dispreader
 disunite
@@ -10542,6 +10541,7 @@ disarraying
 dourly
 dialogues
 diversity
+diffusional
 diphthongally
 disenable
 dizziest
