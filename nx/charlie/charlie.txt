@@ -2693,7 +2693,6 @@ cankerbird
 capitonidae
 chaperone
 carriable
-cippi
 cankereat
 cankered
 codders
@@ -17712,6 +17711,7 @@ cocksfoot
 comedy
 creationistic
 cochleleae
+cippi
 choregraphy
 conducing
 cochleleas
