@@ -8373,6 +8373,7 @@ gladnesses
 gazelle
 greenslade
 gracefulness
+generalizeable
 gobber
 greyer
 geanticlinal
@@ -10656,7 +10657,6 @@ gurged
 griddler
 gortonite
 gliding
-generalizeable
 geckotoid
 gyracanthus
 gurgitation
