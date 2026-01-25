@@ -6472,6 +6472,7 @@ babbishly
 barangay
 benzothiazoline
 bitripartite
+biteless
 brucite
 brimfulness
 benzothiodiazole
@@ -17482,7 +17483,6 @@ blastie
 buprestis
 briskening
 bragwort
-biteless
 bepierce
 bombastry
 bursula
