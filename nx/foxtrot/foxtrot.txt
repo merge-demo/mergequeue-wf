@@ -6418,7 +6418,6 @@ furfurous
 foiler
 fervours
 forsooth
-fitting
 fitchets
 ferriprussiate
 faon
@@ -8166,6 +8165,7 @@ fersmite
 felons
 filmiest
 fathogram
+fitting
 fumigator
 freedmen
 foretellers
