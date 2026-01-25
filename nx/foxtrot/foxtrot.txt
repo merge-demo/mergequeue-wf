@@ -9512,6 +9512,7 @@ fauld
 fireboxes
 foeticide
 flag
+farragos
 foglietto
 fratry
 flockowner
@@ -10633,7 +10634,6 @@ foughty
 favose
 fullbodied
 formagenic
-farragos
 fructescent
 filmily
 framable
