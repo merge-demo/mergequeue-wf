@@ -638,7 +638,6 @@ grueling
 granulocytic
 glycerogel
 givey
-gravimetry
 glower
 griots
 gernative
@@ -874,6 +873,7 @@ grillwork
 gotha
 gadroon
 geopositive
+gravimetry
 globicephala
 ginep
 gametocyte
