@@ -2163,7 +2163,6 @@ gallophobe
 gantlopes
 guayaberas
 griffith
-goldish
 gastropulmonary
 gawsie
 gliss
@@ -10455,6 +10454,7 @@ gynaeolater
 gonotype
 gastrolienal
 gypaetus
+goldish
 geometries
 gusset
 goosy
