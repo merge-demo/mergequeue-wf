@@ -204,7 +204,6 @@ forcut
 factoryship
 floatiness
 fraudulence
-fusinite
 feuar
 filiety
 fascistic
@@ -946,6 +945,7 @@ fringiness
 ferrimagnetically
 farceur
 ferneries
+fusinite
 farinha
 foundry
 foreffelt
