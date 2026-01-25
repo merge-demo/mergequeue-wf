@@ -5975,7 +5975,6 @@ enframing
 enigma
 ermelin
 egotism
-enjambements
 endaortitis
 enigmata
 eluvial
@@ -14049,6 +14048,7 @@ extratellurian
 extrait
 enfranchiser
 eschatocol
+enjambements
 electroergometer
 exch
 ecclesiasticalism
