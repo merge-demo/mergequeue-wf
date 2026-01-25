@@ -7182,7 +7182,6 @@ depictor
 deambulate
 desulphur
 desulphurate
-delatorian
 desulphurised
 demonize
 dollyman
@@ -12896,6 +12895,7 @@ dogmatic
 destructor
 dam
 dribblets
+delatorian
 drily
 dorsoepitrochlear
 deposita
