@@ -5109,7 +5109,6 @@ destitute
 deperition
 dravya
 dipsomania
-dafla
 dendrocoelan
 dendrocoele
 dronet
@@ -17709,6 +17708,7 @@ demipauldron
 disangularize
 discriminable
 durables
+dafla
 demultiplex
 dedifferentiation
 decanonization
