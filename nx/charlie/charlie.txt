@@ -3712,7 +3712,6 @@ couloirs
 carapaces
 carapacho
 chapfallenly
-contumacity
 cognates
 carapacic
 carapax
@@ -7952,6 +7951,7 @@ cetaceum
 calpolli
 clericate
 cetane
+contumacity
 cetanes
 cete
 calvous
