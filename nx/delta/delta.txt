@@ -3493,6 +3493,7 @@ deforced
 depressors
 deforces
 dimittis
+damageableness
 duplicipennate
 deforciant
 detention
@@ -12530,7 +12531,6 @@ deracinate
 declassifying
 doubtably
 dertrum
-damageableness
 dudeens
 dexterity
 defy
