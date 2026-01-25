@@ -4203,6 +4203,7 @@ clifflet
 chrysophan
 cardiopath
 cardiopathic
+chocolatey
 chloanthite
 cardiorenal
 cardiorespiratory
@@ -11452,7 +11453,6 @@ chocoan
 ciliates
 checkering
 chocolate
-chocolatey
 chine
 ceinte
 chocolates
