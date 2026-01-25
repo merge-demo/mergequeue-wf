@@ -4015,6 +4015,7 @@ emparchment
 evertile
 exaltative
 embarrassingly
+entitles
 estamp
 endarteria
 extramodal
@@ -9785,7 +9786,6 @@ eomecon
 eastlings
 erinize
 excression
-entitles
 eradiates
 equisonance
 endocrinous
