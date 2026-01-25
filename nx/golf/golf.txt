@@ -3116,7 +3116,6 @@ gelatinity
 gallused
 grassie
 governed
-gumdrops
 gomuti
 gastful
 gastrodermis
@@ -5185,6 +5184,7 @@ greek
 grinch
 genetmoil
 gazania
+gumdrops
 groggily
 gyrophoraceae
 gomutis
