@@ -2238,6 +2238,7 @@ electrics
 electrographic
 exedrae
 epistome
+edacious
 expanded
 esterlin
 entailing
@@ -10086,7 +10087,6 @@ endangerment
 escargots
 evilly
 endarterial
-edacious
 elegious
 eternish
 editresses
