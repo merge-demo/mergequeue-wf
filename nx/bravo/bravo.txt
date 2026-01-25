@@ -2328,7 +2328,6 @@ badness
 bankerdom
 besprinkled
 belabor
-barbellulate
 boozing
 blunderings
 blossombill
@@ -5511,6 +5510,7 @@ bitonal
 bacterioprotein
 backiebird
 beatless
+barbellulate
 behoved
 basting
 branchiest
