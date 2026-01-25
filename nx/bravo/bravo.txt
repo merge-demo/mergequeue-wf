@@ -4136,7 +4136,6 @@ blokes
 brickbatting
 bobbed
 beansetter
-batture
 beanshooter
 beanstalk
 bestiaries
@@ -17159,6 +17158,7 @@ bim
 bullies
 broll
 bombards
+batture
 brushmaking
 bullion
 bullyrag
