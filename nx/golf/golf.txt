@@ -6457,7 +6457,6 @@ golder
 glimpse
 gypsoplast
 grapenuts
-gateward
 gamostelic
 guileless
 garrupa
@@ -10280,6 +10279,7 @@ garnel
 gervase
 guarantorship
 gonimoblast
+gateward
 grigri
 gaumish
 gelatination
