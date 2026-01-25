@@ -27965,7 +27965,6 @@ calycanthus
 conferencing
 craftiness
 craftless
-croucher
 charactonym
 craftsmanship
 craftsmaster
@@ -30737,6 +30736,7 @@ chummy
 canonical
 composing
 coworker
+croucher
 cuitlateco
 correctional
 chloroauric
