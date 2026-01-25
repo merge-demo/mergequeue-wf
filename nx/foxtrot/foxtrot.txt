@@ -277,7 +277,6 @@ feoffeeship
 foetors
 foiled
 foredivine
-ferricyanate
 foretimes
 fluffing
 firedamp
@@ -3609,6 +3608,7 @@ forestian
 femoropopliteal
 fusions
 foeless
+ferricyanate
 furify
 followers
 fly
