@@ -4571,6 +4571,7 @@ gnarred
 gil
 girlfully
 generalate
+grappling
 goral
 geometrid
 grating
@@ -8345,7 +8346,6 @@ grandaunts
 gruff
 gentians
 gibberish
-grappling
 glucosone
 grime
 gradus
