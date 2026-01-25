@@ -10370,7 +10370,6 @@ darks
 dighting
 deans
 draughting
-dames
 dionysia
 dionysiac
 dionysiacally
@@ -11672,6 +11671,7 @@ devillike
 defiant
 dithering
 discerpibility
+dames
 disconsolately
 demophobe
 digester
