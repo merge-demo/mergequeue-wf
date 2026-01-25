@@ -8794,6 +8794,7 @@ endopods
 explodable
 equities
 equivalenced
+elephanta
 equivalent
 enrichments
 ensiles
@@ -14110,7 +14111,6 @@ esteem
 extendedness
 evolutionistically
 evils
-elephanta
 etyma
 extremuma
 exceptio
