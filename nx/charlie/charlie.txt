@@ -4275,7 +4275,6 @@ careless
 carelessly
 carelessness
 careme
-carene
 calculator
 ceremonies
 capsulotome
@@ -30869,6 +30868,7 @@ culter
 culti
 castratory
 cultic
+carene
 cashierer
 chandelier
 caecity
