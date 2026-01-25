@@ -12487,7 +12487,6 @@ bakeout
 bonbon
 betsimisaraka
 behap
-bicapitate
 ballplayer
 backcast
 begloom
@@ -15051,6 +15050,7 @@ bookishly
 beaufet
 breba
 brewmaster
+bicapitate
 boatfalls
 believed
 batrachia
