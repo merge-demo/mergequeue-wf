@@ -1749,7 +1749,6 @@ derogation
 disaccord
 damnatory
 deathtime
-diverticular
 diphenan
 dividend
 diphyllobothrium
@@ -9876,6 +9875,7 @@ deputations
 dimetria
 darer
 distends
+diverticular
 dromos
 dilo
 disenamour
