@@ -6981,7 +6981,6 @@ feasible
 fallace
 folklores
 fp
-floatages
 fletched
 fleme
 forceps
@@ -8789,6 +8788,7 @@ facient
 frizzled
 faintise
 farde
+floatages
 fluoranthene
 forbiddable
 flogged
