@@ -2056,7 +2056,6 @@ amidoxy
 achagua
 amoret
 apsychical
-apocope
 achalasia
 anolis
 aftertime
@@ -7072,6 +7071,7 @@ agrobiology
 abacisci
 abnormal
 amusements
+apocope
 abarthrosis
 atopite
 akre
