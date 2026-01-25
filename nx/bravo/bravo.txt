@@ -18084,7 +18084,6 @@ berthierite
 butane
 brennage
 butanol
-bonked
 butanols
 bouderie
 boeing
@@ -18291,6 +18290,7 @@ boomeranging
 burrowing
 butty
 biovulate
+bonked
 bakuninist
 besotment
 belanda
