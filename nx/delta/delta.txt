@@ -2546,7 +2546,6 @@ dorn
 dialling
 disjudication
 declass
-dimorphs
 dweller
 diachrony
 declassifies
@@ -18437,6 +18436,7 @@ diarize
 duplation
 detested
 downrush
+dimorphs
 dukkha
 dedicatedly
 duplexers
