@@ -6368,6 +6368,7 @@ delimitized
 dimication
 dermophobe
 domineering
+diaereses
 darnix
 dermosclerite
 deco
@@ -6471,7 +6472,6 @@ digitization
 dragomanic
 desalinated
 disembattle
-diaereses
 demagnetizable
 dodecanoic
 dogmatisation
