@@ -1314,6 +1314,7 @@ creatural
 calgary
 caliban
 clogged
+crissal
 cunea
 calaverite
 caliber
@@ -29425,7 +29426,6 @@ crispness
 cowwheat
 cystogenous
 clagging
-crissal
 chaetetidae
 chylaqueous
 crisscrossed
