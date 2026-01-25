@@ -2791,6 +2791,7 @@ greatcoat
 gile
 gyne
 glides
+grist
 guzzledom
 garblings
 gathers
@@ -6060,7 +6061,6 @@ golcondas
 gairfowl
 gnawers
 gnathopodite
-grist
 gneissic
 gabelles
 gluon
