@@ -1433,7 +1433,6 @@ animate
 accessaries
 anesthesiometer
 accessarily
-amoebae
 accessariness
 algor
 axilemmata
@@ -11235,6 +11234,7 @@ aposthume
 ancona
 amphodarch
 anobiidae
+amoebae
 amphora
 algors
 alohas
