@@ -1195,6 +1195,7 @@ gappier
 genesiacal
 gradations
 globular
+glides
 guttate
 garfishes
 grappler
@@ -2791,7 +2792,6 @@ grievingly
 greatcoat
 gile
 gyne
-glides
 grist
 guzzledom
 garblings

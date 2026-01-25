@@ -238,7 +238,6 @@ ehretia
 evacue
 epidermolysis
 engilds
-else
 erinaceous
 ethnologists
 elaphure
@@ -693,6 +692,7 @@ electrostatic
 excitonic
 emaculate
 exsertion
+else
 embrangling
 exudative
 eclipsed
