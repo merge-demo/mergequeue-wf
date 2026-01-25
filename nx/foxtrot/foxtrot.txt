@@ -7519,6 +7519,7 @@ ferie
 feroher
 floggable
 fawnlike
+fumbled
 fisheyes
 footmen
 fausen
@@ -9412,7 +9413,6 @@ filace
 fritillaria
 felworts
 foundrymen
-fumbled
 federator
 frocks
 forlore
