@@ -3304,7 +3304,6 @@ camletting
 capitulator
 capituliform
 cystolithic
-compatriots
 crotchwood
 collieries
 coilers
@@ -22553,6 +22552,7 @@ conjunctur
 conjunctures
 conjuration
 conjurations
+compatriots
 cryogens
 conjured
 cocitizenship
