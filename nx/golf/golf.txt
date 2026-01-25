@@ -551,6 +551,7 @@ gup
 growls
 gin
 ghetto
+glycerogelatin
 garde
 getfd
 gableended
@@ -3617,7 +3618,6 @@ guacho
 gewgaws
 ghan
 graftproof
-glycerogelatin
 glumella
 galvanisation
 ghoulishly

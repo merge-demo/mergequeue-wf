@@ -4064,7 +4064,6 @@ flotage
 fiscal
 fulmine
 figurehead
-forbit
 feminisation
 friarling
 fairydom
@@ -9391,6 +9390,7 @@ frothy
 fleawood
 fecaloid
 fatuitousness
+forbit
 fecials
 frankalmoign
 felonies
