@@ -160,7 +160,6 @@ guaiaretic
 geophagy
 gamond
 guimbard
-gratiano
 glassworm
 goliardic
 gag
@@ -2952,6 +2951,7 @@ guilt
 gurkha
 gollop
 geomance
+gratiano
 gibes
 glabrescent
 gentisin
