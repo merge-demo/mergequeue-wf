@@ -1822,7 +1822,6 @@ erinose
 entericoid
 expediteness
 engravers
-extensible
 embankments
 encompasser
 estimates
@@ -4809,6 +4808,7 @@ enterotomy
 epiopticon
 excusatory
 exitance
+extensible
 ensnarements
 erythrol
 encoding

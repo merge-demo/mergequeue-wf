@@ -4511,7 +4511,6 @@ aranein
 amania
 arbutin
 agglomerator
-anamniote
 alburnums
 anima
 accumulable
@@ -15231,6 +15230,7 @@ arilloid
 autophytograph
 advocatory
 angiocarpian
+anamniote
 aberuncate
 anthophila
 auh
