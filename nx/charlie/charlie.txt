@@ -4865,7 +4865,6 @@ ceratomania
 carriagesmith
 cinchonicin
 carriageway
-cerebralization
 celiocele
 carryall
 chromatoplasm
@@ -19685,6 +19684,7 @@ cinematics
 comandra
 capetown
 cheir
+cerebralization
 comarum
 comate
 coffins
