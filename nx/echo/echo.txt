@@ -2888,7 +2888,6 @@ expediencies
 evenhanded
 enaluron
 elephantiasis
-elymi
 eliza
 embroidery
 entomologize
@@ -5633,6 +5632,7 @@ elysium
 esophoria
 enforceable
 enamourment
+elymi
 ectocarpous
 ensconcing
 extispicy
