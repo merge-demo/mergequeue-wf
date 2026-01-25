@@ -178,7 +178,6 @@ aquarians
 agisted
 aluminoferric
 abbacies
-abbacomes
 acolapissa
 anakes
 abbasside
@@ -455,6 +454,7 @@ apothems
 anonychia
 abiotic
 argentometer
+abbacomes
 authorities
 angiotomy
 archaeographic
