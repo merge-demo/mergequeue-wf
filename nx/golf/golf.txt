@@ -696,7 +696,6 @@ galtrap
 gianthood
 grazer
 greasiness
-gemmology
 galvanically
 galactosyl
 glossatorial
@@ -1601,6 +1600,7 @@ gunreach
 grampus
 gooseflower
 gloater
+gemmology
 glyconean
 gunnar
 gemology
