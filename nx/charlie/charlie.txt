@@ -2712,7 +2712,6 @@ cankerroot
 cardiolith
 camerine
 cauponize
-cankers
 cultivators
 comedowns
 carbamyl
@@ -3691,6 +3690,7 @@ craspedota
 carangids
 coenaesthesis
 coleopterological
+cankers
 clem
 celomata
 chunderous
