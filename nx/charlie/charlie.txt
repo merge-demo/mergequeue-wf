@@ -11033,6 +11033,7 @@ chirurgery
 chis
 chiseled
 chiseler
+cannibalizes
 cheapens
 chiselers
 combinableness
@@ -23030,7 +23031,6 @@ cavalcade
 cagmag
 consonantism
 consonantized
-cannibalizes
 citywards
 consonantness
 consonants
