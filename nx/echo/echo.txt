@@ -3157,7 +3157,6 @@ elliptoid
 enoughs
 expermentized
 extraparietal
-endodontologist
 elm
 embarrassment
 educing
@@ -6549,6 +6548,7 @@ exstruct
 euphonicalness
 effortlessness
 exchange
+endodontologist
 entocyst
 enlivens
 erubescence
