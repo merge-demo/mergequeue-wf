@@ -8072,7 +8072,6 @@ chaetiferous
 cocytean
 chaetodon
 chaetodontidae
-chaetognatha
 cityscape
 chlorosis
 chaetophobia
@@ -17141,6 +17140,7 @@ capless
 costocoracoid
 coachwise
 cully
+chaetognatha
 coachwright
 coact
 coacting
