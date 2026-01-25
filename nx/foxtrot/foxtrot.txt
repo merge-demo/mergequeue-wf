@@ -5550,6 +5550,7 @@ flavorers
 filterable
 floatative
 fopship
+flogs
 fabricative
 flexible
 fleering
@@ -6255,7 +6256,6 @@ farthingless
 fathership
 fatima
 flouted
-flogs
 fretish
 flechettes
 frondigerous
