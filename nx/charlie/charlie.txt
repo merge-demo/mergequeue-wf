@@ -5626,6 +5626,7 @@ cataloes
 cataloged
 character
 coelomatic
+curtailed
 ciconiidae
 crochet
 catalogia
@@ -31547,7 +31548,6 @@ choristership
 candles
 cycliae
 curt
-curtailed
 cursores
 cinders
 cubistic
