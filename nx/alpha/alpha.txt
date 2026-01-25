@@ -12567,7 +12567,6 @@ angarep
 anticryptically
 ajivika
 astrogeologist
-angarias
 abanet
 aeronomist
 arpeggiation
@@ -14503,6 +14502,7 @@ antipathies
 asphyxiation
 alveolitis
 areas
+angarias
 avesta
 aestival
 anthropopathically
