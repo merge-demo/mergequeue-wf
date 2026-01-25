@@ -6647,7 +6647,6 @@ brooming
 biunity
 befleaed
 banquettes
-bergall
 bergamasche
 burnwood
 bergamask
@@ -11563,6 +11562,7 @@ buttonbur
 bedabbles
 barotaxis
 birthday
+bergall
 betaxed
 birdman
 boca
