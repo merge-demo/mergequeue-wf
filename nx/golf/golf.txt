@@ -3063,7 +3063,6 @@ goadsman
 gyrohorizon
 glycopexis
 gormandizes
-gamboler
 geonavigation
 gabbart
 gaga
@@ -4226,6 +4225,7 @@ geomagnetic
 gimped
 gimpier
 guidable
+gamboler
 gliosa
 greenovite
 gonidiose
