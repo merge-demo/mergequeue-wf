@@ -725,7 +725,6 @@ gumlike
 gugglet
 galvanizers
 gripple
-galvanizing
 greund
 gemmiferousness
 geometrine
@@ -4179,6 +4178,7 @@ gebang
 gouda
 graphiologist
 glycosyl
+galvanizing
 glassen
 gelinotte
 gamopetalae
