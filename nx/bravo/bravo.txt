@@ -7988,6 +7988,7 @@ broomweed
 borderside
 belike
 behowls
+bathyl
 bushels
 becrimson
 brusher
@@ -9903,7 +9904,6 @@ browsage
 brail
 boanerges
 bradyphagia
-bathyl
 beaten
 bilharziasis
 blendes
