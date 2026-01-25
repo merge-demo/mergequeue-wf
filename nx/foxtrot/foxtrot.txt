@@ -530,7 +530,6 @@ faker
 fleabag
 formicariidae
 flickered
-foretokens
 fiumara
 flench
 forcleave
@@ -6691,6 +6690,7 @@ filtrable
 fidgetation
 freemanship
 frothily
+foretokens
 floodway
 fascioliasis
 flockman
