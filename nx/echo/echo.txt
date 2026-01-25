@@ -877,7 +877,6 @@ eriophorum
 elfwife
 ectocondylar
 endophytic
-efficient
 emendator
 electrolyser
 epicarp
@@ -2482,6 +2481,7 @@ exinanition
 exendospermic
 earthquaked
 eslabon
+efficient
 excusability
 eyelets
 estus
