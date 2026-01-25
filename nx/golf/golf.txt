@@ -5211,6 +5211,7 @@ gatsby
 gallish
 gleamily
 gabble
+grapsoid
 gharial
 garroters
 gastrologically
@@ -5760,7 +5761,6 @@ gradin
 graveolence
 grimmish
 gloomy
-grapsoid
 gymnoplast
 gossypose
 galatic
