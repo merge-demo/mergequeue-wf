@@ -1332,7 +1332,6 @@ ephemerae
 essaying
 encircler
 estrado
-eassel
 enteroid
 epyllia
 electrocardiogram
@@ -2996,6 +2995,7 @@ enricher
 exploiters
 entoloma
 escarping
+eassel
 epagomenal
 endoplast
 electrodynamic
