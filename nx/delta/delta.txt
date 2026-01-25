@@ -3569,7 +3569,6 @@ deformalize
 dingles
 danke
 dermatotome
-drawbeam
 dissheathe
 dehwar
 defuze
@@ -8631,6 +8630,7 @@ diapirs
 diaplases
 disnaturalization
 disk
+drawbeam
 deteriority
 deprived
 destroying
