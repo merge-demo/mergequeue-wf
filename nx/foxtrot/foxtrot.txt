@@ -2039,6 +2039,7 @@ fedora
 fide
 flipper
 fautor
+faujdar
 fusils
 fullymart
 florilegium
@@ -2179,7 +2180,6 @@ finify
 fleam
 fletch
 fumishing
-faujdar
 fuchsite
 fosterling
 fluer
