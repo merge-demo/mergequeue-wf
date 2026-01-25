@@ -135,6 +135,7 @@ ghillie
 girth
 gavialoid
 gallicole
+gorgedly
 gunfighter
 guy
 greenth
@@ -4006,7 +4007,6 @@ guarinite
 gambesons
 gravic
 geniculate
-gorgedly
 gnomological
 gearksutite
 galliasses
