@@ -496,7 +496,6 @@ bridely
 backstitch
 bahoo
 billhead
-brevetted
 briming
 broadway
 besiclometer
@@ -7596,6 +7595,7 @@ beguilingly
 bandolier
 bandwagons
 beloam
+brevetted
 begirding
 bewary
 bewaste
