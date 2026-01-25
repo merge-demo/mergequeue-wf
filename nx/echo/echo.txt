@@ -4937,7 +4937,6 @@ euthyneura
 endameba
 endocrinal
 endamebae
-equiv
 eveck
 equiperiodic
 eupatoriaceous
@@ -13675,6 +13674,7 @@ epilogism
 ecclesiarchy
 embacle
 euchre
+equiv
 enforcement
 estrays
 elevon
