@@ -1250,6 +1250,7 @@ datiscosid
 delacerate
 drosograph
 datisi
+desugared
 deutovum
 dative
 datively
@@ -8131,7 +8132,6 @@ debeaker
 duodial
 dysgenical
 dentex
-desugared
 divinatory
 deciliters
 distributions
