@@ -471,7 +471,6 @@ beestings
 brubu
 broomier
 backset
-bacteriostatic
 backspang
 benefiting
 betrend
@@ -15996,6 +15995,7 @@ baham
 bromphenol
 bathroomed
 blattering
+bacteriostatic
 bihourly
 burgh
 bromuret
