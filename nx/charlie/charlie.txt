@@ -13067,6 +13067,7 @@ chichili
 cyathea
 cytodieresis
 cyatheaceae
+countermandable
 centralizers
 conclave
 conational
@@ -26908,7 +26909,6 @@ counterman
 chanter
 carles
 countermand
-countermandable
 craniological
 chirruping
 certhiidae
