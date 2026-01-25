@@ -7383,7 +7383,6 @@ etoiles
 electrojet
 epitheliomas
 ephorates
-enravishment
 epapophysis
 enforcing
 exosphere
@@ -7555,6 +7554,7 @@ enviously
 externate
 encyc
 elevato
+enravishment
 eunomy
 exemplifiers
 ethrog
