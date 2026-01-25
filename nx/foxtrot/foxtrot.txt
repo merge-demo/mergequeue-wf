@@ -1726,6 +1726,7 @@ facie
 fuzes
 fairtime
 ferrament
+federative
 formaldehyd
 fingertip
 feria
@@ -8259,7 +8260,6 @@ fitout
 forewritten
 forgeries
 fictioneer
-federative
 feudalities
 friezing
 forfaulture
