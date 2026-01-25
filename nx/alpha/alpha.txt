@@ -5400,7 +5400,6 @@ arbitragist
 afrit
 afforested
 attacher
-armary
 acetotoluidine
 aulic
 agaces
@@ -20546,6 +20545,7 @@ arthra
 access
 ancon
 assuasive
+armary
 adipoma
 arterialising
 abbotcy
