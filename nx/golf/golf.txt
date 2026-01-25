@@ -966,7 +966,6 @@ graysby
 guitarlike
 gallantness
 genre
-ghastfully
 gilgamesh
 grouting
 gliriformia
@@ -7860,6 +7859,7 @@ gegg
 groaners
 glutton
 glutter
+ghastfully
 guillotines
 gristmilling
 graphospasm
