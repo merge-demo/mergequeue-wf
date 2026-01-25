@@ -4240,7 +4240,6 @@ armorer
 alchornea
 aesculapius
 alumen
-abime
 abaka
 anencephaly
 adreamed
@@ -22058,6 +22057,7 @@ astatines
 astatize
 alejandro
 asbestoses
+abime
 allelisms
 avenous
 astricting
