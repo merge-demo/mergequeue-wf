@@ -11506,6 +11506,7 @@ bejade
 bluetongue
 bedmates
 bethylidae
+bewitchments
 blastemata
 bluetop
 berths
@@ -12185,7 +12186,6 @@ banefully
 boldfaced
 boldfacedness
 boldfacing
-bewitchments
 bleb
 boldhearted
 beclip
