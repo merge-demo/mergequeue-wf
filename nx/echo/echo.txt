@@ -5480,7 +5480,6 @@ energesis
 earmark
 epilobium
 escript
-evidently
 entranced
 estheses
 energeticness
@@ -13954,6 +13953,7 @@ effectivity
 expressless
 epimer
 eozoonal
+evidently
 enface
 electropoion
 enallage
