@@ -4622,7 +4622,6 @@ fortread
 finickiest
 fictive
 fissura
-frugal
 forbar
 forwardsearch
 fabulousness
@@ -11545,6 +11544,7 @@ faradiser
 fathomlessly
 frumpier
 flecklessly
+frugal
 furlable
 fabling
 fictionize
