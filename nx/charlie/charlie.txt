@@ -9488,6 +9488,7 @@ climatically
 checkbooks
 curtest
 coendou
+crannequin
 calculated
 checker
 celeusma
@@ -11119,7 +11120,6 @@ compear
 chivareeing
 chivarees
 chivari
-crannequin
 chivaris
 chive
 cinecamera
