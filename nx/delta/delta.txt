@@ -3969,6 +3969,7 @@ delators
 deleaded
 delectability
 dissatisfactory
+digerent
 decides
 devitalise
 deputized
@@ -4551,7 +4552,6 @@ detax
 dameworts
 dungyard
 demimondain
-digerent
 derided
 disimagine
 dhole
