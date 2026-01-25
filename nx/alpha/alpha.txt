@@ -10671,7 +10671,6 @@ amiantuses
 architis
 amlikar
 ammelide
-apodemal
 apothecary
 ammer
 amuletic
@@ -22693,6 +22692,7 @@ athetotic
 aucanian
 athymia
 apogonidae
+apodemal
 athing
 askarel
 athyria
