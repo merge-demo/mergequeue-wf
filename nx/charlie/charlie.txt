@@ -12198,6 +12198,7 @@ catnep
 cyanized
 chrismons
 choanoflagellida
+core
 carinatae
 chrysoaristocracy
 cratsmanship
@@ -25072,7 +25073,6 @@ cordwainer
 cactiform
 choleraic
 cloves
-core
 corecipient
 crinogenic
 corectome
