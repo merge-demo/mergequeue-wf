@@ -5872,7 +5872,6 @@ commercia
 categorized
 calamars
 categorizer
-chromeplated
 cabas
 crawling
 cateye
@@ -26764,6 +26763,7 @@ countercurrentwise
 cautions
 counterdance
 counterdeclaration
+chromeplated
 cadweed
 counterdemonstrate
 counterdeputation
