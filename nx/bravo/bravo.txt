@@ -12422,7 +12422,6 @@ brimful
 bathyplankton
 bombing
 buttoned
-broguery
 bonkers
 botanics
 bushfighting
@@ -14235,6 +14234,7 @@ bivalvular
 bleachground
 beatings
 bobbiner
+broguery
 bookstall
 baronesses
 bracky
