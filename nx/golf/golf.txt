@@ -3326,6 +3326,7 @@ glancer
 garbage
 gravelliness
 glycosin
+groceries
 gerocomia
 glent
 grabbable
@@ -6330,7 +6331,6 @@ gonake
 gradating
 goethian
 gam
-groceries
 ganoin
 greyed
 gummage
