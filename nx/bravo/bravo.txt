@@ -8090,6 +8090,7 @@ bacteriohemolysin
 brolly
 bisporous
 balsamodendron
+bugara
 bicostate
 billows
 bicrenate
@@ -17048,7 +17049,6 @@ bersim
 bulgiest
 blizzard
 bagnut
-bugara
 bulgingly
 breakables
 bulimias
