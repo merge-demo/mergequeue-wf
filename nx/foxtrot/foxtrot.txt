@@ -8644,7 +8644,6 @@ flammigerous
 familiarism
 flatworks
 fluorimeter
-ferae
 farseeingness
 fetcher
 fotched
@@ -10912,6 +10911,7 @@ foresightless
 footholds
 flavor
 forts
+ferae
 frontalis
 fluvioterrestrial
 filigreing
