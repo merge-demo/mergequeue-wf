@@ -2376,7 +2376,6 @@ aromacity
 adc
 archduxe
 alluding
-athetoid
 absorbed
 acieration
 adonizing
@@ -15701,6 +15700,7 @@ apalachee
 acraniate
 antiparticles
 addice
+athetoid
 antipasch
 antipastic
 antipastos
