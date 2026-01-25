@@ -17382,6 +17382,7 @@ apothecaryship
 archosyrinx
 alkalamide
 abele
+autothaumaturgist
 altruisms
 afret
 archenemy
@@ -24477,7 +24478,6 @@ autotetraploid
 assistanted
 autotetraploidy
 aah
-autothaumaturgist
 appellatively
 anthracic
 adhibiting
