@@ -15412,7 +15412,6 @@ clapnet
 concentered
 cen
 clappe
-conidiiferous
 clapper
 clapperclaw
 cloragen
@@ -28464,6 +28463,7 @@ crickets
 champagnes
 chuprassi
 contraorbital
+conidiiferous
 creationary
 creations
 creative
