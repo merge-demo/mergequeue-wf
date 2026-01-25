@@ -10881,7 +10881,6 @@ bigbloom
 blepharotomy
 bellowed
 blere
-behooved
 belligerent
 blesboks
 blessedness
@@ -17182,6 +17181,7 @@ bullnoses
 bacchuslike
 bleachyard
 bullnut
+behooved
 beetroot
 babbitt
 bullock
