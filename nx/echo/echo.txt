@@ -1091,6 +1091,7 @@ eringos
 etypic
 electrized
 exsheath
+enclaving
 entomologies
 eigne
 eidolon
@@ -8034,7 +8035,6 @@ evolutionary
 experted
 extradicted
 erenow
-enclaving
 enoptromancy
 endostea
 enlists
