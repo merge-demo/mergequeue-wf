@@ -434,6 +434,7 @@ bernie
 bors
 beefhead
 brushless
+burble
 brinjaree
 balilla
 bugbear
@@ -15780,7 +15781,6 @@ bullpates
 backtracked
 bananaquit
 beneficiating
-burble
 bigfoot
 brambly
 beamster
