@@ -5780,7 +5780,6 @@ engleim
 enshrines
 exhilarating
 englobe
-empressements
 epigraphy
 elastase
 expressions
@@ -13049,6 +13048,7 @@ emulate
 ebons
 executorial
 edifyingly
+empressements
 eclogic
 enjoins
 epipastic
