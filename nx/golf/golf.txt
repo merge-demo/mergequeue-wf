@@ -3619,7 +3619,6 @@ graftproof
 glycerogelatin
 glumella
 galvanisation
-gladsomeness
 ghoulishly
 gausses
 gharnao
@@ -10513,6 +10512,7 @@ gypsous
 grattoir
 gulp
 gomarist
+gladsomeness
 gundie
 graspingness
 geometrina
