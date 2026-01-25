@@ -12600,7 +12600,6 @@ bombax
 bedposts
 burseeds
 biographically
-biham
 boni
 byssine
 bony
@@ -15954,6 +15953,7 @@ basan
 bopyridian
 bourignianist
 brinie
+biham
 bromidically
 balneum
 bows
