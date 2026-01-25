@@ -3339,7 +3339,6 @@ bacterioscopic
 basirostral
 bacterial
 bangiales
-blepharitic
 basisidia
 bedwell
 beerishly
@@ -4551,6 +4550,7 @@ bemuslined
 becrust
 brecciate
 bewigging
+blepharitic
 becrusting
 broodiest
 bibbs
