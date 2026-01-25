@@ -1164,6 +1164,7 @@ graphometry
 grinners
 glans
 galliney
+germinancy
 grifters
 grogs
 gunboats
@@ -1575,7 +1576,6 @@ grassless
 geothermally
 grana
 glutelin
-germinancy
 glassless
 ghegish
 gregarinoidea
