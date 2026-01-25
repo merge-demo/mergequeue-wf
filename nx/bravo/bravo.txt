@@ -6430,6 +6430,7 @@ betting
 benedight
 bulrush
 bewake
+broodmare
 benzophthalazine
 breakup
 benzil
@@ -16156,7 +16157,6 @@ beneficiaire
 binomial
 broodily
 broodling
-broodmare
 blackmailers
 bursera
 bertillonage
