@@ -6846,7 +6846,6 @@ foresworn
 furthering
 felloe
 focimetry
-formative
 fellata
 fleshly
 facaded
@@ -8982,6 +8981,7 @@ fulfillment
 farhands
 foments
 foragers
+formative
 flatfish
 floush
 fronded
