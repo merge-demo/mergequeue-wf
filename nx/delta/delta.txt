@@ -4156,7 +4156,6 @@ dunstable
 discolorization
 diluvium
 diadokokinesis
-duodena
 desynapsis
 dells
 dastur
@@ -5525,6 +5524,7 @@ denotement
 directionality
 dalliances
 dictatorship
+duodena
 dyvour
 disilicate
 debunked
