@@ -1341,6 +1341,7 @@ glacon
 gary
 groundling
 gristbite
+gemel
 ging
 ganoine
 granma
@@ -8621,7 +8622,6 @@ galenoid
 gastrolatrous
 gums
 gradational
-gemel
 gonidioid
 gametically
 grandtotal
