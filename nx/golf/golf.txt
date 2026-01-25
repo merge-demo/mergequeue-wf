@@ -4287,7 +4287,6 @@ graveclothes
 goatlike
 gigantesque
 gabfests
-granulate
 glyptotherium
 golo
 goboes
@@ -9911,6 +9910,7 @@ galloots
 gastrologist
 gerygone
 gustless
+granulate
 guanin
 gnathostome
 glandered
