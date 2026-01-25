@@ -4978,7 +4978,6 @@ beehive
 boatel
 bandy
 beek
-balkers
 beekeepers
 baya
 botchily
@@ -5061,6 +5060,7 @@ bedunces
 bronzings
 beetroots
 becarve
+balkers
 beeweed
 beewise
 blackey
