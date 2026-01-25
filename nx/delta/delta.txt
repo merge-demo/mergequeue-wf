@@ -7996,7 +7996,6 @@ dorsibranch
 diductively
 drawpoint
 drunkometer
-dextroglucose
 dihexagonal
 distensive
 dextrolactic
@@ -17652,6 +17651,7 @@ diclinism
 dagame
 debarking
 diapir
+dextroglucose
 dioscorein
 downsteepy
 dualize
