@@ -5014,7 +5014,6 @@ gunned
 grazes
 guilty
 guariba
-glandered
 gurlet
 glittering
 genially
@@ -9913,6 +9912,7 @@ gerygone
 gustless
 guanin
 gnathostome
+glandered
 ghoom
 gradationally
 glycerose

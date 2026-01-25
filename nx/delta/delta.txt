@@ -876,7 +876,6 @@ dashpots
 dextrin
 dewitt
 deducibleness
-decolourised
 dantophilist
 dinned
 daoine
@@ -5206,6 +5205,7 @@ diaheliotropic
 detruncating
 diazoamino
 denitrifier
+decolourised
 diaphorase
 denizenation
 diquats
