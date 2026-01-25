@@ -1590,7 +1590,6 @@ balldom
 balled
 batterer
 baller
-ballerina
 ballet
 brevetcy
 ballgame
@@ -4173,6 +4172,7 @@ bearhug
 backpacker
 babirousa
 bilicyanin
+ballerina
 burmanniaceae
 bearish
 bigoniac
