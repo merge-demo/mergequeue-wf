@@ -7072,7 +7072,6 @@ cavort
 centals
 coolies
 chock
-centaur
 centaurdom
 cuvette
 centaurea
@@ -24861,6 +24860,7 @@ coredeeming
 clemency
 capilliform
 criminosis
+centaur
 cookware
 consularity
 coracomorph
