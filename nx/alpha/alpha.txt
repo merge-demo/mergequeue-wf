@@ -13132,6 +13132,7 @@ achill
 amrita
 alienship
 animi
+antithesize
 anabiosis
 alchymy
 acoustical
@@ -21877,7 +21878,6 @@ aplacophoran
 asbestous
 assistance
 agleam
-antithesize
 alphabet
 assister
 actionary
