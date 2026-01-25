@@ -1095,6 +1095,7 @@ frontons
 farrage
 forums
 foreribs
+finking
 farrago
 franchisement
 flichters
@@ -6176,7 +6177,6 @@ freeholders
 fellness
 fustic
 frances
-finking
 foisonless
 fractal
 fumarates
