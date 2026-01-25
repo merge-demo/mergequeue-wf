@@ -6635,7 +6635,6 @@ calamitoid
 cdf
 carid
 cheroot
-cdg
 cdr
 cesspool
 cosmonaut
@@ -17086,6 +17085,7 @@ crayoned
 cnidoblast
 cnidocil
 cobbed
+cdg
 coexplosion
 cupmate
 cnidopod
