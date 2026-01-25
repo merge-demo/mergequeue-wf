@@ -4777,7 +4777,6 @@ flexibilities
 fumariaceae
 friend
 flatwashes
-foreby
 fishpot
 forefeelingly
 finca
@@ -11737,6 +11736,7 @@ fratority
 futurologist
 fertilizer
 fluorinations
+foreby
 funebrous
 filibustered
 flatland
