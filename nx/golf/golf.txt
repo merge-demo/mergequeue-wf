@@ -5839,6 +5839,7 @@ graffito
 gedact
 gallicisms
 galvanoplastic
+gunl
 gressoria
 gate
 glassily
@@ -7280,7 +7281,6 @@ gormandised
 graycoat
 gascoigny
 grace
-gunl
 gazeful
 gormandize
 glomi
