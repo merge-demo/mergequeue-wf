@@ -3537,7 +3537,6 @@ cosmotheistic
 captacula
 colport
 captain
-captaincy
 caprioled
 captainry
 captainship
@@ -13233,6 +13232,7 @@ cispontine
 concretizing
 commesso
 conscribe
+captaincy
 cyclization
 chimley
 cyclizes
