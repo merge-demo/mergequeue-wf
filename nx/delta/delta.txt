@@ -3706,7 +3706,6 @@ dorsers
 discombobulating
 dactylopterus
 dehache
-dorsoepitrochlear
 dehypnotize
 disorganising
 desuetude
@@ -12896,6 +12895,7 @@ destructor
 dam
 dribblets
 drily
+dorsoepitrochlear
 deposita
 democratization
 dismasted
