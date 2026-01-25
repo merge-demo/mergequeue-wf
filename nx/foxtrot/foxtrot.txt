@@ -4848,7 +4848,6 @@ flo
 flutidae
 furtherest
 fiddleneck
-folkmote
 farcies
 ficche
 feuillage
@@ -9662,6 +9661,7 @@ furuncular
 fleeciest
 freebootery
 freed
+folkmote
 foreimpression
 facete
 franticly
