@@ -1158,7 +1158,6 @@ gippers
 galliferous
 gunung
 gaol
-gulls
 graphometry
 grinners
 glans
@@ -8068,6 +8067,7 @@ gouvernante
 grapnels
 glaucine
 gript
+gulls
 gunstocking
 genys
 gastronomy
