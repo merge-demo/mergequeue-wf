@@ -4558,7 +4558,6 @@ forerigging
 footstool
 fishskin
 foresin
-formidable
 frouzier
 frankenia
 flattercap
@@ -7129,6 +7128,7 @@ fleawort
 forefit
 forebodings
 fons
+formidable
 fauxbourdon
 ferrum
 forgiveness
