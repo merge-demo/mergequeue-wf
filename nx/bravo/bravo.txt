@@ -9700,7 +9700,6 @@ batiste
 benefactions
 burao
 braize
-bulleting
 bisimine
 bisymmetry
 brandyman
@@ -12324,6 +12323,7 @@ bolshevized
 bemud
 bainite
 battologised
+bulleting
 boardwalk
 biabo
 baysmelts
