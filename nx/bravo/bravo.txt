@@ -1663,6 +1663,7 @@ bopper
 britany
 boud
 boyarism
+batswing
 bellyman
 blier
 burletta
@@ -5953,7 +5954,6 @@ bowden
 bechancing
 beden
 backswordmen
-batswing
 basketwork
 bacteriolysis
 bipotentialities
