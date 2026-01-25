@@ -3504,7 +3504,6 @@ deforested
 downheartedness
 draftswoman
 downside
-deform
 diasters
 doughmaker
 droughermen
@@ -7864,6 +7863,7 @@ dhooley
 dinoceras
 dim
 dogsleds
+deform
 deckhands
 diadochokinesis
 dwelling
