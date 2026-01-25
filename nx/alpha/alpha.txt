@@ -8279,6 +8279,7 @@ amini
 adscriptive
 archdapifer
 ayield
+allentato
 agricultor
 autoelectronic
 arcboutant
@@ -8703,7 +8704,6 @@ amsterdam
 acescence
 atwind
 admonishes
-allentato
 alcidae
 alliterates
 await
