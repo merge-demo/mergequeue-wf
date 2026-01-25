@@ -4062,7 +4062,6 @@ gimbawawed
 gelatines
 giantisms
 grubbery
-gastronome
 glonoine
 genitorial
 ghastlily
@@ -5615,6 +5614,7 @@ goller
 giantesque
 girdlecake
 grossular
+gastronome
 graminaceae
 grabman
 geotectonics
