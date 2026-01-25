@@ -4551,7 +4551,6 @@ borocalcite
 bastonite
 bathala
 brutifies
-bemuslined
 becrust
 brecciate
 bewigging
@@ -11809,6 +11808,7 @@ barrens
 bucephala
 biuniquely
 biology
+bemuslined
 beringleted
 backed
 bobstays
