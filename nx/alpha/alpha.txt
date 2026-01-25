@@ -17788,7 +17788,6 @@ airbrushes
 analphabetic
 agent
 angiogenic
-anthranone
 aegialitis
 appose
 antagonized
@@ -21406,6 +21405,7 @@ actinograph
 ambulantes
 anorexies
 asparagin
+anthranone
 apartheid
 anthracitism
 asomatous
