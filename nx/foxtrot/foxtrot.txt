@@ -1306,6 +1306,7 @@ footcandles
 faineants
 fibroblast
 formicide
+fount
 fastgoing
 figurine
 forbidal
@@ -9482,7 +9483,6 @@ freewheeling
 flagpoles
 furacana
 fossors
-fount
 franz
 forkman
 felidae
