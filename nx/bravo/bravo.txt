@@ -4594,6 +4594,7 @@ behavioristic
 butterjags
 bedad
 bedaggle
+brog
 breeding
 backhouses
 berrybush
@@ -7639,7 +7640,6 @@ bimolecular
 baric
 beriberi
 beeyard
-brog
 briefs
 burbankian
 bullocks
