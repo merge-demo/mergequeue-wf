@@ -5130,7 +5130,6 @@ autochanger
 aesopian
 afetal
 apyrexia
-ambilaevous
 aftergrowth
 affaite
 anaxonia
@@ -11225,6 +11224,7 @@ asperated
 alloquy
 anticreeper
 amphitrichate
+ambilaevous
 amphitropous
 anargyros
 amphiumidae
