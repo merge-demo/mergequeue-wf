@@ -1475,6 +1475,7 @@ brightish
 bugler
 balimbing
 bloodthirstiest
+beaming
 bezazz
 bismuthite
 businessese
@@ -6554,7 +6555,6 @@ breadstuff
 bewelcome
 bandit
 bavarois
-beaming
 backplanes
 bagel
 bhagat
