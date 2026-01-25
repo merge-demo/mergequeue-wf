@@ -4198,7 +4198,6 @@ cumber
 cardiologist
 cardiomegaly
 cyclus
-cardiomelanosis
 contradivide
 cardiometer
 cardiometric
@@ -10596,6 +10595,7 @@ conflating
 coruscating
 camoca
 carburise
+cardiomelanosis
 choledochotomy
 categorizes
 convivial
