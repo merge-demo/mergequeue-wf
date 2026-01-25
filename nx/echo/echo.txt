@@ -3337,7 +3337,6 @@ elute
 elution
 esthesiometric
 enzymatically
-effuso
 epirotulian
 eldermen
 encamping
@@ -12036,6 +12035,7 @@ enamelled
 epidialogue
 exclusivistic
 encaustes
+effuso
 exclusivity
 effluents
 egomaniac
