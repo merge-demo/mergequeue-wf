@@ -2745,7 +2745,6 @@ elaeopten
 electrothermal
 ephippial
 emulsoidal
-essed
 ericolin
 exercise
 emanations
@@ -13662,6 +13661,7 @@ echoes
 ecyphellate
 ensuring
 extenuates
+essed
 enchanted
 empicture
 elastin
