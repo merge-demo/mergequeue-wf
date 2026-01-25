@@ -3237,7 +3237,6 @@ catenated
 cerebrally
 cohosted
 cumly
-capital
 chevronny
 capitaldom
 capitaled
@@ -21478,6 +21477,7 @@ crowfoot
 congius
 coigned
 circulin
+capital
 chilostomata
 cycloserine
 counterfeiting
