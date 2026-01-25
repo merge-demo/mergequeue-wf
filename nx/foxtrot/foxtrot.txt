@@ -6533,7 +6533,6 @@ foliates
 ferforth
 fireflower
 flibbertigibbet
-fripperer
 finishers
 flayer
 freshish
@@ -7905,6 +7904,7 @@ focusing
 fatiguable
 fellen
 fliping
+fripperer
 fratricides
 fencible
 flagellating
