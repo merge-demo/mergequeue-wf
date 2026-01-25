@@ -1745,7 +1745,6 @@ endogenicity
 electrolyzable
 ejaculating
 enjoy
-enterosyphilis
 employ
 embossing
 electrotypist
@@ -11607,6 +11606,7 @@ extypal
 eperva
 extraburghal
 embrittled
+enterosyphilis
 edea
 errantness
 evocator
