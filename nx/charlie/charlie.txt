@@ -5064,7 +5064,6 @@ carving
 carvoeira
 carvoepra
 carwash
-carwashes
 carzey
 casablanca
 casalty
@@ -9896,6 +9895,7 @@ chemoserotherapy
 chemosynthesis
 chemosynthetic
 chemosmoses
+carwashes
 chemosmotic
 consumptible
 calpacks
