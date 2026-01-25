@@ -1169,7 +1169,6 @@ cliffside
 culturology
 chinnam
 cufflinks
-calcspars
 cotwal
 chilopoda
 calculability
@@ -10314,6 +10313,7 @@ cheremiss
 caulerpaceous
 camorras
 chickenheartedness
+calcspars
 chickening
 cantharidal
 chickenpox
