@@ -6513,7 +6513,6 @@ descendable
 descendants
 dimensioned
 dipeptid
-drawglove
 denizenship
 disqualification
 delignated
@@ -14932,6 +14931,7 @@ dodgily
 destroyingly
 disquarter
 dripple
+drawglove
 desulfured
 daisied
 digressed
