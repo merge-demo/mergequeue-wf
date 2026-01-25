@@ -1888,6 +1888,7 @@ betula
 bedtick
 bancus
 beethoven
+beforehandedness
 backstabber
 bandelette
 banderol
@@ -11369,7 +11370,6 @@ bespoused
 blowtorches
 bromos
 beadrow
-beforehandedness
 byroad
 bls
 blub

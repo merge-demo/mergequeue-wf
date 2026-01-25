@@ -6809,7 +6809,6 @@ dietzeite
 desiredly
 distruster
 drachma
-daira
 desires
 dihedrons
 desirous
@@ -16761,6 +16760,7 @@ dyscrasial
 detritivorous
 dichroscopic
 diprimary
+daira
 drawbore
 deare
 dissenters
