@@ -16224,7 +16224,6 @@ boneflower
 bdellidae
 bidarka
 balklines
-bulla
 brimstony
 bayonetted
 bred
@@ -18129,6 +18128,7 @@ blockading
 boisseaux
 balsamize
 biffins
+bulla
 blok
 boundly
 bullyboy
