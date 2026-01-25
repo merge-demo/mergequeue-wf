@@ -5599,7 +5599,6 @@ exuvium
 evader
 estimably
 endaortic
-endogens
 epiklesis
 embryulcus
 essexite
@@ -5927,6 +5926,7 @@ electrometallurgy
 exocytosis
 endsweep
 enharden
+endogens
 eurytopicity
 exoenzymic
 embuskin
