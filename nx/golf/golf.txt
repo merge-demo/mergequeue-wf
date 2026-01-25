@@ -3051,7 +3051,6 @@ gulfiest
 gossipper
 giant
 gnash
-glaciologists
 graphiter
 greensauce
 gamelin
@@ -6920,6 +6919,7 @@ gilders
 gambette
 groupthink
 grimnesses
+glaciologists
 germany
 greekdom
 gharry
