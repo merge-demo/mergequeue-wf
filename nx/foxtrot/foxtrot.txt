@@ -3949,7 +3949,6 @@ frequencies
 fortyfive
 fellowshiping
 fecundating
-ferocactus
 financer
 farci
 fripperies
@@ -4704,6 +4703,7 @@ forcipes
 foresaying
 fasciotomy
 fleckless
+ferocactus
 fruiteries
 fruitgrowing
 firca
