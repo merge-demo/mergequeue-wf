@@ -1451,6 +1451,7 @@ gashing
 grandgore
 guttulate
 glazen
+greedily
 gallinazo
 gemologists
 gn
@@ -2190,7 +2191,6 @@ gecarcinidae
 gynaecologist
 glaziers
 garrotte
-greedily
 grough
 gunyeh
 graphanalysis
