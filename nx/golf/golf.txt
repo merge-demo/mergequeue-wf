@@ -3805,7 +3805,6 @@ gars
 giantship
 garrafa
 gombroon
-gerberas
 gumchewer
 grockle
 gapping
@@ -8882,6 +8881,7 @@ glastonbury
 geopotential
 garboard
 grieved
+gerberas
 gateless
 guiltful
 gorhen

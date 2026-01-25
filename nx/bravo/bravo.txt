@@ -12517,7 +12517,6 @@ barrettes
 bechase
 barde
 bells
-bourdon
 bescrawl
 booklists
 bisymmetrically
@@ -16857,6 +16856,7 @@ budgies
 bellerophontidae
 brachylogies
 budging
+bourdon
 budh
 bronc
 beseecher
