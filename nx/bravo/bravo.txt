@@ -9081,7 +9081,6 @@ bureaucratize
 bize
 bitentaculate
 busheler
-barbershop
 biasses
 burnouts
 boldface
@@ -16659,6 +16658,7 @@ bacillary
 bewitchful
 bracings
 buenos
+barbershop
 burbler
 buccaneerish
 buccaning
