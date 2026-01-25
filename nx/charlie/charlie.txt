@@ -11744,7 +11744,6 @@ connaturally
 chondrites
 chondritic
 chondroalbuminoid
-chondroangioma
 coexchangeable
 countercouchant
 contestant
@@ -23757,6 +23756,7 @@ contraregularity
 centrisciform
 cobblestones
 conductimeter
+chondroangioma
 contraremonstrance
 contrariant
 contraries
