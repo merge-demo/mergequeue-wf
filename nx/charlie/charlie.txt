@@ -2213,7 +2213,6 @@ campong
 convincing
 counterclaiming
 cocculus
-camponotus
 counterhammering
 campos
 craggedness
@@ -13024,6 +13023,7 @@ cantrap
 controverting
 cyanoethylation
 crumbable
+camponotus
 crates
 cyanoguanidine
 cyanohermidin
