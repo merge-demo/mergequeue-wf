@@ -737,7 +737,6 @@ gustfulness
 gangrened
 galvanology
 geomechanics
-goumi
 gastrocolotomy
 gansa
 gestapos
@@ -5295,6 +5294,7 @@ galvanism
 geomedicine
 gurish
 gossypine
+goumi
 garish
 gordiid
 galoubet
