@@ -3111,7 +3111,6 @@ discolith
 diseaseful
 daubing
 dentated
-dines
 dislade
 defamed
 dilogical
@@ -5330,6 +5329,7 @@ drumlin
 distitle
 dentalium
 dolor
+dines
 dentatoserrate
 decennary
 damnii
