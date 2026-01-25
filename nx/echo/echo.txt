@@ -179,6 +179,7 @@ enable
 emeutes
 emargination
 equivalencies
+exiling
 expired
 eyed
 effervescent
@@ -9084,7 +9085,6 @@ electrocardiographs
 evaginating
 euchring
 emphatic
-exiling
 epicardiac
 evildoing
 entria
