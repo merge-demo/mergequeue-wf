@@ -5679,7 +5679,6 @@ glaciometer
 grandsons
 glorying
 gobbledegook
-gatemen
 gant
 grippelike
 grate
@@ -8413,6 +8412,7 @@ genro
 guisards
 glossophagine
 gargety
+gatemen
 guns
 gasifiable
 gasterosteiform
