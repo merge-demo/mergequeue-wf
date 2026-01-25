@@ -2276,7 +2276,6 @@ effluve
 endoperitonitis
 endoplasma
 epiphyllospermous
-eyehook
 epigonos
 elks
 encell
@@ -10755,6 +10754,7 @@ enveloper
 exceptious
 eumitotic
 eva
+eyehook
 esophago
 eelgrasses
 euglenaceae
