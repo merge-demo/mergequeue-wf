@@ -741,7 +741,6 @@ foraminulose
 flumerin
 filberts
 flingdust
-farset
 frapping
 flagroot
 foreclosed
@@ -10893,6 +10892,7 @@ fluxweed
 flamefish
 furoin
 formelt
+farset
 fishpool
 forficate
 fulminated
