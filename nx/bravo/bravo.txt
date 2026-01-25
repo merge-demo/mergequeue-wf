@@ -1616,7 +1616,6 @@ boviform
 beknighting
 brummagem
 broomsticks
-bimetalism
 ballyhoo
 ballyrags
 ballised
@@ -16697,6 +16696,7 @@ brilliantined
 branchiata
 bardlet
 butterscotch
+bimetalism
 bastille
 blacking
 blanketeer
