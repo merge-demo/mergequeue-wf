@@ -2171,7 +2171,6 @@ embryologists
 elated
 etherealise
 epitria
-electrosurgical
 exophthalmia
 endleaf
 enfoil
@@ -10856,6 +10855,7 @@ erinaceus
 epithem
 extrazodiacal
 euskera
+electrosurgical
 esterases
 eluviation
 epitactic
