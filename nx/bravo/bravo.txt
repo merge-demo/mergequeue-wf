@@ -2389,7 +2389,6 @@ blaunner
 bebite
 bones
 biolysis
-belligerency
 binous
 bachelorlike
 barbula
@@ -8799,6 +8798,7 @@ binaphthyl
 bletia
 bribetaking
 binaries
+belligerency
 bodysuit
 bulginess
 berghaan
