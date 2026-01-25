@@ -5143,7 +5143,6 @@ galvanocautery
 gill
 greesagh
 graded
-glaky
 ginnel
 glycocholic
 gasless
@@ -10328,6 +10327,7 @@ gymnostomous
 gigantostraca
 gloomed
 guillotinade
+glaky
 gul
 gaming
 gladiest
