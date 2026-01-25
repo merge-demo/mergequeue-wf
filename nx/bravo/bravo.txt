@@ -9405,6 +9405,7 @@ bisectrix
 beheads
 basketballer
 bimah
+basis
 brachiotomy
 bituminise
 barfy
@@ -11503,7 +11504,6 @@ biliteralism
 besetter
 bolthead
 bluetit
-basis
 bullhoof
 bejade
 bluetongue
