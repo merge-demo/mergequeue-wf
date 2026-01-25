@@ -1672,6 +1672,7 @@ bribri
 ballottement
 backlotter
 baronage
+baccaras
 barmaids
 bahamian
 ballottines
@@ -9361,7 +9362,6 @@ barkers
 birchers
 bewater
 birchwood
-baccaras
 bromidrosis
 benzoxyphenanthrene
 bindweb
