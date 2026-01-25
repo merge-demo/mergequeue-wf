@@ -6155,6 +6155,7 @@ buyout
 babyolatry
 brushlike
 belgas
+bichrome
 behusband
 bendies
 bends
@@ -11564,7 +11565,6 @@ barotaxis
 birthday
 betaxed
 birdman
-bichrome
 boca
 bemurmurs
 bandaid
