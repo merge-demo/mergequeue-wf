@@ -2799,7 +2799,6 @@ gazettal
 gormless
 glassophone
 glutition
-gloiopeltis
 guilloche
 gentiobiose
 guardianess
@@ -5999,6 +5998,7 @@ gastroenterocolostomy
 gibetting
 gadgeteer
 glossoplasty
+gloiopeltis
 glyceryl
 gunmanship
 guanabana
