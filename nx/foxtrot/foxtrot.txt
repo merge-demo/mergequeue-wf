@@ -426,6 +426,7 @@ facets
 faceoff
 forced
 fancifully
+felaheen
 fairground
 fairy
 foresettle
@@ -10462,7 +10463,6 @@ fry
 fluther
 forgivers
 fecundities
-felaheen
 frontignan
 fucate
 fetologies
