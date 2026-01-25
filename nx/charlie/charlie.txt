@@ -4683,7 +4683,6 @@ chaser
 carneol
 cursoria
 chinas
-cricothyroidean
 companero
 complicatedness
 chwana
@@ -17225,6 +17224,7 @@ condottieri
 coaggregation
 cladophoraceae
 coagitator
+cricothyroidean
 coagment
 chenopods
 cleptobiotic
