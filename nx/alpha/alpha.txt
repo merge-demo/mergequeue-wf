@@ -13628,7 +13628,6 @@ antrum
 avatar
 anathematizing
 anomalism
-anomalist
 aromatite
 andor
 asiatic
@@ -25342,6 +25341,7 @@ azorubine
 assamites
 aldermanic
 acylation
+anomalist
 aurantia
 agonising
 antiblue
