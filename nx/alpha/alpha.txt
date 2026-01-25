@@ -10939,7 +10939,6 @@ allowanced
 aubade
 artiodactyl
 apostolic
-aulostomid
 amazonism
 amotus
 adjectivally
@@ -20418,6 +20417,7 @@ avowe
 antalgic
 anguished
 ameliorable
+aulostomid
 adoxy
 antiwit
 adorably
