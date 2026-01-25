@@ -2831,7 +2831,6 @@ gryde
 gunbright
 ganoidei
 geolinguistics
-gnathobasic
 grippe
 gentrices
 gulleries
@@ -9126,6 +9125,7 @@ guajira
 glads
 gappy
 galactidrosis
+gnathobasic
 goldwork
 geoid
 gastrocnemius
