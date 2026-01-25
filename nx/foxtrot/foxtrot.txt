@@ -4337,7 +4337,6 @@ fluorane
 flaxbird
 fatten
 fax
-flatterers
 frenzying
 fission
 fraist
@@ -6231,6 +6230,7 @@ feverberry
 flicker
 fervidity
 freighter
+flatterers
 familiarised
 frettation
 filical
