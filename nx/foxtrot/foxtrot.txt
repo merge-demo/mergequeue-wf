@@ -2399,7 +2399,6 @@ firecoat
 featherstitching
 fableist
 fablers
-frequently
 filmable
 flanneled
 fencelike
@@ -3563,6 +3562,7 @@ fulnesses
 forbare
 foe
 fluosilicic
+frequently
 ficins
 fordays
 foetalism

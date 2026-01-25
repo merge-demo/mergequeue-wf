@@ -4375,7 +4375,6 @@ chaussee
 consecrated
 caricology
 crisper
-caricologist
 cowlstaff
 caricous
 craker
@@ -13167,6 +13166,7 @@ cystoflagellata
 cicatrisive
 commonership
 cicatrizate
+caricologist
 caudicle
 canalize
 cicatrization
