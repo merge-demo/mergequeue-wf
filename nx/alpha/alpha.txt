@@ -6340,6 +6340,7 @@ ancylostoma
 afro
 apostoile
 archimedean
+ammoniemia
 automatograph
 agriot
 allogeneic
@@ -9966,7 +9967,6 @@ allodia
 amblycephalus
 amblydactyla
 aedeagi
-ammoniemia
 agarita
 amblygonal
 allergology
