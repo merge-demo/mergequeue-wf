@@ -6726,6 +6726,7 @@ fatuousness
 farmeress
 flowchart
 flies
+freinage
 fecche
 fantaseid
 flannelet
@@ -10831,7 +10832,6 @@ feuars
 footsoldiers
 finitive
 fanned
-freinage
 factualistic
 flue
 fubbery
