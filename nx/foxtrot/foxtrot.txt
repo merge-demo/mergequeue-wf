@@ -1385,7 +1385,6 @@ forfars
 frock
 fossiform
 flaggish
-fanning
 fatigue
 fossicks
 forwear
@@ -1996,6 +1995,7 @@ forthcoming
 forfeitures
 finest
 fothergilla
+fanning
 fenland
 foreteller
 fancy

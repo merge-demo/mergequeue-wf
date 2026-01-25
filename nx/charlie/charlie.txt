@@ -7046,7 +7046,6 @@ cisalpine
 censored
 cytomorphosis
 censorian
-censoring
 censoriously
 commercialise
 censoriousness
@@ -30947,6 +30946,7 @@ cleidotomy
 cumara
 cuvage
 chromoplastid
+censoring
 consumptiveness
 convolves
 congeries
