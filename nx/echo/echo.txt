@@ -11423,6 +11423,7 @@ emergers
 erysiphaceae
 expulsatory
 ethnohistory
+exothermicity
 effeir
 electrodesiccation
 evenforth
@@ -11982,7 +11983,6 @@ excises
 excystment
 effectuous
 encinal
-exothermicity
 endurance
 enlist
 epithecate
