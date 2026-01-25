@@ -1986,7 +1986,6 @@ believes
 baahling
 beworms
 bandwidth
-bandworm
 boogiewoogie
 boshbok
 baylet
@@ -17034,6 +17033,7 @@ bulbule
 blazoner
 bedarkening
 baaing
+bandworm
 bulgari
 brachycranial
 bulge
