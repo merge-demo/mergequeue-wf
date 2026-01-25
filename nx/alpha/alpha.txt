@@ -1298,6 +1298,7 @@ aerognosy
 australopithecine
 ails
 acarpelous
+amyotrophic
 arrowy
 augitic
 antisceptic
@@ -11740,7 +11741,6 @@ anamniotic
 abas
 annoying
 antispasmodics
-amyotrophic
 appulsion
 analogy
 analogic
