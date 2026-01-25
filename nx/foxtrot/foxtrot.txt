@@ -2496,7 +2496,6 @@ falla
 filechar
 fornax
 fezzan
-fungal
 forepreparation
 foliocellosis
 freethink
@@ -3861,6 +3860,7 @@ flawiest
 fizzer
 fortifiers
 fillingly
+fungal
 flyflap
 freon
 ferritization
