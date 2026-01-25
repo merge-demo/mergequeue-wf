@@ -2391,6 +2391,7 @@ flaw
 fra
 fiftyfold
 footstalk
+fig
 foalfoot
 formalizing
 fer
@@ -3926,7 +3927,6 @@ fraenum
 fireflirt
 farleu
 fimbrillate
-fig
 flowerlet
 flabbergastingly
 flinch
