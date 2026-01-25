@@ -451,6 +451,7 @@ gearset
 guardedly
 gymnospore
 genethlic
+gonocoel
 genyoplasty
 gormandising
 guahiban
@@ -4721,7 +4722,6 @@ grego
 goring
 guaranteeship
 grudge
-gonocoel
 glutin
 gynander
 gustable
