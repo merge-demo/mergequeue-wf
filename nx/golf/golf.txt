@@ -2966,6 +2966,7 @@ grenadian
 grocerymen
 guayules
 gaolering
+goldminer
 geographies
 graymalkin
 gressorial
@@ -3265,7 +3266,6 @@ goodhearted
 grainedness
 genuses
 graphophone
-goldminer
 graywacke
 glucemia
 geometrising
