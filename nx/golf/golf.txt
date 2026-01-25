@@ -3303,6 +3303,7 @@ guland
 glossaries
 gerfalcon
 gnathostomi
+guarachas
 gudesake
 gynaecol
 gahnites
@@ -7972,7 +7973,6 @@ gliriform
 gynecopathic
 gentianales
 gulosities
-guarachas
 gooseberries
 grandad
 glandula
