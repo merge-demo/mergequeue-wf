@@ -5565,6 +5565,7 @@ anchoritically
 absorptivity
 aphototaxis
 aftervision
+announce
 actinomycoma
 afterwale
 afterward
@@ -13478,7 +13479,6 @@ assonant
 atwain
 allo
 acidimetric
-announce
 anding
 anthropophagical
 announced
