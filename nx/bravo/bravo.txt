@@ -9260,7 +9260,6 @@ bicycler
 bobbinet
 besting
 biphenylene
-biphenol
 bashfulness
 bipinnariae
 bastnasite
@@ -11901,6 +11900,7 @@ boyishly
 bara
 beerbibber
 bodybuilding
+biphenol
 bodice
 brainwashers
 bogged
