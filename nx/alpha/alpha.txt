@@ -4513,6 +4513,7 @@ aranein
 amania
 arbutin
 agglomerator
+anamniote
 alburnums
 anima
 accumulable
@@ -21613,7 +21614,6 @@ acridine
 avifaunally
 antihierarchist
 antu
-anamniote
 approvable
 asquint
 anallagmatis
