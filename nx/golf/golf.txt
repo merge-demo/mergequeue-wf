@@ -4669,7 +4669,6 @@ griggles
 graphometer
 gaonic
 gamori
-gentrice
 gammick
 gironny
 gyronny
@@ -6795,6 +6794,7 @@ goodwill
 gibel
 gravilea
 gonochorismal
+gentrice
 gnarling
 geryonia
 gonk
