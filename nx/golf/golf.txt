@@ -4654,7 +4654,6 @@ gallup
 greenheart
 galvanise
 gorillaship
-glamorized
 gyrostabilized
 goatbush
 gurk
@@ -8844,6 +8843,7 @@ gravisphere
 grossest
 gauntleting
 germain
+glamorized
 galleys
 gallus
 globate
