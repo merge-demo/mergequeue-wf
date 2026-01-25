@@ -13425,7 +13425,6 @@ bellicosity
 bombyxes
 bunder
 bothnian
-bothnic
 batteled
 bawn
 bulletproofs
@@ -17208,6 +17207,7 @@ blksize
 brid
 baccillum
 brodee
+bothnic
 broad
 boffo
 britishly
