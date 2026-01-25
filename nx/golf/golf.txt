@@ -5047,7 +5047,6 @@ gauls
 girasoles
 gleetiest
 ganders
-grovels
 garibaldi
 genesiology
 grotesquerie
@@ -8954,6 +8953,7 @@ gras
 galeopithecus
 gagger
 grieko
+grovels
 glossopalatinus
 gyration
 gurgulation
