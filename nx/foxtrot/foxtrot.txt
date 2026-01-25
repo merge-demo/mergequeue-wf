@@ -1914,6 +1914,7 @@ flintier
 foredoom
 footstep
 fourdrinier
+finalize
 fibrinokinase
 flamboyantize
 faradizing
@@ -6098,7 +6099,6 @@ flashness
 fantasied
 fructiculose
 floorcloths
-finalize
 fumid
 fibrillate
 fluidizing

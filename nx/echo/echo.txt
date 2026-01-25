@@ -11966,7 +11966,6 @@ exairesis
 esthesis
 exponents
 endemic
-effaceable
 electrooptical
 ecoid
 extracostal
@@ -13286,6 +13285,7 @@ ety
 edgemaker
 endemical
 ethize
+effaceable
 edacity
 endocranium
 ephebeum
