@@ -5787,6 +5787,7 @@ expressions
 enneahedral
 envelopment
 extirp
+elbowchair
 englut
 emhpasizing
 encored
@@ -6544,7 +6545,6 @@ expeditor
 elementariness
 ephelis
 euphratean
-elbowchair
 essayistical
 exstruct
 euphonicalness
