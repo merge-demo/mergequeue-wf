@@ -5762,7 +5762,6 @@ grecizes
 geometrical
 gloomth
 gradin
-gleeds
 graveolence
 grimmish
 gloomy
@@ -8939,6 +8938,7 @@ gynospore
 glossemes
 grandparent
 gibbets
+gleeds
 galesaur
 gaffe
 gigi

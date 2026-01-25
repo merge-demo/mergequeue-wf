@@ -1675,7 +1675,6 @@ backlotter
 baronage
 barmaids
 bahamian
-byelorussians
 ballottines
 bathwort
 ballpark
@@ -13072,6 +13071,7 @@ bardship
 bevomit
 borani
 buddleias
+byelorussians
 borasca
 barouchet
 blether
