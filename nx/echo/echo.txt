@@ -3943,6 +3943,7 @@ equalness
 eels
 enalid
 exede
+etypical
 epiglottis
 endexine
 emissory
@@ -10146,7 +10147,6 @@ econometer
 eyecups
 ensorcelize
 easter
-etypical
 erythrosin
 etheostominae
 elytroid
