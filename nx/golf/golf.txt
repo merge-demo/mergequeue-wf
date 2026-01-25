@@ -484,7 +484,6 @@ gye
 glaucodot
 grama
 ghostism
-geminations
 gnomes
 geomorphology
 galimatias
@@ -8641,6 +8640,7 @@ glided
 goldanged
 gimbaling
 grantha
+geminations
 grauwacke
 gap
 germanized
