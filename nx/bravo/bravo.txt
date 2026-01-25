@@ -12639,7 +12639,6 @@ bardane
 bonk
 begrudging
 bagpiping
-bonne
 baobab
 bubbly
 bonnet
@@ -15850,6 +15849,7 @@ bronzy
 broigne
 blueprinting
 broiled
+bonne
 bastide
 bullaria
 blare
