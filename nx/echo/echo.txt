@@ -5828,7 +5828,6 @@ embolization
 eburnated
 engoument
 elaeothesium
-evade
 extogenous
 emulatory
 efficace
@@ -13334,6 +13333,7 @@ egency
 escandalize
 estoile
 eminences
+evade
 exarchic
 ethicalities
 execrator
