@@ -1135,7 +1135,6 @@ groupment
 gunpowder
 granddam
 gander
-gravamens
 gamasidae
 guava
 gantelope
@@ -5848,6 +5847,7 @@ goofier
 gastrostomies
 glucinums
 gangflower
+gravamens
 graders
 guiles
 giggle
