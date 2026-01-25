@@ -6689,7 +6689,6 @@ enantiomeric
 ekistic
 elephantlike
 emmarbling
-enterohydrocele
 ethologic
 embolomeri
 elevation
@@ -10360,6 +10359,7 @@ emulsifiability
 ethylamine
 extralite
 elevatedly
+enterohydrocele
 ecclesiology
 elapses
 ectotherm
