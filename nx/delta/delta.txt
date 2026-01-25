@@ -1027,6 +1027,7 @@ deflectors
 demain
 destandardize
 dizdar
+decipium
 devs
 diplohedral
 dreamt
@@ -2468,7 +2469,6 @@ dacryopyosis
 deciphering
 dunghill
 destrudo
-decipium
 diplodocus
 delusory
 dipyre
