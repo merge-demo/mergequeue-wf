@@ -2171,7 +2171,6 @@ enfoil
 exterminatress
 enanthematous
 esophagostenosis
-ensorceling
 electropult
 euphonise
 enrib
@@ -5161,6 +5160,7 @@ electroosmotic
 epiclinal
 euphorbiaceae
 extrapolate
+ensorceling
 exflagellate
 endoenzyme
 epitrochoid
