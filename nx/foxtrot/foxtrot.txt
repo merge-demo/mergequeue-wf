@@ -7873,7 +7873,6 @@ feronia
 fulgoridae
 forenoons
 florists
-florette
 fluidimeter
 fishbolt
 frontier
@@ -9655,6 +9654,7 @@ final
 furuncular
 fleeciest
 freebootery
+florette
 freed
 folkmote
 foreimpression
