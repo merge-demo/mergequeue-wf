@@ -7465,6 +7465,7 @@ duodrama
 dervish
 diplomatists
 doebird
+defended
 darbha
 diplegic
 dich
@@ -16263,7 +16264,6 @@ douche
 discredits
 dispeace
 downriver
-defended
 didelphidae
 downshift
 diagnostically
