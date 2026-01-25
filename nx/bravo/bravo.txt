@@ -806,7 +806,6 @@ beduke
 baffleplate
 branchiopoo
 bibliophagist
-bouses
 baffler
 benjamins
 biffed
@@ -12160,6 +12159,7 @@ bokom
 bolag
 bolas
 bedell
+bouses
 bartsia
 basiglandular
 barthian
