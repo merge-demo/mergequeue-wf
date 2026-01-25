@@ -1941,6 +1941,7 @@ disobeys
 dreader
 disulfuret
 decatize
+disleafed
 depressant
 dobla
 deckload
@@ -8839,7 +8840,6 @@ diazin
 drayman
 death
 decolonize
-disleafed
 droners
 deuterodome
 diazins
