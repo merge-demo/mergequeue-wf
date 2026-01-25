@@ -3222,7 +3222,6 @@ glenn
 gio
 genetous
 golilla
-greatheartedness
 gambled
 gory
 gauche
@@ -10672,6 +10671,7 @@ glottologist
 gastroduodenotomy
 gingerwork
 gapes
+greatheartedness
 gabi
 grog
 gelatinobromide
