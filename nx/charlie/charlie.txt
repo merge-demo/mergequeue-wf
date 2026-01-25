@@ -2988,7 +2988,6 @@ cakile
 chare
 commensal
 chamberlains
-cingular
 capsulae
 cuthbert
 contradistinction
@@ -19411,6 +19410,7 @@ contestability
 colorific
 colorifics
 colorimeter
+cingular
 colorimetrically
 canman
 colorimetrics
