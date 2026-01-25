@@ -17930,6 +17930,7 @@ codling
 classlessness
 canafistola
 codman
+chromosome
 contingentiam
 chants
 codominant
@@ -28383,7 +28384,6 @@ cuisses
 crazyweed
 cosharer
 canzo
-chromosome
 crche
 chorioidoretinitis
 cenchrus
