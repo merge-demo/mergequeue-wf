@@ -4044,7 +4044,6 @@ carcinomatous
 carcinomorphic
 cholericness
 carcinophagous
-carcinopolypus
 carcinosarcoma
 coloreds
 chinanta
@@ -15988,6 +15987,7 @@ clerid
 chicaning
 ceder
 comfrey
+carcinopolypus
 clerihews
 curricularize
 certifiably
