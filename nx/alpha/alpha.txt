@@ -10326,6 +10326,7 @@ absurdum
 ametrope
 antshrike
 afterbirths
+alvan
 alcade
 aminophylline
 archispore
@@ -11247,7 +11248,6 @@ aircrewman
 ascaridol
 antonina
 ampyxes
-alvan
 amphigaean
 antichresis
 amigas
