@@ -3810,6 +3810,7 @@ giantship
 garrafa
 gombroon
 gerberas
+gumchewer
 grockle
 gapping
 goggle
@@ -5438,7 +5439,6 @@ gapper
 glynn
 graynesses
 groundflower
-gumchewer
 goodlier
 gasalier
 galoshe
