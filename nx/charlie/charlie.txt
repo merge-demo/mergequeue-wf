@@ -17553,7 +17553,6 @@ cobleman
 cuttings
 crampette
 chapping
-coblentzian
 cobleskill
 cobloaf
 cobola
@@ -31060,6 +31059,7 @@ cunctator
 corallus
 censed
 cund
+coblentzian
 conjecturality
 cundeamor
 comminatory
