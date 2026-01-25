@@ -14503,7 +14503,6 @@ alveolitis
 areas
 avesta
 aestival
-antireality
 anthropopathically
 anteclassical
 achenodia
@@ -22591,6 +22590,7 @@ anisognathous
 ateloprosopia
 acoenaesthesia
 axifera
+antireality
 astrict
 acquisitiveness
 apoaconitine
