@@ -1411,6 +1411,7 @@ afforests
 armonica
 anophthalmos
 allotriodontia
+aphodian
 avestruz
 acceptee
 actinomycotic
@@ -14614,7 +14615,6 @@ antimetathetic
 antianopheline
 akim
 antorbital
-aphodian
 apothecial
 amphitokous
 antiantibody

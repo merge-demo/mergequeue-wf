@@ -1174,7 +1174,6 @@ equivalved
 eupatrid
 editorship
 editorships
-electropotential
 elasticness
 equatability
 enchiridions
@@ -7562,6 +7561,7 @@ eunomy
 exemplifiers
 ethrog
 epilimnionia
+electropotential
 everywhence
 ensheathed
 eidology
