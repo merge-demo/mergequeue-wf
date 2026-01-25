@@ -18805,7 +18805,6 @@ aroma
 appliance
 archflamen
 archfoe
-ancestresses
 aedoeagus
 angloid
 ancientism
@@ -19286,6 +19285,7 @@ anthraquinonyl
 apocalyptical
 appoggiature
 alberca
+ancestresses
 aristas
 absentmindedly
 arabesque
