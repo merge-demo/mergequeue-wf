@@ -9670,7 +9670,6 @@ entogastric
 esoterist
 evildoers
 euryon
-ensearch
 edicule
 esoterize
 esp
@@ -11781,6 +11780,7 @@ esc
 eponychium
 equipluve
 eveque
+ensearch
 episcopise
 ensurer
 easier
