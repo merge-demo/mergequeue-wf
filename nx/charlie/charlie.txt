@@ -3655,7 +3655,6 @@ caracoller
 cosmopolitanize
 colarin
 chivied
-caracolling
 caracora
 caractacus
 caradoc
@@ -23507,6 +23506,7 @@ constatations
 contex
 context
 contexts
+caracolling
 contextualize
 crocketing
 claybanks
