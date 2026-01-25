@@ -3835,7 +3835,6 @@ farandman
 fibrocystic
 futilous
 flecky
-frenchify
 foreflipper
 filmet
 filmgoers
@@ -5197,6 +5196,7 @@ fas
 forvay
 forelay
 flinches
+frenchify
 frontsman
 forewent
 faldistory
