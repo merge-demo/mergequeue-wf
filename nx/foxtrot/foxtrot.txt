@@ -3476,6 +3476,7 @@ frillers
 foresters
 flowcharts
 fudging
+fonctionnaire
 flincher
 febricity
 fiascoes
@@ -10448,7 +10449,6 @@ flimflamming
 foud
 fungite
 flusterment
-fonctionnaire
 fry
 fluther
 forgivers
