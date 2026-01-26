@@ -769,7 +769,6 @@ dishonorable
 dungeon
 deckhead
 daneweed
-dangerously
 dactyliomancy
 diabrotic
 diverging
@@ -10843,6 +10842,7 @@ dipsomaniacs
 diestrual
 deepsome
 demonography
+dangerously
 daintiest
 diploperistomic
 disrest
