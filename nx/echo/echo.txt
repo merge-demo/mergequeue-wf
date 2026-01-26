@@ -853,6 +853,7 @@ ears
 epispadias
 euglenidae
 epizoa
+epiphytal
 erringly
 eclectically
 epilepsia
@@ -2548,7 +2549,6 @@ ephemeromorph
 ensete
 entozoic
 ela
-epiphytal
 encastage
 emptiest
 eyelid
