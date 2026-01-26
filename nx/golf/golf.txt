@@ -8395,6 +8395,7 @@ granulize
 glottalite
 glittery
 gibblegable
+gelatinous
 gulled
 gripy
 gravest
@@ -9809,7 +9810,6 @@ gavel
 gasworks
 gradino
 goonda
-gelatinous
 greasepaint
 galvanocauteries
 giantess
