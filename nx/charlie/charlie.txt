@@ -4501,6 +4501,7 @@ courages
 cashoo
 carloading
 chinner
+cire
 colubrina
 combatants
 carlock
@@ -16731,7 +16732,6 @@ clothespins
 centroplasm
 chokecherries
 clothespresses
-cire
 clothiers
 clothings
 catharpin
