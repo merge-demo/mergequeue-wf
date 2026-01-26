@@ -181,7 +181,6 @@ factionistism
 fibrointestinal
 fusteric
 furrure
-fluellin
 fabulous
 fourquine
 factiously
@@ -2527,6 +2526,7 @@ foretellable
 finale
 foamlike
 foredetermine
+fluellin
 fernyear
 furison
 fordo
