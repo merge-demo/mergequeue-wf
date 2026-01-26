@@ -5174,7 +5174,6 @@ ergotist
 enlodge
 enterovirus
 eastings
-enigmatize
 epilithic
 endogenae
 enshrine
@@ -6755,6 +6754,7 @@ entertainingly
 entertainment
 elaborately
 enmuffle
+enigmatize
 endosepsis
 epicenters
 emunge
