@@ -7131,6 +7131,7 @@ botanists
 boyos
 berries
 bawdiness
+bistorts
 bespell
 bespelled
 bespend
@@ -9804,7 +9805,6 @@ bisubstitution
 bistipulate
 bistort
 bedarkened
-bistorts
 bewrap
 bradylexia
 baronetage
