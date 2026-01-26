@@ -663,6 +663,7 @@ drynesses
 danaine
 detainer
 dipppy
+desalting
 damasking
 deerskin
 dragshoe
@@ -10957,7 +10958,6 @@ diathermometer
 demonologic
 doddart
 debaters
-desalting
 decerebrize
 dereference
 disassembling
