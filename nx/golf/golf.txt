@@ -4473,6 +4473,7 @@ gleba
 gondang
 galloman
 gametes
+goodnesses
 gaultherine
 gipon
 gaetulan
@@ -7208,7 +7209,6 @@ gleesomely
 gaminesses
 geom
 galvanotactic
-goodnesses
 gony
 greenthumbed
 gooroo
