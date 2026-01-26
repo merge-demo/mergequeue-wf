@@ -2966,7 +2966,6 @@ grocerymen
 guayules
 gaolering
 goldminer
-geographies
 graymalkin
 gressorial
 genealogizer
@@ -5130,6 +5129,7 @@ galvanocautery
 gill
 greesagh
 graded
+geographies
 gaultherin
 gallops
 ginnel
