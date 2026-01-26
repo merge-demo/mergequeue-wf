@@ -5253,6 +5253,7 @@ coatrooms
 carthorse
 custodiam
 crwth
+cassique
 champacs
 cassan
 cyans
@@ -15251,7 +15252,6 @@ catholicise
 clambake
 cocainize
 colfox
-cassique
 chaining
 clamcracker
 crabfish
