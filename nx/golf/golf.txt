@@ -4937,6 +4937,7 @@ gibbetted
 geodesics
 gypsylike
 glagolic
+gonimium
 granum
 glucuronic
 garcon
@@ -9788,7 +9789,6 @@ glutens
 gentleheartedly
 germinant
 gird
-gonimium
 glutaeous
 grumphie
 graverobber
