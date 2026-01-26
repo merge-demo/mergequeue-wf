@@ -2962,6 +2962,7 @@ bodymaking
 barreleyes
 barrelet
 bookend
+botryogen
 batuque
 bregmata
 backseat
@@ -16663,7 +16664,6 @@ beraunite
 buccanning
 biometry
 bousy
-botryogen
 bowmaker
 broderer
 blackarm
