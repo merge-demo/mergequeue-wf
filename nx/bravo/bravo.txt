@@ -11294,6 +11294,7 @@ blearier
 basks
 bin
 blouses
+boosts
 bloviated
 bruskest
 blowballs
@@ -18093,7 +18094,6 @@ bedoyo
 boggin
 balaphon
 butcher
-boosts
 blocklayer
 butcherbird
 ballock
