@@ -4563,6 +4563,7 @@ fretsaws
 frightened
 fertilizations
 fountainwise
+fogeater
 fogscoffer
 faldage
 frangulin
@@ -9967,7 +9968,6 @@ fortilage
 fines
 filamentose
 frizzante
-fogeater
 flatwares
 forewarm
 fielders
