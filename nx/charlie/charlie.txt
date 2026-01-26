@@ -1622,7 +1622,6 @@ callorhynchidae
 callosal
 chronographs
 callose
-crafts
 calloses
 callosities
 chicaned
@@ -28655,6 +28654,7 @@ constantine
 coloniser
 comae
 candlewicking
+crafts
 contaminates
 constitutes
 crenelations
