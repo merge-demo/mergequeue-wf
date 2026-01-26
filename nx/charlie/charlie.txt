@@ -2898,7 +2898,6 @@ cant
 cashkeeper
 connectionless
 crayfish
-cantabank
 canonic
 curatively
 cacaos
@@ -18673,6 +18672,7 @@ cartonnier
 coinstantaneously
 centrolinead
 causeful
+cantabank
 coinstantaneousness
 coinsurance
 coinsurer
