@@ -4015,7 +4015,6 @@ ganglioneural
 girlishness
 glycoprotein
 guttula
-grotzen
 groat
 gouter
 gesticulates
@@ -4184,6 +4183,7 @@ gasometer
 glycoproteid
 gastroarthritis
 goodly
+grotzen
 guaranin
 gainful
 gyrocompass
