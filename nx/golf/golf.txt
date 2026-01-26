@@ -2392,6 +2392,7 @@ guardants
 gasterosteoid
 guttular
 grignet
+gossamer
 gonopodpodia
 george
 gabardines
@@ -9313,7 +9314,6 @@ grobian
 grucche
 garo
 gigabyte
-gossamer
 groceryman
 gourmanderie
 goitre
