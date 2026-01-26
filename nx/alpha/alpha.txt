@@ -14681,6 +14681,7 @@ antennarius
 antibilious
 anastomosis
 actinoida
+allometric
 antibiosis
 antibiotic
 acousmatic
@@ -23147,7 +23148,6 @@ aggressor
 accouple
 annunciable
 anathematiser
-allometric
 analytic
 ambrosiate
 airdropped
