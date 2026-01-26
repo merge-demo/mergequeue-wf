@@ -15467,7 +15467,6 @@ camisias
 cenosite
 clarion
 chatelaines
-clarionet
 chilina
 clarioning
 cloam
@@ -31593,6 +31592,7 @@ cururos
 courters
 catawbas
 cleave
+clarionet
 cheet
 chaton
 curvative
