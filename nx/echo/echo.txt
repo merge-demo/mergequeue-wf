@@ -4074,7 +4074,6 @@ escalators
 evaporative
 exedent
 evidenced
-esuriency
 encumbrous
 emulsifiers
 evangelize
@@ -11426,6 +11425,7 @@ eathly
 echocardiogram
 equiformal
 engross
+esuriency
 endocrin
 eccyesis
 euconic
