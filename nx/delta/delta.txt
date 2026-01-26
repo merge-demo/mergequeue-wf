@@ -1593,7 +1593,6 @@ deadlocking
 decipolar
 duplicia
 direfulness
-disenthralled
 dairyman
 deadpanned
 doubtance
@@ -11557,6 +11556,7 @@ dekaliter
 dishier
 diplodia
 dicarboxylic
+disenthralled
 deployments
 diagnose
 disaccharid
