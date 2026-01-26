@@ -4148,7 +4148,6 @@ dodecatheon
 dentirostrate
 damner
 disalign
-diadoche
 desipience
 demonocracy
 dunstable
@@ -13684,6 +13683,7 @@ distaves
 dissyllable
 dialecticism
 davidsonite
+diadoche
 dashboard
 dignitarial
 dolce
