@@ -2110,7 +2110,6 @@ entraps
 eurylaimidae
 exaggerated
 enchainements
-ensporia
 ecphractic
 epopoean
 evaluators
@@ -2762,6 +2761,7 @@ electrotype
 electrotypy
 enolase
 eggroll
+ensporia
 ectophytic
 evaporated
 electrovalent
