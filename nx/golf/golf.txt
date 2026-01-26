@@ -6636,7 +6636,6 @@ glasseye
 gleams
 gauffering
 guffs
-gangliform
 gorcrow
 gordius
 glossolabiopharyngeal
@@ -10022,6 +10021,7 @@ geophysically
 graveness
 gargled
 gelatinify
+gangliform
 gateau
 galera
 gudame
