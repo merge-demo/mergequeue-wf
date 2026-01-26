@@ -1990,7 +1990,6 @@ assertions
 albert
 acetla
 acetoacetate
-amphidisk
 acetometer
 accroachment
 aleurites
@@ -20604,6 +20603,7 @@ amniote
 androgonium
 arthrodirous
 aery
+amphidisk
 atlantes
 acentrous
 architricline
