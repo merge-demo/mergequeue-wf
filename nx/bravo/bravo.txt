@@ -1750,7 +1750,6 @@ balunda
 barlafummil
 balneotherapia
 berdaches
-bishops
 bahera
 benzalphthalide
 beneceptor
@@ -13723,6 +13722,7 @@ broozled
 bourdons
 beckoned
 befoolable
+bishops
 bourgade
 beeped
 bonailie
