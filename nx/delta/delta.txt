@@ -2426,7 +2426,6 @@ doodads
 deploring
 donny
 dripstick
-decimalism
 drearihead
 decimalization
 dehiscent
@@ -4823,6 +4822,7 @@ demonetize
 derotrema
 dacitic
 dicyanodiamide
+decimalism
 diverticula
 dyscrasing
 dermatosis

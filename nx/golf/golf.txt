@@ -3195,7 +3195,6 @@ guardiancy
 gristliest
 germina
 graplin
-glycans
 gazon
 glaze
 geomantically
@@ -6785,6 +6784,7 @@ grayfish
 gymnogyps
 gentilitial
 galeiform
+glycans
 gyrostatics
 genal
 genros
