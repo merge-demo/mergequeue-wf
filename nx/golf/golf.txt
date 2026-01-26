@@ -5884,7 +5884,6 @@ gallywasp
 ganymedes
 grysbok
 ghostliest
-guildship
 gambir
 gastroplication
 gyle
@@ -10794,6 +10793,7 @@ gutterspout
 grandfatherhood
 gadoidea
 guttide
+guildship
 gareth
 gynomonoecious
 granulary

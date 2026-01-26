@@ -1535,7 +1535,6 @@ extemporaneously
 elasmobranchii
 exonarthex
 eventuating
-excavators
 epics
 encrustant
 endosiphonate
@@ -11906,6 +11905,7 @@ except
 escheatment
 enterostomy
 eppes
+excavators
 euphonious
 entomologise
 ennui
