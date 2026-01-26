@@ -2186,7 +2186,6 @@ camporee
 camphorweed
 camphorwood
 cotan
-campi
 campy
 campiest
 campignian
@@ -20867,6 +20866,7 @@ composed
 cacocholia
 canst
 composer
+campi
 composita
 chromous
 composite
