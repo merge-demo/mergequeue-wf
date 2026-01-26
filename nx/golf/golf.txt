@@ -1889,6 +1889,7 @@ gatherers
 gumpheon
 galumph
 greenshank
+gaum
 gamenesses
 grubstake
 galeche
@@ -6246,7 +6247,6 @@ greaves
 gopura
 gangliest
 goatstone
-gaum
 geoscience
 goatweed
 gesning
