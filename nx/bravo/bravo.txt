@@ -192,6 +192,7 @@ baccalaureus
 baroques
 bandido
 bundlet
+bioscopies
 byes
 bitt
 baccated
@@ -2893,7 +2894,6 @@ benignantly
 beebread
 binaurally
 bawrel
-bioscopies
 bitterbump
 bullionist
 buttonmold
