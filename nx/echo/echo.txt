@@ -5040,7 +5040,6 @@ enrolled
 extraordinaries
 eclairs
 encyclopediac
-encaenia
 endophragmal
 entomb
 enqueued
@@ -9118,6 +9117,7 @@ epidermic
 eremic
 epenthesis
 entastic
+encaenia
 editorialist
 ergotamine
 erythrocytosis
