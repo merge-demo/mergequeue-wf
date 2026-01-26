@@ -4764,7 +4764,6 @@ britannian
 basiophitic
 birdbrain
 boubas
-bedkey
 braved
 braze
 bootlegger
@@ -13249,6 +13248,7 @@ boschneger
 boneen
 brigue
 bender
+bedkey
 begemmed
 bordure
 bibliography
