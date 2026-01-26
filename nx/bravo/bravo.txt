@@ -3964,7 +3964,6 @@ buttonholes
 butternose
 bdellium
 bdelliums
-brownist
 bdelloid
 bdellometer
 burl
@@ -11049,6 +11048,7 @@ blackface
 bafta
 bident
 buggymen
+brownist
 babysit
 batistes
 besmoking
