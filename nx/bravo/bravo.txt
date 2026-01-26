@@ -817,7 +817,6 @@ bafflers
 baffling
 bombora
 bafflingly
-bulbus
 bartletts
 bushelbasket
 bonelike
@@ -11809,6 +11808,7 @@ blastoporic
 bothria
 bobwhites
 becoom
+bulbus
 benevolentness
 biopyribole
 bosnisch
