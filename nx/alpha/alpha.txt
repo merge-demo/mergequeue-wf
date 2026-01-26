@@ -3763,7 +3763,6 @@ archivolt
 adhesion
 adhesive
 architraved
-arteriosclerotic
 adhesiveness
 archaizer
 astrogeny
@@ -16584,6 +16583,7 @@ amphigonic
 archurger
 aeolotropism
 affiliate
+arteriosclerotic
 auriculoparietal
 anaglyphy
 abrasax
