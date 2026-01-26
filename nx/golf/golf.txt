@@ -3069,7 +3069,6 @@ grypanian
 geomorphologically
 glopnen
 goadsman
-gyrohorizon
 glycopexis
 gormandizes
 geonavigation
@@ -4512,6 +4511,7 @@ grammontine
 gastrostaxis
 gastrohysterorrhaphy
 giraffe
+gyrohorizon
 gospelmonger
 gynocardic
 gypsyism
