@@ -16873,6 +16873,7 @@ cirrhosis
 clubdom
 clubfisted
 clubfoot
+chinnier
 clubfooted
 clubhand
 carpid
@@ -29666,7 +29667,6 @@ coetanean
 croises
 croisette
 creatinuria
-chinnier
 cambiform
 choledochoplasty
 croissant
