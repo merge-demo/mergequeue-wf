@@ -1515,7 +1515,6 @@ gunocracy
 gasifies
 gridiron
 grantable
-glengarry
 guittonian
 garderobe
 gladsome
@@ -6577,6 +6576,7 @@ graduateship
 gemotes
 gudgeons
 gluconeogenetic
+glengarry
 gurgoyle
 genty
 guesswork
