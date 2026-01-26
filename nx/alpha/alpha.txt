@@ -2604,7 +2604,6 @@ assist
 acoustoelectric
 acpt
 acridinic
-acquaint
 acquaintanceship
 aulical
 acidophilus
@@ -18245,6 +18244,7 @@ arabica
 accusatorially
 aerogel
 accentuator
+acquaint
 achromous
 arithromania
 arachnomorphae
