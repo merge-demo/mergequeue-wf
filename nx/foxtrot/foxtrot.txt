@@ -7157,7 +7157,6 @@ footful
 foolhardiness
 fidgety
 fraken
-fingerspin
 fraudproof
 forwrap
 flytraps
@@ -7647,6 +7646,7 @@ fifers
 fissipalmate
 felicitous
 folliful
+fingerspin
 flubs
 fogram
 filtrate
