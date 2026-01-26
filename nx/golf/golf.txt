@@ -8952,7 +8952,6 @@ geranomorphic
 gothicize
 gringole
 gras
-galeopithecus
 gagger
 grieko
 grovels
@@ -9640,6 +9639,7 @@ gossipmonger
 ghostwriting
 gladiatorial
 guzerat
+galeopithecus
 gallize
 goniodorididae
 gobinist
