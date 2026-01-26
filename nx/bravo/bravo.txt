@@ -4946,7 +4946,6 @@ bolases
 beyerite
 boltrope
 battled
-beefalo
 basketweaving
 birefringence
 brig
@@ -10234,6 +10233,7 @@ bitreadle
 blackguard
 bogglingly
 bulten
+beefalo
 bos
 benzenyl
 bookrests
