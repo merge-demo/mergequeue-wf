@@ -1534,7 +1534,6 @@ beggar
 burghbote
 boroglycerate
 barras
-beeches
 ball
 ballad
 bartholinitis
@@ -6645,6 +6644,7 @@ bronchia
 beezers
 bergaptene
 brachyceric
+beeches
 bawdric
 beefing
 brandle
