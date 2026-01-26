@@ -3640,7 +3640,6 @@ entrap
 enplane
 electrometallurgist
 euchlaena
-embraceable
 encraal
 embossage
 epistylar
@@ -9575,6 +9574,7 @@ erucin
 episodic
 encyclopedian
 escrow
+embraceable
 esculin
 expansively
 ephori
