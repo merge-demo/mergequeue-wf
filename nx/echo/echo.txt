@@ -9672,7 +9672,6 @@ eventless
 espada
 endosomes
 esurine
-estivated
 espadon
 effervescible
 ewer
@@ -11940,6 +11939,7 @@ extraphysical
 endemiology
 eudaemonistically
 equiradical
+estivated
 excess
 endopoditic
 ephoi
