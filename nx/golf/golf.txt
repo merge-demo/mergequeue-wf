@@ -2519,6 +2519,7 @@ geomorphogenic
 genderer
 geniohyoglossus
 grenado
+gamba
 garnisheement
 griths
 glaciolacustrine
@@ -7905,7 +7906,6 @@ gour
 greece
 galvanometrical
 grieced
-gamba
 gastropoda
 glucosulfone
 gandurah
