@@ -5730,7 +5730,6 @@ galuth
 guttule
 ghillies
 gnomide
-guidelines
 glossocele
 graian
 gummoses
@@ -10253,6 +10252,7 @@ guiltsick
 genesee
 generating
 gorgoniacean
+guidelines
 gorsehatch
 geographics
 gershom
