@@ -823,6 +823,7 @@ expedition
 enfeebling
 ensphered
 endogonidium
+eggcupful
 emotionalization
 erugatory
 exadverso
@@ -3052,7 +3053,6 @@ extern
 encorpore
 eliot
 efts
-eggcupful
 eliphalet
 entoiling
 elbowroom
