@@ -4542,7 +4542,6 @@ carnalize
 chockablock
 cayuga
 counterexposition
-carolingian
 confederative
 catapults
 carbine
@@ -24872,6 +24871,7 @@ criminosis
 centaur
 cookware
 consularity
+carolingian
 coracomorph
 curbash
 coracomorphae
