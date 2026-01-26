@@ -400,7 +400,6 @@ flocked
 facsim
 fluids
 flowerily
-foreknow
 fattiness
 flusterer
 forcedness
@@ -4836,6 +4835,7 @@ forerank
 faldfee
 forthink
 fablemongering
+foreknow
 flo
 flutidae
 furtherest
