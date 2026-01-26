@@ -1115,6 +1115,7 @@ calcimines
 coops
 crudeness
 choppin
+campbell
 circinate
 crossbarred
 calcinate
@@ -3949,7 +3950,6 @@ consence
 cometographical
 cardiograms
 ceratopsidae
-campbell
 cicindela
 coadventurer
 corpuscular
