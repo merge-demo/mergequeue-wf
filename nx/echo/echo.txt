@@ -1458,6 +1458,7 @@ endobatholithic
 electrostriction
 encashable
 endoral
+ensuable
 epitasis
 epithalamia
 etherified
@@ -5143,7 +5144,6 @@ enteroptotic
 extrudability
 eisell
 endoderm
-ensuable
 expetible
 elegibility
 eumerogenetic
