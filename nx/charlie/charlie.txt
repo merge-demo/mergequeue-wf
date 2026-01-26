@@ -15541,7 +15541,6 @@ clasped
 cinevariety
 clasper
 crucianella
-claspers
 claspt
 classable
 coplanarity
@@ -30787,6 +30786,7 @@ chiffon
 carcerate
 culinarian
 curassows
+claspers
 condenser
 cull
 contemnible
