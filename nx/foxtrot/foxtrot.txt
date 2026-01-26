@@ -4697,6 +4697,7 @@ finecomb
 fibrocalcareous
 frayed
 ferring
+felsophyre
 flowmanostat
 forcipes
 foresaying
@@ -10729,7 +10730,6 @@ facultied
 fibular
 fainting
 fats
-felsophyre
 forescent
 feralin
 forestial
