@@ -5106,6 +5106,7 @@ crooken
 chondrosamine
 crowncapping
 cascadite
+chemolytic
 cascalho
 cascalote
 calenturist
@@ -10566,7 +10567,6 @@ countermove
 culmed
 chouka
 countercraft
-chemolytic
 costocentral
 chillumchee
 caldaria
