@@ -6396,7 +6396,6 @@ eprouvette
 endorser
 endoerythrocytic
 electrographite
-enshrined
 enshrinement
 embars
 eleventhly
@@ -8687,6 +8686,7 @@ eighteens
 erectly
 engler
 equilibriums
+enshrined
 equimodal
 episematic
 eunomia
