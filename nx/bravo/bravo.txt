@@ -7183,6 +7183,7 @@ bandhor
 bunchberries
 bonduc
 ballcarrier
+badinaging
 barret
 bertin
 bandfish
@@ -13985,7 +13986,6 @@ boxcars
 brairo
 bishopful
 bowsie
-badinaging
 bacteriuria
 boxful
 bleed
