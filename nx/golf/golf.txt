@@ -3327,7 +3327,6 @@ gadso
 gelfomino
 grimmia
 gatch
-gregaritic
 glancer
 garbage
 gravelliness
@@ -7457,6 +7456,7 @@ genicular
 glamorizer
 grangerized
 greats
+gregaritic
 gladstonianism
 galactoscope
 gynophagite
