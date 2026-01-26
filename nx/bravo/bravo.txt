@@ -2178,7 +2178,6 @@ blandfordia
 backup
 blackboys
 blahlaut
-baptisias
 bricksetter
 burnishes
 bonsai
@@ -17729,6 +17728,7 @@ bede
 blote
 baneberries
 bejumbled
+baptisias
 bawbees
 bumfs
 burnside
