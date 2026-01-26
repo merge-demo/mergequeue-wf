@@ -12136,6 +12136,7 @@ equiangularity
 excurvated
 energy
 esemplasy
+era
 extrados
 ebullience
 encalendar
@@ -12725,7 +12726,6 @@ exonerator
 eudiometer
 everbearer
 exonym
-era
 embloom
 exenterating
 emboweling
