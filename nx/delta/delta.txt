@@ -1030,7 +1030,6 @@ darndest
 deflectors
 demain
 destandardize
-dizdar
 decipium
 devs
 diplohedral
@@ -13284,6 +13283,7 @@ deserveless
 demothball
 derrieres
 disendowment
+dizdar
 dispondee
 dahms
 doges
