@@ -6493,7 +6493,6 @@ braggartly
 basidiogenetic
 bigwiggedness
 baccate
-biologize
 broached
 bletted
 burge
@@ -14136,6 +14135,7 @@ burgul
 bimetallist
 baring
 blusterously
+biologize
 brachygnathia
 brachygnathism
 barytine
