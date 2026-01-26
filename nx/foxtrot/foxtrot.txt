@@ -1730,7 +1730,6 @@ facie
 fuzes
 fairtime
 ferrament
-federative
 formaldehyd
 fingertip
 feria
@@ -2061,6 +2060,7 @@ flanking
 featherdom
 fardels
 flanconnade
+federative
 feetfirst
 fireworky
 freshens
