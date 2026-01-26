@@ -8955,7 +8955,6 @@ bushelman
 biodynamics
 buccinoid
 broncobusters
-buoyantness
 bread
 botherer
 blattered
@@ -10984,6 +10983,7 @@ burps
 breathable
 bices
 bowses
+buoyantness
 bilboquet
 brachystomata
 bartonia
