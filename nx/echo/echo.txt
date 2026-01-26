@@ -9466,7 +9466,6 @@ enstool
 engerminate
 echeneid
 embodied
-esophagorrhagia
 escapist
 epigynum
 endoss
@@ -12676,6 +12675,7 @@ exogyra
 enterogram
 esophagomycosis
 effusion
+esophagorrhagia
 exognathite
 exogenetic
 enkolpion
