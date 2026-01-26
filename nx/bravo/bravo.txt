@@ -61,6 +61,7 @@ bish
 bundocks
 babbly
 befrogged
+bartizans
 brushable
 babbit
 blunder
@@ -3071,7 +3072,6 @@ buccinum
 branglement
 bare
 burgesses
-bartizans
 belee
 brimmers
 benzaminic
