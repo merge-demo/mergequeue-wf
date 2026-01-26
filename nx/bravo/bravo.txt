@@ -9103,7 +9103,6 @@ balaklava
 breunnerite
 brittlewort
 bidented
-brown
 brechan
 bandagist
 bicolours
@@ -13445,6 +13444,7 @@ bothway
 burgle
 bunched
 bediapers
+brown
 botocudo
 berried
 brumaire
