@@ -5463,7 +5463,6 @@ biweeklies
 brisling
 bilch
 bianco
-balai
 bandying
 beheaded
 blinked
@@ -17156,6 +17155,7 @@ backheel
 bim
 bullies
 broll
+balai
 bombards
 batture
 brushmaking
