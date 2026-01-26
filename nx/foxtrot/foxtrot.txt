@@ -804,7 +804,6 @@ fellowlike
 flatbed
 freesp
 futuro
-fiendism
 frangipane
 fills
 filtratable
@@ -2926,6 +2925,7 @@ ferlies
 flumes
 forthinking
 floodlighting
+fiendism
 flamer
 foxship
 falcade
