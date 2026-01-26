@@ -9203,6 +9203,7 @@ forjudging
 foppy
 foregather
 fissipes
+forlore
 ferriprussic
 faired
 florulae
@@ -9418,7 +9419,6 @@ felworts
 foundrymen
 federator
 frocks
-forlore
 forestership
 forewit
 fascinates
