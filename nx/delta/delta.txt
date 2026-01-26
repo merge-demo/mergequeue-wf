@@ -1840,6 +1840,7 @@ drugmaker
 decriminalize
 dicyanid
 degeneratively
+deformability
 defeudalize
 debilitates
 depredation
@@ -13543,7 +13544,6 @@ dissait
 diblastula
 dissatisfaction
 dissatisfactions
-deformability
 desertedness
 dissatisfiedly
 dustrag
