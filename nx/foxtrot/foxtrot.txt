@@ -6439,6 +6439,7 @@ frags
 fluidity
 fuzzy
 fullback
+foulard
 floyd
 finessed
 fixtureless
@@ -11133,7 +11134,6 @@ fangled
 fiesta
 functors
 formational
-foulard
 forefront
 filibusterous
 functus
