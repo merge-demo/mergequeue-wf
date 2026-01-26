@@ -7057,7 +7057,6 @@ calcarium
 caecitis
 censusing
 cosingular
-centage
 cavort
 centals
 coolies
@@ -16263,6 +16262,7 @@ canzonas
 cardiamorphia
 clinographic
 countryish
+centage
 clinohedral
 chelonidae
 celeriac
