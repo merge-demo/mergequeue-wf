@@ -4529,6 +4529,7 @@ enfiled
 escudo
 encephalomeningocele
 evenglome
+ectatic
 entothorax
 embiidae
 encephalomyelitic
@@ -13753,7 +13754,6 @@ episcopacy
 ententophil
 encapsulations
 extinguished
-ectatic
 enouncing
 equilibrated
 effervescence
