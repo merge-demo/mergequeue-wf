@@ -3551,6 +3551,7 @@ gallop
 gnathotheca
 greenboard
 gesticulant
+gleamless
 gumshoing
 gavage
 gesticulations
@@ -5240,7 +5241,6 @@ grimful
 guiler
 gripsacks
 gale
-gleamless
 gramophone
 glyptologist
 ghi
