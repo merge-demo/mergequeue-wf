@@ -6396,7 +6396,6 @@ endorser
 endoerythrocytic
 electrographite
 enshrined
-enshrinement
 embars
 eleventhly
 electrobus
@@ -6841,6 +6840,7 @@ entitle
 edentate
 elixed
 eyedropperful
+enshrinement
 evangelistarion
 enculturating
 extractive
