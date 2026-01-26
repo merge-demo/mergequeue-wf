@@ -1325,6 +1325,7 @@ epinephrin
 eq
 eeriness
 ecostate
+erotopath
 exterritoriality
 epithalamion
 ensnares
@@ -11247,7 +11248,6 @@ econometrist
 evanesces
 extrajudicial
 etuis
-erotopath
 extatic
 exportations
 empoison
