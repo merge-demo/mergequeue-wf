@@ -1888,6 +1888,7 @@ acervation
 acervulus
 abiezer
 anadyomene
+arri
 ailantine
 anacoluthia
 athlothete
@@ -5848,7 +5849,6 @@ agglomerative
 arachnologist
 agglutinate
 arenaceous
-arri
 agglutinative
 adamantine
 astrogonic
