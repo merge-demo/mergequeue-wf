@@ -9486,6 +9486,7 @@ coendou
 crannequin
 calculated
 checker
+connected
 celeusma
 checkerbelly
 centrolepidaceous
@@ -22598,7 +22599,6 @@ connature
 calumniatory
 connaught
 connectable
-connected
 connectedly
 complimenters
 connecter
