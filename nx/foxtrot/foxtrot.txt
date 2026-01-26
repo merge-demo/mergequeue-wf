@@ -1608,7 +1608,6 @@ farcetta
 footingly
 fooster
 fellest
-favored
 favorer
 fundable
 fen
@@ -11663,6 +11662,7 @@ fleshed
 fossorious
 fruits
 filamented
+favored
 funerealness
 foresightedly
 foreknowing
