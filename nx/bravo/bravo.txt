@@ -11889,6 +11889,7 @@ brahmin
 briareus
 beguileful
 browbeater
+bundle
 buller
 bolk
 bulrushlike
@@ -13294,7 +13295,6 @@ bosonic
 bugi
 bosporanic
 bosque
-bundle
 bosques
 bilked
 bumblingly
