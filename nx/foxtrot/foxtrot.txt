@@ -8795,7 +8795,6 @@ forbiddable
 flogged
 forester
 fossule
-fiddlers
 forwardal
 fadable
 fixedly
@@ -11589,6 +11588,7 @@ fusionist
 formate
 forrit
 figments
+fiddlers
 forespoken
 flanch
 freity
