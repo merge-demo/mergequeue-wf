@@ -3963,6 +3963,7 @@ ballotage
 boracium
 buttonholes
 butternose
+betatters
 bdellium
 bdelliums
 bdelloid
@@ -12851,7 +12852,6 @@ bluffer
 brame
 booly
 barbered
-betatters
 borocarbide
 burstone
 boolya
