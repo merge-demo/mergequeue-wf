@@ -13416,7 +13416,6 @@ courageously
 christabel
 crozzle
 chaine
-cordialness
 condemnation
 chlorinates
 counterturn
@@ -27352,6 +27351,7 @@ chartographer
 caurus
 courteousness
 courtepy
+cordialness
 courter
 conjunctions
 cozily
