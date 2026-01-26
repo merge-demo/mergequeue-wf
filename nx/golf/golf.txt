@@ -8559,7 +8559,6 @@ girrock
 grues
 glycin
 geisha
-graveolent
 gymnoderinae
 gozzan
 grainsman
@@ -10459,6 +10458,7 @@ gynaeolater
 gonotype
 gastrolienal
 gypaetus
+graveolent
 goldish
 geometries
 gusset
