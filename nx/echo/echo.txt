@@ -3391,6 +3391,7 @@ enterer
 enwreath
 endoesophagitis
 encompany
+enchyma
 epitympanic
 emancipated
 espalier
@@ -4632,7 +4633,6 @@ exarchs
 egotists
 explicanda
 eigenvalues
-enchyma
 estheticism
 exencephalus
 electorally
