@@ -3342,7 +3342,6 @@ feelings
 frizer
 fiddlecome
 fracedinous
-frugalism
 freelage
 fearfuller
 farewells
@@ -5102,6 +5101,7 @@ formulaically
 falunian
 fretless
 fledging
+frugalism
 foxhound
 fusillade
 factordom
