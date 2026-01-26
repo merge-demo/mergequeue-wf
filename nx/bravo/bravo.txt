@@ -1031,7 +1031,6 @@ bravure
 bitangent
 blain
 boraces
-barmecidal
 balcony
 burnweed
 bail
@@ -1648,6 +1647,7 @@ brahman
 biosynthetically
 begluc
 banneret
+barmecidal
 brairding
 bestar
 brahms
