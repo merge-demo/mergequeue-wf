@@ -7177,7 +7177,6 @@ foolish
 ferryboats
 fascinating
 funicular
-fleapit
 floatless
 factious
 felonries
@@ -9188,6 +9187,7 @@ ferrotyper
 flitchen
 fanatics
 foldboating
+fleapit
 frusta
 flirtations
 fooner
