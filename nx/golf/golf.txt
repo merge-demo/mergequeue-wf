@@ -1093,6 +1093,7 @@ gregorianize
 ganja
 gashouses
 graphiola
+gabert
 gastrulation
 gynandromorphic
 grammatication
@@ -1297,7 +1298,6 @@ glowers
 grump
 gerendum
 government
-gabert
 glossarist
 grail
 guepard
