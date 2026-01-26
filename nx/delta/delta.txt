@@ -7256,7 +7256,6 @@ delubrum
 deverbative
 dugout
 desolately
-disnatured
 dyingly
 dimetric
 detenue
@@ -10510,6 +10509,7 @@ douzainier
 defi
 dreidels
 diplomatism
+disnatured
 diplococcocci
 diphonia
 drizzlier
