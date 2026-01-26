@@ -15564,7 +15564,6 @@ classificatory
 classified
 clopping
 cotwinned
-censive
 counterfeitment
 congressional
 curriers
@@ -31290,6 +31289,7 @@ curculio
 curculionidae
 calvatia
 curculios
+censive
 cerebratulus
 concordly
 cenospecies
