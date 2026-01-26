@@ -9588,6 +9588,7 @@ doneness
 deltoid
 digitigradism
 duggler
+dosimeter
 deodaras
 determa
 dicyanogen
@@ -13738,7 +13739,6 @@ diplantidian
 disaltern
 dissident
 decentered
-dosimeter
 dioptra
 duecento
 dialkyl
