@@ -4226,6 +4226,7 @@ geomagnetic
 gimped
 gimpier
 guidable
+gresil
 gamboler
 gliosa
 greenovite
@@ -9278,7 +9279,6 @@ gyroceran
 gunja
 grasper
 gueridon
-gresil
 giraffidae
 gritted
 gazi
