@@ -8177,6 +8177,7 @@ bardier
 bivalencies
 bateaux
 bushlet
+bridgeable
 bieldy
 bellicoseness
 bedsteads
@@ -11276,7 +11277,6 @@ bookers
 blottier
 bemired
 beatably
-bridgeable
 bescouring
 bullfight
 burez
