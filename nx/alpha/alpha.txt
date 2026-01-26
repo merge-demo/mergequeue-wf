@@ -1346,7 +1346,6 @@ amoeba
 anangular
 amyelia
 atomized
-athanor
 acylating
 amidships
 acauline
@@ -24784,6 +24783,7 @@ amadan
 amar
 avicennia
 arayne
+athanor
 avicolous
 avicula
 acridonium
