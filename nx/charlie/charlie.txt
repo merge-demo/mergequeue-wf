@@ -6976,7 +6976,6 @@ cements
 cementwork
 cemetaries
 cemetery
-copesettic
 coronamen
 cemeterial
 cephalotomy
@@ -10828,6 +10827,7 @@ circumcising
 chiopin
 centropomus
 cinnoline
+copesettic
 chip
 chipchop
 chiplet
