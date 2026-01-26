@@ -17445,7 +17445,6 @@ comestibles
 coatless
 coatrack
 coatroom
-coats
 coattend
 cajeta
 coattending
@@ -27240,6 +27239,7 @@ country
 countrieman
 colorrhaphy
 chorioiditis
+coats
 cavillingly
 coenoblast
 countries
