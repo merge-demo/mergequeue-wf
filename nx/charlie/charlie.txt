@@ -8230,6 +8230,7 @@ cervidae
 chal
 complection
 chalaco
+copable
 chloranhydride
 crispation
 cellarous
@@ -24483,7 +24484,6 @@ creosotic
 coelogyne
 curette
 copa
-copable
 carrs
 carphophis
 confraternity
