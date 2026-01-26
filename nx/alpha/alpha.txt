@@ -6486,7 +6486,6 @@ aiblins
 antileptic
 availer
 apostasy
-aidant
 alkalinized
 aided
 amchoor
@@ -24000,6 +23999,7 @@ apologiser
 aminolysis
 archipelagos
 autoboating
+aidant
 autobuses
 autobusses
 ariettes
