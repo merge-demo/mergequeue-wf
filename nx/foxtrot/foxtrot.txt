@@ -849,7 +849,6 @@ frogeyes
 formfitting
 fixatives
 fanjet
-fastened
 foreguess
 flemings
 fusee
@@ -7656,6 +7655,7 @@ factual
 foredefeated
 frankheartedness
 fatuity
+fastened
 footslogs
 fatimid
 fructuarius
