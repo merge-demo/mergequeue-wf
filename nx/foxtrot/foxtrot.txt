@@ -1780,7 +1780,6 @@ forebitt
 forecastlemen
 frenchism
 foresaddle
-fantasticate
 fossildom
 fibropsammoma
 frailero
@@ -2511,6 +2510,7 @@ firn
 fumbulator
 firstcomer
 fishhood
+fantasticate
 footscraper
 frenchless
 filiation
