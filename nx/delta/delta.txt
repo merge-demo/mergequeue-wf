@@ -1600,7 +1600,6 @@ dinotherium
 daikering
 disinfector
 dermal
-deadwork
 dynamogenous
 deafened
 doorjambs
@@ -16711,6 +16710,7 @@ decourse
 dolichocephaly
 dult
 dyscratic
+deadwork
 draperied
 downline
 drapetomania
