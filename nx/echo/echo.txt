@@ -3202,6 +3202,7 @@ emissive
 encompassed
 energised
 elegiacally
+electromagnets
 empanelled
 endoscopy
 earthsmoke
@@ -4708,7 +4709,6 @@ exceptionability
 econometrician
 evolutionize
 endemics
-electromagnets
 ectomorphism
 earthly
 elating
