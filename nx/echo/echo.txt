@@ -5400,6 +5400,7 @@ excercise
 explicators
 esquiline
 eophyte
+estoque
 electrogild
 eccentrometer
 ectopatagia
@@ -6041,7 +6042,6 @@ excursus
 empaler
 enhydrinae
 empiry
-estoque
 electrobrasser
 expromissor
 extimulate
