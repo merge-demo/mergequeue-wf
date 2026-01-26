@@ -2640,7 +2640,6 @@ dispose
 decolors
 duopsonies
 daedalean
-derf
 denunciated
 dogmatism
 decempeda
@@ -17236,6 +17235,7 @@ dureresque
 drizzly
 drizzliest
 diablery
+derf
 demotics
 digresser
 dirigo
