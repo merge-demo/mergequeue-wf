@@ -3227,7 +3227,6 @@ gaudiness
 glenn
 gio
 genetous
-golilla
 gambled
 gory
 gauche
@@ -9113,6 +9112,7 @@ guinfo
 glutination
 glathsheimr
 goadster
+golilla
 glycyl
 gease
 glaucomys
