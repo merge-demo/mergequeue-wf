@@ -4565,7 +4565,6 @@ burnsides
 becudgels
 bosons
 bilixanthin
-boon
 becuiba
 biconical
 becurl
@@ -17316,6 +17315,7 @@ bottommost
 bunkhouse
 bucoliast
 bunchy
+boon
 bunchiness
 buncoing
 benumbed
