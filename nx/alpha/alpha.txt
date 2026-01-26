@@ -15249,7 +15249,6 @@ amulae
 antileveling
 antigonon
 antigonorrheic
-afflue
 antigovernmentally
 antigrammatical
 aminoacetanilide
@@ -20510,6 +20509,7 @@ arachnism
 actuaryship
 accomplishment
 autotoxemia
+afflue
 aerophilatelic
 anticommutative
 arteriometer
