@@ -4973,6 +4973,7 @@ dhurry
 disgeneric
 demountable
 devastators
+descending
 dempsters
 demulcents
 didric
@@ -7612,7 +7613,6 @@ detersion
 dingily
 diversifiability
 dracaenas
-descending
 deutschland
 deutzia
 deposes
