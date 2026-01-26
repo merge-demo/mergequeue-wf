@@ -12447,7 +12447,6 @@ capetonian
 cyrtoceratite
 casualty
 chromoctye
-chromodermatosis
 chromogen
 chromogene
 catachrestic
@@ -17893,6 +17892,7 @@ corbeau
 chrestomathy
 cachaemia
 codiaceae
+chromodermatosis
 codiales
 codical
 chlamys
