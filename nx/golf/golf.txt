@@ -258,7 +258,6 @@ glyph
 gumminess
 garfish
 galoisian
-gemonies
 graziery
 geoplagiotropism
 gnomon
@@ -3097,6 +3096,7 @@ gomer
 greffe
 gantleting
 geat
+gemonies
 gemma
 gynethusia
 goujay
