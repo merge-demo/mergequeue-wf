@@ -794,6 +794,7 @@ goster
 gamboled
 goldenrods
 ghettoing
+gasoline
 gyppo
 granose
 geognost
@@ -5479,7 +5480,6 @@ gonadic
 gliffy
 grid
 goodwillies
-gasoline
 glirine
 germiculture
 gandhism
