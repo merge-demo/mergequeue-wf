@@ -336,7 +336,6 @@ bradoons
 branchiostegous
 bourree
 bacteroideae
-banksman
 bellybuttons
 bonassus
 beemaster
@@ -15851,6 +15850,7 @@ bishophood
 bulletin
 broke
 burnup
+banksman
 beshrouds
 busmen
 banande
