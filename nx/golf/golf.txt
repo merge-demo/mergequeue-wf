@@ -5421,6 +5421,7 @@ generall
 glucosid
 german
 glycaemic
+galleria
 grimmer
 galopade
 glum
@@ -10136,7 +10137,6 @@ gipsyhead
 guffer
 gastrohepatitis
 glottologic
-galleria
 gaby
 gallinaginous
 genevas
