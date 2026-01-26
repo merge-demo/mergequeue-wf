@@ -2798,6 +2798,7 @@ borromean
 baku
 bethorned
 bristlewort
+bionomy
 birchen
 boxberry
 bewrapping
@@ -5995,7 +5996,6 @@ biauriculate
 beltman
 belts
 beadlike
-bionomy
 broads
 belute
 bhungini
