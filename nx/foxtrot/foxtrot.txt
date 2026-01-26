@@ -273,6 +273,7 @@ foreganger
 florigenic
 flakeboard
 farceuse
+faineant
 feoffeeship
 foetors
 foiled
@@ -2067,7 +2068,6 @@ farmers
 fieldwards
 fathomage
 fantasticly
-faineant
 fissipedate
 flosses
 feigns
