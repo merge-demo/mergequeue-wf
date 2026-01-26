@@ -2943,7 +2943,6 @@ fishworks
 fackins
 firefighters
 featous
-fettucini
 fungiferous
 forzato
 fistulate
@@ -3451,6 +3450,7 @@ fanioned
 feeless
 familistic
 fastigate
+fettucini
 fossilification
 fishermen
 frivols
