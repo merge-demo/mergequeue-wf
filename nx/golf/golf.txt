@@ -3460,6 +3460,7 @@ gluttony
 glint
 gigglish
 gallinule
+gossard
 grains
 gregarinian
 greenwing
@@ -7328,7 +7329,6 @@ gospels
 guahivo
 greatcoats
 gustative
-gossard
 grievedly
 glomerulitis
 gonfalonier
