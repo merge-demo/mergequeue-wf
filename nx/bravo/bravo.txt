@@ -7139,7 +7139,6 @@ bespell
 bespelled
 bespend
 bespew
-biparietal
 boucherism
 besort
 bandfiling
@@ -7574,6 +7573,7 @@ bonspell
 borrelia
 breezeless
 banes
+biparietal
 boehmite
 butterbill
 baronga
