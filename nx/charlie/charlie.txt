@@ -3921,7 +3921,6 @@ carbonizing
 carbonometer
 chondrin
 carbonous
-carbons
 carbonuria
 checkhook
 contradistinguish
@@ -29246,6 +29245,7 @@ cryptocephalous
 caliginousness
 chemis
 cryptocerous
+carbons
 confessarius
 chordamesodermic
 clamoured
