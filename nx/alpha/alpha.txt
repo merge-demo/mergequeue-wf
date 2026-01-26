@@ -3104,7 +3104,6 @@ actinophrys
 archimorphic
 actinopteran
 ascidian
-actinopteri
 attemper
 accentuated
 ambling
@@ -23449,6 +23448,7 @@ attitudinarian
 ambassadress
 arnicas
 alleviaters
+actinopteri
 auditorium
 addition
 araneiformia
