@@ -5422,6 +5422,7 @@ grates
 gambe
 geoplana
 glossily
+gemsbok
 giusto
 goodtemperedness
 glimmer
@@ -8659,7 +8660,6 @@ gradal
 gromatics
 gendarmerie
 greyish
-gemsbok
 guttered
 goldang
 grip
