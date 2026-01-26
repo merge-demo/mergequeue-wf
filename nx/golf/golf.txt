@@ -7643,7 +7643,6 @@ gangliitis
 goodhumoredness
 gridelin
 grunch
-graphic
 garbanzo
 glavering
 gipping
@@ -8785,6 +8784,7 @@ grisgris
 gamene
 gorgonise
 gonapod
+graphic
 grained
 gawkers
 gudefather
