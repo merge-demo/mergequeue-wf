@@ -727,6 +727,7 @@ bizcacha
 busload
 brinjal
 badgerlike
+blowsier
 baganda
 bending
 befoul
@@ -7310,7 +7311,6 @@ bedight
 bipont
 barrancas
 bandora
-blowsier
 bleariness
 bestuds
 besully
