@@ -4467,6 +4467,7 @@ goas
 giocoso
 gip
 gleba
+gondang
 galloman
 gametes
 gaultherine
@@ -5947,7 +5948,6 @@ gauzier
 gestative
 gestapo
 grahamite
-gondang
 gonopodia
 genotypicity
 governante
