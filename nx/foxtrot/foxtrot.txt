@@ -1915,6 +1915,7 @@ fewer
 flintier
 foredoom
 footstep
+fillemot
 fourdrinier
 finalize
 fibrinokinase
@@ -7527,7 +7528,6 @@ footmen
 fausen
 ferrocerium
 fileable
-fillemot
 faience
 firefall
 floperoo
