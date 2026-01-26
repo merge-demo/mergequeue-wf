@@ -9641,7 +9641,6 @@ atbash
 amylenes
 amabile
 amable
-anchorer
 allegatum
 accompaniments
 amadelphous
@@ -21409,6 +21408,7 @@ apartheid
 anthracitism
 asomatous
 antarthritic
+anchorer
 arapaima
 asp
 aspace

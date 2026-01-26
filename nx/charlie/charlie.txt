@@ -16880,7 +16880,6 @@ clubbist
 chopas
 cirrhosis
 clubdom
-clubfist
 clubfisted
 clubfoot
 clubfooted
@@ -22541,6 +22540,7 @@ comfreys
 colluding
 chorizontist
 caslon
+clubfist
 clings
 cupriferous
 containerships
