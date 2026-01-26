@@ -5419,6 +5419,7 @@ flukes
 fumage
 fluoridize
 fulciform
+flagellum
 fretters
 flain
 fernwort
@@ -9830,7 +9831,6 @@ feldspar
 fructuosity
 frapp
 fallacies
-flagellum
 falchion
 fessways
 frigorifico
