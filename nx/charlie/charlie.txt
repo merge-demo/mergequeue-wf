@@ -4610,7 +4610,6 @@ canvasado
 carnivore
 carnivorism
 coherer
-carnivorously
 carnivorousness
 cavalcading
 cyanea
@@ -27048,6 +27047,7 @@ counterprotection
 counterpull
 crewellery
 counterpuncture
+carnivorously
 counterpush
 caneva
 celibatarian
