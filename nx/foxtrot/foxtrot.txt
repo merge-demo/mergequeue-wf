@@ -8693,6 +8693,7 @@ formatter
 ferroboron
 flattest
 fluff
+facture
 farstepped
 friesian
 fantasizing
@@ -10103,7 +10104,6 @@ fantasmagorically
 fittest
 formylation
 fantod
-facture
 flor
 foollike
 flans
