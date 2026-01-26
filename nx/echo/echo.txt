@@ -10456,7 +10456,6 @@ each
 elusoriness
 exchanged
 ethoxyethane
-eviscerator
 emigres
 exorbitance
 entresalle
@@ -10601,6 +10600,7 @@ eucharitidae
 expenses
 epitaxy
 edwardsiidae
+eviscerator
 ephebeubea
 expiscator
 epitoxoid
