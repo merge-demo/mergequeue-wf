@@ -1559,6 +1559,7 @@ brakemaking
 balladist
 banksia
 balladizing
+batts
 biophore
 brutalization
 bichromated
@@ -3786,7 +3787,6 @@ bradyseismical
 bronchiocele
 beardom
 brios
-batts
 befouler
 boing
 backhauled
