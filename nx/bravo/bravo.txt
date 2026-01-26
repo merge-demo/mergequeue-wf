@@ -7840,6 +7840,7 @@ blackings
 brooklyn
 bazaars
 bicephalous
+breakthrough
 biface
 blick
 bigarreau
@@ -12300,7 +12301,6 @@ baluchitherium
 bodle
 bookshelf
 boloism
-breakthrough
 bimucronate
 boutre
 bolshevikian
