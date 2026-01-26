@@ -4882,7 +4882,6 @@ airplaning
 alomancy
 amoretti
 aerograph
-americium
 amphidetic
 aristogenic
 alluvia
@@ -13955,6 +13954,7 @@ antebaptismal
 amianthiform
 albinos
 adjustation
+americium
 aquilinity
 affronting
 arrhythmia
