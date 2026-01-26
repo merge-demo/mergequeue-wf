@@ -3295,7 +3295,6 @@ grayback
 gordiacea
 gisler
 geyseral
-ghawazee
 guland
 glossaries
 gerfalcon
@@ -10690,6 +10689,7 @@ grands
 glaucomatous
 grassy
 googol
+ghawazee
 guardfish
 glazers
 goodmanship
