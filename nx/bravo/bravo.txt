@@ -6176,7 +6176,6 @@ bourne
 barquette
 badaxe
 buffaloes
-bitolyl
 backhaul
 baikalite
 boof
@@ -10698,6 +10697,7 @@ biltongue
 bewash
 brunissure
 belt
+bitolyl
 blearyeyedness
 boleros
 bevel
