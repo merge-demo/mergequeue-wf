@@ -3063,7 +3063,6 @@ dissipators
 dampener
 durzada
 disinvolvement
-defacement
 depicters
 disgustfully
 disquietingly
@@ -10534,6 +10533,7 @@ deda
 dotty
 diphtheric
 denticeti
+defacement
 diphtheritically
 disarraying
 dourly
