@@ -2547,7 +2547,6 @@ bergere
 bargelike
 beet
 bargellos
-beswinge
 begroans
 bardash
 begroaning
@@ -5057,6 +5056,7 @@ baching
 bhunder
 beetlike
 backgrounds
+beswinge
 beguine
 babism
 bedunces
