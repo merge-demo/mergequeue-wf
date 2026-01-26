@@ -2579,6 +2579,7 @@ frecket
 favaginous
 foulmouth
 feverlike
+friezer
 fluorine
 flappier
 fiatconfirmatio
@@ -9991,7 +9992,6 @@ feeze
 forrue
 fittable
 fanti
-friezer
 fulgurantly
 fiercely
 frolicking
