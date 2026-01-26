@@ -13961,7 +13961,6 @@ bridoon
 baronial
 brainish
 bowshots
-boomkins
 bombarder
 backstopped
 bowstring
@@ -15533,6 +15532,7 @@ balloonfish
 brinehouse
 backsaws
 bakery
+boomkins
 bratstva
 birota
 bathofloric
