@@ -6365,6 +6365,7 @@ agrostography
 algesthesis
 antivenom
 axoneme
+armiger
 agrostologic
 antiresonance
 amorado
@@ -19846,7 +19847,6 @@ agnoetism
 agnoetae
 attributives
 audiogenic
-armiger
 aweto
 armigeros
 armigerous
