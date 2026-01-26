@@ -12816,7 +12816,6 @@ exostosis
 exarchist
 equidiagonal
 engraves
-exostrae
 exoteric
 esopus
 exoterica
@@ -13153,6 +13152,7 @@ extensionality
 ergology
 euphonizing
 engarrison
+exostrae
 encoded
 electrothermotic
 epistolization
