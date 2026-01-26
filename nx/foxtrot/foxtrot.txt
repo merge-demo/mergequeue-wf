@@ -506,6 +506,7 @@ famished
 faitours
 fomented
 fainant
+felineness
 fistical
 fundulus
 feckfully
@@ -4230,7 +4231,6 @@ flocculation
 freighted
 functor
 farkleberries
-felineness
 fuligulinae
 footmanhood
 fellowcraft
