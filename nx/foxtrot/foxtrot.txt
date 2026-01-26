@@ -2952,6 +2952,7 @@ fouettes
 floorcloth
 furfurals
 fibrose
+flatling
 factors
 foremost
 fraudulent
@@ -4106,7 +4107,6 @@ forinsecal
 finis
 flashbacks
 fashioned
-flatling
 feudal
 filelike
 fungoid
