@@ -3113,7 +3113,6 @@ foreclosing
 feroce
 fluffy
 famishes
-fertilized
 falsettist
 fettle
 fossil
@@ -6311,6 +6310,7 @@ flagmaker
 farfetched
 fakeries
 featherpated
+fertilized
 fanakalo
 foragement
 fluctuating
