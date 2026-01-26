@@ -4609,7 +4609,6 @@ giornata
 grassflat
 guadagnini
 guarantees
-garbled
 glycerizin
 geast
 gufought
@@ -8317,6 +8316,7 @@ graphologists
 gyropigeon
 grammarians
 gospel
+garbled
 grippingness
 giardiasis
 gleave
