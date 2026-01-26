@@ -6396,7 +6396,6 @@ encephalopathia
 eprouvette
 endorser
 endoerythrocytic
-electrographite
 enshrined
 embars
 eleventhly
@@ -9685,6 +9684,7 @@ epenthesize
 epacris
 espagnole
 enfrai
+electrographite
 esparsette
 encloud
 embost
