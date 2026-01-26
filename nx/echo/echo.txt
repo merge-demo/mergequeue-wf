@@ -4102,7 +4102,6 @@ ermit
 ethylbenzene
 euthymy
 esthetophore
-esotropic
 enjambement
 erotophobia
 erythroderma
@@ -11611,6 +11610,7 @@ extraburghal
 embrittled
 enterosyphilis
 edea
+esotropic
 errantness
 evocator
 ensilaging
