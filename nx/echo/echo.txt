@@ -1555,7 +1555,6 @@ epithecal
 extracalendar
 evanishes
 emptings
-egesta
 elytrous
 eurythermal
 expostulative
@@ -6090,6 +6089,7 @@ exappendiculate
 eulachon
 epirrhema
 eyeing
+egesta
 eurystheus
 enochic
 enticing
