@@ -17682,7 +17682,6 @@ birgus
 bordage
 blackfin
 blueings
-boomlets
 burleycue
 burlesquer
 butterfly
@@ -17711,6 +17710,7 @@ burgeoning
 benempt
 bemuzzled
 bott
+boomlets
 beknit
 bonaire
 burnfire
