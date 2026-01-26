@@ -2398,7 +2398,6 @@ george
 gabardines
 gadwall
 gridirons
-glossarially
 gallous
 grampa
 granddaughterly
@@ -2982,6 +2981,7 @@ galatine
 gasifier
 geologically
 gondite
+glossarially
 grapline
 gratuitous
 gridder
