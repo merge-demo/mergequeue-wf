@@ -3866,6 +3866,7 @@ baure
 botonny
 backwort
 bausond
+behither
 birthland
 bautta
 bauxite
@@ -5488,7 +5489,6 @@ beehouse
 baptised
 brutes
 blackdamp
-behither
 berrigan
 bedraped
 bendways
