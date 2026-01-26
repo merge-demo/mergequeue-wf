@@ -1257,6 +1257,7 @@ firmitude
 flexural
 flinched
 faurd
+frayn
 fatuities
 freieslebenite
 foreignization
@@ -6183,7 +6184,6 @@ freebooted
 flocculating
 flics
 frailty
-frayn
 floridity
 fetterbush
 faba
