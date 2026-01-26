@@ -1390,7 +1390,6 @@ goober
 glacialism
 grabbles
 gaulin
-graveyard
 gastrostegal
 gravitometer
 garnetter
@@ -4966,6 +4965,7 @@ gavotted
 genealogic
 glaiks
 gorse
+graveyard
 glair
 gently
 gloria
