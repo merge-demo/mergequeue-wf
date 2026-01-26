@@ -1268,7 +1268,6 @@ grame
 gardens
 gavall
 gratten
-gromatical
 graplines
 gyrator
 galium
@@ -3025,6 +3024,7 @@ garboil
 gracy
 gooma
 gymnodinium
+gromatical
 geminate
 guiding
 garnerage
