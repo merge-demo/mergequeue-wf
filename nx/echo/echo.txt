@@ -5012,6 +5012,7 @@ endenize
 ergmeter
 erogeneity
 expendable
+explodes
 endogastric
 encaged
 ensaffron
@@ -10894,7 +10895,6 @@ eluent
 exemplars
 eimer
 etamins
-explodes
 engine
 electrocuting
 execrates
