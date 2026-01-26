@@ -8496,6 +8496,7 @@ champignons
 caveat
 carle
 contrabassoonist
+conamed
 comparability
 champine
 champing
@@ -14285,7 +14286,6 @@ claver
 cymodoceaceae
 chrysochlore
 cevadilla
-conamed
 circumrotate
 cuneonavicular
 circumrotatory
