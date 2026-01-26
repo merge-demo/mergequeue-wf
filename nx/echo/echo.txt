@@ -2639,6 +2639,7 @@ elysian
 envying
 epidermal
 engin
+enalite
 electropathy
 electrophysiological
 endostracum
@@ -10457,7 +10458,6 @@ ecb
 ectocranial
 epilator
 exudates
-enalite
 evaporability
 earpick
 ensuite
