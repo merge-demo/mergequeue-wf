@@ -1699,6 +1699,7 @@ colonialized
 caloreceptor
 cochairs
 calorescence
+criteria
 calory
 chelodine
 catalytical
@@ -29501,7 +29502,6 @@ cerebrums
 crystoleum
 crystolon
 crit
-criteria
 criteriia
 criteriology
 criterional
