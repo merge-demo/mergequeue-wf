@@ -2403,7 +2403,6 @@ escamotage
 excathedral
 ectromelia
 epidotization
-exognathion
 etherealisation
 exauthorize
 excentricity
@@ -11175,6 +11174,7 @@ exploiter
 eutexia
 enchiladas
 exquisitively
+exognathion
 eiderdown
 ebullioscopy
 euthycomi
