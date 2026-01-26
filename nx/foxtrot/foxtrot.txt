@@ -5805,6 +5805,7 @@ flype
 feodaries
 feltness
 franchise
+foglietto
 feist
 funiculi
 firmance
@@ -9513,7 +9514,6 @@ fireboxes
 foeticide
 flag
 farragos
-foglietto
 fratry
 flockowner
 ferruginean
