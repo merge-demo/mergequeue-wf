@@ -9464,7 +9464,6 @@ eyehole
 exactus
 explainer
 endeavor
-expection
 elementary
 electroretinographic
 enstool
@@ -13910,6 +13909,7 @@ extolment
 eleonorite
 erythrism
 eperotesis
+expection
 entombed
 eliminatory
 extorter

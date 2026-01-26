@@ -2579,7 +2579,6 @@ flappier
 fiatconfirmatio
 ferrer
 feeler
-footwall
 fibromembranous
 frate
 fooleries
@@ -10448,6 +10447,7 @@ fructus
 francium
 flashcube
 formatting
+footwall
 frontierless
 fireproofness
 flimflamming
