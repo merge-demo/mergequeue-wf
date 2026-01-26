@@ -8915,7 +8915,6 @@ bungalow
 belcher
 boozes
 barleysick
-bioblastic
 bisagre
 backwoodsiness
 basural
@@ -18085,6 +18084,7 @@ bedrid
 beshout
 berthierite
 butane
+bioblastic
 brennage
 butanol
 butanols
