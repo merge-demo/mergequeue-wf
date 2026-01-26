@@ -2201,7 +2201,6 @@ furrows
 feedback
 foliature
 fawnier
-fezzy
 foalfoot
 fallenness
 fleshiest
@@ -4797,6 +4796,7 @@ fummel
 furtherer
 flyovers
 flamboyancy
+fezzy
 fooling
 failingness
 froglets
