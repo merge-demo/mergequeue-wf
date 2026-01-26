@@ -256,6 +256,7 @@ gambrelled
 glaires
 glyph
 gumminess
+garfish
 galoisian
 gemonies
 graziery
@@ -5496,7 +5497,6 @@ grammatically
 glisk
 gruffed
 gastruran
-garfish
 gammacismus
 grangerising
 gemmier
