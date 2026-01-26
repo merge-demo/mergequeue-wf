@@ -2949,7 +2949,6 @@ geraniol
 glycerinating
 gloated
 glaury
-gaddang
 guilt
 gurkha
 gollop
@@ -7226,6 +7225,7 @@ gloze
 grater
 gonial
 gratin
+gaddang
 gastronomical
 garboards
 globosite
