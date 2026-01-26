@@ -4710,7 +4710,6 @@ ferial
 fruitages
 fally
 flavory
-favoritism
 foolfish
 fitters
 foxery
@@ -11138,6 +11137,7 @@ forefront
 filibusterous
 functus
 flappering
+favoritism
 furivae
 frostwork
 flatter
