@@ -573,6 +573,7 @@ cadres
 ciconiiform
 councilors
 convokes
+classily
 courlan
 colloque
 confort
@@ -6673,7 +6674,6 @@ cystoureteritis
 contempt
 cecitis
 cecomorphic
-classily
 collimators
 cecopexy
 cecrops
