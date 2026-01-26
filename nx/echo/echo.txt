@@ -1406,7 +1406,6 @@ entoglossal
 emplaster
 essentialness
 exomis
-evasional
 expletive
 enopla
 exemplupla
@@ -8686,6 +8685,7 @@ epihyal
 eighteens
 erectly
 engler
+evasional
 equilibriums
 equimodal
 episematic
