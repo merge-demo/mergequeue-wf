@@ -13648,7 +13648,6 @@ cymosely
 casefied
 caleb
 cupper
-consignatory
 cymraeg
 cymry
 cousinage
@@ -18381,6 +18380,7 @@ coghle
 crabbish
 cogida
 chamber
+consignatory
 cogitability
 cestraciontes
 cogitabund
