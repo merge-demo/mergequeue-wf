@@ -21549,7 +21549,6 @@ concretively
 cardsharping
 comblike
 climes
-cupuliform
 cubital
 concubinary
 coeducation
@@ -25601,6 +25600,7 @@ corporeous
 corporify
 contracts
 chapterful
+cupuliform
 corporification
 corporosity
 corps
