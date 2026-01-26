@@ -5780,6 +5780,7 @@ deliberating
 descendability
 duree
 disjoint
+dilemi
 dialogistic
 descriptor
 decasualizing
@@ -8955,7 +8956,6 @@ diceboard
 dazzles
 defalcation
 dissatisfied
-dilemi
 daunomycin
 doorposts
 dicentras
