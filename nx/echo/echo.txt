@@ -13190,7 +13190,6 @@ ectally
 epiphonema
 enrive
 epithetician
-elegist
 epistlar
 endergonic
 eugenist
@@ -13589,6 +13588,7 @@ extranormal
 exsudate
 ectadenia
 enrobe
+elegist
 emulation
 epikeia
 episcopant

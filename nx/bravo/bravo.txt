@@ -12160,7 +12160,6 @@ bouses
 bartsia
 basiglandular
 barthian
-balmacaan
 biglenoid
 brawest
 bolboxalis
@@ -12571,6 +12570,7 @@ bacquet
 bilberries
 boneshaker
 bluebottle
+balmacaan
 bradypodidae
 bridesman
 begummed
