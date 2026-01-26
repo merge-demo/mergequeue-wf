@@ -808,6 +808,7 @@ ephedrins
 ecrase
 enclitic
 endopodite
+endoplastular
 escort
 eker
 eremophilous
@@ -1270,7 +1271,6 @@ epigastraeum
 everglade
 emersion
 exorcismal
-endoplastular
 equvalent
 estamin
 equicaloric
