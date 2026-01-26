@@ -3557,7 +3557,6 @@ defreeze
 dooja
 defrocked
 dubbed
-doruck
 derogately
 dispensational
 dilly
@@ -5010,6 +5009,7 @@ durn
 demure
 dehumanisation
 drownd
+doruck
 diplographical
 dressmakership
 dom
