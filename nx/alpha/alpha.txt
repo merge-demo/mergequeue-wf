@@ -39,7 +39,6 @@ aulophyte
 area
 allseeds
 aphorized
-aurine
 aethogen
 acquiescement
 aquanaut
@@ -6393,6 +6392,7 @@ axanthopsia
 angloman
 agamous
 ambled
+aurine
 ameliorant
 auxanology
 adams
