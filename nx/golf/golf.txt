@@ -3978,6 +3978,7 @@ guerillas
 gumbotil
 gimping
 goffer
+gnomed
 gouges
 grubworms
 gigawatts
@@ -10653,7 +10654,6 @@ galee
 gregarinina
 gemmiest
 gargantuan
-gnomed
 gastroperiodynia
 gurged
 griddler
