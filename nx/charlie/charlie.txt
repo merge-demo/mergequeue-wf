@@ -5867,7 +5867,6 @@ categorized
 calamars
 categorizer
 cabas
-crawling
 cateye
 catel
 coelongated
@@ -27723,6 +27722,7 @@ caramoussal
 cuppy
 cowman
 connumeration
+crawling
 corruptible
 convected
 cowpats
