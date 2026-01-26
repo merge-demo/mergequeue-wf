@@ -864,6 +864,7 @@ felinely
 ferrets
 fylgja
 fanon
+folkboat
 fronted
 fantailed
 fermi
@@ -8705,7 +8706,6 @@ fillebeg
 fumistery
 fusarial
 foretastes
-folkboat
 fraze
 federating
 faultlessness
