@@ -6960,7 +6960,6 @@ coaugment
 calorimetric
 cementatory
 chlorobromomethane
-curvirostres
 charros
 cementer
 cementification
@@ -14481,6 +14480,7 @@ cisplatine
 clade
 coosify
 conster
+curvirostres
 cissy
 compassionless
 cissies
