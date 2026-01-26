@@ -14827,7 +14827,6 @@ counterglow
 cytolist
 cytolytic
 chian
-cytologic
 cytologically
 cussedness
 coranoch
@@ -17132,6 +17131,7 @@ coachwright
 coact
 coacting
 coaction
+cytologic
 couthily
 coactive
 coactively
