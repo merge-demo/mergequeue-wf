@@ -2552,6 +2552,7 @@ generalise
 graciously
 gael
 geomorphological
+gromyl
 gaudier
 gantlet
 gilliver
@@ -7279,7 +7280,6 @@ giliak
 gonotome
 gemination
 gammas
-gromyl
 gibbus
 glutinate
 genoblast
