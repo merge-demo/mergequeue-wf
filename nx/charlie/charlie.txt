@@ -143,7 +143,6 @@ cable
 crudes
 cabled
 cablegram
-cablegrams
 cruors
 clinopyroxene
 cablelaid
@@ -4498,6 +4497,7 @@ carlino
 confessionalist
 carlins
 costopulmonary
+cablegrams
 carlishness
 coaler
 counterparole
