@@ -6480,7 +6480,6 @@ benzotrichloride
 bolection
 benzoxyacetic
 blanchers
-ballast
 betell
 bisulcate
 brilliantwise
@@ -12637,6 +12636,7 @@ bemocks
 bardane
 bonk
 begrudging
+ballast
 bagpiping
 baobab
 bubbly
