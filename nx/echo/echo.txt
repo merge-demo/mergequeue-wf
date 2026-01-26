@@ -3749,6 +3749,7 @@ everywheres
 enchytrae
 entrancer
 envenom
+endogens
 eternised
 exergues
 embryological
@@ -5919,7 +5920,6 @@ electrometallurgy
 exocytosis
 endsweep
 enharden
-endogens
 eurytopicity
 exoenzymic
 embuskin
