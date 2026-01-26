@@ -9595,6 +9595,7 @@ bught
 battuto
 biserial
 biblist
+blancher
 bodewash
 budorcas
 budgets
@@ -12733,7 +12734,6 @@ bolivares
 bunion
 bestraddling
 booger
-blancher
 bloodbeat
 benefactresses
 bereaves
