@@ -9659,7 +9659,6 @@ drazel
 diddering
 druse
 dihalide
-derives
 deprecatingly
 disframe
 dreams
@@ -17787,6 +17786,7 @@ disarrange
 domicilii
 diplotaxis
 duckers
+derives
 duces
 disjoin
 disfigurements
