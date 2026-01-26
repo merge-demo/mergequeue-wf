@@ -5685,6 +5685,7 @@ catapleiite
 catapulted
 catapultier
 colthood
+cuboctahedron
 cataracts
 cataractwise
 catarrhal
@@ -30552,7 +30553,6 @@ commonition
 cubmaster
 chipyard
 cubocalcaneal
-cuboctahedron
 cubocube
 cashboy
 crepidula
