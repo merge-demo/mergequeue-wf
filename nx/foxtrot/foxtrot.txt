@@ -7677,7 +7677,6 @@ firehouse
 felty
 frostproofing
 ferroglass
-fastly
 fees
 ft
 funipendulous
@@ -11266,6 +11265,7 @@ flatbrod
 filigrees
 flabella
 feuilleton
+fastly
 funky
 filter
 foalhood
