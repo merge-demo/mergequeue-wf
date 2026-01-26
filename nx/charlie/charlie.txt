@@ -3062,7 +3062,6 @@ canun
 clutters
 canvas
 chaffinches
-chiasmodon
 cycadeous
 canvasers
 coralroot
@@ -18776,6 +18775,7 @@ clavichords
 colchis
 crispily
 cookouts
+chiasmodon
 crossworder
 cochlearifoliate
 chickenheartedly
