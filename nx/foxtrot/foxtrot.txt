@@ -4078,7 +4078,6 @@ fellies
 foreshowed
 ferric
 furazolidone
-fluorosis
 fishery
 forleft
 furrow
@@ -8599,6 +8598,7 @@ forgat
 flapdoodle
 fumaric
 footles
+fluorosis
 frightment
 fellahs
 farinose
