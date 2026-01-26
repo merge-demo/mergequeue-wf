@@ -480,7 +480,6 @@ drover
 descended
 dallier
 dup
-denuclearizes
 dextromanual
 dregless
 diminishingturns
@@ -6853,6 +6852,7 @@ decemvirs
 donataries
 degenerates
 dextrocardial
+denuclearizes
 dendrograph
 deformity
 desmodynia
