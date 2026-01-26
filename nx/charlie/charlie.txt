@@ -14313,7 +14313,6 @@ circumstant
 chronometry
 circumstantialities
 circumstantialness
-circumstantiate
 circumstantiating
 circumstellar
 configurated
@@ -19669,6 +19668,7 @@ comanches
 comandantes
 commend
 comandanti
+circumstantiate
 cutis
 cinematics
 comandra
