@@ -3752,6 +3752,7 @@ cosmogonize
 caravaner
 coroparelcysis
 chetty
+clamourer
 caravans
 caravanserai
 chromoxylography
@@ -22864,7 +22865,6 @@ commemorator
 chibrit
 consequently
 choremen
-clamourer
 consertion
 challises
 chemophysiological
