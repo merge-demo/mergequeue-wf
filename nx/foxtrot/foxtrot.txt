@@ -2683,6 +2683,7 @@ fulgurator
 finebent
 fountainless
 frivol
+foredeclare
 faltboat
 filigreed
 ferio
@@ -10076,7 +10077,6 @@ fanga
 feudalize
 forerevelation
 fecundations
-foredeclare
 frilled
 fultz
 flacons
