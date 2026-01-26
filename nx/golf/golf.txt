@@ -1,5 +1,4 @@
 gambit
-geogeny
 glibbest
 grandstanded
 gees
@@ -9370,6 +9369,7 @@ guddled
 genuflect
 gangtide
 glassy
+geogeny
 geronomite
 globulitic
 governability
