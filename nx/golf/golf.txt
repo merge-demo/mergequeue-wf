@@ -3224,6 +3224,7 @@ gephyrea
 geopolitician
 goaltender
 guinde
+grandstand
 gwendolen
 gular
 garetta
@@ -10415,7 +10416,6 @@ gillbird
 gemmuliferous
 gapingstock
 gastrocoloptosis
-grandstand
 genio
 gum
 gandhi
