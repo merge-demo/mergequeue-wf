@@ -1484,7 +1484,6 @@ aborsive
 algid
 ann
 acclimatizer
-amphipneustic
 agreeableness
 arraignment
 avoidance
@@ -5754,6 +5753,7 @@ analyticity
 abducentes
 abranchiata
 agathist
+amphipneustic
 andrite
 agathodaemonic
 antiroyalist
