@@ -953,7 +953,6 @@ gunshot
 glanis
 genomic
 gamostele
-gentlest
 genetically
 galt
 graysby
@@ -9901,6 +9900,7 @@ gablewise
 greaser
 gemmae
 goodliest
+gentlest
 glandularly
 growth
 gieaways
