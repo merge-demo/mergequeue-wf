@@ -6563,7 +6563,6 @@ breezy
 bioecologies
 bookkeeping
 browningesque
-banisters
 ballader
 birdshot
 besprizorni
@@ -17845,6 +17844,7 @@ busaos
 bloodleaf
 blackpot
 bathflower
+banisters
 busbar
 blowpoint
 barotse
