@@ -11654,6 +11654,7 @@ anagrammatism
 anagrammatizing
 anagrams
 acidifiant
+asternata
 agrobiologic
 austerlitz
 axite
@@ -22116,7 +22117,6 @@ antefurcal
 antenniform
 anthotropic
 adenocancroid
-asternata
 archmessenger
 asteroid
 asteroids
