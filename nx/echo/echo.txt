@@ -9642,7 +9642,6 @@ encephaloma
 enchasers
 energiser
 emplacing
-emulator
 epihippus
 enterohemorrhage
 egba
@@ -12666,6 +12665,7 @@ egurgitating
 excussio
 enterobacterial
 empyemas
+emulator
 examining
 emissarium
 exogen
