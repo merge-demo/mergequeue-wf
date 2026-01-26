@@ -17499,7 +17499,6 @@ defiliation
 destines
 drudged
 depict
-dwarf
 depolish
 drudges
 ditheists
@@ -18390,6 +18389,7 @@ dissector
 dillue
 douches
 denotate
+dwarf
 digmeat
 dishonest
 duodenostomy
