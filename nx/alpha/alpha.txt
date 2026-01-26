@@ -6286,7 +6286,6 @@ agrestical
 awapuhi
 agricere
 alliteratively
-asunder
 antisepsin
 aerage
 apolegamic
@@ -10857,6 +10856,7 @@ atonality
 amoy
 apinoid
 amok
+asunder
 azure
 antidepressive
 anabaptizing
