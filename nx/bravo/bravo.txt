@@ -2590,6 +2590,7 @@ besnare
 bs
 bilamellar
 belostomidae
+bathvillite
 begster
 brassage
 birk
@@ -13872,7 +13873,6 @@ boathead
 bucephalus
 bowe
 blae
-bathvillite
 bibcock
 bedikah
 boilers
