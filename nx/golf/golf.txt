@@ -5003,6 +5003,7 @@ generant
 gymnogen
 gaslit
 glew
+grivets
 goodwilled
 goldhead
 grouthead
@@ -8523,7 +8524,6 @@ gelada
 gene
 groutnoll
 gnatling
-grivets
 golfing
 genl
 gibaro
