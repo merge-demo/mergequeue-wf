@@ -321,7 +321,6 @@ diplostichous
 duskness
 deperdit
 daygoing
-desiccation
 dandering
 daiker
 dcor
@@ -9998,6 +9997,7 @@ diminisher
 dezinc
 devious
 diminishingly
+desiccation
 diminishment
 dehorned
 dette
