@@ -4107,7 +4107,6 @@ enjambement
 erotophobia
 erythroderma
 eliasite
-edibleness
 epiphonemae
 empathized
 elongation
@@ -12037,6 +12036,7 @@ exclusivistic
 encaustes
 effuso
 exclusivity
+edibleness
 effluents
 egomaniac
 esperance
