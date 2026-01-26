@@ -782,6 +782,7 @@ flurries
 faraday
 fanatism
 fabricating
+flurried
 farcilite
 foulage
 flybelt
@@ -6574,7 +6575,6 @@ faithful
 fellatrix
 forsar
 flurn
-flurried
 footage
 fumagine
 funambulation
