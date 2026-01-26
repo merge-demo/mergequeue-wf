@@ -6531,6 +6531,7 @@ gowks
 gibberellin
 gesten
 grew
+gilguy
 globuliform
 glutting
 gulfweeds
@@ -9062,7 +9063,6 @@ givin
 galbraithian
 galvayne
 glomera
-gilguy
 groveless
 galoshes
 gateways
