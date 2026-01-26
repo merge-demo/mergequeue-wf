@@ -14257,7 +14257,6 @@ costal
 cardioids
 copplecrown
 canalside
-circumnutation
 cooperatively
 circumorbital
 circumpacific
@@ -17636,6 +17635,7 @@ cinnamene
 coccin
 canyonside
 contractive
+circumnutation
 coccinellidae
 cheiroline
 coccyodynia
