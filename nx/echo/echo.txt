@@ -10217,7 +10217,6 @@ elaborators
 exsomatic
 edgier
 escapes
-expy
 earlyish
 encroaching
 embroideress
@@ -12020,6 +12019,7 @@ eupanorthidae
 eryngium
 everyone
 egocentric
+expy
 enterfeat
 equatable
 exampleship
