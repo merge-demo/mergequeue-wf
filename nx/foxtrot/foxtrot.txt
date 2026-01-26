@@ -243,7 +243,6 @@ fiend
 fruitfullness
 fruitworm
 feverroot
-faculous
 firelock
 forthcomingness
 facultatively
@@ -3687,6 +3686,7 @@ floorway
 files
 femora
 fuliguline
+faculous
 forgotten
 firearmed
 filesniff

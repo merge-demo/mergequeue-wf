@@ -5633,7 +5633,6 @@ glottochronological
 geophilidae
 governeress
 gravity
-geryon
 guiltily
 gurrah
 gruidae
@@ -8119,6 +8118,7 @@ gaslightness
 granitite
 ghain
 grudgeful
+geryon
 genteelish
 gave
 gentlewoman
