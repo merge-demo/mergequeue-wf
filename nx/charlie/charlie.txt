@@ -535,7 +535,6 @@ clogmaker
 carbuilder
 cacao
 chirrups
-cadgers
 cadgily
 carboxylated
 cadge
@@ -20456,6 +20455,7 @@ comparatively
 callianassidae
 coracoacromial
 comparatives
+cadgers
 cpi
 contratabular
 comparativist
