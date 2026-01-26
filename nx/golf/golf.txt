@@ -8534,7 +8534,6 @@ gelatinization
 gravely
 galops
 garnishees
-groupers
 glomerule
 gayal
 gravelish
@@ -9042,6 +9041,7 @@ grasswidow
 ghent
 geog
 gobletful
+groupers
 gravenstein
 galvanothermy
 geohydrologic
