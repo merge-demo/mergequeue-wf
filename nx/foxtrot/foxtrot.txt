@@ -7586,7 +7586,6 @@ flatuses
 falser
 fourbagger
 frolicful
-fogou
 fimbriated
 feedingstuff
 footpace
@@ -11203,6 +11202,7 @@ fremdness
 farhand
 fibrinocellular
 felspar
+fogou
 fungibility
 fungicides
 fungicolous
