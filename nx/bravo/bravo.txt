@@ -10796,7 +10796,6 @@ balneation
 blennophobia
 blastocoel
 brodie
-blennoptysis
 bosseyed
 brickwise
 bairnie
@@ -11961,6 +11960,7 @@ boatlip
 borgh
 bushful
 bockey
+blennoptysis
 bench
 blitzing
 bethumping

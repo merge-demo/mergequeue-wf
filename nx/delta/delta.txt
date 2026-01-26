@@ -3681,7 +3681,6 @@ decathlon
 disinhibition
 decomposite
 diabetic
-dysteleological
 degradative
 degraded
 degradement
@@ -6266,6 +6265,7 @@ dermatic
 dazingly
 dermatitises
 drupe
+dysteleological
 dermatoconiosis
 dermatodynia
 demisability
