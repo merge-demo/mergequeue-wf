@@ -3093,7 +3093,6 @@ euglandina
 elytrostenosis
 elytrotomy
 epistolatory
-enraging
 exhortatory
 elixiviate
 etageres
@@ -10631,6 +10630,7 @@ epephragmal
 enthusing
 eventualize
 exhibitory
+enraging
 elpidite
 electrometallurgical
 euphroes
