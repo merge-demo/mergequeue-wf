@@ -3221,6 +3221,7 @@ cellvibrio
 carpodacus
 cameleon
 capillitium
+cloister
 capillose
 corolline
 coelelminthes
@@ -6461,7 +6462,6 @@ chipewyan
 cautiously
 confrontationism
 cannoneers
-cloister
 cav
 cluttered
 corah
