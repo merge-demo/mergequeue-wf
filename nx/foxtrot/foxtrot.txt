@@ -516,6 +516,7 @@ ferroprussiate
 fanciers
 fleetful
 fuseau
+facsimile
 fissiparism
 fretting
 featherleaf
@@ -11621,7 +11622,6 @@ fermata
 fustics
 foining
 fixable
-facsimile
 frolicsomely
 flapdragon
 fortissimi
