@@ -5858,7 +5858,6 @@ cochlearia
 chemicopharmaceutical
 cuemanship
 cleaves
-corkmaker
 categorization
 corona
 crumbs
@@ -13807,6 +13806,7 @@ cineration
 creosoting
 cotterite
 clatchy
+corkmaker
 cinerator
 circumrotation
 carrys
