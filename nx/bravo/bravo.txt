@@ -9785,7 +9785,6 @@ biochemist
 brainwashed
 brahmsite
 bistephanic
-birma
 bastinades
 baidak
 bridebed
@@ -12793,6 +12792,7 @@ brandishing
 booklore
 bhavan
 bardily
+birma
 berstel
 busters
 beheld
