@@ -10194,7 +10194,6 @@ farmhands
 faki
 filmset
 firstly
-fenetre
 forthgaze
 fluviometer
 funkia
@@ -10980,6 +10979,7 @@ fiberizes
 flubdub
 fedayee
 fructifying
+fenetre
 ferromanganese
 frey
 furls
