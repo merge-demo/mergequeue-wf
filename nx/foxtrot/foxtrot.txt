@@ -5594,7 +5594,6 @@ floey
 fenderless
 fricassee
 friezy
-friseurs
 fluoarsenate
 fillercap
 forbarred
@@ -11671,6 +11670,7 @@ feedlot
 fanion
 fut
 futhorc
+friseurs
 fleshers
 foxskins
 functionalized
