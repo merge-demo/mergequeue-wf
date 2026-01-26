@@ -2351,7 +2351,6 @@ fenestrae
 fenestrated
 fulcrumed
 fanglement
-faery
 fistulana
 floter
 fatherlessness
@@ -8907,6 +8906,7 @@ fator
 flickers
 fraudlessly
 figgery
+faery
 fragrance
 fragility
 fatty
