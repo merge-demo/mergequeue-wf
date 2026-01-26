@@ -1300,7 +1300,6 @@ exposition
 ethnicist
 episomal
 evaluation
-eightfoil
 enthymeme
 ergostat
 eightling
@@ -13765,6 +13764,7 @@ extremely
 excavations
 epithalamial
 effusely
+eightfoil
 exosperm
 estampede
 entea
