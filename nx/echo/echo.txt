@@ -1637,6 +1637,7 @@ evolutility
 embroilment
 entomophagan
 egotistic
+encodings
 exscind
 egotized
 edgiest
@@ -12781,7 +12782,6 @@ employable
 emporia
 exorcizement
 exhalable
-encodings
 elasmobranchiate
 enmask
 exorcizer
