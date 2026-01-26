@@ -5790,7 +5790,6 @@ bufo
 bellbird
 bellboy
 braggartism
-bitriseptate
 bulbochaete
 bood
 bylining
@@ -7757,6 +7756,7 @@ basaltiform
 buhr
 biali
 borocaine
+bitriseptate
 baggies
 burglaries
 bheesty
