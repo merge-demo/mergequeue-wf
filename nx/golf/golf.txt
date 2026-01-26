@@ -3342,6 +3342,7 @@ goosewinged
 gourmand
 glissandos
 germanizer
+gimbaling
 gloominess
 germanness
 ganging
@@ -8636,7 +8637,6 @@ guidwilly
 graven
 glided
 goldanged
-gimbaling
 grantha
 geminations
 grauwacke
