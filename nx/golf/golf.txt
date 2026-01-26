@@ -602,7 +602,6 @@ gigue
 galactose
 galbulinae
 germanophile
-guaranian
 glockenspiels
 guineas
 gemming
@@ -943,6 +942,7 @@ gumtree
 greekery
 gonoblast
 gudemother
+guaranian
 gnateater
 gitanemuck
 gout
