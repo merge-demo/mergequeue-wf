@@ -2707,6 +2707,7 @@ grippingly
 gentilization
 grabble
 gaud
+gortonian
 ginglyform
 gipsylike
 gestae
@@ -7517,7 +7518,6 @@ generalization
 glial
 glycolytic
 galenist
-gortonian
 glaucophanize
 gangs
 garamond
