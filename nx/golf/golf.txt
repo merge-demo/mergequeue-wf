@@ -1442,7 +1442,6 @@ gashing
 grandgore
 guttulate
 glazen
-greedily
 gallinazo
 gemologists
 gn
@@ -5101,6 +5100,7 @@ glassful
 gonotocont
 grapplers
 gloxinia
+greedily
 gateaux
 graecizes
 gasts
