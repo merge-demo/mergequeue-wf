@@ -1373,6 +1373,7 @@ configurate
 calycocarpum
 concur
 colourlessness
+chlorocresol
 calycozoa
 coronitis
 chimariko
@@ -11283,7 +11284,6 @@ cologned
 chlorococcales
 coincider
 chlorococcus
-chlorocresol
 chlorodyne
 condyloid
 chlorodize
