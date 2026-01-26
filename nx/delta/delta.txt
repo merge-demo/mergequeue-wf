@@ -3644,7 +3644,6 @@ discerptive
 dactylopodite
 douzeper
 disked
-dawkin
 deontological
 degging
 delphinoidine
@@ -16100,6 +16099,7 @@ decrypted
 douziemes
 duraspinalis
 dovecot
+dawkin
 dynamist
 dislustred
 dovehouse
