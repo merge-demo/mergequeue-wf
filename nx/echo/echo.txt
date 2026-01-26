@@ -4743,7 +4743,6 @@ englishism
 enrapture
 excitants
 eulogism
-effigiate
 estre
 emplaced
 exponentiating
@@ -10479,6 +10478,7 @@ educators
 extusion
 escalade
 earlduck
+effigiate
 exsputory
 echinate
 entomologizing
