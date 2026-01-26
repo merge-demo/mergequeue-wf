@@ -3119,7 +3119,6 @@ diseaseful
 daubing
 dentated
 dislade
-defamed
 dilogical
 disestablisher
 disbodied
@@ -6370,6 +6369,7 @@ domineering
 diaereses
 darnix
 dermosclerite
+defamed
 deco
 dreaminess
 dermotropic
