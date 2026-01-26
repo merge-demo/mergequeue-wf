@@ -2921,6 +2921,7 @@ growlier
 glumpish
 gavelkind
 glossopteris
+glene
 glycol
 garnet
 garlopa
@@ -10292,7 +10293,6 @@ gourmet
 gentlewomanish
 gasped
 gibblegabble
-glene
 grossularite
 gradatim
 galvanomagnet
