@@ -1891,7 +1891,6 @@ evenoo
 eileen
 epictetian
 esquireship
-epexegesis
 excud
 expletives
 esquamulose
@@ -7237,6 +7236,7 @@ enterokinetic
 emulgens
 ecthymatous
 epharmonic
+epexegesis
 emforth
 eryopsid
 encomiastically
