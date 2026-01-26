@@ -1573,6 +1573,7 @@ gluelikeness
 gassing
 germproof
 garottes
+gelated
 gismos
 gymnura
 gauntlet
@@ -2349,7 +2350,6 @@ galopin
 graylag
 garlandage
 galvanolysis
-gelated
 gymnics
 geographism
 gelees
