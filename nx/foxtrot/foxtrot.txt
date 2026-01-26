@@ -5244,7 +5244,6 @@ forestalment
 foxhounds
 flowerers
 flasker
-furless
 foretooth
 foreshock
 fossilage
@@ -11746,6 +11745,7 @@ floramor
 fathom
 foliiform
 flneur
+furless
 firiness
 factorage
 fumados
