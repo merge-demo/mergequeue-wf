@@ -8280,7 +8280,6 @@ epistasies
 enhancers
 encharge
 emplaning
-epibenthos
 enrapturedly
 electromagnetist
 electrofusion
@@ -12684,6 +12683,7 @@ exogenetic
 enkolpion
 exometritis
 etuve
+epibenthos
 epitaxial
 emendandum
 elychnious
