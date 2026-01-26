@@ -9597,6 +9597,7 @@ biblist
 blancher
 bodewash
 budorcas
+brujeria
 budgets
 bumbler
 backyarder
@@ -12179,7 +12180,6 @@ brooks
 bignou
 bostrychoid
 blossoming
-brujeria
 banefully
 boldfaced
 boldfacedness
