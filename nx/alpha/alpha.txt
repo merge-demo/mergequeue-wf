@@ -1771,7 +1771,6 @@ animalivore
 adorableness
 aryepiglottic
 accused
-alightment
 accusers
 autoschediastic
 achatour
@@ -9464,6 +9463,7 @@ apocryphal
 agnuses
 adherently
 appendotome
+alightment
 altitudinarian
 antiriot
 altogetherness
