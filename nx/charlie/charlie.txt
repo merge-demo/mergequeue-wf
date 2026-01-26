@@ -4965,7 +4965,6 @@ collatable
 contemptibleness
 chirotes
 cleeked
-conduct
 cartilagines
 chancroids
 cartilaginoid
@@ -14612,6 +14611,7 @@ corpusculum
 cystometer
 cystomyoma
 coadore
+conduct
 cystomyxoma
 chillum
 cineast
