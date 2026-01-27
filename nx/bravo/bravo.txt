@@ -5229,7 +5229,6 @@ bergamots
 befurbelowed
 befurred
 begabled
-bowla
 begad
 buskle
 bedders
@@ -16496,6 +16495,7 @@ bladesmith
 buttonholder
 bestick
 biocoenotic
+bowla
 betrace
 bassine
 balbriggan
