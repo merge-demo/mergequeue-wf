@@ -8529,6 +8529,7 @@ epsilons
 equivalency
 earthkin
 entryways
+examinability
 enzymologies
 endocolpitis
 entrants
@@ -8615,7 +8616,6 @@ enunciative
 equatorwards
 exchangeable
 ectomeric
-examinability
 eruditeness
 ecalcarate
 epinephelus
