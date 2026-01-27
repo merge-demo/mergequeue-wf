@@ -2375,6 +2375,7 @@ daikon
 dechemicalize
 doctorfish
 degerming
+deputation
 dechloridation
 dechloridize
 deaconry
@@ -11587,7 +11588,6 @@ doorstop
 dwarfy
 dynasties
 discomfiter
-deputation
 drachen
 discomfort
 diaphragmatic
