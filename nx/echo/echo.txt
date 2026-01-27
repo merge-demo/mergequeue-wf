@@ -4047,7 +4047,6 @@ entertake
 eyeliners
 estrapade
 escrime
-enage
 embrute
 extirpated
 echappe
@@ -8529,6 +8528,7 @@ eprise
 endures
 epsilons
 equivalency
+enage
 earthkin
 entryways
 examinability
