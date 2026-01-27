@@ -1032,6 +1032,7 @@ falsification
 factorability
 forweend
 fibreware
+forgetting
 flashes
 fluorapatite
 featherheaded
@@ -2300,7 +2301,6 @@ frigiferous
 flopping
 footnoting
 foreimpressed
-forgetting
 flotsan
 fulvous
 folio
