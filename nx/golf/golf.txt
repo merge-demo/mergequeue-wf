@@ -2876,6 +2876,7 @@ geol
 guilefulness
 ganglionic
 gustavus
+geostrophically
 guardsman
 ganocephalous
 gipser
@@ -3357,7 +3358,6 @@ glossoscopia
 geepounds
 groomed
 germfree
-geostrophically
 gobio
 greenbul
 genethliacism
