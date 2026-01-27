@@ -3962,7 +3962,6 @@ gleeting
 garrisons
 gipsy
 gulaman
-gynaecocratic
 gutser
 garote
 gatchwork
@@ -7840,6 +7839,7 @@ gunline
 gardenly
 geraldine
 globefishes
+gynaecocratic
 gonglike
 guests
 gooiest
