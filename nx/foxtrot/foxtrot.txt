@@ -1496,6 +1496,7 @@ flittern
 fley
 felicitators
 fruiter
+felt
 fearsomely
 foreshows
 fabulate
@@ -8661,7 +8662,6 @@ fingerfishes
 faddishly
 formicate
 fictitious
-felt
 fumaroidal
 fearfully
 farmhand
