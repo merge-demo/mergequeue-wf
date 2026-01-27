@@ -6305,7 +6305,6 @@ electroengrave
 enrober
 enrockment
 epituberculosis
-enroll
 embryologies
 efformative
 esotropia
@@ -12743,6 +12742,7 @@ encephalodialysis
 ever
 exactingness
 eradication
+enroll
 elderberry
 echinologist
 empresa
