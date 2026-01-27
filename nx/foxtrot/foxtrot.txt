@@ -605,6 +605,7 @@ ferrocyanhydric
 frequentative
 frappe
 funerate
+fixt
 fenugreek
 fritting
 freebee
@@ -10711,7 +10712,6 @@ fitments
 fokker
 florican
 fundamental
-fixt
 foodstuffs
 fruitiness
 fieldworker
