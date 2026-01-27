@@ -5163,7 +5163,6 @@ denes
 deices
 daughterlike
 densitometric
-dentinoid
 disminister
 damozel
 distemperure
@@ -9814,6 +9813,7 @@ discovery
 decider
 danewort
 delatinize
+dentinoid
 divulgating
 dilection
 dilemite
