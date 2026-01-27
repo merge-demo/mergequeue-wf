@@ -1885,6 +1885,7 @@ economizes
 edematose
 euler
 epidiorite
+estoppel
 encystments
 errabund
 elaterin
@@ -8003,7 +8004,6 @@ enclisis
 ectozoic
 esculetin
 expurge
-estoppel
 encyclopaedia
 effetmen
 evictor
