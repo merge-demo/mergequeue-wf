@@ -2532,7 +2532,6 @@ gumshield
 gainers
 gladite
 gaviiformes
-garabato
 genecology
 guanidopropionic
 gothically
@@ -2646,6 +2645,7 @@ guest
 glossopetra
 gemelled
 glossosteresis
+garabato
 gastrocolic
 glycohemia
 goldfish
