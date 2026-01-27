@@ -7472,7 +7472,6 @@ flakiness
 furnished
 ferratin
 feedlots
-formous
 fantasist
 flyness
 findy
@@ -10151,6 +10150,7 @@ faradonervous
 flannelled
 flagellates
 flamant
+formous
 felled
 foretaste
 flounce
