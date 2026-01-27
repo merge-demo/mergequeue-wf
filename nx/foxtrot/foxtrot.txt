@@ -5302,7 +5302,6 @@ fiot
 flameflower
 flatulentness
 flosh
-flangeway
 footpaddery
 frozenhearted
 fruiters
@@ -7732,6 +7731,7 @@ fossilised
 faveolus
 forecasting
 freeze
+flangeway
 foxskin
 fano
 footbreadth
