@@ -3090,6 +3090,7 @@ chilidog
 cap
 capa
 conferrable
+corroborates
 capability
 charks
 capable
@@ -25957,7 +25958,6 @@ cadges
 corvidae
 corvillosum
 creolize
-corroborates
 corvine
 couthie
 colonization
