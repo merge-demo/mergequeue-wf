@@ -10837,7 +10837,6 @@ basilidianism
 bradford
 busyness
 balinger
-bekilted
 bayish
 blesmol
 bestripe
@@ -17883,6 +17882,7 @@ boundable
 bushelers
 balister
 bushelfuls
+bekilted
 belabour
 bonytail
 buginese
