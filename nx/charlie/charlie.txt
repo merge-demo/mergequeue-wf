@@ -2668,7 +2668,6 @@ canikin
 chargedness
 chanceries
 cardiatrophia
-cephalocereus
 canille
 canine
 consuetudinary
@@ -14349,6 +14348,7 @@ contrapletal
 cryptoanalytic
 circumvolution
 curdler
+cephalocereus
 circumvolve
 circumzenithal
 circus
