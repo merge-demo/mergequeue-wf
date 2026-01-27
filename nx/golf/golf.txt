@@ -6051,6 +6051,7 @@ gyttja
 golcondas
 gairfowl
 gnawers
+guan
 gnathopodite
 gneissic
 gabelles
@@ -7151,7 +7152,6 @@ guango
 gingerbready
 glucolipin
 graftage
-guan
 glider
 gaffs
 glaciologist
