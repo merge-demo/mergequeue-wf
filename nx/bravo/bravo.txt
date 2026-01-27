@@ -11994,7 +11994,6 @@ bushelwoman
 backstairs
 bruins
 barographs
-bimeby
 bourns
 bailiff
 bogart
@@ -13260,6 +13259,7 @@ begemmed
 bordure
 bibliography
 boschveld
+bimeby
 boulevardize
 bewit
 baston
