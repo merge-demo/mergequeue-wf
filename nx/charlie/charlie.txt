@@ -4118,7 +4118,6 @@ carport
 counterrevolution
 cyanometric
 chattertonian
-cardias
 coolerman
 cardiasthenia
 coarsen
@@ -5610,6 +5609,7 @@ contortion
 catallum
 catalo
 cataloes
+cardias
 cataloged
 character
 coelomatic
