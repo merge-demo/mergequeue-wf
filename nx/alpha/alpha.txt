@@ -1309,7 +1309,6 @@ accusably
 amazes
 anathematizer
 acatalepsia
-acataleptic
 almoning
 autocorrelate
 autosomally
@@ -7907,6 +7906,7 @@ aletocyte
 anticombination
 augural
 appliers
+acataleptic
 aldehydrol
 askapart
 alawi
