@@ -10364,7 +10364,6 @@ countertendencies
 chieftains
 cracknels
 chiefty
-coapts
 column
 conemaker
 chierete
@@ -19226,6 +19225,7 @@ cimbia
 collutoria
 collutories
 cafeteria
+coapts
 collutorium
 colluvial
 chiffonade
