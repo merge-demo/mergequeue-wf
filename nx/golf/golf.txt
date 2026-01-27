@@ -1536,7 +1536,6 @@ geotonic
 gagtooth
 gangland
 gasoliers
-guiro
 giftwrap
 gripers
 growed
@@ -10007,6 +10006,7 @@ guaiocums
 goitres
 groset
 guatibero
+guiro
 glood
 guaza
 glycerinated
