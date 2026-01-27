@@ -2242,6 +2242,7 @@ fadme
 flashet
 furtum
 fratercula
+firstfruits
 farmhouse
 foreclosures
 fumulus
@@ -5552,7 +5553,6 @@ freezers
 ferrary
 fittingness
 fault
-firstfruits
 fortifiable
 fleecy
 forager
