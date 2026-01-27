@@ -5420,7 +5420,6 @@ berglet
 bakli
 begrudge
 batster
-boggishness
 begruntle
 biographical
 begrutten
@@ -9193,6 +9192,7 @@ biotypology
 biotites
 bolometric
 blowback
+boggishness
 borohydride
 blackheartedly
 brontograph
