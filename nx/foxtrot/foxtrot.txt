@@ -3562,6 +3562,7 @@ foreseason
 foreinstruct
 fighteress
 fatigation
+fruits
 fighting
 futtock
 formboard
@@ -11657,7 +11658,6 @@ fasher
 febricide
 fleshed
 fossorious
-fruits
 filamented
 favored
 funerealness
