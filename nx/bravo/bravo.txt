@@ -2150,6 +2150,7 @@ braccae
 bosch
 brouillon
 bailors
+besing
 barring
 borofluoride
 buckshots
@@ -9768,7 +9769,6 @@ buildingless
 bioenergetics
 bedragglement
 bissonata
-besing
 bistate
 biosyntheses
 biochemist
