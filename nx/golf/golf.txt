@@ -2109,7 +2109,6 @@ gleamed
 gozzard
 graecizing
 gardenias
-galvanizer
 gomarian
 gerontes
 gnomist
@@ -4073,6 +4072,7 @@ guasa
 giantisms
 grubbery
 glonoine
+galvanizer
 genitorial
 ghastlily
 gear

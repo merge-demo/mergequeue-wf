@@ -14632,7 +14632,6 @@ buddle
 bimaculate
 billhooks
 blume
-buri
 buggyman
 beetlestone
 brandisite
@@ -14839,6 +14838,7 @@ bergschrund
 bevined
 behalves
 brawnily
+buri
 brightener
 bedimplies
 braxy
