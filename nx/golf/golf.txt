@@ -598,7 +598,6 @@ galbulinae
 germanophile
 glockenspiels
 guineas
-gemming
 gorgoniacea
 ghostweed
 graveside
@@ -9459,6 +9458,7 @@ gramercies
 gramps
 gingerliness
 glycollide
+gemming
 gabionage
 grandiosity
 grouchiness
