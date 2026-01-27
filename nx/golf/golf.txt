@@ -193,7 +193,6 @@ gramas
 graphing
 gliadines
 gaudsman
-goldcup
 glagolitsa
 geneses
 gimble
@@ -8462,6 +8461,7 @@ gestura
 guaco
 gelsemium
 gilten
+goldcup
 groovelike
 girondism
 ganderteeth
