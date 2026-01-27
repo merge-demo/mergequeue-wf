@@ -5089,6 +5089,7 @@ gustful
 gularis
 garland
 gramaryes
+gems
 ganged
 gret
 glassful
@@ -10382,7 +10383,6 @@ giggled
 gonyalgia
 gelatiniser
 gullies
-gems
 groans
 gelatinising
 geometricians
