@@ -859,7 +859,6 @@ emmers
 ears
 epispadias
 euglenidae
-epizoa
 epiphytal
 erringly
 eclectically
@@ -4195,6 +4194,7 @@ encl
 exporter
 elaeosia
 eyeroot
+epizoa
 etherealism
 escaloped
 eighteen
