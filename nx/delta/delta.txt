@@ -320,6 +320,7 @@ disinsection
 deti
 daybreaks
 diplostichous
+danio
 duskness
 deperdit
 daygoing
@@ -879,7 +880,6 @@ dapedius
 developability
 discourteous
 disburdens
-danio
 dokimastic
 dudman
 daphni
