@@ -1250,7 +1250,6 @@ datisi
 desugared
 deutovum
 dative
-datively
 disspread
 dreamlore
 dialectalize
@@ -10869,6 +10868,7 @@ diver
 disposal
 disadvantageous
 declaration
+datively
 diquat
 demirelief
 disconcertingly
