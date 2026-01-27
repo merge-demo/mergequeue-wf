@@ -4685,6 +4685,7 @@ fissidens
 fieldstone
 fistuca
 firefight
+foreignness
 fays
 freezing
 formats
@@ -9108,7 +9109,6 @@ federalise
 fractionalize
 foreparents
 frap
-foreignness
 frasco
 foxbane
 faltered

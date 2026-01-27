@@ -5500,7 +5500,6 @@ gemellus
 guester
 glue
 grammatically
-glisk
 gruffed
 gastruran
 gammacismus
@@ -8673,6 +8672,7 @@ gaiting
 gisel
 greaved
 gesseron
+glisk
 gnatoo
 galvaniser
 grossulaceous
