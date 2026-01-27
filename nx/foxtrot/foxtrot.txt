@@ -1928,6 +1928,7 @@ flamboyantize
 faradizing
 forcelet
 flybrush
+feltmaker
 flybys
 fingerflower
 fontanelle
@@ -2239,7 +2240,6 @@ formulae
 fractocumulus
 fadme
 flashet
-feltmaker
 furtum
 fratercula
 farmhouse
