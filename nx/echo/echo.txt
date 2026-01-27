@@ -5228,7 +5228,6 @@ etiotropically
 endopathic
 endopelvic
 encyclopaedist
-epoptes
 endophagous
 episiocele
 endophyllum
@@ -11614,6 +11613,7 @@ ensilaging
 erethizon
 earthrise
 estrange
+epoptes
 endites
 evoking
 emblemed
