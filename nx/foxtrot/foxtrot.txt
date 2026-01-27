@@ -7680,7 +7680,6 @@ farrier
 fossula
 frederica
 firehouse
-felty
 frostproofing
 ferroglass
 fees
@@ -8854,6 +8853,7 @@ foreprise
 filletster
 flashtube
 frustula
+felty
 flunks
 facebar
 favorably
