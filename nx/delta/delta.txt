@@ -1426,7 +1426,6 @@ dawnlike
 diurna
 demimetope
 disoccident
-dichromasy
 dianite
 decenniums
 doless
@@ -4305,6 +4304,7 @@ demagoguery
 demagogues
 demal
 diode
+dichromasy
 dodoisms
 dorsoposterior
 dysacousia
