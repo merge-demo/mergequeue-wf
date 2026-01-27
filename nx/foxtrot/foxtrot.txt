@@ -3998,7 +3998,6 @@ fluorometry
 fang
 formalised
 filopodia
-fellowing
 freakful
 false
 flaccidness
@@ -6835,6 +6834,7 @@ foreweep
 furnaceman
 forspeaking
 fitnesses
+fellowing
 flamming
 fenmen
 foiningly
