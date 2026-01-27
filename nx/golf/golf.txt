@@ -1368,6 +1368,7 @@ germanely
 green
 garments
 gerodermia
+guidership
 gauss
 groundkeeper
 ginners
@@ -3269,7 +3270,6 @@ gutti
 gns
 gigantism
 geratologous
-guidership
 gametophytic
 goodhearted
 grainedness
