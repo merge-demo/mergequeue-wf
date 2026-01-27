@@ -6950,7 +6950,6 @@ ellipsoidal
 expatiate
 endangered
 ependymoma
-electrum
 eugenia
 equilibrious
 epithelioblastoma
@@ -9834,6 +9833,7 @@ elegiacal
 exponentiate
 eustace
 ebracteolate
+electrum
 elaeagnus
 emittance
 exergue
