@@ -15078,7 +15078,6 @@ antispeculation
 aggrandisement
 athena
 admonish
-antieducation
 antityrosinase
 antieducational
 abstr
@@ -19792,6 +19791,7 @@ auriculars
 adaptivity
 armariumaria
 armatoles
+antieducation
 arsphenamine
 albation
 anarchal
