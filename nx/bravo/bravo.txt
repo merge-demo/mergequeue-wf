@@ -2678,7 +2678,6 @@ benzofuroquinoxaline
 bescorch
 batrachite
 beeth
-blurred
 basilinna
 buckstall
 bescour
@@ -7032,6 +7031,7 @@ betrust
 banstickle
 barricades
 bloodying
+blurred
 bacteritic
 balked
 besmudge
