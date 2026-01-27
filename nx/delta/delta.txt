@@ -3116,7 +3116,6 @@ dipygus
 discolith
 diseaseful
 daubing
-dentated
 dislade
 dilogical
 disestablisher
@@ -13489,6 +13488,7 @@ disengagements
 diabolically
 dioptograph
 directionalize
+dentated
 duppy
 dardanium
 disreputableness
