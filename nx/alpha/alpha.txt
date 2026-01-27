@@ -2495,7 +2495,6 @@ americana
 adipic
 amphithalmi
 acnemia
-argumentum
 adiaphoral
 acnes
 alimenting
@@ -18307,6 +18306,7 @@ astrophyton
 ampullitis
 apotheoses
 anaesthetizing
+argumentum
 apart
 akaroa
 arachnoidea
