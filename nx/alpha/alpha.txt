@@ -695,7 +695,6 @@ aborigines
 abort
 alderfly
 aliquant
-aborted
 abortient
 anacardic
 assuring
@@ -8013,6 +8012,7 @@ advisory
 arbinose
 aldolase
 acronycally
+aborted
 antiholiday
 algal
 alkoran
