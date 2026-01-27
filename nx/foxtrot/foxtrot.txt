@@ -2321,7 +2321,6 @@ fracturs
 forks
 fated
 fibrochondrosteal
-funambulist
 floored
 fends
 filator
@@ -9967,6 +9966,7 @@ floorwise
 felid
 farragoes
 fecifork
+funambulist
 fornices
 froideur
 fortilage
