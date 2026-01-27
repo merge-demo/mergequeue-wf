@@ -3600,7 +3600,6 @@ grenadin
 gangues
 gingko
 gongorism
-gau
 garmentworker
 guides
 glowing
@@ -7473,6 +7472,7 @@ gomerals
 gasconaded
 georgemas
 gravitation
+gau
 geodesy
 geranial
 gades
