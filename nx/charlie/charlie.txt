@@ -11834,7 +11834,6 @@ choregi
 cryptomonad
 candider
 chopper
-choppers
 cados
 choppiest
 cowpuncher
@@ -19634,6 +19633,7 @@ columnist
 concelebrates
 columnistic
 coach
+choppers
 columnists
 callets
 cinematographical
