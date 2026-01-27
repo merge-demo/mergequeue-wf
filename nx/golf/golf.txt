@@ -7882,7 +7882,6 @@ gamester
 grouplet
 gyrostachys
 ghastliest
-goldfields
 grimes
 going
 glossematic
@@ -9714,6 +9713,7 @@ gamogony
 gibuses
 gowdie
 gascons
+goldfields
 grumous
 gowaned
 gelable
