@@ -3145,6 +3145,7 @@ becher
 bromoacetone
 birdlime
 baseburner
+bursar
 brachiator
 blackwort
 boosting
@@ -15049,7 +15050,6 @@ boatly
 brontoscopy
 breccias
 brecham
-bursar
 brechams
 brechans
 breakfaster
