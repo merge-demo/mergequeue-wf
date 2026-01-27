@@ -4708,7 +4708,6 @@ carp
 carpaine
 carpalia
 colotyphoid
-carpals
 chela
 carpathian
 carped
@@ -12582,6 +12581,7 @@ contrate
 crosslap
 cauterizing
 circumventable
+carpals
 chronoisothermal
 cellucotton
 chronologer
