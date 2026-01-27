@@ -1462,7 +1462,6 @@ fielding
 frimitts
 fricasseeing
 faithless
-fighters
 fatuism
 felicify
 firmness
@@ -4999,6 +4998,7 @@ fanterie
 fireworkless
 fulgural
 flourescent
+fighters
 fino
 facula
 furriers
