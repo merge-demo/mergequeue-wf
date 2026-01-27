@@ -10801,7 +10801,6 @@ amniomancy
 acclamation
 absolution
 amosite
-armsful
 anhydric
 availably
 amnios
@@ -14651,6 +14650,7 @@ aluminous
 addis
 aigret
 arrgt
+armsful
 antiarthritic
 afrogaea
 apepsia
