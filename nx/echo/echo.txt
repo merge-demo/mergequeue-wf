@@ -4050,6 +4050,7 @@ echappe
 emphasize
 exogens
 eversive
+escalator
 eyeblack
 expresser
 ephemeris
@@ -9423,7 +9424,6 @@ effecter
 educable
 epistolizable
 earmindedness
-escalator
 excommunicable
 emender
 ergonomics
