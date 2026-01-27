@@ -2247,7 +2247,6 @@ frowl
 felwort
 flatlander
 fathearted
-foreadapt
 fairsome
 forestery
 facetious
@@ -4829,6 +4828,7 @@ flex
 forbodes
 flappers
 foliobranch
+foreadapt
 frumentarious
 forkfuls
 fraulein
