@@ -1497,7 +1497,6 @@ calisthenics
 calite
 calyx
 coecal
-continents
 careening
 calkers
 chowse
@@ -8040,6 +8039,7 @@ cytozoa
 codirectional
 chloracne
 chacte
+continents
 chadarim
 colloquy
 catsup
