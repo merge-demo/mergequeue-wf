@@ -1351,7 +1351,6 @@ flashover
 flear
 fieldball
 flookan
-frithy
 formates
 foretopsail
 fallowness
@@ -7103,6 +7102,7 @@ festination
 focalising
 filippic
 frescoist
+frithy
 frigorifical
 faints
 fictionistic
