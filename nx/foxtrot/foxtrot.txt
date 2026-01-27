@@ -3163,6 +3163,7 @@ fogbank
 fairylike
 fraid
 fieulamort
+fmt
 fecula
 frottages
 feres
@@ -5717,7 +5718,6 @@ fainters
 forefeel
 familist
 fossilation
-fmt
 flyer
 forbearingness
 footages
