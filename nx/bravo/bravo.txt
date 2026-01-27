@@ -3286,7 +3286,6 @@ basilics
 basilidian
 bursitises
 brome
-babydom
 binormal
 breakless
 bolted
@@ -4945,6 +4944,7 @@ birefringence
 brig
 bonnne
 border
+babydom
 bindable
 brevets
 beefburgers
