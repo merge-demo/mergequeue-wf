@@ -1604,7 +1604,6 @@ encampment
 envigor
 exogeny
 essenis
-emball
 endosperm
 electrosynthetically
 evections
@@ -8967,6 +8966,7 @@ epiphanies
 errhine
 eudaemonist
 erical
+emball
 exoskeletal
 eteoclus
 extrapolative
