@@ -175,7 +175,6 @@ epilogic
 enchylema
 encephalomeric
 errite
-epilogist
 enzygotic
 enable
 emeutes
@@ -3080,6 +3079,7 @@ empathetic
 expect
 exaun
 eyereach
+epilogist
 elitist
 extraessentially
 enneateric
