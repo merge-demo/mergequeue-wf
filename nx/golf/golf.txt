@@ -6296,6 +6296,7 @@ guiser
 gallify
 gasogenes
 ginglymus
+geodesical
 golems
 gonfalons
 gobylike
@@ -10519,7 +10520,6 @@ gundie
 graspingness
 geometrina
 gonadotrophin
-geodesical
 gratiola
 glazings
 gelatined
