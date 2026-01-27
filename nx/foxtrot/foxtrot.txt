@@ -1869,7 +1869,6 @@ fingerprinting
 febricant
 frilly
 flashlight
-flavoured
 febricitant
 firearm
 frictions
@@ -4767,6 +4766,7 @@ facts
 flatfoots
 fayettism
 forgivably
+flavoured
 fearsome
 fiddled
 figurante
