@@ -8347,7 +8347,6 @@ alkahest
 agalaxy
 agistment
 allopath
-advertency
 assoin
 agrestal
 aortoptosis
@@ -15260,6 +15259,7 @@ acetimetry
 afterdinner
 antigravitate
 adequate
+advertency
 annale
 alleviator
 agamically
