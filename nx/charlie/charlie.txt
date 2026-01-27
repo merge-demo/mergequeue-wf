@@ -6066,7 +6066,6 @@ cloisterless
 catholicos
 curarize
 cervicitis
-cleg
 cyanide
 cacorhythmic
 catholyte
@@ -20410,6 +20409,7 @@ compadre
 curstfully
 conjurison
 carafes
+cleg
 calycanthemous
 compadres
 compage
