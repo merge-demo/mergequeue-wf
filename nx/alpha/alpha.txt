@@ -3282,7 +3282,6 @@ acutance
 amyloids
 anisoptera
 adornos
-acute
 ascomycetal
 acutest
 authorcraft
@@ -11459,6 +11458,7 @@ antihypertensive
 androdioecism
 acheweed
 abscessed
+acute
 apathus
 assewer
 auxiliarly
