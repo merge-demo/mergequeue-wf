@@ -4114,7 +4114,6 @@ feudal
 filelike
 fungoid
 finishable
-featherwise
 fabrication
 foredo
 fenianism
@@ -8070,6 +8069,7 @@ foredeep
 forespecified
 fll
 forespencer
+featherwise
 frivolling
 fatbirds
 foresing
