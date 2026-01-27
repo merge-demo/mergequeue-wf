@@ -4997,6 +4997,7 @@ groundward
 girondist
 granddada
 guidances
+galtonian
 gypper
 granita
 growze
@@ -9924,7 +9925,6 @@ gastrula
 genders
 guaracha
 gnamma
-galtonian
 genapp
 gracias
 geostationary
