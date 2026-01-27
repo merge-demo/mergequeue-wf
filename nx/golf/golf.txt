@@ -560,7 +560,6 @@ gorgerins
 gormandiser
 gagership
 gazement
-governably
 galut
 geohydrology
 gramary
@@ -10016,6 +10015,7 @@ gittern
 gubbins
 geoethnic
 glassware
+governably
 glutamic
 gubernative
 gubernatrix
