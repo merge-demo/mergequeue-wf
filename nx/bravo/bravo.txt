@@ -11684,7 +11684,6 @@ built
 boxhead
 buchmanite
 boatless
-banjoes
 belace
 bubblies
 befame
@@ -15286,6 +15285,7 @@ brickle
 bulbospinal
 bricklike
 beclose
+banjoes
 bricklining
 bucketing
 balneal
