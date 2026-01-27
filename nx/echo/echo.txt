@@ -3341,7 +3341,6 @@ eyesore
 entrench
 episcleral
 extracorporeal
-emancipates
 esophagospasm
 embuia
 elute
@@ -10171,6 +10170,7 @@ extrusible
 ecthlipses
 endorses
 etherealness
+emancipates
 explicans
 escherichia
 equisetum
