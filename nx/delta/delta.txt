@@ -4496,7 +4496,6 @@ defused
 devchar
 drinkableness
 defrauder
-destruction
 demiculverin
 dodgiest
 demidistance
@@ -15841,6 +15840,7 @@ deoxidizer
 dossiers
 dermatoptic
 diamondize
+destruction
 dorty
 daikers
 documentor
