@@ -9710,6 +9710,7 @@ encounterers
 embryotomies
 embrown
 evaginate
+emboil
 essoinment
 espousement
 essenwood
@@ -14106,7 +14107,6 @@ extremeless
 extremeness
 effeminate
 ethnologist
-emboil
 esteem
 extendedness
 evolutionistically
