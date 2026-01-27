@@ -3948,7 +3948,6 @@ calisaya
 ccm
 carboxylic
 chiro
-carboxyls
 carbuncle
 chuckrum
 chronoscopy
@@ -21163,6 +21162,7 @@ concededly
 couplets
 crash
 conceders
+carboxyls
 coenobite
 concedes
 chao
