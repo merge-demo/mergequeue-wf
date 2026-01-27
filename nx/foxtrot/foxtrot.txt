@@ -10927,7 +10927,6 @@ fieldwort
 forsworn
 falloffs
 fustigated
-firesafeness
 foremastmen
 facemaking
 furzier
@@ -11123,6 +11122,7 @@ factfinder
 foremasts
 fangled
 fiesta
+firesafeness
 functors
 forefront
 filibusterous
