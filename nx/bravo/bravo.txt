@@ -4614,7 +4614,6 @@ borborus
 bedaubing
 bloodstone
 belial
-bigeminate
 bedazzle
 banters
 bowsprit
@@ -14838,6 +14837,7 @@ buri
 brightener
 bedimplies
 braxy
+bigeminate
 beardedness
 braxies
 brunt
