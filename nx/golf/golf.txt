@@ -3954,7 +3954,6 @@ gnoff
 graphicly
 gigatons
 glossoscopy
-genetical
 geoduck
 gyroceras
 galactagogue
@@ -8666,6 +8665,7 @@ gazetteership
 genesic
 greatness
 gushers
+genetical
 girandola
 greave
 gapers
