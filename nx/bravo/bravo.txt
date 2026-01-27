@@ -5706,7 +5706,6 @@ bibliotaph
 beleper
 bobs
 bicycle
-bawdier
 bungarum
 bridegroomship
 barkpeeling
@@ -5769,6 +5768,7 @@ balaghat
 blowgun
 biophysics
 beaverroot
+bawdier
 bellbinder
 budgeree
 bullous
