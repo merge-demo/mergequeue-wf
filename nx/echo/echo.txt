@@ -3706,7 +3706,6 @@ embraid
 embrail
 embranchment
 ellick
-expositive
 emotionalised
 enascent
 eudaemonize
@@ -12683,6 +12682,7 @@ emendandum
 elychnious
 echo
 erotized
+expositive
 elzevir
 easterner
 espied
