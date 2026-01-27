@@ -5158,7 +5158,6 @@ arbutinase
 amiable
 affectional
 affectionally
-affectionateness
 affectioned
 apetalousness
 appeal
@@ -14687,6 +14686,7 @@ actorish
 ambulacral
 attractableness
 antiblastic
+affectionateness
 angledog
 agreeing
 adumbral
