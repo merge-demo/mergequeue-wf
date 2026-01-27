@@ -2830,7 +2830,6 @@ fraus
 familistere
 flocculator
 festinating
-fended
 fodgel
 freebooter
 filtration
@@ -10960,6 +10959,7 @@ fub
 foehn
 flexure
 fretwork
+fended
 fenbank
 fetal
 floorage
