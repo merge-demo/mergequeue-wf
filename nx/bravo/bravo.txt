@@ -5190,6 +5190,7 @@ bribeless
 boldly
 bellbind
 beardfish
+beltir
 befriender
 boyarisms
 bergamasca
@@ -17154,7 +17155,6 @@ blackland
 baselike
 bestial
 bullier
-beltir
 backheel
 bim
 bullies
