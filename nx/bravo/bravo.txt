@@ -264,7 +264,6 @@ beamily
 bacillariaceous
 bacillariophyta
 buckwasher
-bacilli
 bothros
 bacillicidal
 boxwoods
@@ -14238,6 +14237,7 @@ bedquilt
 becard
 brisken
 bushwife
+bacilli
 bracteole
 bracteose
 biblically
