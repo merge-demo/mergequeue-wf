@@ -730,7 +730,6 @@ badgerlike
 blowsier
 baganda
 bending
-befoul
 bandsawing
 badging
 buddhism
@@ -3824,6 +3823,7 @@ beldamship
 broadsides
 bestubble
 benchland
+befoul
 blundering
 bitterbush
 bedpad
