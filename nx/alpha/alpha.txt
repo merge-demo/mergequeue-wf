@@ -8574,7 +8574,6 @@ adjudicatory
 avizandum
 asterias
 accentuates
-antiexpressiveness
 antibishop
 archencephalic
 anotropia
@@ -15999,6 +15998,7 @@ arctangent
 acidification
 anaeroplasty
 astor
+antiexpressiveness
 archont
 acetones
 autotrophically
