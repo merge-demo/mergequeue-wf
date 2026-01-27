@@ -2595,7 +2595,6 @@ cordelled
 crepier
 camphires
 censuses
-cyclotrons
 canebrake
 cardioschisis
 cementmaking
@@ -4860,6 +4859,7 @@ carriageful
 clachans
 carriages
 crosstie
+cyclotrons
 crushability
 campongs
 ceratomania
