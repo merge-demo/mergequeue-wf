@@ -10803,6 +10803,7 @@ aboardage
 assayer
 amniomancy
 acclamation
+autostandardization
 absolution
 amosite
 anhydric
@@ -13461,7 +13462,6 @@ anthropopathy
 antefact
 appeasing
 avenin
-autostandardization
 annoyingly
 authigenic
 acidulates
