@@ -16420,6 +16420,7 @@ clivis
 clk
 climbing
 cloaca
+curse
 cloacae
 cryptanalyzed
 cloacaline
@@ -31519,7 +31520,6 @@ culiciform
 collectivization
 coservant
 cursa
-curse
 cursedly
 cutaneous
 conoclinium
