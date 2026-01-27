@@ -6120,6 +6120,7 @@ firmamental
 fictioneering
 featishness
 fusty
+forestarling
 foolscaps
 felspars
 flacon
@@ -7612,7 +7613,6 @@ filterers
 fortuitus
 foreburton
 forecast
-forestarling
 foams
 fullness
 foment
