@@ -2204,7 +2204,6 @@ arctogaeal
 account
 alguazil
 aquatinta
-achondritic
 agrostology
 autodecremented
 arioso
@@ -20128,6 +20127,7 @@ ametabolism
 approx
 array
 arrayal
+achondritic
 arraign
 absently
 antiquary
