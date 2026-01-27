@@ -18014,6 +18014,7 @@ czechic
 carcinology
 chipboard
 coelodont
+chan
 comet
 claymores
 communicates
@@ -24948,7 +24949,6 @@ combfishes
 corantoes
 covillea
 centesimi
-chan
 crowbill
 calicoed
 capitaling
