@@ -3483,7 +3483,6 @@ glossolaryngeal
 gourmets
 gerrymander
 globe
-gorgons
 gruiform
 goldwater
 gerrymanders
@@ -3529,6 +3528,7 @@ genoa
 glauconite
 glasgow
 gallophobia
+gorgons
 graptomancy
 griefful
 gimper
