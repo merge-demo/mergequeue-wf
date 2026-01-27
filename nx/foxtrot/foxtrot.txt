@@ -5279,7 +5279,6 @@ flavanone
 flambes
 forz
 fadged
-faceting
 flatted
 filmland
 flatteringness
@@ -11376,6 +11375,7 @@ footways
 foister
 fibropolypus
 fruitade
+faceting
 forming
 faute
 firetraps
