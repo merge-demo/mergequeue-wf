@@ -11257,7 +11257,6 @@ extracollegiate
 endover
 ectypography
 electrotonicity
-elaphine
 epibolies
 enkindling
 ectepicondylar
@@ -11275,6 +11274,7 @@ eably
 embusque
 enalyron
 electropuncture
+elaphine
 evangelic
 evangelical
 expatiator
