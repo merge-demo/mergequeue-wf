@@ -3298,7 +3298,6 @@ basinal
 bushland
 bombshell
 broader
-blunderful
 blacklegism
 basinet
 basinets
@@ -7172,6 +7171,7 @@ besprent
 bandless
 betweenity
 bocking
+blunderful
 blotchiest
 blowy
 betongue
