@@ -9854,7 +9854,6 @@ chemitypy
 chemizo
 colligated
 chastizer
-curiological
 chemokinetic
 chemolysis
 cicero
@@ -25955,6 +25954,7 @@ corver
 corvet
 corvette
 corvettes
+curiological
 catholicoi
 cadges
 corvidae
