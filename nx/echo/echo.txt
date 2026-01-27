@@ -12547,7 +12547,6 @@ enzymology
 exculpative
 esterify
 extoolitic
-enactable
 embarkations
 eftest
 extant
@@ -13139,6 +13138,7 @@ entoptically
 embody
 erasement
 expensiveness
+enactable
 expergefacient
 eyeshine
 exemplifiable
