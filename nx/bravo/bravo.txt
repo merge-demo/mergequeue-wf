@@ -3991,6 +3991,7 @@ bastardizations
 bilanders
 borborygm
 beachcombers
+biometric
 beachdrops
 biliment
 bioaccumulation
@@ -12759,7 +12760,6 @@ bowet
 booker
 bacterins
 billion
-biometric
 bookhood
 bloodhounds
 bookings
