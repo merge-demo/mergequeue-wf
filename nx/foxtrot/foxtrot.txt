@@ -6609,7 +6609,6 @@ frogskins
 filches
 fubbed
 fluted
-featherbedded
 faintish
 flameless
 filmlands
@@ -11506,6 +11505,7 @@ fructuousness
 fashery
 fruition
 furzeling
+featherbedded
 fluidics
 furzy
 fastest
