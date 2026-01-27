@@ -468,7 +468,6 @@ frockmaker
 fairship
 feal
 fiberous
-flitting
 fogmen
 flameholder
 foumart
@@ -8141,6 +8140,7 @@ foremention
 fumer
 flusterated
 forejudged
+flitting
 forenews
 forker
 faunistic
