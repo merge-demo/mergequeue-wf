@@ -6609,6 +6609,7 @@ facility
 forgie
 flabby
 frogeater
+fike
 fip
 failsoft
 frotted
@@ -7975,7 +7976,6 @@ foresees
 fonder
 frenzied
 flatteries
-fike
 further
 flamen
 frisket
