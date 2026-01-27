@@ -5992,7 +5992,6 @@ chevied
 cessionary
 carburized
 cathartolinum
-cathected
 cathedra
 cathedraled
 cathedralesque
@@ -12867,6 +12866,7 @@ churidars
 cyclized
 cupidity
 churinga
+cathected
 cercomonas
 churingas
 churl
