@@ -20361,6 +20361,7 @@ chattelship
 comoedus
 comolecule
 carbonite
+creddock
 crassness
 cuirass
 comose
@@ -28504,7 +28505,6 @@ credal
 chihuahua
 chevronel
 coitus
-creddock
 crocein
 chavicine
 carapaced
