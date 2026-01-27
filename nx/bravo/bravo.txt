@@ -4935,7 +4935,6 @@ basketweaving
 birefringence
 brig
 bonnne
-border
 babydom
 bindable
 brevets
@@ -17295,6 +17294,7 @@ braillewriter
 bullyable
 bummie
 bumming
+border
 basilweed
 bummler
 barberite
