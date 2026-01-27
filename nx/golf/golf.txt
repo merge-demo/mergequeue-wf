@@ -7675,7 +7675,6 @@ grubber
 germane
 geira
 giraffesque
-grounding
 geodynamics
 gyppery
 goli
@@ -8327,6 +8326,7 @@ galilei
 groundless
 gladii
 glyconics
+grounding
 gasteria
 graphoscope
 grudgeless
