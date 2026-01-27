@@ -6395,6 +6395,7 @@ fakirism
 fluidounce
 factory
 frankincensed
+fortifys
 flybelts
 fescennine
 fluked
@@ -8759,7 +8760,6 @@ fosset
 foreschooling
 followable
 firesafe
-fortifys
 finalist
 filicornia
 framboesia
