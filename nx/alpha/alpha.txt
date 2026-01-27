@@ -5309,7 +5309,6 @@ affranchise
 arzava
 adiadokokinesi
 affret
-acanthous
 aptotic
 agnosticism
 agglutinable
@@ -12089,6 +12088,7 @@ acetylenyl
 acetification
 aphetic
 anatum
+acanthous
 analysable
 aphanites
 anerethisia
