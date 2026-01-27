@@ -79,7 +79,6 @@ gears
 gourdlike
 gubernator
 gymnopaedes
-galabia
 gratify
 glandulose
 graunt
@@ -6553,6 +6552,7 @@ grummets
 gorevan
 gambas
 guazzo
+galabia
 groyne
 ghostwrite
 gulpingly
