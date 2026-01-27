@@ -1722,7 +1722,6 @@ agrestis
 artiest
 accumulativ
 aquatones
-asswages
 akelas
 apostatizes
 ayne
@@ -2110,6 +2109,7 @@ aphagia
 anticlinorium
 advertent
 apout
+asswages
 auditor
 ammonionitrate
 apaesthesia
