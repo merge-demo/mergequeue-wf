@@ -10453,7 +10453,6 @@ discanter
 disguisable
 dioxane
 dioxanes
-demonises
 droiture
 drumbeats
 defoliage
@@ -11228,6 +11227,7 @@ disfrancnise
 dyeline
 djins
 disavower
+demonises
 derringers
 depletes
 dottily

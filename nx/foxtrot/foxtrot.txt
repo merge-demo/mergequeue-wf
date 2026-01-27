@@ -1519,7 +1519,6 @@ fervent
 fungillus
 faucre
 foreknowingly
-fruited
 fancily
 fishmeal
 fairgoer
@@ -2380,6 +2379,7 @@ formyls
 favoring
 forebearing
 foreyards
+fruited
 frazzles
 fenzelia
 feod
