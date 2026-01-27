@@ -7421,7 +7421,6 @@ excursional
 exciseman
 enunciate
 ecclesiastically
-epicoelian
 echt
 ersatzes
 euclases
@@ -13435,6 +13434,7 @@ express
 extralinguistic
 eudaemonical
 empire
+epicoelian
 expressage
 edacities
 elucidate
