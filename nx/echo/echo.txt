@@ -3775,7 +3775,6 @@ elucidators
 evea
 epichirema
 embryophore
-embryos
 elaeocarpaceae
 encuirassed
 embryotega
@@ -9517,6 +9516,7 @@ enamouredness
 eschrufe
 earflower
 escopeta
+embryos
 euphemistical
 exosporium
 egomanias
