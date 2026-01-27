@@ -7915,6 +7915,7 @@ floppers
 firestorm
 fibroid
 floretum
+feracity
 forefinger
 fouls
 faunas
@@ -10059,7 +10060,6 @@ fungian
 futureless
 fermion
 flunkeyhood
-feracity
 frigotherapy
 fibrosities
 fucation
