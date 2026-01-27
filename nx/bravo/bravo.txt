@@ -12500,7 +12500,6 @@ bond
 bipinnatifid
 bondar
 bockerel
-bastardly
 behang
 bonderize
 bonderman
@@ -16088,6 +16087,7 @@ bloodstains
 bowess
 besteaded
 bronchotyphus
+bastardly
 bronchotome
 belucki
 bespectacled
