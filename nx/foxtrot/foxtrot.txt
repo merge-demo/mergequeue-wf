@@ -5230,7 +5230,6 @@ floccules
 fireweed
 fishiest
 fille
-fumeuse
 flashgun
 fifteenth
 fict
@@ -5796,6 +5795,7 @@ flingy
 floating
 funded
 fiddlestring
+fumeuse
 fishwife
 forsay
 folklorist
