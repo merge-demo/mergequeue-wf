@@ -16504,6 +16504,7 @@ demo
 dendrodont
 dacryops
 disarchbishop
+dorsalmost
 decolorimeter
 desmose
 draftsman
@@ -18608,7 +18609,6 @@ dusting
 dextrolimonene
 diakonikon
 dustour
-dorsalmost
 drapeability
 djasakid
 dissonantly
