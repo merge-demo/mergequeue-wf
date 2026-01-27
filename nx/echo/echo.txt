@@ -1344,6 +1344,7 @@ exodium
 emesis
 epicranius
 effectiveness
+exon
 eesome
 exscinding
 eyeful
@@ -3597,7 +3598,6 @@ earmuffs
 expellee
 endemically
 erraticism
-exon
 exsiccative
 epilogized
 eyestalks
