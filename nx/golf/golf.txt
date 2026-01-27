@@ -412,7 +412,6 @@ glucic
 gamosepalous
 gardenable
 gooseflesh
-garrote
 goldless
 galei
 geeldikkop
@@ -2803,6 +2802,7 @@ gathers
 galvanometer
 gazettal
 gormless
+garrote
 glassophone
 glutition
 guilloche
