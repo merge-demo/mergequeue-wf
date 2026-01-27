@@ -4211,7 +4211,6 @@ grimly
 governesshood
 gelofre
 genealogy
-gollar
 gaspergou
 gienah
 grandfather
@@ -9644,6 +9643,7 @@ galeopithecus
 gallize
 goniodorididae
 gobinist
+gollar
 griming
 glaucodote
 geests
