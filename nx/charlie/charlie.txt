@@ -4962,6 +4962,7 @@ collatable
 contemptibleness
 chirotes
 cleeked
+cynocephalic
 cartilagines
 chancroids
 cartilaginoid
@@ -21659,7 +21660,6 @@ condiction
 chosing
 condictious
 condiddle
-cynocephalic
 cooly
 crust
 condiddlement
