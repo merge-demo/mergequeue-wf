@@ -1738,7 +1738,6 @@ gammon
 glibber
 goric
 glass
-galravage
 gamesman
 guernseys
 gaullism
@@ -7541,6 +7540,7 @@ galactagoguic
 gapperi
 governesses
 galvanotonic
+galravage
 giust
 ghetti
 greathead
