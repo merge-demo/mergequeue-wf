@@ -4511,7 +4511,6 @@ carlock
 cogways
 cholecystotomies
 colliding
-circumference
 carlot
 carls
 cavorters
@@ -30499,6 +30498,7 @@ cubanite
 cubatory
 contraclockwise
 counterweighed
+circumference
 cubby
 cubbing
 cubbishness
