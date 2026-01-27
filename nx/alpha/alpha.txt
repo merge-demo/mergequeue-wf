@@ -14213,7 +14213,6 @@ aramaean
 amphibolies
 autochthonous
 anhedonia
-archetypal
 agnosias
 atomity
 archaeomagnetism
@@ -15335,6 +15334,7 @@ astraeiform
 anemoses
 apocatastasis
 arthroplasty
+archetypal
 athink
 apparens
 avadhuta
