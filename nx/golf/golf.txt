@@ -805,6 +805,7 @@ gimel
 goban
 granulater
 geonegative
+gobemouche
 glockenspiel
 goethe
 guaraunan
@@ -9802,7 +9803,6 @@ galiongee
 grun
 gien
 gtt
-gobemouche
 gagaku
 gymnastic
 gavel
