@@ -7582,7 +7582,6 @@ glucolysis
 gov
 gruntle
 gallingness
-geophyte
 gamash
 gowdnie
 gaspiness
@@ -10370,6 +10369,7 @@ galliform
 galactosamine
 grasshook
 getatability
+geophyte
 grike
 gumbos
 generators
