@@ -3106,7 +3106,6 @@ foursquare
 fractionalization
 fibril
 fuzing
-ferberite
 fluorin
 frounceless
 freend
@@ -11387,6 +11386,7 @@ fegary
 flightily
 footboards
 flashlamp
+ferberite
 figurally
 frenula
 flegm
