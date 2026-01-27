@@ -9183,7 +9183,6 @@ chemism
 chassed
 chasseing
 chassepot
-chassepots
 chiarooscurist
 chasseurs
 creatine
@@ -14517,6 +14516,7 @@ cystelcosis
 cosmologic
 cistercian
 caulocarpic
+chassepots
 cistercianism
 cisternae
 cariocas
