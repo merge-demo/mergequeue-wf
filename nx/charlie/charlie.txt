@@ -7456,7 +7456,6 @@ comanic
 cephas
 cepheid
 conchucu
-cepheids
 cephen
 coastings
 cardionephric
@@ -18173,6 +18172,7 @@ centerward
 chincha
 chemicking
 counterpunch
+cepheids
 chronologist
 chinbone
 chairless
