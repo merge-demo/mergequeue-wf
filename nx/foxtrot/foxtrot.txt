@@ -2182,7 +2182,6 @@ footprints
 frontogenesis
 finify
 fleam
-fletch
 fumishing
 fuchsite
 fosterling
@@ -9759,6 +9758,7 @@ foldouts
 facilitations
 fraising
 fustle
+fletch
 footwalls
 fingerroot
 functorial
