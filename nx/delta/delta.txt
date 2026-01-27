@@ -11850,6 +11850,7 @@ default
 dined
 doxology
 desmogenous
+downshift
 dermutation
 discretional
 delivering
@@ -16271,7 +16272,6 @@ discredits
 dispeace
 downriver
 didelphidae
-downshift
 diagnostically
 downshifted
 downshore
