@@ -3984,6 +3984,7 @@ escarp
 effulged
 encephalophyma
 emolumental
+emulator
 extemporiser
 enstate
 emory
@@ -12659,7 +12660,6 @@ egurgitating
 excussio
 enterobacterial
 empyemas
-emulator
 examining
 emissarium
 exogen
