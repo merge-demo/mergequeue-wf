@@ -4289,7 +4289,6 @@ eyesome
 elucidator
 ewound
 ewhow
-emulations
 exporters
 expiree
 escambio
@@ -13763,6 +13762,7 @@ enomaniac
 evokers
 extispex
 extremely
+emulations
 excavations
 epithalamial
 effusely
