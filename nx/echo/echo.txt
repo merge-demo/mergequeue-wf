@@ -4772,7 +4772,6 @@ encysts
 eyepieces
 ecdyses
 euphrosyne
-enarthrosis
 emeerates
 embussed
 entophyte
@@ -8459,6 +8458,7 @@ elatcha
 epigonation
 electrooculogram
 equerries
+enarthrosis
 eardrum
 erodible
 endodermic
