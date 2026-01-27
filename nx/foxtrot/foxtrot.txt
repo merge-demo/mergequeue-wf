@@ -6844,6 +6844,7 @@ formelt
 fatheaded
 fodderless
 frized
+figwort
 fleece
 feering
 fulicinae
@@ -7218,7 +7219,6 @@ fossette
 footboys
 floodgate
 fairling
-figwort
 fishweir
 foleye
 farinacious
