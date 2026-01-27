@@ -4891,6 +4891,7 @@ forbiddenness
 faculae
 frenzily
 fissurellidae
+filosus
 feuillants
 feltmonger
 freshened
@@ -8991,7 +8992,6 @@ floush
 fronded
 fossicker
 fierier
-filosus
 faultfinder
 fuddling
 fatigues
