@@ -7023,7 +7023,6 @@ balked
 besmudge
 beamless
 bronzite
-baalist
 burdon
 behaviorism
 bigeminated
@@ -12505,6 +12504,7 @@ bechase
 barde
 bells
 bescrawl
+baalist
 booklists
 bisymmetrically
 brujas
