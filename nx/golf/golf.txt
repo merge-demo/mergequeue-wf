@@ -140,7 +140,6 @@ grazings
 greenth
 grower
 germiniparous
-gratelike
 garrot
 galipot
 graniteware
@@ -7312,6 +7311,7 @@ glaucosuria
 grossness
 glycerole
 goffered
+gratelike
 genet
 guze
 gravelling
