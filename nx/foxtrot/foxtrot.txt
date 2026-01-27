@@ -9569,6 +9569,7 @@ floatplane
 fibdom
 fearable
 fleshpots
+feebling
 fiducinales
 faveoluli
 folkishness
@@ -10155,7 +10156,6 @@ failsafe
 flyball
 foamiest
 forehall
-feebling
 forwardness
 fiercly
 fetalism
