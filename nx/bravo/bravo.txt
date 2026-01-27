@@ -1957,6 +1957,7 @@ baaskaap
 barleybreak
 bifidate
 biotechs
+bowsie
 baselard
 bandrol
 battens
@@ -13985,7 +13986,6 @@ bine
 boxcars
 brairo
 bishopful
-bowsie
 bacteriuria
 boxful
 bleed
