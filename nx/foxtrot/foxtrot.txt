@@ -1395,6 +1395,7 @@ fatigue
 fossicks
 forwear
 fatiguesome
+fogus
 fulminuric
 formable
 fruticeous
@@ -9791,7 +9792,6 @@ furiously
 fido
 frenchly
 funestal
-fogus
 fissionability
 feddan
 floatable
