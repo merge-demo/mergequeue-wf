@@ -1328,6 +1328,7 @@ dipentine
 demissive
 diploid
 dompt
+deadfall
 damagement
 dart
 dauntingness
@@ -2007,7 +2008,6 @@ dimble
 doglegged
 defaecate
 dysphasia
-deadfall
 dacryocele
 despaired
 decadrachmae
