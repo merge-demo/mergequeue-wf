@@ -2888,7 +2888,6 @@ begrain
 besmoothing
 benignantly
 beebread
-binaurally
 bawrel
 bitterbump
 bullionist
@@ -7496,6 +7495,7 @@ bouldery
 bedeviling
 bewinged
 bebeerine
+binaurally
 bifidities
 bookstack
 budgeting
