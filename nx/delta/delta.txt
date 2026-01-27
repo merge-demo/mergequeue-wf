@@ -2624,6 +2624,7 @@ deathtraps
 decoll
 diplococcoid
 decocting
+droopy
 deguelia
 dumbcow
 dispensaries
@@ -6012,7 +6013,6 @@ discommoded
 dept
 diaschistic
 dispraise
-droopy
 deceivable
 devitation
 disfavorer
