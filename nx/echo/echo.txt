@@ -2267,7 +2267,6 @@ eysoge
 embryogeny
 exhumate
 electant
-entify
 elect
 epitheliulia
 evidential
@@ -9996,6 +9995,7 @@ enskies
 entoil
 equisetales
 eichwaldite
+entify
 exfoliating
 extrospection
 englishize
