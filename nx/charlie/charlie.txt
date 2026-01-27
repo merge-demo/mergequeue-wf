@@ -21533,6 +21533,7 @@ coerces
 concreted
 concretely
 canicule
+circumadjacent
 concreter
 concretional
 chemigrapher
@@ -22956,7 +22957,6 @@ coifs
 consisently
 consist
 contractured
-circumadjacent
 consistences
 consistency
 catalytic
