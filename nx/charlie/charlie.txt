@@ -4335,7 +4335,6 @@ carhops
 contorted
 continuing
 cary
-caryatid
 corrects
 cigaresque
 caryatids
@@ -5952,6 +5951,7 @@ creeled
 cokeney
 catfish
 chouanize
+caryatid
 catfoot
 catfooted
 chhatri
