@@ -10757,7 +10757,6 @@ broadish
 bowhead
 bibl
 bannock
-blisteringly
 blenk
 baronetizing
 bedunced
@@ -14315,6 +14314,7 @@ basifixed
 bovista
 britzkas
 bradley
+blisteringly
 bareka
 beckiron
 bravoes
