@@ -10037,6 +10037,7 @@ exanthemas
 examined
 eggberries
 energetic
+emissivity
 epichile
 etched
 editor
@@ -11920,7 +11921,6 @@ exploding
 eyr
 enhypostatic
 entrepreneurship
-emissivity
 enfume
 emends
 engore
