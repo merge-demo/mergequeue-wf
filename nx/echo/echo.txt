@@ -8041,7 +8041,6 @@ ernie
 extrusion
 eyebath
 enheritage
-edgerman
 ensconced
 energumenon
 ethnomanic
@@ -13473,6 +13472,7 @@ exorate
 expropriator
 enunciability
 egyptian
+edgerman
 eringo
 epenthetic
 erythrophore
