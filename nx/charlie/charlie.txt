@@ -6268,7 +6268,6 @@ caudle
 caudles
 clavered
 caudocephalad
-ceile
 clappering
 covertness
 caudofemoral
@@ -12603,6 +12602,7 @@ chronometrically
 chronon
 choppily
 chronons
+ceile
 chefrinia
 chromatoptometer
 chronophotography
