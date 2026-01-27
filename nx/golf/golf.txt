@@ -970,6 +970,7 @@ glycogenesis
 gridding
 ganderess
 genethlialogy
+globularity
 grimace
 gubernia
 gimleting
@@ -7497,7 +7498,6 @@ gambols
 gelatinizable
 garapato
 gastromenia
-globularity
 gnathism
 griffade
 gavelmen
