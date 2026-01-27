@@ -1446,7 +1446,6 @@ bawls
 balefires
 bewreak
 barmbrack
-berylate
 bethumped
 branned
 baleys
@@ -5696,6 +5695,7 @@ bobs
 bicycle
 beshadowing
 bungarum
+berylate
 bridegroomship
 barkpeeling
 bluism
