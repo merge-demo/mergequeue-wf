@@ -14285,7 +14285,6 @@ amasesis
 anthol
 aerophore
 antileukemic
-anodes
 aroras
 antireaction
 aniseikonia
@@ -19580,6 +19579,7 @@ aryanism
 askari
 arianist
 arianistic
+anodes
 alas
 ajatasatru
 affirmer
