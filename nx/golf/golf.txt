@@ -3684,6 +3684,7 @@ ghettoes
 ghettoizing
 grenadilla
 glaver
+galaxiidae
 gamomania
 greillade
 garganeys
@@ -4134,7 +4135,6 @@ gizmos
 girandole
 genetor
 gyropilot
-galaxiidae
 graphitization
 growled
 geggee
