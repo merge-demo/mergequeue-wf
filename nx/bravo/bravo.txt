@@ -2847,7 +2847,6 @@ bell
 betulaceous
 bullated
 baroqueness
-barneys
 boneache
 blonder
 barmie
@@ -5816,6 +5815,7 @@ batfish
 bimetallism
 berengelite
 boastings
+barneys
 bonasa
 bakula
 blatchang
