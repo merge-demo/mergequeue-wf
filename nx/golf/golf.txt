@@ -115,7 +115,6 @@ guising
 gazogene
 gypsyhood
 goatland
-girdled
 guerdoned
 gyros
 gangrening
@@ -4501,6 +4500,7 @@ generically
 gristles
 geophytes
 geomagnetism
+girdled
 gloeocapsoid
 girlie
 grantiidae
