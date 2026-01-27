@@ -241,7 +241,6 @@ fruitfullness
 fruitworm
 feverroot
 firelock
-forthcomingness
 facultatively
 faculties
 furfuraldehyde
@@ -3679,6 +3678,7 @@ firearmed
 filesniff
 freijo
 fibrocaseous
+forthcomingness
 follyproof
 foreroom
 floatboard
