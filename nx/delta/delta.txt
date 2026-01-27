@@ -124,6 +124,7 @@ drawbench
 deviascope
 dekko
 driftlet
+defies
 dinar
 dyophone
 daddles
@@ -12601,7 +12602,6 @@ doping
 darnel
 dropsically
 depend
-defies
 dissuasive
 divertible
 downlinking
