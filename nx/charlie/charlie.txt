@@ -8389,7 +8389,6 @@ chambered
 chamberlainry
 caccia
 chrysolophus
-candiot
 centroid
 chamberleted
 ceratorhine
@@ -12317,6 +12316,7 @@ christophe
 churrworm
 coastside
 casement
+candiot
 christos
 christward
 cresting
