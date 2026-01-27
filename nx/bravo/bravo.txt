@@ -986,6 +986,7 @@ brassards
 baptist
 betook
 bindle
+bitumens
 bahoe
 bycoket
 binge
@@ -3293,7 +3294,6 @@ brome
 babydom
 binormal
 breakless
-bitumens
 bolted
 basinal
 bushland
