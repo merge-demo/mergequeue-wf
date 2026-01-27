@@ -3948,7 +3948,6 @@ extramolecular
 easternized
 eminently
 expressionless
-edentulous
 englory
 equalness
 eels
@@ -5300,6 +5299,7 @@ ethylmorphine
 exsurge
 endocorpuscular
 eparchial
+edentulous
 extrusive
 eosaurus
 endorsed
