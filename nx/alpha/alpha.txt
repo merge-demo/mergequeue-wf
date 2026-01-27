@@ -20664,6 +20664,7 @@ albumen
 arthrospore
 arthrostome
 arthrostomy
+amelioration
 aboideaus
 amputative
 arthrotome
@@ -24714,7 +24715,6 @@ acolyth
 averments
 admove
 antidiastase
-amelioration
 alligatorfish
 acnode
 alii
