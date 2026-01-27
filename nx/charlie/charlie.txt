@@ -6020,7 +6020,6 @@ chemigraphic
 cathetusti
 cathexes
 cathy
-ceratophrys
 cathine
 cathinine
 coheads
@@ -27831,6 +27830,7 @@ cozey
 cozeier
 cozen
 cozenages
+ceratophrys
 cozened
 cozeners
 cinquecento
