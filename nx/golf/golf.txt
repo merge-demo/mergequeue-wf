@@ -3225,6 +3225,7 @@ goaltender
 guinde
 grandstand
 gwendolen
+gigantomachy
 gular
 garetta
 gallomania
@@ -5976,7 +5977,6 @@ grossulariaceous
 gluemaker
 gloriousness
 glutinative
-gigantomachy
 granuloadipose
 glaciable
 glutose
