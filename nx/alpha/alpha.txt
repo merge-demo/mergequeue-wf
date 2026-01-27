@@ -15917,7 +15917,6 @@ accidia
 amici
 arnut
 acculturative
-appointor
 attent
 autorotate
 antiqua
@@ -24326,6 +24325,7 @@ albespyne
 acquist
 aluminographic
 apparent
+appointor
 aeroporotomy
 abacinate
 affinite

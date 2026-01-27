@@ -3614,7 +3614,6 @@ genevieve
 gerodontic
 ghaffir
 gumi
-gimlets
 guacho
 gewgaws
 ghan
@@ -4860,6 +4859,7 @@ glacieret
 ghanian
 gouaches
 garookuh
+gimlets
 graphemes
 gowns
 gymnothorax
