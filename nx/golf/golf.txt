@@ -1712,7 +1712,6 @@ grassquit
 glaciation
 goldfinnies
 glaucin
-gussie
 gnarlier
 geosid
 gremmies
@@ -2625,6 +2624,7 @@ grayware
 galena
 graal
 gigues
+gussie
 glims
 gospelize
 galler
