@@ -2897,7 +2897,6 @@ didunculidae
 detainers
 deerlike
 decurion
-diviners
 demented
 diorthosis
 deathling
@@ -3871,6 +3870,7 @@ disp
 diplomats
 dagswain
 diaxonic
+diviners
 dibstones
 dissipating
 didder
