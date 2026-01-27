@@ -5850,7 +5850,6 @@ amblyoscope
 agglomerates
 agglomeration
 agglomerative
-arachnologist
 agglutinate
 arenaceous
 agglutinative
@@ -8661,6 +8660,7 @@ abnormalizing
 abscind
 accusatival
 aliya
+arachnologist
 antiteetotalism
 anticommunism
 alleviatingly
