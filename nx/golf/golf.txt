@@ -1736,6 +1736,7 @@ glibber
 goric
 glass
 galravage
+ganggang
 gamesman
 guernseys
 gaullism
@@ -4409,7 +4410,6 @@ gildable
 grides
 gentamicin
 gumdigger
-ganggang
 gymnocarpic
 galantine
 goozle
