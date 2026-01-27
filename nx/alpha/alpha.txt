@@ -841,7 +841,6 @@ alexandrine
 acropolises
 anathematising
 aestuary
-abscision
 abruption
 addedly
 arachnoiditis
@@ -17528,6 +17527,7 @@ acroliths
 admirable
 appeasingly
 antiegotism
+abscision
 appellability
 amidward
 antiphrasis
