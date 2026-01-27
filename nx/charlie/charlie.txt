@@ -18017,7 +18017,6 @@ coelodont
 comet
 claymores
 communicates
-coeloma
 coelomata
 cactales
 companies
@@ -23353,6 +23352,7 @@ contactually
 cratering
 contadino
 ceratosaurus
+coeloma
 contagioned
 coif
 computation
