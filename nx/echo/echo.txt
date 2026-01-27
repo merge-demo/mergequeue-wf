@@ -5326,6 +5326,7 @@ endoscopies
 endoskeletons
 endosmic
 embaphium
+externalize
 edged
 excepted
 explicit
@@ -8739,7 +8740,6 @@ erotical
 epilepsy
 ejecta
 ennuied
-externalize
 exconjugant
 equableness
 extravillar
