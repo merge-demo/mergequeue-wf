@@ -1547,6 +1547,7 @@ gery
 grype
 grandiloquence
 ghoul
+grovellings
 gadflies
 gunrack
 grounder
@@ -9614,7 +9615,6 @@ goujat
 geishas
 gneissoid
 galesaurus
-grovellings
 growan
 gasboat
 glucoses
