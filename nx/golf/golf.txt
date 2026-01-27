@@ -2785,6 +2785,7 @@ gotch
 gaunt
 growling
 grievingly
+galbulae
 greatcoat
 gile
 gyne
@@ -4619,7 +4620,6 @@ glycerizin
 geast
 gufought
 gloggs
-galbulae
 galipoipin
 gamboge
 glucosaemia
