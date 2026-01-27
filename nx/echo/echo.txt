@@ -2421,6 +2421,7 @@ epicaridan
 electrodeless
 exponentials
 ectogenetic
+echinochrome
 electroetching
 earlet
 electrodeposition
@@ -3787,7 +3788,6 @@ exhaustivity
 egoistry
 embrittle
 enfranchised
-echinochrome
 echinital
 embrittling
 embryulcia
