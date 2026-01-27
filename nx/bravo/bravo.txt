@@ -8338,7 +8338,6 @@ bedismal
 biggened
 bayonetting
 betain
-buckplate
 backward
 baccharoid
 bakepan
@@ -13849,6 +13848,7 @@ bowbent
 bowdichia
 bloodily
 beboppers
+buckplate
 basoid
 brisa
 backwasher
