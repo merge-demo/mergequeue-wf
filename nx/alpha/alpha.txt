@@ -9388,7 +9388,6 @@ alternamente
 aframerican
 antilocapridae
 ambilateral
-annotatory
 axonolipa
 allochetite
 alternate
@@ -15455,6 +15454,7 @@ argyric
 achage
 allioniaceae
 antimilitary
+annotatory
 astacian
 antiministerial
 anterevolutional
