@@ -9331,7 +9331,6 @@ bruckled
 bloviating
 bawdry
 buzuki
-birational
 butterwright
 birched
 besugo
@@ -14455,6 +14454,7 @@ beepers
 boffola
 burrow
 belabours
+birational
 brainily
 boom
 blaw
