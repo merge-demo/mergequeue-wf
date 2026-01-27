@@ -12470,7 +12470,6 @@ becurses
 bridecake
 basally
 bests
-bonbo
 bowerlike
 beanos
 bakeout
@@ -17688,6 +17687,7 @@ burlesquer
 butterfly
 bidiurnal
 blarney
+bonbo
 brachioganoid
 basker
 berengaria
