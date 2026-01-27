@@ -3231,6 +3231,7 @@ actionless
 activation
 actuation
 acturience
+abnegators
 acuaesthesia
 agoge
 achingly
@@ -12806,7 +12807,6 @@ anglepod
 anglepods
 amianthine
 arousement
-abnegators
 antiquarianly
 angletwitch
 allotheist
