@@ -951,7 +951,6 @@ extrastate
 episedia
 encomiastic
 excommunicators
-enemylike
 endosporous
 exampled
 envision
@@ -5134,6 +5133,7 @@ elaeoblast
 enneaphyllous
 embolon
 engirt
+enemylike
 epigrammatizing
 endocrinic
 existentialistic
