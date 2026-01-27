@@ -1544,7 +1544,6 @@ gery
 grype
 grandiloquence
 ghoul
-grovellings
 gadflies
 gunrack
 grounder
@@ -2740,6 +2739,7 @@ geniture
 geodesists
 gerald
 gigful
+grovellings
 genesiurgic
 guillotine
 gader
