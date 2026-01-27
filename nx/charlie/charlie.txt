@@ -1979,7 +1979,6 @@ cloghad
 catholicizer
 counterflashing
 camelry
-canchito
 camelus
 castalia
 camembert
@@ -18150,6 +18149,7 @@ causing
 cyathaspis
 craneman
 coenomonoecism
+canchito
 coenospecies
 coenospecifically
 chicory
