@@ -2351,7 +2351,6 @@ graylag
 garlandage
 galvanolysis
 gymnics
-geographism
 gelees
 gymnocerata
 gadinic
@@ -3381,6 +3380,7 @@ gids
 gaging
 geodiatropism
 galvanic
+geographism
 genion
 goshen
 gauzy
