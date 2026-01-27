@@ -2701,7 +2701,6 @@ barghest
 breechloader
 bantamweight
 brugh
-buret
 backlins
 brotany
 berrugate
@@ -3198,6 +3197,7 @@ bodied
 barbecue
 busine
 birdieing
+buret
 bubukle
 basial
 basiarachnitis
