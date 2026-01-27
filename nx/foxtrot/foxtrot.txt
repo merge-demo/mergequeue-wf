@@ -2081,7 +2081,6 @@ feinter
 forisfamiliation
 feudary
 flunking
-fundi
 facedown
 flitty
 foreschool
@@ -4991,6 +4990,7 @@ federationist
 flakage
 fidleys
 frictionized
+fundi
 flotsen
 flamboyantism
 funiculi
