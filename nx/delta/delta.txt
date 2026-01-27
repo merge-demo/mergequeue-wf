@@ -6558,7 +6558,6 @@ descriptionist
 dogsled
 descriptionless
 dangleberry
-dysnomy
 defied
 designator
 diota
@@ -12871,6 +12870,7 @@ deliquiesce
 diplopod
 demiparadise
 dithalous
+dysnomy
 disman
 darksome
 dishevelment
