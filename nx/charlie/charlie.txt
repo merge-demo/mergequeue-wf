@@ -4625,7 +4625,6 @@ contemplator
 caroa
 colleger
 commonsensible
-cryonics
 carob
 caroba
 chicot
@@ -14292,6 +14291,7 @@ collapsed
 circumsession
 circumsinous
 circumsolar
+cryonics
 collow
 cocciferous
 circumspangle
