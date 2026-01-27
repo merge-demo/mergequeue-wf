@@ -1163,6 +1163,7 @@ grift
 gasthaus
 guidingly
 gaslights
+goosefoot
 gouaree
 gantlines
 gaon
@@ -7409,7 +7410,6 @@ grateless
 gassit
 grandest
 gregariniform
-goosefoot
 galvanometers
 giga
 gutters
