@@ -1430,6 +1430,7 @@ fabronia
 fermatas
 faradized
 frith
+finalities
 fanzines
 figitidae
 freezer
@@ -7841,7 +7842,6 @@ funfairs
 foremother
 flattie
 frithbot
-finalities
 flyblew
 forbad
 flockier
