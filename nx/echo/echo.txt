@@ -734,7 +734,6 @@ epidermous
 earthsets
 electrotrephine
 ecology
-encephalolith
 envisions
 ekes
 employing
@@ -5355,6 +5354,7 @@ evendown
 enwingly
 euonymus
 excarnate
+encephalolith
 endeavoring
 enlargedly
 enmagazine
