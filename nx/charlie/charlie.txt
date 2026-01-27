@@ -10242,6 +10242,7 @@ chicanery
 chicaneries
 chicaners
 convallarin
+counterword
 chicanes
 chicano
 coimmense
@@ -20417,7 +20418,6 @@ condonative
 concamerate
 companable
 circumfluent
-counterword
 cannels
 company
 companias
