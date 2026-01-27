@@ -18359,7 +18359,6 @@ aramids
 appendical
 aramina
 afflictedness
-andromorphous
 araneoidea
 alarmed
 arangoes
@@ -21459,6 +21458,7 @@ asperity
 annatto
 anthrol
 attrib
+andromorphous
 associationist
 abdicating
 asperly

@@ -7653,7 +7653,6 @@ bradypus
 beeper
 burgling
 bewraps
-bullpen
 bonairly
 basilisks
 belesprit
@@ -16425,6 +16424,7 @@ bedew
 bemole
 blepharoncus
 bemoaner
+bullpen
 bangup
 bioelectrogenetically
 bioelectronics
