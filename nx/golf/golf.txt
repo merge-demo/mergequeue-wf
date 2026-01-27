@@ -8149,7 +8149,6 @@ gamiest
 gluttonizing
 garau
 gratulating
-gasteromycetes
 glunching
 glaives
 gladiatrix
@@ -10040,6 +10039,7 @@ gaffer
 ghostlet
 grf
 gemmule
+gasteromycetes
 grammatolator
 geek
 gribane
