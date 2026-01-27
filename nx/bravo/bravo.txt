@@ -8916,7 +8916,6 @@ biochemic
 brassish
 bonedog
 bearhugs
-biddings
 brimse
 biocycle
 baboon
@@ -16093,6 +16092,7 @@ batrachoid
 barythymia
 basifiers
 boubous
+biddings
 bludgeoning
 bishoprics
 bronk
