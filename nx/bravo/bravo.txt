@@ -4965,7 +4965,6 @@ bairnliness
 badchan
 burgall
 bouncing
-beehive
 boatel
 bandy
 beek
@@ -13918,6 +13917,7 @@ baltic
 balr
 blatter
 beanfeast
+beehive
 buchite
 beadiest
 bowyer
