@@ -5275,7 +5275,6 @@ apriori
 afflictingly
 abranchian
 ambulante
-archoplasm
 agranulocytosis
 acceder
 applanate
@@ -16582,6 +16581,7 @@ alp
 acknowledgeable
 abstractions
 acalculia
+archoplasm
 apeek
 apelles
 acuminate
