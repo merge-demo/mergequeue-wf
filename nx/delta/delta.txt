@@ -10400,6 +10400,7 @@ diopters
 dismark
 delf
 discounter
+dexamethasone
 dioptometer
 decorably
 deoxidized
@@ -11840,7 +11841,6 @@ defeasibility
 disrespectable
 dehydrogenize
 drawplate
-dexamethasone
 dogblow
 disported
 debellate
