@@ -7184,7 +7184,6 @@ generalship
 gingely
 gospoda
 gillotage
-gonomery
 gonagra
 geniuses
 gadolinic
@@ -10464,6 +10463,7 @@ geometries
 gusset
 goosy
 gilgai
+gonomery
 glossological
 guimpe
 geratology
