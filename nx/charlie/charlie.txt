@@ -9544,7 +9544,6 @@ computational
 checkstring
 cuissen
 checksum
-cocarde
 checksumming
 castro
 cistaceae
@@ -22541,6 +22540,7 @@ conjugium
 countercause
 comfreys
 colluding
+cocarde
 chorizontist
 caslon
 clubfist
