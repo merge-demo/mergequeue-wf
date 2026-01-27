@@ -394,6 +394,7 @@ eastre
 elegiast
 extents
 enturret
+evince
 empresse
 embleming
 epirogenic
@@ -11560,7 +11561,6 @@ effigy
 electromyogram
 emendate
 engouled
-evince
 endlessly
 embryoma
 evincible
