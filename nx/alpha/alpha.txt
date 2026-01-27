@@ -16859,7 +16859,6 @@ allodelphite
 aerodonetic
 ad
 apiculi
-antenor
 achievements
 araucan
 apiculturist
@@ -23098,6 +23097,7 @@ azonic
 andabata
 adenoma
 attaints
+antenor
 archsatrap
 awingly
 amitotically
