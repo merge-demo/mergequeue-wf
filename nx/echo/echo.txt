@@ -742,6 +742,7 @@ enspell
 estantion
 erythrozincite
 endotoxic
+euhemerist
 endosmotic
 exceptant
 eidently
@@ -5034,7 +5035,6 @@ emplane
 encia
 epichindrotic
 episiotomy
-euhemerist
 erythrolysis
 equerry
 enrolled
