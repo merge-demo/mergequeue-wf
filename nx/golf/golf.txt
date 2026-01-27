@@ -3538,7 +3538,6 @@ gewgawry
 geckoes
 gyrfalcon
 geriatric
-grivoise
 gladdening
 gulo
 gastropore
@@ -5872,6 +5871,7 @@ grandesque
 gravimetric
 gallinaceous
 graphometrist
+grivoise
 gallywasp
 ganymedes
 grysbok
