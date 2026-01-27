@@ -4342,6 +4342,7 @@ caribal
 chymosin
 cariban
 caribbean
+chetah
 catalin
 caribbeans
 chelation
@@ -31220,7 +31221,6 @@ craniopathy
 clawhammer
 cura
 crowded
-chetah
 curable
 chromotypography
 cotyloidal
