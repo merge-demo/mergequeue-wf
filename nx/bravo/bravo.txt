@@ -14326,6 +14326,7 @@ biographize
 brads
 brainsickness
 byword
+barothermohygrograph
 boarding
 bronchiogenic
 brochidodromous
@@ -17542,7 +17543,6 @@ bermudite
 bleep
 boko
 bulbocapnine
-barothermohygrograph
 backwardly
 bibliotherapies
 behymn
