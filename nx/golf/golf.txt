@@ -494,7 +494,6 @@ galivants
 gleamiest
 goldthread
 gustily
-gowdnook
 glassteel
 glucinium
 gabler
@@ -10738,6 +10737,7 @@ gypsyisms
 gunpapers
 gnomonological
 galloot
+gowdnook
 galleried
 gournard
 gagers
