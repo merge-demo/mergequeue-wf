@@ -9140,7 +9140,6 @@ buffleheaded
 bletting
 banc
 beefburger
-bhaktas
 bismutosmaltite
 branchial
 bubbybush
@@ -12429,6 +12428,7 @@ birkenhead
 brickwall
 batik
 boombox
+bhaktas
 beget
 bluishness
 bedizening
