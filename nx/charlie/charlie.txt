@@ -4663,7 +4663,6 @@ carols
 caplets
 coddle
 carolus
-chemicocautery
 causeless
 caroluses
 carom
@@ -17194,6 +17193,7 @@ coaffirmation
 coafforest
 coaged
 cablemen
+chemicocautery
 coagel
 counterdemonstration
 consignificative
