@@ -6617,7 +6617,6 @@ facility
 forgie
 flabby
 frogeater
-farweltered
 fip
 failsoft
 frotted
@@ -7309,6 +7308,7 @@ footpaces
 ferfathmur
 flipperling
 fifer
+farweltered
 foolocracy
 finery
 fairer
