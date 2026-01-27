@@ -2684,7 +2684,6 @@ formalistic
 fulgurator
 finebent
 fountainless
-frivol
 foredeclare
 faltboat
 filigreed
@@ -10510,6 +10509,7 @@ fluxional
 fruitfully
 forecastle
 floe
+frivol
 floorshift
 farce
 fleet
