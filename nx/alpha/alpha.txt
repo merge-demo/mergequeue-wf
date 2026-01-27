@@ -6694,6 +6694,7 @@ acrotreta
 airable
 avenue
 airan
+athwartwise
 airboat
 airboats
 anomal
@@ -19418,7 +19419,6 @@ analysts
 actinians
 afterstate
 alsinaceae
-athwartwise
 authorship
 augurial
 argentry
