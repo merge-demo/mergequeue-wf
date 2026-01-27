@@ -1817,7 +1817,6 @@ bufonidae
 burion
 barbell
 brittled
-budgereegah
 botryllidae
 boothes
 bamalip
@@ -8465,6 +8464,7 @@ boort
 boggart
 bundu
 bilby
+budgereegah
 bestialised
 baignet
 bilbo
