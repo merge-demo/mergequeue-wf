@@ -3172,7 +3172,6 @@ bunda
 bleakest
 bonnes
 bronchography
-briskly
 brachiating
 bookcase
 biphase
@@ -7906,6 +7905,7 @@ beauclerc
 bibliologies
 brains
 brachiation
+briskly
 boteroll
 baldachinos
 bibliologist
