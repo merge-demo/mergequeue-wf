@@ -3664,6 +3664,7 @@ glancing
 grinnie
 gro
 gastroenterological
+gastrolienal
 gluconeogenic
 goblet
 goldest
@@ -10453,7 +10454,6 @@ gerrymandered
 gametophagia
 gynaeolater
 gonotype
-gastrolienal
 gypaetus
 graveolent
 goldish

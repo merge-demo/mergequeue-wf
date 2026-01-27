@@ -6722,7 +6722,6 @@ enwoman
 enshield
 euphemising
 eutychianism
-erythrogonium
 enkindler
 electromotiv
 enterosepsis
@@ -12057,6 +12056,7 @@ epitrochlea
 excoriated
 electroanalysis
 excoriating
+erythrogonium
 egestions
 enlivenment
 engenderment
