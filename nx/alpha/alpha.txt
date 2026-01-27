@@ -13754,7 +13754,6 @@ acetylate
 anorn
 anorogenic
 airthing
-alexiteric
 anorth
 anorthite
 adriana
@@ -18899,6 +18898,7 @@ augustan
 adenomas
 almacigo
 asymtotically
+alexiteric
 aslantwise
 angiocardiographic
 archimime
