@@ -8284,7 +8284,6 @@ bream
 bluegill
 briefings
 brawniness
-brighter
 budgie
 broodingly
 booze
@@ -15104,6 +15103,7 @@ binapthyl
 befetter
 benthamic
 betiding
+brighter
 bandaka
 breenger
 babushka
