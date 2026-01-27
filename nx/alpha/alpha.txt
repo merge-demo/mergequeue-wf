@@ -18400,7 +18400,6 @@ amaryllid
 arawak
 arawakian
 anatomized
-antlion
 amboceptor
 actinistia
 addleplot
@@ -18516,6 +18515,7 @@ animists
 apostrophise
 approximatively
 aircrew
+antlion
 androseme
 arborous
 arborvitaes
