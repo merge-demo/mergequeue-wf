@@ -4239,6 +4239,7 @@ adposition
 acmispon
 avernal
 azonium
+alloxantin
 armorer
 alchornea
 aesculapius
@@ -14249,7 +14250,6 @@ adrop
 augustinianism
 affableness
 anthesterin
-alloxantin
 anthicidae
 asop
 arthroplastic
