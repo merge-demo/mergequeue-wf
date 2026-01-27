@@ -3037,7 +3037,6 @@ bartended
 behemoths
 barrera
 beared
-baseness
 bottstick
 bartending
 blasts
@@ -8664,6 +8663,7 @@ bepaw
 bistriate
 bounceable
 begorah
+baseness
 buncoed
 bebization
 brochette
