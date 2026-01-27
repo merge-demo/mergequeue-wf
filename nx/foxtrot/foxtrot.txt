@@ -5868,7 +5868,6 @@ fleuronnee
 fungous
 fuzzball
 favorers
-fascistization
 furnage
 fungistatic
 frequentation
@@ -9901,6 +9900,7 @@ firings
 frogs
 fouler
 fortescue
+fascistization
 frib
 formee
 fribbler
