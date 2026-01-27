@@ -1549,6 +1549,7 @@ efl
 endocystitis
 entocondylar
 endophytous
+excavate
 electionary
 echograph
 entomophilous
@@ -10689,7 +10690,6 @@ epappose
 epinephelidae
 evilproof
 enmoss
-excavate
 endozoa
 eques
 enharmonical
