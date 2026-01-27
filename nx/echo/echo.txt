@@ -8815,6 +8815,7 @@ exuperable
 extrapelvic
 encystment
 encyrtid
+evilspeaker
 emphractic
 equivoluminal
 explainers
@@ -9573,7 +9574,6 @@ eugenesis
 extrasolar
 evilest
 exempt
-evilspeaker
 envois
 esebrias
 echinocereus
