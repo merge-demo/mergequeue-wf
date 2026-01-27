@@ -12790,7 +12790,6 @@ bostrychoidal
 ballant
 booklear
 brandishing
-booklore
 bhavan
 bardily
 birma
@@ -13669,6 +13668,7 @@ batteried
 binning
 beclouded
 boviculture
+booklore
 blousy
 blepharophyma
 blockaders
