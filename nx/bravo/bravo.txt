@@ -4091,7 +4091,6 @@ backbreaker
 bakuba
 bedolt
 bumperette
-blanch
 blockheads
 badinage
 bannerets
@@ -17459,6 +17458,7 @@ baltis
 bluey
 bunking
 babeldom
+blanch
 browny
 bunny
 bethumb
