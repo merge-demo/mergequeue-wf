@@ -7624,7 +7624,6 @@ autoloaders
 acroter
 ankou
 abaissed
-autoimmunize
 alcoholometer
 acidic
 accustomation
@@ -10424,6 +10423,7 @@ auguration
 amphipodan
 aniellidae
 aristides
+autoimmunize
 ameliorativ
 amidoplast
 alison
