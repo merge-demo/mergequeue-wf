@@ -2040,7 +2040,6 @@ flinthearted
 fissipeds
 fedora
 fide
-flipper
 fautor
 faujdar
 fusils
@@ -10998,6 +10997,7 @@ focaloid
 flecked
 fiking
 festooned
+flipper
 firebolt
 fleshlier
 furmities
