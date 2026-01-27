@@ -4750,7 +4750,6 @@ englishism
 enrapture
 excitants
 eulogism
-estre
 emplaced
 exponentiating
 emittent
@@ -13222,6 +13221,7 @@ expiators
 ectromelian
 endostracal
 epaenetic
+estre
 ecospecific
 echinopsine
 expiration
