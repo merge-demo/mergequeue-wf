@@ -6517,7 +6517,6 @@ bepretty
 bedirt
 beetleheaded
 brothering
-bequalm
 bioblast
 bequeathed
 blackfish
@@ -12553,6 +12552,7 @@ becarpeting
 bumbling
 broncholith
 brandying
+bequalm
 branchling
 busing
 benzhydrol
