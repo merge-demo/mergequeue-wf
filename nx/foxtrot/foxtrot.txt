@@ -84,7 +84,6 @@ famousness
 florification
 facetely
 froufrous
-foreflap
 forebitten
 fairyfolk
 falsest
@@ -11439,6 +11438,7 @@ furred
 fascis
 frieze
 founte
+foreflap
 ferrateen
 fluor
 forelive
