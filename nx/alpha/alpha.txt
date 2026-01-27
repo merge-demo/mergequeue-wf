@@ -3431,7 +3431,6 @@ abridgeable
 adatis
 antiecclesiastical
 ascitical
-adaxial
 adazzle
 adcons
 admires
@@ -21166,6 +21165,7 @@ affirmingly
 aseity
 acephalan
 aselar
+adaxial
 associator
 asellate
 actaeon
