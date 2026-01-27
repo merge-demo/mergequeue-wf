@@ -481,7 +481,6 @@ glaucodot
 grama
 ghostism
 gnomes
-geomorphology
 galimatias
 galabiya
 gisement
@@ -2171,6 +2170,7 @@ gantlopes
 guayaberas
 griffith
 gastropulmonary
+geomorphology
 gawsie
 gliss
 gerontine
