@@ -1910,7 +1910,6 @@ antifaction
 acetabulous
 afifi
 acetacetic
-autopsic
 acetalize
 arrector
 autocolony
@@ -20017,6 +20016,7 @@ ambuling
 anticonvulsant
 applemonger
 aroast
+autopsic
 arsono
 arock
 assurers
