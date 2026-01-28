@@ -1586,7 +1586,6 @@ direfulness
 dairyman
 deadpanned
 doubtance
-deadpans
 depayse
 dinotherium
 daikering
@@ -5697,6 +5696,7 @@ demersal
 depletions
 danton
 denutrition
+deadpans
 disparities
 diploblastic
 delthyrium
