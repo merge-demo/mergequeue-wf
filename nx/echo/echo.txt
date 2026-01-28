@@ -6874,7 +6874,6 @@ extramental
 eumenes
 ectosarcs
 elix
-enl
 eyeless
 equestriennes
 extipulate
@@ -11871,6 +11870,7 @@ eulogized
 enduement
 expenders
 eyas
+enl
 excarnificate
 entoproctous
 epistler

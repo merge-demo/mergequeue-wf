@@ -2806,6 +2806,7 @@ frizer
 fussbudget
 friedelite
 festerment
+flightiness
 falsehearted
 footway
 fortescure
@@ -6145,7 +6146,6 @@ fanaticise
 featness
 fermorite
 fluotitanate
-flightiness
 finger
 fontange
 folding
