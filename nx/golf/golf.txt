@@ -7113,6 +7113,7 @@ gregorianist
 gastral
 germanist
 gargarize
+garden
 gox
 gondolet
 gedanken
@@ -9564,7 +9565,6 @@ geophagous
 graals
 galvanofaradization
 glutinize
-garden
 gagate
 gristliness
 graphophonic
