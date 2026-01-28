@@ -2075,7 +2075,6 @@ gutlessness
 gillied
 glutted
 gavots
-glossers
 gluishness
 glorious
 gator
@@ -5040,6 +5039,7 @@ gettable
 grolier
 glebeless
 gammed
+glossers
 geotilla
 galbulidae
 gynandrosporous
