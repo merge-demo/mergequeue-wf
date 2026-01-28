@@ -5845,7 +5845,6 @@ floodwater
 flippancies
 flareback
 flavorfulness
-fetor
 feathered
 ferulas
 foosterer
@@ -9721,6 +9720,7 @@ fecklessly
 feliform
 feigners
 flabrum
+fetor
 furaciousness
 florally
 freewheelingness
