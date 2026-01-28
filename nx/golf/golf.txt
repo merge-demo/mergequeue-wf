@@ -2056,7 +2056,6 @@ glossiness
 goaf
 gallied
 glime
-grapeful
 gantry
 gazzetta
 gutterize
@@ -10488,6 +10487,7 @@ gumshoeing
 galangals
 geerah
 gramenite
+grapeful
 goofily
 gerard
 genizero
