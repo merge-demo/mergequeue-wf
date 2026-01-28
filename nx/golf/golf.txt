@@ -4210,7 +4210,6 @@ grimly
 governesshood
 gelofre
 genealogy
-gaspergou
 gienah
 grandfather
 gloy
@@ -5465,6 +5464,7 @@ guniter
 gambist
 gascoign
 guran
+gaspergou
 glossator
 girlhood
 gus
