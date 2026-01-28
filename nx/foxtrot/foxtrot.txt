@@ -3409,7 +3409,6 @@ fidge
 frogfoot
 flavorer
 fress
-fermentum
 fractals
 faultage
 fastigiate
@@ -6007,6 +6006,7 @@ frankliniana
 fungose
 fisherfolk
 fdname
+fermentum
 frenchiness
 flockings
 fudged
