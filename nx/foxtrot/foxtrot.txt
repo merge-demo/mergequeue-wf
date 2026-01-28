@@ -1054,6 +1054,7 @@ fireling
 flerrying
 farmerly
 forrel
+fullage
 fivepenny
 fletcherize
 folates
@@ -3972,7 +3973,6 @@ flight
 fumigators
 fusinist
 fluoridated
-fullage
 fluorindin
 fustianize
 foggage
