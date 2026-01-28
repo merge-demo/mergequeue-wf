@@ -8100,6 +8100,7 @@ gallons
 glassier
 gymnotid
 gratae
+gizzened
 glitzy
 gypsydoms
 genistin
@@ -9300,7 +9301,6 @@ ghosts
 gasometry
 gigantal
 glumosity
-gizzened
 gayly
 garishly
 geothermometer
