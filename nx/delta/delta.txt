@@ -2792,6 +2792,7 @@ deftnesses
 drumheads
 dollardom
 dulcite
+disarranges
 downloaded
 dint
 drypoints
@@ -11173,7 +11174,6 @@ dictatorial
 downflow
 dented
 decagon
-disarranges
 discernibility
 dulled
 dorhawk
