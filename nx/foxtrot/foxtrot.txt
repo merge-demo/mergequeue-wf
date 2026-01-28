@@ -6676,6 +6676,7 @@ fluorhydric
 flabs
 fortuitist
 flyboats
+firework
 falconiform
 franseria
 foraminifera
@@ -10633,7 +10634,6 @@ feracities
 farces
 founds
 fatidical
-firework
 fussock
 froggier
 forestalling
