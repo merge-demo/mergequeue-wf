@@ -1691,7 +1691,6 @@ flemer
 forgrow
 fluoridizing
 fortuitousness
-foliolose
 fearedly
 fearedness
 fluidizes
@@ -5420,6 +5419,7 @@ flagellum
 fretters
 flain
 fernwort
+foliolose
 fauces
 fulyie
 farrierlike

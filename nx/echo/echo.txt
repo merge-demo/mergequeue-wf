@@ -6756,7 +6756,6 @@ enigmatize
 endosepsis
 epicenters
 emunge
-enuresis
 easting
 exstill
 entete
@@ -8706,6 +8705,7 @@ equinumerally
 equinus
 ethrogs
 elfishness
+enuresis
 etherialism
 expositions
 epipoditic
