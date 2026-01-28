@@ -4283,7 +4283,6 @@ coauthored
 cursillo
 careless
 carelessly
-carelessness
 careme
 calculator
 ceremonies
@@ -15073,6 +15072,7 @@ clabularium
 clach
 chlorogenine
 clack
+carelessness
 clackama
 circumtropical
 chinsed
