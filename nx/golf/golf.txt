@@ -955,6 +955,7 @@ genre
 grouting
 gliriformia
 goldurn
+gaberloonie
 gerodontology
 gumbo
 granddads
@@ -1792,7 +1793,6 @@ glossolaly
 gametophore
 gutterblood
 gelatinotype
-gaberloonie
 gestalten
 grumpiness
 gammarus
