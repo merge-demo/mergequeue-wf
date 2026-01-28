@@ -5786,7 +5786,6 @@ goony
 grunts
 glomus
 gnatworm
-goniometer
 graveless
 globoid
 geobotanically
@@ -8795,6 +8794,7 @@ gudefather
 goo
 guacharoes
 grantors
+goniometer
 gorge
 greenling
 grogram
