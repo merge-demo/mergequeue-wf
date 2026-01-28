@@ -8458,7 +8458,6 @@ champagnized
 cesurae
 champak
 chamfering
-characterstring
 crummed
 carriole
 champaka
@@ -22964,6 +22963,7 @@ consisently
 consist
 contractured
 consistences
+characterstring
 consistency
 catalytic
 companioning
