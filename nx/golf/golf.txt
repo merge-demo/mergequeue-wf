@@ -6114,7 +6114,6 @@ gangliac
 gigliato
 gallimaufry
 gyrous
-gurniad
 gastroid
 geitonogamous
 gyroma
@@ -10676,6 +10675,7 @@ greatheartedness
 gabi
 grog
 gelatinobromide
+gurniad
 gurl
 goldin
 generalty
