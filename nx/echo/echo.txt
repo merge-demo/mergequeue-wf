@@ -6041,7 +6041,6 @@ enumerates
 enterospasm
 excursus
 empaler
-enhydrinae
 empiry
 electrobrasser
 expromissor
@@ -7477,6 +7476,7 @@ ensilability
 ecphorize
 elbowbush
 exalt
+enhydrinae
 exosporous
 ephas
 ebriosity
