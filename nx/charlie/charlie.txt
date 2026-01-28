@@ -11058,7 +11058,6 @@ cowbirds
 carloads
 calamus
 counterpaled
-cocos
 codeless
 chiton
 cageling
@@ -27052,6 +27051,7 @@ counterprophet
 collegially
 conceptualization
 choiler
+cocos
 counterproposal
 caplock
 clerking
