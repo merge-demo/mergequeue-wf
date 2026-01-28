@@ -2992,7 +2992,6 @@ actinias
 actinic
 akene
 antitropical
-archenteron
 aulostomi
 actiniomorpha
 audiometrist
@@ -11976,6 +11975,7 @@ abduced
 anthropophagize
 admiral
 autodestruction
+archenteron
 apician
 aletris
 assertiveness
