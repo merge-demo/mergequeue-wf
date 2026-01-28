@@ -693,6 +693,7 @@ endothermy
 elodes
 enshrouding
 electrostatic
+enwrought
 excitonic
 emaculate
 exsertion
@@ -3916,7 +3917,6 @@ entrapment
 exemplarily
 exosculation
 euryclea
-enwrought
 ecclesiologist
 engendering
 excedent
