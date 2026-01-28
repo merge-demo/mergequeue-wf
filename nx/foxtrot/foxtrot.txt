@@ -4636,7 +4636,6 @@ fruitlet
 fourth
 feudists
 frit
-floripondio
 feuder
 footboy
 fisticuff
@@ -5402,6 +5401,7 @@ flawflower
 flawing
 flabbergasted
 footloose
+floripondio
 fangy
 foamed
 floppily

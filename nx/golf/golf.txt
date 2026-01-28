@@ -6986,6 +6986,7 @@ glyconeogenesis
 grapevine
 gybed
 germander
+gibs
 garrigue
 groundsman
 gastroepiploic
@@ -10521,7 +10522,6 @@ gonadotrophin
 gratiola
 glazings
 gelatined
-gibs
 gulix
 georgia
 grallic
