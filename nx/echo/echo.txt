@@ -834,6 +834,7 @@ expedition
 enfeebling
 ensphered
 endogonidium
+eternalness
 eggcupful
 emotionalization
 erugatory
@@ -10820,7 +10821,6 @@ enclaret
 extort
 enteroclysis
 ephemeran
-eternalness
 extramoralist
 extincting
 eigenvector
