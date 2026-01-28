@@ -6727,7 +6727,6 @@ counterthrust
 christenmas
 clamoring
 celestine
-ceilers
 ceilidhe
 ceiling
 ceilings
@@ -11217,6 +11216,7 @@ conturb
 chloridated
 consuls
 crocodiloid
+ceilers
 crackups
 calderon
 ceca
