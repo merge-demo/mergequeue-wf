@@ -24880,6 +24880,7 @@ crepitation
 cheilion
 conveyers
 cardecu
+coverable
 corial
 comous
 counterprotest
@@ -27533,7 +27534,6 @@ coventry
 coroplast
 creaturehood
 cover
-coverable
 coverages
 cytostatically
 cuselite
