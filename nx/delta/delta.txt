@@ -4775,7 +4775,6 @@ disenslave
 diphthong
 demography
 dissimilative
-demographically
 demichamfron
 distorts
 divertissement
@@ -9374,6 +9373,7 @@ dread
 dodos
 divekeeper
 diffame
+demographically
 dietted
 detracts
 disapprove

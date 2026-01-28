@@ -2978,7 +2978,6 @@ gondite
 glossarially
 grapline
 gratuitous
-gridder
 gentlefolk
 gambusia
 glitnir
@@ -9475,6 +9474,7 @@ goshenite
 gobia
 gouramis
 gemmate
+gridder
 glandulation
 gynecolatry
 gimmeringly
