@@ -4210,7 +4210,6 @@ agatelike
 acquisita
 adorers
 advises
-attaint
 adoringly
 australianism
 ascophyllum
@@ -8916,6 +8915,7 @@ ailments
 ataghan
 arsnicker
 allose
+attaint
 allosyndetic
 autoregulatory
 aureolas
