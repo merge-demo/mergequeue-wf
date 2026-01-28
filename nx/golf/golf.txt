@@ -145,7 +145,6 @@ galipot
 graniteware
 ghettoized
 gnomonology
-glunimie
 gorgonian
 gremiale
 galvanosurgery
@@ -7677,6 +7676,7 @@ girdler
 gunsmithery
 gorgonlike
 garnetiferous
+glunimie
 greyware
 giddying
 guachamaca
