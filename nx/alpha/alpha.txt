@@ -5837,7 +5837,6 @@ acrogenous
 agglomerate
 abraid
 anychia
-amblyoscope
 agglomerates
 agglomeration
 agglomerative
@@ -19004,6 +19003,7 @@ axonopus
 actiniform
 azelate
 archmocker
+amblyoscope
 amusia
 anastomosed
 auctionary
