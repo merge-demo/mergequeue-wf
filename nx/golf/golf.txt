@@ -2212,6 +2212,7 @@ geoidal
 garmented
 gestational
 geotaxis
+glyceroxide
 gooseskin
 goaves
 gastrolith
@@ -5335,7 +5336,6 @@ gamelan
 gromil
 glycerite
 gigmanism
-glyceroxide
 glabrous
 gadswoons
 gothicness
