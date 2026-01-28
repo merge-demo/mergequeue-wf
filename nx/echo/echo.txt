@@ -814,7 +814,6 @@ echinal
 envelope
 euomphalid
 ephedrins
-ecrase
 enclitic
 endopodite
 endoplastular
@@ -2106,6 +2105,7 @@ exclaim
 eicosane
 estivating
 enjoyers
+ecrase
 encumberer
 evacuative
 elapine
