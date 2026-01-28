@@ -13964,7 +13964,6 @@ burial
 blueblood
 bacteriotropic
 binoculate
-birdlike
 bowstrung
 behavior
 bowtell
@@ -14734,6 +14733,7 @@ brasiletto
 brasilin
 bibliomancy
 balustrade
+birdlike
 balletically
 bioscientist
 balneotherapeutics
