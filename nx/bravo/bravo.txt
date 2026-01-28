@@ -2859,7 +2859,6 @@ bandh
 buffaloback
 bedarken
 bruta
-brachyfacial
 beisa
 bloodmobile
 bitis
@@ -17939,6 +17938,7 @@ bowwows
 belga
 balletic
 bankrolls
+brachyfacial
 bushwack
 burgrave
 bonewood
