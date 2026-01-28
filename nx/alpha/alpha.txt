@@ -11109,7 +11109,6 @@ amphidisc
 auroral
 acanthoid
 aircoaches
-amphidiscophoran
 appliedly
 aerophilia
 antick
@@ -17174,6 +17173,7 @@ anthropoid
 atmos
 arcking
 apartment
+amphidiscophoran
 adaptableness
 ankerites
 anatosaurus
