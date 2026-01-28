@@ -670,6 +670,7 @@ eclegma
 ehrman
 etatism
 excretitious
+epithecium
 euahlayi
 erythroxylum
 eof
@@ -1431,7 +1432,6 @@ efficacies
 endochylous
 exhortation
 eleutherodactyli
-epithecium
 electrotechnic
 epiclidal
 embolden
