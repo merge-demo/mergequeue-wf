@@ -9049,7 +9049,6 @@ cervantist
 chaffless
 chepster
 charmless
-charmlessly
 cloth
 charmonium
 charms
@@ -31604,6 +31603,7 @@ curvative
 curvature
 cravats
 cozy
+charmlessly
 clingstone
 constructed
 capitoul
