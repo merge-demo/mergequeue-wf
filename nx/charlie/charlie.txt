@@ -10398,7 +10398,6 @@ chondrotome
 chiffre
 chigetai
 chigga
-chiggers
 congession
 chigoes
 conquered
@@ -24050,6 +24049,7 @@ columbary
 convergent
 cytogeny
 chemoceptor
+chiggers
 converges
 converging
 cavers
