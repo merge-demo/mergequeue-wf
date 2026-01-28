@@ -8033,7 +8033,6 @@ dft
 disweapon
 dialects
 defences
-derbylite
 dextrorotatory
 dissonant
 defenestration
@@ -9267,6 +9266,7 @@ dieldrins
 doziest
 disparately
 dismerit
+derbylite
 depender
 drosophilidae
 depositional

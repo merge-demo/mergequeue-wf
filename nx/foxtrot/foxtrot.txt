@@ -1947,6 +1947,7 @@ fruitage
 filtrated
 foamless
 furtherance
+fimbrilla
 feteritas
 foldstool
 feints
@@ -5459,7 +5460,6 @@ feoffee
 fidges
 fleahopper
 fructuously
-fimbrilla
 frankability
 fum
 flouncier
