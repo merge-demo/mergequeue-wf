@@ -9666,6 +9666,7 @@ cowdie
 cheeses
 cheesewood
 cheesiest
+corymblike
 crabeater
 chevre
 convocate
@@ -25210,7 +25211,6 @@ cads
 clocking
 corymbiate
 corymbiated
-corymblike
 chickening
 corymbose
 codifiability
