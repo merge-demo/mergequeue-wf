@@ -8043,7 +8043,6 @@ chloracne
 chacte
 continents
 chadarim
-colloquy
 catsup
 capstones
 chador
@@ -23319,6 +23318,7 @@ canarium
 consummated
 consummating
 calamaroid
+colloquy
 consummative
 checklists
 coreigner
