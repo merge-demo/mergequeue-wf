@@ -5788,6 +5788,7 @@ engrammes
 explorate
 eyot
 emptied
+emoted
 ependymitis
 epoch
 earnestness
@@ -11486,7 +11487,6 @@ enhydrous
 escorting
 explorers
 eluctation
-emoted
 enhaloing
 encephalosis
 edgebone
