@@ -4766,7 +4766,6 @@ fetis
 flections
 flexibilities
 fumariaceae
-friend
 flatwashes
 fishpot
 forefeelingly
@@ -8168,6 +8167,7 @@ felons
 filmiest
 fathogram
 fitting
+friend
 fumigator
 forkedness
 freedmen
