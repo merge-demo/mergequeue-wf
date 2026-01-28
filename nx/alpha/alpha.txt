@@ -12791,6 +12791,7 @@ autoinductive
 ammoniticone
 anethol
 aeroscopically
+autotomising
 adenohypophysis
 angle
 aquaplaned
@@ -18885,7 +18886,6 @@ abridge
 archigastrula
 archigonic
 astalk
-autotomising
 addoom
 aphelian
 astigmia
