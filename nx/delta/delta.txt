@@ -2623,7 +2623,6 @@ decoke
 deathtraps
 decoll
 diplococcoid
-decocting
 droopy
 deguelia
 dumbcow
@@ -9356,6 +9355,7 @@ dazing
 diluvions
 difficilitate
 dietrichite
+decocting
 dyeware
 disorchard
 delisted
