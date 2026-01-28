@@ -4386,7 +4386,6 @@ fluyt
 factive
 fet
 fructiferousness
-fretworked
 foddering
 fluorins
 fellnesses
@@ -6845,6 +6844,7 @@ figwort
 fleece
 feering
 fulicinae
+fretworked
 foresworn
 furthering
 felloe
