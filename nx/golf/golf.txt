@@ -5276,7 +5276,6 @@ goffers
 guestimate
 gaited
 gyrovagi
-groggiest
 goofer
 gemmipara
 groovy
@@ -10637,6 +10636,7 @@ gossipries
 gyroceracone
 gaylies
 goatherd
+groggiest
 galbulus
 gerontologies
 gelation
