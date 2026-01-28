@@ -4773,6 +4773,7 @@ disenslave
 diphthong
 demography
 dissimilative
+dittanies
 demichamfron
 distorts
 divertissement
@@ -14349,7 +14350,6 @@ dittamy
 deviless
 degas
 diolefin
-dittanies
 drosses
 daceloninae
 dichastasis

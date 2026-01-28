@@ -5754,7 +5754,6 @@ bogeying
 bribes
 beparody
 bedsheets
-barrator
 bergander
 bechance
 belittle
@@ -13822,6 +13821,7 @@ blesseder
 bedlam
 bogs
 boatful
+barrator
 balance
 bait
 brazes
