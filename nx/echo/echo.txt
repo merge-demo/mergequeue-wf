@@ -9983,6 +9983,7 @@ ennew
 ecclesiae
 ensampler
 electrocautery
+enamelled
 estrif
 enterocele
 elisor
@@ -12031,7 +12032,6 @@ exaggerate
 essenic
 exclusive
 enaunter
-enamelled
 exclusivistic
 encaustes
 effuso
