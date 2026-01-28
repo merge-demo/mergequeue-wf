@@ -6718,7 +6718,6 @@ blitter
 buzzers
 balaamitical
 beeishness
-bathmotropic
 brontosaurus
 berloque
 breviate
@@ -16921,6 +16920,7 @@ burhead
 bichromatic
 bathysophic
 buffoonish
+bathmotropic
 bungle
 baret
 betorn
