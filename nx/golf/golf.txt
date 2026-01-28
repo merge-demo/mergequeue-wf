@@ -1217,7 +1217,6 @@ gambler
 grackles
 guana
 gassed
-gaufre
 grouters
 general
 glittered
@@ -3550,6 +3549,7 @@ gesticulations
 gemsbucks
 grueller
 guberla
+gaufre
 gagman
 gynandrous
 gametogenesis
