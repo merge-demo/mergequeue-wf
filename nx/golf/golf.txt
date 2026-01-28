@@ -2620,7 +2620,6 @@ gonocalyx
 graphostatical
 galleasses
 gynecia
-galores
 grayware
 galena
 graal
@@ -4729,6 +4728,7 @@ gynander
 gustable
 germicidal
 girts
+galores
 gelidium
 gettered
 generater
