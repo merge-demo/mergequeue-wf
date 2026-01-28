@@ -1934,7 +1934,6 @@ gra
 greeve
 guttiness
 glosser
-galbula
 glorifiers
 glaucophyllous
 galliards
@@ -3123,6 +3122,7 @@ gastful
 gastrodermis
 guffaws
 gurglet
+galbula
 glauconiferous
 goan
 golandaas
