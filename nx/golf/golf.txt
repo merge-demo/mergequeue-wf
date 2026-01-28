@@ -1024,7 +1024,6 @@ glub
 gnarl
 goops
 gebanga
-genitally
 grivna
 gorgonin
 gluteofemoral
@@ -4952,6 +4951,7 @@ glagolic
 gonimium
 granum
 glucuronic
+genitally
 garcon
 grazeable
 gloriously
