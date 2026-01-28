@@ -10047,7 +10047,6 @@ arew
 ambroid
 arboraceous
 ambrosiaceae
-ambrosias
 abates
 argine
 affords
@@ -10854,6 +10853,7 @@ amoy
 apinoid
 amok
 asunder
+ambrosias
 azure
 antidepressive
 anabaptizing
