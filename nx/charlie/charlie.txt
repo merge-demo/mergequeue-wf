@@ -9046,7 +9046,6 @@ cevitamic
 choragy
 chromodiascope
 curlily
-cervantist
 chaffless
 chepster
 charmless
@@ -9307,6 +9306,7 @@ custos
 calodaemon
 catagmatic
 chapitle
+cervantist
 chaukidari
 chaulmaugra
 chaulmoogra
