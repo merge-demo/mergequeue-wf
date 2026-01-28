@@ -160,7 +160,6 @@ gamond
 guimbard
 glassworm
 goliardic
-gag
 goliathize
 goniometry
 gradgrind
@@ -889,6 +888,7 @@ gambia
 gerbillus
 garava
 garnishable
+gag
 gemeinschaften
 guttler
 guppies
