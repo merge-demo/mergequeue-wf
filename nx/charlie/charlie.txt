@@ -15340,7 +15340,6 @@ clangours
 clangs
 conquests
 contraremonstrance
-critter
 counterplot
 calluses
 catawamptious
@@ -26718,6 +26717,7 @@ costulation
 cytoproct
 counteravouch
 contributiveness
+critter
 counteravouchment
 counterbalanced
 crackerjack
