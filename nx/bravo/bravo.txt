@@ -12899,7 +12899,6 @@ bondslave
 behorror
 becomings
 borolanite
-bifoil
 birthplace
 bacchiac
 bkpt
@@ -18134,6 +18133,7 @@ blockading
 boisseaux
 balsamize
 biffins
+bifoil
 bulla
 blok
 boundly
