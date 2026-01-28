@@ -495,7 +495,6 @@ dalmatic
 dawen
 dermaskeleton
 damageability
-detonatable
 detort
 deaccessions
 dovyalis
@@ -7249,6 +7248,7 @@ detenue
 decussorium
 desulfurize
 detenues
+detonatable
 dephlegmator
 deterged
 dilettantship
