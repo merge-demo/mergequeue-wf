@@ -16001,6 +16001,7 @@ arctangent
 acidification
 anaeroplasty
 astor
+abundances
 antiexpressiveness
 archont
 acetones
@@ -18573,7 +18574,6 @@ arcature
 applicative
 arcatures
 acraeinae
-abundances
 arccos
 appomattoc
 apostume
