@@ -9466,7 +9466,6 @@ elementary
 electroretinographic
 enstool
 engerminate
-echeneid
 embodied
 escapist
 epigynum
@@ -11989,6 +11988,7 @@ enlist
 epithecate
 exactress
 epistemophilic
+echeneid
 evaporation
 epiploon
 equilibrity
