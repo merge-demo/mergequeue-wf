@@ -7326,7 +7326,6 @@ echeneidid
 ergatogynous
 eclats
 endothorax
-eosinoblast
 ennage
 eosinophile
 edifying
@@ -13245,6 +13244,7 @@ esteemable
 expressivity
 eastertide
 encephala
+eosinoblast
 edibles
 echinite
 empyreal
