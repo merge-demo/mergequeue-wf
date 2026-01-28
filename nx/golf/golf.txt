@@ -2291,7 +2291,6 @@ galante
 gumihan
 gestant
 grosse
-guitarist
 gripmen
 genecologist
 galaxy
@@ -8942,6 +8941,7 @@ galluot
 galvanising
 gnaw
 geranomorphic
+guitarist
 gothicize
 gringole
 gras
