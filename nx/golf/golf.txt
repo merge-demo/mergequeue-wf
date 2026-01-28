@@ -5477,6 +5477,7 @@ grills
 geomancy
 glyptolith
 gynostemia
+gigsman
 gestaltist
 gingerberry
 garrulous
@@ -8776,7 +8777,6 @@ games
 galeus
 ginger
 gobbin
-gigsman
 gaypoo
 gralloch
 gastroscopic
