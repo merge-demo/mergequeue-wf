@@ -7665,7 +7665,6 @@ entocnemial
 engines
 enc
 elne
-exactest
 envine
 extratelluric
 epicondylic
@@ -11247,6 +11246,7 @@ embryonary
 embourgeoisement
 evolvement
 everymen
+exactest
 evanescence
 encephalomalacosis
 exuberantly
