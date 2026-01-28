@@ -226,7 +226,6 @@ gabbles
 germanomaniac
 guardfully
 golpe
-gyrochrome
 gaspereau
 gearcases
 gowpen
@@ -7010,6 +7009,7 @@ gunnership
 grooty
 greengrocers
 gyrovague
+gyrochrome
 goofed
 gradgrindian
 glossodynamometer
