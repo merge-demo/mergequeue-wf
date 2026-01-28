@@ -8550,7 +8550,6 @@ epulo
 ecphoriae
 explants
 elongates
-empyemata
 epuration
 effie
 exculpable
@@ -12226,6 +12225,7 @@ enneahedrons
 engarb
 episynthetic
 equinoxes
+empyemata
 emendable
 ephedra
 excur
