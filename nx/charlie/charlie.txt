@@ -4246,6 +4246,7 @@ clearwing
 carnet
 capturers
 chiron
+catcher
 coloboma
 carabideous
 cardsharp
@@ -5754,7 +5755,6 @@ colocates
 coadjutor
 catched
 chicquing
-catcher
 coccidioides
 concretions
 circumcallosal
