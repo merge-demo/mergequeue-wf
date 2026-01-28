@@ -2539,7 +2539,6 @@ bucchero
 bialys
 barbarously
 bedark
-barocco
 barge
 belows
 bergere
@@ -17303,6 +17302,7 @@ bumpkin
 bumpology
 borschts
 blanketweed
+barocco
 bedbugs
 bolstering
 boosy
