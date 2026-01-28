@@ -6924,7 +6924,6 @@ despatches
 deoxidise
 dichloramine
 despecialization
-diffraction
 disembarrassed
 dispute
 domineer
@@ -10318,6 +10317,7 @@ destry
 damageably
 doomlike
 dinotherian
+diffraction
 dins
 defenestrate
 dintless
