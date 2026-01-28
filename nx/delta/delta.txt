@@ -12976,7 +12976,6 @@ demobilization
 domesticability
 duff
 dilleniaceae
-dummying
 degentilize
 disoccluded
 disoccluding
@@ -14829,6 +14828,7 @@ decomponible
 doctorhood
 diethylenediamine
 doctorial
+dummying
 droplight
 disadjust
 demidog
