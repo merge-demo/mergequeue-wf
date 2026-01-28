@@ -19746,7 +19746,6 @@ azulejos
 ainsell
 acreages
 aggressiveness
-arithmomancy
 arivaipa
 amphoral
 aeronomer
@@ -25242,6 +25241,7 @@ alveoloclasia
 antimoniferous
 abstrict
 azeotropic
+arithmomancy
 azerbaijanian
 avigators
 arverni
