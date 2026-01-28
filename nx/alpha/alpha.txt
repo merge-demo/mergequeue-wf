@@ -6161,7 +6161,6 @@ adjutantship
 amblosis
 aegerian
 avianized
-acinacious
 aerolitics
 agonise
 agonistarch
@@ -18517,6 +18516,7 @@ apostrophise
 approximatively
 aircrew
 antlion
+acinacious
 androseme
 arborous
 arborvitaes
