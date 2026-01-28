@@ -5259,6 +5259,7 @@ colemouse
 cassabas
 cassabully
 customs
+churchwardens
 coatrooms
 carthorse
 claws
@@ -12852,7 +12853,6 @@ columbines
 carrotiest
 churchwardenize
 constitutionless
-churchwardens
 conceal
 churchwardenship
 cixiidae
