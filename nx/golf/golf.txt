@@ -2848,7 +2848,6 @@ gynaecic
 geogenous
 grein
 genua
-gymnogene
 gruel
 geatas
 grieben
@@ -10618,6 +10617,7 @@ gunpower
 gasping
 gentled
 gifting
+gymnogene
 gimmickry
 giantlikeness
 gunshop
