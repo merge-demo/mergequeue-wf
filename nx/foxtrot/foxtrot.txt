@@ -2449,6 +2449,7 @@ falsiteit
 fashionable
 ferlying
 flemishes
+finiteness
 fermail
 factually
 flabellifoliate
@@ -9591,7 +9592,6 @@ fire
 fattrels
 frypan
 footling
-finiteness
 fordless
 focally
 fringier
