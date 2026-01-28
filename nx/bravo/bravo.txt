@@ -10006,7 +10006,6 @@ blairmorite
 byrlawmen
 bivalvia
 bivalvian
-bivariant
 baddock
 bivascular
 bismuthyl
@@ -17958,6 +17957,7 @@ bookbinding
 bagong
 byssinosis
 bemoult
+bivariant
 bushwhacked
 bushwhackers
 balancing

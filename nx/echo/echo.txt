@@ -648,6 +648,7 @@ eversions
 entertained
 epeus
 ey
+engrailment
 elastica
 echeneidoid
 enchant
@@ -6006,7 +6007,6 @@ epigrammatised
 enjoiner
 excubant
 euonym
-engrailment
 embassade
 epidemiologic
 emitters
