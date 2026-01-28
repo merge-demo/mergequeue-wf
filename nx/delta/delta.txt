@@ -1770,7 +1770,6 @@ dissociated
 divagation
 dbrn
 dratting
-debug
 dhoney
 debamboozle
 dermatoptera
@@ -8786,6 +8785,7 @@ denunciations
 disproportionateness
 discriminate
 diatomales
+debug
 dedicated
 diatomeae
 diatomicity
