@@ -920,7 +920,6 @@ erikite
 endocarpal
 ectoparasitica
 ecclesiarch
-enation
 economically
 ectopy
 engulfed
@@ -8670,6 +8669,7 @@ embouchures
 excelled
 espavel
 equielliptical
+enation
 equigranular
 equilateral
 equilibrant
