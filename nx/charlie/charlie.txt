@@ -7355,7 +7355,6 @@ cephalate
 cephalhematoma
 coracovertebral
 chequering
-cephalina
 cephaline
 cephalins
 cephalism
@@ -10694,6 +10693,7 @@ clericalists
 chinawoman
 cincher
 chinch
+cephalina
 chinchayote
 cytoarchitecture
 corncake
