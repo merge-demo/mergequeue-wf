@@ -7316,6 +7316,7 @@ glandular
 goofing
 galbanums
 gassendist
+gamotropism
 gauffer
 glutaric
 goldsinny
@@ -7371,7 +7372,6 @@ gliomas
 glessite
 griffon
 generalizers
-gamotropism
 granule
 glimmerite
 graculus
