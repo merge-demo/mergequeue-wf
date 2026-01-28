@@ -6818,7 +6818,6 @@ bear
 berskin
 balize
 berhyme
-banjore
 barnard
 blowhole
 berteroa
@@ -10534,6 +10533,7 @@ burin
 bradypode
 blastomyces
 bainie
+banjore
 blastomycete
 benignities
 blastoneuropore

@@ -1365,7 +1365,6 @@ definitised
 defroster
 davidian
 davidic
-davidical
 dawish
 deicing
 desma
@@ -1883,6 +1882,7 @@ debouchment
 diarial
 debout
 dromaeognathae
+davidical
 donging
 determents
 denticulated
