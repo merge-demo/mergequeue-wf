@@ -7283,7 +7283,6 @@ floodways
 footless
 fishfall
 footlights
-fratries
 ficoides
 forearming
 fireboy
@@ -9011,6 +9010,7 @@ feringhee
 fusiformis
 fluminose
 flummoxed
+fratries
 fouquieriaceous
 flagstaff
 fiacre
