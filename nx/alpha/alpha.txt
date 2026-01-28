@@ -6878,6 +6878,7 @@ alogism
 acetaldehydrase
 aissor
 age
+autogamic
 ashot
 antiferromagnet
 aitch
@@ -24989,7 +24990,6 @@ awee
 aweek
 acanthology
 aldide
-autogamic
 acrocoracoid
 acyl
 aphidiinae
