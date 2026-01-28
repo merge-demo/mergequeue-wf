@@ -9038,6 +9038,7 @@ bacterioagglutinin
 bets
 byp
 bordar
+baler
 biomechanical
 bondieuserie
 badgeman
@@ -12321,7 +12322,6 @@ bulleting
 boardwalk
 biabo
 baysmelts
-baler
 brake
 britt
 bhumidar
