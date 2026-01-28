@@ -1259,6 +1259,7 @@ galium
 gogetting
 guideposts
 glyphographer
+gasterozooid
 grallina
 ganges
 granch
@@ -5854,7 +5855,6 @@ gravamens
 graders
 guiles
 giggle
-gasterozooid
 gregarinidal
 glucocorticoid
 gardon
