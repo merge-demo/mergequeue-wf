@@ -2606,6 +2606,7 @@ cowskins
 counterdisengage
 cryptocrystallization
 columnar
+continentality
 cyamelide
 circumspheral
 calcination
@@ -12950,7 +12951,6 @@ chelerythrine
 cyanid
 circumhorizontal
 catamenial
-continentality
 cyanides
 cyanidrosis
 clothes
