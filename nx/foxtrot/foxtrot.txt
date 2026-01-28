@@ -7676,7 +7676,6 @@ fizzling
 farrier
 fossula
 frederica
-firehouse
 frostproofing
 ferroglass
 fees
@@ -9026,6 +9025,7 @@ favositoid
 formally
 francophilism
 fustigate
+firehouse
 fourierism
 foldwards
 festivally
