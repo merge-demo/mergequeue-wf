@@ -825,6 +825,7 @@ burthen
 bunning
 boltholes
 bigate
+bevatron
 baftah
 brassworker
 barges
@@ -9952,7 +9953,6 @@ benzoated
 bitterroot
 brachydactylia
 berrying
-bevatron
 boiled
 bondon
 bittiest
