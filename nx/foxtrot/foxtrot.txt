@@ -6173,7 +6173,6 @@ ferrara
 flewed
 familiarize
 fateful
-floriation
 fraser
 feedstuffs
 flamethrower
@@ -9042,6 +9041,7 @@ fox
 fears
 foram
 fourrier
+floriation
 foelike
 faunistically
 feature
