@@ -11312,7 +11312,6 @@ bewest
 beryline
 blear
 blowing
-blowings
 basify
 brigandage
 booky
@@ -13791,6 +13790,7 @@ bruskness
 boatyard
 bromocyanogen
 bedaggered
+blowings
 besmudging
 boutonnieres
 boutons
