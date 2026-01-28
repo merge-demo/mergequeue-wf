@@ -1139,7 +1139,6 @@ endia
 edificed
 encyclopedias
 essayish
-embattling
 egolatrous
 edile
 epiphyseal
@@ -8946,6 +8945,7 @@ educationally
 ecumene
 ergodic
 espial
+embattling
 extincteur
 establishments
 enterectomy
