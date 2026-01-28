@@ -1963,6 +1963,7 @@ grossing
 gorsy
 gangers
 gruelly
+glyphic
 genealogically
 greywacke
 glairs
@@ -5523,7 +5524,6 @@ gimmer
 goods
 goodyera
 gutium
-glyphic
 goldilocks
 glink
 glisten
