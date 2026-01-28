@@ -4403,7 +4403,6 @@ gildable
 grides
 gentamicin
 gumdigger
-gymnocarpic
 galantine
 goozle
 gossiped
@@ -5398,6 +5397,7 @@ gipsyism
 gastroduodenoscopy
 graspers
 geotechnics
+gymnocarpic
 glycosidically
 gitter
 grotesqueries
