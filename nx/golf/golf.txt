@@ -371,7 +371,6 @@ glumpily
 goatskins
 gallisin
 grandmamma
-guisian
 gleys
 gps
 galant
@@ -7565,6 +7564,7 @@ gallycrow
 gilaki
 galinaceous
 guserid
+guisian
 goniatitidae
 greywether
 gynecophoric
