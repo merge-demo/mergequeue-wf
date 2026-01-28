@@ -3113,6 +3113,7 @@ doblons
 dairymaids
 demiseason
 disadvantaging
+defoliant
 defamations
 dipygus
 discolith
@@ -11560,7 +11561,6 @@ discoloration
 discolorations
 discolored
 dar
-defoliant
 doest
 dissectors
 defalcations
