@@ -1905,7 +1905,6 @@ bloodier
 bella
 burdensomeness
 bandidos
-bushie
 bandie
 bandied
 bilinear
@@ -2768,6 +2767,7 @@ besague
 butlerism
 batholitic
 baroko
+bushie
 beltline
 benthonic
 bullbat
