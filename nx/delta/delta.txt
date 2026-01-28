@@ -5688,7 +5688,6 @@ disordered
 defoliating
 droppage
 deplenish
-dialup
 depleteable
 decapodan
 ducape
@@ -10157,6 +10156,7 @@ dogfight
 dilatable
 discoverer
 dynamomorphic
+dialup
 discoursively
 dynamophone
 drainfield
