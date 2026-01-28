@@ -10843,7 +10843,6 @@ blesmol
 bestripe
 bakership
 budlike
-bidentalia
 boeotic
 boul
 bavin
@@ -13365,6 +13364,7 @@ botanizes
 bulbless
 becreep
 bemisted
+bidentalia
 bacterially
 bemat
 brickmason
