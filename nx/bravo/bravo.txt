@@ -7202,7 +7202,6 @@ biarticulated
 bacteriemia
 bernicles
 bierstube
-bestay
 bestand
 bestatued
 burrito
@@ -9194,6 +9193,7 @@ biotransformation
 beauetry
 bipalmate
 biomasses
+bestay
 biparasitic
 boudoirs
 breastie
