@@ -2735,7 +2735,6 @@ emborder
 enfant
 earthen
 eudaemonics
-enzyms
 estampie
 epergnes
 electrovital
@@ -5840,6 +5839,7 @@ exibilate
 enjelly
 engrailed
 elsewards
+enzyms
 epizoicide
 exploitatory
 engrainer
