@@ -102,7 +102,6 @@ blinking
 bulwarks
 bepastured
 baldachins
-babhan
 barkened
 beastliest
 blastogeny
@@ -7651,6 +7650,7 @@ biophor
 beechier
 beworship
 bedare
+babhan
 burrobrush
 bonaught
 biciliate
