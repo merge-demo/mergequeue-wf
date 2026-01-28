@@ -7118,7 +7118,6 @@ feases
 fleawort
 forefit
 forebodings
-fons
 formidable
 fauxbourdon
 ferrum
@@ -11243,6 +11242,7 @@ foreday
 foreknown
 farsang
 furzed
+fons
 funiculars
 funiform
 feasten
