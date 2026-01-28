@@ -1252,6 +1252,7 @@ acarari
 ardelia
 acarian
 apothece
+altercate
 acarid
 accord
 addorsed
@@ -4578,7 +4579,6 @@ avidnesses
 advisy
 advising
 antechapel
-altercate
 apersee
 accoying
 anthropophagously
