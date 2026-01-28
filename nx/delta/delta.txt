@@ -5146,7 +5146,6 @@ dourine
 doggiest
 denebola
 disburdened
-dactylioglyphist
 denes
 deices
 daughterlike
@@ -6219,6 +6218,7 @@ depleted
 damascened
 digametic
 declaimed
+dactylioglyphist
 degrades
 dipsades
 disbenchment
