@@ -17157,7 +17157,6 @@ cabrioles
 coadjutors
 carduus
 coadjutorship
-coadjutress
 coadjutrix
 coadjuvate
 crasser
@@ -20396,6 +20395,7 @@ compactor
 conject
 conurbations
 clobbered
+coadjutress
 centraxonia
 continuingly
 compacts
