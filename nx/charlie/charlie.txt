@@ -4364,7 +4364,6 @@ canonicity
 cladophyll
 codeias
 caribing
-caribous
 calpacked
 candier
 clavicles
@@ -22868,6 +22867,7 @@ covenanted
 commemorator
 chibrit
 consequently
+caribous
 choremen
 consertion
 challises
