@@ -5615,7 +5615,6 @@ glaieul
 geochemist
 gun
 geophysical
-gownlet
 glottogonist
 garuda
 ginks
@@ -10571,6 +10570,7 @@ gatewoman
 grenadiership
 gpad
 gratulate
+gownlet
 gleen
 governess
 goads
