@@ -3665,7 +3665,6 @@ denounced
 despisement
 dulcian
 dispends
-delinquencies
 designed
 deduce
 disgracive
@@ -16406,6 +16405,7 @@ dozzle
 dr
 draba
 drabant
+delinquencies
 delineative
 dawed
 dextrotartaric
