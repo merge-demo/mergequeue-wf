@@ -8324,7 +8324,6 @@ dialyzer
 diagrams
 db
 demivolts
-dispossess
 droob
 dissimile
 decalescent
@@ -13397,6 +13396,7 @@ dysmenorrhoeal
 discerns
 desanding
 disputes
+dispossess
 disdiaclast
 dayflower
 deadmen

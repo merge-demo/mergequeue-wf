@@ -1001,7 +1001,6 @@ calamint
 chesterlite
 cableway
 cordyl
-celiomyodynia
 caribe
 calamity
 candy
@@ -2872,6 +2871,7 @@ criminative
 canonizing
 cogboat
 churchreeve
+celiomyodynia
 canonry
 canonship
 canoodles
