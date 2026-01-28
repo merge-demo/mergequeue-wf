@@ -2472,7 +2472,6 @@ ethereous
 euphausid
 earthnut
 excorticating
-exciple
 executional
 electroencephalographical
 electrodesiccate
@@ -3218,6 +3217,7 @@ eleometer
 euphonetic
 emissive
 encompassed
+exciple
 energised
 elegiacally
 electromagnets
