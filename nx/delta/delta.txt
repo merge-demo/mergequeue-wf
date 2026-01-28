@@ -4167,7 +4167,6 @@ delocalize
 dermoreaction
 decrustation
 dretch
-degree
 dextrorotatary
 denigrators
 diphenyl
@@ -18187,6 +18186,7 @@ doucepere
 disavowable
 dewlaps
 digress
+degree
 dump
 duplexing
 dineuric

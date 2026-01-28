@@ -1089,6 +1089,7 @@ franchisement
 flichters
 fortuities
 feudaries
+fley
 fleshhood
 foundryman
 fofarraw
@@ -1486,7 +1487,6 @@ fistulose
 faulds
 fasciculite
 flittern
-fley
 felicitators
 fruiter
 felt
