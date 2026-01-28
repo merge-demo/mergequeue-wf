@@ -5980,7 +5980,6 @@ fowlers
 formal
 flocced
 flavia
-frustulose
 faeries
 feyer
 fecund
@@ -9240,6 +9239,7 @@ forbiddance
 fenagles
 fusses
 fracturing
+frustulose
 filicide
 filmic
 foolify
