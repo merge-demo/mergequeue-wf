@@ -10193,7 +10193,6 @@ czarism
 cystoscopy
 chiasmatic
 conceity
-counterformula
 clockings
 chiasmic
 cleruchic
@@ -30651,6 +30650,7 @@ collis
 cuddy
 cuddie
 chuppoth
+counterformula
 coprocessing
 cuddies
 cuddyhole
