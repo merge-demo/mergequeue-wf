@@ -19779,7 +19779,6 @@ cacothymia
 captained
 combwise
 catapulting
-centurion
 castlewards
 ceraunics
 creatines
@@ -29902,6 +29901,7 @@ chopfallen
 carcase
 crosspatches
 cuculidae
+centurion
 crosslike
 crossline
 cymas
