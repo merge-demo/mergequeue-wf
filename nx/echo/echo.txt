@@ -1757,7 +1757,6 @@ electrolyzable
 ejaculating
 enjoy
 employ
-embossing
 electrotypist
 epistilbite
 ejective
@@ -7223,6 +7222,7 @@ endymion
 eposes
 electrifier
 earnestful
+embossing
 eo
 expirer
 envisaging
