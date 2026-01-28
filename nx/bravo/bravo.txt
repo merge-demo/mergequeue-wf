@@ -9371,7 +9371,6 @@ bearishly
 bonniness
 budgetary
 bodegon
-bankside
 beau
 backwood
 bluebush
@@ -13897,6 +13896,7 @@ broadhead
 bedded
 baas
 bottomrying
+bankside
 banakite
 beaveries
 brooch
