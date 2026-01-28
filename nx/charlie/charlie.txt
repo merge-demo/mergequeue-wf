@@ -2610,7 +2610,6 @@ cyamelide
 circumspheral
 calcination
 castile
-caned
 canela
 cuttlefish
 canellas
@@ -15109,6 +15108,7 @@ canham
 cornucopiae
 cuticularize
 cladodontidae
+caned
 cladodus
 cladogenesis
 cladogenetic
