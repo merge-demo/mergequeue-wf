@@ -5567,7 +5567,6 @@ glycidol
 gowning
 gad
 gamecocks
-globigerinae
 guarnerius
 gourd
 grintern
@@ -7752,6 +7751,7 @@ gentium
 gyres
 girba
 glycuresis
+globigerinae
 gurges
 guarapucu
 geist
