@@ -4215,6 +4215,7 @@ emporte
 emmove
 empeine
 eclecticism
+exsudate
 exegeses
 epichorial
 empower
@@ -13586,7 +13587,6 @@ etiolates
 exsolving
 energies
 extranormal
-exsudate
 ectadenia
 enrobe
 elegist
