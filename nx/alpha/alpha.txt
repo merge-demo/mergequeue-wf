@@ -1636,7 +1636,6 @@ accoutres
 accredit
 artic
 argenteum
-accreditate
 accreditations
 absentmindedness
 alliably
@@ -15594,6 +15593,7 @@ ametria
 aftermatter
 antineutrons
 anting
+accreditate
 absist
 assary
 altruist
