@@ -10789,7 +10789,6 @@ chinologist
 chinone
 chinook
 chinookan
-caninus
 cutgrasses
 corregidores
 clavicylinder
@@ -12814,6 +12813,7 @@ contingency
 church
 courageousness
 churchcraft
+caninus
 chondrocranium
 churchful
 clatters
