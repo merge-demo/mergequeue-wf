@@ -3489,7 +3489,6 @@ espier
 enteropneustal
 estimator
 ebullate
-exurbanite
 equiparate
 emphase
 endocrinologist
@@ -11520,6 +11519,7 @@ ectonephridium
 exes
 erinnic
 epiglottitis
+exurbanite
 enrut
 effectually
 escapades
