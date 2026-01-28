@@ -474,7 +474,6 @@ dallied
 disenthralling
 denaturalize
 dinkey
-distempered
 droddum
 drover
 descended
@@ -3868,6 +3867,7 @@ dissect
 disp
 diplomats
 dagswain
+distempered
 diaxonic
 diviners
 dibstones
