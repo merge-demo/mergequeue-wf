@@ -2516,7 +2516,6 @@ fluellin
 fernyear
 furison
 fordo
-forehatch
 fortaxed
 flams
 flavic
@@ -7523,6 +7522,7 @@ fumbled
 fisheyes
 footmen
 fausen
+forehatch
 ferrocerium
 fileable
 faience
