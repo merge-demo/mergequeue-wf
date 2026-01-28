@@ -944,6 +944,7 @@ gunshot
 glanis
 genomic
 gamostele
+garrison
 genetically
 galt
 graysby
@@ -5921,7 +5922,6 @@ gluepot
 gynophoric
 gimballed
 gorb
-garrison
 gaylussacia
 grumblers
 geyseric
