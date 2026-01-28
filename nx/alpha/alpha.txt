@@ -8431,7 +8431,6 @@ alkene
 aroid
 alkes
 awreck
-alkyd
 apitong
 agone
 alalia
@@ -24548,6 +24547,7 @@ azygosperm
 ascaron
 auxetic
 adoptability
+alkyd
 aghorapanthi
 alix
 amoebocyte
