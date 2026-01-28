@@ -2082,6 +2082,7 @@ cropper
 capitalizer
 chicomecoatl
 cruelize
+cultivar
 camouflageable
 camouflager
 contradictorily
@@ -20744,7 +20745,6 @@ complexioned
 carbonade
 cirurgian
 complexionless
-cultivar
 cahuapana
 chronologic
 complexive
