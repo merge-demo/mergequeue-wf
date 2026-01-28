@@ -4021,7 +4021,6 @@ bonyfish
 bribeable
 believer
 beacons
-buoyancy
 bigmouthed
 beader
 bellmaker
@@ -8594,6 +8593,7 @@ biliverdic
 brainlike
 bassaris
 brauneberger
+buoyancy
 beflecks
 buts
 bisyllabism
