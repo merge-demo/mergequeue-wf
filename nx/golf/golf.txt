@@ -6249,7 +6249,6 @@ gonne
 gatecrasher
 greaves
 gopura
-gangliest
 goatstone
 geoscience
 goatweed
@@ -8253,6 +8252,7 @@ gem
 greaseproof
 grapeskin
 gelototherapy
+gangliest
 goldurned
 greenhead
 galenical
