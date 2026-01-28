@@ -8734,6 +8734,7 @@ bambos
 brachiolaria
 barrett
 beseeching
+barracoon
 betoss
 brachycephalies
 biotas
@@ -10859,7 +10860,6 @@ blepharoptosis
 blepharosynechia
 bunchberry
 boanergism
-barracoon
 bigwiggery
 bringeth
 bigbloom
