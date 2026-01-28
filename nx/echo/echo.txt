@@ -5547,7 +5547,6 @@ euphon
 enfeebles
 embus
 eyestones
-eucarida
 enameler
 exequatur
 enhusk
@@ -8878,6 +8877,7 @@ extramodal
 endeavouring
 erechtites
 euphemist
+eucarida
 erectable
 erecters
 erectile
