@@ -4203,7 +4203,6 @@ backbend
 brenda
 bowbells
 beastlier
-barkening
 bartlemy
 bowl
 beastlike
@@ -7648,6 +7647,7 @@ briefs
 burbankian
 bullocks
 borne
+barkening
 butanones
 bugseed
 beworries
