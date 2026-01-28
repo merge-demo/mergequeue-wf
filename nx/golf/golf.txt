@@ -1882,6 +1882,7 @@ gamenesses
 grubstake
 galeche
 gardenwise
+gunkholing
 gripey
 gating
 gymnosophical
@@ -3197,7 +3198,6 @@ gravecloth
 gaddis
 governmentalist
 gush
-gunkholing
 guayabi
 gonycampsis
 gametoid
