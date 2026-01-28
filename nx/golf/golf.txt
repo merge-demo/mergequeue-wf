@@ -1700,7 +1700,6 @@ gluttonise
 gluts
 grudgefulness
 glyptodont
-gentries
 gastrophilite
 gastrograph
 gamebag
@@ -5585,6 +5584,7 @@ gametogenic
 gymnocalycium
 galliots
 gussies
+gentries
 granuloblast
 globous
 gadus
