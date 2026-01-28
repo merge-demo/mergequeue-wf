@@ -8385,6 +8385,7 @@ chrysolophus
 centroid
 chamberleted
 ceratorhine
+cystin
 camanchaca
 callosity
 chambers
@@ -26317,7 +26318,6 @@ caddices
 chevrone
 commendam
 coccygomorphic
-cystin
 costumer
 costumers
 costumic
