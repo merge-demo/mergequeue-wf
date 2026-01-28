@@ -5369,7 +5369,6 @@ glycollate
 ghibli
 generalised
 grammatology
-genethliacon
 getae
 girlish
 gingeli
@@ -8821,6 +8820,7 @@ gazelline
 gust
 genual
 greenwood
+genethliacon
 gandhian
 glimpsers
 grandchildren
