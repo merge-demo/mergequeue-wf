@@ -5612,7 +5612,6 @@ grantia
 glaieul
 geochemist
 gun
-geophysical
 glottogonist
 garuda
 ginks
@@ -8093,6 +8092,7 @@ gobelin
 galempung
 greatens
 galleries
+geophysical
 glottic
 goasila
 gravat
