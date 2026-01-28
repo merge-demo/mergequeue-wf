@@ -2958,7 +2958,6 @@ foremost
 fraudulent
 flung
 feudalists
-finish
 filius
 fractionising
 freetrader
@@ -6612,6 +6611,7 @@ frogeater
 fike
 fip
 failsoft
+finish
 frotted
 freddo
 foldskirt
