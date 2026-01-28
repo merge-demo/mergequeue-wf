@@ -1253,7 +1253,6 @@ firmitude
 flexural
 flinched
 faurd
-frayn
 fatuities
 freieslebenite
 foreignization
@@ -10651,6 +10650,7 @@ fanteeg
 forwarn
 flopover
 frostily
+frayn
 fellowmen
 freakouts
 fibrination
