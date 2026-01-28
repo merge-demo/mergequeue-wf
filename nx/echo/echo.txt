@@ -2261,7 +2261,6 @@ encrisp
 exult
 effigiated
 eventuate
-engulfment
 eldrich
 exceeder
 enchased
@@ -8773,6 +8772,7 @@ eriophyllous
 emulsifies
 equitableness
 electrohorticulture
+engulfment
 electrican
 enantiotropy
 enlighteners
