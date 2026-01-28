@@ -10147,7 +10147,6 @@ ensorcelize
 easter
 erythrosin
 etheostominae
-elytroid
 extrorsal
 eurhythmical
 exasperates
@@ -13010,6 +13009,7 @@ epicyclical
 expected
 eucharises
 eryon
+elytroid
 embathe
 expectedness
 emulsoid
