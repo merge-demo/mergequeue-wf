@@ -5620,6 +5620,7 @@ cataloged
 character
 coelomatic
 curtailed
+coplots
 ciconiidae
 crochet
 catalogia
@@ -11769,7 +11770,6 @@ chondroplasty
 crystall
 consonantally
 chondroprotein
-coplots
 caravansary
 chondropterygious
 chondrosarcomatous
