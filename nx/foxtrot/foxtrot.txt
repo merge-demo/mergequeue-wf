@@ -825,7 +825,6 @@ farmhouses
 foiter
 folkloric
 froster
-forensicality
 flipe
 folkloristic
 fustanelle
@@ -1647,6 +1646,7 @@ funfair
 filagreeing
 flamboyance
 flier
+forensicality
 foible
 frictionproof
 fretize
