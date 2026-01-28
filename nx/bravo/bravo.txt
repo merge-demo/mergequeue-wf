@@ -7076,7 +7076,6 @@ bedazzlement
 bespangle
 bespangling
 bespate
-brickbatted
 basset
 bennetweed
 bespattered
@@ -9376,6 +9375,7 @@ beau
 backwood
 bluebush
 birded
+brickbatted
 bisectrix
 beheads
 basketballer
