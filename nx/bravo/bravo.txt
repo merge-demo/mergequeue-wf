@@ -10554,7 +10554,6 @@ breakage
 bradyuria
 baccilla
 bashlik
-blastoporal
 bisyllabic
 berms
 beswarming
@@ -14923,6 +14922,7 @@ breadness
 brogueneer
 breadroot
 brevicaudate
+blastoporal
 bowboy
 breadstitch
 burnet
