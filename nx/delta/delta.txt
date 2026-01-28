@@ -4,7 +4,6 @@ daimioate
 derek
 dromonds
 dabba
-dialectologist
 dabby
 diaulic
 dogbane
@@ -4587,6 +4586,7 @@ debentured
 disavows
 discernment
 deoxidator
+dialectologist
 deperming
 disgust
 dinarchy
