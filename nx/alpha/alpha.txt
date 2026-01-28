@@ -4272,6 +4272,7 @@ adrenocorticotropic
 antral
 anthracolithic
 adstipulate
+anomural
 audiologist
 antrophore
 adrenotropic
@@ -21091,7 +21092,6 @@ abecedaria
 absconders
 anthropolith
 alleyite
-anomural
 automobility
 ascolichen
 amah
