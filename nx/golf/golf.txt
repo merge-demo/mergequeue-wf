@@ -1809,6 +1809,7 @@ generativeness
 gazetting
 grummeter
 grapta
+glaury
 greyhens
 grushie
 granat
@@ -2944,7 +2945,6 @@ grane
 geraniol
 glycerinating
 gloated
-glaury
 guilt
 gurkha
 gollop
