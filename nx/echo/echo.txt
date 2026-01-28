@@ -8188,7 +8188,6 @@ exhumator
 episclera
 encasement
 ensanguined
-enseel
 europa
 episcopalianism
 elaeosaccharum
@@ -10830,6 +10829,7 @@ endogalvanism
 eucnemidae
 exercitant
 elasticate
+enseel
 expertise
 examiners
 enchodontoid
