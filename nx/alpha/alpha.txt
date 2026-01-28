@@ -10078,6 +10078,7 @@ anchoring
 anisogamy
 aminded
 avulsion
+ateloprosopia
 aramus
 artotyrite
 ambulator
@@ -22591,7 +22592,6 @@ ateloglossia
 abacist
 atelomyelia
 anisognathous
-ateloprosopia
 acoenaesthesia
 axifera
 antireality
