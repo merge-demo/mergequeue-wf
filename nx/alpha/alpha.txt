@@ -4144,6 +4144,7 @@ amahs
 adon
 anesthetically
 adonai
+arcticize
 adoniad
 agrarianize
 adonin
@@ -10165,7 +10166,6 @@ amel
 adj
 akkadist
 asyllabia
-arcticize
 anemious
 agricolite
 amelanchier
