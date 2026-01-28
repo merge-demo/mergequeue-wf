@@ -1097,7 +1097,6 @@ fleshhood
 foundryman
 fofarraw
 farreachingly
-farrel
 figuresome
 formby
 flameproofer
@@ -3207,6 +3206,7 @@ fatalities
 fingerpost
 ferment
 frighty
+farrel
 frisii
 fertilizable
 filamentule
