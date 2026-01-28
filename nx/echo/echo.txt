@@ -1533,7 +1533,6 @@ epizootically
 echolocation
 effused
 extemporaneously
-elasmobranchii
 exonarthex
 eventuating
 epics
@@ -7162,6 +7161,7 @@ empyesis
 enduing
 encarnalise
 encyclopedia
+elasmobranchii
 enterprisingly
 eurythmic
 encephalopsychesis
