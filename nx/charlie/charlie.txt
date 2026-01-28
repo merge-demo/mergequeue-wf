@@ -6748,7 +6748,6 @@ coathangers
 colligation
 ceinture
 ceyx
-ceja
 clovery
 charcia
 celadon
@@ -7191,6 +7190,7 @@ carburettor
 centralness
 cacodaemonic
 cophetua
+ceja
 centranth
 centrarchid
 clar
