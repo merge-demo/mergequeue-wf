@@ -2606,6 +2606,7 @@ gesticular
 gallberries
 gowf
 goutte
+gershom
 goliath
 goldfielder
 grav
@@ -10252,7 +10253,6 @@ generating
 guidelines
 gorsehatch
 geographics
-gershom
 goglets
 gonophore
 gustiness
