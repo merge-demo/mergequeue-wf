@@ -4247,7 +4247,6 @@ fumago
 frier
 forecloses
 fattenable
-fining
 forepromised
 filaria
 fanos
@@ -10529,6 +10528,7 @@ falsie
 foraging
 fribblers
 ferruling
+fining
 floria
 farrant
 flnerie
