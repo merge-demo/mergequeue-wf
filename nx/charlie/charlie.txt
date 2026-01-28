@@ -16728,7 +16728,6 @@ cora
 clothespins
 centroplasm
 chokecherries
-clothespresses
 clothiers
 clothings
 catharpin
@@ -20120,6 +20119,7 @@ congealable
 cardiographer
 canewise
 comminative
+clothespresses
 commingle
 commingled
 clanswomen
