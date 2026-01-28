@@ -2495,7 +2495,6 @@ exendospermic
 earthquaked
 eslabon
 efficient
-excusability
 electrophysiologist
 eyelets
 estus
@@ -4744,6 +4743,7 @@ epsom
 exogamies
 electroencephalographs
 entrammel
+excusability
 erogenous
 eponymus
 ensuance
