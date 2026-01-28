@@ -12015,7 +12015,6 @@ activital
 anat
 anatase
 ardebs
-anatases
 ancestress
 apogamically
 aspartate
@@ -17794,6 +17793,7 @@ arrantness
 apportioning
 airbrushes
 analphabetic
+anatases
 agent
 angiogenic
 aegialitis
