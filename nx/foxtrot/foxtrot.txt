@@ -7560,7 +7560,6 @@ filer
 factures
 furciferous
 fordableness
-featless
 frothiest
 faconne
 floodproof
@@ -8731,6 +8730,7 @@ fame
 ferth
 finbone
 fellers
+featless
 forgive
 fecket
 futharcs
