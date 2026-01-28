@@ -4220,7 +4220,6 @@ gutturize
 gosmore
 greying
 ges
-geod
 glutael
 gregarian
 ganef
@@ -4833,6 +4832,7 @@ gravidly
 gainfulness
 glaciered
 gecarcinian
+geod
 gopherman
 glossal
 gifted
