@@ -874,7 +874,6 @@ cowbell
 caucasians
 cairny
 cays
-caisse
 caissons
 caite
 collects
@@ -7200,6 +7199,7 @@ centre
 centreboard
 centred
 centref
+caisse
 centreless
 centrepiece
 cryptosplenetic
