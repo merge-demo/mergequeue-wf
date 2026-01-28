@@ -9266,7 +9266,6 @@ dyeings
 discontented
 dieldrin
 derelict
-decahedrodra
 dieldrins
 doziest
 disparately
@@ -9596,6 +9595,7 @@ deaf
 desulphurise
 digitizes
 digitizing
+decahedrodra
 dertra
 disalign
 desorbed
