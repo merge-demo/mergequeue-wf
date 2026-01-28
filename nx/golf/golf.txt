@@ -9352,7 +9352,6 @@ generale
 gratulant
 ghosted
 gnathalgia
-gnomish
 gerland
 grolieresque
 gauds
@@ -10561,6 +10560,7 @@ grasset
 gemlike
 glucate
 grecoue
+gnomish
 gingivalgia
 gurmukhi
 gatewoman
