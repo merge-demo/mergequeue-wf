@@ -6842,7 +6842,6 @@ cellarage
 chamoix
 chanceable
 caudal
-cellars
 cellarwoman
 casthouse
 celled
@@ -9810,6 +9809,7 @@ chemicker
 chemicoastrological
 chokra
 chemicobiologic
+cellars
 convictable
 collocates
 chemicodynamic
