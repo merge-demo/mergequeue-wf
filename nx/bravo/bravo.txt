@@ -7172,6 +7172,7 @@ bunchberries
 bonduc
 ballcarrier
 badinaging
+buprestid
 barret
 bertin
 bandfish
@@ -16175,7 +16176,6 @@ bratstvo
 brookweed
 briskets
 brool
-buprestid
 blisterous
 broomballer
 blasphemers
