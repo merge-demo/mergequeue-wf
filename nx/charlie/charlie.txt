@@ -66,7 +66,6 @@ critiquing
 chondrocarcinoma
 cabbageworm
 corrosion
-creeping
 cabbagy
 cabbaging
 cremators
@@ -4612,6 +4611,7 @@ carnivorism
 coherer
 carnivorousness
 cavalcading
+creeping
 cyanea
 colorationally
 capillariness
