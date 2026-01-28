@@ -5631,6 +5631,7 @@ fisc
 frustums
 faked
 firns
+ferous
 filibusterers
 forninst
 frontal
@@ -8007,7 +8008,6 @@ faeculence
 fadednyess
 frowzily
 flacks
-ferous
 fetishize
 fluidifier
 florian
