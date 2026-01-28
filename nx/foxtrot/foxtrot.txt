@@ -4113,7 +4113,6 @@ fabrication
 foredo
 fenianism
 formulation
-febris
 formenic
 flautists
 frimaire
@@ -9799,6 +9798,7 @@ funestal
 fissionability
 feddan
 floatable
+febris
 footmanry
 fingermark
 faunch
