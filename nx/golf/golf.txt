@@ -5565,7 +5565,6 @@ glycidol
 gowning
 gad
 gamecocks
-guarnerius
 gourd
 grintern
 genial
@@ -5883,6 +5882,7 @@ gyle
 guadalcazarite
 goldfinch
 glycosidase
+guarnerius
 genuflected
 gipsyweed
 gainliness
