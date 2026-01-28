@@ -2363,6 +2363,7 @@ eyras
 electroacoustic
 electroacoustics
 enthetic
+enticeable
 exundation
 electroanesthesia
 electroballistics
@@ -9644,7 +9645,6 @@ epihippus
 enterohemorrhage
 egba
 esophagogastroscopy
-enticeable
 eupomatiaceae
 etruscan
 esophagoplasty
