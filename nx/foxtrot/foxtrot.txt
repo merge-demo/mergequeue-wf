@@ -3160,7 +3160,6 @@ foam
 foremistress
 flavourless
 ferulaceous
-fairgoing
 fibroferrite
 fundic
 forbiddable
@@ -5675,6 +5674,7 @@ filamentar
 fiendlike
 fossicking
 fader
+fairgoing
 floweret
 fonly
 flycatchers
