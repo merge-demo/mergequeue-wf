@@ -1984,7 +1984,6 @@ eupatorine
 epinette
 empathically
 enthelmintha
-expectedly
 exarchateship
 elementalist
 erdvark
@@ -10946,6 +10945,7 @@ emmetropia
 extensor
 exobasidium
 embryoplastic
+expectedly
 esthetic
 enchaser
 embowel
