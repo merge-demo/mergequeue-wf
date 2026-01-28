@@ -6214,7 +6214,6 @@ grimacier
 gasterosteus
 goatfishes
 gladded
-garrisoned
 gastrimargy
 gleds
 gulravage
@@ -10219,6 +10218,7 @@ gyrectomies
 galluses
 groundsel
 gnathoplasty
+garrisoned
 geotonus
 gasworker
 galusha
