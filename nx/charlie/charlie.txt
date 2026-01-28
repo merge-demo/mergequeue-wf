@@ -1142,7 +1142,6 @@ coelelminth
 calcinosis
 contraprovectant
 cybernion
-calciobiotite
 calcioferrite
 ceratobranchial
 compresent
@@ -13374,6 +13373,7 @@ cantico
 calindas
 codol
 crossarm
+calciobiotite
 cyclotome
 cyclotomic
 cyclotosaurus
