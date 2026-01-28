@@ -1345,6 +1345,7 @@ glorifier
 guipures
 gunbarrel
 gervao
+guardedness
 gitalin
 garlion
 guhr
@@ -9969,7 +9970,6 @@ gm
 gymnite
 glossoptosis
 guardable
-guardedness
 gastroparalysis
 gepoun
 gladiate
