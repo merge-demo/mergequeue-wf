@@ -683,7 +683,6 @@ breathlessly
 badass
 brasseries
 badderlocks
-basidiomycetous
 brigsail
 banagos
 benignancy
@@ -12939,6 +12938,7 @@ boot
 big
 beflounce
 bangalow
+basidiomycetous
 bootees
 battlemented
 bootery
