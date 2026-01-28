@@ -1875,6 +1875,7 @@ grabber
 gaucher
 grainless
 gatherers
+gregarinina
 gumpheon
 goldhammer
 galumph
@@ -9009,7 +9010,6 @@ gatefolds
 grievous
 gearbox
 galingale
-gregarinina
 galloway
 guaranteed
 glander
