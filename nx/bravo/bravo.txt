@@ -219,7 +219,6 @@ biofog
 bandicoot
 baccy
 banishments
-bacciferous
 bellicosities
 bagoong
 belltail
@@ -9031,6 +9030,7 @@ busybodyish
 bedstands
 bioluminescence
 beamed
+bacciferous
 bobsleding
 bewhite
 brender
