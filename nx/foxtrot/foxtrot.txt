@@ -4002,6 +4002,7 @@ franchising
 fraple
 ferrocyanogen
 furrowed
+formaldoxime
 ferther
 foresummon
 fishplate
@@ -8174,7 +8175,6 @@ foretellers
 forethrift
 fusel
 felsobanyite
-formaldoxime
 farmland
 furtive
 foison
