@@ -1268,7 +1268,6 @@ ganglioid
 gingham
 grizzler
 groundbreaker
-granulose
 goldenknop
 goodbys
 girkin
@@ -1637,6 +1636,7 @@ gain
 glossophytia
 gastroxynsis
 gummier
+granulose
 gourdy
 gunnera
 gainspeaker
