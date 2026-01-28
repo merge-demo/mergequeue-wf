@@ -4815,7 +4815,6 @@ flappers
 foliobranch
 foreadapt
 frumentarious
-forkfuls
 fraulein
 fougue
 future
@@ -6475,6 +6474,7 @@ frailes
 fluorboric
 fusula
 formulized
+forkfuls
 foetal
 fudgy
 fanega
