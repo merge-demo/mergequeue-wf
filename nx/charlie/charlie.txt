@@ -5444,7 +5444,6 @@ carpi
 confervas
 castle
 castled
-castlelike
 clitocybe
 castles
 castlet
@@ -14691,6 +14690,7 @@ canvassers
 cookery
 cite
 cenanthy
+castlelike
 citer
 citers
 cites
