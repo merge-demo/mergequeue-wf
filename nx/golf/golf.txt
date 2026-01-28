@@ -145,7 +145,6 @@ graniteware
 ghettoized
 gnomonology
 glunimie
-gouge
 gorgonian
 gremiale
 galvanosurgery
@@ -3536,6 +3535,7 @@ geriatric
 gladdening
 gulo
 gastropore
+gouge
 guttles
 graphonomy
 gallop
