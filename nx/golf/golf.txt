@@ -1145,7 +1145,6 @@ gunung
 gaol
 graphometry
 grinners
-glans
 galliney
 germinancy
 grifters
@@ -1703,6 +1702,7 @@ gentries
 gastrophilite
 gastrograph
 gamebag
+glans
 guarantying
 grieflessness
 gazetteerish
