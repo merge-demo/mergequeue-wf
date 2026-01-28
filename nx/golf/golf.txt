@@ -5951,6 +5951,7 @@ genotypicity
 gallanting
 governante
 germlike
+gool
 gastrohydrorrhea
 grangerize
 graphiology
@@ -7672,7 +7673,6 @@ gunsmithery
 gorgonlike
 garnetiferous
 greyware
-gool
 giddying
 guachamaca
 grubber
