@@ -6439,6 +6439,7 @@ enleen
 exhalants
 eastering
 egestion
+elytron
 eurythermous
 elrage
 egbert
@@ -12168,7 +12169,6 @@ embergoose
 enos
 excuser
 estreating
-elytron
 ensigning
 endpoint
 exsert
