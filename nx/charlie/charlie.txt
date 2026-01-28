@@ -10100,7 +10100,6 @@ coauthorship
 chevachee
 chevage
 careened
-columnwise
 cheval
 chevalets
 chevalier
@@ -10382,6 +10381,7 @@ chiffoniers
 coldheartedness
 cooncan
 carunculae
+columnwise
 cementing
 cryptometer
 conchinin
