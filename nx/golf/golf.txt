@@ -3722,7 +3722,6 @@ glyceral
 gastromalacia
 gulist
 gaslighted
-geromorphism
 grafters
 gelastic
 garrisonism
@@ -3837,6 +3836,7 @@ glucke
 gnostical
 grungier
 gritter
+geromorphism
 gibbosely
 gibbous
 gentilesse
