@@ -858,6 +858,7 @@ felinely
 ferrets
 fylgja
 fanon
+follis
 folkboat
 fronted
 fantailed
@@ -5267,7 +5268,6 @@ fadged
 flatted
 filmland
 flowerer
-follis
 foreshadowing
 fetalization
 funny
