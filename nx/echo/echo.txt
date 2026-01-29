@@ -1254,7 +1254,6 @@ eatche
 eurindic
 edaciousness
 educatress
-emetical
 embroscopic
 exody
 epimorphosis
@@ -7115,6 +7114,7 @@ exclamation
 engilded
 evangely
 enzymolytic
+emetical
 entry
 expansionary
 eleazar
