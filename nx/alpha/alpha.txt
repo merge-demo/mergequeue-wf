@@ -14333,6 +14333,7 @@ anthophora
 amphistomous
 acolyte
 airplane
+awakeners
 anthotaxis
 andries
 antagonisation
@@ -22153,7 +22154,6 @@ authentic
 alloisomer
 asthenia
 amours
-awakeners
 amoeboid
 anarchically
 albication
