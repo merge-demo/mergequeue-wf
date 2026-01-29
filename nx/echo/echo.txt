@@ -7768,6 +7768,7 @@ epirogeny
 epidermical
 endocranial
 enteroplasty
+exchangeability
 endodynamomorphic
 erechtheus
 electropolish
@@ -11003,7 +11004,6 @@ exsputory
 enteritis
 exams
 elephantry
-exchangeability
 eyebeams
 eupittonic
 enteromesenteric

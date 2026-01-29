@@ -4310,7 +4310,6 @@ buccina
 bacterious
 bebreech
 bigeminy
-boatwise
 backcourtman
 blouselike
 bebrush
@@ -13561,6 +13560,7 @@ bichromate
 becursing
 borderland
 butterbough
+boatwise
 bankfull
 bibliophile
 beany
