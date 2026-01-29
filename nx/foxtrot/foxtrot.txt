@@ -5108,6 +5108,7 @@ foxhound
 fusillade
 factordom
 flankers
+frisado
 folksier
 fathered
 flashtester
@@ -5523,7 +5524,6 @@ factionism
 fragmentize
 forbled
 foremade
-frisado
 fledgiest
 forefigure
 furor
