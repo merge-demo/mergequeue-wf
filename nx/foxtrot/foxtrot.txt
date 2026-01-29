@@ -411,7 +411,6 @@ firestopping
 from
 fieldfight
 froes
-faintly
 forecastlehead
 flagellariaceae
 filicauline
@@ -5456,6 +5455,7 @@ foredestine
 feoffee
 fidges
 fleahopper
+faintly
 fructuously
 frankability
 fum
