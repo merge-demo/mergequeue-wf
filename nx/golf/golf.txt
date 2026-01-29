@@ -1912,7 +1912,6 @@ geomalic
 gaudless
 ganglia
 giraffes
-gulped
 gurjan
 geal
 gentian
@@ -10240,6 +10239,7 @@ gowpin
 gweduck
 gunless
 grayfishes
+gulped
 guillotinist
 glutaraldehyde
 generic
