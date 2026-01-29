@@ -2339,6 +2339,7 @@ ensepulchre
 evangelicalness
 ecphonema
 electrocardiography
+earcap
 electrizable
 exocyclic
 electrization
@@ -13533,7 +13534,6 @@ elephantous
 erotology
 exteriorization
 elbert
-earcap
 epitimesis
 error
 embowels
