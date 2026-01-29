@@ -2875,6 +2875,7 @@ ganglionic
 gustavus
 geostrophically
 guardsman
+giga
 ganocephalous
 gipser
 grasschat
@@ -7429,7 +7430,6 @@ gassit
 grandest
 gregariniform
 galvanometers
-giga
 gutters
 granduncle
 gnatproof
