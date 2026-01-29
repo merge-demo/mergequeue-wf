@@ -2439,7 +2439,6 @@ geologian
 grograms
 gallah
 gobbets
-grandpas
 gemmologists
 gekkones
 goorals
@@ -4235,6 +4234,7 @@ guidable
 gresil
 gamboler
 gliosa
+grandpas
 greenovite
 gonidiose
 grovel
