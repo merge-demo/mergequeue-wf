@@ -4281,7 +4281,6 @@ fatherlands
 former
 fisticuffs
 fluxile
-fructose
 fruitlessness
 fragmentally
 flagrant
@@ -6098,6 +6097,7 @@ foreplays
 farrowed
 fantasts
 fidia
+fructose
 fraternity
 fickler
 fribbles
