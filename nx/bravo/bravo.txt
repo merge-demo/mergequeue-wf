@@ -5644,6 +5644,7 @@ bardes
 beggarwoman
 bedeen
 buzzwig
+bonniness
 brokenness
 belaying
 bingo
@@ -9382,7 +9383,6 @@ baleless
 blirt
 balak
 bearishly
-bonniness
 budgetary
 bodegon
 beau
