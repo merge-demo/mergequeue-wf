@@ -5830,7 +5830,6 @@ flavins
 finback
 flirt
 fixatif
-footed
 federalese
 fridstool
 flirtatiously
@@ -7227,6 +7226,7 @@ fatherlandish
 forebroads
 flagged
 furdel
+footed
 filmmaker
 fredaine
 funnel
