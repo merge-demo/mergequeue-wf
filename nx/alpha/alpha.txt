@@ -10892,7 +10892,6 @@ antilactase
 anathema
 antagonist
 amylophosphoric
-aromatizing
 affeerment
 acheat
 apoplectic
@@ -15761,6 +15760,7 @@ antiperspirant
 agileness
 acronycal
 anterolaterally
+aromatizing
 atremble
 angiolipoma
 arginines
