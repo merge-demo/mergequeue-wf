@@ -2798,6 +2798,7 @@ essie
 excrescently
 ergastic
 erythropoiesis
+ectocoelic
 elegised
 elegising
 excuderunt
@@ -4947,7 +4948,6 @@ endaspidean
 euhemerize
 enticed
 exencephalic
-ectocoelic
 electroamalgamation
 ephemerally
 eutelegenic
