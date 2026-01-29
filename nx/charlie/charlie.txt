@@ -8643,6 +8643,7 @@ channelize
 crumber
 corresponder
 courbe
+chironomic
 coparcener
 celosias
 cardiae
@@ -22124,7 +22125,6 @@ carragheen
 confounded
 cycloparaffin
 cautel
-chironomic
 cromerian
 caickle
 confounder
