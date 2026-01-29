@@ -4894,6 +4894,7 @@ enshrining
 electrotherapeutist
 engraven
 eria
+existability
 emmer
 eulogizes
 expectorator
@@ -8429,7 +8430,6 @@ eosin
 equivocating
 equipollent
 euphuist
-existability
 epitomizes
 electrohydraulically
 emigratory
