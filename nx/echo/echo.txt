@@ -1390,6 +1390,7 @@ effects
 enlarge
 edified
 eons
+elohism
 equilibristat
 enclog
 effectuating
@@ -11271,7 +11272,6 @@ ectepicondylar
 expensive
 ergonomic
 enthronised
-elohism
 enosis
 eugenism
 electroplater
