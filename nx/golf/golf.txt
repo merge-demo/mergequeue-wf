@@ -6567,7 +6567,6 @@ gastropod
 garnetwork
 glasswork
 grassant
-grappas
 glottalization
 gambeson
 grummets
@@ -10565,6 +10564,7 @@ grecoue
 gnomish
 gingivalgia
 gurmukhi
+grappas
 gatewoman
 grenadiership
 gpad

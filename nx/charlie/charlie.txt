@@ -26738,7 +26738,6 @@ cubla
 carot
 cytozoon
 counterborer
-counterboring
 counterboulle
 counterbranch
 counterbrand
@@ -27468,6 +27467,7 @@ cankerweed
 couturieres
 couturiers
 chanduy
+counterboring
 credenciveness
 curlingly
 coroneted
