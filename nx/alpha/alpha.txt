@@ -11921,7 +11921,6 @@ anthology
 anarchies
 analyzation
 affrights
-adela
 antitradition
 astromancy
 anarchist
@@ -18374,6 +18373,7 @@ araneoidea
 alarmed
 arangoes
 aranyaka
+adela
 autotheism
 aperispermic
 acceding
