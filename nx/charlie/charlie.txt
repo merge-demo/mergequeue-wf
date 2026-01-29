@@ -3591,6 +3591,7 @@ captor
 capturable
 capture
 chemotherapist
+centriole
 captured
 captures
 capturing
@@ -7241,7 +7242,6 @@ centring
 centrings
 clivia
 courtin
-centriole
 chalazogam
 confiture
 corf
