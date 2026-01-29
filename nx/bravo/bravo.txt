@@ -1335,7 +1335,6 @@ belying
 blanches
 bibliolater
 breviradiate
-balatron
 balatte
 bermudian
 bewimple
@@ -2098,6 +2097,7 @@ boerdom
 belaced
 banlieu
 bakerdom
+balatron
 boidae
 backgeared
 brombenzyl
