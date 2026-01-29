@@ -5182,6 +5182,7 @@ caserios
 cyphering
 caserne
 casernes
+clangour
 costumery
 caserns
 cases
@@ -15330,7 +15331,6 @@ clangors
 carlylism
 cappella
 charioteers
-clangour
 clangoured
 clangouring
 campings
