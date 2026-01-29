@@ -6246,6 +6246,7 @@ forkable
 fearlessness
 flagilate
 focalisation
+furriness
 fairyland
 farthingless
 fathership
@@ -7748,7 +7749,6 @@ foreturn
 flotter
 farreation
 fontanel
-furriness
 forehoofs
 forehooves
 forpit
