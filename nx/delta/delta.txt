@@ -7973,7 +7973,6 @@ directed
 dextran
 dextranase
 doublelunged
-disallowable
 defunctive
 decimeters
 dextroaural
@@ -10540,6 +10539,7 @@ deda
 dotty
 diphtheric
 denticeti
+disallowable
 defacement
 diphtheritically
 disarraying
