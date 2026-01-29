@@ -347,6 +347,7 @@ donnee
 dreadness
 daimios
 duddie
+disinheritance
 dadap
 daimyos
 despose
@@ -12620,7 +12621,6 @@ detonator
 disinheritable
 diuturnity
 detoxifies
-disinheritance
 dinaphthyl
 deirdre
 disarrays
