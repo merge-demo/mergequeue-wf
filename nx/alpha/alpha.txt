@@ -19918,6 +19918,7 @@ armorican
 apurpose
 albescence
 adenofibrosis
+allegement
 anagnorisis
 apperceived
 animalculism
@@ -21606,7 +21607,6 @@ automolite
 alkyl
 araneologist
 abramis
-allegement
 aeronomical
 autoelectrolysis
 antiphonaries
