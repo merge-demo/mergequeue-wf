@@ -2126,7 +2126,6 @@ gavial
 glottal
 gipsied
 greensward
-gaining
 guarantors
 glands
 ganodus
@@ -5814,6 +5813,7 @@ gloveman
 gumtrees
 garancin
 glover
+gaining
 glave
 gastrodisk
 glamorously
