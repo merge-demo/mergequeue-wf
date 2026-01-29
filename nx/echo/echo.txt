@@ -6464,7 +6464,6 @@ echinostoma
 enlacement
 elfins
 excommunicated
-eobionts
 edental
 evenmete
 eptatretus
@@ -9894,6 +9893,7 @@ erostrate
 encephalosclerosis
 ecodeme
 epeeists
+eobionts
 exallotriote
 eleutheropetalous
 esthesiology
