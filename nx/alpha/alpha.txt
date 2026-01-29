@@ -16039,7 +16039,6 @@ antirrhinum
 antierysipelas
 aliturgic
 antisacerdotalist
-antisag
 adjectives
 authorising
 antisaloon
@@ -20478,6 +20477,7 @@ astate
 ablepsia
 avoure
 alaunian
+antisag
 axers
 agrarian
 agnails
