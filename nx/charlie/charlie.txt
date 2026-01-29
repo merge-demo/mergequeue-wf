@@ -1448,7 +1448,6 @@ criollas
 cornerwise
 corsesque
 calypso
-copals
 calypsoes
 companionizing
 calypsonian
@@ -13497,6 +13496,7 @@ cylindrograph
 compilers
 chisel
 chrysocolla
+copals
 cholelithotripsy
 ceratites
 caudillos
