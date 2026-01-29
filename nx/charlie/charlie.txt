@@ -3288,7 +3288,6 @@ compenetrate
 corns
 capito
 conserving
-canulated
 capitol
 clingier
 crayfishing
@@ -8191,6 +8190,7 @@ chairmaning
 chattack
 chairmanning
 chairmans
+canulated
 chondroclasis
 chairmanship
 congrid
