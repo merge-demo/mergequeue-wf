@@ -1709,6 +1709,7 @@ fluorbenzene
 faucets
 flatworm
 formaliser
+fayumic
 fernticle
 fieldmice
 fragmentation
@@ -9542,7 +9543,6 @@ floods
 fyces
 forearmed
 fand
-fayumic
 floors
 foresteep
 forewarned
