@@ -902,6 +902,7 @@ guelphism
 greedy
 gobangs
 grindingly
+gyrograph
 gammerel
 gammock
 gillnetted
@@ -10833,7 +10834,6 @@ gyrofrequency
 groschen
 genethlialogical
 graminological
-gyrograph
 galactophthysis
 guttar
 guaiacum
