@@ -3308,7 +3308,6 @@ backstabbed
 bronzes
 branchiostegan
 bushfighter
-beadlery
 backpacking
 batty
 burgensic
@@ -6416,6 +6415,7 @@ borize
 boophilus
 burely
 byplays
+beadlery
 benzonaphthol
 behedge
 benzophenothiazine
