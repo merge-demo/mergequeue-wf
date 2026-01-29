@@ -13239,6 +13239,7 @@ brigue
 bender
 bedkey
 begemmed
+bracketwise
 bordure
 bibliography
 boschveld
@@ -17961,7 +17962,6 @@ bushwhackers
 balancing
 bellowsman
 blazoned
-bracketwise
 baho
 busybodyism
 basilosauridae
