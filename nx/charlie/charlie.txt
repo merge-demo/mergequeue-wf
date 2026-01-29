@@ -17954,7 +17954,6 @@ coeditors
 cocoanuts
 coedits
 coeducationalism
-coeducationalize
 crude
 coef
 chromosphere
@@ -26620,6 +26619,7 @@ curer
 counsellor
 countability
 corbels
+coeducationalize
 curtlax
 ciliolum
 coccyges
