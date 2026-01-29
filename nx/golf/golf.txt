@@ -5489,7 +5489,6 @@ gingerberry
 garrulous
 grotesques
 girsle
-gonfanon
 gladful
 gearwheel
 goethite
@@ -5845,6 +5844,7 @@ glt
 guff
 gatten
 gonophoric
+gonfanon
 gruiformes
 guddling
 geroderma
