@@ -3913,6 +3913,7 @@ gymnarchidae
 gazabos
 gallotannate
 goshdarn
+glutimate
 grossen
 guaycuru
 gyroplane
@@ -6820,7 +6821,6 @@ gruffish
 guarding
 gurts
 gris
-glutimate
 glunch
 gonococci
 glossopharyngeus
