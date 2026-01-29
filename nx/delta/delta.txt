@@ -3901,6 +3901,7 @@ disherits
 dekameters
 decumani
 dekapode
+deink
 dextrocerebral
 duo
 dermopathic
@@ -11156,7 +11157,6 @@ dauerschlaf
 demonetisation
 dirt
 denitrified
-deink
 dandyling
 decentness
 dundreary
