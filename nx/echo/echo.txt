@@ -1426,7 +1426,6 @@ eucalyptol
 efficacy
 empuzzle
 ethene
-efficacies
 endochylous
 exhortation
 eleutherodactyli
@@ -7317,6 +7316,7 @@ essang
 erysipelothrix
 ethically
 endogamies
+efficacies
 eulogises
 eorhyolite
 earshot
