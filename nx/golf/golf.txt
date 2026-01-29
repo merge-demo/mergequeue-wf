@@ -1364,7 +1364,6 @@ goodwives
 garglers
 graplins
 glyoxylic
-geordie
 ghastly
 glugglug
 garotters
@@ -9755,6 +9754,7 @@ gifblaar
 geobiologic
 gropple
 gasses
+geordie
 geon
 gazet
 glassmaker
