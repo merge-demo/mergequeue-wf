@@ -4100,7 +4100,6 @@ caliginous
 cardiacle
 cardiagra
 celiolymph
-cardiagram
 cardiagraph
 cardiagraphy
 cardial
@@ -29681,6 +29680,7 @@ crojack
 complimented
 coliplication
 cromaltite
+cardiagram
 cromer
 cunyie
 cocovenantor
