@@ -1355,6 +1355,7 @@ calyceraceae
 calices
 calyces
 cathartin
+coumarane
 cascabels
 calyciflorate
 contranatural
@@ -6983,7 +6984,6 @@ cheekiness
 croute
 cenation
 cencerro
-coumarane
 chappe
 cenesthesis
 cletch
