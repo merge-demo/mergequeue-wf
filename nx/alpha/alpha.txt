@@ -2246,7 +2246,6 @@ almique
 acetophenine
 acrestaff
 archangel
-achromatization
 albedos
 achromatize
 achromatocyte
@@ -14902,6 +14901,7 @@ artinite
 anticoagulant
 anticoagulation
 acariasis
+achromatization
 autotomized
 argental
 anticolic
