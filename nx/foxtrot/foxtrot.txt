@@ -5673,6 +5673,7 @@ filamentar
 fiendlike
 fossicking
 fader
+freightyard
 fairgoing
 floweret
 fonly
@@ -9638,7 +9639,6 @@ foller
 futilitarian
 flukey
 forking
-freightyard
 fidded
 forwalk
 foolmonger
