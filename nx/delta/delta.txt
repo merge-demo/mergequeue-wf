@@ -6595,6 +6595,7 @@ dirdum
 denominated
 dephlegmated
 dampang
+driving
 doubtsome
 diluted
 desegregated
@@ -17233,7 +17234,6 @@ disbench
 defease
 dice
 dagger
-driving
 disclamatory
 drizzles
 develop
