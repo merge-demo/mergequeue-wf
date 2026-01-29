@@ -10942,6 +10942,7 @@ boxball
 barracker
 blooddrops
 byrthynsak
+bubbler
 bootle
 bevue
 bactriticone
@@ -16641,7 +16642,6 @@ brachiocrural
 bedlamps
 billiardist
 bubblement
-bubbler
 bullshitting
 brawny
 biseptate
