@@ -3547,6 +3547,7 @@ dopy
 defrayable
 disembarrassment
 dismissable
+dromotropic
 defrayers
 defraying
 dogmouth
@@ -16246,7 +16247,6 @@ decrown
 demiowl
 duchery
 drek
-dromotropic
 ductilimeter
 dramalogue
 dilaceration
