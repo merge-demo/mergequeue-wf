@@ -3229,7 +3229,6 @@ gauche
 globosely
 gepidae
 gremlin
-glozing
 garrons
 goggled
 genizah
@@ -4444,6 +4443,7 @@ gynura
 garotter
 guamachil
 goyazite
+glozing
 gadsman
 gipsydom
 glucuronide
