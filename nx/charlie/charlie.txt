@@ -13178,7 +13178,6 @@ csk
 cyclades
 clavichordist
 campshot
-cyclamens
 cyclamine
 cyclane
 cataphonic
@@ -30727,6 +30726,7 @@ commonplacely
 conusor
 cuishes
 coordinates
+cyclamens
 cyanometer
 cremone
 chrometophobia
