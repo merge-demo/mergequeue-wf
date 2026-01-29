@@ -1088,7 +1088,6 @@ eqpt
 entail
 exect
 edgar
-expatriating
 erraticness
 ecanda
 edgeboned
@@ -9139,6 +9138,7 @@ endoscopic
 exponential
 enclitically
 epicolic
+expatriating
 euryalae
 encanker
 electroencephalographic

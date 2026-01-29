@@ -813,7 +813,6 @@ abridging
 anourous
 abris
 abristle
-alabandine
 airdock
 abrogate
 allergies
@@ -11564,6 +11563,7 @@ autodialled
 assafoetida
 anabrotic
 anacreontically
+alabandine
 ariette
 axminster
 athens
