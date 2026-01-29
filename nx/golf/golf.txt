@@ -5072,7 +5072,6 @@ genesiology
 grotesquerie
 garavance
 glowed
-girdering
 geosynclinal
 geniohyoid
 glaum
@@ -7533,6 +7532,7 @@ geobotanist
 glossodynia
 generalization
 glial
+girdering
 glycolytic
 galenist
 glaucophanize
