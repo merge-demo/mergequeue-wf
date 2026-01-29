@@ -10564,7 +10564,6 @@ choes
 chillness
 crucifixes
 concremation
-celebrator
 chillroom
 chills
 chillsome
@@ -27021,6 +27020,7 @@ comfortress
 counterpotence
 chryselephantine
 cantilated
+celebrator
 counterpotent
 constance
 centenarian
