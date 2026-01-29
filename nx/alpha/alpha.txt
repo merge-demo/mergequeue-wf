@@ -3418,7 +3418,6 @@ allegorize
 autoretardation
 arbored
 anaqua
-acknowledging
 alter
 arnement
 azurite
@@ -17651,6 +17650,7 @@ aquotize
 appetibleness
 acinaces
 appetiser
+acknowledging
 atlantad
 alerted
 aviate
