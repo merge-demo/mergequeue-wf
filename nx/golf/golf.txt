@@ -2982,7 +2982,6 @@ glossarially
 grapline
 goumier
 gratuitous
-gentlefolk
 gambusia
 glitnir
 glycolic
@@ -9786,6 +9785,7 @@ grocerwise
 gloomiest
 galvanoscope
 grannom
+gentlefolk
 gelants
 gratiosolin
 galiot
