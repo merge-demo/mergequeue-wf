@@ -6473,7 +6473,6 @@ drupal
 desamidase
 demipuppet
 desands
-desc
 descale
 downrightly
 dequeues
@@ -12941,6 +12940,7 @@ distemperate
 dismisses
 draughtswomanship
 dismissing
+desc
 dextrad
 dismissory
 discographically
