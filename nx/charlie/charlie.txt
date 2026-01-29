@@ -5231,7 +5231,6 @@ curarine
 charet
 casings
 cisjurane
-casiri
 casita
 casket
 corpl
@@ -30889,6 +30888,7 @@ coof
 cibolero
 causey
 coralflower
+casiri
 cultismo
 churchliness
 cultisms
