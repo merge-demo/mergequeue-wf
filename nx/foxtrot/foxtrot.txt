@@ -5567,7 +5567,6 @@ flitching
 frotton
 funniness
 foreword
-fudder
 frequentness
 flensed
 forfear
@@ -7429,6 +7428,7 @@ flob
 fetting
 frowy
 fulcrum
+fudder
 fibrotic
 focimeter
 federally
