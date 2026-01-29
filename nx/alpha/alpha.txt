@@ -7747,7 +7747,6 @@ anconei
 aldolized
 aldolizing
 aldols
-aldose
 aldoside
 aldosterone
 antonia
@@ -8580,6 +8579,7 @@ allegorizing
 angulosity
 alternize
 allegresse
+aldose
 ambary
 allegrettos
 adobes
