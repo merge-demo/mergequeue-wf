@@ -3779,6 +3779,7 @@ glinse
 goonie
 graveldiver
 geometdecrne
+grenier
 getatable
 gazoz
 ginn
@@ -6674,7 +6675,6 @@ goneness
 gonidangium
 glucagons
 gonepoiesis
-grenier
 gingivectomy
 gash
 geostatic

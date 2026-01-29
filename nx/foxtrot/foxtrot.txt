@@ -2157,7 +2157,6 @@ functionals
 flunkyize
 fissuration
 fellation
-fellations
 fireplow
 facund
 foreprize
@@ -5169,6 +5168,7 @@ fractious
 fullmouth
 fernleaf
 frsiket
+fellations
 fitches
 frigatoon
 fluorescence
