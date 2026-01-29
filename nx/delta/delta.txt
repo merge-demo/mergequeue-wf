@@ -7917,6 +7917,7 @@ dewdrop
 daggerboard
 drumler
 dewdropper
+delphin
 dogteeth
 drillet
 dealcoholist
@@ -17200,7 +17201,6 @@ dicyclic
 desmognathism
 dehair
 disgustingness
-delphin
 decumbence
 disorganic
 demitasse
