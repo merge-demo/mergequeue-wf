@@ -703,6 +703,7 @@ grannybush
 gluteal
 gumlike
 gugglet
+gumboil
 galvanizers
 gripple
 geographies
@@ -1225,7 +1226,6 @@ giddy
 grogged
 glucid
 gooding
-gumboil
 garbill
 guyline
 gradings
