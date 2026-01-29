@@ -11172,7 +11172,6 @@ abl
 amphirhinal
 antiprecipitin
 adamant
-acalycinous
 antimarian
 aloofly
 amice
@@ -18907,6 +18906,7 @@ aslantwise
 angiocardiographic
 archimime
 allopathetically
+acalycinous
 alarmism
 albuminoid
 actinomycetales
