@@ -1509,7 +1509,6 @@ fuzzines
 finitudes
 feverish
 fervent
-fungillus
 faucre
 foreknowingly
 fancily
@@ -9327,6 +9326,7 @@ fraktur
 fresnel
 foresentence
 fetishist
+fungillus
 futilize
 fleuret
 fourchet
