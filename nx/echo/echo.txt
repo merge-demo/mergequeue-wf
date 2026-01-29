@@ -5916,6 +5916,7 @@ exclaims
 enrollment
 epitomised
 epitomise
+equaling
 enharbour
 electrometallurgy
 exocytosis
@@ -13113,7 +13114,6 @@ evolvent
 enslave
 emulousness
 embassador
-equaling
 explications
 ergotisms
 ende
