@@ -666,6 +666,7 @@ creatins
 caesura
 cybernated
 caesurae
+cdg
 crickey
 caesuric
 cakra
@@ -17077,7 +17078,6 @@ crayoned
 cnidoblast
 cnidocil
 cobbed
-cdg
 coexplosion
 cupmate
 cnidopod
