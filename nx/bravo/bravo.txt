@@ -12143,6 +12143,7 @@ boronic
 bokharan
 bokom
 bolag
+brabant
 bolas
 bedell
 bouses
@@ -14031,7 +14032,6 @@ broomy
 breathers
 bathrobes
 botulism
-brabant
 bondable
 bolshevizing
 bronstrops
