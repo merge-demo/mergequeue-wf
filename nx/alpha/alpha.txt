@@ -3227,7 +3227,6 @@ actualness
 allochromatic
 aloemodin
 axopetal
-adderbolt
 acoumetry
 alstonine
 assident
@@ -12414,6 +12413,7 @@ antidotically
 anelytrous
 autolithographer
 articulable
+adderbolt
 anhydrite
 antehistoric
 arsenicated
