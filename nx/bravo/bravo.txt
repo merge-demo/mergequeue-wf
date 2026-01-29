@@ -3412,6 +3412,7 @@ baviere
 botrychium
 bassy
 besieges
+biasness
 bureau
 bassia
 bobbishly
@@ -16535,7 +16536,6 @@ benedictions
 bimillennium
 bequote
 blintzes
-biasness
 bursattee
 brussel
 bolshevistic
