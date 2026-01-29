@@ -7254,6 +7254,7 @@ dimetric
 detenue
 decussorium
 desulfurize
+drammocks
 detenues
 detonatable
 dephlegmator
@@ -16714,7 +16715,6 @@ distributedly
 drypoint
 disadvised
 dewily
-drammocks
 descriptively
 drepania
 desalt
