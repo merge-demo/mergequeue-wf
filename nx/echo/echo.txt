@@ -12044,7 +12044,6 @@ exclusivity
 edibleness
 effluents
 egomaniac
-esperance
 excogitated
 exterminatory
 enclasps
@@ -12123,6 +12122,7 @@ excerpter
 eubacterium
 ency
 excruciating
+esperance
 excruciator
 electrolysing
 epitheloid
