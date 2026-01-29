@@ -14510,7 +14510,6 @@ becivet
 braireau
 braises
 banderma
-butea
 braystone
 breeze
 beent
@@ -16516,6 +16515,7 @@ bronchopathy
 borneo
 byrling
 bipyramid
+butea
 brushpopper
 brushwood
 brushwork
