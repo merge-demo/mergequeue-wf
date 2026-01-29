@@ -7352,6 +7352,7 @@ amvis
 apteryx
 albines
 autobahn
+aphetic
 airbills
 albiness
 affere
@@ -12088,7 +12089,6 @@ aetites
 amsel
 acetylenyl
 acetification
-aphetic
 anatum
 acanthous
 analysable
