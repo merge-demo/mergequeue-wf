@@ -18057,6 +18057,7 @@ coemployment
 coemploys
 cheesy
 coempted
+ceroxylon
 coempting
 congresso
 cytogeneticist
@@ -18590,7 +18591,6 @@ caustics
 clavers
 coiffeurs
 coiffeuses
-ceroxylon
 coiffures
 coiffuring
 coifing
