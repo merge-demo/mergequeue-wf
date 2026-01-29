@@ -12082,6 +12082,7 @@ depluming
 doctrix
 daint
 dacus
+discharge
 dipterad
 diammine
 domicella
@@ -12761,7 +12762,6 @@ disliker
 direfully
 dodders
 debriefing
-discharge
 dioicously
 drizzle
 dacryoadenitis
