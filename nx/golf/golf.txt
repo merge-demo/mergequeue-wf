@@ -3724,7 +3724,6 @@ grafters
 gelastic
 garrisonism
 gallinae
-geryonidae
 gnathite
 goalmouth
 gherkins
@@ -4038,6 +4037,7 @@ geosynclines
 generally
 gyrencephala
 glandes
+geryonidae
 gib
 grandness
 gildship
