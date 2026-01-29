@@ -12687,6 +12687,7 @@ countermarch
 cassone
 colorcaster
 conventioneer
+chat
 clingingness
 countervail
 crape
@@ -19314,7 +19315,6 @@ colonnade
 chromatician
 coughwort
 colonnaded
-chat
 choreographical
 colonnette
 congregationer
