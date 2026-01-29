@@ -6755,7 +6755,6 @@ breadboxes
 boredoms
 bernardine
 blackstick
-bondman
 brae
 benzaldoxime
 becripple
@@ -17773,6 +17772,7 @@ bandeng
 banjoists
 bursty
 buoyances
+bondman
 buttals
 breakback
 burroweed
