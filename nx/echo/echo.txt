@@ -1436,7 +1436,6 @@ exhortation
 eleutherodactyli
 electrotechnic
 epiclidal
-embolden
 expeded
 excisable
 expirator
@@ -9257,6 +9256,7 @@ elates
 embryophyte
 estensible
 emeute
+embolden
 epistle
 empiricism
 echelon
