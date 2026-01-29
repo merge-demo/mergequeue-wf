@@ -1507,7 +1507,6 @@ gerbille
 gorlin
 grote
 grasseye
-gogglebox
 genapping
 geological
 gasman
@@ -3567,6 +3566,7 @@ gelignite
 gnomical
 glottis
 guyots
+gogglebox
 girded
 gluier
 gaycat
