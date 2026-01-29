@@ -5511,7 +5511,6 @@ gandhism
 greater
 goldeye
 gonostyle
-galet
 gemellus
 guester
 glue
@@ -6056,6 +6055,7 @@ girr
 gluma
 gigantical
 gnomology
+galet
 gyppers
 gnathitis
 gragers
