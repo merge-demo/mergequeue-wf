@@ -4918,6 +4918,7 @@ bomarea
 beechwood
 bibulosities
 bluing
+bellarmine
 bright
 bodyhood
 blackeyes
@@ -6000,7 +6001,6 @@ backening
 barothermohygrogram
 bolivian
 begripe
-bellarmine
 bemaddened
 bemaim
 bemangle

@@ -1534,7 +1534,6 @@ gracilariid
 gery
 grype
 garlicmonger
-grandiloquence
 ghoul
 gadflies
 gunrack
@@ -4322,6 +4321,7 @@ gleesomeness
 goshawful
 gemological
 gravidity
+grandiloquence
 gloeosporiose
 gawks
 grundyism
