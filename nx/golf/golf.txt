@@ -1180,6 +1180,7 @@ gradations
 globular
 glides
 guttate
+gharries
 garfishes
 grappler
 glaux
@@ -7506,7 +7507,6 @@ gulpy
 gladiatory
 glyphography
 gelded
-gharries
 gonad
 gamesmanship
 gordon
