@@ -1088,7 +1088,6 @@ eqpt
 entail
 exect
 edgar
-expatiatory
 expatriating
 erraticness
 ecanda
@@ -8854,6 +8853,7 @@ el
 efflorescency
 ekename
 equidistant
+expatiatory
 enlightens
 erasers
 effectuate
