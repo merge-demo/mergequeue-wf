@@ -2381,7 +2381,6 @@ guardants
 gasterosteoid
 guttular
 grignet
-gossamer
 gonopodpodia
 george
 gabardines
@@ -5135,6 +5134,7 @@ gossiper
 grammatic
 gomerec
 grittier
+gossamer
 gunman
 guilelessly
 guernseyed
