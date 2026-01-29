@@ -11685,6 +11685,7 @@ boxhead
 buchmanite
 boatless
 belace
+bef
 bubblies
 befame
 boatmanship
@@ -16630,7 +16631,6 @@ bubals
 bubastid
 backorder
 belligerencies
-bef
 bursati
 benedictory
 brachiocrural
