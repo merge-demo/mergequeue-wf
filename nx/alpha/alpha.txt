@@ -1300,6 +1300,7 @@ antisceptic
 airing
 accountability
 ais
+anthropogeography
 acatalectic
 apomicts
 antireacting
@@ -23722,7 +23723,6 @@ anesis
 auroch
 answer
 anteceded
-anthropogeography
 aurore
 additionally
 acct
