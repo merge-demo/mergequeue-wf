@@ -13819,6 +13819,7 @@ begazes
 buffet
 blesseder
 bedlam
+blattoidea
 bogs
 boatful
 barrator
@@ -14559,7 +14560,6 @@ baske
 bahan
 branchiomeric
 branchellion
-blattoidea
 babroot
 beadle
 beclowns
