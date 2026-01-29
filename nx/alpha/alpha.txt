@@ -21048,6 +21048,7 @@ aminosulphonic
 ascyrum
 ahmet
 azoxynaphthalene
+apikorsim
 accumulators
 alecithal
 amphithalamus
@@ -22379,7 +22380,6 @@ archings
 antilia
 accreting
 astrogated
-apikorsim
 astrogating
 admitter
 anna
