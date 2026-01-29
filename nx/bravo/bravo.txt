@@ -4082,7 +4082,6 @@ blanch
 blathered
 blockheads
 badinage
-bannerets
 barleyhood
 becolme
 bulgers
@@ -12718,6 +12717,7 @@ bunkos
 blueth
 becolor
 boodled
+bannerets
 braccia
 bane
 bellical
