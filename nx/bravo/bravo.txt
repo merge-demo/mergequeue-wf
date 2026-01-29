@@ -3535,7 +3535,6 @@ blubberous
 bissext
 bonniest
 birdcall
-batched
 batcher
 bogging
 bitterhearted
@@ -5806,6 +5805,7 @@ boxers
 bromocyanide
 becrawling
 bedlamic
+batched
 backie
 bombyliidae
 bryozoan
