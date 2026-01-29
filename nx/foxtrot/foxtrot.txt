@@ -1832,6 +1832,7 @@ frotting
 frustules
 freath
 fanfarade
+flocking
 flyspecks
 fastener
 fractureproof
@@ -5354,7 +5355,6 @@ fluphenazine
 forestless
 fstore
 flot
-flocking
 fieldy
 felicitator
 fideicommissa
