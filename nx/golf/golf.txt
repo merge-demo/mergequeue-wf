@@ -1175,7 +1175,6 @@ glyceraldehyde
 grinned
 gibbet
 glowingly
-gorilla
 grin
 gaplessness
 gourmandise
@@ -5691,6 +5690,7 @@ grate
 gardenmaker
 gulfside
 galleins
+gorilla
 gaucie
 grudgefully
 galvanographic
