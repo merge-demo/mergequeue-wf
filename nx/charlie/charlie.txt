@@ -10029,7 +10029,6 @@ caribisi
 chord
 composers
 cherubimic
-cherubimical
 crappin
 cherublike
 cantalever
@@ -26269,6 +26268,7 @@ cuprosilicon
 charivari
 crashingly
 cervicicardiac
+cherubimical
 cathartic
 coloradans
 clypeastroida
