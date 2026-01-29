@@ -2189,6 +2189,7 @@ grough
 gunyeh
 graphanalysis
 granes
+gloving
 ghosting
 guberniya
 gabs
@@ -9552,7 +9553,6 @@ gladless
 grumped
 generalizer
 gullishly
-gloving
 grouser
 garvey
 gunmetals
