@@ -11604,7 +11604,6 @@ aerobes
 arrage
 accelerates
 assuror
-anaemotropy
 acerbity
 anaerobation
 antiquist
@@ -12747,6 +12746,7 @@ angioparesis
 ambassadorship
 awarder
 actualism
+anaemotropy
 agnosis
 angioplasty
 androgyn
