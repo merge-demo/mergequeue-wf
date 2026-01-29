@@ -3264,6 +3264,7 @@ grainedness
 genuses
 graphophone
 graywacke
+glave
 gimbawawed
 glucemia
 geometrising
@@ -5819,7 +5820,6 @@ gumtrees
 garancin
 glover
 gaining
-glave
 gastrodisk
 glamorously
 gurjara
