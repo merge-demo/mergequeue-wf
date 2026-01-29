@@ -7625,6 +7625,7 @@ fuzils
 foretake
 formers
 fragor
+factorage
 foreclosure
 fevering
 ferruler
@@ -11747,7 +11748,6 @@ fathom
 foliiform
 flneur
 furless
-factorage
 fumados
 firefang
 faultfinders
