@@ -15888,7 +15888,6 @@ cherts
 cleidomancy
 cleidorrhexis
 cleidotripsy
-cleistocarp
 cleistocarpous
 cicale
 chirker
@@ -21119,6 +21118,7 @@ conalbumin
 communard
 coned
 cramoisie
+cleistocarp
 cornfed
 conand
 connivence
