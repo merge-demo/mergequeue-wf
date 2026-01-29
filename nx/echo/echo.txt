@@ -590,7 +590,6 @@ exequial
 ethiopians
 equatorially
 excommunicatory
-echinomys
 entrained
 ensilate
 erythrene
@@ -13630,6 +13629,7 @@ emendation
 epencephal
 esopgi
 expurgates
+echinomys
 emprent
 empedoclean
 effossion
