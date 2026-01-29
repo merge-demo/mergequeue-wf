@@ -7277,6 +7277,7 @@ architectural
 albe
 actinoelectric
 awmbrie
+auspex
 ariole
 alchemising
 anglesite
@@ -23761,7 +23762,6 @@ ausform
 ausforming
 arrent
 auslaute
-auspex
 approvability
 associational
 allopelagic
