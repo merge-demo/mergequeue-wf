@@ -3585,7 +3585,6 @@ fusicladium
 fromfile
 figurer
 foolery
-fute
 fuzzing
 fleetingly
 fernland
@@ -4456,6 +4455,7 @@ flechette
 floorshifts
 footnotes
 forbearances
+fute
 frenums
 flexive
 forky
