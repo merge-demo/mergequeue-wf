@@ -1129,6 +1129,7 @@ ferret
 foughten
 farsighted
 flatiron
+flaunt
 farsightedness
 flooring
 forkedly
@@ -8693,7 +8694,6 @@ formamide
 faintest
 footing
 fellatory
-flaunt
 flawed
 fillebeg
 fumistery
