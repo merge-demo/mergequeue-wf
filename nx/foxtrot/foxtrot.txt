@@ -2842,7 +2842,6 @@ festivity
 flatly
 forgift
 fistulized
-forbearer
 ftncmd
 foxtailed
 fieldwork
@@ -7348,6 +7347,7 @@ flumed
 footslogger
 farasula
 flailed
+forbearer
 fluorogen
 foregoing
 featly
