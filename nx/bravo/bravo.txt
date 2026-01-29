@@ -4275,6 +4275,7 @@ berbamine
 blattariae
 belite
 barest
+basally
 burgonet
 beaverism
 bistoury
@@ -12466,7 +12467,6 @@ bonbonnieres
 baptized
 becurses
 bridecake
-basally
 bests
 bowerlike
 beanos
