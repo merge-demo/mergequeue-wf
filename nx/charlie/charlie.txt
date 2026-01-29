@@ -4595,7 +4595,6 @@ carnifex
 carnifexes
 cationic
 carnification
-carnificial
 carnifies
 colonel
 cnidocell
@@ -5256,6 +5255,7 @@ caspian
 coriariaceous
 casque
 casqued
+carnificial
 const
 cushat
 casquetel
