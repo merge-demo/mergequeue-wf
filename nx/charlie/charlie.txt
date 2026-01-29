@@ -10036,6 +10036,7 @@ census
 caribisi
 chord
 composers
+chemosmoic
 cherubimic
 crappin
 cherublike
@@ -17756,7 +17757,6 @@ couched
 clabbered
 crossfish
 comaking
-chemosmoic
 conciliatorily
 cockroaches
 cozing
