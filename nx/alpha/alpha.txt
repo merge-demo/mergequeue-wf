@@ -1991,6 +1991,7 @@ assertions
 albert
 apoplectically
 acetla
+autothermy
 acetometer
 accroachment
 acetonaemic
@@ -17332,7 +17333,6 @@ alums
 atterrate
 animalcules
 anaesthetic
-autothermy
 aposteme
 amidosulphonal
 aposteriori
