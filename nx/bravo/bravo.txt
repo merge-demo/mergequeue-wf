@@ -3726,6 +3726,7 @@ brontotherium
 bindlet
 bepinch
 baylike
+bootery
 barbita
 brookflower
 brightest
@@ -12939,7 +12940,6 @@ bangalow
 basidiomycetous
 bootees
 battlemented
-bootery
 backtrail
 bonhomie
 boothage
