@@ -12931,7 +12931,6 @@ chutzpa
 carbanion
 chutzpanik
 concentre
-cuesta
 cia
 cyan
 cyanamid
@@ -28341,6 +28340,7 @@ cerography
 counterdraft
 christenhead
 cravingness
+cuesta
 cravings
 chlorophoenicite
 comportment
