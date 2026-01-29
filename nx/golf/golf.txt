@@ -4870,6 +4870,7 @@ glacieret
 ghanian
 gouaches
 garookuh
+gamari
 gimlets
 graphemes
 gowns
@@ -6416,7 +6417,6 @@ glassworks
 granulitis
 gracer
 geoponic
-gamari
 goidelic
 goldeyes
 glommed

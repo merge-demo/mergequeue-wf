@@ -4045,7 +4045,6 @@ encover
 ectropometer
 enplanes
 entomoid
-explantation
 emendatory
 empyemic
 empiercement
@@ -4242,6 +4241,7 @@ enfranchising
 empetraceous
 emptor
 eccyclema
+explantation
 evagination
 ethal
 extrathecal
