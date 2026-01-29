@@ -3740,7 +3740,6 @@ foredate
 fluorocarbons
 frithsoken
 flawier
-forelooper
 father
 floorings
 friskers
@@ -11364,6 +11363,7 @@ furloughed
 flustrine
 fuchsin
 forfended
+forelooper
 fluxure
 fissional
 frousier

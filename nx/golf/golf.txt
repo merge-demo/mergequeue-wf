@@ -3237,6 +3237,7 @@ grammies
 gebur
 galoping
 giron
+gossypose
 girtonian
 gambeered
 gnostology
@@ -5767,7 +5768,6 @@ graveolence
 grimmish
 gloomy
 gymnoplast
-gossypose
 galatic
 gonotheca
 gingerroot
