@@ -7733,7 +7733,6 @@ endotheliomata
 eboulement
 expoundable
 epideistic
-equidominant
 effluxion
 escalades
 esprise
@@ -13509,6 +13508,7 @@ epidural
 encumbrancer
 endotherm
 extraconstitutional
+equidominant
 enfroward
 exposing
 ethmoidal
