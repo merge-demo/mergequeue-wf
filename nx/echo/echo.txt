@@ -3614,7 +3614,6 @@ embolectomy
 effoliate
 enlive
 enicuridae
-elution
 emboli
 exaltation
 ergastulum
@@ -3641,6 +3640,7 @@ equinecessary
 eupeptic
 entocone
 endopleura
+elution
 economies
 enervator
 equoid
