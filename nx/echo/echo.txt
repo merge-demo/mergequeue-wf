@@ -4825,7 +4825,6 @@ encolpia
 entypies
 epigonous
 epidosite
-economizer
 eccoproticophoric
 escape
 erugate
@@ -9108,6 +9107,7 @@ errs
 enbranglement
 exordial
 eyases
+economizer
 electrotherapeutics
 extravascular
 erythrocytoschisis
