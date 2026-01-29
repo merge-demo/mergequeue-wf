@@ -5969,7 +5969,6 @@ embolium
 enframing
 enigma
 ermelin
-egotism
 endaortitis
 enigmata
 eluvial
@@ -11367,6 +11366,7 @@ evaporations
 earthian
 emblemology
 enjamb
+egotism
 ectocarpus
 ergatomorph
 episcoparian
