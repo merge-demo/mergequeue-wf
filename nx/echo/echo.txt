@@ -2575,6 +2575,7 @@ excepting
 epiphysary
 electromagnetism
 euomphalus
+electromer
 ebcdic
 eyebright
 elaborations
@@ -9293,7 +9294,6 @@ etymol
 erotomaniac
 erotomaniacal
 embreathement
-electromer
 extirpate
 escout
 exuviability
