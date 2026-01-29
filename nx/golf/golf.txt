@@ -8277,6 +8277,7 @@ gracilaria
 glutinous
 gravid
 gladlier
+grano
 glabrate
 gulfwards
 gnomonic
@@ -10133,7 +10134,6 @@ gonopores
 guetre
 gemsbuck
 gesticulate
-grano
 guffawed
 grassers
 grainery
