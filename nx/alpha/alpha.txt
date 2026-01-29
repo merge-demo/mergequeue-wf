@@ -14026,6 +14026,7 @@ araneids
 aeger
 antedates
 agalinis
+abanga
 amassments
 angrier
 astur
@@ -23882,7 +23883,6 @@ anoxaemic
 autarkist
 autechoscope
 adenopathy
-abanga
 apilary
 autecism
 autecology
