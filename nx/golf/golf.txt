@@ -6410,6 +6410,7 @@ glassworks
 granulitis
 gracer
 geoponic
+gamari
 goidelic
 goldeyes
 glommed
@@ -6640,7 +6641,6 @@ galanga
 gruntingly
 gombo
 glassine
-gamari
 gaed
 goncalo
 globulysis
