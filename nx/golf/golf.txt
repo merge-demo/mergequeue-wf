@@ -4980,6 +4980,7 @@ glosses
 gigger
 guaiacolize
 gradual
+gawby
 glaive
 growliness
 gynandroid
@@ -8439,7 +8440,6 @@ galipidine
 gorry
 galeeny
 genipa
-gawby
 gyroscopically
 grebe
 groomishly
