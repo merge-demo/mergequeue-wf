@@ -4715,7 +4715,6 @@ frawn
 farmhousey
 frigidities
 formulations
-flickerproof
 fireboard
 fitzroya
 federatively
@@ -10263,6 +10262,7 @@ filaceous
 feued
 fishyback
 finch
+flickerproof
 flannelly
 fractionalism
 forebears
