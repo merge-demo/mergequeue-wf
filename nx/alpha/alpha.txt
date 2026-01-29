@@ -7537,7 +7537,6 @@ arrhythmical
 alchemy
 agenized
 ahnfeltia
-angiomata
 alchemic
 antiviral
 alchemies
@@ -7615,6 +7614,7 @@ alcoholize
 alcoholmeter
 airmass
 anemogram
+angiomata
 autoloaders
 acroter
 ankou
