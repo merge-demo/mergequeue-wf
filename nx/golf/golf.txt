@@ -2799,6 +2799,7 @@ garblings
 gathers
 galvanometer
 gazettal
+gopak
 gormless
 garrote
 glassophone
@@ -9658,7 +9659,6 @@ geologers
 goiter
 grizzlier
 guarish
-gopak
 gerridae
 gunnings
 graphometric
