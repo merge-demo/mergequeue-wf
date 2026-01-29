@@ -7351,7 +7351,6 @@ duecentos
 dischurch
 deterrence
 disprejudice
-deterrent
 decolouration
 dodunk
 detersiveness
@@ -11473,6 +11472,7 @@ displacency
 deserted
 disquieten
 dyspnoi
+deterrent
 disciplinarily
 durative
 disciplinate
