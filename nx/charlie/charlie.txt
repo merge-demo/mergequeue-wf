@@ -12041,7 +12041,6 @@ countermachination
 crusca
 caruage
 casal
-chorusmaster
 chorussed
 cathedralic
 chorussing
@@ -29583,6 +29582,7 @@ crocanthemum
 croceic
 croceine
 culture
+chorusmaster
 caterer
 crocetin
 ceratospongiae
