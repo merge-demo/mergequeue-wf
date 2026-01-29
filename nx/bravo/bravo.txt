@@ -2165,7 +2165,6 @@ boxfishes
 banty
 bedless
 bewith
-bantu
 bantus
 baboonish
 bandon
@@ -12565,6 +12564,7 @@ bluebottle
 balmacaan
 bradypodidae
 bridesman
+bantu
 begummed
 bidets
 backbeat
