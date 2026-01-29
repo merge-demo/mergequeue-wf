@@ -419,7 +419,6 @@ endophlebitis
 enterostenosis
 ephthianure
 enteroparalysis
-eocene
 endevil
 embouchement
 excentral
@@ -9963,6 +9962,7 @@ embolisms
 estovers
 externship
 emphasis
+eocene
 epicentrum
 especialness
 equicellular
