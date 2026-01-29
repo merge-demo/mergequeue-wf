@@ -8736,7 +8736,6 @@ beardtongue
 borborygmies
 barbet
 buffe
-bambos
 brachiolaria
 barrett
 beseeching
@@ -17365,6 +17364,7 @@ bliny
 bloodmobiles
 bechauffeur
 bateman
+bambos
 bunged
 banking
 bankroller
