@@ -6075,7 +6075,6 @@ gnawers
 guan
 gnathopodite
 gneissic
-gabelles
 gluon
 gasifying
 gruffiness
@@ -10220,6 +10219,7 @@ grippers
 guzzled
 guile
 gyrectomies
+gabelles
 galluses
 groundsel
 gnathoplasty
