@@ -13845,6 +13845,7 @@ dammars
 disstate
 dissuaded
 delayed
+doglegs
 downsliding
 dachshound
 debunk
@@ -15095,7 +15096,6 @@ doghead
 doghood
 doghouse
 dogie
-doglegs
 dispermous
 deboshed
 dekabrist
