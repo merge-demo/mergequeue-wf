@@ -3534,7 +3534,6 @@ embellisher
 embellishers
 enchained
 embers
-eugubine
 estival
 enate
 epees
@@ -11003,6 +11002,7 @@ eupittone
 exsputory
 empathetic
 enteritis
+eugubine
 exams
 elephantry
 eyebeams
