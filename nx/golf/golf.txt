@@ -2382,7 +2382,6 @@ glyptographer
 gymnoconia
 guardants
 gasterosteoid
-guttular
 grignet
 gonopodpodia
 george
@@ -4786,6 +4785,7 @@ geldability
 genethliatic
 gendarme
 ganglander
+guttular
 gadling
 gonimolobe
 gamer
