@@ -1090,6 +1090,7 @@ challengable
 costoclavicular
 calchas
 calche
+carpometacarpi
 cordials
 ceriferous
 calcicolous
@@ -4803,7 +4804,6 @@ corynocarpaceae
 calicular
 cottonee
 carpometacarpal
-carpometacarpi
 carpompi
 counterorganization
 carpool
