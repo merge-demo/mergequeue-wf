@@ -3750,7 +3750,6 @@ gadid
 gringos
 galactite
 guric
-ghostly
 gaiter
 gaura
 ghostwriters
@@ -4210,6 +4209,7 @@ goney
 grimly
 governesshood
 gelofre
+ghostly
 genealogy
 gienah
 grandfather
