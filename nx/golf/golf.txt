@@ -2366,7 +2366,6 @@ goblinize
 girellidae
 geniting
 germanies
-gravitates
 genitives
 guazuti
 gorkiesque
@@ -10214,6 +10213,7 @@ gawsy
 gitanemuk
 gladdon
 gimbaljawed
+gravitates
 gnathostegite
 gaugers
 generaliser
