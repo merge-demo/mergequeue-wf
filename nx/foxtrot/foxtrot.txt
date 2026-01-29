@@ -2559,7 +2559,6 @@ flaps
 foreswear
 fastballs
 frush
-flunky
 frecket
 favaginous
 foulmouth
@@ -6175,6 +6174,7 @@ fateful
 fraser
 feedstuffs
 flamethrower
+flunky
 flunkeyize
 fungiform
 frump
