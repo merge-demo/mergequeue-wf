@@ -2961,7 +2961,6 @@ diplasiasmus
 droil
 deceasing
 deducibility
-deducted
 devolatilized
 doxycycline
 deductible
@@ -6154,6 +6153,7 @@ deregulation
 documentational
 deregulationize
 dhai
+deducted
 dicolic
 deregulations
 dichromatism
