@@ -2257,7 +2257,6 @@ fonded
 ferroelectricity
 fantasmagoria
 fixe
-flueless
 fritted
 fogged
 feminal
@@ -3001,6 +3000,7 @@ fortunite
 froths
 filibranchiate
 fevered
+flueless
 furnacing
 fingerbreadth
 feveret
