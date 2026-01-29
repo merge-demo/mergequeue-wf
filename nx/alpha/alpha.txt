@@ -6330,7 +6330,6 @@ apostoile
 archimedean
 ammoniemia
 automatograph
-agriot
 allogeneic
 adsorbate
 agromyzid
@@ -24395,6 +24394,7 @@ anisocoria
 actuary
 ammoresinol
 autos
+agriot
 awiggle
 appanagist
 agisting
