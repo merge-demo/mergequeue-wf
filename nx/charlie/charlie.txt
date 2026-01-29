@@ -14299,7 +14299,6 @@ calorific
 corniness
 cystorrhagia
 circumsphere
-circumstances
 connarite
 circumstancing
 circumstant
@@ -31097,6 +31096,7 @@ cuproid
 cunicular
 complacential
 cuniculi
+circumstances
 choirboy
 cuniculus
 cuniforms
