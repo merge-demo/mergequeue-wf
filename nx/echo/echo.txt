@@ -3605,7 +3605,6 @@ eloquentness
 escorted
 epigonichthyidae
 embolectomy
-effoliate
 enlive
 enicuridae
 emboli
@@ -9296,6 +9295,7 @@ escout
 exuviability
 eloquential
 electrotypic
+effoliate
 educationalist
 extrapleural
 element
