@@ -10371,6 +10371,7 @@ chieftains
 corruptibility
 cracknels
 chiefty
+chocolates
 column
 conemaker
 chierete
@@ -11449,7 +11450,6 @@ chocolate
 chine
 contriteness
 ceinte
-chocolates
 chocolatiere
 cobras
 commentated
