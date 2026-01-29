@@ -10253,7 +10253,6 @@ bondhold
 belshazzar
 blackleg
 blacklegged
-benzo
 betattering
 blacklister
 blacklists
@@ -14360,6 +14359,7 @@ blennorhea
 blandishers
 billbergia
 braggish
+benzo
 borocitrate
 boneheadedness
 blaver
