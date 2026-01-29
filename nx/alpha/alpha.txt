@@ -7520,7 +7520,6 @@ asymptotical
 alce
 assibilate
 alcedinidae
-atmograph
 anderson
 airiferous
 algonquins
@@ -14620,6 +14619,7 @@ apothecial
 amphitokous
 antiantibody
 acton
+atmograph
 antiantitoxin
 antianxiety
 alphos
