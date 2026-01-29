@@ -3617,6 +3617,7 @@ ghan
 graftproof
 glumella
 galvanisation
+guze
 ghoulishly
 gausses
 gharnao
@@ -7339,7 +7340,6 @@ glycerole
 goffered
 gratelike
 genet
-guze
 gravelling
 gangly
 goar
