@@ -3350,7 +3350,6 @@ farsight
 flowerfence
 fivescore
 flighty
-fussle
 flounces
 faveolate
 flingers
@@ -9215,6 +9214,7 @@ fungosity
 freights
 fondue
 formidolous
+fussle
 foresightedness
 fonticulus
 flapjacks
