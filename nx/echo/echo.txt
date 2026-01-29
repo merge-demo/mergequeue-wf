@@ -6869,6 +6869,7 @@ ecphoria
 estuate
 enlistees
 essling
+eloper
 entropion
 eggler
 encheiria
@@ -12130,7 +12131,6 @@ ekphorize
 elonite
 excellencies
 ejam
-eloper
 eg
 exhaustable
 epoxide
