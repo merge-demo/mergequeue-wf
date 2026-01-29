@@ -1,6 +1,7 @@
 fodda
 foraminiferal
 firedrake
+febricide
 first
 fimbrial
 forechase
@@ -11656,7 +11657,6 @@ fasts
 fust
 federational
 fasher
-febricide
 fleshed
 fossorious
 filamented

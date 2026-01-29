@@ -335,7 +335,6 @@ daymares
 disseizes
 dewaterer
 diarists
-discoloured
 daymark
 doupion
 daimiate
@@ -15956,6 +15955,7 @@ digonal
 dermestidae
 dimethoxy
 dotterels
+discoloured
 ducato
 dammara
 dottier
