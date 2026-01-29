@@ -5285,7 +5285,6 @@ bicrescentic
 beggarlike
 boshas
 bullom
-begrett
 brimless
 bubbies
 batrachoididae
@@ -9601,6 +9600,7 @@ bogue
 battlements
 braccio
 ballhawk
+begrett
 biscayan
 boeotian
 beaver
