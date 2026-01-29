@@ -6815,7 +6815,6 @@ deerwood
 destined
 deslime
 desmachyme
-daubery
 dockworker
 decidingly
 dobby
@@ -11848,6 +11847,7 @@ dowering
 decaliters
 default
 dined
+daubery
 doxology
 desmogenous
 downshift
