@@ -5135,7 +5135,6 @@ falsifies
 fumatory
 fizz
 faithbreaker
-fibularia
 fraudful
 futhermore
 flapdock
@@ -5764,6 +5763,7 @@ flimsiness
 fatted
 feck
 fishnets
+fibularia
 facsimiles
 finedraw
 foredated
