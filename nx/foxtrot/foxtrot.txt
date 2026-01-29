@@ -3111,7 +3111,6 @@ fluffy
 famishes
 falsettist
 fettle
-fossil
 foreboot
 fibrinose
 ferdiad
@@ -6823,6 +6822,7 @@ featherbed
 foreweep
 furnaceman
 forspeaking
+fossil
 fitnesses
 fellowing
 flamming
