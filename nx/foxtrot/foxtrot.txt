@@ -1815,7 +1815,6 @@ foredoes
 featherwing
 fitified
 fevercup
-flavorings
 ferromagnetism
 facticity
 familiarisingly
@@ -10605,6 +10604,7 @@ fluky
 flockbed
 flatus
 festivous
+flavorings
 fauchard
 flagitious
 fuscohyaline
