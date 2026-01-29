@@ -14980,6 +14980,7 @@ codebtor
 comparison
 citronin
 citrons
+characinoid
 citronwood
 citrullus
 cittern
@@ -15647,7 +15648,6 @@ craniotympanic
 copper
 cartilaginification
 claustration
-characinoid
 concludence
 coenoecium
 circumambulatory
