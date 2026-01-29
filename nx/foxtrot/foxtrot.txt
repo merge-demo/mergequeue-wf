@@ -1198,6 +1198,7 @@ flashings
 fascine
 ferreous
 furring
+filchery
 fascintatingly
 flavopurpurin
 forcer
@@ -3770,7 +3771,6 @@ fiddleys
 fecundate
 filioque
 feelies
-filchery
 forerecited
 fusulae
 feistiest
