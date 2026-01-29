@@ -655,6 +655,7 @@ frenchification
 fumier
 foisted
 faltere
+flecnodal
 frequenter
 falx
 fallbacks
@@ -1903,7 +1904,6 @@ fianchetti
 feture
 frundel
 frakfurt
-flecnodal
 fecundator
 furanoside
 fallow
