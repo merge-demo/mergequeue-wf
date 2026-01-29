@@ -221,7 +221,6 @@ biofog
 bandicoot
 baccy
 banishments
-bellicosities
 bagoong
 belltail
 bumpy
@@ -8475,6 +8474,7 @@ bileve
 bootjack
 bouteloua
 bals
+bellicosities
 bluffly
 bearbine
 bilgeway
