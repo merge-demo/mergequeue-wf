@@ -11092,7 +11092,6 @@ degusts
 divulgence
 dragonkind
 depopulate
-disappointment
 decades
 disclosable
 demonstrandum
@@ -16761,6 +16760,7 @@ decapods
 diplasic
 defoul
 dangersome
+disappointment
 diatomaceous
 dravidian
 dayboy
