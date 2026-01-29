@@ -3727,6 +3727,7 @@ fret
 fiftieths
 fibrillar
 freshed
+fluffs
 foretype
 filigrane
 furlana
@@ -10537,7 +10538,6 @@ floria
 farrant
 flnerie
 foregoer
-fluffs
 flatweed
 fidged
 frostfish
