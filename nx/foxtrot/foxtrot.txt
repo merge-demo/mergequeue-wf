@@ -479,6 +479,7 @@ feuage
 fieldbird
 furthy
 foredoomer
+failed
 faisan
 flanked
 forcefulness
@@ -745,7 +746,6 @@ famp
 famuli
 fenceress
 flushed
-failed
 fetlocked
 frustrater
 fringeless
