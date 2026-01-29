@@ -5833,7 +5833,6 @@ bidcock
 bemata
 beleaps
 bracteolate
-bricks
 bulgur
 besmudged
 bellicism
@@ -15196,6 +15195,7 @@ biflecnode
 bram
 briar
 barsom
+bricks
 brawlys
 bromoaurate
 boschvark
