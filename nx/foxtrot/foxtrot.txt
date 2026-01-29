@@ -3407,6 +3407,7 @@ fandom
 fulcra
 figworm
 flon
+furmenty
 fidge
 flavorer
 fress
@@ -7701,7 +7702,6 @@ factitiousness
 fructosan
 flimsilyst
 flips
-furmenty
 ferriferous
 figary
 fixed
