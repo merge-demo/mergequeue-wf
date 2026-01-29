@@ -4863,7 +4863,6 @@ dismaying
 debited
 deambulatories
 demonists
-demonized
 demonizes
 duplicitous
 demandative
@@ -18128,6 +18127,7 @@ dammed
 duplicate
 dispoint
 depicts
+demonized
 devance
 deterrer
 devisors
