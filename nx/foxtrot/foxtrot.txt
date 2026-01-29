@@ -2435,7 +2435,6 @@ flanged
 ferigee
 fervorlessness
 floundering
-futhorcs
 fleer
 feasant
 flavous
@@ -5272,6 +5271,7 @@ fadged
 flatted
 filmland
 flowerer
+futhorcs
 foreshadowing
 fetalization
 funny
