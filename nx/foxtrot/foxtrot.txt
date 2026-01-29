@@ -6528,7 +6528,6 @@ foliates
 ferforth
 fireflower
 flibbertigibbet
-finishers
 flayer
 freshish
 farmed
@@ -10560,6 +10559,7 @@ felsosphaerite
 florimanist
 figuratively
 freshment
+finishers
 frillery
 forerunners
 frot
