@@ -3348,6 +3348,7 @@ fiddlestick
 farsight
 flowerfence
 fivescore
+flighty
 fussle
 flounces
 faveolate
@@ -11723,7 +11724,6 @@ feminise
 foredesign
 fistulous
 fosslology
-flighty
 fructificative
 fluoroscope
 flagellator
