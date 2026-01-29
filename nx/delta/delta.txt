@@ -10548,7 +10548,6 @@ dispost
 diphthongation
 dilutedness
 dendrodra
-diphthonging
 diphthongisation
 deisticalness
 dalar
@@ -11974,6 +11973,7 @@ drepane
 dramm
 decalescence
 dissoluble
+diphthonging
 discuses
 domesticality
 disease
