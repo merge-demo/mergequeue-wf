@@ -11842,7 +11842,6 @@ choppiest
 cowpuncher
 clancular
 chopstick
-chopsticks
 chopunnish
 cakes
 chora
@@ -17275,6 +17274,7 @@ combustibility
 coalescing
 choya
 coalfield
+chopsticks
 coalfitter
 cyanines
 coalholes
