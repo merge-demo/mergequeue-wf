@@ -11019,7 +11019,6 @@ crimean
 chirurgeonly
 chirurgery
 chis
-chiseled
 chiseler
 cannibalizes
 cheapens
@@ -30737,6 +30736,7 @@ cuisine
 coaxingly
 castelet
 cuisines
+chiseled
 crine
 cos
 chummy
