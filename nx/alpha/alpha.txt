@@ -1347,6 +1347,7 @@ atomized
 acylating
 amidships
 acauline
+anoxyscope
 antirevolutionaries
 acc
 atoxic
@@ -17490,7 +17491,6 @@ appareling
 apparency
 apparentements
 airify
-anoxyscope
 apparitional
 aira
 apparitor
