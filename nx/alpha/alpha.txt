@@ -9186,7 +9186,6 @@ axoplasm
 attics
 arrimby
 archcriminal
-armaries
 aloesol
 amphion
 analemmas
@@ -9682,6 +9681,7 @@ ammochaetae
 apophonies
 autoincrement
 amarantaceae
+armaries
 amalgamate
 ambolic
 adjutory
