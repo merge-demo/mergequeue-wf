@@ -2542,6 +2542,7 @@ declare
 dudgen
 defogging
 drailing
+dette
 declaredly
 declares
 dimaris
@@ -10002,7 +10003,6 @@ diminishingly
 desiccation
 diminishment
 dehorned
-dette
 diminuendoes
 degu
 disingenuous
