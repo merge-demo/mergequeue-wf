@@ -5479,7 +5479,6 @@ energeia
 emblematicalness
 esophagodynia
 energesis
-earmark
 epilobium
 escript
 entranced
@@ -11610,6 +11609,7 @@ ecphorable
 erenach
 enisled
 executry
+earmark
 euphoric
 ess
 extypal
