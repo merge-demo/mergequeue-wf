@@ -4605,6 +4605,7 @@ bicellular
 bedaub
 besuit
 bundeli
+baleare
 borborus
 bedaubing
 bloodstone
@@ -14974,7 +14975,6 @@ breastbeam
 burut
 bungerly
 breaster
-baleare
 breastfast
 bura
 bearing
