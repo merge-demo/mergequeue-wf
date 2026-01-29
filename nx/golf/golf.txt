@@ -5001,6 +5001,7 @@ goldic
 generant
 gymnogen
 gaslit
+goodnight
 glew
 grivets
 goodwilled
@@ -8114,7 +8115,6 @@ genistin
 guttulae
 gyroscopes
 grasni
-goodnight
 gilliflower
 gratefullest
 granitiform
