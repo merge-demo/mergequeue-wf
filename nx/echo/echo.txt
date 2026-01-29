@@ -1213,7 +1213,6 @@ evanished
 empathize
 eident
 educatable
-educatedness
 eudiometric
 educates
 engrainedly
@@ -4917,6 +4916,7 @@ ensured
 entablements
 excisions
 ef
+educatedness
 enthuse
 ephyrula
 eyednesses
