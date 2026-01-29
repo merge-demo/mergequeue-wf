@@ -5930,7 +5930,6 @@ craner
 catered
 codpiece
 caterers
-cytolymph
 cateringly
 caterpillar
 clavolet
@@ -12476,6 +12475,7 @@ chromolithic
 concanavalin
 chromolithographic
 chromomere
+cytolymph
 crioceris
 chondrosarcoma
 chromone
