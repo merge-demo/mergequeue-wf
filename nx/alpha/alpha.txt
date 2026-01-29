@@ -5473,7 +5473,6 @@ afterdeck
 aerial
 afterform
 amarantite
-aerolith
 aftergas
 aylesbury
 abstractedness
@@ -16395,6 +16394,7 @@ aurelius
 antodontalgic
 aberrated
 antoeci
+aerolith
 antoecian
 antoecians
 ambulatorily
