@@ -3873,7 +3873,6 @@ diviners
 dibstones
 dissipating
 didder
-dichotomize
 dyscrasite
 deerdog
 distinctiveness
@@ -11747,6 +11746,7 @@ discounters
 docketed
 defecates
 discountinuous
+dichotomize
 dooming
 dirhams
 discour
