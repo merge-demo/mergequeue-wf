@@ -15534,7 +15534,6 @@ clasper
 crucianella
 claspt
 classable
-coplanarity
 classbook
 classed
 cyclicism
@@ -17122,6 +17121,7 @@ crambambulee
 coevolving
 capless
 costocoracoid
+coplanarity
 coachwise
 cully
 chaetognatha
