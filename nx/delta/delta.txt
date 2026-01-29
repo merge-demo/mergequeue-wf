@@ -2260,7 +2260,6 @@ daggles
 drongo
 drivescrew
 dithyrambically
-drch
 dialectic
 dartre
 depurating
@@ -13387,6 +13386,7 @@ drumble
 disfen
 delayers
 disputation
+drch
 disconnected
 deflators
 disputatiously
