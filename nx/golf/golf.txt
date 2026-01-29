@@ -1233,7 +1233,6 @@ grantees
 galliardly
 grognard
 geneki
-germanious
 guenon
 glutinosity
 guib
@@ -1839,6 +1838,7 @@ gerhardtite
 gregory
 grandfer
 gunfighting
+germanious
 gamming
 golfers
 gephyrean
