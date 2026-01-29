@@ -102,6 +102,7 @@ bulwarks
 bepastured
 baldachins
 barkened
+battements
 beastliest
 blastogeny
 bespout
@@ -2978,7 +2979,6 @@ boules
 broncholemmitis
 brassavola
 bracketed
-battements
 barrelwise
 barretor
 berberins
