@@ -4635,6 +4635,7 @@ glances
 guianan
 gnathobase
 grubstaking
+grata
 gleamy
 glossae
 gazook
@@ -9959,7 +9960,6 @@ glossina
 gratulatorily
 growingly
 gomontia
-grata
 genevese
 girderless
 gobos
