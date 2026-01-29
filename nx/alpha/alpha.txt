@@ -8597,7 +8597,6 @@ alleyway
 autoepilation
 alchitran
 abled
-attractancy
 anarchs
 adjoins
 argyrythrose
@@ -19450,6 +19449,7 @@ acaena
 argillaceous
 affectively
 amphipodiform
+attractancy
 acropolitan
 alwite
 armgaunt
