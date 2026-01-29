@@ -6864,7 +6864,6 @@ graphics
 gorbal
 garrya
 guaranty
-gastrophilus
 gunroom
 greffotome
 goolah
@@ -10207,6 +10206,7 @@ getspa
 guyers
 gobet
 grindstone
+gastrophilus
 granulet
 gawsy
 gitanemuk
