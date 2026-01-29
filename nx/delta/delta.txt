@@ -6257,7 +6257,6 @@ drupe
 dysteleological
 dermatoconiosis
 dermatodynia
-demisability
 disown
 distrainer
 dermatography
@@ -15409,6 +15408,7 @@ downtowns
 dijudication
 dunkard
 demibarrel
+demisability
 damoisel
 diclinic
 dominick
