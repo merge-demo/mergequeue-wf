@@ -12076,6 +12076,7 @@ disenchantress
 depluming
 doctrix
 daint
+dacus
 dipterad
 diammine
 domicella
@@ -15425,7 +15426,6 @@ dissociability
 dowelling
 domite
 doggery
-dacus
 dermatoglyphic
 ductule
 domnei
