@@ -6489,6 +6489,7 @@ gannister
 gastraead
 guarded
 gie
+grovy
 guanare
 gapeworms
 gurry
@@ -7891,7 +7892,6 @@ gileno
 greylags
 gynaeocracy
 germing
-grovy
 gudge
 grecomaniac
 gamester
