@@ -3647,7 +3647,6 @@ ghauts
 ghazi
 gesnera
 greyness
-gweducs
 guttatim
 georama
 gogos
@@ -6806,6 +6805,7 @@ gyrostatics
 genal
 genros
 grunch
+gweducs
 gymnotus
 gondola
 guffawing
