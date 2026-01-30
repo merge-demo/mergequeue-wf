@@ -1035,6 +1035,7 @@ gift
 gallweed
 glaceing
 gunwale
+goosewinged
 gradualistic
 gabrielrache
 guck
@@ -3322,7 +3323,6 @@ glent
 grabbable
 glosseme
 gula
-goosewinged
 gourmand
 glissandos
 germanizer
