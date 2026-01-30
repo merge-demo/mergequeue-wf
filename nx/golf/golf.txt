@@ -785,7 +785,6 @@ greenback
 gabbros
 genseng
 gambogian
-gimel
 goban
 granulater
 geonegative
@@ -9557,6 +9556,7 @@ gunmetals
 gorgeted
 grimp
 gallberry
+gimel
 granting
 geneva
 glorifying

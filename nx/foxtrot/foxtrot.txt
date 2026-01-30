@@ -2376,7 +2376,6 @@ feoffs
 fasciole
 flaw
 footstalk
-fig
 foalfoot
 formalizing
 fer
@@ -6691,6 +6690,7 @@ foreseize
 fettled
 filtrable
 fidgetation
+fig
 freemanship
 frothily
 foretokens
