@@ -5946,7 +5946,6 @@ fallers
 filariid
 floatage
 fiddling
-farmeries
 fluochloride
 fattening
 fierasfer
@@ -10493,6 +10492,7 @@ frontomental
 forecaster
 fidibus
 folks
+farmeries
 fetterer
 flameproof
 forfex
