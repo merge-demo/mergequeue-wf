@@ -7763,6 +7763,7 @@ firth
 flipped
 firm
 folily
+fogginess
 ficklehearted
 frogginess
 ferlie
@@ -9640,7 +9641,6 @@ forking
 fidded
 forwalk
 foolmonger
-fogginess
 flaser
 flatette
 forepale
