@@ -6781,7 +6781,6 @@ flintlock
 foredays
 flouts
 fogfruits
-farasula
 frizel
 fluerics
 formicariae
@@ -10246,6 +10245,7 @@ ferruled
 fissile
 frontlet
 fitter
+farasula
 fashed
 falderals
 fletchings
