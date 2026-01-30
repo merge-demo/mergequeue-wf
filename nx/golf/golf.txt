@@ -1388,7 +1388,6 @@ gaits
 gypsies
 gouvernantes
 goniometric
-glaucophane
 ganyie
 gallotannin
 gonidia
@@ -3848,6 +3847,7 @@ guarders
 greenbark
 gaudily
 gaul
+glaucophane
 glazework
 gyving
 gpcd
