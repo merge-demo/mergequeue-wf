@@ -2024,7 +2024,6 @@ astel
 acerin
 amphodiplopia
 autecy
-anticipatory
 acetosoluble
 acetostearin
 acetothienone
@@ -18388,6 +18387,7 @@ asoak
 ankylotia
 azorian
 abatjours
+anticipatory
 adversant
 abaculus
 anthurium
