@@ -3643,7 +3643,6 @@ filaricidal
 filariids
 foody
 folkvangr
-funt
 funding
 fairylands
 forestry
@@ -6147,6 +6146,7 @@ fermorite
 fluotitanate
 forum
 finger
+funt
 fontange
 folding
 firebombed
