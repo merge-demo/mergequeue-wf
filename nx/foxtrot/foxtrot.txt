@@ -5408,6 +5408,7 @@ flukes
 fumage
 fluoridize
 fulciform
+flanconade
 flagellum
 fretters
 flain
@@ -10958,7 +10959,6 @@ fetal
 floorage
 fack
 francs
-flanconade
 fogging
 forgetness
 failings
