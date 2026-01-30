@@ -3722,7 +3722,6 @@ coemptive
 conjugation
 chabutra
 caranna
-carap
 couloirs
 carapaces
 carapacho
@@ -6720,6 +6719,7 @@ cedrat
 conglution
 cedrate
 cocamine
+carap
 cedry
 codeia
 chalcidiform
