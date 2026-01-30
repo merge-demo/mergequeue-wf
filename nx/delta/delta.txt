@@ -10681,7 +10681,6 @@ dutchmen
 datapunch
 degaussing
 dearworth
-dictaphone
 diplomates
 diplomatically
 dysergia
@@ -17661,6 +17660,7 @@ dualize
 dialogic
 decried
 disaffiliates
+dictaphone
 decare
 desulphurating
 dendrography
