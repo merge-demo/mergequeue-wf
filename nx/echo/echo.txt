@@ -4776,6 +4776,7 @@ empetrum
 euthermic
 embarrass
 explore
+encloister
 eyren
 enveil
 executions
@@ -11569,7 +11570,6 @@ exsecant
 eastlin
 emesa
 ethnobotanic
-encloister
 exoergic
 echinopanax
 exaristate
