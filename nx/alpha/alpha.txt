@@ -14353,7 +14353,6 @@ assortatively
 anisocycle
 alphitomancy
 apselaphesis
-anthozoon
 anthracia
 anthracyl
 actions
@@ -20490,6 +20489,7 @@ arteried
 archiblast
 americanese
 absey
+anthozoon
 astate
 ablepsia
 avoure
