@@ -5622,6 +5622,7 @@ antholite
 aguara
 ardeid
 appoggiaturas
+adversant
 anisomelus
 agalena
 agalenidae
@@ -18388,7 +18389,6 @@ asoak
 ankylotia
 azorian
 abatjours
-adversant
 abaculus
 anthurium
 araracanga
