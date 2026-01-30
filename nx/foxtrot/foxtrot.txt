@@ -7351,7 +7351,6 @@ flashback
 fluoran
 famishing
 fiorded
-flumed
 footslogger
 flailed
 forbearer
@@ -7463,6 +7462,7 @@ fewtrils
 faeces
 fat
 faltering
+flumed
 forbborne
 freshen
 feudalism

@@ -260,6 +260,7 @@ basketwood
 barwin
 balancedness
 brontosaur
+bluegum
 beamily
 bacillariaceous
 bacillariophyta
@@ -1851,7 +1852,6 @@ bemuse
 botanizer
 bananaland
 blowen
-bluegum
 benzyls
 bridgewall
 beldams
