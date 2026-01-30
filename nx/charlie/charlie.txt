@@ -4752,6 +4752,7 @@ cosets
 chigetais
 coumarou
 carnie
+corrosibleness
 chlamydospore
 criminological
 creditorship
@@ -25795,7 +25796,6 @@ cetene
 corroding
 cyclophorus
 cepa
-corrosibleness
 coeltera
 corrosived
 corrosively
