@@ -1233,6 +1233,7 @@ bearberry
 benzyl
 bruchus
 bankbook
+buffware
 backslid
 bulkhead
 beds
@@ -14674,7 +14675,6 @@ blastful
 beslimer
 brachiopodous
 bellatrix
-buffware
 braseros
 backspin
 bismuthic
