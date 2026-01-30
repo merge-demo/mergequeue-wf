@@ -1783,7 +1783,6 @@ delamination
 dilation
 desmoscolex
 debark
-drawknife
 digamist
 debarkment
 degauss
@@ -10527,6 +10526,7 @@ diplococcocci
 diphonia
 drizzlier
 dysgenics
+drawknife
 dismiss
 duumvirs
 deglutitive
