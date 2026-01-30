@@ -11494,7 +11494,6 @@ disclimax
 dialogite
 disfeature
 dopiest
-departmental
 dockyard
 dissuader
 decreative
@@ -13491,6 +13490,7 @@ diplogenesis
 dienes
 domic
 disreport
+departmental
 disreputability
 desolater
 dumpily
