@@ -977,7 +977,6 @@ gangamopteris
 givers
 gangava
 gastrochaenidae
-ghassanid
 gilse
 granitizing
 gigahertz
@@ -3143,6 +3142,7 @@ guignardia
 grangousier
 garlandry
 gastroelytrotomy
+ghassanid
 guacacoa
 greedygut
 gets
