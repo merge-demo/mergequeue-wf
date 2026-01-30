@@ -1429,6 +1429,7 @@ bromios
 bleater
 baled
 baleen
+bolivars
 beliefs
 badmash
 bridged
@@ -11173,7 +11174,6 @@ burgage
 butylation
 bloodstreams
 beforementioned
-bolivars
 basil
 beparch
 bisdimethylamino
