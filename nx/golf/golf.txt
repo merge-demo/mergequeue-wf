@@ -7493,7 +7493,6 @@ glossist
 gummaker
 grabbier
 grunerite
-grapplement
 gomerals
 gasconaded
 georgemas
@@ -8766,6 +8765,7 @@ graduator
 gimmicky
 gemmiferous
 gynoecia
+grapplement
 goldmist
 girn
 gashouse
