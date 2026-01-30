@@ -2097,7 +2097,6 @@ graecizing
 gardenias
 grabs
 gomarian
-gerontes
 gnomist
 gelndesprung
 gratuito
@@ -4507,6 +4506,7 @@ gainst
 gigmanic
 grammontine
 gastrostaxis
+gerontes
 gastrohysterorrhaphy
 giraffe
 gyrohorizon
