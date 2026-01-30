@@ -7350,7 +7350,6 @@ explodent
 exoascaceae
 equationally
 effigial
-enclitics
 exlex
 engird
 excheat
@@ -8417,6 +8416,7 @@ expeding
 endocardial
 episternum
 eigenspace
+enclitics
 exude
 epicontinental
 erosive
