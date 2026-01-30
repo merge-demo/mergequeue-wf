@@ -2607,6 +2607,7 @@ fasnacht
 fardo
 forfeits
 finding
+fleamy
 forgetter
 farad
 finlike
@@ -7861,7 +7862,6 @@ filthier
 fastness
 fragments
 feltyflier
-fleamy
 favoredly
 fowlerite
 fritterers
