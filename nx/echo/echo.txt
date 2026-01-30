@@ -13511,7 +13511,6 @@ endotherm
 extraconstitutional
 equidominant
 enfroward
-exposing
 ethmoidal
 eudaemonic
 eucalypti
@@ -13665,6 +13664,7 @@ excursus
 enchanted
 empicture
 elastin
+exposing
 eerier
 eliminates
 effeminisation
