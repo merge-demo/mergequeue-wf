@@ -3741,7 +3741,6 @@ erythrons
 ergastoplasmic
 ethereally
 enwheel
-enviroment
 everse
 everywheres
 enchytrae
@@ -13155,6 +13154,7 @@ electrothermotic
 epistolization
 excruciation
 eulogize
+enviroment
 exhalation
 empaestic
 engelmanni
