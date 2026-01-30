@@ -9680,7 +9680,6 @@ bobbinets
 byssi
 bestir
 benison
-barterers
 blatti
 bryozoum
 baizes
@@ -13347,6 +13346,7 @@ botanist
 blattidae
 brushmen
 bescreening
+barterers
 benzanalgen
 brachioradialis
 bepowder
