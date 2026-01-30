@@ -2479,6 +2479,7 @@ guatusan
 gastratrophia
 groupage
 glandules
+gritless
 grassing
 grewia
 gladeye
@@ -9990,7 +9991,6 @@ gonidial
 grievousness
 gormandizers
 greably
-gritless
 grief
 guarrau
 gogglers
