@@ -10545,7 +10545,6 @@ escalan
 ettle
 ecclesiolatry
 ectocinerea
-enregister
 enthralldom
 electrowin
 evacuating
@@ -12910,6 +12909,7 @@ endoconidia
 envenoms
 extremer
 enological
+enregister
 erotomania
 echafaudage
 encrinic
