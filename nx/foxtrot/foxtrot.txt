@@ -2542,6 +2542,7 @@ faction
 facinorousness
 flagellaria
 fluxgraph
+fondly
 fusobacterium
 forestlike
 fatihah
@@ -7088,7 +7089,6 @@ fainter
 fumant
 freemason
 finning
-fondly
 fluorspar
 firecrackers
 fondlingly
