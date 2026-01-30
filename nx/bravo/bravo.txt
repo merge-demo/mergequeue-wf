@@ -7598,7 +7598,6 @@ bastardize
 bloodripe
 begiggle
 barnacle
-bewhisker
 biplicate
 bayaderes
 bemingling
@@ -12047,6 +12046,7 @@ bohemium
 bittersweet
 bidders
 becker
+bewhisker
 baronry
 braula
 bidigitate
