@@ -3059,7 +3059,6 @@ faintheartedness
 forma
 formosity
 ferricyanogen
-ferrotype
 flukily
 frondescent
 floaters
@@ -5170,6 +5169,7 @@ fellations
 fitches
 frigatoon
 fluorescence
+ferrotype
 forevalue
 flapping
 fessely
