@@ -2825,6 +2825,7 @@ bowlers
 beastish
 behaviourally
 baronries
+bushpig
 briggs
 baconer
 bobcoat
@@ -6847,7 +6848,6 @@ bilic
 bummaree
 baroi
 bes
-bushpig
 boaedon
 bivouac
 busboy
