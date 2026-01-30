@@ -2479,6 +2479,7 @@ geoisotherm
 golandause
 greekish
 guatusan
+gastratrophia
 groupage
 glandules
 grassing
@@ -5205,7 +5206,6 @@ gaby
 gomutis
 graylags
 graphophobia
-gastratrophia
 gossipred
 gesticulator
 guavas
