@@ -11932,7 +11932,6 @@ choreographer
 cypseloid
 choreographic
 chuzwi
-choreographically
 choreographing
 calculabilities
 cerites
@@ -23732,6 +23731,7 @@ cherogril
 clypeole
 conglomerates
 choanoflagellate
+choreographically
 contraplex
 contrapolarization
 cointers
