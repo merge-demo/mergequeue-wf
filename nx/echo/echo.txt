@@ -7397,7 +7397,6 @@ eriophyes
 eased
 energic
 eccoprotic
-eleut
 eucaine
 elate
 eparchies
@@ -9654,6 +9653,7 @@ esophagogastroscopy
 eupomatiaceae
 etruscan
 esophagoplasty
+eleut
 enigmatic
 embodiment
 edwin
