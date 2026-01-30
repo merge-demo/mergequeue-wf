@@ -1792,6 +1792,7 @@ gestalten
 grumpiness
 gammarus
 gastrostenosis
+glazement
 gastrotomic
 gulsach
 glycine
@@ -10152,7 +10153,6 @@ grudges
 geology
 gideonite
 gymslip
-glazement
 gasohol
 grazers
 giddyish
