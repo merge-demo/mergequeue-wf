@@ -10055,7 +10055,6 @@ ambrettolide
 antiempiricist
 alluminor
 amphitheatered
-ardilla
 arew
 ambroid
 arboraceous
@@ -19755,6 +19754,7 @@ allelopathy
 aliptic
 arithmocratic
 arithmograph
+ardilla
 arithmography
 azulejos
 ainsell
