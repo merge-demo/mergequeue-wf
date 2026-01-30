@@ -8575,7 +8575,6 @@ dissertations
 dehydrofreeze
 diet
 dyschromatopsia
-duchy
 dethrone
 didacts
 diaphanometric
@@ -10759,6 +10758,7 @@ dinornithoid
 dawties
 dentinitis
 durned
+duchy
 dislink
 derivable
 declinometer
