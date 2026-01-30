@@ -4168,6 +4168,7 @@ eclegm
 extracranial
 energids
 expungement
+eurhythmy
 erythrodermia
 earhead
 externum
@@ -9793,7 +9794,6 @@ enrobing
 eucharist
 exfoliatory
 elamp
-eurhythmy
 exitious
 enthusiast
 expressure
