@@ -1565,7 +1565,6 @@ droops
 docked
 drippings
 dices
-dyssodia
 deadfalls
 deviler
 dartboard
@@ -10905,6 +10904,7 @@ dysphrasia
 dapples
 deificatory
 direness
+dyssodia
 delved
 developement
 doctrinarianism
