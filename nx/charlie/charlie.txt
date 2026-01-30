@@ -4398,6 +4398,7 @@ cirrhous
 carien
 cariform
 carijona
+capsize
 clammer
 constructs
 culvertage
@@ -14955,7 +14956,6 @@ cambaye
 cothurns
 citrangeade
 carronade
-capsize
 clouring
 contorsion
 calicoes
