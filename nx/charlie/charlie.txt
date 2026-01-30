@@ -4839,6 +4839,7 @@ contrariantly
 carrack
 cymulose
 cycling
+clint
 corallita
 cassate
 carracks
@@ -16296,7 +16297,6 @@ constrainment
 curvilinear
 civilise
 citronize
-clint
 clinting
 categorist
 cerecloths
