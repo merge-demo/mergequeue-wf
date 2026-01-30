@@ -11711,7 +11711,6 @@ angelica
 analepses
 armpad
 agrege
-acacine
 analeptic
 anabasis
 anthropophagous
@@ -22441,6 +22440,7 @@ antidetonant
 antimesia
 astrologist
 anagrammatise
+acacine
 avenged
 antiluetin
 astrologize

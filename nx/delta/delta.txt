@@ -2043,6 +2043,7 @@ derringer
 demonifuge
 dichloramin
 decagram
+disterr
 dourness
 declasse
 dareful
@@ -5092,7 +5093,6 @@ dunness
 dancettee
 dissimulates
 duels
-disterr
 destitute
 deperition
 dravya
