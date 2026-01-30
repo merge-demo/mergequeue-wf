@@ -13781,7 +13781,6 @@ extolling
 enouncement
 ethologist
 extollingly
-elephas
 extolls
 eskimos
 extortion
@@ -14177,6 +14176,7 @@ engold
 euciliate
 exulding
 eardrums
+elephas
 electrifies
 eviction
 exultingly
