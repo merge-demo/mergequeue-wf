@@ -5365,6 +5365,7 @@ begnaw
 basihyoid
 biharmonic
 borderlines
+beseems
 blanketless
 bacchante
 balmy
@@ -6919,7 +6920,6 @@ beastie
 bielding
 bougainvillaeas
 benignancies
-beseems
 burglariously
 bajan
 burgundian
