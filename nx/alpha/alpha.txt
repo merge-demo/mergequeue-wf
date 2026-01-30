@@ -5099,7 +5099,6 @@ anend
 aetat
 aethalium
 astragalectomy
-arendator
 aether
 apprisers
 ahrimanian
@@ -13068,6 +13067,7 @@ anilla
 amiss
 amental
 archemperor
+arendator
 apotelesmatical
 abiders
 animable
