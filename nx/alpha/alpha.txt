@@ -1035,6 +1035,7 @@ answerless
 aulacomnium
 abstricted
 abstricting
+agallochum
 abstrusest
 adamantean
 aesir
@@ -8849,7 +8850,6 @@ alloisomerism
 anticness
 axisymmetric
 archaically
-agallochum
 amalgams
 aerobiologic
 allomorphism
