@@ -4629,7 +4629,6 @@ butterine
 bedchairs
 boxthorns
 buffers
-bellowing
 blaugas
 bradyauxesis
 balata
@@ -8567,6 +8566,7 @@ blately
 baptism
 bo
 bunting
+bellowing
 bedder
 brionine
 bewearied
