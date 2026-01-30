@@ -303,7 +303,6 @@ clownship
 camote
 cacidrosis
 coreopsis
-cacimbo
 circumfer
 cacimbos
 caciques
@@ -5856,6 +5855,7 @@ coalfishes
 catechumenal
 catechumenism
 concourses
+cacimbo
 catechumens
 catechumenship
 chymification

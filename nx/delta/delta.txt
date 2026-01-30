@@ -7915,6 +7915,7 @@ dewdrop
 daggerboard
 drumler
 dewdropper
+draine
 delphin
 dogteeth
 drillet
@@ -11577,7 +11578,6 @@ declassify
 disconformity
 demiparallel
 deepened
-draine
 dystocia
 demimondaines
 doorstop
