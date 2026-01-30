@@ -2533,7 +2533,6 @@ bucchero
 bialys
 barbarously
 bedark
-barge
 belows
 bergere
 bargelike
@@ -10615,6 +10614,7 @@ bulwand
 basilard
 bouldered
 bouk
+barge
 bajada
 bobache
 belight
