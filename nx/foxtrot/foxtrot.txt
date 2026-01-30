@@ -10241,6 +10241,7 @@ faunula
 filisters
 fliting
 fenite
+fess
 ferruled
 fissile
 frontlet
@@ -10959,7 +10960,6 @@ fetal
 floorage
 fack
 francs
-fess
 flanconade
 fogging
 forgetness
