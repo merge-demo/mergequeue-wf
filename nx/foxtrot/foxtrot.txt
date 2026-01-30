@@ -1313,7 +1313,6 @@ formicide
 fount
 fastgoing
 figurine
-forbidal
 foresaw
 florid
 fleys
@@ -3514,6 +3513,7 @@ futtermassel
 forthward
 fascicularly
 frontoethmoid
+forbidal
 fifish
 friedcake
 forksful
