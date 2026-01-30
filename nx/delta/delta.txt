@@ -8306,6 +8306,7 @@ duel
 diagonals
 deducting
 diagonalwise
+daubery
 denudate
 demonization
 diagonic
@@ -11845,7 +11846,6 @@ dowering
 decaliters
 default
 dined
-daubery
 doxology
 desmogenous
 downshift
