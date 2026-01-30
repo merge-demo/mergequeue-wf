@@ -7172,6 +7172,7 @@ fledge
 fedayeen
 fortypenny
 fighter
+foreignly
 foolish
 ferryboats
 fascinating
@@ -7768,7 +7769,6 @@ ficklehearted
 frogginess
 ferlie
 fossa
-foreignly
 forrader
 flavedos
 ferrated
