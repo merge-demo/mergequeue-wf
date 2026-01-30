@@ -1770,6 +1770,7 @@ animalivore
 adorableness
 aryepiglottic
 accused
+avaricious
 accusers
 autoschediastic
 antiseption
@@ -10424,7 +10425,6 @@ antimaterialistic
 authorisation
 annelides
 agua
-avaricious
 assimilator
 apollonia
 auguration
