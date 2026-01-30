@@ -4336,7 +4336,6 @@ frenzying
 fission
 fraist
 fowlpoxes
-fyrdung
 forenoted
 flowerpecker
 fetichist
@@ -11190,6 +11189,7 @@ fingerhold
 featurally
 forefather
 force
+fyrdung
 figged
 fungation
 fremdness
