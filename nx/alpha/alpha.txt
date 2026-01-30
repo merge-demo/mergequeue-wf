@@ -1648,7 +1648,6 @@ abjoint
 argyrosis
 arricci
 accretions
-awag
 according
 abantes
 aberduvine
@@ -11139,6 +11138,7 @@ amphigenously
 ascorbate
 anomalies
 alismaceous
+awag
 algebar
 autocollimation
 amphigories
