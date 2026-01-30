@@ -6126,6 +6126,7 @@ epicureanism
 ereptic
 equals
 espringal
+eruptive
 enfacement
 episkotister
 estuary
@@ -9408,7 +9409,6 @@ eruptible
 eruptional
 emmets
 ellen
-eruptive
 eruptiveness
 endear
 earable
