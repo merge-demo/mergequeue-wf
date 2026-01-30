@@ -4472,7 +4472,6 @@ agromyzidae
 adinida
 arundo
 adventured
-adventuresome
 agyrate
 aprocta
 adventuresomes
@@ -10269,6 +10268,7 @@ americanisms
 americanistic
 aftertax
 astigmatizer
+adventuresome
 approachless
 accredited
 alibamu
