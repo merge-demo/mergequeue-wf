@@ -1922,7 +1922,6 @@ everwho
 eightball
 eir
 eclat
-epurate
 eptatretidae
 eyrant
 enolize
@@ -12293,6 +12292,7 @@ embodier
 enneagon
 evocatrix
 enfoul
+epurate
 exemplificator
 enflame
 exemplified
