@@ -5475,6 +5475,7 @@ articulatorily
 afterglow
 aftergrief
 antimeristem
+are
 antipathy
 argot
 aluco
@@ -14058,7 +14059,6 @@ antemarginal
 aphodius
 ambiguous
 airmail
-are
 airbill
 angioelephantiasis
 antemedial
