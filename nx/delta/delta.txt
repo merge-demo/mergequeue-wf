@@ -14652,7 +14652,6 @@ display
 divulged
 diminuted
 despite
-dyslalia
 divulger
 dianodal
 derisible
@@ -15530,6 +15529,7 @@ directness
 demodulator
 drummers
 dee
+dyslalia
 donnas
 doctorbird
 dittander
