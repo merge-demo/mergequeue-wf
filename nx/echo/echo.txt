@@ -1963,7 +1963,6 @@ enjoin
 egyptize
 eluants
 excursions
-enabled
 etherialization
 experimentee
 enframement
@@ -11021,6 +11020,7 @@ eggnogs
 eggbeater
 epipelagic
 excelling
+enabled
 enskying
 ecbolic
 eupnoea
