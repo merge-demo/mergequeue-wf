@@ -1619,6 +1619,7 @@ favorer
 fundable
 fen
 familic
+foalfoots
 foresty
 ferrash
 filespec
@@ -6673,7 +6674,6 @@ fissions
 freespace
 fireproofed
 fuciphagous
-foalfoots
 foreutter
 firebrand
 filiated
