@@ -6833,7 +6833,6 @@ gurts
 gris
 glunch
 gonococci
-glossopharyngeus
 genitors
 gonopore
 gerontologist
@@ -8829,6 +8828,7 @@ genethliacon
 gandhian
 glimpsers
 grandchildren
+glossopharyngeus
 garbles
 guileful
 generable
