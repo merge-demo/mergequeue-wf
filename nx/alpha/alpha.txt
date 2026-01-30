@@ -1742,7 +1742,6 @@ acetocinnamene
 aeroelastics
 axunge
 antetemple
-animadvert
 abdicates
 aitiotropic
 aristocracies
@@ -14383,6 +14382,7 @@ aequiculi
 anthrahydroquinone
 androgynism
 anthramine
+animadvert
 aphesis
 anthranyl
 afterswarming
