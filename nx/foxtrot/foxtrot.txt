@@ -5952,7 +5952,6 @@ filariid
 floatage
 fiddling
 farmeries
-fayal
 fluochloride
 fattening
 fierasfer
@@ -10742,6 +10741,7 @@ footband
 forecar
 francic
 finnier
+fayal
 fraternizer
 fontally
 fitfully
