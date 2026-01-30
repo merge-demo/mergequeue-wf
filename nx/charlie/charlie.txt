@@ -29803,7 +29803,6 @@ conjoints
 celiogastrotomy
 confederating
 croquignole
-coleophoridae
 charonian
 carolin
 combination
@@ -29938,6 +29937,7 @@ carcinologist
 crosstrack
 crosstree
 crossway
+coleophoridae
 cetid
 catheti
 cyclopaedic
