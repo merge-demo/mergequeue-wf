@@ -4626,7 +4626,6 @@ geast
 gufought
 gloggs
 galipoipin
-gamboge
 glucosaemia
 gymnanthes
 glottalize
@@ -6111,6 +6110,7 @@ gneiss
 grotesquely
 goosebeak
 galactemia
+gamboge
 gullibly
 gryphosaurus
 gnessic

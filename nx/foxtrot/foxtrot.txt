@@ -1652,7 +1652,6 @@ flier
 forensicality
 foible
 frictionproof
-fretize
 fantasticalness
 firmest
 ficula
@@ -11521,6 +11520,7 @@ forril
 fanfold
 flaxman
 frictional
+fretize
 federalizes
 fundamentally
 fubby
