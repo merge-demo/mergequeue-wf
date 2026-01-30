@@ -2391,7 +2391,6 @@ gastrulas
 gradely
 graphostatics
 geminates
-gote
 grinny
 gaulish
 griddle
@@ -10276,6 +10275,7 @@ gry
 gratifies
 galv
 garnel
+gote
 gervase
 guarantorship
 growlier
