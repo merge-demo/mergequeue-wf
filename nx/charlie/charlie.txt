@@ -12534,7 +12534,6 @@ caroling
 cornercap
 collophore
 chromospheric
-colytic
 committitur
 cadjan
 cranemen
@@ -13797,6 +13796,7 @@ calamite
 cardshark
 chequinn
 croighle
+colytic
 cinephone
 cellarer
 crawfish
