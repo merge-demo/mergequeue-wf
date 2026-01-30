@@ -6264,7 +6264,6 @@ endostraca
 ethnogeographical
 excipule
 enhalos
-electrofishing
 ecstatica
 enaena
 enrapt
@@ -8948,6 +8947,7 @@ expectorators
 entoderms
 ergomaniac
 eragrostis
+electrofishing
 entelam
 experimentally
 ergoted
