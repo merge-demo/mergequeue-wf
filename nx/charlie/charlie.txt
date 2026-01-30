@@ -9474,7 +9474,6 @@ cinematographer
 cheats
 conine
 confract
-counterinsurgent
 chebecs
 chebog
 categorising
@@ -16442,6 +16441,7 @@ clivers
 clivis
 clk
 climbing
+counterinsurgent
 cloaca
 curse
 cloacae
