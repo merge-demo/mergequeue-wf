@@ -7438,6 +7438,7 @@ epithetical
 extollment
 earthmoving
 equipollency
+elric
 emissile
 entombs
 epencephala
@@ -12354,7 +12355,6 @@ eviscerations
 enthrallments
 exertionless
 excretes
-elric
 exertions
 enlife
 ergate
