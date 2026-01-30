@@ -255,6 +255,7 @@ corregidor
 cachemic
 coemploy
 cities
+chesty
 cassiduloidea
 circumaxial
 cachepot
@@ -10094,7 +10095,6 @@ chesterfield
 chesterfieldian
 chestfuls
 cleaverwort
-chesty
 chestier
 collaudation
 chestnut
