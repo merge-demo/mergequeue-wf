@@ -8951,6 +8951,7 @@ crowds
 catholicizing
 chareter
 charette
+cursor
 cleistothecia
 censers
 chemisms
@@ -18524,7 +18525,6 @@ celiorrhea
 coheading
 claviature
 cessations
-cursor
 caid
 cepheus
 clericalize
