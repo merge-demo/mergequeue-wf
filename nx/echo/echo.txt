@@ -4313,7 +4313,6 @@ enteropathogenic
 elohim
 enlay
 epicenes
-ectogenous
 enphytotic
 ethnicon
 enhydra
@@ -12600,6 +12599,7 @@ epsomite
 ethion
 extraught
 eupolyzoa
+ectogenous
 eunuchry
 exocoelar
 exocoele
