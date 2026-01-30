@@ -4973,6 +4973,7 @@ exhausting
 enstamp
 encephalocoele
 expectable
+exhibited
 embryotomy
 endellionite
 eucephalous
@@ -11570,7 +11571,6 @@ encloister
 exoergic
 echinopanax
 exaristate
-exhibited
 effigy
 electromyogram
 emendate

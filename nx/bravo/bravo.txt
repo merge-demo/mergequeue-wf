@@ -4688,7 +4688,6 @@ brittonic
 briquetted
 bookworms
 bedfellows
-buildable
 barlows
 bedford
 bonier
@@ -5788,6 +5787,7 @@ blackneck
 breadboards
 ballhausplatz
 blares
+buildable
 basten
 behint
 bigthatch
