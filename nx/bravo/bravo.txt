@@ -2425,7 +2425,6 @@ balantidiasis
 bulliest
 balearian
 bowdlerised
-bardings
 becalms
 baidarka
 banditry
@@ -14507,6 +14506,7 @@ banderma
 braystone
 breeze
 beent
+bardings
 balanoglossus
 boutiques
 bathyspheres
