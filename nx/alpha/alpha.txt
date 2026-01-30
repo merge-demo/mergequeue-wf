@@ -1450,7 +1450,6 @@ acciaccaturas
 apostatizing
 axletrees
 accidencies
-accidentalism
 accidential
 accidently
 anhimidae
@@ -6234,6 +6233,7 @@ agraphia
 anuran
 agraphic
 arcato
+accidentalism
 acrocyanosis
 aylet
 ashur
