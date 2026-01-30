@@ -4204,7 +4204,6 @@ empower
 empress
 esbay
 eyelash
-entune
 evacuates
 earthlight
 entropy
@@ -4472,6 +4471,7 @@ encarnalizing
 encarpa
 engrail
 encarpium
+entune
 encarpus
 eulachans
 equivaliant
