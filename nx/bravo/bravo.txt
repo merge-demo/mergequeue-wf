@@ -3051,6 +3051,7 @@ barflies
 bah
 basters
 bhang
+beefalos
 buccinum
 branglement
 bare
@@ -11705,7 +11706,6 @@ bob
 biennales
 burglarize
 bepranked
-beefalos
 benzophloroglucinol
 bobadil
 biotomy
