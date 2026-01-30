@@ -2836,6 +2836,7 @@ connexional
 canoeload
 canoes
 cardiogenesis
+composal
 cryptoanalyst
 cukes
 canoewood
@@ -14455,7 +14456,6 @@ cuttanee
 concernedness
 celiectasia
 caracol
-composal
 cirrostratus
 cuculliform
 conscription
