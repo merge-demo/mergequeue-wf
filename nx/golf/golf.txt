@@ -3530,6 +3530,7 @@ gemul
 gufa
 gasteropod
 gewgawry
+grammaticize
 geckoes
 gyrfalcon
 geriatric
@@ -6797,7 +6798,6 @@ gavyuti
 ganglioside
 gossiping
 grassiest
-grammaticize
 geront
 grayfish
 gymnogyps
