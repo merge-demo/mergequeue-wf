@@ -11425,7 +11425,6 @@ complete
 competency
 conventionalism
 choak
-choana
 cytozzoa
 canaliculization
 coevolvedcoevolves
@@ -20361,6 +20360,7 @@ conjee
 commutant
 commutated
 chauna
+choana
 commutatively
 commutativity
 cobbles
