@@ -3879,6 +3879,7 @@ bushwoman
 berycoid
 botanic
 backslappers
+bluebuck
 bawdies
 bricklaying
 belvidere
@@ -8210,7 +8211,6 @@ byronically
 beatable
 boone
 battailous
-bluebuck
 biethnic
 binds
 baryes
