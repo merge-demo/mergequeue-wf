@@ -1748,7 +1748,6 @@ deathtime
 diphenan
 dividend
 diphyllobothrium
-devocalization
 drof
 dikaryon
 ductility
@@ -10573,6 +10572,7 @@ didos
 disinure
 dilatations
 desaurine
+devocalization
 decares
 disputative
 diversifoliate

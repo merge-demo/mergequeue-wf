@@ -1070,6 +1070,7 @@ etatisme
 expergefacient
 edentalous
 edentata
+earwax
 envolupen
 etypic
 ethyls
@@ -10150,7 +10151,6 @@ exasperates
 esthetician
 electrophoresed
 eurymus
-earwax
 excising
 esther
 exploitee
