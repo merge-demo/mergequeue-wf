@@ -7736,7 +7736,6 @@ aldazine
 antithrombic
 aldoheptose
 aldoketene
-analecta
 antigalactic
 acraldehyde
 aldol
@@ -18308,6 +18307,7 @@ anarthria
 aracanga
 antefebrile
 arach
+analecta
 arachidic
 autotomised
 augen
