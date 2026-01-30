@@ -767,7 +767,6 @@ gamboller
 gambade
 gravata
 gambang
-gastrular
 greenlandite
 gagsters
 glucosane
@@ -6612,6 +6611,7 @@ gastrohyperneuria
 gabback
 grapestone
 gangrenescent
+gastrular
 gigmanically
 gelled
 grenadiers
