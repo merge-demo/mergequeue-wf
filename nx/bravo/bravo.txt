@@ -6103,7 +6103,6 @@ balewort
 beholdable
 buccinidae
 bataan
-binauricular
 backhandedly
 benchership
 blusters
@@ -17685,6 +17684,7 @@ broach
 bicornes
 begazed
 bestead
+binauricular
 burgages
 bovines
 beshouts
