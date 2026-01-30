@@ -1339,7 +1339,6 @@ electrocardiogram
 exodium
 emesis
 epicranius
-effectiveness
 exon
 eesome
 exscinding
@@ -5788,6 +5787,7 @@ emoted
 ependymitis
 epoch
 earnestness
+effectiveness
 englutted
 euthanasia
 enceintes
