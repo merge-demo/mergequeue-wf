@@ -5561,7 +5561,6 @@ grudgeons
 geoemtry
 genghis
 glob
-glareless
 gnetum
 gripes
 glucinum
@@ -6894,6 +6893,7 @@ geaster
 genitival
 gilt
 gaposises
+glareless
 goniatitic
 gargler
 gibbosities
