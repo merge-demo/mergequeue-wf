@@ -5630,6 +5630,7 @@ gravestone
 gunks
 goller
 giantesque
+gemmaceous
 grossular
 gastronome
 graminaceae
@@ -8432,7 +8433,6 @@ graced
 geste
 grisailles
 gunport
-gemmaceous
 glaumrie
 galipidine
 gorry
