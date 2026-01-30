@@ -7763,6 +7763,7 @@ gyres
 girba
 glycuresis
 globigerinae
+glabrate
 gurges
 guarapucu
 geist
@@ -8274,7 +8275,6 @@ glutinous
 gravid
 gladlier
 grano
-glabrate
 gulfwards
 gnomonic
 grandfatherless
