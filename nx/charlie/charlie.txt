@@ -21816,6 +21816,7 @@ conductor
 conductorial
 concours
 commoners
+cathedrae
 crossbearer
 chaiseless
 complementarily
@@ -25673,7 +25674,6 @@ chromosomic
 cringer
 coolaman
 correlatable
-cathedrae
 chita
 cytopathology
 creach
