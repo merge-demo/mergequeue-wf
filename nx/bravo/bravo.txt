@@ -3109,6 +3109,7 @@ basale
 bumf
 berascaling
 bathetic
+boguing
 brecciating
 bombiccite
 billiard
@@ -6075,7 +6076,6 @@ bemuddling
 bemurmur
 butyral
 bemurmure
-boguing
 bittier
 barleducs
 bol
