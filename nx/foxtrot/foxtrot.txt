@@ -16,7 +16,6 @@ fabaceous
 fashionmonging
 funariaceae
 fertilisable
-frontwise
 forcing
 fablemaker
 filaree
@@ -8273,6 +8272,7 @@ finestra
 fructivorous
 flavines
 falsifications
+frontwise
 foresweat
 formamidine
 fesse
