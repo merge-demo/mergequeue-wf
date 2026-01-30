@@ -18416,7 +18416,6 @@ cogito
 coglorify
 cogman
 cyanicide
-coralloid
 counterbuilding
 conformers
 cogmen
@@ -28292,6 +28291,7 @@ crateriform
 comatik
 craterless
 craterlet
+coralloid
 craterlike
 covariance
 cheepily
