@@ -5201,7 +5201,6 @@ flinches
 frenchify
 frontsman
 forewent
-faldistory
 fidejussion
 figureless
 farcelike
@@ -9104,6 +9103,7 @@ firming
 fib
 frumentaceous
 friendliness
+faldistory
 faineantism
 fix
 federalise
