@@ -1501,6 +1501,7 @@ flaillike
 fissidentaceous
 fibry
 frizzes
+floatboard
 fris
 fiftyfold
 flichtered
@@ -3678,7 +3679,6 @@ fibrocaseous
 forthcomingness
 follyproof
 foreroom
-floatboard
 flagitation
 frosting
 foxiest
