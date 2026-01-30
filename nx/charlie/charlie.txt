@@ -4092,7 +4092,6 @@ cardamon
 centenary
 chave
 cardamum
-cryptographer
 cardanol
 chymist
 cardboard
@@ -13945,6 +13944,7 @@ counterrevolutionize
 cinquanter
 cinque
 carex
+cryptographer
 cinquecentist
 coquetries
 crowl
