@@ -4346,7 +4346,6 @@ entrenches
 endarchy
 esture
 elytroclasia
-expulsive
 expansibleness
 enactor
 epigrammatize
@@ -9250,6 +9249,7 @@ estensible
 emeute
 embolden
 epistle
+expulsive
 everwhich
 empiricism
 echelon
