@@ -2754,6 +2754,7 @@ fishify
 frenzies
 flambe
 faithing
+foreweigh
 fungused
 flauto
 flexuosely
@@ -9448,7 +9449,6 @@ frislet
 forblack
 freyja
 foxholes
-foreweigh
 falsum
 forbye
 frenum
