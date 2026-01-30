@@ -6347,7 +6347,6 @@ gandering
 gobstopper
 goosenecked
 gemots
-gametal
 genarchaship
 goatsucker
 gamic
@@ -6684,6 +6683,7 @@ galictis
 gonfalcon
 gradienter
 glossopyrosis
+gametal
 generational
 gong
 glidder
