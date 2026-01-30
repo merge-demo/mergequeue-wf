@@ -7475,6 +7475,7 @@ employes
 elenctic
 escapers
 entanglement
+endlong
 extraperiodic
 extracurricular
 elfship
@@ -14195,7 +14196,6 @@ elimination
 ensilation
 expertism
 emasculate
-endlong
 exurge
 ebulliometry
 effecters
