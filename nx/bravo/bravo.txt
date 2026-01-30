@@ -10149,7 +10149,6 @@ brogh
 blat
 beshriek
 blackband
-blackberrylike
 bootleggers
 bunkload
 biconjugate
@@ -13807,6 +13806,7 @@ besmirching
 bannermen
 bejig
 bovinely
+blackberrylike
 bezil
 bestrowed
 belar
