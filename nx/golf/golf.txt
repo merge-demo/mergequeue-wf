@@ -9030,7 +9030,6 @@ glovemaking
 girned
 gabion
 goldtit
-glacis
 geognosist
 guzzlers
 goodyness
@@ -10358,6 +10357,7 @@ guarana
 gastroduodenostomies
 gaums
 gauzes
+glacis
 gruffily
 greenlets
 geum
