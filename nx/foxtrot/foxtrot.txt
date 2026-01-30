@@ -2366,7 +2366,6 @@ favoring
 forebearing
 foreyards
 fruited
-frazzles
 fenzelia
 feod
 foreimagine
@@ -6541,6 +6540,7 @@ fluoaluminate
 fraternalist
 featurelessness
 fainted
+frazzles
 fifing
 frictionable
 flatcap
