@@ -367,7 +367,6 @@ expedient
 exanthems
 ethynyls
 exports
-ebon
 entomol
 esotericism
 extrema
@@ -8314,6 +8313,7 @@ epitoke
 entendre
 epicures
 erratums
+ebon
 endolaryngeal
 endplay
 epitheliomatous
