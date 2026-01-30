@@ -4527,6 +4527,7 @@ exheredation
 enfiled
 escudo
 encephalomeningocele
+epistapedial
 evenglome
 ectatic
 entothorax
@@ -11823,7 +11824,6 @@ enstatitite
 enterodynia
 epithelioid
 emporetic
-epistapedial
 extracorpuscular
 exulcerated
 envassal
