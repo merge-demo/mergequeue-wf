@@ -2771,7 +2771,6 @@ barolo
 bm
 bandyball
 bicolored
-bonneting
 bukeyef
 barology
 bullish
@@ -9779,6 +9778,7 @@ bioenergetics
 bedragglement
 bissonata
 bistate
+bonneting
 biosyntheses
 biochemist
 brainwashed
