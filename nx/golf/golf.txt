@@ -6548,7 +6548,6 @@ gamelans
 gastrologists
 gleization
 geminated
-gratiolin
 gowks
 gibberellin
 gesten
@@ -10626,6 +10625,7 @@ gulches
 gnoses
 gunsmithing
 gallophile
+gratiolin
 grossification
 grank
 geogen
