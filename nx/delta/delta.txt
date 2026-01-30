@@ -1427,7 +1427,6 @@ dawnlike
 diurna
 demimetope
 disoccident
-dianite
 decenniums
 doless
 desertrice
@@ -3816,6 +3815,7 @@ dortiship
 diplocephaly
 darryl
 dohter
+dianite
 dronishly
 ditherer
 dulcinist
