@@ -2834,7 +2834,6 @@ filtration
 festooneries
 flunkyite
 flutina
-floatability
 fourieristic
 fluidness
 flareboard
@@ -3215,6 +3214,7 @@ filamentule
 fenceplay
 fisheries
 fistulated
+floatability
 fempty
 francophil
 flowerier
