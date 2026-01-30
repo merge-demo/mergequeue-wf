@@ -5736,7 +5736,6 @@ guacharo
 gathered
 gastrotomies
 goniometrically
-gaboon
 galuth
 guttule
 ghillies
@@ -10718,6 +10717,7 @@ gumma
 gunship
 gismondine
 glossiest
+gaboon
 gutnic
 gracioso
 gerbera
