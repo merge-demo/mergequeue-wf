@@ -7141,6 +7141,7 @@ fracas
 fervidness
 fonts
 forelock
+fileable
 fists
 floriparous
 francis
@@ -7528,7 +7529,6 @@ footmen
 fausen
 forehatch
 ferrocerium
-fileable
 faience
 firefall
 floperoo
