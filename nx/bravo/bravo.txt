@@ -1923,6 +1923,7 @@ bishoplike
 backy
 beshrew
 bretwaldadom
+budgerigar
 balant
 bandle
 blastoff
@@ -13539,7 +13540,6 @@ briquette
 bouch
 barmkin
 blacksmith
-budgerigar
 braying
 blockpate
 berberine
