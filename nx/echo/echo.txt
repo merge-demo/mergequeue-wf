@@ -673,6 +673,7 @@ epithecium
 euahlayi
 erythroxylum
 eof
+extraneous
 eavesdrop
 enchodontidae
 establishment
@@ -3565,7 +3566,6 @@ extractorship
 emblazonments
 elastic
 etherialising
-extraneous
 exomorphism
 euchologies
 edwardian
