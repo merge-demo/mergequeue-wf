@@ -2487,6 +2487,7 @@ gladeye
 gutted
 gibbetwise
 genitalic
+grandaunt
 gaelicize
 grandity
 glossier
@@ -7992,7 +7993,6 @@ gradines
 gallantly
 grandads
 goracco
-grandaunt
 genes
 gheg
 glairy
