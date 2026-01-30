@@ -2124,7 +2124,6 @@ gipsied
 greensward
 guarantors
 glands
-ganodus
 galliot
 gormaw
 glaked
@@ -9864,6 +9863,7 @@ guesstimated
 guayaqui
 gorgoneion
 geneticism
+ganodus
 girting
 gawcie
 guaiasanol
