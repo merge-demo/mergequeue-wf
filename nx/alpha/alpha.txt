@@ -2632,7 +2632,6 @@ adjacent
 amphichrom
 acquest
 armenite
-actutate
 arriswise
 acquiesce
 acanthopterous
@@ -15740,6 +15739,7 @@ aggravatingly
 antipatriarch
 antipatriarchy
 apimania
+actutate
 arachnites
 aurinasal
 acuesthesia
