@@ -6222,6 +6222,7 @@ blackleggery
 bedraggles
 beetle
 benet
+binaries
 benevolency
 bengalese
 boston
@@ -8782,7 +8783,6 @@ bungo
 binaphthyl
 bletia
 bribetaking
-binaries
 belligerency
 bodysuit
 bulginess
