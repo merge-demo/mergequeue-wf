@@ -9786,7 +9786,6 @@ chelide
 crownal
 csardas
 cowheart
-chelydidae
 centas
 chelidonic
 casule
@@ -22643,6 +22642,7 @@ cyphonism
 coaevals
 cantabri
 cheesemonger
+chelydidae
 connexiva
 cornel
 connexure
