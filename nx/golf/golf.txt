@@ -125,7 +125,6 @@ glossocomium
 gadrooning
 gageable
 geryonid
-guelf
 gadwalls
 ghillie
 girth
@@ -5024,6 +5023,7 @@ goodnight
 glew
 grivets
 goodwilled
+guelf
 goldhead
 grouthead
 genealogists
