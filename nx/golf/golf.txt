@@ -4053,7 +4053,6 @@ greffier
 gulinula
 gesan
 gotched
-gopherroot
 glamourize
 gynostegium
 gabendum
@@ -4582,6 +4581,7 @@ geometrid
 grating
 giojoso
 greegree
+gopherroot
 gressible
 goulash
 geoagronomic
