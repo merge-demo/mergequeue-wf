@@ -3629,7 +3629,6 @@ gyrocar
 greg
 gatewaymen
 galyac
-gynostegigia
 gnathobdellae
 galany
 gnathic
@@ -7175,6 +7174,7 @@ garrotes
 goldenness
 guango
 gingerbready
+gynostegigia
 glucolipin
 graftage
 glider
