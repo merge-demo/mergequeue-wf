@@ -3069,6 +3069,7 @@ geadephagous
 gaff
 griffado
 gordiidae
+goby
 glowworms
 gucki
 geocline
@@ -6286,7 +6287,6 @@ galidia
 gconv
 gentle
 gulpin
-goby
 gendarmery
 graithly
 gospelly
