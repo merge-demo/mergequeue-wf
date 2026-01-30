@@ -6654,6 +6654,7 @@ calamitoid
 cdf
 carid
 cheroot
+chloasma
 cdr
 cesspool
 cosmonaut
@@ -11170,7 +11171,6 @@ complexes
 chlamydoselachidae
 chlamyphore
 chlamyses
-chloasma
 criminaldom
 childishness
 centrex
