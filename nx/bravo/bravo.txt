@@ -1212,7 +1212,6 @@ bibliothetic
 bakelite
 bakemeats
 bronchially
-bakeoven
 blennostatic
 bakeress
 bootloader
@@ -16206,6 +16205,7 @@ brimstony
 bred
 bourgs
 bibliomanianism
+bakeoven
 benefiter
 bramblier
 brotherred
