@@ -6082,7 +6082,6 @@ escutcheon
 encounters
 eidos
 emirates
-erasion
 endorhinitis
 elastomeric
 extensum
@@ -10171,6 +10170,7 @@ extrusible
 ecthlipses
 endorses
 etherealness
+erasion
 emancipates
 explicans
 escherichia
