@@ -2283,7 +2283,6 @@ foreimpressed
 flotsan
 fulvous
 folio
-fleered
 fainaiguer
 fatil
 fain
@@ -8884,6 +8883,7 @@ fossilogy
 fload
 fistuliform
 fimbrillae
+fleered
 foremastman
 felichthys
 fluter
