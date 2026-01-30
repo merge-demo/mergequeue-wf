@@ -5104,6 +5104,7 @@ casavi
 carlos
 cesspipe
 coestate
+chymosins
 cytocide
 chemoprophylaxis
 cascable
@@ -6961,7 +6962,6 @@ cleithrum
 cranage
 coenocyte
 cementation
-chymosins
 coaugment
 calorimetric
 cementatory
