@@ -15152,7 +15152,6 @@ blimp
 bullshitted
 bushhammer
 bioplastic
-bugeyed
 backlash
 brevit
 broquineer
@@ -15611,6 +15610,7 @@ boots
 baccare
 benzoate
 biomagnetism
+bugeyed
 burlaps
 banlieue
 butterflower
