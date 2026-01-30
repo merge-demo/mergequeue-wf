@@ -3644,7 +3644,6 @@ filaricidal
 filariids
 foody
 folkvangr
-funt
 funding
 fairylands
 forestry
@@ -6148,6 +6147,7 @@ featness
 fermorite
 fluotitanate
 finger
+funt
 fontange
 folding
 firebombed
