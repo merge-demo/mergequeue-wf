@@ -5283,7 +5283,6 @@ enchest
 emulsionize
 elusiveness
 engrafting
-ecmnesia
 extravagation
 enrolles
 ethylmorphine
@@ -11707,6 +11706,7 @@ endotheliolytic
 encincturing
 ergastoplasm
 epileptogenic
+ecmnesia
 equianchorate
 exacting
 engrails
