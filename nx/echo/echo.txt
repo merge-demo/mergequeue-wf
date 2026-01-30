@@ -1025,7 +1025,6 @@ esoterics
 entera
 excavatory
 erotize
-ensheathing
 edaphology
 estopping
 etymological
@@ -12680,6 +12679,7 @@ epitaxial
 emendandum
 elychnious
 eucalyptic
+ensheathing
 echo
 erotized
 expositive
