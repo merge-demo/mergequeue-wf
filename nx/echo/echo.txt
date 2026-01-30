@@ -5299,7 +5299,6 @@ eustachium
 ernest
 estocs
 ergodicity
-eliminability
 ebionite
 endosclerite
 extrahepatic
@@ -8561,6 +8560,7 @@ estherian
 endways
 eosinlike
 erectness
+eliminability
 enwrapping
 eyestone
 enclave
