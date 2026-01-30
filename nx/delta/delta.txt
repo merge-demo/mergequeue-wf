@@ -4750,7 +4750,6 @@ dpt
 dilated
 dors
 duration
-debase
 diffeomorphism
 detours
 dismisser
@@ -7122,6 +7121,7 @@ devilfishes
 divisionally
 demirobe
 dollops
+debase
 dietical
 dancing
 diagnostic
