@@ -2626,7 +2626,6 @@ chittak
 craftswoman
 carbylamine
 caneology
-canephora
 canephorae
 canephore
 canephori
@@ -2838,6 +2837,7 @@ cardiogenesis
 cryptoanalyst
 cukes
 canoewood
+canephora
 coincident
 cuprammonium
 canoing
