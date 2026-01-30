@@ -1222,7 +1222,6 @@ falconine
 fannon
 fluidisation
 fascista
-fairyfloss
 fright
 fund
 fleech
@@ -10928,6 +10927,7 @@ falloffs
 fustigated
 foremastmen
 facemaking
+fairyfloss
 furzier
 feathering
 fruitist
