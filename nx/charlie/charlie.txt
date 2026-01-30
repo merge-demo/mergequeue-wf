@@ -4615,6 +4615,7 @@ carnivals
 camanay
 carnivoral
 canvasado
+chlortetracycline
 carnivore
 carnivorism
 coherer
@@ -19468,7 +19469,6 @@ chloroanemia
 colotomy
 colotomies
 colourably
-chlortetracycline
 colouration
 crabeating
 conceit
