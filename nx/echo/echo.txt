@@ -9146,7 +9146,6 @@ engineer
 escutcheoned
 exhumating
 erythrophleine
-emigrate
 erythropia
 eclipser
 elevations
@@ -13588,6 +13587,7 @@ elegist
 emulation
 epikeia
 episcopant
+emigrate
 esoteric
 exsufflate
 exsufflation
