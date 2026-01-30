@@ -3851,7 +3851,6 @@ eglandulose
 eremophyte
 electroplax
 endodontically
-embordered
 exclam
 ekerite
 endoradiosonde
@@ -5957,6 +5956,7 @@ enhypostatize
 encrinoidea
 elains
 effate
+embordered
 emissary
 etchers
 erythrose
