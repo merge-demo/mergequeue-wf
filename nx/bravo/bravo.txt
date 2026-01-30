@@ -1275,7 +1275,6 @@ bicircular
 balalaika
 batrachiate
 balan
-barracan
 bedstead
 behindhand
 bibliographer
@@ -16324,6 +16323,7 @@ barogram
 brickmaker
 bromoketone
 brinjaul
+barracan
 bombycid
 bonzian
 brr
