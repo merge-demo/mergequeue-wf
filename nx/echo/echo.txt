@@ -943,6 +943,7 @@ engineery
 eumolpique
 eclosion
 endopolyploidy
+endothermism
 ectosarc
 essoining
 exercises
@@ -9185,7 +9186,6 @@ elegise
 equiproportional
 exograph
 erode
-endothermism
 erliche
 electroforming
 epicedian
