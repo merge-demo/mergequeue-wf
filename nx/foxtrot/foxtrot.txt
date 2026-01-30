@@ -3352,7 +3352,6 @@ flingers
 farers
 filleter
 fortier
-fulgency
 finity
 factitious
 flirtationless
@@ -6655,6 +6654,7 @@ fluttering
 forswears
 flutterment
 flimflammed
+fulgency
 freshets
 flounciest
 fluviolacustrine
