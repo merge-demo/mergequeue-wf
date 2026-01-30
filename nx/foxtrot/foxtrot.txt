@@ -590,6 +590,7 @@ freight
 fallen
 ferny
 falling
+foreking
 flichtering
 font
 famine
@@ -8430,7 +8431,6 @@ fikh
 filiate
 frenetics
 forlive
-foreking
 finland
 frauder
 fuseboard
