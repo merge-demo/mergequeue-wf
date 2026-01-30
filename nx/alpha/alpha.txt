@@ -7844,7 +7844,6 @@ alembic
 automatontons
 abolishes
 alnus
-apogamy
 alemmal
 acidoproteolytic
 abiogenesist
@@ -9058,6 +9057,7 @@ acarodermatitis
 applejack
 allwork
 adarbitrium
+apogamy
 afrikaner
 anthroposophic
 antdom
