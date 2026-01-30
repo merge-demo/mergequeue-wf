@@ -2594,6 +2594,7 @@ athecata
 aircoach
 atrophy
 aftertrial
+abnegate
 acouchi
 antagonisms
 accoutering
@@ -2944,7 +2945,6 @@ acrostichum
 adoptianism
 anopheline
 afterrider
-abnegate
 acrosticism
 axiomatized
 areawide
