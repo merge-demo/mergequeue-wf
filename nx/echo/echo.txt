@@ -1452,7 +1452,6 @@ earl
 electrodialyses
 electroshocks
 expandedness
-equiomnipotent
 emetins
 exterous
 emphasized
@@ -2284,6 +2283,7 @@ electragy
 excessive
 epitomist
 existently
+equiomnipotent
 electret
 envined
 elaeococca
