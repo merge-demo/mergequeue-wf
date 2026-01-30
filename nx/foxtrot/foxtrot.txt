@@ -6782,6 +6782,7 @@ flintlock
 foredays
 flouts
 fogfruits
+farasula
 frizel
 fluerics
 formicariae
@@ -7349,7 +7350,6 @@ famishing
 fiorded
 flumed
 footslogger
-farasula
 flailed
 forbearer
 fluorogen
