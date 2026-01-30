@@ -2712,7 +2712,6 @@ barmcloth
 brither
 birdcage
 bascules
-balmlike
 baetylus
 barnabas
 bales
@@ -4739,6 +4738,7 @@ birlings
 balor
 bulllike
 burley
+balmlike
 bobsleds
 bushier
 brides
