@@ -1712,6 +1712,7 @@ caloric
 calorie
 claytonia
 cele
+corrigenda
 circ
 cestoi
 counterdiscipline
@@ -25728,7 +25729,6 @@ corniche
 corridas
 corridors
 corriedale
-corrigenda
 compossibility
 corrigible
 citrines
