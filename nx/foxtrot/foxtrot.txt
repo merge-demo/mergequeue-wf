@@ -312,6 +312,7 @@ febrifacient
 footpounds
 firbolg
 ferijee
+frostnipped
 flagarie
 flowable
 fissle
@@ -9997,7 +9998,6 @@ fiercely
 frolicking
 faucet
 funkier
-frostnipped
 fossilated
 farandole
 femerell
