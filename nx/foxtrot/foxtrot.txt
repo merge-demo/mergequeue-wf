@@ -7478,6 +7478,7 @@ forbidals
 floccillation
 fasted
 foobar
+figworts
 forged
 flimsily
 febrifuges
@@ -7634,7 +7635,6 @@ fevering
 ferruler
 foreconclude
 flagonet
-figworts
 faerie
 ficoidal
 foggier
