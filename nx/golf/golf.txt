@@ -6118,6 +6118,7 @@ galactemia
 gamboge
 gullibly
 gryphosaurus
+gyrochrome
 gnessic
 gastromancy
 grogging
@@ -7031,7 +7032,6 @@ gunnership
 grooty
 greengrocers
 gyrovague
-gyrochrome
 goofed
 glossodynamometer
 griefless
