@@ -2566,7 +2566,6 @@ barycenter
 bardish
 burmite
 brillolette
-batatilla
 barid
 bouser
 bereaving
@@ -14251,6 +14250,7 @@ bilification
 bejelled
 blackshirted
 bradyauxetically
+batatilla
 boraciferous
 boomboat
 bantin
