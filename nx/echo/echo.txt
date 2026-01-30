@@ -460,6 +460,7 @@ endochrome
 exorbital
 epidermomycosis
 excelsitude
+electronegativity
 evangelist
 enlightenedly
 elumbated
@@ -7297,7 +7298,6 @@ eohippus
 entrant
 eohippuses
 epigenous
-electronegativity
 eoith
 eoiths
 entamebae
