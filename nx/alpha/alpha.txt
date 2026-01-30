@@ -2198,7 +2198,6 @@ acholia
 acholoe
 abradant
 angina
-armatoli
 aldimine
 acholous
 arsylene
@@ -11869,6 +11868,7 @@ arboreta
 athetoids
 afterharm
 alcaligenes
+armatoli
 anaphases
 anaphe
 apperception
