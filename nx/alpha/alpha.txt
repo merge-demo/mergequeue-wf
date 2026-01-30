@@ -18840,7 +18840,6 @@ alantolic
 aeriferous
 aprilis
 antimonarch
-achor
 abounding
 archgod
 archheart
@@ -20082,6 +20081,7 @@ anastate
 ambrosial
 allomerizing
 albainn
+achor
 abdicative
 agatiform
 aromatophor
