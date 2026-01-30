@@ -2461,7 +2461,6 @@ apprehensibility
 antismut
 apeptic
 argemone
-afterfeed
 ackmen
 akroteria
 acanthocephali
@@ -7409,6 +7408,7 @@ acknowing
 albrecht
 aviculture
 allonge
+afterfeed
 albricias
 arable
 agelong
