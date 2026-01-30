@@ -1944,7 +1944,6 @@ flimsy
 forgiver
 farrowing
 flattery
-federalised
 federalism
 fecalith
 frithborh
@@ -2109,6 +2108,7 @@ foxes
 frory
 foys
 forehook
+federalised
 fwelling
 flocky
 fabulously
