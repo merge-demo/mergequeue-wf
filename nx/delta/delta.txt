@@ -13215,7 +13215,6 @@ dismasting
 dandier
 demarcations
 dispersonification
-damps
 diamins
 drinkery
 diplophonia
@@ -17268,6 +17267,7 @@ dampen
 didactic
 discountenancing
 digammas
+damps
 dauner
 disroof
 disbase
