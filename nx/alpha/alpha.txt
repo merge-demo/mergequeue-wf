@@ -12496,7 +12496,6 @@ affectability
 astilbe
 anepigraphous
 algae
-amorists
 anepithymia
 automatons
 awnlike
@@ -21537,6 +21536,7 @@ acridinium
 akund
 ambiances
 adds
+amorists
 asphyxia
 arretine
 anesthetics
