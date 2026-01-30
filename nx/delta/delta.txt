@@ -143,7 +143,6 @@ disconducive
 depopulates
 dilemma
 dewtry
-devaluations
 dimercurion
 deprivations
 dissatisfying
@@ -16202,6 +16201,7 @@ duplicated
 disenfranchise
 diseasing
 dermopathy
+devaluations
 deplete
 depreter
 dendroceratina
