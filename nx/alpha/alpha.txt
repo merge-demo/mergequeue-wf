@@ -6382,7 +6382,6 @@ arachnidan
 andesic
 astucious
 antiweed
-allophylus
 aguirage
 aguise
 antimeter
@@ -18517,6 +18516,7 @@ aardwolf
 anyplace
 arborical
 angled
+allophylus
 addresses
 amphibalus
 acceptees
