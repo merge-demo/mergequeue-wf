@@ -8633,7 +8633,6 @@ firedragon
 forcipulata
 fanegada
 forspent
-freehold
 farmplace
 frequence
 fiscs
@@ -9923,6 +9922,7 @@ formicaries
 fakement
 feminize
 foveolar
+freehold
 flavanthrone
 fossulet
 feterita
