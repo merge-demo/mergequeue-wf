@@ -616,7 +616,6 @@ foreknows
 forints
 feasted
 fissirostral
-friller
 finders
 fumishness
 fishability
@@ -3998,6 +3997,7 @@ franchising
 fraple
 ferrocyanogen
 furrowed
+friller
 formaldoxime
 ferther
 foresummon
