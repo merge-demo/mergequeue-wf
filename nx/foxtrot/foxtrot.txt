@@ -4650,6 +4650,7 @@ frutices
 floscularia
 flabbily
 fool
+footlight
 fringilliformes
 frenchily
 frumpling
@@ -8631,7 +8632,6 @@ firedragon
 forcipulata
 fanegada
 forspent
-footlight
 flocculus
 freehold
 farmplace
