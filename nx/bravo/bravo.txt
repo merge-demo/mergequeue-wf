@@ -5065,7 +5065,6 @@ bigotedly
 bedplates
 befalling
 brainache
-befalls
 botanised
 battlers
 bastonet
@@ -17940,6 +17939,7 @@ burgrave
 bonewood
 bathybic
 boder
+befalls
 baryta
 bushwahs
 basemen
