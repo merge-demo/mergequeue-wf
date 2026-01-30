@@ -3665,7 +3665,6 @@ decwriter
 decubation
 denounced
 despisement
-dulcian
 dispends
 designed
 deduce
@@ -4538,6 +4537,7 @@ dibranchiate
 demilitarized
 dentaliidae
 disselboom
+dulcian
 demilitarizes
 deflectional
 demilustre
