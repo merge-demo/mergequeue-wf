@@ -880,6 +880,7 @@ flexing
 foreflank
 fantasmal
 fundus
+fagald
 forsloth
 fractable
 frayne
@@ -7389,7 +7390,6 @@ femereil
 fergus
 fossilism
 frache
-fagald
 finchbacked
 feazing
 fishyard
