@@ -5563,6 +5563,7 @@ dissidents
 depends
 dowfart
 dispersed
+dispapalize
 dramatizable
 dustfall
 dukeship
@@ -9921,7 +9922,6 @@ dissertation
 dephlegm
 downweighted
 duocosane
-dispapalize
 dutiful
 determines
 diluvialist
