@@ -4515,6 +4515,7 @@ appd
 adversatively
 ambushed
 amylin
+administered
 asserve
 adversing
 aphoristical
@@ -8759,7 +8760,6 @@ adeptly
 adamastor
 anaphora
 aditus
-administered
 allocator
 acetary
 amidrazone
