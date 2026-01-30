@@ -4702,7 +4702,6 @@ burnettized
 billowing
 biotechnics
 beniseed
-berther
 balayeuse
 brazenfacedness
 baetzner
@@ -16746,6 +16745,7 @@ brethel
 buckleless
 baklavas
 bleached
+berther
 bodycheck
 bullyragging
 bucko
