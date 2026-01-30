@@ -6261,7 +6261,6 @@ fulmars
 ferrums
 filicinean
 falconet
-fewness
 fewneses
 farrieries
 fabella
@@ -10579,6 +10578,7 @@ frouziest
 floristry
 flamberge
 fierceness
+fewness
 fusiliers
 freemasonical
 folklorism
