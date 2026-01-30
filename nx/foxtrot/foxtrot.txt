@@ -1303,7 +1303,6 @@ fricative
 finalized
 forenoon
 fumiferous
-frigid
 floodless
 footcandles
 faineants
@@ -8256,6 +8255,7 @@ fg
 forfending
 fetometry
 fairyologist
+frigid
 fanback
 furlanas
 floras
