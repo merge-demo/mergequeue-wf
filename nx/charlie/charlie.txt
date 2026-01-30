@@ -9781,7 +9781,6 @@ chelating
 chelator
 conjunctiva
 cysts
-chelide
 crownal
 csardas
 cowheart
@@ -24109,6 +24108,7 @@ complices
 cirsium
 convertingness
 candlelit
+chelide
 conclavist
 coassignee
 chedites
