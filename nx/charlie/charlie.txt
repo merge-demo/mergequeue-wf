@@ -9820,7 +9820,6 @@ cheloids
 cutinizing
 contrails
 chelonian
-cheloniidae
 crucialness
 carryouts
 chemehuevi
@@ -16151,6 +16150,7 @@ climaciaceae
 crawtae
 carabinero
 copple
+cheloniidae
 culturable
 climacter
 cabarets
