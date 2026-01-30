@@ -1350,7 +1350,6 @@ bandwagon
 bobbles
 balboa
 bookdealer
-balboas
 basiotribe
 brod
 bifold
@@ -9778,6 +9777,7 @@ buildingless
 bioenergetics
 bedragglement
 bissonata
+balboas
 bistate
 bonneting
 biosyntheses
