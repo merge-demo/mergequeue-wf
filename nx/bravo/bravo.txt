@@ -2624,7 +2624,6 @@ blindfold
 ballons
 burets
 becharmed
-balanophoraceous
 baritenor
 barberry
 bucerotinae
@@ -15330,6 +15329,7 @@ bejan
 bridgemaster
 bestrapped
 benediction
+balanophoraceous
 bridger
 befrumple
 bedrel
