@@ -4296,7 +4296,6 @@ figurative
 forestage
 fallotomy
 firelight
-flab
 felicide
 footsies
 fowls
@@ -4599,6 +4598,7 @@ favissa
 fleckier
 feer
 forheed
+flab
 foreigner
 forslake
 fallalishly
