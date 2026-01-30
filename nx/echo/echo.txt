@@ -823,7 +823,6 @@ emydidae
 enolizing
 extramedullary
 eolotropic
-echinoderm
 ennoy
 expedition
 enfeebling
@@ -9166,6 +9165,7 @@ exceptor
 egoistically
 erythrosis
 ephemeras
+echinoderm
 exhumes
 erythroxylaceous
 eulogizer
