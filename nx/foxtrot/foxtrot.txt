@@ -3502,6 +3502,7 @@ fumeuses
 frontals
 fulmines
 forewarmer
+fluidizer
 forhaile
 furfurans
 futtermassel
@@ -6404,7 +6405,6 @@ funori
 fettling
 franklinian
 feodality
-fluidizer
 fens
 fiendship
 frigidarium

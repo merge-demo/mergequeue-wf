@@ -4932,6 +4932,7 @@ aspen
 achievement
 amygdalus
 afterband
+apoplectic
 amenite
 amphictyonies
 autonomously
@@ -10900,7 +10901,6 @@ antagonist
 amylophosphoric
 affeerment
 acheat
-apoplectic
 abomasum
 atrichous
 autogeny
