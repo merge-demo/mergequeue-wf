@@ -11163,6 +11163,7 @@ collectivize
 clamours
 castrations
 catching
+complexes
 chlamydoselachidae
 chlamyphore
 chlamyses
@@ -20732,7 +20733,6 @@ chooser
 complexedness
 complexer
 cuinfo
-complexes
 cercis
 convolvuli
 consonantise
