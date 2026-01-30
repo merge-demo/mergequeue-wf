@@ -14935,6 +14935,7 @@ breakfast
 blockmaking
 breakfronts
 butlerage
+bighorn
 breaking
 busera
 barger
@@ -15319,7 +15320,6 @@ birdwitted
 bridewort
 brennschluss
 basiliscan
-bighorn
 bidactylous
 bridgebuilder
 bridgehead
