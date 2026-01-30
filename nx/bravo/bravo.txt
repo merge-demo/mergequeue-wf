@@ -4615,7 +4615,6 @@ bedaubing
 bloodstone
 belial
 bedazzle
-banters
 bowsprit
 baloskion
 ballbuster
@@ -16710,6 +16709,7 @@ banquetings
 buckeen
 busby
 bucker
+banters
 bonita
 bustles
 belait
