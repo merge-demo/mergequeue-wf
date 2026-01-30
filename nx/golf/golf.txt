@@ -1218,6 +1218,7 @@ generalizations
 gondolas
 gambolled
 galligaskin
+graspingly
 gravures
 giddy
 grogged
@@ -8361,7 +8362,6 @@ gasolier
 graptolitha
 gibers
 gambits
-graspingly
 gibbosity
 glycuronide
 getter
