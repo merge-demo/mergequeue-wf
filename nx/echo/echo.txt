@@ -2409,6 +2409,7 @@ entrenchments
 exultation
 electrocutional
 enfleurage
+elsewhat
 eriodictyon
 escamotage
 excathedral
@@ -4523,7 +4524,6 @@ embryophyta
 encephalographic
 enamelling
 esthesiophysiology
-elsewhat
 exterminator
 exheredation
 enfiled
