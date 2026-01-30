@@ -4656,7 +4656,6 @@ frictionize
 frutices
 floscularia
 flabbily
-fossilized
 fool
 fringilliformes
 frenchily
@@ -11380,6 +11379,7 @@ forming
 faute
 firetraps
 fosters
+fossilized
 ferromagneticism
 fegary
 flightily
