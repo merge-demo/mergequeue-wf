@@ -436,7 +436,6 @@ fronde
 ferrugineous
 ficoes
 faq
-fadeaway
 firetrap
 frustraneous
 frabjous
@@ -8266,6 +8265,7 @@ fireplaces
 fluidize
 fluidally
 forficulidae
+fadeaway
 formicary
 forfoughten
 flunkyism
