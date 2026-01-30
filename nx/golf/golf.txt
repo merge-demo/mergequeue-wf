@@ -6817,6 +6817,7 @@ gondola
 guffawing
 groceteria
 goitrogen
+glucase
 gremials
 girders
 gatewayman
@@ -7851,7 +7852,6 @@ geococcyx
 galantuomo
 garniture
 globoseness
-glucase
 gunline
 gramper
 gardenly
