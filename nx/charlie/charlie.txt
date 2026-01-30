@@ -22475,6 +22475,7 @@ corms
 charisma
 coniroster
 conirostral
+carbonado
 chelicerae
 conirostres
 cheechako
@@ -25613,7 +25614,6 @@ crusting
 corpsbruder
 corpse
 corpses
-carbonado
 creeshy
 cecity
 corpsy
