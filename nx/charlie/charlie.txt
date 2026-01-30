@@ -6608,6 +6608,7 @@ cardmaker
 caws
 caxiri
 clannish
+cattleman
 capabler
 commissaries
 caxon
@@ -11824,7 +11825,6 @@ choosers
 choosier
 cryotherapy
 cheaps
-cattleman
 choosiness
 collieshangie
 chadar
