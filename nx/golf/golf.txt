@@ -4233,7 +4233,6 @@ gimpier
 guidable
 gresil
 gamboler
-gliosa
 grandpas
 greenovite
 gonidiose
@@ -6625,6 +6624,7 @@ gadabouts
 gangsterism
 glamourless
 glummy
+gliosa
 garous
 glegnesses
 gaurie
