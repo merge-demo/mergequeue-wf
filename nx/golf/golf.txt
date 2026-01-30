@@ -3415,7 +3415,6 @@ griotte
 girlishly
 guardsmen
 gpss
-girland
 goniodoris
 gunsman
 germon
@@ -8401,6 +8400,7 @@ glottalite
 glittery
 gibblegable
 gelatinous
+girland
 gulled
 gripy
 gravest
