@@ -2025,7 +2025,6 @@ groof
 gleeking
 georgical
 gel
-gelatiniform
 greedyguts
 gases
 gelosie
@@ -6818,6 +6817,7 @@ girders
 gatewayman
 gentlemanism
 grecize
+gelatiniform
 goodwill
 gibel
 gravilea
