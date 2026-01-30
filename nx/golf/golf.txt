@@ -3766,6 +3766,7 @@ garnierite
 gringolee
 granaries
 galateas
+geodynamic
 globalism
 gonged
 gastrotrichan
@@ -6163,7 +6164,6 @@ garrick
 grammar
 gynecological
 gowiddie
-geodynamic
 grisard
 glimmering
 generalcy
