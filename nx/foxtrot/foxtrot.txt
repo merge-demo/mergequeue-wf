@@ -9239,6 +9239,7 @@ filicide
 filmic
 foolify
 floodwall
+fashed
 familarity
 formicaria
 flemished
@@ -10243,7 +10244,6 @@ fissile
 frontlet
 fitter
 farasula
-fashed
 falderals
 flocculus
 fletchings
