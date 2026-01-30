@@ -10317,7 +10317,6 @@ brewers
 branchman
 befoulers
 bipartisanism
-bamboozler
 blennoid
 blackwater
 belch
@@ -10940,6 +10939,7 @@ benn
 bunomastodontidae
 blindfish
 blindfishes
+bamboozler
 bassus
 butterbush
 blindfoldedness
