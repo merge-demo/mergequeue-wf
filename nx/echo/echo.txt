@@ -1749,7 +1749,6 @@ earpieces
 echolocate
 endogenicity
 electrolyzable
-ejaculating
 enjoy
 employ
 electrotypist
@@ -8115,6 +8114,7 @@ exuding
 earthworks
 epineural
 euphrasy
+ejaculating
 exosporal
 empeopled
 emerize
