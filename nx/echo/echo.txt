@@ -1436,7 +1436,6 @@ emmarble
 edgy
 epipolic
 eurasiatic
-exhalent
 ennead
 engram
 enneastylos
@@ -6866,6 +6865,7 @@ eloper
 entropion
 eggler
 encheiria
+exhalent
 entom
 extender
 episternalia
