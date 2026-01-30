@@ -11316,7 +11316,6 @@ disbury
 definitively
 disburse
 deg
-deictic
 duckpins
 decorum
 divinistre
@@ -14225,6 +14224,7 @@ deselecting
 desiccator
 desponsories
 depressing
+deictic
 duc
 disorientates
 dolesman
