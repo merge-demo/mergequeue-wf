@@ -4595,7 +4595,6 @@ genderless
 greenhorns
 gravicembalo
 greenness
-gutturalized
 gilim
 graphometry
 guergal
@@ -5080,6 +5079,7 @@ gilliflirt
 gnetaceous
 gerontotherapies
 grutched
+gutturalized
 guards
 gaedown
 glycogen
