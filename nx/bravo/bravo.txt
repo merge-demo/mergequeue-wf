@@ -2126,6 +2126,7 @@ bardiest
 banqueting
 beseem
 blazy
+boree
 buddhistic
 bladeless
 boomless
@@ -9986,7 +9987,6 @@ bennettitaceae
 bravas
 baconist
 befuddler
-boree
 brian
 bassnesses
 bituminous
