@@ -8667,6 +8667,7 @@ forsakenness
 fermentarian
 fleeces
 forsythia
+fractus
 foxchop
 fixtures
 fairyology
@@ -9080,7 +9081,6 @@ fosse
 fluffed
 filmier
 flaxwort
-fractus
 forwork
 furmente
 flintified
