@@ -2080,6 +2080,7 @@ gyrocompasses
 gorgonize
 glacially
 gawgaw
+gaolbird
 goldenseal
 gourdworm
 gloea
@@ -9936,7 +9937,6 @@ gradiometer
 gonytheca
 girleen
 gymnoblastea
-gaolbird
 golding
 geeks
 garrisoning
