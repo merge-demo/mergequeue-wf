@@ -1896,7 +1896,6 @@ bicrons
 barkinji
 bandfile
 begrudges
-brownism
 baldachino
 birken
 bandhook
@@ -7522,6 +7521,7 @@ burd
 balbutiate
 bistre
 bramantesque
+brownism
 brinishness
 brachypodine
 booteries
