@@ -3709,7 +3709,6 @@ argoan
 archidiaceae
 antilogarithmic
 alloted
-abrenounce
 anointment
 alliteration
 annuller
@@ -17828,6 +17827,7 @@ amplex
 alex
 antiq
 alisphenoid
+abrenounce
 amphiarthrosis
 astraeidae
 apposer
