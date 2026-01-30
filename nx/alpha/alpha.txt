@@ -11038,7 +11038,6 @@ ampersands
 amphanthia
 amphanthium
 antling
-ampherotokous
 arms
 anacreon
 adjutancies
@@ -11302,6 +11301,7 @@ adzer
 amoibite
 antiplenist
 anusvara
+ampherotokous
 admirers
 airlight
 abody
