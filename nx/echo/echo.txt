@@ -4366,7 +4366,6 @@ enamorado
 epicene
 enamorato
 endleaves
-extraordinariness
 effervescing
 enamorment
 endoute
@@ -5503,6 +5502,7 @@ eleemosynary
 erythrocatalysis
 epiploic
 ebionitic
+extraordinariness
 energizes
 electroscopic
 entwists
