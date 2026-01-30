@@ -3860,7 +3860,6 @@ ekerite
 endoradiosonde
 embolism
 esthetical
-exla
 ethnohistorical
 extolled
 economic
@@ -5632,6 +5631,7 @@ elevational
 escribed
 everduring
 egling
+exla
 exiguities
 enforces
 endocentric
