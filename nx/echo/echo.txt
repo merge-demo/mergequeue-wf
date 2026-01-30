@@ -3852,7 +3852,6 @@ eglandulose
 eremophyte
 electroplax
 endodontically
-ensindon
 embordered
 exclam
 ekerite
@@ -8887,6 +8886,7 @@ erectopatent
 etymologicon
 entophytic
 equinox
+ensindon
 equiprobabilist
 egyptologic
 encrypt
