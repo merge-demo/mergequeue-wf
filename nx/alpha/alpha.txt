@@ -4165,6 +4165,7 @@ anticrotalic
 aphrasia
 adjag
 apoapsis
+abasement
 armorers
 acetoxyls
 anabaptistically
@@ -4777,7 +4778,6 @@ aerifies
 antiparabemata
 adglutinate
 aeriform
-abasement
 autographically
 azygous
 aspide
