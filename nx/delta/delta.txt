@@ -10055,6 +10055,7 @@ demoiselle
 distract
 dirigomotor
 dust
+downshifted
 drumfires
 dermohemia
 duplicates
@@ -16289,7 +16290,6 @@ dispeace
 downriver
 didelphidae
 diagnostically
-downshifted
 downshore
 disvalue
 dephlegmatize
