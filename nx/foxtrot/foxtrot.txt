@@ -3304,7 +3304,6 @@ fictitiousness
 fable
 flippant
 fortieths
-flighter
 freehearted
 fingan
 fluorinate
@@ -6020,6 +6019,7 @@ figurings
 furlers
 frangent
 formlessness
+flighter
 foreglimpse
 flockwise
 frowsiest
