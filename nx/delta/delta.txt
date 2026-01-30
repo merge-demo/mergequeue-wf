@@ -389,6 +389,7 @@ duals
 densifier
 desulfurise
 disobedient
+duper
 draggly
 dogfighting
 dithered
@@ -10584,7 +10585,6 @@ divinize
 dipyrenous
 dipyridyl
 dichter
-duper
 daughter
 drynaria
 dissolubleness
