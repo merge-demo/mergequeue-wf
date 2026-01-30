@@ -10944,6 +10944,7 @@ butterbush
 blindfoldedness
 bemoon
 blinding
+bespoken
 bescoured
 braciolas
 blindness
@@ -15587,7 +15588,6 @@ bewilder
 biliprasin
 bromlite
 bescent
-bespoken
 birdikin
 beast
 barbule
