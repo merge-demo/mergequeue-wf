@@ -9967,7 +9967,6 @@ fortilage
 fines
 filamentose
 frizzante
-flatwares
 forewarm
 fielders
 fenestrone
@@ -11260,6 +11259,7 @@ flabella
 feuilleton
 fastly
 filter
+flatwares
 foalhood
 felinities
 factable
