@@ -3738,6 +3738,7 @@ battler
 beaued
 battleships
 bemoaningly
+batule
 barrace
 barbarianism
 becrowded
@@ -4449,7 +4450,6 @@ beknotted
 badgir
 becloaks
 blackfriars
-batule
 barrulety
 bandleader
 becloak
