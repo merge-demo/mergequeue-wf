@@ -4643,7 +4643,6 @@ esseda
 enow
 externals
 escapade
-ervenholder
 ethnobiological
 exquisitism
 epeisodia
@@ -6811,6 +6810,7 @@ ergon
 educator
 euclid
 extramural
+ervenholder
 encage
 edrioasteroidea
 epithumetic
