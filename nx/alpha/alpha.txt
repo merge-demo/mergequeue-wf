@@ -2063,7 +2063,6 @@ achatinidae
 abbacy
 alkalinising
 artemisin
-affiliation
 acoupe
 amylohydrolytic
 antiputrefactive
@@ -15913,6 +15912,7 @@ antiprostatic
 adiabat
 ammocete
 affectual
+affiliation
 antilottery
 argillocalcite
 asking
