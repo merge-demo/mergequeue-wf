@@ -9544,7 +9544,6 @@ biographee
 banality
 besots
 birthplaces
-birthright
 bugaboos
 baffeta
 births
@@ -17816,6 +17815,7 @@ brouille
 being
 burthens
 balneological
+birthright
 burthensome
 burtonization
 blockheadedly
