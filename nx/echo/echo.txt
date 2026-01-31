@@ -2661,6 +2661,7 @@ eave
 embarrased
 eu
 extrabureau
+earable
 etherizing
 epicrasis
 etymologisable
@@ -9409,7 +9410,6 @@ eruptional
 emmets
 eruptiveness
 endear
-earable
 eruptivity
 echinuliform
 effierce
