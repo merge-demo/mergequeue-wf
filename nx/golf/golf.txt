@@ -1726,6 +1726,7 @@ gamesman
 guernseys
 gaullism
 gastropexy
+grumbling
 guildsman
 gulley
 gutte
@@ -9497,7 +9498,6 @@ grapple
 gasolinic
 gluish
 gabriella
-grumbling
 gawky
 graduation
 griffonne
