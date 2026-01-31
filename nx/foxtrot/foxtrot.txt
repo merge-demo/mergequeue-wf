@@ -3924,7 +3924,6 @@ fimbrillate
 flowerlet
 flinch
 finaglers
-fustigatory
 formentation
 foliolate
 finalization
@@ -8497,6 +8496,7 @@ funditores
 fortin
 frailer
 flioma
+fustigatory
 frondesce
 factorized
 floridans
