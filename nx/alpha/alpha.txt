@@ -2298,7 +2298,6 @@ agronomics
 aciculum
 awning
 akhlame
-adjectitious
 attempers
 acidaspis
 actinobaccilli
@@ -5900,6 +5899,7 @@ angulosplenial
 alimenter
 aggressed
 aftermilk
+adjectitious
 activations
 ancilia
 areopagy
