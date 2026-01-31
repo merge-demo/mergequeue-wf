@@ -7971,7 +7971,6 @@ eurystomatous
 emitter
 eatery
 evolvements
-endosmosis
 euorthoptera
 epicele
 exordia
@@ -12796,6 +12795,7 @@ edaphosaurid
 ensembles
 encounterable
 effectuated
+endosmosis
 emancipative
 endrumpf
 encephalomere
