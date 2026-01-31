@@ -6445,7 +6445,6 @@ geostrophic
 grows
 gocart
 girnie
-goburra
 graduates
 griot
 gregorian
@@ -8790,6 +8789,7 @@ grained
 gastrolobium
 gawkers
 gudefather
+goburra
 goo
 guacharoes
 grantors
