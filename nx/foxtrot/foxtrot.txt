@@ -6392,7 +6392,6 @@ fortifys
 filchery
 flybelts
 fescennine
-fluked
 fuliginosity
 fluent
 ferryhouse
@@ -7324,6 +7323,7 @@ fiver
 foreground
 fixers
 footpad
+fluked
 freeby
 farfetchedness
 fatidically
