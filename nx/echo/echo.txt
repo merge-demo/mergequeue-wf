@@ -5899,7 +5899,6 @@ endosteal
 exacerbescence
 exsiccate
 emphrensy
-enchondrosis
 engrossedly
 engrosser
 endocarditic
@@ -7341,6 +7340,7 @@ emcee
 empolder
 encipher
 equiatomic
+enchondrosis
 establismentarianism
 efferous
 epibatholithic
