@@ -12930,6 +12930,7 @@ dromond
 defalk
 dismissal
 dismissed
+disobliger
 discussant
 distemperate
 dismisses
@@ -13461,7 +13462,6 @@ decedents
 disquisitions
 delicately
 dismarble
-disobliger
 dracunculus
 deepfreezed
 disemboweled
