@@ -1223,6 +1223,7 @@ diaconal
 deleting
 davidist
 daterman
+disparities
 diabolification
 dates
 droopily
@@ -5690,7 +5691,6 @@ depletions
 danton
 denutrition
 deadpans
-disparities
 diploblastic
 delthyrium
 deploy
