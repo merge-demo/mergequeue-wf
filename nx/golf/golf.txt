@@ -5316,7 +5316,6 @@ gammers
 gledes
 geophilus
 genethliacal
-guarea
 glyceria
 gossipee
 grangerite
@@ -8649,6 +8648,7 @@ garigue
 govern
 gladiators
 gradal
+guarea
 gromatics
 gendarmerie
 greyish
