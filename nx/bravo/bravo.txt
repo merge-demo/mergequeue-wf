@@ -130,7 +130,6 @@ babylike
 boasted
 babillard
 bozos
-babylon
 backtrace
 brassily
 biological
@@ -14913,6 +14912,7 @@ blackwork
 betrample
 bunjara
 beefs
+babylon
 berreaving
 bingies
 bryological
