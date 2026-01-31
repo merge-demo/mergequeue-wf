@@ -1075,7 +1075,6 @@ atticizing
 axhammered
 averager
 admov
-accolent
 apt
 aggression
 assortments
@@ -7670,6 +7669,7 @@ aldehydine
 alderamin
 ape
 alectoromorphous
+accolent
 aldermanate
 aldermancy
 aldermaness
