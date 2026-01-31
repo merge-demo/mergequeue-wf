@@ -5399,7 +5399,6 @@ brachycardia
 biweekly
 booking
 berglet
-barmaster
 bakli
 begrudge
 batster
@@ -12837,6 +12836,7 @@ bevenom
 best
 boomah
 boo
+barmaster
 baritonal
 boomboxes
 boominess
