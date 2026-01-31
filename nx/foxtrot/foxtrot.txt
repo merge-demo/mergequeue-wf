@@ -3830,7 +3830,6 @@ flowed
 fiducial
 forehold
 festuca
-farandman
 fibrocystic
 futilous
 frumpery
@@ -8569,6 +8568,7 @@ fibrositis
 franklinization
 fulgid
 furculum
+farandman
 farctate
 flapped
 forehatchway
