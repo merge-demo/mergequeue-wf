@@ -607,7 +607,6 @@ gardencraft
 gallomaniac
 girls
 gymnasts
-gardenesque
 gonangial
 goodwilies
 gabionage
@@ -8517,6 +8516,7 @@ grandeurs
 gorcocks
 gerenuk
 gegenion
+gardenesque
 gelada
 gargler
 gene
