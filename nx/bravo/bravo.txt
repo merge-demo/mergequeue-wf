@@ -226,7 +226,6 @@ bagoong
 belltail
 bumpy
 bestraw
-baccivorous
 bibliograph
 bestowable
 bdellid
@@ -686,6 +685,7 @@ badderlocks
 brigsail
 banagos
 benignancy
+baccivorous
 brolga
 brimmimg
 baddest
