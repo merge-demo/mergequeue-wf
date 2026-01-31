@@ -6851,7 +6851,6 @@ drawgear
 disdained
 dupla
 desmoncus
-dumbs
 dissention
 danknesses
 deltic
@@ -13966,6 +13965,7 @@ disdainous
 dachs
 distillmint
 distinction
+dumbs
 devilled
 disorganizer
 donatiaceae
