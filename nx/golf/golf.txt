@@ -1470,7 +1470,6 @@ grover
 gamma
 gynocardia
 gangliocyte
-grouter
 gaselier
 golet
 gastric
@@ -3949,6 +3948,7 @@ ghat
 geomorphy
 gilpy
 gnoff
+grouter
 graphicly
 gigatons
 glossoscopy
