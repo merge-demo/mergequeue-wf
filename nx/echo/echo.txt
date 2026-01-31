@@ -10294,6 +10294,7 @@ elaborates
 exigency
 extruders
 epanorthosis
+exoculate
 errsyn
 emblemist
 entosternum
@@ -12626,7 +12627,6 @@ eagless
 effray
 ephphatha
 encirclement
-exoculate
 eyesalve
 expostulates
 elvira
