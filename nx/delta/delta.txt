@@ -12113,6 +12113,7 @@ disordination
 downtrod
 dialogue
 discous
+diphthongalize
 doglike
 ditheist
 demantoid
@@ -15765,7 +15766,6 @@ diffugient
 demolishes
 dumka
 dorp
-diphthongalize
 dismarch
 dorpers
 doomage
