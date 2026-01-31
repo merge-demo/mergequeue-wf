@@ -4252,7 +4252,6 @@ eccyclema
 explantation
 evagination
 ethal
-extrathecal
 emprizes
 encephalasthenia
 evened
@@ -9280,6 +9279,7 @@ erotylidae
 enlarges
 effectuation
 educatedly
+extrathecal
 excerption
 erotogenicity
 ergonomist
