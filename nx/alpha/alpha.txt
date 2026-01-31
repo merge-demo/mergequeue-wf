@@ -17996,7 +17996,6 @@ achlorophyllous
 approximative
 approximativeness
 allods
-approximator
 appt
 aplectrum
 arteriotomy
@@ -22231,6 +22230,7 @@ accessability
 adiamorphic
 advised
 anteport
+approximator
 ankylomele
 agilities
 affiliations
