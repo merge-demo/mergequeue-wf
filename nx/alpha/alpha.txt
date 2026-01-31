@@ -6789,7 +6789,6 @@ acetone
 addossed
 airplaner
 animadverted
-airplanist
 airgraph
 algarad
 appendiculated
@@ -22256,6 +22255,7 @@ accordionists
 astonishingly
 anaphia
 aspasia
+airplanist
 aerier
 atropinize
 alnath
