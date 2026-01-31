@@ -13502,7 +13502,6 @@ announced
 astrophyllite
 announcing
 appaloosa
-annualized
 apair
 annuals
 abdominocentesis
@@ -22524,6 +22523,7 @@ at
 adenohypophysial
 alangin
 arrestor
+annualized
 ata
 anagenetic
 atabals
