@@ -2588,7 +2588,6 @@ etherene
 edplot
 emphlysis
 earthgrubber
-endromis
 ebdomade
 electrometrical
 electromobile
@@ -10480,6 +10479,7 @@ echiniform
 enridged
 ennuyee
 educators
+endromis
 extusion
 escalade
 earlduck
