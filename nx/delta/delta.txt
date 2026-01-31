@@ -14006,7 +14006,6 @@ dichroism
 daubed
 distomes
 devel
-distomidae
 deprecators
 dubby
 derrid
@@ -18473,6 +18472,7 @@ duplicitously
 disprizing
 distasted
 devoice
+distomidae
 dol
 decerebrating
 denudative
