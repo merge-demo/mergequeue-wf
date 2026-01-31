@@ -4221,6 +4221,7 @@ greying
 ges
 glutael
 gregarian
+gaveled
 ganef
 glacify
 gulflike
@@ -4449,7 +4450,6 @@ gobby
 giobertite
 grazierdom
 grainsickness
-gaveled
 gosplan
 gammelost
 graminology
