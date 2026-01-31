@@ -1276,7 +1276,6 @@ acontias
 arteriodiastasis
 acarocecidium
 archminister
-anerythroplasia
 antemask
 appropriateness
 androlepsia
@@ -2748,6 +2747,7 @@ accumbency
 appalachian
 acrindoline
 allamonti
+anerythroplasia
 arak
 anabasin
 asthenobiosis
