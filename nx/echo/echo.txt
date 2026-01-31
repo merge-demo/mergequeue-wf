@@ -2785,6 +2785,7 @@ etymologies
 envoi
 etymology
 epizoon
+epicauta
 engorge
 eleemosynarily
 elegancy
@@ -3690,7 +3691,6 @@ enchainement
 exotically
 eyeliner
 embracement
-epicauta
 erythraean
 epigrapher
 earspool
