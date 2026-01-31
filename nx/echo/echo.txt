@@ -2432,6 +2432,7 @@ exhibitable
 etherization
 electrodiagnosis
 esterling
+earsplitting
 emeers
 embiid
 entheos
@@ -7666,7 +7667,6 @@ extratelluric
 epicondylic
 epoptist
 enviousness
-earsplitting
 encephalous
 enhungered
 electrophoridae
