@@ -9974,6 +9974,7 @@ chenopod
 colocasia
 criollo
 cajuputs
+clastics
 croup
 chequer
 chequered
@@ -15600,7 +15601,6 @@ classmanship
 clive
 comediennes
 curdlers
-clastics
 clathraceous
 clathraria
 cathidine
