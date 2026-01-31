@@ -5557,7 +5557,6 @@ genghis
 glob
 gnetum
 ghatwal
-gripes
 glucinum
 grummest
 gadgety
@@ -8864,6 +8863,7 @@ glyc
 granospherite
 genophobia
 grosser
+gripes
 gainlier
 galleyworm
 gaged
