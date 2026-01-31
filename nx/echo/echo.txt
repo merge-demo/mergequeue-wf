@@ -3189,6 +3189,7 @@ encomiums
 enrobed
 ell
 ecdysones
+effecting
 echinorhinidae
 etheriidae
 elodeas
@@ -7055,7 +7056,6 @@ encycl
 entrec
 exptl
 exiting
-effecting
 excisor
 entrelac
 epilogued
