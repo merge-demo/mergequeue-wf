@@ -1360,7 +1360,6 @@ ghastly
 glugglug
 garotters
 geodynamicist
-gabbro
 garnetlike
 goober
 glacialism
@@ -6921,6 +6920,7 @@ groundspeed
 gent
 gelsemine
 goody
+gabbro
 giganticide
 geomalism
 ganglioform
