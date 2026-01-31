@@ -8451,6 +8451,7 @@ diallelus
 deflower
 drowned
 diallings
+dolichoglossus
 dovefoot
 disappointing
 deliracy
@@ -16832,7 +16833,6 @@ dopiness
 disobeyers
 dungari
 discharity
-dolichoglossus
 dozes
 depreciations
 dissyllabise
