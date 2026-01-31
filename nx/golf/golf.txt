@@ -8977,6 +8977,7 @@ geiger
 guesting
 gall
 gallicola
+geostrategist
 grizzlyman
 gayyou
 griffe
@@ -10167,7 +10168,6 @@ genres
 glyoxaline
 guidepost
 guerillaism
-geostrategist
 granulated
 galling
 gaoloring
