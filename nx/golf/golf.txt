@@ -4779,6 +4779,7 @@ genethliatic
 gendarme
 ganglander
 guttular
+grossularite
 gadling
 gonimolobe
 gamer
@@ -10288,7 +10289,6 @@ gourmet
 gentlewomanish
 gasped
 gibblegabble
-grossularite
 gradatim
 galvanomagnet
 grasshopperdom
