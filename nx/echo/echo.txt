@@ -3669,6 +3669,7 @@ egocerus
 exemplifies
 elutor
 extravehicular
+equispaced
 emulable
 evetide
 embowelling
@@ -12973,7 +12974,6 @@ embracery
 erigible
 earle
 emboites
-equispaced
 encephalomeningitis
 endophyllous
 epipsychidion

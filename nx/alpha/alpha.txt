@@ -1233,7 +1233,6 @@ aqueously
 acanthopteran
 airlike
 auriculariae
-acanthopterygian
 adversed
 acromia
 angostura
@@ -18558,6 +18557,7 @@ arbust
 arbusta
 analytics
 alphean
+acanthopterygian
 anthropomorphite
 abrogates
 abbotship
