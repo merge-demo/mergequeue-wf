@@ -5865,7 +5865,6 @@ brassies
 beneme
 batholith
 beefin
-bypaths
 banqueteer
 bandhava
 beerocracy
@@ -13083,6 +13082,7 @@ borders
 biverb
 bagpipe
 beriber
+bypaths
 borderline
 bowgrace
 balneae
