@@ -3551,7 +3551,6 @@ embers
 estival
 enate
 epees
-epilated
 enanthema
 enginemen
 excusative
@@ -6959,6 +6958,7 @@ endangered
 ependymoma
 eugenia
 equilibrious
+epilated
 epithelioblastoma
 etiquettes
 endamageable
