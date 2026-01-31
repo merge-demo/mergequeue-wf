@@ -2379,6 +2379,7 @@ endoscopes
 encore
 encomia
 emetic
+esau
 evenlong
 equison
 electrochronometric
@@ -6994,7 +6995,6 @@ exiled
 eudora
 elbowpiece
 encradle
-esau
 entoprocta
 expergefaction
 entoptic
