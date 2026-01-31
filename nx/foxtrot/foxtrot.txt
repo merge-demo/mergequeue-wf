@@ -254,6 +254,7 @@ fulgur
 fannel
 furfures
 fostress
+framesmith
 formalising
 foreseer
 fibrillous
@@ -2678,7 +2679,6 @@ fulleries
 flashly
 factorylike
 fairest
-framesmith
 fireless
 flusters
 foreshoulder
