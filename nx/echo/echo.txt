@@ -9407,7 +9407,6 @@ escapage
 eruptible
 eruptional
 emmets
-ellen
 eruptiveness
 endear
 earable
@@ -14180,6 +14179,7 @@ eardrums
 elephas
 electrifies
 eviction
+ellen
 exultingly
 empyromancy
 embelic
