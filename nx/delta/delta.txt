@@ -2039,7 +2039,6 @@ dukeling
 daimen
 duplicitas
 derringer
-demonifuge
 dichloramin
 decagram
 disterr
@@ -13154,6 +13153,7 @@ displicency
 dipnoan
 dispensatory
 detrain
+demonifuge
 destructive
 develed
 declaratively
