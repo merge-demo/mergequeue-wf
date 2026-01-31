@@ -6678,7 +6678,6 @@ facings
 fluxive
 fissions
 freespace
-fireproofed
 fuciphagous
 foreutter
 firebrand
@@ -11382,6 +11381,7 @@ fegary
 flightily
 footboards
 flashlamp
+fireproofed
 ferberite
 figurally
 frenula
