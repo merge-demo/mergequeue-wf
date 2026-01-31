@@ -2370,6 +2370,7 @@ foreimagine
 folkcraft
 fconvert
 feoffer
+fosses
 faultier
 flatways
 fireclays
@@ -5158,7 +5159,6 @@ fishgig
 fortyish
 fermions
 fishline
-fosses
 foveated
 fezes
 freir
