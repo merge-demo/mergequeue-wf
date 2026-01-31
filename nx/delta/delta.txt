@@ -1248,7 +1248,6 @@ dialectalize
 danthonia
 dusted
 diazoic
-denari
 disturbances
 dossil
 dermoptera
@@ -5765,6 +5764,7 @@ debouching
 depolishes
 depoliticized
 depoliticizes
+denari
 dredged
 dreck
 depones
