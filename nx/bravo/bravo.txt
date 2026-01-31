@@ -8025,6 +8025,7 @@ bowlmaker
 boson
 bitemporal
 bushboy
+bareboats
 byname
 bluebooks
 bisiliac
@@ -12469,7 +12470,6 @@ ballplayer
 backcast
 begloom
 bonbons
-bareboats
 bureaux
 bootstrap
 banisterine
