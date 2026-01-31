@@ -15531,6 +15531,7 @@ drummers
 dee
 dyslalia
 donnas
+debugger
 doctorbird
 dittander
 donnerd
@@ -18618,7 +18619,6 @@ dusttight
 dustuk
 decentring
 decimalising
-debugger
 dysgnosia
 damselhood
 dollarwise
