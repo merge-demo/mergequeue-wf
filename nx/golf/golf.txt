@@ -193,7 +193,6 @@ gimble
 goll
 gooks
 girdling
-goofballs
 girdlingly
 gags
 gonoecium
@@ -5105,6 +5104,7 @@ garland
 gramaryes
 gems
 ganged
+goofballs
 griding
 gret
 glassful
