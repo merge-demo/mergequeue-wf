@@ -2910,7 +2910,6 @@ bobbling
 braca
 battener
 buphthalmic
-buttwood
 blessedly
 bloedite
 becousined
@@ -6849,6 +6848,7 @@ bemingled
 bescab
 beurre
 berceuse
+buttwood
 burble
 bountihead
 blepharoplast
