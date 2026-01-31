@@ -14354,7 +14354,6 @@ ditrichotomous
 ditriglyphic
 demophilism
 delating
-dragropes
 dashing
 duotones
 dict
@@ -14448,6 +14447,7 @@ depaint
 draining
 demicadence
 decompiler
+dragropes
 distributivity
 dysentery
 detn
