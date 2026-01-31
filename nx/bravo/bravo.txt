@@ -1160,7 +1160,6 @@ brunets
 baiters
 banqueter
 baxter
-blastophoric
 baitfish
 buffeter
 ballard
@@ -17903,6 +17902,7 @@ brigid
 branches
 behaver
 besour
+blastophoric
 boastingly
 bushless
 bareness
