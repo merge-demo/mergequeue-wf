@@ -1764,7 +1764,6 @@ brachypyramid
 basella
 byline
 boutonniere
-belorussian
 balter
 bulbels
 boyang
@@ -7034,6 +7033,7 @@ balsamous
 blimpishness
 beryciform
 boating
+belorussian
 belletrist
 burelle
 blunting
