@@ -5213,6 +5213,7 @@ contek
 cashbooks
 caesural
 campanologists
+cabrerite
 cambism
 cravo
 cavendish
@@ -5498,7 +5499,6 @@ castrum
 canister
 cerebellopontile
 christianness
-cabrerite
 casualist
 casuals
 casuariiformes
