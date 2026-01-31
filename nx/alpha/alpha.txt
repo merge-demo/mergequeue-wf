@@ -22349,7 +22349,6 @@ astrobiologies
 alrighty
 aleurons
 afterdrops
-astrobotany
 astrochemistry
 astrocytic
 achilleid
@@ -23590,6 +23589,7 @@ aumildar
 aaronical
 alnoite
 apatites
+astrobotany
 alvin
 approximate
 arrythmically
