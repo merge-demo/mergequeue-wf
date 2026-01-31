@@ -2923,6 +2923,7 @@ cashkeeper
 connectionless
 crayfish
 chivaree
+clamant
 canonic
 curatively
 cacaos
@@ -15608,7 +15609,6 @@ chalk
 clathrate
 choose
 clathrinidae
-clamant
 clathroid
 clathrose
 cranes
