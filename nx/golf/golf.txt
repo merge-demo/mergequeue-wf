@@ -825,7 +825,6 @@ geometrician
 grammaticality
 glycosidic
 gonadotropin
-gammy
 gynecomazia
 geomant
 gilded
@@ -7129,6 +7128,7 @@ grassmen
 gregorianist
 gastral
 germanist
+gammy
 gargarize
 gox
 gaumish
