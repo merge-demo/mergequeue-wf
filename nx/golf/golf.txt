@@ -4851,7 +4851,6 @@ glandless
 gospeler
 guiltless
 gastrosopher
-granate
 guardo
 guardingly
 gynerium
@@ -9917,6 +9916,7 @@ gerygone
 gustless
 granulate
 guanin
+granate
 gnathostome
 glandered
 ghoom
