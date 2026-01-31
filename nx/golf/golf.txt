@@ -1114,7 +1114,6 @@ gallnut
 groupment
 gunpowder
 granddam
-gander
 gamasidae
 guava
 gantelope
@@ -3554,6 +3553,7 @@ greatening
 gelignite
 gnomical
 glottis
+gander
 guyots
 gogglebox
 girded
