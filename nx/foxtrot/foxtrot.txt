@@ -3460,6 +3460,7 @@ frillers
 foresters
 flowcharts
 fudging
+fustian
 fonctionnaire
 flincher
 febricity
@@ -11494,7 +11495,6 @@ furloughs
 foothill
 ferrite
 figural
-fustian
 furthest
 frise
 flittering
