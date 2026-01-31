@@ -5986,7 +5986,6 @@ flavia
 faeries
 feyer
 fecund
-fistfight
 fangas
 foaminess
 futteret
@@ -11269,6 +11268,7 @@ fezzes
 forerunnings
 frontispieces
 fucivorous
+fistfight
 flit
 fuseboard
 flakeless
