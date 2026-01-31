@@ -19770,6 +19770,7 @@ ambulant
 acylase
 all
 avdp
+armoring
 atelophobia
 arlequinade
 anthropomorphical
@@ -21944,7 +21945,6 @@ apostolize
 aeriest
 anatripsis
 associativeness
-armoring
 adicity
 antinion
 astrotheology
