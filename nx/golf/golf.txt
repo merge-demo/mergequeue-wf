@@ -3629,6 +3629,7 @@ gnathic
 gantries
 galleriidae
 galactoid
+gestonie
 goetae
 gynaecology
 guttersnipes
@@ -10801,7 +10802,6 @@ granulary
 gilbert
 gewgawy
 granolite
-gestonie
 grandson
 gutturalise
 gibberella
