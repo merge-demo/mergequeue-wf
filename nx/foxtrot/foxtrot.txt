@@ -986,6 +986,7 @@ foyers
 forride
 fictionization
 folkvang
+forseeable
 flannelmouth
 fusion
 fardelet
@@ -4671,7 +4672,6 @@ frees
 fesswise
 froghood
 foliages
-forseeable
 fissidens
 fieldstone
 fistuca
