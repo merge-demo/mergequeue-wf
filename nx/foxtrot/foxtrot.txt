@@ -1839,7 +1839,6 @@ fractureproof
 fissiparous
 forane
 forefeeling
-featured
 fluidify
 featureful
 featureliness
@@ -10986,6 +10985,7 @@ faipule
 focaloid
 flecked
 fiking
+featured
 festooned
 flipper
 firebolt
