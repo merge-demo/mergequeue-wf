@@ -988,7 +988,6 @@ anaptyctical
 abstentionist
 apiece
 arsenohemol
-amassette
 abstergent
 atrochal
 absterges
@@ -18608,6 +18607,7 @@ alignment
 academial
 astrophil
 aeolipyle
+amassette
 archaeolater
 audits
 authoritativeness

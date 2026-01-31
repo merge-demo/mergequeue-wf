@@ -4244,6 +4244,7 @@ gois
 gerund
 galvanomagnetism
 gynaecological
+gentianwort
 gabbiness
 grimacingly
 gobbing
@@ -9106,7 +9107,6 @@ glasser
 grimalkin
 genitive
 gasparillo
-gentianwort
 ghast
 grimme
 glassworking
