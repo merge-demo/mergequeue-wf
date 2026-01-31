@@ -4231,7 +4231,6 @@ deltohedron
 delubra
 delude
 disambiguating
-dinnery
 dishonored
 dipperful
 detribalized
@@ -14202,6 +14201,7 @@ demandingness
 disagree
 decrepit
 daybook
+dinnery
 dand
 dragoon
 dijudicated
