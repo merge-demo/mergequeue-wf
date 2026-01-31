@@ -593,7 +593,6 @@ caducibranchiata
 caducibranchiate
 caducities
 carabineer
-caducous
 contemporise
 caduke
 cadwal
@@ -25255,6 +25254,7 @@ cephaldemae
 cyanoauric
 corium
 chiasmal
+caducous
 chleuh
 contradistinctively
 canonicate
