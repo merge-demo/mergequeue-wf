@@ -857,7 +857,6 @@ droppy
 determent
 derry
 dreepiness
-delphinoid
 dilacerated
 dispassion
 dantology
@@ -6291,6 +6290,7 @@ dab
 dermatoplasm
 diapositive
 deozonizer
+delphinoid
 debatter
 dishallucination
 drossy
