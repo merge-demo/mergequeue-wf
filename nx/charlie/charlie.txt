@@ -5598,7 +5598,6 @@ cichlid
 catadupe
 catafalco
 catagenetic
-catakinetic
 corkscrewy
 catalatic
 circulatories
@@ -13734,6 +13733,7 @@ communitarian
 crevalles
 cincture
 cytidine
+catakinetic
 confabulatory
 cinctured
 cinder
