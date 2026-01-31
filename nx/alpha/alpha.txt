@@ -11859,7 +11859,6 @@ armatoli
 anaphases
 anaphe
 apperception
-apexing
 always
 archduchies
 attatches
@@ -18415,6 +18414,7 @@ anatomized
 amboceptor
 actinistia
 addleplot
+apexing
 acidized
 archdeacons
 abiogeny
