@@ -13299,6 +13299,7 @@ chancrous
 cavalcades
 cyclometer
 choeropsis
+coinciding
 chalukya
 cavetti
 couchers
@@ -30095,7 +30096,6 @@ crois
 cantilevering
 crownets
 caprinic
-coinciding
 crownless
 crownlike
 crownment
