@@ -6771,7 +6771,6 @@ effume
 ectosomal
 extratarsal
 exsuperate
-exiguously
 enthral
 electropathy
 embarrel
@@ -10507,6 +10506,7 @@ etymon
 ectocondyle
 endothelium
 etiolated
+exiguously
 emancipation
 epistatic
 etiology
