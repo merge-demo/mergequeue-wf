@@ -1970,7 +1970,6 @@ camelish
 cardigans
 camellia
 characteries
-camellike
 cornwallises
 camellin
 capette
@@ -25674,6 +25673,7 @@ cobra
 cycasins
 corregimientos
 chaucerianism
+camellike
 correl
 chromosomic
 cringer
