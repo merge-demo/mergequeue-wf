@@ -2272,7 +2272,6 @@ daubreeite
 domineerer
 distractibility
 dustbox
-determinative
 dobrao
 decelerates
 demystification
@@ -4349,6 +4348,7 @@ demigriffin
 disfranchisement
 dinettes
 drused
+determinative
 demasting
 doorstead
 dematerialisation
