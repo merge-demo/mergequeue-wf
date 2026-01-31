@@ -6865,7 +6865,6 @@ brab
 binned
 bretwaldaship
 bruchid
-benignity
 blackmailed
 bacteriotoxic
 bigener
@@ -17495,6 +17494,7 @@ brachyphyllum
 blockout
 backspeir
 burbolt
+benignity
 beauseant
 biognosis
 burbot
