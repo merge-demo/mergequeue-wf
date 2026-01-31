@@ -3689,7 +3689,6 @@ ashier
 anachoret
 agib
 adenotomic
-adenous
 autocarpic
 adeona
 attenuative
@@ -9663,6 +9662,7 @@ andouillette
 amaister
 astyllen
 abhorrently
+adenous
 amala
 appellatived
 approximately
