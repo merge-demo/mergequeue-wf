@@ -4141,7 +4141,6 @@ eire
 emplectic
 eighthes
 earlships
-endosarc
 extent
 endogamous
 experimentation
@@ -13799,6 +13798,7 @@ epimorphism
 ethnicism
 egyptologist
 euge
+endosarc
 extortions
 equitative
 equiped
