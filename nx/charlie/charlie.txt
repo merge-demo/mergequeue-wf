@@ -15207,7 +15207,6 @@ colourers
 cacothelin
 claimers
 claymore
-claims
 covenable
 clair
 clairaudience
@@ -28731,6 +28730,7 @@ chelae
 crumblings
 creply
 conchal
+claims
 cupeler
 cephaloplegia
 crepon
