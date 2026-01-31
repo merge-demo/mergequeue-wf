@@ -5499,7 +5499,6 @@ goethite
 gamelote
 gyrfalcons
 gamolepis
-gonadic
 gliffy
 grid
 goodwillies
@@ -8222,6 +8221,7 @@ gloomless
 gooey
 gutturally
 guiba
+gonadic
 granulocyte
 gerontal
 gironde
