@@ -6799,7 +6799,6 @@ gossiping
 grassiest
 geront
 grayfish
-gymnogyps
 gentilitial
 galeiform
 glycans
@@ -8216,6 +8215,7 @@ gtc
 ghastful
 gleek
 graftages
+gymnogyps
 gloomless
 gooey
 gutturally
