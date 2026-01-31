@@ -3325,7 +3325,6 @@ defines
 dispensatively
 deionizes
 diabolus
-donated
 drugger
 disposure
 definiens
@@ -15625,6 +15624,7 @@ dowl
 doghouses
 desilicified
 displacement
+donated
 derth
 deponent
 doorstone
