@@ -6615,6 +6615,7 @@ atacameno
 approbatory
 anseres
 anc
+arefaction
 ambrology
 ash
 amorphophyte
@@ -16674,7 +16675,6 @@ aumous
 apexed
 aortoclasia
 antichurch
-arefaction
 avie
 aph
 astronomically
