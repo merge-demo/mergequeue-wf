@@ -4295,7 +4295,6 @@ graveclothes
 goatlike
 gigantesque
 gabfests
-glyptotherium
 golo
 goboes
 genesial
@@ -6502,6 +6501,7 @@ grooving
 glairin
 gibbert
 gandermooner
+glyptotherium
 gruft
 goaltenders
 georgiadesite
