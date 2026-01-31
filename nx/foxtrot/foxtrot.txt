@@ -6178,6 +6178,7 @@ fraser
 feedstuffs
 flamethrower
 flunky
+fortifies
 flunkeyize
 fungiform
 frump
@@ -9171,7 +9172,6 @@ fortresses
 firemen
 fribblish
 followings
-fortifies
 fielded
 fleeceflower
 funambulated
