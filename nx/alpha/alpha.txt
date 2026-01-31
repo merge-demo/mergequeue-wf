@@ -12356,7 +12356,6 @@ androphorous
 antipyryl
 argante
 androsphinx
-androsporangium
 arteriology
 aggressin
 amassers
@@ -22502,6 +22501,7 @@ anisostemonous
 astrut
 agronomical
 aprendiz
+androsporangium
 abbreviature
 antidysenteric
 astutious
