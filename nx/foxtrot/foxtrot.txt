@@ -1261,7 +1261,6 @@ foreignization
 funkias
 fellaheen
 formene
-fiends
 fishworks
 furbishment
 fibulocalcaneal
@@ -11277,6 +11276,7 @@ faciest
 framing
 feminility
 featherwork
+fiends
 fourer
 flagellants
 furriest
