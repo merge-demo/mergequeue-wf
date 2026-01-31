@@ -7383,7 +7383,6 @@ electrojet
 epitheliomas
 ephorates
 epapophysis
-enforcing
 exosphere
 exile
 eunomian
@@ -12790,6 +12789,7 @@ excarnation
 emaciation
 explicative
 edaphosaurid
+enforcing
 ensembles
 encounterable
 effectuated
