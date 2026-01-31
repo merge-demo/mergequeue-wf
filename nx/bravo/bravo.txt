@@ -1939,7 +1939,6 @@ bediademed
 bandoleer
 backhoes
 bandoleers
-burdalone
 bivalent
 braving
 bandolerismo
@@ -13782,6 +13781,7 @@ besmudging
 boutonnieres
 boutons
 billback
+burdalone
 barrelful
 boulle
 brigous
