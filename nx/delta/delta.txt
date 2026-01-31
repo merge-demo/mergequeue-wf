@@ -4062,7 +4062,6 @@ dealerships
 domestication
 delightfulness
 discant
-delignification
 demurringly
 delimed
 disquisitory
@@ -6211,6 +6210,7 @@ dacoit
 diosmosis
 dawks
 deriver
+delignification
 devotees
 deals
 discontentment
