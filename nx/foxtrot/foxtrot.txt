@@ -7810,7 +7810,6 @@ fullerboard
 foxy
 fife
 flanes
-firearms
 footler
 fotch
 fondant
@@ -8081,6 +8080,7 @@ forestalls
 funerals
 fluctuosity
 flyleaves
+firearms
 flutterer
 fitment
 fimble
