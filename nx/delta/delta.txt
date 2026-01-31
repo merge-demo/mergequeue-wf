@@ -3093,7 +3093,6 @@ describable
 dialecticize
 dinornithic
 defalcating
-datakit
 dipteral
 defamation
 duckwife
@@ -7842,6 +7841,7 @@ demophoon
 dissettlement
 dialogistical
 devoting
+datakit
 deforce
 denaturalizing
 dalecarlian
