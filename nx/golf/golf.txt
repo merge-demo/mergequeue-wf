@@ -3036,7 +3036,6 @@ goodbye
 glycines
 graminicolous
 gemmipares
-glyptotheca
 gametogenous
 garnetz
 gulfiest
@@ -7764,6 +7763,7 @@ gliomatous
 grandada
 goss
 grypotherium
+glyptotheca
 graduses
 gentium
 gyres
