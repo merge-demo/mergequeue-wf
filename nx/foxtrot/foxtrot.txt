@@ -1640,7 +1640,6 @@ feelers
 fraischeur
 funfair
 filagreeing
-flamboyance
 flier
 forensicality
 foible
@@ -7301,6 +7300,7 @@ frockless
 frisesomorum
 funmaking
 faecal
+flamboyance
 fibrocarcinoma
 futtocks
 fenchene
