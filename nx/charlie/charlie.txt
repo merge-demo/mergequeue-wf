@@ -10647,6 +10647,7 @@ caliological
 catatonic
 chimaera
 chimaerid
+cornered
 curled
 cephalomancy
 clinicopathologic
@@ -22298,7 +22299,6 @@ congestive
 corky
 conceitedly
 conglaciate
-cornered
 circumlocutional
 cousiny
 cameleers
