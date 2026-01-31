@@ -3968,7 +3968,6 @@ gnarls
 gigge
 gaze
 gelatinated
-graphomaniac
 gyro
 grice
 guerillas
@@ -6056,6 +6055,7 @@ galet
 goma
 gyppers
 gnathitis
+graphomaniac
 gragers
 ganevs
 guerre
