@@ -25327,7 +25327,6 @@ condylion
 corncribs
 corncrusher
 ce
-corndodger
 corneal
 cornelia
 cartooned
@@ -27547,6 +27546,7 @@ cannulated
 cerberean
 covercle
 coprolalia
+corndodger
 carangidae
 covered
 coverer
