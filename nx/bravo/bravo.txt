@@ -4426,7 +4426,6 @@ behoney
 bunyas
 blissful
 bebeerin
-briskness
 bepress
 booleans
 bevomiting
@@ -15225,6 +15224,7 @@ brick
 battened
 berginize
 brickbat
+briskness
 buttonholed
 blackstrap
 borish
