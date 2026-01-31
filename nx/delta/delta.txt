@@ -5492,6 +5492,7 @@ deticking
 disunion
 dextrorotation
 denotement
+demoting
 directionality
 dalliances
 dictatorship
@@ -8759,7 +8760,6 @@ dorsonuchal
 diactine
 diathermy
 decastere
-demoting
 diathermies
 downhill
 dislimned
