@@ -1399,6 +1399,7 @@ flenser
 foretopmast
 fullword
 filicology
+faineance
 fishboat
 fackeltanz
 fatly
@@ -7065,7 +7066,6 @@ fanteague
 flexographically
 filicites
 faintling
-faineance
 fibered
 flay
 faciation
