@@ -2671,6 +2671,7 @@ foredeclare
 faltboat
 filigreed
 ferio
+foredevote
 farandmen
 fiants
 ferruginating
@@ -8103,7 +8104,6 @@ fatalness
 flowerist
 fluidises
 falconnoid
-foredevote
 felicitates
 frustrate
 fiberglass
