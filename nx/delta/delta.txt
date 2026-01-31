@@ -5485,7 +5485,6 @@ dichotriaene
 discoursed
 drummy
 dinger
-dovened
 dewdrops
 definitude
 diaxon
@@ -16038,6 +16037,7 @@ diaphote
 dopinesses
 decorability
 doubtous
+dovened
 desiderating
 distinguishable
 drossier
