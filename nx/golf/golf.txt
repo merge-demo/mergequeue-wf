@@ -4255,7 +4255,6 @@ gladiators
 gumptionless
 gloats
 glb
-gastriloquism
 guider
 goosing
 goblets
@@ -9885,6 +9884,7 @@ gourmandizer
 guama
 groundlings
 guanayes
+gastriloquism
 gorman
 guanethidine
 gallbush
