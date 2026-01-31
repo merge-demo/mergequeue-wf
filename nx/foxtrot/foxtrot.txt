@@ -8436,7 +8436,6 @@ frenetics
 forlive
 finland
 frauder
-fuseboard
 fm
 floorman
 futhark
@@ -11271,6 +11270,7 @@ forerunnings
 frontispieces
 fucivorous
 flit
+fuseboard
 flakeless
 famble
 faciest
