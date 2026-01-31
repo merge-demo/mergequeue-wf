@@ -8479,6 +8479,7 @@ gaseous
 gladiolas
 gales
 gandul
+gliddery
 gooses
 gallwort
 germigene
@@ -10869,7 +10870,6 @@ gerrhosaurid
 glacises
 gyrophora
 goggan
-gliddery
 geomorphologic
 goaltending
 gorbelly
