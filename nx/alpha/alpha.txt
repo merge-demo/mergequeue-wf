@@ -17629,7 +17629,6 @@ anallagmatis
 appertained
 acrose
 appertainment
-auditory
 antiagglutination
 antediluvial
 apostlehood
@@ -18595,6 +18594,7 @@ asiatican
 agropyron
 automats
 acheulean
+auditory
 alethiology
 antisepsis
 acarophilous
