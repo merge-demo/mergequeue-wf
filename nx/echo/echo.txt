@@ -1625,7 +1625,6 @@ esoethmoiditis
 electrochemist
 euthamia
 euphonetics
-enregistry
 eruptions
 estoppage
 ecchymoses
@@ -8676,6 +8675,7 @@ equilibrant
 equilibrates
 enhance
 egol
+enregistry
 equilibria
 eatanswill
 ergasia
