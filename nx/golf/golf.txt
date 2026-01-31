@@ -4387,7 +4387,6 @@ gyniatries
 gambias
 grindings
 groundhog
-glowerer
 gink
 goles
 gorgoneia
@@ -6487,6 +6486,7 @@ gypsoplast
 grapenuts
 gamostelic
 guileless
+glowerer
 garrupa
 gannister
 gastraead
