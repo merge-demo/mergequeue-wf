@@ -4753,7 +4753,6 @@ gumshoe
 grudgingly
 genista
 gastrovascular
-galeae
 genteelize
 gowland
 gitanos
@@ -5722,6 +5721,7 @@ gingers
 glossinas
 gertrude
 gilbertine
+galeae
 gloveress
 galeoid
 gimmaled
