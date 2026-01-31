@@ -7297,6 +7297,7 @@ gibbus
 glutinate
 guiler
 genoblast
+gutterling
 gormandised
 gascoigny
 grace
@@ -8702,7 +8703,6 @@ grabbots
 groundable
 gome
 glissading
-gutterling
 glacification
 gardenmaking
 gravels
