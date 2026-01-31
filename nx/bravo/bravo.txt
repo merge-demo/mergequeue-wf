@@ -2460,7 +2460,6 @@ brassic
 breechesflower
 brodder
 blowout
-bathic
 brawner
 baniwa
 bulbar
@@ -16380,6 +16379,7 @@ baduhenna
 bruits
 borofluorin
 bacchius
+bathic
 botryolite
 benefic
 bevil
