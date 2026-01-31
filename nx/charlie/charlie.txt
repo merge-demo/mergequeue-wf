@@ -3116,6 +3116,7 @@ chilidog
 cap
 capa
 conferrable
+corkiness
 corroborates
 capability
 charks
@@ -23313,7 +23314,6 @@ consumated
 consumating
 consumedly
 consumeless
-corkiness
 consumer
 consumes
 catamnestic
