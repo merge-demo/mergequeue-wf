@@ -15713,7 +15713,6 @@ athetoid
 antipasch
 antipastic
 antipastos
-aureolin
 acromania
 anaesthesiologist
 antipathetic
@@ -24157,6 +24156,7 @@ autogram
 anthesteria
 alcahests
 asconia
+aureolin
 argolid
 atimon
 autographometer
