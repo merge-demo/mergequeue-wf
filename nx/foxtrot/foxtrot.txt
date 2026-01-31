@@ -5213,7 +5213,6 @@ fireweed
 fishiest
 fille
 flashgun
-fifteenth
 fict
 furnishment
 furculae
@@ -8285,6 +8284,7 @@ flashtubes
 fillingness
 felspathic
 fibromyomatous
+fifteenth
 forthcall
 furcate
 forgetful
