@@ -11025,6 +11025,7 @@ enabled
 enskying
 ecbolic
 eupnoea
+emf
 electrocutioner
 extenuatory
 embrowns
@@ -13481,7 +13482,6 @@ ensuingly
 encopresis
 elucidatory
 endoperidial
-emf
 empory
 expurgate
 equivocate
