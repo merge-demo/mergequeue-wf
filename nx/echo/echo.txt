@@ -1028,6 +1028,7 @@ edaphology
 estopping
 etymological
 edaphon
+excisions
 endorsing
 excel
 enquiring
@@ -4918,7 +4919,6 @@ escalating
 expend
 ensured
 entablements
-excisions
 ef
 educatedness
 enthuse
