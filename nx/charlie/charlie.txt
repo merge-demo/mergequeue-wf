@@ -6818,7 +6818,6 @@ cadiueio
 conjectures
 celestialized
 crustacea
-cordiceps
 canstick
 compartmentally
 colliculate
@@ -19291,6 +19290,7 @@ colonelships
 conductorless
 colones
 cogeneration
+cordiceps
 colongitude
 colony
 crabbier
