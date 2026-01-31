@@ -4570,6 +4570,7 @@ fertilizers
 forme
 fleadock
 ferrovanadium
+fortifiable
 flogging
 felinae
 fishlike
@@ -5528,7 +5529,6 @@ freezers
 ferrary
 fittingness
 fault
-fortifiable
 fleecy
 forager
 frolickly
