@@ -3254,6 +3254,7 @@ goodhearted
 grainedness
 genuses
 graphophone
+gribane
 graywacke
 glave
 gimbawawed
@@ -10044,7 +10045,6 @@ grf
 gemmule
 gasteromycetes
 grammatolator
-gribane
 gesneriaceous
 grissens
 genetoid
