@@ -8269,7 +8269,6 @@ episcia
 extracting
 elydoric
 exaltee
-epistases
 epistasies
 enhancers
 emplaning
@@ -9900,6 +9899,7 @@ enstatite
 encodes
 elocular
 epidemical
+epistases
 enodally
 encave
 epididymectomy
