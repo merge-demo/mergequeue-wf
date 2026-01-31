@@ -5245,7 +5245,6 @@ boebera
 biocycles
 bowtie
 bebrine
-bewired
 batzen
 begass
 bitless
@@ -17252,6 +17251,7 @@ brite
 baubles
 blotched
 breakdown
+bewired
 bumkin
 beating
 burseed
