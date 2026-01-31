@@ -4520,7 +4520,6 @@ buckrams
 becrinolined
 butches
 becrippled
-beira
 bedplate
 biliate
 bronchiectatic
@@ -14856,6 +14855,7 @@ becall
 breached
 breacher
 beanfeaster
+beira
 belonite
 burritos
 bedim
