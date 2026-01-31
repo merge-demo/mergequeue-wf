@@ -11926,7 +11926,6 @@ aboriginals
 alpha
 amara
 antigravitation
-apostrophize
 anaretical
 arc
 amalgam
@@ -21997,6 +21996,7 @@ assume
 auxins
 araneidal
 anthography
+apostrophize
 amnesics
 assumers
 arcsin
