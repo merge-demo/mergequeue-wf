@@ -15850,7 +15850,6 @@ argentina
 apronstring
 antipoetical
 acanthus
-afrete
 antipolygamy
 antipolitical
 assureds
@@ -20691,6 +20690,7 @@ accursedly
 alameda
 acetoacetate
 azides
+afrete
 attemperate
 arthroxerosis
 arthrozoa
