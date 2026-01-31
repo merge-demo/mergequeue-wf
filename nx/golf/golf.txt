@@ -7308,7 +7308,6 @@ gazeful
 gormandize
 glomi
 greeted
-gundeck
 gleaming
 gwerziou
 gavelman
@@ -10657,6 +10656,7 @@ gastroperiodynia
 gurged
 griddler
 gortonite
+gundeck
 gliding
 geckotoid
 gyracanthus
