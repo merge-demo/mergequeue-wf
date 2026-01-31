@@ -1233,7 +1233,6 @@ elenge
 eldest
 earthquake
 entirities
-enchainment
 estranged
 enwombed
 espathate
@@ -10594,6 +10593,7 @@ echinoids
 eucharistial
 extraconscious
 eudaemony
+enchainment
 eucharistic
 eucharistically
 embargoing
