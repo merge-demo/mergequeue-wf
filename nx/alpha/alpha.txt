@@ -19039,7 +19039,6 @@ ammocoete
 archoverseer
 archpall
 anana
-anomatheca
 announcer
 archpilferer
 adornment
@@ -20482,6 +20481,7 @@ archiblast
 americanese
 absey
 anthozoon
+anomatheca
 astate
 ablepsia
 avoure
