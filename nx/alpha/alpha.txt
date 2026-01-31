@@ -7320,7 +7320,6 @@ achromatolysis
 animadversiveness
 antineologian
 annamite
-albicant
 albiculi
 albificative
 analogizing
@@ -24554,6 +24553,7 @@ anywhereness
 abhor
 aerophile
 abstrude
+albicant
 aglaos
 athwart
 abbreviatable
