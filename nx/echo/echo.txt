@@ -1301,6 +1301,7 @@ ergostat
 eightling
 exfiltrate
 emperors
+eschynite
 emissions
 eking
 eyelessness
@@ -8340,7 +8341,6 @@ electrothermics
 ecophobia
 erythrismal
 enroller
-eschynite
 embosoms
 epithalamize
 efractory
