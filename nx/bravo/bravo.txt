@@ -674,6 +674,7 @@ baculine
 boiseries
 baculoid
 baculus
+berobed
 badaga
 buncombe
 bunted
@@ -6022,7 +6023,6 @@ beauxite
 bakings
 bemists
 blighty
-berobed
 bucerotidae
 becovet
 bowman
