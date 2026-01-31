@@ -11947,7 +11947,6 @@ anarthrosis
 anarthrously
 anarthrousness
 avionics
-athumia
 anasa
 aralkylated
 arteriosclerosis
@@ -23652,6 +23651,7 @@ alleles
 azorite
 amylodextrin
 aureole
+athumia
 autosomatognostic
 aureoled
 anemograph
