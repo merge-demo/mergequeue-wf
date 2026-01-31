@@ -5843,7 +5843,6 @@ disanagrammatize
 daftest
 doxologizing
 dreidel
-dourest
 dimagnesic
 depraver
 dragonfly
@@ -14539,6 +14538,7 @@ didn
 dioxime
 dad
 demurest
+dourest
 dilatement
 disintegratory
 deciceronize

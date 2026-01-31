@@ -531,7 +531,6 @@ blit
 bootboy
 blastema
 befriendment
-biggishness
 burrock
 brickiest
 bunt
@@ -9795,6 +9794,7 @@ biophysicochemical
 bystreet
 bework
 bituminize
+biggishness
 budding
 boeotarch
 brights
