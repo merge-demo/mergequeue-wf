@@ -4482,7 +4482,6 @@ facsimiling
 fie
 fished
 forestress
-forbids
 fruticous
 feulamort
 fauves
@@ -10368,6 +10367,7 @@ footbeat
 ferrates
 farnesses
 frenziedness
+forbids
 firms
 foundationless
 finfoot
