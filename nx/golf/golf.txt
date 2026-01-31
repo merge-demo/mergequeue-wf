@@ -2421,7 +2421,6 @@ geologian
 grograms
 gravific
 gallah
-gobbets
 gemmologists
 gekkones
 goorals
@@ -3848,6 +3847,7 @@ gyving
 gpcd
 gygis
 ginkgoaceae
+gobbets
 gratefulness
 greyling
 greenbugs
