@@ -4120,6 +4120,7 @@ gobernadora
 gondoletta
 genus
 gelechiid
+gnawer
 gonagia
 grapevine
 gaulic
@@ -10081,7 +10082,6 @@ gigant
 groomish
 gigman
 galivanting
-gnawer
 glore
 gudgeon
 goldi
