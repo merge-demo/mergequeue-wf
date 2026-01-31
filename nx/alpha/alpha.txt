@@ -3061,7 +3061,6 @@ acleistocardia
 adelops
 autochton
 actinomycete
-allogeneity
 analcime
 armsize
 actinomycosistic
@@ -17365,6 +17364,7 @@ avoirdupois
 alienation
 apologia
 aways
+allogeneity
 ampalaya
 amplification
 autumn
