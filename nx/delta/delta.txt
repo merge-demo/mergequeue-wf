@@ -5825,6 +5825,7 @@ deleatur
 dichronous
 dujan
 disambiguation
+dicast
 deploration
 denture
 dekle
@@ -7209,7 +7210,6 @@ denarcotization
 diemaking
 detoxicated
 dotting
-dicast
 dynamis
 demijohns
 deciphers
