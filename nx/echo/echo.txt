@@ -3681,7 +3681,6 @@ endangitis
 egocerus
 exemplifies
 elutor
-extravehicular
 equispaced
 emulable
 evetide
@@ -9205,6 +9204,7 @@ exumbrella
 extraduction
 elidible
 esrog
+extravehicular
 echinospermum
 endotheca
 ecumenistic
