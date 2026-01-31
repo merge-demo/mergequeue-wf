@@ -9955,7 +9955,6 @@ eschalot
 emoluments
 eriogonum
 euphuists
-embolisms
 estovers
 externship
 emphasis
@@ -12414,6 +12413,7 @@ eolipiles
 eyeletted
 envisionment
 epistyle
+embolisms
 experient
 epitomization
 effude
