@@ -6061,6 +6061,7 @@ adversaria
 aglitter
 aspartokinase
 actinoneuritis
+advecting
 aepyornithidae
 agitato
 aglossia
@@ -11655,7 +11656,6 @@ acnodes
 anagogic
 ambar
 aventayle
-advecting
 allochirally
 anagrammatically
 atmocausis
