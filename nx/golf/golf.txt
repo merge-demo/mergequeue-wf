@@ -6365,7 +6365,6 @@ gymnolaemata
 gloriosa
 gippo
 gunj
-gollywobbler
 gigaherz
 goclenian
 gambelli
@@ -9075,6 +9074,7 @@ gyrates
 geochemically
 galosh
 gullishness
+gollywobbler
 ghostliness
 guacamole
 gaylussite
