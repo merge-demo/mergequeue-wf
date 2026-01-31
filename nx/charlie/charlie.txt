@@ -19470,6 +19470,7 @@ colossean
 curling
 colosseum
 colossian
+coracoradialis
 charas
 colossians
 colosso
@@ -25907,7 +25908,6 @@ corteges
 capitalization
 congas
 coeternally
-coracoradialis
 cortexes
 circumclusion
 cortices
