@@ -12548,6 +12548,7 @@ anosia
 amentiferae
 aleuron
 arrayan
+aboideaux
 aesopic
 advene
 allochroite
@@ -17073,7 +17074,6 @@ arvel
 aphorism
 acrotarsium
 apodeictic
-aboideaux
 anosmic
 apodeictically
 apodeipnon
