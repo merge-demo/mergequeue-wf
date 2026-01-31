@@ -4948,7 +4948,6 @@ flaring
 frabbit
 froglet
 flagellatory
-fulgora
 florescence
 flails
 feuilletonism
@@ -7202,6 +7201,7 @@ filipinization
 footstick
 fluently
 fractionator
+fulgora
 fripper
 finesse
 fanaticizing
