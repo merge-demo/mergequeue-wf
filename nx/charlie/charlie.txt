@@ -4,7 +4,6 @@ cephalad
 concrement
 caatinga
 cab
-cires
 chorionic
 cajaput
 carribean
@@ -6411,6 +6410,7 @@ causerie
 causers
 causes
 cgm
+cires
 crimison
 cannellated
 catocathartic
