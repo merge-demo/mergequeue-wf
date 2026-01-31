@@ -8414,7 +8414,6 @@ chambers
 chambertin
 chelonia
 chambioa
-chambray
 copei
 colloquist
 calyciferous
@@ -26380,6 +26379,7 @@ cauls
 ciminite
 colligate
 concavities
+chambray
 centipoise
 cliffier
 coterminousness
