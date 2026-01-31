@@ -14815,7 +14815,6 @@ acronymized
 azoology
 atmas
 astrognosy
-autospray
 apenteric
 abrachia
 antimachinery
@@ -17677,6 +17676,7 @@ agrostis
 antibalm
 agathology
 apicial
+autospray
 appetisse
 abasedly
 assail
