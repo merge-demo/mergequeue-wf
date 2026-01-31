@@ -4903,6 +4903,7 @@ gatherer
 grayhead
 gunnen
 gryph
+guaranine
 gallybagger
 guttersnipe
 guessed
@@ -8467,7 +8468,6 @@ gelsemium
 gilten
 groovelike
 girondism
-guaranine
 ganderteeth
 gratified
 ghats
