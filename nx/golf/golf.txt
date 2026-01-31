@@ -2239,7 +2239,6 @@ gonimic
 gramophonical
 gey
 grooviest
-gradation
 goals
 glasswort
 gipons
@@ -6700,6 +6699,7 @@ graptolithida
 gobioidei
 gyroscopic
 glanduligerous
+gradation
 gorsiest
 gammons
 geocoronium
