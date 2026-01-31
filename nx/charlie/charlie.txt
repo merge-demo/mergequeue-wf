@@ -3688,6 +3688,7 @@ craspedote
 cavelet
 cattleyas
 clangor
+charbocle
 cocineras
 caragana
 caraganas
@@ -14729,7 +14730,6 @@ cholesteryl
 catmint
 circumagitate
 celebration
-charbocle
 cithren
 city
 citybuster
