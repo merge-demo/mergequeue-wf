@@ -7309,7 +7309,6 @@ clematises
 codbank
 chaldese
 centuplicate
-centuplicating
 civility
 conspect
 centuplication
@@ -13459,6 +13458,7 @@ chaplets
 cigarillos
 cambibia
 categoricalness
+centuplicating
 calcomp
 casting
 cigaritos
