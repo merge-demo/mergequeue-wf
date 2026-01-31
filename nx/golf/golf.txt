@@ -4435,6 +4435,7 @@ glidingly
 guanidin
 galziekte
 gazangabin
+gambits
 ginseng
 globigerinidae
 gynura
@@ -8354,7 +8355,6 @@ germanish
 gasolier
 graptolitha
 gibers
-gambits
 gibbosity
 glycuronide
 getter

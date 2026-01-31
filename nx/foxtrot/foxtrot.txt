@@ -6515,7 +6515,6 @@ fireworm
 filemarks
 farcer
 fossae
-fluoride
 fibromyositis
 frasera
 favuses
@@ -11667,6 +11666,7 @@ fusus
 feedlot
 fanion
 fut
+fluoride
 futhorc
 friseurs
 fleshers
