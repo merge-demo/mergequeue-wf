@@ -1239,7 +1239,6 @@ fountainlike
 fleckled
 fourteens
 fleckiness
-fumarase
 feinted
 friborgh
 fasherie
@@ -4463,6 +4462,7 @@ forky
 forecomingness
 fistify
 funiculitis
+fumarase
 fertiliser
 froward
 formulaic
