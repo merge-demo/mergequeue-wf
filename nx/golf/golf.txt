@@ -6851,7 +6851,6 @@ gatewright
 gasteromycetous
 globuliferous
 gelsemic
-gallican
 graffiti
 gamelotte
 gymnodontes
@@ -8485,6 +8484,7 @@ gravelroot
 gentisic
 gubbertush
 goldbricks
+gallican
 glaciarium
 gushily
 goonch
