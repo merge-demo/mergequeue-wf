@@ -2653,6 +2653,7 @@ feoffed
 foresheet
 fontes
 ferrometer
+flavorer
 ferronatrite
 fluorouracil
 frameae
@@ -3404,7 +3405,6 @@ figworm
 flon
 furmenty
 fidge
-flavorer
 fress
 fractals
 faultage
