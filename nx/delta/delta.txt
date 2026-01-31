@@ -5457,6 +5457,7 @@ declamation
 deoxidisation
 dissolubility
 deadest
+dorsiflexion
 devoiced
 downstairs
 drumrolls
@@ -15810,7 +15811,6 @@ disprobabilize
 dorsicornu
 dorsiflex
 does
-dorsiflexion
 deuteron
 diacetic
 deluge
