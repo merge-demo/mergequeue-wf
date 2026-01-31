@@ -2342,6 +2342,7 @@ fast
 fixities
 fixatifs
 foggy
+fictionalizes
 fondaco
 franchises
 feminizes
@@ -7664,7 +7665,6 @@ fructuarius
 funiculus
 flays
 forespeak
-fictionalizes
 fawns
 faradising
 fulah
