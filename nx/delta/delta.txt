@@ -7006,7 +7006,6 @@ defoamed
 destructions
 despoiled
 destroyers
-despoiler
 durometer
 degust
 disabilities
@@ -12292,6 +12291,7 @@ dorine
 doweling
 durous
 desultorious
+despoiler
 dishonourer
 detector
 dentigerous
