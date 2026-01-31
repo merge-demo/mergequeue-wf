@@ -1726,6 +1726,7 @@ fearsomeness
 feased
 folic
 fruit
+footman
 fingrigo
 forestep
 fasciolariidae
@@ -3753,7 +3754,6 @@ fewter
 fibrilated
 fidos
 falsifying
-footman
 furbishing
 flaying
 futurama

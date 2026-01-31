@@ -2480,7 +2480,6 @@ gaelicize
 grandity
 glossier
 gatepost
-geyan
 gastroalbuminorrhea
 gerousia
 gubbin
@@ -10343,6 +10342,7 @@ greet
 gonoph
 grot
 geomorphist
+geyan
 glebal
 guarana
 gastroduodenostomies
