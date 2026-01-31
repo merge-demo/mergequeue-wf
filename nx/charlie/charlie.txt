@@ -7464,7 +7464,6 @@ chippering
 commands
 chauk
 cephalotractor
-cephalotrocha
 cephalotus
 cephalous
 comanic
@@ -25164,6 +25163,7 @@ chrysalidian
 conversionist
 cottontail
 coded
+cephalotrocha
 corevolve
 cryometer
 chlorophyllaceous
