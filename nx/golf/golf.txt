@@ -3253,7 +3253,6 @@ gns
 gigantism
 gametophytic
 goodhearted
-grainedness
 genuses
 graphophone
 gribane
@@ -6182,6 +6181,7 @@ goyin
 gemuetlich
 gastroduodenostomy
 gristly
+grainedness
 gordyaean
 gomphocarpus
 gamasoidea
