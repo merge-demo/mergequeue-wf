@@ -3893,6 +3893,7 @@ bawdries
 boreal
 bawl
 bawler
+brachystomatous
 berginization
 buxom
 brutalitarian
@@ -14164,7 +14165,6 @@ brass
 banba
 brachistochrone
 brachistochronous
-brachystomatous
 brachystomous
 bumblings
 bbl
