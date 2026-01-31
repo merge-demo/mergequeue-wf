@@ -5512,6 +5512,7 @@ gonostyle
 gemellus
 guester
 glue
+granula
 grammatically
 gruffed
 gastruran
@@ -8752,7 +8753,6 @@ gonys
 genos
 greenrooms
 garlics
-granula
 gallowses
 grabblers
 gabbroic
