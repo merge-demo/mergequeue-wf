@@ -792,7 +792,6 @@ enclaved
 evergreenery
 ecaudate
 enriching
-endokaryogamy
 evangelism
 evenmindedness
 extorsive
@@ -1589,6 +1588,7 @@ exareolate
 epeirogenesis
 embrasures
 eggs
+endokaryogamy
 emplastra
 ectrodactyly
 excerptive
