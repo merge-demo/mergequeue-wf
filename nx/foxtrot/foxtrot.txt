@@ -2481,6 +2481,7 @@ falla
 filechar
 fornax
 fezzan
+finales
 forepreparation
 foliocellosis
 freethink
@@ -7922,7 +7923,6 @@ fetters
 fruitwomen
 fibrochondritis
 funned
-finales
 fascination
 forereckon
 foredates
