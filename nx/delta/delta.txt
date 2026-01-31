@@ -607,7 +607,6 @@ diplacanthidae
 dioscorea
 demiatheist
 deoxyribonucleoprotein
-depark
 dubiocrystalline
 dynatrons
 dressership
@@ -5293,6 +5292,7 @@ discomposing
 disrespect
 disrange
 demarkation
+depark
 deuteroconid
 disalicylide
 ducks
