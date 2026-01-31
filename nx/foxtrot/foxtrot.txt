@@ -1862,7 +1862,6 @@ funambulate
 fluoresce
 foreign
 fecundatory
-fingerprinting
 febricant
 frilly
 flashlight
@@ -6313,6 +6312,7 @@ flysches
 forethoughtfulness
 foretops
 flagmaker
+fingerprinting
 farfetched
 fakeries
 featherpated
