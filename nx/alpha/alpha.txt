@@ -7340,6 +7340,7 @@ alveolonasal
 antiextreme
 allay
 abietene
+aphthongal
 abomasusi
 affinage
 adversus
@@ -9861,7 +9862,6 @@ amazilia
 amazing
 allovers
 amazulu
-aphthongal
 addda
 acetract
 abayah
