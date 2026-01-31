@@ -1176,6 +1176,7 @@ gradations
 globular
 glides
 guttate
+greenhead
 gharries
 garfishes
 grappler
@@ -8260,7 +8261,6 @@ grapeskin
 gelototherapy
 gangliest
 goldurned
-greenhead
 galenical
 galeodidae
 granogabbro
