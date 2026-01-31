@@ -3812,7 +3812,6 @@ embryon
 emissaryship
 ethnish
 ejulate
-embrowning
 embrues
 executive
 embruing
@@ -12120,6 +12119,7 @@ electrolysing
 epitheloid
 eradicator
 entwisting
+embrowning
 excudate
 excurrent
 ekphorize
