@@ -10112,6 +10112,7 @@ bleacher
 brominize
 bks
 bkt
+bowshots
 beflum
 blaasop
 bistriazole
@@ -13946,7 +13947,6 @@ bulbaceous
 bridoon
 baronial
 brainish
-bowshots
 bombarder
 backstopped
 bowstring
