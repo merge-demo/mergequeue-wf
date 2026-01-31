@@ -7442,7 +7442,6 @@ betread
 bugseed
 banning
 bathybius
-braveries
 betrothing
 betrothment
 bacteriopurpurin
@@ -9234,6 +9233,7 @@ butts
 brunches
 baldrics
 bucciniform
+braveries
 badassed
 brended
 bicycler
