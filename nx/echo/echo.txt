@@ -9734,7 +9734,6 @@ esprit
 enterorrhexis
 esq
 esquires
-evangelicity
 exurbs
 enjambments
 establishmentarian
@@ -10899,6 +10898,7 @@ execrates
 etherealising
 epitrite
 eupepticity
+evangelicity
 eelfish
 elapoid
 effigiating
