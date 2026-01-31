@@ -412,7 +412,6 @@ evangelisation
 epitaphless
 eavedrop
 endophlebitis
-enterostenosis
 ephthianure
 enteroparalysis
 endevil
@@ -13955,6 +13954,7 @@ effectivity
 expressless
 epimer
 eozoonal
+enterostenosis
 evidently
 enface
 electropoion
