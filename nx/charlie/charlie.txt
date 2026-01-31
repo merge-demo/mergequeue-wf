@@ -4627,6 +4627,7 @@ canvasado
 chlortetracycline
 carnivore
 carnivorism
+cinefaction
 coherer
 carnivorousness
 cavalcading
@@ -29132,7 +29133,6 @@ coelacanthini
 cacodorous
 crioceras
 crioceratite
-cinefaction
 crioceratitic
 challahs
 cheque
