@@ -6978,6 +6978,7 @@ footings
 focus
 frostroot
 finalizes
+foxfires
 finance
 failing
 fideists
@@ -9117,7 +9118,6 @@ flustrum
 flavo
 feudality
 forbruise
-foxfires
 foreinclined
 foreadmonish
 foederis
