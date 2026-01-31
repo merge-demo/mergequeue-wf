@@ -11729,6 +11729,7 @@ burlily
 bobbin
 behooveful
 bolivias
+boldfaced
 bobbinite
 biolyses
 bigamies
@@ -12158,7 +12159,6 @@ bignou
 bostrychoid
 blossoming
 banefully
-boldfaced
 boldfacedness
 boldfacing
 bleb
