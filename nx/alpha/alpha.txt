@@ -7482,7 +7482,6 @@ arrestable
 abhorrible
 alburn
 apelike
-autotoxin
 albutannin
 abolitionise
 aquamanale
@@ -7669,6 +7668,7 @@ alderamin
 ape
 alectoromorphous
 accolent
+autotoxin
 aldermanate
 aldermancy
 aldermaness
