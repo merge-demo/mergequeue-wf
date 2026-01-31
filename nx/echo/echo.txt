@@ -7784,7 +7784,6 @@ ethinamate
 empasma
 executable
 epidiascope
-engraff
 embrocating
 embosom
 exchanger
@@ -12749,6 +12748,7 @@ elaeodochon
 enteromorpha
 escarps
 extraction
+engraff
 emetically
 easeful
 esprove
