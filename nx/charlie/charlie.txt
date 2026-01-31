@@ -10209,7 +10209,6 @@ chiasmata
 cavesson
 czarism
 cystoscopy
-chiasmatic
 conceity
 clockings
 chiasmic
@@ -26872,6 +26871,7 @@ cockpits
 circumambience
 counterimagination
 cimicide
+chiasmatic
 cuitled
 counterindented
 counterindication
