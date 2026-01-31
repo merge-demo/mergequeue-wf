@@ -1679,6 +1679,7 @@ dephysicalization
 decrementless
 dihalogen
 delineator
+disacquaint
 dentality
 debonnaire
 dismissive
@@ -9206,7 +9207,6 @@ dreamfully
 doraphobia
 dreidl
 delicat
-disacquaint
 dogship
 disembark
 defensing
