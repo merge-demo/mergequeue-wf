@@ -2810,7 +2810,6 @@ forbar
 flightiness
 falsehearted
 footway
-fortescure
 fascisms
 ferrimagnet
 fanioned
@@ -7970,6 +7969,7 @@ foresee
 furtively
 forlornest
 faitor
+fortescure
 fibrinolytic
 futchel
 footeite
