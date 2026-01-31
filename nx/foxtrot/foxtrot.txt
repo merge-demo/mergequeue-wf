@@ -5251,7 +5251,6 @@ foreshock
 fossilage
 fellifluous
 furbelows
-froom
 flatlands
 fiberized
 footropes
@@ -10761,6 +10760,7 @@ filagree
 fringelike
 faenus
 flam
+froom
 fease
 flotsams
 fideisms
