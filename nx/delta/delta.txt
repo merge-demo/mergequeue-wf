@@ -11984,7 +11984,6 @@ domesticality
 disease
 dialysers
 deductile
-disbursing
 diseased
 domiculture
 deifying
@@ -18511,6 +18510,7 @@ daffish
 drongos
 duffer
 durances
+disbursing
 downcast
 demonolatrous
 downrange
