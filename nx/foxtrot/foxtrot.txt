@@ -8158,7 +8158,6 @@ flamandize
 favouredness
 faveoli
 freshmanship
-foretaster
 foretasting
 fermacy
 fretsaw
@@ -11627,6 +11626,7 @@ flapdragon
 fortissimi
 fervidly
 freers
+foretaster
 fibrous
 fosite
 forehew
