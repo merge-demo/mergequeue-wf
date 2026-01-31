@@ -2955,6 +2955,7 @@ elfenfolk
 endogeny
 elfinwood
 eastermost
+enthrong
 ergatomorphic
 enflamed
 electrocardiographically
@@ -13426,7 +13427,6 @@ entrapments
 expounder
 eulogised
 ems
-enthrong
 evaluative
 express
 extralinguistic
