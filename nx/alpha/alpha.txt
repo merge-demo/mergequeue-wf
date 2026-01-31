@@ -1082,7 +1082,6 @@ assortments
 arghool
 albertustaler
 archbuilder
-abuna
 askew
 abundance
 accurtation
@@ -21547,6 +21546,7 @@ anticlassically
 auxoaction
 antiphase
 asphyxiating
+abuna
 attern
 athapaskan
 anticline
