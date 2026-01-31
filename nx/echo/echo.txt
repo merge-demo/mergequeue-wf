@@ -4314,7 +4314,6 @@ ecophysiology
 endarterectomy
 emulsoids
 enteropathogenic
-elohim
 enlay
 epicenes
 enphytotic
@@ -9990,6 +9989,7 @@ electrocautery
 enamelled
 estrif
 elisor
+elohim
 elk
 emoting
 estrums
