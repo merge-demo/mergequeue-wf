@@ -135,7 +135,6 @@ grazings
 greenth
 grower
 germiniparous
-garrot
 galipot
 graniteware
 ghettoized
@@ -4015,6 +4014,7 @@ gnide
 guarinite
 gambesons
 gravic
+garrot
 geniculate
 gnomological
 gearksutite
