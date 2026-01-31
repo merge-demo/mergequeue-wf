@@ -15256,6 +15256,7 @@ caam
 colours
 calcspar
 costmaries
+camphanic
 crassina
 clam
 countermeet
@@ -20786,7 +20787,6 @@ ceramiaceae
 calamined
 complicant
 coelomate
-camphanic
 complicate
 cantilenes
 caramba
