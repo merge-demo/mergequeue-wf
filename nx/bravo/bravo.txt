@@ -2249,7 +2249,6 @@ bung
 barbara
 barbary
 baculiferous
-blastier
 bast
 ballism
 betokener
@@ -8324,6 +8323,7 @@ bowwort
 balawa
 bobolink
 bedismal
+blastier
 bayonetting
 betain
 backward
