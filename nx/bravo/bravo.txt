@@ -15699,7 +15699,6 @@ bulbilis
 blowzy
 banago
 bands
-bonbonniere
 barycentric
 barbering
 binocle
@@ -17139,6 +17138,7 @@ bombards
 batture
 brushmaking
 bullion
+bonbonniere
 bullyrag
 bullyragger
 booklice
