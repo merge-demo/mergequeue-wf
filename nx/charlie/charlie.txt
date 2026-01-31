@@ -1021,7 +1021,6 @@ claretian
 capuche
 caca
 calanque
-calantas
 chromocenter
 calapite
 caprelline
@@ -30698,6 +30697,7 @@ chiropterygium
 coeffects
 cunctatory
 cuemen
+calantas
 cardiographs
 cues
 capitulating
