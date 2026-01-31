@@ -9147,7 +9147,6 @@ geodesic
 guillemet
 grindable
 gibbose
-gingerol
 gadite
 gelseminic
 gummers
@@ -10087,6 +10086,7 @@ galivanting
 glore
 gudgeon
 goldi
+gingerol
 griffes
 groupoids
 graecize
