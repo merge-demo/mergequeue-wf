@@ -9921,7 +9921,6 @@ coenamors
 chemotaxy
 collocatory
 controls
-corocleisis
 chemotherapeutical
 clamlike
 cst
@@ -28297,6 +28296,7 @@ crating
 confederation
 cratometry
 cicala
+corocleisis
 carobs
 cumberment
 craunches
