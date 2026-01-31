@@ -2049,7 +2049,6 @@ bullaria
 beamage
 banjorine
 banjuke
-bv
 beflecking
 bank
 boxtop
@@ -8463,6 +8462,7 @@ bileve
 bootjack
 bouteloua
 bals
+bv
 bellicosities
 bluffly
 bearbine
