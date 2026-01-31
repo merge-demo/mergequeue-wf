@@ -309,7 +309,6 @@ evensong
 eulamellibranchia
 example
 electrotherapeutical
-elevenfold
 equisegmented
 eardrops
 eerisome
@@ -6776,6 +6775,7 @@ embarrel
 enormously
 extramorainal
 englyns
+elevenfold
 euhemerise
 echidnae
 environmentally
