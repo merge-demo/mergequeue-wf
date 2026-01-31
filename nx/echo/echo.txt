@@ -9555,6 +9555,7 @@ eczematoid
 entach
 enarch
 endict
+exopterygotic
 elementalistic
 equipondious
 escry
@@ -13645,7 +13646,6 @@ epitaph
 extending
 ethnomusicologically
 electrosmosis
-exopterygotic
 enabler
 eked
 evited
