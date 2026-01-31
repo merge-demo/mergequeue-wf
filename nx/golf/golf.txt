@@ -2791,6 +2791,7 @@ gathers
 galvanometer
 gazettal
 gopak
+gaspereaus
 gormless
 garrote
 glassophone
@@ -5243,7 +5244,6 @@ gingelies
 gieseckite
 gravimetrical
 geogenesis
-gaspereaus
 grottesco
 grimful
 gripsacks
