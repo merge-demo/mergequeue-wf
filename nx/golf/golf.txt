@@ -3153,7 +3153,6 @@ grouses
 gavotte
 goat
 graduating
-geoscopy
 gutting
 gordonia
 gelasian
@@ -9607,6 +9606,7 @@ giftlike
 goodenoviaceae
 granted
 gazed
+geoscopy
 gurneyite
 galactodendron
 gnus
