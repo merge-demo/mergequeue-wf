@@ -959,7 +959,6 @@ bungaloid
 bipinnarias
 brownout
 barrenest
-bustier
 bagwork
 birmingham
 bahadur
@@ -12962,6 +12961,7 @@ bottoms
 blouson
 boottop
 biforous
+bustier
 brack
 betulaceae
 bavenite
