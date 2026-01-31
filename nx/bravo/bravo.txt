@@ -6704,7 +6704,6 @@ browsability
 bismuthine
 broomstaff
 blitter
-buzzers
 balaamitical
 beeishness
 brontosaurus
@@ -16026,6 +16025,7 @@ bonchief
 burntweed
 baillone
 bronchophony
+buzzers
 bayoneting
 bibionidae
 braced

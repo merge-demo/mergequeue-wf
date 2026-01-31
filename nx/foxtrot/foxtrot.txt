@@ -7885,7 +7885,6 @@ fruitwood
 featherstitch
 fidgetiness
 forepaws
-ferreled
 furcellate
 fractionisation
 fungify
@@ -9534,6 +9533,7 @@ fyces
 forearmed
 fand
 floors
+ferreled
 foresteep
 forewarned
 frontiersmen
