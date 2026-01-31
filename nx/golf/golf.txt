@@ -3284,7 +3284,6 @@ gashest
 grayback
 gordiacea
 gisler
-geyseral
 guland
 glossaries
 gerfalcon
@@ -8888,6 +8887,7 @@ groundlessly
 guesthouses
 greyfly
 gynantherous
+geyseral
 gregau
 guarantine
 glycerination
