@@ -2163,7 +2163,6 @@ derogatoriness
 dollish
 disassemble
 distresses
-dicecup
 decalcomanias
 decapodal
 dawn
@@ -7994,6 +7993,7 @@ despotes
 demiatheism
 discontinuing
 desquamative
+dicecup
 dichlorobenzene
 dimethylaniline
 dimensive
