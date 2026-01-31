@@ -229,7 +229,6 @@ chelydra
 cacajao
 cacam
 cacanapa
-chthonophagia
 cacatuidae
 cacatuinae
 coactions
@@ -18175,6 +18174,7 @@ coenosteum
 cacopharyngia
 coenotype
 coenotypic
+chthonophagia
 castellanship
 coenotrope
 coenthrone
