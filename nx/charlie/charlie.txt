@@ -7594,7 +7594,6 @@ cercomonadidae
 cercopid
 cercopithecid
 contracting
-cercopithecidae
 catodon
 cercopithecus
 cimbri
@@ -31839,6 +31838,7 @@ cutlassfishes
 confusive
 cutleriaceous
 cutleries
+cercopithecidae
 cutlers
 cutlet
 cunctatury

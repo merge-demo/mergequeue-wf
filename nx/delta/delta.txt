@@ -3631,7 +3631,6 @@ degustation
 degerm
 degerminate
 doated
-dobe
 degerminator
 drubbed
 dzeron
@@ -10554,6 +10553,7 @@ droit
 dolichoprosopic
 dispost
 diphthongation
+dobe
 dilutedness
 dendrodra
 diphthongisation
