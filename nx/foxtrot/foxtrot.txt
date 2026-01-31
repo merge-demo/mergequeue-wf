@@ -3921,7 +3921,6 @@ fon
 fanglomerate
 fraenum
 fireflirt
-farleu
 fimbrillate
 flowerlet
 flinch
@@ -7482,6 +7481,7 @@ ferratin
 feedlots
 fantasist
 flyness
+farleu
 fourstrand
 findy
 forbidals
