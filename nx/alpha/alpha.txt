@@ -11227,7 +11227,6 @@ abjures
 amphithyra
 abrotine
 ana
-authorish
 arenig
 animikite
 acheron
@@ -24838,6 +24837,7 @@ avisos
 avital
 arboricole
 avitaminosis
+authorish
 agal
 acariform
 aloof
