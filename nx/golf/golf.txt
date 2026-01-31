@@ -5558,6 +5558,7 @@ geoemtry
 genghis
 glob
 gnetum
+ghatwal
 gripes
 glucinum
 grummest
@@ -9977,7 +9978,6 @@ guardable
 gastroparalysis
 gepoun
 gladiate
-ghatwal
 greyhound
 guitarfishes
 goys
