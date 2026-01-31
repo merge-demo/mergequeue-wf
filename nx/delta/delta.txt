@@ -7348,6 +7348,7 @@ decolouration
 dodunk
 detersiveness
 disportive
+docklands
 disunions
 demicylinder
 dryfat
@@ -14816,7 +14817,6 @@ docking
 dobos
 dockland
 doublehandedly
-docklands
 dominica
 dolors
 dennet
