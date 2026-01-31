@@ -1617,7 +1617,6 @@ beatinest
 ballistician
 brachioganoidei
 ballflower
-byelaws
 basalt
 brooder
 bootstrapping
@@ -7258,6 +7257,7 @@ budmash
 beshear
 bearwoods
 bookiness
+byelaws
 bladdernut
 bestrewment
 besnow
