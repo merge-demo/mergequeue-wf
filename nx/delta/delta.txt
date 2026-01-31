@@ -9431,7 +9431,6 @@ demasted
 dentirostres
 dautie
 depurged
-disinflating
 diffract
 deruralize
 diffractiveness
@@ -9817,6 +9816,7 @@ dilates
 disapprovable
 descender
 dess
+disinflating
 decolourization
 dilatometrically
 dcbname
