@@ -8437,7 +8437,6 @@ chameleonlike
 cantilena
 commercialized
 cckw
-cultrirostral
 chamfer
 cabirean
 chamfers
@@ -20682,6 +20681,7 @@ cabinetmake
 complaisant
 curtalaxes
 cankerworms
+cultrirostral
 complaisantly
 coenenchyma
 chiromancer

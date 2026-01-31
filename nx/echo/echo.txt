@@ -12308,7 +12308,6 @@ exemptive
 environal
 exenterate
 etheostomidae
-executer
 eavesdropper
 electronegative
 eerock
@@ -12955,6 +12954,7 @@ entodermic
 electrothermostatic
 expansibility
 electropuncturing
+executer
 eupatorium
 epinine
 ectognatha
