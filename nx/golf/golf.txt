@@ -4204,7 +4204,6 @@ gur
 gnathites
 galahs
 glaswegian
-gibbeted
 goney
 grimly
 governesshood
@@ -9725,6 +9724,7 @@ gowaned
 gelable
 grubbiest
 gratefuller
+gibbeted
 graphologies
 garston
 galapee
