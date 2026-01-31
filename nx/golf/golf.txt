@@ -3232,7 +3232,6 @@ giron
 gossypose
 girtonian
 gambeered
-gnostology
 glagol
 goldenwing
 glandule
@@ -5084,6 +5083,7 @@ grizzlers
 gisarmes
 gassy
 groused
+gnostology
 goalkeeper
 golconda
 gecarcinus
