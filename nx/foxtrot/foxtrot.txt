@@ -8543,7 +8543,6 @@ flet
 fetiparous
 feme
 foreboder
-foreslack
 foun
 fabular
 felstones
@@ -10292,6 +10291,7 @@ fibra
 filite
 floated
 fissure
+foreslack
 froggies
 freezed
 froggish
