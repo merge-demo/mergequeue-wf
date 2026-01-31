@@ -4780,7 +4780,6 @@ fixing
 feudalist
 fissural
 flopwing
-fingerhook
 fangs
 fummel
 furtherer
@@ -10600,6 +10599,7 @@ fluky
 flockbed
 flatus
 festivous
+fingerhook
 flavorings
 fauchard
 flagitious
