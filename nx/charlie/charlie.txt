@@ -417,6 +417,7 @@ chondriome
 chiromyidae
 coterminous
 cacorrhinia
+counterpaled
 coelevate
 crate
 crumbers
@@ -11088,7 +11089,6 @@ chitlings
 cowbirds
 carloads
 calamus
-counterpaled
 codeless
 chiton
 cageling
