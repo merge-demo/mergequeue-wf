@@ -15967,7 +15967,6 @@ clergymen
 clergion
 clergywoman
 clementine
-culverfoot
 clerical
 crumbum
 clericality
@@ -29414,6 +29413,7 @@ cymbals
 crispier
 cryptophyte
 carcinolytic
+culverfoot
 contemporizing
 crispiest
 curtelace
