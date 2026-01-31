@@ -8045,7 +8045,6 @@ flexures
 forestal
 foggish
 frankness
-floran
 flotten
 fleying
 fallency
@@ -10504,6 +10503,7 @@ fractionizing
 follied
 foreadvice
 floreating
+floran
 frontotemporal
 fluxional
 fruitfully
