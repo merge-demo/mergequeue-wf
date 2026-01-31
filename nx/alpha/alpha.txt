@@ -16724,6 +16724,7 @@ approximants
 alloploidy
 antibacchii
 accur
+arctalia
 ametaboly
 anthophagy
 aciculums
@@ -21217,7 +21218,6 @@ antiprism
 altered
 axmaking
 ashamed
-arctalia
 ashamnu
 aggrandizers
 ashanti
