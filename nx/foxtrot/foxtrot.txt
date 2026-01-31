@@ -1019,7 +1019,6 @@ fulmina
 fondu
 foreplan
 foreorder
-flustrating
 falsification
 factorability
 forweend
@@ -9228,6 +9227,7 @@ foreship
 federations
 frilliness
 figulines
+flustrating
 fruchtschiefer
 fossilization
 forbiddance
