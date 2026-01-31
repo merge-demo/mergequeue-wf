@@ -1009,7 +1009,6 @@ dineutron
 drawbars
 diathermal
 daggly
-darksum
 domineers
 decimeter
 dogmatising
@@ -5258,6 +5257,7 @@ distinctly
 dewey
 dysoxidize
 deligated
+darksum
 detects
 density
 degasifier
