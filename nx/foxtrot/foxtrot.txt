@@ -11620,7 +11620,6 @@ forswornness
 frogfishes
 fragilely
 fermata
-fustics
 foining
 fixable
 frolicsomely
@@ -11754,6 +11753,7 @@ firefang
 faultfinders
 fuzzier
 fuzziest
+fustics
 forstraught
 fertilitate
 fianna
