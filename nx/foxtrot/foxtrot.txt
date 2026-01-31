@@ -3821,6 +3821,7 @@ funnily
 finnick
 fortressed
 frizettes
+foreview
 finfoots
 fellmonger
 fulls
@@ -6038,7 +6039,6 @@ factitude
 frats
 fineable
 felspath
-foreview
 fatalize
 flubdubs
 fusilade
