@@ -15511,6 +15511,7 @@ coapostate
 coerected
 confraternization
 congratulation
+cusping
 claroes
 chemotaxis
 contraposition
@@ -31697,7 +31698,6 @@ cotyloid
 canailles
 cephalopodan
 cryptocarya
-cusping
 cur
 cuspis
 cusps
