@@ -7557,6 +7557,7 @@ cambrian
 ceraunoscopy
 cyathophyllidae
 cosmopolitanly
+configures
 cercal
 cleanable
 cercaria
@@ -21993,7 +21994,6 @@ configurations
 configurative
 concusses
 configure
-configures
 coxcombry
 confinable
 confine
