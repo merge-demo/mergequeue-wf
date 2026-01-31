@@ -2081,7 +2081,6 @@ faunlike
 flout
 fructescence
 florins
-fogbows
 fascicule
 flaunting
 feudally
@@ -7257,6 +7256,7 @@ fishbone
 filths
 figuring
 foresays
+fogbows
 flummox
 flacianism
 fps
