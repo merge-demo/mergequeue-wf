@@ -588,7 +588,6 @@ airscrew
 apioidal
 advowry
 ashantee
-actable
 ashlers
 aerobioscope
 antiquarian
@@ -9511,6 +9510,7 @@ anthonin
 aeroembolism
 ascence
 alulim
+actable
 alumel
 agrom
 alumic
