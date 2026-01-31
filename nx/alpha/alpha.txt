@@ -24269,7 +24269,6 @@ anteportico
 automechanism
 acediamine
 ambo
-antinodes
 algicidal
 anhaematosis
 alpinist
@@ -25391,6 +25390,7 @@ amortising
 afterwash
 argenol
 angiosperm
+antinodes
 azulene
 alarmable
 alumbloom
