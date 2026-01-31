@@ -4802,6 +4802,7 @@ blennies
 burking
 barrener
 bracker
+branchial
 biennial
 brachylogy
 bedriveling
@@ -9144,7 +9145,6 @@ bletting
 banc
 beefburger
 bismutosmaltite
-branchial
 bubbybush
 buckone
 banderlog
