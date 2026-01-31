@@ -3438,7 +3438,6 @@ gerontocrat
 gluttony
 glint
 gyroscopics
-gigglish
 gallinule
 gossard
 grains
@@ -6806,6 +6805,7 @@ galeiform
 glycans
 gyrostatics
 genal
+gigglish
 genros
 grunch
 gweducs
