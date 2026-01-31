@@ -5086,7 +5086,6 @@ gastrohypertonic
 grizzlers
 gisarmes
 gassy
-gapped
 groused
 goalkeeper
 golconda
@@ -9812,6 +9811,7 @@ gien
 gtt
 gagaku
 gymnastic
+gapped
 gavel
 gasworks
 gradino
