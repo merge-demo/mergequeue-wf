@@ -1273,7 +1273,6 @@ folds
 fabulosity
 fassalite
 fastbacks
-fluorite
 frigor
 faradism
 flatulent
@@ -3948,6 +3947,7 @@ furlong
 frequencies
 fortyfive
 fellowshiping
+fluorite
 fecundating
 financer
 farci
