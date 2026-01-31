@@ -2316,7 +2316,6 @@ gristlier
 grainland
 ge
 gingival
-guige
 geistlich
 graviton
 gateman
@@ -3183,6 +3182,7 @@ graplin
 gazon
 glaze
 galactagoguic
+guige
 geomantically
 grangerism
 grayly
