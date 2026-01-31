@@ -2226,7 +2226,6 @@ firstfruits
 farmhouse
 foreclosures
 fumulus
-farinometer
 felts
 forthtell
 fishworker
@@ -5811,6 +5810,7 @@ factional
 facilitator
 flype
 feodaries
+farinometer
 feltness
 franchise
 foglietto
