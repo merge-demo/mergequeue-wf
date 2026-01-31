@@ -2986,7 +2986,6 @@ gaps
 galatian
 garnered
 gushingness
-gwine
 gauchest
 gulping
 grooved
@@ -7833,6 +7832,7 @@ gipseian
 greeny
 gentling
 grubworm
+gwine
 gulleys
 gravette
 galvanometry
