@@ -4838,6 +4838,7 @@ ficche
 floorward
 feuillage
 fortlet
+functionalize
 fulldo
 foxberries
 flammiferous
@@ -7962,7 +7963,6 @@ fasten
 floes
 fetticus
 feiseanna
-functionalize
 foresee
 furtively
 forlornest
