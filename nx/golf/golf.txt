@@ -5121,6 +5121,7 @@ garners
 grow
 gutturalism
 grenelle
+guttural
 glassiness
 glasslikeness
 globalism
@@ -6283,7 +6284,6 @@ gadslid
 goateed
 gregariousness
 gonotyl
-guttural
 garua
 galidia
 gconv
