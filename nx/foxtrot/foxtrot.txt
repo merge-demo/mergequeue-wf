@@ -4962,7 +4962,6 @@ firmhearted
 flightiest
 finial
 frondiferous
-frightenedness
 fabricational
 funks
 foldedly
@@ -6805,6 +6804,7 @@ foreboding
 faintheartedly
 fundamentalism
 folksily
+frightenedness
 flame
 felted
 fogless
