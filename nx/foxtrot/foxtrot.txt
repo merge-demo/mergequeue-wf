@@ -4111,6 +4111,7 @@ feudal
 filelike
 fungoid
 finishable
+fucales
 fabrication
 foredo
 fenianism
@@ -4803,7 +4804,6 @@ fizziest
 friand
 forefeels
 floggingly
-fucales
 firesideship
 fatso
 flex
