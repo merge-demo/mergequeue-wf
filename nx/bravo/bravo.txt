@@ -2157,7 +2157,6 @@ bidstand
 bagman
 bismar
 bights
-burette
 banteng
 barriers
 banter
@@ -16268,6 +16267,7 @@ bearers
 bednighted
 brownies
 burry
+burette
 beluga
 browniest
 beamlet
