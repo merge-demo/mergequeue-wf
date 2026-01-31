@@ -3968,6 +3968,7 @@ garote
 gatchwork
 gnarls
 gigge
+gaze
 gelatinated
 graphomaniac
 gyro
@@ -6963,7 +6964,6 @@ gobbled
 gloxinias
 gorgeousness
 granophyric
-gaze
 glumous
 gomeral
 galavanted
