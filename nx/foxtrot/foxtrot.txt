@@ -1092,7 +1092,6 @@ farrago
 franchisement
 flichters
 fortuities
-feudaries
 fley
 fleshhood
 foundryman
@@ -6148,6 +6147,7 @@ featness
 fermorite
 fluotitanate
 finger
+feudaries
 funt
 fontange
 folding
