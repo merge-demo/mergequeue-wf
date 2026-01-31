@@ -13458,6 +13458,7 @@ brightsome
 belowstairs
 banderillero
 bakerly
+bastille
 bifaces
 brushlet
 blunts
@@ -16677,7 +16678,6 @@ branchiata
 bardlet
 butterscotch
 bimetalism
-bastille
 brooked
 blacking
 blanketeer
