@@ -1692,6 +1692,7 @@ bupleurol
 ballup
 ballweed
 buglers
+behang
 buried
 besprinkling
 botony
@@ -12478,7 +12479,6 @@ bond
 bipinnatifid
 bondar
 bockerel
-behang
 bonderize
 bonderman
 bankera
