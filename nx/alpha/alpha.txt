@@ -13043,6 +13043,7 @@ ajar
 aeolsklavier
 amphigony
 anilino
+astur
 alone
 ablins
 antonym
@@ -14024,7 +14025,6 @@ agalinis
 abanga
 amassments
 angrier
-astur
 amphisbaenic
 ablegation
 anapests
