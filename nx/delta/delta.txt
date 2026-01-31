@@ -7382,6 +7382,7 @@ dadayag
 deselect
 discount
 detonating
+dilatometer
 decenyl
 detonation
 detonations
@@ -8168,7 +8169,6 @@ devein
 displeasuring
 duellize
 declamatoriness
-dilatometer
 disembodied
 daunton
 deflator
