@@ -8206,7 +8206,6 @@ beatable
 boone
 battailous
 biethnic
-binds
 baryes
 baccar
 burls
@@ -9436,6 +9435,7 @@ butcherer
 bulbocodium
 blinkard
 bebotch
+binds
 bridegroom
 begettal
 blueprinted
