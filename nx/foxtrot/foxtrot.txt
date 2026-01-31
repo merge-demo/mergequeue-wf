@@ -5837,6 +5837,7 @@ flush
 flavins
 finback
 flirt
+faunus
 fixatif
 federalese
 fridstool
@@ -6670,7 +6671,6 @@ fussbudgets
 funereal
 flamless
 furrings
-faunus
 flattened
 fincas
 fumish
