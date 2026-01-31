@@ -5532,7 +5532,6 @@ acetylaminobenzene
 androconium
 aymaran
 admiredly
-anaglyphical
 archtempter
 anathematized
 accusatrixes
@@ -10158,6 +10157,7 @@ absorbition
 assay
 arousing
 astringently
+anaglyphical
 ameiva
 ascidiae
 arquebuses
