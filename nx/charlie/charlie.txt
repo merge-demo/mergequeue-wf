@@ -4019,7 +4019,6 @@ cholinic
 carcajous
 carcanet
 carousel
-cathodoluminescence
 carcases
 crueler
 carcass
@@ -4882,6 +4881,7 @@ carri
 carriageable
 cryptanalytics
 carriageful
+cathodoluminescence
 clachans
 carriages
 crosstie
