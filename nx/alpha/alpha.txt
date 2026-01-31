@@ -4840,7 +4840,6 @@ apopetalous
 amphibiology
 aloma
 anucleated
-ashes
 abrasiveness
 allody
 anthoecology
@@ -17576,6 +17575,7 @@ absampere
 abandonee
 androspore
 antixerophthalmic
+ashes
 appendency
 appendicalgia
 aechmophorus
