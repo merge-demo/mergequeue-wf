@@ -963,7 +963,6 @@ extravagated
 exarillate
 eyelashes
 efreet
-englishhood
 eleve
 ensisternal
 equipping
@@ -12473,6 +12472,7 @@ expiated
 ethicality
 exilement
 escalading
+englishhood
 exility
 exanthem
 educatory
