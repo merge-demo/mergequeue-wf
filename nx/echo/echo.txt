@@ -7156,7 +7156,6 @@ envelopments
 extinguishers
 endpaper
 epidendral
-envelops
 empyesis
 enduing
 encarnalise
@@ -12047,6 +12046,7 @@ exterminatory
 enclasps
 enteria
 earwitness
+envelops
 entice
 excogitator
 expediters
