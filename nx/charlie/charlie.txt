@@ -15124,6 +15124,7 @@ cornucopia
 celature
 casabas
 cladocera
+cleridae
 collarband
 constituent
 cladodial
@@ -16405,7 +16406,6 @@ clit
 clitch
 clite
 counterplea
-cleridae
 clithe
 clithral
 clitia
