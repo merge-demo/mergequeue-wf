@@ -4623,7 +4623,6 @@ easiness
 ethnolinguistics
 embryophagous
 eeriest
-eyedness
 epipodial
 epicerastic
 estradas
@@ -7557,6 +7556,7 @@ earthshattering
 enviously
 externate
 encyc
+eyedness
 elevato
 enravishment
 eunomy

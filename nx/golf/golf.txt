@@ -2916,7 +2916,6 @@ glycol
 garnet
 garlopa
 gaeldom
-geocyclic
 gnat
 guimpes
 gynaecocracies
@@ -7373,6 +7372,7 @@ guerrila
 goings
 galega
 geochronometric
+geocyclic
 gibby
 ghee
 groggery
