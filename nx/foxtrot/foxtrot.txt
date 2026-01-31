@@ -3842,7 +3842,6 @@ filmet
 filmgoers
 fenagle
 fornix
-fraternize
 filming
 firnification
 flannelling
@@ -6362,6 +6361,7 @@ fluidified
 ferromagnet
 flummeries
 farms
+fraternize
 fld
 fragmented
 fedoras
