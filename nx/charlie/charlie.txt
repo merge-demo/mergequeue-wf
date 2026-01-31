@@ -828,7 +828,6 @@ cayenned
 contouring
 cerberus
 corban
-collateralize
 cailcedra
 counterrestoration
 cailliach
@@ -23563,6 +23562,7 @@ continuality
 conchiolin
 cuprites
 continuancy
+collateralize
 clupein
 catholicising
 caughnawaga
