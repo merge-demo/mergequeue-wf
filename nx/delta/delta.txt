@@ -2704,6 +2704,7 @@ decorable
 department
 deist
 dissimulator
+disscepter
 duetto
 decorate
 defenses
@@ -5260,7 +5261,6 @@ dissaving
 dissemblers
 danaro
 diglottic
-disscepter
 distinctly
 dewey
 dysoxidize
