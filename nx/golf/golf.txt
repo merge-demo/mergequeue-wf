@@ -7683,6 +7683,7 @@ gastropyloric
 gaffes
 gaultheria
 gaucy
+gunnysacks
 girdler
 gunsmithery
 gorgonlike
@@ -9381,7 +9382,6 @@ gratility
 gruf
 geophila
 goliad
-gunnysacks
 ghaist
 gyrostat
 gimmick
