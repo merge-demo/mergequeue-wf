@@ -3251,7 +3251,6 @@ gyred
 gutti
 gns
 gigantism
-gametophytic
 goodhearted
 genuses
 graphophone
@@ -4997,6 +4996,7 @@ gripiest
 greekling
 gamdia
 gammaridae
+gametophytic
 guddle
 gnathophorous
 gladioluses
