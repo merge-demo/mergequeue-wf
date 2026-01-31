@@ -3405,7 +3405,6 @@ explanatoriness
 evectic
 emanatist
 excludability
-eranthemum
 epical
 erupt
 enterer
@@ -12370,6 +12369,7 @@ entermise
 ectomere
 exhales
 elihu
+eranthemum
 elderbrotherhood
 etholide
 embace
