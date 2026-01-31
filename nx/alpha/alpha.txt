@@ -11058,7 +11058,6 @@ amphibole
 alkide
 addictive
 analgesis
-aromatizer
 adsorb
 amphiboles
 affliction
@@ -12185,6 +12184,7 @@ antiecclesiastic
 aguardiente
 amphigamae
 alnico
+aromatizer
 araliaceous
 apprehensions
 ambisexual
