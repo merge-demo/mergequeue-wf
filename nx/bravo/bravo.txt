@@ -15292,7 +15292,6 @@ bregmatic
 biwa
 brecken
 blueblaw
-bobtailed
 bridesmaid
 blunges
 bridesmen
@@ -16603,6 +16602,7 @@ backpointers
 beeswing
 baboo
 bsh
+bobtailed
 basipetally
 butyrochloral
 bt
