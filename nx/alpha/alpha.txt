@@ -14951,6 +14951,7 @@ aljama
 abovesaid
 anticonventional
 anticor
+ambience
 anticorrosiveness
 alachah
 abdominals
@@ -16715,7 +16716,6 @@ aphasiacs
 actinulae
 aphasics
 affrayer
-ambience
 anabaptized
 averse
 amylometer
