@@ -3666,6 +3666,7 @@ embossage
 epistylar
 embossed
 embossman
+escalier
 esophagoplegia
 enchantery
 emanent
@@ -6122,7 +6123,6 @@ embolize
 execeptional
 emboly
 exceed
-escalier
 exossate
 exemplificative
 explida
