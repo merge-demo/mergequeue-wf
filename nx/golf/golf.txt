@@ -3373,7 +3373,6 @@ garrulinae
 goog
 giftie
 glucidic
-gaults
 germin
 gymnurine
 gastroparesis
@@ -4628,6 +4627,7 @@ gymnanthes
 glottalize
 gluttonism
 glances
+gaults
 guianan
 gnathobase
 grubstaking
