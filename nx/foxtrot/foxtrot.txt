@@ -683,7 +683,6 @@ folklorish
 fisnoga
 feijoa
 finenesses
-fiancing
 fidate
 frisker
 fossulae
@@ -4589,6 +4588,7 @@ fou
 feculent
 festschrift
 fernsick
+fiancing
 flicking
 flashforwards
 fibrilliferous
