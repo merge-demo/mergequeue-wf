@@ -3162,7 +3162,6 @@ bookcase
 biphase
 brocaded
 basepoint
-behavers
 baser
 blanda
 bayete
@@ -3888,6 +3887,7 @@ butterers
 bullpouts
 bawdrics
 bawdries
+behavers
 boreal
 bawl
 bawler
