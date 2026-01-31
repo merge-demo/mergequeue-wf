@@ -7876,7 +7876,6 @@ cerviconasal
 crotchy
 cervicothoracic
 cosignatory
-cervixes
 cervoid
 cervuline
 cervus
@@ -29303,6 +29302,7 @@ cryptogamical
 cryptogamist
 cryptoglioma
 custody
+cervixes
 cryptogram
 coperiodic
 cryptogrammatic
