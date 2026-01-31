@@ -4142,7 +4142,6 @@ brachiopode
 bodysurfs
 bowmaking
 belladonna
-birches
 beardfishes
 beswarms
 beardy
@@ -11522,6 +11521,7 @@ bluggy
 bethwack
 bombload
 blumes
+birches
 becassocked
 benighting
 borasqueborate
