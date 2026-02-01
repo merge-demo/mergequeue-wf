@@ -12819,7 +12819,6 @@ bigaroon
 bullfice
 bookward
 bookwards
-byronite
 bookworm
 booleys
 bluffer
@@ -16555,6 +16554,7 @@ bequeathal
 barter
 birr
 barful
+byronite
 budzat
 broadpiece
 bisellium
