@@ -10155,7 +10155,6 @@ gal
 gloried
 gallivanting
 graminaceous
-glideness
 gasconading
 guardianly
 git
@@ -10671,6 +10670,7 @@ goatsbane
 glaiketness
 genuflexion
 glottologist
+glideness
 gastroduodenotomy
 gapes
 greatheartedness
