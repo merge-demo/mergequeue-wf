@@ -4151,7 +4151,6 @@ frogflower
 fylgjur
 foolship
 fluctisonant
-feldsparphyre
 fenestellid
 flipperling
 finitely
@@ -7654,6 +7653,7 @@ flays
 forespeak
 fawns
 faradising
+feldsparphyre
 frightenedness
 fulah
 ferricyanic
