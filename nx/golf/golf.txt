@@ -3808,7 +3808,6 @@ giantlike
 gherao
 giarre
 gorgio
-gastaldo
 governing
 grandmotherhood
 gunsmith
@@ -4785,6 +4784,7 @@ gaels
 generableness
 genetics
 gentilitian
+gastaldo
 giuseppe
 gaper
 gamboised
