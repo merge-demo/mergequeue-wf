@@ -26486,7 +26486,6 @@ colorations
 cotton
 cottonbush
 chumpishness
-cogitantly
 commandoes
 crockeries
 ceresine
@@ -28154,6 +28153,7 @@ craniopharyngeal
 code
 craniorhachischisis
 chitlin
+cogitantly
 countercheck
 cranioschisis
 cranioscopy
