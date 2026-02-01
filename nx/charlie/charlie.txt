@@ -10125,6 +10125,7 @@ cyrtosis
 coauthorship
 chevachee
 chevage
+curvant
 careened
 cheval
 chevalets
@@ -22028,7 +22029,6 @@ cionocranial
 confirmation
 confirmational
 confirmations
-curvant
 circumflexion
 confirmatory
 craniosacral
