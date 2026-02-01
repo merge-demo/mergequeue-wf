@@ -2539,7 +2539,6 @@ dwined
 dorn
 dialling
 disjudication
-declass
 dweller
 diachrony
 declassifies
@@ -11972,6 +11971,7 @@ disease
 dialysers
 deductile
 diseased
+declass
 domiculture
 deifying
 discourageable
