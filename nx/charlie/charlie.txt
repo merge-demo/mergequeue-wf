@@ -2499,6 +2499,7 @@ clansmen
 candelabras
 cyprinids
 candelabrum
+conceitless
 corelatively
 candelilla
 cuddliest
@@ -4872,7 +4873,6 @@ cassate
 carracks
 chronobarometer
 carragheenin
-conceitless
 carrat
 carraway
 curveting
