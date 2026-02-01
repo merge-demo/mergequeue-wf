@@ -6532,6 +6532,7 @@ breadstuff
 bewelcome
 bandit
 bavarois
+bursas
 backplanes
 bagel
 bhagat
@@ -9045,7 +9046,6 @@ bionics
 brachyprosopic
 bionomic
 backswordman
-bursas
 bigothero
 batton
 bionomically
