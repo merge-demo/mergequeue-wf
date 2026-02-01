@@ -10849,7 +10849,6 @@ ea
 enemied
 electrosurgical
 esterases
-eluviation
 epitactic
 excitosecretory
 enecate
@@ -13421,6 +13420,7 @@ entrapments
 expounder
 eulogised
 ems
+eluviation
 evaluative
 express
 extralinguistic
