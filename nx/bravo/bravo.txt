@@ -724,6 +724,7 @@ blowsier
 baganda
 bending
 bandsawing
+bradypodoid
 badging
 buddhism
 bifrost
@@ -6811,7 +6812,6 @@ babist
 berthed
 bronzelike
 bushbashing
-bradypodoid
 bluehearts
 bedizen
 bertie
