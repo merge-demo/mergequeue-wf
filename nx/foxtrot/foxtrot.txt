@@ -1047,6 +1047,7 @@ fissidactyl
 fumosity
 feverweed
 fenny
+foxer
 fragmentalize
 flatboats
 finalists
@@ -3859,7 +3860,6 @@ frocklike
 filigreeing
 formosan
 forestall
-foxer
 figo
 faunule
 filmstrips
