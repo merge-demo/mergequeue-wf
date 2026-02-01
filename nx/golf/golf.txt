@@ -2213,6 +2213,7 @@ gaster
 goodbyes
 ganefs
 greenalite
+gager
 generosities
 galactohemia
 gallicization
@@ -7595,7 +7596,6 @@ gedeckt
 gelatiniferous
 grounded
 generability
-gager
 glycosyls
 gypsywort
 gleewoman
