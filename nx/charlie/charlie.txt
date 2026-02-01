@@ -5711,7 +5711,6 @@ cataphracted
 caried
 cataphractic
 cataphrenia
-cataphrenic
 choraleon
 cataphrygianism
 cataplasia
@@ -27439,6 +27438,7 @@ curably
 capillament
 colauxe
 cousinhood
+cataphrenic
 centesimation
 chlorosulphonic
 curupira
