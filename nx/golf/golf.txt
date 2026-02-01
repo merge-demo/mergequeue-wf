@@ -394,7 +394,6 @@ goffering
 growl
 galeage
 gair
-glucic
 gamosepalous
 gardenable
 gooseflesh
@@ -7112,6 +7111,7 @@ gurney
 grumpily
 gentiledom
 gercrow
+glucic
 gimp
 grottos
 glossorrhaphy

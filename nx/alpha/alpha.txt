@@ -5137,7 +5137,6 @@ acrochordon
 antitangent
 autopoint
 aloeswood
-affection
 arbutinase
 amiable
 affectional
@@ -10625,6 +10624,7 @@ animosities
 anabolitic
 agrammaphasia
 alevins
+affection
 awunctive
 amire
 anthracometric
