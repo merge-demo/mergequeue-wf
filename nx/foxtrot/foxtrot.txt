@@ -2709,7 +2709,6 @@ freshes
 fluocerite
 firmless
 fluviatic
-feedings
 feeding
 fakers
 fainaigue
@@ -10294,6 +10293,7 @@ filite
 floated
 fissure
 foreslack
+feedings
 froggies
 freezed
 froggish
