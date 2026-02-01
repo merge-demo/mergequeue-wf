@@ -9587,6 +9587,7 @@ bumbler
 backyarder
 bothridium
 barque
+bryophyllum
 burucha
 boeotia
 bogue
@@ -10644,7 +10645,6 @@ belemnite
 budgetful
 blazonment
 billage
-bryophyllum
 blurriness
 bladders
 bombardo
