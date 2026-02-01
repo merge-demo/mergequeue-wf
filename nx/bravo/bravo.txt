@@ -11743,6 +11743,7 @@ bobcats
 bipeds
 bakes
 buddles
+branchiobdella
 beboss
 bardolatry
 birthmate
@@ -17096,7 +17097,6 @@ bulleted
 byepath
 bequeather
 bayard
-branchiobdella
 bulletlike
 burghmote
 breadseller
