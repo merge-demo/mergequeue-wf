@@ -3725,6 +3725,7 @@ battings
 battledores
 bywork
 bloops
+beauticians
 barotraumata
 bornean
 battlefronts
@@ -12912,7 +12913,6 @@ boorishness
 bulldog
 bertrandite
 blondes
-beauticians
 burst
 bromizes
 bruin
