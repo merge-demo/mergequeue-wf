@@ -2208,7 +2208,6 @@ entozoologist
 examination
 elderberries
 exaggeration
-epimedium
 equips
 erythemic
 extromit
@@ -7043,6 +7042,7 @@ elwood
 enema
 ecdemite
 easily
+epimedium
 epifaunal
 eclipsing
 endjunk
