@@ -4187,7 +4187,6 @@ grotzen
 guaranin
 gainful
 gyrocompass
-gundogs
 gur
 gnathites
 galahs
@@ -4846,6 +4845,7 @@ gynerium
 goldenback
 gigmaness
 guaharibo
+gundogs
 glacieret
 ghanian
 gouaches
