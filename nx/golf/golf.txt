@@ -7782,6 +7782,7 @@ gauloiserie
 guld
 gynecicgynecidal
 glycinin
+gnathoplasty
 gyroidal
 graped
 graveling
@@ -10213,7 +10214,6 @@ gyrectomies
 gabelles
 galluses
 groundsel
-gnathoplasty
 garrisoned
 geotonus
 gasworker
