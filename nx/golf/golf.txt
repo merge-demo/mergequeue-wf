@@ -1697,7 +1697,6 @@ glans
 guarantying
 grieflessness
 gazetteerish
-glories
 gane
 grassquit
 glaciation
@@ -9801,6 +9800,7 @@ glutaeous
 grumphie
 graverobber
 guesstimates
+glories
 gastightness
 grise
 gonangiums
