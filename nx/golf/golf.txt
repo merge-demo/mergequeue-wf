@@ -6121,6 +6121,7 @@ gastromancy
 grogging
 gnetales
 gude
+glucoses
 genethliacs
 gastrogenous
 gravities
@@ -9616,7 +9617,6 @@ gneissoid
 galesaurus
 growan
 gasboat
-glucoses
 gravelike
 gossiphood
 gerbe
