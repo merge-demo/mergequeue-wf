@@ -89,7 +89,6 @@ cabby
 converters
 collocal
 cabbie
-crenelate
 cabble
 cosec
 cabbler
@@ -18833,6 +18832,7 @@ cyesiology
 colegislator
 coalfish
 complaintive
+crenelate
 conodonts
 chintzy
 chaplet
