@@ -3220,7 +3220,6 @@ exciple
 energised
 elegiacally
 electromagnets
-empanelled
 endoscopy
 earthsmoke
 eloigning
@@ -6407,6 +6406,7 @@ equisonant
 ensemble
 engastrimyth
 engrained
+empanelled
 expediency
 enanguish
 epitheliosis
