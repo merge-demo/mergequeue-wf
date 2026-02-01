@@ -5744,7 +5744,6 @@ ghillies
 gnomide
 glossocele
 graian
-gummoses
 gantline
 gallant
 guanyl
@@ -7547,6 +7546,7 @@ giggling
 gloomfully
 glossopharyngeal
 guessable
+gummoses
 glottalized
 geopolitist
 grommets
