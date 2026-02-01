@@ -1154,6 +1154,7 @@ ejectee
 enarm
 epacts
 elhi
+exophthalmic
 eikons
 eupepsia
 environage
@@ -5991,7 +5992,6 @@ enigmatizing
 enigmatographer
 encyclopaedic
 erogenic
-exophthalmic
 envenoming
 excreter
 enisles

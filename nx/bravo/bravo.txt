@@ -16029,7 +16029,6 @@ backstitching
 bronchorrhaphy
 bronchorrhea
 bronchos
-bronchoscopic
 bluffable
 balkier
 breastsummer
@@ -17391,6 +17390,7 @@ bodies
 bombyciform
 britzskas
 beshield
+bronchoscopic
 boppers
 bunk
 benzanilide
