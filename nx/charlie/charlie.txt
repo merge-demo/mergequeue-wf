@@ -5987,7 +5987,6 @@ chouanize
 caryatid
 catfoot
 catfooted
-chhatri
 catgut
 chancellorism
 catha
@@ -28695,6 +28694,7 @@ creole
 creolian
 creolism
 creolite
+chhatri
 cohob
 chobie
 cyclanthales
