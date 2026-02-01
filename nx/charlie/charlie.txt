@@ -8208,7 +8208,6 @@ clinanthium
 cynips
 cordaitalean
 claxons
-chairmaking
 chairmaning
 chattack
 chairmanning
@@ -22432,6 +22431,7 @@ coniferae
 castrato
 coniferin
 coniferophyte
+chairmaking
 cuppier
 creakily
 cordiner
