@@ -8512,7 +8512,6 @@ bilinguar
 blearing
 balks
 berycine
-bijoux
 brushet
 bebouldered
 braillist
@@ -12711,6 +12710,7 @@ bane
 bellical
 buhrs
 bec
+bijoux
 bolivares
 bunion
 bestraddling
