@@ -8938,7 +8938,6 @@ crenelet
 concisest
 concyclic
 charco
-charcoal
 crutches
 caramboled
 cynophilist
@@ -20364,6 +20363,7 @@ choruser
 compactile
 couseranite
 catholicoses
+charcoal
 communized
 commutable
 canada
