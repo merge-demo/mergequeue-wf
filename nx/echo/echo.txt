@@ -7267,7 +7267,6 @@ enfin
 endodontium
 electrotropic
 ephemeromorphic
-eupnoeas
 exudate
 etherolate
 equilocation
@@ -11353,6 +11352,7 @@ excursing
 endue
 eluder
 effluences
+eupnoeas
 eliquated
 empyrean
 evaporations
