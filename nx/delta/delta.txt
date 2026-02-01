@@ -394,7 +394,6 @@ drinker
 dairywomen
 daunder
 dictates
-descanting
 deities
 drawtubes
 dodrantal
@@ -14382,6 +14381,7 @@ dutcher
 ditrochean
 dynastical
 debrided
+descanting
 deign
 dottling
 decimestrial
