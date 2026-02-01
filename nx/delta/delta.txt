@@ -12756,7 +12756,6 @@ divel
 drafty
 dialysing
 decodings
-declaring
 disliking
 doubleness
 daut
@@ -16892,6 +16891,7 @@ discriminations
 decilitre
 didodecahedral
 doubletone
+declaring
 dichromate
 damewort
 danize
