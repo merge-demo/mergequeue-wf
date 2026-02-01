@@ -1783,7 +1783,6 @@ delamination
 dilation
 desmoscolex
 debark
-digamist
 debarkment
 defet
 degauss
@@ -15710,6 +15709,7 @@ doucet
 demiturned
 disgig
 dawcock
+digamist
 dacryocystocele
 doricism
 deflectometer

@@ -3916,7 +3916,6 @@ excedent
 ectropionizing
 extracted
 endometry
-electroculture
 emictory
 exotheca
 englishmen
@@ -6878,6 +6877,7 @@ episternalia
 extramental
 eumenes
 ectosarcs
+electroculture
 elix
 eyeless
 equestriennes
