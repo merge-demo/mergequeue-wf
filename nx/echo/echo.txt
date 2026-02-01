@@ -7109,6 +7109,7 @@ enhancement
 ephods
 enheritance
 exclamation
+excitons
 engilded
 evangely
 enzymolytic
@@ -11997,7 +11998,6 @@ ententes
 emergence
 ejaculations
 excellently
-excitons
 eliminant
 embosses
 excitovascular
