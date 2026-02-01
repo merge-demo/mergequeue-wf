@@ -9545,6 +9545,7 @@ adobe
 aition
 artifacts
 aluminose
+anomala
 aluminothermy
 acrotarsial
 austerity
@@ -13355,7 +13356,6 @@ arachnephobia
 aristulate
 archphylarch
 among
-anomala
 albinistic
 anlagen
 assigners
