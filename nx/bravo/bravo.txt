@@ -3406,6 +3406,7 @@ bays
 bandstands
 basiophthalmous
 baviere
+buncoed
 botrychium
 bassy
 besieges
@@ -8665,7 +8666,6 @@ bistriate
 bounceable
 begorah
 baseness
-buncoed
 bebization
 brochette
 balcone
