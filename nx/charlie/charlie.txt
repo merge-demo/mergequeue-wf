@@ -1767,7 +1767,6 @@ cavilers
 cremule
 caltha
 chronographic
-caltrap
 caltraps
 cervicolingual
 contrafocal
@@ -15212,6 +15211,7 @@ centupled
 congeals
 coproprietor
 consumables
+caltrap
 colourers
 cacothelin
 claimers
