@@ -742,7 +742,6 @@ badinages
 bearcoot
 buddie
 bathyorographical
-badiner
 bistroic
 birt
 badious
@@ -7453,6 +7452,7 @@ balinese
 bobbery
 beaners
 ballyragged
+badiner
 bact
 boithrin
 betted
