@@ -7470,7 +7470,6 @@ galactoscope
 geneticists
 graving
 germen
-ghbor
 groundswells
 gonococcal
 grithbreach
@@ -10379,6 +10378,7 @@ gullies
 groans
 gelatinising
 geometricians
+ghbor
 goujon
 gullying
 gothism
