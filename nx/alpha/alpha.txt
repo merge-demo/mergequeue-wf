@@ -10268,6 +10268,7 @@ antisensitizer
 antidancing
 audio
 americanly
+aglossal
 aguroth
 alacriously
 adlumia
@@ -22899,7 +22900,6 @@ atomised
 archtreasurership
 atomism
 atabek
-aglossal
 adance
 analgesic
 applicabilities
