@@ -830,7 +830,6 @@ eternalness
 eggcupful
 emotionalization
 erugatory
-exadverso
 endosulfan
 embeddable
 exodus
@@ -5707,6 +5706,7 @@ emplanement
 exogastric
 erythrocyte
 endoconidium
+exadverso
 emeu
 entempest
 erythrocytoblast
