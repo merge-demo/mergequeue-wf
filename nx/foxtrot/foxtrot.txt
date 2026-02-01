@@ -2990,6 +2990,7 @@ filialness
 frogmarch
 foozled
 fac
+freshing
 flaked
 formulist
 fortunite
@@ -10615,7 +10616,6 @@ fresh
 fibromatoid
 faverel
 forensical
-freshing
 falding
 foreland
 foughty
