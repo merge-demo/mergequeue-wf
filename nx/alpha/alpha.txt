@@ -12796,7 +12796,6 @@ apostil
 adendric
 anglehook
 aphthitalite
-avigation
 anglepod
 anglepods
 amianthine
@@ -20679,6 +20678,7 @@ arthrospore
 arthrostome
 arthrostomy
 amelioration
+avigation
 almohade
 aboideaus
 arthrotome
