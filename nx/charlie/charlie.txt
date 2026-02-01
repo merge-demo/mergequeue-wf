@@ -8155,6 +8155,7 @@ chagigah
 creatureship
 colorless
 concubitant
+cloudiness
 canorousness
 commiphora
 chagrining
@@ -16791,7 +16792,6 @@ colouristic
 couthy
 crinoids
 cloudily
-cloudiness
 clouding
 centimeter
 coeliorrhoea
