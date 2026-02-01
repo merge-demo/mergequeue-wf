@@ -1478,7 +1478,6 @@ arraignment
 avoidance
 archoplasma
 aularian
-acclinal
 adhesivemeter
 autopolyploidy
 acclinate
@@ -14530,6 +14529,7 @@ adoretus
 anelace
 angular
 abjudging
+acclinal
 anthropotheist
 androcephalum
 anilinctus
