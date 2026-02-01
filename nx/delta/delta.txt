@@ -9814,6 +9814,7 @@ denaturiser
 decence
 discovery
 decider
+downshore
 danewort
 delatinize
 dentinoid
@@ -16285,7 +16286,6 @@ dispeace
 downriver
 didelphidae
 diagnostically
-downshore
 disvalue
 dephlegmatize
 dibbler

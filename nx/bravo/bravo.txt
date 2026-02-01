@@ -1543,6 +1543,7 @@ batts
 biophore
 balsawood
 brutalization
+bass
 bichromated
 bambuseae
 bezel
@@ -3383,7 +3384,6 @@ bottlesful
 byordinary
 basophilic
 basques
-bass
 brans
 bassa
 balaenicipites
