@@ -10174,7 +10174,6 @@ earthlike
 extrusible
 ecthlipses
 endorses
-etherealness
 erasion
 emancipates
 explicans
@@ -12788,6 +12787,7 @@ extols
 exosmose
 exosmotic
 excarnation
+etherealness
 emaciation
 explicative
 edaphosaurid
