@@ -857,7 +857,6 @@ gravemaster
 geologer
 guessworker
 gleaminess
-glutethimide
 genic
 gangrels
 gobioid
@@ -5624,6 +5623,7 @@ garuda
 ginks
 gravestone
 gunks
+glutethimide
 goller
 giantesque
 gemmaceous
