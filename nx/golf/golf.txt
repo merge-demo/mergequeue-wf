@@ -1493,7 +1493,6 @@ garotted
 goutish
 gaolage
 glairing
-guaxima
 gerbille
 gorlin
 grote
@@ -9620,6 +9619,7 @@ growan
 gasboat
 gravelike
 gossiphood
+guaxima
 gerbe
 geums
 gedanite
