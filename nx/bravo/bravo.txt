@@ -8348,7 +8348,6 @@ banket
 bigheaded
 balanoglossida
 blastostylar
-balk
 brusque
 blastocarpous
 bantings
@@ -17245,6 +17244,7 @@ boltings
 birddom
 brookie
 braguette
+balk
 brite
 baubles
 blotched
