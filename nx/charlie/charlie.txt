@@ -17920,7 +17920,6 @@ codiaceae
 chromodermatosis
 codiales
 codical
-chlamys
 cyrano
 ceraceous
 camas
@@ -30983,6 +30982,7 @@ cumberland
 cumbrian
 chnuphis
 cherkesser
+chlamys
 cycloidean
 counterflight
 clinchpoop
