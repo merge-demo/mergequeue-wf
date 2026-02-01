@@ -1225,7 +1225,6 @@ giddy
 grogged
 glucid
 gooding
-garbill
 guyline
 gradings
 gabelled
@@ -9692,6 +9691,7 @@ grandstander
 grammatophyllum
 gaucheries
 griffaun
+garbill
 generals
 gangplanks
 grudging
