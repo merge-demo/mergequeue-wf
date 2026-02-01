@@ -3945,6 +3945,7 @@ aqueity
 apologer
 adjutrice
 ambassage
+alphean
 ameba
 affirm
 amelification
@@ -18547,7 +18548,6 @@ ademonist
 arbust
 arbusta
 analytics
-alphean
 acanthopterygian
 anthropomorphite
 abrogates
