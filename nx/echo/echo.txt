@@ -464,7 +464,6 @@ emmeniopathy
 erythrinus
 echowise
 ebulliate
-essera
 exomphalus
 entocondyle
 emergentness
@@ -654,6 +653,7 @@ emerald
 eclamptic
 ecstatics
 etymonic
+endometriosis
 ellipses
 epizoite
 electioneering
@@ -4791,7 +4791,6 @@ emeried
 ecu
 epencephalon
 emboite
-erosiveness
 enscrolling
 elator
 enclosures
@@ -6489,7 +6488,6 @@ entrepeneur
 ensorrow
 encumberment
 ectodactylism
-endometriosis
 enterocoela
 eurypteroidea
 ensoul
@@ -9347,6 +9345,7 @@ embue
 estramazone
 electroethereal
 effusiveness
+essera
 escribiente
 enhancer
 engulf
@@ -12015,6 +12014,7 @@ eupanorthidae
 eryngium
 everyone
 egocentric
+erosiveness
 expy
 enterfeat
 equatable
