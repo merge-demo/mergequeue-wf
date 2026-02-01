@@ -12625,7 +12625,6 @@ catheterise
 countercultures
 chronometric
 chronometrically
-chronon
 choppily
 chronons
 ceile
@@ -23736,6 +23735,7 @@ cacophonist
 coyote
 crimped
 constructional
+chronon
 cataphoretically
 canulate
 cherogril
