@@ -7261,6 +7261,7 @@ bladdernut
 bestrewment
 besnow
 bostonite
+belles
 basses
 bestridden
 blueberry
@@ -15308,7 +15309,6 @@ bosk
 basaltware
 ballaton
 bullying
-belles
 bastian
 bioinstrument
 bridewell
