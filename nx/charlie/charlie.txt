@@ -3630,7 +3630,6 @@ capucine
 catalepsy
 capulet
 capulin
-chemosmotic
 caque
 condemnor
 chewiest
@@ -4147,6 +4146,7 @@ carport
 counterrevolution
 cyanometric
 chattertonian
+chemosmotic
 coolerman
 cardiasthenia
 coarsen
