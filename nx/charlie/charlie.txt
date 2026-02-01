@@ -3752,6 +3752,7 @@ cassabanana
 contraplete
 carapidae
 cineastes
+canard
 clawlike
 carapine
 canvasback
@@ -30394,7 +30395,6 @@ coppersidesman
 crustific
 crustose
 choloid
-canard
 coroutine
 crusts
 custard
