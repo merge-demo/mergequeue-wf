@@ -338,7 +338,6 @@ gobiid
 glossophaga
 gantlets
 galvanography
-graftdom
 graphed
 gorefish
 gangrenous
@@ -4169,6 +4168,7 @@ gasbag
 ginnle
 goodwily
 gerontological
+graftdom
 gazee
 geegaws
 gramicidin
