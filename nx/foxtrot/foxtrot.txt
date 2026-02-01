@@ -790,7 +790,6 @@ flavoury
 fanciless
 floundered
 fallows
-fandangos
 ferried
 fellowlike
 flamers
@@ -9923,6 +9922,7 @@ freehold
 flavanthrone
 fossulet
 feterita
+fandangos
 fosh
 fibroneuroma
 frickle
