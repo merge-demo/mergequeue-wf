@@ -2870,7 +2870,6 @@ globeflower
 galvvanoscopy
 gnatsnap
 gibbing
-genuflex
 glyptal
 golkakra
 gynaeceum
@@ -4342,6 +4341,7 @@ gravedo
 griping
 gurgulio
 goldbricker
+genuflex
 goodwillie
 guying
 gauge
