@@ -8044,7 +8044,6 @@ aciduric
 aquicolous
 algernon
 assassinator
-algesiometer
 algidity
 algidities
 algidness
@@ -17436,6 +17435,7 @@ apologizer
 abominating
 aloisiite
 aulu
+algesiometer
 appendence
 asserted
 athyris
