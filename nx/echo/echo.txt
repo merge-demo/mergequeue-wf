@@ -10400,6 +10400,7 @@ ethnohistoric
 elephantine
 enquired
 explain
+eurygaea
 etwite
 event
 ethnolinguist
@@ -13903,7 +13904,6 @@ etheria
 expective
 extrameridional
 electoral
-eurygaea
 extrametrical
 eccl
 extolment
