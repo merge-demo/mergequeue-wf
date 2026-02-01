@@ -2443,7 +2443,6 @@ fobbed
 festivities
 fulgurous
 frizzle
-fingered
 farandola
 flutterable
 fiel
@@ -7275,6 +7274,7 @@ flites
 forthteller
 fleshling
 floodways
+fingered
 footless
 fishfall
 footlights
