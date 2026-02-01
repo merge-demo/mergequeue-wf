@@ -4813,7 +4813,6 @@ carpocephala
 canicular
 caryotins
 carpocerite
-calcicole
 carpocratian
 carpogam
 carpogamy
@@ -7934,6 +7933,7 @@ cesta
 cestidae
 cestodes
 cartload
+calcicole
 coronize
 cestoidean
 cestoids
