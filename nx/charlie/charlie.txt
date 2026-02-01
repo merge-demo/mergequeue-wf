@@ -6154,7 +6154,6 @@ calendared
 catogenic
 categorizing
 cheesemongerly
-catonically
 cli
 catoptric
 canaan
@@ -11658,6 +11657,7 @@ counterround
 choleras
 civilising
 cervelases
+catonically
 choleriform
 cholerigenous
 chelicerate
