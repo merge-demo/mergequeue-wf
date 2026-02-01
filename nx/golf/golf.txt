@@ -582,7 +582,6 @@ gigue
 galactose
 galbulinae
 germanophile
-glockenspiels
 guineas
 gorgoniacea
 ghostweed
@@ -7502,6 +7501,7 @@ gentilities
 gonorrhoea
 groundably
 groundwater
+glockenspiels
 gazing
 gallflies
 gulpy
