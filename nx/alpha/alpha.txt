@@ -633,6 +633,7 @@ allegories
 accommodation
 accountment
 abolish
+angling
 autovaccine
 abolished
 aves
@@ -1845,7 +1846,6 @@ atridean
 adolesced
 aceraceous
 acerae
-angling
 acerate
 acerated
 antistater
