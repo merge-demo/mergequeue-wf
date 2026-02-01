@@ -3363,7 +3363,6 @@ capo
 chaufers
 coughweed
 cheesecutter
-capocchia
 capoche
 chrysomelidae
 coarctation
@@ -30705,6 +30704,7 @@ cuemen
 calantas
 cardiographs
 cues
+capocchia
 capitulating
 cuffyism
 conification
