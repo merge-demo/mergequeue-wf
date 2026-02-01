@@ -7534,7 +7534,6 @@ beverse
 brachet
 bac
 bogota
-barbets
 blastocolla
 balsamweed
 barrelmaking
@@ -13784,6 +13783,7 @@ boutons
 billback
 burdalone
 barrelful
+barbets
 boulle
 brigous
 bouw
