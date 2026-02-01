@@ -5415,6 +5415,7 @@ forereach
 flamelike
 front
 formonitrile
+fustians
 festoons
 ferry
 faitery
@@ -11243,7 +11244,6 @@ funiform
 feasten
 fleeing
 fricandeau
-fustians
 flexibly
 flashcubes
 formful
