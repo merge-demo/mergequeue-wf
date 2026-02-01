@@ -1659,6 +1659,7 @@ egresses
 emboldening
 extraphysiological
 expounded
+emborder
 egret
 exsanguine
 egromancy
@@ -2724,7 +2725,6 @@ eyra
 emmanuel
 executorship
 endotoxoid
-emborder
 enfant
 earthen
 eudaemonics
