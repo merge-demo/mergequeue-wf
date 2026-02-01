@@ -6253,6 +6253,7 @@ galactosan
 gyse
 grapples
 goatsbeard
+guppy
 gwyniad
 giglot
 gliders
@@ -8725,7 +8726,6 @@ guaconize
 guttled
 gawkier
 guttling
-guppy
 greekize
 gastraeal
 gnathonical
