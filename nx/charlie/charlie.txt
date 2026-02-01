@@ -25180,6 +25180,7 @@ coriaceous
 coriamyrtin
 corianders
 conditional
+currying
 cuttlebones
 cancerogenic
 cycled
@@ -31508,7 +31509,6 @@ curryfavour
 campstools
 curriing
 cornea
-currying
 curricla
 conchologize
 currijong
