@@ -6215,7 +6215,6 @@ flatterers
 familiarised
 frettation
 filical
-fribbling
 fitchering
 forlornly
 frowardly
@@ -7867,6 +7866,7 @@ filchingly
 foreordinate
 fanfoot
 fudge
+fribbling
 filterman
 follies
 fenzelia
