@@ -3244,7 +3244,6 @@ barkpeel
 biltong
 boastive
 basigynium
-basilarchia
 brachypleural
 beware
 birdcalls
@@ -3642,6 +3641,7 @@ birlinn
 batiks
 bodysurfed
 bolting
+basilarchia
 bosnian
 beastly
 batlet
