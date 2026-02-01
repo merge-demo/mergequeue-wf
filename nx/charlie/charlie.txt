@@ -18709,6 +18709,7 @@ coinclination
 chaotic
 coinsuring
 cointense
+capacitator
 codesigns
 crispy
 countermeasures
@@ -23757,7 +23758,6 @@ contrapositives
 contraproposal
 contraption
 contraptions
-capacitator
 compressional
 coadmires
 contrapuntally
