@@ -8206,7 +8206,6 @@ copartners
 choriomas
 cryptarch
 cardiovisceral
-chairing
 carpetbagging
 clinanthium
 cynips
@@ -12064,6 +12063,7 @@ champlev
 crisp
 countermachination
 crusca
+chairing
 caruage
 casal
 chorussed
