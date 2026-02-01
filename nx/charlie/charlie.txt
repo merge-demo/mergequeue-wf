@@ -3629,6 +3629,7 @@ capucine
 catalepsy
 capulet
 capulin
+chemosmotic
 caque
 condemnor
 chewiest
@@ -9906,7 +9907,6 @@ chemosynthesis
 chemosynthetic
 chemosmoses
 carwashes
-chemosmotic
 consumptible
 calpacks
 caleches
