@@ -5219,7 +5219,6 @@ arnica
 assisan
 agency
 acrosome
-axis
 atelic
 anthropomorphously
 apartments
@@ -5766,6 +5765,7 @@ agen
 achiote
 acculturizing
 archfelon
+axis
 advocation
 ampyx
 agendas
