@@ -986,7 +986,6 @@ epoxied
 entada
 ethnarch
 ecttypal
-enrolls
 equates
 exploit
 exeresis
@@ -3439,6 +3438,7 @@ erythrophyll
 enteralgia
 epicnemial
 elaeodendron
+enrolls
 euphroe
 equiangular
 emphemeralness
