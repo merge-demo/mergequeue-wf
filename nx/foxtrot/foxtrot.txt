@@ -7421,7 +7421,6 @@ fructed
 favelloid
 fishier
 fleeched
-followeth
 fixation
 freycinetia
 feeing
@@ -9612,6 +9611,7 @@ furcraeas
 frazer
 feudalizing
 frist
+followeth
 findfault
 fullers
 fotui
