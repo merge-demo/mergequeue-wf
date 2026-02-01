@@ -531,7 +531,6 @@ allocable
 angulation
 abjurement
 astrain
-abjurer
 abjurers
 abkari
 afrikanderism
@@ -22937,6 +22936,7 @@ atramentous
 almonds
 avowedness
 atremata
+abjurer
 atrematous
 arachnids
 ahriman
