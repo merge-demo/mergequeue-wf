@@ -655,6 +655,7 @@ ecstatics
 etymonic
 endometriosis
 ellipses
+engore
 epizoite
 electioneering
 engagingly
@@ -11926,7 +11927,6 @@ endotheliolysin
 enfume
 errors
 emends
-engore
 eccritic
 enami
 euploeinae
