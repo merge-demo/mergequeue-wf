@@ -1798,7 +1798,6 @@ gastrocolostomy
 geodesia
 gold
 gthite
-geosynchronous
 giddies
 gregor
 generativeness
@@ -5292,6 +5291,7 @@ greeds
 gamecraft
 gombroons
 gentilic
+geosynchronous
 gravitative
 gammer
 gluiest
