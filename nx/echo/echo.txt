@@ -6772,7 +6772,6 @@ eurytherm
 epistrophy
 edaphic
 exhusband
-effume
 ectosomal
 extratarsal
 exsuperate
@@ -10949,6 +10948,7 @@ equilibrations
 esclandre
 exsolve
 emendations
+effume
 entrefer
 exrupeal
 emmetropia
