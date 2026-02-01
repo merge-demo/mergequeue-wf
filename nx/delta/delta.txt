@@ -1674,7 +1674,6 @@ dedendum
 dyne
 deposition
 deadeners
-dephysicalization
 decrementless
 dihalogen
 delineator
@@ -17219,6 +17218,7 @@ drivership
 drives
 dredgings
 disulfate
+dephysicalization
 diuturnal
 driveway
 demy
