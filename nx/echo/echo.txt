@@ -5695,6 +5695,7 @@ eagerest
 engallant
 enshielding
 exameter
+extralinguistic
 emplanement
 exogastric
 erythrocyte
@@ -13423,7 +13424,6 @@ ems
 eluviation
 evaluative
 express
-extralinguistic
 eudaemonical
 empire
 epicoelian
