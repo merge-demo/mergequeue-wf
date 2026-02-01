@@ -4987,6 +4987,7 @@ benweed
 beylik
 bemoaning
 bullragged
+brantail
 befits
 beerhouse
 breech
@@ -13649,7 +13650,6 @@ booklore
 blousy
 blepharophyma
 blockaders
-brantail
 bounded
 braveness
 bezesteen

@@ -9904,7 +9904,6 @@ andorite
 anthracemia
 ambidextral
 accusation
-andrenid
 avidya
 ambidextrously
 autarkikal
@@ -23147,6 +23146,7 @@ agnominal
 aaronitic
 aggressor
 accouple
+andrenid
 annunciable
 anathematiser
 analytic
