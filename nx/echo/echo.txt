@@ -1918,7 +1918,6 @@ eyoty
 endamage
 everwho
 eightball
-eir
 eclat
 eptatretidae
 eyrant
@@ -6789,6 +6788,7 @@ environmentally
 eyelids
 endogamy
 electrotechnics
+eir
 erythraemia
 entreasure
 emerit
