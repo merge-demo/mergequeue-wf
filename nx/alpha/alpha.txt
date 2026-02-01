@@ -19909,7 +19909,6 @@ armlessness
 armlets
 aiguellette
 asymbiotic
-aeolis
 armlock
 autoconvection
 armoracia
@@ -19983,6 +19982,7 @@ aborsement
 afterclap
 armseye
 actuators
+aeolis
 abatjour
 afoam
 aals
