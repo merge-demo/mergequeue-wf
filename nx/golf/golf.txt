@@ -3610,7 +3610,6 @@ gulden
 goniaster
 gabarit
 gnomelike
-gnosis
 glyphs
 glutinose
 gyrocar
@@ -8802,6 +8801,7 @@ gabbai
 gentilism
 glyceryls
 gravel
+gnosis
 genuflects
 giantesses
 greensickness
