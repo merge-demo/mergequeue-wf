@@ -970,7 +970,6 @@ gemmed
 gainsay
 gadoids
 gabgab
-gorgons
 generously
 gordunite
 gangamopteris
@@ -9941,6 +9940,7 @@ gymnoblastea
 golding
 geeks
 garrisoning
+gorgons
 guanine
 gaveling
 greith
