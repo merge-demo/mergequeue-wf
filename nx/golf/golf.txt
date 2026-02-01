@@ -747,7 +747,6 @@ gutter
 gasmetophytic
 gallbladders
 gluck
-galvanothermometer
 ggr
 galliformes
 ginneries
@@ -8536,6 +8535,7 @@ glomerule
 gayal
 gravelish
 guardian
+galvanothermometer
 gulpers
 gabling
 gurging
