@@ -5234,7 +5234,6 @@ forestalment
 foxhounds
 flowerers
 flasker
-foretooth
 foreshock
 fossilage
 fellifluous
@@ -8267,6 +8266,7 @@ flavines
 falsifications
 frontwise
 foresweat
+foretooth
 formamidine
 fesse
 forgeable
