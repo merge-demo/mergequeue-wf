@@ -5545,7 +5545,6 @@ brawly
 bilineated
 breeziest
 bilharzic
-bierstubes
 barbettes
 burgeoned
 bejewel
@@ -18209,6 +18208,7 @@ boredness
 barium
 borated
 beyond
+bierstubes
 butterfat
 bandages
 bushwhacks
