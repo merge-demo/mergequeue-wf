@@ -6350,7 +6350,6 @@ diaereses
 darnix
 defamed
 dreaminess
-dermotropic
 dastardliness
 derms
 dimethoate
@@ -15272,6 +15271,7 @@ decelerate
 droopt
 diurnation
 diamylose
+dermotropic
 dd
 diluviums
 desubstantiate
