@@ -6154,6 +6154,7 @@ dowsabels
 delapsion
 dereistic
 diathesis
+detectivism
 derelicts
 demast
 droshkies
@@ -15365,7 +15366,6 @@ digitisation
 domiciliate
 doomed
 demineralizer
-detectivism
 doyen
 domification
 dissentaneous
