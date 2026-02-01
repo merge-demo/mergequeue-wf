@@ -5154,7 +5154,6 @@ advocacies
 affectivity
 affector
 accoast
-affeerer
 ankerite
 almendron
 ampulated
@@ -22826,6 +22825,7 @@ annulling
 apropos
 atloid
 atloidean
+affeerer
 astonished
 adsorbates
 atma
