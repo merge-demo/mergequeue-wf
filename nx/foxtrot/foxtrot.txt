@@ -83,7 +83,6 @@ fiendish
 flagrantness
 famousness
 florification
-facetely
 froufrous
 forebitten
 fairyfolk
@@ -2987,6 +2986,7 @@ fossane
 fencing
 forereaching
 floccipend
+facetely
 fordeal
 fiance
 flyoff
