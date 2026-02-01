@@ -6209,7 +6209,6 @@ agrapha
 agraphia
 anuran
 agraphic
-arcato
 accidentalism
 acrocyanosis
 aylet
@@ -13009,6 +13008,7 @@ anidiomatical
 aromatized
 achromatic
 angioma
+arcato
 antivaccinator
 aniente
 anigh
