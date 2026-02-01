@@ -3229,7 +3229,6 @@ electromagnets
 endoscopy
 earthsmoke
 eloigning
-enactment
 euryte
 eloine
 eloiners
@@ -9635,6 +9634,7 @@ extrinsicate
 edestan
 expressing
 epilabrum
+enactment
 erysiphe
 emigrated
 emptory
