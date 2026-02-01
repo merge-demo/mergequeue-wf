@@ -3847,6 +3847,7 @@ flyflap
 freon
 ferritization
 friponerie
+fluidglycerate
 fertilizes
 frocklike
 filigreeing
@@ -10326,7 +10327,6 @@ ferronickel
 forebow
 frokin
 frigidness
-fluidglycerate
 fiberization
 fistulatome
 flabellinerved

@@ -1972,7 +1972,6 @@ gryphaea
 glycid
 gams
 gargil
-glyptical
 gaurian
 ginnings
 glamourous
@@ -8052,6 +8051,7 @@ guanosine
 granada
 glazy
 gables
+glyptical
 glamorizations
 grandmotherly
 glistens
