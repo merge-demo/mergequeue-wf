@@ -2275,7 +2275,6 @@ armigeri
 antiager
 avatara
 axel
-ampherotoky
 achuete
 astrography
 antinoise
@@ -16736,6 +16735,7 @@ aggresses
 admirer
 aftermast
 accidentals
+ampherotoky
 anteaters
 antiorthodox
 antikamnia
