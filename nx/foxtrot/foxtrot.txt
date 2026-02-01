@@ -3768,7 +3768,6 @@ fads
 frownless
 feodal
 facebread
-fortnightly
 fillings
 furfuryl
 forepoling
@@ -4321,6 +4320,7 @@ flowerpecker
 fetichist
 foreyard
 fatless
+fortnightly
 flail
 fireward
 fumaroles
