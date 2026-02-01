@@ -6928,7 +6928,6 @@ adhibits
 anchoretish
 acaridans
 acuteness
-ajoint
 akal
 akali
 akamai
@@ -13315,6 +13314,7 @@ androgenic
 arcosolium
 adscripts
 amucks
+ajoint
 adobos
 anice
 antiloimic
