@@ -10162,6 +10162,7 @@ blackbird
 blackbirder
 burhmoot
 belknap
+borsch
 blackbody
 bloodings
 bobfloat
@@ -17206,7 +17207,6 @@ bolograph
 bumbailiffship
 basidigitalia
 batardeau
-borsch
 biltongs
 bulwarked
 blanketers
