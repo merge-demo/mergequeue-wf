@@ -8758,7 +8758,6 @@ chirpier
 chapellany
 chapelled
 cimnel
-carditic
 cobnut
 capitaliser
 commonplaces
@@ -11803,6 +11802,7 @@ chondroplast
 chondroplasty
 crystall
 consonantally
+carditic
 chondroprotein
 caravansary
 chondropterygious
