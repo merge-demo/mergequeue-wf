@@ -2140,6 +2140,7 @@ garlanding
 ganglands
 guillermo
 graperoot
+glowing
 gazette
 ginnet
 gymnolaematous
@@ -3586,7 +3587,6 @@ gongorism
 garmentworker
 gunsmiths
 guides
-glowing
 ganglions
 gymnorhina
 geomagnetist

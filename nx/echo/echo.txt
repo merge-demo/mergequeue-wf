@@ -7651,7 +7651,6 @@ euchymous
 epicoelous
 epicondyle
 excysted
-eiry
 exspuition
 engraulidae
 exintine
@@ -9851,6 +9850,7 @@ enhaulse
 ethionic
 exact
 estrich
+eiry
 etagre
 epipodia
 expurgator
