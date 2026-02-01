@@ -3240,7 +3240,6 @@ entrez
 epistyles
 endobronchial
 expurgators
-extinguishment
 eloins
 etioporphyrin
 ectotropic
@@ -7675,6 +7674,7 @@ eyass
 enterohelcosis
 epicortical
 englobed
+extinguishment
 enterocinetic
 esere
 educed
