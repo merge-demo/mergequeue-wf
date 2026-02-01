@@ -4850,7 +4850,6 @@ amnesiac
 aerodontalgia
 agamidae
 arcanum
-algorithms
 antipedal
 adoors
 anticonservative
@@ -12994,6 +12993,7 @@ anhysteretic
 agrologist
 anils
 ambrosially
+algorithms
 aerogels
 apokatastatic
 abrogation
