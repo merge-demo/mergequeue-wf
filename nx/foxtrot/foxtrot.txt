@@ -3844,7 +3844,6 @@ flyflap
 freon
 ferritization
 friponerie
-fluidglycerate
 fertilizes
 frocklike
 filigreeing
@@ -7335,6 +7334,7 @@ finmark
 firmity
 fullered
 fleetings
+fluidglycerate
 flanderkin
 fraggings
 fb
