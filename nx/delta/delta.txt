@@ -2486,7 +2486,6 @@ dishonourary
 declaim
 desalinization
 declaimer
-dilaters
 declamatory
 doublewidth
 dateable
@@ -13031,6 +13030,7 @@ diskless
 disordinance
 devastator
 dysorexia
+dilaters
 dusack
 disorganise
 disorganised
