@@ -8022,7 +8022,6 @@ enquire
 evolutionary
 experted
 extradicted
-erenow
 enoptromancy
 endostea
 enlists
@@ -11427,6 +11426,7 @@ evenforth
 ectocommensal
 edificator
 eruciform
+erenow
 emanatively
 eathly
 echocardiogram
