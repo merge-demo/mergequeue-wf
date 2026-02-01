@@ -759,7 +759,6 @@ eidolism
 elegiambus
 estrones
 entour
-economism
 eggheads
 engrossingness
 enormity
@@ -5439,6 +5438,7 @@ ectene
 earthtongue
 endpoints
 eukairite
+economism
 endrudge
 extrabulbar
 ecderonic
