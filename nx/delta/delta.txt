@@ -3994,6 +3994,7 @@ deleter
 disgracefully
 demur
 dirge
+dysraphia
 deletions
 disdub
 dreche
@@ -15486,7 +15487,6 @@ diaries
 demultiplexes
 dihydrocuprin
 dejerate
-dysraphia
 dispendious
 diabolism
 dendral
