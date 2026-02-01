@@ -17140,7 +17140,6 @@ coachfellow
 coaching
 coachmaker
 coachmaster
-canceling
 cultureless
 coachmen
 cormoid
@@ -26669,6 +26668,7 @@ concrescent
 columbium
 choked
 counterintelligence
+canceling
 counterexpostulation
 counteradvance
 colossuswise
