@@ -5708,7 +5708,6 @@ cataphrenia
 cataphrenic
 choraleon
 cataphrygianism
-cataplane
 cataplasia
 conepate
 conservatorium
@@ -29825,6 +29824,7 @@ cablets
 chronos
 calculate
 crossband
+cataplane
 cystoparalysis
 crossbanding
 canadianism
