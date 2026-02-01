@@ -589,6 +589,7 @@ guineas
 gorgoniacea
 ghostweed
 graveside
+guessers
 goulashes
 gurnets
 gramaries
@@ -8223,7 +8224,6 @@ gonadic
 granulocyte
 gerontal
 gironde
-guessers
 grind
 galbanum
 genuflectory
