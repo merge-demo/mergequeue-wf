@@ -457,6 +457,7 @@ civilisable
 chancered
 cactuslike
 cassavas
+confessionary
 cartages
 catheretic
 cancelable
@@ -10559,7 +10560,6 @@ conter
 carports
 caconychia
 chiller
-confessionary
 comino
 corporational
 colloququia
