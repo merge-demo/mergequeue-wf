@@ -3381,6 +3381,7 @@ dephlogisticate
 disrestore
 dynagraph
 dithionate
+disherits
 deflating
 discommend
 drumslade
@@ -3892,7 +3893,6 @@ discommunity
 decumbiture
 designating
 discomedusan
-disherits
 dekameters
 decumani
 dekapode
