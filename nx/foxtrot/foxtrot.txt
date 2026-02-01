@@ -6836,7 +6836,6 @@ fleury
 formelt
 fatheaded
 fodderless
-frized
 figwort
 fleece
 feering
@@ -8427,6 +8426,7 @@ folksy
 foistiness
 forlanas
 flatfootedly
+frized
 fiaroblast
 freshmanic
 formulize
