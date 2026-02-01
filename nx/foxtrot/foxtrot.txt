@@ -2789,7 +2789,6 @@ fetation
 finfish
 friezed
 fraternization
-fourness
 fussify
 folklore
 fedity
@@ -5419,6 +5418,7 @@ fustians
 festoons
 ferry
 faitery
+fourness
 flb
 fantasque
 flutey
