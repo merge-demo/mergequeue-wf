@@ -227,7 +227,6 @@ crewel
 celebrators
 coalyards
 cabureiba
-concubinage
 chelydra
 cacajao
 cacam
@@ -9238,6 +9237,7 @@ chastity
 chastities
 chasubled
 championed
+concubinage
 cooper
 categorize
 counterriposte
