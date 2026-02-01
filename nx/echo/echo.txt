@@ -2076,6 +2076,7 @@ episcope
 electrophorese
 eject
 enteroscopy
+enthusiasms
 exacum
 elanet
 epitaphs
@@ -6790,7 +6791,6 @@ entreasure
 emerit
 evacuation
 ediface
-enthusiasms
 elaborator
 entrechat
 endoceratitic
