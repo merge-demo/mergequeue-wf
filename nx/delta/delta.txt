@@ -4084,7 +4084,6 @@ deline
 dishonourably
 dissoluteness
 dorsicolumn
-decus
 delineated
 delineating
 defoliators
@@ -11072,6 +11071,7 @@ dieselized
 divulgence
 dragonkind
 depopulate
+decus
 decades
 disclosable
 demonstrandum
