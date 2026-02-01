@@ -6270,7 +6270,6 @@ greaves
 gopura
 goatstone
 geoscience
-goatweed
 gesning
 guerrillaism
 genitures
@@ -6792,6 +6791,7 @@ galenites
 gratias
 gud
 glossospasm
+goatweed
 gaffsail
 gavyuti
 ganglioside

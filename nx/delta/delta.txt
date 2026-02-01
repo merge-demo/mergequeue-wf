@@ -10164,6 +10164,7 @@ drainfield
 decentralised
 dadoing
 dynamostatic
+drivewell
 dissipated
 decreing
 dynamotor
@@ -17227,7 +17228,6 @@ dingoes
 deferrizing
 driftweed
 degged
-drivewell
 disbench
 defease
 dagger
