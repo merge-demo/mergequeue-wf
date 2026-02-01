@@ -35,6 +35,7 @@ artemon
 avernus
 assort
 abac
+aphthongal
 antecedence
 aulophyte
 area
@@ -7318,7 +7319,6 @@ alveolonasal
 antiextreme
 allay
 abietene
-aphthongal
 abomasusi
 affinage
 adversus
