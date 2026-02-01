@@ -3186,7 +3186,6 @@ bodied
 barbecue
 busine
 birdieing
-buret
 bubukle
 basial
 basiarachnitis
@@ -7854,6 +7853,7 @@ barrad
 butterflyer
 bibenzyl
 biberon
+buret
 betrough
 bolometer
 benzolize
