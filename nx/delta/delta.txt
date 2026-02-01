@@ -2484,7 +2484,6 @@ deferral
 duds
 dishonourary
 declaim
-desalinization
 declaimer
 declamatory
 doublewidth
@@ -6869,6 +6868,7 @@ desolating
 doffers
 dipsomaniac
 drabber
+desalinization
 diabasic
 decorement
 dammar
