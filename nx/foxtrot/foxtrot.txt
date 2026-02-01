@@ -2862,6 +2862,7 @@ flattops
 faunae
 ficus
 fluidly
+fractionization
 fingery
 floodlights
 fideicommiss
@@ -9206,7 +9207,6 @@ fussle
 foresightedness
 fonticulus
 flapjacks
-fractionization
 fingerable
 forncast
 fishberry
