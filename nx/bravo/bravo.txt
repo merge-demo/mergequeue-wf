@@ -2378,7 +2378,6 @@ bubbletops
 boxboards
 barbotine
 blaunner
-bebite
 bones
 biolysis
 binous
@@ -15738,6 +15737,7 @@ beowulf
 brocatello
 brocatels
 benty
+bebite
 boarskin
 blaubok
 bai
