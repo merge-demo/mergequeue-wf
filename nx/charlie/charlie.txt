@@ -11971,6 +11971,7 @@ cobhouse
 chorial
 cilician
 choriamb
+cooped
 choriambic
 coaggregated
 confabulating
@@ -24431,7 +24432,6 @@ collaborateur
 culpae
 concertanto
 cysterethism
-cooped
 cooperate
 cooperated
 cooperates
