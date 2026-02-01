@@ -1496,7 +1496,6 @@ felt
 fearsomely
 foreshows
 fabulate
-flabelliform
 forewonted
 flytes
 flaillike
@@ -2643,6 +2642,7 @@ fangle
 fiscality
 featherlight
 fatback
+flabelliform
 filthy
 filazer
 feoffed
