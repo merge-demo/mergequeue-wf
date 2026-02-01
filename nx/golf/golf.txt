@@ -1058,7 +1058,6 @@ gibbously
 gypsums
 glares
 genisaro
-graphicness
 gowdy
 grifts
 goularo
@@ -6172,6 +6171,7 @@ goatroot
 groveling
 goal
 goniatite
+graphicness
 grandmotherliness
 goyin
 gemuetlich
