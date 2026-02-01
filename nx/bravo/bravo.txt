@@ -12494,7 +12494,6 @@ biphenyl
 bondholders
 barrettes
 bechase
-barde
 bells
 bescrawl
 baalist
@@ -17851,6 +17850,7 @@ bushbucks
 batrachium
 blowze
 bacilluria
+barde
 beautifying
 bairnishness
 beholders
