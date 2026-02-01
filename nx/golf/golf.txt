@@ -1364,7 +1364,6 @@ glacialism
 grabbles
 gaulin
 gastrostegal
-gravitometer
 garnetter
 gastroenterology
 gliosis
@@ -4227,6 +4226,7 @@ gimped
 gimpier
 guidable
 gresil
+gravitometer
 gamboler
 grandpas
 greenovite
