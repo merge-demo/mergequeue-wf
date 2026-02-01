@@ -20532,6 +20532,7 @@ clouts
 connascent
 compatibleness
 chlorider
+coroa
 compatriotic
 chilicote
 concentrating
@@ -31791,7 +31792,6 @@ chuff
 chetrums
 cutenesses
 collying
-coroa
 curvity
 comism
 chocalho
