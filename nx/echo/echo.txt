@@ -11637,6 +11637,7 @@ evoking
 emblemed
 endoceratite
 eyepit
+edibleness
 evolute
 enlighten
 extensiveness
@@ -12036,7 +12037,6 @@ enaunter
 encaustes
 effuso
 exclusivity
-edibleness
 effluents
 egomaniac
 excogitated
