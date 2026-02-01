@@ -2778,7 +2778,6 @@ galbulae
 greatcoat
 gile
 gyne
-gymnolaema
 grist
 guzzledom
 garblings
@@ -9980,6 +9979,7 @@ greyhound
 guitarfishes
 goys
 garb
+gymnolaema
 gumptions
 grilladed
 grasslands
