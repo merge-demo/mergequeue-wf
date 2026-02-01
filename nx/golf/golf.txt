@@ -1383,7 +1383,6 @@ glottalizing
 germanize
 gaits
 gypsies
-gouvernantes
 goniometric
 ganyie
 gallotannin
@@ -1459,6 +1458,7 @@ glossagra
 ghenting
 grossart
 greenstone
+gouvernantes
 gyassa
 generical
 grillages
