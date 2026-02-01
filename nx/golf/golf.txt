@@ -7454,6 +7454,7 @@ gyrometer
 goodmen
 gorgelet
 greenockite
+gabbai
 gamotropic
 gastrotaxis
 grewt
@@ -8796,7 +8797,6 @@ gorge
 greenling
 grogram
 groszy
-gabbai
 gentilism
 glyceryls
 gravel
