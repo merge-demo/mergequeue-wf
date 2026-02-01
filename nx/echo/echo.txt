@@ -536,6 +536,7 @@ eupneic
 elong
 electorship
 elastases
+entoglossal
 exceptionally
 electrogenic
 ethnographies
@@ -1406,7 +1407,6 @@ ectopatagium
 eights
 epode
 endoskeletal
-entoglossal
 emplaster
 essentialness
 exomis
