@@ -1009,6 +1009,7 @@ feats
 faretta
 foresaid
 foldable
+foresightedness
 fervid
 fishing
 flustering
@@ -9204,7 +9205,6 @@ freights
 fondue
 formidolous
 fussle
-foresightedness
 fonticulus
 flapjacks
 fingerable
