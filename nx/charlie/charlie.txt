@@ -12486,7 +12486,6 @@ chromoisomeric
 chamaenerion
 carneous
 candelabra
-cerebralize
 customization
 chromoleucite
 clayen
@@ -27278,6 +27277,7 @@ countrywoman
 countrywomen
 countship
 coupage
+cerebralize
 coupe
 couped
 cicrumspections
