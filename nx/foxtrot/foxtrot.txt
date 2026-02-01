@@ -2654,7 +2654,6 @@ fratchy
 fontful
 fribourg
 farish
-fragmentitious
 formalistic
 fulgurator
 finebent
@@ -7247,6 +7246,7 @@ fogbows
 flummox
 flacianism
 fps
+fragmentitious
 festivalgoer
 fend
 fishers
