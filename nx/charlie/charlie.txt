@@ -17,6 +17,7 @@ collegian
 cows
 corkmaking
 cabaletta
+cortinae
 cestas
 cardplaying
 chertiest
@@ -13835,7 +13836,6 @@ carrys
 cinereal
 cinerous
 cingalese
-cortinae
 corrupted
 cynghanedd
 catalysis
