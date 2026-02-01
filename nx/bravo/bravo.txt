@@ -4440,7 +4440,6 @@ bookkeepers
 bkcy
 blubberer
 bachelordom
-batis
 befleas
 belchers
 beknotted
@@ -14289,6 +14288,7 @@ beckiron
 bravoes
 bolden
 burelly
+batis
 blites
 bivane
 bistournage
