@@ -946,7 +946,6 @@ cakravartin
 cal
 crumpler
 crawfoot
-chorizo
 coinherence
 calabari
 cornices
@@ -7779,6 +7778,7 @@ coinhering
 capromys
 ceroplasty
 cornish
+chorizo
 confabulation
 ceroplastics
 cyanocrystallin
