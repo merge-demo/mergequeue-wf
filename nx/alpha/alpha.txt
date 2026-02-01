@@ -3665,6 +3665,7 @@ archaize
 armeriaceae
 ancyloceras
 autodigestion
+adiantiform
 argled
 abnegation
 adenophorous
@@ -21776,7 +21777,6 @@ aglow
 antitheological
 assertor
 abelmusk
-adiantiform
 asseveratingly
 adviceful
 argenticyanide
