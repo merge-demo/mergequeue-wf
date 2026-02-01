@@ -7114,7 +7114,6 @@ abridgements
 antica
 amaranthoid
 awlworts
-alagarto
 ankoli
 alnagership
 accipter
@@ -9300,6 +9299,7 @@ antipoetic
 aerobated
 assessments
 accumulates
+alagarto
 alraun
 andesyte
 alreadiness
