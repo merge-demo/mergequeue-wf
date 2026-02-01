@@ -7373,7 +7373,6 @@ antaranga
 albitite
 acutiator
 anguilla
-aythya
 afghanistan
 angulare
 arenicola
@@ -16582,6 +16581,7 @@ apeek
 apelles
 acuminate
 amphigonic
+aythya
 archurger
 aeolotropism
 affiliate
