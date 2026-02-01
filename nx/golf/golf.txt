@@ -7064,7 +7064,6 @@ grammatical
 gastroenteralgia
 genealogist
 gliffing
-galenic
 glassworkers
 gastropathic
 gladrags
@@ -8419,6 +8418,7 @@ ginner
 gooky
 gigabytes
 grillading
+galenic
 graced
 geste
 grisailles
