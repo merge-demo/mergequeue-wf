@@ -5919,6 +5919,7 @@ foreswearing
 fellowship
 fathmur
 flitters
+furnacemen
 fettucine
 faithlessly
 frequents
@@ -6283,7 +6284,6 @@ funnyman
 factoress
 facia
 fluohydric
-furnacemen
 flowerwork
 finnicking
 fascisticization
