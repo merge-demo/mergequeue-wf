@@ -1575,7 +1575,6 @@ foreteach
 forspread
 farrow
 forepayment
-fidac
 fauvette
 flowcontrol
 fishbowl
@@ -1858,6 +1857,7 @@ fluoresce
 foreign
 fecundatory
 febricant
+fidac
 frilly
 flashlight
 febricitant
