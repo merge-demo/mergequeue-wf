@@ -2908,7 +2908,6 @@ glossopteris
 glene
 glycol
 garnet
-garlopa
 gaeldom
 gnat
 guimpes
@@ -3840,6 +3839,7 @@ ginkgoaceae
 gobbets
 gratefulness
 greyling
+garlopa
 greenbugs
 gabbard
 groutite
