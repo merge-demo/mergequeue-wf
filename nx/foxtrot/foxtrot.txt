@@ -5070,7 +5070,6 @@ forwarders
 fictionalized
 fingerlet
 firebug
-foraminate
 fivefold
 fact
 forestcraft
@@ -10799,6 +10798,7 @@ fleabites
 facy
 fileting
 fumble
+foraminate
 fouth
 formlessly
 fruticose
