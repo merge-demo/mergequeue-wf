@@ -16559,7 +16559,6 @@ carboxyl
 cowsharn
 crophead
 cosmos
-calendar
 coinheritance
 correlative
 clogmaking
@@ -23731,6 +23730,7 @@ cothurned
 cyclomyarian
 condensance
 ceria
+calendar
 coleoptile
 caste
 cacophonist
