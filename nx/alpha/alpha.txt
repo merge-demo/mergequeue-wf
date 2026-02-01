@@ -17324,7 +17324,6 @@ alums
 atterrate
 animalcules
 anaesthetic
-aposteme
 amidosulphonal
 aposteriori
 arithmometer
@@ -18766,6 +18765,7 @@ adamas
 archegony
 albania
 athort
+aposteme
 archegonial
 agral
 albigenses
