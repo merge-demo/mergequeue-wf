@@ -14440,7 +14440,6 @@ cowled
 crowstone
 conferrers
 crosscrosslet
-capataces
 cirrocumulative
 chasmogamic
 compulsitor
@@ -17989,6 +17988,7 @@ coeff
 coefficients
 canoe
 coelacanth
+capataces
 clan
 coelacanthidae
 coelacanthous
