@@ -4145,6 +4145,7 @@ derodidymus
 discolorization
 diluvium
 diadokokinesis
+diploperistomic
 desynapsis
 dells
 dastur
@@ -10830,7 +10831,6 @@ deepsome
 demonography
 dangerously
 daintiest
-diploperistomic
 disrest
 diazotize
 divinization
