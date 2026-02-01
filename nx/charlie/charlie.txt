@@ -607,7 +607,6 @@ capsicin
 cinerarium
 colonette
 caracal
-cacotrophy
 councilwomen
 caecally
 coorg
@@ -8766,6 +8765,7 @@ chirpier
 chapellany
 chapelled
 cimnel
+cacotrophy
 cobnut
 capitaliser
 commonplaces
