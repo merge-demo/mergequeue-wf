@@ -1436,7 +1436,6 @@ edgy
 epipolic
 eurasiatic
 ennead
-engram
 enneastylos
 epilaryngeal
 enneandrous
@@ -1942,6 +1941,7 @@ epornitic
 erasing
 eigenvalue
 embelin
+engram
 enhat
 exornation
 eisenberg
