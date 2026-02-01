@@ -2476,7 +2476,6 @@ greekish
 guatusan
 gastratrophia
 groupage
-glandules
 gritless
 grassing
 grewia
@@ -7894,6 +7893,7 @@ glumpier
 geometridae
 gileno
 greylags
+glandules
 gynaeocracy
 germing
 gudge
