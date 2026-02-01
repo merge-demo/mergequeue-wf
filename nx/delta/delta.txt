@@ -251,6 +251,7 @@ dissuitable
 dry
 deceiver
 dagomba
+disconnections
 daguerreotype
 downspout
 dolichopodous
@@ -7775,7 +7776,6 @@ devisor
 deodorant
 dowie
 drawler
-disconnections
 detect
 ductilizing
 daphnephoria
