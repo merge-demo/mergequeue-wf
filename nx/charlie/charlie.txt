@@ -11144,7 +11144,6 @@ chivarees
 chivari
 chivaris
 chive
-cinecamera
 chivey
 chiliadal
 crescographic
@@ -15908,6 +15907,7 @@ chamal
 cadaverize
 cleidocostal
 cleidoic
+cinecamera
 chiromance
 cherts
 cleidomancy
