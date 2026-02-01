@@ -1758,6 +1758,7 @@ encephaloid
 endangium
 exsanguination
 enginery
+enforced
 exasper
 exclaimers
 euroclydon
@@ -11573,7 +11574,6 @@ evincible
 ectopterygoid
 epicurean
 evangeliarium
-enforced
 exhaling
 eserin
 enkindler
