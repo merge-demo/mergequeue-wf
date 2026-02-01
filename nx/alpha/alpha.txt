@@ -6476,6 +6476,7 @@ appleringy
 aider
 antiaggressive
 annulosan
+adderwort
 auksinu
 awk
 abjunctive
@@ -20673,7 +20674,6 @@ acequias
 amynodon
 anapterygota
 aeromagnetic
-adderwort
 albumen
 arthrospore
 arthrostome

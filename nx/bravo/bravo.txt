@@ -943,7 +943,6 @@ brothier
 belligerently
 bagsful
 bequirtle
-bazookaman
 barbeled
 bravely
 beprank
@@ -1411,6 +1410,7 @@ baldpatedness
 bulter
 balds
 baculums
+bazookaman
 battute
 baccalaurean
 bale
