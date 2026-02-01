@@ -4538,7 +4538,6 @@ bae
 bandolero
 blankest
 brigadiership
-barricaded
 burnsides
 becudgels
 bosons
@@ -9399,6 +9398,7 @@ brachtmema
 birdhood
 breakableness
 buchloe
+barricaded
 breezed
 barramundi
 bullety
