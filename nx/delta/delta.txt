@@ -3221,7 +3221,6 @@ dumps
 dissentient
 distrainor
 defendant
-discocephalous
 dir
 decorativeness
 danae
@@ -10611,6 +10610,7 @@ dialectics
 dealt
 dauw
 destituted
+discocephalous
 diplocardiac
 diplocarpon
 diplocaulescent
