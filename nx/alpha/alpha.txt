@@ -16601,6 +16601,7 @@ aperient
 albronze
 aperiodically
 afterheat
+allotype
 ambulanced
 average
 aperiodicity
@@ -18475,7 +18476,6 @@ abdominal
 anisosepalous
 anthropoidal
 amphicondylous
-allotype
 amias
 arborea
 arrhenoid
