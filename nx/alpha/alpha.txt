@@ -9115,7 +9115,6 @@ auctions
 audit
 abiologically
 artiste
-arriviste
 antiknock
 almury
 alnage
@@ -15178,6 +15177,7 @@ antifibrinolysin
 antifibrinolysis
 apiculture
 apostolically
+arriviste
 atomies
 anacoenoses
 almsmoney
