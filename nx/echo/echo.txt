@@ -4449,7 +4449,6 @@ emporeutic
 encapsuled
 echoed
 enure
-effectively
 engrege
 essence
 eavesdropping
@@ -11584,6 +11583,7 @@ ectopterygoid
 epicurean
 evangeliarium
 exhaling
+effectively
 eserin
 enkindler
 extractable
