@@ -1274,6 +1274,7 @@ gyrene
 galwegian
 glowers
 grump
+grudgingly
 gerendum
 government
 glossarist
@@ -4749,7 +4750,6 @@ guzmania
 gymnasiast
 guarnieri
 gumshoe
-grudgingly
 genista
 gastrovascular
 genteelize
