@@ -269,7 +269,6 @@ autoserotherapy
 arian
 apparatus
 appurtenances
-autotropism
 aeroacoustic
 aguamas
 autoallogamous
@@ -21913,6 +21912,7 @@ antivivisectionists
 ananaplas
 acrocephaly
 amovable
+autotropism
 associatedness
 andesine
 autolyse

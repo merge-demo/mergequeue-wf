@@ -6332,7 +6332,6 @@ goblin
 gullible
 gunlock
 gunmen
-glaciated
 gargantua
 gauster
 globetrotters
@@ -7900,6 +7899,7 @@ glandules
 gynaeocracy
 germing
 gudge
+glaciated
 grecomaniac
 gamester
 grouplet
