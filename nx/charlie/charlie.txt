@@ -9378,6 +9378,7 @@ cryptological
 collocations
 chaute
 carrotage
+compartmentation
 chauve
 consulating
 cartograph
@@ -24510,7 +24511,6 @@ coparcenar
 coparcenary
 cyclopropane
 comic
-compartmentation
 coparents
 caroigne
 copartiment
