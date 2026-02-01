@@ -1484,7 +1484,6 @@ gunzian
 goalposts
 guested
 gonk
-gunocracy
 gasifies
 gridiron
 grantable
@@ -7799,6 +7798,7 @@ gastrulae
 galvanizations
 gauby
 gabeller
+gunocracy
 gangsters
 gilpey
 gluttonously
