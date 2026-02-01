@@ -8429,7 +8429,6 @@ frauder
 fm
 floorman
 futhark
-fluoroscopes
 folksy
 foistiness
 forlanas
@@ -8799,6 +8798,7 @@ foreplace
 frugality
 fashionative
 forebowels
+fluoroscopes
 farcy
 frightfully
 frontage
