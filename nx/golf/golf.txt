@@ -1309,7 +1309,6 @@ grandparentage
 gluconate
 grimier
 gested
-grelot
 gheleem
 gieing
 gunky
@@ -2653,6 +2652,7 @@ gervas
 gelatinochloride
 guaranis
 gardeviance
+grelot
 graphotype
 genevan
 giboia
