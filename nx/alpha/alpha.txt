@@ -4803,7 +4803,6 @@ acari
 affirmativeness
 anatomisable
 alumnol
-anatolic
 aspidobranchia
 asideness
 antiplatelet
@@ -4891,6 +4890,7 @@ appalto
 archagitator
 antivibratory
 anoestrus
+anatolic
 aerolite
 argumentatory
 apterygogenea
