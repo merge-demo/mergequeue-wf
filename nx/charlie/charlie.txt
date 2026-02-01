@@ -11802,7 +11802,6 @@ chondropharyngeus
 carpale
 chondroplast
 chondroplasty
-crystall
 consonantally
 carditic
 chondroprotein
@@ -13064,6 +13063,7 @@ clevis
 coefficiently
 cyanuric
 cyanurin
+crystall
 cyanurine
 couthly
 ciao
