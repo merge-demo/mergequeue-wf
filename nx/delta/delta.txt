@@ -6051,7 +6051,6 @@ diopsis
 deputing
 diaconicon
 dorps
-delicacy
 dilli
 dehumanise
 diagnostication
@@ -14470,6 +14469,7 @@ demeter
 diversory
 dressmaker
 damnously
+delicacy
 dimethylamine
 divert
 deafen
