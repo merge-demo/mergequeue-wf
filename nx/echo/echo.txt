@@ -4509,6 +4509,7 @@ encenter
 eskar
 endolithic
 encephalartos
+electromyographic
 effloresced
 escocheon
 encephalitic
@@ -10288,7 +10289,6 @@ entosternum
 experiences
 embedded
 edema
-electromyographic
 emphraxis
 eglestonite
 extragastric
