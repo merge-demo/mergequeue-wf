@@ -9954,7 +9954,6 @@ dipropargyl
 duscle
 deformational
 dimes
-dimetallic
 deleerit
 dimeter
 debitable
@@ -11356,6 +11355,7 @@ dentals
 duskier
 dimit
 directories
+dimetallic
 discographic
 downsome
 dobson
