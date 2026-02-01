@@ -10290,7 +10290,6 @@ emblemist
 entosternum
 experiences
 embedded
-edema
 emphraxis
 eglestonite
 extragastric
@@ -13704,6 +13703,7 @@ epitomator
 exocardial
 enarration
 euphuism
+edema
 elusions
 eloge
 embden
