@@ -287,6 +287,7 @@ demisheath
 depolarized
 dayanim
 daybeacon
+disposition
 dealbate
 daybed
 disembowelment
@@ -1384,7 +1385,6 @@ dorsiflexor
 delis
 disputing
 desmosite
-disposition
 desipient
 diligentia
 dulcid
