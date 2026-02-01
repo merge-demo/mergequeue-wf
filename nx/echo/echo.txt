@@ -3744,6 +3744,7 @@ essaylet
 embright
 entreprenant
 exscinded
+entrepots
 embryogenesis
 expositively
 extravert
@@ -10875,7 +10876,6 @@ eighteenth
 emanation
 endoprocta
 euodic
-entrepots
 erlking
 euonymy
 exochorda
