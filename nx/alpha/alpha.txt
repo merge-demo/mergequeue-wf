@@ -5133,7 +5133,6 @@ affectations
 attractants
 affected
 agpaitic
-affectibility
 affecting
 archinformer
 acrochordon
@@ -15622,6 +15621,7 @@ ambage
 anoxaemia
 amygdalitis
 aeolight
+affectibility
 acrocontracture
 appressor
 actinobacillosis
