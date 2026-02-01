@@ -16665,7 +16665,6 @@ deserves
 debouchure
 draisine
 duodiode
-detach
 drinking
 desktop
 disinfected
@@ -17456,6 +17455,7 @@ diagrammatician
 dentiroster
 devitrified
 drouking
+detach
 deprehension
 drouth
 dopas
