@@ -3835,7 +3835,6 @@ adipoid
 aube
 amati
 angiorrhexis
-anartismos
 allicholly
 autocracies
 articulary
@@ -17849,6 +17848,7 @@ adipocere
 atrede
 aside
 afterfermentation
+anartismos
 apolistan
 aptal
 adieus
