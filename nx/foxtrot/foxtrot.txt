@@ -1341,7 +1341,6 @@ feculency
 flashover
 flear
 fieldball
-flookan
 formates
 foretopsail
 fallowness
@@ -10253,6 +10252,7 @@ fainer
 flautist
 forepredicament
 filaceous
+flookan
 feued
 fishyback
 finch

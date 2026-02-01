@@ -3348,6 +3348,7 @@ basketmaking
 bonnets
 batikuling
 bluecoat
+baldnesses
 bellypinch
 basketwoman
 batocrinus
@@ -7463,7 +7464,6 @@ buboes
 bulbocavernous
 brabblingly
 bushelled
-baldnesses
 bettermost
 bouldery
 bedeviling
