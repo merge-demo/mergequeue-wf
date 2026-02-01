@@ -5301,7 +5301,6 @@ grouted
 garnets
 gauntly
 gesnerad
-guitarfish
 gliadine
 galvanism
 geomedicine
@@ -10433,6 +10432,7 @@ glaizie
 gruffs
 gambeer
 ginning
+guitarfish
 guardship
 gasterolichenes
 gittite
