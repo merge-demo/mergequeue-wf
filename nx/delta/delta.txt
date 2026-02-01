@@ -2642,7 +2642,6 @@ decomposer
 debrief
 decomposers
 daddocky
-decomposure
 digne
 dogwatches
 decompoundable
@@ -10262,6 +10261,7 @@ dingleberry
 denuclearize
 dingman
 doven
+decomposure
 dings
 depopularize
 dining
