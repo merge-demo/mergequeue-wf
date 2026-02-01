@@ -6676,6 +6676,7 @@ bacillian
 ballottable
 baseband
 beneficences
+bookery
 broughtas
 burghs
 busto
@@ -6791,7 +6792,6 @@ bitterbur
 beaut
 barytosulphate
 badian
-bookery
 baronages
 bersagliere
 burdenable
