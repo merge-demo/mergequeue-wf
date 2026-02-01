@@ -842,7 +842,6 @@ cy
 clasts
 crotchet
 caiman
-cantily
 chirpily
 carbocinchomeronic
 catachthonian
@@ -20189,6 +20188,7 @@ committor
 coxcombical
 commix
 commixing
+cantily
 curvaceously
 commixtion
 commixture
