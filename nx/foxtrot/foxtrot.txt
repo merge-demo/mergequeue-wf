@@ -67,7 +67,6 @@ fixgig
 facebow
 fractostratus
 fenchone
-feudalization
 faceharden
 financiers
 ferrocyanate
@@ -2978,6 +2977,7 @@ frizzen
 factoring
 flagonless
 fetus
+feudalization
 flyboy
 fourneau
 fossane
