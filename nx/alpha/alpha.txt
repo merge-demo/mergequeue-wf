@@ -13298,7 +13298,6 @@ anisostomous
 amlacra
 anisotrope
 anencephalotrophia
-alectoropodes
 anisum
 appinite
 aneuploid
@@ -18555,6 +18554,7 @@ abrogates
 abbotship
 alarmisms
 autoecholalia
+alectoropodes
 amboyna
 alives
 autographism

@@ -5635,7 +5635,6 @@ elevational
 escribed
 everduring
 egling
-exla
 exiguities
 enforces
 endocentric
@@ -13180,6 +13179,7 @@ enterauxe
 experting
 ectally
 epiphonema
+exla
 enrive
 epithetician
 epistlar
