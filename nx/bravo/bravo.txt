@@ -1661,7 +1661,6 @@ bribri
 ballottement
 backlotter
 baronage
-baccaras
 barmaids
 bahamian
 ballottines
@@ -9457,6 +9456,7 @@ bulimulidae
 brunoniaceae
 brawniest
 bedirties
+baccaras
 babcock
 bourride
 birkeniidae
