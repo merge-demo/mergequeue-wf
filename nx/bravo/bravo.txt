@@ -6830,7 +6830,6 @@ broadsided
 beruffed
 bilic
 bummaree
-baroi
 bes
 boaedon
 bivouac
@@ -9687,6 +9686,7 @@ burao
 braize
 bisimine
 bisymmetry
+baroi
 brandyman
 bushily
 bisymmetrical
