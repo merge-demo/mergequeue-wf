@@ -1091,7 +1091,6 @@ frontons
 forums
 foreribs
 finking
-farrago
 franchisement
 flichters
 fortuities
@@ -4458,6 +4457,7 @@ formulaic
 frumpily
 fearers
 fealties
+farrago
 feinschmeckers
 finishes
 fishes
