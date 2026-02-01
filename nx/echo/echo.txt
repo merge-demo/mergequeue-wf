@@ -970,6 +970,7 @@ excusation
 etymologically
 eurypteroid
 eluvia
+etymologisable
 erogenesis
 elects
 ectrosyndactyly
@@ -2672,7 +2673,6 @@ extrabureau
 earable
 etherizing
 epicrasis
-etymologisable
 exempla
 engrailing
 electrophrenic
