@@ -389,7 +389,6 @@ gecked
 gegger
 gigantolite
 grouse
-goloshes
 goffering
 growl
 galeage
@@ -4776,6 +4775,7 @@ gonimolobe
 gamer
 germanophobia
 groop
+goloshes
 goad
 gaels
 generableness
