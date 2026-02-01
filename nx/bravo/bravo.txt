@@ -2618,7 +2618,6 @@ becharmed
 baritenor
 barberry
 bucerotinae
-bedevils
 barytocelestite
 barytons
 bowable
@@ -7308,6 +7307,7 @@ betacismus
 betag
 boars
 bacteriform
+bedevils
 bailees
 bubbliest
 boxwood
