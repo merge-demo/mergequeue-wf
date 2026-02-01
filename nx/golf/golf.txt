@@ -1498,7 +1498,6 @@ gaolage
 glairing
 gerbille
 gorlin
-grote
 grasseye
 genapping
 geological
@@ -7600,6 +7599,7 @@ glycosyls
 gypsywort
 gleewoman
 gaddishness
+grote
 gowked
 gorsebird
 gambet
