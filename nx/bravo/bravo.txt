@@ -2448,7 +2448,6 @@ bums
 bareca
 barefaced
 basotho
-baulk
 bonete
 blackjacked
 bradenhead
@@ -17693,6 +17692,7 @@ bott
 boomlets
 beknit
 bonaire
+baulk
 burnfire
 burnish
 burnishable
