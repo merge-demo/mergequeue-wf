@@ -1942,6 +1942,7 @@ bandoleers
 bivalent
 braving
 bandolerismo
+bruiser
 buckayros
 bandoleros
 branle
@@ -13706,7 +13707,6 @@ bourgeoisie
 blessingly
 butine
 bourgeons
-bruiser
 bricked
 bourignian
 blanketmaker
