@@ -4098,7 +4098,6 @@ glanderous
 gletscher
 grifted
 gastrectomies
-gelatinizability
 geneal
 germanical
 guzzler
@@ -4576,6 +4575,7 @@ goral
 geometrid
 grating
 giojoso
+gelatinizability
 greegree
 gopherroot
 gressible
