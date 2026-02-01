@@ -9556,7 +9556,6 @@ florets
 floatplane
 fibdom
 fearable
-fleshpots
 feebling
 fiducinales
 faveoluli
@@ -10760,6 +10759,7 @@ fascistize
 filagree
 fringelike
 faenus
+fleshpots
 flam
 froom
 fease
