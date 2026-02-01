@@ -10082,7 +10082,6 @@ fats
 fistularia
 flenching
 falderal
-fringilla
 ferrumination
 frilling
 flee
@@ -10160,6 +10159,7 @@ flanque
 frisking
 filching
 froth
+fringilla
 friskingly
 ferrotungsten
 frondiform
