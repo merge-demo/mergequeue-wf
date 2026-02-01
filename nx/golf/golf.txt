@@ -2815,7 +2815,6 @@ gingelly
 gilgulim
 glassite
 gifture
-gryde
 gunbright
 ganoidei
 geolinguistics
@@ -3817,6 +3816,7 @@ grallatores
 gaffing
 gestical
 gouty
+gryde
 gazettes
 glucke
 gnostical
