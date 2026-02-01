@@ -989,6 +989,7 @@ ethnarch
 ecttypal
 enrolls
 equates
+exploit
 exeresis
 ecumenacy
 engraffing
@@ -12094,7 +12095,6 @@ escuage
 erythrin
 enflames
 earworm
-exploit
 editress
 emasculation
 embroche
