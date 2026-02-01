@@ -1942,7 +1942,6 @@ erasing
 eigenvalue
 embelin
 engram
-enhat
 exornation
 eisenberg
 emyd
@@ -7614,6 +7613,7 @@ equivalently
 erythrolitmin
 extemporal
 epichondrosis
+enhat
 epichordal
 erosely
 enantiomorph
