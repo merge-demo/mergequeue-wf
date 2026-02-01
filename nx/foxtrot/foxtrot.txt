@@ -5199,7 +5199,6 @@ freighting
 foursquarely
 falasha
 forebespeak
-fractionise
 funking
 filices
 forbidding
@@ -8114,6 +8113,7 @@ footlog
 fessing
 falbala
 forestral
+fractionise
 fumarole
 forestries
 forewind
