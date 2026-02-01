@@ -3032,6 +3032,7 @@ dragonfish
 dipping
 deerhound
 diphthongs
+degras
 duckboard
 deucedly
 dowress
@@ -7105,7 +7106,6 @@ diallists
 damselfish
 destour
 demonial
-degras
 dipso
 desynchronizing
 demonstratable
