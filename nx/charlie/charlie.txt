@@ -12781,7 +12781,6 @@ chummage
 chairborne
 chummery
 chummier
-chumminess
 chump
 chumpa
 conglobing
@@ -19302,6 +19301,7 @@ cabezones
 coresidence
 chelem
 colonialists
+chumminess
 cyclospondyli
 coctoprecipitin
 colonialize
