@@ -363,7 +363,6 @@ exanthems
 ethynyls
 exports
 entomol
-esotericism
 extrema
 ergotine
 eirenarch
@@ -8885,6 +8884,7 @@ enacts
 endarteritis
 emaculate
 erectopatent
+esotericism
 etymologicon
 entophytic
 equinox
