@@ -5712,6 +5712,7 @@ derivers
 disrepair
 deplore
 disaffiliate
+disinsectization
 deplorer
 deplumated
 didymia
@@ -9276,7 +9277,6 @@ discolour
 decorament
 dollface
 divined
-disinsectization
 dyschroa
 digitaliform
 diemakers
