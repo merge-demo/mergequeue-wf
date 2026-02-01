@@ -3057,7 +3057,6 @@ adelops
 autochton
 actinomycete
 analcime
-armsize
 actinomycosistic
 alacrify
 aphrodisiac
@@ -16042,6 +16041,7 @@ antisaloon
 archegoniatae
 alligator
 affaire
+armsize
 antisalooner
 antisavage
 antiscabious
