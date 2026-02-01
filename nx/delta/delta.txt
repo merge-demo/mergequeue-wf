@@ -1308,7 +1308,6 @@ dorsigerous
 disorder
 dault
 dolorimetric
-deleteriousness
 docetic
 discabinet
 dysesthesia
@@ -6505,6 +6504,7 @@ disanney
 dynamited
 demonist
 doxological
+deleteriousness
 dircaean
 dynel
 descension
