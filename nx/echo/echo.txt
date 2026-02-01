@@ -6006,7 +6006,6 @@ escaped
 ectad
 emetomorphine
 extrameridian
-electrostatically
 eunicid
 equiexcellency
 exploitable
@@ -7131,6 +7130,7 @@ elsholtzia
 efficiency
 embelia
 enlinked
+electrostatically
 elusion
 electroencephalogram
 ebonising
