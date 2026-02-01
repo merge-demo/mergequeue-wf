@@ -13755,7 +13755,6 @@ bhalu
 brunswick
 bheesties
 boustrophedon
-bloomer
 babblers
 bircher
 banqueted
@@ -17448,6 +17447,7 @@ bunoselenodont
 biatomic
 brulots
 boomage
+bloomer
 bridles
 bracer
 barbiturates
