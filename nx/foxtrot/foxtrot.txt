@@ -612,7 +612,6 @@ furmety
 formosity
 forlornity
 fallowist
-friborg
 footsy
 fellon
 flashpan
@@ -8620,6 +8619,7 @@ farmsteading
 flexor
 firedragon
 forcipulata
+friborg
 fanegada
 forspent
 farmplace
