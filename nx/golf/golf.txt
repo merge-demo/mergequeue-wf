@@ -2462,7 +2462,6 @@ gonopodial
 gallants
 gnathidium
 greenbottle
-gullish
 gerbils
 gascoyne
 gambrel
@@ -5046,6 +5045,7 @@ glossers
 geotilla
 galbulidae
 gynandrosporous
+gullish
 goiabada
 grotto
 glaucousness
