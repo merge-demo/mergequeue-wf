@@ -2600,6 +2600,7 @@ biotelemetry
 bastardizing
 banzai
 baris
+balnea
 bodefulness
 bearleap
 bromating
@@ -7025,7 +7026,6 @@ branchiostomidae
 bowlegged
 bowingly
 benefact
-balnea
 brothel
 brulzie
 balsamous
