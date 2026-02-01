@@ -10959,7 +10959,6 @@ classicalness
 corpselike
 cartelism
 cokers
-curculionist
 ceramic
 chiromantic
 cabret
@@ -18153,6 +18152,7 @@ cissoid
 cantata
 cognizers
 clergess
+curculionist
 coenobioid
 conicoid
 contentless
