@@ -4178,7 +4178,6 @@ graphiologist
 glycosyl
 galvanizing
 glassen
-gelinotte
 gamopetalae
 glottitis
 gristy
@@ -5311,6 +5310,7 @@ gordiid
 galoubet
 garrulous
 gammers
+gelinotte
 gledes
 geophilus
 genethliacal
