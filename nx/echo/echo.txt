@@ -4791,7 +4791,6 @@ emeried
 ecu
 epencephalon
 emboite
-erosiveness
 enscrolling
 elator
 enclosures
@@ -12015,6 +12014,7 @@ eupanorthidae
 eryngium
 everyone
 egocentric
+erosiveness
 expy
 enterfeat
 equatable
