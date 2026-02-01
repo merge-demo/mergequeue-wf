@@ -2834,7 +2834,6 @@ expolish
 eutropic
 equipartition
 epidiplosis
-empalement
 extrathoracic
 estrangements
 enwomb
@@ -9829,6 +9828,7 @@ erodability
 establishable
 enchafe
 eddyroot
+empalement
 establishes
 epigraph
 elegiacal
