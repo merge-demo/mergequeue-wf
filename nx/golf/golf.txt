@@ -2164,7 +2164,6 @@ genteelly
 gierfalcon
 galvanocauterization
 gamy
-galea
 goniostat
 glistening
 glauke
@@ -9321,6 +9320,7 @@ gourmanderie
 goitre
 gardnap
 goidel
+galea
 gamely
 gemauve
 granitoid
