@@ -1321,7 +1321,6 @@ gary
 groundling
 gristbite
 gemel
-ganoine
 granma
 gonorrhea
 guslee
@@ -5365,6 +5364,7 @@ germinating
 geomoroi
 glomerulate
 galactosemic
+ganoine
 graciosos
 gentlemouthed
 gabionade
