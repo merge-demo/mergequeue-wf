@@ -2231,6 +2231,7 @@ galactase
 gitana
 gastrotome
 glottology
+gibbles
 gefulltefish
 gibbsite
 galax
@@ -2655,7 +2656,6 @@ gervas
 gelatinochloride
 guaranis
 gardeviance
-gibbles
 graphotype
 genevan
 giboia
