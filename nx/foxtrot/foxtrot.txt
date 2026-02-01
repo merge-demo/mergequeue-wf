@@ -1650,7 +1650,6 @@ frictionproof
 fantasticalness
 firmest
 ficula
-fawners
 formicoidea
 foliot
 feltmaking
@@ -5053,6 +5052,7 @@ flowcharting
 flytrap
 flings
 frenulum
+fawners
 flyway
 furfurine
 frolicker
@@ -6215,7 +6215,6 @@ flatterers
 familiarised
 frettation
 filical
-fribbling
 fitchering
 forlornly
 frowardly
@@ -7867,6 +7866,7 @@ filchingly
 foreordinate
 fanfoot
 fudge
+fribbling
 filterman
 follies
 fenzelia
