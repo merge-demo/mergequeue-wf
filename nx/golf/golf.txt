@@ -2118,7 +2118,6 @@ gipsied
 greensward
 guarantors
 glands
-galliot
 gormaw
 glaked
 grovelling
@@ -3747,6 +3746,7 @@ grooms
 goetia
 groundedness
 gapy
+galliot
 garnierite
 gringolee
 granaries
