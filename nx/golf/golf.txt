@@ -6903,7 +6903,6 @@ graticulate
 glis
 gastrohysterotomy
 glibly
-goodenia
 garnering
 gaped
 graphically
@@ -10542,6 +10541,7 @@ glozer
 gabe
 genioglossi
 gard
+goodenia
 grateman
 guillemot
 gambetta
