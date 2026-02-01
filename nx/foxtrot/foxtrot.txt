@@ -3569,7 +3569,6 @@ farness
 flubbing
 falcones
 fulgorid
-fusicladium
 fromfile
 figurer
 foolery
@@ -10978,6 +10977,7 @@ fez
 fink
 figent
 forerunning
+fusicladium
 flustery
 faipule
 focaloid
