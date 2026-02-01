@@ -1018,7 +1018,6 @@ gnarl
 goops
 gebanga
 grivna
-gorgonin
 gluteofemoral
 gratefully
 gompholobium
@@ -4692,6 +4691,7 @@ griminess
 groundnut
 girshes
 gipsyish
+gorgonin
 gingkoes
 gunhouse
 gestatorium
