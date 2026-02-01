@@ -4385,7 +4385,6 @@ groundhog
 gink
 goles
 gorgoneia
-grandsonship
 gloss
 gemmated
 gutless
@@ -8656,6 +8655,7 @@ guarea
 gromatics
 gendarmerie
 greyish
+grandsonship
 guttered
 goldang
 grip
