@@ -9636,6 +9636,7 @@ edestan
 expressing
 epilabrum
 enactment
+extinction
 erysiphe
 emigrated
 emptory
@@ -12555,7 +12556,6 @@ exsects
 enounce
 embubble
 exite
-extinction
 envied
 epistolist
 entryman
