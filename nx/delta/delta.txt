@@ -2504,6 +2504,7 @@ dateable
 decibar
 dendrochronology
 drysaltery
+dp
 distilment
 displeasingly
 discussionism
@@ -12176,7 +12177,6 @@ drapers
 doorknobs
 diffuseness
 dialogism
-dp
 deutoscolex
 disluster
 dorbie
