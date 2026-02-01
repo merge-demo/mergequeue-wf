@@ -188,7 +188,6 @@ gliadines
 gaudsman
 glagolitsa
 geneses
-gimble
 goll
 gooks
 girdling
@@ -6544,6 +6543,7 @@ glaucic
 graceless
 galls
 gatherable
+gimble
 granduncles
 grottoed
 gromwell
