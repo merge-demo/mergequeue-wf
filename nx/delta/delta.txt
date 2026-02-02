@@ -2457,6 +2457,7 @@ dipyre
 decision
 dhobey
 dustpan
+disvulnerability
 defeatists
 decisional
 decisions
@@ -7327,7 +7328,6 @@ dulcarnon
 detorsion
 deashed
 disagreed
-disvulnerability
 determiner
 diameters
 determinism
