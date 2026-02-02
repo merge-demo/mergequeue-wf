@@ -2312,6 +2312,7 @@ enbloc
 endolymph
 excretal
 extinguishes
+elaterids
 egest
 eternisation
 equality
@@ -5378,7 +5379,6 @@ epicyesis
 erogeny
 endothecial
 equator
-elaterids
 egers
 elateridae
 essoinee
