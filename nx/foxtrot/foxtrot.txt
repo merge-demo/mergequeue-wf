@@ -5664,7 +5664,6 @@ formularise
 figureheads
 futtah
 flintiness
-forgetfulness
 fixity
 flocculently
 foreadvertise
@@ -8422,6 +8421,7 @@ forlive
 finland
 frauder
 fm
+forgetfulness
 floorman
 futhark
 folksy
