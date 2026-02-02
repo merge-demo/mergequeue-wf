@@ -17130,7 +17130,6 @@ bullion
 bonbonniere
 bullyrag
 bullyragger
-booklice
 balantidial
 brachiopod
 bearship
@@ -17441,6 +17440,7 @@ bacteroid
 bunoselenodont
 biatomic
 brulots
+booklice
 boomage
 bloomer
 bridles
