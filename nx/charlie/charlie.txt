@@ -16640,7 +16640,6 @@ comparableness
 conjurer
 clerodendron
 choleuria
-cyclothurus
 coadmire
 clonking
 crypt
@@ -24792,6 +24791,7 @@ copter
 cyclomania
 clausilia
 concert
+cyclothurus
 cabbing
 cheechakos
 coroscopy
