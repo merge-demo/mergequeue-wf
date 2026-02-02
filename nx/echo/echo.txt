@@ -6343,7 +6343,6 @@ euclidean
 enteradenography
 enterocystoma
 emmenagogue
-elenchtic
 ensanguine
 epidermization
 eloquent
@@ -12735,6 +12734,7 @@ ever
 exactingness
 eradication
 enroll
+elenchtic
 elderberry
 echinologist
 empresa
