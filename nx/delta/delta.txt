@@ -1191,7 +1191,6 @@ datary
 dataries
 dialoguer
 depeach
-dithers
 datcha
 disclamation
 demiassignation
@@ -17979,6 +17978,7 @@ decompensate
 deplumate
 decongestive
 dukes
+dithers
 deifical
 deseasonalize
 dukkeripen
