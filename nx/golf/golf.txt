@@ -3010,7 +3010,6 @@ graspable
 gollywog
 glitteringly
 gyrostatically
-gastrostomus
 gromet
 genii
 globulins
@@ -4306,6 +4305,7 @@ girlchild
 galeod
 gnocchetti
 girse
+gastrostomus
 grounds
 gleesomeness
 goshawful
