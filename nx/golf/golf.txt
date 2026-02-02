@@ -7106,7 +7106,6 @@ gaus
 gastrectomy
 gunwales
 gasteromycete
-greenier
 gesnerian
 garbell
 garnetberry
@@ -9444,6 +9443,7 @@ gymel
 glycerolize
 gaywings
 glues
+greenier
 grifting
 galloptious
 glycocholate
