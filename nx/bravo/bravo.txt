@@ -5340,7 +5340,6 @@ besputter
 batekes
 bejuggle
 burkers
-beglooms
 begloze
 busti
 brokenly
@@ -7282,6 +7281,7 @@ bongoists
 bahur
 boninite
 becater
+beglooms
 basophil
 bedight
 bipont
