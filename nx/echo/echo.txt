@@ -9856,7 +9856,6 @@ eiry
 etagre
 epipodia
 expurgator
-eikon
 endopleuritic
 emulsifications
 ebriously
@@ -13719,6 +13718,7 @@ excursionize
 expiatist
 ermanaric
 ergocalciferol
+eikon
 enginous
 evasive
 euphemiser
