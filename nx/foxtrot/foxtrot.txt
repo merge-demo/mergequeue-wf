@@ -3452,7 +3452,6 @@ fiascoes
 fireshine
 foretalk
 fatwood
-forprise
 fiendly
 featurely
 fulfilment
@@ -7991,6 +7990,7 @@ frontomallar
 forslow
 frondesced
 ferahan
+forprise
 faeculence
 fadednyess
 frowzily
