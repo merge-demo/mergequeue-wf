@@ -1811,7 +1811,6 @@ brittled
 botryllidae
 boothes
 bamalip
-basswood
 bambochade
 bosuns
 bamboozles
@@ -16319,6 +16318,7 @@ banknotes
 bogies
 brachistochronic
 busbies
+basswood
 bayz
 brucellae
 bibliopegist
