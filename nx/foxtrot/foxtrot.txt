@@ -5250,7 +5250,6 @@ fervours
 favour
 farsakh
 flatulency
-forthwith
 formicariidae
 folders
 flatfeet
@@ -7948,6 +7947,7 @@ fyrd
 farls
 foresail
 fasten
+forthwith
 floes
 fetticus
 feiseanna
