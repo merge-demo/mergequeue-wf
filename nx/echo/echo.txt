@@ -3744,6 +3744,7 @@ entrepots
 embryogenesis
 expositively
 extravert
+exostrae
 exomion
 engarment
 emaciated
@@ -13144,7 +13145,6 @@ extensionality
 ergology
 euphonizing
 engarrison
-exostrae
 encoded
 electrothermotic
 epistolization
