@@ -7593,7 +7593,6 @@ ambigenous
 adaw
 alcoholize
 alcoholmeter
-airmass
 anemogram
 angiomata
 autoloaders
@@ -12496,6 +12495,7 @@ anesone
 amotion
 ashthroat
 apexes
+airmass
 anacatadidymus
 anesthesimeter
 axiomatizations
