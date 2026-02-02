@@ -4627,7 +4627,6 @@ carniform
 consummatory
 chukar
 collie
-colloquialism
 carpologically
 carnival
 carnivalesque
@@ -29274,6 +29273,7 @@ cartwheel
 cryptococcosis
 chinband
 cryptococcus
+colloquialism
 chouette
 cryptocurrency
 cunabula
