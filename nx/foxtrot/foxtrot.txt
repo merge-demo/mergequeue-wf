@@ -2642,6 +2642,7 @@ foresheet
 fontes
 ferrometer
 flavorer
+footnote
 ferronatrite
 fluorouracil
 frameae
@@ -10632,7 +10633,6 @@ festine
 fustier
 fragmental
 francophobe
-footnote
 feeblebrained
 foreswore
 feldsher
