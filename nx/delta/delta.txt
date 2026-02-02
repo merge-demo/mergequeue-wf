@@ -3826,7 +3826,6 @@ defoams
 deciduous
 dicellate
 deionizations
-daboia
 deportable
 dichroiscope
 diatropic
@@ -17192,6 +17191,7 @@ decursive
 depletory
 drive
 diastrophism
+daboia
 dicyclic
 desmognathism
 dehair

@@ -436,6 +436,7 @@ abilitable
 ability
 abilla
 abilo
+anaclisis
 apocinchonine
 acinetinan
 abintestate
@@ -11998,7 +11999,6 @@ anat
 anatase
 ardebs
 ancestress
-anaclisis
 apogamically
 aspartate
 anathematical
