@@ -1595,7 +1595,6 @@ facially
 farcetta
 footingly
 fooster
-fellest
 favorer
 fundable
 fen
@@ -6094,6 +6093,7 @@ foo
 fidiculae
 fellowman
 forthrightness
+fellest
 forepoled
 fetich
 fourierist
