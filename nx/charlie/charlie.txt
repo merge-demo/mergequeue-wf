@@ -3077,6 +3077,7 @@ chivalric
 cantus
 cantuta
 cantwise
+criosphinxes
 castigated
 canula
 canulae
@@ -29178,7 +29179,6 @@ cryospheric
 ciseaux
 chrysoprasus
 chromatospheric
-criosphinxes
 cryostat
 cryosurgeon
 cryosurgery
