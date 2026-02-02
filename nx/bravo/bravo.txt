@@ -12462,6 +12462,7 @@ bests
 bowerlike
 beanos
 bakeout
+babeldom
 bonbon
 betsimisaraka
 behap
@@ -17428,7 +17429,6 @@ buffi
 baltis
 bluey
 bunking
-babeldom
 browny
 bunny
 bethumb
