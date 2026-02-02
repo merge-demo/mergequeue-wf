@@ -1108,7 +1108,6 @@ fittage
 finkel
 fellatrixes
 feedboard
-fatiguing
 fossorial
 frighted
 ferula
@@ -4631,6 +4630,7 @@ frictionize
 frutices
 floscularia
 flabbily
+fatiguing
 fool
 footlight
 fringilliformes
