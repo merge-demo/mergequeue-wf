@@ -5276,6 +5276,7 @@ gyrovagi
 goofer
 gemmipara
 groovy
+glycose
 glycosine
 golf
 garnished
@@ -8372,7 +8373,6 @@ gobber
 greyer
 gentes
 gladness
-glycose
 graphostatic
 grailing
 gudes
