@@ -921,7 +921,6 @@ greekery
 gonoblast
 gudemother
 guaranian
-gnateater
 gitanemuck
 gout
 geldant
@@ -9622,6 +9621,7 @@ geums
 gedanite
 gonoblastidium
 graphite
+gnateater
 growliest
 gladship
 gonging
