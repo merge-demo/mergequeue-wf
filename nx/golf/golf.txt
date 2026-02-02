@@ -9009,7 +9009,6 @@ galingale
 galloway
 guaranteed
 glander
-getable
 glenlike
 greys
 grouseward
@@ -9213,6 +9212,7 @@ grippiness
 gratulatory
 glycolytically
 gynecologist
+getable
 guanajuatite
 greenwich
 genotypes
