@@ -281,6 +281,7 @@ giles
 garnison
 grantsmanship
 gaudful
+gallivanted
 gamphrel
 gourami
 gargoylish
@@ -6437,7 +6438,6 @@ griot
 gregorian
 gnomonia
 gazes
-gallivanted
 gouger
 gelates
 guineapig
