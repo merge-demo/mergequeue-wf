@@ -19745,7 +19745,6 @@ cytozyme
 combinational
 corrigent
 chorepiscope
-cloots
 combinations
 cells
 combinative
@@ -29021,6 +29020,7 @@ criminator
 curve
 ceratopsia
 cigarless
+cloots
 cals
 criminologic
 criminologically
