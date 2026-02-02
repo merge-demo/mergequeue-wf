@@ -2130,6 +2130,7 @@ carib
 crenellated
 campanologer
 crucis
+coapts
 croaker
 coalmonger
 conjunctly
@@ -19251,7 +19252,6 @@ cimbia
 collutoria
 collutories
 cafeteria
-coapts
 combretaceae
 collutorium
 colluvial
