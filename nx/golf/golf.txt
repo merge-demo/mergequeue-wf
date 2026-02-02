@@ -5641,7 +5641,6 @@ gravity
 guiltily
 gurrah
 gruidae
-glyptology
 gentry
 gunstick
 groupies
@@ -8809,6 +8808,7 @@ gospodar
 guyandot
 goldenpert
 ghostess
+glyptology
 gulfs
 goalless
 gymnostomina
