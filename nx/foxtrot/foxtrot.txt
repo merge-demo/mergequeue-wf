@@ -91,6 +91,7 @@ fingerprints
 furazan
 filao
 forcelessness
+foretriangle
 fightable
 facetiae
 fluxionally
@@ -10058,7 +10059,6 @@ footpaths
 foreshroud
 framableness
 forfeiter
-foretriangle
 furlongs
 fenceless
 flagons
