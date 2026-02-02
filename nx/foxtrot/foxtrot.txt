@@ -649,6 +649,7 @@ foreshape
 faburden
 frenchification
 fumier
+foxproof
 foisted
 faltere
 flecnodal
@@ -1227,7 +1228,6 @@ fright
 fund
 fleech
 fillowite
-foxproof
 fountainlike
 fleckled
 fourteens
