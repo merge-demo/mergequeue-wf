@@ -5099,6 +5099,7 @@ extraditions
 eclogites
 encephalospinal
 etym
+ectypes
 exited
 endoclinal
 eternals
@@ -6623,7 +6624,6 @@ ecarte
 electromagnetically
 exolemma
 emove
-ectypes
 ergothioneine
 exodontia
 eruditional
