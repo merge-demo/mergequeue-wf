@@ -2510,7 +2510,6 @@ bereason
 bibliophilism
 binotic
 bigram
-baresthesia
 bottom
 burglarise
 beseemliness
@@ -9810,6 +9809,7 @@ biggishness
 budding
 boeotarch
 brights
+baresthesia
 betsileos
 buttresses
 barleymow
