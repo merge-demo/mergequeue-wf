@@ -8729,7 +8729,6 @@ divested
 depolarizing
 diethylethanolamine
 drainages
-diastereoisomerism
 diomedeidae
 dodges
 druid
@@ -18372,6 +18371,7 @@ distributress
 dyestuff
 diallelon
 duodene
+diastereoisomerism
 dismantled
 dampens
 departmentalizes

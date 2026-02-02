@@ -13941,7 +13941,6 @@ adenoviral
 anhaemolytic
 auntie
 anteact
-anchylosis
 amphiprotic
 amoks
 achloropsia
@@ -23306,6 +23305,7 @@ abadite
 archicerebra
 aurorium
 antidrag
+anchylosis
 attributively
 attributor
 ammonias
