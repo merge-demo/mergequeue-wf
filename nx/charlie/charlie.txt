@@ -828,6 +828,7 @@ cytophagy
 cayenned
 contouring
 cerberus
+chromospheres
 corban
 cailcedra
 counterrestoration
@@ -3562,7 +3563,6 @@ cairngorm
 contusive
 capsulolenticular
 capsulopupillary
-chromospheres
 capsulorrhaphy
 cupboards
 capsulotomy
