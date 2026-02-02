@@ -356,7 +356,6 @@ aberrating
 agdistis
 arrival
 aberration
-aberrational
 aftercure
 aberrative
 acinose
@@ -18765,6 +18764,7 @@ archelon
 ally
 archemastry
 airdrops
+aberrational
 apotropaism
 alebench
 adoxaceae
