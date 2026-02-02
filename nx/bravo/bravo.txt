@@ -2457,6 +2457,7 @@ basotho
 bonete
 blackjacked
 bradenhead
+bnf
 bans
 byres
 boring
@@ -12519,7 +12520,6 @@ bonify
 bdls
 betaines
 betrayed
-bnf
 bondstone
 burntness
 bagpiped
