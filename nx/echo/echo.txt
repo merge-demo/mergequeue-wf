@@ -879,7 +879,6 @@ ectocondylar
 endophytic
 emendator
 electrolyser
-epicarp
 exocarps
 ectodermosis
 ennuyante
@@ -8364,6 +8363,7 @@ epistemic
 egyptians
 engrieve
 effeminize
+epicarp
 estragole
 eskimoic
 excrementary
