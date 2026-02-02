@@ -5417,7 +5417,6 @@ electively
 evangelium
 endotys
 enhardy
-endomitotic
 endotracheal
 empresario
 endeavourer
@@ -11463,6 +11462,7 @@ eructate
 epichoric
 enough
 enveloping
+endomitotic
 euxanthone
 erpetoichthys
 escaladed
