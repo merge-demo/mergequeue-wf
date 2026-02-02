@@ -332,7 +332,6 @@ dorylinae
 droughtiness
 daymares
 disseizes
-dewaterer
 diarists
 daymark
 doupion
@@ -18402,6 +18401,7 @@ duodenums
 dimorphite
 damsons
 deltarium
+dewaterer
 delver
 deepfreezing
 dorrs
