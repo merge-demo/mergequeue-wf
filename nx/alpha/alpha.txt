@@ -5204,7 +5204,6 @@ alemanni
 aggerate
 affinities
 affinition
-apostrophe
 affinitive
 affirmable
 absolvers
@@ -8328,6 +8327,7 @@ alkahest
 agalaxy
 agistment
 allopath
+apostrophe
 assoin
 agrestal
 aortoptosis
