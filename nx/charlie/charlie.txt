@@ -19463,7 +19463,6 @@ colors
 cutose
 colossal
 colossality
-colossally
 colossean
 curling
 colosseum
@@ -21379,6 +21378,7 @@ clutterment
 carbonator
 conciliations
 conciliator
+colossally
 contessa
 carbonless
 carpetmonger
