@@ -1159,6 +1159,7 @@ eupepsia
 environage
 edition
 everich
+explicate
 endere
 editorialization
 ecphory
@@ -3635,7 +3636,6 @@ ethanamide
 enslaves
 eschewance
 extortionary
-explicate
 extreme
 equinecessary
 eupeptic
