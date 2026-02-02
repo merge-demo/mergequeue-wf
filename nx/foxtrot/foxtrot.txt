@@ -7170,7 +7170,6 @@ fetors
 fusional
 fostership
 forgeability
-flanchard
 foolproofness
 frostlike
 fissureless
@@ -11757,6 +11756,7 @@ fustics
 forstraught
 fertilitate
 fianna
+flanchard
 fullhearted
 fellowred
 femalist
