@@ -4247,6 +4247,7 @@ fado
 flickertail
 fishet
 fibrocellular
+facing
 formamido
 flummadiddle
 federals
@@ -9430,7 +9431,6 @@ fecal
 fileted
 fantastical
 fittings
-facing
 fleaseed
 fettler
 fogger
