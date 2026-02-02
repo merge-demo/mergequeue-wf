@@ -763,7 +763,6 @@ goloka
 gamboller
 gambade
 gravata
-gambang
 greenlandite
 gagsters
 glucosane
@@ -8961,6 +8960,7 @@ gemmiform
 golfed
 galumphs
 girt
+gambang
 galere
 guinevere
 groroilite
