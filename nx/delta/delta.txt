@@ -4602,6 +4602,7 @@ diagrammatize
 dinic
 demisang
 disabuses
+decolouration
 didine
 dadas
 disannul
@@ -7335,7 +7336,6 @@ duecentos
 dischurch
 deterrence
 disprejudice
-decolouration
 dodunk
 detersiveness
 disportive
