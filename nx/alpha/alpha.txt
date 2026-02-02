@@ -4594,6 +4594,7 @@ avikom
 aecidial
 aecidiospore
 asynchrony
+alphabetise
 aglare
 alismad
 apanthropy
@@ -20188,7 +20189,6 @@ assiduously
 arrearage
 aromaticity
 arterious
-alphabetise
 aphanesite
 argentometric
 assignors
