@@ -3671,7 +3671,6 @@ balloonery
 buffoon
 bifrontal
 booboo
-bergut
 batsman
 barrelsful
 bookfold
@@ -11629,6 +11628,7 @@ brokerages
 baggageman
 brushite
 budgeted
+bergut
 bisontine
 boardings
 boardsmanship
