@@ -12536,7 +12536,6 @@ existentialistically
 ethyldichloroarsine
 eupione
 estolide
-enzymology
 exculpative
 esterify
 extoolitic
@@ -13952,6 +13951,7 @@ ectotrophic
 effectivity
 expressless
 epimer
+enzymology
 eozoonal
 enterostenosis
 evidently
