@@ -2635,7 +2635,6 @@ fatback
 flabelliform
 filthy
 filazer
-feoffed
 foresheet
 fontes
 ferrometer
@@ -3344,6 +3343,7 @@ fortier
 finity
 factitious
 flirtationless
+feoffed
 framed
 fortunately
 foxfinger
