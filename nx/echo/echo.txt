@@ -2740,7 +2740,6 @@ electrotheraputic
 elocution
 emyds
 empestic
-enteroptosis
 esophagus
 empyreumatic
 elaeopten
@@ -4107,6 +4106,7 @@ erotophobia
 erythroderma
 eliasite
 epiphonemae
+enteroptosis
 empathized
 elongation
 erade
