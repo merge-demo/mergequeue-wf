@@ -3406,6 +3406,7 @@ explanatoriness
 evectic
 emanatist
 excludability
+eustachium
 epical
 erupt
 enterer
@@ -5310,7 +5311,6 @@ emeriti
 eosinophil
 enureses
 exuberation
-eustachium
 ernest
 estocs
 ergodicity
