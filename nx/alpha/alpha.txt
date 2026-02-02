@@ -4367,7 +4367,6 @@ antifebrile
 ablactated
 antonella
 acastus
-almightiness
 alphanumerics
 anconeous
 ambulators
@@ -23531,6 +23530,7 @@ antidemocracy
 alieners
 altometer
 abstemiousness
+almightiness
 ammoniaemia
 augustine
 arsenicating
