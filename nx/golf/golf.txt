@@ -3308,6 +3308,7 @@ groceries
 gerocomia
 glent
 grabbable
+geometridae
 glosseme
 gula
 goosewinged
@@ -7887,7 +7888,6 @@ gradgrindish
 guhayna
 goatskin
 glumpier
-geometridae
 gileno
 greylags
 glandules
