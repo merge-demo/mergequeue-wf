@@ -415,7 +415,6 @@ glaucionetta
 galeid
 gazabo
 genny
-guide
 gyms
 gemmation
 gyrenes
@@ -4428,6 +4427,7 @@ guanidin
 galziekte
 gazangabin
 gambits
+guide
 ginseng
 globigerinidae
 gynura
