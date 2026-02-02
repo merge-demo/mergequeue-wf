@@ -1647,6 +1647,7 @@ evens
 enthraldom
 ephebeion
 eradicated
+exanthema
 egress
 erizo
 epiblastic
@@ -8956,7 +8957,6 @@ ergomaniac
 eragrostis
 electrofishing
 entelam
-exanthema
 experimentally
 ergoted
 encephalomalaxis
