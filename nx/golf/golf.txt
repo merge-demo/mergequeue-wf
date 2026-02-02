@@ -7115,7 +7115,6 @@ gentiledom
 gercrow
 glucic
 gimp
-grottos
 glossorrhaphy
 galletas
 galeres
@@ -8826,6 +8825,7 @@ generable
 gablock
 gasterophilus
 gonogenesis
+grottos
 gregariously
 guerickian
 geochronology
