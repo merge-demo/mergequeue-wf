@@ -12615,6 +12615,7 @@ buckaroo
 bragi
 bemocks
 bardane
+budh
 bonk
 begrudging
 ballast
@@ -16820,7 +16821,6 @@ bleareyed
 bellerophontidae
 brachylogies
 bourdon
-budh
 bronc
 bharti
 biorythmic
