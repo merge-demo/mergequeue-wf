@@ -316,7 +316,6 @@ deti
 daybreaks
 diplostichous
 danio
-duskness
 deperdit
 daygoing
 dandering
@@ -1018,6 +1017,7 @@ dharmasutra
 disobligingness
 diabetics
 doctrines
+duskness
 divorcer
 dormie
 darlingness
