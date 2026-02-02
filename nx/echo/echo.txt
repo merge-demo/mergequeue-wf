@@ -12543,7 +12543,6 @@ eftest
 extant
 eschaufe
 existlessness
-euconjugatae
 epistemological
 embezzle
 exit
@@ -12654,6 +12653,7 @@ epithet
 ettled
 encratism
 exogenously
+euconjugatae
 exostracism
 examplar
 exogyra
