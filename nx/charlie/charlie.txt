@@ -8307,7 +8307,6 @@ chiver
 contravariant
 councillary
 chalder
-coholder
 chaleh
 chalybes
 chalice
@@ -25195,6 +25194,7 @@ corybantine
 chemung
 charka
 contemporaneousness
+coholder
 coque
 chudder
 corybulbin
