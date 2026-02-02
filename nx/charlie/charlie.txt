@@ -5244,7 +5244,6 @@ concordatum
 cocentric
 cashiered
 chenopodium
-cashierment
 crows
 centered
 clearest
@@ -24680,6 +24679,7 @@ carpospore
 copperbottom
 copperer
 cossack
+cashierment
 curare
 copperhead
 constructionism
