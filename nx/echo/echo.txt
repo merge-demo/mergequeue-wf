@@ -506,6 +506,7 @@ enchiridia
 ecclesia
 elapsing
 extoll
+esthesiophysiology
 entrada
 empasm
 etesians
@@ -4531,7 +4532,6 @@ exhort
 embryophyta
 encephalographic
 enamelling
-esthesiophysiology
 exterminator
 exheredation
 enfiled
