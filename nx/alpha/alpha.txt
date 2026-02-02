@@ -14397,6 +14397,7 @@ arunta
 aminosulphonic
 adjudged
 anaerobe
+artillerist
 antiburgher
 apse
 antimerina
@@ -22648,7 +22649,6 @@ athecae
 alarge
 appender
 acrodus
-artillerist
 ablepharus
 atheistically
 antisyndicalism
