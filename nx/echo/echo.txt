@@ -59,6 +59,7 @@ electroretinograph
 excursion
 effusiometer
 escarped
+engorgement
 eremite
 exhibiter
 evenblush
@@ -7414,7 +7415,6 @@ emasculations
 esthiomenus
 electrolyze
 experiencible
-engorgement
 epaulement
 ebeneous
 evaporite
