@@ -5937,7 +5937,6 @@ guaranteers
 gluepot
 gendered
 gynophoric
-gimballed
 gorb
 gaylussacia
 grumblers
@@ -8627,6 +8626,7 @@ glided
 goldanged
 grantha
 geminations
+gimballed
 grauwacke
 gap
 germanized
