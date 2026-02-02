@@ -16394,7 +16394,6 @@ doxa
 doxastic
 dghaisa
 doxie
-deflector
 disputacity
 dhoora
 decolourise
@@ -17275,6 +17274,7 @@ deniers
 dentiform
 duledge
 dilluer
+deflector
 didactylous
 doublethinking
 druidology
