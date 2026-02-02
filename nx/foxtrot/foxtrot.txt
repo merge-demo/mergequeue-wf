@@ -793,6 +793,7 @@ floundered
 fallows
 ferried
 fellowlike
+favourable
 flamers
 flatbed
 freesp
@@ -8730,7 +8731,6 @@ feminisms
 fourling
 foulmart
 favellidium
-favourable
 fenagled
 florizine
 flaxwench
