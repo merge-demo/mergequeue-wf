@@ -10963,7 +10963,6 @@ buhlwork
 barth
 bourrees
 batiked
-bedchair
 batara
 blesbuck
 burps
@@ -14534,6 +14533,7 @@ boloney
 bescreens
 battleful
 bellmouth
+bedchair
 bolson
 biblicist
 bridgings
