@@ -9052,6 +9052,7 @@ dicolon
 disbar
 deairs
 dudine
+detached
 dicotyles
 delaminated
 dextraural
@@ -16465,7 +16466,6 @@ decryption
 disnumber
 dracontic
 dwellings
-detached
 disagreeables
 daydreamed
 dracontium
