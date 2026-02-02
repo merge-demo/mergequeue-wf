@@ -4717,7 +4717,6 @@ epidialogue
 encyclopedic
 ebauche
 endopolyploid
-encyclopedical
 exacerbating
 egence
 envire
@@ -11003,6 +11002,7 @@ euphuize
 eupyrion
 electropercussive
 exsputory
+encyclopedical
 empathetic
 enteritis
 eugubine
