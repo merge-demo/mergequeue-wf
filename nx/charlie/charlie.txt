@@ -13,7 +13,6 @@ cabaho
 cabal
 condylarthrous
 chaenomeles
-collegian
 cows
 corkmaking
 cabaletta
@@ -26719,6 +26718,7 @@ chromatopathic
 cartelization
 cirrated
 counterbattery
+collegian
 calamitously
 cubicles
 counterblast
