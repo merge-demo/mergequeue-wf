@@ -3525,6 +3525,7 @@ diplomatic
 disaccharides
 deflocculate
 drumloid
+dialogistic
 disapproving
 dopy
 defrayable
@@ -5741,7 +5742,6 @@ descendability
 duree
 disjoint
 dilemi
-dialogistic
 descriptor
 decasualizing
 domiciliation
