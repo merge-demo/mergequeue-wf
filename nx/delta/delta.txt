@@ -4601,6 +4601,7 @@ diagrammatize
 dinic
 demisang
 disabuses
+disobliges
 decolouration
 didine
 dadas
@@ -12963,7 +12964,6 @@ dysarthrosis
 diospyraceae
 disoblige
 dognapping
-disobliges
 daidlie
 demobilization
 domesticability
