@@ -3170,7 +3170,6 @@ elm
 embarrassment
 educing
 expiscatory
-electrocauterization
 edgewise
 equipotential
 epistolographist
@@ -12782,6 +12781,7 @@ exordium
 elsewise
 exortion
 extols
+electrocauterization
 exosmose
 exosmotic
 excarnation
