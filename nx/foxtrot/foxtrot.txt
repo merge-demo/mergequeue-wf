@@ -6736,6 +6736,7 @@ flintily
 footpath
 fillip
 forevouched
+fringent
 foehnlike
 furcilia
 fulgurating
@@ -10094,7 +10095,6 @@ foollike
 flans
 fringelet
 fruitier
-fringent
 feminacy
 fringetail
 foreplot
