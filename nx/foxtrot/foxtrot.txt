@@ -3944,7 +3944,6 @@ findhorn
 filarees
 fine
 fineableness
-flisked
 flight
 fumigators
 fusinist
@@ -6735,6 +6734,7 @@ fringent
 foehnlike
 furcilia
 fulgurating
+flisked
 flossing
 forenotice
 flytier
