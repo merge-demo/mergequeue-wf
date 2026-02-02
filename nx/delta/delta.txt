@@ -13038,7 +13038,6 @@ dilaters
 dusack
 disorganise
 disorganised
-decoct
 drammock
 deterrently
 discreate
@@ -15711,6 +15710,7 @@ demiturned
 disgig
 dawcock
 digamist
+decoct
 dacryocystocele
 doricism
 deflectometer
