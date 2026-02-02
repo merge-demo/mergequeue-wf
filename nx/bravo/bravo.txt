@@ -8139,7 +8139,6 @@ binocularity
 bourbon
 bug
 blasphemer
-beltmaker
 botonn
 bloodhound
 bidiagonal
@@ -13851,6 +13850,7 @@ bucephalus
 bowe
 blae
 bibcock
+beltmaker
 bedikah
 boilers
 bowelled
