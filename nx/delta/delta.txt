@@ -2061,7 +2061,6 @@ dermatotomy
 debuting
 daikered
 devotion
-dimedon
 downgate
 decaying
 diopsimeter
@@ -4743,6 +4742,7 @@ detours
 dismisser
 deistic
 dentaphone
+dimedon
 demodulating
 dishware
 deaconing
