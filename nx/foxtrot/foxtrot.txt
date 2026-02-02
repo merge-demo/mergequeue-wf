@@ -5013,7 +5013,6 @@ fermentability
 flacourtiaceous
 funtumia
 frogman
-fructified
 festellae
 festinate
 fevertwitch
@@ -7956,6 +7955,7 @@ faitor
 fortescure
 fibrinolytic
 futchel
+fructified
 footeite
 fogyishness
 fletcherite
