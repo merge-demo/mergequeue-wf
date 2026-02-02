@@ -10420,7 +10420,6 @@ anagrammatize
 amids
 apolarity
 aphids
-ascaris
 anotia
 amidulin
 axones
@@ -21485,6 +21484,7 @@ assedation
 aspers
 adenosarcoma
 asperse
+ascaris
 anaseismic
 abecedaries
 agapeically
