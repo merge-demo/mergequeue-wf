@@ -2317,6 +2317,7 @@ delectations
 denizens
 didna
 deportees
+deathlike
 damming
 disseizin
 disco
@@ -18570,7 +18571,6 @@ dappled
 durrin
 dig
 deuteromycetes
-deathlike
 disanimated
 doolie
 dusked
