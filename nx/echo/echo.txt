@@ -9789,6 +9789,7 @@ euhedral
 ectogenesis
 exoticity
 enrobing
+enharmonical
 eucharist
 exfoliatory
 elamp
@@ -10703,7 +10704,6 @@ evilproof
 enmoss
 endozoa
 eques
-enharmonical
 enchilada
 erythrocytolysin
 encephalocele
