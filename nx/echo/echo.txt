@@ -213,6 +213,7 @@ equipoising
 enfief
 extraformal
 examiner
+edgeways
 ecclesiasticus
 emeras
 exarticulation
@@ -12829,7 +12830,6 @@ electorates
 embossmen
 extraretinal
 ensepulchered
-edgeways
 elinguated
 equinities
 educating
