@@ -10297,7 +10297,6 @@ benevolist
 blacksnake
 baneful
 boltonite
-bliaut
 betaken
 ballsy
 backslidingness
@@ -16835,6 +16834,7 @@ buffa
 brumbee
 bacterioid
 bicolligate
+bliaut
 bromoauric
 buffalo
 buffalofish
