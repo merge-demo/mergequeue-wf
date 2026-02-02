@@ -1196,7 +1196,6 @@ epipharyngeal
 exorbitate
 envyingly
 enterograph
-enchytraeidae
 edoni
 excisemen
 entrochite
@@ -1629,6 +1628,7 @@ estoppage
 ecchymoses
 errantly
 eyewitnesses
+enchytraeidae
 egomania
 exsanguinate
 elatedness
