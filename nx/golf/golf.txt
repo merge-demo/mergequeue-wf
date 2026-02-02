@@ -377,7 +377,6 @@ gradeless
 genuflexuous
 galatea
 glucogenesis
-gelding
 gapeworm
 gispin
 galaxias
@@ -8067,6 +8066,7 @@ grapnels
 glaucine
 gript
 gulls
+gelding
 gunstocking
 genys
 gastronomy
