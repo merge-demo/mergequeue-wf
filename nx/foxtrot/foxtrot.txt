@@ -5722,6 +5722,7 @@ flyless
 forhale
 forbearingly
 flitted
+flashcube
 floggers
 fulgurata
 feoffing
@@ -10427,7 +10428,6 @@ flavorless
 forays
 fructus
 francium
-flashcube
 formatting
 footwall
 frontierless
