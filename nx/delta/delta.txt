@@ -6149,6 +6149,7 @@ dowsabels
 delapsion
 dereistic
 diathesis
+diasynthesis
 detectivism
 derelicts
 demast
@@ -13175,7 +13176,6 @@ dipeptidase
 diocese
 disperple
 deicer
-diasynthesis
 diadem
 deflourish
 dentists
