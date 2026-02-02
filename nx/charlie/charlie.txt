@@ -3301,6 +3301,7 @@ cyclotomy
 cystenchyme
 cochliodus
 capite
+carapine
 christianized
 capitellate
 canteen
@@ -3751,7 +3752,6 @@ carapidae
 cineastes
 canard
 clawlike
-carapine
 canvasback
 cucumaria
 coraji
