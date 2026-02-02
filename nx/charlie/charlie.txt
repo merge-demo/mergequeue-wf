@@ -8897,7 +8897,6 @@ characterology
 coffle
 crosshead
 corbelled
-cassinette
 cerned
 contraposaune
 characters
@@ -22097,6 +22096,7 @@ confluent
 combatively
 confluxes
 confluxibility
+cassinette
 confluxible
 coempt
 carbureting
