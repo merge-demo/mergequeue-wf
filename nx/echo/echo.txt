@@ -7019,7 +7019,6 @@ extrapolations
 evenness
 election
 empt
-environmental
 enounces
 embryologic
 elicitate
@@ -12705,6 +12704,7 @@ endopterygote
 esotericist
 erie
 elenchus
+environmental
 emparadise
 exodontics
 endorsor
