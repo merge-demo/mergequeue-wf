@@ -2924,7 +2924,6 @@ fractioning
 fettlings
 feminises
 fondlike
-flog
 fackins
 featous
 fungiferous
@@ -4827,6 +4826,7 @@ functionalize
 fulldo
 foxberries
 flammiferous
+flog
 fluing
 follower
 flambeaux
