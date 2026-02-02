@@ -2594,7 +2594,6 @@ acousticon
 allotriognathi
 assist
 acoustoelectric
-acpt
 acridinic
 acquaintanceship
 aulical
@@ -15305,6 +15304,7 @@ arbuscle
 antiinsurrectionists
 antikathode
 abatements
+acpt
 aeromaechanic
 angioparalysis
 adulterate
