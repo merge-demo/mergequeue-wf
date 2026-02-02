@@ -11140,6 +11140,7 @@ antistalling
 amphiplatyan
 acknowledge
 ascicidia
+amusement
 apili
 ameen
 amphipoda
@@ -11375,7 +11376,6 @@ appetites
 algoristic
 alderman
 astely
-amusement
 artificership
 annealed
 acquiescence
