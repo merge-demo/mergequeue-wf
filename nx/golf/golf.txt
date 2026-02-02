@@ -96,6 +96,7 @@ getah
 gujerat
 glairier
 guises
+gassendist
 galeate
 gofferer
 gliomata
@@ -7321,7 +7322,6 @@ gerated
 glandular
 goofing
 galbanums
-gassendist
 gamotropism
 gauffer
 glutaric
