@@ -1007,6 +1007,7 @@ dhabb
 downlying
 darkmans
 dineutron
+discinoid
 drawbars
 diathermal
 daggly
@@ -10394,7 +10395,6 @@ demurrers
 ditton
 damia
 demitted
-discinoid
 diopters
 dismark
 delf
