@@ -5814,7 +5814,6 @@ fanfolds
 flush
 flavins
 finback
-flirt
 faunus
 fixatif
 federalese
@@ -11441,6 +11440,7 @@ fortunetell
 fancify
 formfeed
 frizers
+flirt
 firebase
 folkmoter
 fluorotype
