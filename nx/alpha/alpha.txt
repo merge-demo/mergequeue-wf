@@ -11694,7 +11694,6 @@ angelica
 analepses
 armpad
 agrege
-analeptic
 anabasis
 anthropophagous
 allargando
@@ -22982,6 +22981,7 @@ atrypoid
 awoke
 assimilation
 antigovernment
+analeptic
 ascensions
 atriums
 aegises
