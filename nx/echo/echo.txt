@@ -3976,7 +3976,6 @@ emoloa
 escarp
 effulged
 encephalophyma
-emolumental
 emulator
 extemporiser
 enstate
@@ -13262,6 +13261,7 @@ epeiridae
 ergotaminine
 embroiders
 excluders
+emolumental
 endocrinopathic
 equiparation
 entocone
