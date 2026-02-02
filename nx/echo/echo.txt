@@ -4666,7 +4666,6 @@ endows
 etherealised
 encarpuspi
 ethicosocial
-exocrinology
 enhydrite
 edriophthalmatous
 enemies
@@ -5248,6 +5247,7 @@ exam
 extrascriptural
 escartelly
 euphuizing
+exocrinology
 epirot
 expenseless
 epistolarily
