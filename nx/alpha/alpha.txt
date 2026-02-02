@@ -3857,6 +3857,7 @@ analcite
 arthrous
 alphorns
 ayes
+abbreviators
 atrabiliousness
 aeschylean
 adjectional
@@ -25088,7 +25089,6 @@ aggregated
 axemen
 arsine
 axenically
-abbreviators
 annual
 antisolar
 advanceable
