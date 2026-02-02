@@ -4579,7 +4579,6 @@ epagoge
 echinodermal
 excubitoria
 emberizidae
-enterocystoma
 extrabranchial
 embeggar
 earthmove
@@ -6343,6 +6342,7 @@ enthralment
 embowed
 euclidean
 enteradenography
+enterocystoma
 emmenagogue
 elenchtic
 ensanguine
