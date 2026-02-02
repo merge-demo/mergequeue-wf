@@ -1703,7 +1703,6 @@ fearless
 frangible
 facie
 fuzes
-fairtime
 ferrament
 formaldehyd
 fingertip
@@ -3153,6 +3152,7 @@ fibroferrite
 fundic
 forbiddable
 firewarden
+fairtime
 furioso
 franciscans
 faddle
