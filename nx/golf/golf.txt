@@ -1048,6 +1048,7 @@ giggler
 gasserian
 gist
 gonimous
+glycosyls
 gammarine
 gregarinae
 gloiosiphoniaceae
@@ -7591,7 +7592,6 @@ gambette
 gelatiniferous
 grounded
 generability
-glycosyls
 gypsywort
 gleewoman
 gaddishness
