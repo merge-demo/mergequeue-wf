@@ -2444,7 +2444,6 @@ flabellifoliate
 fobbed
 festivities
 fulgurous
-frizzle
 farandola
 flutterable
 fiel
@@ -7878,6 +7877,7 @@ fatiguable
 fellen
 fliping
 fripperer
+frizzle
 fratricides
 fencible
 flagellating
