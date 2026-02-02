@@ -7296,6 +7296,7 @@ faenas
 fibreless
 footpaces
 ferfathmur
+featy
 fifer
 farweltered
 foolocracy
@@ -9142,7 +9143,6 @@ flyboat
 frisure
 fenlander
 flneuse
-featy
 flagellar
 flourisher
 faceplate
