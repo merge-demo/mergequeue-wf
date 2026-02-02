@@ -1008,6 +1008,7 @@ baidarkas
 biaural
 binders
 baiera
+bammed
 boti
 bedaubs
 bibliology
@@ -10321,7 +10322,6 @@ ballahou
 blackweed
 bladderet
 bladdery
-bammed
 bladderlike
 biblism
 bladderseed
