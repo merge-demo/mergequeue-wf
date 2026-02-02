@@ -265,7 +265,6 @@ digitonin
 dreadnaught
 docken
 disaccustomedness
-debugged
 disassiduity
 doliolidae
 diagraming
@@ -17480,6 +17479,7 @@ ductless
 dreads
 defleas
 discrete
+debugged
 daffle
 doubleheaders
 discriminoid
