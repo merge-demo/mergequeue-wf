@@ -355,6 +355,7 @@ defension
 disembargoing
 dimmet
 daimons
+dressline
 ditches
 dewclawed
 divineness
@@ -17039,7 +17040,6 @@ defectively
 denominatively
 dekagram
 doberman
-dressline
 dumas
 divinityship
 discumber
