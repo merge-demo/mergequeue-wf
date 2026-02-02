@@ -3524,6 +3524,7 @@ gallop
 gnathotheca
 greenboard
 gesticulant
+glathsheimr
 gleamless
 gumshoing
 gavage
@@ -9110,7 +9111,6 @@ gerent
 girthline
 guinfo
 glutination
-glathsheimr
 goadster
 golilla
 glycyl
