@@ -766,6 +766,7 @@ colonelship
 cagester
 cogrediency
 chlornal
+comment
 cyclopaedia
 collaborationist
 cagework
@@ -20076,7 +20077,6 @@ codings
 commensuration
 commassation
 corking
-comment
 cattlegate
 commentable
 commentarialism
