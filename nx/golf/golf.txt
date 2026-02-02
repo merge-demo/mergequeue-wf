@@ -5284,7 +5284,6 @@ garnished
 gerberia
 gunter
 greeds
-gamecraft
 gombroons
 gentilic
 geosynchronous
@@ -5614,6 +5613,7 @@ gripless
 grantia
 glaieul
 geochemist
+gamecraft
 gun
 glottogonist
 garuda
