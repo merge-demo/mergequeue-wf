@@ -2270,7 +2270,6 @@ gliadin
 gneissose
 grange
 glazer
-gynarchy
 gullage
 ginglmi
 gorgeted
@@ -6691,6 +6690,7 @@ glanduligerous
 gradation
 gorsiest
 gammons
+gynarchy
 geocoronium
 gumboils
 gastropancreatic
