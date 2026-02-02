@@ -1407,7 +1407,6 @@ glycyrrhiza
 germanism
 garret
 gpm
-graffer
 grulla
 gruppetto
 gipsire
@@ -5209,6 +5208,7 @@ gallates
 gemman
 guidwillie
 gueparde
+graffer
 grandioseness
 gaussbergite
 glutenous
