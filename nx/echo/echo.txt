@@ -2207,7 +2207,6 @@ encoronal
 euphausiidae
 epilemma
 encarpi
-ependytes
 entozoologist
 examination
 elderberries
@@ -11786,6 +11785,7 @@ eschewer
 effatum
 estrepe
 excommunication
+ependytes
 examinatorial
 echopraxia
 ethoxyls
