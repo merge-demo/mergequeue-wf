@@ -3278,7 +3278,6 @@ gisler
 guland
 glossaries
 gerfalcon
-gnathostomi
 guarachas
 gudesake
 gynaecol
@@ -8488,6 +8487,7 @@ gospodipoda
 gulling
 geraniaceae
 grewhound
+gnathostomi
 gomukhi
 gastaldite
 gushet
