@@ -19456,7 +19456,6 @@ cornicing
 colorman
 cerealose
 colors
-cutose
 colossal
 colossality
 colossean
@@ -20518,6 +20517,7 @@ couthiness
 constrain
 candidateship
 compassionateness
+cutose
 compassive
 coinhere
 compassivity
