@@ -1697,7 +1697,6 @@ epilemmal
 eidograph
 escruage
 exhaustible
-evertors
 eclogues
 eligent
 epiclike
@@ -10827,6 +10826,7 @@ expertise
 examiners
 enchodontoid
 embryomas
+evertors
 englishwoman
 entrapped
 ectoloph
