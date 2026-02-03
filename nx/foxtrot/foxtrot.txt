@@ -1595,7 +1595,6 @@ footingly
 fooster
 favorer
 fundable
-fen
 familic
 foalfoots
 foresty
@@ -8545,6 +8544,7 @@ fetlock
 fiddledeedee
 festivally
 fetching
+fen
 fidley
 flailing
 flecking

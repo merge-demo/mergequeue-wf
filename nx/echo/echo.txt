@@ -122,7 +122,6 @@ earreach
 engineership
 enamoured
 eavesdrops
-eaves
 excrementally
 emulsifying
 enginehouse
@@ -11056,6 +11055,7 @@ escobita
 essentiality
 enlightenments
 ebb
+eaves
 electrokinematics
 excavates
 eurybenthic
