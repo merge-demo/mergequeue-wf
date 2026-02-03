@@ -1233,7 +1233,6 @@ acanthopterygii
 afterswell
 acanthoses
 archeus
-astraea
 ascetical
 amorally
 adelite
@@ -19007,6 +19006,7 @@ azelate
 archmocker
 amblyoscope
 amusia
+astraea
 anastomosed
 auctionary
 authorial
