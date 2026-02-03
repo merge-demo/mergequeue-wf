@@ -3390,7 +3390,6 @@ bushel
 bottlesful
 byordinary
 basophilic
-basques
 brans
 bassa
 balaenicipites
@@ -12963,6 +12962,7 @@ blouson
 boottop
 biforous
 bustier
+basques
 busaos
 brack
 betulaceae
