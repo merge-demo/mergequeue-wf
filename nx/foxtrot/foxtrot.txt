@@ -5195,6 +5195,7 @@ flashgun
 fict
 furnishment
 furculae
+fictionized
 figury
 fairnesses
 flashiest
@@ -10445,7 +10446,6 @@ fecundities
 frontignan
 fucate
 fetologies
-fictionized
 forcepslike
 flirty
 fraughted
