@@ -5948,7 +5948,6 @@ asbestosis
 appomattox
 ambiversive
 animalcular
-anatomists
 agility
 auxotrophic
 acanthuridae
@@ -16714,6 +16713,7 @@ ametaboly
 anthophagy
 aciculums
 attal
+anatomists
 athenaeum
 ascertainment
 aphemic
