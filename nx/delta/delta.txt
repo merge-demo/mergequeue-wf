@@ -397,6 +397,7 @@ deities
 drawtubes
 dodrantal
 discoursers
+deaning
 dais
 donjons
 dibs
@@ -16082,7 +16083,6 @@ dieresis
 dissceptring
 disaffections
 diplozoon
-deaning
 deterration
 denaturisation
 disfrocked
