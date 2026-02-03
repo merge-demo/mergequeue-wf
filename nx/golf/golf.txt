@@ -4959,6 +4959,7 @@ genealogic
 glaiks
 gorse
 graveyard
+grippleness
 glair
 gently
 gloria
@@ -9231,7 +9232,6 @@ groover
 guaka
 gunebo
 gibberosity
-grippleness
 galerite
 germicide
 grazier
