@@ -2675,7 +2675,6 @@ deconvolution
 deconvolve
 desmon
 distilery
-diacromyodian
 decor
 decrowning
 diplopic
@@ -12579,6 +12578,7 @@ disinfections
 duennadom
 decrowned
 decani
+diacromyodian
 dissolutive
 dihydride
 disinfestant
