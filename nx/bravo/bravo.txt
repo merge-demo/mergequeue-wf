@@ -3602,7 +3602,6 @@ boliviano
 bathythermograph
 bathmat
 bereaven
-basion
 banker
 beulah
 boozer
@@ -4197,6 +4196,7 @@ bronchiolitis
 buggymen
 boroglyceride
 bellona
+basion
 barytone
 backbend
 brenda
