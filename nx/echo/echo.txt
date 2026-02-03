@@ -746,7 +746,6 @@ euhemerist
 endosmotic
 exceptant
 eidently
-enode
 eyefuls
 enterozoa
 equalable
@@ -12687,6 +12686,7 @@ exonerating
 ephemerous
 euclase
 episcopicide
+enode
 essays
 expiscation
 eunicidae
