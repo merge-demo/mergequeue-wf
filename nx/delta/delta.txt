@@ -5717,6 +5717,7 @@ depoetize
 deconsider
 depoh
 delawarean
+differentiates
 decd
 depolarise
 depolarization
@@ -12406,7 +12407,6 @@ detracted
 dromaeognathous
 dielectrics
 discharged
-differentiates
 drias
 disharmonising
 deflexion
