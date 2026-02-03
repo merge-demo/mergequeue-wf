@@ -8031,7 +8031,6 @@ expenselessness
 epineuneuria
 esthesioneurosis
 enquire
-evolutionary
 experted
 extradicted
 endostea
@@ -11151,6 +11150,7 @@ extravasation
 endosporium
 epiblasts
 eurytus
+evolutionary
 embarkment
 engagedness
 electrocapillary
