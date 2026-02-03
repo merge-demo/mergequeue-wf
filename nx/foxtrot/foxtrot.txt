@@ -8904,6 +8904,7 @@ fragility
 fatty
 fanfaron
 ferrotypes
+fados
 fretful
 forte
 fraternities
@@ -9468,7 +9469,6 @@ foliiferous
 flamines
 foreteeth
 frary
-fados
 flouriness
 frolicly
 frescoer
