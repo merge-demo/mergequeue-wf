@@ -10890,6 +10890,7 @@ cobishop
 cardiorrheuma
 cometic
 canzoni
+coagulometer
 chippies
 camelopards
 choledocholithiasis
@@ -17264,7 +17265,6 @@ coaguline
 cestoidea
 conservators
 carnifices
-coagulometer
 coagulose
 cappy
 coahuiltecan
