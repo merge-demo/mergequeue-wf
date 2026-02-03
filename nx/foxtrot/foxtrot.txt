@@ -8840,7 +8840,6 @@ fractionary
 forebay
 forgers
 foreprise
-filletster
 flashtube
 frustula
 felty
@@ -11649,6 +11648,7 @@ friscal
 fluorids
 ferrous
 fibropapilloma
+filletster
 fibrillae
 fasts
 fust
