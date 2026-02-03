@@ -4566,7 +4566,6 @@ emigrationist
 ectosphenoid
 encephalos
 expropriations
-encapsulated
 empales
 ecclesiastic
 elands
@@ -4890,6 +4889,7 @@ encoder
 episcopable
 expectance
 eucaryote
+encapsulated
 enshrining
 electrotherapeutist
 engraven
