@@ -11636,6 +11636,7 @@ buceros
 britzka
 bathychrome
 boardwalks
+burbot
 battledored
 benefactrix
 bolis
@@ -17495,7 +17496,6 @@ burbolt
 benignity
 beauseant
 biognosis
-burbot
 bleak
 beata
 blackbine
