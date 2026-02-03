@@ -3339,7 +3339,6 @@ farers
 filleter
 fortier
 finity
-factitious
 flirtationless
 feoffed
 framed
@@ -4976,6 +4975,7 @@ flakiest
 frugivorous
 frequentable
 foamier
+factitious
 fixate
 florisugent
 fossilist
