@@ -4472,6 +4472,7 @@ bhili
 beribers
 beclothes
 blushwort
+briefers
 bike
 buriels
 boomeranged
@@ -18226,7 +18227,6 @@ bogglebo
 brabblers
 butterflied
 ballstock
-briefers
 bent
 bienniums
 beautifies
