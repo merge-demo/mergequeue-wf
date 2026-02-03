@@ -1673,7 +1673,6 @@ gibson
 groomling
 gros
 gophers
-glycerolysis
 grallae
 gunrunning
 gester
@@ -3710,6 +3709,7 @@ goalmouth
 gherkins
 ghostier
 galah
+glycerolysis
 ganner
 geodetically
 glumelike
