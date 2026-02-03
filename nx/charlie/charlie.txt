@@ -111,6 +111,7 @@ canephorus
 calesa
 classers
 cabildo
+covariable
 cabildos
 chutzpadik
 cabin
@@ -27477,7 +27478,6 @@ carnaubic
 covary
 curtailer
 capacify
-covariable
 chumpiness
 cathartical
 cheongsam
