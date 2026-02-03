@@ -12779,7 +12779,6 @@ chumawi
 chummage
 chairborne
 chummery
-chummier
 chump
 chumpa
 conglobing
@@ -31483,6 +31482,7 @@ current
 celerity
 colorimetry
 currently
+chummier
 camerieri
 cardicentesis
 cungevoi
