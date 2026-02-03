@@ -6356,6 +6356,7 @@ eisteddfodau
 electrotheraputics
 eutheria
 exhaustion
+etagre
 elucubrate
 eyespot
 enseal
@@ -9851,7 +9852,6 @@ ethionic
 exact
 estrich
 eiry
-etagre
 epipodia
 expurgator
 endopleuritic
