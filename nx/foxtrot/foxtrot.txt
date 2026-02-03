@@ -6888,7 +6888,6 @@ fountaineer
 freehanded
 flyers
 fatefulness
-ferme
 fiendliness
 flaccidity
 forfalt
@@ -6977,6 +6976,7 @@ fallace
 folklores
 fp
 fletched
+ferme
 fleme
 forceps
 feticidal
