@@ -994,7 +994,6 @@ equilibristic
 equanimous
 embalming
 entailments
-emanator
 endeictic
 euchrone
 evennesses
@@ -1825,6 +1824,7 @@ electroscission
 epigenic
 eparchs
 epimerase
+emanator
 emolumentary
 electromyograph
 erinose
