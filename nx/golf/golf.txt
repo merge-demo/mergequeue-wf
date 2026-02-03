@@ -2089,7 +2089,6 @@ gozzard
 graecizing
 gyrolith
 grabs
-gomarian
 gnomist
 gelndesprung
 gratuito
@@ -4196,6 +4195,7 @@ glaswegian
 goney
 grimly
 governesshood
+gomarian
 gelofre
 ghostly
 genealogy

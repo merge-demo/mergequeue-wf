@@ -2226,7 +2226,6 @@ emissitious
 eminent
 ectomorphic
 empathy
-electron
 esprits
 enchurch
 epimyocardial
@@ -11360,6 +11359,7 @@ excursing
 eluder
 effluences
 eupnoeas
+electron
 eliquated
 empyrean
 evaporations
