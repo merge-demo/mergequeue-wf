@@ -7259,6 +7259,7 @@ actinoelectric
 awmbrie
 auspex
 ariole
+ardu
 alchemising
 anglesite
 anarthrous
@@ -19229,7 +19230,6 @@ avys
 animatingly
 ammo
 amphizoidae
-ardu
 aliners
 amygdophenin
 awabi
