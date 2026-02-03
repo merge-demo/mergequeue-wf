@@ -4769,6 +4769,7 @@ deparliament
 demolisher
 daily
 destine
+dictations
 duskishness
 dukery
 discide
@@ -8832,7 +8833,6 @@ diabolized
 dansant
 demoralise
 draconid
-dictations
 diffident
 dung
 deeryard
