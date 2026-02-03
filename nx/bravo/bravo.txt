@@ -9940,7 +9940,6 @@ baulking
 britska
 baister
 bulliform
-benzoated
 bitterroot
 brachydactylia
 berrying
@@ -14572,6 +14571,7 @@ belozenged
 branchiopoda
 brisement
 branner
+benzoated
 beehives
 baktun
 bonding
