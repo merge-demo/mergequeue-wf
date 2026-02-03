@@ -4279,6 +4279,7 @@ dodoisms
 dorsoposterior
 demagnetize
 dysacousia
+diswench
 demanded
 dilos
 disburden
@@ -10967,7 +10968,6 @@ divulgement
 dioeciodimorphous
 dentelated
 dhaura
-diswench
 doohinkus
 dignitas
 diclinies
