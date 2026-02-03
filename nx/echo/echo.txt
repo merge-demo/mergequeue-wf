@@ -2957,6 +2957,7 @@ elevons
 eurydice
 elf
 elfenfolk
+everydeal
 endogeny
 elfinwood
 eastermost
@@ -9370,7 +9371,6 @@ erthly
 electrogalvanic
 ericaceous
 eskimauan
-everydeal
 excels
 enticeful
 espieglerie
