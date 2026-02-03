@@ -4696,7 +4696,6 @@ burnettized
 billowing
 biotechnics
 beniseed
-balayeuse
 brazenfacedness
 baetzner
 bedgoer
@@ -8494,6 +8493,7 @@ bidry
 biriba
 brewage
 burlet
+balayeuse
 bylined
 builded
 birminghamize
