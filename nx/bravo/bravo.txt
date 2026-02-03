@@ -6480,7 +6480,6 @@ beleaguer
 backdown
 bepepper
 bephilter
-booley
 boltropes
 bronchopneumonic
 bossiness
@@ -16220,6 +16219,7 @@ borts
 bafflement
 bithynian
 brotuliform
+booley
 blight
 bostryx
 bpt
