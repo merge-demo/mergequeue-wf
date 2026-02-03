@@ -2040,6 +2040,7 @@ gambado
 glossiness
 goaf
 gallied
+gyps
 glime
 gantry
 gazzetta
@@ -6558,7 +6559,6 @@ greyskin
 guiders
 glandarious
 gld
-gyps
 genesiac
 glaziest
 ganowanian
