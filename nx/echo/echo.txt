@@ -4768,7 +4768,6 @@ ecdyses
 euphrosyne
 emeerates
 embussed
-entophyte
 enclaves
 eccentrical
 elemol
@@ -12615,6 +12614,7 @@ encirclement
 eyesalve
 expostulates
 elvira
+entophyte
 exoculation
 exteriorness
 erucivorous
