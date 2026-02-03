@@ -506,6 +506,7 @@ beckoners
 beltis
 boarstaff
 backstromite
+besmirchers
 boart
 ballyhooing
 backtenter
@@ -17996,7 +17997,6 @@ battutas
 biking
 brocho
 boundlessly
-besmirchers
 barmfel
 burghmoot
 bicornuous
