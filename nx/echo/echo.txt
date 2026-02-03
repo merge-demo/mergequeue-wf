@@ -1695,7 +1695,6 @@ eiders
 extemporaneity
 epilemmal
 eidograph
-escruage
 exhaustible
 eclogues
 eligent
@@ -10523,6 +10522,7 @@ eleanor
 effluviums
 ericius
 enteroviral
+escruage
 etherin
 epochist
 exalate
