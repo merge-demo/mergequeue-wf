@@ -2323,6 +2323,7 @@ cutesy
 canakin
 canakins
 canal
+conferencing
 clerks
 cookeys
 canalatura
@@ -28416,7 +28417,6 @@ cotarnine
 cospecies
 competitress
 crankless
-conferencing
 centralists
 chiefling
 creams
