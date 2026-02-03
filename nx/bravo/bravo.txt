@@ -8050,6 +8050,7 @@ bicorn
 bourrelet
 beslabber
 bouillabaisse
+bulimy
 blanque
 boatman
 bluntness
@@ -11510,7 +11511,6 @@ banyoro
 bigamous
 bluffs
 behaves
-bulimy
 broadshare
 blufter
 bluggy
