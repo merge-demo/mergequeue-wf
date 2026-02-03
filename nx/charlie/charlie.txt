@@ -6813,6 +6813,7 @@ ciscos
 cribbages
 clavecin
 celemin
+chloroamine
 celemines
 celery
 cimborio
@@ -11303,7 +11304,6 @@ coquetry
 conservation
 chloroamide
 cavaliership
-chloroamine
 chloroaurate
 chloroaurite
 chlorobenzene
