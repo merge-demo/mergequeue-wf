@@ -4670,6 +4670,7 @@ enhydrite
 edriophthalmatous
 enemies
 extratensive
+eczematoid
 erythroxyline
 exogenous
 endarchies
@@ -9539,7 +9540,6 @@ earthquaking
 epithalamiums
 electrolithotrity
 elective
-eczematoid
 entach
 enarch
 endict
