@@ -2390,7 +2390,6 @@ cicer
 consignataries
 canap
 consummator
-cabriole
 cubitocutaneous
 celtologist
 compliments
@@ -7998,6 +7997,7 @@ contuse
 criteriions
 cetotolite
 complaintful
+cabriole
 converter
 conventionalisation
 catheter
