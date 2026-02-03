@@ -2616,6 +2616,7 @@ decreers
 decolours
 dilis
 decommission
+deadheading
 decompensating
 decenniad
 dasylirion
@@ -6862,7 +6863,6 @@ dobroes
 dahoons
 dephosphorization
 desolateness
-deadheading
 desolates
 desolating
 doffers
