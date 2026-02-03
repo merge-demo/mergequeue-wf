@@ -3400,7 +3400,6 @@ girlishly
 guardsmen
 gpss
 goniodoris
-gunsman
 germon
 groundskeep
 ghostcraft
@@ -5461,6 +5460,7 @@ goodlier
 gasalier
 galoshe
 grab
+gunsman
 gender
 granomerite
 galliwasp
