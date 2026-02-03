@@ -10516,7 +10516,6 @@ chiliads
 chiliahedron
 cyul
 commuting
-comprehend
 chakar
 copromoter
 chiliastic
@@ -24777,6 +24776,7 @@ candlewick
 cetorhinidae
 crudwort
 copses
+comprehend
 copsewood
 circs
 copsy
