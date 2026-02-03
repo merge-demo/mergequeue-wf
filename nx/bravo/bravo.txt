@@ -3724,7 +3724,6 @@ bywork
 bloops
 beauticians
 barotraumata
-bornean
 battlefronts
 bradyglossia
 bringall
@@ -10704,6 +10703,7 @@ bleck
 bodhi
 bethreaten
 bleeped
+bornean
 bratticing
 bleacheries
 becrime
