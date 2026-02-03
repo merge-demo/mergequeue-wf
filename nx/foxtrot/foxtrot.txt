@@ -2210,6 +2210,7 @@ feruling
 formulae
 fractocumulus
 fadme
+folklorist
 flashet
 furtum
 fratercula
@@ -5780,7 +5781,6 @@ fiddlestring
 fumeuse
 fishwife
 forsay
-folklorist
 flinkite
 flatcar
 fancier
