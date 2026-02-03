@@ -979,7 +979,6 @@ gastrochaenidae
 gilse
 granitizing
 gigahertz
-gnomons
 gonakie
 graustark
 gymnure
@@ -4739,6 +4738,7 @@ galchic
 gelatia
 ginglymodian
 generis
+gnomons
 gastraeas
 guzmania
 gymnasiast
