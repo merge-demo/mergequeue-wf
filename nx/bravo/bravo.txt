@@ -7913,7 +7913,6 @@ bams
 bibliomania
 buxerries
 bondages
-bogwoods
 bloodthirsty
 bibliopegy
 bituminisation
@@ -17445,6 +17444,7 @@ booklice
 boomage
 bloomer
 bridles
+bogwoods
 bracer
 barbiturates
 buscarle

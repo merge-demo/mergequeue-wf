@@ -5492,7 +5492,6 @@ gearwheel
 goethite
 gamelote
 gyrfalcons
-gamolepis
 gliffy
 grid
 goodwillies
@@ -10689,6 +10688,7 @@ gastroenteroptosis
 grands
 glaucomatous
 grassy
+gamolepis
 googol
 ghawazee
 guardfish
