@@ -2953,6 +2953,7 @@ freetrader
 fluible
 fomentations
 fulham
+fuzz
 foregahger
 flybook
 featherweights
@@ -5760,7 +5761,6 @@ fibrohemorrhagic
 fuseplug
 friended
 fantasias
-fuzz
 firking
 fountains
 flammable

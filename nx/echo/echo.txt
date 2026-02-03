@@ -5917,7 +5917,6 @@ evangeliaries
 euthyroid
 episcopalian
 excessman
-ebonite
 enhaemospore
 eldfather
 epidotic
@@ -11203,6 +11202,7 @@ emic
 elegises
 electrosynthetic
 earstones
+ebonite
 emusify
 easements
 evocation
