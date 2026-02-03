@@ -5498,6 +5498,7 @@ estimatingly
 extrasystole
 epiky
 exospheres
+epicoeliac
 edematous
 energical
 energid
@@ -12980,7 +12981,6 @@ escalations
 emblematized
 electrolysation
 entad
-epicoeliac
 enhaunt
 eulogiae
 eupepticism
