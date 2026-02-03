@@ -10209,7 +10209,6 @@ ament
 amphiblastula
 adaunt
 arundineous
-allotheria
 anolympiad
 appetibility
 autompne
@@ -20642,6 +20641,7 @@ aswithe
 aduncity
 acrasins
 annexive
+allotheria
 arthroneuralgia
 articulite
 aetiology
