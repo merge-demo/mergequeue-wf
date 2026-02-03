@@ -2051,6 +2051,7 @@ fissipedate
 feigns
 farouche
 fibrinoplastin
+foggily
 fourpounder
 femorotibial
 filename
@@ -3634,7 +3635,6 @@ folkvangr
 funding
 fairylands
 forestry
-foggily
 fermentology
 fencelet
 flymen
