@@ -5483,7 +5483,6 @@ gravies
 griphosaurus
 grills
 geomancy
-glyptolith
 gynostemia
 gigsman
 gestaltist
@@ -8695,6 +8694,7 @@ gynaecoid
 grabbots
 groundable
 gome
+glyptolith
 glissading
 glacification
 gardenmaking
