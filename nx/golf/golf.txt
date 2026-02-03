@@ -1969,7 +1969,6 @@ gams
 gargil
 gaurian
 ginnings
-glamourous
 gaussage
 gaskings
 gageite
@@ -7474,6 +7473,7 @@ gonia
 glaring
 guereza
 glossist
+glamourous
 gummaker
 grabbier
 grunerite
