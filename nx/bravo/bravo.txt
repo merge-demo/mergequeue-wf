@@ -1717,7 +1717,6 @@ bloodroot
 balmoral
 benefits
 bergschrund
-besoms
 bedticks
 bensh
 bathless
@@ -12150,6 +12149,7 @@ bakshi
 byrnies
 barrat
 berengarianism
+besoms
 boldacious
 babacoote
 ballyhooed
