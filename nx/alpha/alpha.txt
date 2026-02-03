@@ -12185,7 +12185,6 @@ ancyrean
 achakzai
 ancistroid
 amongst
-ancodont
 anubing
 ancome
 anilic
@@ -20824,6 +20823,7 @@ artocarpeous
 artolater
 aliner
 archheresy
+ancodont
 artotype
 annotation
 anthesterion
