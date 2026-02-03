@@ -8196,7 +8196,6 @@ broid
 baleens
 barkey
 bellower
-blobby
 byronically
 beatable
 boone
@@ -11461,6 +11460,7 @@ bimillenium
 bluepoint
 bluepoints
 belzebub
+blobby
 blueprint
 blazingly
 bluesy
