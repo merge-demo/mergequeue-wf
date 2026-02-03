@@ -13159,7 +13159,6 @@ colocolo
 cicatrices
 cicatricle
 cult
-chamberdeacon
 copastorate
 cicatricula
 cicatricule
@@ -25833,6 +25832,7 @@ colubriformes
 corruptor
 cardo
 contravindicate
+chamberdeacon
 cloudiest
 conglutinative
 chapper
