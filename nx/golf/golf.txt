@@ -2109,7 +2109,6 @@ glucinic
 gastrins
 gawkish
 galvanoscopic
-gavial
 glottal
 gipsied
 greensward
@@ -3167,6 +3166,7 @@ gristliest
 germina
 graplin
 gazon
+gavial
 glaze
 galactagoguic
 guige
