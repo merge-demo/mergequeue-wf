@@ -2752,7 +2752,6 @@ flambe
 faithing
 foreweigh
 fungused
-flauto
 firebird
 feigher
 frost
@@ -4917,6 +4916,7 @@ flagworm
 fumewort
 firelike
 fittedness
+flauto
 flophouses
 foreinclined
 florida
