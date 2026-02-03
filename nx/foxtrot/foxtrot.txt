@@ -7359,7 +7359,6 @@ foeffment
 flares
 forecasts
 fulgently
-formiate
 friendless
 fustet
 floorboards
@@ -11475,6 +11474,7 @@ furrowlike
 furcately
 fissury
 ferntickle
+formiate
 frostier
 foxfeet
 fin
