@@ -5927,6 +5927,7 @@ exclaims
 enrollment
 epitomised
 epitomise
+erectopatent
 equaling
 enharbour
 electrometallurgy
@@ -8882,7 +8883,6 @@ egyptology
 enacts
 endarteritis
 emaculate
-erectopatent
 esotericism
 etymologicon
 entophytic
