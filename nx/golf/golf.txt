@@ -3262,7 +3262,6 @@ gauze
 geotropically
 galagala
 gaut
-gallinula
 guarantor
 gazetteers
 gyral
@@ -10861,6 +10860,7 @@ grewsomeness
 gravidation
 gweeon
 gesticulative
+gallinula
 growlers
 giustina
 glimmerous
