@@ -3835,7 +3835,6 @@ deis
 deisidaimonia
 deism
 deistical
-dismast
 dissect
 disp
 diplomats
@@ -11993,6 +11992,7 @@ disembarking
 denominationally
 disbloom
 disembarks
+dismast
 dairt
 dentifrices
 debenture
