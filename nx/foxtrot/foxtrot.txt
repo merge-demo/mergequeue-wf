@@ -1112,7 +1112,6 @@ ferula
 fishling
 fastback
 farrisite
-fume
 foreordain
 facilitate
 fleerish
@@ -7440,6 +7439,7 @@ felting
 feigned
 foldout
 friendliest
+fume
 flourishy
 foraminose
 foraminulate
