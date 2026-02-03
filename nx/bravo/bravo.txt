@@ -1970,6 +1970,7 @@ bandsman
 bandstand
 beacon
 beseechment
+boltin
 bisection
 bagnio
 babus
@@ -17190,7 +17191,6 @@ bandman
 boucles
 bescatter
 brulyie
-boltin
 bromindigo
 bullwhipping
 barrel
