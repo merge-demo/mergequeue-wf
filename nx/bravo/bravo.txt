@@ -596,6 +596,7 @@ beggiatoa
 bacteriochlorophyll
 bepimpling
 bacteriocin
+brushman
 bosket
 bostangi
 bastiment
@@ -15208,7 +15209,6 @@ byrlady
 bloater
 breastplough
 blunted
-brushman
 bawlers
 bryce
 biocatalytic
