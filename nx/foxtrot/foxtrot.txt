@@ -8567,6 +8567,7 @@ flapped
 forehatchway
 feltwork
 figs
+funambulic
 formulated
 funest
 formulisation
@@ -8952,7 +8953,6 @@ falsificator
 footcloth
 flosser
 ferulae
-funambulic
 foulest
 fjeld
 ferritins
