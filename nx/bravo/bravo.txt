@@ -5021,6 +5021,7 @@ beetled
 boite
 beblear
 bookmaking
+bathybius
 braunschweiger
 bookselling
 byliners
@@ -7435,7 +7436,6 @@ belgians
 betread
 bugseed
 banning
-bathybius
 betrothing
 betrothment
 bacteriopurpurin
