@@ -5248,7 +5248,6 @@ cocentric
 cashiered
 chenopodium
 crows
-centered
 clearest
 cashmere
 cashmeres
@@ -26810,6 +26809,7 @@ conspiring
 counterexercise
 commeasuring
 cyclometry
+centered
 counterextension
 cartoons
 cacuminal
