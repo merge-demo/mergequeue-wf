@@ -2924,6 +2924,7 @@ cashkeeper
 connectionless
 crayfish
 chivaree
+colorization
 clamant
 canonic
 curatively
@@ -3872,7 +3873,6 @@ chalkier
 casually
 carbohydrogen
 carboy
-colorization
 celestes
 carum
 carboys
