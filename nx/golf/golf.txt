@@ -5336,7 +5336,6 @@ gybes
 grievously
 glyoxilin
 glycerin
-glomming
 gamelan
 gromil
 glycerite
@@ -7954,6 +7953,7 @@ gastrulated
 glycopexia
 glogg
 ghoster
+glomming
 gobylike
 germanically
 geophagia
