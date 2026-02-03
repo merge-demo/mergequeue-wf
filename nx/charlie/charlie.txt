@@ -17566,6 +17566,7 @@ coble
 cobleman
 cuttings
 crampette
+cumbering
 chapping
 cobleskill
 cobloaf
@@ -30961,7 +30962,6 @@ consumptiveness
 convolves
 congeries
 cumberer
-cumbering
 codefendants
 cumberless
 coix
