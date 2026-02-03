@@ -1252,7 +1252,6 @@ glyphographer
 gasterozooid
 grallina
 ganges
-granch
 ganglioid
 gingham
 grizzler
@@ -9778,6 +9777,7 @@ gentlefolk
 gelants
 gratiosolin
 galiot
+granch
 gripe
 googolplex
 grummet
