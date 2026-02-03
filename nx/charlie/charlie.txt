@@ -9862,7 +9862,6 @@ chemigraphy
 caudotibialis
 chemiloon
 crystallographic
-chemiluminescence
 chemiotactic
 chemiotaxic
 carvone
@@ -19194,6 +19193,7 @@ cuadrilla
 collophane
 colloquial
 calcareously
+chemiluminescence
 coadapted
 casino
 colloquially
