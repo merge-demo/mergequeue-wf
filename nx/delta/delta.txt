@@ -410,7 +410,6 @@ dianoia
 dogbanes
 debates
 defensative
-disseats
 deprevation
 daysmen
 direst
@@ -1035,6 +1034,7 @@ darner
 darners
 dewooled
 deescalated
+disseats
 dimeters
 detailist
 deceleration
