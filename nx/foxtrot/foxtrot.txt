@@ -2157,6 +2157,7 @@ floruit
 frigate
 footprints
 frontogenesis
+forager
 finify
 fleam
 fumishing
@@ -5519,7 +5520,6 @@ ferrary
 fittingness
 fault
 fleecy
-forager
 frolickly
 fplot
 forseek
