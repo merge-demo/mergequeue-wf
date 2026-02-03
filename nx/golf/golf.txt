@@ -1509,7 +1509,6 @@ galenian
 greencoat
 geotonic
 gagtooth
-gangland
 gasoliers
 giftwrap
 gripers
@@ -5575,6 +5574,7 @@ gad
 gamecocks
 gourd
 grintern
+gangland
 genial
 gwely
 griecep
