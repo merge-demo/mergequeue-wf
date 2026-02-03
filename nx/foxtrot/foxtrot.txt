@@ -4680,7 +4680,6 @@ fleckless
 ferocactus
 fruiteries
 fruitgrowing
-firca
 fitchew
 ferial
 fruitages
@@ -6733,6 +6732,7 @@ footpath
 fillip
 forevouched
 fringent
+firca
 foehnlike
 furcilia
 fulgurating
