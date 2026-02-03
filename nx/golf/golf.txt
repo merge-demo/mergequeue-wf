@@ -3298,7 +3298,6 @@ gadso
 gelfomino
 grimmia
 gatch
-glancer
 garbage
 gravelliness
 glycosin
@@ -9775,6 +9774,7 @@ gelants
 gratiosolin
 galiot
 granch
+glancer
 gripe
 googolplex
 grummet
