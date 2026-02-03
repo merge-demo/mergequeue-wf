@@ -3823,7 +3823,6 @@ ganching
 glissandi
 gossypol
 guarders
-greenbark
 gaudily
 gaul
 glaucophane
@@ -6987,6 +6986,7 @@ gybed
 germander
 gibs
 garrigue
+greenbark
 groundsman
 gaddish
 gastroepiploic
