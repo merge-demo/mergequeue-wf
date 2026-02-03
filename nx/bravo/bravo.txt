@@ -4803,7 +4803,6 @@ bedread
 backups
 baldling
 bed
-bedribble
 benamidar
 burglarizes
 bibracteate
@@ -9234,6 +9233,7 @@ bombardmen
 butts
 brunches
 baldrics
+bedribble
 bucciniform
 braveries
 badassed
