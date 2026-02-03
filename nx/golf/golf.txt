@@ -3684,6 +3684,7 @@ gooselike
 gurgly
 governorships
 gadgeteers
+glumous
 glyptician
 gnomoniaceae
 gutturotetany
@@ -7482,7 +7483,6 @@ georgemas
 gravitation
 gazania
 gau
-glumous
 geodesy
 geranial
 gades
