@@ -6232,7 +6232,6 @@ exorcizing
 esker
 ennobling
 embarren
-exiles
 ensteel
 equipments
 evaporitic
@@ -7625,6 +7624,7 @@ embololalia
 exion
 echinocaris
 ebbet
+exiles
 extricate
 electroendosmose
 entozoological

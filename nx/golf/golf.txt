@@ -186,6 +186,7 @@ gentleness
 gramas
 graphing
 gaudsman
+galanas
 glagolitsa
 geneses
 goll
@@ -3879,7 +3880,6 @@ granulomas
 garoting
 gell
 geosyncline
-galanas
 gouging
 giftwrapping
 gorgonesque
