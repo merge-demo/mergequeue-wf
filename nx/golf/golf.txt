@@ -3753,7 +3753,6 @@ gastrotrichan
 graduations
 gurdy
 glabellae
-griffons
 gasterothecal
 gallein
 glinse
@@ -4804,6 +4803,7 @@ gypsy
 globes
 guarder
 garrnishable
+griffons
 grete
 gizz
 gorgoniaceous
