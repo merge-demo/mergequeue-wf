@@ -599,7 +599,6 @@ gunslingers
 guiltiest
 gillie
 goopy
-geophysicist
 glide
 gradatory
 geodetic
@@ -5205,6 +5204,7 @@ gossipred
 gesticulator
 guavas
 gallates
+geophysicist
 gemman
 guidwillie
 gueparde
