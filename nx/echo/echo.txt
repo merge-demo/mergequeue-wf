@@ -6872,6 +6872,7 @@ estuate
 enlistees
 essling
 eloper
+escalated
 entropion
 eggler
 encheiria
@@ -9428,7 +9429,6 @@ excommunicable
 emender
 ergonomics
 edelweiss
-escalated
 exilition
 enaliosaurian
 eulogistic
