@@ -4921,6 +4921,7 @@ fumewort
 firelike
 fittedness
 flophouses
+foreinclined
 florida
 flivvers
 fairwater
@@ -9113,7 +9114,6 @@ flustrum
 flavo
 feudality
 forbruise
-foreinclined
 foreadmonish
 foederis
 ferroelectrically
