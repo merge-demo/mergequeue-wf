@@ -362,6 +362,7 @@ backfriend
 bottegas
 backgammon
 board
+batete
 barwares
 bowsery
 breaststroke
@@ -3543,7 +3544,6 @@ bubos
 bedrenches
 bogglish
 broadax
-batete
 brabbling
 basilissa
 balotade
