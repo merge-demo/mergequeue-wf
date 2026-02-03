@@ -4532,7 +4532,6 @@ geotropy
 grainiest
 gamb
 grapey
-gyromele
 gucked
 galactoma
 gumwoods
@@ -9238,6 +9237,7 @@ grazier
 gled
 giftedness
 gryllotalpa
+gyromele
 gangbuster
 glassworker
 glossalgia
