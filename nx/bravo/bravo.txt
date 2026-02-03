@@ -10664,7 +10664,6 @@ bearableness
 beastman
 bumblebees
 brachyrrhinia
-bleaker
 balanophoraceae
 bandspreading
 bernese
@@ -14727,6 +14726,7 @@ bloc
 bullwhack
 brayera
 bombycina
+bleaker
 brassages
 brassard
 briefing
