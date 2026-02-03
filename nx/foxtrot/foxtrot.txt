@@ -2311,6 +2311,7 @@ feuterer
 frugalist
 fluidised
 filicales
+fog
 formulable
 flotation
 fistulizing
@@ -4782,7 +4783,6 @@ fresno
 filamentous
 figaro
 fairyish
-fog
 forsake
 fjord
 flirter
