@@ -5374,7 +5374,6 @@ farmsteads
 frightless
 fuligula
 flukes
-fumage
 fluoridize
 fulciform
 flanconade
@@ -6253,6 +6252,7 @@ flowerage
 fluxation
 forever
 farfara
+fumage
 fumiferana
 fathering
 flirted
