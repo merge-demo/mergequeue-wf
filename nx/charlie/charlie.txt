@@ -14563,7 +14563,6 @@ conchoidal
 cysticerci
 chondrule
 chackling
-cylindrite
 cysticercoidal
 cysticercosis
 cysticerus
@@ -28764,6 +28763,7 @@ courage
 chylifactive
 clavy
 crescenting
+cylindrite
 carpetmaker
 colleagues
 chok
