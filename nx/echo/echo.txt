@@ -5773,7 +5773,6 @@ extracts
 esophoric
 encomiendas
 eddying
-enfamous
 endues
 ensalada
 eonism
@@ -5952,6 +5951,7 @@ exhilaration
 ensilist
 enhelm
 emotionality
+enfamous
 elysia
 entoretina
 effluviography
