@@ -10021,7 +10021,6 @@ brahmic
 berbery
 barrenness
 bivector
-bilihumin
 biventer
 blackwashing
 bulkin
@@ -11354,6 +11353,7 @@ benzthiophen
 bestiarianism
 blubberers
 brainstems
+bilihumin
 bookling
 berseems
 barabbas
