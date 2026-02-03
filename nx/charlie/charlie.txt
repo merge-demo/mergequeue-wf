@@ -16662,7 +16662,6 @@ clootie
 chargeling
 carburate
 conteck
-clops
 coracopectoral
 cephalosporium
 caedmonian
@@ -26723,6 +26722,7 @@ cytozoon
 counterborer
 counterboring
 counterboulle
+clops
 counterbranch
 counterbrand
 confutable
