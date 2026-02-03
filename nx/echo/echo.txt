@@ -2893,7 +2893,6 @@ enseat
 eggrolls
 electroluminescent
 exteriorate
-errorful
 expediencies
 evenhanded
 enaluron
@@ -9367,6 +9366,7 @@ epicrisis
 electrocatalysis
 erthen
 excitedly
+errorful
 eumorphous
 enkennel
 erthly
