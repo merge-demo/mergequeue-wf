@@ -6142,6 +6142,7 @@ eruptive
 enfacement
 episkotister
 estuary
+earlocks
 earringed
 enlodgement
 exilarchate
@@ -12230,7 +12231,6 @@ ephebea
 extraordinary
 erodable
 etherification
-earlocks
 eskuara
 ephemerides
 emmental
