@@ -1323,7 +1323,6 @@ fiscus
 fissirostrate
 frecklier
 fop
-folkfree
 fleeced
 foxtails
 fatbird
@@ -10799,6 +10798,7 @@ fatalism
 frisks
 fade
 fascisticize
+folkfree
 furlough
 fulgentness
 flittermice
