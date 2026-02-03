@@ -5540,7 +5540,6 @@ afterward
 afterwise
 anaplerosis
 afterwit
-afterwork
 agathodemon
 apinage
 afterworld
@@ -21314,6 +21313,7 @@ addresser
 asilus
 asymbolic
 arums
+afterwork
 asymbolical
 animalhood
 autostability
