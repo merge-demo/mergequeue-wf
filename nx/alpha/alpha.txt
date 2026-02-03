@@ -15682,6 +15682,7 @@ anomer
 antiparallelogram
 anisomeric
 arylamine
+apprehender
 ablet
 annection
 admen
@@ -16880,7 +16881,6 @@ apigenin
 abridgable
 apii
 apikores
-apprehender
 apimanias
 acocanthera
 ambiency

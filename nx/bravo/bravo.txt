@@ -4471,7 +4471,6 @@ beclothes
 blushwort
 briefers
 bike
-buriels
 boomeranged
 billard
 bromizer
@@ -15768,6 +15767,7 @@ brocolis
 bentlet
 baldhead
 batholiths
+buriels
 bottlenose
 brodiaea
 benami
