@@ -3944,7 +3944,6 @@ adjutrice
 ambassage
 alphean
 ameba
-affirm
 amelification
 adlumidin
 anabasse
@@ -24108,6 +24107,7 @@ ascidiozooid
 appreciations
 autoecy
 airman
+affirm
 abdali
 aedilities
 autoecic
