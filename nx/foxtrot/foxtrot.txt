@@ -4792,6 +4792,7 @@ flex
 forbodes
 flappers
 foliobranch
+formatters
 foreadapt
 frumentarious
 fraulein
@@ -5588,7 +5589,6 @@ focal
 fillet
 ferally
 faradises
-formatters
 fringepod
 fanjets
 fiddlies
