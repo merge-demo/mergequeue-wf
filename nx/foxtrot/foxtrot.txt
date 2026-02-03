@@ -2351,7 +2351,6 @@ forebearing
 foreyards
 fruited
 feod
-foreimagine
 folkcraft
 fconvert
 feoffer
@@ -7370,6 +7369,7 @@ ferbam
 failance
 freesheet
 fledgier
+foreimagine
 falsies
 florilage
 fallibilism
