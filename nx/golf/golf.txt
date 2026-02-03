@@ -1346,6 +1346,7 @@ germanely
 green
 garments
 gerodermia
+gasteralgia
 guidership
 gauss
 groundkeeper
@@ -9944,7 +9945,6 @@ gravelly
 guilders
 grainsick
 genom
-gasteralgia
 galiots
 glamorizing
 glossina
