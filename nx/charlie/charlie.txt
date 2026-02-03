@@ -4652,7 +4652,6 @@ carnous
 carns
 chamaecistus
 caro
-clothmaker
 cookstove
 contemplator
 caroa
@@ -12899,6 +12898,7 @@ cathected
 cercomonas
 churingas
 churl
+clothmaker
 convoys
 curmurring
 churlier
