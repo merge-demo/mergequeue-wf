@@ -5418,7 +5418,6 @@ beguess
 biunial
 beguilements
 brutishly
-biferous
 briquets
 blastomycotic
 bakshish
@@ -12322,6 +12321,7 @@ beslimed
 boltlike
 beaupers
 bunga
+biferous
 bandoras
 bedawee
 bombaster
