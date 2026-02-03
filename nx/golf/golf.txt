@@ -7042,7 +7042,6 @@ gladioli
 gentil
 gurgling
 gumshoes
-greenhouses
 gliadines
 grunth
 gametic
@@ -9060,6 +9059,7 @@ geochemically
 galosh
 gullishness
 gollywobbler
+greenhouses
 ghostliness
 guacamole
 gaylussite
