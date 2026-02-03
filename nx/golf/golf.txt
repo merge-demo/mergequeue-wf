@@ -2294,7 +2294,6 @@ gelant
 glyceric
 granulation
 gelatinating
-greyfish
 gigots
 guitarists
 geognosis
@@ -5881,6 +5880,7 @@ gaultherase
 geolatry
 grandesque
 gravimetric
+greyfish
 gallinaceous
 graphometrist
 grivoise
