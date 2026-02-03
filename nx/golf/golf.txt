@@ -9013,7 +9013,6 @@ girned
 gabion
 goldtit
 geognosist
-guzzlers
 goodyness
 gazeless
 glory
@@ -10344,6 +10343,7 @@ glebal
 guarana
 gastroduodenostomies
 gaums
+guzzlers
 gauzes
 glacis
 gruffily
