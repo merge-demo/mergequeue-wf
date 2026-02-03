@@ -2771,6 +2771,7 @@ alarms
 airglow
 apotropaion
 autopista
+arrayals
 anthelix
 antennary
 acrocephalic
@@ -20165,7 +20166,6 @@ arrand
 arrangeable
 arrangement
 alkylbenzenesulfonate
-arrayals
 abp
 away
 auscultated
