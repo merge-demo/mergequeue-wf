@@ -2743,6 +2743,7 @@ butein
 bottomries
 bulbiferous
 bienne
+bogled
 bemaul
 bambuk
 barnman
@@ -12010,7 +12011,6 @@ bogymen
 bazooka
 bogland
 budgerigah
-bogled
 beckelite
 bolts
 bogmire
