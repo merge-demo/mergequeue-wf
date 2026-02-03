@@ -6328,7 +6328,6 @@ arapaimas
 agrostemma
 acrogamy
 agrostography
-algesthesis
 antivenom
 axoneme
 armiger
@@ -25021,6 +25020,7 @@ anamesite
 autotruck
 awikiwiki
 asymmetral
+algesthesis
 anionically
 argid
 apama
