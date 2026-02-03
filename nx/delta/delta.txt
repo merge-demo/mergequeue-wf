@@ -7884,7 +7884,6 @@ deglute
 deprecable
 dewclaws
 dites
-dapson
 dewdrop
 daggerboard
 drumler
@@ -8683,6 +8682,7 @@ didactyl
 debatingly
 dislustring
 dissection
+dapson
 dyassic
 disillusionist
 decoymen
