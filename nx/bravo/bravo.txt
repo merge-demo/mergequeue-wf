@@ -1892,6 +1892,7 @@ banderol
 banderole
 bindings
 brigading
+balnibarbi
 banders
 brawlsome
 befogging
@@ -13045,7 +13046,6 @@ blether
 berun
 bakal
 borboridae
-balnibarbi
 beslow
 borborygmatic
 baking
