@@ -4784,6 +4784,7 @@ executions
 exodos
 endosmosic
 excircle
+evites
 emollescence
 exploratory
 extracardial
@@ -6043,7 +6044,6 @@ extensimeter
 emboltement
 embayment
 ells
-evites
 exhaustlessly
 egbo
 extraconstellated
