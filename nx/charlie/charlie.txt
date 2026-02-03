@@ -8511,7 +8511,6 @@ contrastively
 champian
 copyholder
 champignon
-champignons
 caveat
 carle
 contrabassoonist
@@ -19575,6 +19574,7 @@ celebrity
 czar
 chlorazide
 capabilities
+champignons
 columbaria
 columbate
 columbeion
