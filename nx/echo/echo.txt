@@ -11715,7 +11715,6 @@ entoplastic
 enfire
 exactitude
 etymons
-eulogias
 exactness
 exactors
 enterophthisis
@@ -14184,6 +14183,7 @@ empyromancy
 embelic
 eebree
 eyght
+eulogias
 experrection
 eranthis
 eschatological

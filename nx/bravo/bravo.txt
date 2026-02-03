@@ -5800,7 +5800,6 @@ bedlamic
 batched
 backie
 bombyliidae
-bryozoan
 batfish
 bimetallism
 berengelite
@@ -6132,6 +6131,7 @@ begged
 blepharodyschroia
 benedictinism
 brickfield
+bryozoan
 bucolical
 bamboozled
 briolet
