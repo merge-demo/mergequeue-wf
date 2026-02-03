@@ -2353,6 +2353,7 @@ geniting
 germanies
 genitives
 guazuti
+goethian
 gorkiesque
 galivants
 gagee
@@ -6346,7 +6347,6 @@ goatsucker
 gamic
 gonake
 gradating
-goethian
 gam
 ganoin
 greyed
