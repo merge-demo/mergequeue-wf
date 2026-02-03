@@ -4381,6 +4381,7 @@ enterointestinal
 exceeders
 exothermous
 enamour
+enzymolysis
 expostulator
 effuse
 espouse
@@ -13457,7 +13458,6 @@ embolomerous
 echinosphaeritidae
 egalitarian
 evaluable
-enzymolysis
 exorate
 expropriator
 enunciability
