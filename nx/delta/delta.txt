@@ -3977,6 +3977,7 @@ deleter
 disgracefully
 demur
 dirge
+diazonium
 dysraphia
 deletions
 disdub
@@ -8838,7 +8839,6 @@ dixieland
 doggies
 diecious
 dipala
-diazonium
 demethylation
 diazotype
 dromicia
