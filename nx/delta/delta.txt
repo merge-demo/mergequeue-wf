@@ -7845,7 +7845,6 @@ did
 dorsad
 devourers
 discourseless
-dependently
 doers
 daylighting
 doarium
@@ -8160,6 +8159,7 @@ daunton
 decommissions
 diacetin
 damager
+dependently
 descenders
 drabbler
 diaplexal
