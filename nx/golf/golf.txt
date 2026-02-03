@@ -1806,6 +1806,7 @@ granat
 glycosidase
 googlies
 giltcup
+growing
 gouts
 gemmiparity
 grails
@@ -7555,7 +7556,6 @@ goliardery
 gabions
 gorbellies
 geebong
-growing
 governmental
 garageman
 gangman
