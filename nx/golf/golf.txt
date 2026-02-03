@@ -5194,7 +5194,6 @@ gratins
 greek
 grinch
 genetmoil
-gazania
 gumdrops
 groggily
 gyrophoraceae
@@ -7482,6 +7481,7 @@ gomerals
 gasconaded
 georgemas
 gravitation
+gazania
 gau
 glumous
 geodesy
