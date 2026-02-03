@@ -8849,7 +8849,6 @@ blowoffs
 bumpered
 battel
 bepill
-binocularly
 binoculars
 balestra
 binodose
@@ -14897,6 +14896,7 @@ bradbury
 bestializes
 bonetta
 burnoosed
+binocularly
 breadmaker
 beatee
 breadman
