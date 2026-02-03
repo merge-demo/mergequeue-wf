@@ -342,7 +342,6 @@ backen
 balustered
 bangala
 bigha
-billiardly
 burglars
 botrytis
 burlers
@@ -13160,6 +13159,7 @@ bornites
 bornitic
 berob
 bilgy
+billiardly
 branchiopulmonata
 borophenylic
 batfowling
