@@ -2668,7 +2668,6 @@ drawlatch
 depressionary
 dvornik
 derails
-decontrolled
 deconvolution
 deconvolve
 desmon
@@ -13719,6 +13718,7 @@ dermatocellulitis
 dignitarian
 dyssynergy
 decagramme
+decontrolled
 doxography
 diatryma
 dogberries
