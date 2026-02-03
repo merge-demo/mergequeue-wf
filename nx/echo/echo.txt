@@ -1063,6 +1063,7 @@ edentata
 earwax
 etypic
 ethyls
+equilibrate
 edeodynia
 excerp
 enhydris
@@ -5217,7 +5218,6 @@ emergences
 elusive
 endolysin
 eparchy
-equilibrate
 endomorphy
 exta
 ekebergite
