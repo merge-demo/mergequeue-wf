@@ -3863,7 +3863,6 @@ derivation
 dejects
 drake
 dejeration
-dabbers
 dekagramme
 doggerelize
 dowing
@@ -17111,6 +17110,7 @@ divest
 disclose
 degenerative
 drifters
+dabbers
 dialectologically
 driftpins
 damara
