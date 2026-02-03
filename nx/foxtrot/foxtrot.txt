@@ -626,6 +626,7 @@ fertility
 faintingly
 fourteen
 fits
+footfolk
 fleeching
 fallibleness
 fleshes
@@ -7223,7 +7224,6 @@ footfarer
 fullom
 fearer
 fricassees
-footfolk
 ficklewise
 fruticulture
 flabel
