@@ -6053,6 +6053,7 @@ enumerates
 enterospasm
 empaler
 empiry
+eviler
 electrobrasser
 emboldener
 expromissor
@@ -11292,7 +11293,6 @@ equiproducing
 existence
 enjeopardy
 erector
-eviler
 eurous
 endocrinologic
 entrenchment
