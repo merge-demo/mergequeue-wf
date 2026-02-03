@@ -7118,7 +7118,6 @@ ferrum
 forgiveness
 frogspawn
 flaxlike
-favelas
 fontal
 fougasse
 fantassin
@@ -9271,6 +9270,7 @@ foundries
 factionalist
 faucals
 fidalgo
+favelas
 fey
 ferricyanate
 fishbed
