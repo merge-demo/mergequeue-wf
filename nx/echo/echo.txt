@@ -2259,7 +2259,6 @@ exult
 eventuate
 eldrich
 exceeder
-enchased
 eysoge
 embryogeny
 exhumate
@@ -8729,6 +8728,7 @@ episcleritis
 epiglottides
 entortill
 erotical
+enchased
 epilepsy
 endamoebas
 ejecta
