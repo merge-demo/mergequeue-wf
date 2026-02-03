@@ -11872,7 +11872,6 @@ discrowns
 dislustered
 domestic
 devitalised
-defiler
 dignities
 discruciate
 dived
@@ -16723,6 +16722,7 @@ dolichocephaly
 dult
 dyscratic
 deadwork
+defiler
 draperied
 downline
 drapetomania
