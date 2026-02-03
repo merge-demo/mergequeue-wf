@@ -1890,7 +1890,6 @@ euler
 epidiorite
 estoppel
 encystments
-errabund
 elaterin
 ensepulchering
 expeller
@@ -11024,6 +11023,7 @@ ecbolic
 eupnoea
 emf
 electrocutioner
+errabund
 extenuatory
 embrowns
 eupolidean
