@@ -3547,7 +3547,6 @@ forbare
 foe
 fluosilicic
 frequently
-ficins
 fordays
 foetalism
 floorhead
@@ -8579,6 +8578,7 @@ frenchwise
 fluorographic
 frontate
 formulizing
+ficins
 fulmarus
 forgat
 flapdoodle
