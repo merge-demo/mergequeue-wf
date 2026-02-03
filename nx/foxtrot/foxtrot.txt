@@ -11434,7 +11434,6 @@ foreflap
 ferrateen
 forelive
 fortunetell
-fancify
 formfeed
 frizers
 flirt
@@ -11657,6 +11656,7 @@ fasher
 fleshed
 fossorious
 filamented
+fancify
 favored
 funerealness
 foreknowing
