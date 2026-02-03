@@ -16928,7 +16928,6 @@ clubman
 cloveroot
 clubmate
 chiccory
-coexists
 coenure
 crosswort
 clubroom
@@ -20782,6 +20781,7 @@ compliableness
 classicizing
 compliances
 compliancy
+coexists
 coparceny
 compliant
 cautious
