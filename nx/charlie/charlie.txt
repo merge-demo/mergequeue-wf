@@ -19653,7 +19653,6 @@ callets
 cinematographical
 columnized
 creeperless
-columnizing
 constitutioner
 colure
 curd
@@ -25311,6 +25310,7 @@ comities
 coidentity
 cornbole
 contrade
+columnizing
 commemorating
 causeways
 corncakes
