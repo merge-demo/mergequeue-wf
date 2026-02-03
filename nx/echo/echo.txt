@@ -1460,6 +1460,7 @@ ectoskeleton
 excoct
 endobatholithic
 electrostriction
+eaglet
 encashable
 endoral
 ensuable
@@ -6555,7 +6556,6 @@ extravagating
 englishes
 egomaniacal
 entails
-eaglet
 embarrassedly
 egipto
 ensmall
