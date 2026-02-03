@@ -6587,7 +6587,6 @@ gnawing
 glaistig
 gastronomically
 graduateship
-gemotes
 gudgeons
 gluconeogenetic
 glengarry
@@ -10154,6 +10153,7 @@ graminaceous
 gasconading
 guardianly
 git
+gemotes
 grabby
 grandstands
 gigglement
