@@ -5220,6 +5220,7 @@ befrocked
 bored
 bettong
 befuddled
+benzophthalazine
 boxberries
 beautyship
 ballistophobia
@@ -6411,7 +6412,6 @@ benedight
 bulrush
 bewake
 broodmare
-benzophthalazine
 breakup
 benzil
 banewort
