@@ -2601,7 +2601,6 @@ grendel
 geraty
 gunners
 gramma
-gonocalyx
 graphostatical
 galleasses
 gynecia
@@ -8024,6 +8023,7 @@ globing
 glottologies
 gnomonologically
 gradualist
+gonocalyx
 galline
 gainer
 guttee
