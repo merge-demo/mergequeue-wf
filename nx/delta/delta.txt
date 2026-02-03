@@ -6007,6 +6007,7 @@ desalts
 diagonally
 depe
 dimnesses
+dirigibles
 darkrooms
 deindustrialize
 dipyramidal
@@ -10365,7 +10366,6 @@ dayrooms
 dionysus
 dissuader
 disembowel
-dirigibles
 dittography
 dioon
 dependability
