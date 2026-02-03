@@ -4535,7 +4535,6 @@ deuce
 deadhouse
 dinoflagellatae
 demineralizing
-demiofficial
 demiorbit
 distortedly
 dendrolagus
@@ -9315,6 +9314,7 @@ decupling
 dekaliters
 diffidation
 deorientalize
+demiofficial
 disquiparancy
 deobstruent
 dietic
