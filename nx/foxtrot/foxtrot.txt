@@ -591,7 +591,6 @@ foreking
 flichtering
 font
 famine
-flamier
 foliary
 fancymonger
 fortunation
@@ -7605,6 +7604,7 @@ five
 fingerfish
 frame
 filemaking
+flamier
 fringillaceous
 fusees
 fuzils
