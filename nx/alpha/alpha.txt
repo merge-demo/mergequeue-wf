@@ -6272,6 +6272,7 @@ assumptively
 airs
 amphionic
 anticonventionalism
+althing
 arcanist
 apesthesia
 assertedly
@@ -11923,7 +11924,6 @@ aconitic
 aerogenically
 arbutes
 aka
-althing
 agba
 ascribed
 armagnac
