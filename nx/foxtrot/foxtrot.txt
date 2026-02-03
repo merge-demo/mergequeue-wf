@@ -8320,6 +8320,7 @@ ferrule
 familyish
 fo
 fosterage
+fullers
 faultiness
 freestyler
 fusspots
@@ -9611,7 +9612,6 @@ foggara
 frist
 followeth
 findfault
-fullers
 fotui
 fair
 forche
