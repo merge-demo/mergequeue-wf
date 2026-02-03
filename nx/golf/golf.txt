@@ -6189,7 +6189,6 @@ grader
 glistened
 goliaths
 gages
-gish
 gyric
 galactogogue
 gambodic
@@ -7449,6 +7448,7 @@ goodmen
 gorgelet
 greenockite
 gabbai
+gish
 gamotropic
 gastrotaxis
 grewt
