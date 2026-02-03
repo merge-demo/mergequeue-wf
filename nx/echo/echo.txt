@@ -1062,7 +1062,6 @@ expergefacient
 edentalous
 edentata
 earwax
-envolupen
 etypic
 ethyls
 edeodynia
@@ -13553,6 +13552,7 @@ enlightening
 earthquakes
 exuviae
 epexegetic
+envolupen
 engl
 evildoer
 exhance
