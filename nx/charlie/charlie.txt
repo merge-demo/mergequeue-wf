@@ -1830,6 +1830,7 @@ calvarium
 calved
 cohosh
 cithern
+church
 commutators
 comdr
 controlment
@@ -12840,7 +12841,6 @@ calcitestaceous
 camellias
 canephoroe
 contingency
-church
 courageousness
 conchylia
 churchcraft
