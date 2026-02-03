@@ -6313,7 +6313,6 @@ geodesical
 golems
 gonfalons
 gallopade
-gobylike
 gnashed
 gneu
 gotham
@@ -7953,6 +7952,7 @@ gastrulated
 glycopexia
 glogg
 ghoster
+gobylike
 germanically
 geophagia
 ghostlily
