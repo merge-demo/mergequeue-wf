@@ -7896,7 +7896,6 @@ blepharosymphysis
 bergfall
 botaniser
 bisme
-barony
 burglarising
 billyo
 brambling
@@ -9364,6 +9363,7 @@ base
 belgard
 birdbaths
 broomroot
+barony
 brabbles
 besogne
 bewrathed
