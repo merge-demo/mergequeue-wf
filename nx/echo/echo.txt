@@ -11618,7 +11618,6 @@ extypal
 eperva
 extraburghal
 embrittled
-enterosyphilis
 edea
 esotropic
 errantness
@@ -13821,6 +13820,7 @@ elasmobranch
 effervescingly
 englishness
 electrophilic
+enterosyphilis
 extracystic
 extracivic
 enscale
