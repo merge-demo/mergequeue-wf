@@ -8830,6 +8830,7 @@ embossable
 enround
 electrodepositable
 erections
+eventuations
 eudromias
 endanger
 etcetera
@@ -11124,7 +11125,6 @@ eusebian
 extrudes
 edifies
 enrail
-eventuations
 epicostal
 endotheliocyte
 emblic
