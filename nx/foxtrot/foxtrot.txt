@@ -7155,7 +7155,6 @@ flytraps
 fennig
 fledge
 fedayeen
-fortypenny
 fighter
 foreignly
 foolish
@@ -9927,6 +9926,7 @@ fandangos
 fosh
 fibroneuroma
 frickle
+fortypenny
 forefending
 frontager
 furilic
