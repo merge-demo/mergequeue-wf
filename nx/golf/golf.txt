@@ -5523,6 +5523,7 @@ goupin
 gimmer
 goods
 goodyera
+georgian
 gutium
 goldilocks
 glink
@@ -8253,7 +8254,6 @@ galenical
 galeodidae
 granogabbro
 grapevines
-georgian
 gesling
 gentlemanlike
 gracilaria
