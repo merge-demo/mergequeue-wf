@@ -8681,7 +8681,6 @@ crosstoes
 cedarwood
 chansonniers
 chantey
-counterlighted
 conspired
 chondroid
 caudaite
@@ -14456,6 +14455,7 @@ confucian
 cirrostomi
 cirrostrative
 citharoedus
+counterlighted
 cuttanee
 concernedness
 celiectasia
