@@ -7941,6 +7941,7 @@ epigrammatist
 echinozoa
 earthenhearted
 equipaga
+enhance
 exululate
 epil
 exoclinal
@@ -8669,7 +8670,6 @@ equigranular
 equilateral
 equilibrant
 equilibrates
-enhance
 egol
 enregistry
 equilibria
