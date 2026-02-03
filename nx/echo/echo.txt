@@ -3634,7 +3634,6 @@ entozoon
 emboweled
 epithecial
 ecstasy
-emeus
 elvish
 ethanamide
 enslaves
@@ -10532,6 +10531,7 @@ entocranial
 ecphoriae
 erectilities
 etiquettical
+emeus
 explicable
 etna
 etrenne
