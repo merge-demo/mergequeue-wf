@@ -2146,7 +2146,6 @@ bronchostomy
 besetment
 branchihyal
 bourkha
-bolos
 borasco
 bourignonist
 beback
@@ -9085,6 +9084,7 @@ bipectinated
 biopotential
 breveting
 byssaceous
+bolos
 bespice
 bimana
 biopsychological
