@@ -2119,7 +2119,6 @@ coadjacence
 copperas
 campana
 campane
-campanella
 coadjuvancy
 campania
 cecils
@@ -30334,6 +30333,7 @@ civilities
 cynipid
 cataphysic
 clingstones
+campanella
 cytogenous
 crusaders
 callipers
