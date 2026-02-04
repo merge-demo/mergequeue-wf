@@ -5050,7 +5050,6 @@ eclairs
 encyclopediac
 endophragmal
 entomb
-enqueued
 encumbrances
 eucosmid
 escobedo
@@ -8576,6 +8575,7 @@ equalitarian
 equalitarianism
 englerophoenix
 essee
+enqueued
 extratorrid
 exciton
 evenoo
