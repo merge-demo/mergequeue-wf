@@ -1041,7 +1041,6 @@ blizzards
 borocaine
 bad
 bailers
-buffont
 belast
 brees
 birdsnest
@@ -1292,6 +1291,7 @@ boater
 balander
 bleaberry
 benzopyranyl
+buffont
 bawdyhouses
 bogtrotter
 balanitis
