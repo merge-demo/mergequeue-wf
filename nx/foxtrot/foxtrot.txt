@@ -943,6 +943,7 @@ farceur
 ferneries
 fusinite
 farinha
+farness
 foundry
 fourchite
 fortunateness
@@ -3562,7 +3563,6 @@ flagfall
 figurable
 figurae
 formulism
-farness
 flubbing
 falcones
 fulgorid
