@@ -1117,7 +1117,6 @@ bransolder
 bromius
 basileis
 barless
-baseless
 bryophyte
 bloodnoun
 bromoethylene
@@ -3744,6 +3743,7 @@ barrace
 barbarianism
 becrowded
 blushiness
+baseless
 battlesome
 bimestrial
 battlestead
