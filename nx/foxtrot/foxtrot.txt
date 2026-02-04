@@ -2706,7 +2706,6 @@ fakers
 fainaigue
 froufrou
 factotum
-flickering
 fetted
 fistular
 ferter
@@ -8278,6 +8277,7 @@ faits
 flaglike
 formuliser
 feldspars
+flickering
 fulltime
 fructuose
 forgettably
