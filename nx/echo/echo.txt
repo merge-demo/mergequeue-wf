@@ -13771,6 +13771,7 @@ edestosaurus
 enserfing
 elutriated
 ecorch
+expection
 extolling
 enouncement
 ethologist
@@ -13913,7 +13914,6 @@ extolment
 eleonorite
 erythrism
 eperotesis
-expection
 entombed
 eliminatory
 extorter
