@@ -1650,6 +1650,7 @@ evens
 enthraldom
 ephebeion
 eradicated
+encamped
 exanthema
 egress
 erizo
@@ -3007,7 +3008,6 @@ electrodynamic
 escamoteur
 egoism
 etrogim
-encamped
 enterohepatitis
 ethid
 epidermophyton
