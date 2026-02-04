@@ -12276,7 +12276,6 @@ allumine
 atheroma
 amebiasis
 aortolith
-anterodorsal
 absistos
 auk
 abstrusities
@@ -13460,6 +13459,7 @@ accuses
 arecaceous
 annotatively
 azophenyl
+anterodorsal
 anselm
 ary
 ablate
