@@ -932,7 +932,6 @@ grave
 glisters
 ghostless
 gastroesophageal
-graptolite
 gunshot
 glanis
 genomic
@@ -5622,6 +5621,7 @@ gun
 glottogonist
 garuda
 ginks
+graptolite
 gravestone
 gunks
 glutethimide
