@@ -1032,7 +1032,6 @@ embar
 earthwork
 explosibility
 eterminable
-encapsules
 euthanasic
 exacum
 extensivity
@@ -1295,6 +1294,7 @@ episomal
 evaluation
 enthymeme
 ergostat
+encapsules
 eightling
 exfiltrate
 emperors
