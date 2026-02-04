@@ -4042,7 +4042,6 @@ fairydom
 fledgling
 felicitation
 frontlessness
-formability
 forechoose
 forestalled
 flattish
@@ -10206,6 +10205,7 @@ foreknee
 feckly
 flavour
 frittering
+formability
 fluoroscopy
 fuchi
 fluorometer
