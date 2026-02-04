@@ -9785,7 +9785,6 @@ amassing
 attractile
 ammonolysis
 abrotin
-antheridium
 alfiona
 alascan
 amatembu
@@ -20580,6 +20579,7 @@ alae
 alem
 acousmata
 actinosome
+antheridium
 assimulate
 arctiid
 agend
