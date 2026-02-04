@@ -3449,7 +3449,6 @@ globe
 groaningly
 gruiform
 goldwater
-gerrymanders
 guilts
 genitofemoral
 gliffs
@@ -9763,6 +9762,7 @@ gruyere
 gasterosteidae
 gorfly
 gascromh
+gerrymanders
 gastrogenic
 gonococcus
 gingles
