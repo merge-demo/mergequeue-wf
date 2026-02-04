@@ -4648,7 +4648,6 @@ externals
 empacket
 escapade
 ethnobiological
-exquisitism
 epeisodia
 emceing
 eupad
@@ -10699,6 +10698,7 @@ enmoss
 endozoa
 eques
 enchilada
+exquisitism
 erythrocytolysin
 encephalocele
 epinephrine
