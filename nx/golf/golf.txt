@@ -1044,6 +1044,7 @@ goladar
 graveman
 gothites
 gipsology
+gainable
 giggler
 gasserian
 gist
@@ -6285,7 +6286,6 @@ graithly
 gospelly
 gobiidae
 grincome
-gainable
 gonepoietic
 gobble
 gloomily
