@@ -2913,7 +2913,6 @@ fogies
 formicarium
 fluoresage
 frabjously
-forgettable
 foaled
 flukeworm
 fibbers
@@ -10511,6 +10510,7 @@ fleet
 fwd
 fisted
 flche
+forgettable
 frontstall
 forstall
 frizes
