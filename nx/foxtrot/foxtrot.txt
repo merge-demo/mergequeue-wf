@@ -199,7 +199,6 @@ floatiness
 fraudulence
 filiety
 fascistic
-foreignism
 frostproof
 florin
 folletage
@@ -5352,6 +5351,7 @@ frontingly
 fourrag
 flowingness
 fauconnier
+foreignism
 flawflower
 flawing
 farles
