@@ -11481,6 +11481,7 @@ determinoid
 disapproves
 dehumidify
 discloser
+disruly
 disclosive
 disclosure
 diplomaed
@@ -13519,7 +13520,6 @@ demicircle
 disrooting
 dizygous
 disruddered
-disruly
 dehepatize
 disquietedness
 dislady
