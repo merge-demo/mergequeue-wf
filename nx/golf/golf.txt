@@ -2442,7 +2442,6 @@ gloaming
 gabriel
 gemot
 gingall
-gratton
 goniac
 gytrash
 gromwells
@@ -4965,6 +4964,7 @@ glair
 gently
 gloria
 glaire
+gratton
 glosses
 gigger
 guaiacolize
