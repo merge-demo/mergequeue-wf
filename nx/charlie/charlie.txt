@@ -5649,6 +5649,7 @@ cataloes
 cardias
 cataloged
 character
+counseling
 coelomatic
 curtailed
 coplots
@@ -9696,7 +9697,6 @@ cheesemongering
 cheeseparer
 canaster
 cerebrasthenic
-counseling
 cheeseparing
 cowdie
 cheeses
