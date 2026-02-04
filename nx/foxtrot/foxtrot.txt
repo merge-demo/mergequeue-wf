@@ -6092,7 +6092,6 @@ fashioning
 fascinated
 frolics
 foyboat
-floral
 floralize
 foretypified
 fructiform
@@ -10729,6 +10728,7 @@ forecar
 francic
 finnier
 fayal
+floral
 fraternizer
 fontally
 fitfully
