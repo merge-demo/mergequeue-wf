@@ -3732,7 +3732,6 @@ dehorns
 decaudate
 dioptometry
 depas
-doughlike
 dehorted
 defatigate
 duckweed
@@ -9408,6 +9407,7 @@ depurged
 diffract
 deruralize
 diffractiveness
+doughlike
 dist
 depression
 diffranchise
