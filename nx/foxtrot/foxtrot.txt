@@ -2530,7 +2530,6 @@ fingers
 flavourful
 flabra
 fiji
-forehorse
 faction
 facinorousness
 flagellaria
@@ -7379,6 +7378,7 @@ feazing
 fishyard
 filibegs
 fidelity
+forehorse
 fishmonger
 fozy
 fusilading
