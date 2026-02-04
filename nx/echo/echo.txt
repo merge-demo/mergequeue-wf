@@ -5115,7 +5115,6 @@ ectozoan
 epitomical
 epistoma
 emuls
-embracingness
 encysted
 emanatistic
 expostulations
@@ -11260,6 +11259,7 @@ extrajudicial
 etuis
 extatic
 exportations
+embracingness
 empoison
 epicoelar
 evanescing
