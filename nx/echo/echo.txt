@@ -364,7 +364,6 @@ entomol
 extrema
 ergotine
 eirenarch
-excitement
 ependymal
 ethmopresphenoidal
 essede
@@ -12781,6 +12780,7 @@ emporia
 exorcizement
 exhalable
 elasmobranchiate
+excitement
 enmask
 exorcizer
 epiceratodus
