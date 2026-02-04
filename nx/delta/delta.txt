@@ -2612,7 +2612,6 @@ decreers
 decolours
 dilis
 decommission
-deadheading
 decompensating
 decenniad
 dasylirion
@@ -7775,6 +7774,7 @@ devaluating
 deafness
 devocalized
 dicyandiamide
+deadheading
 doorhawk
 dodecasyllable
 diptychon
