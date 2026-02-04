@@ -1661,6 +1661,7 @@ dyne
 deposition
 deadeners
 decrementless
+dosimeters
 dihalogen
 delineator
 disacquaint
@@ -10489,7 +10490,6 @@ disciflorae
 doglegging
 depotentiation
 diphenoxylate
-dosimeters
 devinct
 demark
 disinflame
