@@ -2058,6 +2058,7 @@ filename
 feinter
 forisfamiliation
 feudary
+frisbees
 formative
 flunking
 facedown
@@ -9236,7 +9237,6 @@ flemished
 fraena
 foreskins
 faroff
-frisbees
 felicitating
 fennels
 fulfulde
