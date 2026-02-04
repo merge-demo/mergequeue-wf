@@ -3964,7 +3964,6 @@ concn
 chylificatory
 carbonizing
 carbonometer
-chondrin
 carbonous
 carbonuria
 checkhook
@@ -17400,6 +17399,7 @@ chickory
 coarsening
 coarsens
 coarticulation
+chondrin
 contriver
 canavalia
 claylike

@@ -5003,7 +5003,6 @@ deemphasis
 distritbutes
 denationalise
 denationalize
-dedicator
 decaesarize
 densification
 drivingly
@@ -10515,6 +10514,7 @@ dotty
 diphtheric
 denticeti
 disallowable
+dedicator
 defacement
 diphtheritically
 disarraying
