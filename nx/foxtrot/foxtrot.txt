@@ -4899,7 +4899,6 @@ festinately
 feasting
 furnishing
 fodder
-foliums
 froebelism
 floor
 fairbanks
@@ -10155,6 +10154,7 @@ filching
 froth
 fringilla
 friskingly
+foliums
 ferrotungsten
 frondiform
 feudatary

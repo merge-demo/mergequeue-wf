@@ -1781,7 +1781,6 @@ gelatinotype
 gestalten
 grumpiness
 gammarus
-gastrostenosis
 glazement
 gastrotomic
 gulsach
@@ -7235,6 +7234,7 @@ gastronomical
 garboards
 globosite
 gestapo
+gastrostenosis
 galik
 ghostwrote
 gracilariidae
