@@ -6502,7 +6502,6 @@ betelgeuse
 bixbyite
 bepicture
 bugology
-banxring
 bepile
 birdnester
 bult
@@ -7866,6 +7865,7 @@ betrough
 bolometer
 benzolize
 bibionid
+banxring
 bathochromatism
 brackebuschite
 bardie
