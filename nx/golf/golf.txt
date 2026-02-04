@@ -8339,7 +8339,6 @@ granatite
 germanish
 gasolier
 graptolitha
-gibers
 gibbosity
 glycuronide
 getter
@@ -9009,6 +9008,7 @@ guaranteed
 glander
 glenlike
 greys
+gibers
 grouseward
 glamorization
 gallinula
