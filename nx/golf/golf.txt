@@ -4543,6 +4543,7 @@ geohydrologic
 gladdy
 grit
 gigantomachia
+genotypes
 ganoidal
 glider
 gawp
@@ -9208,7 +9209,6 @@ gynecologist
 getable
 guanajuatite
 greenwich
-genotypes
 gynarchies
 galvanization
 ganglionitis
