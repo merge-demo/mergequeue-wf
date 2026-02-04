@@ -6751,7 +6751,6 @@ endamebiasis
 entertainingly
 entertainment
 elaborately
-enmuffle
 enigmatize
 endosepsis
 epicenters
@@ -9593,6 +9592,7 @@ eleven
 electrolysed
 embeam
 eskualdun
+enmuffle
 eslisor
 edifier
 eatberry
