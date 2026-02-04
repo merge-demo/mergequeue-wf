@@ -5644,7 +5644,6 @@ eirene
 ecchymose
 exploitations
 enforest
-enform
 ergometric
 enfort
 embarrasses
@@ -12462,6 +12461,7 @@ earthing
 electly
 extemporariness
 expiated
+enform
 ethicality
 exilement
 escalading
