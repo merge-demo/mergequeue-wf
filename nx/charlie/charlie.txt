@@ -3734,6 +3734,7 @@ caranday
 carandas
 craspedota
 carangids
+canted
 coenaesthesis
 coleopterological
 cankers
@@ -20834,7 +20835,6 @@ complines
 cawquaw
 communalised
 complins
-canted
 cradles
 complots
 complotter
