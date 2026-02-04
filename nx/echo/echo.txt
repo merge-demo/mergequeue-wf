@@ -1335,7 +1335,6 @@ enteroid
 epyllia
 electrocardiogram
 exodium
-emesis
 epicranius
 exon
 eesome
@@ -14098,6 +14097,7 @@ epigastral
 equilibrative
 enterally
 ebonize
+emesis
 encephalograph
 extremeless
 extremeness
