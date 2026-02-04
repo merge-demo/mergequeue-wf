@@ -5348,7 +5348,6 @@ cassididae
 contests
 cotsetla
 cassidulina
-cassiduloid
 charterage
 cassiepeia
 cassimere
@@ -17004,6 +17003,7 @@ concretize
 certainer
 commerces
 clunkers
+cassiduloid
 corrige
 corregidors
 crowner
