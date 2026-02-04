@@ -7023,6 +7023,7 @@ guldengroschen
 geir
 glossopode
 gallerian
+gentium
 gardevin
 glad
 geopolitic
@@ -7751,7 +7752,6 @@ goss
 grypotherium
 glyptotheca
 graduses
-gentium
 gyres
 girba
 glycuresis
