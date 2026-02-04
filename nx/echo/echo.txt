@@ -7474,7 +7474,6 @@ exosporous
 ephas
 ebriosity
 echites
-excepts
 employes
 elenctic
 escapers
@@ -13261,6 +13260,7 @@ epiphytism
 eriodendron
 eldred
 exheredate
+excepts
 epeiridae
 ergotaminine
 embroiders
