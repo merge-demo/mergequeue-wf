@@ -6135,6 +6135,7 @@ ereptic
 equals
 eruptive
 enfacement
+eigenspace
 episkotister
 estuary
 earlocks
@@ -8406,7 +8407,6 @@ evolutional
 expeding
 endocardial
 episternum
-eigenspace
 enclitics
 exude
 epicontinental
