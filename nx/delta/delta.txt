@@ -7343,7 +7343,6 @@ demicylinder
 dryfat
 densities
 detestation
-decomponent
 dezincified
 dethronement
 diminute
@@ -9268,6 +9267,7 @@ dossils
 decousu
 docibleness
 disguisedly
+decomponent
 demidolmen
 dementis
 dochmii

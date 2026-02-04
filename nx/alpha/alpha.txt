@@ -20599,7 +20599,6 @@ attritus
 anguishing
 auriculariales
 arthritis
-arthrobacterium
 arranged
 arabic
 archpirate
@@ -21779,6 +21778,7 @@ akey
 alchemist
 aglow
 antitheological
+arthrobacterium
 assertor
 abelmusk
 asseveratingly
