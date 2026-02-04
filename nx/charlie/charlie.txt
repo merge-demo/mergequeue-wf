@@ -21617,7 +21617,6 @@ condemn
 convent
 chomps
 condemnations
-chichimecan
 cyathus
 clour
 crustiness
@@ -25907,6 +25906,7 @@ callans
 corticoafferent
 corticoline
 corticose
+chichimecan
 corticosteroids
 convexity
 callovian
