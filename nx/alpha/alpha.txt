@@ -3081,6 +3081,7 @@ altiloquence
 adjudications
 alternations
 aboral
+archisperm
 actinophrys
 archimorphic
 actinopteran
@@ -8196,7 +8197,6 @@ attempre
 archin
 artefac
 aselli
-archisperm
 aliethmoid
 axonal
 alterity
