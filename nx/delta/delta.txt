@@ -3143,6 +3143,7 @@ duarch
 daneflower
 discolorment
 defect
+depiction
 detribalization
 divots
 defecting
@@ -6596,7 +6597,6 @@ dipentene
 digested
 deprecations
 deselected
-depiction
 diabolising
 dysmerogenesis
 deadborn
