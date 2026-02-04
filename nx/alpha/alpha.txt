@@ -3108,7 +3108,6 @@ actinostome
 abrachias
 apiculation
 angiokinesis
-actinotherapeutics
 aviatory
 averted
 actinotrichium
@@ -18208,6 +18207,7 @@ alcoholicity
 anenterous
 antibug
 allophone
+actinotherapeutics
 architect
 antiquation
 alagau
