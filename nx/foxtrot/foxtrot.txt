@@ -6519,7 +6519,6 @@ fibrinolysis
 friskets
 fistulariidae
 flapjack
-fluorotic
 floretty
 froisse
 fraktur
@@ -6885,6 +6884,7 @@ flyers
 fatefulness
 fiendliness
 flaccidity
+fluorotic
 forfalt
 faithfuls
 forams
