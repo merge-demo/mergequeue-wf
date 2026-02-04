@@ -2095,7 +2095,6 @@ gnomist
 gelndesprung
 gratuito
 greasehorn
-gormandise
 graptolitoidea
 grottolike
 gabbards
@@ -5435,6 +5434,7 @@ glucosid
 german
 gigasecond
 glycaemic
+gormandise
 galleria
 grimmer
 galopade
