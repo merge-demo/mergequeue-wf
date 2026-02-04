@@ -1798,6 +1798,7 @@ bruise
 bismutite
 bibliokelpt
 balthasar
+bothridium
 blends
 baltimore
 bumblebeefishes
@@ -9597,7 +9598,6 @@ brujeria
 budgets
 bumbler
 backyarder
-bothridium
 barque
 benzalaniline
 bryophyllum
