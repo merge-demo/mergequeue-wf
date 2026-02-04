@@ -3846,6 +3846,7 @@ equiponderance
 ectoethmoid
 exercising
 embussing
+eohippus
 espigle
 explored
 emceeing
@@ -7291,7 +7292,6 @@ economese
 exonerate
 endoproct
 epicurize
-eohippus
 entrant
 eohippuses
 epigenous
