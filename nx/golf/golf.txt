@@ -1506,7 +1506,6 @@ greencoat
 geotonic
 gagtooth
 gasoliers
-giftwrap
 gripers
 growed
 geez
@@ -9632,6 +9631,7 @@ grovelingly
 guzerat
 gallize
 gobinist
+giftwrap
 gollar
 griming
 glaucodote
