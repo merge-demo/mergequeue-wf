@@ -11429,6 +11429,7 @@ exothermicity
 effeir
 electrodesiccation
 evenforth
+electrooptical
 ectocommensal
 edificator
 eruciform
@@ -11971,7 +11972,6 @@ excretolic
 esthesis
 euphonically
 exponents
-electrooptical
 ecoid
 extracostal
 expellers
