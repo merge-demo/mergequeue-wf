@@ -729,7 +729,6 @@ forensics
 frettier
 feta
 foraminulose
-flumerin
 filberts
 flingdust
 frapping
@@ -2079,6 +2078,7 @@ fairyisms
 farl
 fungic
 flagellators
+flumerin
 fops
 frothiness
 foggiest
