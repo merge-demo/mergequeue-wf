@@ -1784,7 +1784,6 @@ extendedly
 entries
 epanorthoses
 eer
-enswathe
 eyepiece
 enrapturer
 everard
@@ -8770,6 +8769,7 @@ enlighteners
 experimentator
 equitemporaneous
 eluted
+enswathe
 excelse
 ergatomorphism
 edo
