@@ -13061,7 +13061,6 @@ cyanotype
 clevis
 coefficiently
 cyanuric
-cyanurin
 crystall
 cyanurine
 couthly
@@ -16134,6 +16133,7 @@ cryptographical
 ceramographic
 collada
 corosif
+cyanurin
 clergywomen
 croakiest
 cliffhanger
