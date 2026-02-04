@@ -3227,6 +3227,7 @@ blastozooid
 bilio
 bassan
 boatwright
+brevities
 bromelia
 beadily
 bloop
@@ -15152,7 +15153,6 @@ backlash
 brevit
 broquineer
 boyhoods
-brevities
 bretwalda
 buccinae
 baccara
