@@ -7489,7 +7489,6 @@ extraperiodic
 extracurricular
 elfship
 elohimic
-ephestia
 enregistering
 emphatical
 ephelcystic
@@ -9819,6 +9818,7 @@ exalbuminous
 electroplate
 encrinite
 estable
+ephestia
 erodability
 establishable
 enchafe
