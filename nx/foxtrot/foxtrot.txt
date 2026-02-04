@@ -342,7 +342,6 @@ fag
 feint
 fulciment
 finagles
-fibrillated
 finials
 finochio
 flusker
@@ -1476,6 +1475,7 @@ feramorz
 fluentness
 filago
 falstaffian
+fibrillated
 fireside
 focussing
 fistulose
