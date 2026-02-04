@@ -1387,7 +1387,6 @@ gasified
 gingersnaps
 glaciate
 gausterer
-glossocomon
 gowned
 glenlivet
 gearshift
@@ -6891,6 +6890,7 @@ gastrohysterotomy
 glibly
 garnering
 gaped
+glossocomon
 graphically
 gestated
 gatling
