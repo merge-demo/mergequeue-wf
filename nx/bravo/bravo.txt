@@ -1216,6 +1216,7 @@ blennostatic
 bakeress
 bootloader
 bumblekite
+bonaght
 bakeries
 blabbers
 budling
@@ -1924,7 +1925,6 @@ bandiness
 blepharochalasis
 bailiary
 bryology
-bonaght
 bevies
 bishoplike
 backy
