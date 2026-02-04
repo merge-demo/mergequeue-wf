@@ -2455,7 +2455,6 @@ delays
 dixy
 diaspora
 decisively
-decitizenize
 dandling
 decivilize
 dateline
@@ -13915,6 +13914,7 @@ disprison
 disrobed
 disthroned
 discoplacentalia
+decitizenize
 disty
 darkles
 decimalist
