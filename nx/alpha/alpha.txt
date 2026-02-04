@@ -2564,6 +2564,7 @@ aecidia
 anywheres
 acorus
 acosmism
+anaglyptography
 athecata
 aircoach
 atrophy
@@ -9522,7 +9523,6 @@ australorp
 assument
 amygdaliform
 abominates
-anaglyptography
 aluminate
 alumines
 archicontinent
