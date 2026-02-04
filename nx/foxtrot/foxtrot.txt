@@ -6456,6 +6456,7 @@ fanega
 fluctuability
 ferriage
 fixup
+farcify
 fluvio
 foppery
 fragrantness
@@ -8156,7 +8157,6 @@ furtive
 foison
 fanum
 footmenfootpad
-farcify
 fannell
 flatcaps
 featurette
