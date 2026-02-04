@@ -8298,6 +8298,7 @@ atomechanics
 apocentricity
 alphabeting
 alimentatively
+aphasia
 ayllu
 asternia
 algenib
@@ -14380,7 +14381,6 @@ anthrenus
 allobaric
 anemonin
 abhorrences
-aphasia
 atwitch
 ametabolian
 arteries
