@@ -3145,7 +3145,6 @@ filoplume
 forestallment
 fibroenchondroma
 filosa
-friseur
 faring
 fulminancy
 foam
@@ -10109,6 +10108,7 @@ fibroblastic
 flagstaffs
 finches
 ferd
+friseur
 fonted
 frowned
 foreleader
