@@ -4369,7 +4369,6 @@ graphicalness
 guz
 gasterosteid
 gondi
-gardened
 gayway
 grandam
 ginhouse
@@ -10839,6 +10838,7 @@ guaiacum
 gundelow
 glycerogel
 greenable
+gardened
 gynandromorphous
 guzul
 gestures
