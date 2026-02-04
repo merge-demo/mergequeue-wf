@@ -3705,7 +3705,6 @@ adespoton
 analemmatic
 arylating
 adessenarian
-adeste
 afterpressure
 antesternum
 affectionate
@@ -14490,6 +14489,7 @@ anteclassical
 achenodia
 arroba
 anthropopathism
+adeste
 anthropophagy
 antipoetically
 aphelilia
