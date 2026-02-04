@@ -3328,6 +3328,7 @@ fieldpieces
 forefeet
 fiddlestick
 farsight
+fimbles
 flowerfence
 fivescore
 flighty
@@ -6243,7 +6244,6 @@ filmiform
 flowcharted
 fungibles
 fazendeiro
-fimbles
 fragmentized
 finality
 flowerage
