@@ -2765,6 +2765,7 @@ ferriages
 fideicommissum
 figpecker
 fathomer
+flywheels
 fusain
 foremistress
 foreassign
@@ -3397,7 +3398,6 @@ flotsam
 forjaskit
 fiedlerite
 fortifications
-flywheels
 furfuran
 fifth
 flooding
