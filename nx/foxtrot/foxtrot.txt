@@ -1808,7 +1808,6 @@ freeboard
 fores
 ferninst
 forbesite
-folkmots
 fouett
 flak
 frotting
@@ -10742,6 +10741,7 @@ flunkeyistic
 flavedo
 frutescence
 fetter
+folkmots
 frontward
 forcemeat
 forbore
