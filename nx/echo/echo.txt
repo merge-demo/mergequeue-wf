@@ -7982,7 +7982,6 @@ esquiring
 elflock
 equivalvular
 equitant
-estragol
 epimanikion
 epimeres
 epimerism
@@ -12743,6 +12742,7 @@ echinologist
 empresa
 exasperatingly
 elaeodochon
+estragol
 enteromorpha
 escarps
 extraction
