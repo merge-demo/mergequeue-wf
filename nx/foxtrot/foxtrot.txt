@@ -9726,7 +9726,6 @@ frondent
 forfairn
 fascines
 freibergite
-fierasferid
 furnacelike
 ferkin
 fadelessly
@@ -11381,6 +11380,7 @@ ferromagneticism
 fegary
 flightily
 footboards
+fierasferid
 flashlamp
 fireproofed
 ferberite
