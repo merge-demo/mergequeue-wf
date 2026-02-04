@@ -1658,7 +1658,6 @@ egress
 erizo
 epiblastic
 egressed
-egresses
 emboldening
 extraphysiological
 expounded
@@ -11674,6 +11673,7 @@ empires
 ewes
 eucalypt
 exhuming
+egresses
 envenomous
 euryzygous
 eeliest
