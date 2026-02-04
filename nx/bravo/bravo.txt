@@ -14923,7 +14923,6 @@ babylon
 berreaving
 bingies
 bryological
-barrelling
 breadwinner
 birdbander
 beanpoles
@@ -16025,6 +16024,7 @@ buckskins
 bearer
 bemourn
 beryllosis
+barrelling
 blooming
 backshift
 barretor
