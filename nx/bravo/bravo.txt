@@ -9114,7 +9114,6 @@ bios
 bargander
 biosciences
 blankminded
-bizarreness
 buzzwigs
 boylikeness
 bioscopy
@@ -14352,6 +14351,7 @@ bishoped
 bedirtying
 braggite
 braggle
+bizarreness
 bandboxes
 bragite
 blimps
