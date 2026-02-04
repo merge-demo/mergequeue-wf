@@ -7256,6 +7256,7 @@ femcee
 freestanding
 footier
 flocoon
+footband
 formedon
 flection
 flites
@@ -10725,7 +10726,6 @@ formularising
 fibriform
 foretelling
 fungals
-footband
 forecar
 francic
 finnier
