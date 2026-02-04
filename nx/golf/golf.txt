@@ -2857,7 +2857,6 @@ geostrophically
 guardsman
 giga
 ganocephalous
-gipser
 grasschat
 gazebo
 goombay
@@ -4155,6 +4154,7 @@ gasan
 goetic
 goggles
 ginners
+gipser
 greyflies
 gravelstone
 gasbag
