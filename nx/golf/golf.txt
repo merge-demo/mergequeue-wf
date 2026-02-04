@@ -2997,7 +2997,6 @@ greenstuff
 grudgekin
 garboil
 gracy
-gooma
 gymnodinium
 gromatical
 greasewood
@@ -6815,6 +6814,7 @@ gnarling
 geryonia
 guans
 gruffish
+gooma
 guarding
 gurts
 gris
