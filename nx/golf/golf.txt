@@ -3792,7 +3792,6 @@ giantship
 graphis
 garrafa
 gombroon
-gumchewer
 grockle
 gapping
 goggle
@@ -7398,6 +7397,7 @@ germiparous
 gallicanism
 glassblower
 gluttons
+gumchewer
 gummiest
 ghedda
 greenfish
