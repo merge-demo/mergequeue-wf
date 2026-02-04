@@ -9221,6 +9221,7 @@ gametangia
 ginhound
 greenyard
 greened
+gazetteer
 gripping
 genupectoral
 griffonage
@@ -10111,7 +10112,6 @@ gekkonoid
 gephyrocercal
 grocerdom
 glottid
-gazetteer
 generates
 gardenias
 geomyid
