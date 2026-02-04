@@ -6808,7 +6808,6 @@ ciscos
 cribbages
 clavecin
 celemin
-chloroamine
 celemines
 celery
 cimborio
@@ -28787,6 +28786,7 @@ ciliary
 cresyls
 cresive
 cornucopian
+chloroamine
 cresoline
 carline
 cresorcinol

@@ -11540,7 +11540,6 @@ barotaxis
 birthday
 bergall
 bushet
-betaxed
 birdman
 boca
 bemurmurs
@@ -13568,6 +13567,7 @@ buccaneers
 bedlamism
 biquarterly
 barhop
+betaxed
 bedframes
 barcan
 brontesque
