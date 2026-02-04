@@ -1340,6 +1340,7 @@ bibliolater
 bagio
 breviradiate
 balatte
+bimesters
 bermudian
 bewimple
 bernoullian
@@ -18367,7 +18368,6 @@ bobbins
 bordrage
 brailing
 bacteriological
-bimesters
 buzane
 blawort
 bortsch
