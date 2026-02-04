@@ -1410,7 +1410,6 @@ ensure
 ectopatagium
 eights
 epode
-endoskeletal
 emplaster
 essentialness
 exomis
@@ -6287,6 +6286,7 @@ evestar
 experimentative
 enameloma
 enraptured
+endoskeletal
 estop
 eudalene
 executors
