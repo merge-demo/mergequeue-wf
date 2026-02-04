@@ -6363,7 +6363,6 @@ dustmen
 diplotene
 dorsiventral
 deflates
-derog
 demeanour
 doronicum
 derogate
@@ -15393,6 +15392,7 @@ directing
 dilators
 domineeringly
 darkened
+derog
 doming
 denigrations
 domini
