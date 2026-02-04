@@ -151,6 +151,7 @@ certy
 casterless
 cables
 changeabout
+chamal
 cablese
 contentiousness
 campmaster
@@ -15905,7 +15906,6 @@ chronomancy
 cleft
 cleidagra
 calms
-chamal
 cadaverize
 cleidocostal
 cleidoic
