@@ -9173,6 +9173,7 @@ ferrotyper
 flitchen
 fanatics
 foldboating
+frypans
 fleapit
 frusta
 flirtations
@@ -11542,7 +11543,6 @@ furlable
 fabling
 flytier
 fictionize
-frypans
 fossilising
 fards
 forjudgment
