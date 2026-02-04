@@ -10690,7 +10690,6 @@ epinephelidae
 evilproof
 enmoss
 endozoa
-eques
 enchilada
 exquisitism
 erythrocytolysin
@@ -12323,6 +12322,7 @@ emusive
 euscaro
 earthlings
 exercitation
+eques
 ensnarling
 effortless
 equilin
