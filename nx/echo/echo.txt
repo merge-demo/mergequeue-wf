@@ -373,7 +373,6 @@ eisegesis
 entoperipheral
 enameling
 euboic
-eastling
 estang
 escapee
 escots
@@ -9114,6 +9113,7 @@ ergotamine
 erythrocytosis
 excursionist
 ectasia
+eastling
 equivocations
 ekhimi
 exaggeratedness
