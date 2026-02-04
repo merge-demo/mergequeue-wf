@@ -504,6 +504,7 @@ agelacrinitidae
 abjudicate
 abjudicated
 anthropophagus
+antapices
 arthel
 airways
 arsenicophagy
@@ -2100,7 +2101,6 @@ achievable
 anviling
 antecedents
 amiral
-antapices
 aiguillesque
 adreno
 asterella
