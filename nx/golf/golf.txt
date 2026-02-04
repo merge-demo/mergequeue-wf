@@ -3206,6 +3206,7 @@ gaudiness
 glenn
 gio
 genetous
+gymslip
 gambled
 gory
 gauche
@@ -10145,7 +10146,6 @@ gilding
 grudges
 geology
 gideonite
-gymslip
 gasohol
 grazers
 giddyish
