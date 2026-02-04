@@ -12102,6 +12102,7 @@ barbascos
 bebloom
 balisaurs
 boilable
+bewrapped
 bournonite
 bruzz
 buz
@@ -14178,7 +14179,6 @@ bowyers
 boughy
 bollox
 bookmakers
-bewrapped
 bureaucratese
 bossboy
 brassed
