@@ -6428,7 +6428,6 @@ greylag
 goitrogenic
 gigot
 gamogenetic
-garbing
 guzzle
 glassman
 gigantize
@@ -9770,6 +9769,7 @@ gonococcus
 gingles
 gymnasium
 guidonian
+garbing
 gyrinus
 gourmander
 greyhounds
