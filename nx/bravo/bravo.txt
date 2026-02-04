@@ -1931,6 +1931,7 @@ backy
 beshrew
 bretwaldadom
 budgerigar
+billetwood
 balant
 bandle
 blastoff
@@ -13757,7 +13758,6 @@ boustrophedon
 babblers
 bircher
 banqueted
-billetwood
 baronies
 balneatory
 boutefeu
