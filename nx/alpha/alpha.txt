@@ -10542,7 +10542,6 @@ arborolater
 amylose
 achree
 africans
-angiotribe
 acuminous
 amylum
 abib
@@ -14324,6 +14323,7 @@ andries
 antagonisation
 analgetic
 archeology
+angiotribe
 autoscopy
 assortatively
 anisocycle
