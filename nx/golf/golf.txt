@@ -2599,7 +2599,6 @@ gramma
 graphostatical
 galleasses
 gynecia
-grayware
 galena
 graal
 gigues
@@ -3462,6 +3461,7 @@ geek
 gleaners
 gerate
 glut
+grayware
 graphologist
 glaucosis
 gamont
