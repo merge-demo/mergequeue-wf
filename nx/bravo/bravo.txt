@@ -432,6 +432,7 @@ basename
 bepester
 bernie
 bors
+buries
 beefhead
 brushless
 brinjaree
@@ -5711,7 +5712,6 @@ berreaved
 beater
 bunds
 burys
-buries
 bistered
 birder
 bora
