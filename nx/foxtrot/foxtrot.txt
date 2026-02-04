@@ -5839,7 +5839,6 @@ figureheadless
 fisher
 farth
 fiaschi
-flashily
 fustilugs
 flyspecking
 folate
@@ -9846,6 +9845,7 @@ fusionism
 fifths
 fete
 ferrivorous
+flashily
 fatals
 farrows
 feldspathic
