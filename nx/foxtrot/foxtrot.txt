@@ -1124,7 +1124,6 @@ frenchwoman
 firerooms
 frondescence
 ferret
-foughten
 farsighted
 flatiron
 flaunt
@@ -4552,6 +4551,7 @@ forme
 fleadock
 ferrovanadium
 fortifiable
+foughten
 flogging
 felinae
 fishlike
