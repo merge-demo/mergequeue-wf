@@ -3771,7 +3771,6 @@ endocoeliac
 embosking
 embryologist
 encyrtidae
-efformation
 erythromycin
 expectant
 elec
@@ -5351,6 +5350,7 @@ exerts
 exosepsis
 evilspeaking
 episioplasty
+efformation
 expatriations
 evzones
 ethanethiol
