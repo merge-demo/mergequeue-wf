@@ -9571,7 +9571,6 @@ bullfights
 bis
 borracha
 borussian
-bert
 bravuras
 bicipitous
 boarfish
@@ -13994,6 +13993,7 @@ baldpate
 bulrushes
 borghese
 barathron
+bert
 brooders
 bassi
 broadening
