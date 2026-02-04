@@ -558,7 +558,6 @@ disclosures
 dramamine
 doff
 damnability
-damnabilities
 disegno
 dupioni
 dexies
@@ -14223,6 +14222,7 @@ disaffirming
 drolly
 download
 dithyrambic
+damnabilities
 delaying
 disprofess
 drachm
