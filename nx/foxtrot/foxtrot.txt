@@ -8014,7 +8014,6 @@ fourscorth
 fordone
 forget
 forepleasure
-fubbing
 faussebrayed
 fosteringly
 floroun
@@ -10700,6 +10699,7 @@ fruitester
 fargood
 fitments
 fokker
+fubbing
 florican
 fundamental
 foodstuffs
