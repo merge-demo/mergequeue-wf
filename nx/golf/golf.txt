@@ -6785,7 +6785,6 @@ glossospasm
 goatweed
 gaffsail
 gavyuti
-ganglioside
 gossiping
 grassiest
 geront
@@ -10700,6 +10699,7 @@ gildings
 genipap
 girdlers
 glossopathy
+ganglioside
 goldbrickers
 goaling
 gallivants
