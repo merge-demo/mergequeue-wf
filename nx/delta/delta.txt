@@ -1517,7 +1517,6 @@ deacons
 demobilizes
 diphygenic
 desolated
-deactivate
 discoglossid
 distractedly
 dallies
@@ -10507,6 +10506,7 @@ deglutitive
 dindymene
 distortion
 dharna
+deactivate
 denaturate
 diphtheria
 disjune
