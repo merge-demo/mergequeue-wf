@@ -1666,7 +1666,6 @@ extraphysiological
 expounded
 emborder
 egret
-exsanguine
 egromancy
 egurgitate
 egurgitated
@@ -3607,6 +3606,7 @@ eproboscidea
 explementary
 elapinae
 earthwards
+exsanguine
 endow
 embodiers
 extrusile
