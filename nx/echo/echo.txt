@@ -4431,7 +4431,6 @@ esd
 egotize
 eruptively
 experiential
-encadre
 emphasised
 endoparasite
 ethambutol
@@ -12391,6 +12390,7 @@ exoduses
 embalmed
 echinidea
 estrin
+encadre
 enameled
 echeloned
 elaphoglossum
