@@ -11228,7 +11228,6 @@ amphiumidae
 alcoholimeter
 alegar
 aposthume
-ancona
 amphodarch
 anobiidae
 amoebae
@@ -23929,6 +23928,7 @@ alienist
 apperceptive
 appositively
 alumbrado
+ancona
 anzac
 amphigenetic
 abjudication
