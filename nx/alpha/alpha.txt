@@ -9191,7 +9191,6 @@ anticritique
 alongshore
 archbishops
 alemana
-acaudate
 aramid
 autonetics
 antisymmetric
@@ -15932,6 +15931,7 @@ amoralize
 anaplasmoses
 antiqueness
 admittible
+acaudate
 anklebones
 antiquum
 arcadianly
