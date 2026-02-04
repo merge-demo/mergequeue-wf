@@ -2831,7 +2831,6 @@ canicola
 cannulate
 cogniser
 circumscribe
-carajura
 cursitor
 cannulating
 chinafish
@@ -30861,6 +30860,7 @@ culpable
 chabouks
 cancels
 croakiness
+carajura
 capreoline
 cathop
 cosmologygy
