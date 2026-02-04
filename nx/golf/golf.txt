@@ -1938,6 +1938,7 @@ global
 glutetei
 glossarize
 gustoso
+geognosis
 gobans
 gauleiter
 grated
@@ -2292,7 +2293,6 @@ granulation
 gelatinating
 gigots
 guitarists
-geognosis
 gibbsites
 genipapada
 gelatine
