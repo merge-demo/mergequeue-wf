@@ -12007,6 +12007,7 @@ boggler
 bannerol
 bogglers
 bitternut
+balistarius
 bhat
 bessarabian
 brinded
@@ -18233,7 +18234,6 @@ bienniums
 beautifies
 blathering
 barathrum
-balistarius
 besweatered
 beefwood
 baling
