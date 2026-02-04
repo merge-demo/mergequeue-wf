@@ -2670,6 +2670,7 @@ gconvert
 gastroenterologists
 ganodont
 globoids
+gastromyces
 genioglossus
 gelling
 grout
@@ -3016,7 +3017,6 @@ globulins
 glamors
 genitals
 grandioso
-gastromyces
 gangshag
 geometriform
 gigmanity
