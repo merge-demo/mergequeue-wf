@@ -1407,6 +1407,7 @@ functional
 fibrocaseose
 filmy
 fiddly
+festy
 ferryage
 fabronia
 fermatas
@@ -2805,7 +2806,6 @@ fascisms
 ferrimagnet
 fanioned
 formnail
-festy
 festilogies
 feddans
 festinance
