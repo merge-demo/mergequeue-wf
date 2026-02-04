@@ -3598,7 +3598,6 @@ flatfooting
 featherhead
 formant
 farcical
-frightful
 foulsome
 forborne
 filamentary
@@ -8077,6 +8076,7 @@ flockmaster
 feyest
 fatalness
 flowerist
+frightful
 fluidises
 falconnoid
 felicitates
