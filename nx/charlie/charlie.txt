@@ -2791,6 +2791,7 @@ cluttering
 cannibalizing
 coelomes
 cannibally
+chondroid
 curie
 counterstrike
 cableman
@@ -8682,7 +8683,6 @@ cedarwood
 chansonniers
 chantey
 conspired
-chondroid
 caudaite
 chanterelle
 chondroseptum

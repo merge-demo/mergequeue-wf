@@ -1133,7 +1133,6 @@ demonstrative
 detick
 digitogenin
 droppers
-desaturate
 dasypus
 dispraisingly
 duckblind
@@ -17591,6 +17590,7 @@ dirtiest
 dryopteris
 dabbler
 discreteness
+desaturate
 decriminalizes
 discourteously
 drivellers
