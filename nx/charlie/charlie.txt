@@ -9144,7 +9144,6 @@ cindered
 chartist
 caricatured
 creeshes
-chartography
 condiments
 chartographic
 crystalline
@@ -19062,6 +19061,7 @@ collembole
 cokernut
 collembolous
 checkweighman
+chartography
 collencyte
 collery
 candyh
