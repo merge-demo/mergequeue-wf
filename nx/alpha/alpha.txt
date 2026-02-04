@@ -10409,7 +10409,6 @@ annelides
 agua
 assimilator
 apollonia
-auguration
 amphipodan
 aniellidae
 aristides
@@ -16538,6 +16537,7 @@ antarctogaean
 amygdale
 ancestries
 acquisitum
+auguration
 abusee
 accessibly
 amberies
