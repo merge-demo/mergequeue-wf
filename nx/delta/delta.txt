@@ -9151,6 +9151,7 @@ deadpanner
 digger
 densest
 doxasticon
+delegatus
 didies
 didym
 dulses
@@ -16595,7 +16596,6 @@ daphnis
 dorados
 distr
 dracontites
-delegatus
 dragonfishes
 dragonflies
 droud
