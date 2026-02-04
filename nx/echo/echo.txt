@@ -4717,7 +4717,6 @@ epidialogue
 encyclopedic
 ebauche
 endopolyploid
-exacerbating
 egence
 envire
 environment
@@ -12153,6 +12152,7 @@ electroshock
 exploits
 ethnogeography
 egally
+exacerbating
 eyebree
 embastioned
 expositor
