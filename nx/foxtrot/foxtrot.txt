@@ -2417,7 +2417,6 @@ fervidor
 functioning
 felonsetter
 fingernail
-flanged
 ferigee
 farreate
 fervorlessness
@@ -6050,6 +6049,7 @@ flatboat
 farina
 footscald
 fashionize
+flanged
 foisty
 floricultural
 faitour
