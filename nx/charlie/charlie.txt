@@ -10827,7 +10827,6 @@ coemperor
 chinoa
 chinoidin
 confusers
-chinoline
 chinologist
 chinone
 chinook
@@ -18882,6 +18881,7 @@ codeins
 colichemarde
 colicines
 cultigen
+chinoline
 corvisor
 cytogene
 colicroot
