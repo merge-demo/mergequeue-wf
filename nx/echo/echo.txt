@@ -11718,6 +11718,7 @@ eliminations
 entoplastic
 enfire
 exactitude
+extramission
 etymons
 exactness
 exactors
@@ -12078,7 +12079,6 @@ esselen
 ectoblastic
 enfolder
 excrescency
-extramission
 extorts
 enuresis
 eris
