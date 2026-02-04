@@ -7352,6 +7352,7 @@ albinotic
 antitypic
 astragaloscaphoid
 antifascism
+adverb
 apronful
 aesthesis
 arrowplate
@@ -17084,7 +17085,6 @@ arithmetize
 aluminite
 aconine
 apodyteria
-adverb
 apodyterium
 almonership
 apods
