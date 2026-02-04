@@ -9744,7 +9744,6 @@ epitomizing
 edulcorative
 esse
 evangelizing
-elementarism
 embryol
 equational
 escopette
@@ -11009,6 +11008,7 @@ eggnogs
 eggbeater
 epipelagic
 excelling
+elementarism
 enabled
 enskying
 ecbolic
