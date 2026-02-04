@@ -4042,7 +4042,6 @@ fairydom
 fledgling
 felicitation
 frontlessness
-formability
 forechoose
 forestalled
 flattish
@@ -4444,7 +4443,6 @@ fealties
 farrago
 feinschmeckers
 finishes
-fishes
 fiancees
 feirie
 fleta
@@ -5840,7 +5838,6 @@ figureheadless
 fisher
 farth
 fiaschi
-flashily
 fustilugs
 flyspecking
 folate
@@ -9847,6 +9844,7 @@ fusionism
 fifths
 fete
 ferrivorous
+flashily
 fatals
 farrows
 feldspathic
@@ -10207,6 +10205,7 @@ foreknee
 feckly
 flavour
 frittering
+formability
 fluoroscopy
 fuchi
 fluorometer
@@ -10307,6 +10306,7 @@ frat
 funders
 franconian
 fuddlebrained
+fishes
 formolit
 frankeniaceae
 fe

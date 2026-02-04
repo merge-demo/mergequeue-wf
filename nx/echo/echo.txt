@@ -4431,7 +4431,6 @@ esd
 egotize
 eruptively
 experiential
-encadre
 emphasised
 endoparasite
 ethambutol
@@ -4953,7 +4952,6 @@ endarteteria
 ensisternum
 engrammatic
 eupterotidae
-endaspidean
 euhemerize
 enticed
 exencephalic
@@ -8637,6 +8635,7 @@ entocoele
 egall
 equidimensional
 electrodialitically
+endaspidean
 equidist
 educ
 equispatial
@@ -12391,6 +12390,7 @@ exoduses
 embalmed
 echinidea
 estrin
+encadre
 enameled
 echeloned
 elaphoglossum
