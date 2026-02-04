@@ -18973,7 +18973,6 @@ astrohatch
 archiver
 archjockey
 archpresbyterate
-amoroso
 archknave
 ageless
 antifoggant
@@ -19744,6 +19743,7 @@ arithmetizes
 acrosticheae
 araeostyle
 allelopathy
+amoroso
 aliptic
 arithmocratic
 arithmograph
