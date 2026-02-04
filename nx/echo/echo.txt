@@ -4384,6 +4384,7 @@ exceeders
 exothermous
 enamour
 enzymolysis
+efford
 expostulator
 enfroward
 effuse
@@ -10026,7 +10027,6 @@ emissivity
 epichile
 etched
 editor
-efford
 ethnotechnography
 etching
 equuleus
