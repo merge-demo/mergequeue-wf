@@ -2649,6 +2649,7 @@ gardeviance
 grelot
 graphotype
 genevan
+goncalo
 giboia
 grudgingness
 gymnorhinal
@@ -6635,7 +6636,6 @@ gruntingly
 gombo
 glassine
 gaed
-goncalo
 globulysis
 glycosuria
 gossans
