@@ -946,6 +946,7 @@ genre
 grouting
 gliriformia
 goldurn
+garhwali
 gaberloonie
 gerodontology
 gumbo
@@ -2361,7 +2362,6 @@ goggler
 gashes
 ger
 gabon
-garhwali
 glyptographer
 gymnoconia
 guardants
