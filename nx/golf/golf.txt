@@ -7364,7 +7364,6 @@ gunation
 galactin
 geologist
 gaggler
-gluttonised
 grangerise
 gougingly
 goodyship
@@ -10719,6 +10718,7 @@ gunship
 gismondine
 glossiest
 gaboon
+gluttonised
 gutnic
 gracioso
 gerbera
