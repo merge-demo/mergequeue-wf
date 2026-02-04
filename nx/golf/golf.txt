@@ -3047,6 +3047,7 @@ glowworms
 gucki
 geocline
 grits
+gonionia
 gemmates
 golaseccan
 grenadines
@@ -6764,7 +6765,6 @@ ganev
 ganocephala
 gullably
 gamier
-gonionia
 gyroscope
 genericness
 germs
