@@ -3826,6 +3826,7 @@ gaudily
 gaul
 glaucophane
 glazework
+gyves
 gyving
 gpcd
 gygis
@@ -8438,7 +8439,6 @@ gheber
 grawls
 gropes
 gigglier
-gyves
 gearless
 gonoblastic
 goldonian
