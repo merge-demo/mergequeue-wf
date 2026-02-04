@@ -7371,7 +7371,6 @@ grangerise
 gougingly
 goodyship
 gliomas
-glessite
 griffon
 generalizers
 granule
@@ -8783,6 +8782,7 @@ grantors
 goniometer
 gorge
 greenling
+glessite
 grogram
 groszy
 gentilism
