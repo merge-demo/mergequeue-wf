@@ -9852,7 +9852,6 @@ enslumber
 exocannibalism
 eclipsation
 eatage
-epivalve
 esterization
 embarcation
 enterocrinin
@@ -10568,6 +10567,7 @@ exsiccated
 encloser
 exploitation
 extraplacental
+epivalve
 exochorion
 equichangeable
 expreme
