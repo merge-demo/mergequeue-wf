@@ -10397,6 +10397,7 @@ demove
 dioptric
 dioptrical
 duhr
+doubtful
 diorama
 decimator
 daroo
@@ -13178,7 +13179,6 @@ dramshops
 dispersers
 damaging
 dreigh
-doubtful
 dipicrylamin
 defacers
 dispersibility
