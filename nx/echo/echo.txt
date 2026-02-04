@@ -7690,7 +7690,6 @@ enterogastritis
 endoderms
 enterpillar
 ethylenediamine
-extrasomatic
 ensober
 elenchtical
 ectally
@@ -10099,6 +10098,7 @@ embonpoint
 epopoeias
 eyey
 ebonies
+extrasomatic
 encephalographically
 eledoisin
 entitlement
