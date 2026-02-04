@@ -1912,7 +1912,6 @@ beliefless
 befoam
 bloodier
 bella
-burdensomeness
 bandidos
 bandie
 bandied
@@ -5804,6 +5803,7 @@ ballaster
 belton
 bellevue
 bonhommie
+burdensomeness
 boxers
 bromocyanide
 becrawling
