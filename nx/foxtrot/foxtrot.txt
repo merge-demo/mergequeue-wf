@@ -6473,7 +6473,6 @@ fleche
 furry
 fafnir
 formularization
-flagelliferous
 fairlike
 fireworm
 filemarks
@@ -9063,6 +9062,7 @@ feeling
 foredesk
 fillemot
 floatation
+flagelliferous
 flimflammer
 fistle
 flairs
