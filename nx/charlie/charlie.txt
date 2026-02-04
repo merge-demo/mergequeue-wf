@@ -12641,6 +12641,7 @@ chronotropism
 coriandrum
 chroococcaceae
 cynanthropy
+curvilinear
 chopines
 chroococcales
 carcasing
@@ -16317,7 +16318,6 @@ chamm
 cincinnatia
 conterminous
 constrainment
-curvilinear
 civilise
 citronize
 clinting
