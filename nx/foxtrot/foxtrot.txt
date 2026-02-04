@@ -1906,7 +1906,6 @@ fingerflower
 fontanelle
 fumbling
 forestaller
-fustilarian
 foism
 fenestellidae
 filoselle
@@ -10887,6 +10886,7 @@ foresightless
 footholds
 flavor
 forts
+fustilarian
 ferae
 frontalis
 fluvioterrestrial
