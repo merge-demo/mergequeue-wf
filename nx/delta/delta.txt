@@ -3953,7 +3953,6 @@ delegate
 doorsill
 delegates
 delegateship
-dermographism
 digressiveness
 dibasicity
 damping
@@ -5325,6 +5324,7 @@ disappropriation
 dipmeter
 deambulation
 dunderbolt
+dermographism
 drub
 duplications
 disemburden
