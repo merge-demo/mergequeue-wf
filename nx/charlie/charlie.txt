@@ -5116,7 +5116,6 @@ colisepsis
 casate
 closemouthed
 casava
-chanters
 cellepora
 canaliform
 crowsteps
@@ -31182,6 +31181,7 @@ contrappostos
 crescendo
 corantos
 cloudling
+chanters
 cupreous
 carriers
 cerebritis
