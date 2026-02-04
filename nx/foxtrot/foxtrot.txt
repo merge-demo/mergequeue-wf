@@ -4173,7 +4173,6 @@ formalist
 faff
 flywheel
 feasances
-frazzle
 fluoryl
 fratriage
 fucuses
@@ -7911,6 +7910,7 @@ fluid
 forbathe
 fashes
 flacket
+frazzle
 futhorks
 frightenable
 frottole
