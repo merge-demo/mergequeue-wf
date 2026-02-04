@@ -7293,7 +7293,6 @@ centrodorsal
 centroids
 conte
 cashel
-centromeric
 centronote
 couth
 centropomidae
@@ -30917,6 +30916,7 @@ cobwebbery
 cultural
 culturally
 clientship
+centromeric
 culturine
 carbro
 countertraverse
