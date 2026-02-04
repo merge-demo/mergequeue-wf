@@ -1923,7 +1923,6 @@ glosser
 glorifiers
 glaucophyllous
 galliards
-gracelessness
 gauffered
 groundwave
 glorifiable
@@ -2254,6 +2253,7 @@ gonofs
 greengage
 gypsine
 gadoid
+gracelessness
 gastrohepatic
 geoscientist
 globelike
