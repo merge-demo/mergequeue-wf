@@ -4609,7 +4609,6 @@ carneau
 carnegie
 carnegiea
 carneyed
-cabiritic
 convulsed
 carnelian
 carneole
@@ -6992,6 +6991,7 @@ catapan
 candidly
 cementoblast
 cementoma
+cabiritic
 cements
 cementwork
 cemetaries
