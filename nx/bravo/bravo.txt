@@ -5815,7 +5815,6 @@ berengelite
 boastings
 barneys
 bonasa
-bakula
 blatchang
 buckstone
 bellyache
@@ -10742,6 +10741,7 @@ bullweeds
 bestill
 blendwater
 broadish
+bakula
 bowhead
 bibl
 bannock
