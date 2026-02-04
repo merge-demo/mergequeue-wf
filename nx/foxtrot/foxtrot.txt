@@ -6152,7 +6152,6 @@ fortifies
 flunkeyize
 fungiform
 frump
-firmarius
 freebooted
 flocculating
 flics
@@ -6522,6 +6521,7 @@ fraktur
 floriage
 fluorenes
 footbaths
+firmarius
 feneration
 fluotantalic
 french
