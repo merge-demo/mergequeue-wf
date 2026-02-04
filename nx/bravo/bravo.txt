@@ -5742,6 +5742,7 @@ bestials
 budge
 bathtub
 bencite
+begirdled
 brerd
 bezant
 beachiest
@@ -12792,7 +12793,6 @@ bookpress
 bookracks
 bardesanism
 bubblier
-begirdled
 begut
 bepreach
 bucorvinae
