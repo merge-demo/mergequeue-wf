@@ -3865,6 +3865,7 @@ geometer
 geologic
 glossophorous
 gemmoid
+goldenmouthed
 grantsmen
 granulomas
 garoting
@@ -5179,7 +5180,6 @@ gaumed
 goblinesque
 gutturine
 gessamine
-goldenmouthed
 gentlehearted
 goldcrest
 gimpiest
