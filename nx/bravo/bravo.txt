@@ -8106,6 +8106,7 @@ beglerbegship
 broccolis
 breathing
 bronchophonic
+bellota
 barrelmaker
 borshts
 bespreng
@@ -15964,7 +15965,6 @@ bromus
 birdlet
 bout
 boundedness
-bellota
 bimetallistic
 brev
 bilaciniate
