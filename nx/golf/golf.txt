@@ -5877,6 +5877,7 @@ gymnasisia
 gasfiring
 gaultherase
 geolatry
+gelseminic
 grandesque
 gravimetric
 greyfish
@@ -9142,7 +9143,6 @@ guillemet
 grindable
 gibbose
 gadite
-gelseminic
 gummers
 guild
 gobonated
