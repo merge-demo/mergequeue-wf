@@ -14299,7 +14299,6 @@ antienthusiasm
 aerogramme
 antineutrality
 alimentariness
-accidentary
 apometabolism
 azofier
 anthophora
@@ -14795,6 +14794,7 @@ astrognosy
 apenteric
 abrachia
 antimachinery
+accidentary
 anticyclic
 arrondi
 alife
