@@ -3509,7 +3509,6 @@ gemul
 gasteropod
 gewgawry
 grammaticize
-geckoes
 gyrfalcon
 geriatric
 gladdening
@@ -7343,6 +7342,7 @@ gustative
 grievedly
 glomerulitis
 gonfalonier
+geckoes
 goth
 grievances
 grandisonant
