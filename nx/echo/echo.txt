@@ -6098,7 +6098,6 @@ eidos
 emirates
 endorhinitis
 eupittone
-elastomeric
 extensum
 encomienda
 exappendiculate
@@ -12660,6 +12659,7 @@ enterogram
 esophagomycosis
 epithalamium
 effusion
+elastomeric
 esophagorrhagia
 exognathite
 exogenetic
