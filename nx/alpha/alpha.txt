@@ -2767,7 +2767,6 @@ airglow
 apotropaion
 autopista
 arrayals
-anthelix
 antennary
 acrocephalic
 amides
@@ -7123,6 +7122,7 @@ anadipsia
 autochemical
 accommodative
 algorist
+anthelix
 alalonga
 aurodiamine
 alalus
