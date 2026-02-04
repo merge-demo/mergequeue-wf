@@ -3629,7 +3629,6 @@ gogos
 ghees
 garaged
 geopony
-gymnoceratous
 garridge
 gnathopodous
 granilla
@@ -6276,6 +6275,7 @@ gonotyl
 garua
 galidia
 gconv
+gymnoceratous
 gentle
 gulpin
 gendarmery
