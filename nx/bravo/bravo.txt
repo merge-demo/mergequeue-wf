@@ -4969,6 +4969,7 @@ burgall
 bouncing
 boatel
 bandy
+biograph
 beek
 beekeepers
 baya
@@ -17506,7 +17507,6 @@ bullnose
 biomedical
 bromopicrin
 bidenticulate
-biograph
 biflected
 brilliantine
 bitrochanteric
