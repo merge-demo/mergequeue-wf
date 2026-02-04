@@ -5849,7 +5849,6 @@ flyspecking
 folate
 fill
 fixture
-fallation
 fossed
 footlessness
 flyswatter
@@ -9167,6 +9166,7 @@ fribblish
 followings
 fielded
 fleeceflower
+fallation
 funambulated
 funambulist
 ferrotyper
