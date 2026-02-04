@@ -6817,7 +6817,6 @@ edrioasteroidea
 epithumetic
 engluts
 enjoys
-entireness
 encephalomas
 emphasise
 echoized
@@ -10349,6 +10348,7 @@ elapses
 ectotherm
 eemis
 expecters
+entireness
 effacer
 ethmopalatal
 eyer
