@@ -19748,6 +19748,7 @@ combinational
 corrigent
 chorepiscope
 combinations
+commensurateness
 cells
 combinative
 counterrotating
@@ -20073,7 +20074,6 @@ commensurability
 commensurable
 commensurably
 commensurate
-commensurateness
 curatorial
 commensurating
 congratulant
