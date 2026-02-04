@@ -434,7 +434,6 @@ ficoes
 faq
 firetrap
 frustraneous
-frabjous
 fribbled
 fasciae
 fibrocartilaginous
@@ -6051,6 +6050,7 @@ footscald
 fashionize
 flanged
 foisty
+frabjous
 floricultural
 faitour
 floorboard

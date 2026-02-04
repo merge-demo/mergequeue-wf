@@ -1372,6 +1372,7 @@ dispel
 downdale
 dismain
 drubbly
+deductile
 dorsiflexor
 delis
 disputing
@@ -11958,7 +11959,6 @@ discuses
 domesticality
 disease
 dialysers
-deductile
 diseased
 declass
 domiculture
