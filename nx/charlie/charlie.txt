@@ -2988,6 +2988,7 @@ clip
 cantharidian
 chorometry
 calina
+columbarium
 cuber
 cantharidize
 catalexis
@@ -21729,7 +21730,6 @@ centralisation
 casson
 cassises
 camphoric
-columbarium
 caranda
 cecidomyiid
 colluctation
