@@ -4962,7 +4962,6 @@ carsick
 caviteno
 carrottop
 carstone
-cart
 counterpoising
 cartable
 capriped
@@ -12997,6 +12996,7 @@ congolese
 crossbowman
 cyanmethemoglobin
 calenturish
+cart
 chanting
 cyanoacetate
 cobenignity
