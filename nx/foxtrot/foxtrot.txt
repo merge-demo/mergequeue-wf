@@ -4445,7 +4445,6 @@ fealties
 farrago
 feinschmeckers
 finishes
-fishes
 fiancees
 feirie
 fleta
@@ -10308,6 +10307,7 @@ frat
 funders
 franconian
 fuddlebrained
+fishes
 formolit
 frankeniaceae
 fe
