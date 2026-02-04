@@ -7600,7 +7600,6 @@ enddamage
 eriosoma
 exucontian
 explanitory
-epicheiremata
 endomysium
 endmost
 eugenicists
@@ -11758,6 +11757,7 @@ epiphragmal
 epistemologically
 erythrolysin
 earscrew
+epicheiremata
 escolar
 extrafascicular
 enfolding
