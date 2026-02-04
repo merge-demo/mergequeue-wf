@@ -5664,7 +5664,6 @@ bima
 backstops
 bickerer
 belating
-belauded
 buzziest
 barbaresque
 buccobranchial
@@ -6154,6 +6153,7 @@ barograph
 bulimoid
 betide
 bourne
+belauded
 barquette
 badaxe
 buffaloes
