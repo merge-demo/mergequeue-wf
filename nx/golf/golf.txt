@@ -1922,6 +1922,7 @@ gra
 guttiness
 glosser
 glorifiers
+grafted
 glaucophyllous
 galliards
 gauffered
@@ -9418,7 +9419,6 @@ guerrillas
 grosshead
 granitization
 glistered
-grafted
 ghaznevid
 grossly
 grangerizer
