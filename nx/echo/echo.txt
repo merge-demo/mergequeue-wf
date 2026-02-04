@@ -2899,6 +2899,7 @@ entomologize
 europhium
 ether
 eagre
+eruptives
 elephantoid
 elephantiasic
 emotionlessly
@@ -11843,7 +11844,6 @@ ensignship
 endorsingly
 exasperatedly
 eversion
-eruptives
 exasperater
 engrid
 euosmite
