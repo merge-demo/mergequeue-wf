@@ -2671,6 +2671,7 @@ broncs
 barkier
 buttonhook
 beduchess
+butomaceae
 barbotte
 birdhouses
 baratheas
@@ -11542,7 +11543,6 @@ bergall
 bushet
 betaxed
 birdman
-butomaceae
 boca
 bemurmurs
 bandaid
