@@ -10610,6 +10610,7 @@ buduma
 blattid
 bulwand
 basilard
+biostatics
 bouldered
 bouk
 barge
@@ -17991,7 +17992,6 @@ blatjang
 bugaboo
 bowled
 boners
-biostatics
 bonnock
 birdnest
 ballyragging
