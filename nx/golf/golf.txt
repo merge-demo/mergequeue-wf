@@ -725,7 +725,6 @@ galvanology
 geomechanics
 gansa
 gestapos
-gerim
 grylle
 gynarchic
 gunbearer
@@ -6099,6 +6098,7 @@ gleamingly
 glossmeter
 grisset
 grume
+gerim
 gaetuli
 gonococcoid
 gnaws
