@@ -8779,7 +8779,6 @@ bibaciousness
 behests
 bryonidin
 behinder
-barycentre
 brontozoum
 binal
 ballium
@@ -13766,6 +13765,7 @@ brownian
 boutylka
 boutique
 bouto
+barycentre
 bedlamising
 bandlet
 buccaned
