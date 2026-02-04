@@ -161,6 +161,7 @@ evaporativity
 extravasating
 elon
 enchasten
+experimental
 epiphysial
 epididymides
 episcopizing
@@ -2432,7 +2433,6 @@ electroetching
 earlet
 electrodeposition
 edana
-experimental
 exhibitable
 etherization
 electrodiagnosis
