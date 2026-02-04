@@ -90,7 +90,6 @@ geo
 gadgetry
 geezer
 grandee
-glamour
 gluers
 getah
 gujerat
@@ -6456,6 +6455,7 @@ gillaroo
 graffias
 grasshouse
 gidgee
+glamour
 guldens
 grogshop
 goldentop
