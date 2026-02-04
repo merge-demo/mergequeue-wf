@@ -1403,7 +1403,6 @@ graniferous
 glycyrrhiza
 germanism
 garret
-gpm
 grulla
 gruppetto
 gipsire
@@ -3963,6 +3962,7 @@ glyptodontidae
 gorgoneioneia
 graphomaniacal
 gastrological
+gpm
 geopolitics
 giggliest
 gleaner
