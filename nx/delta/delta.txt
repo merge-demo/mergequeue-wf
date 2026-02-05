@@ -9293,6 +9293,7 @@ disambiguations
 duskish
 daguerreotyper
 disarranger
+demountability
 disploding
 dictatress
 diplochlamydeous
@@ -15771,7 +15772,6 @@ doomage
 deflorations
 dorsa
 dentiparous
-demountability
 dorsabdominal
 dungier
 drearisome
