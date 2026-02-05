@@ -2326,7 +2326,6 @@ goloe
 galopin
 graylag
 garlandage
-galvanolysis
 gelees
 gymnocerata
 gadinic
@@ -3184,6 +3183,7 @@ guglets
 galey
 gustatorily
 goodmanship
+galvanolysis
 ganglial
 guerdoning
 gephyrea
