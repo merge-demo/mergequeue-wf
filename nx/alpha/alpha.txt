@@ -3758,7 +3758,6 @@ awol
 animation
 azoxybenzoic
 aglaia
-adiadokokinesia
 adiagnostic
 adiaphon
 appanaging
@@ -12075,6 +12074,7 @@ algebrization
 antiquers
 andesinite
 agremens
+adiadokokinesia
 arachnidium
 actional
 aetites
