@@ -689,7 +689,6 @@ grossify
 ghess
 germanistic
 gannet
-gawn
 grissen
 gnomonical
 gersdorffite
@@ -7871,6 +7870,7 @@ glumpier
 gileno
 greylags
 glandules
+gawn
 gynaeocracy
 germing
 gudge
