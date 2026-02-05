@@ -8717,6 +8717,7 @@ ascoma
 apterygote
 arteriostosis
 acetylcholinesterase
+atomician
 acescents
 alodial
 anthracnosis
@@ -22886,7 +22887,6 @@ axometry
 asrama
 alkalemia
 algefacient
-atomician
 assimilative
 amino
 asterioid
