@@ -7138,7 +7138,6 @@ emulsible
 estuous
 emphases
 equiprobability
-electrophoric
 enchainments
 epiplankton
 evadible
@@ -7669,6 +7668,7 @@ eyass
 enterohelcosis
 epicortical
 englobed
+electrophoric
 extinguishment
 enterocinetic
 esere
