@@ -685,7 +685,6 @@ ghess
 germanistic
 gannet
 gawn
-gladdest
 grissen
 gnomonical
 gersdorffite
@@ -7057,6 +7056,7 @@ geomantical
 grammatical
 gastroenteralgia
 genealogist
+gladdest
 gliffing
 grubbery
 glassworkers
