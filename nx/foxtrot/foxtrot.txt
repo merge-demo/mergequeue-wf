@@ -435,6 +435,7 @@ ficoes
 faq
 firetrap
 frustraneous
+fattening
 fribbled
 fasciae
 fibrocartilaginous
@@ -5918,7 +5919,6 @@ filariid
 floatage
 fiddling
 fluochloride
-fattening
 fierasfer
 flounders
 fluorated
