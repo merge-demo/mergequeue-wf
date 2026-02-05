@@ -891,7 +891,6 @@ gwen
 gnashes
 glycaemia
 grumousness
-glucosemia
 gawkishness
 gatewise
 glissade
@@ -6340,6 +6339,7 @@ gobstopper
 goosenecked
 gemots
 genarchaship
+glucosemia
 goatsucker
 gamic
 gonake
