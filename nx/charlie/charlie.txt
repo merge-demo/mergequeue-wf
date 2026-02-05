@@ -10962,6 +10962,7 @@ cicatrixes
 chiromantis
 chirometer
 chiromys
+consanguineous
 cryostase
 chalcioecus
 cucumariidae
@@ -22753,7 +22754,6 @@ consanguine
 coinsured
 consanguinean
 caballeros
-consanguineous
 consanguineously
 cryptostoma
 caulocarpous
