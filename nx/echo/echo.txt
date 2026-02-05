@@ -7096,6 +7096,7 @@ editorials
 entertainments
 echoist
 ensigns
+examinable
 extratabular
 enhancement
 ephods
@@ -8989,7 +8990,6 @@ erratics
 erythrocytes
 exhilarant
 eschewals
-examinable
 explorative
 eleusinian
 enjoinment
