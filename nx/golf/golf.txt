@@ -2492,7 +2492,6 @@ grenado
 gamba
 garnisheement
 griths
-glaciolacustrine
 gushed
 graeme
 goshawks
@@ -5243,6 +5242,7 @@ gluttoness
 gaywing
 germy
 glycemic
+glaciolacustrine
 groundline
 garrulousness
 gleety
