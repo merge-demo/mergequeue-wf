@@ -5101,6 +5101,7 @@ endocoelar
 ectozoan
 epitomical
 epistoma
+eelpouts
 emuls
 encysted
 emanatistic
@@ -8647,7 +8648,6 @@ esu
 emiction
 eutaxic
 equidiurnal
-eelpouts
 epigrammatising
 enchantress
 embouchures
