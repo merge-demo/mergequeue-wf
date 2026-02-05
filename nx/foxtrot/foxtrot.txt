@@ -3367,7 +3367,6 @@ forebreast
 flaminica
 frighteningness
 featheredge
-forchase
 fameworthy
 factabling
 fruggan
@@ -6988,6 +6987,7 @@ furunculous
 freeway
 foll
 fillipeen
+forchase
 fedarie
 fungoidal
 fulgurite
