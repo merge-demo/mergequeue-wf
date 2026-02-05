@@ -2613,6 +2613,7 @@ camphires
 censuses
 canebrake
 cardioschisis
+casqued
 cementmaking
 canebrakes
 cephalodynia
@@ -5285,7 +5286,6 @@ casparian
 caspian
 coriariaceous
 casque
-casqued
 carnificial
 const
 cushat
