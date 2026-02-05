@@ -5745,6 +5745,7 @@ aligner
 agatizes
 agatizing
 arctan
+axifugal
 alarbus
 agaze
 agallop
@@ -10118,7 +10119,6 @@ aerofoil
 allocinnamic
 amphitheaters
 arcocentrous
-axifugal
 antipsychiatry
 anabaenas
 amphisbaena
