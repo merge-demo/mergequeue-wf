@@ -65,7 +65,6 @@ bish
 bundocks
 babbly
 befrogged
-bartizans
 brushable
 babbit
 blunder
@@ -17809,6 +17808,7 @@ backbit
 boddle
 beneficiation
 bunkerman
+bartizans
 bursitis
 bestialise
 beside
