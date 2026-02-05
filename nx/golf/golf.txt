@@ -2045,7 +2045,6 @@ gyps
 glime
 gantry
 gazzetta
-gutterize
 goutily
 gavels
 gloriana
@@ -6534,6 +6533,7 @@ gilguy
 globuliform
 glutting
 gulfweeds
+gutterize
 golfs
 greyskin
 guiders
