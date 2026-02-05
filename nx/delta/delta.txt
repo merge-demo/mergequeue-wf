@@ -120,7 +120,6 @@ drawbench
 deviascope
 dekko
 driftlet
-defies
 dinar
 dyophone
 daddles
@@ -10723,6 +10722,7 @@ dissociates
 disparate
 didelphid
 divests
+defies
 disparpled
 dhuti
 diplopteryga
