@@ -16596,7 +16596,6 @@ cantish
 cabalistically
 capsules
 cloisterwise
-cloistral
 concoagulation
 cabbalist
 cloit
@@ -27984,6 +27983,7 @@ cragwork
 controllership
 crayer
 cloisterliness
+cloistral
 commendator
 cliquey
 craig
