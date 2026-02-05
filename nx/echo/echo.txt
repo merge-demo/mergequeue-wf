@@ -9969,7 +9969,6 @@ enamelled
 estrif
 elisor
 elohim
-esp
 elk
 emoting
 estrums
@@ -12063,6 +12062,7 @@ egestions
 enlivenment
 endorachis
 engenderment
+esp
 enwwove
 ecphrasis
 electrostenolytic
