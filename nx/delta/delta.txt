@@ -395,6 +395,7 @@ deities
 drawtubes
 dodrantal
 discoursers
+deltahedron
 deaning
 dais
 donjons
@@ -4218,7 +4219,6 @@ deluges
 dithioglycol
 doughmaking
 disgustful
-deltahedron
 dual
 delumbate
 decoagulated
