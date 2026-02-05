@@ -8094,7 +8094,6 @@ fractionise
 folkmot
 fumarole
 forestries
-forewind
 factorial
 furnitures
 fanums
@@ -9804,6 +9803,7 @@ fascicular
 frogmouths
 fruitcake
 fridges
+forewind
 furunculoid
 foraminifer
 flintless
