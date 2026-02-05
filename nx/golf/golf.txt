@@ -1212,7 +1212,6 @@ gruffly
 graybeards
 gambler
 grackles
-guana
 gassed
 grouters
 general
@@ -10861,6 +10860,7 @@ gravidation
 gweeon
 gesticulative
 gallinula
+guana
 growlers
 giustina
 glimmerous
