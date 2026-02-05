@@ -1773,7 +1773,6 @@ gastroscopist
 groundless
 genotypic
 gypsiologist
-glossolaly
 gametophore
 gutterblood
 gestalten
@@ -9547,6 +9546,7 @@ glutinize
 gagate
 gristliness
 graphophonic
+glossolaly
 gulper
 guacico
 genuine
