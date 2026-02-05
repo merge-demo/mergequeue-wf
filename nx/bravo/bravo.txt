@@ -8542,7 +8542,6 @@ butyryl
 balzacian
 binmen
 bearhound
-bisections
 boydekyn
 biliteral
 baywood
@@ -12419,6 +12418,7 @@ blackbutt
 birkenhead
 brickwall
 batik
+bisections
 boombox
 bhaktas
 beget
