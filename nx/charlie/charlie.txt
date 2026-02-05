@@ -16739,7 +16739,6 @@ clothesyard
 codesign
 consumptivity
 clamberer
-chirked
 cirrus
 clotheslines
 clothesman
@@ -19313,6 +19312,7 @@ chumminess
 cyclospondyli
 coctoprecipitin
 colonialize
+chirked
 chortles
 chunks
 colonializing
