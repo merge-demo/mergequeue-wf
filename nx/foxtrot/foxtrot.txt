@@ -1863,7 +1863,6 @@ fruiterers
 febriphobia
 februarius
 featheriest
-flemishing
 fringefoot
 fantaddish
 fiveling
@@ -3420,6 +3419,7 @@ fishermen
 frivols
 follicles
 flokite
+flemishing
 frameableness
 floramour
 fuller
