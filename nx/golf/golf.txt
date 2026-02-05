@@ -1881,7 +1881,6 @@ gynic
 gentilhomme
 gerontologists
 gype
-gaussmeter
 gallfly
 goodyism
 generalists
@@ -1914,6 +1913,7 @@ growthy
 goalkeepers
 greaseless
 galp
+gaussmeter
 gushy
 gastradenitis
 gra
