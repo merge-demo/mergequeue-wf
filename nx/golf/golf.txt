@@ -6247,7 +6247,6 @@ gedd
 gallotannic
 gonne
 gatecrasher
-greaves
 gopura
 geoscience
 gesning
@@ -8659,6 +8658,7 @@ gesseron
 glisk
 gnatoo
 galvaniser
+greaves
 grossulaceous
 gigartinales
 gonocalycine
