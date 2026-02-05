@@ -3796,6 +3796,7 @@ caravans
 caravanserai
 chromoxylography
 chavender
+charkhana
 caravanserial
 caravels
 cosen
@@ -20144,7 +20145,6 @@ commingle
 commingled
 clanswomen
 caelian
-charkhana
 comminglement
 cuspids
 commingler
