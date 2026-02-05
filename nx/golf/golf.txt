@@ -3734,7 +3734,6 @@ goetia
 groundedness
 gapy
 galliot
-garnierite
 gringolee
 granaries
 galateas
@@ -6483,6 +6482,7 @@ gonapophysial
 gravelled
 gawkily
 gruffness
+garnierite
 genetic
 gurdwara
 glaikitness
