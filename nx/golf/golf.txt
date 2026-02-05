@@ -4879,7 +4879,6 @@ glaciates
 gladiator
 gagelike
 gilour
-geographic
 gatherer
 gunnen
 gryph
@@ -9876,6 +9875,7 @@ gallicism
 gongoresque
 gips
 grousy
+geographic
 ginkgoales
 gourmandizer
 guama
