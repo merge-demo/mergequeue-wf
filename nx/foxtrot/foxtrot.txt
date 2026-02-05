@@ -10780,7 +10780,6 @@ fireboot
 fausant
 fletches
 feltwort
-frutage
 footraces
 frutex
 fligger
@@ -11370,6 +11369,7 @@ foister
 fibropolypus
 fruitade
 faceting
+frutage
 forming
 faute
 firetraps
