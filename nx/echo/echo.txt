@@ -6565,7 +6565,6 @@ entangledness
 elflocks
 endotrachelitis
 exhauster
-enwrapt
 earsore
 entanglements
 extraplanetary
@@ -8933,6 +8932,7 @@ estaminets
 evomit
 expectorators
 entoderms
+enwrapt
 ergomaniac
 eragrostis
 electrofishing
