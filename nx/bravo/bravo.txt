@@ -6350,6 +6350,7 @@ brike
 benzanthracene
 biocidal
 boxboard
+benzol
 becurtained
 bakairi
 balandra
@@ -8873,7 +8874,6 @@ bedrivels
 blype
 bakelize
 barfed
-benzol
 brustling
 bodybending
 balsamiferous
