@@ -989,7 +989,6 @@ ethnarch
 ecttypal
 equates
 exploit
-exeresis
 ecumenacy
 engraffing
 equilibristic
@@ -3705,6 +3704,7 @@ effectful
 elaeocarpaceous
 ecocidal
 eponymous
+exeresis
 epitrachelion
 enchodontid
 entrepeneurs
