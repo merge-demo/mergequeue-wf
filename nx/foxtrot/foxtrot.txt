@@ -948,7 +948,6 @@ farandoles
 flankard
 faxing
 fundatorial
-flueric
 forthbringer
 fumidity
 forbysening
@@ -8307,6 +8306,7 @@ forequoted
 fearlessly
 fayed
 fullfaces
+flueric
 frilal
 fetishes
 frisolee
