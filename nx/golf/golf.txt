@@ -1771,7 +1771,6 @@ goutiest
 gonadial
 gastroscopist
 groundless
-gavelled
 genotypic
 gypsiologist
 glossolaly
@@ -4350,6 +4349,7 @@ grandrelle
 guaymie
 groups
 gelatinousness
+gavelled
 gozill
 granulite
 gemstone
