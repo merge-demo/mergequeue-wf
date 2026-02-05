@@ -2594,7 +2594,6 @@ goliath
 goldfielder
 grav
 genesitic
-gallowsmaker
 gharri
 grendel
 geraty
@@ -9714,6 +9713,7 @@ gascons
 goldfields
 grumous
 gowaned
+gallowsmaker
 gelable
 grubbiest
 gratefuller
