@@ -4976,6 +4976,7 @@ aerophyte
 amylase
 assessory
 angiohyalinosis
+anaphoral
 aerophobic
 ashling
 antithermic
@@ -14888,7 +14889,6 @@ anethum
 anticlinoria
 amphigouri
 axised
-anaphoral
 anticlockwise
 asphaltum
 aheight
