@@ -4240,7 +4240,6 @@ guider
 goosing
 goblets
 gammoned
-geographize
 galloglass
 gearman
 gazella
@@ -7006,6 +7005,7 @@ gyrovague
 goofed
 glossodynamometer
 griefless
+geographize
 guldengroschen
 geir
 glossopode
