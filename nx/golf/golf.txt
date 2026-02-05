@@ -3663,6 +3663,7 @@ garganeys
 gobline
 ghiblis
 geebung
+giantkind
 gudgeoning
 gynandria
 gynaecomorphous
@@ -3760,7 +3761,6 @@ goldfield
 geodes
 gentlewomanhood
 germania
-giantkind
 gastraneuria
 gieaway
 ganymede
