@@ -3150,7 +3150,6 @@ epizzoa
 educationable
 equulei
 ergatocracy
-ellipsograph
 equoidean
 esemplastic
 extemporize
@@ -13622,6 +13621,7 @@ emendation
 epencephal
 esopgi
 expurgates
+ellipsograph
 echinomys
 emprent
 empedoclean
