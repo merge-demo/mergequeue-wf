@@ -2328,7 +2328,6 @@ galopin
 graylag
 garlandage
 galvanolysis
-gymnics
 gelees
 gymnocerata
 gadinic
@@ -7311,6 +7310,7 @@ glowbird
 generatrix
 gerated
 glandular
+gymnics
 goofing
 galbanums
 gamotropism
