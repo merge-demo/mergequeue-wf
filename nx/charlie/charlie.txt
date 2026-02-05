@@ -14524,7 +14524,6 @@ caddle
 cista
 cashoos
 circumstanced
-castra
 cubicontravariant
 cystalgia
 commatism
@@ -17760,6 +17759,7 @@ cocitizen
 cockade
 colour
 colonisation
+castra
 christianization
 cockades
 canorously
