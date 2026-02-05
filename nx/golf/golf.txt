@@ -1872,7 +1872,6 @@ gamenesses
 grubstake
 galeche
 gardenwise
-gunkholing
 gripey
 gating
 gymnosophical
@@ -6204,6 +6203,7 @@ ganglionless
 gamblesome
 gardener
 guahibo
+gunkholing
 groupings
 glitches
 giantize
