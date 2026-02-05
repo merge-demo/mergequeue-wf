@@ -1477,6 +1477,7 @@ faulds
 fasciculite
 flittern
 felicitators
+feasten
 fruiter
 felt
 fearsomely
@@ -11233,7 +11234,6 @@ furzed
 fons
 funiculars
 funiform
-feasten
 fleeing
 fricandeau
 flexibly
