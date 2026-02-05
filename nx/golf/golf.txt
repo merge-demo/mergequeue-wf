@@ -8049,7 +8049,6 @@ gouvernante
 grapnels
 glaucine
 gript
-gulls
 gelding
 gunstocking
 genys
@@ -9434,6 +9433,7 @@ gymel
 glycerolize
 gaywings
 glues
+gulls
 greenier
 grifting
 galloptious
