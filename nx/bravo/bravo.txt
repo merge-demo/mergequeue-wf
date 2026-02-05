@@ -3065,6 +3065,7 @@ belibeled
 barflies
 bah
 basters
+bufagin
 bhang
 beefalos
 buccinum
@@ -5977,7 +5978,6 @@ basidiomycete
 ballahoo
 bedroom
 bibio
-bufagin
 bangalay
 bude
 battels
