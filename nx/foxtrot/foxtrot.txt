@@ -7376,7 +7376,6 @@ forefronts
 folkmoots
 furled
 fopperies
-fopperly
 fraternized
 fleishig
 foujdar
@@ -11512,6 +11511,7 @@ flouncy
 fusariose
 finnicky
 forril
+fopperly
 fanfold
 flaxman
 frictional
