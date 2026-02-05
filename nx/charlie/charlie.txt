@@ -5363,6 +5363,7 @@ catamenia
 cassiope
 curvette
 cassiopeia
+cruciation
 chlorohydroquinone
 cassiopeid
 cassiopeium
@@ -30146,7 +30147,6 @@ chokidar
 crucians
 cruciately
 cruciating
-cruciation
 crucible
 credulousness
 chivareed
