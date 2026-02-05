@@ -1644,7 +1644,6 @@ granulometric
 gramophonic
 ganglionary
 goldarned
-gardeen
 gryphon
 gastrocoel
 gamuts
@@ -7818,6 +7817,7 @@ ghalva
 glacial
 gipseian
 greeny
+gardeen
 gentling
 grubworm
 gwine
