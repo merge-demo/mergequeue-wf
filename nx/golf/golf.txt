@@ -2888,7 +2888,6 @@ glints
 gallipots
 gonocyte
 gombos
-geochemical
 gee
 gaiety
 gallipot
@@ -4269,6 +4268,7 @@ guiltier
 gramineousness
 glede
 greenwithe
+geochemical
 geoform
 gunfight
 grasscutter
