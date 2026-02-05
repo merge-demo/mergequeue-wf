@@ -5601,7 +5601,6 @@ fluemen
 fartherance
 facier
 fibroses
-favourite
 furunculus
 fw
 foamily
@@ -7833,6 +7832,7 @@ fragments
 feltyflier
 favoredly
 fowlerite
+favourite
 fritterers
 filchingly
 foreordinate

@@ -6986,7 +6986,6 @@ cementite
 cannery
 cementitious
 cabasset
-carinaria
 cementmaker
 catapan
 candidly
@@ -27472,6 +27471,7 @@ colling
 corallike
 covalent
 campephilus
+carinaria
 caddises
 covalently
 columbella
