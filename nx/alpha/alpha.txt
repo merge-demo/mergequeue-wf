@@ -11230,6 +11230,7 @@ amphithyron
 antiman
 avoir
 apetalies
+axiality
 amphithura
 amphipnous
 amphibian
@@ -25102,7 +25103,6 @@ australis
 adoptionism
 almahs
 aeolopantalon
-axiality
 anthropos
 armorplated
 axiate
