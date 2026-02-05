@@ -2554,7 +2554,6 @@ fluorine
 flappier
 fiatconfirmatio
 ferrer
-feeler
 funeralize
 fibromembranous
 frate
@@ -2737,6 +2736,7 @@ felonous
 ferulic
 fitzclarence
 foldure
+feeler
 filaze
 fervence
 fractionally
