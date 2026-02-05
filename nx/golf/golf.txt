@@ -836,6 +836,7 @@ gire
 geometrician
 grammaticality
 glycosidic
+goliard
 gonadotropin
 gynecomazia
 geomant
@@ -9250,7 +9251,6 @@ greyly
 grison
 grisons
 grandees
-goliard
 gynecol
 goosegog
 grisly
