@@ -3888,7 +3888,6 @@ chequebook
 carbolize
 carbolized
 carbolizes
-countable
 carbolizing
 carmelite
 caladium
@@ -25433,6 +25432,7 @@ chronometrical
 constringed
 corporatism
 concerti
+countable
 cornupete
 chloroleucite
 citrange

@@ -1241,7 +1241,6 @@ fixator
 frustrately
 firmitude
 flexural
-flinched
 faurd
 fatuities
 freieslebenite
@@ -9508,6 +9507,7 @@ fidele
 flamandization
 flauntily
 fritts
+flinched
 fantasm
 featish
 flatmen
