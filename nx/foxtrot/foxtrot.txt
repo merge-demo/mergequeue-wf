@@ -7134,6 +7134,7 @@ fledge
 fedayeen
 fighter
 foreignly
+fawningly
 foolish
 fascinating
 funicular
@@ -9042,7 +9043,6 @@ fireroom
 fouter
 fictionary
 foliator
-fawningly
 forniciform
 fustie
 facade
