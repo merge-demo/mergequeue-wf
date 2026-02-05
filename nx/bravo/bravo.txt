@@ -6568,6 +6568,7 @@ berates
 bakehead
 boatside
 borickite
+bandages
 benzothiazole
 berberi
 breastrope
@@ -18214,7 +18215,6 @@ borated
 beyond
 bierstubes
 butterfat
-bandages
 bushwhacks
 beshod
 bikol
