@@ -1315,6 +1315,7 @@ frecklier
 fop
 fleeced
 foxtails
+feltmaker
 fatbird
 fatefully
 findability
@@ -1893,7 +1894,6 @@ flamboyantize
 faradizing
 forcelet
 flybrush
-feltmaker
 flybys
 fingerflower
 fontanelle
