@@ -3414,6 +3414,7 @@ edison
 effectress
 epimorpha
 euharmonic
+electroplax
 efflorescing
 euryphagous
 epileptic
@@ -3852,7 +3853,6 @@ exscribe
 epistolizing
 eglandulose
 eremophyte
-electroplax
 endodontically
 exclam
 ekerite
