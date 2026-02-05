@@ -3532,7 +3532,6 @@ grouchier
 glace
 gallimaufries
 gimmicks
-goalers
 grosbeak
 gearbox
 greatening
@@ -5006,6 +5005,7 @@ glittering
 genially
 gezerah
 gateage
+goalers
 gachupin
 greentail
 grouselike
