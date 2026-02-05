@@ -932,7 +932,6 @@ bebilya
 bagpipers
 biopsy
 bretschneideraceae
-bardiglio
 bismarine
 bailee
 boscage
@@ -17438,6 +17437,7 @@ bethumb
 bosom
 babesias
 burree
+bardiglio
 bunodont
 brickleness
 bacteroid
