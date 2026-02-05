@@ -6475,6 +6475,7 @@ frasera
 favuses
 flisky
 forescene
+footlights
 fewterer
 fairm
 flaggier
@@ -7252,7 +7253,6 @@ floodways
 fingered
 footless
 fishfall
-footlights
 ficoides
 forearming
 foveolarious
