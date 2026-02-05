@@ -963,7 +963,6 @@ barrenest
 bagwork
 birmingham
 bahadur
-battutos
 bahaist
 bankings
 blocs
@@ -11955,6 +11954,7 @@ becrown
 boethian
 boffins
 beers
+battutos
 brackmard
 boffs
 bondholding
