@@ -6061,7 +6061,6 @@ bipennated
 bole
 bibliological
 browser
-brahmanical
 bort
 bereshith
 bablah
@@ -12370,6 +12369,7 @@ bezzi
 beldame
 baillie
 boterol
+brahmanical
 behoovefully
 bumclock
 bombasts
