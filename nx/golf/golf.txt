@@ -234,6 +234,7 @@ gluelike
 goajiro
 gomphosis
 groot
+genos
 gibbons
 gainage
 griselda
@@ -8726,7 +8727,6 @@ guestchamber
 gastrotrich
 guazuma
 gonys
-genos
 garlics
 gallowses
 grabblers
