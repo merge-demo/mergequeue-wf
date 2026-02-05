@@ -9729,6 +9729,7 @@ bezzled
 beeping
 bismuthinite
 bejumble
+bundlers
 belfried
 bekinkinite
 barway
@@ -11488,7 +11489,6 @@ bluetop
 berths
 burgware
 bravos
-bundlers
 bandsmen
 bathylimnetic
 bedoctor
