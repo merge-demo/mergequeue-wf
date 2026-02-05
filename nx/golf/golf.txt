@@ -3465,7 +3465,6 @@ geothermic
 geek
 gleaners
 gerate
-glut
 grayware
 graphologist
 glaucosis
@@ -5527,6 +5526,7 @@ glimmery
 gigeria
 glisteringly
 gymnospermous
+glut
 grubs
 gorblimy
 gujar
