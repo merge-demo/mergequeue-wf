@@ -4256,6 +4256,7 @@ delimit
 duckhood
 dequeue
 doria
+disflesh
 dronel
 daubster
 diacritical
@@ -5134,7 +5135,6 @@ devouringness
 decise
 dadburned
 dipolarize
-disflesh
 desulphurizing
 daubier
 dtente
