@@ -4966,7 +4966,6 @@ assumptions
 abnormalist
 awaft
 accentuable
-avigate
 abv
 aerophysics
 areolation
@@ -14239,6 +14238,7 @@ anthemion
 anthemis
 aecidiomycetes
 antheraea
+avigate
 adenemphractic
 acracy
 antheridia
