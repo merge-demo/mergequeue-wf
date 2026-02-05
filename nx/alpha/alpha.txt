@@ -5747,6 +5747,7 @@ arctan
 alarbus
 agaze
 agallop
+autophyte
 agee
 armouries
 aerugos
@@ -24322,7 +24323,6 @@ autopepsia
 astrophysical
 agios
 autophagous
-autophyte
 autophytic
 agister
 albespyne
