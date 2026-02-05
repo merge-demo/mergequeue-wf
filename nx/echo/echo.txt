@@ -2532,7 +2532,6 @@ elasticum
 electroless
 exsecants
 esterizing
-expansivity
 embryopathology
 enervators
 endostylar
@@ -8497,6 +8496,7 @@ erth
 epigrammatical
 eryops
 enhancing
+expansivity
 embroidering
 eroticomania
 encinas
