@@ -3711,6 +3711,7 @@ frithsoken
 flawier
 father
 floorings
+fesswise
 friskers
 fare
 fertilised
@@ -4629,7 +4630,6 @@ fooldom
 fleuronne
 friths
 frees
-fesswise
 froghood
 fissipeds
 foliages
