@@ -437,7 +437,6 @@ buries
 beefhead
 brushless
 brinjaree
-balilla
 bugbear
 blolly
 backsite
@@ -2091,6 +2090,7 @@ bastinado
 bankruptcy
 boltel
 bankrupting
+balilla
 babylonia
 bacteriophage
 backfall
