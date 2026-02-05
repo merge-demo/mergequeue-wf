@@ -1549,7 +1549,6 @@ adenoncus
 autor
 alkoranic
 abidden
-autacoids
 anablepidae
 alphabetiser
 accomplisht
@@ -13876,6 +13875,7 @@ antae
 antaeus
 acetometry
 alvelos
+autacoids
 antagony
 auscultator
 antiprestidigitation
