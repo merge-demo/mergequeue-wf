@@ -7117,6 +7117,7 @@ bespelled
 bespend
 bespew
 boucherism
+bagong
 besort
 bandfiling
 bucksaw
@@ -17957,7 +17958,6 @@ bradypnea
 beclamors
 byte
 bookbinding
-bagong
 byssinosis
 bemoult
 bivariant
