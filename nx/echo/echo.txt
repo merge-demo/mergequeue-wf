@@ -9386,7 +9386,6 @@ email
 equimolar
 ebcd
 erugos
-escapage
 eruptible
 eruptional
 emmets
@@ -10856,6 +10855,7 @@ exochorda
 exsibilate
 economist
 echinid
+escapage
 ecosphere
 endocrines
 enthralling
