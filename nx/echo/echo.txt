@@ -10759,7 +10759,6 @@ epitomizer
 enfasten
 endosmometer
 erichthus
-emacerate
 emblazer
 ecologic
 enleagued
@@ -11935,6 +11934,7 @@ endotheliolysin
 enfume
 errors
 emends
+emacerate
 eccritic
 enami
 euploeinae
