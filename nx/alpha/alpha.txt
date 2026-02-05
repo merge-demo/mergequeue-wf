@@ -2582,7 +2582,6 @@ autogeneal
 almner
 aljamiah
 ancestrial
-apolista
 arctomys
 againstand
 acouometer
@@ -3421,6 +3420,7 @@ alkamin
 animadversal
 attentions
 abscises
+apolista
 angelito
 azulmic
 acrochordinae
