@@ -4154,7 +4154,6 @@ bodysurfs
 bowmaking
 belladonna
 beardfishes
-beswarms
 beardy
 blanchimeter
 bearding
@@ -9944,6 +9943,7 @@ bitterer
 baygall
 babasco
 berkeleyism
+beswarms
 bitterheartedness
 biangular
 becapped
