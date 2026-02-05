@@ -6780,6 +6780,7 @@ eir
 erythraemia
 entreasure
 emerit
+endoscopic
 evacuation
 ediface
 elaborator
@@ -9122,7 +9123,6 @@ erythrolytic
 extravertively
 explanation
 enunciable
-endoscopic
 exponential
 enclitically
 epicolic
