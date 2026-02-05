@@ -5717,7 +5717,6 @@ cogwood
 capering
 cataplastic
 catapleiite
-catapulted
 catapultier
 colthood
 cuboctahedron
@@ -6038,6 +6037,7 @@ chaperonless
 crabgrass
 catheterism
 catheterization
+catapulted
 cense
 catheterized
 commonality
