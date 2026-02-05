@@ -7055,7 +7055,6 @@ dessous
 defiable
 devall
 doodad
-durst
 dessus
 disobedience
 destabilization
@@ -11457,6 +11456,7 @@ deathtrap
 decaffeinates
 deserted
 dyspnoi
+durst
 deterrent
 disciplinarily
 durative
