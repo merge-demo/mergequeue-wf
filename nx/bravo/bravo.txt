@@ -8059,7 +8059,6 @@ bleakish
 babble
 bicolorous
 bicolors
-bidder
 bullescene
 biramose
 bouleuterion
@@ -9563,6 +9562,7 @@ baffeta
 births
 blackfins
 birthstones
+bidder
 brontephobia
 birthstool
 bitnet
