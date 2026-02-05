@@ -734,7 +734,6 @@ gestapos
 grylle
 gynarchic
 gunbearer
-gerkin
 ginghams
 galvanopuncture
 goutwort
@@ -8054,6 +8053,7 @@ gulls
 gelding
 gunstocking
 genys
+gerkin
 gastronomy
 gata
 grubbing
