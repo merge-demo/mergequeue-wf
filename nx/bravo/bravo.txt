@@ -6789,7 +6789,6 @@ berreaves
 berrettas
 bemouth
 bartender
-barracudina
 busway
 bushiest
 berry
@@ -12791,6 +12790,7 @@ baklava
 bookmarks
 baroni
 burlesk
+barracudina
 bookpress
 bookracks
 bardesanism
