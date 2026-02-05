@@ -2801,7 +2801,6 @@ birchen
 boxberry
 bewrapping
 bordello
-belverdian
 brattiest
 barra
 bulkiness
@@ -13234,6 +13233,7 @@ bordure
 bibliography
 boschveld
 bimeby
+belverdian
 boulevardize
 bewit
 baston
