@@ -2311,7 +2311,6 @@ extinguishes
 elaterids
 egest
 eternisation
-equality
 erythrosine
 electrifiers
 eugene
@@ -10555,6 +10554,7 @@ euskara
 encodement
 evulge
 entohyal
+equality
 endogastritis
 exsiccated
 encloser
