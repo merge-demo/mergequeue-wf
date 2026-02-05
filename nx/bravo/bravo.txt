@@ -5310,6 +5310,7 @@ birsy
 blowtubes
 backstab
 buddy
+bretons
 brachytic
 barretries
 boltonia
@@ -5898,7 +5899,6 @@ bucconasal
 blackman
 begaudy
 beggardom
-bretons
 bellwether
 bellwort
 brazilite
