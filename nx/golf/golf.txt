@@ -6359,7 +6359,6 @@ glimmered
 gumpus
 gofer
 granzita
-gastrotrich
 given
 getspace
 goldspink
@@ -8728,6 +8727,7 @@ gunneries
 griece
 gonangium
 guestchamber
+gastrotrich
 guazuma
 gonys
 genos
