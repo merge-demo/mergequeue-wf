@@ -3725,7 +3725,6 @@ guric
 gaiter
 ghostwriters
 gallirallus
-gastroesophagostomy
 gastromyxorrhea
 glabellum
 gracelike
@@ -9229,6 +9228,7 @@ gunebo
 gibberosity
 galerite
 germicide
+gastroesophagostomy
 grazier
 gled
 giftedness
