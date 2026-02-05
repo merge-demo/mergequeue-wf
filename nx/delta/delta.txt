@@ -11653,7 +11653,6 @@ dames
 disconsolately
 demophobe
 digester
-dimplement
 dunkle
 dysoxidizable
 divulgator
@@ -18165,6 +18164,7 @@ diagrammed
 dipsopathy
 dropper
 desugaring
+dimplement
 disappointed
 dumper
 defensemen
