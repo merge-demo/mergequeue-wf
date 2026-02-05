@@ -5687,7 +5687,6 @@ bocher
 banting
 busks
 besped
-bacchar
 bilify
 badgeless
 babylonize
@@ -6485,6 +6484,7 @@ braggartly
 basidiogenetic
 bigwiggedness
 baccate
+bacchar
 broached
 bletted
 burge
