@@ -20908,7 +20908,6 @@ archshepherd
 alecs
 asarite
 anaxagorize
-anatomizable
 aftershine
 allergist
 ascare
@@ -24526,6 +24525,7 @@ autoxidizability
 abutilons
 autoxidizable
 autoxidize
+anatomizable
 appreciating
 accloy
 antepenultimate
