@@ -12170,7 +12170,6 @@ bostrychoid
 blossoming
 banefully
 boldfacedness
-boldfacing
 bleb
 boldhearted
 beclip
@@ -17654,6 +17653,7 @@ bridegod
 bioplasmic
 bowlder
 burkundaz
+boldfacing
 burlace
 bylaws
 brodyaga
