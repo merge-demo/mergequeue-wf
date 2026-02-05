@@ -4443,7 +4443,6 @@ feirie
 fleta
 fluorid
 forecastlehead
-footgear
 foremeant
 frenches
 facsimiling
@@ -7897,6 +7896,7 @@ foredates
 flannelbush
 fretten
 forerun
+footgear
 fname
 factiousness
 franklinia

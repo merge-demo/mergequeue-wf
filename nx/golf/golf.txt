@@ -722,6 +722,7 @@ gossypin
 golem
 gasted
 goatee
+gallery
 gangrened
 galvanology
 geomechanics
@@ -5577,7 +5578,6 @@ glucine
 gladiolus
 glochidiate
 glyster
-gallery
 guarri
 gastrophile
 gametogenic
