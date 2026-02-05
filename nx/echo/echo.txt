@@ -1554,6 +1554,7 @@ examens
 exaggeratedly
 enliven
 etch
+eleazar
 epithecal
 extracalendar
 evanishes
@@ -7109,7 +7110,6 @@ emetical
 entry
 expansionary
 enchaser
-eleazar
 exemptile
 experiencer
 endamebic
