@@ -3130,7 +3130,6 @@ capability
 charks
 capable
 capableness
-clayoquot
 challengingly
 cirque
 cerecloth
@@ -21329,6 +21328,7 @@ counterguerrilla
 conchifera
 conchiferous
 ctelette
+clayoquot
 compulsively
 conchyliated
 convolved
