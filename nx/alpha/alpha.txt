@@ -518,7 +518,6 @@ assonantal
 acidities
 absterge
 agomphiasis
-abjurations
 acecaffin
 axolemma
 allocable
@@ -2066,6 +2065,7 @@ aspergillales
 acheiria
 antiprohibition
 accumulate
+abjurations
 aboveboard
 apologised
 avolation
