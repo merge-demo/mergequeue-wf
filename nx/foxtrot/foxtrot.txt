@@ -1132,7 +1132,6 @@ faciocervical
 flatwoods
 foes
 forbade
-forepointer
 fraxinella
 familiarizing
 fusileer
@@ -10375,6 +10374,7 @@ fraenula
 fourragere
 floodlighted
 fetology
+forepointer
 fluoridized
 fattest
 filthify
