@@ -13326,7 +13326,6 @@ barrulet
 boulders
 beng
 briquettes
-botany
 berakes
 birdmen
 baltei
@@ -18312,6 +18311,7 @@ begattal
 basaltoid
 buttonbush
 bivalve
+botany
 buttoners
 bedel
 britt
