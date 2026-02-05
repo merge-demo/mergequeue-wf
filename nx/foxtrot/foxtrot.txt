@@ -10461,6 +10461,7 @@ flow
 flamelet
 flyspecked
 firstling
+fleeing
 forcaria
 filesmith
 fadingness
@@ -11234,7 +11235,6 @@ furzed
 fons
 funiculars
 funiform
-fleeing
 fricandeau
 flexibly
 flashcubes
