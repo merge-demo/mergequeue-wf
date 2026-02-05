@@ -10210,7 +10210,6 @@ chiaroscuros
 coulis
 chias
 cheesecakes
-chiasma
 cotesian
 camacan
 coequalize
@@ -25181,6 +25180,7 @@ corporealize
 corybantian
 corybantiasm
 corybantine
+chiasma
 chemung
 charka
 contemporaneousness
