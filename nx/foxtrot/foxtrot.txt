@@ -9598,6 +9598,7 @@ flashiness
 fieldmouse
 favouress
 flyted
+flatus
 farmable
 fuseless
 furcraeas
@@ -10589,7 +10590,6 @@ franking
 formose
 fluky
 flockbed
-flatus
 festivous
 fingerhook
 flavorings
