@@ -12339,7 +12339,6 @@ added
 andromedotoxin
 amargoso
 andromonoecism
-adenoidism
 argilloarenaceous
 abraser
 apiarist
@@ -14222,6 +14221,7 @@ amphibolies
 autochthonous
 anhedonia
 agnosias
+adenoidism
 atomity
 archaeomagnetism
 anthemas
