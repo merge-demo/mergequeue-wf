@@ -3555,6 +3555,7 @@ fromfile
 figurer
 foolery
 fuzzing
+falconries
 fleetingly
 fernland
 figures
@@ -9004,7 +9005,6 @@ frigorific
 ferrimagnetism
 folded
 feverwort
-falconries
 formally
 francophilism
 fustigate
