@@ -2000,7 +2000,6 @@ bible
 bescratch
 bullragging
 bitwise
-bantoid
 bagatelle
 babesiasis
 browns
@@ -16839,6 +16838,7 @@ brachycephaly
 botts
 brumbee
 bacterioid
+bantoid
 bicolligate
 bliaut
 bromoauric
