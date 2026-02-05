@@ -2459,7 +2459,6 @@ gonopodial
 gallants
 gnathidium
 greenbottle
-gerbils
 gascoyne
 gambrel
 golandause
@@ -6514,6 +6513,7 @@ geotherm
 grays
 gratinate
 gynecomaniacal
+gerbils
 greaseproofness
 glaucic
 graceless
