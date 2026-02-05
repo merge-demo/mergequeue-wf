@@ -2333,6 +2333,7 @@ cromorne
 canalboat
 charales
 canale
+concent
 canaled
 cobs
 cithrens
@@ -6522,7 +6523,6 @@ churning
 covalency
 cossetted
 cavatina
-concent
 continuator
 cosmopolite
 chawl
