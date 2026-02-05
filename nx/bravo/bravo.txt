@@ -400,6 +400,7 @@ burgles
 belook
 bacteriorhodopsin
 bwana
+bot
 bradding
 brindlish
 backlit
@@ -5405,7 +5406,6 @@ begrimer
 begrimes
 begriming
 begrimmed
-bot
 bordroom
 baddeleyite
 brachycardia
