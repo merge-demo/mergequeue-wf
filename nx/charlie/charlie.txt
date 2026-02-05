@@ -21333,6 +21333,7 @@ circummigration
 ceboid
 counterguerrilla
 conchifera
+curace
 conchiferous
 ctelette
 clayoquot
@@ -31237,7 +31238,6 @@ concertinist
 chowsing
 coracler
 classification
-curace
 cabriolets
 curacoa
 cointerring
