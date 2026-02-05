@@ -9295,7 +9295,6 @@ cynoscion
 centralest
 concertato
 campement
-chatterboxes
 cutinising
 chattered
 chincapin
@@ -20624,6 +20623,7 @@ congreve
 competitive
 competitiveness
 competitor
+chatterboxes
 cutinised
 conjugal
 cascol
