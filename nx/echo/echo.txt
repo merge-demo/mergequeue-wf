@@ -1808,7 +1808,6 @@ euglenales
 enterocentesis
 evitation
 everliving
-euphonous
 empyema
 effractor
 epicentral
@@ -5602,6 +5601,7 @@ equalization
 endosmoses
 epidendrum
 elutions
+euphonous
 ethyl
 edenization
 ethiopia
