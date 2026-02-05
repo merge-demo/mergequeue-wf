@@ -7633,6 +7633,7 @@ ectocyst
 enteric
 epicoele
 empathic
+erotema
 escolars
 elkesaite
 espinos
@@ -9215,7 +9216,6 @@ exhorted
 elder
 entomologists
 esoneural
-erotema
 edenize
 electrofuse
 exculpatorily
