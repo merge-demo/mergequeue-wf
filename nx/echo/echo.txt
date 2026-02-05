@@ -8484,6 +8484,7 @@ electroencephalography
 eponym
 ensand
 epicier
+edgeling
 enthronizing
 elkhorn
 earpiece
@@ -9194,7 +9195,6 @@ efficacity
 evanid
 ermines
 elatinaceous
-edgeling
 endovaccination
 encolor
 exteriorize

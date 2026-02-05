@@ -5798,6 +5798,7 @@ gaveller
 gadarene
 gloveman
 gumtrees
+granulet
 garancin
 glover
 gaining
@@ -10192,7 +10193,6 @@ guyers
 gobet
 grindstone
 gastrophilus
-granulet
 gawsy
 gitanemuk
 gladdon
