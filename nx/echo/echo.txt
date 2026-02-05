@@ -9611,7 +9611,6 @@ ecotypes
 extrinsicate
 edestan
 expressing
-epilabrum
 enactment
 extinction
 erysiphe
@@ -13278,6 +13277,7 @@ earings
 emboliform
 exhaustlessness
 explanted
+epilabrum
 eutopian
 explanting
 exocoelom
