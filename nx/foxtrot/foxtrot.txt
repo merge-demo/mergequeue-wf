@@ -3891,7 +3891,6 @@ flowerlet
 flinch
 folders
 formentation
-foliolate
 finalization
 furfooz
 fraudulency
@@ -9288,6 +9287,7 @@ fichat
 feretra
 feuded
 forecome
+foliolate
 fraise
 fraised
 faubourgs
