@@ -1339,7 +1339,6 @@ foramination
 fyttes
 flannelflower
 flyable
-frailish
 factionally
 faunal
 frantically
@@ -3617,6 +3616,7 @@ fundmongering
 finicality
 filaricidal
 filariids
+frailish
 foody
 folkvangr
 funding
