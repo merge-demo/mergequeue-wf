@@ -644,6 +644,7 @@ gangboard
 gonitis
 giddify
 genearch
+gangwayed
 giterne
 gormand
 georgiana
@@ -2755,7 +2756,6 @@ guesses
 gelotometer
 gabies
 ginnery
-gangwayed
 glassie
 gelee
 gantlope
