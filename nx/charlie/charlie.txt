@@ -1070,7 +1070,6 @@ capitalise
 chiliaedron
 counsellorship
 calcariferous
-cribo
 calcariform
 chugalugs
 calcate
@@ -5245,6 +5244,7 @@ cocentric
 cashiered
 chenopodium
 crows
+cribo
 clearest
 cashmere
 cashmeres
