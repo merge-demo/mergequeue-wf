@@ -2163,7 +2163,6 @@ grooviest
 gierfalcon
 galvanocauterization
 gamy
-goniostat
 glistening
 glauke
 gebbie
@@ -9609,6 +9608,7 @@ gravelike
 gossiphood
 guaxima
 gerbe
+goniostat
 geums
 gedanite
 gonoblastidium
