@@ -3498,7 +3498,6 @@ equilibrium
 ensky
 embarricado
 explemental
-elementoid
 enosises
 ephoral
 embassadress
@@ -11754,6 +11753,7 @@ epistemologically
 erythrolysin
 earscrew
 epicheiremata
+elementoid
 escolar
 extrafascicular
 enfolding
