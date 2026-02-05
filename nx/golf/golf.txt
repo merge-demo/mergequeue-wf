@@ -791,7 +791,6 @@ gabbros
 genseng
 gambogian
 goban
-granulater
 geonegative
 gobemouche
 glockenspiel
@@ -2608,6 +2607,7 @@ gableboard
 glossopetra
 gemelled
 glossosteresis
+granulater
 garabato
 gastrocolic
 glycohemia
