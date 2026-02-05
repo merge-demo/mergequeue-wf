@@ -2681,6 +2681,7 @@ disscepter
 duetto
 decorate
 defenses
+dismarket
 dictyoceratine
 damon
 decorating
@@ -12858,7 +12859,6 @@ dishevelment
 dissyllabic
 dyarchic
 dirhem
-dismarket
 duci
 dunnages
 dicotyledon
