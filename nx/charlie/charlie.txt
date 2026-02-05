@@ -10115,7 +10115,6 @@ curing
 chesterfield
 chesterfieldian
 chestfuls
-cleaverwort
 chestier
 collaudation
 chestnut
@@ -18470,6 +18469,7 @@ cognised
 creepy
 cesarian
 chirimoya
+cleaverwort
 clypeal
 cognition
 cucullated
