@@ -7093,7 +7093,6 @@ fleawort
 forefit
 forebodings
 formidable
-fauxbourdon
 ferrum
 forgiveness
 frogspawn
@@ -8294,6 +8293,7 @@ farmings
 feists
 footlocker
 frecklish
+fauxbourdon
 foreseen
 flump
 forehoof
