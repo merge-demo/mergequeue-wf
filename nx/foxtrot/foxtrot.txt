@@ -11309,6 +11309,7 @@ fomentation
 filterableness
 foggages
 flashlamps
+firesides
 foyer
 fusspot
 frogmouth
@@ -11319,7 +11320,6 @@ firedog
 formatted
 fgn
 foreguts
-firesides
 fundamentality
 fleabite
 fluorimetric

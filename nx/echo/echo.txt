@@ -10641,7 +10641,6 @@ eucopepoda
 eucosmidae
 expiational
 ecstasis
-expensing
 englobing
 ethography
 eparchate
@@ -11760,6 +11759,7 @@ elementoid
 escolar
 extrafascicular
 enfolding
+expensing
 eventualities
 explanator
 endocarditis
