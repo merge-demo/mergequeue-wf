@@ -8908,6 +8908,7 @@ autobolide
 ailments
 ataghan
 allose
+asherah
 attaint
 allosyndetic
 autoregulatory
@@ -15838,7 +15839,6 @@ animalness
 antipleion
 antiplurality
 antiprotozoal
-asherah
 almander
 antipodal
 antipode
