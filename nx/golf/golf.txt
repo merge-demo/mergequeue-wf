@@ -1537,7 +1537,6 @@ grassless
 geothermally
 grana
 glutelin
-glassless
 ghegish
 glar
 gregarinoidea
@@ -3948,6 +3947,7 @@ gyro
 grice
 guerillas
 gumbotil
+glassless
 gimping
 goffer
 gnomed
