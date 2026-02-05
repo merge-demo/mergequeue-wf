@@ -1898,7 +1898,6 @@ gunboat
 geomalic
 gaudless
 ganglia
-giraffes
 gurjan
 geal
 gentian
@@ -6170,6 +6169,7 @@ glandiferous
 givens
 grader
 glistened
+giraffes
 goliaths
 gages
 gyric

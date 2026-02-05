@@ -13721,6 +13721,7 @@ dyssynergy
 decagramme
 decontrolled
 doxography
+deterministically
 diatryma
 dogberries
 dispersals
@@ -17882,7 +17883,6 @@ duellist
 diplomata
 debromination
 disburser
-deterministically
 dropforged
 diguanide
 disenmesh
