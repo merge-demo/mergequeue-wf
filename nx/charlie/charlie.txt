@@ -8830,6 +8830,7 @@ canonries
 chapteral
 chapterhouse
 catalina
+chaumiere
 cardinalates
 chapwoman
 chaqueta
@@ -9346,7 +9347,6 @@ cutling
 choralist
 cytodendrite
 chaulmugra
-chaumiere
 chaunoprockt
 childlikeness
 chartometer
