@@ -15125,6 +15125,7 @@ binocular
 breastplate
 bret
 beshivers
+bayman
 bebops
 bibber
 brot
@@ -17029,7 +17030,6 @@ breakables
 bulimias
 bronchiostenosis
 broomtail
-bayman
 braces
 bulimus
 bimahs
