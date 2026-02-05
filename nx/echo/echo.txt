@@ -1589,7 +1589,6 @@ eggs
 endokaryogamy
 emplastra
 ectrodactyly
-excerptive
 epicarides
 eupeptically
 ensconces
@@ -10355,6 +10354,7 @@ eulophid
 ebullitions
 empiecement
 epifocal
+excerptive
 exosmic
 extemporise
 exaggerative
