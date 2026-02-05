@@ -1016,7 +1016,6 @@ extrinsical
 eddied
 edits
 esoterics
-elucidate
 entera
 excavatory
 erotize
@@ -4393,6 +4392,7 @@ eggars
 encranial
 excrescence
 eremacausis
+elucidate
 epilachnides
 etymologizable
 erythrochaete
