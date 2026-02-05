@@ -3458,6 +3458,7 @@ dependents
 dehydroffrozen
 defogged
 disyllable
+diplexer
 dormered
 didelphous
 desulfurating
@@ -9672,7 +9673,6 @@ depass
 dihydroergotamine
 destructs
 derogatorily
-diplexer
 decrepitate
 dissight
 dipoles
