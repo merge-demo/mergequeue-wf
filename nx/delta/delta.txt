@@ -5974,7 +5974,6 @@ decimetres
 doubledamn
 deckswabber
 decuples
-dragons
 duller
 demiwivern
 diopside
@@ -14661,6 +14660,7 @@ divulsion
 divvy
 dyspneal
 derating
+dragons
 dungbird
 diallel
 dingee
