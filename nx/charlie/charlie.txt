@@ -8315,7 +8315,6 @@ chalybes
 chalice
 chancelry
 chaliced
-chalicosis
 crocused
 circumnavigating
 chalicotheriid
@@ -15293,6 +15292,7 @@ chivalry
 clamjamfery
 clamjamfry
 clammed
+chalicosis
 caramelizes
 clammy
 compradore
