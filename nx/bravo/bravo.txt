@@ -206,7 +206,6 @@ beamlike
 berceau
 bargainee
 brumbies
-bacchants
 bridleless
 beguiling
 bongoist
@@ -15851,6 +15850,7 @@ bullied
 balas
 backlasher
 bitterbrush
+bacchants
 brokerly
 barrows
 bradykinesia
