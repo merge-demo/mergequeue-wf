@@ -8539,7 +8539,6 @@ contrition
 chanced
 coroll
 categorical
-carpus
 chanceful
 cadrans
 chancey
@@ -25133,6 +25132,7 @@ coresign
 coresonant
 cancans
 convento
+carpus
 cronet
 corespect
 corespondent
