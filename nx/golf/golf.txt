@@ -3890,7 +3890,6 @@ gymnarchidae
 gazabos
 gallotannate
 goshdarn
-glutimate
 grossen
 guaycuru
 gyroplane
@@ -4125,6 +4124,7 @@ gizmos
 girandole
 genetor
 gyropilot
+glutimate
 graphitization
 growled
 geggee
