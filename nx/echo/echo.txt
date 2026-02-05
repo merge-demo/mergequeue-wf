@@ -7391,7 +7391,6 @@ eucaine
 elate
 eparchies
 eternization
-elytrorrhagia
 equinoctial
 eparterial
 emasculations
@@ -11513,6 +11512,7 @@ esotery
 elided
 encipherment
 elucidation
+elytrorrhagia
 eniac
 engraving
 ephemera
