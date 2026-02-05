@@ -6531,7 +6531,6 @@ afterbeat
 astatizer
 assembles
 anodynous
-apterous
 abomas
 aquinas
 axiological
@@ -21792,6 +21791,7 @@ assertress
 assertum
 agricolous
 acanaceous
+apterous
 apparencies
 alloeotic
 auguries
