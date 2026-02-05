@@ -5019,6 +5019,7 @@ cartography
 cypseli
 cartographic
 cartographical
+comprizal
 cartographically
 cognisableness
 carton
@@ -16048,7 +16049,6 @@ crinoid
 clethrionomys
 cephaletron
 caleche
-comprizal
 cleve
 christofer
 cleveite
