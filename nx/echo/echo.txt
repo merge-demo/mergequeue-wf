@@ -899,6 +899,7 @@ encorbelment
 epiderms
 emraud
 englobement
+emit
 entourages
 epistolizer
 eigenfunction
@@ -4354,7 +4355,6 @@ enamelist
 euthenasia
 enamelless
 eburnean
-emit
 emplacements
 exalted
 equinia
