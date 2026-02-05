@@ -5450,7 +5450,6 @@ gender
 granomerite
 galliwasp
 guniter
-gambist
 gascoign
 guran
 gaspergou
@@ -10364,6 +10363,7 @@ grike
 gumbos
 giddied
 gargoyled
+gambist
 gallflower
 garbanzos
 gyri
