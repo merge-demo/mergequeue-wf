@@ -5013,6 +5013,7 @@ ensaffron
 elementality
 exauthorate
 enders
+editorialized
 electroneutrality
 evangelistics
 endgate
@@ -5709,7 +5710,6 @@ extrasacerdotal
 enforce
 enantiosis
 engild
-editorialized
 engilding
 empirism
 excrementive
