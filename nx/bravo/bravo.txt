@@ -3621,6 +3621,7 @@ bathometry
 balneary
 bathophobia
 burettes
+brigades
 buvette
 bunkmates
 boccies
@@ -12411,7 +12412,6 @@ berime
 band
 buckshee
 borer
-brigades
 biskop
 baskets
 bomble
