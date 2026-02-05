@@ -5915,6 +5915,7 @@ disencharm
 dispossessing
 deep
 darwin
+domajig
 dowy
 draggily
 diluvion
@@ -7090,7 +7091,6 @@ decretion
 dicyemid
 disaproned
 drowsed
-domajig
 demesmerize
 descriptiveness
 desto
