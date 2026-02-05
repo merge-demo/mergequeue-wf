@@ -3967,7 +3967,6 @@ flavours
 franchising
 fraple
 ferrocyanogen
-furrowed
 friller
 formaldoxime
 ferther
@@ -11292,6 +11291,7 @@ fibroglia
 furbish
 flaxwife
 frigorify
+furrowed
 foregut
 fanaticized
 fourpenny
