@@ -1564,7 +1564,6 @@ fauvette
 flowcontrol
 fishbowl
 futural
-fause
 fliest
 fauvisms
 flaggers
@@ -5454,6 +5453,7 @@ forelaid
 fivefoldness
 farinhas
 flimsies
+fause
 fosterite
 fondlesome
 flits
