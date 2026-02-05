@@ -1329,7 +1329,6 @@ attemptless
 anthers
 aromatic
 aggregant
-aluminaphone
 antarchism
 alphabetic
 adipsia
@@ -14222,6 +14221,7 @@ autochthonous
 anhedonia
 agnosias
 adenoidism
+aluminaphone
 atomity
 archaeomagnetism
 anthemas
