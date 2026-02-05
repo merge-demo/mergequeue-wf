@@ -3123,7 +3123,6 @@ grannam
 germanite
 gurgles
 georgics
-gnast
 galumphing
 guignardia
 grangousier
@@ -7521,6 +7520,7 @@ galenist
 glaucophanize
 gangs
 garamond
+gnast
 galjoen
 glabellous
 gryllus
