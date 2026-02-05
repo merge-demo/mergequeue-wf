@@ -21528,6 +21528,7 @@ concordatory
 coagulatory
 circline
 cawk
+cryptogamical
 centumvir
 cemetary
 cluster
@@ -29304,7 +29305,6 @@ cryptogame
 cryptogamy
 crowed
 cryptogamic
-cryptogamical
 cryptogamist
 cryptoglioma
 custody
