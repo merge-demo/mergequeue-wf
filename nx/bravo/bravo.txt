@@ -4754,7 +4754,6 @@ bilinguist
 biogenetical
 bedims
 britannian
-branchage
 basiophitic
 birdbrain
 boubas
@@ -16240,6 +16239,7 @@ bunchier
 brouhaha
 borazons
 broussonetia
+branchage
 browbeating
 bathmotropism
 baiter
