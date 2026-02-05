@@ -3955,7 +3955,6 @@ doorsill
 delegates
 delegateship
 digressiveness
-dibasicity
 damping
 dokhma
 doll
@@ -7453,6 +7452,7 @@ detruding
 disulphid
 detruncation
 damneder
+dibasicity
 disparition
 dodgery
 destuffs

@@ -2266,6 +2266,7 @@ coneine
 caval
 camstone
 camuning
+cirripede
 cholecystolithotripsy
 camus
 camused
@@ -3361,7 +3362,6 @@ creaker
 colonizes
 capnomancy
 capnomor
-cirripede
 characterologically
 connivant
 countermined
