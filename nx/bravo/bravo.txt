@@ -11668,7 +11668,6 @@ boathouse
 backbends
 boffos
 blacketeer
-bopping
 bandhu
 bittacle
 berend
@@ -14510,6 +14509,7 @@ brakeload
 bemotto
 belemnoid
 brakemaker
+bopping
 brakeman
 brakeroot
 bluebells
