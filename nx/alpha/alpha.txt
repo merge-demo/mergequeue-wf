@@ -8992,7 +8992,6 @@ absterged
 alloxans
 arsenicalism
 accipenser
-anthracoid
 arrectary
 alloxuraemia
 alloxuremia
@@ -22241,6 +22240,7 @@ agilities
 affiliations
 antepaschal
 anthropophagism
+anthracoid
 astogeny
 aglutition
 arrestees
