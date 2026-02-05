@@ -8795,7 +8795,6 @@ clothesbasket
 cantilever
 chapon
 corrugators
-cuppa
 crips
 cave
 carposporic
@@ -11736,6 +11735,7 @@ choloscopy
 cholterheaded
 cholum
 clavicor
+cuppa
 collaborative
 cladistic
 choluria

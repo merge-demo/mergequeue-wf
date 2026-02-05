@@ -4126,7 +4126,6 @@ ferrotitanium
 foreprovided
 finny
 fab
-footfault
 frogflower
 fylgjur
 foolship
@@ -6132,6 +6131,7 @@ fittyways
 faeroese
 flagstick
 filippo
+footfault
 ferrara
 flewed
 familiarize
