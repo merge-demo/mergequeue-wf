@@ -565,7 +565,6 @@ forewarn
 fragmentising
 falters
 forestology
-furole
 fronts
 firewater
 formamidoxime
@@ -2981,6 +2980,7 @@ flueless
 furnacing
 fingerbreadth
 foredecks
+furole
 florivorous
 friedman
 forefault

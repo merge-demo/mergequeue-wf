@@ -4438,6 +4438,7 @@ bebeerin
 bepress
 booleans
 bevomiting
+bigwig
 butyrousness
 bathyseism
 beclaw
@@ -8412,7 +8413,6 @@ besotted
 bellypiece
 bigots
 bashawdom
-bigwig
 barruly
 biomass
 beryllia
