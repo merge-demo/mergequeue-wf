@@ -3281,6 +3281,7 @@ capitalisable
 coproduct
 capitalising
 capitalistically
+cowboy
 confed
 capitalists
 cubatures
@@ -27646,7 +27647,6 @@ cattily
 cracksman
 culverhouse
 carbonadoed
-cowboy
 cowbrute
 cervicolumbar
 crenellate
