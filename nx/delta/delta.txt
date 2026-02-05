@@ -4050,7 +4050,6 @@ delightfulness
 discant
 demurringly
 determined
-digitalization
 delimed
 disquisitory
 diphysitism
@@ -7326,6 +7325,7 @@ deashed
 disagreed
 determiner
 diameters
+digitalization
 determinism
 deterministic
 dermatoplasty
