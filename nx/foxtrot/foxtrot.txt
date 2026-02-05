@@ -8831,6 +8831,7 @@ forgers
 foreprise
 flashtube
 frustula
+fimbrillae
 felty
 flunks
 facebar
@@ -8869,7 +8870,6 @@ foozles
 fossilogy
 fload
 fistuliform
-fimbrillae
 fleered
 foremastman
 felichthys
