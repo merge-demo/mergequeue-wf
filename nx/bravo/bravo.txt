@@ -7960,7 +7960,6 @@ brambleberries
 becudgeled
 bibliopolically
 bibliopolist
-befall
 benzalazine
 bibliotaphe
 bibliothecae
@@ -13235,6 +13234,7 @@ bibliography
 boschveld
 bimeby
 belverdian
+befall
 boulevardize
 bewit
 baston
