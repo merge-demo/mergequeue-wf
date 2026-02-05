@@ -11953,6 +11953,7 @@ ephemeralities
 educative
 endemiology
 eudaemonistically
+eds
 equiradical
 estivated
 excess
@@ -12265,7 +12266,6 @@ estheriidae
 ecphorias
 ensheaths
 electroaffinity
-eds
 emarginating
 ensignry
 evilwishing
