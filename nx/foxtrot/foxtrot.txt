@@ -2856,6 +2856,7 @@ feticide
 fishwoman
 feting
 flossie
+fabulize
 fustily
 freeways
 fizzy
@@ -9264,7 +9265,6 @@ fey
 ferricyanate
 fishbed
 frayedness
-fabulize
 fleeted
 festively
 finnac
