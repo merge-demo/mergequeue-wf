@@ -1340,6 +1340,7 @@ foramination
 fyttes
 flannelflower
 flyable
+frailish
 factionally
 faunal
 frantically
@@ -8785,7 +8786,6 @@ forellenstein
 forwarded
 faceless
 fungo
-frailish
 facelifts
 foreplace
 frugality
