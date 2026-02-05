@@ -13006,6 +13006,7 @@ clough
 curpel
 cyanochroia
 cyanocobalamin
+captiving
 cyanocobalamine
 cutleriales
 cyanoderma
@@ -18006,7 +18007,6 @@ coelector
 cloacean
 cephalomyitis
 chololith
-captiving
 colpocele
 coelectron
 centrist
