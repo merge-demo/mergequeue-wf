@@ -9347,7 +9347,6 @@ gorkhali
 gigantostracan
 geomagnetically
 grond
-gront
 gynocracy
 grozet
 guddled
@@ -10048,6 +10047,7 @@ grissens
 genetoid
 geomancies
 gleans
+gront
 gammation
 gargoyles
 granitoidal
