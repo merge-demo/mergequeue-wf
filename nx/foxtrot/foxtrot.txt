@@ -5365,7 +5365,6 @@ flukes
 fluoridize
 fulciform
 flanconade
-flagellum
 fretters
 flain
 fernwort
@@ -6598,6 +6597,7 @@ fellatrices
 foetid
 floccose
 flawlessness
+flagellum
 flutist
 fecit
 fluence
