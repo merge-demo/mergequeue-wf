@@ -4137,7 +4137,6 @@ glycohemia
 gringo
 gnars
 gyrencephalic
-gynobaseous
 gibbi
 grahamism
 gynomonoecism
@@ -6228,6 +6227,7 @@ grouper
 gp
 glib
 galactophagist
+gynobaseous
 goaty
 galei
 guestive
