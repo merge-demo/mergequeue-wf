@@ -5831,7 +5831,6 @@ fels
 figureheadless
 fisher
 farth
-fiaschi
 fustilugs
 flyspecking
 folate
@@ -11687,6 +11686,7 @@ finikin
 flare
 forefended
 footglove
+fiaschi
 flatfoot
 faced
 faroeish
