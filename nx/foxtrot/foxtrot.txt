@@ -7841,7 +7841,6 @@ featherstitch
 fidgetiness
 forepaws
 fractionisation
-fungify
 favorite
 focusing
 fatiguable
@@ -10153,6 +10152,7 @@ fearfulness
 folkmotes
 fennish
 fostered
+fungify
 fluoborite
 finalizations
 fennec
