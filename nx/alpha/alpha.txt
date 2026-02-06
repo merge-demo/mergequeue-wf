@@ -12120,6 +12120,7 @@ anchisaurus
 alphabetiform
 aegirite
 anaxone
+assayers
 anchorlike
 antiphonic
 apsis
@@ -21634,7 +21635,6 @@ acetometrically
 anisomerous
 assayable
 assayed
-assayers
 abjectly
 appeasers
 assaying
