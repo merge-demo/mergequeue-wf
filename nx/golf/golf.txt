@@ -9495,7 +9495,6 @@ gae
 geisa
 glaciaria
 grudgefully
-goondie
 gorilloid
 grounders
 gonyaulax
@@ -9961,6 +9960,7 @@ gunstocker
 gateway
 granddaddies
 grammaticism
+goondie
 gradgrindism
 gm
 gymnite
