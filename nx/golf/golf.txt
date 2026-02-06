@@ -6526,7 +6526,6 @@ gatherable
 gimble
 granduncles
 grottoed
-gromwell
 gamelans
 gastrologists
 gleization
@@ -7083,6 +7082,7 @@ glaces
 gestalter
 gurdfish
 goofball
+gromwell
 gumption
 gaus
 gastrectomy
