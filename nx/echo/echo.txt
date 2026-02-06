@@ -4352,7 +4352,6 @@ expansibleness
 enactor
 epigrammatize
 extend
-eloquence
 epochism
 enamelist
 euthenasia
@@ -13117,6 +13116,7 @@ ergotisms
 ende
 electability
 egotizing
+eloquence
 easer
 embrothelled
 ejectable
