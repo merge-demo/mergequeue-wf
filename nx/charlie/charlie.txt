@@ -1716,7 +1716,6 @@ claytonia
 cele
 corrigenda
 circ
-cestoi
 counterdiscipline
 calorifical
 calorification
@@ -31179,6 +31178,7 @@ cuppin
 civets
 chemonite
 cuppings
+cestoi
 cotraitor
 clerklike
 catechutannic
