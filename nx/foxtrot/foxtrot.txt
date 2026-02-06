@@ -8619,7 +8619,6 @@ fiscs
 frows
 forrard
 fraction
-flammigerous
 familiarism
 flatworks
 folles
@@ -11540,6 +11539,7 @@ fabling
 flon
 flytier
 fictionize
+flammigerous
 fossilising
 fards
 forjudgment
