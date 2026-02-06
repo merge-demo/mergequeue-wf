@@ -326,6 +326,7 @@ enqueue
 endognath
 exomphalos
 electrochronometer
+estamp
 ectocuniform
 esquired
 endrin
@@ -4010,7 +4011,6 @@ evertile
 exaltative
 embarrassingly
 entitles
-estamp
 empatron
 etrurian
 eczemas
