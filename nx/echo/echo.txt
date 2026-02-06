@@ -2497,6 +2497,7 @@ elean
 emerges
 ethanol
 electrogalvanization
+explicans
 equivalence
 eudemonia
 exhilarates
@@ -10146,7 +10147,6 @@ ecthlipses
 endorses
 erasion
 emancipates
-explicans
 escherichia
 equisetum
 erose
