@@ -4267,6 +4267,7 @@ dequeue
 doria
 disflesh
 dronel
+dendrodra
 daubster
 diacritical
 demagogical
@@ -10524,7 +10525,6 @@ dolichoprosopic
 dispost
 dobe
 dilutedness
-dendrodra
 diphthongisation
 deisticalness
 dalar
