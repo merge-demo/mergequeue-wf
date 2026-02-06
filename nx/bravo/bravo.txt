@@ -11605,6 +11605,7 @@ byronism
 brogger
 blush
 brazenfacedly
+bonuses
 broon
 blamer
 blushfully
@@ -17712,7 +17713,6 @@ burnishing
 bookbindery
 broadens
 bejabers
-bonuses
 bellies
 bede
 blote
