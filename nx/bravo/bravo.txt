@@ -8935,7 +8935,6 @@ brimse
 biocycle
 baboon
 biocide
-bookcases
 bioclimatic
 bowwoman
 bioclimatician
@@ -17024,6 +17023,7 @@ bibliothecarial
 bubblish
 boyhood
 belier
+bookcases
 ballatoon
 bersim
 bulgiest
