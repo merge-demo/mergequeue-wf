@@ -1369,7 +1369,6 @@ aqueducts
 accessed
 amlet
 alphabetising
-accelerometer
 accelerometers
 adamancy
 aurang
@@ -24017,6 +24016,7 @@ achatinella
 archcozener
 angiometer
 acenaphthenyl
+accelerometer
 autocatalyses
 acclamations
 aquiferous
