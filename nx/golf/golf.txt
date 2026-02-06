@@ -7466,6 +7466,7 @@ guereza
 glossist
 glamourous
 gummaker
+gelatined
 grabbier
 grunerite
 gomerals
@@ -10509,7 +10510,6 @@ geometrina
 gonadotrophin
 gratiola
 glazings
-gelatined
 gulix
 georgia
 grallic
