@@ -2232,6 +2232,7 @@ epistome
 edacious
 expanded
 esterlin
+encamping
 ermanrich
 entailing
 expeditionist
@@ -3337,7 +3338,6 @@ emboweller
 enzymatically
 epirotulian
 eldermen
-encamping
 eunice
 ecumenicize
 euphonize
