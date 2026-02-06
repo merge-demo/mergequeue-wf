@@ -5945,7 +5945,6 @@ capuli
 conveyances
 carposporous
 complanation
-ctenostomata
 cholates
 cravings
 cubistically
@@ -23818,6 +23817,7 @@ chair
 clavel
 contributable
 civilisedness
+ctenostomata
 cutins
 chrestomathic
 contribution
