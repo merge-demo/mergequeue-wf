@@ -3844,6 +3844,7 @@ embussing
 eohippus
 espigle
 explored
+ectopistes
 emceeing
 escalader
 expilate
@@ -13335,7 +13336,6 @@ ethicalities
 execrator
 eclipsareon
 extracosmic
-ectopistes
 ebulliometer
 exigences
 educts
