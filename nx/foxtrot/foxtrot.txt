@@ -644,6 +644,7 @@ falsity
 foreshape
 faburden
 frenchification
+factual
 fumier
 foxproof
 foisted
@@ -7623,7 +7624,6 @@ flubs
 fogram
 filtrate
 felicities
-factual
 foredefeated
 frankheartedness
 fatuity
