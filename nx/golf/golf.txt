@@ -3421,7 +3421,6 @@ gonocytes
 gainor
 gruelingly
 gerontocrat
-gluttony
 glint
 gyroscopics
 gallinule
@@ -4784,6 +4783,7 @@ gederite
 gametophyll
 gomeril
 genarch
+gluttony
 glossematics
 gunmaker
 galipine
