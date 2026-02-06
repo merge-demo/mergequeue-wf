@@ -11061,7 +11061,6 @@ downbend
 doorframe
 dispense
 disallow
-displaying
 dorneck
 disconformably
 dramatised
@@ -14885,6 +14884,7 @@ dicyemata
 dedan
 dictyograptus
 documentations
+displaying
 divertive
 dehortative
 donnish
