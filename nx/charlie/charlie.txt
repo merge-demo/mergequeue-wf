@@ -26352,7 +26352,6 @@ caravel
 clubbable
 cozeiest
 continuous
-cotenancy
 confabulations
 cotenant
 cadish
@@ -28041,6 +28040,7 @@ cochairmen
 cocomat
 chillo
 crambe
+cotenancy
 crambes
 crambidae
 crambos
