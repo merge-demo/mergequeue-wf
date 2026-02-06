@@ -2548,7 +2548,6 @@ foulmouth
 feverlike
 friezer
 fluorine
-flappier
 fiatconfirmatio
 ferrer
 funeralize
@@ -5923,6 +5922,7 @@ fortunes
 fitz
 farine
 flagfish
+flappier
 floatsmen
 farthingale
 forestem
