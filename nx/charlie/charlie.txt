@@ -5381,7 +5381,6 @@ cultures
 cassocks
 chamberlain
 cuspidated
-compotiers
 cochleated
 cystidean
 chariotway
@@ -18494,6 +18493,7 @@ changeling
 castelli
 churner
 cognoscing
+compotiers
 cognoscitive
 cognovit
 coude
