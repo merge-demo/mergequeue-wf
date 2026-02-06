@@ -1809,7 +1809,6 @@ downwarp
 drouthy
 dewberry
 doughnut
-debellator
 drivelling
 desmognathous
 darapti
@@ -12164,6 +12163,7 @@ detergency
 ducts
 demarcation
 debriefs
+debellator
 disestablishing
 diminuent
 disreputed
