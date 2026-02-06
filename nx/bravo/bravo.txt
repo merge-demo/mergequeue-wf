@@ -9876,7 +9876,6 @@ beliquored
 barrels
 bucranium
 beamy
-blanketer
 birkie
 bressummer
 beworried
@@ -16633,6 +16632,7 @@ bubblement
 bullshitting
 brawny
 biseptate
+blanketer
 banderoled
 brisky
 beggaring
