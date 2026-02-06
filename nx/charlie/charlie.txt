@@ -13410,6 +13410,7 @@ coffered
 cicuta
 classifications
 cicutoxin
+configurational
 cidaris
 clusiaceous
 cheatrie
@@ -20846,7 +20847,6 @@ cowpea
 clapperclawer
 communicatively
 counterstream
-configurational
 cerebropontile
 compoed
 cabiri
