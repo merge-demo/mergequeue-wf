@@ -3379,7 +3379,6 @@ fullmouthedly
 fandom
 fulcra
 figworm
-flon
 furmenty
 fidge
 fress
@@ -11541,6 +11540,7 @@ flecklessly
 frugal
 furlable
 fabling
+flon
 flytier
 fictionize
 fossilising
