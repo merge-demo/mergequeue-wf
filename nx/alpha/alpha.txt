@@ -203,7 +203,6 @@ abolishments
 acridyl
 ambystomidae
 antihidrotic
-avidous
 anthropomorphidae
 acroclinium
 apotactite
@@ -17946,6 +17945,7 @@ approbative
 approbativeness
 afley
 absorbents
+avidous
 apprompt
 aloud
 appropinquate
