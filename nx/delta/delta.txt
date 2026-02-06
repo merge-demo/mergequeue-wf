@@ -3569,7 +3569,6 @@ defusion
 dingles
 danke
 dermatotome
-dissheathe
 dehwar
 defuze
 disenclose
@@ -5426,6 +5425,7 @@ deoppilate
 dominions
 dep
 doss
+dissheathe
 decolouriser
 deregister
 disenablement
