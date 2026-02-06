@@ -6339,7 +6339,6 @@ greyed
 gummage
 gymnolaemata
 gloriosa
-gippo
 gunj
 gigaherz
 goclenian
@@ -7837,6 +7836,7 @@ gardenly
 geraldine
 globefishes
 gynaecocratic
+gippo
 gonglike
 gurneys
 guests
