@@ -1357,7 +1357,6 @@ emasculates
 evaginable
 evernioid
 ellipsis
-elderling
 enthymematic
 exhilarated
 exumbrellar
@@ -6613,6 +6612,7 @@ esothyropexy
 excusive
 epipterous
 efferent
+elderling
 embattled
 enorthotrope
 estoppels
