@@ -2285,7 +2285,6 @@ feverbush
 filamentiferous
 fantails
 folktale
-fulmineous
 forbite
 fusing
 fragging
@@ -9907,6 +9906,7 @@ forefending
 frontager
 furilic
 frozenly
+fulmineous
 fibropericarditis
 filibusters
 floured
