@@ -1482,6 +1482,7 @@ calyptriform
 calyptrimorphous
 coracoscapular
 cervicoaxillary
+chimu
 ceriornis
 carnosin
 calisayas
@@ -5091,7 +5092,6 @@ carver
 copaibic
 chasers
 carvership
-chimu
 cuisten
 carves
 carving
