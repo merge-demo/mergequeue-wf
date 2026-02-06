@@ -1967,7 +1967,6 @@ gelatinously
 glycid
 gams
 gargil
-gaurian
 ginnings
 gaussage
 gaskings
@@ -9212,6 +9211,7 @@ greened
 gazetteer
 gripping
 genupectoral
+gaurian
 griffonage
 grade
 glycocin
