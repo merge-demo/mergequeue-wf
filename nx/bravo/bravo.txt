@@ -4956,7 +4956,6 @@ bindable
 brevets
 beefburgers
 beefeater
-beefeaters
 buccin
 builtin
 bepride
@@ -6580,6 +6579,7 @@ berberid
 baptanodon
 bouncy
 bamming
+beefeaters
 bard
 bundoc
 bedevilled
