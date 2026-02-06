@@ -1149,7 +1149,6 @@ fluavile
 felonry
 fitted
 flippers
-forefends
 flockling
 flagrance
 florulas
@@ -5226,6 +5225,7 @@ fetalization
 funny
 federarie
 fervours
+forefends
 favour
 farsakh
 flatulency
