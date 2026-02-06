@@ -1563,6 +1563,7 @@ forepayment
 fauvette
 flowcontrol
 fishbowl
+footages
 futural
 fliest
 fauvisms
@@ -5654,7 +5655,6 @@ familist
 fossilation
 flyer
 fluxionist
-footages
 forwhy
 fail
 forfar
