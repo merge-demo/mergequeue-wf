@@ -3213,7 +3213,6 @@ forbears
 firma
 fauns
 fitched
-flaggelated
 flouse
 foxite
 fices
@@ -8175,6 +8174,7 @@ foundlings
 fingerboards
 fuliginous
 foreverness
+flaggelated
 foregoes
 foederatus
 franzy
