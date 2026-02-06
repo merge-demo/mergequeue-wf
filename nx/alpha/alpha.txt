@@ -17627,7 +17627,6 @@ aquotize
 appetibleness
 acinaces
 appetiser
-acknowledging
 atlantad
 alerted
 aviate
@@ -24917,6 +24916,7 @@ aponeurotome
 anarchosocialist
 algaeologist
 avuncular
+acknowledging
 arthrodial
 arundinaria
 assimilate
