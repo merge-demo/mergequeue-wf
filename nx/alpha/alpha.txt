@@ -1493,6 +1493,7 @@ astraeid
 agreeingly
 acclivous
 accolades
+aphaeresis
 amp
 antirational
 accolle
@@ -8764,7 +8765,6 @@ allochlorophyll
 antigropelos
 allochroic
 anticosmetic
-aphaeresis
 aeolodicon
 allochthon
 antlike
