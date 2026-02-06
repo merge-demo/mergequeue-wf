@@ -2031,7 +2031,6 @@ gliridae
 gownsman
 grandsire
 gastrocele
-gavelocks
 gattine
 galactosuria
 gasometrically
@@ -6984,6 +6983,7 @@ greystone
 gladiatorship
 gumlah
 galvanocontractility
+gavelocks
 glaucolite
 gregorianizer
 guirlande
