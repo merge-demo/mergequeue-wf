@@ -10479,7 +10479,6 @@ biune
 bastion
 brusquerie
 bimuscular
-bandgap
 bullyism
 boyards
 barytostrontianite
@@ -16400,6 +16399,7 @@ benchmarking
 brujos
 beglerbeglik
 broadways
+bandgap
 biter
 brulee
 breathily
