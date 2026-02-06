@@ -2611,6 +2611,7 @@ fattier
 flavouring
 fouty
 flossiness
+falsettos
 franchiser
 frogstool
 flecnode
@@ -3999,7 +4000,6 @@ foreshown
 funneled
 flued
 fimbria
-falsettos
 feods
 footsteps
 founders
