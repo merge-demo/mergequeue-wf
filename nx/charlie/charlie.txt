@@ -4510,7 +4510,6 @@ catabolite
 carl
 camassia
 coprincipate
-caseates
 cert
 carli
 culturological
@@ -17723,6 +17722,7 @@ containerized
 cochleae
 cochlear
 cochleariform
+caseates
 counterstimulate
 chaetochloa
 cocksfoot
