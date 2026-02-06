@@ -5667,6 +5667,7 @@ disordered
 defoliating
 droppage
 deplenish
+despecialization
 depleteable
 decapodan
 ducape
@@ -6916,7 +6917,6 @@ decadation
 despatches
 deoxidise
 dichloramine
-despecialization
 disembarrassed
 distilleries
 dispute
