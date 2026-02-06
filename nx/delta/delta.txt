@@ -3364,6 +3364,7 @@ deflagrable
 desophistication
 decolor
 dephlogisticate
+dyads
 disrestore
 dynagraph
 dithionate
@@ -8917,7 +8918,6 @@ daunomycin
 doorposts
 dicentras
 demonstrativeness
-dyads
 defiatory
 dmod
 dioptidae
