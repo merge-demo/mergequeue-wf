@@ -3124,7 +3124,6 @@ galumphing
 guignardia
 grangousier
 garlandry
-gastroelytrotomy
 ghassanid
 guacacoa
 greedygut
@@ -8589,6 +8588,7 @@ genteelest
 griped
 goodbyes
 griffithite
+gastroelytrotomy
 galenoid
 glycide
 gastrolatrous
