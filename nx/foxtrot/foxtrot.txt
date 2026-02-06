@@ -2656,7 +2656,6 @@ foredeclare
 faltboat
 filigreed
 ferio
-foredevote
 farandmen
 fiants
 ferruginating
@@ -10161,6 +10160,7 @@ fennec
 functions
 furnisher
 frolicks
+foredevote
 foozling
 firedogs
 farmhands
