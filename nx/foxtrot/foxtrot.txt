@@ -3676,6 +3676,7 @@ firlot
 furnaces
 fuchsia
 fanwort
+frame
 fenagler
 figurize
 fourble
@@ -7591,7 +7592,6 @@ fallibility
 falbalas
 five
 fingerfish
-frame
 filemaking
 flamier
 fringillaceous
