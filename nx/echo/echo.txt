@@ -52,6 +52,7 @@ eardropper
 euchromosome
 epigraphic
 earflap
+ectrosyndactyly
 expender
 excites
 electroretinograph
@@ -981,7 +982,6 @@ eluvia
 etymologisable
 erogenesis
 elects
-ectrosyndactyly
 earring
 endopericarditis
 eyedroppers
