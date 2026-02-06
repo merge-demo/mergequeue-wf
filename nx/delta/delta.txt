@@ -7377,7 +7377,6 @@ detonations
 daishiki
 dominicale
 dusking
-demean
 deewan
 dictynidae
 droskies
@@ -16471,6 +16470,7 @@ disfavouring
 diastole
 dungan
 dradge
+demean
 dilutions
 discloister
 dismalize
