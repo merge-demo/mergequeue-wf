@@ -7003,7 +7003,6 @@ forewarnings
 freshmen
 fluxroot
 fastball
-finitary
 facilely
 fohns
 farthingales
@@ -8683,6 +8682,7 @@ footing
 fellatory
 flawed
 fillebeg
+finitary
 fumistery
 foretastes
 figurativeness
