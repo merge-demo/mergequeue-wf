@@ -1240,6 +1240,7 @@ fatuities
 freieslebenite
 foreignization
 funkias
+firing
 fellaheen
 fishworks
 furbishment
@@ -9664,7 +9665,6 @@ frieseite
 floridly
 frailest
 fleabugs
-firing
 featherbone
 firemaster
 forlet
