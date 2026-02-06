@@ -6074,6 +6074,7 @@ glamorous
 grizelin
 guly
 gonzo
+goniatite
 gallature
 grinding
 gastrogastrotomy
@@ -6162,7 +6163,6 @@ grihastha
 goatroot
 groveling
 goal
-goniatite
 graphicness
 grandmotherliness
 goyin
