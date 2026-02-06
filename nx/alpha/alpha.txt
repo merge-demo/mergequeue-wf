@@ -4181,7 +4181,6 @@ awakenings
 autogenous
 adoration
 adoratory
-agatelike
 acquisita
 adorers
 advises
@@ -23591,6 +23590,7 @@ astrobotany
 alvin
 approximate
 arrythmically
+agatelike
 aglucone
 antherid
 alinit
