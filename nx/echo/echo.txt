@@ -9090,6 +9090,7 @@ englishable
 epicyclic
 europeans
 escharotic
+endlessly
 entirety
 errs
 enbranglement
@@ -11574,7 +11575,6 @@ effigy
 electromyogram
 emendate
 engouled
-endlessly
 embryoma
 evincible
 ectopterygoid
