@@ -823,7 +823,6 @@ ecroulement
 emydidae
 enolizing
 extramedullary
-eolotropic
 egestive
 expedition
 enfeebling
@@ -11729,6 +11728,7 @@ equiangle
 estimate
 ethnical
 exaestuate
+eolotropic
 eyeball
 erept
 ectomesoblast
