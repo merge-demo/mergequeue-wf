@@ -8387,7 +8387,6 @@ gulfing
 gyroceras
 geoblast
 gaize
-guru
 ganoid
 granites
 genro
@@ -9743,6 +9742,7 @@ ghostlier
 gawm
 gruffier
 greased
+guru
 gyarung
 gallinuline
 grugous
