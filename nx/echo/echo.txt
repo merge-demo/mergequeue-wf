@@ -3607,7 +3607,6 @@ extrusile
 essential
 enframes
 embassage
-epepophysial
 echelons
 etheric
 embarras
@@ -12294,6 +12293,7 @@ exempted
 essenical
 exemption
 essenhout
+epepophysial
 entremess
 errorless
 eviternal
