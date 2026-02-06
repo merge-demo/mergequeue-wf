@@ -3242,7 +3242,6 @@ edict
 extortionists
 epiplastral
 eclipsis
-exhaustiveness
 euphoria
 entoptical
 eurhythmics
@@ -9945,6 +9944,7 @@ eclosions
 electroosmotically
 excitably
 estrayed
+exhaustiveness
 ectropion
 embarks
 epididymodeferential
