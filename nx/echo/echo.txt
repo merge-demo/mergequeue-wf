@@ -1300,6 +1300,7 @@ eightling
 exfiltrate
 emperors
 eschynite
+expiscator
 emissions
 eking
 eyelessness
@@ -10582,7 +10583,6 @@ epitaxy
 edwardsiidae
 eviscerator
 ephebeubea
-expiscator
 epitoxoid
 epistolized
 endogenic
