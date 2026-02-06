@@ -5766,6 +5766,7 @@ flype
 feoffeeship
 feodaries
 farinometer
+firebed
 feltness
 franchise
 foglietto
@@ -6604,7 +6605,6 @@ figurant
 flightful
 freewoman
 footlockers
-firebed
 forecover
 flytime
 fluotantalate
