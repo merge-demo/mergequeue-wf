@@ -6659,6 +6659,7 @@ arterialization
 allomerize
 appendage
 agglutination
+adverbs
 astrophotographic
 atrioporal
 autoplasty
@@ -22072,7 +22073,6 @@ avenous
 astricting
 apophlegm
 antiaristocrat
-adverbs
 asteatosis
 asteep
 adscript
