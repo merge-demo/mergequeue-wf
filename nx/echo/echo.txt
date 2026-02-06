@@ -6741,7 +6741,6 @@ expertising
 encompasses
 entosclerite
 endogenously
-ecrevisse
 epulis
 egomanias
 espundia
@@ -10587,6 +10586,7 @@ expiscator
 epitoxoid
 epistolized
 endogenic
+ecrevisse
 engolden
 euchlorine
 ectrodactylia
