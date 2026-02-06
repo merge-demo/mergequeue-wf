@@ -2994,7 +2994,6 @@ boules
 broncholemmitis
 brassavola
 bracketed
-barrelwise
 berberins
 blizzardly
 bloodybones
@@ -14230,6 +14229,7 @@ boxerism
 bag
 bespot
 bilification
+barrelwise
 bejelled
 blackshirted
 bradyauxetically
