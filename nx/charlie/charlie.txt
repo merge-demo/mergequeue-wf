@@ -4124,7 +4124,6 @@ cardiagra
 celiolymph
 cardiagraph
 cardiagraphy
-cardial
 cardialgy
 coevals
 centaurian
@@ -23875,6 +23874,7 @@ compositeness
 controversy
 coquet
 controversialism
+cardial
 controversialist
 cardiacal
 cytotrophoblast

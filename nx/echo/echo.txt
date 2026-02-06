@@ -12027,6 +12027,7 @@ erosiveness
 expy
 enterfeat
 equatable
+exometritis
 exampleship
 essentials
 etherion
@@ -12668,7 +12669,6 @@ esophagorrhagia
 exognathite
 exogenetic
 enkolpion
-exometritis
 etuve
 epibenthos
 epitaxial
