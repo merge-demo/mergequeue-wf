@@ -14424,7 +14424,6 @@ centiare
 cowled
 crowstone
 conferrers
-crosscrosslet
 cirrocumulative
 chasmogamic
 compulsitor
@@ -18360,6 +18359,7 @@ chiming
 coffrets
 clarifiable
 coffs
+crosscrosslet
 cofighter
 cellmate
 concavation
