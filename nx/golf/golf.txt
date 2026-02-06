@@ -4100,7 +4100,6 @@ grapevine
 gaulic
 gandum
 gaufer
-greed
 gulgul
 glozing
 gratifiedly
@@ -5103,6 +5102,7 @@ glottological
 garners
 grow
 gutturalism
+greed
 grenelle
 guttural
 glassiness
