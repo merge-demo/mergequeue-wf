@@ -12896,6 +12896,7 @@ convoys
 curmurring
 churlier
 corrugations
+cryptodouble
 cowslip
 churlishness
 churm
@@ -29304,7 +29305,6 @@ conferrence
 cichlidae
 cryptodirous
 coryphene
-cryptodouble
 cryptogam
 chilitis
 cribbed
