@@ -3408,6 +3408,7 @@ brew
 besilver
 buccheros
 branchiopulmonate
+brazilite
 bassalia
 bootable
 brythonic
@@ -5907,7 +5908,6 @@ begaudy
 beggardom
 bellwether
 bellwort
-brazilite
 bldg
 boarfishes
 basimesostasis
