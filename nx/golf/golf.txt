@@ -6505,7 +6505,6 @@ gayest
 glycins
 gymnasia
 groundage
-gallivat
 grummels
 glassfish
 gulmohar
@@ -9018,6 +9017,7 @@ glory
 goodyear
 grizzling
 goethites
+gallivat
 glyconian
 gastroscopy
 gradates
