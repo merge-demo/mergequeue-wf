@@ -6691,7 +6691,6 @@ cebollite
 cebur
 crowder
 cecal
-checkweigher
 cacafugo
 cecidomyiidae
 currieries
@@ -17804,6 +17803,7 @@ charterable
 crimeless
 creagh
 cocoons
+checkweigher
 cocopan
 cocotte
 cheniller
