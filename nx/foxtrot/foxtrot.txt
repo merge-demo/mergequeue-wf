@@ -1581,6 +1581,7 @@ faulkner
 fortyfold
 frisca
 farmtown
+fernwort
 fissirostres
 facially
 farcetta
@@ -5364,7 +5365,6 @@ fulciform
 flanconade
 fretters
 flain
-fernwort
 foliolose
 fauces
 fulyie
