@@ -1086,7 +1086,6 @@ electrized
 exsheath
 enclaving
 entomologies
-eigne
 eidolon
 effigiated
 edgeshot
@@ -5548,6 +5547,7 @@ enameler
 exequatur
 enhusk
 ennuis
+eigne
 enfeeblish
 explat
 enhearse
