@@ -613,6 +613,7 @@ foreknows
 forints
 feasted
 fissirostral
+fayumic
 finders
 fumishness
 fishability
@@ -1678,7 +1679,6 @@ fluorbenzene
 faucets
 flatworm
 formaliser
-fayumic
 fernticle
 fieldmice
 fragmentation
