@@ -3566,6 +3566,7 @@ batfowl
 batfowled
 batfowls
 bulbocavernosus
+bielid
 bidget
 bumfuzzle
 brookites
@@ -13536,7 +13537,6 @@ blockpate
 berberine
 barometrography
 blundered
-bielid
 bouchette
 bichromate
 becramp
