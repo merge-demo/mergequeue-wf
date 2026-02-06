@@ -8272,6 +8272,7 @@ friction
 forging
 forgings
 formicivorous
+folklorism
 figgy
 freelances
 fistularioid
@@ -10556,7 +10557,6 @@ fierceness
 fewness
 fusiliers
 freemasonical
-folklorism
 frowners
 faciend
 freq
