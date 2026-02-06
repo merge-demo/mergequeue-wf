@@ -5326,6 +5326,7 @@ enjewel
 everglades
 endospore
 encharm
+endome
 epiphyte
 emetin
 epitaxies
@@ -8171,7 +8172,6 @@ epididymite
 earaches
 enew
 erythrite
-endome
 encarditis
 exhumator
 episclera
