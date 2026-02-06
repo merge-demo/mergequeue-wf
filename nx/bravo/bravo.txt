@@ -2071,7 +2071,6 @@ bankcard
 bethought
 banky
 bailiaries
-banknote
 bookseller
 biophysicist
 brasserie
@@ -17618,6 +17617,7 @@ biotically
 bicentenarnaries
 barbacou
 bodyguard
+banknote
 beautified
 benumb
 basipterygoid
