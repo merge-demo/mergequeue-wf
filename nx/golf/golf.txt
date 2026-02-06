@@ -279,7 +279,6 @@ geet
 geobotany
 ganjas
 gaminesque
-gaist
 governors
 giles
 garnison
@@ -8275,6 +8274,7 @@ grantee
 grill
 grillades
 gelders
+gaist
 granam
 graphitize
 genitocrural
