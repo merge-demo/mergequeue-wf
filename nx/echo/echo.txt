@@ -5980,7 +5980,6 @@ enigmata
 eluvial
 exquisite
 eosins
-etourderie
 exdelicto
 enigmatist
 epotation
@@ -6819,6 +6818,7 @@ echoized
 entiris
 earlier
 epiloguize
+etourderie
 extinguishing
 electronically
 eschevin
