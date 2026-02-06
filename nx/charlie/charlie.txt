@@ -2654,7 +2654,6 @@ contendent
 counterstatement
 canfields
 cantillating
-cangan
 cruelhearted
 clumsiness
 crankdisk
@@ -11272,6 +11271,7 @@ carlin
 clovered
 chlorimeter
 coped
+cangan
 chlorimetric
 chlorinated
 chimers
