@@ -1396,6 +1396,7 @@ caliduct
 calif
 cessio
 carpetwoven
+chocolate
 consolable
 california
 chinos
@@ -11468,7 +11469,6 @@ chocks
 chocoan
 ciliates
 checkering
-chocolate
 chine
 contriteness
 ceinte
