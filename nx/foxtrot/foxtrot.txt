@@ -2184,7 +2184,6 @@ flectional
 feverless
 falsities
 funnels
-felonwort
 floozies
 flatterdock
 fertilizing
@@ -11068,6 +11067,7 @@ funambule
 fedia
 forgathered
 files
+felonwort
 filled
 fixups
 fogbow
