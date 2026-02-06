@@ -3885,7 +3885,6 @@ espriella
 enring
 extrathermodynamic
 enthelminthic
-eaters
 ecthymata
 emboweler
 estamene
@@ -8237,6 +8236,7 @@ eequinoctium
 enroots
 earth
 expirant
+eaters
 ethonone
 encyclical
 episodical
