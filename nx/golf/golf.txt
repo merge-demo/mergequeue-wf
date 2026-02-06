@@ -5427,7 +5427,6 @@ galleria
 grimmer
 galopade
 glum
-gremmy
 glimmeringly
 gesticulatory
 garveys
@@ -8601,6 +8600,7 @@ genealogical
 gestic
 ground
 geodiferous
+gremmy
 gibbeting
 gaufrettes
 gastronomics

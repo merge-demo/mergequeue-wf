@@ -6301,7 +6301,6 @@ benson
 becowarding
 becassine
 bentgrass
-benthos
 besmiling
 beshames
 blastogenic
@@ -16120,6 +16119,7 @@ belittler
 bowknot
 breechclout
 bedsock
+benthos
 bialis
 bathoses
 bratchet
