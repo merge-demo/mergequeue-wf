@@ -6760,6 +6760,7 @@ gamier
 gyroscope
 genericness
 germs
+gnathostome
 gytling
 greenrooms
 ganam
@@ -9912,7 +9913,6 @@ granulate
 guanin
 geisha
 granate
-gnathostome
 glandered
 ghoom
 gradationally
