@@ -1082,7 +1082,6 @@ exect
 edgar
 erraticness
 ecanda
-edgeboned
 eringos
 electrized
 exsheath
@@ -11305,6 +11304,7 @@ empowers
 empyreans
 enclothe
 evangelistary
+edgeboned
 enthronements
 enamor
 enthronized
