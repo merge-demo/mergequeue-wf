@@ -1069,7 +1069,6 @@ bailiwicks
 blitzbuggy
 bolete
 babyhouse
-bediaper
 bawley
 bedelve
 burfish
@@ -4541,6 +4540,7 @@ beprose
 brokes
 buffering
 brilliantly
+bediaper
 borocalcite
 bastonite
 bifolia
