@@ -1191,7 +1191,6 @@ acanthocephalous
 alfoncino
 anaerobian
 acanthocladous
-acanthodean
 abbots
 alabastoi
 agalmatolite
@@ -18576,6 +18575,7 @@ atomical
 arctogaean
 allopathy
 allurer
+acanthodean
 antitragi
 aperch
 araminta
