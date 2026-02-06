@@ -7589,7 +7589,6 @@ bunnell
 belimousined
 blowpit
 beguilingly
-bandolier
 bandwagons
 beloam
 brevetted
@@ -11025,6 +11024,7 @@ bulldoze
 botaurinae
 branchedness
 barlow
+bandolier
 blithe
 bratina
 bhaiachara
