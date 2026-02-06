@@ -3634,7 +3634,6 @@ flenches
 freedstool
 forgetable
 fractabling
-foreskirt
 fixates
 fenceful
 florigraphy
@@ -10503,6 +10502,7 @@ farce
 fleet
 fwd
 fisted
+foreskirt
 flche
 forgettable
 frontstall
