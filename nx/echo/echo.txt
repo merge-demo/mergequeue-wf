@@ -3653,6 +3653,7 @@ enplane
 electrometallurgist
 euchlaena
 encraal
+eelier
 embossage
 epistylar
 embossed
@@ -9079,7 +9080,6 @@ explanate
 epizooty
 emptier
 erythrocytolysis
-eelier
 enhypostasis
 evocatively
 etnean
