@@ -15364,6 +15364,7 @@ cappella
 charioteers
 clangoured
 clangouring
+canberra
 campings
 clangours
 clangs
@@ -31035,7 +31036,6 @@ caprocks
 cumsha
 cyclones
 cumulate
-canberra
 chloralism
 cumulated
 computerized
