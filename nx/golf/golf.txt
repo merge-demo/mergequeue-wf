@@ -1957,7 +1957,6 @@ greywacke
 glairs
 garnishments
 glamor
-gallamine
 gimbal
 grubroot
 grudged
@@ -7872,6 +7871,7 @@ grovelled
 gradgrindish
 guhayna
 goatskin
+gallamine
 glumpier
 gileno
 greylags
