@@ -3510,7 +3510,6 @@ figgiest
 frayn
 fanfares
 frostfishes
-forepart
 foreseason
 foreinstruct
 fighteress
@@ -11516,6 +11515,7 @@ fubby
 frisco
 foretopmen
 flamenship
+forepart
 fireflaught
 filmsetting
 fistic
