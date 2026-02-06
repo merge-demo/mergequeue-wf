@@ -4936,6 +4936,7 @@ ephemerons
 east
 extradictable
 extradomestic
+estonians
 endamoebidae
 equations
 electioneer
@@ -9053,7 +9054,6 @@ ectethmoid
 espionage
 ethmyphitis
 equivalue
-estonians
 echinulation
 evertor
 exulcerative
