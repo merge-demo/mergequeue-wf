@@ -3042,6 +3042,7 @@ actinometrical
 actinometricy
 actinomyces
 areche
+amplitude
 acleistocardia
 adelops
 autochton
@@ -12805,7 +12806,6 @@ anglewise
 ammites
 asteraceous
 aasvogels
-amplitude
 anglian
 apportionment
 anglicanisms
