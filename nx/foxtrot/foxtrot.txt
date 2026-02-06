@@ -2883,7 +2883,6 @@ faddish
 forebemoan
 feltyfare
 fisty
-forenent
 finable
 foresails
 flurry
@@ -11121,6 +11120,7 @@ fundamentalist
 fiords
 furcellate
 fistful
+forenent
 fiendlier
 flintwood
 flops
