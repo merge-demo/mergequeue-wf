@@ -8006,7 +8006,6 @@ fleying
 fallency
 forecooler
 frontispiecing
-foeture
 falloff
 frumpled
 flatteur
@@ -10921,6 +10920,7 @@ flowe
 forge
 flavone
 freer
+foeture
 ferreiro
 fub
 foehn
