@@ -361,6 +361,7 @@ electress
 eulogia
 expedient
 exanthems
+electrodiagnostically
 ethynyls
 exports
 entomol
@@ -10034,7 +10035,6 @@ electrode
 espoused
 enseem
 epanastrophe
-electrodiagnostically
 electrodiagnostic
 ethanal
 esoterical
