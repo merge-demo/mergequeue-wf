@@ -6514,7 +6514,6 @@ glycogenosis
 grassation
 ghis
 gunster
-geotherm
 grays
 gratinate
 gynecomaniacal
@@ -7968,6 +7967,7 @@ gentianales
 gulosities
 goniatitidae
 gooseberries
+geotherm
 grandad
 glandula
 goggling
