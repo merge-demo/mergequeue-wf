@@ -1830,7 +1830,6 @@ declaratory
 daunted
 douvecot
 dorsale
-dudgeon
 deblaterate
 daubries
 dehydrogenisation
@@ -2298,6 +2297,7 @@ defensory
 depursement
 dishwash
 dismounted
+dudgeon
 dekaparsec
 ditrigonal
 danglement
