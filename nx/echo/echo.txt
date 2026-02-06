@@ -3972,7 +3972,6 @@ extemporiser
 enstate
 emory
 edge
-estella
 escapologist
 elegancies
 emirate
@@ -6418,6 +6417,7 @@ expugn
 ethinyls
 embezzler
 endopod
+estella
 elingued
 enzymatic
 engineering
