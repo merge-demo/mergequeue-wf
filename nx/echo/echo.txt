@@ -2743,7 +2743,6 @@ emulsoidal
 ericolin
 exercise
 emanations
-embellish
 elderwort
 echinus
 espaliered
@@ -5030,6 +5029,7 @@ emplane
 epichindrotic
 episiotomy
 erythrolysis
+embellish
 equerry
 enrolled
 extraordinaries
