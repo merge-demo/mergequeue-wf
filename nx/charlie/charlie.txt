@@ -19869,6 +19869,7 @@ cometlike
 cometography
 cometology
 calycanthaceous
+checksummed
 comets
 ceral
 comeuppances
@@ -24430,7 +24431,6 @@ cooperia
 cooperies
 coopering
 computable
-checksummed
 caroli
 cocaines
 coopers
