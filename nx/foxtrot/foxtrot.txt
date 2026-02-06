@@ -2731,7 +2731,6 @@ foldure
 feeler
 filaze
 fervence
-fractionally
 fortnightlies
 ferventness
 fishify
@@ -8548,6 +8547,7 @@ farctate
 flapped
 forehatchway
 feltwork
+fractionally
 figs
 funambulic
 formulated
