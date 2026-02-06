@@ -2227,6 +2227,7 @@ facetious
 finiglacial
 funge
 foredeserved
+forego
 finjan
 fanal
 frederick
@@ -7684,7 +7685,6 @@ feyness
 foregleam
 forst
 ferly
-forego
 feudatory
 fables
 fecundative
