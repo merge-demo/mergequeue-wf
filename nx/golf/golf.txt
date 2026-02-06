@@ -3202,7 +3202,6 @@ gio
 genetous
 gymslip
 gambled
-gory
 gauche
 globosely
 gepidae
@@ -8240,6 +8239,7 @@ gied
 grim
 gem
 greaseproof
+gory
 grapeskin
 gelototherapy
 gangliest
