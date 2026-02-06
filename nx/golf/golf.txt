@@ -2621,6 +2621,7 @@ gudgeoned
 gastrocoele
 glow
 geomancer
+gentianal
 garg
 germantown
 genetika
@@ -6946,7 +6947,6 @@ grayfly
 galatians
 gonium
 grx
-gentianal
 geometrised
 grinter
 geostatics
