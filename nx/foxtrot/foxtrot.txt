@@ -1091,7 +1091,6 @@ fleshhood
 foundryman
 fofarraw
 farreachingly
-figuresome
 flameproofer
 fontinalaceous
 fam
@@ -5815,6 +5814,7 @@ foosterer
 fishweed
 fastiia
 frontis
+figuresome
 farced
 fraternate
 ferule
