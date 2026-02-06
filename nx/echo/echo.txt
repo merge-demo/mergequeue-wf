@@ -5421,7 +5421,6 @@ excrescences
 ectene
 earthtongue
 endpoints
-eukairite
 economism
 endrudge
 extrabulbar
@@ -10349,6 +10348,7 @@ empiecement
 epifocal
 excerptive
 exosmic
+eukairite
 extemporise
 exaggerative
 ethonomics
