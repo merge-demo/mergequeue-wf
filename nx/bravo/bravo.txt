@@ -2114,6 +2114,7 @@ backgeared
 brombenzyl
 barefooted
 byzantine
+bristle
 bannat
 baulky
 bannerline
@@ -8875,7 +8876,6 @@ brustling
 bodybending
 balsamiferous
 braeface
-bristle
 binomenclature
 binomially
 bloodsuckers
