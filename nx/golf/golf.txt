@@ -6268,7 +6268,6 @@ garua
 guttation
 galidia
 gconv
-gymnoceratous
 gentle
 gulpin
 gendarmery
@@ -10281,6 +10280,7 @@ gibblegabble
 gradatim
 galvanomagnet
 grasshopperdom
+gymnoceratous
 galliambus
 gerrymanderer
 gigantically
