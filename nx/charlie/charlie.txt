@@ -2800,6 +2800,7 @@ cannister
 cannisters
 crystallographically
 convally
+coumarins
 cannonaded
 cohorts
 cannonading
@@ -26572,7 +26573,6 @@ coumaric
 calopogon
 celluloided
 coumarilic
-coumarins
 coadventure
 copal
 coumarone
