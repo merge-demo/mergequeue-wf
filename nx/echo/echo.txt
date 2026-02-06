@@ -5821,7 +5821,6 @@ esculic
 egyptologer
 embraces
 engrammic
-exemplariness
 exalte
 engouement
 embolization
@@ -12882,6 +12881,7 @@ evacuators
 erected
 enterokinase
 embarked
+exemplariness
 expandable
 enlisting
 escropulo
