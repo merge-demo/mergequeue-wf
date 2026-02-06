@@ -8231,7 +8231,6 @@ felines
 festering
 fusains
 fireplaces
-fluidize
 fluidally
 forficulidae
 formicary
@@ -9563,6 +9562,7 @@ futurize
 flancards
 fulk
 frontomaxillary
+fluidize
 febrific
 freaky
 fliffus
