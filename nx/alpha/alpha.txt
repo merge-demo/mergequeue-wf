@@ -2250,7 +2250,6 @@ aequi
 arecaine
 australia
 achromatosis
-ankerhold
 akinesia
 accountancy
 acyrological
@@ -3206,6 +3205,7 @@ alpist
 ametrous
 actionless
 activation
+ankerhold
 actuation
 acturience
 abnegators
