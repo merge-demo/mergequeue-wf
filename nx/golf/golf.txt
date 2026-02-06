@@ -2769,7 +2769,6 @@ gyne
 ghana
 grist
 guzzledom
-garblings
 gathers
 galvanometer
 gazettal
@@ -9603,6 +9602,7 @@ gerbe
 goniostat
 geums
 gedanite
+garblings
 gonoblastidium
 graphite
 gladder
