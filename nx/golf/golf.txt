@@ -4282,7 +4282,6 @@ gelidness
 gorgonia
 gallowsness
 grugrus
-gyrinidae
 gelsemia
 goldseed
 goldbeating
@@ -5335,6 +5334,7 @@ gimps
 gorgonising
 gammaroid
 gilgai
+gyrinidae
 germanesque
 goodman
 galloflavin
