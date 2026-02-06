@@ -4800,7 +4800,6 @@ frouncing
 flo
 flutidae
 furtherest
-fiddleneck
 ficche
 floorward
 feuillage
@@ -8483,6 +8482,7 @@ fuzztail
 formularizing
 frontierman
 factorizing
+fiddleneck
 fumado
 frow
 figment
