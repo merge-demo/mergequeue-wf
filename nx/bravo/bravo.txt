@@ -5218,7 +5218,6 @@ broideries
 breastpin
 blastodisk
 bullwhacker
-boardmanship
 bachelry
 beleed
 behoove
@@ -16691,6 +16690,7 @@ bayamo
 bombazet
 buckberry
 blackbeard
+boardmanship
 bering
 broilers
 buckboards

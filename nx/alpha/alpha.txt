@@ -2907,7 +2907,6 @@ assaultive
 acrostic
 accidentiality
 anacromyodian
-armamentary
 advisive
 albugineous
 acrostical
@@ -17509,6 +17508,7 @@ appearer
 appearers
 aseismicity
 absoluter
+armamentary
 alclad
 autonomic
 anhydrize
