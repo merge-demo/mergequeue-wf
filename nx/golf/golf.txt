@@ -3437,7 +3437,6 @@ gallicize
 gyromancy
 gainless
 glaucomatous
-gentisate
 geometrized
 glossolaryngeal
 gourmets
@@ -6428,6 +6427,7 @@ gnomonia
 gazes
 gouger
 gelates
+gentisate
 guineapig
 golden
 gordian
