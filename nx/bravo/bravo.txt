@@ -2645,6 +2645,7 @@ barberry
 bucerotinae
 barytocelestite
 barytons
+brigue
 bowable
 bears
 brittlely
@@ -13225,7 +13226,6 @@ borzoi
 bastardised
 boschneger
 boneen
-brigue
 bender
 bedkey
 begemmed
