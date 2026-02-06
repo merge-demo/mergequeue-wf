@@ -5410,7 +5410,6 @@ erthling
 electively
 evangelium
 endotys
-enhardy
 endotracheal
 empresario
 ecclesial
@@ -8350,6 +8349,7 @@ electrolyzability
 emigre
 embryonated
 eluxate
+enhardy
 epigyny
 embitter
 epistemic
