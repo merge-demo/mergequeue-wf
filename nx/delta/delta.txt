@@ -6215,7 +6215,6 @@ deals
 discontentment
 derma
 devilbird
-depleted
 damascened
 declaimed
 dactylioglyphist
@@ -9417,6 +9416,7 @@ djinni
 duplicator
 diffusers
 diffuses
+depleted
 danaidean
 demilitarizing
 defame
