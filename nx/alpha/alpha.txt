@@ -23057,6 +23057,7 @@ att
 attacca
 adjuring
 absences
+abdali
 automatist
 amphibolite
 antiperistaltic
@@ -24104,7 +24105,6 @@ appreciations
 autoecy
 airman
 affirm
-abdali
 aedilities
 autoecic
 autonavigators
