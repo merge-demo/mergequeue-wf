@@ -3606,6 +3606,7 @@ adatom
 adenitis
 anticeremonious
 asthenies
+aerugos
 allobar
 alces
 anomaloscope
@@ -5745,7 +5746,6 @@ agallop
 autophyte
 agee
 armouries
-aerugos
 acromegalia
 archiannelida
 ageisms
