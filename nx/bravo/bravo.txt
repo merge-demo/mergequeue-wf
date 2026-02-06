@@ -231,6 +231,7 @@ bestowable
 bdellid
 betonica
 bactrites
+brimfullness
 bathyanesthesia
 bachelorette
 beforesaid
@@ -15470,7 +15471,6 @@ brilliolette
 brills
 baculites
 byssoid
-brimfullness
 blazon
 brodeglass
 blushfulness
