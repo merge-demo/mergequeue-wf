@@ -5442,7 +5442,6 @@ bedin
 betwit
 behammer
 bacula
-bange
 besets
 betroths
 bronchium
@@ -12658,6 +12657,7 @@ bills
 blackballer
 bigeminal
 billposting
+bange
 braccate
 bakshaish
 beshag
