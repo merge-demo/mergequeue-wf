@@ -6102,7 +6102,6 @@ classical
 coversine
 cathud
 cretification
-catydid
 cyrtostyle
 counterhypothesis
 cesspits
@@ -6214,6 +6213,7 @@ cattlebush
 coadequate
 cattlefold
 chatellany
+catydid
 cicely
 cancan
 cattleyak
