@@ -2444,7 +2444,6 @@ becalms
 baidarka
 banditry
 botflies
-bardlike
 blunter
 barkiest
 bazar
@@ -13914,6 +13913,7 @@ bowings
 burglarproof
 blad
 bluefishes
+bardlike
 bauno
 bitbrace
 bioelectricities
