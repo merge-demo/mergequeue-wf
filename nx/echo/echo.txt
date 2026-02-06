@@ -703,7 +703,6 @@ excitonic
 exsertion
 else
 embrangling
-exudative
 eclipsed
 exserted
 equivocacy
@@ -7225,6 +7224,7 @@ eunomianism
 earthshine
 endymion
 eposes
+exudative
 electrifier
 earnestful
 embossing
