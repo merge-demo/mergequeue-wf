@@ -5030,7 +5030,6 @@ glossers
 geotilla
 galbulidae
 gynandrosporous
-gullish
 goiabada
 grotto
 glaucousness
@@ -7254,6 +7253,7 @@ guarani
 gavages
 glabella
 gangion
+gullish
 grislier
 grabbing
 greencloth
