@@ -3896,7 +3896,6 @@ epistolographer
 encyclopediast
 empodia
 embryotroph
-eodiscid
 ergatogyne
 emerizing
 emerods
@@ -4491,6 +4490,7 @@ expropriates
 encases
 electrotechnologist
 exsection
+eodiscid
 exaggerator
 extemporaneousness
 eczematous
