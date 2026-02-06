@@ -11231,7 +11231,6 @@ bronchiloquy
 boulevardiers
 bumpkinish
 bicyclists
-bacteremic
 burgraviate
 blaws
 bother
@@ -11829,6 +11828,7 @@ benefactrixes
 boccie
 bandala
 backstring
+bacteremic
 baron
 bobberies
 borax
