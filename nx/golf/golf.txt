@@ -140,7 +140,6 @@ galipot
 graniteware
 ghettoized
 gnomonology
-gorgonian
 gremiale
 galvanosurgery
 genevoise
@@ -4008,6 +4007,7 @@ gouter
 gesticulates
 gansey
 greenest
+gorgonian
 gellert
 genies
 gildhall
