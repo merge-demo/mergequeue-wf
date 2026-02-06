@@ -818,7 +818,6 @@ gamdeboo
 gonfaloniership
 glist
 genteelism
-gentlewomanly
 grece
 gawkiness
 gonolobus
@@ -10844,6 +10843,7 @@ gynandromorphous
 guzul
 gestures
 grailer
+gentlewomanly
 granddaddy
 gymnasiarch
 grumps
