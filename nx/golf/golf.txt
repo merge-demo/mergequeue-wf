@@ -2608,7 +2608,6 @@ glossosteresis
 granulater
 garabato
 gastrocolic
-glycohemia
 goldfish
 geswarp
 gripgrass
@@ -4134,6 +4133,7 @@ galeidae
 genitivally
 geographers
 gibingly
+glycohemia
 gringo
 gnars
 gyrencephalic
