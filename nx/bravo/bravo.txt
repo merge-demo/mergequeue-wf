@@ -6656,6 +6656,7 @@ bagass
 britannia
 ballo
 barricado
+barse
 bergman
 beletter
 bergs
@@ -11339,7 +11340,6 @@ borofluohydric
 bipunctate
 blowse
 bargeman
-barse
 baith
 boards
 bespoused
