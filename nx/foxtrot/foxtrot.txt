@@ -3535,6 +3535,7 @@ forbare
 foe
 fluosilicic
 frequently
+forecome
 fordays
 foetalism
 floorhead
@@ -9281,7 +9282,6 @@ femality
 fichat
 feretra
 feuded
-forecome
 foliolate
 fraise
 fraised
