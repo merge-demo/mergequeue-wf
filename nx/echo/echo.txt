@@ -1869,6 +1869,7 @@ ellipse
 euryprognathous
 eyeglasses
 embedding
+electroneutrality
 elinguate
 evenest
 enigmatical
@@ -5017,7 +5018,6 @@ elementality
 exauthorate
 enders
 editorialized
-electroneutrality
 evangelistics
 endgate
 enneads
