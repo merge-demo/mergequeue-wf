@@ -8480,7 +8480,6 @@ eudiagnostic
 expressionlessness
 ethopoetic
 endoglobular
-exsuction
 eurytropic
 estimations
 electroanalytic
@@ -10960,6 +10959,7 @@ evidentness
 euphorically
 excommunicate
 evoked
+exsuction
 epalpebrate
 eciliate
 exestuate
