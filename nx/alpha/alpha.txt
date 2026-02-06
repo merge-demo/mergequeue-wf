@@ -5751,7 +5751,6 @@ autophyte
 agee
 armouries
 aerugos
-assumptive
 acromegalia
 archiannelida
 ageisms
@@ -23375,6 +23374,7 @@ autolytus
 argyll
 auckland
 antenatalitial
+assumptive
 aquas
 anan
 auctor
