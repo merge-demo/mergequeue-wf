@@ -5752,7 +5752,6 @@ aerugos
 acromegalia
 archiannelida
 ageisms
-antiturnpikeism
 arithmetical
 amateur
 acquent
@@ -10352,6 +10351,7 @@ achimenes
 acanthoma
 auricyanic
 amianthus
+antiturnpikeism
 arcform
 amyatonic
 amic
