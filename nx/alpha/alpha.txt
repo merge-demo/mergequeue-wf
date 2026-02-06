@@ -13952,7 +13952,6 @@ achloropsia
 anteater
 astrologian
 achronychous
-antebaptismal
 amianthiform
 albinos
 americium
@@ -16576,6 +16575,7 @@ acalculia
 archoplasm
 apeek
 apelles
+antebaptismal
 acuminate
 amphigonic
 aythya
