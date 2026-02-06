@@ -4924,7 +4924,6 @@ bowsprits
 bewpers
 buckra
 beechen
-bostonese
 beechnut
 breakstone
 beglic
@@ -15666,6 +15665,7 @@ broaches
 buffone
 belemnid
 benzoazurine
+bostonese
 broadcast
 beakerful
 befancy
