@@ -936,6 +936,7 @@ ferrimagnetically
 farceur
 ferneries
 fusinite
+fluctuosity
 farinha
 foundry
 fourchite
@@ -8051,7 +8052,6 @@ frivolled
 flashbulb
 forestalls
 funerals
-fluctuosity
 flyleaves
 firearms
 flutterer
