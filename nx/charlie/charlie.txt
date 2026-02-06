@@ -13933,7 +13933,6 @@ contend
 cynopithecoid
 cliquism
 cynosure
-cynosures
 cynosurus
 chockman
 cynotherapy
@@ -16800,6 +16799,7 @@ chanteuses
 cloudship
 cursedest
 chalcophile
+cynosures
 cloudward
 cloudwards
 calamiferous
