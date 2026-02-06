@@ -6181,7 +6181,6 @@ anteprostatic
 analogion
 arsonic
 adyton
-acetoacetic
 autarkic
 antioptimist
 anachronically
@@ -13985,6 +13984,7 @@ anchorate
 autocatalytic
 antechoirs
 axostyle
+acetoacetic
 antecolic
 antecornu
 antecubital

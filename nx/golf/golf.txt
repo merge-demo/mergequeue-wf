@@ -3291,7 +3291,6 @@ germanification
 gadso
 gelfomino
 grimmia
-gatch
 garbage
 gravelliness
 glycosin
@@ -10364,6 +10363,7 @@ gambist
 gallflower
 garbanzos
 gyri
+gatch
 gonyalgia
 gelatiniser
 gullies
