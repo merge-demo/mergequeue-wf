@@ -1161,6 +1161,7 @@ goosefoot
 gouaree
 gantlines
 gaon
+guttated
 gastroblennorrhea
 galoch
 gnarring
@@ -8527,7 +8528,6 @@ gabling
 grouchingly
 grownups
 geomedical
-guttated
 go
 gramaphone
 guildic

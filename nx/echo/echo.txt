@@ -4107,6 +4107,7 @@ erythroderma
 eliasite
 epiphonemae
 enteroptosis
+equimolal
 empathized
 elongation
 erade
@@ -11854,7 +11855,6 @@ ectothermic
 elargement
 exists
 exauthorizeexc
-equimolal
 eplot
 electrodialyzer
 engrave
