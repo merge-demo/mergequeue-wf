@@ -2736,7 +2736,6 @@ eradicatory
 enduros
 errantry
 elmy
-electrotherapy
 electrotheraputic
 elocution
 emyds
@@ -11199,6 +11198,7 @@ exposure
 evacuants
 earthdrake
 epaulet
+electrotherapy
 eadi
 epitomatory
 epexegetical
