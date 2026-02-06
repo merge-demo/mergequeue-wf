@@ -6595,7 +6595,6 @@ bannet
 bowldering
 bladderless
 berchemia
-borachio
 babbage
 battuta
 brazenly
@@ -6693,6 +6692,7 @@ berimed
 beseemly
 berimes
 betangle
+borachio
 bacterizing
 bacillian
 ballottable
