@@ -13544,6 +13544,7 @@ bichromate
 becramp
 becursing
 borderland
+budger
 butterbough
 boatwise
 bankfull
@@ -16817,7 +16818,6 @@ blindfolding
 blackener
 barrowful
 barytones
-budger
 bagasse
 budgerow
 bowdlerizer
