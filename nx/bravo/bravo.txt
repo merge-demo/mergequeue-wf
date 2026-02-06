@@ -4063,7 +4063,6 @@ birdseeds
 beakers
 biblicoliterary
 barms
-bayou
 beakless
 brightest
 beala
@@ -8601,6 +8600,7 @@ billety
 billets
 bojo
 belis
+bayou
 biliverdic
 brainlike
 bassaris
