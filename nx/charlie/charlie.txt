@@ -2607,7 +2607,6 @@ camphires
 censuses
 canebrake
 cardioschisis
-casqued
 cementmaking
 canebrakes
 cephalodynia
@@ -5791,6 +5790,7 @@ coccidioides
 concretions
 circumcallosal
 coriin
+casqued
 cheneau
 cotonia
 catchflies
