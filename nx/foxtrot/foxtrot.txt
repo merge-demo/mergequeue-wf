@@ -339,7 +339,6 @@ feint
 fulciment
 finagles
 finials
-finochio
 flusker
 fagaceae
 flatirons
@@ -6292,6 +6291,7 @@ forhow
 flaneries
 franchises
 focusable
+finochio
 fangotherapy
 fascinative
 foambow
