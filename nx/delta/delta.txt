@@ -1963,6 +1963,7 @@ delirious
 discostate
 due
 debuted
+du
 desirable
 diced
 digametic
@@ -8112,7 +8113,6 @@ diabolise
 diabolist
 detrusive
 defrauders
-du
 deuterodome
 debarkations
 distaste
