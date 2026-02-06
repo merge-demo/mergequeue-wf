@@ -6005,7 +6005,6 @@ expatiatingly
 epigrammatised
 enjoiner
 excubant
-euonym
 embassade
 epidemiologic
 emitters
@@ -8679,6 +8678,7 @@ encirclements
 erineum
 enzymotic
 erelong
+euonym
 extractor
 enervous
 expels
