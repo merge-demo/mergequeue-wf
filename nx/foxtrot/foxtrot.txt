@@ -2491,6 +2491,7 @@ fallible
 floodmark
 forspeak
 folksiest
+fidia
 fernandinite
 fluitant
 falcopern
@@ -6059,7 +6060,6 @@ figlike
 foreplays
 farrowed
 fantasts
-fidia
 fructose
 frescoing
 fraternity
