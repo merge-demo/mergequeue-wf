@@ -5521,6 +5521,7 @@ beige
 barracudas
 backers
 bilsh
+bug
 beylic
 birdwoman
 beziques
@@ -8162,7 +8163,6 @@ biotherapy
 bioherms
 binocularity
 bourbon
-bug
 blasphemer
 botonn
 bloodhound
