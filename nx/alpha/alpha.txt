@@ -3218,7 +3218,6 @@ antizymic
 archfire
 algerita
 ayond
-anagramming
 atolls
 actuals
 aready
@@ -6403,6 +6402,7 @@ alternant
 affiancing
 ahmed
 asphalted
+anagramming
 arriccioci
 ahmedi
 aholds
