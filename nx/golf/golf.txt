@@ -2618,7 +2618,6 @@ geniality
 gastrolysis
 gudgeoned
 gastrocoele
-gunwhale
 glow
 geomancer
 garg
@@ -10461,6 +10460,7 @@ gastrin
 gusher
 ginghamed
 grinagog
+gunwhale
 gynandromorph
 granulator
 gogglier
