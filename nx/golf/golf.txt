@@ -678,7 +678,6 @@ genteelness
 gilden
 gowlan
 grass
-gals
 greyiaceae
 galtrap
 gianthood
@@ -4783,6 +4782,7 @@ guanidins
 gurdle
 giveable
 gederite
+gals
 gametophyll
 gomeril
 genarch
