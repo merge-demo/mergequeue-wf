@@ -1924,6 +1924,7 @@ dobla
 driest
 deckload
 decennal
+disacquaintance
 digredience
 dictyonina
 daman
@@ -13693,7 +13694,6 @@ defense
 diedral
 dissimilate
 depletion
-disacquaintance
 desiliconization
 dyeable
 dangered
