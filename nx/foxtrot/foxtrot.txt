@@ -1904,7 +1904,6 @@ filiform
 fremescent
 fainly
 fistula
-flightless
 flimsy
 forgiver
 farrowing
@@ -4420,6 +4419,7 @@ fumarase
 fertiliser
 froward
 formulaic
+flightless
 frumpily
 fearers
 fealties
