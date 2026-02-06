@@ -1418,6 +1418,7 @@ accepts
 apellous
 aproned
 accessary
+aerolite
 animate
 accessaries
 anesthesiometer
@@ -4891,7 +4892,6 @@ appalto
 archagitator
 anoestrus
 anatolic
-aerolite
 argumentatory
 apterygogenea
 acetometric
