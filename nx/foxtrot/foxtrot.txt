@@ -919,7 +919,6 @@ fadaise
 fleabug
 fallouts
 ferrate
-faquir
 funli
 faradaic
 flaxseeds
@@ -10693,6 +10692,7 @@ fubbing
 florican
 fundamental
 foodstuffs
+faquir
 fruitiness
 fieldworker
 flagless
