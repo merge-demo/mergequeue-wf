@@ -769,7 +769,6 @@ enormity
 economized
 espressivo
 evolutive
-ectental
 edifice
 exhibiting
 ensamples
@@ -10822,6 +10821,7 @@ espeire
 expiating
 enterodelous
 elaborating
+ectental
 executioneress
 erinaceus
 epithem
