@@ -6659,6 +6659,7 @@ drawarm
 dipneedle
 danders
 deserving
+dennet
 diorite
 droiturel
 diversly
@@ -14816,7 +14817,6 @@ dockland
 doublehandedly
 dominica
 dolors
-dennet
 docks
 demonologist
 docmac

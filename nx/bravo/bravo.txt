@@ -3815,7 +3815,6 @@ beldamship
 broadsides
 bestubble
 benchland
-befoul
 blundering
 bitterbush
 bedpad
@@ -14954,6 +14953,7 @@ blooie
 betrothed
 butlerdom
 breakweather
+befoul
 brain
 brachets
 braquemard
