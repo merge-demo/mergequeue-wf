@@ -2629,6 +2629,7 @@ fatback
 flabelliform
 filthy
 filazer
+foulness
 foresheet
 fontes
 ferrometer
@@ -6522,7 +6523,6 @@ footage
 fumagine
 funambulation
 familia
-foulness
 fictor
 fissilingual
 frosted
