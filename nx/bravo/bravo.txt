@@ -1972,7 +1972,6 @@ baselard
 bandrol
 battens
 beatific
-boreus
 betafite
 barberess
 bandsawn
@@ -15967,6 +15966,7 @@ bromus
 birdlet
 bout
 boundedness
+boreus
 bimetallistic
 brev
 bilaciniate
