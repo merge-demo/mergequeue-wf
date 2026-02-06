@@ -2373,7 +2373,6 @@ gallous
 grampa
 granddaughterly
 gastrulas
-gradely
 graphostatics
 geminates
 grinny
@@ -10835,6 +10834,7 @@ genethlialogical
 graminological
 galactophthysis
 guttar
+gradely
 guaiacum
 gundelow
 glycerogel
