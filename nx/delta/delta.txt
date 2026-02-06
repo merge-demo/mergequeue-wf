@@ -7647,7 +7647,6 @@ diphenol
 drabbles
 desalinating
 deadly
-developmentarian
 desiderium
 deray
 drawers
@@ -14210,6 +14209,7 @@ daywork
 desmopathologist
 dunair
 diseases
+developmentarian
 deselecting
 desiccator
 desponsories
