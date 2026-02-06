@@ -1051,7 +1051,6 @@ entomolite
 egoist
 edemas
 ermani
-exinite
 eldership
 epilabra
 edemata
@@ -1690,6 +1689,7 @@ exanthine
 eiders
 extemporaneity
 epilemmal
+exinite
 eidograph
 exhaustible
 eclogues
