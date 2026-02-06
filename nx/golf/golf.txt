@@ -4958,7 +4958,6 @@ growliness
 gynandroid
 glaired
 gurries
-gigabit
 gangway
 gapingly
 gladdened
@@ -9890,6 +9889,7 @@ gasholder
 grasshoppers
 gablewise
 greaser
+gigabit
 gemmae
 geodetician
 goodliest
