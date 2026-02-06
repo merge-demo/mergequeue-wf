@@ -1927,7 +1927,6 @@ biparty
 bandiness
 blepharochalasis
 bailiary
-bryology
 bevies
 bishoplike
 backy
@@ -17412,6 +17411,7 @@ bunkerage
 bandbox
 brokages
 boe
+bryology
 badaud
 beakiron
 busy
