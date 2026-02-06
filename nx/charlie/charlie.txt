@@ -2580,7 +2580,6 @@ chinol
 candlesticks
 choledocholithotripsy
 cambial
-closky
 crocoisite
 candlewasting
 coyan
@@ -29947,6 +29946,7 @@ crosstrack
 crosstree
 crossway
 coleophoridae
+closky
 cetid
 cyclopaedic
 crayonstone
