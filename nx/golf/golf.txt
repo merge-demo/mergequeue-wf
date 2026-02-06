@@ -4783,7 +4783,6 @@ gurdle
 giveable
 gederite
 gametophyll
-gotta
 gomeril
 genarch
 glossematics
@@ -8903,6 +8902,7 @@ groundberry
 ghostfish
 grizzle
 grieving
+gotta
 glauconitic
 gastronomes
 glomerella
