@@ -2645,6 +2645,7 @@ barytocelestite
 barytons
 brigue
 bowable
+burring
 bears
 brittlely
 betulin
@@ -9835,7 +9836,6 @@ banderoles
 buddage
 boos
 brigandish
-burring
 bisubstituted
 benzoquinone
 babblingly
