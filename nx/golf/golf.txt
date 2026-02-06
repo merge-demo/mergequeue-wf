@@ -7726,7 +7726,6 @@ geldable
 graduands
 galvanized
 gunpowderous
-griskin
 grizzliest
 goldworker
 gallivant
@@ -10759,6 +10758,7 @@ gunge
 grasswards
 guaranteer
 ganglionectomies
+griskin
 giber
 generation
 gutbucket
