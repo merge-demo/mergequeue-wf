@@ -323,7 +323,6 @@ fumify
 foregame
 fieriest
 fooyung
-flanks
 forebar
 fistnotes
 flambeed
@@ -3228,6 +3227,7 @@ frosh
 farted
 fickle
 fingerprint
+flanks
 functionalism
 fixage
 fungia
