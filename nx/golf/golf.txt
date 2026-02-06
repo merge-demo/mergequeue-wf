@@ -7907,7 +7907,6 @@ glucosulfone
 gandurah
 groanful
 ghiordes
-grammarless
 grammaticaster
 greatheart
 guesstimate
@@ -10335,6 +10334,7 @@ geomorphist
 geyan
 glebal
 guarana
+grammarless
 gastroduodenostomies
 gaums
 guzzlers

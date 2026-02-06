@@ -4478,7 +4478,6 @@ demifigure
 domino
 distrail
 decentres
-disinflated
 davoch
 doradilla
 debouches
@@ -10682,6 +10681,7 @@ dyotheletian
 dwarfism
 dunnaged
 diplont
+disinflated
 diplonts
 ditetrahedral
 dichlamydeous
