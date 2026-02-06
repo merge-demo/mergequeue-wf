@@ -15443,7 +15443,6 @@ cabins
 claptraps
 clapwort
 culbuter
-cartware
 claque
 calipering
 claques
@@ -21719,6 +21718,7 @@ condistillation
 conditionable
 conditionalism
 coplotting
+cartware
 conumerary
 conditionalist
 cassytha
