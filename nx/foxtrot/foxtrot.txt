@@ -3550,6 +3550,7 @@ finnic
 fantom
 faecalith
 fluctuated
+flambee
 flagfall
 figurable
 figurae
@@ -5871,7 +5872,6 @@ family
 festival
 film
 fevertwig
-flambee
 facemaker
 fv
 fawned
