@@ -13700,7 +13700,6 @@ attenuates
 adoze
 autoregenerator
 anopla
-armorbearer
 anoplonemertean
 atazir
 anoplonemertini
@@ -13735,6 +13734,7 @@ alloxyproteic
 anorexics
 autunites
 anorganology
+armorbearer
 appartement
 acetylate
 anorn
