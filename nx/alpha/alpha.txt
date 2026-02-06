@@ -5452,7 +5452,6 @@ articulatorily
 afterglow
 aftergrief
 antimeristem
-are
 antipathy
 argot
 aluco
@@ -6360,6 +6359,7 @@ aguise
 antimeter
 axanthopsia
 angloman
+are
 agamous
 applyment
 ambled
