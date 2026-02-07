@@ -7830,6 +7830,7 @@ ballasts
 biauricular
 barnstormed
 beshrews
+bellovaci
 bedstock
 biaxiality
 birdseyes
@@ -17630,7 +17631,6 @@ bino
 buriers
 britishhood
 bigged
-bellovaci
 boff
 blockish
 boris
