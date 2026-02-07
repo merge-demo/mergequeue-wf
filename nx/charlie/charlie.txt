@@ -11589,6 +11589,7 @@ cholecystogram
 cholecystography
 cholecystokinin
 cholecystolithiasis
+clobber
 cholecystotomy
 choledochal
 culpability
@@ -16470,7 +16471,6 @@ condominiiums
 creamcup
 cloamen
 christliness
-clobber
 clobbers
 cobbers
 clochette
