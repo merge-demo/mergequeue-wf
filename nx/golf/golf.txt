@@ -3510,6 +3510,7 @@ guttles
 graphonomy
 gallop
 gnathotheca
+gips
 greenboard
 gesticulant
 glathsheimr
@@ -9859,7 +9860,6 @@ gnathopoda
 geckotidae
 gallicism
 gongoresque
-gips
 grousy
 geographic
 ginkgoales
