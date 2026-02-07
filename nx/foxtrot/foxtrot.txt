@@ -2204,7 +2204,6 @@ folliculous
 frowl
 felwort
 frizer
-fathearted
 fairsome
 forestery
 facetious
@@ -3385,6 +3384,7 @@ flotsam
 forjaskit
 fiedlerite
 fortifications
+fathearted
 furfuran
 fifth
 flooding
