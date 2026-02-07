@@ -3852,7 +3852,6 @@ geometer
 geologic
 glossophorous
 gemmoid
-goldenmouthed
 grantsmen
 granulomas
 garoting
@@ -6761,6 +6760,7 @@ glossospasm
 goatweed
 gaffsail
 gavyuti
+goldenmouthed
 gossiping
 grassiest
 geront
