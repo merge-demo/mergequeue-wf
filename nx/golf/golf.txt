@@ -2622,7 +2622,6 @@ gastrolysis
 gudgeoned
 gastrocoele
 glow
-geomancer
 gentianal
 garg
 germantown
@@ -3642,6 +3641,7 @@ gro
 grizzler
 gastroenterological
 gastrolienal
+geomancer
 gluconeogenic
 goblet
 gagged
