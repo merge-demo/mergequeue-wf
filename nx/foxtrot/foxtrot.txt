@@ -3970,6 +3970,7 @@ fendered
 fiftypenny
 fullest
 fonded
+foreclosure
 fetches
 foeniculum
 formaldehydesulphoxylate
@@ -7593,7 +7594,6 @@ foretake
 formers
 fragor
 factorage
-foreclosure
 fevering
 ferruler
 foreconclude
