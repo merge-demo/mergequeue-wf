@@ -5219,7 +5219,6 @@ costumery
 caserns
 cases
 cordis
-caseworm
 casha
 cashaws
 contek
@@ -24493,6 +24492,7 @@ circovarian
 clavis
 copaliferous
 copalite
+caseworm
 copalm
 coparcenar
 coparcenary
