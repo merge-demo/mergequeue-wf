@@ -1259,6 +1259,7 @@ gavall
 gratten
 graplines
 gyrator
+gormandizer
 galium
 gogetting
 guideposts
@@ -7650,7 +7651,6 @@ glucosazone
 garmentless
 grafts
 geospiza
-gormandizer
 grandeza
 gramarye
 gastropyloric
