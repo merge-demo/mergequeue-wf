@@ -5547,6 +5547,7 @@ gump
 glycogeny
 grassfinch
 gauffers
+guaiasanol
 guttiferous
 germinally
 glycidol
@@ -9848,7 +9849,6 @@ ganodus
 gifblaar
 girting
 gawcie
-guaiasanol
 grounden
 ghebeta
 goneoclinic
