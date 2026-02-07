@@ -2452,7 +2452,6 @@ fermentescible
 furzery
 falla
 filechar
-fornax
 fezzan
 finales
 forepreparation
@@ -8538,6 +8537,7 @@ futuristically
 frumenty
 forfend
 foremisgiving
+fornax
 fard
 fibrositis
 franklinization
