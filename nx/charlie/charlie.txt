@@ -5412,6 +5412,7 @@ casteisms
 commissioners
 concessive
 casteless
+colonels
 chiot
 chifforobes
 chimerical
@@ -26674,7 +26675,6 @@ cammock
 careering
 cynhyena
 counterattack
-colonels
 counterattacked
 cyclamate
 cervid
