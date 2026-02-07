@@ -3564,6 +3564,7 @@ grenadin
 gt
 gangues
 gingko
+gigantically
 gongorism
 garmentworker
 gunsmiths
@@ -10278,7 +10279,6 @@ grasshopperdom
 gymnoceratous
 galliambus
 gerrymanderer
-gigantically
 gorges
 gridded
 geic
