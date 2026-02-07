@@ -3437,6 +3437,7 @@ fonctionnaire
 flincher
 facetiation
 febricity
+frosk
 fiascoes
 fireshine
 foretalk
@@ -11391,7 +11392,6 @@ fourposter
 fertilely
 farfetch
 furnishes
-frosk
 feater
 furcular
 fidgeted
