@@ -12753,6 +12753,7 @@ concionary
 chamaesaura
 cuisinary
 chulpa
+catchable
 cabassou
 chultun
 copyism
@@ -13135,7 +13136,6 @@ cycadophyta
 craniograph
 carriage
 climbingfishes
-catchable
 circumferent
 cycases
 cytogenies
