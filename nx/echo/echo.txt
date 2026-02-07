@@ -6573,7 +6573,6 @@ extroversion
 ephyra
 exactly
 entomophthora
-elaphodus
 endurant
 expenditor
 ended
@@ -7557,6 +7556,7 @@ ensignhood
 earthshattering
 enviously
 externate
+elaphodus
 encyc
 eyedness
 elevato
