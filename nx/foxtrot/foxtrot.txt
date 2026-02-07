@@ -5067,7 +5067,6 @@ fuzed
 fissive
 filmcard
 favourless
-functioned
 frogwort
 fluctuable
 faceable
@@ -8167,6 +8166,7 @@ flogger
 fishlet
 fishpond
 fleak
+functioned
 fantastry
 feverberries
 formicinae
