@@ -1144,6 +1144,7 @@ gnawings
 galactometry
 gnetums
 gippers
+goncalo
 galliferous
 gunung
 gaol
@@ -2640,7 +2641,6 @@ gardeviance
 grelot
 graphotype
 genevan
-goncalo
 giboia
 grudgingness
 gymnorhinal
