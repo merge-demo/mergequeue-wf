@@ -3669,6 +3669,7 @@ adenosarcomata
 adiaphoristic
 armloads
 artist
+alkahests
 acuating
 anureses
 arrant
@@ -7175,7 +7176,6 @@ aqueoglacial
 albuminose
 alarm
 alarmclock
-alkahests
 alexanders
 abamps
 alarmedly
