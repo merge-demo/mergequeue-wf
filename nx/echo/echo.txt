@@ -4779,7 +4779,6 @@ embarrass
 explore
 encloister
 eyren
-enveil
 executions
 exodos
 enamorate
@@ -11432,6 +11431,7 @@ erenow
 emanatively
 eathly
 echocardiogram
+enveil
 equiformal
 engross
 esuriency
