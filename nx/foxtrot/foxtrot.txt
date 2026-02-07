@@ -8649,7 +8649,6 @@ filterability
 futharks
 feet
 finestiller
-festuca
 face
 forborn
 fytte
@@ -10171,6 +10170,7 @@ flyover
 foreassurance
 flintifying
 forefatherly
+festuca
 franion
 fructuary
 fore
