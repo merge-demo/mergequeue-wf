@@ -2511,6 +2511,7 @@ autoserum
 austrasian
 antimasquer
 absciss
+alfridaric
 amidate
 arthropleura
 archdissembler
@@ -7590,7 +7591,6 @@ autoprothesis
 autoconverter
 alcoholysis
 albatrosses
-alfridaric
 aguinaldos
 aspirins
 aphorised
