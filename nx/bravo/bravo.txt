@@ -868,6 +868,7 @@ baggagemaster
 bedamning
 brachydome
 baggager
+blastophthoric
 benzidin
 benzalcohol
 beffroy
@@ -12737,7 +12738,6 @@ biaswise
 bibbers
 baianism
 bibulously
-blastophthoric
 bibliographically
 beachier
 bowet
