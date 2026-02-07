@@ -2763,6 +2763,7 @@ gemeinde
 gotch
 gaunt
 growling
+geochemistry
 galbulae
 greatcoat
 gorgerin
@@ -7945,7 +7946,6 @@ ghostlily
 generalist
 garbleable
 gouged
-geochemistry
 granary
 greases
 gasogenic
