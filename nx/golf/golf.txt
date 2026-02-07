@@ -3117,7 +3117,6 @@ grassplot
 gothicness
 gullah
 grannam
-germanite
 gurgles
 georgics
 galumphing
@@ -10029,6 +10028,7 @@ glycolipide
 gone
 guids
 gorgonised
+germanite
 gamopetalous
 geochrony
 gudewife
