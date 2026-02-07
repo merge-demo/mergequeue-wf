@@ -1468,7 +1468,6 @@ flittern
 felicitators
 feasten
 fruiter
-felt
 fearsomely
 foreshows
 fabulate
@@ -2734,6 +2733,7 @@ foreweigh
 fungused
 firebird
 feigher
+felt
 frost
 fraxetin
 fellside
