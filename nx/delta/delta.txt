@@ -15039,7 +15039,6 @@ diphthongising
 disrout
 durnedest
 decided
-deformer
 disbutton
 decnet
 drysalteries
@@ -17166,6 +17165,7 @@ dysmerism
 dripolator
 deaves
 drippage
+deformer
 dobbins
 diathermotherapy
 deuteroscopy
