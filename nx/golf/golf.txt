@@ -4009,7 +4009,6 @@ gansey
 greenest
 gorgonian
 gellert
-genies
 gildhall
 geosynclines
 gyrencephala
@@ -9273,6 +9272,7 @@ graver
 granulomatosis
 groaned
 ghosts
+genies
 gasometry
 gigantal
 glumosity
