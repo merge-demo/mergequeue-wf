@@ -13829,7 +13829,6 @@ cinerous
 cingalese
 corrupted
 cynghanedd
-catalysis
 cauchemar
 cingula
 chazzan
@@ -26105,6 +26104,7 @@ conservatize
 cymogene
 cosmogoner
 cosmogonical
+catalysis
 cosmogonies
 cosmogonists
 chigoe

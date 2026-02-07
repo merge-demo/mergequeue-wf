@@ -3498,7 +3498,6 @@ goading
 garrulity
 grudger
 gynandromorphism
-gemul
 gasteropod
 gewgawry
 grammaticize
@@ -5757,6 +5756,7 @@ galatic
 gonotheca
 ghaznevid
 gingerroot
+gemul
 gynecomorphous
 gimmerpet
 grovet
