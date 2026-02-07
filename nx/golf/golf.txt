@@ -1971,6 +1971,7 @@ grubroot
 grudged
 gonif
 gongman
+gaspar
 galician
 goschens
 gryphaea
@@ -3540,7 +3541,6 @@ gogglebox
 girded
 gluier
 gaycat
-gaspar
 goldenest
 gracile
 garotting
