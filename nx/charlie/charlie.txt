@@ -9235,7 +9235,6 @@ croziers
 coterminal
 chatchke
 chatchkes
-chondrogenous
 chateaugray
 cheerlessly
 chateaus
@@ -18437,6 +18436,7 @@ cranesman
 chiragrical
 cavally
 chelae
+chondrogenous
 catholicized
 calpulli
 corporal
