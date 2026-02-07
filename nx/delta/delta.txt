@@ -10021,6 +10021,7 @@ distract
 dirigomotor
 dust
 downshifted
+dasi
 drumfires
 dermohemia
 duplicates
@@ -18350,7 +18351,6 @@ duodecimole
 dithionic
 duodedena
 digesting
-dasi
 duodedenums
 deindividuate
 disordinated
