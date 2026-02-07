@@ -3588,7 +3588,6 @@ graftproof
 galvanisation
 guze
 ghoulishly
-gausses
 gharnao
 gualaca
 goniaster
@@ -8055,6 +8054,7 @@ genys
 gerkin
 gastronomy
 gata
+gausses
 grubbing
 greenishness
 gusted
