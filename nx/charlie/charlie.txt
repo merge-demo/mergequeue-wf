@@ -2180,6 +2180,7 @@ coalbin
 conterminate
 cymba
 cuprene
+champagning
 corduroy
 campho
 camphocarboxylic
@@ -8478,7 +8479,6 @@ chamotte
 cannach
 coarbiter
 cauligenous
-champagning
 champagnize
 cardiogenic
 champagnized
