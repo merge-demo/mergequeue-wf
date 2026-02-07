@@ -2764,7 +2764,6 @@ electrotype
 electrotypy
 enolase
 eggroll
-ensporia
 ectophytic
 evaporated
 electrovalent
@@ -4857,6 +4856,7 @@ epicranium
 epicalyces
 equivocality
 encountered
+ensporia
 epiphylaxis
 endothecium
 entomostraca

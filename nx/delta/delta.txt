@@ -1845,7 +1845,6 @@ disomaty
 distensibilities
 dispunge
 dissimulation
-dispirit
 discastle
 disponed
 docimasies
@@ -12624,6 +12623,7 @@ duologs
 denominators
 disintegrator
 disintegrators
+dispirit
 disintegrity
 draughtiness
 disinter
