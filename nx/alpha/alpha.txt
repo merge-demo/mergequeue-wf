@@ -7905,6 +7905,7 @@ aration
 assapan
 auscultations
 alternates
+antepenult
 aleurodes
 aleuronat
 associated
@@ -14097,7 +14098,6 @@ airwomen
 angelo
 algonquian
 awardment
-antepenult
 acromyodi
 amphithere
 absolutions
