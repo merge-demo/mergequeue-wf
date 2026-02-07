@@ -2307,6 +2307,7 @@ floter
 fatherlessness
 fenestrato
 fifteenfold
+fuzzed
 febrility
 fimbricate
 fast
@@ -8625,7 +8626,6 @@ foredid
 figurately
 ferretto
 flamefishes
-fuzzed
 finnochio
 functionate
 fingerfishes
