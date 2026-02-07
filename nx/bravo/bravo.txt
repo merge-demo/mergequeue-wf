@@ -1799,7 +1799,6 @@ bruise
 bismutite
 bibliokelpt
 balthasar
-bothridium
 blends
 baltimore
 bumblebeefishes
@@ -11031,6 +11030,7 @@ bobbie
 brachyoura
 belikely
 baalitical
+bothridium
 blackface
 bafta
 bident
