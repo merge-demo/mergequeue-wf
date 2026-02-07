@@ -8314,7 +8314,6 @@ erpetologist
 epopoeia
 eyeglass
 enatant
-epistolised
 epigeic
 escapado
 epitoke
@@ -9098,6 +9097,7 @@ etnean
 educations
 ethenyl
 englishable
+epistolised
 epicyclic
 europeans
 escharotic
