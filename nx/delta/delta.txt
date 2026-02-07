@@ -3385,7 +3385,6 @@ disconfirmed
 disinclining
 desolator
 disperser
-djakarta
 dorey
 damnum
 ditremidae
@@ -3970,6 +3969,7 @@ delegates
 delegateship
 digressiveness
 damping
+djakarta
 dokhma
 doll
 dipteros
