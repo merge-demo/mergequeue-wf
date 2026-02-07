@@ -1933,7 +1933,6 @@ civvies
 cuttoe
 croupier
 cessionee
-crimble
 camblet
 cambodian
 calotte
@@ -11131,6 +11130,7 @@ chivari
 chivaris
 chive
 chivey
+crimble
 chiliadal
 crescographic
 cyphonautes
