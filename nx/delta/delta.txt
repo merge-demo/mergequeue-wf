@@ -6518,7 +6518,6 @@ descent
 devotement
 dekameter
 decanal
-diffracting
 dreks
 distomiasis
 descort
@@ -7001,6 +7000,7 @@ dolcino
 defoamed
 destructions
 despoiled
+diffracting
 destroyers
 durometer
 degust

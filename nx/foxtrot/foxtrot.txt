@@ -1528,7 +1528,6 @@ foulards
 foci
 flauntiness
 fittily
-forepiece
 faunish
 fleecing
 funditor
@@ -9115,6 +9114,7 @@ filterer
 fretways
 forewoman
 fleabanes
+forepiece
 fourberie
 fedelini
 fideism
