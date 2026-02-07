@@ -9822,7 +9822,6 @@ enchafe
 eddyroot
 empalement
 establishes
-epigraph
 elegiacal
 exponentiate
 eustace
@@ -10575,6 +10574,7 @@ eudaemony
 enchainment
 eucharistic
 eucharistically
+epigraph
 embargoing
 ephthalite
 enswathed
