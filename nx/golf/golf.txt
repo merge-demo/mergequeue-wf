@@ -658,6 +658,7 @@ giddify
 genearch
 gangwayed
 giterne
+gallops
 gormand
 georgiana
 grapelet
@@ -5130,7 +5131,6 @@ galvanocautery
 gill
 greesagh
 gaultherin
-gallops
 ginnel
 glycocholic
 gasless
