@@ -4315,7 +4315,6 @@ earjewel
 emulsions
 equidistantial
 elapid
-emotes
 exacted
 ermitophobia
 extoller
@@ -6762,6 +6761,7 @@ espundia
 eager
 exacters
 entertainingly
+emotes
 entertainment
 elaborately
 enigmatize
