@@ -9667,6 +9667,7 @@ encense
 equipper
 entia
 epenthesize
+exarchic
 epacris
 espagnole
 enfrai
@@ -13332,7 +13333,6 @@ egency
 ecchondrosis
 escandalize
 eminences
-exarchic
 ethicalities
 execrator
 eclipsareon
