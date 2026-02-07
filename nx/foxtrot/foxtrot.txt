@@ -6283,7 +6283,6 @@ focusable
 finochio
 fangotherapy
 fascinative
-foambow
 formwork
 fermentitious
 ferrimagnetic
@@ -9902,6 +9901,7 @@ fandangos
 fosh
 fibroneuroma
 frickle
+foambow
 fortypenny
 forefending
 frontager
