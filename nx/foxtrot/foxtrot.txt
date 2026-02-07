@@ -2114,7 +2114,6 @@ ferguson
 frument
 fluorescigenic
 fermentate
-fluming
 falcate
 fishiness
 felicific
@@ -8334,6 +8333,7 @@ from
 fautorship
 furmeties
 fragmentizer
+fluming
 fluoarsenate
 fading
 fardage
