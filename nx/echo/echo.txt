@@ -5109,7 +5109,6 @@ endoclinal
 eternals
 endenizen
 endocoelar
-ectozoan
 epitomical
 epistoma
 eelpouts
@@ -13544,6 +13543,7 @@ execrating
 extenuating
 extemporarily
 ephthianura
+ectozoan
 exscutellate
 epilating
 etherical
