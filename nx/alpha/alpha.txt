@@ -1300,6 +1300,7 @@ amazes
 anathematizer
 acatalepsia
 almoning
+airfoil
 autocorrelate
 autosomally
 advectitious
@@ -6733,7 +6734,6 @@ airflow
 antimoralist
 affray
 agoniada
-airfoil
 airfoils
 antiputrescent
 airglows
