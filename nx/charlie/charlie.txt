@@ -13884,7 +13884,6 @@ cinnamons
 cynocephalous
 communicable
 cheerer
-chalicotherioid
 cynoclept
 costive
 cinofoil
@@ -20644,6 +20643,7 @@ compilement
 collineate
 comping
 collectarium
+chalicotherioid
 clanjamfrie
 coolish
 compital
