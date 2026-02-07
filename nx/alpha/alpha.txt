@@ -5079,7 +5079,6 @@ anend
 aetat
 aethalium
 astragalectomy
-aether
 apprisers
 ahrimanian
 affrication
@@ -8351,6 +8350,7 @@ alkaligenous
 alkaline
 ankylostoma
 alkalinity
+aether
 alkalinities
 abactor
 albertype

@@ -9030,7 +9030,6 @@ fustie
 facade
 flayed
 fondling
-fasc
 fowk
 fizelyite
 fulness
@@ -11303,6 +11302,7 @@ firesides
 foyer
 fusspot
 frogmouth
+fasc
 freedom
 fatwa
 fidejussionary
