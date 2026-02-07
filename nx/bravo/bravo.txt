@@ -8564,7 +8564,6 @@ bagtikan
 bassanello
 briery
 baar
-ballot
 bennis
 barih
 bejeweling
@@ -17792,6 +17791,7 @@ booksellers
 bursaries
 brujo
 buttermilk
+ballot
 bridelope
 bursars
 balloons
