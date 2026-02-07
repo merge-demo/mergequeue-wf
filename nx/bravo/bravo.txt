@@ -298,7 +298,6 @@ bugbeardom
 biolith
 booter
 bakeware
-benzacridine
 boundary
 backslided
 backberend
@@ -3137,6 +3136,7 @@ blathers
 billiard
 basaree
 bottlestone
+benzacridine
 bestness
 bealach
 bacaba
