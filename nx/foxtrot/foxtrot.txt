@@ -6253,7 +6253,6 @@ flrie
 foreread
 fumade
 flaxes
-fulgurate
 flysches
 forethoughtfulness
 foretops
@@ -8749,6 +8748,7 @@ finchery
 forehands
 feucht
 fortuitous
+fulgurate
 fresnels
 flote
 fiberfill

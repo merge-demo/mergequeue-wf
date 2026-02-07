@@ -8574,7 +8574,6 @@ anarchs
 adjoins
 argyrythrose
 anoxidative
-autotelegraph
 anemology
 alleleu
 allelic
@@ -22562,6 +22561,7 @@ arider
 amphitoky
 atavistically
 amounters
+autotelegraph
 arrect
 ataxies
 ammonitic
