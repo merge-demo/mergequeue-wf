@@ -1517,7 +1517,6 @@ greencoat
 geotonic
 gagtooth
 gasoliers
-gripers
 growed
 geez
 gelatines
@@ -2615,6 +2614,7 @@ granulater
 garabato
 gastrocolic
 goldfish
+gripers
 geswarp
 gripgrass
 geniality
