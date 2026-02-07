@@ -231,6 +231,7 @@ gowpen
 grucche
 gravure
 goniocraniometry
+gimirrai
 grantor
 gluelike
 goajiro
@@ -7857,7 +7858,6 @@ goosander
 germanophilist
 galavants
 grumble
-gimirrai
 gelidities
 gardening
 gasket
