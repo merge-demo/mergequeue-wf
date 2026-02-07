@@ -13676,7 +13676,6 @@ bloodlettings
 burgherage
 bondholder
 billboard
-bevelment
 bothie
 bourasque
 bradypeptic
@@ -17566,6 +17565,7 @@ blore
 belong
 bugle
 bunnia
+bevelment
 burgau
 barnage
 benzidins
