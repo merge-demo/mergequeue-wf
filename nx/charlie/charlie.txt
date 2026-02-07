@@ -10296,7 +10296,6 @@ chelidosaurus
 chickabiddy
 chemosorb
 cohobate
-cachoeira
 clactonian
 cyanidation
 circuting
@@ -10724,6 +10723,7 @@ clericalists
 chinawoman
 cincher
 chinch
+cachoeira
 cephalina
 chinchayote
 cytoarchitecture
