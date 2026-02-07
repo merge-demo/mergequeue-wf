@@ -14459,7 +14459,6 @@ considerate
 coombs
 chergui
 courantos
-cyrtometer
 cyrtomium
 ciruela
 cyrus
@@ -25766,6 +25765,7 @@ corrode
 corrie
 cephalodia
 copremic
+cyrtometer
 chorines
 cohosted
 corroders
