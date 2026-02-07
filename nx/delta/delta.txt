@@ -7566,7 +7566,6 @@ discriminably
 ducktail
 discs
 denumerability
-deuterotype
 deuterozooid
 didynamies
 discreetness
@@ -12301,6 +12300,7 @@ duarchy
 disposed
 dysgonic
 dataflow
+deuterotype
 dispatriated
 discrepancy
 drawing
