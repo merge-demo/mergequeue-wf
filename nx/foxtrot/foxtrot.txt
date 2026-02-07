@@ -78,7 +78,6 @@ flysch
 facundity
 fatiscence
 fetials
-facemark
 fiendish
 flagrantness
 famousness
@@ -1096,6 +1095,7 @@ fastback
 farrisite
 foreordain
 facilitate
+facemark
 fleerish
 firehalls
 forespeech
