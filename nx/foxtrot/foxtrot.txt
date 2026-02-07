@@ -1580,7 +1580,6 @@ farmtown
 fernwort
 fissirostres
 facially
-farcetta
 footingly
 fooster
 favorer
@@ -11260,6 +11259,7 @@ faciest
 framing
 feminility
 featherwork
+farcetta
 fiends
 fourer
 flagellants
