@@ -7503,7 +7503,6 @@ arterioscleroses
 acardiac
 aggroupment
 anastomos
-alcazaba
 apophonic
 adamance
 agrostographer
@@ -10698,6 +10697,7 @@ ammocoetes
 agglutinated
 archebiosis
 acronomy
+alcazaba
 alloantibody
 abides
 anomaloflorous
