@@ -6560,7 +6560,6 @@ execration
 ephemeric
 englishes
 egomaniacal
-entails
 embarrassedly
 egipto
 ensmall
@@ -13263,6 +13262,7 @@ eriodendron
 eldred
 exheredate
 excepts
+entails
 epeiridae
 ergotaminine
 embroiders
