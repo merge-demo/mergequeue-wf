@@ -2327,7 +2327,6 @@ emailed
 ecuadorian
 etnas
 espressos
-exurbias
 endocrania
 expert
 elapidae
@@ -7619,6 +7618,7 @@ enhat
 epichordal
 erosely
 enantiomorph
+exurbias
 enterocoelous
 ensouls
 enticements
