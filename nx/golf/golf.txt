@@ -2889,6 +2889,7 @@ gobiiformes
 gerbil
 gwiniad
 glitter
+goadlike
 geocerite
 gubernation
 greenheaded
@@ -10340,7 +10341,6 @@ glacis
 gruffily
 greenlets
 geum
-goadlike
 grouseberry
 gelate
 garretmaster
