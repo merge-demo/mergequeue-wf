@@ -701,6 +701,7 @@ frogface
 feeblehearted
 firebolted
 featherworker
+formulisation
 fulminic
 fumigatorium
 fatigated
@@ -8555,7 +8556,6 @@ fractionally
 funambulic
 formulated
 funest
-formulisation
 friaries
 famulus
 fayalite
