@@ -6084,7 +6084,6 @@ grisset
 grume
 gerim
 gaetuli
-gonococcoid
 gnaws
 gramineous
 gneiss
@@ -8605,6 +8604,7 @@ gravidate
 goslarite
 gregge
 guidwilly
+gonococcoid
 graven
 glided
 goldanged
