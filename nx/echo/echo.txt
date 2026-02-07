@@ -781,7 +781,6 @@ evolutive
 edifice
 exhibiting
 ensamples
-endocytotic
 extortive
 ecumenically
 enstyle
@@ -4154,6 +4153,7 @@ emplecton
 eternalise
 exuberancy
 eremital
+endocytotic
 esperanto
 employability
 electrovalence
