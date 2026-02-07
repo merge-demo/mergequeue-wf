@@ -9319,7 +9319,6 @@ dtset
 dietotherapy
 despairing
 demount
-deadman
 dietotoxic
 detersive
 depletable
@@ -15090,6 +15089,7 @@ dufrenite
 daintily
 dumping
 dispender
+deadman
 deficits
 dogmatical
 dogmatically
