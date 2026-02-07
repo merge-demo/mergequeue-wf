@@ -7644,7 +7644,6 @@ endamoebic
 eyeberry
 encyclopedial
 ectocyst
-enteric
 epicoele
 empathic
 erotema
@@ -10639,6 +10638,7 @@ euclidian
 exteroceptive
 exhalant
 ecthetically
+enteric
 ectoplastic
 exsect
 eucone
