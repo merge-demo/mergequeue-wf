@@ -4711,7 +4711,6 @@ exceptionability
 econometrician
 evolutionize
 endemics
-ectomorphism
 earthly
 epinine
 elating
@@ -12301,6 +12300,7 @@ exemption
 essenhout
 epepophysial
 entremess
+ectomorphism
 errorless
 eviternal
 exemptive
