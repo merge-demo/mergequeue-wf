@@ -2646,7 +2646,6 @@ giboia
 grudgingness
 gymnorhinal
 gravelous
-guaican
 gratifiable
 gastroid
 gymnodont
@@ -6892,6 +6891,7 @@ galeas
 groundspeed
 gent
 gelsemine
+guaican
 goody
 gabbro
 giganticide
