@@ -3335,7 +3335,6 @@ definitiones
 disregards
 definitions
 dilatant
-deliriate
 downcrying
 diastem
 dodginess
@@ -4253,6 +4252,7 @@ divisors
 deadening
 demagnetisation
 deducing
+deliriate
 dovelet
 dotier
 demagnetising
