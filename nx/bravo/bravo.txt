@@ -1249,7 +1249,6 @@ bortz
 basketware
 bagpudding
 barehanded
-bedabbled
 balabos
 bashfully
 bifurcates
@@ -9721,6 +9720,7 @@ blackishness
 birchbark
 beneficing
 browses
+bedabbled
 bathrobe
 bezzled
 beeping
