@@ -3671,7 +3671,6 @@ glops
 gooselike
 gurgly
 governorships
-gadgeteers
 glumous
 glyptician
 gnomoniaceae
@@ -4122,6 +4121,7 @@ growled
 geggee
 gyrectomy
 guardstone
+gadgeteers
 gimmickery
 gendering
 gangrenate
