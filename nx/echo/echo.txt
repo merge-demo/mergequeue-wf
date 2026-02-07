@@ -361,7 +361,6 @@ electress
 eulogia
 expedient
 exanthems
-electrodiagnostically
 ethynyls
 exports
 entomol
@@ -13573,6 +13572,7 @@ equinus
 embowment
 ergusia
 eutechnics
+electrodiagnostically
 etiolates
 exsolving
 energies
