@@ -3895,7 +3895,6 @@ futurism
 frazzling
 figurato
 fionnuala
-fanwe
 foregrounds
 furlong
 frequencies
@@ -10294,6 +10293,7 @@ formolit
 frankeniaceae
 fe
 fibrillations
+fanwe
 flakers
 frond
 fluxmeter
