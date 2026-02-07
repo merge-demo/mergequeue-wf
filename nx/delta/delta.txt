@@ -2735,7 +2735,6 @@ disaffects
 dematerialization
 decorticator
 decorticosis
-disoperation
 diploplacular
 dactylorhiza
 diamber
@@ -11607,6 +11606,7 @@ degenerations
 dowry
 discomposed
 deaccessioned
+disoperation
 discomposedness
 desmachymatous
 dipt
