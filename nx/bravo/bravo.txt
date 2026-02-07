@@ -824,7 +824,6 @@ boltholes
 bigate
 bevatron
 baftah
-brassworker
 barges
 brecciation
 befathered
@@ -3585,6 +3584,7 @@ bootless
 bespouse
 bedog
 bipinnaria
+brassworker
 bathymetry
 bewrayers
 becompass
