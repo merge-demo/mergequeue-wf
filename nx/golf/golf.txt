@@ -2313,6 +2313,7 @@ grainland
 ge
 gingival
 geistlich
+grayhair
 graviton
 gateman
 guffin
@@ -2787,7 +2788,6 @@ gascheck
 gentlemanlikeness
 gossan
 goosehouse
-grayhair
 gasaliers
 gypseian
 generalific
