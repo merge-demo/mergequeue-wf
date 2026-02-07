@@ -5354,7 +5354,6 @@ girds
 greener
 glycollate
 ghibli
-generalised
 grammatology
 getae
 girlish
@@ -8539,6 +8538,7 @@ glycin
 gymnoderinae
 gozzan
 grainsman
+generalised
 gunslinging
 gramineae
 gynandromorphy
