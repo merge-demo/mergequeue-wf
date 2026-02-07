@@ -8592,6 +8592,7 @@ anoxidative
 anemology
 alleleu
 allelic
+autotypography
 allelism
 axonemal
 argyrite
@@ -24482,7 +24483,6 @@ adhibiting
 anthophilous
 autotheist
 autotimer
-autotypography
 autotomise
 armbands
 adoptively
