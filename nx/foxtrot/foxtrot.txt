@@ -4648,6 +4648,7 @@ ferring
 felsophyre
 flowmanostat
 forcipes
+forebows
 foresaying
 fasciotomy
 fleckless
@@ -11126,7 +11127,6 @@ fastland
 formality
 flusterating
 fins
-forebows
 fundatrices
 forhoo
 francisc
