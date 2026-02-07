@@ -4564,7 +4564,6 @@ greenhorns
 gravicembalo
 greenness
 gilim
-graphometry
 guergal
 gauziness
 glim
@@ -7352,6 +7351,7 @@ gunation
 galactin
 geologist
 gaggler
+graphometry
 governorate
 grangerise
 gougingly
