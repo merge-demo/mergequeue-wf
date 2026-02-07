@@ -5365,6 +5365,7 @@ goiters
 gangrel
 glees
 gregarianism
+gelatinoid
 gormands
 ganoses
 gipsyism
@@ -6862,7 +6863,6 @@ garnishing
 gooseneck
 gregarina
 grecians
-gelatinoid
 getters
 graticulate
 glis
