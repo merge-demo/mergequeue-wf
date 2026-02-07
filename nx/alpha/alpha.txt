@@ -17402,6 +17402,7 @@ antimystically
 aeromedical
 apotome
 apotropaically
+autocephality
 asciferous
 apotropous
 agaricine
@@ -18664,7 +18665,6 @@ aeronat
 addlebrain
 archbeadle
 augends
-autocephality
 archbishopry
 anchorhold
 archbishopric
