@@ -6258,6 +6258,7 @@ evanesce
 equicontinuous
 extermination
 enorn
+endopterygote
 eumeromorph
 encrown
 epinicial
@@ -7843,7 +7844,6 @@ endura
 evenhead
 epigee
 escapism
-endopterygote
 excyst
 electromagnetize
 envisage
