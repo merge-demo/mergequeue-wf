@@ -7022,7 +7022,6 @@ earwig
 entrainment
 entrains
 entrancedly
-entrancement
 ectotrophi
 emblems
 enscene
@@ -8457,6 +8456,7 @@ effeminization
 endecha
 epigonation
 electrooculogram
+entrancement
 equerries
 eardrum
 erodible
