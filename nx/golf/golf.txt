@@ -4293,7 +4293,6 @@ girse
 gastrostomus
 grounds
 gleesomeness
-goshawful
 gemological
 gravidity
 gloeosporiose
@@ -9067,6 +9066,7 @@ girasole
 glares
 giarra
 gallium
+goshawful
 gryllos
 gaffle
 grilse
