@@ -5894,7 +5894,6 @@ depersonalised
 depredated
 definitiveness
 droshky
-deontic
 disembargoed
 disputability
 deodars
@@ -18120,6 +18119,7 @@ debarrass
 dammed
 duplicate
 dispoint
+deontic
 domestically
 depicts
 demonized
