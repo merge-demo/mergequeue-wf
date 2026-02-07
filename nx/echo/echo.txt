@@ -8400,7 +8400,6 @@ enterocolostomy
 exuvial
 emanative
 eyetooth
-excitomotory
 exclusory
 endiadem
 epithyme
@@ -8792,6 +8791,7 @@ equivaluer
 exposited
 evulgation
 effs
+excitomotory
 exciples
 ektexines
 erato
