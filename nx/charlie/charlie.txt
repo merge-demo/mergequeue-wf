@@ -20736,7 +20736,6 @@ coronoid
 celative
 completory
 cavish
-chooser
 complexedness
 complexer
 cuinfo
@@ -22732,6 +22731,7 @@ cryosphere
 conquerer
 conquering
 conquerment
+chooser
 conqueror
 coster
 china
