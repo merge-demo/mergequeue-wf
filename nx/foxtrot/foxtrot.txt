@@ -5957,6 +5957,7 @@ flaxier
 ferroelectric
 forearm
 frogged
+ferroelectrically
 famacide
 fiscalizing
 frankliniana
@@ -9091,7 +9092,6 @@ feudality
 forbruise
 foreadmonish
 foederis
-ferroelectrically
 fellow
 feedbag
 flannels
