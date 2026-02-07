@@ -3783,7 +3783,6 @@ geodist
 gaub
 giantlike
 gherao
-giarre
 gorgio
 governing
 grandmotherhood
@@ -10092,6 +10091,7 @@ guesser
 gonads
 gamogenesis
 galp
+giarre
 gemeled
 gymnastics
 goniopholis
