@@ -9562,6 +9562,7 @@ cahier
 checkrowed
 cunarder
 checkrower
+chamite
 checkrowing
 consummatively
 checkrows
@@ -27712,7 +27713,6 @@ circumdate
 coercionist
 corrigendum
 cadaveric
-chamite
 cycloplegia
 coadventuress
 curtsies
