@@ -1219,6 +1219,7 @@ aqueously
 acanthopteran
 airlike
 auriculariae
+articulare
 adversed
 acromia
 angostura
@@ -20705,7 +20706,6 @@ actinons
 asterion
 archenia
 anthesteriac
-articulare
 alder
 anglophobe
 alochia
