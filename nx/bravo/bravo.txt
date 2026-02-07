@@ -1903,6 +1903,7 @@ brawlsome
 befogging
 bicrons
 barkinji
+brahmins
 bandfile
 begrudges
 baldachino
@@ -17707,7 +17708,6 @@ burnish
 burnishable
 brachiorrhachidian
 burnisher
-brahmins
 birdlimed
 breezily
 burnishing
