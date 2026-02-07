@@ -4289,7 +4289,6 @@ belite
 barest
 burgonet
 beaverism
-bistoury
 besagne
 beriming
 birled
@@ -12814,6 +12813,7 @@ baudekin
 brachycephalous
 bookstores
 biforked
+bistoury
 bigaroon
 bullfice
 bookward
