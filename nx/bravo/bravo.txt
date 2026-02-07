@@ -2616,7 +2616,6 @@ brio
 burlington
 baryphonia
 bronzesmith
-battu
 buckeen
 biotelemetry
 bastardizing
@@ -11630,6 +11629,7 @@ buxeous
 burbot
 battledored
 benefactrix
+battu
 bolis
 barche
 baidar
