@@ -4109,7 +4109,6 @@ baragnosis
 blitzkrieged
 bemuses
 boldness
-bedeafen
 byssolite
 bottlefuls
 beancod
@@ -8328,6 +8327,7 @@ belittled
 bigeminum
 bludging
 biconditional
+bedeafen
 billie
 bowermaiden
 boche
