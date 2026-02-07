@@ -8554,7 +8554,6 @@ geodetical
 gusla
 garse
 germaneness
-grapestalk
 gemuti
 grinderman
 gravicembalos
@@ -10213,6 +10212,7 @@ glamouring
 girthed
 gainsays
 galericulate
+grapestalk
 gramme
 gowpin
 gweduck
