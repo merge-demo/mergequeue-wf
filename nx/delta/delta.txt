@@ -1745,6 +1745,7 @@ ductility
 deservings
 docent
 dermad
+dastur
 doubleganger
 downlier
 dispersonify
@@ -4141,7 +4142,6 @@ diadokokinesis
 diploperistomic
 desynapsis
 dells
-dastur
 distinct
 dyspneic
 dormitive
