@@ -4012,6 +4012,7 @@ fingerers
 feed
 forecastles
 funnelform
+fomenters
 fono
 falkland
 feverfew
@@ -5024,7 +5025,6 @@ floorages
 flamingant
 fistiness
 foremarch
-fomenters
 flowcharting
 flytrap
 flings
