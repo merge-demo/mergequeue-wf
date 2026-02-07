@@ -3692,6 +3692,7 @@ ghostier
 galah
 glycerolysis
 ganner
+gravimetric
 geodetically
 glumelike
 geotectonically
@@ -5854,7 +5855,6 @@ gaultherase
 geolatry
 gelseminic
 grandesque
-gravimetric
 greyfish
 gallinaceous
 graphometrist
