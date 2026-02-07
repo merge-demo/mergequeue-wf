@@ -19850,6 +19850,7 @@ charade
 comestion
 cometary
 cryobiology
+crestal
 cometaria
 chih
 cabulla
@@ -28818,7 +28819,6 @@ crest
 confiserie
 clinostat
 congrue
-crestal
 churchwards
 chloralide
 chasings
