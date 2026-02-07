@@ -3758,7 +3758,6 @@ ethereally
 earthsets
 enwheel
 everse
-everywheres
 enchytrae
 entrancer
 envenom
@@ -7920,6 +7919,7 @@ encloak
 extincts
 executioner
 empurples
+everywheres
 electricians
 exogonium
 egis
