@@ -3004,6 +3004,7 @@ firry
 fameuse
 fewest
 forebear
+frowner
 fluke
 fustee
 flanned
@@ -11072,7 +11073,6 @@ felonwort
 filled
 fixups
 fogbow
-frowner
 frayproof
 fractionated
 forficated
