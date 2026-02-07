@@ -1163,7 +1163,6 @@ elhi
 exophthalmic
 eikons
 eupepsia
-environage
 edition
 everich
 explicate
@@ -3783,6 +3782,7 @@ embryotega
 etherialise
 embryotegae
 excogitates
+environage
 eweries
 embryotome
 enquiry
