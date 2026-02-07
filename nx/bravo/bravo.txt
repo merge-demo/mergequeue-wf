@@ -10599,7 +10599,6 @@ blatta
 borborygmi
 blackbreast
 bingeys
-blatted
 boltheader
 brawnier
 bespake
@@ -11897,6 +11896,7 @@ benote
 beperiwigged
 barytocelestine
 bodysurfer
+blatted
 bridgebuilding
 brickbats
 buteos
