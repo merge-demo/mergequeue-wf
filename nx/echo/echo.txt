@@ -6752,6 +6752,7 @@ expertising
 encompasses
 entosclerite
 endogenously
+egall
 epulis
 egomanias
 espundia
@@ -8639,7 +8640,6 @@ excrementous
 encompassing
 epigrammatism
 entocoele
-egall
 equidimensional
 electrodialitically
 equidist
