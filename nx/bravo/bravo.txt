@@ -4709,7 +4709,6 @@ breedling
 bedgowns
 bassets
 bedrowse
-bediamonded
 blankit
 brahmanist
 bozze
@@ -15723,6 +15722,7 @@ bathyscaphes
 brocatelle
 basilidan
 beowulf
+bediamonded
 brocatello
 brocatels
 benty
