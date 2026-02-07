@@ -4798,6 +4798,7 @@ bedown
 bedpans
 bombace
 bries
+biquadratic
 beeball
 besplit
 bedrabbling
@@ -11189,7 +11190,6 @@ brutalised
 bloodwite
 bushgoat
 bugfish
-biquadratic
 bloodworthy
 blearily
 blooey
