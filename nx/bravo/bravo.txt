@@ -6635,6 +6635,7 @@ beledgered
 bobcat
 beezers
 bergaptene
+backwrap
 brachyceric
 bawdric
 brandle
@@ -9634,7 +9635,6 @@ bisdiapason
 binary
 bicapsular
 bandlimits
-backwrap
 bisectors
 blander
 busybodyness

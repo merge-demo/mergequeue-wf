@@ -2638,7 +2638,6 @@ empididae
 epispadias
 erythroblastosis
 edriasteroidea
-embace
 elixate
 envies
 embassies
@@ -3683,6 +3682,7 @@ euclea
 entocarotid
 endangitis
 egocerus
+embace
 exemplifies
 elutor
 equispaced
