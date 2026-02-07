@@ -2772,7 +2772,6 @@ fow
 forksmith
 flaunche
 fraterniser
-facetiation
 festally
 ficary
 federalese
@@ -3429,6 +3428,7 @@ fudging
 fustian
 fonctionnaire
 flincher
+facetiation
 febricity
 fiascoes
 fireshine
