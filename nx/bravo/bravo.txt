@@ -30,7 +30,6 @@ bethuel
 basely
 bestrows
 beginnings
-bankrupcy
 batistes
 balductum
 babasu
@@ -663,6 +662,7 @@ bacterized
 barefacedly
 brisk
 bullroarer
+bankrupcy
 briars
 backer
 brutification
