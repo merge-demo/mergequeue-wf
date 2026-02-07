@@ -3143,6 +3143,7 @@ flip
 farriers
 fences
 fairlead
+flotage
 fantastic
 flatman
 flapper
@@ -4007,7 +4008,6 @@ feverfew
 fibrinemia
 foeticide
 fadeaway
-flotage
 fiscal
 fulmine
 figurehead
