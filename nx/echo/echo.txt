@@ -3442,7 +3442,6 @@ equiangular
 emphemeralness
 expensefully
 endostyle
-educatability
 enlute
 eyry
 eulogic
@@ -12190,6 +12189,7 @@ emulate
 exeat
 eyers
 epigraphs
+educatability
 exec
 euskaric
 epiphonemas
