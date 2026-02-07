@@ -698,6 +698,7 @@ falcinellus
 frogface
 feeblehearted
 firebolted
+featherworker
 fulminic
 fumigatorium
 fatigated
@@ -9929,7 +9930,6 @@ fertilising
 freckly
 fibrinogenically
 foredefine
-featherworker
 floorwise
 felid
 farragoes
