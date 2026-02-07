@@ -11543,7 +11543,6 @@ discolored
 dar
 doest
 dissectors
-defalcations
 deads
 dahabiah
 discolouring
@@ -15560,6 +15559,7 @@ demeanors
 depictive
 dentolingual
 decayers
+defalcations
 dauntlessness
 deconcatenate
 deorganization
