@@ -10763,7 +10763,6 @@ dentes
 dippings
 draff
 dipppier
-downcasts
 doubtingly
 disquisitor
 datagrams
@@ -16614,6 +16613,7 @@ drone
 designation
 dragsters
 demisovereign
+downcasts
 doctoress
 distempering
 drayage
