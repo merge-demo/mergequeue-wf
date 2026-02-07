@@ -2764,6 +2764,7 @@ greatcoat
 gorgerin
 gile
 gyne
+goss
 ghana
 grist
 guzzledom
@@ -7727,7 +7728,6 @@ gelations
 gosling
 gliomatous
 grandada
-goss
 grypotherium
 glyptotheca
 gyres
