@@ -10029,6 +10029,7 @@ barrenness
 bivector
 biventer
 blackwashing
+blowie
 bulkin
 bizarrerie
 bield
@@ -11297,7 +11298,6 @@ bacalaos
 bloodedness
 berne
 blowholes
-blowie
 bipinnatipartite
 bewest
 beryline
