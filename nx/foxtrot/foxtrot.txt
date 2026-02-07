@@ -251,7 +251,6 @@ facultize
 fulgur
 fannel
 furfures
-fostress
 framesmith
 formalising
 foreseer
@@ -7389,6 +7388,7 @@ fiberboard
 fronds
 fluxer
 flob
+fostress
 fetting
 frowy
 fulcrum

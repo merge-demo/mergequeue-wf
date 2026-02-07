@@ -5271,7 +5271,6 @@ eukaryote
 ecumenicity
 estimative
 eleusine
-excusingly
 echevin
 evolves
 eskimoid
@@ -12027,6 +12026,7 @@ enterfeat
 equatable
 exometritis
 exampleship
+excusingly
 essentials
 etherion
 embolus
