@@ -19744,7 +19744,6 @@ combinational
 corrigent
 chorepiscope
 combinations
-commensurateness
 cells
 combinative
 counterrotating
@@ -20876,6 +20875,7 @@ concurred
 cohomology
 capacitors
 contentedness
+commensurateness
 compos
 crotalus
 crenotherapy
