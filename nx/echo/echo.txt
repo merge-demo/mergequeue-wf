@@ -1366,7 +1366,6 @@ effect
 endocardiac
 elderlies
 exopeptidase
-entraining
 espials
 effective
 exorcised
@@ -1569,6 +1568,7 @@ extracalendar
 evanishes
 emptings
 elytrous
+entraining
 enigmatic
 eurythermal
 expostulative

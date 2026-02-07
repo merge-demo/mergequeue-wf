@@ -6681,6 +6681,7 @@ dubonnets
 desman
 distain
 desiderable
+dragontail
 diascopy
 deadhead
 diagnoseable
@@ -8610,7 +8611,6 @@ deorsumversion
 driftland
 dewan
 decremeter
-dragontail
 driller
 dispunitive
 donatio
