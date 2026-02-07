@@ -6436,7 +6436,6 @@ grey
 garnishes
 gads
 gagroot
-gillaroo
 graffias
 grasshouse
 gidgee
@@ -8857,6 +8856,7 @@ grieved
 gerberas
 gateless
 guiltful
+gillaroo
 gorhen
 glamourously
 guardians
