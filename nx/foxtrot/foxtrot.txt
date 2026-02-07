@@ -3354,6 +3354,7 @@ fives
 frigidity
 furfur
 foodstuff
+fungicolous
 fusser
 fidelio
 flaxseed
@@ -11175,7 +11176,6 @@ felspar
 fogou
 fungibility
 fungicides
-fungicolous
 frampler
 fibronuclear
 forktail
