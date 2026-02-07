@@ -9882,7 +9882,6 @@ blancard
 bites
 birefringent
 bebat
-beryx
 backswording
 bolelia
 balladry
@@ -13333,6 +13332,7 @@ bridechamber
 botanist
 blattidae
 brushmen
+beryx
 bescreening
 barterers
 benzanalgen
