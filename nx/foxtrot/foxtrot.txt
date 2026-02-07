@@ -4648,6 +4648,7 @@ ferring
 felsophyre
 flowmanostat
 forcipes
+fraction
 forebows
 foresaying
 fasciotomy
@@ -8610,7 +8611,6 @@ finlet
 fiscs
 frows
 forrard
-fraction
 familiarism
 folles
 fluorimeter
