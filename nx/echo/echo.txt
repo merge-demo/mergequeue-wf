@@ -5268,7 +5268,6 @@ epinasties
 exactor
 entreatable
 eukaryote
-editors
 ecumenicity
 estimative
 eleusine
@@ -8015,6 +8014,7 @@ evictor
 epimysia
 esthesias
 expunger
+editors
 enflesh
 eteocreton
 embower
