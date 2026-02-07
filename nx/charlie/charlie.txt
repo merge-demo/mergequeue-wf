@@ -8390,7 +8390,6 @@ chamacea
 chamaebatia
 chamaecranial
 cogons
-centry
 corkir
 chamaelirium
 chamaepericlymenum
@@ -21014,6 +21013,7 @@ compsoa
 canoncito
 consumpt
 clockkeeper
+centry
 compsothlypidae
 chillums
 calligram
