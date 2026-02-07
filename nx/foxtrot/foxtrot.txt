@@ -8550,7 +8550,6 @@ flapped
 forehatchway
 feltwork
 fractionally
-figs
 funambulic
 formulated
 funest
@@ -9836,6 +9835,7 @@ forcy
 fadridden
 faddist
 fretum
+figs
 fanegas
 fidget
 fluors
