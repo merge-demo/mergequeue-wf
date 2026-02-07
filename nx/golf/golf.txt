@@ -1609,7 +1609,6 @@ gastralgia
 gastreas
 gyrinid
 gravitational
-glibness
 gastricism
 glycolipid
 ged
@@ -10754,6 +10753,7 @@ germinator
 gut
 gunge
 grasswards
+glibness
 guaranteer
 guesses
 ganglionectomies
