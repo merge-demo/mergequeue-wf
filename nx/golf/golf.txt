@@ -5256,6 +5256,7 @@ gloamings
 grippier
 goetical
 goffers
+graft
 guestimate
 gaited
 gyrovagi
@@ -7639,7 +7640,6 @@ gracing
 geonic
 gimblet
 gastrodialysis
-graft
 gyal
 grimy
 globalized
