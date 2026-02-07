@@ -8199,6 +8199,7 @@ beloeilite
 ballonet
 burnie
 beardie
+basiliscine
 bailouts
 bosslet
 brontophobia
@@ -12849,7 +12850,6 @@ bondswoman
 bootes
 baseboard
 burglary
-basiliscine
 blink
 barnabite
 bioprecipitation
