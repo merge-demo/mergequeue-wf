@@ -2320,6 +2320,7 @@ graviton
 gateman
 guffin
 gramineal
+gabies
 gamine
 geomaly
 gelatinizer
@@ -2748,7 +2749,6 @@ grabbled
 garbs
 gypsuming
 gelotometer
-gabies
 ginnery
 glassie
 gelee
