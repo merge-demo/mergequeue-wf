@@ -4755,6 +4755,7 @@ bottlers
 bipartition
 brulyiement
 bronchiole
+biotite
 birdseye
 brandrith
 bastardization
@@ -16768,7 +16769,6 @@ bicameralist
 babehood
 boodie
 buckwheatlike
-biotite
 bromocyanid
 bombarded
 bromometrically
