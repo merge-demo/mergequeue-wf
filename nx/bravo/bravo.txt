@@ -10131,7 +10131,6 @@ blabbing
 blabmouth
 basialveolar
 bludgeoneer
-beamish
 blackamoors
 blair
 bovine
@@ -18079,6 +18078,7 @@ bidi
 bemire
 butadiyne
 brumby
+beamish
 bedrid
 beshout
 berthierite
