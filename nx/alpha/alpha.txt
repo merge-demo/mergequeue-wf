@@ -17554,6 +17554,7 @@ absampere
 androspore
 antixerophthalmic
 ashes
+apotropaism
 appendency
 appendicalgia
 aechmophorus
@@ -18767,7 +18768,6 @@ ally
 archemastry
 airdrops
 aberrational
-apotropaism
 alebench
 adoxaceae
 apraxia

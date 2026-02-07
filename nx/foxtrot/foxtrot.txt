@@ -457,7 +457,6 @@ feal
 fiberous
 fogmen
 flameholder
-foumart
 fulminate
 faciendum
 fragilariaceae
@@ -10701,6 +10700,7 @@ feralin
 forestial
 foreset
 fashion
+foumart
 foresheets
 fleuretty
 flirtishness
