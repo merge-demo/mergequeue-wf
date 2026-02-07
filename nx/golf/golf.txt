@@ -8103,7 +8103,6 @@ geryon
 genteelish
 gave
 gentlewoman
-gorkun
 gallivorous
 gundygut
 grimmest
@@ -10228,6 +10227,7 @@ gobbet
 galvo
 graminivore
 glycolipine
+gorkun
 goniodorididae
 gestating
 guiltsick
