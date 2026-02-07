@@ -4890,7 +4890,6 @@ granitiferous
 grossulariaceae
 goyim
 gyn
-garlandless
 girderage
 gladier
 grudgers
@@ -9126,6 +9125,7 @@ gadite
 gummers
 guild
 gobonated
+garlandless
 gamelang
 gallowglass
 ginward
