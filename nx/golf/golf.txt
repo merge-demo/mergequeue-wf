@@ -4208,6 +4208,7 @@ gossy
 grenat
 goosefoots
 geomagnetic
+gumtrees
 gimped
 gimpier
 guidable
@@ -5797,7 +5798,6 @@ geometric
 gaveller
 gadarene
 gloveman
-gumtrees
 granulet
 garancin
 glover
