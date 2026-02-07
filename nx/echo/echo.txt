@@ -2316,7 +2316,6 @@ enchantments
 exormia
 epipial
 enbloc
-endolymph
 excretal
 extinguishes
 elaterids
@@ -5263,6 +5262,7 @@ embryotrophy
 espinillo
 etaerio
 emptily
+endolymph
 eelfare
 epinasties
 exactor
