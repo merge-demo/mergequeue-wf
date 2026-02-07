@@ -5269,6 +5269,7 @@ entreatable
 eukaryote
 editors
 ecumenicity
+estimative
 eleusine
 excusingly
 echevin
@@ -6549,7 +6550,6 @@ enlivens
 erubescence
 excludable
 electrotitration
-estimative
 einkorn
 execration
 ephemeric
