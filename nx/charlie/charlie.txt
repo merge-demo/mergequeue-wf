@@ -10687,7 +10687,6 @@ creedalism
 coilsmith
 canthari
 controverted
-cisgangetic
 companionless
 chin
 commoned
@@ -17347,6 +17346,7 @@ coappear
 calyciflorous
 coappearance
 coappeared
+cisgangetic
 counterplotter
 coappearing
 contaminable
