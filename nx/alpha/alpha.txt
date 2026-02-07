@@ -1966,6 +1966,7 @@ armorial
 archigony
 adangle
 acetize
+achromatising
 assertions
 albert
 appellatively
@@ -12864,7 +12865,6 @@ ausubos
 anguineal
 anginiform
 afterhatch
-achromatising
 adjuvants
 apologetics
 acatastasia
