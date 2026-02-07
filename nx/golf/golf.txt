@@ -8612,7 +8612,6 @@ geminations
 gimballed
 grauwacke
 gap
-germanized
 generator
 grapnel
 guti
@@ -9874,6 +9873,7 @@ gorman
 guanethidine
 gallbush
 galyacs
+germanized
 gastroenterologist
 griddles
 geikielite
