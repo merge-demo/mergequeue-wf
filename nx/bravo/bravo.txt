@@ -13798,6 +13798,7 @@ buffet
 bedlam
 blattoidea
 bogs
+baring
 boatful
 barrator
 balance
@@ -14101,7 +14102,6 @@ brachyglossal
 babuls
 blase
 bimetallist
-baring
 blusterously
 biologize
 brachygnathia
