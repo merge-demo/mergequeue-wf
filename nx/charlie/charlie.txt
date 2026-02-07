@@ -14949,7 +14949,6 @@ cytotropic
 castalio
 cytotropism
 cytovirin
-cheated
 careys
 cinquain
 caprylin
@@ -17397,6 +17396,7 @@ coarticulation
 chondrin
 contriver
 canavalia
+cheated
 claylike
 companionways
 coassert
