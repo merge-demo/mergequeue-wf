@@ -8465,7 +8465,6 @@ bradylalia
 barrington
 behaviors
 belabouring
-boort
 boggart
 bundu
 bilby
@@ -15435,6 +15434,7 @@ beagles
 braata
 bono
 beflout
+boort
 benetted
 bludgeoner
 bota
