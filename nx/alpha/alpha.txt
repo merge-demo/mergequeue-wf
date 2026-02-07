@@ -10062,7 +10062,6 @@ acotyledonous
 ambulancer
 atropinism
 anchoring
-anisogamy
 aminded
 avulsion
 ateloprosopia
@@ -10610,6 +10609,7 @@ amins
 aminta
 amyotonia
 abaca
+anisogamy
 appendicious
 averting
 archivists
