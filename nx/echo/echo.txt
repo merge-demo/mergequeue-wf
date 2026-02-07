@@ -746,7 +746,6 @@ earthed
 epidermous
 electrotrephine
 ecology
-envisions
 ekes
 employing
 enspell
@@ -2116,6 +2115,7 @@ entraps
 eurylaimidae
 exaggerated
 enchainements
+envisions
 ecphractic
 epopoean
 evaluators
