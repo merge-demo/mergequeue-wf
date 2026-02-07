@@ -3955,7 +3955,6 @@ carbonization
 charlatanism
 concn
 chylificatory
-carbonizing
 carbonometer
 carbonous
 carbonuria
@@ -12795,6 +12794,7 @@ congressman
 chunder
 chung
 chunga
+carbonizing
 calomel
 computes
 cyanoethylate
