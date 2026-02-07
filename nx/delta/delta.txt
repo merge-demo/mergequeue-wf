@@ -3225,6 +3225,7 @@ dir
 decorativeness
 danae
 dayside
+diffusibility
 diplonephridia
 derricking
 defenseless
@@ -17107,7 +17108,6 @@ diphenylhydantoin
 deacidified
 destrier
 dislocated
-diffusibility
 divagations
 debentureholder
 dipodies
