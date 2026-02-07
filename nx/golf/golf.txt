@@ -1898,7 +1898,6 @@ glochids
 gradometer
 gubat
 gullied
-gastrozooid
 galeated
 globulet
 gunboat
@@ -8581,6 +8580,7 @@ gastroelytrotomy
 glycide
 gastrolatrous
 gums
+gastrozooid
 gradational
 gonidioid
 gametically
