@@ -1583,6 +1583,7 @@ gl
 graphology
 goodeniaceous
 girasol
+gynandrosporous
 grinder
 geulah
 gambiae
@@ -5026,7 +5027,6 @@ gammed
 glossers
 geotilla
 galbulidae
-gynandrosporous
 grotto
 glaucousness
 ghouls
