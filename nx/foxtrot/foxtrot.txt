@@ -8272,6 +8272,7 @@ folklorism
 figgy
 freelances
 fistularioid
+falloffs
 flushing
 fortunate
 flirting
@@ -10897,7 +10898,6 @@ formalized
 frets
 fieldwort
 forsworn
-falloffs
 fustigated
 foremastmen
 facemaking
