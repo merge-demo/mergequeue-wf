@@ -814,6 +814,7 @@ folkloristic
 fleck
 fustanelle
 fulgide
+futter
 fightings
 frisk
 fowl
@@ -9172,7 +9173,6 @@ florulae
 feoffees
 federary
 flamineous
-futter
 frolicked
 fady
 fortepiano
