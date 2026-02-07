@@ -8841,6 +8841,7 @@ embossable
 enround
 electrodepositable
 erections
+equipartile
 eventuations
 eudromias
 endanger
@@ -13007,7 +13008,6 @@ expectation
 emphractic
 exodoi
 empaper
-equipartile
 expected
 eucharises
 eryon
