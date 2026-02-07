@@ -4269,7 +4269,6 @@ flaubertian
 frijolillo
 fabula
 fussy
-fructoside
 forebooms
 flots
 floridians
@@ -6128,6 +6127,7 @@ familiarize
 featurelessness
 fraser
 firefighters
+fructoside
 feedstuffs
 flamethrower
 flunky
