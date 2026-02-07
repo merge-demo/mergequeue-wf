@@ -3177,6 +3177,7 @@ ferrugo
 fylgjur
 fatalities
 fingerpost
+fluotantalic
 ferment
 frighty
 farrel
@@ -6512,7 +6513,6 @@ fluorenes
 footbaths
 firmarius
 feneration
-fluotantalic
 french
 fennecs
 filmsetter
