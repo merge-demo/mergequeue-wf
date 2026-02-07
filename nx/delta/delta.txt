@@ -2279,7 +2279,6 @@ dowsers
 drawnet
 disceptator
 downpipe
-decemviral
 discants
 deepish
 decayer
@@ -7564,6 +7563,7 @@ desilvering
 drubber
 discriminably
 ducktail
+decemviral
 discs
 denumerability
 deuterozooid
