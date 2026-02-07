@@ -9447,7 +9447,6 @@ bielby
 beclowning
 benedictus
 bismutoplagionite
-butcherer
 bulbocodium
 blinkard
 bebotch
@@ -11966,6 +11965,7 @@ berth
 bibliokleptomania
 backstairs
 barographs
+butcherer
 bourns
 bogart
 bogatyr
