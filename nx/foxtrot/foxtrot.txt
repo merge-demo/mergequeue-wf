@@ -2279,7 +2279,6 @@ fantails
 folktale
 forbite
 fusing
-fragging
 fracturs
 forks
 fated
@@ -3655,6 +3654,7 @@ fourrageres
 fructify
 farolito
 fluoroformol
+fragging
 fableland
 fundal
 furbelowed
