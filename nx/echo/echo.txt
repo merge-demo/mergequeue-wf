@@ -4008,6 +4008,7 @@ empanelling
 empanels
 enfamish
 emparchment
+exteriorly
 eradiates
 evertile
 exaltative
@@ -8119,7 +8120,6 @@ evanescenrly
 eteocles
 ectodermal
 elver
-exteriorly
 ego
 exuding
 earthworks
