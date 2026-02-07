@@ -5008,6 +5008,7 @@ gastrelcosis
 gametophyte
 grisliest
 glamoured
+gastronome
 gregarinaria
 greatmouthed
 gettable
@@ -5607,7 +5608,6 @@ goller
 giantesque
 gemmaceous
 grossular
-gastronome
 graminaceae
 geotectonics
 glochid
