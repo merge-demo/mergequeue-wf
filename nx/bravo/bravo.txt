@@ -3246,7 +3246,6 @@ beknave
 bravish
 blowzily
 bakeboard
-basidiospore
 basidiosporous
 blurbist
 buckbush
@@ -11092,6 +11091,7 @@ bilirubinic
 billy
 bioral
 blockiest
+basidiospore
 blocking
 barny
 borborygmic
