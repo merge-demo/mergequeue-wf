@@ -6472,7 +6472,6 @@ goaltenders
 georgiadesite
 gonapophysial
 gravelled
-gawkily
 gruffness
 garnierite
 genetic
@@ -9776,6 +9775,7 @@ grummet
 governmentally
 gearing
 gable
+gawkily
 gibbetting
 gorged
 glutens
