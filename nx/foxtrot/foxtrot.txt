@@ -6360,6 +6360,7 @@ franklinian
 feodality
 fens
 fiendship
+foggages
 frigidarium
 futurable
 flimsier
@@ -11297,7 +11298,6 @@ florikan
 fleming
 fomentation
 filterableness
-foggages
 flashlamps
 firesides
 foyer
