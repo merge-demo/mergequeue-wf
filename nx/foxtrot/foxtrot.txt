@@ -8349,7 +8349,6 @@ flunkyite
 fora
 feastful
 folkways
-fewsome
 fortitudes
 floodage
 ferineness
@@ -10904,6 +10903,7 @@ foremastmen
 facemaking
 fairyfloss
 furzier
+fewsome
 feathering
 fruitist
 fossilology
