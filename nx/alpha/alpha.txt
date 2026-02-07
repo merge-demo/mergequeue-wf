@@ -12468,6 +12468,7 @@ apodoses
 alligatored
 astilbe
 anepigraphous
+amalic
 algae
 anepithymia
 automatons
@@ -19792,7 +19793,6 @@ airplanes
 anilid
 armamentarium
 armangite
-amalic
 auriculars
 adaptivity
 armariumaria
