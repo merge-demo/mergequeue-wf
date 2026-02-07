@@ -3279,7 +3279,6 @@ endocone
 exantlate
 eulogising
 extraserous
-encircles
 entomophagous
 episcopation
 evocative
@@ -5231,6 +5230,7 @@ endopelvic
 encyclopaedist
 endophagous
 episiocele
+encircles
 endophyllum
 exospherical
 ensphere
