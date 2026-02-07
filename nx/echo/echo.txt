@@ -502,6 +502,7 @@ erf
 exsectile
 eveners
 elephantoidal
+elegantly
 endgame
 enanthesis
 epitheliomata
@@ -1146,7 +1147,6 @@ esterification
 electrotypes
 ergoism
 erionite
-elegantly
 equivalencing
 enarthrosis
 epitrichial
