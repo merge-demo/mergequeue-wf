@@ -2762,7 +2762,6 @@ gemeinde
 gotch
 gaunt
 growling
-grievingly
 galbulae
 greatcoat
 gorgerin
@@ -10141,6 +10140,7 @@ gideonite
 gasohol
 grazers
 giddyish
+grievingly
 gal
 gloried
 gallivanting
