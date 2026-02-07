@@ -1610,6 +1610,7 @@ extraversion
 encampment
 envigor
 exogeny
+equilobate
 essenis
 endosperm
 electrosynthetically
@@ -12347,7 +12348,6 @@ excretes
 enlife
 ergate
 eseptate
-equilobate
 euhemerised
 expects
 endarchy
