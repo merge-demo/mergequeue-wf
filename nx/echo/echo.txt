@@ -4309,7 +4309,6 @@ elapid
 emotes
 exacted
 ermitophobia
-emacerated
 extoller
 epispadia
 epruinose
@@ -12315,6 +12314,7 @@ epimerite
 erichtoid
 eavesing
 enjambment
+emacerated
 eradicating
 emusive
 euscaro
