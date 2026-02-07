@@ -6291,7 +6291,6 @@ fairgrounds
 forlana
 flaggings
 filched
-forhow
 flaneries
 franchises
 focusable
@@ -11283,6 +11282,7 @@ frigorify
 furrowed
 foregut
 fanaticized
+forhow
 fourpenny
 fiscalize
 flurrying
