@@ -1856,7 +1856,6 @@ alytes
 allopatry
 acerolas
 antigod
-agnosy
 airworthier
 airinesses
 acerous
@@ -6353,6 +6352,7 @@ antisyphilitic
 arsonite
 almondlike
 aigre
+agnosy
 arachnidan
 andesic
 astucious
