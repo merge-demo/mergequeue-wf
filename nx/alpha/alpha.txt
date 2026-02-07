@@ -2441,7 +2441,6 @@ aluminized
 antitartaric
 autoriser
 anthroposomatology
-arthropathology
 adret
 archaizing
 arisings
@@ -17437,6 +17436,7 @@ assigneeship
 appallingness
 accrementition
 appallment
+arthropathology
 aerodyne
 anticlinal
 availability
