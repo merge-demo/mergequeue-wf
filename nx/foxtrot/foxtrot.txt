@@ -10563,7 +10563,6 @@ faciend
 freq
 forstand
 fumigates
-foretack
 fluidrams
 footslogging
 frictionless
@@ -11160,6 +11159,7 @@ fernlike
 fistmele
 fruitiest
 falseface
+foretack
 frumple
 fingerhold
 featurally
