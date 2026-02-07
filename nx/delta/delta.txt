@@ -10129,6 +10129,7 @@ dilatable
 discoverer
 dynamomorphic
 dialup
+decomponible
 discoursively
 drainfield
 decentralised
@@ -14825,7 +14826,6 @@ doctor
 dashwheel
 deservingly
 doctorfishes
-decomponible
 doctorhood
 diethylenediamine
 doctorial
