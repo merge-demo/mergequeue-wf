@@ -7741,6 +7741,7 @@ endoubt
 extruder
 epidemically
 evidentiary
+eviscerations
 enfevered
 epidemiography
 epeirogeny
@@ -12338,7 +12339,6 @@ extermine
 emanators
 echea
 exerted
-eviscerations
 enthrallments
 exertionless
 excretes
