@@ -1902,6 +1902,7 @@ fistula
 flimsy
 forgiver
 farrowing
+firedamps
 flattery
 federalism
 fecalith
@@ -9830,7 +9831,6 @@ feldspathic
 fireplough
 fuds
 followup
-firedamps
 fragmentary
 faldistory
 flowoff
