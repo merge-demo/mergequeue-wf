@@ -10015,7 +10015,6 @@ ballottine
 blairmorite
 byrlawmen
 bivalvia
-bivalvian
 baddock
 bivascular
 bufotoxin
@@ -16571,6 +16570,7 @@ basils
 burgality
 bruteness
 balloonfishes
+bivalvian
 befilleted
 blockader
 brutify
