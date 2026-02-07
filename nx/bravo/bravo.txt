@@ -12584,7 +12584,6 @@ burtonize
 besiegement
 benedictive
 bikkurim
-boniata
 brazilins
 bloodshot
 blauboks
@@ -15348,6 +15347,7 @@ bitmapped
 bisecting
 barramunda
 balconied
+boniata
 bandylegged
 blisterwort
 bohorok
