@@ -2283,6 +2283,7 @@ forbite
 fusing
 fracturs
 forks
+favorite
 fated
 fibrochondrosteal
 floored
@@ -7845,7 +7846,6 @@ featherstitch
 fidgetiness
 forepaws
 fractionisation
-favorite
 focusing
 fatiguable
 fellen
