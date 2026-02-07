@@ -12608,7 +12608,6 @@ boning
 bakemeat
 bonitarian
 bonity
-balsam
 buckaroo
 bragi
 bemocks
@@ -12762,6 +12761,7 @@ browis
 barrenwort
 bonefish
 barging
+balsam
 bostrychoidal
 ballant
 booklear
