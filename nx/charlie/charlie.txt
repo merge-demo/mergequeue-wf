@@ -4271,7 +4271,6 @@ christies
 clearwing
 carnet
 capturers
-chiron
 catcher
 coloboma
 carabideous
@@ -15982,6 +15981,7 @@ cointension
 clericism
 conglomerator
 centares
+chiron
 clerid
 chicaning
 ceder
