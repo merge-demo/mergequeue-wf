@@ -1241,7 +1241,6 @@ datisi
 desugared
 decapitate
 deutovum
-dative
 disspread
 dreamlore
 dialectalize
@@ -12836,6 +12835,7 @@ decreptitude
 demoniast
 duodenal
 dehydrogenized
+dative
 dyemaking
 depositaries
 daubs
