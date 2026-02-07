@@ -5896,6 +5896,7 @@ fenestration
 flywinch
 footback
 forgrown
+fustle
 fallers
 filariid
 floatage
@@ -9717,7 +9718,6 @@ fouquieria
 foldouts
 facilitations
 fraising
-fustle
 fletch
 footwalls
 fingerroot
