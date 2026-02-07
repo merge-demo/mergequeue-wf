@@ -10628,7 +10628,6 @@ alevins
 affection
 awunctive
 amire
-anthracometric
 amyris
 abattis
 amyrol
@@ -15793,6 +15792,7 @@ amberiferous
 antiepileptic
 amphisbaenian
 afloat
+anthracometric
 antiaesthetic
 antipyics
 acepots
