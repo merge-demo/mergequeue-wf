@@ -8977,7 +8977,6 @@ accipenser
 arrectary
 alloxuraemia
 alloxuremia
-apnoeas
 apsidal
 anadicrotic
 alphyl
@@ -17112,6 +17111,7 @@ astucity
 agricultural
 apoious
 antihistorical
+apnoeas
 aphlebia
 ahint
 anchovies
