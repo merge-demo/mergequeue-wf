@@ -1952,7 +1952,6 @@ cartonnage
 cambricleaf
 colobus
 catostomidae
-chaumer
 cambuca
 cambuscan
 came
@@ -6116,6 +6115,7 @@ cating
 cativo
 cogglety
 cheapo
+chaumer
 ceston
 catkin
 catkinate

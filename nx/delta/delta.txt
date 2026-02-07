@@ -483,6 +483,7 @@ decollation
 dalmania
 disobliged
 dalmanites
+despiciency
 discocarpous
 dictature
 drainpipes
@@ -13354,7 +13355,6 @@ demographics
 dentistical
 demorphinization
 demonophobia
-despiciency
 dispropriate
 dysprosia
 disproves
