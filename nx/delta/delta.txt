@@ -5288,7 +5288,6 @@ ducks
 drumlin
 distitle
 dentalium
-dolor
 dines
 dentatoserrate
 decennary
@@ -13928,6 +13927,7 @@ derisive
 diemaking
 demiurgic
 denshare
+dolor
 dramatics
 distillator
 danebrog
