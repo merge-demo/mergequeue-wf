@@ -2599,7 +2599,6 @@ bonaci
 beltways
 bardel
 barylalia
-beleaped
 blens
 barile
 bevilled
@@ -12466,6 +12465,7 @@ behap
 ballplayer
 backcast
 begloom
+beleaped
 bonbons
 bureaux
 bootstrap
