@@ -2532,6 +2532,7 @@ foreswear
 fastballs
 frush
 frecket
+foreshortens
 favaginous
 foulmouth
 feverlike
@@ -5675,7 +5676,6 @@ fortitude
 furmint
 fulful
 fistfuls
-foreshortens
 fluorographic
 fleysome
 florescent
