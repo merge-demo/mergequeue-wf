@@ -12755,7 +12755,6 @@ armata
 ageings
 antihysteric
 anatomisation
-anatoxins
 anagram
 ascomycetes
 athenaea
@@ -13195,6 +13194,7 @@ anisocytosis
 aval
 apograph
 allwhere
+anatoxins
 appetit
 amendatory
 anisodactyli
