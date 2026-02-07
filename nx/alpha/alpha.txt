@@ -1445,6 +1445,7 @@ accipient
 accite
 acclaimable
 aphenoscope
+antedated
 amblyope
 anagignoskomena
 acclaimer
@@ -9584,7 +9585,6 @@ artarin
 auspicy
 antimodernist
 antespring
-antedated
 amphiblastic
 alur
 astrophotography
