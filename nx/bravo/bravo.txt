@@ -5816,7 +5816,6 @@ burdensomeness
 boxers
 bromocyanide
 becrawling
-bedlamic
 batched
 backie
 bombyliidae
@@ -15170,6 +15169,7 @@ bedstraw
 bristlier
 brusk
 bryaceae
+bedlamic
 backhooker
 biflecnode
 bram
