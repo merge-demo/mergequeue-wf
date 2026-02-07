@@ -3900,6 +3900,7 @@ genetrix
 gateworks
 glaciological
 gorblin
+galenoid
 genomic
 gnathonically
 gravidness
@@ -8583,7 +8584,6 @@ griped
 goodbyes
 griffithite
 gastroelytrotomy
-galenoid
 glycide
 gastrolatrous
 gums
