@@ -2085,6 +2085,7 @@ fullmouthed
 feudalisation
 foremasthand
 flyovers
+flexions
 fusibleness
 founderous
 fideistic
@@ -7048,7 +7049,6 @@ feridjee
 fluxive
 ferniest
 fuchsines
-flexions
 flota
 fissility
 filla
