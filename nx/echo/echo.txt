@@ -2483,7 +2483,6 @@ eyemark
 effulgences
 encitadel
 exinanition
-exendospermic
 earthquaked
 eslabon
 efficient
@@ -8672,6 +8671,7 @@ extraneity
 equigranular
 equilateral
 equilibrant
+exendospermic
 equilibrates
 egol
 enregistry
