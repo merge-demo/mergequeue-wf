@@ -702,7 +702,6 @@ falcinellus
 frogface
 feeblehearted
 firebolted
-fimetic
 fulminic
 fumigatorium
 fatigated
@@ -7317,6 +7316,7 @@ fluorogen
 foregoing
 featly
 fogdogs
+fimetic
 fledglings
 fratricidal
 foeffment
