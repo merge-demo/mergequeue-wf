@@ -2954,6 +2954,7 @@ evicts
 elevons
 eurydice
 elf
+essayists
 elfenfolk
 everydeal
 endogeny
@@ -4120,7 +4121,6 @@ ethmophysal
 enhydris
 enantiomer
 euphuistical
-essayists
 emplastic
 excruciatingness
 eolian
