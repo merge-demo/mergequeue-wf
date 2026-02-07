@@ -435,6 +435,7 @@ fribbled
 fasciae
 fibrocartilaginous
 forgeman
+feckulence
 flarfish
 foreordained
 forthon
@@ -2697,7 +2698,6 @@ frostbow
 fetish
 flashy
 fibs
-feckulence
 flamb
 frontispiece
 formularize
