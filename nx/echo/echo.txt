@@ -6872,7 +6872,6 @@ eloper
 escalated
 entropion
 eggler
-encheiria
 exhalent
 entom
 extender
@@ -7084,6 +7083,7 @@ extractors
 excommunicator
 epitendineum
 encipherments
+encheiria
 emplace
 embladder
 explorable
