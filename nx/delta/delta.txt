@@ -3045,7 +3045,6 @@ depicters
 disgustfully
 disquietingly
 deadliness
-downbent
 doohickus
 dentaria
 defacer
@@ -5085,6 +5084,7 @@ destitute
 deperition
 dravya
 dipsomania
+downbent
 dendrocoelan
 dendrocoele
 dronet
