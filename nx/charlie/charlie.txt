@@ -3056,7 +3056,6 @@ cantoner
 cellocut
 cantoning
 cantonize
-colectomy
 cantoral
 cantoria
 cholralosed
@@ -24322,6 +24321,7 @@ cooker
 cookeries
 cookhouses
 cooky
+colectomy
 cookie
 cookishly
 colloquia
