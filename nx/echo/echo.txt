@@ -4912,7 +4912,6 @@ epulary
 explete
 epitaxic
 elepaio
-excitoglandular
 empoisons
 exoperidium
 exies
@@ -6814,6 +6813,7 @@ educator
 euclid
 extramural
 ervenholder
+excitoglandular
 encage
 edrioasteroidea
 epithumetic
