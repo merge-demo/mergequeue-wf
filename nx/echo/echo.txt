@@ -1759,7 +1759,6 @@ endogenicity
 electrolyzable
 enjoy
 employ
-electrotypist
 epistilbite
 ejective
 evang
@@ -9045,6 +9044,7 @@ entwite
 equiponderous
 ebcasc
 episarkine
+electrotypist
 erythremia
 endameba
 epicoracoid
