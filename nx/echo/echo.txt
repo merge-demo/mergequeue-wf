@@ -1163,6 +1163,7 @@ exophthalmic
 eikons
 eupepsia
 edition
+eugubium
 everich
 explicate
 endere
@@ -4444,7 +4445,6 @@ ensigncies
 eubacteria
 exclamatorily
 encapsulation
-eugubium
 escapement
 exceeding
 emitted
