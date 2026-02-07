@@ -2899,7 +2899,6 @@ canonship
 canoodles
 counsinhood
 canopy
-canopid
 canalised
 canopies
 clarigate
@@ -19115,6 +19114,7 @@ collimated
 circumstantiality
 collimates
 collimation
+canopid
 collimator
 congressive
 considered

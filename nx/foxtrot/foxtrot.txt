@@ -1287,7 +1287,6 @@ fibroblast
 formicide
 fount
 fastgoing
-figurine
 foresaw
 florid
 fleys
@@ -10515,6 +10514,7 @@ flnerie
 flatweed
 fidged
 frostfish
+figurine
 forcite
 frosty
 feasance
