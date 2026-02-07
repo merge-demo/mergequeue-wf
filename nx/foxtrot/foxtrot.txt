@@ -6622,7 +6622,6 @@ flattened
 fincas
 fumish
 facings
-fluxive
 fissions
 freespace
 fuciphagous
@@ -7047,6 +7046,7 @@ foliate
 fraenulum
 foreaccustom
 feridjee
+fluxive
 ferniest
 fuchsines
 flexions
