@@ -10802,7 +10802,6 @@ bibulus
 biorhythmic
 bratty
 bronchomotor
-befuddlers
 bywords
 bombillas
 befrill
@@ -11507,6 +11506,7 @@ broadshare
 blufter
 bluggy
 bethwack
+befuddlers
 bombload
 blumes
 birches
