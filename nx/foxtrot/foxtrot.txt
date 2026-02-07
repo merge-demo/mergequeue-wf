@@ -1447,7 +1447,6 @@ firmness
 futhork
 fatuitous
 falcular
-floorwalkers
 fringing
 fatuoid
 flanched
@@ -1888,6 +1887,7 @@ fingerflower
 fontanelle
 fumbling
 forestaller
+floorwalkers
 foism
 fenestellidae
 filoselle
