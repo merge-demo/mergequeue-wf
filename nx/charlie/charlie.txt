@@ -25294,7 +25294,6 @@ cormous
 corn
 cornaceae
 chaetophorous
-cornada
 counterscale
 cornbind
 checkerboards
@@ -31524,6 +31523,7 @@ currijong
 circumvents
 curring
 coulomb
+cornada
 cyrenaic
 currock
 clupeoids
