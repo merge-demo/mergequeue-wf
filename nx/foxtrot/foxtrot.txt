@@ -2244,7 +2244,6 @@ flopping
 footnoting
 foreimpressed
 flotsan
-fulvous
 folio
 fainaiguer
 fatil
@@ -5720,6 +5719,7 @@ facsimiles
 finedraw
 foredated
 fardel
+fulvous
 fermium
 financially
 fatling
