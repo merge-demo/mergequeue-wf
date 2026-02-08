@@ -8807,6 +8807,7 @@ chapstick
 concurbit
 chintzier
 camelot
+cog
 carboned
 chloroid
 cloudless
@@ -15264,7 +15265,6 @@ clamming
 colpotomies
 cerebrospinal
 clammyweed
-cog
 clamorer
 clamorers
 clamorist
