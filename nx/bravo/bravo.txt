@@ -14366,6 +14366,7 @@ borehole
 baits
 behowl
 boxkeeper
+bulby
 burnable
 brahminists
 brahmoism
@@ -16987,7 +16988,6 @@ brittler
 bulb
 blankard
 bakuninism
-bulby
 bulbier
 bacteriotoxin
 buettneria
