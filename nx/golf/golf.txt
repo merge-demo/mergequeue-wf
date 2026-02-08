@@ -1291,7 +1291,6 @@ glossarist
 grail
 guepard
 glowered
-guardhouse
 giro
 grindal
 garganey
@@ -4174,6 +4173,7 @@ guaranin
 gainful
 gyrocompass
 gur
+guardhouse
 gnathites
 galahs
 glaswegian
