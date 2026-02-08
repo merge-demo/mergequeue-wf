@@ -3415,7 +3415,6 @@ gruelingly
 gerontocrat
 gingilis
 glint
-gyroscopics
 gallinule
 genecologist
 gossard
@@ -8755,6 +8754,7 @@ grantors
 goniometer
 gorge
 greenling
+gyroscopics
 glessite
 grogram
 groszy
