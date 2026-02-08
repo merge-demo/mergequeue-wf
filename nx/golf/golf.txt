@@ -2875,7 +2875,6 @@ gadaba
 geocentric
 gadwell
 ganta
-glints
 gallipots
 gonocyte
 gombos
@@ -7131,6 +7130,7 @@ gnathostomatous
 gastrocystic
 gillying
 gubbings
+glints
 grieshoch
 goran
 gynecoid
