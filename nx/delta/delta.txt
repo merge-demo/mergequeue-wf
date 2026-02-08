@@ -5879,7 +5879,6 @@ depreciate
 disannex
 deponents
 doublehanded
-despots
 depreciation
 dioicous
 diadumenus
@@ -15884,6 +15883,7 @@ dosses
 dossier
 dormition
 devilwood
+despots
 distileries
 dissemblies
 desaminase
