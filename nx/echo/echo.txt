@@ -8142,7 +8142,6 @@ enfacing
 emerge
 eriophyid
 eaglehawk
-epiphloeum
 etherize
 erythrophobia
 ethicians
@@ -10345,6 +10344,7 @@ ethmopalatal
 eyer
 ectases
 epiphyllous
+epiphloeum
 embryoid
 ensignment
 endymal
