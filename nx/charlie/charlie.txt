@@ -17864,6 +17864,7 @@ counterponderate
 comprehended
 chloride
 chiclero
+ceratospongiae
 constellations
 coders
 chromoprotein
@@ -29596,7 +29597,6 @@ culture
 chorusmaster
 caterer
 crocetin
-ceratospongiae
 chamois
 croche
 crocheted

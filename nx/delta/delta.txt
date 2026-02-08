@@ -8074,7 +8074,6 @@ disilicic
 delphinidae
 dehypnotizing
 descaled
-datatype
 dafter
 dhooras
 dhooties
@@ -16885,6 +16884,7 @@ dreamlikeness
 drumfish
 dullishly
 dobchick
+datatype
 disaggregated
 diva
 damboard
