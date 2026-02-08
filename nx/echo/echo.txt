@@ -1464,6 +1464,7 @@ excoct
 endobatholithic
 electrostriction
 eaglet
+edentulate
 encashable
 endoral
 ensuable
@@ -5535,7 +5536,6 @@ elizabethans
 elatedly
 epidymides
 experimentalism
-edentulate
 episporangium
 enfatico
 endoscopically
