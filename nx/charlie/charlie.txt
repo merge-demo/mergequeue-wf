@@ -4499,7 +4499,6 @@ carity
 circumfusion
 colubridae
 companionage
-carked
 corallic
 coacts
 canarin
@@ -17406,6 +17405,7 @@ coastland
 cytoplast
 constipated
 curtails
+carked
 couscouses
 coastlines
 cutleress
