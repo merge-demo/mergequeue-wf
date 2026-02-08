@@ -4255,7 +4255,6 @@ gramineousness
 glede
 greenwithe
 geochemical
-geoform
 gunfight
 grasscutter
 goon
@@ -7737,6 +7736,7 @@ glabrate
 guarapucu
 granthi
 geist
+geoform
 gashly
 gewgawish
 gruesomely
