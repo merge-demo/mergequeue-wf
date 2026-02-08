@@ -4408,7 +4408,6 @@ gazangabin
 gambits
 guide
 ginseng
-globigerinidae
 genoveva
 gynura
 garotter
@@ -10576,6 +10575,7 @@ glyptics
 grenadier
 graywacke
 gonidium
+globigerinidae
 gunning
 gorsier
 gonzalo
