@@ -2677,6 +2677,7 @@ derails
 deconvolution
 deconvolve
 desmon
+docimasia
 distilery
 decor
 decrowning
@@ -14773,7 +14774,6 @@ deadnesses
 divinator
 disorganize
 disabusal
-docimasia
 dakir
 desmacyte
 dentilated
