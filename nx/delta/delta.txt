@@ -577,6 +577,7 @@ dynamophone
 deadhand
 derelinquendi
 disgracefulness
+drawable
 disinhumed
 determinantal
 diverticular
@@ -8082,7 +8083,6 @@ desugar
 durzi
 dhritarashtra
 disembowelled
-drawable
 dhurra
 da
 detrimentalness
