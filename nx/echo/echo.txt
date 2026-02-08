@@ -10015,7 +10015,6 @@ extraterrestrial
 epicoracoidal
 endostoma
 externality
-examined
 eggberries
 energetic
 emissivity
@@ -12481,6 +12480,7 @@ esteems
 efforts
 ense
 excusively
+examined
 eric
 excursionism
 etiogenic
