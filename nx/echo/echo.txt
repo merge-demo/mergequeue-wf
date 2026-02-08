@@ -136,6 +136,7 @@ eponyms
 echinoderma
 embosk
 excipient
+ensindon
 eloigns
 epigrammatic
 eurafric
@@ -8895,7 +8896,6 @@ esotericism
 etymologicon
 entophytic
 equinox
-ensindon
 equiprobabilist
 egyptologic
 encrypt
