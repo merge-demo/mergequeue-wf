@@ -4642,7 +4642,6 @@ bogans
 bewilderingly
 broomwood
 baladine
-bedeafening
 baghouse
 bromvogel
 bilberry
@@ -11498,6 +11497,7 @@ behaves
 broadshare
 blufter
 bluggy
+bedeafening
 bethwack
 befuddlers
 bombload
