@@ -7458,7 +7458,6 @@ cadus
 centrums
 copecks
 cephalosome
-campbellite
 cephalotaceae
 congressmen
 cephalotaxus
@@ -19373,6 +19372,7 @@ caryocaraceae
 connectionism
 captainships
 cherubin
+campbellite
 consecrating
 confidant
 colorant
