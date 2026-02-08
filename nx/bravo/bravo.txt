@@ -5577,6 +5577,7 @@ bagnette
 barrette
 bloodguiltless
 ben
+barrowful
 babbitting
 brutified
 battier
@@ -16813,7 +16814,6 @@ bicarbonate
 begari
 blindfolding
 blackener
-barrowful
 barytones
 bagasse
 budgerow
