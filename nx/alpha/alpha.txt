@@ -10710,7 +10710,6 @@ attorneydom
 aits
 anywise
 affricates
-anack
 ammonate
 auxiliation
 abortogenic
@@ -11749,6 +11748,7 @@ analogic
 anteposition
 amphicome
 amidomyelin
+anack
 abdominocardiac
 analogised
 alchem
