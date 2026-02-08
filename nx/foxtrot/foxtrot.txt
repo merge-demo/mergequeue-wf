@@ -10769,6 +10769,7 @@ flagstaves
 fireboot
 fausant
 fletches
+forelooper
 fifths
 feltwort
 footraces
@@ -11341,7 +11342,6 @@ furloughed
 flustrine
 fuchsin
 forfended
-forelooper
 fluxure
 falseheartedly
 fissional
