@@ -6130,7 +6130,6 @@ ereptic
 equals
 eruptive
 euphues
-enfacement
 eigenspace
 episkotister
 estuary
@@ -12105,6 +12104,7 @@ earworm
 editress
 emasculation
 embroche
+enfacement
 excruciable
 eulogiums
 excruciated
