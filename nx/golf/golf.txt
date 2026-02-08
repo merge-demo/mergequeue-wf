@@ -6619,6 +6619,7 @@ guarantee
 gibsons
 gyrodyne
 gambusias
+gravels
 gunnysack
 guidons
 gastrohysteropexy
@@ -8678,7 +8679,6 @@ glyptolith
 glissading
 glacification
 gardenmaking
-gravels
 gymnical
 galactophygous
 grunted
