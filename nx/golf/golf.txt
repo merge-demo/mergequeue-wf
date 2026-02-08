@@ -1879,7 +1879,6 @@ gaum
 gamenesses
 grubstake
 galeche
-gardenwise
 gripey
 gating
 gymnosophical
@@ -9048,6 +9047,7 @@ greenhouses
 ghostliness
 greatens
 guacamole
+gardenwise
 gaylussite
 gnatcatcher
 girasole
