@@ -1937,7 +1937,6 @@ garvie
 gulfweed
 grandstanding
 girder
-gabbled
 gauged
 germicides
 glucosidal
@@ -10244,6 +10243,7 @@ gustiness
 galvanoplastically
 grownup
 gauzelike
+gabbled
 guanases
 galeproof
 guinness
