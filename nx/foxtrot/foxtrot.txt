@@ -1328,7 +1328,6 @@ fallowness
 frictionally
 favorability
 foramination
-fyttes
 flannelflower
 flyable
 factionally
@@ -4053,6 +4052,7 @@ forefaces
 flower
 fario
 feute
+fyttes
 funerally
 feudatorial
 farinhas
