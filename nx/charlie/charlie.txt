@@ -3054,7 +3054,6 @@ cantonal
 cantonalism
 crapelike
 characterizer
-cantoner
 cellocut
 cantoning
 cantonize
@@ -7320,6 +7319,7 @@ calciocarnotite
 coalmouse
 coraise
 centure
+cantoner
 countertenor
 carbonados
 confuter
