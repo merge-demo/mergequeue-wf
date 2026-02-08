@@ -3457,6 +3457,7 @@ abodah
 autofluorescence
 arthroclasia
 adeleidae
+auguries
 adhesively
 airscapes
 asboline
@@ -21783,7 +21784,6 @@ acanaceous
 apterous
 apparencies
 alloeotic
-auguries
 aenigma
 anionics
 antimethod
