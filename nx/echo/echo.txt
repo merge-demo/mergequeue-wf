@@ -1125,6 +1125,7 @@ elaidate
 exfigure
 earock
 ember
+ergonovine
 equipoised
 evaluates
 epimerize
@@ -12569,7 +12570,6 @@ epithesis
 ebionize
 etc
 expressmen
-ergonovine
 eupathy
 excepable
 exceptionality
