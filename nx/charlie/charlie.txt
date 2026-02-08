@@ -443,6 +443,7 @@ calamints
 cacti
 concrete
 characteristic
+citywards
 corach
 combind
 crocodilean
@@ -23019,7 +23020,6 @@ cavalcade
 cagmag
 consonantism
 consonantized
-citywards
 consonantness
 consonants
 clinograph
