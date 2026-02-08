@@ -1730,7 +1730,6 @@ farcemeat
 freedman
 feeded
 forebitt
-forecastlemen
 foliar
 frenchism
 foresaddle
@@ -11581,6 +11580,7 @@ foretalking
 forrit
 figments
 fiddlers
+forecastlemen
 forespoken
 flanch
 freity
