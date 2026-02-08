@@ -4717,7 +4717,6 @@ ginglymodian
 generis
 gnomons
 gastraeas
-guzmania
 guarnieri
 gumshoe
 genista
@@ -5584,6 +5583,7 @@ gesticulacious
 gazometer
 guejarite
 goutier
+guzmania
 greenroom
 glucaemia
 gumming
