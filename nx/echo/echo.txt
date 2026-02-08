@@ -1669,6 +1669,7 @@ extraphysiological
 emborder
 egret
 egromancy
+equilibrize
 egurgitate
 egurgitated
 epitaphian
@@ -13469,7 +13470,6 @@ egyptian
 edgerman
 epenthetic
 electrolyse
-equilibrize
 ensuingly
 encopresis
 elucidatory
