@@ -1144,7 +1144,6 @@ exhibitorship
 efoliolate
 enumerable
 edwina
-extempory
 epeisodion
 esterification
 electrotypes
@@ -5216,6 +5215,7 @@ endomorphy
 exta
 ekebergite
 either
+extempory
 endoneurium
 equestrianism
 editchar
