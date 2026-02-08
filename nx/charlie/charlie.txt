@@ -12585,6 +12585,7 @@ coalternative
 chantecler
 cercle
 cafetiere
+cristy
 chronologizing
 chronomantic
 chronomastix
@@ -28161,7 +28162,6 @@ cameos
 craniotomy
 counter
 crankcases
-cristy
 collect
 celebres
 colter
