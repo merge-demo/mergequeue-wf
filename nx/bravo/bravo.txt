@@ -11714,7 +11714,6 @@ bartlett
 bobby
 burlily
 bobbin
-behooveful
 bolivias
 boldfaced
 bobbinite
@@ -17471,6 +17470,7 @@ bepierce
 bombastry
 bursula
 betes
+behooveful
 bessy
 banderlog
 bioecologist
