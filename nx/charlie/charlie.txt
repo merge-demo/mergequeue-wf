@@ -5896,7 +5896,6 @@ corona
 crumbs
 commercia
 categorized
-calamars
 categorizer
 cabas
 culminated
@@ -27534,6 +27533,7 @@ cytostatically
 cuselite
 combaron
 convito
+calamars
 crenulate
 coveralled
 coveralls
