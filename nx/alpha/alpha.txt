@@ -2784,6 +2784,7 @@ accise
 ashmolean
 abalienation
 adenoidectomy
+adaw
 alamire
 amarine
 acrodontism
@@ -7596,7 +7597,6 @@ aphorised
 amassed
 antepyretic
 ambigenous
-adaw
 alcoholize
 alcoholmeter
 anemogram
