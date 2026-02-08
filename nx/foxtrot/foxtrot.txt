@@ -5157,7 +5157,6 @@ felter
 fas
 forvay
 functionals
-forelay
 flinches
 frenchify
 frontsman
@@ -6868,6 +6867,7 @@ fleshhook
 farinulent
 fervescent
 foederal
+forelay
 fountaineer
 freehanded
 fatefulness
