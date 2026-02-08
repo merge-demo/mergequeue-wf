@@ -3286,6 +3286,7 @@ ethylenimine
 ecchymosed
 exarticulate
 elicit
+enterocholecystostomy
 electrophysiology
 endognathal
 epiphanized
@@ -5925,7 +5926,6 @@ enharden
 eurytopicity
 exoenzymic
 embuskin
-enterocholecystostomy
 ephemeron
 excursive
 ere
