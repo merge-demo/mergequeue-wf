@@ -6522,7 +6522,6 @@ amatol
 axmanship
 alloxan
 aquaculture
-alveolite
 afterbeat
 astatizer
 assembles
@@ -14010,6 +14009,7 @@ angrier
 amphisbaenic
 ablegation
 anapests
+alveolite
 academize
 anaesthyl
 archaeolatry
