@@ -977,7 +977,6 @@ forride
 fictionization
 folkvang
 forseeable
-flannelmouth
 fadding
 fusion
 fardelet
@@ -7867,6 +7866,7 @@ fluidist
 floppers
 fibroins
 firestorm
+flannelmouth
 fibroid
 floretum
 feracity
