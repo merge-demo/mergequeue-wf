@@ -4650,7 +4650,6 @@ eupad
 esophagean
 enzone
 elotherium
-endoabdominal
 empyreumatical
 ectostosis
 enajim
@@ -5966,6 +5965,7 @@ effate
 embordered
 emissary
 enkindle
+endoabdominal
 etchers
 erythrose
 escheatorship
