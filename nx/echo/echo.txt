@@ -7966,7 +7966,6 @@ elixation
 epeirid
 extrabuccal
 exquisitive
-endosarcode
 epileny
 extinguised
 endopeptidase
@@ -8192,6 +8191,7 @@ enew
 erythrite
 encarditis
 exhumator
+endosarcode
 episclera
 encasement
 ensanguined
