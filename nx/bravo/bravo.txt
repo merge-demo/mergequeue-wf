@@ -2320,7 +2320,6 @@ bureaucratization
 birdcatching
 barbecuer
 baseballer
-barbellula
 bialate
 badness
 bankerdom
@@ -9704,6 +9703,7 @@ bismark
 boulder
 baltimorean
 bladed
+barbellula
 besmiles
 buoyages
 bikinis
