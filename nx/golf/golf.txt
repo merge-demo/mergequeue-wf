@@ -6469,7 +6469,6 @@ gonapophysial
 gravelled
 gruffness
 garnierite
-genetic
 gurdwara
 glaikitness
 guggle
@@ -6477,6 +6476,7 @@ gillar
 guelph
 gens
 gamete
+genetic
 grotian
 grasshopper
 gayest
