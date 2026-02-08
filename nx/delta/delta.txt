@@ -723,6 +723,7 @@ dandis
 discursory
 divulgate
 defamatory
+diagonalwise
 deoppilative
 dubs
 decoyer
@@ -8276,7 +8277,6 @@ diagnosing
 duel
 diagonals
 deducting
-diagonalwise
 daubery
 denudate
 demonization
