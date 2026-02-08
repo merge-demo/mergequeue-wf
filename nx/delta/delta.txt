@@ -2277,7 +2277,6 @@ drawnet
 disceptator
 downpipe
 discants
-deepish
 decayer
 decennium
 decentering
@@ -6762,6 +6761,7 @@ deliber
 desilvers
 demoniacal
 diminishes
+deepish
 daeva
 detachments
 desinent
