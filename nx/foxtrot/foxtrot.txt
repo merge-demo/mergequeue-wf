@@ -1885,7 +1885,6 @@ forcelet
 flybrush
 flybys
 fingerflower
-fontanelle
 fumbling
 forestaller
 floorwalkers
@@ -11439,6 +11438,7 @@ fortuuned
 foredeem
 friese
 flirtation
+fontanelle
 flasket
 fiducially
 franks
