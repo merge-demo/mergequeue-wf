@@ -2935,6 +2935,7 @@ deducibility
 devolatilized
 doxycycline
 deductible
+dewatered
 deciduata
 delinquent
 drophead
@@ -7867,7 +7868,6 @@ dew
 drowner
 depress
 defrayals
-dewatered
 diffluence
 disconsideration
 distemonous
