@@ -1194,7 +1194,6 @@ bonnaz
 bewails
 buoys
 breth
-beerhouses
 backstage
 baked
 blepharydatis
@@ -9366,6 +9365,7 @@ beats
 brasilein
 bescours
 base
+beerhouses
 belgard
 birdbaths
 broomroot
