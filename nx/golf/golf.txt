@@ -563,7 +563,6 @@ girns
 george
 gelastocoridae
 griqua
-gymnasiarchy
 goosier
 gallicizer
 gomphrena
@@ -1699,6 +1698,7 @@ gazetteerish
 gane
 grassquit
 glaciation
+gymnasiarchy
 goldfinnies
 glaucin
 gnarlier
