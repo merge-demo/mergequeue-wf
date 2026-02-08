@@ -515,6 +515,7 @@ esthesiophysiology
 entrada
 empasm
 ergocalciferol
+encoronate
 etesians
 equivocatingly
 extorsion
@@ -2827,7 +2828,6 @@ estrangements
 enwomb
 elementalize
 emperil
-encoronate
 etherealization
 eluded
 exclamations
