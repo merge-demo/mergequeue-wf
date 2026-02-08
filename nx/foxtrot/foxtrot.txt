@@ -580,7 +580,6 @@ font
 famine
 foliary
 fancymonger
-fortunation
 fdubs
 ferrocyanhydric
 frequentative
@@ -2764,6 +2763,7 @@ fedity
 fumarine
 fiercer
 fragmentarily
+fortunation
 fesses
 fow
 forksmith
