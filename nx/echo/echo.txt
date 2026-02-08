@@ -1665,7 +1665,6 @@ epiblastic
 egressed
 emboldening
 extraphysiological
-expounded
 emborder
 egret
 egromancy
@@ -6504,6 +6503,7 @@ encumberment
 ectodactylism
 enterocoela
 eurypteroidea
+expounded
 ensoul
 ensouled
 ecru
