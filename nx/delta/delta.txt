@@ -3754,7 +3754,6 @@ dehumanising
 diableries
 diurnally
 digitised
-desolates
 dehumanization
 draftswomanship
 diallers
@@ -13936,6 +13935,7 @@ dramatics
 distillator
 danebrog
 distillatory
+desolates
 deflagrations
 depreciant
 dynamogeneses
