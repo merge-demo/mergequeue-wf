@@ -4950,7 +4950,6 @@ evocatory
 enfile
 endarteteria
 ensisternum
-engrammatic
 eupterotidae
 euhemerize
 enticed
@@ -13785,6 +13784,7 @@ ethologist
 extollingly
 extolls
 eskimos
+engrammatic
 extortion
 engarde
 earthslide
