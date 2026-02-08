@@ -1263,7 +1263,6 @@ echidnas
 epipodite
 emotionless
 epimeric
-echinacea
 enures
 exceptionable
 equable
@@ -2930,6 +2929,7 @@ eleutherozoan
 ental
 electrionic
 echoizing
+echinacea
 epergne
 exocycloida
 entrancingly
