@@ -14516,7 +14516,6 @@ caulocarpic
 chassepots
 cistercianism
 cisternae
-cariocas
 chrysopa
 concretized
 cisternal
@@ -19692,6 +19691,7 @@ camarilla
 copintank
 claptrap
 chemisorption
+cariocas
 clefts
 comatiks
 countercharged
