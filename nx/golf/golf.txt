@@ -805,7 +805,6 @@ gathering
 geoffrey
 greensick
 gemmel
-gusts
 goalage
 glareolidae
 gastroenteric
@@ -5421,6 +5420,7 @@ galahads
 glochidian
 grebo
 glyn
+gusts
 gaddi
 galatotrophic
 gumly
