@@ -16726,6 +16726,7 @@ centroplasm
 chokecherries
 clothiers
 clothings
+cantorian
 catharpin
 crimpling
 clots
@@ -27375,7 +27376,6 @@ cepous
 closter
 custron
 courtierly
-cantorian
 chuck
 cabinetmaker
 catastatic
