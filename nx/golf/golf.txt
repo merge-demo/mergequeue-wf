@@ -982,7 +982,6 @@ gangamopteris
 givers
 gangava
 gurgulation
-gastrochaenidae
 gilse
 granitizing
 gigahertz
@@ -7671,6 +7670,7 @@ goli
 globulariaceous
 greenlet
 guardroom
+gastrochaenidae
 gleary
 gorillian
 glovey
