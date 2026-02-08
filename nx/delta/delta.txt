@@ -11624,7 +11624,6 @@ derail
 disconnecting
 dungeons
 disconnection
-disconnector
 demicannon
 denotable
 dollarfish
@@ -18138,6 +18137,7 @@ depoliticizing
 disintertwine
 duppa
 domatophobia
+disconnector
 dumose
 designlessness
 dermoskeletal
