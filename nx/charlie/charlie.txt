@@ -20416,7 +20416,6 @@ cleg
 calycanthemous
 compadres
 compage
-calvin
 compagnies
 condonative
 concamerate
@@ -26367,6 +26366,7 @@ cotes
 cycloidian
 cerenkov
 cothouse
+calvin
 coticed
 coruscate
 cleating
