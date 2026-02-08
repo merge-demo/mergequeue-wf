@@ -9655,6 +9655,7 @@ calcipexy
 cheerled
 cheerlessness
 comatulid
+chromatid
 crustedly
 coastman
 cheeros
@@ -12347,7 +12348,6 @@ cantred
 chrysomonadine
 chromatically
 chromaticness
-chromatid
 conuses
 chromatin
 caucasoids
