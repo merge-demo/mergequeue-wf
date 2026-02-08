@@ -4821,7 +4821,6 @@ guardo
 guardingly
 gynerium
 goldenback
-gigmaness
 guaharibo
 gundogs
 glacieret
@@ -7995,6 +7994,7 @@ getups
 glandiform
 gaunter
 gladify
+gigmaness
 gothonic
 ganglionectomy
 globing
