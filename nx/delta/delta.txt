@@ -11421,7 +11421,6 @@ diplopods
 discigerous
 discing
 distyle
-drisk
 digenea
 disciple
 depicter
@@ -12616,6 +12615,7 @@ disinter
 disinterest
 disinterestedly
 disheaven
+drisk
 dimyary
 depersonize
 disinters
