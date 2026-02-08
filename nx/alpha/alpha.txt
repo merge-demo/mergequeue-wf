@@ -5508,6 +5508,7 @@ apholate
 aftershaft
 aftershafted
 almagests
+allocations
 aftershocks
 alexandria
 ambassiate
@@ -8732,7 +8733,6 @@ allocate
 anglophobes
 autoimmunization
 asthmatics
-allocations
 amyosthenia
 atteal
 amender
