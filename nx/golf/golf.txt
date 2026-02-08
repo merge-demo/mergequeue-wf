@@ -2144,7 +2144,6 @@ gastnesses
 ganglands
 guillermo
 graperoot
-glowing
 gazette
 ginnet
 gymnolaematous
@@ -3938,6 +3937,7 @@ goffer
 gnomed
 gouges
 geometrising
+glowing
 grubworms
 gigawatts
 glioma
