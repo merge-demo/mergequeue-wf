@@ -7143,7 +7143,6 @@ dendrohyrax
 disworship
 desulfuring
 desulfurisation
-diethylaminoethanol
 diipolia
 delirant
 desulfurising
@@ -10510,6 +10509,7 @@ dizziest
 droit
 dolichoprosopic
 dispost
+diethylaminoethanol
 dobe
 dilutedness
 diphthongisation
