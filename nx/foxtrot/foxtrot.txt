@@ -2782,7 +2782,6 @@ forbar
 flightiness
 falsehearted
 footway
-fascisms
 ferrimagnet
 fanioned
 formnail
@@ -11692,6 +11691,7 @@ faced
 faroeish
 fanlights
 furil
+fascisms
 flocculable
 fellatio
 frighten
