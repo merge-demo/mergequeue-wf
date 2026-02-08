@@ -7383,7 +7383,6 @@ elongate
 economy
 etoiles
 electrojet
-epitheliomas
 ephorates
 epapophysis
 exosphere
@@ -9109,6 +9108,7 @@ elaidinic
 electrotherapeutics
 erythrocytoschisis
 engaud
+epitheliomas
 epidermic
 eremic
 epenthesis

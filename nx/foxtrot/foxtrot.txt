@@ -1486,7 +1486,6 @@ floatboard
 fris
 fiftyfold
 flichtered
-fuzzines
 finitudes
 feverish
 fervent
@@ -2003,6 +2002,7 @@ fautor
 faujdar
 fusils
 fullymart
+fuzzines
 florilegium
 fibreglass
 fours
