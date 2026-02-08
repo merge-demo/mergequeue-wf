@@ -208,7 +208,6 @@ entermete
 ergogram
 exploration
 euphemised
-enleaf
 electrolier
 equipoising
 enfief
@@ -2149,6 +2148,7 @@ eyeteeth
 enchondroma
 exposes
 equably
+enleaf
 experiencing
 euxenite
 endosymbiosis
