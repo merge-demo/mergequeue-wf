@@ -702,7 +702,6 @@ detachs
 dandify
 dimmit
 denumerant
-douceness
 didelphia
 discomycetes
 decelerometer
@@ -6458,6 +6457,7 @@ dogmatisation
 distilland
 desalinator
 disclaimer
+douceness
 disperge
 departmentalising
 divariant
