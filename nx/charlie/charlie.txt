@@ -10577,7 +10577,6 @@ chromoplasm
 countermove
 culmed
 chouka
-countercraft
 costocentral
 chillumchee
 caldaria
@@ -18561,6 +18560,7 @@ coonier
 ceratocystis
 cohol
 countersurprise
+countercraft
 chalcites
 chronocinematography
 chello
