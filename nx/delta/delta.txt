@@ -6170,6 +6170,7 @@ diathesis
 diasynthesis
 detectivism
 derelicts
+disarrangement
 demast
 droshkies
 decrepitness
@@ -14810,7 +14811,6 @@ dolors
 docks
 demonologist
 docmac
-disarrangement
 disulphoxid
 detests
 drayhorse
