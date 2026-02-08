@@ -1404,6 +1404,7 @@ foodlessness
 fishpoles
 frontosquamosal
 fatsia
+formalizable
 fancying
 fluoridates
 fermiums
@@ -6526,7 +6527,6 @@ familia
 fictor
 fissilingual
 frosted
-formalizable
 flourlike
 foremessenger
 fontinalaceae
