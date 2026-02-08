@@ -7959,7 +7959,6 @@ exululate
 epil
 exoclinal
 embrighten
-encheson
 endorsation
 elixation
 epeirid
@@ -11508,6 +11507,7 @@ edibility
 enteropexy
 edgier
 entheate
+encheson
 esotery
 elided
 encipherment
