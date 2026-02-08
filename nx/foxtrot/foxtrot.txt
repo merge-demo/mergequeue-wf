@@ -1019,7 +1019,6 @@ fissidactyl
 fumosity
 feverweed
 fenny
-foxer
 fragmentalize
 flatboats
 finalists
@@ -8682,6 +8681,7 @@ funariaceous
 fittyfied
 forth
 freesia
+foxer
 flute
 flusterate
 fryers
