@@ -1103,6 +1103,7 @@ fleerish
 firehalls
 forespeech
 fashions
+fallers
 flyings
 freakily
 farruca
@@ -5904,7 +5905,6 @@ flywinch
 footback
 forgrown
 fustle
-fallers
 filariid
 floatage
 fiddling
