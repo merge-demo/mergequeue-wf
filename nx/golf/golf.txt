@@ -5051,6 +5051,7 @@ goalkeeper
 golconda
 gecarcinus
 gerontoxon
+geostrophic
 gastrogenital
 gv
 gerunds
@@ -6400,7 +6401,6 @@ guzzle
 glassman
 gigantize
 gobiesocid
-geostrophic
 grows
 gocart
 girnie
