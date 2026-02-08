@@ -2718,6 +2718,7 @@ brutus
 barmcloth
 brither
 birdcage
+birding
 bascules
 baetylus
 barnabas
@@ -5525,7 +5526,6 @@ brandade
 beyondness
 baryton
 bewares
-birding
 brahmas
 bludgeoned
 blennorrhagic
