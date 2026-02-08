@@ -11315,7 +11315,6 @@ chlorofluorocarbon
 ceylanite
 chloroformate
 churched
-chalcophanite
 conged
 cubica
 chromicizing
@@ -26035,6 +26034,7 @@ capling
 cosigning
 coupled
 chasuble
+chalcophanite
 cosymmedian
 cosinage
 cosine
