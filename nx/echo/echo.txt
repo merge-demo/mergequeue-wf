@@ -5943,7 +5943,6 @@ exantlation
 exhilaration
 ensilist
 enhelm
-emotionality
 enfamous
 elysia
 entoretina
@@ -7673,6 +7672,7 @@ entocnemial
 engines
 enc
 elne
+emotionality
 envine
 extratelluric
 epoptist
