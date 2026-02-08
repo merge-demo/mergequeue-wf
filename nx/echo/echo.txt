@@ -3942,7 +3942,6 @@ easternized
 eminently
 expressionless
 englory
-equalness
 eels
 enalid
 etypical
@@ -5063,6 +5062,7 @@ extradites
 extensionally
 exorbitancy
 eudemon
+equalness
 exagitation
 eldorado
 enwinds
