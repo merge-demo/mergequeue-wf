@@ -14836,6 +14836,7 @@ alcaldia
 assertable
 antiemetic
 around
+algometry
 anticity
 anticytolysin
 almsgiving
@@ -22239,7 +22240,6 @@ astomia
 astone
 allylamine
 apennine
-algometry
 add
 astonish
 amerindians
