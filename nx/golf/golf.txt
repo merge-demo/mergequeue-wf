@@ -3233,7 +3233,6 @@ goodhearted
 genuses
 graphophone
 gribane
-graywacke
 glave
 gimbawawed
 glucemia
@@ -10575,6 +10574,7 @@ gladden
 grandisonian
 glyptics
 grenadier
+graywacke
 gonidium
 gunning
 gorsier
