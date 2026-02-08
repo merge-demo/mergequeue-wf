@@ -485,7 +485,6 @@ ecardines
 encasing
 enterocoele
 everywhere
-ecballium
 emendately
 electromechanical
 expugnable
@@ -4499,6 +4498,7 @@ encashment
 eringoes
 enneadianome
 encastre
+ecballium
 equestrians
 encastrement
 encaustically
