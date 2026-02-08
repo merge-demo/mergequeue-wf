@@ -544,7 +544,6 @@ growls
 gin
 ghetto
 glycerogelatin
-garde
 getfd
 gableended
 germanophobist
@@ -6082,6 +6081,7 @@ grotesquely
 goosebeak
 galactemia
 gamboge
+garde
 gullibly
 gryphosaurus
 gyrochrome
