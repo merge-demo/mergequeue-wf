@@ -1149,6 +1149,7 @@ brunets
 baiters
 banqueter
 baxter
+beshadowed
 baitfish
 buffeter
 ballard
@@ -6921,7 +6922,6 @@ bradyseismic
 bibliopolistic
 beslaver
 balmony
-beshadowed
 briolette
 breediness
 basenesses
