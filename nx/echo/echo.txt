@@ -5352,7 +5352,6 @@ eviscerated
 efformation
 expatriations
 ethanethiol
-endocline
 encoring
 enarme
 endosteomata
@@ -11322,6 +11321,7 @@ ethnologic
 entomologically
 epitomized
 epichlorohydrin
+endocline
 excavated
 emblematical
 ergometrine
