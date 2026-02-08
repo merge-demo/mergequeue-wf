@@ -2603,6 +2603,7 @@ graal
 gigues
 gussie
 glims
+graybacks
 gospelize
 gutling
 galler
@@ -4012,7 +4013,6 @@ garment
 grilling
 gerundive
 gushingly
-graybacks
 goaded
 gregarious
 grossierete
