@@ -2284,6 +2284,7 @@ bannerwise
 bigmouths
 bacons
 blastment
+breccial
 bandar
 barbarized
 bargainwise
@@ -15010,7 +15011,6 @@ batrachia
 brigade
 bicentral
 biliteralism
-breccial
 boatly
 brontoscopy
 breccias
