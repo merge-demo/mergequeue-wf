@@ -15861,7 +15861,6 @@ clarifying
 cleeking
 clef
 cassinese
-chesterfields
 chronomancy
 cleft
 cleidagra
@@ -28850,6 +28849,7 @@ cretize
 cretonne
 collogue
 clavolae
+chesterfields
 classmate
 coney
 crevasses
