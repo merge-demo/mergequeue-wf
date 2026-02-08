@@ -9388,6 +9388,7 @@ ambilateral
 axonolipa
 allochetite
 alternate
+attermine
 alternated
 alternately
 apheretic
@@ -14959,7 +14960,6 @@ affettuoso
 agriculturer
 anisaldoxime
 archmime
-attermine
 aesculetin
 alconde
 anametadromous
