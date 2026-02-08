@@ -8291,7 +8291,6 @@ escrows
 empyrosis
 episodial
 erythroscope
-ecrus
 epistaxis
 epistemically
 extemporising
@@ -13409,6 +13408,7 @@ expostulating
 ecophysiological
 endurable
 expanders
+ecrus
 empodium
 euskaldun
 entobranchiate
