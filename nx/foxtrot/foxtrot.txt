@@ -3321,7 +3321,6 @@ farsight
 fimbles
 flowerfence
 fivescore
-flighty
 flounces
 faveolate
 flingers
@@ -8227,6 +8226,7 @@ forficulidae
 formicary
 forfoughten
 flunkyism
+flighty
 finestra
 fructivorous
 flavines
