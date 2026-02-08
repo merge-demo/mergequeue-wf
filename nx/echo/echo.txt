@@ -3628,7 +3628,6 @@ ethane
 exothermic
 ergographic
 eglandulous
-erythrophore
 entozoon
 emboweled
 epithecial
@@ -6666,6 +6665,7 @@ equatorward
 execrate
 epaleaceous
 easterliness
+erythrophore
 ermining
 explicandum
 ephraimitish
