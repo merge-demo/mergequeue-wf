@@ -1146,6 +1146,7 @@ enumerable
 edwina
 epeisodion
 esterification
+explorational
 electrotypes
 ergoism
 erionite
@@ -2367,7 +2368,6 @@ enchants
 eschar
 epistroma
 electrocardiographic
-explorational
 entocele
 egad
 elderliness
