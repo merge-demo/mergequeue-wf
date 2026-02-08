@@ -13511,7 +13511,6 @@ coxcombhood
 cyllenian
 cillosis
 conundrum
-compliance
 contours
 cyma
 companionable
@@ -23793,6 +23792,7 @@ clavel
 contributable
 civilisedness
 ctenostomata
+compliance
 cutins
 chrestomathic
 contribution
