@@ -5341,7 +5341,6 @@ encharm
 endome
 epiphyte
 emetin
-epitaxies
 endosteoma
 exarchy
 essentialism
@@ -8712,6 +8711,7 @@ electrocapillary
 ethrogs
 elfishness
 etherialism
+epitaxies
 expositions
 epipoditic
 eggcrate
