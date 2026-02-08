@@ -2462,7 +2462,6 @@ firelocks
 fricatives
 fascinatedly
 firn
-fumbulator
 firstcomer
 fishhood
 fantasticate
@@ -7185,6 +7184,7 @@ farinacious
 fortalice
 frontoparietal
 fallectomy
+fumbulator
 footers
 frayedly
 fatherlandish
