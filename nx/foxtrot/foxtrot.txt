@@ -7480,7 +7480,6 @@ forceless
 fluxing
 flavonoid
 floreate
-fringehead
 fasciculation
 figgum
 ferie
@@ -10923,6 +10922,7 @@ flowe
 forge
 flavone
 freer
+fringehead
 foeture
 ferreiro
 fub
