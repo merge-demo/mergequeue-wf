@@ -2354,7 +2354,6 @@ fascist
 featherstitching
 fableist
 fablers
-filmable
 flanneled
 fencelike
 friarly
@@ -4531,6 +4530,7 @@ footrace
 feely
 fuster
 fates
+filmable
 fertilizers
 forme
 fusinist
