@@ -7605,7 +7605,6 @@ anemogram
 angiomata
 autoloaders
 acroter
-ankou
 abaissed
 alcoholometer
 aventurine
@@ -10086,6 +10085,7 @@ ambulatorium
 ahepatokla
 avo
 acmaesthesia
+ankou
 aspergilliform
 amburbial
 airframe
