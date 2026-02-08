@@ -3295,6 +3295,7 @@ definers
 disconsolation
 daintihood
 dram
+deplanes
 dilatants
 distributors
 demanding
@@ -6964,7 +6965,6 @@ decemvii
 darlings
 disqualifying
 distills
-deplanes
 decadic
 dereling
 demonisms
