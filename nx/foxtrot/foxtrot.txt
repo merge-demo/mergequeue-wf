@@ -1918,6 +1918,7 @@ furcraea
 factored
 finagling
 funds
+felonous
 forworn
 frostbiter
 felonwood
@@ -2708,7 +2709,6 @@ foremelt
 feasing
 ferular
 frondage
-felonous
 ferulic
 froggy
 fitzclarence
