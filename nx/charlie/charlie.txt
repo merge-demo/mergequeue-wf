@@ -3269,7 +3269,6 @@ capitaled
 capitalisable
 coproduct
 capitalising
-capitalistically
 cowboy
 confed
 capitalists
@@ -20068,6 +20067,7 @@ cattlegate
 commentable
 compting
 commentarialism
+capitalistically
 chatoyance
 covin
 cragsmen
