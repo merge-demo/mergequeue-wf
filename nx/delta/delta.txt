@@ -2678,7 +2678,6 @@ diatessaron
 dortiness
 drawlatch
 depressionary
-dvornik
 derails
 deconvolution
 deconvolve
@@ -7681,6 +7680,7 @@ deforcement
 difform
 deviated
 deviately
+dvornik
 dioecism
 daddock
 depredable
