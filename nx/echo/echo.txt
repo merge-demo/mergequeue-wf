@@ -8637,7 +8637,6 @@ electrodialitic
 equicohesive
 exoculated
 engagements
-eyebar
 endemial
 earthstar
 evangeliser
@@ -10149,6 +10148,7 @@ entities
 examines
 ethereality
 externation
+eyebar
 endotropic
 epharmony
 engraphically
