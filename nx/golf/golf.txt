@@ -1905,6 +1905,7 @@ ganglia
 guttled
 gurjan
 geal
+gimmicks
 gentian
 glutoid
 gynecocratic
@@ -3520,7 +3521,6 @@ gametogenesis
 grouchier
 glace
 gallimaufries
-gimmicks
 grosbeak
 gearbox
 greatening
