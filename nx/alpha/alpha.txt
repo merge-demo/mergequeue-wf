@@ -4764,7 +4764,6 @@ aeriness
 aero
 aspermatism
 aeroballistic
-aerobate
 apneumona
 asserts
 aerobia
@@ -11452,6 +11451,7 @@ acheweed
 abscessed
 acute
 apathus
+aerobate
 assewer
 auxiliarly
 attempters
