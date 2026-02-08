@@ -6106,7 +6106,6 @@ finger
 feudaries
 funt
 fontange
-folding
 firebombed
 fisherwoman
 fraud
@@ -10170,6 +10169,7 @@ festuca
 franion
 fructuary
 fore
+folding
 fornical
 flunkeyism
 functionality
