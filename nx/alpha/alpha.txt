@@ -17405,7 +17405,6 @@ apotheosised
 apotheosized
 apothesine
 antimystically
-aeromedical
 apotome
 apotropaically
 autocephality
@@ -20698,6 +20697,7 @@ atlaslike
 annunciates
 afflicts
 abnormality
+aeromedical
 artiad
 artichoke
 amygdalin
