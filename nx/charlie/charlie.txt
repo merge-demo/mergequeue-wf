@@ -553,7 +553,6 @@ camlets
 cadlock
 cardiomalacia
 colourlessly
-cadmia
 cadmic
 cateran
 cardiataxia
@@ -25129,6 +25128,7 @@ coresign
 coresonant
 cancans
 convento
+cadmia
 carpus
 cronet
 corespect
