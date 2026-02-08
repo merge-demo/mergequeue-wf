@@ -4369,7 +4369,6 @@ exalted
 equinia
 enamorado
 epicene
-enamorato
 endleaves
 effervescing
 enamorment
@@ -12141,6 +12140,7 @@ excursiveness
 enterate
 equiangularity
 excurvated
+enamorato
 energy
 esemplasy
 era
