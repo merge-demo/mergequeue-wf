@@ -6794,7 +6794,6 @@ fuchsinophil
 featherbed
 foreweep
 furnaceman
-forspeaking
 fossil
 fitnesses
 fellowing
@@ -7735,6 +7734,7 @@ ferrated
 fishy
 firnismalerei
 fatherland
+forspeaking
 flyman
 footwarmers
 fashionless
