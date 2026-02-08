@@ -9311,6 +9311,7 @@ forces
 foulings
 fertil
 fordull
+fogbow
 foregoers
 fabrikoid
 fruticeta
@@ -11071,7 +11072,6 @@ files
 felonwort
 filled
 fixups
-fogbow
 frayproof
 fractionated
 forficated
