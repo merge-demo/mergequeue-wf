@@ -2463,6 +2463,7 @@ gastratrophia
 groupage
 gritless
 grassing
+gyromagnetic
 grewia
 gladeye
 gutted
@@ -9054,7 +9055,6 @@ goshawful
 gryllos
 gaffle
 grilse
-gyromagnetic
 gurnard
 glossitis
 grimaced
