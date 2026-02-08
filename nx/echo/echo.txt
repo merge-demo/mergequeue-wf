@@ -4178,6 +4178,7 @@ extracranial
 energids
 expungement
 eurhythmy
+exotericism
 erythrodermia
 earhead
 externum
@@ -12824,7 +12825,6 @@ epinaoi
 euryale
 emajagua
 exoterical
-exotericism
 echinops
 ergograph
 exencephalous
