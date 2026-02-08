@@ -7380,6 +7380,7 @@ fluttery
 flushermen
 fumitory
 forest
+fenbank
 favelloid
 fishier
 fleeched
@@ -10929,7 +10930,6 @@ foehn
 flexure
 fretwork
 fended
-fenbank
 fetal
 floorage
 fack
