@@ -5524,7 +5524,6 @@ grater
 glutinously
 grudgeons
 geoemtry
-genghis
 glob
 gnetum
 ghatwal
@@ -7825,6 +7824,7 @@ gippo
 gonglike
 gurneys
 guests
+genghis
 gooiest
 guanche
 gerately
