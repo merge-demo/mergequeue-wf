@@ -6246,6 +6246,7 @@ brahmany
 boletus
 berley
 beakful
+boomdas
 benne
 bennes
 beveling
@@ -11394,7 +11395,6 @@ boro
 baronetical
 breams
 bandits
-boomdas
 bouncily
 bitterworm
 babi
