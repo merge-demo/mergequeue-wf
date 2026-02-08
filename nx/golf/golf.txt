@@ -5550,6 +5550,7 @@ gamecocks
 gourd
 grintern
 gangland
+ginglymostomoid
 genial
 gwely
 griecep
@@ -7510,7 +7511,6 @@ gnast
 galjoen
 glabellous
 gryllus
-ginglymostomoid
 gubernaculum
 graypate
 gemstones
