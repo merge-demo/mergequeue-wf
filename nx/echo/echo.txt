@@ -3182,7 +3182,6 @@ empennage
 even
 encomiums
 enrobed
-ell
 ecdysones
 effecting
 echinorhinidae
@@ -8729,6 +8728,7 @@ exfoliate
 encharging
 electrophotomicrography
 elderwood
+ell
 emigates
 episcleritis
 epiglottides
