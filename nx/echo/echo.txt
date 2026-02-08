@@ -1661,7 +1661,6 @@ enthraldom
 ephebeion
 eradicated
 encamped
-exanthema
 egress
 erizo
 epiblastic
@@ -3238,6 +3237,7 @@ epistyles
 endobronchial
 expurgators
 eloins
+exanthema
 etioporphyrin
 ectotropic
 eunuchal
