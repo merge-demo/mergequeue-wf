@@ -2751,7 +2751,6 @@ ericolin
 exercise
 emanations
 elderwort
-echinus
 espaliered
 electrophoresing
 endomycetaceae
@@ -8457,6 +8456,7 @@ epitrope
 exclusionism
 elatcha
 effeminization
+echinus
 endecha
 epigonation
 electrooculogram
