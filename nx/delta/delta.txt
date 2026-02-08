@@ -8248,7 +8248,6 @@ davainea
 ductus
 distrito
 diagnosed
-diagnostical
 disenthroned
 disentitled
 diagnosticate
@@ -8955,6 +8954,7 @@ damascene
 davening
 dichotically
 dietetic
+diagnostical
 disklike
 dirigible
 denaturalization
