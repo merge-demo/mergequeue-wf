@@ -5805,7 +5805,6 @@ glen
 gaupus
 gown
 glissades
-greggle
 gather
 gedrite
 gutsy
@@ -10206,6 +10205,7 @@ gasworker
 galusha
 gratis
 grubbily
+greggle
 guardlike
 glamouring
 girthed
