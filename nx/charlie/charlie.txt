@@ -14195,7 +14195,6 @@ catline
 causativity
 chattation
 circumfluous
-clumplike
 ccesser
 circumforaneous
 circumfulgent
@@ -18596,6 +18595,7 @@ coeducate
 chemotherapies
 conner
 clothworker
+clumplike
 chattering
 coachful
 coigne
