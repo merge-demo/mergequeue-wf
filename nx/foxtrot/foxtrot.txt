@@ -2796,7 +2796,6 @@ festooneries
 flutina
 fourieristic
 fluidness
-flareboard
 floppier
 festivity
 flatly
@@ -4069,6 +4068,7 @@ flashbacks
 fashioned
 feudal
 filelike
+flareboard
 fungoid
 finishable
 fucales
