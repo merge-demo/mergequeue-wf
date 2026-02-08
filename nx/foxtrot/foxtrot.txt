@@ -485,7 +485,6 @@ fluctisonous
 faithlessness
 fasces
 forenote
-foliosity
 faithworthiness
 famished
 faitours
@@ -6046,6 +6045,7 @@ fixures
 flashness
 fantasied
 fructiculose
+foliosity
 floorcloths
 fumid
 fibrillate
