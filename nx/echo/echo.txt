@@ -4922,7 +4922,6 @@ englishly
 escalating
 expend
 ensured
-entablements
 ef
 educatedness
 enthuse
@@ -10346,6 +10345,7 @@ ethmopalatal
 eyer
 ectases
 epiphyllous
+entablements
 epiphloeum
 embryoid
 ensignment
