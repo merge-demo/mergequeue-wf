@@ -4376,7 +4376,6 @@ gildable
 grides
 gentamicin
 gumdigger
-galantine
 grammatist
 gleeted
 gracioso
@@ -4724,6 +4723,7 @@ guarnieri
 gumshoe
 genista
 gastrovascular
+galantine
 genteelize
 gowland
 gitanos
