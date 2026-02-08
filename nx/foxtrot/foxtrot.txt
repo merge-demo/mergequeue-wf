@@ -5487,7 +5487,6 @@ flurt
 freezers
 ferrary
 fittingness
-fault
 fleecy
 frolickly
 fplot
@@ -8486,6 +8485,7 @@ filix
 freeward
 ferruminated
 forjudger
+fault
 formicid
 fiscalism
 forger
