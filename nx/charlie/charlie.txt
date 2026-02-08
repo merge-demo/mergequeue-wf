@@ -3772,7 +3772,6 @@ candor
 changuina
 campanological
 congridae
-chevon
 coventrize
 caravaneer
 chaga
@@ -19726,6 +19725,7 @@ combinational
 corrigent
 chorepiscope
 combinations
+chevon
 cells
 combinative
 counterrotating
