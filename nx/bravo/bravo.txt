@@ -8477,7 +8477,6 @@ bilection
 bileve
 bootjack
 bouteloua
-bals
 bv
 bellicosities
 bluffly
@@ -10861,6 +10860,7 @@ blethered
 bullheads
 blowzed
 bletilla
+bals
 brutalities
 basiscopic
 bronteum
