@@ -3941,7 +3941,6 @@ burleys
 ballotage
 boracium
 buttonholes
-butternose
 betatters
 bdellium
 bdelliums
@@ -10063,6 +10062,7 @@ barmecide
 blastospheric
 botoyan
 blastomycin
+butternose
 bottlemaking
 boltage
 bilander
