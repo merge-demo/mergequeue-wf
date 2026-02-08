@@ -20872,6 +20872,7 @@ canst
 composer
 campi
 composita
+chelifer
 chromous
 composite
 compositely
@@ -27285,7 +27286,6 @@ cancellability
 carling
 cleric
 couplings
-chelifer
 cremates
 crinanite
 centroidal
