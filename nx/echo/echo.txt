@@ -712,7 +712,6 @@ eclipsed
 exserted
 equivocacy
 elliptically
-eudaemonistic
 extraneously
 enomotarch
 ephraimitic
@@ -2835,6 +2834,7 @@ eluded
 exclamations
 elementish
 experimentalize
+eudaemonistic
 extricates
 epiblastema
 eructation
