@@ -3298,6 +3298,7 @@ definers
 disconsolation
 daintihood
 dram
+dilatants
 distributors
 demanding
 defleaed
@@ -9728,7 +9729,6 @@ deters
 desiderate
 destroys
 dejectly
-dilatants
 dragonlike
 dispunct
 decremented
