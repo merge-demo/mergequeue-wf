@@ -3136,7 +3136,6 @@ diluviate
 disgout
 deliberately
 dissimulated
-dryness
 drinky
 defeats
 deathroot
@@ -11131,6 +11130,7 @@ drollness
 duchesses
 disennui
 disarms
+dryness
 dishonouring
 disarray
 damourite
