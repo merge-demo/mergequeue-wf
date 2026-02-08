@@ -3826,7 +3826,6 @@ carbazylic
 cheerios
 civilist
 carbazole
-countering
 carbeen
 carbene
 carbide
@@ -7995,6 +7994,7 @@ conventionalisation
 celeriacs
 coenoecial
 cacotrichia
+countering
 cetus
 connaisseur
 coattailed
