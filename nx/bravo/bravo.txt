@@ -8394,7 +8394,6 @@ bahay
 benzocoumaran
 betask
 bygo
-bathythermogram
 bygone
 bathhouses
 bist
@@ -10939,6 +10938,7 @@ blindness
 bignoniad
 bookful
 blindstories
+bathythermogram
 bromeliad
 brede
 bristly
