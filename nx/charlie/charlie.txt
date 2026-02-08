@@ -11585,7 +11585,6 @@ cholecystography
 cholecystokinin
 cholecystolithiasis
 clobber
-cholecystotomy
 choledochal
 culpability
 choledochoduodenostomy
@@ -11768,6 +11767,7 @@ cytomegalic
 conduplication
 contemnibly
 chondroitic
+cholecystotomy
 chondroitin
 cucurbitaceae
 cercelee
