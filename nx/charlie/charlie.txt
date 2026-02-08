@@ -7852,7 +7852,6 @@ ceruleous
 cerulignol
 cerumen
 ceruminal
-costean
 charabancer
 clorinator
 cerussite
@@ -25447,6 +25446,7 @@ cornwall
 caricaturable
 corody
 caffoline
+costean
 corodiary
 corodiastasis
 convicting
