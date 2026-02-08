@@ -12111,6 +12111,7 @@ boyology
 birdbath
 battiest
 boiserie
+barter
 boyship
 boisterous
 bouget
@@ -16557,7 +16558,6 @@ brute
 buddling
 bangtailed
 bequeathal
-barter
 birr
 barful
 byronite
