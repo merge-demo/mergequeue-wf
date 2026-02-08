@@ -1545,7 +1545,6 @@ eclegme
 electroballistically
 effusively
 entasias
-effuviate
 estancias
 earlobes
 ensepulchre
@@ -3974,6 +3973,7 @@ earthbound
 emoloa
 escarp
 effulged
+effuviate
 encephalophyma
 emulator
 extemporiser
