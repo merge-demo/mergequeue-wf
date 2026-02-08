@@ -4858,6 +4858,7 @@ equivocality
 encountered
 ensporia
 epiphylaxis
+endostea
 endothecium
 entomostraca
 encashing
@@ -8043,7 +8044,6 @@ esthesioneurosis
 enquire
 experted
 extradicted
-endostea
 enlists
 eupraxia
 equalizers
