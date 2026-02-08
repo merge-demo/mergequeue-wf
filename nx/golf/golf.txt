@@ -3632,7 +3632,6 @@ grizzler
 gastroenterological
 gastrolienal
 geomancer
-gluconeogenic
 goblet
 gagged
 goldest
@@ -9848,6 +9847,7 @@ geneticism
 ganodus
 gifblaar
 girting
+gluconeogenic
 gawcie
 grounden
 ghebeta
