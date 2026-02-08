@@ -5411,7 +5411,6 @@ faintly
 fructuously
 frankability
 francolin
-fum
 flouncier
 firebirds
 fleams
@@ -8617,6 +8616,7 @@ fluorimeter
 farseeingness
 fetcher
 fotched
+fum
 faradisms
 flappiest
 farmyard
