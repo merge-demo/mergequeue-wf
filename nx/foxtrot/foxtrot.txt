@@ -729,7 +729,6 @@ foreclosed
 facilitating
 featherlet
 fraenums
-famp
 famuli
 fenceress
 flushed
@@ -6672,6 +6671,7 @@ flirtier
 frown
 fragged
 forecondemn
+famp
 fattishness
 fogey
 fauvist
