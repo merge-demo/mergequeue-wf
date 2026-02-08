@@ -5811,7 +5811,6 @@ ferulas
 foosterer
 fishweed
 fastiia
-frontis
 figuresome
 farced
 fraternate
@@ -10628,6 +10627,7 @@ fellowmen
 freakouts
 fibrination
 flappet
+frontis
 fortifier
 fuzzes
 fulgent
