@@ -5856,7 +5856,6 @@ coalfishes
 catechumenal
 catechumenism
 concourses
-costocoracoid
 cacimbo
 catechumens
 catechumenship
@@ -22888,6 +22887,7 @@ choisya
 collapsable
 conservator
 conservatory
+costocoracoid
 compromitted
 climatologist
 crystograph
