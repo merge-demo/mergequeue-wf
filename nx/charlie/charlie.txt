@@ -2570,6 +2570,7 @@ chaucerism
 candleshrift
 capitalizations
 cecidiology
+compulsory
 committeewoman
 coelenteric
 chinol
@@ -25419,7 +25420,6 @@ comdt
 catacorner
 coexclusive
 congreso
-compulsory
 coelastraceae
 cornubianite
 chronometrical
