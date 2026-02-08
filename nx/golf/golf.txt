@@ -3233,7 +3233,6 @@ goodhearted
 genuses
 graphophone
 gribane
-glave
 gimbawawed
 glucemia
 griffinish
@@ -6068,6 +6067,7 @@ gypsography
 gnats
 guttie
 gibbled
+glave
 gleamingly
 glossmeter
 grisset
