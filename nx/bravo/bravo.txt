@@ -4614,6 +4614,7 @@ bloodstone
 breezed
 belial
 bedazzle
+borderside
 bowsprit
 baloskion
 ballbuster
@@ -7978,7 +7979,6 @@ babiroussa
 bat
 bibulousness
 broomweed
-borderside
 belike
 behowls
 bathyl
