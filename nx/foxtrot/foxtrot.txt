@@ -4054,6 +4054,7 @@ feudatorial
 farinhas
 foredawn
 fertilisability
+fanos
 farmwife
 fingram
 frisch
@@ -4211,7 +4212,6 @@ forecloses
 fattenable
 forepromised
 filaria
-fanos
 fingent
 floodtime
 forel
