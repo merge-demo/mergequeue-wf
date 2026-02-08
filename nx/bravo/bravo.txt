@@ -1942,7 +1942,6 @@ biorhythmicity
 bandoleers
 bivalent
 braving
-bandolerismo
 bruiser
 buckayros
 bandoleros
@@ -10472,6 +10471,7 @@ blarnid
 bedip
 bayoneteer
 brachysclereid
+bandolerismo
 bhutan
 bathmic
 blasphemes
