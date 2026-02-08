@@ -5899,6 +5899,7 @@ depredated
 definitiveness
 droshky
 disembargoed
+disadjust
 disputability
 deodars
 disfranchisers
@@ -14826,7 +14827,6 @@ diethylenediamine
 doctorial
 dummying
 droplight
-disadjust
 demidog
 doctorially
 duckbill
