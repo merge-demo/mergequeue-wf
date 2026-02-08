@@ -2234,7 +2234,6 @@ gibbles
 gefulltefish
 gibbsite
 galax
-gonidiogenous
 gryphite
 greggriffin
 geoplanidae
@@ -4818,6 +4817,7 @@ glandless
 gospeler
 guiltless
 gastrosopher
+gonidiogenous
 guardo
 guardingly
 gynerium
