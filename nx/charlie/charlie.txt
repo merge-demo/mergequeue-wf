@@ -7524,7 +7524,6 @@ cataleptics
 ceratoblast
 ceratodidae
 ceratoduses
-clistocarpous
 centrifugalization
 coistrils
 cytogenetical
@@ -8959,6 +8958,7 @@ charged
 cupping
 chargee
 cataphasia
+clistocarpous
 chargeful
 chargehouse
 chargeless
