@@ -9636,7 +9636,6 @@ blethers
 banalize
 bamangwato
 bosky
-bandcase
 baboot
 biset
 belshazzaresque
@@ -15074,6 +15073,7 @@ bandaka
 breenger
 babushka
 breezeway
+bandcase
 beastliness
 besanctify
 byssal
