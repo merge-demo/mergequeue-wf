@@ -6059,6 +6059,7 @@ damiana
 disacknowledgement
 delinquence
 doughbelly
+delinquencies
 diopsis
 deputing
 diaconicon
@@ -16384,7 +16385,6 @@ dozzle
 dr
 draba
 drabant
-delinquencies
 delineative
 dawed
 dextrotartaric
