@@ -4748,6 +4748,7 @@ flopwing
 fangs
 fummel
 furtherer
+fired
 flamboyancy
 fezzy
 fooling
@@ -7881,7 +7882,6 @@ fibrochondritis
 funned
 fascination
 forereckon
-fired
 foredates
 flannelbush
 fretten
