@@ -296,6 +296,7 @@ bugbeardom
 biolith
 booter
 bakeware
+bogberries
 backslided
 backberend
 bhistie
@@ -12258,7 +12259,6 @@ bolo
 brooklets
 bicron
 buddie
-bogberries
 baloo
 banque
 beld
