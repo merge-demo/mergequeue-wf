@@ -21978,7 +21978,6 @@ confidingness
 configural
 canteens
 coinsurable
-coexclusive
 clinohedrite
 configurating
 crenel
@@ -25418,6 +25417,7 @@ choliambist
 cornua
 comdt
 catacorner
+coexclusive
 congreso
 compulsory
 coelastraceae
