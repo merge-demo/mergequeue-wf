@@ -6077,7 +6077,6 @@ catholicize
 catholicly
 clinkers
 cloisterless
-catholicos
 curarize
 cervicitis
 cyanide
@@ -27336,6 +27335,7 @@ coursing
 court
 conductivities
 climacterics
+catholicos
 courtal
 cgs
 courtbred
