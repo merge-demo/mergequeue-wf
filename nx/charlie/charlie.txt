@@ -5082,7 +5082,6 @@ carve
 carvene
 coronad
 carver
-copaibic
 chasers
 carvership
 cuisten
@@ -15999,6 +15998,7 @@ choragy
 cluppe
 cleruchies
 cardroom
+copaibic
 clerum
 counterindentation
 caraculs
