@@ -7502,7 +7502,6 @@ ephelcystic
 evasible
 effluvial
 elementalistically
-exposit
 ephemerid
 escobadura
 ephemeridae
@@ -13578,6 +13577,7 @@ extranormal
 ectadenia
 enrobe
 elegist
+exposit
 emulation
 epikeia
 episcopant
