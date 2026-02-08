@@ -15791,7 +15791,6 @@ antiphrases
 amberiferous
 antiepileptic
 amphisbaenian
-afloat
 anthracometric
 antiaesthetic
 antipyics
@@ -20279,6 +20278,7 @@ antidotal
 aribin
 arrogation
 adenyls
+afloat
 aleutian
 adsignification
 arroyos

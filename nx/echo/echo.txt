@@ -1051,7 +1051,6 @@ epiphora
 elementaloid
 epispadiac
 euphonism
-educationary
 escargot
 estimation
 electrobiological
@@ -2420,6 +2419,7 @@ ectogenetic
 echinochrome
 electroetching
 earlet
+educationary
 electrodeposition
 edana
 exhibitable
