@@ -9623,6 +9623,7 @@ bronchomycosis
 blastomata
 boondocker
 bisdiapason
+biteable
 binary
 bicapsular
 bandlimits
@@ -9845,7 +9846,6 @@ bitartrate
 beneplacito
 bonilass
 bandonion
-biteable
 begin
 boral
 bonapartean
