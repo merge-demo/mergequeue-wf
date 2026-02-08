@@ -10813,6 +10813,7 @@ blesmol
 bestripe
 bakership
 budlike
+branchiomeric
 boeotic
 boul
 bavin
@@ -14532,7 +14533,6 @@ bolivarite
 briarroot
 baske
 bahan
-branchiomeric
 branchellion
 babroot
 beadle
