@@ -14725,7 +14725,6 @@ curatel
 chiarooscuros
 cityness
 cotyle
-citynesses
 chinantecs
 chaffed
 cladodontid
@@ -29405,6 +29404,7 @@ crypturi
 courbash
 carites
 crypturidae
+citynesses
 cassioberry
 cris
 chairperson
