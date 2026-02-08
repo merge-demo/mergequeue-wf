@@ -4729,6 +4729,7 @@ esthematology
 epsom
 exogamies
 escot
+ensulphur
 electroencephalographs
 entrammel
 endoscopist
@@ -10775,7 +10776,6 @@ elicitory
 employless
 egriot
 eulachan
-ensulphur
 eulamellibranchiata
 electrical
 ethylenically
