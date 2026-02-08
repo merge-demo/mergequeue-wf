@@ -1692,6 +1692,7 @@ fruit
 footman
 fingrigo
 forestep
+france
 fasciolariidae
 flourless
 foodservices
@@ -7412,7 +7413,6 @@ fume
 flourishy
 foraminose
 foraminulate
-france
 ferocious
 formaldehydesulphoxylic
 foredone
