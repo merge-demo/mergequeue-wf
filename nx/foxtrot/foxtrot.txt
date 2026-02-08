@@ -2963,7 +2963,6 @@ fortunite
 froths
 fevered
 flueless
-furnacing
 fingerbreadth
 foredecks
 furole
@@ -9575,6 +9574,7 @@ freckle
 flashiness
 flay
 fieldmouse
+furnacing
 favouress
 flyted
 flatus
