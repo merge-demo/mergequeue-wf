@@ -7977,7 +7977,6 @@ fluidifier
 formoxime
 foreshoe
 foreslow
-fimetarious
 foreshortened
 fenerate
 ficelle
@@ -8666,6 +8665,7 @@ fellatory
 flawed
 fillebeg
 finitary
+fimetarious
 fumistery
 foretastes
 figurativeness
