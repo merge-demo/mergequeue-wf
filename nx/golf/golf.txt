@@ -2760,7 +2760,6 @@ greatcoat
 gorgerin
 gile
 gyne
-goss
 ghana
 grist
 guzzledom
@@ -6915,6 +6914,7 @@ gaunch
 gravitater
 glacialize
 golgotha
+goss
 geniohyoglossal
 gloxinia
 gnostically
