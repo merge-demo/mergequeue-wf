@@ -4670,7 +4670,6 @@ gipsyish
 gorgonin
 gingkoes
 gunhouse
-gestatorium
 gastrohelcosis
 graveward
 ghostily
@@ -5271,6 +5270,7 @@ gluiest
 gazump
 glenohumeral
 gloved
+gestatorium
 gonyoncus
 gilenyer
 gesticulating
