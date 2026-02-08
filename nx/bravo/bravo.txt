@@ -11939,7 +11939,6 @@ blennoptysis
 bench
 blitzing
 bethumping
-bepaints
 brulyies
 boerhavia
 becrown
@@ -11979,6 +11978,7 @@ banishers
 broommaker
 bloomiest
 bosser
+bepaints
 bogeymen
 brut
 basipodite
