@@ -2369,6 +2369,7 @@ glyptographer
 gymnoconia
 guardants
 gasterosteoid
+genty
 grignet
 gonopodpodia
 gabardines
@@ -6562,7 +6563,6 @@ gudgeons
 gluconeogenetic
 glengarry
 gurgoyle
-genty
 guesswork
 gibstaff
 gastrohyperneuria
