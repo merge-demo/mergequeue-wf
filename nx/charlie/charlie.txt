@@ -14280,7 +14280,6 @@ cuneonavicular
 calochortus
 cask
 connectivity
-condescend
 collapsed
 circumsession
 circumsolar
@@ -30695,6 +30694,7 @@ czarian
 conrad
 cudweeds
 cosovereign
+condescend
 counterexplanation
 couturire
 compassment
