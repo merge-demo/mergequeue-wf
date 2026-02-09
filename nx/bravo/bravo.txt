@@ -5472,7 +5472,6 @@ baronets
 behoovefulness
 barrier
 behooves
-behooving
 borages
 bitonal
 bacterioprotein
@@ -18399,6 +18398,7 @@ bibcocks
 brachygrapher
 bedrugs
 bacteriostatically
+behooving
 buzzingly
 bothlike
 bubber
