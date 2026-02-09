@@ -682,7 +682,6 @@ epithecium
 euahlayi
 erythroxylum
 eof
-extraneous
 eavesdrop
 enchodontidae
 establishment
@@ -3139,6 +3138,7 @@ epicurish
 enseraph
 ellfish
 estriate
+extraneous
 entellus
 escar
 enterers
