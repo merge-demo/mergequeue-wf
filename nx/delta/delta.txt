@@ -12248,7 +12248,6 @@ depasturable
 dorine
 doweling
 durous
-desultorious
 despoiler
 dishonourer
 detector
@@ -13073,6 +13072,7 @@ dekastere
 desilverizing
 dialogical
 deicidal
+desultorious
 drakestone
 disworth
 dispatch
