@@ -5926,7 +5926,6 @@ gibbers
 gauzier
 gestative
 grahamite
-gonopodia
 genotypicity
 gallanting
 gipsyism
@@ -9307,6 +9306,7 @@ groenlandicus
 goyana
 gurge
 gangliate
+gonopodia
 gordioid
 galactophagous
 goutweed
