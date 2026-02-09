@@ -3355,6 +3355,7 @@ fidelio
 flaxseed
 forebreast
 flaminica
+faciend
 frighteningness
 featheredge
 fameworthy
@@ -10558,7 +10559,6 @@ fewness
 fusiliers
 freemasonical
 frowners
-faciend
 freq
 forstand
 fumigates
