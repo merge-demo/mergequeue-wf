@@ -1188,7 +1188,6 @@ enchiridions
 ebonist
 enthrill
 expilator
-enter
 exaction
 emanationism
 esophagectasia
@@ -13644,6 +13643,7 @@ emamelware
 epitaph
 extending
 ethnomusicologically
+enter
 electrosmosis
 enabler
 eked

@@ -13645,6 +13645,7 @@ cymraeg
 cymry
 cousinage
 consuetude
+conjunctivas
 criss
 cynanche
 cornutus
@@ -13856,7 +13857,6 @@ cyclodiolefin
 cautionings
 cautivo
 corrosiveness
-conjunctivas
 cinnamodendron
 chondroclast
 cusconin
