@@ -9433,7 +9433,6 @@ althionic
 apholates
 ablution
 ajutment
-asterikos
 aspidate
 anargyroi
 althorn
@@ -12887,6 +12886,7 @@ appearance
 adulterator
 ataxiagraph
 astrer
+asterikos
 assonantic
 assimilable
 atheroscleroses
