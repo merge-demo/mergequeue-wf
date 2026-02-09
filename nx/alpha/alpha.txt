@@ -3502,7 +3502,6 @@ addleheadedness
 addleness
 abscissa
 activists
-angiotome
 aphonia
 aeroyacht
 addlepated
@@ -19281,6 +19280,7 @@ axonometry
 analysation
 arenicolite
 anagrammed
+angiotome
 arenilitic
 anthraquinonyl
 apocalyptical
