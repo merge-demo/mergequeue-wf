@@ -3724,6 +3724,7 @@ groundedness
 gapy
 galliot
 gringolee
+glossohyal
 granaries
 galateas
 geodynamic
@@ -5729,7 +5730,6 @@ gressorious
 graveyards
 geotropism
 geologize
-glossohyal
 gustoes
 glossolysis
 glumpiness
