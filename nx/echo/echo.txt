@@ -186,7 +186,6 @@ effervescent
 ephedras
 enunciations
 enriched
-exequy
 elfland
 earmarked
 eelbobber
@@ -8613,6 +8612,7 @@ erase
 efficacious
 eumorphic
 epeiric
+exequy
 enunciative
 exchangeable
 ectomeric
