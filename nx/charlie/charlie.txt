@@ -3483,7 +3483,6 @@ counterplan
 caprimulgiformes
 chinwood
 caprin
-candlebeam
 chamfrons
 cimelia
 chemicoluminescent
@@ -7263,6 +7262,7 @@ cicatricose
 centripetence
 centriscid
 clarine
+candlebeam
 centriscidae
 caressingly
 cups
