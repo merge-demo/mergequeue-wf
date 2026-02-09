@@ -3453,6 +3453,7 @@ fleeringly
 floc
 featherlike
 forestate
+face
 fluoridised
 forset
 furcation
@@ -8649,7 +8650,6 @@ filterability
 futharks
 feet
 finestiller
-face
 forborn
 fytte
 formatter
