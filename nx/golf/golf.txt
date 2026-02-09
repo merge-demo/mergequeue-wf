@@ -6083,6 +6083,7 @@ gamboge
 garde
 gullibly
 gryphosaurus
+guffawed
 gyrochrome
 gnessic
 gastromancy
@@ -10119,7 +10120,6 @@ gonopores
 guetre
 gemsbuck
 gesticulate
-guffawed
 grassers
 grainery
 glazed
