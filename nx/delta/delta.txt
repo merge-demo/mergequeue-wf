@@ -9598,6 +9598,7 @@ dramatism
 demulceate
 desterilize
 decultivate
+doped
 disequilibrate
 departisanize
 dignitary
@@ -15862,7 +15863,6 @@ deteriorates
 desterilized
 dosing
 dehairer
-doped
 dorsiduct
 darjeeling
 duma
