@@ -1467,7 +1467,6 @@ discriminative
 diffusor
 dregginess
 devitalizes
-dasypaedal
 dandies
 dazzler
 diaphanously
@@ -14183,6 +14182,7 @@ dand
 dragoon
 dijudicated
 detection
+dasypaedal
 daters
 dermolysis
 diruption
