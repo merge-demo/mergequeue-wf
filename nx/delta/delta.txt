@@ -5888,7 +5888,6 @@ deforceor
 diapaused
 doesnt
 deridingly
-disuse
 depersonalised
 depredated
 definitiveness
@@ -17765,6 +17764,7 @@ decken
 dissue
 doublehatching
 ducked
+disuse
 distraughtly
 discussionis
 disarrange
