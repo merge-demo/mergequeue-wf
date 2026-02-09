@@ -11594,6 +11594,7 @@ acerbity
 anaerobation
 antiquist
 acrocentric
+anemotropic
 anaerobion
 apocrisiary
 anaerobiont
@@ -15050,7 +15051,6 @@ annalists
 anoplanthus
 antidromically
 antidrug
-anemotropic
 applied
 archcheater
 analcimes
