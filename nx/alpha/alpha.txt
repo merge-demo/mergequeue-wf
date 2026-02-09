@@ -10430,7 +10430,6 @@ apollonia
 amphipodan
 aniellidae
 aristides
-autoimmunize
 ameliorativ
 amenders
 amidoplast
@@ -10741,6 +10740,7 @@ ankaramite
 actaeaceae
 ammoniated
 ageustia
+autoimmunize
 acrosomes
 ammoniating
 antioxygenator
