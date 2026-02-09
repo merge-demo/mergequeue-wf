@@ -1946,6 +1946,7 @@ backhoes
 biorhythmicity
 bandoleers
 bivalent
+barotaxy
 braving
 bruiser
 buckayros
@@ -11129,7 +11130,6 @@ bipedism
 bankrolled
 bougies
 bygane
-barotaxy
 bacchanalia
 bloodcurdling
 booboos

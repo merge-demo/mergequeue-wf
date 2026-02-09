@@ -5189,7 +5189,6 @@ emporial
 efference
 euchres
 echeloning
-enchanter
 earwort
 endogenous
 enlistment
@@ -12250,6 +12249,7 @@ epanalepsis
 endopterygotic
 eclogue
 executress
+enchanter
 elshin
 enchases
 expertized
