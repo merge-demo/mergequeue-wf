@@ -491,6 +491,7 @@ famished
 faitours
 fomented
 fainant
+foresign
 felineness
 fistical
 fundulus
@@ -9664,7 +9665,6 @@ forespeaker
 freen
 featherfoil
 flibustier
-foresign
 fecklessly
 feliform
 feigners

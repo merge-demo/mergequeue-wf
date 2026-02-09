@@ -8671,6 +8671,7 @@ chanteur
 chanteuse
 cisrhenane
 chanticleer
+chefs
 chanticleers
 chantier
 curiousness
@@ -9701,7 +9702,6 @@ childing
 cozens
 cheezit
 chef
-chefs
 coenamoring
 collocate
 calathidia
