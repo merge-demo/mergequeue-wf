@@ -9566,7 +9566,6 @@ esculin
 expansively
 ephori
 essences
-extrasolar
 evilest
 exempt
 envois
@@ -9861,6 +9860,7 @@ eatage
 esterization
 embarcation
 enterocrinin
+extrasolar
 exhumated
 exteriorised
 electorate
