@@ -2479,6 +2479,7 @@ dulls
 deferral
 duds
 dishonourary
+dentifrice
 declaim
 declaimer
 declamatory
@@ -5324,7 +5325,6 @@ denticle
 dentiferous
 devocalise
 denarcotize
-dentifrice
 decencies
 draymen
 dentil
