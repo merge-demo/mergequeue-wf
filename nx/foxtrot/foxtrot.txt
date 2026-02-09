@@ -3508,7 +3508,6 @@ fanfares
 frostfishes
 foreseason
 foreinstruct
-fighteress
 fatigation
 fruits
 fighting
@@ -6468,6 +6467,7 @@ fewterer
 fairm
 flaggier
 futurely
+fighteress
 foliates
 ferforth
 fireflower
