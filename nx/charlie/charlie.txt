@@ -6114,7 +6114,6 @@ complant
 cairds
 catlins
 craftsperson
-cryptoporticus
 cantharidizing
 cumene
 cameroonian
@@ -7104,6 +7103,7 @@ cheap
 cloaks
 choledochostomy
 centenier
+cryptoporticus
 calyxes
 consimilar
 cytaster
