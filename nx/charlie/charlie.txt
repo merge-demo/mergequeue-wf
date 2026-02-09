@@ -3257,6 +3257,7 @@ capillose
 corolline
 coelelminthes
 coronetty
+combinatorial
 centrotus
 cashableness
 crax
@@ -19732,7 +19733,6 @@ combinative
 counterrotating
 combinator
 combinatory
-combinatorial
 combinatorially
 combinators
 copaiva
