@@ -3278,7 +3278,6 @@ fleshes
 fosterland
 followingly
 filbert
-freit
 furnacer
 forechoice
 fifteenthly
@@ -8598,6 +8597,7 @@ fossilize
 fornicatrix
 fructidor
 frameshift
+freit
 fullfil
 fissionable
 fungating
