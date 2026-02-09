@@ -5320,7 +5320,6 @@ germanesque
 goodman
 gretchen
 galloflavin
-gonochorismal
 gingals
 glaived
 gryposis
@@ -5551,6 +5550,7 @@ gad
 gamecocks
 gourd
 grintern
+gonochorismal
 gangland
 ginglymostomoid
 genial
