@@ -983,6 +983,7 @@ daneball
 disruptions
 dermosclerite
 dishabille
+desertness
 deformeter
 daffling
 delicatessens
@@ -7607,7 +7608,6 @@ devastating
 disinvigorate
 devastation
 disabler
-desertness
 disquiparant
 disposers
 devata
