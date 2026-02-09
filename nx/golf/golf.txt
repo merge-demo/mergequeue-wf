@@ -4464,7 +4464,6 @@ griffin
 gypsying
 gyre
 gainst
-gigmanic
 grammontine
 gastrostaxis
 gerontes
@@ -10850,6 +10849,7 @@ grumps
 galianes
 gramashes
 geryoniidae
+gigmanic
 gorging
 guidance
 gluttery
