@@ -2204,7 +2204,6 @@ fairsome
 forestery
 facetious
 finiglacial
-funge
 foredeserved
 forego
 finjan
@@ -5059,6 +5058,7 @@ fomento
 fledging
 frugalism
 farrage
+funge
 foxhound
 fusillade
 factordom
