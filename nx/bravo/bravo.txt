@@ -4783,7 +4783,6 @@ bord
 bedmate
 bogey
 bedtimes
-bedown
 bedpans
 bombace
 bries
@@ -10745,6 +10744,7 @@ blennymenitis
 boney
 byssus
 beaverboard
+bedown
 balls
 batties
 baalisms
