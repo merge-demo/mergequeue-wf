@@ -10906,7 +10906,6 @@ blin
 beadledom
 baga
 bagwoman
-bowsaw
 biggity
 bibbling
 blindball
@@ -11192,6 +11191,7 @@ bursicle
 begash
 bibliophiles
 boodleize
+bowsaw
 boleti
 barlafumble
 biometer
