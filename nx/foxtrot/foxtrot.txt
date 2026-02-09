@@ -6340,7 +6340,6 @@ factory
 frankincensed
 fortifys
 filchery
-flybelts
 fescennine
 fuliginosity
 fluent
@@ -8262,6 +8261,7 @@ forgett
 faits
 flaglike
 formuliser
+flybelts
 feldspars
 flickering
 fulltime
