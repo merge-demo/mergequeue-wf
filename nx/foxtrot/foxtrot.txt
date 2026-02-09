@@ -1870,7 +1870,6 @@ foredoom
 footstep
 fourdrinier
 finalize
-frogtongue
 fibrinokinase
 flamboyantize
 faradizing
@@ -4658,6 +4657,7 @@ fleckless
 ferocactus
 fruiteries
 fruitgrowing
+frogtongue
 fitchew
 ferial
 fruitages
