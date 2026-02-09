@@ -4857,7 +4857,6 @@ glaciates
 gladiator
 gagelike
 gilour
-gatherer
 gunnen
 gryph
 guaranine
@@ -7417,6 +7416,7 @@ gummosis
 gaudery
 galen
 gruffiest
+gatherer
 geometroidea
 gummer
 goupen
