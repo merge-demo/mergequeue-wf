@@ -3972,7 +3972,6 @@ damping
 djakarta
 dokhma
 doll
-dipteros
 delegations
 desexing
 discomposedly
@@ -16287,6 +16286,7 @@ dactylist
 dials
 druggeries
 dochmiac
+dipteros
 duchess
 dynamite
 discobolus
