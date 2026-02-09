@@ -1823,6 +1823,7 @@ gatekeeper
 groupist
 glummer
 gabbier
+galvanisation
 gatekeepers
 glos
 gentile
@@ -3577,7 +3578,6 @@ guacho
 girlishness
 ghan
 graftproof
-galvanisation
 guze
 ghoulishly
 gharnao
