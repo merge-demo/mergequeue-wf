@@ -751,7 +751,6 @@ galvanoplasty
 geomorphic
 guntub
 gaulter
-gutter
 gasmetophytic
 gluck
 ggr
@@ -2330,6 +2329,7 @@ gymnocerata
 gadinic
 guilder
 germiest
+gutter
 gibbartas
 guajiras
 gyrostatic
