@@ -11135,7 +11135,6 @@ anisogamete
 appenders
 alloplasmic
 allthing
-amphikaryotic
 autolimnetic
 abrege
 arzrunite
@@ -21291,6 +21290,7 @@ acroscleriasis
 alpheratz
 attingence
 averaged
+amphikaryotic
 atropine
 antianthropomorphism
 antisupernaturalistic
