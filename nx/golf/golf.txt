@@ -1580,7 +1580,6 @@ gillygaupus
 gananciales
 gunplay
 gl
-graphology
 goodeniaceous
 girasol
 gynandrosporous
@@ -4404,6 +4403,7 @@ gazangabin
 gambits
 guide
 ginseng
+graphology
 genoveva
 gynura
 garotter
