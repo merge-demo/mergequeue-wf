@@ -608,7 +608,6 @@ gazophylacium
 gibber
 gemmiparously
 glassed
-gunslingers
 gillie
 goopy
 glide
@@ -9369,6 +9368,7 @@ glossolalist
 goutiness
 glonoin
 gnomists
+gunslingers
 gurly
 garnisheed
 geotechnic
