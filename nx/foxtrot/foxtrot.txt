@@ -1598,7 +1598,6 @@ finer
 forenamed
 florae
 floppies
-functionating
 fluvial
 fallalery
 filefish
@@ -6753,6 +6752,7 @@ freshwater
 finely
 fumbler
 fury
+functionating
 fretish
 foreface
 flaughtbred
