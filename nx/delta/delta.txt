@@ -540,7 +540,6 @@ dodecaheddra
 decopperization
 dicyclopentadienyliron
 desexualizing
-dehydroretinol
 develin
 demifusion
 dextrose
@@ -16877,6 +16876,7 @@ doubletone
 dichromate
 damewort
 danize
+dehydroretinol
 displacing
 duchan
 dewanee
