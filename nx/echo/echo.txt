@@ -2482,7 +2482,6 @@ earthquaked
 eslabon
 efficient
 electrophysiologist
-eyelets
 estus
 epidemiologies
 elutriate
@@ -2905,6 +2904,7 @@ eleusinia
 explicantia
 emasculator
 effervesce
+eyelets
 ensiling
 exsuscitate
 extroversive
