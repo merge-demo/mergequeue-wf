@@ -531,6 +531,7 @@ butyl
 blit
 bootboy
 blastema
+browbeater
 befriendment
 burrock
 brickiest
@@ -11861,7 +11862,6 @@ brahmin
 brazenness
 briareus
 beguileful
-browbeater
 bundle
 bluebeardism
 bradyphrasia
