@@ -8456,6 +8456,7 @@ bacony
 beaverette
 batukite
 bocage
+bombproof
 bittium
 breathableness
 bradylalia
@@ -15584,7 +15585,6 @@ backwoodsman
 bolsterer
 bourbonian
 bocks
-bombproof
 bristled
 bacteriophagia
 boots
