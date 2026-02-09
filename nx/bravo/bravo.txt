@@ -2254,6 +2254,7 @@ broggle
 blobs
 badineur
 bung
+biarticulate
 barbara
 barbary
 baculiferous
@@ -7815,7 +7816,6 @@ bakuninist
 bhabar
 biannually
 bodegas
-biarticulate
 barrulee
 biasedly
 bismerpund
