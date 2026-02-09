@@ -8379,7 +8379,6 @@ existentialize
 elegizes
 enolized
 electrodeposit
-elev
 expressibly
 exulted
 emulating
@@ -12808,6 +12807,7 @@ epomophorus
 engrams
 electroplaque
 exines
+elev
 extensional
 exostosis
 exarchist
