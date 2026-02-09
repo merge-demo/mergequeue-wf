@@ -1606,7 +1606,6 @@ accounters
 agata
 accouter
 apotype
-astrologistic
 agrostologist
 aneling
 acemetic
@@ -23448,6 +23447,7 @@ arnicas
 alleviaters
 actinopteri
 auditorium
+astrologistic
 addition
 araneiformia
 anagrammatist
