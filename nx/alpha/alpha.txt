@@ -2283,7 +2283,6 @@ arboured
 amended
 agronomics
 aciculum
-awning
 akhlame
 attempers
 acidaspis
@@ -6856,6 +6855,7 @@ acetaldehydrase
 age
 autogamic
 ashot
+awning
 antiferromagnet
 aitch
 asphaltene
