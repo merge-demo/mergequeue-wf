@@ -12600,7 +12600,6 @@ brooklike
 boning
 bakemeat
 bonitarian
-bonity
 buckaroo
 bragi
 bemocks
@@ -14286,6 +14285,7 @@ boarding
 bronchiogenic
 brochidodromous
 benefactory
+bonity
 begoud
 brens
 branchiosaur

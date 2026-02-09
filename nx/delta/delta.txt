@@ -179,6 +179,7 @@ daemons
 drumskin
 daemonurgist
 dystomic
+duplexing
 defecant
 dak
 deemstership
@@ -18186,7 +18187,6 @@ dewlaps
 digress
 degree
 dump
-duplexing
 dineuric
 decolorizing
 dotriacontane
