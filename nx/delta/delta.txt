@@ -8244,6 +8244,7 @@ decodon
 davainea
 ductus
 distrito
+deeding
 diagnosed
 disenthroned
 disentitled
@@ -17015,7 +17016,6 @@ depressively
 dressed
 disgarrison
 diphyes
-deeding
 dressiest
 desray
 dialectology
