@@ -11232,6 +11232,7 @@ extraparochially
 electragist
 englishry
 exonuclease
+exundate
 endospermic
 endoplastule
 edility
@@ -11317,7 +11318,6 @@ epedaphic
 epidictical
 elsewhen
 exserts
-exundate
 entelluses
 ethnologic
 entomologically
