@@ -1284,6 +1284,7 @@ fumigatories
 fastgoing
 foresaw
 florid
+fief
 fleys
 frithwork
 fertileness
@@ -8895,7 +8896,6 @@ freeholder
 folies
 fetations
 folia
-fief
 fleuron
 filiopietistic
 facilities
