@@ -7625,7 +7625,6 @@ enterocoelous
 ensouls
 enticements
 embololalia
-exion
 echinocaris
 ebbet
 exiles
@@ -10048,6 +10047,7 @@ espoused
 enseem
 epanastrophe
 electrodiagnostic
+exion
 ethanal
 esoterical
 extill
