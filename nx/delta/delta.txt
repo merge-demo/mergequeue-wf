@@ -757,6 +757,7 @@ demissness
 dikaryotic
 danegelds
 dishonorable
+dietarian
 dungeon
 deckhead
 daneweed
@@ -18324,7 +18325,6 @@ dunpickle
 debtorship
 donkeyism
 duluth
-dietarian
 dhu
 duns
 dissimuler
