@@ -221,7 +221,6 @@ glowfly
 grivois
 gabbles
 germanomaniac
-gunmen
 guardfully
 golpe
 gaspereau
@@ -6698,6 +6697,7 @@ glossitic
 gabeler
 girdlelike
 gluttonies
+gunmen
 gynaecologic
 glycolyl
 glimed
