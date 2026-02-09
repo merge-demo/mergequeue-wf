@@ -6631,7 +6631,6 @@ flabs
 flouted
 fortuitist
 flyboats
-firework
 femorofibular
 falconiform
 franseria
@@ -8720,6 +8719,7 @@ flaxwench
 folksongs
 fosset
 foreschooling
+firework
 followable
 firesafe
 finalist
