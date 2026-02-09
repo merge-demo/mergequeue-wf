@@ -2773,7 +2773,6 @@ guzzledom
 gathers
 galvanometer
 gazettal
-gopak
 gaspereaus
 gormless
 garrote
@@ -4966,6 +4965,7 @@ gauziest
 goldic
 generant
 gymnogen
+gopak
 gaslit
 goodnight
 glew

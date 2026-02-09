@@ -5693,6 +5693,7 @@ astrocompass
 awl
 agaricaceous
 agarics
+antoecian
 apluda
 aleurodidae
 acephalia
@@ -16365,7 +16366,6 @@ antodontalgic
 aberrated
 antoeci
 aerolith
-antoecian
 antoecians
 ambulatorily
 agitator
