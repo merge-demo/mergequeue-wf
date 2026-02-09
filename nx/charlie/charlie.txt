@@ -8816,7 +8816,6 @@ canonries
 chapteral
 chapterhouse
 catalina
-chaumiere
 cardinalates
 chapwoman
 chaqueta
@@ -21497,6 +21496,7 @@ cosignatories
 coan
 cognising
 cardiophobia
+chaumiere
 cantalas
 cravingly
 concordancy
