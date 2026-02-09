@@ -10077,6 +10077,7 @@ chessboards
 counterfugue
 collab
 chipchap
+coetanean
 chessdom
 chesser
 codheaded
@@ -29678,7 +29679,6 @@ clysterize
 crowd
 croise
 croisee
-coetanean
 croises
 croisette
 creatinuria
