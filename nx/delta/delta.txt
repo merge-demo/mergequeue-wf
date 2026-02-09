@@ -9949,7 +9949,6 @@ devious
 diminishingly
 desiccation
 dehorned
-diminuendoes
 degu
 disingenuous
 delightsome
@@ -11341,6 +11340,7 @@ diatoms
 discographic
 downsome
 dobson
+diminuendoes
 discustom
 desponsage
 disadvantagedness
