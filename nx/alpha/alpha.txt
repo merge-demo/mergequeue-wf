@@ -4828,6 +4828,7 @@ abrasiveness
 allody
 anthoecology
 aerodynamics
+astronavigator
 abnormous
 aragallus
 aguishly
@@ -22453,7 +22454,6 @@ astronaut
 apollinian
 asmodeus
 aphoruridae
-astronavigator
 anodynic
 astronomy
 analgen
