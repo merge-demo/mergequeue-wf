@@ -4778,6 +4778,7 @@ future
 feathermonger
 fobbing
 fatnesses
+forelooper
 furfuroid
 feedwater
 fulgor
@@ -10766,7 +10767,6 @@ flagstaves
 fireboot
 fausant
 fletches
-forelooper
 fifths
 feltwort
 footraces
