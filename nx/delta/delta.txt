@@ -4242,7 +4242,6 @@ dysarthria
 dissemble
 defaulter
 diskelion
-disannexation
 demasculinise
 divisors
 deadening
@@ -13610,6 +13609,7 @@ dissentive
 diavolo
 doggereler
 distingue
+disannexation
 diseurs
 depuration
 depeople
