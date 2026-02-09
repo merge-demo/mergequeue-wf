@@ -4570,7 +4570,6 @@ advisories
 acrock
 antipill
 amreeta
-advocacy
 afficionado
 atm
 advocated
@@ -7775,6 +7774,7 @@ antimonopolist
 antierosion
 archimandrite
 accorders
+advocacy
 alecost
 alectoria
 atterminal
