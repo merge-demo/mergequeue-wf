@@ -4140,6 +4140,7 @@ boyishness
 biassing
 ballistics
 babism
+blankite
 beveled
 baroclinicity
 blamableness
@@ -5731,7 +5732,6 @@ belies
 braziery
 believers
 beamful
-blankite
 bestials
 budge
 bathtub
