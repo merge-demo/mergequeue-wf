@@ -1652,6 +1652,7 @@ flaveria
 folksong
 fingerstone
 flemer
+frizzen
 forgrow
 fluoridizing
 fiendful
@@ -2937,7 +2938,6 @@ fortressing
 friendlier
 footmark
 fustianist
-frizzen
 factoring
 flagonless
 fetus
