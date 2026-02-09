@@ -4355,7 +4355,6 @@ grandam
 ginhouse
 geobios
 gelidiaceae
-gametocyst
 goldfinches
 gyron
 gyniatries
@@ -4976,6 +4975,7 @@ goldhead
 grouthead
 genealogists
 glister
+gametocyst
 gunned
 grazes
 guariba
