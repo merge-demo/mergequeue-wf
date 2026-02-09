@@ -2240,6 +2240,7 @@ daggles
 drongo
 drivescrew
 dithyrambically
+decimalize
 dialectic
 dartre
 depurating
@@ -12497,7 +12498,6 @@ disconform
 demarks
 dasewe
 disillusionising
-decimalize
 diaphanousness
 disgorge
 decinormal
