@@ -5893,7 +5893,6 @@ edificing
 ecclesiast
 euphausia
 epigeum
-equaeval
 ewest
 embracingly
 economised
@@ -12549,6 +12548,7 @@ existlessness
 epistemological
 embezzle
 exit
+equaeval
 edger
 encrypted
 exsects
