@@ -1817,7 +1817,6 @@ alizarine
 acephali
 afterage
 apprehendable
-anthropomorphous
 archaeocyte
 afterend
 allamanda
@@ -12439,6 +12438,7 @@ axolysis
 alienor
 abhors
 attask
+anthropomorphous
 appendicate
 adiapneustia
 androgonial
