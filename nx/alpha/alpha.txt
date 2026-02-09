@@ -1658,7 +1658,6 @@ actualities
 accrued
 advancements
 accruement
-arthromeric
 accruer
 administrant
 anatta
@@ -10717,6 +10716,7 @@ ammonate
 auxiliation
 abortogenic
 angleworms
+arthromeric
 azureness
 argiopidae
 augmentor
