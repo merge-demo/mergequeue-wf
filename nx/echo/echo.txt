@@ -9558,6 +9558,7 @@ electromotivity
 electrochemistry
 erucin
 episodic
+elinvar
 exobasidiales
 encyclopedian
 escrow
@@ -13633,7 +13634,6 @@ eelcatcher
 empedoclean
 endamebiasis
 effossion
-elinvar
 endwise
 equines
 eremurus
