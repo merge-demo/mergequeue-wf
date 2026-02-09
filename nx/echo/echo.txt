@@ -1211,7 +1211,6 @@ edoni
 excisemen
 entrochite
 epipany
-electropneumatic
 exceptiveness
 edification
 empathize
@@ -4643,6 +4642,7 @@ efficaciously
 esseda
 enow
 externals
+electropneumatic
 empacket
 escapade
 ethnobiological
