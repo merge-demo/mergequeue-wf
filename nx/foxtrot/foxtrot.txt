@@ -334,7 +334,6 @@ feint
 fulciment
 finagles
 finials
-flusker
 fagaceae
 flatirons
 fulfillments
@@ -3433,6 +3432,7 @@ fireshine
 foretalk
 fatwood
 fiendly
+flusker
 featurely
 fulfilment
 flatteringness
