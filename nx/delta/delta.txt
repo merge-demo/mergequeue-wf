@@ -2690,6 +2690,7 @@ deist
 dissimulator
 disscepter
 duetto
+douched
 decorate
 defenses
 dismarket
@@ -5390,7 +5391,6 @@ disc
 dodecanesian
 denuder
 demulsion
-douched
 dialysation
 dorsum
 denumerably
