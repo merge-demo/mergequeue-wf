@@ -8291,7 +8291,6 @@ chalcone
 chalcopyrite
 chalcosine
 crocodilite
-cronyism
 canadianisms
 chalcus
 chiver
@@ -16912,6 +16911,7 @@ continuations
 clued
 clueing
 cephalothorax
+cronyism
 clisiocampa
 cheyney
 complexation
