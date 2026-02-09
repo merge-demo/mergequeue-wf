@@ -15576,7 +15576,6 @@ accreditate
 absist
 assary
 altruist
-apprehensible
 alway
 altamira
 ararao
@@ -18528,6 +18527,7 @@ arbour
 aelodicon
 anthrone
 ars
+apprehensible
 arbuscular
 ademonist
 arbust
