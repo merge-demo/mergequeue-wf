@@ -1355,7 +1355,6 @@ emasculates
 episcopize
 evaginable
 evernioid
-ellipsis
 enthymematic
 exumbrellar
 ensiled
@@ -1699,6 +1698,7 @@ enlivening
 edgemaker
 euphuized
 ethylenes
+ellipsis
 epiphloedal
 electrotaxis
 ejusdem
