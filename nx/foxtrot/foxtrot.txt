@@ -9083,7 +9083,6 @@ faltered
 ferrymen
 females
 flustrum
-flavo
 feudality
 forbruise
 foreadmonish
@@ -10550,6 +10549,7 @@ federalizations
 featherback
 fibrins
 fumelike
+flavo
 fitful
 firetail
 frouzy
