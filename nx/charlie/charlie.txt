@@ -7939,7 +7939,6 @@ cartload
 calcicole
 coronize
 cestoidean
-cestoids
 cestraction
 cestrian
 cestrum
@@ -9201,6 +9200,7 @@ chastelain
 coots
 catarrh
 carettochelydidae
+cestoids
 carbonylic
 chastener
 cashaw
