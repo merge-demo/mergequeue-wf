@@ -3592,6 +3592,7 @@ adsorbing
 arriver
 adamhood
 amputating
+auxotonic
 antimonite
 anilide
 adelphian
@@ -11465,7 +11466,6 @@ ammophilous
 accinging
 ampliate
 amethysts
-auxotonic
 anacalypsis
 attababy
 approbate
