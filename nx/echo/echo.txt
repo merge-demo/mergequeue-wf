@@ -842,7 +842,6 @@ embeddable
 exodus
 eurytopic
 eventfully
-eom
 extracapsular
 epiphyllum
 encephalography
@@ -3774,6 +3773,7 @@ elaeocarpaceae
 encuirassed
 embryotega
 etherialise
+eom
 embryotegae
 excogitates
 environage
