@@ -6089,7 +6089,6 @@ gryphosaurus
 guffawed
 gyrochrome
 gnessic
-gastromancy
 grogging
 gnetales
 gude
@@ -8043,6 +8042,7 @@ gratitude
 geotaxy
 gangsman
 gryllid
+gastromancy
 gouvernante
 grapnels
 glaucine
