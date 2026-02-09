@@ -759,6 +759,7 @@ dikaryotic
 danegelds
 dishonorable
 dietarian
+dishonorably
 dungeon
 deckhead
 daneweed
@@ -8424,7 +8425,6 @@ delisting
 defencive
 disparageable
 densified
-dishonorably
 deflower
 drowned
 diallings
