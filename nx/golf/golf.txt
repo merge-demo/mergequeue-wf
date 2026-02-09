@@ -5540,7 +5540,6 @@ glossoplegia
 gump
 glycogeny
 grassfinch
-gauffers
 guaiasanol
 guttiferous
 germinally
@@ -10375,6 +10374,7 @@ gothism
 gurgle
 grumpy
 gomasta
+gauffers
 glossolabiolaryngeal
 gelasian
 gidyea
