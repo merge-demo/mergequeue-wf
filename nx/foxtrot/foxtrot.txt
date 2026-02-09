@@ -2463,7 +2463,6 @@ footscraper
 frenchless
 filiation
 fervour
-favonian
 fallible
 floodmark
 forspeak
@@ -11393,6 +11392,7 @@ furcular
 fidgeted
 filii
 fjorded
+favonian
 flamingly
 fisticuffing
 flatterous
