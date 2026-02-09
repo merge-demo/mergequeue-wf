@@ -6142,7 +6142,6 @@ buys
 boxiness
 barograph
 bulimoid
-betide
 bourne
 belauded
 barquette
@@ -12823,6 +12822,7 @@ barrelhouse
 boomable
 best
 boomah
+betide
 boo
 barmaster
 baritonal
