@@ -5942,7 +5942,6 @@ ferrichloride
 furnishings
 flocculent
 flushes
-flaxier
 ferroelectric
 forearm
 frogged
@@ -11717,6 +11716,7 @@ fiancailles
 foreiron
 fliskier
 freudism
+flaxier
 fatiguabilities
 frowns
 furriered
