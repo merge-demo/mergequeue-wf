@@ -7339,7 +7339,6 @@ fortnight
 forekeel
 focalized
 ferine
-frater
 fulmines
 fall
 ferbam
@@ -7683,6 +7682,7 @@ forecasting
 freeze
 flangeway
 foxskin
+frater
 fano
 footbreadth
 firmaments
