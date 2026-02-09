@@ -6136,7 +6136,6 @@ gowiddie
 grisard
 glimmering
 generalcy
-grommet
 garters
 gadfly
 galactophore
@@ -9055,6 +9054,7 @@ gnatcatcher
 girasole
 glares
 giarra
+grommet
 gallium
 goshawful
 gryllos
