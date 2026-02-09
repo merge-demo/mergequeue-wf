@@ -7735,7 +7735,6 @@ electronic
 epideictic
 endomesoderm
 editorializing
-encrimson
 eightieths
 endotheliomata
 eboulement
@@ -10681,6 +10680,7 @@ epappose
 epinephelidae
 evilproof
 enmoss
+encrimson
 endozoa
 enchilada
 exquisitism

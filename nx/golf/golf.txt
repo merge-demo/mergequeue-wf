@@ -2400,7 +2400,6 @@ gnapweed
 goaled
 gripman
 guiac
-grouseless
 gummose
 gemmological
 glade
@@ -6468,6 +6467,7 @@ georgiadesite
 gonapophysial
 gravelled
 gruffness
+grouseless
 garnierite
 gurdwara
 glaikitness
