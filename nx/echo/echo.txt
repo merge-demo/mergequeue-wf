@@ -616,7 +616,6 @@ excommunicates
 electrowinning
 elocutionize
 edulcorated
-eyedrop
 electrodynamics
 ethmovomer
 encomendero
@@ -6250,6 +6249,7 @@ encoders
 explorement
 expectingly
 enfetter
+eyedrop
 exhalations
 evanesce
 equicontinuous

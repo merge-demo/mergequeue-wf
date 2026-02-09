@@ -750,7 +750,6 @@ goalies
 gourding
 galvanoplasty
 geomorphic
-galvanotropism
 guntub
 gaulter
 gutter
@@ -3120,6 +3119,7 @@ gurgles
 georgics
 galumphing
 guignardia
+galvanotropism
 gashed
 grangousier
 garlandry
