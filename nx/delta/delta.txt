@@ -3933,7 +3933,6 @@ delaminating
 dixain
 dort
 decorous
-dooley
 dimethylamino
 ditchdigging
 dkm
@@ -5805,6 +5804,7 @@ dependants
 deceit
 distalwards
 dacker
+dooley
 deepnesses
 decoupled
 derrid
