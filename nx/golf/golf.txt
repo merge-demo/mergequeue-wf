@@ -2498,7 +2498,6 @@ glomeroporphyritic
 gumshield
 gainers
 gaviiformes
-genecology
 guanidopropionic
 gothically
 geed
@@ -8590,6 +8589,7 @@ grandtotal
 genealogical
 gestic
 ground
+genecology
 geodiferous
 gremmy
 gibbeting
