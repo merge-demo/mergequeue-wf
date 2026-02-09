@@ -2035,6 +2035,7 @@ baning
 bandcutter
 banisher
 banishment
+biliment
 banyuls
 bremsstrahlung
 backlists
@@ -3989,7 +3990,6 @@ borborygm
 beachcombers
 biometric
 beachdrops
-biliment
 bioaccumulation
 bumpiest
 blether
