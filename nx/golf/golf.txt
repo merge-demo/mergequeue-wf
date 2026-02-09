@@ -8266,6 +8266,7 @@ grill
 grillades
 gelders
 gaist
+gnathonic
 granam
 graphitize
 genitocrural
@@ -8703,7 +8704,6 @@ growler
 golosh
 geognostically
 gravamen
-gnathonic
 gentlemanship
 girosols
 gunneries
