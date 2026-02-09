@@ -9118,7 +9118,6 @@ fenlander
 flneuse
 flagellar
 flourisher
-faceplate
 furbishable
 foxly
 falderol
@@ -9967,6 +9966,7 @@ funkier
 fossilated
 farandole
 femerell
+faceplate
 fantoms
 forerib
 fumatorium
