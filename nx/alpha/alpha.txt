@@ -3693,7 +3693,6 @@ ashier
 anachoret
 agib
 adenotomic
-autocarpic
 adeona
 attenuative
 adephagous
@@ -11809,6 +11808,7 @@ axoplasms
 autoantitoxin
 arylated
 addable
+autocarpic
 ablach
 ananym
 ananism
