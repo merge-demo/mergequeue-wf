@@ -8919,7 +8919,6 @@ fontinalis
 fessewise
 fidation
 feazed
-firiness
 foremast
 forepast
 feminines
@@ -10065,6 +10064,7 @@ fittest
 flor
 foollike
 flans
+firiness
 fringelet
 fruitier
 feminacy
