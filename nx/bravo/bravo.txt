@@ -4071,7 +4071,6 @@ buchu
 bom
 butled
 bipinnatisect
-bedrock
 bienvenu
 beamers
 beamfilling
@@ -10746,6 +10745,7 @@ beneaped
 bogle
 biti
 brachistocephali
+bedrock
 blennymenitis
 boney
 byssus
