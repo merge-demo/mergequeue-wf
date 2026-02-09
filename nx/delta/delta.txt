@@ -7168,7 +7168,6 @@ droughtier
 drawboring
 deerkill
 desulphurize
-depauperate
 deconcentrated
 depullulation
 diplospondylism
@@ -14134,6 +14133,7 @@ dsname
 dialogising
 dinotheres
 diorthotic
+depauperate
 djebels
 daren
 distritos
