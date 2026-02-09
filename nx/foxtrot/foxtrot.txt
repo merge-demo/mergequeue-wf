@@ -3471,7 +3471,6 @@ flerried
 fumeuses
 frontals
 forewarmer
-fluidizer
 forhaile
 furfurans
 futtermassel
@@ -4687,6 +4686,7 @@ fatale
 flyweight
 fluctiferous
 flange
+fluidizer
 folkmooter
 forages
 falconidae
