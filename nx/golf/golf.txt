@@ -6921,7 +6921,6 @@ gonosome
 gulf
 glimmers
 governable
-grapholite
 goodliness
 gobbled
 gloxinias
@@ -7319,6 +7318,7 @@ genet
 gravelling
 gangly
 genocides
+grapholite
 goar
 gymnosophy
 galactan
