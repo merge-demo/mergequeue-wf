@@ -9535,7 +9535,6 @@ eupneas
 evenlight
 ender
 essayistic
-esca
 earthquaking
 epithalamiums
 electrolithotrity
@@ -12767,6 +12766,7 @@ ethers
 equivoque
 enfetters
 electroindustrial
+esca
 endoplasm
 eucarpous
 eremochaetous
