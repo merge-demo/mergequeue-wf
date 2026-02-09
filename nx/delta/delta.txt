@@ -15498,7 +15498,6 @@ disinfect
 darcy
 dorsilateral
 dement
-dewanny
 doloriferous
 derived
 donkeyman
@@ -16611,6 +16610,7 @@ designation
 dragsters
 demisovereign
 downcasts
+dewanny
 doctoress
 distempering
 drayage
