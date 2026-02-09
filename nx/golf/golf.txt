@@ -10286,7 +10286,6 @@ galactosidase
 gault
 glabreity
 granulations
-getsul
 glassfuls
 gruesome
 greying
@@ -10442,6 +10441,7 @@ gynaeolater
 gonotype
 graveolent
 goldish
+getsul
 geometries
 guggling
 gusset
