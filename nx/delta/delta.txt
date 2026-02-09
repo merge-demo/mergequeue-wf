@@ -399,7 +399,6 @@ discoursers
 deltahedron
 deaning
 dais
-donjons
 dibs
 dimyaric
 diathermous
@@ -17200,6 +17199,7 @@ drivepipe
 driver
 despising
 defilading
+donjons
 drivers
 drivership
 drives
