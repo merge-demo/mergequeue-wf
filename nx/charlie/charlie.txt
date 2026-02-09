@@ -5244,7 +5244,6 @@ concurring
 cashou
 castory
 casimir
-cartes
 covido
 cojusticiar
 cavities
@@ -6683,6 +6682,7 @@ cystoureteritis
 contempt
 cecitis
 cecomorphic
+cartes
 collimators
 cecopexy
 cecrops
