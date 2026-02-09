@@ -2847,6 +2847,7 @@ guardsman
 giga
 ganocephalous
 grasschat
+gallivorous
 gazebo
 goombay
 generatrices
@@ -8103,7 +8104,6 @@ geryon
 genteelish
 gave
 gentlewoman
-gallivorous
 gundygut
 grimmest
 giallolino
