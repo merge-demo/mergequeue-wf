@@ -7330,6 +7330,7 @@ epiploitis
 egocentrically
 essang
 erysipelothrix
+enwrite
 ethically
 endogamies
 efficacies
@@ -10101,7 +10102,6 @@ entitlement
 exanguin
 ethanolamine
 eleaticism
-enwrite
 ethanolysis
 excretion
 ensepulcher
