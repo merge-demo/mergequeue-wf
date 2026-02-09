@@ -5588,7 +5588,6 @@ gumming
 gripless
 grantia
 glaieul
-geochemist
 gamecraft
 gun
 glottogonist
@@ -9103,6 +9102,7 @@ glomerulose
 guajira
 glads
 gappy
+geochemist
 galactidrosis
 gnathobasic
 geoid
