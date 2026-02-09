@@ -3271,6 +3271,7 @@ gynaecol
 gahnites
 gregos
 geriatrist
+gut
 glutinant
 generalissimos
 goxes
@@ -10749,7 +10750,6 @@ goodlihead
 grovelers
 girdle
 germinator
-gut
 gunge
 grasswards
 glibness
