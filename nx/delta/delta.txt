@@ -12892,7 +12892,6 @@ dyebeck
 dromond
 defalk
 dismissal
-diwata
 dismissed
 disobliger
 discussant
@@ -14529,6 +14528,7 @@ deallocating
 dagging
 devaloka
 divinized
+diwata
 divinizes
 demarche
 dismembrated
