@@ -3306,6 +3306,7 @@ faunology
 fundraise
 foreknowable
 fieldpieces
+fannia
 forefeet
 fiddlestick
 farsight
@@ -6507,7 +6508,6 @@ filmsetter
 fellah
 fluorescer
 frenchize
-fannia
 firer
 faithful
 fellatrix
