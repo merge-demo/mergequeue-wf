@@ -1797,6 +1797,7 @@ gowkit
 gastrocolostomy
 geodesia
 gold
+gunless
 gthite
 giddies
 gregor
@@ -10216,7 +10217,6 @@ grapestalk
 gramme
 gowpin
 gweduck
-gunless
 grayfishes
 gulped
 guillotinist
