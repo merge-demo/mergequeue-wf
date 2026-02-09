@@ -6024,7 +6024,6 @@ frequenters
 forfeit
 fisk
 fanwright
-fathead
 fainaigued
 flatboat
 farina
@@ -6040,6 +6039,7 @@ fixures
 flashness
 fantasied
 fructiculose
+fathead
 foliosity
 floorcloths
 fumid
