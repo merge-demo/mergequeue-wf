@@ -3510,6 +3510,7 @@ foreseason
 foreinstruct
 fatigation
 fruits
+furil
 fighting
 futtock
 formboard
@@ -11690,7 +11691,6 @@ flatfoot
 faced
 faroeish
 fanlights
-furil
 fascisms
 flocculable
 fellatio
