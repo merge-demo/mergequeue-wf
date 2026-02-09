@@ -5749,7 +5749,6 @@ gynecomorphous
 gimmerpet
 grovet
 galactolysis
-garbel
 gade
 graphites
 glycogenolysis
@@ -7389,6 +7388,7 @@ germiparous
 gallicanism
 glassblower
 gluttons
+garbel
 gumchewer
 gummiest
 ghedda
