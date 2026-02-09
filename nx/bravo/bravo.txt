@@ -6775,7 +6775,6 @@ baikerinite
 bilirubinuria
 benetting
 beroidae
-bori
 buffball
 betimes
 berossos
@@ -9877,6 +9876,7 @@ birefringent
 bebat
 backswording
 bolelia
+bori
 balladry
 bebleed
 brail
