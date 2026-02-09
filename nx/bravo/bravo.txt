@@ -2362,7 +2362,6 @@ bathyscape
 barbicel
 bemitred
 begums
-barbicels
 breek
 bathonian
 barbierite
@@ -10528,6 +10527,7 @@ bashlik
 bisyllabic
 berms
 beswarming
+barbicels
 bicylindrical
 breachers
 blastosphere
