@@ -5861,6 +5861,7 @@ family
 festival
 fevertwig
 facemaker
+fangless
 fv
 fawned
 fossiliferous
@@ -11059,7 +11060,6 @@ fuzzle
 faunological
 flinty
 feldspathose
-fangless
 flaker
 forcipation
 funambule
