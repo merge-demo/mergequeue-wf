@@ -2274,7 +2274,6 @@ existently
 equiomnipotent
 electret
 envined
-electrets
 esophagogastrostomy
 exploitive
 extensometer
@@ -6925,6 +6924,7 @@ embarque
 entocoel
 ergo
 eleusinion
+electrets
 eightballs
 eelskin
 ealdorman
