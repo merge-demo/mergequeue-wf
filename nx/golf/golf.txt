@@ -10040,7 +10040,6 @@ gemmule
 gasteromycetes
 gesneriaceous
 grissens
-genetoid
 geomancies
 gleans
 gront
@@ -10720,6 +10719,7 @@ germinated
 gonorrhoeic
 gaumless
 goers
+genetoid
 grumping
 gallophilism
 gubernatorial
