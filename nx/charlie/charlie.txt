@@ -28128,6 +28128,7 @@ coteries
 complexus
 curved
 cento
+castral
 circumstance
 craniography
 cranioid
@@ -29736,7 +29737,6 @@ colpheg
 confessory
 crookbacked
 crookbill
-castral
 crookedbacked
 cinuran
 commencement
