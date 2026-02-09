@@ -202,6 +202,7 @@ cohort
 cabresta
 cabrestas
 classicalities
+charybdian
 cabresto
 cabrettas
 chalazia
@@ -8965,7 +8966,6 @@ chargehouse
 chopin
 charger
 charges
-charybdian
 crankman
 chestnutty
 charicleia
