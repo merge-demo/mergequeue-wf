@@ -5476,6 +5476,7 @@ epitonic
 expirations
 eburated
 encrypts
+exactors
 excipula
 eurithermophile
 er
@@ -11721,7 +11722,6 @@ exactitude
 extramission
 etymons
 exactness
-exactors
 enterophthisis
 electrophone
 equimomental
