@@ -25723,7 +25723,6 @@ connivent
 cambarus
 cotylosauria
 corrigiola
-corrival
 cols
 corrivality
 craniologist
@@ -28643,6 +28642,7 @@ couveuse
 cavetto
 crenallation
 canterburianism
+corrival
 crenated
 chalcosiderite
 crenately
