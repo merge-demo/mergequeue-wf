@@ -7432,6 +7432,7 @@ cyclostylar
 cablet
 cephalometric
 cephalonasal
+cuproammonium
 cephalopathy
 cephalopharyngeal
 cephalophyma
@@ -31199,7 +31200,6 @@ campagus
 chapote
 custode
 chakra
-cuproammonium
 cunningly
 coccygeus
 comaker
