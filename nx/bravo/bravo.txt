@@ -14776,7 +14776,6 @@ bullwork
 blisters
 braunite
 braunites
-bogy
 bacury
 bootblack
 befretted
@@ -15950,6 +15949,7 @@ broaching
 bruising
 bradyesthesia
 bullhide
+bogy
 barbeyaceae
 blesse
 beinly
