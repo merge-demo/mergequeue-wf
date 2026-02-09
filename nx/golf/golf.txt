@@ -4231,6 +4231,7 @@ glb
 guider
 goosing
 goblets
+gentilic
 gammoned
 galloglass
 gearman
@@ -5257,7 +5258,6 @@ gerberia
 gunter
 greeds
 gombroons
-gentilic
 geosynchronous
 gravitative
 gammer

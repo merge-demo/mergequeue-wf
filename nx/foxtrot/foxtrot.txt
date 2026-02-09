@@ -1158,7 +1158,6 @@ figeaters
 flyblows
 footy
 fets
-foredestiny
 forelocks
 frays
 footfeed
@@ -7768,6 +7767,7 @@ footler
 fotch
 fondant
 fritters
+foredestiny
 franciscanism
 fisticuffery
 forequarter
