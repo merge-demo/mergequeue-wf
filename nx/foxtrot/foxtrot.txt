@@ -1996,7 +1996,6 @@ fusils
 fullymart
 fuzzines
 fady
-florilegium
 fibreglass
 fours
 fimicolous
@@ -6984,6 +6983,7 @@ forbode
 forewarnings
 freshmen
 fluxroot
+florilegium
 fastball
 facilely
 fohns
