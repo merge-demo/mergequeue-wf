@@ -4836,6 +4836,7 @@ flagfishes
 fubsy
 fetoplacental
 forbiddenness
+foregallery
 faculae
 frenzily
 fissurellidae
@@ -6647,7 +6648,6 @@ floodway
 fascioliasis
 flockman
 flatfootedness
-foregallery
 flywire
 frogfish
 forewish
