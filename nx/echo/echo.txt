@@ -3086,6 +3086,7 @@ elytrorhagia
 euglandina
 elytrostenosis
 elytrotomy
+eobiont
 epistolatory
 exhortatory
 elegance
@@ -13621,7 +13622,6 @@ extraspinal
 entification
 extemporized
 escallonia
-eobiont
 emendation
 epencephal
 esopgi
