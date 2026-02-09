@@ -10067,7 +10067,6 @@ acotyledonous
 ambulancer
 atropinism
 anchoring
-aminded
 avulsion
 ateloprosopia
 aramus
@@ -23226,6 +23225,7 @@ anorthopia
 attests
 aleuromancy
 alkermes
+aminded
 alfreda
 androphonomania
 atrabilarious
