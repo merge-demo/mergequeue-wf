@@ -3336,6 +3336,7 @@ ferrohydrocyanic
 fossilologist
 frustrates
 fioritura
+fons
 foreheaded
 fond
 flabbergastation
@@ -11218,7 +11219,6 @@ foreknown
 friskier
 farsang
 furzed
-fons
 funiculars
 funiform
 fricandeau
