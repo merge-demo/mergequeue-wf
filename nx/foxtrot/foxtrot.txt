@@ -8702,7 +8702,6 @@ forfeitable
 finbone
 fumblingly
 fellers
-featless
 forgive
 fecket
 futharcs
@@ -9897,6 +9896,7 @@ fosh
 fibroneuroma
 frickle
 foambow
+featless
 fortypenny
 forefending
 frontager
