@@ -3770,7 +3770,6 @@ gombroon
 grockle
 gapping
 goggle
-giantsize
 geodist
 gaub
 giantlike
@@ -5043,6 +5042,7 @@ groused
 gnostology
 goalkeeper
 golconda
+giantsize
 gecarcinus
 gerontoxon
 geostrophic
