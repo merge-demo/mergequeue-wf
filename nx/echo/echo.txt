@@ -2004,7 +2004,6 @@ erinite
 endued
 elastics
 exothermal
-eagle
 economizing
 effetman
 emmet
@@ -2994,6 +2993,7 @@ experimentarian
 elicitation
 elicitor
 enricher
+eagle
 exploiters
 entoloma
 escarping
