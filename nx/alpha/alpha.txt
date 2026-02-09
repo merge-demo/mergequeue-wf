@@ -8499,7 +8499,6 @@ anisogenous
 ademption
 allasch
 anticus
-anaeroplasty
 ammanite
 anecdota
 agnoites
@@ -15248,6 +15247,7 @@ ambrosia
 angiemphraxis
 automobiling
 antigravity
+anaeroplasty
 affectible
 anatomizes
 autonym
