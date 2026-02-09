@@ -11914,7 +11914,6 @@ aboriginals
 alpha
 amara
 antigravitation
-anaretical
 arc
 amalgam
 asymtotes
@@ -23455,6 +23454,7 @@ addition
 araneiformia
 anagrammatist
 alginate
+anaretical
 avanious
 auditorship
 aspatia
