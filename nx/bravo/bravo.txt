@@ -9180,7 +9180,6 @@ beguilingness
 baure
 banksides
 biotins
-basics
 biogeographer
 biotypes
 browbeats
@@ -15492,6 +15491,7 @@ bihai
 bolshevistically
 bryndza
 bleaters
+basics
 balloonfish
 byrls
 brinehouse
