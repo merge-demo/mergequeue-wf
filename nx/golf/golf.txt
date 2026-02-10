@@ -1134,7 +1134,6 @@ galactometry
 gnetums
 gippers
 goncalo
-galliferous
 gunung
 gaol
 graphometry
@@ -6860,6 +6859,7 @@ gestated
 gatling
 guyed
 garble
+galliferous
 grafting
 gitterns
 gormand
