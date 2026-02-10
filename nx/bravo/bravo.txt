@@ -5409,6 +5409,7 @@ begrimmed
 bordroom
 baddeleyite
 brachycardia
+bacopa
 biweekly
 booking
 berglet
@@ -18329,7 +18330,6 @@ banked
 beths
 brahmans
 bristletail
-bacopa
 brewst
 buttons
 buttonwood
