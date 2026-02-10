@@ -6946,7 +6946,6 @@ gongorist
 gigglers
 granjeno
 grove
-guttur
 grinds
 glens
 glyconeogenesis
@@ -7225,6 +7224,7 @@ gramophonist
 girnel
 garcinia
 grabbler
+guttur
 gerontocracy
 globulose
 gallanted
