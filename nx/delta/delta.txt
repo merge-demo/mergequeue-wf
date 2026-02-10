@@ -9368,6 +9368,7 @@ depots
 diplopia
 dinarchies
 dorymen
+drawknife
 differs
 disquieting
 deprive
@@ -10467,7 +10468,6 @@ diplococcocci
 diphonia
 drizzlier
 dysgenics
-drawknife
 dismiss
 duumvirs
 deglutitive
