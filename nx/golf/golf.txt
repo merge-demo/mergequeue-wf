@@ -4942,7 +4942,6 @@ ganophyllite
 galangal
 goodmen
 greekling
-gamdia
 gammaridae
 gametophytic
 guddle
@@ -7320,6 +7319,7 @@ gymnosophy
 galactan
 grizzles
 gymnasisiums
+gamdia
 gospels
 guahivo
 greatcoats
