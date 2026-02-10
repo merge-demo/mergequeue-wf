@@ -4117,7 +4117,6 @@ enhydris
 euphuistical
 emplastic
 excruciatingness
-eolian
 ectrodactylism
 expulsionist
 essenism
@@ -6865,6 +6864,7 @@ escribing
 ergotized
 eutrophies
 elastician
+eolian
 eugenic
 exostema
 exemplar
