@@ -2708,7 +2708,6 @@ foldure
 feeler
 filaze
 fervence
-fortnightlies
 ferventness
 fishify
 frenzies
@@ -3492,6 +3491,7 @@ fruitstalk
 forebowline
 forehood
 franklinist
+fortnightlies
 forswearer
 faster
 firmisternial
