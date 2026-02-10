@@ -10319,7 +10319,6 @@ calcspars
 cantharidal
 chickenpox
 chickenwort
-chicker
 chickhood
 coprosterol
 chickories
@@ -22794,6 +22793,7 @@ collectional
 consecutive
 consenescency
 coeditor
+chicker
 cleistogamous
 crouches
 cycadofilicale
