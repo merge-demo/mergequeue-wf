@@ -5188,7 +5188,6 @@ ampitheater
 attackable
 anapterygotous
 ancienty
-alingual
 anapophysial
 affine
 anteporch
@@ -10624,6 +10623,7 @@ appendicious
 averting
 archivists
 arthropomatous
+alingual
 absinth
 artcraft
 animosities
