@@ -325,7 +325,6 @@ backbrand
 bluming
 backcap
 backchats
-botswana
 binful
 boule
 burg
@@ -5862,6 +5861,7 @@ brimfull
 bellyful
 bestrews
 butyrals
+botswana
 boor
 beadier
 blacklisted
