@@ -2317,7 +2317,6 @@ guaiacols
 goloe
 galopin
 graylag
-garlandage
 gelees
 gymnocerata
 gadinic
@@ -3154,6 +3153,7 @@ graplin
 gazon
 gavial
 glaze
+garlandage
 galactagoguic
 guige
 geomantically
