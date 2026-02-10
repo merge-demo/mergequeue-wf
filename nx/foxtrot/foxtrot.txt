@@ -776,7 +776,6 @@ fanciless
 floundered
 fallows
 ferried
-fellowlike
 favourable
 flamers
 flatbed
@@ -4575,6 +4574,7 @@ fanatically
 filioque
 fisheress
 fillets
+fellowlike
 filibranchia
 foreperiod
 fishgigs
