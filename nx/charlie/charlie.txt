@@ -7909,6 +7909,7 @@ chatchkas
 criticism
 cuttle
 cipolin
+chorepiscope
 coning
 cessible
 clallam
@@ -19729,7 +19730,6 @@ cytozyme
 cavalieres
 combinational
 corrigent
-chorepiscope
 combinations
 chevon
 cells
