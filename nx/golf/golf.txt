@@ -1756,6 +1756,7 @@ grouchiest
 gastropulmonic
 gigantocyte
 granitic
+getter
 gastropathy
 globously
 gambados
@@ -8324,7 +8325,6 @@ gasolier
 graptolitha
 gibbosity
 glycuronide
-getter
 germling
 grassbird
 grunzie
