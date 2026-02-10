@@ -6742,7 +6742,6 @@ gyroscope
 genericness
 germs
 gnathostome
-gytling
 greenrooms
 ganam
 gamgee
@@ -10253,6 +10252,7 @@ gobinism
 gastrectasis
 gynecophore
 gutturalization
+gytling
 galerie
 gry
 gratifies
