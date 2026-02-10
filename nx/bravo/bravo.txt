@@ -2996,7 +2996,6 @@ billfish
 bacteriofluorescin
 blackberries
 blissfully
-bamboozlement
 boules
 broncholemmitis
 brassavola
@@ -14798,6 +14797,7 @@ bennet
 betelnut
 balaclava
 basketmaker
+bamboozlement
 bravers
 bipolar
 bratticer
