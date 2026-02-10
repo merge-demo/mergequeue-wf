@@ -2571,6 +2571,7 @@ emptiable
 electrometer
 exstrophy
 etherene
+eosate
 edplot
 emphlysis
 earthgrubber
@@ -8989,7 +8990,6 @@ elasmotherium
 europeanly
 essex
 eon
-eosate
 extraspherical
 encephalin
 endopleurite
