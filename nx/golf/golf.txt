@@ -5586,6 +5586,7 @@ gumming
 gripless
 grantia
 glaieul
+gozzan
 gamecraft
 gun
 glottogonist
@@ -8529,7 +8530,6 @@ girrock
 grues
 glycin
 gymnoderinae
-gozzan
 grainsman
 generalised
 gunslinging
