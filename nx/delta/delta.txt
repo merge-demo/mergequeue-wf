@@ -4072,7 +4072,6 @@ disreason
 delimitating
 delimitation
 deviational
-daunts
 depart
 dormer
 departments
@@ -9411,6 +9410,7 @@ demilitarizing
 defame
 demagoguism
 diffusibleness
+daunts
 diffusing
 dissipation
 demist
