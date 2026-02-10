@@ -2412,7 +2412,6 @@ bothsidedness
 bushbodies
 bilertinned
 barcella
-biopic
 bailey
 barcelona
 brazenfaced
@@ -15141,6 +15140,7 @@ bostrychidae
 bulging
 breviconic
 bunkered
+biopic
 brevilingual
 bestirring
 buttressless
