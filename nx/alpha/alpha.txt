@@ -213,6 +213,7 @@ armagnacs
 amnionic
 antiritual
 abbotric
+amiga
 allokinesis
 alchemistical
 animality
@@ -6722,7 +6723,6 @@ airdrome
 airdromes
 airdrop
 advertizing
-amiga
 airdropping
 aesopian
 aired
