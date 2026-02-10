@@ -5081,7 +5081,6 @@ grow
 gutturalism
 greed
 grenelle
-guttural
 glassiness
 glasslikeness
 gwag
@@ -8749,6 +8748,7 @@ gudefather
 goburra
 goo
 guacharoes
+guttural
 grantors
 goniometer
 gorge
