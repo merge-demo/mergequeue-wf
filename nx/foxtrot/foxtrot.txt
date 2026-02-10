@@ -208,7 +208,6 @@ forsakes
 factrix
 forestland
 footmanship
-ferromagnetic
 factorials
 frontenis
 fanons
@@ -10492,6 +10491,7 @@ frivol
 floorshift
 farce
 fleet
+ferromagnetic
 fwd
 fisted
 foreskirt
