@@ -21323,7 +21323,6 @@ anthropologies
 antiexporting
 arbitrary
 alleger
-allomerism
 amafingo
 aceanthrene
 atretic
@@ -24654,6 +24653,7 @@ acroterium
 afferently
 abraxas
 avariciousness
+allomerism
 areological
 arecolidin
 abnegative
