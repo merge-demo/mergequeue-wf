@@ -1961,6 +1961,7 @@ glamor
 gimbal
 grubroot
 grudged
+gauby
 gonif
 gongman
 gaspar
@@ -7771,7 +7772,6 @@ grungy
 gunsel
 gastrulae
 galvanizations
-gauby
 gabeller
 gunocracy
 gangsters
