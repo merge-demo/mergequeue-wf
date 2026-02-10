@@ -5900,6 +5900,7 @@ fissuring
 finally
 fumous
 fourcher
+futhorc
 feudatories
 freakdom
 ferox
@@ -11664,7 +11665,6 @@ feedlot
 fanion
 fut
 fluoride
-futhorc
 friseurs
 fleshers
 foxskins
