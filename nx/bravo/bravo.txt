@@ -4410,7 +4410,6 @@ botfly
 bonitas
 beck
 boehmites
-bullimong
 becky
 becking
 beckoner
@@ -7794,6 +7793,7 @@ bacchae
 bill
 bagpipes
 babuism
+bullimong
 balcon
 babylonian
 byronist
