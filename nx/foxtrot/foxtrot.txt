@@ -6253,6 +6253,7 @@ firebreak
 forebemoaned
 funambulo
 frenchmen
+fuseless
 funguslike
 falange
 frication
@@ -9580,7 +9581,6 @@ favouress
 flyted
 flatus
 farmable
-fuseless
 furcraeas
 frazer
 feudalizing
