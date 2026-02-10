@@ -78,7 +78,6 @@ coch
 cinclis
 catamaran
 challot
-coemptor
 cabbed
 cubics
 cabby
@@ -20608,6 +20607,7 @@ cumulet
 cubocuneiform
 congreve
 competitive
+coemptor
 competitiveness
 competitor
 chatterboxes
