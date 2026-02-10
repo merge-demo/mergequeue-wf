@@ -8262,7 +8262,6 @@ caracoli
 chalazium
 cattlehide
 chandam
-cellulomonas
 causewayed
 chalazoidite
 cercarias
@@ -12321,6 +12320,7 @@ christocentric
 christogram
 christolatry
 corpulence
+cellulomonas
 corseted
 christophe
 coastside
