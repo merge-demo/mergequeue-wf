@@ -1516,6 +1516,7 @@ gagtooth
 gasoliers
 growed
 geez
+gangflower
 gruelings
 gelatines
 galileo
@@ -5823,7 +5824,6 @@ greens
 goofier
 gastrostomies
 glucinums
-gangflower
 graders
 guiles
 giggle
