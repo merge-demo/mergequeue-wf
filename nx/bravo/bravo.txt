@@ -105,7 +105,6 @@ blinking
 bulwarks
 bludgeons
 bepastured
-baldachins
 barkened
 battements
 beastliest
@@ -14212,6 +14211,7 @@ broguery
 bookstall
 baronesses
 bracky
+baldachins
 brockle
 brackish
 banat
