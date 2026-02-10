@@ -3926,7 +3926,6 @@ epigonus
 enright
 enflagellation
 emigration
-ensorcerize
 empoririums
 echeneis
 entomotomy
@@ -8607,6 +8606,7 @@ equative
 exurban
 electre
 eburneous
+ensorcerize
 erase
 efficacious
 eumorphic
