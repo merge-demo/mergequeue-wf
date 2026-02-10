@@ -945,6 +945,7 @@ budded
 brothier
 belligerently
 bagsful
+balausta
 bequirtle
 barbeled
 bravely
@@ -5726,7 +5727,6 @@ bemix
 belibel
 brimmered
 belie
-balausta
 belied
 blatancy
 beliefful
