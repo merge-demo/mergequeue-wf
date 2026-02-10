@@ -12725,7 +12725,6 @@ coloner
 chukka
 chukkar
 chukker
-cocoanut
 chulha
 concionary
 chamaesaura
@@ -25466,6 +25465,7 @@ churchite
 corollaries
 corollet
 cholecystonephrostomy
+cocoanut
 corolliferous
 chincona
 corollitic
