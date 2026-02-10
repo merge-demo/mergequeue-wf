@@ -9197,6 +9197,7 @@ chattel
 chaste
 chastelain
 coots
+cephalometry
 catarrh
 carettochelydidae
 cestoids
@@ -20260,7 +20261,6 @@ commove
 commoved
 cornwallite
 conjectured
-cephalometry
 colloquiums
 cavitations
 commoving
