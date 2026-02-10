@@ -2079,7 +2079,6 @@ bevellers
 bankrolling
 bankrupt
 bosporan
-brutely
 bersaglieri
 bankruptism
 bankruptcy
@@ -2565,6 +2564,7 @@ burgamot
 bulkheads
 buzylene
 baria
+brutely
 bedouse
 bartered
 bizardite
