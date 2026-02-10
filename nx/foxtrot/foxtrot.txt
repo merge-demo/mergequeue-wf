@@ -5488,6 +5488,7 @@ flav
 fragmentize
 forbled
 foremade
+feltlike
 fledgiest
 forefigure
 furor
@@ -10266,7 +10267,6 @@ frogbit
 frogeyed
 forklift
 farewelling
-feltlike
 florentium
 fibra
 filite
