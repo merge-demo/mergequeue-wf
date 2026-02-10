@@ -6876,7 +6876,6 @@ galeas
 groundspeed
 gent
 gelsemine
-guaican
 goody
 gabbro
 giganticide
@@ -10766,6 +10765,7 @@ graecophil
 gloam
 graminin
 gimbals
+guaican
 glamourie
 gutt
 greenbrier
