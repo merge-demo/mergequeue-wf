@@ -1465,7 +1465,6 @@ fasciculite
 flittern
 felicitators
 feasten
-fruiter
 fearsomely
 foreshows
 fabulate
@@ -2755,6 +2754,7 @@ fussify
 folklore
 fedity
 fumarine
+fruiter
 fiercer
 fragmentarily
 fortunation
