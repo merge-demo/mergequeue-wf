@@ -6188,7 +6188,6 @@ blackthorn
 bluebonnet
 baccarat
 bromvoel
-blacker
 beneficial
 borderlander
 bhutanese
@@ -13914,6 +13913,7 @@ bowing
 berrichon
 bezaleel
 bowings
+blacker
 burglarproof
 blad
 bluefishes
