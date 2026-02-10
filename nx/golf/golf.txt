@@ -1310,7 +1310,6 @@ greeting
 gargoyley
 glutch
 grandparentage
-gluconate
 geoisotherm
 grimier
 gested
@@ -7720,6 +7719,7 @@ grizzliest
 goldworker
 gallivant
 gamins
+gluconate
 gangplow
 gorling
 grewsome
