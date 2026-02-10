@@ -3570,6 +3570,7 @@ fusions
 foeless
 furify
 followers
+frayed
 fly
 fissipalmation
 flexuoseness
@@ -4641,7 +4642,6 @@ feere
 firmland
 finecomb
 fibrocalcareous
-frayed
 ferring
 felsophyre
 flowmanostat
