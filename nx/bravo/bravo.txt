@@ -6433,7 +6433,6 @@ backcourt
 breastweed
 bluestem
 bacterid
-benzoquinoxaline
 balau
 benzosulfimide
 benzosulphimide
@@ -7891,6 +7890,7 @@ biblical
 batches
 bredstitch
 bobsledders
+benzoquinoxaline
 batell
 bels
 benamed
