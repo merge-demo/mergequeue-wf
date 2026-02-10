@@ -15372,7 +15372,6 @@ bedstaves
 bisquette
 bierstuben
 boggiest
-brachysm
 barefit
 buddhistical
 boccias
@@ -17841,6 +17840,7 @@ bonds
 bloodleaf
 blackpot
 beamishly
+brachysm
 bathflower
 banisters
 busbar
