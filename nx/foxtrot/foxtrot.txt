@@ -5374,7 +5374,6 @@ flain
 foliolose
 fauces
 fulyie
-forereach
 flamelike
 front
 fustians
@@ -7920,6 +7919,7 @@ fendillate
 forestalling
 factualist
 florent
+forereach
 fungicidally
 fusillades
 frankfort
