@@ -14642,7 +14642,6 @@ chakras
 chayote
 cowbyre
 cariole
-coliander
 cerates
 cystospastic
 cited
@@ -20486,6 +20485,7 @@ chiliomb
 constantinopolitan
 compartmented
 corundum
+coliander
 copist
 chapin
 compass
