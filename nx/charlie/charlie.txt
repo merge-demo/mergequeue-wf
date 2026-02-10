@@ -4907,7 +4907,6 @@ carrions
 carryons
 compense
 carryout
-crosshatched
 carritches
 carriwitchet
 carrocci
@@ -9284,6 +9283,7 @@ cassidoine
 chattererz
 cocainisation
 chattery
+crosshatched
 civetone
 caprification
 chatters
