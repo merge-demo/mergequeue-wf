@@ -5804,7 +5804,6 @@ burdensomeness
 boxers
 bromocyanide
 becrawling
-batched
 backie
 bombyliidae
 batfish
@@ -9542,6 +9541,7 @@ blaoners
 blackball
 birthed
 basilyst
+batched
 besotting
 birthless
 berceuses
