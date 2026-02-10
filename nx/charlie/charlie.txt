@@ -8633,7 +8633,6 @@ chankings
 channelbill
 couching
 channeling
-channelize
 corresponder
 courbe
 chironomic
@@ -31254,6 +31253,7 @@ curaghs
 curaras
 casaba
 coenospecific
+channelize
 curarines
 crossbanded
 curaris
