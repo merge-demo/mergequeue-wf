@@ -11943,7 +11943,6 @@ domesticality
 disease
 dialysers
 diseased
-declass
 domiculture
 deifying
 discourageable
@@ -13507,6 +13506,7 @@ debi
 decrassify
 disrobing
 dambose
+declass
 disroost
 deader
 demiurgism
