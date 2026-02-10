@@ -10413,7 +10413,6 @@ chiffre
 chigetai
 chigga
 congession
-chigoes
 conquered
 coryphaena
 cassalty
@@ -21375,6 +21374,7 @@ concinnities
 centuria
 cystoenterocele
 concinnously
+chigoes
 concionate
 callidness
 circuits
