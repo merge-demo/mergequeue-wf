@@ -1707,7 +1707,6 @@ glycerinate
 grassfire
 guildry
 gympie
-grand
 gaugeably
 goldstone
 gastronosus
@@ -2271,6 +2270,7 @@ ginglmi
 gneisses
 griffinism
 give
+grand
 guitguit
 glycerophosphoric
 gibblegabbler
