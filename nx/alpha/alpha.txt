@@ -925,6 +925,7 @@ aliases
 appenzell
 aircrafts
 alibiing
+attalid
 absolutest
 actinopterygii
 antiopium
@@ -1747,7 +1748,6 @@ abases
 arneb
 accoy
 aspersion
-attalid
 autaesthesy
 accuse
 animalivore
