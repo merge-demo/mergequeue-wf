@@ -5767,6 +5767,7 @@ bougee
 balaghat
 blowgun
 biophysics
+blackfire
 beaverroot
 bawdier
 bellbinder
@@ -17802,7 +17803,6 @@ bianisidine
 belord
 basalia
 brocade
-blackfire
 blinter
 brachistocephalous
 berengarian
