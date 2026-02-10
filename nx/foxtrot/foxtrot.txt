@@ -4029,7 +4029,6 @@ forleft
 furrow
 fabricated
 filmlike
-festin
 fluoaluminic
 fateful
 frithstool
@@ -6833,6 +6832,7 @@ filesave
 focimetry
 fellata
 fleshly
+festin
 facaded
 folacin
 furdle
