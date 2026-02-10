@@ -12278,6 +12278,7 @@ birdling
 broos
 bolographic
 baluchitherium
+belemnoid
 bodle
 bookshelf
 boloism
@@ -14510,7 +14511,6 @@ bagh
 brakeless
 brakeload
 bemotto
-belemnoid
 brakemaker
 bopping
 brakeman
