@@ -729,7 +729,6 @@ bradypodoid
 badging
 buddhism
 bifrost
-badiaga
 breathy
 boneshaw
 bannerman
@@ -12522,6 +12521,7 @@ bdls
 betaines
 betrayed
 bondstone
+badiaga
 burntness
 bagpiped
 buphthalmos
