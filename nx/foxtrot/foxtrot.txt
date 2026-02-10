@@ -4324,7 +4324,6 @@ fibroma
 fending
 follicule
 ferngrower
-fungology
 flaunching
 favorableness
 franc
@@ -6351,6 +6350,7 @@ fuliginosity
 fluent
 ferryhouse
 fob
+fungology
 furans
 falerian
 fluminous
