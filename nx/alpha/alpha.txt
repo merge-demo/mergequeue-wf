@@ -9604,7 +9604,6 @@ apalit
 acetamidin
 alvearium
 alveolariform
-antitetanic
 antihierarchic
 agriological
 alveole
@@ -12148,6 +12147,7 @@ accouters
 altingiaceae
 anchormen
 asthmatically
+antitetanic
 anchoveta
 anchusa
 aphroditous
