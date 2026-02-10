@@ -2004,7 +2004,6 @@ elastics
 exothermal
 economizing
 effetman
-emmet
 electrine
 ekka
 enwind
@@ -11410,6 +11409,7 @@ estrildine
 eth
 eveline
 equidifferent
+emmet
 epitrochlear
 eudemonistical
 evenfall
