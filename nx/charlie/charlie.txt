@@ -7566,7 +7566,6 @@ cambrian
 ceraunoscopy
 cyathophyllidae
 cosmopolitanly
-configures
 cercal
 cleanable
 cercaria
@@ -30598,6 +30597,7 @@ cuckoopintle
 cucoline
 cucuy
 chunnia
+configures
 cucujid
 chromotrope
 callitype
