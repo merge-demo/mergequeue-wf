@@ -8366,6 +8366,7 @@ chalons
 coronograph
 chalot
 cowpunch
+cliver
 chaluka
 catacrotic
 chalumeau
@@ -16403,7 +16404,6 @@ conditivia
 condite
 cochleare
 cliv
-cliver
 clivers
 clivis
 clk
