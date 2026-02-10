@@ -1251,7 +1251,6 @@ gardens
 gavall
 gratten
 graplines
-gyrator
 gormandizer
 galium
 gogetting
@@ -8665,6 +8664,7 @@ galerum
 gawkishly
 geotactic
 garrets
+gyrator
 gree
 galvanometrically
 greenflies
