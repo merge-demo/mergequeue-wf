@@ -202,7 +202,6 @@ enchantingness
 eugenetic
 entermete
 ergogram
-exploration
 euphemised
 electrolier
 equipoising
@@ -3215,6 +3214,7 @@ entombments
 estimably
 eskimoes
 ennerve
+exploration
 euryphage
 eucritic
 entrez
