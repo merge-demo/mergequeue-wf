@@ -5996,6 +5996,7 @@ factitude
 frats
 fete
 fineable
+firespout
 felspath
 fatalize
 flubdubs
@@ -8733,7 +8734,6 @@ firesafe
 finalist
 framboesia
 finniest
-firespout
 flabbella
 facileness
 franticly
