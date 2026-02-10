@@ -3505,7 +3505,6 @@ eriometer
 eleutheromaniac
 episyllogism
 enthroning
-entocornea
 exhortator
 eucirripedia
 engrain
@@ -13960,6 +13959,7 @@ enallage
 extravasate
 excuse
 equicurve
+entocornea
 endolemma
 essoiner
 evocate
