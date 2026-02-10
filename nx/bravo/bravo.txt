@@ -7169,6 +7169,7 @@ bonduc
 ballcarrier
 badinaging
 buprestid
+blondine
 barret
 bertin
 bandfish
@@ -13412,7 +13413,6 @@ bothrium
 bothrodendron
 bromothymol
 bisulc
-blondine
 bullaces
 beothuk
 bothway
