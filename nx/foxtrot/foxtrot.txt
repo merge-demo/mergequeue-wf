@@ -8184,7 +8184,6 @@ faciata
 feeblemindedness
 faldetta
 fribblery
-fatherling
 foothils
 flakier
 fitout
@@ -10539,6 +10538,7 @@ felsosphaerite
 fondants
 florimanist
 figuratively
+fatherling
 freshment
 finishers
 frillery
