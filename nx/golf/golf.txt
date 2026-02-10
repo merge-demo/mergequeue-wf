@@ -1734,6 +1734,7 @@ gardon
 garvanzo
 geologising
 gossips
+gonidium
 gyrofrequencies
 graeae
 ginete
@@ -10576,7 +10577,6 @@ grandisonian
 glyptics
 grenadier
 graywacke
-gonidium
 globigerinidae
 gunning
 gorsier
