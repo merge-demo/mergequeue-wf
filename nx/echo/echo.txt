@@ -2415,7 +2415,6 @@ electrodeposition
 edana
 exhibitable
 etherization
-electrodiagnosis
 esterling
 ebenezer
 earsplitting
@@ -6116,6 +6115,7 @@ elephantiases
 expropriate
 epicureanism
 ereptic
+electrodiagnosis
 equals
 eruptive
 euphues
