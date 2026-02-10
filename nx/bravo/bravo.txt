@@ -4077,7 +4077,6 @@ burglarproofing
 buchu
 bom
 butled
-bipinnatisect
 bienvenu
 beamers
 beamfilling
@@ -9122,6 +9121,7 @@ boylikeness
 bioscopy
 bioscopic
 bioastronautical
+bipinnatisect
 bedecorate
 bungey
 ballistocardiograph
