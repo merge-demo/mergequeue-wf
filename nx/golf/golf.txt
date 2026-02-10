@@ -847,6 +847,7 @@ gangplank
 guerrilla
 goblinry
 glyoxime
+gipsire
 gerontomorphosis
 greedless
 gypster
@@ -1414,7 +1415,6 @@ germanism
 garret
 grulla
 gruppetto
-gipsire
 gunne
 gox
 griseofulvin
