@@ -1041,7 +1041,6 @@ fletcherize
 folates
 farmership
 fulgence
-feldspathoid
 felicitated
 fatted
 fruitery
@@ -7405,6 +7404,7 @@ fudder
 fibrotic
 focimeter
 federally
+feldspathoid
 fossulate
 fiddleheaded
 fogs
