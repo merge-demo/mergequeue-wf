@@ -1586,7 +1586,6 @@ gynandrosporous
 grinder
 geulah
 gambiae
-gandharva
 galavant
 gonarthritis
 geneat
@@ -8502,6 +8501,7 @@ genl
 glisten
 gibaro
 garum
+gandharva
 gekko
 glisteningly
 gelsemiums
