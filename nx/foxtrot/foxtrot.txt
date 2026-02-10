@@ -3505,7 +3505,6 @@ fanfares
 frostfishes
 foreseason
 foreinstruct
-fatigation
 fruits
 furil
 fighting
@@ -5377,6 +5376,7 @@ flamelike
 front
 fustians
 festoons
+fatigation
 ferry
 faitery
 fourness
