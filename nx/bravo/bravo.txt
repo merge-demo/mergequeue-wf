@@ -8739,7 +8739,6 @@ bimbisara
 basibranchial
 bromopnea
 booklike
-beardtongue
 borborygmies
 barbet
 buffe
@@ -10322,6 +10321,7 @@ bladdery
 bladderlike
 biblism
 bladderseed
+beardtongue
 bladderwort
 blading
 beleaguerer
