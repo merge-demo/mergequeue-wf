@@ -2653,6 +2653,7 @@ clumsiness
 crankdisk
 constitutively
 cangler
+clastics
 cangue
 chonolith
 cangues
@@ -9962,7 +9963,6 @@ chenopod
 colocasia
 criollo
 cajuputs
-clastics
 croup
 chequer
 chequered
