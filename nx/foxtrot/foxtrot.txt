@@ -5664,6 +5664,7 @@ fingerwise
 frontonasal
 flageolet
 ffa
+froglet
 factorization
 formerness
 fourgons
@@ -6932,7 +6933,6 @@ fibromyxosarcoma
 fraternised
 fidejussory
 fossilised
-froglet
 fuliginously
 footings
 focus
