@@ -13400,6 +13400,7 @@ cylix
 cassida
 conspicuousness
 cleared
+carposporangium
 catchingly
 craniognomy
 cancrid
@@ -30307,7 +30308,6 @@ crunodes
 countervairy
 chantors
 confrater
-carposporangium
 consonantizing
 constructions
 chiragra
