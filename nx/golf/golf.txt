@@ -5140,7 +5140,6 @@ gnatflower
 gaumed
 goblinesque
 gutturine
-gessamine
 gentlehearted
 goldcrest
 gimpiest
@@ -6483,6 +6482,7 @@ goatish
 glycogenosis
 grassation
 gunster
+gessamine
 grays
 grams
 gratinate
