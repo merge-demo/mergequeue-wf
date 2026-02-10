@@ -1697,7 +1697,6 @@ flourless
 foodservices
 faviform
 frigs
-feasibly
 fashionmonger
 flighted
 fusiform
@@ -10863,6 +10862,7 @@ fallout
 frisky
 flagitiously
 forwore
+feasibly
 fishlines
 fetichism
 faddism
