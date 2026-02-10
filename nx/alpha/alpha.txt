@@ -4675,6 +4675,7 @@ addaxes
 affricate
 appanage
 adawe
+antiheterolysin
 arthrotyphoid
 aenigmatite
 azrael
@@ -25379,7 +25380,6 @@ alinement
 anatomy
 azoxine
 azoxytoluidine
-antiheterolysin
 azoxonium
 aztec
 androlepsy
