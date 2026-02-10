@@ -7523,7 +7523,6 @@ aurally
 auxographic
 ammonolyze
 antisteapsin
-antitax
 atrocity
 agau
 asylum
@@ -18682,6 +18681,7 @@ acrostics
 azotea
 asteroxylaceae
 amnia
+antitax
 abbreviates
 arloup
 agalite
