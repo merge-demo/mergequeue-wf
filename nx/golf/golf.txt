@@ -1295,6 +1295,7 @@ gibbered
 goniatitid
 glathsheim
 groomers
+galls
 glost
 gourinae
 gigster
@@ -6491,7 +6492,6 @@ greaseproofness
 glaucic
 grayed
 graceless
-galls
 gatherable
 gimble
 granduncles
