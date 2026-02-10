@@ -4418,7 +4418,6 @@ gobby
 giobertite
 grazierdom
 grainsickness
-gosplan
 gammelost
 graminology
 gommelin
@@ -9125,6 +9124,7 @@ gobonated
 garlandless
 gamelang
 gallowglass
+gosplan
 ginward
 grummel
 gambier
