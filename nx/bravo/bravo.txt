@@ -3287,7 +3287,6 @@ basilics
 basilidian
 bursitises
 brome
-binormal
 breakless
 bolted
 basinal
@@ -7351,6 +7350,7 @@ bareges
 birde
 believingly
 boweryish
+binormal
 beachlamar
 bete
 bursters
