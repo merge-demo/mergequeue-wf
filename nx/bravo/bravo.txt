@@ -12705,6 +12705,7 @@ beagle
 bedunch
 bunkos
 blueth
+beltway
 becolor
 boodled
 bannerets
@@ -18195,7 +18196,6 @@ bellwind
 braggadocianism
 besprinkler
 backsword
-beltway
 bibliokleptomaniac
 bodyguards
 bulks
