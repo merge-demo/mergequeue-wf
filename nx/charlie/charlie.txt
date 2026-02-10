@@ -2718,6 +2718,7 @@ croze
 claviculus
 cameo
 cankerroot
+crepitus
 cardiolith
 camerine
 cauponize
@@ -16811,7 +16812,6 @@ cloverleaves
 cloverley
 cycadophyte
 cloverroot
-crepitus
 clovewort
 castling
 coauditor
