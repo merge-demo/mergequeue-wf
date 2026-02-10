@@ -5495,7 +5495,6 @@ georgian
 gutium
 goldilocks
 glink
-glisten
 glimmery
 gigeria
 glisteringly
@@ -8497,6 +8496,7 @@ groutnoll
 gnatling
 golfing
 genl
+glisten
 gibaro
 garum
 gekko
