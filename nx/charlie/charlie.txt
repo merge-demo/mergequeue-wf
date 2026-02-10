@@ -2849,7 +2849,6 @@ churlish
 centeredness
 canones
 cardooer
-canonesses
 canonicalization
 cinctures
 canonicalized
@@ -20991,6 +20990,7 @@ contr
 compromiser
 cadilesker
 compromisers
+canonesses
 compromisingly
 compromission
 compromit
