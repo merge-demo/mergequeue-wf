@@ -3073,7 +3073,6 @@ defade
 disanchor
 distant
 diabolization
-defaillance
 defalcated
 disembroilment
 diplokaryon
@@ -9455,6 +9454,7 @@ doryline
 decennia
 dibatag
 drunkelew
+defaillance
 delead
 delusion
 decemvir
