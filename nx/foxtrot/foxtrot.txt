@@ -283,7 +283,6 @@ fylfots
 fluellite
 folios
 finfishes
-felsic
 fragmenting
 flooders
 fairly
@@ -7141,6 +7140,7 @@ floatless
 factious
 felonries
 fetors
+felsic
 fusional
 fostership
 forgeability
