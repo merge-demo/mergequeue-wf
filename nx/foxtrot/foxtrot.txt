@@ -3900,6 +3900,7 @@ foregrounds
 furlong
 frequencies
 fortyfive
+foundationless
 fellowshiping
 fluorite
 fecundating
@@ -10348,7 +10349,6 @@ farnesses
 frenziedness
 forbids
 firms
-foundationless
 finfoot
 fingerleaf
 fingering
