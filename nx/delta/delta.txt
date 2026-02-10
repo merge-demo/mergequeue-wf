@@ -1563,7 +1563,6 @@ docked
 drippings
 dices
 deadfalls
-deviler
 dartboard
 deadheartedly
 druery
@@ -14639,6 +14638,7 @@ divulgation
 dolly
 deozonize
 display
+deviler
 divulged
 diminuted
 despite
