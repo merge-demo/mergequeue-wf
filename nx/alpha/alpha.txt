@@ -2801,7 +2801,6 @@ acrogen
 aspirated
 ashthroat
 acrolein
-antianthropocentric
 antireactionary
 acroleins
 acrolithan
@@ -10781,6 +10780,7 @@ assemblage
 archeological
 anticult
 amphib
+antianthropocentric
 afrits
 ammonolyzing
 amniotic
