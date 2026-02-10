@@ -1191,6 +1191,7 @@ flotson
 flukeless
 figurette
 forgo
+foresinger
 filatures
 fantasms
 falconine
@@ -8459,7 +8460,6 @@ fatbrained
 formazan
 fevergum
 furiant
-foresinger
 featherfew
 feasibilities
 flanges
