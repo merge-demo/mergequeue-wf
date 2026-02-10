@@ -2560,7 +2560,6 @@ excepting
 epiphysary
 electromagnetism
 euomphalus
-electromer
 ebcdic
 eyebright
 elaborations
@@ -4674,6 +4673,7 @@ enrapting
 extranuclear
 eustachian
 enchorial
+electromer
 eild
 evolve
 eremiteship
