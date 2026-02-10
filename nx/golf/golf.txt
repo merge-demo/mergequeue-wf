@@ -3410,7 +3410,6 @@ gondolier
 galbe
 gonocytes
 gainor
-gruelingly
 gerontocrat
 gingilis
 glint
@@ -5153,6 +5152,7 @@ guerdon
 gybing
 geologised
 gawkhammer
+gruelingly
 greing
 gratins
 greek
