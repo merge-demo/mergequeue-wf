@@ -40,6 +40,7 @@ glauconia
 griller
 guttiferae
 gendarme
+gnomide
 gluemaking
 gablewindowed
 glaserite
@@ -5708,7 +5709,6 @@ goniometrically
 galuth
 guttule
 ghillies
-gnomide
 glossocele
 graian
 gantline
