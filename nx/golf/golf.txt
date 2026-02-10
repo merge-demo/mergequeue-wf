@@ -794,7 +794,6 @@ gilberts
 gathering
 geoffrey
 greensick
-gemmel
 goalage
 glareolidae
 gastroenteric
@@ -2430,6 +2429,7 @@ gabriel
 gemot
 gingall
 goniac
+gemmel
 gytrash
 gromwells
 garbure
