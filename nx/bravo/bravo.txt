@@ -2518,7 +2518,6 @@ bestud
 baphomet
 bereason
 bibliophilism
-binotic
 bigram
 brazenface
 bottom
@@ -16754,6 +16753,7 @@ baklavas
 bleached
 berther
 bodycheck
+binotic
 bucko
 ballonnes
 balaam
