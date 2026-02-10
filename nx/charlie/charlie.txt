@@ -6731,7 +6731,6 @@ chard
 cursorial
 ceibo
 corkish
-counterthrust
 christenmas
 clamoring
 celestine
@@ -24135,6 +24134,7 @@ crystallisable
 convictment
 couchmate
 convicts
+counterthrust
 crosshatch
 cephalophus
 convinced
