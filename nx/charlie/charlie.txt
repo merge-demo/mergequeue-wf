@@ -6558,7 +6558,6 @@ cuprocyanide
 calve
 catalogues
 cavicornia
-cavie
 caviya
 cavyyard
 canmaker
@@ -24608,6 +24607,7 @@ copyreaders
 caudalward
 copyreading
 curiosos
+cavie
 copyrightable
 copyrighter
 carotinaemia
