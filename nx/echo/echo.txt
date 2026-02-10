@@ -3987,7 +3987,6 @@ extremistic
 encephalic
 eugregarinida
 epimeron
-emolument
 epithelial
 emotivity
 exorability
@@ -11438,6 +11437,7 @@ engross
 esuriency
 endocrin
 emaciating
+emolument
 eccyesis
 euconic
 ellipsoids
