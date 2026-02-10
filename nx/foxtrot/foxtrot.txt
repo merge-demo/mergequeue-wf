@@ -728,7 +728,6 @@ fraenums
 famuli
 fenceress
 flushed
-fetlocked
 frustrater
 fringeless
 fana
@@ -3076,6 +3075,7 @@ ferdiad
 flirtatious
 funnellike
 fisherboat
+fetlocked
 feringi
 fibro
 forbiddenly
