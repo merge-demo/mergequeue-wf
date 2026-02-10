@@ -3381,7 +3381,6 @@ flashers
 fieldish
 flammed
 forded
-funereality
 fattener
 furriners
 fibromatous
@@ -11093,6 +11092,7 @@ foreknowableness
 fane
 factfinder
 foremasts
+funereality
 fangled
 fiesta
 firesafeness
