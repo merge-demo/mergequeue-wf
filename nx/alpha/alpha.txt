@@ -9437,6 +9437,7 @@ apholates
 ablution
 ajutment
 aspidate
+adapters
 anargyroi
 althorn
 alticamelus
@@ -15265,7 +15266,6 @@ aepyornis
 antihelix
 archeol
 anthracite
-adapters
 amperages
 antihero
 amphoriskos
