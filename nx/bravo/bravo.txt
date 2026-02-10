@@ -1899,7 +1899,6 @@ banders
 brawlsome
 befogging
 bicrons
-beats
 barkinji
 brahmins
 bandfile
@@ -6405,6 +6404,7 @@ bilbi
 birdberry
 benzoglyoxaline
 benzohydrol
+beats
 becuna
 blankness
 benzoylation
