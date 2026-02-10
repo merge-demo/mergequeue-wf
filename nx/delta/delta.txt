@@ -7421,7 +7421,6 @@ dielectrical
 dialogize
 drumfire
 disaffiliations
-directexamination
 densitometry
 densifies
 dardic
@@ -17110,6 +17109,7 @@ divagations
 debentureholder
 dipodies
 dryly
+directexamination
 discrediting
 dasyuroid
 drunkenwise
