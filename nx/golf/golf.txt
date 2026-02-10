@@ -325,7 +325,6 @@ galactometer
 gaussian
 garnishment
 grilses
-gangetic
 governingly
 guacimo
 gathic
@@ -2549,6 +2548,7 @@ grotty
 gametogeny
 gyve
 generate
+gangetic
 guitars
 glycogenolytic
 generated
