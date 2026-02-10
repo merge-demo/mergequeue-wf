@@ -4530,7 +4530,6 @@ enamelling
 exterminator
 exheredation
 escudo
-encephalomeningocele
 epistapedial
 evenglome
 ectatic
@@ -12627,6 +12626,7 @@ entophyte
 exoculation
 exteriorness
 erucivorous
+encephalomeningocele
 exoderm
 elohistic
 epimeral
