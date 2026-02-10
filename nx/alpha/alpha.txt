@@ -9561,7 +9561,6 @@ alumite
 abstractly
 adagio
 alumni
-alkalimetry
 apr
 aniridia
 alniresinol
@@ -11705,6 +11704,7 @@ analgic
 altocumulus
 antidysuric
 africanthropus
+alkalimetry
 aglimmer
 axfetch
 anophthalmia
