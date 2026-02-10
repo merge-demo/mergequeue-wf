@@ -2636,6 +2636,7 @@ blindfold
 ballons
 burets
 becharmed
+brands
 baritenor
 barberry
 bucerotinae
@@ -9877,7 +9878,6 @@ biarchy
 biters
 billed
 barbing
-brands
 blancard
 bites
 birefringent
