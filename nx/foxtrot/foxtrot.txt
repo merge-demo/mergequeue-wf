@@ -1878,6 +1878,7 @@ flybrush
 flybys
 fingerflower
 fumbling
+folks
 forestaller
 floorwalkers
 foism
@@ -10466,7 +10467,6 @@ fiques
 frontomental
 forecaster
 fidibus
-folks
 fortemente
 farmeries
 fetterer
