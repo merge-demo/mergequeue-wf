@@ -1355,6 +1355,7 @@ fossicks
 forwear
 fatiguesome
 fogus
+fortifies
 fulminuric
 formable
 fruticeous
@@ -6144,7 +6145,6 @@ fructoside
 feedstuffs
 flamethrower
 flunky
-fortifies
 flunkeyize
 fungiform
 frump
