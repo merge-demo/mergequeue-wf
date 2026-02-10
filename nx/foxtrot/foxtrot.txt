@@ -2193,7 +2193,6 @@ felts
 fishworker
 fastidiosity
 folliculous
-frowl
 felwort
 frizer
 fairsome
@@ -7177,6 +7176,7 @@ fem
 facepiece
 fossette
 footboys
+frowl
 floodgate
 fairling
 factions
