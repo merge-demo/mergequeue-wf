@@ -5352,7 +5352,6 @@ generalisation
 gyrencephalate
 gismondite
 goiters
-gangrel
 glees
 gregarianism
 gelatinoid
@@ -8316,6 +8315,7 @@ grandaunts
 gruff
 gentians
 gibberish
+gangrel
 grime
 girding
 granatite
