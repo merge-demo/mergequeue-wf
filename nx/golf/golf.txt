@@ -36,7 +36,6 @@ gleemaiden
 gatherum
 gibbon
 goosish
-glauconia
 griller
 guttiferae
 gendarme
@@ -1116,6 +1115,7 @@ gallnut
 groupment
 gunpowder
 gamasidae
+glauconia
 guava
 gantelope
 glycogenous
