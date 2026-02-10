@@ -8094,6 +8094,7 @@ bicornute
 blanketing
 beshadow
 boats
+bos
 boyd
 bicorporate
 banyai
@@ -10215,7 +10216,6 @@ blackguard
 bogglingly
 bulten
 beefalo
-bos
 benzenyl
 bookrests
 beseechers
