@@ -1129,6 +1129,7 @@ endia
 edificed
 encyclopedias
 essayish
+erythrocatalysis
 egolatrous
 edile
 epiphyseal
@@ -5516,7 +5517,6 @@ earthquave
 epipleural
 erotizing
 eleemosynary
-erythrocatalysis
 epiploic
 ebionitic
 extraordinariness
