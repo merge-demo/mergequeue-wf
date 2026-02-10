@@ -7639,7 +7639,6 @@ disavowment
 dermatologist
 diphenol
 drabbles
-deadly
 desiderium
 deray
 drawers
@@ -8626,6 +8625,7 @@ dyarchies
 displeased
 disjunctor
 davis
+deadly
 dinge
 debugging
 dialyses
