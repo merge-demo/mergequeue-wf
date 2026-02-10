@@ -15455,7 +15455,6 @@ denunciant
 disagreement
 donator
 dispossed
-detergence
 discodactyl
 dispell
 desist
@@ -17630,6 +17629,7 @@ dygogram
 diffusimeter
 deedholder
 diamondlike
+detergence
 doolies
 darrein
 dhaw

@@ -5025,6 +5025,7 @@ garavance
 glowed
 geosynclinal
 geniohyoid
+gonosphere
 glaum
 gilliflirt
 gnetaceous
@@ -6823,7 +6824,6 @@ getling
 giglots
 gypsied
 gaffsman
-gonosphere
 grisettish
 graphics
 gorbal
