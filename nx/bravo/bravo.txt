@@ -4582,7 +4582,6 @@ bool
 brescian
 bedabble
 barricadoed
-biggening
 behavioristic
 butterjags
 bedaggle
@@ -18315,6 +18314,7 @@ basaltoid
 buttonbush
 bivalve
 botany
+biggening
 buttoners
 bedel
 bareheaded
