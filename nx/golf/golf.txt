@@ -5607,7 +5607,6 @@ gravity
 guiltily
 gurrah
 gruidae
-gentry
 gunstick
 groupies
 glueman
@@ -7509,6 +7508,7 @@ gnast
 galjoen
 glabellous
 gryllus
+gentry
 gubernaculum
 graypate
 gemstones
