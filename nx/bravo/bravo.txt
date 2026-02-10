@@ -4622,7 +4622,6 @@ bowsprit
 baloskion
 ballbuster
 bedazzles
-bedazzlingly
 bibliopolery
 baptise
 boden
@@ -9630,6 +9629,7 @@ bumbledom
 bronchomycosis
 blastomata
 boondocker
+bedazzlingly
 bisdiapason
 biteable
 binary
