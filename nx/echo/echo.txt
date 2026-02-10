@@ -4639,7 +4639,6 @@ exquisitiveness
 efficaciously
 esseda
 enow
-externals
 electropneumatic
 empacket
 escapade
@@ -8935,6 +8934,7 @@ estrangement
 ergative
 elmier
 ergatocrat
+externals
 elocutionist
 epiblast
 embreastment
