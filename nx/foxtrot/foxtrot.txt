@@ -6197,6 +6197,7 @@ faraway
 furmente
 fuselage
 fjorgyn
+forename
 foully
 foldless
 fleetwing
@@ -9298,7 +9299,6 @@ freckling
 fungate
 folious
 framea
-forename
 fungologist
 fogrum
 fibbed
