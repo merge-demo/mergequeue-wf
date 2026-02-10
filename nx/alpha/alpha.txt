@@ -16431,7 +16431,6 @@ almacantar
 apulmonic
 autolysin
 askable
-armoire
 acritan
 aeron
 anvils
@@ -23910,6 +23909,7 @@ authentication
 apathy
 amminolytic
 apocaffeine
+armoire
 athetosic
 attracting
 auganite
