@@ -3929,7 +3929,6 @@ gumbotil
 glassless
 gimping
 goffer
-gnomed
 gouges
 geometrising
 glowing
@@ -10376,6 +10375,7 @@ grumpy
 gomasta
 gauffers
 glossolabiolaryngeal
+gnomed
 gelasian
 gidyea
 gaucheness
