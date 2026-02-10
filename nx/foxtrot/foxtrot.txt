@@ -3740,7 +3740,6 @@ flags
 fads
 frownless
 feodal
-facebread
 fillings
 furfuryl
 forepoling
@@ -4792,6 +4791,7 @@ forerank
 faldfee
 forehock
 forthink
+facebread
 fablemongering
 foreknow
 frouncing
