@@ -23161,7 +23161,6 @@ coiffure
 constrainingly
 cubbyhole
 constraints
-cardioscope
 constrict
 clamative
 castors
@@ -29914,6 +29913,7 @@ colymbus
 cymas
 coiffeuse
 crosslink
+cardioscope
 countertripping
 calloo
 crossness
