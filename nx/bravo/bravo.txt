@@ -4468,6 +4468,7 @@ bretonian
 bourguignonne
 bilabials
 bras
+buses
 bonasus
 breathtakingly
 blindman
@@ -16772,7 +16773,6 @@ bariatrics
 betso
 bucktooth
 bronchovesicular
-buses
 bucktoothed
 bountyless
 basilicas
