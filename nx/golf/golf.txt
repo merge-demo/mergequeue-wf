@@ -3831,6 +3831,7 @@ giver
 gingeleys
 graded
 grandchild
+gesticulatory
 granulitize
 gradientia
 geochronometry
@@ -5410,7 +5411,6 @@ grimmer
 galopade
 glum
 glimmeringly
-gesticulatory
 garveys
 gurus
 galahads
