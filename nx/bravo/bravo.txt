@@ -1902,6 +1902,7 @@ banders
 brawlsome
 befogging
 bicrons
+beats
 barkinji
 brahmins
 bandfile
@@ -9365,7 +9366,6 @@ breweries
 brendice
 besmother
 bitterwort
-beats
 brasilein
 bescours
 base
