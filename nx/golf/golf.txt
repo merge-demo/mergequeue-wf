@@ -3063,6 +3063,7 @@ glucokinin
 globigerine
 gleanable
 glueing
+glycyl
 gamesters
 goblinism
 gilder
@@ -9091,7 +9092,6 @@ guinfo
 glutination
 goadster
 golilla
-glycyl
 gease
 glaucomys
 glumal
