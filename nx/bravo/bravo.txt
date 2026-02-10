@@ -1575,7 +1575,6 @@ blacktopping
 beeherd
 burger
 bersiamite
-bulbiform
 betterer
 bdl
 bufferrer
@@ -9382,6 +9381,7 @@ besogne
 bewrathed
 brinish
 bombes
+bulbiform
 baroscope
 brockets
 baleless
