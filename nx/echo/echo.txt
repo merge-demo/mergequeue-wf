@@ -708,7 +708,6 @@ else
 embrangling
 eclipsed
 exserted
-equivocacy
 elliptically
 extraneously
 enomotarch
@@ -3463,6 +3462,7 @@ enregistration
 egal
 excursioner
 envelopes
+equivocacy
 enterclose
 encyclopaedial
 embannered
