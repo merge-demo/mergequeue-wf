@@ -4061,6 +4061,7 @@ fungicidal
 forinsecal
 fanzine
 finis
+feebling
 flashbacks
 fashioned
 feudal
@@ -9529,7 +9530,6 @@ florets
 floatplane
 fibdom
 fearable
-feebling
 fiducinales
 faveoluli
 fructicultural

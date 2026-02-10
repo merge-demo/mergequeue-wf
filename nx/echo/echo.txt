@@ -7415,7 +7415,6 @@ evocated
 esthiomenus
 electrolyze
 experiencible
-epaulement
 ebeneous
 evaporite
 eyries
@@ -9929,6 +9928,7 @@ electrotyper
 electromagnetics
 extravertive
 eyeable
+epaulement
 epidermatic
 expiatoriness
 elevating
