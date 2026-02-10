@@ -5439,7 +5439,6 @@ glossator
 girlhood
 gratulated
 gus
-glossoepiglottidean
 galactophlebitis
 gallanilide
 gravidae
@@ -6476,6 +6475,7 @@ grasshopper
 gayest
 glycins
 gymnasia
+glossoepiglottidean
 groundage
 grummels
 glassfish
