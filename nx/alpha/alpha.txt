@@ -9929,7 +9929,6 @@ adffroze
 appel
 ambigu
 acinacity
-amygdaloidal
 ambilateralaterally
 applaudingly
 annonce
@@ -24231,6 +24230,7 @@ autological
 antiatheist
 alalite
 ahistoric
+amygdaloidal
 azyme
 ammoniacal
 automata
