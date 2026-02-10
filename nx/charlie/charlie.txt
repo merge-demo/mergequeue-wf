@@ -4167,7 +4167,6 @@ condalia
 cardinal
 croslet
 crummock
-chuggers
 cardiorrhexis
 cardinalfishes
 coblentzian
@@ -23320,6 +23319,7 @@ carvel
 circumstantiations
 contactile
 cummer
+chuggers
 chamaesiphonales
 coatracks
 circumspect
