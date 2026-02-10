@@ -7104,6 +7104,7 @@ centenier
 cryptoporticus
 calyxes
 consimilar
+choruslike
 cytaster
 chalicothere
 condonations
@@ -24743,7 +24744,6 @@ chymified
 coprophilism
 coprophilous
 coprophyte
-choruslike
 coprophobia
 cessing
 ceilinged
