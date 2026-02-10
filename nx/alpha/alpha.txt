@@ -2251,7 +2251,6 @@ australia
 achromatosis
 akinesia
 accountancy
-acyrological
 amygdalolith
 allows
 autoparasitism
@@ -10673,6 +10672,7 @@ amitular
 ancre
 antiagglutinating
 aged
+acyrological
 amiantuses
 architis
 amlikar
