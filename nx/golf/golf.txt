@@ -4297,6 +4297,7 @@ gansy
 galleass
 goniopholidae
 gaugeable
+geologize
 guss
 guest
 glendover
@@ -5722,7 +5723,6 @@ glomerate
 gressorious
 graveyards
 geotropism
-geologize
 gustoes
 glossolysis
 glumpiness
