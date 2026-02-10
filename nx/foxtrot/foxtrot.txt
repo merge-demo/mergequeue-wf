@@ -4718,7 +4718,6 @@ flatfoots
 fayettism
 forgivably
 flavoured
-fearsome
 fiddled
 figurante
 flytings
@@ -9500,6 +9499,7 @@ forenames
 femininism
 frameable
 fraudfully
+fearsome
 fusibly
 fictionised
 fasciculated
