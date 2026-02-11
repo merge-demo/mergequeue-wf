@@ -1623,7 +1623,6 @@ formel
 foreannounce
 fipenny
 foraneen
-four
 fdnames
 footwalk
 ferociousness
@@ -3861,6 +3860,7 @@ fiberscope
 fungistat
 flavanthrene
 favous
+four
 frizette
 folksinger
 frustulum
