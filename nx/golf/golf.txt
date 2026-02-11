@@ -5850,7 +5850,6 @@ glucagons
 goldfinch
 guarnerius
 genuflected
-gipsyweed
 glorified
 glucoside
 goshawk
@@ -8426,6 +8425,7 @@ greenbacker
 gauntree
 gestura
 guaco
+gipsyweed
 gelsemium
 gilten
 groovelike
