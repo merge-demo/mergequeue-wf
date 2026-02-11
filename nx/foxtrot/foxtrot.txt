@@ -5832,7 +5832,6 @@ flyspecking
 folate
 fill
 fixture
-fossed
 footlessness
 flyswatter
 ferrugination
@@ -8084,6 +8083,7 @@ friableness
 footlog
 fessing
 falbala
+fossed
 fractionise
 folkmot
 fumarole
