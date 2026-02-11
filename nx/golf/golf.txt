@@ -1341,7 +1341,6 @@ guardedness
 gitalin
 garlion
 guhr
-gesturers
 girdling
 garmentmaker
 gynomonecious
@@ -1611,6 +1610,7 @@ gorsehatch
 gamobium
 grassworm
 gesticulation
+gesturers
 gain
 glossophytia
 gastroxynsis
