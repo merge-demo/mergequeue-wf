@@ -896,6 +896,7 @@ greedy
 gobangs
 grindingly
 gyrograph
+gainable
 gammerel
 gammock
 gillnetted
@@ -1038,7 +1039,6 @@ goladar
 graveman
 gothites
 gipsology
-gainable
 giggler
 gasserian
 gist
