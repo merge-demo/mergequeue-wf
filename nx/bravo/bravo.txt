@@ -3366,7 +3366,6 @@ bellypinch
 basketwoman
 batocrinus
 beal
-bromargyrite
 beggiatoaceous
 burgeons
 boisterousness
@@ -14557,6 +14556,7 @@ branchellion
 babroot
 beadle
 beclowns
+bromargyrite
 branchiae
 breeks
 branchicolous
