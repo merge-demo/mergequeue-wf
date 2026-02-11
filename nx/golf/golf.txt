@@ -4162,6 +4162,7 @@ greeney
 guaranin
 gainful
 gyrocompass
+gyrohorizon
 gur
 guardhouse
 gnathites
@@ -4464,7 +4465,6 @@ gastrostaxis
 gerontes
 gastrohysterorrhaphy
 giraffe
-gyrohorizon
 gospelmonger
 gynocardic
 gypsyism
