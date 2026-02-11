@@ -320,6 +320,7 @@ flambeed
 floosies
 faeryland
 fleabitten
+fawnskin
 fertilization
 forthputting
 foaming
@@ -2924,7 +2925,6 @@ freetrader
 fluible
 fomentations
 fulham
-fawnskin
 fuzz
 foregahger
 flybook
