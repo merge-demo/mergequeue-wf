@@ -7363,7 +7363,6 @@ calliphorine
 cantalite
 computus
 coudee
-cephalaspis
 condurrite
 cephalate
 cephalhematoma
@@ -19743,6 +19742,7 @@ combinators
 copaiva
 combined
 ctene
+cephalaspis
 consultary
 cations
 collectivized

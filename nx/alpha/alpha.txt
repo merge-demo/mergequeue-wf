@@ -6565,7 +6565,6 @@ aporetical
 audible
 allemandes
 acarol
-autosign
 ailsyte
 anthropotoxin
 asteam
@@ -11710,6 +11709,7 @@ alkalimetry
 aglimmer
 axfetch
 anophthalmia
+autosign
 aparavidya
 alisphenoidal
 analysers
