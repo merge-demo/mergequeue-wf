@@ -8843,6 +8843,7 @@ fetchers
 frappeing
 farsi
 flotillas
+furzeling
 flutebird
 fossage
 fanlight
@@ -11495,7 +11496,6 @@ flotant
 fructuousness
 fashery
 fruition
-furzeling
 featherbedded
 fluidization
 fluidics
