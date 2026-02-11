@@ -6620,7 +6620,6 @@ calamanco
 coeditorship
 cachemia
 coryphaeus
-coldslaw
 communize
 cchaddoorck
 ccid
@@ -15829,6 +15828,7 @@ cleavable
 cleavage
 cleavages
 common
+coldslaw
 cleaveful
 contentness
 cleavers
