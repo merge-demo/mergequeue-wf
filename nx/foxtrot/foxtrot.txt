@@ -4881,7 +4881,6 @@ flume
 freeing
 fishberries
 firepower
-flinthead
 festing
 fairylike
 facecloth
@@ -8483,6 +8482,7 @@ fuzztail
 formularizing
 frontierman
 factorizing
+flinthead
 fiddleneck
 fumado
 frow
