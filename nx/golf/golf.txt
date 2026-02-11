@@ -1423,7 +1423,6 @@ gangways
 glazen
 groundkeeper
 gemologists
-gn
 gargle
 ginkgoaceous
 giftware
@@ -10444,6 +10443,7 @@ gonotype
 graveolent
 goldish
 getsul
+gn
 geometries
 guggling
 gusset
