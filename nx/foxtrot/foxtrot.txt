@@ -5558,6 +5558,7 @@ fuses
 floey
 fenderless
 fricassee
+fantee
 friezy
 fillercap
 forbarred
@@ -10091,7 +10092,6 @@ forearms
 feasibleness
 frontoorbital
 flyingly
-fantee
 flirtable
 fulminurate
 fireblende
