@@ -10355,7 +10355,6 @@ cedarbird
 chucky
 cushioncraft
 chilies
-cahoots
 chiefage
 cobbled
 chiefery
@@ -15873,6 +15872,7 @@ chiromance
 cherts
 cleidomancy
 cleidorrhexis
+cahoots
 cleidotripsy
 cleistocarpous
 cicale
