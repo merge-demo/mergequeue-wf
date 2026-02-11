@@ -9630,7 +9630,6 @@ enterohemorrhage
 egba
 esophagogastroscopy
 eupomatiaceae
-etruscan
 esophagoplasty
 eleut
 embodiment
@@ -13673,6 +13672,7 @@ ecphonesis
 exampling
 exorcisation
 epilogism
+etruscan
 ecclesiarchy
 embacle
 euchre
