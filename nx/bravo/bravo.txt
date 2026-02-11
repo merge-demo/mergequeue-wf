@@ -12883,7 +12883,6 @@ boomtowns
 barracuda
 burling
 brevifoliate
-bibliog
 boondoggling
 betrayers
 bradypepsy
@@ -16353,6 +16352,7 @@ brucellosis
 biolytic
 brucia
 brucin
+bibliog
 brucine
 brucines
 bleachman
