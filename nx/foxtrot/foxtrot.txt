@@ -6073,6 +6073,7 @@ foolscaps
 felspars
 flacon
 fumattoria
+furan
 foo
 fidiculae
 fellowman
@@ -7484,7 +7485,6 @@ falterers
 fort
 foveate
 flake
-furan
 forereport
 forceless
 fluxing
