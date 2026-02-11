@@ -872,6 +872,7 @@ bandyman
 brannerite
 borderlight
 bagganet
+brettice
 bawcock
 belove
 boasting
@@ -15131,7 +15132,6 @@ bayman
 bebops
 bibber
 brot
-brettice
 blisterweed
 bradawl
 brislings

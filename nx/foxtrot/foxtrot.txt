@@ -3681,6 +3681,7 @@ forebitter
 facticide
 fret
 fiftieths
+foredevote
 fibrillar
 freshed
 fluffs
@@ -10157,7 +10158,6 @@ fennec
 functions
 furnisher
 frolicks
-foredevote
 foozling
 firedogs
 farmhands
