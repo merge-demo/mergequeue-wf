@@ -4761,6 +4761,7 @@ deanimalize
 diemaker
 dentalizing
 decametre
+diglyphic
 dolphin
 datch
 desiderta
@@ -6400,7 +6401,6 @@ dillisk
 denization
 dewans
 doggones
-diglyphic
 docquet
 druidic
 deewans
