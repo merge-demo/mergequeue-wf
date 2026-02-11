@@ -6302,7 +6302,6 @@ bibliographize
 bagfuls
 borane
 bevors
-benthoscope
 bemoat
 bulgar
 bunter
@@ -11120,6 +11119,7 @@ blubberhead
 buoyance
 bigmitt
 bretesse
+benthoscope
 backbreaking
 bees
 bakongo
