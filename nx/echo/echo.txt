@@ -4030,7 +4030,7 @@ emphysema
 endobronchitis
 emphyteutic
 ectromelic
-encover
+encover 1
 ectropometer
 enplanes
 eternish
