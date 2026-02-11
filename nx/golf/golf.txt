@@ -4833,7 +4833,6 @@ gladhearted
 giggish
 glaciology
 ghawazi
-germless
 glaciomarine
 glidewort
 guideway
@@ -7802,6 +7801,7 @@ ghalva
 glacial
 gipseian
 greeny
+germless
 gardeen
 gentling
 grubworm
