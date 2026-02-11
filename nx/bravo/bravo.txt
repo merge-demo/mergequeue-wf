@@ -709,6 +709,7 @@ benab
 badger
 breeches
 backyard
+baffies
 badgerer
 banana
 balada
@@ -782,7 +783,6 @@ baetulus
 boothose
 batrachophobia
 blake
-baffies
 bibliotist
 biophysic
 bonnetmen
