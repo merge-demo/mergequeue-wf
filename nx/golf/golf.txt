@@ -4332,6 +4332,7 @@ guaymie
 groups
 gelatinousness
 gavelled
+glenohumeral
 gozill
 granulite
 gemstone
@@ -5261,7 +5262,6 @@ gravitative
 gammer
 gluiest
 gazump
-glenohumeral
 gloved
 gestatorium
 gonyoncus
