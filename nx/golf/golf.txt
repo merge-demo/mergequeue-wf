@@ -4194,7 +4194,6 @@ glacify
 gulflike
 gossy
 grenat
-goosefoots
 granuloblastic
 geomagnetic
 gumtrees
@@ -8644,6 +8643,7 @@ gavelet
 gaiting
 gisel
 greaved
+goosefoots
 gesseron
 glisk
 galvaniser
