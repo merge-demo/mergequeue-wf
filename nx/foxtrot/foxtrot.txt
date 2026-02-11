@@ -4537,7 +4537,6 @@ flattop
 foliicolous
 forblow
 feebleheartedness
-foreshank
 fou
 feculent
 festschrift
@@ -11647,6 +11646,7 @@ friscal
 fluorids
 ferrous
 fibropapilloma
+foreshank
 filletster
 fibrillae
 fasts
