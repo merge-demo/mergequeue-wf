@@ -1733,7 +1733,6 @@ draconin
 derogation
 decameral
 disaccord
-damnatory
 dearths
 deathtime
 diphenan
@@ -2303,6 +2302,7 @@ dudgeon
 dekaparsec
 ditrigonal
 danglement
+damnatory
 dobermans
 drat
 delectations
