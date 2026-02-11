@@ -2462,7 +2462,6 @@ gutted
 gibbetwise
 genitalic
 grandaunt
-gaelicize
 grandity
 glossier
 gatepost
@@ -5136,6 +5135,7 @@ glali
 greable
 gunner
 gnatflower
+gaelicize
 gaumed
 goblinesque
 gutturine
