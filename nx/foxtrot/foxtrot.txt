@@ -5943,7 +5943,6 @@ feyer
 fecund
 fangas
 foaminess
-futteret
 flinted
 forehear
 ferrichloride
@@ -10206,6 +10205,7 @@ friation
 frivolousness
 foray
 fertilizational
+futteret
 fibrinous
 faunula
 filisters
