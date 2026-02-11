@@ -1444,7 +1444,6 @@ epilaryngeal
 enneandrous
 effigurate
 eubranchipus
-efflagitate
 embellishes
 earl
 electrodialyses
@@ -10155,6 +10154,7 @@ erasion
 emancipates
 escherichia
 euterpe
+efflagitate
 equisetum
 erose
 eudaemonism
