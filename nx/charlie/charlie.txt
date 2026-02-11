@@ -4627,7 +4627,6 @@ carnivore
 carnivorism
 cinefaction
 coherer
-carnivorousness
 cavalcading
 creeping
 cyanea
@@ -7652,6 +7651,7 @@ cerebroparietal
 cerebropedal
 coppy
 cerebropsychosis
+carnivorousness
 coincidentally
 cerebrosclerosis
 cerebroscope
