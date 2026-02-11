@@ -8894,6 +8894,7 @@ bathypelagic
 bioactivities
 bioastronautics
 bungalow
+bandaka
 belcher
 boozes
 barleysick
@@ -15090,7 +15091,6 @@ benthamic
 betiding
 brighter
 blacklegs
-bandaka
 breenger
 babushka
 breezeway
