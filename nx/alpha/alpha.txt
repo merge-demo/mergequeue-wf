@@ -4981,7 +4981,6 @@ aeroscepsy
 achromatizing
 archaeology
 anciennete
-amnigenia
 aurum
 altumal
 athletically
@@ -8392,6 +8391,7 @@ arrogant
 alkamine
 alkanet
 alkalifies
+amnigenia
 actionist
 alkanethiol
 antherine
