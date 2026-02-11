@@ -2137,7 +2137,6 @@ flobby
 florula
 fidepromissor
 flaws
-fumette
 formicidae
 fameful
 famously
@@ -8487,6 +8486,7 @@ fiddleneck
 fumado
 frow
 figment
+fumette
 forked
 formica
 fasciculate
