@@ -638,7 +638,6 @@ echometer
 echopractic
 explosive
 elitisms
-electuaries
 ebonise
 electronographic
 exobiological
@@ -3474,6 +3473,7 @@ endpiece
 egypt
 electrobiology
 embarge
+electuaries
 espier
 enteropneustal
 estimator
