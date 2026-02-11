@@ -7921,7 +7921,6 @@ dexes
 desertward
 dexiotropic
 dishwashing
-deflective
 doughnuts
 dollarbird
 diaplex
@@ -9373,6 +9372,7 @@ dinarchies
 dorymen
 drawknife
 differs
+deflective
 disquieting
 deprive
 dignosle
