@@ -5591,7 +5591,6 @@ beneficiated
 bedframe
 britten
 bekiss
-bashalick
 beachside
 bekisses
 belock
@@ -9575,6 +9574,7 @@ bettered
 bught
 battuto
 biserial
+bashalick
 biblist
 blancher
 bodewash
