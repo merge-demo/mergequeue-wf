@@ -3532,6 +3532,7 @@ extradoses
 exteriors
 enteropneustan
 expenditures
+euphonic
 embellisher
 enchained
 embers
@@ -10779,7 +10780,6 @@ extrasystolic
 enodal
 eyestring
 elderbush
-euphonic
 enid
 eyesight
 erminites
