@@ -4158,7 +4158,6 @@ deloul
 decocted
 dibbers
 deloused
-decimal
 deodorisation
 doorjamb
 disincorporated
@@ -6738,6 +6737,7 @@ dumpty
 didascalar
 doubly
 dissogeny
+decimal
 decollating
 desolations
 dividingly
