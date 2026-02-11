@@ -2813,6 +2813,7 @@ fent
 freshener
 finlander
 flattops
+funestal
 faunae
 flustery
 ficus
@@ -9747,7 +9748,6 @@ futuramic
 furiously
 fido
 frenchly
-funestal
 fissionability
 feddan
 floatable
