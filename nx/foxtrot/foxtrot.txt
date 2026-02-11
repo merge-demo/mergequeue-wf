@@ -1638,7 +1638,6 @@ fthm
 facial
 federate
 fuddledness
-flaveria
 folksong
 fingerstone
 flemer
@@ -7247,6 +7246,7 @@ formedon
 flection
 flites
 forthteller
+flaveria
 fleshling
 fingered
 footless
