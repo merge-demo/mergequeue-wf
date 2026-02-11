@@ -1847,7 +1847,6 @@ breakwater
 bepurple
 buzzy
 brimming
-bustler
 blancmanger
 bantering
 bemuse
@@ -4249,6 +4248,7 @@ bethwine
 bufonid
 bellmen
 barometric
+bustler
 brusquer
 beatrix
 bonging
