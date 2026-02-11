@@ -324,6 +324,7 @@ arrestation
 acetylglycine
 auletris
 acetonemia
+aphakia
 aftwards
 antjar
 abends
@@ -862,7 +863,6 @@ absconsa
 autecologist
 aidance
 abscound
-aphakia
 aftercoming
 absee
 abseils
