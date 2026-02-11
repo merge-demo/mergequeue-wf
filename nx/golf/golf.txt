@@ -1444,7 +1444,6 @@ gulfy
 grosgrained
 gainward
 greenleaf
-glossarial
 gidjee
 gerontocratic
 galipoipin
@@ -8262,6 +8261,7 @@ grill
 grillades
 gelders
 gaist
+glossarial
 gnathonic
 granam
 graphitize
