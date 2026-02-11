@@ -5424,6 +5424,7 @@ acrostichic
 autocollimate
 anticorona
 ack
+approvableness
 argotic
 apological
 aphanitism
@@ -15632,7 +15633,6 @@ apologue
 albruna
 anet
 attrahent
-approvableness
 afrite
 alcedininae
 albify
