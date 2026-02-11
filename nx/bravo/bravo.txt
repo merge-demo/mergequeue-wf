@@ -5467,7 +5467,6 @@ baptised
 brutes
 berrigan
 bedraped
-bendways
 benignness
 bullets
 bonce
@@ -9191,6 +9190,7 @@ balladwise
 bromcamphor
 bruno
 bruja
+bendways
 biotome
 boiler
 biotransformation
