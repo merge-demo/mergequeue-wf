@@ -8097,7 +8097,6 @@ adelphoi
 aweel
 algophagous
 achomawi
-algophilia
 albuminolysis
 acetonylacetone
 algophobia
@@ -13282,6 +13281,7 @@ anisostichous
 anisostomous
 amlacra
 anisotrope
+algophilia
 anencephalotrophia
 anisum
 appinite
