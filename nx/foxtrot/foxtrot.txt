@@ -1539,7 +1539,6 @@ foreshift
 foetuses
 fauterer
 flannelleaf
-fauteuil
 fimbriodentate
 foreteach
 fervidity
@@ -2217,6 +2216,7 @@ forthcame
 fchar
 fingerling
 firers
+fauteuil
 feudee
 follows
 fikie
