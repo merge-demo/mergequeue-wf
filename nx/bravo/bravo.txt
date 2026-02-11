@@ -12461,7 +12461,6 @@ baptized
 becurses
 bests
 bowerlike
-beanos
 bakeout
 babeldom
 bonbon
@@ -17219,6 +17218,7 @@ bubingas
 blepharolithiasis
 bridget
 bumblepuppy
+beanos
 bedriveled
 bullrush
 barriness
