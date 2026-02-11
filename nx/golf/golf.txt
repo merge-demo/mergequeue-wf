@@ -8992,7 +8992,6 @@ girned
 gabion
 goldtit
 geognosist
-goodyness
 gazeless
 glory
 goodyear
@@ -10761,6 +10760,7 @@ generation
 gutbucket
 gonfalonierate
 gams
+goodyness
 graecophil
 gloam
 graminin
