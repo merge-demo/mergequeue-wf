@@ -6011,7 +6011,6 @@ foggers
 flatwash
 fezziwig
 foreworld
-featherweed
 floodgates
 foolhardily
 fusillade
@@ -7360,6 +7359,7 @@ foreimagine
 falsies
 florilage
 fallibilism
+featherweed
 freshment
 femereil
 fergus
