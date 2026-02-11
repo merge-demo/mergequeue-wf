@@ -1484,6 +1484,7 @@ dictyogen
 decidual
 dracma
 dismarshall
+decimal
 discophorous
 dcb
 deaccessioning
@@ -6734,7 +6735,6 @@ dumpty
 didascalar
 doubly
 dissogeny
-decimal
 decollating
 desolations
 dividingly
