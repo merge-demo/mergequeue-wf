@@ -3310,7 +3310,6 @@ adagios
 angiocarpy
 auscultoscope
 aftercataract
-aristolochiaceous
 archilochian
 ardhamagadhi
 acetite
@@ -6600,6 +6599,7 @@ anseres
 anc
 arefaction
 ambrology
+aristolochiaceous
 ash
 amorphophyte
 aimless
