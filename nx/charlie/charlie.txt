@@ -1731,7 +1731,6 @@ calotermes
 calotype
 cyclodiolefine
 calotypic
-calotypist
 crossbolt
 congratulated
 cryptovalency
@@ -20876,6 +20875,7 @@ caudodorsal
 composant
 cryptoclastic
 composed
+calotypist
 cacocholia
 canst
 composer
