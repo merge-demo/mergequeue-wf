@@ -2544,7 +2544,6 @@ dysphagia
 debonairness
 declines
 declining
-diaphyses
 driddle
 declivent
 derive
@@ -16637,6 +16636,7 @@ dottedness
 depressor
 destigmatize
 deeny
+diaphyses
 drains
 drageoir
 denda
