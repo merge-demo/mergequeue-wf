@@ -2518,7 +2518,6 @@ agamobia
 allozooid
 acomous
 actins
-atomics
 ascidiform
 amania
 albumean
@@ -23412,6 +23411,7 @@ audiology
 acca
 audiologies
 aliquid
+atomics
 anconitis
 awaited
 antitwilight
