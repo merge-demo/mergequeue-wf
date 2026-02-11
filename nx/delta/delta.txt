@@ -4115,6 +4115,7 @@ doctrinization
 dishonourable
 delisk
 dama
+domiciliation
 dispowder
 delit
 demonstratorship
@@ -5762,7 +5763,6 @@ disjoint
 dilemi
 descriptor
 decasualizing
-domiciliation
 diplanetism
 djerib
 depolymerize
