@@ -6960,7 +6960,6 @@ ectocardia
 estruses
 endometria
 evaporable
-embelif
 epiblema
 epitrchelia
 exarchal
@@ -8845,6 +8844,7 @@ enterozoan
 efflorescency
 ekename
 equidistant
+embelif
 expatiatory
 enlightens
 effectuate
