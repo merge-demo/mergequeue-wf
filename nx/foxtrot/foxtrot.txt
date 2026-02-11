@@ -301,7 +301,6 @@ footpounds
 firbolg
 ferijee
 frostnipped
-flagarie
 flowable
 fissle
 feignedness
@@ -5946,6 +5945,7 @@ flinted
 forehear
 ferrichloride
 furnishings
+flagarie
 flocculent
 flushes
 ferroelectric
