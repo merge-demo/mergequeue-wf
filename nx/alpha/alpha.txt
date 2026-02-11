@@ -3522,7 +3522,6 @@ antics
 avestan
 apostles
 addressers
-anilities
 assignment
 anhydrization
 antthrush
@@ -11793,6 +11792,7 @@ apishly
 angraecum
 anacard
 astrolabes
+anilities
 archai
 antimonopolism
 aissaoua
