@@ -602,6 +602,7 @@ dearth
 damnificatus
 disoccupation
 drapable
+dobos
 debarration
 depolarizer
 dialectologies
@@ -14804,7 +14805,6 @@ dockhand
 dockhouse
 dilambdodont
 docking
-dobos
 dockland
 doublehandedly
 dominica
