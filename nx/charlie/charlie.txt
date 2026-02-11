@@ -2457,7 +2457,6 @@ cancha
 canchalagua
 celure
 citrins
-cherubically
 cancionero
 canciones
 chloritoid
@@ -20840,6 +20839,7 @@ cerebropontile
 compoed
 cabiri
 citriculture
+cherubically
 compoer
 compone
 componency
