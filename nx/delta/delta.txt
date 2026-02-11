@@ -4639,7 +4639,6 @@ disbursals
 dualisms
 deliming
 directeur
-dryopithecid
 disprobative
 deus
 dismantle
@@ -14037,6 +14036,7 @@ deterge
 database
 dibromide
 dodecaphonist
+dryopithecid
 depersonalizing
 deconsideration
 desmoid
