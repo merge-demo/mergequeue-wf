@@ -952,6 +952,7 @@ afterhold
 amazons
 azoflavine
 assents
+antennule
 absorpt
 absorptiometer
 allegeable
@@ -9592,7 +9593,6 @@ alphatoluic
 amitate
 asepalous
 aphthonite
-antennule
 asonia
 anglicans
 anecdotist
