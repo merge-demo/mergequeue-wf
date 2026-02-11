@@ -8179,6 +8179,7 @@ bivalencies
 bateaux
 bushlet
 bullying
+branchi
 bridgeable
 bieldy
 bellicoseness
@@ -15610,7 +15611,6 @@ bephrase
 btry
 bristlelike
 brigander
-branchi
 bondfolk
 beingless
 boonk
