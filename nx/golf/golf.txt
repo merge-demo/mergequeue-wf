@@ -3511,7 +3511,6 @@ guberla
 gaufre
 grisgris
 gagman
-gewgaws
 gametogenesis
 grouchier
 glace
@@ -6163,6 +6162,7 @@ glamorousness
 goalpost
 gon
 goanna
+gewgaws
 grandmontine
 gushiness
 goniatites
