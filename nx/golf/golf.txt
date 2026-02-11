@@ -502,6 +502,7 @@ gyrowheel
 gluten
 gast
 galipoidin
+gymnodont
 gotiglacial
 geissolomataceae
 golland
@@ -1198,7 +1199,6 @@ galapago
 gastrotricha
 gorbit
 gargalize
-gymnodont
 gluteoinguinal
 gadded
 gleetier
