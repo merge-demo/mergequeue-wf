@@ -12105,7 +12105,6 @@ ancestry
 autocue
 analects
 allodge
-asgard
 andaman
 autobiographic
 arctian
@@ -16059,6 +16058,7 @@ ajowans
 apyretic
 articling
 apomictic
+asgard
 aril
 antiseptic
 acetylcarbazole
