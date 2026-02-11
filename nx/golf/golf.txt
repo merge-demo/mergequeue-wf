@@ -1311,7 +1311,6 @@ grandparentage
 geoisotherm
 grimier
 gested
-gheleem
 gieing
 gunky
 guideline
@@ -10772,6 +10771,7 @@ gutt
 greenbrier
 gourmandism
 garotes
+gheleem
 grapheme
 gung
 genialness
