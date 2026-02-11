@@ -9912,6 +9912,7 @@ chemotactic
 cresylene
 coenamors
 chemotaxy
+cutlasses
 collocatory
 controls
 chemotherapeutical
@@ -31837,7 +31838,6 @@ cutises
 cutiterebra
 carabaos
 coloss
-cutlasses
 congealed
 cutlassfishes
 confusive
