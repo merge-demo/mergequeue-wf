@@ -3583,7 +3583,6 @@ gabarit
 gnomelike
 glyphs
 glutinose
-gyrocar
 gatewaymen
 galyac
 gnathobdellae
@@ -4665,6 +4664,7 @@ ghostily
 geta
 gerbilles
 greensand
+gyrocar
 gossoon
 ghettos
 glassin

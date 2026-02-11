@@ -5068,7 +5068,6 @@ frugalism
 farrage
 funge
 foxhound
-fusillade
 factordom
 flankers
 frisado
@@ -6017,6 +6016,7 @@ foreworld
 featherweed
 floodgates
 foolhardily
+fusillade
 fraudlessness
 furrieries
 fossilify
