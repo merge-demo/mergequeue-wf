@@ -3963,6 +3963,7 @@ fiftypenny
 fullest
 fonded
 foreclosure
+finnicky
 flaxdrop
 fetches
 foeniculum
@@ -11503,7 +11504,6 @@ fastest
 fishbowls
 flouncy
 fusariose
-finnicky
 forril
 fopperly
 fanfold
