@@ -4712,7 +4712,6 @@ ecstrophy
 esthematology
 epsom
 exogamies
-escot
 ensulphur
 electroencephalographs
 entrammel
@@ -10395,6 +10394,7 @@ ellagic
 ethnogeographically
 ethylamime
 ethnopsychology
+escot
 ecliptics
 excitometabolic
 equiponderate
