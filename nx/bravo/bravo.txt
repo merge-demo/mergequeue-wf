@@ -229,7 +229,6 @@ bestowable
 bdellid
 betonica
 bactrites
-brimfullness
 bathyanesthesia
 bachelorette
 beforesaid
@@ -2489,6 +2488,7 @@ bareheadedness
 bareknuckled
 beebee
 bellabella
+brimfullness
 bipartisan
 barnacled
 blustery
