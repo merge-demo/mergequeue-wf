@@ -383,7 +383,6 @@ gispin
 galaxias
 gymmal
 ghostfishes
-golly
 glomeration
 geocentricism
 greatcoated
@@ -5406,6 +5405,7 @@ gadidae
 galleria
 grimmer
 galopade
+golly
 glum
 glimmeringly
 garveys
