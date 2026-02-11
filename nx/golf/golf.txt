@@ -3329,6 +3329,7 @@ gids
 gaging
 geodiatropism
 galvanic
+giantlike
 geographism
 genion
 goshen
@@ -3765,7 +3766,6 @@ gapping
 goggle
 geodist
 gaub
-giantlike
 gherao
 gorgio
 governing
