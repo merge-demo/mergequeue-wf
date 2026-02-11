@@ -848,6 +848,7 @@ bleachs
 bowie
 bloody
 bunters
+buyable
 balafo
 begoniaceae
 bauxites
@@ -5378,7 +5379,6 @@ bugbanes
 bacteriogenic
 bonace
 blueweed
-buyable
 benzaldiphenyl
 bromobenzene
 barodynamic
