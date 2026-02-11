@@ -7330,6 +7330,7 @@ echeneidid
 eclats
 endothorax
 ennage
+evase
 eosinophile
 edifying
 emptyhearted
@@ -14048,7 +14049,6 @@ electroergometer
 esmeralda
 exch
 ecclesiasticalism
-evase
 equaled
 escoting
 eyeline
