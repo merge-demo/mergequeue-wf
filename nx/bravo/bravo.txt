@@ -5033,7 +5033,6 @@ beblear
 bookmaking
 braunschweiger
 bookselling
-byliners
 branchiform
 breakwaters
 beetles
@@ -8591,6 +8590,7 @@ bridgeport
 boweries
 bankrider
 bastinading
+byliners
 billety
 billets
 bojo
