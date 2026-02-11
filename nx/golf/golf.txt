@@ -4849,7 +4849,6 @@ gagelike
 gilour
 gunnen
 gryph
-guaranine
 gallybagger
 guttersnipe
 guessed
@@ -8811,6 +8810,7 @@ galleys
 gallus
 globate
 griege
+guaranine
 grunting
 guatemalans
 girrit
