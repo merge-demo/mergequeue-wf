@@ -11418,7 +11418,6 @@ amutter
 amuze
 advertisable
 apogamously
-amuzzle
 amphigastria
 anabantid
 aeneus
@@ -20671,6 +20670,7 @@ arthrospore
 arthrostome
 arthrostomy
 amelioration
+amuzzle
 avigation
 almohade
 aboideaus
