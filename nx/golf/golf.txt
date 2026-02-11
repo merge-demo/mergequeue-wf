@@ -5602,6 +5602,7 @@ graminaceae
 geotectonics
 glochid
 garnice
+gemuti
 gradable
 glottochronological
 geophilidae
@@ -8551,7 +8552,6 @@ geodetical
 gusla
 garse
 germaneness
-gemuti
 grinderman
 gravicembalos
 gravida
