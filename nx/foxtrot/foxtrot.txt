@@ -2704,7 +2704,6 @@ feasing
 ferular
 frondage
 ferulic
-froggy
 fitzclarence
 foldure
 feeler
@@ -9577,6 +9576,7 @@ flawn
 freaks
 fractions
 frondless
+froggy
 founts
 fermenter
 freckle
