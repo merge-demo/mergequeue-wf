@@ -3569,6 +3569,7 @@ foeless
 furify
 followers
 frayed
+flanges
 fly
 fissipalmation
 flexuoseness
@@ -8473,7 +8474,6 @@ fevergum
 furiant
 featherfew
 feasibilities
-flanges
 funditores
 fortin
 frailer
