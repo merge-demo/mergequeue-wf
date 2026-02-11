@@ -1524,7 +1524,6 @@ exposal
 euphenics
 etui
 epizootically
-echolocation
 effused
 extemporaneously
 exonarthex
@@ -13002,6 +13001,7 @@ eucharises
 elytroid
 embathe
 expectedness
+echolocation
 ermanaric
 emulsoid
 explode
