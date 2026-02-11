@@ -2816,6 +2816,7 @@ freshener
 finlander
 flattops
 faunae
+flustery
 ficus
 fluidly
 fractionization
@@ -10965,7 +10966,6 @@ flattered
 figent
 forerunning
 fusicladium
-flustery
 faipule
 focaloid
 fiking
