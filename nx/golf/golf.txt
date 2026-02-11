@@ -1735,7 +1735,7 @@ gastropneumonic
 gootee
 gravewards
 glutter
-gymnoglossa
+gymnoglossa 1
 ghrush
 graniticoline
 gynopara
