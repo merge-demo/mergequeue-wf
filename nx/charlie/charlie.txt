@@ -4047,7 +4047,6 @@ carcinoid
 compartmental
 crystalloluminescence
 carcinolysin
-cycadiform
 carcinological
 carcinoma
 cauliferous
@@ -8621,6 +8620,7 @@ changer
 columbic
 changers
 cokelike
+cycadiform
 clypei
 changes
 conciliated
