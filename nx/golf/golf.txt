@@ -71,7 +71,6 @@ gnathal
 gastroenteritis
 gorsy
 goop
-glucosuria
 groupoid
 grutten
 glauber
@@ -5847,6 +5846,7 @@ glucagons
 goldfinch
 guarnerius
 genuflected
+glucosuria
 glorified
 glucoside
 goshawk
