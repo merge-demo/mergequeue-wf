@@ -2665,7 +2665,6 @@ gentilization
 grabble
 gaud
 gortonian
-ginglyform
 gipsylike
 gestae
 gynandry
@@ -9058,6 +9057,7 @@ gallium
 goshawful
 gryllos
 gaffle
+ginglyform
 grilse
 gurnard
 glossitis
