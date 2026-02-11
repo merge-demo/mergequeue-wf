@@ -4142,6 +4142,7 @@ employability
 electrovalence
 elasticity
 endocritic
+emballonurine
 employe
 edictum
 epigene
@@ -8218,7 +8219,6 @@ entrepas
 engyscope
 episcopization
 ecospecies
-emballonurine
 ethmosphenoid
 equanimity
 endoceratidae
