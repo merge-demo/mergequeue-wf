@@ -960,6 +960,7 @@ formalizer
 fillagreed
 forum
 fluoridation
+flusker
 foundership
 fizzles
 forride
@@ -3430,7 +3431,6 @@ fireshine
 foretalk
 fatwood
 fiendly
-flusker
 featurely
 fulfilment
 flatteringness
