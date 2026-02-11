@@ -2316,6 +2316,7 @@ goloe
 galopin
 graylag
 gelees
+gangplanks
 gymnocerata
 gadinic
 guilder
@@ -9675,7 +9676,6 @@ gaucheries
 griffaun
 garbill
 generals
-gangplanks
 grudging
 goldfinny
 geraniols
