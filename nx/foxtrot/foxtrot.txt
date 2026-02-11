@@ -451,7 +451,6 @@ frockmaker
 fairship
 feal
 fiberous
-fogmen
 flameholder
 fulminate
 faciendum
@@ -8920,6 +8919,7 @@ fluorometric
 flambage
 fibrousness
 foul
+fogmen
 flunkers
 foulder
 fiberizer
