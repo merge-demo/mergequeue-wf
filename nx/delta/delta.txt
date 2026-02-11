@@ -3807,7 +3807,7 @@ duncical
 deimos
 demagnetizer
 daffs
-dallan
+dallan 1
 decharm
 dizzied
 deindividualize
