@@ -6279,7 +6279,6 @@ gymnasial
 guidsire
 gastriloquous
 goodheartedly
-gloeosporium
 gansel
 goblin
 gullible
@@ -10550,6 +10549,7 @@ gallivanter
 grinderies
 grasset
 gemlike
+gloeosporium
 glucate
 gara
 grecoue
