@@ -8327,6 +8327,7 @@ afterloss
 anthrathiophene
 antilipoid
 adjusted
+antimycotic
 aljamia
 attirail
 atfalati
@@ -15433,7 +15434,6 @@ amphithecial
 antimetropia
 animadverts
 antimetropic
-antimycotic
 argyric
 achage
 allioniaceae
