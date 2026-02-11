@@ -3793,7 +3793,6 @@ guarders
 gaudily
 gaul
 glaucophane
-glazework
 gyves
 gyving
 gpcd
@@ -9759,6 +9758,7 @@ gastrogenic
 gonococcus
 gingles
 gymnasium
+glazework
 guidonian
 garbing
 gyrinus
