@@ -3678,7 +3678,6 @@ goalmouth
 gherkins
 ghostier
 galah
-gratias
 glycerolysis
 ganner
 gravimetric
@@ -7692,6 +7691,7 @@ gemellion
 gladly
 gratia
 gastropodan
+gratias
 guardhouses
 gradiometric
 goodhap
