@@ -6595,7 +6595,6 @@ floodboard
 forewords
 fierabras
 flytail
-flasque
 fellatrices
 foetid
 floccose
@@ -8029,6 +8028,7 @@ fumeless
 feloniousness
 frisked
 foppy
+flasque
 fligged
 forespeaking
 factitive
