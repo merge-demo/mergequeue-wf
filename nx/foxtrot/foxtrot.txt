@@ -5373,6 +5373,7 @@ flain
 foliolose
 fauces
 fulyie
+franklins
 flamelike
 front
 fustians
@@ -9396,7 +9397,6 @@ fence
 frails
 furniment
 foolhead
-franklins
 fiberize
 fracturable
 faffy
