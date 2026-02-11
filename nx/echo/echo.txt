@@ -1296,7 +1296,6 @@ exposition
 ethnicist
 episomal
 evaluation
-enthymeme
 ergostat
 encapsules
 eightling
@@ -6016,6 +6015,7 @@ entodermal
 eluding
 extensimeter
 emboltement
+enthymeme
 embayment
 ells
 exhaustlessly
