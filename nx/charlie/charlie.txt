@@ -25536,6 +25536,7 @@ cher
 corpn
 corpora
 corporacies
+conglutinative
 calcic
 cowichan
 corporale
@@ -25821,7 +25822,6 @@ corruptor
 cardo
 chamberdeacon
 cloudiest
-conglutinative
 chapper
 canfieldite
 corruptress
