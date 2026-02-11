@@ -4198,6 +4198,7 @@ adornation
 alodium
 apartado
 apologizers
+arrearages
 affy
 argentation
 attractor
@@ -16827,7 +16828,6 @@ acatalepsy
 apically
 apices
 aphislion
-arrearages
 accomplices
 apicitis
 alimentive
