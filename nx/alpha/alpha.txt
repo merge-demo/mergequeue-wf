@@ -5204,7 +5204,6 @@ asiaticism
 affirmably
 aplysia
 achaetous
-aistopodes
 arnica
 assisan
 agency
@@ -16504,6 +16503,7 @@ aspires
 assumably
 arumlike
 acarology
+aistopodes
 apagogically
 apagogue
 anticorrosive

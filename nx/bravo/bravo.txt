@@ -12217,6 +12217,7 @@ bureaucracies
 begowk
 barbitos
 banister
+bumblebomb
 biclinium
 blaff
 badrans
@@ -12342,7 +12343,6 @@ bomb
 bombacaceae
 bombardiers
 beggary
-bumblebomb
 bombardman
 baseborn
 burrfishes
