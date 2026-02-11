@@ -4392,7 +4392,6 @@ caricatura
 caricatural
 caricature
 chud
-caricaturing
 caricaturist
 contaminator
 cooptation
@@ -23820,6 +23819,7 @@ concordity
 contrivable
 contrivances
 coaming
+caricaturing
 contrive
 curds
 contrived
