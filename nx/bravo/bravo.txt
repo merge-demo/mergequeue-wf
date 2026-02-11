@@ -5141,7 +5141,6 @@ bombshells
 beflour
 bogach
 beflowered
-beguile
 barbastel
 batoid
 benzdioxazine
@@ -16512,6 +16511,7 @@ borneo
 byrling
 bipyramid
 butea
+beguile
 brushpopper
 brushwood
 brushwork
