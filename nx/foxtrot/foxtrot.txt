@@ -4810,7 +4810,6 @@ fulldo
 foxberries
 flammiferous
 flog
-fluing
 follower
 flambeaux
 furloughing
@@ -10814,6 +10813,7 @@ foredestined
 fleeten
 fidgeter
 femicide
+fluing
 feudalising
 furandi
 freesilverite

@@ -5478,7 +5478,6 @@ barrier
 behooves
 borages
 bitonal
-bacterioprotein
 backiebird
 beatless
 barbellulate
@@ -18073,6 +18072,7 @@ briguer
 but
 beroll
 booklet
+bacterioprotein
 boatsman
 barrancos
 bimastic
