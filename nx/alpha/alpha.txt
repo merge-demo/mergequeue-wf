@@ -2238,6 +2238,7 @@ aerosolizing
 anent
 achromatope
 autodecrement
+adaptor
 achromatophilia
 achromatopsy
 apologizes
@@ -7454,7 +7455,6 @@ alnitham
 albuminising
 albuminize
 amalgamatize
-adaptor
 albuminofibrin
 abstract
 activin
