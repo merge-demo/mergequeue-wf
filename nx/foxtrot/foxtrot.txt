@@ -1426,6 +1426,7 @@ firewood
 fumets
 fra
 fourteener
+fusing
 folderols
 ferreted
 follow
@@ -2260,7 +2261,6 @@ filamentiferous
 fantails
 folktale
 forbite
-fusing
 fracturs
 forks
 favorite
