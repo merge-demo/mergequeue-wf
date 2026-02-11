@@ -5534,6 +5534,7 @@ cabler
 commorancy
 catabolin
 caustified
+cropsick
 catabolism
 catabolized
 cariousness
@@ -29792,7 +29793,6 @@ croppy
 cropping
 crops
 cropshin
-cropsick
 cropweed
 casekeeper
 criminalese
