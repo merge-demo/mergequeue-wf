@@ -4781,6 +4781,7 @@ fatnesses
 forelooper
 furfuroid
 feedwater
+forgettable
 fulgor
 frises
 fridila
@@ -10496,7 +10497,6 @@ fwd
 fisted
 foreskirt
 flche
-forgettable
 frontstall
 forstall
 frizes
