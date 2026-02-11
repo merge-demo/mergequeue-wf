@@ -8340,7 +8340,6 @@ gypsydom
 gladnesses
 gazelle
 greenslade
-gracefulness
 generalizeable
 gobber
 greyer
@@ -10259,6 +10258,7 @@ gratifies
 galv
 garnel
 gote
+gracefulness
 gervase
 guarantorship
 growlier
