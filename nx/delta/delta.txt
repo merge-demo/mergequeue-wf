@@ -2356,7 +2356,6 @@ deaconry
 dillweed
 decanate
 dysgenesis
-demoniac
 divise
 dechlorinated
 diplographic
@@ -13659,6 +13658,7 @@ degradation
 dissiliency
 dissilient
 dolichurus
+demoniac
 dreparnaudia
 dermatobia
 dictaphones
