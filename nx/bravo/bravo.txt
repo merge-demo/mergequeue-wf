@@ -4975,6 +4975,7 @@ beekeepers
 baya
 botchily
 beekeeping
+bettas
 bosher
 bassos
 beelzebul
@@ -5652,7 +5653,6 @@ belaying
 bingo
 bogie
 belam
-bettas
 brabblement
 bartering
 boatloader
