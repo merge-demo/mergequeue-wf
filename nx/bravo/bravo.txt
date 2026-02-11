@@ -5802,7 +5802,6 @@ bromocyanide
 becrawling
 backie
 bombyliidae
-batfish
 bimetallism
 berengelite
 boastings
@@ -11542,6 +11541,7 @@ blameworthiness
 boswellism
 benztrioxazine
 bleu
+batfish
 buckaroos
 blunket
 blunnen
