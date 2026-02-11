@@ -3167,7 +3167,6 @@ cummin
 chromid
 capelin
 cornette
-capeline
 chondrocele
 crocked
 capella
@@ -27429,6 +27428,7 @@ cousinhood
 cataphrenic
 centesimation
 chlorosulphonic
+capeline
 curupira
 cousinry
 cousinries
