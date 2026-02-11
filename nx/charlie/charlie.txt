@@ -18697,7 +18697,6 @@ cointerest
 cointerred
 cointersecting
 cointreau
-coinvolve
 coyo
 coyol
 coyos
@@ -24659,6 +24658,7 @@ clothmaking
 copperases
 caseworker
 creneled
+coinvolve
 corollaceous
 commelinaceae
 cola
