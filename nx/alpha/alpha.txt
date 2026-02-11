@@ -847,6 +847,7 @@ ambiguities
 agaves
 araeotic
 albright
+antipode
 assertors
 aerosols
 acesodyne
@@ -15814,7 +15815,6 @@ antiplurality
 antiprotozoal
 almander
 antipodal
-antipode
 antipodic
 autocoprophagous
 argufied
