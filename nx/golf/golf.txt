@@ -789,7 +789,6 @@ goban
 geonegative
 gobemouche
 glockenspiel
-goethe
 guaraunan
 gymnoblastic
 gilberts
@@ -3559,6 +3558,7 @@ grids
 ganglions
 gymnorhina
 grugru
+goethe
 ghettoizes
 geogony
 galloon
