@@ -101,7 +101,6 @@ abarticulation
 abase
 asap
 alexins
-apyrene
 abret
 abasers
 abashed
@@ -8019,6 +8018,7 @@ acronycally
 aborted
 antiholiday
 algal
+apyrene
 alkoran
 algalia
 aeolididae
