@@ -5493,7 +5493,6 @@ casualist
 casuals
 casuariiformes
 chloramide
-civetlike
 chersydridae
 casuarius
 carpellary
@@ -7458,6 +7457,7 @@ conventicles
 cephalothoraxes
 corozo
 chippering
+civetlike
 commands
 chauk
 cephalotractor
