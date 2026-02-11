@@ -7231,7 +7231,7 @@ decussorium
 desulfurize
 drammocks
 detenues
-detonatable
+detonatable 1
 dephlegmator
 deterged
 dilettantship
