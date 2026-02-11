@@ -4602,7 +4602,6 @@ aedicule
 attraction
 anallantoidean
 autem
-aedile
 adject
 aediles
 aknee
@@ -18670,6 +18669,7 @@ archbishopric
 arrases
 acroamata
 awhet
+aedile
 archbotcher
 aretes
 alerts
