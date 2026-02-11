@@ -10638,6 +10638,7 @@ amyris
 abattis
 amyrol
 amyroot
+artificial
 allodiaries
 achen
 alodiary
@@ -20755,7 +20756,6 @@ appropriately
 arbalests
 acanthad
 aerobiology
-artificial
 adverted
 acridophagus
 am
