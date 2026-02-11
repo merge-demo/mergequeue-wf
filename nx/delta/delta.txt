@@ -5492,7 +5492,6 @@ departer
 downgrowth
 devastated
 diadochokinetic
-deticking
 disunion
 dextrorotation
 denotement
@@ -12129,6 +12128,7 @@ daisies
 destemper
 drusedom
 dipodomyinae
+deticking
 dividableness
 dewworm
 dysepulotical
