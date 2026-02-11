@@ -10203,7 +10203,7 @@ falchions
 flibbertigibbet
 forjudges
 furcule
-friation
+friation 1
 frivolousness
 foray
 fertilizational
