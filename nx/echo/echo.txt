@@ -1156,7 +1156,6 @@ epitrichial
 encatarrhaphy
 erichthoid
 ejectee
-expressionable
 enarm
 evaporating
 epacts
@@ -11856,6 +11855,7 @@ ethenoidal
 epilobe
 ectothermic
 elargement
+expressionable
 exists
 exauthorizeexc
 eplot
