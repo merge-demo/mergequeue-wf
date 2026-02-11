@@ -3318,7 +3318,6 @@ gutterlike
 gang
 grooverhead
 goniums
-glossologies
 gerundial
 guastalline
 gekkota
@@ -6887,6 +6886,7 @@ geographer
 geneserine
 gurges
 gulosity
+glossologies
 gaoling
 goodishness
 gelechiidae
