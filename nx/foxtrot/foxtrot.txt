@@ -2630,7 +2630,6 @@ farish
 formalistic
 fulgurator
 finebent
-foredeclare
 faltboat
 filigreed
 ferio
@@ -11620,6 +11619,7 @@ frolicsomely
 fluidounce
 flapdragon
 fortissimi
+foredeclare
 fervidly
 foretaster
 fibrous
