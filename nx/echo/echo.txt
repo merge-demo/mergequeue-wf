@@ -584,6 +584,7 @@ echinodorus
 est
 epixylous
 excerpt
+epaxial
 endotheliotoxin
 echinoid
 engulfs
@@ -13226,7 +13227,6 @@ esparto
 eurithermophilic
 ervil
 exponentiation
-epaxial
 ermined
 exotica
 entwinement
