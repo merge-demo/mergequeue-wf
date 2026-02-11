@@ -1844,7 +1844,6 @@ fowler
 flabellation
 fizzes
 fatuously
-fec
 feelingly
 fianchetti
 feture
@@ -10723,6 +10722,7 @@ fontally
 fitfully
 fleckered
 fortunel
+fec
 faradays
 fartlek
 fortran
