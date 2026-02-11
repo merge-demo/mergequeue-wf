@@ -3696,7 +3696,6 @@ embraid
 embrail
 ellick
 emotionalised
-enascent
 eudaemonize
 elfkin
 einkanter
@@ -7224,6 +7223,7 @@ extensibleness
 exarchies
 extraequilibrium
 enwallow
+enascent
 eunomianism
 earthshine
 endymion
