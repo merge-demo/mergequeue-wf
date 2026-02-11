@@ -5824,7 +5824,6 @@ favorers
 furnage
 fungistatic
 frequentation
-firring
 fels
 figureheadless
 fisher
@@ -7710,6 +7709,7 @@ filberts
 foreturn
 flotter
 farreation
+firring
 fontanel
 forehoofs
 forehooves
