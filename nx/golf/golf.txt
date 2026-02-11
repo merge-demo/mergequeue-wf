@@ -4090,7 +4090,6 @@ glutamine
 gettysburg
 genuflections
 glossem
-glosts
 gizmos
 girandole
 genetor
@@ -10066,6 +10065,7 @@ grabens
 glossophobia
 gumshoed
 gobbe
+glosts
 geomyidae
 grakle
 gonomere
