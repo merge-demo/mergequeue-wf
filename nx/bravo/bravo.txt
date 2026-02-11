@@ -959,6 +959,7 @@ brownout
 barrenest
 bagwork
 birmingham
+blousier
 bahadur
 bahaist
 bankings
@@ -1071,7 +1072,6 @@ bedelve
 burfish
 bouse
 becost
-blousier
 burghal
 borosalicylate
 blennioidea
