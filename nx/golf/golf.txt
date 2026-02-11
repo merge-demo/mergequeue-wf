@@ -2736,7 +2736,6 @@ gentianella
 gadhelic
 grabbled
 garbs
-gypsuming
 gelotometer
 ginnery
 glassie
@@ -9697,6 +9696,7 @@ gestureless
 guamuchil
 gamogony
 gibuses
+gypsuming
 gowdie
 gascons
 goldfields
