@@ -6340,6 +6340,7 @@ acrogamy
 agrostography
 antivenom
 axoneme
+autoist
 armiger
 agrostologic
 attempering
@@ -6959,7 +6960,6 @@ adoniram
 adductive
 avick
 aphyllous
-autoist
 amsterdam
 aquench
 axolotl
