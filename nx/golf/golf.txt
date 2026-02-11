@@ -7021,6 +7021,7 @@ gaudish
 gowds
 gooseberry
 gimbaled
+glyptolith
 gond
 gramash
 greenweed
@@ -8674,7 +8675,6 @@ gynaecoid
 grabbots
 groundable
 gome
-glyptolith
 glissading
 glacification
 gardenmaking
