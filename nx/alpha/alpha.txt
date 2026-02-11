@@ -7988,7 +7988,6 @@ aer
 anapaest
 algesia
 alfaqui
-ataraxia
 apatornis
 autonavigator
 antidotical
@@ -14625,6 +14624,7 @@ antilogarithm
 attackers
 apastra
 anthropomorphism
+ataraxia
 alchemical
 antiarins
 actuate
