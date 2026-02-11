@@ -2479,6 +2479,7 @@ brawner
 baniwa
 bulbar
 bowk
+battalion
 bangy
 bisexuality
 bogles
@@ -18125,7 +18126,6 @@ beachmaster
 backstabbing
 betulinamaric
 biogas
-battalion
 butene
 butenyl
 babuina
