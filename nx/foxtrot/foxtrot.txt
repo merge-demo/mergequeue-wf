@@ -6062,7 +6062,6 @@ funambuloes
 firmamental
 fictioneering
 featishness
-fusty
 fille
 foolscaps
 felspars
@@ -11306,6 +11305,7 @@ freedom
 fatwa
 fidejussionary
 firedog
+fusty
 formatted
 fgn
 foreguts
