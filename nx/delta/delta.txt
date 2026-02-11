@@ -2046,7 +2046,6 @@ degamis
 dayward
 decahedrons
 dominical
-decahydronaphthalene
 drinkability
 developments
 dephlegmatory
@@ -4276,6 +4275,7 @@ demagogical
 doli
 derailed
 dura
+decahydronaphthalene
 descriers
 diseducate
 demagoguery

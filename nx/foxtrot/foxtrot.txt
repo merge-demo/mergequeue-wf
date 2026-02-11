@@ -6138,6 +6138,7 @@ featurelessness
 fraser
 firefighters
 fructoside
+flamefishes
 feedstuffs
 flamethrower
 flunky
@@ -8636,7 +8637,6 @@ farmyard
 foredid
 figurately
 ferretto
-flamefishes
 finnochio
 functionate
 fingerfishes
