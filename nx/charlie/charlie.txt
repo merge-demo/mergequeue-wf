@@ -16681,6 +16681,7 @@ closuring
 clot
 centronucleus
 compatriotism
+comparator
 clotbur
 curative
 carpetbeater
@@ -29178,7 +29179,6 @@ cryoscopy
 colloblast
 cowishness
 candock
-comparator
 cityless
 chanfron
 colicolitis
