@@ -5486,6 +5486,7 @@ chewie
 cylindrenchema
 castrati
 compendent
+cyborgs
 castrensial
 castrum
 canister
@@ -6959,7 +6960,6 @@ chlorobromomethane
 charros
 cementer
 cementification
-cyborgs
 cementin
 chieftainries
 carane
