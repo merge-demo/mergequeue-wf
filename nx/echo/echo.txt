@@ -5784,6 +5784,7 @@ engrammes
 explorate
 eyot
 emptied
+eveweed
 emoted
 ependymitis
 epoch
@@ -8506,7 +8507,6 @@ elkhorn
 earpiece
 eroticomaniacal
 envolume
-eveweed
 ethmosphenoidal
 epithelium
 erth
