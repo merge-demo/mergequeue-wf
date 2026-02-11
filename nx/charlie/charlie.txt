@@ -25458,6 +25458,7 @@ corollary
 centrosymmetric
 chastens
 cervicohumeral
+coccoids
 corollarial
 corollarially
 callionymus
@@ -25759,7 +25760,6 @@ corroders
 cneoraceae
 chilostoma
 cohos
-coccoids
 corrody
 celloist
 chemopause
