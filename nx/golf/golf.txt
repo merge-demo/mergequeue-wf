@@ -2394,6 +2394,7 @@ goaled
 gripman
 guiac
 gummose
+ghoom
 gemmological
 glade
 goalkeeping
@@ -9910,7 +9911,6 @@ guanin
 geisha
 granate
 glandered
-ghoom
 gradationally
 glycerose
 gamasid
