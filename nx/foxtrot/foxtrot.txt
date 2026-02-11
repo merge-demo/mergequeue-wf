@@ -4802,6 +4802,7 @@ furtherest
 ficche
 floorward
 feuillage
+felsobanyite
 filmizing
 fortlet
 functionalize
@@ -8132,7 +8133,6 @@ freedmen
 foretellers
 forethrift
 fusel
-felsobanyite
 flatfish
 farmland
 furtive
