@@ -471,7 +471,6 @@ gemmingia
 gasifiers
 grunions
 gelatin
-gye
 glaucodot
 grama
 ghostism
@@ -7802,6 +7801,7 @@ glenoidal
 girnal
 ghalva
 glacial
+gye
 gipseian
 greeny
 germless
