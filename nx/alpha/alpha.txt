@@ -16755,7 +16755,6 @@ annunciators
 autohemotherapy
 archbancs
 aftermark
-alle
 anginal
 antifrictional
 abscoulomb
@@ -17719,6 +17718,7 @@ approve
 accessioned
 applicableness
 asilid
+alle
 aristarchian
 atmostea
 amylogenesis
