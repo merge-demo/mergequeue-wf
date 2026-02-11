@@ -529,7 +529,6 @@ cadettes
 colorists
 cornucopias
 coprecipitating
-clogmaker
 carbuilder
 cacao
 chirrups
@@ -10433,6 +10432,7 @@ conhydrin
 capiases
 coextension
 chylaceous
+clogmaker
 chilalgia
 consult
 chilaria
