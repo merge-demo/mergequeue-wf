@@ -18436,7 +18436,7 @@ calpulli
 corporal
 concomitate
 cognisant
-coarct
+coarct 1
 crook
 cirrolite
 cognised
