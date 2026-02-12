@@ -5143,7 +5143,7 @@ electroosmotic
 epiclinal
 euphorbiaceae
 extrapolate
-ensorceling
+ensorceling 1
 exflagellate
 endoenzyme
 epitrochoid
