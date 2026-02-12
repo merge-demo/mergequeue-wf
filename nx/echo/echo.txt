@@ -6991,7 +6991,7 @@ elbowpiece
 encradle
 etacism
 entoprocta
-expergefaction
+expergefaction 1
 entoptic
 entoptics
 epiphytous
