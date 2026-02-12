@@ -3032,7 +3032,7 @@ barrister
 blackey
 buat
 bordures
-bethanked
+bethanked 1
 barroom
 bedumb
 barsac
