@@ -1645,7 +1645,7 @@ fuddledness
 folksong
 fingerstone
 flemer
-frizzen
+frizzen 1
 forgrow
 fluoridizing
 fiendful
