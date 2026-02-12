@@ -13563,7 +13563,7 @@ apodan
 anesthesia
 abeam
 abolition
-affectuous
+affectuous 1
 annuler
 antefurcae
 allosaur
