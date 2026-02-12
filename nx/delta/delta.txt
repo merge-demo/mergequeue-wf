@@ -4353,7 +4353,7 @@ disaffiliation
 disallowableness
 dragonet
 diphtheritis
-dunkled
+dunkled 1
 demissory
 dutch
 digenous
