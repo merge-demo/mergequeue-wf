@@ -10637,7 +10637,7 @@ fusht
 famular
 friskiness
 floggers
-flucan
+flucan 1
 fattish
 forefend
 feis
