@@ -5952,7 +5952,7 @@ flagarie
 flocculent
 flushes
 ferroelectric
-forearm
+forearm 1
 frogged
 ferroelectrically
 famacide
