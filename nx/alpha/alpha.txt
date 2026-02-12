@@ -17531,7 +17531,7 @@ availing
 ashlars
 amphitheatrically
 alcedo
-alunite
+alunite 1
 alkalifying
 airlift
 apotihecal
