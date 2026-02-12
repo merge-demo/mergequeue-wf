@@ -5571,7 +5571,7 @@ goutier
 guzmania
 greenroom
 glucaemia
-gumming
+gumming 1
 gripless
 grantia
 glaieul
