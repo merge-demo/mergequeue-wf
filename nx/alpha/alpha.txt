@@ -21431,7 +21431,7 @@ acyclically
 asper
 ambrosterol
 amnesties
-asperate
+asperate 1
 artefact
 adrenalectomy
 anosmias
