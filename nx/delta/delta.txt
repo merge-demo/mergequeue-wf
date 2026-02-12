@@ -4571,7 +4571,7 @@ dialectologist
 deperming
 disgust
 dinarchy
-dackers
+dackers 1
 demipique
 disinhume
 depersonalized
