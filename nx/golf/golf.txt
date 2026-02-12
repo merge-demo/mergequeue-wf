@@ -6139,7 +6139,7 @@ gamasoidea
 glandiferous
 givens
 grader
-glistened
+glistened 1
 giraffes
 goliaths
 gages
