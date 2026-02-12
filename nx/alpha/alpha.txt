@@ -20064,7 +20064,7 @@ angulodentate
 anaphoras
 apophyses
 anastate
-ambrosial
+ambrosial 1
 allomerizing
 albainn
 achor
