@@ -5651,7 +5651,7 @@ elaeagnaceous
 extinct
 essayist
 earthily
-eucalypts
+eucalypts 1
 exposable
 escaper
 eligibly
