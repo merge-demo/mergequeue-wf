@@ -17603,7 +17603,7 @@ anallagmatis
 appertained
 aromacity
 acrose
-appertainment
+appertainment 1
 antiagglutination
 antediluvial
 apostlehood
