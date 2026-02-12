@@ -1364,7 +1364,7 @@ amnesias
 affiliated
 atom
 aiolis
-anchoritical
+anchoritical 1
 agnized
 assidean
 arreptitious

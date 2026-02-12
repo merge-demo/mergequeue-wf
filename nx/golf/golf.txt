@@ -2152,7 +2152,7 @@ gdinfo
 golfings
 getaway
 gizzards
-genteelly
+genteelly 1
 grooviest
 gierfalcon
 galvanocauterization
