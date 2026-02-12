@@ -5583,7 +5583,7 @@ dioctophyme
 decian
 desaturation
 distichal
-demivirgin
+demivirgin 1
 depetalize
 disorganiser
 damier
