@@ -737,7 +737,7 @@ ethnogeny
 earlesss
 electary
 enchronicle
-endostracal
+endostracal 1
 eradicative
 earthed
 epidermous
