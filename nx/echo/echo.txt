@@ -9910,7 +9910,7 @@ educible
 executes
 entoilment
 eduskunta
-epideictical
+epideictical 1
 extensionist
 electrotyper
 electromagnetics
