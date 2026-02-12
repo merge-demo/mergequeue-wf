@@ -5071,7 +5071,7 @@ biogeography
 bergeres
 bemas
 befeather
-becoming
+becoming 1
 berwick
 beeswax
 bodger
