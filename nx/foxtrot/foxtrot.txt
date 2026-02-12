@@ -2468,7 +2468,7 @@ fluitant
 falcopern
 fatigableness
 foliously
-flabile
+flabile 1
 foretellable
 finale
 foamlike
