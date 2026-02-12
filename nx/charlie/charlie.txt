@@ -19122,7 +19122,7 @@ collyrite
 cameration
 carder
 collyrium
-cedes
+cedes 1
 corrupts
 cystocyte
 collisive
