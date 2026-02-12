@@ -10782,7 +10782,7 @@ gandered
 gignitive
 gallicolous
 gorki
-gazelles
+gazelles 1
 gonopodium
 gifts
 gutterspout
