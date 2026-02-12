@@ -462,7 +462,7 @@ backspaces
 blepharocera
 backspacing
 beedged
-butteries
+butteries 1
 bergalith
 beestings
 broomier
