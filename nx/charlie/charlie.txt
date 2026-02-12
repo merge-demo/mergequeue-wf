@@ -21993,7 +21993,7 @@ coinsurable
 clinohedrite
 configurating
 crenel
-configuration
+configuration 1
 configurationally
 configurations
 configurative
