@@ -4836,7 +4836,7 @@ excitive
 epicranium
 epicalyces
 equivocality
-encountered
+encountered 1
 ensporia
 epiphylaxis
 endostea
