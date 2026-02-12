@@ -6492,7 +6492,7 @@ descendent
 dolichosoma
 delight
 devex
-diadromous
+diadromous 1
 dissevering
 drumlins
 determinate
