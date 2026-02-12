@@ -6453,7 +6453,7 @@ divariant
 decadenza
 dactylioglyph
 drupal 1
-desamidase
+desamidase 1
 demipuppet
 desands
 descale
