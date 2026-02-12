@@ -7000,7 +7000,7 @@ gossipry
 giddybrain
 gladdener
 goons
-gamostely
+gamostely 1
 glycogens
 graciles
 galactolytic
