@@ -10912,7 +10912,7 @@ chirms
 crumena
 chuddars
 chirocosmetics
-chalcidid
+chalcidid 1
 chirognomy
 cerement
 chirognomic
