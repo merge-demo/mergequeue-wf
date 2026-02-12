@@ -851,7 +851,7 @@ dihely
 dannebrog
 deedbote
 depresses
-deoxidant
+deoxidant 1
 detraque
 defatting
 defiantness
