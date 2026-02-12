@@ -857,7 +857,7 @@ endothia
 exequies
 expulsed
 essoign
-eurhythmic
+eurhythmic 1
 emendates
 ecthesis
 emmers
