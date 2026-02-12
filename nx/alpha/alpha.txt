@@ -9109,7 +9109,7 @@ atheisms
 anga
 almonage
 avertive
-almonries
+almonries 1
 angiochondroma
 acroasis
 assumpsit
