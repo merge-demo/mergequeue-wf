@@ -7935,7 +7935,7 @@ cestraction
 cestrian
 cestrum
 cesural
-cetaceans
+cetaceans 1
 cetaceum
 calpolli
 clericate
