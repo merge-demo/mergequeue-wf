@@ -5374,7 +5374,7 @@ foliolose
 fauces
 fulyie
 franklins
-flamelike
+flamelike 1
 front
 fustians
 festoons
