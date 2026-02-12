@@ -16816,7 +16816,7 @@ deflocculating
 diffidence
 demargarinate
 dispersible
-divergingly
+divergingly 1
 derrick
 disengaged
 discophile
