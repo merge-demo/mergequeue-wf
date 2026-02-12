@@ -5083,7 +5083,7 @@ etym
 ectypes
 exited
 endoclinal
-eternals
+eternals 1
 endenizen
 endocoelar
 epitomical
