@@ -5660,7 +5660,7 @@ gorilla
 gaucie
 galvanographic
 guttered
-gastrophrenic
+gastrophrenic 1
 gilbertianism
 glossalgy
 gonystylaceous
