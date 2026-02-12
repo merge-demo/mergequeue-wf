@@ -297,7 +297,7 @@ galaxes
 galactagog
 gamaliel
 genuflection
-greekism
+greekism 1
 gesneria
 garlic
 globeholder
