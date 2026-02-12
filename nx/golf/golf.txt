@@ -6265,7 +6265,7 @@ gasogenes
 ginglymus
 geodesical
 golems
-gonfalons
+gonfalons 1
 gallopade
 gnashed
 gneu
