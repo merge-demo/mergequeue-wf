@@ -10223,7 +10223,7 @@ dinitrate
 duskishly
 dinka
 diffusible
-delitescency
+delitescency 1
 desoxyanisoin
 defoaming
 despise
