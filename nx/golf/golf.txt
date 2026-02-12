@@ -6525,7 +6525,7 @@ glottalization
 gambeson
 gristmiller
 grummets
-gorevan
+gorevan 1
 gambas
 guazzo
 gadbee
