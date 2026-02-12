@@ -5997,7 +5997,7 @@ cathartides
 chevied
 cessionary
 carburized
-cathedra
+cathedra 1
 counterriposte
 cathedraled
 cathedralesque
