@@ -3274,7 +3274,7 @@ defier
 declarator
 deracinated
 dense
-denaturalisation
+denaturalisation 1
 denuded
 disregardful
 deflationary
