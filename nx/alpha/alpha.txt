@@ -542,7 +542,7 @@ awardable
 agnizes
 assarion
 ablatitious
-atavisms
+atavisms 1
 acephala
 aventre
 ablatival
