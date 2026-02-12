@@ -8252,7 +8252,7 @@ foresweat
 foretooth
 formamidine
 fianchetto
-fesse
+fesse 1
 forgeable
 forgery
 florissant
