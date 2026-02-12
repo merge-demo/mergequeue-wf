@@ -6014,7 +6014,7 @@ coverlets
 cattail
 coiffes
 chaperonless
-crabgrass
+crabgrass 1
 catheterism
 catheterization
 catapulted
