@@ -6770,7 +6770,7 @@ gatewayman
 gentlemanism
 grecize
 gelatiniform
-goodwill
+goodwill 1
 gibel
 gravilea
 gnarling
