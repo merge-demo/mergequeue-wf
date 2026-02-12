@@ -4687,7 +4687,7 @@ filippic
 fortify
 filet
 fourthly
-fatale
+fatale 1
 flyweight
 fluctiferous
 flange

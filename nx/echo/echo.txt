@@ -965,7 +965,7 @@ endocervical
 electrotonic
 exhalatory
 emplaces
-exculpatory
+exculpatory 1
 extravagated
 exarillate
 eyelashes
