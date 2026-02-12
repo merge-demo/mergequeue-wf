@@ -20069,7 +20069,7 @@ allomerizing
 albainn
 achor
 abdicative
-agatiform
+agatiform 1
 aromatophor
 aculeiform
 article
