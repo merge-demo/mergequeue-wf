@@ -9299,7 +9299,7 @@ burgaudine
 bioclimatologies
 breadstuffs
 barbarities
-batterable
+batterable 1
 biprong
 baseball
 buildup

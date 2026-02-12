@@ -19783,7 +19783,7 @@ arythmically
 aminolytic
 armado 1
 agudist
-affined
+affined 1
 ague
 acrodermatitis
 airplanes
