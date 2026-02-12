@@ -13352,7 +13352,7 @@ annaly
 allocates
 apathetic
 autopore
-adiposeness
+adiposeness 1
 authotype
 annalize
 arctician
