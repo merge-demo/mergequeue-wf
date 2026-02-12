@@ -7695,7 +7695,7 @@ guardhouses
 gradiometric
 goodhap
 gaup
-greediness
+greediness 1
 glancingly
 gemmily
 gyrus
