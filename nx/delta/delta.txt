@@ -924,7 +924,7 @@ directives
 dewed
 dc
 dures
-deserters
+deserters 1
 dogmas
 droughtiest
 diapnoic
