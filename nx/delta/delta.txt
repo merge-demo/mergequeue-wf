@@ -9916,7 +9916,7 @@ decretorial
 debarred
 dimethylsulphoxide
 dislock
-descents
+descents 1
 descendingly
 dentins
 ductilely
