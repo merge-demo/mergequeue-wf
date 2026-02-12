@@ -14251,7 +14251,7 @@ damage
 derotrematous
 disvisage
 dossing
-doublet
+doublet 1
 disvisor
 dimming
 dynamoelectric
