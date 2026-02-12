@@ -19403,7 +19403,7 @@ colorfastness
 chailletiaceae
 chymifying
 colorful
-colorfulness
+colorfulness 1
 chryslers
 contestability
 colorific
