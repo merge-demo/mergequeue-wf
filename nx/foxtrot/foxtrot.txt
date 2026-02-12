@@ -233,7 +233,7 @@ firelock
 facultatively
 faculties
 frostfish
-furfuraldehyde
+furfuraldehyde 1
 fringy
 functionaries
 flatcar
