@@ -3014,7 +3014,7 @@ gametogenous
 garnetz
 gulfiest
 gossipper
-giant
+giant 1
 gnash
 graphiter
 greensauce
