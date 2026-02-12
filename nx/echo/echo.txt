@@ -13622,7 +13622,7 @@ entification
 extemporized
 escallonia
 emendation
-epencephal
+epencephal 1
 esopgi
 expurgates
 ellipsograph
