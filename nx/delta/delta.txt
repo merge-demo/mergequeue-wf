@@ -8043,7 +8043,7 @@ dhoby
 dhobie
 djelfa
 densher
-divagatory
+divagatory 1
 dunlin
 duchesse
 dysacusia

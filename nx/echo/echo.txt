@@ -5080,7 +5080,7 @@ extraditions
 eclogites
 encephalospinal
 etym
-ectypes
+ectypes 1
 exited
 endoclinal
 eternals 1
