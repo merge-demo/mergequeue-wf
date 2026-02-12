@@ -11301,7 +11301,7 @@ fusspot
 frogmouth
 fasc
 freedom
-fatwa
+fatwa 1
 fidejussionary
 firedog
 fusty
