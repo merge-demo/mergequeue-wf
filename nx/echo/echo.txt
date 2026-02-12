@@ -1051,7 +1051,7 @@ euphonism
 escargot
 estimation
 electrobiological
-entomolite
+entomolite 1
 egoist
 edemas
 ermani
