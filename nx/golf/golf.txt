@@ -6877,7 +6877,7 @@ ganglioform
 glozed
 gadolinite
 gasting
-geographer
+geographer 1
 geneserine
 gurges
 gulosity
