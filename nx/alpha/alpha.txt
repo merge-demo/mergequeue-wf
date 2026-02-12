@@ -16836,7 +16836,7 @@ antichymosin
 antiinstitutionalist
 apicolysis
 amentulum
-apposable
+apposable 1
 archrebel
 anymore
 adequation
