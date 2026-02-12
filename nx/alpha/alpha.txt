@@ -10240,7 +10240,7 @@ adrenergic
 anticoagulants
 angolar
 alias
-almsfolk
+almsfolk 1
 aristocratically
 amerces
 amerciable
