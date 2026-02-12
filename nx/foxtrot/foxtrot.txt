@@ -8570,7 +8570,7 @@ feltwork
 fractionally
 funambulic
 formulated
-funest
+funest 1
 friaries
 famulus
 fayalite
