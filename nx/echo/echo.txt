@@ -11782,7 +11782,7 @@ emirs
 examinant
 eschewer
 effatum
-estrepe
+estrepe 1
 excommunication
 ependytes
 examinatorial
