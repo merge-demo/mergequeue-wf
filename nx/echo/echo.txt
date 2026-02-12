@@ -653,7 +653,7 @@ ey
 engrailment
 elastica
 echeneidoid
-enchant
+enchant 1
 ephesine
 enneaeteric
 evincement
