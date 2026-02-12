@@ -12490,7 +12490,7 @@ aeropleustic
 anointer
 acinetarian
 anankes
-autochthonously
+autochthonously 1
 artlet
 apomecometer
 antitrust
