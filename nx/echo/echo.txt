@@ -6000,7 +6000,7 @@ exigence
 eolithic
 electricalness
 electrodynamism
-exegesist
+exegesist 1
 exhortative
 entomophily
 ejects
