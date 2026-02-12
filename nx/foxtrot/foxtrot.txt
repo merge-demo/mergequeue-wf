@@ -1318,7 +1318,7 @@ foretopsail
 fallowness
 frictionally
 favorability
-foramination
+foramination 1
 flannelflower
 flyable
 factionally
