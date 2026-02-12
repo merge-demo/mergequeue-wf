@@ -15198,7 +15198,7 @@ ataentsic
 antigalactagogue
 ageusic
 antigambling
-arrowlike
+arrowlike 1
 argol
 aftersupper
 anacrusis
