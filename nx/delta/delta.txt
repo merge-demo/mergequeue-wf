@@ -12693,7 +12693,7 @@ departmentalizing
 dissolute
 deployable
 diffrangibility
-depurator
+depurator 1
 disleaved
 disjointure
 disepalous

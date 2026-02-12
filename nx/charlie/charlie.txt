@@ -597,7 +597,7 @@ contemporise
 cadwal
 callaesthetic
 cadwallader
-canadol
+canadol 1
 contravallation
 chartularies
 chamaeprosopic
