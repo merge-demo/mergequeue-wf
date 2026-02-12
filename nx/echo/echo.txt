@@ -8845,7 +8845,7 @@ ekename
 equidistant
 embelif
 expatiatory
-enlightens
+enlightens 1
 effectuate
 equestrial
 ensellure
