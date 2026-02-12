@@ -3665,7 +3665,7 @@ deprogrammer
 devilkins
 depreciators
 deglutition
-deglutitious
+deglutitious 1
 degold
 decathlon
 disinhibition
