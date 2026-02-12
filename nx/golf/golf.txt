@@ -3068,7 +3068,7 @@ gamesters
 goblinism
 gilder
 garnish
-gali
+gali 1
 gibbol
 geophilid
 glack
