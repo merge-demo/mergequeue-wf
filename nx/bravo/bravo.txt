@@ -13754,7 +13754,7 @@ boustrophedon
 babblers
 bircher
 banqueted
-baronies
+baronies 1
 balneatory
 boutefeu
 briefless
