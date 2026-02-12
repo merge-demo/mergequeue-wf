@@ -5487,7 +5487,7 @@ disunion
 dextrorotation
 denotement
 demoting
-directionality
+directionality 1
 dalliances
 dictatorship
 duodena
