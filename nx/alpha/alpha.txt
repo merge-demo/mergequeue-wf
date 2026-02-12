@@ -17396,7 +17396,7 @@ apothesine
 antimystically
 apotome
 apotropaically
-autocephality
+autocephality 1
 asciferous
 apotropous
 agaricine
