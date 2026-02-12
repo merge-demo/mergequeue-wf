@@ -9222,7 +9222,7 @@ categorize
 chataka
 chatchka
 croziers
-coterminal
+coterminal 1
 chatchke
 chatchkes
 chateaugray
