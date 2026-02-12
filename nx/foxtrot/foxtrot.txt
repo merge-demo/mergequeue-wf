@@ -1663,7 +1663,7 @@ frizzes
 fernticle
 fieldmice
 fragmentation
-frankers
+frankers 1
 followership
 fleshless
 figurants
