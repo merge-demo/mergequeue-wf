@@ -2795,7 +2795,7 @@ extrusions
 exhilaratory
 echards
 erosion
-evergreenite
+evergreenite 1
 exchangeably
 equangular
 explorations
