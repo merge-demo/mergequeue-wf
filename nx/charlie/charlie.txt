@@ -9886,7 +9886,7 @@ chemoreceptivity
 cymule
 coteller
 chapelgoer
-chemoreceptor
+chemoreceptor 1
 cryptographers
 cladocerans
 chemoreflex
