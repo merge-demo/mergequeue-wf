@@ -12442,7 +12442,7 @@ eyres
 enclosure
 enneacontahedral
 exchequer
-entreaty
+entreaty 1
 emotionalism
 ependyme
 ehretia
