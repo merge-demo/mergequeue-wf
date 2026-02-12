@@ -6889,7 +6889,7 @@ egrets
 enlistments
 excremental
 entomere
-entomic
+entomic 1
 emptins
 ectocarpales
 examiningly
