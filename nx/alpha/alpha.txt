@@ -4687,7 +4687,7 @@ anglicism
 av
 aeolist
 aeolus
-anacrustically
+anacrustically 1
 aeonicaeonist
 aeonist
 aeons
