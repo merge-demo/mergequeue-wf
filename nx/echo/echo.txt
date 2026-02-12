@@ -13268,7 +13268,7 @@ embroiders
 excluders
 emolumental
 endocrinopathic
-equiparation
+equiparation 1
 entocone
 exoarteritis
 enterochromaffin
