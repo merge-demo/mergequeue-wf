@@ -5846,7 +5846,7 @@ glucagons
 goldfinch
 guarnerius
 genuflected
-glucosuria
+glucosuria 1
 glorified
 glucoside
 goshawk

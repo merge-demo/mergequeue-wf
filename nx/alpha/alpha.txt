@@ -10772,7 +10772,7 @@ anim
 antischolastic
 ammoniuret
 argolian
-ammonoidea
+ammonoidea 1
 ammonoidean
 aerocartography
 ammonoids
