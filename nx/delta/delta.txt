@@ -4217,7 +4217,7 @@ dephosphorize
 disyllabic
 dunal
 deadishly
-deutomalal
+deutomalal 1
 deluges
 dithioglycol
 doughmaking
