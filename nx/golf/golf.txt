@@ -4668,7 +4668,7 @@ gyrocar
 gossoon
 ghettos
 glassin
-goofiest
+goofiest 1
 glumella
 guisard
 graecism
