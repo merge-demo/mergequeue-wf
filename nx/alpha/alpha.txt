@@ -11464,7 +11464,7 @@ appositions
 adenophyllous
 aulas
 arenoid
-anabolism
+anabolism 1
 ammophilous
 accinging
 ampliate
