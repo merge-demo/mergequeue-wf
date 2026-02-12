@@ -1078,7 +1078,7 @@ chitinocalcareous
 circumcisions
 cabs
 calceolate
-cowhide
+cowhide 1
 calceus
 challengable
 costoclavicular
