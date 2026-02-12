@@ -1739,7 +1739,7 @@ gymnoglossa 1
 ghrush
 graniticoline
 gynopara
-glycolipin
+glycolipin 1
 gomerils
 germinance
 gynecopathy
