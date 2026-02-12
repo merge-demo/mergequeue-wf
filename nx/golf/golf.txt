@@ -5713,7 +5713,7 @@ graveyards
 geotropism
 gustoes
 glossolysis
-glumpiness
+glumpiness 1
 goldweed
 grecizes
 geometrical

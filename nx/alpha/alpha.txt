@@ -3540,7 +3540,7 @@ adducible
 ampelideous
 adducted
 antimask
-arduinite
+arduinite 1
 aviatrices
 adducting
 aides
