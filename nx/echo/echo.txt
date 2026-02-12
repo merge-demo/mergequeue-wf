@@ -4132,7 +4132,7 @@ esperanto
 electrovalence
 elasticity
 endocritic
-emballonurine
+emballonurine 1
 employe
 edictum
 epigene
