@@ -5190,7 +5190,7 @@ fairnesses
 flashiest
 frasier
 fervor
-flecken
+flecken 1
 fermerer
 farinas
 flite
