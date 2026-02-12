@@ -9485,7 +9485,7 @@ flounderingly
 forestful
 fratricelli
 feedman
-fastwalk
+fastwalk 1
 flights
 fidele
 flamandization

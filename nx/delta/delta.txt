@@ -4620,7 +4620,7 @@ deashing
 demiscible
 dicebox
 demise
-demisecond
+demisecond 1
 demised
 decaspermous
 delineable
