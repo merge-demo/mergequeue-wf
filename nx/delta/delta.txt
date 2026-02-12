@@ -10462,7 +10462,7 @@ diphonia
 drizzlier
 dysgenics
 dismiss
-duumvirs
+duumvirs 1
 deglutitive
 dindymene
 distortion
