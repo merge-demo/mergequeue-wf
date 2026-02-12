@@ -13144,7 +13144,7 @@ engarrison
 encoded
 electrothermotic
 epistolization
-excruciation
+excruciation 1
 eulogize
 enviroment
 exhalation
