@@ -2839,7 +2839,7 @@ decartelize
 daphnin
 dolomitised
 devaraja
-disjointedness
+disjointedness 1
 doveling
 disgenius
 differently
