@@ -2370,7 +2370,7 @@ anomie
 aftercare
 anisognathism
 agitative
-artifact
+artifact 1
 alkalic
 alizari
 archontate
