@@ -12202,7 +12202,7 @@ asynaptic
 anticipate
 anconas
 ancony
-amblyopsis
+amblyopsis 1
 aruncus
 argufiers
 ancraophobia
