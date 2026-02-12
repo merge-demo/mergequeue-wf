@@ -1049,7 +1049,7 @@ boyaus
 basanite
 breenge
 baleful
-bersil
+bersil 1
 bodieron
 bravura
 bulldoggish
