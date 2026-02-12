@@ -7948,7 +7948,7 @@ fogyishness
 floccule
 firehouses
 footslog
-foresees
+foresees 1
 fonder
 frenzied
 flatteries
