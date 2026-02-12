@@ -1250,7 +1250,7 @@ eatche
 eurindic
 edaciousness
 educatress
-embroscopic
+embroscopic 1
 exody
 epimorphosis
 echidnas
