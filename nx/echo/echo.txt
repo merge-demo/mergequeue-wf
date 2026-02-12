@@ -11971,7 +11971,7 @@ euphonically
 exponents
 ecoid
 eluder
-extracostal
+extracostal 1
 expellers
 enhorror
 engrafter
