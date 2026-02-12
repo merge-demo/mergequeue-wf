@@ -10703,7 +10703,7 @@ fashion
 foumart
 foresheets
 fleuretty
-flirtishness
+flirtishness 1
 fortuneless
 foredoing
 fecks
