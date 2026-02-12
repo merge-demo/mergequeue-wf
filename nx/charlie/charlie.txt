@@ -3045,7 +3045,7 @@ canto
 cortege
 colander
 cornuting
-coenosarcous
+coenosarcous 1
 cantonal
 cantonalism
 crapelike
