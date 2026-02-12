@@ -2166,7 +2166,7 @@ cuprene
 champagning
 corduroy
 campho
-camphocarboxylic
+camphocarboxylic 1
 choryos
 camphol
 cade
