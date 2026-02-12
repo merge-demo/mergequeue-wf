@@ -4266,7 +4266,7 @@ diacritical
 demagogical
 doli
 derailed
-dura
+dura 1
 decahydronaphthalene
 descriers
 diseducate
