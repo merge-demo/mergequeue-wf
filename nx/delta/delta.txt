@@ -4054,7 +4054,7 @@ delimed
 disquisitory
 diphysitism
 duskiness
-delimitated
+delimitated 1
 diastyle
 disanswerable
 demeanored
