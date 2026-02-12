@@ -12215,7 +12215,7 @@ disrelate
 disfoliaged
 distich
 dreamless
-descendibility
+descendibility 1
 discifloral
 dilker
 disfortune
