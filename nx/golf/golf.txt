@@ -2460,7 +2460,7 @@ gyromagnetic
 grewia
 gladeye
 gutted
-gibbetwise
+gibbetwise 1
 genitalic
 grandaunt
 grandity
