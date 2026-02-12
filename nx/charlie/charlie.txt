@@ -3862,7 +3862,7 @@ casually
 carbohydrogen
 carboy
 celestes
-carum
+carum 1
 carboys
 carbolated
 cerning
