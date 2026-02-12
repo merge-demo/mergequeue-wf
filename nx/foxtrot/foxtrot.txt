@@ -4839,7 +4839,7 @@ flagelliform
 fanglet
 folie
 fauve
-fregatae
+fregatae 1
 filigrain
 flageolets
 fissiparousness
