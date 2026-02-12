@@ -20367,7 +20367,7 @@ antesignani
 arsenopyrite
 arsenostyracol
 aldermanlike
-admeasure
+admeasure 1
 apostolicalness
 anserated
 anticorrosives
