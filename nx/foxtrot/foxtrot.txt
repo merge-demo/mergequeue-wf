@@ -6760,7 +6760,7 @@ flintlock
 foredays
 flouts
 fogfruits
-frizel
+frizel 1
 fluerics
 formicariae
 freshwater
