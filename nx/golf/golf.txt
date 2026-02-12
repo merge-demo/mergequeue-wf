@@ -8653,7 +8653,7 @@ gyneconitis
 grapy
 geyser
 glossless
-gritty
+gritty 1
 gres
 galerum
 gawkishly
