@@ -7351,7 +7351,7 @@ footwarmer
 fortnight
 forekeel
 focalized
-ferine
+ferine 1
 fulmines
 fall
 ferbam
