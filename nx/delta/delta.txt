@@ -10125,7 +10125,7 @@ disfrocks
 dissembles
 deflocculator
 disquiets
-dieties
+dieties 1
 deaminating
 disengage
 deliciae

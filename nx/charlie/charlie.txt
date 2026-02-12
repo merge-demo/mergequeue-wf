@@ -31675,7 +31675,7 @@ civies
 cushy
 cyclarthrodial
 casked
-coth
+coth 1
 cushiness
 cushing
 cushion
