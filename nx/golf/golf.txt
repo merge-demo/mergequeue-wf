@@ -2036,7 +2036,7 @@ glaucus
 gelofer
 gambado
 ginny
-glossiness
+glossiness 1
 goaf
 gallied
 gyps
