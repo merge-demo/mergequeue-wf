@@ -2675,7 +2675,7 @@ grassman
 genyophrynidae
 gue
 glamours
-granularity
+granularity 1
 gravedigger
 gilbertese
 genyplasty
