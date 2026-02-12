@@ -9074,7 +9074,7 @@ glome
 glasser
 grimalkin
 grayhead
-genitive
+genitive 1
 gasparillo
 ghast
 grimme
