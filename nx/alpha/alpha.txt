@@ -4547,7 +4547,7 @@ austrianize
 addax
 adviser
 apparatchiki
-androcentric
+androcentric 1
 arctitude
 affinitatively
 apolog
