@@ -18672,7 +18672,7 @@ duckboat
 drainless
 dwarfishness
 diademing
-dianite
+dianite 1
 documentarily
 dwarfisms
 dermopteran
