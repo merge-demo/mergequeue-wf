@@ -2026,7 +2026,7 @@ detenus
 dukeling
 daimen
 duplicitas
-derringer
+derringer 1
 dichloramin
 decagram
 disterr
