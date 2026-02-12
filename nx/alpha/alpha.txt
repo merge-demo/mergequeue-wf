@@ -18587,7 +18587,7 @@ aeolipyle
 amassette
 archaeolater
 audits
-authoritativeness
+authoritativeness 1
 antimodernistic
 amplified
 aprosopous
