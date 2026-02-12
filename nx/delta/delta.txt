@@ -17474,7 +17474,7 @@ daffle
 doubleheaders
 discriminoid
 destructed
-devoices
+devoices 1
 drubbers
 disbody
 drubble
