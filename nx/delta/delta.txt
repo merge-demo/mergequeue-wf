@@ -13044,7 +13044,7 @@ dryfarmer
 daleth
 disestablish
 doralium
-decuple
+decuple 1
 disparation
 dromiceiidae
 deliria
