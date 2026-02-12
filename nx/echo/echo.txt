@@ -3275,7 +3275,7 @@ epiphanized
 everything
 extruding
 embioptera
-euchite
+euchite 1
 entomology
 earthless
 efficaciousness
