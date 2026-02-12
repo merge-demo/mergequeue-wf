@@ -3339,7 +3339,7 @@ goshen
 gauzy
 globefish
 gonocoele
-goatishness
+goatishness 1
 gildhalls
 gonydial
 globed
