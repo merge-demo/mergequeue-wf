@@ -16541,7 +16541,7 @@ bicoloured
 bridal
 brusure
 brigantines
-bentang
+bentang 1
 bluntie
 branchlike
 broadlooms
