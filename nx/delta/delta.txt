@@ -14208,7 +14208,7 @@ desiccator
 desponsories
 depressing
 deictic
-duc
+duc 1
 disorientates
 dolesman
 dermatomic
