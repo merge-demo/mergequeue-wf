@@ -2257,7 +2257,7 @@ flatulence
 figurability
 full
 flavones
-feverbush
+feverbush 1
 filamentiferous
 fantails
 folktale
