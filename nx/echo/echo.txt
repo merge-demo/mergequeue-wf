@@ -2447,7 +2447,7 @@ espinel
 emblazonry
 electrogenetic
 ethereous
-euphausid
+euphausid 1
 earthnut
 excorticating
 executional
