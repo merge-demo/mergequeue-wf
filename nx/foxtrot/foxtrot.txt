@@ -6209,7 +6209,7 @@ fetterers
 forkable
 fearlessness
 flagilate
-focalisation
+focalisation 1
 forthward
 furriness
 fairyland
