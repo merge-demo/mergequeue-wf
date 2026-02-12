@@ -7690,7 +7690,7 @@ fittywise
 forsteal
 faveolus
 forecasting
-freeze
+freeze 1
 flangeway
 foxskin
 frater
