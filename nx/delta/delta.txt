@@ -2968,7 +2968,7 @@ directorates
 desiccative
 doubtlessness
 deedless
-deejay
+deejay 1
 dromaeognathism
 dolittle
 dendromecon
