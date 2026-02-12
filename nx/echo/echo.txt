@@ -4355,7 +4355,7 @@ economize
 enterointestinal
 exceeders
 exothermous
-enamour
+enamour 1
 eventognathi
 enzymolysis
 efford
