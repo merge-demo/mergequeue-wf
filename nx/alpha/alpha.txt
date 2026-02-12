@@ -8549,7 +8549,7 @@ aeolomelodicon
 austenite
 ampelosicyos
 abelmoschus
-adjudicatory
+adjudicatory 1
 avizandum
 asterias
 antibishop
