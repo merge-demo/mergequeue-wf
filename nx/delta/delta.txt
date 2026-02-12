@@ -12878,7 +12878,7 @@ deleteriously
 dominative
 diameter
 dhanvantari
-deescalates
+deescalates 1
 dansants
 dysmenorrheic
 doryman
