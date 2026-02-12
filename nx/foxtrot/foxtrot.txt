@@ -5769,7 +5769,7 @@ footpound
 folioliferous
 filemaker
 factional
-facilitator
+facilitator 1
 flype
 feoffeeship
 feodaries
