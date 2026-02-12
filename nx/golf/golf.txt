@@ -4870,7 +4870,7 @@ guaranteeing
 granite
 gelilah
 galleryite
-gleam
+gleam 1
 grahams
 greetings
 glozes
