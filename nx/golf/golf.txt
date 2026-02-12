@@ -115,7 +115,7 @@ geothermic
 gazogene
 goatland
 guerdoned
-gyros
+gyros 1
 gangrening
 griddle
 gadroonage
