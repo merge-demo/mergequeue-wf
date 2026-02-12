@@ -2392,7 +2392,7 @@ geometricism
 glariest
 gazel
 gnapweed
-goaled
+goaled 1
 gripman
 guiac
 gummose
