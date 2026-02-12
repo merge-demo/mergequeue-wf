@@ -9977,7 +9977,7 @@ didactics
 dramaturgist
 dote
 discriminatingness
-diminutions
+diminutions 1
 dolichocephalous
 deener
 desuetudes

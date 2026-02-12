@@ -2515,7 +2515,7 @@ footsore
 flaps
 foreswear
 fastballs
-frush
+frush 1
 frecket
 foreshortens
 favaginous
