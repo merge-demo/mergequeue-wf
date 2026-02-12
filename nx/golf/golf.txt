@@ -6757,7 +6757,7 @@ genal
 gigglish
 genros
 grunch
-gweducs
+gweducs 1
 gymnotus
 gondola
 guffawing
