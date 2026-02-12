@@ -17490,7 +17490,7 @@ confessed
 crosstrees
 cobbin
 cumulite
-causeries
+causeries 1
 cobble
 capax
 commixes
