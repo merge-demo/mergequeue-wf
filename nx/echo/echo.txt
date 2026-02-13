@@ -12261,7 +12261,7 @@ elegists
 eluvium
 extemporizer
 exegetics
-exing
+exing 1
 estheriidae
 ecphorias
 ensheaths

@@ -12719,7 +12719,7 @@ altus
 anglish
 ambassadorship
 awarder
-actualism
+actualism 1
 anaemotropy
 agnosis
 angioplasty
