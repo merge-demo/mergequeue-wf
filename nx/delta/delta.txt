@@ -8659,7 +8659,7 @@ deists
 domed
 distracted
 didactyl
-debatingly
+debatingly 1
 dislustring
 distillate
 dissection
