@@ -9279,7 +9279,7 @@ geothermometer
 galeopithecus
 gastrectasia
 gooral
-gateposts
+gateposts 1
 grangerite
 goldarn
 grotesqueness
