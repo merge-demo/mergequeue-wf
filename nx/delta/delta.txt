@@ -2605,7 +2605,7 @@ desalter
 decoloring
 disavowed
 diogenes
-dispose
+dispose 1
 decolors
 duopsonies
 daedalean
