@@ -6261,7 +6261,7 @@ enhalos
 ecstatica
 enrapt
 eurygaean
-enrapts
+enrapts 1
 ethynyl
 evestar 1
 experimentative
