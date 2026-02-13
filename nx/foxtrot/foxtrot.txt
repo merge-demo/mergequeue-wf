@@ -8051,7 +8051,7 @@ flashbulb
 funerals
 flyleaves
 firearms
-flutterer
+flutterer 1
 fitment
 fimble
 faroese
