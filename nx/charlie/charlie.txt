@@ -5117,7 +5117,7 @@ clupeine
 cascadian
 chacra
 crooken
-crowncapping
+crowncapping 1
 cascadite
 chemolytic
 cascalho
