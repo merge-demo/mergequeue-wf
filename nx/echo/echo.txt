@@ -11094,7 +11094,7 @@ effaced
 eyeletter
 envoyship
 estoc
-encomimia
+encomimia 1
 exuberating
 electrostereotype
 europium
