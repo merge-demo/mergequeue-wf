@@ -1756,7 +1756,7 @@ globously
 gambados
 garden
 galliambic
-gaspingly
+gaspingly 1
 gasometric
 graping
 grillee

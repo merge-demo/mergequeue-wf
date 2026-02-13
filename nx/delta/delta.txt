@@ -17581,7 +17581,7 @@ discreteness
 desaturate
 decriminalizes
 discourteously
-drivellers
+drivellers 1
 decastylar
 duant
 dandelion
