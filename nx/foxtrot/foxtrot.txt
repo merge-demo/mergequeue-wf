@@ -7390,7 +7390,7 @@ fleishig
 fluids
 foujdar
 fourgon
-fluttery
+fluttery 1
 flushermen
 fumitory
 forest
