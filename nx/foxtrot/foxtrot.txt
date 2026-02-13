@@ -7964,7 +7964,7 @@ fopdoodle
 freeheartedness 1
 foetor
 fluorescein
-fanglike
+fanglike 1
 foreshadow
 forgivenesses
 fiberware
