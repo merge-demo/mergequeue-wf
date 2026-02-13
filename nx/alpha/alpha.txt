@@ -13193,7 +13193,7 @@ apriorism
 anisobranchiate
 autocoid
 acetifying
-anisocytosis
+anisocytosis 1
 aval
 apograph
 allwhere
