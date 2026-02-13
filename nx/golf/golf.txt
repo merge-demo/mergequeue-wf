@@ -6747,7 +6747,7 @@ gavyuti
 goldenmouthed
 gossiping
 grassiest
-geront
+geront 1
 grayfish
 gentilitial
 galeiform
