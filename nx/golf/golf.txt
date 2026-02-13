@@ -1515,7 +1515,7 @@ galileo
 gracilariid
 gery
 grype
-garlicmonger
+garlicmonger 1
 grandiloquence
 ghoul
 gadflies
