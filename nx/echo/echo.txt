@@ -4409,7 +4409,7 @@ emphasised
 endoparasite
 ethambutol
 encanthis
-expectorations
+expectorations 1
 esdragol
 enrapted
 entassment
