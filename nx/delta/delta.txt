@@ -5673,7 +5673,7 @@ disordered
 defoliating
 droppage
 deplenish
-despecialization
+despecialization 1
 depleteable
 decapodan
 ducape
