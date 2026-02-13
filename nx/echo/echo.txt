@@ -5116,7 +5116,7 @@ embolon
 engirt
 enemylike
 epigrammatizing
-endocrinic
+endocrinic 1
 existentialistic
 estradiol
 elucidated
