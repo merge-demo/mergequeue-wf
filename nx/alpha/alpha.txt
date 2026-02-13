@@ -17568,7 +17568,7 @@ adapts
 ancillaries
 appendicularia
 aboulias
-appendiculate
+appendiculate 1
 alectoris
 autovalve
 assertively
