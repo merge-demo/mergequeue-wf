@@ -11504,7 +11504,7 @@ exercent
 edibility
 enteropexy
 edgier
-entheate
+entheate 1
 encheson
 esotery
 elided
