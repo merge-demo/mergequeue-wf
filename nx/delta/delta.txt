@@ -7694,7 +7694,7 @@ devilet
 detinuit
 defuse
 darwinism
-devilfish
+devilfish 1
 decelerators
 devily
 detail
