@@ -19230,7 +19230,7 @@ adventurish
 abear
 aloft
 arduousness
-apathia
+apathia 1
 astrocaryum
 ardurous
 autotoxicosis
