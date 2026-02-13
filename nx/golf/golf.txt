@@ -1042,7 +1042,7 @@ gipsology
 giggler
 gasserian
 gist
-gype
+gype 1
 gonimous
 glycosyls
 gammarine

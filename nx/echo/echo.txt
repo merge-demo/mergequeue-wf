@@ -7799,7 +7799,7 @@ embolite
 expedientially
 ergatandromorphic
 electrodynamical
-endophytal
+endophytal 1
 etherizer
 epanaphoral
 explorator
