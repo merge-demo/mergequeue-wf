@@ -1601,7 +1601,7 @@ exogeny
 equilobate
 essenis
 endosperm
-electrosynthetically
+electrosynthetically 1
 evections
 enamors
 eglantines
