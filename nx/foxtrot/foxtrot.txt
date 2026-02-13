@@ -2217,7 +2217,7 @@ forthcame
 fchar
 fingerling
 firers
-fauteuil
+fauteuil 1
 feudee
 follows
 fikie
