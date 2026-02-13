@@ -1780,7 +1780,7 @@ epilogue
 eyen
 eulogisation
 extendedly
-entries
+entries 1
 epanorthoses
 eer
 eyepiece
