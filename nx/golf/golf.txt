@@ -4211,7 +4211,7 @@ gentianwort
 gabbiness
 grimacingly
 gobbing 1
-gastornis
+gastornis 1
 geysers
 grimed
 gaillard
