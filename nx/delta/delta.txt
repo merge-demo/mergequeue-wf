@@ -12225,7 +12225,7 @@ directional
 delignate
 disfranchises
 dominant
-drosophilae
+drosophilae 1
 depel
 deride
 dadenhudd

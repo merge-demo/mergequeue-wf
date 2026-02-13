@@ -14284,7 +14284,7 @@ beckiron
 bravoes
 bolden
 burelly
-batis
+batis 1
 blites
 bivane
 bistournage
