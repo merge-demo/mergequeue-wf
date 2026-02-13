@@ -9985,7 +9985,7 @@ estuosity
 endophagy
 erythromelalgia
 esugarization
-entonement
+entonement 1
 erugo
 entreatment
 electroform
