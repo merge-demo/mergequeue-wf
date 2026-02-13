@@ -3516,7 +3516,7 @@ ecalcavate
 encolour
 epizoites
 errand
-exolete
+exolete 1
 exothecate
 enfiladed
 epigean
