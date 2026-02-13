@@ -8031,7 +8031,7 @@ frisked
 foppy
 flasque
 fligged
-forespeaking
+forespeaking 1
 factitive
 filibustrous
 fissipedia
