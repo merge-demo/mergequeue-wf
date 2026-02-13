@@ -8039,7 +8039,7 @@ geotaxy
 gangsman
 gryllid
 gastromancy
-gouvernante
+gouvernante 1
 grapnels
 glaucine
 gript
