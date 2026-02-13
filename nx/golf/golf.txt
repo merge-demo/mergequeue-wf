@@ -9088,7 +9088,7 @@ glutination
 goadster
 golilla
 gease
-glaucomys
+glaucomys 1
 glumal
 gourds
 glires
