@@ -4509,7 +4509,7 @@ appertise
 achromic
 advertisers
 attunes
-assuagable
+assuagable 1
 allobars
 attribution
 antisensuality
