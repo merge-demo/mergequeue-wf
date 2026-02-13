@@ -4996,7 +4996,7 @@ grolier
 galactophorous
 glebeless
 gammed
-glossers
+glossers 1
 geotilla
 galbulidae
 grotto

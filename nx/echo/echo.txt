@@ -929,7 +929,7 @@ euphonies
 elle
 eldmother
 exsculp
-enterprised
+enterprised 1
 execrable
 endore
 encourager
