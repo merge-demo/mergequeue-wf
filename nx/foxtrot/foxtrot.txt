@@ -6844,7 +6844,7 @@ foibles
 flukiest
 fraternising
 falciform
-freshening
+freshening 1
 founding
 fantasy
 fleechment
