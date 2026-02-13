@@ -14792,7 +14792,7 @@ apenteric
 abrachia
 antimachinery
 accidentary
-anticyclic
+anticyclic 1
 arrondi
 alife
 apocodeine
