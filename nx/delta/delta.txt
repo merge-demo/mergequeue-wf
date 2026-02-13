@@ -7449,7 +7449,7 @@ dryophyllum
 detrusion
 detumescence
 detune
-detuning
+detuning 1
 dynastically
 dimplier
 diversiflorous
