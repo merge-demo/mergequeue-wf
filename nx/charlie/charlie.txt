@@ -16286,7 +16286,7 @@ categorist
 cerecloths
 clintonia
 craylet
-clintonite
+clintonite 1
 ciceronage
 cathodegraph
 clints
