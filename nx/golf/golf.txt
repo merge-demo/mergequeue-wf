@@ -2917,7 +2917,7 @@ gollop
 geomance
 gratiano
 gibes
-glabrescent
+glabrescent 1
 gentisin
 goofah
 goluptious
