@@ -2086,7 +2086,7 @@ camouflaging
 combats
 chandlery
 collapsar
-chests
+chests 1
 cosherer
 camp
 campagi
