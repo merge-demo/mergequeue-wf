@@ -1778,7 +1778,7 @@ anisyl
 adiamorphism
 adsorption
 arundiferous
-afflicted
+afflicted 1
 actualist
 asker
 abuse
