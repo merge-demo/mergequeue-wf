@@ -6032,7 +6032,7 @@ gasifying
 gruffiness
 grewsomer
 growse
-goitres
+goitres 1
 gamines
 glamorous
 grizelin
