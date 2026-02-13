@@ -8686,7 +8686,7 @@ enervous
 expels
 ectoplasmic
 elutriating
-emergently
+emergently 1
 equinate
 easygoingly
 enameller
