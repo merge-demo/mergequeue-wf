@@ -4670,7 +4670,7 @@ exuberance
 entablement
 energico
 echolalia
-eisodic
+eisodic 1
 eucrites
 eyeopener
 evanescently
