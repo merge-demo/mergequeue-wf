@@ -3306,7 +3306,7 @@ fiddlestick
 farsight
 fimbles
 flowerfence
-fivescore
+fivescore 1
 flounces
 faveolate
 flingers
