@@ -5370,7 +5370,7 @@ desegregating
 decoction
 delicatesse
 dabble
-daffodil
+daffodil 1
 denudant
 dicrotic
 dendra
