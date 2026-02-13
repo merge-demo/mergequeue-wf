@@ -10508,7 +10508,7 @@ burin
 bradypode
 blastomyces
 bainie
-banjore
+banjore 1
 blastomycete
 benignities
 blastoneuropore
