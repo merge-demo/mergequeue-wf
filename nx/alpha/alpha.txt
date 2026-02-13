@@ -8507,7 +8507,7 @@ allassotonic
 alleviations
 allatrate
 abaction
-autosuggestibility
+autosuggestibility 1
 alineation
 allodially
 alkoxid
