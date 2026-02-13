@@ -22975,7 +22975,7 @@ chebacco
 consistible
 consisting
 cent
-consistorial
+consistorial 1
 corydon
 consistorian
 cetraria
