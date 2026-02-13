@@ -10245,7 +10245,7 @@ chicanery
 chicaneries
 chicaners
 convallarin
-counterword
+counterword 1
 chicanes
 chicano
 coimmense
