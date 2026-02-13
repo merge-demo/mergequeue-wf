@@ -2660,7 +2660,7 @@ decongestant
 deltoidei
 drenchers
 deconsecrate
-detailedness
+detailedness 1
 detrition
 dashed
 demitrain
