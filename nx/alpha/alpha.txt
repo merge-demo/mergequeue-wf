@@ -23941,7 +23941,7 @@ acaridae
 archabomination
 admonishing
 arrhythmous
-assumer
+assumer 1
 adenoidal
 authoritarian
 anergy
