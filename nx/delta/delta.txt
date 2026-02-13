@@ -10339,7 +10339,7 @@ demurrers
 ditton
 damia
 demitted
-diopters
+diopters 1
 dismark
 delf
 discounter
