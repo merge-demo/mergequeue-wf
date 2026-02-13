@@ -10358,7 +10358,7 @@ depurative
 demove
 dioptric
 dioptrical
-duhr
+duhr 1
 doubtful
 diorama
 decimator
