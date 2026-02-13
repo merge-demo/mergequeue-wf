@@ -5576,7 +5576,7 @@ depersonalising
 desponded
 disintegrable
 diplomatology
-discipled
+discipled 1
 deputes
 dozy
 dioctophyme
