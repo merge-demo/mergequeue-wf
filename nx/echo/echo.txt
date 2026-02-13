@@ -1620,7 +1620,7 @@ erogenetic
 esoethmoiditis
 electrochemist
 euthamia
-euphonetics
+euphonetics 1
 eruptions
 estoppage
 ecchymoses
