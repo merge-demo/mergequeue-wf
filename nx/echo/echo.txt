@@ -10149,7 +10149,7 @@ escherichia
 euterpe
 efflagitate
 equisetum
-erose
+erose 1
 eudaemonism
 excused
 etabelli
