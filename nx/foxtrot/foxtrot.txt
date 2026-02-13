@@ -6815,7 +6815,7 @@ falseness
 formalesque
 foliageous
 fineer
-furthersome
+furthersome 1
 fleury
 formelt
 fatheaded
