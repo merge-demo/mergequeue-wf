@@ -8733,7 +8733,7 @@ equiproportionality
 evictors
 erratum
 egocentrism
-edulcoration
+edulcoration 1
 externalise
 extravaganzas
 eluate
