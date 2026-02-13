@@ -22588,7 +22588,7 @@ admittances
 adjudicator
 asemasia
 anormal
-affeeror
+affeeror 1
 agentess
 addicts
 amputative
