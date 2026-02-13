@@ -21197,7 +21197,7 @@ concento
 concolor 1
 caracoler
 cryable
-chemicobiological
+chemicobiological 1
 concentrated
 concentrates
 clamatores
