@@ -4739,7 +4739,7 @@ fixidity
 fuscin
 filmdom
 fixing
-feudalist
+feudalist 1
 fissural
 flopwing
 fangs
