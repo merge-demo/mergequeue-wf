@@ -6758,7 +6758,7 @@ gigglish
 genros
 grunch
 gweducs 1
-gymnotus
+gymnotus 1
 gondola
 guffawing
 groceteria
