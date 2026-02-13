@@ -5028,7 +5028,7 @@ foremarch
 flowcharting
 flytrap
 flings
-frenulum
+frenulum 1
 fawners
 flyway
 furfurine
