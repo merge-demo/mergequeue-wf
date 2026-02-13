@@ -7052,7 +7052,7 @@ fondles
 fosterable
 fainter
 fumant
-freemason
+freemason 1
 finning
 fluorspar
 firecrackers
