@@ -317,7 +317,7 @@ galactogenetic
 gappiest
 gravigrada
 groundbird
-giantry
+giantry 1
 galactolipide
 graveship
 galactometer
