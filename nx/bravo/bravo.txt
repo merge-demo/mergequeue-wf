@@ -16379,7 +16379,7 @@ bulger
 bijugate
 biovular
 bituminosis
-bowels
+bowels 1
 broadswords
 balmorals
 bromomania
