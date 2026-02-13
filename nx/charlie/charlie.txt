@@ -931,7 +931,7 @@ caky
 clientelage
 conformant
 consecration
-compearance
+compearance 1
 caking
 collagist
 cakravartin

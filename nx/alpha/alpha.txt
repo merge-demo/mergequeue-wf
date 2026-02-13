@@ -19295,7 +19295,7 @@ arenosity
 analepsy
 areolae
 anteriors
-aluminothermics
+aluminothermics 1
 areolas
 areolated
 absurds
