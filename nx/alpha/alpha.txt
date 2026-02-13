@@ -6669,7 +6669,7 @@ agribusiness
 antispastic
 antiglare
 anaphorical
-armlocks
+armlocks 1
 acrotreta
 asceticism
 airable
