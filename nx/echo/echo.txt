@@ -2410,7 +2410,7 @@ earlet
 educationary
 electrodeposition
 edana
-exhibitable
+exhibitable 1
 etherization
 esterling
 ebenezer
