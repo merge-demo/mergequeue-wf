@@ -4682,7 +4682,7 @@ gelidly
 grego
 gheg
 guaranteeship
-grudge
+grudge 1
 gingerly
 glutin
 gynander
