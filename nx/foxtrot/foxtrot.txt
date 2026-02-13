@@ -10434,7 +10434,7 @@ forleit
 feared
 frangipanis
 fimbrilliferous
-fatalist
+fatalist 1
 fathomable
 flavobacterium
 fusoid
