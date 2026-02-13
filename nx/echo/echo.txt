@@ -3912,7 +3912,7 @@ eyeletting
 elegits
 executers
 endodontic
-epigonus
+epigonus 1
 enright
 enflagellation
 emigration 1
