@@ -7351,7 +7351,7 @@ grangerise
 gougingly
 gliomas
 griffon
-generalizers
+generalizers 1
 granule
 glimmerite
 graculus
