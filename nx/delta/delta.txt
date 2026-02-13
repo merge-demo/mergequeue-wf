@@ -4133,7 +4133,7 @@ discolorization
 diluvium
 diadokokinesis
 diploperistomic
-desynapsis
+desynapsis 1
 dells
 distinct
 dyspneic
