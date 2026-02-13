@@ -14731,7 +14731,7 @@ daktylos
 dianoetic
 detumescent
 dotlike
-der
+der 1
 disheveled
 discarnation
 diaristic
