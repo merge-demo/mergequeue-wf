@@ -578,7 +578,7 @@ deadrize
 disintegrating
 dynamophone
 deadhand
-derelinquendi
+derelinquendi 1
 disgracefulness
 drawable
 disinhumed
