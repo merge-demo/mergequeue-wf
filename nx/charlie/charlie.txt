@@ -12790,7 +12790,7 @@ chunked
 cladrastis
 circumumbilical
 circumjacent
-crumpy
+crumpy 1
 comburimetry
 churchgrith
 chunkiness
