@@ -845,7 +845,7 @@ glyoxime
 gipsire
 gerontomorphosis
 greedless 1
-gypster
+gypster 1
 geopositive
 gravimetry
 globicephala
