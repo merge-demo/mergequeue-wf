@@ -4531,7 +4531,7 @@ gulpy
 gnarred
 gil
 girlfully
-generalate
+generalate 1
 grappling
 goral
 geometrid
