@@ -5094,7 +5094,7 @@ gossamer
 gunman
 guilelessly
 guernseyed
-goldlike
+goldlike 1
 gingelies
 glareproof
 grenadine
