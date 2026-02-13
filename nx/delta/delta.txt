@@ -13474,7 +13474,7 @@ disengagements
 diabolically
 dioptograph
 directionalize
-dentated
+dentated 1
 dardanium
 disreputableness
 dispersiveness
