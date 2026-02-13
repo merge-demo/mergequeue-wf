@@ -5294,7 +5294,7 @@ affuse
 alkarsine
 atropism
 affusion
-afghan
+afghan 1
 amylopectin
 anapnea
 arided
