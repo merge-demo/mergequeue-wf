@@ -8697,7 +8697,7 @@ aquilon
 actious
 alliterationist
 avens
-aspersions
+aspersions 1
 alimental
 autoactivation
 adipolytic
