@@ -6068,7 +6068,7 @@ firmamental
 fictioneering
 featishness
 fille
-foolscaps
+foolscaps 1
 felspars
 flacon
 fumattoria
