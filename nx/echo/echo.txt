@@ -8590,7 +8590,7 @@ etherify
 ethicism
 emblement
 ethylenoid
-enorganic
+enorganic 1
 easts
 exclusively
 equative
