@@ -3768,7 +3768,7 @@ goggle
 geodist
 gaub
 gherao
-gorgio
+gorgio 1
 governing
 grandmotherhood
 gunsmith
