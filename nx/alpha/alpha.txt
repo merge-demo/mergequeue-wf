@@ -3096,7 +3096,7 @@ actinostereoscopy
 azthionium
 antireflexive
 adfroze
-avowableness
+avowableness 1
 aequipalpia
 actinostome
 abrachias
