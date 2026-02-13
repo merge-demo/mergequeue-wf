@@ -2993,7 +2993,7 @@ deeper
 dies
 dismantling
 deepfreeze
-dilettantish
+dilettantish 1
 deepgoing
 dawsoniaceous
 debaucheries
