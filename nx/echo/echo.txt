@@ -5962,7 +5962,7 @@ ermelin
 endaortitis
 enigmata
 eluvial
-eosins
+eosins 1
 exdelicto
 enigmatist
 epotation
