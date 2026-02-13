@@ -15118,7 +15118,7 @@ brushmaker
 bodiment
 bastarda
 begot
-beestride
+beestride 1
 brents
 brere
 barnumize
