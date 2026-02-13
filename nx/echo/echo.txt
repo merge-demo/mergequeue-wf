@@ -13680,7 +13680,7 @@ equiv
 enforcement
 estrays
 elevon
-elizabethanism
+elizabethanism 1
 exteriorisation
 entapophysis
 extrapolates
