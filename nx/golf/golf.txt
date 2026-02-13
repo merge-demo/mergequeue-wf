@@ -2313,7 +2313,7 @@ gelatinizer
 gavials
 graduate
 guaiacols
-goloe
+goloe 1
 galopin
 graylag
 gelees
