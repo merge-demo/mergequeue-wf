@@ -11665,7 +11665,7 @@ ewes
 eucalypt
 exhuming
 egresses
-envenomous
+envenomous 1
 euryzygous
 eeliest
 everywhereness
