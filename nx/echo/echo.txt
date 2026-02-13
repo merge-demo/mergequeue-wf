@@ -3151,7 +3151,7 @@ elm
 embarrassment
 educing
 expiscatory
-edgewise
+edgewise 1
 equipotential
 epistolographist
 engrossers
