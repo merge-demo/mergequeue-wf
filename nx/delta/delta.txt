@@ -18488,7 +18488,7 @@ deutschemark
 descendentalism
 delator
 dispersant
-draftsmanship
+draftsmanship 1
 devastavit
 dipterous
 diose
