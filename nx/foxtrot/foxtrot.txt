@@ -5194,7 +5194,7 @@ flecken 1
 fermerer
 farinas
 flite
-famulli
+famulli 1
 fragrancies
 fregit
 fraile
