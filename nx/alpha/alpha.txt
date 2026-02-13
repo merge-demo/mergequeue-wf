@@ -6871,7 +6871,7 @@ amalgamates
 aithochroi
 acceleratingly
 amphicribral
-alumnae
+alumnae 1
 antadiform
 assisters
 ancone
