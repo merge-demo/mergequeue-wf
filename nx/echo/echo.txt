@@ -12682,7 +12682,7 @@ ens
 electrophonic
 examinations
 erotogenic
-effrontery
+effrontery 1
 epicotyledonary
 eradicable
 exonerating

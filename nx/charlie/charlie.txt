@@ -24561,7 +24561,7 @@ contermine
 cantate
 cophosis
 copia
-clapped
+clapped 1
 copyboy
 copyboys
 cocytus
