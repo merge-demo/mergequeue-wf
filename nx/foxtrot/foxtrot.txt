@@ -177,7 +177,7 @@ factiously
 fastnacht
 falk
 forthought
-furyl
+furyl 1
 fanmaker
 fuzees
 forewisdom
