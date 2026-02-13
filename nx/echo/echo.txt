@@ -7777,7 +7777,7 @@ englify
 enterprising
 edelweisses
 ethinamate
-empasma
+empasma 1
 executable
 epidiascope
 embrocating
