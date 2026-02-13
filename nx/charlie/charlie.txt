@@ -28826,7 +28826,7 @@ clinostat
 congrue
 churchwards
 chloralide
-chasings
+chasings 1
 creta
 counterorator
 chirographic
