@@ -2696,7 +2696,7 @@ carriable
 cankereat
 cankered
 codders
-cording
+cording 1
 cubitopalmar
 catostomus
 copartnership
