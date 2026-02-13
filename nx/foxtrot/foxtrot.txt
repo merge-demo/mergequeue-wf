@@ -11158,7 +11158,7 @@ fruitiest
 falseface
 foretack
 frumple
-fingerhold
+fingerhold 1
 featurally
 forefather
 force
