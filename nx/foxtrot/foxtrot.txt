@@ -10636,7 +10636,7 @@ foilsman
 fusht
 famular
 friskiness
-floggers
+floggers 1
 flucan 1
 fattish
 forefend
