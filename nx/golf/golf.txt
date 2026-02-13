@@ -4684,7 +4684,7 @@ gheg
 guaranteeship
 grudge 1
 gingerly
-glutin
+glutin 1
 gynander
 gustable
 germicidal
