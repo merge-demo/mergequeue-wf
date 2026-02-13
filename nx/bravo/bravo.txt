@@ -8323,7 +8323,7 @@ bowwort
 balawa
 bobolink
 bedismal
-blastier
+blastier 1
 binukau
 bayonetting
 betain
