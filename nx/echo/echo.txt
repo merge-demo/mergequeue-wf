@@ -6165,7 +6165,7 @@ enneagonal
 enrolling
 elephantiac
 enneagons
-eelblenny
+eelblenny 1
 extended
 ectoparasitic
 embronze
