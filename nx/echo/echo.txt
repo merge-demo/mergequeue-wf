@@ -9774,7 +9774,7 @@ emission
 exitious
 enthusiast
 expressure
-eruginous
+eruginous 1
 exergonic
 essentially
 exigencies
