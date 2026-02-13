@@ -634,7 +634,7 @@ embolo
 energism
 echometer
 echopractic
-explosive
+explosive 1
 elitisms
 ebonise
 electronographic
