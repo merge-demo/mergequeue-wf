@@ -12243,7 +12243,7 @@ equipment
 epanalepsis
 endopterygotic
 eclogue
-executress
+executress 1
 enchanter
 elshin 1
 enchases
