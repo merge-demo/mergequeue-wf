@@ -7083,7 +7083,7 @@ foundress
 flutterers
 forgives
 finagled
-flagellate
+flagellate 1
 floodwood
 feases
 fleawort
