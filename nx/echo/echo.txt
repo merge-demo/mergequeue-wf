@@ -1822,7 +1822,7 @@ expediteness
 engravers
 embankments
 encompasser
-estimates
+estimates 1
 embryoism
 expromission
 elliott
