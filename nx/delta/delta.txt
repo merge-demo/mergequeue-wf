@@ -3604,7 +3604,7 @@ diatonous
 degener
 disfoliage
 declaredness
-dinosauric
+dinosauric 1
 deaminated
 dognaper
 dinornithiformes
