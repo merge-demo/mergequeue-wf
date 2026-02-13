@@ -20569,7 +20569,7 @@ checks
 compendency
 cinchoninic
 compendia
-correlativity
+correlativity 1
 celtophobe
 congenerous
 compendious
