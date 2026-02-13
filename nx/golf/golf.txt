@@ -8377,7 +8377,7 @@ genro
 guisards
 glossophagine
 gargety
-goodish
+goodish 1
 gatemen
 guns
 gasifiable
