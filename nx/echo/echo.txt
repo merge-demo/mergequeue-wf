@@ -2289,7 +2289,7 @@ energumen
 eulogistical
 elongated
 enumerators
-enterotome
+enterotome 1
 equally
 extemporization
 eudiometry

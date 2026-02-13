@@ -25575,7 +25575,7 @@ coituses
 chasable
 corporations
 calquing
-cylindricality
+cylindricality 1
 cyclonometer
 cassites
 concetti
