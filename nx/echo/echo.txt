@@ -3152,7 +3152,7 @@ embarrassment
 educing
 expiscatory
 edgewise 1
-equipotential
+equipotential 1
 epistolographist
 engrossers
 euectic
