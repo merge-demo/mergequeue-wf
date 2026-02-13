@@ -470,7 +470,7 @@ forcefulness
 faisceau
 freckliness
 forelaying
-fared
+fared 1
 friskiest
 forewaters
 flugelmen
