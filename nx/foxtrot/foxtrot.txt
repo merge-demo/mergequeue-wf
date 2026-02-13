@@ -11386,7 +11386,7 @@ fertilely
 forgiveably
 farfetch
 furnishes
-frosk
+frosk 1
 feater
 furcular
 fidgeted
