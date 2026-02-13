@@ -10056,7 +10056,7 @@ gueridons
 galette
 gimels
 gossypols
-guerison
+guerison 1
 guerites
 gage
 gimmal
