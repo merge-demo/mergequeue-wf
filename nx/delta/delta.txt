@@ -15185,7 +15185,7 @@ detainment
 dogdoms
 deeryards
 deathfulness
-dolefuls
+dolefuls 1
 deutoxide
 dotate
 drunkly
