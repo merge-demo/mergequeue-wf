@@ -18069,7 +18069,7 @@ digitaria
 dullnesses
 deputative
 desmidiaceae
-deflexing
+deflexing 1
 dropforge
 demihearse
 dubitation
