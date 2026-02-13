@@ -5271,7 +5271,7 @@ flautino
 faithfulness
 fisherman
 foulmouthedness
-flatteress
+flatteress 1
 fenders
 focoids
 fragilaria
