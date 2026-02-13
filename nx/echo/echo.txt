@@ -12299,7 +12299,7 @@ entremess
 ectomorphism
 errorless
 eviternal
-exemptive
+exemptive 1
 environal
 exenterate
 etheostomidae
