@@ -1458,7 +1458,7 @@ excoct
 endobatholithic
 electrostriction
 eaglet
-edentulate
+edentulate 1
 encashable
 endoral
 ensuable
