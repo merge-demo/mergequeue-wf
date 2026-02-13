@@ -13941,7 +13941,7 @@ cacique
 corruptions
 cerianthus
 cionitis
-cantrip
+cantrip 1
 chalybean
 cognitum
 cions
