@@ -8836,7 +8836,7 @@ flashtube
 frustula
 fimbrillae
 felty
-flunks
+flunks 1
 facebar
 favorably
 filmsets
