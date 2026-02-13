@@ -12542,7 +12542,7 @@ advene
 allochroite
 assinuate
 algosis
-arithmetician
+arithmetician 1
 anfractuose
 anchusin
 antitraditionalist
