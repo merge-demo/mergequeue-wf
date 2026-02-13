@@ -14774,7 +14774,7 @@ ditheisms
 derated
 deadnesses
 divinator
-disorganize
+disorganize 1
 disabusal
 dakir
 desmacyte
