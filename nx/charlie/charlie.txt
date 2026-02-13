@@ -6522,7 +6522,7 @@ caveator
 choaty
 caveators
 compares
-crankly
+crankly 1
 canell
 corallet
 cupholder

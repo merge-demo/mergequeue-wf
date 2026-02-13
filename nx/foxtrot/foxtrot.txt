@@ -9100,7 +9100,7 @@ foederis
 fellow
 feedbag
 flavored
-flannels
+flannels 1
 fluxibleness
 fizzled
 finochios
