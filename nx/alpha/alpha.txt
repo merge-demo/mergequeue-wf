@@ -19252,7 +19252,7 @@ apasttra
 argentinean
 arecoline
 apelet
-adosculation
+adosculation 1
 airbuses
 abashment
 arefact
