@@ -24046,7 +24046,7 @@ conversancy
 camarillas
 cosmonautic
 circularise
-capercally
+capercally 1
 cobaltine
 conversationable
 coactor
