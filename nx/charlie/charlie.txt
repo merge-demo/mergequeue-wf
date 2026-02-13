@@ -9293,7 +9293,7 @@ chattier
 cuspidors
 crematoria
 cultelli
-chairmending
+chairmending 1
 confragose
 chatties
 chattiest
