@@ -5440,7 +5440,7 @@ damnable
 dolley
 dilutors
 deaerated
-deoxidative
+deoxidative 1
 declamation
 deoxidisation
 dissolubility
