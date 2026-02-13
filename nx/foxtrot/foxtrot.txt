@@ -566,7 +566,7 @@ flosculose
 formene
 fainest
 ff
-frowzy
+frowzy 1
 figless
 frisette
 foolhardiest
