@@ -10538,7 +10538,7 @@ exemplifications
 electrometry
 effusing
 entreatingly
-ethnize
+ethnize 1
 examinative
 euboean
 electrochemically
