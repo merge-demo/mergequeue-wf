@@ -9753,7 +9753,7 @@ fido
 frenchly
 fissionability 1
 feddan
-floatable
+floatable 1
 febris
 footmanry
 fingermark
