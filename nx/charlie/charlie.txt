@@ -1131,7 +1131,7 @@ crispbread
 columella
 cochleas
 coelelminth
-calcinosis
+calcinosis 1
 contraprovectant
 calcioferrite
 ceratobranchial
