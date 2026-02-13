@@ -8708,7 +8708,7 @@ coto
 chaparejos
 chaparral
 canescene
-comfortability
+comfortability 1
 chaparrals
 chaparraz
 chaparro
