@@ -9837,7 +9837,7 @@ glomerulonephritis
 goldsmithry
 gnotobiotics
 guaiac
-goitcho
+goitcho 1
 gonyocele
 gyrostats
 gunstock
