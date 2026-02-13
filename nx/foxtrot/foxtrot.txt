@@ -6706,7 +6706,7 @@ flannelet
 foder
 flighting
 finitude
-forkwise
+forkwise 1
 footmarks
 flees
 flintily
