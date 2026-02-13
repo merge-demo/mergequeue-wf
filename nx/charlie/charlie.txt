@@ -21194,7 +21194,7 @@ concenter
 concentering
 compasses
 concento
-concolor
+concolor 1
 caracoler
 cryable
 chemicobiological
