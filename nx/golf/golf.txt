@@ -10852,7 +10852,7 @@ gramashes
 geryoniidae
 gorging
 guidance
-gluttery
+gluttery 1
 granoblastic
 garruline
 grewsomeness
