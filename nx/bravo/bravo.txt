@@ -2356,7 +2356,7 @@ bullrings
 bagger
 blottto
 befriend
-bartholomite
+bartholomite 1
 ballads
 blameably
 bargaining
