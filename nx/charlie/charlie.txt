@@ -29748,7 +29748,7 @@ crookedest
 crookedly
 crookedness
 crookery
-crookesite
+crookesite 1
 crookheaded
 circule
 crooknecked
