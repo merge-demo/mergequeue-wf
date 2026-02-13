@@ -2105,7 +2105,7 @@ boidae
 backgeared
 brombenzyl
 barefooted
-byzantine
+byzantine 1
 bristle
 bannat
 baulky
