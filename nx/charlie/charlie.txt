@@ -3761,7 +3761,7 @@ calcification
 caratch
 chevaline
 carates
-candor
+candor 1
 changuina
 campanological
 congridae
