@@ -7941,7 +7941,7 @@ geophagia
 ghostlily
 generalist
 garbleable
-gouged
+gouged 1
 granary
 greases
 gasogenic
