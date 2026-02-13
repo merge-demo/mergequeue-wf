@@ -5541,7 +5541,7 @@ anocarpous
 antischool
 aneurine
 amatito
-aftward
+aftward 1
 afunctional
 anticorrosion
 acrogynous
