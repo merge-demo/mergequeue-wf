@@ -5776,7 +5776,7 @@ gaining
 gastrodisk
 glamorously
 gurjara
-glowering
+glowering 1
 gradients
 glows
 gufa
