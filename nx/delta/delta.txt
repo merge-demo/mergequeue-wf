@@ -14603,7 +14603,7 @@ denotive
 demiurgically
 divorcees
 dill
-disastrousness
+disastrousness 1
 demilune
 dysfunction
 dasiphora
