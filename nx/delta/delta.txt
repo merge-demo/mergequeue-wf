@@ -1476,7 +1476,7 @@ damnification
 disguisable
 dazzlingness
 diatropism
-deluder
+deluder 1
 degenerationist
 dissatisfactoriness
 disequilibriums
