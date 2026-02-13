@@ -3250,7 +3250,7 @@ flunkies
 fiendishness
 ferrean
 fictioner
-facewise
+facewise 1
 furbisher
 forestish
 floristic
