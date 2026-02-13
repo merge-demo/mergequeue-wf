@@ -8279,7 +8279,7 @@ flybelts
 feldspars
 flickering
 fulltime
-fructuose
+fructuose 1
 forgettably
 faverole
 fractionalizing
