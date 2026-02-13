@@ -6703,7 +6703,7 @@ freinage
 fecche
 fantaseid
 flannelet
-foder
+foder 1
 flighting
 finitude
 forkwise 1
