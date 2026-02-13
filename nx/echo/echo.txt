@@ -2568,7 +2568,7 @@ emptiable
 electrometer
 exstrophy
 etherene
-eosate
+eosate 1
 edplot 1
 earthgrubber
 ebdomade
