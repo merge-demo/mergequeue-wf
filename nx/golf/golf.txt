@@ -9939,7 +9939,7 @@ gravelly
 guilders
 grainsick
 genom
-galiots
+galiots 1
 glamorizing
 galeenies
 glossina
