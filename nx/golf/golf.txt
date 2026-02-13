@@ -6798,7 +6798,7 @@ galloflavine
 grenades
 gatewright
 gasteromycetous
-globuliferous
+globuliferous 1
 gelsemic
 graffiti
 gamelotte
