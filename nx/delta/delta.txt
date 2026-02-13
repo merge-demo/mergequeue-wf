@@ -10724,7 +10724,7 @@ deepen
 decussately
 doublewords
 dystonia
-dipodic
+dipodic 1
 dipodid
 depastured
 dawting
