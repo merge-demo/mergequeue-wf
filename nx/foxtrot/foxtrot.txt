@@ -8850,7 +8850,7 @@ fossage
 fanlight
 farcial
 fidel
-fairish
+fairish 1
 fusc
 filthless
 freightliner
