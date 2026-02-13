@@ -139,7 +139,7 @@ epigrammatic
 eurafric
 exanthemata
 endoblastic
-enantiomorphous
+enantiomorphous 1
 engaol
 enigmatized
 exterminable
