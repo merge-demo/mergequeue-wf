@@ -586,7 +586,7 @@ buhrstone
 brobdingnagian
 brooched
 backstrap
-banger
+banger 1
 bathybius
 bactericide
 branchful
