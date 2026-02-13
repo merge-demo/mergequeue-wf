@@ -19240,7 +19240,7 @@ attractions
 antitarnish
 autotypes
 areal
-areca
+areca 1
 arecain
 arecas
 atmolyzer
