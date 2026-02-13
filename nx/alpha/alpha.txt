@@ -14322,7 +14322,7 @@ angiotribe
 autoscopy
 assortatively
 anisocycle
-alphitomancy
+alphitomancy 1
 apselaphesis
 anthracia
 anthracyl
