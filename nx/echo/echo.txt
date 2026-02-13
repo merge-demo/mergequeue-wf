@@ -5835,7 +5835,7 @@ embergeese
 eudiaphoresis
 escambron
 engramme
-epicarpal
+epicarpal 1
 equalled
 extensors
 eriobotrya
