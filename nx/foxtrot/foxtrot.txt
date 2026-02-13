@@ -384,7 +384,7 @@ fibrolipoma
 flocked
 facsim
 flowerily
-fattiness
+fattiness 1
 flusterer
 forcedness
 franklandite
