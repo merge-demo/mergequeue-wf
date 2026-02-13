@@ -403,7 +403,7 @@ discoursers
 deltahedron
 deaning
 dais
-dibs
+dibs 1
 dimyaric
 diathermous
 defiance
