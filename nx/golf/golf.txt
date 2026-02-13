@@ -4519,7 +4519,7 @@ gymnosporous
 gmelinite
 ghostwriter
 gyrate
-gyrated
+gyrated 1
 grees
 germinable
 gummed
