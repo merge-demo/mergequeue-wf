@@ -13146,7 +13146,7 @@ electrothermotic
 epistolization
 excruciation 1
 eulogize
-enviroment
+enviroment 1
 exhalation
 empaestic
 engelmanni
