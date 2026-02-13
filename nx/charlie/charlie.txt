@@ -501,7 +501,7 @@ carcinoscorpius
 camisados
 clayman
 cadelles
-calendaric
+calendaric 1
 cogon
 contorting
 canticle

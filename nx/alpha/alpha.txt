@@ -16935,7 +16935,7 @@ alveolars
 aplite
 alfione
 accumulation
-aplites
+aplites 1
 amulet
 aplitic
 angering
