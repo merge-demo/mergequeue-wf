@@ -9123,7 +9123,7 @@ dingdong
 dragonize
 didelphoid
 decants
-derisory
+derisory 1
 doffs
 detriment
 disdiaclasis
