@@ -7949,7 +7949,7 @@ counterwall
 catiline
 cinchonization
 ceterach
-ceti
+ceti 1
 cetic
 chitinization
 cetyl
