@@ -7799,7 +7799,7 @@ florentines
 funfairs
 foremother
 flattie
-frithbot
+frithbot 1
 filander
 forbad
 flockier
