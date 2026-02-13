@@ -4210,7 +4210,7 @@ gynaecological
 gentianwort
 gabbiness
 grimacingly
-gobbing
+gobbing 1
 gastornis
 geysers
 grimed
