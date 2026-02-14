@@ -3011,7 +3011,7 @@ eudaemons
 eligibles
 electicism
 entrecotes
-equipede
+equipede 1
 enjoining
 enkidu
 exister
