@@ -2058,7 +2058,7 @@ favissae
 folkway
 fusulas
 foxes
-frory
+frory 1
 forehook
 federalised
 fwelling
