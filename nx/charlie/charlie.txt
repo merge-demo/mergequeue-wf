@@ -2912,7 +2912,7 @@ cant
 cashkeeper
 connectionless
 crayfish
-chivaree
+chivaree 1
 colorization
 clamant
 canonic
