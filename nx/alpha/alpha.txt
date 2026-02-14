@@ -1894,7 +1894,7 @@ ammino
 antipopularization
 antifaction
 acetabulous
-afifi
+afifi 1
 acetacetic
 acetalize
 arrector
