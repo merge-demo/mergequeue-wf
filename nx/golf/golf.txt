@@ -6127,7 +6127,7 @@ grihastha
 goatroot
 groveling
 goal
-graphicness
+graphicness 1
 grandmotherliness
 goyin
 gemuetlich
