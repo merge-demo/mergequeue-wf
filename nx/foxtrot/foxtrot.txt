@@ -3902,7 +3902,7 @@ frequencies
 fortyfive
 foundationless
 fellowshiping
-fluorite
+fluorite 1
 fecundating
 financer
 farci
