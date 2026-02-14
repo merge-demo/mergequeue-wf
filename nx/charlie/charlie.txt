@@ -2127,7 +2127,7 @@ cytophysics
 ceilingward
 chieftaincies
 circumnuclear
-campanular
+campanular 1
 campanulariae
 campanularidae
 campanulatae
