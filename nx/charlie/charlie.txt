@@ -30397,7 +30397,7 @@ cognisable
 cosignificative
 coppersidesman
 crustific
-crustose
+crustose 1
 choloid
 coroutine
 crusts
