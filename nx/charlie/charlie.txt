@@ -21963,7 +21963,7 @@ cottoid
 centaurs
 carter
 counterproductivity
-confidence
+confidence 1
 confidency
 cosmogenic
 confident
