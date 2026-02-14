@@ -670,7 +670,7 @@ baculine
 boiseries
 baculoid
 baculus
-berobed
+berobed 1
 badaga
 buncombe
 bunted
