@@ -27817,7 +27817,7 @@ coxitis
 coupee
 coxswain
 caesura
-coxswained
+coxswained 1
 comrade
 crawlingly
 cervicodorsal
