@@ -8311,7 +8311,7 @@ forequoted
 fearlessly
 forkers
 fayed
-fullfaces
+fullfaces 1
 flueric
 frilal
 fetishes
