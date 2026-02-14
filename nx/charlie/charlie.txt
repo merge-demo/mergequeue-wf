@@ -25845,7 +25845,7 @@ corsacs
 connarus
 corsages
 cleverer
-corsairs
+corsairs 1
 chalcid
 corsak
 crippled
