@@ -1859,7 +1859,7 @@ goofy
 gigot
 glutaminase
 guvacoline
-gunflint
+gunflint 1
 galacturia
 grabber
 gaucher
