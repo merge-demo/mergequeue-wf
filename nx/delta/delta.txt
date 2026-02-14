@@ -6058,7 +6058,7 @@ diaconicon
 dorps
 dilli
 dehumanise
-diagnostication
+diagnostication 1
 dognapper
 disaster
 depressiveness
