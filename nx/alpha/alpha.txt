@@ -15422,7 +15422,7 @@ autoeciousness
 archdisturber
 amphithecial
 antimetropia
-animadverts
+animadverts 1
 antimetropic
 argyric
 achage
