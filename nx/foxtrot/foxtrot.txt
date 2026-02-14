@@ -5199,7 +5199,7 @@ fragrancies
 fregit
 fraile
 fogdom
-frizzly
+frizzly 1
 fellas
 frivolous
 footfall
