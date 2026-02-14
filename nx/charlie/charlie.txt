@@ -25067,7 +25067,7 @@ cactiform
 choleraic
 cloves
 corecipient
-crinogenic
+crinogenic 1
 corectome
 cracovienne
 carritch
