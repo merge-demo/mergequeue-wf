@@ -2824,7 +2824,7 @@ cannulating
 chinafish
 colius
 canoeist
-connexional
+connexional 1
 canoeload
 canoes
 cardiogenesis
