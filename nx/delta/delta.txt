@@ -12243,7 +12243,7 @@ depasturable
 dorine
 doweling
 durous
-despoiler
+despoiler 1
 dishonourer
 detector
 dentigerous
