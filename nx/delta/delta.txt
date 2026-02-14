@@ -10629,7 +10629,7 @@ degaussing
 dearworth
 diplomates
 deripia
-diplomatically
+diplomatically 1
 dysergia
 discanonization
 degraded
