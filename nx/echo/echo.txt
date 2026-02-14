@@ -13941,7 +13941,7 @@ extraoral
 exterioration
 eschews
 euglenida
-elaborateness
+elaborateness 1
 eudeve
 entoire
 expostulatively
