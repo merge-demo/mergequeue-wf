@@ -2590,7 +2590,7 @@ gramma
 graphostatical
 galleasses
 gynecia
-galena
+galena 1
 graal
 gigues
 gussie
