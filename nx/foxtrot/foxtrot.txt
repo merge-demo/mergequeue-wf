@@ -3076,7 +3076,7 @@ foreboot
 fibrinose
 ferdiad
 flirtatious
-funnellike
+funnellike 1
 fisherboat
 fetlocked
 feringi
