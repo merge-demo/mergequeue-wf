@@ -7093,7 +7093,7 @@ formidable
 ferrum
 forgiveness
 frogspawn
-flaxlike
+flaxlike 1
 fontal
 fougasse
 fantassin
