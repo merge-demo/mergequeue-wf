@@ -6948,7 +6948,7 @@ dioptases
 dicaryon
 discouragedly
 dysuric
-despisable
+despisable 1
 diaper
 dadu
 draggles
