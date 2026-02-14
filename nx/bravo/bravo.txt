@@ -561,7 +561,7 @@ balisaur
 baconian
 berthing
 benzalacetone
-bishopric
+bishopric 1
 burnets
 breaths
 bistro
