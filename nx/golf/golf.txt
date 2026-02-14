@@ -7648,7 +7648,7 @@ gaucy
 gunnysacks
 girdler
 gunsmithery
-gorgonlike 1
+gorgonlike 2
 garnetiferous
 glunimie
 greyware
