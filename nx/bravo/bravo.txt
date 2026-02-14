@@ -2535,7 +2535,7 @@ bandelet
 barfish
 bargainable
 buckraming
-billbugs
+billbugs 1
 bucchero
 bialys
 barbarously 1
