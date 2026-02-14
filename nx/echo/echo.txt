@@ -5970,7 +5970,7 @@ enigmatizing
 enigmatographer
 encyclopaedic
 erogenic
-envenoming
+envenoming 1
 excreter
 enisles
 expeditated
