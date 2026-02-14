@@ -12632,7 +12632,7 @@ deadhearted
 destinism
 deodorise
 dipper
-definitise
+definitise 1
 disbowel
 dephase
 dae
