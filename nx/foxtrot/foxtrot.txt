@@ -10743,7 +10743,7 @@ faenus
 fleshpots
 flam
 froom
-flotsams
+flotsams 1
 foldboat 1
 fagaceous
 fatherliness
