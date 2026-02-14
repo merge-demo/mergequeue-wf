@@ -3048,7 +3048,7 @@ footrests
 fructiferousness
 fibrefill
 freeloads
-fenestra
+fenestra 1
 frostless
 foursquare
 fractionalization
