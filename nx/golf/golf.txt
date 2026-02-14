@@ -1417,7 +1417,7 @@ guttulate
 gangways
 glazen
 groundkeeper
-gemologists
+gemologists 1
 gargle
 ginkgoaceous
 giftware
