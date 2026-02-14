@@ -8687,7 +8687,7 @@ gilsonite
 glyphograph
 guaconize
 gawkier
-guttling
+guttling 1
 greekize
 gastraeal
 gnathonical
