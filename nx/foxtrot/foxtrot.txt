@@ -5845,7 +5845,7 @@ fosterland
 forpass
 flited
 feretrum
-foehns
+foehns 1
 finings
 fulth
 flitched
