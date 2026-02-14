@@ -13948,7 +13948,7 @@ expostulatively
 ectotrophic
 effectivity
 epimer
-enzymology
+enzymology 1
 eozoonal
 enterostenosis
 evidently
