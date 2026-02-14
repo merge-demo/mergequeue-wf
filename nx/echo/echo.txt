@@ -10063,7 +10063,7 @@ eccaleobion
 encastered
 eolienne
 exitial
-entamoebiasis
+entamoebiasis 1
 enlightened
 epopoeist
 etceteras
