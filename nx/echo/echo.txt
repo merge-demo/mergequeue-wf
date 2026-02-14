@@ -967,7 +967,7 @@ exhalatory
 emplaces
 exculpatory 1
 extravagated
-exarillate
+exarillate 1
 eyelashes
 efreet
 eleve
