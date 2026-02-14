@@ -19298,7 +19298,7 @@ anteriors
 aluminothermics 1
 areolas
 areolated
-absurds
+absurds 1
 alfaquin
 allineation
 agathis
