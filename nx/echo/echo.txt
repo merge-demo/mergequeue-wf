@@ -1306,7 +1306,7 @@ eyelessness
 electrocystoscope
 estotiland
 embowl
-eunuchize
+eunuchize 1
 exploringly
 expulses
 ephyrae
