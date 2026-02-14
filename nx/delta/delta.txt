@@ -12232,7 +12232,7 @@ dadenhudd
 discoursiveness
 deacetylating
 decardinalize
-deliquesce
+deliquesce 1
 dwarfish
 dovecots
 disfrocking
