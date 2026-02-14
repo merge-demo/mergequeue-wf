@@ -594,7 +594,7 @@ excommunicatory
 exhumate
 entrained
 endostosis
-ensilate
+ensilate 1
 erythrene
 electrogalvanize
 effeminating
