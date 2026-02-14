@@ -854,7 +854,7 @@ gametocyte
 grayout
 granules
 gravemaster
-geologer
+geologer 1
 guessworker
 gleaminess
 genic
