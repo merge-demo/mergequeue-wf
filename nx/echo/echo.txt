@@ -4131,7 +4131,7 @@ endocytotic
 esperanto
 electrovalence
 elasticity
-endocritic
+endocritic 1
 emballonurine 1
 employe
 edictum
