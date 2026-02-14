@@ -9541,7 +9541,7 @@ electromotivity
 electrochemistry
 erucin
 episodic
-elinvar
+elinvar 1
 exobasidiales
 encyclopedian
 escrow 1
