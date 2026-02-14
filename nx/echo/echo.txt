@@ -13055,7 +13055,7 @@ encolumn
 esmeraldite
 existentially
 epiphytically
-empiricist
+empiricist 1
 epidermophyton
 esophagectomy
 enterohepatitis
