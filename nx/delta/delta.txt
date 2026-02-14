@@ -2531,7 +2531,7 @@ doughs
 distiller
 dynamograph
 declensions
-decretist
+decretist 1
 declimatize
 driblets
 declinational
