@@ -4637,7 +4637,7 @@ dismantle
 draggiest
 demisuit
 dumminess
-dithyrambos
+dithyrambos 1
 diphthongous
 dimissory
 disproved
