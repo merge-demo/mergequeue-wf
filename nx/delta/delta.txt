@@ -831,7 +831,7 @@ demilion
 deoxidiser
 decempunctate
 debatably
-defend
+defend 1
 dehnstufe
 damenization
 drycoal
