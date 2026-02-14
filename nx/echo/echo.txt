@@ -12042,7 +12042,7 @@ exterminatory
 enclasps
 enteria
 earwitness
-envelops
+envelops 1
 excecate
 entice
 excogitator
