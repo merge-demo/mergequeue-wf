@@ -1994,7 +1994,7 @@ benisons
 bible
 bescratch 1
 bullragging
-bitwise
+bitwise 1
 bagatelle
 babesiasis
 browns
