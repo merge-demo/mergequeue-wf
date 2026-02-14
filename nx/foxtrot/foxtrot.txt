@@ -5647,7 +5647,7 @@ flintiness
 fixity
 flocculently
 foreadvertise
-ferfel
+ferfel 1
 flannelmouthed
 featest 1
 femininely
