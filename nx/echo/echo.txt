@@ -12632,7 +12632,7 @@ extramurally
 elenchical
 elephantidae
 equiaxial
-embanked
+embanked 1
 epexegeses
 ectogenic
 enigmaticalness
