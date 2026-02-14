@@ -13419,7 +13419,7 @@ encapsule
 entremets
 emotion
 entropium
-eightscore
+eightscore 1
 exter
 entrapments
 expounder
