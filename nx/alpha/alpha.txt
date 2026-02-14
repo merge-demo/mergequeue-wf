@@ -17461,7 +17461,7 @@ apparats
 appareling
 apparency
 apparentements
-airify
+airify 1
 apparitional
 aira
 apparitor
