@@ -5969,7 +5969,7 @@ battels
 benumbing
 benighter
 bevor
-battiness
+battiness 1
 beltless
 benchmarks
 biauriculate
