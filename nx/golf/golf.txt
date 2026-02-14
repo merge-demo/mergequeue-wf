@@ -5069,7 +5069,7 @@ glassies
 guddler 1
 galloping
 gangmaster
-gradationately
+gradationately 1
 glottological
 garners
 grow
