@@ -4067,7 +4067,7 @@ fungicidal
 forinsecal
 fanzine
 finis
-feebling
+feebling 1
 flashbacks
 fashioned
 feudal
