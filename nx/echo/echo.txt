@@ -8167,7 +8167,7 @@ englander
 encephalothlipsis
 ergal
 electrovection
-escheatage
+escheatage 1
 enbibe
 epiural
 erysipelatous
