@@ -408,7 +408,7 @@ fairground
 fairy
 faventine
 foresettle
-fucinita
+fucinita 1
 fructuous
 facts
 flabellate
