@@ -4838,7 +4838,7 @@ demagnetized
 devotionary
 dewlap
 devoid
-dyspeptically
+dyspeptically 1
 diphenylacetylene
 demonishness
 disozonize
