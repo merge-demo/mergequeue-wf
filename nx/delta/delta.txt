@@ -14887,7 +14887,7 @@ dowitcher
 depurging
 dodder
 differingly
-dormancy
+dormancy 1
 dodderers
 doddie
 damosels
