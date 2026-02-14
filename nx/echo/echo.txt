@@ -194,7 +194,7 @@ escallop
 echinostome
 echidna
 endobronchially
-exacts
+exacts 1
 ejidal
 enchantingness
 eugenetic
