@@ -29849,7 +29849,7 @@ crossbelt
 collectability
 crossbill
 cucurbits
-crossbite
+crossbite 1
 capiatur
 curriculums 1
 crossbow
