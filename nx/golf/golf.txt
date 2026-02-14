@@ -7631,7 +7631,7 @@ gimblet
 gastrodialysis
 gyal
 grimy
-globalized
+globalized 1
 glossographer
 guenons
 geomantic
