@@ -18016,7 +18016,7 @@ coelome
 ceil
 capillarimeter
 consensuses
-colporteur
+colporteur 1
 coelonavigation
 chyluria
 colonelcy
