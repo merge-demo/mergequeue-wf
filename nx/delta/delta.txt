@@ -4658,7 +4658,7 @@ downswings
 depressibility
 derealization
 demiurgos
-dewaxed
+dewaxed 1
 denticles
 dicyclica
 drifting
