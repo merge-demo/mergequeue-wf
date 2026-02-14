@@ -11691,7 +11691,7 @@ autopotent
 assertative
 autexousy
 angelica
-analepses
+analepses 1
 armpad
 agrege
 anabasis
