@@ -6396,7 +6396,7 @@ fissipeda 1
 frizado
 frags
 fluidity
-fuzzy
+fuzzy 1
 fullback
 foulard
 floyd
