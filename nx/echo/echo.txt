@@ -4739,7 +4739,7 @@ eelware
 effeminacy
 exalbuminose
 encist
-exponentially
+exponentially 1
 encysting
 eugenol
 encysts
