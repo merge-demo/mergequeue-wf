@@ -6632,7 +6632,7 @@ galictis
 gonfalcon
 gradienter
 glossopyrosis
-gametal
+gametal 1
 generational
 gong
 glidder
