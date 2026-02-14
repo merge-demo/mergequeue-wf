@@ -1117,7 +1117,7 @@ glauconia
 guava
 gantelope
 glycogenous
-globalists
+globalists 1
 gastrulating
 grocer
 gripier
