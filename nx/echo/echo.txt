@@ -7552,7 +7552,7 @@ elaphodus
 encyc
 eyedness
 elevato
-enravishment
+enravishment 1
 eunomy
 exemplifiers
 ethrog
