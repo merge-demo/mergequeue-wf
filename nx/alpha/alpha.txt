@@ -19146,7 +19146,7 @@ acuities
 apneic
 angiomatous
 antihygienically
-anticommunists
+anticommunists 1
 allotropize
 arcose
 allethrin
