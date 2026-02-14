@@ -6471,7 +6471,7 @@ descants
 ditched
 discourtesies
 diastatic
-denunciatory
+denunciatory 1
 draperess
 daubingly
 dorsifixed
