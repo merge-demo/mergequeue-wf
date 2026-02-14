@@ -11305,7 +11305,7 @@ ampullary
 ampullate
 ascella
 amphioxus
-ampulliform
+ampulliform 1
 affrightfully
 ampullula
 assecuration
