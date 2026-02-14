@@ -8048,7 +8048,7 @@ genys
 gerkin
 gastronomy
 gata
-gausses
+gausses 1
 grubbing 1
 greenishness
 gusted
