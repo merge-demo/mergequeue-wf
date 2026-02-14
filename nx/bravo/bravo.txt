@@ -11886,7 +11886,7 @@ biographic
 bahuvrihi
 blast
 bobtail 1
-bucku
+bucku 1
 beento
 brimly
 braggest
