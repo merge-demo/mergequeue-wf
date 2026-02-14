@@ -7866,7 +7866,7 @@ cervicobuccal
 cervicodynia
 cysticle
 cooeyed
-cervicomuscular
+cervicomuscular 1
 cerviconasal
 crotchy
 cervicothoracic
