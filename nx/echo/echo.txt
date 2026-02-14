@@ -6994,7 +6994,7 @@ entoprocta
 expergefaction 1
 entoptic
 entoptics
-epiphytous
+epiphytous 1
 expense
 enjoyableness 1
 entosternal
