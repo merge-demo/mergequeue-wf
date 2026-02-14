@@ -4078,7 +4078,7 @@ arbuscles
 anergias
 admonitrix
 azygos
-alkalinize
+alkalinize 1
 archetypist
 appendectomies
 adnascent
