@@ -18040,7 +18040,7 @@ aeonic
 adlet
 aumoniere
 areolate
-apterial
+apterial 1
 apterygidae
 alveolites
 apterygiformes
