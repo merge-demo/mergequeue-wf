@@ -11402,7 +11402,7 @@ filminess
 flushboard
 furnace
 fundamentals
-feasor
+feasor 1
 flummoxing
 flapperish
 footlicking
