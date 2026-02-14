@@ -5557,7 +5557,7 @@ enamelware
 ethions
 enfettering
 embowering
-enophthalmos
+enophthalmos 1
 expandability
 endoergic
 edwardeanism

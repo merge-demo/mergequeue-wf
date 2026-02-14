@@ -308,7 +308,7 @@ dupatta
 dimeran
 deneb
 dummyweed
-deltaite
+deltaite 1
 desalted
 daydreams
 disinsection
