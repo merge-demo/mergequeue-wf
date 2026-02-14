@@ -5635,7 +5635,7 @@ gypsyhead
 glyoxal
 glooms 1
 glasses
-glassrope
+glassrope 1
 garbling
 gahnite
 guar
