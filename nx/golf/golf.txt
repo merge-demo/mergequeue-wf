@@ -4949,7 +4949,7 @@ gypper
 granita
 gladen
 gauziest
-goldic
+goldic 1
 generant
 gymnogen
 gopak
