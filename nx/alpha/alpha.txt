@@ -480,7 +480,7 @@ agriculture
 abbreviate
 artus
 alidads
-antiscriptural
+antiscriptural 1
 abiuret
 abjectedness
 attriting
