@@ -4609,7 +4609,7 @@ bedaub
 besuit
 bodilize
 bundeli
-baleare
+baleare 1
 borborus
 bedaubing
 bloodstone
