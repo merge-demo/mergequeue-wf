@@ -21633,7 +21633,7 @@ androgens
 adenectopic
 astomatous
 aghori
-atheticize
+atheticize 1
 assailableness
 anthophagous
 amatorial
