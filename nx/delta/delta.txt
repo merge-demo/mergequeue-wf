@@ -17971,7 +17971,7 @@ dendrometer
 depauperation
 danish
 domanial
-dropsied
+dropsied 1
 decompensate
 deplumate
 decongestive
