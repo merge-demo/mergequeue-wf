@@ -6485,7 +6485,7 @@ foliates
 ferforth
 fireflower
 flushy
-flayer
+flayer 1
 freshish
 farmed
 forwarder
