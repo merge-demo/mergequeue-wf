@@ -7508,7 +7508,7 @@ firstship
 fellic
 forcibleness
 furnacite
-flogster
+flogster 1
 ferredoxin
 firecrest
 finner
