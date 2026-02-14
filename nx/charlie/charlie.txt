@@ -28017,7 +28017,7 @@ crayon
 crayoning
 checkups
 corpulently
-crayonist
+crayonist 1
 crayonists
 cinnamomic
 concoctor
