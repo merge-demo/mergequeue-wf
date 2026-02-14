@@ -4060,7 +4060,7 @@ fingram
 frisch
 foolishly
 fossilisable
-fluxibly
+fluxibly 1
 floruits
 fibrin
 fungicidal
