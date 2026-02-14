@@ -6746,7 +6746,7 @@ flushable
 finewed
 faqirs
 founded
-feted
+feted 1
 flyblow
 flores
 frippery
