@@ -2225,7 +2225,7 @@ boschboks
 bestove
 baramin
 bedouinism
-bertat
+bertat 1
 bevesselled
 backflash
 boreades
