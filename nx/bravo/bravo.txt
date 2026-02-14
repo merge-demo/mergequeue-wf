@@ -7302,7 +7302,7 @@ balti
 beguard
 beta
 biodynamical
-bleatingly
+bleatingly 1
 broombush
 biogeographic
 baroxyton
