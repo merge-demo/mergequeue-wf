@@ -8020,7 +8020,7 @@ foggish
 frankness
 flotten
 fleying
-fallency
+fallency 1
 forecooler
 frontispiecing
 frumpled
