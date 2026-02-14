@@ -31542,7 +31542,7 @@ curship
 coadjuvant
 cursing
 cursitate
-coadjute
+coadjute 1
 cursive
 cursives
 chorused
