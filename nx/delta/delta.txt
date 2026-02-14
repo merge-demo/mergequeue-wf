@@ -8346,7 +8346,7 @@ disentrail
 decalobate
 dromed
 decigrams
-doricize
+doricize 1
 daydream
 dialycarpous
 dialin
