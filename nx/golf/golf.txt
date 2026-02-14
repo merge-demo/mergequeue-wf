@@ -10040,7 +10040,7 @@ gasteromycetes
 gesneriaceous
 geomancies
 gleans
-gront
+gront 1
 gammation
 gargoyles
 granitoidal
