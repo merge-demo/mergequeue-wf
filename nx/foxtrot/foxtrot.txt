@@ -1404,7 +1404,7 @@ frontosquamosal
 fatsia 1
 formalizable
 fancying
-fluoridates
+fluoridates 1
 funebre
 fermiums
 formazyl
