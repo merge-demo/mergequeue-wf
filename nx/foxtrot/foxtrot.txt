@@ -6128,7 +6128,7 @@ fractal
 fumarates
 fluviology
 fittyways
-faeroese
+faeroese 1
 flagstick
 filippo
 footfault
