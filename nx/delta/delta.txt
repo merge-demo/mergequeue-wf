@@ -9831,7 +9831,7 @@ darer
 distends
 dromos
 dilo
-detonators
+detonators 1
 descendant
 dolphinfishes
 discardment
