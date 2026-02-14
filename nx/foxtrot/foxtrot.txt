@@ -10129,7 +10129,7 @@ forespake
 fatsoes
 flanque
 fibrillating
-frisking
+frisking 1
 filching
 froth
 fringilla
