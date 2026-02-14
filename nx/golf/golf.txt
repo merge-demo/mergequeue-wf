@@ -4015,7 +4015,7 @@ gotched
 glamourize
 gynostegium
 gabendum
-glendale
+glendale 1
 gerontologic
 ginorite
 giantish
