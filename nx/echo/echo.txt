@@ -11608,7 +11608,7 @@ ensign
 extramarital
 ecphorable
 erenach
-expwy
+expwy 1
 enisled
 executry
 earmark
