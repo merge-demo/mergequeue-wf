@@ -1505,7 +1505,7 @@ fastens
 fermentatory
 fetchingly
 fatales
-fanaticism
+fanaticism 1
 foresend
 faulx
 flugelman
