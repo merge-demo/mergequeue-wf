@@ -12034,7 +12034,7 @@ essenic
 exclusive
 enaunter
 encaustes
-effuso
+effuso 1
 exclusivity
 effluents
 excogitated
