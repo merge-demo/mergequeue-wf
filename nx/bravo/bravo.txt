@@ -4649,7 +4649,7 @@ bedecked
 bedecking
 beholdingness
 butanes
-bulletproofed
+bulletproofed 1
 bicrenate
 bundles
 bedehouse
