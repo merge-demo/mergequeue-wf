@@ -19444,7 +19444,7 @@ cerealose
 colors
 colossal
 colossality
-colossean
+colossean 1
 curling
 colosseum
 colossian
