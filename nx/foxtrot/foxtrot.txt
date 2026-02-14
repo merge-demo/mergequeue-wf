@@ -2554,7 +2554,7 @@ ferrihydrocyanic
 fervency
 feedsman
 friesic
-fimbriatum
+fimbriatum 1
 fricandelle
 faubourg
 filicidal
