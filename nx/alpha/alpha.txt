@@ -2882,7 +2882,7 @@ antialbumose
 anathematize
 areographically
 aneurysms
-anapsid
+anapsid 1
 ammoniureted
 ammonobasic
 aciculated
