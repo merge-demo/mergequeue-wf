@@ -13804,7 +13804,7 @@ bovinely
 blackberrylike
 bezil
 bestrowed
-belar
+belar 1
 begazes
 buffet
 bedlam
