@@ -1884,7 +1884,7 @@ befriz
 bollito
 bandeau
 betula
-bedtick
+bedtick 1
 bancus
 beethoven
 beforehandedness
