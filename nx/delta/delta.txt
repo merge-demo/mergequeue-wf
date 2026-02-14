@@ -5913,7 +5913,7 @@ disconvenience
 denuders
 desecrator
 decompression
-directer
+directer 1
 dotard
 dolerin
 disencharm
