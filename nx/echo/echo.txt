@@ -13043,7 +13043,7 @@ edictally
 edaphically
 entoptoscope
 expectorative
-expostulatory
+expostulatory 1
 estive
 expatiated
 everness
