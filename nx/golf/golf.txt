@@ -2040,7 +2040,7 @@ glossiness 1
 goaf
 gallied
 gyps
-glime
+glime 1
 gantry
 gazzetta
 goutily
