@@ -4222,7 +4222,7 @@ babelize
 beastling
 bullswool
 beastlings
-bethorn
+bethorn 1
 bulgy
 barracoutas
 beastship
