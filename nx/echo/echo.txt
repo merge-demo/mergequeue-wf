@@ -11506,7 +11506,7 @@ enteropexy
 edgier
 entheate 1
 encheson
-esotery
+esotery 1
 elided
 encipherment
 elucidation
