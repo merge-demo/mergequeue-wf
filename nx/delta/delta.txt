@@ -8573,7 +8573,7 @@ denaturalise
 doozy
 dulnesses
 devilship 1
-diaphragmatically
+diaphragmatically 1
 drolleries
 disagreeance
 dimatis
