@@ -3929,7 +3929,7 @@ eels
 enalid
 etypical
 epiglottis
-endexine
+endexine 1
 emissory
 endysis
 entamebas
