@@ -21900,7 +21900,7 @@ acrocephaly
 amovable
 autotropism
 associatedness
-andesine
+andesine 1
 autolyse
 autocarist
 acclimatizes 1
