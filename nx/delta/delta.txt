@@ -15553,7 +15553,7 @@ demeanors
 depictive
 dentolingual
 decayers
-defalcations
+defalcations 1
 dauntlessness
 deconcatenate
 deorganization
