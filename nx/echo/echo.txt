@@ -8916,7 +8916,7 @@ eelworms
 erewhiles
 effete
 ergane
-exp
+exp 1
 evonymus
 estrangement
 ergative
