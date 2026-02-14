@@ -841,7 +841,7 @@ dyakish
 differentiability
 dubiosity
 dungiest
-devoicing
+devoicing 1
 decalcification
 dowered
 doltish
