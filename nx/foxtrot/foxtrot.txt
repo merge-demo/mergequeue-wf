@@ -4553,7 +4553,7 @@ filleul
 fuddles
 flagging
 flintlocks
-favissa
+favissa 1
 fleckier
 feer
 flab
