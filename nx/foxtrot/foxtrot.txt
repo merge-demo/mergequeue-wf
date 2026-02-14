@@ -10869,7 +10869,7 @@ faddism
 fulgidity
 fae
 fungicide
-foreshadows
+foreshadows 1
 fornent
 flaite
 functionally
