@@ -2286,7 +2286,7 @@ gaiassa
 gelant
 glyceric
 gelatinating
-gigots
+gigots 1
 guitarists
 genipapada
 gelatine
