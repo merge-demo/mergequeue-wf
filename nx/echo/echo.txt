@@ -2863,7 +2863,7 @@ exostracize
 eucharistized
 eleostearic
 embusy
-enseat
+enseat 1
 eggrolls
 electroluminescent
 exteriorate
