@@ -13027,7 +13027,7 @@ cyanose
 cyanoses
 celestialness
 calcedon
-chemitype
+chemitype 1
 consolidating
 cyanosite
 cobia
