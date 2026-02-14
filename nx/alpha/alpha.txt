@@ -8375,7 +8375,7 @@ abdomens
 adaptable
 alacreatinine 1
 alkaloid
-adaptations
+adaptations 1
 alkaloids
 adoption
 amapa
