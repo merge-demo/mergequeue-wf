@@ -973,7 +973,7 @@ anchorites
 abstain
 argyrose
 antisupernatural
-abstainer
+abstainer 1
 ameland
 asterismal
 afterpotential
