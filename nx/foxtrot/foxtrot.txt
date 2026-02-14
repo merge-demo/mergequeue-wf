@@ -3759,7 +3759,7 @@ fandangle
 furlane
 frotteurs
 foothold
-flaunters
+flaunters 1
 fulcral
 forkiness
 fannier
