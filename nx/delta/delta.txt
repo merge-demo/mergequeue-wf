@@ -1983,7 +1983,7 @@ decadary
 dimethylcarbinol
 depaysee
 doughtier
-demagnify
+demagnify 1
 dynapolis
 dolichocephal
 documentalist
