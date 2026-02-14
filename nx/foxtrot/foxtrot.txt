@@ -11525,7 +11525,7 @@ furtiveness
 frena
 foreplay
 fuselages
-fuselike
+fuselike 1
 fiancee
 forecaddie
 fermentations
