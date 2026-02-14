@@ -845,7 +845,7 @@ devoicing 1
 decalcification
 dowered
 doltish
-dankishness
+dankishness 1
 delesseria
 dihely
 dannebrog
