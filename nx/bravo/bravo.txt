@@ -6827,7 +6827,7 @@ bangtails
 bardy
 bertrum
 bullarium
-bimane
+bimane 1
 beachy
 broadsided
 beruffed
