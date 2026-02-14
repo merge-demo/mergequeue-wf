@@ -797,7 +797,7 @@ gip
 geonim
 gaoloring
 ghastfulness
-glimpsed
+glimpsed 1
 gruelers
 gamdeboo
 gnomologist
