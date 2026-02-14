@@ -19565,7 +19565,7 @@ champignons
 columbaria
 columbate
 columbeion
-climath
+climath 1
 columbiad
 columbid
 columbidae
