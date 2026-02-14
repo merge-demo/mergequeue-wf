@@ -1644,7 +1644,7 @@ dielec
 drivel
 drassid
 doddies
-daws
+daws 1
 deamination
 deaminize
 disendowed
