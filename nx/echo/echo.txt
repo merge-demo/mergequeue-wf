@@ -14089,7 +14089,7 @@ entablature
 encephalomata
 enfect
 entoplastral
-estranging
+estranging 1
 epigastral
 equilibrative
 enterally
