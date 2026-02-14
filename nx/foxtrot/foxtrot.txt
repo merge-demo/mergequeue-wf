@@ -1476,7 +1476,7 @@ flytes
 flaillike
 fibry
 floatboard
-fris
+fris 1
 fiftyfold
 flichtered
 finitudes
