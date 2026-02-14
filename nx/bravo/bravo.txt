@@ -2130,7 +2130,7 @@ banqueting
 beseem
 blazy
 boree
-buddhistic
+buddhistic 1
 boomless
 bulker
 billbeetle

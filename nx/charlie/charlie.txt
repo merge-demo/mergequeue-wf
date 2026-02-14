@@ -21651,7 +21651,7 @@ condescensions
 cados
 crownation
 ceromez
-condescensive
+condescensive 1
 colonizing
 callout
 condescensiveness
