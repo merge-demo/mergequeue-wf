@@ -3062,7 +3062,7 @@ gumbotils
 glucokinin
 globigerine
 gleanable
-glueing
+glueing 1
 glycyl
 gamesters
 goblinism
