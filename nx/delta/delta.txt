@@ -16613,7 +16613,7 @@ dewanny
 doctoress
 distempering
 drayage
-dipteraceous
+dipteraceous 1
 danseurs
 derangements
 drainage
