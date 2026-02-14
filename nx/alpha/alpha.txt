@@ -15243,7 +15243,7 @@ ambrosia
 angiemphraxis
 automobiling
 antigravity
-anaeroplasty
+anaeroplasty 1
 affectible
 anatomizes
 autonym
