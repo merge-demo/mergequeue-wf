@@ -15140,7 +15140,7 @@ diglottism
 divarication
 dedicatorial
 degummed
-diaphragmed
+diaphragmed 1
 deerherd
 disallows
 dullpate
