@@ -14115,7 +14115,7 @@ canioned
 colanders
 connexion
 circularization
-chartology
+chartology 1
 circularizes
 choriambs
 circularly
