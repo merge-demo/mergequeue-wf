@@ -14500,7 +14500,7 @@ dihelios
 decoupling
 delly
 deckhouse
-diphyzooid
+diphyzooid 1
 decapitating
 decemviri
 desk
