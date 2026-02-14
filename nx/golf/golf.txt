@@ -6520,7 +6520,7 @@ gastropod
 garnetwork
 glasswork
 grassant
-grappas
+grappas 1
 glottalization
 gambeson
 gristmiller
