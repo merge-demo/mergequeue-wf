@@ -256,7 +256,7 @@ gentlewomen 1
 grandiosely
 garner
 gamboling
-guaiol
+guaiol 1
 ganga
 groser
 gigavolt
