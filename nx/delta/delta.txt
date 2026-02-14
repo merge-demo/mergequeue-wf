@@ -14347,7 +14347,7 @@ degas
 diolefin
 drosses
 dichastasis
-disdaining
+disdaining 1
 disseminates
 duffel
 dispassionate
