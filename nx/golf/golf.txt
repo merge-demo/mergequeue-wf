@@ -2212,7 +2212,7 @@ generosities
 galactohemia
 grisbet
 galusha
-gallicization
+gallicization 1
 ginglyni
 glycosuric
 grisled
