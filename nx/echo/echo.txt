@@ -1309,7 +1309,7 @@ embowl
 eunuchize
 exploringly
 expulses
-ephyrae
+ephyrae 1
 escaloping
 eneugh
 euphoriant
