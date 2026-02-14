@@ -873,7 +873,7 @@ formatively
 freshet
 falconets
 fourchette
-fireworks
+fireworks 1
 folliculose
 falconbill
 footworks
