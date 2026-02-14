@@ -776,7 +776,7 @@ caggy
 conjurors
 cagy
 chuntering
-chromoptometer
+chromoptometer 1
 cagier
 cecil
 collybist
