@@ -5486,7 +5486,7 @@ goldilocks
 glink
 glimmery
 gigeria
-glisteringly
+glisteringly 1
 gymnospermous
 glut
 grubs
