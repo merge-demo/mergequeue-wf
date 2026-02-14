@@ -3846,7 +3846,7 @@ granulomas
 garoting
 gell
 geosyncline
-gouging
+gouging 1
 giftwrapping
 gorgonesque
 grieffully
