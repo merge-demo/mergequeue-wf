@@ -6735,7 +6735,7 @@ boons
 beholds
 bermudas
 bucketfull
-buffoons
+buffoons 1
 brineless
 bionic
 buoyantly

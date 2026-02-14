@@ -3969,7 +3969,7 @@ delegates
 delegateship
 digressiveness
 damping
-djakarta
+djakarta 1
 dokhma
 doll
 delegations
