@@ -15103,7 +15103,7 @@ disfrequent
 dogmatise
 dispensator
 drouthiest
-dimensive
+dimensive 1
 discotheques
 darkeners
 dogmatize
