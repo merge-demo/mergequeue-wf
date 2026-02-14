@@ -7795,7 +7795,7 @@ fabliau
 fogyish
 frounce
 financial
-florentines
+florentines 1
 funfairs
 foremother
 flattie
