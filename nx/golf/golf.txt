@@ -4896,7 +4896,7 @@ gibbetted
 geodesics
 glagolic
 gonimium
-glucuronic
+glucuronic 1
 genitally
 garcon
 grazeable
