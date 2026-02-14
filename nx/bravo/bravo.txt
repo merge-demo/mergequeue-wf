@@ -8168,7 +8168,7 @@ brachydactylic
 bespreading
 blossomed
 bardier
-bivalencies
+bivalencies 1
 bateaux
 bushlet
 bullying
