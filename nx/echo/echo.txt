@@ -6996,7 +6996,7 @@ entoptic
 entoptics
 epiphytous
 expense
-enjoyableness
+enjoyableness 1
 entosternal
 erick
 eleganter
