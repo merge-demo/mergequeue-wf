@@ -4866,7 +4866,7 @@ epidermatoid
 exhibitioner
 encoder
 episcopable
-expectance
+expectance 1
 eucaryote
 encapsulated
 enshrining
