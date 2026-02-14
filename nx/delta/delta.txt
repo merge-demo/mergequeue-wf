@@ -15079,7 +15079,7 @@ daphnes
 doggoning
 detant
 dogget
-doggrelize
+doggrelize 1
 dottrels
 dorlot
 doghead
