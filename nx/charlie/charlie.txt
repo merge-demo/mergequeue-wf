@@ -22670,7 +22670,7 @@ connotatively
 counterextend
 connote
 craftworker
-connoted
+connoted 1
 connubial
 connubiality
 craniol
