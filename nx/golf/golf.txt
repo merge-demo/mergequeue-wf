@@ -9842,7 +9842,7 @@ gonyocele
 gyrostats
 gunstock
 guesstimated
-guayaqui
+guayaqui 1
 gorgoneion
 geneticism
 ganodus
