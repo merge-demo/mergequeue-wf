@@ -5390,7 +5390,7 @@ demulsion
 dialysation
 dorsum
 denumerably
-disestablished
+disestablished 1
 drumbledore
 dyslectic
 denunciator
