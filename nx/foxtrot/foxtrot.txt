@@ -9787,7 +9787,7 @@ fascicular
 ficklety
 frogmouths
 fruitcake
-fridges
+fridges 1
 forewind
 furunculoid
 foraminifer
