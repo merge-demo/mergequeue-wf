@@ -19730,7 +19730,7 @@ autophthalmoscope
 ammonium
 astrobiological
 albarellos
-aucan
+aucan 1
 arithmetizes
 acrosticheae
 araeostyle
