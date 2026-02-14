@@ -8058,7 +8058,7 @@ gettering
 grumbly
 gs
 gymnogynous
-gentilize
+gentilize 1
 gabby
 grayer
 goatbeard
