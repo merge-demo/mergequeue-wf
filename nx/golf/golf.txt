@@ -3330,7 +3330,7 @@ glycogenic
 gomorrean
 gids
 gaging
-geodiatropism
+geodiatropism 1
 galvanic
 giantlike
 geographism
