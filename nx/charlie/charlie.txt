@@ -10808,7 +10808,7 @@ cutgrasses
 corregidores
 clavicylinder
 counterwave
-chinooks
+chinooks 1
 cadasters
 centerpieces
 cleverishly
