@@ -8757,7 +8757,7 @@ grogram
 groszy
 goujons
 gentilism
-glyceryls
+glyceryls 1
 gravel
 gnosis
 genuflects
