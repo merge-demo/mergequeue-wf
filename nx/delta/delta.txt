@@ -641,7 +641,7 @@ donnard
 dolium
 depermed
 diopsides
-dampness
+dampness 1
 dextrosuria
 disfurnished
 dynamoscope
