@@ -3833,7 +3833,7 @@ deciduous
 dicellate
 deionizations
 deportable
-dichroiscope
+dichroiscope 1
 diatropic
 deionize
 degraduation
