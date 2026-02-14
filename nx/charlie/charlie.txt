@@ -29956,7 +29956,7 @@ crosswise
 californium
 coccygotomy
 conventionally
-crosswiseness
+crosswiseness 1
 crostarie
 chymia
 cajoler
