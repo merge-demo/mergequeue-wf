@@ -14860,7 +14860,7 @@ alicia
 acknow
 avowal
 antiprostate
-actability
+actability 1
 amulla
 anticlimax
 attroupement
