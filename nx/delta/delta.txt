@@ -12136,7 +12136,7 @@ detergency
 ducts
 demarcation
 debriefs
-debellator
+debellator 1
 disestablishing
 diminuent
 disreputed
