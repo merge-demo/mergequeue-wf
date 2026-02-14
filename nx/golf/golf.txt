@@ -4689,7 +4689,7 @@ gynander
 gustable
 germicidal
 girts
-galores
+galores 1
 gettered
 generater
 goths
