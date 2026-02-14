@@ -664,7 +664,7 @@ ecstatics
 etymonic
 endometriosis
 encia
-ellipses
+ellipses 1
 engore
 epizoite
 electioneering
