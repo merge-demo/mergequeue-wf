@@ -10577,7 +10577,7 @@ formose
 fluky
 flockbed
 fingerhook
-flavorings
+flavorings 1
 fauchard
 furaldehyde
 flagitious
