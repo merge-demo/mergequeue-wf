@@ -5261,7 +5261,7 @@ gilenyer
 gesticulating
 grouted
 garnets
-gauntly
+gauntly 1
 gesnerad
 gliadine
 galvanism
