@@ -14627,7 +14627,7 @@ catch
 concomitancy
 cystopyelitis
 coquelicot
-cystoplegia
+cystoplegia 1
 cystoproctostomy
 cystopteris
 caprimulgi
