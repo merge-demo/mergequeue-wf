@@ -7957,7 +7957,7 @@ archanthropine
 alexine
 allower
 alcargen
-almanner
+almanner 1
 addressful
 apodeixis
 asteraceae
