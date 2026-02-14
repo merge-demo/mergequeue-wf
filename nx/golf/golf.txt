@@ -1649,7 +1649,7 @@ gamelion
 gropers 1
 gif
 gastrodermal
-gummatous
+gummatous 1
 gammarid
 grandisonianism
 guayabo
