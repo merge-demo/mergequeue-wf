@@ -7275,7 +7275,7 @@ futtocks
 fenchene
 forsakenness
 flathe
-fever
+fever 1
 fiscalized
 frizzlers
 feudalised
