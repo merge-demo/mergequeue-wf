@@ -2525,7 +2525,7 @@ dweller
 diachrony
 declassifies
 disequality
-disembarkations
+disembarkations 1
 dorsocephalic
 doughs
 distiller
