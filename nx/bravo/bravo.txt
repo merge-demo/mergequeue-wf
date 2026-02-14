@@ -11142,7 +11142,7 @@ bloodiness 1
 blooding
 biodyne
 balanic
-bicarinate
+bicarinate 1
 blindfoldly
 blunker
 blandness
