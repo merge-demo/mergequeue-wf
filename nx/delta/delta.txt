@@ -185,7 +185,7 @@ dystomic
 duplexing
 defecant
 dak
-deemstership
+deemstership 1
 dolichosaurus
 decadrachma
 disciplinarianism
