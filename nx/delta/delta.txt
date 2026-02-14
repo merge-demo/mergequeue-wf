@@ -13583,7 +13583,7 @@ deterrable
 divergence
 digredient
 disring
-dismeasured
+dismeasured 1
 discretionary
 deditician
 defervescing
