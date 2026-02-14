@@ -23507,7 +23507,7 @@ axiation
 amoristic
 avert
 augure
-augured
+augured 1
 abeigh
 afterlifetime
 anteroposteriorly
