@@ -15506,7 +15506,7 @@ areopagist
 alaska 1
 antiatheism
 alsikes
-aquaplanes
+aquaplanes 1
 actinides
 antimonium
 abseil
