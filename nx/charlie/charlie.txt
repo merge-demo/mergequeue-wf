@@ -3468,7 +3468,7 @@ caprifoliaceae
 caprifolium
 countersecurity
 cutcha
-caprigenous
+caprigenous 1
 caprylic
 cosines
 caprylyl
