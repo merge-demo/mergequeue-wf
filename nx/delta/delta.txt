@@ -17086,7 +17086,7 @@ dithioic
 disgown
 divestiture
 defectiveness
-deceleron
+deceleron 1
 decarchies
 dumsola
 drifty
