@@ -12143,7 +12143,7 @@ esemplasy
 era
 extrados
 encalendar
-esclavage
+esclavage 1
 energise
 elasticin
 exuviating
