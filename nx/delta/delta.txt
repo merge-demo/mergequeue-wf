@@ -3071,7 +3071,7 @@ describable
 dialecticize
 dinornithic
 defalcating
-dipteral
+dipteral 1
 defamation
 duckwife
 damn
