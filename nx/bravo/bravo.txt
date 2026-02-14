@@ -2251,7 +2251,7 @@ bagatine
 bayards
 bromize
 bacin
-barbados
+barbados 1
 bubbleless
 broggle
 blobs
