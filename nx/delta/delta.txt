@@ -3093,7 +3093,7 @@ dipygus
 discolith
 desiatin
 diseaseful 1
-daubing
+daubing 1
 dislade
 dilogical
 disestablisher
