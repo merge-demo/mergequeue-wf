@@ -3498,7 +3498,7 @@ excitabilities
 egomaniac 1
 eustomatous
 eriometer
-eleutheromaniac
+eleutheromaniac 1
 episyllogism
 enthroning
 exhortator
