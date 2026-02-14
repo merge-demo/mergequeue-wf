@@ -2512,7 +2512,7 @@ footband
 fuzzily
 faldworth
 footsore
-flaps
+flaps 1
 foreswear
 fastballs
 frush 1
