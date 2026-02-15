@@ -5121,7 +5121,7 @@ fishgig
 fortyish
 fermions
 fishline
-foveated
+foveated 1
 freir
 foreseers
 fractious
