@@ -848,7 +848,7 @@ greedless 1
 gypster 1
 geopositive
 gravimetry
-globicephala
+globicephala 1
 ginep
 gametocyte
 grayout
