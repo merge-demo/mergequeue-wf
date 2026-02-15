@@ -6666,7 +6666,7 @@ dinitrophenol
 diplohedron
 desyatin
 dactyls
-deaconries
+deaconries 1
 desicate
 dubonnets
 desman
