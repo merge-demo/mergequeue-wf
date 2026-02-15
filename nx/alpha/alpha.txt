@@ -657,7 +657,7 @@ archibenthos
 aboma
 amaga
 alloxy
-abomasus
+abomasus 1
 alkylize
 assign
 affinely
