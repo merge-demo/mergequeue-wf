@@ -10270,7 +10270,7 @@ boracic
 birds
 blacksmithing
 biochemy
-beastdom
+beastdom 1
 busk
 botargo
 biflorous
