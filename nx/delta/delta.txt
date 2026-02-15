@@ -5943,7 +5943,7 @@ dittogram
 disvaluation
 degrader
 departements
-decard
+decard 1
 deprivement
 disconcerts
 delenda
