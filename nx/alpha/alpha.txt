@@ -16510,7 +16510,7 @@ antitrochanter
 aitutakian
 agonizes
 alouatta
-arabize
+arabize 1
 audion
 autolithographic
 anorthosite
