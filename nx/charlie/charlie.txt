@@ -286,7 +286,7 @@ comatose
 conchoid
 cachinnating
 cachinnatory
-caustify
+caustify 1
 conchiform
 cachous
 cachrys
