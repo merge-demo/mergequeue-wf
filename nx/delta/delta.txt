@@ -18494,7 +18494,7 @@ dipterous
 diose
 dislocation
 dyschronous
-detractively
+detractively 1
 dacryoma
 dishonorary
 dupper
