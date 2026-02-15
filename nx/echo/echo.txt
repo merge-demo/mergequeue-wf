@@ -5644,7 +5644,7 @@ esculents
 elaphebolion
 eagres
 eyebeams
-euphoniously
+euphoniously 1
 ellipsonic
 enfranchisements
 elaeagnaceous
