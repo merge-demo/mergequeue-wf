@@ -17310,7 +17310,7 @@ degelatinize
 deadlocked
 dronish
 duellistic
-dronishness
+dronishness 1
 dueler
 documenting
 disquisition
