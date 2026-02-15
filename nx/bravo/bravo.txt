@@ -5230,7 +5230,7 @@ bergamots
 befurbelowed
 befurred
 besotting
-begabled
+begabled 1
 begad
 buskle
 bedders
