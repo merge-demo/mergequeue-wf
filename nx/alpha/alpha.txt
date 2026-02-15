@@ -13896,7 +13896,7 @@ antaios
 antalgesic
 antalgics
 antalgol
-apandry
+apandry 1
 acraspeda
 adelea
 antanaclasis
