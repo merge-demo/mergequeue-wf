@@ -5889,7 +5889,7 @@ flitters
 furnacemen
 fettucine
 faithlessly
-frequents
+frequents 1
 froggiest
 ferfet
 furbishes
