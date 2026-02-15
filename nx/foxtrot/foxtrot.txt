@@ -5822,7 +5822,7 @@ farced
 fraternate
 ferule
 fleuronnee
-fungous
+fungous 1
 fuzzball
 favorers
 furnage
