@@ -12025,7 +12025,7 @@ differen
 disenchant
 dowd
 disenchantments
-disenchantress
+disenchantress 1
 depluming
 doctrix
 daint
