@@ -4408,7 +4408,7 @@ fama
 fingerberry
 flechette
 floorshifts
-footnotes
+footnotes 1
 forbearances
 fute
 frenums
