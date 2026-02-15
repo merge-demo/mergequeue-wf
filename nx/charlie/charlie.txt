@@ -19562,7 +19562,7 @@ czar
 chlorazide
 capabilities
 champignons
-columbaria
+columbaria 1
 columbate
 columbeion
 climath 1
