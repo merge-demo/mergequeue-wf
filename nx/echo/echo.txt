@@ -2784,7 +2784,7 @@ ergastic
 erythropoiesis
 ectocoelic
 erelong
-elegised
+elegised 1
 elegising
 ectoenzym
 elegized
