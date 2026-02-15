@@ -65,7 +65,7 @@ flauntier
 friskily
 fluoridise
 fixgig
-facebow
+facebow 1
 fractostratus
 fenchone
 faceharden
