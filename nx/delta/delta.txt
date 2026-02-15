@@ -9980,7 +9980,7 @@ discriminatingness
 diminutions 1
 dolichocephalous
 deener
-desuetudes
+desuetudes 1
 dimiss
 dottrel
 deindustrialization
