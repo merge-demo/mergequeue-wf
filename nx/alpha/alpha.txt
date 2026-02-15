@@ -1563,7 +1563,7 @@ accordance
 anodizing
 accordancy
 agglutinoid 1
-africanist
+africanist 1
 ancille
 adventureful
 australene
