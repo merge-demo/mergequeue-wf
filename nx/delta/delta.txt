@@ -17940,7 +17940,7 @@ durras
 deobstruct
 dugento
 dragooned
-devest
+devest 1
 devouress
 dependabilities
 dugongidae
