@@ -6955,7 +6955,7 @@ goatsbeard
 generalism
 grayly
 gormandism
-guaniferous
+guaniferous 1
 greystone
 gladiatorship
 gumlah

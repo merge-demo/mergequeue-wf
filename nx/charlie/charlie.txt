@@ -23698,7 +23698,7 @@ ceria
 coleoptile
 caste
 cacophonist
-coyote
+coyote 1
 crimped
 constructional
 chronon
