@@ -1398,7 +1398,7 @@ amintor
 acceptance
 approachable
 arenicolous
-axisymmetrical
+axisymmetrical 1
 absorbent
 athalline
 attn
