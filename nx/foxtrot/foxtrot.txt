@@ -1179,7 +1179,7 @@ fimbriating
 funaria
 forepass
 frighter
-faultfully
+faultfully 1
 foochowese
 foraged
 flumadiddle
