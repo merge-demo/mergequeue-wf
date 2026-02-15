@@ -7219,7 +7219,7 @@ eunomianism
 earthshine
 endymion
 eposes
-exudative
+exudative 1
 electrifier
 earnestful
 embossing
