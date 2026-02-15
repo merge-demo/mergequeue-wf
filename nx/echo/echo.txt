@@ -1267,7 +1267,7 @@ edwardean 1
 easternly
 epigastraeum
 everglade
-emersion
+emersion 1
 exorcismal
 equvalent
 earldoms
