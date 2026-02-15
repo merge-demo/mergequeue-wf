@@ -19480,7 +19480,7 @@ antimedication
 accusant
 arith
 argling
-allspices
+allspices 1
 antiracemate
 adaptions
 astigmatoscope 1
