@@ -1696,7 +1696,7 @@ faviform
 frigs
 feasibly
 fashionmonger
-flighted
+flighted 1
 fusiform
 fascio
 filicin
