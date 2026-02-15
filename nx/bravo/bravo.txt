@@ -4379,7 +4379,7 @@ biconic
 becheck
 bibliotheque
 bechic
-bacchanalize
+bacchanalize 1
 butt
 bemercy
 bordels
