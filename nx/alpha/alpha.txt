@@ -21149,7 +21149,7 @@ asearch
 alhet
 amylogens
 asecretory
-amenableness
+amenableness 1
 appositeness
 airth
 amniorrhea
