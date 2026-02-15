@@ -3670,7 +3670,7 @@ adiantiform
 argled
 abnegation
 adenophorous
-accumulative
+accumulative 1
 adenosarcomata
 adiaphoristic
 armloads
