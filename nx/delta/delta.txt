@@ -7817,7 +7817,7 @@ dim
 dogsleds
 deform
 deckhands
-diadochokinesis
+diadochokinesis 1
 dwelling
 dil 1
 diswarrening
