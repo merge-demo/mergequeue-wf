@@ -3363,7 +3363,7 @@ dagos
 draperied
 deturn
 dictative 1
-defis
+defis 1
 deflagrable
 desophistication
 decolor
