@@ -8134,7 +8134,7 @@ damager
 dependently
 descenders
 drabbler
-diaplexal
+diaplexal 1
 dromiacea
 decennially
 delbert
