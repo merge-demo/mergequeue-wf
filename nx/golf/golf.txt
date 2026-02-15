@@ -3195,7 +3195,7 @@ glenn
 gio
 genetous
 gymslip
-gambled
+gambled 1
 gauche
 globosely
 gepidae
