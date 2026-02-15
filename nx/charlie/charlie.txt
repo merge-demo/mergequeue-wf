@@ -3172,7 +3172,7 @@ capella
 closemouth
 caper
 capercaillie
-classicistic
+classicistic 1
 chaulmoogric
 colored
 capercut
