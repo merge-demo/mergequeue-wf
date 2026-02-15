@@ -12755,7 +12755,7 @@ epigraphist
 epiphytical
 extenuator
 ethnographical
-eucaryotic
+eucaryotic 1
 eireannach
 epispinal
 ethers
