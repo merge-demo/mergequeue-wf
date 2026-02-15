@@ -8982,7 +8982,7 @@ cryptal
 compartment
 chronaxy
 charism
-charismata
+charismata 1
 consuete
 charismatic
 cunabular
