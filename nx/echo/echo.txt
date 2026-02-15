@@ -8516,7 +8516,7 @@ easterlies
 eprise
 endures
 epsilons
-equivalency
+equivalency 1
 enage
 earthkin
 entryways
