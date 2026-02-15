@@ -7905,7 +7905,7 @@ apprizer
 argasid
 abacisci
 aration
-assapan
+assapan 1
 auscultations
 alternates
 antepenult
