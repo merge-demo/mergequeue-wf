@@ -6878,7 +6878,7 @@ diabasic
 decorement
 dammar
 desolation
-dovetailer
+dovetailer 1
 darkness
 dryhouse
 didymium
