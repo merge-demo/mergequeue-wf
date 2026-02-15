@@ -213,7 +213,7 @@ antiritual
 abbotric
 amiga
 allokinesis
-alchemistical
+alchemistical 1
 animality
 ajourise
 aeroliths
