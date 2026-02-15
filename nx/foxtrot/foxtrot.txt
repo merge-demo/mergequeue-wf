@@ -47,7 +47,7 @@ finement
 fibrolitic
 fibrocyst
 fabricator
-furies
+furies 1
 faradiser
 flick
 finically
