@@ -16626,7 +16626,7 @@ caedmonian
 cleanhandedness
 cloques
 cathodically
-clewed
+clewed 1
 chromatoscope
 cutoff
 clos
