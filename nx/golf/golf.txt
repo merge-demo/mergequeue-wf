@@ -4133,7 +4133,7 @@ gravelstone
 gasbag
 ginnle
 goodwily
-gerontological
+gerontological 1
 gazee
 geegaws
 gramicidin
