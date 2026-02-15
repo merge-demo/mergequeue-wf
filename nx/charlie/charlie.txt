@@ -7447,7 +7447,7 @@ cephalopterus
 crosscutter
 cadus
 centrums
-copecks
+copecks 1
 cephalosome
 cephalotaceae
 congressmen
