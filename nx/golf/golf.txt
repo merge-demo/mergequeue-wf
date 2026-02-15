@@ -10102,7 +10102,7 @@ grocerdom
 glottid
 generates
 gardenias
-geomyid
+geomyid 1
 gonystylus
 goldenfleece
 gonochorismus
