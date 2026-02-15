@@ -7436,7 +7436,7 @@ earthmoving
 equipollency
 elric
 emissile
-entombs
+entombs 1
 epencephala
 erythroxylaceae
 embittering
