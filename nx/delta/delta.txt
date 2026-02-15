@@ -8316,7 +8316,7 @@ ditty
 dissuasion
 diplogenetic
 datagram
-dialectal
+dialectal 1
 drawees
 dishpanful
 draftier
