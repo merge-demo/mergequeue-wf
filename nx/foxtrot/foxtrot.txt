@@ -1566,7 +1566,7 @@ ferr
 frotteur
 faulkner
 fortyfold
-frisca
+frisca 1
 farmtown
 fernwort
 fissirostres
