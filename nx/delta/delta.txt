@@ -16130,7 +16130,7 @@ dowdy 1
 daggerproof
 disattire
 deflorate
-diamides
+diamides 1
 demophon
 doblas 1
 droseras
