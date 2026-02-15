@@ -851,7 +851,7 @@ gravimetry
 globicephala 1
 ginep
 gametocyte
-grayout
+grayout 1
 granules
 gravemaster
 geologer 1
