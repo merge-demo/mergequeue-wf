@@ -6427,7 +6427,7 @@ exceptioner
 epacridaceae
 enleen
 exhalants
-eastering
+eastering 1
 egestion
 elytron
 eurythermous
