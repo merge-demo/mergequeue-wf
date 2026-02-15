@@ -22518,7 +22518,7 @@ ata
 anagenetic
 atabals
 alexandreid
-adjudge
+adjudge 1
 atacamenan
 ataigal
 ataman
