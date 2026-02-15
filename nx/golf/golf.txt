@@ -161,7 +161,7 @@ goliathize
 goniometry
 gradgrind
 gingery
-gasolines
+gasolines 1
 golfer
 goaled
 gammacism
