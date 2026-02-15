@@ -7015,7 +7015,7 @@ gigantosaurus
 greekless
 grillade
 grindle
-gigameter
+gigameter 1
 gaudish
 gowds
 gooseberry
