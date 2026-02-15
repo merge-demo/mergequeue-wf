@@ -4700,7 +4700,7 @@ diploneural
 democrat
 dawdles
 douar
-depraves
+depraves 1
 dsnames
 detesters
 democratisation
