@@ -6492,7 +6492,7 @@ forwarder
 fluorobenzene
 fructifies
 fesapo
-foothalt
+foothalt 1
 frivoled
 fishable
 fluoaluminate
