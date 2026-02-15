@@ -9781,7 +9781,7 @@ cowheart
 centas
 chelidonic
 casule
-chelidonine
+chelidonine 1
 carefox
 chelidonium
 citolas
