@@ -1173,7 +1173,7 @@ fraying
 faithworthy
 focalize
 fortified
-funder
+funder 1
 fuscous
 fimbriating
 funaria
