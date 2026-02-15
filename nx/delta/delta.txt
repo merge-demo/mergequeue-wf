@@ -15187,7 +15187,7 @@ deeryards
 deathfulness
 dolefuls 1
 deutoxide
-dotate
+dotate 1
 drunkly
 dolerophanite
 disproperty

@@ -3767,7 +3767,7 @@ environage
 eweries
 embryotome
 enquiry
-exhaustivity
+exhaustivity 1
 egoistry
 embrittle
 enfranchised
