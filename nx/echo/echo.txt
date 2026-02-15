@@ -11779,7 +11779,7 @@ entreat
 eglateres
 emigrator
 emirs
-examinant
+examinant 1
 eschewer
 effatum
 estrepe 1
