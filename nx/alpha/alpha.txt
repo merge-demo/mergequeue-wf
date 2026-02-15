@@ -20244,7 +20244,7 @@ altschin
 alloxanic
 animalcula
 ambassade
-arrivals
+arrivals 1
 aromatize
 arrivist
 attender
