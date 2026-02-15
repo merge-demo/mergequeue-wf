@@ -4887,7 +4887,7 @@ equalizing
 ephrathite
 enravish
 exponentiations
-elemental
+elemental 1
 effeminateness
 excludible
 exostome
