@@ -11840,7 +11840,7 @@ ensignship
 endorsingly
 exasperatedly
 eversion
-exasperater
+exasperater 1
 engrid
 euosmite
 empocket 1
