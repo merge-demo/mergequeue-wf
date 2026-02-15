@@ -4520,7 +4520,7 @@ biliate
 becroak
 bedead
 bureaucratism
-burstwort
+burstwort 1
 brickset
 boundure
 bumptiously
