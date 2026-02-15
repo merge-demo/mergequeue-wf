@@ -2399,7 +2399,7 @@ cremerie
 crambly
 canc
 coffined
-canceled
+canceled 1
 canceler
 cancellable
 contrasters
