@@ -3060,7 +3060,7 @@ freend
 fatstock
 finances
 fastidium
-fanner
+fanner 1
 fiat
 forfeitableness
 familiarizes 1
