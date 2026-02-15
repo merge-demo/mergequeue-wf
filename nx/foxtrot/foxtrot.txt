@@ -6263,7 +6263,7 @@ falange
 frication
 fivepence
 flrie
-foreread
+foreread 1
 fumade
 flaxes
 flysches
