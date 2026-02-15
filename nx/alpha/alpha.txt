@@ -19139,7 +19139,7 @@ antisepticize
 arclike
 arcocentrum
 antipathogenic
-aspread
+aspread 1
 agnostically
 arcograph
 acuities
