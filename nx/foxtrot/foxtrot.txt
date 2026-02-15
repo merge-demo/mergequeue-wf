@@ -9563,7 +9563,7 @@ fire
 fattrels
 footling
 fordless
-focally
+focally 1
 fringier
 fleets
 fitroot
