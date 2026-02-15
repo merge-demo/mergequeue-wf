@@ -2267,7 +2267,7 @@ betokener
 backlogging
 bridgebote
 barbarianizing
-bandog
+bandog 1
 barbarically
 bruit
 blandiloquous
