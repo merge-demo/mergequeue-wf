@@ -2085,7 +2085,7 @@ gingili
 goatpox
 gignate
 gulleting
-gleamed
+gleamed 1
 gozzard
 graecizing
 gyrolith
