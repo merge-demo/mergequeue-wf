@@ -7406,7 +7406,7 @@ fabrications
 fiberboard
 fronds 1
 fluxer
-fostress
+fostress 1
 fetting
 frowy
 fudder
