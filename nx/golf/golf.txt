@@ -1829,7 +1829,7 @@ generalcies
 gousty 2
 gavialis
 gigantean
-gossypium
+gossypium 1
 gerhardtite
 gregory
 grandfer 1
