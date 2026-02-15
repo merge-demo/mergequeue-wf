@@ -12813,7 +12813,7 @@ contingency
 courageousness
 conchylia
 churchcraft
-caninus
+caninus 1
 chondrocranium
 churchful
 clatters
