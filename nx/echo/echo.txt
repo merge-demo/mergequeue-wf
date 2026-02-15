@@ -11797,7 +11797,7 @@ equipluve
 eveque
 ensearch
 episcopise
-ensurer
+ensurer 1
 easier
 entoptoscopy
 ecosystem
