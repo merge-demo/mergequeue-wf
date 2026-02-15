@@ -16448,7 +16448,7 @@ anteroposterior
 asaddle
 aorist
 axseeds
-anglicanize
+anglicanize 1
 athyridae
 alodially
 artemisic
