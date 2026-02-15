@@ -7854,7 +7854,7 @@ dewal
 dew
 drowner
 depress
-defrayals
+defrayals 1
 diffluence
 disconsideration
 distemonous
