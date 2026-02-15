@@ -1694,7 +1694,6 @@ flourless
 foodservices
 faviform
 frigs
-feasibly
 fashionmonger
 flighted 1
 fusiform
@@ -6258,6 +6257,7 @@ firebreak
 forebemoaned
 funambulo
 frenchmen
+fuseless
 funguslike
 falange
 frication
@@ -9587,7 +9587,6 @@ favouress
 flyted
 flatus
 farmable
-fuseless
 furcraeas
 frazer
 feudalizing
@@ -10863,6 +10862,7 @@ fallout 1
 frisky
 flagitiously
 forwore
+feasibly
 fishlines
 fetichism
 faddism
