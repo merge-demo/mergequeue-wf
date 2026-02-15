@@ -17909,7 +17909,7 @@ doublers
 degasser
 dekares
 dithyramb
-dufferdom
+dufferdom 1
 duffle
 decapodous
 doodskop
