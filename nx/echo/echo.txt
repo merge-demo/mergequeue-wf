@@ -3741,7 +3741,7 @@ enchytrae
 entrancer
 envenom
 endogens
-eternised
+eternised 1
 elecampane
 exergues
 embryological
