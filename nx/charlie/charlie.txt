@@ -2311,7 +2311,7 @@ canalboat
 charales
 canale
 concent
-canaled
+canaled 1
 cobs
 cithrens
 canaler
