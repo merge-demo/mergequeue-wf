@@ -7821,7 +7821,7 @@ egregiously
 embastioned
 encyclopaedize
 engjateigur
-epidote
+epidote 1
 everlastingly
 epigastria
 embiotocidae
