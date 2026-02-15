@@ -5139,7 +5139,7 @@ drumsler
 denied
 denyer
 didromy
-downstater
+downstater 1
 decarburation
 denierer
 devouringness
