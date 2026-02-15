@@ -5064,7 +5064,7 @@ gateaux
 graecizes
 gasts
 glued 1
-grisoutine
+grisoutine 1
 glassies
 guddler 1
 galloping

@@ -6769,7 +6769,7 @@ airmark
 attention
 abderite
 aphorises
-apanages
+apanages 1
 antiagglutinative
 awry
 anesthetized
