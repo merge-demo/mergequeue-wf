@@ -2962,7 +2962,7 @@ garnered
 gushingness
 gauchest
 gulping
-grooved
+grooved 1
 geminiform 1
 greening
 gordioidea
