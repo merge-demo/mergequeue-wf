@@ -7873,7 +7873,7 @@ cervicothoracic
 cosignatory
 cervoid
 cervuline
-cervus
+cervus 1
 cesare
 cesarevitch
 caramelizing
