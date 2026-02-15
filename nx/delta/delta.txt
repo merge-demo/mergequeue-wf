@@ -4899,7 +4899,7 @@ demophobia 1
 damnableness
 drays
 deathwatches
-dignation
+dignation 1
 delists
 deserter
 disbursed
