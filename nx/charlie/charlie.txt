@@ -24929,7 +24929,7 @@ coranto
 corticating
 crazier
 caproate
-compassion
+compassion 1
 cleaver
 cynopodous
 corolliform

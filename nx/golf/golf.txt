@@ -7427,7 +7427,7 @@ gorgelet
 greenockite
 gabbai
 gish
-gamotropic
+gamotropic 1
 gastrotaxis
 grewt
 grampuses
