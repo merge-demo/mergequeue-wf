@@ -19994,7 +19994,7 @@ achromatinic
 arnatto
 antigraph
 addnl
-arugola
+arugola 1
 ammonified
 adenotome
 alkanol
