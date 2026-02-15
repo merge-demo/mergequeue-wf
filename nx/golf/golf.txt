@@ -9391,7 +9391,7 @@ gadrooned
 grosgrains
 genuflector
 globiferous
-gurdle
+gurdle 1
 glaciologic
 glucinium
 grebes
