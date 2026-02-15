@@ -12773,7 +12773,7 @@ eyesights
 employable
 emporia
 exorcizement
-exhalable
+exhalable 1
 elasmobranchiate
 excitement
 enmask
