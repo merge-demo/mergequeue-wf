@@ -12978,7 +12978,7 @@ electrolysation
 entad
 enhaunt
 eulogiae
-eupepticism
+eupepticism 1
 expectancy
 epistemophilia
 eggshell
