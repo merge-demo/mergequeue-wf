@@ -23064,7 +23064,7 @@ consound
 complexify
 conspecies
 conspecific
-conspection
+conspection 1
 conspectus
 colias
 conspectuses
