@@ -10227,7 +10227,7 @@ delitescency 1
 desoxyanisoin
 defoaming
 despise
-dynamitish
+dynamitish 1
 dinkier
 defrauded
 dinking
