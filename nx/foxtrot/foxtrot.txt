@@ -6915,7 +6915,7 @@ forbearable
 fluigramme
 favoringly
 farcetta
-favourableness
+favourableness 1
 fnese
 foozler
 fanit
