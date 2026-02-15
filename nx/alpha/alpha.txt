@@ -17388,7 +17388,7 @@ apothegmatically
 apothegmatist
 atriensis
 antiattrition
-aux
+aux 1
 autocratically
 apotheosised
 apotheosized
