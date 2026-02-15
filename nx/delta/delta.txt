@@ -3116,7 +3116,7 @@ defaulted
 dissymmettric
 defaultless
 depauperization
-downfolded
+downfolded 1
 defaults
 drowningly
 defaulture
