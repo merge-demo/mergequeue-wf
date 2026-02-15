@@ -11828,7 +11828,7 @@ chalcids
 contradictories
 catechisms 1
 carbimide
-chopdar
+chopdar 1
 colonus
 cyprinoidea
 connation
