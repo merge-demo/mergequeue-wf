@@ -4627,7 +4627,7 @@ boden
 bailliage
 butterine
 bedchairs
-boxthorns
+boxthorns 1
 buffers
 blaugas 1
 bradyauxesis
