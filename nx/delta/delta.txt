@@ -6944,7 +6944,7 @@ disparkle
 disarmament
 dorsoanterior
 distomian
-dioptases
+dioptases 1
 dicaryon
 discouragedly
 dysuric
