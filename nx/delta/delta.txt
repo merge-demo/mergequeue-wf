@@ -14669,7 +14669,7 @@ demonstrator
 disinvite
 deuteropathy
 disyllabizing
-dlr
+dlr 1
 dizoic
 designate
 dechlorinate
