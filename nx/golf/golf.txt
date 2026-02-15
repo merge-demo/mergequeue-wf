@@ -8223,7 +8223,7 @@ grapery
 gied
 grim
 gem
-greaseproof
+greaseproof 1
 gory
 grapeskin
 gelototherapy

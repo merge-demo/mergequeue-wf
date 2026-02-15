@@ -4420,7 +4420,7 @@ fumarase
 fertiliser
 froward
 formulaic
-flightless
+flightless 1
 frumpily
 fearers
 fealties
