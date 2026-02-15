@@ -7409,7 +7409,7 @@ ebeneous
 evaporite
 eyries
 epee
-ened
+ened 1
 epeeist
 excursional
 exciseman
