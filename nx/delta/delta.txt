@@ -17752,7 +17752,7 @@ demythologize
 dorsigrade
 defeatment
 deferrizing
-dwining
+dwining 1
 diamant
 democrats
 dioramas
