@@ -5682,7 +5682,7 @@ gutwise
 glossies
 gingers
 glossinas
-gertrude
+gertrude 1
 gilbertine
 galeae
 galeoid
