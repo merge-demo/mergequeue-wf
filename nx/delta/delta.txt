@@ -556,7 +556,7 @@ drawstring
 disgorged
 damine
 dedolomitized
-disguisedness
+disguisedness 1
 ditheistical
 divvies
 delated
