@@ -10040,7 +10040,7 @@ framableness
 forfeiter
 furlongs
 flagons
-fanga
+fanga 1
 feudalize
 forerevelation
 fecundations
