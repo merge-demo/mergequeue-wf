@@ -18406,7 +18406,7 @@ antitussive
 absorbable
 ananepionic
 autolesion
-aviates
+aviates 1
 anthragallol
 aquincubital
 arbitrager
