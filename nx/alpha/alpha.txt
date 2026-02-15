@@ -1572,7 +1572,7 @@ acrocarpous
 accordingly
 accordionist
 amyraldist
-ascan
+ascan 1
 angelim
 adamical
 appended
