@@ -8469,7 +8469,7 @@ chamfering
 carriole
 champaka
 calmy
-clubridden
+clubridden 1
 champaks
 cholines
 commensalistic
