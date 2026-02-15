@@ -4205,7 +4205,7 @@ gonidiose
 grovel
 gois
 gerund
-galvanomagnetism
+galvanomagnetism 1
 gynaecological
 gentianwort
 gabbiness
