@@ -534,7 +534,7 @@ ashtrays
 asperities
 ablates
 alcoholophilia
-astroite
+astroite 1
 alkane
 adenomatous
 ablations
