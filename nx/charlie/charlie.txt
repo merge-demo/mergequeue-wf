@@ -8729,7 +8729,7 @@ caconym
 chape
 chapeled
 concion
-coveys
+coveys 1
 chirograph
 cappagh
 catchy
