@@ -9291,7 +9291,7 @@ besmear
 bathman
 bishopess
 biodegradable
-begazing
+begazing 1
 backstrokes
 bromoiodid
 biprism
