@@ -21526,7 +21526,7 @@ anesthetics
 apotypic
 anthroxan
 asphyxias
-auxoaction 1
+auxoaction 2
 antiphase
 asphyxiating
 abuna
