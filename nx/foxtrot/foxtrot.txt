@@ -4594,7 +4594,7 @@ frit
 feuder
 footboy
 fisticuff
-fringed
+fringed 1
 familiarness
 fratricide
 fisting
