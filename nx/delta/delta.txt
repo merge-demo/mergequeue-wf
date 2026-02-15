@@ -2445,7 +2445,7 @@ damgalnunna
 dacryopyosis
 dunghill
 destrudo
-diplodocus
+diplodocus 1
 delusory
 dipyre
 decision 1
