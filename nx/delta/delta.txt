@@ -8564,7 +8564,7 @@ divertedly
 denegation
 diaphonies
 diaphoreses
-diaphoretical
+diaphoretical 1
 disanimate
 devoutlessness
 dependencies
