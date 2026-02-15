@@ -1872,7 +1872,7 @@ bitheism
 bromian
 bullose
 belaites
-bialystoker
+bialystoker 1
 bandaged
 bandaging
 berylloid
