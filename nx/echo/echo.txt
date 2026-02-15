@@ -1005,7 +1005,7 @@ embalming
 entailments
 endeictic
 euchrone
-evennesses
+evennesses 1
 effronteries
 excalate
 epencephalic
