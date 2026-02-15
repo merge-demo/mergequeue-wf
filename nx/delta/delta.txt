@@ -9412,7 +9412,7 @@ daunts
 diffusing
 dissipation
 demist
-deuteranomalous
+deuteranomalous 1
 dowerless
 deerfood
 dissyllabification
