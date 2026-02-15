@@ -5233,7 +5233,7 @@ gorgers
 gloamings
 grippier
 goetical
-goffers
+goffers 1
 graft
 guestimate
 gaited
