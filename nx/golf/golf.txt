@@ -415,7 +415,7 @@ glaucionetta
 galeid
 gazabo
 goldi
-genny
+genny 1
 gyms
 gemmation 1
 guttera
