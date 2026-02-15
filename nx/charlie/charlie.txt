@@ -9495,7 +9495,7 @@ checker
 connected
 celeusma
 checkerbelly
-centrolepidaceous
+centrolepidaceous 1
 checkerbellies
 checkerberry
 checkerberries
