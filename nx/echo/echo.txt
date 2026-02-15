@@ -8699,7 +8699,7 @@ elfishness
 etherialism
 expositions
 epipoditic
-eggcrate
+eggcrate 1
 elechi
 enplanement
 elastometer
