@@ -9106,7 +9106,7 @@ equivocations
 ekhimi 1
 exaggeratedness
 ecumenical
-educe
+educe 1
 erythrolein
 ethnics
 eschalots
