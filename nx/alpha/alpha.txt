@@ -21608,7 +21608,7 @@ allegorist
 asporogenic
 annexes
 adjuvant
-applicability
+applicability 1
 aspredo
 antirickets
 akasha
