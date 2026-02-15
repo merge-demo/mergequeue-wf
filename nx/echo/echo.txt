@@ -10958,7 +10958,7 @@ euploidies
 euchromatin
 evidentness
 euphorically
-excommunicate
+excommunicate 1
 evoked
 exsuction
 epalpebrate
