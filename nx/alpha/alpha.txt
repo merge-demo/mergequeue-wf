@@ -16492,7 +16492,7 @@ apaesthetize
 apochae
 apagogic
 avenses
-alteregoism
+alteregoism 1
 aspires
 assumably
 arumlike
