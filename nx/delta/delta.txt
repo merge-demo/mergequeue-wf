@@ -4056,7 +4056,7 @@ diphysitism
 duskiness
 delimitated 1
 diastyle
-disanswerable
+disanswerable 1
 demeanored
 daalder
 dillis
