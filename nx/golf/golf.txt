@@ -3695,7 +3695,7 @@ generalizable
 glossiphonia
 goes
 ghostland
-gabbling
+gabbling 1
 gaugership
 guesdism
 gadid
