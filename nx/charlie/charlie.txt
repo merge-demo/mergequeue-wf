@@ -29558,7 +29558,7 @@ criticule
 cultivatable
 chopine
 critiqued
-critize
+critize 1
 creekside
 chalcon
 cosmic
