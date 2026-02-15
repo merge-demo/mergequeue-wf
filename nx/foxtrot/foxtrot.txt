@@ -7634,7 +7634,7 @@ faradising
 feldsparphyre
 frightenedness
 fulah
-foredune
+foredune 1
 freezable
 fervors
 festino
