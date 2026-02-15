@@ -10941,7 +10941,7 @@ doormaker
 dannock
 disaccomodate
 dobsonflies
-dwelled
+dwelled 1
 dropcloth
 disunionism
 dotardism
