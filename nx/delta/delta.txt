@@ -14713,7 +14713,7 @@ dks
 dlvy
 downcurved
 diademed
-desireable
+desireable 1
 deburse
 dm
 degustate
