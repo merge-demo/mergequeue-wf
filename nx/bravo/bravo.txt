@@ -3979,7 +3979,7 @@ bariums
 baliti
 behoof
 batrachospermum
-balsamine
+balsamine 1
 boreens
 bebless
 bluffness
