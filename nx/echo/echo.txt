@@ -13420,7 +13420,7 @@ entremets
 emotion
 entropium
 eightscore 1
-exter
+exter 1
 entrapments
 expounder
 expressless
