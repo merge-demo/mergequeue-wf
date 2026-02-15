@@ -4032,7 +4032,7 @@ ectromelic
 encover 1
 ectropometer
 enplanes
-eternish
+eternish 1
 entomoid
 emendatory
 empyemic
