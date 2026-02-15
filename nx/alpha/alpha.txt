@@ -6245,7 +6245,7 @@ armorician
 aubades
 aktivismus
 archimedes
-anthropotomy
+anthropotomy 1
 antinomic
 autoptic
 asmoke
