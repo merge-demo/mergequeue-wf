@@ -227,7 +227,7 @@ faulting
 fiend
 fusionist
 fruitfullness
-fruitworm
+fruitworm 1
 feverroot
 firelock
 facultatively
