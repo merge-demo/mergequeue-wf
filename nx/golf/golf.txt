@@ -10766,7 +10766,7 @@ gloam
 graminin
 gimbals
 guaican
-glamourie
+glamourie 1
 gutt
 greenbrier
 gourmandism
