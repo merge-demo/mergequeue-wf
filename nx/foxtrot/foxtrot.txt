@@ -8026,7 +8026,7 @@ frontispiecing
 frumpled
 flatteur 1
 fumeless
-feloniousness
+feloniousness 1
 frisked
 foppy
 flasque
