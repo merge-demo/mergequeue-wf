@@ -6251,7 +6251,7 @@ endamaged
 exopterygota
 enplaned
 eisteddfod
-enscrolled
+enscrolled 1
 ecumenics
 enamine
 enarbor
