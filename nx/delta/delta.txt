@@ -5589,7 +5589,7 @@ disorganiser
 damier
 disprivilege
 dictamen
-detainingly
+detainingly 1
 dorsumbonal
 deuterotokous
 dysgnosia
