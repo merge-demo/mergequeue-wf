@@ -3340,7 +3340,7 @@ fracted
 fremt
 forsaking
 fives
-frigidity
+frigidity 1
 furfur
 foodstuff
 fungicolous
