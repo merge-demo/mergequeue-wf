@@ -13794,7 +13794,7 @@ antimonies
 abdomina
 automation
 apneumatic
-acorns
+acorns 1
 adjuncts
 aminobenzine
 agapemonite
