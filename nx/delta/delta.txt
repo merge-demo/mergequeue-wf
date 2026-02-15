@@ -7616,7 +7616,7 @@ develing
 dehkan
 disembellish
 dissimule
-deceptious
+deceptious 1
 dealer
 digamous
 didinium
