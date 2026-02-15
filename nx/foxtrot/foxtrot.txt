@@ -8853,7 +8853,7 @@ fidel
 fairish 1
 fusc
 filthless
-freightliner
+freightliner 1
 flexured 1
 friss
 frustrations
