@@ -8758,7 +8758,7 @@ feldspathization
 federal
 fella
 forestick
-finchery
+finchery 1
 forehands
 feucht
 fortuitous
