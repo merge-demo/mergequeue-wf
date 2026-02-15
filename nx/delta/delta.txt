@@ -15902,7 +15902,7 @@ drybeard
 digammic
 dialectologic
 discoid
-dynamitic
+dynamitic 1
 distasting
 deprivers
 doted
