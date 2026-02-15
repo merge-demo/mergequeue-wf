@@ -8908,7 +8908,7 @@ allose
 asherah
 attaint
 allosyndetic
-autoregulatory
+autoregulatory 1
 aureolas
 allosteric
 avalanche
