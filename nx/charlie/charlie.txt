@@ -20728,7 +20728,7 @@ completively
 cheiragra
 clunist
 criance
-communes
+communes 1
 coronoid
 celative
 completory
