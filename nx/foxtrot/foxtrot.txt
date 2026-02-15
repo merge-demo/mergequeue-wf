@@ -1587,7 +1587,7 @@ fabrique
 fadges
 flook
 formidability
-favosites
+favosites 1
 featlier
 flexors
 finer
