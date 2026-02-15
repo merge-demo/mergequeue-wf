@@ -9991,7 +9991,7 @@ flaggingly
 fakeers
 flunked
 feelingness
-floatingly
+floatingly 1
 frumentum
 flinching
 fainthearted
