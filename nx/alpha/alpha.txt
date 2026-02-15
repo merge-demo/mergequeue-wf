@@ -12364,7 +12364,7 @@ asphyxy
 astronavigation
 approval
 acatholic
-allotypy
+allotypy 1
 amidosuccinamic
 animalia
 admensuration
