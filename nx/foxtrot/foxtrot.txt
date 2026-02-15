@@ -1685,7 +1685,7 @@ fearsomeness
 feased
 folic
 fruit
-footman
+footman 1
 fingrigo
 forestep
 france
@@ -8758,7 +8758,7 @@ feldspathization
 federal
 fella
 forestick
-finchery
+finchery 1
 forehands
 feucht
 fortuitous
@@ -9043,7 +9043,7 @@ flayed
 fondling
 fowk
 fizelyite
-fulness
+fulness 1
 flacked
 feeling
 foredesk
