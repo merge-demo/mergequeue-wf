@@ -4634,7 +4634,7 @@ colorationally
 capillariness
 carnosine
 carnous
-carns
+carns 1
 chamaecistus
 caro
 cookstove
