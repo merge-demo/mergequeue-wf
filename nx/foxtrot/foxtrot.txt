@@ -3380,7 +3380,7 @@ furnariidae 1
 firmisternia
 flashers
 fieldish
-flammed
+flammed 1
 forded
 fattener
 furriners
