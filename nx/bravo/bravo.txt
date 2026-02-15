@@ -14307,7 +14307,7 @@ binnite
 brideman
 batheable
 bouillon
-bigotry
+bigotry 1
 begrudger
 blending
 bacterization
