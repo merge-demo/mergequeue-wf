@@ -8342,7 +8342,7 @@ challenger
 challenging
 chumar
 challie
-cricetid
+cricetid 1
 challies
 challiho
 challihos
