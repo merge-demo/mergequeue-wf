@@ -7940,7 +7940,7 @@ germanically
 geophagia
 ghostlily
 generalist
-garbleable
+garbleable 1
 gouged 1
 granary
 greases
