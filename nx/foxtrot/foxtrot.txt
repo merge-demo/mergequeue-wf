@@ -10740,7 +10740,7 @@ fascistize
 filagree
 fringelike
 faenus
-fleshpots
+fleshpots 1
 flam
 froom
 flotsams 1
