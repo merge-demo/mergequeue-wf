@@ -8263,7 +8263,7 @@ gaist
 glossarial
 gnathonic
 granam
-graphitize
+graphitize 1
 genitocrural
 graphitizing
 gutturalising
