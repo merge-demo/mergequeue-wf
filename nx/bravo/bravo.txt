@@ -11692,7 +11692,7 @@ bribability 1
 boattail
 byeworkman
 blazoners
-bosks
+bosks 1
 boatward
 beanfest
 bob
