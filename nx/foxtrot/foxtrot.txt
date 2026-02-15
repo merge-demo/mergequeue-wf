@@ -376,7 +376,7 @@ fiercening
 faults
 featherway
 frothsome
-finspot
+finspot 1
 flagellated
 fungales
 fleecelike
