@@ -3393,7 +3393,7 @@ bushel
 bottlesful
 byordinary
 basophilic
-brans
+brans 1
 bassa
 balaenicipites
 basiphobia
