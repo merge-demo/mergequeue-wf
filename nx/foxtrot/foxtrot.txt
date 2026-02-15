@@ -998,7 +998,7 @@ fierce
 foreshop
 fulmina
 fondu
-foreplan
+foreplan 1
 foreorder
 falsification
 factorability
