@@ -3309,7 +3309,7 @@ flowerfence
 fivescore 1
 flounces
 faveolate
-flingers
+flingers 1
 farers
 filleter
 fortier
