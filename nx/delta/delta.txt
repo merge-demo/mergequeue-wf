@@ -657,7 +657,7 @@ distributes
 damselfishes
 damsels
 deformalize
-dan
+dan 1
 dulotic 1
 disseize
 dusio
