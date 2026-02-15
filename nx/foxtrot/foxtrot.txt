@@ -5505,7 +5505,7 @@ filterable
 floatative
 fopship
 flogs
-fabricative
+fabricative 1
 flexible
 fleering
 flattening
