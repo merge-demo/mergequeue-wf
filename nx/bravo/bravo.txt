@@ -5633,7 +5633,7 @@ belaboring
 beverage
 battlement
 bronchopleurisy
-baghla
+baghla 1
 barbitone
 businessmen
 barbarizes
