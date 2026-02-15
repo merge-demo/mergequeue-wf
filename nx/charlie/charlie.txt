@@ -11534,7 +11534,7 @@ costoxiphoid
 cholaemia
 cholagogic
 counterintuitive
-cholalic
+cholalic 1
 cardiemphraxia
 comments
 coquimbite
