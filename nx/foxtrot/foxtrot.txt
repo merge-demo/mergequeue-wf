@@ -931,7 +931,7 @@ fortunateness
 farandoles
 flankard
 faxing
-fundatorial
+fundatorial 1
 forthbringer
 fumidity
 forbysening
