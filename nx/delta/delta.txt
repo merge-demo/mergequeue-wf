@@ -1922,7 +1922,7 @@ drawspring
 disobeys
 dreader
 disulfuret
-decatize
+decatize 1
 disleafed
 depressant
 dobla
