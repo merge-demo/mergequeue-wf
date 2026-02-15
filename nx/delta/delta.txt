@@ -5793,7 +5793,7 @@ dainties
 donkeywork
 dripping
 drama
-diaxial
+diaxial 1
 displeases
 dependants
 deceit
