@@ -2285,7 +2285,7 @@ decenters
 disaggregation
 decentralising 1
 daedalic
-duckhunting
+duckhunting 1
 dichogamy
 dhurrie
 decentralize
