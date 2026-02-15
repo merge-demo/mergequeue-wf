@@ -413,7 +413,7 @@ fructuous
 facts
 flabellate
 fallaway
-fastidiously
+fastidiously 1
 fourquine
 floozie
 fitten

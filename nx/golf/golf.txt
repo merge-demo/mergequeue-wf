@@ -1281,7 +1281,7 @@ glossarist
 gaunted
 grail
 guepard
-glowered
+glowered 1
 giro
 grindal
 garganey
