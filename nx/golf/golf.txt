@@ -2611,7 +2611,7 @@ goldfish
 gripers
 geswarp
 gripgrass
-geniality
+geniality 1
 gastrolysis
 gudgeoned
 gastrocoele
