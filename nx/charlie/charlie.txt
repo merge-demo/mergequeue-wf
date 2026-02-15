@@ -14746,7 +14746,7 @@ citizenly
 cavorter
 citizenry
 callithump
-carnotite
+carnotite 1
 corruptibleness
 cascan
 citizens
