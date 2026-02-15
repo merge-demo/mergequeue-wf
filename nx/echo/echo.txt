@@ -6320,7 +6320,7 @@ eumycetes
 equijacent
 edeology
 enthralment
-embowed
+embowed 1
 euclidean
 enteradenography
 emmenagogue
