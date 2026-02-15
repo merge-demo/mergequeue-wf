@@ -10477,7 +10477,7 @@ etymon 1
 ectocondyle
 endothelium
 etiolated
-exiguously
+exiguously 1
 emancipation
 epistatic
 etiology
