@@ -7944,7 +7944,7 @@ equipaga 1
 enhance
 exululate
 epil
-exoclinal
+exoclinal 1
 embrighten
 endorsation 1
 elixation
