@@ -1677,7 +1677,7 @@ gleanings
 gluttonise
 gluts
 guildhall
-grudgefulness 1
+grudgefulness 2
 glyptodont
 gastrophilite
 gastrograph
