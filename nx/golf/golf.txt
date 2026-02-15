@@ -1404,7 +1404,7 @@ garreteer
 greenless
 gola
 graniferous
-glycyrrhiza
+glycyrrhiza 1
 germanism
 garret
 grulla
@@ -6223,7 +6223,7 @@ gesning
 guerrillaism
 genitures
 goave
-gob
+gob 1
 geminating
 gospellike
 gadslid
