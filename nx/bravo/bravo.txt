@@ -9509,7 +9509,7 @@ byronesque
 birostrate
 byronic
 binocles
-beaneries
+beaneries 1
 brahmaness
 barbules
 beaconage
