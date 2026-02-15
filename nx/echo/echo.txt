@@ -3699,7 +3699,7 @@ eponymous
 exeresis
 epitrachelion
 enchodontid
-entrepeneurs
+entrepeneurs 1
 ejector
 exporting
 expellant
