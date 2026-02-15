@@ -13626,7 +13626,7 @@ beardlessness
 beefily
 bromacetic
 blared
-berate
+berate 1
 bornyl
 barques
 bailiffry
