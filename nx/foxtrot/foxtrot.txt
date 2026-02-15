@@ -1970,7 +1970,7 @@ futurists
 federalize 1
 fatalistically
 furile
-fulvid
+fulvid 1
 ferrocyanate
 forejudging
 flector
