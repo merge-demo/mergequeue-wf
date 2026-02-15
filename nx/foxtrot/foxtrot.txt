@@ -5675,7 +5675,7 @@ fourgons
 frusla
 facades
 forecabin
-fortuitously
+fortuitously 1
 freeholdership
 fortitude
 furmint
