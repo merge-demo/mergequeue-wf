@@ -6209,7 +6209,7 @@ blackleggery
 bedraggles
 beetle
 benet
-binaries
+binaries 1
 benevolency
 bengalese
 boston
