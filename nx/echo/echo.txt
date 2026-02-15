@@ -2697,7 +2697,7 @@ escalin 1
 emong
 electrosurgery
 epididymovasostomy
-egotist
+egotist 1
 esophagism
 electrotactic 1
 eyra
