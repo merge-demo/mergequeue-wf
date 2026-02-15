@@ -3228,7 +3228,7 @@ capias
 capilaceous
 cushaw
 capillarectasia
-calamiform
+calamiform 1
 cyrtograph
 chatta
 carmetta
