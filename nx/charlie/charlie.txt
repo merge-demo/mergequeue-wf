@@ -12802,7 +12802,7 @@ chupatty
 crases
 countermanifesto
 crithmene
-chuppah
+chuppah 1
 cornuate
 calorite
 commonplacer

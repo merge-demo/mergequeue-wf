@@ -10103,7 +10103,7 @@ bleacher
 brominize
 bks
 bkt
-bowshots
+bowshots 1
 beflum
 blaasop
 bistriazole
