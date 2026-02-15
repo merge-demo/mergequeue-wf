@@ -111,7 +111,7 @@ battements
 beastliest
 blastogeny
 bespout
-bumpity
+bumpity 1
 babied
 bumaloe
 bullpens
