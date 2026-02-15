@@ -5591,7 +5591,7 @@ gemmaceous
 grossular
 graminaceae
 geotectonics
-glochid
+glochid 1
 garnice
 gemuti
 gradable
