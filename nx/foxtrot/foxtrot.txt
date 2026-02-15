@@ -3241,7 +3241,7 @@ flippantness
 fijian
 flittermouse
 fearnought
-fulminant
+fulminant 1
 fango
 forswat
 fuchsone
