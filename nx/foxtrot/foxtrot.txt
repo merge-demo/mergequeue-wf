@@ -9950,7 +9950,7 @@ farmyards
 fake
 funs
 faddiest
-falconry
+falconry 1
 fleabane
 feceris
 fortuitism
