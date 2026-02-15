@@ -10352,7 +10352,7 @@ extemporise
 exaggerative
 ethonomics
 ethnocentric
-encyclopaedical
+encyclopaedical 1
 evasiveness
 eroticist
 exculpates
