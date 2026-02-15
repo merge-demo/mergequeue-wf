@@ -3537,7 +3537,7 @@ excusative
 epistemologist
 enchondromata
 encephalomyelitis
-eductive
+eductive 1
 enamels
 ebionism
 exhibits
