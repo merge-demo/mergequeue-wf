@@ -11277,7 +11277,7 @@ dipolar
 deg
 duckpins
 decorum
-divinistre
+divinistre 1
 definability
 deposure
 dyspathy
