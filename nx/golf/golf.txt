@@ -3127,7 +3127,7 @@ gnarrs
 guzzled
 gellant
 gourounut
-galoot
+galoot 1
 grouses
 gavotte
 goat
