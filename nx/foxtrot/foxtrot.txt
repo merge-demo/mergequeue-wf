@@ -1380,7 +1380,7 @@ floorer
 fiche
 filletlike
 flatteringly
-fornicates
+fornicates 1
 flaneur
 fortuneteller
 functional 1
