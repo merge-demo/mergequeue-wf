@@ -297,7 +297,7 @@ fondest
 ford
 floorthrough
 fiercest
-febrifacient
+febrifacient 1
 footpounds
 firbolg
 ferijee
