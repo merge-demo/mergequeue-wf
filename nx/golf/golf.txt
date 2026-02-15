@@ -3523,7 +3523,7 @@ greatening
 gelignite
 gnomical
 glottis
-gander
+gander 1
 guyots
 gogglebox
 girded
