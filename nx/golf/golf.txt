@@ -6223,7 +6223,7 @@ gesning
 guerrillaism
 genitures
 goave
-gob
+gob 1
 geminating
 gospellike
 gadslid
