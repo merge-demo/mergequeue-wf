@@ -9220,7 +9220,7 @@ discontented
 dieldrin
 derelict
 dieldrins
-doziest
+doziest 1
 disparately
 dismerit
 derbylite
