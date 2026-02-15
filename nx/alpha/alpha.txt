@@ -14342,7 +14342,7 @@ albuminone
 antagonizable
 axonia
 anthracosaurus
-anthracosis
+anthracosis 1
 abox
 anthracothere
 anthracotherium
