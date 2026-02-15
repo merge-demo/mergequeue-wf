@@ -11377,7 +11377,7 @@ discontinued
 dowset
 davens
 deprivate
-discerpible
+discerpible 1
 discerpibleness
 downfield
 distrainee
