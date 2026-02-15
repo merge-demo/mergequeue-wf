@@ -12551,7 +12551,7 @@ addleheadedly
 aperies
 allocators
 afridi
-amixia
+amixia 1
 austerus
 aporrhaidae
 arthrotrauma
