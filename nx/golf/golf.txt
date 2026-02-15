@@ -9014,7 +9014,7 @@ galvanothermy
 groomer
 gossipers
 grisaille
-gatehouse
+gatehouse 1
 gigged 1
 granatum
 gastrocnemian 1
