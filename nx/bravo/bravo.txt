@@ -17335,7 +17335,7 @@ burganet
 brawled
 blanks
 butanal
-beneplacity
+beneplacity 1
 boneless
 bentincks 1
 botanomancy
