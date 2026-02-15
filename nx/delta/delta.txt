@@ -6678,7 +6678,7 @@ diagnoseable
 desiderata
 debagged
 digamists
-declivitously
+declivitously 1
 dreyfusist
 downcried
 dissentiously
