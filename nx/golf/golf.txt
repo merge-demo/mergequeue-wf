@@ -4798,7 +4798,7 @@ glossal
 gifted
 gadi
 globularia
-gein
+gein 1
 grapewort
 gastromycosis
 gymnast
