@@ -1294,7 +1294,7 @@ gibbered
 goniatitid
 glathsheim
 groomers
-galls
+galls 1
 glost
 gourinae
 gigster
