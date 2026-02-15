@@ -1953,7 +1953,7 @@ doohickey
 debusing
 declasses
 dedans
-disenact
+disenact 1
 disavouch
 dharmic
 decumbency
