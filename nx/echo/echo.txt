@@ -11777,7 +11777,7 @@ elasticizing
 exobiology
 entreat
 eglateres
-emigrator
+emigrator 1
 emirs
 examinant 1
 eschewer
