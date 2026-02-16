@@ -5824,7 +5824,7 @@ extrinsic
 emagram
 exibilate 1
 engrailed
-elsewards
+elsewards 1
 enzyms
 epizoicide
 engrainer
