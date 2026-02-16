@@ -2977,7 +2977,7 @@ barefacedness
 bioenvironmentaly 1
 blind
 beachboy
-benefactor
+benefactor 1
 bushers
 barreling
 backbiting
