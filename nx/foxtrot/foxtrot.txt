@@ -7319,7 +7319,7 @@ fluidglycerate
 flanderkin
 fraggings
 fossillike
-fb
+fb 1
 fecial
 frocked
 fibrocaseose
