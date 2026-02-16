@@ -2106,7 +2106,7 @@ epispermic
 emu
 endamoebae
 eggberry
-extrovertedness
+extrovertedness 1
 ectype
 extirpateo
 enent
