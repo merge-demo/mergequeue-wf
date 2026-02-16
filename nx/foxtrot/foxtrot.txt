@@ -3026,7 +3026,7 @@ floaters
 firmament
 foreman
 fioriture
-firemanship
+firemanship 1
 feoffers
 frostflower
 floriken
