@@ -13001,7 +13001,7 @@ decelerator
 disfavourer
 drang
 distannic
-dormantly
+dormantly 1
 daughterkin
 disacceptance
 dehumanizing
