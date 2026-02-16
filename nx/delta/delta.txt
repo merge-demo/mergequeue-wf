@@ -12124,7 +12124,7 @@ daisies
 destemper
 drusedom
 dipodomyinae
-deticking
+deticking 1
 dividableness
 dewworm
 dysepulotical
