@@ -11018,7 +11018,7 @@ chirre
 carbides
 chirrs
 chirrup
-chirrupy
+chirrupy 1
 chirrupper
 carburating
 combustor
