@@ -11302,7 +11302,7 @@ duckwheat
 dialoger
 debussyan
 disordinate
-disarm
+disarm 1
 disgracers 1
 deliciate
 dyarchical
