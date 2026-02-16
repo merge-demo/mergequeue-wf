@@ -1826,7 +1826,7 @@ feastless
 faintheart
 fleshliest
 flaccid 1
-falangism
+falangism 1
 feloid
 febrile
 fcs
