@@ -1107,7 +1107,7 @@ flatiron
 flaunt
 farsightedness
 flooring
-forkedly
+forkedly 1
 formularisation
 fissiparity
 faciocervical
