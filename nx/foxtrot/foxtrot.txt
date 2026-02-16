@@ -2120,7 +2120,7 @@ foreprize 1
 foddered
 faithbreach 1
 factuality
-floruit
+floruit 1
 frigate
 footprints
 frontogenesis
