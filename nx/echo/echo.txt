@@ -13840,7 +13840,7 @@ equipotentiality
 equivocation
 evaporize
 ellasar
-elemong
+elemong 1
 explained
 extractability
 eluated 1
