@@ -2942,7 +2942,7 @@ actinautographic
 aerotonometer
 apographic
 antijam
-anoplotheroid
+anoplotheroid 1
 acting
 actiniae
 axial
