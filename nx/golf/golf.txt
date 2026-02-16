@@ -1467,7 +1467,7 @@ gastric
 gisarme
 growly
 greta
-gaseousness
+gaseousness 1
 gesticulated
 gauntness
 gillhooter
