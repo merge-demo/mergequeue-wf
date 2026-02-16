@@ -1491,7 +1491,7 @@ gerbille
 gorlin
 genapping
 geological
-gasman
+gasman 1
 gasbags
 galactosemia
 glyptodon

@@ -10019,7 +10019,7 @@ chlorioninae
 capharnaism
 cherrying
 clamor
-cherrylike
+cherrylike 1
 chandleries
 cherrystone
 canephors
