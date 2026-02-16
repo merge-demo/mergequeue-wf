@@ -6001,7 +6001,7 @@ fete 1
 fineable
 firespout
 felspath
-fatalize
+fatalize 1
 flubdubs
 fusilade
 forestaysail
