@@ -4949,7 +4949,7 @@ estreated
 ericeticolous 1
 exilable
 emulsifiable
-embole
+embole 1
 epineurial
 enthronise
 enablers
