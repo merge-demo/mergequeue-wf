@@ -6238,7 +6238,7 @@ extermination
 enorn
 endopterygote
 eumeromorph
-encrown
+encrown 1
 epinicial
 eradiating
 entourage
