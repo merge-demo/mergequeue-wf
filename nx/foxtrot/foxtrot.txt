@@ -11135,7 +11135,7 @@ forges
 forecarriage
 froppish
 false 1
-fauteuils
+fauteuils 1
 fedellini
 fetid
 fishtail
