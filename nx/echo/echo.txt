@@ -9422,7 +9422,7 @@ embryogenic
 epoptic
 enchair
 epicedial
-euspongia
+euspongia 1
 eventail
 embolies
 eases
