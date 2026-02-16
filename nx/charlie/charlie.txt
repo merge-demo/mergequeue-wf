@@ -27568,7 +27568,7 @@ characterised
 ciceronically
 coverlids
 clairce
-coverslip
+coverslip 1
 covertly
 colacobioses
 colloquialist
