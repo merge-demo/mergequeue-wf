@@ -4111,7 +4111,7 @@ gr
 gallinulelike
 gymnasic
 glycopeptide
-galeidae
+galeidae 1
 genitivally
 geographers
 glycohemia
