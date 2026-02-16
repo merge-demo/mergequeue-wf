@@ -7517,7 +7517,7 @@ glossopharyngeal
 guessable
 gummoses
 glottalized
-geopolitist
+geopolitist 1
 grommets
 gat
 gapperi
