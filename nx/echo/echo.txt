@@ -2359,7 +2359,7 @@ elderliness
 excrementitial
 endoscopes
 encore
-encomia
+encomia 1
 emetic
 esau
 evenlong
