@@ -2022,7 +2022,7 @@ ergodic
 eradiculose
 elsa
 enstrengthen
-elabrate
+elabrate 1
 epirrhematic
 epigaea
 endotrophi
