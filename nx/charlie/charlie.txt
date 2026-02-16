@@ -12234,7 +12234,7 @@ communicants
 chrysophilist
 controverse
 chrysophyte
-chromonemic
+chromonemic 1
 chrysopid
 chrysoprase
 chasmic
