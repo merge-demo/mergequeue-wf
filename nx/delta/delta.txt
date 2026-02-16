@@ -15901,7 +15901,7 @@ doublegear
 drybeard
 digammic
 dialectologic
-discoid
+discoid 1
 dynamitic 1
 distasting
 deprivers
