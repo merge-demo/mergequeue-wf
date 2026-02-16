@@ -13997,7 +13997,7 @@ cypre
 coccolithophorid
 cypress
 cistuses
-cozeningly
+cozeningly 1
 cannequin
 cavitation
 cypressed
