@@ -10665,7 +10665,7 @@ adstipulation
 azotizes
 anormality
 acrolith
-amitrole
+amitrole 1
 antedorsal
 amitular
 ancre
