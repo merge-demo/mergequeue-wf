@@ -2493,7 +2493,7 @@ fluters
 ferociously
 fumarin
 fastus
-fingers
+fingers 1
 flavourful
 flabra
 fiji

@@ -16900,7 +16900,7 @@ domineers
 deoxidate
 dreamsy
 displeasingness
-devisability
+devisability 1
 dzerin
 dyspeptics
 disbelieve
