@@ -4189,7 +4189,7 @@ backdrop
 bracciale
 bahuvrihis
 baddishness
-bearward
+bearward 1
 bearwort
 bozal
 boanthropy
