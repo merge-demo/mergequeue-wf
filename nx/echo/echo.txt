@@ -1448,7 +1448,7 @@ electroshocks
 expandedness
 emetins
 exterous
-emphasized
+emphasized 1
 endowing
 erasions
 ericoid
