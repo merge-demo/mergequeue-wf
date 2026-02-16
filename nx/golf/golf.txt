@@ -7797,7 +7797,7 @@ glenoidal
 girnal 1
 ghalva
 glacial
-gye
+gye 1
 gipseian
 greeny
 germless
