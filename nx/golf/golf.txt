@@ -1920,7 +1920,7 @@ glosser
 guajillo
 glorifiers
 grafted
-glaucophyllous
+glaucophyllous 1
 galliards
 gauffered
 groundwave
