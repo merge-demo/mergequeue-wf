@@ -2143,7 +2143,7 @@ decapitation
 derogatoriness
 dollish
 disassemble
-distresses
+distresses 1
 decalcomanias
 dawn
 draggletailedly
