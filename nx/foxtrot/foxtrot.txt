@@ -9948,7 +9948,7 @@ fielders
 formalizes
 farmyards
 fake
-funs
+funs 1
 faddiest
 falconry 1
 fleabane
