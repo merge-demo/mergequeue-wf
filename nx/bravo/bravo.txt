@@ -6675,7 +6675,7 @@ beseemly
 berimes
 betangle
 borachio
-bacterizing
+bacterizing 1
 bacillian
 ballottable
 baseband
