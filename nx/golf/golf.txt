@@ -850,7 +850,7 @@ geopositive
 gravimetry
 globicephala 1
 ginep
-gametocyte
+gametocyte 1
 grayout 1
 granules
 gravemaster
