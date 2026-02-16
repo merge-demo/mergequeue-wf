@@ -2642,7 +2642,7 @@ electrophoretogram 1
 ethnographically
 expansure
 estimated
-enthralled
+enthralled 1
 eave
 embarrased
 eu
