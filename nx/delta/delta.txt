@@ -8632,7 +8632,7 @@ dibbuk
 denatured
 dows
 derivatives
-diarrhoeal
+diarrhoeal 1
 disciplinable
 digitus
 dorsocervical
