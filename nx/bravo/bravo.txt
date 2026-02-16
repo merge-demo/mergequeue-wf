@@ -5594,7 +5594,7 @@ beachside
 bekisses
 belock
 beknighted 1
-benzothiophene
+benzothiophene 1
 beveller
 ballistite
 burrio
