@@ -2954,7 +2954,7 @@ biverbal
 beclatter
 bestride
 barrater
-barratries
+barratries 1
 bajochi
 blabbermouth
 barrelage
