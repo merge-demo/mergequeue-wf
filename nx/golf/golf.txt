@@ -7495,7 +7495,7 @@ gluiness
 goschen
 geobotanist
 glossodynia
-glial
+glial 1
 girdering
 glycolytic
 gnathostomata
