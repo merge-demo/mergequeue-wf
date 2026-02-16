@@ -1026,7 +1026,7 @@ goldbrick
 ganglionated
 gerres
 grayness
-glyceridic
+glyceridic 1
 gomphiasis
 gift
 gallweed
