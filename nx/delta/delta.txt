@@ -14700,7 +14700,7 @@ dieselize
 disagrees
 disbalance
 debauchee
-dolent
+dolent 1
 dkg
 driveways
 decimosexto
