@@ -3940,7 +3940,7 @@ dort
 decorous
 dimethylamino
 ditchdigging
-dkm
+dkm 1
 dindling
 decontaminates
 demonstratory
