@@ -756,7 +756,7 @@ discute
 dissections
 diapsidan
 denies
-dandruffs
+dandruffs 1
 dialytic
 deaden
 debile
