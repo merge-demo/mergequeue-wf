@@ -8825,7 +8825,7 @@ diazotype
 dromicia
 dioctahedral
 daturas
-defamations
+defamations 1
 deluding
 deratization
 dolefuller
