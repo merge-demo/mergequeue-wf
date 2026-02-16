@@ -2685,7 +2685,7 @@ frostbow
 fetish
 flashy
 fibs
-flamb
+flamb 1
 frontispiece
 formularize
 fertile
