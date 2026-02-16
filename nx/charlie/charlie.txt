@@ -4145,7 +4145,7 @@ coolerman
 cardiasthenia
 coarsen
 conterminousness
-claying
+claying 1
 caliphates
 collops
 cardiectasis
