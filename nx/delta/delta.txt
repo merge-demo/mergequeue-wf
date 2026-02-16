@@ -12204,7 +12204,7 @@ dustrags
 didactician
 degausser
 demander
-duply
+duply 1
 desulphurising
 disambiguates
 demideify
