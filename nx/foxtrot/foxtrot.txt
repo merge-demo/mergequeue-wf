@@ -11222,7 +11222,7 @@ funiculars
 funiform
 fricandeau
 flexibly
-flashcubes
+flashcubes 1
 formful
 flexuosities
 ferrocyanhydric 1
