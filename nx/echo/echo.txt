@@ -7439,7 +7439,7 @@ emissile
 entombs 1
 epencephala
 erythroxylaceae
-embittering
+embittering 1
 emprise
 ezekiel
 ethidene
