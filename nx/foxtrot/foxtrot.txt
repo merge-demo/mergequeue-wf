@@ -9654,7 +9654,7 @@ fleabugs
 featherbone
 firemaster
 forlet
-floatier
+floatier 1
 fell
 falcata
 foothook
