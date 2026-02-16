@@ -10810,7 +10810,7 @@ acclamation
 autostandardization
 absolution
 amosite
-anhydric
+anhydric 1
 availably
 amnios
 amniotes
