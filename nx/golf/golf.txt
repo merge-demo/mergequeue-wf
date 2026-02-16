@@ -7302,7 +7302,7 @@ gynics
 genoas
 glaucosuria
 grossness 1
-glycerole
+glycerole 1
 goffered 1
 gratelike
 genet
