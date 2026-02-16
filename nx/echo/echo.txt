@@ -11440,7 +11440,7 @@ ellipsoids
 ebenaceous
 ethnomusicologist
 endodontics
-enneasemic
+enneasemic 1
 efferents
 exuvia
 expurgations
