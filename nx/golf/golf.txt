@@ -1270,7 +1270,7 @@ gestation
 garefowl
 gummosity
 gyrene
-galwegian
+galwegian 1
 glowers
 grudgingly
 girouettes
