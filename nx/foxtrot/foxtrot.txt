@@ -10911,7 +10911,7 @@ fruitist
 fossilology
 forgeful
 footgrip
-foilable
+foilable 1
 ferrying
 franticness
 fetishistic
