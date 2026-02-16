@@ -12437,7 +12437,7 @@ endozoic
 exradio
 exhumatory
 enthronization
-elegiac
+elegiac 1
 eyres
 enclosure
 enneacontahedral
