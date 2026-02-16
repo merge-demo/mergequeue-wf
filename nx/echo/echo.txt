@@ -10427,7 +10427,7 @@ expressman
 enfranchisable
 entopterygoid
 each
-elusoriness
+elusoriness 1
 exchanged
 ethoxyethane
 emigres
