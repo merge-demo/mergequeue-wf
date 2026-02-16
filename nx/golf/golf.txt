@@ -9985,7 +9985,7 @@ gogglers
 glegness
 googols
 gipsyfy
-galvayned
+galvayned 1
 greisen
 gozell
 gazetted
