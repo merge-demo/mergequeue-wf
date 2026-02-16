@@ -11980,7 +11980,7 @@ diesels
 distensile
 disembogued
 deceases
-dorking
+dorking 1
 dared
 dictionaries 1
 diducing
