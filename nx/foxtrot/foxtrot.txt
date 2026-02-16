@@ -1672,7 +1672,7 @@ formulaically
 fieldward
 finishing
 fearingly
-fearless
+fearless 1
 frangible
 facie
 fuzes
