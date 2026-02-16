@@ -3364,7 +3364,7 @@ geopolitik
 genotype
 gemitorial
 gilbertite
-guttiferal
+guttiferal 1
 gundelet
 gigglingly
 gools
