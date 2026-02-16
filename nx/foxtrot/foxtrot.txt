@@ -5058,7 +5058,7 @@ fleetingness
 flood
 faured
 faxes
-flaneurs
+flaneurs 1
 falunian
 fretless
 fomento
