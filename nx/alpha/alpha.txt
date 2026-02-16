@@ -22381,7 +22381,7 @@ astrogeology
 aridity
 ariadne
 anemia
-anniversaries
+anniversaries 1
 astroglia
 affluentness
 actify
