@@ -8895,7 +8895,7 @@ fanfaron
 ferrotypes
 fados
 fretful
-forte
+forte 1
 fraternities
 facioscapulohumeral
 foreigners

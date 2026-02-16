@@ -17760,7 +17760,7 @@ blinkered
 backing
 boosters
 brilliants
-backstroke
+backstroke 1
 bowstrings
 bronchoscope
 bearnaise
