@@ -21978,7 +21978,7 @@ annualist
 avantgarde
 antireligiosity
 amerikani
-assume
+assume 1
 auxins
 araneidal
 anthography
