@@ -2000,7 +2000,7 @@ electrine
 ekka
 enwind
 entoproct
-exophoric
+exophoric 1
 experienceless
 eryngo
 ekron
