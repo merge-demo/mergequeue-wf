@@ -10077,7 +10077,7 @@ disqualify
 deadpanning
 denitrify
 diana
-duopolist
+duopolist 1
 diocoel
 dynamitical
 dynamitically
