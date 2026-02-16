@@ -11787,7 +11787,7 @@ defeasibility
 disrespectable
 dehydrogenize
 dogblow 1
-demurrages
+demurrages 1
 disported
 damoclean
 dizzen
