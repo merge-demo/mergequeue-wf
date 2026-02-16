@@ -7534,7 +7534,7 @@ eternalized
 endited
 eastmost
 electrostenolysis
-elite
+elite 1
 exhilarated
 embowelled
 electrosynthesis
