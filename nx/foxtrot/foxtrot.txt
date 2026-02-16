@@ -10605,7 +10605,7 @@ fictitiously
 fusees
 feracities
 farces
-founds
+founds 1
 fatidical
 fussock
 froggier
