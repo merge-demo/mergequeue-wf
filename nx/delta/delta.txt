@@ -2002,7 +2002,7 @@ dastardy
 dayroom
 daffodilly
 desugars
-departures
+departures 1
 dysesthetic
 decaedron
 decaffeinate
