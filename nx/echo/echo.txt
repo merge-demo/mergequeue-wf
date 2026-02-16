@@ -5488,7 +5488,7 @@ energical
 energid 1
 ensuing
 eglamore
-endoplasmic
+endoplasmic 1
 extramundane
 energize
 energizers
