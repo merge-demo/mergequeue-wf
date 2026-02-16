@@ -5079,7 +5079,7 @@ fuzed
 fissive
 filmcard
 favourless
-frogwort
+frogwort 1
 fluctuable
 faceable
 forcipial
