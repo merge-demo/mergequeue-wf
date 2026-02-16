@@ -27714,7 +27714,7 @@ cowish
 conceptive
 copsole
 concinnous
-circumdate
+circumdate 1
 coercionist
 corrigendum
 cadaveric
