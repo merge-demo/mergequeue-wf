@@ -5044,7 +5044,7 @@ effervescently
 escritoires
 extradites 1
 extensionally
-exorbitancy
+exorbitancy 1
 eudemon
 equalness
 exagitation
