@@ -8419,7 +8419,7 @@ bannerfish
 bepaste
 bisimine
 believability
-bijwoner
+bijwoner 1
 bowedness
 bikers
 bocca
