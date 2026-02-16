@@ -6332,7 +6332,7 @@ granolithic
 gjedost
 grouty
 grassweed 1
-geotectology
+geotectology 1
 gunarchy
 gossaniferous
 gog
