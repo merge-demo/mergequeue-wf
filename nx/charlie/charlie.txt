@@ -3423,7 +3423,7 @@ classificational
 cyclopite
 coenact
 comfits
-colossuses
+colossuses 1
 cappings
 coagencies
 capple
