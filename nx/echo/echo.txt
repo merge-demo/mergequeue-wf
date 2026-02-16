@@ -13682,7 +13682,7 @@ estrays
 elevon
 elizabethanism 1
 exteriorisation
-entapophysis
+entapophysis 1
 extrapolates
 electrocataphoresis
 espec
