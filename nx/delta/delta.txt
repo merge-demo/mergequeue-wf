@@ -10133,7 +10133,7 @@ drawtongs
 dieticians
 disintrench
 dutiable
-disamis
+disamis 1
 dynastides
 dynastinae
 denmark
