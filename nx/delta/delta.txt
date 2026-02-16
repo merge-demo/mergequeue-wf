@@ -11673,7 +11673,7 @@ discoplasm
 dostoevsky
 discursative
 discommune
-disburgeon
+disburgeon 1
 delicatessen
 divell
 dismemberer
