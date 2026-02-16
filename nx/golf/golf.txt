@@ -4409,7 +4409,7 @@ goyazite
 gipsydom
 glucuronide
 gobby
-giobertite
+giobertite 1
 grazierdom
 grainsickness 1
 gammelost

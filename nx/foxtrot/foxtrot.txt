@@ -6469,7 +6469,7 @@ fairlike
 fireworm
 filemarks
 farcer
-fossae
+fossae 1
 fibromyositis 1
 frasera
 favuses
