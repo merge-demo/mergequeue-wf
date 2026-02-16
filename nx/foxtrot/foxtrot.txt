@@ -10950,7 +10950,7 @@ fructifying
 fenetre
 ferromanganese
 frey
-furls
+furls 1
 flabbergast
 franklinism
 flossier
