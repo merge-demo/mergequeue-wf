@@ -1354,7 +1354,7 @@ fossiform
 flaggish
 fatigue
 fossicks
-forwear
+forwear 1
 fatiguesome
 fogus
 fortifies
