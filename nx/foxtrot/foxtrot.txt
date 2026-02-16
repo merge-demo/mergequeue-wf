@@ -7517,7 +7517,7 @@ freemen
 falconer
 flagginess
 flagellums
-flutelike
+flutelike 1
 foreboard
 flirtingly
 fossick
