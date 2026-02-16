@@ -5861,7 +5861,7 @@ domal
 demeaning
 disconcert
 deprecative
-dissolvable
+dissolvable 1
 dtd
 deprecator
 dysbarism
