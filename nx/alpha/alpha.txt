@@ -12019,7 +12019,7 @@ alchemize
 antambulacral
 accepter
 artou
-atypical
+atypical 1
 already
 aegeriid
 atherosclerosis
