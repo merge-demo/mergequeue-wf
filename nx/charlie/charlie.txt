@@ -26537,7 +26537,7 @@ capra
 characterist
 cougar
 coughed
-choosiest
+choosiest 1
 calumniate
 coughers
 coronillin
