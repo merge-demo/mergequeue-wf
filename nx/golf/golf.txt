@@ -9689,7 +9689,7 @@ gothite
 grueled
 glaucoma
 gyrose
-guzzles
+guzzles 1
 gestureless
 guamuchil
 gamogony
