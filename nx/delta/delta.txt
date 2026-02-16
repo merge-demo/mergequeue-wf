@@ -12130,7 +12130,7 @@ dewworm
 dysepulotical
 disequalizer
 dyserethisia
-diplopodous
+diplopodous 1
 disert
 detergency
 ducts
