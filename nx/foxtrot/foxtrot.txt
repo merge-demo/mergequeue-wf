@@ -3111,7 +3111,7 @@ fieulamort
 fmt
 fecula
 frottages
-feres 1
+feres 2
 filoplume
 forestallment
 fibroenchondroma 1
