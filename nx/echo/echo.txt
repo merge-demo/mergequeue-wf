@@ -2221,7 +2221,7 @@ electrics
 electrographic
 exedrae
 epistome
-edacious
+edacious 1
 expanded
 esterlin
 encamping
