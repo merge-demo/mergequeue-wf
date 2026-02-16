@@ -6024,7 +6024,7 @@ empaler
 empiry
 eviler
 electrobrasser
-emboldener
+emboldener 1
 expromissor
 extimulate
 expire
