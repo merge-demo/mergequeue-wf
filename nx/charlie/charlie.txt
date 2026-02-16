@@ -17255,7 +17255,7 @@ coalfield
 chopsticks
 coalfitter
 cyanines
-coalholes
+coalholes 1
 catacrotism
 calculatory
 coaly
