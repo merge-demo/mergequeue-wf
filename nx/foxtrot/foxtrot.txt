@@ -1871,7 +1871,7 @@ forcelet
 flybrush
 flybys 1
 fingerflower
-fumbling
+fumbling 1
 folks
 forestaller
 floorwalkers
