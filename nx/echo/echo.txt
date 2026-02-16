@@ -5084,7 +5084,7 @@ ectypes 1
 exited
 endoclinal
 eternals 1
-endenizen
+endenizen 1
 endocoelar
 epitomical
 epistoma
