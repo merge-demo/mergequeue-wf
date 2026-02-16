@@ -9921,7 +9921,7 @@ clamlike
 cst
 chemotherapeutically
 campanulales
-canopying
+canopying 1
 carcinophobia
 chekhov
 chemotherapeutics
