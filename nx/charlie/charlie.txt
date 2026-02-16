@@ -14117,7 +14117,7 @@ connexion
 circularization
 chartology 1
 circularizes
-choriambs
+choriambs 1
 circularly
 circularness
 circulatable
