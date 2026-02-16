@@ -11771,7 +11771,7 @@ chondromatous
 chondromyces
 cissoids
 chondromyxosarcoma
-carne
+carne 1
 chondromucoid
 chondropharyngeus
 carpale
