@@ -12921,7 +12921,7 @@ dissatisfies
 dismortgaging
 divisionism
 drawls
-dryope
+dryope 1
 dermaptera
 doomfully
 disnew
