@@ -1498,7 +1498,7 @@ expositorial
 eliminating
 emmenic
 effervescible
-epanorthotic
+epanorthotic 1
 erasers
 exenteritis
 enfarce
