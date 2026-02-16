@@ -3981,7 +3981,7 @@ finew
 fish
 fruitcakey
 fractionized
-frenziedly
+frenziedly 1
 foundation
 frightfulness
 foreshown
