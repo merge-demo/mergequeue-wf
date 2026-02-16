@@ -16757,7 +16757,7 @@ detritivorous
 dichroscopic
 diprimary
 daira
-drawbore
+drawbore 1
 deare
 dissenters
 dreeing
