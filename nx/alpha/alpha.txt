@@ -7505,7 +7505,7 @@ antirevisionist
 acardiac
 aggroupment
 anastomos
-apophonic
+apophonic 1
 adamance
 agrostographer
 asymptotical
