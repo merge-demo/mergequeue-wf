@@ -9801,7 +9801,7 @@ exalbuminous
 electroplate
 encrinite
 enlight
-estable
+estable 1
 ephestia
 erodability
 establishable
