@@ -3837,7 +3837,7 @@ dichroiscope 1
 diatropic
 deionize
 degraduation
-deselects
+deselects 1
 disinteresting
 dimensions
 decorationist
