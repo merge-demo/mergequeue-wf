@@ -4453,7 +4453,7 @@ elevens
 encarpa
 engrail
 encrustment
-encarpium
+encarpium 1
 entune
 encarpus
 eulachans
