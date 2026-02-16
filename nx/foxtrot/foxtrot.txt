@@ -9092,7 +9092,7 @@ foxbane
 faltered
 ferrymen
 females
-flustrum
+flustrum 1
 feudality
 forbruise
 foreadmonish
