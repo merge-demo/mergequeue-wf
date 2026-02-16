@@ -2902,7 +2902,7 @@ drafting
 duodecimals
 dedicatory
 despitous
-dedicatorily
+dedicatorily 1
 doggoner
 deuterosy
 dedicators
