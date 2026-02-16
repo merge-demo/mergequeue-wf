@@ -16587,7 +16587,7 @@ average
 aperiodicity
 antiradiation
 acaroid
-apert
+apert 1
 arsonation
 afflated
 archelaus

@@ -11218,7 +11218,7 @@ foreknown
 friskier
 farsang
 furzed
-funiculars
+funiculars 1
 funiform
 fricandeau
 flexibly
