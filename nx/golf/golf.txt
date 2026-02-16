@@ -2309,7 +2309,7 @@ gramineal 1
 gabies
 gamine
 geomaly
-gelatinizer
+gelatinizer 1
 gavials
 graduate
 guaiacols
