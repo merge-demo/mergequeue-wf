@@ -9773,7 +9773,7 @@ gripe
 googolplex
 grummet 1
 governmentally
-gearing
+gearing 1
 gable
 gawkily
 gibbetting
