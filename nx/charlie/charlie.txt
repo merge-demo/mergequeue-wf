@@ -11224,7 +11224,7 @@ chlorid
 cylindrocephalic
 cecile
 chicanos
-chloridate
+chloridate 1
 cardol
 cloyer
 conturb
