@@ -10436,7 +10436,7 @@ frangipanis
 fimbrilliferous
 fatalist 1
 fathomable
-flavobacterium
+flavobacterium 1
 fusoid
 foredoor
 fitche
