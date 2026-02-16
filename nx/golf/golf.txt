@@ -3116,7 +3116,7 @@ guignardia
 galvanotropism
 gashed 1
 grangousier
-garlandry
+garlandry 1
 ghassanid
 guacacoa
 greedygut
