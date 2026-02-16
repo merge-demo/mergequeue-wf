@@ -2064,7 +2064,7 @@ bidactyl
 bloodstones
 bankcard
 bethought
-banky
+banky 1
 bailiaries
 bookseller
 biophysicist
