@@ -6735,7 +6735,7 @@ affray
 agoniada
 airfoils
 antiputrescent
-airglows
+airglows 1
 airgraphics 1
 anisometropia
 androcyte
