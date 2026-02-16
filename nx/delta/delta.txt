@@ -5992,7 +5992,7 @@ dept
 diaschistic
 dispraise
 deceivable
-devitation
+devitation 1
 disfavorer
 domajigger
 dipleuric
