@@ -1377,7 +1377,7 @@ dayless
 diorites
 daviesite
 dodkin
-demilitarize
+demilitarize 1
 dispel 1
 downdale
 dismain
