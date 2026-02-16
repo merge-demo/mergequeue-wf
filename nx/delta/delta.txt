@@ -1486,7 +1486,7 @@ decidual
 dracma
 dismarshall
 decimal
-discophorous
+discophorous 1
 dcb
 deaccessioning
 drawbolt
