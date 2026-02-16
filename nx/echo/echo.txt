@@ -8729,7 +8729,7 @@ equableness
 extravillar
 epulotic
 equiprobably
-equiproportionality
+equiproportionality 1
 evictors
 erratum
 egocentrism
