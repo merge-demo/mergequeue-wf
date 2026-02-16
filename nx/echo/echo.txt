@@ -12999,7 +12999,7 @@ etchant
 eucharises
 elytroid
 embathe
-expectedness
+expectedness 1
 echolocation
 ermanaric
 emulsoid

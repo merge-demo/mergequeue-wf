@@ -6093,7 +6093,7 @@ gnathostomous
 gjetosts
 gastroenterocolitis
 giller
-globelet
+globelet 1
 glaserian
 gnotobiosis
 giddiness
