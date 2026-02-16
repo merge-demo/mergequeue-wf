@@ -7369,7 +7369,7 @@ detonize
 detour
 duncifying
 detectability
-detouring
+detouring 1
 dermacentor
 deflexure
 denigration
