@@ -9189,7 +9189,7 @@ evanid
 ermines
 elatinaceous
 endovaccination
-encolor
+encolor 1
 exteriorize
 enates
 expeditely
