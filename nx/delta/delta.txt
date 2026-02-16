@@ -10155,7 +10155,7 @@ dawson
 dynes
 distractible
 desentimentalize
-dinetic
+dinetic 1
 deathwards
 deperdite
 digit
