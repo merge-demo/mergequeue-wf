@@ -24005,7 +24005,7 @@ antilogarithms
 apostatised
 alumnal
 apertness
-autosuggestions
+autosuggestions 1
 aryanization
 autocarp
 ambiences
