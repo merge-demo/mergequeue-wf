@@ -3723,7 +3723,7 @@ embright
 entreprenant
 exscinded
 entrepots
-elucidative
+elucidative 1
 embryogenesis
 expositively
 extravert
