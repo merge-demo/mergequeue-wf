@@ -24821,7 +24821,7 @@ coquettishly
 consonantalized
 curlycue
 colourfast
-counterpotency
+counterpotency 1
 contumax
 coquille
 crosiers
