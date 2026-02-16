@@ -12799,7 +12799,7 @@ diptychs
 diathesic
 derepression
 delicto
-dalk
+dalk 1
 dumpiness
 delectate
 drollish
