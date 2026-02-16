@@ -5585,7 +5585,7 @@ catadupe
 catafalco
 catagenetic 1
 corkscrewy
-catalatic
+catalatic 1
 circulatories
 cycledom
 comicoprosaic
