@@ -2826,7 +2826,7 @@ colius
 canoeist
 connexional 1
 canoeload
-canoes
+canoes 1
 cardiogenesis
 composal
 cryptoanalyst
