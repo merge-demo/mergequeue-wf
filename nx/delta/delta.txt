@@ -15665,7 +15665,7 @@ dyeweeds
 dehumanised
 defacements
 didle
-disespouse
+disespouse 1
 deflorescence
 dopping
 doppio
