@@ -15722,7 +15722,7 @@ diphthongia
 donec
 downlie
 doggoneder
-dormancies
+dormancies 1
 deflect
 dizygotic
 deacidifying
