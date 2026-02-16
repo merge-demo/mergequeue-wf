@@ -18280,7 +18280,7 @@ archsaint
 arraigner
 adenasthenia
 arsenyl
-aripple
+aripple 1
 arachnean
 aurocyanide
 alexandrite
