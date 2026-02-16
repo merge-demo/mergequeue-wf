@@ -3283,7 +3283,7 @@ flamiest
 fundholder
 friary
 fomenting
-fertilize
+fertilize 1
 flatware
 feelings
 fiddlecome
