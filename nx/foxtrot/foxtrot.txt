@@ -10692,7 +10692,7 @@ fist
 feriae
 famish
 frightable
-facultied
+facultied 1
 fibular
 fainting
 forescent
