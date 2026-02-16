@@ -9092,7 +9092,7 @@ glaucomys 1
 glumal
 gourds
 glires
-glottochronology
+glottochronology 1
 gladiatorism
 glomerulose
 guajira
