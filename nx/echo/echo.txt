@@ -7385,7 +7385,7 @@ endemic
 expurgative
 elephantic
 entombing
-environmentalism
+environmentalism 1
 enmarbled
 evangelistically
 encrypting
