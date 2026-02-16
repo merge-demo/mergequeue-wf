@@ -9650,7 +9650,7 @@ espada
 esurine
 espadon
 ewer
-endoblast
+endoblast 1
 encense
 equipper
 entia
