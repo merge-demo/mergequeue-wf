@@ -10460,7 +10460,7 @@ gastrin
 gusher
 ginghamed
 grinagog
-gunwhale
+gunwhale 1
 gynandromorph
 granulator
 gogglier
