@@ -26348,7 +26348,7 @@ chargeless
 cling
 coteen
 cotele
-cotemporanean
+cotemporanean 1
 cotemporaneously
 carnalized
 caravel
