@@ -13473,7 +13473,7 @@ ensuingly
 encopresis
 elucidatory
 endoperidial
-empory
+empory 1
 expurgate
 equivocate
 ethionine
