@@ -10531,7 +10531,7 @@ barbicels
 bicylindrical
 breachers
 blastosphere
-balanus
+balanus 1
 bromal 1
 buttonhold
 bads 1
