@@ -152,7 +152,7 @@ ferreters
 facks
 fossilizing
 forcible
-fumaria
+fumaria 1
 fumitories
 forestside
 foremostly
