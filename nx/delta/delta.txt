@@ -10610,7 +10610,7 @@ dysneuria
 dolorimeter
 documented
 decoctible
-demoralised
+demoralised 1
 diploidic
 dominus
 diploma
