@@ -9158,7 +9158,7 @@ epitela
 enfollow
 enlargements
 entwining
-eggbeaters
+eggbeaters 1
 elegise
 edulcorating
 equiproportional
