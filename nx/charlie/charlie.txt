@@ -21765,7 +21765,7 @@ condolers
 condoles
 condolingly
 contracture
-collarbones
+collarbones 1
 condominiums
 condoms
 condonable
