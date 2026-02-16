@@ -9305,7 +9305,7 @@ erred
 errhines
 encyclopedize
 enfolded
-extraclassroom
+extraclassroom 1
 eumorphous
 erron
 edificatory
