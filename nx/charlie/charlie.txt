@@ -21337,7 +21337,7 @@ conchyliferous
 conchylium
 coquetoon
 cinchonised
-caneware
+caneware 1
 countermissile
 counterblow
 conchoids
