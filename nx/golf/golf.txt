@@ -6954,7 +6954,7 @@ gastroepiploic
 goatsbeard
 generalism
 grayly
-gormandism
+gormandism 1
 guaniferous 1
 greystone
 gladiatorship
