@@ -7631,7 +7631,7 @@ funiculus
 flays
 forespeak
 faradising
-feldsparphyre
+feldsparphyre 1
 frightenedness
 fulah
 foredune 1
