@@ -2354,7 +2354,7 @@ benzoles
 bubaline
 bullrings
 bagger
-blottto
+blottto 1
 befriend
 bartholomite 1
 ballads 1
