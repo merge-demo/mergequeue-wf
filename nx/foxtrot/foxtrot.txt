@@ -10516,7 +10516,7 @@ flatweed
 fidged
 figurine
 forcite
-frosty
+frosty 1
 feasance
 fumariaceous
 feuillet
