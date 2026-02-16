@@ -4618,7 +4618,7 @@ gyrostabilized
 goatbush
 gurk
 granulitic
-gunlocks
+gunlocks 1
 gaudy
 guerinet
 gees
