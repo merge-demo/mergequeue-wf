@@ -10979,7 +10979,7 @@ contraposita
 chiropterygian
 chiropterite
 chirospasm
-chirotherian
+chirotherian 1
 casern
 chignoned
 combflower
