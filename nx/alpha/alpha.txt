@@ -11176,7 +11176,7 @@ abl
 amoebiform
 amphirhinal
 antiprecipitin
-adamant
+adamant 1
 antimarian
 aloofly
 amice
