@@ -14840,7 +14840,7 @@ deathblows
 dungaree
 diallage
 doctorless
-dippers
+dippers 1
 disgracing
 diffusibly
 dimissorial
