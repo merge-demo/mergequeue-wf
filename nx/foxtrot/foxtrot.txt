@@ -1536,7 +1536,7 @@ feedbox
 flourishingly
 foodless 1
 female
-foulish
+foulish 1
 foreshift
 foetuses
 fauterer
