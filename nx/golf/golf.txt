@@ -3765,7 +3765,7 @@ gombroon
 grockle
 gapping
 goggle
-geodist
+geodist 1
 gaub
 gherao
 gorgio 1
