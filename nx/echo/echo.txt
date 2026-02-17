@@ -4741,7 +4741,7 @@ exalbuminose
 encist
 exponentially 1
 encysting
-eugenol
+eugenol 1
 encysts
 eyepieces
 ecdyses
