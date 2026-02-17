@@ -2075,7 +2075,7 @@ decalitre
 diminishment
 dunlop
 dissimilar
-djuka
+djuka 1
 dialing
 dictyosome
 dinornithid
