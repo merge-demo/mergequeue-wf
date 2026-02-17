@@ -1646,7 +1646,7 @@ egracias
 evens
 enthraldom
 ephebeion
-eradicated
+eradicated 1
 encamped 1
 egress
 erizo
