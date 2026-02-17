@@ -1961,7 +1961,7 @@ acetylphenylhydrazine
 aslope
 ammeter
 acetylphenol
-agogic
+agogic 1
 acetyls
 acce
 acetyltropeine
