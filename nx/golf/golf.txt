@@ -8697,7 +8697,7 @@ gabbed
 gastrodisc
 growler 1
 golosh
-geognostically
+geognostically 1
 gravamen
 gentlemanship
 girosols
