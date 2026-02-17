@@ -9814,7 +9814,7 @@ exponentiate
 eustace
 ebracteolate
 electrum
-elaeagnus
+elaeagnus 1
 emittance
 exergue
 emunctories
