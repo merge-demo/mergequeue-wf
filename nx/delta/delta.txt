@@ -8653,7 +8653,7 @@ disaccharide
 dato
 delfs
 discoloring
-diascope
+diascope 1
 devilries
 deists
 domed
