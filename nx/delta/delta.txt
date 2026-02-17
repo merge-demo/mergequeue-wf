@@ -3667,7 +3667,7 @@ depreciators
 deglutition
 deglutitious 1
 degold
-decathlon
+decathlon 1
 disinhibition
 decomposite
 diabetic
