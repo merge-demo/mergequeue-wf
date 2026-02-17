@@ -12520,7 +12520,7 @@ detache
 diopsidae
 daube
 dysmerogenetic
-discorporate
+discorporate 1
 deflator
 dudes
 damners
