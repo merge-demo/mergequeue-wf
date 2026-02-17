@@ -3213,7 +3213,7 @@ dumps
 dissentient
 distrainor
 defendant
-dir
+dir 1
 decorativeness
 danae
 dayside
