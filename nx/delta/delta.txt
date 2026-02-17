@@ -4433,7 +4433,7 @@ dungari
 dendrological
 device
 dabchick
-defence
+defence 1
 dysprosium
 decadentism
 demicanon
