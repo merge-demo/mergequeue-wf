@@ -7021,7 +7021,7 @@ flocker
 fibromatosis
 feminizing
 ferrocyanic
-freakout
+freakout 1
 fisherpeople 1
 flusherman
 forbear
