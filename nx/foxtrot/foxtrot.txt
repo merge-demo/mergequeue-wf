@@ -2551,7 +2551,7 @@ falciparum 1
 flimp
 ferricyanide
 ferrihydrocyanic
-fervency
+fervency 1
 feedsman
 friesic
 fimbriatum 1
