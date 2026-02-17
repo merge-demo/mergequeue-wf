@@ -1766,7 +1766,7 @@ garcons
 galvanoscopy
 gingerwork
 gonozooid
-glandule
+glandule 1
 goutiest
 gonadial
 gradings 1
