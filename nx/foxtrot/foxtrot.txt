@@ -3949,7 +3949,7 @@ formature
 fischerite
 flavours
 franchising
-fraple
+fraple 1
 ferrocyanogen
 friller
 formaldoxime
