@@ -9156,7 +9156,7 @@ ethnoses
 equivocal
 epitela
 enfollow
-enlargements
+enlargements 1
 entwining
 eggbeaters 1
 elegise
