@@ -4854,7 +4854,7 @@ excellences 1
 evittate
 electrometeor
 epigne
-ephydriad
+ephydriad 1
 emotionize
 eucatropine
 escapable
