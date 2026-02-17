@@ -5801,7 +5801,7 @@ geroderma
 graffito
 gedact
 gallicisms
-gonfanon
+gonfanon 1
 galvanoplastic
 gunl
 gressoria
