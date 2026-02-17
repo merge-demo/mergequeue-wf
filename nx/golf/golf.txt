@@ -6640,7 +6640,7 @@ gange
 gynodioeciously 1
 glitters
 giantism
-ghoulery
+ghoulery 1
 geraniaceous
 graptolithida
 garlanding
