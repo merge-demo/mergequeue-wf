@@ -8140,7 +8140,7 @@ freedmen
 foretellers
 forethrift
 fusel
-flatfish
+flatfish 1
 farmland
 furtive
 foison
