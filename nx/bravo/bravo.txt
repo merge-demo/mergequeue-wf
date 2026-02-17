@@ -254,7 +254,7 @@ baldric 1
 blotless
 basketwood
 barwin
-balancedness
+balancedness 1
 brontosaur
 bluegum
 beamily
