@@ -3429,7 +3429,7 @@ fireshine
 foretalk
 fatwood
 fiendly
-featurely
+featurely 1
 fulfilment
 flatteringness
 flanders
