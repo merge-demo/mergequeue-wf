@@ -2069,7 +2069,7 @@ fremdly
 fenester
 ferryboats
 fullmouthed
-feudalisation
+feudalisation 1
 foremasthand
 flyovers
 flexions
