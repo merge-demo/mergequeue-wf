@@ -326,7 +326,7 @@ fertilization
 forthputting
 foaming
 fantasticism
-flexuosity
+flexuosity 1
 forespent
 fag
 feint
