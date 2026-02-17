@@ -10058,7 +10058,7 @@ gimels
 gossypols
 guerison 1
 guerites
-gage
+gage 1
 gimmal
 grabens
 glossophobia
