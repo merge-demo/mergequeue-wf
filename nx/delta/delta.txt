@@ -13196,7 +13196,7 @@ dysphonia
 descensory
 dicentrin
 damasks
-dispiritedly
+dispiritedly 1
 detonable
 dyssystole
 diatomic
