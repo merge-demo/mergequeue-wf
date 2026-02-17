@@ -13833,7 +13833,7 @@ embrake
 expos
 equiseta
 euthenics
-excudit
+excudit 1
 elaeothesia
 ethnozoological
 equipotentiality
