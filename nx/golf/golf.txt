@@ -10661,7 +10661,7 @@ glunches
 gulinulae
 grump
 goatsbane
-glaiketness
+glaiketness 1
 genuflexion
 glottologist
 glideness
