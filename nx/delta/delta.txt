@@ -4349,7 +4349,7 @@ drawk
 demeanor
 doit
 dupped
-disaffiliation
+disaffiliation 1
 disallowableness
 dragonet
 diphtheritis
