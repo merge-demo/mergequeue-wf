@@ -19664,7 +19664,7 @@ aerobacteriological
 alfarga
 ascesis
 aristeas
-allantoidian
+allantoidian 1
 alertness
 armaria
 aristeia

@@ -12993,7 +12993,7 @@ disexcommunicate
 dyschromatoptic
 deflated
 demivoice
-discriminability
+discriminability 1
 decentralist
 dogsbody
 delusionist
