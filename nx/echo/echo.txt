@@ -396,7 +396,7 @@ evangelically
 engages
 enray
 erythraea
-enchantment
+enchantment 1
 empeirema
 epacridaceous
 espying
