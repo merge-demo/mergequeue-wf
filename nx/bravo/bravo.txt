@@ -17352,7 +17352,7 @@ besmouch
 bylawman
 busheling
 bromometric
-buccinator
+buccinator 1
 bunger
 bimorphemic
 bigeneric
