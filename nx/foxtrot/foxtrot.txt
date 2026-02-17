@@ -1084,7 +1084,7 @@ ferula
 fishling
 fastback
 farrisite
-flashed
+flashed 1
 foreordain 1
 facilitate
 facemark
