@@ -1840,7 +1840,7 @@ atridean
 adolesced
 aceraceous
 acerae
-acerate
+acerate 1
 acerated
 antistater
 anteresurrection
