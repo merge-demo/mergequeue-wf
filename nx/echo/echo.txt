@@ -11512,7 +11512,7 @@ encipherment
 elucidation
 elytrorrhagia
 eniac
-engraving
+engraving 1
 ephemera
 enhaloes
 ejido
