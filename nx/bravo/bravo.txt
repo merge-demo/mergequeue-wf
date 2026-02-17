@@ -5494,7 +5494,7 @@ branchiopodous
 bindi
 birle
 boxed
-bardic
+bardic 1
 bootyless
 bookmate
 bivouacks
