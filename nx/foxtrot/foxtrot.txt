@@ -6584,7 +6584,7 @@ freddo
 fibered
 foldskirt
 fumigatory
-fromward
+fromward 1
 fertilisational
 flagitiousness
 finnmarks
