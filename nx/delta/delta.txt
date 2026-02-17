@@ -15514,7 +15514,7 @@ drummers
 dee
 dyslalia
 donnas
-debugger
+debugger 1
 doctorbird
 dittander
 diazotize 1
