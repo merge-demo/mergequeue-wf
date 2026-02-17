@@ -1307,7 +1307,7 @@ antireacting
 atelocardia
 accusably
 anathematizer
-acatalepsia
+acatalepsia 1
 almoning
 airfoil
 autocorrelate
