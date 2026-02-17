@@ -13152,7 +13152,7 @@ dipeptidase
 diocese
 disperple
 deicer
-diadem
+diadem 1
 deflourish
 dentists
 decurved
