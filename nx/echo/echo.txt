@@ -2063,7 +2063,7 @@ elamite
 episcope
 electrophorese
 eject
-enteroscopy
+enteroscopy 1
 enthusiasms
 elanet
 epitaphs
