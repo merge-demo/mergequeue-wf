@@ -6843,7 +6843,7 @@ favoredness
 foibles 1
 flukiest
 fraternising
-falciform
+falciform 1
 freshening 1
 founding
 fantasy
