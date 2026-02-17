@@ -10753,7 +10753,7 @@ formations
 flaky
 fastigated
 fingerless
-fohn
+fohn 1
 feminized
 flavius 1
 furfuramid 1

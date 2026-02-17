@@ -10629,7 +10629,7 @@ curled
 cephalomancy
 clinicopathologic
 causatively
-chymase
+chymase 1
 callaloos
 chimb
 culicide
