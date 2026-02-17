@@ -10612,7 +10612,7 @@ documented
 decoctible
 demoralised 1
 diploidic
-dominus
+dominus 1
 diploma
 dolorogenic
 domitable
