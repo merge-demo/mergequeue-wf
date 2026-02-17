@@ -9936,7 +9936,7 @@ especialness
 equicellular
 eclosions
 electroosmotically
-excitably
+excitably 1
 estrayed
 exhaustiveness
 ectropion
