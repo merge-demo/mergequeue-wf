@@ -2552,7 +2552,7 @@ electromagnetical
 extratribal
 excepting
 epiphysary
-electromagnetism
+electromagnetism 1
 euomphalus
 ebcdic
 eyebright
