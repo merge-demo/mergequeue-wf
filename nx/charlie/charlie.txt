@@ -22665,7 +22665,7 @@ connotate
 connotation
 ceratitoid
 connotations
-connotative
+connotative 1
 connotatively
 counterextend
 connote
