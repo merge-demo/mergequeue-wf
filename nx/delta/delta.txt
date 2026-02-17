@@ -4968,7 +4968,7 @@ disroot
 decciare
 deposed
 deficiently
-dinamode
+dinamode 1
 decussion
 diplopy
 didelphian
