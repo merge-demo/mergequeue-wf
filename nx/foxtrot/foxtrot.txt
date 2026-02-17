@@ -11017,7 +11017,7 @@ flotter
 farmery
 firelit 1
 fumiest
-frivolist
+frivolist 1
 flawedness
 fibrocystoma
 fossilizes 1
