@@ -12103,7 +12103,7 @@ editress
 emasculation 1
 embroche
 enfacement
-excruciable
+excruciable 1
 eulogiums
 excruciated
 exhorts
