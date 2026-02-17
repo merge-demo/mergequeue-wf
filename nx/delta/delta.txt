@@ -6940,7 +6940,7 @@ destour
 dribble
 disbarment
 domiciliated
-disparkle
+disparkle 1
 disarmament
 dorsoanterior
 distomian

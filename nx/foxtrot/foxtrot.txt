@@ -5208,7 +5208,7 @@ foxhounds
 flowerers
 flasker
 foreshock
-fossilage
+fossilage 1
 fellifluous
 furbelows
 flatlands
