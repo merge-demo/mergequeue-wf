@@ -8394,7 +8394,7 @@ entifical
 epithets
 enterocolostomy
 exuvial
-emanative
+emanative 1
 eyetooth
 exclusory
 endiadem
