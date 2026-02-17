@@ -6933,7 +6933,7 @@ graecian
 grinded
 glaziness
 gasthauser
-gobbed
+gobbed 1
 gelatinize
 glaucophanite
 gongorist
