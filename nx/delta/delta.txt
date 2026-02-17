@@ -10944,7 +10944,7 @@ dobsonflies
 dwelled 1
 dropcloth
 disunionism
-dotardism
+dotardism 1
 dashes
 disappreciate
 dromioid
