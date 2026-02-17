@@ -26484,7 +26484,7 @@ corporalcy
 coexpire
 cottonize
 cottonmouth
-cerebellums
+cerebellums 1
 craps
 corvets
 cottonmouths
