@@ -13022,7 +13022,7 @@ colloquize
 chresard 1
 cineasts
 cyanoplastid
-cyanoplatinous
+cyanoplatinous 1
 cyanose
 cyanoses
 celestialness
