@@ -1541,7 +1541,7 @@ erses
 efl
 endocystitis
 entocondylar
-endophytous
+endophytous 1
 excavate
 electionary
 echograph

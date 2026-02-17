@@ -6089,7 +6089,7 @@ deracinating
 decurring
 dictyostele
 diatheses
-decompound
+decompound 1
 differentiating
 daza
 dizened
