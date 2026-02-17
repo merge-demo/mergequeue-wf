@@ -1712,7 +1712,7 @@ diener
 dishwiping
 dysodyle
 degums
-diobol
+diobol 1
 deathiness
 discantus
 devotes
