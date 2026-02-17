@@ -7240,7 +7240,7 @@ eucharistize
 enterokinetic
 emulgens
 ecthymatous
-epharmonic
+epharmonic 1
 epexegesis
 emforth
 eryopsid
