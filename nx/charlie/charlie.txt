@@ -7809,7 +7809,7 @@ caulks
 certificates
 ceraunia
 commissurotomy
-certificative
+certificative 1
 certificatory
 certifier
 certifiers
