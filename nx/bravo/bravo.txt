@@ -11500,7 +11500,7 @@ baba
 banyoro
 bigamous
 bluffs
-behaves
+behaves 1
 broadshare
 blufter
 bluggy
