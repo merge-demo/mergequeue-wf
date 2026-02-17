@@ -12500,7 +12500,7 @@ baalist
 booklists
 bisymmetrically 1
 brujas
-bondmaids
+bondmaids 1
 botryopteris
 bororo
 bedgoer
