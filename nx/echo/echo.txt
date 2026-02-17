@@ -8416,7 +8416,7 @@ exportation
 expungeable
 ecch
 euphrasies
-evolutionarily
+evolutionarily 1
 eosin
 equivocating
 equipollent
