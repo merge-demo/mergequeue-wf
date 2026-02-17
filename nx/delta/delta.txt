@@ -4723,7 +4723,7 @@ drastically
 decarbonization
 declarations
 deityship
-decodable
+decodable 1
 demodectic
 disarticulate
 diavolo
