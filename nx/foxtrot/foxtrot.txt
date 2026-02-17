@@ -11229,7 +11229,7 @@ ferrocyanhydric 1
 ferned
 feuter
 fluorescing
-forjudged
+forjudged 1
 flatbrod
 filigrees
 flabella 1
