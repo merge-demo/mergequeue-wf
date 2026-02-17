@@ -5404,7 +5404,7 @@ ecclesial
 engirdles
 extraparochial
 ebonige
-encephalometric
+encephalometric 1
 encapsuling
 enthuses
 enfester
