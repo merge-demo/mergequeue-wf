@@ -13761,7 +13761,7 @@ evokers
 extispex
 extremely 2
 emulations
-excavations
+excavations 1
 epithalamial
 effusely
 eightfoil
