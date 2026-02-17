@@ -9843,7 +9843,7 @@ amaze
 airlocks
 akroterial
 addict 1
-amplitudes
+amplitudes 1
 anatomicopathological
 appalls
 accented
