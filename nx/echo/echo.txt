@@ -11560,7 +11560,7 @@ emirship
 etouffe
 epileptology 1
 erbium
-eidolic
+eidolic 1
 electrophotometer
 evigilation
 exsecant
