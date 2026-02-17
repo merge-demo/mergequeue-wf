@@ -25390,7 +25390,7 @@ cuarta
 carvers
 crone
 choragus
-corniced
+corniced 1
 collaud
 chalcographical
 creamery
