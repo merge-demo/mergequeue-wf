@@ -504,7 +504,7 @@ cadelles
 calendaric 1
 cogon
 contorting
-canticle
+canticle 1
 cadences
 cadencies
 cadencing
