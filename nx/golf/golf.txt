@@ -2091,7 +2091,7 @@ graecizing
 gyrolith
 grabs
 gnomist
-gelndesprung
+gelndesprung 1
 gratuito
 greasehorn
 graptolitoidea
