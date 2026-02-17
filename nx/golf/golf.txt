@@ -3067,7 +3067,7 @@ glycyl
 gamesters
 goblinism
 gilder 1
-garnish
+garnish 1
 gali 1
 gibbol
 geophilid
