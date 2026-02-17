@@ -8035,7 +8035,7 @@ gorsechat
 galvanoplastics
 gannets
 gratitude
-geotaxy
+geotaxy 1
 gangsman
 gryllid
 gastromancy
