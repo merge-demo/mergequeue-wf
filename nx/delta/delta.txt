@@ -5592,7 +5592,7 @@ dictamen
 detainingly 1
 dorsumbonal
 deuterotokous
-dysgnosia
+dysgnosia 1
 demounting
 demythologised
 decadents
