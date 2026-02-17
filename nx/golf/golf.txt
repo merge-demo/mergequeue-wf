@@ -6831,7 +6831,7 @@ gigantological
 gauntlets
 glucoprotein
 getaways
-grisliness
+grisliness 1
 guyer
 geaster
 genitival
