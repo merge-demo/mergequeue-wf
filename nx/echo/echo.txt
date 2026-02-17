@@ -13624,7 +13624,7 @@ escallonia
 emendation
 epencephal 1
 esopgi
-expurgates
+expurgates 1
 ellipsograph
 echinomys
 emprent
