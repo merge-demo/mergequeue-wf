@@ -6691,7 +6691,7 @@ endermically
 exhedrae
 enargite
 enterology
-epactal
+epactal 1
 enterologic
 eulytine
 exhaled
