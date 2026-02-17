@@ -6923,7 +6923,7 @@ enstatolite
 evangelion
 exaugurate
 expectative
-estrins
+estrins 1
 extortionate
 entomologist
 engle
