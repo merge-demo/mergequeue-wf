@@ -10187,7 +10187,7 @@ guyers
 gobet
 grindstone
 gastrophilus
-gawsy
+gawsy 1
 gitanemuk
 gladdon
 gimbaljawed
