@@ -12812,7 +12812,7 @@ antirumor 1
 araneiformes
 ambulate
 anglistics
-alidades
+alidades 1
 aequian
 anglogaea
 anthemwise
