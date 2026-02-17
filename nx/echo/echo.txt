@@ -7346,7 +7346,7 @@ explodent
 exoascaceae
 equationally
 effigial
-exlex
+exlex 1
 engird 1
 excheat
 encharnel
