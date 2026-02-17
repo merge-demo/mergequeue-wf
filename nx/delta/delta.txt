@@ -3753,7 +3753,7 @@ depas
 dehorted
 defatigate
 duckweed
-derrire
+derrire 1
 dehumanising 1
 diableries
 diurnally
