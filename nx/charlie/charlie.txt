@@ -26835,7 +26835,7 @@ counterfleury
 cupeling
 crepuscle
 clodlike
-counterfoil
+counterfoil 1
 counterforce
 cosmopolitanizing
 carrom
