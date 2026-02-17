@@ -3517,7 +3517,7 @@ encolour
 epizoites
 errand
 exolete 1
-exothecate
+exothecate 1
 enfiladed
 epigean
 extradoses
