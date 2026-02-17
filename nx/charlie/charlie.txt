@@ -21586,7 +21586,7 @@ corsepresent
 ciudad
 concrescible
 contraoctave
-coercer
+coercer 1
 cofinal
 concurs
 concursion
