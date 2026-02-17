@@ -16140,7 +16140,7 @@ discouple
 daybeam
 dominic
 drupetum
-dialector
+dialector 1
 devotee
 dyotheletism
 deerskins
