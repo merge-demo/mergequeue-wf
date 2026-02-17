@@ -14290,7 +14290,7 @@ appellational
 atomize
 anthomaniac
 amianthium
-amoebic
+amoebic 1
 aguelike
 auspicate
 arecaidin
