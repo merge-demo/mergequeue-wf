@@ -5033,7 +5033,7 @@ fawners
 flyway
 furfurine
 frolicker
-faust
+faust 1
 flammule
 fomites
 fatidic
