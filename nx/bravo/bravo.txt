@@ -16898,7 +16898,7 @@ bichromatic
 bathysophic
 buffoonish
 bathmotropic
-baret
+baret 1
 betorn
 bundling
 brazened
