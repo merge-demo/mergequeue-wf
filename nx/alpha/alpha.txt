@@ -6804,7 +6804,7 @@ airscrews
 airsheds 1
 afterwisdom
 aurophobia
-asarta
+asarta 1
 antiptosis
 antinationalists
 airspace
