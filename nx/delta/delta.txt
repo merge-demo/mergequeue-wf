@@ -7225,7 +7225,7 @@ dugout
 desolately
 dimetric
 detenue
-decussorium
+decussorium 1
 desulfurize
 drammocks
 detenues
