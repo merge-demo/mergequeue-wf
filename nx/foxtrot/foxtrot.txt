@@ -46,7 +46,7 @@ fieldmen
 finement
 fibrolitic 1
 fibrocyst
-fabricator
+fabricator 1
 furies 1
 faradiser
 flick
