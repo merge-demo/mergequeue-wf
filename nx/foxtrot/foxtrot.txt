@@ -11451,7 +11451,7 @@ foots
 furrily
 fathoms
 fusible
-frondeur
+frondeur 1
 firebote
 fistinut
 formularies
