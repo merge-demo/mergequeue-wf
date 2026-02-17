@@ -9626,7 +9626,7 @@ florette
 fluorophosphate
 folkmote
 foreimpression
-facete
+facete 1
 feedway
 forensic
 ferrules
