@@ -1829,7 +1829,7 @@ flaccid 1
 falangism 1
 feloid
 febrile
-fcs
+fcs 1
 freakishly
 farthermore
 fruiterers
