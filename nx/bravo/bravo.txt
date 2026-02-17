@@ -12910,7 +12910,7 @@ bacciform
 baptizers
 bullshot
 bluings
-boorishness
+boorishness 1
 bulldog
 bertrandite
 blondes
