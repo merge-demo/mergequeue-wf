@@ -5412,7 +5412,7 @@ ed
 equid
 electrological
 eightsman
-electronvolt
+electronvolt 1
 ergotization
 excrescences
 embryoferous
