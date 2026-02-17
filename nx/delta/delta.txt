@@ -12621,7 +12621,7 @@ disinters
 deodorants
 diapiric
 downmost
-dechenite
+dechenite 1
 disintoxication
 dankness
 decimalizes
