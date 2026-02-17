@@ -15801,7 +15801,7 @@ deuteron
 deluge
 diabolatry
 disorients
-dorsimeson
+dorsimeson 1
 devolatilization
 disyllabize
 dorsipinal
