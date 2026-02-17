@@ -5545,7 +5545,7 @@ explat
 enhearse
 epilimnetic
 euhemerizing
-exotism
+exotism 1
 etherlike
 enfeoffing
 erudit
