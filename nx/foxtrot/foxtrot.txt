@@ -10068,7 +10068,7 @@ fantasmagorically
 fittest
 flor
 foollike
-flans
+flans 1
 firiness
 fringelet
 fruitier

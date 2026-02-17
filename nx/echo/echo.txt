@@ -7246,7 +7246,7 @@ emforth
 eryopsid
 encomiastically
 electrons
-ecumenic
+ecumenic 1
 equinovarus
 epilogistic
 elvishly
