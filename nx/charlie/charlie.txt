@@ -13582,7 +13582,7 @@ cymelet
 cimelium
 cymenes
 crankest
-chiffer
+chiffer 1
 cimices
 cene
 cetraric
