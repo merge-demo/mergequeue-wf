@@ -16642,7 +16642,7 @@ banderoled 1
 brisky
 beggaring
 banaba
-bubinga
+bubinga 1
 bispinose 1
 bugseed
 brusqueness
