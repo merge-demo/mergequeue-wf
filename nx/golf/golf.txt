@@ -3247,7 +3247,7 @@ galagala
 gaut
 guarantor
 gazetteers
-gyral
+gyral 1
 garlandwise
 gaelicist 1
 gharris
