@@ -10357,7 +10357,7 @@ grike
 gumbos
 giddied
 gargoyled
-gambist
+gambist 1
 gallflower
 garbanzos
 gyri
