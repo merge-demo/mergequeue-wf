@@ -9993,7 +9993,7 @@ flunked
 feelingness
 floatingly 1
 frumentum
-flinching
+flinching 1
 fainthearted
 feudalise
 flatlanders
