@@ -7827,7 +7827,7 @@ globefishes
 gynaecocratic
 gippo
 gonglike
-gurneys
+gurneys 1
 guests
 genghis 1
 gooiest
