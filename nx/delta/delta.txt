@@ -5842,7 +5842,7 @@ dasyure
 deprave
 disanagrammatize
 daftest
-doxologizing
+doxologizing 1
 dreidel
 dimagnesic
 depraver
