@@ -22163,7 +22163,7 @@ asthenolith
 asthenology
 achaenodon
 anabaptistry
-asthenophobia
+asthenophobia 1
 anguid
 asthma
 acrestaff
