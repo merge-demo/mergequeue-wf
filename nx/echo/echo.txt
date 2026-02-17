@@ -5094,7 +5094,7 @@ encysted
 emanatistic
 expostulations
 ecthyma
-electrocontractility
+electrocontractility 1
 exsanguinous
 erotics
 endocoele
