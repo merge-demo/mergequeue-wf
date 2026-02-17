@@ -842,7 +842,7 @@ antherogenous
 abstruse
 ammiral
 abs
-auriculately
+auriculately 1
 absalom
 alalunga
 awanting
