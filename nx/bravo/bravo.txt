@@ -9276,7 +9276,7 @@ backet
 biplanes 1
 beclogging
 bonavist
-butler
+butler 1
 biocoenose
 bantamweights
 bipod

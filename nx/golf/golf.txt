@@ -447,7 +447,7 @@ gamecock
 guahiban
 galvanology
 glossoncus
-gravitationally
+gravitationally 1
 griddlecakes
 gemmery
 grasped
