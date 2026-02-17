@@ -21630,7 +21630,7 @@ crick
 condensation
 condensator
 corbeled
-compluvium
+compluvium 1
 crateris
 condense
 condensedness
