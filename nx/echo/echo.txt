@@ -1672,7 +1672,7 @@ epiglottic
 embliss
 equating
 expiable
-exemplarity
+exemplarity 1
 episcopally
 excommunications
 enactors 1
