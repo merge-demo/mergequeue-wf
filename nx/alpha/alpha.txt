@@ -18283,7 +18283,7 @@ arsenyl
 aripple 1
 arachnean
 aurocyanide
-alexandrite
+alexandrite 1
 accession
 armhoop
 aestivation
