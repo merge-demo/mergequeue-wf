@@ -10867,7 +10867,7 @@ debunkment
 diopter
 diletant
 dotardy
-disseated
+disseated 1
 desmidiaceous
 dutchess
 dynameter
