@@ -12744,7 +12744,7 @@ enteromorpha
 escarps
 engraff
 emetically
-easeful
+easeful 1
 esprove
 enurny
 embryography
