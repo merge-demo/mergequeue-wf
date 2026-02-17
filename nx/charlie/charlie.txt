@@ -23625,7 +23625,7 @@ contractant
 cobaltinitrite
 calorist
 contractation
-contractedness
+contractedness 1
 contractility
 chalkiness
 contractions
