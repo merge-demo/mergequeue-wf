@@ -2159,7 +2159,7 @@ camphine
 claro
 conturbation
 channelizing
-coalbin
+coalbin 1
 conterminate
 cymba
 cuprene
