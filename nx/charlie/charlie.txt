@@ -27110,7 +27110,7 @@ cemental
 countersign
 cognateness
 crimsons
-cupful
+cupful 1
 countersigns
 countersympathy
 countersink
