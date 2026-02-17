@@ -2554,7 +2554,7 @@ excepting
 epiphysary
 electromagnetism 1
 euomphalus
-ebcdic
+ebcdic 1
 eyebright
 elaborations
 euonymous
