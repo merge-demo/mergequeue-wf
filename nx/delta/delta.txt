@@ -714,7 +714,7 @@ decelerometer
 dedolence
 discloses
 dnieper
-defrays
+defrays 1
 decontaminators
 dandifying
 dories
