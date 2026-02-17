@@ -1679,7 +1679,7 @@ gluts
 guildhall
 grudgefulness 2
 glyptodont
-gastrophilite
+gastrophilite 1
 gastrograph
 gamebag
 glans
