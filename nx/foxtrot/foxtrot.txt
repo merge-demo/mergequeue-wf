@@ -7167,7 +7167,7 @@ fulgora
 farthingless
 fripper
 finesse
-fanaticizing
+fanaticizing 1
 flutier
 foreallege
 fishmeals
