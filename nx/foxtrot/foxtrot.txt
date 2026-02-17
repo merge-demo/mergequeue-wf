@@ -7793,7 +7793,7 @@ formalins
 foreact
 fabliau
 fogyish
-frounce
+frounce 1
 financial
 florentines 1
 funfairs
