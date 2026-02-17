@@ -11371,7 +11371,7 @@ epupillate
 enwrap
 espino
 enjoys
-evapotranspiration
+evapotranspiration 1
 entotympanic
 equiarticulate
 essentialization
