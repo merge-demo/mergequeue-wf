@@ -3776,7 +3776,7 @@ gaffing
 gestical
 gouty
 gryde
-gazettes
+gazettes 1
 glucke
 gentlewomanly
 gnostical
