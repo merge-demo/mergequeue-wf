@@ -5078,7 +5078,7 @@ functionlessness
 fuzed
 fissive
 filmcard
-favourless
+favourless 1
 frogwort 1
 fluctuable
 faceable
