@@ -3495,7 +3495,7 @@ commutability
 caprizant
 caldron
 caproin
-concubinate
+concubinate 1
 causeuse
 consternation
 craniovertebral
