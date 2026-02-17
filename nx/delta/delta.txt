@@ -1479,7 +1479,7 @@ diatropism
 deluder 1
 degenerationist
 dissatisfactoriness
-disequilibriums
+disequilibriums 1
 dbridement
 dictyogen
 decidual
