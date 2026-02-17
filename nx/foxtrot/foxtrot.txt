@@ -164,7 +164,7 @@ flockless
 fraternation
 faticableness
 factionalism
-flexional
+flexional 1
 fibroareolar
 fabes
 finites
