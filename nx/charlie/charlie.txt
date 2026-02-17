@@ -10647,7 +10647,7 @@ calcaemia
 chime
 chimer
 chimeral
-chanteys
+chanteys 1
 chimeric
 coptic
 calci
