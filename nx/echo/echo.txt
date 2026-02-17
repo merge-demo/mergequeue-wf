@@ -3140,7 +3140,7 @@ equulei
 ergatocracy
 equoidean
 esemplastic
-extemporize
+extemporize 1
 existent
 elliptograph
 elliptoid
