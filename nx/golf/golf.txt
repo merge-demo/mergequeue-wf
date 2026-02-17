@@ -9641,7 +9641,7 @@ guisarme
 glairy
 guanize
 gerenuks
-galvanomagnetic
+galvanomagnetic 1
 greediest
 gastroatonia
 gazehound
