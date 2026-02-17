@@ -12296,7 +12296,7 @@ doblon
 disenchanted
 delicacies
 debarks
-digital
+digital 1
 disgracious
 desireful
 dogtrotting
