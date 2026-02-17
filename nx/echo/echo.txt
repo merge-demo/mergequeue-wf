@@ -4782,7 +4782,7 @@ epiopticon
 excusatory
 elkwood
 exitance
-extensible 1
+extensible 2
 ensnarements
 erythrol
 epanagoge
