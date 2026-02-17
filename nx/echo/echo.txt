@@ -1327,7 +1327,7 @@ eeriness
 erotopath
 exterritoriality
 epithalamion
-ensnares
+ensnares 1
 ephemerae
 essaying
 encircler
