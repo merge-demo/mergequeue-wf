@@ -7344,7 +7344,7 @@ forecasts 1
 friendless
 fustet
 floorboards
-fancysick
+fancysick 1
 fertil
 fermentor
 footwarmer
