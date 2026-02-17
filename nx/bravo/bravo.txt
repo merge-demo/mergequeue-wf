@@ -1470,7 +1470,7 @@ benefitting
 bludging
 baline
 blatherskite
-brightish
+brightish 1
 bugler
 balimbing
 bloodthirstiest
