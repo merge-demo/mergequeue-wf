@@ -1856,7 +1856,7 @@ gambles
 growlery
 guffaw
 goofy
-gigot
+gigot 1
 glutaminase
 guvacoline
 gunflint 1
