@@ -12465,7 +12465,7 @@ dishrags
 dishtowels
 detrital
 drainageway
-demibrigade
+demibrigade 1
 dishumanize
 deipnodiplomatic
 doffer
