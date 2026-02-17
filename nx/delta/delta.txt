@@ -10058,7 +10058,7 @@ dbms
 dissightly
 dynamically
 devisals
-deflate
+deflate 1
 discommodes
 defailance
 diselectrify
