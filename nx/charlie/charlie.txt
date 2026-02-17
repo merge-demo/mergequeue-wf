@@ -24694,7 +24694,7 @@ copperskin
 colipyuria
 ciderist
 coppersmith
-carbohydride
+carbohydride 1
 cosmographies
 coppersmithing
 copperware
