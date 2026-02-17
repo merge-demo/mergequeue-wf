@@ -15142,7 +15142,7 @@ dedicatorial
 degummed
 diaphragmed 1
 deerherd
-disallows
+disallows 1
 dullpate
 dermoplasty
 discopodous
