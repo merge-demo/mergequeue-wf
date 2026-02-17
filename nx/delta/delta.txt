@@ -10000,7 +10000,7 @@ dasi
 drumfires
 dermohemia
 duplicates
-divinable
+divinable 1
 dinothere 1
 dimly
 dandruffy
