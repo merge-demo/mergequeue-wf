@@ -5865,7 +5865,7 @@ dissolvable 1
 dtd
 deprecator
 dysbarism
-datism
+datism 1
 deoxidised
 deota
 degradingness
