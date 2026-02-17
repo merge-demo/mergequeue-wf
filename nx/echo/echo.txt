@@ -10594,7 +10594,7 @@ ergosterol 1
 eleutherodactylus 1
 estray
 edomite
-euchology
+euchology 1
 endocrinological
 equationist
 endboard
