@@ -26496,7 +26496,7 @@ chalcedonies
 cottonseeds
 camomile
 cymarose
-cabuyas
+cabuyas 1
 comates
 crankism
 cholecystostomies
