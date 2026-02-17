@@ -14331,7 +14331,7 @@ anthracin
 amnemonic
 almugs
 amplexicauline
-anthracitic
+anthracitic 1
 amoyese
 angiospastic
 achromacyte
