@@ -11495,7 +11495,7 @@ flotant
 fructuousness
 fashery
 fruition
-featherbedded
+featherbedded 1
 fluidization
 fluidics
 furzy
