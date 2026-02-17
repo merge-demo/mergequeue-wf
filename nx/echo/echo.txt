@@ -1179,7 +1179,7 @@ eponymism
 equivalved
 eupatrid
 editorship
-editorships
+editorships 1
 elasticness
 enterpriser
 equatability
