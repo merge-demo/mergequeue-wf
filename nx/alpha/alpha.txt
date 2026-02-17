@@ -5713,7 +5713,7 @@ atrophies
 aviation
 acrocephalia
 amyelencephalia
-alerce
+alerce 1
 anticommercialness
 analyticity
 abducentes
