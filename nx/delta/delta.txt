@@ -2232,7 +2232,7 @@ dispensate
 daggles
 drongo
 drivescrew
-dithyrambically
+dithyrambically 1
 decimalize
 dialectic
 darns
