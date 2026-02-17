@@ -12485,7 +12485,7 @@ etiogenic
 enki
 elfdom
 epacme
-eluviates
+eluviates 1
 enteropneusta
 erythrophage
 envisages
