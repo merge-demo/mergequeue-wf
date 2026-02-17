@@ -12427,7 +12427,7 @@ euroaquilo
 epifaunas
 epitympanum
 exhortations
-elatery
+elatery 1
 eisegeses
 entomostracan
 eclipsable
