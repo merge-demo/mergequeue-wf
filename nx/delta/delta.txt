@@ -130,7 +130,7 @@ dalea
 defectible
 disencrease
 developmentalist
-demissionary
+demissionary 1
 deino
 disoperculate
 dudler
