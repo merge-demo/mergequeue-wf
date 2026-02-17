@@ -13139,7 +13139,7 @@ diaphanometer
 daresay
 deprivative
 declivities
-doozer
+doozer 1
 dispergate
 doraskean
 defeasible
