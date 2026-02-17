@@ -2941,7 +2941,7 @@ giddily 1
 gloriole
 gesticulatively
 galatine
-gasifier
+gasifier 1
 geologically
 gondite
 glossarially
