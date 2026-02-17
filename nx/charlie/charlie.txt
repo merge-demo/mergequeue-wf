@@ -3409,7 +3409,7 @@ carrots
 capote
 capouches
 crypted
-capparis
+capparis 1
 cosponsorship
 capped
 cappelletti
