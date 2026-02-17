@@ -3846,7 +3846,7 @@ dissipatedness
 deportment
 dannemorite
 doer
-deirid
+deirid 1
 deis
 deisidaimonia
 deism
