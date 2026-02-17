@@ -3066,7 +3066,7 @@ glueing 1
 glycyl
 gamesters
 goblinism
-gilder
+gilder 1
 garnish
 gali 1
 gibbol
