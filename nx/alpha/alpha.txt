@@ -22841,7 +22841,7 @@ achenia
 atmolyzation
 atmologic
 asor
-anisotropous
+anisotropous 1
 alterability
 albopannin
 arya
