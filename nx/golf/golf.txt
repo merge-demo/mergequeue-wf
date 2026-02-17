@@ -4723,7 +4723,7 @@ glamourousness
 garshuni
 grandly 1
 goniale
-gitonin
+gitonin 1
 gruelling
 graphitizable
 globality
