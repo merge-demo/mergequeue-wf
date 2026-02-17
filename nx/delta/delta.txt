@@ -12575,7 +12575,7 @@ dissuasive
 divertible
 dicaryophase
 delusters 1
-discarnate
+discarnate 1
 detonator
 diuturnity
 dinaphthyl
