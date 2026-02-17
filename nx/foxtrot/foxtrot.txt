@@ -4063,7 +4063,7 @@ fossilisable
 fluxibly 1
 floruits 1
 fibrin
-fungicidal
+fungicidal 1
 forinsecal
 fanzine
 finis
