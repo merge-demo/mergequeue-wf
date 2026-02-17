@@ -5229,7 +5229,7 @@ euchroic
 etheriform
 enantiomeride
 exam
-extrascriptural
+extrascriptural 1
 escartelly
 euphuizing
 exocrinology
