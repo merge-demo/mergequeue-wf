@@ -6503,7 +6503,7 @@ bepraiser
 burrheaded
 benzocaine 1
 bituminizing
-bombyx
+bombyx 1
 bluetit
 bedirt
 beetleheaded
