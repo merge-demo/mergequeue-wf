@@ -6112,7 +6112,7 @@ elephantiases
 expropriate
 epicureanism
 ereptic 1
-electrodiagnosis
+electrodiagnosis 1
 equals
 eruptive
 euphues
