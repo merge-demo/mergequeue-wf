@@ -7924,7 +7924,7 @@ bloodthirsty
 bibliopegy
 bituminisation
 bibliophagous
-brightness
+brightness 1
 boscages
 befuddlement
 beetleheadedness
