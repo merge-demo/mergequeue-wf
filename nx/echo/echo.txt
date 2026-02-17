@@ -13478,7 +13478,7 @@ expurgate
 equivocate
 ethionine
 equivocated
-epitaphist
+epitaphist 1
 exsiliency
 embraceorr
 erava
