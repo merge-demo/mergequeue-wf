@@ -5098,7 +5098,7 @@ bespotted
 beneficiary
 befitted
 beyship 1
-befittingly
+befittingly 1
 blacklead
 baselines
 bejuco
