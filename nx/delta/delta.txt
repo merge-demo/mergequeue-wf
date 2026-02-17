@@ -1956,7 +1956,7 @@ dedans
 disenact 1
 disavouch
 dharmic
-decumbency
+decumbency 1
 dau
 dingus
 downcastly
