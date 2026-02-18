@@ -5299,7 +5299,7 @@ glabrous
 guttier
 gadswoons
 glycyrrhizin
-gimps
+gimps 1
 gorgonising
 gammaroid
 gilgai

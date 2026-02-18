@@ -1274,7 +1274,7 @@ bicircular
 balalaika
 batrachiate
 balan
-bedstead
+bedstead 1
 behindhand
 bibliographer
 balanceable
