@@ -1643,7 +1643,7 @@ decasualization
 dielec
 drivel
 drassid
-doddies
+doddies 1
 daws 1
 deamination
 deaminize
