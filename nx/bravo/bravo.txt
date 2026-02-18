@@ -9159,7 +9159,7 @@ barbershops
 biotelemetries
 betulinol
 benthic
-biotical
+biotical 1
 bobwhite
 beanstalks
 belgian
