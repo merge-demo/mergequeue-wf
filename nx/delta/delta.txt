@@ -13716,7 +13716,7 @@ dyssynergy
 depigment
 decagramme
 decontrolled
-doxography
+doxography 1
 deterministically
 diatryma
 dispersals
