@@ -12395,7 +12395,7 @@ echeloned
 electrifiable
 elaphoglossum
 eyesores
-exhibitionist
+exhibitionist 1
 erythropoietic
 enthrones
 exonerations
