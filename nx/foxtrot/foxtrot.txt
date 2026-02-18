@@ -5026,7 +5026,7 @@ flamingant
 fistiness
 foremarch
 flowcharting
-flytrap
+flytrap 1
 flings
 frenulum 1
 fawners
