@@ -5143,7 +5143,7 @@ batoid
 benzdioxazine
 bromhidrosis
 bouffon
-ballota
+ballota 1
 bloodthirstiness
 boedromion
 befools
