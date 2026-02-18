@@ -846,7 +846,7 @@ fantailed
 fermi
 fashioner 1
 flabbergastingly
-faddishness
+faddishness 1
 falsifiers
 felstone
 fervorous
