@@ -2771,7 +2771,7 @@ eudialyte 1
 egos
 encoop
 evangelary
-elegy
+elegy 1
 emblematicize
 eighthly
 exprobate
