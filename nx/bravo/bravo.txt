@@ -4628,7 +4628,7 @@ bailliage
 butterine
 bedchairs
 boxthorns 1
-buffers
+buffers 1
 blaugas 1
 bradyauxesis
 balata
