@@ -3242,7 +3242,7 @@ eichbergite
 elvet
 extratension
 ethnopsychic
-eureka
+eureka 1
 effascinate
 embosomed
 expounders
