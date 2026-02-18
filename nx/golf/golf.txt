@@ -7192,7 +7192,7 @@ gnattier
 gooroo
 generality
 griefs 1
-geocratic
+geocratic 1
 gape
 gorgosaurus
 gavottes
