@@ -29204,7 +29204,7 @@ crip
 crippied
 cripple
 carvestrene
-crippleness
+crippleness 1
 caumatic
 cardia
 crippler
