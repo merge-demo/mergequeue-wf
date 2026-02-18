@@ -6571,7 +6571,7 @@ gangsterism 1
 glamourless
 glummy
 gliosa
-garous
+garous 1
 glegnesses
 gaurie
 gonaduct 1
