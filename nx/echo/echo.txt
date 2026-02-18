@@ -11273,7 +11273,7 @@ embusque
 enalyron
 electropuncture
 elaphine
-evangelic
+evangelic 1
 evangelical
 expatiator
 elide
