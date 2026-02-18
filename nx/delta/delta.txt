@@ -3238,7 +3238,7 @@ deferrer
 deferrize
 dispeaceful
 disturbative
-densen
+densen 1
 deferrized
 dobl
 dentilingual
