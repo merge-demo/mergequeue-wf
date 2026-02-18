@@ -31696,7 +31696,7 @@ collodium
 cusparidine
 cuspate
 cusped
-clomped
+clomped 1
 cuspid
 cuspidal
 cactoid
