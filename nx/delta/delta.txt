@@ -3911,7 +3911,7 @@ duopoly
 disleal
 debarrance
 diaphemetric
-dissymmetry
+dissymmetry 1
 deyship
 demagnification
 dizzy
