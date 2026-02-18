@@ -4393,7 +4393,7 @@ dolos
 diapyesis
 demesman
 dextroses
-depravities
+depravities 1
 declarers
 disentitle
 displeasing
