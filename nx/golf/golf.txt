@@ -4227,7 +4227,7 @@ goblets
 gentilic
 gammoned
 galloglass
-gearman
+gearman 1
 gazella
 geumatophobia
 galravitch

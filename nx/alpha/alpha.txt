@@ -1719,7 +1719,7 @@ accuracies
 abutting
 ada
 accursed
-accursedness
+accursedness 1
 aborter
 accurst
 authorisable
