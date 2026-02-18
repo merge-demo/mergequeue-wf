@@ -666,7 +666,7 @@ creatins
 cybernated
 caesurae
 calathus
-cdg
+cdg 1
 crickey
 caesuric
 cakra
