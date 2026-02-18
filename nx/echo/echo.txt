@@ -5492,7 +5492,7 @@ endoplasmic 1
 extramundane
 energize
 energizers
-edify
+edify 1
 earthquave
 epipleural
 erotizing
