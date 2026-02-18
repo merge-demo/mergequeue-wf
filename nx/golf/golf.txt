@@ -38,7 +38,7 @@ goosish
 griller
 guttiferae
 gendarme 1
-gnomide
+gnomide 1
 gluemaking
 gablewindowed
 glaserite
