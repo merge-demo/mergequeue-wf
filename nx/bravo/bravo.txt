@@ -4664,7 +4664,7 @@ bens 1
 bescorched
 bellehood
 bustic 1
-barry
+barry 1
 buxus
 bedevilling
 bargee
