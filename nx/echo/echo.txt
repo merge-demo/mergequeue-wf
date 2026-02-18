@@ -1796,7 +1796,7 @@ eyeseed
 edgeless
 entophytically
 earthshock
-elaphomyces
+elaphomyces 1
 electrophotometry
 eyeservant
 eyeshade
