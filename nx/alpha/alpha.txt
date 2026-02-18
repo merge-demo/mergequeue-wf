@@ -22676,7 +22676,7 @@ aphrosiderite
 acylates
 autocracy
 athermancy
-athermanous
+athermanous 1
 auriculare
 argentol
 alley
