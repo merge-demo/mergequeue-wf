@@ -2443,7 +2443,7 @@ gerontology
 gruppo
 guardful
 gonopodial
-gallants
+gallants 1
 gnathidium
 greenbottle
 gascoyne
