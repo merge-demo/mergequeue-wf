@@ -19926,7 +19926,7 @@ aqueous
 artistically
 acle
 armouchiquois
-aspersorium
+aspersorium 1
 ammine
 armour
 armourbearer
