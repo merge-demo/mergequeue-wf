@@ -2265,7 +2265,7 @@ elks
 epauletted
 erecting
 electragy
-excessive
+excessive 1
 epitomist
 existently
 equiomnipotent
