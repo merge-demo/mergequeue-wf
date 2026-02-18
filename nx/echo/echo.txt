@@ -848,7 +848,7 @@ epiphyllum
 encephalography
 exculpated
 euplotid
-evincibly
+evincibly 1
 enunciator
 eggment
 ectasis
