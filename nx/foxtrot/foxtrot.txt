@@ -7790,7 +7790,7 @@ ferroprussic
 fruitwise
 fractionize
 formalins
-foreact
+foreact 1
 fabliau
 fogyish
 frounce 1
