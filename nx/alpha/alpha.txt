@@ -14008,7 +14008,7 @@ araneids
 aeger
 antedates
 agalinis
-abanga
+abanga 1
 amassments
 angrier
 amphisbaenic
