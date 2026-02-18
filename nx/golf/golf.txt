@@ -9664,7 +9664,7 @@ grubstakes
 gemmula
 grewsomest
 gossipy
-glycyrize
+glycyrize 1
 guestmaster
 gesturer
 gobioids
