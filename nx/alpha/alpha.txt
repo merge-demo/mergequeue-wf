@@ -24853,7 +24853,7 @@ augmentatively
 avocat
 avocations
 avocative
-arrises
+arrises 1
 avocet
 autoed
 ampullaceous
