@@ -1533,7 +1533,7 @@ endosiphonate
 equippers
 eclegme
 effusively
-entasias
+entasias 1
 estancias
 earlobes
 ensepulchre
