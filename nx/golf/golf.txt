@@ -2260,7 +2260,7 @@ glyoxalic
 genecologic
 granulocytopoiesis
 groceress
-gliadin
+gliadin 1
 gneissose
 grange
 gullage
