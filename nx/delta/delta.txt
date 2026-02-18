@@ -6216,7 +6216,7 @@ devotees
 deals
 discontentment
 derma
-daur
+daur 1
 devilbird
 damascened
 declaimed
