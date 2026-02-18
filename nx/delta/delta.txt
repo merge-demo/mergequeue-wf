@@ -10840,7 +10840,7 @@ drossiest
 dijudicating
 deviscerate
 durmasts
-discolorate
+discolorate 1
 deviates
 departing
 directors
