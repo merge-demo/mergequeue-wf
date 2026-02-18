@@ -3065,7 +3065,7 @@ gleanable
 glueing 1
 glycyl
 gamesters
-goblinism
+goblinism 1
 gilder 1
 garnish 1
 gali 1
