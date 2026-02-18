@@ -12248,7 +12248,7 @@ camphorphorone
 campfire
 chrysosperm
 cosmetic
-chrysosplenium
+chrysosplenium 1
 chrysothrix
 chelidonian
 chrysotile
