@@ -773,7 +773,7 @@ coordinators
 consonantising
 couturier
 caggy
-conjurors
+conjurors 1
 cagy
 chuntering
 chromoptometer 1
