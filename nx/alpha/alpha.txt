@@ -10576,7 +10576,7 @@ acidophilic
 autodiffusion 1
 aminobenzaldehyde
 anthrachrysone
-antichrome
+antichrome 1
 analogicalness
 aminobenzoic
 alewife
