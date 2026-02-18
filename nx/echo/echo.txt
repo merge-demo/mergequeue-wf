@@ -9247,7 +9247,7 @@ expiates
 edam
 entryway
 embound
-epikleses
+epikleses 1
 effodient
 epiderm 1
 efph
