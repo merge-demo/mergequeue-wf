@@ -3369,7 +3369,7 @@ desophistication
 decolor
 dephlogisticate
 dyads
-disrestore
+disrestore 1
 dynagraph
 dithionate
 disherits
