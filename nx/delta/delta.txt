@@ -10184,7 +10184,7 @@ devwsor
 disgulf
 downy
 deuteranomal
-deices
+deices 1
 daydreamt
 dasypaedes
 doater
