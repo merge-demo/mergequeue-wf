@@ -5226,7 +5226,7 @@ densely
 daviely
 derailleur
 dioptase 1
-diabolicalness
+diabolicalness 1
 denseness
 dorsel
 depauperized
