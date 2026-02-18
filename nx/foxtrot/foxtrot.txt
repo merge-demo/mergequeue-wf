@@ -4317,7 +4317,7 @@ facetting
 fundamentalness
 foiblesse
 foreordains
-fendable
+fendable 1
 feudalized
 firk
 ferth
