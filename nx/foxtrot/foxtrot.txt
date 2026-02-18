@@ -8098,7 +8098,7 @@ fumarole
 forestries
 factorial
 furnitures
-fanums
+fanums 1
 fumigating
 fiendfully
 forests
