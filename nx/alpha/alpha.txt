@@ -19737,7 +19737,7 @@ araeostyle
 allelopathy
 amoroso
 aliptic
-arithmocratic
+arithmocratic 1
 arithmograph
 ardilla
 arithmography
