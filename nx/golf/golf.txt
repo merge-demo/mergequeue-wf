@@ -9291,7 +9291,7 @@ gourmanderie
 goitre
 gardnap 1
 goidel
-gamely
+gamely 1
 gemauve 1
 granitoid
 groenendael
