@@ -10114,7 +10114,7 @@ flagellates
 flamant
 formous
 felled
-foretaste
+foretaste 1
 flounce
 fatstocks 1
 failsafe
