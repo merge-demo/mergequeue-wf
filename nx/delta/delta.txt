@@ -9602,7 +9602,7 @@ differentness
 divisi
 digoxins
 discriminators
-digraphically
+digraphically 1
 digrediency
 defining 1
 dollie
