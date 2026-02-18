@@ -2389,7 +2389,7 @@ detournement
 decyl
 descendentalistic
 deciles
-decylic
+decylic 1
 dogaressa
 dilutee
 dorsiparous
