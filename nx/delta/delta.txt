@@ -14407,7 +14407,7 @@ diurnal
 diurnals
 dimensuration
 diuron
-demeaned
+demeaned 1
 doled
 disanimating
 drogues
