@@ -7749,7 +7749,7 @@ frass
 foreknew
 fiord
 figuredly
-farcically
+farcically 1
 freeish 1
 falconlike
 fretty
