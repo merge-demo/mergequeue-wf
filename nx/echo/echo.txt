@@ -4152,7 +4152,7 @@ every
 emplunge
 eccentring
 encorbellment
-eclegm
+eclegm 1
 extracranial
 energids
 expungement
