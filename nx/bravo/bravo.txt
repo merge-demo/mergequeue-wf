@@ -10577,7 +10577,7 @@ bribery
 biotelemetric
 biffies
 blats
-bruisers
+bruisers 1
 bedumbing
 butyrone
 blatta
