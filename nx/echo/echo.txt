@@ -1320,7 +1320,7 @@ ecorche
 eblis
 extrapolar
 eucairite
-eoghanacht
+eoghanacht 1
 epinephrin
 eq
 eeriness
