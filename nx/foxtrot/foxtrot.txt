@@ -3357,7 +3357,7 @@ factabling
 fruggan
 furrure
 fluorides
-fullmouthedly
+fullmouthedly 1
 fandom
 fulcra
 figworm
