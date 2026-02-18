@@ -8958,7 +8958,7 @@ gubbo 1
 gauntries
 gallinazo
 glimpses
-grissel
+grissel 1
 gu
 gluttonous
 gumbolike
