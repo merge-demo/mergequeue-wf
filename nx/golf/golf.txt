@@ -4522,7 +4522,7 @@ gyrate
 gyrated 1
 grees
 germinable
-gummed
+gummed 1
 gainpain 1
 glabrousness
 gaincall
