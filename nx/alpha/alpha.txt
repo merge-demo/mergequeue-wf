@@ -1255,7 +1255,7 @@ accord
 addorsed
 anaclastics
 agonostomus
-aegrotat
+aegrotat 1
 anarthropod
 anserinae
 ashkenazic
