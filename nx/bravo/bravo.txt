@@ -12904,7 +12904,7 @@ badan
 blunders
 bedsheet
 bashaws
-biodegrade
+biodegrade 1
 basichromatin
 bacciform
 baptizers
