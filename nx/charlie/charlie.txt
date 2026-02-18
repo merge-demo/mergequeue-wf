@@ -4877,7 +4877,7 @@ clachans
 carriages
 crosstie
 cyclotrons
-crushability
+crushability 1
 campongs
 ceratomania
 carriagesmith
