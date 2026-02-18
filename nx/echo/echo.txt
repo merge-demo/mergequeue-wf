@@ -3631,7 +3631,7 @@ economies
 enervator
 equoid
 erysipelatoid
-exothermally
+exothermally 1
 epidesmine
 emboscata
 exclusionary
