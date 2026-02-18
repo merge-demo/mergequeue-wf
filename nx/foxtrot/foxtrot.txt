@@ -2754,7 +2754,7 @@ folklore
 fedity
 fumarine
 fruiter
-fiercer
+fiercer 1
 fragmentarily
 fortunation
 fow
