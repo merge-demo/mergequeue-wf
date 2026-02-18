@@ -8953,7 +8953,7 @@ balatong
 bioelectrical
 broomshank 1
 bioengineering
-bestialize
+bestialize 1
 basidiomycetes
 beaverpelt
 bromyrite
