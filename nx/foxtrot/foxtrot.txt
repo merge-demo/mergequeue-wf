@@ -3343,7 +3343,7 @@ fives
 frigidity 1
 furfur
 foodstuff
-fungicolous
+fungicolous 1
 fusser
 fidelio
 flaxseed
