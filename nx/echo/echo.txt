@@ -11245,7 +11245,7 @@ evanesces
 extrajudicial
 etuis 1
 extatic
-exportations
+exportations 1
 embracingness
 empoison
 epicoelar
