@@ -19358,7 +19358,7 @@ checkstone
 color
 creational
 chinchier
-colorableness
+colorableness 1
 curratow
 chilloes
 clothing
