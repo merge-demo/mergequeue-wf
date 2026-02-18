@@ -6643,7 +6643,7 @@ giantism
 ghoulery 1
 geraniaceous
 graptolithida
-garlanding
+garlanding 1
 gobioidei
 gyroscopic
 glanduligerous
