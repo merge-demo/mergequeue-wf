@@ -20510,7 +20510,7 @@ anoxybiosis
 arteriolosclerosis
 abruptly
 afaint
-acrid
+acrid 1
 arteriomalacia
 autoagglutinin
 arachnism
