@@ -20271,7 +20271,7 @@ afocal
 aficionado
 achernar
 arrondissement
-alkalify
+alkalify 1
 arrogates
 amphiboly
 attitudinizing
