@@ -11257,7 +11257,7 @@ ectypography
 electrotonicity
 epibolies
 enkindling
-exploders
+exploders 1
 entangling
 ectepicondylar
 expensive
