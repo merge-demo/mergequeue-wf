@@ -12092,7 +12092,7 @@ educationalism
 edentates
 expressor
 easels
-ekphoria
+ekphoria 1
 erepsin
 exploiture
 escuage
