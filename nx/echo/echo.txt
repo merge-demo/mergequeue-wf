@@ -2403,7 +2403,7 @@ electrodeless
 eremitical
 exponentials
 ectogenetic
-echinochrome
+echinochrome 1
 epiklesis
 electroetching
 earlet
