@@ -8884,7 +8884,7 @@ etymologicon
 entophytic
 equinox
 equiprobabilist
-egyptologic
+egyptologic 1
 encrypt
 emptive
 egregiousness
