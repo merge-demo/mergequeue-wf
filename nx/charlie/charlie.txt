@@ -12238,7 +12238,7 @@ chromonemic 1
 chrysopid
 chrysoprase
 chasmic
-colorimetry
+colorimetry 1
 counteradvice
 chrysops
 chrysopsis
