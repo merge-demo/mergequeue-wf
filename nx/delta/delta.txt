@@ -10957,7 +10957,7 @@ dayglows
 datolite
 diallist
 deuterocone
-disforestation
+disforestation 1
 digressions
 disadvance
 dreamingful
