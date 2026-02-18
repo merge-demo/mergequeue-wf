@@ -1371,7 +1371,7 @@ configurate
 calycocarpum 1
 concur
 colourlessness
-chlorocresol
+chlorocresol 1
 calycozoa
 coronitis
 chimariko
