@@ -3510,7 +3510,7 @@ delvers
 deformable
 darkey
 deformation
-deflections
+deflections 1
 delete
 dubitably
 deformations
