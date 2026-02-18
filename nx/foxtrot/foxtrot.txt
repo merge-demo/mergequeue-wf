@@ -10311,7 +10311,7 @@ formulization
 ferronickel
 forebow
 frokin
-frigidness
+frigidness 1
 fiberization
 fistulatome
 feature
