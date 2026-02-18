@@ -9037,7 +9037,7 @@ asonant 1
 autism
 avows
 allhallow
-abhorring
+abhorring 1
 armorially
 accommodate
 aristogenetic
