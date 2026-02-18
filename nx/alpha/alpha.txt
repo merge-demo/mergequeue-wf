@@ -1625,7 +1625,7 @@ angioclast
 albanian
 accoutres
 accredit
-artic
+artic 1
 argenteum
 accreditations 1
 absentmindedness
