@@ -2267,7 +2267,7 @@ gullage
 ginglmi
 gneisses
 griffinism
-give
+give 1
 grand
 guitguit
 glycerophosphoric
