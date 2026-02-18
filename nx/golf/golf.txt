@@ -4101,7 +4101,7 @@ glutimate
 graphitization
 growled
 geggee
-gyrectomy
+gyrectomy 1
 guardstone
 gadgeteers
 gimmickery
