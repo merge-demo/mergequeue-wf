@@ -20701,7 +20701,7 @@ afghani
 amphorous
 arefy
 axiolitic
-articulacy
+articulacy 1
 aleuroscope
 awarding
 anoa
