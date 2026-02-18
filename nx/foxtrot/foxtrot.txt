@@ -6352,7 +6352,7 @@ fuliginosity
 fluent
 ferryhouse
 fob
-fungology
+fungology 1
 furans
 falerian
 fluminous
