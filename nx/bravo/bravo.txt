@@ -10433,7 +10433,7 @@ blankets
 backhanding
 bhoot
 baler
-blobbiness
+blobbiness 1
 braziletto
 blankish
 blankly
