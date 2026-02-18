@@ -9890,7 +9890,7 @@ dimensum
 dimer
 decadency
 deludable
-daturic
+daturic 1
 deuteronomist
 dimeride
 diosgenin
