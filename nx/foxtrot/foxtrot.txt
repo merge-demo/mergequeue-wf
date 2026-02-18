@@ -1205,7 +1205,7 @@ fleckiness
 feinted
 friborgh
 fasherie
-forloin
+forloin 1
 fusilier
 folksinging 1
 foolishness
