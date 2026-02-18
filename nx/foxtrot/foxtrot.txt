@@ -1012,7 +1012,7 @@ fluoborid
 feeblest
 flexuose
 filipendulous
-flatlong
+flatlong 1
 flavia
 fissidactyl
 fumosity
