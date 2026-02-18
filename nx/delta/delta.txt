@@ -12324,7 +12324,7 @@ discreating
 disgruntlement
 driblet
 denitration
-denigrator
+denigrator 1
 desynchronize
 diaconia
 delineates
