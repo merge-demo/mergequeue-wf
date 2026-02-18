@@ -7292,7 +7292,7 @@ gerated
 glandular
 gymnics
 goofing
-galbanums
+galbanums 1
 gamotropism
 gauffer
 glutaric
