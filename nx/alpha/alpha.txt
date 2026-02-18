@@ -24737,7 +24737,7 @@ arabs
 autolyzed
 allotrophic
 avertiment
-averts
+averts 1
 abbotnullius
 applies
 anecdysis
