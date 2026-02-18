@@ -3942,7 +3942,7 @@ adipomatous
 ariste
 adjutant
 anesthetic
-airtight
+airtight 1
 adjute
 aqueity
 apologer
