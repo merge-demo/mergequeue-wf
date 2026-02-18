@@ -3716,7 +3716,7 @@ galliot
 gringolee
 glossohyal
 granaries
-galateas
+galateas 1
 geodynamic
 globalism
 gonged
