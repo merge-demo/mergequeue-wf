@@ -8055,7 +8055,7 @@ flutterer 1
 fitment
 fimble
 faroese
-footstools
+footstools 1
 faunally
 faradise
 favoured
