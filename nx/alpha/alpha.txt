@@ -13147,7 +13147,7 @@ animistic
 anabatic
 accretionary
 acheilia
-apraxias
+apraxias 1
 anilidic
 altarlet
 allude
