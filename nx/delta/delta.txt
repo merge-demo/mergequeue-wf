@@ -15219,7 +15219,7 @@ doliidae
 dabblings
 depolymerizing
 dioritic
-depreciated
+depreciated 1
 downing 1
 defamers
 dolisie
