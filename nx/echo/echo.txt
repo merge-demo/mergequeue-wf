@@ -4527,7 +4527,7 @@ epirrheme
 entalent
 eery
 enrange
-entrepreneurial
+entrepreneurial 1
 extensibility
 enactive
 emerita
