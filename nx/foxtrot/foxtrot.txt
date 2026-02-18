@@ -3050,7 +3050,7 @@ fibrefill
 freeloads
 fenestra 1
 frostless
-foursquare
+foursquare 1
 fractionalization
 fibril
 fuzing
