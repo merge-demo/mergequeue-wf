@@ -5263,7 +5263,7 @@ caspian
 coriariaceous
 casque
 carnificial
-covert
+covert 1
 const
 cushat
 colemouse
