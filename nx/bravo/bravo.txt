@@ -973,7 +973,7 @@ biologicohumanistic
 brassards
 baptist
 betook
-bindle
+bindle 1
 bitumens 1
 bahoe
 barkle
