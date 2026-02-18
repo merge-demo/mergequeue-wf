@@ -5998,7 +5998,7 @@ aviatrix
 aminopeptidase
 aminocaproic
 airproofed
-anostosis
+anostosis 1
 axumite
 apogeny
 agitatorial
