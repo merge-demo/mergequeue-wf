@@ -8229,7 +8229,7 @@ fetometry
 fairyologist
 frigid
 fanback
-furlanas
+furlanas 1
 floras
 flypapers
 flaskets
