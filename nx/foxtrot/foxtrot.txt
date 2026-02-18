@@ -8588,7 +8588,7 @@ footles
 fluorosis
 frightment
 fellahs
-farinose
+farinose 1
 fanfarons
 filliping
 frownful
