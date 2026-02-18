@@ -2812,7 +2812,7 @@ bookies
 been
 bullaries
 baroneting
-baronetize
+baronetize 1
 beachcomber
 ballistocardiographic
 benzeneazobenzene
