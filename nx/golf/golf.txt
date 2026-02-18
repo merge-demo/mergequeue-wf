@@ -1898,7 +1898,7 @@ gaudless
 ganglia
 guttled
 gurjan
-geal
+geal 1
 gimmicks
 gentian
 glutoid
