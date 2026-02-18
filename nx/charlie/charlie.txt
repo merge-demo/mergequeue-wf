@@ -31541,7 +31541,7 @@ cursers
 curship
 coadjuvant
 cursing
-cursitate
+cursitate 1
 coadjute 1
 cursive
 cursives
