@@ -5255,7 +5255,7 @@ dispositioned
 diatomaceoid
 denouncers
 detinue
-dissimulate
+dissimulate 1
 downhearted
 darkener
 dentalia
