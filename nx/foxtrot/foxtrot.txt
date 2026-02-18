@@ -2299,7 +2299,7 @@ fictionalizes
 fondaco
 feminizes
 friday
-ftnerr
+ftnerr 1
 forbysen
 finespun
 furrowless
