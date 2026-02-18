@@ -10985,7 +10985,7 @@ chignoned
 combflower
 corrals
 crocodilia
-counterinsurgencies
+counterinsurgencies 1
 crutcher
 catananche
 clavises
