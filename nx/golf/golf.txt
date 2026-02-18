@@ -3236,7 +3236,7 @@ glucemia
 griffinish
 gayness
 gizmo
-gere
+gere 1
 guerdons
 gereagle
 gleeful
