@@ -9022,7 +9022,7 @@ evans
 eves
 etiolize
 entwite
-equiponderous
+equiponderous 1
 ebcasc
 episarkine
 electrotypist
