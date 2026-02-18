@@ -3912,7 +3912,7 @@ bawl
 bawler
 brachystomatous
 berginization
-buxom
+buxom 1
 brutalitarian
 bidding
 basifacial
