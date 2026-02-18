@@ -2080,7 +2080,7 @@ dialing
 dictyosome
 dinornithid
 dominial
-disappearance
+disappearance 1
 diabrotica
 disencumbering
 dinoflagellida
