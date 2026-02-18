@@ -3195,7 +3195,7 @@ emerituti
 emissive
 encompassed
 exciple
-energised
+energised 1
 elegiacally
 electromagnets
 endoscopy
