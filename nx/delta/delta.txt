@@ -1930,7 +1930,7 @@ driest
 deckload
 decennal
 disacquaintance
-digredience
+digredience 1
 dictyonina
 daman
 dezinkify
