@@ -10502,7 +10502,7 @@ blastodisc
 bakestone
 bop
 brainy
-bridgewards
+bridgewards 1
 bonehead
 burin
 bradypode
