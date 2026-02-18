@@ -10138,7 +10138,7 @@ endotropic
 entocnemial
 epharmony
 engraphically
-esurient
+esurient 1
 earthlike
 extrusible
 ecthlipses
