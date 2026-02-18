@@ -3801,7 +3801,7 @@ carbamyls
 carpodetus
 carbamine
 canonicalize
-circumnutate
+circumnutate 1
 cowquake
 circum
 carbanilid
