@@ -23187,7 +23187,7 @@ constricted
 cobby
 carpomania
 constricting
-constriction
+constriction 1
 constrictive
 creeler
 crevass
