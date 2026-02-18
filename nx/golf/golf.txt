@@ -1682,7 +1682,7 @@ glyptodont
 gastrophilite 1
 gastrograph
 gamebag
-glans
+glans 1
 guarantying
 grieflessness
 gazetteerish
