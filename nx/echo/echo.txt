@@ -9932,7 +9932,7 @@ externship
 emphasis
 eocene
 epicentrum
-especialness
+especialness 1
 equicellular
 eclosions
 electroosmotically
