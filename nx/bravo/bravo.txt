@@ -7515,7 +7515,7 @@ balbutiate
 bistre
 bramantesque
 brownism
-brinishness
+brinishness 1
 beglerbegluc
 brachypodine
 booteries
