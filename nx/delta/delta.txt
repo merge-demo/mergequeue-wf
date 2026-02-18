@@ -3118,7 +3118,7 @@ defaultless
 depauperization
 downfolded 1
 defaults
-drowningly
+drowningly 1
 defaulture
 dialings
 doat

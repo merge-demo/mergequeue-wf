@@ -16771,7 +16771,7 @@ cynosures
 cloudward
 cloudwards
 calamiferous
-coactivity
+coactivity 1
 culpon
 competentness
 cyclosporous
