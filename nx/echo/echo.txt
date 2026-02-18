@@ -3838,7 +3838,7 @@ emceeing
 expilate
 enquirer
 eyewater
-erect
+erect 1
 epilogs
 entrusts
 emend
