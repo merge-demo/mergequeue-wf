@@ -731,7 +731,7 @@ galvanopuncture
 goutwort
 gypsyish
 gladsomer
-geometrically
+geometrically 1
 graywether
 galvanotherapy
 goalies
