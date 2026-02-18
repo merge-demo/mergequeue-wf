@@ -5487,7 +5487,7 @@ flav
 fragmentize
 forbled
 foremade
-feltlike
+feltlike 1
 fledgiest
 forefigure
 furor
