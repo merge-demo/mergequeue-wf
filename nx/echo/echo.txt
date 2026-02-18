@@ -11865,7 +11865,7 @@ epipolism
 enviably
 epidendric
 etiolation
-excalcarate
+excalcarate 1
 elecive
 eulogization
 excalceate
