@@ -11798,7 +11798,7 @@ eveque
 ensearch
 episcopise
 ensurer 1
-easier
+easier 1
 entoptoscopy
 ecosystem
 elaterium
