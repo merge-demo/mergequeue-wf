@@ -11320,7 +11320,7 @@ flathat
 floodlight
 faceted
 funebrious
-faujasite 1
+faujasite 2
 formals
 frailejon
 fussiness
