@@ -14159,7 +14159,7 @@ deployment
 defeating
 daisy
 ducker
-disulfid
+disulfid 1
 derris
 deprehensible
 diazotizable
