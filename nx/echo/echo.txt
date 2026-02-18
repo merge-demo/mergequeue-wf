@@ -8279,7 +8279,7 @@ escrows
 empyrosis
 episodial
 erythroscope
-epistaxis
+epistaxis 1
 epistemically
 extemporising
 engirded
