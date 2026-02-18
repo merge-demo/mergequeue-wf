@@ -5029,7 +5029,7 @@ glycogen
 gerefa
 gastrohypertonic 1
 grizzlers
-gisarmes
+gisarmes 1
 gassy
 groused
 gnostology
