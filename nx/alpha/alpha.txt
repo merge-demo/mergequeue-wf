@@ -9194,7 +9194,7 @@ alderwoman
 aloid
 albumenise
 ashfall
-anamorphous
+anamorphous 1
 acapulco
 acroesthesia
 analyser
