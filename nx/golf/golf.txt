@@ -10477,7 +10477,7 @@ gramenite
 grapeful
 goofily
 genizero 1
-geyserite
+geyserite 1
 gingernut
 gregal
 garbardine
