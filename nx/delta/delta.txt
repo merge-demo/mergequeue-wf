@@ -5990,7 +5990,7 @@ dilettantist
 discommoded
 dept
 diaschistic
-dispraise
+dispraise 1
 deceivable
 devitation 1
 disfavorer
