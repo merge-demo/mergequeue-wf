@@ -1144,7 +1144,7 @@ belonesite
 bairns
 backwall
 borates
-berserk
+berserk 1
 botete
 bairnwort
 biscotin
