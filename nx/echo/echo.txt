@@ -2980,7 +2980,7 @@ elicitor
 enricher
 eagle
 exploiters
-entoloma
+entoloma 1
 escarping
 eassel
 epagomenal
