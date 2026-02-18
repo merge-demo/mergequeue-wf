@@ -10713,7 +10713,7 @@ glossiest
 gaboon
 gluttonised
 gutnic
-gerbera
+gerbera 1
 germinated
 gonorrhoeic
 goers
