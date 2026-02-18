@@ -6785,7 +6785,7 @@ diarian
 desize
 decompositional
 dividends
-dappleness
+dappleness 1
 desklike
 diphrelatic
 druxiness
