@@ -1656,7 +1656,7 @@ guayabo
 groow
 gastroduodenitis
 guadua
-gastritis
+gastritis 1
 goriness
 gottfried
 gamed
