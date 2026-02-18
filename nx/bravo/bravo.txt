@@ -5047,7 +5047,7 @@ beetlike
 backgrounds
 beswinge
 beguine
-bedunces
+bedunces 1
 bronzings
 beetroots
 becarve
