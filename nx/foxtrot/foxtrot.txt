@@ -3203,7 +3203,7 @@ fesels
 freeholds
 filibeg 1
 fishpole
-flaunched
+flaunched 1
 frosh
 flurries 1
 farted
