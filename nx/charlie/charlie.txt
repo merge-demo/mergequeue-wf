@@ -19877,7 +19877,7 @@ comfiture
 cummerbund
 comfort
 cryptoglaux
-comfortableness
+comfortableness 1
 caroled
 comfortation
 comfortative
