@@ -1388,7 +1388,7 @@ delis
 disputing
 desmosite 1
 desipient
-diligentia
+diligentia 1
 drewite
 dechoralize
 deportation
