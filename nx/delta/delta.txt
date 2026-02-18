@@ -9183,7 +9183,7 @@ doctrinate
 doors
 delobranchiata
 denazification
-demilance
+demilance 1
 doctrinarian
 dolours
 ditriglyph
