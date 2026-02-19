@@ -2904,7 +2904,7 @@ euglobulin
 epitympa
 effable
 eleutherophobia
-easygoingness
+easygoingness 1
 encephalalgia
 evasively
 endew
