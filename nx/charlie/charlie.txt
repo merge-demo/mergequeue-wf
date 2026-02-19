@@ -12816,7 +12816,7 @@ churchcraft
 caninus 1
 chondrocranium
 churchful
-clatters
+clatters 1
 cursus
 championess
 correo
