@@ -8419,7 +8419,7 @@ forlive
 finland
 frauder
 fm
-forgetfulness
+forgetfulness 1
 frypan
 floorman
 futhark
