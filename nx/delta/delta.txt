@@ -5067,7 +5067,7 @@ debenzolize
 deadrise
 dermatocoptic
 dendrocygna
-dedimus
+dedimus 1
 dunness
 dancettee
 dissimulates
