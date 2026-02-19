@@ -10793,7 +10793,7 @@ eigenvector
 emer 1
 endogalvanism
 eucnemidae
-exercitant
+exercitant 1
 elasticate
 enseel
 expertise
