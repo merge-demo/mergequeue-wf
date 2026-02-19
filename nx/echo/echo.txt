@@ -3586,7 +3586,7 @@ eproboscidea
 explementary
 elapinae
 earthwards
-exsanguine
+exsanguine 1
 endow
 embodiers
 extrusile
