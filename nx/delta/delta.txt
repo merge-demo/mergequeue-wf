@@ -4286,7 +4286,7 @@ disburden
 defatigable
 demandingly
 demands
-decarburize
+decarburize 1
 dodecamerous
 distractively
 denay
