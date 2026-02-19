@@ -21796,7 +21796,7 @@ apotheose
 antiquarium
 asseveration
 apaesthetic
-afforcing
+afforcing 1
 asshead
 assi
 archiblastula
