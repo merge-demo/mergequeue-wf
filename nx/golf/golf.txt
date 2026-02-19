@@ -3013,7 +3013,7 @@ gourdiness
 gametogenous
 garnetz
 gulfiest
-gossipper
+gossipper 1
 giant 1
 gnash
 graphiter
