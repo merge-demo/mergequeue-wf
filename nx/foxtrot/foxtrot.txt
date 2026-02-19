@@ -5346,7 +5346,7 @@ frontingly
 fourrag
 flowingness
 fauconnier
-foreignism
+foreignism 1
 flawflower
 flawing
 farles
