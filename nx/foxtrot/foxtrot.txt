@@ -2271,7 +2271,7 @@ floored
 fends
 filator
 feuterer
-frugalist
+frugalist 1
 fluidised
 filicales 1
 footboards
