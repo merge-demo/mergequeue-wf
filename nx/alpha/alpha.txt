@@ -9317,7 +9317,7 @@ accumulates
 alagarto
 alraun
 andesyte
-alreadiness
+alreadiness 1
 anthill
 antitheft
 alruna
