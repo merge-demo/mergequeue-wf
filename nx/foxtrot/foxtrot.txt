@@ -6882,7 +6882,7 @@ freehanded
 fatefulness
 fiendliness 1
 flaccidity
-fluorotic
+fluorotic 1
 forfalt
 faithfuls
 forams
