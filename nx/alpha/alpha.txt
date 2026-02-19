@@ -20243,7 +20243,7 @@ abstracting
 altschin
 alloxanic
 animalcula
-ambassade
+ambassade 1
 arrivals 1
 aromatize
 arrivist
