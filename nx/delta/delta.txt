@@ -15856,7 +15856,7 @@ delphinia
 discounts
 datura
 dogproof
-deteriorates
+deteriorates 1
 desterilized
 dosing
 dehairer
