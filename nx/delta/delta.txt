@@ -13932,7 +13932,7 @@ danebrog
 distillatory
 desolates
 deflagrations
-depreciant
+depreciant 1
 dynamogeneses
 deodand
 daemonian
