@@ -3310,7 +3310,7 @@ defines
 dispensatively
 deionizes
 diabolus
-drugger
+drugger 1
 disposure
 definiens
 derencephalocele
