@@ -142,7 +142,7 @@ graniteware
 ghettoized
 gnomonology
 gremiale 1
-galvanosurgery
+galvanosurgery 1
 genevoise
 gybe
 glandulous
