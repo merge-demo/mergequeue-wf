@@ -4643,7 +4643,7 @@ fireproof
 fringilliform
 feere
 firmland
-finecomb
+finecomb 1
 fibrocalcareous
 ferring
 felsophyre
