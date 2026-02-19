@@ -1463,7 +1463,7 @@ acclamator
 acclimatable
 autecologically
 attires
-acclimates
+acclimates 1
 arose
 acclimatisation
 acclimatise
