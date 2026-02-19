@@ -7996,7 +7996,7 @@ glandiform
 gaunter
 granophyre
 gladify
-gigmaness
+gigmaness 1
 gothonic
 ganglionectomy
 globing
