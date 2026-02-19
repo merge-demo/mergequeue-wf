@@ -7755,7 +7755,7 @@ adequative
 alchemically
 argillitic
 aflow
-auriculoid
+auriculoid 1
 amarantus
 ale
 arctia
