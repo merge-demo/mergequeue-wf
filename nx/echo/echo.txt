@@ -7372,7 +7372,7 @@ entameba
 electrograph
 enduro
 epizoal
-elongate
+elongate 1
 economy
 etoiles
 electrojet
