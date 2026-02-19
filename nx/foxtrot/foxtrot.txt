@@ -11687,7 +11687,7 @@ footglove
 fiaschi
 flatfoot
 faced
-faroeish
+faroeish 1
 fanlights
 fascisms 1
 flocculable
