@@ -3763,7 +3763,7 @@ chevaline
 carates
 candor 1
 changuina
-campanological
+campanological 1
 congridae
 coventrize
 caravaneer
