@@ -9094,7 +9094,7 @@ ferrymen
 females 1
 flustrum 1
 feudality
-forbruise
+forbruise 1
 foreadmonish
 foederis
 fellow
