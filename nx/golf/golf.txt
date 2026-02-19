@@ -5861,7 +5861,7 @@ goback
 gnathostoma
 gelatinisation 1
 gimleted
-gynecide
+gynecide 1
 gentilish
 gastrophthisis
 goitrous
