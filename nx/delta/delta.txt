@@ -8153,7 +8153,7 @@ descartes
 diaphtherin
 diachronic
 dipleurule
-daer
+daer 1
 diachronically
 dicranum
 duple
