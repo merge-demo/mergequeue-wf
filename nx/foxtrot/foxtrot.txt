@@ -4028,7 +4028,7 @@ flattish
 forfeited
 flunk
 fellies 1
-foreshowed
+foreshowed 1
 ferric
 furazolidone
 fishery
