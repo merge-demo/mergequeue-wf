@@ -4140,7 +4140,7 @@ gramicidin
 gaitt 2
 givingness
 ghostlike
-gibleh
+gibleh 1
 gratewise
 gypsum
 gebang
