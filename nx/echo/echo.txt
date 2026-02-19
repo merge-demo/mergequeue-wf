@@ -2350,7 +2350,7 @@ expatriatism
 exsequatur
 effulge
 enchants
-eschar
+eschar 1
 epistroma
 electrocardiographic
 entocele
