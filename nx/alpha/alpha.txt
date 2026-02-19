@@ -11224,7 +11224,7 @@ acheron
 amphithyron
 antiman
 avoir
-apetalies
+apetalies 1
 axiality
 amphithura
 amphipnous

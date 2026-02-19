@@ -989,7 +989,7 @@ elixirs
 ectrotic
 easing
 erosionally
-efform
+efform 1
 endocardium
 epoxied
 entada
