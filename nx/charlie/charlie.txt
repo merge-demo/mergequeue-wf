@@ -27819,7 +27819,7 @@ coxswain
 caesura
 coxswained 1
 comrade
-crawlingly
+crawlingly 1
 cervicodorsal
 crudelity
 containerizes
