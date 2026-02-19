@@ -2204,7 +2204,7 @@ exaggeration
 equips
 erythemic
 extromit
-elohist
+elohist 1
 emissitious
 eminent
 ectomorphic
