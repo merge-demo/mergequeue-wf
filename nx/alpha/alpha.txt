@@ -8974,7 +8974,7 @@ allowableness
 alkalises
 ammonoid
 allowed
-attorned
+attorned 1
 acquiescing
 assagais
 aftermarriage
