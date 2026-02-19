@@ -10550,7 +10550,7 @@ bibless
 blastophoral
 benchmen
 bootikin
-bimbo
+bimbo 1
 bouviers
 bambuco
 beclowned 1
