@@ -2627,7 +2627,7 @@ bathrobes
 bearleap
 bromating
 bochism
-bidentate
+bidentate 1
 broadwives
 befuddles
 busybodies
