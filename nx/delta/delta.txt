@@ -5946,7 +5946,7 @@ departements
 decard 1
 deprivement
 disconcerts
-delenda
+delenda 1
 davy
 doublehandedness
 damascening
