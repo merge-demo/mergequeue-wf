@@ -5278,7 +5278,7 @@ disrange
 demarkation
 depark
 deuteroconid
-disalicylide
+disalicylide 1
 ducks
 drumlin
 distitle
