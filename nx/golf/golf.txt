@@ -99,7 +99,7 @@ glairier
 guises
 gassendist
 galeate
-gofferer
+gofferer 1
 gliomata
 grammarianism
 gemwork
