@@ -9332,7 +9332,7 @@ archetypical
 alsophila
 allusory
 adamitic
-amphiphloic
+amphiphloic 1
 anticathode
 altaian
 aetian 1
