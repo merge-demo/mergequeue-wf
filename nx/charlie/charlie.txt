@@ -3391,7 +3391,7 @@ coderives
 campaigns
 caponize
 crispate
-caponized
+caponized 1
 contrasty
 caponizer
 capons
