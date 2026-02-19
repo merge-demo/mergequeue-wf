@@ -2859,7 +2859,7 @@ drepanis
 dilatory
 doability
 deuteroscopic
-dazedness
+dazedness 1
 disenroll
 durational
 deluded
