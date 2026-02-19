@@ -2492,7 +2492,7 @@ candescence
 cabalists
 candid
 curchef
-copperish
+copperish 1
 conversive
 candidacy
 clarinetist
