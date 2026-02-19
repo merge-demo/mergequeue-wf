@@ -7752,7 +7752,7 @@ gyroidal
 graped
 graveling
 gonadectomized
-glyptological
+glyptological 1
 gonococcocci
 girly
 gonystylaceae
