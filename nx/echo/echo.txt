@@ -3649,7 +3649,7 @@ embossman
 escalier
 esophagoplegia 1
 enchantery 1
-emanent
+emanent 1
 extracellularly
 excelsin 1
 emydes
