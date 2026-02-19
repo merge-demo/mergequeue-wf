@@ -12898,7 +12898,7 @@ erastus
 elkdom
 ellwand
 expandible
-editions
+editions 1
 endoconidia
 envenoms
 extremer
