@@ -7967,7 +7967,7 @@ dragading
 doggess 1
 disutility
 dietetically
-diagenetic
+diagenetic 1
 dezymotize
 dezincify
 dhourras
