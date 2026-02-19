@@ -11478,7 +11478,7 @@ bathylimnetic
 bedoctor
 balloting
 blintze
-ballat
+ballat 1
 billposter 1
 barbated
 blicky
