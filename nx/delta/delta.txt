@@ -6116,7 +6116,7 @@ disilicane
 detrimental
 dropout
 dimission
-durgen
+durgen 1
 deckedout
 diphtheroid
 derater
