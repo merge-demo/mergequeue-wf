@@ -9150,7 +9150,7 @@ grooming
 gardant
 groundy
 gladstone
-gunshots
+gunshots 1
 glaceed
 gynaecium
 garapata
