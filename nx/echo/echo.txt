@@ -3027,7 +3027,7 @@ enlief
 emony 1
 estatesman
 esoanhydride
-equiprobabilism
+equiprobabilism 1
 epaulets
 ectopia
 elymus
