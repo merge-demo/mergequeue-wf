@@ -5202,7 +5202,7 @@ endoneurium
 equestrianism
 editchar
 equinely
-escoba
+escoba 1
 entier
 erythrogen
 encinder
