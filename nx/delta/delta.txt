@@ -15290,7 +15290,7 @@ dirling
 dolphinlike
 decadescent
 dolphins 1
-discountenance
+discountenance 1
 diagnostics
 design
 demonolatry
