@@ -903,7 +903,7 @@ blutwurst
 bastnaesite
 bitstone
 breakaway
-burdies
+burdies 1
 broommaking
 bardism
 bummed
