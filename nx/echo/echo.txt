@@ -6148,7 +6148,7 @@ equivote
 ericineous
 enmity
 eunuchism
-entracte
+entracte 1
 encumbering
 embattles
 ethicizes
