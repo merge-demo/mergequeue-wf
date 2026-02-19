@@ -9949,7 +9949,7 @@ formalizes
 farmyards
 fake
 funs 1
-faddiest
+faddiest 1
 falconry 1
 fleabane
 feceris
