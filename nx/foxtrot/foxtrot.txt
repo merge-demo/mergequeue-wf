@@ -8476,7 +8476,7 @@ featherfew 1
 feasibilities
 funditores 1
 fortin
-frailer
+frailer 1
 flioma
 fustigatory
 frondesce
