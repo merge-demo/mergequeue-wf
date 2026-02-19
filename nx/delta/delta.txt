@@ -8107,7 +8107,7 @@ debarkations
 distaste
 depilates
 drainers
-disambiguate
+disambiguate 1
 disventure 1
 darkhearted
 delineate
