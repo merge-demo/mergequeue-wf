@@ -11240,7 +11240,7 @@ bezants
 borghalpenny
 bespeaker
 bongrace
-bichy
+bichy 1
 bisilicate
 blabbermouths
 blotty
