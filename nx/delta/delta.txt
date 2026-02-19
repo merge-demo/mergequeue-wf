@@ -5661,7 +5661,7 @@ dialysed
 dush
 drivelled
 dialectician
-diapensiaceous
+diapensiaceous 1
 deminudity
 dimethylketone
 destinist
