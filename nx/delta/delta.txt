@@ -2444,7 +2444,7 @@ disintegrative
 damgalnunna
 dacryopyosis
 dunghill
-destrudo
+destrudo 1
 diplodocus 2
 delusory
 dipyre
