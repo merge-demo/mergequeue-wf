@@ -1539,7 +1539,7 @@ female
 foulish 1
 foreshift
 foetuses
-fauterer
+fauterer 1
 flannelleaf
 fimbriodentate
 foreteach
