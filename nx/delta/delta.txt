@@ -5232,7 +5232,7 @@ dorsel
 depauperized
 densify
 dispeopling
-disqualifications
+disqualifications 1
 desmodactyli
 domesticative
 dengue
