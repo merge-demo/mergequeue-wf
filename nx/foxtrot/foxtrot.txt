@@ -10640,7 +10640,7 @@ floggers 1
 flucan 1
 fattish
 forefend
-feis
+feis 1
 flabbergasting
 feudalizable
 forerunner
