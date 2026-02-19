@@ -12029,7 +12029,7 @@ essentials
 etherion
 embolus
 electioneerer
-exaggerate
+exaggerate 1
 essenic
 exclusive
 enaunter
