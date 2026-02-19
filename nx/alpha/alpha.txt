@@ -3032,7 +3032,7 @@ atelectasis
 abdominoposterior
 algin
 actinometrical
-actinometricy
+actinometricy 1
 actinomyces
 areche
 amplitude
