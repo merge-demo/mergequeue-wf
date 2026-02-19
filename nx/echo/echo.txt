@@ -13675,7 +13675,7 @@ epilogism
 etruscan
 ecclesiarchy
 embacle
-euchre
+euchre 1
 equiv
 enforcement
 estrays
