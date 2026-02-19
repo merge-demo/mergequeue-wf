@@ -12569,7 +12569,7 @@ eupathy
 excepable
 exceptionality
 enuring
-electropathic
+electropathic 1
 echuca
 eating
 eatableness
