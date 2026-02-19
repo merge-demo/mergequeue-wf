@@ -2416,7 +2416,7 @@ condescender
 charitableness 1
 cunctation
 carpogone
-coruminacan
+coruminacan 1
 canceller
 cancellous
 cyathoid
