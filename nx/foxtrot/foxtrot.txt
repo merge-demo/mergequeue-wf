@@ -4975,7 +4975,7 @@ fossilist
 frappeed
 fathomless
 frappes
-fcy
+fcy 1
 floreat
 forbearers
 fustianish
