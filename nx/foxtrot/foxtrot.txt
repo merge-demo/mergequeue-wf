@@ -7376,7 +7376,7 @@ forehorse
 fishmonger
 fozy
 fusilading
-fronting
+fronting 1
 forayed
 flutters
 fourteenfold
