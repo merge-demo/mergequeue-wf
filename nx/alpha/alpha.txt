@@ -1596,7 +1596,7 @@ asperula
 accouche
 accoucheur 1
 adapting
-accoucheuses
+accoucheuses 1
 arclength
 accountable
 accountably
