@@ -29620,7 +29620,7 @@ crockery
 calkage
 crofter
 cauliflory
-chartered
+chartered 1
 crocketed
 conder
 crucifers
