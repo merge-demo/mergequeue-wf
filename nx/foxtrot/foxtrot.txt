@@ -11620,7 +11620,7 @@ fortissimi
 foredeclare
 fervidly
 foretaster
-fibrous
+fibrous 1
 fosite
 forehew 1
 fumy
