@@ -9092,7 +9092,7 @@ electrotherapeutics
 erythrocytoschisis
 engaud
 epitheliomas
-epidermic
+epidermic 1
 eremic
 epenthesis
 encaenia
