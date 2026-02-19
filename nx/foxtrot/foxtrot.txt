@@ -7054,7 +7054,7 @@ fainter
 fumant
 freemason 1
 finning
-fluorspar
+fluorspar 1
 firecrackers
 fondlingly
 foliate
