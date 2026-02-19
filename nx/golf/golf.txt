@@ -3521,7 +3521,7 @@ grosbeak
 gearbox
 greatening
 gelignite
-gnomical
+gnomical 1
 glottis
 gander 1
 guyots
