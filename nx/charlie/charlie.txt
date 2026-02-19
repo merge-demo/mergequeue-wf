@@ -12237,7 +12237,7 @@ chrysophyte
 chromonemic 1
 chrysopid
 chrysoprase
-chasmic
+chasmic 1
 colorimetry 1
 counteradvice
 chrysops
