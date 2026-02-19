@@ -7475,7 +7475,7 @@ exalt
 enhydrinae
 exosporous
 ephas
-ebriosity
+ebriosity 1
 echites
 employes
 eide
