@@ -6481,7 +6481,7 @@ fairm
 flaggier
 futurely
 fighteress
-foliates
+foliates 1
 ferforth
 fireflower
 flushy
