@@ -9275,7 +9275,7 @@ effoliate
 educationalist
 extrapleural
 element
-eyestrain
+eyestrain 1
 extradecretal
 empty
 effranchise
