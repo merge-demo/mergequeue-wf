@@ -20254,7 +20254,7 @@ archisymbolical
 accumber
 antinomian
 alluvio
-anauxite
+anauxite 1
 adjacence
 avicide
 antiganting
