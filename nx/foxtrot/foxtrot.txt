@@ -6671,7 +6671,7 @@ frogfish 1
 forewish
 flapperism
 forestaffs
-flirtier
+flirtier 1
 frown
 fragged
 forecondemn
