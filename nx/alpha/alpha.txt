@@ -14778,7 +14778,7 @@ antichronically
 amphibola
 antitragal
 actinoid
-associates
+associates 1
 antisubmarine
 aswough
 antineutron
