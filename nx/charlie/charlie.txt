@@ -26728,7 +26728,7 @@ counterboulle
 clops
 counterbranch
 counterbrand
-confutable
+confutable 1
 cocinero
 countercathexis
 counterchanged
