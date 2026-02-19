@@ -9448,7 +9448,7 @@ basihyal
 bireme
 begeck
 bacteriostat
-betassel
+betassel 1
 bookholder
 butleries
 bulimulidae
