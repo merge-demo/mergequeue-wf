@@ -3923,7 +3923,7 @@ extraboldface
 extramolecular 1
 easternized
 eminently
-expressionless
+expressionless 1
 englory
 eels
 enalid
