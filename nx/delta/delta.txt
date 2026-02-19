@@ -10695,7 +10695,7 @@ dhuti
 dioti 1
 disaccordance
 delegati
-dermostenosis
+dermostenosis 1
 dolefulness
 duplicately
 dyspeptic 1
