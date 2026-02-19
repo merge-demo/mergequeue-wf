@@ -11214,7 +11214,7 @@ flubdubbery
 footlers 1
 fistulae
 foreday
-foreknown
+foreknown 1
 friskier
 farsang
 furzed
