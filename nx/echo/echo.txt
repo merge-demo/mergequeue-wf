@@ -12854,7 +12854,7 @@ eyes
 enumerations
 evangelistship
 efecks
-effusive
+effusive 1
 encircled
 exoterically
 episcopal
