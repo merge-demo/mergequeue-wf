@@ -3245,7 +3245,7 @@ gauze
 geotropically
 galagala
 gaut
-guarantor
+guarantor 1
 gazetteers
 gyral 1
 garlandwise
