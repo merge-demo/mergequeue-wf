@@ -9302,7 +9302,7 @@ gurge 1
 gangliate
 gonopodia
 gordioid
-galactophagous
+galactophagous 1
 goutweed
 guidebook
 grenade
