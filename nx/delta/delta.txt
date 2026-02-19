@@ -11751,7 +11751,7 @@ decoupage
 dopamelanin
 depersonalizes
 discredit
-degranulation
+degranulation 1
 dindon
 discreditability
 doorsteps
