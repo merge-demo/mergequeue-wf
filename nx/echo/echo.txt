@@ -1340,7 +1340,7 @@ exodium
 epicranius
 exon
 eesome
-exscinding
+exscinding 1
 emancipations
 eyeful
 emeroids
