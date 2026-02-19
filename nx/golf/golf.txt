@@ -5587,7 +5587,7 @@ gunks
 glutethimide
 goller
 giantesque
-gemmaceous
+gemmaceous 1
 grossular
 graminaceae
 geotectonics

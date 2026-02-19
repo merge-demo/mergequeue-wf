@@ -11429,7 +11429,7 @@ audiometers
 anabaptists
 autoheader
 adenocele
-acrospore
+acrospore 1
 anabases
 ageists
 afterpain
