@@ -15532,7 +15532,7 @@ acardite
 accrescence
 antimorality
 amalgamations
-armory
+armory 1
 antimusically
 animalculous
 aceldama
