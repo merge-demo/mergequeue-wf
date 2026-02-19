@@ -8305,7 +8305,7 @@ gabionade
 gasteria
 graphoscope
 grudgeless
-gummic
+gummic 1
 glossophora
 gastly
 grapier
