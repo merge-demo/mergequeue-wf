@@ -24203,7 +24203,7 @@ convolve
 ceratothecae
 caenogaean
 claucht
-cringingly
+cringingly 1
 constructing
 communique
 cynipidous
