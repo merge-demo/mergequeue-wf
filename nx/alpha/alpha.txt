@@ -349,7 +349,7 @@ agdistis
 arrival
 aberration
 aftercure
-aberrative
+aberrative 1
 acinose
 abetments
 anticonvulsive
