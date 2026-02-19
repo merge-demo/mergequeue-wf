@@ -5106,7 +5106,7 @@ disulphoxide
 detachedly
 deadened
 dispraiser
-dampeners
+dampeners 1
 deveined
 dendron
 druffen
