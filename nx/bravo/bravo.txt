@@ -4474,7 +4474,7 @@ beclothes
 blushwort
 briefers
 bike
-boomeranged
+boomeranged 1
 billard
 bromizer
 bebopper

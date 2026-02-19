@@ -8536,7 +8536,7 @@ externally
 endball
 evenwise
 exculpation
-eleemosynariness
+eleemosynariness 1
 eupyrene
 empties
 endoangiitis
