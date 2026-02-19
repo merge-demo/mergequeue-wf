@@ -1550,7 +1550,7 @@ forepayment
 fauvette
 flowcontrol
 footages
-futural
+futural 1
 fliest
 fauvisms
 flaggers
