@@ -4302,7 +4302,7 @@ epicenes
 enphytotic
 ethnicon
 enhydra
-excerpts
+excerpts 1
 effectible
 enjoined
 extirpation
