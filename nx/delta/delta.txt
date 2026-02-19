@@ -17933,7 +17933,7 @@ delimitate 1
 defibrinate
 discontinuations
 dufterdar
-defibrillating
+defibrillating 1
 deglazes
 disamenity
 durras
