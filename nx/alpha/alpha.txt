@@ -8595,7 +8595,7 @@ axonemal
 argyrite
 alternationist
 allelomorphic
-allelotropy
+allelotropy 1
 acculturize
 allelotropic
 attendantly
