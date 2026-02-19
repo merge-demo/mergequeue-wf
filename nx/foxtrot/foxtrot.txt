@@ -10839,7 +10839,7 @@ feeable
 fanatical
 fulfiller
 flunkeydom
-fumose
+fumose 1
 flus
 fleetness
 flavorous
