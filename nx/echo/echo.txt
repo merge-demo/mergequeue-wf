@@ -6237,7 +6237,7 @@ equicontinuous
 extermination
 enorn
 endopterygote
-eumeromorph
+eumeromorph 1
 encrown 1
 epinicial
 eradiating
