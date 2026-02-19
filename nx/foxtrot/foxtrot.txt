@@ -5326,7 +5326,7 @@ fitch
 falsedad
 flix 1
 fogy
-fockle
+fockle 1
 fabricable
 fishmouth
 feodatory
