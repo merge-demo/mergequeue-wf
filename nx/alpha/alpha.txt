@@ -2436,7 +2436,7 @@ akroteria
 acanthocephali
 algonquin
 aluminized
-antitartaric
+antitartaric 1
 autoriser
 anthroposomatology
 adret
