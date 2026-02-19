@@ -2939,7 +2939,7 @@ grievers
 galliardness
 giddily 1
 gloriole
-gesticulatively
+gesticulatively 1
 galatine
 gasifier 1
 geologically
