@@ -8028,7 +8028,7 @@ gables
 glyptical
 glamorizations
 grandmotherly
-glistens
+glistens 1
 germifuge
 gunnies
 gorsechat
