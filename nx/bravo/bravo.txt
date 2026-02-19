@@ -6055,7 +6055,7 @@ bourg
 bollard
 blephariglottis
 buttstrap
-blacktail
+blacktail 1
 bemuddlement
 bieberite 1
 burgouts
