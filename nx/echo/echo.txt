@@ -2681,7 +2681,7 @@ exsculptate
 emprime
 ethnocentrism
 extinguisher
-exegetist
+exegetist 1
 electroballistician
 ectocornea
 exsec

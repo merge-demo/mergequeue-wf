@@ -14488,7 +14488,7 @@ antipathies
 asphyxiation
 alveolitis
 areas
-angarias
+angarias 1
 avesta
 aestival
 anteclassical
