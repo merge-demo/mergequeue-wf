@@ -4861,7 +4861,7 @@ deactivator
 demishirt 1
 drupose
 drownds
-dissimilation
+dissimilation 1
 dietician
 dissecting
 discreditableness
