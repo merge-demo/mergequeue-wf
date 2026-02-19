@@ -9870,7 +9870,7 @@ alerion
 ambatoarinite
 argentous
 autumnity
-akinetic
+akinetic 1
 apehood
 ambe
 anay
