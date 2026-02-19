@@ -3404,7 +3404,7 @@ capotastos
 choicest
 chronographically
 clavicorn
-celsius
+celsius 1
 carrots
 capote
 capouches
