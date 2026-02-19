@@ -4924,7 +4924,7 @@ frabbit
 foremention
 flagellatory 1
 florescence
-flails
+flails 1
 feuilletonism
 furoic
 flong
