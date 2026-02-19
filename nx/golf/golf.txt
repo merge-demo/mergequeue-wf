@@ -10352,7 +10352,7 @@ galactosamine
 grasshook
 getatability
 gemology
-geophyte
+geophyte 1
 grike
 gumbos
 giddied
