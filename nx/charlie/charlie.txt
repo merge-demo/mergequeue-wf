@@ -17719,7 +17719,7 @@ cocircular
 clerkery
 cultrirostres
 catodont
-cocitizen
+cocitizen 1
 cockade
 colour
 colonisation
