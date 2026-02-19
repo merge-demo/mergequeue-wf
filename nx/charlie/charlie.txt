@@ -8912,7 +8912,7 @@ coyotero
 chrysophanus
 ciceroni
 crenelet
-concisest
+concisest 1
 concyclic
 charco
 crutches
