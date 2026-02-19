@@ -13060,7 +13060,7 @@ avunculize
 animalier
 acetosalicylic
 animalillio
-annihilable
+annihilable 1
 acquitter
 adiathermal
 adenostemonous
