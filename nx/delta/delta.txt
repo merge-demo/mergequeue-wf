@@ -138,7 +138,7 @@ delapse
 depicted
 daemonistic
 dowsing
-disconducive
+disconducive 1
 depopulates
 dilemma
 dewtry
