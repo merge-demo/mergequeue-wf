@@ -1878,7 +1878,7 @@ estoppel 1
 encystments
 elaterin
 ensepulchering
-expeller
+expeller 1
 elfin
 eremology
 erastian
