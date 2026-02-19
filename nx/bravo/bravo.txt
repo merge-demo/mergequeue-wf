@@ -841,7 +841,7 @@ bigamists
 browsers 1
 braggadocios
 bruxisms
-beflags
+beflags 1
 boohoos
 bebait
 bleachs
