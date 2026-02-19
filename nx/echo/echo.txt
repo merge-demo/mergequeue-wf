@@ -10833,7 +10833,7 @@ enecate
 engrafts
 existlessness
 embracer
-elastance
+elastance 1
 expurgatory
 ethide
 estivates
