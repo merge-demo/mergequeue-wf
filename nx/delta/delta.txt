@@ -17985,7 +17985,7 @@ dulat
 dulcamara 1
 diverticulum
 dispersedly
-disquietedly
+disquietedly 1
 desmorrhexis
 dulcetly
 digladiation
