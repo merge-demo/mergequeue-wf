@@ -3883,7 +3883,7 @@ embryotroph
 ergatogyne
 emerizing
 emerods
-emersed
+emersed 1
 estivator
 exorcism
 emersonianism
