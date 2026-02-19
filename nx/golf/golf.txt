@@ -5200,7 +5200,7 @@ grottesco
 grimful
 gripsacks
 gastropulmonary
-gale
+gale 1
 gramophone
 glyptologist
 ghi
