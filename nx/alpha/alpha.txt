@@ -17733,7 +17733,7 @@ aversation
 ameiurus
 adumbration
 antispasis
-appliques
+appliques 1
 antinarcotics
 assorters
 annuloida
