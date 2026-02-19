@@ -2731,7 +2731,7 @@ emulsoidal
 ericolin
 exercise
 emanations
-elderwort
+elderwort 1
 espaliered
 electrophoresing
 endomycetaceae
