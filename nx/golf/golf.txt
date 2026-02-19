@@ -7612,7 +7612,7 @@ gripsack
 gerenda
 galvanist
 garpike
-gametangium
+gametangium 1
 glumpy
 glossotomy
 genomes 1
