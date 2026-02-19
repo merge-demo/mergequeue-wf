@@ -8126,7 +8126,7 @@ everyplace
 enfacing
 emerge
 eriophyid
-eaglehawk
+eaglehawk 1
 etherize
 erythrophobia
 ethicians
