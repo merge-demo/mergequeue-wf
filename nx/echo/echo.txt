@@ -5716,7 +5716,7 @@ engineless
 engineman 1
 epitheliolysis
 empoisoned
-endorsee
+endorsee 1
 egalites
 embrace
 ejaculum
