@@ -248,7 +248,7 @@ glaires
 glyph
 gumminess
 garfish
-galoisian
+galoisian 1
 graziery
 geoplagiotropism
 gnomon
