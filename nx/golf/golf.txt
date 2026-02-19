@@ -9026,7 +9026,7 @@ ghostflower
 galvayne
 glomera
 groveless
-galoshes
+galoshes 1
 gateways
 gothlander
 granulomatous
