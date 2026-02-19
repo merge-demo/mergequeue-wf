@@ -4209,7 +4209,7 @@ furze
 foyaitic
 fairstead 1
 feathery
-fumago
+fumago 1
 frier
 forecloses
 fattenable
