@@ -12318,7 +12318,7 @@ abutment
 androgynies
 aphesis
 abstains
-androgone
+androgone 1
 andrographis
 autoallogamy
 accelerated
