@@ -13341,7 +13341,7 @@ educts
 exembryonate
 encroach
 exorcisms
-elaeis
+elaeis 1
 explosively
 equipt
 elusively
