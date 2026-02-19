@@ -7417,7 +7417,7 @@ albumeniser
 albumenization
 autolatry
 albumenized
-autopathography
+autopathography 1
 aerophoto
 amasesis
 albumenizer
