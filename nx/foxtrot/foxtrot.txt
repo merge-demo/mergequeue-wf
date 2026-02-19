@@ -11656,7 +11656,7 @@ fossorious
 filamented
 fancify
 favored
-funerealness
+funerealness 1
 foreknowing
 fusus
 feedlot
