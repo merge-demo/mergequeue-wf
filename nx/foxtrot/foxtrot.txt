@@ -5965,7 +5965,7 @@ fermentum
 frenchiness
 flockings
 fudged
-fulsamic
+fulsamic 1
 fluidmeter 1
 falbelo
 formularist
