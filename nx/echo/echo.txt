@@ -3387,7 +3387,7 @@ emanatist
 excludability
 eustachium
 epical
-erupt
+erupt 1
 enterer
 exodic
 enwreath
