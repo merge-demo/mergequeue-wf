@@ -6412,7 +6412,7 @@ ferments
 fpm
 fanaticised
 frolicness
-furuncle
+furuncle 1
 friars
 floriculturist
 flaking
