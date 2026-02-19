@@ -11618,7 +11618,7 @@ detainee
 devillike
 defiant
 devildom
-dithering
+dithering 1
 discerpibility
 dames
 disconsolately
