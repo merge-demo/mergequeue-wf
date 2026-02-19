@@ -9530,7 +9530,7 @@ equipondious
 escry
 equalisation
 escribientes
-electricans
+electricans 1
 eucosia
 enworthy
 epiphanising
