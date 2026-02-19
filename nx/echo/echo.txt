@@ -13438,7 +13438,7 @@ excitatory
 emaciates
 eltime 1
 espadrilles
-existentialists
+existentialists 1
 energizer
 embruted
 emeroid
