@@ -12293,7 +12293,7 @@ abnormally
 acervuli
 anticourt
 arbitraries
-anisotropic
+anisotropic 1
 androclinia
 atrabilaire
 apprest
