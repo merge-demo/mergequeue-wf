@@ -9049,7 +9049,7 @@ agama
 antipeptone
 ametropic
 accipitres
-ambulates
+ambulates 1
 acarodermatitis
 applejack
 allwork
