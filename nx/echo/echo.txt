@@ -6316,7 +6316,7 @@ extenuate
 embrocation
 ejusd
 evetide
-eumycetes
+eumycetes 1
 equijacent
 edeology
 enthralment
