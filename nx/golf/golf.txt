@@ -9465,7 +9465,7 @@ groundskeeping
 gadaea
 gallbladders
 gothicism
-gastrulate
+gastrulate 1
 garniec
 grapple
 grumblesome
