@@ -11160,7 +11160,7 @@ foretack
 frumple
 fingerhold 1
 featurally
-forefather
+forefather 1
 force
 fyrdung
 figged
