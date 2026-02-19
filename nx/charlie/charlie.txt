@@ -8337,7 +8337,7 @@ centriciput
 cenotaphs
 contraponend
 chamicuro
-calcifuge
+calcifuge 1
 challenger
 challenging
 chumar
