@@ -3029,7 +3029,7 @@ discourses
 deerweed
 denticulate
 dollyway
-detest
+detest 1
 deeses
 deepfrozen
 dorsoapical

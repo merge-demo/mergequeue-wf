@@ -10771,7 +10771,7 @@ feltwort
 footraces
 frutex
 fligger
-fruticetum
+fruticetum 1
 fecklessness
 fleabites
 facy
