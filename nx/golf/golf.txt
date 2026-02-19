@@ -129,7 +129,7 @@ ghillie
 girth
 gavialoid
 granddada
-gallicole
+gallicole 1
 gorgedly
 gunfighter
 guy
