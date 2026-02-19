@@ -11345,7 +11345,7 @@ confirm
 corollate
 convenee 1
 cressweed
-cotemporary
+cotemporary 1
 chlorophyllase
 chlorophyllian
 consolamentum
