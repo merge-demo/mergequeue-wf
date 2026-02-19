@@ -529,7 +529,7 @@ glasshouse
 garad
 grazioso
 grumpiest 1
-geisotherm
+geisotherm 1
 gynecocracies
 gilravager
 gup
