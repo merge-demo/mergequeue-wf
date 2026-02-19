@@ -6034,7 +6034,7 @@ deceitfully
 devilward
 denunciative
 despiser
-dolesomeness
+dolesomeness 1
 deaneries
 divorces
 damfoolish
