@@ -6681,7 +6681,7 @@ greillade
 guid
 graybeard
 gonoblastidial
-goyish
+goyish 1
 gelly
 geometroid
 glossitic
