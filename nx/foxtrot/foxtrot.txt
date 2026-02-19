@@ -4366,7 +4366,7 @@ fleshings
 feaked
 fosslify 1
 frankify
-flimmer
+flimmer 1
 feerie
 fetography
 fatigueless
