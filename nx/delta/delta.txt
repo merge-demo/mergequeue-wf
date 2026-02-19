@@ -13842,7 +13842,7 @@ dissuit
 depigmentation
 disorient
 dignifies
-deflexible
+deflexible 1
 dialogistically
 demurral
 driftpin
