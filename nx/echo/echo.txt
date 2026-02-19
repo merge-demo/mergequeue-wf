@@ -3788,7 +3788,7 @@ encumbers
 etruscans
 embrocates
 efflower
-erugation
+erugation 1
 electroendosmotic
 entophytal
 economite
