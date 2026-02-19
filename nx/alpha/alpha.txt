@@ -13488,7 +13488,7 @@ attendee
 acrodactylum
 authenticator
 autonomous
-acuminose
+acuminose 1
 annular
 antihierarchical
 algy
