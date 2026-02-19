@@ -12135,7 +12135,7 @@ extravertively
 epural
 excursiveness
 enterate
-equiangularity
+equiangularity 1
 excurvated
 enamorato
 energy
