@@ -6769,7 +6769,7 @@ girders
 gatewayman
 gentlemanism
 grecize
-gelatiniform
+gelatiniform 1
 goodwill 1
 gibel
 gravilea
