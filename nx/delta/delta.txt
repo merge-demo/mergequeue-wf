@@ -3794,7 +3794,7 @@ dittologies
 denigrative
 donkey 1
 dialyzator
-dicier
+dicier 1
 disjecting
 darnedest
 duplexed
