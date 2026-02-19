@@ -22801,7 +22801,7 @@ clovers
 cabers
 cuvette
 consecrator
-consecratory
+consecratory 1
 consectary
 calcavella
 collectional
