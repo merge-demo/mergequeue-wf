@@ -3052,7 +3052,7 @@ fenestra 1
 frostless
 foursquare 1
 fractionalization
-fibril
+fibril 1
 fuzing
 fluorin
 frounceless
