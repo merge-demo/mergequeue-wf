@@ -3189,7 +3189,7 @@ gwendolen
 gigantomachy
 gular
 garetta
-galerus
+galerus 1
 gaudiness
 glenn
 gio
