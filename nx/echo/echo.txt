@@ -1811,7 +1811,7 @@ effractor
 electroscission
 epigenic
 eparchs
-epimerase
+epimerase 1
 emanator
 ethnarchy
 emolumentary
