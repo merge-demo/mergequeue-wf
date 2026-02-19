@@ -2749,7 +2749,7 @@ finfish
 foys
 friezed
 fraternization
-fussify
+fussify 1
 folklore
 fedity
 fumarine
