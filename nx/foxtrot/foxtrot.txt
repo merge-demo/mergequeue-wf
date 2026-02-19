@@ -1974,7 +1974,7 @@ fulvid 1
 ferrocyanate
 forejudging
 flector
-forerake
+forerake 1
 flapperdom
 flippest
 fetichmonger
