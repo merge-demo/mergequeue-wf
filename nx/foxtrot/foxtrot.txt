@@ -7318,7 +7318,7 @@ fleetings
 fluidglycerate 1
 flanderkin
 fraggings
-fossillike
+fossillike 1
 fb 1
 fecial
 frocked
