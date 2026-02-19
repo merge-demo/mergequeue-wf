@@ -884,7 +884,7 @@ greensickness
 gated
 gwen 1
 gnashes
-glycaemia
+glycaemia 1
 grumousness
 gawkishness
 gatewise

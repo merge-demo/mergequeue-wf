@@ -7448,7 +7448,7 @@ destuffs
 dryophyllum 1
 detrusion
 detumescence
-detune
+detune 1
 detuning 1
 dynastically
 dimplier
