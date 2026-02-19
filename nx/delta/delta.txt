@@ -12848,7 +12848,7 @@ dirhem
 duci
 dunnages
 dicotyledon
-devotionally
+devotionally 1
 dogmatic
 destructor
 dam
