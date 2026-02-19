@@ -12645,7 +12645,7 @@ angeluses
 anticreeping
 amorpha
 anger
-adiaphoresis
+adiaphoresis 1
 acrasieae
 alkalinizing
 advocateship
