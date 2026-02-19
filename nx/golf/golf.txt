@@ -4121,7 +4121,7 @@ gyrencephalic
 gibbi
 grahamism
 gynomonoecism
-gigback
+gigback 1
 geratic
 gasan
 goetic
