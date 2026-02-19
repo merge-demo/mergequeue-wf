@@ -12616,7 +12616,7 @@ encirclement
 eyesalve
 expostulates
 elvira
-entophyte
+entophyte 1
 exoculation
 exteriorness
 erucivorous
