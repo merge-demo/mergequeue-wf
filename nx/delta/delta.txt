@@ -13122,7 +13122,7 @@ dipnoan
 dispensatory
 detrain
 demonifuge
-destructive
+destructive 1
 develed
 declaratively
 dispensatress
