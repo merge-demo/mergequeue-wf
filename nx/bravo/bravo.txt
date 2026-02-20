@@ -3970,7 +3970,7 @@ boiko
 buccolingual
 bunch
 blastomycetous
-bristols
+bristols 1
 behelp
 bengaline
 bdellovibrio
