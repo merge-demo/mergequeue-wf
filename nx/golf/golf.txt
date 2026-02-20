@@ -6078,7 +6078,7 @@ gastrogenous
 gravities
 gerocomy
 goodby
-gordiacean
+gordiacean 1
 gehlenite
 girja
 golundauze
