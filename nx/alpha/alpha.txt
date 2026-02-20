@@ -22380,7 +22380,7 @@ anangioid
 astrogeology
 aridity
 ariadne
-anemia
+anemia 1
 anniversaries 1
 astroglia
 affluentness
