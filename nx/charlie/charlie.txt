@@ -21589,7 +21589,7 @@ contraoctave
 coercer 1
 cofinal
 concurs
-concursion
+concursion 1
 copesmate
 compulsorily
 concurso
