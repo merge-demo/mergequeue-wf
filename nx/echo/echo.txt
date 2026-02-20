@@ -2437,7 +2437,7 @@ emplection
 electrodialyze
 essayical
 extrabold
-evenglow
+evenglow 1
 empiristic 1
 esloign
 entailment
