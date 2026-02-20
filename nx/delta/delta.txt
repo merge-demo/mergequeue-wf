@@ -5518,7 +5518,7 @@ dosadh
 disintensify
 demicolumn
 diffusionism
-depascent
+depascent 1
 detruss
 deprival
 depasture
