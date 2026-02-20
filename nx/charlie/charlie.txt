@@ -28934,7 +28934,7 @@ cribellum
 cribose
 cribriform
 cloque
-cohosts
+cohosts 1
 cribriformity
 convertaplane
 cribs
