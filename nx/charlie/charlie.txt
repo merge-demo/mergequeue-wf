@@ -1308,7 +1308,7 @@ calfless
 calflike
 calfling 1
 creatural
-calgary
+calgary 1
 caliban
 clogged
 crissal
