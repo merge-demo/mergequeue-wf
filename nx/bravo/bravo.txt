@@ -2432,7 +2432,7 @@ bistratose
 biocoenosis
 bobtails
 bardess
-balantidiasis
+balantidiasis 1
 bulliest
 balearian
 bowdlerised
