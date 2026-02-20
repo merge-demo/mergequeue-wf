@@ -1863,7 +1863,7 @@ flintier
 foredoom
 footstep
 fourdrinier
-finalize
+finalize 1
 fibrinokinase
 flamboyantize
 faradizing
