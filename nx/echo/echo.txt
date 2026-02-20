@@ -10723,7 +10723,7 @@ euglenaceae
 extrasyllabic
 embraced
 equiaxe
-endopleural
+endopleural 1
 euripus
 epitra
 erebus
