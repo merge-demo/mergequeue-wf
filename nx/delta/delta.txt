@@ -15287,7 +15287,7 @@ diffuse
 drapping
 diasporas
 dirling
-dolphinlike
+dolphinlike 1
 decadescent
 dolphins 1
 discountenance 1
