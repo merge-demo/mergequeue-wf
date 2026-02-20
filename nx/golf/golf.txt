@@ -2884,7 +2884,7 @@ goadlike
 geocerite
 gubernation
 greenheaded
-gasoscope
+gasoscope 1
 glumpish
 generalization
 gavelkind
