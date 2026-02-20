@@ -9291,7 +9291,7 @@ frenchy
 faradomuscular
 frontispieced
 francas
-fresnel
+fresnel 1
 foresentence
 fetishist
 fungillus
