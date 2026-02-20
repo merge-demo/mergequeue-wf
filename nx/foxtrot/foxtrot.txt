@@ -9647,7 +9647,7 @@ fleeceable
 firefly
 forswear
 fdub
-frieseite
+frieseite 1
 floridly
 frailest
 fleabugs
