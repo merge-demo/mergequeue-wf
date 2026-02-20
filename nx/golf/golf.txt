@@ -9257,7 +9257,7 @@ gueridon
 giraffidae
 gritted
 gazi
-gutturality
+gutturality 1
 guggles 1
 gulae
 grizzel 1
