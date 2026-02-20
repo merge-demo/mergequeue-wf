@@ -9440,7 +9440,7 @@ darshana
 dedit
 displume
 destructively
-digamma
+digamma 1
 demilegato
 downfeed
 dodgier
