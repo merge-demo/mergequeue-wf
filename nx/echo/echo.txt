@@ -8639,7 +8639,7 @@ equidimensional
 electrodialitically
 equidist
 educ
-equispatial
+equispatial 1
 elater
 endophytically
 eyebolts
