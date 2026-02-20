@@ -7480,7 +7480,7 @@ fusk
 fatalistic
 foreclose
 foreparent
-foolisher
+foolisher 1
 falterers
 fort
 foveate
