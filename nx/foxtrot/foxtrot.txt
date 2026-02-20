@@ -2514,7 +2514,7 @@ faldworth
 footsore
 flaps 1
 foreswear 1
-fastballs
+fastballs 1
 frush 1
 frecket
 foreshortens
