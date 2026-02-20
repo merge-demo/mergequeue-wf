@@ -2964,7 +2964,7 @@ deediness
 dorsales
 distale
 demiman
-directorates
+directorates 1
 desiccative
 doubtlessness
 deedless
