@@ -16775,7 +16775,7 @@ dominee
 dey
 demurely
 discretively
-decurtate
+decurtate 1
 dravite
 daniglacial
 dullest
