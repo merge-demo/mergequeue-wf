@@ -10933,7 +10933,7 @@ fretwork
 fended
 fetal
 floorage
-fack
+fack 1
 francs
 fogging
 forgetness
