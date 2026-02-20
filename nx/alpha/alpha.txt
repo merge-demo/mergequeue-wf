@@ -9313,7 +9313,7 @@ amenorrhea
 antipoetic
 aerobated
 assessments
-accumulates
+accumulates 1
 alagarto
 alraun
 andesyte
