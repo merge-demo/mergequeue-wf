@@ -7982,7 +7982,7 @@ epicele
 exordia
 epimandibular
 enthrone
-eardrop 1
+eardrop 2
 equivocatory
 esquiring
 elflock
