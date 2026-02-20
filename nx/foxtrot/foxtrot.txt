@@ -4002,7 +4002,7 @@ fingerer
 finagler
 flaunch
 fleshquake
-fingerers
+fingerers 1
 feed
 forecastles
 funnelform
