@@ -7082,7 +7082,7 @@ galeres
 grassmen
 gregorianist
 gastral
-germanist
+germanist 1
 gammy
 gargarize
 gaumish

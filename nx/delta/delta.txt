@@ -3942,7 +3942,7 @@ dimethylamino
 ditchdigging
 dkm 1
 dindling
-decontaminates
+decontaminates 1
 demonstratory
 dunstone
 dendrochronologically
