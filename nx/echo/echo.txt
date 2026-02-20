@@ -11887,7 +11887,7 @@ engracing
 excavator 2
 excave
 epist
-eructated
+eructated 1
 extancy
 extradotal
 exceeded
