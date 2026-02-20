@@ -11975,7 +11975,7 @@ extracostal 1
 expellers
 enhorror
 engrafter
-ecuador
+ecuador 1
 excise
 elsehow
 excitant
