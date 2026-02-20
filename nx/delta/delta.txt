@@ -10485,7 +10485,7 @@ distraite
 dourly
 dialogues
 diversity
-diffusional
+diffusional 1
 diphthongally
 disenable
 dizziest
