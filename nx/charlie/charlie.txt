@@ -9049,7 +9049,7 @@ charmonium
 charms
 charneco
 charnockite
-charnockites
+charnockites 1
 conglomeratic
 ceratostomella
 curlicuing
