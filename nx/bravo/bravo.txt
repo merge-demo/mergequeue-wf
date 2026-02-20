@@ -3790,7 +3790,7 @@ biologists
 bowstringed
 beachwear
 battues
-bourdis
+bourdis 1
 bawcocks
 bielded
 bicuspids
