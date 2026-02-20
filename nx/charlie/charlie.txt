@@ -3748,7 +3748,7 @@ clawlike
 canvasback
 cucumaria
 coraji
-cretinoid
+cretinoid 1
 carara
 cheneaux
 carat
