@@ -6559,7 +6559,7 @@ beefeaters
 bard
 bundoc
 bedevilled
-bahima
+bahima 1
 berberidaceae
 broils
 berberidaceous
