@@ -8294,7 +8294,7 @@ grippingness
 gleave
 gaseosity
 gastraeadae
-galenite
+galenite 1
 glissaded
 galilei
 gladii
