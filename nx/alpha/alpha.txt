@@ -4837,7 +4837,7 @@ aliyoth
 arache
 aerodonetics
 appeasement
-amnesiac
+amnesiac 1
 aerodontalgia
 agamidae
 arcanum
