@@ -2293,7 +2293,7 @@ bigmouths
 bacons
 blastment
 breccial
-bandar
+bandar 1
 barbarized
 bargainwise
 beleaping
