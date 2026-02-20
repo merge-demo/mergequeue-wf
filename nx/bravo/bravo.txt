@@ -11689,7 +11689,7 @@ bragget
 bulletining
 beneficience
 bribability 1
-boattail
+boattail 1
 byeworkman
 blazoners
 bosks 1
