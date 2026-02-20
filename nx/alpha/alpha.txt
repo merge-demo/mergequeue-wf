@@ -17948,7 +17948,7 @@ arsyl
 approvedly
 agcy
 antiempirical
-anisodactyle
+anisodactyle 1
 anthropogenous
 allodialism
 anthropophysiography
