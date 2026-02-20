@@ -14,7 +14,7 @@ epidermoid
 erigeron
 evaporometer
 explait
-emigate
+emigate 1
 epidotiferous
 epanorthidae
 emblazon
