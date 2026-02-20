@@ -14054,7 +14054,7 @@ capivi
 corpuscle
 circe
 circean
-cuirasses
+cuirasses 1
 circensian
 cobalts
 coxcombs
