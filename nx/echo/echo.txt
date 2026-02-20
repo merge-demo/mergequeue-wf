@@ -4775,7 +4775,7 @@ enscrolling
 elator
 enclosures
 emmenia
-erethic
+erethic 1
 eguttulate
 enterotomy
 epiopticon
