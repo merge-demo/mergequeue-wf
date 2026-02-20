@@ -816,7 +816,7 @@ fonds
 flatulently
 frowsy
 forgedly
-flagleaf
+flagleaf 1
 flusher
 florilege 1
 faucial 1
