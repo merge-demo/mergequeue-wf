@@ -16635,7 +16635,7 @@ discompt
 dicers
 dottedness
 depressor
-destigmatize
+destigmatize 1
 deeny
 diaphyses
 drains
