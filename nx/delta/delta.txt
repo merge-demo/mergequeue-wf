@@ -6457,7 +6457,7 @@ desamidase 1
 demipuppet
 desands
 descale
-downrightly
+downrightly 1
 dequeues
 descant
 dalcassian
