@@ -9401,7 +9401,7 @@ diffusate
 djinni
 duplicator
 diffusers
-diffuses
+diffuses 1
 depleted
 danaidean
 demilitarizing
