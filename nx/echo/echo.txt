@@ -4420,7 +4420,7 @@ encapsulation
 escapement
 exceeding
 emitted
-emporeutic
+emporeutic 1
 encapsuled
 echoed 1
 enure
