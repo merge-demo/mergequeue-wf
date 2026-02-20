@@ -5043,7 +5043,7 @@ gastrogenital
 gv
 gerunds 1
 gemmulation
-glycopexis
+glycopexis 1
 grandparents
 gustful
 gularis
