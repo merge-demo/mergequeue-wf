@@ -9495,7 +9495,7 @@ earflower
 escopeta
 embryos
 euphemistical
-exosporium
+exosporium 1
 endochorion
 evulgate
 ethylsulphuric
