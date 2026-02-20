@@ -14507,7 +14507,7 @@ cysted
 cysteinic
 cysteins
 cyclolith
-coker
+coker 1
 carpogonia
 cystelcosis
 cosmologic
