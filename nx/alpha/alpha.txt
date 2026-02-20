@@ -20318,7 +20318,7 @@ arsenicked
 aphelia
 afterwards
 autometry
-anatriptic
+anatriptic 1
 amendments
 anastatic
 aquatile
