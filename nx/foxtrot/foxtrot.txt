@@ -1106,7 +1106,7 @@ farsighted
 flatiron
 flaunt
 farsightedness
-flooring
+flooring 1
 forkedly 1
 formularisation
 fissiparity
