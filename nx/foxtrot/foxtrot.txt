@@ -2472,7 +2472,7 @@ flabile 1
 foretellable
 finale
 foamlike
-foredetermine 1
+foredetermine 2
 fluellin
 fernyear
 furison
