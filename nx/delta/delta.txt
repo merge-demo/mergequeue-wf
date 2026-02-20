@@ -8818,7 +8818,7 @@ deeryard
 dyschroia
 dixieland
 doggies
-diecious
+diecious 1
 dipala
 demethylation
 diazotype
