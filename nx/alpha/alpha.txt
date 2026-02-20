@@ -24632,7 +24632,7 @@ azosulphine
 antispiritual
 apotheosize
 amantadine
-avalanches
+avalanches 1
 acrologic
 actless
 arrogated
