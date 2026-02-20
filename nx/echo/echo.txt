@@ -5918,7 +5918,7 @@ enhearten
 enfevering
 echinoderes
 exantlation
-exhilaration
+exhilaration 1
 ensilist
 enhelm
 enfamous
