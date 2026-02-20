@@ -11390,7 +11390,7 @@ dilacerating
 deodands
 dowhacky
 dehydrogenise
-delimiter
+delimiter 1
 dephasing
 dentalization
 diabases
