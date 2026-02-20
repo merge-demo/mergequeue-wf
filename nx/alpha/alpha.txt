@@ -10780,7 +10780,7 @@ ammonolitic
 assemblage
 archeological
 anticult
-amphib
+amphib 1
 antianthropocentric
 afrits
 ammonolyzing
