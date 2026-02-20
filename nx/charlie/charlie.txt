@@ -26349,7 +26349,7 @@ cling
 coteen
 cotele
 cotemporanean 1
-cotemporaneously
+cotemporaneously 1
 carnalized
 caravel
 clubbable
