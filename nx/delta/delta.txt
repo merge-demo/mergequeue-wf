@@ -4182,7 +4182,7 @@ diddest
 defeasibleness
 diminutely
 delphiniums
-dismeasurable
+dismeasurable 1
 dossal
 delphocurarine
 dermatopsy
