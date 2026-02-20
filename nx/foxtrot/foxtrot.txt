@@ -8835,7 +8835,7 @@ foreprise
 flashtube
 frustula
 fimbrillae 1
-felty
+felty 1
 flunks 1
 facebar
 favorably
