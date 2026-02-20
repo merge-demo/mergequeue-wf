@@ -10042,7 +10042,7 @@ furlongs
 flagons
 fanga 1
 feudalize
-forerevelation
+forerevelation 1
 fecundations
 frilled
 fultz
