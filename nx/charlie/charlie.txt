@@ -5725,7 +5725,7 @@ ciliella
 congregationist
 creamware
 catoptromancy
-catastate
+catastate 1
 catasterism
 clearings
 catastrophal
