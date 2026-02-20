@@ -11321,7 +11321,7 @@ chlorogenic
 cladoniaceous
 caducary
 coradicate
-chloroma
+chloroma 1
 cooptative
 ctimo
 copelidine
