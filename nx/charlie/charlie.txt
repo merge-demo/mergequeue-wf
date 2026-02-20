@@ -28828,7 +28828,7 @@ churchwards
 chloralide
 chasings 1
 creta
-counterorator
+counterorator 1
 chirographic
 commander
 comte
