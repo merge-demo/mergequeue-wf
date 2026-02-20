@@ -10808,7 +10808,7 @@ gonenesses
 glibbery
 gossipping
 galvanotropic
-geniolatry
+geniolatry 1
 gesneraceous
 goldtail
 gloeal
