@@ -6770,7 +6770,7 @@ buffball
 betimes
 berossos
 beround
-bendability
+bendability 1
 berreaves
 berrettas
 bemouth
