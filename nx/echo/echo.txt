@@ -1866,7 +1866,7 @@ ellipse
 eyeglasses
 embedding
 electroneutrality
-elinguate
+elinguate 1
 evenest
 enigmatical
 eighties
