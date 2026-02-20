@@ -9848,7 +9848,7 @@ geneticism
 ganodus
 gifblaar
 girting
-gluconeogenic
+gluconeogenic 1
 gawcie
 grounden
 ghebeta
