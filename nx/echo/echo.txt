@@ -13009,7 +13009,7 @@ enciphers
 eucrasy
 expecter
 enzym
-encephalopyosis
+encephalopyosis 1
 erminette
 extremity
 elevations 1
