@@ -10556,7 +10556,7 @@ exploitation
 extraplacental
 epivalve
 exochorion
-equichangeable
+equichangeable 1
 expreme
 emblemizing
 echinoids
