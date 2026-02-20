@@ -5357,7 +5357,7 @@ gymnocarpic
 glycosidically
 gitter
 grotesqueries
-gelandejump
+gelandejump 1
 geckoid
 gravitating 1
 gingal
