@@ -7569,7 +7569,7 @@ egophony
 expoliate
 ecuelle
 etherate 1
-engiscope
+engiscope 1
 epulation
 eulamellibranch
 epicardia
