@@ -12390,7 +12390,7 @@ chromatopsia
 chromatoptometry
 couch
 cobalticyanic
-chromatoscopy 1
+chromatoscopy 2
 clump
 circumduct
 chromatosis
