@@ -10571,7 +10571,7 @@ fulminations
 fashioners
 forcipiform
 frowze
-finestill
+finestill 1
 franking
 formose
 fluky
