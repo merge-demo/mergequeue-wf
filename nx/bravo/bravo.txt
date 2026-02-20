@@ -1510,7 +1510,7 @@ brewis
 breathtaking
 beryllonite
 balker
-bastardise
+bastardise 1
 ballhausplatz
 byronize
 balkiness
