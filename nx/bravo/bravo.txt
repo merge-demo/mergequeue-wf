@@ -10774,7 +10774,7 @@ blandishes
 bebatter
 blennorrhagia
 bankers 1
-blennosis
+blennosis 1
 bureaucracy
 backlog
 bolectioned
