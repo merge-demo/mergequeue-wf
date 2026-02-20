@@ -5614,7 +5614,7 @@ geothermal
 gasps
 gyrators
 gloomings
-goos
+goos 1
 gunyang
 gammadia 1
 ghostish
