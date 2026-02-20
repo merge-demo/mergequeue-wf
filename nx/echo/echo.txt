@@ -1150,7 +1150,7 @@ erionite
 equivalencing
 enarthrosis
 epitrichial
-encatarrhaphy
+encatarrhaphy 1
 erichthoid
 ejectee
 enarm
