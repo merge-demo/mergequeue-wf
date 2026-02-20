@@ -6842,7 +6842,7 @@ grainman
 goosed
 garnishing
 gooseneck
-gregarina
+gregarina 1
 grecians
 getters
 graticulate
