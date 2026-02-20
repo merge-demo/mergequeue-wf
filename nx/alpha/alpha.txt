@@ -13872,7 +13872,7 @@ antagonism
 anastalsis
 altiloquence
 alef
-angioparalytic
+angioparalytic 1
 arboret
 alligators
 anticrepuscular
