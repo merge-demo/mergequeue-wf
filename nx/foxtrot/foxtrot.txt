@@ -11275,7 +11275,7 @@ fibroglia
 furbish
 flaxwife
 frigorify
-furrowed
+furrowed 1
 foregut
 fanaticized
 fourpenny
