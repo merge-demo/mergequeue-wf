@@ -9427,7 +9427,7 @@ grifting
 galloptious
 glycocholate
 gaelic
-gamble
+gamble 1
 goto
 gingivoglossitis
 gramercies
