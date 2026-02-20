@@ -17974,7 +17974,7 @@ domanial
 dropsied 1
 decompensate
 deplumate
-decongestive
+decongestive 1
 dukes
 dithers
 deifical

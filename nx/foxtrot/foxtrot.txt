@@ -1906,7 +1906,7 @@ federalistic
 frogger
 furling
 flaunted
-fangot
+fangot 1
 froze
 fungible
 freebie
