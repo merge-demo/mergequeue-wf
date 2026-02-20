@@ -8071,7 +8071,7 @@ gan
 gobelin
 galempung
 galleries
-geophysical
+geophysical 1
 glottic
 goasila
 gravat
