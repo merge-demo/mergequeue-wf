@@ -8915,7 +8915,7 @@ crenelet
 concisest 1
 concyclic
 charco
-crutches
+crutches 1
 caramboled
 cynophilist
 chromolithographer
