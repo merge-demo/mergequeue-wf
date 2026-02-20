@@ -28933,7 +28933,7 @@ criticist
 cribellum
 cribose
 cribriform
-cloque
+cloque 1
 cohosts 1
 cribriformity
 convertaplane
