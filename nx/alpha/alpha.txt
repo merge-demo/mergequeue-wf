@@ -18860,7 +18860,7 @@ archididascalos 1
 archidome
 attemperance
 audient
-anaemia
+anaemia 1
 antipolitics 1
 archidoxis
 airy
