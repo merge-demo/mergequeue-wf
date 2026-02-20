@@ -8099,7 +8099,7 @@ drawbores
 desmolase
 dupping
 diabolise
-diabolist
+diabolist 1
 detrusive
 defrauders
 deuterodome
