@@ -978,7 +978,7 @@ famelic
 friarbird
 fares
 feats
-faretta
+faretta 1
 foresaid
 foldable
 foresightedness
