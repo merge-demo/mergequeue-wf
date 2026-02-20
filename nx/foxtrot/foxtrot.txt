@@ -11318,7 +11318,7 @@ furfuralcohol
 freebees
 flathat
 floodlight
-faceted
+faceted 1
 funebrious
 faujasite 2
 formals
