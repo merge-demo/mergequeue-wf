@@ -10483,7 +10483,7 @@ follied
 foreadvice
 floreating
 floran
-fluxional
+fluxional 1
 fruitfully
 forecastle
 floe
