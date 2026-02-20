@@ -18382,7 +18382,7 @@ depolishing
 diaphanoscope
 decency
 decemplex
-desertic
+desertic 1
 duodenoenterostomy
 disembody
 decrier 1
