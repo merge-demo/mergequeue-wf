@@ -13726,7 +13726,7 @@ deceivingly
 diminutive
 deducible
 digestedly
-disseating
+disseating 1
 denationalising
 dimmish
 diplantidian
