@@ -5454,7 +5454,7 @@ forelaid
 fivefoldness
 flimsies 1
 fause
-fosterite
+fosterite 1
 fondlesome
 flits
 farinaceous
