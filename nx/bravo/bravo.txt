@@ -3953,7 +3953,7 @@ ballotage
 boracium
 buttonholes
 betatters
-bdellium
+bdellium 1
 bdelliums
 bdelloid
 bdellometer
