@@ -6029,7 +6029,7 @@ gnathopodite
 gneissic
 gluon
 gasifying
-gruffiness
+gruffiness 1
 grewsomer
 growse
 goitres 1
