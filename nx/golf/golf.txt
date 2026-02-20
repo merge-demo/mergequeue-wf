@@ -2045,7 +2045,7 @@ gantry
 gazzetta
 goutily
 gavels 1
-gloriana
+gloriana 1
 gavia
 gaynesses
 girsh
