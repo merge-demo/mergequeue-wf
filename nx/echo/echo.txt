@@ -954,7 +954,7 @@ emperies
 extrastate
 episedia
 encomiastic
-excommunicators
+excommunicators 1
 endosporous
 exampled
 envision
