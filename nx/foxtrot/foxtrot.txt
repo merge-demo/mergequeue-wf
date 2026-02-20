@@ -5096,7 +5096,7 @@ fossores
 forepaw
 ferries
 falsifies
-fizz
+fizz 1
 flauntiest
 faithbreaker
 fraudful 1

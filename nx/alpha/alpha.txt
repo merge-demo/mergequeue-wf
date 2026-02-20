@@ -6364,7 +6364,7 @@ antimeter
 axanthopsia
 angloman
 are
-agamous
+agamous 1
 applyment
 ambled
 aurine
