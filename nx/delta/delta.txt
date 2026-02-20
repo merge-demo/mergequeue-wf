@@ -5512,7 +5512,7 @@ disjects
 dorper
 discomfits
 deoxygenation
-depancreatize
+depancreatize 1
 deoxygenized
 dosadh
 disintensify
