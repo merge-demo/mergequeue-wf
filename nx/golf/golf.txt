@@ -4361,7 +4361,7 @@ gorgoneia
 gloss
 gemmated
 gutless
-gameless
+gameless 1
 gildable
 grides
 gentamicin
