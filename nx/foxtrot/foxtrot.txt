@@ -11165,7 +11165,7 @@ force
 fyrdung
 figged
 fungation
-fremdness
+fremdness 1
 farhand
 fibrinocellular
 felspar
