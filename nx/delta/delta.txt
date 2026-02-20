@@ -6896,7 +6896,7 @@ desoxalic
 dialled
 duopolies
 despair
-delirous
+delirous 1
 disulfoxid
 drunken
 disembowelments
