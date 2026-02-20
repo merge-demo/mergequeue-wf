@@ -7126,7 +7126,7 @@ gynecoid
 gremio 1
 guayaba
 greenfly
-gore
+gore 1
 gorebill 1
 gibing
 gearboxes
