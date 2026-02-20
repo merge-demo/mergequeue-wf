@@ -1456,7 +1456,7 @@ bureaucratical
 bedye
 bronchoconstrictor 1
 brankier
-begroan
+begroan 1
 backchat
 bight
 barker
