@@ -10989,7 +10989,7 @@ batel
 blocky
 beckets
 braid
-blacksmiths
+blacksmiths 1
 burbling
 billowy 1
 boehmenite
