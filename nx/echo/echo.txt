@@ -11689,7 +11689,7 @@ elfic
 empaneled
 ensear
 enforcibility
-entity
+entity 1
 embordering
 experienced
 epulosis
