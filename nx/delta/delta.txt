@@ -15081,7 +15081,7 @@ detant
 dogget
 doggrelize 1
 dottrels 1
-dorlot
+dorlot 1
 doghead
 doghood
 dogie
