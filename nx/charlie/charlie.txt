@@ -20046,7 +20046,7 @@ captiously
 curwillet
 cabretta
 commender
-craftsman
+craftsman 1
 commending
 chemurgies
 chirring
