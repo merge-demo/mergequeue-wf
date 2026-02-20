@@ -1558,7 +1558,7 @@ evanishes
 emptings 1
 elytrous
 entraining
-enigmatic
+enigmatic 1
 eurythermal
 expostulative
 egg
