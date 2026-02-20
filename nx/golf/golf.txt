@@ -4433,7 +4433,7 @@ gelds
 gleefulness
 gypped
 geest
-goldenly
+goldenly 1
 giardia
 gyp
 gundog
