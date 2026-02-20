@@ -8524,7 +8524,7 @@ fratery
 foxtrot
 foreseeability 1
 flunkydom
-fistiana
+fistiana 1
 flowages
 fiefs
 forgivableness
