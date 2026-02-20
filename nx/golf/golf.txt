@@ -4922,7 +4922,7 @@ glosses
 gigger
 guaiacolize
 gradual
-gawby
+gawby 1
 glaive
 growliness
 gynandroid
