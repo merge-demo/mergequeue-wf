@@ -2634,7 +2634,7 @@ busybodies
 blindfold
 ballons
 burets
-becharmed
+becharmed 1
 brands
 baritenor
 barberry
