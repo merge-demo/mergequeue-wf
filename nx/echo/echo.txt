@@ -7772,7 +7772,7 @@ endrins
 exterritorially
 emergents
 eudemonic
-extraversively
+extraversively 1
 englify
 enterprising
 edelweisses
