@@ -9512,7 +9512,7 @@ anthonin
 aeroembolism
 ascence
 alulim
-actable
+actable 1
 alumel
 agrom
 alumic
