@@ -1049,7 +1049,7 @@ calcaneoplantar
 countersale
 clausule
 calcaneoscaphoid
-calcaneum
+calcaneum 1
 calcannea
 calcannei
 chloroplastid
