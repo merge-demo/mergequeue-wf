@@ -4404,7 +4404,7 @@ esthesiometry
 enbrave
 esd
 egotize
-experiential
+experiential 1
 emphasised
 endoparasite
 ethambutol
