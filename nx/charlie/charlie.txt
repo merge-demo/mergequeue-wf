@@ -23917,7 +23917,7 @@ conuzee
 closeable
 cleanness
 convalesced
-curvedly
+curvedly 1
 convalescence
 convalescently
 convalescents
