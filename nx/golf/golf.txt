@@ -902,7 +902,7 @@ gammock
 gillnetted
 gainsaid
 groper
-glassiness
+glassiness 1
 goners 1
 gamps
 galloons
