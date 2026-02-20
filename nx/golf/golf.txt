@@ -659,7 +659,7 @@ gatelike
 goneril
 gastronomer
 gardebras
-gonfalon
+gonfalon 1
 gratillity
 greeters
 grunters
