@@ -9361,7 +9361,7 @@ differentiator
 defalcates
 depots
 diplopia
-dinarchies
+dinarchies 1
 dorymen
 drawknife
 differs
