@@ -8004,7 +8004,7 @@ glottologies
 gnomonologically
 gradualist
 gonocalyx
-galline
+galline 1
 gainer
 guttee
 glouts 1
