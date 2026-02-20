@@ -3732,7 +3732,7 @@ atticized
 advisership
 antiblock
 assistance
-adhere
+adhere 1
 atticists
 adhered
 adherency
