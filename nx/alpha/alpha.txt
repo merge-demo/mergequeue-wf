@@ -12290,7 +12290,7 @@ absistos
 auk
 abstrusities
 abnormally
-acervuli
+acervuli 1
 anticourt
 arbitraries
 anisotropic
