@@ -12549,7 +12549,7 @@ exsects
 enounce
 embubble
 exite
-envied
+envied 1
 epistolist
 entryman
 eft
