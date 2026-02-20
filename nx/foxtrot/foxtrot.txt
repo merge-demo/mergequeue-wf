@@ -8512,7 +8512,7 @@ fleches
 fluidal
 formylal
 fervorless
-footsoreness
+footsoreness 1
 farnovian
 fiuman
 fanaticising
