@@ -2844,7 +2844,7 @@ bureaus
 barites
 bolding
 bell 1
-betulaceous
+betulaceous 1
 bullated
 baroqueness
 boneache
