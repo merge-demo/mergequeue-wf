@@ -5634,7 +5634,7 @@ beverage
 battlement
 bronchopleurisy
 baghla 1
-barbitone
+barbitone 1
 businessmen
 barbarizes
 bardes
