@@ -92,7 +92,7 @@ filao 1
 forcelessness
 fightable
 facetiae
-fabulists 1
+fabulists 2
 foldboater
 fringillidae
 frangi
