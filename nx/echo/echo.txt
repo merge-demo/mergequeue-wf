@@ -2682,7 +2682,7 @@ emprime
 ethnocentrism
 extinguisher
 exegetist 1
-electroballistician
+electroballistician 1
 ectocornea
 exsec
 endothelioid
