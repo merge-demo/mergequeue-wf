@@ -2043,7 +2043,7 @@ fascicule
 flaunting
 fairyisms
 farl
-fungic
+fungic 1
 flagellators
 flumerin
 fops
