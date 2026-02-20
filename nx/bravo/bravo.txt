@@ -9628,7 +9628,7 @@ bisects
 blethers
 banalize
 bamangwato
-bosky
+bosky 1
 baboot
 biset
 belshazzaresque
