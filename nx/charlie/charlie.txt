@@ -4050,7 +4050,7 @@ carcinological
 carcinoma
 cauliferous
 carbocyclic
-curtesy
+curtesy 1
 carcinomata
 corroborees
 cafeneh
