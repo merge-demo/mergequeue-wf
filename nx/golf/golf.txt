@@ -8959,7 +8959,7 @@ gauntries
 gallinazo
 glimpses
 grissel 1
-gu
+gu 1
 gluttonous
 gumbolike
 glaucopis
