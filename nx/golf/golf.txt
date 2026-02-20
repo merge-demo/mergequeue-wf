@@ -6592,7 +6592,7 @@ gombo
 glassine
 gaed
 globulysis
-glycosuria
+glycosuria 1
 gossans
 gurglingly
 gilgie
