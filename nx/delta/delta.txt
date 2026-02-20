@@ -15531,7 +15531,7 @@ donsie
 deflocculent
 donsky
 dispersing
-drivellingly
+drivellingly 1
 doubt
 deflux
 deltas
