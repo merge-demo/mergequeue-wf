@@ -8815,7 +8815,7 @@ draconid
 diffident
 dung
 deeryard
-dyschroia
+dyschroia 1
 dixieland
 doggies
 diecious 1
