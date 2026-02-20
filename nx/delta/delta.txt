@@ -14636,7 +14636,7 @@ divulgation
 dolly
 deozonize
 display
-deviler
+deviler 1
 divulged
 diminuted
 despite
