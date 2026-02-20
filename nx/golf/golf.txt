@@ -1218,7 +1218,7 @@ goldy
 generalizations
 gondolas
 gambolled
-galligaskin
+galligaskin 1
 graspingly
 gravures
 giddy
