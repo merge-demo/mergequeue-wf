@@ -7865,7 +7865,7 @@ bibionid
 banxring
 bathochromatism
 brackebuschite 1
-bardie
+bardie 1
 beneventan
 brainchild
 bewreath
