@@ -5625,7 +5625,7 @@ everduring
 egling
 exiguities
 enforces
-endocentric
+endocentric 1
 encouraging
 eirene
 ecchymose
