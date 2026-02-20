@@ -327,7 +327,7 @@ daylights
 deutomalar
 discourages
 dorylinae
-droughtiness
+droughtiness 1
 daymares
 disseizes
 diarists
