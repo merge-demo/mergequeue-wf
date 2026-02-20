@@ -9817,7 +9817,7 @@ chemehuevi
 chemiatric
 chapeless
 corrugates
-cowardliness
+cowardliness 1
 clubroot
 combattants
 carpologist

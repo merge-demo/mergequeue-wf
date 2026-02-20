@@ -158,7 +158,7 @@ guimbard
 glassworm
 goliardic
 goliathize
-goniometry
+goniometry 1
 gradgrind
 gingery
 gasolines 1
