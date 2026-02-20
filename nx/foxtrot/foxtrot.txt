@@ -3519,7 +3519,7 @@ fulnesses
 forbare
 foe
 fluosilicic
-frequently
+frequently 1
 forecome
 fordays
 foetalism
