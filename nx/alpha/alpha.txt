@@ -11280,7 +11280,7 @@ autocephaly
 absorptance
 abating
 amplication
-anticipated
+anticipated 1
 assignable
 aftercause
 avanguardisti
