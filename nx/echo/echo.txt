@@ -10351,7 +10351,7 @@ eukairite
 extemporise
 exaggerative
 ethonomics
-ethnocentric
+ethnocentric 1
 encyclopaedical 1
 evasiveness
 eroticist
