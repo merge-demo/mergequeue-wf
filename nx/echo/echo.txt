@@ -5981,7 +5981,7 @@ escaped
 ectad
 emetomorphine
 extrameridian
-eunicid
+eunicid 1
 equiexcellency
 exploitable
 endeavored
