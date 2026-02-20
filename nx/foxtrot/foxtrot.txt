@@ -3906,7 +3906,7 @@ fluorite 1
 fecundating
 financer
 farci
-fripperies
+fripperies 1
 fevertrap
 footslogged
 findable
