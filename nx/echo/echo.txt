@@ -7261,7 +7261,7 @@ equipages
 euvrou
 electrodialytic
 epistasis
-enchesoun
+enchesoun 1
 enantiomorphic
 enzootically
 enfin
