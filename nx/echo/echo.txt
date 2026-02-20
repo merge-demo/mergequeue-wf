@@ -7461,7 +7461,7 @@ elapsed
 etalon
 extenuated
 encheat
-eternalizing
+eternalizing 1
 eperua
 expands
 embitters
