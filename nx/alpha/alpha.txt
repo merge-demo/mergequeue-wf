@@ -23510,7 +23510,7 @@ augure
 augured 1
 abeigh
 afterlifetime
-anteroposteriorly
+anteroposteriorly 1
 apiculus
 anarcotin
 astasia
