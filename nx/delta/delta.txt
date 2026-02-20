@@ -3538,7 +3538,7 @@ dagobas
 deceitful
 desmomyaria
 dedifferentiation
-dufoil
+dufoil 1
 drapery
 disuses
 drowsiest
