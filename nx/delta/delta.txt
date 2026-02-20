@@ -16997,7 +16997,7 @@ denominant
 dolomedes
 ductibility
 diverse
-defray
+defray 1
 disbark
 drepaniform
 dukhobor
