@@ -2202,7 +2202,7 @@ camping
 campions
 contemporaneously
 calcaneus
-cample
+cample 1
 cordyline
 conges
 cornamute 1
