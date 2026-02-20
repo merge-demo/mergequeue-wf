@@ -10281,7 +10281,7 @@ domiciliar
 dissolvative
 doura
 distruss
-decrepid
+decrepid 1
 dondine
 devaluing
 denitrator
