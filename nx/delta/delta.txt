@@ -11092,7 +11092,7 @@ dactyliology
 deciatine 1
 disappropriate
 distrusting
-deferring
+deferring 1
 delassement
 determinateness
 disapprovals
