@@ -11419,7 +11419,7 @@ fingerlike
 ferling
 fatality 1
 furred 1
-fascis
+fascis 1
 frieze
 founte
 foreflap
