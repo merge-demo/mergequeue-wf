@@ -2502,7 +2502,7 @@ eruption
 emotionalise
 estrangelo
 etamin
-envelopers
+envelopers 1
 electroing
 eidola
 ectotheca
