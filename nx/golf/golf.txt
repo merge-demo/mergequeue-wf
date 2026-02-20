@@ -4517,7 +4517,7 @@ glider
 gawp
 gymnosporous
 gmelinite
-ghostwriter
+ghostwriter 1
 gyrate
 gyrated 1
 grees
