@@ -7629,7 +7629,7 @@ bimolecular
 baric
 beriberi
 beeyard
-briefs
+briefs 1
 burbankian
 borne
 barkening
