@@ -6689,7 +6689,7 @@ foredoomed 1
 fibromyxoma 1
 flowerpot
 fishybacking
-floater
+floater 1
 fustoc
 fructiparous
 fairgrass
