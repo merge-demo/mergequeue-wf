@@ -5533,7 +5533,7 @@ diplomate
 dyscrase
 dwarfing
 disharmonizing
-dalt
+dalt 1
 depended
 darker
 dolichopellic
