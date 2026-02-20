@@ -4529,7 +4529,7 @@ eery
 enrange
 entrepreneurial 1
 extensibility
-enactive
+enactive 1
 emerita
 ephorate
 ethynylation
