@@ -17748,7 +17748,7 @@ burrbark
 bloodied 1
 brevetting
 bedrolls
-balaenoid
+balaenoid 1
 burrers
 blepharoconjunctivitis
 buccinal
