@@ -5517,7 +5517,7 @@ deoxygenized
 dosadh
 disintensify
 demicolumn
-diffusionism
+diffusionism 1
 depascent 1
 detruss
 deprival
