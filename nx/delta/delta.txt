@@ -15534,7 +15534,7 @@ dispersing
 drivellingly 1
 doubt
 deflux
-deltas
+deltas 1
 disnatural
 diocesian
 diathermize
