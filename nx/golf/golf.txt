@@ -8699,7 +8699,7 @@ growler 1
 golosh
 geognostically 1
 gravamen
-gentlemanship
+gentlemanship 1
 girosols
 gunneries
 griece
