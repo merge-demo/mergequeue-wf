@@ -2452,7 +2452,7 @@ decision 1
 dhobey
 disvulnerability
 defeatists
-decisional
+decisional 1
 decisions
 dismayingness
 decisis
