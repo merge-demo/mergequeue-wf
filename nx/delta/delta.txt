@@ -11812,7 +11812,7 @@ deport
 disarticulation
 dosserets
 deinodon
-discriminating
+discriminating 1
 dismastment
 dacryuria
 drawbridges
