@@ -6872,7 +6872,7 @@ caloris
 carbonatization
 cornicular
 cellules
-cellulifugal
+cellulifugal 1
 constructors
 counterphobic
 crevasse
