@@ -1539,7 +1539,7 @@ glar
 gregarinoidea
 gluelikeness
 gassing 1
-germproof
+germproof 1
 garottes
 gelated
 gentilesse
