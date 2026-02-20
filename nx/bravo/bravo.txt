@@ -11446,7 +11446,7 @@ bonser
 bimillenium
 bluepoint
 bluepoints
-belzebub
+belzebub 1
 blobby
 blueprint
 backfilling
