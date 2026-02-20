@@ -17371,7 +17371,7 @@ archosyrinx
 alkalamide
 autothaumaturgist
 altruisms
-afret
+afret 1
 archenemy
 apothecium
 antozonite
