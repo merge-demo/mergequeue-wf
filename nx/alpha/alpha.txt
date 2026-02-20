@@ -543,7 +543,7 @@ agnizes
 assarion
 ablatitious
 atavisms 1
-acephala
+acephala 1
 aventre
 ablatival
 alimentotherapy
