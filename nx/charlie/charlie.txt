@@ -742,7 +742,7 @@ chirologies
 cephalata
 cordylanthus
 cageless
-canorous
+canorous 1
 cycloses
 cageman 1
 crematory
