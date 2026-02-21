@@ -3926,7 +3926,7 @@ donne
 delabializing
 delayable
 demes
-delayful
+delayful 1
 dyscrasic 1
 dooli
 devitalisation
