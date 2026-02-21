@@ -171,7 +171,7 @@ enchylema
 encephalomeric
 errite
 enzygotic
-enable
+enable 1
 emeutes
 emargination
 equivalencies
