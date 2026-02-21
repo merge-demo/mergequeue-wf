@@ -9835,7 +9835,7 @@ expurgator
 endopleuritic
 ebriously
 ethnol
-egocentricity
+egocentricity 1
 enthronising
 enslumber
 endolymphic
