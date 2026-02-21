@@ -11884,7 +11884,7 @@ bodykins
 bankruptship
 biographic
 bahuvrihi
-blast
+blast 1
 bobtail 1
 bucku 1
 beento
