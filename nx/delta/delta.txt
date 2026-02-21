@@ -6381,7 +6381,7 @@ dispersity
 derogator
 derogatory 1
 drawer
-deplorate
+deplorate 1
 disincorporating
 deferentially
 distenant
