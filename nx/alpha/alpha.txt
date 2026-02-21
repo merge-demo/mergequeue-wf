@@ -17685,7 +17685,7 @@ axhead
 aerator
 assyriology
 antiquities
-applejohn
+applejohn 1
 adaption
 analogice
 albuginea
