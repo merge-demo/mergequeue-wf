@@ -7775,7 +7775,7 @@ flanes
 footler
 fotch
 fondant
-fritters
+fritters 1
 foredestiny
 franciscanism
 fisticuffery
