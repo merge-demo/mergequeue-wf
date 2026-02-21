@@ -9760,7 +9760,7 @@ emerick 1
 enneahedron
 exodist
 epileptiform
-euhedral
+euhedral 1
 ectogenesis
 exoticity
 enrobing
