@@ -4050,7 +4050,7 @@ evidenced
 encumbrous
 emulsifiers
 evangelize
-euphorbial
+euphorbial 1
 entases
 ejaculate
 empirema
