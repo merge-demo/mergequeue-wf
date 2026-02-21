@@ -912,7 +912,7 @@ anabong
 autoeducative
 adequacies
 audiometric
-anisuria
+anisuria 1
 apogeotropic
 aures
 absyrtus
