@@ -14465,7 +14465,7 @@ dressmaker
 damnously
 delicacy
 dimethylamine
-divert
+divert 1
 deafen
 defunctionalization
 disdeify
