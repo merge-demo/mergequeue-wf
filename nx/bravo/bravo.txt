@@ -4608,7 +4608,7 @@ bicellular
 bedaub
 besuit
 bodilize
-bundeli
+bundeli 1
 baleare 1
 borborus
 bedaubing
