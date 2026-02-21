@@ -3288,7 +3288,7 @@ elaterist
 evacuee
 electioneers
 extuberance
-ecliptical
+ecliptical 1
 elt
 experimentalist
 elaters
