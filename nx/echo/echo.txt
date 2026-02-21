@@ -9633,7 +9633,7 @@ elaboratively
 endodermal
 extraperiosteal
 entfaoilff
-ebullitive
+ebullitive 1
 episporium
 emptiest
 equiparable
