@@ -895,7 +895,7 @@ freighters
 fids
 farawayness
 feteritas
-foreshow
+foreshow 1
 fennelflower
 formalazine
 functionalizing
