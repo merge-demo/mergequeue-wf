@@ -2202,7 +2202,7 @@ facilitated
 forebye
 febricitation
 farraginous
-ferroelectricity
+ferroelectricity 1
 fantasmagoria
 fixe
 fritted

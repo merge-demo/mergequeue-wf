@@ -9663,7 +9663,7 @@ grabbling
 grubstakes
 gemmula
 grewsomest
-gossipy
+gossipy 1
 glycyrize 2
 guestmaster
 gesturer
