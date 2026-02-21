@@ -1626,7 +1626,7 @@ albanian
 accoutres
 accredit
 artic 2
-argenteum
+argenteum 1
 accreditations 1
 absentmindedness
 alliably
