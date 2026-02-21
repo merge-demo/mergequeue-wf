@@ -14192,7 +14192,7 @@ esthetics
 elimination
 ensilation
 expertism
-emasculate
+emasculate 1
 enruin
 exurge
 erodable
