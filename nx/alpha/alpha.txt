@@ -5483,7 +5483,7 @@ aldehyde
 auburns
 ailuropoda
 antifreezing
-afterpast
+afterpast 1
 afterplanting
 acknew
 afterreckoning
