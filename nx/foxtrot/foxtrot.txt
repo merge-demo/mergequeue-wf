@@ -10729,7 +10729,7 @@ fortran
 flunkeyistic
 flavedo
 frutescence
-fetter
+fetter 1
 folkmots
 frontward
 forcemeat

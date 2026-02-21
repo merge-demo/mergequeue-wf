@@ -5963,7 +5963,7 @@ endaortitis
 enigmata
 eluvial
 eosins 1
-exdelicto
+exdelicto 1
 enigmatist
 epotation
 enigmatizing
