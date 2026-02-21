@@ -12203,7 +12203,7 @@ anticipate
 anconas
 ancony
 amblyopsis 1
-aruncus
+aruncus 1
 argufiers
 ancraophobia
 ankyloses
