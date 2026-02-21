@@ -22097,7 +22097,7 @@ confluxible
 coempt
 carbureting
 champert
-conormal
+conormal 1
 caroach
 conformability
 cyprinoid
