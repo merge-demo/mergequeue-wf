@@ -7093,7 +7093,7 @@ disaproned
 drowsed
 demesmerize
 descriptiveness
-desto
+desto 1
 desists
 disvalues
 darted
