@@ -5204,7 +5204,7 @@ editchar
 equinely
 escoba 1
 entier
-erythrogen
+erythrogen 1
 encinder
 engregge
 etiotropically
