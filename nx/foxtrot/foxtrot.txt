@@ -7198,7 +7198,7 @@ fortalice
 frontoparietal
 fallectomy
 fumbulator
-footers
+footers 1
 frayedly
 fatherlandish
 forebroads
