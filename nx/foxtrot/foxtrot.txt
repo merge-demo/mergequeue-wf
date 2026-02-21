@@ -7512,7 +7512,7 @@ flogster 1
 ferredoxin
 firecrest
 finner
-flyback
+flyback 1
 freemen
 falconer
 flagginess
