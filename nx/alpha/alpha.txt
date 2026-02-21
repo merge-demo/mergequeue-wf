@@ -1196,7 +1196,7 @@ adjustor
 acanthia
 anthropogenetic
 apocryphally
-acanthion
+acanthion 1
 acanthocephalous
 alfoncino
 anaerobian 1
