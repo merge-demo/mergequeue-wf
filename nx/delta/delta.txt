@@ -9954,7 +9954,7 @@ dawnlight
 distances
 drollishness
 devonian
-decolorant
+decolorant 1
 disenthrall
 driftless
 droved
