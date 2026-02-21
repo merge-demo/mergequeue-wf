@@ -5088,7 +5088,7 @@ glassmaking
 guerite
 gossiper
 grammatic
-gomerec
+gomerec 1
 grittier
 gossamer
 gunman

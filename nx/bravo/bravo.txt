@@ -16968,7 +16968,7 @@ bugwort
 bacteriophagy
 banca
 brasilete
-burdensomely
+burdensomely 1
 bunyip
 buick
 buildings
