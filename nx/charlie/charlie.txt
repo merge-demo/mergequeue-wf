@@ -9208,7 +9208,7 @@ chastest
 censurers
 ceduous
 chastiment
-cryology
+cryology 1
 clapperboard
 cheering
 chastity
