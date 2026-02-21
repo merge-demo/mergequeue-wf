@@ -11788,7 +11788,7 @@ disrespectable 1
 dehydrogenize
 dogblow 1
 demurrages 1
-disported
+disported 1
 damoclean
 dizzen
 depths
