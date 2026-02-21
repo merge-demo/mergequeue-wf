@@ -10705,7 +10705,7 @@ foresheets
 fleuretty
 flirtishness 1
 fortuneless
-foredoing
+foredoing 1
 fecks
 foederati
 formularising
