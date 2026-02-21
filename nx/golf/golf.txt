@@ -8961,7 +8961,7 @@ glimpses
 grissel 1
 gu 1
 gluttonous
-gumbolike
+gumbolike 1
 glaucopis
 guess
 genae
