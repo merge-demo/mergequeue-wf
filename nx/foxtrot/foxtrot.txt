@@ -6258,7 +6258,7 @@ firebreak
 forebemoaned
 funambulo 1
 frenchmen
-funguslike
+funguslike 1
 falange
 frication
 fivepence
