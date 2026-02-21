@@ -2878,7 +2878,7 @@ entomologize
 europhium
 ether
 eagre
-eruptives
+eruptives 1
 elephantoid
 elephantiasic
 emotionlessly
