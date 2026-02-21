@@ -2558,7 +2558,7 @@ ebcdic 1
 eyebright
 elaborations
 euonymous
-edgemaking
+edgemaking 1
 encomiologic
 escadrilles
 enthymematical
