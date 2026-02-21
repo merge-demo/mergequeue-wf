@@ -2688,7 +2688,7 @@ germanomania
 gusle
 grith
 genit
-galvanograph
+galvanograph 1
 geminal
 gnatho
 groundmass
