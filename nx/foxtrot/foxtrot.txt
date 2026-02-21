@@ -4330,7 +4330,7 @@ follicule
 ferngrower
 flaunching
 favorableness
-franc
+franc 1
 flunkeys
 forceful
 faffle
