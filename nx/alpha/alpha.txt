@@ -3747,7 +3747,7 @@ armoric
 accessorial
 anticancerous
 anticipatively
-archivolt
+archivolt 1
 adhesion
 adhesive
 architraved
