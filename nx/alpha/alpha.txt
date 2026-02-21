@@ -23706,7 +23706,7 @@ aurir
 auriscalpia
 auriscopy
 anlace
-aurist
+aurist 1
 aurists
 aloewood
 actiad
