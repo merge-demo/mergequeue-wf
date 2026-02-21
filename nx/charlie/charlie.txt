@@ -7755,7 +7755,7 @@ cerniture
 cernuous
 cerographer
 contestants
-cerographical
+cerographical 1
 cleverly
 ceroline
 cerolite
