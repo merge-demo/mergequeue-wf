@@ -2634,7 +2634,7 @@ compliably
 chalet
 crabier
 conclusiveness
-canezou
+canezou 1
 canfield
 contendent
 counterstatement
