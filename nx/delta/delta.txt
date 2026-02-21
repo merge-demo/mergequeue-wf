@@ -15259,7 +15259,7 @@ dendroclastic
 dervishism
 disconcerted
 dissolves
-devant
+devant 1
 decelerate
 dhotee
 droopt
