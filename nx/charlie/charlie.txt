@@ -27967,7 +27967,7 @@ catchpole
 cradlesongs 1
 cradling
 cryesthesia
-calamitous
+calamitous 1
 craft
 cit
 craftiest
