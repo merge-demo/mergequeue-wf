@@ -1436,7 +1436,7 @@ calipeva
 caliph
 caliphal
 caliphate
-colt
+colt 1
 cubist
 caliphship
 contradebt
