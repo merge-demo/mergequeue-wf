@@ -12948,7 +12948,7 @@ energetically
 epistomal
 electrothermostatic
 expansibility
-electropuncturing
+electropuncturing 1
 executer
 eupatorium
 ectognatha
