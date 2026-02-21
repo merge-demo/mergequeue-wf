@@ -13776,7 +13776,7 @@ devolvements
 disacryl
 devastatingly
 delectible
-dollishness
+dollishness 1
 dawdlingly
 drove
 dissolutely
