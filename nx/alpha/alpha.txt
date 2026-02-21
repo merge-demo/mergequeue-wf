@@ -24593,7 +24593,7 @@ atomization
 attitudinise
 abamperes
 autorrhaphy
-auxology
+auxology 1
 ammonea
 argentarius
 anachorism
