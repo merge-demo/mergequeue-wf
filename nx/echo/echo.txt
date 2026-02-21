@@ -13378,7 +13378,7 @@ enhunger
 ethicist 1
 embog
 enchytraeid
-everywhen 1
+everywhen 2
 enaction
 enfonce
 excretive
