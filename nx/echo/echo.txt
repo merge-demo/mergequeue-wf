@@ -1562,7 +1562,7 @@ enigmatic 1
 eurythermal
 expostulative
 egg
-endosternum
+endosternum 1
 eolipile
 encumber
 episcopised
