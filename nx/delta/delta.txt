@@ -17379,7 +17379,7 @@ dunged
 dropmeal
 declined
 dropping
-declaims
+declaims 1
 departmentalisation
 droppings
 drops
