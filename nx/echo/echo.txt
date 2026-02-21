@@ -784,7 +784,7 @@ emigree
 epithecal
 ecossaise
 electrothanatosis
-emancipate
+emancipate 1
 extoled
 effaces
 egressive
