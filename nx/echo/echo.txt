@@ -66,7 +66,7 @@ exhibiter
 evenblush
 earless 1
 eryngoes
-early
+early 1
 epipactis
 erodibility
 egoisms
