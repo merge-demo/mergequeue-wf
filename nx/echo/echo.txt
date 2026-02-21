@@ -10812,7 +10812,7 @@ electrogilding
 endosporic
 entombment
 eumycete
-espeire
+espeire 1
 expiating
 enterodelous
 elaborating
