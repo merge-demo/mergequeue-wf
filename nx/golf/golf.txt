@@ -3614,7 +3614,7 @@ granilla
 gossameriness
 gluing
 grouching
-glucosuric
+glucosuric 1
 gnarliness
 gedder
 gypsyry
