@@ -8775,7 +8775,7 @@ ergatomorphism
 edo
 ethysulphuric 1
 embrowd
-escortment
+escortment 1
 endopods
 equities
 equivalenced
