@@ -1823,7 +1823,7 @@ distained 1
 decriminalize
 dicyanid
 degeneratively
-deformability
+deformability 1
 defeudalize
 debilitative
 danseuses
