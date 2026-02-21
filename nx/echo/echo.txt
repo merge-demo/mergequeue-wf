@@ -5659,7 +5659,7 @@ extranatural
 excreting
 elasmosaurus
 everbearing
-entozoans
+entozoans 1
 euploid 1
 eneuch
 endophasic
