@@ -7877,7 +7877,7 @@ entomotaxy
 extirpationist
 explanatorily
 essentialized
-expiratory
+expiratory 1
 euraquilo
 extractions
 ephymnium
