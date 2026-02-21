@@ -8078,7 +8078,7 @@ dysgenical
 dentex
 divinatory
 deciliters
-decidable
+decidable 1
 dichogamic
 dinosaurs
 disguisal
