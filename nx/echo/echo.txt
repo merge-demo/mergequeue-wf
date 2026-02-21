@@ -6226,7 +6226,7 @@ execs
 ellipsoid
 erasure
 enophthalmus
-encoders
+encoders 1
 explorement
 expectingly
 enfetter
