@@ -8408,7 +8408,7 @@ firmans
 floppy
 fallaciousness 1
 frontlash
-felling
+felling 1
 feezing
 framboise
 fornications
