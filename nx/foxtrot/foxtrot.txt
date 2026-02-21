@@ -3814,7 +3814,7 @@ fortifiers
 fillingly
 fungal
 flyflap
-freon
+freon 1
 ferritization 1
 friponerie
 fertilizes
