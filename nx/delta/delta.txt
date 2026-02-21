@@ -16950,7 +16950,7 @@ dree
 docentship
 dunces
 deteriorate
-dayan
+dayan 1
 degasification
 daggar
 desiccant
