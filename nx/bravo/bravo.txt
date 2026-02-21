@@ -8670,7 +8670,7 @@ billowiest
 bepaw
 basify
 bistriate
-bounceable
+bounceable 1
 begorah
 baseness
 bebization
