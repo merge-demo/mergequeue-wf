@@ -7455,7 +7455,7 @@ glaring
 glossist
 glamourous
 gummaker
-gelatined 1
+gelatined 2
 grabbier
 grunerite
 gomerals

@@ -2861,7 +2861,7 @@ eleoptene
 endomastoiditis
 exostracize
 eucharistized
-eleostearic
+eleostearic 1
 embusy
 enseat 1
 eggrolls
