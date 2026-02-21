@@ -503,7 +503,7 @@ endgame
 enanthesis
 epitheliomata
 evector
-easiest
+easiest 1
 enchiridia
 ecclesia
 elapsing
