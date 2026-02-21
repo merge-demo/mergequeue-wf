@@ -9028,7 +9028,7 @@ episarkine
 electrotypist
 erythremia
 endameba
-epicoracoid
+epicoracoid 1
 expansible
 ecdysons
 entertainer
