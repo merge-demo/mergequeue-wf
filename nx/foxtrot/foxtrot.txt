@@ -11374,7 +11374,7 @@ figurally
 frenula
 flegm
 factionaries
-floaty
+floaty 1
 frescos
 facies
 furnish
