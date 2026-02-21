@@ -7396,7 +7396,7 @@ enlightenments
 eccoprotic
 eucaine
 elate
-eparchies
+eparchies 1
 eternization
 equinoctial
 eparterial
