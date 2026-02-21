@@ -6168,7 +6168,7 @@ disarrangement
 demast
 droshkies
 decrepitness
-domable
+domable 1
 dipsomaniacal
 derestrict
 disputations

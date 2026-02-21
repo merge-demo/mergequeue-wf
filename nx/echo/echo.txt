@@ -7434,7 +7434,7 @@ epithetical
 extollment
 earthmoving
 equipollency
-elric
+elric 1
 emissile
 entombs 1
 epencephala
