@@ -7675,7 +7675,7 @@ enterohelcosis
 epicortical
 englobed
 electrophoric
-extinguishment
+extinguishment 1
 enterocinetic
 esere
 educed
