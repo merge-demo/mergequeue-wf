@@ -13648,7 +13648,7 @@ disseverment
 dissheathed
 downwards
 dosimetrist
-deliverance
+deliverance 1
 disciplinative
 disshiver
 desecrate
