@@ -9970,7 +9970,7 @@ estrums
 ethenol
 enskies
 eichwaldite
-entify
+entify 1
 exfoliating
 examinate
 extrospection
