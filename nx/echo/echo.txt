@@ -13630,7 +13630,7 @@ echinomys
 emprent
 eelcatcher
 empedoclean
-endamebiasis
+endamebiasis 1
 effossion
 endwise
 equines
