@@ -2596,7 +2596,7 @@ embryonate
 epitomising
 ecad
 encyclopaedian
-extravenate
+extravenate 1
 endomitosis
 encallow
 electrodiagnoses
