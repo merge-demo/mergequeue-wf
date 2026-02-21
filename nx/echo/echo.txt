@@ -4563,7 +4563,7 @@ escuela
 earlock
 enodation
 excoction
-euphemized
+euphemized 1
 excrementitious
 enchancement
 empeoplement
