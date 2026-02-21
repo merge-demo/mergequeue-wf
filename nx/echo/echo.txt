@@ -6362,7 +6362,7 @@ encourage
 excitomotion
 eburna
 eruditely
-enfeeblement
+enfeeblement 1
 estonian
 enshelter
 echoize
