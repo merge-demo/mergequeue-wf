@@ -5428,7 +5428,7 @@ endseal
 erecter
 evinces
 endshake
-easterly
+easterly 1
 enfirm
 eaglelike
 esthetology
