@@ -11616,7 +11616,7 @@ denotable
 dollarfish
 detainee
 devillike
-defiant
+defiant 1
 devildom
 dithering 1
 discerpibility
