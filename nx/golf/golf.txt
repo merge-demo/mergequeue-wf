@@ -6600,7 +6600,7 @@ gangliar
 geoglossaceae
 grittiest
 guarantee
-gibsons
+gibsons 1
 gyrodyne
 gambusias
 gravels 1
