@@ -8063,7 +8063,7 @@ exocline
 elasticized
 euploids
 exscript
-epigonal
+epigonal 1
 essenced
 ehtanethial
 ensigned
