@@ -7465,7 +7465,7 @@ gravitation
 gazania
 gau
 geodesy
-geranial
+geranial 1
 gades
 gentilities
 gonorrhoea
