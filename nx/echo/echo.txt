@@ -13016,7 +13016,7 @@ elevations 1
 ensnarls
 exhaust
 expectorant
-entame
+entame 1
 epithelialize
 excitation
 expectorated
