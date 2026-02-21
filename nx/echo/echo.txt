@@ -9500,7 +9500,7 @@ endochorion
 evulgate
 ethylsulphuric
 embanks
-entwist
+entwist 1
 exonerators
 earthbred 1
 eliquation 1
