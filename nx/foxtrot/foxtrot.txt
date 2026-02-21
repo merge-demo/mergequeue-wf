@@ -7098,7 +7098,7 @@ fontal
 fougasse
 fantassin
 forehandedly
-flapmouthed
+flapmouthed 1
 forepromise
 fracas
 fervidness
