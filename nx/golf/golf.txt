@@ -3488,7 +3488,7 @@ grudger
 gynandromorphism
 gasteropod
 gewgawry
-grammaticize
+grammaticize 1
 gyrfalcon
 geriatric
 gladdening
