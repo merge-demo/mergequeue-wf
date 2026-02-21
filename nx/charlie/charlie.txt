@@ -31362,7 +31362,7 @@ cury
 countertrespass
 curia
 clodpoles
-curiae
+curiae 1
 cubiculum
 cobwebbing
 comodato
