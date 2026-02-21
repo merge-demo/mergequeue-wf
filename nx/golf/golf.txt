@@ -2099,7 +2099,7 @@ grottolike
 gabbards 1
 gainspeaking
 gardenia
-gastrostege
+gastrostege 1
 geison
 grossing
 genips
