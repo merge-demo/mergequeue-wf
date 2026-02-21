@@ -6146,7 +6146,7 @@ enrols
 evalue
 equivote
 ericineous
-enmity
+enmity 1
 eunuchism
 entracte 1
 encumbering
