@@ -1319,7 +1319,7 @@ fallowness
 frictionally
 favorability
 foramination 1
-flannelflower
+flannelflower 1
 flyable
 factionally
 faunal
