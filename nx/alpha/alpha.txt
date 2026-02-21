@@ -8421,7 +8421,7 @@ alkies
 assessable
 accelerograph
 alkylarylsulfonate
-anticyclically
+anticyclically 1
 anallergic
 agnate
 alkylate
