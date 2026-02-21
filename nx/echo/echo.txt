@@ -9962,7 +9962,7 @@ ensampler
 electrocautery
 enamelled
 estrif
-elisor
+elisor 1
 elohim
 elk
 emoting
