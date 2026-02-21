@@ -2033,7 +2033,7 @@ camiknickers
 cosmodrome
 camilla
 cacothes
-coursers
+coursers 1
 chariotlike
 cacholong
 calycanthemy

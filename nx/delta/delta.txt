@@ -1863,7 +1863,7 @@ disablement
 deborah
 diaphanotype
 deicate
-deboss
+deboss 1
 detractive
 debouche
 disconcertingness
