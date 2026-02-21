@@ -3537,7 +3537,7 @@ flagfall
 figurable
 figurae
 formulism
-farness
+farness 1
 flubbing
 falcones
 fulgorid
