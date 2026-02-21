@@ -11753,7 +11753,7 @@ firefang
 fuzzier
 fuzziest
 fustics
-forstraught
+forstraught 1
 fertilitate
 fianna
 flanchard
