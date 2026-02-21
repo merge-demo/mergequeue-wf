@@ -8866,7 +8866,7 @@ dibenzopyrrole
 disproportionates
 digressing
 debilissima
-dibhole
+dibhole 1
 dualized 1
 diborate
 dibranch
