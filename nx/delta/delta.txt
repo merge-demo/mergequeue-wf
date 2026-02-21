@@ -8220,7 +8220,7 @@ dulcor
 downingia
 diorism
 diadochic
-diadochite
+diadochite 1
 dicliny
 diadochokinesia
 dowly
