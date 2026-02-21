@@ -11938,7 +11938,7 @@ euploeinae
 ectoderms
 emotionalist
 exposedness
-extense
+extense 1
 enragement
 expurgation
 ephidrosis
