@@ -6558,7 +6558,7 @@ extroversion
 ephyra
 exactly
 entomophthora
-endurant
+endurant 1
 expenditor
 ended
 entangled
