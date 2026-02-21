@@ -7013,7 +7013,7 @@ fauna 1
 floriated
 fullwords
 frontlessly
-folliculitis
+folliculitis 1
 frt
 fluxed
 ferthumlungur
