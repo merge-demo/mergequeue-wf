@@ -5272,7 +5272,7 @@ garish
 gordiid
 galoubet
 garrulous
-gammers
+gammers 1
 gelinotte
 gledes
 geophilus
