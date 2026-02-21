@@ -9222,7 +9222,7 @@ engines
 enfork
 extraterritorials
 endosiphuncle
-elates
+elates 1
 embryophyte
 estensible
 emeute
