@@ -3390,7 +3390,7 @@ epical
 erupt 1
 enterer
 exodic
-enwreath
+enwreath 1
 endoesophagitis
 encompany
 enchyma
