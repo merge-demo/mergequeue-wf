@@ -2832,7 +2832,7 @@ duan
 dermatophone
 dramatizations
 dynatron
-decumanus
+decumanus 1
 datasets
 ditrematous
 decartelize

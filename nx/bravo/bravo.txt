@@ -9994,7 +9994,7 @@ balustraded
 besauce
 baresma
 brevirostral
-bawdy
+bawdy 1
 ballottine
 blairmorite
 byrlawmen
