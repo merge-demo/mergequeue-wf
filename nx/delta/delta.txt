@@ -13436,7 +13436,7 @@ deleing
 decedents
 disquisitions
 downgoing
-delicately
+delicately 1
 dismarble
 dracunculus
 deepfreezed
