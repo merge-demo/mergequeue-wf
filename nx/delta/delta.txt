@@ -246,7 +246,7 @@ deleteriousness
 dottled
 doze
 duckweeds
-deoxyribonuclease
+deoxyribonuclease 1
 denitrate
 dictyopteran
 dinked
