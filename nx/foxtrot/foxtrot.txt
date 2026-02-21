@@ -2297,7 +2297,7 @@ fixatifs
 foggy
 fictionalizes
 fondaco
-feminizes
+feminizes 1
 friday
 ftnerr 1
 forbysen
