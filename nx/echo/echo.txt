@@ -13227,7 +13227,7 @@ esparto
 eurithermophilic
 ervil
 exponentiation
-ermined
+ermined 1
 exotica
 entwinement
 extruded
