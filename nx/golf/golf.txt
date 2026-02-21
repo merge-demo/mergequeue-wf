@@ -4927,7 +4927,7 @@ glaive
 growliness
 gynandroid
 glaired
-gurries
+gurries 1
 gangway
 gapingly
 gladdened
