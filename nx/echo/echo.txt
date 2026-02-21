@@ -5427,7 +5427,7 @@ ecderonic
 endseal
 erecter
 evinces
-endshake
+endshake 1
 easterly 1
 enfirm
 eaglelike
