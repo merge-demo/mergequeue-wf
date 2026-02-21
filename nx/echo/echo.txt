@@ -5858,7 +5858,7 @@ enhanced
 extrasensible
 engraver 1
 eloign
-entree
+entree 1
 ebbman
 ethiops
 exprobrate
