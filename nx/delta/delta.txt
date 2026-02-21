@@ -15474,7 +15474,7 @@ diaries
 demultiplexes
 dihydrocuprin
 dejerate
-dispendious
+dispendious 1
 diabolism
 dendral
 dobbie
