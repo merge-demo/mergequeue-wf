@@ -14869,7 +14869,7 @@ anethum
 anticlinoria
 amphigouri
 axised
-anticlockwise
+anticlockwise 1
 asphaltum
 aheight
 anticlogging
