@@ -3870,7 +3870,7 @@ frustulum
 funk
 fadingly
 functionize
-firmnesses
+firmnesses 1
 frizzles
 fon
 fanglomerate
