@@ -6189,7 +6189,7 @@ derisively
 desertlike
 derisiveness
 dogtail
-dejeuners
+dejeuners 1
 deferable
 derival
 dendrogaea
