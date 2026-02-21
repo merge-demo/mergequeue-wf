@@ -1769,7 +1769,7 @@ assoria
 accusor
 annerre
 armouring
-archsynagogue
+archsynagogue 1
 anthropomantist
 adelaster
 armpit
