@@ -8495,7 +8495,7 @@ gibaro
 garum
 gandharva
 gekko
-glisteningly
+glisteningly 1
 gelsemiums
 glossotype
 gelatinization
