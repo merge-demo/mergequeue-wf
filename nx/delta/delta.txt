@@ -4465,7 +4465,7 @@ drinkableness
 defrauder
 demiculverin
 dodgiest
-demidistance 1
+demidistance 2
 diaclastic
 diaphane
 diabetogenic
