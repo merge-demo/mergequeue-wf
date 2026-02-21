@@ -2013,7 +2013,7 @@ epilate
 ethoses
 ektexine
 episternite
-effront
+effront 1
 evictees
 enantiomorphism
 emulsic
