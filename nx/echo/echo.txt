@@ -3008,7 +3008,7 @@ enlarged
 etagere
 encephalomyocarditis
 eudaemons
-eligibles
+eligibles 1
 electicism
 entrecotes
 equipede 1
