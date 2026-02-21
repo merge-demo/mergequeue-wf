@@ -7002,7 +7002,7 @@ antiplethoric
 amphiarthrodial
 akin
 anre 1
-akinesic
+akinesic 1
 avicenniaceae
 azotes
 archarios
