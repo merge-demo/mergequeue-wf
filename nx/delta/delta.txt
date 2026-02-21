@@ -12837,7 +12837,7 @@ driftfish
 deliquiesce
 diplopod
 demiparadise 1
-dithalous
+dithalous 1
 dysnomy
 disman
 darksome
