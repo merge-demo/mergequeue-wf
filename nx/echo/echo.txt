@@ -5422,7 +5422,7 @@ eemis
 endpoints
 economism
 endrudge
-extrabulbar
+extrabulbar 1
 ecderonic
 endseal
 erecter

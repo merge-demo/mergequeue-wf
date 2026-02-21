@@ -23759,7 +23759,7 @@ auslaute
 approvability
 allopelagic
 anisopodous
-apatetic
+apatetic 1
 acetifier
 auspice
 authenticated
