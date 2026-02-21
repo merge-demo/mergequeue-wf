@@ -11021,7 +11021,7 @@ frivolist 1
 flawedness
 fibrocystoma
 fossilizes 1
-favouring
+favouring 1
 foraying
 forestay
 fumigated
