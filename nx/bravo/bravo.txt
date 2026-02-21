@@ -3261,7 +3261,7 @@ brachypleural 1
 beware
 birdcalls
 basilateral
-bowker
+bowker 1
 basilect
 bloodwit
 begunk
