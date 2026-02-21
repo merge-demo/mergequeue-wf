@@ -12484,7 +12484,7 @@ awnlike
 autogenuous
 ardennite
 antidoron
-aligns
+aligns 1
 aboriginary
 aeropleustic
 anointer
