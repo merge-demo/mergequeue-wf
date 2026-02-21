@@ -9945,7 +9945,7 @@ desiccation
 dehorned
 degu
 disingenuous
-delightsome
+delightsome 1
 decate
 departmentally 1
 discursus
