@@ -6640,7 +6640,7 @@ beletter
 brattiest
 bergs
 boneshave
-beribanded
+beribanded 1
 basaltic
 birdy
 bargeboard 1
