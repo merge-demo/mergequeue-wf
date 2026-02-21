@@ -15236,7 +15236,7 @@ dehull
 dollia
 digestibleness
 deuteranopic
-dingmaul
+dingmaul 1
 demipriest
 dogsleep
 dumontite
