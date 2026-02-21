@@ -11226,7 +11226,7 @@ danaid
 dispauperize
 disbenching
 demonstratability
-doxologically
+doxologically 1
 digitigrada
 denotatively
 doggone
