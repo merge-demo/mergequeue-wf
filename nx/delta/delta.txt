@@ -12616,7 +12616,7 @@ disinterestedly
 disheaven
 drisk
 dimyary
-depersonize
+depersonize 1
 disinters
 deodorants
 diapiric
