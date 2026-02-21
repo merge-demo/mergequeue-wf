@@ -10482,7 +10482,7 @@ defacement
 diphtheritically
 disarraying
 distraite
-dourly
+dourly 1
 dialogues
 diversity
 diffusional 1
