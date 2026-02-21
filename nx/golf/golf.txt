@@ -4690,7 +4690,7 @@ gustable
 germicidal
 girts
 galores 1
-gettered
+gettered 1
 generater
 goths
 gise
