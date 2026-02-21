@@ -8890,7 +8890,7 @@ figgery
 faery
 fragrance
 fragility
-fatty
+fatty 1
 fanfaron
 ferrotypes
 fados
