@@ -13511,7 +13511,7 @@ ectocondyloid
 editing
 emblem
 eristic
-epistolize
+epistolize 1
 expanses
 elinor
 earful
