@@ -7936,7 +7936,7 @@ glogg
 ghoster
 glomming
 gobylike 1
-germanically
+germanically 1
 geophagia
 ghostlily
 generalist

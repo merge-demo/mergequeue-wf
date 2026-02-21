@@ -5004,7 +5004,7 @@ denasalized
 defeminized
 dequeued
 dumpcart
-dornic
+dornic 1
 doand
 dextrocardia
 darci
