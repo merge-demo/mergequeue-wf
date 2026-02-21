@@ -5844,7 +5844,7 @@ esurience 1
 esox
 engrandize
 ebrillade
-equidistance
+equidistance 1
 ectogeneous
 ecesis
 engrandizement
