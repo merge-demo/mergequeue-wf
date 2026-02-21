@@ -10287,7 +10287,7 @@ gault
 glabreity
 granulations
 glassfuls
-gruesome
+gruesome 1
 greying
 guarabu
 gullygut
