@@ -898,7 +898,7 @@ grindingly
 gyrograph
 gainable
 gammerel
-gammock
+gammock 1
 gillnetted
 gainsaid
 groper
