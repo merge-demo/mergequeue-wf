@@ -19910,7 +19910,7 @@ ampoules
 adjuration
 armorials
 arkansawyer
-armorican
+armorican 1
 apurpose
 albescence
 adenofibrosis
