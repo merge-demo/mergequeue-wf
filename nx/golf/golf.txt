@@ -7674,7 +7674,7 @@ gradient
 groupageness 1
 gobblers
 greybeard
-gneissitic
+gneissitic 1
 goatishly
 gastrophilist
 grease
