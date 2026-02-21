@@ -12040,7 +12040,7 @@ disendow
 demideity
 desmodus
 dimerous
-disenfranchisement
+disenfranchisement 1
 demonkind
 disenfranchises
 dacryoblenorrhea
