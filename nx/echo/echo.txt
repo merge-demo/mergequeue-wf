@@ -13022,7 +13022,7 @@ excitation
 expectorated
 enneahedria
 exculpate
-englyns
+englyns 1
 exchequers
 emplacement
 etatisms
