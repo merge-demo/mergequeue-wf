@@ -1257,7 +1257,7 @@ anaclastics
 agonostomus
 aegrotat 1
 anarthropod
-anserinae
+anserinae 1
 ashkenazic
 avian
 avowance
