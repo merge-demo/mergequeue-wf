@@ -3459,7 +3459,7 @@ dashboards
 disavowance
 dependents
 dehydroffrozen
-defogged
+defogged 1
 disyllable
 diplexer
 dormered
