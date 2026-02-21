@@ -8871,7 +8871,7 @@ characterization
 characterizing
 characterless 1
 characterology
-coffle
+coffle 1
 crosshead
 corbelled
 cerned
