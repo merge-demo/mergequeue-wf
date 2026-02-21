@@ -19020,7 +19020,7 @@ caloricity
 consy
 collectivizing
 cocrucify
-collectorate
+collectorate 1
 consular
 crownband
 collectors
