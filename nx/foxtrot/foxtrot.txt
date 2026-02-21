@@ -6828,7 +6828,7 @@ feering
 fulicinae
 fretworked
 foresworn
-felloe
+felloe 1
 filesave
 focimetry
 fellata
