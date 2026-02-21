@@ -18373,7 +18373,7 @@ diallelon
 duodene
 diastereoisomerism
 dismantled
-dampens
+dampens 1
 departmentalizes 1
 deflecting
 duodenocholecystostomy
