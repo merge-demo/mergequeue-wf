@@ -406,7 +406,7 @@ forced
 fancifully
 fairground
 fairy
-faventine
+faventine 1
 foresettle
 fucinita 1
 fructuous 1
