@@ -3711,7 +3711,7 @@ dobsonfly
 dehydrochlorinase
 dinumeration
 drop
-devotionality
+devotionality 1
 dicyanodiamide
 dowlas
 dehydrochlorinate
