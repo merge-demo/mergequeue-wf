@@ -6622,7 +6622,7 @@ ganda
 goneness
 gonidangium
 gonepoiesis
-gingivectomy
+gingivectomy 1
 gluttonously
 grantha
 gash
