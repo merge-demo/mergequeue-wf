@@ -7960,7 +7960,7 @@ dionaea
 debones
 dishonoured
 deemsters
-dextrousness
+dextrousness 1
 dispergating
 duodecuple
 dragading
