@@ -19086,7 +19086,7 @@ absorbant
 alkylamino
 alphanumeric
 agritos
-actu
+actu 1
 anthocyanidin
 archpriestship
 acroataxia
