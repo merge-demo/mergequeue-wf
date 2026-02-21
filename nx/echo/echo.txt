@@ -9191,7 +9191,7 @@ elatinaceous
 endovaccination
 encolor 1
 exteriorize
-enates
+enates 1
 expeditely
 embryons
 ernes
