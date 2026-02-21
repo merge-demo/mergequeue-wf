@@ -1411,7 +1411,7 @@ ectopatagium
 eights
 epode
 emplaster
-essentialness
+essentialness 1
 exomis
 expletive
 enopla
