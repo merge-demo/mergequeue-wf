@@ -8359,7 +8359,7 @@ granulize
 glottalite
 glittery
 gibblegable
-greasy
+greasy 1
 gelatinous
 girland
 gulled
