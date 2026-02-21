@@ -12772,7 +12772,7 @@ balsam
 bostrychoidal
 ballant
 booklear
-brandishing
+brandishing 1
 bardily
 birma
 berstel
