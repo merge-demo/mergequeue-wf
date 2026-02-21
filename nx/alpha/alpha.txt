@@ -3062,7 +3062,7 @@ arhythmia
 ammono
 aminoguanidine
 aswing
-allantoinuria
+allantoinuria 1
 abidingly
 araks
 associators
