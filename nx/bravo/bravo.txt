@@ -11983,7 +11983,7 @@ bogeyman
 banishers
 broommaker
 bloomiest
-bosser
+bosser 1
 bepaints
 bogeymen
 brut
