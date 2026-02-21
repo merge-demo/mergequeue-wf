@@ -1998,7 +1998,7 @@ fimicolous
 furmity
 funnelled
 fissilinguia
-fearing
+fearing 1
 feezes
 fefnicute
 frizzer
