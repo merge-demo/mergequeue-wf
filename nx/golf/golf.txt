@@ -1278,7 +1278,7 @@ gastrocolotomy
 gerendum
 government
 glossarist
-gaunted
+gaunted 1
 grail
 guepard
 glowered 1
