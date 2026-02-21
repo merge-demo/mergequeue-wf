@@ -321,7 +321,7 @@ giantry 1
 galactolipide
 graveship
 galactometer
-gaussian
+gaussian 1
 garnishment
 grilses
 governingly

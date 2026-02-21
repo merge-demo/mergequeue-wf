@@ -15179,7 +15179,7 @@ discloak
 doleance
 datsun
 delectably
-directory
+directory 1
 dolefully
 detainment
 dogdoms
