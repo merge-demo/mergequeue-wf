@@ -6379,7 +6379,7 @@ derogating
 derogative
 dispersity
 derogator
-derogatory
+derogatory 1
 drawer
 deplorate
 disincorporating
