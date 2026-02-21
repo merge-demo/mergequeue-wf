@@ -9951,7 +9951,7 @@ epileptologist
 estreat
 excogitable
 eucalyptuses
-evert
+evert 1
 euhemeristic
 ertebolle
 electrizing
