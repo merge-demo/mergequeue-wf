@@ -8435,7 +8435,7 @@ autocoids
 astronautics
 actinotrocha
 aborts
-aphthae
+aphthae 1
 anabolin
 alkin
 antioxygenating
