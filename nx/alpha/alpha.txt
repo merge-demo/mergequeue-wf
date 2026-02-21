@@ -10804,7 +10804,7 @@ allegorical
 amniocentesis
 anapnoic
 aboardage
-assayer
+assayer 1
 amniomancy
 acclamation
 autostandardization
