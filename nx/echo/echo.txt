@@ -2503,7 +2503,7 @@ emotionalise
 estrangelo
 etamin
 envelopers 1
-electroing
+electroing 1
 eidola
 ectotheca
 electrokinetic
