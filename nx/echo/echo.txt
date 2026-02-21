@@ -11930,7 +11930,7 @@ entrepreneurship
 endotheliolysin
 enfume
 errors
-emends
+emends 1
 emacerate
 eccritic
 enami
