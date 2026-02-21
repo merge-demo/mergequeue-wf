@@ -9039,7 +9039,7 @@ distantness
 dextrinous
 diverter
 dicrotal
-dicrotous
+dicrotous 1
 delia
 dehort
 disillusioniser
