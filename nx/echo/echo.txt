@@ -5509,7 +5509,7 @@ eelery
 electroscope
 expelling
 elritch
-ectocarpic
+ectocarpic 1
 excitate
 erectility
 equiformity
