@@ -15455,7 +15455,7 @@ disagreement
 donator
 dispossed
 discodactyl
-dispell
+dispell 1
 desist
 deflagrated
 decolorise
