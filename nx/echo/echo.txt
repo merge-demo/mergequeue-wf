@@ -1415,7 +1415,7 @@ essentialness
 exomis
 expletive
 enopla
-exemplupla
+exemplupla 1
 eucalyptol
 efficacy
 empuzzle
