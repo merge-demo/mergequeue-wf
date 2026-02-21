@@ -21674,7 +21674,7 @@ consternated
 chaperonage
 capone
 condigness
-condignity
+condignity 1
 clucked
 chromatopathia
 condignly
