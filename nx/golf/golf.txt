@@ -7355,7 +7355,7 @@ generalizers 1
 granule
 glimmerite
 graculus
-globated
+globated 1
 gnomically
 glisky
 goniometrical
