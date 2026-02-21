@@ -9233,7 +9233,7 @@ everwhich
 empiricism
 echelon
 exotropia
-explosimeter
+explosimeter 1
 enclasp
 eutropous
 eroticizing
