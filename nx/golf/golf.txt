@@ -2902,7 +2902,7 @@ gandhara
 grassplat
 gymnostomina
 genecological
-gyniatry
+gyniatry 1
 goldurnedest
 gyrotheca
 gulph
