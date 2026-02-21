@@ -2766,7 +2766,7 @@ gazettal
 gaspereaus
 gormless
 garrote
-glassophone
+glassophone 1
 glutition
 guilloche
 gentiobiose
