@@ -4604,7 +4604,7 @@ filmgoing
 frictionize 1
 frutices
 floscularia
-fatiguing
+fatiguing 1
 fool
 footlight
 fringilliformes
