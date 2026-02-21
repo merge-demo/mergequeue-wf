@@ -8559,7 +8559,7 @@ bejeweling 1
 barabra
 blately
 baptism
-bo
+bo 1
 bunting
 bellowing
 bedder
