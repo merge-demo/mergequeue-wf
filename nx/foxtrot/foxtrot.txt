@@ -4320,7 +4320,7 @@ foreordains
 fendable 1
 feudalized
 firk
-ferth
+ferth 1
 filacer
 facsimilist
 floppiest
