@@ -3447,7 +3447,7 @@ blushing
 bedote
 bulletmaker
 bastardism
-bastardizes
+bastardizes 1
 bastardliness
 birimose
 bullfoot

@@ -8567,7 +8567,7 @@ farctate
 flapped
 forehatchway
 feltwork
-fractionally
+fractionally 1
 funambulic 1
 formulated
 funest 1
