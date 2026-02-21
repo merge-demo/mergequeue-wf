@@ -5740,7 +5740,7 @@ fawe
 forehanded
 flintwork
 fibrine
-freckles
+freckles 1
 falasha
 funeration
 forbearant 1
