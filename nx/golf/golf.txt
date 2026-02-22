@@ -4260,7 +4260,7 @@ graveclothes
 goatlike
 gigantesque
 gabfests
-goboes
+goboes 1
 genesial
 gynecophorous
 gayals
