@@ -7218,7 +7218,7 @@ enascent
 eunomianism
 earthshine
 endymion
-eposes
+eposes 1
 exudative 1
 electrifier
 earnestful
