@@ -7452,7 +7452,7 @@ epenla
 edgings 1
 erotesis
 epentheses
-errant
+errant 1
 enemying
 excavation
 eleotrid
