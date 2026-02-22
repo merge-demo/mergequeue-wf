@@ -563,7 +563,7 @@ cadmiumize
 cadmiums
 christianography
 cadre
-cyanomaclurin
+cyanomaclurin 1
 cadres
 ciconiiform
 councilors
@@ -10630,7 +10630,7 @@ cephalomancy
 clinicopathologic
 causatively
 chymase 1
-callaloos
+callaloos 1
 chimb
 culicide
 calderium

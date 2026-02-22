@@ -3760,7 +3760,7 @@ elaeocarpaceae
 encuirassed
 embryotega
 etherialise
-eom
+eom 1
 embryotegae
 excogitates
 environage
@@ -7134,7 +7134,7 @@ escalloniaceous
 ectropionization
 egotisms
 ectocinereal
-epaulette
+epaulette 1
 entomical
 epapophysial
 emulsible
@@ -9775,7 +9775,7 @@ exitious
 enthusiast
 expressure
 eruginous 1
-exergonic 1
+exergonic 2
 essentially
 exigencies
 expeditation
@@ -11197,7 +11197,7 @@ eclectics
 executing
 electrification
 exposure
-evacuants
+evacuants 1
 earthdrake
 epaulet
 electrotherapy
