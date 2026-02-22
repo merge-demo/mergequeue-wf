@@ -19822,7 +19822,7 @@ coagulate
 curch
 collectioner
 chelydridae
-comedo
+comedo 1
 cuchan
 catacumbal
 cassareep
