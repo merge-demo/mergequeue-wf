@@ -11844,7 +11844,7 @@ exasperater 2
 engrid
 euosmite
 empocket 1
-exauctorate
+exauctorate 1
 eriglossa
 elding
 enlargingly
