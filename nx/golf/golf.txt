@@ -8588,7 +8588,7 @@ ground 1
 geodiferous
 gremmy 1
 gibbeting
-gaufrettes
+gaufrettes 1
 gastronomics
 geometrizing
 gravidate
