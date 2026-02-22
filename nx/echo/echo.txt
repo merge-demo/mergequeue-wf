@@ -3125,7 +3125,7 @@ enseraph
 ellfish
 estriate
 extraneous
-entellus
+entellus 1
 escar
 enterers
 et 1
