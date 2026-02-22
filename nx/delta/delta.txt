@@ -14552,7 +14552,7 @@ division
 dollop
 dedicative
 degomme
-distill
+distill 1
 divisional
 distillery
 diachronicness
