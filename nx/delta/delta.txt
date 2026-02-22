@@ -5169,7 +5169,7 @@ decephalization
 deathly
 diaheliotropic 1
 detruncating
-diazoamino
+diazoamino 1
 denitrifier
 decolourised
 diaphorase
@@ -18671,7 +18671,7 @@ dissatisfiedly
 duckboat
 drainless
 dwarfishness
-diademing
+diademing 1
 dianite 1
 documentarily
 dwarfisms
