@@ -9078,7 +9078,7 @@ genitive 1
 gasparillo
 ghast
 grimme
-glassworking
+glassworking 1
 grillroom
 gleet
 gerent
