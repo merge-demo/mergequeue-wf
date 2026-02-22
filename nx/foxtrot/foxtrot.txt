@@ -7966,7 +7966,7 @@ foetor
 fluorescein
 fanglike 1
 foreshadow
-forgivenesses
+forgivenesses 1
 fiberware
 frenal
 foreshadowed 2
@@ -11506,7 +11506,7 @@ fusariose
 forril
 fopperly
 fanfold
-flaxman
+flaxman 1
 frictional
 fretize
 federalizes

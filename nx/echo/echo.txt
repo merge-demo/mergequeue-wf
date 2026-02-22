@@ -1119,7 +1119,7 @@ echinology
 elaidate
 exfigure
 earock
-ember
+ember 1
 ergonovine
 equipoised
 evaluates
@@ -6464,7 +6464,7 @@ enlacement
 elfins
 excommunicated
 edental
-eimak
+eimak 1
 evenmete
 eptatretus
 ectropionize
@@ -13449,7 +13449,7 @@ exceptless
 erupted
 epenetic
 eventuality
-etymologizing
+etymologizing 1
 expresso
 embitterer
 erogate
@@ -14192,7 +14192,7 @@ esthetics
 elimination
 ensilation
 expertism
-emasculate
+emasculate 1
 enruin
 exurge
 erodable
