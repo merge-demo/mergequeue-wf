@@ -5045,7 +5045,7 @@ escritoires
 extradites 1
 extensionally
 exorbitancy 1
-eudemon
+eudemon 1
 equalness
 exagitation
 eldorado
