@@ -1429,7 +1429,7 @@ firewood
 fumets
 fra
 fourteener
-fusing
+fusing 1
 folderols
 ferreted
 follow
