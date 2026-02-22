@@ -5152,7 +5152,7 @@ budworm
 biotic
 boomorah
 broadside
-bayonets
+bayonets 1
 buccellarius
 beggarer
 buccinatory
