@@ -10431,7 +10431,7 @@ bromacetanilide
 bloodfins
 blankets
 backhanding
-bhoot
+bhoot 1
 baler 1
 blobbiness 1
 braziletto
