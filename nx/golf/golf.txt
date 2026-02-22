@@ -4449,7 +4449,7 @@ gypsyfy
 generically
 girondin
 grippes 1
-gristles
+gristles 1
 geophytes
 geomagnetism
 girdled

@@ -600,7 +600,7 @@ deploitation
 damnify
 dearth
 damnificatus
-disoccupation
+disoccupation 1
 drapable
 dobos 1
 debarration
