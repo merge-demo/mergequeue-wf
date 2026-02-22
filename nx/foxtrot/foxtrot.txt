@@ -11240,7 +11240,7 @@ flatwares
 foalhood 1
 felinities
 factable 1
-fatherkin
+fatherkin 1
 funkiness
 fezzes
 forerunnings
