@@ -10081,7 +10081,7 @@ affluent
 apanage
 ambulatorium
 ahepatokla
-avo
+avo 1
 acmaesthesia
 ankou
 aspergilliform
