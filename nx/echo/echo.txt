@@ -1854,7 +1854,7 @@ endaze
 elbow
 exopodite
 evaginated
-effervescive
+effervescive 1
 ecblastesis
 ensouling
 encipherer
