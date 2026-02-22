@@ -7737,7 +7737,7 @@ cerithiidae
 cardiologic
 cerithium
 ceriums
-corambis
+corambis 1
 chloroplatinite
 cermet
 coadaptation
@@ -26661,7 +26661,7 @@ columbium
 choked 1
 counterintelligence
 canceling
-counterexpostulation
+counterexpostulation 1
 counteradvance
 colossuswise
 catagories

@@ -24189,7 +24189,7 @@ autoinfusion
 autoinoculable
 antiritualism 1
 abrus
-anquera
+anquera 1
 acy
 amorist
 antipope
