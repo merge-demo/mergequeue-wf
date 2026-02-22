@@ -10897,7 +10897,7 @@ epidemial
 ereption
 euphemian
 endiablee
-encased
+encased 1
 enneastyle
 eruction
 esuriently
