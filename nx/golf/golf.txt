@@ -10199,7 +10199,7 @@ grippers
 guile
 gyrectomies
 gabelles
-galluses
+galluses 1
 groundsel
 garrisoned
 geotonus
