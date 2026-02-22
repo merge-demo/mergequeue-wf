@@ -7573,7 +7573,7 @@ gambet
 glucolysis
 gov
 gruntle
-gingerous
+gingerous 1
 gallingness
 gamash
 goninidia
