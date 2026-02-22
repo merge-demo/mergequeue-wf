@@ -5946,7 +5946,7 @@ blumea
 bimetalic 1
 bongoes
 buyouts
-bottlenecks
+bottlenecks 1
 ballistic
 biosensor
 bolstered
