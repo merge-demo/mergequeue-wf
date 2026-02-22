@@ -2768,7 +2768,7 @@ gormless
 garrote
 glassophone 1
 glutition
-guilloche
+guilloche 1
 gentiobiose
 geostrategic
 guardianess
