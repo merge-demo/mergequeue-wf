@@ -14352,7 +14352,7 @@ disseminates
 duffel
 dispassionate
 didymoid
-decrial
+decrial 1
 defervescent
 dentalising
 dittying
