@@ -137,7 +137,7 @@ dudler 1
 delapse
 depicted
 daemonistic
-dowsing
+dowsing 1
 disconducive 1
 depopulates
 dilemma
@@ -7284,7 +7284,7 @@ dirtiness
 drownding
 despondency
 denegate
-dessa
+dessa 1
 doko 1
 deplaned
 dipneumona
@@ -7773,7 +7773,7 @@ destabilizing
 decompensation
 dolorous
 devoirs
-devolatilised
+devolatilised 1
 dryrot 1
 diplospondyli
 dagestan
@@ -12062,7 +12062,7 @@ deciduousness
 deambulatory
 devotionist
 dyehouse
-donut
+donut 1
 deacon
 dunderheaded
 disordination
