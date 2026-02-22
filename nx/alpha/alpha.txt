@@ -1492,7 +1492,7 @@ acclivities
 antlerless
 acclivitous
 agitators
-acroceraunian
+acroceraunian 1
 apportionate
 arthritics
 aiguilles
