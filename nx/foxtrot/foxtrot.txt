@@ -4772,7 +4772,7 @@ flex
 forbodes
 flappers
 foliobranch
-formatters
+formatters 1
 foreadapt 2
 frumentarious
 fraulein
@@ -7639,7 +7639,7 @@ freezable
 fervors
 festino
 fabricature
-fizzling 1
+fizzling 2
 farrier
 fossula
 frederica
@@ -9205,7 +9205,7 @@ flustrating
 fruchtschiefer
 fossilization
 forbiddance
-fenagles
+fenagles 1
 fusses
 fracturing
 frustulose

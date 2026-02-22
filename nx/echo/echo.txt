@@ -1390,7 +1390,7 @@ eisteddfodism
 exauguration
 especial
 enantiomorphously
-elemin
+elemin 1
 explosives
 eelspear
 effeminising 1
@@ -2696,7 +2696,7 @@ existimation
 escalin 1
 emong
 electrosurgery
-epididymovasostomy
+epididymovasostomy 1
 egotist 1
 esophagism
 electrotactic 1
@@ -9821,7 +9821,7 @@ emunctories
 estampage
 empiric
 enucleating
-enchaining
+enchaining 1
 electrophotography
 entrance
 eternise
@@ -10448,7 +10448,7 @@ etua
 ecblastpsis
 epileptical
 echiniform
-enridged
+enridged 1
 ennuyee
 educators
 endromis

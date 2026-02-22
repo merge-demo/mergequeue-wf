@@ -455,7 +455,7 @@ alchemised
 abir
 aberia
 azadirachta
-americanizes
+americanizes 1
 archiplata
 attently
 alfalfa
@@ -5447,7 +5447,7 @@ anaerobious
 acalycal
 anatifae
 abalienate
-aperitifs
+aperitifs 1
 afterhope
 avance
 anguloa
@@ -18014,7 +18014,7 @@ appropriativeness
 antipodean
 archimandrites
 aprioristically
-atrazines
+atrazines 1
 aggressors
 appraisement
 aproctous
