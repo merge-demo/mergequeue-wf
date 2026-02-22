@@ -492,7 +492,7 @@ aweless
 anaplasma
 amornings
 aphthous
-allworthy
+allworthy 1
 acheer
 aquavalent
 atlantean
