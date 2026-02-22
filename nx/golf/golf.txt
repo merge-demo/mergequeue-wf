@@ -6082,7 +6082,7 @@ gordiacean 1
 gehlenite
 girja
 golundauze
-grivation
+grivation 1
 gangliac
 gallimaufry
 geitonogamous
