@@ -313,7 +313,7 @@ glucuronidase 1
 graeculus
 gingering
 guised
-galactogenetic
+galactogenetic 1
 gappiest
 gravigrada
 groundbird
