@@ -5365,7 +5365,7 @@ gammadion
 gazy
 gapers
 gloaters
-glykopectic
+glykopectic 1
 greenbug
 gritrock
 granitized
