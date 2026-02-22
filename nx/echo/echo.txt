@@ -4480,7 +4480,7 @@ ecballium
 equestrians
 encastrement
 encaustically
-emotionalizing
+emotionalizing 1
 examinatory
 eumenidean
 enceinte
@@ -13378,7 +13378,7 @@ enhunger
 ethicist 2
 embog
 enchytraeid
-everywhen 1
+everywhen 2
 enaction
 enfonce
 excretive
