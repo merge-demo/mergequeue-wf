@@ -2227,7 +2227,7 @@ gibbsite
 galax
 gryphite
 greggriffin
-geoplanidae
+geoplanidae 1
 gonimic
 gramophonical
 gey
