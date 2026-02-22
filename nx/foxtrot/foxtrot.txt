@@ -477,7 +477,7 @@ flugelmen
 fission
 formulistic
 formativeness 1
-feetless
+feetless 1
 friggle
 fondues
 fulminating
