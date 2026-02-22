@@ -15545,7 +15545,7 @@ antinaturalism
 admixture
 alopeke
 actus
-antinaturally
+antinaturally 1
 areocentric
 autonomasy
 avowry
