@@ -8898,7 +8898,7 @@ fretful
 forte 1
 fraternities
 facioscapulohumeral
-foreigners
+foreigners 1
 fot
 florideous
 foreshorten
