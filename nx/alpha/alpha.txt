@@ -13893,7 +13893,7 @@ audings
 abrupter
 aptyalism
 antaios
-antalgesic
+antalgesic 1
 antalgics
 antalgol
 apandry 1
