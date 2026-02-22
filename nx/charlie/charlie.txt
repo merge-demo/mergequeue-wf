@@ -16127,7 +16127,7 @@ cheloniidae
 culturable
 climacter
 cabarets
-cavettos
+cavettos 1
 climactery
 climacteric
 climacterically
@@ -27938,7 +27938,7 @@ complimental
 crackly
 crassament
 cumbraite
-copperplated
+copperplated 1
 cracklings
 chatterbag
 clockface
