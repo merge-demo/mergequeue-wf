@@ -2354,7 +2354,7 @@ eschar 1
 epistroma
 electrocardiographic
 entocele
-egad
+egad 1
 elderliness
 excrementitial
 endoscopes
