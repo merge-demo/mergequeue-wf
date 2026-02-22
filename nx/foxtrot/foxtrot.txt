@@ -9072,7 +9072,7 @@ flux
 fowlfoot
 faultful
 flavorsome
-flashguns
+flashguns 1
 forlie
 frampold
 familiar
