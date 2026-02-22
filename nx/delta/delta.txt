@@ -8476,7 +8476,7 @@ deesis
 dapperest
 downset
 directionize
-dodecyl
+dodecyl 1
 draconitic
 downgrades
 diamondbacked
