@@ -2696,7 +2696,7 @@ existimation
 escalin 1
 emong
 electrosurgery
-epididymovasostomy
+epididymovasostomy 1
 egotist 1
 esophagism
 electrotactic 1
@@ -10448,7 +10448,7 @@ etua
 ecblastpsis
 epileptical
 echiniform
-enridged
+enridged 1
 ennuyee
 educators
 endromis
