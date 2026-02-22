@@ -6060,7 +6060,7 @@ gnaws
 gramineous
 gneiss
 grotesquely
-goosebeak
+goosebeak 1
 galactemia
 gamboge
 garde
