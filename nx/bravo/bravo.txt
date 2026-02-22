@@ -5533,7 +5533,7 @@ benefactive
 begnawn
 brandisher
 bubastite
-bruce
+bruce 1
 beisance
 burh
 bouvier
