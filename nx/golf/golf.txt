@@ -2789,7 +2789,7 @@ gothish
 groff
 grangerizing 1
 gingelly
-gilgulim
+gilgulim 1
 glassite
 gifture
 gunbright
