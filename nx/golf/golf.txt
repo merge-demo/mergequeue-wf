@@ -6413,7 +6413,7 @@ gagroot
 graffias
 grasshouse
 gidgee
-glamour
+glamour 1
 granulation
 guldens
 grogshop
