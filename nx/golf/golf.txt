@@ -3977,7 +3977,7 @@ gnomological
 galeodes
 gearksutite
 galliasses
-gigantology
+gigantology 1
 geared
 gains 1
 glottogony
