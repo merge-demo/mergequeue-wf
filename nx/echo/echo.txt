@@ -6661,7 +6661,7 @@ enamdar
 egrimonle
 enterogenous
 eviller
-edificant 1
+edificant 2
 enframe
 epimere
 eartagged
