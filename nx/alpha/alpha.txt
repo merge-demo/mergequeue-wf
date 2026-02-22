@@ -6097,7 +6097,7 @@ ababua 1
 agnosia
 actinophonic
 antimonic
-anisogamic
+anisogamic 1
 anthraces
 ablactate
 anon
