@@ -2297,7 +2297,7 @@ fixatifs
 foggy
 fictionalizes
 fondaco
-feminizes
+feminizes 1
 friday
 ftnerr 1
 forbysen
@@ -4239,7 +4239,7 @@ fibroin
 fatherlands
 former
 fundiform
-fisticuffs
+fisticuffs 1
 fluxile
 fruitlessness
 fragmentally
