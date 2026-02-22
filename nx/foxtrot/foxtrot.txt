@@ -772,7 +772,7 @@ fanciful
 fibreboard
 fleers
 flavoury
-fanciless
+fanciless 1
 floundered
 fallows
 ferried
