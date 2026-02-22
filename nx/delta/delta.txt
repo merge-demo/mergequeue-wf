@@ -6055,7 +6055,7 @@ delinquencies
 diopsis
 deputing
 diaconicon
-dorps
+dorps 1
 dilli
 dehumanise
 diagnostication 1
