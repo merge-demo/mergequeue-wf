@@ -11538,7 +11538,7 @@ fabling
 flon
 flytier
 fictionize
-flammigerous
+flammigerous 1
 fossilising
 fards 1
 forjudgment
