@@ -11467,7 +11467,7 @@ arenoid
 anabolism 1
 ammophilous
 accinging
-ampliate
+ampliate 1
 anacalypsis
 attababy
 approbate 1

@@ -11418,7 +11418,7 @@ ferity
 fingerlike
 ferling
 fatality 1
-furred 1
+furred 2
 fascis 1
 frieze
 founte
