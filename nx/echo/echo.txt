@@ -11363,7 +11363,7 @@ endured
 ecurie
 echiurida
 eightfold
-eagles
+eagles 1
 erythrine 1
 evaporimeter
 electrocute
