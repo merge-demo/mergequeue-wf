@@ -9536,7 +9536,7 @@ glutinize
 gagate
 gristliness
 graphophonic
-glossolaly
+glossolaly 1
 gulper
 guacico
 genuine
