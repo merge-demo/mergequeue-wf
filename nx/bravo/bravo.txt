@@ -3985,7 +3985,7 @@ bebless 1
 bluffness
 barbeiro
 bhandari
-befavour
+befavour 1
 barhal
 bastardizations
 backhauled 1
