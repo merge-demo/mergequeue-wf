@@ -1791,7 +1791,7 @@ embattle
 elevated
 emule
 exhbn
-eutony
+eutony 1
 eyeseed
 edgeless
 entophytically
