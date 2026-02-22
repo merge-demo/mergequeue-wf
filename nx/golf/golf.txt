@@ -1352,7 +1352,7 @@ green
 gerodermia
 gasteralgia
 guidership
-gauss
+gauss 1
 goodwives
 garglers
 graplins
@@ -7795,7 +7795,7 @@ guapena
 galivanted
 glenoidal
 girnal 1
-ghalva
+ghalva 1
 glacial
 gye 1
 gipseian
