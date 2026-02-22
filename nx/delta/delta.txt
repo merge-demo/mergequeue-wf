@@ -2033,7 +2033,7 @@ disterr
 dourness
 declasse
 dareful
-diatomean
+diatomean 1
 decahedron
 disclassify
 drearier
