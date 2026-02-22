@@ -6866,7 +6866,7 @@ ferryman
 farfal
 flourishes
 frowstiness
-floury
+floury 1
 foldcourse
 flemish
 fastuous
