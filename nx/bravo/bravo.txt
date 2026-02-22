@@ -222,7 +222,7 @@ baccy
 banishments
 bagoong
 belltail
-bumpy
+bumpy 1
 bestraw
 bibliograph
 bestowable
