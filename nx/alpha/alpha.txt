@@ -6068,7 +6068,7 @@ amoreuxia
 aspiratory
 addressor
 antistaphylococcic
-abatable
+abatable 1
 aus
 amphi
 agnel
