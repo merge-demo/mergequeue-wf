@@ -1961,7 +1961,7 @@ gauby
 gonif 1
 gongman
 gaspar
-galician
+galician 1
 goschens
 gryphaea
 gelatinously
