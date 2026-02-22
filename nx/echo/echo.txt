@@ -12490,7 +12490,7 @@ enteropneusta
 erythrophage
 envisages
 enrank
-embosture
+embosture 1
 executrixship
 exine
 extraocular
