@@ -212,7 +212,7 @@ bushrope 1
 bacchic
 bestirred
 bemoanable
-begary
+begary 1
 bioassays
 banditries
 brainpower
