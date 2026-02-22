@@ -5026,7 +5026,7 @@ drovy 1
 demographers
 denaturants
 docilely
-dartling
+dartling 1
 deboist
 dueller
 dirndls
