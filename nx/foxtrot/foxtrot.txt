@@ -1483,7 +1483,7 @@ finitudes
 feverish
 fervent
 faucre
-foreknowingly
+foreknowingly 1
 fancily
 fishmeal
 fairgoer
