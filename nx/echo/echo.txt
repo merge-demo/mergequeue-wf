@@ -12631,7 +12631,7 @@ ensconcing
 extramurally
 elenchical
 elephantidae
-equiaxial
+equiaxial 1
 embanked 1
 epexegeses
 ectogenic
