@@ -9207,7 +9207,7 @@ fossilization
 forbiddance
 fenagles
 fusses
-fracturing
+fracturing 1
 frustulose
 filicide
 filmic
