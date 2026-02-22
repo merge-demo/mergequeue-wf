@@ -17115,7 +17115,7 @@ coaction
 cytologic
 couthily
 coactive
-coactively
+coactively 1
 clubwoman
 coadamite
 cavings
