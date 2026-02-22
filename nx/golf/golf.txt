@@ -10451,7 +10451,7 @@ glossological
 guimpe 1
 geratology
 gourmands
-goatbrush
+goatbrush 1
 gagor
 glutei
 gentilitious
