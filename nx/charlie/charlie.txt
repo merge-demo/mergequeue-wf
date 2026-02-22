@@ -2622,7 +2622,7 @@ cheeseflower
 congregate
 cursaro
 camelopardel
-canes
+canes 1
 caprellidae
 canescence
 chaetetes
