@@ -4050,7 +4050,7 @@ delightfulness
 discant
 demurringly
 determined
-delimed
+delimed 1
 disquisitory
 diphysitism
 duskiness
