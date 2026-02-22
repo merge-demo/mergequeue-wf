@@ -8641,7 +8641,7 @@ disfavored
 diarticular
 dias
 disentrancement
-depertible
+depertible 1
 downstream
 degreasing
 dissentious
