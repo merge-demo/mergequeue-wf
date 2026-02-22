@@ -7422,7 +7422,7 @@ gaditan
 gordolobo
 gorillalike
 gou
-gyrometer
+gyrometer 1
 gorgelet
 greenockite
 gabbai
