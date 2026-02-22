@@ -7420,7 +7420,7 @@ fogs
 foreffelt
 fidgetingly
 felting
-feigned
+feigned 1
 foldout
 friendliest
 fume
