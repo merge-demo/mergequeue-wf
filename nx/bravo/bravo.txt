@@ -12145,7 +12145,7 @@ behemoth
 bolas
 bedell
 bouses
-bartsia
+bartsia 1
 basiglandular
 barthian
 biglenoid
