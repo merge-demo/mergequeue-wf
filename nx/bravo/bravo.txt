@@ -12958,7 +12958,7 @@ berliners
 blameless
 beseek
 bureaucratic
-breviloquence
+breviloquence 1
 boardinghouses
 bootman
 bottoms
