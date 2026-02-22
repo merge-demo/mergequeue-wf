@@ -2027,7 +2027,7 @@ forisfamiliation
 feudary
 frisbees
 formative
-flunking
+flunking 1
 facedown
 flitty
 foreschool
