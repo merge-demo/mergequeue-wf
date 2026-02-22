@@ -156,7 +156,7 @@ gamond
 guatibero
 guimbard
 glassworm
-goliardic
+goliardic 1
 goliathize
 goniometry 1
 gradgrind
