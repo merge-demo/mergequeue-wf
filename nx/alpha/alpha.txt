@@ -5366,7 +5366,7 @@ ataxonomic
 affirmatively
 afrit
 airan
-afforested
+afforested 1
 attacher 1
 acetotoluidine
 aulic
