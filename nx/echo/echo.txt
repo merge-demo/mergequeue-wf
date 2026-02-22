@@ -13582,7 +13582,7 @@ emulation 1
 epikeia
 episcopant
 emigrate 1
-esoteric
+esoteric 1
 exsufflate
 exsufflation
 expressio
