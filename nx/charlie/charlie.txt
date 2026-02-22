@@ -9626,7 +9626,7 @@ carceral
 charqued
 cheerfully
 camelliaceae
-countenances
+countenances 1
 cheerier
 cryptopapist
 cloudlets
