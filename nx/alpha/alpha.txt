@@ -12801,7 +12801,7 @@ apportionment
 anglicanisms
 abscise
 aditio
-ameer
+ameer 1
 artfulness
 acuminated
 alkalometry
