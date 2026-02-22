@@ -14393,7 +14393,7 @@ bray
 braided
 bovoid
 binomen
-burstones
+burstones 1
 bagmaking
 bizone
 bellowsmaking
