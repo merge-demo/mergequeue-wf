@@ -18598,7 +18598,7 @@ adding
 anarchy 1
 adoral
 archaeologic
-archaeological
+archaeological 1
 abyssa
 apprehensibly
 apocynaceous
