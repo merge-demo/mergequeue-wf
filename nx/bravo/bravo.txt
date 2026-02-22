@@ -6001,7 +6001,7 @@ borasque
 bricktop
 bossier
 befooling
-bribeability 1
+bribeability 2
 befuddlements
 bestian
 breathalyse
