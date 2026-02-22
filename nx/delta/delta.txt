@@ -12951,7 +12951,7 @@ declassicize
 disoccluded
 disoccluding
 deepwatermen
-disimprovement
+disimprovement 1
 derencephalus
 depopulating
 deutoplasmic
