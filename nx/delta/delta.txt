@@ -2481,7 +2481,7 @@ declaimer
 declamatory
 doublewidth
 dateable
-decibar
+decibar 1
 dendrochronology
 drysaltery
 dp
