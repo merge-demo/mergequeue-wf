@@ -13153,7 +13153,7 @@ bovids
 borning 1
 bastant
 bornite
-boyaux
+boyaux 1
 baksheesh
 bestialities
 bestirs
