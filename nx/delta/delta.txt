@@ -9993,7 +9993,7 @@ democratian
 demoiselle
 discomposure
 distract
-dirigomotor
+dirigomotor 1
 dust
 downshifted
 dasi
