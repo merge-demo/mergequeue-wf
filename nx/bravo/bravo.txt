@@ -29,7 +29,7 @@ bethuel
 basely
 bestrows 1
 beginnings
-batistes
+batistes 1
 balductum
 babasu
 boastfully
