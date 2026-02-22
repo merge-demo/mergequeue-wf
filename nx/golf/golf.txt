@@ -1414,7 +1414,7 @@ gox
 griseofulvin 1
 gashing
 guttulate
-gangways
+gangways 1
 glazen
 groundkeeper
 gemologists 1
