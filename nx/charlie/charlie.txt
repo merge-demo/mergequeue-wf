@@ -2691,7 +2691,7 @@ canker
 cankerberry
 cankerbird
 capitonidae
-chaperone
+chaperone 1
 carriable
 cankereat
 cankered
@@ -9201,7 +9201,7 @@ cashaw
 cankerworm
 coplanation
 cylindrodendrite
-currach
+currach 1
 curvinerved
 crombec
 chastest
