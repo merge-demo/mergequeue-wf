@@ -15257,7 +15257,7 @@ antihelix
 archeol
 anthracite
 amperages
-antihero
+antihero 1
 amphoriskos
 azulejo 1
 anticonscriptive
