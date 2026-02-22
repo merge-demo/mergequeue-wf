@@ -1078,7 +1078,7 @@ eternal
 eczematization
 enantiopathia
 exadversum
-etchareottine
+etchareottine 1
 endoskeleton
 eqpt
 entail
@@ -4665,7 +4665,7 @@ electromer
 eild 1
 evolve
 eremiteship
-enchoric
+enchoric 1
 exuberance
 entablement
 energico
@@ -7452,7 +7452,7 @@ epenla
 edgings 1
 erotesis
 epentheses
-errant
+errant 1
 enemying
 excavation
 eleotrid
@@ -9227,7 +9227,7 @@ embryophyte
 estensible
 emeute
 embolden
-epistle
+epistle 1
 expulsive
 everwhich
 empiricism
