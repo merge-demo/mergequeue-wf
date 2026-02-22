@@ -5535,7 +5535,7 @@ grintern
 gonochorismal
 gangland
 ginglymostomoid
-genial
+genial 1
 gwely
 griecep
 gemutlichkeit
