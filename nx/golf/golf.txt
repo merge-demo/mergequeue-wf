@@ -6742,7 +6742,7 @@ gamgee
 gud
 glossospasm 1
 goatweed
-gaffsail
+gaffsail 1
 gavyuti
 goldenmouthed
 gossiping
