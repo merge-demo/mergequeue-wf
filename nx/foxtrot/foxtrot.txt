@@ -7523,7 +7523,7 @@ flirtingly
 fossick
 frayings
 feinschmecker
-feminine
+feminine 1
 fishhooks
 fantasists
 frakturs
