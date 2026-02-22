@@ -4013,7 +4013,7 @@ gulinula
 gesan
 gotched
 glamourize
-gynostegium
+gynostegium 1
 gabendum
 glendale 1
 gerontologic
