@@ -3297,7 +3297,7 @@ abscessroot
 appendancy
 agawam
 adactylous
-ametabola
+ametabola 1
 adad
 algesic
 apostatism
