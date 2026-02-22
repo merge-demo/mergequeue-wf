@@ -1985,7 +1985,7 @@ counterwill
 cyclorama
 cumulose
 cyprinodont
-camerae
+camerae 1
 curbless
 citizenship
 coterell
