@@ -938,7 +938,7 @@ drolushness
 dispenser
 disemplane
 dermalgia
-detonational
+detonational 1
 departed
 dizzardly
 dardan
