@@ -14362,7 +14362,7 @@ afterswarming
 adrue
 anthranilic
 agitprops
-adjectivism
+adjectivism 1
 anthranol
 atechny
 acuminulate
