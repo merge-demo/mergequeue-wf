@@ -3020,7 +3020,7 @@ furiousness
 faintheartedness
 forma
 ferricyanogen 1
-flukily
+flukily 1
 frondescent
 floaters
 firmament
