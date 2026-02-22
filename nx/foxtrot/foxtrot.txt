@@ -1024,7 +1024,7 @@ finalists
 financiered
 founce
 firesafety
-flourishing
+flourishing 1
 fermentatively
 farinosel
 foussa
@@ -4121,7 +4121,7 @@ fracture
 figging
 frondescing
 forgivingness
-fianced
+fianced 1
 formalist
 federation
 forbs
@@ -6197,7 +6197,7 @@ fjorgyn
 forename
 foully
 foldless
-fleetwing
+fleetwing 1
 forcingly
 freudians
 flautists
