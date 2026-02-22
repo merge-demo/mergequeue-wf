@@ -11093,7 +11093,7 @@ enfants
 effaced
 eyeletter
 envoyship
-estoc
+estoc 1
 encomimia 1
 exuberating
 electrostereotype
