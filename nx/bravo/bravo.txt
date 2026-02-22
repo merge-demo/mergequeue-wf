@@ -12156,7 +12156,7 @@ biosatellites
 bumboats
 bold
 bakshi
-byrnies
+byrnies 1
 barrat
 berengarianism
 besoms
