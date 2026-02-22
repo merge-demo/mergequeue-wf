@@ -1136,7 +1136,7 @@ gunung
 gaol
 graphometry
 grinners
-galliney
+galliney 1
 germinancy
 grifters
 growthless
