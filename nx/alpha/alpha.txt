@@ -3332,7 +3332,7 @@ abiogenous
 azogallein
 aerology
 adays
-amazed
+amazed 1
 acecaffine
 agnizing
 anisodactylous
@@ -14530,7 +14530,7 @@ abjudging
 acclinal
 anthropotheist
 androcephalum
-anilinctus
+anilinctus 1
 attaleh
 arteriography
 anthropotheistic
