@@ -15675,7 +15675,7 @@ clavi
 chirres
 clavicembalist
 clinometric
-claviceps
+claviceps 1
 caiarara
 cartage
 clavichord
