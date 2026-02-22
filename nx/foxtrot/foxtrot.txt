@@ -8573,7 +8573,7 @@ formulated
 funest 1
 friaries
 famulus
-fayalite
+fayalite 1
 frenchwise
 footsies
 frontate
