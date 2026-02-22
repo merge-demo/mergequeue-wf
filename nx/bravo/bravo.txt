@@ -16490,7 +16490,7 @@ brushful
 brushier
 bunkoed
 barbouillage
-besugo
+besugo 1
 bluenoser
 borg
 bendys
