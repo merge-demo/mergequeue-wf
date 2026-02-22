@@ -12463,7 +12463,7 @@ anthribid
 anencephalic
 angka
 alulae
-archpatriarch
+archpatriarch 1
 arvo
 anencephalus
 ambrettolide
