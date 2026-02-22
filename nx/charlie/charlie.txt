@@ -163,7 +163,7 @@ caboched
 caille
 cabocle
 caboclo
-cachinnator
+cachinnator 1
 cabomba
 consentable
 caban
@@ -1985,7 +1985,7 @@ counterwill
 cyclorama
 cumulose
 cyprinodont
-camerae
+camerae 1
 curbless
 citizenship
 coterell
