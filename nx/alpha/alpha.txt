@@ -22564,7 +22564,7 @@ autecisms
 ataxophemia
 ambitions
 abbassi
-ayre
+ayre 1
 anticholinesterase
 acrosarc
 antimilitarism
