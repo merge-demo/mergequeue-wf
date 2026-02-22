@@ -12050,7 +12050,7 @@ bohemium
 bittersweet
 bidders
 becker
-bewhisker
+bewhisker 1
 baronry
 braula
 bidigitate
