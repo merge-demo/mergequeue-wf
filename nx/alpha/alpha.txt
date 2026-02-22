@@ -17402,7 +17402,7 @@ apotropous
 agaricine
 apofenchene
 apozem
-angiostomize
+angiostomize 1
 alcaldes
 apozema
 apozymase
