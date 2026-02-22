@@ -4360,7 +4360,7 @@ farewelled
 furnaced
 frustrated
 ferocities
-friendly
+friendly 1
 freespac
 fleshings
 feaked
