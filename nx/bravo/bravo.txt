@@ -7239,7 +7239,7 @@ bur
 bestiarian
 bestiarist
 bestock
-bestow
+bestow 1
 burgee
 briary
 bushed
