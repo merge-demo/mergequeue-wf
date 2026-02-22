@@ -8515,7 +8515,7 @@ geomedical
 go
 gramaphone
 guildic
-ganglioblast
+ganglioblast 1
 gyrophoric
 gyromitra
 gynecomastia
