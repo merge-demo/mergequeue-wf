@@ -13260,7 +13260,7 @@ epiphytism
 eriodendron
 eldred
 exheredate
-excepts
+excepts 1
 entails
 epeiridae
 ergotaminine
