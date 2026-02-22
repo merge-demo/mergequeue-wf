@@ -13656,7 +13656,7 @@ expansometer
 engrosses
 erma
 echoes
-ecyphellate
+ecyphellate 1
 ensuring
 extenuates
 essed 1
