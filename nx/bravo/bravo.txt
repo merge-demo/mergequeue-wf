@@ -2541,7 +2541,7 @@ bialys
 barbarously 1
 bedark
 belows
-bergere
+bergere 1
 bargelike
 beet
 bargellos
