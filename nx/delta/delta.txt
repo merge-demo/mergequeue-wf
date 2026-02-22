@@ -9400,7 +9400,7 @@ discontentive
 diffusate
 djinni
 duplicator
-diffusers
+diffusers 1
 diffuses 1
 depleted
 danaidean
@@ -13787,7 +13787,7 @@ dissolutional
 devoured
 doubts
 despoils
-dissolutionism
+dissolutionism 1
 dissolvableness
 drail
 dissolve
@@ -16049,7 +16049,7 @@ disquietly
 derabbinize
 dwindle
 daimonistic
-dermathemia
+dermathemia 1
 deathbed
 duograph
 doughty
