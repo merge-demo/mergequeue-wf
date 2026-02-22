@@ -2318,7 +2318,7 @@ endosteum
 electropsychrometer 1
 etymologer
 escalatory
-exterminations
+exterminations 1
 endosecretory
 evangelicalness
 ecphonema
