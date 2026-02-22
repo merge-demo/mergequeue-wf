@@ -20732,7 +20732,7 @@ affrap
 anamnesis
 anteroventrally
 alody
-alwise
+alwise 1
 agrosteral
 agrologic
 adfiliate
