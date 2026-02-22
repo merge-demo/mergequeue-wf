@@ -8925,7 +8925,7 @@ externals
 elocutionist
 epiblast
 embreastment
-earflaps
+earflaps 1
 educationally
 ecumene
 erk
