@@ -25762,7 +25762,7 @@ corroboratory
 creem
 carhouse
 chelonin
-corrode
+corrode 1
 corrie
 cephalodia
 copremic
