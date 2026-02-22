@@ -5789,7 +5789,7 @@ catchline
 ciceros
 catchphrase
 cocona
-cannibalic
+cannibalic 1
 catchpoled
 commation
 catchpolling
