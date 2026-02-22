@@ -6566,7 +6566,7 @@ entangledness
 erns 1
 elflocks
 endotrachelitis
-exhauster
+exhauster 1
 earsore
 entanglements
 extraplanetary

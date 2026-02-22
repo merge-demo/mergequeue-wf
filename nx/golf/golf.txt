@@ -5230,7 +5230,7 @@ grindery
 giraffa
 grissons
 gorgers
-gloamings
+gloamings 1
 grippier
 goetical
 goffers 1
