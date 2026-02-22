@@ -28767,7 +28767,7 @@ crescentader
 cleaving
 crescented
 clocked
-cheapened
+cheapened 1
 compensate
 coacervated
 crescentiform
