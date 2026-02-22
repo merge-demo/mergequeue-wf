@@ -15887,7 +15887,7 @@ achylia
 arnut
 acculturative
 attent
-autorotate
+autorotate 1
 antiqua
 acetylated
 antelope
