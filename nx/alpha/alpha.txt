@@ -12905,7 +12905,7 @@ angulous
 aporose
 antepone
 anticomplementary
-angust
+angust 1
 adrenine
 angustirostrate
 admirator
