@@ -6070,7 +6070,7 @@ featishness
 fille
 foolscaps 1
 felspars
-flacon
+flacon 1
 fumattoria
 furan
 foo
