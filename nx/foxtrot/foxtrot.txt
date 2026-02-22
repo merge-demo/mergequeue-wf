@@ -5514,7 +5514,7 @@ foresummer
 fanatic
 farmerish
 fleeter
-fusionless
+fusionless 1
 firefighter
 forevow
 fatalisms
