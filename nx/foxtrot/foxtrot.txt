@@ -3317,7 +3317,7 @@ finity 1
 flirtationless
 feoffed
 framed
-fortunately
+fortunately 1
 foxfinger
 fungus
 flirtling
