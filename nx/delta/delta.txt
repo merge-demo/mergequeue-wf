@@ -16569,7 +16569,7 @@ dryops 1
 dialuric
 decorations
 deionization
-dispromise
+dispromise 1
 diosmose
 daphnis
 dorados
