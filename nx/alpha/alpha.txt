@@ -14598,7 +14598,7 @@ antimetathetic
 antianopheline
 akim
 antorbital
-apothecial
+apothecial 1
 amphitokous
 antiantibody 1
 acton
