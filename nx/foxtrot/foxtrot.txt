@@ -11361,7 +11361,7 @@ frutage
 forming
 faute
 firetraps
-fosters
+fosters 1
 fossilized
 ferromagneticism
 fegary
