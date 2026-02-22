@@ -9659,7 +9659,7 @@ epenthesize
 exarchic
 epacris
 espagnole
-enfrai
+enfrai 1
 electrographite
 esparsette
 encloud
