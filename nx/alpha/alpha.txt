@@ -2392,7 +2392,7 @@ albardine
 aleukemic
 allamotti
 aminovaleric
-aldopentose
+aldopentose 1
 aettekees
 autolyze
 abridgedly
