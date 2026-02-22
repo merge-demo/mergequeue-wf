@@ -4059,7 +4059,7 @@ freckled
 fingram
 frisch
 foolishly
-fossilisable
+fossilisable 1
 fluxibly 1
 floruits 1
 fibrin
