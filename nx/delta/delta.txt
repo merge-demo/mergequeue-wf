@@ -5169,7 +5169,7 @@ decephalization
 deathly
 diaheliotropic 1
 detruncating
-diazoamino
+diazoamino 1
 denitrifier
 decolourised
 diaphorase
