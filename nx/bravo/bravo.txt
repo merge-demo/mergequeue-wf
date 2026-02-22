@@ -5393,7 +5393,7 @@ begrimed
 benben
 bandusian
 bedeafened
-begrimer
+begrimer 1
 begrimes
 begriming
 begrimmed
