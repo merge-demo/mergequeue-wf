@@ -13245,7 +13245,7 @@ bejelled
 bagmen
 boshes
 brevirostrines
-buggess
+buggess 1
 blazonry
 blushless
 boasters

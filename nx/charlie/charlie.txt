@@ -1506,7 +1506,7 @@ caviares
 cotype
 ciconioid 1
 callants
-chanciest
+chanciest 1
 creaght
 clausular
 chilenite
