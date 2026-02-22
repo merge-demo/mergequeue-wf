@@ -2812,7 +2812,7 @@ deallocate
 daimones
 domitian
 decrypt
-dasyus
+dasyus 1
 dustier
 decubital
 demonstrated
