@@ -8074,7 +8074,7 @@ definienda 1
 diabetes
 debeaker
 duodial
-dysgenical
+dysgenical 1
 dentex
 divinatory
 deciliters
