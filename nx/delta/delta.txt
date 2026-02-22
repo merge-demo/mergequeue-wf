@@ -5550,7 +5550,7 @@ dramatizable 1
 dustfall
 dukeship
 dothideaceous
-dieters
+dieters 1
 deuniting
 drugged
 determiners

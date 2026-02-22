@@ -935,7 +935,7 @@ fundatorial 1
 forthbringer
 fumidity
 forbysening
-findal
+findal 1
 flagships
 frankable
 fourhanded
