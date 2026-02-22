@@ -8684,7 +8684,7 @@ euonym
 extractor
 enervous
 expels
-ectoplasmic
+ectoplasmic 1
 elutriating
 emergently 1
 equinate
