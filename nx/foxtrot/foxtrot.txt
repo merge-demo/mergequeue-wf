@@ -4034,7 +4034,7 @@ furazolidone
 fishery
 forleft
 furrow
-fabricated
+fabricated 1
 filmlike
 fluoaluminic
 fateful
