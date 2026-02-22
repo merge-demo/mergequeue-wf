@@ -20520,7 +20520,7 @@ chapelries
 catalepsies
 clinophobia
 compatibility
-compatibilities
+compatibilities 1
 cainism
 condors
 compatible
