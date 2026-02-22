@@ -11468,7 +11468,7 @@ eligibility
 enchytraeus
 escapeless 1
 emceed
-encephalitogenic
+encephalitogenic 1
 endowers
 expansional
 executrixes
