@@ -4520,7 +4520,7 @@ gmelinite
 ghostwriter 1
 gyrate
 gyrated 1
-grees
+grees 1
 germinable
 gummed 1
 gainpain 1
