@@ -8990,7 +8990,7 @@ dismaler
 deficience
 duodenotomy
 depopulators
-digastric
+digastric 1
 disinvestiture
 dehydrofroze
 disqualifies
