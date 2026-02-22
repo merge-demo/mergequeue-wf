@@ -10368,7 +10368,7 @@ annotating
 anticlimactically
 airbrasive 1
 amyclaean
-apostolici
+apostolici 1
 alisonite
 argentoproteinum
 anatinae
