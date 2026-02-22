@@ -14843,7 +14843,7 @@ doctorless
 dippers 1
 disgracing
 diffusibly
-dimissorial
+dimissorial 1
 discombobulation
 dichlorhydrin
 drafted
