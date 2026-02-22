@@ -15263,7 +15263,7 @@ devant 1
 decelerate
 dhotee
 droopt
-diurnation
+diurnation 1
 diamylose
 dermotropic
 dd
