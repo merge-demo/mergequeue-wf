@@ -6370,7 +6370,7 @@ causalities
 causally
 cirrhose
 causans
-cyphellate
+cyphellate 1
 causationism
 crapefish
 cuffing
