@@ -599,7 +599,7 @@ erythrene
 electrogalvanize
 effeminating
 episiorrhaphy
-eriocaulon
+eriocaulon 1
 echinulated
 endogastrically
 epoxying 1
@@ -1306,7 +1306,7 @@ eyelessness
 electrocystoscope 1
 estotiland
 embowl
-eunuchize 1
+eunuchize 2
 exploringly
 expulses
 ephyrae 2

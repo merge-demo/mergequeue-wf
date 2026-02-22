@@ -7209,7 +7209,7 @@ filmmaker
 fredaine
 famishment
 funnel
-footfarer
+footfarer 1
 fullom
 fearer
 fricassees
@@ -8890,7 +8890,7 @@ figgery
 faery
 fragrance
 fragility
-fatty
+fatty 1
 fanfaron
 ferrotypes
 fados
