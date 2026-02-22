@@ -7589,7 +7589,7 @@ bastardize
 bloodripe
 begiggle
 bejabers
-barnacle
+barnacle 1
 biplicate
 bayaderes
 bemingling
