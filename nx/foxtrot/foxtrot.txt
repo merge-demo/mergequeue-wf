@@ -5665,7 +5665,7 @@ forwhy
 fail
 forfar
 fingerwise
-frontonasal
+frontonasal 1
 flageolet
 ffa
 froglet
