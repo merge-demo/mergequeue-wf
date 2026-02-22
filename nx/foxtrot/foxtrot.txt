@@ -2202,7 +2202,7 @@ facilitated
 forebye
 febricitation
 farraginous
-ferroelectricity
+ferroelectricity 1
 fantasmagoria
 fixe
 fritted
@@ -8879,7 +8879,7 @@ fluter
 fettstein 1
 feston
 fruggin
-farcing
+farcing 1
 freckleproof
 flatfishes
 featureless
