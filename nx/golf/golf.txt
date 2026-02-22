@@ -10653,7 +10653,7 @@ griddler
 gortonite
 gundeck 1
 gliding
-geckotoid
+geckotoid 1
 gyracanthus
 gurgitation
 gametogony
