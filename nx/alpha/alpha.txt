@@ -17657,7 +17657,7 @@ albus
 acetylbenzene
 applaudably
 ancyroid
-allicin
+allicin 1
 applauders
 aponeuroses
 akolouthia
