@@ -2485,7 +2485,7 @@ enfoncee
 epimerise
 exostracism
 electrogilt
-electrogram
+electrogram 1
 equivocates
 exegete
 enstatite
