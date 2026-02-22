@@ -8770,7 +8770,7 @@ faussebraie 1
 fala 1
 facient
 frizzled
-faintise
+faintise 1
 farde
 floatages
 fluoranthene
