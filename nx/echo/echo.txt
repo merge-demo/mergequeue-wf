@@ -12255,7 +12255,7 @@ eloiner
 emphasising
 encommon
 expounding
-exasperative
+exasperative 1
 execrated
 elegists
 eluvium
