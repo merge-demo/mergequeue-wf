@@ -7986,7 +7986,7 @@ eardrop 2
 equivocatory
 esquiring
 elflock
-equivalvular
+equivalvular 1
 equitant
 epimanikion
 epimeres
