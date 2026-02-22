@@ -11072,7 +11072,7 @@ fixups
 frayproof
 fractionated 1
 forficated
-fidgeting
+fidgeting 1
 flocs
 forgetters
 frivoling
