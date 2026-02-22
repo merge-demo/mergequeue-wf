@@ -2767,7 +2767,7 @@ disharmonize
 dicyemida
 demarches
 deftnesses
-dollardom
+dollardom 1
 dulcite
 disarranges
 downloaded
