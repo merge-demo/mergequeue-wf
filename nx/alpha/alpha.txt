@@ -7755,7 +7755,7 @@ adequative
 alchemically
 argillitic
 aflow
-auriculoid
+auriculoid 1
 amarantus
 ale
 arctia
@@ -11429,7 +11429,7 @@ audiometers 1
 anabaptists
 autoheader
 adenocele
-acrospore
+acrospore 1
 anabases
 ageists
 afterpain
@@ -13578,7 +13578,7 @@ aghanee
 annalia
 apprenticed
 ambivalent
-attour
+attour 1
 agomensin
 anoestrum
 amygdalothripsis
