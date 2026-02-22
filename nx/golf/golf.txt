@@ -245,7 +245,7 @@ groom
 giornatate
 gambrelled
 glaires
-glyph
+glyph 1
 gumminess
 garfish
 galoisian 1
