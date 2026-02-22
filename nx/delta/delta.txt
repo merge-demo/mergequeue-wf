@@ -566,7 +566,7 @@ discretiveness
 dogfish
 disclosures
 dramamine
-doff
+doff 1
 damnability
 disegno
 dupioni
