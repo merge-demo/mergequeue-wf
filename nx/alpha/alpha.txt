@@ -11278,7 +11278,7 @@ abhorrently
 alupag
 autocephaly
 absorptance
-abating
+abating 1
 amplication
 anticipated 1
 assignable
