@@ -2230,7 +2230,7 @@ filthified
 flesher
 frigiferous
 flopping 1
-footnoting
+footnoting 1
 foreimpressed
 flotsan
 folio
@@ -3716,7 +3716,7 @@ finched
 figure
 fewter
 fibrilated
-fidos
+fidos 1
 falsifying
 furbishing
 flaying
