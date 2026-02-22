@@ -17686,7 +17686,7 @@ bicornes
 begazed
 bestead
 binauricular
-burgages
+burgages 1
 bovines
 blimpish
 beshouts
