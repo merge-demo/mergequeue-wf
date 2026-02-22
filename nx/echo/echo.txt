@@ -1569,7 +1569,7 @@ episcopised
 evoke
 enterocoelic
 embow
-encarnadine
+encarnadine 1
 emarginately
 eggfruit
 easies
