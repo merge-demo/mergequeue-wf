@@ -11639,7 +11639,7 @@ discontents
 duplex
 discontiguity
 discontinuances
-dambonite
+dambonite 1
 debuts 1
 dishabit 1
 defeminize
