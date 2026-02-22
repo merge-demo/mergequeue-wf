@@ -3918,7 +3918,7 @@ bidding
 basifacial
 bawneen
 bawra
-bintangor
+bintangor 1
 belugite
 barklyite
 brutalness
