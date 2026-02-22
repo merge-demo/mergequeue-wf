@@ -6197,7 +6197,7 @@ fjorgyn
 forename
 foully
 foldless
-fleetwing
+fleetwing 1
 forcingly
 freudians
 flautists
