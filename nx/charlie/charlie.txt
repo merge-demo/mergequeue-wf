@@ -10347,7 +10347,7 @@ cooperite
 colly
 cystinuria
 chics
-chide
+chide 1
 callid
 chided
 chiders
