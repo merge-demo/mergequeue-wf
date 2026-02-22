@@ -11860,7 +11860,7 @@ durry
 discure
 desulfurs
 desistance
-discriminates
+discriminates 1
 disponee
 disgorger
 deworms
