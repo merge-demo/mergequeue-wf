@@ -6029,7 +6029,7 @@ expromissor
 extimulate
 expire
 epiglottises
-edginess
+edginess 1
 epiphytotic
 epistolical
 epistles
