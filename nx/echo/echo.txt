@@ -3069,7 +3069,7 @@ enfranchisement
 epidotes
 elytroposis
 elytrorhagia
-euglandina
+euglandina 1
 elytrostenosis
 elytrotomy 1
 eobiont 1
