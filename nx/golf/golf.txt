@@ -9721,7 +9721,7 @@ gelder 1
 gidgea
 granuliform 1
 gruellings
-grievant
+grievant 1
 gasp
 gregale
 gratifying
