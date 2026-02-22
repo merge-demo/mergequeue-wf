@@ -5300,7 +5300,7 @@ despotize
 diatomacean
 datives
 decimalized
-demibombard
+demibombard 1
 disguising
 dysteleology
 displant
