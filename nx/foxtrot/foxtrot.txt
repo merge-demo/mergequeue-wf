@@ -1538,7 +1538,7 @@ foodless 1
 female
 foulish 1
 foreshift
-foetuses
+foetuses 1
 fauterer 1
 flannelleaf
 fimbriodentate
