@@ -1352,7 +1352,7 @@ green
 gerodermia
 gasteralgia
 guidership
-gauss
+gauss 1
 goodwives
 garglers
 graplins
