@@ -7128,7 +7128,7 @@ flatterer
 forejudger
 formfeeds
 fellfare
-frig
+frig 1
 footful
 foolhardiness
 fidgety
