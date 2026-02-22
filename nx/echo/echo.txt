@@ -11173,7 +11173,7 @@ exopt
 erne
 ecce
 eutychian
-esocyclic
+esocyclic 1
 everly
 ecclesiarch
 endamages
