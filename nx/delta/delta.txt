@@ -6887,7 +6887,7 @@ discolors
 dahabiyeh
 deadliest
 duumviral
-deficit
+deficit 1
 drollist
 daying
 discomposes
