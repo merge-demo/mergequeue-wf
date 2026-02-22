@@ -853,7 +853,7 @@ fervorous
 forbow
 free
 fermage
-fantasying
+fantasying 1
 fluxionally
 flasks 1
 farforthly
@@ -2297,7 +2297,7 @@ fixatifs
 foggy
 fictionalizes
 fondaco
-feminizes
+feminizes 1
 friday
 ftnerr 1
 forbysen
@@ -4239,7 +4239,7 @@ fibroin
 fatherlands
 former
 fundiform
-fisticuffs
+fisticuffs 1
 fluxile
 fruitlessness
 fragmentally
@@ -11021,7 +11021,7 @@ frivolist 1
 flawedness
 fibrocystoma
 fossilizes 1
-favouring
+favouring 1
 foraying
 forestay
 fumigated

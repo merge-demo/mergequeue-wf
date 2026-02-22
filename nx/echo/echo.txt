@@ -4219,7 +4219,7 @@ eucharists
 epembryonic
 enghle
 enwound
-extratheistic
+extratheistic 1
 emptiers
 emptiness
 esterellite
@@ -10251,7 +10251,7 @@ etesian
 expounds
 exculpating
 externalisation
-epithelilia
+epithelilia 1
 equisized
 eclair
 emotionalistic 1
@@ -14125,7 +14125,7 @@ extrinsication
 euryalean
 enthralls 1
 emictory
-exhortatively
+exhortatively 1
 emplastrum
 exposers
 extroitive
