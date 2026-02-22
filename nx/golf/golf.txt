@@ -3492,7 +3492,7 @@ grammaticize 1
 gyrfalcon
 geriatric
 gladdening
-gulo
+gulo 1
 gastropore
 gouge
 guttles 1
