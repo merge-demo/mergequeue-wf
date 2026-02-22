@@ -13252,7 +13252,7 @@ espingole
 empressement
 embosser
 enrheum
-enzooty
+enzooty 1
 explainable
 explainableness
 eductor
