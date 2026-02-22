@@ -11228,7 +11228,7 @@ apetalies 1
 axiality
 amphithura
 amphipnous
-amphibian
+amphibian 1
 anticodon
 asperated
 alloquy
