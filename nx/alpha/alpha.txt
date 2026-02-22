@@ -21775,7 +21775,7 @@ alish
 apsidally
 amalaita
 assertress
-assertum
+assertum 1
 agricolous
 acanaceous
 apterous
