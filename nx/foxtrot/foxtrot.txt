@@ -1147,7 +1147,7 @@ fatally
 fearbabe 1
 frett
 feebleminded
-feller
+feller 1
 figeaters 1
 flyblows
 footy
