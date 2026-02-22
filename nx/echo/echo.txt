@@ -11511,7 +11511,7 @@ elided
 encipherment
 elucidation
 elytrorrhagia
-eniac
+eniac 1
 engraving 1
 ephemera
 enhaloes
