@@ -10548,7 +10548,7 @@ grinderies
 grasset
 gemlike 1
 gloeosporium
-glucate
+glucate 1
 gara
 grecoue
 gnomish
