@@ -9327,7 +9327,7 @@ flat
 forsado
 fitchet
 fluidise
-frizziness
+frizziness 1
 forty
 foveae
 forgivingly
