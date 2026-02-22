@@ -2899,7 +2899,7 @@ acrostic
 accidentiality
 anacromyodian
 advisive
-albugineous
+albugineous 1
 acrostical
 acrostichoid
 acrostichum
