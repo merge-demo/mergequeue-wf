@@ -9719,7 +9719,7 @@ desiderate
 destroys
 dejectly
 dragonlike
-dispunct
+dispunct 1
 decremented 1
 dalasis
 dilatative
