@@ -1858,7 +1858,7 @@ foute
 fanwork
 freezy
 fluoroborate
-fewer
+fewer 1
 flintier
 foredoom
 footstep
