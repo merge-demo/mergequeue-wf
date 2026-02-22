@@ -16850,7 +16850,7 @@ bantoid 1
 bicolligate
 bromoauric
 buffalo
-buffalofish
+buffalofish 1
 burglarised
 biarcuated
 biflagellate
