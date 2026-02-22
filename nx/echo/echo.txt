@@ -3760,7 +3760,7 @@ elaeocarpaceae
 encuirassed
 embryotega
 etherialise
-eom
+eom 1
 embryotegae
 excogitates
 environage
@@ -4132,7 +4132,7 @@ esperanto
 electrovalence
 elasticity
 endocritic 2
-emballonurine 1
+emballonurine 2
 employe
 edictum
 epigene
@@ -9775,7 +9775,7 @@ exitious
 enthusiast
 expressure
 eruginous 1
-exergonic 1
+exergonic 2
 essentially
 exigencies
 expeditation

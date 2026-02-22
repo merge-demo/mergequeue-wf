@@ -2392,7 +2392,7 @@ albardine
 aleukemic
 allamotti
 aminovaleric
-aldopentose
+aldopentose 1
 aettekees
 autolyze
 abridgedly
@@ -3337,7 +3337,7 @@ acecaffine
 agnizing
 anisodactylous
 aristida
-abroma
+abroma 1
 anthranil
 antipolyneuritic
 adamantinoma
@@ -5823,7 +5823,7 @@ angelonia
 aarrghh
 agglutinize
 anathematization
-agglutinogen 1
+agglutinogen 2
 acclaiming
 amblygeusia
 ambiance
@@ -7780,7 +7780,7 @@ accorders
 advocacy
 alecost
 alectoria
-atterminal
+atterminal 1
 aprosopia
 abreast
 assuringly

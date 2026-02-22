@@ -3092,7 +3092,7 @@ goan
 golandaas 1
 gooseherd
 graduators
-germinative
+germinative 1
 guise 1
 grecing
 geopolitical
@@ -8588,7 +8588,7 @@ ground 1
 geodiferous
 gremmy 1
 gibbeting
-gaufrettes
+gaufrettes 1
 gastronomics
 geometrizing
 gravidate
