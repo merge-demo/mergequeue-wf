@@ -13954,7 +13954,7 @@ enterostenosis
 evidently
 enface
 electropoion
-enallage
+enallage 1
 extravasate
 excuse
 equicurve
