@@ -663,7 +663,7 @@ gonfalon 1
 gratillity
 greeters
 grunters
-gimmals
+gimmals 1
 goldney
 genteelness
 gilden
