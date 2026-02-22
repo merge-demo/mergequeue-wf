@@ -137,7 +137,7 @@ dudler 1
 delapse
 depicted
 daemonistic
-dowsing
+dowsing 1
 disconducive 1
 depopulates
 dilemma
