@@ -11992,7 +11992,7 @@ echeneid
 evaporation
 epiploon
 equilibrity
-excitations
+excitations 1
 eastbound
 enveloped
 enfuddle
