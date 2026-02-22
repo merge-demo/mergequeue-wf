@@ -4526,7 +4526,7 @@ epanthous
 epirrheme
 entalent
 eery
-enrange
+enrange 1
 entrepreneurial 1
 extensibility
 enactive 1
