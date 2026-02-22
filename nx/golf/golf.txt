@@ -2292,7 +2292,7 @@ genipapada
 gelatine
 gangling
 garroting
-gaposis
+gaposis 1
 gazer
 gondoliere
 gerastian
