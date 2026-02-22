@@ -17156,7 +17156,7 @@ anthropoid
 atmos
 arcking
 apartment
-amphidiscophoran
+amphidiscophoran 1
 adaptableness
 ankerites
 anatosaurus
