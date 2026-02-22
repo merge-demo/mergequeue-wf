@@ -1993,7 +1993,7 @@ enrichener
 erinite
 endued
 elastics
-exothermal
+exothermal 1
 economizing
 effetman
 electrine
