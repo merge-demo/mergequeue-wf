@@ -19827,7 +19827,7 @@ armful
 acronyms
 antisophistic
 acetonaemia
-antisupernaturalism
+antisupernaturalism 1
 antimethodically
 anatomising
 astrobiologist
