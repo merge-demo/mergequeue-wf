@@ -11319,7 +11319,7 @@ enterozoa
 excavated
 emblematical
 ergometrine
-exsolved
+exsolved 1
 extrapoetical
 eschoppe
 entastic
