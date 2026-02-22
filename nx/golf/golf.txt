@@ -6454,7 +6454,7 @@ georgiadesite
 gonapophysial
 gravelled
 gruffness
-grouseless
+grouseless 1
 garnierite
 gurdwara
 glaikitness
