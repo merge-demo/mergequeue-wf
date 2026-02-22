@@ -18191,7 +18191,7 @@ dineuric
 decolorizing
 dotriacontane
 dorsolateral
-dentata
+dentata 1
 dandyize
 dumpled
 diploglossate
