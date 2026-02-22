@@ -10275,7 +10275,7 @@ fibra
 filite
 fissure
 fichu
-foreslack
+foreslack 1
 feedings
 froggies
 freezed
