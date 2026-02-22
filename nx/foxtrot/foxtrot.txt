@@ -3484,7 +3484,7 @@ florilegia
 fletton
 figeater
 funambulism
-flexionless
+flexionless 1
 feud
 futileness
 fogramite
@@ -3629,7 +3629,7 @@ flank
 fructification
 felinity
 floorway
-femora
+femora 1
 fuliguline
 faculous
 forgotten
