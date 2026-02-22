@@ -12280,7 +12280,7 @@ deorsumvergence
 damndest
 diabolepsy
 duarchy
-disposed
+disposed 1
 dysgonic 1
 dataflow
 deuterotype
