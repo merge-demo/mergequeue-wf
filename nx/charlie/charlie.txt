@@ -25134,7 +25134,7 @@ cores
 carbonates
 chlorospinel
 coresign
-coresonant
+coresonant 1
 cancans
 convento
 cadmia
