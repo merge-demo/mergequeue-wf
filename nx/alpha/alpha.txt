@@ -14541,7 +14541,7 @@ anthoceros
 acetanion
 antidiphtherin
 anthropurgic
-anthroxanic
+anthroxanic 1
 antipolemist
 amenorrhoeic
 anththeridia
