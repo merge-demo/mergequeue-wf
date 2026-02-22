@@ -1543,7 +1543,7 @@ endocystitis
 entocondylar
 endophytous
 excavate
-electionary
+electionary 1
 echograph
 entomophilous
 epicalyxes
