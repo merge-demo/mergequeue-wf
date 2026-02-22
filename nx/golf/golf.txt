@@ -3092,7 +3092,7 @@ goan
 golandaas 1
 gooseherd
 graduators
-germinative
+germinative 1
 guise 1
 grecing
 geopolitical
