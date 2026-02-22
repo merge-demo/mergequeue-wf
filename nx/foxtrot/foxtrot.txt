@@ -11273,7 +11273,7 @@ frijol 1
 fivers
 fibroglia
 furbish
-flaxwife
+flaxwife 1
 frigorify
 furrowed
 foregut
