@@ -1798,7 +1798,7 @@ entophytically
 earthshock
 elaphomyces 1
 electrophotometry
-eyeservant
+eyeservant 1
 eyeshade
 exolve
 enticingness
