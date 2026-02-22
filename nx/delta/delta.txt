@@ -14729,7 +14729,7 @@ dimensionality
 diphylleia
 daktylos
 dianoetic
-detumescent 1
+detumescent 2
 dotlike
 der 1
 disheveled
