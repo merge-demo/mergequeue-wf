@@ -18202,7 +18202,7 @@ distrust
 dunbird 1
 dermatoscopy
 dieselizing
-disarticulated
+disarticulated 1
 depravedness
 diablerie
 divinifying
