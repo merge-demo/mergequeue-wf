@@ -14486,7 +14486,7 @@ cyst
 consoler
 cirrigerous
 casper
-continuantly
+continuantly 1
 clowders
 cogitating
 caddle
