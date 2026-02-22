@@ -7968,7 +7968,7 @@ fanglike 1
 foreshadow
 forgivenesses
 fiberware
-frenal
+frenal 1
 foreshadowed 2
 foins
 featherman
