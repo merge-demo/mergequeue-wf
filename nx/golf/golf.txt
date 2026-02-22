@@ -6981,7 +6981,7 @@ gunnership 1
 grooty
 greengrocers
 gyrovague
-goofed
+goofed 1
 glossodynamometer
 gaviae
 griefless
