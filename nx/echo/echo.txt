@@ -13512,7 +13512,7 @@ editing
 emblem
 eristic
 epistolize 1
-expanses
+expanses 1
 elinor
 earful
 examine
