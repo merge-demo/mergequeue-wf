@@ -9373,7 +9373,7 @@ eruditical
 estrangedness
 ensilaged
 estop
-erudition
+erudition 1
 erinys 1
 endosiphon
 encrusted
