@@ -5028,7 +5028,7 @@ evanished
 extraviolet
 esculapian
 ensuer
-emphaticalness
+emphaticalness 1
 ectoproct 2
 enrage
 exemplum
