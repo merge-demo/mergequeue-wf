@@ -12211,7 +12211,7 @@ demideify
 dichocarpism
 dribblement
 dysphonic
-disrelate
+disrelate 1
 disfoliaged
 distich
 dreamless
