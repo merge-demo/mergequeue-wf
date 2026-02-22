@@ -6490,7 +6490,7 @@ freshish
 farmed
 forwarder
 fluorobenzene 1
-fructifies
+fructifies 1
 fesapo
 foothalt 1
 frivoled
