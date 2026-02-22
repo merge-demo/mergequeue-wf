@@ -2855,7 +2855,7 @@ daedalist
 dispensatorily
 define
 devotions
-drepanis
+drepanis 1
 dilatory
 doability
 deuteroscopic
