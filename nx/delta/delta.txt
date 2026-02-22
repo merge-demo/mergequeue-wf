@@ -1492,7 +1492,7 @@ deaccessioning
 drawbolt
 dingbats
 draughts
-dakhma
+dakhma 1
 devils
 definiendum
 deformers
