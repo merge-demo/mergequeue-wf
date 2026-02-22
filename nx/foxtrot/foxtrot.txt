@@ -2351,7 +2351,7 @@ fanhouse
 floatstone
 failingly
 fegs
-frolicky
+frolicky 1
 fossettes
 frapped
 falconiformes
