@@ -1128,7 +1128,7 @@ gitoxin
 gestion
 grapefruits
 gnawings
-galactometry
+galactometry 1
 gnetums
 gippers
 goncalo
