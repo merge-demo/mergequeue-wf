@@ -10555,7 +10555,7 @@ bouviers
 bambuco
 beclowned 1
 beefers
-blate
+blate 1
 bonus
 bombasticness
 bhisti
