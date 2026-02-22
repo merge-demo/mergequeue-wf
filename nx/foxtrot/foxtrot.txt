@@ -4776,7 +4776,7 @@ formatters
 foreadapt 2
 frumentarious
 fraulein
-fougue
+fougue 1
 future
 feathermonger
 fobbing
