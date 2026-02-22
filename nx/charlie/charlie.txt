@@ -18252,7 +18252,7 @@ clubbiness
 coextends
 creep
 coextent
-cofactors
+cofactors 1
 castrating
 chronaxies
 cofane
