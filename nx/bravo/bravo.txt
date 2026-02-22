@@ -2637,7 +2637,7 @@ burets
 becharmed 1
 brands
 baritenor
-barberry
+barberry 1
 bucerotinae
 barytocelestite
 barytons
