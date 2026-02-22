@@ -7287,7 +7287,7 @@ denegate
 dessa
 doko 1
 deplaned
-dipneumona
+dipneumona 1
 demifarthing
 decarbonating
 deckings
@@ -7931,7 +7931,7 @@ dendrites
 duckeries
 diacanthous
 dismes
-drupiferous
+drupiferous 1
 dartos
 disformity
 durenol
