@@ -2216,7 +2216,7 @@ feminineness
 forthcame
 fchar
 fingerling
-firers
+firers 1
 fauteuil 1
 feudee
 follows
