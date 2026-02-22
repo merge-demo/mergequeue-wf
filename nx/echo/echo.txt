@@ -12061,7 +12061,7 @@ egestions
 enlivenment
 endorachis
 engenderment
-esp
+esp 1
 enwwove
 ecphrasis
 electrostenolytic
@@ -13559,7 +13559,7 @@ exhance
 empanoply
 eateries
 exsibilation
-ettarre
+ettarre 1
 evadable
 egests
 exsiccant
