@@ -1336,7 +1336,7 @@ estrado
 enteroid
 epyllia
 electrocardiogram
-exodium
+exodium 1
 epicranius
 exon
 eesome
