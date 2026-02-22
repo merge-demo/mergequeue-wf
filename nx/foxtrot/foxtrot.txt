@@ -10727,7 +10727,7 @@ faradays
 fartlek 1
 fortran
 flunkeyistic
-flavedo
+flavedo 1
 frutescence
 fetter 1
 folkmots
