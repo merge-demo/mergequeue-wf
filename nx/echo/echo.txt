@@ -5071,7 +5071,7 @@ endochorionic 1
 ensnarled
 euphory
 encrinitical
-engrains
+engrains 1
 elatha
 endocyst
 epodic
