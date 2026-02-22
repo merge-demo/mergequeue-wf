@@ -4894,7 +4894,7 @@ glaga
 geologies 1
 gibbetted
 geodesics
-glagolic
+glagolic 1
 gonimium
 glucuronic 1
 genitally
