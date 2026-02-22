@@ -9976,7 +9976,7 @@ examinate
 extrospection
 englishize
 enfonced
-exacuate
+exacuate 1
 entrep
 estuarial
 epagogic
