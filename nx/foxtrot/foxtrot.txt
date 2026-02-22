@@ -10974,7 +10974,7 @@ firebolt
 fleshlier
 flatuous
 floricin
-fumatoria
+fumatoria 1
 frisson
 freesilverism
 forcedly
