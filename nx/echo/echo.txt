@@ -7869,7 +7869,7 @@ exarchate 1
 easefulness
 epistolet
 exophoria
-ejaculator
+ejaculator 1
 eddish
 eurytropic
 epigoni
