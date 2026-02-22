@@ -8879,7 +8879,7 @@ fluter
 fettstein 1
 feston
 fruggin
-farcing
+farcing 1
 freckleproof
 flatfishes
 featureless

@@ -6110,7 +6110,7 @@ esoterism
 extremum
 elephantiases
 expropriate
-epicureanism
+epicureanism 1
 ereptic 1
 electrodiagnosis 1
 equals
