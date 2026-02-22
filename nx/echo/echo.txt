@@ -2789,7 +2789,7 @@ elegising
 ectoenzym
 elegized
 epifauna 1
-encrusts
+encrusts 1
 eutocia
 extrusions
 exhilaratory
