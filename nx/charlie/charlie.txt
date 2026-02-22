@@ -19004,7 +19004,7 @@ constables
 collectibility
 collectible
 cinnamon
-collectivise
+collectivise 1
 collectivism
 collectivist
 circumcircle
