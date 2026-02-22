@@ -2777,7 +2777,7 @@ chondroid
 curie
 chwana
 counterstrike
-coquet
+coquet 1
 cableman
 cannie
 cannier
