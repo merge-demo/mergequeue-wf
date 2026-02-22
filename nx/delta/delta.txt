@@ -3087,7 +3087,7 @@ dairymaids
 demiseason
 dauntlessly
 disadvantaging
-defoliant
+defoliant 1
 distributions
 dipygus
 discolith
