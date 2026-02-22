@@ -7359,7 +7359,7 @@ eat
 endotheliulia
 epagomenae
 epagomenous
-earwaxes
+earwaxes 1
 eumitosis
 exception
 eurypylous

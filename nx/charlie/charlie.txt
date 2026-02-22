@@ -31527,7 +31527,7 @@ curring
 coulomb
 cornada
 cyrenaic
-currock
+currock 1
 clupeoids
 culiciform
 collectivization
