@@ -6718,7 +6718,7 @@ firca
 foehnlike
 furcilia
 fulgurating
-flisked
+flisked 1
 flossing
 forenotice
 folkright
