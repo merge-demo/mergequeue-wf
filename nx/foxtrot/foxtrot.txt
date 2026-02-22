@@ -590,7 +590,7 @@ frappe
 funerate
 fixt
 fenugreek
-fritting
+fritting 1
 freebee
 frighteningly
 furmety
