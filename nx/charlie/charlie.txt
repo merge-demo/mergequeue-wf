@@ -1097,7 +1097,7 @@ calciferol
 calcified
 coarticulate
 counterboycott
-codens
+codens 1
 calcifying
 codelight
 cammas
