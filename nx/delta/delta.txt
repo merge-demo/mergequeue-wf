@@ -8540,7 +8540,7 @@ dyschromatopsia
 dethrone
 didacts
 diaphanometric
-dampishness
+dampishness 1
 debateful
 dewfall
 douglas
