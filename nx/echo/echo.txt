@@ -5667,7 +5667,7 @@ erotism
 entrough
 enamellar
 emulative
-expectorants
+expectorants 1
 endothermically
 extraventricular
 extras
@@ -5969,7 +5969,7 @@ epotation
 enigmatizing
 enigmatographer
 encyclopaedic
-erogenic
+erogenic 1
 envenoming 1
 excreter
 enisles
@@ -9233,7 +9233,7 @@ everwhich
 empiricism
 echelon
 exotropia
-explosimeter
+explosimeter 1
 enclasp
 eutropous
 eroticizing
@@ -10946,7 +10946,7 @@ equaller
 electromyographically
 exothermic
 ethanoyl
-eanlings
+eanlings 1
 eudemian
 epicerebral
 epibaterium
