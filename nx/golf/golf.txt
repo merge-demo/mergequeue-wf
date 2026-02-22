@@ -8610,7 +8610,7 @@ guti
 grammars
 gashy
 glucosin
-gauntleted
+gauntleted 1
 gulfed 1
 gingerleaf
 globosphaerite
