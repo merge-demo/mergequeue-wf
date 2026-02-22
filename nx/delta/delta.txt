@@ -5388,7 +5388,7 @@ dodecanesian
 denuder
 demulsion
 dialysation 1
-dorsum
+dorsum 1
 denumerably
 disestablished 1
 drumbledore
