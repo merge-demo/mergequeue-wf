@@ -1119,7 +1119,7 @@ asymptotic
 abutilon
 apomorphine
 accusal
-assertible
+assertible 1
 angiocavernous
 aluminish
 ataghans
