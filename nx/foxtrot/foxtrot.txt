@@ -3482,7 +3482,7 @@ fifties
 fiftieth
 florilegia
 fletton
-figeater
+figeater 1
 funambulism
 flexionless
 feud

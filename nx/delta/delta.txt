@@ -11967,7 +11967,7 @@ dairt
 dentifrices
 debenture
 degum
-detestability
+detestability 1
 dissociate
 dilapidated
 dyable
