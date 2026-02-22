@@ -13672,7 +13672,7 @@ ecphonesis
 exampling
 exorcisation
 epilogism
-etruscan
+etruscan 1
 ecclesiarchy
 embacle
 euchre 1
