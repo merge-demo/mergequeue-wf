@@ -3023,7 +3023,7 @@ decarbonized
 doggish
 desegregation
 deerstalkers
-deposable
+deposable 1
 deerstalking
 discourses
 deerweed
