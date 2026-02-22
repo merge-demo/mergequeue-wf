@@ -2294,7 +2294,7 @@ bacons
 blastment
 breccial
 bandar 1
-barbarized
+barbarized 1
 bargainwise
 beleaping
 bentonitic
