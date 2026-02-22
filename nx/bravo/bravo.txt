@@ -7268,7 +7268,7 @@ belles
 basses 1
 blueberry
 bids
-bestrides
+bestrides 1
 brothered
 boondock
 bathochromatic
