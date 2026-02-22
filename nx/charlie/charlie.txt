@@ -26984,7 +26984,7 @@ compartmentize
 counterpaned
 corneagen
 counterparry
-counterpart
+counterpart 1
 counterpassant
 counterpendent
 circumventer
