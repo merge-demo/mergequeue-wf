@@ -5554,7 +5554,7 @@ cheeney
 cataclysmic
 cataclysmically
 crowboot
-cpm
+cpm 1
 catacombs 1
 cyanamide
 collaborator
