@@ -4665,7 +4665,7 @@ electromer
 eild 1
 evolve
 eremiteship
-enchoric
+enchoric 1
 exuberance
 entablement
 energico
