@@ -13670,7 +13670,7 @@ cytomorphology
 crankcase
 cinching
 cosmolining
-cincholoipon
+cincholoipon 1
 countercharging
 contusing
 conuzor
@@ -25283,7 +25283,7 @@ cacophonize
 choom
 cormac
 cormel
-cops
+cops 1
 concetto
 chamaecrista
 coardent
@@ -26742,7 +26742,7 @@ countercolored
 cliff
 countercompetition
 countercompony
-cramberry
+cramberry 1
 counterconditioning
 countercoupe
 countercourant
@@ -31527,7 +31527,7 @@ curring
 coulomb
 cornada
 cyrenaic
-currock
+currock 1
 clupeoids
 culiciform
 collectivization
