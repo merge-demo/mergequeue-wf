@@ -10277,7 +10277,7 @@ galvanomagnet
 grasshopperdom
 gymnoceratous
 galliambus
-gerrymanderer
+gerrymanderer 1
 gorges
 gridded
 geic
