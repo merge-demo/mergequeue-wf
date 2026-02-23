@@ -5069,7 +5069,7 @@ eremitic
 expending 1
 endochorionic 1
 ensnarled
-euphory
+euphory 1
 encrinitical
 engrains 1
 elatha
