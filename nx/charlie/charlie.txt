@@ -23993,7 +23993,7 @@ convented
 coelicolist
 cylinderlike
 circumscribed
-craniotome
+craniotome 1
 convention
 cutlassfish
 conventionalised 1
