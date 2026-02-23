@@ -2777,7 +2777,7 @@ acrodactyla 1
 albahaca
 anarithmia
 apologetic
-argonauta
+argonauta 1
 adscriptitius
 accise
 ashmolean
