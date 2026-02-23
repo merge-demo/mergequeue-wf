@@ -5066,7 +5066,7 @@ equitangential
 eccentrically
 enslavers
 eremitic
-expending
+expending 1
 endochorionic 1
 ensnarled
 euphory
