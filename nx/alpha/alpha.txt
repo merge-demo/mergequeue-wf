@@ -24336,7 +24336,7 @@ afterworking
 andropogon
 autoplast
 affianced 1
-autopolar
+autopolar 1
 autopolyploid
 autoclaving
 autopolo
