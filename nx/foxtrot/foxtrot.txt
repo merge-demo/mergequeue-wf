@@ -1219,7 +1219,7 @@ flexural
 faurd
 fatuities
 freieslebenite
-foreignization
+foreignization 1
 funkias
 firing
 fellaheen
