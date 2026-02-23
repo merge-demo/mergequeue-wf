@@ -18653,7 +18653,7 @@ disbarments
 daimyo
 devitrification
 decolorize
-devaporation
+devaporation 1
 dereign
 deathful
 deflagrability
