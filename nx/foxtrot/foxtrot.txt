@@ -7347,7 +7347,7 @@ floorboards
 fancysick 1
 fertil
 fermentor 1
-footwarmer
+footwarmer 1
 fortnight
 forekeel 1
 focalized
