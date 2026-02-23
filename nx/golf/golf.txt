@@ -2300,7 +2300,7 @@ gristlier
 grainland
 ge
 gingival
-geistlich
+geistlich 1
 grayhair
 graviton
 gateman
