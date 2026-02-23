@@ -15636,7 +15636,7 @@ duperies
 doozies
 dihydrite
 demobilisation
-determine
+determine 1
 dopchick
 dopebook
 dezincs
