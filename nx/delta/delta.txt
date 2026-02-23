@@ -13193,7 +13193,7 @@ derangement
 disguisement
 directiveness
 dysphonia
-descensory
+descensory 1
 dicentrin
 damasks
 dispiritedly 1
