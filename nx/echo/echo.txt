@@ -11965,7 +11965,7 @@ enjambed
 exhaustless
 exocataphoria
 exairesis
-excretolic
+excretolic 1
 esthesis
 euphonically
 exponents
