@@ -17777,7 +17777,7 @@ cocopan
 cocotte 1
 cheniller
 cenesthetic
-cocottes
+cocottes 1
 cocobolo
 condemnate
 cockalan
