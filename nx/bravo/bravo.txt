@@ -12911,7 +12911,7 @@ baptizers
 bullshot
 bluings
 boorishness 1
-bulldog
+bulldog 1
 bertrandite
 blondes
 burst
