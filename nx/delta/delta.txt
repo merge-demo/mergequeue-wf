@@ -3442,7 +3442,7 @@ discomfortably
 defluent
 didepsid 1
 downhanging
-debyes
+debyes 1
 disassociating
 diatoric
 doffed
