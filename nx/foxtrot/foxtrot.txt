@@ -1209,7 +1209,7 @@ forloin 1
 fusilier
 folksinging 1
 foolishness
-fashing
+fashing 1
 fritt
 fascinate
 fixator

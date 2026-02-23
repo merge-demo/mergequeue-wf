@@ -21262,7 +21262,7 @@ anapophysis
 anticonformist
 ashrama
 ashtoreth
-aspartic
+aspartic 1
 anchat
 ashvamedha
 abusive
