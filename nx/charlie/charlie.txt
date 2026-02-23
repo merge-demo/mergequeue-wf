@@ -28340,7 +28340,7 @@ carboxy
 cerography
 counterdraft
 christenhead
-cravingness
+cravingness 1
 cuesta
 chlorophoenicite
 comportment
