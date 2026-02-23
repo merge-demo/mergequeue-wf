@@ -955,7 +955,7 @@ extrastate
 episedia
 encomiastic
 excommunicators 1
-endosporous
+endosporous 1
 exampled
 envision
 enteritidis
