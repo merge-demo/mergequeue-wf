@@ -477,7 +477,7 @@ droddum
 dislodged
 drover
 descended
-dallier
+dallier 1
 dup
 dextromanual
 dregless
