@@ -10076,7 +10076,7 @@ gigman
 galivanting
 glore
 gudgeon
-gingerol
+gingerol 1
 griffes
 groupoids
 gratuitously
