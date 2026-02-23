@@ -1204,7 +1204,7 @@ dialogised
 diapasonal
 dermatoskeleton
 dreggier
-daystars
+daystars 1
 datebook
 dicyema
 decubiti
