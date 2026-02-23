@@ -10700,7 +10700,7 @@ feralin
 forestial
 foreset
 fashion
-foumart
+foumart 1
 foresheets
 fleuretty
 flirtishness 1
