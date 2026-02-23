@@ -8403,7 +8403,7 @@ babu
 brachygraphic
 bilimbing
 byhand
-bicarpellate
+bicarpellate 1
 bija
 bijasal
 bijections
