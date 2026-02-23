@@ -7308,7 +7308,7 @@ flintlike
 frisettes
 flaxboard
 filature
-fumously
+fumously 1
 fridays
 fulfullment
 finmark
