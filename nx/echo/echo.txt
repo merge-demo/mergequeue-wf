@@ -3969,7 +3969,7 @@ etruscologist
 electromotive
 euxanthin
 extremistic
-encephalic
+encephalic 1
 eugregarinida
 epimeron 1
 epithelial
