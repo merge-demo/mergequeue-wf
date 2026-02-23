@@ -7345,7 +7345,7 @@ epibatholithic
 explodent
 exoascaceae
 equationally
-effigial
+effigial 1
 exlex 1
 engird 1
 excheat
