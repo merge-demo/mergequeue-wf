@@ -9903,7 +9903,7 @@ defectuous
 dem
 dimerization
 dipropargyl
-duscle
+duscle 1
 deformational
 dimes
 deleerit
