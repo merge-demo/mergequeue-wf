@@ -3036,7 +3036,7 @@ embitterment
 enfield
 eleatic
 eleoblast
-evaluate
+evaluate 1
 endless
 extine
 efflorescence
