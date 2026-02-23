@@ -4016,7 +4016,7 @@ glamourize
 gynostegium 1
 gabendum
 glendale 1
-gerontologic
+gerontologic 1
 ginorite
 giantish
 grisettes
