@@ -2512,7 +2512,7 @@ epochs
 exterminative
 electrokinetics
 eyewear
-elector
+elector 1
 exertions
 evirate
 espaliers
