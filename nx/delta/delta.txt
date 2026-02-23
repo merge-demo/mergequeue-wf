@@ -136,7 +136,7 @@ disoperculate
 dudler 1
 delapse
 depicted
-daemonistic
+daemonistic 1
 dowsing
 disconducive 1
 depopulates
