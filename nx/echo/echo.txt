@@ -1344,7 +1344,7 @@ exscinding 1
 emancipations
 eyeful
 emeroids
-escuages
+escuages 1
 explicatively
 ericophyte 1
 efface
