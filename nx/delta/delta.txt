@@ -11997,7 +11997,7 @@ dermatalgia
 dismission
 drivecap
 dispositive
-demitranslucence
+demitranslucence 1
 droving
 depucel
 deputizes
