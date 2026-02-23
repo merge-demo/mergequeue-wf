@@ -850,7 +850,7 @@ ambiguities
 agaves
 araeotic
 albright
-antipode
+antipode 1
 assertors
 aerosols
 acesodyne
