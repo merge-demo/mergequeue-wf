@@ -5295,7 +5295,7 @@ gamelan
 gromil
 glycerite
 gigmanism
-glabrous
+glabrous 1
 guttier
 gadswoons
 glycyrrhizin
