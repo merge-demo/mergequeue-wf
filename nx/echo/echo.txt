@@ -4839,7 +4839,7 @@ equivocality
 encountered 1
 ensporia
 epiphylaxis
-endostea
+endostea 1
 endothecium
 entomostraca
 encashing
