@@ -15826,7 +15826,7 @@ demirilievo
 damselfly
 drawhead
 diatoma
-dumdums
+dumdums 1
 dorsosacral
 dishumor
 dozen
