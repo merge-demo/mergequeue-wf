@@ -668,7 +668,7 @@ ellipses 1
 engore
 epizoite
 electioneering
-engagingly
+engagingly 1
 etwees
 elocute
 eclegma
