@@ -3862,7 +3862,7 @@ fideicommissaries 1
 fiberscope
 fungistat
 flavanthrene
-favous
+favous 1
 four
 frizette
 folksinger
