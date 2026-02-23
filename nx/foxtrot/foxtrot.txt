@@ -6000,7 +6000,7 @@ frats
 fete 1
 fineable
 firespout
-felspath
+felspath 1
 fatalize 1
 flubdubs
 fusilade
