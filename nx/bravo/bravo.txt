@@ -18138,7 +18138,7 @@ blockading
 boisseaux
 balsamize
 biffins
-bifoil
+bifoil 1
 bulla
 blok
 backsettler
