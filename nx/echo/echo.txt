@@ -12749,7 +12749,7 @@ esprove
 enurny
 embryography
 exceeds
-exospheric
+exospheric 1
 exorbitation
 epigraphist
 epiphytical
