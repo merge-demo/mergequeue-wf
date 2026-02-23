@@ -10038,7 +10038,7 @@ grf
 gemmule
 gasteromycetes
 gesneriaceous
-geomancies
+geomancies 1
 gleans
 gront 1
 gammation 1
