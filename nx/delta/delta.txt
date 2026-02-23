@@ -1426,7 +1426,7 @@ doless
 desertrice
 despend
 dearsenicize
-dromic
+dromic 1
 deprest
 dermatomycosis
 decasualisation
