@@ -27535,7 +27535,7 @@ coventry
 coroplast
 creaturehood
 cover
-coverages
+coverages 1
 cytostatically
 cuselite
 combaron
