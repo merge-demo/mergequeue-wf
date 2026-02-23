@@ -13525,7 +13525,7 @@ embowels
 eccles 1
 externomedian
 euphemism
-exscinds
+exscinds 1
 encyclics
 equivorous
 entailers
