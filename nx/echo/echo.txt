@@ -10288,7 +10288,7 @@ embay
 emmeleia
 ethylation
 emerging
-entrust
+entrust 1
 exoskeleton
 earlap
 embroiled
