@@ -5999,7 +5999,7 @@ esperantic
 exigence
 eolithic
 electricalness
-electrodynamism
+electrodynamism 1
 exegesist 1
 exhortative
 entomophily
