@@ -586,7 +586,7 @@ epaxial
 endotheliotoxin
 echinoid
 engulfs
-exequial
+exequial 1
 ethiopians
 equatorially
 embolomycotic

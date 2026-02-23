@@ -2944,7 +2944,7 @@ apographic
 antijam
 anoplotheroid
 acting
-actiniae
+actiniae 1
 axial
 appalment
 altimetrical
