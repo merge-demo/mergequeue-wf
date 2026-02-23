@@ -12495,7 +12495,7 @@ dudeens
 defy 1
 demesne
 dislimb
-disconform
+disconform 1
 demarks
 dasewe
 disillusionising
