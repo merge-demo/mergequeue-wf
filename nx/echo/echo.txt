@@ -4935,7 +4935,7 @@ ensisternum
 eupterotidae
 euhemerize 1
 enticed
-exencephalic
+exencephalic 1
 electroamalgamation
 ephemerally
 expressed
