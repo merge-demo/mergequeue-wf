@@ -7706,7 +7706,7 @@ cerebellitis
 chark
 cererite
 ceres
-curatical
+curatical 1
 counterappellant
 commemorations
 criosphinx
