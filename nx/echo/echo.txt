@@ -13797,7 +13797,7 @@ ethnicism
 egyptologist
 euge
 endosarc
-extortions
+extortions 1
 equitative
 epicheirema
 engraftment
