@@ -658,7 +658,7 @@ ephesine
 enneaeteric
 evincement
 expunges
-emerald
+emerald 1
 eclamptic
 ecstatics
 etymonic
