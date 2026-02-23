@@ -8991,7 +8991,7 @@ erratics 1
 erythrocytes 1
 exhilarant
 eschewals
-explorative
+explorative 1
 eleusinian
 enjoinment
 eartag
