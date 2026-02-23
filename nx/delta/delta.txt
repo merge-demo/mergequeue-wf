@@ -5975,7 +5975,7 @@ diduction
 defoliations
 doctorlike
 dispone
-docious
+docious 1
 decimetres
 doubledamn
 deckswabber
