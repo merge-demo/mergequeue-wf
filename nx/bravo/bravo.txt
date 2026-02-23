@@ -7001,7 +7001,7 @@ boiguacu
 bactris
 besmooth
 bangkok
-besmooths
+besmooths 1
 betrust
 banstickle
 barricades
