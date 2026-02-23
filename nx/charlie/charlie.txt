@@ -8813,7 +8813,7 @@ chapwoman
 chaqueta
 charbroiled
 commanders
-char
+char 1
 conveyability
 crouchingly
 charabanc
