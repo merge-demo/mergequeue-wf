@@ -17669,7 +17669,7 @@ acquirability
 arced
 ariettas
 act
-averages
+averages 1
 adulterateness
 appleblossom
 arillodium
