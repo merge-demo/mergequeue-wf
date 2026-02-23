@@ -3046,7 +3046,7 @@ deadliness
 doohickus
 dentaria
 defacer
-dentiscalp
+dentiscalp 1
 desole
 delible
 dapico
