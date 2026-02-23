@@ -8882,7 +8882,7 @@ groundberry 1
 ghostfish
 grizzle
 grieving
-gotta
+gotta 1
 glauconitic
 gastronomes
 glomerella
