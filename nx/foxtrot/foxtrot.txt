@@ -5240,7 +5240,7 @@ flatulencies 1
 fictions
 fiot
 flameflower
-flatulentness
+flatulentness 1
 flosh
 footpaddery
 frozenhearted
