@@ -2547,7 +2547,7 @@ encastage
 eyelid
 emancipators
 entering
-embraceably
+embraceably 1
 electromagnetical
 extratribal
 excepting
