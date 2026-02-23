@@ -27484,7 +27484,7 @@ columbella
 carnaubic
 covary
 curtailer
-capacify
+capacify 1
 chumpiness
 cathartical
 cheongsam
