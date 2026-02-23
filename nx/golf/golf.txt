@@ -8688,7 +8688,7 @@ glyphograph
 guaconize
 gawkier
 guttling 1
-greekize
+greekize 1
 gastraeal
 gnathonical
 glareless
