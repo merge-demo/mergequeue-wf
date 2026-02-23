@@ -6492,7 +6492,7 @@ enterocoela
 eurypteroidea
 expounded
 ensoul
-ensouled
+ensouled 1
 ecru
 exoneration
 eustatically
