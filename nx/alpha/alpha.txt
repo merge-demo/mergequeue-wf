@@ -4136,7 +4136,7 @@ anticrotalic
 aphrasia
 adjag
 apoapsis
-abasement
+abasement 1
 armorers
 acetoxyls
 anabaptistically
