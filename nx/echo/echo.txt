@@ -13959,7 +13959,7 @@ extravasate
 excuse
 equicurve
 entocornea
-endolemma
+endolemma 1
 essoiner
 evocate
 embezzles
