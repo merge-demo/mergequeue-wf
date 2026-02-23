@@ -4091,7 +4091,7 @@ despeche
 dayment 1
 diagenetically
 doggerelled
-delinter
+delinter 1
 discreet
 deliquiate
 demisolde
