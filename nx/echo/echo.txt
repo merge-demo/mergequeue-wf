@@ -12338,7 +12338,7 @@ euphonym
 extermine
 emanators
 echea
-enthrallments
+enthrallments 1
 exertionless
 excretes
 enlife
