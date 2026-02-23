@@ -6625,7 +6625,7 @@ gonepoiesis
 gingivectomy 1
 gluttonously
 grantha
-gash
+gash 1
 geostatic
 gustoish
 galictis
