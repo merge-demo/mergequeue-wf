@@ -1154,7 +1154,7 @@ encatarrhaphy 1
 erichthoid
 ejectee
 enarm
-evaporating
+evaporating 1
 epacts
 entonic
 elhi
