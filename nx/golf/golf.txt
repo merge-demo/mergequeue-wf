@@ -8167,7 +8167,7 @@ goodlike
 gulfed
 gorgeret
 greatish
-gloat
+gloat 1
 glowflies
 guestimating
 gelt
