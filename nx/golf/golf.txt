@@ -1332,7 +1332,7 @@ glomerulus
 galloner
 gandergoose
 globose
-glorifier
+glorifier 1
 gaffes
 guipures
 gunbarrel
