@@ -3113,7 +3113,7 @@ cap
 capa
 conferrable
 corkiness
-corroborates
+corroborates 1
 capability
 charks
 capable
