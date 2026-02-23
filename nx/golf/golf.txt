@@ -3981,7 +3981,7 @@ gigantology 1
 geared
 gains 1
 glottogony
-ganglioneural
+ganglioneural 1
 glycoprotein
 guttula
 groat
