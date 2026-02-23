@@ -7811,7 +7811,7 @@ frostbite
 footrail
 fleshier
 farm
-facingly
+facingly 1
 fecundify
 famose
 fleaweed
