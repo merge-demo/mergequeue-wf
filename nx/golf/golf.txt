@@ -2236,7 +2236,7 @@ glasswort 1
 gipons
 grapelike
 glarry
-greenlandic
+greenlandic 1
 guarneri
 glycinin
 guffy
