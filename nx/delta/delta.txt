@@ -3275,7 +3275,7 @@ declarator
 deracinated
 dense
 denaturalisation 1
-denuded
+denuded 1
 disregardful
 deflationary
 disturbs
