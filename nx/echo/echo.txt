@@ -12466,7 +12466,7 @@ englishhood
 exanthem
 educatory
 embain
-enneadic
+enneadic 1
 electrifying
 ebulliently
 electroosmosis
