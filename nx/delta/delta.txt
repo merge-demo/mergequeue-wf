@@ -4862,7 +4862,7 @@ demishirt 1
 drupose
 drownds
 dissimilation 1
-dietician
+dietician 1
 dissecting
 discreditableness
 dishmonger
