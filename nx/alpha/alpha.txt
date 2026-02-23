@@ -2381,7 +2381,7 @@ abolishment
 angelological
 arcana
 acyloxy
-adamances
+adamances 1
 abortionist
 abator
 acrospired
