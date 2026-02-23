@@ -8420,7 +8420,7 @@ gramophones
 gawked
 grumphy
 greenbacker
-gauntree
+gauntree 1
 gestura
 guaco 1
 gipsyweed
