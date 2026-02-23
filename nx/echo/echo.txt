@@ -4317,7 +4317,7 @@ exosmoses
 epithalamic
 enflowered
 eavedropping
-exospores
+exospores 1
 eventide
 ers
 exercisers
