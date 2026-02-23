@@ -10526,7 +10526,7 @@ ceratozamia
 caract
 competitions
 chyliform
-cordonazo
+cordonazo 1
 cardon
 cirsocele
 cymbocephaly
