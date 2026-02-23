@@ -14233,7 +14233,7 @@ diffund
 dysurias
 decarhinus
 dibbles
-defeater
+defeater 1
 desquamate
 disbranching
 dragnet
