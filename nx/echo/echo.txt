@@ -2205,7 +2205,7 @@ equips
 erythemic
 extromit
 elohist
-emissitious
+emissitious 1
 eminent
 ectomorphic
 empathy
