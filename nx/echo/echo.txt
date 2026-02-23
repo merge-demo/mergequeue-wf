@@ -9576,7 +9576,7 @@ exannulate
 euchromatic
 emasculated
 embarrassed
-eskimoized
+eskimoized 1
 evulsions
 eleven
 electrolysed
