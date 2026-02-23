@@ -3947,7 +3947,7 @@ chylificatory
 carbonometer 1
 carbonous
 carbonuria
-checkhook
+checkhook 1
 cereal
 contradistinguish
 celibacies
