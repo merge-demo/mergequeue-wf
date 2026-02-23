@@ -1376,7 +1376,7 @@ duotriode
 dayless
 diorites
 daviesite
-dodkin
+dodkin 1
 demilitarize 1
 dispel 1
 downdale
