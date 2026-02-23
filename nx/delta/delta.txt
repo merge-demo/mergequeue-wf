@@ -9605,7 +9605,7 @@ discriminators
 digraphically 1
 digrediency
 defining 1
-dollie
+dollie 1
 deodar
 digressional
 digressive
