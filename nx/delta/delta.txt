@@ -10841,7 +10841,7 @@ dijudicating
 deviscerate
 durmasts
 discolorate 1
-deviates
+deviates 1
 departing
 directors
 detat
