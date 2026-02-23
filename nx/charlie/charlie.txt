@@ -13201,7 +13201,7 @@ cyclical
 cyclizing
 colonials
 counselor 1
-cyclically
+cyclically 1
 cyclicalness
 cyclide
 chloralose
