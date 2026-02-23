@@ -1813,7 +1813,7 @@ feminist
 farcicality 2
 funambulate 1
 fluoresce
-foreign
+foreign 1
 fecundatory
 febricant
 fidac
