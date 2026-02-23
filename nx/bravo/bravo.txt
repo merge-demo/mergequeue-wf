@@ -16598,7 +16598,7 @@ blackplate
 brachypinacoid
 bleary
 bipenniform
-brutishness
+brutishness 1
 beamer
 brewed
 blockheadism
