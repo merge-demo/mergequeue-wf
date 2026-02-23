@@ -5817,7 +5817,7 @@ arenaceous
 agglutinative
 adamantine
 aerobe
-astrogonic
+astrogonic 1
 agglutinatively
 angelonia
 aarrghh
