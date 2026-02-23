@@ -15953,7 +15953,7 @@ dia
 dissimulative 1
 dimberdamber
 dubba
-devolutionary
+devolutionary 1
 drafts
 dasnt 1
 deferens
