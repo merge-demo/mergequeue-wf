@@ -5828,7 +5828,7 @@ elsewards 1
 enzyms
 epizoicide
 engrainer
-electrocratic
+electrocratic 1
 ekaha
 eulerian
 embergeese 1
