@@ -6494,7 +6494,7 @@ fructifies 1
 fesapo
 foothalt 1
 frivoled
-fishable
+fishable 1
 fluoaluminate
 fraternalist
 fainted
