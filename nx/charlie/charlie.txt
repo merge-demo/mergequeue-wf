@@ -7205,7 +7205,7 @@ centrarchid
 clar
 centraxonial
 cfi
-centre
+centre 1
 centreboard
 centred
 centref
