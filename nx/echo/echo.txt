@@ -11831,7 +11831,7 @@ emporetic 1
 extracorpuscular
 extraembryonal
 exulcerated
-envassal
+envassal 1
 exprobration
 ekphore
 ewte
