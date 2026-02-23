@@ -22474,7 +22474,7 @@ artillerists
 astrophysicist
 anteal
 autolysate
-applaudable
+applaudable 1
 arduously
 anamnestically
 anthemideae
