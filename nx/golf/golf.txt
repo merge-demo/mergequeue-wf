@@ -3273,7 +3273,7 @@ goxes
 geckos
 gunstocks
 gleed
-germanify
+germanify 1
 guideress 1
 gatewards
 graminiferous
