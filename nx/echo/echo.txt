@@ -8931,7 +8931,7 @@ ecumene
 erk
 embattling
 extincteur
-establishments
+establishments 1
 enterectomy
 empyrical
 estaminets
