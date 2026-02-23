@@ -11493,7 +11493,7 @@ eulysite
 euouae
 eli
 emys
-enteral
+enteral 1
 entosarc
 empannel
 elitists
