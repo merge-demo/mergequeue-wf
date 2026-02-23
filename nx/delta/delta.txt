@@ -17153,7 +17153,7 @@ diswont
 decachord
 dolf 1
 dreary
-decorums
+decorums 1
 disentrammel
 diander
 dryopteroid

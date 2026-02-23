@@ -7078,7 +7078,7 @@ encipherments
 encheiria
 emplace
 embladder 1
-explorable
+explorable 1
 exclaimer
 elaborate
 estated
