@@ -2627,7 +2627,7 @@ endostracum
 epistlers
 eunectes
 enigmatology
-exactive
+exactive 1
 emphlysis
 ebulus
 exportability
