@@ -6571,7 +6571,7 @@ dubious 1
 delimits
 desegmentation
 dynamiters
-damoiselle
+damoiselle 1
 diphthongised
 dirdum
 denominated 1
