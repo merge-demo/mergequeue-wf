@@ -541,7 +541,7 @@ damfool
 div 1
 disciplinability
 doctrinairism
-dodecaheddra
+dodecaheddra 1
 decopperization
 dicyclopentadienyliron
 desexualizing
