@@ -29887,7 +29887,7 @@ colicins
 coarse
 crosshair
 crosshand
-crosshatches
+crosshatches 1
 completive
 cogwheel
 canadite
