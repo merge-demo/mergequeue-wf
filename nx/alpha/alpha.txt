@@ -21520,7 +21520,7 @@ akund
 ambiances
 adds
 amorists
-asphyxia
+asphyxia 1
 arretine
 anesthetics
 apotypic
