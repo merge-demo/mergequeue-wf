@@ -4474,7 +4474,7 @@ encash
 enquires
 encashment
 eringoes
-enneadianome
+enneadianome 1
 encastre
 ecballium
 equestrians
