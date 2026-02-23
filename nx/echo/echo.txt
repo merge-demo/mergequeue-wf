@@ -1573,7 +1573,7 @@ encarnadine 1
 emarginately
 eggfruit
 easies
-exhale
+exhale 1
 ecize
 ephydra
 enmeshments
