@@ -6721,7 +6721,7 @@ fulgurating
 flisked 1
 flossing
 forenotice
-folkright
+folkright 1
 foemanship
 fribble
 frustum
