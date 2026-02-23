@@ -6521,7 +6521,7 @@ garnetwork
 glasswork
 grassant
 grappas 2
-glottalization 1
+glottalization 2
 gambeson
 gristmiller
 grummets
