@@ -7706,7 +7706,7 @@ filcher
 forcibility
 fideist 1
 fixedness
-franchised
+franchised 1
 flustrate
 flourishment
 foziest

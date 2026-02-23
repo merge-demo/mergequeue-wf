@@ -4611,7 +4611,7 @@ excellent
 exarchs
 embryulcus
 explicanda
-eigenvalues
+eigenvalues 1
 estheticism
 exencephalus
 eminencies
