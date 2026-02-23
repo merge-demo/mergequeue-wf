@@ -9640,7 +9640,7 @@ fivestones
 fleetest 1
 fothering
 flanger
-finalism
+finalism 1
 foretells
 filipinize
 fleeceable
