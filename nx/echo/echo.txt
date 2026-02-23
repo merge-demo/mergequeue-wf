@@ -5510,7 +5510,7 @@ electroscope
 expelling
 elritch
 ectocarpic 1
-excitate
+excitate 1
 erectility
 equiformity
 ekoi
