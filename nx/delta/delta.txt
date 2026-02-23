@@ -3044,7 +3044,7 @@ disgustfully
 disquietingly
 deadliness
 doohickus
-dentaria
+dentaria 1
 defacer
 dentiscalp 1
 desole
