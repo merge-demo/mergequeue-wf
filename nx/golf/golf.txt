@@ -7293,7 +7293,7 @@ glandular
 gymnics
 goofing
 galbanums 1
-gamotropism
+gamotropism 1
 gauffer
 glutaric
 goldsinny
