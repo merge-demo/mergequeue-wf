@@ -6861,7 +6861,7 @@ enlistees
 essling
 eloper
 escalated
-entropion
+entropion 1
 eggler
 exhalent
 entom
