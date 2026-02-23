@@ -2562,7 +2562,7 @@ edgemaking 1
 encomiologic
 escadrilles
 enthymematical
-exorcist
+exorcist 1
 eatable
 emptiable
 electrometer
