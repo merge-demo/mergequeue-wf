@@ -27941,7 +27941,7 @@ cumbraite
 copperplated
 cracklings
 chatterbag
-clockface
+clockface 1
 convergement
 crackpots
 copulate
