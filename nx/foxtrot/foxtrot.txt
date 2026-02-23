@@ -159,7 +159,7 @@ foremostly
 favus
 falls 1
 fungilliform
-fibbery
+fibbery 1
 flockless
 fraternation
 faticableness
