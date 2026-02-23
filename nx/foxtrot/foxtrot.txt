@@ -570,7 +570,7 @@ frowzy 1
 figless
 frisette
 foolhardiest
-flatwise
+flatwise 1
 frim
 foxwood
 freight
