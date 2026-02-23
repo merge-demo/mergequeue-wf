@@ -15261,7 +15261,7 @@ antihero
 amphoriskos
 azulejo 1
 anticonscriptive
-akimbo
+akimbo 1
 aidless
 antihierarchism
 assignations 1
