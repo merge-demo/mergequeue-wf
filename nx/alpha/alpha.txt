@@ -19422,7 +19422,7 @@ argentry
 accipitral
 abbest
 antiparliamentarist
-argh
+argh 1
 anlaute
 aphelilions
 assailable
