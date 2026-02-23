@@ -28932,7 +28932,7 @@ cholericly
 criticist
 cribellum
 cribose
-cribriform
+cribriform 1
 cloque 1
 cohosts 1
 cribriformity
