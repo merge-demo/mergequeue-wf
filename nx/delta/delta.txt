@@ -6328,7 +6328,7 @@ dermogastric
 dean
 duogravure
 dermoidectomy
-dos
+dos 1
 dgag
 dermoneural
 diosphenol
