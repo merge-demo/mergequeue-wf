@@ -8050,7 +8050,7 @@ dysacusia
 downturns
 delve
 dhooly
-dowiness
+dowiness 1
 dictyonine
 dipodomys
 delphinidae
