@@ -10496,7 +10496,7 @@ enoplan
 eleanor
 effluviums
 ericius
-enteroviral
+enteroviral 1
 escruage
 etherin
 epochist 1
