@@ -10485,7 +10485,7 @@ ghoulishness
 graduand
 glareous
 golds
-gallantry
+gallantry 1
 guauaenok
 gingerade
 gnome

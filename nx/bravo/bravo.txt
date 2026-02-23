@@ -5107,7 +5107,7 @@ blazoning
 bracted
 befittingness
 boltant
-beflag
+beflag 1
 bamboo
 binits
 bemaddening 1
