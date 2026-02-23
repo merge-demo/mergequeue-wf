@@ -29755,7 +29755,7 @@ crooknecked
 concessionaires
 coset
 causticize
-criminatory
+criminatory 1
 ciphertexts
 crooknosed
 crooksided
