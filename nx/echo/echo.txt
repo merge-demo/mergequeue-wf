@@ -5944,7 +5944,7 @@ elains
 eared
 effate
 embordered 1
-emissary
+emissary 1
 enkindle
 euphonised
 endoabdominal
