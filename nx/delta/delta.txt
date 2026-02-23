@@ -16630,7 +16630,7 @@ drogoman
 diacetyls 1
 decolourization 1
 dahabeah
-dattock
+dattock 1
 discompt
 dicers
 dottedness
