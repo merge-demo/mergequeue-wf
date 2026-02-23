@@ -24117,7 +24117,7 @@ comburgess
 convexly
 convexness
 condyle
-convexo
+convexo 1
 convexoconcave
 cadbote
 cretins
