@@ -17520,7 +17520,7 @@ birthy
 blasty
 birgand
 bookrest
-burdenous
+burdenous 1
 bermudite
 bleep 1
 boko
