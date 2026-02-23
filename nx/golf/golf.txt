@@ -7987,7 +7987,7 @@ gloucester
 gulas
 grandfathers
 gangster
-geometrise
+geometrise 1
 galvanotaxis
 grammatolator
 gynecologic
