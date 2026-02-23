@@ -2852,7 +2852,7 @@ evap 1
 encephalon
 earthnuts
 eleoplast
-ectiris
+ectiris 1
 endophragm
 externalness
 eater
