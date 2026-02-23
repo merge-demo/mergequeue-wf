@@ -3129,7 +3129,7 @@ entellus 1
 escar
 enterers
 et 1
-expressionistic
+expressionistic 1
 extraembryonic
 earthboard
 emp
