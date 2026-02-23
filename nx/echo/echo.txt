@@ -5700,7 +5700,7 @@ expertize 1
 engenders
 electrorefining
 extrasacerdotal
-enforce
+enforce 1
 enantiosis
 engild 1
 engilding
