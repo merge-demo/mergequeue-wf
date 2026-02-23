@@ -7691,7 +7691,7 @@ exclusivist
 euphoniad
 emplead
 enterostasis
-electromeric
+electromeric 1
 earworms
 eton
 embezzled
