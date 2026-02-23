@@ -1353,7 +1353,7 @@ frock
 fossiform
 flaggish
 fatigue
-fossicks
+fossicks 1
 forwear 1
 fatiguesome
 fogus
