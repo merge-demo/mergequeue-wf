@@ -6911,7 +6911,7 @@ gulf
 glimmers
 governable
 goodliness
-gobbled
+gobbled 1
 gloxinias
 gorgeousness
 granophyric
