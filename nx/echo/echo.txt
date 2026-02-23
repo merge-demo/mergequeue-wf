@@ -4349,7 +4349,7 @@ enamorado
 epicene 1
 endleaves
 effervescing
-enamorment
+enamorment 1
 endoute
 economize
 enterointestinal
