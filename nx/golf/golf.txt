@@ -1597,7 +1597,7 @@ gastralgia
 gastreas
 gyrinid
 gravitational
-gastricism
+gastricism 1
 glycolipid 1
 ged
 gemmeous
