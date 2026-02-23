@@ -9498,7 +9498,7 @@ checkerbelly
 centrolepidaceous 1
 checkerbellies
 checkerberry
-checkerberries
+checkerberries 1
 crafty
 chorological
 checkerbloom
