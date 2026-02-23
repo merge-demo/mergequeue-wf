@@ -7817,7 +7817,7 @@ gisant
 generalities
 geococcyx 1
 galantuomo
-garniture
+garniture 1
 globoseness
 gunline 1
 gramper 1
