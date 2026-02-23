@@ -6620,7 +6620,7 @@ exodontia 1
 eruditional
 espial
 extramarginal
-eurygnathous
+eurygnathous 1
 equidivision
 evilmouthed
 elopement
