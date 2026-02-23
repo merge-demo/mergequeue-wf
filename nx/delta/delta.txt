@@ -15639,7 +15639,7 @@ demobilisation
 determine 1
 dopchick
 dopebook
-dezincs
+dezincs 1
 dopey
 decrements
 doper
