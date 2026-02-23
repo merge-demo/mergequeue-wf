@@ -28513,7 +28513,7 @@ chavicine
 carapaced
 credences
 coring
-conditioning
+conditioning 1
 credenda
 confluently
 cassada
