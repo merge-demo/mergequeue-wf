@@ -5773,7 +5773,7 @@ ancestorial
 amphibium
 agenesis
 attentiveness
-agenetic
+agenetic 1
 agenize
 akamatsu
 agenizing
