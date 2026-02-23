@@ -6486,7 +6486,7 @@ dimensioned
 dipeptid
 denizenship
 disqualification
-delignated
+delignated 1
 disomatous
 descendent
 dolichosoma
