@@ -5903,7 +5903,7 @@ diploptera
 dyscrasy
 depressed
 disaccustomed
-dandyisms
+dandyisms 1
 diakinesis
 danicism
 depressibilities
