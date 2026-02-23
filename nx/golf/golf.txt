@@ -4230,7 +4230,7 @@ galloglass
 gearman 1
 gazella
 geumatophobia
-galravitch
+galravitch 1
 generationism 1
 gorce
 geodetics
