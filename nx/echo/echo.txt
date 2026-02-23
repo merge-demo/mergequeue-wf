@@ -10293,7 +10293,7 @@ exoskeleton
 earlap
 embroiled
 exoccipital
-everblooming
+everblooming 1
 ethiodide
 excluded
 enspangle
