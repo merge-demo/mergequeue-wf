@@ -6451,7 +6451,7 @@ glyptotherium
 gruft
 goaltenders
 georgiadesite
-gonapophysial
+gonapophysial 1
 gravelled
 gruffness
 grouseless 1
