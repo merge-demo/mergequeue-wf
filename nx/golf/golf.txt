@@ -2769,7 +2769,7 @@ garrote
 glassophone 1
 glutition
 guilloche 1
-gentiobiose
+gentiobiose 1
 geostrategic
 guardianess
 gait
