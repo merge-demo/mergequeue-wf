@@ -3578,7 +3578,7 @@ figuriste
 fyke
 fains
 flatfooting
-featherhead
+featherhead 1
 formant
 farcical
 foulsome
