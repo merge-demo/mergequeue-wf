@@ -3003,7 +3003,7 @@ askings
 actinoelectrically
 antigenic
 aerogeography
-authorizations
+authorizations 1
 aurei
 audiviser
 actinoelectricity
