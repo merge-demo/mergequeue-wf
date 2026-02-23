@@ -7015,7 +7015,7 @@ coheir
 coherently
 cenogamy
 cenogenesis
-corse
+corse 1
 chantant
 cenogenetic
 cenogonous
