@@ -6338,7 +6338,7 @@ fluidized
 ferroconcrete
 flap 1
 flabbergasts
-flared
+flared 1
 fordy
 fortissimos
 footlock
