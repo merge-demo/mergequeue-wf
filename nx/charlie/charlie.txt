@@ -15276,7 +15276,7 @@ caimito
 chathamite
 cupmaking
 corallite
-clamorsome
+clamorsome 1
 clamour
 concuss
 contune
