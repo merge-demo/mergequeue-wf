@@ -5164,7 +5164,7 @@ dytiscus
 dirichletian
 dyings
 daemon
-dahabiehs
+dahabiehs 1
 decephalization
 deathly
 diaheliotropic 1
