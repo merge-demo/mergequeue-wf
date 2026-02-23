@@ -6971,7 +6971,7 @@ fletched
 ferme
 fleme
 forceps 1
-fiscals
+fiscals 1
 februaries
 feculence
 forsook
