@@ -9806,7 +9806,7 @@ ephestia
 erodability
 establishable
 enchafe
-eddyroot
+eddyroot 1
 empalement
 establishes
 elegiacal
