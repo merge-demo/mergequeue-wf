@@ -11380,7 +11380,7 @@ facies
 furnish
 furnishable
 footballer
-flushness
+flushness 1
 fourposter
 fertilely
 forgiveably
