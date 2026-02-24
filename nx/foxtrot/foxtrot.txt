@@ -6371,7 +6371,7 @@ foggages
 frigidarium
 financing
 futurable
-flimsier
+flimsier 1
 facette
 filate 1
 fibula
