@@ -8204,7 +8204,7 @@ disenthronement
 diacetic
 dangerless
 dyadics
-diadkokinesia
+diadkokinesia 1
 diadochi
 ductible
 denticulation
