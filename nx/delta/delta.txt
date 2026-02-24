@@ -4830,7 +4830,7 @@ dentellated
 dodlet 1
 depilating
 ductile
-depredationist
+depredationist 1
 dormmice
 denicotinize
 dexterity
