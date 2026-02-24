@@ -6682,7 +6682,7 @@ airbrained
 affluents
 amyelinic
 adipocerous
-adopt
+adopt 1
 almach
 apiaceous 1
 airbrushing
