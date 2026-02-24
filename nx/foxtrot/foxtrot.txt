@@ -4051,7 +4051,7 @@ fyttes 1
 funerally
 feudatorial
 farinhas
-foredawn
+foredawn 1
 fertilisability
 fanos
 farmwife
