@@ -8249,7 +8249,7 @@ diiodid
 dowdily
 dubitancy
 deathcup
-diagnostician
+diagnostician 1
 dispopularize
 draped
 disputableness

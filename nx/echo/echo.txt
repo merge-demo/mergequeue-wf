@@ -3141,7 +3141,7 @@ ergatocracy
 equoidean
 esemplastic
 extemporize 1
-existent
+existent 1
 elliptograph
 elliptoid
 enoughs
