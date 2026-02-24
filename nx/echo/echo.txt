@@ -10430,7 +10430,7 @@ each
 elusoriness 1
 exchanged
 ethoxyethane
-emigres
+emigres 1
 exorbitance
 entresalle
 excreted
