@@ -6122,7 +6122,7 @@ bichrome
 behusband
 bendies
 bends
-begay
+begay 1
 benedicta 1
 buhlworks
 beid
