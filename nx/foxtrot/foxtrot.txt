@@ -6916,7 +6916,7 @@ fluigramme
 favoringly
 farcetta
 favourableness 1
-fnese
+fnese 1
 foozler
 fanit
 foreporch 1
