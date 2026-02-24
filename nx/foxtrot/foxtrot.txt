@@ -2819,7 +2819,7 @@ flustery
 ficus
 fluidly 1
 fractionization
-fingery
+fingery 1
 floodlights
 fideicommiss 1
 flocculose
