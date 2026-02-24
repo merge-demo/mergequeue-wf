@@ -1249,7 +1249,7 @@ decapitate
 deutovum
 disspread
 dreamlore
-dialectalize
+dialectalize 1
 danthonia
 dusted
 diazoic
