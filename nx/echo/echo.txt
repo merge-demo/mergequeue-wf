@@ -12757,7 +12757,7 @@ extenuator
 ethnographical
 eucaryotic 1
 eireannach
-epispinal
+epispinal 1
 ethers
 equivoque
 enfetters
