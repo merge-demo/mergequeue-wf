@@ -2714,7 +2714,7 @@ barm
 bollixes
 begrimming 1
 benzoic
-baffed
+baffed 1
 blagueur
 bocedization
 boletaceae
