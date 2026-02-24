@@ -608,7 +608,7 @@ finders
 fumishness
 fishability
 flosculet 1
-fantasies
+fantasies 1
 folsom
 frazil
 fertility 1
