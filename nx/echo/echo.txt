@@ -9819,7 +9819,7 @@ emittance
 exergue
 emunctories
 estampage
-empiric
+empiric 1
 enucleating
 enchaining
 electrophotography
