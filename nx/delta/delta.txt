@@ -15364,7 +15364,7 @@ distoma
 dactylus 1
 dire
 dissemblance
-deports
+deports 1
 dibbled
 dendrochronological
 disreputably
