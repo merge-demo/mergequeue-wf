@@ -3868,7 +3868,7 @@ guaycuru
 gyroplane
 goodness
 grandpap
-gatherings
+gatherings 1
 gleaned
 gadzooks
 gabback
