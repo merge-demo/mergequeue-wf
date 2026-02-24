@@ -10429,7 +10429,7 @@ entopterygoid
 each
 elusoriness 1
 exchanged
-ethoxyethane
+ethoxyethane 1
 emigres 1
 exorbitance
 entresalle
