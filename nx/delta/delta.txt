@@ -8712,7 +8712,7 @@ diastoles
 dys
 diastomatic
 davyne
-diastral 1
+diastral 2
 davits
 derbies
 decors

@@ -1680,7 +1680,7 @@ guildhall
 grudgefulness 2
 glyptodont
 gastrophilite 1
-gastrograph
+gastrograph 1
 gamebag
 glans 1
 guarantying
