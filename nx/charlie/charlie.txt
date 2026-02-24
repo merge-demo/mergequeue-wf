@@ -14509,7 +14509,7 @@ cysteins
 cyclolith
 coker 1
 carpogonia
-cystelcosis
+cystelcosis 1
 cosmologic
 cistercian
 caulocarpic
