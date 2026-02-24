@@ -17274,7 +17274,7 @@ cephalostyle
 clinopinacoidal
 coalifies
 coalifying
-coalite
+coalite 1
 counterbalances
 confederated
 cytoplasm
