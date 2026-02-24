@@ -22994,7 +22994,7 @@ consolato
 consolator
 consolatory
 consolatorily
-chartophylax
+chartophylax 1
 clang
 consolatrix
 console 1
