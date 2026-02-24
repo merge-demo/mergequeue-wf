@@ -18477,7 +18477,7 @@ achromate
 arboresque
 aardwolf
 anyplace
-arborical
+arborical 1
 angled
 allophylus
 addresses
