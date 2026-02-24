@@ -3501,7 +3501,7 @@ diasters
 doughmaker
 droughermen
 disagreer
-devi
+devi 1
 disknow
 distomum
 demographical
