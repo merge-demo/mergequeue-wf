@@ -6913,7 +6913,7 @@ governable
 goodliness
 gobbled 1
 gloxinias
-gorgeousness
+gorgeousness 1
 granophyric
 grayhound 1
 gomeral
