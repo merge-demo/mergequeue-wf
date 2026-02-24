@@ -11562,7 +11562,7 @@ foreworn
 fibronucleated
 fluoric
 frankish
-feu
+feu 1
 forepoint
 feuing
 fibroreticulate
