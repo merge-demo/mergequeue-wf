@@ -13564,7 +13564,7 @@ evadable
 egests
 exsiccant
 exsiccating
-equinus
+equinus 1
 embowment
 enriches
 ergusia
