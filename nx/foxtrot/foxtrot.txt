@@ -4535,7 +4535,7 @@ flogging
 felinae
 fishlike
 flattop
-foliicolous
+foliicolous 1
 forblow
 feebleheartedness
 fou
