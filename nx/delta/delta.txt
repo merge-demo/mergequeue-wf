@@ -7989,7 +7989,7 @@ damageable
 dft
 disweapon
 dialects
-defences
+defences 1
 dextrorotatory
 dissonant
 defenestration
