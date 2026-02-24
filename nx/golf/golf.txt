@@ -4010,7 +4010,7 @@ garter
 glochidium
 greffier
 gulinula
-gesan
+gesan 1
 gotched
 glamourize
 gynostegium 1
