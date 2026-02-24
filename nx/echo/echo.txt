@@ -1052,7 +1052,7 @@ escargot
 estimation
 electrobiological 1
 entomolite 1
-egoist
+egoist 1
 edemas
 ermani
 eldership
