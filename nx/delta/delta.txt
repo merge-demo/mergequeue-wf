@@ -895,7 +895,7 @@ daphni
 daphnia
 detractors
 devaporate
-duplicities
+duplicities 1
 devitalization
 dipnoi
 diagredium
