@@ -12779,7 +12779,7 @@ deathward
 doily
 disloyal
 disencourage
-dotardly
+dotardly 1
 dredger
 drawfiling
 donative
