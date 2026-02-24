@@ -9776,7 +9776,7 @@ decider
 downshore 1
 danewort
 delatinize
-dentinoid
+dentinoid 1
 divulgating
 dilection 1
 dilemite
