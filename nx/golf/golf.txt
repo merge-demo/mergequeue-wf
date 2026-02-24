@@ -8026,7 +8026,7 @@ granada
 glazy
 gables
 glyptical
-glamorizations
+glamorizations 1
 grandmotherly
 glistens 1
 germifuge
