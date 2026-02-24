@@ -11397,7 +11397,7 @@ freezingly 1
 flamingly
 fisticuffing
 flatterous
-fleurette
+fleurette 1
 filminess
 flushboard
 furnace
