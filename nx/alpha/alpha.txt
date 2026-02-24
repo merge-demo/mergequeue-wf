@@ -4135,7 +4135,7 @@ ammonals 1
 anticrotalic
 aphrasia
 adjag
-apoapsis
+apoapsis 1
 abasement 1
 armorers
 acetoxyls
