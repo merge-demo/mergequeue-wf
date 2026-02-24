@@ -19436,7 +19436,7 @@ anomalously
 allative
 aerocolpos
 amphithalami
-anallantoidea
+anallantoidea 1
 archaeoceti
 abomasa 1
 attempting
