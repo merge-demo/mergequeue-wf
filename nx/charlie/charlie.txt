@@ -13204,7 +13204,7 @@ counselor 1
 cyclically 1
 cyclicalness
 cyclide
-chloralose
+chloralose 1
 cubeb
 cyclindroid
 clop

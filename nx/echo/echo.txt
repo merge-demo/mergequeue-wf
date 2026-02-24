@@ -6094,7 +6094,7 @@ epitheliolysin
 elaeoptene
 excrementary
 embolize
-execeptional
+execeptional 1
 emboly
 exceed
 exossate
