@@ -4485,7 +4485,7 @@ examinatory
 eumenidean
 enceinte
 entozoology
-endolabyrinthitis
+endolabyrinthitis 1
 extracondensed
 euonymin
 ectoblast
