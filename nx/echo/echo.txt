@@ -5475,7 +5475,7 @@ epilobium
 escript
 entranced
 estheses
-energeticness
+energeticness 1
 epacrid
 emollient
 estimatingly
