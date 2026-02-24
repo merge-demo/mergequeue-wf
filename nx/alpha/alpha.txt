@@ -2804,7 +2804,7 @@ acrolithan
 acheirous
 apachette
 awork
-antiferromagnetic
+antiferromagnetic 1
 amaxomania
 asphyxiative
 acidophile
