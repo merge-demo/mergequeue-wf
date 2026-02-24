@@ -13074,7 +13074,7 @@ bucking
 barre
 brachiopodist
 beedi 1
-bordering
+bordering 1
 bandanaed
 bemantle
 balangay
