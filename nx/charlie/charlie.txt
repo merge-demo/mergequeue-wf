@@ -18290,7 +18290,7 @@ coffees
 cuspidor
 chitak
 counterview
-coffeetime
+coffeetime 1
 centums
 coffer
 corridor 1
