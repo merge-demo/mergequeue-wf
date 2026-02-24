@@ -8406,7 +8406,7 @@ esophagopathy
 epineurium 1
 evolutional
 expeding
-endocardial
+endocardial 1
 episternum
 enclitics
 exude
