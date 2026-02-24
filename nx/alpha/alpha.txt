@@ -10668,7 +10668,7 @@ acrolith
 amitrole 1
 antedorsal
 amitular
-ancre
+ancre 1
 antiagglutinating
 aged
 acyrological
