@@ -11652,7 +11652,7 @@ deconsecrated
 diapnoe
 defectionist
 discontinuities
-dicatalexis
+dicatalexis 1
 dsect
 discontinuously
 discontinuousness
