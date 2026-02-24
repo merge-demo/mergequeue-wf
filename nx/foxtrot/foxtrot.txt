@@ -11747,7 +11747,7 @@ floramor
 fibulae
 fathom
 flneur
-furless
+furless 1
 fumados
 firefang
 fuzzier
