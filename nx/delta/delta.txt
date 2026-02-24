@@ -12768,7 +12768,7 @@ domesticize
 deer
 dhaman
 dislodgement
-desertress
+desertress 1
 disestablishmentarianism
 drogher
 diaschisma
