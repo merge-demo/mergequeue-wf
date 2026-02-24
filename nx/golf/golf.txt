@@ -808,7 +808,7 @@ grece
 gawkiness
 gonolobus
 greegrees
-gyratory
+gyratory 1
 garewaite
 gemologies
 greeing 2
