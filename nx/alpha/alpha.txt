@@ -7845,7 +7845,7 @@ alkaloidal
 antilope
 alenge
 ahull
-auantic
+auantic 1
 alength
 aphonous
 amentias
