@@ -6672,7 +6672,7 @@ dubonnets
 desman
 distain
 desiderable
-dragontail
+dragontail 1
 diascopy
 diagnoseable
 desiderata
