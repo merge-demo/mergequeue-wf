@@ -2509,7 +2509,7 @@ ectotheca
 electrokinetic
 epicanthic
 epochs
-exterminative
+exterminative 1
 electrokinetics
 eyewear
 elector 1
