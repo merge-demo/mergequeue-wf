@@ -1791,7 +1791,7 @@ burkei
 balsams
 beseechingness
 berob
-bruise
+bruise 1
 bismutite
 bibliokelpt
 balthasar
