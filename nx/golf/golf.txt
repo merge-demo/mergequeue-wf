@@ -5092,7 +5092,7 @@ gomerec 1
 grittier
 gossamer
 gunman
-guilelessly
+guilelessly 1
 guernseyed
 goldlike 1
 gingelies
