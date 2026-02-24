@@ -5399,7 +5399,7 @@ chiot
 chifforobes
 chimerical 1
 citator
-chuckie
+chuckie 1
 castellany
 crizzling
 castellanies
