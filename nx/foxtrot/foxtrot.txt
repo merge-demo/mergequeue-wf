@@ -11718,7 +11718,7 @@ flaxier
 fatiguabilities
 frowns
 furriered
-feminise
+feminise 1
 foredesign
 faith
 fistulous
