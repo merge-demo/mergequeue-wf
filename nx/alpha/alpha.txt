@@ -5337,7 +5337,7 @@ arcosolia
 aspirator
 anguine 1
 aeonial
-aprioristic
+aprioristic 1
 aureately
 alliant
 afresca
