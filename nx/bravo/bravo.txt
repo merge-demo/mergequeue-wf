@@ -4624,7 +4624,7 @@ bedazzles
 bibliopolery
 baptise
 boden
-bailliage
+bailliage 1
 butterine
 bedchairs
 boxthorns 1
