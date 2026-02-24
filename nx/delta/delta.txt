@@ -1069,7 +1069,7 @@ deontology
 detrimentality
 disbanding
 darters
-dearticulation
+dearticulation 1
 drachmas
 dartled
 depreciable
