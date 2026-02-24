@@ -10526,7 +10526,7 @@ dipyridyl
 dichter
 daughter
 drynaria
-dissolubleness
+dissolubleness 1
 decentest
 deglaze
 depressants
