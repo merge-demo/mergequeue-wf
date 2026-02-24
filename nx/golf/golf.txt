@@ -9090,7 +9090,7 @@ golilla 1
 gease
 glaucomys 1
 glumal
-gourds
+gourds 1
 glires
 glottochronology 1
 gladiatorism
