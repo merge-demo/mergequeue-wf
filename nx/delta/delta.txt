@@ -1332,7 +1332,7 @@ dompt
 deadfall
 damagement
 dart
-dauntingness
+dauntingness 1
 discerners
 decephalize
 definer
