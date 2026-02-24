@@ -30604,7 +30604,7 @@ cucujid
 chromotrope
 callitype
 colloquialize
-cucularis
+cucularis 1
 cutest
 collimating
 coccolith
