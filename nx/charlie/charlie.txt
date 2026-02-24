@@ -16901,7 +16901,7 @@ cypselae
 compendiously
 challah
 clucky
-counterinsurgents
+counterinsurgents 1
 chapless
 concussional
 connectional
