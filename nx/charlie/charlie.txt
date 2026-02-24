@@ -9044,7 +9044,7 @@ curlily
 chaffless
 chepster
 charmless
-cloth
+cloth 1
 charmonium
 charms
 charneco
