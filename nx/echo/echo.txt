@@ -9821,7 +9821,7 @@ emunctories
 estampage
 empiric 1
 enucleating
-enchaining
+enchaining 1
 electrophotography
 entrance
 eternise
