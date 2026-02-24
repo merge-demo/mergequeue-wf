@@ -25539,7 +25539,7 @@ casualness
 caretook
 cauf
 camelias
-corotate
+corotate 1
 corotates
 compulsoriness
 corotomy
