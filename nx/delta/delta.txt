@@ -2151,7 +2151,7 @@ del
 drowsing 1
 dinguses
 diamesogamous
-decarbonated
+decarbonated 1
 decarbonation
 delimes
 deucalion
