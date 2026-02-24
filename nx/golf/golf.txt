@@ -9802,7 +9802,7 @@ gasworks
 gradino
 goonda
 greasepaint
-galvanocauteries
+galvanocauteries 1
 genep
 giantess
 galactosyl
