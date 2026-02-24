@@ -5891,7 +5891,7 @@ activations
 ancilia
 areopagy
 arrogancy
-anestrous
+anestrous 1
 autopyotherapy
 aureal
 adenylpyrophosphate
