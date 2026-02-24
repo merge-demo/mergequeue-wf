@@ -9676,7 +9676,7 @@ featherfoil
 flibustier
 fecklessly
 feliform
-feigners
+feigners 1
 flabrum
 fetor 2
 florally

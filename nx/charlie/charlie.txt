@@ -28447,7 +28447,7 @@ chevachie
 curiegram
 consistory
 coffeebush
-cognizability
+cognizability 1
 create
 coarcting
 conservers
