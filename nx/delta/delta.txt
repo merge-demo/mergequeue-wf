@@ -2006,7 +2006,7 @@ departures 1
 dysesthetic
 decaedron
 decaffeinate
-decaffeinize
+decaffeinize 1
 drudgers
 driverless
 disregardable
