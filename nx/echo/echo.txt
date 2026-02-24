@@ -6273,7 +6273,7 @@ eudalene
 executors
 exotropic
 ethanes
-excalfaction
+excalfaction 1
 emetines
 enrich
 ectopias
