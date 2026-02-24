@@ -7130,7 +7130,7 @@ basso
 bespotting 1
 booties
 backstick 1
-batiking
+batiking 1
 borinqueno
 backsets
 bonito
