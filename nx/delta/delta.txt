@@ -6978,7 +6978,7 @@ despitefully
 despitefulness 1
 disray
 dissension
-despiteously
+despiteously 1
 despites
 dositheans
 decease
