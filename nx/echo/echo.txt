@@ -5411,7 +5411,7 @@ enfester
 ed
 equid
 electrological
-eightsman
+eightsman 1
 electronvolt 1
 ergotization
 excrescences
