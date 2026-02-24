@@ -11204,7 +11204,7 @@ electrotherapy
 eadi
 epitomatory
 epexegetical
-evacuations
+evacuations 1
 evulse
 entropionize
 expatriation
