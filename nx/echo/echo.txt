@@ -12672,7 +12672,7 @@ elychnious
 eucalyptic
 ensheathing
 echo
-erotized
+erotized 1
 expositive
 elzevir
 easterner
