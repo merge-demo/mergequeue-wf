@@ -9355,7 +9355,7 @@ eskimauan
 excels
 enticeful
 espieglerie
-expulser
+expulser 1
 eclaircissement
 erubescent
 entelechy
