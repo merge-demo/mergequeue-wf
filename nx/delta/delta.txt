@@ -95,7 +95,7 @@ dhows
 dactylozooid
 decoratively
 dreamage
-delabialize
+delabialize 1
 devilments 1
 defs
 dichapetalaceae
