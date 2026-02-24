@@ -1989,7 +1989,7 @@ dolichocephal
 documentalist
 denehole
 dimble
-doglegged
+doglegged 1
 dysphasia
 dacryocele
 despaired
