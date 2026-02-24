@@ -1916,7 +1916,7 @@ denudated
 debtless
 dwines
 downby 1
-devexity
+devexity 1
 dominoes
 drawspring
 disobeys
