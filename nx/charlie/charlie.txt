@@ -8641,7 +8641,7 @@ channelized
 cannaceae
 commiseration
 chitlins
-chibol
+chibol 1
 channelled
 channelling
 commiseratingly
