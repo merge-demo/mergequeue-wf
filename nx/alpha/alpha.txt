@@ -21169,7 +21169,7 @@ aselar
 adaxial
 ateknia
 associator
-asellate
+asellate 1
 actaeon
 apostates
 afrikaner
