@@ -3237,7 +3237,7 @@ formulating
 fusicoccum
 ficklest
 fictionalize
-flippantness
+flippantness 1
 fijian
 flittermouse
 fearnought
