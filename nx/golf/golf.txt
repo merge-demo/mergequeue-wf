@@ -8222,7 +8222,7 @@ gazingstock
 grapery
 gied
 grim
-gem
+gem 1
 greaseproof 1
 gory
 grapeskin

@@ -1955,7 +1955,7 @@ declasses
 dedans
 disenact 1
 disavouch
-dharmic
+dharmic 1
 decumbency 1
 dau
 dingus
