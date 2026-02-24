@@ -975,7 +975,7 @@ fardelet
 fasciculus
 flerry
 famelic
-friarbird
+friarbird 1
 fares
 feats
 faretta 1
