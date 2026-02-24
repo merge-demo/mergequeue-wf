@@ -6562,7 +6562,7 @@ frogskins
 filches
 fubbed
 fluted 1
-faintish
+faintish 1
 flameless
 filmlands
 floriscope
