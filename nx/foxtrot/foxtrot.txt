@@ -8233,7 +8233,7 @@ furlanas 1
 floras
 flypapers
 flaskets
-felines
+felines 1
 festering
 fusains
 fireplaces
