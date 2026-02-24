@@ -9676,7 +9676,7 @@ griffaun
 garbill 1
 generals
 grudging
-goldfinny
+goldfinny 1
 geraniols
 gavotting
 gypaetus
