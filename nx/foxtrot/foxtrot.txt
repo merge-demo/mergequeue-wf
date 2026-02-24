@@ -2934,7 +2934,7 @@ frumpiness
 fanciable
 fortressing
 friendlier 1
-footmark
+footmark 1
 fustianist
 factoring
 flagonless
