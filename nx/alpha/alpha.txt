@@ -12404,7 +12404,7 @@ arsenicated
 anthracitous
 anemias
 academian
-analphabete
+analphabete 1
 anemic
 anemically
 adipogenic
