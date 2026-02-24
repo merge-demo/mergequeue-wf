@@ -4985,7 +4985,7 @@ disnest
 dually
 driveling
 dendrobates
-divisibly
+divisibly 1
 dramaturgical
 dename
 dimera
