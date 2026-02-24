@@ -8363,7 +8363,7 @@ furriner
 flunkyite
 fora
 feastful
-folkways
+folkways 1
 fortitudes
 floodage 1
 ferineness
