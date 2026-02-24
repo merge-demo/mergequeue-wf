@@ -5669,7 +5669,7 @@ frontonasal 1
 flageolet
 ffa
 froglet
-factorization
+factorization 1
 formerness
 fourgons
 frusla
