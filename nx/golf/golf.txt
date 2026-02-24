@@ -5864,7 +5864,7 @@ gimleted
 gynecide 1
 gentilish
 gastrophthisis
-goitrous
+goitrous 1
 groove
 germinations
 gasogene 1
