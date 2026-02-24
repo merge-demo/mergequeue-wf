@@ -10233,7 +10233,7 @@ apivorous
 asiatically
 activity
 attains
-anaphorically
+anaphorically 1
 affination
 athetized
 adrenergic
