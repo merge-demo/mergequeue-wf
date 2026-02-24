@@ -6004,7 +6004,7 @@ exegesist 1
 exhortative
 entomophily
 ejects 1
-elementals
+elementals 1
 earns
 entodermal
 eluding
