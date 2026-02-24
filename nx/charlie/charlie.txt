@@ -3733,7 +3733,7 @@ causals
 carapacho
 chapfallenly
 cognates
-carapacic
+carapacic 1
 carapax
 concresce
 climacterial
