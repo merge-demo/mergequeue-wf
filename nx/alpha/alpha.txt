@@ -19239,7 +19239,7 @@ aftermarket
 attractions
 antitarnish
 autotypes
-areal
+areal 1
 areca 1
 arecain
 arecas
