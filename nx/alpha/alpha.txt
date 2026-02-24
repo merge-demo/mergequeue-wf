@@ -16512,7 +16512,7 @@ agonizes
 alouatta
 arabize 1
 audion
-autolithographic
+autolithographic 1
 anorthosite
 apanthropia
 awakenment

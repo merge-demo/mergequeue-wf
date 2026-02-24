@@ -18267,7 +18267,7 @@ dumbfish
 dictery
 darts
 dayflies
-disapprobative
+disapprobative 1
 dippy
 discordia
 divot
