@@ -944,7 +944,7 @@ firestone
 ferrelling 1
 fechnerian
 forceable
-foisons
+foisons 1
 fibrinogenetic
 fabrile
 focalization
