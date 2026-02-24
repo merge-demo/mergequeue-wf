@@ -8754,7 +8754,7 @@ falutin 2
 fictionizing
 frutify
 fole
-feldspathization
+feldspathization 1
 federal
 fella
 forestick
