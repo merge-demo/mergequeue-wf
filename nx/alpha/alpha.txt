@@ -21154,7 +21154,7 @@ appositeness
 airth
 amniorrhea
 ambiens
-aseismatic
+aseismatic 1
 acquittal
 agriochoeridae
 aljamiado
