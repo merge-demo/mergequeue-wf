@@ -670,7 +670,7 @@ folklorish
 fisnoga
 feijoa
 finenesses
-fidate
+fidate 1
 frisker 1
 fossulae
 faultiest
