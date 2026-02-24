@@ -25632,7 +25632,7 @@ corpusculous
 cylinders
 chairlift
 corradial
-corradiate
+corradiate 1
 caesarists
 corradiated
 correality
