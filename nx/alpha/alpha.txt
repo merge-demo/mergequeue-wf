@@ -1056,7 +1056,7 @@ animators 1
 acomia
 adumbrated
 antirentism
-absurder
+absurder 1
 anaphylactoid
 auberge
 aeronautically
