@@ -11707,7 +11707,7 @@ frameless
 francomania
 forgivable
 fencer
-fanfish
+fanfish 1
 ferr
 frailness
 fiancailles

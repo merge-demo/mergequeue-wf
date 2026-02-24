@@ -5860,7 +5860,7 @@ engraver 1
 eloign
 entree 1
 ebbman
-ethiops
+ethiops 1
 exprobrate
 engreaten
 earths
