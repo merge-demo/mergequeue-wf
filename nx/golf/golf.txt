@@ -8716,7 +8716,7 @@ glossectomy
 graduator 1
 gimmicky
 gemmiferous
-gynoecia
+gynoecia 1
 grapplement
 goldmist
 gashouse
