@@ -20351,7 +20351,7 @@ antilogistically
 anotherguess
 ambisinistrous
 antipsoric
-autosymnoia
+autosymnoia 1
 apologizing
 afterdamp
 ascescency
