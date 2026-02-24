@@ -11579,7 +11579,7 @@ antineutral
 arousals
 apocatastatic
 anerythroplastic
-anticarnivorous
+anticarnivorous 1
 acoria
 argyrodite
 araceous
