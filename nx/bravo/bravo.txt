@@ -9865,7 +9865,7 @@ billed
 barbing
 blancard
 bites
-birefringent
+birefringent 1
 bebat
 backswording
 bolelia
