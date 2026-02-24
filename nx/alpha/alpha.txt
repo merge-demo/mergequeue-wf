@@ -18442,7 +18442,7 @@ algraphic
 arboloco 1
 actinocrinus 1
 accrediting
-affectionless
+affectionless 1
 arietinous
 antalkalies
 arbor
