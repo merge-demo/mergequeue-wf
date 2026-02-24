@@ -9757,7 +9757,7 @@ excression
 equisonance
 eddo
 emerick 1
-enneahedron
+enneahedron 1
 exodist
 epileptiform
 euhedral 1
