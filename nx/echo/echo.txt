@@ -13760,7 +13760,7 @@ erethisia
 evokers
 extispex
 extremely 2
-emulations
+emulations 1
 excavations 1
 epithalamial
 effusely
