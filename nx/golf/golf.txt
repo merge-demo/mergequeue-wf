@@ -8661,7 +8661,7 @@ geotactic
 garrets
 gyrator
 gree
-galvanometrically
+galvanometrically 1
 greenflies
 gorra
 glean
