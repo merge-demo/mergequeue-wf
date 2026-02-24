@@ -6802,7 +6802,7 @@ globuliferous 1
 gelsemic
 graffiti
 gamelotte
-gigahertzes
+gigahertzes 1
 gastroenterostomies
 grecomania
 gagwriter
