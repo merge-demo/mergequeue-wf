@@ -2070,7 +2070,7 @@ glimpser
 gamblers
 gyrocompasses
 gorgonize
-glacially
+glacially 1
 gawgaw
 gaolbird
 goldenseal
