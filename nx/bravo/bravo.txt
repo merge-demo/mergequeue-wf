@@ -3449,7 +3449,7 @@ bulletmaker
 bastardism
 bastardizes 1
 bastardliness
-birimose
+birimose 1
 bullfoot
 brethrenism 1
 biophysically
