@@ -18107,7 +18107,7 @@ ballock 1
 breakably
 brins
 bealtared
-buskin
+buskin 1
 blobbier 1
 bureaucrats
 boll
