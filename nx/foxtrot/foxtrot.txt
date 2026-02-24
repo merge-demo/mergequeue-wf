@@ -416,7 +416,7 @@ fallaway
 fastidiously 1
 fourquine
 floozie
-fitten
+fitten 1
 fairishly
 fister 1
 fronde
