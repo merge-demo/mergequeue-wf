@@ -3632,7 +3632,7 @@ enervator
 equoid
 erysipelatoid
 exothermally 1
-epidesmine
+epidesmine 1
 emboscata
 exclusionary
 ectoglia
