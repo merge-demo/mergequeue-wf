@@ -6993,7 +6993,7 @@ cryptodiran
 cosinusoid
 cinquains
 cenizo
-codable
+codable 1
 cosmozoism
 copurchaser
 cenobies
