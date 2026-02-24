@@ -15457,7 +15457,7 @@ dispossed
 discodactyl
 dispell 1
 desist
-deflagrated
+deflagrated 1
 decolorise
 devisable
 dealers
