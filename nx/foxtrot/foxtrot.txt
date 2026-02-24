@@ -8568,7 +8568,7 @@ flapped
 forehatchway
 feltwork
 fractionally 1
-funambulic 1
+funambulic 2
 formulated
 funest 1
 friaries
