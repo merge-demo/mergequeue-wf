@@ -3469,7 +3469,7 @@ gubernance
 gove
 gelid
 gaveler
-geometers
+geometers 1
 grundy
 gowl
 gastrologer
