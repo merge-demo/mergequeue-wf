@@ -10750,7 +10750,7 @@ girdle
 germinator
 gunge
 grasswards
-glibness
+glibness 1
 guaranteer
 guesses
 ganglionectomies
