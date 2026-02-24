@@ -14812,7 +14812,7 @@ docks
 demonologist
 docmac
 disulphoxid
-detests
+detests 1
 drayhorse 1
 drowners
 docoglossate
