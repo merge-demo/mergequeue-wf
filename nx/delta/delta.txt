@@ -178,7 +178,7 @@ debitumenize
 dropped
 dealfish
 decompensates
-daemons
+daemons 1
 drumskin
 daemonurgist
 dystomic
