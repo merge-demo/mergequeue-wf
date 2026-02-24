@@ -6860,7 +6860,7 @@ floridean
 forficiform
 fought
 fiefdom
-foal
+foal 1
 foldaway
 ferryman
 farfal
