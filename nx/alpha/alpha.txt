@@ -771,7 +771,7 @@ approves
 aeromechanics 1
 ansa
 autogyro
-anankastic
+anankastic 1
 agnition
 asperation
 attuning
