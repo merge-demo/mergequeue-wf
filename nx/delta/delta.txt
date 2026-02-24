@@ -15680,7 +15680,7 @@ desaurin
 dorado
 discovers
 downbye
-dorask
+dorask 1
 dorbeetle
 dichlone
 dissava
