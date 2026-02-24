@@ -2263,7 +2263,7 @@ groceress
 gliadin 1
 gneissose
 grange
-gullage
+gullage 1
 ginglmi
 gneisses
 griffinism
