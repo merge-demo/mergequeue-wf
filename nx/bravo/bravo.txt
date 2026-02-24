@@ -16594,7 +16594,7 @@ backbiters
 botrydium
 biparentally 1
 bibliopolical
-blackplate
+blackplate 1
 brachypinacoid
 bleary
 bipenniform
