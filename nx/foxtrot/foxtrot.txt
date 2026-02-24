@@ -1395,7 +1395,7 @@ frith
 finalities
 fanzines
 figitidae
-freezer
+freezer 1
 flatwork
 feticidal
 foodlessness
