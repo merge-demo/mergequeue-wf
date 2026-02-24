@@ -12636,7 +12636,7 @@ embanked 1
 epexegeses
 ectogenic
 enigmaticalness
-equipped
+equipped 1
 emeralds
 essancia 1
 ergotize
