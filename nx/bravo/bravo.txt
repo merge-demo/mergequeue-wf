@@ -11552,7 +11552,7 @@ bedfast
 blamably
 bilateralness
 biosystematist
-borecoles
+borecoles 1
 brownshirt
 burrhead
 bookstand
