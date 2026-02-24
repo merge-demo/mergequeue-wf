@@ -17245,7 +17245,7 @@ coalescence
 crimpers
 cellarless
 coitions
-coalescency
+coalescency 1
 candlesnuffer
 cryptographically
 combustibility
