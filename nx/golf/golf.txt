@@ -6993,7 +6993,7 @@ gallerian
 giving
 gentium 1
 glad
-geopolitic
+geopolitic 1
 grottoes
 geologise
 gossipry
