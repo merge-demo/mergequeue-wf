@@ -3472,7 +3472,7 @@ caprigenous 1
 caprylic
 cosines
 caprylyl
-coat
+coat 1
 caprylone
 chivarro
 counterplan
