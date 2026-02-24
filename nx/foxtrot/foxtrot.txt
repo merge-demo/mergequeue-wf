@@ -8225,7 +8225,7 @@ fg
 flushgate
 forfending
 forheed
-fetometry
+fetometry 1
 fairyologist
 frigid
 fanback
