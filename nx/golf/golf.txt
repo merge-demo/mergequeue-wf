@@ -9105,7 +9105,7 @@ geoid
 governableness
 gablatores
 graptolitic
-grumose
+grumose 1
 gaumlike
 geophagist
 galago
