@@ -4842,7 +4842,7 @@ generalidad
 girny
 galleta
 geshurites
-gleg
+gleg 1
 geezers
 gladfulness
 gratefullest 1
