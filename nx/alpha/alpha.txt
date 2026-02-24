@@ -11110,7 +11110,7 @@ amphictyon
 antistrophic
 anisospore
 amphid
-acater
+acater 1
 aryans
 amphidisc
 auroral
