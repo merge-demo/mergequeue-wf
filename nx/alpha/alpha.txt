@@ -12528,7 +12528,7 @@ avertible
 anetiological
 aneuch
 arhatship
-andesite
+andesite 1
 alala
 aneuploidy
 aneuric
