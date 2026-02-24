@@ -691,7 +691,7 @@ eugenia
 ennoble 1
 evilness
 enventual
-enddamaged
+enddamaged 1
 embroiling
 eigenstate
 elem
