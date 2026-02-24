@@ -11415,7 +11415,7 @@ furcated
 fishings 1
 furfuraceously
 ferity
-fingerlike
+fingerlike 1
 ferling
 fatality 1
 furred 1
