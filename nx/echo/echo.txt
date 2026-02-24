@@ -4556,7 +4556,7 @@ emberizidae
 extrabranchial
 embeggar
 earthmove
-enrol
+enrol 1
 ee
 epidiorthosis
 escuela 1
