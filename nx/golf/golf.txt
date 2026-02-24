@@ -959,7 +959,7 @@ glycogenesis
 gridding
 ganderess
 globularity
-grimace
+grimace 1
 genettes
 gubernia
 gimleting

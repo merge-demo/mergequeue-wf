@@ -2471,7 +2471,7 @@ foliously
 flabile 1
 foretellable
 finale
-foamlike
+foamlike 1
 foredetermine 2
 fluellin
 fernyear
