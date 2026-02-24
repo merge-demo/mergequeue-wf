@@ -4292,7 +4292,7 @@ faunistical
 fowlpoxes 1
 forenoted
 flowerpecker
-fetichist
+fetichist 1
 foreyard
 fatless
 forsaken
