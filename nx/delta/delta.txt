@@ -8762,7 +8762,7 @@ downright
 deterrents
 defocusses
 deescalations
-defluous
+defluous 1
 diatomist
 ditch
 dover
