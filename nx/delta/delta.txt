@@ -9128,7 +9128,7 @@ doffs
 detriment
 disdiaclasis
 draintile
-didicoy
+didicoy 1
 deadpanner
 digger
 densest 1
