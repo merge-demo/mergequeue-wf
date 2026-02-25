@@ -14839,7 +14839,7 @@ bailie
 barres
 bombable
 bicyclical
-burgheress
+burgheress 1
 baru
 bullule
 brava
