@@ -6855,7 +6855,7 @@ desmopexia
 deheathenize
 deifies
 desemer
-danglers
+danglers 1
 dispositor
 desoeuvre
 dewlight
