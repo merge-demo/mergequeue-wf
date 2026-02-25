@@ -31833,7 +31833,7 @@ campestrian
 cutinize
 cutireaction
 chapelman
-corymb
+corymb 1
 cutisector
 cutises
 cutiterebra
