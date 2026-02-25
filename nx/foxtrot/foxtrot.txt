@@ -11523,7 +11523,7 @@ foreremembered
 frolic
 furtiveness
 frena
-foreplay
+foreplay 1
 fuselages
 fuselike 1
 fiancee
