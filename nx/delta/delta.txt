@@ -14471,7 +14471,7 @@ defunctionalization
 disdeify
 daltonian
 disjointing
-donk
+donk 1
 diverticle
 dorsocervically
 diverticulosis
