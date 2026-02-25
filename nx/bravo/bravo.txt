@@ -14717,7 +14717,7 @@ bibliomancy 1
 balustrade
 birdlike
 balletically
-bioscientist
+bioscientist 1
 balneotherapeutics 1
 broilingly 1
 buffets

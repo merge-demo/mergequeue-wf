@@ -6291,7 +6291,7 @@ experienceable
 endbrain
 ethnographist
 electroengrave 1
-enrober
+enrober 1
 enrockment
 expiatist
 epituberculosis
