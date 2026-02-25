@@ -4161,7 +4161,7 @@ arylide
 apicula
 agin
 adopting
-adopted
+adopted 1
 anthrax
 appendaged
 astronomic 1
