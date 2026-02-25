@@ -12650,7 +12650,7 @@ breechblock
 bonnnes
 bonnwis
 bionomist
-bonorum
+bonorum 1
 bisector 1
 bills
 blackballer
