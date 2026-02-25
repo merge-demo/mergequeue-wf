@@ -10747,7 +10747,7 @@ globulin
 goodlihead
 grovelers
 girdle
-germinator
+germinator 1
 gunge
 grasswards
 glibness 1
