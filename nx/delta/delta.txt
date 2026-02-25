@@ -10457,7 +10457,7 @@ defi
 dreidels
 diplomatism
 disnatured
-diplococcocci
+diplococcocci 1
 diphonia
 drizzlier
 dysgenics
