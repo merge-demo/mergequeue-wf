@@ -5671,7 +5671,7 @@ expectorants
 endothermically
 extraventricular
 extras
-episcopalism
+episcopalism 1
 eternizes
 enhances
 ethylene
