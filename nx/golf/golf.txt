@@ -4208,7 +4208,7 @@ gerund
 galvanomagnetism 1
 gynaecological
 gentianwort
-gabbiness
+gabbiness 1
 grimacingly
 gobbing 1
 gastornis 2
