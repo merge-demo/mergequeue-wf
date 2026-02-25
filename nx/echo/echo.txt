@@ -13422,7 +13422,7 @@ entropium
 eightscore 1
 exter 1
 entrapments
-expounder
+expounder 1
 expressless 1
 eulogised
 ems
