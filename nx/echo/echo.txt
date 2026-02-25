@@ -1844,7 +1844,7 @@ exhorters
 engraulis
 excoriates
 effetely
-eroding
+eroding 1
 encroached
 emanativ
 egotheism
