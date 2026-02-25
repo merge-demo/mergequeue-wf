@@ -4806,7 +4806,7 @@ andric 1
 aneared
 ayah
 avoset
-aspheterize
+aspheterize 1
 antisex
 amoebous
 arkwright
