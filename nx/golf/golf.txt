@@ -7568,7 +7568,7 @@ gypsywort
 gleewoman 1
 grote
 gowked
-gorsebird
+gorsebird 1
 gambet
 glucolysis
 gov
