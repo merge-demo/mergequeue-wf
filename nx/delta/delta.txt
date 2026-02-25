@@ -1971,7 +1971,7 @@ debuted
 du
 desirable
 diced
-digametic
+digametic 1
 diagrammers 1
 dermatoma
 disulphate
