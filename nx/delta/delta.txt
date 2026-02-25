@@ -4855,7 +4855,7 @@ dicarboxylate
 detecting
 demonographies
 diakinetic
-denature
+denature 1
 dramseller
 deactivator
 demishirt 1
