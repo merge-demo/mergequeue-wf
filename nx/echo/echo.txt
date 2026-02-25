@@ -7022,7 +7022,7 @@ electrophototherapy
 epipodiale
 excipular
 exponentiated
-epistolar
+epistolar 1
 explosiveness
 endostylic
 excerptive
