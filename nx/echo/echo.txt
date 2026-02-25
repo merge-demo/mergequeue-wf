@@ -12708,7 +12708,7 @@ endorsor
 estrogenically
 epilachna
 etoffe
-extuberate
+extuberate 1
 exultant
 exonerator
 euphonising
