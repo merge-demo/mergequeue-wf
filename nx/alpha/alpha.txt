@@ -12937,7 +12937,7 @@ amicron
 ascariasis
 accessory
 aluniferous
-assubjugate
+assubjugate 1
 aeroballistics
 agglomeratic
 anhelation
