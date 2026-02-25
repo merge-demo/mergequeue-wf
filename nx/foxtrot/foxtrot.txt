@@ -2294,7 +2294,7 @@ fimbricate
 fast
 fixities
 fixatifs
-foggy
+foggy 1
 fictionalizes
 fondaco
 feminizes
