@@ -4221,7 +4221,7 @@ forel
 fleaworts
 favourably
 foulmouthed
-foretokening
+foretokening 1
 flagstones
 fado
 flickertail
