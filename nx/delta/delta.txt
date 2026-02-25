@@ -706,7 +706,7 @@ drybrained
 detruncated
 detachs
 dandify
-dimmit
+dimmit 1
 denumerant
 didelphia
 discomycetes
