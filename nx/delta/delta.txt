@@ -11716,7 +11716,7 @@ daubiest
 disjunction
 discouraged
 datil
-displeasureably
+displeasureably 1
 discouragingly
 dispellable
 daydreamlike
