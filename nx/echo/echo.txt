@@ -5895,7 +5895,7 @@ enhaemospore
 eldfather
 epidotic
 epitomised
-epitomise
+epitomise 1
 erectopatent
 equaling
 enharbour
