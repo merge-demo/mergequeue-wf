@@ -5103,7 +5103,7 @@ blacklead
 baselines
 bejuco
 bandalore
-blazoning
+blazoning 1
 bracted
 befittingness
 boltant
