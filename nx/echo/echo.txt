@@ -1350,7 +1350,7 @@ ericophyte 1
 efface
 equalized
 effacers
-emasculates
+emasculates 1
 episcopize
 evaginable
 evernioid
