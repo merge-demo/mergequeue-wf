@@ -4477,7 +4477,7 @@ bike
 boomeranged 1
 billard
 bromizer
-bebopper
+bebopper 1
 blackrag
 batteler
 bailment 1
