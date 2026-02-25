@@ -2565,7 +2565,7 @@ docetist
 desistence 1
 diplocephalous
 decoat
-dicotyledonous
+dicotyledonous 1
 disbelief
 demiquaver
 diformin
