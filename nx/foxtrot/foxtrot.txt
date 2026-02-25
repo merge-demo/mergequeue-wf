@@ -2671,7 +2671,7 @@ firmless
 fluviatic 1
 feeding
 fakers
-fainaigue
+fainaigue 1
 froufrou
 factotum
 fetted
