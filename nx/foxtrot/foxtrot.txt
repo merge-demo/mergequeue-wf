@@ -4635,7 +4635,7 @@ formats
 freest
 filmist
 fistulina
-forbbore
+forbbore 1
 fistwise
 fit 1
 fumatory
