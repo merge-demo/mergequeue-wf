@@ -163,7 +163,7 @@ fibbery 1
 flockless
 fraternation
 faticableness
-factionalism
+factionalism 1
 flexional 1
 fibroareolar
 fabes
