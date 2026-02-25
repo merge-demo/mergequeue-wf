@@ -10470,7 +10470,7 @@ dharna
 deactivate
 denaturate
 diphtheria
-disjune
+disjune 1
 dogberrydom
 deda
 dotty
