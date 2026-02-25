@@ -3604,7 +3604,7 @@ gesnera 1
 greyness
 guttatim
 georama
-gogos
+gogos 1
 ghees
 garaged
 geopony
