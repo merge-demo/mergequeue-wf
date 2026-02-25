@@ -670,7 +670,7 @@ gilden
 gowlan
 grass
 greyiaceae
-galtrap
+galtrap 1
 gianthood 1
 gallera
 grazer
