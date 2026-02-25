@@ -3989,7 +3989,7 @@ gouter
 gesticulates
 gansey
 greenest
-gorgonian
+gorgonian 1
 gellert
 gildhall
 geosynclines 1
