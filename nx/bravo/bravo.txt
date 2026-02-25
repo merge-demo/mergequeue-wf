@@ -2303,7 +2303,7 @@ britannica
 bona 1
 butted
 bummil
-bindoree
+bindoree 1
 befuddle
 broadsheet
 brier
