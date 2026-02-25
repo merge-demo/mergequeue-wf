@@ -20892,7 +20892,7 @@ autodial
 asarabacca
 archshepherd
 alecs
-asarite
+asarite 1
 anaxagorize
 aftershine
 allergist
