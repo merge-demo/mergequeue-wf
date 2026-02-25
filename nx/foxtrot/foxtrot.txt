@@ -7384,7 +7384,7 @@ featherbedding 1
 forefronts 1
 folkmoots
 furled
-fopperies
+fopperies 1
 fraternized 1
 fleishig
 fluids
