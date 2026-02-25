@@ -11931,7 +11931,7 @@ cucurbitine
 canoodling
 cowhages
 cane
-chores
+chores 1
 cortication
 crwths
 choreus
