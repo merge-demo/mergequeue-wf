@@ -10473,7 +10473,7 @@ flameproof
 forfex
 feetage
 furner
-finnesko
+finnesko 1
 fillagree
 feta
 fescue
