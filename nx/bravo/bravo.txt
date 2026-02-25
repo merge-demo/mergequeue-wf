@@ -7657,7 +7657,7 @@ beeper
 burgling
 bewraps
 bonairly
-basilisks
+basilisks 1
 belesprit
 bogieman
 bewrapt
