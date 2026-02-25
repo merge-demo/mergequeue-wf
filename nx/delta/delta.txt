@@ -3673,7 +3673,7 @@ decomposite
 diabetic
 degradative
 degradement
-disburses
+disburses 1
 dozing
 depsid
 disrupt
