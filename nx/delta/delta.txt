@@ -17067,7 +17067,7 @@ droukan
 dicotyl
 drie
 drawlink
-dries
+dries 1
 diphtheriaphor
 dingwall
 dovekies
