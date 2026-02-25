@@ -8144,7 +8144,7 @@ flatfish 1
 farmland
 furtive
 foison
-fanum
+fanum 1
 footmenfootpad
 festivous 1
 fannell
