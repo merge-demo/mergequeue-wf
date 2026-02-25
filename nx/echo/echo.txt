@@ -13064,7 +13064,7 @@ eyl
 erliche 1
 enclosed
 estafette
-executory
+executory 1
 electrocauteries
 evoe
 ethos
