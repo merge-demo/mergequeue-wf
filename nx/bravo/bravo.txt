@@ -7761,7 +7761,7 @@ bhojpuri
 brim
 bhokra
 bonaventure
-bunglingly
+bunglingly 1
 buntine 1
 bustee
 bingey
