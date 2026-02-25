@@ -774,7 +774,7 @@ fleers
 flavoury
 fanciless 1
 floundered
-fallows
+fallows 1
 ferried
 favourable
 flamers
