@@ -669,7 +669,7 @@ flan
 folklorish
 fisnoga
 feijoa
-finenesses
+finenesses 1
 fidate 1
 frisker 1
 fossulae
