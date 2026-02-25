@@ -4318,7 +4318,7 @@ fundamentalness
 foiblesse
 foreordains
 fendable 1
-feudalized
+feudalized 1
 firk
 ferth 1
 filacer
