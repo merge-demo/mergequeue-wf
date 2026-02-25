@@ -29503,7 +29503,7 @@ cravers
 comeliest
 cunye
 crystallomancy
-crystallometry
+crystallometry 1
 cysticercerci
 continuist
 conjunctional
