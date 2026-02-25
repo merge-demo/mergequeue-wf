@@ -2092,7 +2092,7 @@ gyrolith
 grabs
 gnomist
 gelndesprung 1
-gratuito
+gratuito 1
 greasehorn
 graptolitoidea
 grottolike
