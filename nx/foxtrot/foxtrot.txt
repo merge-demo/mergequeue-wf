@@ -9621,7 +9621,7 @@ forepale
 final
 furuncular 1
 fleeciest
-freebootery
+freebootery 1
 florette
 fluorophosphate
 folkmote
