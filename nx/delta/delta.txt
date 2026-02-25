@@ -6495,7 +6495,7 @@ devex
 diadromous 1
 dissevering
 drumlins
-determinate
+determinate 1
 dactylogram
 demounted
 disanney
