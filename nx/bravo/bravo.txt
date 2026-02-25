@@ -14638,7 +14638,7 @@ blindest 1
 broncobuster
 bellyband
 betrumpet
-brangled
+brangled 1
 bandsaw 1
 beanies
 brank
