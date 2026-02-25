@@ -4155,7 +4155,7 @@ encorbellment
 eclegm 1
 extracranial
 energids
-expungement
+expungement 1
 eurhythmy
 exotericism
 erythrodermia
