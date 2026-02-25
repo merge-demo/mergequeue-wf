@@ -1540,7 +1540,7 @@ bacteremia
 borstal
 bromochlorophenol
 boner
-bedsick
+bedsick 1
 balladic
 braidist
 bajury
