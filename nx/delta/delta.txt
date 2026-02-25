@@ -6460,7 +6460,7 @@ descale
 downrightly 1
 dequeues
 descant
-dalcassian
+dalcassian 1
 desudation
 domina
 dentinoblast
