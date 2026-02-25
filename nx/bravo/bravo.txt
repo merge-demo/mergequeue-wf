@@ -16845,7 +16845,7 @@ banging
 brachycephaly
 botts
 brumbee
-bacterioid
+bacterioid 1
 bantoid 1
 bicolligate
 bromoauric
