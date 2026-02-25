@@ -28525,7 +28525,7 @@ cystines
 credentials
 credently
 crawleyroot
-credere
+credere 1
 credible
 caraipa
 concealers
