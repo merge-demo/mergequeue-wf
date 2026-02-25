@@ -3808,7 +3808,7 @@ daffs
 dallan 1
 decharm
 dizzied
-deindividualize
+deindividualize 1
 dortiship
 diplocephaly
 darryl
