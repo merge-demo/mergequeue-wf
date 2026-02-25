@@ -17243,7 +17243,7 @@ dishable
 desulphurated
 declarators
 debt
-disseizee
+disseizee 1
 densitometers
 droghlin
 discrepant
