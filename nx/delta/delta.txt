@@ -17826,7 +17826,7 @@ dictograph
 dishonorer
 discountable
 decurve
-definable
+definable 1
 dunkirk
 dyophysitical
 devoutless
