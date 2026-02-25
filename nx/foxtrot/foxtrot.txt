@@ -1199,7 +1199,7 @@ fund
 fleech
 fillowite
 fountainlike
-fleckled
+fleckled 1
 fourteens
 fleckiness
 feinted
