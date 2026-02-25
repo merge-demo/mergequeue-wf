@@ -16625,7 +16625,7 @@ burkundauze
 basements
 bodier
 bubals
-bubastid
+bubastid 1
 backorder
 belligerencies
 bursati

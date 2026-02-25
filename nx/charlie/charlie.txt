@@ -27096,7 +27096,7 @@ chasms
 clinologic
 configurable
 countershine
-chemosorptive
+chemosorptive 1
 copaiye
 countershock
 counterside
