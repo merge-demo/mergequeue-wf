@@ -7516,7 +7516,7 @@ gloomfully
 glossopharyngeal
 guessable
 gummoses
-glottalized
+glottalized 1
 geopolitist 1
 grommets
 gat
