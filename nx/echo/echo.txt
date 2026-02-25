@@ -2317,7 +2317,7 @@ elapidae
 endosteum
 electropsychrometer 1
 etymologer
-escalatory
+escalatory 1
 exterminations 1
 endosecretory
 evangelicalness
