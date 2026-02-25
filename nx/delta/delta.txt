@@ -13159,7 +13159,7 @@ decurved
 dispersedness
 detonates
 disemploys
-desynonymization
+desynonymization 1
 discobolos
 dramshops
 dispersers
