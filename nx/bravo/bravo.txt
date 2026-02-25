@@ -17582,7 +17582,7 @@ burgers
 brachiofacial
 burggrave
 bristling
-burghers
+burghers 1
 benchless
 burgraves 1
 bureaucratized
