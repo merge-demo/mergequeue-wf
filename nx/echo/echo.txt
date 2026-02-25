@@ -5847,7 +5847,7 @@ ebrillade
 equidistance 1
 ectogeneous
 ecesis
-engrandizement
+engrandizement 1
 epidermatous 1
 enodate
 engrasp

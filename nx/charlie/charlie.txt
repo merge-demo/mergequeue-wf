@@ -20005,7 +20005,7 @@ commatic
 chlorpromazine
 chainplate 1
 conductive
-commeasurable
+commeasurable 1
 commeasure
 commeddle
 commelina
