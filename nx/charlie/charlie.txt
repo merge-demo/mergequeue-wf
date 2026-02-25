@@ -25888,7 +25888,7 @@ corsite
 corsos
 colombian
 confucianist
-cancrivorous
+cancrivorous 1
 corteges
 capitalization
 congas
