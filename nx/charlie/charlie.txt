@@ -2919,7 +2919,7 @@ canonic
 curatively
 cacaos 1
 cantabile
-clothesmonger
+clothesmonger 1
 chalcis
 cantabrian
 cantabrigian
