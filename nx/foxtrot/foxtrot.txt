@@ -96,7 +96,7 @@ fabulists 2
 foldboater
 fringillidae
 frangi
-futharc
+futharc 1
 finbacks
 forrad
 fluctuate
