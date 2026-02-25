@@ -8261,7 +8261,7 @@ grillades
 gelders
 gaist
 glossarial
-gnathonic
+gnathonic 1
 granam
 graphitize 1
 genitocrural
