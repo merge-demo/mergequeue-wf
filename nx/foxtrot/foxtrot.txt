@@ -3075,7 +3075,7 @@ fettle
 foreboot 2
 fibrinose
 ferdiad
-flirtatious
+flirtatious 1
 funnellike 2
 fisherboat
 fetlocked
