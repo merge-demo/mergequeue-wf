@@ -11417,7 +11417,7 @@ expulsatory
 ethnohistory
 exothermicity
 effeir
-electrodesiccation
+electrodesiccation 1
 evenforth
 electrooptical
 ectocommensal
