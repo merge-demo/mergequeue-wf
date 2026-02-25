@@ -8817,7 +8817,7 @@ gardenlike 1
 girsle
 gablelike
 glittersome
-gallowsward
+gallowsward 1
 gleeks
 glossingly
 glyc
