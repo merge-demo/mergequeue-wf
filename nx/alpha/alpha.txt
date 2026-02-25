@@ -16205,7 +16205,7 @@ antithalian
 antitheism
 antitheist
 avgases
-affixer
+affixer 1
 arthrocace
 arthralgia
 agrest
