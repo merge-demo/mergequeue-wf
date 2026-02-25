@@ -19736,7 +19736,7 @@ acrosticheae
 araeostyle
 allelopathy
 amoroso
-aliptic
+aliptic 1
 arithmocratic 1
 arithmograph
 ardilla
