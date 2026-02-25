@@ -15572,7 +15572,7 @@ dooly
 danakil
 drupelet
 decerning
-disheir
+disheir 1
 digor
 doomsayer
 doomsday

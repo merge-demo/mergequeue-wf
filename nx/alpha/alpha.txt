@@ -2968,7 +2968,7 @@ actinisms
 arginine
 actinium 1
 anopias
-actiniums
+actiniums 1
 accedes
 antiacid
 austerest
