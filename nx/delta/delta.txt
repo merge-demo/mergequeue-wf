@@ -767,7 +767,7 @@ danegelds
 dishonorable
 dietarian
 dishonorably
-dungeon
+dungeon 1
 deckhead
 daneweed
 dactyliomancy
