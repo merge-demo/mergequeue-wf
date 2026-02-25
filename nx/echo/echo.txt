@@ -3035,7 +3035,7 @@ epitomes
 embitterment
 enfield
 eleatic
-eleoblast
+eleoblast 1
 evaluate 1
 endless
 extine
