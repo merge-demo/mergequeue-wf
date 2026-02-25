@@ -3610,7 +3610,7 @@ exaltation
 ergastulum
 embolimeal
 ecumenism
-emuscation
+emuscation 1
 ethane
 exothermic
 ergographic
