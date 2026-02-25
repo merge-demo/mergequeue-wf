@@ -10747,7 +10747,7 @@ disquisitor
 datagrams
 diprotic
 dianoialogy
-descriptions
+descriptions 1
 decontaminate
 durions
 dorsoradial
