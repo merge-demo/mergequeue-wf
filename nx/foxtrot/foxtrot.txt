@@ -10852,7 +10852,7 @@ fontanels
 fluxweed 1
 flamefish
 furoin
-farset
+farset 1
 fishpool
 feasances
 fingertips
