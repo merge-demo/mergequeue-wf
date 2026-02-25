@@ -6402,7 +6402,7 @@ decree
 decenter
 disencumbered
 deviled
-denizening
+denizening 1
 debellation 1
 disenchants
 duce
