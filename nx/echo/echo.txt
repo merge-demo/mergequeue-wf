@@ -7383,7 +7383,7 @@ exile
 eunomian
 endemic
 expurgative
-elephantic
+elephantic 1
 entombing
 environmentalism 1
 enmarbled
