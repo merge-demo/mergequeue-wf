@@ -1654,7 +1654,7 @@ gammarid
 grandisonianism
 guayabo
 groow
-gastroduodenitis
+gastroduodenitis 1
 guadua
 gastritis 1
 goriness
