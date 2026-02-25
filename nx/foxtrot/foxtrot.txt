@@ -10338,7 +10338,7 @@ floscularian
 faquirs 1
 flandowser
 finary
-fanged
+fanged 1
 foothills
 fingerings
 fluormeter
