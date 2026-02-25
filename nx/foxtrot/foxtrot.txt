@@ -5652,7 +5652,7 @@ flannelmouthed
 featest 1
 femininely
 focusers
-filagrees
+filagrees 1
 furbearer
 froebelist
 fainters
