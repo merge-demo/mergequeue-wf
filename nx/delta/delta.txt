@@ -10147,7 +10147,7 @@ dodecahedra
 doodled
 dimidiated
 dip
-discurrent
+discurrent 1
 doliolum
 dismember 1
 daniele
