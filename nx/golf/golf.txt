@@ -9268,7 +9268,7 @@ glowworm
 graver
 granulomatosis
 groaned
-ghosts
+ghosts 1
 genies
 gasometry
 gigantal
