@@ -13911,7 +13911,7 @@ eccl
 extolment
 eleonorite 1
 erythrism
-eperotesis
+eperotesis 1
 entombed
 eliminatory
 extorter
