@@ -19118,7 +19118,7 @@ colliquable
 completing
 collyria
 collyridian
-collyrite
+collyrite 1
 cameration
 carder
 collyrium
