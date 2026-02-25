@@ -9869,7 +9869,7 @@ birefringent 1
 bebat
 backswording
 bolelia
-bori
+bori 1
 balladry
 bebleed 1
 brail 1

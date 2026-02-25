@@ -7371,7 +7371,7 @@ escaping
 entameba
 electrograph
 enduro
-epizoal
+epizoal 1
 elongate 1
 economy
 etoiles
