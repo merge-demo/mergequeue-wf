@@ -11523,7 +11523,7 @@ deads
 dahabiah
 discolouring
 discolourization
-discombobulate
+discombobulate 1
 disuniform
 denominator
 daps
