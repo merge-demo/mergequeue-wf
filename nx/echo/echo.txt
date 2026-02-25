@@ -4711,7 +4711,7 @@ escot
 ensulphur
 electroencephalographs
 entrammel
-endoscopist
+endoscopist 1
 excusability
 entoil
 eponymus
