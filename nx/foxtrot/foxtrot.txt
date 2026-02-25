@@ -10491,7 +10491,7 @@ frivol
 floorshift
 farce
 fleet
-ferromagnetic
+ferromagnetic 1
 fwd
 fisted
 foreskirt
