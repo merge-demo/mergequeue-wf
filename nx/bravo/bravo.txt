@@ -15567,7 +15567,7 @@ bilbos
 benthal
 brisances
 bination
-bardelle
+bardelle 1
 borley
 barometer
 beavers
