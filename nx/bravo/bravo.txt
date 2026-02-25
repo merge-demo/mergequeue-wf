@@ -1425,7 +1425,7 @@ baccalaurean
 bale
 babassu 1
 bajonado
-berthage
+berthage 1
 backjoint
 balearica
 balebos
