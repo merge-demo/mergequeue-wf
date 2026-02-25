@@ -6720,7 +6720,7 @@ furcilia
 fulgurating
 flisked 1
 flossing
-forenotice
+forenotice 1
 folkright 1
 foemanship
 fribble
