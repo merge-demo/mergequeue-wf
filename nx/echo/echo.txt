@@ -13359,7 +13359,7 @@ exponention
 elephantopus
 exponible
 existible
-evolvable
+evolvable 1
 embread
 extrametaphysical
 encowl
