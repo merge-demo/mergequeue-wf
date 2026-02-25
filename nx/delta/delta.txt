@@ -12798,7 +12798,7 @@ dunk
 diptychs
 diathesic
 derepression
-delicto
+delicto 1
 dalk 1
 dumpiness
 delectate
