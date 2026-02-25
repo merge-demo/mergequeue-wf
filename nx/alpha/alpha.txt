@@ -24145,7 +24145,7 @@ avern
 azeotropism
 acanthi
 andiron
-autognostic
+autognostic 1
 articulus
 acanthocarpous
 acidimetrical
