@@ -1400,7 +1400,7 @@ flatwork
 feticidal
 foodlessness
 fishpoles
-frontosquamosal
+frontosquamosal 1
 fatsia 2
 formalizable
 fancying 1
