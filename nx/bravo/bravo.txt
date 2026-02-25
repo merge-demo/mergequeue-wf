@@ -11365,7 +11365,7 @@ bakeapple
 bluebeard
 bure
 buff
-buntings
+buntings 1
 bacilliparous
 bobooti
 bipinnate
