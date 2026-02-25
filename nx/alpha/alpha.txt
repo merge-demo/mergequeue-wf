@@ -18962,7 +18962,7 @@ adjunct
 atopic
 astrohatch 1
 archiver
-archjockey
+archjockey 1
 archpresbyterate
 archknave
 ageless
