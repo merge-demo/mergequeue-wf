@@ -16827,7 +16827,7 @@ cirrous
 capitative
 clownheal
 choise
-condescensively
+condescensively 1
 coadjutrices
 crinkle
 cocontractor
