@@ -2395,7 +2395,7 @@ excathedral
 ectromelia
 epidotization
 etherealisation
-exauthorize
+exauthorize 1
 excentricity
 electroscopes
 epicaridan
