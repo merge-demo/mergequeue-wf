@@ -11198,7 +11198,7 @@ fixating
 forgather
 foremanship 1
 fippence
-feminization
+feminization 1
 futuric
 floriate
 fasciolae
