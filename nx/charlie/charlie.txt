@@ -6394,7 +6394,7 @@ childre
 clubfeet
 causidical
 cruzado
-counterassurance
+counterassurance 1
 caustical
 causticism
 celticism
