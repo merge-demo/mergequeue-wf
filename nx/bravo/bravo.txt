@@ -9917,7 +9917,7 @@ biffin
 bitterer
 baygall
 babasco
-bistable
+bistable 1
 berkeleyism
 beswarms
 bitterheartedness
