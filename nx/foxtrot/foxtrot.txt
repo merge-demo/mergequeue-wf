@@ -10739,7 +10739,7 @@ foreyear
 fascistize
 filagree
 fringelike
-faenus
+faenus 1
 fleshpots 1
 flam
 froom
