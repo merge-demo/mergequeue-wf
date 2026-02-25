@@ -11847,7 +11847,7 @@ empocket 1
 exauctorate 1
 eriglossa
 elding
-enlargingly
+enlargingly 1
 exaudi
 erythrocytometry
 ethenoidal
