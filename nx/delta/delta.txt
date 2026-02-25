@@ -12839,7 +12839,7 @@ diplopod
 demiparadise 1
 dithalous
 dysnomy
-disman
+disman 1
 darksome
 dishevelment
 dissyllabic
