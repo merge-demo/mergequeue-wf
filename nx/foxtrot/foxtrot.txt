@@ -9633,7 +9633,7 @@ ferrules
 floreta
 frontopontine
 fizzed
-fichus
+fichus 1
 frizzing
 fishpound
 fivestones
