@@ -7004,7 +7004,7 @@ degust
 disabilities
 despoilers
 decongest
-decamps
+decamps 1
 disjasket
 dogfaces
 diplumbic
