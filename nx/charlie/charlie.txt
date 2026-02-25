@@ -27319,7 +27319,7 @@ ceint
 calumniator
 cogweel
 courants
-chinoiserie
+chinoiserie 1
 courap
 couratari
 courbaril
