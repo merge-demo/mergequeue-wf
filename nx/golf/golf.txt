@@ -9429,7 +9429,7 @@ glycocholate
 gaelic
 gamble 1
 goto
-gingivoglossitis
+gingivoglossitis 1
 gramercies
 gingerliness
 glycollide
