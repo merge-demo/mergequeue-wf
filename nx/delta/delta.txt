@@ -11619,7 +11619,7 @@ devillike
 defiant 1
 devildom
 dithering 1
-discerpibility
+discerpibility 1
 dames
 disconsolately
 demophobe
