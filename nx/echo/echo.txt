@@ -5966,7 +5966,7 @@ eosins 1
 exdelicto 1
 enigmatist
 epotation
-enigmatizing
+enigmatizing 1
 enigmatographer
 encyclopaedic
 erogenic
