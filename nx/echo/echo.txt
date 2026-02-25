@@ -7606,7 +7606,7 @@ extemporal
 epichondrosis
 enhat
 epichordal
-erosely
+erosely 1
 enantiomorph
 exurbias
 enterocoelous
