@@ -11837,7 +11837,7 @@ ekphore
 ewte
 exorcises
 ensignship
-endorsingly
+endorsingly 1
 exasperatedly
 eversion
 exasperater 2
