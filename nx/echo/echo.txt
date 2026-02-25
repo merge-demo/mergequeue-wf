@@ -4738,7 +4738,7 @@ erosional
 eelware
 effeminacy
 exalbuminose
-encist
+encist 1
 exponentially 1
 encysting
 eugenol 1
