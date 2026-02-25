@@ -10658,7 +10658,7 @@ eudaemon
 enmeshes 1
 extravasated
 exchangee
-ephesian
+ephesian 1
 emblematically
 edda
 encryption
