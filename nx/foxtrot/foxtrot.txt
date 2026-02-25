@@ -10848,7 +10848,7 @@ fennici
 functionless
 fussification
 fulcrumage
-fontanels
+fontanels 1
 fluxweed 1
 flamefish
 furoin
