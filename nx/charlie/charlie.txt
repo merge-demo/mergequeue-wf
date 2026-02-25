@@ -15808,7 +15808,7 @@ clearsightedness
 clearstarcher
 clearstory
 crispest
-camisades
+camisades 1
 coelenteron 1
 cascara
 calentured
