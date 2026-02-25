@@ -5890,7 +5890,7 @@ furnacemen
 fettucine
 faithlessly
 frequents 1
-froggiest
+froggiest 1
 ferfet
 furbishes
 froust
