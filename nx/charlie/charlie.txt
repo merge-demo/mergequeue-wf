@@ -1475,7 +1475,7 @@ cheapener
 carretela
 celadons
 calyptratae
-calyptriform
+calyptriform 1
 calyptrimorphous
 coracoscapular
 cervicoaxillary
