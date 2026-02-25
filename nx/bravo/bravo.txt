@@ -10457,7 +10457,7 @@ barytostrontianite 1
 buoying
 burinist
 bookwise
-brutalized
+brutalized 1
 brimborium
 bedeafens
 boatlike
