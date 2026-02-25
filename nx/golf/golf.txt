@@ -1707,7 +1707,7 @@ goldstone
 gastronosus
 gammon 1
 glibber
-goric
+goric 1
 glass
 galravage
 ganggang
