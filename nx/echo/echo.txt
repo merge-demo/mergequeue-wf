@@ -11973,7 +11973,7 @@ ecoid
 eluder
 extracostal 1
 expellers
-enhorror
+enhorror 1
 engrafter
 ecuador 1
 excise
