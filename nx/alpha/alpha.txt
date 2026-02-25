@@ -15659,7 +15659,7 @@ antiparallel
 archengineer
 androidal
 algieba
-anomer
+anomer 1
 antiparallelogram
 anisomeric
 arylamine
