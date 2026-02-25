@@ -3941,7 +3941,7 @@ endplates
 enanthem
 emmett
 escadrille
-esplanade
+esplanade 1
 explicitly
 epiblemata
 emmy
