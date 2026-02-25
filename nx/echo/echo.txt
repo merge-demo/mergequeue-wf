@@ -13949,7 +13949,7 @@ ectotrophic
 effectivity
 epimer
 enzymology 1
-eozoonal
+eozoonal 1
 enterostenosis
 evidently
 enface
