@@ -12984,7 +12984,7 @@ epistemophilia
 eggshell
 ecologist
 entotic
-estruate
+estruate 1
 epitonion
 empurple
 erse

@@ -5462,7 +5462,7 @@ frowzily
 forecounsel
 fluor
 flyswat
-feridji
+feridji 1
 furthering
 forehandedness
 figuration
