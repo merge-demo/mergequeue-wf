@@ -4907,7 +4907,7 @@ generalize
 geodal
 glycerinize
 gematrical 1
-gavotted
+gavotted 1
 genealogic
 glaiks
 gorse
