@@ -2511,7 +2511,7 @@ gromyl
 gaudier
 gantlet
 gilliver
-glusid
+glusid 1
 guanacos
 generalistic
 gruffy
