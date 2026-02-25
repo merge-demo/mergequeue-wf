@@ -11393,7 +11393,7 @@ achordate
 anisettes
 acetoin
 ascospore
-anapnoeic
+anapnoeic 1
 aldehydes
 alenu
 amusers
