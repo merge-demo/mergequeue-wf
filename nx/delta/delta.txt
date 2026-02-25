@@ -4231,7 +4231,7 @@ dumpish
 deporting
 digallate
 diclytra
-designatory
+designatory 1
 dermatopathology
 demimillionaire
 dysarthria

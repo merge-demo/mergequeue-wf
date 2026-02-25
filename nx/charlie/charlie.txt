@@ -24386,7 +24386,7 @@ cosmoramic
 coorieing
 compressible
 coolness
-coolnesses
+coolnesses 1
 cools
 coolweed
 coom
