@@ -2147,7 +2147,7 @@ guayaberas
 griffith
 geomorphology
 gliss
-gerontine
+gerontine 1
 gdinfo
 golfings
 getaway
