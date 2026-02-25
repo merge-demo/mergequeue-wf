@@ -26364,7 +26364,7 @@ cinderlike
 coterie
 cauls
 ciminite
-colligate
+colligate 1
 concavities
 centipoise
 cliffier
