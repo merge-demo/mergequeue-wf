@@ -14901,7 +14901,7 @@ degradability
 dodecahydrate
 dendrocoelous
 duodenojejunostomy
-divata
+divata 1
 dermophytic
 delabialization
 dihedrals
