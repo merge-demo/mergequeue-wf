@@ -13522,7 +13522,7 @@ arthropod
 aloneness
 annunciating
 annunciation
-amortize
+amortize 1
 atiptoe
 amebic
 annunciations
