@@ -5054,7 +5054,7 @@ flickermouse 1
 fringiest
 flibbertigibbety
 foundationally
-fleetingness
+fleetingness 1
 flood
 faured 1
 faxes 1
