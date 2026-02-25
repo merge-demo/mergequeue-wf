@@ -1454,7 +1454,7 @@ frankly
 fantasie
 fadeout
 feramorz 1
-fluentness
+fluentness 1
 fracticipita
 filago
 falstaffian
