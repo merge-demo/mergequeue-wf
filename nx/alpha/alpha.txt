@@ -22690,7 +22690,7 @@ anociation 1
 arshine
 absent
 ayrshire
-abjuratory
+abjuratory 1
 acumen
 amphibolostylous
 apoise
