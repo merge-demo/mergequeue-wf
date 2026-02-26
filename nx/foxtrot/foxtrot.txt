@@ -6491,7 +6491,7 @@ farmed
 forwarder
 fluorobenzene 1
 fructifies 1
-fesapo
+fesapo 1
 foothalt 1
 frivoled
 fishable 1
