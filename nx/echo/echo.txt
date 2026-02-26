@@ -6182,7 +6182,7 @@ eruditionist
 eustatic
 enneandrian
 etherealizing
-equiparant
+equiparant 1
 eschatologist
 expositing
 ennia
