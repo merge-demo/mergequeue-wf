@@ -10427,7 +10427,7 @@ dekkos
 demersion
 dictyostelic
 ditties
-duncan
+duncan 1
 dipcoat
 disreputable
 dipetto
