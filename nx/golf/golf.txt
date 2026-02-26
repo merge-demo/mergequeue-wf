@@ -826,7 +826,7 @@ grammaticality
 glycosidic
 goliard
 gonadotropin
-gynecomazia
+gynecomazia 1
 geomant
 gilded
 gameness
