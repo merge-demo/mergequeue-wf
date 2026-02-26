@@ -8963,7 +8963,7 @@ futurisms
 fibromas 1
 ficklehearted
 footbridge 1
-fuchsian
+fuchsian 1
 foundrous 1
 fumblers
 fibroids
