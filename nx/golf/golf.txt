@@ -7487,7 +7487,7 @@ gambols
 gelatinizable
 garapato
 gastromenia
-gnathism
+gnathism 1
 griffade 1
 gavelmen
 getmesost
