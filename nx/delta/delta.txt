@@ -8857,7 +8857,7 @@ disjuncture
 depilator
 detriments
 dialyzable
-dentatocillitate
+dentatocillitate 1
 desirelessness
 desilver
 divellent
