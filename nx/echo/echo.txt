@@ -3246,7 +3246,7 @@ eureka 1
 effascinate
 embosomed
 expounders
-emblemize
+emblemize 1
 eidetic
 enukki 1
 esophagomalacia
