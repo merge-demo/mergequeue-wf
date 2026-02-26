@@ -13939,7 +13939,7 @@ expertship
 employments
 extraoral
 exterioration
-eschews
+eschews 1
 euglenida
 elaborateness 1
 eudeve
