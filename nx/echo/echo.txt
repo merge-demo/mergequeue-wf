@@ -10872,7 +10872,7 @@ eupepticity
 evangelicity
 eelfish
 elapoid
-enchalice
+enchalice 1
 effigiating
 eanling
 eloigners
