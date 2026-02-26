@@ -3980,7 +3980,7 @@ arrows
 algedonics
 ankuses
 allyic
-acronymize
+acronymize 1
 advect
 admerveylle
 admi
