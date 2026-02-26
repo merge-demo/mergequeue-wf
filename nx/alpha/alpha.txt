@@ -21596,7 +21596,7 @@ arthrosia
 adjudgment
 automolite
 alkyl
-araneologist
+araneologist 1
 abramis
 archways
 aeronomical
