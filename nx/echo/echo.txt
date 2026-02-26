@@ -1099,7 +1099,7 @@ exterritorial
 enshrouded
 embryonically 1
 edgrow
-encephaloscope
+encephaloscope 1
 ediya
 enormous
 ead
