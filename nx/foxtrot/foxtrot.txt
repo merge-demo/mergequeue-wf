@@ -4419,7 +4419,7 @@ fistify
 fumarase 1
 fertiliser 1
 froward
-formulaic
+formulaic 1
 flightless 2
 frumpily
 fearers
