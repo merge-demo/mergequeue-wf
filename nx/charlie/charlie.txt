@@ -10248,7 +10248,7 @@ convallarin
 counterword 1
 chicanes
 chicano
-coimmense
+coimmense 1
 crocodilidae
 concertedness
 chicaric
