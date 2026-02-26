@@ -16909,7 +16909,7 @@ democratizes
 dermatograph
 demystify
 documentize
-denaturize
+denaturize 1
 doorways
 depositories
 dartles
