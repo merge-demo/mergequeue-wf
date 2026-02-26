@@ -11453,7 +11453,7 @@ extraordinarily
 eyeflap 1
 empennages
 eructate
-epichoric
+epichoric 1
 enough 1
 enveloping
 endomitotic
