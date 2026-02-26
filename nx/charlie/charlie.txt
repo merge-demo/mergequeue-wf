@@ -5023,7 +5023,7 @@ crystallizing
 chevrony
 cartulary
 cartularies
-carapache
+carapache 1
 catamneses
 cabbagelike
 collaring
