@@ -9002,7 +9002,7 @@ comus
 charking
 chiels
 charlady
-charladies
+charladies 1
 criterions
 celestiality
 countergauge
