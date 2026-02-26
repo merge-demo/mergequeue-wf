@@ -372,7 +372,7 @@ ferash
 fcp 1
 flaggelate
 flattering
-fiercening
+fiercening 1
 faults
 featherway
 frothsome
