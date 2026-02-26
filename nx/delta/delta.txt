@@ -5201,7 +5201,7 @@ dauerlauf
 denotatum
 donatively
 dactylology
-denotes
+denotes 1
 docetistic
 destructuralize
 dilatedness
