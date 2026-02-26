@@ -6485,7 +6485,7 @@ descendants
 dimensioned
 dipeptid
 denizenship
-disqualification
+disqualification 1
 delignated 1
 disomatous
 descendent
