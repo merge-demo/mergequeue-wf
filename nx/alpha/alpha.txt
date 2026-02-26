@@ -22475,7 +22475,7 @@ astrophysicist
 anteal
 autolysate
 applaudable 1
-arduously
+arduously 1
 anamnestically
 anthemideae
 aleurones
