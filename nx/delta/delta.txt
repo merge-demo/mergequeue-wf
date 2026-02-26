@@ -5530,7 +5530,7 @@ deposer
 dictation
 deuterofibrinose
 diplomate
-dyscrase
+dyscrase 1
 dwarfing
 disharmonizing
 dalt 1
