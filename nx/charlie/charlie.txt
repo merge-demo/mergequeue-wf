@@ -5088,7 +5088,7 @@ casas
 chivarra
 cojudge
 coevolve
-colisepsis
+colisepsis 1
 casate
 closemouthed
 casava
