@@ -7507,7 +7507,7 @@ gnast
 galjoen
 glabellous
 gryllus
-gentry
+gentry 1
 gubernaculum
 graypate
 gemstones
