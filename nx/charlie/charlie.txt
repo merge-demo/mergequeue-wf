@@ -25090,7 +25090,7 @@ counterbalancing
 coregonid
 coregonoid
 chlorinate
-coreidae
+coreidae 1
 caeciform
 californians
 chetif
