@@ -9337,7 +9337,7 @@ formicicide
 fromages
 fluxility
 furrier
-fizzle
+fizzle 1
 faller
 fro 1
 fanneling
