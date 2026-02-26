@@ -4847,7 +4847,7 @@ geezers
 gladfulness
 gratefullest 1
 galaxian
-glaciates
+glaciates 1
 gladiator
 gagelike
 gilour
