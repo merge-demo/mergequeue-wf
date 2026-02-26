@@ -18170,7 +18170,7 @@ ammonocarbonous
 anapneic
 aquiclude
 adventurement
-asterin
+asterin 1
 amia
 ampelis
 aphanomyces
