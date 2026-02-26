@@ -482,7 +482,7 @@ dup
 dextromanual
 dregless
 diminishingturns
-decollation
+decollation 1
 dalmania
 disobliged
 dalmanites
