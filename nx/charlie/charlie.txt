@@ -28766,7 +28766,7 @@ circulator
 crescentader 1
 cleaving
 crescented
-clocked
+clocked 1
 cheapened 1
 compensate
 coacervated
