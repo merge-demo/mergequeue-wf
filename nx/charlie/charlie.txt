@@ -31091,7 +31091,7 @@ cuneal
 candidacies
 cuneatic
 cuneiform
-cuneiformist
+cuneiformist 1
 columnarity
 connivance
 crossbeams
