@@ -9743,7 +9743,7 @@ gallinuline
 grugous
 grooviness 1
 graycoat 2
-glengarries
+glengarries 1
 gasoliery
 gruyere
 gasterosteidae
