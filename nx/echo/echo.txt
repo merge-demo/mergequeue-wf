@@ -7378,7 +7378,7 @@ etoiles
 electrojet
 ephorates
 epapophysis
-exosphere
+exosphere 1
 exile
 eunomian
 endemic
