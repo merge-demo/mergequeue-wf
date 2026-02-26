@@ -11685,7 +11685,7 @@ esophagoscope
 ethnocentricity
 exclosure
 emollition
-elfic
+elfic 1
 empaneled
 ensear
 enforcibility
