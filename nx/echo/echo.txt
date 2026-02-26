@@ -3742,7 +3742,7 @@ entrancer
 envenom
 endogens
 eternised 1
-elecampane
+elecampane 1
 exergues
 embryological
 endocoeliac
