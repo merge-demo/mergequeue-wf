@@ -13148,7 +13148,7 @@ excruciation 1
 eulogize
 enviroment 1
 exhalation
-empaestic
+empaestic 1
 engelmanni
 ejuration 1
 erymanthian
