@@ -18342,7 +18342,7 @@ aramids
 appendical
 aramina
 afflictedness
-araneoidea
+araneoidea 1
 alarmed
 arangoes
 aranyaka
