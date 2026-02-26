@@ -11671,7 +11671,7 @@ flickeringly
 fresne
 fluorochrome
 faade
-ferrety
+ferrety 1
 freaked
 flames
 frowsty
