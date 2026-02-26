@@ -4624,7 +4624,7 @@ aggravates 1
 arthriticine
 ataxias
 augmentive
-asphaltus
+asphaltus 1
 airchecks
 aldhafera
 attorneyism
