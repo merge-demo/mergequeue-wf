@@ -2873,7 +2873,7 @@ beavering
 baudery
 beclap
 basebred
-brigandishly
+brigandishly 1
 bedrown
 barothermograph 1
 barotrauma
