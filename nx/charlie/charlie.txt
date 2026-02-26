@@ -26230,7 +26230,7 @@ costectomy
 costectomies
 costed
 consultatory
-condylopod
+condylopod 1
 coxopodite
 catocala 1
 costellate
