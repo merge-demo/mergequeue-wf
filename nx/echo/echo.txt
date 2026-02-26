@@ -8486,7 +8486,7 @@ eudiagnostic
 expressionlessness
 ethopoetic
 endoglobular
-estimations
+estimations 1
 electroanalytic
 electroencephalography
 eponym
