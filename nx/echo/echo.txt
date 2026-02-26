@@ -2151,7 +2151,7 @@ exorcistic
 entincture
 enamouring
 equilibrio
-entailer
+entailer 1
 enleague 1
 emblazing
 epipubes
