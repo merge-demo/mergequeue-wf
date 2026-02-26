@@ -9091,7 +9091,7 @@ gease
 glaucomys 1
 glumal
 gourds 1
-glires
+glires 1
 glottochronology 1
 gladiatorism
 glomerulose
