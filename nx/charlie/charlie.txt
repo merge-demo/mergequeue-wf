@@ -4474,7 +4474,7 @@ courthouses
 caripuna
 cariri
 caririan
-choke
+choke 1
 carisa
 cabilliau
 concertina
