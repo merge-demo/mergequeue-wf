@@ -15200,7 +15200,7 @@ ageusic
 antigambling
 arrowlike
 argol
-aftersupper
+aftersupper 1
 anacrusis
 advoyer
 arilloid
