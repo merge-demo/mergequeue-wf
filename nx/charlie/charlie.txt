@@ -9964,7 +9964,7 @@ criollo
 cajuputs
 croup
 chequer
-chequered
+chequered 1
 chequers
 creosoted
 chequerwork
