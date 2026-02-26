@@ -4098,7 +4098,7 @@ demisolde 1
 demagnetised
 democratic
 dianthuses
-deafeningly
+deafeningly 1
 debye
 deliration
 dipodidae
