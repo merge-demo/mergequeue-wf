@@ -14090,7 +14090,7 @@ bruskly
 boc
 basenjis 2
 boding
-binzuru
+binzuru 1
 bulanda
 brachydomatic
 bobization
