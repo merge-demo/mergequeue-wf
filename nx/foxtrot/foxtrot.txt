@@ -7345,7 +7345,7 @@ friendless
 fustet
 floorboards
 fancysick 1
-fertil
+fertil 1
 fermentor 1
 footwarmer 1
 fortnight
