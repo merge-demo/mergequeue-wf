@@ -2903,7 +2903,7 @@ albugineous 1
 acrostical
 acrostichoid
 acrostichum
-adoptianism
+adoptianism 1
 anopheline
 afterrider
 acrosticism
