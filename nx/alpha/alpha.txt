@@ -9478,7 +9478,7 @@ amygdaloncus
 accentuate
 alizarate
 atheism
-algorithmic
+algorithmic 1
 abstention
 astronautical
 autoionization
