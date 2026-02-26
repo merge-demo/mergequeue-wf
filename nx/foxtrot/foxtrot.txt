@@ -5123,7 +5123,7 @@ fermions
 fishline
 foveated 1
 freir
-foreseers
+foreseers 1
 fractious
 fullmouth
 fernleaf
