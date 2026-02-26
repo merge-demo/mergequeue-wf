@@ -3295,7 +3295,7 @@ aromatics
 anomurous
 abscessroot
 appendancy
-agawam
+agawam 1
 adactylous
 ametabola 1
 adad 1
