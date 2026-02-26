@@ -13834,7 +13834,7 @@ expos
 equiseta
 euthenics
 excudit 1
-elaeothesia
+elaeothesia 1
 ethnozoological
 equipotentiality
 equivocation
