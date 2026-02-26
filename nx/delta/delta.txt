@@ -3764,7 +3764,7 @@ diallers
 dehumidified
 disimbitter
 deia 1
-dyostyle
+dyostyle 1
 dor
 dwale
 drillable 1
