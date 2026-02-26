@@ -407,7 +407,7 @@ fancifully
 fairground
 fairy
 faventine 1
-foresettle
+foresettle 1
 fucinita 2
 fructuous 1
 facts
