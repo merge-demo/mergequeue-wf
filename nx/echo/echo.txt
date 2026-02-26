@@ -415,7 +415,7 @@ endevil
 epidiorite
 embouchement
 excentral
-enteroneuritis
+enteroneuritis 1
 ebullition
 erethistic
 eeler
