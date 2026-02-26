@@ -4850,7 +4850,7 @@ contrariantly
 carrack
 cymulose
 cycling
-clint
+clint 1
 corallita
 carracks
 chronobarometer
