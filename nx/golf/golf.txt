@@ -5254,7 +5254,7 @@ gravitative
 gammer
 gluiest
 gazump
-gloved
+gloved 1
 gestatorium
 gonyoncus
 gilenyer
