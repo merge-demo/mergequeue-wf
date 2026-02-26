@@ -4722,7 +4722,7 @@ excitants
 eulogism
 emplaced
 exponentiating
-emittent
+emittent 1
 elocutive
 epithelization
 encounter
