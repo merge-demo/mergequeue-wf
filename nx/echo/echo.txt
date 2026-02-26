@@ -5211,7 +5211,7 @@ etiotropically
 endopathic
 endopelvic
 encyclopaedist
-endophagous
+endophagous 1
 episiocele 1
 encircles
 endophyllum
