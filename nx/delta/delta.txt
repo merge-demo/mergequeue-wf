@@ -8789,7 +8789,7 @@ devaluations
 davenport
 dister
 decagonal
-declassifications
+declassifications 1
 diazin
 drayman
 death
