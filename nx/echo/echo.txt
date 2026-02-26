@@ -10390,7 +10390,7 @@ ephydridae
 equibiradiate
 exhibitor
 endogenesis
-ellagic
+ellagic 1
 ethnogeographically
 ethylamime 2
 ethnopsychology 1
