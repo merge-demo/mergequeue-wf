@@ -1338,7 +1338,7 @@ decephalize
 definer
 dauphine
 dauphines
-drooping 1
+drooping 2
 drawboard
 dauri
 dorter
