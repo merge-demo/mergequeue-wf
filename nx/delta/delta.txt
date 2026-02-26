@@ -15585,7 +15585,7 @@ dooputty
 doorhead
 demagogies
 diffractional
-detergible
+detergible 1
 dooring
 doorknob
 daliance
