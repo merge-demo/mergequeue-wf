@@ -7074,7 +7074,7 @@ assistantships
 autoregulation
 antibiotics
 aweigh
-articulate
+articulate 1
 atchison
 affixment
 alabamide
