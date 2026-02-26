@@ -2528,7 +2528,7 @@ ferrer
 funeralize
 fibromembranous 2
 frate 1
-fooleries
+fooleries 1
 frangibility
 functionalistic
 firecracker
