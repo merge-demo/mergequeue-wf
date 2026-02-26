@@ -12024,7 +12024,7 @@ disemployment
 differen
 disenchant
 dowd
-disenchantments
+disenchantments 1
 disenchantress 1
 depluming
 doctrix
