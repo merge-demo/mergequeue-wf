@@ -27154,7 +27154,7 @@ camarine
 countertechnicality
 countertendency
 cavalry
-cataspilite
+cataspilite 1
 crumbly
 counterterrorism
 counterterrorist
