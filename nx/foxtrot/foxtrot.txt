@@ -7066,7 +7066,7 @@ fuchsines
 flota
 fissility
 filla
-festination
+festination 1
 focalising
 frescoist
 frithy
