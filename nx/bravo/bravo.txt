@@ -3964,7 +3964,7 @@ bocstaff
 ballutes
 bdelloura
 bisected
-bassette
+bassette 1
 bypast
 boiko
 buccolingual
