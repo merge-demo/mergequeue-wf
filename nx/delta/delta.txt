@@ -14834,7 +14834,7 @@ doctoring
 doctorize
 dysthymia 1
 distinctness
-deference
+deference 1
 dishelmed
 deathblows
 dungaree
