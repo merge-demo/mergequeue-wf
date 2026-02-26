@@ -6577,7 +6577,7 @@ flabby
 frogeater
 fike
 fip
-failsoft
+failsoft 1
 finish
 frotted
 freddo
