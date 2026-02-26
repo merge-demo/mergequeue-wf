@@ -2122,7 +2122,7 @@ faithbreach 1
 factuality
 floruit 1
 frigate
-footprints
+footprints 1
 frontogenesis
 forager
 finify
