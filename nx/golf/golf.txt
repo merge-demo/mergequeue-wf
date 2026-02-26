@@ -2461,7 +2461,7 @@ grewia
 gladeye
 gutted
 gibbetwise 1
-genitalic
+genitalic 1
 grandaunt
 grandity
 glossier
