@@ -4063,7 +4063,7 @@ beakers
 biblicoliterary 1
 barms
 beakless
-brightest
+brightest 1
 beala
 binuclear
 burglarproofing
