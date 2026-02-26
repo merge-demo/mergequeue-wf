@@ -13566,7 +13566,7 @@ abolition
 affectuous 1
 annuler
 antefurcae
-allosaur
+allosaur 1
 anodontia
 aperitive
 autocatalyze
