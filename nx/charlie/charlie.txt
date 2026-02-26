@@ -9972,7 +9972,7 @@ chercock
 cherem
 calcimine
 cherenkov
-cherimoyer
+cherimoyer 1
 cump
 cherish
 clausthalite
