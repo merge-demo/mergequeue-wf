@@ -10468,7 +10468,7 @@ gasmaker
 glauberite
 gymnarchus
 ghibelline
-ginglymodi
+ginglymodi 1
 guestwise
 gumshoeing
 galangals
