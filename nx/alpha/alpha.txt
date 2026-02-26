@@ -9108,7 +9108,7 @@ almon
 atheisms
 anga
 almonage
-avertive
+avertive 1
 almonries 1
 angiochondroma
 acroasis
