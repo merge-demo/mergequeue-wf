@@ -2197,7 +2197,7 @@ gestational
 geotaxis
 glyceroxide
 gooseskin 2
-goaves
+goaves 1
 gastrolith
 grecianize 1
 gymnosperms
