@@ -5719,7 +5719,7 @@ empoisoned
 endorsee
 egalites
 embrace
-ejaculum
+ejaculum 1
 eau
 ebullient
 engirdled
