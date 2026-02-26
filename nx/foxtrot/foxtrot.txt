@@ -4194,7 +4194,7 @@ forthrights
 firebox
 flocculation
 freighted
-functor
+functor 1
 farkleberries
 fuligulinae
 footmanhood 1
