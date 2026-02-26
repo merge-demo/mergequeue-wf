@@ -7207,7 +7207,7 @@ darting
 detar
 dumbfounderment
 decals
-disenchantingly
+disenchantingly 1
 detecter
 detecters
 digitate
