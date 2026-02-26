@@ -2981,7 +2981,7 @@ dairymaid
 drudger
 doxologized 1
 dicynodont
-destructiveness
+destructiveness 1
 deemphasized
 denaturizing
 dolomitizing
