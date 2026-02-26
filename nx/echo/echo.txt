@@ -13647,7 +13647,7 @@ enabler
 eked
 evited
 extends
-evernia
+evernia 1
 euphemization 1
 epididymis 1
 eunomia
