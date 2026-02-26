@@ -10055,7 +10055,7 @@ ambrosine
 ambsace
 ambsaces
 ambulacriform
-acuation
+acuation 1
 ambulance
 autophagia
 apnoeal
