@@ -6732,7 +6732,7 @@ bagaudae
 blurted
 brawler
 boons
-beholds
+beholds 1
 bermudas
 bucketfull
 buffoons 2
