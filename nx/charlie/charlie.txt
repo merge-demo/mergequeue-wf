@@ -25053,7 +25053,7 @@ cords
 craftmanship
 courteously
 crosscourt
-costiferous
+costiferous 1
 curiosa
 celotex
 contortionate
