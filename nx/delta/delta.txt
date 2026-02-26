@@ -17853,7 +17853,7 @@ doctrine
 durationless
 dishmaking
 dulcely
-doxographer
+doxographer 1
 dicotyledons
 deathday
 defrauding
