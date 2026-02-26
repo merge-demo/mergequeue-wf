@@ -18412,7 +18412,7 @@ divulgers
 discede
 detracting 1
 disaccustom
-decelerations
+decelerations 1
 diverb
 dauncy
 dingo 1
