@@ -2332,7 +2332,7 @@ eagling
 epicotyl
 eagled
 eyras
-electroacoustic 1
+electroacoustic 2
 electroacoustics
 enthetic 1
 enticeable
