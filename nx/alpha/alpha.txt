@@ -11980,7 +11980,7 @@ anemosis
 architeuthis
 anastatus
 atrabilarian
-anastigmat
+anastigmat 1
 anastigmatic
 alvah
 alichel

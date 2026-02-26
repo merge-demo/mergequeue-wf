@@ -13047,7 +13047,7 @@ cloudscape
 cyathea
 cytodieresis
 cyatheaceae
-countermandable
+countermandable 1
 centralizers
 conclave
 conational
