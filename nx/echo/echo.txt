@@ -7418,7 +7418,7 @@ ecclesiastically
 echt
 ersatzes
 euclases
-eucyclic
+eucyclic 1
 epiphanic
 entocoelic
 empair
