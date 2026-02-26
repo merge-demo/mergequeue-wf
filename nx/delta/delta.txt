@@ -2979,7 +2979,7 @@ defensively
 decomplex
 dairymaid
 drudger
-doxologized
+doxologized 1
 dicynodont
 destructiveness
 deemphasized
