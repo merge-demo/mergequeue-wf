@@ -955,7 +955,7 @@ flenched
 finite
 facetiousness
 frape
-fastigiums
+fastigiums 1
 foredooming
 fawn
 formalizer
