@@ -4158,7 +4158,7 @@ dibbers 1
 deloused
 deodorisation
 doorjamb
-disincorporated
+disincorporated 1
 dogcart
 downcut 1
 decimus
