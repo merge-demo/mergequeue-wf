@@ -28417,7 +28417,7 @@ creamily
 cortical
 creaming
 cienaga
-coccid
+coccid 1
 creamlaid
 coccobaccilli
 creamless
