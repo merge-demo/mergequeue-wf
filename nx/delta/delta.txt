@@ -2411,7 +2411,7 @@ dinoceratid
 defile
 deceived
 diaphragm
-dane
+dane 1
 desmohemoblast
 dusken
 dihydronaphthalene
