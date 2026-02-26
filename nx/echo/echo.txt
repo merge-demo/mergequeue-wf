@@ -3575,7 +3575,7 @@ emblements
 equatorwards
 earmuffs
 expellee
-eggplant
+eggplant 1
 endemically
 erraticism
 exsiccative
