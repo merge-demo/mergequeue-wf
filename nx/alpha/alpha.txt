@@ -16794,7 +16794,7 @@ apostolian
 avocational
 angelographer
 acquisitional
-apogamous
+apogamous 1
 antivenins
 administrators
 allodialist
