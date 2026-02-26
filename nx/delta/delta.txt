@@ -6420,7 +6420,7 @@ debat
 demits
 desaccharification
 decarburisation
-dozened
+dozened 1
 dellenite
 disarranging
 decarbonylating
