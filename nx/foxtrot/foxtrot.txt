@@ -6240,7 +6240,7 @@ fluxation
 forever
 farfara
 fumage
-fumiferana
+fumiferana 1
 fathering
 flirted
 funnyman 1
