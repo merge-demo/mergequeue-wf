@@ -6093,7 +6093,7 @@ foretypified
 fructiform
 focusless
 frottage 1
-fluty
+fluty 1
 fogo
 folliculate
 forecommend
