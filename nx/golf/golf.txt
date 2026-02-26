@@ -595,7 +595,7 @@ ghostweed
 graveside
 guessers
 goulashes
-gurnets
+gurnets 1
 gramaries
 gazophylacium
 gibber

@@ -9903,7 +9903,7 @@ fosh
 fibroneuroma 1
 frickle
 foambow
-featless
+featless 1
 fortypenny
 forefending
 frontager 1
