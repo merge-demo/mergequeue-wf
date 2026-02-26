@@ -1948,7 +1948,7 @@ fenland
 foreteller
 fancy
 fiscalization 2
-feebless
+feebless 1
 filatory
 frontes
 fillock
