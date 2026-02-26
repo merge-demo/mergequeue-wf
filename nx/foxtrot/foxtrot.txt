@@ -2470,7 +2470,7 @@ fatigableness
 foliously
 flabile 1
 foretellable
-finale
+finale 1
 foamlike 1
 foredetermine 2
 fluellin
