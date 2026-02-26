@@ -10017,7 +10017,7 @@ gelatinify
 gangliform
 gateau
 graecized
-galera
+galera 1
 gudame
 gibberose
 glycolipide
