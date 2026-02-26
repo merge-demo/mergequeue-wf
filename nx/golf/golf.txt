@@ -7882,7 +7882,7 @@ going
 glossematic
 grammalogue
 gumby
-gnawable
+gnawable 1
 gumptious
 gainlessness
 greece
