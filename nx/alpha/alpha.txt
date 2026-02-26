@@ -1797,7 +1797,7 @@ aboriginally
 ammonitiferous
 aceldamas
 aquake
-absorptively
+absorptively 1
 amassable
 acemila 1
 allocthonous

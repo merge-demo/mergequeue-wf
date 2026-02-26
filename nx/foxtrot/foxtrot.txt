@@ -11498,7 +11498,7 @@ fruition
 featherbedded 1
 fluidization
 fluidics
-furzy
+furzy 1
 fastest
 fishbowls
 flouncy
