@@ -11660,7 +11660,7 @@ funerealness 1
 foreknowing
 fusus
 feedlot
-fanion
+fanion 1
 fut
 fluoride
 friseurs
