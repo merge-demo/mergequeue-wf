@@ -4029,7 +4029,7 @@ cosmosphere
 corniculate
 collocational
 cajoleries
-confuse
+confuse 1
 carcharias
 carchariid
 clerisy
