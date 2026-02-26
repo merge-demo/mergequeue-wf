@@ -13897,7 +13897,7 @@ bang
 bowheads
 balr
 blatter
-beanfeast
+beanfeast 1
 beehive
 buchite
 beadiest
