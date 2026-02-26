@@ -14754,7 +14754,7 @@ danseuse
 darnation
 delphinic
 defeat
-dioptrically
+dioptrically 1
 dedolomitize
 dobbies 1
 docetize
