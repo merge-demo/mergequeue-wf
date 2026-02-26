@@ -7951,7 +7951,7 @@ gook
 gliriform
 gynecopathic
 gentianales
-gulosities
+gulosities 1
 goniatitidae
 gooseberries 1
 geotherm
