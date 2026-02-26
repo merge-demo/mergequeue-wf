@@ -6199,7 +6199,7 @@ enlisted
 ennoblement
 estuant
 enviable
-euryhaline
+euryhaline 1
 embarcadero
 exesion
 exaspidean
