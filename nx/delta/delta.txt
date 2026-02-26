@@ -2352,7 +2352,7 @@ degerming
 deputation
 dechloridation
 dechloridize
-deaconry
+deaconry 1
 dillweed
 decanate
 dysgenesis
