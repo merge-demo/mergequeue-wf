@@ -10054,7 +10054,7 @@ gonidiferous
 geomorphologist
 gueridons
 galette
-gimels
+gimels 1
 gossypols
 guerison 1
 guerites
