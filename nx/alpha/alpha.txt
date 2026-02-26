@@ -7920,7 +7920,7 @@ argynnis
 antifowl
 annotto
 aurigo
-aleuronic
+aleuronic 1
 arabism
 antibodies
 alevin
