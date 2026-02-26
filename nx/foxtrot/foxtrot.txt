@@ -5826,7 +5826,7 @@ fungous 1
 fuzzball
 favorers
 furnage
-fungistatic
+fungistatic 1
 frequentation
 fels
 figureheadless
