@@ -10752,7 +10752,7 @@ gunge
 grasswards
 glibness 1
 guaranteer
-guesses
+guesses 1
 ganglionectomies
 griskin
 giber
