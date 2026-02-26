@@ -5538,7 +5538,7 @@ flensers
 frills
 fidelities
 flinders
-feus
+feus 1
 farouk 1
 foolscap
 flumdiddle
