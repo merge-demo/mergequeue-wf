@@ -6646,7 +6646,7 @@ birdy
 bargeboard 1
 barbarious
 barbar
-beriberis
+beriberis 1
 banovina
 buttered
 beerier
