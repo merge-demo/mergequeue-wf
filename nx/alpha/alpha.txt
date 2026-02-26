@@ -9580,7 +9580,7 @@ artarin
 auspicy
 antimodernist
 antespring
-amphiblastic
+amphiblastic 1
 alur
 astrophotography
 abature
