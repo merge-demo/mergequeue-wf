@@ -1125,7 +1125,7 @@ definitional
 diporpa
 dispensations
 deprocedured
-durr
+durr 1
 disoriented
 depotentiate
 dendrocalamus
