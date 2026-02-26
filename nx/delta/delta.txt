@@ -18415,7 +18415,7 @@ disaccustom
 decelerations
 diverb
 dauncy
-dingo
+dingo 1
 demagogy
 decorative
 doubtedly
