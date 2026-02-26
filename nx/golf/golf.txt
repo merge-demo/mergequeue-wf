@@ -1948,7 +1948,7 @@ grid
 greedier
 gangers
 gruelly
-glyphic
+glyphic 1
 genealogically
 greywacke
 glairs
