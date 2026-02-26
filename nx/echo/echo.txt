@@ -2380,7 +2380,7 @@ empoisonment
 equitemporal
 ergotoxine
 experientially
-engorged
+engorged 1
 emphyteusis 1
 exocone
 entendres 1
