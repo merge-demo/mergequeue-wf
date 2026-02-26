@@ -5643,7 +5643,7 @@ enframed
 esculents
 elaphebolion
 eagres
-eyebeams
+eyebeams 1
 euphoniously 1
 ellipsonic
 enfranchisements
