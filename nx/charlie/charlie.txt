@@ -6102,7 +6102,7 @@ catlings
 complant
 cairds
 catlins
-craftsperson
+craftsperson 1
 cantharidizing
 cumene
 cameroonian
