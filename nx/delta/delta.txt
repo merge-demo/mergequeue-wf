@@ -15667,7 +15667,7 @@ defacements
 didle
 disespouse 1
 deflorescence
-dopping
+dopping 1
 doppio
 dactyloscopy
 dorab
