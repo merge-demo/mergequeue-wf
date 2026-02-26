@@ -9285,7 +9285,7 @@ goldarn
 grotesqueness
 grobian
 garo
-gigabyte
+gigabyte 1
 groceryman
 gourmanderie
 goitre
