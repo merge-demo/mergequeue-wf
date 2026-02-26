@@ -2377,7 +2377,7 @@ freakpot
 fraises 1
 fantods
 fervidor
-functioning
+functioning 1
 felonsetter
 fingernail
 ferigee
