@@ -13140,7 +13140,7 @@ daresay
 deprivative
 declivities
 doozer 1
-dispergate
+dispergate 1
 doraskean
 defeasible
 disenvelop
