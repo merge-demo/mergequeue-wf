@@ -10850,7 +10850,7 @@ grumps
 galianes 1
 gramashes
 geryoniidae
-gorging
+gorging 1
 guidance
 gluttery 1
 granoblastic
