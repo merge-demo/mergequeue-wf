@@ -10433,7 +10433,7 @@ gjetost
 graspingness
 gigs
 gundalow
-gerrymandered
+gerrymandered 1
 gametophagia
 genethlialogy
 gynaeolater
