@@ -5067,7 +5067,7 @@ glued 1
 grisoutine 1
 glassies
 guddler 1
-galloping
+galloping 1
 gangmaster
 gradationately 1
 glottological
