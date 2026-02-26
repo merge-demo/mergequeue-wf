@@ -7255,7 +7255,7 @@ gonotome
 gemination
 gammas
 gripingly 1
-gibbus
+gibbus 1
 glutinate
 guiler
 genoblast
