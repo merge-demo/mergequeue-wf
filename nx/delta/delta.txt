@@ -12574,7 +12574,7 @@ depend
 dissuasive
 divertible
 dicaryophase
-delusters 1
+delusters 2
 discarnate 2
 detonator
 diuturnity
