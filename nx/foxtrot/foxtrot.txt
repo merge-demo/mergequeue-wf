@@ -6701,7 +6701,7 @@ flowchart
 flies
 freinage
 fecche
-fantaseid
+fantaseid 1
 flannelet
 foder 1
 flighting
