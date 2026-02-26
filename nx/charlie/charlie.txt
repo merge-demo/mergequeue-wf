@@ -8860,7 +8860,7 @@ compactedness
 cowards
 compile
 characterism
-capably
+capably 1
 cueing
 characteristically
 characteristicalness
