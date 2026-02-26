@@ -4681,7 +4681,7 @@ annotater
 alveolarly
 atramentary
 apasote
-ambrotype
+ambrotype 1
 astrand
 anglicism
 av
