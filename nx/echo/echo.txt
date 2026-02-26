@@ -4510,7 +4510,7 @@ enamelling
 exterminator
 exheredation
 escudo
-epistapedial
+epistapedial 1
 evenglome
 ectatic
 entothorax
