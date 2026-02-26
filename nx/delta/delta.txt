@@ -17223,7 +17223,7 @@ drunkeries
 demulsifier
 donatistic
 digynian
-dialysing
+dialysing 1
 dressmake
 delusiveness
 dureresque
