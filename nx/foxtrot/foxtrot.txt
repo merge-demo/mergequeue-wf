@@ -210,7 +210,7 @@ forestland
 footmanship
 factorials
 frontenis
-fanons
+fanons 1
 ferroaluminum
 futurist
 figuline
