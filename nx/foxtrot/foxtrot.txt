@@ -2813,7 +2813,7 @@ fent
 freshener
 finlander
 flattops 1
-funestal
+funestal 1
 faunae
 flustery
 ficus
