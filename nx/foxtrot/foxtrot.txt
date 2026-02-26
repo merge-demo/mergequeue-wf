@@ -5102,7 +5102,7 @@ faithbreaker
 fraudful 1
 futhermore
 flapdock
-fluvialist
+fluvialist 1
 foliiform
 flaggy
 familiarized
