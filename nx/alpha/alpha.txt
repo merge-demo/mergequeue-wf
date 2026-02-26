@@ -24888,7 +24888,7 @@ atmosphere
 alands
 animates
 altimeters
-artisanal
+artisanal 1
 aggrandizements
 avouchers
 abetment
