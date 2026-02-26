@@ -8375,7 +8375,7 @@ exulted
 emulating
 evangelise
 enscrolls
-elation
+elation 1
 eternizing
 estocada
 eland
