@@ -5962,7 +5962,7 @@ fungose
 fisherfolk
 fdname
 fermentum
-frenchiness
+frenchiness 1
 flockings
 fudged
 fulsamic 1
