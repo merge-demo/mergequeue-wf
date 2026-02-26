@@ -1822,7 +1822,7 @@ glos
 gentile
 garlands
 goundou
-geopolitically
+geopolitically 1
 gentisic
 gastrular
 generalcies
