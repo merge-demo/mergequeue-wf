@@ -8544,7 +8544,7 @@ dampishness 1
 debateful
 dewfall
 douglas
-diaphyseal 1
+diaphyseal 2
 dermographia
 dinitrobenzene
 diaphysis

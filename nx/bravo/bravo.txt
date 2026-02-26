@@ -4611,7 +4611,7 @@ bodilize
 bundeli
 baleare 1
 borborus
-bedaubing
+bedaubing 1
 bloodstone
 breezed
 belial
