@@ -20257,7 +20257,7 @@ alluvio
 anauxite 1
 adjacence
 avicide
-antiganting
+antiganting 1
 androecium
 assuager
 alaloi
