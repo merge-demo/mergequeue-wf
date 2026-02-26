@@ -1221,7 +1221,7 @@ gambolled
 galligaskin 1
 graspingly
 gravures
-giddy
+giddy 1
 grogged
 glucid
 gooding
