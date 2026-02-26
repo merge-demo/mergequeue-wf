@@ -11413,7 +11413,7 @@ amusingness
 aurification 1
 absarokite
 amusive
-amutter
+amutter 1
 amuze
 advertisable
 apogamously
