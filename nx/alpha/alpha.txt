@@ -19589,7 +19589,7 @@ ambages
 asterospondyli
 apterium
 alloclase
-apophorometer
+apophorometer 1
 avenging
 aridian
 analogies
