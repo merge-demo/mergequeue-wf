@@ -12848,7 +12848,7 @@ echoic
 emendated
 enterprisingness
 eisteddfods
-endearments
+endearments 1
 egressor
 eyes 1
 enumerations
