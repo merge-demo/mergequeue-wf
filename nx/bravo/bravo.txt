@@ -9395,7 +9395,7 @@ bisulfid 1
 bellylike
 brachtmema
 birdhood
-breakableness
+breakableness 1
 buchloe
 barricaded
 barramundi
