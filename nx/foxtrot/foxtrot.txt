@@ -4475,7 +4475,7 @@ foreseeable
 flabellum
 freewheel
 fibroglioma
-fannings
+fannings 1
 farcied
 flustered
 fairkeeper

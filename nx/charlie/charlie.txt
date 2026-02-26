@@ -15570,7 +15570,7 @@ clive 1
 comediennes
 catenulate
 curdlers
-clathraceous
+clathraceous 1
 cimiciform
 clathraria
 cathidine
