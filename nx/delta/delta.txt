@@ -18540,7 +18540,7 @@ detrudes
 dustily 1
 diumvirate 1
 duressor
-deckel
+deckel 1
 drivage
 darbs
 disrates
