@@ -2779,7 +2779,7 @@ fanioned
 formnail
 festilogies
 formenic
-feddans
+feddans 1
 festinance
 familistere
 flocculator
