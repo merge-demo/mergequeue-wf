@@ -6605,7 +6605,7 @@ gyrodyne
 gambusias
 gravels 1
 gunnysack
-grundyist
+grundyist 1
 guidons
 gastrohysteropexy
 glasseye
