@@ -7638,7 +7638,7 @@ foredune 2
 freezable
 fervors
 festino
-fabricature
+fabricature 1
 fizzling 1
 farrier
 fossula
