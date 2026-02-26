@@ -2191,7 +2191,7 @@ felwort
 frizer
 fairsome
 forestery
-facetious
+facetious 1
 finiglacial
 foredeserved
 forego
