@@ -8788,7 +8788,7 @@ diazeuxis
 devaluations
 davenport
 dister
-decagonal
+decagonal 1
 declassifications 1
 diazin
 drayman
