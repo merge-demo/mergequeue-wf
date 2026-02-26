@@ -3277,7 +3277,7 @@ germanify 1
 guideress 1
 gatewards
 graminiferous
-germanification
+germanification 1
 gadso
 gelfomino
 grimmia
