@@ -2796,7 +2796,7 @@ festivity
 flatly
 forgift
 fistulized
-ftncmd
+ftncmd 1
 foxtailed
 fieldwork
 fimbriation
