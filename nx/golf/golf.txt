@@ -1265,7 +1265,7 @@ gripiest
 girkin
 grudgingness
 ginkgo
-gibboseness
+gibboseness 1
 gestation
 garefowl
 gummosity
