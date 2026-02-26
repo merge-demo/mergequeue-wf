@@ -11535,7 +11535,7 @@ deepened
 dystocia
 demimondaines
 doorstop
-dwarfy
+dwarfy 1
 dynasties
 discomfiter
 drachen
