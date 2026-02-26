@@ -550,7 +550,7 @@ chozar
 cadism
 cashmirian
 camlets
-cadlock
+cadlock 1
 cardiomalacia 1
 colourlessly
 cadmic
