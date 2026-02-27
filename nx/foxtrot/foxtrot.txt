@@ -7080,7 +7080,7 @@ fr
 fichtelite
 floriferousness
 foundress
-flutterers
+flutterers 1
 forgives
 finagled
 flagellate 1
