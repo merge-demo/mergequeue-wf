@@ -8393,7 +8393,7 @@ caccia
 cacotype
 chrysolophus
 centroid
-chamberleted
+chamberleted 1
 ceratorhine
 cystin
 camanchaca
