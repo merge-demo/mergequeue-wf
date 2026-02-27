@@ -11856,7 +11856,7 @@ deaspirate 1
 disculpatory
 deashes
 decrement
-durry
+durry 1
 discure
 desulfurs
 desistance
