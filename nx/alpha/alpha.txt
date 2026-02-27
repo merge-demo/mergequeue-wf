@@ -9968,7 +9968,7 @@ ambler
 arb
 awakes
 appulsive
-axmen
+axmen 1
 antiformant 1
 allodia
 amblycephalus
