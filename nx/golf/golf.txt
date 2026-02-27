@@ -3018,7 +3018,7 @@ giant 1
 gnash
 graphiter
 greensauce
-gamelin
+gamelin 1
 genepi
 grypanian
 geomorphologically
