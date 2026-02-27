@@ -17827,7 +17827,7 @@ dishonorer
 discountable
 decurve
 definable 1
-dunkirk
+dunkirk 1
 dyophysitical
 devoutless
 dactylologies
