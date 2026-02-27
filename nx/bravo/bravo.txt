@@ -14308,7 +14308,7 @@ brideman
 batheable
 bouillon
 bigotry 1
-begrudger
+begrudger 1
 blending
 bacterization
 bops
