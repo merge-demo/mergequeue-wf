@@ -7510,7 +7510,7 @@ forcibleness
 furnacite
 flogster 1
 ferredoxin
-firecrest
+firecrest 1
 finner
 flyback 1
 freemen
