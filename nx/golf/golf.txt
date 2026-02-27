@@ -3983,7 +3983,7 @@ gains 1
 glottogony
 ganglioneural 1
 glycoprotein 1
-guttula
+guttula 1
 groat
 gouter
 gesticulates
