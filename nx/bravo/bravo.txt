@@ -12644,7 +12644,7 @@ bloubiskop
 biochemically
 bonnier
 backlist
-babool
+babool 1
 beverages 1
 breechblock
 bonnnes
