@@ -3675,7 +3675,7 @@ degradative
 degradement
 disburses 1
 dozing
-depsid
+depsid 1
 disrupt
 decimalisation
 dropworts
