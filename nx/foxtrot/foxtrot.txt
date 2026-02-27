@@ -2710,7 +2710,7 @@ filaze
 fervence
 ferventness
 fishify
-frenzies
+frenzies 1
 flambe
 faithing
 flapjacks
