@@ -4015,7 +4015,7 @@ foeticide
 fadeaway
 fiscal
 fulmine
-figurehead
+figurehead 1
 feminisation
 friarling
 fairydom
