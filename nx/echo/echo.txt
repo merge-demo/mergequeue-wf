@@ -5900,7 +5900,7 @@ erectopatent
 equaling
 enharbour
 electrometallurgy
-exocytosis
+exocytosis 1
 endsweep
 enharden
 eurytopicity 1
