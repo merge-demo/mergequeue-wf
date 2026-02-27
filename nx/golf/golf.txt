@@ -6075,7 +6075,7 @@ gude
 glucoses
 genethliacs
 gastrogenous
-gravities
+gravities 1
 gerocomy
 goodby
 gordiacean 1

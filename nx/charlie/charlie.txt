@@ -17328,7 +17328,7 @@ coappearing
 contaminable
 cruor
 cutesier
-chardock
+chardock 1
 casual
 coapprentice 1
 caraipe
