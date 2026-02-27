@@ -4188,7 +4188,7 @@ grotesquery
 glacify
 gulflike
 gossy
-grenat
+grenat 1
 granuloblastic
 geomagnetic
 gumtrees
