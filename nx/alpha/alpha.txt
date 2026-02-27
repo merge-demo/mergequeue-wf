@@ -7089,7 +7089,7 @@ audiogenic
 alabastrian
 arbutase
 ametabolic
-aphototropic
+aphototropic 1
 alabastrine
 aortographic
 arsenicate
