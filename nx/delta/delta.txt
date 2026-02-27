@@ -7991,7 +7991,7 @@ disweapon
 dialects
 defences 1
 dextrorotatory
-dissonant
+dissonant 1
 defenestration
 dipicrylamine
 doylt
