@@ -9155,7 +9155,7 @@ embouchment
 ethnoses
 equivocal
 epitela
-enfollow
+enfollow 1
 enlargements 2
 entwining
 eggbeaters 1

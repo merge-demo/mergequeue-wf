@@ -1120,7 +1120,7 @@ familiarizing
 fusileer
 frizzling
 farthing
-foresay
+foresay 1
 feverishness
 fauvism
 fractional
