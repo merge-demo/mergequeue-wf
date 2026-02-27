@@ -7571,7 +7571,7 @@ gowked
 gorsebird 1
 gambet
 glucolysis
-gov
+gov 1
 gruntle
 gingerous 1
 gallingness
