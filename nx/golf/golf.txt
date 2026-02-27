@@ -8224,7 +8224,7 @@ gied
 grim
 gem 1
 greaseproof 1
-gory
+gory 1
 grapeskin
 gelototherapy
 gangliest
