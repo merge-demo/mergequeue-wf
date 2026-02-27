@@ -15047,7 +15047,7 @@ durnedest
 decided
 disbutton
 decnet
-drysalteries
+drysalteries 1
 dyspnoeas
 diallelus
 dilogarithm
