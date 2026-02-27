@@ -2703,7 +2703,7 @@ abrasive
 araujia
 acryl
 alco
-acrylates
+acrylates 1
 adjument
 azonal
 abiogenetically
