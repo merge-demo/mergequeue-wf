@@ -12496,7 +12496,7 @@ barrettes
 bechase
 bells
 bescrawl
-baalist
+baalist 1
 booklists
 bisymmetrically 1
 brujas
