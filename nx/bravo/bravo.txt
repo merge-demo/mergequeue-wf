@@ -5414,7 +5414,7 @@ betraying
 boltstrake
 beguess 1
 biunial
-beguilements
+beguilements 1
 brutishly
 briquets
 blastomycotic
