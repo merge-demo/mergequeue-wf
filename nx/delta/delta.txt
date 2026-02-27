@@ -17059,7 +17059,7 @@ dormeuse
 desalinate
 datacell
 dankest
-dimensional
+dimensional 1
 dysplastic
 divi
 draughtmanship
