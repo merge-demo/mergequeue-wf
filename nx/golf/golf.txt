@@ -4856,7 +4856,7 @@ gryph
 gallybagger
 guttersnipe 1
 guessed
-gorgonizing
+gorgonizing 1
 geobotanic
 giinwale
 granitiferous
