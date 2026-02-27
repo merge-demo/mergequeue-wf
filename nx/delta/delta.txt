@@ -11914,7 +11914,7 @@ deathblow 1
 dehypnotized
 dudish
 daguerreotypic
-disdein
+disdein 1
 dardani
 doubleheader 1
 dephlegmate
