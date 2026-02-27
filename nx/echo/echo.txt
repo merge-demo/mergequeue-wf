@@ -4868,7 +4868,7 @@ encoder
 episcopable
 expectance 1
 eucaryote
-encapsulated
+encapsulated 1
 enshrining
 electrotherapeutist 1
 engraven
