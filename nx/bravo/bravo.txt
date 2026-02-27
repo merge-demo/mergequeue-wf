@@ -1338,7 +1338,7 @@ breviradiate
 balatte
 bimesters
 blesseder
-bermudian
+bermudian 1
 bewimple
 bernoullian
 bingy
