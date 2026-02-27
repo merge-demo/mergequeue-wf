@@ -15018,7 +15018,7 @@ bistres
 banterer
 boppist
 bookishly
-beaufet
+beaufet 1
 breba
 brewmaster 1
 bicapitate
