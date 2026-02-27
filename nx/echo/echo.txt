@@ -9308,7 +9308,7 @@ enfolded
 extraclassroom 1
 eumorphous
 erron
-edificatory
+edificatory 1
 externalist
 exclaustration
 ebricty
