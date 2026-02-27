@@ -8333,7 +8333,7 @@ disadventure
 dresses
 droopingness
 diplois 1
-duer
+duer 1
 depletive
 daemonies
 disruptable
