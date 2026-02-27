@@ -17939,7 +17939,7 @@ disamenity
 durras
 deobstruct
 dugento
-dragooned
+dragooned 1
 devest 1
 devouress
 dependabilities
