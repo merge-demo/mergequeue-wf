@@ -2767,7 +2767,7 @@ federalese
 faliscan
 frizer
 fussbudget
-friedelite
+friedelite 1
 festerment
 forbar
 flightiness
