@@ -2755,7 +2755,7 @@ fedity
 fumarine
 fruiter
 fiercer 1
-fragmentarily
+fragmentarily 1
 fortunation
 fow
 forksmith
