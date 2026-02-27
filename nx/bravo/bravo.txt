@@ -12595,7 +12595,7 @@ brazilins
 bloodshot
 blauboks
 balsamroot
-bourgeoning
+bourgeoning 1
 brails
 begirt
 brawlis
