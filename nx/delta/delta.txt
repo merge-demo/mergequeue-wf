@@ -12934,7 +12934,7 @@ disobeying
 deviant
 dustiness
 doorplates
-desulphuration
+desulphuration 1
 dadaism
 diapers 1
 dysarthrosis
