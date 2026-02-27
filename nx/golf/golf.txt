@@ -2265,7 +2265,7 @@ gneissose
 grange
 gullage 1
 ginglmi
-gneisses
+gneisses 1
 griffinism
 give 1
 grand
