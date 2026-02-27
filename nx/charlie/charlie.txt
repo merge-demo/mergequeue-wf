@@ -4522,7 +4522,7 @@ coxswaining
 clairaudient
 courages
 carloading
-chinner
+chinner 1
 cire
 colubrina
 combatants
