@@ -843,7 +843,7 @@ guerrilla
 goblinry
 glyoxime
 gipsire
-gerontomorphosis
+gerontomorphosis 1
 greedless 1
 gypster 1
 geopositive
