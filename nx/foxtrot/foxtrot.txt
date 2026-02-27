@@ -5823,7 +5823,7 @@ fraternate
 ferule
 fleuronnee
 fungous 1
-fuzzball
+fuzzball 1
 favorers
 furnage
 fungistatic 1
