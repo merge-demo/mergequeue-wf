@@ -11477,7 +11477,7 @@ choir
 choired
 choirlike
 conoidally
-choristoma
+choristoma 1
 circularizer
 conspirers
 counterflux
