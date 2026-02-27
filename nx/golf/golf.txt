@@ -5884,7 +5884,7 @@ gluepot
 gendered
 gynophoric
 gorb
-gaylussacia
+gaylussacia 1
 geyseric
 geonyctinastic 1
 glumes
