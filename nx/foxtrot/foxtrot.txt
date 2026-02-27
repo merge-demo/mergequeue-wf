@@ -485,7 +485,7 @@ fabianism 1
 fluctisonous
 faithlessness
 fasces
-forenote
+forenote 1
 faithworthiness
 famished
 faitours
