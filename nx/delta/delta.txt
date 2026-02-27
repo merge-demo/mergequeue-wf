@@ -3289,7 +3289,7 @@ dejecture
 demyelination
 diversions
 dominatingly
-dizz
+dizz 1
 definedly
 drainfield
 definers
