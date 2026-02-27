@@ -1701,7 +1701,7 @@ fusiform
 fascio
 filicin
 fortravail
-frippet
+frippet 1
 flooder
 fibrocyte
 fluoresceine
