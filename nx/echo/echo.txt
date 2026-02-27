@@ -8190,7 +8190,7 @@ elutriation 2
 ebenales
 embowelment
 excursed
-epithermal
+epithermal 1
 elleck
 eliminative
 echeveria
