@@ -17275,7 +17275,7 @@ clinopinacoidal
 coalifies
 coalifying
 coalite 1
-counterbalances
+counterbalances 1
 confederated
 cytoplasm
 convocational
