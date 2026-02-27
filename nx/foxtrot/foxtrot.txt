@@ -2760,7 +2760,7 @@ fortunation
 fow
 forksmith
 flaunche
-fraterniser
+fraterniser 1
 festally
 ficary
 federalese
