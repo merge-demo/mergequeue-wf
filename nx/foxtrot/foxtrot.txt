@@ -7600,7 +7600,7 @@ factorage 1
 fevering
 ferruler
 foreconclude
-flagonet
+flagonet 1
 faerie
 forwent
 ficoidal
