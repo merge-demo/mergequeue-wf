@@ -8835,7 +8835,7 @@ bubonic
 bilharzial
 bismuthous
 bipartite
-bink
+bink 1
 benward
 binna
 bowering
