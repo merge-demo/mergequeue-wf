@@ -12070,7 +12070,7 @@ expurgatorial
 excortication
 enlightener
 epanaleptic
-entrainer
+entrainer 1
 emanating
 evzone
 esselen
