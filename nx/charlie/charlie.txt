@@ -12563,7 +12563,7 @@ cheetah
 cenospecifically
 chaloupe
 chronogrammic
-chronograph
+chronograph 1
 chronographer
 chronography
 choreas
