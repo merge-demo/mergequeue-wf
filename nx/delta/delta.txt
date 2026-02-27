@@ -2305,7 +2305,7 @@ damnatory 1
 dobermans
 drat
 delectations
-denizens
+denizens 1
 deportees
 deathlike
 damming
