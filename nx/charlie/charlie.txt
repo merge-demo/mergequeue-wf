@@ -9155,7 +9155,7 @@ charwomen
 chase
 chaseable
 compellability
-coordinately
+coordinately 1
 counterpaly
 chases
 chashitsu
