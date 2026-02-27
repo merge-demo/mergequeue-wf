@@ -16249,7 +16249,7 @@ diversify
 discoverability
 diseasedness
 desertion
-debacle
+debacle 1
 disenthralls
 drawee
 dvaita
