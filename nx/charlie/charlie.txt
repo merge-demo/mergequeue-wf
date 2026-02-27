@@ -29224,7 +29224,7 @@ cryptamnesic
 cryptanalyze
 cothamore
 cimex
-capybara
+capybara 1
 cryptanalyzing
 cryptarchy
 caracols
