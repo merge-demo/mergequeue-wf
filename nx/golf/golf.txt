@@ -4925,7 +4925,7 @@ gradual
 gawby 1
 glaive
 growliness
-gynandroid
+gynandroid 1
 glaired
 gurries 1
 gangway
