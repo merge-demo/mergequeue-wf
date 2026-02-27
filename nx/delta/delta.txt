@@ -9795,7 +9795,7 @@ drowsy
 diligence
 disproofs
 diligences
-diligent
+diligent 1
 discountenanced
 declive
 dillenia
