@@ -11030,7 +11030,7 @@ aphonic
 assures
 ampersands
 amphanthia
-amphanthium
+amphanthium 1
 antling
 arms
 anacreon 1
