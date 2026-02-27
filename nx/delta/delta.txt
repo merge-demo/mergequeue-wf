@@ -16063,7 +16063,7 @@ doughier
 deipnosophistic
 dieresis
 dissceptring
-disaffections
+disaffections 1
 diplozoon
 deterration
 denaturisation
