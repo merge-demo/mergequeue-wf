@@ -6229,7 +6229,7 @@ enophthalmus
 encoders 1
 explorement
 expectingly
-enfetter
+enfetter 1
 eyedrop
 exhalations
 evanesce
