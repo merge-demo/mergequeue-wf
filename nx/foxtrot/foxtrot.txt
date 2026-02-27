@@ -6500,7 +6500,7 @@ fraternalist
 fainted
 fifing
 fieldwards
-frictionable
+frictionable 1
 flatcap
 forewarning
 farouche 1
