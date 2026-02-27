@@ -15729,7 +15729,7 @@ deacidifying
 dormers
 defraud
 desirability
-dormette
+dormette 1
 dormice
 dormitories
 dissenting
