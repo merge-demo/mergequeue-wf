@@ -13484,7 +13484,7 @@ burgs
 bleeding
 bottleman
 begalling
-bulse
+bulse 1
 benzin
 bepun
 bedlamized
