@@ -5464,7 +5464,7 @@ glue 1
 granula
 grammatically
 gruffed
-gastruran
+gastruran 1
 gammacismus
 grangerising 1
 gemmier
