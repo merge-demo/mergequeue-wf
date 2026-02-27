@@ -4796,7 +4796,7 @@ extraorbitally
 enumerative
 edwardsia
 enneahedra
-electroionic
+electroionic 1
 etymologize
 enfoeffment
 eventides
