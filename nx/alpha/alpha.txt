@@ -22952,7 +22952,7 @@ ablewhackets
 atrenne
 adless
 acroparesthesia
-arkoses
+arkoses 1
 anteriorly
 appositional
 apis
