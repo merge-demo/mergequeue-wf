@@ -5035,7 +5035,7 @@ denaturise
 desensitization
 disfigures
 dextrogyrate
-discover
+discover 1
 deutonymph
 denaturization
 decession
