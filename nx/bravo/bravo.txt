@@ -4487,7 +4487,7 @@ besa
 bestuur
 bootlegs
 becomed
-bungs
+bungs 1
 becometh
 becomingness
 bhakti
