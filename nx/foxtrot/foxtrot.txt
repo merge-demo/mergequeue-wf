@@ -1783,7 +1783,7 @@ ferninst
 forbesite
 fouett
 flak
-frotting
+frotting 1
 frustules 1
 freath
 fanfarade
