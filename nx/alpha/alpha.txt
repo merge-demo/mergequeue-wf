@@ -8905,7 +8905,7 @@ autobolide 1
 ailments
 ataghan
 allose
-asherah
+asherah 1
 attaint
 allosyndetic
 autoregulatory 1
