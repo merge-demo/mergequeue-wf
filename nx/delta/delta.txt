@@ -12691,7 +12691,7 @@ disinterested
 droves
 departmentalizing
 dissolute
-deployable
+deployable 1
 diffrangibility
 depurator 1
 disleaved
