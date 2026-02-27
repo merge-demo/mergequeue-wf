@@ -12091,7 +12091,7 @@ exurb
 educationalism
 edentates
 expressor
-easels
+easels 1
 ekphoria 1
 erepsin
 exploiture
