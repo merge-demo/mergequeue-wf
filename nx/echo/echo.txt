@@ -2035,7 +2035,7 @@ ecological
 effranchisement
 elasticities
 expungers
-entocyemate
+entocyemate 1
 escalops
 enmist
 electrophonically
