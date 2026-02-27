@@ -1090,7 +1090,7 @@ eringos
 electrized 1
 exsheath
 enclaving
-entomologies
+entomologies 1
 eidolon
 effigiated
 edgeshot
