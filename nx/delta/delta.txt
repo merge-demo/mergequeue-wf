@@ -12594,7 +12594,7 @@ dorsoventral
 disally 1
 disinsure
 dotonidae
-diamonding
+diamonding 1
 daffed
 dosimetries
 discal
