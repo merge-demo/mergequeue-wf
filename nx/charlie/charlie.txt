@@ -22939,7 +22939,7 @@ consignatary
 chlorodized
 counterretreat
 comforting
-cingle
+cingle 1
 consigned
 consignee
 consignify
