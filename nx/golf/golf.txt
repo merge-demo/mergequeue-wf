@@ -3522,7 +3522,7 @@ gearbox
 greatening
 gelignite
 gnomical 1
-glottis
+glottis 1
 gander 1
 guyots
 gogglebox
