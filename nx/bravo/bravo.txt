@@ -5599,7 +5599,7 @@ beveller 1
 ballistite
 burrio
 brassicaceous
-butolism
+butolism 1
 biotype
 badmouthing
 blimpishly
