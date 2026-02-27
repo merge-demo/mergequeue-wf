@@ -5261,7 +5261,7 @@ bitless
 begats
 bani
 bolters
-bastes 1
+bastes 2
 beshell 1
 brushup
 bebay
