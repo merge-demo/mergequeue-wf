@@ -3440,7 +3440,7 @@ addendums
 archaized
 adder
 abridgment
-addibility
+addibility 1
 addible
 addicent
 antiknocks
