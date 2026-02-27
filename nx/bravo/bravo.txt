@@ -14705,7 +14705,7 @@ blackballing
 birlieman 1
 bedizens
 befountained
-brevirostrate
+brevirostrate 1
 bello
 bigmouth
 betusked
