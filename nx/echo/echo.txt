@@ -9326,7 +9326,7 @@ elytrin
 embue
 estramazone
 electroethereal 1
-effusiveness
+effusiveness 1
 essera
 escribiente
 enhancer 1
