@@ -30210,7 +30210,7 @@ companions 1
 countryfied
 computationally
 cruds
-cruel
+cruel 1
 crueller
 cloddish
 cruellest
