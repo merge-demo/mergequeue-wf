@@ -464,7 +464,7 @@ furthy
 foredoomer
 failed
 filtered
-faisan
+faisan 1
 flanked
 forcefulness
 faisceau
