@@ -3913,7 +3913,7 @@ garrisons
 gipsy
 gulaman 1
 gutser
-garote
+garote 1
 gatchwork
 gnarls
 gigge
