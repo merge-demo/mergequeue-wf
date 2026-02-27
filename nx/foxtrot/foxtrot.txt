@@ -1153,7 +1153,7 @@ flyblows
 footy
 fets
 forelocks
-frays
+frays 1
 footfeed
 feeze
 frognose
