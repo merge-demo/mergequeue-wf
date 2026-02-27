@@ -4784,7 +4784,7 @@ bord
 bedmate
 bogey
 bedtimes
-bedpans
+bedpans 1
 bombace
 bries
 biquadratic
