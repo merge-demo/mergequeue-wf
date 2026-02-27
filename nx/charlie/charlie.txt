@@ -21768,7 +21768,7 @@ contracture
 collarbones 1
 condominiums
 condoms
-condonable
+condonable 1
 clayed
 condonation
 condone
