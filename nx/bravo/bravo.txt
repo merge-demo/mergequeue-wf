@@ -1187,7 +1187,7 @@ boxer
 bajocco
 bajra
 bogeyed
-baized
+baized 1
 becloud 1
 birefraction
 boomer
