@@ -10963,7 +10963,7 @@ barth
 bourrees
 batiked
 batara 1
-blesbuck
+blesbuck 1
 burps
 breathable 1
 blaflum
