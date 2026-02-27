@@ -1335,7 +1335,7 @@ dart
 dauntingness 1
 discerners
 decephalize
-definer
+definer 1
 dauphine
 dauphines
 drooping 2
