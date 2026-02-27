@@ -2390,7 +2390,7 @@ feasant
 flavous
 filipuncture
 felanders
-flinging
+flinging 1
 frenchness
 farfels
 ferities
