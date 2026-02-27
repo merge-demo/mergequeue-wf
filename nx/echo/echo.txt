@@ -4184,7 +4184,7 @@ emporte
 emmove
 empeine
 eclecticism
-exsudate
+exsudate 1
 exegeses
 epichorial
 empower
