@@ -485,7 +485,7 @@ fabianism 1
 fluctisonous
 faithlessness
 fasces
-forenote
+forenote 1
 faithworthiness
 famished
 faitours
@@ -11391,7 +11391,7 @@ feater
 furcular
 fidgeted
 filii
-fjorded
+fjorded 1
 favonian
 freezingly 1
 flamingly

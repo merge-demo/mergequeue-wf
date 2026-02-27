@@ -3325,7 +3325,7 @@ bannerette
 basiotripsy
 branchway
 boobyism
-basipetal
+basipetal 1
 blank
 basipterygium
 bovenland
@@ -14686,7 +14686,7 @@ batters
 backachy
 bucklering
 babylonians
-bariolage
+bariolage 1
 bunches 2
 benegro
 brashiness
@@ -15841,7 +15841,7 @@ bimaculated
 biocentric
 breadfruits
 burgensic
-borism
+borism 1
 bargeer
 brainlessness
 bavius
@@ -15938,7 +15938,7 @@ behest
 beice
 broomball
 bemixes
-bansela
+bansela 1
 babying
 bipunctal
 beermaking
