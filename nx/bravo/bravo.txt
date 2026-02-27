@@ -12697,7 +12697,7 @@ beaklike
 bloodlessly
 bewrayed
 boobyish
-birdied
+birdied 1
 boobily
 boobish
 branchiura
