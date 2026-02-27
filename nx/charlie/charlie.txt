@@ -7875,7 +7875,7 @@ cervoid
 cervuline
 cervus 1
 cesare
-cesarevitch
+cesarevitch 1
 caramelizing
 cruisers
 cantharidated
