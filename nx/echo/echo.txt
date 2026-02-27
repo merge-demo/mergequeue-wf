@@ -2290,7 +2290,7 @@ eulogistical
 elongated
 enumerators
 enterotome 1
-equally
+equally 1
 extemporization
 eudiometry
 enchantments
