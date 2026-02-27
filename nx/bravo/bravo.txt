@@ -1473,7 +1473,7 @@ blatherskite
 brightish 1
 bugler
 balimbing
-bloodthirstiest
+bloodthirstiest 1
 beaming
 bismuthite
 businessese
