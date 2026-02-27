@@ -9364,7 +9364,7 @@ encyclopedist
 encephalopathy
 eructance
 empoverish
-extendability
+extendability 1
 extralegal
 eructative
 emersions
