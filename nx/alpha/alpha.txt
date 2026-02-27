@@ -12320,7 +12320,7 @@ aphesis
 abstains
 androgone 1
 andrographis
-autoallogamy
+autoallogamy 1
 accelerated
 adamsite
 andromache

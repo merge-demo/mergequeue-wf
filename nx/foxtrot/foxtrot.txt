@@ -6690,7 +6690,7 @@ fibromyxoma 2
 flowerpot
 fishybacking
 floater 1
-fustoc
+fustoc 1
 fructiparous
 fairgrass
 flem
