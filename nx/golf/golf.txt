@@ -8729,7 +8729,7 @@ grubby
 glitterance
 groggeries
 games
-galeus
+galeus 1
 ginger
 gobbin 1
 gaypoo
