@@ -593,7 +593,7 @@ damnably
 deburr
 declassed
 damnedest
-dermatorrhoea
+dermatorrhoea 1
 dioptoscopy
 dinoflagellata
 deploitation
