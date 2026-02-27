@@ -18588,7 +18588,7 @@ disowned
 duskingtide
 driftfishes
 dewool
-demagnetiser
+demagnetiser 1
 dustbins
 dustcart 1
 dinkeys
