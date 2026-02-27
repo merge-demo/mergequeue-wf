@@ -7713,7 +7713,7 @@ enjoinders
 evectional
 epicuticular
 elizabethanize
-exacta
+exacta 1
 eustele
 embrued
 ephoralty
