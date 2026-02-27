@@ -2145,7 +2145,7 @@ grazing
 gantlopes
 guayaberas
 griffith
-geomorphology
+geomorphology 1
 gliss
 gerontine 1
 gdinfo
