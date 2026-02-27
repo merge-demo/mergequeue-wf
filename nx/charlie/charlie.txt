@@ -14599,7 +14599,7 @@ cystoma
 cystomas
 corpusculum
 cystometer
-cystomyoma
+cystomyoma 1
 coadore
 conduct
 celestify
