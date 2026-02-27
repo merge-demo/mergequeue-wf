@@ -16894,7 +16894,7 @@ diphylla 1
 dovey
 didrachmas
 dolcinist
-diarrheic
+diarrheic 1
 dreamscape
 domineers
 deoxidate
