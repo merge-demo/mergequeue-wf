@@ -7316,7 +7316,7 @@ galactan
 grizzles 1
 gymnasisiums 1
 gamdia
-gospels
+gospels 1
 guahivo
 greatcoats
 gustative
