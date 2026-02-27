@@ -2627,7 +2627,7 @@ greatest
 grangerisation 1
 gloriosity
 gourde
-gervas
+gervas 1
 gelatinochloride
 guaranis
 gardeviance
