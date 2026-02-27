@@ -606,7 +606,7 @@ adjure
 avulsions
 abnormalized
 anatomical
-amynodont
+amynodont 1
 antennulary
 abococket
 aerocyst
