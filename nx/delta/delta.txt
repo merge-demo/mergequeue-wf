@@ -13825,7 +13825,7 @@ darnels
 disstate
 dissuaded
 delayed
-doglegs
+doglegs 1
 downsliding
 dachshound
 debunk
