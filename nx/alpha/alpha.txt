@@ -2127,7 +2127,7 @@ achillize
 affusions
 agave
 aptness
-anematize 1
+anematize 2
 acrostolion
 apron
 atticize
