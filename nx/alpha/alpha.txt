@@ -5409,7 +5409,7 @@ aftercast
 aloe 1
 afterclause
 aftercome
-australasian
+australasian 1
 acrostichic
 autocollimate
 anticorona
