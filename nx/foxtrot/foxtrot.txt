@@ -5636,7 +5636,7 @@ fiendlike
 fossicking
 fader
 freightyard
-fairgoing
+fairgoing 1
 floweret
 fonly
 flycatchers
