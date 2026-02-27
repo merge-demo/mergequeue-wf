@@ -3094,7 +3094,7 @@ capriola
 cyclopterous
 canvasing
 causata
-canvasser
+canvasser 1
 canzona
 crickety
 connective
