@@ -11498,7 +11498,7 @@ bimas 1
 barish
 baba
 banyoro
-bigamous
+bigamous 1
 bluffs
 behaves 1
 broadshare
