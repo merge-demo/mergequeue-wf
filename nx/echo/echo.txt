@@ -8842,7 +8842,7 @@ expedients
 enterozoan
 efflorescency
 ekename
-equidistant
+equidistant 1
 embelif
 expatiatory
 enlightens 1
