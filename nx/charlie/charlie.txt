@@ -12607,7 +12607,7 @@ cheesier
 columnize
 chronotropic
 crookneck
-collocution
+collocution 1
 covenantal
 cheney 1
 chronotropism
