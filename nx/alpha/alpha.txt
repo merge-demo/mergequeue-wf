@@ -19901,7 +19901,7 @@ armlets
 aiguellette
 asymbiotic
 armlock
-autoconvection
+autoconvection 1
 armoracia
 aeronautics 1
 albertite
