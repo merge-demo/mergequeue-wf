@@ -8613,7 +8613,7 @@ enwreathe
 epigeous
 extraparenchymal
 encaptive
-edificable
+edificable 1
 exstemporaneous
 eastlander
 equate

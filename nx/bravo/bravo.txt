@@ -9908,7 +9908,7 @@ bitter
 besee
 bitterbloom
 bittered
-bitterender
+bitterender 1
 ballooning
 biconcavity 1
 bapt
