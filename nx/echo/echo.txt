@@ -3531,7 +3531,7 @@ embers
 estival
 enate
 epees 1
-enanthema
+enanthema 1
 enginemen
 excusative
 epistemologist
