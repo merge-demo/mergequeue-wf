@@ -9119,7 +9119,7 @@ enunciable
 exponential
 enclitically
 epicolic
-expatriating
+expatriating 1
 euryalae
 encanker
 exogastrically
