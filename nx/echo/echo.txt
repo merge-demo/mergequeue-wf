@@ -9873,7 +9873,7 @@ encodes
 elocular
 epidemical
 epistases
-enodally
+enodally 1
 encave
 epididymectomy
 ear
