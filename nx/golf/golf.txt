@@ -1855,7 +1855,7 @@ graveled
 gambles
 growlery
 guffaw
-goofy
+goofy 1
 gigot 1
 glutaminase
 guvacoline
