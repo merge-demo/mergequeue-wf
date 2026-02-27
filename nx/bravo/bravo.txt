@@ -3325,7 +3325,7 @@ bannerette
 basiotripsy
 branchway
 boobyism
-basipetal
+basipetal 1
 blank
 basipterygium
 bovenland
