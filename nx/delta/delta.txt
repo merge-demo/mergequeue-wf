@@ -17651,7 +17651,7 @@ diallela
 dialogic
 disaffiliates
 dictaphone
-decare
+decare 1
 desulphurating
 dendrography
 disapprovingly
