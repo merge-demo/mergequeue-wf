@@ -9395,7 +9395,7 @@ dictyosiphon
 discording
 decrete
 durabilities
-deturb
+deturb 1
 discontentive
 diffusate
 djinni
