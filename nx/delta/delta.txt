@@ -7792,7 +7792,7 @@ dogtrick
 diathetic
 diplospondylic
 dispending
-discomfortingly
+discomfortingly 1
 desmarestia
 devolving
 dramatisable
