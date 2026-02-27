@@ -6360,7 +6360,7 @@ espace
 elsin
 encourage
 excitomotion
-eburna
+eburna 1
 eruditely
 enfeeblement 1
 estonian
