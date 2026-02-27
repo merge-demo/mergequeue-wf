@@ -3044,7 +3044,7 @@ golaseccan
 grenadines 1
 gripment
 geophagism
-gastrilegous
+gastrilegous 1
 gemels
 gusseted
 gamori
