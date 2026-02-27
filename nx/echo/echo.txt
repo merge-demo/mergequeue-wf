@@ -13786,7 +13786,7 @@ engrammatic
 extortion
 engarde
 earthslide
-endopterygotism
+endopterygotism 1
 earthliness
 evaporatively
 expuition

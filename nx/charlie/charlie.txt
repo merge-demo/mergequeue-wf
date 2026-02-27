@@ -26025,7 +26025,7 @@ cosies
 circumscriber
 cosign
 convallariaceae
-caryota
+caryota 1
 cesarians
 concubinal
 counterfix
