@@ -10227,7 +10227,7 @@ galvo
 graminivore 1
 glycolipine
 gorkun
-gestating
+gestating 1
 guiltsick
 gunnel
 gravitic
