@@ -22839,7 +22839,7 @@ aby
 atmolysis
 achenia
 atmolyzation
-atmologic
+atmologic 1
 asor
 anisotropous 1
 alterability

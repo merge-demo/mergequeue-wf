@@ -13077,7 +13077,7 @@ entrusted
 eraser
 emrode
 expatriated
-ebauchoir
+ebauchoir 1
 expediter
 enunciates
 eulogistically 1
