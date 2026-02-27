@@ -3682,7 +3682,7 @@ galah
 glycerolysis
 ganner
 gravimetric
-geodetically
+geodetically 1
 glumelike
 geotectonically
 giftbook
