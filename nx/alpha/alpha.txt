@@ -15370,7 +15370,7 @@ amastia
 antiloquy
 asafoetida
 adheres
-amplificatory
+amplificatory 1
 antimalaria
 achariaceous
 atelognathia
