@@ -4791,7 +4791,7 @@ gobiiform
 ginzo
 glucogenic
 gravidly
-glaciered
+glaciered 1
 geod
 gopherman
 glossal
