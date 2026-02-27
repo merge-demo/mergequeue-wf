@@ -2864,7 +2864,7 @@ bandh
 buffaloback
 bedarken
 bruta
-beisa
+beisa 1
 bloodmobile
 bitis
 begalled

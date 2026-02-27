@@ -6694,7 +6694,7 @@ enterology
 epactal 2
 enterologic
 eulytine
-exhaled
+exhaled 1
 effectuates
 elbuck
 entomophthoraceous 1
