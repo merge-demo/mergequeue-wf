@@ -5733,7 +5733,7 @@ differentiates
 decd
 depolarise
 depolarization
-dernly
+dernly 1
 denigrate
 depolarize
 duffels
