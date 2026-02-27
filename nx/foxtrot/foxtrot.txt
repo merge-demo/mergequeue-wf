@@ -189,7 +189,7 @@ furnarius
 factorable
 fasciolidae
 forcut 1
-frondose
+frondose 1
 factoryship
 floatiness
 fraudulence
