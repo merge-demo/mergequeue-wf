@@ -1263,7 +1263,7 @@ cinchonisation
 corporality
 cambrel
 contrapposto
-calendarial
+calendarial 1
 chusite
 cicadid
 counterpoise
