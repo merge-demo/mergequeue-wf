@@ -20979,7 +20979,7 @@ ascendancy 1
 ascendantly
 ankyloproctia
 ascorbic
-acosmistic
+acosmistic 1
 ascendence
 aftershaves
 ascending
