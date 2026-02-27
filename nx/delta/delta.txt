@@ -18628,7 +18628,7 @@ declericalize
 disusage
 deceivability
 degreeless
-duty
+duty 1
 daimonion
 dutiability
 disdains
