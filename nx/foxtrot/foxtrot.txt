@@ -5059,7 +5059,7 @@ flood
 faured 1
 faxes 1
 flaneurs 1
-falunian
+falunian 1
 fretless
 fomento
 fledging
