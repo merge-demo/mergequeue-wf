@@ -14725,7 +14725,7 @@ albiflorous
 altiscope
 anticaustic
 affreighter
-allays
+allays 1
 anticensorial
 atomically
 ammonitish
