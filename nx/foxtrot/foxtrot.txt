@@ -9433,7 +9433,7 @@ faucal
 finickingly
 farcin
 floristics
-funambulatory
+funambulatory 1
 freewheeling
 flagpoles
 furacana
