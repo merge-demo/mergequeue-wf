@@ -2367,7 +2367,7 @@ gallous 1
 grampa
 granddaughterly
 gastrulas
-graphostatics
+graphostatics 1
 geminates
 grinny 1
 gaulish
