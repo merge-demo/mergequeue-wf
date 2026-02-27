@@ -10156,7 +10156,7 @@ dynes
 distractible 1
 desentimentalize
 dinetic 1
-deathwards
+deathwards 1
 deperdite
 digit
 dinette
