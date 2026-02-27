@@ -4753,7 +4753,7 @@ elemol
 entrepreneurs 1
 empetrum
 euthermic
-embarrass
+embarrass 1
 explore
 encloister
 eyren
