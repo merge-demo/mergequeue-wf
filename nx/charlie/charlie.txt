@@ -28753,7 +28753,7 @@ crepusculine
 catenary
 cres
 cunctatious
-cresc
+cresc 1
 comparativeness
 cordelier
 conspiracy

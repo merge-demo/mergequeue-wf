@@ -13634,7 +13634,7 @@ daintith
 disservice
 decisteres
 dalai
-defeasanced
+defeasanced 1
 disservices
 derries
 disserving 1
