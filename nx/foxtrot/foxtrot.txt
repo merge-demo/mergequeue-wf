@@ -2070,7 +2070,7 @@ fenester
 ferryboats
 fullmouthed
 feudalisation 1
-foremasthand
+foremasthand 1
 flyovers
 flexions
 fusibleness
