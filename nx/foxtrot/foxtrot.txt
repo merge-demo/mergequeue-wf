@@ -4845,7 +4845,7 @@ flageolets
 fissiparousness
 frostbird
 flagfishes
-fubsy
+fubsy 1
 fetoplacental
 forbiddenness 1
 foregallery
