@@ -5590,7 +5590,7 @@ anisomelus
 agalena
 agalenidae
 ambalam
-alvar
+alvar 1
 asperating
 agallochs
 acupunctuation
