@@ -3026,7 +3026,7 @@ anthropogenesis
 antimeson
 actinomeric
 apotheosise
-amtrac
+amtrac 1
 amphinucleus
 atelectasis
 abdominoposterior
