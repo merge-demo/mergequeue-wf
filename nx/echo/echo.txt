@@ -5120,7 +5120,7 @@ endocrinic 1
 existentialistic
 estradiol
 elucidated
-esophagalgia
+esophagalgia 1
 enterocoel
 emergencies
 entogenous 1
