@@ -2527,7 +2527,7 @@ declassifies
 disequality
 disembarkations 1
 dorsocephalic 1
-doughs
+doughs 1
 distiller
 dynamograph
 declensions
