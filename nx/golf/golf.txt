@@ -2588,7 +2588,7 @@ grendel
 geraty
 gramma
 graphostatical
-galleasses
+galleasses 1
 gynecia 2
 galena 1
 graal
