@@ -10102,7 +10102,7 @@ epinglette
 escharine
 encircle
 ethenes 1
-evolving
+evolving 1
 exonian
 eternalize
 exothecium
