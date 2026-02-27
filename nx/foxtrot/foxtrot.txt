@@ -6612,7 +6612,7 @@ forecover
 flytime
 fluotantalate
 folderol
-flutteriness
+flutteriness 1
 flagrate
 fleshen
 fluttering
