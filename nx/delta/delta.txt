@@ -11144,7 +11144,7 @@ discovert
 darin
 disassimilative
 disinherits
-disassociate
+disassociate 1
 disassociates
 disasters
 dimerize
