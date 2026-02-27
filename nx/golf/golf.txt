@@ -16,7 +16,7 @@ geotropic
 goozle
 geoselenic
 gliderport
-glyptic
+glyptic 1
 gymnadeniopsis
 gabioned
 granulators
