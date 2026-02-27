@@ -1501,7 +1501,7 @@ balkanize
 bints
 belliferous
 biddulphia
-bosomer
+bosomer 1
 balkans
 blanchingly
 banig
