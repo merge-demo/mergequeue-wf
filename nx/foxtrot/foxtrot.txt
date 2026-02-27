@@ -11081,7 +11081,7 @@ fogproof
 freightment
 flense
 finesses
-foliose
+foliose 1
 formated
 frivolities
 fidessa 1
