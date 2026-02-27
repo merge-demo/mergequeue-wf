@@ -12533,7 +12533,7 @@ disinclined
 dolichotmema
 disindividualize
 dimers
-doorkeep
+doorkeep 1
 dicotyledonary
 disinfectants
 deathify
