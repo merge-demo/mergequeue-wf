@@ -9408,7 +9408,7 @@ demilitarizing
 defame
 demagoguism
 diffusibleness
-daunts
+daunts 1
 diffusing
 dissipation
 demist
