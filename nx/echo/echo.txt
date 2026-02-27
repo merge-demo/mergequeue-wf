@@ -6323,7 +6323,7 @@ enthralment
 embowed 1
 euclidean
 enteradenography
-emmenagogue
+emmenagogue 1
 ensanguine
 epidermization
 eloquent
