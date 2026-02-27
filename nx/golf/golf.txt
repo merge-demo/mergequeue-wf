@@ -5085,7 +5085,7 @@ glycan
 gravery 1
 gyneolater
 glassmaking
-guerite 1
+guerite 2
 gossiper
 grammatic
 gomerec 1
