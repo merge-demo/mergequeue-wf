@@ -4865,7 +4865,7 @@ dissimilation 1
 dietician 1
 dissecting
 discreditableness
-dishmonger
+dishmonger 1
 diluting
 diminuendo
 demonologically
