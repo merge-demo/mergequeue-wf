@@ -9954,7 +9954,7 @@ falconry 1
 fleabane
 feceris
 fortuitism
-foraminiferal
+foraminiferal 1
 formulising
 forwelk
 fitchee
