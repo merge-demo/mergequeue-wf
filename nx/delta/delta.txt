@@ -5103,7 +5103,7 @@ disbound
 dionym 1
 decrescent
 disulphoxide
-detachedly
+detachedly 1
 deadened
 dispraiser
 dampeners 1
