@@ -9196,7 +9196,7 @@ dead
 damascenes
 discase
 dermomuscular
-doeling
+doeling 1
 diminutively
 diedric
 depressanth
