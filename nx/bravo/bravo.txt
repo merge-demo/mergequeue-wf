@@ -13756,7 +13756,7 @@ bircher
 banqueted
 baronies 1
 balneatory
-boutefeu
+boutefeu 1
 briefless
 bouteria
 buns
