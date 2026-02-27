@@ -24429,7 +24429,7 @@ coopered 1
 cooperia
 cooperies
 coopering
-catafalques
+catafalques 1
 computable
 caroli
 cocaines
