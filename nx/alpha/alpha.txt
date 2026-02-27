@@ -4858,7 +4858,7 @@ amberfish
 antilogous 1
 accessit
 abductors
-antepileptic
+antepileptic 1
 aminities
 alismaceous
 airplaning
