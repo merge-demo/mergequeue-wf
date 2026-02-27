@@ -7071,7 +7071,7 @@ biggings
 baste
 bimorphs
 bushing
-bespeaking
+bespeaking 1
 breeder
 bullalaria
 bespeaks 1
