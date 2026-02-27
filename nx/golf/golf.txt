@@ -10569,7 +10569,7 @@ garnisher
 genyantrum
 girted
 guttiform
-glossed
+glossed 1
 gumweed
 gladden
 grandisonian
