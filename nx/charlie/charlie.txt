@@ -29600,7 +29600,7 @@ culture
 chorusmaster
 caterer
 crocetin
-chamois
+chamois 1
 croche
 crocheted
 crocheter
