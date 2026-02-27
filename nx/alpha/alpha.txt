@@ -1939,7 +1939,7 @@ arsenicking
 alhambresque
 argyria
 acetylhydrazine
-aerocraft
+aerocraft 1
 anacardiaceous
 attentional
 annulation
