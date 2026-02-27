@@ -10476,7 +10476,7 @@ deda
 dotty
 diphtheric
 denticeti
-disallowable
+disallowable 1
 dedicator
 defacement
 diphtheritically
