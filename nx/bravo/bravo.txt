@@ -3319,7 +3319,7 @@ batty
 blocage
 betweens
 balche
-beauties
+beauties 1
 baccalaureat
 bannerette
 basiotripsy
