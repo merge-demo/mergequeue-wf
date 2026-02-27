@@ -2885,7 +2885,7 @@ geocerite
 gubernation
 greenheaded
 gasoscope 1
-glumpish
+glumpish 1
 generalization
 gavelkind
 glossopteris
