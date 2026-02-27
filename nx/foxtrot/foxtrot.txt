@@ -2279,7 +2279,7 @@ fog
 formulable
 flotation
 fistulizing 1
-fenestrae
+fenestrae 1
 fenestrated
 fulcrumed
 fanglement
