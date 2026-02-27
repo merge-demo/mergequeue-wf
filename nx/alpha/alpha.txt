@@ -24838,7 +24838,7 @@ ambagitory 1
 almas
 aeluroid
 avisos
-avital
+avital 1
 arboricole
 avitaminosis
 authorish
