@@ -8490,7 +8490,7 @@ frontierman
 factorizing
 flinthead
 fiddleneck
-fumado
+fumado 1
 frow 1
 figment
 fumette
