@@ -11350,7 +11350,7 @@ fluencies
 feminie
 fremescence
 frothless
-foreprovision
+foreprovision 1
 footways
 foister
 fibropolypus
