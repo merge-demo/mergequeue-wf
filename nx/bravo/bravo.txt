@@ -13584,7 +13584,7 @@ bodyworks
 belongs
 bkgd
 banderoling
-bite
+bite 1
 bitangential
 bougar
 bouge
