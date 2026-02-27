@@ -4163,7 +4163,7 @@ dogcart
 downcut 1
 decimus
 diversifiable
-dernful
+dernful 1
 dasyurus
 deepeners
 damassin
