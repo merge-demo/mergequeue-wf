@@ -4035,7 +4035,7 @@ gear
 gaddingly
 graphomania
 gorglin
-gemmologist
+gemmologist 1
 groomsman
 gladliest
 gigaton
