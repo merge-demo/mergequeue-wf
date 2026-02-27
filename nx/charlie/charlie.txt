@@ -8882,7 +8882,7 @@ companiable
 cirsophthalmia
 cycads
 charadrii 1
-compendiousness
+compendiousness 1
 charadriiformes
 charadrine
 charadriomorphae
