@@ -7473,7 +7473,7 @@ ecphorize
 elbowbush
 exalt
 enhydrinae
-exosporous
+exosporous 1
 ephas
 ebriosity 1
 echites
