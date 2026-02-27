@@ -25008,7 +25008,7 @@ antheriferous
 applanation
 amphitheatric
 apologiae
-anthroic
+anthroic 1
 alliterating
 awhile
 atlatls
