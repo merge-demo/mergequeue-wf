@@ -8276,7 +8276,7 @@ chalcogen
 chalcogenide
 coenaculum
 comas
-consute
+consute 1
 chalcography
 chalcolithic
 circumlental
