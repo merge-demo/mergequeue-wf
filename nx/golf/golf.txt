@@ -10116,7 +10116,7 @@ gilgamesh
 gmelina
 govt
 geopolar
-gonopores
+gonopores 1
 guetre
 gemsbuck 1
 gesticulate
