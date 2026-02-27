@@ -13328,7 +13328,7 @@ degradable
 dottles
 dermonecrotic
 draftmanship
-disprizes
+disprizes 1
 distichs 1
 disinformation
 dishevelments

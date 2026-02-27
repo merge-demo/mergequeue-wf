@@ -9056,7 +9056,7 @@ flairs
 freesheet 1
 foxier 1
 fragile
-fregatidae
+fregatidae 1
 foreshower
 forestaff
 fumaryl
