@@ -12666,7 +12666,7 @@ exogenetic
 enkolpion
 etuve
 epibenthos 1
-epitaxial
+epitaxial 1
 emendandum
 elychnious
 eucalyptic
