@@ -7909,7 +7909,7 @@ democritean
 dresden
 dishonor
 deafish
-dexes
+dexes 1
 desertward
 dexiotropic
 dishwashing
