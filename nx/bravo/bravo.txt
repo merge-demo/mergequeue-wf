@@ -17268,7 +17268,7 @@ border
 basilweed
 bummler
 barberite
-burrowed 1
+burrowed 2
 bumpers
 baths
 blazons
