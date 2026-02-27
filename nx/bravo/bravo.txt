@@ -16822,7 +16822,7 @@ begari
 blindfolding 1
 blackener
 barytones
-bagasse
+bagasse 1
 budgerow
 bowdlerizer
 begladded
