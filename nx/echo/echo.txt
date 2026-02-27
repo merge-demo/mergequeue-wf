@@ -4055,7 +4055,7 @@ entases
 ejaculate
 empirema
 estately
-exopoditic
+exopoditic 1
 evangelistarium
 evangelizes 1
 envineyard
