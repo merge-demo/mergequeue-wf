@@ -3238,7 +3238,7 @@ fusicoccum 1
 ficklest
 fictionalize
 flippantness 1
-fijian
+fijian 1
 flittermouse
 fearnought
 fulminant 1
