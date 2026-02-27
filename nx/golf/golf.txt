@@ -4191,7 +4191,7 @@ gossy
 grenat 1
 granuloblastic
 geomagnetic
-gumtrees
+gumtrees 1
 gimped
 gimpier
 guidable
