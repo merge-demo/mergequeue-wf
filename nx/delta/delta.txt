@@ -11263,7 +11263,7 @@ duodecimo
 dullity
 deiseal
 diptera
-diadelphic
+diadelphic 1
 detectives
 duplation
 disburdenment
