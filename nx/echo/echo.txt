@@ -1683,7 +1683,7 @@ exsecting
 exanthine
 eiders
 extemporaneity
-epilemmal
+epilemmal 1
 exinite
 eidograph
 exhaustible
