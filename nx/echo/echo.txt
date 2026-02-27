@@ -2164,7 +2164,7 @@ endleaf
 enfoil
 exterminatress
 enanthematous
-esophagostenosis
+esophagostenosis 1
 electropult
 euphonise
 enrib
