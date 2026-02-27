@@ -23882,7 +23882,7 @@ channelwards
 cauterize
 contubernial
 contumacy
-ciceronic
+ciceronic 1
 cantel
 ciguatera
 consisted
