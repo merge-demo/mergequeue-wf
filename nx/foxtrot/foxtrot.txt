@@ -11450,7 +11450,7 @@ falteringly
 foots
 furrily
 fathoms
-fusible
+fusible 1
 frondeur 1
 firebote
 fistinut
