@@ -91,7 +91,7 @@ furazan
 filao 1
 forcelessness
 fightable
-facetiae
+facetiae 1
 fabulists 2
 foldboater
 fringillidae
