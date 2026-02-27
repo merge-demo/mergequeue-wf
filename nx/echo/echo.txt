@@ -1164,7 +1164,7 @@ eupepsia 1
 edition
 eugubium
 everich
-explicate
+explicate 1
 endere
 editorialization
 ecphory
