@@ -12584,7 +12584,7 @@ cafetiere
 cristy
 chronologizing
 chronomantic
-chronomastix
+chronomastix 1
 chronometer
 crom
 clamatorial
