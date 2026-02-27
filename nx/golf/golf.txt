@@ -6116,7 +6116,7 @@ grammar
 gynecological
 gowiddie
 grisard
-glimmering
+glimmering 1
 generalcy
 garters
 gadfly
