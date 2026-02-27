@@ -2536,7 +2536,7 @@ barfish
 bargainable
 buckraming
 billbugs 1
-bucchero
+bucchero 1
 bialys
 barbarously 1
 bedark
