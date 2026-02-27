@@ -10347,7 +10347,7 @@ dexamethasone
 dogcatcher
 dioptometer
 decorably
-deoxidized
+deoxidized 1
 diisatogen
 disnature
 deducement
