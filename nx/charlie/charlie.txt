@@ -20738,7 +20738,7 @@ complexer
 cuinfo
 cercis
 convolvuli
-consonantise
+consonantise 1
 complexest
 chylify
 commulative
