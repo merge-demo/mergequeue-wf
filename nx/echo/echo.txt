@@ -4333,7 +4333,7 @@ enterable
 entrenches
 esture
 elytroclasia
-expansibleness
+expansibleness 1
 enactor
 epigrammatize
 extend
