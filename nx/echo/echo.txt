@@ -4014,7 +4014,7 @@ estrapade 1
 escrime
 embrute
 extirpated
-echappe 2
+echappe 3
 emphasize
 exogens
 eversive
