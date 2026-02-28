@@ -921,7 +921,7 @@ dauts
 depredate
 delate
 directives
-dewed
+dewed 1
 dc
 dures
 deserters 1
