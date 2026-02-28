@@ -11443,7 +11443,7 @@ endodontics
 enneasemic 1
 efferents
 exuvia
-expurgations
+expurgations 1
 eponymist
 exuberate
 eventime
