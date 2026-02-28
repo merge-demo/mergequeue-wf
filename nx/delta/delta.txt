@@ -5065,7 +5065,7 @@ dessicate
 dactylomegaly
 debenzolize
 deadrise
-dermatocoptic
+dermatocoptic 1
 dendrocygna
 dedimus 1
 dunness
