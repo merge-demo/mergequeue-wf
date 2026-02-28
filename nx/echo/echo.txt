@@ -1079,7 +1079,7 @@ eczematization
 enantiopathia
 exadversum
 etchareottine
-endoskeleton
+endoskeleton 1
 eqpt
 entail
 exect
