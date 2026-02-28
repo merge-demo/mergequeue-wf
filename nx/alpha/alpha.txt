@@ -11269,7 +11269,7 @@ arcuses
 ampler
 amplexicaul
 amphictyonic
-antiphylloxeric
+antiphylloxeric 1
 archit
 artels
 anagrammatization
