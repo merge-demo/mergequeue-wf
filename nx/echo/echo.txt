@@ -9763,7 +9763,7 @@ epileptiform
 euhedral 1
 ectogenesis
 exoticity
-enrobing
+enrobing 1
 enharmonical
 eucharist
 ethine
