@@ -11212,7 +11212,7 @@ christiania
 chlorenchyma
 calefaction
 coassistance
-chlorguanide
+chlorguanide 1
 chlorhydric
 chloriamb
 curvimeter
