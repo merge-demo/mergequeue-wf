@@ -2742,7 +2742,7 @@ electrotypy
 enolase
 eggroll
 ectophytic
-evaporated
+evaporated 1
 electrovalent
 epinasty
 epos
