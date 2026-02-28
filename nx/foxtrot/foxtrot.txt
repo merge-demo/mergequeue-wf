@@ -7169,7 +7169,7 @@ fripper
 finesse
 fanaticizing 1
 flutier
-foreallege
+foreallege 1
 fishmeals
 flea
 fluidram
