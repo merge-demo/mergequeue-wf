@@ -5515,7 +5515,7 @@ erectility
 equiformity
 ekoi
 enzymosis
-enervation
+enervation 1
 ethnically
 enfaces
 elizabethans 1

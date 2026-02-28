@@ -1478,7 +1478,7 @@ dazzlingness
 diatropism
 deluder 1
 degenerationist
-dissatisfactoriness
+dissatisfactoriness 1
 disequilibriums 1
 dbridement
 dictyogen
