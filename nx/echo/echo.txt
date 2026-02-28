@@ -13255,7 +13255,7 @@ enrheum
 enzooty 1
 explainable
 explainableness
-eductor
+eductor 1
 epiphytism
 eriodendron
 eldred
