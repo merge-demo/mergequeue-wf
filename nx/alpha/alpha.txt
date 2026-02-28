@@ -1663,7 +1663,7 @@ actualities
 accrued
 advancements
 accruement
-accruer
+accruer 1
 administrant
 anatta
 accrues
