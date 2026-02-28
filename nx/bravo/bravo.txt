@@ -9758,7 +9758,7 @@ burdie
 birdnester
 botticellian
 brichette
-befriends
+befriends 1
 breakages
 balaos
 burman
