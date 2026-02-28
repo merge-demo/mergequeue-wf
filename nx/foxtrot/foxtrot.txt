@@ -6997,7 +6997,7 @@ fungoidal
 fulgurite
 formalisation
 forbode
-forewarnings 1
+forewarnings 2
 freshmen
 fluxroot 1
 florilegium
