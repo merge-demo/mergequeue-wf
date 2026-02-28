@@ -7990,7 +7990,7 @@ bilineate
 biceps
 bibliopolism
 bedlight
-begirds
+begirds 1
 berhyming 1
 bichloride
 bioxalate
