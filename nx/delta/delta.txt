@@ -12950,7 +12950,7 @@ degentilize
 declassicize
 disoccluded
 disoccluding
-deepwatermen
+deepwatermen 1
 disimprovement 1
 derencephalus
 depopulating
