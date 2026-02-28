@@ -14961,7 +14961,7 @@ archmime
 aesculetin
 alconde
 anametadromous
-achondroplasia
+achondroplasia 1
 alkalimetrically
 anticryptic
 aglossate
