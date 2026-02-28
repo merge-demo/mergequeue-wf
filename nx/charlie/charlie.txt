@@ -19083,7 +19083,7 @@ commutual
 cubicities
 colligative
 carmela
-collimate
+collimate 1
 coeds
 cabalism
 corrido
