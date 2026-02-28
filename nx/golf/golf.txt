@@ -7103,7 +7103,7 @@ gambrels
 gopherberry
 guernsey
 golgi
-guanay
+guanay 1
 gopherberries
 gothics 1
 gelts
