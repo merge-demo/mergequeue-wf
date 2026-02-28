@@ -2752,7 +2752,7 @@ fraternization
 fussify 1
 folklore
 fedity
-fumarine
+fumarine 1
 fruiter
 fiercer 1
 fragmentarily 1
