@@ -3711,7 +3711,7 @@ gracelike
 grooms
 goetia
 groundedness 1
-gapy
+gapy 1
 galliot
 gringolee
 glossohyal
