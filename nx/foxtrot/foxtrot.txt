@@ -5135,7 +5135,7 @@ fluorescence 1
 ferrotype
 forevalue
 flapping
-fessely
+fessely 1
 fun
 fluidities 1
 foamy
