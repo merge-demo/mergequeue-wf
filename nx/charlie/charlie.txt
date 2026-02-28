@@ -8664,7 +8664,7 @@ chanteur
 chanteuse
 cisrhenane
 chanticleer
-chefs
+chefs 1
 chanticleers
 chantier
 curiousness
