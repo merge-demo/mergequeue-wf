@@ -6863,7 +6863,7 @@ fiefdom
 foal 1
 foldaway
 ferryman
-farfal
+farfal 1
 flourishes
 frowstiness
 floury 1
