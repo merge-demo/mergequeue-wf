@@ -1187,7 +1187,7 @@ calculatedness
 chromophilic 1
 castanian
 calculates
-calculatingly
+calculatingly 1
 cony
 compeer
 choanocytal
