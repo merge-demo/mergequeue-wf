@@ -9695,7 +9695,7 @@ finalis
 fromage
 fletcher
 fregata
-faunist
+faunist 1
 frilliest
 furthered
 frondent
