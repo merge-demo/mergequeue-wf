@@ -21862,7 +21862,7 @@ conestoga
 confab
 constructionists 1
 cleaner
-confabs
+confabs 1
 confabulate
 cimbal
 connivery
