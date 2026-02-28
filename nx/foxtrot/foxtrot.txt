@@ -10730,7 +10730,7 @@ flunkeyistic
 flavedo 1
 frutescence
 fetter 1
-folkmots
+folkmots 1
 frontward
 forcemeat
 forbore

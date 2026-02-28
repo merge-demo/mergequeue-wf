@@ -5017,7 +5017,7 @@ glowed
 geosynclinal
 geniohyoid
 gonosphere
-glaum
+glaum 1
 gilliflirt
 gnetaceous
 gerontotherapies
