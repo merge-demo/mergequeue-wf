@@ -3952,7 +3952,7 @@ ameba
 amelification
 adlumidin
 anabasse
-affect
+affect 1
 apoplexious
 ardently
 amunam
