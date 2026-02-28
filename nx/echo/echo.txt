@@ -1879,7 +1879,7 @@ encystments
 elaterin
 ensepulchering
 expeller 1
-elfin
+elfin 1
 eremology
 erastian
 eila
