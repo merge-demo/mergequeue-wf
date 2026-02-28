@@ -646,7 +646,7 @@ falx
 fallbacks
 fluocarbonate
 fundamentalistic
-fallings
+fallings 1
 fellatios 1
 fortitudinous
 finned
