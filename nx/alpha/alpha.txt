@@ -7667,7 +7667,7 @@ aldermancy
 aldermaness
 archisphere
 aldermanical
-absurdness
+absurdness 1
 assistency
 aldermanity
 advocative
