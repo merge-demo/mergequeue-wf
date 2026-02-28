@@ -8732,7 +8732,7 @@ absorption
 atturn
 aquate
 allocate
-anglophobes
+anglophobes 1
 autoimmunization 1
 asthmatics
 allocations
