@@ -10976,7 +10976,7 @@ flatuous
 floricin
 fumatoria 1
 frisson
-freesilverism
+freesilverism 1
 forcedly
 fieldfare
 flyleaf

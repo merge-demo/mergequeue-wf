@@ -2580,7 +2580,7 @@ acoup
 acousticolateral
 acousticon
 allotriognathi
-assist
+assist 1
 acoustoelectric
 acridinic
 acquaintanceship
