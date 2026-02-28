@@ -13649,7 +13649,7 @@ dissheathed
 downwards
 dosimetrist 1
 deliverance 1
-disciplinative
+disciplinative 1
 disshiver
 desecrate
 deletory
