@@ -9983,7 +9983,7 @@ bivalence
 bottleful
 bouncer
 broomed
-bankroll
+bankroll 1
 byelaw 1
 biland
 betrap
