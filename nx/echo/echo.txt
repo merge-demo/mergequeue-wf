@@ -1300,7 +1300,7 @@ exfiltrate
 emperors
 eschynite
 expiscator
-emissions
+emissions 1
 eking
 eyelessness
 electrocystoscope 1
