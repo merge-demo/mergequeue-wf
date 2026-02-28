@@ -4674,7 +4674,7 @@ beseemed
 bedevilment
 blas
 blastemic
-bescarf
+bescarf 1
 ballistically
 blowth
 broadgage
