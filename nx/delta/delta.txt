@@ -10145,7 +10145,7 @@ deaths
 dechloridized
 dodecahedra
 doodled
-dimidiated
+dimidiated 1
 dip
 discurrent 1
 doliolum

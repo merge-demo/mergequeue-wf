@@ -2533,7 +2533,7 @@ candlefish
 corporeal
 chaldaical
 candlefishes
-collogued
+collogued 1
 candleholder 1
 candlelight
 candlelighter
