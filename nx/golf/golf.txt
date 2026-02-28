@@ -9678,7 +9678,7 @@ generals
 grudging
 goldfinny 1
 geraniols
-gavotting
+gavotting 1
 gypaetus
 gult
 gandertmeeth
