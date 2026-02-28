@@ -3754,7 +3754,7 @@ goosegrass
 graspless
 greenbelt 1
 greycoat 1
-giants
+giants 1
 glossology
 gristle
 gars
