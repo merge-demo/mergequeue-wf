@@ -10772,7 +10772,7 @@ greenbrier
 gourmandism
 garotes
 gheleem
-grapheme
+grapheme 1
 gung
 genialness
 galipoidine
