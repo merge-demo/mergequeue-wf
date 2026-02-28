@@ -10526,7 +10526,7 @@ girella
 griffinhood
 germens
 gossipingly
-gudesakes
+gudesakes 1
 globalism
 gunjah
 glozer
