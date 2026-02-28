@@ -8501,7 +8501,7 @@ deferrable
 dianilide
 disheritor
 dianoetically
-detracter
+detracter 1
 dislustre
 decanormal
 drydenism
