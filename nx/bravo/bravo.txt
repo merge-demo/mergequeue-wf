@@ -2784,7 +2784,7 @@ bullbat 1
 barolo
 bm
 barmy
-bandyball
+bandyball 1
 bicolored 1
 bukeyef
 barology
