@@ -1048,7 +1048,7 @@ epiphora
 elementaloid
 epispadiac
 euphonism
-escargot
+escargot 1
 estimation
 electrobiological 1
 entomolite 1
