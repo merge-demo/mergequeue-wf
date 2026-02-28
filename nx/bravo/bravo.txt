@@ -4414,7 +4414,7 @@ bedizened
 beati
 beckoningly
 boweling
-bourgeois
+bourgeois 1
 beldam
 bronchostenosis
 backswing
