@@ -3072,7 +3072,7 @@ gali 2
 gibbol
 geophilid
 glack
-gaggling
+gaggling 1
 globularly
 groined
 glucosine
