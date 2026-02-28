@@ -13566,7 +13566,7 @@ disassociated
 disseisee
 droyl
 doubloon
-defterdar
+defterdar 1
 disadvantageousness
 disaccharose
 dungeoner
