@@ -3423,7 +3423,7 @@ fustian
 fonctionnaire
 flincher
 facetiation
-febricity
+febricity 1
 fiascoes
 fireshine 1
 foretalk
