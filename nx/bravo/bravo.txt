@@ -12250,7 +12250,7 @@ buglosses
 brose
 barbette
 barbarisms
-broggerite
+broggerite 1
 bolivians
 bleariest 1
 bolly
