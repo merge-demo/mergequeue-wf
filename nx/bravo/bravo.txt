@@ -1873,7 +1873,7 @@ bromian
 bullose
 belaites
 bialystoker 1
-bandaged
+bandaged 1
 bandaging
 berylloid
 bowlin
