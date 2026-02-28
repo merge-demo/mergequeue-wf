@@ -6638,7 +6638,7 @@ fumish
 facings
 fissions
 freespace
-fuciphagous
+fuciphagous 1
 foreutter
 firebrand
 filiated
