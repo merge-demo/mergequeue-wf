@@ -9916,7 +9916,7 @@ fastuously
 frumpish
 fivish
 fossilological
-forgettingly
+forgettingly 1
 flintstone 1
 fewnesses
 fames
