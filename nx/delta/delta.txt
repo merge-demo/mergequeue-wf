@@ -4597,7 +4597,7 @@ demonastery
 donn
 depose
 diagrammatize
-dinic
+dinic 1
 demisang
 disabuses
 disobliges
