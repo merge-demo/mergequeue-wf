@@ -10523,7 +10523,7 @@ derangeable
 divinize
 dipyrenous
 dipyridyl
-dichter
+dichter 1
 daughter
 drynaria
 dissolubleness 1
