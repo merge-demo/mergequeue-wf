@@ -6076,7 +6076,7 @@ deterred
 diencephala
 disarmers
 dynactinometer
-disgraded
+disgraded 1
 dialyzers
 disannulling
 disintegrant
