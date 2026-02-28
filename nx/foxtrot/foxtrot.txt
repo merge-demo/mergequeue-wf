@@ -7086,7 +7086,7 @@ finagled
 flagellate 1
 floodwood
 feases
-fleawort
+fleawort 1
 forefit
 forebodings 1
 formidable
