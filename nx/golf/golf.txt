@@ -5167,7 +5167,7 @@ gallates 1
 geophysicist
 gemman
 guidwillie
-gueparde
+gueparde 1
 graffer
 grandioseness
 gaussbergite
