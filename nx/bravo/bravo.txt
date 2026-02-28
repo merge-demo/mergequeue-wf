@@ -7347,7 +7347,7 @@ boarhound
 buttonholing
 betear
 battailous
-betel
+betel 1
 baseboards
 bassoonists 1
 bestain
