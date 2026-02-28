@@ -6813,7 +6813,7 @@ engluts 1
 emphasise
 echoized
 entiris
-earlier
+earlier 1
 epiloguize
 etourderie
 extinguishing 1
