@@ -11041,7 +11041,7 @@ demonstrandum
 dhoti
 disintegrationist
 dumfound
-dobbers
+dobbers 1
 divides
 decurrences
 deanthropomorphic
