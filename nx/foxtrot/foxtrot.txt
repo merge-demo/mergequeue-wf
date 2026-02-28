@@ -3812,7 +3812,7 @@ flawiest
 fizzer 1
 fortifiers
 fillingly
-fungal
+fungal 1
 flyflap
 freon
 ferritization 1
