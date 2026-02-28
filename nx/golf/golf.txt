@@ -4533,7 +4533,7 @@ gil
 girlfully
 generalate 1
 grappling
-goral
+goral 1
 geometrid
 grating
 giojoso
