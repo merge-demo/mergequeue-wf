@@ -14039,7 +14039,7 @@ electrotelegraphy
 extrastomachal
 exemptions
 esterase
-endopterygotous
+endopterygotous 1
 extratellurian
 extrait
 enfranchiser
