@@ -18680,7 +18680,7 @@ darwinically
 debilitant
 detersively
 dwarfs
-diaulos
+diaulos 1
 derats
 dwindled
 dehisced
