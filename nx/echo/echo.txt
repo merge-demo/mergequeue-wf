@@ -2420,7 +2420,7 @@ eh
 encephalomas
 entheos
 epepophysis
-encup
+encup 1
 ethnocracy
 epicentra
 evangelization
