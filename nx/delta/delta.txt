@@ -8827,7 +8827,7 @@ dioctahedral
 daturas
 defamations 2
 deluding
-deratization
+deratization 1
 dolefuller
 decke
 douricouli
