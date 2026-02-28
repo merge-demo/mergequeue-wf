@@ -3047,7 +3047,7 @@ doohickus
 dentaria 1
 defacer 1
 dentiscalp 1
-desole
+desole 1
 delible
 dapico
 designated
