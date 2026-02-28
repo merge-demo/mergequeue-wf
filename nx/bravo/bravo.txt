@@ -4457,7 +4457,7 @@ bereavement
 boojum 1
 bewept
 becoiffed
-beclogs
+beclogs 1
 bootleger
 bonspells
 bretonian
