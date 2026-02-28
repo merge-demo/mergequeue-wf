@@ -2521,7 +2521,7 @@ foreshortens
 favaginous
 foulmouth
 feverlike
-friezer
+friezer 1
 fluorine
 fiatconfirmatio
 ferrer
