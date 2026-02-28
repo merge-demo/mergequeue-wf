@@ -2150,7 +2150,7 @@ chiloma
 campesinos
 campestral
 campground
-consarcinate
+consarcinate 1
 camphane 1
 camphanone
 camphene
