@@ -2775,7 +2775,7 @@ falsehearted
 footway
 fatiloquent
 ferrimagnet
-fanioned
+fanioned 1
 formnail
 festilogies
 formenic
