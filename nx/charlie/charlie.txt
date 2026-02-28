@@ -3867,7 +3867,7 @@ carboys
 carbolated
 cerning
 cineolic
-carbolfuchsin
+carbolfuchsin 1
 carbolics
 centricity
 carbolising
