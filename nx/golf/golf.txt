@@ -2605,7 +2605,7 @@ glossopetra
 gemelled
 glossosteresis
 granulater 1
-garabato
+garabato 1
 gastrocolic
 goldfish
 gripers 1

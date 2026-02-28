@@ -12368,7 +12368,7 @@ dinomic 1
 dye
 dysphrenia
 disraeli
-dourines
+dourines 1
 diogenic
 dustbin
 demibuckram
