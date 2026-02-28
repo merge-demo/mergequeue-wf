@@ -3364,7 +3364,7 @@ enfranch
 encina 1
 ethnos
 ectomorphy
-econometrics
+econometrics 1
 exegetically
 enclose
 echoisms
