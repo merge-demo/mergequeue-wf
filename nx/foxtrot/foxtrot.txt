@@ -10538,7 +10538,7 @@ figuratively
 fatherling
 freshment
 finishers 1
-frillery
+frillery 1
 forerunners
 frot
 fortune
