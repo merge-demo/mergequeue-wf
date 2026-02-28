@@ -3736,7 +3736,7 @@ ergastoplasmic
 ethereally
 earthsets
 enwheel
-everse
+everse 1
 enchytrae
 entrancer
 envenom
