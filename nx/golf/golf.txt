@@ -5462,7 +5462,7 @@ gemellus
 guester
 glue 1
 granula
-grammatically
+grammatically 1
 gruffed
 gastruran 1
 gammacismus
