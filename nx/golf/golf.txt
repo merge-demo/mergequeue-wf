@@ -5315,7 +5315,7 @@ grittiness
 galactopoiesis
 germinating
 geomoroi
-glomerulate
+glomerulate 1
 galactosemic
 ganoine 1
 graciosos
