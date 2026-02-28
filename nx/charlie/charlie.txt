@@ -25016,7 +25016,7 @@ carroms
 conventing
 clavial
 cryophyte
-cordiality
+cordiality 1
 cordialities
 cheekfuls
 coction
