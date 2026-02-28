@@ -10360,7 +10360,7 @@ eclecticist
 engold
 extraquiz
 echeloot
-epibole
+epibole 1
 enzymes
 ethnogeographic
 enflaming
