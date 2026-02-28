@@ -10291,7 +10291,7 @@ dissent
 dioceses
 disenjoy
 deporter
-dismettled
+dismettled 1
 dusts
 deconcentrating 1
 deifiers
