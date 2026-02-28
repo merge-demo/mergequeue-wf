@@ -661,7 +661,7 @@ gastronomer
 gardebras
 gonfalon 1
 gratillity
-greeters
+greeters 1
 grunters
 gimmals 1
 goldney
