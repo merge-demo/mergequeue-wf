@@ -4496,7 +4496,7 @@ endolithic
 encephalartos
 electromyographic
 effloresced
-escocheon
+escocheon 1
 encephalitic
 emptio
 executively
