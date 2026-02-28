@@ -10803,7 +10803,7 @@ confusers
 chinologist
 chinone
 chinook
-chinookan
+chinookan 1
 cutgrasses
 corregidores
 clavicylinder
