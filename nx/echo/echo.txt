@@ -3993,7 +3993,7 @@ elissa
 emparchment
 exteriorly
 eradiates
-evertile
+evertile 1
 exaltative
 embarrassingly
 entitles
