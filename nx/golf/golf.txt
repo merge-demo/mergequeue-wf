@@ -4179,7 +4179,7 @@ grandfather
 gloy
 gutturize
 gosmore
-ges
+ges 1
 glutael
 gregarian
 gaveled 1
