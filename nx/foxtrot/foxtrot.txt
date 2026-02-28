@@ -1419,7 +1419,7 @@ farenheit
 formulators 1
 federacy
 fatbacks
-fluctuates
+fluctuates 1
 fountainlet
 frontalis
 forcers
