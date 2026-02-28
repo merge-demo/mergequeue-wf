@@ -1432,7 +1432,7 @@ guavaberry
 governless
 geanticlinal
 glumpiest
-gnosticity
+gnosticity 1
 gagster 1
 garbages
 gulfy
