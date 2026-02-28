@@ -12985,7 +12985,7 @@ desmoids 1
 dicephalous
 dedecorous
 difficulty
-demons
+demons 1
 decatholicize
 differers
 dunitic
