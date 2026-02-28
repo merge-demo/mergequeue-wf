@@ -10370,7 +10370,7 @@ feague
 feudovassalism
 forewings 1
 faceman
-fortiori
+fortiori 1
 ferrado
 furriery
 fantasized
