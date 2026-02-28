@@ -4092,7 +4092,7 @@ cicatrise
 cardamon
 centenary
 chave
-cardamum
+cardamum 1
 cardanol
 chymist
 cardboard
