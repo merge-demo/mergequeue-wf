@@ -27669,7 +27669,7 @@ cervicolumbar
 cowcatchers
 cancelling
 codhead
-cowed
+cowed 1
 crepuscular
 cowered
 cowerers
