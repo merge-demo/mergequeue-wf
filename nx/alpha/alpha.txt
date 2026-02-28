@@ -3924,7 +3924,7 @@ adjust
 animalculum
 acetation
 abdal
-astre
+astre 1
 armozeen
 apagoges
 adjusting 1
