@@ -17340,7 +17340,7 @@ avoirdupois
 alienation
 apologia
 aways
-allogeneity
+allogeneity 1
 ampalaya
 amplification
 autumn
