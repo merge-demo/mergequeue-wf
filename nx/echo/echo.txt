@@ -5230,7 +5230,7 @@ etheriform
 enantiomeride
 exam
 extrascriptural 1
-escartelly
+escartelly 1
 euphuizing
 exocrinology
 epirot
