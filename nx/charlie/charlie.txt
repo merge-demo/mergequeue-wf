@@ -19394,7 +19394,7 @@ callousness
 colorcasts
 colorectitis
 correspondingly
-chantable
+chantable 1
 colorers
 chronogeneous 1
 cinerea
