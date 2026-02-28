@@ -18396,7 +18396,7 @@ cogitation
 centrosomic
 cogitativity
 comparer
-cogitator
+cogitator 1
 cogito
 coglorify
 cogman
