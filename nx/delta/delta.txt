@@ -7094,7 +7094,7 @@ drowsed
 demesmerize
 descriptiveness
 desto 1
-desists
+desists 1
 disvalues
 darted
 diallists
