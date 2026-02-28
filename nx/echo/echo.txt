@@ -10847,7 +10847,7 @@ euodic
 erlking
 euonymy
 exochorda
-exsibilate
+exsibilate 1
 economist
 echinid
 escapage
