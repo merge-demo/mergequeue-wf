@@ -17400,7 +17400,7 @@ autocephality 1
 asciferous
 apotropous
 agaricine
-apofenchene
+apofenchene 1
 apozem
 angiostomize 1
 alcaldes
