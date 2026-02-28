@@ -8218,7 +8218,7 @@ delphacid
 damasked
 dulcor
 downingia
-diorism
+diorism 1
 diadochic
 diadochite 1
 dicliny
