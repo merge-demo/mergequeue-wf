@@ -18374,7 +18374,7 @@ cobalamine
 cogitate
 campal
 culdee
-coggly
+coggly 1
 chalkosideric
 chatteration
 coghle
