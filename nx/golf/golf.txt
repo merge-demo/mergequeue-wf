@@ -936,7 +936,7 @@ glanis
 gamostele
 garrison
 genetically 1
-galt
+galt 1
 graysby
 guitarlike 1
 genotypical
