@@ -18546,7 +18546,7 @@ darbs
 disrates
 durians
 differ
-duricrust
+duricrust 1
 duopolistic
 dozzled
 diphthonged
