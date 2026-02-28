@@ -1966,7 +1966,7 @@ dopant
 disfavor
 displayed
 delirious
-discostate
+discostate 1
 debuted
 du
 desirable
