@@ -832,7 +832,7 @@ gilded
 gameness
 grandiflora
 galvanizes
-gamp
+gamp 1
 gynodioecism
 gadis
 glove
