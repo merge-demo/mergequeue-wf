@@ -2568,7 +2568,7 @@ galvanoscope
 governmentalism
 gogmagog
 gauger
-goneoclinic
+goneoclinic 1
 granolith
 grittle
 gawcey
