@@ -2071,7 +2071,7 @@ encampments
 enthusiasm
 epidendron
 embalm
-equites
+equites 1
 encrinitic
 enterocinesia
 elaphurus
