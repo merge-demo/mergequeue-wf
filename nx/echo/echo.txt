@@ -595,7 +595,7 @@ exhumate
 entrained
 endostosis
 ensilate 1
-erythrene
+erythrene 1
 electrogalvanize
 effeminating
 episiorrhaphy
