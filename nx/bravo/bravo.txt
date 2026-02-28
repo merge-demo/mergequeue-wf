@@ -12303,7 +12303,7 @@ bolshevist
 biopoesis
 bundestag
 burse
-bolshevize
+bolshevize 1
 blunderheaded
 bayberry
 blebby

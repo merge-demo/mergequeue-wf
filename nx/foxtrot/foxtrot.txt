@@ -3446,7 +3446,7 @@ farcie
 fustanella
 foresey
 fleeringly
-floc
+floc 1
 featherlike
 forestate
 face
