@@ -14171,7 +14171,7 @@ deltal
 dentification
 disulfiram
 doyst
-disulfonic
+disulfonic 1
 dispread 1
 disjected
 defective
