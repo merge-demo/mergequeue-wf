@@ -3718,7 +3718,7 @@ glossohyal
 granaries
 galateas 2
 geodynamic
-globalism
+globalism 1
 gonged
 gastrotrichan
 graduations
