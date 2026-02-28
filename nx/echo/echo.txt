@@ -667,7 +667,7 @@ encia
 ellipses 1
 engore
 epizoite
-electioneering
+electioneering 1
 engagingly 1
 etwees
 elocute
