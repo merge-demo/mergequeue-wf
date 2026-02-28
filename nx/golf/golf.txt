@@ -4297,7 +4297,7 @@ goniopholidae 1
 gaugeable
 geologize
 guss
-glendover
+glendover 1
 guilds
 galactopoietic 1
 galleon
