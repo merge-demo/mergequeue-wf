@@ -2993,7 +2993,7 @@ forebear
 frowner
 fluke
 fustee
-flanned
+flanned 1
 fezzed
 forthset
 favosite
