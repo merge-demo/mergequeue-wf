@@ -8617,7 +8617,7 @@ edificable 1
 exstemporaneous
 eastlander
 equate
-eburnification 1
+eburnification 2
 enharmonic
 entomogenous
 epistropheus
