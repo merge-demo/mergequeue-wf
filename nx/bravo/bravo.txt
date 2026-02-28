@@ -953,7 +953,7 @@ bastardry
 batad 1
 branny
 bridally
-bungaloid
+bungaloid 1
 bipinnarias
 brownout
 barrenest
