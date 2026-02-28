@@ -2442,7 +2442,7 @@ anthroposomatology
 adret
 archaizing
 arisings
-acknowledged
+acknowledged 1
 alkalurops
 aconic
 acknowledgers
