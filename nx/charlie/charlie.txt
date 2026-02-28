@@ -8657,7 +8657,7 @@ chansonniers
 chantey
 conspired
 caudaite
-chanterelle
+chanterelle 1
 chondroseptum 1
 cutters
 chanteur
