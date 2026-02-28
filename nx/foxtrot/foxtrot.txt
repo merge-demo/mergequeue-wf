@@ -11685,7 +11685,7 @@ flare
 forefended
 footglove
 fiaschi
-flatfoot
+flatfoot 1
 faced
 faroeish 1
 fanlights 1
