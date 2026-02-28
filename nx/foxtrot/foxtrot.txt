@@ -8334,7 +8334,7 @@ fod
 fraughan
 flagman
 fossilizable
-fronter 1
+fronter 2
 fanflower
 folial
 fouldre
