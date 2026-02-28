@@ -6974,7 +6974,7 @@ dinoflagellate 1
 docility 1
 detray
 degreased
-despitefully
+despitefully 1
 despitefulness 1
 disray
 dissension
