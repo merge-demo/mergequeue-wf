@@ -6758,7 +6758,7 @@ emunge
 easting
 exstill
 entete
-eurytherm
+eurytherm 1
 epistrophy
 edaphic
 exhusband
