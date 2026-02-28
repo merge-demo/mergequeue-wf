@@ -14819,7 +14819,7 @@ docoglossate
 dulcose
 doctor
 dashwheel
-delightless
+delightless 1
 deservingly
 doctorfishes
 doctorhood
