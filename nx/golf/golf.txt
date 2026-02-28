@@ -10662,7 +10662,7 @@ gulinulae 1
 grump
 goatsbane
 glaiketness 2
-genuflexion
+genuflexion 1
 glottologist
 glideness
 gastroduodenotomy
