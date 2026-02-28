@@ -1001,7 +1001,7 @@ caribe
 calamity
 candy
 cash
-crewels
+crewels 1
 calamancos
 calamostachys
 carks
