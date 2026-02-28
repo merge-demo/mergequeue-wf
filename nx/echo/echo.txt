@@ -4933,7 +4933,7 @@ enfile
 endarteteria
 ensisternum
 eupterotidae
-euhemerize 1
+euhemerize 2
 enticed
 exencephalic 1
 electroamalgamation
