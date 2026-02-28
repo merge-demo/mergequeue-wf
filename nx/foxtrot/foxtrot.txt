@@ -5770,7 +5770,7 @@ folioliferous
 filemaker
 factional
 facilitator 1
-flype
+flype 1
 feoffeeship
 feodaries
 farinometer
