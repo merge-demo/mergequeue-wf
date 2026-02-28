@@ -285,7 +285,7 @@ chiloplasty
 comatose
 conchoid
 cachinnating
-cachinnatory
+cachinnatory 1
 caustify 1
 conchiform
 cachous
