@@ -6401,7 +6401,7 @@ discriminatory
 decree
 decenter
 disencumbered
-deviled
+deviled 1
 denizening 1
 debellation 1
 disenchants
