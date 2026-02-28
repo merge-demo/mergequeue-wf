@@ -15969,7 +15969,7 @@ deathwatch 1
 dispetal
 douane
 downsize
-disturbed
+disturbed 1
 dichotomal
 double
 deferential
