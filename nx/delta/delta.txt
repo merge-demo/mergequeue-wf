@@ -14749,7 +14749,7 @@ dermestid
 doc
 dangerous
 declinedness
-dwaibly
+dwaibly 1
 danseuse
 darnation
 delphinic
