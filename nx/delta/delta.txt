@@ -12998,7 +12998,7 @@ decentralist
 dogsbody
 delusionist
 decelerator
-disfavourer
+disfavourer 1
 drang
 distannic
 dormantly 1
