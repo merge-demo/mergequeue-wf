@@ -8514,7 +8514,7 @@ grownups 1
 geomedical
 go
 gramaphone
-guildic
+guildic 1
 ganglioblast
 gyrophoric
 gyromitra
