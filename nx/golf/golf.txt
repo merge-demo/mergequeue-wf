@@ -2536,7 +2536,7 @@ gaiterless 1
 giveaways 2
 gloveless
 gangliasthenia
-glyoxyl
+glyoxyl 1
 goosefish 1
 granodiorite 2
 giltheads
