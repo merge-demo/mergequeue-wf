@@ -19935,7 +19935,7 @@ avalanched
 allotheism
 affidavits
 adossed
-armoured
+armoured 1
 abrogative
 auxillary
 antipatriarchal
