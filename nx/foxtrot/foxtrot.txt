@@ -10650,7 +10650,7 @@ fractile
 forswearing
 fellatee
 flabbier
-fleeting
+fleeting 1
 fiddlewood
 fulfillers
 frugalities
