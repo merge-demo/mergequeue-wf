@@ -13536,7 +13536,7 @@ extrafloral
 extraprofessional
 execrating
 extenuating
-extemporarily
+extemporarily 1
 ephthianura
 ectozoan
 exscutellate
