@@ -12391,7 +12391,7 @@ anelectrode
 analectic
 alefs
 appui
-anelectrotonus
+anelectrotonus 1
 ahmadiya
 antidotically
 anelytrous

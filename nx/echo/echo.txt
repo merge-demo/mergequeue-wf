@@ -9278,7 +9278,7 @@ element
 eyestrain
 extradecretal
 empty
-effranchise
+effranchise 1
 errable
 endbrains
 epionynychia
