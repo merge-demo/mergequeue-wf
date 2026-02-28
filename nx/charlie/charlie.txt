@@ -14048,7 +14048,7 @@ cosmetiste
 craunching
 cookwares
 crocodile
-cleruchial
+cleruchial 1
 circassic
 capivi
 corpuscle
