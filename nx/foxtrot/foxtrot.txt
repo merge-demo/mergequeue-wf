@@ -9667,7 +9667,7 @@ foamer
 floriform
 frabous
 freeloaded
-forthrightly
+forthrightly 1
 finitesimal
 frizziest
 forespeaker
