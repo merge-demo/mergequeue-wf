@@ -13196,7 +13196,7 @@ acetifying
 anisocytosis 1
 aval
 apograph
-allwhere
+allwhere 1
 anatoxins
 appetit
 amendatory
