@@ -54,7 +54,7 @@ epigraphic
 earflap
 ectrosyndactyly
 expender
-excites
+excites 1
 electroretinograph
 excursion
 effusiometer
