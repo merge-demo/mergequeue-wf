@@ -8831,7 +8831,7 @@ antibacchius
 adjustments
 acrogenic
 alloisomerism
-anticness
+anticness 1
 axisymmetric
 amalgams
 aerobiologic
