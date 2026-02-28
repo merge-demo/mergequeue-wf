@@ -8263,7 +8263,7 @@ deducting
 daubery
 denudate
 demonization
-diagonic
+diagonic 1
 deliriousness
 delegant
 drahthaar
