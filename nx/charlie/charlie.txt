@@ -2164,7 +2164,7 @@ conterminate
 cymba
 cuprene
 champagning
-corduroy
+corduroy 1
 campho
 camphocarboxylic 1
 choryos
