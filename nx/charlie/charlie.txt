@@ -26368,7 +26368,7 @@ colligate 1
 concavities
 centipoise
 cliffier
-coterminousness
+coterminousness 1
 cotes
 cycloidian
 cerenkov
