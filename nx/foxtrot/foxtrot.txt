@@ -719,7 +719,7 @@ forensics
 frettier
 feta
 foraminulose
-flingdust
+flingdust 1
 frapping
 flagroot
 faceup
