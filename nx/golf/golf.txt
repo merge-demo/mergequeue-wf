@@ -4952,7 +4952,7 @@ gauziest
 goldic 1
 generant
 gymnogen
-gopak
+gopak 1
 gaslit
 goodnight
 glew
