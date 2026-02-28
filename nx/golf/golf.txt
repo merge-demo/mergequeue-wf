@@ -8685,7 +8685,7 @@ gannetry
 gamahe 1
 gilsonite
 glyphograph
-guaconize
+guaconize 1
 gawkier
 guttling 1
 greekize 1
