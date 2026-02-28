@@ -16412,7 +16412,7 @@ biter
 brulee
 breathily
 beknottedness
-belligerence 1
+belligerence 2
 buzzardly
 brulzies
 biloculate
