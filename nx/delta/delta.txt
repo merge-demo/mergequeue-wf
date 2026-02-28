@@ -1308,7 +1308,7 @@ dorsigerous
 disorder
 dault
 dolorimetric
-dowdier
+dowdier 1
 docetic
 discabinet
 dysesthesia
