@@ -7716,7 +7716,7 @@ grizzliest
 goldworker
 gallivant
 gamins
-gluconate
+gluconate 1
 gangplow
 gorling
 grewsome
