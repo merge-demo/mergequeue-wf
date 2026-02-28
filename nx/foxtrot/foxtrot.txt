@@ -6705,7 +6705,7 @@ fantaseid 1
 flannelet
 foder 1
 flighting
-finitude
+finitude 1
 forkwise 1
 footmarks
 flees
