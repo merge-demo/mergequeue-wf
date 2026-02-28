@@ -3743,7 +3743,7 @@ adherers
 antiphonon
 abbozzo
 aerophilately
-armoric
+armoric 1
 accessorial
 anticancerous
 anticipatively
