@@ -3248,7 +3248,7 @@ amidoacetal
 acus
 atrabile
 anisotropism
-atresy
+atresy 1
 araneidan
 abovedeck
 army
