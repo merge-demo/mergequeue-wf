@@ -10057,7 +10057,7 @@ dubieties
 dbms
 dissightly
 dynamically
-devisals
+devisals 1
 deflate 1
 discommodes 2
 defailance
