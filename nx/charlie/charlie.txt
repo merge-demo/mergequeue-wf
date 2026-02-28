@@ -11891,7 +11891,7 @@ cationically
 culter
 chordomesoderm
 chordotomy
-chore
+chore 1
 caviare
 chorea
 choreal
