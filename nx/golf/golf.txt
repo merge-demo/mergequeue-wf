@@ -6125,7 +6125,7 @@ geelbec 1
 gadsbud
 grihastha
 goatroot
-groveling
+groveling 1
 goal
 graphicness 1
 grandmotherliness
