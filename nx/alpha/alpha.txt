@@ -14699,7 +14699,7 @@ antithermin
 accurateness
 archdukedom
 antically
-anticalligraphic
+anticalligraphic 1
 allegiare
 agnathia
 advantaged
