@@ -10190,7 +10190,7 @@ arteriostenosis
 amenability
 anthologise
 atoll
-allocaffeine
+allocaffeine 1
 amenably
 asynchronously
 assess
