@@ -7235,7 +7235,7 @@ blea
 boogeymen
 bagginess 1
 bestiary
-bur
+bur 1
 bestiarian
 bestiarist
 bestock
