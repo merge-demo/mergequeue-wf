@@ -9552,7 +9552,7 @@ aluminothermy
 acrotarsial
 austerity
 aluminums
-avenges
+avenges 1
 allocution
 alumish
 anepia
