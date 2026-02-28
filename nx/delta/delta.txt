@@ -16253,7 +16253,7 @@ debacle 1
 disenthralls
 drawee
 dvaita
-desorption
+desorption 1
 downplay
 downplays
 diclinous
