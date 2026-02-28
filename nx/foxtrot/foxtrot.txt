@@ -874,7 +874,7 @@ freshet
 falconets
 fourchette
 fireworks 1
-folliculose
+folliculose 1
 falconbill
 footworks
 fantastication
