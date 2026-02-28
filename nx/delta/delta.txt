@@ -11791,7 +11791,7 @@ demurrages 1
 disported 1
 damoclean
 dizzen
-depths
+depths 1
 discrested
 dowering
 decaliters
