@@ -9404,7 +9404,7 @@ grossly
 genes
 grangerizer
 grosso 1
-gowans
+gowans 1
 goldsmithery
 grizzled
 genocide
