@@ -1647,7 +1647,7 @@ evens
 enthraldom
 ephebeion
 eradicated 1
-encamped 1
+encamped 2
 egress
 erizo
 epiblastic
