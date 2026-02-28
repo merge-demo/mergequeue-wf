@@ -7729,7 +7729,7 @@ expoundable
 epideistic
 effluxion
 escalades
-esprise
+esprise 1
 endoubt
 extruder
 epidemically
