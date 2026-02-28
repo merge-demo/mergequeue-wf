@@ -4562,7 +4562,7 @@ epidiorthosis
 escuela 1
 earlock
 enodation
-excoction
+excoction 1
 euphemized
 excrementitious
 enchancement
