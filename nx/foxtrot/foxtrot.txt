@@ -5471,7 +5471,7 @@ fruittime
 flirters
 fany
 frivolers
-fusarole
+fusarole 1
 furniture
 fennel
 forbearingness
