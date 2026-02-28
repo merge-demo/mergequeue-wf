@@ -2427,7 +2427,7 @@ evangelization
 emeership
 epipetalous
 episcopality
-episcopalianize
+episcopalianize 1
 events
 entrail
 epidermidalization
