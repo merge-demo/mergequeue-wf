@@ -12448,7 +12448,7 @@ appendicate
 adiapneustia
 androgonial
 augurers
-anemotaxis
+anemotaxis 1
 advantageously
 anemotropism
 accersition
