@@ -1071,7 +1071,7 @@ disbanding
 darters
 dearticulation 1
 drachmas
-dartled
+dartled 1
 depreciable
 defuses
 downpour
