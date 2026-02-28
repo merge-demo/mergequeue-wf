@@ -10009,7 +10009,7 @@ governably
 grievants
 glutamic
 gubernative
-gubernatrix
+gubernatrix 1
 geophysically
 graveness
 gargled
