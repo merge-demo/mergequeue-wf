@@ -13249,7 +13249,7 @@ cerises
 coadapt
 cyclohexadienyl 1
 commiserable
-cerophilous
+cerophilous 1
 crossrow
 camelback
 cyclohexanol
