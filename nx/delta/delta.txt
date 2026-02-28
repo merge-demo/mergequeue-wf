@@ -11034,7 +11034,7 @@ dramatised
 dieselized
 divulgence
 dragonkind
-decus
+decus 1
 decades
 disclosable
 demonstrandum
