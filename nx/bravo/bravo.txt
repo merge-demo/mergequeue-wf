@@ -9367,7 +9367,7 @@ bulbiform
 baroscope
 brockets 1
 baleless
-blirt
+blirt 1
 balak
 bearishly
 budgetary
