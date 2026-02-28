@@ -2950,7 +2950,7 @@ grapline 1
 goumier
 gratuitous
 gambusia
-glitnir
+glitnir 1
 glycolic
 gibbering
 gymkhanas 1
