@@ -981,7 +981,7 @@ feats
 faretta 1
 foresaid
 foldable
-foresightedness
+foresightedness 1
 fervid
 fishing
 flustering
