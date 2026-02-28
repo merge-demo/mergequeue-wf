@@ -5302,7 +5302,7 @@ datives
 decimalized
 demibombard 1
 disguising
-dysteleology
+dysteleology 1
 displant
 determinativeness
 dentelure
