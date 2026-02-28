@@ -15181,7 +15181,7 @@ datsun
 delectably
 directory 1
 dolefully
-detainment
+detainment 1
 dogdoms
 deeryards
 deathfulness
