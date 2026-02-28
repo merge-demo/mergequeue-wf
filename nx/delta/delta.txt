@@ -2890,7 +2890,7 @@ dammaret
 desmodont
 duodecimomos
 dropforging
-draggingly
+draggingly 1
 dichotic
 downbeat
 desulphuret
