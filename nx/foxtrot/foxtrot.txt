@@ -1450,7 +1450,7 @@ flanched
 flawless
 fatuus
 fineleaf
-frankly
+frankly 1
 fantasie
 fadeout
 feramorz 1
