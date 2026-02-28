@@ -5960,7 +5960,7 @@ deseret
 deprogrammed
 doxies
 deltoidal
-drillstock
+drillstock 1
 devonic
 depeculate
 deprograms
