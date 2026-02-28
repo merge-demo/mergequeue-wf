@@ -6232,7 +6232,7 @@ expectingly
 enfetter 1
 eyedrop
 exhalations
-evanesce
+evanesce 1
 equicontinuous
 extermination
 enorn
