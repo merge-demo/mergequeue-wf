@@ -8563,7 +8563,7 @@ glomeli
 globalize
 grat
 growths
-gutteral
+gutteral 1
 guarache
 glabriety
 gradually
