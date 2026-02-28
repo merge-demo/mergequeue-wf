@@ -691,7 +691,7 @@ bawties
 baddie
 bruang
 bathtubs
-bathetically
+bathetically 1
 baddies 1
 baff
 bacillary
