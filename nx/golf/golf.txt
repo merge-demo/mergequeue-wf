@@ -5102,7 +5102,7 @@ goldeneye
 grecism
 grufted
 globules
-galvanocautery
+galvanocautery 1
 gill
 greesagh
 gaultherin
