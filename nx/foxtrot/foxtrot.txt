@@ -2038,7 +2038,7 @@ flindosa
 forwander 1
 faunlike
 fructescence
-florins
+florins 1
 fascicule
 flaunting
 fairyisms
