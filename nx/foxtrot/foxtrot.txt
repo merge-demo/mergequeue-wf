@@ -10100,7 +10100,7 @@ fastigiated
 fenouillet
 forecasted
 fablemonger
-fait
+fait 1
 fusariosis 1
 fibration
 farnesol

@@ -943,7 +943,7 @@ belligerently
 bagsful
 balausta
 bequirtle
-barbeled
+barbeled 1
 bravely
 beprank
 buggier
