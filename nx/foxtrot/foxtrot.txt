@@ -9573,7 +9573,7 @@ flitches
 farcinoma 1
 flawn
 freaks
-fractions
+fractions 1
 frondless
 froggy
 founts
