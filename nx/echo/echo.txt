@@ -1695,7 +1695,7 @@ enlivening
 edgemaker
 euphuized
 ethylenes
-ellipsis
+ellipsis 1
 epiphloedal
 electrotaxis
 ejusdem
