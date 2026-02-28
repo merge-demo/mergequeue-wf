@@ -9828,7 +9828,7 @@ gunneraceae
 geognosies
 graybearded
 goatherds
-gestatory
+gestatory 1
 grimacer
 globulinuria 1
 glycerolate
