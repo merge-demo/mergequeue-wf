@@ -5077,7 +5077,7 @@ endocyst
 epodic
 enucleate
 extraditions
-eclogites
+eclogites 1
 encephalospinal
 etym
 ectypes 1
