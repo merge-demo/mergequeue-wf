@@ -2094,7 +2094,7 @@ definitizing
 dromedary
 diploidion
 dissyllabism
-daintify
+daintify 1
 drawstop
 diapasm
 dysphemia
