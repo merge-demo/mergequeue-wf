@@ -8993,7 +8993,7 @@ arrectary
 alloxuraemia
 alloxuremia
 apsidal
-anadicrotic
+anadicrotic 1
 alphyl
 anaeroplastic
 allround
