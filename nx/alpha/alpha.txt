@@ -6427,7 +6427,7 @@ ahuaca
 awkwardest
 acridane
 ascomata
-anacrustic
+anacrustic 1
 anatripsology
 airward
 acerbities
