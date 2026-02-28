@@ -2080,7 +2080,7 @@ bersaglieri
 bankruptism
 bankruptcy
 boltel
-bankrupting
+bankrupting 1
 balilla
 basophile
 babylonia
