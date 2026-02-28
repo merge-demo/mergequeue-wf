@@ -5091,7 +5091,7 @@ epistoma
 eelpouts
 emuls
 encysted
-emanatistic
+emanatistic 1
 expostulations
 ecthyma
 electrocontractility 1
