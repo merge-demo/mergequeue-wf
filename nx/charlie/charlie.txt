@@ -2503,7 +2503,7 @@ candidated
 chowsed
 candidates
 chowders
-candidatures
+candidatures 1
 candide
 churls
 candidnesses

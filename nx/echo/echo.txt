@@ -2666,7 +2666,7 @@ euphemiously
 echinoderidae
 eximiously
 extemporizing
-emmetrope
+emmetrope 1
 electroreduction
 eunuchising
 euglena
