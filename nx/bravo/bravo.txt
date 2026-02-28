@@ -4312,7 +4312,7 @@ bizarre 1
 bewitchery
 bluestockingism
 bebloods
-burke
+burke 1
 bimanal
 boggish
 brabbled
