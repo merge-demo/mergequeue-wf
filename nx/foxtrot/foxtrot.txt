@@ -10644,7 +10644,7 @@ feis 1
 flabbergasting
 feudalizable
 forerunner
-flative
+flative 1
 forseen
 fractile
 forswearing
