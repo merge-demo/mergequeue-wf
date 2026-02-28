@@ -9837,7 +9837,7 @@ fadridden
 faddist 1
 fretum
 figs
-fanegas
+fanegas 1
 fidget
 fluors
 flavoursome
