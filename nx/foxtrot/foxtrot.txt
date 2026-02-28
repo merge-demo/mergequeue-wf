@@ -2552,7 +2552,7 @@ flimp
 ferricyanide
 ferrihydrocyanic
 fervency 1
-feedsman
+feedsman 1
 friesic
 fimbriatum 1
 fricandelle
