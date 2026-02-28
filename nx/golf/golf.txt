@@ -1485,7 +1485,7 @@ grantable
 garderobe
 gladsome
 garotted
-goutish
+goutish 1
 glairing 1
 gerbille
 gorlin
