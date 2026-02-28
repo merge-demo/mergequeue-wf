@@ -8253,7 +8253,7 @@ foretooth
 formamidine
 fianchetto
 fesse 1
-forgeable
+forgeable 1
 forgery
 florissant
 forcat
