@@ -6963,7 +6963,7 @@ forebackwardly
 flammeous
 fitly
 folklike
-feasible
+feasible 1
 fallace
 folklores
 fp
