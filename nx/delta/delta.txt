@@ -17179,7 +17179,7 @@ decursive
 depletory
 drive
 diastrophism
-daboia
+daboia 1
 dicyclic
 desmognathism
 dehair
