@@ -28727,7 +28727,7 @@ cocircularity
 clericity
 cypresses
 chiru
-constringe
+constringe 1
 coincides
 composable
 crepy
