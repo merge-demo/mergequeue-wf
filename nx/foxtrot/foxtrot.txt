@@ -2583,7 +2583,7 @@ foveolated
 fattier
 flavouring
 fouty
-flossiness
+flossiness 1
 falsettos
 franchiser 1
 flecnode
