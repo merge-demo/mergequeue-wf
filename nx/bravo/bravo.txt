@@ -6752,7 +6752,7 @@ blackstick
 benzaldoxime
 becripple 1
 bernice
-begaze
+begaze 1
 bieennia
 bootprint
 bemadam
