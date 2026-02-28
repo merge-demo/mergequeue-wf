@@ -1751,7 +1751,7 @@ astrologe
 abases
 arneb
 accoy
-aspersion
+aspersion 1
 autaesthesy
 accuse
 animalivore
