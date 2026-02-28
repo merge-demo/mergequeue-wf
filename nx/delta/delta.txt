@@ -319,7 +319,7 @@ danio
 deperdit
 daygoing
 dandering
-daiker
+daiker 1
 dcor
 dailamite
 defames
