@@ -523,7 +523,7 @@ expirate
 excluder
 expenditure
 expositionary
-exodontics
+exodontics 1
 earshell
 encaustic
 erythrophilous
