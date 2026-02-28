@@ -4286,7 +4286,7 @@ gleesomeness 1
 gemological
 gravidity
 gloeosporiose
-gawks
+gawks 1
 grundyism
 geodesist
 galeopsis
