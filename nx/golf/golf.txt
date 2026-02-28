@@ -751,7 +751,7 @@ goose
 gracefullest
 gorble 1
 girllikeness
-gluey
+gluey 1
 gorgon
 grinnellia
 gamashes
