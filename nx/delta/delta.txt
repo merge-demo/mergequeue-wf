@@ -18289,7 +18289,7 @@ disorderly
 drawlingness
 decibels
 duckboards
-demonian
+demonian 1
 discipline
 discalceate
 daised 1
