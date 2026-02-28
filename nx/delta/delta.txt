@@ -7070,7 +7070,7 @@ destabilize
 ducting
 dothideacea
 desterilization
-dexterical
+dexterical 1
 dayak
 deposits
 dididae
