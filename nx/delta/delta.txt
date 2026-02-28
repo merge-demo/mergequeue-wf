@@ -2796,7 +2796,7 @@ dossers
 dousing
 diereses
 disulphonate
-decrying
+decrying 1
 depolarizers
 duolog
 danegelt
