@@ -11581,7 +11581,7 @@ figments 1
 fiddlers
 forecastlemen
 forespoken
-flanch
+flanch 1
 freity
 floscular
 fussbudgety
