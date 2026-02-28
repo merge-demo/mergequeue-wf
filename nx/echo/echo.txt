@@ -12584,7 +12584,7 @@ epsomite
 ethion 1
 extraught 1
 eupolyzoa
-ectogenous
+ectogenous 1
 eunuchry
 exocoelar
 exocoele
