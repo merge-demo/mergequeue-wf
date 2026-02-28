@@ -12883,7 +12883,7 @@ exclusion
 erotopathic
 erethisms
 engirdle
-equestrian
+equestrian 1
 enamelers
 elaeagnaceae
 endamoeba
