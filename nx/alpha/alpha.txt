@@ -2256,7 +2256,7 @@ amygdalolith
 allows
 autoparasitism
 achronism
-announcement
+announcement 1
 arithmetic
 arusa
 amounts
