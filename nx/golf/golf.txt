@@ -5359,7 +5359,7 @@ gitter
 grotesqueries
 gelandejump 1
 geckoid
-gravitating 1
+gravitating 2
 gingal
 gammadion
 gazy
