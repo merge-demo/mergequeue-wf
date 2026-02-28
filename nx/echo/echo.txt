@@ -4974,7 +4974,7 @@ espy
 ebonises
 enterectomies
 exiguous
-epituberculous
+epituberculous 1
 essentia
 effuses
 euphonical
