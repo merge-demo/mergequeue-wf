@@ -2809,7 +2809,7 @@ draggle
 detractress
 desidious
 deallocate
-daimones
+daimones 1
 domitian
 decrypt
 dasyus 1
