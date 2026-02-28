@@ -4079,7 +4079,7 @@ gelechiid
 gnawer
 gonagia
 grapevine 1
-gaulic
+gaulic 1
 gandum
 gaufer
 gulgul
