@@ -11690,7 +11690,7 @@ dotishness
 dialogged
 demicaponier
 didest
-diarch
+diarch 1
 decamethonium
 demiditone
 dishexecontahedroid
