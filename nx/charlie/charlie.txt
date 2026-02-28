@@ -4737,7 +4737,7 @@ charlock
 carpet
 carpetbagger
 chantage
-catty
+catty 1
 caddow
 compatibles
 cyathi
