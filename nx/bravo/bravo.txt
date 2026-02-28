@@ -13333,7 +13333,7 @@ backlet
 buckling
 bathycentesis
 beflatter
-bandoleered
+bandoleered 1
 bacteriologically
 bradykinesis
 boogers

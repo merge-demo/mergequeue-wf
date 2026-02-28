@@ -3296,7 +3296,7 @@ gourmand
 glissandos
 germanizer 1
 gimbaling
-gloominess
+gloominess 1
 germanness
 ganging
 gunrunner
