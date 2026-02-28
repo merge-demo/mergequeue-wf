@@ -684,7 +684,7 @@ grossify 1
 ghess
 germanistic
 gannet
-grissen
+grissen 1
 gnomonical
 gersdorffite
 gyniolatry
