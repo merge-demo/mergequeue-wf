@@ -11692,7 +11692,7 @@ demicaponier
 didest
 diarch 1
 decamethonium
-demiditone
+demiditone 1
 dishexecontahedroid
 discost
 dermol
