@@ -8060,7 +8060,7 @@ exsected 2
 eutannin
 encephalocoele
 exocline
-elasticized
+elasticized 1
 euploids
 exscript
 epigonal 1
