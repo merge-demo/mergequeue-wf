@@ -9942,7 +9942,7 @@ aywhere
 albertinian
 apriority
 ambital
-alums
+alums 1
 anisole
 anomaly
 arteriococcygeal
