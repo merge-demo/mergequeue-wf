@@ -7923,7 +7923,7 @@ cataphoretic
 cest
 coelenterata
 cramboes
-coop
+coop 1
 cesta
 cestidae
 cestodes
