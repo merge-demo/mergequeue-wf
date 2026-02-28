@@ -2036,7 +2036,7 @@ awakeable
 amritas
 amidoxy 1
 achagua
-alumian
+alumian 1
 amoret
 alumnol
 apsychical
