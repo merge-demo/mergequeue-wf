@@ -9238,7 +9238,7 @@ flaming
 fragileness
 flacherie
 fragmentised
-finnicize
+finnicize 1
 ficiform
 fogie
 fucus
