@@ -6596,7 +6596,7 @@ glycosuria 2
 gossans
 gurglingly
 gilgie
-gangliar
+gangliar 1
 geoglossaceae
 grittiest
 guarantee
