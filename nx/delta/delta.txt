@@ -577,7 +577,7 @@ dawut
 deadrize
 disintegrating
 dynamophone
-deadhand
+deadhand 1
 derelinquendi 1
 disgracefulness
 drawable
