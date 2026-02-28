@@ -8223,7 +8223,7 @@ exert
 estadio
 excorticate 1
 electrolysis
-ester
+ester 1
 exulting
 enmarbling
 entomophthoraceae

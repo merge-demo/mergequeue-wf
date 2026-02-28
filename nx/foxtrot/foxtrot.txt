@@ -6654,7 +6654,7 @@ foraminifera
 frankincense
 foamflower
 front
-foreseize
+foreseize 1
 fettled
 filtrable
 fidgetation
