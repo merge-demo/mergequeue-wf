@@ -6756,7 +6756,7 @@ deepish
 daeva
 detachments
 desinent
-dallying
+dallying 1
 desinential
 defectious 2
 desynonymize
