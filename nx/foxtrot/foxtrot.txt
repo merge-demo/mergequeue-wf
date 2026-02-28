@@ -4533,7 +4533,7 @@ fortifiable
 foughten
 flogging
 felinae
-fishlike
+fishlike 1
 flattop
 foliicolous 1
 forblow 2
