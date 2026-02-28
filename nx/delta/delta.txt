@@ -2712,7 +2712,7 @@ dissembling
 dewcup
 daijo
 decorist
-durum
+durum 1
 demilancer
 dozening
 denty
