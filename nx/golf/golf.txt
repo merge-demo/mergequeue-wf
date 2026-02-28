@@ -7730,7 +7730,7 @@ gyres
 girba
 glycuresis
 globigerinae
-glabrate
+glabrate 1
 guarapucu
 granthi
 geist
