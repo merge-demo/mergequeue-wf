@@ -12074,7 +12074,7 @@ adiadokokinesia
 arachnidium
 actional
 aetites
-amsel
+amsel 1
 acetylenyl
 acetification
 anatum
