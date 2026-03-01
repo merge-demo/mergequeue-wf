@@ -609,7 +609,7 @@ dialectologies
 damnifies
 damningly
 daneweeds
-damnonians
+damnonians 1
 deflowers
 diplacanthidae
 dioscorea
