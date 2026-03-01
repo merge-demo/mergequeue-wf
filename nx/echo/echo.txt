@@ -11756,7 +11756,7 @@ earscrew
 epicheiremata
 elementoid
 escolar
-extrafascicular
+extrafascicular 1
 enfolding
 expensing
 eventualities
