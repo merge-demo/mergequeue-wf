@@ -15241,7 +15241,7 @@ boosterism
 ballistocardiography
 beblood
 beautify
-bembex
+bembex 1
 billhook
 brickel 1
 biometrically
