@@ -3602,7 +3602,7 @@ episcopes
 eloquentness
 escorted 1
 epigonichthyidae 2
-embolectomy
+embolectomy 1
 enlive
 enicuridae
 emboli
