@@ -8165,7 +8165,7 @@ gagmen
 greasers
 goodlike
 gulfed
-gorgeret
+gorgeret 1
 greatish
 gloat 1
 glowflies
