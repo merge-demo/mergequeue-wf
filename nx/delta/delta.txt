@@ -5668,7 +5668,7 @@ destinist
 degassers
 disposit
 deduit
-depeopling
+depeopling 1
 disordered
 defoliating
 droppage
