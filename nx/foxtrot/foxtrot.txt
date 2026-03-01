@@ -11464,7 +11464,7 @@ fulup 1
 furrowing
 forletting
 fellage
-furrowlike
+furrowlike 1
 furcately
 fissury
 ferntickle
