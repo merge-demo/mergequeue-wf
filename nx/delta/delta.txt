@@ -11394,7 +11394,7 @@ delimiter 1
 dephasing
 dentalization
 diabases
-dermatocele
+dermatocele 1
 dhobi
 discoidea
 dichas 1
