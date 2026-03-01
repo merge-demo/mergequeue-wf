@@ -9789,7 +9789,7 @@ frogmouths
 fruitcake
 fridges 1
 forewind
-furunculoid
+furunculoid 1
 foraminifer
 flintless
 feldspar
