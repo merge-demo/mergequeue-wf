@@ -3578,7 +3578,7 @@ dakoities
 dissociative 1
 decarbonator
 degage
-degames
+degames 1
 deganglionate
 diskophile
 dystome
