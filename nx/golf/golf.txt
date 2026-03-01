@@ -5195,7 +5195,7 @@ gemara 1
 gentianose
 gieseckite
 gravimetrical
-geogenesis
+geogenesis 1
 grottesco
 grimful
 gripsacks
