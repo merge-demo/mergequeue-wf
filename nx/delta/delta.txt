@@ -3884,7 +3884,7 @@ discommunity
 designating
 discomedusan 1
 dekameters
-decumani
+decumani 1
 dekapode
 deink
 dextrocerebral
