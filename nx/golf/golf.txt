@@ -6144,7 +6144,7 @@ giraffes
 goliaths
 gages
 gyric
-galactogogue
+galactogogue 1
 gambodic
 gurgle 1
 geoaesthesia

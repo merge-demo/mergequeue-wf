@@ -3383,7 +3383,7 @@ bayberries
 breast 1
 blowfish
 bellote
-buoyant
+buoyant 1
 bisalt 1
 bren
 bethanks
