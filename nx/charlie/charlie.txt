@@ -2705,7 +2705,7 @@ compiles
 calcemia
 coursey
 cankery
-cannoneering
+cannoneering 1
 cneoraceous
 croze
 claviculus
