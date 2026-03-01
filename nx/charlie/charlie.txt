@@ -10326,7 +10326,7 @@ chickories
 cowpoke
 chickpea
 conspirator
-chickpeas
+chickpeas 1
 chickstone
 consultory
 canariote
