@@ -8669,7 +8669,7 @@ disillusionist
 decoymen
 drumbling 1
 diaspidine
-dots
+dots 1
 deblateration
 denominations
 dicyclies
