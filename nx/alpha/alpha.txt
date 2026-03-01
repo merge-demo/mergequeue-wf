@@ -18951,7 +18951,7 @@ architecturalist
 architecture
 anticize
 arthrectomies
-architypographer
+architypographer 1
 astringence
 angiolith
 actinine 1
