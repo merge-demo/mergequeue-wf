@@ -4602,7 +4602,7 @@ eucryphiaceae
 entrain
 epistolean
 erethizontidae
-encrustation
+encrustation 1
 encharge
 exterminist
 epilimnion
