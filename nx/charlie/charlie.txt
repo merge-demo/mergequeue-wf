@@ -22540,7 +22540,7 @@ conjugator
 conjugators
 conjugium
 countercause
-comfreys
+comfreys 1
 colluding
 cocarde
 chorizontist
