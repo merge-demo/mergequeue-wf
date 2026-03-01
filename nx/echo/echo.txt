@@ -7813,7 +7813,7 @@ epifaunae
 eikonogen
 expropriating
 evirtuate
-enlighteningly
+enlighteningly 1
 emblematic
 eeyuck
 expectably
