@@ -7831,7 +7831,7 @@ ceruleite
 contg
 ceruleolactite
 cravenette
-chlamydophore
+chlamydophore 1
 connoissance
 cylindricalness
 concupiscent
