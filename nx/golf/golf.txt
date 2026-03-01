@@ -2667,7 +2667,7 @@ grippingly
 gentilization
 grabble
 gaud
-gortonian
+gortonian 1
 gipsylike 1
 gestae
 gynandry
