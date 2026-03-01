@@ -3138,7 +3138,7 @@ fairlead
 flotage
 fantastic
 flatman 1
-flapper
+flapper 1
 foretokened
 fondness
 filtrating
