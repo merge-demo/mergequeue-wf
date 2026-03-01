@@ -8438,7 +8438,7 @@ gaseous
 gladiolas
 gales 1
 gandul
-gliddery
+gliddery 1
 gooses
 gallwort 1
 germigene
