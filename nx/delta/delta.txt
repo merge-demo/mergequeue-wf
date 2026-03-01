@@ -3972,7 +3972,7 @@ damping
 djakarta 1
 dokhma
 doll
-delegations
+delegations 1
 desexing
 discomposedly
 drenchingly
