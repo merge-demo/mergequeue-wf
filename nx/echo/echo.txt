@@ -11624,7 +11624,7 @@ errantness
 evocator
 ensilaging
 erethizon
-earthrise
+earthrise 1
 estrange
 epoptes
 endites

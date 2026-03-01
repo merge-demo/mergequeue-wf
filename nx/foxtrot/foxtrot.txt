@@ -5111,7 +5111,7 @@ fallway
 feuilletonistic
 fatteners
 fritter
-flaperon
+flaperon 1
 flippantly
 flappable
 frankalmoin
