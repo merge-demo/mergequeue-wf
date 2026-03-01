@@ -12502,7 +12502,7 @@ elytriform
 elvanite
 enoplion
 exinguinal
-elatrometer
+elatrometer 1
 electrodissolution
 effare
 electrologic
