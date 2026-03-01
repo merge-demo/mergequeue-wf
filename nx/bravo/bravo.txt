@@ -6083,7 +6083,7 @@ becowarded
 berat 1
 biochemistries
 benasty
-balewort
+balewort 1
 beholdable
 buccinidae
 bataan
