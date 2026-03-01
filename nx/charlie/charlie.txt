@@ -19818,7 +19818,7 @@ comediant
 comedical
 coprosma
 comediette
-coagulate
+coagulate 1
 curch
 collectioner 1
 chelydridae
