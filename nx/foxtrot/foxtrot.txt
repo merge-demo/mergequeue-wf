@@ -2389,7 +2389,7 @@ fleer
 feasant
 flavous
 filipuncture
-felanders
+felanders 1
 flinging 1
 frenchness
 farfels
