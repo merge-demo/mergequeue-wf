@@ -27594,7 +27594,7 @@ covetous
 choffer
 counterjudging
 climacium
-cheeriest
+cheeriest 1
 covibrate
 covibration
 covid
