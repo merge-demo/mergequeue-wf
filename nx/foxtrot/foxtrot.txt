@@ -9806,7 +9806,7 @@ fishworm
 farfel
 flyspeck
 fascists
-frescoed
+frescoed 1
 fresheners
 finicalness 1
 favourers
