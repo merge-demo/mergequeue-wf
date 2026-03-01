@@ -18441,7 +18441,7 @@ duping
 diabolic
 dipsticks
 dupion
-disendowing
+disendowing 1
 diarize
 detested 1
 durries
