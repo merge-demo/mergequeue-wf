@@ -5585,7 +5585,7 @@ desaturation
 distichal
 demivirgin 1
 depetalize
-disorganiser
+disorganiser 1
 damier
 disprivilege
 dictamen
