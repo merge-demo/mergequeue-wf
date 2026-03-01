@@ -917,7 +917,7 @@ disputant
 dereferences
 duskiest
 digonous
-dauts
+dauts 1
 depredate
 delate
 directives

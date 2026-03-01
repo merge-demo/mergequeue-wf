@@ -8717,7 +8717,7 @@ bengal
 bouncers 1
 backberand
 bobsleigh
-bd
+bd 1
 bimbisara
 basibranchial
 bromopnea
