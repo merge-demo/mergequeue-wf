@@ -11144,7 +11144,7 @@ autolimnetic
 abrege
 arzrunite
 aciduria
-amphimictic
+amphimictic 1
 amphimorulae
 agalaxia 1
 amphioxi
