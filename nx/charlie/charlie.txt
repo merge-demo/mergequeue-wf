@@ -13395,7 +13395,7 @@ coffered
 cicuta
 classifications
 cicutoxin
-configurational
+configurational 1
 cidaris
 clusiaceous
 cheatrie
