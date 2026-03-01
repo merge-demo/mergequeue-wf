@@ -10085,7 +10085,7 @@ flagstaffs 1
 finches 1
 ferd
 friseur
-fonted
+fonted 1
 frowned
 foreleader
 fustiest
