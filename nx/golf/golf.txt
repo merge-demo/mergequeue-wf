@@ -8883,7 +8883,7 @@ ghostfish
 grizzle
 grieving
 gotta 1
-glauconitic
+glauconitic 1
 gastronomes
 glomerella
 gentman
