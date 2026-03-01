@@ -14822,7 +14822,7 @@ balkanized
 brightener
 bedimplies
 bigeminate
-beardedness
+beardedness 1
 braxies
 brunt
 bicaudal
