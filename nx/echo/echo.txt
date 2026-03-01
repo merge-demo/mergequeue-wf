@@ -2655,7 +2655,7 @@ engrailing
 eyrie 1
 enantioblastic
 electropower
-eidolology
+eidolology 1
 emblazonment
 epiderma
 evolvers

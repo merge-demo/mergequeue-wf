@@ -12370,7 +12370,7 @@ bezzi
 beldame 1
 baillie
 boterol
-brahmanical
+brahmanical 1
 behoovefully
 bumclock
 bombed
