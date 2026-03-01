@@ -6803,7 +6803,7 @@ featherbed
 foreweep
 furnaceman
 fossil
-fitnesses
+fitnesses 1
 fellowing
 flamming
 fenmen
