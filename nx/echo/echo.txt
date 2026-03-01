@@ -10569,7 +10569,7 @@ eucharistically
 epigraph
 embargoing
 ephthalite
-enswathed
+enswathed 1
 ergotinine 1
 embroglios
 expulse
