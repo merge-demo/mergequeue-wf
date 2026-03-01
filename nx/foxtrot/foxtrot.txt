@@ -460,7 +460,7 @@ fragilariaceae
 froglike
 feuage
 fieldbird
-furthy
+furthy 1
 foredoomer
 failed
 filtered
