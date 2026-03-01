@@ -9992,7 +9992,7 @@ fakeers
 flunked
 feelingness
 floatingly 1
-frumentum
+frumentum 1
 flinching 1
 fainthearted
 feudalise
