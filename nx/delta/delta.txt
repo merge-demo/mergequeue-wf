@@ -4390,7 +4390,7 @@ demesgne 1
 dudleyite
 disrank
 dolos
-diapyesis
+diapyesis 1
 demesman
 dextroses
 depravities 1
