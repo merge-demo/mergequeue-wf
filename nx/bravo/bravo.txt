@@ -360,7 +360,7 @@ backflowing
 backframe
 backfriend
 bottegas
-backgammon
+backgammon 1
 board
 batete
 barwares
