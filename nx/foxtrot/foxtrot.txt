@@ -3500,7 +3500,7 @@ faster
 fussier
 firmisternial
 fabiform
-figgiest
+figgiest 1
 frayn
 fanfares
 frostfishes
