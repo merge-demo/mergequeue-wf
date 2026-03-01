@@ -12745,7 +12745,7 @@ escarps
 engraff
 emetically
 easeful 1
-esprove
+esprove 1
 enurny
 embryography
 exceeds
