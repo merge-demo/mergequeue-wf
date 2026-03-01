@@ -10829,7 +10829,7 @@ electrosurgical
 esterases
 epitactic
 excitosecretory
-enecate
+enecate 1
 engrafts
 existlessness
 embracer
