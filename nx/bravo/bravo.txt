@@ -9356,7 +9356,7 @@ base
 beerhouses
 belgard
 birdbaths
-broomroot
+broomroot 1
 barony 1
 brabbles
 besogne
