@@ -292,7 +292,7 @@ fotive
 flakily
 forecasters
 flock
-foreshortening
+foreshortening 1
 fondest
 ford
 floorthrough
