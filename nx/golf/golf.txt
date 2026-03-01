@@ -5135,7 +5135,7 @@ gnatflower
 gaelicize
 gaumed
 goblinesque
-gutturine 1
+gutturine 2
 gentlehearted
 goldcrest
 gimpiest
