@@ -1666,7 +1666,7 @@ fragmentation
 frankers 1
 followership
 fleshless
-figurants
+figurants 1
 formalization
 formulaically
 fieldward
