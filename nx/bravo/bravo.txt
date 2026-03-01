@@ -6894,7 +6894,7 @@ beseige
 botchers
 bescutcheon
 bondservant
-bisannual
+bisannual 1
 bluegills
 birlers
 beshake
