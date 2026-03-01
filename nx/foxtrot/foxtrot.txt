@@ -6045,7 +6045,7 @@ floricultural
 faitour
 floorboard
 fixures
-flashness
+flashness 1
 fantasied
 fructiculose
 fathead
