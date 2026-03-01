@@ -3672,7 +3672,7 @@ gastromalacia
 gulist
 grafters
 gelastic
-garrisonism 1
+garrisonism 2
 gallinae
 gnathite
 goalmouth
