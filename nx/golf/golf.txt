@@ -8491,7 +8491,7 @@ gnatling
 golfing
 genl
 glisten
-gibaro
+gibaro 1
 garum
 gandharva 1
 gekko
