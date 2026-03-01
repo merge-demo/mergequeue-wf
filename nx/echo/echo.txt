@@ -2180,7 +2180,7 @@ elucidators
 epizoan
 endocyclic
 elbowy 1
-exceptionableness
+exceptionableness 1
 elbows
 everywoman
 elcaja
