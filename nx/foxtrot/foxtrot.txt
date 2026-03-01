@@ -7479,7 +7479,7 @@ floressence
 fusk
 fatalistic
 foreclose
-foreparent
+foreparent 1
 foolisher 1
 falterers
 fort
