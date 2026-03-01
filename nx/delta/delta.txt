@@ -8654,7 +8654,7 @@ dato
 delfs
 discoloring
 diascope 1
-devilries
+devilries 1
 deists
 domed
 distracted
