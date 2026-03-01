@@ -10396,7 +10396,7 @@ forswore
 footgeld
 firs 1
 feigning
-fumigant
+fumigant 1
 foxgloves
 fulicine
 foliation
