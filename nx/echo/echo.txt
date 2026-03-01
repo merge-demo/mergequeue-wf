@@ -2387,7 +2387,7 @@ entendres 1
 egoistic
 entrenchments
 exultation
-enfleurage
+enfleurage 1
 elsewhat
 eriodictyon
 escamotage
