@@ -3034,7 +3034,7 @@ elymus
 epitomes
 embitterment
 enfield
-eleatic
+eleatic 1
 eleoblast 1
 evaluate 1
 endless
