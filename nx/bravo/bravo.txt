@@ -1287,7 +1287,7 @@ boater
 balander
 bleaberry
 benzopyranyl
-buffont
+buffont 1
 bawdyhouses
 bogtrotter
 balanitis
