@@ -14313,7 +14313,7 @@ acolyte
 airplane
 awakeners
 auletes
-anthotaxis
+anthotaxis 1
 andries
 antagonisation
 analgetic
