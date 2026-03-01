@@ -1054,7 +1054,7 @@ fernambuck
 faro
 falafel
 fumigation
-fumishly
+fumishly 1
 flustration
 firefight
 frontons
