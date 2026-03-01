@@ -2120,7 +2120,7 @@ coapts
 croaker
 coalmonger
 conjunctly
-campanologically
+campanologically 1
 coniology
 capillaceous
 cytophysics
