@@ -7751,7 +7751,7 @@ anomalonomy
 ambuscade
 aldrovanda
 achromaturia
-adequative
+adequative 1
 alchemically
 argillitic
 aflow

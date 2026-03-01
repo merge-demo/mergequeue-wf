@@ -6440,7 +6440,7 @@ foetal
 fudgy
 fanega
 fluctuability
-ferriage
+ferriage 1
 fixup
 farcify
 fluvio
