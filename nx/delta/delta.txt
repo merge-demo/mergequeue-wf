@@ -10797,7 +10797,7 @@ dipteraceae
 dipterygian
 dipteryx
 deinodontidae
-dipterocarpaceae
+dipterocarpaceae 1
 dartingly
 disheritment
 damageous
