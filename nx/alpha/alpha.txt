@@ -6469,7 +6469,7 @@ annulosan
 adderwort
 auksinu
 awk
-abjunctive
+abjunctive 1
 aidful
 afer
 aiding
