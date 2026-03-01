@@ -1330,7 +1330,7 @@ epithalamion
 ensnares 1
 ephemerae
 essaying
-encircler
+encircler 1
 epoxyed
 estrado
 enteroid
