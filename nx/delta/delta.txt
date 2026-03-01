@@ -11650,7 +11650,7 @@ daggletail
 dreamlessness 1
 deconsecrated
 diapnoe
-defectionist
+defectionist 1
 discontinuities
 dicatalexis 1
 dsect
