@@ -9849,7 +9849,7 @@ dentile
 dragonesque 1
 diesis
 dynamometamorphism
-deepmouthed
+deepmouthed 1
 disfranchising
 disillusionizer
 deviancies
