@@ -13715,7 +13715,7 @@ extrajudicially
 externe
 evolutoid
 epistolic
-excursionize
+excursionize 1
 eikon
 enginous
 evasive
