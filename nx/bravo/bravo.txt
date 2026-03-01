@@ -4224,7 +4224,7 @@ bullswool
 beastlings
 bethorn 1
 bulgy
-barracoutas
+barracoutas 1
 beastship
 benches
 bleery

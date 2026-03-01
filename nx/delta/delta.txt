@@ -4429,7 +4429,7 @@ didelphic
 deglamorization
 deradelphus
 demibob
-dungari
+dungari 1
 dendrological
 device
 dabchick
