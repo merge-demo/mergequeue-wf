@@ -4568,7 +4568,7 @@ disavows
 discernment
 deoxidator
 dialectologist
-deperming
+deperming 1
 disgust
 dinarchy
 dackers 1
