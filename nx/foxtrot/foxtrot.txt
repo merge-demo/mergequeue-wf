@@ -6052,7 +6052,7 @@ fathead
 foliosity
 floorcloths
 fumid
-fibrillate
+fibrillate 1
 fluidizing
 figlike
 foreplays
