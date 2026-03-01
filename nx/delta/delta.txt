@@ -12252,7 +12252,7 @@ deviators
 dysfunctions
 disfurnish
 deathshot
-dervishes
+dervishes 1
 dollhouse
 disfurniture
 donax
