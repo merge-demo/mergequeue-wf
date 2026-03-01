@@ -2334,7 +2334,7 @@ gnarled
 garrulously
 ghazal
 glandulousness
-glossa
+glossa 1
 guerdonable
 gelotherapy
 goblinize

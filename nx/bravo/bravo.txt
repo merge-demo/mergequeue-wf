@@ -12526,7 +12526,7 @@ betaines
 betrayed
 bondstone
 badiaga
-burntness
+burntness 1
 bagpiped 1
 buphthalmos
 bone
