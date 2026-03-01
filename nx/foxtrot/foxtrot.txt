@@ -2570,7 +2570,7 @@ fleamy
 forgetter
 farad
 frousy
-finlike
+finlike 1
 fieldsmen
 feinting
 fumes
