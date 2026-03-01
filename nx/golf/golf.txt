@@ -8715,7 +8715,7 @@ gabbroic
 glossectomy
 graduator 1
 gimmicky
-gemmiferous
+gemmiferous 1
 gynoecia 1
 grapplement
 goldmist
