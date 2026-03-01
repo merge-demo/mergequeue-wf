@@ -5900,7 +5900,7 @@ geoglossum
 grovers 1
 glumnesses
 groundsill
-gaudies
+gaudies 1
 gederathite
 gibbers
 gauzier
