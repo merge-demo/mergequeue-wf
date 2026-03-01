@@ -26400,7 +26400,7 @@ conveniens 1
 chelidonin
 cotylosaurian
 cotingoid
-chancel
+chancel 1
 cusparine
 calycophoran
 crackpot
