@@ -4079,7 +4079,7 @@ anergias
 admonitrix
 azygos
 alkalinize 1
-archetypist
+archetypist 1
 appendectomies
 adnascent
 adnate
