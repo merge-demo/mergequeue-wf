@@ -2038,7 +2038,7 @@ expungers
 entocyemate 1
 escalops
 enmist
-electrophonically
+electrophonically 1
 eskimo
 epornitic
 embryotic 1
