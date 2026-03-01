@@ -5344,7 +5344,7 @@ flats
 flintworker 1
 frontingly
 fourrag
-flowingness
+flowingness 1
 fauconnier
 foreignism 1
 flawflower
