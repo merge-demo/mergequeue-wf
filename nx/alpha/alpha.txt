@@ -340,7 +340,7 @@ alphin
 aerophone
 arriba
 abdicate
-aberrantly
+aberrantly 1
 aberrants
 apostatically 1
 affenspalte
