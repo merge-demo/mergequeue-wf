@@ -8784,7 +8784,7 @@ amakebe
 anetic
 allocyanine
 antireform
-acromioscapular
+acromioscapular 1
 arbusterin
 archduchesses
 algorismic
