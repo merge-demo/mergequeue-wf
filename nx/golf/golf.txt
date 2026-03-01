@@ -6550,7 +6550,7 @@ gluconeogenetic
 glengarry
 gurgoyle
 guesswork
-gibstaff
+gibstaff 1
 gastrohyperneuria 2
 grapestone
 gigmanically
