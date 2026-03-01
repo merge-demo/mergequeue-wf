@@ -2073,7 +2073,7 @@ epidendron
 embalm
 equites 2
 encrinitic
-enterocinesia
+enterocinesia 1
 elaphurus
 enology
 epimers
