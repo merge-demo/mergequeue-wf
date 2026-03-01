@@ -2776,7 +2776,7 @@ archaist
 acrodactyla 1
 albahaca
 anarithmia
-apologetic
+apologetic 1
 argonauta 1
 adscriptitius
 accise
