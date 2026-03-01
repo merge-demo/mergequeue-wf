@@ -7494,7 +7494,7 @@ fasciculation
 figgum
 ferie
 feroher
-floggable
+floggable 1
 fawnlike
 fumbled
 fisheyes
