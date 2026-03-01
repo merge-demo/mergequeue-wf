@@ -465,7 +465,7 @@ dalibarda
 doomsdays
 dalle
 diamylene
-desmotropic
+desmotropic 1
 deictical
 dividing
 dispence
