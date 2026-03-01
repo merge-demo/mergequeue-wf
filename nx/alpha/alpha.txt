@@ -16007,7 +16007,7 @@ autoradiographic 1
 antirrhinum
 antierysipelas
 aliturgic
-antisacerdotalist
+antisacerdotalist 1
 adjectives
 authorising
 antisaloon
