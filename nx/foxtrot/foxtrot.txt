@@ -2037,7 +2037,7 @@ fireboat
 flindosa
 forwander 1
 faunlike
-fructescence
+fructescence 1
 florins 1
 fascicule
 flaunting
