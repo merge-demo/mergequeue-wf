@@ -9650,7 +9650,7 @@ depass
 dihydroergotamine 1
 derogatorily
 decrepitate
-dissight
+dissight 1
 dipoles
 dexterous
 drona
