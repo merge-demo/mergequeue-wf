@@ -3582,7 +3582,7 @@ featherhead 1
 formant
 farcical
 foulsome
-forborne
+forborne 1
 filamentary 1
 filament
 frankfurt 1
