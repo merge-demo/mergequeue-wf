@@ -4248,7 +4248,7 @@ adrenitis
 adrenochrome
 adrenosterone
 antipyonin
-adrenocorticotrophic
+adrenocorticotrophic 1
 alacrity
 animability
 afterstain
