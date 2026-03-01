@@ -11731,7 +11731,7 @@ biolyses
 bigamies
 bobbish
 bais
-bisync
+bisync 1
 bobcats
 bipeds
 bakes
