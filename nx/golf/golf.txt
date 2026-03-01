@@ -3227,7 +3227,7 @@ gyred
 gutti
 gns
 gropingly
-gigantism
+gigantism 1
 goodhearted 2
 graphophone 1
 gribane
