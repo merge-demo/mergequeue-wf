@@ -3212,7 +3212,7 @@ giron
 gossypose
 girtonian
 gambeered
-glagol
+glagol 1
 goldenwing
 graffage
 grecophil
