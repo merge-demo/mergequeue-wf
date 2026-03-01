@@ -9561,7 +9561,7 @@ boarfish 1
 barbacoan
 bys
 basidium
-belays
+belays 1
 bacchii
 burgul
 baulea
