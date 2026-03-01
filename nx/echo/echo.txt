@@ -11303,7 +11303,7 @@ evangelistary
 edgeboned
 enthronements
 enamor
-enthronized
+enthronized 1
 evangelistic 1
 epedaphic
 epidictical
