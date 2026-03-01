@@ -12318,7 +12318,7 @@ brake
 bhumidar
 byssiferous
 bolt 1
-bluestockings
+bluestockings 1
 boltcutter
 bacilliculture 1
 bookmark
