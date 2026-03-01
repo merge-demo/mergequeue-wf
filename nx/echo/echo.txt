@@ -10885,7 +10885,7 @@ enchase
 elixed
 ethnic
 erechtheus
-euphotic
+euphotic 1
 entailable 1
 equitability
 euryalidan
