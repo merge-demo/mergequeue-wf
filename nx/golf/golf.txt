@@ -8436,7 +8436,7 @@ garbed
 gardevisure 1
 gaseous
 gladiolas
-gales
+gales 1
 gandul
 gliddery
 gooses
