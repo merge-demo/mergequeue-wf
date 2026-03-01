@@ -8474,7 +8474,7 @@ deltoideus
 deviances
 deesis 1
 dapperest
-downset
+downset 1
 directionize
 dodecyl 1
 draconitic
