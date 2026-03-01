@@ -1235,7 +1235,7 @@ frostproofing
 foundery 1
 frizzily
 feminophobe
-fluorography
+fluorography 1
 folds
 fabulosity
 fassalite
