@@ -9018,7 +9018,7 @@ bitting
 biologics
 busybodyish
 bedstands
-bioluminescence
+bioluminescence 1
 beamed
 bacciferous
 bewhite
