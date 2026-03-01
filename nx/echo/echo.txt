@@ -4838,7 +4838,7 @@ epicalyces
 equivocality
 encountered 1
 ensporia
-epiphylaxis
+epiphylaxis 1
 endostea 1
 endothecium
 entomostraca
