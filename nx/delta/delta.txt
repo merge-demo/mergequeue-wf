@@ -1602,7 +1602,7 @@ daks
 deriving
 danda 1
 doe
-digitalized 1
+digitalized 2
 dinginess
 diadrome
 derision
