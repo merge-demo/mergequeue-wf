@@ -10672,7 +10672,7 @@ gemmy
 gabi
 grog
 gelatinobromide
-gurniad
+gurniad 1
 gurl
 goldin
 generalty
