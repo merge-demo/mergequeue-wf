@@ -9632,7 +9632,7 @@ exor
 elaboratively
 endodermal
 extraperiosteal
-entfaoilff
+entfaoilff 1
 ebullitive 1
 episporium
 emptiest
