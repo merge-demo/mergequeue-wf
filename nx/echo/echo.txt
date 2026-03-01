@@ -6979,7 +6979,7 @@ entopic
 elements
 extrasensory 1
 emergency
-elling
+elling 1
 endellionite
 entoplasm
 extramusical
