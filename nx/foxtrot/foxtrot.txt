@@ -732,7 +732,7 @@ fenceress
 flushed
 frustrater
 fringeless
-fana
+fana 1
 furoate
 fluxion
 febres
