@@ -3241,7 +3241,7 @@ guerdons
 gereagle
 gleeful
 ginglymi
-gauze
+gauze 1
 geotropically
 galagala
 gaut
