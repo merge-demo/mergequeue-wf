@@ -962,7 +962,7 @@ enteritidis
 extropical
 escalation
 endocervical
-electrotonic
+electrotonic 1
 exhalatory
 emplaces
 exculpatory 1
