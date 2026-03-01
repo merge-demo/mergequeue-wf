@@ -10394,7 +10394,7 @@ filicoid
 fidding
 forswore
 footgeld
-firs
+firs 1
 feigning
 fumigant
 foxgloves
