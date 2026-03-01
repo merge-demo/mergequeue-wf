@@ -12610,7 +12610,7 @@ disintegrators
 dispirit
 disintegrity
 draughtiness
-disinter
+disinter 1
 disinterest
 disinterestedly
 disheaven
