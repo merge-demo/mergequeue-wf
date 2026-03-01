@@ -12614,7 +12614,7 @@ disinter 1
 disinterest
 disinterestedly
 disheaven
-drisk
+drisk 1
 dimyary
 depersonize 1
 disinters
