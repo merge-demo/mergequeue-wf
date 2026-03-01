@@ -5880,7 +5880,7 @@ beride
 bellowslike 1
 bellpull
 butylating
-babylonish
+babylonish 1
 bucconasal
 blackman
 begaudy
