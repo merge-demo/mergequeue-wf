@@ -2785,7 +2785,7 @@ erythropoiesis
 ectocoelic
 erelong
 elegised 1
-elegising
+elegising 1
 ectoenzym
 elegized
 epifauna 1
