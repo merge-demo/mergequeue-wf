@@ -212,7 +212,7 @@ factorials
 frontenis
 fanons 1
 ferroaluminum
-futurist
+futurist 1
 figuline
 faire
 frogfoot
