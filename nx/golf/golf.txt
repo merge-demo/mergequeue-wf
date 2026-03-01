@@ -2553,7 +2553,7 @@ gyve
 generate
 gangetic
 guitars
-glycogenolytic
+glycogenolytic 1
 generated
 gazetteerage
 gomerel
