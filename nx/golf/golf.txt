@@ -5862,7 +5862,7 @@ gnathostoma
 gelatinisation 1
 gimleted
 gynecide 1
-gentilish
+gentilish 1
 gastrophthisis
 goitrous 1
 groove
