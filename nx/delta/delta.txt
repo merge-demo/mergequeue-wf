@@ -16112,7 +16112,7 @@ dovening
 desireless
 decrescence
 deplasmolysis
-dovetailwise
+dovetailwise 1
 drainway 1
 dowager
 disunify
