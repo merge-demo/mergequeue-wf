@@ -5982,7 +5982,7 @@ choctaws
 crumbcloth
 chenilles
 calcrete
-coppernosed
+coppernosed 1
 cowgirl 1
 catharizing
 catharping
