@@ -4752,7 +4752,7 @@ eccentrical
 elemol
 entrepreneurs 1
 empetrum
-euthermic
+euthermic 1
 embarrass 1
 explore
 encloister
