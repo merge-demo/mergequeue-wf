@@ -7042,7 +7042,7 @@ gooneys
 gesellschaft
 greynesses
 galyaks
-gallic
+gallic 1
 gastrocnemius
 gliocyte
 gesturing
