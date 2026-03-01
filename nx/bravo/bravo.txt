@@ -5170,7 +5170,7 @@ boxholder
 bootmaker
 befouling
 bazookas
-befoulment
+befoulment 1
 biacuminate
 befraught 1
 bepaid
