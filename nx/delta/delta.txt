@@ -7015,7 +7015,7 @@ diatesseron
 deface
 despondence
 despondencies
-droop
+droop 1
 dinder
 despondentness
 dukedom
