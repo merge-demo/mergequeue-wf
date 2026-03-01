@@ -27427,7 +27427,7 @@ clours
 coffeehoused 1
 clake
 chivalrousness
-cousiness
+cousiness 1
 cautionary
 cacesthesis
 curably
