@@ -4489,7 +4489,7 @@ amylin
 administered
 asserve
 adversing
-aphoristical
+aphoristical 1
 amniota
 artesonados
 adversifoliate
