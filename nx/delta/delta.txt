@@ -10662,7 +10662,7 @@ diplonts
 ditetrahedral
 dichlamydeous
 diplophase
-difficultness
+difficultness 1
 deviously
 draying
 divinise
