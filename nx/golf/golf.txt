@@ -4264,7 +4264,7 @@ goboes 1
 genesial
 gynecophorous
 gayals
-gelidness
+gelidness 1
 gorgonia
 gallowsness
 grugrus
