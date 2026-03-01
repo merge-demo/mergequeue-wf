@@ -4074,7 +4074,7 @@ feudal
 filelike
 flareboard
 fungoid
-finishable
+finishable 1
 fucales
 fabrication
 firepink
