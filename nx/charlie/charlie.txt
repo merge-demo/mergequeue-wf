@@ -4650,7 +4650,7 @@ caroche
 clandestinity
 closings
 cyclarthrsis
-colorblindness
+colorblindness 1
 cinchonising
 centricipital
 carolan
