@@ -9602,7 +9602,7 @@ alvearium
 alveolariform
 antihierarchic
 agriological
-alveole
+alveole 1
 alveolectomy
 alveoli
 alveoliform
