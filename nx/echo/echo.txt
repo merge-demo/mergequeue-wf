@@ -13556,7 +13556,7 @@ envolupen
 engl
 evildoer
 exhance
-empanoply
+empanoply 1
 eateries
 exsibilation
 ettarre
