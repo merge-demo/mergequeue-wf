@@ -2505,7 +2505,7 @@ bezonian
 baresark
 backpackers
 bononian
-beanery
+beanery 1
 bargham
 balbutient 1
 batino
