@@ -9199,7 +9199,7 @@ dermomuscular
 doeling 1
 diminutively
 diedric
-depressanth
+depressanth 1
 deuteromorphic 1
 downcomes
 destress
