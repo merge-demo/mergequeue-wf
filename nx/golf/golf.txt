@@ -2005,7 +2005,7 @@ grithman 1
 gimpy
 grenada
 glunched
-goitrogenicity
+goitrogenicity 1
 groof 1
 girling
 greenleek
