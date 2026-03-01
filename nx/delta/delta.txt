@@ -10475,7 +10475,7 @@ dogberrydom
 deda
 dotty
 diphtheric
-denticeti
+denticeti 1
 disallowable 1
 dedicator
 defacement
