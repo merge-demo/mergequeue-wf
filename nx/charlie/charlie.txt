@@ -12770,7 +12770,7 @@ conductory 1
 cantharophilous
 chaenactis
 chun
-chunam
+chunam 1
 camuse
 calcifies
 claros
