@@ -10496,7 +10496,7 @@ fwd
 fisted
 foreskirt
 flche
-frontstall
+frontstall 1
 forstall
 frizes
 ferocity
