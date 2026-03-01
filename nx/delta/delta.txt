@@ -335,7 +335,7 @@ daymark
 doupion
 daimiate
 davallia
-depurates
+depurates 1
 dawdlers
 dihydrated 1
 donnee
