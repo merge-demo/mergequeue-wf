@@ -5856,7 +5856,7 @@ gorlois
 garce
 greenish
 gynephobia
-gluttonize
+gluttonize 1
 goback
 gnathostoma
 gelatinisation 1
