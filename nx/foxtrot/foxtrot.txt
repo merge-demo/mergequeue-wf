@@ -2588,7 +2588,7 @@ falsettos
 franchiser 1
 flecnode
 fibrocytic
-folklorists
+folklorists 1
 ferrogoslarite
 fordam
 forfit
