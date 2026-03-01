@@ -11633,7 +11633,7 @@ fructoses
 ferren
 flyability
 fliping
-fustiness
+fustiness 1
 frontless 1
 faddisms
 fibrinoalbuminous
