@@ -9203,7 +9203,7 @@ grade
 glycocin
 guayule
 guiled
-geologists
+geologists 1
 germanous
 glebe
 gudok
