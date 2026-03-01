@@ -492,7 +492,7 @@ faitours
 fomented
 fainant
 foresign
-felineness
+felineness 1
 fistical 1
 feckfully
 fullonian
