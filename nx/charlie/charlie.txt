@@ -2131,7 +2131,7 @@ campanular 1
 campanulariae
 campanularidae
 campanulatae
-campanulate
+campanulate 1
 chondrosarcomata
 camillus
 cowbells
