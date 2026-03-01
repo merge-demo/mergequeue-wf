@@ -4996,7 +4996,7 @@ beylik
 bemoaning
 bullragged
 brantail
-befits
+befits 1
 breech
 bliaut 1
 barbecueing
