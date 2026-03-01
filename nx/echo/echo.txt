@@ -3992,7 +3992,7 @@ enfamish
 elissa
 emparchment
 exteriorly
-eradiates
+eradiates 1
 evertile 1
 exaltative
 embarrassingly
