@@ -5299,7 +5299,7 @@ amylopectin
 anapnea
 arided
 aphacia
-adulterated
+adulterated 1
 afghans
 aficionadas
 alfridary
