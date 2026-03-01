@@ -5708,7 +5708,7 @@ gonapophysis
 girasols
 gyrolite
 glomerate
-gressorious
+gressorious 1
 graveyards
 geotropism
 gustoes
