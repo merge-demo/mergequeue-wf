@@ -1891,7 +1891,7 @@ excud
 expletives
 esquamulose
 eulima
-eudiometrical
+eudiometrical 1
 eleutherodactyl
 ep
 eddy 1
