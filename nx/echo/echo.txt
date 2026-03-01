@@ -5263,7 +5263,7 @@ evolves
 eskimoid
 expulsions
 erade
-elapsoidea
+elapsoidea 1
 earthshakingly
 expeditating 1
 euhyostyly
