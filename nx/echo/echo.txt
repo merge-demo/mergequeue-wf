@@ -8042,7 +8042,7 @@ enheritage
 ensconced
 energumenon
 ethnomanic
-educables
+educables 1
 expressly
 epinikia
 ecclesiologically
