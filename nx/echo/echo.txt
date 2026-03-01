@@ -10616,7 +10616,7 @@ eventualize
 exhibitory
 elpidite
 electrometallurgical
-euphroes
+euphroes 1
 extinctor
 escallops
 earthiness
