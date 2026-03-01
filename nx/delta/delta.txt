@@ -11612,7 +11612,7 @@ disconnecting
 dungeons
 disconnection
 demicannon
-denotable
+denotable 1
 dollarfish
 detainee
 devillike
