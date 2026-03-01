@@ -12593,7 +12593,7 @@ excusing
 electrophoreses
 enrooted
 exocoelic
-enneagynous
+enneagynous 1
 explant
 emmetropism
 electrostatics
