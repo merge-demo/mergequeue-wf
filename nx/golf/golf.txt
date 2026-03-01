@@ -2314,7 +2314,7 @@ gavials
 graduate
 guaiacols
 goloe 1
-galopin
+galopin 1
 graylag
 gelees
 gangplanks

@@ -12235,7 +12235,7 @@ bavardage
 boleweed
 bowwood
 biometeorology
-bulbous
+bulbous 1
 barbarization
 blandiloquence
 basiparaplastin
