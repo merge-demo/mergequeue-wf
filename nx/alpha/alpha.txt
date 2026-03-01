@@ -3944,7 +3944,7 @@ adjutant
 anesthetic
 airtight 1
 adjute
-aqueity
+aqueity 1
 apologer
 adjutrice
 ambassage

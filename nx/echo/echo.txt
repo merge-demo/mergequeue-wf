@@ -5630,7 +5630,7 @@ encouraging
 eirene
 ecchymose
 exploitations
-enforest
+enforest 1
 ergometric
 enfort
 embarrasses
