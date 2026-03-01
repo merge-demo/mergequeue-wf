@@ -19777,7 +19777,7 @@ armadas
 acetylide
 anhydridize 1
 armadillos
-alliances
+alliances 1
 astrocyte
 arythmically
 aminolytic
