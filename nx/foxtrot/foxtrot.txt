@@ -7502,7 +7502,7 @@ footmen
 fausen
 forehatch
 ferrocerium
-firefall
+firefall 1
 floperoo 1
 firstship
 fellic
