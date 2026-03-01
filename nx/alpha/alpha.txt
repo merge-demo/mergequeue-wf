@@ -3669,7 +3669,7 @@ autodigestion
 adiantiform
 argled
 abnegation
-adenophorous
+adenophorous 1
 accumulative 2
 adenosarcomata
 adiaphoristic
