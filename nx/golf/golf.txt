@@ -5527,7 +5527,7 @@ guaiasanol
 guttiferous
 germinally
 glycidol
-gowning
+gowning 1
 gad
 gamecocks
 gourd
