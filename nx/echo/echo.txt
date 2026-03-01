@@ -3460,7 +3460,7 @@ enterclose
 encyclopaedial
 embannered
 emetine
-equivokes
+equivokes 1
 eremopteris
 endpiece
 egypt
