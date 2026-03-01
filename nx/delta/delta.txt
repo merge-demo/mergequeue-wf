@@ -11797,7 +11797,7 @@ dowering
 decaliters
 default
 dined
-doxology
+doxology 1
 desmogenous
 downshift
 dermutation
