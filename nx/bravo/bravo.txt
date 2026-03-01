@@ -15140,7 +15140,7 @@ burbs
 blusteringly
 bostrychidae
 bulging
-breviconic
+breviconic 1
 bunkered
 biopic
 brevilingual
