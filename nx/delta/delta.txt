@@ -16640,7 +16640,7 @@ deeny
 diaphyses
 drains
 drageoir
-denda
+denda 1
 deponer
 dedifferentiate
 diplarthrous
