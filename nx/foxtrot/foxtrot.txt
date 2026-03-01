@@ -6345,7 +6345,7 @@ footlock
 fakirism
 factory
 frankincensed
-fortifys
+fortifys 1
 filchery
 fescennine
 fuliginosity
