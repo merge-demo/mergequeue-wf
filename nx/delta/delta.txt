@@ -18674,7 +18674,7 @@ dwarfishness
 diademing
 dianite 1
 documentarily
-dwarfisms
+dwarfisms 1
 dermopteran
 darwinically
 debilitant
