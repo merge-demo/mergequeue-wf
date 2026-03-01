@@ -8932,7 +8932,7 @@ filipino 1
 frammit 3
 feedstuff
 flebile 1
-fontinalis
+fontinalis 1
 fessewise
 fidation
 feazed
