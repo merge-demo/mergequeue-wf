@@ -2823,7 +2823,7 @@ disidentify
 dirties
 desiring
 diaclasis
-deculturate
+deculturate 1
 deperm
 dihydronicotine
 dozens
