@@ -3063,7 +3063,7 @@ glucokinin
 globigerine
 gleanable
 glueing 1
-glycyl
+glycyl 1
 gamesters
 goblinism 1
 gilder 1
