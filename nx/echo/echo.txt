@@ -9410,7 +9410,7 @@ emender
 ergonomics
 edelweiss 1
 exilition
-enaliosaurian
+enaliosaurian 1
 eulogistic
 escalloped
 ethylates
