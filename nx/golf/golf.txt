@@ -2981,7 +2981,7 @@ geegaw
 glossocomium 1
 gyrally
 greenstuff
-glorioles
+glorioles 1
 grudgekin
 garboil
 gracy
