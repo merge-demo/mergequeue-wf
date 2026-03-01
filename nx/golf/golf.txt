@@ -351,7 +351,7 @@ grimsire 1
 gremlins
 gauric
 galactotrophy
-gynobasic
+gynobasic 1
 galangin
 gunslinger
 goura
