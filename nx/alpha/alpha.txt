@@ -20564,7 +20564,7 @@ academe
 aldononose
 adoptive
 amie
-apodictive
+apodictive 1
 arthrectomy
 aguish
 alae
