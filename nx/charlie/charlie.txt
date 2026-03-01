@@ -12060,7 +12060,7 @@ chinkiest 1
 committment
 cicada
 cobaltite
-chubby
+chubby 1
 chounce
 coalesced
 cholorrhea
