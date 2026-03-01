@@ -2179,7 +2179,7 @@ epodes
 elucidators
 epizoan
 endocyclic
-elbowy
+elbowy 1
 exceptionableness
 elbows
 everywoman
