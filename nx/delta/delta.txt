@@ -4500,7 +4500,7 @@ dispiritedness
 demihagbut
 dispair
 distressingly
-disenabled
+disenabled 1
 demijambe
 demulcent
 discriminant
