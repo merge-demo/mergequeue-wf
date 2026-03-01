@@ -6521,7 +6521,7 @@ cycadlike
 caveator
 choaty
 caveators
-compares
+compares 1
 crankly 1
 canell
 corallet
