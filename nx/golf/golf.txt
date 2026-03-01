@@ -235,7 +235,7 @@ goajiro
 gomphosis
 genos
 gibbons
-gainage
+gainage 1
 griselda
 geologizing
 grisette
