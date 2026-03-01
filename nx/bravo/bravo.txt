@@ -4798,7 +4798,7 @@ binnacle 1
 bedral
 boltwork
 bedraping
-bedread
+bedread 1
 backups
 baldling
 bed
