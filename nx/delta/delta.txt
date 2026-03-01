@@ -18311,7 +18311,7 @@ dunner
 delicts
 davenports
 dealfishes
-desultorily
+desultorily 1
 dunnish
 drainerman
 diverges
