@@ -10705,7 +10705,7 @@ abides 1
 anomaloflorous
 antiope
 apparentement
-anthropopathically
+anthropopathically 1
 archiepiscopate
 attorneydom
 aits
