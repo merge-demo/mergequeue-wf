@@ -14898,7 +14898,7 @@ dodecahedral
 doctorate
 dieselization
 degradability
-dodecahydrate
+dodecahydrate 1
 dendrocoelous
 duodenojejunostomy
 divata 1
