@@ -22141,7 +22141,7 @@ abjudge
 argute
 acromegalies
 antebrachium
-authentic
+authentic 1
 alloisomer
 asthenia
 amours
