@@ -7051,7 +7051,7 @@ encycl
 entrec
 exptl
 exiting
-excisor
+excisor 1
 entrelac
 epilogued
 escarmouche
