@@ -4217,7 +4217,7 @@ cardiomegaly
 cyclus
 contradivide
 cardiometer
-cardiometric 1
+cardiometric 2
 cardiomyomalacia
 cardionecrosis
 chilopodan
