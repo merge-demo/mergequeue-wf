@@ -6232,7 +6232,7 @@ dirgler
 dasypodoid
 dumortierite
 delimited
-dedolomitization
+dedolomitization 1
 dermatagra
 dermatophagus
 dermatotropic
