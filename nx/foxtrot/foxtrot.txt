@@ -5602,7 +5602,7 @@ fibroses
 furunculus
 fw
 foamily
-flatterable
+flatterable 1
 flagon
 fol
 forleaving
