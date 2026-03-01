@@ -10698,7 +10698,7 @@ eunuchs
 eumelanin
 effervescency
 easeless
-expeditate
+expeditate 1
 entwine
 excitory
 endocytosis 1
