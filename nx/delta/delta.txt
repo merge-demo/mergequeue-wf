@@ -614,7 +614,7 @@ deflowers
 diplacanthidae
 dioscorea
 demiatheist
-deoxyribonucleoprotein
+deoxyribonucleoprotein 1
 dubiocrystalline 1
 dynatrons
 dressership
