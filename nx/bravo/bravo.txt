@@ -17342,7 +17342,7 @@ botanomancy
 becrawled 1
 bogledom
 bliny
-beanbags
+beanbags 1
 bloodmobiles
 bateman
 bunged
