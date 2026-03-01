@@ -3681,7 +3681,7 @@ facticide
 fret
 fiftieths 1
 foredevote
-fibrillar 1
+fibrillar 2
 freshed
 fluffs
 foretype
