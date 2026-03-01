@@ -11735,7 +11735,7 @@ cirrhotic
 chondrioma
 chondriomere
 caryatides
-chondriosphere
+chondriosphere 1
 connaturally
 chondrites
 chondritic
