@@ -1147,7 +1147,7 @@ gasthaus 2
 guidingly
 guapilla
 gaslights
-goosefoot
+goosefoot 1
 gouaree
 gantlines
 gaon 1
