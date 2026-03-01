@@ -2474,7 +2474,7 @@ dandily
 dulls
 deferral
 duds
-dishonourary
+dishonourary 1
 dentifrice
 declaim
 declaimer
