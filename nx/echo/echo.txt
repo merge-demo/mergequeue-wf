@@ -7365,7 +7365,7 @@ exception
 eurypylous
 eternises
 euphemizing
-enact
+enact 1
 electrooptics
 escaping
 entameba
