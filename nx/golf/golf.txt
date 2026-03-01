@@ -1552,7 +1552,7 @@ gar
 grangerised
 ganoidean
 gasterotheca
-gossiped
+gossiped 1
 goodship
 geraniales
 glabellar

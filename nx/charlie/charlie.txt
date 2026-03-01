@@ -25348,7 +25348,7 @@ cornetfishes
 chunkier
 cornetist
 cornetists
-cornets
+cornets 1
 cornetter 1
 cornetti
 cornettino
