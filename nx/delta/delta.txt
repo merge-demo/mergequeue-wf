@@ -13986,7 +13986,7 @@ dichroism
 daubed
 distomes
 devel
-deprecators
+deprecators 1
 dubby
 dystonic
 dacha
