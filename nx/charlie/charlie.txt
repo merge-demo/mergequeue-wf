@@ -19696,7 +19696,7 @@ camarilla
 copintank
 claptrap
 chemisorption
-cariocas
+cariocas 1
 crocko
 clefts
 comatiks
