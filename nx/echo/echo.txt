@@ -2156,7 +2156,7 @@ enleague 1
 emblazing
 epipubes
 embryologists
-elated
+elated 1
 etherealise
 epitria
 exophthalmia
