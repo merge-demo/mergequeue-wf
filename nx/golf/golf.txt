@@ -9224,7 +9224,7 @@ glassworker
 glossalgia
 grandeeship
 ghatti
-griqualander
+griqualander 1
 galop
 grene
 geminis
