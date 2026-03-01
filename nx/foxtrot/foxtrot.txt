@@ -3615,7 +3615,7 @@ fencelet
 flymen
 flenches
 freedstool 1
-forgetable
+forgetable 1
 fractabling
 fixates
 fenceful
