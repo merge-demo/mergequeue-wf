@@ -3482,7 +3482,7 @@ embark
 estadel
 epitomize
 equipage
-exteroceptor
+exteroceptor 1
 equilibrium
 ensky 1
 embarricado
