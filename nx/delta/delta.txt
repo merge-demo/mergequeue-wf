@@ -9441,7 +9441,7 @@ dedit
 displume
 destructively
 digamma 1
-demilegato
+demilegato 1
 downfeed
 dodgier
 disseat
