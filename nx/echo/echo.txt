@@ -4005,7 +4005,7 @@ evenhand
 emunct
 empearl
 electroretinography
-exultancy
+exultancy 1
 epilamellar
 evangelian
 entertake
