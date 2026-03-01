@@ -13497,7 +13497,7 @@ ethnomusicology
 enterparlance
 epidural
 encumbrancer
-endotherm
+endotherm 1
 extraconstitutional
 equidominant
 ethmoidal
