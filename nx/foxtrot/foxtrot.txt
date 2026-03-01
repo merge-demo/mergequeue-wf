@@ -6463,7 +6463,7 @@ fullery
 filionymic
 fronture
 fleche
-furry
+furry 1
 fafnir
 fairlike
 fireworm
