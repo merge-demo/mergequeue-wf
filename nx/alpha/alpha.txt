@@ -15172,7 +15172,7 @@ anisogametes
 anticlergy
 antiforeignism
 arridge
-afrown
+afrown 1
 autometamorphosis
 antiformin
 athrob
