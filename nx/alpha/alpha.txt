@@ -6668,7 +6668,7 @@ atole
 agribusiness
 antispastic
 antiglare
-anaphorical
+anaphorical 1
 armlocks 1
 acrotreta
 asceticism
