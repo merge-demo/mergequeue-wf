@@ -14079,7 +14079,7 @@ circuit
 circuital
 circuiteer
 celibacy
-clyer
+clyer 1
 continues
 cementless
 carbolineate
