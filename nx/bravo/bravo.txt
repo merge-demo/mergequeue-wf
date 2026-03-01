@@ -18009,7 +18009,7 @@ battutas
 biking
 brocho
 boundlessly
-bicornuous
+bicornuous 1
 bromise
 busket
 bondminder
