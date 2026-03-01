@@ -2146,7 +2146,7 @@ foliature
 fawnier
 foalfoot
 frizing
-fallenness 1
+fallenness 2
 flicked
 fleshiest
 foreglance
