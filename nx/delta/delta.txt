@@ -6023,7 +6023,7 @@ darkrooms
 deindustrialize
 dipyramidal
 dodge
-disbursement
+disbursement 1
 deputational
 diarrhoetic
 driegh
