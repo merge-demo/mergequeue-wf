@@ -8696,7 +8696,7 @@ biloxi
 bahisti
 barbells
 bestream
-bifluorid
+bifluorid 1
 blepharostat
 biddie
 blowspray
