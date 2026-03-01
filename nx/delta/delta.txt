@@ -9476,7 +9476,7 @@ defender
 demiplate
 digenite
 dearling
-doedicurus
+doedicurus 1
 demipillar
 dustpans
 decerned
