@@ -2785,7 +2785,7 @@ gentler
 grad
 gutnish
 gadders
-gothish
+gothish 1
 groff
 grangerizing 1
 gingelly
