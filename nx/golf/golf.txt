@@ -10625,7 +10625,7 @@ grossification
 grank
 geogen
 geronto
-geotical
+geotical 1
 greenly
 gossipries
 gyroceracone
