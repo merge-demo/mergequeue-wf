@@ -14080,7 +14080,7 @@ euphausiacea
 exteroceptist
 exorcists
 enterobiliary
-errableness
+errableness 1
 exclude
 ebonizes
 extracurriculum
