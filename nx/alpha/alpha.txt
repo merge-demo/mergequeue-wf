@@ -12960,7 +12960,7 @@ alanyls
 acetylation
 aslop
 asocial
-awakener
+awakener 1
 almight
 authorized
 anhidrotic
