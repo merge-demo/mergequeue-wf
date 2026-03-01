@@ -1757,7 +1757,7 @@ encephaloid
 endangium
 exsanguination
 enginery
-enforced
+enforced 1
 elizabethan
 exasper
 exclaimers
