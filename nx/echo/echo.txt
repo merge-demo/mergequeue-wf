@@ -12546,7 +12546,7 @@ equaeval
 edger
 encrypted
 exsects
-enounce
+enounce 1
 embubble
 exite
 envied 1
