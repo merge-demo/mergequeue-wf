@@ -3610,7 +3610,7 @@ avichi
 adatom
 adenitis
 anticeremonious
-asthenies
+asthenies 1
 aerugos
 allobar
 alces
