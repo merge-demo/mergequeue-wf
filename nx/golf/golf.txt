@@ -9106,7 +9106,7 @@ governableness
 gablatores
 graptolitic
 grumose 1
-gaumlike
+gaumlike 1
 geophagist
 galago
 gastroenterostomy
