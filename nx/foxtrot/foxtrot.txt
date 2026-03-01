@@ -1386,7 +1386,7 @@ fortuneteller
 functional 1
 filmy
 fiddly 1
-festy
+festy 1
 ferryage
 fabronia 1
 fermatas
