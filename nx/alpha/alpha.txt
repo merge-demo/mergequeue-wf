@@ -10825,7 +10825,7 @@ avowable
 amygdales
 alipata
 acutilobate
-affrontiveness
+affrontiveness 1
 aquilian
 ambitiousness
 anapest
