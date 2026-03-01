@@ -18683,7 +18683,7 @@ coinclination
 chaotic
 coinsuring
 cointense
-capacitator
+capacitator 1
 codesigns
 crispy
 countermeasures
