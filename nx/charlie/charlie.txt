@@ -5743,7 +5743,7 @@ countersignal
 catawampous
 coleophora
 countersunken
-catawamptiously
+catawamptiously 1
 catawampus
 cenogenetically
 cerithioid
