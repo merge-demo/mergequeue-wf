@@ -6980,7 +6980,7 @@ disray
 dissension
 despiteously 1
 despites
-dositheans
+dositheans 1
 decease
 disinheritable
 diogenite 1
