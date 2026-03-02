@@ -12454,7 +12454,7 @@ anemotropism
 accersition
 ardours
 antiphlogistian
-apatosaurus
+apatosaurus 1
 amandus
 appositionally
 anticivic
