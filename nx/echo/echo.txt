@@ -2397,7 +2397,7 @@ epidotization
 etherealisation
 exauthorize 1
 excentricity
-electroscopes
+electroscopes 1
 epicaridan
 electrodeless
 eremitical
