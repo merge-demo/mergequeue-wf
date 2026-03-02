@@ -10855,7 +10855,7 @@ furoin
 farset 1
 fishpool
 feasances
-fingertips
+fingertips 1
 forficate
 fulminated
 flaminian
