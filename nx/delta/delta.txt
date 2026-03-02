@@ -2005,7 +2005,7 @@ desugars
 departures 1
 dysesthetic
 decaedron
-decaffeinate
+decaffeinate 1
 decaffeinize 1
 drudgers
 driverless
