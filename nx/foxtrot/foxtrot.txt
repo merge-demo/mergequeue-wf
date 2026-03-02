@@ -8677,7 +8677,7 @@ farstepped
 friesian
 fantasizing
 formamide 1
-faintest
+faintest 1
 footing
 fellatory 1
 flawed 1
