@@ -413,7 +413,7 @@ enteroparalysis
 empetrous
 endevil
 epidiorite
-embouchement
+embouchement 1
 excentral
 enteroneuritis 1
 ebullition
