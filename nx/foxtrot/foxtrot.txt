@@ -9752,7 +9752,7 @@ furiously
 fido
 frenchly
 fissionability 1
-feddan
+feddan 1
 floatable 1
 febris
 footmanry
