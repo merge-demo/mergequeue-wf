@@ -5169,7 +5169,7 @@ enshrine
 eruc
 emporial
 efference
-euchres
+euchres 1
 echeloning
 earwort
 endogenous 1
