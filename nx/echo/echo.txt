@@ -8105,7 +8105,7 @@ expansiveness
 expiator
 embarred
 erythristic
-epigrammatizer
+epigrammatizer 1
 eched
 earnests
 epiphegus
