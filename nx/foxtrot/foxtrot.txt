@@ -3819,7 +3819,7 @@ ferritization 1
 friponerie
 fertilizes
 floribunda
-frocklike
+frocklike 1
 filigreeing 1
 formosan
 forestall
