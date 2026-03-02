@@ -17647,7 +17647,7 @@ coccogone
 coccogoneae
 cataclasm
 concyclically
-coccoidal
+coccoidal 1
 coccolite
 counterresolution
 carpholite
