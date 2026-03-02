@@ -8294,7 +8294,7 @@ diaguitas
 difflugia
 doyenne
 detestableness
-decorousness
+decorousness 1
 dissocial 1
 disabused
 disregardance

@@ -2159,7 +2159,7 @@ felony
 foreignership
 fractioned
 frontiers
-flectional
+flectional 1
 feverless
 falsities
 funnels
