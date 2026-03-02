@@ -10350,7 +10350,7 @@ frenziedness
 forbids
 firms 1
 finfoot
-fingerleaf
+fingerleaf 1
 fingering
 frondeurs
 forecourt
