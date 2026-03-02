@@ -5472,7 +5472,7 @@ coldly
 castoreum
 caftaned
 castorite
-crystallographical
+crystallographical 1
 collarinos
 castrates
 covertical
