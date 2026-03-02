@@ -5052,7 +5052,7 @@ forestcraft
 flavonols
 flickermouse 1
 fringiest 1
-flibbertigibbety
+flibbertigibbety 1
 foundationally
 fleetingness 1
 flood
