@@ -10632,7 +10632,7 @@ deripia
 diplomatically 1
 dysergia
 discanonization
-degraded
+degraded 1
 delative
 dolour
 dinantian
