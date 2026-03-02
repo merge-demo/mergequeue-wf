@@ -7725,7 +7725,7 @@ editorializing
 eightieths
 endotheliomata
 eboulement 1
-expoundable
+expoundable 1
 epideistic
 effluxion
 escalades

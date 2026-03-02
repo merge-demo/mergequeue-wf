@@ -9017,7 +9017,7 @@ benzazide
 bitting
 biologics
 busybodyish
-bedstands
+bedstands 1
 bioluminescence 1
 beamed
 bacciferous
