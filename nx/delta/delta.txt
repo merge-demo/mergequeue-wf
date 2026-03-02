@@ -18185,7 +18185,7 @@ doucepere
 disavowable
 dewlaps
 digress
-degree
+degree 1
 dump
 dineuric
 decolorizing
