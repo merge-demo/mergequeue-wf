@@ -22857,7 +22857,7 @@ corrodiary
 cheirotherium 1
 consequent
 ciconian
-consequential
+consequential 1
 communalist
 chackled
 cacodylic
