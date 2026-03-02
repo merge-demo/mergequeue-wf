@@ -21344,7 +21344,7 @@ angeyok
 adaptometer
 asynchronism
 asyndetic
-androphore
+androphore 1
 amyloses
 amphoras
 antiliturgically
