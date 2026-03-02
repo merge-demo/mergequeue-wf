@@ -8470,7 +8470,7 @@ carriole
 champaka
 calmy
 clubridden 1
-champaks
+champaks 1
 cholines
 commensalistic
 champart
