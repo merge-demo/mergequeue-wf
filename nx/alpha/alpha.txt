@@ -6181,7 +6181,7 @@ agorot
 agos
 afteryears
 anteprostatic
-analogion
+analogion 1
 arsonic
 adyton
 autarkic
