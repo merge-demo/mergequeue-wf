@@ -6368,7 +6368,7 @@ feodality
 fens 1
 fiendship
 foggages
-frigidarium
+frigidarium 1
 financing
 futurable
 flimsier 1
