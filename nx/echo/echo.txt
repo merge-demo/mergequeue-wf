@@ -13184,7 +13184,7 @@ epithetician 1
 epistlar
 endergonic
 eugenist
-exegesis
+exegesis 1
 ethnicize
 euryalus
 espiegleries
