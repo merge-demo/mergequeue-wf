@@ -23982,7 +23982,7 @@ compliancies
 conveniences
 certifications
 curin
-chubb
+chubb 1
 clairvoyancy
 crookshouldered
 conveniencies
