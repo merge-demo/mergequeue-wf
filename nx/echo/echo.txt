@@ -2213,7 +2213,7 @@ esprits
 enchurch
 epimyocardial 1
 eths
-electrovalently
+electrovalently 1
 elderman
 earhole
 eggwhisk
