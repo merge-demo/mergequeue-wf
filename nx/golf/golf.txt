@@ -5825,7 +5825,7 @@ gadolinium
 griddled
 gymnasisia
 gasfiring
-gaultherase
+gaultherase 1
 geolatry
 girdlers
 grandesque
