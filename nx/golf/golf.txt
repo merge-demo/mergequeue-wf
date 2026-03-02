@@ -6056,7 +6056,7 @@ grisset
 grume
 gerim
 gaetuli
-gnaws
+gnaws 1
 gramineous
 gneiss
 grotesquely
