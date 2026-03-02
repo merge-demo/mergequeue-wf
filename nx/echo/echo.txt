@@ -3548,7 +3548,7 @@ emblaze
 emporiums
 emasculatory
 emblazed
-epitaxies
+epitaxies 1
 enserfment
 erke
 exospore
