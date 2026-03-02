@@ -2289,7 +2289,7 @@ begoggled
 bijective
 bioecology
 bannerwise
-bigmouths
+bigmouths 1
 bacons
 blastment
 breccial
