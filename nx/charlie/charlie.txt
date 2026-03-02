@@ -18450,7 +18450,7 @@ cucullated
 conclude
 canmaking
 componentry
-cognitional
+cognitional 1
 cognitive 1
 cognitively
 cognizable
