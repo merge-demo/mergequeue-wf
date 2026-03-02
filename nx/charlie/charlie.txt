@@ -16301,7 +16301,7 @@ chicky
 callainite
 clypeastrina
 circumvolutory
-clypeastroid
+clypeastroid 1
 carnivaller
 cognitivity
 clypeate
