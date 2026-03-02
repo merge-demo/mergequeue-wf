@@ -23245,7 +23245,7 @@ attingent
 aggro
 apple
 androcratic
-apophasis
+apophasis 1
 attitudinised
 attitudiniser
 amphimictically
