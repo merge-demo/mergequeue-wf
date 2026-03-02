@@ -20410,7 +20410,7 @@ armenize
 antejentacular
 avowe
 antalgic
-ameliorable
+ameliorable 1
 adoxy 2
 antiwit
 adorably
