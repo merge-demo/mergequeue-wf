@@ -13673,7 +13673,7 @@ dissyllable
 dialecticism
 depositure
 davidsonite
-diadoche
+diadoche 1
 dashboard
 dignitarial
 dolce 1
