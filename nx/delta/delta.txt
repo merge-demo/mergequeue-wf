@@ -15941,7 +15941,7 @@ depurition
 danios
 dearness
 diple
-digonal
+digonal 1
 dermestidae
 dimethoxy
 discoloured
