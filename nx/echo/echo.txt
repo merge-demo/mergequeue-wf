@@ -12484,7 +12484,7 @@ excursionism
 etiogenic
 enki
 elfdom
-epacme
+epacme 1
 eluviates
 enteropneusta
 erythrophage
