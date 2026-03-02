@@ -4402,7 +4402,7 @@ apsides
 amang
 aldoxime
 aftmost
-adv
+adv 1
 archbanc
 acquiescency
 archimago 1
