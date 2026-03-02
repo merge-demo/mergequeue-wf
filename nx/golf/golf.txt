@@ -7584,7 +7584,7 @@ gongoristic
 geothlypis
 guardless
 grando
-gradualness
+gradualness 1
 galenites 1
 ganglioplexus
 generousness 1
