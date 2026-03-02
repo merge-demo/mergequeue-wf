@@ -15812,7 +15812,7 @@ camisades 1
 coelenteron 1
 cascara
 calentured
-commis
+commis 1
 cleat
 contorniate
 cleated
