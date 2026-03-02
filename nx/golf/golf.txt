@@ -1219,7 +1219,7 @@ generalizations
 gondolas
 gambolled
 galligaskin 1
-graspingly
+graspingly 1
 gravures
 giddy 1
 grogged
