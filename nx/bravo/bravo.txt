@@ -2915,7 +2915,7 @@ barracouta
 brushlessness
 bicep
 bartenders
-bridebowl
+bridebowl 1
 boskage
 bedlamise
 baboosh
