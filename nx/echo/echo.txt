@@ -13283,7 +13283,7 @@ explanting
 exocoelom
 exertive
 ety
-endemical
+endemical 1
 ethize
 effaceable
 edacity
