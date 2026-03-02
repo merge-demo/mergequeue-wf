@@ -3442,7 +3442,7 @@ geggery
 gesturist
 gelseminic 1
 geek
-gleaners
+gleaners 1
 gerate
 grayware
 graphologist
