@@ -1987,7 +1987,7 @@ cumulose
 cyprinodont
 camerae
 curbless
-citizenship
+citizenship 1
 coterell
 creationism
 cameralism

@@ -7207,7 +7207,7 @@ esophagometer
 egoize
 episterna
 eumenidae
-embarment
+embarment 1
 enwall
 edgiest 1
 extensibleness
