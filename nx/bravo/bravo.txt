@@ -2733,7 +2733,7 @@ bluebreast
 besnivel
 biocoenoses 1
 burnettizing
-birefractive
+birefractive 1
 boraxes
 blurrier
 beakhead
