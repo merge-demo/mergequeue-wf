@@ -12469,7 +12469,7 @@ embain
 enneadic 1
 electrifying
 ebulliently
-electroosmosis
+electroosmosis 1
 etheneldeli
 enomania
 escarbuncle
