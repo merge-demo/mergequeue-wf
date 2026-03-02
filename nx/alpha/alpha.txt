@@ -940,7 +940,7 @@ absolving
 abstort
 afterings
 apodemata
-astriction
+astriction 1
 atomistics
 aldolize
 animous
