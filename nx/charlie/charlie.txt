@@ -26764,7 +26764,7 @@ cautions 1
 counterdance
 counterdeclaration
 chromeplated
-cadweed
+cadweed 1
 counterdemonstrate
 coinages
 counterdeputation
