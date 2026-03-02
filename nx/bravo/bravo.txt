@@ -8747,7 +8747,7 @@ barchans
 bimethyls
 bromous 1
 bromohydrate
-buoyancies
+buoyancies 1
 bridie
 bubblingly
 bimodule
