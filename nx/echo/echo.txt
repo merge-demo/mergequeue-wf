@@ -4247,7 +4247,7 @@ epicenism
 executiveness 1
 endungeon
 enterochlorophyll
-eosinophilous
+eosinophilous 1
 eerie
 endoperidium 1
 empirically 1
