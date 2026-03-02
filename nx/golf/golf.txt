@@ -1555,7 +1555,7 @@ gasterotheca
 gossiped 1
 goodship
 geraniales
-glabellar
+glabellar 1
 grizzly 1
 gougers
 gunreach
