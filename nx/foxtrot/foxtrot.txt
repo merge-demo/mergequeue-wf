@@ -1082,7 +1082,7 @@ fossorial
 frighted
 ferula
 fishling
-fastback
+fastback 1
 farrisite
 flashed 1
 foreordain 1
