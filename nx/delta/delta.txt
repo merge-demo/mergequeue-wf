@@ -14905,7 +14905,7 @@ divata 1
 dermophytic
 delabialization
 dihedrals
-deploys
+deploys 1
 determinableness
 drogue
 declinal
