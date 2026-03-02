@@ -9012,7 +9012,7 @@ fuddle
 flavine
 functionnaire
 fernless
-flabellarium
+flabellarium 1
 fragrantly
 fiefdoms
 foreshadower
