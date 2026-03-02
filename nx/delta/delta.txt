@@ -6060,7 +6060,7 @@ dilli
 dehumanise
 diagnostication 1
 dognapper
-disaster
+disaster 1
 depressiveness
 deputizing
 degraders
