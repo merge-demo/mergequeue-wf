@@ -9335,7 +9335,7 @@ bawdry
 buzuki
 birched
 barkers 1
-birchers
+birchers 1
 bewater
 birchwood
 bromidrosis
