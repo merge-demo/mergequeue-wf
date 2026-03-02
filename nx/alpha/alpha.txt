@@ -8419,7 +8419,7 @@ ammoniticone
 alalia 1
 alkies
 assessable
-accelerograph
+accelerograph 1
 alkylarylsulfonate
 anticyclically 1
 anallergic
