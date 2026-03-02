@@ -943,7 +943,7 @@ eumolpique 1
 eclosion
 endopolyploidy
 endothermism
-ectosarc
+ectosarc 1
 essoining
 exercises
 ethenoid
