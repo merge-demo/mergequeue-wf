@@ -4451,7 +4451,7 @@ girondin
 grippes 1
 gristles
 geophytes
-geomagnetism
+geomagnetism 1
 girdled
 gloeocapsoid
 grantiidae
