@@ -9316,7 +9316,7 @@ enculturation 1
 epileptically
 esthesio
 enuretic
-erythritic
+erythritic 1
 euchologia
 educt
 emetics
