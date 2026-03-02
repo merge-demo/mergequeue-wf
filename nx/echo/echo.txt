@@ -9874,7 +9874,7 @@ elocular
 epidemical
 epistases
 enodally 1
-encave
+encave 1
 epididymectomy
 ear
 electrotelethermometer
