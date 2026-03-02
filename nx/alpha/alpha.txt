@@ -24462,7 +24462,7 @@ allow
 autotelism
 antipharmic
 arrenotoky 1
-amidothiazole
+amidothiazole 1
 appendiculariidae
 antiutilitarianism
 autoanticomplement
