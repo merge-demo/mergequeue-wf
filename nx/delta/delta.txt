@@ -11094,7 +11094,7 @@ disappropriate
 distrusting
 deferring 1
 delassement
-determinateness
+determinateness 1
 disapprovals
 demagog
 delousing
