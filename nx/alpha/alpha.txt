@@ -9909,7 +9909,7 @@ anthocephalous 1
 ambidexterities
 andorite
 anthracemia
-ambidextral
+ambidextral 1
 accusation
 avidya
 ambidextrously
