@@ -375,7 +375,7 @@ gadgetries
 gradeless
 genuflexuous
 galatea 1
-glucogenesis
+glucogenesis 1
 gapeworm
 gispin
 galaxias
