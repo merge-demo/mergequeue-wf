@@ -4308,7 +4308,7 @@ demaree
 dying
 detenu
 deciduate
-delectation
+delectation 1
 drawlers
 discophora
 dramatizer
