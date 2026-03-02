@@ -21929,7 +21929,7 @@ anemochoric
 aquiver
 apostolize
 aeriest
-anatripsis
+anatripsis 1
 associativeness
 adicity
 antinion
