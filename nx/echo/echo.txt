@@ -3789,7 +3789,7 @@ etruscans
 embrocates
 efflower
 erugation 1
-electroendosmotic
+electroendosmotic 1
 entophytal
 economite
 epigonium
