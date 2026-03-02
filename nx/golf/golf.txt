@@ -9691,7 +9691,7 @@ glaucoma
 gyrose
 guzzles 1
 gestureless
-guamuchil
+guamuchil 1
 gamogony
 gibuses
 gypsuming

@@ -9210,7 +9210,7 @@ diehard
 dropline 1
 diehards
 dieyerie
-disguiser
+disguiser 1
 dentinoma
 dements
 downcourt
