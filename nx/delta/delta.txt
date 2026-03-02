@@ -6556,7 +6556,7 @@ dipole
 dockize
 disematism
 dation
-dendrologic
+dendrologic 1
 dacoited
 demythologizes
 deescalating
