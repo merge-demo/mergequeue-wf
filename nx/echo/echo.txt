@@ -12128,7 +12128,7 @@ elonite
 excellencies
 ejam
 eg
-exhaustable
+exhaustable 1
 epoxide
 eyelike
 extravertively
