@@ -22336,7 +22336,7 @@ congratulations
 congratulatory 1
 congree
 commandant
-competitory
+competitory 1
 congregable
 congreganist
 cryptopin
