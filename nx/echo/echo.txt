@@ -5474,7 +5474,7 @@ energesis
 epilobium
 escript
 entranced
-estheses
+estheses 1
 energeticness 1
 epacrid
 emollient
