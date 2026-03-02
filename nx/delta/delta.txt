@@ -1245,7 +1245,7 @@ delacerate
 drosograph 1
 datisi
 desugared
-decapitate
+decapitate 1
 deutovum
 disspread
 dreamlore
