@@ -4342,7 +4342,7 @@ greenhornism 1
 glucose
 graphicalness
 guz
-gasterosteid
+gasterosteid 1
 gondi
 gayway
 grandam 1
