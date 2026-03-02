@@ -11982,7 +11982,7 @@ brigatry
 bogeyman
 banishers
 broommaker
-bloomiest
+bloomiest 1
 bosser 1
 bepaints
 bogeymen
