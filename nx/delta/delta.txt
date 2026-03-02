@@ -15088,7 +15088,7 @@ dogie
 dispermous
 deboshed
 dekabrist
-denotations
+denotations 1
 dufrenite
 daintily
 dumping
@@ -17030,7 +17030,7 @@ doberman
 dumas
 divinityship
 discumber
-denning
+denning 1
 dobbed
 dissents
 dielectrically

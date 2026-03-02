@@ -1773,7 +1773,7 @@ engining
 etherifies
 emir
 effeminized 2
-excoriations
+excoriations 1
 ephebes
 endoneurial
 epilogue
@@ -2458,7 +2458,7 @@ electroendosmosis
 epoist
 enslavements
 entozoologically
-eponymic
+eponymic 1
 exquisiteness
 electroextraction
 eyemark
@@ -3789,7 +3789,7 @@ etruscans
 embrocates
 efflower
 erugation 1
-electroendosmotic
+electroendosmotic 1
 entophytal
 economite
 epigonium
@@ -9720,7 +9720,7 @@ entoptoscopic
 evenminded
 epistomata
 erethism
-envapor
+envapor 1
 exanthematous
 erwinia
 essayed
@@ -9930,7 +9930,7 @@ euphuists
 estovers
 externship 1
 emphasis
-eocene
+eocene 1
 epicentrum
 especialness 1
 equicellular
@@ -13792,7 +13792,7 @@ evaporatively
 expuition
 exorcize
 extortioners
-epimorphism
+epimorphism 1
 ethnicism
 egyptologist
 euge
