@@ -264,7 +264,7 @@ daguerreotyping
 digitonin
 dreadnaught
 docken
-disaccustomedness
+disaccustomedness 1
 disassiduity
 doliolidae 2
 diagraming
