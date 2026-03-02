@@ -18279,7 +18279,7 @@ diagrammeter
 dinaric
 dishes
 dervishhood
-dogged
+dogged 1
 diaderm
 duplicidentata
 decoy
