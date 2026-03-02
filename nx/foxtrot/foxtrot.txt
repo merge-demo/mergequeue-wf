@@ -6791,7 +6791,7 @@ feldspath
 fawny
 fogon
 frugally
-farthings
+farthings 1
 formalise
 fibroadenoma
 fragilities
