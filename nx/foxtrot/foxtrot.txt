@@ -37,7 +37,7 @@ frambesia 1
 fineless
 federatist
 freeman
-floodlet
+floodlet 1
 fluvious
 fourchee
 figeter
