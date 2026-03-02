@@ -15368,7 +15368,7 @@ blisterwort
 bohorok
 boisterously
 blandest
-briefness 1
+briefness 2
 bleeds
 bedstaves
 bisquette
