@@ -2205,7 +2205,7 @@ amyotaxia
 aethereal
 antecabinet
 armoniac
-aphotaxis
+aphotaxis 1
 alleviation
 achrodextrinase
 anticentralism 1
