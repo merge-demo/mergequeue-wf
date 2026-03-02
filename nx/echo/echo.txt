@@ -8599,7 +8599,7 @@ electre
 eburneous
 ensorcerize
 erase
-efficacious
+efficacious 1
 eumorphic
 epeiric
 exequy
