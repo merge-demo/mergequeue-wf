@@ -6982,7 +6982,7 @@ grooty
 greengrocers
 gyrovague
 goofed 1
-glossodynamometer
+glossodynamometer 1
 gaviae
 griefless
 geographize
