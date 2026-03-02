@@ -7560,7 +7560,7 @@ epilimnionia
 electropotential
 everywhence
 ensheathed
-escarteled
+escarteled 1
 epiboulangerite
 episomes
 epidermically
