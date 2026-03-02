@@ -42,7 +42,7 @@ baccies
 bestialized
 bureaucrat
 banshie
-blameableness
+blameableness 1
 baptises 1
 berreave
 begulfs
