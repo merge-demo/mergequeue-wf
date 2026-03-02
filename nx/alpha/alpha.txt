@@ -6210,7 +6210,7 @@ agraphic
 accidentalism
 acrocyanosis
 aylet
-ashur
+ashur 1
 amyelonic
 aerotactic
 amphibolic
