@@ -17287,7 +17287,7 @@ bore
 benzotrifluoride
 bopyrus
 bind
-batwing
+batwing 1
 bottommost 1
 bunkhouse 1
 bucoliast
