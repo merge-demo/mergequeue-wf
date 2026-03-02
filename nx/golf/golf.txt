@@ -5418,7 +5418,7 @@ groundflower
 gasalier
 galoshe
 grab
-gunsman
+gunsman 1
 gender 1
 granomerite
 galliwasp 1
