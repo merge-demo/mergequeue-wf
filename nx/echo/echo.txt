@@ -9720,7 +9720,7 @@ entoptoscopic
 evenminded
 epistomata
 erethism
-envapor
+envapor 1
 exanthematous
 erwinia
 essayed
