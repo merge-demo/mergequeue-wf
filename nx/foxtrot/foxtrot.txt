@@ -10761,7 +10761,7 @@ frettage 1
 focuses
 felup
 floatmaker
-footrope
+footrope 1
 flagstaves
 fireboot
 fausant
