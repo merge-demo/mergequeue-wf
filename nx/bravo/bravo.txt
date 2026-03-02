@@ -2683,7 +2683,7 @@ barkless
 benzofuroquinoxaline
 bescorch
 batrachite
-beeth
+beeth 1
 basilinna
 buckstall
 bescour 1

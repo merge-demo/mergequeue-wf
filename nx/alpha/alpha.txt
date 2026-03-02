@@ -8841,7 +8841,7 @@ allomorphite
 allonym
 alongst
 apprizement
-allonymous
+allonymous 1
 amidism
 allonyms
 allonomous
