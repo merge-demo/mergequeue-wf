@@ -6395,7 +6395,7 @@ acquaintances
 anthoclinium
 academician
 artifex
-ampullar
+ampullar 1
 agit
 anzanian
 archchief
