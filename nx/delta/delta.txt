@@ -16267,7 +16267,7 @@ downriver
 didelphidae
 diagnostically
 disvalue
-dephlegmatize
+dephlegmatize 1
 dibbler
 dragonism
 dainteth
