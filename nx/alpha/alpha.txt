@@ -9482,7 +9482,7 @@ algorithmic 1
 abstention
 astronautical
 autoionization
-agglomerations
+agglomerations 1
 alexipharmical
 angiographic
 amuse
