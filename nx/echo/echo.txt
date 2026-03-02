@@ -2333,7 +2333,7 @@ epicotyl
 eagled
 eyras
 electroacoustic 2
-electroacoustics
+electroacoustics 1
 enthetic 1
 enticeable
 exundation 1
