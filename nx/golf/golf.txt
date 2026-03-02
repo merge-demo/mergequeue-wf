@@ -6663,7 +6663,7 @@ gainsayer
 gibelite
 gavelling
 grint
-growable
+growable 1
 gromatic
 gaea 1
 goaler
