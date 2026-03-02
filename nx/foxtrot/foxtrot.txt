@@ -2854,7 +2854,7 @@ furunculosis
 farrand 1
 formol 1
 forebemoan
-feltyfare
+feltyfare 1
 fisty
 finable
 foresails
