@@ -20522,7 +20522,7 @@ clinophobia
 compatibility
 compatibilities 1
 cainism
-condors
+condors 1
 compatible
 clouts
 connascent
