@@ -24641,7 +24641,7 @@ avalon
 autoeroticism 1
 affich
 amicicide
-avantage
+avantage 1
 ablated
 ataxaphasia
 avaram
