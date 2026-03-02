@@ -7411,7 +7411,7 @@ fetting
 frowy
 fudder
 fibrotic
-focimeter
+focimeter 1
 federally
 feldspathoid
 fossulate
