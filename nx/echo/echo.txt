@@ -7257,7 +7257,7 @@ evidences
 equalizer
 enwove
 entender
-equipages
+equipages 1
 euvrou
 electrodialytic
 epistasis
