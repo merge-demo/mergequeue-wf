@@ -6713,7 +6713,7 @@ flintily
 footpath
 fillip
 forevouched
-fringent 1
+fringent 2
 firca
 foehnlike
 furcilia
