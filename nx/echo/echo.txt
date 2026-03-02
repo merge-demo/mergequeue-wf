@@ -2715,7 +2715,7 @@ excitors
 expel
 eradicatory
 enduros
-ethyne
+ethyne 1
 errantry
 elmy
 electrotheraputic
