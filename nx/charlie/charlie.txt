@@ -9912,7 +9912,7 @@ chemosurgery
 chemotactic
 cresylene
 coenamors
-chemotaxy
+chemotaxy 1
 cutlasses
 collocatory
 controls
