@@ -5072,7 +5072,7 @@ bergeres
 bemas 1
 befeather
 becoming 1
-berwick
+berwick 1
 beeswax
 bodger
 biloculine
