@@ -2717,7 +2717,7 @@ flapjacks
 foreweigh
 fungused
 firebird
-feigher
+feigher 1
 felt
 frost
 fraxetin
