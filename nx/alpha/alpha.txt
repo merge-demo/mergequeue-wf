@@ -1533,7 +1533,7 @@ accompli
 allanitic
 anathemize
 antispasmodic 1
-archmediocrity
+archmediocrity 1
 astrocytomata
 adenemphraxis
 accompliceship
