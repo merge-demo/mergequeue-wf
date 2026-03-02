@@ -1786,7 +1786,7 @@ asphyxies
 addle
 aglipayano
 arabis
-agamoid
+agamoid 1
 apochromatic
 acedias
 absolvitor
