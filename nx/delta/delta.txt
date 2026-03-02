@@ -872,7 +872,7 @@ droppy 1
 determent
 derry
 dreepiness
-dilacerated
+dilacerated 1
 dispassion
 dantology
 dashpots
