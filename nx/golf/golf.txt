@@ -515,7 +515,7 @@ germanium 1
 gastraea
 gesneriaceae
 gammerstang
-glibnesses
+glibnesses 1
 gogo
 gritten 1
 grapiest
