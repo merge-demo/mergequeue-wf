@@ -6159,7 +6159,7 @@ exostoses
 elans
 euchred
 espresso
-eosinophilia
+eosinophilia 1
 evictee
 enneagonal
 enrolling
