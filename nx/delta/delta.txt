@@ -10543,7 +10543,7 @@ denoting 1
 diacidic
 dipleural 1
 docetically
-daedal
+daedal 1
 demigrate
 dionysian
 dimeric
