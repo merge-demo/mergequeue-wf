@@ -11943,7 +11943,7 @@ enragement
 expurgation
 ephidrosis
 excerebration
-ephemeralities
+ephemeralities 1
 educative
 endemiology
 eudaemonistically
