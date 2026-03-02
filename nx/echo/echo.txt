@@ -9797,7 +9797,7 @@ efficiencies
 encouragements
 euphrates 1
 expenthesis
-exalbuminous
+exalbuminous 1
 electroplate 1
 encrinite
 enlight
