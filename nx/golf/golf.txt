@@ -4456,7 +4456,7 @@ girdled
 gloeocapsoid
 grantiidae
 griffin
-gyre
+gyre 1
 gainst
 gigmanic
 grammontine
