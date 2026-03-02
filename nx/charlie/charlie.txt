@@ -24476,7 +24476,7 @@ curette
 copa
 carrs
 carphophis
-confraternity
+confraternity 1
 cestuy
 copacetic 1
 creammaking
