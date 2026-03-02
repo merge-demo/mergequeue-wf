@@ -831,7 +831,7 @@ geomant
 gilded 1
 gameness
 grandiflora
-galvanizes
+galvanizes 1
 gamp 1
 gynodioecism
 gadis
