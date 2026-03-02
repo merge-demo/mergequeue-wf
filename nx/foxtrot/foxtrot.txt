@@ -4171,7 +4171,7 @@ freeheartedly
 fireback 1
 flagellative
 frogleaf
-foregone
+foregone 1
 farmy
 fellowshipping
 fenchyl
