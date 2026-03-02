@@ -12686,7 +12686,7 @@ effrontery 1
 epicotyledonary
 eradicable
 exonerating
-ephemerous
+ephemerous 1
 euclase
 episcopicide
 enode
