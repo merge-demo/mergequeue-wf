@@ -6092,7 +6092,7 @@ floralize
 foretypified
 fructiform
 focusless
-frottage 1
+frottage 2
 fluty 1
 fogo 3
 folliculate
