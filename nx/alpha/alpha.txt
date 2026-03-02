@@ -8422,7 +8422,7 @@ assessable
 accelerograph 1
 alkylarylsulfonate
 anticyclically 1
-anallergic
+anallergic 1
 agnate
 alkylate
 atremate
