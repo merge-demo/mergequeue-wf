@@ -899,7 +899,7 @@ gyrograph
 gainable
 gammerel
 gammock 1
-gillnetted
+gillnetted 1
 gainsaid
 groper
 glassiness 1
