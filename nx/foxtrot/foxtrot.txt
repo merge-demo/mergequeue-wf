@@ -5630,7 +5630,7 @@ fratch
 fortunetelling
 furacious
 forfault
-fallaciously
+fallaciously 1
 filamentar
 fiendlike 1
 fossicking
