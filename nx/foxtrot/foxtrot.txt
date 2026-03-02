@@ -1525,7 +1525,7 @@ foamers
 flatdom
 franklinite
 forfends
-fauntleroy
+fauntleroy 1
 frousty
 freely 1
 fesses
