@@ -12060,7 +12060,7 @@ diaspidinae
 dogtooth
 deciduousness
 deambulatory
-devotionist
+devotionist 1
 dyehouse
 donut 1
 deacon
