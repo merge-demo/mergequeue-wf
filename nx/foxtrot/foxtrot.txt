@@ -5747,7 +5747,7 @@ forbearant 1
 falsework
 fibrohemorrhagic
 fuseplug
-friended
+friended 1
 fantasias
 firking
 fountains 1
