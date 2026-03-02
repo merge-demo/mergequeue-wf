@@ -8652,7 +8652,7 @@ grocerly
 gyneconitis
 grapy
 geyser
-glossless
+glossless 1
 gritty 1
 gres
 galerum
