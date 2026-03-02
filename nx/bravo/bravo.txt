@@ -12510,7 +12510,7 @@ blotchily 1
 boucherize
 bookroom
 buckbrush
-bewig
+bewig 1
 bechained
 bawdrick 1
 bierbalk
