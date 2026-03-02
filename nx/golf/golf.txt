@@ -9390,7 +9390,7 @@ galtonia
 gadrooned
 grosgrains
 genuflector
-globiferous
+globiferous 1
 gurdle 1
 glaciologic
 glucinium
