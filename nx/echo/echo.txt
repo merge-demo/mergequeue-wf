@@ -3752,7 +3752,7 @@ encyrtidae
 erythromycin
 expectant 1
 elec
-eluates
+eluates 1
 evea
 epichirema
 embryophore 1
