@@ -7442,7 +7442,7 @@ bedgown
 banilad
 belgians
 betread 1
-banning
+banning 1
 betrothing
 betrothment
 bacteriopurpurin
