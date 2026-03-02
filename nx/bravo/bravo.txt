@@ -2845,7 +2845,7 @@ barites
 bolding
 bell 1
 betulaceous 1
-bullated
+bullated 1
 baroqueness
 boneache
 blonder
