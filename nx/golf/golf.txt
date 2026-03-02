@@ -3784,7 +3784,7 @@ grungier
 gritter
 geromorphism
 gibbosely
-gibbous
+gibbous 1
 ganching
 glissandi
 gossypol
