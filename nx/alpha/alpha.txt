@@ -12421,7 +12421,7 @@ anemologic
 anemometrically
 achene
 attenuated
-aphaeretic
+aphaeretic 1
 amanuenses
 anemometrographically
 alfilaria
