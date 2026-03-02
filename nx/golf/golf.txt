@@ -3912,7 +3912,7 @@ gleeting 1
 garrisons
 gipsy
 gulaman 1
-gutser
+gutser 1
 garote 1
 gatchwork
 gnarls

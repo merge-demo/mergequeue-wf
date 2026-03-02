@@ -6913,7 +6913,7 @@ eelskin
 ealdorman 2
 ermine
 exults
-epidermoidal
+epidermoidal 1
 eventful
 electralize
 entomologized
