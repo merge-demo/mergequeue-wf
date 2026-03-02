@@ -7082,7 +7082,7 @@ explorable 1
 exclaimer
 elaborate
 estated
-earphone 1
+earphone 2
 enactory
 everbloomer
 epiphenomenon
