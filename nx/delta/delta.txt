@@ -1990,7 +1990,7 @@ documentalist
 denehole
 dimble
 doglegged 1
-dysphasia
+dysphasia 1
 dacryocele
 despaired
 decadrachmae
