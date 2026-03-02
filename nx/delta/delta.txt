@@ -1350,7 +1350,7 @@ delta
 diminishableness 1
 decemjugate
 decurionate
-duodecillion
+duodecillion 1
 denierage
 deworm
 dialler
