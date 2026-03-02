@@ -18136,7 +18136,7 @@ bywalk
 bods
 blockading
 boisseaux
-balsamize
+balsamize 1
 biffins
 bifoil 1
 bulla
