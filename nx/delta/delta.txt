@@ -255,7 +255,7 @@ dry
 deceiver
 dagomba
 daguerreotype
-downspout
+downspout 1
 dolichopodous
 dentalise
 degermed
