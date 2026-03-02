@@ -6035,7 +6035,7 @@ growse
 goitres 1
 gamines
 glamorous
-grizelin
+grizelin 1
 guly
 gonzo
 goniatite
