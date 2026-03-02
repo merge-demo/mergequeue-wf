@@ -2525,7 +2525,7 @@ embryopathology
 enervators
 endostylar
 epanisognathism
-ensate
+ensate 1
 epibatus
 eductors
 eparcuale
