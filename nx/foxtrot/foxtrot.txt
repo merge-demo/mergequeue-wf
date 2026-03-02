@@ -3494,7 +3494,7 @@ fruitstalk
 forebowline 1
 forehood
 franklinist
-fortnightlies
+fortnightlies 1
 forswearer
 faster
 fussier
