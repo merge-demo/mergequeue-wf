@@ -24159,7 +24159,7 @@ castanets
 claw
 collocutory
 counterrecoil
-cruddy
+cruddy 1
 crepeiest
 comedial
 contemplamen
