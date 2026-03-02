@@ -4271,7 +4271,7 @@ decahydronaphthalene
 descriers
 diseducate
 demagoguery
-demagogues
+demagogues 1
 demal
 diode
 dichromasy
