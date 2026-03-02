@@ -9002,7 +9002,7 @@ emotionalized
 estampedero
 endothoracic
 embiotocid
-electrocardiograph
+electrocardiograph 1
 exul
 elicitable
 esteriferous
