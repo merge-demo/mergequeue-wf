@@ -7851,7 +7851,7 @@ endlessness 1
 embolismic
 ebulliency
 empicture
-enterography
+enterography 1
 ennomic
 exsiccator
 elegiambic
