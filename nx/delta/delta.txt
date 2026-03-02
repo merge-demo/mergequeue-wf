@@ -17030,7 +17030,7 @@ doberman
 dumas
 divinityship
 discumber
-denning
+denning 1
 dobbed
 dissents
 dielectrically
