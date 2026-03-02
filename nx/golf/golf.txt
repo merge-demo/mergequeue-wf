@@ -5599,7 +5599,7 @@ glottochronological
 geophilidae
 governeress
 gravity
-guiltily
+guiltily 1
 gurrah
 gruidae
 gunstick 1
