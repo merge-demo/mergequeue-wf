@@ -2577,7 +2577,7 @@ bloats
 bardish
 burmite
 brillolette 1
-barid
+barid 1
 bouser
 bereaving
 burgus
