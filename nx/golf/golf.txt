@@ -10351,7 +10351,7 @@ galliform
 galactosamine
 grasshook 1
 getatability
-gemology
+gemology 1
 geophyte 1
 grike
 gumbos
