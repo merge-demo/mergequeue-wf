@@ -1050,7 +1050,7 @@ gregarinae
 gloiosiphoniaceae
 glueyness 1
 ghatwazi
-groundway
+groundway 1
 glyptograph
 gibbously
 gypsums
