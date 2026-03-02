@@ -4669,7 +4669,7 @@ aenach
 aphrodistic
 addaxes
 affricate
-appanage
+appanage 1
 adawe
 antiheterolysin
 arthrotyphoid
