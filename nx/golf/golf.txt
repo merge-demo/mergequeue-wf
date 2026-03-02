@@ -2150,7 +2150,7 @@ gliss
 gerontine 1
 gdinfo
 golfings
-getaway
+getaway 1
 gizzards
 genteelly 1
 grooviest
