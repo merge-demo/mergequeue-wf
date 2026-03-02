@@ -9943,7 +9943,7 @@ ectropion
 embarks 1
 epididymodeferential
 ebraick
-episodal
+episodal 1
 effluvivia
 epididymitis
 esophagoptosis 1
