@@ -12284,7 +12284,7 @@ entrees
 espringal
 evocatrix
 enfoul
-epurate
+epurate 1
 exemplificator
 enflame
 exemplified
