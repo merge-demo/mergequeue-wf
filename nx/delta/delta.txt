@@ -9585,7 +9585,7 @@ decoying 1
 deionizing
 divided
 dignifiedness
-dramatism
+dramatism 1
 demulceate
 desterilize
 decultivate
