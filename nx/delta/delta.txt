@@ -17221,7 +17221,7 @@ drizzles
 develop
 drunkeries
 demulsifier
-donatistic
+donatistic 1
 digynian
 dialysing 1
 dressmake
