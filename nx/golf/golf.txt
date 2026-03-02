@@ -7083,7 +7083,7 @@ grassmen
 gregorianist
 gastral
 germanist 1
-gammy
+gammy 1
 gargarize
 gaumish
 gondolet 1
