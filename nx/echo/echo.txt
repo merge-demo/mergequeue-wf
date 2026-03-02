@@ -1143,7 +1143,7 @@ enumerable
 edwina 1
 epeisodion
 esterification
-explorational
+explorational 1
 electrotypes
 ergoism
 erionite
