@@ -24779,7 +24779,7 @@ aeolian
 aviations
 acanthuthi 1
 aviatoriality
-aviatrice
+aviatrice 1
 amadan
 amar
 avicennia
