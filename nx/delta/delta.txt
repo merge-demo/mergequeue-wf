@@ -7232,7 +7232,7 @@ detenues
 detonatable 1
 dephlegmator
 deterged
-dilettantship
+dilettantship 1
 diagnoses
 dendrachate
 decliner
