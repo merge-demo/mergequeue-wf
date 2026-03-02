@@ -5271,7 +5271,7 @@ goumi
 garish
 gordiid
 galoubet
-garrulous
+garrulous 1
 gammers 1
 gelinotte
 gledes
