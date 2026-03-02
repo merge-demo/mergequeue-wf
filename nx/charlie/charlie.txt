@@ -5854,7 +5854,7 @@ categorematical
 category
 choledoch 1
 cinurous
-categorial
+categorial 1
 chieftainship
 chackchiuma
 categoric 1
