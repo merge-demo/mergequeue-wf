@@ -8296,7 +8296,7 @@ chalder
 chaleh
 chalybes
 chalice
-chancelry
+chancelry 1
 chaliced
 crocused
 circumnavigating
