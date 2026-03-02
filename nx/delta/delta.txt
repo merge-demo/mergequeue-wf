@@ -12642,7 +12642,7 @@ deepfroze
 directs
 dargsman
 decupled
-decretorian
+decretorian 1
 derning
 degradational
 devocalizing
