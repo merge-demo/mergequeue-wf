@@ -3691,7 +3691,7 @@ guao
 gramps
 gracilescent
 gussying
-generalizable
+generalizable 1
 glossiphonia 2
 goes
 ghostland
