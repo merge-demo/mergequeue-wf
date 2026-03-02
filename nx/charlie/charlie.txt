@@ -19169,7 +19169,7 @@ colloidochemical
 cattan
 choirwise
 cuadrilla
-collophane
+collophane 1
 colloquial
 calcareously
 chemiluminescence
