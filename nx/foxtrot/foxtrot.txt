@@ -10774,7 +10774,7 @@ fligger
 fruticetum 1
 fecklessness
 fleabites
-facy
+facy 1
 fumble
 foraminate
 fouth
