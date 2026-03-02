@@ -4551,7 +4551,7 @@ euphony
 endoparasitica 1
 endeavourer 1
 echinodermal
-excubitoria
+excubitoria 1
 emberizidae
 extrabranchial
 embeggar
