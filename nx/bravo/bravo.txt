@@ -679,7 +679,7 @@ breathlessly
 badass
 brasseries
 badderlocks 1
-brigsail
+brigsail 1
 banagos
 benignancy 1
 baccivorous
