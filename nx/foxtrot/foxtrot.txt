@@ -1442,7 +1442,7 @@ faithless
 felicify
 firmness
 futhork
-fatuitous 1
+fatuitous 2
 falcular
 fringing
 fatuoid
