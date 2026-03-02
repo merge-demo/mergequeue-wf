@@ -3597,7 +3597,7 @@ debunker
 docilities
 degass
 degassed
-disappears
+disappears 1
 destituting
 druggery
 diatonous
