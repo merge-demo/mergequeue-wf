@@ -12257,7 +12257,7 @@ encommon
 expounding
 exasperative 1
 execrated
-elegists
+elegists 1
 eluvium
 extemporizer
 exegetics
