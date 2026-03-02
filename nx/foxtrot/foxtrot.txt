@@ -7739,7 +7739,7 @@ fossa
 forrader
 flavedos
 ferrated 1
-fishy
+fishy 1
 firnismalerei
 fatherland
 forspeaking
