@@ -17769,7 +17769,7 @@ banjoists
 bursty
 buoyances
 bondman
-buttals
+buttals 1
 breakback
 burroweed
 burrows 1
