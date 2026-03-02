@@ -31408,7 +31408,7 @@ chewable
 colophon
 colubaria
 cheminee
-cartridges
+cartridges 1
 clinoaxis
 curiosi
 creditless
