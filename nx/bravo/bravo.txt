@@ -1670,7 +1670,7 @@ balloted
 ballotist
 birdlore
 ballots
-bribri 1
+bribri 2
 ballottement
 backlotter
 baronage
