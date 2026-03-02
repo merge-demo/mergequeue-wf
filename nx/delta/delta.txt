@@ -5484,7 +5484,7 @@ downgrowth
 devastated
 diadochokinetic
 disunion
-dextrorotation
+dextrorotation 1
 denotement
 demoting
 directionality 1
