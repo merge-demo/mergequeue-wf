@@ -7325,7 +7325,7 @@ amebicidal
 aculeae
 alveolonasal
 antiextreme
-allay
+allay 1
 abietene 1
 abomasusi
 affinage
