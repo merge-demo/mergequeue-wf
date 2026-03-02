@@ -14599,7 +14599,7 @@ dextrally
 dismemberment
 dwells
 demureness
-denotive
+denotive 1
 demiurgically
 divorcees 1
 dill
