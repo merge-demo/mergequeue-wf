@@ -5024,7 +5024,7 @@ chevrony
 cartulary
 cartularies
 carapache 1
-catamneses
+catamneses 1
 cabbagelike
 collaring
 cabossed
