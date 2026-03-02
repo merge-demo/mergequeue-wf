@@ -5313,7 +5313,7 @@ glaived
 gryposis 1
 grittiness
 galactopoiesis
-germinating
+germinating 1
 geomoroi
 glomerulate 1
 galactosemic
