@@ -13499,7 +13499,7 @@ chisel
 chrysocolla
 copals
 cholelithotripsy
-ceratites
+ceratites 1
 caudillos
 careeristic
 cylindromatous
