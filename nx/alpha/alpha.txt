@@ -24869,7 +24869,7 @@ avoidable
 anarchosyndicalist
 achtehalber
 aureola
-avoidant
+avoidant 1
 anginoid 1
 aworth
 autophonoscope
