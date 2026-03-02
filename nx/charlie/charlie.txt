@@ -4192,7 +4192,7 @@ cardiocele
 chevronelly
 cardiocirrhosis
 cacuminate
-chink
+chink 1
 cardiodilator
 chiropractor
 cardiodynia
