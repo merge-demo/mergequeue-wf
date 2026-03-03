@@ -10619,7 +10619,7 @@ electrometallurgical
 euphroes 1
 extinctor
 escallops
-earthiness
+earthiness 1
 exsanguinated
 euchrome
 ennoblment
