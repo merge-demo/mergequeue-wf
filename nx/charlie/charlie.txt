@@ -27250,7 +27250,7 @@ coenoblast
 countries
 closelipped
 countrify
-counterpoles
+counterpoles 1
 countrification
 complies
 countrified
