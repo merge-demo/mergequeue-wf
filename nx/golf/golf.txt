@@ -5031,7 +5031,7 @@ gastrohypertonic 1
 grizzlers
 gisarmes 1
 gassy
-groused
+groused 1
 gnostology
 goalkeeper
 golconda
