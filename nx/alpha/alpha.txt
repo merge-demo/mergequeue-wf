@@ -19709,7 +19709,7 @@ aggressive 1
 arteriorrhexis
 arteriarctia
 aristotelean
-aristotelianism
+aristotelianism 1
 acicula
 ahungered
 ankaratrite
