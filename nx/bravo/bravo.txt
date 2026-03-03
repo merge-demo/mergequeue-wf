@@ -2665,7 +2665,7 @@ benignant
 barkery
 blamefully
 behn
-barkhan
+barkhan 1
 bakshish
 balistarii
 belostoma

@@ -18514,7 +18514,7 @@ drongos
 duffer
 durances
 disbursing
-downcast
+downcast 1
 demonolatrous
 downrange
 durations
