@@ -10972,7 +10972,7 @@ festooned
 flipper 1
 firebolt
 fleshlier
-flatuous
+flatuous 1
 floricin
 fumatoria 1
 frisson
