@@ -8425,7 +8425,7 @@ floorman
 futhark
 folksy
 foistiness
-forlanas
+forlanas 1
 flatfootedly
 frized
 fiaroblast
