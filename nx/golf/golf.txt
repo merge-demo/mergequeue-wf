@@ -1602,7 +1602,7 @@ glycolipid 1
 ged
 gemmeous
 gaskin
-gastriloquy
+gastriloquy 1
 grists
 grants
 gorsehatch
