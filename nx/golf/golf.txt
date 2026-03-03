@@ -2525,7 +2525,7 @@ gweduc
 ganch
 gracing
 germanly
-grig
+grig 1
 grubbies
 gynecium 1
 gurle
