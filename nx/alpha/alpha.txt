@@ -18261,7 +18261,7 @@ arabitol
 appeaser
 amorphinism
 anacatharsis
-avails
+avails 1
 arabophil
 abanic
 araca
