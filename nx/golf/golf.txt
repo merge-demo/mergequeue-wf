@@ -1335,7 +1335,7 @@ globose
 glorifier 1
 gaffes
 guipures
-gunbarrel
+gunbarrel 1
 gervao
 guardedness
 gitalin
