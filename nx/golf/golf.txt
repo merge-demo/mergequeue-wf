@@ -8964,7 +8964,7 @@ gluttonous
 gumbolike 1
 glaucopis
 guess
-genae
+genae 1
 greeve
 grievable
 gillnets
