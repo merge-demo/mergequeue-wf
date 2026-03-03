@@ -7372,7 +7372,7 @@ finchbacked
 fishyard
 filibegs
 fidelity 1
-forehorse
+forehorse 1
 fishmonger
 fozy
 fusilading
