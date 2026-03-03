@@ -4525,7 +4525,7 @@ ecumenicism
 epanthous
 epirrheme
 entalent
-eery
+eery 1
 enrange 2
 entrepreneurial 1
 extensibility
