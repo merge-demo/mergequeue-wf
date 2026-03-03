@@ -2601,7 +2601,7 @@ gutling 1
 galler
 gymnosophist
 gableboard
-glossopetra
+glossopetra 1
 gemelled
 glossosteresis
 granulater 1
