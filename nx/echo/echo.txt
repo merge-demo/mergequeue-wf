@@ -12031,7 +12031,7 @@ embolus
 electioneerer
 exaggerate 1
 essenic
-exclusive
+exclusive 1
 enaunter
 encaustes
 effuso 2
