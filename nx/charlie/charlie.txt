@@ -6630,7 +6630,7 @@ charcuterie
 calamitoid
 cdf
 carid
-cheroot
+cheroot 1
 chloasma
 cdr
 cesspool
