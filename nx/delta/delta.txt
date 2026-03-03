@@ -4272,7 +4272,7 @@ descriers
 diseducate
 demagoguery
 demagogues 1
-demal
+demal 1
 diode
 dichromasy
 dodoisms
