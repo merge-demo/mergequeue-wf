@@ -17858,7 +17858,7 @@ dicotyledons
 deathday
 defrauding
 duelers
-duelist
+duelist 1
 duroquinone
 duelistic
 dolentissimo
