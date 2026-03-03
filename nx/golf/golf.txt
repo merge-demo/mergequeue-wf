@@ -5013,7 +5013,7 @@ garibaldi
 genesiology
 grotesquerie
 garavance
-glowed
+glowed 1
 geosynclinal
 geniohyoid
 gonosphere
