@@ -5005,7 +5005,7 @@ festellae
 festinate 1
 fevertwitch
 fraunch
-flameout
+flameout 1
 foreappoint
 fandoms 1
 ferrelled 1

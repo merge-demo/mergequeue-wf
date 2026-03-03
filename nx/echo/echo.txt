@@ -5525,7 +5525,7 @@ experimentalism
 episporangium
 enfatico
 endoscopically
-enfeeblements
+enfeeblements 1
 exorcising
 experimenting
 exoterics
