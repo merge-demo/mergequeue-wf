@@ -9598,7 +9598,7 @@ anaemic
 alveary
 apalit
 acetamidin
-alvearium
+alvearium 1
 alveolariform
 antihierarchic
 agriological
