@@ -4416,7 +4416,7 @@ entassment
 ensigncies
 eubacteria
 exclamatorily
-encapsulation
+encapsulation 1
 escapement
 exceeding
 emitted
