@@ -2062,7 +2062,7 @@ boxtop
 bankalachi
 bidactyl
 bloodstones
-bankcard
+bankcard 1
 bethought
 banky 1
 bailiaries
