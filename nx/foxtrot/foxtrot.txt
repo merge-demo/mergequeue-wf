@@ -5037,7 +5037,7 @@ faust 1
 flammule
 fomites
 fatidic
-flatness
+flatness 1
 fascinery
 fodders
 formalize
