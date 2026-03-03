@@ -10112,7 +10112,7 @@ discoverer
 dynamomorphic
 dialup
 decomponible
-discoursively
+discoursively 1
 decentralised 1
 dadoing
 dynamostatic
