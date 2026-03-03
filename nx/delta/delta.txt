@@ -6777,7 +6777,7 @@ dihedrons
 desirous
 desirousness
 decolonising
-dogmatized
+dogmatized 1
 dropsonde
 dedicates
 diaconate
