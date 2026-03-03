@@ -15360,7 +15360,7 @@ demineralizer
 doyen
 domification
 dissentaneous
-distoma
+distoma 1
 dactylus 1
 dire
 dissemblance
