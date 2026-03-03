@@ -21517,7 +21517,7 @@ cheiropompholyx
 concordatory
 coagulatory
 circline
-cawk
+cawk 1
 cryptogamical
 centumvir
 cemetary
