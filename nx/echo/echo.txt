@@ -6782,7 +6782,7 @@ emerit
 endoscopic
 evacuation
 ediface
-elaborator
+elaborator 1
 edwardsiidae
 entrechat
 endoceratitic
