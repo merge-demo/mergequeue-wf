@@ -4332,7 +4332,7 @@ extraterritoriality 1
 enterable
 entrenches
 esture
-elytroclasia
+elytroclasia 1
 expansibleness 1
 enactor
 epigrammatize
