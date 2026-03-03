@@ -16666,7 +16666,7 @@ brawls
 butte
 booty
 bachelors
-betokened
+betokened 1
 blepharophimosis
 boother
 brember
