@@ -3214,7 +3214,7 @@ dissentient
 distrainor
 defendant
 dir 1
-decorativeness
+decorativeness 1
 danae
 dayside
 diffusibility
