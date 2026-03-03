@@ -1861,7 +1861,7 @@ fluoroborate
 fewer 1
 flintier
 foredoom
-footstep
+footstep 1
 fourdrinier
 finalize 1
 fibrinokinase
