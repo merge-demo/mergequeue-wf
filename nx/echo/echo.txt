@@ -4958,7 +4958,7 @@ entoplastron
 entoiling
 encouragement
 enstamp
-ephialtes
+ephialtes 1
 expectable
 exhibited
 embryotomy
