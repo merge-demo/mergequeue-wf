@@ -1400,7 +1400,7 @@ guigne
 gooier
 galvanopsychic 1
 gloves
-garreteer
+garreteer 1
 greenless 1
 gola
 graniferous
