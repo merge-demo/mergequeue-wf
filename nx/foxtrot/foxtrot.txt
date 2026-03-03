@@ -7908,7 +7908,7 @@ fashes
 flacket
 frazzle
 futhorks
-frightenable
+frightenable 1
 frottole
 functionation
 fatter
