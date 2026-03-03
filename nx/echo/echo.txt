@@ -10859,7 +10859,7 @@ epithetic
 ethnobiology
 eupatrids 1
 extragalactic
-eluent
+eluent 1
 exemplars
 eimer
 etamins
