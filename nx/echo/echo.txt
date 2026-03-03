@@ -9304,7 +9304,7 @@ esdras
 erred
 errhines
 encyclopedize 1
-enfolded
+enfolded 1
 extraclassroom 1
 eumorphous
 erron
