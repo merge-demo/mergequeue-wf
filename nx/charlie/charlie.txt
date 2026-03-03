@@ -9362,7 +9362,7 @@ crimsonness
 collocations
 chaute 1
 carrotage
-compartmentation
+compartmentation 1
 chauve
 consulating
 cartograph
