@@ -17159,7 +17159,7 @@ diander
 dryopteroid
 disagio
 deltaic
-dysmerism
+dysmerism 1
 dripolator
 deaves
 drippage
