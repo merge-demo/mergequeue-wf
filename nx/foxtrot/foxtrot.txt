@@ -4591,7 +4591,7 @@ fruitlet
 fourth 1
 feudists
 frit
-feuder
+feuder 1
 footboy
 fisticuff
 fringed 1
