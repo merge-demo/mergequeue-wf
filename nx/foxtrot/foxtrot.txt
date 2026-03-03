@@ -4827,7 +4827,7 @@ flagellations
 forescript
 fieldstrip 1
 fingal
-feif
+feif 1
 foresettled
 falsifiability
 filibranchiate 1
