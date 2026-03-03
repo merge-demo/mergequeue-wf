@@ -3116,7 +3116,7 @@ elevator
 ellenyard 1
 ecumenicist
 erg
-encolpion
+encolpion 1
 eriocaulaceous
 emetia
 excreters
