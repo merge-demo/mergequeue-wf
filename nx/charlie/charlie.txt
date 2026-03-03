@@ -16014,7 +16014,7 @@ cephaletron
 caleche
 cleve
 christofer
-cleveite
+cleveite 1
 cooty
 confiscatory
 clever 1
