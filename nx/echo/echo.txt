@@ -3805,7 +3805,7 @@ ethnish
 ejulate 1
 embrues
 executive
-embruing
+embruing 1
 enfranchises
 elegiacs
 embruting 1
