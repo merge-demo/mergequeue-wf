@@ -4208,7 +4208,7 @@ foreaccounting
 furze
 foyaitic
 fairstead 1
-feathery
+feathery 1
 fumago 1
 frier
 forecloses
