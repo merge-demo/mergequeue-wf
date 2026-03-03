@@ -20846,7 +20846,7 @@ arum
 annapurna
 avouter
 anker
-astricted
+astricted 1
 allurers
 arupa
 armoried
