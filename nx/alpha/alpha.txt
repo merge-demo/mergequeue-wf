@@ -9931,7 +9931,7 @@ applaudingly
 annonce
 antipatharia
 ambiopia
-ambisexuality
+ambisexuality 1
 afrasia
 acquaints
 alisma
