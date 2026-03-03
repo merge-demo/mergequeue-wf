@@ -11686,7 +11686,7 @@ dialling
 discorded 1
 discordous
 distancy
-dotishness
+dotishness 1
 dialogged
 demicaponier
 didest
