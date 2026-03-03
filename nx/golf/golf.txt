@@ -9073,7 +9073,7 @@ gusting
 glome
 glasser
 grimalkin
-grayhead
+grayhead 1
 genitive 1
 gasparillo
 ghast
