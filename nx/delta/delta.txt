@@ -4350,7 +4350,7 @@ demeanor
 doit
 dupped
 disaffiliation 1
-disallowableness
+disallowableness 1
 dragonet
 diphtheritis
 dunkled 2
