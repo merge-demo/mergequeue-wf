@@ -6995,7 +6995,7 @@ expergefaction 1
 entoptic
 entoptics
 epiphytous 1
-expense
+expense 1
 enjoyableness 1
 entosternal
 erick
