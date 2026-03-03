@@ -24538,7 +24538,7 @@ copepod
 copepoda
 chromolithograph
 coplaintiff
-coper
+coper 1
 copernican
 concordable 1
 creatophagous
