@@ -10292,7 +10292,7 @@ entrust 1
 exoskeleton
 earlap
 embroiled
-exoccipital
+exoccipital 1
 everblooming 1
 ethiodide
 excluded
