@@ -16110,7 +16110,7 @@ anatomicochirurgical
 aviatorial
 adeps
 amiant
-allometry
+allometry 1
 antiskid
 aloofness
 andron
