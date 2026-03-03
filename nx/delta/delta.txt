@@ -10920,7 +10920,7 @@ dotchin
 delusions
 demoiselles
 denazify
-disabled
+disabled 1
 dialyzing
 defrayer
 drapability
