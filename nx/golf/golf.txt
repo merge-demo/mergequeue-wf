@@ -10582,7 +10582,7 @@ gorsier 1
 gonzalo 1
 gigging
 gallbladder
-glochidia
+glochidia 1
 graying
 grandame
 geohydrologist
