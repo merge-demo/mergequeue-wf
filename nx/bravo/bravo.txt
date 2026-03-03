@@ -13140,7 +13140,7 @@ brahui 1
 boringness
 bilging
 befluster
-beaned
+beaned 1
 butcherly
 bioelectrogenetic
 bkbndr
