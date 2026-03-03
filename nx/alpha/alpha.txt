@@ -13795,7 +13795,7 @@ abdomina
 automation
 apneumatic
 acorns 1
-adjuncts
+adjuncts 1
 aminobenzine
 agapemonite
 antiemperor
