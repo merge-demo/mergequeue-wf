@@ -9207,7 +9207,7 @@ everts
 excantation
 exhorted
 elder
-entomologists
+entomologists 1
 esoneural
 edenize
 electrofuse
