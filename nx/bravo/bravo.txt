@@ -17584,7 +17584,7 @@ burggrave
 bristling
 burghers 1
 benchless
-burgraves 1
+burgraves 2
 bureaucratized
 borlase
 bowdlerized
