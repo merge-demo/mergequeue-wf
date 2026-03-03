@@ -6008,7 +6008,7 @@ astrosphere
 albuminoidal
 antifeudalism
 apteral
-amalekite
+amalekite 1
 ablock 1
 agamospore
 agitatrix
