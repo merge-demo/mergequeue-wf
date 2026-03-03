@@ -14512,7 +14512,7 @@ carpogonia
 cystelcosis 1
 cosmologic
 cistercian
-caulocarpic
+caulocarpic 1
 chassepots
 cistercianism
 cisternae
