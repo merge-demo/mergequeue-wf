@@ -10967,7 +10967,7 @@ exestuate
 evils
 epipedometry
 ellerian
-encomium
+encomium 1
 epilogizing
 expediate
 epipteric

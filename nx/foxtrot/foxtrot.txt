@@ -5752,7 +5752,7 @@ fantasias
 firking
 fountains 1
 flammable
-flingy
+flingy 1
 floating
 funded
 fiddlestring
