@@ -9737,7 +9737,7 @@ equational 1
 escopette 1
 external
 ethylhydrocupreine
-euergetes
+euergetes 1
 eranist
 eisoptrophobia
 extollers
