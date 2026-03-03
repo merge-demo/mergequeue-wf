@@ -6475,7 +6475,7 @@ effusions
 extensionless
 embroideries
 exorcise
-ethiopian
+ethiopian 1
 ensorceled 3
 encephalometer
 excide
