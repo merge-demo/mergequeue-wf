@@ -10831,7 +10831,7 @@ fique
 fs 2
 failures 1
 franklinic
-fulcruming
+fulcruming 1
 faultsman
 furnit
 fillister 1
