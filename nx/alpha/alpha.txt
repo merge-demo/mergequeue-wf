@@ -14426,7 +14426,7 @@ atlantoaxial
 achenium
 anthropogenic
 autogyros
-addictiveness
+addictiveness 1
 affrontedly
 antipatriot
 anthropogeographical
