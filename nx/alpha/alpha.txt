@@ -5184,7 +5184,7 @@ amidist
 antiatheistically
 acromiodeltoid
 antipollution
-affines
+affines 1
 arthron
 anthomedusae
 atonement
