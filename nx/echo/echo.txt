@@ -11619,7 +11619,7 @@ eperva
 extraburghal
 embrittled
 edea
-esotropic
+esotropic 1
 errantness
 evocator
 ensilaging
