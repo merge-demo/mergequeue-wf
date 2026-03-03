@@ -2827,7 +2827,7 @@ forebush
 frogleg
 fetichlike
 flowerets
-foxinesses
+foxinesses 1
 fanfare
 feticide
 fishwoman 1
