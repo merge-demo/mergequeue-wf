@@ -11451,7 +11451,7 @@ entosternite
 eventlessly
 extraordinarily
 eyeflap 1
-empennages
+empennages 1
 eructate
 epichoric 1
 enough 1

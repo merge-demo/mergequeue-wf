@@ -19535,7 +19535,7 @@ antenna
 arabidopsis
 argumental 1
 autecious
-auscultative 1
+auscultative 2
 anesthesiant
 aeroscope
 asynchronous
