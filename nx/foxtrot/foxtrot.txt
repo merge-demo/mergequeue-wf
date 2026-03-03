@@ -1662,7 +1662,7 @@ formaliser
 frizzes
 fernticle
 fieldmice
-fragmentation
+fragmentation 1
 frankers 1
 followership
 fleshless
