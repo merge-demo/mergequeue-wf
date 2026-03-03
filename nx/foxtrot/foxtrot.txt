@@ -5768,7 +5768,7 @@ fluffer
 footpound
 folioliferous
 filemaker
-factional
+factional 1
 facilitator 1
 flype 1
 feoffeeship
