@@ -17862,7 +17862,7 @@ belowground 1
 bushbucks
 batrachium
 blowze
-bacilluria
+bacilluria 1
 barde
 beautifying
 bairnishness
