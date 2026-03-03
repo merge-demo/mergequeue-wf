@@ -10417,7 +10417,7 @@ braggadocian
 ballooned
 banner
 badling
-burlesque
+burlesque 1
 bronco 1
 biosynthesis 1
 bravado
