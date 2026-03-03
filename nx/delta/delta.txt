@@ -12760,7 +12760,7 @@ dantesque
 dislocatory 1
 dirges 1
 detroit
-demonologer
+demonologer 1
 dodrans
 dupondii
 dakoits
