@@ -11820,7 +11820,7 @@ diduce
 dimitted
 discriminatively
 draughtsman
-demivotary
+demivotary 1
 dross 1
 despatch
 daypeep
