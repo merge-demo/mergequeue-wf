@@ -24665,7 +24665,7 @@ clothmaking
 copperases
 caseworker
 creneled
-coinvolve
+coinvolve 1
 corollaceous
 commelinaceae
 cola
