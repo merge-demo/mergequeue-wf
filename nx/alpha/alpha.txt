@@ -12384,7 +12384,7 @@ anechoic
 adar
 anelasticity
 anteversion
-augurship
+augurship 1
 antirationalism
 annamese
 anelectrode
