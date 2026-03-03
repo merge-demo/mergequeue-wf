@@ -4842,7 +4842,7 @@ aerodontalgia
 agamidae
 arcanum
 antipedal
-adoors
+adoors 1
 anticonservative
 arenite
 areek
