@@ -2049,7 +2049,7 @@ gloriana 1
 gavia 2
 gaynesses
 girsh
-gamey
+gamey 1
 gibus
 gleeked
 guideboard
