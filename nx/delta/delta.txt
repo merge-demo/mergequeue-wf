@@ -10895,7 +10895,7 @@ druidical
 disfigurative
 drudging
 disadvantage
-donates
+donates 1
 dirtied
 diable
 denazifying
