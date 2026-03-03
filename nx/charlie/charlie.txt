@@ -16045,7 +16045,7 @@ clich 1
 cryopathy
 cliches
 clicked
-clicker
+clicker 1
 corneitis
 clickers
 cosigns
