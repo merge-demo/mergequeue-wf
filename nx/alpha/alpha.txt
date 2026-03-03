@@ -23472,7 +23472,7 @@ apomict
 augend
 atalayas
 adversity
-aquiform
+aquiform 1
 antievolutionally
 arsenillo 1
 ahimsas
