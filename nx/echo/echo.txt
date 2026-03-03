@@ -4590,7 +4590,7 @@ expede
 errancies
 emperize
 encheason
-easiness 1
+easiness 2
 ethnolinguistics
 embryophagous
 eeriest
