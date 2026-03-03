@@ -7352,7 +7352,7 @@ gougingly
 gliomas 1
 griffon 1
 generalizers 1
-granule
+granule 1
 glimmerite
 graculus
 globated 1
