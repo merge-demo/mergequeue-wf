@@ -11881,7 +11881,7 @@ daggle
 dispels
 disulphone
 darkled
-disna
+disna 1
 dromomania
 dunked
 drags
