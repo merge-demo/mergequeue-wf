@@ -14126,7 +14126,7 @@ euryalean
 enthralls 1
 emictory
 exhortatively
-emplastrum
+emplastrum 1
 exposers
 extroitive
 extremist
