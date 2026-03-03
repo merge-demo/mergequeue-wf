@@ -13526,7 +13526,7 @@ eccles 1
 externomedian
 euphemism
 exscinds 1
-encyclics
+encyclics 1
 equivorous
 entailers
 extratracheal
