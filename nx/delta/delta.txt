@@ -16599,7 +16599,7 @@ deposing
 dragoonage
 dragrope
 dexterousness
-debiteuse
+debiteuse 1
 deathbeds
 disinterestedness
 dragstaff
