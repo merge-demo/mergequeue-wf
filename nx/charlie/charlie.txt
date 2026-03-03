@@ -31324,7 +31324,7 @@ curdled
 characid
 cottabus
 curdles
-curdoo
+curdoo 1
 conceivably
 cured
 clarinos
