@@ -2449,7 +2449,7 @@ crosslight 1
 cancerousness
 cerebrology
 cardiotonic
-cancerweed 1
+cancerweed 2
 canch
 centgener
 cancha
