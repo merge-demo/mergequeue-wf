@@ -6687,7 +6687,7 @@ geometroid
 glossitic
 gabeler
 girdlelike 1
-gluttonies
+gluttonies 1
 gunmen
 gynaecologic 1
 glycolyl
