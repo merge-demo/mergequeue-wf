@@ -1026,7 +1026,7 @@ burnweed
 bail
 bringer
 battledore
-barfs
+barfs 1
 bailable
 baile
 barbequed
