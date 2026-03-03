@@ -9964,7 +9964,7 @@ declassee
 diolefine 1
 droner
 dextrogyrous
-dodged
+dodged 1
 diminution
 diaminogen
 daffier
