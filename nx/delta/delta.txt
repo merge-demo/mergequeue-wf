@@ -3889,7 +3889,7 @@ dekapode
 deink
 dextrocerebral
 duo
-dermopathic
+dermopathic 1
 drosophyllum 1
 decan
 dorippid
