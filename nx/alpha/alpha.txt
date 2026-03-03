@@ -17789,7 +17789,7 @@ accidentarily
 anorchus
 amplex
 alex
-antiq
+antiq 1
 alisphenoid
 abrenounce
 amphiarthrosis
