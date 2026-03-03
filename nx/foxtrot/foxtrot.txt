@@ -7938,7 +7938,7 @@ foresee
 furtively
 forlornest
 faitor
-fortescure
+fortescure 1
 fibrinolytic
 futchel
 fructified

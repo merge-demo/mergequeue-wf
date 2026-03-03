@@ -11234,7 +11234,7 @@ brochan 1
 beaker 1
 burkes
 batterfang
-betrayal
+betrayal 1
 bracts
 bezants
 borghalpenny
