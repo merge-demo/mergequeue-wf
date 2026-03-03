@@ -11026,7 +11026,7 @@ abrocoma
 antiaphrodisiac
 apishness
 anglomania
-aphonic
+aphonic 1
 assures
 ampersands
 amphanthia
