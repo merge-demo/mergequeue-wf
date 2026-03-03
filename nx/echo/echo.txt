@@ -9591,7 +9591,7 @@ epithecia 1
 erigenia
 ethylic
 esnecy
-eudyptes
+eudyptes 1
 engarland
 esocataphoria
 estivation
