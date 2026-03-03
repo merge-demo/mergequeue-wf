@@ -11093,7 +11093,7 @@ foreknowableness
 fane
 factfinder
 foremasts
-funereality
+funereality 1
 fangled
 fiesta
 firesafeness
