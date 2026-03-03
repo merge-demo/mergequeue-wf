@@ -18610,7 +18610,7 @@ coigny
 callitrichidae
 coigue
 coyish
-coyishness
+coyishness 1
 cunner 1
 craning
 cervicoscapular
