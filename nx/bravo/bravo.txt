@@ -15928,7 +15928,7 @@ biham 1
 bromidically
 balneum
 bows
-brominate
+brominate 1
 bene
 barbarism
 bromination
