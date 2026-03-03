@@ -20062,7 +20062,7 @@ commensurability
 commensurable
 commensurably
 commensurate
-curatorial
+curatorial 1
 commensurating
 congratulant
 codings
