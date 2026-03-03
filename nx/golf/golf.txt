@@ -2959,7 +2959,7 @@ guily
 gaps
 galatian
 garnered
-gushingness
+gushingness 1
 gauchest
 gulping
 grooved 1
