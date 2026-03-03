@@ -11656,7 +11656,7 @@ campanologist
 cholesterol
 clepsydrae
 cuamuchil
-cholesterolemia
+cholesterolemia 1
 cholesteroluria
 choletelin
 controversial
