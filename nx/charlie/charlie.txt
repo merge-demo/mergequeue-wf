@@ -28568,7 +28568,7 @@ cuttyhunk
 criticizes
 creeker
 creekfish
-creekfishes
+creekfishes 1
 cothurnni
 catoptrical
 carbogelatin
