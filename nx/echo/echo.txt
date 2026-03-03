@@ -12747,7 +12747,7 @@ emetically
 easeful 1
 esprove 1
 enurny
-embryography
+embryography 1
 exceeds
 exospheric 1
 exorbitation
