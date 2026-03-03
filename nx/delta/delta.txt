@@ -17882,7 +17882,7 @@ dropforged
 diguanide
 disenmesh
 durance
-donate
+donate 1
 decentralizes
 drabbled
 duenas
