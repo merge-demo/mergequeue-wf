@@ -12235,7 +12235,7 @@ decardinalize
 deliquesce 1
 dwarfish
 dovecots
-disfrocking
+disfrocking 1
 dysfunctional
 denouncing
 dysfunctioning
