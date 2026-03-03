@@ -1831,7 +1831,7 @@ awnings
 alackaday
 autarch
 akoasma
-adaptors
+adaptors 1
 adduct
 antiketogenesis
 acephalus
