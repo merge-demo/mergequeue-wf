@@ -4268,7 +4268,7 @@ doli
 derailed
 dura 1
 decahydronaphthalene
-descriers
+descriers 1
 diseducate
 demagoguery
 demagogues 1
