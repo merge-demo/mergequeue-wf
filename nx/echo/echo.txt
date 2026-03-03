@@ -1675,7 +1675,7 @@ expiable
 exemplarity 1
 episcopally
 excommunications
-enactors 1
+enactors 2
 egises
 eyewashes
 eider
