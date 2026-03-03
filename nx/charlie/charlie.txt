@@ -9792,7 +9792,7 @@ catarrhed 1
 cyclonical
 crepance
 cytophagic
-covisitor
+covisitor 1
 chelydroid
 coregent
 condignness
