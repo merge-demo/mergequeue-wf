@@ -6301,7 +6301,7 @@ analytically
 agrodolce
 alexinic
 aliphatic
-aparthrosis
+aparthrosis 1
 agrogeology
 aleucaemic
 agrogeological
