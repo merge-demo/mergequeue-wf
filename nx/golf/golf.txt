@@ -1713,7 +1713,7 @@ galravage
 ganggang
 gamesman
 guernseys
-globetrotter
+globetrotter 1
 gaullism
 gastropexy
 grumbling

@@ -3941,7 +3941,7 @@ decorous
 dimethylamino
 ditchdigging 1
 dkm 1
-dindling
+dindling 1
 decontaminates 1
 demonstratory
 dunstone
