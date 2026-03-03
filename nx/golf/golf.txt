@@ -3713,7 +3713,7 @@ goetia
 groundedness 1
 gapy 1
 galliot
-gringolee
+gringolee 1
 glossohyal
 granaries
 galateas 2
