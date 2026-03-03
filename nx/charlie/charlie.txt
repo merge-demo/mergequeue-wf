@@ -9814,7 +9814,7 @@ chelonian
 crucialness
 carryouts
 chemehuevi
-chemiatric
+chemiatric 1
 chapeless
 corrugates
 cowardliness 1
