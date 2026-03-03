@@ -10693,7 +10693,7 @@ feriae
 famish
 frightable
 facultied 1
-fibular
+fibular 1
 fainting
 forescent
 feralin
