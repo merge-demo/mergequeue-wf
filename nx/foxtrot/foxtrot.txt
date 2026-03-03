@@ -3919,7 +3919,7 @@ foveal
 fasciation 1
 frightens
 figurate
-findhorn
+findhorn 1
 filarees 1
 fine
 fineableness
