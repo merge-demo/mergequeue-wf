@@ -5021,7 +5021,7 @@ encyclopediac
 endophragmal
 espouses 1
 entomb
-encumbrances
+encumbrances 1
 eucosmid
 escobedo
 evanished
