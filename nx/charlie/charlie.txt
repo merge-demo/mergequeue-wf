@@ -13256,7 +13256,7 @@ cyclohexanol
 crass
 cyclohexanone
 cycloheximide
-chetverik
+chetverik 1
 cataloguer
 chemiatry
 cycloid
