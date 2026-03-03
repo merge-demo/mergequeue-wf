@@ -3967,7 +3967,7 @@ gremial 1
 grabbed
 giddier
 gemshorn
-gnide
+gnide 1
 guarinite 1
 gambesons
 gravic
