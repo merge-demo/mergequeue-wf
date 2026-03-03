@@ -6689,7 +6689,7 @@ gabeler
 girdlelike 1
 gluttonies
 gunmen
-gynaecologic
+gynaecologic 1
 glycolyl
 glimed
 geer
