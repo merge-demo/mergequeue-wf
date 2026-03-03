@@ -1353,7 +1353,7 @@ effacers
 emasculates 1
 episcopize
 evaginable
-evernioid
+evernioid 1
 enthymematic
 exumbrellar
 ensiled

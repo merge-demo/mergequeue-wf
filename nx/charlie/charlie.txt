@@ -19007,7 +19007,7 @@ cinnamon
 collectivise
 collectivism
 collectivist
-circumcircle
+circumcircle 1
 collectivistically
 cocainization
 collectivists
