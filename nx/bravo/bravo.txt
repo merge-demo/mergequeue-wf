@@ -9619,7 +9619,7 @@ bedazzlingly
 bisdiapason
 biteable
 binary
-bicapsular
+bicapsular 1
 bandlimits
 bisectors
 blander
