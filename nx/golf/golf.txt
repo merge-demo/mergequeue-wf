@@ -7294,7 +7294,7 @@ gymnics
 goofing
 galbanums 2
 gamotropism 1
-gauffer
+gauffer 1
 glutaric 1
 goldsinny
 granulosis
