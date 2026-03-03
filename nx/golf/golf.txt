@@ -320,7 +320,7 @@ groundbird 1
 giantry 1
 galactolipide 1
 graveship 1
-galactometer
+galactometer 1
 gaussian 1
 garnishment
 grilses
