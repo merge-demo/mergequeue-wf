@@ -7791,7 +7791,7 @@ extractiform
 ensilages
 encephalogram
 exotisms
-easternmost
+easternmost 1
 echos
 euhemeristically
 epilogical
