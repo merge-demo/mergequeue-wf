@@ -171,7 +171,7 @@ blameable
 babs
 bagging
 bombastic
-bechalks
+bechalks 1
 babudom
 butternut
 baburd 1
