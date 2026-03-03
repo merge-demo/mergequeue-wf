@@ -11299,7 +11299,7 @@ firesides
 foyer
 fusspot
 frogmouth
-fasc
+fasc 1
 freedom
 fatwa 1
 fidejussionary
