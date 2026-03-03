@@ -7029,7 +7029,7 @@ excerptive
 ephectic
 erian
 embrase
-excandescence
+excandescence 1
 eyebrows
 electrothanasia
 ensaint
