@@ -8465,7 +8465,7 @@ dumfounderment
 deciares 1
 demioctagonal
 dispatchers
-diametral
+diametral 1
 diametric
 diamide
 denuclearization
