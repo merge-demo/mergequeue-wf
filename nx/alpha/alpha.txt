@@ -11416,7 +11416,7 @@ amusive 1
 amutter 1
 amuze
 advertisable
-apogamously
+apogamously 1
 amphigastria
 anabantid
 aeneus
