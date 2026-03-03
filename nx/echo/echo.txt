@@ -9424,7 +9424,7 @@ enchair
 epicedial
 euspongia 1
 eventail
-embolies
+embolies 1
 eases
 eucleid
 extensionalism
