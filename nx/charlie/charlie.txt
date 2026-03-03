@@ -30698,7 +30698,7 @@ czarian
 conrad
 cudweeds
 cosovereign
-condescend
+condescend 1
 counterexplanation
 couturire
 compassment
