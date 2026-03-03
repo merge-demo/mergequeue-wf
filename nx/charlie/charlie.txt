@@ -8358,7 +8358,7 @@ clonuses
 crimpy
 challenges
 cohered 1
-chalons
+chalons 1
 coronograph
 chalot
 cowpunch
