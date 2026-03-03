@@ -10156,7 +10156,7 @@ chiropatagium 1
 charioteer
 cumbha
 chevronwise
-chevrotain
+chevrotain 1
 chevvy
 chrysanisic
 capsa
