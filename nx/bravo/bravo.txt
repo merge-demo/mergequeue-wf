@@ -10822,7 +10822,7 @@ boul
 bavin
 birthrate
 blocks
-bergamo
+bergamo 1
 balow
 bullbeggar
 butterman
