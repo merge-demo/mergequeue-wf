@@ -10795,7 +10795,7 @@ disrest
 divinization
 dipteraceae
 dipterygian
-dipteryx
+dipteryx 1
 deinodontidae
 dipterocarpaceae 1
 dartingly
