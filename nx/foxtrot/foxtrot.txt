@@ -10886,7 +10886,7 @@ fractiously
 forehinting
 fireshaft
 freestone 2
-furore
+furore 1
 foeman
 forspoke
 fulgurated
