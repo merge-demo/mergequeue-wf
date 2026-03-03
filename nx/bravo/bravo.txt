@@ -17144,7 +17144,7 @@ braising
 bullition
 bar 1
 bovld
-bulletproof
+bulletproof 1
 beewinged
 bullnoses
 bacchuslike
