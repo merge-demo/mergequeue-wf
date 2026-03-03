@@ -2471,7 +2471,7 @@ dirigent
 deckhand 1
 deckle
 dandily
-dulls
+dulls 1
 deferral
 duds
 dishonourary 1
