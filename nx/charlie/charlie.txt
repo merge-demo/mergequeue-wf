@@ -3097,7 +3097,7 @@ causata
 canvasser 1
 canzona
 crickety
-connective
+connective 1
 canzones
 constrictor 1
 canzonet
