@@ -1884,7 +1884,7 @@ fruitless 1
 fleeceless
 filiform
 fremescent
-fainly
+fainly 1
 fistula
 flimsy
 forgiver
