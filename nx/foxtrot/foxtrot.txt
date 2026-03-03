@@ -3118,7 +3118,7 @@ fibroenchondroma 2
 filosa
 flabellinerved
 faring
-fulminancy
+fulminancy 1
 foam
 flavourless 1
 ferulaceous
