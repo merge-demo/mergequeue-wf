@@ -10706,7 +10706,7 @@ dentinitis
 durned
 duchy 1
 dislink
-derivable
+derivable 1
 declinometer
 dogman
 dreadlessness
