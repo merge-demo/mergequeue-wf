@@ -22953,7 +22953,7 @@ atrenne
 adless
 acroparesthesia
 arkoses 1
-anteriorly
+anteriorly 1
 appositional
 apis
 alose
