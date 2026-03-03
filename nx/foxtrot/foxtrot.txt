@@ -1141,7 +1141,7 @@ facials
 fricando 1
 foghorns
 frumety
-fidelis
+fidelis 1
 fico
 fatally
 fearbabe 1
