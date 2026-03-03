@@ -6612,7 +6612,7 @@ glasseye
 gleams 1
 gauffering
 guffs
-gorcrow
+gorcrow 1
 gordius
 glossolabiopharyngeal
 gatehouses
