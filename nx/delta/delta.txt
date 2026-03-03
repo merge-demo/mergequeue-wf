@@ -5985,7 +5985,7 @@ demiwivern
 diopside
 deed
 durezza
-duramater
+duramater 1
 dilettantist
 discommoded
 dept
