@@ -8912,7 +8912,7 @@ dmod
 dice
 dioptidae
 dendrolite
-disdiplomatize
+disdiplomatize 1
 disconnect
 dissolvability
 desex
