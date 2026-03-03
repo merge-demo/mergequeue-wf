@@ -9392,7 +9392,7 @@ alternated
 alternately
 apheretic
 achier
-alignments
+alignments 1
 assaugement
 apritif 1
 acadian
