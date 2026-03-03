@@ -11771,7 +11771,7 @@ debtor
 declarant
 didler
 derogatively
-disobligatory
+disobligatory 1
 dioscorine
 discrepancies
 debtful
