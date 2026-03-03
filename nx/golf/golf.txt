@@ -1609,7 +1609,7 @@ gorsehatch
 gamobium
 grassworm
 gesticulation
-gesturers
+gesturers 1
 gain
 glossophytia
 gastroxynsis
