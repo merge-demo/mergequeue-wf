@@ -10648,7 +10648,7 @@ flative 1
 forseen
 fractile
 forswearing
-fellatee
+fellatee 1
 flabbier
 fleeting 1
 fiddlewood
