@@ -11413,7 +11413,7 @@ evaluating
 explees
 emergers 1
 erysiphaceae
-expulsatory
+expulsatory 1
 ethnohistory
 exothermicity
 effeir

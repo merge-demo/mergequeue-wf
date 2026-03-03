@@ -6773,7 +6773,7 @@ beround
 bendability 1
 berreaves
 berrettas
-bemouth
+bemouth 1
 bartender
 busway
 bushiest
