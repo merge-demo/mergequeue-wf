@@ -10247,7 +10247,7 @@ guanases
 galeproof
 getid
 gempylid
-gobinism
+gobinism 1
 gastrectasis
 gynecophore
 gutturalization
