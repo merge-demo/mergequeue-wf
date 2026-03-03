@@ -13526,7 +13526,7 @@ boneyards 1
 betrayer
 botulisms
 brief
-brachypterous
+brachypterous 1
 brodequin
 bearded
 briquette
