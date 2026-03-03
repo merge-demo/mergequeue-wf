@@ -2244,7 +2244,7 @@ grandpaternal
 gigantoblast
 garmenting 1
 galeass
-gonofs
+gonofs 1
 greengage 1
 gypsine 1
 gadoid
