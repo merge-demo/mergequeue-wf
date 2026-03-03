@@ -5741,7 +5741,7 @@ forehanded
 flintwork
 fibrine
 freckles 1
-falasha
+falasha 1
 funeration
 forbearant 1
 falsework
