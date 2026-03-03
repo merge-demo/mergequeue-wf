@@ -11733,7 +11733,7 @@ analytique 1
 antiscolic
 arnoseris
 anticynicism
-analyze
+analyze 1
 abstrusenesses
 analyzes
 acclimature
