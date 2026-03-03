@@ -2714,7 +2714,7 @@ frenzies 1
 flambe
 faithing
 flapjacks
-foreweigh
+foreweigh 1
 fungused
 firebird
 feigher 1
