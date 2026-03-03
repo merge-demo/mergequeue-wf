@@ -4084,7 +4084,7 @@ appendectomies
 adnascent
 adnate
 arrives
-absolvent
+absolvent 1
 alecithic
 anomalism
 alarmist
