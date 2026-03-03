@@ -5673,7 +5673,7 @@ calorizer
 caducity
 cooled
 comprizable
-cataphyll
+cataphyll 1
 correlativism
 crena
 chlorococcum
