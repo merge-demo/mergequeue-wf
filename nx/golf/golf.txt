@@ -2890,7 +2890,7 @@ generalization
 gavelkind
 glossopteris
 glene
-glycol
+glycol 1
 garnet
 gaeldom
 glockenspiels 1
