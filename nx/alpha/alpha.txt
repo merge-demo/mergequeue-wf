@@ -1170,7 +1170,7 @@ amorphic 1
 airshed
 acalephoid
 anaclastic
-arow
+arow 1
 antedate
 acalyculate
 apheliotropic
