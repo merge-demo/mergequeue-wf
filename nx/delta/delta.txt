@@ -12695,7 +12695,7 @@ deployable 1
 diffrangibility
 depurator 1
 disleaved
-disjointure
+disjointure 1
 disepalous
 dogger
 desexualize
