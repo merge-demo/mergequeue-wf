@@ -13608,7 +13608,7 @@ dekadarchy
 dollfish
 decant
 deuterotoky
-dorcopsis
+dorcopsis 1
 dissentive 1
 doggereler
 distingue
