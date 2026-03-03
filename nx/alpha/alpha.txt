@@ -9516,7 +9516,7 @@ actable 1
 alumel
 agrom
 alumic
-alumiferous
+alumiferous 1
 acroamatics
 autotrophy
 australorp
