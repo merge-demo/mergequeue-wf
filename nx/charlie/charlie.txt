@@ -508,7 +508,7 @@ canticle 1
 cadences
 cadencies
 cadencing
-casitas
+casitas 1
 cadenette
 cellobiose
 crapple
