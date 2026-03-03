@@ -2753,7 +2753,7 @@ gaunt
 growling 1
 geochemistry
 galbulae
-greatcoat
+greatcoat 1
 gorgerin
 gile
 gyne
