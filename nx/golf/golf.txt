@@ -6243,7 +6243,7 @@ gospelly
 gobiidae
 grincome 1
 gonepoietic
-gobble
+gobble 1
 gloomily
 graziers 1
 geitonogamy
