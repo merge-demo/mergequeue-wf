@@ -24486,7 +24486,7 @@ copaifera
 cupfuls
 capitasti
 clr
-courtliness
+courtliness 1
 communicableness
 circovarian
 clavis
