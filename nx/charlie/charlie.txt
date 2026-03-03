@@ -13496,7 +13496,7 @@ counteraction
 cylindrograph
 compilers
 chisel
-chrysocolla
+chrysocolla 1
 copals
 cholelithotripsy
 ceratites 1
