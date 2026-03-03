@@ -1211,7 +1211,7 @@ edification
 empathize
 eident
 extempore
-educatable
+educatable 1
 eudiometric
 educates
 engrainedly
