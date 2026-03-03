@@ -8749,7 +8749,7 @@ euchological
 elastometry
 empathizing
 elephancy
-electroencephalograph
+electroencephalograph 1
 engs
 equisided
 equisignal
