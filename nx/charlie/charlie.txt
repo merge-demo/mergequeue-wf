@@ -21947,7 +21947,7 @@ confessingly
 curricled
 containable 1
 confessionalism
-confessionally
+confessionally 1
 chromatometer
 chirographary
 confessor
