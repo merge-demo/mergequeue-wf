@@ -8074,7 +8074,7 @@ barye
 baseplug
 bagroom
 bicornuate
-bicornute
+bicornute 1
 blanketing
 beshadow
 boats
