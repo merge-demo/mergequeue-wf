@@ -7151,7 +7151,7 @@ factious
 felonries
 fetors
 felsic
-fusional
+fusional 1
 fostership
 forgeability
 foolproofness
