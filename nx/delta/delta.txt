@@ -15819,7 +15819,7 @@ discussment
 doggereled
 deputise
 detent
-deputyship
+deputyship 1
 dorsopleural
 decatoic
 demirilievo
