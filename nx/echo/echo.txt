@@ -12585,7 +12585,7 @@ ethion 1
 extraught 2
 eupolyzoa
 ectogenous 1
-eunuchry
+eunuchry 1
 exocoelar
 exocoele
 elegances
