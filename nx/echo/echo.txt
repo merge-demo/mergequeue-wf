@@ -10666,7 +10666,7 @@ eviting
 exuviated 1
 epimysium
 eudaimonia
-essenize
+essenize 1
 elegante
 extubate
 epithermally
