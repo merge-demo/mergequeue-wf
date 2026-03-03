@@ -1003,7 +1003,7 @@ equilibristic
 equanimous
 embalming
 entailments
-endeictic
+endeictic 1
 euchrone
 evennesses 1
 effronteries
