@@ -21697,7 +21697,7 @@ conjurator
 corditis
 clerically
 condylure
-cedre
+cedre 1
 compriest
 chondria
 cimolite
