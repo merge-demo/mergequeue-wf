@@ -14551,7 +14551,7 @@ dirgie
 division
 dollop
 dedicative
-degomme
+degomme 1
 distill
 divisional
 distillery
