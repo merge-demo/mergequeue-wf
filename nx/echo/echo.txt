@@ -2787,7 +2787,7 @@ erelong
 elegised 1
 elegising 1
 ectoenzym
-elegized
+elegized 1
 epifauna 1
 encrusts 1
 eutocia
