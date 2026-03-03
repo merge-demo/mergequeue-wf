@@ -3673,7 +3673,7 @@ gulist
 grafters
 gelastic
 garrisonism 2
-gallinae
+gallinae 1
 gnathite
 goalmouth
 gherkins 1
