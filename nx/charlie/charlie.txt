@@ -16039,7 +16039,7 @@ cly
 cooruptibly
 clubmobile
 clianthus
-clansmanship
+clansmanship 1
 columned
 clich 1
 cryopathy
