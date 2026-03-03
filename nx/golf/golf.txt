@@ -4472,7 +4472,7 @@ grading
 grumes
 guzzling
 granitize
-geogenetic
+geogenetic 1
 gays
 grubbers 1
 gutta
