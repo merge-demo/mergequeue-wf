@@ -916,7 +916,7 @@ anisuria 1
 apogeotropic
 aures
 absyrtus
-airmanship
+airmanship 1
 amylon
 absit
 absoil
