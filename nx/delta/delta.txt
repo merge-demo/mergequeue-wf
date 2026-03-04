@@ -2975,7 +2975,7 @@ dendromecon
 dorian
 delphinium
 diethylstilbestrol
-defensively
+defensively 1
 decomplex
 dairymaid
 drudger
