@@ -6790,7 +6790,7 @@ epicotyls
 enthusiastically
 expedience
 enthusiastly
-entangle
+entangle 1
 emydosaurian
 emmarvel 1
 eden
