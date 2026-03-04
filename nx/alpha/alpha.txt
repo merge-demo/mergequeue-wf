@@ -24141,7 +24141,7 @@ autunite
 antiresonator
 autoimmunizing
 anachronisms
-avern
+avern 1
 azeotropism
 acanthi
 andiron
