@@ -5556,7 +5556,7 @@ fuses
 floey
 fenderless
 fricassee
-fantee
+fantee 1
 friezy
 fillercap
 forbarred
