@@ -2129,7 +2129,7 @@ bardiest
 banqueting
 beseem
 blazy
-boree
+boree 1
 buddhistic 1
 boomless
 bulker

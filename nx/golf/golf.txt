@@ -6050,7 +6050,7 @@ gnats
 guttie
 gibbled
 glave
-gleamingly
+gleamingly 1
 glossmeter
 grisset
 grume
