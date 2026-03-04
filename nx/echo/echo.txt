@@ -14131,7 +14131,7 @@ exposers
 extroitive
 extremist
 erodes
-extrorse
+extrorse 1
 encrownment
 extrospect
 endarch
