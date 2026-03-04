@@ -2107,7 +2107,7 @@ doughfeet
 diamagnetism
 decametric
 decancellate
-dynamics
+dynamics 1
 dominator
 decancellated
 debe
