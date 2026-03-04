@@ -1456,7 +1456,7 @@ entosterna
 ectoskeleton
 excoct
 endobatholithic
-electrostriction
+electrostriction 1
 eaglet
 edentulate 1
 encashable

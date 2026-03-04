@@ -31427,7 +31427,7 @@ circumambulation
 cheiceral
 chiropodist
 chlorophora
-curledly
+curledly 1
 centranthus
 conocarpus
 commentarial
