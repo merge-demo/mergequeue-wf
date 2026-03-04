@@ -10012,7 +10012,7 @@ gubernative
 gubernatrix 1
 geophysically
 graveness
-gargled
+gargled 1
 gelatinify
 gangliform
 gateau
