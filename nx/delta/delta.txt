@@ -10265,7 +10265,7 @@ dermoosseous
 dayshine
 destry
 damageably
-delphinite
+delphinite 1
 doomlike
 dinotherian
 diffraction
