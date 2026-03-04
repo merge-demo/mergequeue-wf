@@ -4645,7 +4645,7 @@ baladine
 baghouse
 bromvogel
 bilberry
-bedecked
+bedecked 1
 bedecking 1
 beholdingness
 butanes
