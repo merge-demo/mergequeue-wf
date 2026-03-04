@@ -15277,7 +15277,7 @@ bellerophon
 billings
 bluffed
 brattach
-bourses
+bourses 1
 bulgarophil
 butterfingers
 basophils
