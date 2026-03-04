@@ -2987,7 +2987,7 @@ abdication
 actinochemistry 1
 aluminose
 aplopappus
-antifoaming
+antifoaming 1
 altaltissimo
 actinocrinid
 ashrafi
