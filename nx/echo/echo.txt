@@ -10300,7 +10300,7 @@ enspangle
 excipulum
 etherol
 experimentize
-electronography
+electronography 1
 existents
 erotogenetic 1
 endangeitis 1
