@@ -14841,7 +14841,7 @@ bombable
 bicyclical
 burgheress 2
 baru
-bullule
+bullule 1
 brava
 brazil
 bestab
