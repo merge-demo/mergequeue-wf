@@ -5738,7 +5738,7 @@ denigrate
 depolarize
 duffels
 dextrorsal
-decouple
+decouple 1
 downstroke
 diaphany
 decamerous
