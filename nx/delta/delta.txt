@@ -15435,7 +15435,7 @@ diversicolored
 dichroous
 donaciform
 donack
-dowsed
+dowsed 1
 dumpier
 defibrillate
 dogless
