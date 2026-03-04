@@ -22629,7 +22629,7 @@ camellus
 connects 1
 catawampously
 criminogenic
-cuffed
+cuffed 1
 crystallogenesis
 calendar
 cultish
