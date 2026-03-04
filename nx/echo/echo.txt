@@ -9188,7 +9188,7 @@ efficacity
 evanid
 ermines
 elatinaceous
-endovaccination
+endovaccination 1
 encolor 1
 exteriorize
 enates 1
