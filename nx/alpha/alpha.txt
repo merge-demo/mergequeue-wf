@@ -1486,7 +1486,7 @@ autopolyploidy
 acclinate
 amidocyanogen
 anticontagionist
-absolutory
+absolutory 1
 admittatur
 acclivities
 antlerless
