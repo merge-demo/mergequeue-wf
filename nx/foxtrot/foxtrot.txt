@@ -8251,7 +8251,7 @@ frontwise
 foresweat
 foretooth
 formamidine
-fianchetto
+fianchetto 1
 fesse 2
 forgeable 1
 forgery
