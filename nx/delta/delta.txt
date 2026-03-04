@@ -9218,7 +9218,7 @@ defoam
 dyeings
 discontented
 dieldrin
-derelict
+derelict 1
 dieldrins
 doziest 1
 disparately
