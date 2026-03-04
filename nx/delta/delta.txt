@@ -5421,7 +5421,7 @@ deoppilant
 discernibleness
 deceives 1
 detectably
-deoppilate
+deoppilate 1
 dominions
 dep
 doss
