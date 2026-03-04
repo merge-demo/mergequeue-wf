@@ -5570,7 +5570,7 @@ again
 aquapuncture
 amylaceous
 asphalts
-acanthite
+acanthite 1
 againsay
 adjuratory
 against
