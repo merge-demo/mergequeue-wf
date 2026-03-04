@@ -7924,7 +7924,7 @@ egis
 excitor
 epibiotic
 effulging
-epihydric
+epihydric 1
 eunuchised
 expertizing
 etymologist 3
