@@ -10483,7 +10483,7 @@ amiidae
 amylan
 aphorismatic
 attomy
-amylases
+amylases 1
 anthropozoic
 agnations
 amildar
