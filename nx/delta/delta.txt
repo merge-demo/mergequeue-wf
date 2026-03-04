@@ -18268,7 +18268,7 @@ dictery
 darts
 dayflies
 disapprobative 1
-dippy
+dippy 1
 discordia
 divot
 dorsimedian
