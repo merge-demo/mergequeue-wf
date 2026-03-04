@@ -14195,7 +14195,7 @@ expertism
 emasculate 1
 enruin
 exurge
-erodable
+erodable 1
 ebulliometry
 effecters
 etiolate
