@@ -7912,7 +7912,7 @@ frightenable 1
 frottole
 functionation
 fatter
-foofaraw
+foofaraw 1
 freckliest
 filar 1
 fitweed

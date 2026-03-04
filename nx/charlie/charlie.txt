@@ -19869,7 +19869,7 @@ chaldean
 comfier
 calamites
 chamaedaphne
-cohabits
+cohabits 1
 cuspidation
 comfiness
 comfit
