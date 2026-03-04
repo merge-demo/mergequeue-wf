@@ -23820,7 +23820,7 @@ assuredness
 austrium
 acouchy
 acridine
-antistrumatic
+antistrumatic 1
 ambash
 archicleistogamous 1
 adaptational
