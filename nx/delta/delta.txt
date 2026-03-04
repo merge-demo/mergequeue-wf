@@ -12407,7 +12407,7 @@ dupable
 dishclout
 disassembly
 disheartenedly
-devachan
+devachan 1
 daphnean
 dharmakaya
 duffing
