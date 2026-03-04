@@ -6868,7 +6868,7 @@ flourishes
 frowstiness
 floury 1
 foldcourse
-flemish
+flemish 1
 fastuous
 fiberless
 flinder
