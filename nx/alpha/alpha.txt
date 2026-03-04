@@ -21204,7 +21204,7 @@ accenting
 aspect
 asexualization
 ablactation
-anguineous
+anguineous 1
 acetabula
 antiprism
 altered
