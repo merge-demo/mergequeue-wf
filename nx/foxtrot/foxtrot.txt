@@ -11046,7 +11046,7 @@ footballs
 franco 1
 flanerie
 ferruminate
-fermented
+fermented 1
 firmarii
 fumuli
 fungated
