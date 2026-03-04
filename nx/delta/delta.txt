@@ -1732,7 +1732,7 @@ derogation
 decameral
 disaccord
 dearths
-deathtime
+deathtime 1
 diphenan
 dividend
 diphyllobothrium
