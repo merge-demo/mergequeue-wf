@@ -17502,7 +17502,7 @@ backspeir
 burbolt
 benignity
 beauseant
-biognosis
+biognosis 1
 bleak
 beata
 blackbine
