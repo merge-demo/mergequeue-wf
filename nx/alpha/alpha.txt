@@ -4632,7 +4632,7 @@ achilles
 accidented
 aegean
 autocriticism 1
-acquittals
+acquittals 1
 amphibologically
 aegemony
 alismaceae
