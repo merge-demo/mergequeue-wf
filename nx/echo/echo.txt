@@ -7850,7 +7850,7 @@ equivocators
 endlessness 1
 embolismic
 ebulliency
-empicture
+empicture 1
 enterography 1
 ennomic
 exsiccator
