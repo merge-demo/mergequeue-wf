@@ -463,7 +463,7 @@ dwarves
 dalf
 dalibarda
 doomsdays
-dalle
+dalle 1
 diamylene
 desmotropic 1
 deictical
