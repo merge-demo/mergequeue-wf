@@ -10317,7 +10317,7 @@ enteromycosis 1
 erythrochroism
 ethylamine
 extralite
-elevatedly
+elevatedly 1
 enterohydrocele
 enditing
 essart 1
