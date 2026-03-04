@@ -6854,7 +6854,7 @@ acetaldehydrase
 age
 autogamic
 ashot
-awning
+awning 1
 antiferromagnet
 aitch
 asphaltene
