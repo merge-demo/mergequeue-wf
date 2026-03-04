@@ -3875,7 +3875,7 @@ chequebook 1
 carbolize
 carbolized
 carbolizes
-carbolizing
+carbolizing 1
 carmelite
 caladium
 carboluria
