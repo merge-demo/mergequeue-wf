@@ -27593,7 +27593,7 @@ cerargyrite
 covetous
 choffer
 counterjudging
-climacium
+climacium 1
 cheeriest 1
 covibrate
 covibration
