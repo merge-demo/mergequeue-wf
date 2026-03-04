@@ -3118,7 +3118,7 @@ anaerobically
 antispirochetic
 antisupernaturalist
 advolution
-assoc
+assoc 1
 avertin
 adalat
 airplays

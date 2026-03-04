@@ -2320,7 +2320,7 @@ etymologer
 escalatory 1
 exterminations 1
 endosecretory
-evangelicalness
+evangelicalness 1
 ecphonema
 electrocardiography
 earcap
