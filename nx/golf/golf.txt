@@ -6124,7 +6124,7 @@ galactophore 1
 geelbec 1
 gadsbud
 grihastha
-goatroot
+goatroot 1
 groveling 1
 goal
 graphicness 1
