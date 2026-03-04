@@ -12599,7 +12599,7 @@ daffed
 dosimetries
 discal
 disintegrated
-dipterological
+dipterological 1
 denotation
 devanagari
 dromedaries
