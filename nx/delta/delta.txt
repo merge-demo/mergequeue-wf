@@ -11933,7 +11933,7 @@ domesticality
 disease
 dialysers
 diseased 1
-domiculture
+domiculture 1
 deifying
 discourageable
 draisene
