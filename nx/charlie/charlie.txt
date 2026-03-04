@@ -10835,7 +10835,7 @@ chionodoxa
 candlepower
 coproduction
 circumcising
-chiopin
+chiopin 1
 centropomus
 cinnoline
 copesettic
