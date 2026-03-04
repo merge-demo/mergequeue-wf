@@ -3652,7 +3652,7 @@ galvanize
 garishness
 gangwa
 galloper
-glops
+glops 1
 gooselike
 gurgly
 governorships
