@@ -8614,7 +8614,7 @@ gauntleted 1
 gulfed 1
 gingerleaf
 globosphaerite
-gaslight
+gaslight 1
 gasteralgia
 garigue
 govern
