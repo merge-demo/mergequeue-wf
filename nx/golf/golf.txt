@@ -3104,7 +3104,7 @@ gypsumed
 gayatri
 grousers
 graph 1
-gersum
+gersum 1
 grassplot 1
 gothicness
 gullah
