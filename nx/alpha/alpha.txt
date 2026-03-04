@@ -8437,7 +8437,7 @@ actinotrocha
 aborts 1
 aphthae
 anabolin
-alkin
+alkin 1
 antioxygenating
 avarish
 anakoluthia
