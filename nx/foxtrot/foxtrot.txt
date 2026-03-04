@@ -4965,7 +4965,7 @@ fourscore
 flummoxes
 flakiest
 frugivorous
-frequentable
+frequentable 1
 feverfews
 foamier
 factitious
