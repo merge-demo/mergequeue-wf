@@ -10017,7 +10017,7 @@ equuleus
 entodermic
 electrotest
 eteostic
-elemicin
+elemicin 1
 edgrew
 eyeballs
 encourages
