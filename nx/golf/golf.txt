@@ -5908,7 +5908,7 @@ gestative
 grahamite
 genotypicity 1
 gallanting
-gipsyism
+gipsyism 1
 governante
 germlike
 gool
