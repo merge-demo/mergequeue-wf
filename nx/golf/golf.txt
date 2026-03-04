@@ -8306,7 +8306,7 @@ gasteria
 graphoscope
 grudgeless
 gummic 2
-glossophora
+glossophora 1
 gastly
 grapier
 gypsyesque
