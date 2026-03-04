@@ -2361,7 +2361,7 @@ endoscopes
 encore
 encomia 1
 emetic
-esau 1
+esau 2
 evenlong
 equison
 electrochronometric
