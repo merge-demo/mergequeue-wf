@@ -1649,7 +1649,7 @@ deamination
 deaminize
 disendowed
 dichastic
-dandle
+dandle 1
 deanships
 domiciles
 dissolvingly 1
