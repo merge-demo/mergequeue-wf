@@ -27203,7 +27203,7 @@ coxarthrocace 1
 countervenom
 countervindication
 countervolley
-causewayman
+causewayman 1
 chymiferous
 countervote
 counterwager
