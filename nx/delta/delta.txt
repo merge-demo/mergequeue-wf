@@ -9397,7 +9397,7 @@ decrete
 durabilities
 deturb 1
 discontentive
-diffusate
+diffusate 1
 djinni
 duplicator
 diffusers
