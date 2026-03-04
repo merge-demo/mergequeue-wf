@@ -7991,7 +7991,7 @@ fluidifier
 formoxime
 foreshoe
 foreslow
-foreshortened
+foreshortened 1
 fenerate
 ficelle
 fumatoriums
