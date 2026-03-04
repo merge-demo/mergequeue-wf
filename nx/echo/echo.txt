@@ -949,7 +949,7 @@ exercises
 ethenoid
 eschewing
 expeditionary
-eudemonist
+eudemonist 1
 emperies
 extrastate
 episedia
