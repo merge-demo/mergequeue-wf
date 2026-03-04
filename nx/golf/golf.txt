@@ -3443,7 +3443,7 @@ gesturist
 gelseminic 1
 geek 1
 gleaners 1
-gerate
+gerate 1
 grayware 1
 graphologist 1
 glaucosis
