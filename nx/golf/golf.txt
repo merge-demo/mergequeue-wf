@@ -6322,7 +6322,7 @@ garnitures
 gustables
 giambeux 1
 glimmered
-gumpus
+gumpus 1
 gofer
 granzita
 given
