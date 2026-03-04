@@ -18240,7 +18240,7 @@ collectiveness
 coexerted
 cheeked
 communicatory
-coexerts
+coexerts 1
 coexistence
 coexisting
 coexpand
