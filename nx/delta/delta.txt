@@ -14740,7 +14740,7 @@ difficileness 1
 dibrach
 dirking
 distender
-dewax
+dewax 1
 disposableness
 detained
 decahedral
