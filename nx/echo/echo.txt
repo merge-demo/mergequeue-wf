@@ -6999,7 +6999,7 @@ expense 1
 enjoyableness 1
 entosternal
 erick
-eleganter
+eleganter 1
 extrapolations
 evenness 1
 election
