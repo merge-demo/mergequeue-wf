@@ -4163,7 +4163,7 @@ faff
 flywheel
 fluoryl
 fratriage
-fucuses
+fucuses 1
 fipples
 floscule
 ferrosilicon
