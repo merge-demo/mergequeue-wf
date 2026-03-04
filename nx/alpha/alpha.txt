@@ -22910,7 +22910,7 @@ atoned
 atoners
 ajari
 alcali 1
-allokurtic
+allokurtic 1
 adnations
 agacella
 atonicity
