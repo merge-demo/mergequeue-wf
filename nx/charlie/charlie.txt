@@ -10350,7 +10350,7 @@ chics
 chide 1
 callid
 chided
-chiders
+chiders 1
 colorbreed
 collusion
 cedarbird
