@@ -10520,7 +10520,7 @@ digonoporous
 depthless
 danging
 derangeable
-divinize
+divinize 1
 dipyrenous
 dipyridyl
 dichter 1
