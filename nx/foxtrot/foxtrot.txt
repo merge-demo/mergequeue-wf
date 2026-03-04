@@ -2540,7 +2540,7 @@ fitchews
 funic
 fretter
 forewarningly
-finlandization
+finlandization 1
 flints
 ficoidaceae
 fluvicoline
