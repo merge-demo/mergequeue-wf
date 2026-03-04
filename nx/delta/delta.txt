@@ -12435,7 +12435,7 @@ desensitize
 dogstail
 dishevelling
 decimalizing 1
-delomorphic
+delomorphic 1
 dismissingly
 doeskins
 diakineses
