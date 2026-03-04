@@ -15296,7 +15296,7 @@ abwatt
 antiking
 aposematic
 araneology
-antikings
+antikings 1
 arachnoidal
 agenes 1
 ai
