@@ -1476,7 +1476,7 @@ glumly
 gusain
 gunzian
 goalposts
-genuses
+genuses 1
 guested
 gonk
 gasifies 2
