@@ -14321,7 +14321,7 @@ archeology
 angiotribe
 autoscopy
 assortatively
-anisocycle
+anisocycle 1
 alphitomancy 2
 apselaphesis
 anthracia
