@@ -236,7 +236,7 @@ frostfish
 furfuraldehyde 1
 fringy
 functionaries
-flatcar
+flatcar 1
 fruitlets
 fulimart
 favouredly
