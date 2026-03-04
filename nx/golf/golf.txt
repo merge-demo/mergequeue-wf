@@ -3578,7 +3578,7 @@ guze
 ghoulishly
 gharnao
 gualaca 1
-goniaster
+goniaster 1
 gabarit
 gnomelike
 glyphs
