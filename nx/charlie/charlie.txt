@@ -6868,7 +6868,7 @@ casketing
 curdly
 cementers
 cellular
-caloris
+caloris 1
 carbonatization
 cornicular
 cellules
