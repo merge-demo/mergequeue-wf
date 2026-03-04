@@ -715,7 +715,7 @@ chilicothe
 cobwork
 cabling 1
 camaraderie
-camouflet
+camouflet 1
 citral
 cafh
 coelanaglyphic
