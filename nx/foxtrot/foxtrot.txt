@@ -6480,7 +6480,7 @@ fewterer
 fairm
 flaggier
 futurely
-fighteress
+fighteress 1
 foliates 1
 ferforth
 fireflower
