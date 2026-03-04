@@ -5359,7 +5359,7 @@ foamed
 floppily
 fruitions 1
 friendship
-frangulinic
+frangulinic 1
 fleshlily
 farmsteads 1
 frightless
