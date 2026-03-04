@@ -18188,7 +18188,7 @@ digress
 degree 1
 dump
 dineuric
-decolorizing
+decolorizing 1
 dotriacontane
 dorsolateral
 dentata 1
