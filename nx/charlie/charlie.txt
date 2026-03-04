@@ -19016,7 +19016,7 @@ collectivities
 customaries 1
 charonic
 crenele
-caloricity
+caloricity 1
 consy
 collectivizing
 cocrucify
