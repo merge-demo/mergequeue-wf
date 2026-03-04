@@ -6267,7 +6267,7 @@ geodesical
 golems
 gonfalons 1
 gallopade
-gnashed
+gnashed 1
 gneu
 gotham
 geochronological 1
