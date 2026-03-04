@@ -11377,7 +11377,7 @@ creature
 chloroquine
 coronas
 camagon
-cyclamates
+cyclamates 1
 cloudlessly
 counterpillar
 cheekier 1
