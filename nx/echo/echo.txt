@@ -1928,7 +1928,7 @@ entomofauna
 erasing
 eigenvalue
 engram 1
-exornation
+exornation 1
 eisenberg
 emyd
 ectorhinal
