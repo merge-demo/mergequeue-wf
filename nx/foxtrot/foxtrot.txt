@@ -11410,7 +11410,7 @@ furl
 furodiazole
 feoff 1
 few
-furomethyl
+furomethyl 1
 furcated
 fishings 1
 furfuraceously
