@@ -23241,7 +23241,7 @@ charrs
 comicotragic
 counteractor
 corncockle
-cavaliere
+cavaliere 1
 cockadoodledoo
 consubstantiate
 conv 1
