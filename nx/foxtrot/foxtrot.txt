@@ -4001,7 +4001,7 @@ floeberg
 fingerer
 finagler
 flaunch
-fleshquake
+fleshquake 1
 fingerers 1
 feed
 forecastles
