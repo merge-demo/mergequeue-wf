@@ -18168,7 +18168,7 @@ desugaring
 dimplement 1
 disappointed
 dumper
-defensemen
+defensemen 1
 disquisitorial
 diesinker
 demethylchlortetracycline
