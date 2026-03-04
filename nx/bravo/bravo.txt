@@ -6925,7 +6925,7 @@ briolette
 breediness 1
 basenesses 1
 betail
-baselessness
+baselessness 1
 betta
 bractea
 benignly
