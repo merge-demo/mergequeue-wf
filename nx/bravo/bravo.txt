@@ -17772,7 +17772,7 @@ bondman
 buttals 1
 breakback
 burroweed
-burrows 1
+burrows 2
 bathmats
 benevolent
 benzdifuran
