@@ -9751,7 +9751,7 @@ futuramic
 furiously
 fido
 frenchly
-fissionability 1
+fissionability 2
 feddan 1
 floatable 1
 febris
