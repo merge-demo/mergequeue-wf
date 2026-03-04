@@ -12750,7 +12750,7 @@ enurny
 embryography 1
 exceeds
 exospheric 1
-exorbitation
+exorbitation 1
 epigraphist
 epiphytical
 extenuator
