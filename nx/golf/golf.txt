@@ -1482,7 +1482,7 @@ gonk
 gasifies 1
 gridiron
 grantable
-garderobe
+garderobe 1
 gladsome
 garotted
 goutish 1
