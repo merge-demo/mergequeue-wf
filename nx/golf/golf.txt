@@ -8345,7 +8345,7 @@ greyer
 gentes
 gladness
 guaque
-graphostatic
+graphostatic 1
 grailing
 gudes
 grandparental 2
