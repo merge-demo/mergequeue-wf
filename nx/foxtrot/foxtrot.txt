@@ -4673,7 +4673,7 @@ flourished
 forejudgment
 frawn
 farmhousey 1
-frigidities
+frigidities 1
 formulations
 fireboard
 fitzroya
