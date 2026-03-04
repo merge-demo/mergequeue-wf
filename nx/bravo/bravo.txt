@@ -1025,7 +1025,7 @@ balcony
 burnweed
 bail
 bringer
-battledore
+battledore 1
 barfs 1
 bailable
 baile
