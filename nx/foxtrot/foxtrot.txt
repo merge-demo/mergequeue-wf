@@ -1885,7 +1885,7 @@ fleeceless
 filiform
 fremescent
 fainly 1
-fistula
+fistula 1
 flimsy
 forgiver
 farrowing
