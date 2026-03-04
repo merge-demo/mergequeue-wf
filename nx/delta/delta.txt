@@ -15987,7 +15987,7 @@ diapedesis
 diaphototropic
 distn
 doublespeak
-dealcoholize
+dealcoholize 1
 deamidization 1
 darkle
 digitiform

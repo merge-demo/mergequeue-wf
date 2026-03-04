@@ -19979,7 +19979,7 @@ ceratops
 calipers
 ceraunomancy
 commandoman
-cyclopaedically
+cyclopaedically 1
 commandos
 colove
 cheery
