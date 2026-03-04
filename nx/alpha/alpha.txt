@@ -10539,7 +10539,7 @@ abada
 adenase
 anteromedian
 arborolater
-amylose
+amylose 1
 achree
 acuminous
 amylum
