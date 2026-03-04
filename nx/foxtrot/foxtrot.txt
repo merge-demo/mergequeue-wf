@@ -2723,7 +2723,7 @@ frost
 fraxetin
 fellside
 fouette
-flaunter
+flaunter 1
 flamenco
 frondous
 flywort 1
