@@ -10623,7 +10623,7 @@ forwarn
 flopover
 frostily 1
 fellowmen
-freakouts
+freakouts 1
 fibrination
 flappet
 frontis 1
