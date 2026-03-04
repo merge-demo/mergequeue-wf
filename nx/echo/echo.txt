@@ -11428,7 +11428,7 @@ emanatively
 eathly 1
 echocardiogram 1
 enveil
-equiformal
+equiformal 1
 engross
 esuriency
 endocrin
