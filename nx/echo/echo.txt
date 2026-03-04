@@ -12250,7 +12250,7 @@ enchases
 expertized
 epitritic
 exceptions
-exturb
+exturb 1
 eloiner
 emphasising
 encommon
