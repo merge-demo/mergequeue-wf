@@ -1596,7 +1596,7 @@ ballgame
 broody
 barbarical
 backslash
-boors
+boors 1
 buttering
 burlesques
 blowball
