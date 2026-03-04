@@ -2092,7 +2092,7 @@ expeditious
 enfelon
 ensorcels
 eutectics
-edictal
+edictal 1
 entraps
 eurylaimidae
 exaggerated
