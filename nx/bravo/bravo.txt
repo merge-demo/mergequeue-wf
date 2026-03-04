@@ -12259,7 +12259,7 @@ bargir 1
 besit 1
 broomcorn
 brechtian
-blamable
+blamable 1
 bema
 buyer
 brachiate
