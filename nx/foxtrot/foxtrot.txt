@@ -1269,7 +1269,7 @@ forenoon
 fumiferous
 funfest
 floodless
-footcandles
+footcandles 1
 faineants
 fibroblast
 flabbily
