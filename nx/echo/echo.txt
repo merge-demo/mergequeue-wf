@@ -5782,7 +5782,7 @@ emoted
 ependymitis
 epoch
 earnestness
-effectiveness
+effectiveness 1
 englutted
 euthanasia
 enceintes
