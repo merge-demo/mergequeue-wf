@@ -4203,7 +4203,7 @@ grandpas
 greenovite
 gonidiose
 grovel
-gois
+gois 1
 gerund 1
 galvanomagnetism 2
 gynaecological
