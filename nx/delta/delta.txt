@@ -864,7 +864,7 @@ dermotherm
 dripproof
 disincrustant
 decrescendo
-deliberative
+deliberative 1
 dansker
 danta
 dryopithecus
