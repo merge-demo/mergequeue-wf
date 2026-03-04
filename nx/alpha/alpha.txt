@@ -22491,7 +22491,7 @@ adversion
 anisostemonous
 astrut
 agronomical
-aprendiz
+aprendiz 1
 androsporangium
 abbreviature
 antidysenteric 1
