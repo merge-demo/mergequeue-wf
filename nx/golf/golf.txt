@@ -4053,7 +4053,7 @@ gestates
 gim
 gemminess
 gerundively
-groining
+groining 1
 glanderous
 gletscher
 grifted
