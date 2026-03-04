@@ -1363,7 +1363,7 @@ formable
 fruticeous
 flenser
 foretopmast
-fullword
+fullword 1
 filicology
 faineance
 fishboat
