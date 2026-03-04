@@ -12796,7 +12796,7 @@ enforcing
 ensembles
 encounterable
 effectuated
-endosmosis
+endosmosis 1
 emancipative
 endrumpf
 encephalomere
