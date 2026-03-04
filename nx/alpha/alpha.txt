@@ -5009,7 +5009,7 @@ alethopteroid
 aerotonometry
 ammoniacum 1
 adularescent
-aporrhiegma
+aporrhiegma 1
 allantoidal
 ap
 aerotonometric
