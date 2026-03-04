@@ -8247,7 +8247,7 @@ brooms
 brothership
 bespurt
 butment
-bulgaric
+bulgaric 1
 bulbonuclear
 biforate
 browache
