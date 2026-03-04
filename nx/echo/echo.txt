@@ -14092,7 +14092,7 @@ entoplastral
 estranging 1
 epigastral
 equilibrative
-enterally
+enterally 1
 ebonize
 emesis
 encephalograph
