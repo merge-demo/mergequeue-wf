@@ -12704,7 +12704,7 @@ branchiura
 beguin
 beagle
 bedunch 1
-bunkos
+bunkos 1
 blueth
 beltway
 becolor
