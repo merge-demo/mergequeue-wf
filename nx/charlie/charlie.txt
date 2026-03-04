@@ -8932,7 +8932,7 @@ catholici
 crinivorous
 crowds
 catholicizing
-chareter
+chareter 1
 charette
 cursor
 cleistothecia
