@@ -1122,7 +1122,7 @@ frizzling
 farthing
 foresay 1
 feverishness
-fauvism
+fauvism 1
 fractional
 fruitarianism
 furcula
