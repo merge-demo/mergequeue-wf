@@ -8598,7 +8598,7 @@ exurban 1
 electre
 eburneous
 ensorcerize
-erase
+erase 1
 efficacious 1
 eumorphic
 epeiric
