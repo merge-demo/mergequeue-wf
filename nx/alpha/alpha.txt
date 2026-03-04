@@ -10551,7 +10551,7 @@ anthophorous
 antilog
 aminate
 avoy
-asok
+asok 1
 amphistylar
 aminoacetic
 akala
