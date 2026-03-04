@@ -22564,7 +22564,7 @@ canel
 championlike
 calciferous
 conjuring
-coenobitical
+coenobitical 1
 cricetine
 cyanoaurate
 conk
