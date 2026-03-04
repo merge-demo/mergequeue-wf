@@ -5890,7 +5890,7 @@ geonyctinastic 1
 glumes
 galagos
 gritting
-gds
+gds 1
 gymnanthous
 graisse
 gaincome
