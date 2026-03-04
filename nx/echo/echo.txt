@@ -1037,7 +1037,7 @@ excel
 enquiring
 embar
 earthwork
-explosibility
+explosibility 1
 eterminable
 euthanasic
 exacum
