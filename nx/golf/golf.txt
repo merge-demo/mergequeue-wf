@@ -2722,7 +2722,7 @@ generability
 gorraf
 goulan
 gipped
-gibingly
+gibingly 1
 graminous
 glanditerous
 gonangia 1
