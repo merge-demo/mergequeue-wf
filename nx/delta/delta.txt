@@ -16060,7 +16060,7 @@ dockside
 dentale
 dangs
 doughier
-deipnosophistic
+deipnosophistic 1
 dieresis
 dissceptring
 disaffections 1
