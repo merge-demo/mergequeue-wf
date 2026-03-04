@@ -5000,7 +5000,7 @@ glossers 1
 geotilla
 galbulidae
 grotto
-glaucousness
+glaucousness 1
 ghouls
 graniform
 giganticidal
