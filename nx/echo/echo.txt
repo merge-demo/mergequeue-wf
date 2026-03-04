@@ -10400,7 +10400,7 @@ equiponderate
 epistolary
 ethmolith
 excepter
-ethology
+ethology 1
 exradius
 ethnogeographer
 ethologies
