@@ -3169,7 +3169,7 @@ gurging
 gush
 graced
 guayabi
-glossokinesthetic
+glossokinesthetic 1
 gonycampsis
 gametoid
 gammoning
