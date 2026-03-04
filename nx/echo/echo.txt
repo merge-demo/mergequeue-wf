@@ -11121,7 +11121,7 @@ ectocuneiform 1
 electors 1
 expunging
 endosome
-economiser
+economiser 1
 eversporting
 egoity
 ekacaesium 1
