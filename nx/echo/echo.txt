@@ -2085,7 +2085,7 @@ ecrase
 encumberer
 evacuative 1
 elapine
-euthyneurous
+euthyneurous 1
 exilic
 emenders
 expeditious
