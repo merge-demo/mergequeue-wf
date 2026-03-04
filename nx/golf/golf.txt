@@ -3928,7 +3928,7 @@ gimping
 goffer 1
 gouges 1
 geometrising
-glowing 1
+glowing 2
 grubworms
 gigawatts 1
 glioma 1
