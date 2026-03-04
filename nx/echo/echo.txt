@@ -11564,7 +11564,7 @@ eidolic 1
 electrophotometer
 evigilation
 exsecant
-eastlin
+eastlin 1
 emesa
 ethnobotanic
 exoergic
