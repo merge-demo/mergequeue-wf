@@ -524,7 +524,7 @@ allocable
 angulation
 abjurement
 astrain
-abjurers
+abjurers 1
 abkari
 afrikanderism
 azotise
