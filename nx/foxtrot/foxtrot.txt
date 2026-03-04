@@ -1175,7 +1175,7 @@ focalize
 fortified
 funder 1
 fuscous
-fimbriating
+fimbriating 1
 funaria
 forepass
 frighter
