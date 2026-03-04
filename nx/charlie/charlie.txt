@@ -29606,7 +29606,7 @@ crocheted
 crocheter
 crocheteur
 codebook
-commutableness 1
+commutableness 2
 countervaunt
 croci
 crociate

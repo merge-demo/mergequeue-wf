@@ -11672,7 +11672,7 @@ dithiol
 discoplasm
 dostoevsky
 discursative
-discommune
+discommune 1
 disburgeon 1
 delicatessen
 divell
