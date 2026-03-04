@@ -9489,7 +9489,7 @@ fastwalk
 flights
 fidele
 flamandization
-flauntily
+flauntily 1
 fritts
 flinched
 fantasm
