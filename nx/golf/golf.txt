@@ -1334,7 +1334,7 @@ gandergoose
 globose
 glorifier 1
 gaffes
-guipures
+guipures 1
 gunbarrel 1
 gervao
 guardedness
