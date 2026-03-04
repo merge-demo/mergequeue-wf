@@ -2856,7 +2856,7 @@ dispensatorily
 define
 devotions
 drepanis
-dilatory
+dilatory 1
 doability
 deuteroscopic
 dazedness 1
