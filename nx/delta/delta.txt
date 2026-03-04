@@ -2111,7 +2111,7 @@ dynamics
 dominator
 decancellated
 debe
-debaser
+debaser 1
 decipher
 decandria
 didst
