@@ -6234,7 +6234,7 @@ flowcharted
 fungibles
 fazendeiro
 fragmentized
-finality
+finality 1
 flowerage
 fluxation
 forever
