@@ -5278,7 +5278,7 @@ fragilaria
 flumped
 fuse
 flavanilin
-favonius
+favonius 1
 flavescence
 fingall
 flavescent
