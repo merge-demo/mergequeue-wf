@@ -8804,7 +8804,7 @@ encrotchet
 eastlins
 exuberated
 exteriorized
-enacted
+enacted 1
 enlaced
 exuperable
 extrapelvic
