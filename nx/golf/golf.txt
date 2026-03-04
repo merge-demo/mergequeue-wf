@@ -8761,7 +8761,7 @@ glyceryls 1
 gravel
 gnosis
 genuflects
-giantesses
+giantesses 1
 gimballing
 geographized
 gripper
