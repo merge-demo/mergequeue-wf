@@ -6597,7 +6597,7 @@ enteradenological
 ensuant 1
 esothyropexy 2
 excusive
-epipterous
+epipterous 1
 efferent
 elderling
 embattled
