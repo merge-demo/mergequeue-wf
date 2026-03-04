@@ -2636,7 +2636,7 @@ crabier
 conclusiveness
 canezou 1
 canfield
-contendent
+contendent 1
 counterstatement
 canfields
 cantillating
