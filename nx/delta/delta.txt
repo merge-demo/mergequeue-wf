@@ -10229,7 +10229,7 @@ defoaming
 despise
 dynamitish 1
 dinkier
-defrauded
+defrauded 1
 dinking
 dinkum
 detractory
