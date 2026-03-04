@@ -5296,7 +5296,7 @@ gromil
 glycerite
 gigmanism
 glabrous 1
-guttier
+guttier 1
 gadswoons
 glycyrrhizin
 gimps
