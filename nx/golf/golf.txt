@@ -10275,7 +10275,7 @@ gibblegabble
 gradatim
 galvanomagnet
 grasshopperdom
-gymnoceratous
+gymnoceratous 1
 galliambus
 gerrymanderer 1
 gorges
