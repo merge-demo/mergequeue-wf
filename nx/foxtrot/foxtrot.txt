@@ -5704,7 +5704,7 @@ forbearingly 1
 flitted
 flashcube
 fulgurata
-feoffing
+feoffing 1
 firetop
 flimflams
 fierily
