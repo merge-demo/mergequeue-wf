@@ -17008,7 +17008,7 @@ duckling
 dressier
 disilicic
 donned 1
-dipsosis
+dipsosis 1
 disentombment
 dreamsily
 depressively
