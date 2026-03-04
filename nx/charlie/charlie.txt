@@ -24186,7 +24186,7 @@ concertantes
 colleterial
 compost
 cunning
-convocations
+convocations 1
 convocative
 convocator
 cantabrize
