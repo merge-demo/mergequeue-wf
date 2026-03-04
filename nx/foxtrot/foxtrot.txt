@@ -8611,7 +8611,7 @@ feigner
 fluviomarine
 fossilize
 fornicatrix
-fructidor
+fructidor 1
 frameshift
 freit
 fullfil 1
