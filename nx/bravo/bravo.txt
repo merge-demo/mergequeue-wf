@@ -14775,7 +14775,7 @@ brachydodromous
 biobibliographic
 bushels 1
 bowpots
-bowlings
+bowlings 1
 bronzer
 bename
 bibliopolic
