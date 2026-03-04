@@ -2916,7 +2916,7 @@ echoizing
 epergne
 exocycloida
 entrancingly
-enthrall
+enthrall 1
 effortful
 evisite
 erzahler
