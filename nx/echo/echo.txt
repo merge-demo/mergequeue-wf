@@ -5123,7 +5123,7 @@ elucidated
 esophagalgia 1
 enterocoel
 emergencies
-entogenous 1
+entogenous 2
 exhilarate 1
 eritrean
 enteroptotic
