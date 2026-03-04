@@ -5613,7 +5613,7 @@ energistic
 europe
 enraged
 elysium
-esophoria
+esophoria 1
 enforceable
 enamourment 1
 elymi
