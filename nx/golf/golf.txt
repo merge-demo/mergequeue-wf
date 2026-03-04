@@ -1483,7 +1483,7 @@ gasifies 1
 gridiron
 grantable
 garderobe 1
-gladsome
+gladsome 1
 garotted
 goutish 1
 glairing 1
