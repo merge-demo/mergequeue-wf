@@ -16970,7 +16970,7 @@ doorcheek
 delegator
 dendrocoela
 disjoined
-diacritically
+diacritically 1
 displenish
 defrication
 dreikanter
