@@ -5889,7 +5889,7 @@ entocalcaneal
 evangeliaries 1
 electrocutional
 euthyroid
-episcopalian
+episcopalian 1
 excessman
 enhaemospore
 eldfather
