@@ -9308,7 +9308,7 @@ guidebook
 grenade
 geomagnetics
 globetrotting
-gi
+gi 1
 grundified
 greeshoch
 geophones
