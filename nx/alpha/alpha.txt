@@ -12064,7 +12064,7 @@ archpretender
 asepsis
 antiworld
 antimagistratical
-anthracitious
+anthracitious 1
 aneretic
 algebrization
 antiquers
