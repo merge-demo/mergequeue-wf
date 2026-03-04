@@ -20532,7 +20532,7 @@ admix
 arteriotrepsis
 agyria
 astrologers
-amman
+amman 1
 androscoggin
 antilytic
 aleurobius
