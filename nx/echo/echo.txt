@@ -1996,7 +1996,7 @@ elastics
 exothermal 1
 economizing
 effetman
-electrine
+electrine 1
 ekka
 enwind
 entoproct
