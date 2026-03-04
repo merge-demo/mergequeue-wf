@@ -5152,7 +5152,7 @@ dtente
 dioptrometer
 dumbfounded
 denyingly
-disorganizes
+disorganizes 1
 dorsolumbar
 denim
 demoness
