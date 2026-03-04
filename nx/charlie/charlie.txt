@@ -3817,7 +3817,7 @@ ciconia
 chloroethylene
 carbazic
 carbazylic
-cheerios
+cheerios 1
 civilist
 chuggers
 carbazole
