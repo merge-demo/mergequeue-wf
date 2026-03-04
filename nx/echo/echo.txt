@@ -11736,7 +11736,7 @@ etiotropic
 eccentricity
 emundation 1
 expo
-entogastric
+entogastric 1
 exaggeratingly
 exoascus
 extralinguistically
