@@ -9755,7 +9755,7 @@ erinize
 effects
 excression
 equisonance
-eddo
+eddo 1
 emerick 1
 enneahedron 1
 exodist
