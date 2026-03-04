@@ -5661,7 +5661,7 @@ elasmosaurus
 everbearing
 entozoans 1
 euploid 1
-eneuch
+eneuch 1
 endophasic
 erotism
 entrough
