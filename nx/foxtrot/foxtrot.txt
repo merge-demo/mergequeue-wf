@@ -5036,7 +5036,7 @@ frolicker
 faust 1
 flammule
 fomites
-fatidic
+fatidic 1
 flatness 1
 fascinery
 fodders
