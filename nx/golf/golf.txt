@@ -7867,7 +7867,7 @@ gileno
 greylags
 glandules
 gawn
-gynaeocracy
+gynaeocracy 1
 germing
 gudge 1
 gurdy
