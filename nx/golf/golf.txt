@@ -6505,7 +6505,7 @@ gilguy
 globuliform
 glutting
 gulfweeds
-gutterize
+gutterize 1
 golfs
 greyskin
 guiders
