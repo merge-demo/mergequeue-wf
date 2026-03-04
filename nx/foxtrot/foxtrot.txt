@@ -6460,7 +6460,7 @@ fictionally 1
 faence
 forefoot
 fullery
-filionymic
+filionymic 1
 fronture
 fleche
 furry 1
