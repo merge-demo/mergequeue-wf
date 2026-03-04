@@ -12761,7 +12761,7 @@ dislocatory 1
 dirges 1
 detroit
 demonologer
-dodrans
+dodrans 1
 dupondii
 dakoits
 domesticize
