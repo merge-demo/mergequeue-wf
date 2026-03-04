@@ -14175,7 +14175,7 @@ electrifies
 elderbrotherhood 1
 eviction
 ellen
-exultingly
+exultingly 1
 empyromancy
 embelic
 eebree
