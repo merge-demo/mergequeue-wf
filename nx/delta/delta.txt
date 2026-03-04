@@ -858,7 +858,7 @@ defiantness
 deuteronomistic
 dummerer
 doggishness
-deter
+deter 1
 dori
 dermotherm
 dripproof
