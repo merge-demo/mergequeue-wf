@@ -9029,7 +9029,7 @@ faustian
 frangibleness
 fourteenths
 froren
-fatiguingly
+fatiguingly 1
 forra 1
 firethorn
 fireroom
