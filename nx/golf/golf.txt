@@ -2693,7 +2693,7 @@ geminal
 gnatho
 groundmass
 grasshopperish
-geometricist
+geometricist 1
 gryllidae
 gomerels
 grided
