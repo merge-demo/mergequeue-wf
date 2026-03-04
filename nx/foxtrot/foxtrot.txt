@@ -4315,7 +4315,7 @@ freed
 ferdwit
 facetting
 fundamentalness
-foiblesse
+foiblesse 1
 foreordains
 fendable 1
 feudalized 1
