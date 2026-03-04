@@ -5523,7 +5523,7 @@ afterthrift
 apastron
 adduceable
 armil
-anchoritically
+anchoritically 1
 absorptivity 1
 aphototaxis
 aftervision
