@@ -8402,7 +8402,7 @@ epithyme
 eloped
 epityphlitis
 erythrosinophile
-esophagopathy
+esophagopathy 1
 epineurium 1
 evolutional
 expeding
