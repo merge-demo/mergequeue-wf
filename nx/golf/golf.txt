@@ -350,7 +350,7 @@ galoped
 grimsire 1
 gremlins
 gauric
-galactotrophy
+galactotrophy 1
 gynobasic 1
 galangin
 gunslinger
