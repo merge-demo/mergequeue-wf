@@ -8533,7 +8533,7 @@ exterminators
 eydent
 expansions
 externally
-endball
+endball 1
 evenwise
 exculpation
 eleemosynariness 1
