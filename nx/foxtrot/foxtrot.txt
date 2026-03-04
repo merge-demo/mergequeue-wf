@@ -4984,7 +4984,7 @@ fordid 2
 facetiously
 fadging
 flightshot
-fergusite
+fergusite 1
 frenetic
 forewrought
 firefanged

@@ -11227,7 +11227,7 @@ avoir
 apetalies 1
 axiality
 amphithura
-amphipnous
+amphipnous 1
 amphibian 1
 anticodon
 asperated
