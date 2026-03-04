@@ -2660,7 +2660,7 @@ gelling
 grout
 glamorizer 1
 guptavidya
-galvanoglyphy
+galvanoglyphy 1
 guara
 grihyasutra
 grippingly
