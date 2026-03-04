@@ -229,7 +229,7 @@ grucche
 gravure
 goniocraniometry
 gimirrai
-grantor
+grantor 1
 gluelike
 goajiro
 gomphosis
