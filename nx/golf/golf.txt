@@ -1479,7 +1479,7 @@ goalposts
 genuses
 guested
 gonk
-gasifies 1
+gasifies 2
 gridiron
 grantable
 garderobe 1
