@@ -5785,7 +5785,7 @@ autostethoscope
 adolph
 agenting
 agentives 1
-allergic
+allergic 1
 acacia
 adducing
 arousable
