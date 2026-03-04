@@ -8559,7 +8559,7 @@ fornax 1
 fard
 fibrositis
 franklinization
-fulgid
+fulgid 1
 furculum
 farandman
 forcipressure
