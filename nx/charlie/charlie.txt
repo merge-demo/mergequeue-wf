@@ -2243,7 +2243,7 @@ camstane
 coneine
 caval
 camstone
-cirripede
+cirripede 1
 cholecystolithotripsy
 camus
 camused
