@@ -4383,7 +4383,7 @@ decapitations
 damoetas
 dolomitized
 drones
-despairfulness
+despairfulness 1
 dukedoms
 desultory
 demesgne 1
