@@ -25083,7 +25083,7 @@ cee 1
 curtation
 coregency
 courtlet
-coregnancy
+coregnancy 1
 cubicity
 coplotted
 counterbalancing
