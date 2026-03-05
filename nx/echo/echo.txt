@@ -13716,7 +13716,7 @@ externe
 evolutoid
 epistolic
 excursionize 1
-eikon
+eikon 1
 enginous
 evasive
 euphemiser
