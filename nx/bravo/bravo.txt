@@ -5595,7 +5595,7 @@ bekisses
 belock
 beknighted 1
 benzothiophene 1
-beveller 1
+beveller 2
 ballistite
 burrio
 brassicaceous
