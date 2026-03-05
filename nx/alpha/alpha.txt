@@ -19524,7 +19524,7 @@ accuracy
 aoife
 argufying
 aubusson
-afars
+afars 1
 asterinidae
 admiration
 apnea
