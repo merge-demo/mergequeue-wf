@@ -10129,7 +10129,7 @@ guffer
 gastrohepatitis
 glottologic
 genevas
-gynecocracy
+gynecocracy 1
 gazolyte
 gilding
 gideonite
