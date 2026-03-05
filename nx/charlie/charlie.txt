@@ -7777,7 +7777,7 @@ chorizo
 confabulation
 ceroplastics 1
 cyanocrystallin
-cerosin
+cerosin 1
 cerote
 chastises 1
 cerotin
