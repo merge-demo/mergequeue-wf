@@ -8128,7 +8128,7 @@ foretasting
 fermacy
 fretsaw 1
 falisci
-fanaticalness
+fanaticalness 1
 foretell
 fersmite
 felons
