@@ -1787,7 +1787,7 @@ glycine
 gross
 gowkit
 gastrocolostomy
-geodesia
+geodesia 1
 gold
 gunless
 gthite
