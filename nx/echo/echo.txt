@@ -8519,7 +8519,7 @@ epsilons
 equivalency 1
 enage
 earthkin
-entryways
+entryways 1
 examinability
 enzymologies
 endocolpitis
