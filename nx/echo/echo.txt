@@ -647,7 +647,7 @@ echinocactus
 euro
 enwreathing
 eversions
-entertained
+entertained 1
 epeus
 ey
 engrailment 1
