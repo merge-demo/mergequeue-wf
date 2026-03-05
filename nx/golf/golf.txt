@@ -1284,7 +1284,7 @@ guepard
 glowered 1
 giro
 grindal
-garganey
+garganey 1
 gastropancreatitis
 garget
 gibbousness 1
