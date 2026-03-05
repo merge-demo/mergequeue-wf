@@ -8989,7 +8989,7 @@ glovemaking 1
 girned 1
 gabion
 goldtit 1
-geognosist 1
+geognosist 2
 gazeless
 glory
 goodyear
