@@ -12217,7 +12217,7 @@ analog
 antinous
 atheromatous 1
 anaclete
-agnes
+agnes 1
 antipestilent
 academised 2
 autotoxicity
