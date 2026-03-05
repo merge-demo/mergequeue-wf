@@ -5133,7 +5133,7 @@ damozel
 distemperure
 dowable
 dabbling
-dilettanist
+dilettanist 1
 duffs
 drumsler
 denied
