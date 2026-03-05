@@ -10111,7 +10111,7 @@ gnomic
 grouping 1
 gaskets
 gauderies
-geotectonic
+geotectonic 1
 gilgamesh
 gmelina
 govt
