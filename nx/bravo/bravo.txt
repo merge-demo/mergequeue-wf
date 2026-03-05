@@ -5528,7 +5528,7 @@ bludgeoned
 biopoiesis
 bemurmured
 bobowler
-banditism
+banditism 1
 benefactive 1
 begnawn
 brandisher
