@@ -10510,7 +10510,7 @@ etiquettical 1
 emeus
 explicable
 etna
-etrenne
+etrenne 1
 exsurgent
 etrog
 etruscology
