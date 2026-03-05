@@ -7762,7 +7762,7 @@ arctia
 alea
 aleak 1
 archcorsair
-actuating
+actuating 1
 aleatoric
 aeschynite
 academics
