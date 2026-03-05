@@ -10361,7 +10361,7 @@ dioptrical
 duhr 1
 doubtful
 diorama
-decimator
+decimator 1
 daroo
 delinquently
 diophantine
