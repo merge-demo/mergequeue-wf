@@ -6162,7 +6162,7 @@ goanna
 gewgaws
 grandmontine
 gushiness
-goniatites
+goniatites 1
 gallate
 garpikes
 glaziery
