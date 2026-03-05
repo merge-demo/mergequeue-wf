@@ -12559,7 +12559,7 @@ exoascales
 equalling
 empeo
 enkindled
-exobasidiaceae
+exobasidiaceae 1
 epiplopexy
 epithesis
 ebionize
