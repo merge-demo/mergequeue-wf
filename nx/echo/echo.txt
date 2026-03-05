@@ -11832,7 +11832,7 @@ extracorpuscular
 extraembryonal
 exulcerated
 envassal 1
-exprobration
+exprobration 1
 ekphore
 ewte
 exorcises 1
