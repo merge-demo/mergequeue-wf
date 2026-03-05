@@ -29534,7 +29534,7 @@ crithomancy
 critic
 criticality
 criticalness
-centervelic
+centervelic 1
 colophonist
 crabbed
 criticaster
