@@ -20409,7 +20409,7 @@ adjutorious
 armenize
 antejentacular
 avowe
-antalgic
+antalgic 1
 ameliorable 1
 adoxy 2
 antiwit
