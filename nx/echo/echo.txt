@@ -5430,7 +5430,7 @@ evinces
 endshake 1
 easterly 1
 enfirm
-eaglelike 1
+eaglelike 2
 esthetology
 endurer
 emesidae
