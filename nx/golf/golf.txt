@@ -4190,7 +4190,7 @@ gulflike
 gossy
 grenat 1
 granuloblastic
-geomagnetic
+geomagnetic 1
 gumtrees 1
 gimped
 gimpier
