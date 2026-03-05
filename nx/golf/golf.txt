@@ -5883,7 +5883,7 @@ guaranteers
 gluepot
 gendered
 gynophoric
-gorb
+gorb 1
 gaylussacia 1
 geyseric
 geonyctinastic 1
