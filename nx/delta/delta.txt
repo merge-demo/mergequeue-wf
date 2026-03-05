@@ -13704,7 +13704,7 @@ degender
 dreariment
 dampy
 devises 1
-demisemitone
+demisemitone 1
 dullardness
 dissymmetrically
 discoursive
