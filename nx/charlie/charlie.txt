@@ -27922,7 +27922,7 @@ crackdowns
 coelostat
 coenobium
 cionoptosis
-crackerjacks
+crackerjacks 1
 crackers
 cradlemaking
 consolidates
