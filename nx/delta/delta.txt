@@ -16473,7 +16473,7 @@ disjuncts 1
 dictated
 diversiform
 dysaesthesia
-dehydrofreezing
+dehydrofreezing 1
 dethroning
 dibblers
 dentello
