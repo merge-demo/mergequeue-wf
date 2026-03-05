@@ -7674,7 +7674,7 @@ figary
 fixed 1
 flaithship
 flashlike
-fucaceous
+fucaceous 1
 foregift
 forgiveless
 feyness
