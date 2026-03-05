@@ -4187,7 +4187,7 @@ ganef
 grotesquery
 glacify
 gulflike
-gossy
+gossy 1
 grenat 1
 granuloblastic
 geomagnetic 1
