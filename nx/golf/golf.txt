@@ -8569,7 +8569,7 @@ glabriety
 gradually
 genteelest 1
 glenlivet
-gladful
+gladful 1
 griped
 goodbyes
 griffithite

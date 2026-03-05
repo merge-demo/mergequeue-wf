@@ -7155,7 +7155,7 @@ fusional 1
 fostership
 forgeability
 foolproofness
-frostlike
+frostlike 1
 fissureless
 fibulare
 frocking 1
