@@ -2160,7 +2160,7 @@ foreignership
 fractioned
 frontiers
 flectional 1
-feverless
+feverless 1
 falsities
 funnels
 floozies
