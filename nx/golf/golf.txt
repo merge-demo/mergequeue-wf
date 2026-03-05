@@ -10568,7 +10568,7 @@ gaminish
 garnisher
 genyantrum
 girted
-guttiform
+guttiform 1
 glossed 1
 gumweed
 gladden 1
