@@ -1896,7 +1896,7 @@ fecalith 1
 frithborh
 fruitage
 filtrated
-foamless
+foamless 1
 formably
 furtherance
 fimbrilla
