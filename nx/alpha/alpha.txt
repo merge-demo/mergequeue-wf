@@ -1145,7 +1145,7 @@ academy
 anthropocentrism 1
 apheliotropism
 asterisms
-aploperistomatous
+aploperistomatous 1
 arseniosiderite
 anaplasis
 adolf
