@@ -13567,7 +13567,7 @@ exsiccating
 equinus 1
 embowment
 enriches
-ergusia
+ergusia 1
 eutechnics
 electrodiagnostically 1
 etiolates
