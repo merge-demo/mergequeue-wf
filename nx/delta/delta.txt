@@ -17953,7 +17953,7 @@ determinacy
 demandable
 dossals
 dietitian
-dvandva
+dvandva 1
 decarbonizer
 dugouts
 dreiling 1
