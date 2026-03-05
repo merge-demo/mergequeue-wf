@@ -10070,7 +10070,7 @@ flor 1
 foollike
 flans 1
 firiness
-fringelet
+fringelet 1
 fruitier
 feminacy
 fringetail
