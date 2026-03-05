@@ -3930,7 +3930,7 @@ gouges 1
 geometrising
 glowing 2
 grubworms
-gigawatts 1
+gigawatts 2
 glioma 1
 granivore
 graphium
