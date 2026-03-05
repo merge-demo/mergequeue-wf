@@ -145,7 +145,7 @@ gremiale 1
 galvanosurgery 1
 genevoise
 gybe
-glandulous
+glandulous 1
 gilds
 gelosin
 generification
