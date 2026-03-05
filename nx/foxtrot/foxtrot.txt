@@ -6066,7 +6066,7 @@ fribbles
 funambuloes
 firmamental
 fictioneering
-featishness
+featishness 1
 fille 1
 foolscaps 1
 felspars
