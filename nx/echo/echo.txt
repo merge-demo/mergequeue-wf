@@ -7925,7 +7925,7 @@ excitor
 epibiotic
 effulging
 epihydric 1
-eunuchised
+eunuchised 1
 expertizing
 etymologist 3
 edgingly
