@@ -5084,7 +5084,7 @@ dendrocolaptidae 1
 debtors 1
 dendroctonus
 diplopiaphobia
-divergency
+divergency 1
 dendroeca
 drakes
 degrade
