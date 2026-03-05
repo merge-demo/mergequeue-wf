@@ -11374,7 +11374,7 @@ conscienceless
 chloroplatinous 1
 chloroprene
 creature
-chloroquine
+chloroquine 1
 coronas
 camagon
 cyclamates 1
