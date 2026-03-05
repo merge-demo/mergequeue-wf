@@ -1230,7 +1230,7 @@ acanthopodous
 aqueously
 acanthopteran
 airlike
-auriculariae
+auriculariae 1
 articulare
 adversed
 acromia
