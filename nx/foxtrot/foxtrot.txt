@@ -851,7 +851,7 @@ falsifiers
 felstone
 fervorous
 forbow
-free
+free 1
 fermage
 fantasying
 fluxionally
