@@ -4496,7 +4496,7 @@ demigroat
 demonio
 dogmatician
 draftproof
-dispiritedness
+dispiritedness 1
 demihagbut
 dispair
 distressingly
