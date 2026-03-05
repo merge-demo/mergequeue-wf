@@ -20723,7 +20723,7 @@ axonemes
 articulars
 accessively
 adumbrative 1
-articulated
+articulated 1
 abut
 amimia
 articulates

@@ -2281,7 +2281,7 @@ flotation
 fistulizing 1
 fenestrae 1
 fenestrated
-fulcrumed
+fulcrumed 1
 fanglement
 fistulana
 floter
