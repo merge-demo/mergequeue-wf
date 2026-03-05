@@ -6408,7 +6408,7 @@ disenchants
 duce
 dimity
 discommodiously
-deruinate
+deruinate 1
 derust
 decameronic 1
 dispathy
