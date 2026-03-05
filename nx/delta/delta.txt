@@ -8227,7 +8227,7 @@ dowly
 didodecahedron
 diaeretic
 diageotropic
-desmopelmous
+desmopelmous 1
 deplaceable
 decarbonised
 decodon
