@@ -3071,7 +3071,7 @@ feroce
 fluffy
 foretriangle
 famishes
-fettle
+fettle 1
 foreboot 2
 fibrinose
 ferdiad
