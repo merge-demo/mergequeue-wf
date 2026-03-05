@@ -6865,7 +6865,7 @@ entropion 1
 eggler
 exhalent
 entom
-extender
+extender 1
 episternalia
 extramental
 eumenes
