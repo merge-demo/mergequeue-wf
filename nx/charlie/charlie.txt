@@ -391,7 +391,7 @@ cacomagician
 cacomelia
 cacomistle
 cacomixle
-canoeing
+canoeing 1
 choriocapillaris
 cacomorphia
 ceramography
