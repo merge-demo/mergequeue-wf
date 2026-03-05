@@ -11647,7 +11647,7 @@ cyanamids
 cholesteatoma
 cholesteatomatous
 cholesteremia
-cleidohyoid
+cleidohyoid 1
 charoset
 chowdered
 clethra
