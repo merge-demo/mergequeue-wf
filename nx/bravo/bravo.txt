@@ -13175,7 +13175,7 @@ boroughmonger
 bismite
 barks
 blaspheme
-bankrupts
+bankrupts 1
 borowolframic
 belter
 beheadlined
