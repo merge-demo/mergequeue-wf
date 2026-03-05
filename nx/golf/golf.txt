@@ -9772,7 +9772,7 @@ glancer
 gripe 1
 googolplex
 grummet 1
-governmentally
+governmentally 1
 gearing 1
 gable
 gawkily
