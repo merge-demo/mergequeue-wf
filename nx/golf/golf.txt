@@ -4275,7 +4275,7 @@ guipure
 grieves
 gentisein
 glumales 1
-gustativeness
+gustativeness 1
 girlchild 1
 galeod
 gnocchetti
