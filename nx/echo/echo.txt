@@ -3556,7 +3556,7 @@ emblazoned 1
 emblazoner 1
 extractorship
 expeditions
-emblazonments
+emblazonments 1
 elastic
 etherialising 1
 exomorphism
