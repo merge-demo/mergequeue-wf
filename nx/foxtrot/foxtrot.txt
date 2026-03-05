@@ -9641,7 +9641,7 @@ fleetest 1
 fothering
 flanger
 finalism 1
-foretells
+foretells 1
 filipinize
 fleeceable
 firefly
