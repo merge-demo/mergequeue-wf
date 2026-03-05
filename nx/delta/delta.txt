@@ -6738,7 +6738,7 @@ deceased
 dissyllabized
 decastyle
 desilt
-disregular
+disregular 1
 deerweeds
 diplarthrism 1
 depraving
