@@ -17412,7 +17412,7 @@ digitule
 danged 1
 droseraceae
 droseraceous
-deliquate
+deliquate 1
 drosometer
 decarbonising
 drosophilas
