@@ -7842,7 +7842,7 @@ geographical
 gaj
 geophone
 gegg 1
-groaners
+groaners 1
 glutton
 ghastfully 1
 guillotines
