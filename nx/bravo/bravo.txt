@@ -10456,7 +10456,7 @@ boyards
 barytostrontianite 1
 buoying
 burinist
-bookwise
+bookwise 1
 brutalized 1
 brimborium
 bedeafens
