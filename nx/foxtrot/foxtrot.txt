@@ -4993,7 +4993,7 @@ firepan
 flosculous
 forthright
 fulcraceous
-fifes
+fifes 1
 faces
 flamencos
 fermentability 1
