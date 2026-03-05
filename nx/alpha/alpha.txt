@@ -680,7 +680,7 @@ abondance
 alluvials
 aimara
 apostrophation
-ambulatories
+ambulatories 1
 abonnement 1
 artesian
 azalea 1
