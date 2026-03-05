@@ -2666,7 +2666,7 @@ falanaka
 flowerful 1
 forwoden
 freshes
-fluocerite
+fluocerite 1
 firmless
 fluviatic 1
 feeding
