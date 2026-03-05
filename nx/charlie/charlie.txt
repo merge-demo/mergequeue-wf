@@ -24636,7 +24636,7 @@ chordotonal
 copywriting
 clamshell
 coplanarities 1
-cavern
+cavern 1
 cozinesses
 coplot
 comoquer
