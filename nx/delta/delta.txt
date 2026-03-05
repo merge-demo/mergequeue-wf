@@ -5933,7 +5933,7 @@ diversifications
 doubleyou
 disentraced
 dere
-defeatee
+defeatee 1
 depriment
 dodonaea
 depriorize
