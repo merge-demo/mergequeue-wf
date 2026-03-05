@@ -4790,7 +4790,7 @@ frises
 fridila
 fricatrice
 flacianist
-fattable
+fattable 1
 forerank
 faldfee
 forehock
