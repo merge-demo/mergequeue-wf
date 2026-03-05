@@ -11645,7 +11645,7 @@ dishabit 1
 defeminize
 dolioform
 discontinuee
-disprepare
+disprepare 1
 daggletail
 dreamlessness 1
 deconsecrated
