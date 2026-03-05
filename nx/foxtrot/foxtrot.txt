@@ -8990,7 +8990,7 @@ fermental
 foolfishes 1
 feringhee
 fusiformis
-fluminose
+fluminose 1
 flummoxed
 fratries
 fouquieriaceous 1
