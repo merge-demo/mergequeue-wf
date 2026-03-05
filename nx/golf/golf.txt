@@ -2718,7 +2718,7 @@ guanins 1
 guanos
 gainsayers
 gunfire
-generability
+generability 1
 gorraf
 goulan
 gipped
