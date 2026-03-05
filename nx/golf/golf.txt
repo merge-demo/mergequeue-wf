@@ -6262,7 +6262,7 @@ guiser
 gallify
 gynophagite
 gasogenes
-ginglymus
+ginglymus 1
 geodesical
 golems
 gonfalons 1
