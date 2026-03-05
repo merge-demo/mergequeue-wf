@@ -10480,7 +10480,7 @@ genizero 1
 geyserite 1
 gingernut 1
 gregal
-garbardine
+garbardine 1
 ghoulishness
 graduand
 glareous
