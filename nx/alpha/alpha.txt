@@ -2374,7 +2374,7 @@ artifact 1
 alkalic
 alizari
 archontate
-advertised
+advertised 1
 adytta 1
 acyloins
 abolishment
