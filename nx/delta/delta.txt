@@ -1719,7 +1719,7 @@ devotes
 deathless
 decad
 decumaria
-deathlessness
+deathlessness 1
 deathlikeness
 dundees
 deathliness
