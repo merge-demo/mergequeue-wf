@@ -2189,7 +2189,7 @@ granth
 genarchship
 greese
 giraffoid
-geoidal
+geoidal 1
 got 1
 garmented
 gynomonoecious
