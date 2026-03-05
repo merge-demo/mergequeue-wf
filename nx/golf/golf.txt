@@ -3946,7 +3946,7 @@ gnathion
 gnomonics
 geriatrics
 geds
-genospecies
+genospecies 1
 gargoyle
 gynecocratical 1
 gynandrarchic 1
