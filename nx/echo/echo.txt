@@ -8046,7 +8046,7 @@ educables 1
 expressly
 epinikia
 ecclesiologically
-euripidean
+euripidean 1
 extendible
 exomorphic
 evertebral
