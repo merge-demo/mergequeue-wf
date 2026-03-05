@@ -3692,7 +3692,7 @@ franchisee
 fiddleback
 foregoneness
 fovea 1
-fanes
+fanes 1
 foredate 1
 foregoer
 fluorocarbons
