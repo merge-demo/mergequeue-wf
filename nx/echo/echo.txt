@@ -10578,7 +10578,7 @@ eucharitidae
 expenses
 epitaxy
 eviscerator
-epidemiologically
+epidemiologically 1
 ephebeubea 1
 epitoxoid
 epistolized
