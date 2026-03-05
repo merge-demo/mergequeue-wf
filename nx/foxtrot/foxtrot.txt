@@ -4473,7 +4473,7 @@ fodient
 faineantise
 foreseeable
 flabellum
-freewheel
+freewheel 1
 fibroglioma 1
 fannings 1
 farcied
