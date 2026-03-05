@@ -5562,7 +5562,7 @@ aminoaciduria
 asquare
 agag
 avarian
-apprehensively
+apprehensively 1
 arsenobismite 1
 appointees
 andabatarian
