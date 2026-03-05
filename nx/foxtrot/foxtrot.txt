@@ -2075,7 +2075,7 @@ flyovers 1
 flexions
 fusibleness
 founderous
-fideistic
+fideistic 1
 flamed
 fidicula
 federalist
