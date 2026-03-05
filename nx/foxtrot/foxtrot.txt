@@ -2585,7 +2585,7 @@ flavouring
 fouty
 flossiness 1
 falsettos
-franchiser 2
+franchiser 3
 flecnode
 fibrocytic
 folklorists 1
