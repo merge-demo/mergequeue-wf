@@ -7230,7 +7230,7 @@ desulfurize
 drammocks
 detenues
 detonatable 1
-dephlegmator
+dephlegmator 1
 deterged
 dilettantship 1
 diagnoses
