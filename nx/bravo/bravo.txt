@@ -8185,7 +8185,7 @@ beelzebub
 benzopinacone 1
 beloeilite
 ballonet
-burnie
+burnie 1
 beardie
 basiliscine
 bailouts
