@@ -6051,7 +6051,7 @@ ecumenicalism
 erotization 1
 ethnology
 elod
-eluant
+eluant 1
 enfever
 edinburgh
 escheated
