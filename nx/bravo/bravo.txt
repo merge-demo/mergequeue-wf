@@ -11065,7 +11065,7 @@ balanta
 backrest
 between
 brachygnathous
-bredestitch
+bredestitch 1
 bimetallic
 bicentrically
 block 1
