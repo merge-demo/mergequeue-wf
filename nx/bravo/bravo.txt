@@ -3348,7 +3348,7 @@ basitemporal
 beguilers
 balao
 bewrays
-basitting
+basitting 1
 basiventral
 basked
 bison
