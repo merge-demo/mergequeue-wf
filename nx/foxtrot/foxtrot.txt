@@ -11050,7 +11050,7 @@ fermented 1
 firmarii
 fumuli
 fungated
-fummle
+fummle 1
 fere
 fascias
 fabrics
