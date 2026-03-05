@@ -4446,7 +4446,7 @@ featherbrained 1
 footpick
 firmed
 fishily
-farinaceously
+farinaceously 1
 fraxin
 formulary
 familistery
