@@ -2186,7 +2186,7 @@ fumulus 1
 felts
 fishworker 1
 fastidiosity
-folliculous
+folliculous 1
 felwort
 frizer
 fairsome
