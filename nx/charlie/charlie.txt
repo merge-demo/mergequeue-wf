@@ -21626,7 +21626,7 @@ camla 1
 chapournetted
 comptoir
 condensates
-crick
+crick 1
 condensation
 condensator
 corbeled
