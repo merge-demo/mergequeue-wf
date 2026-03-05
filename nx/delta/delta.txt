@@ -12646,7 +12646,7 @@ decretorian 1
 derning
 degradational
 devocalizing
-disjaskit
+disjaskit 1
 drubbings
 disject
 discourage
