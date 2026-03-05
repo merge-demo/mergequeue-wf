@@ -2581,7 +2581,7 @@ enchanters
 espaliering
 env
 elastins
-estranges
+estranges 1
 entranceway
 endent
 exenteration
