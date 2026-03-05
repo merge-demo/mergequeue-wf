@@ -8335,7 +8335,7 @@ fraughan
 flagman
 fossilizable
 fronter 2
-fanflower
+fanflower 1
 folial
 fouldre
 frizzers
