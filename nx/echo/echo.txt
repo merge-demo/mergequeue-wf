@@ -5222,7 +5222,7 @@ edginesses
 endurance
 edificative
 eyrer
-egoistical
+egoistical 1
 epithelia
 ecchymotic
 euchroic

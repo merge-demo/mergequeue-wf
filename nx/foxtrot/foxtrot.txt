@@ -7287,7 +7287,7 @@ ferfathmur 1
 featy
 fifer
 frivolize
-foolocracy
+foolocracy 1
 finery
 fairer
 faultlessly
