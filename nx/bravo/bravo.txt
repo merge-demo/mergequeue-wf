@@ -4847,7 +4847,7 @@ bedspring
 bulgaria 1
 bumblefoot
 beedom
-benedicite
+benedicite 1
 bollix
 bedazzling
 bikh
