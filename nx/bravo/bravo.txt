@@ -2136,7 +2136,7 @@ bulker
 billbeetle
 bogbean
 banshies
-bornan
+bornan 1
 bronchostomy
 besetment
 branchihyal
