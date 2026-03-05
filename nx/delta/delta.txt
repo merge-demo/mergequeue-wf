@@ -1458,7 +1458,7 @@ disinherison
 dipropellant
 dyingly
 deuteroplasm
-dazement
+dazement 1
 deckhouses
 dazes
 defiled
