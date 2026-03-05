@@ -1548,7 +1548,7 @@ echograph
 entomophilous
 epicalyxes
 evected
-examens
+examens 1
 exaggeratedly
 enliven
 etch
