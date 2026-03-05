@@ -25159,7 +25159,7 @@ atomicity
 aphanipterous
 abduce
 aret
-aponeurositis
+aponeurositis 1
 axman
 atheological
 annulli 1
