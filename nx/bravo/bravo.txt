@@ -6673,7 +6673,7 @@ beeswings
 berimed
 beseemly
 berimes
-betangle
+betangle 1
 borachio
 bacterizing 1
 bacillian
