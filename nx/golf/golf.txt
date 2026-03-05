@@ -8909,7 +8909,7 @@ globy
 gapeseeds
 galluot
 galvanising 1
-gnaw
+gnaw 1
 geranomorphic
 guitarist
 gothicize
