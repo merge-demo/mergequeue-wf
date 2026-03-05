@@ -10060,7 +10060,7 @@ epitaxis
 evolutions 1
 expecting
 eccaleobion
-encastered
+encastered 1
 eolienne
 exitial
 entamoebiasis 2
