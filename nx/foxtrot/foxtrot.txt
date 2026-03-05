@@ -2029,7 +2029,7 @@ frisbees
 formative
 flunking
 facedown
-flitty
+flitty 1
 foreschool
 fermenting
 faucalize
