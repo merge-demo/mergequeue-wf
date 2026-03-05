@@ -5818,7 +5818,7 @@ agglutinative
 adamantine
 aerobe
 astrogonic 1
-agglutinatively
+agglutinatively 1
 angelonia
 aarrghh
 agglutinize
