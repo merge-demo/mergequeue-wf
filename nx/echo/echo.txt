@@ -11429,7 +11429,7 @@ eathly 1
 echocardiogram 1
 enveil
 equiformal 1
-engross
+engross 1
 esuriency
 endocrin
 emaciating
