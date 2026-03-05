@@ -14209,7 +14209,7 @@ desponsories
 depressing
 deictic
 duc 1
-disorientates
+disorientates 1
 dolesman
 dermatomic
 disaffirming
