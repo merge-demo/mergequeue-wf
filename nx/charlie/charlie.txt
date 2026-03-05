@@ -3160,7 +3160,7 @@ cristatella
 cultual
 cape
 chequerboard
-capelan
+capelan 1
 capelans
 cummin
 chromid
