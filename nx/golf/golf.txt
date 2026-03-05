@@ -4258,7 +4258,7 @@ gantang
 gomorrhean
 graveclothes
 goatlike
-gigantesque
+gigantesque 1
 gabfests
 goboes 1
 genesial
