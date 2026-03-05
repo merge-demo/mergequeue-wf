@@ -2816,7 +2816,7 @@ exclamations
 elementish 1
 experimentalize
 eudaemonistic
-extricates
+extricates 1
 epiblastema
 eructation
 entirely

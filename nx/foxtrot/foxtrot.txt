@@ -4504,7 +4504,7 @@ foreloop 2
 fishspear 1
 fluffier
 fretsaws
-frightened
+frightened 1
 fertilizations 1
 fountainwise
 fogeater
