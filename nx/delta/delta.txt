@@ -6749,7 +6749,7 @@ diocesans
 demoralizer
 diathermic
 deliber 1
-desilvers
+desilvers 1
 demoniacal
 diminishes
 deepish
