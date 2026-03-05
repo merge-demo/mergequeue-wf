@@ -6226,7 +6226,7 @@ fulmars
 ferrums 1
 filicinean
 falconet
-fewneses
+fewneses 1
 farrieries
 fabella
 filmiform
