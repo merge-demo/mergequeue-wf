@@ -17207,7 +17207,7 @@ disulfate
 dephysicalization
 diuturnal
 driveway
-demy
+demy 1
 decrepitation
 dingoes
 driftweed
