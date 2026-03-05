@@ -12841,7 +12841,7 @@ eccentrics
 exothermically
 eloignment
 eupomatia 2
-ern
+ern 1
 ecphorization
 emblematise
 echoic
