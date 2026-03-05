@@ -20617,7 +20617,7 @@ cubocuneiform
 congreve
 competitive
 coemptor
-competitiveness
+competitiveness 1
 competitor
 chatterboxes
 cutinised
