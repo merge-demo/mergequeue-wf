@@ -11027,7 +11027,7 @@ eupsychics
 enterogastrone
 electrobioscopy
 epitaphize
-epigastric
+epigastric 1
 eurasianism 1
 encapsulates
 endocervicitis
