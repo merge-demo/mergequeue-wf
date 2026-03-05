@@ -1195,7 +1195,7 @@ envious
 equivocalness
 estuaries 1
 enterobiasis
-edomitish
+edomitish 1
 escorial
 eurobin
 eutomous
