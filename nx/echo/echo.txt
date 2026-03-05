@@ -2765,7 +2765,7 @@ etymology
 epizoon
 epicauta
 engorge
-elegancy
+elegancy 1
 econometric
 eudialyte 1
 egos
