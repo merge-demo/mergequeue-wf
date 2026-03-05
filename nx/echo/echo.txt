@@ -1447,7 +1447,7 @@ electrodialyses 1
 electroshocks
 expandedness
 emetins
-exterous
+exterous 1
 emphasized 1
 endowing
 erasions

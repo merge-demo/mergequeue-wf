@@ -3613,7 +3613,7 @@ forestry
 fermentology
 fencelet 1
 flymen
-flenches
+flenches 1
 freedstool 1
 forgetable 1
 fractabling
