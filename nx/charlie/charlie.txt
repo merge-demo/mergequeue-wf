@@ -14052,7 +14052,7 @@ cleruchial 1
 circassic
 capivi
 corpuscle
-circe
+circe 1
 circean
 cuirasses 1
 circensian
