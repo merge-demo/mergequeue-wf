@@ -11576,7 +11576,7 @@ emendate
 engouled
 embryoma
 evincible
-ectopterygoid
+ectopterygoid 1
 epicurean
 evangeliarium 1
 exhaling
