@@ -2961,7 +2961,7 @@ galatian
 garnered
 gushingness 1
 gauchest
-gulping
+gulping 1
 grooved 1
 geminiform 1
 greening
