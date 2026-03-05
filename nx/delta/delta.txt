@@ -15800,7 +15800,7 @@ does 2
 deuteron
 deluge
 diabolatry 1
-disorients
+disorients 1
 dorsimeson 1
 devolatilization
 disyllabize
