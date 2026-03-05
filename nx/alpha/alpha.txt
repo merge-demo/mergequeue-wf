@@ -10459,7 +10459,7 @@ antirobin
 archprotopope
 amygdalaceous
 animated
-amygdalase
+amygdalase 1
 amygdalate
 assisted
 autoracemization
