@@ -8690,7 +8690,7 @@ gawkier
 guttling 2
 greekize 1
 gastraeal
-gnathonical
+gnathonical 1
 glareless
 groan
 gabbed
