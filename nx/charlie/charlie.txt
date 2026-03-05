@@ -3351,7 +3351,7 @@ colonizes
 capnomancy
 capnomor
 characterologically
-connivant
+connivant 1
 countermined
 celli
 colleri
