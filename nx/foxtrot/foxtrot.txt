@@ -10762,7 +10762,7 @@ focuses
 felup
 floatmaker
 footrope 1
-flagstaves
+flagstaves 1
 fireboot
 fausant
 fletches
