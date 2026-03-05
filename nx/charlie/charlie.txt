@@ -24521,7 +24521,7 @@ cappers
 catchwater
 cry
 capillus
-coetaneously
+coetaneously 1
 copehan 1
 copeia
 copelata
