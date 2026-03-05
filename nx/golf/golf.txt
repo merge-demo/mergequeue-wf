@@ -9198,7 +9198,7 @@ gazetteer
 gripping 1
 genupectoral
 gaurian
-griffonage
+griffonage 1
 grade
 glycocin
 guayule
