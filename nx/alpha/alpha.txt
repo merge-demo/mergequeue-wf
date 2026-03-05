@@ -5284,7 +5284,7 @@ affydavy
 anterosuperior 1
 acid
 astrictively
-affrightment
+affrightment 1
 affronted
 anidiomatic
 adenose
