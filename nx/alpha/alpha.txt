@@ -7713,7 +7713,7 @@ anabantidae
 acquophonia
 audiometrically
 aldm
-accumulatively
+accumulatively 1
 aghast
 acetaminol
 amorism
