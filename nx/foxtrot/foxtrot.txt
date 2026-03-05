@@ -1164,7 +1164,7 @@ fungistatically
 flashings
 fascine
 ferreous 1
-furring
+furring 1
 fascintatingly
 flavopurpurin
 forcer
