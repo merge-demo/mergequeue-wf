@@ -6515,7 +6515,7 @@ etherial
 espanoles
 electrography
 elocation
-entr
+entr 1
 embrocated
 elkhound
 electrolyzing 1
