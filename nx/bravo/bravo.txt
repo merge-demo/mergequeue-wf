@@ -6173,7 +6173,7 @@ bravo
 benefices
 blackthorn
 bluebonnet 1
-baccarat
+baccarat 1
 bromvoel 1
 beneficial
 borderlander
