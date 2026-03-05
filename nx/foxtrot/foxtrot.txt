@@ -3152,7 +3152,7 @@ forfication
 forehill
 flagged
 fakir
-footweary
+footweary 1
 funduline
 forbearing
 fibromyotomy
