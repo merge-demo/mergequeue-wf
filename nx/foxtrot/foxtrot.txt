@@ -4403,7 +4403,7 @@ fathomed
 feltwork
 fishboats
 fonduk
-faqir
+faqir 1
 fama
 fingerberry
 flechette
