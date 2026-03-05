@@ -5527,7 +5527,7 @@ ferreter
 fylker
 flitching
 frotton
-funniness
+funniness 1
 foreword
 frequentness
 flensed
