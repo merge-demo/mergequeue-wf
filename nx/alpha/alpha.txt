@@ -328,7 +328,7 @@ auletris
 acetonemia
 aphakia
 aftwards
-antjar
+antjar 1
 abends
 ampul
 aberdeen
