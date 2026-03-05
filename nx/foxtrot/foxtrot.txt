@@ -1792,7 +1792,7 @@ flyspecks
 fastener
 fractureproof
 fissiparous
-forane
+forane 1
 forefeeling
 fluidify
 featureful

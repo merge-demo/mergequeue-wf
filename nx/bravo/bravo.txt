@@ -17660,7 +17660,7 @@ boldfacing
 burlace
 bylaws
 brodyaga
-bevelling
+bevelling 1
 balancement
 bevomits
 birgus
