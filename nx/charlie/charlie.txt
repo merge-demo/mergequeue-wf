@@ -13764,7 +13764,7 @@ contemperature
 chroniclers
 chauvinistic 1
 cantons
-crestfallen
+crestfallen 1
 carrageen
 cinematically
 cinematizing
