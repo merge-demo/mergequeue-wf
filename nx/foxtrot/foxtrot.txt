@@ -1124,7 +1124,7 @@ foresay 1
 feverishness
 fauvism 1
 fractional
-fruitarianism
+fruitarianism 1
 furcula
 funnelling
 filiates
