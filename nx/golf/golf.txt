@@ -3948,7 +3948,7 @@ geriatrics
 geds
 genospecies
 gargoyle
-gynecocratical
+gynecocratical 1
 gynandrarchic 1
 grassnut
 grex
