@@ -8310,7 +8310,7 @@ glossophora 1
 gastly
 grapier
 gypsyesque
-giddea
+giddea 1
 grappa
 grandaunts
 gruff
