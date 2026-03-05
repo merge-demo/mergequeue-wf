@@ -4052,7 +4052,7 @@ funerally
 feudatorial
 farinhas
 foredawn 1
-fertilisability
+fertilisability 1
 fanos
 farmwife 1
 freckled
