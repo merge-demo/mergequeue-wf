@@ -5350,7 +5350,7 @@ gregarianism
 gelatinoid
 gormands
 ganoses
-gastroduodenoscopy
+gastroduodenoscopy 1
 graspers
 geotechnics
 gymnocarpic
