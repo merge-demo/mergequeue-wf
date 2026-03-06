@@ -12534,7 +12534,7 @@ eupione
 estolide
 esperantidist
 exculpative
-extoolitic
+extoolitic 1
 embarkations
 eftest
 extant
