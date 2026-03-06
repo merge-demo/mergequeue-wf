@@ -5064,7 +5064,7 @@ exemptible
 evertebrata
 equitangential
 eccentrically
-enslavers
+enslavers 1
 eremitic
 expending 1
 endochorionic 1
