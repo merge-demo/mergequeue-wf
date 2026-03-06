@@ -7266,7 +7266,7 @@ gageite
 grace
 gazeful 1
 gormandize
-glomi
+glomi 1
 greeted
 gwerziou
 gavelman
