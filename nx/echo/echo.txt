@@ -6462,7 +6462,7 @@ ensnarer
 echinostoma
 enlacement
 elfins 1
-excommunicated
+excommunicated 1
 edental
 eimak
 evenmete
