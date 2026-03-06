@@ -21541,7 +21541,7 @@ coerces
 concreted
 concretely
 canicule
-circumadjacent
+circumadjacent 1
 concreter
 concretional
 chemigrapher
