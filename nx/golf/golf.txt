@@ -1548,7 +1548,7 @@ gymnura
 garvance 1
 gauntlet
 gulanganes
-gar
+gar 1
 grangerised
 ganoidean
 gasterotheca
