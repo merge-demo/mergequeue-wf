@@ -10551,7 +10551,7 @@ entohyal
 equality
 endogastritis
 exsiccated
-encloser
+encloser 1
 exploitation
 extraplacental
 epivalve
