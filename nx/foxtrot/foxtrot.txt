@@ -10362,7 +10362,7 @@ fraenula
 fourragere 1
 floodlighted
 fetology 1
-forepointer
+forepointer 1
 fluoridized
 fattest
 filthify
