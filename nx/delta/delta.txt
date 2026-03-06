@@ -1114,7 +1114,7 @@ dumpfile
 dryfist
 dashee
 destructional
-defassa
+defassa 1
 depthing
 decarbonylate
 diaceturia
