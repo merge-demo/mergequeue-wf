@@ -9898,7 +9898,7 @@ eventration
 enfold
 exhaustively
 epimyth
-emmensite
+emmensite 1
 endlichite 1
 enterritoriality
 effulgence
