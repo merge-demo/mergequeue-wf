@@ -2895,7 +2895,7 @@ constructibility
 corticated
 cours
 cyeses
-canopus
+canopus 1
 canos
 canossa
 canotier
