@@ -13936,7 +13936,7 @@ avener
 adenoviral
 anhaemolytic
 auntie
-anteact
+anteact 1
 amphiprotic
 amoks
 achloropsia
