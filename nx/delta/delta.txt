@@ -11038,7 +11038,7 @@ decus 1
 decades
 disclosable
 demonstrandum
-dhoti
+dhoti 1
 disintegrationist
 dumfound
 dobbers 1
