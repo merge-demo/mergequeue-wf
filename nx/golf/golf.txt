@@ -2225,7 +2225,7 @@ gibbles
 gefulltefish
 gibbsite
 galax
-gryphite
+gryphite 1
 greggriffin
 geoplanidae 1
 gonimic

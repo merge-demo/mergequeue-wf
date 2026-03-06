@@ -9366,7 +9366,7 @@ eructance
 empoverish
 extendability 1
 extralegal
-eructative
+eructative 1
 emersions
 emoters
 eruditical
