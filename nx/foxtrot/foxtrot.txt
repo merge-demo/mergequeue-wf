@@ -5002,7 +5002,7 @@ funtumia
 fumbles
 frogman
 festellae
-festinate 1
+festinate 2
 fevertwitch
 fraunch
 flameout 1
