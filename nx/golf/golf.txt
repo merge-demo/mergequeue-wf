@@ -9701,7 +9701,7 @@ goldfields
 grumous 1
 gowaned
 gallowsmaker
-gelable
+gelable 1
 grubbiest
 gratefuller
 granddam 1
