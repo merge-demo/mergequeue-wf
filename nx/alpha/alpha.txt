@@ -2997,7 +2997,7 @@ actinocrinite
 actinodielectric 2
 appliers
 adenodermia
-angara
+angara 1
 ariose
 askings
 actinoelectrically
