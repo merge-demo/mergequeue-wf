@@ -4983,7 +4983,7 @@ dressmakership
 dom 1
 disnest
 dually
-driveling
+driveling 1
 dendrobates
 divisibly 1
 dramaturgical
