@@ -8249,7 +8249,7 @@ exigeant
 epiphany
 enkraal
 electrothermometer
-exorbitantly
+exorbitantly 1
 extinctive
 etwas 1
 eleolite
