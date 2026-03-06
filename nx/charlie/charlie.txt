@@ -10333,7 +10333,7 @@ canariote
 chickwit
 chicle
 chicly
-chicness
+chicness 1
 circularizers
 chantries
 coryneum
