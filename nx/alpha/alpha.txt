@@ -17502,7 +17502,7 @@ afar
 apophthegmatist 1
 appeasements
 aristotelism
-arrogantness
+arrogantness 1
 aroints
 advantages 1
 adelomorphous
