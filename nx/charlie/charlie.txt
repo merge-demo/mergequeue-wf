@@ -10705,7 +10705,7 @@ confectionaries 1
 clericalists
 chinawoman
 cincher
-chinch
+chinch 1
 cachoeira
 cephalina
 chinchayote
