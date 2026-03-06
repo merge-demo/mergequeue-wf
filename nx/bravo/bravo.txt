@@ -697,7 +697,7 @@ baff
 bacillary
 blueish 1
 baboen
-baign
+baign 1
 blackguardize
 bogyland
 bulllike
