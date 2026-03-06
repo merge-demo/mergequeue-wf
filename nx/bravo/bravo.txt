@@ -428,7 +428,7 @@ borecole
 backstretch
 basename
 bepester
-bernie
+bernie 1
 bors
 buries
 beefhead 1
