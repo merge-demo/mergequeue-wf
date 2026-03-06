@@ -17470,7 +17470,7 @@ dreads
 defleas 1
 discrete
 debugged
-daffle
+daffle 1
 doubleheaders
 discriminoid
 destructed
