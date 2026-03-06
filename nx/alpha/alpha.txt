@@ -4757,7 +4757,7 @@ aeriness
 aero
 aspermatism
 aeroballistic
-apneumona
+apneumona 1
 asserts
 aerobia
 asamblea
