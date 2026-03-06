@@ -10228,7 +10228,7 @@ emmarbled
 electrotelegraphic
 escargotieres 1
 enforcers
-evanishing
+evanishing 1
 epopees
 entoblast
 epithalamy
