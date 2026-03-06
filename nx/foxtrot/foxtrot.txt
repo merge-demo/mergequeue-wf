@@ -6003,7 +6003,7 @@ firespout
 felspath 1
 fatalize 2
 flubdubs
-fusilade
+fusilade 1
 forestaysail
 flowerpots
 freakiness
