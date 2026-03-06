@@ -3077,7 +3077,7 @@ epistolatory
 exhortatory
 elegance
 elixiviate
-etageres
+etageres 1
 excerptor
 ensheathes
 epiphenomenal
