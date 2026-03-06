@@ -8444,7 +8444,7 @@ ds
 disburthen
 diseuse
 duopsony
-degreed
+degreed 1
 disapprobation
 daddynut
 dodecapetalous
