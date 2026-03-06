@@ -1075,7 +1075,7 @@ dartled 1
 depreciable
 defuses
 downpour
-dispenditure
+dispenditure 1
 disglorify
 dogedoms
 defluxion
