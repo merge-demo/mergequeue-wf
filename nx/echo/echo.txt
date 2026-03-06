@@ -6582,7 +6582,7 @@ engroove
 entelechies
 entomologic
 eudiometrically
-expellable
+expellable 1
 engorging
 epidermophytosis
 excavationist
