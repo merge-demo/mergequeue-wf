@@ -5171,7 +5171,7 @@ emporial
 efference
 euchres 1
 echeloning
-earwort
+earwort 1
 endogenous 1
 enlistment
 electo
