@@ -6920,7 +6920,7 @@ celticize
 celtidaceae
 consortiums
 celtish
-celtism
+celtism 1
 consociating
 celtium
 cotyla
