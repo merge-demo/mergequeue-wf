@@ -12190,7 +12190,7 @@ deadlily
 disinvest 1
 delictus
 disfavoured
-dedenda
+dedenda 1
 decertifying
 depressible
 dejections
