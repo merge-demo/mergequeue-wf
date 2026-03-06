@@ -2795,7 +2795,7 @@ floppier
 festivity
 flatly
 forgift
-fistulized
+fistulized 1
 ftncmd 1
 foxtailed
 fieldwork
