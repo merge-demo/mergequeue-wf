@@ -2388,7 +2388,7 @@ egoistic
 entrenchments
 exultation
 enfleurage 2
-elsewhat
+elsewhat 1
 eriodictyon
 escamotage
 excathedral 1
