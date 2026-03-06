@@ -8354,7 +8354,7 @@ dialiness
 disgorgement
 ditchside
 derider
-divinify
+divinify 1
 dotlet 1
 dimmy
 dialypetalous
