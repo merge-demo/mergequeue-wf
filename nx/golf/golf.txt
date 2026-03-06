@@ -4940,7 +4940,7 @@ greekling
 gammaridae 1
 gametophytic
 guddle 2
-gladioluses
+gladioluses 1
 groundward
 girondist
 guidances
