@@ -25648,7 +25648,7 @@ confirmatorily
 correctionalist
 conformities
 corrective
-correctively
+correctively 1
 campagnol
 computers
 correctiveness 1
