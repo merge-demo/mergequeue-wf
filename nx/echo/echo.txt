@@ -629,7 +629,7 @@ embargoes
 echoism
 epigeal
 enhydros
-encountering
+encountering 1
 embolo
 energism
 echometer
