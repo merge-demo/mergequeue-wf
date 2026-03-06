@@ -3006,7 +3006,7 @@ aerogeography
 authorizations 2
 aurei 1
 audiviser
-actinoelectricity
+actinoelectricity 1
 actinogonidiate 1
 antipathist
 amitriptyline
