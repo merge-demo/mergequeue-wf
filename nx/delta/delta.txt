@@ -1535,7 +1535,7 @@ dallies
 dicacodyl
 deactivates
 duka 1
-dermoskeleton
+dermoskeleton 1
 dispassionately
 deducer
 disciplinarity
