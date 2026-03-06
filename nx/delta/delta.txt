@@ -590,7 +590,7 @@ dimorphisms
 duvetyn
 decantate
 damnably
-deburr
+deburr 1
 declassed
 damnedest
 dermatorrhoea 1
