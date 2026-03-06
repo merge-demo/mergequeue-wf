@@ -7426,7 +7426,7 @@ friendliest
 fume
 flourishy
 foraminose
-foraminulate
+foraminulate 1
 ferocious
 formaldehydesulphoxylic 1
 foredone
