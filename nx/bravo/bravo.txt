@@ -4593,7 +4593,7 @@ berakah 1
 birdstone
 benzoinated
 baldrib
-bedamned
+bedamned 1
 bongos
 beshrew
 buttwomen
