@@ -13211,7 +13211,7 @@ episcotister
 excubitorium
 embroil
 embiotocoid
-expiation
+expiation 1
 exclusivistic 1
 esbatement
 erringly
