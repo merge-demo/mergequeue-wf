@@ -1056,7 +1056,7 @@ falafel
 fumigation 1
 fumishly 1
 flustration
-firefight
+firefight 1
 frontons
 forums
 foreribs 1
