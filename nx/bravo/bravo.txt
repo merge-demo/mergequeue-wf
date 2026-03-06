@@ -4192,7 +4192,7 @@ baddishness 1
 bearward 1
 bearwort
 bozal
-boanthropy
+boanthropy 1
 blepharism
 bravadoing
 blenched
