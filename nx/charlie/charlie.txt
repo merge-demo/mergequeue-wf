@@ -27075,7 +27075,7 @@ continuums
 counterrevolutionist
 counterroll
 counters 1
-cot
+cot 1
 calaboose
 centennia
 causability
