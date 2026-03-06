@@ -8312,7 +8312,7 @@ epicures
 erratums
 ebon
 endolaryngeal
-endplay
+endplay 1
 epitheliomatous
 ejection
 expensively
