@@ -6871,7 +6871,7 @@ gent
 gelsemine
 goody
 gabbro
-giganticide
+giganticide 1
 geomalism
 ganglioform
 glozed 1

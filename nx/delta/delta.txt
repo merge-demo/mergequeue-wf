@@ -983,7 +983,7 @@ darings 1
 darius
 decolorising
 dinornithine
-dark
+dark 1
 darked
 dimethylketol
 darkeys
