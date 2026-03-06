@@ -4945,7 +4945,7 @@ beefburgers
 beefeater
 buccin
 builtin
-bepride
+bepride 1
 burhinidae
 beefier
 bequest
