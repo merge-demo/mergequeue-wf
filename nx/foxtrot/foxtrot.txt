@@ -676,7 +676,7 @@ fossulae
 faultiest 1
 fizzier
 fireman
-flexuous
+flexuous 1
 filemot
 farcicalness
 flannelmouths
