@@ -7768,7 +7768,7 @@ facer
 fanfaronade
 flatfeet
 fullerboard
-foxy 1
+foxy 2
 fife
 fieldpiece
 flanes
