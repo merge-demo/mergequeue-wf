@@ -3509,7 +3509,7 @@ electrophobia
 enolizable
 eyeleted
 egested
-ennuyant
+ennuyant 1
 egads 1
 environ
 ecalcavate
