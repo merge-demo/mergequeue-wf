@@ -24639,7 +24639,7 @@ coplanarities 1
 cavern 1
 cozinesses
 coplot
-comoquer
+comoquer 1
 cauqui
 chinoidine
 cryaesthesia
