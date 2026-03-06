@@ -4894,7 +4894,7 @@ batmen
 booziness
 baudekins
 bombers
-beltwise
+beltwise 1
 baffing
 bagobo
 bedur
