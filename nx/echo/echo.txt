@@ -7947,7 +7947,7 @@ epil
 exoclinal 3
 embrighten
 endorsation 1
-elixation
+elixation 1
 epeirid
 extrabuccal
 exquisitive
