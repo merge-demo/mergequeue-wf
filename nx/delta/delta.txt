@@ -11656,7 +11656,7 @@ dicatalexis 1
 dsect
 discontinuously
 discontinuousness
-disconula 1
+disconula 2
 diatomin
 debit
 dauphin
