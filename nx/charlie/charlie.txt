@@ -22595,7 +22595,7 @@ connatural
 connaturality
 connectibility
 cryptanalysis
-cosech
+cosech 1
 connaturalness
 connature
 calumniatory
