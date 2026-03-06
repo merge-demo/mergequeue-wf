@@ -13063,7 +13063,7 @@ ergotic
 eyl
 erliche 1
 enclosed
-estafette
+estafette 1
 executory 1
 electrocauteries
 evoe
