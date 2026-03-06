@@ -13224,7 +13224,7 @@ ecospecific
 echinopsine
 expiration
 esparto
-eurithermophilic
+eurithermophilic 1
 ervil
 exponentiation
 ermined 1

@@ -4253,7 +4253,7 @@ alacrity
 animability
 afterstain
 adrenocorticotropic
-antral
+antral 1
 anthracolithic
 adstipulate
 anomural
