@@ -13325,7 +13325,7 @@ archmarshal
 adonian
 assafetida
 ankylostomiasis
-ankylotic
+ankylotic 1
 ankles
 aetolian
 assimilatory
