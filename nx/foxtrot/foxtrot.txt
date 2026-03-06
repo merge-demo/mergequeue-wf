@@ -786,7 +786,7 @@ fills
 filtratable
 fichteanism 1
 farmost
-forecovert
+forecovert 1
 fiddler
 fecundize
 floridities
