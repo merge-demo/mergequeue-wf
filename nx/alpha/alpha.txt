@@ -9920,7 +9920,7 @@ anticipatorily
 anomy
 archaeol
 ambients
-ambigenal
+ambigenal 1
 arboreal
 adffroze
 appel
