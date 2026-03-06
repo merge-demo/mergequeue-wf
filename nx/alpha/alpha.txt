@@ -6291,7 +6291,7 @@ agrimony
 amoeban
 appomatox
 aquifuge
-allotypical
+allotypical 1
 apoplexy
 agrypnia
 agroan
