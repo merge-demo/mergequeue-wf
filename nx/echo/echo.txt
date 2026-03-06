@@ -10563,7 +10563,7 @@ echinoids
 eucharistial
 extraconscious
 eudaemony
-enchainment
+enchainment 1
 eucharistic
 eucharistically
 epigraph
