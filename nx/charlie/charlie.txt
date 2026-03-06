@@ -4995,7 +4995,7 @@ cartogram
 comminate
 cartography
 cypseli
-cartographic
+cartographic 1
 cartographical
 comprizal
 cartographically
