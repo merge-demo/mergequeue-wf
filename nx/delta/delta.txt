@@ -3024,7 +3024,7 @@ doggish
 desegregation
 deerstalkers
 deposable 1
-deerstalking
+deerstalking 1
 discourses
 deerweed
 denticulate
