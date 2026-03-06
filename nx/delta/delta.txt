@@ -6656,7 +6656,7 @@ dennet
 diorite
 droiturel
 diversly
-dactylis
+dactylis 1
 dodecasyllabic
 disengages
 defoliation
