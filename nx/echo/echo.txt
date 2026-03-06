@@ -11952,7 +11952,7 @@ equiradical
 estivated
 excess
 endopoditic
-ephoi
+ephoi 1
 equestrienne
 ecole
 endamebas
