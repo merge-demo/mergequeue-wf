@@ -11649,7 +11649,7 @@ cholesteatomatous
 cholesteremia
 cleidohyoid 1
 charoset
-chowdered
+chowdered 1
 clethra
 cholesterinic
 campanologist
