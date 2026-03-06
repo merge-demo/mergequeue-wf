@@ -11115,7 +11115,7 @@ epicostal
 endotheliocyte 1
 emblic
 ecologists 1
-epimerum
+epimerum 1
 emusifies
 ectocuneiform 1
 electors 1
