@@ -2730,7 +2730,7 @@ bales 1
 barnaby
 bleareye
 bluebreast
-besnivel
+besnivel 1
 biocoenoses 1
 burnettizing
 birefractive 1
