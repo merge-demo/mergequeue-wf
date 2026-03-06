@@ -557,7 +557,7 @@ aortoiliac
 amphicoelian
 antipapal
 allineate
-adore
+adore 1
 acetolysis
 acardia
 agami
