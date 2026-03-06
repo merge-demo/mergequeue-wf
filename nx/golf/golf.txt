@@ -4421,7 +4421,7 @@ gleba
 gondang 2
 galloman
 gametes
-goodnesses
+goodnesses 1
 gaultherine
 gipon
 gaetulan
