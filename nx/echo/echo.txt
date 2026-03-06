@@ -1496,7 +1496,7 @@ effort 1
 environic
 expositorial
 eliminating
-emmenic
+emmenic 1
 effervescible
 epanorthotic 2
 erasers
