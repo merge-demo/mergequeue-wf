@@ -8159,7 +8159,7 @@ elegant
 endnotes 1
 epipubis
 eclating
-eddic
+eddic 1
 errordump
 epicoelia 1
 exaltedness
