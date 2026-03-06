@@ -721,7 +721,7 @@ brinjal
 badgerlike
 blowsier 1
 baganda
-bending
+bending 1
 bandsawing
 bradypodoid
 badging
