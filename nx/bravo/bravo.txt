@@ -3478,7 +3478,7 @@ basto
 bucklandite
 brachelytrous
 bibliolatrous
-bathylite
+bathylite 1
 barquest
 basts
 banuyo
