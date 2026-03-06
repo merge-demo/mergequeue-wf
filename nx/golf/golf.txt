@@ -4055,7 +4055,7 @@ gemminess
 gerundively
 groining 1
 glanderous
-gletscher
+gletscher 1
 grifted
 gastrectomies 1
 geneal 1
