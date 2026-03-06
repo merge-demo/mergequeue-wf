@@ -2528,7 +2528,7 @@ disequality
 disembarkations 1
 dorsocephalic 1
 doughs 1
-distiller
+distiller 1
 dynamograph
 declensions
 decretist 1
