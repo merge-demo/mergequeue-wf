@@ -18047,7 +18047,7 @@ apterygiformes 1
 almsgiver
 addison
 arace
-apterygota
+apterygota 1
 abstricts
 assonances
 apteryla
