@@ -6853,7 +6853,7 @@ alogism
 acetaldehydrase
 age
 autogamic
-ashot
+ashot 1
 awning 1
 antiferromagnet
 aitch
