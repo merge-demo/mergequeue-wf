@@ -6883,7 +6883,7 @@ exoticism
 encomimiums 1
 excystation
 ezra
-escritorial
+escritorial 1
 enteroclisis
 egrets
 enlistments
