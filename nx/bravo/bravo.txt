@@ -6669,7 +6669,7 @@ bunsenite 1
 berigora
 beryl
 beryllonate
-beeswings
+beeswings 1
 berimed
 beseemly
 berimes
