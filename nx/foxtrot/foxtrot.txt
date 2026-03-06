@@ -100,7 +100,7 @@ futharc 1
 finbacks
 forrad
 fluctuate
-faciends
+faciends 1
 foxings
 featheredges
 forthcome
