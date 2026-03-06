@@ -7619,7 +7619,7 @@ dissimule
 deceptious 1
 dealer
 digamous
-didinium
+didinium 1
 decumbiture
 developer
 diswarn
