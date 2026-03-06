@@ -4352,7 +4352,7 @@ dupped
 disaffiliation 1
 disallowableness 1
 dragonet
-diphtheritis
+diphtheritis 1
 dunkled 2
 demissory
 dutch
