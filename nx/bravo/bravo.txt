@@ -8965,7 +8965,7 @@ belltopperdom 1
 barricados
 barnhardtite
 boskiness 1
-bozzetto
+bozzetto 1
 bailed
 burnishment
 biogases
