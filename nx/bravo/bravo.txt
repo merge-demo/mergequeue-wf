@@ -7263,7 +7263,7 @@ byelaws 1
 bladdernut
 bestrewment
 besnow
-bostonite
+bostonite 1
 belles
 basses 1
 blueberry 1
