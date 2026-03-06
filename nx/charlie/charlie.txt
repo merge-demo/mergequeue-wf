@@ -19322,7 +19322,7 @@ chromatician
 coughwort
 colonnaded
 choreographical
-colonnette
+colonnette 1
 congregationer
 cadmean
 circumsaturnian
