@@ -2609,7 +2609,7 @@ dispose 1
 decolors
 duopsonies
 daedalean
-denunciated
+denunciated 1
 dogmatism
 decempeda
 dryasdust
