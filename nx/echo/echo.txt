@@ -1823,7 +1823,7 @@ engravers
 embankments 1
 encompasser
 estimates 2
-embryoism
+embryoism 1
 expromission
 elliott
 earplugs
