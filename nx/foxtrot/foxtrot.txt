@@ -5290,7 +5290,7 @@ fleas
 fratcheous
 falern
 fireproofing
-floccosely
+floccosely 1
 foramina
 flavid
 fanners
