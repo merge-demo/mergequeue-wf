@@ -15552,7 +15552,7 @@ doodlesack
 demeanors
 depictive
 dentolingual
-decayers
+decayers 1
 defalcations 1
 dauntlessness
 deconcatenate
