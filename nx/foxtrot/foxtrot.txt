@@ -3737,7 +3737,7 @@ folder
 fledgy
 fillable
 fibrosis
-fringes
+fringes 1
 folkish
 flags
 fads
