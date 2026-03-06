@@ -11770,7 +11770,7 @@ acroteric 1
 ailing
 analogously
 albescent
-analogousness
+analogousness 1
 anthem
 arcadias
 analogue 1

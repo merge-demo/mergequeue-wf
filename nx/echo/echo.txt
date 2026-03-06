@@ -4165,7 +4165,7 @@ encl
 exporter
 elaeosia
 eyeroot
-epizoa
+epizoa 1
 etherealism
 exaltations
 eighteen
