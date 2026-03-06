@@ -11795,7 +11795,7 @@ bulbus
 benevolentness
 biopyribole 1
 bosnisch
-besmoothed
+besmoothed 1
 barnful
 bitumed
 br
