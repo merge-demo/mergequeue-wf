@@ -4423,7 +4423,7 @@ emitted 1
 emporeutic 1
 encapsuled
 echoed 2
-enure
+enure 1
 essence
 eavesdropping
 exaggeratively
