@@ -9108,7 +9108,7 @@ bioscopic
 bioastronautical
 bipinnatisect
 bedecorate
-bungey
+bungey 1
 ballistocardiograph
 bearishness
 biosynthesize
