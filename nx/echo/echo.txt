@@ -2326,7 +2326,7 @@ electrocardiography
 earcap
 electrizable
 exocyclic
-equimodal
+equimodal 1
 electrization
 eagling
 epicotyl
