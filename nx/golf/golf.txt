@@ -6800,7 +6800,7 @@ gatewright
 gasteromycetous
 globuliferous 1
 gelsemic
-graffiti
+graffiti 1
 gamelotte
 gigahertzes 1
 gastroenterostomies
