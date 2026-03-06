@@ -45,7 +45,7 @@ freechurchism
 fieldmen
 finement 1
 fibrolitic 1
-fibrocyst
+fibrocyst 1
 fabricator
 furies 1
 faradiser

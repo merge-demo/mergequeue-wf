@@ -23705,7 +23705,7 @@ chronon
 cataphoretically
 canulate
 cherogril
-clypeole
+clypeole 1
 conglomerates
 choanoflagellate
 choreographically
