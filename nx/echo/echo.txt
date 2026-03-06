@@ -10730,7 +10730,7 @@ erebus
 euglenoid
 eucrystalline
 evenworthy
-enclaret
+enclaret 1
 extenuative
 extrality
 egosyntonic
