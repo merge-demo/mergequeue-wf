@@ -6771,7 +6771,7 @@ abderite
 aphorises
 apanages 1
 antiagglutinative
-awry
+awry 1
 anesthetized
 auripuncture
 amalrician
