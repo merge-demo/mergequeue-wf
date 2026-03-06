@@ -800,7 +800,7 @@ fiberizing
 farmhouses 1
 foiter
 folkloric
-falcula
+falcula 1
 froster
 flipe
 folkloristic
