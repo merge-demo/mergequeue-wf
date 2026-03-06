@@ -22577,7 +22577,7 @@ conservative
 concredit
 conkers
 coking
-corpulency
+corpulency 1
 commonness
 cigarillo
 castuli
