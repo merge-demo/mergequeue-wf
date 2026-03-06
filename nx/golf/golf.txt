@@ -270,7 +270,7 @@ gunfights
 gaslock
 grasping 1
 groundliness
-grubstaked
+grubstaked 1
 gravemaker
 geet 1
 geobotany
