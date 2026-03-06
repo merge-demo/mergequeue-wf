@@ -5529,7 +5529,7 @@ enfeeblements 1
 exorcising
 experimenting
 exoterics
-emulsor
+emulsor 1
 espiritual
 expiscated
 euphon
