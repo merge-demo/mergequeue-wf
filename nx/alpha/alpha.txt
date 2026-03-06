@@ -355,7 +355,7 @@ abetments
 anticonvulsive
 andesitic
 antietam
-arsenide
+arsenide 1
 alin
 audaciously
 adustive

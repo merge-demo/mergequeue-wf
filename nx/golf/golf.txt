@@ -5803,7 +5803,7 @@ gedact
 gallicisms
 gonfanon 1
 galvanoplastic
-gunl
+gunl 1
 gressoria
 gate 1
 glassily
