@@ -17087,7 +17087,7 @@ archfool
 allotropism
 anaphrodisiac
 achlorhydria
-avocets
+avocets 1
 anisochromia
 areic
 algaroba
