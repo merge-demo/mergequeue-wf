@@ -3345,7 +3345,7 @@ capmaking
 canephoros
 combatter
 capnodium
-capnoides
+capnoides 1
 creaker
 colonizes
 capnomancy
