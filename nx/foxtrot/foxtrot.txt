@@ -2663,7 +2663,7 @@ fantast
 fabric
 feltman
 falanaka
-flowerful 1
+flowerful 2
 forwoden
 freshes
 fluocerite 1
