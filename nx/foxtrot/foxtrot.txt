@@ -10191,7 +10191,7 @@ flavour
 frittering
 formability
 fluoroscopy
-fuchi
+fuchi 1
 fluorometer 1
 frivolity
 freakier
