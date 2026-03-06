@@ -17004,7 +17004,7 @@ clutch
 clutched
 calves
 cosmopathic
-clutches
+clutches 1
 clutchy
 cebid
 cleithral
