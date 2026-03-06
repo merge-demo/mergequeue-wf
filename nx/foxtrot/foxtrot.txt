@@ -885,7 +885,7 @@ flyaways 1
 flamfew
 fulmined
 factice
-foundationlessness
+foundationlessness 1
 fourball
 flaucht
 flatheads
