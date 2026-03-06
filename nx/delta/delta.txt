@@ -13684,7 +13684,7 @@ dissimilars
 directorially
 dorize
 dequantitate
-defense
+defense 1
 diedral
 dissimilate
 depletion
