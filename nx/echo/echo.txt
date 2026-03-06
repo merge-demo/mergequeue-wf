@@ -4438,7 +4438,7 @@ excoriation
 espacement
 eddoes
 ejaculation
-entomion
+entomion 1
 elbert
 exhilarative
 encarnalised
