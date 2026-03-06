@@ -4632,7 +4632,7 @@ buffers 1
 blaugas 1
 bradyauxesis
 balata
-buntal
+buntal 1
 blader
 beslaved 1
 bouts 1
