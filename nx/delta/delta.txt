@@ -4732,7 +4732,7 @@ devoutness
 deaved
 dromophobia 1
 dejected
-diaphototropism
+diaphototropism 1
 disbudding
 dpt
 dilated
