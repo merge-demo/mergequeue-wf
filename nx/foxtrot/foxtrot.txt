@@ -1801,7 +1801,7 @@ facinorous
 figureheadship
 fellahin
 fating
-fingian
+fingian 1
 freightage
 feedbags
 foraminated 1
