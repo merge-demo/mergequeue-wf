@@ -6728,7 +6728,7 @@ duvetynes
 doats
 drawbar
 dumpty
-didascalar
+didascalar 1
 doubly
 dissogeny
 decollating
