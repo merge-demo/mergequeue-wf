@@ -6046,7 +6046,7 @@ faitour
 floorboard
 fixures
 flashness 1
-fantasied
+fantasied 1
 fructiculose
 fathead
 foliosity
