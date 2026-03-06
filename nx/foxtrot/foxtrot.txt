@@ -11178,7 +11178,7 @@ forktail
 fundungi 1
 faniente 2
 firewall
-foraminous
+foraminous 1
 folioing
 fallfishes 2
 forcipal
