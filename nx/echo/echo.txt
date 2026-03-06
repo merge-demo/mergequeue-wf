@@ -7097,7 +7097,7 @@ enepidermic
 editorials
 entertainments
 echoist
-ensigns
+ensigns 1
 examinable
 extratabular
 enhancement
