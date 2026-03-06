@@ -3618,7 +3618,7 @@ deftness
 degenerateness
 degenerescence
 diammonium
-degeneroos 1
+degeneroos 2
 dell
 degustation
 degerm 1
