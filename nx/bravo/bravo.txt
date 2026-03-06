@@ -7654,7 +7654,7 @@ backened
 biogenies 1
 bradypus
 beeper
-burgling
+burgling 1
 bewraps
 bonairly
 basilisks 1
