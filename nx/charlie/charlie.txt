@@ -12468,7 +12468,7 @@ chromolith
 colent
 chromolithic
 concanavalin
-chromolithographic
+chromolithographic 1
 chromomere
 cytolymph
 crioceris
