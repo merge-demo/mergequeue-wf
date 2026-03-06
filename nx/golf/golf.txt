@@ -2325,7 +2325,7 @@ germiest
 gutter
 gibbartas
 guajiras
-gyrostatic
+gyrostatic 1
 gomart
 grubbiness
 gainturn
