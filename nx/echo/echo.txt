@@ -11307,7 +11307,7 @@ enthronized 1
 evangelistic 1
 epedaphic
 epidictical
-elsewhen
+elsewhen 1
 exserts
 entelluses
 ethnologic
