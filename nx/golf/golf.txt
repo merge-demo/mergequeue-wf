@@ -7219,7 +7219,7 @@ gramophonist
 girnel
 garcinia
 grabbler
-guttur
+guttur 1
 gerontocracy
 globulose
 gallanted
