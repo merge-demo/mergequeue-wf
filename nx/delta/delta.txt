@@ -17538,7 +17538,7 @@ drumhead
 disvaluing
 decolour
 dynamiter
-disseisoress
+disseisoress 1
 drumliest
 drumline
 depolarised
