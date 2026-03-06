@@ -1800,7 +1800,7 @@ featureliness
 facinorous
 figureheadship
 fellahin
-fating
+fating 1
 fingian 1
 freightage
 feedbags

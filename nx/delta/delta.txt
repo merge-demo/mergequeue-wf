@@ -10040,7 +10040,7 @@ dorosoma
 derelictness
 dopants
 denudement
-dimpsy
+dimpsy 1
 dimwittedly
 demodulation
 detailer
