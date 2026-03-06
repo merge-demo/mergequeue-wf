@@ -4137,7 +4137,7 @@ bluebird 1
 bemusement
 boyishness
 biassing
-ballistics
+ballistics 1
 babism
 blankite
 beveled
