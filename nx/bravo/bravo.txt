@@ -12986,7 +12986,7 @@ bombycillidae
 beslobber
 bridges
 branchery
-biplicity
+biplicity 1
 beringite
 browntop
 burnooses
