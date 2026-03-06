@@ -5805,7 +5805,7 @@ federalese
 fridstool
 flirtatiously
 flosculariidae 1
-flirtatiousness
+flirtatiousness 1
 familiarization
 fundament
 floodwater
