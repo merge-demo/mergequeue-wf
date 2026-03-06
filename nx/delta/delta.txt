@@ -5907,7 +5907,7 @@ dandyisms 1
 diakinesis
 danicism
 depressibilities
-deozonization
+deozonization 1
 depressingly
 disconvenience
 denuders
