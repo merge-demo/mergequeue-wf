@@ -18100,7 +18100,7 @@ absenteeism 1
 azolla
 aqualung
 aqualunger
-apogee
+apogee 1
 absurdities
 augmentationer 1
 aquamanilia
