@@ -5170,7 +5170,7 @@ flavaniline
 fluidacetextract
 filthiness
 freighting
-foursquarely
+foursquarely 1
 forebespeak 3
 funking
 filices 1
