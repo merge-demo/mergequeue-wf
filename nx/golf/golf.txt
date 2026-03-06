@@ -1922,7 +1922,7 @@ glorifiers
 grafted
 glaucophyllous 1
 galliards
-gauffered
+gauffered 1
 groundwave
 glorifiable
 gnotobiology
