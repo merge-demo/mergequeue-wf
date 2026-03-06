@@ -5739,7 +5739,7 @@ agallop
 autophyte
 agee
 armouries
-acromegalia
+acromegalia 1
 archiannelida
 ageisms
 arithmetical
