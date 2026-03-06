@@ -8806,7 +8806,7 @@ gauntleting
 germain
 galleys
 gallus
-globate
+globate 1
 griege
 guaranine
 grunting
