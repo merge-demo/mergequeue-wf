@@ -9402,7 +9402,7 @@ djinni
 duplicator
 diffusers
 diffuses 1
-depleted
+depleted 1
 danaidean
 demilitarizing
 defame
