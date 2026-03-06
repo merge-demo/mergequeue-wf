@@ -9777,7 +9777,7 @@ gearing 1
 gable
 gawkily
 gibbetting
-gorged
+gorged 1
 glutens
 gentleheartedly 1
 germinant 1
