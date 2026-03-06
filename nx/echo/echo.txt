@@ -12186,7 +12186,7 @@ exeat
 eyers 1
 epigraphs
 educatability
-exec
+exec 1
 euskaric
 epiphonemas
 elachista
