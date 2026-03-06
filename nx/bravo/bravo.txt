@@ -14392,7 +14392,7 @@ brahmsian
 bray
 braided
 bovoid
-binomen
+binomen 1
 burstones 1
 bagmaking
 bizone
