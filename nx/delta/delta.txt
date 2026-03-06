@@ -6531,7 +6531,7 @@ dolous
 divorce
 dialect
 dinosaurian
-descries
+descries 1
 dagbamba 1
 dodgers
 descriptionist
