@@ -6496,7 +6496,7 @@ ensouled 1
 ecru
 exoneration
 eustatically
-epitheme
+epitheme 1
 endurability 1
 etiquette
 enjelly
