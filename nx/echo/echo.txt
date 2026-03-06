@@ -10096,7 +10096,7 @@ ethanols
 exode
 eloining
 endoparasitism
-epipolize
+epipolize 1
 englishing
 epinglette
 escharine
