@@ -14615,7 +14615,7 @@ antilogarithm
 attackers
 apastra
 anthropomorphism
-ataraxia
+ataraxia 1
 alchemical
 antiarins
 actuate
