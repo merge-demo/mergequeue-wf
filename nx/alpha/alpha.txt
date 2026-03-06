@@ -6671,7 +6671,7 @@ antiglare
 anaphorical 1
 armlocks 1
 acrotreta
-asceticism
+asceticism 1
 airable
 avenue
 athwartwise
