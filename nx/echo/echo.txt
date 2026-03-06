@@ -5833,7 +5833,7 @@ ekaha
 eulerian
 embergeese 1
 eudiaphoresis
-escambron
+escambron 1
 engramme
 epicarpal 1
 equalled
