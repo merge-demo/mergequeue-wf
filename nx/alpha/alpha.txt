@@ -7105,7 +7105,7 @@ alack
 amole
 airworthiness
 anadromous
-antitypical
+antitypical 1
 alacran
 advertized
 ameloblast
