@@ -4817,7 +4817,7 @@ amphibiology
 aloma
 anucleated
 allody 1
-anthoecology
+anthoecology 1
 aerodynamics
 astronavigator
 abnormous
