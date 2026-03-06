@@ -18291,7 +18291,7 @@ decibels
 duckboards
 demonian 1
 discipline
-discalceate
+discalceate 1
 daised 1
 distinguished
 diacoca
