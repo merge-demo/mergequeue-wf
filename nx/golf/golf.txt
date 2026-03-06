@@ -8590,7 +8590,7 @@ gremmy 1
 gibbeting
 gaufrettes 1
 gastronomics
-geometrizing
+geometrizing 1
 gravidate
 goslarite
 gregge
