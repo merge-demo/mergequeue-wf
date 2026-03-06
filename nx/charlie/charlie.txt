@@ -3736,7 +3736,7 @@ cognates
 carapacic 1
 carapax
 concresce
-climacterial
+climacterial 1
 coachable
 carbonadoes
 cassabanana 1
