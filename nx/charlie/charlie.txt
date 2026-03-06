@@ -31554,7 +31554,7 @@ cratered
 crapper
 crystallizability
 cursoriness
-cursorious
+cursorious 1
 coffeecake
 cursorius
 cleveites
