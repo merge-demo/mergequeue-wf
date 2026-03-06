@@ -3196,7 +3196,7 @@ gio
 genetous
 gymslip 1
 gambled 1
-gauche
+gauche 1
 globosely
 gepidae
 gremlin

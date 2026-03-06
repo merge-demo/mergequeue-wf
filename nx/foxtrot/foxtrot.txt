@@ -10660,7 +10660,7 @@ fantigue
 fetiches 1
 flatfooted
 flangers
-falterer
+falterer 1
 fewmand
 fathometer 1
 femininity 2
