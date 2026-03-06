@@ -6512,7 +6512,7 @@ flapjack
 floretty
 froisse
 fraktur
-floriage
+floriage 1
 fluorenes
 footbaths
 firmarius
