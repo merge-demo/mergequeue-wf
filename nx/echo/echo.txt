@@ -4989,7 +4989,7 @@ equipollentness
 endoceras
 eumoirous
 exhibitional
-euphemous
+euphemous 1
 endenize
 ergmeter
 explodes
