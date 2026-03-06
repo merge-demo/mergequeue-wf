@@ -5748,7 +5748,7 @@ garlicky
 goldylocks
 gumhar
 grunts
-glomus
+glomus 1
 gnatworm
 graveless
 globoid
