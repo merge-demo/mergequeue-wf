@@ -7711,7 +7711,7 @@ globulite
 geldable
 graduands
 galvanized
-gunpowderous
+gunpowderous 1
 grizzliest 1
 goldworker
 gallivant
