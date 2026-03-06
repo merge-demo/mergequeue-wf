@@ -5756,7 +5756,7 @@ flingy 1
 floating
 funded
 fiddlestring
-fumeuse 1
+fumeuse 2
 fishwife
 forsay
 flinkite
