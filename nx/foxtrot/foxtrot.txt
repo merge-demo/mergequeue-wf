@@ -6426,7 +6426,7 @@ flagpole
 fluocerine
 fren
 flang
-fullterm
+fullterm 1
 furziest
 francois
 fluoroscopists 1
