@@ -7258,7 +7258,7 @@ equalizer
 enwove
 entender
 equipages 1
-euvrou
+euvrou 1
 electrodialytic
 epistasis
 enchesoun 1
