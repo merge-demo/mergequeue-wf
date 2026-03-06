@@ -6965,7 +6965,7 @@ glaucolite
 gregorianizer
 guirlande
 gushiest
-goosemouth
+goosemouth 1
 gynosporangium
 ganzie
 geikia
