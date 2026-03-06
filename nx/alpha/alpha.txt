@@ -18745,7 +18745,7 @@ acanthine
 adamas
 archegony
 albania
-athort
+athort 1
 amoritic
 aposteme
 archegonial
