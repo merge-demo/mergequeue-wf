@@ -8935,7 +8935,7 @@ establishments 1
 enterectomy
 empyrical
 estaminets
-evomit
+evomit 1
 expectorators
 entoderms
 enwrapt
