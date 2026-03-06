@@ -12834,7 +12834,7 @@ booly
 barbered
 borocarbide
 bothropic
-burstone
+burstone 1
 boolya
 blebs
 braiding
