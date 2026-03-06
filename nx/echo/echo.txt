@@ -14000,7 +14000,7 @@ eroded
 electrolytic 1
 enormousness
 extrapunitive
-equinity
+equinity 1
 encroaches
 evectant
 expalpate
