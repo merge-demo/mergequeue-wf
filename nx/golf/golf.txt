@@ -2302,7 +2302,7 @@ ge
 gingival
 geistlich 1
 grayhair
-graviton
+graviton 1
 gateman
 guffin
 gramineal 1
