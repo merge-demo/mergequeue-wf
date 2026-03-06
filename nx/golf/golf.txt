@@ -6428,7 +6428,7 @@ governor 1
 glimpse
 gypsoplast 1
 gamostelic
-guileless
+guileless 1
 glowerer
 garrupa
 gannister 1
