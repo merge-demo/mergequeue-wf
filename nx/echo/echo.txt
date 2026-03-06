@@ -5901,7 +5901,7 @@ equaling
 enharbour
 electrometallurgy
 exocytosis 1
-endsweep
+endsweep 1
 enharden
 eurytopicity 1
 exoenzymic
