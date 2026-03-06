@@ -11367,7 +11367,7 @@ amula
 amulas
 acone
 armaments
-afterturn
+afterturn 1
 atomic
 avalent
 artocarpaceae
