@@ -4206,7 +4206,7 @@ delthyrial
 destructible
 dineros
 derivedness
-deltohedron
+deltohedron 1
 delubra
 delude
 disambiguating
