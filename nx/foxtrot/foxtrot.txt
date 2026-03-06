@@ -11170,7 +11170,7 @@ farhand
 fibrinocellular
 felspar
 fogou
-fungibility
+fungibility 1
 fungicides
 frampler
 fibronuclear
