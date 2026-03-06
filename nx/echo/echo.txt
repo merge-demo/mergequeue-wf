@@ -372,7 +372,7 @@ essede 1
 eisegesis
 entoperipheral
 euboic
-estang
+estang 1
 escapee
 escots
 eurycerous
