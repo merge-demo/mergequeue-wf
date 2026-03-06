@@ -6610,7 +6610,7 @@ freewoman
 footlockers
 forecover
 flytime
-fluotantalate
+fluotantalate 1
 folderol
 flutteriness 1
 flagrate
