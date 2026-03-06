@@ -1393,7 +1393,7 @@ glaciate
 gausterer
 gowned
 gearshift
-gcd 1
+gcd 2
 garrotting
 grundyite
 guigne
