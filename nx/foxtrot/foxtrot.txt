@@ -1233,7 +1233,7 @@ fram
 fetas
 frostproofing
 foundery 1
-frizzily
+frizzily 1
 feminophobe
 fluorography 1
 folds
