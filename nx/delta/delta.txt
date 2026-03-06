@@ -8593,7 +8593,7 @@ deteriority
 deprived
 destroying
 doormaking
-deorsumversion
+deorsumversion 1
 driftland
 dewan
 decremeter
