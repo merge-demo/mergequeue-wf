@@ -10079,7 +10079,7 @@ forhooy
 farmerlike
 frixion
 frogskin 3
-favors
+favors 1
 fibroblastic
 flagstaffs 1
 finches 2
