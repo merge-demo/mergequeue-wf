@@ -24239,7 +24239,7 @@ corporeals
 conventionist
 convulsant
 circumvallating
-convulse
+convulse 1
 colons
 compulsiveness
 circuity
