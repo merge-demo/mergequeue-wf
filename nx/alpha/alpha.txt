@@ -6058,7 +6058,7 @@ agitato
 aglossia
 aglucon
 anthraxylon
-agminated
+agminated 1
 agnat
 agnatha
 admissibleness
