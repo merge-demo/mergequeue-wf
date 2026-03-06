@@ -13281,7 +13281,7 @@ epilabrum
 eutopian 1
 explanting
 exocoelom
-exertive
+exertive 1
 ety
 endemical 1
 ethize
