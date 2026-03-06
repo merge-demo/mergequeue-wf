@@ -5032,7 +5032,7 @@ grizzlers
 gisarmes 1
 gassy
 groused 1
-gnostology
+gnostology 1
 goalkeeper
 golconda
 giantsize
