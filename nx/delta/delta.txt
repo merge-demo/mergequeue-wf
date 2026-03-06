@@ -6271,7 +6271,7 @@ diact
 discerptibleness
 dermatoneurosis
 devolve
-deprecates
+deprecates 1
 destructibility
 didymolite
 daughters
