@@ -5615,7 +5615,7 @@ agamian 1
 appendicitis
 angels
 aro
-ascertainer
+ascertainer 1
 argillocalcareous
 alderney
 artificers 1
