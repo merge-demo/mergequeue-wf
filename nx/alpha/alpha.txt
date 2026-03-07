@@ -621,7 +621,7 @@ algonquians
 aphasic
 ambagiously
 alexic
-antelopine
+antelopine 1
 arboriform
 abodes
 aboil
