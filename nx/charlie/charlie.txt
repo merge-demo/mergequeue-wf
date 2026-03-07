@@ -29855,7 +29855,7 @@ curriculums 1
 crossbow
 carrageenin
 crossbows
-crewet
+crewet 1
 culgee
 cladoselache
 coxal
