@@ -1673,7 +1673,7 @@ gros
 gophers
 gunrunning 1
 gester
-gleanings
+gleanings 1
 gluttonise
 gluts
 guildhall
