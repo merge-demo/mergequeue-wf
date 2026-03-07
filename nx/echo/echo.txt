@@ -5000,7 +5000,7 @@ elementality
 exauthorate
 enders
 extortionary
-editorialized
+editorialized 1
 evangelistics
 endgate 1
 enneads
