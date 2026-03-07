@@ -6926,7 +6926,7 @@ breediness 1
 basenesses 1
 betail
 baselessness 1
-betta
+betta 1
 bractea
 benignly
 bargoose
