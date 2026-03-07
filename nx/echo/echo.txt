@@ -12878,7 +12878,7 @@ embarked
 exemplariness
 expandable
 enlisting
-escropulo
+escropulo 1
 exclusion
 erotopathic
 erethisms
