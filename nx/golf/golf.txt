@@ -8447,7 +8447,7 @@ geodete
 gravelroot
 gubbertush
 goldbricks
-gallican
+gallican 1
 glaciarium 1
 gonytheca 1
 gushily
