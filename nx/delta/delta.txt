@@ -1774,7 +1774,7 @@ dilation
 desmoscolex
 debark
 debarkment
-defet
+defet 1
 dungs
 degauss
 dereistically
