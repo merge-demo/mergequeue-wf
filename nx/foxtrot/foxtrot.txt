@@ -9706,7 +9706,7 @@ furnacelike
 ferkin
 fadelessly
 fulgorous
-fowled
+fowled 1
 fairness
 flipflop
 foretoken
