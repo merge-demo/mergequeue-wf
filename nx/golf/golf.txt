@@ -5780,7 +5780,7 @@ glowering 1
 gradients
 glows
 gufa
-geometrize 2
+geometrize 3
 gorgeable
 glen
 gaupus
