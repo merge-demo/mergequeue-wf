@@ -3462,7 +3462,7 @@ bummers
 briny 1
 bandicoy
 bastards
-bioptic
+bioptic 1
 barrelfishes
 baster
 bastilles
