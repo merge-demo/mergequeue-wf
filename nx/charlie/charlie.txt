@@ -24320,7 +24320,7 @@ coarrange
 cookeite 1
 cooker
 cookeries
-cookhouses
+cookhouses 1
 cooky
 colectomy
 cookie
