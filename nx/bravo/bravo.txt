@@ -9585,7 +9585,7 @@ benzalaniline
 bryophyllum
 burucha
 boeotia
-bogue
+bogue 1
 battlements 1
 braccio
 ballhawk
