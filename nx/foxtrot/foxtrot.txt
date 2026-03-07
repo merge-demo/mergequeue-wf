@@ -3307,7 +3307,7 @@ farsight
 fimbles
 flowerfence
 fivescore 1
-flounces
+flounces 1
 faveolate
 flingers 1
 farers
