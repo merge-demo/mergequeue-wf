@@ -6051,7 +6051,7 @@ guttie
 gibbled
 glave
 gleamingly 1
-glossmeter
+glossmeter 1
 grisset
 grume
 gerim
