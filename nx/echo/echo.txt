@@ -13631,7 +13631,7 @@ emprent
 eelcatcher
 empedoclean
 endamebiasis 1
-effossion
+effossion 1
 endwise
 equines
 eremurus
