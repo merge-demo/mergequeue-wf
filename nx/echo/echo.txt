@@ -1945,7 +1945,7 @@ erotogeneses
 ecdysial
 enjoin
 egyptize
-eluants
+eluants 1
 excursions
 etherialization
 experimentee
