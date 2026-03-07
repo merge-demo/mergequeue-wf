@@ -9793,7 +9793,7 @@ declassification
 draws
 drowsy
 diligence
-disproofs
+disproofs 1
 diligences
 diligent 1
 discountenanced
