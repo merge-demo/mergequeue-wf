@@ -9129,7 +9129,7 @@ barbican
 budzart
 bursitos
 blowbys
-beauts
+beauts 1
 biosome
 biospeleology
 bitterns
