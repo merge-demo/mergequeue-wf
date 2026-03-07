@@ -5145,7 +5145,7 @@ euphorbiaceae
 extrapolate
 ensorceling 2
 exflagellate
-endoenzyme
+endoenzyme 1
 epitrochoid 1
 emarginula
 elytrorrhaphy 1
