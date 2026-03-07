@@ -5062,7 +5062,7 @@ endostraca
 eonisms
 exemptible
 evertebrata
-equitangential
+equitangential 1
 eccentrically
 enslavers 1
 eremitic
