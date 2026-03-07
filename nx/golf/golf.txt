@@ -5634,7 +5634,7 @@ groma
 gypsyhead
 glyoxal
 glooms 1
-glasses
+glasses 1
 glassrope 1
 garbling
 gahnite
