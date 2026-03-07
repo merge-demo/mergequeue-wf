@@ -2686,7 +2686,7 @@ fetish
 flashy
 fibs
 flamb 2
-frontispiece
+frontispiece 1
 formularize
 fertile
 falsely
