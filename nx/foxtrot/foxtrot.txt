@@ -5576,7 +5576,7 @@ faceteness
 fleshmonger
 fletcherism
 frontignac 1
-fraidycat
+fraidycat 1
 fricti
 finnan
 fletchers
