@@ -16002,7 +16002,7 @@ cluppe
 cleruchies
 cardroom
 copaibic
-clerum
+clerum 1
 counterindentation
 caraculs
 clerus
