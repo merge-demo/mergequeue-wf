@@ -5057,7 +5057,7 @@ beewise
 bisphenoid
 brachiofaciolingual
 belaboured
-beltcourse
+beltcourse 1
 bigotedly
 bedplates 1
 befalling
