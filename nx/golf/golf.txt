@@ -4879,7 +4879,7 @@ gynaecian
 goatly 1
 gasthauses
 galleylike 1
-gastrosplenic
+gastrosplenic 1
 ghyll
 glowbard
 glairiest 1
