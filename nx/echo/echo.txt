@@ -5032,7 +5032,7 @@ emphaticalness 1
 ectoproct 3
 enrage
 exemplum
-elopes
+elopes 1
 endoaortitis
 endoappendicitis
 entoolitic
