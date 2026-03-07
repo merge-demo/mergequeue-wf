@@ -2397,7 +2397,7 @@ gripman
 guiac
 gummose
 ghoom 1
-gemmological
+gemmological 1
 glade
 goalkeeping
 gainstand
