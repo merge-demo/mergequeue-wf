@@ -2669,7 +2669,7 @@ freshes
 fluocerite 1
 firmless
 fluviatic 1
-feeding
+feeding 1
 fakers
 fainaigue 1
 froufrou
