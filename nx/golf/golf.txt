@@ -2356,7 +2356,7 @@ glyptographer
 gymnoconia
 guardants 1
 gasterosteoid
-genty
+genty 1
 grignet
 gonopodpodia
 gabardines
