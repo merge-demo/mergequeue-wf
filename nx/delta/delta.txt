@@ -13435,7 +13435,7 @@ dethronement
 deleing
 decedents
 disquisitions
-downgoing
+downgoing 1
 delicately 1
 dismarble
 dracunculus
