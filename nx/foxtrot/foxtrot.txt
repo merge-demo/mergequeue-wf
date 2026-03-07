@@ -8137,7 +8137,7 @@ fitting
 fumigator
 forkedness
 freedmen
-foretellers
+foretellers 1
 forethrift
 fusel
 flatfish 2
