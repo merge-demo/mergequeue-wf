@@ -8529,7 +8529,7 @@ balzacian 1
 binmen
 bearhound
 boydekyn
-biliteral
+biliteral 1
 baywood
 brownistical
 barniest
