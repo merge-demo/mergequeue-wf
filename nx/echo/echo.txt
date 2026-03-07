@@ -6666,7 +6666,7 @@ enframe
 epimere
 eartagged
 electrohydraulic 1
-empyreumata
+empyreumata 1
 enantiomeric
 ekistic
 elephantlike
