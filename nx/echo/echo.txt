@@ -9674,7 +9674,7 @@ exorcized
 electrocoagulation 1
 enkindles
 erminois
-epilogize
+epilogize 1
 excitable
 ensearcher
 expended
