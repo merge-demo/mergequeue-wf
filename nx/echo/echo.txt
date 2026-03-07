@@ -13725,7 +13725,7 @@ exhaustedness
 externity 1
 ecologies
 eliciting
-ecliptic
+ecliptic 1
 exorcisers
 educability
 elementarity
