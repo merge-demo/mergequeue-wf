@@ -2722,7 +2722,7 @@ electrotheraputic
 elocution
 emyds
 empestic
-esophagus
+esophagus 1
 empyreumatic 1
 elaeopten
 electrothermal
