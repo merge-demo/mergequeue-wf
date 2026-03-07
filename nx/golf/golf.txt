@@ -4941,7 +4941,7 @@ gammaridae 1
 gametophytic
 guddle 3
 gladioluses 1
-groundward
+groundward 1
 girondist
 guidances
 galtonian
