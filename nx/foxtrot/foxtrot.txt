@@ -1213,7 +1213,7 @@ fashing 1
 fritt
 fascinate
 fixator
-frustrately
+frustrately 1
 firmitude
 flexural
 faurd
