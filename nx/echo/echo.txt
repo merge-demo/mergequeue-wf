@@ -2617,7 +2617,7 @@ envies
 embassies 1
 egalite 1
 epicardium 1
-elysian
+elysian 1
 envying
 epidermal
 engin
