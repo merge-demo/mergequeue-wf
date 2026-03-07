@@ -25195,7 +25195,7 @@ axonometric
 adarme
 asprete
 ascupart
-abusiveness
+abusiveness 1
 abrogated
 axonophora
 alectoridine
