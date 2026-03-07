@@ -7348,7 +7348,7 @@ fancysick 1
 fertil 1
 fermentor 1
 footwarmer 1
-fortnight
+fortnight 1
 forekeel 1
 focalized
 ferine 1
