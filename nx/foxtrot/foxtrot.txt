@@ -10267,7 +10267,7 @@ flopovers
 frolickers
 fanciest
 frogbit
-frogeyed
+frogeyed 1
 forklift 1
 farewelling 1
 florentium
