@@ -1951,7 +1951,7 @@ gruelly
 glyphic 1
 genealogically
 greywacke
-glairs
+glairs 1
 garnishments
 glamor
 gimbal
