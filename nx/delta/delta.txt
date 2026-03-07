@@ -2060,7 +2060,7 @@ decaying
 diopsimeter
 diety
 defaced
-devolution
+devolution 1
 disproportionally
 dodecylic
 decalage
