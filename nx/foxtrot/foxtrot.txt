@@ -2208,7 +2208,7 @@ fixe
 fritted
 fogged
 feminal
-fruiting
+fruiting 1
 feminin
 fluorinates
 floormen
