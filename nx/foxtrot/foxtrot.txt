@@ -1818,7 +1818,7 @@ fecundatory
 febricant
 fidac
 frilly
-flashlight
+flashlight 1
 febricitant
 firearm
 frictions
