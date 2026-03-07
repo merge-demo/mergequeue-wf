@@ -1399,7 +1399,7 @@ decennial
 damnit
 developes
 dasht
-dawk
+dawk 1
 devilishness
 diapering 2
 dioptrate
