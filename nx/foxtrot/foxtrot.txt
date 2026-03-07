@@ -8077,7 +8077,7 @@ falconnoid
 felicitates 1
 frustrate
 fiberglass
-fixer
+fixer 1
 flammably
 fallal 1
 fairies
