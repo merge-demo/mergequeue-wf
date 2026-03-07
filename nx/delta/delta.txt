@@ -8760,7 +8760,7 @@ dime
 doughtily
 downright
 deterrents
-defocusses
+defocusses 1
 deescalations
 defluous 1
 diatomist
