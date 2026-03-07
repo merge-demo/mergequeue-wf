@@ -8179,7 +8179,7 @@ deywoman
 dermalith 1
 dispersedye
 disenorm
-diaconica
+diaconica 1
 deputable
 dactylic
 drabbets
