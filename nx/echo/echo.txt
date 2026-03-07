@@ -1691,7 +1691,7 @@ eclogues
 eligent
 epiclike
 enolate
-enlivening
+enlivening 1
 edgemaker
 euphuized
 ethylenes
