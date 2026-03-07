@@ -12869,7 +12869,7 @@ cercomonas
 churingas 1
 churl
 clothmaker
-curmurring
+curmurring 1
 churlier
 corrugations
 cryptodouble
