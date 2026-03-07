@@ -7471,7 +7471,7 @@ gentilities
 gonorrhoea
 groundwater
 gazing
-gallflies
+gallflies 1
 gladiatory
 glyphography
 gelded
