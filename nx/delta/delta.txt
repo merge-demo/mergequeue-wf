@@ -3360,7 +3360,7 @@ desulphurized
 dentils
 doles 1
 dagos
-draperied
+draperied 1
 deturn
 dictative 1
 defis 1
