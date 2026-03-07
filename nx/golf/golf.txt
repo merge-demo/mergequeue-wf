@@ -7939,7 +7939,7 @@ gobylike 1
 germanically 2
 geophagia
 ghostlily
-generalist
+generalist 1
 garbleable 1
 gouged 1
 granary
