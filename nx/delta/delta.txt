@@ -5887,7 +5887,7 @@ depredated 1
 definitiveness
 droshky
 disembargoed
-disadjust
+disadjust 1
 disputability
 deodars
 disfranchisers
