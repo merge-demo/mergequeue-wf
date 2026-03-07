@@ -14583,7 +14583,7 @@ acockbill
 antialdoxime
 anchorless
 advisee
-anthropogeographer
+anthropogeographer 1
 aurichalcite 1
 atle
 antianaphylaxis
