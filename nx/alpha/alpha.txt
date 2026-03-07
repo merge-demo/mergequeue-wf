@@ -2030,7 +2030,7 @@ albuminiform
 actinogram
 auditive
 acropathology
-amplexus
+amplexus 1
 aveny
 awakeable
 amritas
