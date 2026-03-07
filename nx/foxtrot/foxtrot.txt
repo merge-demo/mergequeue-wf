@@ -79,7 +79,7 @@ facundity
 fetials
 fiendish
 flagrantness
-famousness
+famousness 1
 florification
 froufrous
 forebitten
