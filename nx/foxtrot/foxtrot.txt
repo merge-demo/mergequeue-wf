@@ -9906,7 +9906,7 @@ foambow
 featless 1
 fortypenny
 forefending
-frontager 1
+frontager 2
 furilic
 frozenly
 fulmineous
