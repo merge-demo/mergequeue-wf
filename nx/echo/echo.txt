@@ -11991,7 +11991,7 @@ epistemophilic
 echeneid
 evaporation
 epiploon
-equilibrity
+equilibrity 1
 excitations 1
 eastbound
 enveloped
