@@ -4265,7 +4265,7 @@ capturers
 catcher
 coloboma
 carabideous
-cardsharp
+cardsharp 1
 chlorites
 corporateness
 chinatown

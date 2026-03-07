@@ -418,7 +418,7 @@ deprevation 1
 daysmen
 direst
 disthrall
-daytimes
+daytimes 1
 daywrit
 dakerhen
 deaner
