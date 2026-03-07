@@ -23088,7 +23088,7 @@ antimatter
 acholic
 attainders
 amianthoid
-asfast
+asfast 1
 attainment
 acridium
 adjuvate
