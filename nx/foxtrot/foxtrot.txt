@@ -8825,7 +8825,7 @@ footiest
 francia 1
 foliole 1
 flancard
-fecundation 1
+fecundation 2
 fingerboard
 foxie
 fractionary
