@@ -450,7 +450,7 @@ evacuated
 epact
 eutrophic
 embayed
-endochrome 1
+endochrome 2
 exorbital
 epidermomycosis
 excelsitude
