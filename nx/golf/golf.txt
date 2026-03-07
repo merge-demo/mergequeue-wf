@@ -10710,7 +10710,7 @@ gumma
 gunship
 gismondine
 glossiest
-gaboon
+gaboon 1
 gluttonised
 gutnic
 gerbera 1
