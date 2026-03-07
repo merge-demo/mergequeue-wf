@@ -4118,7 +4118,7 @@ finless
 fallopian 1
 frenuna 1
 fracture
-figging
+figging 1
 frondescing
 forgivingness
 fianced
