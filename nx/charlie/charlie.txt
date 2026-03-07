@@ -15310,7 +15310,7 @@ caddo
 crowdie
 critturs
 confectory
-clangful
+clangful 1
 clanging
 clangingly 1
 corticoefferent
