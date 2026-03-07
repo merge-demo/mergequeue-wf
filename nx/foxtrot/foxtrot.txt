@@ -8424,7 +8424,7 @@ frypan
 floorman
 futhark
 folksy
-foistiness 1
+foistiness 2
 forlanas 1
 flatfootedly
 frized
