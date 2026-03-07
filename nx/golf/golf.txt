@@ -2269,7 +2269,7 @@ gneisses 1
 griffinism
 give 1
 grand
-guitguit
+guitguit 1
 glycerophosphoric
 gibblegabbler
 galante
