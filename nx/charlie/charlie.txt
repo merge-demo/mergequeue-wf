@@ -25231,7 +25231,7 @@ corinthes
 corinthiac
 chorogi
 corpus
-chekan
+chekan 1
 corinthianize
 cumidine
 coriolanus
