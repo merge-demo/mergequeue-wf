@@ -8012,7 +8012,7 @@ gnotobiote
 glyptodontoid
 glimpsing
 glossopalatine
-geonoma
+geonoma 1
 galleyman
 gnathometer
 gabblement
