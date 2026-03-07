@@ -5184,7 +5184,7 @@ casemented
 casements
 cabbled
 connexivum
-caseolysis
+caseolysis 1
 caseose
 caseous
 caserios
