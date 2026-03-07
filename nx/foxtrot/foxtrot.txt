@@ -8664,7 +8664,7 @@ fairyology
 forlorner 1
 freightless
 filterability
-futharks
+futharks 1
 feet 1
 finestiller
 forborn
