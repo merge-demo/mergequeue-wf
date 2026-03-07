@@ -8384,7 +8384,7 @@ gasifiable
 gasterosteiform
 ginner
 gooky 1
-gigabytes
+gigabytes 1
 grillading
 galenic
 geste 1
