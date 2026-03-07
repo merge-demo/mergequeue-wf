@@ -4335,7 +4335,7 @@ esture
 elytroclasia 1
 expansibleness 2
 enactor
-epigrammatize
+epigrammatize 1
 extend
 epochism
 enamelist
