@@ -3267,7 +3267,7 @@ freehearted
 fingan
 floors
 fluorinate
-foreknowledge
+foreknowledge 1
 fibrosity
 foundational 1
 fulmicotton
