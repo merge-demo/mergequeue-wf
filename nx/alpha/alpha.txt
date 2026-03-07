@@ -5813,7 +5813,7 @@ agglomerates
 agglomeration
 agglomerative
 agglutinate
-arenaceous
+arenaceous 1
 agglutinative
 adamantine
 aerobe
