@@ -2571,7 +2571,7 @@ demiquaver
 diformin
 decoctive
 dinero
-deaminizing
+deaminizing 1
 decode
 dartars 1
 dowcote 1
