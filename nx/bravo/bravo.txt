@@ -17395,7 +17395,7 @@ boppers
 bunk
 benzanilide
 begrudged
-bipersonal
+bipersonal 1
 blindling
 byerite
 basseted
