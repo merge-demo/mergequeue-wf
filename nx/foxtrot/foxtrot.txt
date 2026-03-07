@@ -3703,7 +3703,7 @@ fesswise
 flatworms
 fatiscence
 friskers
-fare
+fare 1
 fertilised 1
 finedrawing
 febronian
