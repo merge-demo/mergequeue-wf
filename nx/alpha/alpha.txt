@@ -12382,7 +12382,7 @@ aegagropile
 appealed
 anechoic
 adar
-anelasticity
+anelasticity 1
 anteversion
 augurship 1
 antirationalism
