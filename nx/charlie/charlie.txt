@@ -3246,7 +3246,7 @@ cellvibrio
 carpodacus
 comprehends
 cameleon
-considerableness
+considerableness 1
 capillitium
 cloister
 capillose
