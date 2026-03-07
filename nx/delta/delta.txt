@@ -1209,7 +1209,7 @@ datebook
 dicyema
 decubiti
 drivehead
-decolonise
+decolonise 1
 disembarkation 1
 defecating
 datelessness
