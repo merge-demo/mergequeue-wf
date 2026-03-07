@@ -5133,7 +5133,7 @@ fitches
 frigatoon
 fluorescence 1
 ferrotype
-forevalue
+forevalue 1
 flapping
 fessely 1
 fun
