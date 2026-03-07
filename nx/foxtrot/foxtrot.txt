@@ -3972,7 +3972,7 @@ forbecause
 fictionmonger
 familiarities
 furcating
-fogyism
+fogyism 1
 foxtongue
 foodful
 feedbacks
