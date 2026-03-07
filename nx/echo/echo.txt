@@ -13205,7 +13205,7 @@ elucubration
 equiconvex
 epiotic
 erythea
-enlodge
+enlodge 1
 erotisms
 episcotister
 excubitorium
