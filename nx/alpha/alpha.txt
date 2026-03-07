@@ -15783,7 +15783,7 @@ antiepileptic
 amphisbaenian
 anthracometric
 antiaesthetic
-antipyics
+antipyics 1
 acepots
 antithrombin
 alert
