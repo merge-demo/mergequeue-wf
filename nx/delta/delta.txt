@@ -6440,7 +6440,7 @@ deodara
 digitization
 dragomanic
 desalinated
-demagnetizable 1
+demagnetizable 2
 dodecanoic
 dogmatisation
 distilland
