@@ -1244,7 +1244,7 @@ evanish
 eurypyga
 embolum
 excommune
-eulogy
+eulogy 1
 endogamic
 eatche
 eurindic
