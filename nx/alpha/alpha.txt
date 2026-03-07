@@ -10258,7 +10258,7 @@ amebas
 americanisms
 aftertax
 astigmatizer
-adventuresome
+adventuresome 1
 approachless
 accredited
 algebraical
