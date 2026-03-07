@@ -2922,7 +2922,7 @@ displayer
 dediticiancy 1
 dentary
 dependance
-dedogmatize
+dedogmatize 1
 dedolation
 decentralism 1
 destinal
