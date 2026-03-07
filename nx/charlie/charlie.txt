@@ -22017,7 +22017,7 @@ confirmable 1
 cionocranial
 confirmation
 confirmational
-confirmations
+confirmations 1
 circumflexion
 confirmatory
 craniosacral
