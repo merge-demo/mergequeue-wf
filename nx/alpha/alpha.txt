@@ -6257,7 +6257,7 @@ agrestic
 agrestical
 awapuhi
 agricere
-alliteratively
+alliteratively 1
 aerage
 absorbability
 apolegamic
