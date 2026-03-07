@@ -3099,7 +3099,7 @@ canzona
 crickety
 connective 1
 canzones
-constrictor 1
+constrictor 2
 canzonet
 caodaism
 caodaist
