@@ -10482,7 +10482,7 @@ fractionizing
 follied
 foreadvice
 floreating
-floran
+floran 1
 fluxional 1
 fruitfully
 forecastle
