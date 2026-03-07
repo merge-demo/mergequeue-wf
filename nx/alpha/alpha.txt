@@ -18088,7 +18088,7 @@ articulationes
 analogising
 apparel
 aquacade
-atamasco
+atamasco 1
 aquaemanale
 ains
 avarices
