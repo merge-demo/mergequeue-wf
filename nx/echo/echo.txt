@@ -1850,7 +1850,7 @@ emanativ
 egotheism
 ergatogyny
 expiatory
-endaze
+endaze 1
 elbow
 exopodite
 evaginated
