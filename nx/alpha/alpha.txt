@@ -19909,7 +19909,7 @@ akuammin
 ampoules
 adjuration
 armorials
-arkansawyer
+arkansawyer 1
 armorican 1
 apurpose
 albescence
