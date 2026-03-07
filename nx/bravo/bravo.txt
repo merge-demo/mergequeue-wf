@@ -11810,7 +11810,7 @@ bugbears
 brachystochrone
 burnoused 1
 beefheaded
-burgled
+burgled 1
 boilerhouse
 blushed
 barcas
