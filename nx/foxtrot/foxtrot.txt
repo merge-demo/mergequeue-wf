@@ -9348,7 +9348,7 @@ fissiparation 1
 flane
 fewmets
 ferromagnesian 2
-frangulic
+frangulic 1
 ficin
 flichter
 fishless
