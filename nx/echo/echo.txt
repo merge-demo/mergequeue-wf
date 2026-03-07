@@ -5226,7 +5226,7 @@ egoistical 1
 epithelia
 ecchymotic
 euchroic
-etheriform
+etheriform 1
 enantiomeride
 exam
 extrascriptural 1
