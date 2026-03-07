@@ -11364,7 +11364,7 @@ firetraps
 fosters 1
 fossilized
 ferromagneticism
-fegary
+fegary 1
 flightily
 fierasferid 1
 flashlamp 1
