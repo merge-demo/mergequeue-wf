@@ -2406,7 +2406,7 @@ fashionable 1
 ferlying
 flemishes
 finiteness
-fermail
+fermail 1
 factually
 flabellifoliate
 fobbed
