@@ -21076,7 +21076,7 @@ computatively
 computativeness
 celibatist 1
 computer
-computerese
+computerese 1
 computerise
 computerization
 computerizing
