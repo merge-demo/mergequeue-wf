@@ -4900,7 +4900,7 @@ damnableness
 drays
 deathwatches 1
 dignation 1
-delists 1
+delists 2
 deserter
 disbursed
 decrease 1
