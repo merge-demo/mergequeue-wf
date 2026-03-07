@@ -5782,7 +5782,7 @@ decaliter
 deportability
 deportations
 diplophonic
-digestedness 1
+digestedness 2
 decriminalized
 dissipatedly
 dominionism
