@@ -24603,7 +24603,7 @@ chancily
 copihue
 chold
 codein
-ckw
+ckw 1
 chutzpahs
 centigrade
 compellent 1
