@@ -8402,7 +8402,7 @@ beryllia
 babu
 brachygraphic
 bilimbing
-byhand
+byhand 1
 bicarpellate 1
 bija
 bijasal
