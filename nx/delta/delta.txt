@@ -9394,7 +9394,7 @@ distanced
 dictyosiphon
 discording 1
 decrete
-durabilities
+durabilities 1
 deturb 1
 discontentive
 diffusate 1
