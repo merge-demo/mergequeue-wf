@@ -7607,7 +7607,7 @@ anemogram
 angiomata
 autoloaders
 acroter
-abaissed
+abaissed 1
 alcoholometer
 aventurine
 acidic
