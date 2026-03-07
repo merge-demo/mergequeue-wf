@@ -6141,7 +6141,7 @@ fraser 1
 firefighters
 fructoside 1
 flamefishes
-feedstuffs
+feedstuffs 1
 flamethrower
 flunky
 flunkeyize
