@@ -18276,7 +18276,7 @@ coffeegrower 1
 cantinas
 coffeegrowing
 cladothrix 1
-cuss
+cuss 1
 capelets
 chronological
 coffeehouse
