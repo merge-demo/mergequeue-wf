@@ -6821,7 +6821,7 @@ grisettish
 graphics
 gorbal
 garrya 1
-guaranty 1
+guaranty 2
 gunroom
 greffotome 1
 globosities
