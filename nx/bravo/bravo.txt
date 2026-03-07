@@ -11445,7 +11445,7 @@ becaps 1
 bonser
 bimillenium
 bluepoint
-bluepoints
+bluepoints 1
 belzebub 1
 blobby
 blueprint
