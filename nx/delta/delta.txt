@@ -5011,7 +5011,7 @@ darci
 dingly 1
 deemphasis 1
 distritbutes
-denationalise
+denationalise 1
 denationalize
 decaesarize
 densification
