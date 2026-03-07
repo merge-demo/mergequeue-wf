@@ -603,7 +603,7 @@ damnificatus
 disoccupation
 drapable
 dobos 1
-debarration
+debarration 1
 depolarizer
 dialectologies
 damnifies
