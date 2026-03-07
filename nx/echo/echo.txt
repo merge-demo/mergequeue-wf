@@ -4047,7 +4047,7 @@ evaporative
 exedent
 encarnalizing 1
 evidenced
-encumbrous
+encumbrous 1
 emulsifiers
 evangelize
 euphorbial 2
