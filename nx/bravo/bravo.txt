@@ -3956,7 +3956,7 @@ betatters
 bdellium 1
 bdelliums
 bdelloid
-bdellometer
+bdellometer 1
 burl
 booksellerish
 bombardier 1
