@@ -3749,7 +3749,7 @@ anticancerous
 anticipatively
 archivolt 1
 adhesion
-adhesive
+adhesive 1
 architraved
 archaizer
 astrogeny
