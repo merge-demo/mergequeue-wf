@@ -4649,7 +4649,7 @@ dolefullest
 demythologizer
 duodecimal
 discretionally
-delectableness
+delectableness 1
 demitint
 demitoilet
 denticulately
