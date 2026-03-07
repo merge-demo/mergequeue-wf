@@ -12891,7 +12891,7 @@ expandedly
 engrace
 enquiries 1
 excommunicating
-extorting
+extorting 1
 endure
 elicitors
 erastus
