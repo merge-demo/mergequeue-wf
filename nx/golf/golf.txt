@@ -9785,7 +9785,7 @@ gird
 glutaeous
 grumphie
 graverobber
-guesstimates
+guesstimates 1
 glories
 gastightness
 grise
