@@ -10807,7 +10807,7 @@ gursh
 gonenesses
 glibbery
 gossipping
-galvanotropic
+galvanotropic 1
 geniolatry 1
 gesneraceous
 goldtail

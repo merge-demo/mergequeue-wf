@@ -10826,7 +10826,7 @@ demirelief
 dino
 directdiscourse
 diastereoisomeric
-dulanganes
+dulanganes 1
 drawnly
 diluteness
 decreement
