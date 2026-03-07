@@ -9934,7 +9934,7 @@ ambiopia
 ambisexuality 1
 afrasia
 acquaints
-alisma
+alisma 1
 ambisinister
 amblypodous
 ambit
