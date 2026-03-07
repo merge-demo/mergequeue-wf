@@ -13995,7 +13995,7 @@ expensed
 enfigure 1
 extrapolatory
 entemple
-extraposition
+extraposition 1
 eroded
 electrolytic 1
 enormousness
