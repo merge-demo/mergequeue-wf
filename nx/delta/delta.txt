@@ -9404,7 +9404,7 @@ diffusers
 diffuses 1
 depleted 1
 danaidean
-demilitarizing
+demilitarizing 1
 defame
 demagoguism
 diffusibleness
