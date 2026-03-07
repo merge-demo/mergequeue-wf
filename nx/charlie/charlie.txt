@@ -18406,7 +18406,7 @@ conformers
 cogmen
 claypan
 conterminant
-cognac
+cognac 1
 chemoprophyalctic
 curdier
 crookeries
