@@ -7500,7 +7500,7 @@ fumbled
 fisheyes
 footmen
 fausen
-forehatch
+forehatch 1
 ferrocerium
 firefall 1
 floperoo 1
