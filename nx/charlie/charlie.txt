@@ -22558,7 +22558,7 @@ conjunctures
 conjuration
 conjurations
 compatriots
-cryogens
+cryogens 1
 conjured
 canel
 championlike
