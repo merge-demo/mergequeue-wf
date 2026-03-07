@@ -9905,7 +9905,7 @@ calic 1
 cameograph
 catalogic 1
 chronobiology
-chemosorption
+chemosorption 1
 chemosphere
 collateral
 chemosurgery
