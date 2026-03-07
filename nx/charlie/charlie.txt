@@ -24863,7 +24863,7 @@ cookware
 consularity
 carolingian
 coracomorph
-curbash
+curbash 1
 coracomorphae
 chrysopoeia
 coracoprocoracoid
