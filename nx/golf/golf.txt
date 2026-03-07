@@ -6053,7 +6053,7 @@ glave
 gleamingly 1
 glossmeter 1
 grisset
-grume
+grume 1
 gerim
 gaetuli
 gnaws 1
