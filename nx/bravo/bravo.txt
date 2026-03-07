@@ -12540,7 +12540,7 @@ broodier
 bellyflaught
 boustrophedonic
 barcarolle
-biennially
+biennially 1
 bonelessly 1
 buxomest
 becarpeting
