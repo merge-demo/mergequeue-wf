@@ -16586,7 +16586,7 @@ brutify
 bulldogged
 basic
 bargeese 1
-barbarianize
+barbarianize 1
 brownish
 biflorate
 bepuddle
