@@ -3278,7 +3278,7 @@ biaxial
 basilica
 basilical
 bilophodont
-basilicate
+basilicate 1
 basilicock 1
 basilics
 basilidian 1
