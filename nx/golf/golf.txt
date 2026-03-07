@@ -9351,7 +9351,7 @@ gruf
 geophila 1
 goliad
 ghaist
-gyrostat
+gyrostat 1
 gimmick
 gravestones
 gallerygoer

@@ -10908,7 +10908,7 @@ ergot
 esodic
 enologist
 evangelicals
-excised
+excised 1
 exanthematic
 epimerised
 examinationism
