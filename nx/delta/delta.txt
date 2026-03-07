@@ -14235,7 +14235,7 @@ decarhinus
 dibbles
 defeater 2
 desquamate
-disbranching
+disbranching 1
 dragnet
 disutilize
 doldrum
