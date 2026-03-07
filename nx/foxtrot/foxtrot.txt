@@ -1630,7 +1630,7 @@ foraneen 1
 fdnames
 footwalk
 ferociousness
-fice
+fice 1
 feaberry 2
 fundulinae
 ferrandin
