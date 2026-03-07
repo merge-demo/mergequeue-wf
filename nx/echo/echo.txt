@@ -4591,7 +4591,7 @@ errancies
 emperize
 encheason
 easiness 2
-ethnolinguistics
+ethnolinguistics 1
 embryophagous
 eeriest
 epipodial
