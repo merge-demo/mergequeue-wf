@@ -15171,7 +15171,7 @@ antiflux
 anisogametes
 anticlergy
 antiforeignism
-arridge
+arridge 1
 afrown 1
 autometamorphosis
 antiformin
