@@ -10521,7 +10521,7 @@ depthless
 danging
 derangeable
 divinize 1
-dipyrenous
+dipyrenous 1
 dipyridyl
 dichter 1
 daughter
