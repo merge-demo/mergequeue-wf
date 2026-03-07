@@ -17720,7 +17720,7 @@ anecdotalist
 apoblast 1
 appositely
 ammunition
-agynary
+agynary 1
 afterdischarge
 allegorized
 alcibiadean
