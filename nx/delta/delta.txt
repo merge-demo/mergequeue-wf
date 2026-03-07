@@ -8991,7 +8991,7 @@ deficience
 duodenotomy
 depopulators
 digastric 1
-disinvestiture
+disinvestiture 1
 dehydrofroze
 disqualifies
 diarchies
