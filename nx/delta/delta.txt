@@ -8554,7 +8554,7 @@ diaphone
 drinks
 diaphones
 drys
-deflex
+deflex 1
 diaphony
 diaphysial
 distributionist
