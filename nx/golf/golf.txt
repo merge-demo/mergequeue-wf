@@ -6844,7 +6844,7 @@ garnishing
 gooseneck
 gregarina 1
 grecians
-getters
+getters 1
 graticulate
 glis
 gastrohysterotomy
