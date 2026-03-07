@@ -10253,7 +10253,7 @@ dinophilea
 discontinuance
 depute
 discernable
-donkeyish
+donkeyish 1
 dismembrate
 demulsibility
 dinosauria
