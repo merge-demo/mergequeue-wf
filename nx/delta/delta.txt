@@ -16636,7 +16636,7 @@ dicers
 dottedness
 depressor
 destigmatize 1
-deeny
+deeny 1
 diaphyses
 drains
 drageoir
