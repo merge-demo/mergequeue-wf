@@ -14073,7 +14073,7 @@ corticoid 1
 circlets
 circulated
 circocele
-colloquialisms
+colloquialisms 1
 circue
 circuit
 circuital
