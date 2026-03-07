@@ -13679,7 +13679,7 @@ euchre 1
 equiv
 enforcement
 estrays
-elevon
+elevon 1
 elizabethanism 1
 exteriorisation
 entapophysis 1
