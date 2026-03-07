@@ -10883,7 +10883,7 @@ contexture
 camouflagers
 clocher
 chypre
-cariacine
+cariacine 1
 chipwood
 chiquito
 clavate
