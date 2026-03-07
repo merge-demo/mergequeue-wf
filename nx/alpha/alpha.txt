@@ -20603,7 +20603,7 @@ atomizer
 arpens
 arthrodymic
 aristotelian
-assimilations
+assimilations 1
 administerings
 amniote
 androgonium
