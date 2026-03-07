@@ -6525,7 +6525,7 @@ fellah
 fluorescer
 frenchize
 firer
-faithful
+faithful 1
 fellatrix
 forsar
 flurn 1

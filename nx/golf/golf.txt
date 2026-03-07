@@ -4403,7 +4403,7 @@ graphology
 genoveva
 gynura
 garotter
-globigerinas
+globigerinas 1
 guamachil
 goyazite 1
 gipsydom
