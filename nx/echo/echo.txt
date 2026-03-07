@@ -5874,7 +5874,7 @@ ecclesiast
 euphausia
 epigeum
 ewest
-embracingly
+embracingly 1
 economised
 epigramme
 endosteal
