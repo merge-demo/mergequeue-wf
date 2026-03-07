@@ -3954,7 +3954,7 @@ enunciating 1
 earthbound
 emoloa
 escarp
-effulged
+effulged 1
 effuviate
 encephalophyma 1
 emulator
