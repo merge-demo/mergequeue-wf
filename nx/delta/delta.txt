@@ -11790,7 +11790,7 @@ dogblow 1
 demurrages 1
 disported 1
 damoclean
-dizzen
+dizzen 1
 depths 1
 discrested
 dowering
