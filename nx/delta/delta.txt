@@ -11843,7 +11843,7 @@ damans
 discrowns
 dislustered
 domestic
-devitalised
+devitalised 1
 dignities
 discruciate
 dived
