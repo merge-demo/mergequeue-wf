@@ -10850,7 +10850,7 @@ exochorda
 exsibilate 1
 economist
 echinid
-escapage
+escapage 1
 ecosphere
 endocrines
 enthralling
