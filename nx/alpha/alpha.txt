@@ -20941,7 +20941,7 @@ aryballi
 ascape
 abstrahent
 amidid
-adherence
+adherence 1
 aerodynamicist
 argaile
 assuefaction
