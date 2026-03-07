@@ -5968,7 +5968,7 @@ bude
 battels
 benumbing
 benighter
-bevor
+bevor 1
 battiness 1
 beltless
 benchmarks
