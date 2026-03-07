@@ -1406,7 +1406,7 @@ earthpeas
 efferently
 exotoxin
 epigones
-ensure
+ensure 1
 ectopatagium
 eights 1
 epode
