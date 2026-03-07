@@ -9518,7 +9518,7 @@ foresteep
 forewarned
 frontiersmen
 foresight
-fecundated
+fecundated 1
 formate
 fraudulentness 1
 ferreting
