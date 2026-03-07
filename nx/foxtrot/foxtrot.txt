@@ -11367,7 +11367,7 @@ ferromagneticism
 fegary
 flightily
 fierasferid 1
-flashlamp
+flashlamp 1
 fireproofed
 ferberite
 figurally
