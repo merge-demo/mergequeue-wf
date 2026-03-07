@@ -4076,7 +4076,7 @@ gobernadora
 gondoletta
 genus
 gelechiid
-gnawer
+gnawer 1
 gonagia
 grapevine 1
 gaulic 1
