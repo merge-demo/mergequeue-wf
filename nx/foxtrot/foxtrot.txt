@@ -11243,7 +11243,7 @@ factable 1
 fatherkin 1
 funkiness
 fezzes
-forerunnings
+forerunnings 1
 frontispieces 2
 fucivorous
 fistfight
