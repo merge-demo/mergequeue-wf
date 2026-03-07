@@ -5085,7 +5085,7 @@ exited
 endoclinal
 eternals 1
 endenizen 1
-endocoelar
+endocoelar 1
 epitomical
 epistoma
 eelpouts
