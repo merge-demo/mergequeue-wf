@@ -4390,7 +4390,7 @@ bely 2
 buckeens
 barehead
 bonspiels
-bechuana
+bechuana 1
 bleacherman
 britisher
 barmfel
