@@ -14310,7 +14310,7 @@ dithionous
 dubber
 dephilosophize
 devotionate 1
-depaganize
+depaganize 1
 demarcature
 dithyrambs
 dithyrambus
