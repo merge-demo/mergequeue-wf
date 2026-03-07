@@ -6603,7 +6603,7 @@ guarantee
 gibsons 1
 gyrodyne
 gambusias
-gravels 1
+gravels 2
 gunnysack
 grundyist 1
 guidons
