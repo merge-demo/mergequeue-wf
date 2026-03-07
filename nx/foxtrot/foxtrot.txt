@@ -796,7 +796,7 @@ flunker
 firmer
 fanfaronading
 flameouts
-fiberizing
+fiberizing 1
 farmhouses 1
 foiter
 folkloric
