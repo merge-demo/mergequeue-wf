@@ -8666,7 +8666,7 @@ greenflies
 gorra
 glean
 glump
-gallopers
+gallopers 1
 gymnocidium
 gynaecoid 1
 grabbots
