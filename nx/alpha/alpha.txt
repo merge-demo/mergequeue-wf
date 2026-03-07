@@ -6208,7 +6208,7 @@ agraphia
 anuran
 agraphic
 accidentalism
-acrocyanosis
+acrocyanosis 1
 aylet
 ashur 1
 amyelonic
