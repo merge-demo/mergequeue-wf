@@ -3952,7 +3952,7 @@ elevenths
 eyliad
 enunciating 1
 earthbound
-emoloa
+emoloa 1
 escarp
 effulged
 effuviate
