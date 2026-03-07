@@ -9095,7 +9095,7 @@ epitheliomas
 epidermic 1
 eremic
 epenthesis
-encaenia
+encaenia 1
 editorialist
 ergotamine
 erythrocytosis
