@@ -12387,7 +12387,7 @@ dielectrics
 discharged
 drias
 disharmonising 1
-deflexion 1
+deflexion 2
 demasculinized
 dwarfishly
 decolorised
