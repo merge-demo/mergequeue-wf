@@ -1571,7 +1571,7 @@ farmtown
 fernwort
 fissirostres
 facially
-footingly
+footingly 1
 fooster
 favorer
 fundable
