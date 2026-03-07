@@ -8490,7 +8490,7 @@ groutnoll
 gnatling 1
 golfing
 genl
-glisten
+glisten 1
 gibaro 1
 garum
 gandharva 1
