@@ -9864,7 +9864,7 @@ biters
 billed
 barbing
 blancard
-bites
+bites 1
 birefringent 1
 bebat
 backswording
