@@ -13,7 +13,7 @@ electrochronograph
 epidermoid
 erigeron
 evaporometer
-explait
+explait 1
 emigate 1
 epidotiferous 1
 epanorthidae
