@@ -3677,7 +3677,7 @@ botchery
 billheads
 bioplasm
 batoon
-balloonery
+balloonery 1
 blubbery
 buffoon
 bifrontal 2

@@ -10435,7 +10435,7 @@ exorbitance
 entresalle
 excreted
 esperantido
-ecb
+ecb 1
 ectocranial 1
 epilator
 exudates
