@@ -4548,7 +4548,7 @@ addax
 adviser
 apparatchiki
 androcentric 2
-arctitude
+arctitude 1
 affinitatively
 apolog
 acetylic
