@@ -5788,7 +5788,7 @@ gown
 glissades
 gather
 gedrite
-gutsy
+gutsy 1
 gurgoyl
 geocarpic
 glt
