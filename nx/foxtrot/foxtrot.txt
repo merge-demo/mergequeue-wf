@@ -11501,7 +11501,7 @@ fluidics
 furzy 1
 fastest
 fishbowls
-flouncy
+flouncy 1
 fusariose
 forril
 fopperly
