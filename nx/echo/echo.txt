@@ -14166,7 +14166,7 @@ encinctured
 eidoptometry
 epiloia
 envenomization
-exulcerating
+exulcerating 1
 euciliate
 exulding
 eardrums
