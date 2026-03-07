@@ -19698,7 +19698,7 @@ anticathexis
 aristology
 artocarpous
 anamite
-acneiform
+acneiform 1
 affirmly
 acrostichal
 aristologist
