@@ -7285,7 +7285,7 @@ grumness
 gladstonian
 geochronic
 gensengs
-geoty
+geoty 1
 glowbird 1
 generatrix
 gerated 1
