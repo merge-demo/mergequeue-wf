@@ -10968,7 +10968,7 @@ burps
 breathable 1
 blaflum
 bices
-bowses
+bowses 1
 buoyantness
 bilboquet
 brachystomata
