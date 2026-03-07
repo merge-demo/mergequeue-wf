@@ -6215,7 +6215,7 @@ furriness
 fairyland
 fathership 1
 fatima
-flechettes
+flechettes 1
 frondigerous
 frustration
 fetidity
