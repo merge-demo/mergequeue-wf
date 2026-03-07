@@ -1242,7 +1242,7 @@ fassalite
 fastbacks
 frigor
 faradism
-frisbee
+frisbee 1
 favella
 furmities
 fornicatress
