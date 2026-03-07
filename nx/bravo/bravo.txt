@@ -9570,7 +9570,7 @@ buccaro
 bettered 1
 bught
 battuto
-biserial
+biserial 1
 bashalick
 biblist
 blancher
