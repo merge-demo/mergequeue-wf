@@ -6187,7 +6187,7 @@ fitchering
 forlornly
 frowardly
 floccilation
-flounced
+flounced 1
 factorize
 frowardness
 faraway
