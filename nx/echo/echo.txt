@@ -6517,7 +6517,7 @@ electrography
 elocation
 entr 1
 embrocated
-elkhound
+elkhound 1
 electrolyzing 1
 epizoisms
 ensurance
