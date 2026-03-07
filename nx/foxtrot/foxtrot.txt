@@ -2625,7 +2625,7 @@ friable
 forwards
 fratchy
 fontful
-fribourg
+fribourg 1
 farish
 formalistic
 fulgurator
