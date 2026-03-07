@@ -18277,7 +18277,7 @@ cantinas
 coffeegrowing
 cladothrix 1
 cuss 1
-capelets
+capelets 1
 chronological
 coffeehouse
 coffeehouses
