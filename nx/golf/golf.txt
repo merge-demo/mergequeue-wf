@@ -2614,7 +2614,7 @@ gripgrass
 geniality 1
 gastrolysis
 gudgeoned
-gastrocoele
+gastrocoele 1
 glow
 gentianal
 garg
