@@ -6968,7 +6968,7 @@ fallace
 folklores
 fp
 fletched
-ferme
+ferme 1
 fleme
 forceps 1
 fiscals 1

@@ -14480,7 +14480,7 @@ bewigs
 brow
 bisexuous
 besmirchment
-birdshots
+birdshots 1
 bedews
 boodling
 bewailment
