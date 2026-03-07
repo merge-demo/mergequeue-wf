@@ -3089,7 +3089,7 @@ flugelhorn
 fortifyingly 1
 frozen
 frenching
-faddiness
+faddiness 1
 fisherboy
 faradizes
 faikes
