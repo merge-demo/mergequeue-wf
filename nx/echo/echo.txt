@@ -8041,7 +8041,7 @@ eyebath
 enheritage
 ensconced
 energumenon
-ethnomanic
+ethnomanic 1
 educables 1
 expressly
 epinikia
