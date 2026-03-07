@@ -3404,7 +3404,7 @@ effectress
 epimorpha
 euharmonic
 electroplax
-efflorescing
+efflorescing 1
 euryphagous
 epileptic
 eclaircise
