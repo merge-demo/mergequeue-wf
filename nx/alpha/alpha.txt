@@ -12342,7 +12342,7 @@ asiarch
 alloxanate
 agnomical
 adventists 1
-adjective
+adjective 1
 aromal
 androphorous
 antipyryl
