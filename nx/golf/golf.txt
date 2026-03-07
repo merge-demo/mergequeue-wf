@@ -5609,7 +5609,7 @@ goner
 granadilla 1
 gallinago
 gowkedness
-guijo
+guijo 1
 geothermal
 gasps
 gyrators
