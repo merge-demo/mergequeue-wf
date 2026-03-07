@@ -3115,7 +3115,7 @@ decalcomaniac
 defaulted
 dissymmettric
 defaultless
-depauperization
+depauperization 1
 downfolded 1
 defaults
 drowningly 1
