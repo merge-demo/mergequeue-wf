@@ -10531,7 +10531,7 @@ amylom
 ager
 amyxorrhea
 aquarid
-amyloplast
+amyloplast 1
 appertaining
 amyloplastid
 antichronism
