@@ -3958,7 +3958,7 @@ digerent
 decides
 devitalise
 deputized
-delectating
+delectating 1
 degressive
 delectus
 deficient
