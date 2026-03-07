@@ -7551,7 +7551,7 @@ ducktail 1
 decemviral
 discs
 denumerability
-deadheadism
+deadheadism 1
 deuterozooid
 didynamies
 discreetness
