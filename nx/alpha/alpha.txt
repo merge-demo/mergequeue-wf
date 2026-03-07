@@ -169,7 +169,7 @@ abbacies
 acolapissa
 anakes
 abbasside
-advertizable 1
+advertizable 2
 altostratus
 ashtray
 arctogaea
