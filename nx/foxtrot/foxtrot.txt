@@ -4430,7 +4430,7 @@ finishes 2
 fiancees
 feirie
 fleta
-fluorid
+fluorid 1
 foremeant
 frenches
 facsimiling
