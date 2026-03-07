@@ -4268,7 +4268,7 @@ escambio
 eumeristic
 emcumbering 1
 expressways
-epityphlon
+epityphlon 1
 escutcheons
 encephalotome
 experiment
