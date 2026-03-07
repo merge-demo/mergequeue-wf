@@ -466,7 +466,7 @@ doomsdays
 dalle 1
 diamylene
 desmotropic 2
-deictical
+deictical 1
 dividing
 dispence
 dallied
