@@ -16853,7 +16853,7 @@ buffalo
 buffalofish 1
 burglarised
 biarcuated
-biflagellate
+biflagellate 1
 beermonger
 backings 1
 breastrail
