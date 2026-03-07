@@ -6734,7 +6734,7 @@ dissogeny
 decollating
 desolations
 dividingly
-deceased
+deceased 1
 dissyllabized
 decastyle
 desilt

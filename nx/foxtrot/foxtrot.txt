@@ -9088,7 +9088,7 @@ fractionalize
 foreparents 1
 frap 1
 frasco 3
-foxbane
+foxbane 1
 faltered
 ferrymen
 females 2
