@@ -6393,7 +6393,7 @@ griot
 gregorian
 gnomonia
 gazes
-gouger
+gouger 1
 gelates
 gentisate
 guineapig
