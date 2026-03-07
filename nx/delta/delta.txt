@@ -6736,7 +6736,7 @@ desolations
 dividingly 1
 deceased 1
 dissyllabized
-decastyle
+decastyle 1
 desilt
 disregular 1
 deerweeds
