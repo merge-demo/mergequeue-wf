@@ -6058,7 +6058,7 @@ gerim
 gaetuli
 gnaws 1
 gramineous
-gneiss
+gneiss 1
 grotesquely
 goosebeak
 galactemia

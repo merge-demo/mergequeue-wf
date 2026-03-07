@@ -18951,7 +18951,7 @@ conceding
 collaret 1
 counterbracing
 collarette
-carpuspi
+carpuspi 1
 coupelet
 cochal 1
 conjugate
