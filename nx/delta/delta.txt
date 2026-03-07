@@ -16938,7 +16938,7 @@ dullness
 depurant
 deadishness
 downcurve
-dredgeful
+dredgeful 1
 disintegrate
 dibber
 dismality
