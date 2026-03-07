@@ -15102,7 +15102,7 @@ antegarden
 aggregating
 antievolution 1
 autocatalysis
-anteconsonantal
+anteconsonantal 1
 antievolutionist
 anemometrograph
 antiexpansion
