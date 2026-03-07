@@ -13294,7 +13294,7 @@ bosset
 bonducnut
 babushkas 1
 bedstaff
-bokard 1
+bokard 2
 brainwork
 bestrew 1
 beigel
