@@ -1443,7 +1443,7 @@ bawls 1
 balefires
 bewreak
 barmbrack
-bethumped
+bethumped 1
 branned 1
 bemaddened
 baleise
