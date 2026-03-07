@@ -2866,7 +2866,7 @@ embusy
 enseat 1
 eggrolls
 electroluminescent
-exteriorate
+exteriorate 1
 expediencies
 evenhanded
 enaluron
