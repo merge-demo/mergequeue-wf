@@ -9510,7 +9510,7 @@ deary
 decide
 disapproval
 diggable
-deuterostome
+deuterostome 1
 demonstrational 1
 drupes
 differencingly

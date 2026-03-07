@@ -680,7 +680,7 @@ badass
 brasseries
 badderlocks 1
 brigsail 1
-banagos
+banagos 1
 benignancy 1
 baccivorous
 blee 2
