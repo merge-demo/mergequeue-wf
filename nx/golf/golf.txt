@@ -7289,7 +7289,7 @@ geoty
 glowbird 1
 generatrix
 gerated 1
-glandular
+glandular 1
 gymnics
 goofing
 galbanums 2
