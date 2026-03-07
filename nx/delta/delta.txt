@@ -12230,7 +12230,7 @@ depel
 deride
 dadenhudd
 discoursiveness
-deacetylating
+deacetylating 1
 decardinalize
 deliquesce 1
 dwarfish
