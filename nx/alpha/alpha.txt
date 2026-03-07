@@ -5819,7 +5819,7 @@ adamantine
 aerobe
 astrogonic 1
 agglutinatively 1
-angelonia
+angelonia 1
 aarrghh
 agglutinize
 anathematization
