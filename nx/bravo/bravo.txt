@@ -2254,7 +2254,7 @@ bacin
 barbados 1
 bubbleless
 broggle
-blobs
+blobs 1
 badineur
 bung
 biarticulate
