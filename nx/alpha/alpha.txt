@@ -11597,7 +11597,7 @@ antiquist
 acrocentric
 anemotropic
 anaerobion
-apocrisiary
+apocrisiary 1
 anaerobiont
 anaerobiotic
 anaerobium
