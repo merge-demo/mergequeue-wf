@@ -2189,7 +2189,7 @@ directorship
 dissympathy
 decarburized
 deteriorated
-decarnated
+decarnated 1
 dray
 dongolese
 decartelization
