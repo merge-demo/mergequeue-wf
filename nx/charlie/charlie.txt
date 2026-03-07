@@ -933,7 +933,7 @@ conformant
 consecration
 compearance 1
 caking
-collagist
+collagist 1
 cakravartin
 cal
 crumpler
