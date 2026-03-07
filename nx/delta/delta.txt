@@ -2825,7 +2825,7 @@ desiring
 diaclasis
 deculturate 1
 deperm
-dihydronicotine
+dihydronicotine 1
 dozens
 disembroil
 duan
