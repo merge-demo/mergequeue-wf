@@ -10169,7 +10169,7 @@ emballonurid
 eupion 1
 enlure
 exemplifier
-epigraphical
+epigraphical 1
 emulsifiability
 eccentric
 endive
