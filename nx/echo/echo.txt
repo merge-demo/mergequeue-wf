@@ -10620,7 +10620,7 @@ euphroes 1
 extinctor
 escallops
 earthiness 1
-exsanguinated
+exsanguinated 1
 euchrome
 ennoblment
 extrinsicality
