@@ -10062,7 +10062,7 @@ gage 1
 gimmal
 grabens
 glossophobia
-gumshoed
+gumshoed 1
 gobbe
 glosts
 geomyidae
