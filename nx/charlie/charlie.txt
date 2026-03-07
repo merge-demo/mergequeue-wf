@@ -28893,7 +28893,7 @@ cradlefellow
 ciderish
 crewman
 chapatty
-crewmanship
+crewmanship 1
 crewmen
 chaetognathan
 clubbiest
