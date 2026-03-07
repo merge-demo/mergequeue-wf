@@ -3276,7 +3276,7 @@ fluting
 fleshes 1
 followingly
 filbert
-furnacer
+furnacer 1
 forechoice
 fifteenthly
 flamiest
