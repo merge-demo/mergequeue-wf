@@ -6031,7 +6031,7 @@ expire
 epiglottises
 edginess 2
 epiphytotic
-epistolical
+epistolical 1
 epistles
 endocrinopathy
 extrarhythmical
