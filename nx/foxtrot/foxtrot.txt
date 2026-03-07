@@ -6055,7 +6055,7 @@ fumid
 fibrillate 1
 fluidizing
 figlike
-foreplays
+foreplays 1
 farrowed
 fantasts
 fructose
