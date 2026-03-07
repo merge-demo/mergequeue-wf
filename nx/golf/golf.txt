@@ -3932,7 +3932,7 @@ glowing 2
 grubworms
 gigawatts 2
 glioma 1
-granivore
+granivore 1
 graphium
 glyptodontidae
 gorgoneioneia
