@@ -720,7 +720,7 @@ frettier
 feta
 foraminulose
 flingdust 1
-frapping
+frapping 1
 flagroot
 faceup
 foreclosed
