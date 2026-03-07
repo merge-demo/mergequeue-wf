@@ -13799,7 +13799,7 @@ burgout
 bovate 1
 besmirching
 bannermen 1
-bejig
+bejig 1
 bovinely
 blackberrylike
 bezil
