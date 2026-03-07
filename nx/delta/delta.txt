@@ -1318,7 +1318,7 @@ decapitates
 departure
 daundering
 didappers
-daunt
+daunt 1
 dhobies
 daunters
 digitally 1
