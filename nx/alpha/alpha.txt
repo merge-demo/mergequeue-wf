@@ -5191,7 +5191,7 @@ atonement
 alemanni
 aggerate
 affinities
-affinition
+affinition 1
 affinitive
 affirmable 1
 absolvers
