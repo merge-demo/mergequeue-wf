@@ -10974,7 +10974,7 @@ epipteric
 euphuize
 eupyrion
 electropercussive
-exsputory
+exsputory 1
 encyclopedical
 empathetic
 enteritis
