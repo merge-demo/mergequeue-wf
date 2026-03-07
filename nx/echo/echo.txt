@@ -4791,7 +4791,7 @@ exhausted
 equipostile
 enerve
 embrocate
-ergasterion
+ergasterion 1
 extraorbitally
 enumerative
 edwardsia
