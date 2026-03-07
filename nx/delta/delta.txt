@@ -3052,7 +3052,7 @@ delible
 dapico
 designated
 delightfully
-defaces
+defaces 1
 disennoble
 disdeceive
 defacing
