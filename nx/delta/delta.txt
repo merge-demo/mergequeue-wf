@@ -18449,7 +18449,7 @@ downrush
 dimorphs
 dukkha 1
 dedicatedly
-duplexers
+duplexers 1
 dogey
 duplicators
 decury
