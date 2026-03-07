@@ -2805,7 +2805,7 @@ acheirous
 apachette
 awork
 antiferromagnetic 1
-amaxomania
+amaxomania 1
 asphyxiative
 acidophile
 actionized
