@@ -8311,7 +8311,7 @@ contumaciousness
 chantress
 courtyard
 chalina
-coonskin
+coonskin 1
 complexity
 carbure
 choyroot

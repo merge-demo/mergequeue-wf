@@ -13074,7 +13074,7 @@ engrapple
 encomiastical
 enhazard
 entrusted
-eraser
+eraser 1
 emrode
 expatriated
 ebauchoir 2
