@@ -1267,7 +1267,7 @@ demigardebras
 dissyllabize
 dentition
 doitrified
-dardanarius
+dardanarius 1
 depardieu
 delusive
 dauber
