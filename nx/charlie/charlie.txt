@@ -8315,7 +8315,7 @@ coonskin
 complexity
 carbure
 choyroot
-chalinitis
+chalinitis 1
 chalkboard
 chalky
 commissions
