@@ -2548,7 +2548,7 @@ declining 1
 driddle
 declivent
 derive
-dreamlike
+dreamlike 1
 declivity
 deanthropomorphize
 dangled
