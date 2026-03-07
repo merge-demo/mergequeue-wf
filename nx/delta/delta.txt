@@ -6015,7 +6015,7 @@ divergences
 depuratory
 depure
 desalts
-diagonally
+diagonally 1
 depe
 dimnesses
 dirigibles
