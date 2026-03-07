@@ -3296,7 +3296,7 @@ calendarist
 cyclotomy
 cystenchyme
 cochliodus
-capite
+capite 1
 carapine
 christianized
 capitellate
