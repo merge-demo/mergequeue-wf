@@ -7269,7 +7269,7 @@ gormandize
 glomi 1
 greeted
 gwerziou
-gavelman
+gavelman 1
 gainliest
 goslet 2
 glassblowing
