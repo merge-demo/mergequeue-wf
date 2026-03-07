@@ -5163,7 +5163,7 @@ dartoic
 dytiscus
 dirichletian
 dyings
-daemon
+daemon 1
 dahabiehs 1
 decephalization
 deathly
