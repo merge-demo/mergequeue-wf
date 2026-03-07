@@ -10641,7 +10641,7 @@ gargets 1
 grandiloquent
 grutches
 gorrel
-gunk
+gunk 1
 genera
 gamut
 galee
