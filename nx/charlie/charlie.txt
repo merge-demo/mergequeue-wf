@@ -26494,7 +26494,7 @@ cottonseed
 clotheshorse
 chalcedonies
 cottonseeds
-camomile
+camomile 1
 cymarose
 cabuyas 1
 comates
