@@ -7663,7 +7663,7 @@ giraffesque
 geodynamics
 gyppery 1
 goli
-globulariaceous 1
+globulariaceous 2
 greenlet 2
 guardroom
 gastrochaenidae
