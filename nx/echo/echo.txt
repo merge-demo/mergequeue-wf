@@ -10810,7 +10810,7 @@ emblema
 encrinus
 electrogilding
 endosporic
-entombment
+entombment 1
 eumycete
 espeire 1
 expiating
