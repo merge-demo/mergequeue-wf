@@ -15270,7 +15270,7 @@ dd
 dissipations
 desubstantiate
 dolomite
-dose
+dose 1
 drepanium
 descriptives
 dorididae
