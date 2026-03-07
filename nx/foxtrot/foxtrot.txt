@@ -1785,7 +1785,7 @@ fouett
 flak
 frotting 1
 frustules 1
-freath
+freath 1
 fanfarade
 flocking
 flyspecks
