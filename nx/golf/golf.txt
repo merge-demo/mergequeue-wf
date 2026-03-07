@@ -416,7 +416,7 @@ galeid
 gazabo 1
 goldi
 genny 1
-gyms
+gyms 1
 gemmation 1
 guttera
 gyrenes 1
