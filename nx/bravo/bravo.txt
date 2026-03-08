@@ -1526,7 +1526,7 @@ bahadurs
 bunty 1
 beggar
 burghbote
-boroglycerate
+boroglycerate 1
 barras
 ball
 ballad
