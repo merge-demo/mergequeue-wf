@@ -7492,7 +7492,7 @@ bitterest
 beplumed
 bayadeers
 bettor
-bullfighter
+bullfighter 1
 bluestoner
 braehead
 barbaric
