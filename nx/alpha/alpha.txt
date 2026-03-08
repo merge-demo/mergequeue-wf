@@ -14727,7 +14727,7 @@ anticaustic
 affreighter
 allays 1
 anticensorial
-atomically
+atomically 1
 ammonitish
 antrotympanic
 allocation
