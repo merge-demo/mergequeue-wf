@@ -12382,7 +12382,7 @@ exhibition
 euphemise
 excambion
 english
-eradiate
+eradiate 1
 ensample
 exhibitionism
 exoduses
