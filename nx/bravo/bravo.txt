@@ -2630,7 +2630,7 @@ bochism
 bidentate 1
 broadwives
 befuddles
-busybodies
+busybodies 1
 blindfold
 ballons
 burets
