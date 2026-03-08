@@ -5110,7 +5110,7 @@ fissures
 fallway
 feuilletonistic
 fatteners
-fritter
+fritter 1
 flaperon 1
 flippantly
 flappable
