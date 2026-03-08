@@ -2995,7 +2995,7 @@ geoponics
 galvayning
 graspable
 gollywog
-gyrostatically
+gyrostatically 1
 gromet
 genii
 globulins
