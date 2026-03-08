@@ -5249,7 +5249,7 @@ dysoxidize 1
 deligated 1
 darksum
 detects
-density
+density 1
 degasifier
 dispositioned
 diatomaceoid
