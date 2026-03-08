@@ -1981,7 +1981,7 @@ fetichmonger
 flattest
 frize 1
 fulani
-fadmongering
+fadmongering 1
 floative
 flinthearted
 fedora
