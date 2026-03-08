@@ -16698,7 +16698,7 @@ desalt
 disauthorize
 daswen
 diametrally
-disentomb
+disentomb 1
 diazoma
 drape 1
 disharmonized
