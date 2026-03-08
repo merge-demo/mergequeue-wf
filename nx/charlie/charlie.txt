@@ -9198,7 +9198,7 @@ cestoids 1
 carbonylic 1
 chastener
 cashaw
-cankerworm
+cankerworm 1
 coplanation
 cylindrodendrite
 currach
