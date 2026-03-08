@@ -10616,7 +10616,7 @@ francophobe
 feeblebrained
 foreswore
 fascicles
-feldsher
+feldsher 1
 focussed
 fanteeg
 forwarn
