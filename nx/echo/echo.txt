@@ -1170,7 +1170,7 @@ editorialization
 ecphory
 expunction
 editorializers
-exstipulate
+exstipulate 1
 exanthemas
 eupyrchroite
 ethnologer
