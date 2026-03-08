@@ -5013,7 +5013,7 @@ epichindrotic
 episiotomy
 erythrolysis
 embellish
-equerry
+equerry 1
 enrolled
 extraordinaries
 eclairs
