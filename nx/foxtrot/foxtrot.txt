@@ -5858,7 +5858,7 @@ fights
 fatting
 fpsps
 fictile
-fortunous
+fortunous 1
 farmage
 fulfilling
 flurriedly
