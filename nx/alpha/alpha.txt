@@ -276,7 +276,7 @@ affiant
 abnormals
 abdominoscopy
 agas 2
-admiratively
+admiratively 1
 acquiescent
 astoundment
 aerodynes
