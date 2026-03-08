@@ -9888,7 +9888,7 @@ doek
 dace
 dimensum
 dimer
-decadency
+decadency 1
 deludable
 daturic 1
 deuteronomist
