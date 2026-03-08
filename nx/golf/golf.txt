@@ -4754,7 +4754,7 @@ gamboised
 groundwork
 guanidins
 giveable
-gederite
+gederite 1
 gals
 gametophyll
 gomeril 1
