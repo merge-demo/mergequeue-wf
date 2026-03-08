@@ -11549,7 +11549,7 @@ eucharis
 evidencing
 extremis 1
 eonian 1
-eobionts
+eobionts 1
 ekistics 1
 epizooties
 embryologically 1
