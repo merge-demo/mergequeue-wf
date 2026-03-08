@@ -993,7 +993,7 @@ forbiddal
 fondlings
 fustic
 foresightedly
-fontanges
+fontanges 1
 fierce 1
 foreshop 1
 fulmina
