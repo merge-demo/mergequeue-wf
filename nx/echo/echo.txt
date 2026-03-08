@@ -12729,7 +12729,7 @@ epha
 euchysiderite
 entrepreneuses
 extol
-ever
+ever 1
 exactingness
 eradication 1
 enroll
