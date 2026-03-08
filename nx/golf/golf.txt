@@ -4299,7 +4299,7 @@ geologize
 guss
 glendover 2
 guilds
-galactopoietic 1
+galactopoietic 2
 galleon
 gingerline
 glycoside 1

@@ -3339,7 +3339,7 @@ crotchwood
 collieries
 coilers
 caplin
-caplins
+caplins 1
 coherald
 capmaking
 canephoros
