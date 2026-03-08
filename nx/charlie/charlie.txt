@@ -2992,7 +2992,7 @@ clangoring
 caustic
 cogent
 canthathari
-cameriera
+cameriera 1
 canalizing
 canthitis
 crystalled
