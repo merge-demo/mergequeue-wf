@@ -6238,7 +6238,7 @@ finality 1
 flowerage
 fluxation
 forever
-farfara
+farfara 1
 fumage
 fumiferana 1
 fathering
