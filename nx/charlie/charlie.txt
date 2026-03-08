@@ -27146,7 +27146,7 @@ cava 1
 chrotta
 countersway
 countersworn 1
-crookle
+crookle 1
 countertally
 countertaste
 counterplease
