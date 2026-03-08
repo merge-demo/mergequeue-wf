@@ -5172,7 +5172,7 @@ graffer
 grandioseness
 gaussbergite 1
 glutenous 2
-gangliglions
+gangliglions 1
 guativere
 gracility
 gametogonium

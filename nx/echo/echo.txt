@@ -6938,7 +6938,7 @@ epic
 epiphyllospermous
 enfeoffed
 espartos
-evitable
+evitable 1
 entomosporium
 efflation
 ellipsoidal
