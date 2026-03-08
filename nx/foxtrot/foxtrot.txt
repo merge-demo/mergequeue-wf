@@ -11049,7 +11049,7 @@ ferruminate
 fermented 1
 firmarii
 fumuli
-fungated
+fungated 1
 fummle 1
 fere
 fascias
