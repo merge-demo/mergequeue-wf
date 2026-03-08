@@ -13225,7 +13225,7 @@ cyclizes
 cauld
 coulometric 1
 crossrail
-cycloaliphatic
+cycloaliphatic 1
 cycloalkane
 cullying
 carmakers
