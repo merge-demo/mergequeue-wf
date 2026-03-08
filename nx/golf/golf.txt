@@ -5354,7 +5354,7 @@ gastroduodenoscopy 1
 graspers
 geotechnics
 gymnocarpic
-glycosidically
+glycosidically 1
 gitter
 grotesqueries
 gelandejump 1

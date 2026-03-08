@@ -7238,7 +7238,7 @@ flitch
 ferryway
 fairily 1
 freud
-floccular
+floccular 1
 finked
 find
 foothot
