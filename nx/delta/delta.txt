@@ -12994,7 +12994,7 @@ dyschromatoptic
 deflated
 demivoice
 discriminability 1
-decentralist
+decentralist 1
 dogsbody
 delusionist
 decelerator
