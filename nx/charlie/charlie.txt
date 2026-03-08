@@ -10529,7 +10529,7 @@ chyliform
 cordonazo 1
 cardon
 cirsocele
-cymbocephaly
+cymbocephaly 1
 cicadae 1
 chill
 cyclanthaceous
