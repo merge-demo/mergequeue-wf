@@ -16014,7 +16014,7 @@ antisaloon
 affaire
 armsize
 antisalooner
-antisavage
+antisavage 1
 antiscabious
 aquatint
 amphichromy

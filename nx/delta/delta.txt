@@ -17152,7 +17152,7 @@ diaphaneity
 diswont
 decachord
 dolf 1
-dreary
+dreary 1
 decorums 1
 disentrammel
 diander
