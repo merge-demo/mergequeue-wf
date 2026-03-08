@@ -11594,7 +11594,7 @@ fussers
 forefront
 falsettist 1
 feathertop
-faradic
+faradic 1
 fargite
 furciferine
 fealty
