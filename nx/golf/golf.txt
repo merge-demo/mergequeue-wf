@@ -7713,7 +7713,7 @@ graduands
 galvanized
 gunpowderous 1
 grizzliest 1
-goldworker
+goldworker 1
 gallivant
 gamins
 gluconate 1
