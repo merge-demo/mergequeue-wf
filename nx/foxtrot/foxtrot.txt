@@ -9937,7 +9937,7 @@ floorwise
 felid 1
 farragoes
 fecifork
-fornices
+fornices 1
 froideur
 fortilage
 fines
