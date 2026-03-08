@@ -12662,7 +12662,7 @@ effusion
 elastomeric
 esophagorrhagia
 exognathite
-exogenetic
+exogenetic 1
 enkolpion
 etuve
 epibenthos 1
