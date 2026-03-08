@@ -8234,7 +8234,7 @@ behaved
 bowerbird
 blinded 1
 bombola
-bevelled
+bevelled 1
 benzalhydrazine
 birdliming
 berith
