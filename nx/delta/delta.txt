@@ -5254,7 +5254,7 @@ degasifier
 dispositioned
 diatomaceoid
 denouncers
-detinue
+detinue 1
 dissimulate 1
 downhearted
 darkener
