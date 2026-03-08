@@ -6066,7 +6066,7 @@ deputizing
 degraders
 debriefed
 droiture
-deaconal
+deaconal 1
 descendible
 dilutent
 dancetty
