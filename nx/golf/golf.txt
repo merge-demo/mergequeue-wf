@@ -8999,7 +8999,7 @@ gallivat
 glyconian
 gastroscopy
 gradates
-gravitated
+gravitated 1
 gwantus
 grallatores
 gnawingly
