@@ -10468,7 +10468,7 @@ forecaster
 fidibus
 fortemente
 farmeries
-fetterer
+fetterer 1
 flameproof
 forfex
 feetage

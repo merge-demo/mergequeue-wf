@@ -7199,7 +7199,7 @@ destructionist 1
 dattos
 distil
 disafforest
-dodecarch
+dodecarch 1
 dehiscence
 demultiplexing
 disinfecter
