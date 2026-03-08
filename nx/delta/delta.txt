@@ -928,7 +928,7 @@ deserters 1
 dogmas
 droughtiest
 diapnoic
-dependantly
+dependantly 1
 defenceable
 decerp
 dumpers
