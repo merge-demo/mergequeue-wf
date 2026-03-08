@@ -1206,7 +1206,7 @@ feinted
 friborgh
 fasherie
 forloin 1
-fusilier
+fusilier 1
 folksinging 1
 foolishness
 fashing 1
