@@ -15683,7 +15683,7 @@ downbye
 dorask 1
 dorbeetle
 dichlone
-dissava
+dissava 1
 dorbel
 dorbugs
 defeatist 1
