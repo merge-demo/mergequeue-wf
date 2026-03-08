@@ -3995,7 +3995,7 @@ exteriorly
 eradiates 1
 evertile 1
 exaltative
-embarrassingly
+embarrassingly 1
 entitles
 empatron
 etrurian
