@@ -26996,7 +26996,7 @@ clericalism
 counterplay
 carassow
 conformance
-contoid
+contoid 1
 chimneypot
 cataleptiform
 combinably
