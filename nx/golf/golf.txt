@@ -2835,7 +2835,7 @@ glossiphonidae
 geol
 guilefulness
 ganglionic
-gustavus
+gustavus 1
 geostrophically
 guardsman
 giga
