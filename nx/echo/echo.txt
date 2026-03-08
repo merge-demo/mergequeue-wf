@@ -7295,7 +7295,7 @@ entrant
 eohippuses
 epigenous
 eoith
-eoiths
+eoiths 1
 entamebae
 egged
 eradicably
