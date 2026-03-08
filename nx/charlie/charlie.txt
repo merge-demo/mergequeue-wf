@@ -25533,7 +25533,7 @@ crenelation
 canvasman
 colcine 1
 coperception
-coroplasta
+coroplasta 1
 coroplastae
 casualness
 caretook
