@@ -3466,7 +3466,7 @@ dormered
 demoted
 didelphous
 disreputability
-desulfurating
+desulfurating 1
 dorism
 defoil
 diastrophically
