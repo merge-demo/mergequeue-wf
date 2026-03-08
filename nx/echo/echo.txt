@@ -1486,7 +1486,7 @@ erythroclastic
 ecclesiasticize
 emblazons
 entoparasite
-extensile
+extensile 1
 existential
 euphuisms
 equitriangular
