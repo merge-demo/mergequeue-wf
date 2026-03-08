@@ -1239,7 +1239,7 @@ fluorography 1
 folds
 fabulosity
 fassalite
-fastbacks
+fastbacks 1
 frigor
 faradism
 frisbee 1
