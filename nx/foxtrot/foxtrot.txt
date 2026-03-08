@@ -4413,7 +4413,7 @@ forbearances
 fute
 frenums
 flexive
-forky
+forky 1
 forecomingness
 fistify
 fumarase 1
