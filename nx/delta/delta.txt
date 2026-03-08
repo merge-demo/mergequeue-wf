@@ -1900,7 +1900,7 @@ dacryd
 deferments
 desire
 dawsonite
-deaccession
+deaccession 1
 darat
 dissatisfyingly 1
 daedalian
