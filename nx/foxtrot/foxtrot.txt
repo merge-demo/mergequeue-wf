@@ -7900,7 +7900,7 @@ fideisms
 fname
 factiousness 1
 franklinia
-foreruns
+foreruns 1
 flavorlessness
 fluid
 forbathe
