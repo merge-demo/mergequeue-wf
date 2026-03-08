@@ -7815,7 +7815,7 @@ dhooley
 dinoceras 1
 dim
 dogsleds
-deform
+deform 1
 deckhands
 diadochokinesis 1
 dwelling
