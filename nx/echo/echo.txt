@@ -7685,7 +7685,7 @@ endoderms
 enterpillar
 ethylenediamine 1
 ensober
-elenchtical
+elenchtical 1
 ectally
 exclusivist
 euphoniad
