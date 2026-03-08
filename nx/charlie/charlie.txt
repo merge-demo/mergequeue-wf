@@ -15937,7 +15937,7 @@ clergylike
 cyclos
 clergymen
 clergion
-clergywoman 1
+clergywoman 2
 clementine
 clerical
 crumbum
