@@ -5243,7 +5243,7 @@ flameflower
 flatulentness 1
 flosh 1
 footpaddery
-frozenhearted
+frozenhearted 1
 fruiters
 fedifragous
 fungitoxic
