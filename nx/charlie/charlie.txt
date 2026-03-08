@@ -15965,7 +15965,7 @@ cobstone
 convalescency
 charthouse
 camalig
-clerkdom
+clerkdom 1
 copras
 clerkess
 caligated
