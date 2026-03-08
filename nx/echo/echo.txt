@@ -576,7 +576,7 @@ enciphered
 exopterygotous
 echinodermatous
 exquisitely
-electrified
+electrified 1
 entreating
 echinodorus
 est
