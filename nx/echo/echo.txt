@@ -6772,7 +6772,7 @@ extramorainal
 elevenfold 1
 euhemerise
 echidnae
-eyelids
+eyelids 1
 endogamy
 electrotechnics
 eir
