@@ -6918,7 +6918,7 @@ farcetta 1
 favourableness 1
 fnese 2
 foozler
-fanit
+fanit 1
 foreporch 1
 fathers
 fonnish 1
