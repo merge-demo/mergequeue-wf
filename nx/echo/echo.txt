@@ -6600,7 +6600,7 @@ excusive
 epipterous 1
 efferent
 elderling
-embattled
+embattled 1
 enorthotrope
 estoppels
 electricity
