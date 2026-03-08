@@ -12965,7 +12965,7 @@ downswing
 dowment
 disserting
 dopplerite
-deniability
+deniability 1
 dimensionless
 disomatic
 disposals
