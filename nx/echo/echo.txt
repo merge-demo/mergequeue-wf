@@ -2537,7 +2537,7 @@ eviration
 eternity
 epacmaic
 electrolytically
-exuviates
+exuviates 1
 eupnea
 ephemeromorph 1
 ensete
