@@ -1469,7 +1469,7 @@ etherified
 enciente 1
 epipodialia 1
 erythrocytolytic
-exaggeratory
+exaggeratory 1
 ethylated
 ebbing
 electromassage
