@@ -1504,7 +1504,7 @@ greencoat
 geotonic
 gagtooth
 gasoliers
-gibbsites
+gibbsites 1
 growed
 gremmie 1
 geez 1
