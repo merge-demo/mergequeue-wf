@@ -5558,7 +5558,7 @@ ethions
 enfettering
 embowering
 enophthalmos 1
-expandability
+expandability 1
 endoergic
 edwardeanism
 ethician
