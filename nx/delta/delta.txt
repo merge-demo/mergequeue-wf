@@ -2249,7 +2249,7 @@ diploses
 diapyetic
 defuzes 1
 daubreeite
-domineerer
+domineerer 1
 distractibility
 dustbox
 dobrao
