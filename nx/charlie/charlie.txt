@@ -11138,7 +11138,7 @@ chiwere
 clumper
 chizz
 chizzel
-chladnite
+chladnite 1
 chondrite
 chlamyd
 chlamydate
