@@ -2678,7 +2678,7 @@ glamours
 granularity 2
 gravedigger
 gilbertese 3
-genyplasty
+genyplasty 1
 glashan
 gutty
 globularness
