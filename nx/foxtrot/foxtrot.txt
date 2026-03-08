@@ -2778,7 +2778,7 @@ ferrimagnet
 fanioned 1
 formnail
 festilogies
-formenic
+formenic 1
 feddans 1
 festinance
 familistere
