@@ -9004,7 +9004,7 @@ endothoracic
 embiotocid
 electrocardiograph 1
 exul
-elicitable
+elicitable 1
 esteriferous
 eristically
 ergometer
