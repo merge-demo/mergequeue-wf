@@ -766,7 +766,7 @@ demissness
 danegelds
 dishonorable
 dietarian
-dishonorably
+dishonorably 1
 dungeon 1
 deckhead
 daneweed
