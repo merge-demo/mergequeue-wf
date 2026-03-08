@@ -8535,7 +8535,7 @@ expansions
 externally
 endball 1
 evenwise
-exculpation
+exculpation 1
 eleemosynariness 1
 eupyrene
 empties
