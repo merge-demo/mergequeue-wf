@@ -2177,7 +2177,7 @@ gloving 1
 ghosting
 guberniya
 gabs
-gymnastical
+gymnastical 1
 gestalts
 glucolipide
 griffins
