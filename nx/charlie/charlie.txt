@@ -31575,7 +31575,7 @@ coruco
 combinedness
 cowlicks 1
 cauliflower
-curtainless
+curtainless 1
 curtainwise
 confute
 cleistogene
