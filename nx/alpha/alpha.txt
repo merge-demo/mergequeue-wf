@@ -10534,7 +10534,7 @@ aquarid
 amyloplast 1
 appertaining
 amyloplastid
-antichronism
+antichronism 1
 abada
 adenase
 anteromedian
