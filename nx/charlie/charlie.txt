@@ -12750,7 +12750,7 @@ chumawi
 chummage
 chairborne
 chummery
-chump
+chump 1
 chumpa
 conglobing
 chumpaka
