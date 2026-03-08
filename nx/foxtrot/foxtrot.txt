@@ -9085,7 +9085,7 @@ friendliness
 faineantism
 fix
 fractionalize
-foreparents 1
+foreparents 2
 frap 1
 frasco 3
 foxbane 1
