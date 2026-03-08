@@ -21584,7 +21584,7 @@ cellarets
 concurrentness
 corsepresent 1
 ciudad
-concrescible
+concrescible 1
 contraoctave
 coercer 1
 cofinal
