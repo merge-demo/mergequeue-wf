@@ -3982,7 +3982,7 @@ geared
 gains 1
 glottogony
 ganglioneural 1
-glycoprotein 1
+glycoprotein 2
 guttula 1
 groat
 gouter
