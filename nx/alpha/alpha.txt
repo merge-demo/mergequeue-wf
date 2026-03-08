@@ -12541,7 +12541,7 @@ aesopic
 advene
 allochroite
 assinuate
-algosis
+algosis 1
 arithmetician 2
 anfractuose
 anchusin
