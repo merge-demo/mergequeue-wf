@@ -14412,7 +14412,7 @@ cirrocumulus 1
 corkwood
 cirropodous
 cirrose
-cholelithiasis
+cholelithiasis 1
 catabasion
 capsulociliary 1
 caseine
