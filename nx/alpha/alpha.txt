@@ -18816,7 +18816,7 @@ achromatophil
 acylogen 1
 autumnally
 alantolic
-aeriferous
+aeriferous 1
 aprilis
 antimonarch
 abounding
