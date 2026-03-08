@@ -2292,7 +2292,7 @@ enumerators
 enterotome 1
 equally 1
 extemporization
-eudiometry
+eudiometry 1
 enchantments
 exormia
 epipial
