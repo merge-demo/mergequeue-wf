@@ -11960,7 +11960,7 @@ browner
 bellowers
 betutored
 boyars 1
-befavor
+befavor 1
 bewrought
 berlina
 basinasial
