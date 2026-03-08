@@ -5629,7 +5629,7 @@ blobbed
 bomi
 bombloads
 box
-belaboring
+belaboring 1
 beverage
 battlement
 bronchopleurisy
