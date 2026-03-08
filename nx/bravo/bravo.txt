@@ -13585,7 +13585,7 @@ belongs
 bkgd
 banderoling
 bite 1
-bitangential
+bitangential 1
 bougar
 bouge
 brogued
