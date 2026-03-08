@@ -14795,7 +14795,7 @@ brauronian
 bocaccio
 bronchophthisis 1
 bennet
-betelnut
+betelnut 1
 balaclava
 basketmaker
 bamboozlement

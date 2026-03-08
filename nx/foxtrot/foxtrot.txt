@@ -82,7 +82,7 @@ flagrantness
 famousness 1
 florification
 froufrous
-forebitten
+forebitten 1
 fairyfolk
 falsest 1
 framer
