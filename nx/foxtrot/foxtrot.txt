@@ -1648,7 +1648,7 @@ flemer
 frizzen 1
 forgrow
 fluoridizing
-fiendful
+fiendful 1
 fortuitousness
 fearedly
 fearedness
