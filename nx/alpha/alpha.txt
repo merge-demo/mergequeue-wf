@@ -14618,7 +14618,7 @@ anthropomorphism
 ataraxia 1
 alchemical
 antiarins
-actuate
+actuate 1
 aggressively
 annelism
 antiaristocracies
