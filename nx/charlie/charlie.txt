@@ -12515,7 +12515,7 @@ coadjacency
 cicadellidae
 capacitances
 coobah 1
-chromosomally
+chromosomally 1
 celoscope
 caroling
 cornercap
