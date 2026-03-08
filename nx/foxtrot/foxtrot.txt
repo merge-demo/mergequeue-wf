@@ -5900,7 +5900,7 @@ filemark
 farts 1
 fissuring
 finally
-fumous
+fumous 1
 fourcher
 futhorc
 feudatories
