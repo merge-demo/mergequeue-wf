@@ -6044,7 +6044,7 @@ enlargeable 2
 eigenvectors
 esthete
 echinorhinus
-eoanthropus
+eoanthropus 1
 enlargeableness
 emydinae
 ecumenicalism
