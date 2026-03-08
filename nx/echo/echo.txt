@@ -5296,7 +5296,7 @@ earthliest
 exuberation
 ernest
 estocs
-ergodicity 1
+ergodicity 2
 ebionite 1
 endosclerite
 extrahepatic
