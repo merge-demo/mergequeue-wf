@@ -14860,7 +14860,7 @@ doorward
 delinition
 disgraceful
 disgraces
-decumbently
+decumbently 1
 diluvia
 docudramas
 document
