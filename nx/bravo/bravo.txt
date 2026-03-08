@@ -18330,7 +18330,7 @@ buttoning
 banked
 beths
 brahmans
-bristletail
+bristletail 1
 brewst
 buttons
 buttonwood
