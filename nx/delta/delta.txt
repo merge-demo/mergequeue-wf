@@ -6836,7 +6836,7 @@ dynamical
 danuri
 desmography
 disrobes
-disproportionalness
+disproportionalness 1
 draughted
 dinosaur
 drawgear
