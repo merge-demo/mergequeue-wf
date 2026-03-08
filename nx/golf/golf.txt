@@ -10011,7 +10011,7 @@ glutamic
 gubernative
 gubernatrix 1
 geophysically
-graveness
+graveness 1
 gargled 1
 gelatinify
 gangliform
