@@ -5508,7 +5508,7 @@ flogs
 fabricative 1
 flexible
 fleering
-flattening
+flattening 1
 formulator
 foresummer
 fanatic
