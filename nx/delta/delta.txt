@@ -4428,7 +4428,7 @@ demibeast
 didelphic
 deglamorization
 deradelphus
-demibob
+demibob 1
 dungari 1
 dendrological
 device
