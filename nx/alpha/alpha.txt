@@ -9485,7 +9485,7 @@ autoionization
 agglomerations 1
 alexipharmical
 angiographic
-amuse
+amuse 1
 aspersors
 altruists
 altun
