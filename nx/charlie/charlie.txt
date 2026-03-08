@@ -30662,7 +30662,7 @@ counterformula
 coprocessing
 cuddies
 cuddyhole
-cheero
+cheero 1
 cuddleable
 cuddled
 cuddlesome
