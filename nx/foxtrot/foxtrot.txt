@@ -5260,7 +5260,7 @@ foliaging
 flashforward
 foxiness
 foliaceous
-frontierlike
+frontierlike 1
 foreclaw
 fest
 fishtailed
