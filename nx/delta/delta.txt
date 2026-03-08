@@ -11470,7 +11470,7 @@ deoccidentalize
 dollbeer
 discoactine
 documentation
-diallages
+diallages 1
 deedeed 1
 drungar
 diacid
