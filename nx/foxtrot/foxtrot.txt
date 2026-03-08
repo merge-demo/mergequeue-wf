@@ -10355,7 +10355,7 @@ fingering
 frondeurs
 forecourt
 feaze
-foss
+foss 1
 fiaunt
 floret
 fraenula
