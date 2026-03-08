@@ -5017,7 +5017,7 @@ equerry
 enrolled
 extraordinaries
 eclairs
-encyclopediac
+encyclopediac 1
 endophragmal
 espouses 1
 entomb
