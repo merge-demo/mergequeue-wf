@@ -6595,7 +6595,7 @@ clinanthia
 cylindrosporium
 cardmaker
 caws
-caxiri
+caxiri 1
 clannish
 cattleman
 capabler
