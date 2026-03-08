@@ -10007,7 +10007,7 @@ dandruffy
 dimmer
 defensor
 distemperance
-desmitis
+desmitis 1
 dasyatidae
 dimness
 decisiveness
