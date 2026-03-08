@@ -8023,7 +8023,7 @@ fleying
 fallency 2
 forecooler
 frontispiecing
-frumpled
+frumpled 1
 flatteur 1
 fumeless
 feloniousness 1
