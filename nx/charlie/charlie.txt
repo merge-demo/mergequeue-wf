@@ -11026,7 +11026,7 @@ chirt
 chirurgeon
 crimean
 chirurgeonly
-chirurgery
+chirurgery 1
 chis
 chiseler
 cannibalizes
