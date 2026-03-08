@@ -5718,7 +5718,7 @@ frumpiest
 fillers
 flankwise
 fud
-forethinking
+forethinking 1
 fulguration 1
 fluidising
 fireable 1
