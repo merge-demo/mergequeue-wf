@@ -23780,7 +23780,7 @@ contravene
 contravener
 cardueline
 chlorinous
-contraversion
+contraversion 1
 chaui 1
 contravindication
 carbonizes
