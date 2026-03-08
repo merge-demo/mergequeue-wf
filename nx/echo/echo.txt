@@ -9799,7 +9799,7 @@ euphrates 2
 expenthesis
 exalbuminous 1
 electroplate 1
-encrinite
+encrinite 1
 enlight
 estable 2
 ephestia
