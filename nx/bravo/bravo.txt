@@ -1667,7 +1667,7 @@ burletta 1
 butter
 butyrous
 balloted
-ballotist
+ballotist 1
 birdlore
 ballots
 bribri 2
