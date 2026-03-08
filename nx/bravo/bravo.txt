@@ -8837,7 +8837,7 @@ bismuthous
 bipartite
 bink 1
 benward
-binna
+binna 1
 bowering
 bursiform
 bulltoad
