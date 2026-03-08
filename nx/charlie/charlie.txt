@@ -31547,7 +31547,7 @@ cursive
 cursives
 chorused
 chromosomes
-cursorary
+cursorary 1
 cundite
 cursory
 cratered
