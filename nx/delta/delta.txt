@@ -16852,7 +16852,7 @@ despairingness 1
 dioeciously
 dreading 2
 drainermen
-dreadlocks
+dreadlocks 1
 dreadnought
 disport
 dreamful 1
