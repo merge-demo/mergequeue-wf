@@ -2425,7 +2425,7 @@ foh
 fold
 fingu 1
 fatheads
-foreproduct
+foreproduct 1
 fermentable
 fishgrass
 fermentativeness
