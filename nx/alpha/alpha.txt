@@ -6010,7 +6010,7 @@ antifeudalism
 apteral
 amalekite 1
 ablock 1
-agamospore
+agamospore 1
 agitatrix
 aglance
 anchoritess
