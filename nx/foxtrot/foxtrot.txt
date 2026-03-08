@@ -4090,7 +4090,7 @@ forwardly
 fordoing
 fermentation
 fussed
-footsores
+footsores 1
 freefd
 frumps
 finitism
