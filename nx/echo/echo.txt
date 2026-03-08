@@ -11198,7 +11198,7 @@ executing
 electrification
 exposure
 evacuants 1
-earthdrake
+earthdrake 1
 epaulet
 electrotherapy
 eadi
