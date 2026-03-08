@@ -1956,7 +1956,7 @@ garnishments
 glamor
 gimbal
 grubroot
-grudged 1
+grudged 2
 gauby 1
 gonif 1
 gongman 1
