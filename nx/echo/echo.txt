@@ -9586,7 +9586,7 @@ enmuffle
 eslisor
 edifier
 eatberry
-evection
+evection 1
 epithecia 1
 erigenia
 ethylic
