@@ -1187,7 +1187,7 @@ antilopine
 anemophily
 apophysis
 acanonical
-acanthaceous
+acanthaceous 1
 aortectasia
 asbestoid
 aeacus
