@@ -25873,7 +25873,7 @@ corsetiere
 conicalness
 corseting
 ciliferous
-corsetry
+corsetry 1
 conversation
 circumventing
 continuative
