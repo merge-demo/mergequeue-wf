@@ -4900,7 +4900,7 @@ exoperidium
 exies
 englishly
 escalating
-expend
+expend 1
 ensured
 ef
 educatedness
