@@ -3368,7 +3368,7 @@ deflagrable
 desophistication
 decolor
 dephlogisticate
-dyads
+dyads 1
 disrestore 1
 dynagraph
 dithionate
