@@ -10104,7 +10104,7 @@ generates
 gardenias
 geomyid 1
 gonystylus
-goldenfleece 1
+goldenfleece 2
 gonochorismus
 globiocephalus
 gnomic
