@@ -16302,7 +16302,7 @@ douzepers 1
 downsizing
 drest
 defensible
-dicotyledones
+dicotyledones 1
 discontinuable
 dichord 2
 divertissements
