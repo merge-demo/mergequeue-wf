@@ -6147,7 +6147,7 @@ flunky
 flunkeyize
 fungiform
 frump
-freebooted
+freebooted 1
 flocculating
 flics
 frailty
