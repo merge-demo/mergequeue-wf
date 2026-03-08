@@ -12121,7 +12121,7 @@ alphabetiform
 africans 1
 aegirite
 anaxone
-assayers
+assayers 1
 anchorlike
 antiphonic
 apsis
