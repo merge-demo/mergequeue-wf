@@ -10811,7 +10811,7 @@ encrinus
 electrogilding
 endosporic
 entombment 1
-eumycete
+eumycete 1
 espeire 1
 expiating
 enterodelous
