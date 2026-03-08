@@ -7578,7 +7578,7 @@ gallingness
 gamash
 goninidia
 gowdnie
-gaspiness
+gaspiness 1
 grangeriser
 gongoristic
 geothlypis
