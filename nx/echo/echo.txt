@@ -3578,7 +3578,7 @@ expellee
 eggplant 1
 endemically
 erraticism
-exsiccative
+exsiccative 1
 epilogized
 extravagating
 eyestalks
