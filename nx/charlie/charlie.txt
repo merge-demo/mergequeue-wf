@@ -20546,7 +20546,7 @@ crimes
 complainants
 compeering
 corinthianesque 1
-checkerspot
+checkerspot 1
 conphaseolin
 compellable
 cheirognomy
