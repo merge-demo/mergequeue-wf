@@ -11486,7 +11486,7 @@ ferrite
 forestral
 figural
 furthest
-frise
+frise 1
 flittering 1
 fiercened
 flamboyant
