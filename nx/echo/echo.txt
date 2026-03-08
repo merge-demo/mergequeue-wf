@@ -3594,7 +3594,7 @@ essential
 enframes
 embassage
 echelons
-etheric
+etheric 1
 embarras
 eben
 exhibit
