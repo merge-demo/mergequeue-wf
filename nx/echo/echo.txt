@@ -13958,7 +13958,7 @@ enallage 1
 extravasate
 excuse
 equicurve
-entocornea
+entocornea 1
 endolemma 1
 essoiner
 evocate
