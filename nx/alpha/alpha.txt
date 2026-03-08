@@ -23613,7 +23613,7 @@ aked
 archconfraternities
 allochthonous
 aimed
-auntish
+auntish 1
 auntly
 auntliest
 auntlike
