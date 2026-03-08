@@ -5754,7 +5754,7 @@ expose
 enfettered
 extracts
 esophoric 1
-encomiendas
+encomiendas 1
 eddying
 endues
 ensalada
