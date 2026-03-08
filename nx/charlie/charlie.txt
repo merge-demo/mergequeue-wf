@@ -9636,7 +9636,7 @@ coexistent
 cochlidiid 1
 cheerlead 1
 crystallinity
-cheerleader
+cheerleader 1
 comtes
 caesareanize
 cheerleaders
