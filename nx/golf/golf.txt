@@ -3552,7 +3552,7 @@ grenadin
 gt 1
 gangues
 gingko
-gigantically
+gigantically 1
 gongorism
 garmentworker
 gunsmiths
