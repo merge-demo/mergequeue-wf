@@ -10706,7 +10706,7 @@ fleuretty
 flirtishness 2
 fortuneless
 foredoing
-fecks
+fecks 1
 foederati
 formularising
 fibriform 1
