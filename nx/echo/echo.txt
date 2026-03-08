@@ -8062,7 +8062,7 @@ encephalocoele
 exocline
 elasticized 1
 euploids
-exscript
+exscript 1
 epigonal 1
 essenced
 ehtanethial
