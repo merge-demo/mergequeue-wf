@@ -1426,7 +1426,7 @@ forcers
 feministic
 focometry
 firewood
-fumets
+fumets 1
 fra
 fourteener
 fusing 1
