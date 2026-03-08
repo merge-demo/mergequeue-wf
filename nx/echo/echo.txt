@@ -11379,7 +11379,7 @@ ephetic
 expelled
 effodientia
 ecaudata
-eluviated
+eluviated 1
 evocativeness
 ergatoid
 electrically
