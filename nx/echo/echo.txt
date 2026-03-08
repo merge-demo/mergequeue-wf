@@ -10059,7 +10059,7 @@ epitaphial
 epitaxis
 evolutions 1
 expecting
-eccaleobion
+eccaleobion 1
 encastered 1
 eolienne
 exitial
