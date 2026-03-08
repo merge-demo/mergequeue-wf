@@ -9443,7 +9443,7 @@ gemming
 glorify
 gleit
 gustless
-goshenite
+goshenite 1
 gobia
 gouramis
 gemmate
