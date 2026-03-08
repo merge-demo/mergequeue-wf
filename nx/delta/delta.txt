@@ -12611,7 +12611,7 @@ dispirit
 disintegrity
 draughtiness
 disinter 1
-disinterest 1
+disinterest 2
 disinterestedly
 disheaven
 drisk 1
