@@ -3973,7 +3973,7 @@ blastomycetous
 bristols 1
 behelp
 bengaline
-bdellovibrio
+bdellovibrio 1
 blepharal
 bariums
 baliti
