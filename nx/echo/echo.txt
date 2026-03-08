@@ -5580,7 +5580,7 @@ encephaloscopy
 emetophobia 2
 expediences 1
 evangel
-enrolment
+enrolment 1
 extratympanic 1
 endovasculitis
 empathetically
