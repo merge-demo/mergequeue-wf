@@ -11533,7 +11533,7 @@ catagenesis
 costoxiphoid
 cholaemia
 cholagogic
-counterintuitive
+counterintuitive 1
 cholalic 1
 cardiemphraxia
 comments
