@@ -2119,7 +2119,7 @@ decandrous
 decane
 debauchment 1
 decanery
-diabolify
+diabolify 1
 decoded
 disacidified
 daviesia
