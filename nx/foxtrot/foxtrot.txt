@@ -10264,7 +10264,7 @@ frog
 fremd
 fleecers
 flopovers
-frolickers
+frolickers 1
 fanciest
 frogbit
 frogeyed 1
