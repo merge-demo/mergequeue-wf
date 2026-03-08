@@ -15466,7 +15466,7 @@ alabastrum
 aspectual
 asparkle
 andronitis
-aspermous
+aspermous 1
 almshouse
 appendicularian
 aramidae
