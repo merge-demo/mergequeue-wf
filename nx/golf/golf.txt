@@ -7527,7 +7527,7 @@ giust
 ghetti 2
 ganomalite
 greathead
-gonadectomy
+gonadectomy 1
 gymnemic
 goliardery
 gabions
