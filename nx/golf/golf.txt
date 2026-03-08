@@ -3216,7 +3216,7 @@ glagol 1
 goldenwing
 graffage
 grecophil
-glom
+glom 1
 galacthidrosis
 gynecologists
 generalizes 1
