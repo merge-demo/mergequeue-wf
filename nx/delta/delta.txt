@@ -6360,7 +6360,7 @@ dioc
 ducula
 dietary
 doegling
-doctrinized
+doctrinized 1
 dimetry
 dysidrosis
 demeritoriously
