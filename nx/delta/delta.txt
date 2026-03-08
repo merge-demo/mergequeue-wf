@@ -12079,7 +12079,7 @@ disentangle
 doppelganger
 dissensious
 dentine 1
-disentanglement
+disentanglement 1
 daymare
 drudge
 didelphyidae
