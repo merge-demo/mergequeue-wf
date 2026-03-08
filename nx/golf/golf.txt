@@ -8609,7 +8609,7 @@ grapnel
 guti
 grammars
 gashy
-glucosin
+glucosin 1
 gauntleted 1
 gulfed 1
 gingerleaf
