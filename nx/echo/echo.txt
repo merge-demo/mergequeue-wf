@@ -8196,7 +8196,7 @@ eliminative
 echeveria
 episcopate
 endochondral
-entosphere
+entosphere 1
 embarking
 episcopature
 electrophysics
