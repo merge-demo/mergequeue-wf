@@ -228,7 +228,7 @@ gowpen
 grucche
 gravure
 goniocraniometry
-gimirrai
+gimirrai 1
 grantor 1
 gluelike
 goajiro
