@@ -4212,7 +4212,7 @@ feathery 2
 fumago 2
 frier
 forecloses
-fattenable
+fattenable 1
 forepromised
 filaria 1
 fingent 1
