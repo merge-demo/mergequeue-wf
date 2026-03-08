@@ -15126,7 +15126,7 @@ aberrometer
 amil
 apneustic
 arctocephalus
-assausive
+assausive 1
 aerostat
 aseptically
 antifatigue
