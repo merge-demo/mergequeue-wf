@@ -1045,7 +1045,7 @@ floreal
 flypaper
 formicarian
 frieda
-flopper
+flopper 1
 foined 1
 fortis
 floricomous
