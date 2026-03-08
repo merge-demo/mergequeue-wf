@@ -7433,7 +7433,7 @@ drivable
 debating
 denude
 doctoral
-dubhgall
+dubhgall 1
 distalia
 dufrenoysite 1
 dogmeat
