@@ -20429,7 +20429,7 @@ acceptableness
 appeared
 apptd
 adaptively
-anaglyphoscope
+anaglyphoscope 1
 argylls
 ammonifier
 ascertained
