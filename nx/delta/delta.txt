@@ -9825,7 +9825,7 @@ diggings 1
 dillseed
 dropkick
 disorders
-deputations
+deputations 1
 dimetria
 darer
 distends
