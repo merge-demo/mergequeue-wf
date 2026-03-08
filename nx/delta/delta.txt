@@ -5917,7 +5917,7 @@ directer 1
 dotard
 dolerin
 disencharm
-dispossessing
+dispossessing 1
 dryobalanops
 deep
 darwin
