@@ -12013,7 +12013,7 @@ exploitatory
 exclamatory
 exclaves
 excavational
-epibenthic
+epibenthic 1
 eupanorthidae
 eryngium
 everyone 2
