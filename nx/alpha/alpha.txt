@@ -21933,7 +21933,7 @@ anatripsis 1
 associativeness
 adicity
 antinion
-astrotheology
+astrotheology 1
 autochthones
 articulating
 anathemata
