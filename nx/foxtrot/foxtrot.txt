@@ -8185,7 +8185,7 @@ fishpond
 fleak 2
 functioned
 fantastry
-feverberries
+feverberries 1
 formicinae
 foghorn
 forecatching
