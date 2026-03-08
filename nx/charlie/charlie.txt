@@ -2884,7 +2884,7 @@ cogboat
 churchreeve
 celiomyodynia
 canonry
-canonship
+canonship 1
 canoodles
 counsinhood
 canopy
