@@ -1930,7 +1930,7 @@ cambouis
 condescends
 cambresine
 calumnia
-cambric
+cambric 1
 clarity
 cartonnage
 cambricleaf
