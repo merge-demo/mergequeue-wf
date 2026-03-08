@@ -10336,7 +10336,7 @@ gastroduodenostomies
 gaums
 guzzlers 1
 gauzes
-glacis
+glacis 1
 gruffily
 greenlets
 geum
