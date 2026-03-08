@@ -10622,7 +10622,7 @@ escallops
 earthiness 1
 exsanguinated 1
 euchrome
-ennoblment
+ennoblment 1
 extrinsicality
 euclideanism
 euclidian
