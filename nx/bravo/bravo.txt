@@ -17708,7 +17708,7 @@ burnish
 burnishable
 brachiorrhachidian
 burnisher
-birdlimed
+birdlimed 1
 breezily
 burnishing
 bookbindery
