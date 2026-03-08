@@ -7440,7 +7440,7 @@ faeces
 fat
 faltering
 flumed
-forbborne
+forbborne 1
 freshen
 feudalism
 forby 1
