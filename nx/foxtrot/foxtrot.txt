@@ -6717,7 +6717,7 @@ fringent 2
 firca
 foehnlike
 furcilia
-fulgurating
+fulgurating 1
 flisked 1
 flossing
 forenotice 1
