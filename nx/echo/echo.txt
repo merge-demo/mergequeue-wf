@@ -453,7 +453,7 @@ embayed
 endochrome 2
 exorbital
 epidermomycosis
-excelsitude
+excelsitude 1
 electronegativity
 evangelist
 enlightenedly
