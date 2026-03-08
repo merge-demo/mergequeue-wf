@@ -6659,7 +6659,7 @@ explicandum 1
 ephraimitish
 enamdar
 egrimonle
-enterogenous
+enterogenous 1
 eviller
 edificant 2
 enframe
