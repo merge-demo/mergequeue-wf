@@ -5460,7 +5460,7 @@ goldeye
 gonostyle 2
 gemellus
 guester
-glue 2
+glue 3
 granula
 grammatically 1
 gruffed
