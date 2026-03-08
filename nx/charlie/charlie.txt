@@ -5092,7 +5092,7 @@ colisepsis 1
 casate
 closemouthed
 casava
-cellepora
+cellepora 1
 canaliform
 cathetus
 chlamydomonadaceae
