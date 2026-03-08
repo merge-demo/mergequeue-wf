@@ -11939,7 +11939,7 @@ ectoderms
 emotionalist
 exposedness 1
 extense 1
-enragement
+enragement 1
 expurgation
 ephidrosis
 excerebration
