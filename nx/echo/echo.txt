@@ -14048,7 +14048,7 @@ enjambements
 electroergometer
 esmeralda
 exch
-ecclesiasticalism
+ecclesiasticalism 1
 equaled
 escoting
 eyeline 1
