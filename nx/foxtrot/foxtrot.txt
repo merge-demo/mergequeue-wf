@@ -11699,7 +11699,7 @@ foredispose 1
 filets
 friarhood
 far 1
-foretellableness
+foretellableness 1
 fasciolar
 fasciola 1
 fetidness
