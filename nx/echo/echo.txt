@@ -7738,7 +7738,7 @@ eviscerations
 enfevered
 epidemiography
 epeirogeny
-equilibration
+equilibration 1
 expendability
 extrapopular
 emulsified
