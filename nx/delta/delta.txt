@@ -4239,7 +4239,7 @@ dissemble
 defaulter
 diskelion
 demasculinise
-divisors
+divisors 1
 deadening
 demagnetisation
 deducing
