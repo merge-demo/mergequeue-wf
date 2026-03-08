@@ -8242,7 +8242,7 @@ forficulidae 1
 formicary
 forfoughten
 flunkyism
-flighty
+flighty 1
 finestra 1
 fructivorous
 flavines
