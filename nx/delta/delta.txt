@@ -7150,7 +7150,7 @@ desulphurate
 desulphurised 1
 demonize
 dollyman
-decompose
+decompose 1
 dispersement
 discolorated
 diastrophy
