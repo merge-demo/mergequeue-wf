@@ -8408,7 +8408,7 @@ evolutional
 expeding
 endocardial 1
 episternum
-enclitics
+enclitics 1
 exude
 epicontinental 1
 erosive
