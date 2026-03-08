@@ -2280,7 +2280,7 @@ formulable
 flotation
 fistulizing 1
 fenestrae 1
-fenestrated
+fenestrated 1
 fulcrumed 1
 fanglement
 fistulana
