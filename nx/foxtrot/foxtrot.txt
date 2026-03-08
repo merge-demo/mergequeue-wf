@@ -1076,7 +1076,7 @@ fam 1
 fideicommission
 fittage
 finkel
-fellatrixes
+fellatrixes 1
 feedboard
 fossorial
 frighted
