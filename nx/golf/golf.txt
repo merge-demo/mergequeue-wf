@@ -962,7 +962,7 @@ globularity
 grimace 1
 genettes
 gubernia
-gimleting
+gimleting 1
 genetta
 gemmed
 gainsay
