@@ -4498,7 +4498,7 @@ electromyographic
 effloresced
 escocheon 1
 encephalitic
-emptio
+emptio 1
 executively
 emulators
 exclaims
