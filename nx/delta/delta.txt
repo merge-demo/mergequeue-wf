@@ -17147,7 +17147,7 @@ decius
 doaty
 dimwittedness
 disgaveled
-diageotropism
+diageotropism 1
 diaphaneity
 diswont
 decachord
