@@ -15063,7 +15063,7 @@ depressingness
 demulsify
 delightable
 derby
-dimply
+dimply 1
 doggle
 drownings
 doggo
