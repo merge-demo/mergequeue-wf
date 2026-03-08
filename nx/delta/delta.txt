@@ -815,7 +815,7 @@ demonetizes
 demicylindrical
 disheartenment 1
 dreamtime
-dartmoor
+dartmoor 1
 destructors
 detestations
 drizzling
