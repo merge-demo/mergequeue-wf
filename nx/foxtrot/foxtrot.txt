@@ -10049,7 +10049,7 @@ fultz
 flacons 1
 flexitime
 finicky
-fopped
+fopped 1
 fiars 1
 foujdary
 fats
