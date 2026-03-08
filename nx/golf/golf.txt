@@ -4370,7 +4370,7 @@ grammatist 1
 gleeted 1
 gracioso
 gorer
-gryphons
+gryphons 1
 geminately
 gorget
 grandezza
