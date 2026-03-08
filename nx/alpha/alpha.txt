@@ -7232,7 +7232,7 @@ aftertastes 1
 antihemophilic
 alembicate
 aerobating
-antipetalous
+antipetalous 1
 aeromotor
 adlegiare
 archlecher 1
