@@ -8318,7 +8318,7 @@ gentians
 gibberish
 gangrel
 grime
-girding
+girding 1
 granatite
 germanish
 gasolier
