@@ -2273,7 +2273,7 @@ electret
 envined
 esophagogastrostomy
 exploitive
-extensometer
+extensometer 1
 embryony
 enflowering
 exudation

@@ -14161,7 +14161,7 @@ daisy
 ducker
 disulfid 1
 derris
-deprehensible
+deprehensible 1
 diazotizable
 disulfide
 decasualised
