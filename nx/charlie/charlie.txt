@@ -767,7 +767,7 @@ cogrediency
 chlornal 1
 comment 1
 cyclopaedia
-collaborationist
+collaborationist 1
 cagework 1
 coordinators
 consonantising
