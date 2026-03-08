@@ -2827,7 +2827,7 @@ canoeist
 connexional 1
 canoeload
 canoes 1
-cardiogenesis
+cardiogenesis 1
 composal
 cryptoanalyst
 cukes

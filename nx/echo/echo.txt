@@ -3793,7 +3793,7 @@ electroendosmotic 1
 entophytal
 economite
 epigonium
-erythematic
+erythematic 1
 episiohematoma
 evangels
 eutaxitic
