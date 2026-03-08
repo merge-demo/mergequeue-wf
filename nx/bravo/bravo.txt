@@ -3506,7 +3506,7 @@ barrages 1
 bagworms
 bonneter
 balonea
-blotlessness
+blotlessness 1
 boringly
 biennium
 bellwind 2
