@@ -7272,7 +7272,7 @@ bestrides 1
 brothered
 boondock
 bathochromatic
-bimanual
+bimanual 1
 bebeast
 bluebook
 bipartible
