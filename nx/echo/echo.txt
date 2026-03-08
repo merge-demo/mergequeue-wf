@@ -11424,7 +11424,7 @@ ectocommensal 2
 edificator
 eruciform
 erenow
-emanatively
+emanatively 1
 eathly 1
 echocardiogram 1
 enveil
