@@ -13938,7 +13938,7 @@ bootlessness
 benzopyran
 bodkinwise
 bacteriotherapy
-bowshot
+bowshot 1
 bulbaceous
 bridoon
 baronial
