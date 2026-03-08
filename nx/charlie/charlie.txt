@@ -7369,7 +7369,7 @@ cephaline
 cephalins
 cephalism
 caprine
-cephalitis
+cephalitis 1
 cephaloauricular
 counterclassifications
 cephalobranchiata 1
