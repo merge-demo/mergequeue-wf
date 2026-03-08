@@ -9952,7 +9952,7 @@ funs 1
 faddiest 1
 falconry 1
 fleabane
-feceris
+feceris 1
 fortuitism
 foraminiferal 3
 formulising
