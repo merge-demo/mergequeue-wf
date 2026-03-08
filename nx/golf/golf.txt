@@ -5364,7 +5364,7 @@ gingal
 gammadion
 gazy
 gapers
-gloaters
+gloaters 1
 glykopectic 1
 greenbug
 gritrock
