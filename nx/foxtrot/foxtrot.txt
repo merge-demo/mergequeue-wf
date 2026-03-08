@@ -446,7 +446,7 @@ festae 1
 foolheaded
 fibroligamentous
 fauchards
-fur
+fur 1
 facultative
 fountain
 frockmaker
