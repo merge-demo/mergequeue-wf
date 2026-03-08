@@ -8190,7 +8190,7 @@ gutturally
 guiba
 gonadic
 granulocyte
-gerontal
+gerontal 1
 gironde
 graftdom
 grind
