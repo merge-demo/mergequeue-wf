@@ -1414,7 +1414,7 @@ emplaster
 essentialness
 exomis
 expletive
-enopla
+enopla 1
 exemplupla 1
 eucalyptol
 efficacy
