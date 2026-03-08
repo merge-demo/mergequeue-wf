@@ -5384,7 +5384,7 @@ faitery
 fourness 1
 flb 1
 fantasque
-flutey
+flutey 1
 forehand
 fifteen
 feasts
