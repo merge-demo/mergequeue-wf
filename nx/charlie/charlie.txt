@@ -14986,7 +14986,7 @@ cantilating
 crockeryware 1
 civicisms
 civics
-civie
+civie 1
 contractively
 cilantros
 civile
