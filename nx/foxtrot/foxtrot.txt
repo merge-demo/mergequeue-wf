@@ -11150,7 +11150,7 @@ finicking
 faiences
 fcomp
 fiats 1
-frumperies
+frumperies 1
 fiz
 fernlike
 fistmele
