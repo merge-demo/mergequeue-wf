@@ -9166,7 +9166,7 @@ chasma
 chaldese
 chasmed
 caddy
-chondrigenous
+chondrigenous 1
 cuspidine
 cheths 1
 clypeolate
