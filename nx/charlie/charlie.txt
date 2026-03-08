@@ -15175,7 +15175,7 @@ cacothelin
 claimers
 claymore
 covenable
-clair
+clair 1
 clairaudience
 cataleptize
 countertug
