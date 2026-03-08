@@ -5980,7 +5980,7 @@ englute
 escaped 1
 ectad
 emetomorphine
-extrameridian
+extrameridian 1
 eunicid 1
 equiexcellency
 exploitable
