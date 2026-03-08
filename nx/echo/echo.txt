@@ -11870,7 +11870,7 @@ elecive
 eulogization
 excalceate
 excalceation 1
-excandescent
+excandescent 1
 erythrochroic
 eventognath
 eulogized
