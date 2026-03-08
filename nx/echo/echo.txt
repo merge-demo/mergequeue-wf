@@ -8547,7 +8547,7 @@ elongates
 epuration
 effie
 exculpable
-effectual
+effectual 1
 elkoshite
 enwombs
 explorer
