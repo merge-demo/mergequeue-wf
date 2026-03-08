@@ -2553,7 +2553,7 @@ extratribal
 excepting
 epiphysary
 electromagnetism 1
-euomphalus
+euomphalus 1
 ebcdic 1
 eyebright
 elaborations
