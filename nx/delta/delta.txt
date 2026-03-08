@@ -13978,7 +13978,7 @@ diagenesis 1
 dialectically
 decentralisation
 delies
-diplococcus
+diplococcus 1
 dunking
 discohexaster
 doryphorus
