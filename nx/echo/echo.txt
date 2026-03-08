@@ -134,7 +134,7 @@ echinoderma
 embosk
 excipient 1
 ensindon
-eloigns
+eloigns 1
 epigrammatic
 eurafric
 exanthemata
