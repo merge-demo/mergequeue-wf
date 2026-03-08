@@ -20861,7 +20861,7 @@ crocodilian
 componential
 components
 compony
-comportance
+comportance 1
 comported
 circleting
 carded
