@@ -893,7 +893,7 @@ grubhood
 garments
 guelphism
 greedy
-gobangs 1
+gobangs 2
 grindingly
 gyrograph
 gainable
