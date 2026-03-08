@@ -7327,7 +7327,7 @@ disportive 1
 docklands
 disunions
 demicylinder
-dryfat
+dryfat 1
 densities
 detestation
 dezincified
