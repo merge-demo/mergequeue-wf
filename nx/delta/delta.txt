@@ -5491,7 +5491,7 @@ directionality 1
 dalliances
 dictatorship
 duodena
-dyvour
+dyvour 1
 disilicate
 debunked
 duraquara
