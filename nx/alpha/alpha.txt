@@ -22845,7 +22845,7 @@ anisotropous 1
 alterability
 albopannin
 arya
-atmometric
+atmometric 1
 atmosphereful 1
 acronal
 airsickness
