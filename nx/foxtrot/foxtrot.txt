@@ -639,7 +639,7 @@ frenchification
 factual
 fumier
 foxproof
-foisted 1
+foisted 2
 faltere
 flecnodal
 falx
