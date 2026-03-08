@@ -1680,7 +1680,7 @@ egises
 eyewashes
 eider
 exsecting
-exanthine
+exanthine 1
 eiders
 extemporaneity
 epilemmal 1
