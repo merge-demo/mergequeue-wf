@@ -2773,7 +2773,7 @@ forbar
 flightiness
 falsehearted
 footway
-fatiloquent
+fatiloquent 1
 ferrimagnet
 fanioned 1
 formnail
