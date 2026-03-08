@@ -6956,7 +6956,7 @@ flushingly
 foliating
 figurist
 feline
-fatuous
+fatuous 1
 fornacic
 flob
 forebackwardly

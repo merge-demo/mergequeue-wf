@@ -91,7 +91,7 @@ coulombic
 chars
 cabdriving 1
 corydora
-cabecudo
+cabecudo 1
 capellet
 cabestro
 cabestros
