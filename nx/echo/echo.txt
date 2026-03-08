@@ -11705,7 +11705,7 @@ ecmnesia
 equianchorate
 exacting
 engrails
-eruca
+eruca 1
 electivity
 emersonian
 egality
