@@ -16597,7 +16597,7 @@ dragoonable
 denunciable
 deposing
 dragoonage
-dragrope
+dragrope 1
 dexterousness
 debiteuse 1
 deathbeds
