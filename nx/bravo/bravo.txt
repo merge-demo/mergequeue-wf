@@ -15049,7 +15049,7 @@ billitonite
 burnut
 bredbergite
 baumhauerite
-bredes
+bredes 1
 boutel
 balsamum
 breakable
