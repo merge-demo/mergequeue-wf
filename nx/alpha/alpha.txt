@@ -19844,7 +19844,7 @@ armies
 adiabatic
 armiferous
 agnoetism
-agnoetae
+agnoetae 1
 attributives
 aweto
 armigeros 1
