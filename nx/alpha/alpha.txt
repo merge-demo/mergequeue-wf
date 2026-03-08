@@ -18908,7 +18908,7 @@ apio
 attenuant
 analyzability
 angili
-alsatian
+alsatian 1
 artilize
 anthropologist
 aesculapian
