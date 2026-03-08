@@ -12544,7 +12544,7 @@ embezzle
 exit
 equaeval
 edger
-encrypted
+encrypted 1
 exsects
 enounce 1
 embubble
