@@ -8760,7 +8760,7 @@ gentilism
 glyceryls 1
 gravel
 gnosis
-genuflects
+genuflects 1
 giantesses 1
 gimballing
 geographized
