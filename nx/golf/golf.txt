@@ -10562,7 +10562,7 @@ gratulate
 gownlet 1
 gleen
 garibaldian
-governess
+governess 1
 goads
 gaminish
 garnisher
