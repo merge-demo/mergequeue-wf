@@ -1055,7 +1055,7 @@ disseats
 dimeters
 detailist
 deceleration
-dullhearted
+dullhearted 1
 dorsodynia
 dactylate
 doling

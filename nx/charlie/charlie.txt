@@ -13006,7 +13006,7 @@ cludder
 cyanophyceae
 counterpointed
 confervoideae
-cerevis
+cerevis 1
 cyanophycean
 cyanophyceous
 crunchingness
