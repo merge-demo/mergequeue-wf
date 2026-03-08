@@ -994,7 +994,7 @@ fondlings
 fustic
 foresightedly
 fontanges
-fierce
+fierce 1
 foreshop 1
 fulmina
 fondu
