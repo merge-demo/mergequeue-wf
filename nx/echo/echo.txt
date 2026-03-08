@@ -5896,7 +5896,7 @@ eldfather
 epidotic
 epitomised
 epitomise 1
-erectopatent
+erectopatent 1
 equaling
 enharbour
 electrometallurgy
