@@ -7524,7 +7524,7 @@ blubbered
 bonetail
 bestowage
 beveil
-bolographically
+bolographically 1
 blazers
 belayer
 biathlon
