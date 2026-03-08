@@ -7349,7 +7349,7 @@ fertil 1
 fermentor 1
 footwarmer 1
 fortnight 1
-forekeel 1
+forekeel 2
 focalized
 ferine 1
 fulmines
