@@ -9974,7 +9974,7 @@ calcimine
 cherenkov
 cherimoyer 1
 cump
-cherish
+cherish 1
 clausthalite
 chordates
 chymic
