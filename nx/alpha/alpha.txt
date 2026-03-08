@@ -11089,7 +11089,7 @@ abrin 1
 acold
 ascaricide
 alterius
-apothegmatical
+apothegmatical 1
 apanaged
 apian
 amphicarpogenous
