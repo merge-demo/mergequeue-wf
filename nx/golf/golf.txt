@@ -2771,7 +2771,7 @@ glutition
 guilloche 1
 gentiobiose 2
 geostrategic
-guardianess
+guardianess 1
 gait
 gascheck
 gentlemanlikeness
