@@ -385,7 +385,7 @@ baseballdom 1
 brachyurus
 bruted
 baht
-bullocky
+bullocky 1
 broguish 1
 bewailed
 bladderpod
