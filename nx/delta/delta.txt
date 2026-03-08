@@ -6946,7 +6946,7 @@ dorsoanterior
 distomian
 dioptases 1
 dicaryon
-discouragedly
+discouragedly 1
 dysuric
 despisable 1
 diaper
