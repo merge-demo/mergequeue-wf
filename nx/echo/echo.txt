@@ -6016,7 +6016,7 @@ ells
 exhaustlessly
 egbo
 extraconstellated
-excogitative
+excogitative 1
 educand
 enumerates
 enterospasm
