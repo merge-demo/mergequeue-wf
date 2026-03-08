@@ -2847,7 +2847,7 @@ goombay
 globeflower 1
 galvvanoscopy
 gratuities
-gnatsnap
+gnatsnap 1
 gibbing
 glyptal
 golkakra
