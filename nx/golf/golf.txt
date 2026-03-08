@@ -4177,7 +4177,7 @@ genealogy
 gienah
 grandfather 1
 gloy
-gutturize
+gutturize 1
 gosmore
 ges 1
 glutael
