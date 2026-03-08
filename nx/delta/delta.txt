@@ -5124,7 +5124,7 @@ dourine
 doggiest
 dahomey
 denebola
-disburdened
+disburdened 1
 denes
 daughterlike 2
 densitometric
