@@ -1647,7 +1647,7 @@ doddies 1
 daws 1
 deamination
 deaminize
-disendowed
+disendowed 1
 dichastic
 dandle 1
 deanships
