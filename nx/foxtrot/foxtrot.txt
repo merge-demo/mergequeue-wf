@@ -6195,7 +6195,7 @@ furmente
 fuselage
 fjorgyn
 forename
-foully
+foully 1
 foldless
 fleetwing 1
 forcingly
