@@ -23047,7 +23047,7 @@ attacca
 adjuring
 absences
 abdali
-automatist
+automatist 1
 amphibolite
 antiperistaltic
 attempt
