@@ -825,7 +825,7 @@ duralumin
 dinmont
 duotone
 decrudescence
-dreamily
+dreamily 1
 dank
 demilion
 deoxidiser 1
