@@ -6410,7 +6410,7 @@ fidepromission 1
 forefingers
 ferments
 fpm
-fanaticised
+fanaticised 1
 frolicness
 furuncle 1
 friars
