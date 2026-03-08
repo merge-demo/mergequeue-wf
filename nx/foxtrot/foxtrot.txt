@@ -2068,7 +2068,7 @@ filibuster
 fremdly
 fenester
 ferryboats
-fullmouthed
+fullmouthed 1
 feudalisation 1
 foremasthand 2
 flyovers 1
