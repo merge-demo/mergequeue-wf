@@ -4451,7 +4451,7 @@ directly
 doormat
 divulse
 dadaists
-demicircular
+demicircular 1
 desensitizing
 divulsor
 deceptions
