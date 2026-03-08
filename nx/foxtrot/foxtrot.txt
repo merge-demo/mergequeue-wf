@@ -7687,7 +7687,7 @@ fables
 fecundative
 factualism
 fittywise
-forsteal
+forsteal 1
 faveolus
 forecasting
 freeze 2
