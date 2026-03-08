@@ -12317,7 +12317,7 @@ baysmelts 1
 brake
 bhumidar
 byssiferous
-bolt 1
+bolt 2
 bluestockings 1
 boltcutter
 bacilliculture 1
