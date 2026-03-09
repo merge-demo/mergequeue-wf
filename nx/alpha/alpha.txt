@@ -3880,7 +3880,7 @@ apprises
 adjoiner
 acriflavin
 adjoints 1
-apocentric
+apocentric 1
 apieces
 augmenting
 abounded
