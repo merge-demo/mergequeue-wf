@@ -3964,7 +3964,7 @@ delectus
 deficient
 dysrhythmia
 delegate
-doorsill
+doorsill 1
 delegates
 delegateship
 digressiveness
