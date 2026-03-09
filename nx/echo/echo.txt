@@ -9465,7 +9465,7 @@ enforcer
 exoplasm
 escheats 1
 evildoing
-exiture
+exiture 1
 executant
 enamber
 eschel
