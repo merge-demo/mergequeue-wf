@@ -1264,7 +1264,7 @@ granado
 gripiest
 girkin
 grudgingness
-ginkgo
+ginkgo 1
 gibboseness 2
 gestation 1
 garefowl
