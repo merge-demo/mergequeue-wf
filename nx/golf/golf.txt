@@ -5627,7 +5627,7 @@ geyserine
 gingalls
 gite
 gastralgic
-gobbling
+gobbling 1
 growsome
 glaringly
 groma
