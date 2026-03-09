@@ -13770,7 +13770,7 @@ estampede
 entea
 extispicious
 extoling
-edingtonite
+edingtonite 1
 edestosaurus
 enserfing
 elutriated
