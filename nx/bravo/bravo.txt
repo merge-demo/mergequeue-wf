@@ -3670,7 +3670,7 @@ baculiform
 bedighting 1
 bipinnately
 breadberry
-bumbleberry
+bumbleberry 1
 bastiles
 betacism
 botchery
