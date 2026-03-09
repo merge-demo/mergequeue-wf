@@ -6611,7 +6611,7 @@ gastrohysteropexy
 glasseye
 gleams 1
 gauffering
-guffs
+guffs 1
 gorcrow 1
 gordius
 glossolabiopharyngeal
