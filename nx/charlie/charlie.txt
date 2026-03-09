@@ -15843,7 +15843,7 @@ chemotaxonomic
 currishness
 cleech 1
 cuadra
-circumscrive
+circumscrive 1
 closures
 cichloid
 circumclude
