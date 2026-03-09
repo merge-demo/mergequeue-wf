@@ -895,7 +895,7 @@ guelphism
 greedy
 gobangs 2
 grindingly
-gyrograph
+gyrograph 1
 gainable
 gammerel
 gammock 1
