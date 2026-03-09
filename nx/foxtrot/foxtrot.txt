@@ -8120,7 +8120,7 @@ flasklet 2
 friers
 foret
 foretackle
-flamandize
+flamandize 1
 favouredness
 faveoli
 freshmanship
