@@ -7604,7 +7604,7 @@ bazars
 bewhiten
 bifocals
 bedrivel
-bewidow
+bewidow 1
 brahmanaspati
 bulldozers
 boke
