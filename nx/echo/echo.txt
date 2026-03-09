@@ -12106,7 +12106,7 @@ enfacement
 excruciable 1
 eulogiums
 excruciated
-exhorts
+exhorts 1
 electral
 eutaxite 1
 edrioasteroid
