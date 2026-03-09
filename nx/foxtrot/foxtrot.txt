@@ -1182,7 +1182,7 @@ frighter
 faultfully 1
 foochowese
 foraged
-flumadiddle
+flumadiddle 1
 flotson
 flukeless 1
 figurette 1
