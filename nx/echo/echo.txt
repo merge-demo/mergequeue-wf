@@ -3383,7 +3383,7 @@ euphorias
 explanatoriness
 evectic 1
 embranchment
-emanatist
+emanatist 1
 excludability
 eustachium
 epical

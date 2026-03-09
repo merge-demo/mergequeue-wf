@@ -6898,7 +6898,7 @@ foveiform
 fjelds
 frette
 foraminiferan 1
-feuille
+feuille 1
 foretold
 freestyle
 foliaged
