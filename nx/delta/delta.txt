@@ -1618,7 +1618,7 @@ disorientated
 deisin
 dimetrodon
 deodate
-datolitic
+datolitic 1
 drink
 domify
 devertebrated
