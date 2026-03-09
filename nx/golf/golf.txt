@@ -8752,7 +8752,7 @@ goniometer 1
 gorge
 greenling
 gyroscopics
-glessite
+glessite 1
 grogram
 groszy
 goujons 1
