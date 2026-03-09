@@ -3915,7 +3915,7 @@ flotas
 foiling
 function
 fiddle
-foveal
+foveal 1
 fasciation 1
 frightens
 figurate
