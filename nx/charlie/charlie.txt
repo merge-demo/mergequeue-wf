@@ -21055,7 +21055,7 @@ compunction
 cystaster
 curvedness
 catenaries
-consolidate
+consolidate 1
 compunctionless 1
 chinpiece
 cyanean
