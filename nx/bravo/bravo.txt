@@ -11283,7 +11283,7 @@ blip
 begarlanded
 bullshits
 basketries
-blowguns 1
+blowguns 2
 butling
 bacalaos
 bloodedness
