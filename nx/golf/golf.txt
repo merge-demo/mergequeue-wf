@@ -2328,7 +2328,7 @@ guajiras
 gyrostatic 1
 gomart
 grubbiness
-gainturn
+gainturn 1
 gillnet 2
 gnarled
 garrulously
