@@ -9876,7 +9876,7 @@ diesel
 digests
 dextrality
 dimastigate
-deli
+deli 1
 damyankee
 delitescence
 despisedness
