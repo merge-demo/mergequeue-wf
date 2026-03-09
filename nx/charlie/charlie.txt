@@ -25435,7 +25435,7 @@ congreso
 coelastraceae
 cornubianite
 chronometrical
-corporatism
+corporatism 1
 concerti
 countable
 cornupete
