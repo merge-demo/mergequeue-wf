@@ -4109,7 +4109,7 @@ foxfish
 frijoles
 fondish
 flues 1
-fanaticize
+fanaticize 1
 flateria
 foxtail
 flouncing
