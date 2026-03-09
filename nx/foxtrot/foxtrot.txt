@@ -1712,7 +1712,7 @@ feastraw 1
 foreordainment
 featherbird
 faucets
-feoffors
+feoffors 1
 forfare
 foreshore
 facty
