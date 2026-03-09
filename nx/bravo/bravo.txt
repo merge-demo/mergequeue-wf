@@ -13081,7 +13081,7 @@ balangay
 blousing
 balanophoraceae
 borders
-biverb
+biverb 1
 bagpipe 2
 beriber
 bypaths 1
