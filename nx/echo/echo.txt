@@ -8304,7 +8304,7 @@ erpetologist
 epopoeia
 eyeglass
 enatant 1
-epigeic
+epigeic 1
 escapado
 epitoke 2
 entendre
