@@ -2791,7 +2791,7 @@ grangerizing 1
 gingelly 1
 gilgulim 2
 glassite
-gifture
+gifture 1
 gunbright
 glamorize
 ganoidei
