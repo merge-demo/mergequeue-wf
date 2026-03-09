@@ -3036,7 +3036,7 @@ fissioned
 friendlies
 fustin
 fiber 1
-fritillary
+fritillary 1
 formolite
 filagreed
 federalists
