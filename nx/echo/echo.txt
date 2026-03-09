@@ -13951,7 +13951,7 @@ epimer
 enzymology 1
 eozoonal 1
 enterostenosis
-evidently
+evidently 1
 enface
 electropoion 1
 enallage 1
