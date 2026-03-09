@@ -711,7 +711,7 @@ geometrine
 gustfulness
 gene 1
 gonoplasm
-galvanoglyph
+galvanoglyph 1
 gossipdom
 guglia
 gravamina
