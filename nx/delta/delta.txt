@@ -3086,7 +3086,7 @@ doblons
 dairymaids
 demiseason
 dauntlessly
-disadvantaging
+disadvantaging 1
 defoliant 1
 distributions
 dipygus
