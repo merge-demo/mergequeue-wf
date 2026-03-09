@@ -23951,7 +23951,7 @@ awarn
 achiness
 antisplasher
 archvestryman
-authorizer
+authorizer 1
 alluvions
 appellative
 anticoagulating
