@@ -11056,7 +11056,7 @@ disanalogous
 disanimation
 disannuller 1
 dichroic
-disentanglements
+disentanglements 1
 dyophysite 1
 disincarcerate
 decidence
