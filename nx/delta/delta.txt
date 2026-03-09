@@ -8846,7 +8846,7 @@ dibbing
 datelined
 deliberates 1
 degame
-dybbuk
+dybbuk 1
 dominantly
 dibbuks 1
 daghesh
