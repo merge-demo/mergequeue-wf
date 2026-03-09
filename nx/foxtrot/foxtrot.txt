@@ -10887,7 +10887,7 @@ forehinting
 fireshaft
 freestone 2
 furore 1
-foeman
+foeman 1
 forspoke
 fulgurated
 funje
