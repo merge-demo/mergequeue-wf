@@ -10406,7 +10406,7 @@ defecate
 directorate
 dioxid
 dysphasic
-disfavors
+disfavors 1
 deuterogamist
 dioxides
 demotion
