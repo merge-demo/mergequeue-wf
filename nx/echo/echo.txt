@@ -12921,7 +12921,7 @@ exflect
 expansionism
 epigrammatise
 emancipatory
-expansionist
+expansionist 1
 expansionistic
 enserf
 eructs
