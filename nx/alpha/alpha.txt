@@ -24735,7 +24735,7 @@ adults
 avertable
 arabs
 autolyzed
-allotrophic
+allotrophic 1
 avertiment
 averts 1
 abbotnullius
