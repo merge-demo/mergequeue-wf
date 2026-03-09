@@ -3073,7 +3073,7 @@ cantus
 cantuta
 cantwise
 criosphinxes
-castigated
+castigated 1
 canula
 canulae
 consciously
