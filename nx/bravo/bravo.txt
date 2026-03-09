@@ -570,7 +570,7 @@ baragouinish 1
 blooms
 barbut
 blatiform
-baconize
+baconize 1
 bierkeller 1
 boloball
 bonjour
