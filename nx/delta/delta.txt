@@ -17161,7 +17161,7 @@ disagio
 deltaic
 dysmerism 1
 dripolator
-deaves
+deaves 1
 drippage
 deformer
 dobbins
