@@ -17968,7 +17968,7 @@ dantonesque
 dianthera
 duinhewassel
 dendrometer
-depauperation
+depauperation 1
 danish
 domanial
 dropsied 2
