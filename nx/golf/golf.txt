@@ -8311,7 +8311,7 @@ gastly
 grapier
 gypsyesque
 giddea 1
-grappa
+grappa 1
 grandaunts
 gruff
 gentians
