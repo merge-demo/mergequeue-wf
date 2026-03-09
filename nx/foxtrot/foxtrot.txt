@@ -7413,7 +7413,7 @@ fudder
 fibrotic
 focimeter 1
 federally
-feldspathoid
+feldspathoid 1
 fossulate
 fiddleheaded
 fogs

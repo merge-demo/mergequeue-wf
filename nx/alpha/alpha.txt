@@ -6259,7 +6259,7 @@ awapuhi
 agricere
 alliteratively 1
 aerage
-absorbability
+absorbability 1
 apolegamic
 anamorphoses
 ansarian
