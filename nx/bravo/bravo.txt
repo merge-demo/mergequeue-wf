@@ -7187,7 +7187,7 @@ bessemer
 bessemerize
 bessie
 bestad
-biarticulated
+biarticulated 1
 bacteriemia
 bernicles
 basote
