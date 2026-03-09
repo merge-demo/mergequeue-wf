@@ -2298,7 +2298,7 @@ archfounder
 argil
 aneurin
 atloaxoid
-arbtrn
+arbtrn 1
 adderfish
 alaric
 agreer
