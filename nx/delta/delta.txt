@@ -454,7 +454,7 @@ diolefins
 dustblu
 disrupter
 dozily 2
-deliquescing
+deliquescing 1
 devocalisation
 daleths
 dislustering
