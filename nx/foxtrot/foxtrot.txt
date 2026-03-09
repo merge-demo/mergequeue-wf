@@ -5892,7 +5892,7 @@ faithlessly
 frequents 1
 froggiest 1
 ferfet
-furbishes
+furbishes 1
 froust
 flashier
 forethoughtful

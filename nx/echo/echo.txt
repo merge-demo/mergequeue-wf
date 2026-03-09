@@ -8369,7 +8369,7 @@ episthotonos 1
 existentialize 1
 elegizes
 enolized
-electrodeposit
+electrodeposit 1
 expressibly
 exulted
 emulating 1
