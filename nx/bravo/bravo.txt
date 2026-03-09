@@ -4615,7 +4615,7 @@ bedaubing 1
 bloodstone
 breezed
 belial
-bedazzle
+bedazzle 1
 borderside
 bowsprit
 baloskion
