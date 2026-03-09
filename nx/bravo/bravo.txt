@@ -17090,7 +17090,7 @@ bullet
 bulleted
 byepath 1
 bequeather 1
-bayard
+bayard 1
 bulletlike
 burghmote
 breadseller
