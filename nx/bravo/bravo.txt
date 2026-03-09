@@ -10605,7 +10605,7 @@ bister
 brined
 bransle
 blattodea 1
-blattoid
+blattoid 1
 buffoonism
 besayle
 blastomas
