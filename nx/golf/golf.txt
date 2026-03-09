@@ -10622,7 +10622,7 @@ gunsmithing 1
 galactase
 gratiolin
 grossification
-grank
+grank 1
 geogen
 geronto
 geotical 1
