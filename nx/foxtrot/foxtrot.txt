@@ -5979,7 +5979,7 @@ furlers
 frangent
 formlessness
 flighter
-foreglimpse
+foreglimpse 1
 flockwise
 frowsiest
 fadmonger
