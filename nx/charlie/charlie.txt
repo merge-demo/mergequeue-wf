@@ -11628,7 +11628,7 @@ choler
 cardiocentesis
 chuffest
 collodiochloride
-cholera
+cholera 1
 coprozoic
 counterround
 choleras
