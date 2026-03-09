@@ -4492,7 +4492,7 @@ ectoblast
 encephalomyelopathy
 encenter
 eskar
-endolithic
+endolithic 1
 encephalartos
 electromyographic
 effloresced
