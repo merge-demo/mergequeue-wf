@@ -5136,7 +5136,7 @@ caesarship
 constabless
 cirsotomy 1
 case
-casease
+casease 1
 caseases
 caseated
 caseation
