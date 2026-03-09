@@ -11580,7 +11580,7 @@ arousals
 apocatastatic
 anerythroplastic
 anticarnivorous 1
-acoria
+acoria 1
 argyrodite
 araceous
 abaser
