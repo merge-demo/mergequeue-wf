@@ -12861,7 +12861,7 @@ episcopal
 erythrulose
 elodea
 episcopizing
-exoticness
+exoticness 1
 enantioses
 entangleable
 ensile 1

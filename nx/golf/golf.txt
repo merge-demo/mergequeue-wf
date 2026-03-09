@@ -1533,7 +1533,7 @@ generatively 1
 grassless 1
 geothermally 1
 grana
-glutelin
+glutelin 1
 ghegish
 glar
 gregarinoidea
