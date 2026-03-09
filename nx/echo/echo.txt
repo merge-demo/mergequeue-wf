@@ -3787,7 +3787,7 @@ enslaving
 encumbers
 etruscans
 embrocates
-efflower
+efflower 1
 erugation 1
 electroendosmotic 1
 entophytal
