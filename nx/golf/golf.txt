@@ -9589,7 +9589,7 @@ growan 1
 gasboat
 gravelike
 gossiphood
-guaxima
+guaxima 1
 gerbe 1
 goniostat
 geums

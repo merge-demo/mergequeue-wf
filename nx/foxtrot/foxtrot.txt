@@ -8069,7 +8069,7 @@ fusilades 1
 fructiculture
 flockmaster
 feyest
-fatalness
+fatalness 1
 flowerist
 frightful
 fluidises
