@@ -6079,7 +6079,7 @@ dynactinometer
 disgraded 1
 dialyzers
 disannulling
-disintegrant
+disintegrant 1
 diastasic
 dysmenorrhoea
 dream
