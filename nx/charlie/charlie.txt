@@ -8615,7 +8615,7 @@ changelings
 cuissard
 changeovers
 concertmeister
-chiefs
+chiefs 1
 changer
 columbic
 changers
