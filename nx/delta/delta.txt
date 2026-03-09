@@ -4808,7 +4808,7 @@ dustermen
 dimorph
 derrises
 dilleniad
-disposedly
+disposedly 1
 diacritic
 demonetizing
 disembogue
