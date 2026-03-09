@@ -4532,7 +4532,7 @@ bediaper
 borocalcite
 bastonite
 bifolia
-backspin
+backspin 1
 bathala
 brutifies 1
 becrust 1
