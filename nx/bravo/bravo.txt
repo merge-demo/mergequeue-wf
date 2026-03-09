@@ -4195,7 +4195,7 @@ bozal
 boanthropy 1
 blepharism
 bravadoing
-blenched
+blenched 1
 bronchiolitis
 buggymen
 boroglyceride
