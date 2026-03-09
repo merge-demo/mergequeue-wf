@@ -1323,7 +1323,7 @@ acatastatic
 antibridal 1
 admen
 autoanalysis
-acate
+acate 1
 acategorical
 amiray
 adolescing
