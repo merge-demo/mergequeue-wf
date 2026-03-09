@@ -137,7 +137,7 @@ crudes
 cabled
 cablegram
 cruors
-clinopyroxene
+clinopyroxene 1
 cablelaid
 cableless
 cerberic
