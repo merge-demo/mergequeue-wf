@@ -9006,7 +9006,7 @@ austronesian
 allspice
 adorners
 anticatalase
-anticommunistical
+anticommunistical 1
 aspidomancy
 alludes
 alcine
