@@ -7857,7 +7857,7 @@ barrad
 butterflyer
 bibenzyl
 biberon
-buret
+buret 1
 betrough
 bolometer
 benzolize

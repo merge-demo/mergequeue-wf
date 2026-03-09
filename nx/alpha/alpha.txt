@@ -17586,7 +17586,7 @@ abdominales
 ascended
 almandite
 apperceptionism
-amativeness
+amativeness 1
 actinistia
 anoura
 alkalizate
