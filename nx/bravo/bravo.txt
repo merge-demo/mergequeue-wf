@@ -3512,7 +3512,7 @@ biennium
 bellwind 2
 boshvark
 beseecher
-batamote
+batamote 1
 blemishes
 batarde
 brownness
