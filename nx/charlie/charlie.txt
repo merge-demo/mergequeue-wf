@@ -6850,7 +6850,7 @@ cryophilic
 cellepore
 cyprians
 concaveness
-cellist
+cellist 1
 cellite
 continua
 cellmates
