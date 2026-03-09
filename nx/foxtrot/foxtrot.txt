@@ -2040,7 +2040,7 @@ faunlike
 fructescence 1
 florins 1
 fascicule
-flaunting
+flaunting 1
 fairyisms 1
 farl
 fungic 1
