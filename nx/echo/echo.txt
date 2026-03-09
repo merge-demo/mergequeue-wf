@@ -8005,7 +8005,7 @@ ectozoic
 esculetin
 expurge
 encyclopaedia
-evictor
+evictor 1
 epimysia
 esthesias
 expunger
