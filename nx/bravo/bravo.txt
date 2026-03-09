@@ -9107,7 +9107,7 @@ bioscopy
 bioscopic
 bioastronautical
 bipinnatisect
-bedecorate
+bedecorate 1
 bungey 1
 ballistocardiograph
 bearishness
