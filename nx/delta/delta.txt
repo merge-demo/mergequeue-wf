@@ -13161,7 +13161,7 @@ detonates
 disemploys
 desynonymization 1
 discobolos
-dramshops 1
+dramshops 2
 dispersers
 damaging
 dreigh
