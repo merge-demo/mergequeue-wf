@@ -9871,7 +9871,7 @@ formee 1
 fribbler
 fricace
 friandise
-fricandeaux
+fricandeaux 1
 footcloths
 fluellen
 fanfishes
