@@ -1866,7 +1866,7 @@ fourdrinier
 finalize 1
 fibrinokinase
 flamboyantize
-faradizing
+faradizing 1
 forcelet
 flybrush
 flybys 1
