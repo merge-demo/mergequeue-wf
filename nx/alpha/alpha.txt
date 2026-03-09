@@ -3027,7 +3027,7 @@ antimeson
 actinomeric
 apotheosise
 amtrac 1
-amphinucleus
+amphinucleus 1
 atelectasis
 abdominoposterior
 algin
