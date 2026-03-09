@@ -1321,7 +1321,7 @@ favorability
 foramination 1
 flannelflower 1
 flyable
-factionally
+factionally 1
 faunal
 frantically
 fluxible
