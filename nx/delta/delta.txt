@@ -6187,7 +6187,7 @@ demonstrability
 dimerizes
 derisively
 desertlike
-derisiveness
+derisiveness 1
 dogtail
 dejeuners 1
 deferable
