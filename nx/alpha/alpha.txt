@@ -4408,7 +4408,7 @@ acquiescency
 archimago 1
 argue
 alcornoque
-affectations
+affectations 1
 advaita
 azurine
 alloyed
