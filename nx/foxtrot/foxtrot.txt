@@ -5439,7 +5439,7 @@ flaxiest 2
 ferrocyanide
 fleckering
 flunkyistic
-forepeaks
+forepeaks 1
 freyalite 1
 fied
 frizz
