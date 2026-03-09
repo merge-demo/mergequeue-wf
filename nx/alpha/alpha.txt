@@ -11915,7 +11915,7 @@ astromancy
 anarchist
 anarchists
 alcaide
-anarcho
+anarcho 1
 aboriginals
 alpha
 amara
