@@ -9116,7 +9116,7 @@ guillemet 1
 grindable
 gibbose
 gadite
-gummers
+gummers 1
 guild
 gobonated
 garlandless
