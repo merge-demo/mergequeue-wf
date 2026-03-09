@@ -9836,7 +9836,7 @@ forcy
 fadridden
 faddist 2
 fretum
-figs
+figs 1
 fanegas 1
 fidget
 fluors
