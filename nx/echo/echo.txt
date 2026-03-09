@@ -13732,7 +13732,7 @@ elementarity
 eelblennies
 executrix
 eelshop
-elatine
+elatine 1
 endnote
 extratemporal
 eremites
