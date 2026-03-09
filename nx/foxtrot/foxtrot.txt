@@ -11077,7 +11077,7 @@ flocs
 forgetters
 frivoling 1
 fibrolipomatous
-fogproof
+fogproof 1
 freightment
 flense
 finesses
