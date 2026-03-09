@@ -12288,7 +12288,7 @@ epurate 1
 exemplificator
 enflame
 exemplified
-ellagitannin
+ellagitannin 1
 epibolic
 exempted
 essenical
