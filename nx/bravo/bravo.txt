@@ -1388,7 +1388,7 @@ blithen
 barebacked
 brags
 baldcrown
-balded
+balded 1
 balder
 bolloxing
 balkish
