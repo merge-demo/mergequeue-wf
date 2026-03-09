@@ -2869,7 +2869,7 @@ cephalothoraces
 coambassador
 canonising
 canonist
-canonistical
+canonistical 1
 catapult
 carboxyhemoglobin
 chalmer
