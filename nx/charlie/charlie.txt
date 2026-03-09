@@ -15704,7 +15704,7 @@ croissants 1
 carshops
 clavilux
 causon
-coy
+coy 1
 carlisle
 clavipectoral
 chips
