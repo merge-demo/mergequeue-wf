@@ -4609,7 +4609,7 @@ cationic
 carnification
 carnifies
 colonel
-cnidocell
+cnidocell 1
 carniform
 consummatory
 chukar
