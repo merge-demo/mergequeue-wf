@@ -9288,7 +9288,7 @@ garo
 gigabyte 1
 groceryman
 gourmanderie
-goitre 1
+goitre 2
 gardnap 1
 goidel
 gamely 1
