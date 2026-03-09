@@ -7678,7 +7678,7 @@ fucaceous 1
 foregift
 forgiveless
 feyness
-foregleam
+foregleam 1
 forst
 ferly
 fringillaceous
