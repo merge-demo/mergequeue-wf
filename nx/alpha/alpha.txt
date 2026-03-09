@@ -259,7 +259,7 @@ apparatus
 appurtenances
 aeroacoustic
 aguamas
-autoallogamous
+autoallogamous 1
 annexable
 abdominocystic
 archness 1
