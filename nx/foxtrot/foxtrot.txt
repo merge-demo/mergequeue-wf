@@ -6044,7 +6044,7 @@ frabjous 1
 floricultural
 faitour
 floorboard
-fixures
+fixures 1
 flashness 1
 fantasied 1
 fructiculose
