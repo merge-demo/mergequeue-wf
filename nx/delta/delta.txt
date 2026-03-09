@@ -11430,7 +11430,7 @@ deserted
 dyspnoi
 durst
 deterrent
-disciplinarily
+disciplinarily 1
 durative
 disciplinate
 dishearteningly
