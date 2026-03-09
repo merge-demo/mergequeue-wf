@@ -14971,7 +14971,7 @@ anosphresia
 archworker
 aegithognathism
 achyrodes
-anticrisis
+anticrisis 1
 anticritic
 anaglyptics
 anticritical
