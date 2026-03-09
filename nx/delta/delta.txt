@@ -15893,7 +15893,7 @@ doubleword
 discapacitate
 darned
 duddle
-dissipate
+dissipate 1
 drawlingly
 dotarie
 destoolment 1
