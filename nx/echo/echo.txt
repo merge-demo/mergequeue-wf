@@ -10173,7 +10173,7 @@ epigraphical 1
 emulsifiability
 eccentric
 endive
-expositress
+expositress 1
 engouee
 eurhodine
 effluent
