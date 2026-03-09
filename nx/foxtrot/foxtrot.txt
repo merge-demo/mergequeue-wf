@@ -6484,7 +6484,7 @@ fighteress 2
 foliates 1
 ferforth
 fireflower
-flushy 1
+flushy 2
 flayer 1
 freshish
 farmed
