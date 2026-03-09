@@ -12600,7 +12600,7 @@ dosimetries
 discal
 disintegrated
 dipterological 1
-denotation
+denotation 1
 devanagari
 dromedaries
 duologs
