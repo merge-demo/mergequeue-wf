@@ -2065,7 +2065,7 @@ fwelling
 flocky
 fabulously
 filibuster
-fremdly
+fremdly 1
 fenester
 ferryboats
 fullmouthed 1
