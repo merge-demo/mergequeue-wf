@@ -14577,7 +14577,7 @@ divisor
 digitalein
 desalinize
 divergenge
-divisorial
+divisorial 1
 dreint
 dipleurula
 diesinking 1
