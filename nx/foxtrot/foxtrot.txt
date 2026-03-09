@@ -8096,7 +8096,7 @@ fractionise
 folkmot
 fumarole
 forestries
-factorial
+factorial 1
 furnitures
 fanums 1
 fumigating
