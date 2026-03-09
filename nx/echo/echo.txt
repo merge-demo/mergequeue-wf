@@ -6200,7 +6200,7 @@ ennoblement
 estuant
 enviable
 euryhaline 1
-embarcadero
+embarcadero 1
 exesion
 exaspidean
 enchannel
