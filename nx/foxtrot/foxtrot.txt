@@ -1611,7 +1611,7 @@ frictionproof
 fantasticalness
 firmest 1
 ficula
-formicoidea
+formicoidea 1
 foliot
 feltmaking
 faculty
