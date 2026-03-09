@@ -1755,7 +1755,7 @@ epornitically
 enols
 encephaloid
 endangium
-exsanguination
+exsanguination 1
 enginery
 enforced 1
 elizabethan
