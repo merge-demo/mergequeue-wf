@@ -1613,7 +1613,7 @@ entires
 echelonment
 enumerator
 extravagancies
-eucaines
+eucaines 1
 eff
 estopped 2
 erogenetic
