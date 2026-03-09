@@ -2220,7 +2220,7 @@ firers 1
 fauteuil 1
 feudee
 follows
-fikie
+fikie 1
 firebombs
 forestine
 fowent
