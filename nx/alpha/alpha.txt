@@ -12840,7 +12840,7 @@ analyzed
 arbitrators
 angouleme
 adiaphanousness
-armored
+armored 1
 atsara
 angriness
 angstroms
