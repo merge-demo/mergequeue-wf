@@ -5780,7 +5780,7 @@ dovekeys
 diplanar
 decaliter
 deportability
-deportations
+deportations 1
 diplophonic
 digestedness 2
 decriminalized
