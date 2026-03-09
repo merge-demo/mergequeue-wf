@@ -6015,7 +6015,7 @@ foreworld
 floodgates
 foolhardily 1
 fusillade
-fraudlessness
+fraudlessness 1
 furrieries
 fossilify
 freehand
