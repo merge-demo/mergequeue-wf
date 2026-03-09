@@ -7349,7 +7349,7 @@ effigial 1
 exlex 1
 engird 1
 excheat
-encharnel
+encharnel 1
 eristics
 etherealize
 emulous
