@@ -11103,7 +11103,7 @@ chitter
 chitterling 1
 chitters
 capillaries
-chiurm
+chiurm 1
 chiv
 confirmand
 comble
