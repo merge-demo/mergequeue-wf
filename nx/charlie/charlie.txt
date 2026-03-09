@@ -4578,7 +4578,7 @@ carnaria
 carnassial
 carnate
 contrasting
-corupay
+corupay 1
 cordialize
 carnation
 channelizes
