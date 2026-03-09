@@ -13919,7 +13919,7 @@ ectoderm
 extramoral
 encoffin
 enamored
-epimerizing
+epimerizing 1
 extumescence
 exsiccation
 euphoniousness
