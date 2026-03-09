@@ -8694,7 +8694,7 @@ fields
 foraneous
 fanlike
 factionate
-forjudge
+forjudge 1
 folium
 funariaceous
 fittyfied 1
