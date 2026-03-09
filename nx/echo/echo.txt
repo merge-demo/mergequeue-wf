@@ -6929,7 +6929,7 @@ entomologist
 engle
 entomophila
 entomophobia
-enties
+enties 1
 ethmonasal
 eventlessness
 esthesiography
