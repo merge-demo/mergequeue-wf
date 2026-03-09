@@ -9630,7 +9630,7 @@ countenances 1
 cheerier
 cryptopapist
 cloudlets
-curtals
+curtals 1
 cragginess
 coexistent
 cochlidiid 1
