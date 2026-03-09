@@ -195,7 +195,7 @@ floatiness
 fraudulence
 filiety
 fascistic
-frostproof
+frostproof 1
 florin
 folletage
 freedwoman 1
