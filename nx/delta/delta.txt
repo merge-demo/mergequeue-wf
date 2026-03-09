@@ -8802,7 +8802,7 @@ defrocking
 dequeen
 dragsmen 1
 duncedom
-dacryolithiasis
+dacryolithiasis 1
 diacids
 demiking 1
 diestruses
