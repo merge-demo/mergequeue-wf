@@ -871,7 +871,7 @@ dryopithecus
 droppy 1
 determent
 derry
-dreepiness
+dreepiness 1
 dilacerated 1
 dispassion
 dantology
