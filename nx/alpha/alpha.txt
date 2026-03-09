@@ -19302,7 +19302,7 @@ absurds 1
 alfaquin
 allineation
 agathis
-attainable
+attainable 1
 adagy
 areologist 1
 administratress
