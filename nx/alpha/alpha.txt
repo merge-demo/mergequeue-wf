@@ -16771,7 +16771,7 @@ authentications
 abos
 associativity
 aphorizes
-aphorizing
+aphorizing 1
 ancienter
 anlet
 auxiliary
