@@ -16894,7 +16894,7 @@ benzoxycamphor
 balancelle
 blended
 burhead
-bichromatic
+bichromatic 1
 bathysophic
 buffoonish
 bathmotropic
