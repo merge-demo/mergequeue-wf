@@ -3909,7 +3909,7 @@ douser
 dictate
 duopoly
 disleal
-debarrance
+debarrance 1
 diaphemetric
 dissymmetry 1
 deyship
