@@ -10677,7 +10677,7 @@ dustcoat
 degeneration
 deliberators 1
 diploplaculate
-degarnish
+degarnish 1
 dolomize
 downsized
 discommons
