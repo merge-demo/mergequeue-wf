@@ -7570,7 +7570,7 @@ forebodes
 frostweed
 flentes
 fleshbrush
-frivoler
+frivoler 1
 fishskin 2
 frizzliest
 foreboom
