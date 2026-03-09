@@ -12249,7 +12249,7 @@ detector
 dentigerous
 dampers
 deviators
-dysfunctions
+dysfunctions 1
 disfurnish
 deathshot
 dervishes 1
