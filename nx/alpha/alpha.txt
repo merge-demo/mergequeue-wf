@@ -21343,7 +21343,7 @@ antichristianity
 angeyok
 adaptometer
 asynchronism
-asyndetic
+asyndetic 1
 androphore 1
 amyloses
 amphoras
