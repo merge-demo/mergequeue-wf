@@ -9365,7 +9365,7 @@ encephalopathy
 eructance
 empoverish
 extendability 1
-extralegal
+extralegal 1
 eructative 1
 emersions
 emoters
