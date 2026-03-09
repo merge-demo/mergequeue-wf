@@ -4790,7 +4790,7 @@ encoding
 exhausted
 equipostile
 enerve
-embrocate
+embrocate 1
 ergasterion 1
 extraorbitally
 enumerative
