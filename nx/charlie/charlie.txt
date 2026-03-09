@@ -1959,7 +1959,7 @@ crosstail
 complementalness
 consubstantiation
 carcinus
-cornule
+cornule 1
 constant 1
 camelopardus
 cloghad
