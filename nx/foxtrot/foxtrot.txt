@@ -9648,7 +9648,7 @@ firefly
 forswear
 fdub
 frieseite 1
-floridly
+floridly 1
 frailest
 fleabugs
 featherbone
