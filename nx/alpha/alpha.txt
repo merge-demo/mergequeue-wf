@@ -3813,7 +3813,7 @@ attame
 antistes
 altin
 adin
-araneose
+araneose 1
 adynamia
 alpasotes
 antidinic
