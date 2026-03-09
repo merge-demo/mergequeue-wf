@@ -2472,7 +2472,7 @@ amphithalmi
 acnemia 1
 adiaphoral
 acnes
-alimenting
+alimenting 1
 amperemeter
 acnida
 airily
