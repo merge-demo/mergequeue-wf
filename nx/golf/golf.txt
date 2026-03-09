@@ -10193,7 +10193,7 @@ gladdon
 gimbaljawed 1
 gravitates
 gnathostegite
-gaugers
+gaugers 1
 generaliser 1
 grippers 1
 guile 1
