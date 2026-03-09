@@ -15,7 +15,7 @@ gradins 1
 geotropic
 goozle
 geoselenic
-gliderport
+gliderport 1
 glyptic 1
 gymnadeniopsis
 gabioned
