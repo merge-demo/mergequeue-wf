@@ -5673,7 +5673,7 @@ extraventricular
 extras
 episcopalism 2
 eternizes
-enhances
+enhances 1
 ethylene
 emerson
 emprosthotonos
