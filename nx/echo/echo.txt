@@ -10617,7 +10617,7 @@ exhibitory
 elpidite
 electrometallurgical
 euphroes 1
-extinctor
+extinctor 1
 escallops
 earthiness 1
 exsanguinated 1
