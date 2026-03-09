@@ -1248,7 +1248,7 @@ ariolate 3
 acarari
 ardelia
 acarian
-apothece
+apothece 1
 altercate
 acarid
 accord
