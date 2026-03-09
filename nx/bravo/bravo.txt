@@ -9814,7 +9814,7 @@ bagwigged
 beddable
 bradypepsia
 brokenhearted
-banderoles
+banderoles 1
 buddage
 boos
 brigandish
