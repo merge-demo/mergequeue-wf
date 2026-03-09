@@ -9531,7 +9531,7 @@ escry
 equalisation
 escribientes
 electricans 1
-eucosia
+eucosia 1
 enworthy
 epiphanising
 excerpta
