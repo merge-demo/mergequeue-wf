@@ -12533,7 +12533,7 @@ ethyldichloroarsine
 eupione
 estolide
 esperantidist
-exculpative
+exculpative 1
 extoolitic 1
 embarkations
 eftest
