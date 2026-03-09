@@ -355,7 +355,7 @@ gynobasic 1
 galangin
 gunslinger
 goura
-geodic
+geodic 1
 ghetchoo
 gentiles
 glumpily
