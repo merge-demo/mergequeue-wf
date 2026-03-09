@@ -906,7 +906,7 @@ dromiceius
 dive
 dermapostasis
 dapperling
-dapperness
+dapperness 1
 dactylographic
 deformative
 divorcers
