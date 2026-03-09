@@ -6297,7 +6297,7 @@ bevors
 bemoat
 bulgar
 bunter
-benthoses
+benthoses 1
 bacteriolysin
 backwashes 1
 berrendo
