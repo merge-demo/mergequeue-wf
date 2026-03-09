@@ -1912,7 +1912,7 @@ growthy
 goalkeepers
 greaseless
 gaussmeter 1
-gushy
+gushy 1
 gastradenitis
 gra
 guttiness
