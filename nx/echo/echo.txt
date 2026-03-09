@@ -4494,7 +4494,7 @@ encenter
 eskar
 endolithic 1
 encephalartos
-electromyographic
+electromyographic 1
 effloresced
 escocheon 1
 encephalitic
