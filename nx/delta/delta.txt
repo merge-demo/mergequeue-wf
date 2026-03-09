@@ -3042,7 +3042,7 @@ depicters
 detailedly
 disgustfully
 disquietingly
-deadliness
+deadliness 1
 doohickus
 dentaria 1
 defacer 1
