@@ -7837,7 +7837,7 @@ envisage 1
 epiphysitis
 exaggerativeness
 eudaimonism
-ethnobotany
+ethnobotany 1
 endearedly
 empest
 ectodynamomorphic
