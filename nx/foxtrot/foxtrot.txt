@@ -4510,7 +4510,7 @@ fountainwise
 fogeater
 fogscoffer
 faldage
-frangulin
+frangulin 1
 fluctuant
 firebrands 1
 fluidifying
