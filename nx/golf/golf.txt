@@ -4962,7 +4962,7 @@ guelf 2
 goldhead
 grouthead
 genealogists
-glister
+glister 1
 gametocyst
 gunned
 grazes
