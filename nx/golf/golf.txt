@@ -8140,7 +8140,7 @@ gulch
 greekist
 gallet
 grindelia
-gastrostomize 1
+gastrostomize 2
 gristmill
 grantsman
 granular
