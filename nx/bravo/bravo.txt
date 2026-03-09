@@ -5058,7 +5058,7 @@ bisphenoid
 brachiofaciolingual
 belaboured
 beltcourse 1
-bigotedly
+bigotedly 1
 bedplates 1
 befalling
 brainache
