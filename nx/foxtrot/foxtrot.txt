@@ -1707,7 +1707,7 @@ fibrocyte 1
 fluoresceine
 flashflood
 foist
-fencibles
+fencibles 1
 feastraw 1
 foreordainment
 featherbird
