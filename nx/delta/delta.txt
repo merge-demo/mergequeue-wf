@@ -15504,7 +15504,7 @@ donkeyman
 decahedra
 dikamalli 2
 dottiest
-disgregation
+disgregation 1
 draegerman
 denumberment
 dessert
