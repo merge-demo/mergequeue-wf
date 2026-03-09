@@ -26009,7 +26009,7 @@ cosh
 coshed
 colubrids
 cosher
-countermanded
+countermanded 1
 chestiness
 cablelike
 cupreine
