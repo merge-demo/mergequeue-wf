@@ -13207,7 +13207,7 @@ cyclide
 chloralose 1
 cubeb
 cyclindroid
-clop
+clop 1
 characterized
 cyclings
 cupelled
