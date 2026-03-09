@@ -12414,7 +12414,7 @@ duffing
 dishellenize
 decomposing
 diactinism
-disconnective
+disconnective 1
 dicarpellary 1
 dicynodon
 dendrologists
