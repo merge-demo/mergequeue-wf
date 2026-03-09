@@ -3982,7 +3982,7 @@ fish
 fruitcakey
 fractionized
 frenziedly 1
-foundation
+foundation 1
 frightfulness
 foreshown
 funneled
