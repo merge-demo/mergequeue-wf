@@ -1655,7 +1655,7 @@ egressed
 emboldening
 extraphysiological
 emborder
-egret
+egret 1
 egromancy 1
 equilibrize
 egurgitate
