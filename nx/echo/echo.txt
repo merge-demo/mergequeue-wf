@@ -7781,7 +7781,7 @@ empasma 1
 executable
 epidiascope
 embrocating
-embosom 1
+embosom 2
 exchanger
 exhume
 extrafine
