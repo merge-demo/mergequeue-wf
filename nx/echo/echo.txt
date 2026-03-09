@@ -6464,7 +6464,7 @@ enlacement
 elfins 1
 excommunicated 1
 edental
-eimak
+eimak 1
 evenmete
 eptatretus
 ectropionize
