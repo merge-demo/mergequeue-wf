@@ -17773,7 +17773,7 @@ buttals 1
 breakback
 burroweed
 burrows 2
-bathmats
+bathmats 1
 benevolent
 benzdifuran
 burrstone
