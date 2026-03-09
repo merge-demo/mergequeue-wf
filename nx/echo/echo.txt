@@ -10426,7 +10426,7 @@ electropositive
 expressman
 enfranchisable
 entopterygoid
-each
+each 1
 elusoriness 1
 exchanged
 ethoxyethane 1
