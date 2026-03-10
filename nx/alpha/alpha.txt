@@ -14920,7 +14920,7 @@ adiposes
 ampholytic 2
 agrin
 azimuthal
-anticonvellent
+anticonvellent 1
 aljama
 abovesaid
 anticonventional
