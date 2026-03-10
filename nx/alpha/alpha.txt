@@ -3812,7 +3812,7 @@ adieu 1
 attame
 antistes
 altin
-adin
+adin 1
 araneose 1
 adynamia
 alpasotes
