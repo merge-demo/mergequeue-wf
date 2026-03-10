@@ -5919,7 +5919,7 @@ dolerin
 disencharm
 dispossessing 1
 dryobalanops
-deep
+deep 1
 darwin
 domajig 1
 dowy 1
