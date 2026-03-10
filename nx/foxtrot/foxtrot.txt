@@ -2444,7 +2444,7 @@ forepreparation
 foliocellosis
 freethink 1
 frithborgh
-flappy
+flappy 1
 fleshful 1
 firelocks 1
 fricatives
