@@ -9105,7 +9105,7 @@ doghole
 dryish 1
 didal
 dentalize
-dogface
+dogface 1
 dobbing
 dormins
 diddy
