@@ -6445,7 +6445,7 @@ fixup
 farcify
 fluvio
 foppery
-fragrantness
+fragrantness 1
 fyce 1
 funiliform
 facelift
