@@ -296,7 +296,7 @@ daybooks
 desand
 detoxifier
 dribbling 1
-digression
+digression 1
 dipsacaceae
 daydawn
 deciphered
