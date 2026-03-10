@@ -17640,7 +17640,7 @@ courser
 cocco 1
 changar
 cumins
-cayennes
+cayennes 1
 culrage
 coccochromatic
 coccogone
