@@ -11391,7 +11391,7 @@ deodands
 dowhacky
 dehydrogenise
 delimiter 1
-dephasing
+dephasing 1
 dentalization
 diabases
 dermatocele 1
