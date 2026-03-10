@@ -12866,7 +12866,7 @@ enantioses
 entangleable
 ensile 1
 exotoxic
-epicentrums
+epicentrums 1
 exegetical
 ecomomist
 ensynopticity
