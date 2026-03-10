@@ -4697,7 +4697,7 @@ carnic 1
 caroteel
 costosuperior 1
 chaser
-carneol
+carneol 1
 cursoria
 chinas
 companero
