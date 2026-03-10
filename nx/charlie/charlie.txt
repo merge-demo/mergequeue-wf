@@ -18308,7 +18308,7 @@ cancerite
 cofferwork
 christology
 coffin
-coffing
+coffing 1
 colpoplastic
 coffinless
 chemesthesis
