@@ -14481,7 +14481,7 @@ divertimento
 diestrus 1
 drunkensome
 divertingly
-denigrates
+denigrates 1
 dreaming
 dehydrogenated
 distribute 1

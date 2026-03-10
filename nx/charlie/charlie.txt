@@ -16318,7 +16318,7 @@ clypeus
 cyanomethaemoglobin
 chlorpikrin
 clipped
-clippers
+clippers 1
 clippie
 convenienced
 clippingly
