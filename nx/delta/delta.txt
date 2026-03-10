@@ -11657,7 +11657,7 @@ dsect
 discontinuously
 discontinuousness
 disconula 2
-diatomin
+diatomin 1
 debit
 dauphin
 dilatancy 1
