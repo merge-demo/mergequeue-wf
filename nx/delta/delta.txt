@@ -18074,7 +18074,7 @@ dropforge
 demihearse
 dubitation 1
 dormilona
-dulness
+dulness 1
 dreadful
 dysphemism
 diselder
