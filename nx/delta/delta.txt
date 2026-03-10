@@ -14075,7 +14075,7 @@ dustproof
 dishorner
 dragging 1
 dunlap
-depravation
+depravation 1
 decommissioning
 draughtman
 distributary
