@@ -10332,7 +10332,7 @@ diphthongic 1
 dunkling
 diosmin
 diabological
-decisive 1
+decisive 2
 diseuses
 demote
 demurrers
