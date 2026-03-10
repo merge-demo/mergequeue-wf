@@ -13868,7 +13868,7 @@ emandibulate
 equitably
 essene
 extension 2
-encephalotomies
+encephalotomies 1
 extroverts
 encyst
 everett
