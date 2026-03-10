@@ -3218,7 +3218,7 @@ epistyles
 endobronchial
 expurgators
 eloins
-exanthema
+exanthema 1
 etioporphyrin
 ectotropic 1
 eunuchal
