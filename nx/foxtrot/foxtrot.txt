@@ -10381,7 +10381,7 @@ fikey
 fluoboric
 fingerstall
 frontoauricular
-fraternise
+fraternise 1
 ferison
 forrarder
 fruitlessly
