@@ -6744,7 +6744,7 @@ entosclerite
 endogenously
 egall
 epulis
-egomanias
+egomanias 1
 espundia
 eager
 exacters 1
