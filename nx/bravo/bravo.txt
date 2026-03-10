@@ -15588,7 +15588,7 @@ birdikin
 backropes
 brisked
 beast
-barbule
+barbule 1
 briss
 backwoodsman
 bolsterer
