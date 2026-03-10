@@ -739,7 +739,7 @@ febres
 fodientia 1
 fazenda
 fragmentate
-forgetive
+forgetive 1
 frohlich
 foreconceive
 flittiness
