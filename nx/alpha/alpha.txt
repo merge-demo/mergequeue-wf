@@ -321,7 +321,7 @@ asymbolia
 abelian 1
 allophylian
 accubitum
-alcoate
+alcoate 1
 arrestation
 acetylglycine
 auletris
