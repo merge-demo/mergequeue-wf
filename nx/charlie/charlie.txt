@@ -7207,7 +7207,7 @@ centraxonial
 cfi
 centre 1
 centreboard
-centred
+centred 1
 centref
 caisse
 centreless
