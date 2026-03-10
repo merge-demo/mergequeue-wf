@@ -2980,7 +2980,7 @@ calina
 columbarium
 cuber
 cantharidize
-catalexis
+catalexis 1
 cyanogenetic
 cantharidized
 cantharus
