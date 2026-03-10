@@ -17316,7 +17316,7 @@ cobol
 clarions
 corresol
 churrigueresque
-coapparition
+coapparition 1
 cynorrhodon 1
 coappear
 calyciflorous
