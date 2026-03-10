@@ -21590,7 +21590,7 @@ antecedes
 aspiringly
 anteriad
 anabata
-agush
+agush 1
 aloed
 arthrosia
 adjudgment 1
