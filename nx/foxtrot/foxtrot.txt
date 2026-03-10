@@ -4411,7 +4411,7 @@ floorshifts
 footnotes 1
 forbearances
 fute
-frenums
+frenums 1
 flexive
 forky 1
 forecomingness
