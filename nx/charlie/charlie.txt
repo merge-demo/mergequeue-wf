@@ -505,7 +505,7 @@ calendaric 1
 cogon
 contorting
 canticle 1
-cadences
+cadences 1
 cadencies
 cadencing
 casitas 1
