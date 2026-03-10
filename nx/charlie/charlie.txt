@@ -14411,7 +14411,7 @@ coloslossi
 cirrocumulus 1
 corkwood
 cirropodous
-cirrose
+cirrose 1
 cholelithiasis 1
 catabasion
 capsulociliary 1
