@@ -5985,7 +5985,7 @@ archilowe 1
 agitant
 agitate
 agitated
-agitational
+agitational 1
 anion
 aftosa
 agitations 1
