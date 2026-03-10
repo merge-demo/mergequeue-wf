@@ -978,7 +978,7 @@ gilse
 granitizing
 gigahertz
 gonakie
-graustark
+graustark 1
 gymnure 1
 guttle
 glanduliferous
