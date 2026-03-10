@@ -1073,7 +1073,7 @@ dearticulation 1
 drachmas
 dartled 1
 depreciable
-defuses
+defuses 1
 downpour
 dispenditure 1
 disglorify
