@@ -11770,7 +11770,7 @@ drawspan
 debtor
 declarant
 didler
-derogatively
+derogatively 1
 disobligatory 1
 dioscorine
 discrepancies

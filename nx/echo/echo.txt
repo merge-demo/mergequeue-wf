@@ -6198,7 +6198,7 @@ elision
 enlisted
 ennoblement
 estuant
-enviable
+enviable 1
 euryhaline 1
 embarcadero 1
 exesion
