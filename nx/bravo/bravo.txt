@@ -6213,7 +6213,7 @@ binaries 1
 benevolency
 bengalese
 boston
-bluelegs
+bluelegs 1
 bengola
 bipartient 1
 beni
