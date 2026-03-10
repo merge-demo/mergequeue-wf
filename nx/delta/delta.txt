@@ -11146,7 +11146,7 @@ disassimilative
 disinherits
 disassociate 1
 disassociates
-disasters
+disasters 1
 dimerize
 doupioni
 disseises
