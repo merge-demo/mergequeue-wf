@@ -9844,7 +9844,7 @@ chemiculture
 chemigraphy 1
 caudotibialis
 chemiloon 1
-crystallographic
+crystallographic 1
 chemiotactic 1
 chemiotaxic
 carvone
