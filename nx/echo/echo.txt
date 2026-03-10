@@ -12774,7 +12774,7 @@ employable
 emporia
 exorcizement
 exhalable 1
-elasmobranchiate
+elasmobranchiate 1
 excitement
 enmask
 exorcizer
