@@ -11648,7 +11648,7 @@ elegize
 encumbrance
 extrovert
 electroretinogram
-eternalising
+eternalising 1
 enmeshing
 evolver 1
 equiponderating
