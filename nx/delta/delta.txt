@@ -10210,7 +10210,7 @@ disallowing
 dyslogia
 distillation
 dinging 1
-dingleberry
+dingleberry 1
 denuclearize
 dingman
 doven
