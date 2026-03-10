@@ -9530,7 +9530,7 @@ formaliter
 flatbottom 1
 forbreak
 formicarioid 1
-foreseeing 1
+foreseeing 2
 floatman
 florets
 floatplane
