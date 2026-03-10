@@ -4263,7 +4263,7 @@ ewound
 ewhow
 enclaves
 exporters 1
-expiree
+expiree 1
 escambio
 eumeristic
 emcumbering 1
