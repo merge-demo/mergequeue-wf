@@ -6798,7 +6798,7 @@ bersagliere
 burdenable
 brittles
 bonnocks
-berserks
+berserks 1
 bear
 berskin
 balize
