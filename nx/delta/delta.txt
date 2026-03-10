@@ -5096,7 +5096,7 @@ durango 1
 decompress
 daubes
 dumber
-dendrologous
+dendrologous 1
 devorative
 dundee
 disbound
