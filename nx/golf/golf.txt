@@ -7818,7 +7818,7 @@ generalities
 geococcyx 1
 galantuomo
 garniture 1
-globoseness
+globoseness 1
 gunline 1
 gramper 1
 gardenly
