@@ -2636,7 +2636,7 @@ ferio
 farandmen
 fiants
 ferruginating 1
-fulleries
+fulleries 1
 flashly
 factorylike
 fairest
