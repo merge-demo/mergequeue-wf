@@ -3736,7 +3736,7 @@ batting
 battings
 battledores
 bywork
-bloops
+bloops 1
 beauticians
 barotraumata 1
 battlefronts 1
