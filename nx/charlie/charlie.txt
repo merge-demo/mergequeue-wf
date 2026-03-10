@@ -1978,7 +1978,7 @@ coveters
 confeder
 cypriote
 crotalid
-checkered
+checkered 1
 camera
 capitols
 counterwill

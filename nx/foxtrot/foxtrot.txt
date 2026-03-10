@@ -2490,7 +2490,7 @@ fjarding
 fortunize
 failure
 fluters
-ferociously
+ferociously 1
 fumarin
 fastus
 fingers 1
