@@ -2516,7 +2516,7 @@ elector 1
 exertions
 evirate
 espaliers
-elaphurine
+elaphurine 1
 elasticum
 electroless
 exsecants
