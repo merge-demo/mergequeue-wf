@@ -11601,7 +11601,7 @@ fealty
 frankfurter
 fideicommissary
 fraternal
-febrifugal
+febrifugal 1
 for
 fetch
 frenchman
