@@ -12844,7 +12844,7 @@ eupomatia 2
 ern 1
 ecphorization
 emblematise
-echoic
+echoic 1
 emendated
 enterprisingness
 eisteddfods
