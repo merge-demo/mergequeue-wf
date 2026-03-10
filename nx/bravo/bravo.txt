@@ -14309,7 +14309,7 @@ batheable
 bouillon
 bigotry 2
 begrudger 1
-blending
+blending 1
 bacterization
 bops
 befezzed
