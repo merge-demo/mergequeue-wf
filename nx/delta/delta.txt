@@ -10012,7 +10012,7 @@ dasyatidae
 dimness
 decisiveness
 dysacousma
-disopinion
+disopinion 1
 dimoric
 demigoddess
 derv 1
