@@ -4997,7 +4997,7 @@ endogastric
 encaged
 ensaffron
 elementality
-exauthorate
+exauthorate 1
 enders
 extortionary
 editorialized 1
