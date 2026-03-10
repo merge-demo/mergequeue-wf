@@ -18906,7 +18906,7 @@ cacophonously
 colossus
 cestoid
 choroti
-colistin
+colistin 1
 coypou
 colyum
 climbs
