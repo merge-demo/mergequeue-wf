@@ -5605,7 +5605,7 @@ foamily
 flatterable 1
 flagon
 fol
-forleaving
+forleaving 1
 fural
 forestays
 flexion
