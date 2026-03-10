@@ -4782,7 +4782,7 @@ feathermonger
 fobbing
 fatnesses
 forelooper
-furfuroid 1
+furfuroid 2
 feedwater
 forgettable
 fulgor
