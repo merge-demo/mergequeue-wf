@@ -155,7 +155,7 @@ geophagy
 gamond
 guatibero
 guimbard
-glassworm
+glassworm 1
 goliardic 1
 goliathize
 goniometry 1
