@@ -11656,7 +11656,7 @@ bikeway
 bacterioscopical 1
 barspoon
 boatbuilding
-boathouse
+boathouse 1
 backbends 1
 boffos 1
 blacketeer
