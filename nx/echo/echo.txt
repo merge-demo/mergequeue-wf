@@ -9960,7 +9960,7 @@ ennew
 ecclesiae
 ensampler
 electrocautery
-enamelled
+enamelled 1
 estrif
 elisor 1
 elohim
