@@ -7426,7 +7426,7 @@ gyrometer
 gorgelet
 greenockite
 gabbai
-gish
+gish 1
 gamotropic 1
 gastrotaxis
 grewt
