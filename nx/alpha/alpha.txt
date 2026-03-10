@@ -18133,7 +18133,7 @@ abbesses
 ambracan
 anemometers
 aeolid
-anticontagiousness
+anticontagiousness 1
 autolytic
 aquarius
 apothegm
