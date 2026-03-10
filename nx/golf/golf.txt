@@ -6235,7 +6235,7 @@ guttation
 galidia
 gconv
 gentle
-gulpin
+gulpin 1
 gendarmery
 graithly
 gadroons
