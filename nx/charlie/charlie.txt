@@ -19879,7 +19879,7 @@ comfort
 cryptoglaux
 comfortableness 1
 caroled
-comfortation
+comfortation 1
 comfortative
 cadding
 comforters
