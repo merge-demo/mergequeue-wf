@@ -6745,7 +6745,7 @@ goatweed
 gaffsail 1
 gavyuti
 goldenmouthed
-gossiping
+gossiping 1
 grassiest
 geront 1
 grayfish
