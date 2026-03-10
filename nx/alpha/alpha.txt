@@ -2730,7 +2730,7 @@ anerythroplasia 1
 arbutinase
 arak
 anabasin
-asthenobiosis
+asthenobiosis 1
 astringent
 atypically
 angakoks
