@@ -1995,7 +1995,7 @@ fady
 fibreglass
 fours
 fimicolous
-furmity
+furmity 1
 funnelled
 fissilinguia
 fearing 1
