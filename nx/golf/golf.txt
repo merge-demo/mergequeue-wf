@@ -3478,7 +3478,7 @@ glauconite
 glasgow
 gallophobia 1
 graptomancy 1
-griefful
+griefful 1
 gratinating
 gimper
 gilts
