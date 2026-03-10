@@ -1769,7 +1769,7 @@ flindosy
 foredoes 1
 featherwing
 fitified
-fevercup
+fevercup 1
 ferromagnetism
 facticity
 familiarisingly
