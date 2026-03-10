@@ -7096,7 +7096,7 @@ frogspawn
 flaxlike 1
 fontal
 fougasse
-fantassin
+fantassin 1
 forehandedly
 flapmouthed 1
 forepromise
