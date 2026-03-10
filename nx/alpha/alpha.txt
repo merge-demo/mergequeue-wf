@@ -8735,7 +8735,7 @@ allocate
 anglophobes 1
 autoimmunization 3
 asthmatics
-allocations
+allocations 1
 amyosthenia
 atteal
 amender
