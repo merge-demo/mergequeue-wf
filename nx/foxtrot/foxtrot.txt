@@ -8574,7 +8574,7 @@ funest 1
 friaries
 famulus
 fayalite 1
-frenchwise
+frenchwise 1
 footsies
 frontate
 formulizing
