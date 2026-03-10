@@ -5158,7 +5158,7 @@ gaby
 gomutis
 gneissoid 1
 glossolalia
-graylags
+graylags 1
 graphophobia
 gossipred
 gesticulator
