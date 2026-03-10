@@ -16318,7 +16318,7 @@ depressional
 decibel
 downslope
 deemster
-disappendancy
+disappendancy 1
 dipody
 dispersal
 derelictions
