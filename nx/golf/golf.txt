@@ -3656,7 +3656,7 @@ glops 1
 gooselike
 gurgly
 governorships
-glumous
+glumous 1
 glyptician
 gnomoniaceae
 gutturotetany

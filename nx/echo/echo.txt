@@ -3471,7 +3471,7 @@ espier 1
 enteropneustal
 estimator
 ebullate
-equiparate
+equiparate 1
 emphase
 endocrinologist 1
 encyclopedically
