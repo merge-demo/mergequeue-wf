@@ -2107,7 +2107,7 @@ gregarine
 governorship
 glucinic 1
 gastrins
-gawkish
+gawkish 1
 galvanoscopic
 glottal
 gipsied
