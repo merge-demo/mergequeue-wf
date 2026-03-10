@@ -10329,7 +10329,7 @@ conspirator
 chickpeas 1
 chickstone
 consultory
-canariote
+canariote 1
 chickwit
 chicle
 chicly
