@@ -9574,7 +9574,7 @@ evacuees
 eulogious 1
 exannulate
 euchromatic
-emasculated
+emasculated 1
 embarrassed
 eskimoized 1
 evulsions
