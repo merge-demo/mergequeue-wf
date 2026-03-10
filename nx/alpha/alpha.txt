@@ -4896,7 +4896,7 @@ aerolites
 admonitioner
 arrange
 antepalatal
-anaclitic
+anaclitic 1
 aerolithology
 aerolitic
 aerological
