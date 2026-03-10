@@ -9513,7 +9513,7 @@ beaneries 1
 brahmaness
 barbules
 beaconage
-banff
+banff 1
 bouffants
 bemonster
 barristership 1
