@@ -10784,7 +10784,7 @@ gallicolous
 gorki
 gazelles 1
 gonopodium
-gifts
+gifts 1
 gutterspout 1
 grandfatherhood 2
 gadoidea
