@@ -973,7 +973,7 @@ efreet
 eleve
 ensisternal
 equipping
-endowments
+endowments 1
 endorsements
 electrophoretic
 excusation
