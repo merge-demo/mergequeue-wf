@@ -274,7 +274,7 @@ doctordom 1
 disinflation
 dalmatics
 degeneracies
-distrustfulness
+distrustfulness 1
 diaclasite
 dahs
 day
