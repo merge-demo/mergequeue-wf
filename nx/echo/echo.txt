@@ -7102,7 +7102,7 @@ examinable
 extratabular
 enhancement
 ephods 1
-enheritance
+enheritance 1
 exclamation
 excitons
 engysseismology
