@@ -4134,7 +4134,7 @@ elasticity
 endocritic 2
 emballonurine 2
 employe
-edictum
+edictum 1
 epigene
 extund
 ejacula
