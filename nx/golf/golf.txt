@@ -6263,7 +6263,7 @@ gallify
 gynophagite
 gasogenes
 ginglymus 1
-geodesical
+geodesical 1
 golems
 gonfalons 1
 gallopade
