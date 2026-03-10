@@ -25005,7 +25005,7 @@ carnivora
 cordeau
 coldheartedly
 cordel
-cordelia
+cordelia 1
 cordelle
 crankish
 crushableness
