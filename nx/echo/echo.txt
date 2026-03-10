@@ -12705,7 +12705,7 @@ enclave
 emparadise
 exodontics
 endorsor
-estrogenically
+estrogenically 1
 epilachna
 etoffe
 extuberate 1
