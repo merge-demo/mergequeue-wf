@@ -18072,7 +18072,7 @@ desmidiaceae 1
 deflexing 2
 dropforge
 demihearse
-dubitation
+dubitation 1
 dormilona
 dulness
 dreadful
