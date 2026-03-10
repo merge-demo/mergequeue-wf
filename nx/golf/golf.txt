@@ -8237,7 +8237,7 @@ gesling
 gentlemanlike
 gracilaria
 glutinous
-gravid
+gravid 1
 gladlier
 grano
 gulfwards
