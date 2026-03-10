@@ -22896,7 +22896,7 @@ commoves
 chittering
 continuatively
 choisya
-collapsable
+collapsable 1
 conservator
 conservatory
 costocoracoid
