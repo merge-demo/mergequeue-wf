@@ -12821,7 +12821,7 @@ awkward
 acinetaria
 autocystoplasty
 afterdeath
-autotype
+autotype 1
 adenine
 alogical
 apyrase

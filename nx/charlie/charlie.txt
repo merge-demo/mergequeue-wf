@@ -4626,7 +4626,7 @@ chlortetracycline
 carnivore
 carnivorism
 cinefaction
-coherer
+coherer 1
 cavalcading
 creeping
 cyanea
