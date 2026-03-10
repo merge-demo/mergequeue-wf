@@ -15489,7 +15489,7 @@ doni
 deliquesced
 descanter
 disaffection
-defencelessly
+defencelessly 1
 duckies
 disvalued
 derobe
