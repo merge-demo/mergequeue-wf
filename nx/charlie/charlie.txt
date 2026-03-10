@@ -19406,7 +19406,7 @@ colorful
 colorfulness 1
 chryslers
 contestability
-colorific
+colorific 1
 colorifics
 cingular
 colorimetrically
