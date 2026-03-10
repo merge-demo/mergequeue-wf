@@ -13017,7 +13017,7 @@ ensnarls
 exhaust
 expectorant
 entame 1
-epithelialize
+epithelialize 1
 excitation
 expectorated
 enneahedria
