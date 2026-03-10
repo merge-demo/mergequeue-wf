@@ -6185,7 +6185,7 @@ analogion 1
 arsonic
 adyton
 autarkic
-antioptimist
+antioptimist 1
 anachronically
 agoutis
 arthrodynic
