@@ -2802,7 +2802,7 @@ explorations
 ebracteate 2
 edaphosauria
 expolish
-eutropic
+eutropic 1
 equipartition
 epidiplosis
 extrathoracic
