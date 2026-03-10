@@ -13440,7 +13440,7 @@ delicately 1
 dismarble
 dracunculus
 deepfreezed
-disemboweled
+disemboweled 1
 disform 1
 diffusion
 dennstaedtia
