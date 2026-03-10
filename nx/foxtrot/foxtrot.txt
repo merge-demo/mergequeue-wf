@@ -7601,7 +7601,7 @@ fevering
 ferruler
 foreconclude
 flagonet 1
-faerie
+faerie 1
 forwent
 ficoidal
 foggier
