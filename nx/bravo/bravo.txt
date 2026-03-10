@@ -2060,7 +2060,7 @@ beflecking
 bank
 boxtop
 bankalachi
-bidactyl
+bidactyl 1
 bloodstones
 bankcard 1
 bethought
