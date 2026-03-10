@@ -3312,7 +3312,7 @@ faveolate
 flingers 1
 farers
 filleter
-fortier
+fortier 1
 finity 1
 flirtationless
 feoffed
