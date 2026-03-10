@@ -12638,7 +12638,7 @@ ectogenic
 enigmaticalness
 equipped 1
 emeralds
-essancia 1
+essancia 2
 ergotize
 elateroid
 egurgitating
