@@ -11001,7 +11001,7 @@ dunderheads
 dryades
 duoliteral
 discongruity 1
-dyslexic
+dyslexic 1
 duodenum
 dutifulness
 diaspirin 1
