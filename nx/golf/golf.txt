@@ -8446,7 +8446,7 @@ gyring
 geodete
 gravelroot
 gubbertush
-goldbricks
+goldbricks 1
 gallican 1
 glaciarium 1
 gonytheca 1
