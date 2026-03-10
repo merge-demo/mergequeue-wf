@@ -112,7 +112,7 @@ encyclicals
 episyntheton
 epithelioma
 enthrallment
-enumerate
+enumerate 1
 equilibrial 1
 entone
 earreach
