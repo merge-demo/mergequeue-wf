@@ -3120,7 +3120,7 @@ garlandry 1
 ghassanid
 guacacoa
 greedygut
-gets
+gets 1
 ghilzai
 globulariaceae
 gnarrs 1
