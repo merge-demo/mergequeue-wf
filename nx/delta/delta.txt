@@ -2221,7 +2221,7 @@ diapalma
 dewar
 doddery
 dearsenicate
-divulgences
+divulgences 1
 duologues 1
 dispermy
 diocesan
