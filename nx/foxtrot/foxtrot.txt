@@ -8665,7 +8665,7 @@ forlorner 1
 freightless
 filterability
 futharks 1
-feet 1
+feet 2
 finestiller
 forborn
 fytte
