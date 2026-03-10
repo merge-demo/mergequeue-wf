@@ -2704,7 +2704,7 @@ gripeful
 geniture 1
 geodesists
 gerald
-gigful
+gigful 1
 genesiurgic
 guillotine
 gader
