@@ -4633,7 +4633,7 @@ empyreumatical 1
 ectostosis
 enajim
 endocrinous
-eminence
+eminence 1
 engaged 1
 electrometrically
 endows
