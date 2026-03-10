@@ -1489,7 +1489,7 @@ goutish 1
 glairing 1
 gerbille
 gorlin
-genapping
+genapping 1
 geological
 gasman 1
 gasbags
