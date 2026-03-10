@@ -4977,7 +4977,7 @@ achromatizing
 archaeology
 anciennete
 aurum
-altumal
+altumal 1
 athletically
 amalaka
 adscititiously
