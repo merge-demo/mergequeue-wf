@@ -2928,7 +2928,7 @@ fuzz
 foregahger
 flybook
 flumping
-featherweights
+featherweights 1
 fibber 1
 frumpiness
 fanciable
