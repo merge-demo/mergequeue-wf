@@ -10951,7 +10951,7 @@ fenetre
 ferromanganese 1
 frey
 furls 1
-flabbergast
+flabbergast 1
 franklinism
 flossier
 fantoddish
