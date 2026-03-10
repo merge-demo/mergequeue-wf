@@ -4860,7 +4860,7 @@ accessit
 abductors
 antepileptic 1
 aminities
-alismaceous
+alismaceous 1
 airplaning
 alomancy
 amoretti
