@@ -7499,7 +7499,7 @@ glial 1
 girdering
 glycolytic
 gnathostomata
-galenist
+galenist 1
 glaucophanize
 gangs
 garamond
