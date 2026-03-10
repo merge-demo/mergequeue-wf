@@ -14353,7 +14353,7 @@ duffel
 dispassionate
 didymoid
 decrial
-defervescent
+defervescent 1
 dentalising
 dittying
 denizen
