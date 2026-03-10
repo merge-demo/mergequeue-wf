@@ -9865,7 +9865,7 @@ countess
 chawer
 chemitypy
 chemizo
-colligated
+colligated 1
 chastizer
 chemokinetic
 chemolysis
