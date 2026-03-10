@@ -759,7 +759,7 @@ denies
 dandruffs 1
 dialytic
 deaden
-debile
+debile 1
 dovecote
 diuretical
 demissness
