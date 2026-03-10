@@ -15191,7 +15191,7 @@ awd
 antecedal
 adapa 1
 antifreeze
-antifriction
+antifriction 1
 axiform
 antifungal
 ataentsic
