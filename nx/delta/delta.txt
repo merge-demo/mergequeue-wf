@@ -12247,7 +12247,7 @@ despoiler 1
 dishonourer
 detector
 dentigerous
-dampers
+dampers 1
 deviators
 dysfunctions 1
 disfurnish
