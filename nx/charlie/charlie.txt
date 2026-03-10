@@ -29643,7 +29643,7 @@ crocodylus 1
 chronol
 counteraffirm
 croconic
-conoidal
+conoidal 1
 castellet
 crocosmia
 convictor
