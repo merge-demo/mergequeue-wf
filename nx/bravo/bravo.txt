@@ -5532,7 +5532,7 @@ banditism 1
 benefactive 1
 begnawn
 brandisher
-bubastite
+bubastite 1
 bruce 1
 beisance
 burh
