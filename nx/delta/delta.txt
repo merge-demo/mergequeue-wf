@@ -16444,7 +16444,7 @@ deliveryman
 deepwater
 decryption
 disnumber
-delegacies
+delegacies 1
 dwellings
 desmotrope
 disagreeables
