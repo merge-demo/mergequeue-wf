@@ -1513,7 +1513,7 @@ balker
 bastardise 1
 ballhausplatz
 byronize
-balkiness
+balkiness 1
 biacuru
 balking
 backbiter
