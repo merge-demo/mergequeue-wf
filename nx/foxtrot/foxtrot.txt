@@ -2891,7 +2891,7 @@ frabjously
 foaled
 flukeworm
 fibbers
-fractioning
+fractioning 1
 fettlings
 feminises
 fondlike
