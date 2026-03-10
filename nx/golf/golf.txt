@@ -2850,7 +2850,7 @@ gratuities
 gnatsnap 2
 gibbing
 glyptal
-golkakra
+golkakra 1
 gorier
 gynaeceum 1
 gallerylike
