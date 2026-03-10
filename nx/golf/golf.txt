@@ -2468,7 +2468,7 @@ glossier
 gatepost
 gastroalbuminorrhea 2
 gerousia
-gubbin
+gubbin 1
 gecks
 gendarmes
 gittith
