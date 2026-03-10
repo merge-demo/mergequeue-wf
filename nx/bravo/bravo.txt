@@ -10527,7 +10527,7 @@ bashlik
 bisyllabic
 berms
 beswarming
-barbicels
+barbicels 1
 bicylindrical
 breachers
 blastosphere
