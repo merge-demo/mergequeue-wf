@@ -9439,7 +9439,7 @@ gitksan
 garryaceae 2
 gibbed 1
 garbline
-gemming
+gemming 1
 glorify
 gleit
 gustless
