@@ -10432,7 +10432,7 @@ dipcoat
 disreputable
 dipetto
 darksomeness
-diphasic
+diphasic 1
 diphenhydramine
 diphenylamine
 diervilla
