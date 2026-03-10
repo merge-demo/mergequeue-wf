@@ -1862,7 +1862,7 @@ dobies
 disablement
 deborah
 diaphanotype
-deicate
+deicate 1
 deboss 1
 detractive
 debouche

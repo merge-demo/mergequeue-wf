@@ -16130,7 +16130,7 @@ cabarets
 cavettos 1
 climactery
 climacteric
-climacterically
+climacterically 1
 crimpage
 chaudron
 climactical
