@@ -5879,7 +5879,7 @@ economised
 epigramme
 endosteal
 exacerbescence
-exsiccate
+exsiccate 1
 emphrensy
 engrossedly 1
 engrosser
