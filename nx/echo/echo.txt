@@ -4066,7 +4066,7 @@ evangelised 1
 encyclopaedism
 enweaved
 embroils
-exophasic
+exophasic 1
 epitheca
 ecstasize
 exterminated
