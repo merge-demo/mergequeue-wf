@@ -13319,7 +13319,7 @@ evict
 emerged
 ensheath
 enantiomer
-epignathous
+epignathous 1
 extrorsely
 enlacing
 entozoarian
