@@ -7766,7 +7766,7 @@ forelook
 farmer 3
 facer
 fanfaronade
-flatfeet
+flatfeet 1
 fullerboard
 foxy 2
 fife
