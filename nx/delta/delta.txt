@@ -15540,7 +15540,7 @@ diocesian
 diathermize
 dielytra
 donzels 1
-doob
+doob 1
 demonstrators
 diazobenzene
 doodab
