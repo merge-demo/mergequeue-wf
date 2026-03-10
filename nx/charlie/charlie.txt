@@ -3820,7 +3820,7 @@ carbazylic
 cheerios 1
 civilist
 chuggers
-carbazole
+carbazole 1
 countering
 carbeen
 carbene
