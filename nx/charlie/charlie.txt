@@ -2073,7 +2073,7 @@ corrections
 cropper
 capitalizer
 chicomecoatl
-cruelize
+cruelize 1
 cultivar
 camouflageable
 camouflager
