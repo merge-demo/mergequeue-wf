@@ -3924,7 +3924,7 @@ durax
 doctorates
 donne
 delabializing
-delayable
+delayable 1
 demes
 delayful
 dyscrasic 1
