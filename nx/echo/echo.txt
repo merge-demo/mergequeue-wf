@@ -11196,7 +11196,7 @@ eighteenmos 1
 eclectics
 executing
 electrification
-exposure
+exposure 1
 evacuants 1
 earthdrake 1
 epaulet
