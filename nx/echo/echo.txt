@@ -12767,7 +12767,7 @@ endoplasm
 eucarpous
 eremochaetous
 entertissue
-esterifiable
+esterifiable 1
 elacolite
 eyesights
 employable

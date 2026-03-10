@@ -18531,7 +18531,7 @@ dured
 decollated
 disparting
 diagraphic
-dapperly
+dapperly 1
 disorganizers
 decriers
 decadal
