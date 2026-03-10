@@ -6767,7 +6767,7 @@ glucase
 gremials
 girders 1
 gatewayman
-gentlemanism
+gentlemanism 1
 grecize
 gelatiniform 1
 goodwill 2
