@@ -3615,7 +3615,7 @@ counterbase
 communbus
 cuplike
 conacaste
-chiropterygious
+chiropterygious 1
 capucine
 catalepsy
 capulet
