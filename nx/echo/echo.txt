@@ -13026,7 +13026,7 @@ englyns
 exchequers
 emplacement
 etatisms
-endocondensation
+endocondensation 1
 equivale
 exprimable
 ebons
