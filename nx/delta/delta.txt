@@ -12644,7 +12644,7 @@ dargsman
 decupled
 decretorian 1
 derning
-degradational
+degradational 1
 devocalizing
 disjaskit 1
 drubbings
