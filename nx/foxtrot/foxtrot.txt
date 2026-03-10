@@ -6524,7 +6524,7 @@ filmsetter
 fellah
 fluorescer
 frenchize
-firer
+firer 1
 faithful 1
 fellatrix
 forsar
