@@ -22320,7 +22320,7 @@ antimonopoly
 astringed
 artlike
 agete
-antipoints
+antipoints 1
 albumenisation
 aftergrind
 apoquinamine
