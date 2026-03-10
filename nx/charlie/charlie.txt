@@ -9847,7 +9847,7 @@ chemiloon 1
 crystallographic 1
 chemiotactic 1
 chemiotaxic
-carvone
+carvone 1
 chemiotaxis
 chemiotropic
 chemiotropism

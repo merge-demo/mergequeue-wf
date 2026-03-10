@@ -5142,7 +5142,7 @@ foamy
 fuligo
 fundless 1
 fumettes
-foy
+foy 1
 frsikets
 fletching
 furnishness
