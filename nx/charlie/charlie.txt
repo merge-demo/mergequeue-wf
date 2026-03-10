@@ -20579,7 +20579,7 @@ compendiums
 contenders
 counterterror
 coremia 1
-chalah
+chalah 1
 compensated
 cymbalom 1
 cerrero
