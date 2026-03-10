@@ -5701,7 +5701,7 @@ ghillies
 glossocele
 graian
 gantline
-gallant
+gallant 1
 guanyl
 grieshuckle
 gonapophysis 1
