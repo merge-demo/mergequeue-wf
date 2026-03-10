@@ -15590,7 +15590,7 @@ coxcombries
 clatterer
 calanid
 crucifier
-clattery
+clattery 1
 captainly
 chicaner
 capryl
