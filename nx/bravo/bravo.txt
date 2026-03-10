@@ -3791,7 +3791,7 @@ bowstringed
 beachwear
 battues
 bourdis 1
-bawcocks
+bawcocks 1
 bielded
 bicuspids
 blackening
