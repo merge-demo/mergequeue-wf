@@ -1742,7 +1742,7 @@ ductility
 deservings
 docent
 dermad
-dastur
+dastur 1
 doubleganger
 downlier
 dispersonify
