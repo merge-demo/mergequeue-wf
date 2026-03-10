@@ -13431,7 +13431,7 @@ disesteem
 decolourize 1
 disecondary
 dodgy 1
-dethronement
+dethronement 1
 deleing
 decedents
 disquisitions
