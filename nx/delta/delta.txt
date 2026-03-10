@@ -3200,7 +3200,7 @@ dipsadine
 dreynt
 drool
 demonolater
-dens
+dens 1
 dolichocnemic
 disapprobatory
 dogplate
