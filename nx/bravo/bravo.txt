@@ -4590,7 +4590,7 @@ beday
 babul
 biddable
 berakah 1
-birdstone
+birdstone 1
 benzoinated
 baldrib
 bedamned 1
