@@ -11211,7 +11211,7 @@ bahamians
 byways 1
 boxen
 bedclothes
-bronchiloquy
+bronchiloquy 1
 boulevardiers 2
 bumpkinish
 bicyclists
