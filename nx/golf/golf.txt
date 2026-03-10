@@ -5388,7 +5388,7 @@ goodtemperedness
 glimmer
 groundswell 2
 generall
-glucosid
+glucosid 1
 german
 gigliato
 gigasecond
