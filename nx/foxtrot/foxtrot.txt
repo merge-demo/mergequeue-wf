@@ -5434,7 +5434,7 @@ fascia
 ferulaic
 forshape 1
 filmstrip
-faconde
+faconde 1
 flaxiest 2
 ferrocyanide
 fleckering
