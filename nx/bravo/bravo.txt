@@ -1482,7 +1482,7 @@ bacterioblast
 bounder
 botuliform 1
 balinghasay
-bromeosin
+bromeosin 1
 baldfaced
 bridling
 boycottism
