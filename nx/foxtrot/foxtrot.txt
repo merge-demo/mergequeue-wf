@@ -6827,7 +6827,7 @@ fraxinus
 feering
 fulicinae
 fretworked
-foresworn
+foresworn 1
 felloe
 filesave
 focimetry
