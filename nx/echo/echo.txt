@@ -5256,7 +5256,7 @@ exactor
 entreatable
 eukaryote
 ecumenicity
-estimative
+estimative 1
 eleusine
 echevin
 evolves
