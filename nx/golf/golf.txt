@@ -4629,7 +4629,7 @@ graphometer 1
 gaonic
 glycyls
 gammick
-gironny
+gironny 1
 gyronny 1
 gamophyllous
 gelatinise
