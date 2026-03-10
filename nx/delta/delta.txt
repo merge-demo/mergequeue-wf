@@ -7974,7 +7974,7 @@ dhourras
 dotations
 defectology
 devove
-detonability 1
+detonability 2
 dezincifying
 doughboys
 dyeing
