@@ -12214,7 +12214,7 @@ anda
 arborise
 astylospongia
 analog
-antinous
+antinous 1
 atheromatous 1
 anaclete
 agnes 1
