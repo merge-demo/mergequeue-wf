@@ -13290,7 +13290,7 @@ cyclomyaria
 cyclonal 1
 cyclone
 collyba
-cyclonic
+cyclonic 1
 cyclonite
 cyclonology
 countertack 1
