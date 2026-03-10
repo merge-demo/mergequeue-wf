@@ -14975,7 +14975,7 @@ anticrisis 1
 anticritic
 anaglyptics
 anticritical
-astrose
+astrose 1
 anasarcas
 anisopodal
 attestant
