@@ -11308,7 +11308,7 @@ fusty 1
 formatted
 fgn
 foreguts
-fundamentality
+fundamentality 1
 fleabite
 fluorimetric
 faultfinding
