@@ -1584,7 +1584,7 @@ empaling
 eggnog
 exareolate
 epeirogenesis
-embrasures
+embrasures 1
 eggs
 endokaryogamy
 emplastra 1

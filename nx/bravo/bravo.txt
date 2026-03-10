@@ -10723,7 +10723,7 @@ bullweeds
 bestill
 blendwater
 broadish 1
-bakula
+bakula 1
 bibl
 bannock
 blenk
