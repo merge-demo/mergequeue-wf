@@ -8265,7 +8265,7 @@ camail
 cusconine
 calabrasella
 chalchuite 1
-chalcidian
+chalcidian 1
 chalcidicum
 caird
 chalcidoid
