@@ -4180,7 +4180,7 @@ gloy
 gutturize 1
 gosmore
 ges 1
-glutael
+glutael 1
 gregarian
 gaveled 1
 ganef
