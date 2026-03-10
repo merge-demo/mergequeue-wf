@@ -12210,7 +12210,7 @@ disambiguates
 demideify
 dichocarpism
 dribblement
-dysphonic
+dysphonic 1
 disrelate 1
 disfoliaged
 distich
