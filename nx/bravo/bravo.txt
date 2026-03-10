@@ -2936,7 +2936,7 @@ bobbling
 blennorrhagic
 braca
 battener
-buphthalmic
+buphthalmic 1
 blessedly
 bloedite
 becousined 1
