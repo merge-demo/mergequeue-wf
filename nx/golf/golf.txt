@@ -5241,7 +5241,7 @@ gyrovagi
 goofer
 gemmipara
 groovy
-glycose
+glycose 1
 glycosine
 golf
 garnished
