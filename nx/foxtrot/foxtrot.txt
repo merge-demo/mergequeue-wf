@@ -3910,7 +3910,7 @@ fripperies 1
 fevertrap
 footslogged
 findable
-fruz
+fruz 1
 flotas
 foiling
 function
