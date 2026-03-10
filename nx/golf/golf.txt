@@ -10080,7 +10080,7 @@ gingerol 1
 griffes
 groupoids
 gratuitously
-graecize
+graecize 1
 gainings
 gramophonically
 gilet 1
