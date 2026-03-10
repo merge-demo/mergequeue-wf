@@ -11600,7 +11600,7 @@ disconjure
 drinkless
 diabolifuge
 dispond
-dioestrus
+dioestrus 1
 dingily
 disconnectedness
 diphtheroidal
