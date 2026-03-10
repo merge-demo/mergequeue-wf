@@ -1315,7 +1315,7 @@ gieing 1
 gunky
 guideline
 garroter
-glacon
+glacon 1
 gary
 groundling
 gristbite
