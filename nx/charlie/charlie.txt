@@ -19420,7 +19420,7 @@ chirognomically
 colorin
 coloring
 colorisms
-cystous
+cystous 1
 coloristically
 cytophysiology 1
 cadded
