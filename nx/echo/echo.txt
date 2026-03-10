@@ -373,7 +373,7 @@ eisegesis
 entoperipheral
 euboic
 estang 1
-escapee
+escapee 1
 escots
 eurycerous
 extracultural
