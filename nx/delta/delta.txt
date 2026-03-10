@@ -13177,7 +13177,7 @@ derelicta
 dynastid 1
 demoralization
 dispersonate
-dysanagnosia
+dysanagnosia 1
 dismasting
 dandier
 demarcations
