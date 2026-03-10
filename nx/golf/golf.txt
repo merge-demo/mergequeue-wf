@@ -6995,7 +6995,7 @@ gentium 1
 glad
 geopolitic 1
 grottoes
-geologise
+geologise 1
 gossipry
 giddybrain
 gladdener
