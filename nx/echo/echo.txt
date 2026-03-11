@@ -4785,7 +4785,7 @@ exitance
 extensible 2
 ensnarements
 erythrol
-epanagoge
+epanagoge 1
 encoding
 exhausted
 equipostile 1

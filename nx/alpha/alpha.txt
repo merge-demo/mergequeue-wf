@@ -123,7 +123,7 @@ antiheroes
 assertive
 alienable
 aspidoganoidei
-aulostoma
+aulostoma 1
 anachueta
 amused
 afterwitted
