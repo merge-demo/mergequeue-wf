@@ -10330,7 +10330,7 @@ gonoph
 grot
 geomorphist
 geyan
-glebal
+glebal 1
 guarana 2
 gastroduodenostomies
 gaums
