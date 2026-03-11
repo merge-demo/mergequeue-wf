@@ -1553,7 +1553,7 @@ distressedness
 dalteen
 doublure
 deadlier
-droops
+droops 1
 docked
 drippings
 dices
