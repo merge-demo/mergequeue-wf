@@ -15487,7 +15487,7 @@ decrew
 debruising
 doni
 deliquesced
-descanter
+descanter 1
 disaffection
 defencelessly 1
 duckies
