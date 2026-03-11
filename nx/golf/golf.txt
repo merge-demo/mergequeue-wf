@@ -8290,7 +8290,7 @@ gyropigeon
 grammarians
 gospel
 garbled
-grippingness
+grippingness 1
 gleave
 gaseosity
 gastraeadae
