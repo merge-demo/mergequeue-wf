@@ -9156,7 +9156,7 @@ chase
 chaseable
 compellability
 coordinately 1
-counterpaly
+counterpaly 1
 chases
 chashitsu
 castigation
