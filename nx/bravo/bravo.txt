@@ -15820,7 +15820,7 @@ bonne 1
 bastide
 blare
 blowoff
-beshame
+beshame 1
 brokage 1
 bishophood
 bulletin
