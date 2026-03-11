@@ -7343,7 +7343,7 @@ gossep
 graphs
 gunation
 galactin
-geologist
+geologist 1
 gaggler
 graphometry
 governorate

@@ -2955,7 +2955,7 @@ anthema
 ashless
 antiheroism
 actinias
-actinic
+actinic 1
 akene
 antitropical
 aulostomi
