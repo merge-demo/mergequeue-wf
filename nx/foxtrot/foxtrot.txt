@@ -9395,7 +9395,7 @@ functionary
 fastenings
 fence
 frails
-furniment
+furniment 1
 foolhead
 fiberize
 fracturable
