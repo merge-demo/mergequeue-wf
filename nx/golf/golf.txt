@@ -5240,7 +5240,7 @@ gaited
 gyrovagi
 goofer
 gemmipara
-groovy
+groovy 1
 glycose 1
 glycosine
 golf
