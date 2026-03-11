@@ -3153,7 +3153,7 @@ daneflower
 discolorment
 defect
 depiction
-detribalization
+detribalization 1
 divots
 defecting
 doltishness
