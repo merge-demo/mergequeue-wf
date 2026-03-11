@@ -15068,7 +15068,7 @@ clackety
 coexertion
 clacking
 clacks
-clad
+clad 1
 confated
 characterizations 1
 cladanthous
