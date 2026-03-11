@@ -11452,7 +11452,7 @@ antihypertensive
 androdioecism
 acheweed
 abscessed
-acute
+acute 1
 apathus
 aerobate
 assewer
