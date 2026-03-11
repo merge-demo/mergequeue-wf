@@ -12015,7 +12015,7 @@ anathematisation
 anathematise
 amour
 administer
-alchemize
+alchemize 1
 antambulacral
 accepter
 artou
