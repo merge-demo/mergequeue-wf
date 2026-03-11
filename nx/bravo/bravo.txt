@@ -13796,7 +13796,7 @@ bescurf
 bufflehorn
 bovaristic
 burgout
-bovate 1
+bovate 2
 besmirching
 bannermen 1
 bejig 1
