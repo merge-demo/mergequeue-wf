@@ -12041,7 +12041,7 @@ archeopteryx
 anatomicopathologic
 arteriofibrosis
 anatomiser
-arouse
+arouse 1
 adulterates
 anatomize
 advisiveness
