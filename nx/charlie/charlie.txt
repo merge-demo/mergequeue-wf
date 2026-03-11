@@ -21874,7 +21874,7 @@ counterdecree
 confact
 crowsteps
 cigarito
-considerativeness
+considerativeness 1
 cithers
 confarreated
 coportion
