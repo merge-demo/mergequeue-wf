@@ -1542,7 +1542,7 @@ efl
 endocystitis
 entocondylar
 endophytous
-excavate 1
+excavate 2
 electionary 1
 echograph
 entomophilous
