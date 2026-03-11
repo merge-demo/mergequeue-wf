@@ -2055,7 +2055,7 @@ gleeked 1
 guideboard
 ghosty
 gunbuilder
-gutlessness
+gutlessness 1
 gillied
 glutted
 gavots 1
