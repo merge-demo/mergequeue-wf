@@ -12539,7 +12539,7 @@ arrayan
 aboideaux
 aesopic
 advene
-allochroite
+allochroite 1
 assinuate
 algosis 1
 arithmetician 2
