@@ -6867,7 +6867,7 @@ centaurus
 casketing
 curdly
 cementers
-cellular
+cellular 1
 caloris 1
 carbonatization
 cornicular
