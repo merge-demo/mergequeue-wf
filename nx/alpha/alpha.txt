@@ -6856,7 +6856,7 @@ autogamic
 ashot 1
 awning 1
 antiferromagnet
-aitch
+aitch 1
 asphaltene
 angeldom
 athreptic
