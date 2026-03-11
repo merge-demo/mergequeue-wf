@@ -1348,7 +1348,7 @@ gymnic
 gelogenic 1
 gynostegia 1
 germanely
-green
+green 1
 gerodermia
 gasteralgia
 guidership
