@@ -3337,7 +3337,7 @@ definitions 1
 dilatant
 downcrying
 diastem
-dodginess
+dodginess 1
 derbukka
 desisted
 destiny
