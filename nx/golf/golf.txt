@@ -6023,7 +6023,7 @@ geld
 gyttja
 golcondas 2
 gairfowl 1
-gnawers
+gnawers 1
 guan 1
 gnathopodite
 gneissic
