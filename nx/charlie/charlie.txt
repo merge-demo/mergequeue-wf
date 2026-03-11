@@ -20554,7 +20554,7 @@ curies
 compelled
 carpogenic
 coxofemoral
-crumpling
+crumpling 1
 coachwork
 clarkia
 costerdom
