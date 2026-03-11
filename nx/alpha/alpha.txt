@@ -17003,7 +17003,7 @@ anthropologic 2
 archimorula
 astrophotometry
 ascitic
-anthesis
+anthesis 1
 auriscalp
 apocynthion
 apocynthions
