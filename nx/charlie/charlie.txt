@@ -18197,7 +18197,7 @@ coercive
 celestas
 campaigners
 coerciveness
-coercivity
+coercivity 1
 coerebidae
 cauma
 cohost
