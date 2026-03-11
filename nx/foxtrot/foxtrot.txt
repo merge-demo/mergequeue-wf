@@ -4517,7 +4517,7 @@ fluidifying
 frowst 1
 flatting
 forlane
-frescade
+frescade 1
 freehandedly
 footrace 1
 feely
