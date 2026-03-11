@@ -8271,7 +8271,7 @@ demobilize 1
 dodecahedric
 diagrammer
 disadvantageously
-dependancy
+dependancy 1
 dynamiting
 dagesh
 desonation
