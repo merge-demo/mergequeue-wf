@@ -11957,7 +11957,7 @@ digestion
 dyeleaves 1
 disembarked 1
 demephitize
-dietetical
+dietetical 1
 disembarking
 denominationally
 disbloom
