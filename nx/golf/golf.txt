@@ -4981,7 +4981,7 @@ gymnospermal
 groundly
 gallantize
 gingelis
-germanization
+germanization 1
 guemal
 ganof
 gastrelcosis
