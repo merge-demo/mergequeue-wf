@@ -288,7 +288,7 @@ flooders
 fairly
 fried
 folk
-fotive
+fotive 1
 flakily
 forecasters
 flock
