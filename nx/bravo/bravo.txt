@@ -5259,7 +5259,7 @@ batzen
 begass
 bitless
 begats
-bani
+bani 1
 bolters
 bastes 2
 beshell 1
