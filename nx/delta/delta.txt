@@ -15903,7 +15903,7 @@ digammic
 dialectologic
 discoid 1
 dynamitic 1
-distasting
+distasting 1
 deprivers
 doted
 durocs
