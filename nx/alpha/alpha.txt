@@ -5376,7 +5376,7 @@ attuned
 antiputrid
 administrator
 aerobiological 1
-afrormosia
+afrormosia 1
 aft
 afteract
 appetitive
