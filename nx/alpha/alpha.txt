@@ -21822,7 +21822,7 @@ assignability
 ataunt
 atoningly
 assumptiveness
-assignably
+assignably 1
 ambiparous 1
 aerophilous
 antimeningococcic
