@@ -5595,7 +5595,7 @@ glochid 1
 garnice
 gemuti
 gradable
-glottochronological
+glottochronological 1
 geophilidae
 governeress
 gravity
