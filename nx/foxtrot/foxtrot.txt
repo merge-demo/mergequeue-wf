@@ -9476,7 +9476,7 @@ frangulaceae
 fiumara
 firebrick
 farragos
-fratry
+fratry 1
 flockowner 1
 ferruginean
 formalness
