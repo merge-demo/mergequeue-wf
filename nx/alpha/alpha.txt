@@ -18136,7 +18136,7 @@ aeolid
 anticontagiousness 1
 autolytic
 aquarius
-apothegm
+apothegm 1
 astint
 anacusia
 adequately
