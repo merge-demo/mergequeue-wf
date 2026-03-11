@@ -8578,7 +8578,7 @@ billbug
 biller
 blackeye
 brantcorn
-bisexuals
+bisexuals 1
 billeted
 bilabe
 barman
