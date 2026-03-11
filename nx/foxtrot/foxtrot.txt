@@ -3056,7 +3056,7 @@ fibril 1
 fuzing
 fluorin
 frounceless
-freend
+freend 1
 fatstock
 finances
 fastidium
