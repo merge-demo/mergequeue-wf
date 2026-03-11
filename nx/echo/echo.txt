@@ -13309,7 +13309,7 @@ eglantine
 etches 1
 electrohomeopathy
 earner
-exasperation
+exasperation 1
 eyeshield
 empierce
 expatriate
