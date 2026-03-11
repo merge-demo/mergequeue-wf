@@ -5626,7 +5626,7 @@ cataloes
 cardias
 cataloged
 character 1
-counseling
+counseling 1
 coelomatic
 curtailed
 coplots
