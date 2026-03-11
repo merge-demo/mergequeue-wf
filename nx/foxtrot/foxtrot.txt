@@ -8617,7 +8617,7 @@ freit
 fullfil 1
 fissionable
 fungating
-farmsteading
+farmsteading 1
 flexor
 firedragon 1
 forcipulata
