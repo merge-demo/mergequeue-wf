@@ -6358,7 +6358,7 @@ gasproof
 grumpier
 glassworks
 granulitis 1
-geoponic
+geoponic 1
 goidelic
 goldeyes
 gastroscopies
