@@ -9173,7 +9173,7 @@ exumbrella
 extraduction
 elidible
 esrog
-extravehicular
+extravehicular 1
 echinospermum
 endotheca 1
 ecumenistic
