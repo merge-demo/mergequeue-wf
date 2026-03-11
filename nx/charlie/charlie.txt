@@ -29468,7 +29468,7 @@ correctedness
 cueist
 cerographic
 circuiter
-classis
+classis 1
 crystallising 2
 crystallites
 coilyear
