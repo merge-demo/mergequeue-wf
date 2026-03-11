@@ -1571,7 +1571,7 @@ dhanush
 demand
 determinatively
 deadlocking
-decipolar
+decipolar 1
 duplicia
 direfulness
 dairyman 1
