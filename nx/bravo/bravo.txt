@@ -4289,7 +4289,7 @@ berbamine
 blattariae
 belite
 barest
-burgonet
+burgonet 1
 beaverism
 besagne
 beriming 1
