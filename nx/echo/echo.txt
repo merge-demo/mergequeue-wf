@@ -9677,7 +9677,7 @@ erminois
 epilogize 1
 excitable
 ensearcher
-expended
+expended 1
 execrative
 erythroplastid
 enhancements
