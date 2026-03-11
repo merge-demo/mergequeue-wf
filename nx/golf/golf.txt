@@ -10635,7 +10635,7 @@ galbulus
 gynodioecious
 gerontologies
 gelation
-giganticness
+giganticness 1
 gasconade
 gargets 1
 grandiloquent
