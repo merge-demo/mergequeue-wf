@@ -6511,7 +6511,7 @@ fistulariidae
 flapjack
 floretty
 froisse
-fraktur
+fraktur 1
 floriage 1
 fluorenes
 footbaths
