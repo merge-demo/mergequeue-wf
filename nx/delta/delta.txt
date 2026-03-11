@@ -15042,7 +15042,7 @@ doggerelism
 dunnaging
 doggerelizing
 diphthongising
-disrout
+disrout 1
 durnedest
 decided
 disbutton
