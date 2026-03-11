@@ -4598,7 +4598,7 @@ gastronomist 1
 generalizing
 gaunty
 germanyl
-gruys
+gruys 1
 gusseting
 grister
 gyrodactylidae
