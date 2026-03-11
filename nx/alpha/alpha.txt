@@ -11074,7 +11074,7 @@ attainability
 amygdonitrile
 apocyneous
 amphibolitic
-abolishable
+abolishable 1
 astrospherecentrosomic
 amphibologies
 aftermaths
