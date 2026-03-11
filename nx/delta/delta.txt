@@ -15648,7 +15648,7 @@ dopier
 dogstone 2
 drabness
 desi
-docile
+docile 1
 dunce
 didrachma 1
 distemperoid
