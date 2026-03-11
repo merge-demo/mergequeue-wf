@@ -11294,7 +11294,7 @@ exceptionably
 exponent
 effulgently
 enterprises
-eyedropper
+eyedropper 1
 extravagantness
 empowers 1
 empyreans
