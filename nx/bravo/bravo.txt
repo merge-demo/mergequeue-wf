@@ -1165,7 +1165,7 @@ bridgeway
 ballasting
 balladized 2
 breakability
-baiza 1
+baiza 2
 baizas
 bajardo
 birrs
