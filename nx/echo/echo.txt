@@ -12929,7 +12929,7 @@ extra
 eupepsies
 effortfulness
 eatables
-erupturient
+erupturient 1
 ecorticate
 exploitative
 enclasping
