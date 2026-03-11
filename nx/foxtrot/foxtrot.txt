@@ -1589,7 +1589,7 @@ flook
 formidability
 favosites 2
 featlier
-flexors
+flexors 1
 finer
 forenamed
 florae
