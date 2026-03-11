@@ -10850,7 +10850,7 @@ fussification 2
 fulcrumage
 fontanels 1
 fluxweed 1
-flamefish
+flamefish 1
 furoin
 farset 1
 fishpool
