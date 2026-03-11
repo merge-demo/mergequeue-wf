@@ -2156,7 +2156,7 @@ fliskiest 2
 federalness
 frontpiece
 felony
-foreignership
+foreignership 1
 fractioned
 frontiers
 flectional 1
