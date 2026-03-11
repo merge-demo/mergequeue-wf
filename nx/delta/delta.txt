@@ -2608,7 +2608,7 @@ diogenes
 dispose 1
 decolors
 duopsonies
-daedalean
+daedalean 1
 denunciated 1
 dogmatism
 decempeda
