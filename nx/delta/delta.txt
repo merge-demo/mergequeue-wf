@@ -8551,7 +8551,7 @@ diaphysis
 dracontiasis
 druggists 1
 diaphone
-drinks
+drinks 1
 diaphones
 drys
 deflex 1
