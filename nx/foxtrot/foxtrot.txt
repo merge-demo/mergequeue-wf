@@ -10782,7 +10782,7 @@ formlessly
 fruticose 1
 flayflint
 femme
-fatalism
+fatalism 1
 frisks
 fade
 fascisticize
