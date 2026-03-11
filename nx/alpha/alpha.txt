@@ -6615,7 +6615,7 @@ aimore
 architecturally
 aims
 avidness
-aimworthiness
+aimworthiness 1
 argentiferous
 amphimictical
 antagonizes
