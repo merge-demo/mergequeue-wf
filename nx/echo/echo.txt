@@ -6473,7 +6473,7 @@ eponymize
 encroachment
 effusions
 extensionless
-embroideries
+embroideries 1
 exorcise
 ethiopian 1
 ensorceled 3
