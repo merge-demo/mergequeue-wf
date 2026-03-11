@@ -7204,7 +7204,7 @@ dehiscence
 demultiplexing
 disinfecter
 darting
-detar
+detar 1
 dumbfounderment
 decals
 disenchantingly 1
