@@ -717,7 +717,7 @@ dnieper
 defrays 1
 decontaminators
 dandifying 1
-dories
+dories 1
 diselectrification 1
 didnt
 diselenide
