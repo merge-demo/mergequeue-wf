@@ -5626,7 +5626,7 @@ gubernacular
 geyserine
 gingalls
 gite
-gastralgic
+gastralgic 1
 gobbling 1
 growsome
 glaringly
