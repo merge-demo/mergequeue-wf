@@ -7216,7 +7216,7 @@ extraequilibrium
 enwallow
 enascent
 eunomianism
-earthshine
+earthshine 1
 endymion
 eposes 1
 exudative 1
