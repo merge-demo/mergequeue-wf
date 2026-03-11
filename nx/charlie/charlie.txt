@@ -11033,7 +11033,7 @@ cannibalizes
 cheapens
 chiselers
 combinableness
-conglobulate
+conglobulate 1
 calorify
 chiseling 1
 comprobation
