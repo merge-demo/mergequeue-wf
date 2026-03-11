@@ -3264,7 +3264,7 @@ fable
 flippant
 fortieths
 freehearted
-fingan
+fingan 1
 floors
 fluorinate
 foreknowledge 1
