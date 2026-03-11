@@ -3147,7 +3147,7 @@ bibliothec 1
 benzedrine 1
 baculite
 bilks
-blabby
+blabby 1
 bondsmen
 brewises
 bloodcurdler
