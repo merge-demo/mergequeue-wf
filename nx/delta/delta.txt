@@ -4555,7 +4555,7 @@ disusing
 detected
 digitigrade 1
 decretal
-demiox
+demiox 1
 dharmasmriti
 dejecting
 dights 1
