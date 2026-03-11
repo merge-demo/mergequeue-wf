@@ -10248,7 +10248,7 @@ galeproof
 getid
 gempylid 1
 gobinism 2
-gastrectasis
+gastrectasis 1
 gynecophore
 gutturalization
 gytling 1
