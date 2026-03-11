@@ -21677,7 +21677,7 @@ amidoacetophenone
 armload
 alpinely
 anabasine
-asseal
+asseal 1
 arad 1
 anagua
 assecure
