@@ -994,7 +994,7 @@ endocardium
 epoxied
 entada
 ethnarch
-ecttypal
+ecttypal 1
 equates
 exploit
 ecumenacy
