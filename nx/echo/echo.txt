@@ -8683,7 +8683,7 @@ enzymotic
 euonym
 extractor
 enervous
-expels
+expels 1
 ectoplasmic 1
 elutriating
 emergently 1
