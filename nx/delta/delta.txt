@@ -11741,7 +11741,7 @@ decancellation
 deplume
 discradle
 dockhands
-detectable
+detectable 1
 diem
 disciferous
 dietetics
