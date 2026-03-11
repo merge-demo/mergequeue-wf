@@ -992,7 +992,7 @@ gnathonize
 gatetender 1
 gametange
 gigantic
-ganger
+ganger 1
 guesten 1
 genthite
 golder
