@@ -20718,7 +20718,7 @@ atrichosis
 agitation 1
 angami
 acidulant
-articularly
+articularly 1
 axonemes
 articulars
 accessively
