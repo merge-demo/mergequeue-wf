@@ -8470,7 +8470,7 @@ foliobranchiate
 fanging 1
 fatbrained
 formazan
-fevergum
+fevergum 1
 furiant
 featherfew 1
 feasibilities
