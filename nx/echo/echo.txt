@@ -4759,7 +4759,7 @@ encloister
 eyren
 executions 1
 exodos
-enamorate
+enamorate 1
 endosmosic
 excircle
 evites
