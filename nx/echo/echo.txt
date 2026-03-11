@@ -5295,7 +5295,7 @@ eosinophil
 earthliest
 exuberation
 ernest
-estocs
+estocs 1
 ergodicity 2
 ebionite 1
 endosclerite
