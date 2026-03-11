@@ -8619,7 +8619,7 @@ fissionable
 fungating
 farmsteading 1
 flexor
-firedragon 1
+firedragon 2
 forcipulata
 friborg
 fanegada
