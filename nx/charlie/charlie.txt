@@ -8394,7 +8394,7 @@ cacotype 1
 chrysolophus
 centroid
 chamberleted 1
-ceratorhine
+ceratorhine 1
 cystin
 camanchaca
 callosity

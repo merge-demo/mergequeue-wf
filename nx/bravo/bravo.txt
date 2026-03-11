@@ -6678,7 +6678,7 @@ borachio
 bacterizing 1
 bacillian
 ballottable
-baseband
+baseband 1
 beneficences
 bookery 1
 broughtas
