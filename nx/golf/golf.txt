@@ -4193,7 +4193,7 @@ granuloblastic
 geomagnetic 1
 gumtrees 1
 gimped
-gimpier
+gimpier 1
 guidable
 gresil
 gravitometer
