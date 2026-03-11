@@ -13386,7 +13386,7 @@ basivertebral
 bardesanist
 baggers
 batons 1
-bellicosity
+bellicosity 1
 bombyxes
 bunder
 bothnian
