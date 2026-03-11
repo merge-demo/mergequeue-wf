@@ -19358,7 +19358,7 @@ aristolochia
 assure
 arrayer
 acolytus
-allergins
+allergins 1
 anoplothere
 antimalarial
 accusations
