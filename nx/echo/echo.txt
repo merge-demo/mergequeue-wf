@@ -315,7 +315,7 @@ expiries
 endosmose
 easterling
 exhumers 1
-epigoneion
+epigoneion 1
 enqueue
 endognath
 exomphalos
