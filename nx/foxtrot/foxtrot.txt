@@ -8998,7 +8998,7 @@ flagstaff
 fiacre 1
 freethinking
 fructiferously
-frigorific
+frigorific 1
 ferrimagnetism
 folded
 feverwort
