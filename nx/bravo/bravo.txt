@@ -6778,7 +6778,7 @@ bartender
 busway
 bushiest
 berry
-buchnerite
+buchnerite 1
 binturong
 banshee
 bitte 1
