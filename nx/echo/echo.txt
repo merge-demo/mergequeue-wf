@@ -8735,7 +8735,7 @@ erratum
 egocentrism
 edulcoration 1
 externalise
-extravaganzas
+extravaganzas 1
 eluate
 escopet
 equisetaceous

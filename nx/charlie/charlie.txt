@@ -11,7 +11,7 @@ cabaho
 cabal
 condylarthrous
 chaenomeles
-cows
+cows 1
 corkmaking 1
 cabaletta
 cortinae
