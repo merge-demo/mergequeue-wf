@@ -3512,7 +3512,7 @@ egested
 ennuyant 1
 egads 1
 environ
-ecalcavate
+ecalcavate 1
 encolour
 epizoites
 errand
