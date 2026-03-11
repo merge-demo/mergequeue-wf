@@ -2662,7 +2662,7 @@ farmyardy
 fantast
 fabric
 feltman
-falanaka
+falanaka 1
 flowerful 2
 forwoden
 freshes
