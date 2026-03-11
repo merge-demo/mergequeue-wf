@@ -1567,7 +1567,7 @@ batterdock
 balete
 bootleg
 baralipton
-blackware 1
+blackware 2
 baronetised
 blacktopping
 beeherd
