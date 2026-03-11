@@ -9653,7 +9653,7 @@ ewer
 endoblast 1
 encense
 equipper
-entia
+entia 1
 enthral
 epenthesize
 exarchic
