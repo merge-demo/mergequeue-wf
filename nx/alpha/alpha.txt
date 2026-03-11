@@ -17204,7 +17204,7 @@ allosematic
 archipterygial
 antitank
 apoop
-aquarii
+aquarii 1
 apophatic
 arrendation
 atonements
