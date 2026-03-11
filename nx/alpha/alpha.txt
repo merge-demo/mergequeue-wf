@@ -16263,7 +16263,7 @@ aitchless
 adamants
 anhydrosis
 adenometritis
-arborvitae
+arborvitae 1
 armarium
 accusive
 antitragicus
