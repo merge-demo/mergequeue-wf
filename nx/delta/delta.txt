@@ -1394,7 +1394,7 @@ dechoralize
 deportation
 diazomethane 2
 dawdling
-dibbed
+dibbed 1
 decennial
 damnit
 developes
