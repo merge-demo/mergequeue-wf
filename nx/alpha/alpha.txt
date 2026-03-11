@@ -21529,7 +21529,7 @@ asphyxias
 auxoaction 2
 antiphase
 asphyxiating
-abuna
+abuna 1
 attern
 athapaskan
 abortionists
