@@ -2467,7 +2467,7 @@ grandity
 glossier
 gatepost
 gastroalbuminorrhea 2
-gerousia
+gerousia 1
 gubbin 1
 gecks
 gendarmes
