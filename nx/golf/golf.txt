@@ -9700,7 +9700,7 @@ gascons
 goldfields
 grumous 1
 gowaned
-gallowsmaker
+gallowsmaker 1
 gelable 1
 grubbiest
 gratefuller
