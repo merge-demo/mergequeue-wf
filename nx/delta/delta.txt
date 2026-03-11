@@ -2208,7 +2208,7 @@ deacidify
 dissipativity
 dernier
 decasualise
-disgavel
+disgavel 1
 dialectological
 didymous
 disunionist
