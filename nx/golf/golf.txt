@@ -7626,7 +7626,7 @@ garbanzo
 glavering
 gipping 1
 gracilis 1
-geonic
+geonic 1
 gimblet
 gastrodialysis
 gyal
