@@ -6877,7 +6877,7 @@ fleshhook 1
 farinulent
 foederal
 forelay
-fountaineer
+fountaineer 1
 freehanded
 fatefulness
 fiendliness 1
