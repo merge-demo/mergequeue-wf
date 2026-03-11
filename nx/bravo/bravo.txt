@@ -1977,7 +1977,7 @@ boltin
 bisection
 bagnio
 babus
-balances
+balances 1
 bandstring
 bathymetric
 brandishes
