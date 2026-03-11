@@ -789,7 +789,7 @@ farmost
 forecovert 1
 fiddler
 fecundize
-floridities
+floridities 1
 funicle
 fluorines
 flunker
