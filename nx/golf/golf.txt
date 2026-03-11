@@ -10705,7 +10705,7 @@ geranic
 gonadectomies 1
 guayroto
 guilty
-gyascutus
+gyascutus 1
 gumma
 gunship
 gismondine
