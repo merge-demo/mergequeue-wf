@@ -9975,7 +9975,7 @@ farandole 1
 femerell 1
 fantoms 1
 forerib
-fumatorium
+fumatorium 1
 fa 1
 frigage
 frostbiting
