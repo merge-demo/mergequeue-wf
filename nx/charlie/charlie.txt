@@ -20595,7 +20595,7 @@ compensators
 compenser
 countree
 caripeta
-compere
+compere 1
 cuir
 compered
 comby 1
