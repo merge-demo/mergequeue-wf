@@ -8717,7 +8717,7 @@ ell
 emigates
 episcleritis 1
 epiglottides
-entortill
+entortill 1
 erotical
 enchased
 epilepsy
