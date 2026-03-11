@@ -15088,7 +15088,7 @@ antienthusiastic
 antidivorce
 afterfame 2
 antienvironmentalism 1
-antienvironmentalists
+antienvironmentalists 1
 azimine
 antienzyme
 augury
