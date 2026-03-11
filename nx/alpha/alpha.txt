@@ -20750,7 +20750,7 @@ acidulate
 altitonant
 artifactually
 ascents
-appropriately
+appropriately 1
 arbalests
 acanthad
 aerobiology
