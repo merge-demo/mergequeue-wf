@@ -9841,7 +9841,7 @@ enslumber
 endolymphic
 exocannibalism
 eclipsation
-eatage
+eatage 1
 esterization 1
 embarcation
 enterocrinin 1
