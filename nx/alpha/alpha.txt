@@ -13505,7 +13505,7 @@ aide
 anthems
 annullate
 autophagy
-apprizes
+apprizes 1
 aquafortis
 annulment
 autoaddress
