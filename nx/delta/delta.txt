@@ -11373,7 +11373,7 @@ desecrating 2
 despotisms
 deprecatively
 drippers
-discontinued
+discontinued 1
 dowset
 davens
 deprivate
