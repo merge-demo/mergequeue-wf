@@ -7779,7 +7779,7 @@ edelweisses 1
 ethinamate 1
 empasma 1
 executable
-epidiascope
+epidiascope 1
 embrocating
 embosom 2
 exchanger
