@@ -7931,7 +7931,7 @@ farls
 foresail
 fasten
 forthwith
-floes
+floes 1
 fetticus
 feiseanna 1
 foresee
