@@ -10524,7 +10524,7 @@ fantasticality
 fettering 1
 fluorate
 forwearying
-fatness
+fatness 1
 frutescent
 fervencies
 fili
