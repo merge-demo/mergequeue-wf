@@ -6889,7 +6889,7 @@ gastight
 gilders 2
 groupthink
 grimnesses
-glaciologists
+glaciologists 1
 germany
 greekdom
 gametophobia
