@@ -1489,7 +1489,7 @@ entoparasite
 extensile 1
 existential
 euphuisms
-equitriangular
+equitriangular 1
 enarbour
 eelpout
 effort 1
