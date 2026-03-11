@@ -24687,7 +24687,7 @@ avenge
 anopubic 1
 abnegated 1
 actinomycin
-avengeful
+avengeful 1
 adventureship
 adenoiditis
 achaemenidae

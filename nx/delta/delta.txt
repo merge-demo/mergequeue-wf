@@ -14174,7 +14174,7 @@ doyst
 disulfonic 1
 dispread 1
 disjected
-defective
+defective 1
 demandingness
 disagree
 decrepit 1
