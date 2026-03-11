@@ -8235,7 +8235,7 @@ davainea 1
 ductus
 distrito
 deeding
-diagnosed
+diagnosed 1
 disenthroned
 disentitled
 diagnosticate
