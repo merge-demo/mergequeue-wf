@@ -267,7 +267,7 @@ foredivine
 foretimes
 fluffing
 firedamp 1
-flutter
+flutter 1
 fadge
 fermery
 fusile
