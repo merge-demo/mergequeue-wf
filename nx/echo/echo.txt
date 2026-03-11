@@ -9286,7 +9286,7 @@ epiperipheral
 endospermous
 egressing
 electra
-exonerative
+exonerative 1
 ergonomically
 etiolin
 exalting
