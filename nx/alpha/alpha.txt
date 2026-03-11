@@ -20584,7 +20584,7 @@ altazimuth
 arthritical
 afterswarm
 affrontingness
-arthritically
+arthritically 1
 analemma
 abseiling
 allophytoid
