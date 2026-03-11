@@ -1599,7 +1599,7 @@ encampment
 envigor
 exogeny
 equilobate
-essenis
+essenis 1
 endosperm
 electrosynthetically 1
 evections 1
