@@ -3209,7 +3209,7 @@ grammies
 gebur
 galoping
 giron
-gossypose
+gossypose 1
 girtonian
 gambeered
 glagol 1

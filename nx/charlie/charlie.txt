@@ -6807,7 +6807,7 @@ celestite
 celestitude
 clivias
 celiadelphus
-costard
+costard 1
 celibatic
 conducent
 cardin
