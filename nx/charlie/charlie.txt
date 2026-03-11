@@ -21967,7 +21967,7 @@ confidence 1
 confidency
 cosmogenic
 confident
-camphoid
+camphoid 1
 crystallite
 confidente
 compressibilities
