@@ -332,7 +332,7 @@ fag
 feint
 fulciment
 finagles
-finials
+finials 1
 fagaceae
 flatirons 1
 fulfillments
