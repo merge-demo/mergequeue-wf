@@ -4790,7 +4790,7 @@ cyl
 contagia
 cuestas
 conscient
-cerebellipetal
+cerebellipetal 1
 contagionist
 carpocarpal
 countersinking
