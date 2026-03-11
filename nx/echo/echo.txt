@@ -4435,7 +4435,7 @@ excentrical 1
 extispices
 e 1
 excoriation
-espacement
+espacement 1
 eddoes
 ejaculation
 entomion 1
