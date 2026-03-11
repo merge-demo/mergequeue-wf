@@ -4230,7 +4230,7 @@ benches
 bleery 1
 botling
 beatifical
-benchlet
+benchlet 1
 beatifically
 beatification
 blacktop
