@@ -11494,7 +11494,7 @@ euouae
 eli
 emys
 enteral 1
-entosarc
+entosarc 1
 empannel
 elitists
 echovirus
