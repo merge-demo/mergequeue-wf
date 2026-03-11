@@ -8408,7 +8408,7 @@ diallagic
 dogmaticalness 1
 deracine
 diallagite
-dhaks
+dhaks 1
 delisting
 defencive
 disparageable
