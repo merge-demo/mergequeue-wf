@@ -8823,7 +8823,7 @@ enticement
 eremitish
 epineolithic 1
 endothermal
-embossable
+embossable 1
 enround
 electrodepositable 1
 erections
