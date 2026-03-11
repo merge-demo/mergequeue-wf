@@ -8542,7 +8542,7 @@ didacts
 diaphanometric
 dampishness 1
 debateful
-dewfall
+dewfall 1
 douglas
 diaphyseal 2
 dermographia
