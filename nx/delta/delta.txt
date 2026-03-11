@@ -11345,7 +11345,7 @@ dethroned
 damolic
 demagogs
 dodecastylos
-disced
+disced 1
 dost
 deme
 denervate
