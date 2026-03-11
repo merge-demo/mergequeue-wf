@@ -5933,7 +5933,7 @@ anfeeld
 alcyonoid
 algodon
 actinobacillus
-agible
+agible 1
 agiel 1
 angor
 artistes
