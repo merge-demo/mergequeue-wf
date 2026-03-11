@@ -593,7 +593,7 @@ guineas
 gorgoniacea
 ghostweed
 graveside
-guessers
+guessers 1
 goulashes
 gurnets 1
 gramaries
