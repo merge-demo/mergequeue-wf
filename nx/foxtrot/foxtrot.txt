@@ -3655,7 +3655,7 @@ fundal 1
 furbelowed
 fargoing 1
 factories
-foursquareness
+foursquareness 1
 firlot
 furnaces
 fuchsia
