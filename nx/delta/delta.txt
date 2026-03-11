@@ -9617,7 +9617,7 @@ diddering 1
 druse
 dihalide
 deprecatingly
-doves
+doves 1
 disframe
 dreams
 dacoity
