@@ -1286,7 +1286,7 @@ acquisited
 amay
 afformative
 acarotoxic
-arcturus
+arcturus 1
 aumbries 1
 aerognosy
 australopithecine
