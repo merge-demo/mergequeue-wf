@@ -3966,7 +3966,7 @@ adm 1
 autoalarm
 ayelp
 azilut
-adman
+adman 1
 antiquatedness
 adulterant
 assertory
