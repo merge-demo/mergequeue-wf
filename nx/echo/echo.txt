@@ -5113,7 +5113,7 @@ ejectives
 elaeoblast 1
 enneaphyllous
 embolon
-engirt
+engirt 1
 enemylike
 epigrammatizing 1
 endocrinic 1
