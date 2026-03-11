@@ -2522,7 +2522,7 @@ dorn
 dialling
 disjudication
 dweller
-diachrony
+diachrony 1
 declassifies
 disequality
 disembarkations 1
