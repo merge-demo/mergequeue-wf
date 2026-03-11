@@ -11738,7 +11738,7 @@ damasse
 decerebrated
 discoverable
 decancellation
-deplume
+deplume 1
 discradle
 dockhands
 detectable 1
