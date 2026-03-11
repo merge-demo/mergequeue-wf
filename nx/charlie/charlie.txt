@@ -23315,7 +23315,7 @@ consumpted
 castigative
 corrasive
 coniophora
-consumptional
+consumptional 1
 consumptions
 consumptive
 consumptively
