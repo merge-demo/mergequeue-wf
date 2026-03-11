@@ -22291,7 +22291,7 @@ acetamidine
 achoke
 astream
 automates
-adamically
+adamically 1
 astrictive
 acronymizing
 axialities
