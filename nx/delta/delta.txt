@@ -1893,7 +1893,7 @@ dances
 debriefings
 debris
 diandrian
-disapprobations
+disapprobations 1
 debouched
 dextrous
 dacryd
