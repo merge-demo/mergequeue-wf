@@ -5487,7 +5487,7 @@ edematous
 energical
 energid 1
 ensuing
-eglamore
+eglamore 1
 endoplasmic 1
 extramundane
 energize
