@@ -9430,7 +9430,7 @@ gaelic
 gamble 1
 goto
 gingivoglossitis 1
-gramercies
+gramercies 1
 gingerliness
 glycollide
 gabionage
