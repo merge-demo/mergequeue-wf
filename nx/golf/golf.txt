@@ -4237,7 +4237,7 @@ geodetics
 gnu
 gynecocrat
 gastroscope
-gangliated
+gangliated 1
 gluttonized 1
 gibeonite
 guiltier
