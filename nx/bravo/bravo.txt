@@ -5611,7 +5611,7 @@ behoovingly
 brakie
 basinasal 1
 blousons
-burkha
+burkha 1
 boulanger
 by 1
 bhut
