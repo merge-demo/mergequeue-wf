@@ -3225,7 +3225,7 @@ balancers
 booklores
 botanies
 bhaga 1
-bollandist
+bollandist 1
 blastozooid
 bilio
 bassan
