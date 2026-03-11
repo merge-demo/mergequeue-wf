@@ -4932,7 +4932,7 @@ evocatory
 enfile
 endarteteria
 ensisternum
-eupterotidae
+eupterotidae 1
 euhemerize 2
 enticed
 exencephalic 1
