@@ -4752,7 +4752,7 @@ deanimalize
 diemaker
 dentalizing
 decametre
-diglyphic
+diglyphic 1
 dolphin
 datch
 desiderta
