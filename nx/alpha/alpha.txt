@@ -3566,7 +3566,7 @@ ajivas
 adelantado
 audiences 1
 antihuman 1
-adelarthra
+adelarthra 1
 alectryon
 antiromanticism
 ascosporous
