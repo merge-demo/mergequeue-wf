@@ -11857,7 +11857,7 @@ always
 archduchies
 acutangular
 attatches
-amalgamize
+amalgamize 1
 anaphylactically
 araliaceae
 anaemias
