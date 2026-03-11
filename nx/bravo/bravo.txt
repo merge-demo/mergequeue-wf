@@ -8195,7 +8195,7 @@ before
 bash
 banishes
 buffalos
-ballote
+ballote 1
 boyism
 brahmi
 biens
