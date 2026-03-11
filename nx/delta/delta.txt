@@ -7904,7 +7904,7 @@ dews
 didapper
 doublets
 dex
-dignify
+dignify 1
 democritean
 dresden
 dishonor
