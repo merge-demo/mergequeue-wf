@@ -9494,7 +9494,7 @@ calculated
 checker
 connected
 celeusma
-checkerbelly
+checkerbelly 1
 centrolepidaceous 1
 checkerbellies
 checkerberry
