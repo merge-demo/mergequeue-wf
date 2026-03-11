@@ -9476,7 +9476,7 @@ graduation
 griffonne
 gabled
 gis
-glandulosity
+glandulosity 1
 genitalial
 goa
 ganser
