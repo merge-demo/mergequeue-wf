@@ -19315,7 +19315,7 @@ anthracnose
 arbutus
 ankylos
 arcanite
-anthologizer
+anthologizer 1
 areopagite
 areopagitica
 anoxemia
