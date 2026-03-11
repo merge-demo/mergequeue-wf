@@ -8171,7 +8171,7 @@ gloat 1
 glowflies
 guestimating
 gelt
-gynaecocracy
+gynaecocracy 1
 grain
 goatling
 ganisters
