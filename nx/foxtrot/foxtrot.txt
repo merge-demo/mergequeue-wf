@@ -262,7 +262,7 @@ flakeboard
 farceuse
 faineant
 foetors
-foiled
+foiled 1
 foredivine
 foretimes
 fluffing
