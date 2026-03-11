@@ -8248,7 +8248,7 @@ empirics
 exigeant
 epiphany
 enkraal
-electrothermometer
+electrothermometer 1
 exorbitantly 2
 extinctive
 etwas 1
