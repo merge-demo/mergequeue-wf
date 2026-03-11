@@ -1257,7 +1257,7 @@ echidnas
 epipodite
 emotionless
 epimeric
-echinacea
+echinacea 1
 enures 1
 exceptionable
 equable
