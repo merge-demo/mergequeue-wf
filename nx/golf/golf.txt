@@ -10255,7 +10255,7 @@ gytling 1
 galerie 1
 gry
 gratifies
-galv
+galv 1
 garnel
 gote
 gracefulness
