@@ -24218,7 +24218,7 @@ aquosity
 artemia
 antherless
 autolithograph 1
-autoinfection
+autoinfection 1
 autolyzate
 anklejack
 alunites
