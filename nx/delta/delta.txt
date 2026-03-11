@@ -18369,7 +18369,7 @@ demonology
 degelation
 distributress
 dyestuff
-diallelon
+diallelon 1
 duodene
 diastereoisomerism
 dismantled
