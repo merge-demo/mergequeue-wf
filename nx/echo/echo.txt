@@ -10768,7 +10768,7 @@ employless 1
 egriot
 eulachan
 eulamellibranchiata
-electrical
+electrical 1
 ethylenically
 epitases
 etrier
