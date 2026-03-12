@@ -9986,7 +9986,7 @@ glegness
 googols
 gipsyfy
 galvayned 1
-greisen
+greisen 1
 gozell
 gazetted
 gaboons 1
