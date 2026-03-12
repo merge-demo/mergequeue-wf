@@ -10359,7 +10359,7 @@ blame
 bodywood
 biosis
 betise
-blamefulness
+blamefulness 1
 bezzant
 baroto
 bilewhit 1
