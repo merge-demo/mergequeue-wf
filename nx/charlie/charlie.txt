@@ -29508,7 +29508,7 @@ cysticercerci
 continuist
 conjunctional
 continental
-crystallometric
+crystallometric 1
 crystallose
 checkerboard
 coevality
