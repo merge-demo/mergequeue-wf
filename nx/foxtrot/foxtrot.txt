@@ -2457,7 +2457,7 @@ fantasticate 1
 footscraper
 frenchless
 filiation
-fervour
+fervour 1
 fallible
 floodmark
 forspeak
