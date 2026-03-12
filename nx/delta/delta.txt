@@ -1329,7 +1329,7 @@ dipentine 1
 demissive
 diploid
 dompt
-deadfall
+deadfall 1
 damagement
 dart
 dauntingness 1
