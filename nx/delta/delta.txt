@@ -15098,7 +15098,7 @@ deficits
 dogmatical
 dogmatically
 distylar 2
-diagrammable
+diagrammable 1
 disfrequent
 dogmatise
 dispensator
