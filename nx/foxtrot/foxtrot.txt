@@ -6599,7 +6599,7 @@ flytail
 fellatrices
 foetid
 floccose 1
-flawlessness
+flawlessness 1
 flagellum
 flutist
 fecit
