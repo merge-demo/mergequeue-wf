@@ -3365,7 +3365,7 @@ genotype
 gemitorial
 gilbertite
 guttiferal 1
-gundelet
+gundelet 1
 gigglingly
 gools
 grittily
