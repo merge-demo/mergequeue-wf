@@ -6742,7 +6742,7 @@ expertising
 encompasses
 entosclerite
 endogenously
-egall
+egall 1
 epulis
 egomanias 2
 espundia
