@@ -9987,7 +9987,7 @@ erythromelalgia 1
 esugarization 1
 entonement 1
 erugo
-entreatment
+entreatment 1
 electroform 1
 etalage
 endamnify
