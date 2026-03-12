@@ -6178,7 +6178,7 @@ guahibo
 gunkholing
 groupings
 glitches 1
-giantize
+giantize 1
 grandmaster
 grunter
 grimacier 1
