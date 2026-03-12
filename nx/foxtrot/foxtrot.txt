@@ -5217,7 +5217,7 @@ footropes
 flavoprotein
 foyers 1
 filtering
-flavanone
+flavanone 1
 flambes
 forz
 fadged 1
