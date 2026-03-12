@@ -2379,7 +2379,7 @@ clypeaster 1
 canards
 capitally
 canari
-canary
+canary 1
 crowberry
 cogs
 chinbones
