@@ -10766,7 +10766,7 @@ dissepimental
 delian
 dips
 dipsacaceous
-depriver
+depriver 1
 drad
 dun
 dandruff 1
