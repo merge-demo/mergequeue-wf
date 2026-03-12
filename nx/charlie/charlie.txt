@@ -19448,7 +19448,7 @@ colossean 2
 curling
 colosseum
 colossian
-coracoradialis
+coracoradialis 1
 charas
 colossians
 colosso
