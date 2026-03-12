@@ -907,7 +907,7 @@ goners 1
 gamps
 galloons
 garrottes
-giftedly
+giftedly 1
 goldenlocks
 gopher
 gumwood
