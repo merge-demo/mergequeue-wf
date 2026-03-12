@@ -11417,7 +11417,7 @@ dispress
 daredevil
 drawl
 dishfuls
-dolina
+dolina 1
 disciplinal
 derepress
 disquisited
