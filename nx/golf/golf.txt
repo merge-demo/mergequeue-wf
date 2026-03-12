@@ -6181,7 +6181,7 @@ glitches 1
 giantize
 grandmaster
 grunter
-grimacier
+grimacier 1
 gasterosteus
 goatfishes
 grammel
