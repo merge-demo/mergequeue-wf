@@ -6286,7 +6286,7 @@ fluctuational 1
 favositoid
 factioneer
 fluegelhorn 1
-febriferous 2
+febriferous 3
 fairgrounds
 forlana
 flaggings
