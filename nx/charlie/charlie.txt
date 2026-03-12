@@ -972,7 +972,7 @@ colourers 1
 chrysothamnus
 creasiest
 calamary
-calamariaceous
+calamariaceous 1
 centrifugalized
 consensually
 calamarmar
