@@ -2273,7 +2273,7 @@ drawnet
 damps
 disceptator
 downpipe
-discants
+discants 1
 decayer
 decennium
 decentering
