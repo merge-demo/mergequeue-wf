@@ -3824,7 +3824,7 @@ filigreeing 2
 formosan
 forestall
 figo
-filmstrips
+filmstrips 1
 filo
 filose 1
 ferrier
