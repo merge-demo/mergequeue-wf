@@ -10976,7 +10976,7 @@ bartonia
 beadroll
 blinker
 bewailingly
-balancewise
+balancewise 1
 bitterful
 blinkers
 bellhop 1
