@@ -1742,7 +1742,7 @@ electrolyses
 electiveness
 epitheliolytic
 earpieces
-echolocate
+echolocate 1
 endogenicity
 electrolyzable 1
 enjoy
