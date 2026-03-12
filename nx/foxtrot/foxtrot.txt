@@ -8054,7 +8054,7 @@ firearms
 flutterer 1
 fitment
 fimble
-faroese
+faroese 1
 footstools 1
 faunally
 faradise 1
