@@ -10192,7 +10192,7 @@ dinged 2
 diploids
 daddle
 diplobacterium
-demihigh
+demihigh 1
 dingeing 1
 dinghee
 demoses
