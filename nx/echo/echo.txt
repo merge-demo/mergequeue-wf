@@ -5146,7 +5146,7 @@ extrapolate
 ensorceling 2
 exflagellate
 endoenzyme 1
-epitrochoid 1
+epitrochoid 2
 emarginula
 elytrorrhaphy 1
 encyclic

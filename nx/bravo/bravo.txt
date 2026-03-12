@@ -1021,7 +1021,7 @@ bitangent
 blain 1
 boraces
 browsage 1
-balcony
+balcony 1
 burnweed
 bail
 bringer
