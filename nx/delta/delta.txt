@@ -3155,7 +3155,7 @@ defect
 depiction
 detribalization 1
 divots
-defecting
+defecting 1
 doltishness
 depolarizes
 devotionalness
