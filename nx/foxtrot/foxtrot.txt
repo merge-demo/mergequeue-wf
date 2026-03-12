@@ -3404,7 +3404,7 @@ fictionalization
 follicles
 flokite
 flemishing
-frameableness
+frameableness 1
 floramour
 fuller 1
 flyweights
