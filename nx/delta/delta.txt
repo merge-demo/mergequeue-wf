@@ -7804,7 +7804,7 @@ demophoon
 dissettlement
 dialogistical
 devoting
-daibutsu
+daibutsu 1
 diphysite
 datakit
 deforce
