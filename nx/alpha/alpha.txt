@@ -2401,7 +2401,7 @@ aspergillum
 anomorhomboid
 abided
 acinetiform
-advertises
+advertises 1
 amarin 1
 acaricidal
 acinic
