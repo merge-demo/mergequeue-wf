@@ -20586,7 +20586,7 @@ afterswarm
 affrontingness
 arthritically 1
 analemma
-abseiling
+abseiling 1
 allophytoid
 attritus
 anguishing
