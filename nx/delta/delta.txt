@@ -1559,7 +1559,7 @@ drippings
 dices
 deadfalls 1
 dartboard
-deadheartedly
+deadheartedly 1
 druery
 duftite 1
 dominancy
