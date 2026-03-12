@@ -166,7 +166,7 @@ faticableness
 factionalism 1
 flexional 1
 fibroareolar
-fabes
+fabes 1
 finites
 farcialize
 factionistism
