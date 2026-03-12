@@ -9870,7 +9870,7 @@ endothermous
 euxenites
 enstatite
 encodes
-elocular
+elocular 1
 epidemical
 epistases
 enodally 1
