@@ -3432,7 +3432,7 @@ chandu
 calycozoan
 credos 1
 crackiness
-caprate
+caprate 1
 caprella
 capreol
 capreolar
