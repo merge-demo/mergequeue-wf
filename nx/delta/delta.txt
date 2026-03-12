@@ -8645,7 +8645,7 @@ depertible 1
 downstream
 degreasing
 dissentious
-diametrically
+diametrically 1
 discourtesy
 dilative
 dichloride 1
