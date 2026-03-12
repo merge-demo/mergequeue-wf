@@ -8972,7 +8972,7 @@ extrasensuous 1
 emotiomotor
 erigerons
 echoers
-enables
+enables 1
 erring
 eightvo
 epididymodeferentectomy
