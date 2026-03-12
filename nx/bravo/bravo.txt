@@ -6847,7 +6847,7 @@ besaile 1
 bipartizan
 brachycephalic
 bemingled
-bescab
+bescab 1
 beurre
 berceuse
 buttwood
