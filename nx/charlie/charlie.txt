@@ -11066,7 +11066,7 @@ checksums
 cacorrhinia 1
 coappears
 chitinous
-chitins
+chitins 1
 chitling 1
 chitlings
 cowbirds
