@@ -9864,7 +9864,7 @@ ecodeme 1
 epeeists
 eleutheropetalous
 esthesiology
-exultantly
+exultantly 1
 elementarily
 endothermous
 euxenites
