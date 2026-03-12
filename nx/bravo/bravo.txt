@@ -3733,7 +3733,7 @@ barbita
 babblishly
 brookflower 1
 batting
-battings
+battings 1
 battledores
 bywork
 bloops 1
