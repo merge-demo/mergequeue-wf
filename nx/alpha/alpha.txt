@@ -4506,7 +4506,7 @@ aporia
 advertently
 adverting
 appertise
-achromic
+achromic 1
 advertisers
 attunes
 assuagable 1
