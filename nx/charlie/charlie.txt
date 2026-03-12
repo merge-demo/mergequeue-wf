@@ -23072,7 +23072,7 @@ conspersion
 conspicuity
 crescentia
 cicatrizer
-cottoneer
+cottoneer 1
 cyanochlorous 1
 conspicuously
 cabalic
