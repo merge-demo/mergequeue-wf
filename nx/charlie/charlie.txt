@@ -15,7 +15,7 @@ cows 1
 corkmaking 1
 cabaletta
 cortinae
-cestas
+cestas 1
 cardplaying
 chertiest
 cabalisms
