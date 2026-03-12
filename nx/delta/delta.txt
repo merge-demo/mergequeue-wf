@@ -3266,7 +3266,7 @@ dividendus
 dryer
 doty
 dragoons
-digestive
+digestive 1
 defibrillatory
 dropax
 drimys
