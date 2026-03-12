@@ -2892,7 +2892,7 @@ effervesce
 eyelets
 ensiling
 exsuscitate
-extroversive
+extroversive 1
 epidemicalness
 estuarian
 elytriferous
