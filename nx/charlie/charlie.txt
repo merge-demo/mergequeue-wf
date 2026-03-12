@@ -5602,7 +5602,7 @@ copr
 censused
 cofactor
 catalyses
-catalyte
+catalyte 1
 cyclopean
 cabalassou
 cyniatria
