@@ -8764,7 +8764,7 @@ feucht 1
 fortuitous
 fulgurate
 fresnels 1
-flote 1
+flote 2
 fiberfill 2
 faussebraie 1
 fala 1
