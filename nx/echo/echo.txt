@@ -12095,7 +12095,7 @@ easels 2
 ekphoria 1
 erepsin
 exploiture
-escuage
+escuage 1
 erythrin
 enflames
 earworm
