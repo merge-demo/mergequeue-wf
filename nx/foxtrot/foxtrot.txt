@@ -4335,7 +4335,7 @@ flunkeys
 forceful
 faffle
 flutemouth
-forbearantly
+forbearantly 1
 fleshlessness 1
 freshest
 fenter
