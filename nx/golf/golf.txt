@@ -3250,7 +3250,7 @@ gazetteers
 gyral 1
 garlandwise
 gaelicist 1
-gharris 1
+gharris 2
 gustatory
 giddiest
 gashest
