@@ -10035,7 +10035,7 @@ epanastrophe
 electrodiagnostic
 exion
 ethanal
-esoterical
+esoterical 1
 extill 1
 exempting
 equalist
