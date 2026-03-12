@@ -13474,7 +13474,7 @@ encopresis
 elucidatory
 endoperidial
 empory 1
-expurgate
+expurgate 1
 equivocate
 ethionine
 equivocated
