@@ -979,7 +979,7 @@ friarbird 1
 fares
 feats
 faretta 1
-foresaid
+foresaid 1
 foldable
 foresightedness 1
 fervid
