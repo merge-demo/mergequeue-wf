@@ -15967,7 +15967,7 @@ bacteriostatic
 bihourly
 burgh 1
 bromuret
-bromus
+bromus 1
 bout
 boundedness
 boreus
