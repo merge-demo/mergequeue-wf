@@ -4642,7 +4642,7 @@ encarpuspi
 ethicosocial
 enhydrite
 epitomic
-edriophthalmatous
+edriophthalmatous 1
 enemies 1
 extratensive
 eczematoid
