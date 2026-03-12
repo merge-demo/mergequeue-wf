@@ -965,7 +965,7 @@ aggregate 1
 arethusa
 actinopoda
 adulterately
-apprehension
+apprehension 1
 aecidiostage
 axogamy
 absorptiveness
