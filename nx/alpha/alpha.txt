@@ -24063,7 +24063,7 @@ acrania
 arachnoid
 apotelesmatic
 aesthetical
-autocraticalness
+autocraticalness 1
 admonisher 1
 autocratrix 1
 affeeble
