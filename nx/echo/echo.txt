@@ -10631,7 +10631,7 @@ ecthetically
 enteric
 ectoplastic
 exsect
-eucone
+eucone 1
 eucopepoda 1
 eucosmidae
 expiational
