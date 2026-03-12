@@ -11261,7 +11261,7 @@ deckers
 dyadic
 duodecimo
 dullity
-deiseal
+deiseal 1
 diptera
 diadelphic 1
 detectives
