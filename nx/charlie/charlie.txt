@@ -3232,7 +3232,7 @@ calamiform 1
 cyrtograph
 chatta
 carmetta
-caboclos
+caboclos 1
 cubbies
 capilli
 capilliculture
