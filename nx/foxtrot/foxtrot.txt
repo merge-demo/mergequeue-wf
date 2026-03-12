@@ -6573,7 +6573,7 @@ feodum 1
 falter
 facility
 forgie 1
-flabby
+flabby 1
 frogeater
 fike
 fip
