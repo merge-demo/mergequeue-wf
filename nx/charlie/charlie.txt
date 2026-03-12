@@ -20961,7 +20961,7 @@ cathetometric
 calyceraceous
 compressive
 chasubles
-compressively
+compressively 1
 compressors
 conynge
 collating
