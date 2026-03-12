@@ -10455,7 +10455,7 @@ endromis
 extusion
 escalade
 earlduck
-effigiate
+effigiate 1
 echinate 1
 entomologizing
 ethrogim
