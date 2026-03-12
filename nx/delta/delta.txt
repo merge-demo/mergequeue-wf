@@ -417,7 +417,7 @@ defensative
 deprevation 1
 daysmen
 direst
-disthrall
+disthrall 1
 daytimes 1
 daywrit
 dakerhen
