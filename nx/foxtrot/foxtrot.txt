@@ -2005,7 +2005,7 @@ frizzer
 fullam
 flanking
 featherdom
-fardels
+fardels 1
 flanconnade 1
 federative
 feetfirst

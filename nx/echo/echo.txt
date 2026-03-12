@@ -14055,7 +14055,7 @@ eyeline 1
 elektra
 eidolons
 enteropneust
-excandescency
+excandescency 1
 extinguishant
 embellishments
 eulogiser
