@@ -11957,7 +11957,7 @@ equestrienne
 ecole
 endamebas
 exuscitate
-eristical
+eristical 1
 electrotherapist
 erpetology
 exalter
