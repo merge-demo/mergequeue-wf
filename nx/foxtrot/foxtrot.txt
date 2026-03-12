@@ -8771,7 +8771,7 @@ fala 1
 facient
 frizzled 2
 faintise 3
-farde
+farde 1
 floatages
 fluoranthene
 flogged
