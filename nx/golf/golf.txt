@@ -5793,7 +5793,7 @@ gurgoyl
 geocarpic
 glt
 guff
-gatten
+gatten 1
 gonophoric
 gruiformes
 guddling
