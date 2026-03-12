@@ -6487,7 +6487,7 @@ emigrant
 entrepeneur
 ensorrow
 encumberment
-ectodactylism
+ectodactylism 1
 enterocoela 1
 eurypteroidea
 expounded
