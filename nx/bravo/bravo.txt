@@ -10937,7 +10937,7 @@ blindfish
 blindfishes
 bamboozler
 butterbush
-blindfoldedness
+blindfoldedness 1
 bemoon
 blinding
 bespoken
