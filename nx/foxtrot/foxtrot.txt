@@ -1508,7 +1508,7 @@ fatales
 fanaticism 2
 foresend
 faulx
-flugelman
+flugelman 1
 factionary
 ferruminating
 florigen 1

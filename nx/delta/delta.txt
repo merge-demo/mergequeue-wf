@@ -8264,7 +8264,7 @@ daubery
 denudate 1
 demonization
 diagonic 2
-deliriousness
+deliriousness 1
 delegant
 drahthaar
 demobilize 1
