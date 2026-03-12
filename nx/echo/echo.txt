@@ -13883,7 +13883,7 @@ epistropheal
 etamine
 explores
 exosmosis
-epimerized
+epimerized 1
 ectocarpaceae
 endolymphangial
 extracloacal
