@@ -22962,7 +22962,7 @@ consist
 contractured
 consistences
 characterstring
-consistency
+consistency 1
 catalytic
 cocytean
 companioning
