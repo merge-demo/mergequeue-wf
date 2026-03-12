@@ -2080,7 +2080,7 @@ epimers
 expedites
 exclaim
 eicosane
-estivating
+estivating 1
 ecrase
 encumberer
 evacuative 1
