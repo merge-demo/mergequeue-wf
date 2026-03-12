@@ -3710,7 +3710,7 @@ glabellum
 gracelike
 grooms
 goetia
-groundedness 1
+groundedness 2
 gapy 1
 galliot
 gringolee 1
