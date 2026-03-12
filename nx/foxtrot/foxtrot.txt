@@ -11682,7 +11682,7 @@ feru
 felids 1
 finikin 1
 flare
-forefended 1
+forefended 2
 footglove
 fiaschi
 flatfoot 1
