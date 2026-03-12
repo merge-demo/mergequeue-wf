@@ -6560,7 +6560,7 @@ geldings
 graphalloy
 gurglets
 goudy
-gentleship 1
+gentleship 2
 girlfriend
 glossary
 gracileness 1
