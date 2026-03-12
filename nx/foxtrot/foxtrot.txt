@@ -4593,7 +4593,7 @@ feudists
 frit
 feuder 1
 footboy 1
-fisticuff
+fisticuff 1
 fringed 1
 familiarness
 fratricide

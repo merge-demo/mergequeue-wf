@@ -4688,7 +4688,7 @@ evolutionize
 endemics
 earthly
 epinine
-elating
+elating 1
 epidialogue
 encyclopedic
 ebauche
