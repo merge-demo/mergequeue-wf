@@ -12654,7 +12654,7 @@ bonorum 1
 bisector 1
 bills
 blackballer
-bigeminal
+bigeminal 1
 billposting 1
 bange
 braccate
