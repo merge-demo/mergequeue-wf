@@ -2460,7 +2460,7 @@ dribbled
 delays
 dixy
 diaspora
-decisively
+decisively 1
 dandling
 decivilize
 dateline
