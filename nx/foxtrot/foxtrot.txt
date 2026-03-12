@@ -5707,7 +5707,7 @@ fulgurata
 feoffing 1
 firetop
 flimflams
-fierily
+fierily 1
 fuzee
 favouritism
 fele
