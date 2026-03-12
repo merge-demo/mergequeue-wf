@@ -9762,7 +9762,7 @@ exodist
 epileptiform
 euhedral 1
 ectogenesis
-exoticity
+exoticity 1
 enrobing 1
 enharmonical
 eucharist
