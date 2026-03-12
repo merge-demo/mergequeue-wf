@@ -10480,7 +10480,7 @@ chalicotherium
 children
 cainogenesis
 corylin
-chalazogamic
+chalazogamic 1
 childridden
 chloropsia
 childship
