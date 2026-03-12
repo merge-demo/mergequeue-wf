@@ -7797,7 +7797,7 @@ frounce 1
 financial
 florentines 1
 funfairs
-foremother
+foremother 1
 flattie
 frithbot 1
 filander 2
