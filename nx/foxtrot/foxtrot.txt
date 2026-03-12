@@ -11228,7 +11228,7 @@ flexuosities
 ferrocyanhydric 2
 ferned
 feuter
-fluorescing
+fluorescing 1
 forjudged 1
 flatbrod 1
 filigrees
