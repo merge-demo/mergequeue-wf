@@ -8638,7 +8638,7 @@ entocoele
 equidimensional
 electrodialitically
 equidist
-educ
+educ 1
 equispatial 1
 elater
 endophytically
