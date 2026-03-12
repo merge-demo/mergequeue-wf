@@ -3033,7 +3033,7 @@ codenization
 cantina
 canting
 cantingly
-cousins
+cousins 1
 cantingness
 chrisms
 clairschach
