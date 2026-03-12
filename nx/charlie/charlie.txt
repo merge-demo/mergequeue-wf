@@ -1981,7 +1981,7 @@ crotalid
 checkered 1
 camera
 capitols
-counterwill
+counterwill 1
 cyclorama
 cumulose
 cyprinodont
