@@ -2502,7 +2502,7 @@ grooveless 1
 gigmania
 gained
 gypsologist
-guessive
+guessive 1
 generalise
 graciously
 gael 3
