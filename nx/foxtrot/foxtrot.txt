@@ -11453,7 +11453,7 @@ fathoms
 fusible 1
 frondeur 1
 firebote
-fistinut
+fistinut 1
 formularies
 fideles
 flic
