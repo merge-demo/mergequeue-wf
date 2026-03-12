@@ -9432,7 +9432,7 @@ fluoridate
 faucal
 finickingly
 farcin
-floristics
+floristics 1
 funambulatory 1
 freewheeling
 flagpoles
