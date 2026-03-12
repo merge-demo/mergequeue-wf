@@ -11499,7 +11499,7 @@ barish
 baba 1
 banyoro
 bigamous 1
-bluffs
+bluffs 1
 behaves 1
 broadshare
 blufter
