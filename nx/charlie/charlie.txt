@@ -5121,7 +5121,7 @@ crowncapping 1
 cascadite
 chemolytic
 cascalho
-cascalote
+cascalote 1
 calenturist
 coagulant
 circumrotatory
