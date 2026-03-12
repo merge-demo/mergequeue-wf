@@ -7559,7 +7559,7 @@ cambrian 1
 ceraunoscopy
 cyathophyllidae
 cosmopolitanly
-cercal
+cercal 1
 cleanable 1
 cercaria
 corticosterone

@@ -772,7 +772,7 @@ deckhead
 daneweed
 dactyliomancy
 diabrotic
-diverging
+diverging 1
 dognaps
 deduced
 dangerousness
