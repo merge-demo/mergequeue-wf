@@ -5477,7 +5477,7 @@ grumbled
 glottides
 gershonite
 goupin
-gimmer
+gimmer 1
 goods 1
 goodyera
 georgian
