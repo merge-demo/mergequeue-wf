@@ -14777,7 +14777,7 @@ divinator
 disorganize 1
 disabusal
 dakir
-desmacyte
+desmacyte 1
 dentilated
 docimastical 1
 decimation
