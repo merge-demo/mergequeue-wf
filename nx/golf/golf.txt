@@ -6664,7 +6664,7 @@ gibelite
 gavelling 1
 grint
 growable
-gromatic
+gromatic 1
 gaea 1
 goaler
 graecomania
