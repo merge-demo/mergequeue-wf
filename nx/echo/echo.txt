@@ -2081,7 +2081,7 @@ expedites
 exclaim
 eicosane
 estivating 1
-ecrase
+ecrase 1
 encumberer
 evacuative 1
 elapine
