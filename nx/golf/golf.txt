@@ -600,7 +600,7 @@ gramaries
 gazophylacium
 gibber
 gemmiparously
-glassed
+glassed 1
 gillie
 goopy
 gradatory
