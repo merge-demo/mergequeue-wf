@@ -2619,7 +2619,7 @@ glow
 gentianal
 garg
 germantown
-genetika
+genetika 1
 glanders
 gurgeon
 geraniums
