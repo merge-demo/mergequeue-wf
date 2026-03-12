@@ -864,7 +864,7 @@ emmers
 ears
 euglenidae
 epiphytal
-eclectically
+eclectically 1
 epilepsia
 erythrinidae
 eral 1
