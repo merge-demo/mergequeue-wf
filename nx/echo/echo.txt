@@ -6176,7 +6176,7 @@ exserting
 echelette
 entrancing
 engrossingly
-eyepoints
+eyepoints 1
 expendable
 eruditionist
 eustatic
