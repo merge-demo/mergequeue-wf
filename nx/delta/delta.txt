@@ -8133,7 +8133,7 @@ diacetin 1
 damager
 dependently
 descenders
-drabbler
+drabbler 1
 diaplexal 1
 dromiacea
 decennially
