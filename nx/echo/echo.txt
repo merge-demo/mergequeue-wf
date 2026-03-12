@@ -9011,7 +9011,7 @@ ergometer
 employer
 eumerism
 exophthalmos
-electrostatical
+electrostatical 1
 eliquate
 erythema
 erythemal
