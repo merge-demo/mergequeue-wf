@@ -5776,7 +5776,7 @@ dowve
 disimitation
 discission
 dietaries
-dovekeys
+dovekeys 1
 diplanar
 decaliter
 deportability
