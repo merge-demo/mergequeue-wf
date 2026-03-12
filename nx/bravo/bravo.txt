@@ -11201,7 +11201,7 @@ boodleize 1
 bowsaw
 boleti
 barlafumble
-biometer
+biometer 1
 biforin
 bertrand
 bloomless 1
