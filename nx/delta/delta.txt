@@ -7971,7 +7971,7 @@ diagenetic 1
 dezymotize
 dezincify
 dhourras
-dotations
+dotations 1
 defectology
 devove
 detonability 2
