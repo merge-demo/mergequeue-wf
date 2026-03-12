@@ -1101,7 +1101,7 @@ groundwall 1
 gliadins
 geonyctitropic
 gutsiest
-guano
+guano 1
 grasscut
 glaikit 1
 geotactically
