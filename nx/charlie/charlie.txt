@@ -10082,7 +10082,7 @@ chesser
 codheaded
 chesses
 coattended
-chessylite
+chessylite 1
 chessist
 chirimen
 chessner
