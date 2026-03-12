@@ -9990,7 +9990,7 @@ erugo
 entreatment
 electroform 1
 etalage
-endamnify
+endamnify 1
 elaiosome
 ensures
 elaioplast
