@@ -21905,7 +21905,7 @@ autolyse
 autocarist
 acclimatizes 2
 aniselike
-absorbedness
+absorbedness 1
 alfaquins
 arcadia
 aliturgical
