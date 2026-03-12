@@ -4373,7 +4373,7 @@ ectropionized
 emote
 engrossing 1
 eggars
-encranial
+encranial 1
 excrescence
 eremacausis
 elucidate
