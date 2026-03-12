@@ -22036,7 +22036,7 @@ confirms
 ceraunite
 confiscatable
 cynebot
-cargason
+cargason 1
 confiscate
 countertrend 1
 chookies
