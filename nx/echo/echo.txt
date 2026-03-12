@@ -9340,7 +9340,7 @@ earlish
 easylike
 electroreceptive
 enostosis
-entomolegist
+entomolegist 1
 epicrisis
 electrocatalysis
 eurodollar
