@@ -1004,7 +1004,7 @@ definement
 darkies
 drupel
 darkish 1
-draughtsmen
+draughtsmen 1
 disquietudes
 driven
 depolarisation
