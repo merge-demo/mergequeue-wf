@@ -15305,7 +15305,7 @@ anatherum 1
 akalimba
 astraeiform
 anemoses
-apocatastasis
+apocatastasis 1
 arthroplasty
 archetypal
 athink
