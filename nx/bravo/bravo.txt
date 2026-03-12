@@ -190,7 +190,7 @@ baccalaureate
 baccalaureates
 baccalaureus
 baroques
-bandido
+bandido 1
 bundlet
 bioscopies
 byes
