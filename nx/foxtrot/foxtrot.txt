@@ -9709,7 +9709,7 @@ fulgorous
 fowled 1
 fairness
 flipflop
-foretoken
+foretoken 1
 fryer
 faldstool 1
 fringe
