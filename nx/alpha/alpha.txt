@@ -6431,7 +6431,7 @@ anacrustic 1
 anatripsology
 airward
 acerbities
-amicableness
+amicableness 1
 azocyclic
 ahuula
 ahwal
