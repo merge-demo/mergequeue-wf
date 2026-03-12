@@ -11024,7 +11024,7 @@ fossilizes 1
 favouring
 foraying
 forestay
-fumigated
+fumigated 1
 flora
 folkmoot
 femororotulian 1
