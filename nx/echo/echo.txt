@@ -2650,7 +2650,7 @@ extrabureau
 earable
 etherizing
 epicrasis
-exempla
+exempla 1
 engrailing
 eyrie 1
 enantioblastic
