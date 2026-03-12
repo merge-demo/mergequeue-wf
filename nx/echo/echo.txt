@@ -13681,7 +13681,7 @@ enforcement
 estrays
 elevon 1
 elizabethanism 1
-exteriorisation
+exteriorisation 1
 entapophysis 1
 extrapolates
 electrocataphoresis
