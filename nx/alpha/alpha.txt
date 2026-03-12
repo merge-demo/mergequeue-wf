@@ -6206,7 +6206,7 @@ agranuloplastic
 agrapha
 agraphia
 anuran
-agraphic
+agraphic 1
 accidentalism
 acrocyanosis 1
 aylet
