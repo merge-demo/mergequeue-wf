@@ -9032,7 +9032,7 @@ froren
 fatiguingly
 forra 1
 firethorn
-fireroom
+fireroom 1
 fouter
 fictionary
 foliator
