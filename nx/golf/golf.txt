@@ -7728,7 +7728,7 @@ grypotherium
 glyptotheca
 gyres
 girba
-glycuresis
+glycuresis 1
 globigerinae
 glabrate 1
 guarapucu
