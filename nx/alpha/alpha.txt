@@ -15347,7 +15347,7 @@ adjutancy
 affirmed 1
 aiguelle
 adjustment
-arbitrator
+arbitrator 1
 anisodactylic
 atmiatrics
 antiliturgist
