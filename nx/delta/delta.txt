@@ -16806,7 +16806,7 @@ dilettante
 drawloom
 desalinized
 depigmentate
-dopiness
+dopiness 1
 disobeyers
 discharity
 dozes
