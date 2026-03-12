@@ -3475,7 +3475,7 @@ gowl
 gastrologer
 genoa
 glauconite
-glasgow
+glasgow 1
 gallophobia 1
 graptomancy 1
 griefful 1
