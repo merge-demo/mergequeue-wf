@@ -2583,7 +2583,7 @@ goliath
 goldfielder
 grav
 genesitic 1
-gharri
+gharri 1
 grendel
 geraty
 gramma
