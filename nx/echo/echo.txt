@@ -10542,7 +10542,7 @@ ethnize 1
 examinative
 euboean
 electrochemically
-eubteria
+eubteria 1
 embezzlers 1
 euskara
 encodement
