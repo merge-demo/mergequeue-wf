@@ -12607,7 +12607,7 @@ duologs
 denominators
 disintegrator
 disintegrators
-dispirit
+dispirit 1
 disintegrity
 draughtiness
 disinter 1
