@@ -9912,7 +9912,7 @@ glycerose
 gamasid
 graticulation
 gastrula
-gony
+gony 1
 genders
 guaracha
 gnamma
