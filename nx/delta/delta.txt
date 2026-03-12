@@ -5425,7 +5425,7 @@ deoppilate 1
 dominions
 dep
 doss
-dissheathe
+dissheathe 1
 decolouriser
 deregister
 disenablement
