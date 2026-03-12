@@ -8982,7 +8982,7 @@ dichromatic
 dewools
 debonairty
 diiambus
-diplogangliate
+diplogangliate 1
 dispeller
 depredatory
 dahoon 2
