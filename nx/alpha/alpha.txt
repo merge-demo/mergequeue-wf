@@ -9285,7 +9285,7 @@ antiprojectivity
 acture 1
 antilobium
 attack
-alphonist
+alphonist 1
 alphonse
 alphonsin
 avocationally
