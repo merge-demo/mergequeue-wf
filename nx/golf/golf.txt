@@ -2062,7 +2062,7 @@ gavots 1
 gluishness
 glorious
 gator
-geranyl
+geranyl 1
 greasebush 1
 geleem
 grandbaby
