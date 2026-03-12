@@ -3686,7 +3686,7 @@ dodecahedrons
 degreaser
 dacryohemorrhea
 daffadowndilly
-degreewise
+degreewise 1
 defaisance
 diligency
 dorsers
