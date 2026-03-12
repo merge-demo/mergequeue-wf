@@ -5089,7 +5089,7 @@ chivarra
 cojudge
 coevolve
 colisepsis 1
-casate
+casate 1
 closemouthed
 casava
 cellepora 1
