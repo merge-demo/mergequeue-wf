@@ -2407,7 +2407,7 @@ garial
 geologian
 grograms
 gravific
-gallah
+gallah 1
 gemmologists
 gekkones 1
 geology
