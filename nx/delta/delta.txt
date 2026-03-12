@@ -13248,7 +13248,7 @@ dali
 dabblers
 devocalising
 disinclinations
-dyspneas
+dyspneas 1
 ducat 1
 determinator
 draftman
