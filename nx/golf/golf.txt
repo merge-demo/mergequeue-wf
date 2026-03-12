@@ -9878,7 +9878,7 @@ geikielite
 gimme
 globs
 grinningly
-gorals
+gorals 1
 galatae
 gasholder
 grasshoppers
