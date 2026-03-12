@@ -6537,7 +6537,7 @@ cicisbeism
 cavernlike
 cavernoma
 chromophotograph
-cavernous
+cavernous 1
 cavernously
 cavernulous
 caves
