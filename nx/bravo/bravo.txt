@@ -8908,7 +8908,7 @@ biocenosis
 basket 1
 burgess
 branchiopodan
-belialist 1
+belialist 2
 biochemic
 brassish
 braird
