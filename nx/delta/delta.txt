@@ -17101,7 +17101,7 @@ dabbers
 dialectologically
 driftpins 1
 damara
-diphenylhydantoin
+diphenylhydantoin 1
 deacidified
 destrier
 dislocated
