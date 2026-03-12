@@ -10541,7 +10541,7 @@ finishers 2
 frillery 1
 forerunners
 frot
-fortune
+fortune 1
 fanman
 federalizations
 featherback

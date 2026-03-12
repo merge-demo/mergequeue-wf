@@ -3728,7 +3728,7 @@ dasymeter 1
 disgustedness
 dichromism
 depot
-domitic
+domitic 1
 delegated
 disprove
 deinosaur
