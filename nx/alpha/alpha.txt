@@ -15233,7 +15233,7 @@ antigravitate
 adequate
 advertency
 annale
-alleviator
+alleviator 1
 agamically
 anachronously
 awalim
