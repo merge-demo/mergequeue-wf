@@ -3762,7 +3762,7 @@ embryotega
 etherialise
 eom 1
 embryotegae
-excogitates
+excogitates 1
 environage
 eweries
 embryotome
