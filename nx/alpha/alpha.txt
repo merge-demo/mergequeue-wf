@@ -20962,7 +20962,7 @@ andabatism
 arseno 1
 ascaridiasis
 archeologian
-affects
+affects 1
 ascarids
 alleviators
 agog
