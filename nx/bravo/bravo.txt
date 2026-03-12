@@ -12981,7 +12981,7 @@ boozier
 bacillicide 1
 balawu
 banausic
-belli
+belli 1
 bombycillidae
 beslobber
 bridges
