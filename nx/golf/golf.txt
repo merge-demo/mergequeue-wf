@@ -1782,7 +1782,7 @@ gammarus
 glazement
 gastrotomic
 gladdens
-gulsach
+gulsach 1
 glycine
 gross
 gowkit
