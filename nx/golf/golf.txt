@@ -8960,7 +8960,7 @@ gallinazo
 glimpses
 grissel 1
 gu 1
-gluttonous
+gluttonous 1
 gumbolike 1
 glaucopis
 guess
