@@ -6354,7 +6354,7 @@ ferryhouse
 fob
 fungology 1
 furans
-falerian
+falerian 1
 fluminous
 freak
 fluxibility
