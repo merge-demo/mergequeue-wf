@@ -8454,7 +8454,7 @@ dooxidize
 dextro
 decrowns
 daimonology
-deration
+deration 1
 dibutyl
 dermochrome 1
 diambic
