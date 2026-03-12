@@ -12318,7 +12318,7 @@ enjambment 1
 emacerated
 eradicating
 euscaro
-earthlings
+earthlings 1
 exercitation 1
 eques
 ensnarling
