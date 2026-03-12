@@ -10165,7 +10165,7 @@ akkadist
 alliterated 1
 asyllabia
 anemious
-agricolite
+agricolite 1
 amelanchier
 auxoblast
 amelcorn
