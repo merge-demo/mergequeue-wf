@@ -2669,7 +2669,7 @@ grabble
 gaud
 gortonian 1
 gipsylike 1
-gestae
+gestae 1
 gynandry
 grassman
 genyophrynidae
