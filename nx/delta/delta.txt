@@ -13011,7 +13011,7 @@ disordering
 downwith
 decasyllables
 diskless
-disordinance
+disordinance 1
 devastator
 dysorexia
 dilaters
