@@ -2713,7 +2713,7 @@ escrol
 expectorating
 excitors
 expel
-eradicatory
+eradicatory 1
 enduros
 ethyne 1
 errantry
