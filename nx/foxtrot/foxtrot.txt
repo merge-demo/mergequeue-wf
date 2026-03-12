@@ -9712,7 +9712,7 @@ flipflop
 foretoken 1
 fryer
 faldstool 1
-fringe
+fringe 1
 fouquieria
 foldouts
 facilitations 1
