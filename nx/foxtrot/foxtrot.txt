@@ -423,7 +423,7 @@ fronde
 ferrugineous 1
 ficoes
 faq
-firetrap
+firetrap 1
 frustraneous
 fattening
 fribbled
