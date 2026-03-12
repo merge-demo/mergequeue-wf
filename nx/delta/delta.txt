@@ -17680,7 +17680,7 @@ duodenojejunal
 deescalate
 decarburizing
 destination
-delsarte
+delsarte 1
 dhauri
 declamando
 deferentitis
