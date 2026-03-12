@@ -7799,7 +7799,7 @@ dramatisable
 devons
 devoration
 dismayedness
-devoted
+devoted 1
 demophoon
 dissettlement
 dialogistical
