@@ -3534,7 +3534,7 @@ epees 1
 enanthema 1
 enginemen 1
 excusative
-epistemologist
+epistemologist 1
 enchondromata
 encephalomyelitis
 eductive 1
