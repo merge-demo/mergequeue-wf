@@ -3386,7 +3386,7 @@ embranchment 1
 emanatist 1
 excludability
 eustachium
-epical
+epical 1
 erupt 1
 enterer
 exodic
