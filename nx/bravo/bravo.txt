@@ -1695,7 +1695,7 @@ barbuts 1
 bulbiest
 burning
 buteo
-blandiloquious
+blandiloquious 1
 bedights
 boycotter
 ballsiest
