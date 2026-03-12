@@ -11427,7 +11427,7 @@ defaulters
 deathtrap
 decaffeinates
 deserted
-dyspnoi
+dyspnoi 1
 durst
 deterrent
 disciplinarily 1
