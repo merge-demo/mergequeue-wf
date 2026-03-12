@@ -12938,7 +12938,7 @@ cubs 1
 counterspying
 chockful
 chloropal
-consecution
+consecution 1
 cyanhydric
 cyanhydrin
 chelerythrine
