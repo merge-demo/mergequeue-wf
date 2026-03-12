@@ -3720,7 +3720,7 @@ daytale
 drabble 1
 drepanoid
 dawtet
-distillable
+distillable 1
 disentangled
 denial
 dehisce
