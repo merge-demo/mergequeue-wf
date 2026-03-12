@@ -14424,7 +14424,7 @@ blastomycosis
 braincraft
 buckish
 bragozzo
-bicolor
+bicolor 1
 bionomies
 behaviours
 befan
