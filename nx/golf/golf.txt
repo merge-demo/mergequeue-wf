@@ -2513,7 +2513,7 @@ gantlet
 gilliver
 glusid 1
 guanacos
-generalistic
+generalistic 1
 gruffy
 grandma 1
 ghazies 1
