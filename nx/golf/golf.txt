@@ -2050,7 +2050,7 @@ gavia 2
 gaynesses
 girsh
 gamey 1
-gibus
+gibus 1
 gleeked 1
 guideboard
 ghosty
