@@ -7668,7 +7668,7 @@ ellachick
 exhumations
 explicably
 eccentricities
-elapse
+elapse 1
 eoliths 1
 eyass
 enterohelcosis
