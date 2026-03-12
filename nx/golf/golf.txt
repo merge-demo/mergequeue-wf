@@ -3624,7 +3624,7 @@ grinnie 1
 gro 1
 grizzler
 gastroenterological 1
-gastrolienal
+gastrolienal 1
 geomancer
 goblet
 gagged
