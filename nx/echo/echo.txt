@@ -8879,7 +8879,7 @@ egyptology
 enacts
 endarteritis
 emaculate
-esotericism
+esotericism 1
 etymologicon
 entophytic
 equinox
