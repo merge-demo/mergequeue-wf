@@ -1520,7 +1520,7 @@ flauntiness
 fittily
 faunish
 fleecing
-funditor
+funditor 1
 foamers
 flatdom
 franklinite
