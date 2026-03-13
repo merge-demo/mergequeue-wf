@@ -11731,7 +11731,7 @@ eyeball 1
 erept
 ectomesoblast
 exogenism
-electrize
+electrize 1
 etiotropic
 eccentricity 1
 emundation 1
