@@ -5845,7 +5845,7 @@ catechumenal
 catechumenism
 concourses
 cacimbo
-catechumens
+catechumens 1
 catechumenship
 codo
 conquest
