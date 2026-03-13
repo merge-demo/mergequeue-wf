@@ -13743,7 +13743,7 @@ benic
 beaverite
 bicursal
 benighten
-buffy
+buffy 1
 boused
 balija
 bousouki 1
