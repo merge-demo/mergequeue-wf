@@ -22457,7 +22457,7 @@ astronomy
 analgen
 aphototropism
 astronomical
-acorn
+acorn 1
 ajenjo
 acylate
 acetophenone
