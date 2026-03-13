@@ -9615,7 +9615,7 @@ bumbledom
 bronchomycosis
 blastomata
 boondocker
-bedazzlingly
+bedazzlingly 1
 bisdiapason 1
 biteable
 binary
