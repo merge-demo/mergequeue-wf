@@ -6860,7 +6860,7 @@ estuate
 enlistees
 essling
 eloper
-escalated
+escalated 1
 entropion 1
 eggler
 exhalent
