@@ -10138,7 +10138,7 @@ auximone
 aquariist
 amebobacter
 antrorse
-amacrine
+amacrine 1
 ameboid
 ameboidism
 arytenoid
