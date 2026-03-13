@@ -442,7 +442,7 @@ deperms
 dankali
 declassified
 depreciatively
-deified
+deified 1
 dame
 donating
 deveining 1
