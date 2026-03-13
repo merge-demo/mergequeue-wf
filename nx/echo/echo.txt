@@ -11135,7 +11135,7 @@ eurytus
 evolutionary
 embarkment 1
 engagedness
-energized
+energized 1
 expiate
 eusthenopteron
 electros 1
