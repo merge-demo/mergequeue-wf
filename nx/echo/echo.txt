@@ -11752,7 +11752,7 @@ epiphragmal 1
 eye
 epistemologically
 erythrolysin
-earscrew
+earscrew 1
 epicheiremata
 elementoid
 escolar
