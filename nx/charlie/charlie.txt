@@ -2186,7 +2186,7 @@ camporee
 camphorweed
 camphorwood
 cotan
-campiest
+campiest 1
 campignian
 carnaubas
 campylite
