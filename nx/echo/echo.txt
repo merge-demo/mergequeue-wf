@@ -2772,7 +2772,7 @@ egos
 encoop
 evangelary
 elegy 2
-emblematicize
+emblematicize 1
 eighthly
 exprobate
 explement
