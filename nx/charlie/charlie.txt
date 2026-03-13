@@ -10140,7 +10140,7 @@ changed
 capitalistic
 ceratioid
 cephalograph
-coessentially
+coessentially 1
 chevin 1
 cheviots
 chevres
