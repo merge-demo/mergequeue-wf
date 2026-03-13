@@ -10502,7 +10502,7 @@ etherin
 epochist 1
 exalate 1
 elance
-entocranial
+entocranial 1
 exulcerative
 ecphoriae
 erectilities
