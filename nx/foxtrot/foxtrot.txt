@@ -3830,7 +3830,7 @@ filose 1
 ferrier
 ficaries 1
 frontal
-furnitureless
+furnitureless 1
 fairyism
 footblower 1
 feverous
