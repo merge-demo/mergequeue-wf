@@ -8152,7 +8152,7 @@ bidiagonal
 brainwave
 brainless
 bidimensional
-binucleate
+binucleate 1
 barble
 befouls
 bullback
