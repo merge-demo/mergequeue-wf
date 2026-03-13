@@ -2381,7 +2381,7 @@ barbiton
 barbituric
 budbreak 1
 bluetick
-barbiturism
+barbiturism 1
 backstrip
 boughless
 barreler
