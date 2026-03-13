@@ -5755,7 +5755,7 @@ flammable
 flingy 1
 floating
 funded
-fiddlestring
+fiddlestring 1
 fumeuse 2
 fishwife
 forsay

@@ -12932,7 +12932,7 @@ antioptimistic
 antisimoniacal
 attributes
 anharmonic
-abbreviating
+abbreviating 1
 amicron
 ascariasis
 accessory
