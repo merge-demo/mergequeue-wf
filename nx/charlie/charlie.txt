@@ -8281,7 +8281,7 @@ chalcography
 chalcolithic
 circumlental
 cappae 1
-coadunation
+coadunation 1
 chalcomenite
 chalcone
 chalcopyrite
