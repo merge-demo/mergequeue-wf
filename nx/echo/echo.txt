@@ -7975,7 +7975,7 @@ epizootiology
 encase
 eurystomatous
 emitter 1
-eatery
+eatery 1
 evolvements
 euorthoptera
 epicele
