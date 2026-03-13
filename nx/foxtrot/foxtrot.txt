@@ -7149,7 +7149,7 @@ funicular 1
 floatless 1
 factious
 felonries
-fetors
+fetors 1
 felsic
 fusional 1
 fostership
