@@ -9118,7 +9118,7 @@ gibbose
 gadite 1
 gummers 1
 guild
-gobonated
+gobonated 1
 garlandless
 gamelang 1
 gallowglass

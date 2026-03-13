@@ -14660,7 +14660,7 @@ antibilious 1
 anastomosis
 actinoida
 allometric
-antibiosis
+antibiosis 1
 antibiotic
 acousmatic 2
 antibiotically
