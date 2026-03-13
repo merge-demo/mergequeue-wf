@@ -4320,7 +4320,7 @@ eavedropping
 exospores 1
 eventide
 ers
-exercisers
+exercisers 1
 enacture 1
 exfodiation 2
 echevaria
