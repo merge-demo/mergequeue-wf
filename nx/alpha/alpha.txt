@@ -14339,7 +14339,7 @@ anthracomarti
 anacardiaceae 1
 ambulancing
 albuminone
-antagonizable
+antagonizable 1
 axonia 1
 anthracosaurus
 anthracosis 1
