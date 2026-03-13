@@ -20049,7 +20049,7 @@ archaeohippus
 aromas 1
 andi
 anthocarpous
-aitkenite
+aitkenite 1
 autocratoric
 adjourns
 aschistic
