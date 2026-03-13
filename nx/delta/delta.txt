@@ -7401,7 +7401,7 @@ detractingly
 detrainment
 deathsmen
 dehortation
-detrect
+detrect 1
 detrench
 demigentleman 1
 dowries
