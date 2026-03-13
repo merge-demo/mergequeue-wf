@@ -5418,7 +5418,7 @@ approvableness
 argotic
 apological
 aphanitism
-acentric
+acentric 1
 aftercrop
 amphigaea
 agrito
