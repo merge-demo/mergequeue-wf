@@ -4850,7 +4850,7 @@ galaxian
 glaciates 1
 gladiator
 gagelike
-gilour
+gilour 1
 gunnen
 gryph
 gallybagger
