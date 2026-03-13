@@ -78,7 +78,7 @@ gears
 gourdlike
 gubernator
 gymnopaedes
-gratify
+gratify 1
 glandulose
 graunt
 gadge
