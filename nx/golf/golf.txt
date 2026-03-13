@@ -885,7 +885,7 @@ gated
 gwen 1
 gnashes
 glycaemia 1
-grumousness
+grumousness 1
 gawkishness
 gatewise
 glissade
