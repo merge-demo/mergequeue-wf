@@ -1628,7 +1628,7 @@ foreannounce
 fipenny
 foraneen 1
 fdnames
-footwalk
+footwalk 1
 ferociousness
 fice 1
 feaberry 2
