@@ -7479,7 +7479,7 @@ choliambic
 caback
 colostrum
 charnu
-cerambycid
+cerambycid 1
 coruscations
 cyclonist 1
 ceramics
