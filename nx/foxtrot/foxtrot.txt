@@ -285,7 +285,7 @@ folios 1
 finfishes
 fragmenting
 flooders
-fairly
+fairly 1
 fried
 folk
 fotive 1
