@@ -1081,7 +1081,7 @@ gearshifts
 gravitate
 guillotining
 grumium
-grivet
+grivet 1
 gph
 gesith
 garnett
