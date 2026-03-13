@@ -8751,7 +8751,7 @@ grantors
 goniometer 1
 gorge
 greenling
-gyroscopics
+gyroscopics 1
 glessite 1
 grogram
 groszy
