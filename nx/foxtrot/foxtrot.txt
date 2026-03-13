@@ -8983,7 +8983,7 @@ forepole
 frustule
 femoral
 fourre
-fraternizing
+fraternizing 1
 feverishly 1
 folktales
 fermental
