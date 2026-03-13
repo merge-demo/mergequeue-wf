@@ -2071,7 +2071,7 @@ gamblers
 gyrocompasses
 gorgonize
 glacially 1
-gawgaw
+gawgaw 1
 gaolbird
 goldenseal
 gourdworm
