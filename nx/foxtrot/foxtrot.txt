@@ -2261,7 +2261,7 @@ feverbush 2
 filamentiferous
 fantails
 folktale
-forbite
+forbite 1
 fracturs
 forks
 favorite
