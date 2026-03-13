@@ -10400,7 +10400,7 @@ discanter
 dioxane
 dioxanes
 drumbeats
-defoliage
+defoliage 1
 diplosphene 1
 defecate
 directorate
