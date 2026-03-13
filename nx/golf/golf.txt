@@ -9696,7 +9696,7 @@ gamogony 1
 gibuses
 gypsuming
 gowdie 1
-gascons
+gascons 1
 goldfields
 grumous 1
 gowaned
