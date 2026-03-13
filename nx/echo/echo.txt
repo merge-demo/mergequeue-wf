@@ -4321,7 +4321,7 @@ exospores 1
 eventide
 ers
 exercisers
-enacture
+enacture 1
 exfodiation 2
 echevaria
 egranulose
