@@ -310,7 +310,7 @@ deneb
 dummyweed
 deltaite 2
 desalted 1
-daydreams
+daydreams 1
 disinsection
 deti
 daybreaks 1
