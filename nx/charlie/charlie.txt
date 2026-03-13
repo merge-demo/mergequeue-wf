@@ -4699,7 +4699,7 @@ costosuperior 1
 chaser
 carneol 1
 cursoria
-chinas
+chinas 1
 companero
 complicatedness
 contrary
