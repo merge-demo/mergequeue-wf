@@ -12788,7 +12788,7 @@ disloyally
 dorsicollar
 disloyalty
 decrepity
-doored
+doored 1
 disloyalties
 dandlingly
 desirously
