@@ -19170,7 +19170,7 @@ cattan
 choirwise
 cuadrilla
 collophane 1
-colloquial
+colloquial 1
 calcareously
 chemiluminescence
 coadapted
