@@ -11358,7 +11358,7 @@ episcoparian
 enfiled
 epoche
 excoriator
-esperantism
+esperantism 1
 endured
 ecurie
 echiurida
