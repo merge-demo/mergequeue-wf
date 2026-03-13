@@ -14008,7 +14008,7 @@ brittlest
 brontops 2
 bemeal
 blindfolder
-bloviates
+bloviates 1
 biophagous
 brabble
 baedeker
