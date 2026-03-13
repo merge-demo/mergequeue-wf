@@ -6251,7 +6251,7 @@ gothicizer 2
 gobbledygook
 globuloid
 gid
-gobbles
+gobbles 1
 glaucescent
 ginzoes
 grege
