@@ -55,7 +55,7 @@ earflap
 ectrosyndactyly
 expender
 excites 1
-electroretinograph
+electroretinograph 1
 excursion
 effusiometer
 escarped
