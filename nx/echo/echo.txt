@@ -2096,7 +2096,7 @@ edictal 1
 entraps
 eurylaimidae
 exaggerated
-enchainements
+enchainements 1
 envisions
 ecphractic
 epopoean
