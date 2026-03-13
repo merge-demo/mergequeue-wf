@@ -2726,7 +2726,7 @@ esophagus 1
 empyreumatic 1
 elaeopten
 electrothermal
-ephippial
+ephippial 1
 emulsoidal
 ericolin
 exercise
