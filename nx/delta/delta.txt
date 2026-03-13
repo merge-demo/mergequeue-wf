@@ -7406,7 +7406,7 @@ detrench
 demigentleman 1
 dowries
 doubles
-dismoded
+dismoded 1
 diapensia
 detrimentally
 deviate
