@@ -11216,7 +11216,7 @@ fistulae
 foreday
 foreknown 1
 friskier
-farsang
+farsang 1
 furzed
 funiculars 2
 funiform
