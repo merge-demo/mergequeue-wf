@@ -4440,7 +4440,7 @@ demicanon
 disyllabized
 dishling
 duomachy
-devalorize
+devalorize 1
 developmentist 1
 dysphoric
 decorticate
