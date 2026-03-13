@@ -10806,7 +10806,7 @@ filamentoid
 faintful
 fuchsine
 flustra
-foveation
+foveation 1
 fillips
 foredestined 1
 fleeten
