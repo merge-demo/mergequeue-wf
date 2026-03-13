@@ -953,7 +953,7 @@ fruitling
 farceuses
 flenched
 finite 1
-facetiousness
+facetiousness 1
 frape
 fastigiums 1
 foredooming
