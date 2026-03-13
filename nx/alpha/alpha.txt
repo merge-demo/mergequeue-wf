@@ -18369,7 +18369,7 @@ arase 1
 avidins
 arati
 araua
-appertinent
+appertinent 1
 arauan
 araucaria
 alloplasm
