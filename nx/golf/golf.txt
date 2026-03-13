@@ -4575,7 +4575,7 @@ goodheartedness
 gasify
 grassflat
 guadagnini
-glycerizin
+glycerizin 1
 geast
 gufought 1
 gloggs
