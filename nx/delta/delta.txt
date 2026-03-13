@@ -6942,7 +6942,7 @@ disbarment
 domiciliated
 disparkle 2
 disarmament
-dorsoanterior
+dorsoanterior 1
 distomian
 dioptases 1
 dicaryon
