@@ -8917,7 +8917,7 @@ concyclic
 charco
 crutches 1
 caramboled
-cynophilist
+cynophilist 1
 chromolithographer
 charcoaly
 collecting
