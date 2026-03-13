@@ -9751,7 +9751,7 @@ deceive
 desugarize
 dichotomically
 dudley
-diffracts
+diffracts 1
 days
 dreamtide
 dumpler 1
