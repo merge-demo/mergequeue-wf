@@ -25051,7 +25051,7 @@ astringents
 absorptions
 algologies
 arcanal 1
-andranatomy
+andranatomy 1
 alveolar 1
 awoken
 abuttal
