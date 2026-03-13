@@ -6934,7 +6934,7 @@ ferritungstite
 farewell 1
 feuding
 frison
-fiery
+fiery 1
 friability
 fragrances 1
 folky
