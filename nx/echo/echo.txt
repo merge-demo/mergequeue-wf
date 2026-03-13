@@ -2143,7 +2143,7 @@ euxenite
 endosymbiosis
 errability
 electrogenesis
-elastivity
+elastivity 1
 externat
 edifyingness
 emperish
