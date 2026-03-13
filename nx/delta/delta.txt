@@ -10734,7 +10734,7 @@ dumbnesses
 diagram
 depit
 digitalize
-dolently 1
+dolently 2
 dactylioglyphic
 demurs
 dippier
