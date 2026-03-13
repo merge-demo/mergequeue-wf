@@ -18271,7 +18271,7 @@ austenitize
 aracana
 anarthria
 antefebrile
-arach
+arach 1
 analecta
 arachidic
 autotomised
