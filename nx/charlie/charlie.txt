@@ -6912,7 +6912,7 @@ cloze
 celsian
 cashbox
 celt
-celtiberi
+celtiberi 1
 cofaster
 celtiberian
 churchman
