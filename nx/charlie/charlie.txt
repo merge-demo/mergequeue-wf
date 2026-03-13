@@ -15226,7 +15226,7 @@ camphanic
 crassina
 clam
 countermeet
-cabriolet
+cabriolet 1
 circumnavigatory
 chiromancist
 customing 1
