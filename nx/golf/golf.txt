@@ -4340,7 +4340,7 @@ greenhew 1
 ginglymostoma
 greenhornism 1
 glucose
-graphicalness
+graphicalness 1
 guz
 gasterosteid 1
 gondi
