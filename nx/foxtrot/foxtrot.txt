@@ -10926,7 +10926,7 @@ freer
 fringehead
 foeture
 ferreiro
-fub
+fub 1
 foehn
 flexure
 fretwork

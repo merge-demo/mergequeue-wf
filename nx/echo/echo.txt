@@ -8784,7 +8784,7 @@ enrichments 1
 ensiles
 equivaluer
 exposited
-evulgation
+evulgation 1
 effs
 excitomotory
 exciples
