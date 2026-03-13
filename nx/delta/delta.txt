@@ -12674,7 +12674,7 @@ demesnes
 didy
 direcly
 dyskeratosis
-diskette
+diskette 1
 diskindness
 diskography
 desocialization
