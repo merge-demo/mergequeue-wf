@@ -8603,7 +8603,7 @@ fanions
 foveola
 foolable
 foxhole
-fornication
+fornication 1
 finaglers
 flippancy
 fractuosity
