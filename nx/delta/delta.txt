@@ -11375,7 +11375,7 @@ deprecatively
 drippers
 discontinued 1
 dowset
-davens
+davens 1
 deprivate
 discerpible 1
 discerpibleness
