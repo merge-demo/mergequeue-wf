@@ -7382,7 +7382,7 @@ exosphere 1
 exile
 eunomian
 endemic
-expurgative
+expurgative 1
 elephantic 1
 entombing
 environmentalism 1
