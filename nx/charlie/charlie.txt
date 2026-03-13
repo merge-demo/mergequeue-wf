@@ -13992,7 +13992,7 @@ cypraeidae
 cyanauric 1
 cypraeiform
 confinement
-cypraeoid
+cypraeoid 1
 cypre
 coccolithophorid
 cypress
