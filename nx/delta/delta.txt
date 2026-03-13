@@ -5046,7 +5046,7 @@ dendraspis
 daler
 deliverable
 dibbukim
-dendraxon
+dendraxon 1
 decolorizer
 dendriform
 dialer
