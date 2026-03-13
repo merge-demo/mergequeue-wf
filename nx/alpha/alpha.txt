@@ -17002,7 +17002,7 @@ apochromatism
 anthropologic 2
 archimorula
 astrophotometry
-ascitic
+ascitic 1
 anthesis 1
 auriscalp
 apocynthion
