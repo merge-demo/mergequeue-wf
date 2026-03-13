@@ -8826,7 +8826,7 @@ dromicia
 dioctahedral
 daturas
 defamations 2
-deluding
+deluding 1
 deratization 1
 dolefuller
 decke
