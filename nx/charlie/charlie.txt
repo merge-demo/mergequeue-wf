@@ -26301,7 +26301,7 @@ choleromania
 costs
 caddices
 cirsoid
-chevrone
+chevrone 1
 commendam
 coccygomorphic
 costumer
