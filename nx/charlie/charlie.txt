@@ -25591,7 +25591,7 @@ cleans
 cob
 corporeity
 compurgator
-crankier
+crankier 1
 carpetbaggery
 conicities
 corporeous
