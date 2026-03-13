@@ -2298,7 +2298,7 @@ depursement
 dishwash
 dismounted
 dudgeon
-dekaparsec
+dekaparsec 1
 ditrigonal
 danglement
 damnatory 1
