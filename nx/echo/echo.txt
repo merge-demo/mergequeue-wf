@@ -4424,7 +4424,7 @@ emporeutic 1
 encapsuled
 echoed 2
 enure 1
-essence
+essence 1
 eavesdropping
 exaggeratively
 expectorate
