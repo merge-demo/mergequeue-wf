@@ -2996,7 +2996,7 @@ fustee
 flanned 1
 fezzed
 forthset
-favosite
+favosite 1
 flamens
 fiendhead
 fluvanna
