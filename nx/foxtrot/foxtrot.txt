@@ -8421,7 +8421,7 @@ frauder
 fm
 forgetfulness 1
 frypan
-floorman
+floorman 1
 futhark
 folksy
 foistiness 2
