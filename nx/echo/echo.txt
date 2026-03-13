@@ -2957,7 +2957,7 @@ ectypal
 embroiderers
 eger 1
 exacinate
-equicostate
+equicostate 1
 emptying
 endromididae
 encystation
