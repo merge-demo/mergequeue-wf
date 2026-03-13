@@ -6736,7 +6736,7 @@ epileptics
 excides
 elongations
 exrx
-enapt
+enapt 1
 edulcorate
 expertising
 encompasses
