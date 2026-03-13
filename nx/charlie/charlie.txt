@@ -29654,7 +29654,7 @@ craniomalacia
 crocus
 contrantiscion
 casemate
-capriole
+capriole 1
 crocuses
 casqued 1
 crocuta
