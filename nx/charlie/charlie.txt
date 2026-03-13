@@ -27926,7 +27926,7 @@ crackerjacks 1
 crackers
 cradlemaking
 consolidates
-crackpotism
+crackpotism 1
 cisterns 1
 cynodon
 commendable
