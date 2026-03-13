@@ -4018,7 +4018,7 @@ fulmine
 figurehead 2
 feminisation
 friarling
-fairydom
+fairydom 1
 fledgling
 felicitation 1
 frontlessness
