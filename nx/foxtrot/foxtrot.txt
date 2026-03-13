@@ -11512,7 +11512,7 @@ fretize
 federalizes
 fundamentally 1
 fubby
-frisco
+frisco 1
 foretopmen 1
 flamenship 1
 forepart
