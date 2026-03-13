@@ -21819,7 +21819,7 @@ assify
 acrospiring
 antineutrino
 assignability
-ataunt
+ataunt 1
 atoningly
 assumptiveness
 assignably 1
