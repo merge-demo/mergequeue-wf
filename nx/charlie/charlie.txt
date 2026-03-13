@@ -26972,7 +26972,7 @@ carbethoxyl
 counteropposite 1
 chiococcine
 counterorder
-counterpace
+counterpace 1
 cranium
 concordist
 counterpane
