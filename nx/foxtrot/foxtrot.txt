@@ -11575,7 +11575,7 @@ fundatrix
 fiercehearted
 fanleaf
 fruitlike
-foretalking
+foretalking 1
 forrit
 figments 1
 fiddlers
