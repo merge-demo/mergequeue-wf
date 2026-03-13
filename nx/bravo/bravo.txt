@@ -6222,7 +6222,7 @@ biquartz 1
 beldames
 borid
 benight
-buzzed
+buzzed 1
 barked
 brittlestem
 basidiolichenes
