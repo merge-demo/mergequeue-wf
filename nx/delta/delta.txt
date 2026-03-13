@@ -12334,7 +12334,7 @@ dormy 2
 daintrel
 drywalls
 diferrion
-divinability
+divinability 1
 dilatate
 discuren
 disguisay 1
