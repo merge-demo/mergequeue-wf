@@ -3869,7 +3869,7 @@ gyroplane
 goodness
 grandpap
 gatherings 1
-gleaned
+gleaned 1
 gadzooks 1
 gabback
 gaintwist
