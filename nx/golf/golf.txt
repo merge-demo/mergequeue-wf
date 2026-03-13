@@ -3294,7 +3294,7 @@ gula
 goosewinged
 gourmand 1
 glissandos
-germanizer 1
+germanizer 2
 gimbaling
 gloominess 1
 germanness
