@@ -4609,7 +4609,7 @@ gorger
 gyrodactylus
 grapeshot
 gazpachos
-gustatorially
+gustatorially 1
 gallup
 greenheart
 galvanise 1
