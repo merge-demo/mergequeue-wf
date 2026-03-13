@@ -130,7 +130,7 @@ blurrily
 babylike
 boasted
 babillard
-bozos
+bozos 1
 backtrace
 brassily 1
 biological 1
