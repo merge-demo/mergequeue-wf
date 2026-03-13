@@ -5109,7 +5109,7 @@ electrotautomerism
 evanishment
 edificate
 epiplanktonic
-ejectives
+ejectives 1
 elaeoblast 1
 enneaphyllous
 embolon
