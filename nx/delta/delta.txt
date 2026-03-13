@@ -17777,7 +17777,7 @@ diplotaxis
 duckers
 derives
 dandiest
-duces
+duces 1
 disjoin
 disfigurements
 decurt
