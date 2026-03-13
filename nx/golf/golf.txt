@@ -6377,7 +6377,7 @@ gamboges
 gaine 1
 glucocorticord
 grasswidowhood
-galipots
+galipots 1
 greylag
 goitrogenic
 gamogenetic
