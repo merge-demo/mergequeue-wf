@@ -9935,7 +9935,7 @@ gaveling
 greith
 gormandized
 greasier
-gravelly
+gravelly 1
 guilders
 grainsick 1
 genom
