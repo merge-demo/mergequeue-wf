@@ -2602,7 +2602,7 @@ fibrillation 1
 fireball
 fangle
 fiscality
-featherlight
+featherlight 1
 fatback
 flabelliform
 filthy
