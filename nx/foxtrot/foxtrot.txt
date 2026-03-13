@@ -1563,7 +1563,7 @@ foochow
 fluoresced 1
 frustulent
 ferr
-frotteur
+frotteur 1
 faulkner
 fortyfold
 frisca 1
