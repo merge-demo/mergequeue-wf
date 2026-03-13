@@ -11728,7 +11728,7 @@ fluoroscope 1
 flagellator
 folkland
 fantastically
-femaleness
+femaleness 1
 fashionably 1
 featherlessness
 favours
