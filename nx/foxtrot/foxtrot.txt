@@ -2008,7 +2008,7 @@ featherdom
 fardels 1
 flanconnade 1
 federative
-feetfirst
+feetfirst 1
 fireworky
 freshens
 farmers 1
