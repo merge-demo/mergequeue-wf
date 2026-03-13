@@ -12168,7 +12168,7 @@ asimen
 ancylopod
 anisidine
 acrider
-apocopes
+apocopes 1
 anatropous
 antiecclesiastic
 aguardiente
