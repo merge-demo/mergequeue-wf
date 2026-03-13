@@ -3112,7 +3112,7 @@ ella 1
 exsuccous
 estriche
 ensilage
-elevator
+elevator 1
 ellenyard 1
 ecumenicist
 erg
