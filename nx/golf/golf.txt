@@ -10728,7 +10728,7 @@ gassers 1
 gustatorial
 guaycuruan
 gustfully
-gnomonological
+gnomonological 1
 galloot
 gowdnook
 galleried
