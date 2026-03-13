@@ -3461,7 +3461,7 @@ encyclopaedial
 embannered
 emetine
 equivokes 2
-eremopteris
+eremopteris 1
 endpiece
 egypt
 electrobiology
