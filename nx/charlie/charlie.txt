@@ -25380,7 +25380,7 @@ cornhusking
 consummate
 commensalism
 carolitic
-corny
+corny 1
 clowned
 conjures
 cornic
