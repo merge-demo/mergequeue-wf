@@ -7782,7 +7782,7 @@ executable
 epidiascope 1
 embrocating
 embosom 2
-exchanger
+exchanger 1
 exhume
 extrafine
 eosine
