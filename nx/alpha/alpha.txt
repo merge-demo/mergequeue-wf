@@ -25243,7 +25243,7 @@ abstrict
 azeotropic
 arithmomancy
 apsinthion
-azerbaijanian
+azerbaijanian 1
 avigators
 arverni
 androdynamous
