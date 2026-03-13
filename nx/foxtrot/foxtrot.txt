@@ -2725,7 +2725,7 @@ fellside
 fouette
 flaunter 1
 flamenco
-frondous
+frondous 1
 flywort 1
 fallals
 fontinas

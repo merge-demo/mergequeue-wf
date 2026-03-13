@@ -6248,7 +6248,7 @@ elisions
 erratuta
 editorialize
 endamaged 1
-exopterygota
+exopterygota 1
 enplaned
 eisteddfod
 enscrolled 1
