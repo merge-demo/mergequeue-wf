@@ -976,7 +976,7 @@ gangava
 gurgulation 1
 gilse
 granitizing
-gigahertz
+gigahertz 1
 gonakie
 graustark 1
 gymnure 1
