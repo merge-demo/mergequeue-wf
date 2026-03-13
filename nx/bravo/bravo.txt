@@ -3185,7 +3185,7 @@ bookcase
 biphase 1
 brocaded
 basepoint
-baser
+baser 1
 blanda
 bayete
 bleachfield
