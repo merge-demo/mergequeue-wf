@@ -2519,7 +2519,7 @@ grandma 1
 ghazies 1
 gingle
 goiterogenic
-grue
+grue 1
 generations
 gweduc
 ganch

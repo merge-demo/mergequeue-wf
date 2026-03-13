@@ -28793,7 +28793,7 @@ chromoscopy
 confederatio
 cantino
 cresegol 1
-cargo
+cargo 1
 cresyl
 cyclopedia
 cresylate
