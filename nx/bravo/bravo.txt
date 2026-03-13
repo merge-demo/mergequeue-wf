@@ -17364,7 +17364,7 @@ bejeled 1
 bewhistle
 bastinade
 biquintile
-binnogue
+binnogue 1
 bungos
 bichromic
 boychik
