@@ -5961,7 +5961,7 @@ cokeney
 catfish 1
 chouanize
 caryatid
-catfoot
+catfoot 1
 catfooted
 catgut
 chancellorism
