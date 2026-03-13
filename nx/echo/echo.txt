@@ -8731,7 +8731,7 @@ epulotic
 equiprobably
 equiproportionality 1
 evictors
-erratum
+erratum 1
 egocentrism
 edulcoration 1
 externalise
