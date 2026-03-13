@@ -5088,7 +5088,7 @@ endenizen 1
 endocoelar 1
 epitomical
 epistoma
-eelpouts
+eelpouts 1
 emuls
 encysted
 emanatistic 1
