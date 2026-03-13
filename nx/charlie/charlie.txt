@@ -10560,7 +10560,7 @@ camelopardid 1
 characteriser
 chilling
 chillis
-consumerism
+consumerism 1
 cromwellian
 choes
 chillness
