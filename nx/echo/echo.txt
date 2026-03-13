@@ -13349,7 +13349,7 @@ encollar
 exponency
 excisemanship
 extrared
-enters
+enters 1
 educated
 eumemorrhea
 exponentiates
