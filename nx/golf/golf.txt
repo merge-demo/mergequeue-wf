@@ -2738,7 +2738,7 @@ gentianella
 gadhelic
 grabbled
 garbs
-gelotometer
+gelotometer 1
 ginnery
 glassie
 gelee 1
