@@ -6934,7 +6934,7 @@ grinded
 glaziness
 gasthauser
 gobbed 2
-gelatinize
+gelatinize 1
 glaucophanite
 gongorist
 gigglers
