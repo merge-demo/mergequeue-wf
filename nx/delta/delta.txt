@@ -10850,7 +10850,7 @@ dysphrasia
 dapples
 divagation 2
 disavowedly
-direness
+direness 1
 dyssodia 1
 delved
 developement
