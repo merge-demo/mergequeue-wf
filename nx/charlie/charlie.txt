@@ -16562,7 +16562,7 @@ carburization
 cantish
 cabalistically
 capsules
-cloisterwise
+cloisterwise 1
 concoagulation
 cabbalist 1
 cloit 1
