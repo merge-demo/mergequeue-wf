@@ -2467,7 +2467,7 @@ encitadel
 exinanition 1
 earthquaked 1
 eslabon
-efficient
+efficient 1
 electrophysiologist
 estus
 epidemiologies 1
