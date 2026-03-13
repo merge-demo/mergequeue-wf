@@ -3469,7 +3469,7 @@ disreputability
 desulfurating 1
 dorism
 defoil
-diastrophically
+diastrophically 1
 dorsobranchiata
 defoliants
 duckpond
