@@ -5129,7 +5129,7 @@ glossate
 glarier 1
 gregarinous 1
 glali
-greable
+greable 1
 gunner 1
 gnatflower
 gaelicize
