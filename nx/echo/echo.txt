@@ -7846,7 +7846,7 @@ exodermis
 exhalate
 engraft
 empirical
-equivocators
+equivocators 1
 endlessness 1
 embolismic
 ebulliency
