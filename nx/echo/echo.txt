@@ -4013,7 +4013,7 @@ eyeliners
 estrapade 1
 escrime
 embrute
-extirpated
+extirpated 1
 echappe 3
 emphasize
 exogens
