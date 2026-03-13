@@ -21986,7 +21986,7 @@ confiding
 coppa
 confidingly
 cessation
-confidingness
+confidingness 1
 configural
 canteens 1
 coinsurable
