@@ -3583,7 +3583,7 @@ formant
 farcical
 foulsome
 forborne 1
-filamentary 1
+filamentary 2
 filament
 frankfurt 1
 flannelleaves
