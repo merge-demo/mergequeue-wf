@@ -8361,7 +8361,7 @@ foundling
 fils
 furriner
 flunkyite
-fora
+fora 1
 feastful
 folkways 1
 fortitudes
