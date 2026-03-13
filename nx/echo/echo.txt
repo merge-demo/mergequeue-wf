@@ -265,7 +265,7 @@ edaphosaurus 1
 enmew 1
 esophagal
 executionist
-earwigginess
+earwigginess 1
 environs
 erotomaniacal
 effectless
