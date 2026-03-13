@@ -10019,7 +10019,7 @@ gateau
 graecized
 galera 2
 gudame
-gibberose
+gibberose 1
 glycolipide
 gone
 guids
