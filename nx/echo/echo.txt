@@ -10983,7 +10983,7 @@ exams
 eupittonic
 enteromesenteric 1
 euplexoptera
-excuss
+excuss 1
 err
 electrostrictive
 emotiometabolic
