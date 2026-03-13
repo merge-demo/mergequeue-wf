@@ -2791,7 +2791,7 @@ auronal
 acrodrome
 acrodromous
 acetum
-adequateness
+adequateness 1
 acrogamous
 apopenptic
 acrogen
