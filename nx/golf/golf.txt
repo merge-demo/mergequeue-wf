@@ -3650,7 +3650,7 @@ gynaecomorphous
 georgie
 galvanize
 garishness
-gangwa
+gangwa 1
 galloper
 glops 1
 gooselike
