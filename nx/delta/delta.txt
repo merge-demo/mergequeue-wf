@@ -3679,7 +3679,7 @@ depsid 1
 disrupt
 decimalisation
 dropworts
-degraduate
+degraduate 1
 digitinervate
 degravate
 dodecahedrons
