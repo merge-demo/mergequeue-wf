@@ -5799,7 +5799,7 @@ fanfolds
 flush
 flavins
 finback
-faunus
+faunus 1
 fixatif
 federalese
 fridstool
