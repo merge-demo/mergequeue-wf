@@ -13944,7 +13944,7 @@ euglenida
 elaborateness 1
 eudeve
 entoire
-expostulatively
+expostulatively 1
 ectotrophic
 effectivity
 epimer
