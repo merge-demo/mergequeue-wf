@@ -4538,7 +4538,7 @@ flattop
 foliicolous 1
 forblow 2
 feebleheartedness
-fou
+fou 1
 feculent
 festschrift
 fernsick
