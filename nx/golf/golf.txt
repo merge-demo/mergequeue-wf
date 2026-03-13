@@ -4912,7 +4912,7 @@ genealogic
 glaiks
 gorse
 graveyard
-grippleness
+grippleness 1
 glair 1
 gently
 gloria
