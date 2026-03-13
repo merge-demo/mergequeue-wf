@@ -8556,7 +8556,7 @@ glasslike
 geometry
 guiltlessly
 gammoner 1
-galliardize
+galliardize 1
 gateado
 girgasite
 glomeli
