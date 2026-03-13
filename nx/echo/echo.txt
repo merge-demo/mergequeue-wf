@@ -9654,7 +9654,7 @@ endoblast 1
 encense
 equipper
 entia 1
-enthral
+enthral 1
 epenthesize
 exarchic
 epacris
