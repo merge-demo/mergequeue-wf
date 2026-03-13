@@ -1547,7 +1547,7 @@ electionary 1
 echograph
 entomophilous
 epicalyxes
-evected
+evected 1
 examens 1
 exaggeratedly
 enliven
