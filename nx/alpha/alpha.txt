@@ -9643,7 +9643,7 @@ amadous
 androkinin
 adherer
 alethiological
-antipyresis
+antipyresis 1
 almandines
 anticarious
 accrescendo
