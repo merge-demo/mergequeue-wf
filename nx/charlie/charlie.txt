@@ -6324,7 +6324,7 @@ casbahs
 catamount 1
 chylosis
 caulkers
-crustation
+crustation 1
 callosomarginal 1
 chymists
 capuchins
