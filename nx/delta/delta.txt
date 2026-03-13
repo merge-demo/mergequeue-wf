@@ -4131,7 +4131,7 @@ dunstable
 derodidymus 1
 discolorization
 diluvium
-diadokokinesis
+diadokokinesis 1
 diploperistomic
 desynapsis 1
 dells
