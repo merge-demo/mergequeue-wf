@@ -2119,7 +2119,7 @@ accedence
 agglutinations
 achilleine
 abnormalness
-anthropological
+anthropological 1
 aragonite
 adeodatus
 auspicial
