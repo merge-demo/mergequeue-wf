@@ -9585,7 +9585,7 @@ eskualdun
 enmuffle
 eslisor
 edifier
-eatberry
+eatberry 1
 evection 1
 epithecia 1
 erigenia
