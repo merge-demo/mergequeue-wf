@@ -10961,7 +10961,7 @@ euphorically
 excommunicate 1
 evoked
 exsuction
-epalpebrate
+epalpebrate 1
 eciliate
 exestuate
 evils
