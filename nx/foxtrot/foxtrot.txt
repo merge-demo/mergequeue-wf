@@ -8599,7 +8599,7 @@ featherer
 futurities
 forebodement 1
 ferules
-fanions
+fanions 1
 foveola
 foolable
 foxhole
