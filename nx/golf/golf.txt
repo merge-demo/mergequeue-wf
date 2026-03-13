@@ -9256,7 +9256,7 @@ grasper
 gueridon 1
 giraffidae
 gritted
-gazi
+gazi 1
 gutturality 1
 guggles 2
 gulae
