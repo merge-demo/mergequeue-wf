@@ -1673,7 +1673,7 @@ fieldward 1
 finishing
 fearingly
 fearless 1
-frangible
+frangible 1
 facie
 fuzes
 ferrament
