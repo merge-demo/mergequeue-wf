@@ -18477,7 +18477,7 @@ distasted
 devoice
 distomidae
 dol
-decerebrating
+decerebrating 1
 denudative
 disclosed
 duplified
