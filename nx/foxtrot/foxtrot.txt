@@ -9574,7 +9574,7 @@ farcinoma 2
 flawn
 freaks 1
 fractions 1
-frondless
+frondless 1
 froggy
 founts
 fermenter
