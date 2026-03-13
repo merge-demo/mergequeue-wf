@@ -3949,7 +3949,7 @@ apologer
 adjutrice
 ambassage
 ameba
-amelification
+amelification 1
 adlumidin
 anabasse 1
 affect 1
