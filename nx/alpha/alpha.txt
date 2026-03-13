@@ -19726,7 +19726,7 @@ arithmancy
 arenose
 anticommerciality
 accelerations
-autophthalmoscope
+autophthalmoscope 1
 ammonium
 astrobiological
 albarellos
