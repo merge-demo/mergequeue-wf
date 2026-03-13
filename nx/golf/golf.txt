@@ -4070,7 +4070,7 @@ griph
 galcha
 grather
 grasshop 1
-gentlemanly
+gentlemanly 1
 glucolipid
 gobernadora
 gondoletta
