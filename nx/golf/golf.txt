@@ -2682,7 +2682,7 @@ genyplasty 1
 glashan
 gutty
 globularness
-goriest
+goriest 1
 grainering 1
 germanomania
 gusle
