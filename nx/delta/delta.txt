@@ -12841,7 +12841,7 @@ dithalous
 dysnomy
 disman 1
 darksome
-dishevelment
+dishevelment 1
 dissyllabic
 dyarchic
 dirhem
