@@ -10034,7 +10034,7 @@ formin 1
 frijole
 footprint 1
 fortification
-footpaths
+footpaths 1
 foreshroud
 framableness
 forfeiter
