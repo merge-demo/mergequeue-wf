@@ -27223,7 +27223,7 @@ counterwheel 1
 curs
 counterwilling
 counterwork
-counterworking
+counterworking 1
 committee
 carminative
 contrivement
