@@ -5239,7 +5239,7 @@ guestimate
 gaited
 gyrovagi
 goofer
-gemmipara
+gemmipara 1
 groovy 1
 glycose 1
 glycosine
