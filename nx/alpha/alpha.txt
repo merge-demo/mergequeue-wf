@@ -1768,7 +1768,7 @@ accusing
 assoria
 accusor
 annerre
-armouring
+armouring 1
 archsynagogue
 anthropomantist
 adelaster
