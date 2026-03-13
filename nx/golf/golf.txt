@@ -6883,7 +6883,7 @@ gurges
 gulosity
 glossologies
 gaoling
-goodishness
+goodishness 1
 gelechiidae 1
 gastight
 gilders 2
