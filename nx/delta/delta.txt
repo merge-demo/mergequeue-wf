@@ -9443,7 +9443,7 @@ destructively
 digamma 1
 demilegato 1
 downfeed
-dodgier
+dodgier 1
 disseat
 doryline
 decennia
