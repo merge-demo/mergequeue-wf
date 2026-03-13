@@ -9531,7 +9531,7 @@ gaggers
 glycogenase
 geophagous
 graals
-galvanofaradization
+galvanofaradization 1
 glutinize
 gagate
 gristliness
