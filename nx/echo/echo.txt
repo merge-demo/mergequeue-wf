@@ -766,7 +766,7 @@ extremital
 eidolism
 elegiambus
 estrones
-entour
+entour 1
 eggheads
 engrossingness
 enormity
