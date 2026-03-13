@@ -2567,7 +2567,7 @@ gaurs
 galvanoscope
 governmentalism
 gogmagog
-gauger
+gauger 1
 goneoclinic 1
 granolith
 grittle
