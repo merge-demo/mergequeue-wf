@@ -11421,7 +11421,7 @@ electrodesiccation 1
 evenforth
 electrooptical
 ectocommensal 2
-edificator
+edificator 1
 eruciform
 erenow 1
 emanatively 1
