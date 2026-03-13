@@ -1317,7 +1317,7 @@ eelworm
 een
 extraditable
 ecorche
-eblis
+eblis 1
 extrapolar
 eucairite
 eoghanacht 1
