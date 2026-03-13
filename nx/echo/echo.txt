@@ -3086,7 +3086,7 @@ epigram
 exogamy
 epidermis
 experimentalists
-elaidin
+elaidin 1
 earning
 elderly
 exorcisory
