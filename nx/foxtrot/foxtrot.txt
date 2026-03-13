@@ -9462,7 +9462,7 @@ footstone
 following 1
 fraternism
 flisk 3
-fitfulness
+fitfulness 1
 faux
 furcae
 fibrospongiae 3
