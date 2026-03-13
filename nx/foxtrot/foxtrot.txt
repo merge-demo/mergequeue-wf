@@ -8691,7 +8691,7 @@ fraze
 federating
 faultlessness
 fields
-foraneous
+foraneous 1
 fanlike
 factionate
 forjudge 1
