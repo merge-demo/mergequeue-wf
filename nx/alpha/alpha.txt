@@ -23633,7 +23633,7 @@ aborters
 alleviates
 allogeneous
 acanthocephala
-aurate
+aurate 1
 augitite
 aureate
 attendant
