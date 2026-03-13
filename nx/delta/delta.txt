@@ -1258,7 +1258,7 @@ dossil
 dermoptera
 distressfully
 dandyism
-depressives
+depressives 1
 disking
 datsuns 2
 disband
