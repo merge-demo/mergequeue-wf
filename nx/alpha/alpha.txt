@@ -1312,7 +1312,7 @@ almoning 1
 airfoil
 autocorrelate
 autosomally
-advectitious
+advectitious 1
 acatamathesia
 artinskian
 azurean
