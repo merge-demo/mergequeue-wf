@@ -2318,7 +2318,7 @@ deceptive
 deceptively
 dermatologic
 disloign
-deceptiveness
+deceptiveness 1
 diplex
 dinichthyid
 drossing 1
