@@ -7444,7 +7444,7 @@ graving
 germen
 ghbor
 groundswells 1
-gonococcal
+gonococcal 1
 grithbreach
 granuliferous
 grocery 1
