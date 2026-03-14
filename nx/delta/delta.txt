@@ -2372,7 +2372,7 @@ dewclaw
 darogha
 dwyka
 deciders
-disownment
+disownment 1
 disguisements
 distortedness
 dismantlement 1
