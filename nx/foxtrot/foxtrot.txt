@@ -8423,7 +8423,7 @@ forgetfulness 1
 frypan
 floorman 1
 futhark
-folksy
+folksy 1
 foistiness 2
 forlanas 1
 flatfootedly
