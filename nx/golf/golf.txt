@@ -4964,7 +4964,7 @@ grouthead
 genealogists 1
 glister 1
 gametocyst
-gunned
+gunned 1
 grazes
 guariba
 gurlet
