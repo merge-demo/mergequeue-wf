@@ -8245,7 +8245,7 @@ eviscerates 1
 exuded
 enchylematous
 empirics
-exigeant
+exigeant 1
 epiphany
 enkraal
 electrothermometer 1
