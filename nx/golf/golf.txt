@@ -10673,7 +10673,7 @@ gabi
 grog 2
 gelatinobromide
 gurniad 1
-gurl
+gurl 1
 goldin
 generalty
 glycerols 1
