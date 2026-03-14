@@ -5286,7 +5286,7 @@ edentulous
 extrusive
 eosaurus
 endorsed
-emendating
+emendating 1
 effector
 eggers
 endorsees 1
