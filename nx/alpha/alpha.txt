@@ -16785,7 +16785,7 @@ affamish
 antiunion
 aphrodisiacs
 aphrodisiomania
-aphrodisiomaniac
+aphrodisiomaniac 1
 arrivism
 annotinous
 anagalactic
