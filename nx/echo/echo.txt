@@ -6833,7 +6833,7 @@ entitle 2
 edentate
 eyedropperful
 enshrinement 1
-evangelistarion
+evangelistarion 1
 enculturating
 extractive
 entitling
