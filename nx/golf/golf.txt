@@ -2432,7 +2432,7 @@ gemot
 gingall 1
 goniac
 gemmel 1
-gytrash
+gytrash 1
 gromwells
 garbure 2
 gemote
