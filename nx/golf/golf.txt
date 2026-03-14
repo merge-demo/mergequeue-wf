@@ -3986,7 +3986,7 @@ glycoprotein 2
 guttula 1
 groat
 gouter
-gesticulates
+gesticulates 1
 gansey
 greenest
 gorgonian 1
