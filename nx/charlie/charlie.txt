@@ -31444,7 +31444,7 @@ crouton
 cycladic
 curlike
 chatoyant
-curlylocks
+curlylocks 1
 cadew
 colback
 counterplayer
