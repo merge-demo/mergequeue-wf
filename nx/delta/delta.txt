@@ -17998,7 +17998,7 @@ dulcify
 dulcification
 dislodgeable
 disseminator
-deporture
+deporture 1
 dentelle
 dyers
 dulcified
