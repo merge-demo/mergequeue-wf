@@ -5480,7 +5480,7 @@ goupin
 gimmer 1
 goods 1
 goodyera
-georgian
+georgian 1
 gutium 1
 goldilocks
 glink
