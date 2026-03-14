@@ -1001,7 +1001,7 @@ ecumenacy
 engraffing
 equilibristic
 equanimous
-embalming
+embalming 1
 entailments
 endeictic 1
 euchrone
