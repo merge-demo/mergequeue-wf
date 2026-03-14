@@ -4294,7 +4294,7 @@ gingered
 gansy
 galleass
 goniopholidae 1
-gaugeable
+gaugeable 1
 geologize
 guss
 glendover 2
