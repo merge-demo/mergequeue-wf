@@ -10057,7 +10057,7 @@ galette 1
 gimels 1
 gossypols
 guerison 1
-guerites
+guerites 1
 gage 1
 gimmal
 grabens
