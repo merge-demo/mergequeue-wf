@@ -334,7 +334,7 @@ garvock
 gingerin 1
 gloriam 1
 gaura 1
-geometricize
+geometricize 1
 giftling
 gobiid
 glossophaga
