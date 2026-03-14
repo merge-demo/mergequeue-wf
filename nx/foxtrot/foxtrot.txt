@@ -266,7 +266,7 @@ foiled 1
 foredivine
 foretimes
 fluffing
-firedamp 1
+firedamp 2
 flutter 1
 fadge
 fermery
