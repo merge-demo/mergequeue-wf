@@ -18654,7 +18654,7 @@ daimyo
 devitrification
 decolorize
 devaporation 1
-dereign
+dereign 1
 deathful
 deflagrability
 daishikis
