@@ -11941,7 +11941,7 @@ crevassing
 cobhouse
 chorial
 cilician
-choriamb
+choriamb 1
 cooped
 choriambic
 coaggregated
