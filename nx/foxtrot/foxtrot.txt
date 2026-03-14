@@ -8385,7 +8385,7 @@ formicative
 forklike
 foliage
 feazings
-foreleg
+foreleg 1
 factorist 1
 flaggelation
 forlain
