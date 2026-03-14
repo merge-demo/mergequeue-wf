@@ -17487,7 +17487,7 @@ artha
 acuter 1
 archaicness
 antiunionist
-appearer
+appearer 1
 appearers
 aseismicity
 absoluter
