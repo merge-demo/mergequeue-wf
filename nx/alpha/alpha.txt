@@ -20697,7 +20697,7 @@ artiad
 artichoke
 amygdalin
 autoagglutinating
-afghani
+afghani 1
 amphorous
 arefy
 axiolitic
