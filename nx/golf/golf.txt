@@ -8075,7 +8075,7 @@ geophysical 1
 glottic
 goasila
 gravat
-gallons
+gallons 1
 glassier
 gymnotid
 gratae
