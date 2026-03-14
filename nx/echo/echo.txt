@@ -10223,7 +10223,7 @@ enslaver
 ethernet
 enlightenment
 extrahazardous
-escrowed
+escrowed 1
 emmarbled
 electrotelegraphic
 escargotieres 1
