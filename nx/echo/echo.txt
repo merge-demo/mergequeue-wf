@@ -9979,7 +9979,7 @@ enfonced
 exacuate 1
 entrep
 estuarial
-epagogic
+epagogic 1
 eloquently
 estuosity 1
 endophagy
