@@ -1019,7 +1019,7 @@ caprelline
 calappidae
 calas
 chronologies
-colourtype
+colourtype 1
 cohoba
 calascione
 cydonia
