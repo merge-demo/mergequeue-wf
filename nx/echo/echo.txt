@@ -13137,7 +13137,7 @@ experientialism
 electrotonus
 eclipses 1
 edgers
-extensionality
+extensionality 1
 ergology
 euphonizing
 engarrison
