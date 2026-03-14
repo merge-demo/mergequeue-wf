@@ -2132,7 +2132,7 @@ decanonize
 decanting
 dematiaceous
 demonianism
-dyophysitic
+dyophysitic 1
 detectors
 diabolology 1
 diphosphoric
