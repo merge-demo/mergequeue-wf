@@ -5250,7 +5250,7 @@ gunter 1
 greeds
 gombroons
 geosynchronous
-gravitative 1
+gravitative 2
 gammer
 gluiest
 gazump
