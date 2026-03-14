@@ -3200,7 +3200,7 @@ brocket 1
 balanopsidales 2
 baka
 bilabial
-balancer
+balancer 1
 baptisin
 bataleur
 bashmuric
