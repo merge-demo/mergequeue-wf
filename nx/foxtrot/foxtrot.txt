@@ -4506,7 +4506,7 @@ fluffier
 fretsaws
 frightened 1
 fertilizations 3
-fountainwise
+fountainwise 1
 fogeater
 fogscoffer
 faldage
