@@ -7806,7 +7806,7 @@ dialogistical
 devoting
 daibutsu 1
 diphysite
-datakit
+datakit 1
 deforce
 denaturalizing 1
 dutchify
