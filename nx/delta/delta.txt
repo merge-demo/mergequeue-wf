@@ -12638,7 +12638,7 @@ dephase
 dae
 diatribe
 disinvagination
-deepfroze 1
+deepfroze 2
 directs
 dargsman
 decupled
