@@ -3025,7 +3025,7 @@ actinolitic
 anthropogenesis
 antimeson
 actinomeric
-apotheosise
+apotheosise 1
 amtrac 1
 amphinucleus 1
 atelectasis
