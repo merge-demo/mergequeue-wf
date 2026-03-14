@@ -12368,7 +12368,7 @@ allotypy 1
 amidosuccinamic
 animalia
 admensuration
-algesis
+algesis 1
 aporias 2
 animose
 armchairs
