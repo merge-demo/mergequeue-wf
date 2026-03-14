@@ -1829,7 +1829,7 @@ alveloz
 acephalous
 awnings
 alackaday
-autarch
+autarch 1
 akoasma
 adaptors 1
 adduct
