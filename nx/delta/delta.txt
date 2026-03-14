@@ -9227,7 +9227,7 @@ derbylite
 depender
 drosophilidae 1
 depositional
-debarkation
+debarkation 1
 disilluded
 decarchy
 discolour
