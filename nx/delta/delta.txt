@@ -8477,7 +8477,7 @@ dapperest
 downset 1
 directionize
 dodecyl 1
-draconitic 1
+draconitic 2
 downgrades
 diamondbacked
 doubter
