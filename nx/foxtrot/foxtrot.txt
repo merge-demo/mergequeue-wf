@@ -5081,7 +5081,7 @@ filmcard
 favourless 1
 frogwort 1
 fluctuable
-faceable
+faceable 1
 forcipial
 frowsier
 frugging
