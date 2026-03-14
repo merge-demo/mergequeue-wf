@@ -9699,7 +9699,7 @@ demonomy
 desulphurization
 dikaryophasic
 dikaryophyte
-demission
+demission 1
 dikaryophytic
 dipneusti
 diageotropy
