@@ -5830,7 +5830,7 @@ fungistatic 1
 frequentation
 fels
 figureheadless
-fisher
+fisher 1
 farth
 fustilugs
 flyspecking
