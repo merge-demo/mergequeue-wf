@@ -6814,7 +6814,7 @@ emphasise 1
 echoized
 entiris
 earlier 1
-epiloguize
+epiloguize 1
 etourderie
 extinguishing 1
 electronically
