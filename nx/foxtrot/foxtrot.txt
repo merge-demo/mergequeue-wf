@@ -5320,7 +5320,7 @@ ferreling
 footstall
 firman 1
 feminising
-flanky
+flanky 1
 formols 1
 fitch
 falsedad
