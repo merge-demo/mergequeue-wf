@@ -14247,7 +14247,7 @@ dramatists
 dicer
 disbursal 1
 diadermic
-damage
+damage 1
 derotrematous 1
 disvisage
 dossing
