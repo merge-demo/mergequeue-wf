@@ -10454,7 +10454,7 @@ disinflame
 dow
 douzainier
 defi
-dreidels
+dreidels 1
 diplomatism
 disnatured
 diplococcocci 1
