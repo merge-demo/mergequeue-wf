@@ -27650,7 +27650,7 @@ chamfered 1
 croquette
 cowbanes
 corticosteroid
-cowberry
+cowberry 1
 cardiology
 circumplect
 chimneying
