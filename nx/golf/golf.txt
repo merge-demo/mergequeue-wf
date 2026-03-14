@@ -1689,7 +1689,7 @@ gazetteerish
 gane
 grassquit 1
 glaciation
-gymnasiarchy
+gymnasiarchy 1
 goldfinnies
 glaucin 1
 gnarlier
