@@ -9518,7 +9518,7 @@ dighted 1
 dighter
 decussation
 donatives
-drabs
+drabs 1
 donationes
 decentred
 deaerate
