@@ -7922,7 +7922,7 @@ directed
 dextran
 dissympathize
 dextranase
-doublelunged
+doublelunged 1
 defunctive
 decimeters
 dextroaural
