@@ -16955,7 +16955,7 @@ bugginess
 bookmonger
 buginvillaea
 bong 1
-bugleweed
+bugleweed 1
 baklawa
 beadflush
 balloonation
