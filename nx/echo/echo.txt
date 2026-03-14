@@ -9647,7 +9647,7 @@ edicule
 esoterize
 eventless
 espada
-esurine 1
+esurine 2
 espadon
 ewer
 endoblast 1
