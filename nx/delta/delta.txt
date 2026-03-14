@@ -3409,7 +3409,7 @@ downlinked
 disables
 dumpcarts
 deflesh
-deflocculant
+deflocculant 1
 dragsman
 dimethylhydrazine
 downrightness
