@@ -8434,7 +8434,7 @@ estrum
 exceedable
 excitator
 endhand 1
-earplug
+earplug 1
 espontoon 1
 engraftation 1
 entertain

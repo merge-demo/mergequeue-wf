@@ -5011,7 +5011,7 @@ ammoniacum 1
 adularescent
 aporrhiegma 1
 allantoidal
-ap
+ap 1
 aerotonometric
 aerotropism
 aeruginous
