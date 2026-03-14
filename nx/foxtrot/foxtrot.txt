@@ -7843,7 +7843,7 @@ filterman
 follies
 fenzelia
 flotative 1
-furiousity
+furiousity 1
 flittered
 fruitwood
 featherstitch
