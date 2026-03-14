@@ -7754,7 +7754,7 @@ dowie
 drawler 1
 detect
 ductilizing
-daphnephoria
+daphnephoria 1
 devaluating
 deafness
 devocalized
