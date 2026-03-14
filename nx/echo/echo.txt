@@ -9524,7 +9524,7 @@ elective
 entach
 enarch
 endict
-exopterygotic
+exopterygotic 1
 elementalistic
 equipondious
 escry
