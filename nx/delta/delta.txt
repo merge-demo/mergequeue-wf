@@ -12928,7 +12928,7 @@ disnew
 drachmae
 debussed
 desisting
-delving
+delving 1
 dapicho
 disobeying
 deviant
