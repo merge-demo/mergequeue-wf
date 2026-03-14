@@ -7832,7 +7832,7 @@ fragments
 feltyflier
 favoredly 1
 fowlerite
-favourite
+favourite 1
 fritterers
 filchingly
 foreordinate
