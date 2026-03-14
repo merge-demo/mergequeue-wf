@@ -9908,7 +9908,7 @@ geisha
 granate
 glandered
 gradationally
-glycerose
+glycerose 1
 gamasid
 graticulation
 gastrula
