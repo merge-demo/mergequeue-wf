@@ -4137,7 +4137,7 @@ aphrasia
 adjag
 apoapsis 1
 abasement 1
-armorers
+armorers 1
 acetoxyls
 anabaptistically
 amalgamable
