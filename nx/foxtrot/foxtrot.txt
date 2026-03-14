@@ -3917,7 +3917,7 @@ function
 fiddle
 foveal 1
 fasciation 1
-frightens
+frightens 1
 figurate
 findhorn 1
 filarees 1
