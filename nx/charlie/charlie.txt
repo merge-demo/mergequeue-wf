@@ -2372,7 +2372,7 @@ consignataries
 canap
 consummator
 cubitocutaneous
-celtologist
+celtologist 1
 compliments
 canapina 1
 clypeaster 1
