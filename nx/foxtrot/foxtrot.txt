@@ -918,7 +918,7 @@ faradised
 furfural 2
 flamingoes
 fainness
-fringiness
+fringiness 1
 ferrimagnetically 1
 farceur
 ferneries

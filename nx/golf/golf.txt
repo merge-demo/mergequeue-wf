@@ -1893,7 +1893,7 @@ gullied
 galeated
 globulet
 gunboat 2
-geomalic
+geomalic 1
 gaudless
 ganglia
 guttled
