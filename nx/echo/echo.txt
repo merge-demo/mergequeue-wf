@@ -13470,7 +13470,7 @@ edgerman
 epenthetic
 electrolyse
 ensuingly
-encopresis
+encopresis 1
 elucidatory
 endoperidial
 empory 1
