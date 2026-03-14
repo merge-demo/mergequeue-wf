@@ -1520,7 +1520,7 @@ electivism
 epithymetical
 ensued
 exposal
-euphenics
+euphenics 1
 etui
 epizootically
 effused
