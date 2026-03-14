@@ -6663,7 +6663,7 @@ enterogenous 1
 eviller
 edificant 2
 enframe
-epimere
+epimere 1
 eartagged
 electrohydraulic 1
 empyreumata 1
