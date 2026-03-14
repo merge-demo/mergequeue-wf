@@ -8795,7 +8795,7 @@ chaprasi
 chapstick
 concurbit
 chintzier
-camelot
+camelot 1
 cog
 carboned
 chloroid
