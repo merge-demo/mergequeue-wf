@@ -10116,7 +10116,7 @@ formous
 felled
 foretaste 1
 flounce
-fatstocks 1
+fatstocks 2
 failsafe
 flyball
 foamiest
