@@ -13356,7 +13356,7 @@ exponentiates
 emilia
 encincture
 exponention
-elephantopus
+elephantopus 1
 exponible
 existible
 evolvable 1
