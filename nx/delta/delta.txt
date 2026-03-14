@@ -6393,7 +6393,7 @@ doggones
 docquet
 druidic
 deewans
-disadvanced 2
+disadvanced 3
 derride
 derriere
 duster
