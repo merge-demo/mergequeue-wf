@@ -310,7 +310,7 @@ gymnopaedic
 gravimeters
 gullets
 glucuronidase 1
-graeculus
+graeculus 1
 gingering
 guised
 galactogenetic
