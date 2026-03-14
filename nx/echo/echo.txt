@@ -3137,7 +3137,7 @@ elliot
 epizzoa
 educationable
 equulei
-ergatocracy
+ergatocracy 1
 equoidean
 esemplastic
 extemporize 1
