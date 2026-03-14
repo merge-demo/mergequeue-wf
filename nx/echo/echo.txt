@@ -3836,7 +3836,7 @@ explored
 ectopistes
 emceeing
 expilate 2
-enquirer
+enquirer 1
 eyewater
 erect 1
 epilogs

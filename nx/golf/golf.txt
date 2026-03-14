@@ -10350,7 +10350,7 @@ gnashing
 galliform
 galactosamine
 grasshook 2
-getatability
+getatability 1
 gemology 1
 geophyte 1
 grike
