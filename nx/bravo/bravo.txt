@@ -9745,7 +9745,7 @@ birdmouthed 1
 bethinks
 bigam
 bissellia
-bivalency
+bivalency 1
 bullbats 2
 balding 1
 bombylious
