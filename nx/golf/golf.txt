@@ -4715,7 +4715,7 @@ galantine
 genteelize
 gowland
 gitanos
-geb
+geb 1
 goala 1
 geraera
 gitim

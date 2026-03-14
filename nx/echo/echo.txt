@@ -11498,7 +11498,7 @@ entosarc 1
 empannel
 elitists
 echovirus
-enrollees
+enrollees 1
 eradicant
 exercent
 edibility
