@@ -10060,7 +10060,7 @@ bairntime
 barmecide
 blastospheric
 botoyan
-blastomycin
+blastomycin 1
 butternose
 bottlemaking 1
 boltage
