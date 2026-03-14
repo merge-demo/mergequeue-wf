@@ -7003,7 +7003,7 @@ besmooth
 bangkok
 besmooths 1
 betrust
-banstickle
+banstickle 1
 barricades
 bloodying
 bacteritic
