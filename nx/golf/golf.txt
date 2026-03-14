@@ -10198,7 +10198,7 @@ generaliser 1
 grippers 1
 guile 1
 gyrectomies
-gabelles
+gabelles 1
 galluses 2
 groundsel
 garrisoned
