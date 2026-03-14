@@ -6674,7 +6674,7 @@ berimed
 beseemly
 berimes
 betangle 1
-borachio
+borachio 1
 bacterizing 1
 bacillian
 ballottable
