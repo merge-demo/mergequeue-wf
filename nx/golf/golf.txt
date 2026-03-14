@@ -2384,7 +2384,7 @@ goliards
 gumphion 1
 gloppy
 gild
-gauk
+gauk 1
 gruesomer 1
 gyrencephalous
 gonochoristic
