@@ -11454,7 +11454,7 @@ eyeflap 1
 empennages 1
 eructate
 epichoric 1
-enough 1
+enough 2
 enveloping
 endomitotic
 euxanthone
