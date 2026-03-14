@@ -1357,7 +1357,7 @@ goodwives
 garglers
 graplins
 glyoxylic
-ghastly
+ghastly 1
 glugglug 1
 garotters
 geodynamicist
