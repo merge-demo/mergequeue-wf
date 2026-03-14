@@ -1728,7 +1728,7 @@ frenchism
 foresaddle 1
 fossildom
 fibropsammoma 1
-frailero
+frailero 1
 floorwalker
 flamboyantly
 fadeaways
