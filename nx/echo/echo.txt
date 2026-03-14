@@ -9826,7 +9826,7 @@ electrophotography
 entrance
 eternise
 enhaulse
-ethionic
+ethionic 1
 exact
 estrich
 eiry
