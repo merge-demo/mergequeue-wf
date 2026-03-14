@@ -6102,7 +6102,7 @@ festucous
 filicologist
 folletto
 farmstead
-fresco
+fresco 1
 fanaticise
 featness
 fermorite
