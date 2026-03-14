@@ -10115,7 +10115,7 @@ flamant
 formous
 felled
 foretaste 1
-flounce
+flounce 1
 fatstocks 2
 failsafe
 flyball
