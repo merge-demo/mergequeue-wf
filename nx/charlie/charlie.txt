@@ -24770,7 +24770,7 @@ cueman
 candlewick
 cetorhinidae
 crudwort
-copses
+copses 1
 comprehend
 copsewood
 copsy
