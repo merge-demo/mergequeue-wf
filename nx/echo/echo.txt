@@ -237,7 +237,7 @@ earthshaker
 endearment 2
 earthman
 exinanite
-exmeridian 1
+exmeridian 2
 egeria
 electrothermally
 etymologists
