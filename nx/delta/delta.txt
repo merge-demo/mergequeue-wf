@@ -6997,7 +6997,7 @@ dolcino 1
 defoamed
 destructions
 despoiled
-diffracting
+diffracting 1
 destroyers
 durometer
 degust
