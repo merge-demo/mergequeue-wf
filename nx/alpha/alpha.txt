@@ -9579,7 +9579,7 @@ acis
 artarin
 auspicy
 antimodernist
-antespring
+antespring 1
 amphiblastic 1
 alur
 astrophotography

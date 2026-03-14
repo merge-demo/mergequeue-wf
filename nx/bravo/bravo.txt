@@ -5415,7 +5415,7 @@ boltstrake
 beguess 1
 biunial
 beguilements 2
-brutishly
+brutishly 1
 briquets
 blastomycotic
 biolite
