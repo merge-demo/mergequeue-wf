@@ -5891,7 +5891,7 @@ glumes
 galagos
 gritting
 gds 1
-gymnanthous
+gymnanthous 1
 graisse
 gaincome
 glummest
