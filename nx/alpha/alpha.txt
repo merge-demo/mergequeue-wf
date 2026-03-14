@@ -16040,7 +16040,7 @@ antiscientific
 ande
 auto
 antiscorbutical
-awakened
+awakened 1
 acrosphacelus
 antiscrofulous
 antiseismic
