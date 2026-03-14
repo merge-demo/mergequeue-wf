@@ -9516,7 +9516,7 @@ excurved
 eupneas 1
 evenlight
 ender
-essayistic
+essayistic 1
 earthquaking
 epithalamiums 1
 electrolithotrity
