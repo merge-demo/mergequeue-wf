@@ -8682,7 +8682,7 @@ footing
 fellatory 1
 flawed 1
 fillebeg
-finitary
+finitary 1
 fimetarious
 fumistery
 foretastes
