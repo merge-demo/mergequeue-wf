@@ -8073,7 +8073,7 @@ galempung
 galleries
 geophysical 1
 glottic
-goasila
+goasila 1
 gravat
 gallons 1
 glassier
