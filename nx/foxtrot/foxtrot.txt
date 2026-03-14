@@ -11537,7 +11537,7 @@ furlable
 fabling 1
 flon
 flytier 1
-fictionize
+fictionize 1
 flammigerous 1
 fossilising
 fards 1
