@@ -4971,7 +4971,7 @@ foamier
 factitious
 fixate
 florisugent
-fossilist
+fossilist 1
 frappeed
 fathomless
 frappes

@@ -9356,7 +9356,7 @@ excels
 enticeful
 espieglerie
 expulser 1
-eclaircissement
+eclaircissement 1
 erubescent
 entelechy
 ecus
