@@ -8393,7 +8393,7 @@ dialister
 dilatator
 diabase
 dialists
-deacetylated
+deacetylated 1
 dragboat
 dispreader
 disunite
