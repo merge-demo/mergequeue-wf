@@ -1687,7 +1687,7 @@ epilemmal 1
 exinite
 eidograph
 exhaustible
-eclogues
+eclogues 1
 eligent
 epiclike
 enolate
