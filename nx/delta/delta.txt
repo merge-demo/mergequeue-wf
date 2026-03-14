@@ -11502,7 +11502,7 @@ dove
 dekaliter 1
 decarnate
 dishier
-diplodia
+diplodia 1
 dicarboxylic
 disenthralled
 deployments
