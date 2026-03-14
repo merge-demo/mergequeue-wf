@@ -10248,7 +10248,7 @@ epaule 1
 ethicoreligious
 erased 2
 etesian
-expounds
+expounds 1
 exculpating
 externalisation
 epithelilia 1
