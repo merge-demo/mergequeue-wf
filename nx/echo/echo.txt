@@ -6936,7 +6936,7 @@ esthesiography 1
 eucryptite
 epic
 epiphyllospermous
-enfeoffed
+enfeoffed 1
 espartos
 evitable 1
 entomosporium
