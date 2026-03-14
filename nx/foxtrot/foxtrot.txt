@@ -4931,7 +4931,7 @@ flong
 frailties
 fatigable
 firmhearted 1
-flightiest
+flightiest 1
 finial 2
 fabricational
 funks
