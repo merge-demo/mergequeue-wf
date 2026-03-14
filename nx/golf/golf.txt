@@ -2509,7 +2509,7 @@ gael 3
 geomorphological
 gromyl
 gaudier
-gantlet
+gantlet 1
 gilliver
 glusid 1
 guanacos
