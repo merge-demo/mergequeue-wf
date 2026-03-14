@@ -825,7 +825,7 @@ barges 1
 brecciation
 befathered
 benzenoid
-biniodide
+biniodide 1
 bendaying
 bibliotheca
 billikin 1
