@@ -7399,7 +7399,7 @@ elate
 eparchies 1
 eternization
 equinoctial
-eparterial
+eparterial 1
 emasculations 1
 evocated
 esthiomenus
