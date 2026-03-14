@@ -2036,7 +2036,7 @@ faucalize
 fireboat
 flindosa
 forwander 3
-faunlike
+faunlike 1
 fructescence 1
 florins 1
 fascicule
