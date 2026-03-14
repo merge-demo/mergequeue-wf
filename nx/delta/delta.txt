@@ -14728,7 +14728,7 @@ dendroceratine
 dimensionality
 diphylleia 1
 daktylos
-dianoetic
+dianoetic 1
 detumescent 2
 dotlike
 der 2
