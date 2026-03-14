@@ -14895,7 +14895,7 @@ disengagement
 dodecade
 dodecafid
 dodecahedral
-doctorate
+doctorate 1
 dieselization
 degradability
 dodecahydrate 1
