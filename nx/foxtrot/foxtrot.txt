@@ -10025,7 +10025,7 @@ fungian
 futureless
 fermion
 flunkeyhood
-firstness
+firstness 1
 frigotherapy
 fibrosities
 fucation

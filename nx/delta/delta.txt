@@ -8331,7 +8331,7 @@ dalespeople
 disserve
 disadventure
 dresses
-droopingness
+droopingness 1
 diplois 1
 duer 1
 depletive
