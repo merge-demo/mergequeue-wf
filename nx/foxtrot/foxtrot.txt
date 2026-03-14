@@ -1905,7 +1905,7 @@ feints
 federalistic
 frogger
 furling
-flaunted
+flaunted 1
 fangot 1
 froze
 fungible
