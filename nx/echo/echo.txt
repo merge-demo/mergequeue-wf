@@ -7654,7 +7654,7 @@ eupatory
 ensient
 engines
 enc
-elne
+elne 1
 emotionality
 envine
 extratelluric
