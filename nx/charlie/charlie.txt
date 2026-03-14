@@ -26907,7 +26907,7 @@ contrectation
 counterman
 chanter
 carles
-countermand
+countermand 1
 craniological
 chirruping
 certhiidae
