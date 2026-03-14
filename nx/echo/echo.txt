@@ -8803,7 +8803,7 @@ equivelocity
 encrotchet
 eastlins
 exuberated
-exteriorized
+exteriorized 1
 enacted 1
 enlaced
 exuperable
