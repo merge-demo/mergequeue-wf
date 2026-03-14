@@ -3251,7 +3251,7 @@ fiendishness
 ferrean
 fictioner
 facewise 1
-furbisher
+furbisher 1
 forestish
 floristic
 foutre
