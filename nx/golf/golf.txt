@@ -5391,7 +5391,7 @@ generall
 glucosid 1
 german
 gigliato
-gigasecond
+gigasecond 1
 glycaemic
 gormandise 1
 gadidae
