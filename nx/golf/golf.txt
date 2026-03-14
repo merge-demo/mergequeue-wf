@@ -7660,7 +7660,7 @@ gamomania 1
 grevillea 1
 geira 2
 giraffesque
-geodynamics
+geodynamics 1
 gyppery 1
 goli
 globulariaceous 3
