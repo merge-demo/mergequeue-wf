@@ -7267,7 +7267,7 @@ enzootically
 enfin
 endodontium
 electrotropic
-ephemeromorphic
+ephemeromorphic 1
 exudate 1
 etherolate
 equilocation
