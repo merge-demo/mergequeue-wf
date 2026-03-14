@@ -9739,7 +9739,7 @@ gruffier
 greased
 guru 1
 gyarung
-gallinuline
+gallinuline 1
 grugous
 grooviness 1
 graycoat 2
