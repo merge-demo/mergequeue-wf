@@ -9383,7 +9383,7 @@ getatableness
 glacious
 ghettoes
 gelatinized
-gurt
+gurt 1
 graciosity
 goldsmiths
 galtonia
