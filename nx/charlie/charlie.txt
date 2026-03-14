@@ -23313,7 +23313,7 @@ consumo
 cynosarges
 consumpted
 castigative
-corrasive
+corrasive 1
 coniophora
 consumptional 1
 consumptions
