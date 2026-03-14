@@ -11518,7 +11518,7 @@ flamenship 1
 forepart
 fireflaught
 filmsetting
-fistic
+fistic 1
 foreremembered 1
 frolic
 furtiveness
