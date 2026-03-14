@@ -6889,7 +6889,7 @@ deadliest
 duumviral
 deficit 1
 drollist
-daying
+daying 1
 discomposes
 dandyishy
 desoxalic
