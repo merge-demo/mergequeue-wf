@@ -9162,7 +9162,7 @@ alveated
 alodialty
 adenogenous
 argentamin
-autometric
+autometric 1
 autopticity
 aphony
 angiolymphoma
