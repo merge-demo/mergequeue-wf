@@ -12015,7 +12015,7 @@ dowses 1
 dacelonine
 dermatoheteroplasty
 dermatomyoma
-deutonephron
+deutonephron 1
 disemploy
 diagraphs
 deschool 1
