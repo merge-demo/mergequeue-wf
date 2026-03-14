@@ -10959,7 +10959,7 @@ bumps
 biloquist
 biclinia
 buhlwork
-barth
+barth 1
 bourrees 1
 batiked
 batara 1
