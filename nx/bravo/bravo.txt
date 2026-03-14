@@ -2476,7 +2476,7 @@ blowout
 brawner
 baniwa
 bulbar 1
-bowk
+bowk 1
 battalion
 bangy
 bisexuality
