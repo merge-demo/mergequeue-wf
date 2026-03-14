@@ -9109,7 +9109,7 @@ grumose 1
 gaumlike 1
 geophagist
 galago
-gastroenterostomy
+gastroenterostomy 1
 geodesic
 guildsmen
 guillemet 1
