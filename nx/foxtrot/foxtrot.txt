@@ -7853,7 +7853,7 @@ fractionisation
 focusing
 fatiguable
 fellen
-fripperer
+fripperer 1
 frizzle
 fratricides
 fencible
