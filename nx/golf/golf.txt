@@ -5014,7 +5014,7 @@ genesiology
 grotesquerie
 garavance
 glowed 1
-geosynclinal
+geosynclinal 1
 geniohyoid
 gonosphere
 glaum 1
