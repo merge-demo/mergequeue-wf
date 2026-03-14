@@ -580,7 +580,7 @@ abluvion
 assai
 aconitia
 aigrette 1
-abmodalities
+abmodalities 1
 airscrew
 apioidal
 advowry
