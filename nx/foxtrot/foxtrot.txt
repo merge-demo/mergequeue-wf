@@ -7572,7 +7572,7 @@ flentes
 fleshbrush
 frivoler 1
 fishskin 2
-frizzliest
+frizzliest 1
 foreboom
 filterers
 fortuitus
