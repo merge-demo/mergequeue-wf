@@ -5728,7 +5728,7 @@ dresser
 depoetize
 deconsider
 depoh
-delawarean
+delawarean 1
 differentiates
 decd
 depolarise
