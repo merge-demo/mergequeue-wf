@@ -11159,7 +11159,7 @@ falseface 1
 foretack 1
 frumple 1
 fingerhold 1
-featurally
+featurally 1
 forefather 1
 force
 fyrdung
