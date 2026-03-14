@@ -22546,7 +22546,7 @@ cocarde
 chorizontist
 caslon
 clubfist
-clings
+clings 1
 cupriferous
 containerships
 conjunctively
