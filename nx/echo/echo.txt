@@ -8586,7 +8586,7 @@ exsufflicate
 esophagotome
 exhumed
 egregious
-etherify
+etherify 1
 ethicism
 emblement 1
 ethylenoid
