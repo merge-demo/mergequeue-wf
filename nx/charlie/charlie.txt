@@ -13332,7 +13332,7 @@ cycloplegic
 cyclopteridae
 centerwise 1
 counterpanes
-cyclopteroid
+cyclopteroid 1
 compactification
 czarist
 cycloramic
