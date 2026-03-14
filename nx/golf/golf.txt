@@ -9493,7 +9493,7 @@ gonyaulax
 gravaminous 1
 graceful
 goniotropous
-gabbroid
+gabbroid 1
 gneissy
 guelphish 1
 gaminess
