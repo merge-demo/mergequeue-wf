@@ -3890,7 +3890,7 @@ adjournal
 adjoust
 aleyrodidae
 adjudging
-apocarps
+apocarps 1
 achaenocarp
 alpinery
 adjudicated
