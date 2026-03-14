@@ -3720,7 +3720,7 @@ afterpressure
 antesternum
 affectionate
 adevism
-adfected
+adfected 1
 archmilitarist
 adfluxion
 adjiga 1
