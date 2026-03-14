@@ -11584,7 +11584,7 @@ effectively
 eserin 1
 enkindler
 extractable
-epinikion
+epinikion 1
 electro
 evincing
 extremal
