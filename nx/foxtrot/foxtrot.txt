@@ -1572,7 +1572,7 @@ fernwort
 fissirostres
 facially
 footingly 1
-fooster
+fooster 1
 favorer
 fundable
 fermila
