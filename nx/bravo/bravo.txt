@@ -6321,7 +6321,7 @@ blaring
 backswept 1
 benzalethylamine
 benzalphenylhydrazone
-beaconwise
+beaconwise 1
 benzamide
 benzoxate
 badgerbrush
