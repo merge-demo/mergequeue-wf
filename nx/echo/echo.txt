@@ -10291,7 +10291,7 @@ emerging
 entrust 1
 exoskeleton
 earlap
-embroiled
+embroiled 1
 exoccipital 1
 everblooming 1
 ethiodide
