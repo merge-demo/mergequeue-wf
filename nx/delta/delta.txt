@@ -5999,7 +5999,7 @@ dipleuric
 diagraphics
 diamagnetize
 diagrammitically
-depthlessness
+depthlessness 1
 diordinal
 diobols
 delimiting
