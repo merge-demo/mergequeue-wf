@@ -6742,7 +6742,7 @@ ceils
 confervaceous
 compound 1
 counterquestion
-coathangers
+coathangers 1
 conventionalization
 colligation
 ceinture
