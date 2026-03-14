@@ -10263,7 +10263,7 @@ flaskful
 frog
 fremd
 fleecers
-flopovers
+flopovers 1
 frolickers 1
 fanciest
 frogbit
