@@ -14189,7 +14189,7 @@ cabaa
 coastguard
 circumesophageal
 circumferential
-circumferentially
+circumferentially 1
 circinately
 cawnie
 counterpetition
