@@ -6294,7 +6294,7 @@ electroengrave 1
 enrober 1
 enrockment
 expiatist
-epituberculosis
+epituberculosis 1
 ecologically
 embryologies
 efformative
