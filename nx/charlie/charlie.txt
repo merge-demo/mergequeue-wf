@@ -25844,7 +25844,7 @@ coyest
 corsacs
 connarus
 corsages
-cleverer
+cleverer 1
 corsairs 1
 chalcid
 corsak
