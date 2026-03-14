@@ -10483,7 +10483,7 @@ epistatic
 etiology
 europeanism
 euchlorhydria
-etiologist
+etiologist 1
 elatives
 euripi
 etiologue
