@@ -13191,7 +13191,7 @@ atingle 1
 anisic
 apriorism
 anisobranchiate
-autocoid
+autocoid 1
 acetifying
 anisocytosis 1
 aval
