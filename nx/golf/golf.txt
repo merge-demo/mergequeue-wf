@@ -3498,7 +3498,7 @@ gouge
 guttles 1
 graphonomy
 gallop
-gnathotheca
+gnathotheca 1
 gips
 greenboard 2
 gesticulant
