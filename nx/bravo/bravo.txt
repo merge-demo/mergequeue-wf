@@ -2485,7 +2485,7 @@ bactericidal
 baggara
 blencher 1
 bareheadedness
-bareknuckled
+bareknuckled 1
 beebee
 bellabella
 brimfullness
