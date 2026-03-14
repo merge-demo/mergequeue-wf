@@ -12464,7 +12464,7 @@ becurses
 bests
 bowerlike
 bakeout
-babeldom
+babeldom 1
 bonbon 2
 betsimisaraka 1
 behap
