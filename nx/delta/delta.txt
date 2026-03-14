@@ -10586,7 +10586,7 @@ dolmen
 durukuli
 downness
 dinophilus
-duteously
+duteously 1
 directionless
 dynastic
 decourt
