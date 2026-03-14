@@ -5812,7 +5812,7 @@ anychia
 agglomerates
 agglomeration
 agglomerative
-agglutinate
+agglutinate 1
 arenaceous 1
 agglutinative
 adamantine
