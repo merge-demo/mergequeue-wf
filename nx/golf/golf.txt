@@ -10675,7 +10675,7 @@ gelatinobromide
 gurniad 1
 gurl 1
 goldin
-generalty
+generalty 1
 glycerols 1
 goldbeater
 gildsman
