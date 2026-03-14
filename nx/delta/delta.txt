@@ -11992,7 +11992,7 @@ drearies
 daemonology
 delundung
 depurge
-disaffirm
+disaffirm 1
 dermatalgia 1
 dismission
 drivecap
