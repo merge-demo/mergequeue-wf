@@ -3465,7 +3465,7 @@ genital 1
 gynecology
 gastrotomy
 grum 2
-gubernance
+gubernance 1
 gove 1
 gelid
 gaveler 1
