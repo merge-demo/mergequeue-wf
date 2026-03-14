@@ -10122,7 +10122,7 @@ flyball
 foamiest
 forehall
 forwardness
-fiercly 1
+fiercly 2
 fetalism
 flammability
 forespake
