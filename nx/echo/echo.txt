@@ -2004,7 +2004,7 @@ exophoric 1
 experienceless 1
 eryngo
 ekron
-educement
+educement 1
 epidemics
 ektenes 1
 endmatcher
