@@ -232,7 +232,7 @@ gimirrai 1
 grantor 1
 gluelike
 goajiro
-gomphosis
+gomphosis 1
 genos
 gibbons
 gainage 1

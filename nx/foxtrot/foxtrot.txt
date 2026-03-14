@@ -2569,7 +2569,7 @@ finding
 fleamy
 forgetter
 farad
-frousy
+frousy 1
 finlike 1
 fieldsmen 1
 feinting
