@@ -1987,7 +1987,7 @@ gurnet
 grubberies
 gregaloid
 generalness
-gambogic
+gambogic 1
 golliwog 1
 gadaria
 grudges
