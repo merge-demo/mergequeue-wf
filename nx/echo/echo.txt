@@ -7290,7 +7290,7 @@ explicitness
 economese
 exonerate
 endoproct
-epicurize
+epicurize 1
 entrant
 eohippuses
 epigenous
