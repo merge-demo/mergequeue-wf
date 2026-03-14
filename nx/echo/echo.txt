@@ -1537,7 +1537,7 @@ entasias 1
 estancias
 earlobes
 ensepulchre
-erses
+erses 1
 efl
 endocystitis
 entocondylar
