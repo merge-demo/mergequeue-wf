@@ -7763,7 +7763,7 @@ alea
 aleak 1
 archcorsair
 actuating 1
-aleatoric
+aleatoric 1
 aeschynite
 academics
 antisensuously
