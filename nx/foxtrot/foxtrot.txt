@@ -10031,7 +10031,7 @@ fibrosities
 fucation
 friendlessness
 formin 1
-frijole
+frijole 1
 footprint 1
 fortification
 footpaths 1

@@ -5309,7 +5309,7 @@ eradicators
 egeran 3
 epanaphora
 endoscopies
-endoskeletons
+endoskeletons 1
 endosmic
 embaphium 1
 externalize
