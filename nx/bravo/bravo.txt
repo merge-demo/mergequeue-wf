@@ -12466,7 +12466,7 @@ bowerlike
 bakeout
 babeldom
 bonbon 2
-betsimisaraka
+betsimisaraka 1
 behap
 ballplayer
 backcast
