@@ -1180,7 +1180,7 @@ equivalved
 eupatrid
 editorship
 editorships 1
-elasticness
+elasticness 1
 enterpriser
 equatability
 enchiridions

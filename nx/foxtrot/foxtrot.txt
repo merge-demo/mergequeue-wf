@@ -4484,7 +4484,7 @@ finific
 feste
 foremilk
 fate
-fconv
+fconv 1
 fazed
 fishponds
 fibrilled 1
