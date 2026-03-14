@@ -866,7 +866,7 @@ forsloth
 fractable
 frayne
 flowage
-flavicant
+flavicant 1
 fluorogenic
 furnariides 1
 formatively
