@@ -6486,7 +6486,7 @@ ferforth
 fireflower
 flushy 2
 flayer 1
-freshish
+freshish 1
 farmed
 forwarder
 fluorobenzene 2
