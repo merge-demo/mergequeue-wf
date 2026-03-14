@@ -4638,7 +4638,7 @@ beslaved 1
 bouts 1
 bucklered
 bubble
-bogans
+bogans 1
 bewilderingly
 broomwood
 baladine
