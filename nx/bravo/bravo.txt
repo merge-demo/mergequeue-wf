@@ -7059,7 +7059,7 @@ brachiosaurus
 bedazzlement
 bespangle
 bespangling
-bespate
+bespate 1
 basset
 bespattered
 boshvarks
