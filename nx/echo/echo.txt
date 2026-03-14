@@ -9211,7 +9211,7 @@ entomologists 1
 esoneural
 edenize
 electrofuse
-exculpatorily
+exculpatorily 1
 entomophaga
 evangelistaries
 emmew
