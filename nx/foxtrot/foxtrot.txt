@@ -11624,7 +11624,7 @@ fibrous 1
 fosite
 forehew 1
 fumy
-forwake
+forwake 1
 fetlow
 frontrunner
 fineness

@@ -6560,7 +6560,7 @@ exactly
 entomophthora
 endurant 1
 expenditor
-ended
+ended 1
 entangled
 entangledness
 erns 5
