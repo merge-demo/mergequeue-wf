@@ -17564,7 +17564,7 @@ bugle
 brushoff 1
 bunnia
 bevelment
-burgau
+burgau 1
 barnage
 benzidins 1
 barons
