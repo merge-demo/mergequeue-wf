@@ -8689,7 +8689,7 @@ foretastes
 figurativeness 1
 fraze
 federating
-faultlessness
+faultlessness 1
 fields
 foraneous 1
 fanlike
