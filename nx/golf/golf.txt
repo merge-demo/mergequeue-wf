@@ -2041,7 +2041,7 @@ goaf
 gallied
 gyps
 glime 2
-gantry
+gantry 1
 gazzetta
 goutily
 gavels 1
