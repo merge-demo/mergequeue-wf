@@ -30181,7 +30181,7 @@ crucifixions
 cyanemia
 calorics
 cryptocleidus
-cruciformity
+cruciformity 1
 cruciformly
 circumradii
 crucily
