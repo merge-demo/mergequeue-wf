@@ -19086,7 +19086,7 @@ carmela
 collimate 1
 coeds
 cabalism
-corrido
+corrido 1
 clarencieux 1
 cardiasthma
 chloridizing
