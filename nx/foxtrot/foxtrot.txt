@@ -2667,7 +2667,7 @@ flowerful 2
 forwoden
 freshes
 fluocerite 1
-firmless
+firmless 1
 fluviatic 1
 feeding 1
 fakers
