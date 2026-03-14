@@ -4788,7 +4788,7 @@ erythrol
 epanagoge 1
 encoding
 exhausted
-equipostile 1
+equipostile 2
 enerve
 embrocate 1
 ergasterion 1
