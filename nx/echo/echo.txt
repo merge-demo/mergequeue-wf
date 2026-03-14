@@ -11627,7 +11627,7 @@ erethizon
 earthrise 1
 estrange
 epoptes
-endites
+endites 1
 evoking
 emblemed
 endoceratite
