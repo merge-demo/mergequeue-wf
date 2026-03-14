@@ -9248,7 +9248,7 @@ ghostlify
 growthiness
 glucagon
 guideless
-geomagnetician
+geomagnetician 1
 gyroceran
 groundably
 gunja
