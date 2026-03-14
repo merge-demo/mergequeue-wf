@@ -12121,7 +12121,7 @@ epitheloid
 eradicator
 entwisting
 embrowning
-excudate
+excudate 1
 excurrent
 ekphorize
 elonite
