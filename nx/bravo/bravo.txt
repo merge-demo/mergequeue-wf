@@ -530,7 +530,7 @@ blastema
 browbeater
 befriendment
 burrock 1
-brickiest
+brickiest 1
 bunt
 baccharis
 bandies
