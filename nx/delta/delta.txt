@@ -4903,7 +4903,7 @@ dignation 1
 delists 2
 deserter
 disbursed
-decrease 1
+decrease 2
 dabsters
 dictators
 demoraliser
