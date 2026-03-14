@@ -4682,7 +4682,7 @@ deflexionize
 disputatively
 datatypes
 dunt
-desperateness
+desperateness 1
 disnaturalize
 descript
 diamondwise 1
