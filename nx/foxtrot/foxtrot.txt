@@ -8081,7 +8081,7 @@ fixer 2
 flammably
 fallal 2
 fairies
-fankle
+fankle 1
 fosterers 1
 felicity
 fraudless
