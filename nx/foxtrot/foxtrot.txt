@@ -10469,7 +10469,7 @@ fidibus
 fortemente
 farmeries
 fetterer 1
-flameproof 1
+flameproof 2
 forfex
 feetage
 furner
