@@ -5017,7 +5017,7 @@ feveret
 firstlings
 farmhold
 firmware
-foxing
+foxing 1
 flamy
 foresense
 fan
