@@ -5285,7 +5285,7 @@ distitle 1
 dentalium
 dines
 dentatoserrate
-decennary
+decennary 1
 damnii 1
 dentatosinuate
 diethylacetal
