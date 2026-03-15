@@ -5472,7 +5472,7 @@ emblematicalness
 esophagodynia 1
 energesis
 epilobium
-escript
+escript 1
 entranced
 estheses 1
 energeticness 1
