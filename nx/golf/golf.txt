@@ -5056,7 +5056,7 @@ goofballs
 griding 1
 gret
 glassful 1
-gonotocont
+gonotocont 1
 grapplers
 greedily
 gorillas
