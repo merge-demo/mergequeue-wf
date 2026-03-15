@@ -10043,7 +10043,7 @@ denudement
 dimpsy 1
 dimwittedly
 demodulation
-detailer
+detailer 1
 disordain
 decemfoliolate
 deratize
