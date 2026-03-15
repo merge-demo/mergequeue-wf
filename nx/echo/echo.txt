@@ -506,7 +506,7 @@ evector
 easiest
 enchiridia
 ecclesia
-elapsing
+elapsing 1
 extoll
 esthesiophysiology
 entrada
