@@ -6264,7 +6264,7 @@ doormats
 duchesnea
 dividable
 dermatomere
-deploredness
+deploredness 1
 doldrums
 deliriant
 diact
