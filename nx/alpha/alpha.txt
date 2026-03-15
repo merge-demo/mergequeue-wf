@@ -7411,7 +7411,7 @@ amban
 albuginitis
 album
 austroasiatic 1
-anaptychi
+anaptychi 1
 arsmetrik
 albumeniser
 albumenization
