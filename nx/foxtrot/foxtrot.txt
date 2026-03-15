@@ -1637,7 +1637,7 @@ ferrandin
 frike 1
 firoloida 1
 farmerette
-focalises
+focalises 1
 fthm
 facial
 federate
