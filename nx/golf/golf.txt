@@ -1895,7 +1895,7 @@ globulet
 gunboat 2
 geomalic 1
 gaudless
-ganglia
+ganglia 1
 guttled
 gurjan
 geal 1
