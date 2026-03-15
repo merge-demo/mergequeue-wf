@@ -731,7 +731,7 @@ breathy
 boneshaw
 bannerman
 bushmanship
-badigeon
+badigeon 1
 boggles
 begnawed 1
 beadsman
