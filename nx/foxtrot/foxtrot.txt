@@ -8980,7 +8980,7 @@ faultfinder
 fuddling
 fatigues
 forepole
-frustule
+frustule 1
 femoral
 fourre
 fraternizing 1
