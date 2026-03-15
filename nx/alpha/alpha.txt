@@ -13553,7 +13553,7 @@ anodyne
 anaphroditous
 anodized
 annulose
-appetitiveness
+appetitiveness 1
 abaisance
 anodizes
 acoelomous

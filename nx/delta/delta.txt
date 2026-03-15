@@ -8967,7 +8967,7 @@ desirably
 despraise
 demographic
 demonstrably
-degorge
+degorge 1
 despoticalness
 dated
 dichroitic
