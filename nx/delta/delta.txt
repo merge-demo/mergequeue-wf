@@ -15829,7 +15829,7 @@ diatoma
 dumdums 2
 dorsosacral
 dishumor
-dozen
+dozen 1
 dorsothoracic
 dialdehyde
 duhat
