@@ -2769,7 +2769,7 @@ elegancy 1
 econometric
 eudialyte 1
 egos
-encoop
+encoop 1
 evangelary
 elegy 2
 emblematicize 1
