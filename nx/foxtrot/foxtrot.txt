@@ -2513,7 +2513,7 @@ fuzzily
 faldworth
 footsore
 flaps 1
-foreswear 1
+foreswear 2
 fastballs 1
 frush 1
 frecket
