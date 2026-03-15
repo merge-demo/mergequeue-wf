@@ -15231,7 +15231,7 @@ acetimetry
 afterdinner 1
 antigravitate
 adequate
-advertency
+advertency 1
 annale
 alleviator 1
 agamically
