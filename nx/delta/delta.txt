@@ -1210,7 +1210,7 @@ dicyema
 decubiti
 drivehead
 decolonise 1
-disembarkation 1
+disembarkation 2
 defecating
 datelessness 1
 denizate
