@@ -34,7 +34,7 @@ artemon
 avernus
 assort
 abac
-aphthongal
+aphthongal 1
 antecedence
 aulophyte 2
 area
