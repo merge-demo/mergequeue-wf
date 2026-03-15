@@ -10785,7 +10785,7 @@ discomfiture
 dermitis 1
 dietotherapeutics
 desmanthus
-dipsomaniacs
+dipsomaniacs 1
 diestrual
 deepsome
 demonography
