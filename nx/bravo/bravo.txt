@@ -1486,7 +1486,7 @@ bromeosin 1
 baldfaced
 bridling
 boycottism
-balistes
+balistes 1
 battologized
 batfowled
 boilermaker
