@@ -8432,7 +8432,7 @@ chamian
 chamisal
 chamise
 chamises
-chamiso
+chamiso 1
 cipherdom
 chamlet
 contrib
