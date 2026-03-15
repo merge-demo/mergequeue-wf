@@ -745,7 +745,7 @@ electrotrephine
 ecology
 ekes
 employing 1
-enspell
+enspell 1
 estantion
 erythrozincite
 endotoxic
