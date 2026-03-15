@@ -11404,7 +11404,7 @@ furnace
 fundamentals
 feasor 1
 flummoxing
-flapperish
+flapperish 1
 footlicking
 furl
 furodiazole
