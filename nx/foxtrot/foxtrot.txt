@@ -11680,7 +11680,7 @@ flamberge
 flocculate
 feru
 felids 1
-finikin 1
+finikin 2
 flare
 forefended 2
 footglove
