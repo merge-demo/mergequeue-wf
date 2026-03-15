@@ -6228,7 +6228,7 @@ erasure
 enophthalmus
 encoders 2
 explorement
-expectingly
+expectingly 1
 enfetter 1
 eyedrop 1
 exhalations
