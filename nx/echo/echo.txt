@@ -5994,7 +5994,7 @@ embassade
 epidemiologic 1
 emitters
 enjoiners
-estafa
+estafa 1
 esperantic
 exigence
 eolithic
