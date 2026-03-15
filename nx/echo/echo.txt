@@ -632,7 +632,7 @@ enhydros
 encountering 2
 embolo
 energism
-echometer
+echometer 1
 echopractic
 explosive 1
 elitisms
