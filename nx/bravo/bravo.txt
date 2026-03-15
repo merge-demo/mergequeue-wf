@@ -9632,7 +9632,7 @@ bosky 1
 baboot
 biset
 belshazzaresque
-bisetose
+bisetose 1
 brocoli 3
 blubber
 bisetous
