@@ -8704,7 +8704,7 @@ flute
 flusterate
 fryers
 forecount
-funiculate
+funiculate 1
 furicane
 flapless
 forejudge
