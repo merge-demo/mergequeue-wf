@@ -4964,7 +4964,7 @@ exhibited
 embryotomy
 eucephalous
 envy
-edeoscopy
+edeoscopy 1
 extirpative
 engraphic
 exclusions
