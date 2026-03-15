@@ -5105,7 +5105,7 @@ cytocide 1
 chemoprophylaxis
 cascable
 cascadable
-cascade
+cascade 1
 crankous
 coupes
 crotaline
