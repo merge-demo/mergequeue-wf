@@ -9877,7 +9877,7 @@ griddles 1
 geikielite
 gimme
 globs
-grinningly
+grinningly 1
 gorals 1
 galatae
 gasholder
