@@ -13394,7 +13394,7 @@ disputisoun
 decimetre
 disyoke
 duala 1
-dobule
+dobule 1
 derationalize
 disheartens
 distributively
