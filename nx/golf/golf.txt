@@ -13,7 +13,7 @@ greedsome
 gledy
 gradins 1
 geotropic
-goozle
+goozle 1
 geoselenic
 gliderport 1
 glyptic 1
