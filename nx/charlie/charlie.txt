@@ -24048,7 +24048,7 @@ cosmonautic
 circularise
 capercally 1
 cobaltine
-conversationable
+conversationable 1
 coactor
 conversationalists
 conversationally
