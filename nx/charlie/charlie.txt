@@ -21509,7 +21509,7 @@ cognising 1
 cardiophobia
 chaumiere
 cantalas
-cravingly
+cravingly 1
 concordancy
 concordant
 concordantly
