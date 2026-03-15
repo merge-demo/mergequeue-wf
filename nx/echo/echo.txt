@@ -8824,7 +8824,7 @@ eremitish
 epineolithic 1
 endothermal
 embossable 1
-enround
+enround 1
 electrodepositable 1
 erections
 equipartile
