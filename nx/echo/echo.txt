@@ -10589,7 +10589,7 @@ euchlorine
 ectrodactylia 1
 enteropathy
 elench
-estates
+estates 1
 ergosterol 1
 eleutherodactylus 1
 estray
