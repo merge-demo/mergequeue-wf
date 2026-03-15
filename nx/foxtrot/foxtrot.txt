@@ -10853,7 +10853,7 @@ fluxweed 1
 flamefish 1
 furoin
 farset 1
-fishpool
+fishpool 1
 feasances 1
 fingertips 1
 forficate
