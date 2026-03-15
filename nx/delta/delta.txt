@@ -174,7 +174,7 @@ daybill
 daemony
 deforesting
 deratizing
-debitumenize
+debitumenize 1
 dropped
 dealfish
 decompensates
