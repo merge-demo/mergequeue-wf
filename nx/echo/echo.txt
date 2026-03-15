@@ -1121,7 +1121,7 @@ exfigure
 earock
 ember
 ergonovine
-equipoised
+equipoised 1
 evaluates 1
 epimerize
 encushion
