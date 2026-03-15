@@ -4385,7 +4385,7 @@ foraramina
 frontolysis
 fise 1
 forb
-feebler
+feebler 1
 furosemide
 frigga
 flavian
