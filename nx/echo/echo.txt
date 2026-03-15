@@ -6129,7 +6129,7 @@ evelyn
 ergoplasm 1
 excommunicant
 eche
-epicentre
+epicentre 1
 equalises
 eaved
 earlywood
