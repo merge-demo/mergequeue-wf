@@ -12105,7 +12105,7 @@ ancestry
 autocue 1
 analects
 allodge
-andaman
+andaman 1
 autobiographic
 arctian
 anchieutectic
