@@ -1254,7 +1254,7 @@ embroscopic 1
 exody
 epimorphosis
 echidnas
-epipodite
+epipodite 1
 emotionless
 epimeric
 echinacea 1
