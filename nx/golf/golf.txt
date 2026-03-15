@@ -10626,7 +10626,7 @@ grank 1
 geogen
 geronto
 geotical 1
-greenly
+greenly 1
 gossipries
 gyroceracone
 gaylies
