@@ -7050,7 +7050,7 @@ fonding 2
 fondle
 fondles
 fosterable
-fainter
+fainter 1
 fumant
 freemason 1
 finning
