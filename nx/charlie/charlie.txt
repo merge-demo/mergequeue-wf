@@ -11962,7 +11962,7 @@ corked
 cichoriaceous
 covens
 camois
-chiefdom
+chiefdom 1
 chorioidocyclitis
 cheki
 clarifiers
