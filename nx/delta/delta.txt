@@ -278,7 +278,7 @@ distrustfulness 1
 diaclasite
 dahs
 day
-distributed 1
+distributed 2
 dayabhaga
 dreed
 demisheath
