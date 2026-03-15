@@ -5180,7 +5180,7 @@ gymnotidae
 gatsby
 gallish
 gleamily 1
-gabble
+gabble 1
 grapsoid
 gharial 1
 garroters
