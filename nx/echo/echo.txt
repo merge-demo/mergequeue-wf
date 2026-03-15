@@ -8003,7 +8003,7 @@ ephebus 1
 enclisis
 ectozoic
 esculetin
-expurge
+expurge 1
 encyclopaedia
 evictor 1
 epimysia
