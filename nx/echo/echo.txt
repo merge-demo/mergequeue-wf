@@ -11020,7 +11020,7 @@ embrittlement 1
 emim
 endophasia
 exorable
-eoan
+eoan 1
 estufa
 enfortune
 eupsychics
