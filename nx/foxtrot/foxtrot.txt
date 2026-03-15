@@ -9349,7 +9349,7 @@ flane
 fewmets
 ferromagnesian 2
 frangulic 1
-ficin
+ficin 1
 flichter
 fishless
 facelessness
