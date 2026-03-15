@@ -5250,7 +5250,7 @@ applique
 aphorists
 anthropomorphise
 adenophthalmia
-allmouth
+allmouth 1
 aspheterism
 avadavats
 agrionidae
