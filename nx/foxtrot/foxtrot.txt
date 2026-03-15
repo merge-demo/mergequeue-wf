@@ -6892,7 +6892,7 @@ format
 fungin
 fortes
 freelancer
-funorin
+funorin 1
 funiculitis
 foveiform
 fjelds
