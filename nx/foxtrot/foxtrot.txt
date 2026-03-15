@@ -4608,7 +4608,7 @@ fatiguing 1
 fool
 footlight
 fringilliformes
-frenchily
+frenchily 1
 frumpling
 fordwine
 flask
