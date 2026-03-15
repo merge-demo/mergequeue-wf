@@ -11648,7 +11648,7 @@ anagogic
 ambar 1
 aventayle 1
 allochirally
-antlered
+antlered 1
 anagrammatically
 atmocausis
 aneles
