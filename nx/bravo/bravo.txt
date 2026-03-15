@@ -3088,7 +3088,7 @@ beetmister
 bliest
 burlesks 1
 balsaming
-brigantine
+brigantine 1
 bearbush
 backwardness
 borderings
