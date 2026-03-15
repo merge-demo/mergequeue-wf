@@ -10516,7 +10516,7 @@ etrog 1
 etruscology
 endosteally
 engloom
-equation
+equation 1
 embouchure
 ettirone
 energeticist
