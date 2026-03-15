@@ -4761,7 +4761,7 @@ diphthong
 demography
 dissimilative
 dittanies
-demichamfron
+demichamfron 1
 distorts
 distrained
 dementedness
