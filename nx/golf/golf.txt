@@ -5736,7 +5736,7 @@ galactolysis
 gade 1
 graphites
 glycogenolysis
-goldbird
+goldbird 1
 goosecap
 groovers 1
 geogonic
