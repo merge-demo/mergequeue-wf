@@ -108,7 +108,7 @@ flocks
 flatulent
 facilitation 1
 fluosilicate
-facilitative
+facilitative 1
 fashionist
 federated 1
 forpet

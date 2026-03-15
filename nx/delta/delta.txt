@@ -17778,7 +17778,7 @@ duckers
 derives
 dandiest
 duces 1
-disjoin
+disjoin 1
 disfigurements
 decurt
 disowning
