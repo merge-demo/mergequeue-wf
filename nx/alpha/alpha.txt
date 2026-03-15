@@ -1667,7 +1667,7 @@ accruer 2
 administrant
 anatta
 accrues
-accruing
+accruing 1
 antiprophet
 aneurismal
 accts
