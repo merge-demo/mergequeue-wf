@@ -8842,7 +8842,7 @@ devesting
 defail
 diastematomyelia
 dyspraxia
-dibbing
+dibbing 1
 datelined
 deliberates 1
 degame
