@@ -6617,7 +6617,7 @@ aims
 avidness
 aimworthiness 1
 argentiferous
-amphimictical
+amphimictical 1
 antagonizes
 admortization
 antimension
