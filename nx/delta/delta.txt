@@ -2709,7 +2709,7 @@ decorator
 deliberated 1
 decrypts
 dissembling
-dewcup
+dewcup 1
 daijo
 decorist
 durum 1
