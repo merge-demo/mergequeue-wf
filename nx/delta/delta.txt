@@ -6481,7 +6481,7 @@ dischase 1
 dispossesses
 desmarestiaceae 1
 descendable
-descendants
+descendants 1
 dimensioned
 dipeptid
 denizenship
