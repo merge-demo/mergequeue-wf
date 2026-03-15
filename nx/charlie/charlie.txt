@@ -4219,7 +4219,7 @@ contradivide
 cardiometer
 cardiometric 2
 cardiomyomalacia
-cardionecrosis
+cardionecrosis 1
 chilopodan
 cannibal
 cardioneurosis
