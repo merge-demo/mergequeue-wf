@@ -1435,7 +1435,7 @@ disparagingly
 dud 1
 dramatical
 dilapidator
-divisively
+divisively 1
 discothque
 diacaustic 1
 drooliest
