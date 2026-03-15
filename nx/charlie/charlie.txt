@@ -4630,7 +4630,7 @@ coherer 1
 cavalcading
 creeping
 cyanea
-colorationally
+colorationally 1
 capillariness
 carnosine
 carnous 1
