@@ -11918,7 +11918,7 @@ excavators
 euphonious
 entomologise
 ennui
-enunciatively
+enunciatively 1
 endometritis
 epimenidean
 erinaceidae
