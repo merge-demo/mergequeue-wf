@@ -10628,7 +10628,7 @@ fibrination
 flappet
 frontis 1
 fortifier 1
-fuzzes 1
+fuzzes 2
 fulgent
 friendlike
 farthest 1
