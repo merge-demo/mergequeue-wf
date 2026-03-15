@@ -10664,7 +10664,7 @@ amitotic
 adstipulation
 azotizes
 anormality
-acrolith
+acrolith 1
 amitrole 1
 antedorsal
 amitular

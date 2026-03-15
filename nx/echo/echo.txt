@@ -1092,7 +1092,7 @@ exsheath
 enclaving
 entomologies 1
 eidolon
-effigiated
+effigiated 1
 edgeshot
 embalmment
 exterritorial
