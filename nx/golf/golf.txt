@@ -9160,7 +9160,7 @@ gouldian
 grouchily
 gora
 geographically
-granulates
+granulates 1
 gregarinida
 grisping
 griphite
