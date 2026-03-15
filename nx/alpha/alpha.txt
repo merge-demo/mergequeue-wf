@@ -12896,7 +12896,7 @@ assonantic
 assimilable
 atheroscleroses
 athelings
-alkalisable
+alkalisable 1
 angareeb
 apolitically
 atacamite
