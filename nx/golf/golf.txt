@@ -1862,7 +1862,7 @@ guvacoline 1
 gunflint 1
 galacturia
 grabber
-gaucher
+gaucher 1
 grainless
 gatherers
 gregarinina 1
