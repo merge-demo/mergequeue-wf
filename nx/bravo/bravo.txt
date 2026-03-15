@@ -18125,7 +18125,7 @@ backstabbing
 betulinamaric
 biogas
 butene
-butenyl
+butenyl 1
 babuina
 beethovian
 buteonine 1
