@@ -1464,7 +1464,7 @@ endoral
 ensuable
 epitasis
 epithalamia
-etrogs
+etrogs 1
 etherified
 enciente 1
 epipodialia 1

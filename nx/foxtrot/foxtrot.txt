@@ -10045,7 +10045,7 @@ feudalize
 forerevelation 1
 fecundations
 frilled
-fultz
+fultz 1
 flacons 1
 flexitime
 finicky
