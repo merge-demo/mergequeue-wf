@@ -7224,7 +7224,7 @@ deverbative
 dugout
 desolately
 dimetric
-detenue
+detenue 1
 decussorium 1
 desulfurize
 drammocks
