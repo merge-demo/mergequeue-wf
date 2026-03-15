@@ -9421,7 +9421,7 @@ circularwise
 curtly
 chazzans
 choppy
-coignes
+coignes 1
 ctenophoral 1
 cartsale
 cystamine
