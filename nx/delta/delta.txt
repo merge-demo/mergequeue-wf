@@ -18349,7 +18349,7 @@ dreng
 dryas
 didachist
 duodecimfid
-dithionic
+dithionic 1
 duodedena
 digesting
 duodedenums
