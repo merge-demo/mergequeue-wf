@@ -42,7 +42,7 @@ donnees
 dackered 1
 dail
 daduchus
-deorusumduction
+deorusumduction 1
 dacryagogue
 discursiveness
 dacryocyst
