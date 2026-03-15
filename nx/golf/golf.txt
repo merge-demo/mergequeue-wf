@@ -121,7 +121,7 @@ griddle
 gadroonage
 gastroschisis
 gadrooning
-germinability
+germinability 1
 gageable
 geryonid
 gadwalls
