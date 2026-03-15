@@ -16673,7 +16673,7 @@ dramatization
 downshare
 dramatized
 degasses
-disenthrone
+disenthrone 1
 dramaturgically
 dianisidin 1
 devisceration
