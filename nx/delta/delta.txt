@@ -13144,7 +13144,7 @@ dispergate 1
 doraskean
 defeasible
 disenvelop
-dethyroidism
+dethyroidism 1
 decompositions
 donovan
 defamer
