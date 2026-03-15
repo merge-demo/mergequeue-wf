@@ -1954,7 +1954,7 @@ debusing 1
 declasses
 dedans
 disenact 1
-disavouch
+disavouch 1
 dharmic 1
 decumbency 1
 dau
