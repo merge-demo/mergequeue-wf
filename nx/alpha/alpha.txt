@@ -5594,7 +5594,7 @@ alvar 1
 asperating
 agallochs
 acupunctuation
-afunction
+afunction 1
 aquafortist 1
 agalma
 ardea
