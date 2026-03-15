@@ -10651,7 +10651,7 @@ chanteys 1
 chimeric
 coptic
 calci
-caribou
+caribou 1
 chimes
 calamarian
 chymes
