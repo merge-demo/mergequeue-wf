@@ -2529,7 +2529,7 @@ disembarkations 1
 dorsocephalic 1
 doughs 1
 distiller 1
-dynamograph
+dynamograph 1
 declensions
 decretist 1
 declimatize
