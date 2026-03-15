@@ -16043,7 +16043,7 @@ backstitching 1
 bronchorrhaphy 1
 bronchorrhea
 bluffable 1
-balkier
+balkier 1
 breastsummer 1
 bronchoscopist
 backbear
@@ -16635,7 +16635,7 @@ bedlamps
 billiardist
 bubblement
 bullshitting
-brawny
+brawny 1
 biseptate
 blanketer
 banderoled 1
@@ -17466,7 +17466,7 @@ buprestidae
 backspins
 berzelianite
 bena
-buprestis
+buprestis 1
 briskening
 bragwort
 bepierce

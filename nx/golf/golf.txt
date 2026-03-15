@@ -4109,7 +4109,7 @@ gendering
 gangrenate 1
 gr
 gallinulelike 1
-gymnasic
+gymnasic 1
 glycopeptide 1
 galeidae 1
 genitivally 2
@@ -9343,7 +9343,7 @@ geogeny
 geronomite
 globulitic
 governability
-griffs 1
+griffs 2
 glary
 game
 gratility
