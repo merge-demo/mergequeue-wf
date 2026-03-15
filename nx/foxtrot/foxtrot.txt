@@ -2460,7 +2460,7 @@ filiation
 fervour 1
 fallible
 floodmark
-forspeak
+forspeak 1
 folksiest
 fidia
 fernandinite 1
