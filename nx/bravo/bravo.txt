@@ -13230,7 +13230,7 @@ bibliography
 boschveld
 bimeby
 belverdian
-befall
+befall 1
 boulevardize
 bewit
 baston
