@@ -1638,7 +1638,7 @@ embroilment 1
 erector
 entomophagan
 egotistic
-encodings
+encodings 1
 exscind
 egotized
 exits
