@@ -4619,7 +4619,7 @@ bedazzle 1
 borderside
 bowsprit
 baloskion
-ballbuster
+ballbuster 1
 bedazzles
 bibliopolery
 baptise
