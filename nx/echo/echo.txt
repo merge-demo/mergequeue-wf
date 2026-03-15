@@ -11420,7 +11420,7 @@ effeir
 electrodesiccation 1
 evenforth
 electrooptical
-ectocommensal 2
+ectocommensal 3
 edificator 1
 eruciform
 erenow 1
