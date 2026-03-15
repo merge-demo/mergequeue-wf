@@ -12829,7 +12829,7 @@ churchyards
 churchier
 chuckholes
 churching
-cognisance
+cognisance 1
 chauth
 cirrhopod
 ceratitidae
