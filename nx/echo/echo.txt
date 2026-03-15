@@ -2504,7 +2504,7 @@ estrangelo
 etamin
 envelopers 1
 electroing 1
-eidola
+eidola 1
 ectotheca
 electrokinetic
 epicanthic
