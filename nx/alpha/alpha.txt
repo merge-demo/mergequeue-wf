@@ -4577,7 +4577,7 @@ anastrophe
 apish 1
 ardour
 advt
-agglomerating
+agglomerating 1
 aurigal
 anetholes
 apheresis
