@@ -1094,7 +1094,7 @@ forespeech
 fashions
 fallers
 flyings
-foreween
+foreween 1
 freakily
 farruca
 farseer
