@@ -8854,7 +8854,7 @@ donzella
 dybbuks
 diabolo
 disjuncture
-depilator
+depilator 1
 detriments
 dialyzable
 dentatocillitate 1
