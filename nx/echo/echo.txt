@@ -13938,7 +13938,7 @@ eternities
 expertship 1
 employments
 extraoral
-exterioration
+exterioration 1
 eschews 1
 euglenida
 elaborateness 1
