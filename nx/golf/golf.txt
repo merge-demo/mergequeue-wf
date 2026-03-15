@@ -1478,7 +1478,7 @@ gunzian
 goalposts
 genuses 1
 guested
-gonk
+gonk 1
 gasifies 2
 gridiron
 grantable
