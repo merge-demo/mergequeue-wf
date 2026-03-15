@@ -8900,7 +8900,7 @@ allophones
 allophonically
 alloplast
 allopsychic
-appleroot
+appleroot 1
 autobolide 1
 ailments
 ataghan
