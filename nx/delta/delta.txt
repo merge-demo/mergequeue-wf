@@ -1212,7 +1212,7 @@ drivehead
 decolonise 1
 disembarkation 1
 defecating
-datelessness
+datelessness 1
 denizate
 detacher
 discovering
