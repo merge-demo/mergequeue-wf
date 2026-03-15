@@ -8759,7 +8759,7 @@ federal
 fella
 forestick 1
 finchery 2
-forehands
+forehands 1
 feucht 1
 fortuitous
 fulgurate
