@@ -9658,7 +9658,7 @@ grozer
 grinders 1
 guesthouse
 griddling
-ghostiest 1
+ghostiest 2
 grabbling 1
 grubstakes
 gemmula
