@@ -17367,7 +17367,7 @@ drib 1
 doigt
 dca
 derivability
-dely
+dely 1
 delime
 dillydallies 1
 deallocation
