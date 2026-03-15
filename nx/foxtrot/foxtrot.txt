@@ -6927,7 +6927,7 @@ fierasferidae
 flachery 2
 finickin 1
 fidging
-fullgrownness
+fullgrownness 1
 fraid
 forthby 1
 ferritungstite
