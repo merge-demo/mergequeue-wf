@@ -16688,7 +16688,7 @@ bimetalism
 brooked 1
 blacking 1
 blanketeer
-buchanite
+buchanite 1
 blenching
 bucharest
 burros
