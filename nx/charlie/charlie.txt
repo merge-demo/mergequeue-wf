@@ -3248,7 +3248,7 @@ comprehends
 cameleon
 considerableness 1
 capillitium
-cloister
+cloister 1
 capillose
 corolline
 coelelminthes
