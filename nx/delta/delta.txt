@@ -9048,7 +9048,7 @@ diplomatist
 disponge
 dictamina
 drinkproof
-dendroidal
+dendroidal 1
 dictating
 duros
 dichromic
