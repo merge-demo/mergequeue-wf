@@ -25426,7 +25426,7 @@ cornstalks
 cornstarch
 crystallographers
 cornstone
-choliambist
+choliambist 1
 cornua
 comdt
 catacorner
