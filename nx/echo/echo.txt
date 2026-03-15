@@ -4376,7 +4376,7 @@ eggars
 encranial 1
 excrescence
 eremacausis
-elucidate
+elucidate 1
 epilachnides
 etymologizable
 erythrochaete
