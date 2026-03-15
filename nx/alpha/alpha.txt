@@ -6355,7 +6355,7 @@ almondlike
 aigre
 agnosy 1
 arachnidan
-andesic
+andesic 1
 astucious
 antiweed
 aguirage
