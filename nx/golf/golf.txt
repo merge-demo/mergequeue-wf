@@ -3187,7 +3187,7 @@ guinde
 grandstand 1
 gwendolen
 gigantomachy
-gular
+gular 1
 garetta
 galerus
 gaudiness
