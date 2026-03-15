@@ -27533,7 +27533,7 @@ conjunctive
 covent
 coventry
 coroplast
-creaturehood
+creaturehood 1
 cover
 coverages 1
 cytostatically
