@@ -11316,7 +11316,7 @@ epitomized
 epichlorohydrin
 endocline
 enterozoa
-excavated
+excavated 1
 emblematical
 ergometrine
 exsolved 1
