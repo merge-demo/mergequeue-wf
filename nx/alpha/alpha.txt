@@ -1212,7 +1212,7 @@ afterking 1
 attendance
 avellaneous
 afforest
-autogravure
+autogravure 1
 antimedically
 acanthodes
 alcoholise
