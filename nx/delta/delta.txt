@@ -174,7 +174,7 @@ daybill
 daemony
 deforesting
 deratizing
-debitumenize
+debitumenize 1
 dropped
 dealfish
 decompensates
@@ -278,7 +278,7 @@ distrustfulness 1
 diaclasite
 dahs
 day
-distributed 1
+distributed 2
 dayabhaga
 dreed
 demisheath
@@ -4025,7 +4025,7 @@ dynam
 dominance
 dualistic
 dogcarts
-dryadic
+dryadic 1
 dynamometamorphosed
 dicalcic
 deliciouses
@@ -13394,7 +13394,7 @@ disputisoun
 decimetre
 disyoke
 duala 1
-dobule
+dobule 1
 derationalize
 disheartens
 distributively
