@@ -6059,7 +6059,7 @@ crambus
 condole
 callistemon
 catholicize
-catholicly 1
+catholicly 2
 clinkers
 carpostome
 cloisterless
