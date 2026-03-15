@@ -2508,7 +2508,7 @@ deaminate
 dotted
 differentiative
 disregarder
-declare
+declare 1
 dudgen
 defogging
 drailing
