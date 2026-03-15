@@ -12529,7 +12529,7 @@ drostden
 disinclination
 downwardness
 discoverers
-disinclined
+disinclined 1
 dolichotmema
 disindividualize
 dimers
