@@ -4732,7 +4732,7 @@ angiasthenia
 ankee
 aerials
 asuri
-aeric
+aeric 1
 alligate
 aerifaction
 axillaries
