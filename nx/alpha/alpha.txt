@@ -937,7 +937,7 @@ absolutist
 absolutize
 absolves
 absolving
-abstort
+abstort 1
 afterings
 apodemata
 astriction 1
