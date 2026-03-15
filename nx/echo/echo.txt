@@ -510,7 +510,7 @@ elapsing
 extoll
 esthesiophysiology
 entrada
-empasm
+empasm 1
 ergocalciferol
 encoronate
 empathic
