@@ -2594,7 +2594,7 @@ galena 1
 graal
 gigues
 gussie
-glims
+glims 1
 graybacks
 gospelize
 gutling 1
