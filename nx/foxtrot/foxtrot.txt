@@ -11467,7 +11467,7 @@ fellage
 furrowlike 1
 furcately
 fissury
-ferntickle
+ferntickle 1
 formiate 1
 frostier
 foxfeet
