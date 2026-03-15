@@ -10529,7 +10529,7 @@ antitragic
 accusator
 amylom
 ager
-amyxorrhea
+amyxorrhea 1
 aquarid
 amyloplast 1
 appertaining
