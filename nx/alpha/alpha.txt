@@ -12218,7 +12218,7 @@ antinous 1
 atheromatous 1
 anaclete
 agnes 1
-antipestilent
+antipestilent 1
 academised 2
 autotoxicity
 argentum
