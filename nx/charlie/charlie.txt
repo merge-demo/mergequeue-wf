@@ -18164,7 +18164,7 @@ carpe
 coequalness
 chopping
 coequals
-coequate 1
+coequate 2
 chiotilla
 centerward
 chincha
