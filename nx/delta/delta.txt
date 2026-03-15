@@ -18637,7 +18637,7 @@ downtroddenness
 demihag
 dutied
 denarii 1
-degusting
+degusting 1
 dummyism
 dutymonger
 deactivations
