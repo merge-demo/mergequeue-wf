@@ -8496,7 +8496,7 @@ figment
 fumette
 forked
 formica
-fasciculate
+fasciculate 1
 fitty
 filix
 freeward
