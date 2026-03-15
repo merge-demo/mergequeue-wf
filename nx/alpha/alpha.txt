@@ -19432,7 +19432,7 @@ argyle
 autocarpian
 aseptate 1
 archaecraniate
-anomalously
+anomalously 1
 allative
 aerocolpos
 amphithalami
