@@ -802,7 +802,7 @@ foiter
 folkloric
 falcula 1
 froster
-flipe
+flipe 1
 folkloristic
 fleck
 fustanelle
