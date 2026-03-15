@@ -4140,7 +4140,7 @@ extund
 ejacula
 endplate 1
 enrooting
-entangler
+entangler 1
 exungulate
 eloigner
 expropriation
