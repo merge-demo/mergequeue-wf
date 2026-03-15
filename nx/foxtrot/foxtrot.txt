@@ -6763,7 +6763,7 @@ fogfruits
 frizel 1
 fluerics
 formicariae
-freshwater
+freshwater 1
 finely
 fumbler
 fury 1
