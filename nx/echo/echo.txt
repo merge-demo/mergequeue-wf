@@ -4436,7 +4436,7 @@ extispices
 e 1
 excoriation
 espacement 1
-eddoes
+eddoes 1
 ejaculation
 entomion 1
 elbert
