@@ -8178,7 +8178,7 @@ enew
 erythrite
 encarditis
 exhumator
-endosarcode
+endosarcode 1
 episclera
 encasement
 ensanguined
