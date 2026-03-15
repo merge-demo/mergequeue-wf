@@ -9309,7 +9309,7 @@ fibbed
 foldboats
 fistulization 1
 fractures
-frowsiness
+frowsiness 1
 fleshlike
 funked
 franchisees 1
