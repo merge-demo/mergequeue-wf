@@ -3610,7 +3610,7 @@ boliviano
 bathythermograph
 bathmat
 bereaven 1
-banker
+banker 1
 beulah
 boozer
 bibliomaniacal
