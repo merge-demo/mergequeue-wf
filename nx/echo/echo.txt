@@ -8752,7 +8752,7 @@ elephancy
 electroencephalograph 1
 engs
 equisided
-equisignal
+equisignal 1
 eyelast
 erethitic
 erythrozyme 1
