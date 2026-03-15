@@ -1088,7 +1088,7 @@ flashed 1
 foreordain 1
 facilitate
 facemark
-fleerish
+fleerish 1
 firehalls 1
 forespeech
 fashions
