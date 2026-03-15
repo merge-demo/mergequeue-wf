@@ -167,7 +167,7 @@ factionalism 1
 flexional 1
 fibroareolar
 fabes 1
-finites
+finites 1
 farcialize
 factionistism
 fusteric
