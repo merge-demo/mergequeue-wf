@@ -1954,7 +1954,7 @@ greywacke
 glairs 2
 garnishments
 glamor
-gimbal
+gimbal 1
 grubroot
 grudged 2
 gauby 1
