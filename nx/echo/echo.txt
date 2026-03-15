@@ -2007,7 +2007,7 @@ ekron
 educement 1
 epidemics
 ektenes 1
-endmatcher
+endmatcher 1
 excitableness
 epilate
 ethoses
