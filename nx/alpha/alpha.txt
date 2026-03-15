@@ -12276,7 +12276,7 @@ averageness
 anopluriform
 asseverative
 andrewartha
-autojigger
+autojigger 1
 albitophyre
 acrobatholithic
 appropre
