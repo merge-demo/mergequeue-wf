@@ -6778,7 +6778,7 @@ electrotechnics
 eir
 erythraemia
 entreasure 1
-emerit
+emerit 1
 endoscopic
 evacuation
 ediface 1
