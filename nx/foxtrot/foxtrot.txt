@@ -2458,7 +2458,7 @@ footscraper
 frenchless
 filiation
 fervour 1
-fallible
+fallible 1
 floodmark
 forspeak 1
 folksiest
