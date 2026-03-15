@@ -3454,7 +3454,7 @@ esquirearchy
 enregistration 1
 egal
 excursioner
-envelopes
+envelopes 1
 equivocacy
 enterclose
 encyclopaedial
