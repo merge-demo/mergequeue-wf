@@ -6614,7 +6614,7 @@ gauffering
 guffs 1
 gorcrow 1
 gordius
-glossolabiopharyngeal
+glossolabiopharyngeal 1
 gatehouses
 grouchy
 gucks
