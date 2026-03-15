@@ -4850,7 +4850,7 @@ duplicitous
 demandative
 demonizing
 drame
-dailies
+dailies 1
 dicarboxylate
 detecting
 demonographies
