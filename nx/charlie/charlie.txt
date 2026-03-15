@@ -12036,7 +12036,7 @@ champlev
 crisp
 countermachination
 crusca
-chairing
+chairing 1
 caruage
 casal
 chorussed
