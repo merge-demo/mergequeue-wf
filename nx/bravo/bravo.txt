@@ -3920,7 +3920,7 @@ bawneen
 bawra
 bintangor 1
 belugite
-barklyite
+barklyite 1
 brutalness
 bawsunt 1
 blamelessness 1
