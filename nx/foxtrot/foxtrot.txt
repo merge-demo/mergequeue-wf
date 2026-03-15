@@ -2553,7 +2553,7 @@ ferricyanide
 ferrihydrocyanic
 fervency 1
 feedsman 1
-friesic
+friesic 1
 fimbriatum 1
 fricandelle
 faubourg
