@@ -14050,7 +14050,7 @@ cookwares
 crocodile
 cleruchial 1
 circassic
-capivi
+capivi 1
 corpuscle
 circe 1
 circean
