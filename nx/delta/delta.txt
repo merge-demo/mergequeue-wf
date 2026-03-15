@@ -8978,7 +8978,7 @@ destining
 deforming
 disafforestation
 dippiest
-dichromatic
+dichromatic 1
 dewools
 debonairty
 diiambus
@@ -18181,7 +18181,7 @@ devote
 dislove
 dynamos
 diotrephes
-doucepere
+doucepere 1
 disavowable
 dewlaps
 digress
