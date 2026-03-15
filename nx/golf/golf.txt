@@ -8087,7 +8087,7 @@ genistin
 gorgeted 2
 grissens
 guttulae
-gyroscopes
+gyroscopes 1
 grasni 1
 gilliflower
 granitiform 1
