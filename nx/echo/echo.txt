@@ -5214,7 +5214,7 @@ encyclopaedist
 endophagous 1
 episiocele 1
 encircles
-endophyllum
+endophyllum 1
 exospherical
 ensphere
 ergatandromorph 1
