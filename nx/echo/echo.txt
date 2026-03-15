@@ -7540,7 +7540,7 @@ embowelled
 electrosynthesis
 ethylate
 euryprognathous
-egma
+egma 1
 electrodepositor
 endangering 1
 elytra
