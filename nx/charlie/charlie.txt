@@ -5877,7 +5877,7 @@ cultivated
 cochlearia
 chemicopharmaceutical
 cuemanship
-cleaves
+cleaves 1
 categorization
 corona 1
 crumbs
