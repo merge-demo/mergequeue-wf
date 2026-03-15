@@ -17414,7 +17414,7 @@ channeled
 condensible
 chemosis 1
 churchmaster
-coastward
+coastward 1
 coatdress
 coated
 commensurations
