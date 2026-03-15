@@ -3768,7 +3768,7 @@ bemist
 battologise
 bastile 1
 batlan
-bukshi
+bukshi 1
 battologising
 blooded 1
 boundingly
