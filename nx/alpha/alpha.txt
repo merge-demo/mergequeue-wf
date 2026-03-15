@@ -16607,7 +16607,7 @@ anteroparietal
 apertometer 1
 apocarpies
 adventures
-autoelevation
+autoelevation 1
 affrighter
 antichorus
 alioth
