@@ -12139,7 +12139,7 @@ debriefs
 debellator 1
 disestablishing
 diminuent
-disreputed
+disreputed 1
 drapers
 doorknobs
 diffuseness
