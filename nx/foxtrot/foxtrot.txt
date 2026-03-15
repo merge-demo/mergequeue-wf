@@ -9068,7 +9068,7 @@ flaxwort
 forwork 1
 forestalls
 flintified 1
-flux
+flux 1
 fowlfoot
 faultful
 flavorsome
