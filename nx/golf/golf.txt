@@ -8320,7 +8320,7 @@ gangrel
 grime
 girding 1
 granatite
-germanish
+germanish 1
 gasolier
 graptolitha
 gibbosity
