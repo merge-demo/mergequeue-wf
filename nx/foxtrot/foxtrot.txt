@@ -10156,7 +10156,7 @@ fennec
 functions 1
 furnisher
 frolicks
-foozling
+foozling 1
 firedogs 1
 farmhands
 faki
