@@ -8962,7 +8962,7 @@ democracies
 dotation
 drifter
 dimethoxymethane 2
-daughtership
+daughtership 1
 desirably
 despraise
 demographic
