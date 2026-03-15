@@ -5604,7 +5604,7 @@ fw
 foamily
 flatterable 1
 flagon
-fol
+fol 1
 forleaving 1
 fural
 forestays
