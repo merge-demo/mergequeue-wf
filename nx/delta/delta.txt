@@ -12227,7 +12227,7 @@ disfranchises
 dominant
 drosophilae 1
 depel
-deride
+deride 1
 dadenhudd
 discoursiveness
 deacetylating 1
