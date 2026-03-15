@@ -5405,7 +5405,7 @@ engirdles
 extraparochial
 ebonige
 encephalometric 1
-encapsuling
+encapsuling 1
 enthuses
 enfester
 ed 1
