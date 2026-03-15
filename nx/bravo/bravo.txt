@@ -17466,7 +17466,7 @@ buprestidae
 backspins
 berzelianite
 bena
-buprestis
+buprestis 1
 briskening
 bragwort
 bepierce
