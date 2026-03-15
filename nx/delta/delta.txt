@@ -15792,7 +15792,7 @@ dacryocystosyringotomy
 didymitis
 disciplined
 diaphragming
-dentosurgical
+dentosurgical 1
 disprobabilize
 dorsicornu
 dorsiflex
