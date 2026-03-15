@@ -11332,7 +11332,7 @@ formalith 1
 functionated
 fulvene
 furlan
-feateous
+feateous 1
 foreglimpsed
 fluoroid
 foolproof
