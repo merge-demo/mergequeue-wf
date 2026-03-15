@@ -6898,7 +6898,7 @@ gruffest
 gloatingly
 glycosaemia
 grandeval 1
-gaunch
+gaunch 1
 gravitater 1
 glacialize
 golgotha
