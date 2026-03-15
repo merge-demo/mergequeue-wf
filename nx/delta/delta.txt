@@ -511,7 +511,7 @@ delivers
 dromon
 diosmosis
 dibase
-disbursable
+disbursable 1
 disfranchiser
 damaskeen
 dod
