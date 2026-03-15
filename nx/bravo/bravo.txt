@@ -832,7 +832,7 @@ billikin 1
 bet 2
 bacillar
 bezique
-bagasses
+bagasses 1
 bedsit
 berceaunette
 badhan
