@@ -5183,7 +5183,7 @@ cauldron
 casemented
 casements
 cabbled
-connexivum
+connexivum 1
 caseolysis 1
 caseose
 caseous
