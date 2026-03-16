@@ -8921,7 +8921,7 @@ allothimorph
 allothimorphic
 azobenzene
 aisle
-allothogenic
+allothogenic 1
 astrakanite
 analcimic
 angora
