@@ -4690,7 +4690,7 @@ fourthly
 fatale 1
 flyweight
 fluctiferous
-flange 1
+flange 2
 fluidizer 1
 folkmooter
 forages
