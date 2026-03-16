@@ -2520,7 +2520,7 @@ ghazies 1
 gingle
 goiterogenic
 grue 1
-generations
+generations 1
 gweduc
 ganch
 gracing
