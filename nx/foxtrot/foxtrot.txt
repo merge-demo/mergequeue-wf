@@ -6603,7 +6603,7 @@ flawlessness 1
 flagellum
 flutist
 fecit
-fluence
+fluence 1
 figurant
 flightful
 freewoman
