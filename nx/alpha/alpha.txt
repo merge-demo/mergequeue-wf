@@ -24139,7 +24139,7 @@ acutate
 accelerating
 autunite
 antiresonator
-autoimmunizing
+autoimmunizing 1
 anachronisms
 avern 2
 azeotropism
