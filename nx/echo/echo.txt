@@ -3251,7 +3251,7 @@ eidetic 1
 enukki 1
 esophagomalacia
 endocone 2
-exantlate
+exantlate 1
 eulogising
 extraserous
 entomophagous
