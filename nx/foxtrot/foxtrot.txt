@@ -8084,7 +8084,7 @@ fairies
 fankle 1
 fosterers 1
 felicity
-fraudless
+fraudless 1
 freezes
 forepost
 friableness
