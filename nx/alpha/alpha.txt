@@ -11703,7 +11703,7 @@ analgias 1
 akeki
 analgic
 altocumulus
-antidysuric
+antidysuric 1
 africanthropus
 alkalimetry
 aglimmer
