@@ -5534,7 +5534,7 @@ begnawn
 brandisher
 bubastite 1
 bruce 1
-beisance
+beisance 1
 burh
 bouvier
 broadloom
