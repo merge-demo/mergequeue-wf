@@ -6909,7 +6909,7 @@ gnostically
 gonosome
 gulf
 glimmers 1
-governable
+governable 1
 goodliness
 gobbled 2
 gloxinias 1
