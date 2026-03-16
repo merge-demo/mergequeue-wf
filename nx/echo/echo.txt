@@ -11385,7 +11385,7 @@ ergatoid
 electrically
 epipolic
 equilater
-erudite
+erudite 1
 eventual
 eozoic
 energising
