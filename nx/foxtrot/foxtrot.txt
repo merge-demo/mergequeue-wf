@@ -1765,7 +1765,7 @@ freckledness
 foretrysail
 fishgarth
 frogmen
-flindosy
+flindosy 1
 foredoes 1
 featherwing
 fitified
