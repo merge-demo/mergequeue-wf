@@ -946,7 +946,7 @@ bequirtle
 barbeled 1
 bravely
 beprank
-buggier
+buggier 1
 bidarkas
 bagwig
 bastardry
