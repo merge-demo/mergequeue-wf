@@ -3437,7 +3437,7 @@ descrier
 dormient
 duelists
 dehumidifier
-damp 1
+damp 2
 discomfortably
 defluent
 didepsid 1
