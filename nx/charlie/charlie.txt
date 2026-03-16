@@ -2108,7 +2108,7 @@ campanile
 cyclist 2
 cognises
 chicayote
-campanini
+campanini 1
 countercomplaint 2
 casseroled
 campanistic
