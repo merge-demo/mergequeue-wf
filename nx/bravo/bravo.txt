@@ -7085,7 +7085,7 @@ bismer
 beetler
 beknown
 bousoukia
-bespeckle
+bespeckle 1
 bethylid
 bespeckled
 benzoyls 1
