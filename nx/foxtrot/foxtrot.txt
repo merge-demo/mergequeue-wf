@@ -102,7 +102,7 @@ forrad
 fluctuate
 faciends 1
 foxings
-featheredges
+featheredges 1
 forthcome
 flocks
 flatulent
