@@ -3972,7 +3972,7 @@ extremistic 1
 encephalic 1
 eugregarinida
 epimeron 1
-epithelial
+epithelial 1
 emotivity
 exorability
 epocha
