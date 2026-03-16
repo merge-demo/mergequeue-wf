@@ -16889,7 +16889,7 @@ diva
 damboard
 deuzan
 dowsabel
-devitaminize
+devitaminize 1
 diphylla 1
 dovey
 didrachmas
