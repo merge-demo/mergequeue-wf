@@ -5449,7 +5449,7 @@ girsle
 gearwheel
 goethite
 gamelote
-gyrfalcons
+gyrfalcons 1
 gliffy
 goodwillies 2
 glirine
