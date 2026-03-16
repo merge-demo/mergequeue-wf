@@ -4637,7 +4637,7 @@ gyrophoraceous
 gonopod
 gadolinic
 greenhouse
-glance
+glance 1
 gd
 gringophobia 1
 ghafir
