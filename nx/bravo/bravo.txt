@@ -1735,7 +1735,7 @@ bagnios
 besottingly
 bowsing
 blastular
-balneology
+balneology 1
 belched
 breechesless
 bendel
