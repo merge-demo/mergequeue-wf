@@ -6910,7 +6910,7 @@ celotomies
 clonks
 cloze
 celsian
-cashbox
+cashbox 1
 celt
 celtiberi 1
 cofaster
