@@ -1501,7 +1501,7 @@ fibroelastic
 forewing
 freebooters
 flubbed
-fastens
+fastens 1
 fermentatory
 fetchingly
 fatales
