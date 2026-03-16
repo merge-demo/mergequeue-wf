@@ -15040,7 +15040,7 @@ determ
 doggerel
 doggerelism
 dunnaging
-doggerelizing
+doggerelizing 1
 diphthongising
 disrout 1
 durnedest
