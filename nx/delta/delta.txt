@@ -15944,7 +15944,7 @@ diple
 digonal 1
 dermestidae
 dimethoxy
-discoloured
+discoloured 1
 ducato 1
 dammara
 domineeringness
