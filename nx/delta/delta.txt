@@ -17874,7 +17874,7 @@ defat 1
 dayflowers
 docible 1
 duelling
-duellist
+duellist 1
 diplomata
 debromination
 disburser
