@@ -9272,7 +9272,7 @@ drupaceae
 disambiguations 1
 duskish
 daguerreotyper
-disarranger
+disarranger 1
 demountability
 disploding
 dictatress
