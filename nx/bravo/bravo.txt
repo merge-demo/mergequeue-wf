@@ -562,7 +562,7 @@ baconian 1
 berthing
 benzalacetone
 bishopric 1
-burnets
+burnets 1
 breaths 1
 bistro
 baconism
