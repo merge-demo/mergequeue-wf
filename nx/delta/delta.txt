@@ -400,7 +400,7 @@ deities
 drawtubes
 dodrantal
 discoursers
-deltahedron 1
+deltahedron 2
 deaning
 dais
 dibs 1
