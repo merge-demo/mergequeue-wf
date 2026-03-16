@@ -8691,7 +8691,7 @@ guttling 2
 greekize 1
 gastraeal
 gnathonical 2
-glareless
+glareless 1
 groan
 gabbed
 gastrodisc 1
