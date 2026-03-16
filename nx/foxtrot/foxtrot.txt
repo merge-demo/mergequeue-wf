@@ -5281,7 +5281,7 @@ flavanilin
 favonius 1
 flavescence
 fingall
-flavescent
+flavescent 1
 funguses
 flews
 farse
