@@ -5062,7 +5062,7 @@ greedily
 gorillas
 gateaux
 graecizes
-gasts
+gasts 1
 glued 1
 grisoutine 2
 glassies
