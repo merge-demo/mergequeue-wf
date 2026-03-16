@@ -9857,7 +9857,7 @@ choosy
 cryptographist
 chemisorb
 coprophilic
-copperytailed
+copperytailed 1
 crampit
 chemists 1
 coenactor
