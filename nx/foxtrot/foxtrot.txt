@@ -7129,7 +7129,7 @@ forejudger
 formfeeds
 fellfare
 frig 1
-footful
+footful 1
 foolhardiness
 fidgety
 fraken
