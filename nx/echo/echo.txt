@@ -638,7 +638,7 @@ explosive 1
 elitisms
 ebonise
 electronographic
-exobiological
+exobiological 1
 excerebrate
 ejulation
 excommenge
