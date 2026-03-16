@@ -5431,7 +5431,7 @@ deregister
 disenablement
 deorsum 1
 deossification
-deuterostomatous
+deuterostomatous 1
 dissipates
 dyakisdodecahedron
 diprotodontia
