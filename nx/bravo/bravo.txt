@@ -8787,7 +8787,7 @@ binbashi
 birotatory 2
 bobbysoxers
 boardly 1
-barterer
+barterer 1
 beggars 1
 biophysiologist
 bytalk
