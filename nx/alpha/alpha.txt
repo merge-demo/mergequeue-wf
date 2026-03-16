@@ -4962,7 +4962,7 @@ angiohyalinosis
 anaphoral
 aerophobic
 ashling
-antithermic
+antithermic 1
 arrode
 aerophotos 1
 antiwhitism
