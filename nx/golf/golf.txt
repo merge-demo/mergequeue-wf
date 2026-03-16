@@ -10265,7 +10265,7 @@ growlier 1
 gonimoblast
 gateward
 grigri
-gelatination
+gelatination 1
 gravipause
 grecque
 gourmet
