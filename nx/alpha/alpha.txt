@@ -7447,7 +7447,7 @@ acromial 1
 agnomina 2
 aristos 1
 annihilationistic
-anfracture
+anfracture 1
 alb
 abrupt
 alnitham
