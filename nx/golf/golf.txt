@@ -4497,7 +4497,7 @@ geanticline
 glazes 1
 geotropy
 grainiest
-gamb
+gamb 1
 grapey
 gucked
 galactoma 2
