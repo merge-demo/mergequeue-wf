@@ -17764,7 +17764,7 @@ backstroke 2
 bowstrings
 bronchoscope
 bearnaise
-bandeng
+bandeng 1
 banjoists
 bursty
 buoyances
