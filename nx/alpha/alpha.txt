@@ -488,7 +488,7 @@ arracacia 1
 abjections
 abjective
 actinosoma
-aweless
+aweless 1
 anaplasma
 amornings
 aphthous
