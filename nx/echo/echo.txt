@@ -11137,7 +11137,7 @@ embarkment 1
 engagedness
 energized 1
 expiate
-eusthenopteron
+eusthenopteron 1
 electros 1
 expensefulness
 extrasyllogistic
