@@ -8098,7 +8098,7 @@ enteroscope
 exactingly
 epiphanise
 ealdormen
-epiphanous
+epiphanous 1
 ethmoids 1
 erases 1
 expansiveness
