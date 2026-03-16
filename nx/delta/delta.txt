@@ -3713,7 +3713,7 @@ dinumeration
 drop
 devotionality 1
 dicyanodiamide
-dowlas
+dowlas 1
 dehydrochlorinate
 doketism
 daytale 1
