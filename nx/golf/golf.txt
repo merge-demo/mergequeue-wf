@@ -8748,7 +8748,7 @@ goo
 guacharoes 1
 guttural
 grantors
-goniometer 1
+goniometer 2
 gorge
 greenling
 gyroscopics 1
