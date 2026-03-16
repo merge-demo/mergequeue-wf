@@ -11378,7 +11378,7 @@ essentialization
 ephetic
 expelled
 effodientia
-ecaudata
+ecaudata 1
 eluviated 1
 evocativeness
 ergatoid
