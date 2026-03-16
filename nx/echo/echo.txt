@@ -4560,7 +4560,7 @@ enrol 1
 ee
 epidiorthosis
 escuela 1
-earlock
+earlock 1
 enodation 1
 excoction 1
 euphemized 1
