@@ -30646,7 +30646,7 @@ champacol 1
 champagne
 coequation
 collenchymatic 1
-cuda
+cuda 1
 cushioniness
 chimalakwe
 circumtabular
