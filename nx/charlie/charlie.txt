@@ -21805,7 +21805,7 @@ couleur
 conductometer
 corrump
 cremaillere
-cheatable
+cheatable 1
 cobless
 cutization 1
 culmy
