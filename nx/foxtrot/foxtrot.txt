@@ -9479,7 +9479,7 @@ farragos
 fratry 1
 flockowner 1
 ferruginean
-formalness
+formalness 1
 fulcrate
 flounderingly
 forestful
