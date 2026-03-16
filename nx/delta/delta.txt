@@ -6014,7 +6014,7 @@ depurate
 divergences
 depuratory 1
 depure
-desalts
+desalts 1
 diagonally 1
 depe
 dimnesses
