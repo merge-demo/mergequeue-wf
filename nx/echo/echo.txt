@@ -9673,7 +9673,7 @@ epicycles
 exorcized
 electrocoagulation 1
 enkindles
-erminois
+erminois 1
 epilogize 1
 excitable
 ensearcher
