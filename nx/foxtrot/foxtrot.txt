@@ -10547,7 +10547,7 @@ federalizations
 featherback
 fibrins
 fumelike
-flavo
+flavo 1
 fitful 1
 firetail
 frouzy
