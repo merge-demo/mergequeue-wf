@@ -7128,7 +7128,7 @@ draughty
 discographer
 disemboguing
 dichroscope
-desulfur
+desulfur 1
 dismantler
 delthyria
 dispraised
