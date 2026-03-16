@@ -3150,7 +3150,7 @@ extraparietal
 elm 1
 embarrassment
 educing
-expiscatory
+expiscatory 1
 edgewise 1
 equipotential
 epistolographist
