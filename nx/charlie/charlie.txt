@@ -17512,7 +17512,7 @@ cobbra
 cobbs
 carabins
 concocted
-characterize
+characterize 1
 categorematically
 crowning
 cobdenite
