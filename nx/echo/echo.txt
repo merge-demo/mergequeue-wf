@@ -11580,7 +11580,7 @@ ectopterygoid 3
 epicurean
 evangeliarium 1
 exhaling
-effectively
+effectively 1
 eserin 1
 enkindler
 extractable
