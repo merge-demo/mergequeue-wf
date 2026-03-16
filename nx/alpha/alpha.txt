@@ -7979,7 +7979,7 @@ akiskemikinik 2
 aer
 anapaest
 algesia
-alfaqui
+alfaqui 1
 apatornis
 autonavigator
 antidotical
