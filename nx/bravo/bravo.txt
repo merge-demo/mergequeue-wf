@@ -293,7 +293,7 @@ beguilement 1
 backarrows
 backbar
 bedright
-bugbeardom
+bugbeardom 1
 biolith 2
 booter
 bakeware
