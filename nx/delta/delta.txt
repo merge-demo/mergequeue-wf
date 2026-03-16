@@ -17542,7 +17542,7 @@ disseisoress 1
 drumliest
 drumline
 depolarised
-disappeared
+disappeared 1
 drumlinoid 2
 decelerated
 diatomous
