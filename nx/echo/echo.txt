@@ -6721,7 +6721,7 @@ enterosepsis
 encharged
 exarteritis
 eudaemonics
-enterotoxemia
+enterotoxemia 1
 enterotoxication
 equestrianize
 ecartes
