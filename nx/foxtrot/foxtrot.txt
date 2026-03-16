@@ -948,7 +948,7 @@ foisons 1
 fibrinogenetic 2
 fabrile
 focalization
-frondation
+frondation 1
 fruitling
 farceuses
 flenched
