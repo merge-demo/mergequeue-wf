@@ -8215,7 +8215,7 @@ equanimity
 endoceratidae
 expedientist
 endermatic
-evelong
+evelong 1
 essayette
 eclectical 2
 eurythmies
