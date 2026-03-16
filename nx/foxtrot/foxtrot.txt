@@ -10069,7 +10069,7 @@ fittest 2
 flor 1
 foollike
 flans 2
-firiness
+firiness 1
 fringelet 1
 fruitier
 feminacy
