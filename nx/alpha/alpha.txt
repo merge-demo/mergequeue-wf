@@ -11515,7 +11515,7 @@ agars
 afright
 anachronize
 adenographer
-animalish
+animalish 1
 albuminuria
 allothigenic 2
 annoyancer
