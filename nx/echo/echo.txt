@@ -5640,7 +5640,7 @@ epithi
 epicanthus
 exhibitorial
 enframed
-esculents
+esculents 1
 elaphebolion
 eagres
 eyebeams 1
