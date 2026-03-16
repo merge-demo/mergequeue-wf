@@ -9907,7 +9907,7 @@ catalogic 1
 chronobiology
 chemosorption 1
 chemosphere
-collateral
+collateral 1
 chemosurgery
 chemotactic
 cresylene
