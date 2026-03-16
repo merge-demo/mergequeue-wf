@@ -8808,7 +8808,7 @@ galleys
 gallus
 globate 1
 griege
-guaranine
+guaranine 1
 grunting
 guatemalans 1
 girrit
