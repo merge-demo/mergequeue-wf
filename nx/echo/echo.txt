@@ -9992,7 +9992,7 @@ electroform 1
 etalage
 endamnify 1
 elaiosome
-ensures
+ensures 1
 elaioplast
 eurafrican
 epistoler 1
