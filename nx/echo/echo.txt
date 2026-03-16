@@ -13800,7 +13800,7 @@ endosarc
 extortions 1
 equitative
 epicheirema
-engraftment
+engraftment 1
 economising
 electorally 1
 endebt
