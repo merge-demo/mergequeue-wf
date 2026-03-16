@@ -6401,7 +6401,7 @@ equisonant
 ensemble 1
 engastrimyth
 engrained
-empanelled
+empanelled 1
 expediency
 enanguish
 epitheliosis
