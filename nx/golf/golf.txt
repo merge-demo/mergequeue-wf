@@ -3432,7 +3432,7 @@ gospeller
 gourmets
 gerrymander
 globe
-gruiform
+gruiform 1
 goldwater
 guilts
 genitofemoral
