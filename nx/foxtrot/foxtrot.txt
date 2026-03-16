@@ -840,7 +840,7 @@ ferrets
 fylgja
 fanon 1
 follis
-folkboat
+folkboat 1
 fronted
 fantailed
 fermi
