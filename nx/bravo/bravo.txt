@@ -5616,7 +5616,7 @@ boulanger
 by 1
 bhut
 bela
-byssal
+byssal 1
 beluchi 1
 backtender
 burgonets
