@@ -7404,7 +7404,7 @@ bethorns
 befogs
 bethroot 1
 blackbirds
-bamboche
+bamboche 1
 barbeau
 breakthroughes
 betides 1
