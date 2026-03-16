@@ -5340,7 +5340,7 @@ blueheads 1
 bivariate
 brachigerous
 besputter
-batekes
+batekes 1
 bejuggle
 burkers
 barwing
