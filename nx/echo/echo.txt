@@ -9205,7 +9205,7 @@ eudesmol
 enslavement
 everts
 excantation
-exhorted
+exhorted 1
 elder
 entomologists 1
 esoneural
