@@ -14767,7 +14767,7 @@ applauder
 antichreses 1
 antichrist
 amphiploid
-antichristianism
+antichristianism 1
 anglicisms
 antepagmenta
 aiwain
