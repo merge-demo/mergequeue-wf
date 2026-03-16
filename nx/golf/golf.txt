@@ -8559,7 +8559,7 @@ gammoner 1
 galliardize 1
 gateado
 girgasite
-glomeli
+glomeli 1
 globalize
 grat
 growths
