@@ -4441,7 +4441,7 @@ glasshouses 1
 gymnastically
 graves
 grus
-generaliter 1
+generaliter 2
 glamberry
 giddyhead 1
 gugu
