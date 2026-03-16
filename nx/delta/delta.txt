@@ -18658,7 +18658,7 @@ dereign 1
 deathful
 deflagrability
 daishikis
-diapsid
+diapsid 1
 dvigu
 descendance
 diligently

@@ -9741,7 +9741,7 @@ euergetes 1
 eranist
 eisoptrophobia
 extollers 2
-enterococcus
+enterococcus 1
 essency
 extravertish
 extirpating
