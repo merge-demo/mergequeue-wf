@@ -10143,7 +10143,7 @@ gloried 2
 gallivanting
 graminaceous
 gasconading
-guardianly
+guardianly 1
 gambol
 gemotes 1
 grabby
