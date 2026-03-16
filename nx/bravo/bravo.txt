@@ -564,7 +564,7 @@ benzalacetone
 bishopric 1
 burnets
 breaths 1
-bistro
+bistro 1
 baconism
 baragouinish 1
 blooms
