@@ -17385,7 +17385,7 @@ androgonia
 airship
 antiarchi 1
 apothegmatically
-apothegmatist
+apothegmatist 1
 atriensis
 antiattrition
 aux 1
