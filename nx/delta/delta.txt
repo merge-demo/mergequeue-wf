@@ -9198,7 +9198,7 @@ discase
 dermomuscular
 doeling 2
 diminutively
-diedric
+diedric 1
 depressanth 1
 deuteromorphic 1
 downcomes
