@@ -13718,7 +13718,7 @@ epistolic
 excursionize 1
 eikon 1
 enginous
-evasive
+evasive 1
 euphemiser
 endothelioblastoma
 exhaustedness
