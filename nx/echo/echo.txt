@@ -8109,7 +8109,7 @@ epigrammatizer 1
 eched
 earnests
 epiphegus 1
-evanescenrly
+evanescenrly 1
 eteocles 1
 ectodermal
 elver 1
