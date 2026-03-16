@@ -4077,7 +4077,7 @@ fungoid
 finishable 1
 fucales
 fabrication
-firepink
+firepink 1
 foredo 1
 fenianism
 fasthold 1
