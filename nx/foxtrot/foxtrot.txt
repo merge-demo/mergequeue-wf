@@ -158,7 +158,7 @@ forestside
 foremostly
 favus
 falls 2
-fungilliform
+fungilliform 1
 fibbery 1
 flockless 1
 fraternation
