@@ -2925,7 +2925,7 @@ dependance
 dedogmatize 1
 dedolation
 decentralism 1
-destinal
+destinal 1
 distomatous
 diplasiasmus
 droil
