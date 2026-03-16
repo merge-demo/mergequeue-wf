@@ -13221,7 +13221,7 @@ ectromelian
 epaenetic
 estre 1
 ecospecific
-echinopsine
+echinopsine 1
 expiration
 esparto
 eurithermophilic 1
