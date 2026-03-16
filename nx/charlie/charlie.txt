@@ -10951,7 +10951,7 @@ chironomid
 chastised
 chaparajos
 coinhabit
-clinoclasite
+clinoclasite 1
 chironomus
 cosmologies
 chiroplasty
