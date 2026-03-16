@@ -3793,7 +3793,7 @@ gaudily 2
 gaul
 glaucophane
 gyves 1
-gyving
+gyving 1
 gpcd
 gygis
 ginkgoaceae 1
