@@ -5717,7 +5717,7 @@ glumpiness 1
 goldweed
 grecizes
 geometrical
-gloomth
+gloomth 1
 gradin
 graveolence
 grimmish
