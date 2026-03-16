@@ -2725,7 +2725,7 @@ empestic
 esophagus 1
 empyreumatic 1
 elaeopten
-electrothermal
+electrothermal 1
 ephippial 1
 emulsoidal
 ericolin
