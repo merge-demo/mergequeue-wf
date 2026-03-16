@@ -4842,7 +4842,7 @@ epiphylaxis 1
 endostea 2
 endothecium
 entomostraca
-encashing
+encashing 1
 eros
 ethical
 encake
