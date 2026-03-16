@@ -11423,7 +11423,7 @@ derepress
 disquisited
 droopingly
 dishorn
-defaulters
+defaulters 1
 deathtrap
 decaffeinates
 deserted
