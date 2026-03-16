@@ -8910,7 +8910,7 @@ attaint
 allosyndetic
 autoregulatory 1
 aureolas
-allosteric
+allosteric 1
 avalanche
 abbasi
 allothigenetically
