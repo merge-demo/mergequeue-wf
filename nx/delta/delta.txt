@@ -12535,7 +12535,7 @@ disindividualize
 dimers
 doorkeep 1
 dicotyledonary
-disinfectants
+disinfectants 1
 deathify
 drafter
 dreg 2
