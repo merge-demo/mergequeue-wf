@@ -13684,7 +13684,7 @@ aggravable
 approved
 amusable
 abortuses
-ambisyllabic
+ambisyllabic 1
 altimeter
 alteratively
 ancyrene 1
