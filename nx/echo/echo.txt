@@ -4472,7 +4472,7 @@ extemporaneousness
 eczematous
 encash
 enquires 1
-encashment
+encashment 1
 eringoes 2
 enneadianome 1
 encastre
