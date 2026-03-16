@@ -2392,7 +2392,7 @@ deciles
 decylic 1
 dogaressa 1
 dilutee
-dorsiparous
+dorsiparous 1
 derotremate 1
 deciliter 1
 druidry

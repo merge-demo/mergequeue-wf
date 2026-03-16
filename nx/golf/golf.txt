@@ -472,7 +472,7 @@ gelatin
 glaucodot
 grama
 ghostism 1
-gnomes
+gnomes 1
 galimatias
 galabiya 1
 gastrolytic
