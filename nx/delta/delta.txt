@@ -16856,7 +16856,7 @@ dreadlocks 1
 dreadnought
 disport
 dreamful 1
-divinister
+divinister 1
 demobilizations
 degratia
 dossman
