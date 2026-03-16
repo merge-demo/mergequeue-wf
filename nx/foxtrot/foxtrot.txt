@@ -9907,7 +9907,7 @@ featless 1
 fortypenny
 forefending
 frontager 2
-furilic
+furilic 1
 frozenly
 fulmineous
 filibusters 2
