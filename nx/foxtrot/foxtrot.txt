@@ -414,7 +414,7 @@ facts
 flabellate 2
 fallaway
 fastidiously 1
-fourquine
+fourquine 1
 floozie
 fitten 1
 fairishly
