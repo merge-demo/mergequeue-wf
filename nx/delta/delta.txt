@@ -3229,7 +3229,7 @@ deintellectualization
 disenchain
 defensibleness 1
 downsizes
-deputising
+deputising 1
 defensibly
 deferents
 drakefly
