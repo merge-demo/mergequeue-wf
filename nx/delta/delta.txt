@@ -11717,7 +11717,7 @@ disjunction
 discouraged
 datil 3
 displeasureably 1
-discouragingly
+discouragingly 1
 dispellable
 daydreamlike
 diastasis
