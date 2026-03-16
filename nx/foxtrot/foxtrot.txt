@@ -3465,7 +3465,7 @@ foveolets
 ferroprussiate
 fifed 1
 flerried
-fumeuses
+fumeuses 1
 frontals
 forewarmer
 forhaile
