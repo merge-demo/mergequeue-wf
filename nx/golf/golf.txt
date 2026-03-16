@@ -249,7 +249,7 @@ glyph 2
 gumminess
 garfish
 galoisian 2
-graziery 1
+graziery 2
 geoplagiotropism
 gnomon
 gentlewomen 2
