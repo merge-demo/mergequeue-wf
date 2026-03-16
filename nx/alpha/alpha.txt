@@ -23821,7 +23821,7 @@ austrium
 acouchy
 acridine
 antistrumatic 1
-ambash
+ambash 1
 archicleistogamous 1
 adaptational
 artefacts
