@@ -3340,7 +3340,7 @@ effacement
 eluviate
 ethnographic
 enigmatically
-eastwards
+eastwards 1
 expatiate
 equipartisan
 exility
