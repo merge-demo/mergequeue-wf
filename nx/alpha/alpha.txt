@@ -6929,7 +6929,7 @@ acuteness
 akal
 akali
 akamai 1
-avogram
+avogram 1
 annoyed
 abominations
 astatically
