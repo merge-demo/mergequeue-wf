@@ -8447,7 +8447,7 @@ alkitran
 argufy
 antagonize
 antipodagric
-analytical
+analytical 1
 alkoxyl
 anopisthographic
 assise
