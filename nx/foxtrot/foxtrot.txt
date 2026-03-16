@@ -4745,7 +4745,7 @@ flopwing
 fangs
 fummel
 furtherer
-fired
+fired 1
 flamboyancy
 fezzy 1
 fooling
