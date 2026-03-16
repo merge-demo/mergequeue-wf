@@ -18674,7 +18674,7 @@ cartonnier
 coinstantaneously
 centrolinead 1
 causeful
-coinstantaneousness
+coinstantaneousness 1
 coinsurance
 coinsurer
 chichituna
