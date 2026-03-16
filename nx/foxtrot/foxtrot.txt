@@ -10804,7 +10804,7 @@ flue
 fubbery
 filamentoid
 faintful
-fuchsine
+fuchsine 1
 flustra
 foveation 1
 fillips
