@@ -9153,7 +9153,7 @@ excursory
 escheating 1
 embouchment
 ethnoses
-equivocal
+equivocal 1
 epitela
 enfollow 1
 enlargements 2
