@@ -2692,7 +2692,7 @@ cankerberry
 cankerbird
 capitonidae
 chaperone
-carriable
+carriable 1
 cankereat
 cankered
 codders
