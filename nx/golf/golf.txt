@@ -2175,7 +2175,7 @@ graphanalysis
 granes
 gloving 1
 ghosting
-guberniya
+guberniya 1
 gabs
 gymnastical 1
 gestalts
