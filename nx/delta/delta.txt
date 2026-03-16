@@ -2653,7 +2653,7 @@ degummer
 decondition 1
 disembodies
 daw 1
-delightedness
+delightedness 1
 disuniter
 docetae
 decongestant
