@@ -12486,7 +12486,7 @@ ardennite
 antidoron
 aligns 1
 aboriginary
-aeropleustic
+aeropleustic 1
 anointer
 acinetarian
 anankes
