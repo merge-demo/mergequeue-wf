@@ -16993,7 +16993,7 @@ clusterfist
 catechu
 cleistothecopsis
 caprifigs 1
-coerceable
+coerceable 1
 circumviate 1
 cashibo
 characin
