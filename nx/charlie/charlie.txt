@@ -25046,7 +25046,7 @@ circumstantiates 1
 cordoned
 cordoning 1
 cordonnet
-chere
+chere 1
 cordons
 corrigibility
 cords
