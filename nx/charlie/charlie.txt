@@ -27000,7 +27000,7 @@ contoid 1
 chimneypot
 cataleptiform
 combinably
-contestable
+contestable 1
 chronical
 counterpoison
 cara
