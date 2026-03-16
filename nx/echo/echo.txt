@@ -7238,7 +7238,7 @@ ellipticity
 elytroptosis
 eucharistize
 enterokinetic
-emulgens
+emulgens 1
 ecthymatous
 epharmonic 1
 epexegesis
