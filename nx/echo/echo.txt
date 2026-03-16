@@ -5362,7 +5362,7 @@ exopathic
 enuresises
 executiveship
 epicyesis
-erogeny
+erogeny 1
 equiped
 endothecial
 equator
