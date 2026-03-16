@@ -18474,7 +18474,7 @@ duality
 duplicitously
 disprizing
 distasted
-devoice
+devoice 1
 distomidae
 dol
 decerebrating 1
