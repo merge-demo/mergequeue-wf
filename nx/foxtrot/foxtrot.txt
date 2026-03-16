@@ -10189,7 +10189,7 @@ foreknee
 feckly
 flavour
 frittering
-formability
+formability 1
 fluoroscopy
 fuchi 1
 fluorometer 1
