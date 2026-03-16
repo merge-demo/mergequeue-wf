@@ -8311,7 +8311,7 @@ entendre
 epicures
 erratums
 ebon
-endolaryngeal
+endolaryngeal 1
 endplay 1
 epitheliomatous
 ejection
