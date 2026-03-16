@@ -16020,7 +16020,7 @@ aquatint
 amphichromy
 adminiculum
 aniconism
-antiscale
+antiscale 1
 arteritis
 autocoenobium
 adherends
