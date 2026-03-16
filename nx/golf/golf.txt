@@ -5038,7 +5038,7 @@ golconda
 giantsize
 gecarcinus
 gerontoxon
-geostrophic
+geostrophic 1
 gastrogenital
 gv 2
 gerunds 1
