@@ -11913,7 +11913,7 @@ emits
 except
 escheatment
 enterostomy 2
-eppes
+eppes 1
 excavators
 euphonious
 entomologise
