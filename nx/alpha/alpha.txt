@@ -10739,7 +10739,7 @@ ankaramite
 actaeaceae
 ammoniated
 ageustia
-autoimmunize
+autoimmunize 1
 acrosomes
 ammoniating
 antioxygenator
