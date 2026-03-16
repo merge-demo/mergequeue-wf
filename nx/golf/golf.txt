@@ -9649,7 +9649,7 @@ gnatty
 genson
 gerardias 1
 grozart
-geotic
+geotic 1
 gaeltacht
 goosegirl
 gaposises
