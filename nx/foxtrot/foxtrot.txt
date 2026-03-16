@@ -4969,7 +4969,7 @@ frequentable 1
 feverfews
 foamier
 factitious
-fixate
+fixate 1
 florisugent
 fossilist 1
 frappeed
