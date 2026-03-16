@@ -7364,7 +7364,7 @@ eumitosis
 exception
 eurypylous
 eternises
-euphemizing
+euphemizing 1
 enact 1
 electrooptics
 escaping
