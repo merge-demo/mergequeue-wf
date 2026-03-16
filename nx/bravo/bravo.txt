@@ -9588,7 +9588,7 @@ boeotia
 bogue 1
 battlements 1
 braccio
-ballhawk
+ballhawk 1
 begrett
 biscayan
 boeotian
