@@ -6319,7 +6319,7 @@ beneficential
 bandeaus
 blaring
 backswept 1
-benzalethylamine
+benzalethylamine 1
 benzalphenylhydrazone
 beaconwise 1
 benzamide
