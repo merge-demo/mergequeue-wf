@@ -1151,7 +1151,7 @@ feller 1
 figeaters 1
 flyblows
 footy
-fets
+fets 1
 forelocks
 frays 1
 footfeed
