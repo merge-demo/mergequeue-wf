@@ -10630,7 +10630,7 @@ frontis 1
 fortifier 1
 fuzzes 2
 fulgent
-friendlike
+friendlike 1
 farthest 1
 foilsman
 fusht
