@@ -6529,7 +6529,7 @@ faithful 1
 fellatrix 1
 forsar
 flurn 1
-footage
+footage 1
 fumagine
 funambulation
 familia
