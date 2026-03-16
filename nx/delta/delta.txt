@@ -9129,7 +9129,7 @@ detriment
 disdiaclasis
 draintile
 didicoy 1
-deadpanner
+deadpanner 1
 digger
 densest 1
 doxasticon
