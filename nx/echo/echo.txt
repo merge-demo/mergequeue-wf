@@ -4983,7 +4983,7 @@ enschedule
 exomphalous
 electrofused
 eco
-endenization
+endenization 1
 excusator 1
 equipollentness
 endoceras
