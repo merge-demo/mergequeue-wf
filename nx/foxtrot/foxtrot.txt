@@ -1289,7 +1289,7 @@ fhrer
 fancywork
 florinda 1
 factitiously
-fastuousness
+fastuousness 1
 flarfishes
 forerehearsed
 fatalists
