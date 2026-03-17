@@ -6060,7 +6060,7 @@ farrowed
 fantasts
 fructose
 frescoing
-fraternity
+fraternity 1
 fickler 1
 fribbles
 funambuloes
