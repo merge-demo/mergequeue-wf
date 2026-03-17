@@ -18227,7 +18227,7 @@ downfallen
 depersonalize
 dogfight
 delights
-ditetragonal
+ditetragonal 1
 diamagnetometer
 doctored
 druidism
