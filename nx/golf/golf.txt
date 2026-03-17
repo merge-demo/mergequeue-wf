@@ -7454,7 +7454,7 @@ gonia 1
 glaring
 glossist
 glamourous
-gummaker
+gummaker 1
 gelatined 2
 grabbier
 grunerite 1
