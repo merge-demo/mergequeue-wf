@@ -9633,7 +9633,7 @@ apiology
 arcked 1
 amabel
 atbash
-amabile
+amabile 1
 amable
 allegatum
 accompaniments
