@@ -13172,7 +13172,7 @@ borotungstate
 bouquetin
 biseriate
 boroughmonger
-bismite
+bismite 1
 barks
 blaspheme
 bankrupts 1
