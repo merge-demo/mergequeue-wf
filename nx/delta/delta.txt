@@ -17089,7 +17089,7 @@ defectiveness
 deceleron 1
 decarchies
 dumsola 1
-drifty
+drifty 1
 driftingly
 drugstore
 driftlessness
