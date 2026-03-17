@@ -15727,7 +15727,7 @@ deflect
 dizygotic
 deacidifying
 dormers
-defraud
+defraud 1
 desirability 1
 dormette 1
 dormice
