@@ -2423,7 +2423,7 @@ glauconiidae
 gemologist
 groinery
 groping
-glared
+glared 1
 guydom
 gentiin 1
 gloaming 1
