@@ -3297,7 +3297,7 @@ cyclotomy
 cystenchyme
 cochliodus 1
 capite 1
-carapine
+carapine 1
 christianized
 capitellate
 canteen
