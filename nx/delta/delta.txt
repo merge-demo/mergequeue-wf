@@ -12667,7 +12667,7 @@ disembodying
 downers 1
 diatonically
 dysury
-desmocytoma
+desmocytoma 1
 disker
 dysoxidation
 demesnes
