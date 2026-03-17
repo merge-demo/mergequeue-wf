@@ -13409,7 +13409,7 @@ assemblyman 2
 areographical
 amphierotic
 accomplish
-antagonisable
+antagonisable 1
 answerlessly
 alliable
 airproofs
