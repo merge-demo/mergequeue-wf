@@ -2856,7 +2856,7 @@ ectiris 2
 endophragm
 externalness
 eater
-epiclesis
+epiclesis 1
 eleoptene
 endomastoiditis
 exostracize
