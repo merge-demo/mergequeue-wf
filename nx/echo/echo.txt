@@ -9007,7 +9007,7 @@ exul
 elicitable 1
 esteriferous
 eristically
-ergometer
+ergometer 1
 employer
 eumerism
 exophthalmos
