@@ -10634,7 +10634,7 @@ friendlike 1
 farthest 1
 foilsman
 fusht
-famular
+famular 1
 friskiness
 floggers 1
 flucan 2
