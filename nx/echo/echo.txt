@@ -6856,7 +6856,7 @@ eugenic
 exostema 3
 exemplar
 ecphoria
-estuate
+estuate 1
 enlistees
 essling
 eloper
