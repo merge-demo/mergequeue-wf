@@ -13989,7 +13989,7 @@ chemosensitive
 cecca 1
 crimp
 cypraeidae
-cyanauric 1
+cyanauric 2
 cypraeiform
 confinement
 cypraeoid 1
