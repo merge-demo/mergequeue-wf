@@ -13314,7 +13314,7 @@ dimities 1
 delegalized 1
 distillates
 dispraising
-dentiloquist
+dentiloquist 1
 dasheen 1
 dutched
 dole
