@@ -995,7 +995,7 @@ gigantic
 ganger 1
 guesten 2
 genthite
-golder
+golder 1
 glamoury
 geyserish 1
 geobiont
