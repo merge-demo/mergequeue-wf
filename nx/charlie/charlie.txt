@@ -28800,7 +28800,7 @@ cresylate
 cresylic
 ciliary
 cresyls
-cresive
+cresive 1
 cornucopian
 chloroamine 1
 cresoline
