@@ -1914,7 +1914,7 @@ greaseless
 gaussmeter 1
 gushy 1
 gastradenitis
-gra
+gra 1
 guttiness
 glosser
 guajillo
