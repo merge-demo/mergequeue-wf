@@ -3273,7 +3273,7 @@ drimys
 defier
 declarator
 deracinated
-dense
+dense 1
 denaturalisation 1
 denuded 1
 disregardful
