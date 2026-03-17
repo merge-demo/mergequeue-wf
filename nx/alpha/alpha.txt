@@ -20871,7 +20871,7 @@ astronomics
 amputator
 avenery
 archmock
-amplifiable 1
+amplifiable 2
 actium
 anserin
 allecret
