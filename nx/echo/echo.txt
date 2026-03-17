@@ -12350,7 +12350,7 @@ endarchy
 endorsers
 exonerated
 endower
-eclated
+eclated 1
 enteromyiasis
 enshadow
 ecchondrotome 1
