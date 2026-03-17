@@ -8709,7 +8709,7 @@ deutencephalon
 deponent
 dehumanized
 diastoles
-dys
+dys 1
 diastomatic
 davyne
 diastral 2
