@@ -4777,7 +4777,7 @@ foreadapt 2
 frumentarious
 fraulein
 fougue 1
-future
+future 1
 feathermonger
 fobbing
 fatnesses
