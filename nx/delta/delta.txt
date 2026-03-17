@@ -9520,7 +9520,7 @@ decussation
 donatives
 drabs 1
 donationes
-decentred
+decentred 1
 deaerate
 digraphic
 demiurge
