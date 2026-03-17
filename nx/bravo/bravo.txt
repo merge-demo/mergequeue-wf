@@ -6330,7 +6330,7 @@ badinerie
 biblic
 barrer 1
 brike
-benzanthracene
+benzanthracene 1
 biocidal
 boxboard
 benzol
