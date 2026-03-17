@@ -24487,7 +24487,7 @@ cupfuls
 capitasti
 clr
 courtliness 1
-communicableness
+communicableness 1
 circovarian
 clavis
 copaliferous
