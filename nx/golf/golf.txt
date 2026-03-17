@@ -10743,7 +10743,7 @@ gustiest
 gunmetal
 galewort
 gedackt
-globulin
+globulin 1
 goodlihead
 grovelers
 girdle
