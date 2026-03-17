@@ -9723,7 +9723,7 @@ granuliform 1
 gruellings 1
 grievant 1
 gasp
-gregale
+gregale 1
 gratifying
 geobiologic
 gropple
