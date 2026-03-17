@@ -2653,7 +2653,7 @@ gemarist
 gconvert
 gastroenterologists
 ganodont
-globoids 1
+globoids 2
 gastromyces
 genioglossus
 gelling
