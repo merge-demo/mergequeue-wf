@@ -10975,7 +10975,7 @@ brachystomata
 bartonia
 beadroll
 blinker
-bewailingly
+bewailingly 1
 balancewise 2
 bitterful
 blinkers
