@@ -13030,7 +13030,7 @@ calcedon
 chemitype 1
 consolidating
 cyanosite
-cobia
+cobia 1
 cyanotic
 chatting 1
 cyanotype 1
