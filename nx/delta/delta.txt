@@ -9507,7 +9507,7 @@ digestor
 ditting
 digestory 1
 deary
-decide
+decide 1
 disapproval
 diggable
 deuterostome 1
