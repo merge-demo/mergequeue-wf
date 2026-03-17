@@ -2880,7 +2880,7 @@ diamantoid
 decarbonizing
 decuss
 decussatively
-desideratum
+desideratum 1
 disthrone
 decussoria
 dermoblast
