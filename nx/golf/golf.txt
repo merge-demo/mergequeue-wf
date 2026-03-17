@@ -10220,7 +10220,7 @@ grayfishes 1
 gulped
 guillotinist
 glutaraldehyde
-generic
+generic 1
 gastroptosis
 gobbet
 galvo
