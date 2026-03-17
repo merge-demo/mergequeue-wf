@@ -11368,7 +11368,7 @@ amulas
 acone
 armaments
 afterturn 2
-atomic
+atomic 1
 avalent
 artocarpaceae
 avengeress 1
