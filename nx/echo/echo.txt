@@ -6211,7 +6211,7 @@ embarren
 ebullience
 ensteel
 equipments
-evaporitic
+evaporitic 1
 evviva 1
 emerse
 enterological
