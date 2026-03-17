@@ -6631,7 +6631,7 @@ gustoish 1
 galictis
 gonfalcon
 gradienter 1
-glossopyrosis
+glossopyrosis 1
 gametal 1
 generational
 gong
