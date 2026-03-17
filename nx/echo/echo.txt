@@ -11725,7 +11725,7 @@ electromechanics 1
 equiangle
 estimate
 ethnical
-exaestuate
+exaestuate 1
 eolotropic
 eyeball 1
 erept
