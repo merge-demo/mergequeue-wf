@@ -11615,7 +11615,7 @@ fermata
 fixable
 frolicsomely 1
 fluidounce 1
-flapdragon 1
+flapdragon 2
 fortissimi
 foredeclare
 fervidly
