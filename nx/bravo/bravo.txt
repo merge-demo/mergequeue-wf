@@ -98,7 +98,7 @@ balanite
 breaches
 ballfield
 beshlik
-bandeaux
+bandeaux 1
 babels
 belinda
 boation
