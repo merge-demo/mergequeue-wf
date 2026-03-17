@@ -8680,7 +8680,7 @@ allying 1
 angry
 abecedarius
 allylation
-allylthiourea
+allylthiourea 1
 anukabiet
 anomaluridae
 aluminography
