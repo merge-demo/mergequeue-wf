@@ -234,7 +234,7 @@ facultatively
 faculties
 frostfish
 furfuraldehyde 1
-fringy
+fringy 1
 functionaries
 flatcar 1
 fruitlets
