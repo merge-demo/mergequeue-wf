@@ -3586,7 +3586,7 @@ forborne 1
 filamentary 2
 filament
 frankfurt 1
-flannelleaves
+flannelleaves 1
 flagrancy
 frowziness
 fibrinogen 1
