@@ -5077,7 +5077,7 @@ ferricyanic 2
 functionlessness
 fuzed
 fissive
-filmcard
+filmcard 1
 favourless 1
 frogwort 1
 fluctuable
