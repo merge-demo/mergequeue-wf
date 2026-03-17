@@ -11173,7 +11173,7 @@ fogou
 fungibility 1
 fungicides
 frampler
-fibronuclear
+fibronuclear 1
 forktail
 fundungi 1
 faniente 3
