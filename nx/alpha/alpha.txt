@@ -9923,7 +9923,7 @@ ambients
 ambigenal 1
 arboreal
 adffroze
-appel
+appel 1
 ambigu
 acinacity
 ambilateralaterally 1
