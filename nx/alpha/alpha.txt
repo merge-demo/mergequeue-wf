@@ -8592,7 +8592,7 @@ allelic
 autotypography 1
 allelism
 axonemal
-argyrite
+argyrite 1
 alternationist
 allelomorphic
 allelotropy 1
