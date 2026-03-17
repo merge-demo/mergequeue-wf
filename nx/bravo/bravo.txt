@@ -5111,7 +5111,7 @@ beflag 1
 bamboo
 binits
 bemaddening 1
-basilicon
+basilicon 1
 beflagged 1
 broidering
 blastocoel
