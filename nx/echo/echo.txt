@@ -8415,7 +8415,7 @@ erosive
 exportation
 expungeable
 ecch
-euphrasies
+euphrasies 1
 evolutionarily 1
 eosin
 equivocating
