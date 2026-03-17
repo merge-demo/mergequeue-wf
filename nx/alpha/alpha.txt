@@ -1359,7 +1359,7 @@ atoxic
 accel
 accelerable
 accelerando
-analgize
+analgize 1
 amnesias
 affiliated
 atom
