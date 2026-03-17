@@ -15589,7 +15589,7 @@ antinormality
 antinormalness 1
 ambage
 anoxaemia
-amygdalitis
+amygdalitis 1
 aeolight 1
 affectibility
 acrocontracture
