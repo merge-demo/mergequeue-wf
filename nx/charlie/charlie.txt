@@ -16636,7 +16636,7 @@ closable
 closecross
 colostric
 coleuses
-cunninger
+cunninger 1
 closed 1
 chloramphenicol
 closefistedly
