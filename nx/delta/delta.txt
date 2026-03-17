@@ -2943,7 +2943,7 @@ deductio
 deductions
 distrainment
 dirtier
-deductory
+deductory 1
 deducts
 deduplication
 despoliations
