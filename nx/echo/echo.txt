@@ -1168,7 +1168,7 @@ explicate 1
 endere
 editorialization
 ecphory
-expunction
+expunction 1
 editorializers
 exstipulate 1
 exanthemas
