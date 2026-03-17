@@ -21382,7 +21382,7 @@ antonymous
 antherids
 anemochorous 1
 amitroles
-askip
+askip 1
 actiniohematin 1
 askos
 aslant
