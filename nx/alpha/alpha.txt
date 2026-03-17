@@ -24186,7 +24186,7 @@ autoimmunity
 alcantara
 appledrone
 autoinfusion
-autoinoculable
+autoinoculable 1
 antiritualism 1
 abrus
 anquera
