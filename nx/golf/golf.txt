@@ -3084,7 +3084,7 @@ gomuti
 gastful 1
 gastrodermis
 gyrant
-guffaws
+guffaws 1
 gurglet
 galbula 1
 glauconiferous
