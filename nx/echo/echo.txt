@@ -7410,7 +7410,7 @@ evaporite
 eyries
 epee
 ened 1
-epeeist
+epeeist 1
 excursional
 exciseman
 enunciate
