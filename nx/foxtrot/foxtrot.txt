@@ -1919,7 +1919,7 @@ forworn
 frostbiter 1
 felonwood
 flated
-flagellantism
+flagellantism 1
 fowlery
 fatherhood
 foreknower
