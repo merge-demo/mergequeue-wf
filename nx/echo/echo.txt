@@ -4779,7 +4779,7 @@ erethic 1
 eguttulate
 enterotomy
 epiopticon
-excusatory
+excusatory 1
 elkwood
 exitance
 extensible 2

@@ -1531,7 +1531,7 @@ arctisca
 accompanimental
 accompli
 allanitic
-anathemize
+anathemize 1
 antispasmodic 1
 archmediocrity
 astrocytomata
