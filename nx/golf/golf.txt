@@ -9612,7 +9612,7 @@ gossipmonger
 ghostwriting 2
 gladiatorial
 grovelingly
-guzerat
+guzerat 1
 gallize
 gobinist 1
 giftwrap
