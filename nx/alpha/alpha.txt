@@ -18819,7 +18819,7 @@ alantolic
 aeriferous 1
 aprilis
 antimonarch
-abounding
+abounding 1
 archgod
 archheart
 aoristically
