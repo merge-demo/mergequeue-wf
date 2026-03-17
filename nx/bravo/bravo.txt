@@ -14263,7 +14263,7 @@ bowfins
 bradyseism
 brassware 1
 brazen
-bombycinous
+bombycinous 1
 bolsheviks
 bit
 bockeret
