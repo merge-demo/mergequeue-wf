@@ -13383,7 +13383,7 @@ enaction
 enfonce
 excretive
 externs
-estating
+estating 1
 emotionalising
 emporiria
 extraenteric
