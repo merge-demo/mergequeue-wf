@@ -21846,7 +21846,7 @@ assyntite
 agueweed
 alternanthera
 anecdotical
-allantois
+allantois 1
 anaglyphics
 agnatic
 assyriological

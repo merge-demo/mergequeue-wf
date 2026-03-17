@@ -14108,7 +14108,7 @@ brachydont 1
 brachydontism
 brachyglossal
 babuls
-blase
+blase 1
 bimetallist
 blusterously
 biologize
