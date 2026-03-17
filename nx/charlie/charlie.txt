@@ -21503,7 +21503,7 @@ concordance
 concordancer
 coldish
 curliewurly
-cosignatories
+cosignatories 1
 coan
 cognising 1
 cardiophobia
