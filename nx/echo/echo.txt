@@ -8640,7 +8640,7 @@ electrodialitically
 equidist
 educ 1
 equispatial 1
-elater
+elater 1
 endophytically
 eyebolts
 eumerogenesis
