@@ -1916,7 +1916,7 @@ finagling
 funds 1
 felonous
 forworn
-frostbiter
+frostbiter 1
 felonwood
 flated
 flagellantism
