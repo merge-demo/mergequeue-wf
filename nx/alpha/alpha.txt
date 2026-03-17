@@ -24747,7 +24747,7 @@ amalfian
 aveugle
 assenting
 absorbers
-avians
+avians 1
 aviaries 1
 anahita
 ammodyte
