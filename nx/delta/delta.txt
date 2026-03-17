@@ -6243,7 +6243,7 @@ dammer
 dayman
 devirginate
 deponing 1
-donum
+donum 1
 dodonaena
 denationalisation
 diabolize
