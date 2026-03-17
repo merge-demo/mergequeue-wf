@@ -8385,7 +8385,7 @@ electrobath 1
 endocyemate 2
 edeitis
 egomaniacally 3
-exonerates
+exonerates 1
 encumberingly
 epithetically 1
 escutellate
