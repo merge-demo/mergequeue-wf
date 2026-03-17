@@ -6090,7 +6090,7 @@ frolics
 foyboat
 floralize
 foretypified
-fructiform
+fructiform 1
 focusless
 frottage 2
 fluty 1
