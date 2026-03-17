@@ -6637,7 +6637,7 @@ fincas 2
 fumish
 facings
 fissions
-freespace
+freespace 1
 fuciphagous 1
 foreutter
 firebrand
