@@ -2802,7 +2802,7 @@ duolog
 danegelt
 demonic
 decriminalization
-disbosom
+disbosom 1
 disequalization
 decastellate
 draggle
