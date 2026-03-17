@@ -3366,7 +3366,7 @@ ethnos
 ectomorphy
 econometrics 1
 exegetically
-enclose 1
+enclose 2
 echoisms
 euplastic
 emanational
