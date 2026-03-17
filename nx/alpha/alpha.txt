@@ -8958,7 +8958,7 @@ astrean
 alpid
 absconder
 arrogantly
-autoscience
+autoscience 1
 allotter
 allottery
 avenger
