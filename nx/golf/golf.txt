@@ -5114,7 +5114,7 @@ gascon 1
 glinting
 garsil
 granddad
-grimness
+grimness 1
 gladwin
 gymnodontes 1
 gainyield 1
