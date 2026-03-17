@@ -21009,7 +21009,7 @@ arseniferous
 anglicizing
 ascendant
 arthropterous
-ascescent
+ascescent 1
 asceses 1
 appendent
 ascetta
