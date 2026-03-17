@@ -31260,7 +31260,7 @@ channelize
 curarines 1
 crossbanded
 curaris
-cephala
+cephala 1
 centi
 chattily
 camoudie
