@@ -664,7 +664,7 @@ affinely
 abominably
 anthropopathite
 abominate
-alow
+alow 1
 avifaunal
 amniotitis
 anorthographic 1
