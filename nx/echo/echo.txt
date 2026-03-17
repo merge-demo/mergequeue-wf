@@ -3501,7 +3501,7 @@ eriometer
 eleutheromaniac 1
 episyllogism
 enthroning
-exhortator
+exhortator 1
 eucirripedia
 engrain
 embogue 1
