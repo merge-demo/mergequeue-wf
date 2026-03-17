@@ -24116,7 +24116,7 @@ calcific
 comburgess
 convexly
 convexness
-condyle
+condyle 1
 convexo 1
 convexoconcave
 cadbote
