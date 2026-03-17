@@ -11909,7 +11909,7 @@ choreiform
 consension
 choreman
 choreodrama
-cephalon
+cephalon 1
 choreographed
 choreographer
 cypseloid

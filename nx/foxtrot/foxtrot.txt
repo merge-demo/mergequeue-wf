@@ -5763,7 +5763,7 @@ flinkite
 flatcar 1
 fancier
 farris
-fructure
+fructure 1
 fluffer
 footpound
 folioliferous
