@@ -4093,7 +4093,7 @@ avell
 autobus
 antiphlogistin
 alkylogen 1
-adnephrine
+adnephrine 1
 anthracene
 annuent
 adnerval
