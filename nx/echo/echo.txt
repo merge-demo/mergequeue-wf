@@ -3739,7 +3739,7 @@ enwheel
 everse 1
 enchytrae
 entrancer
-envenom
+envenom 1
 endogens
 eternised 1
 elecampane 1
