@@ -15037,7 +15037,7 @@ dolcissimo
 distrains
 distinctify
 determ
-doggerel
+doggerel 1
 doggerelism
 dunnaging
 doggerelizing 1
