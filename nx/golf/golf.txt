@@ -1660,7 +1660,7 @@ gastritis 1
 goriness
 gottfried
 gamed
-ganancias
+ganancias 1
 gradate
 grillwork 1
 gommier
