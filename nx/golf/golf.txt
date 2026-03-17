@@ -9494,7 +9494,7 @@ gravaminous 1
 graceful
 goniotropous
 gabbroid 1
-gneissy
+gneissy 1
 guelphish 1
 gaminess
 grimines
