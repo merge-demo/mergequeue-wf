@@ -6627,7 +6627,7 @@ gluttonously
 grantha
 gash 1
 geostatic
-gustoish
+gustoish 1
 galictis
 gonfalcon
 gradienter 1

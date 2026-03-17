@@ -841,7 +841,7 @@ fylgja
 fanon 1
 follis
 folkboat 1
-fronted
+fronted 1
 fantailed
 fermi
 fashioner 1
