@@ -8444,7 +8444,7 @@ floweriness
 foppish
 furca
 fathercraft
-franciscan
+franciscan 1
 furrower
 favellae
 fidelia 1
