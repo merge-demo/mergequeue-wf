@@ -12637,7 +12637,7 @@ disbowel
 dephase
 dae
 diatribe
-disinvagination
+disinvagination 1
 deepfroze 2
 directs
 dargsman
