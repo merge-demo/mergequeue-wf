@@ -1918,7 +1918,7 @@ aggest 1
 alidada
 acetylamine
 acetylaniline
-adaptive
+adaptive 1
 aitiology
 arabesquely
 alabastos
