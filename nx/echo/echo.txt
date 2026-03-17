@@ -12806,7 +12806,7 @@ epomophorus
 electroplaque
 exines
 elev
-extensional
+extensional 1
 exostosis
 exarchist
 evolution
