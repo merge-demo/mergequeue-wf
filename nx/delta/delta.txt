@@ -15740,7 +15740,7 @@ dermatophony
 dormouse
 digallic
 diachyma 1
-deletive
+deletive 1
 dornick
 dornicks
 datival
