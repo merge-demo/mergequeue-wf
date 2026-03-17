@@ -9720,7 +9720,7 @@ fraising
 fletch 1
 footwalls 1
 fingerroot
-functorial
+functorial 1
 foralite
 filch
 feaking
