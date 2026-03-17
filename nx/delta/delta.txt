@@ -14620,7 +14620,7 @@ divorcive
 dietal
 doveflower
 divort 1
-deconsecration
+deconsecration 1
 dietarily 2
 desulfovibrio
 diarrheas
