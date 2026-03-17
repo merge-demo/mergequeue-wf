@@ -890,7 +890,7 @@ cayugas
 cayuse
 cayuses
 cajan
-capitare
+capitare 1
 cajaputs
 cazibi
 certitude
