@@ -5718,7 +5718,7 @@ belied
 blatancy
 beliefful
 blastule
-bemuzzles
+bemuzzles 1
 boilingly
 blasphemously
 badman
