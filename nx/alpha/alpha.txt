@@ -21980,7 +21980,7 @@ antireligiosity
 amerikani
 assume 1
 auxins
-araneidal
+araneidal 1
 anthography
 apostrophize
 amnesics
