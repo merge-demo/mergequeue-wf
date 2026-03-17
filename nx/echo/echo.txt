@@ -4468,7 +4468,7 @@ encases
 electrotechnologist
 eodiscid 2
 exaggerator
-extemporaneousness
+extemporaneousness 1
 eczematous
 encash
 enquires 1
