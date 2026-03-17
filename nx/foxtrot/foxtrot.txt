@@ -9180,7 +9180,7 @@ federary
 flamineous
 frolicked
 fortepiano
-fungosity
+fungosity 1
 freights
 fondue
 formidolous
