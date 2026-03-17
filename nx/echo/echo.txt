@@ -4667,7 +4667,7 @@ evolve
 eremiteship
 enchoric
 exuberance
-entablement
+entablement 1
 energico
 echolalia 1
 eisodic 1
