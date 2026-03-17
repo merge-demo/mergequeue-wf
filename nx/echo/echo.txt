@@ -1649,7 +1649,7 @@ ephebeion
 eradicated 2
 encamped 2
 egress
-erizo
+erizo 1
 epiblastic
 egressed
 emboldening
