@@ -11648,7 +11648,7 @@ boarwood 2
 boas
 boaster
 blotch
-boastfulness
+boastfulness 1
 bacchus
 boasts
 bryologist

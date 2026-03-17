@@ -10030,7 +10030,7 @@ conditionals 1
 controvert
 cyanites
 chanoyu 1
-cherubfish
+cherubfish 1
 chauffeuring
 cherubic
 chowder 2
