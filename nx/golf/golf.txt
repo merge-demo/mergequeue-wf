@@ -6143,7 +6143,7 @@ glistened 3
 giraffes
 goliaths
 gages
-gyric
+gyric 1
 galactogogue 1
 gambodic
 gurgle 1
