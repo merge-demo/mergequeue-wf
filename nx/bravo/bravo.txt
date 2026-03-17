@@ -9042,7 +9042,7 @@ besmuts
 bion 1
 bionditional
 brachyprosopic 1
-bionomic
+bionomic 1
 backswordman
 bigothero 3
 batton

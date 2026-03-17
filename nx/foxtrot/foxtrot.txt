@@ -9472,7 +9472,7 @@ fireboxes 1
 flag 1
 fluttersome
 fidawi
-frangulaceae
+frangulaceae 1
 fiumara
 firebrick
 farragos
