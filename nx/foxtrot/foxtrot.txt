@@ -8708,7 +8708,7 @@ funiculate 1
 furicane
 flapless
 forejudge
-footcandle
+footcandle 1
 fresser
 febrifuge
 frankhearted
