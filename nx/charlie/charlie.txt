@@ -9153,7 +9153,7 @@ chylifying 1
 conservatives
 charwomen
 chase
-chaseable
+chaseable 1
 compellability
 coordinately 1
 counterpaly 1
