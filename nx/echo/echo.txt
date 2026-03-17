@@ -8679,7 +8679,7 @@ espantoon
 eurytomid 1
 encirclements
 erineum
-enzymotic
+enzymotic 1
 euonym
 extractor
 enervous
