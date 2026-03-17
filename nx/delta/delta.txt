@@ -17836,7 +17836,7 @@ desubstantialize
 dezincing
 draughthouse
 dudism
-decoloration
+decoloration 1
 diaconicum
 deresinate
 defilement 1
