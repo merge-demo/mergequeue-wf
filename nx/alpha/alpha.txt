@@ -6551,7 +6551,7 @@ attune
 antioptionist
 ascertainableness
 amphitheccia
-armstrong
+armstrong 1
 aldose
 ailanto 1
 aileron
