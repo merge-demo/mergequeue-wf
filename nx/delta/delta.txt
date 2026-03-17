@@ -7388,7 +7388,7 @@ detoxication 1
 detoxicator
 dawpate
 dimyaria
-directress
+directress 1
 disapproved
 dereism
 discriminal
