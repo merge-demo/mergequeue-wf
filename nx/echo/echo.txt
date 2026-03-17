@@ -9845,7 +9845,7 @@ eatage 1
 esterization 1
 embarcation
 enterocrinin 1
-extrasolar
+extrasolar 1
 exhumated
 exteriorised
 electorate
