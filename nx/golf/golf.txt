@@ -10304,7 +10304,7 @@ granulitization
 grimoire
 gymnostomous
 gigantostraca
-gloomed
+gloomed 1
 guillotinade
 glaky
 gul 1
