@@ -6252,7 +6252,7 @@ gobbledygook
 globuloid
 gid
 gobbles 1
-glaucescent
+glaucescent 1
 ginzoes
 grege
 gerahs 1
