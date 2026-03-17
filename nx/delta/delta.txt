@@ -3670,7 +3670,7 @@ degold
 decathlon 1
 disinhibition
 decomposite
-diabetic
+diabetic 1
 degradative
 degradement
 disburses 1
