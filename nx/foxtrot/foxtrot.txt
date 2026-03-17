@@ -986,7 +986,7 @@ fervid
 fishing
 flustering
 frivoller
-frauen
+frauen 1
 franchisor 1
 forcive
 forbiddal
