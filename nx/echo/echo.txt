@@ -695,7 +695,7 @@ enddamaged 1
 embroiling
 eigenstate
 elem 1
-endothermy
+endothermy 1
 elodes
 enshrouding
 electrostatic
