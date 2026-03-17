@@ -16706,7 +16706,7 @@ aciculums
 attal
 anatomists
 athenaeum
-ascertainment
+ascertainment 1
 aphemic
 aphengoscope
 apheses

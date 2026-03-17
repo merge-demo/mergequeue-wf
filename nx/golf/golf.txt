@@ -4628,7 +4628,7 @@ griggles
 graphometer 1
 gaonic
 glycyls
-gammick
+gammick 1
 gironny 1
 gyronny 1
 gamophyllous
