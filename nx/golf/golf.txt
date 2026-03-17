@@ -8011,7 +8011,7 @@ glouts 1
 gnotobiote
 glyptodontoid
 glimpsing
-glossopalatine
+glossopalatine 1
 geonoma 1
 galleyman
 gnathometer
