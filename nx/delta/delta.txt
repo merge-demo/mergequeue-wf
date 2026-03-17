@@ -6064,7 +6064,7 @@ disaster 1
 depressiveness
 deputizing
 degraders
-debriefed
+debriefed 1
 droiture
 deaconal 1
 descendible
