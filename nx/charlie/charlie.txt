@@ -13033,7 +13033,7 @@ cyanosite
 cobia
 cyanotic
 chatting 1
-cyanotype
+cyanotype 1
 clevis
 coefficiently
 crystall
