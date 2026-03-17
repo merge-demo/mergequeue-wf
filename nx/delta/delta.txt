@@ -4213,7 +4213,7 @@ disambiguating
 dishonored
 dipperful
 detribalized
-dephosphorize
+dephosphorize 1
 disyllabic
 dunal
 deadishly
