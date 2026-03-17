@@ -7494,7 +7494,7 @@ getmesost
 gluiness 1
 goschen
 geobotanist
-glossodynia
+glossodynia 1
 glial 1
 girdering
 glycolytic
