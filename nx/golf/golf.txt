@@ -5479,7 +5479,7 @@ gershonite
 goupin
 gimmer 1
 goods 1
-goodyera
+goodyera 1
 georgian 1
 gutium 1
 goldilocks
