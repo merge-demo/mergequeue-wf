@@ -22036,7 +22036,7 @@ anteprostate
 astable
 adventitiously
 astay 1
-anisometropic
+anisometropic 1
 astare
 acetbromamide
 ammonitoid
