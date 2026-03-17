@@ -11601,7 +11601,7 @@ apocrisiary 1
 anaerobiont
 anaerobiotic
 anaerobium
-avanti
+avanti 1
 anaphylactic
 angulating
 anaesthesis
