@@ -9965,7 +9965,7 @@ frontlets
 forrue
 fittable
 fanti
-fulgurantly
+fulgurantly 1
 fiercely
 frolicking
 faucet
