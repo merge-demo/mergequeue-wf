@@ -29393,7 +29393,7 @@ cymoidium
 cryptovolcanism 2
 cryptozygy
 cannele
-crown
+crown 1
 cryptozygosity
 cryptozygous
 chorographic
