@@ -21759,7 +21759,7 @@ airplot
 androids
 actinologue 1
 ady
-awninged
+awninged 1
 arteriole
 akey
 alchemist
