@@ -1754,7 +1754,7 @@ eyeground
 epornitically
 enols
 encephaloid
-endangium
+endangium 1
 exsanguination 1
 enginery
 enforced 1
