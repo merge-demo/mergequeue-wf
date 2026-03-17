@@ -20573,7 +20573,7 @@ correlativity 1
 celtophobe
 congenerous 1
 compendious
-compendium
+compendium 1
 cellarers
 compendiums
 contenders
