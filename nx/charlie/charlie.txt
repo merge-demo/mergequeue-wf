@@ -17109,7 +17109,7 @@ coachwise
 cully
 chaetognatha
 coachwright
-coact
+coact 1
 coacting
 coaction 1
 cytologic
