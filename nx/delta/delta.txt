@@ -1827,7 +1827,7 @@ deformability 1
 defeudalize
 debilitative
 danseuses
-devirginator
+devirginator 1
 debitum
 doctorship
 declaratory
