@@ -2320,7 +2320,7 @@ dermatologic
 disloign
 deceptiveness 1
 diplex
-dinichthyid
+dinichthyid 1
 drossing 1
 deafnesses
 dextrotropic
