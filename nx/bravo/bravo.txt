@@ -18411,6 +18411,6 @@ bagwash
 buttonweed
 bwanas
 bibbled
-banned
+banned 1
 bxs
 bached 1
