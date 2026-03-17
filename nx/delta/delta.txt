@@ -4930,7 +4930,7 @@ demotions 1
 deferent
 dysmeromorph
 diandrous
-daystar
+daystar 1
 discreated
 demarking
 dimethyltryptamine
