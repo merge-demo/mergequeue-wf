@@ -17806,7 +17806,7 @@ alpujarra
 annexed
 amobarbital
 autolith
-afterguns
+afterguns 1
 apppetible 1
 atmans
 aheap 1
