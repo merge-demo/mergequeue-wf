@@ -7405,7 +7405,7 @@ fluidism
 fabrications
 fiberboard
 fronds 1
-fluxer
+fluxer 1
 fostress 1
 fetting
 frowy
