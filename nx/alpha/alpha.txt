@@ -4499,7 +4499,7 @@ agglomerator
 alburnums
 anima
 accumulable
-adversities
+adversities 1
 aliptes
 axotomous
 aporia
