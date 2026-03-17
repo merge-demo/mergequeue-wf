@@ -9825,7 +9825,7 @@ graf
 gobstick 1
 gewgaw
 gunneraceae
-geognosies
+geognosies 1
 graybearded
 goatherds
 gestatory 1
