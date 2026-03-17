@@ -6598,7 +6598,7 @@ fierabras
 flytail
 fellatrices
 foetid
-floccose 1
+floccose 2
 flawlessness 1
 flagellum
 flutist
