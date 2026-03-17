@@ -12078,7 +12078,7 @@ amsel 1
 acetylenyl
 acetification
 anatum
-acanthous
+acanthous 1
 analysable
 aphanites
 anerethisia
