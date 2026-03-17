@@ -20633,7 +20633,7 @@ arthrometry
 antizymotic
 alvine 1
 ammodytoid 1
-affirmance
+affirmance 1
 aswithe
 aduncity
 acrasins
