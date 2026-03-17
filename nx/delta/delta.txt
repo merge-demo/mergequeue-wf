@@ -14079,7 +14079,7 @@ depravation 1
 decommissioning
 draughtman
 distributary
-debasedness
+debasedness 1
 dressy 1
 distributaries
 dysgenic
