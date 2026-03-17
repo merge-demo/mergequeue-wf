@@ -8051,7 +8051,7 @@ biconsonantal
 barnburner
 backseats
 biconvexity
-browband
+browband 1
 brickwork
 bicorn
 bourrelet
