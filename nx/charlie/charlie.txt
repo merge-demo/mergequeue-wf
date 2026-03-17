@@ -24782,7 +24782,7 @@ cyclothurus
 cabbing
 cheechakos
 coroscopy
-copulae
+copulae 1
 cooking
 copular
 copularium
