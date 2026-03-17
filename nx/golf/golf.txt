@@ -7312,7 +7312,7 @@ genocides 1
 grapholite
 goar
 gymnosophy
-galactan
+galactan 1
 grizzles 1
 gymnasisiums 1
 gamdia
