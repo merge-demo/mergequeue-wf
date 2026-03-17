@@ -2082,7 +2082,7 @@ camouflagic
 coincidence 1
 companionship
 cruddle
-camouflaging
+camouflaging 1
 combats
 chandlery
 collapsar
