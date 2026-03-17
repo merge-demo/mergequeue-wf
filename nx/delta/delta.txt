@@ -4722,7 +4722,7 @@ democraw
 drastically
 decarbonization
 declarations 2
-deityship
+deityship 1
 decodable 1
 demodectic
 disarticulate
