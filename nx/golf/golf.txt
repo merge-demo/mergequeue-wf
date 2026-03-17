@@ -8315,7 +8315,7 @@ grappa 1
 grandaunts
 gruff
 gentians
-gibberish
+gibberish 1
 gangrel
 grime
 girding 1
