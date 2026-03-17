@@ -22736,7 +22736,7 @@ averruncation
 athletism 1
 athlothetes
 avelonge
-applauds
+applauds 1
 ascared
 antigonococcic
 annumerate
