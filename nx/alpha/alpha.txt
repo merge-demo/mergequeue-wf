@@ -10692,7 +10692,7 @@ atacaman
 anorexias 1
 asphyxiant
 anticapitalists
-alzheimer
+alzheimer 1
 amphibological
 abhiseka 1
 ammocoetes
