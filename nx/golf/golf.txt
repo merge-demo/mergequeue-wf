@@ -3647,7 +3647,7 @@ giantkind
 gudgeoning 1
 gynandria
 gynaecomorphous
-georgie
+georgie 1
 galvanize
 garishness
 gangwa 1
