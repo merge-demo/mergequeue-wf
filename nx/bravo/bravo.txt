@@ -8310,7 +8310,7 @@ bureaucratically 1
 belittled
 bigeminum
 biconditional
-bedeafen
+bedeafen 1
 billie
 bowermaiden
 boche
