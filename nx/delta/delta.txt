@@ -12214,7 +12214,7 @@ dysphonic 1
 disrelate 1
 disfoliaged
 distich
-dreamless
+dreamless 1
 descendibility 1
 discifloral
 dilker 1
