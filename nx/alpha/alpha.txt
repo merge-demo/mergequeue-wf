@@ -11327,7 +11327,7 @@ anime
 amputees 1
 apperceiving
 artilleries
-amrit
+amrit 1
 ajugas
 aptyalia
 attendants
