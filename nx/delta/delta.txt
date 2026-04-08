@@ -2633,7 +2633,7 @@ decomposers
 daddocky
 digne
 dogwatches
-decompoundable
+decompoundable 1
 decompoundly
 desmoma
 dasypygal
